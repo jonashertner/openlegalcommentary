@@ -1,0 +1,186 @@
+---
+// site/src/pages/changelog.astro
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+import yaml from 'js-yaml';
+import type { ArticleMeta, LayerMeta } from '../lib/content';
+
+const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../../content');
+
+// Scan all articles for recently updated layers
+interface ChangeEntry {
+  date: string;
+  law: string;
+  article: number;
+  suffix: string;
+  layer: string;
+  version: number;
+  slug: string;
+}
+
+const changes: ChangeEntry[] = [];
+
+const lawDirs = fs.readdirSync(CONTENT_ROOT, { withFileTypes: true })
+  .filter((e) => e.isDirectory())
+  .map((e) => e.name);
+
+for (const lawDir of lawDirs) {
+  const lawPath = path.join(CONTENT_ROOT, lawDir);
+  const artDirs = fs.readdirSync(lawPath, { withFileTypes: true })
+    .filter((e) => e.isDirectory() && e.name.startsWith('art-'));
+
+  for (const artDir of artDirs) {
+    const metaPath = path.join(lawPath, artDir.name, 'meta.yaml');
+    try {
+      const raw = fs.readFileSync(metaPath, 'utf-8');
+      const meta = yaml.load(raw) as ArticleMeta;
+      if (!meta.layers) continue;
+
+      const match = artDir.name.match(/^art-(\d+)([a-z]*)$/);
+      if (!match) continue;
+      const num = parseInt(match[1], 10);
+      const suffix = match[2] || '';
+      const slug = `art-${num}${suffix}`;
+
+      for (const [layerName, layerMeta] of Object.entries(meta.layers)) {
+        const lm = layerMeta as LayerMeta;
+        if (lm.last_generated) {
+          changes.push({
+            date: lm.last_generated,
+            law: meta.law,
+            article: meta.article,
+            suffix: meta.article_suffix || '',
+            layer: layerName,
+            version: lm.version || 1,
+            slug,
+          });
+        }
+      }
+    } catch {
+      // Skip articles with invalid meta
+    }
+  }
+}
+
+// Sort by date descending
+changes.sort((a, b) => b.date.localeCompare(a.date));
+
+// Group by date
+const byDate = new Map<string, ChangeEntry[]>();
+for (const change of changes) {
+  if (!byDate.has(change.date)) byDate.set(change.date, []);
+  byDate.get(change.date)!.push(change);
+}
+
+const dates = Array.from(byDate.keys()).sort().reverse();
+
+const layerLabels: Record<string, string> = {
+  summary: 'Uebersicht',
+  doctrine: 'Doktrin',
+  caselaw: 'Rechtsprechung',
+};
+---
+
+<Base title="Changelog" description="Taegliches Aenderungsprotokoll der Kommentare.">
+  <Breadcrumb items={[{ label: 'Changelog' }]} />
+
+  <article class="changelog-page content-column">
+    <h1>Changelog</h1>
+    <p class="text-secondary">Aenderungsprotokoll aller Kommentar-Updates.</p>
+
+    {dates.length === 0 ? (
+      <p class="text-muted">Noch keine Aenderungen erfasst.</p>
+    ) : (
+      dates.map((date) => {
+        const entries = byDate.get(date)!;
+        return (
+          <section class="changelog-day">
+            <h2 class="changelog-date font-mono">{date}</h2>
+            <ul class="changelog-entries">
+              {entries.map((entry) => (
+                <li>
+                  <a href={`/${entry.law.toLowerCase()}/${entry.slug}?layer=${entry.layer}`}>
+                    <span class="change-law font-heading">{entry.law}</span>
+                    <span class="change-article">
+                      Art.&nbsp;{entry.article}{entry.suffix}
+                    </span>
+                    <span class="change-layer text-sm text-muted">
+                      {layerLabels[entry.layer] || entry.layer}
+                    </span>
+                    <span class="change-version text-xs font-mono text-muted">
+                      v{entry.version}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        );
+      })
+    )}
+  </article>
+</Base>
+
+<style>
+  .changelog-page h1 {
+    margin-bottom: var(--space-1);
+  }
+
+  .changelog-day {
+    margin-top: var(--space-4);
+  }
+
+  .changelog-date {
+    font-size: var(--text-md);
+    color: var(--color-accent);
+    margin-bottom: var(--space-2);
+    padding-bottom: var(--space-1);
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .changelog-entries {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .changelog-entries li {
+    margin: 0;
+  }
+
+  .changelog-entries a {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: 6px var(--space-1);
+    text-decoration: none;
+    color: var(--color-text);
+    border-radius: 4px;
+    transition: background var(--transition-fast);
+    font-size: var(--text-sm);
+  }
+
+  .changelog-entries a:hover {
+    background: var(--color-bg-alt);
+  }
+
+  .change-law {
+    font-weight: 600;
+    min-width: 50px;
+    color: var(--color-accent);
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+  }
+
+  .change-article {
+    min-width: 80px;
+    font-family: var(--font-mono);
+    font-size: var(--text-sm);
+  }
+
+  .change-layer {
+    flex: 1;
+  }
+</style>
