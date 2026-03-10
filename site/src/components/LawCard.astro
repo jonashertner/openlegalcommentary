@@ -1,0 +1,124 @@
+---
+// site/src/components/LawCard.astro
+import type { LawInfo } from '../lib/laws';
+import type { LawStats } from '../lib/content';
+
+export interface Props {
+  law: LawInfo;
+  stats: LawStats;
+}
+
+const { law, stats } = Astro.props;
+const href = `/${law.abbr.toLowerCase()}`;
+const pct = stats.totalArticles > 0
+  ? Math.round((stats.withContent / stats.totalArticles) * 100)
+  : 0;
+---
+
+<a href={href} class="law-card">
+  <div class="law-card-header">
+    <span class="law-abbr">{law.abbr}</span>
+    <span class="law-sr text-xs font-mono text-muted">SR {law.sr}</span>
+  </div>
+  <h2 class="law-name">{law.name}</h2>
+  <p class="law-desc text-sm text-secondary">{law.description}</p>
+  <div class="law-stats">
+    <div class="stat">
+      <span class="stat-value">{stats.totalArticles}</span>
+      <span class="stat-label text-xs">Artikel</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value">{stats.withContent}</span>
+      <span class="stat-label text-xs">Kommentiert</span>
+    </div>
+    <div class="stat-bar" title={`${pct}% kommentiert`}>
+      <div class="stat-bar-fill" style={`width: ${pct}%`}></div>
+    </div>
+  </div>
+</a>
+
+<style>
+  .law-card {
+    display: flex;
+    flex-direction: column;
+    padding: var(--space-3);
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border-light);
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  .law-card:hover {
+    border-color: var(--color-accent);
+    box-shadow: var(--shadow-md);
+  }
+
+  .law-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: var(--space-1);
+  }
+
+  .law-abbr {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: var(--text-lg);
+    color: var(--color-accent);
+  }
+
+  .law-name {
+    font-size: var(--text-md);
+    font-weight: 600;
+    margin: 0 0 var(--space-1) 0;
+  }
+
+  .law-desc {
+    flex: 1;
+    margin-bottom: var(--space-2);
+  }
+
+  .law-stats {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding-top: var(--space-2);
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .stat-value {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: var(--text-md);
+  }
+
+  .stat-label {
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .stat-bar {
+    flex: 1;
+    height: 4px;
+    background: var(--color-bg-alt);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .stat-bar-fill {
+    height: 100%;
+    background: var(--color-accent);
+    border-radius: 2px;
+    transition: width var(--transition-base);
+    min-width: 2px;
+  }
+</style>

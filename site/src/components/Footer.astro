@@ -1,0 +1,100 @@
+---
+// site/src/components/Footer.astro
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="footer-inner page-wrapper">
+    <div class="footer-content">
+      <div class="footer-section">
+        <p class="footer-brand font-heading">Open Legal Commentary</p>
+        <p class="text-sm text-muted">
+          Open-access, AI-generated legal commentary on Swiss federal law.
+        </p>
+      </div>
+      <div class="footer-section">
+        <p class="footer-heading font-heading">Links</p>
+        <ul class="footer-links">
+          <li><a href="/about">About</a></li>
+          <li><a href="/changelog">Changelog</a></li>
+          <li><a href="https://github.com/openlegalcommentary" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a></li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <p class="footer-heading font-heading">Legal</p>
+        <ul class="footer-links">
+          <li><a href="https://github.com/openlegalcommentary/openlegalcommentary/blob/main/LICENSE-CONTENT">CC BY-SA 4.0</a></li>
+          <li><a href="https://github.com/openlegalcommentary/openlegalcommentary/blob/main/LICENSE-CODE">MIT License</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p class="text-xs text-muted">
+        &copy; {year} openlegalcommentary.ch &mdash; Content: CC BY-SA 4.0, Code: MIT
+      </p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    border-top: 1px solid var(--color-border-light);
+    padding: var(--space-5) 0 var(--space-4);
+    margin-top: auto;
+  }
+
+  .footer-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: var(--space-4);
+    margin-bottom: var(--space-4);
+  }
+
+  .footer-brand {
+    font-weight: 600;
+    font-size: var(--text-md);
+    margin-bottom: var(--space-1);
+  }
+
+  .footer-heading {
+    font-weight: 600;
+    font-size: var(--text-sm);
+    margin-bottom: var(--space-1);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-secondary);
+  }
+
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .footer-links li {
+    margin-bottom: 4px;
+  }
+
+  .footer-links a {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    text-decoration: none;
+  }
+
+  .footer-links a:hover {
+    color: var(--color-text);
+  }
+
+  .footer-bottom {
+    border-top: 1px solid var(--color-border-light);
+    padding-top: var(--space-2);
+  }
+
+  @media (max-width: 768px) {
+    .footer-content {
+      grid-template-columns: 1fr;
+      gap: var(--space-3);
+    }
+  }
+</style>
