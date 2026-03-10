@@ -1,0 +1,191 @@
+---
+// site/src/pages/[law]/index.astro
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import { LAWS, getLawByAbbr } from '../../lib/laws';
+import { listArticles, getLawStats } from '../../lib/content';
+
+export function getStaticPaths() {
+  return LAWS.map((law) => ({
+    params: { law: law.abbr.toLowerCase() },
+  }));
+}
+
+const { law: lawParam } = Astro.params;
+const lawInfo = getLawByAbbr(lawParam!);
+
+if (!lawInfo) {
+  return Astro.redirect('/');
+}
+
+const articles = listArticles(lawInfo.abbr);
+const stats = getLawStats(lawInfo.abbr);
+
+// Group articles by "hundred" for large laws, or show flat list
+const useGrouping = articles.length > 50;
+
+interface ArticleGroup {
+  label: string;
+  articles: typeof articles;
+}
+
+let groups: ArticleGroup[] = [];
+
+if (useGrouping) {
+  const grouped = new Map<number, typeof articles>();
+  for (const art of articles) {
+    const group = Math.floor((art.meta.article - 1) / 100);
+    if (!grouped.has(group)) grouped.set(group, []);
+    grouped.get(group)!.push(art);
+  }
+  groups = Array.from(grouped.entries())
+    .sort(([a], [b]) => a - b)
+    .map(([group, arts]) => {
+      const start = group * 100 + 1;
+      const end = (group + 1) * 100;
+      return { label: `Art. ${start}–${end}`, articles: arts };
+    });
+} else {
+  groups = [{ label: '', articles }];
+}
+---
+
+<Base title={`${lawInfo.abbr} — ${lawInfo.name}`} description={lawInfo.fullTitle}>
+  <Breadcrumb items={[{ label: lawInfo.abbr }]} />
+
+  <header class="law-header">
+    <div class="law-header-top">
+      <h1>{lawInfo.abbr}</h1>
+      <span class="law-sr font-mono text-muted">SR {lawInfo.sr}</span>
+    </div>
+    <p class="law-full-title text-secondary">{lawInfo.fullTitle}</p>
+    <div class="law-meta text-sm text-muted font-heading">
+      <span>{stats.totalArticles} Artikel</span>
+      <span>&middot;</span>
+      <span>{stats.withContent} kommentiert</span>
+    </div>
+  </header>
+
+  <section class="toc">
+    <h2>Inhaltsverzeichnis</h2>
+
+    {groups.map((group) => (
+      <div class="toc-group">
+        {group.label && <h3 class="toc-group-label">{group.label}</h3>}
+        <ul class="toc-list">
+          {group.articles.map((art) => {
+            const suffix = art.meta.article_suffix || '';
+            const displayNum = `${art.meta.article}${suffix}`;
+            const hasContent = Object.keys(art.meta.layers).length > 0;
+            return (
+              <li class:list={['toc-item', { 'has-content': hasContent }]}>
+                <a href={`/${lawParam}/${art.slug}`}>
+                  <span class="toc-num font-mono">Art.&nbsp;{displayNum}</span>
+                  <span class="toc-title">{art.meta.title}</span>
+                  {hasContent && <span class="toc-badge" title="Kommentiert">●</span>}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    ))}
+  </section>
+</Base>
+
+<style>
+  .law-header {
+    margin-bottom: var(--space-4);
+    padding-bottom: var(--space-3);
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .law-header-top {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-2);
+  }
+
+  .law-header h1 {
+    color: var(--color-accent);
+    margin-bottom: var(--space-1);
+  }
+
+  .law-full-title {
+    font-size: var(--text-md);
+    margin-bottom: var(--space-1);
+  }
+
+  .law-meta {
+    display: flex;
+    gap: var(--space-1);
+  }
+
+  .toc h2 {
+    margin-bottom: var(--space-3);
+  }
+
+  .toc-group {
+    margin-bottom: var(--space-3);
+  }
+
+  .toc-group-label {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: var(--space-1);
+    margin-top: var(--space-3);
+    padding-bottom: var(--space-1);
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .toc-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2px;
+  }
+
+  .toc-item a {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    padding: 6px var(--space-1);
+    text-decoration: none;
+    color: var(--color-text);
+    border-radius: 4px;
+    transition: background var(--transition-fast);
+    font-size: var(--text-sm);
+  }
+
+  .toc-item a:hover {
+    background: var(--color-bg-alt);
+  }
+
+  .toc-num {
+    color: var(--color-text-muted);
+    min-width: 70px;
+    font-size: var(--text-xs);
+  }
+
+  .toc-title {
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .toc-badge {
+    color: var(--color-accent);
+    font-size: 8px;
+  }
+
+  @media (max-width: 768px) {
+    .toc-list {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
