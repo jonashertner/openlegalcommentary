@@ -27,8 +27,11 @@ def scaffold_article(
             layers={},
         )
         meta_path.write_text(meta.to_yaml())
+    elif title:
+        # Update title in existing meta.yaml if a real title is provided
+        _update_meta_title(meta_path, title)
     placeholders = {
-        "summary.md": f"# Uebersicht\n\nArt. {number}{suffix} {law} — {title}\n",
+        "summary.md": f"# Übersicht\n\nArt. {number}{suffix} {law} — {title}\n",
         "doctrine.md": f"# Doktrin\n\nArt. {number}{suffix} {law} — {title}\n",
         "caselaw.md": f"# Rechtsprechung\n\nArt. {number}{suffix} {law} — {title}\n",
     }
@@ -37,6 +40,25 @@ def scaffold_article(
         if not fp.exists():
             fp.write_text(content)
     return art_dir
+
+
+def _update_meta_title(meta_path: Path, new_title: str):
+    """Update the title in an existing meta.yaml if it's a placeholder."""
+    import yaml
+    try:
+        raw = meta_path.read_text()
+        meta = yaml.safe_load(raw)
+        if not meta or not isinstance(meta, dict):
+            return
+        old_title = meta.get("title", "")
+        # Only update if current title looks like a placeholder
+        if old_title.startswith("Art. ") or not old_title:
+            meta["title"] = new_title
+            meta_path.write_text(yaml.dump(
+                meta, default_flow_style=False, allow_unicode=True, sort_keys=False
+            ))
+    except Exception:
+        pass
 
 
 def scaffold_law(content_root, law, articles):

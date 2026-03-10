@@ -26,18 +26,47 @@ def parse_article_list_response(text: str) -> list[dict]:
             continue
         if re.match(r"^- Art\.\s+\d+\s*(?:–|—|-)\s*\d+", line):
             continue
-        match = re.match(r"^- Art\.\s+(\d+)\s*([a-z]*)", line)
+        match = re.match(r"^- Art\.\s+(\d+)\s*([a-z]*)\s*(.*)", line)
         if not match:
             continue
         number = int(match.group(1))
         suffix = match.group(2).strip()
+        rest = match.group(3).strip()
         raw = f"{number}{suffix}"
         if raw in seen:
             continue
         seen.add(raw)
-        articles.append({"number": number, "suffix": suffix, "raw": raw})
+        # Extract title from remaining text (skip amendment notes)
+        title = _extract_title(rest)
+        entry: dict = {"number": number, "suffix": suffix, "raw": raw}
+        if title:
+            entry["title"] = title
+        articles.append(entry)
     articles.sort(key=lambda a: (a["number"], a["suffix"]))
     return articles
+
+
+def _extract_title(text: str) -> str:
+    """Extract article title from MCP API response text, skipping amendment notes."""
+    if not text:
+        return ""
+    # Skip if it starts with amendment keywords
+    amendment_starts = (
+        "Eingefügt", "Fassung gemäss", "Aufgehoben", "Angenommen",
+        "in der Fassung", "In Kraft", "Berichtigt",
+    )
+    for prefix in amendment_starts:
+        if text.startswith(prefix):
+            return ""
+    # Remove trailing amendment text after the title
+    for marker in amendment_starts:
+        idx = text.find(marker)
+        if idx > 0:
+            text = text[:idx].strip()
+            break
+    # Remove footnote markers
+    text = re.sub(r"\d*\*\s*$", "", text).strip()
+    return text
 
 
 async def fetch_articles(law: str) -> list[dict]:

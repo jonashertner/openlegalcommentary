@@ -6,21 +6,16 @@ import ArticleTabs from '../../components/ArticleTabs.astro';
 import ArticlePagination from '../../components/ArticlePagination.astro';
 import LanguageSwitcher from '../../components/LanguageSwitcher.astro';
 import { LAWS, getLawByAbbr } from '../../lib/laws';
-import { listArticleDirs, loadArticle, slugToDirName, getArticleNav } from '../../lib/content';
+import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav } from '../../lib/content';
 
 export function getStaticPaths() {
   const paths: { params: { law: string; article: string } }[] = [];
 
   for (const law of LAWS) {
-    const dirs = listArticleDirs(law.abbr);
-    for (const dirName of dirs) {
-      const match = dirName.match(/^art-(\d+)([a-z]*)$/);
-      if (!match) continue;
-      const num = parseInt(match[1], 10);
-      const suffix = match[2] || '';
-      const slug = `art-${num}${suffix}`;
+    const articles = listArticles(law.abbr);
+    for (const art of articles) {
       paths.push({
-        params: { law: law.abbr.toLowerCase(), article: slug },
+        params: { law: law.abbr.toLowerCase(), article: art.slug },
       });
     }
   }

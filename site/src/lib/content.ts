@@ -5,9 +5,22 @@ import yaml from 'js-yaml';
 const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../..', 'content');
 const ARTICLE_LISTS_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_lists.json');
 
-let _articleListsCache: Record<string, { sr_number: string; article_count: number }> | null = null;
+interface ArticleListEntry {
+  number: number;
+  suffix: string;
+  raw: string;
+  title?: string;
+}
 
-function getArticleLists(): Record<string, { sr_number: string; article_count: number }> {
+interface ArticleListData {
+  sr_number: string;
+  article_count: number;
+  articles: ArticleListEntry[];
+}
+
+let _articleListsCache: Record<string, ArticleListData> | null = null;
+
+function getArticleLists(): Record<string, ArticleListData> {
   if (_articleListsCache) return _articleListsCache;
   try {
     const raw = fs.readFileSync(ARTICLE_LISTS_PATH, 'utf-8');
@@ -145,14 +158,43 @@ export function listArticleDirs(law: string): string[] {
 
 export function listArticles(law: string): { meta: ArticleMeta; dirName: string; slug: string }[] {
   const dirs = listArticleDirs(law);
-  const articles: { meta: ArticleMeta; dirName: string; slug: string }[] = [];
-  for (const dirName of dirs) {
-    const meta = loadArticleMeta(law, dirName);
-    if (meta) {
-      articles.push({ meta, dirName, slug: dirNameToSlug(dirName) });
+  if (dirs.length > 0) {
+    const articles: { meta: ArticleMeta; dirName: string; slug: string }[] = [];
+    for (const dirName of dirs) {
+      const meta = loadArticleMeta(law, dirName);
+      if (meta) {
+        articles.push({ meta, dirName, slug: dirNameToSlug(dirName) });
+      }
     }
+    return articles;
   }
-  return articles;
+
+  // Fallback: build article list from article_lists.json (no content dirs)
+  const lists = getArticleLists();
+  const lawData = lists[law.toUpperCase()];
+  if (!lawData) return [];
+
+  return lawData.articles.map((entry) => {
+    const num = entry.number;
+    const suffix = entry.suffix || '';
+    const dirName = `art-${String(num).padStart(3, '0')}${suffix}`;
+    const slug = `art-${num}${suffix}`;
+    const title = entry.title || `Art. ${num}${suffix} ${law}`;
+    const sr = lawData.sr_number;
+    const meta: ArticleMeta = {
+      law: law.toUpperCase(),
+      article: num,
+      article_suffix: suffix,
+      title,
+      sr_number: sr,
+      absatz_count: 1,
+      fedlex_url: '',
+      lexfind_url: '',
+      in_force_since: '',
+      layers: {},
+    };
+    return { meta, dirName, slug };
+  });
 }
 
 export function getLawStats(law: string): LawStats {
