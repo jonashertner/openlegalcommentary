@@ -1,0 +1,110 @@
+---
+// site/src/components/ArticlePagination.astro
+export interface Props {
+  law: string;
+  prev: { slug: string; title: string } | null;
+  next: { slug: string; title: string } | null;
+}
+
+const { law, prev, next } = Astro.props;
+---
+
+<nav class="article-pagination" aria-label="Artikelnavigation">
+  {prev ? (
+    <a href={`/${law}/${prev.slug}`} class="pagination-link pagination-prev">
+      <span class="pagination-arrow">&larr;</span>
+      <span class="pagination-meta">
+        <span class="pagination-direction text-xs">Vorheriger</span>
+        <span class="pagination-title">{prev.title}</span>
+      </span>
+    </a>
+  ) : <span />}
+
+  {next ? (
+    <a href={`/${law}/${next.slug}`} class="pagination-link pagination-next">
+      <span class="pagination-meta">
+        <span class="pagination-direction text-xs">Naechster</span>
+        <span class="pagination-title">{next.title}</span>
+      </span>
+      <span class="pagination-arrow">&rarr;</span>
+    </a>
+  ) : <span />}
+</nav>
+
+<style>
+  .article-pagination {
+    display: flex;
+    justify-content: space-between;
+    gap: var(--space-2);
+    margin-top: var(--space-5);
+    padding-top: var(--space-3);
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .pagination-link {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    text-decoration: none;
+    color: var(--color-text);
+    padding: var(--space-1) var(--space-2);
+    border: 1px solid var(--color-border-light);
+    border-radius: 6px;
+    max-width: 45%;
+    transition: border-color var(--transition-fast), background var(--transition-fast);
+  }
+
+  .pagination-link:hover {
+    border-color: var(--color-accent);
+    background: var(--color-bg-alt);
+  }
+
+  .pagination-next {
+    margin-left: auto;
+    text-align: right;
+  }
+
+  .pagination-arrow {
+    font-size: var(--text-lg);
+    color: var(--color-accent);
+    flex-shrink: 0;
+  }
+
+  .pagination-meta {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .pagination-direction {
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-family: var(--font-heading);
+  }
+
+  .pagination-title {
+    font-family: var(--font-heading);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  @media (max-width: 768px) {
+    .article-pagination {
+      flex-direction: column;
+    }
+
+    .pagination-link {
+      max-width: 100%;
+    }
+
+    .pagination-next {
+      margin-left: 0;
+      text-align: left;
+      flex-direction: row-reverse;
+    }
+  }
+</style>

@@ -1,0 +1,178 @@
+---
+// site/src/components/ArticleTabs.astro
+export interface Props {
+  summary: string;
+  doctrine: string;
+  caselaw: string;
+  activeTab?: string;
+}
+
+const { summary, doctrine, caselaw, activeTab = 'summary' } = Astro.props;
+---
+
+<div class="tabs-container" data-active-tab={activeTab}>
+  <div class="tabs-nav" role="tablist" aria-label="Kommentarebenen">
+    <button
+      role="tab"
+      id="tab-summary"
+      aria-controls="panel-summary"
+      aria-selected={activeTab === 'summary' ? 'true' : 'false'}
+      class:list={['tab-btn', { active: activeTab === 'summary' }]}
+      data-tab="summary"
+    >
+      Uebersicht
+    </button>
+    <button
+      role="tab"
+      id="tab-doctrine"
+      aria-controls="panel-doctrine"
+      aria-selected={activeTab === 'doctrine' ? 'true' : 'false'}
+      class:list={['tab-btn', { active: activeTab === 'doctrine' }]}
+      data-tab="doctrine"
+    >
+      Doktrin
+    </button>
+    <button
+      role="tab"
+      id="tab-caselaw"
+      aria-controls="panel-caselaw"
+      aria-selected={activeTab === 'caselaw' ? 'true' : 'false'}
+      class:list={['tab-btn', { active: activeTab === 'caselaw' }]}
+      data-tab="caselaw"
+    >
+      Rechtsprechung
+    </button>
+  </div>
+
+  <div
+    role="tabpanel"
+    id="panel-summary"
+    aria-labelledby="tab-summary"
+    class:list={['tab-panel', 'prose', { hidden: activeTab !== 'summary' }]}
+    data-panel="summary"
+  >
+    <Fragment set:html={summary} />
+  </div>
+
+  <div
+    role="tabpanel"
+    id="panel-doctrine"
+    aria-labelledby="tab-doctrine"
+    class:list={['tab-panel', 'prose', { hidden: activeTab !== 'doctrine' }]}
+    data-panel="doctrine"
+  >
+    <Fragment set:html={doctrine} />
+  </div>
+
+  <div
+    role="tabpanel"
+    id="panel-caselaw"
+    aria-labelledby="tab-caselaw"
+    class:list={['tab-panel', 'prose', { hidden: activeTab !== 'caselaw' }]}
+    data-panel="caselaw"
+  >
+    <Fragment set:html={caselaw} />
+  </div>
+</div>
+
+<style>
+  .tabs-nav {
+    display: flex;
+    gap: 0;
+    border-bottom: 2px solid var(--color-border-light);
+    margin-bottom: var(--space-3);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .tab-btn {
+    font-family: var(--font-heading);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--color-tab-inactive);
+    background: none;
+    border: none;
+    padding: var(--space-1) var(--space-2);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -2px;
+    white-space: nowrap;
+    transition: color var(--transition-fast), border-color var(--transition-fast);
+  }
+
+  .tab-btn:hover {
+    color: var(--color-text);
+  }
+
+  .tab-btn.active {
+    color: var(--color-tab-active);
+    border-bottom-color: var(--color-accent);
+    font-weight: 600;
+  }
+
+  .tab-panel {
+    padding: var(--space-2) 0;
+  }
+
+  .tab-panel.hidden {
+    display: none;
+  }
+
+  @media (max-width: 768px) {
+    .tab-btn {
+      flex: 1;
+      text-align: center;
+      padding: var(--space-1);
+      font-size: var(--text-xs);
+    }
+  }
+</style>
+
+<script>
+  // Tab switching with URL parameter support
+  function initTabs() {
+    const container = document.querySelector('.tabs-container');
+    if (!container) return;
+
+    const buttons = container.querySelectorAll<HTMLButtonElement>('.tab-btn');
+    const panels = container.querySelectorAll<HTMLElement>('.tab-panel');
+
+    function switchTab(tabName: string) {
+      buttons.forEach((btn) => {
+        const isActive = btn.dataset.tab === tabName;
+        btn.classList.toggle('active', isActive);
+        btn.setAttribute('aria-selected', String(isActive));
+      });
+
+      panels.forEach((panel) => {
+        const isActive = panel.dataset.panel === tabName;
+        panel.classList.toggle('hidden', !isActive);
+      });
+
+      // Update URL without reload
+      const url = new URL(window.location.href);
+      if (tabName === 'summary') {
+        url.searchParams.delete('layer');
+      } else {
+        url.searchParams.set('layer', tabName);
+      }
+      history.replaceState({}, '', url.toString());
+    }
+
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const tab = btn.dataset.tab;
+        if (tab) switchTab(tab);
+      });
+    });
+
+    // Check URL for initial tab
+    const params = new URLSearchParams(window.location.search);
+    const layer = params.get('layer');
+    if (layer && ['summary', 'doctrine', 'caselaw'].includes(layer)) {
+      switchTab(layer);
+    }
+  }
+
+  initTabs();
+</script>

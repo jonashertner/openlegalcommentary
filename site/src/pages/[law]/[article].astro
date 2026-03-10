@@ -1,0 +1,185 @@
+---
+// site/src/pages/[law]/[article].astro
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import ArticleTabs from '../../components/ArticleTabs.astro';
+import ArticlePagination from '../../components/ArticlePagination.astro';
+import { LAWS, getLawByAbbr } from '../../lib/laws';
+import { listArticleDirs, loadArticle, slugToDirName, getArticleNav } from '../../lib/content';
+
+export function getStaticPaths() {
+  const paths: { params: { law: string; article: string } }[] = [];
+
+  for (const law of LAWS) {
+    const dirs = listArticleDirs(law.abbr);
+    for (const dirName of dirs) {
+      const match = dirName.match(/^art-(\d+)([a-z]*)$/);
+      if (!match) continue;
+      const num = parseInt(match[1], 10);
+      const suffix = match[2] || '';
+      const slug = `art-${num}${suffix}`;
+      paths.push({
+        params: { law: law.abbr.toLowerCase(), article: slug },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { law: lawParam, article: articleSlug } = Astro.params;
+const lawInfo = getLawByAbbr(lawParam!);
+if (!lawInfo) return Astro.redirect('/');
+
+const dirName = slugToDirName(articleSlug!);
+const articleData = loadArticle(lawInfo.abbr, dirName);
+if (!articleData) return Astro.redirect(`/${lawParam}`);
+
+const { meta, summary, doctrine, caselaw } = articleData;
+const nav = getArticleNav(lawInfo.abbr, dirName);
+
+// Simple Markdown to HTML conversion
+function mdToHtml(md: string): string {
+  if (!md.trim()) return '<p class="text-muted">Noch kein Inhalt verfuegbar.</p>';
+
+  let html = md
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+    .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(
+      /\b(BGE\s+\d+\s+[IVX]+\s+\d+)/g,
+      (match) => {
+        const encoded = encodeURIComponent(match);
+        return `<a href="https://opencaselaw.ch/search?q=${encoded}" target="_blank" rel="noopener">${match}</a>`;
+      }
+    )
+    .replace(
+      /(?:→|↔)\s*Art\.\s*(\d+)([a-z]*)\s+(BV|ZGB|OR|ZPO|StGB|StPO|SchKG|VwVG)/g,
+      (match, num, suffix, law) => {
+        const lawLower = law.toLowerCase();
+        return `<a href="/${lawLower}/art-${parseInt(num)}${suffix}">${match}</a>`;
+      }
+    )
+    .replace(/^&gt; (.+)$/gm, '<blockquote><p>$1</p></blockquote>')
+    .replace(/\n\n/g, '</p><p>')
+    .replace(/\n/g, '<br/>');
+
+  if (!html.startsWith('<h') && !html.startsWith('<blockquote') && !html.startsWith('<ul') && !html.startsWith('<ol')) {
+    html = '<p>' + html + '</p>';
+  }
+
+  html = html.replace(/<p><\/p>/g, '');
+  html = html.replace(/<p>(<h[1-3]>)/g, '$1');
+  html = html.replace(/(<\/h[1-3]>)<\/p>/g, '$1');
+
+  return html;
+}
+
+const summaryHtml = mdToHtml(summary);
+const doctrineHtml = mdToHtml(doctrine);
+const caselawHtml = mdToHtml(caselaw);
+
+const articleDisplay = `Art. ${meta.article}${meta.article_suffix || ''} ${lawInfo.abbr}`;
+
+const layerParam = Astro.url.searchParams.get('layer') || 'summary';
+const activeTab = ['summary', 'doctrine', 'caselaw'].includes(layerParam) ? layerParam : 'summary';
+
+const layerMeta = meta.layers || {};
+const lastUpdated = Object.values(layerMeta)
+  .map((l) => l.last_generated)
+  .filter(Boolean)
+  .sort()
+  .pop();
+---
+
+<Base title={articleDisplay} description={`Kommentar zu ${articleDisplay}`}>
+  <Breadcrumb
+    items={[
+      { label: lawInfo.abbr, href: `/${lawParam}` },
+      { label: articleDisplay },
+    ]}
+  />
+
+  <article class="article-page content-column">
+    <header class="article-header">
+      <h1>{meta.title}</h1>
+      <div class="article-meta text-sm text-muted">
+        <a href={meta.fedlex_url} target="_blank" rel="noopener" class="fedlex-link font-mono">
+          Fedlex SR {meta.sr_number} &nearr;
+        </a>
+        {meta.absatz_count > 1 && (
+          <span>{meta.absatz_count} Absaetze</span>
+        )}
+        {meta.in_force_since && (
+          <span>In Kraft seit {meta.in_force_since}</span>
+        )}
+      </div>
+    </header>
+
+    <ArticleTabs
+      summary={summaryHtml}
+      doctrine={doctrineHtml}
+      caselaw={caselawHtml}
+      activeTab={activeTab}
+    />
+
+    {lastUpdated && (
+      <p class="article-updated text-xs text-muted">
+        Letzte Aktualisierung: {lastUpdated}
+      </p>
+    )}
+
+    <ArticlePagination
+      law={lawParam!}
+      prev={nav.prev}
+      next={nav.next}
+    />
+  </article>
+</Base>
+
+<style>
+  .article-page {
+    padding-top: var(--space-2);
+  }
+
+  .article-header {
+    margin-bottom: var(--space-3);
+    padding-bottom: var(--space-2);
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .article-header h1 {
+    margin-bottom: var(--space-1);
+  }
+
+  .article-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    align-items: center;
+  }
+
+  .fedlex-link {
+    color: var(--color-text-muted);
+    text-decoration: none;
+    font-size: var(--text-xs);
+    padding: 2px 8px;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+  }
+
+  .fedlex-link:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+  }
+
+  .article-updated {
+    margin-top: var(--space-3);
+    text-align: right;
+  }
+</style>
