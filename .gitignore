@@ -8,3 +8,6 @@ dist/
 .pytest_cache/
 node_modules/
 .DS_Store
+content/*
+!content/.gitkeep
+bootstrap_state.json

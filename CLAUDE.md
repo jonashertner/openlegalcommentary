@@ -41,3 +41,8 @@ StGB (SR 311.0), StPO (SR 312.0), SchKG (SR 281.1), VwVG (SR 172.021)
 - `uv run python -m agents.pipeline daily` — run daily update pipeline
 - `uv run python -m agents.pipeline bootstrap` — bootstrap all articles (initial run)
 - `uv run python -m agents.pipeline single OR 41` — generate layers for one article
+- `uv run python -m agents.pipeline bootstrap --law OR` — bootstrap one law
+- `uv run python -m agents.pipeline bootstrap --max-budget 50` — bootstrap with budget limit
+- `uv run python -m agents.pipeline bootstrap --state-file state.json` — resume bootstrap from state
+- `uv run python -m scripts.scaffold_content` — scaffold content directories from article lists
+- `uv run python -m scripts.fetch_articles` — fetch article lists from opencaselaw
