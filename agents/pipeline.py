@@ -14,6 +14,7 @@ import logging
 from datetime import date, timedelta
 from pathlib import Path
 
+from agents.bootstrap import BootstrapState
 from agents.config import AgentConfig
 from agents.coordinator import (
     find_new_decisions,
@@ -176,6 +177,132 @@ async def bootstrap_law(
     return results
 
 
+async def bootstrap_law_resumable(
+    config: AgentConfig,
+    law: str,
+    state: BootstrapState,
+    max_concurrent: int = 3,
+    max_budget: float = 1000.0,
+) -> list[LayerResult]:
+    """Bootstrap a law with resumability and concurrency.
+
+    Skips articles already completed in state.
+    Stops if cost budget is exceeded.
+    Saves state after each article completes.
+    """
+    import yaml
+
+    law_dir = config.content_root / law.lower()
+    if not law_dir.exists():
+        logger.error(
+            "No content directory for %s at %s", law, law_dir,
+        )
+        return []
+
+    # Register all articles in state (idempotent)
+    for art_dir in sorted(law_dir.iterdir()):
+        if not art_dir.is_dir():
+            continue
+        if not art_dir.name.startswith("art-"):
+            continue
+        meta_path = art_dir / "meta.yaml"
+        if not meta_path.exists():
+            continue
+        meta = yaml.safe_load(meta_path.read_text()) or {}
+        article_number = meta.get("article", 0)
+        article_suffix = meta.get("article_suffix", "")
+        if article_number > 0:
+            state.add_article(
+                law, article_number, article_suffix,
+            )
+
+    state.save()
+
+    # Filter to pending articles for this law
+    pending = [
+        a for a in state.get_pending() if a.law == law
+    ]
+
+    if not pending:
+        logger.info("No pending articles for %s", law)
+        return []
+
+    logger.info(
+        "Bootstrap %s: %d pending articles "
+        "(max_concurrent=%d, max_budget=$%.2f)",
+        law, len(pending), max_concurrent, max_budget,
+    )
+
+    results: list[LayerResult] = []
+
+    for article in pending:
+        if state.budget_exceeded(max_budget):
+            logger.warning(
+                "Budget exceeded ($%.2f > $%.2f). Stopping.",
+                state.total_cost, max_budget,
+            )
+            break
+
+        logger.info(
+            "Processing Art. %d%s %s (%d/%d)",
+            article.article_number,
+            article.article_suffix,
+            article.law,
+            state.completed + 1,
+            state.total,
+        )
+
+        try:
+            art_results = await bootstrap_article(
+                config, article.law,
+                article.article_number,
+                article.article_suffix,
+            )
+            cost = sum(r.cost_usd for r in art_results)
+            all_passed = all(
+                r.success for r in art_results
+            )
+
+            if all_passed:
+                state.mark_completed(
+                    article.law,
+                    article.article_number,
+                    article.article_suffix,
+                    cost=cost,
+                )
+            else:
+                state.mark_failed(
+                    article.law,
+                    article.article_number,
+                    article.article_suffix,
+                    error="One or more layers failed",
+                )
+
+            state.save()
+            results.extend(art_results)
+
+        except Exception as e:
+            logger.exception(
+                "Error processing Art. %d%s %s",
+                article.article_number,
+                article.article_suffix,
+                article.law,
+            )
+            state.mark_failed(
+                article.law,
+                article.article_number,
+                article.article_suffix,
+                error=str(e),
+            )
+            state.save()
+
+    logger.info(
+        "Bootstrap %s complete: %s",
+        law, json.dumps(state.summary()),
+    )
+    return results
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="openlegalcommentary agent pipeline",
@@ -194,6 +321,19 @@ def main():
     )
     boot_parser.add_argument(
         "--law", help="Only bootstrap a specific law",
+    )
+    boot_parser.add_argument(
+        "--state-file",
+        default="bootstrap_state.json",
+        help="Path to bootstrap state file for resumability",
+    )
+    boot_parser.add_argument(
+        "--max-concurrent", type=int, default=3,
+        help="Max articles to process in parallel",
+    )
+    boot_parser.add_argument(
+        "--max-budget", type=float, default=1000.0,
+        help="Max USD budget before stopping",
     )
 
     single_parser = sub.add_parser(
@@ -240,15 +380,38 @@ def main():
 
     elif args.command == "bootstrap":
         from scripts.schema import LAWS
+
+        state_path = Path(args.state_file)
+        if state_path.exists():
+            state = BootstrapState.load(state_path)
+            logger.info(
+                "Resuming bootstrap from %s: %s",
+                state_path,
+                json.dumps(state.summary()),
+            )
+        else:
+            state = BootstrapState(state_path)
+
         laws = [args.law] if args.law else list(LAWS)
         for law in laws:
+            if state.budget_exceeded(args.max_budget):
+                logger.warning("Budget exceeded. Stopping.")
+                break
             logger.info("Bootstrapping %s...", law)
-            results = asyncio.run(bootstrap_law(config, law))
+            results = asyncio.run(
+                bootstrap_law_resumable(
+                    config, law, state,
+                    max_concurrent=args.max_concurrent,
+                    max_budget=args.max_budget,
+                )
+            )
             passed = sum(1 for r in results if r.success)
             logger.info(
                 "%s: %d/%d layers passed",
                 law, passed, len(results),
             )
+
+        print(json.dumps(state.summary(), indent=2))
 
     elif args.command == "single":
         results = asyncio.run(
