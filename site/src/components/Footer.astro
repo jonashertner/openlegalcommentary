@@ -5,65 +5,108 @@ const year = new Date().getFullYear();
 
 <footer class="site-footer">
   <div class="footer-inner page-wrapper">
-    <div class="footer-content">
-      <div class="footer-section">
-        <p class="footer-brand font-heading">Open Legal Commentary</p>
-        <p class="text-sm text-muted">
-          Open-access, AI-generated legal commentary on Swiss federal law.
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href={`${import.meta.env.BASE_URL}`} class="footer-logo">
+          <span class="footer-logo-mark" aria-hidden="true">§</span>
+          <span class="footer-logo-text">Open Legal Commentary</span>
+        </a>
+        <p class="footer-tagline">
+          Offener, KI-generierter Kommentar zum Schweizer Bundesrecht.
         </p>
       </div>
-      <div class="footer-section">
-        <p class="footer-heading font-heading">Links</p>
-        <ul class="footer-links">
-          <li><a href="/about">About</a></li>
-          <li><a href="/changelog">Changelog</a></li>
-          <li><a href="https://github.com/openlegalcommentary" target="_blank" rel="noopener">GitHub</a></li>
-          <li><a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a></li>
-        </ul>
-      </div>
-      <div class="footer-section">
-        <p class="footer-heading font-heading">Legal</p>
-        <ul class="footer-links">
-          <li><a href="https://github.com/openlegalcommentary/openlegalcommentary/blob/main/LICENSE-CONTENT">CC BY-SA 4.0</a></li>
-          <li><a href="https://github.com/openlegalcommentary/openlegalcommentary/blob/main/LICENSE-CODE">MIT License</a></li>
-        </ul>
+      <div class="footer-links-grid">
+        <div class="footer-section">
+          <p class="footer-heading">Kommentar</p>
+          <ul class="footer-links">
+            <li><a href={`${import.meta.env.BASE_URL}`}>Alle Gesetze</a></li>
+            <li><a href={`${import.meta.env.BASE_URL}/about`}>Über uns</a></li>
+            <li><a href={`${import.meta.env.BASE_URL}/changelog`}>Änderungen</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <p class="footer-heading">Projekt</p>
+          <ul class="footer-links">
+            <li><a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a></li>
+            <li><a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <p class="footer-heading">Lizenz</p>
+          <ul class="footer-links">
+            <li><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">Inhalte: CC BY-SA 4.0</a></li>
+            <li><a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">Code: MIT</a></li>
+          </ul>
+        </div>
       </div>
     </div>
     <div class="footer-bottom">
-      <p class="text-xs text-muted">
-        &copy; {year} openlegalcommentary.ch &mdash; Content: CC BY-SA 4.0, Code: MIT
-      </p>
+      <p>&copy; {year} openlegalcommentary.ch</p>
     </div>
   </div>
 </footer>
 
 <style>
   .site-footer {
-    border-top: 1px solid var(--color-border-light);
-    padding: var(--space-5) 0 var(--space-4);
+    border-top: 1px solid var(--color-border);
+    padding: var(--space-6) 0 var(--space-4);
     margin-top: auto;
+    background: var(--color-bg-alt);
   }
 
-  .footer-content {
-    display: grid;
-    grid-template-columns: 2fr 1fr 1fr;
-    gap: var(--space-4);
-    margin-bottom: var(--space-4);
+  .footer-top {
+    display: flex;
+    justify-content: space-between;
+    gap: var(--space-6);
+    margin-bottom: var(--space-5);
   }
 
   .footer-brand {
-    font-weight: 600;
-    font-size: var(--text-md);
-    margin-bottom: var(--space-1);
+    max-width: 280px;
+    flex-shrink: 0;
+  }
+
+  .footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: var(--color-text);
+    margin-bottom: var(--space-2);
+  }
+
+  .footer-logo-mark {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    color: var(--color-accent);
+  }
+
+  .footer-logo-text {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: var(--text-sm);
+    letter-spacing: -0.02em;
+  }
+
+  .footer-tagline {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    line-height: 1.5;
+  }
+
+  .footer-links-grid {
+    display: flex;
+    gap: var(--space-6);
   }
 
   .footer-heading {
+    font-family: var(--font-heading);
     font-weight: 600;
-    font-size: var(--text-sm);
-    margin-bottom: var(--space-1);
+    font-size: var(--text-xs);
     text-transform: uppercase;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.08em;
     color: var(--color-text-secondary);
+    margin-bottom: var(--space-2);
   }
 
   .footer-links {
@@ -73,13 +116,15 @@ const year = new Date().getFullYear();
   }
 
   .footer-links li {
-    margin-bottom: 4px;
+    margin-bottom: 6px;
   }
 
   .footer-links a {
+    font-family: var(--font-heading);
     font-size: var(--text-sm);
     color: var(--color-text-muted);
     text-decoration: none;
+    transition: color var(--transition-fast);
   }
 
   .footer-links a:hover {
@@ -87,13 +132,34 @@ const year = new Date().getFullYear();
   }
 
   .footer-bottom {
-    border-top: 1px solid var(--color-border-light);
-    padding-top: var(--space-2);
+    border-top: 1px solid var(--color-border);
+    padding-top: var(--space-3);
+  }
+
+  .footer-bottom p {
+    font-family: var(--font-heading);
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
   }
 
   @media (max-width: 768px) {
-    .footer-content {
-      grid-template-columns: 1fr;
+    .footer-top {
+      flex-direction: column;
+      gap: var(--space-4);
+    }
+
+    .footer-brand {
+      max-width: none;
+    }
+
+    .footer-links-grid {
+      gap: var(--space-4);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .footer-links-grid {
+      flex-direction: column;
       gap: var(--space-3);
     }
   }

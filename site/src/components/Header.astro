@@ -9,30 +9,32 @@ const { currentPath = '' } = Astro.props;
 
 <header class="site-header">
   <div class="header-inner page-wrapper">
-    <a href="/" class="site-logo">
-      <span class="logo-mark">§</span>
-      <span class="logo-text">Open Legal Commentary</span>
+    <a href={`${import.meta.env.BASE_URL}`} class="site-logo">
+      <span class="logo-mark" aria-hidden="true">§</span>
+      <span class="logo-text">
+        <span class="logo-title">Open Legal Commentary</span>
+      </span>
     </a>
 
     <nav class="site-nav" aria-label="Hauptnavigation">
-      <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Menu">
+      <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Menü öffnen">
         <span class="nav-toggle-bar"></span>
         <span class="nav-toggle-bar"></span>
         <span class="nav-toggle-bar"></span>
       </button>
       <ul id="nav-menu" class="nav-list" role="list">
-        <li><a href="/" class:list={[{ active: currentPath === '/' }]}>Gesetze</a></li>
-        <li><a href="/about" class:list={[{ active: currentPath === '/about' }]}>About</a></li>
-        <li><a href="/changelog" class:list={[{ active: currentPath === '/changelog' }]}>Changelog</a></li>
+        <li><a href={`${import.meta.env.BASE_URL}`} class:list={[{ active: currentPath === '/' || currentPath === import.meta.env.BASE_URL }]}>Gesetze</a></li>
+        <li><a href={`${import.meta.env.BASE_URL}/about`} class:list={[{ active: currentPath.includes('/about') }]}>Über uns</a></li>
+        <li><a href={`${import.meta.env.BASE_URL}/changelog`} class:list={[{ active: currentPath.includes('/changelog') }]}>Änderungen</a></li>
       </ul>
     </nav>
 
     <button class="theme-toggle" aria-label="Farbschema wechseln" title="Farbschema wechseln">
-      <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
         <circle cx="12" cy="12" r="5"/>
         <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
       </svg>
-      <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
       </svg>
     </button>
@@ -41,30 +43,29 @@ const { currentPath = '' } = Astro.props;
 
 <style>
   .site-header {
-    border-bottom: 1px solid var(--color-border-light);
+    border-bottom: 1px solid var(--color-border);
     background: var(--color-bg);
     position: sticky;
     top: 0;
     z-index: 100;
+    backdrop-filter: blur(12px);
+    background: color-mix(in srgb, var(--color-bg) 85%, transparent);
   }
 
   .header-inner {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 64px;
+    height: 60px;
     gap: var(--space-3);
   }
 
   .site-logo {
     display: flex;
     align-items: center;
-    gap: var(--space-1);
+    gap: 10px;
     text-decoration: none;
     color: var(--color-text);
-    font-family: var(--font-heading);
-    font-weight: 600;
-    font-size: var(--text-md);
     white-space: nowrap;
   }
 
@@ -72,14 +73,22 @@ const { currentPath = '' } = Astro.props;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 32px;
-    height: 32px;
+    width: 30px;
+    height: 30px;
     background: var(--color-accent);
     color: white;
     border-radius: 6px;
-    font-family: var(--font-body);
-    font-size: var(--text-lg);
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1;
+  }
+
+  .logo-title {
+    font-family: var(--font-heading);
     font-weight: 700;
+    font-size: var(--text-sm);
+    letter-spacing: -0.02em;
   }
 
   .site-nav {
@@ -90,7 +99,7 @@ const { currentPath = '' } = Astro.props;
   .nav-list {
     display: flex;
     list-style: none;
-    gap: var(--space-3);
+    gap: var(--space-1);
     padding: 0;
     margin: 0;
   }
@@ -99,23 +108,28 @@ const { currentPath = '' } = Astro.props;
     font-family: var(--font-heading);
     font-size: var(--text-sm);
     font-weight: 500;
-    color: var(--color-text-secondary);
+    color: var(--color-text-muted);
     text-decoration: none;
-    padding: var(--space-1) 0;
-    border-bottom: 2px solid transparent;
-    transition: color var(--transition-fast), border-color var(--transition-fast);
+    padding: 6px 12px;
+    border-radius: var(--radius-md);
+    transition: color var(--transition-fast), background var(--transition-fast);
   }
 
-  .nav-list a:hover,
+  .nav-list a:hover {
+    color: var(--color-text);
+    background: var(--color-bg-alt);
+  }
+
   .nav-list a.active {
     color: var(--color-text);
-    border-bottom-color: var(--color-accent);
+    background: var(--color-bg-alt);
+    font-weight: 600;
   }
 
   .nav-toggle {
     display: none;
     flex-direction: column;
-    gap: 4px;
+    gap: 5px;
     background: none;
     border: none;
     cursor: pointer;
@@ -124,32 +138,33 @@ const { currentPath = '' } = Astro.props;
 
   .nav-toggle-bar {
     display: block;
-    width: 20px;
-    height: 2px;
+    width: 18px;
+    height: 1.5px;
     background: var(--color-text);
-    transition: transform var(--transition-fast);
+    border-radius: 1px;
+    transition: transform var(--transition-fast), opacity var(--transition-fast);
   }
 
   .theme-toggle {
     background: none;
     border: 1px solid var(--color-border);
-    border-radius: 6px;
+    border-radius: var(--radius-md);
     cursor: pointer;
-    padding: 6px;
-    color: var(--color-text-secondary);
+    padding: 7px;
+    color: var(--color-text-muted);
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: color var(--transition-fast), border-color var(--transition-fast);
+    transition: color var(--transition-fast), border-color var(--transition-fast), background var(--transition-fast);
   }
 
   .theme-toggle:hover {
     color: var(--color-text);
-    border-color: var(--color-text-secondary);
+    border-color: var(--color-text-muted);
+    background: var(--color-bg-alt);
   }
 
   .icon-moon { display: none; }
-
   [data-theme='dark'] .icon-sun { display: none; }
   [data-theme='dark'] .icon-moon { display: block; }
 
@@ -159,41 +174,34 @@ const { currentPath = '' } = Astro.props;
   }
 
   @media (max-width: 768px) {
-    .logo-text {
-      display: none;
-    }
+    .logo-title { display: none; }
 
-    .nav-toggle {
-      display: flex;
-    }
+    .nav-toggle { display: flex; }
 
     .nav-list {
       display: none;
       position: absolute;
-      top: 64px;
+      top: 60px;
       left: 0;
       right: 0;
       background: var(--color-bg);
       border-bottom: 1px solid var(--color-border);
       flex-direction: column;
-      padding: var(--space-2) var(--space-4);
+      padding: var(--space-2) var(--space-3);
       gap: 0;
     }
 
-    .nav-list.open {
-      display: flex;
-    }
+    .nav-list.open { display: flex; }
 
     .nav-list a {
       display: block;
-      padding: var(--space-1) 0;
-      border-bottom: none;
+      padding: var(--space-1) var(--space-2);
+      border-radius: var(--radius-md);
     }
   }
 </style>
 
 <script>
-  // Theme toggle
   const toggle = document.querySelector('.theme-toggle');
   if (toggle) {
     toggle.addEventListener('click', () => {
@@ -205,7 +213,6 @@ const { currentPath = '' } = Astro.props;
     });
   }
 
-  // Mobile nav toggle
   const navToggle = document.querySelector('.nav-toggle');
   const navMenu = document.getElementById('nav-menu');
   if (navToggle && navMenu) {

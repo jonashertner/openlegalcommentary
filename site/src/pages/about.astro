@@ -5,7 +5,6 @@ import Breadcrumb from '../components/Breadcrumb.astro';
 import fs from 'node:fs';
 import path from 'node:path';
 
-// Read guidelines/global.md for the methodology section
 const guidelinesPath = path.resolve(import.meta.dirname, '../../../guidelines/global.md');
 let guidelinesContent = '';
 try {
@@ -14,51 +13,53 @@ try {
   guidelinesContent = '';
 }
 
-// Extract the Leitbild section
 const leitbildMatch = guidelinesContent.match(/## Leitbild\n\n([\s\S]*?)(?=\n---)/);
 const leitbild = leitbildMatch ? leitbildMatch[1].trim() : '';
 ---
 
-<Base title="About" description="Mission, Methodik und Richtlinien von Open Legal Commentary.">
-  <Breadcrumb items={[{ label: 'About' }]} />
+<Base title="Über uns" description="Mission, Methodik und Richtlinien von Open Legal Commentary.">
+  <Breadcrumb items={[{ label: 'Über uns' }]} />
 
   <article class="about-page content-column">
-    <h1>About Open Legal Commentary</h1>
+    <header class="about-header animate-fade-up">
+      <h1 class="display-font">Über das Projekt</h1>
+      <span class="accent-line-wide"></span>
+    </header>
 
-    <section class="about-section">
+    <section class="about-section animate-fade-up delay-1">
       <h2>Mission</h2>
       <p>
-        openlegalcommentary.ch macht das Schweizer Bundesrecht fuer alle zugaenglich.
-        Jeder Kommentarartikel ist auf drei Ebenen lesbar: als knapper Ueberblick,
-        als wissenschaftlich fundierte Doktrin und als vollstaendige Rechtsprechungsuebersicht.
+        openlegalcommentary.ch macht das Schweizer Bundesrecht für alle zugänglich.
+        Jeder Kommentarartikel ist auf drei Ebenen lesbar: als knapper Überblick,
+        als wissenschaftlich fundierte Doktrin und als vollständige Rechtsprechungsübersicht.
       </p>
       {leitbild && <p>{leitbild}</p>}
     </section>
 
-    <section class="about-section">
+    <section class="about-section animate-fade-up delay-2">
       <h2>Methodik</h2>
       <p>
         Die Kommentare werden mittels KI generiert und folgen strengen Redaktionsrichtlinien.
-        Jede Rechtsaussage ist auf eine Primaerquelle zurueckfuehrbar. Doktrinaere Positionen
-        werden praezise zugeschrieben. Mindermeinungen werden fair und vollstaendig dargestellt.
+        Jede Rechtsaussage ist auf eine Primärquelle zurückführbar. Doktrinäre Positionen
+        werden präzise zugeschrieben. Mindermeinungen werden fair und vollständig dargestellt.
       </p>
 
       <h3>Drei Ebenen</h3>
       <dl class="method-list">
-        <dt>Ebene 1 — Uebersicht (Summary)</dt>
-        <dd>Verstaendliche Zusammenfassung auf B1-Sprachniveau (150-300 Woerter). Was regelt die Norm? Wer ist betroffen? Was sind die Rechtsfolgen?</dd>
+        <dt>Ebene 1 — Übersicht (Summary)</dt>
+        <dd>Verständliche Zusammenfassung auf B1-Sprachniveau (150–300 Wörter). Was regelt die Norm? Wer ist betroffen? Was sind die Rechtsfolgen?</dd>
 
         <dt>Ebene 2 — Doktrin</dt>
-        <dd>Wissenschaftliche Analyse mit Randziffern (N. 1, N. 2, ...). Entstehungsgeschichte, systematische Einordnung, Tatbestandsmerkmale, Rechtsfolgen, Streitstaende.</dd>
+        <dd>Wissenschaftliche Analyse mit Randziffern (N. 1, N. 2, ...). Entstehungsgeschichte, systematische Einordnung, Tatbestandsmerkmale, Rechtsfolgen, Streitstände.</dd>
 
         <dt>Ebene 3 — Rechtsprechung</dt>
-        <dd>Vollstaendige BGE-Uebersicht, thematisch gruppiert. Pro Entscheid: BGE-Referenz, Leitsatz, Relevanz, Blockzitat der entscheidenden Passage.</dd>
+        <dd>Vollständige BGE-Übersicht, thematisch gruppiert. Pro Entscheid: BGE-Referenz, Leitsatz, Relevanz, Blockzitat der entscheidenden Passage.</dd>
       </dl>
     </section>
 
-    <section class="about-section">
+    <section class="about-section animate-fade-up delay-3">
       <h2>Abgedeckte Gesetze</h2>
-      <ul>
+      <ul class="law-list">
         <li><strong>BV</strong> — Bundesverfassung (SR 101)</li>
         <li><strong>ZGB</strong> — Zivilgesetzbuch (SR 210)</li>
         <li><strong>OR</strong> — Obligationenrecht (SR 220)</li>
@@ -70,7 +71,7 @@ const leitbild = leitbildMatch ? leitbildMatch[1].trim() : '';
       </ul>
     </section>
 
-    <section class="about-section">
+    <section class="about-section animate-fade-up delay-4">
       <h2>Zitierformat</h2>
       <p>Verbindliche Zitierformate:</p>
       <ul class="citation-examples font-mono text-sm">
@@ -81,7 +82,7 @@ const leitbild = leitbildMatch ? leitbildMatch[1].trim() : '';
       </ul>
     </section>
 
-    <section class="about-section">
+    <section class="about-section animate-fade-up delay-5">
       <h2>Lizenz</h2>
       <p>
         Inhalte stehen unter <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.
@@ -89,10 +90,10 @@ const leitbild = leitbildMatch ? leitbildMatch[1].trim() : '';
       </p>
     </section>
 
-    <section class="about-section">
+    <section class="about-section animate-fade-up delay-6">
       <h2>Kontakt</h2>
       <p>
-        Projekt auf <a href="https://github.com/openlegalcommentary" target="_blank" rel="noopener">GitHub</a>.
+        Projekt auf <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a>.
         Powered by <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a>.
       </p>
     </section>
@@ -100,6 +101,15 @@ const leitbild = leitbildMatch ? leitbildMatch[1].trim() : '';
 </Base>
 
 <style>
+  .about-header {
+    margin-bottom: var(--space-5);
+  }
+
+  .about-header h1 {
+    font-size: var(--text-3xl);
+    margin-bottom: var(--space-2);
+  }
+
   .about-section {
     margin-bottom: var(--space-4);
   }
@@ -123,11 +133,16 @@ const leitbild = leitbildMatch ? leitbildMatch[1].trim() : '';
     color: var(--color-text-secondary);
   }
 
+  .law-list li {
+    margin-bottom: 4px;
+  }
+
   .citation-examples {
     list-style: none;
-    padding: var(--space-2);
+    padding: var(--space-3);
     background: var(--color-code-bg);
-    border-radius: 6px;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border-light);
   }
 
   .citation-examples li {

@@ -9,31 +9,24 @@ export interface Props {
 }
 
 const { law, stats } = Astro.props;
-const href = `/${law.abbr.toLowerCase()}`;
-const pct = stats.totalArticles > 0
-  ? Math.round((stats.withContent / stats.totalArticles) * 100)
-  : 0;
+const href = `${import.meta.env.BASE_URL}/${law.abbr.toLowerCase()}`;
 ---
 
 <a href={href} class="law-card">
-  <div class="law-card-header">
-    <span class="law-abbr">{law.abbr}</span>
-    <span class="law-sr text-xs font-mono text-muted">SR {law.sr}</span>
+  <div class="law-card-top">
+    <div class="law-card-abbr-row">
+      <span class="law-abbr">{law.abbr}</span>
+      <span class="law-sr font-mono">{law.sr}</span>
+    </div>
+    <h2 class="law-name">{law.name}</h2>
+    <p class="law-desc">{law.description}</p>
   </div>
-  <h2 class="law-name">{law.name}</h2>
-  <p class="law-desc text-sm text-secondary">{law.description}</p>
-  <div class="law-stats">
-    <div class="stat">
-      <span class="stat-value">{stats.totalArticles}</span>
-      <span class="stat-label text-xs">Artikel</span>
+  <div class="law-card-bottom">
+    <div class="law-articles-count">
+      <span class="law-count-value">{stats.totalArticles}</span>
+      <span class="law-count-label">Artikel</span>
     </div>
-    <div class="stat">
-      <span class="stat-value">{stats.withContent}</span>
-      <span class="stat-label text-xs">Kommentiert</span>
-    </div>
-    <div class="stat-bar" title={`${pct}% kommentiert`}>
-      <div class="stat-bar-fill" style={`width: ${pct}%`}></div>
-    </div>
+    <span class="law-card-arrow" aria-hidden="true">&rarr;</span>
   </div>
 </a>
 
@@ -41,84 +34,123 @@ const pct = stats.totalArticles > 0
   .law-card {
     display: flex;
     flex-direction: column;
-    padding: var(--space-3);
+    justify-content: space-between;
+    padding: var(--space-3) var(--space-3) var(--space-2);
     background: var(--color-bg-card);
-    border: 1px solid var(--color-border-light);
-    border-radius: 8px;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
     text-decoration: none;
     color: var(--color-text);
-    transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+    transition: border-color var(--transition-base), box-shadow var(--transition-base), transform var(--transition-base);
+    min-height: 160px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .law-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--color-accent);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.4s var(--ease-out);
   }
 
   .law-card:hover {
     border-color: var(--color-accent);
-    box-shadow: var(--shadow-md);
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-2px);
   }
 
-  .law-card-header {
+  .law-card:hover::before {
+    transform: scaleX(1);
+  }
+
+  .law-card-top {
+    flex: 1;
+  }
+
+  .law-card-abbr-row {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: var(--space-1);
+    align-items: baseline;
+    gap: var(--space-1);
+    margin-bottom: 6px;
   }
 
   .law-abbr {
     font-family: var(--font-heading);
-    font-weight: 700;
-    font-size: var(--text-lg);
-    color: var(--color-accent);
+    font-weight: 800;
+    font-size: var(--text-xl);
+    color: var(--color-text);
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+
+  .law-sr {
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
   }
 
   .law-name {
-    font-size: var(--text-md);
+    font-size: var(--text-sm);
     font-weight: 600;
-    margin: 0 0 var(--space-1) 0;
+    margin: 0 0 4px 0;
+    line-height: 1.3;
   }
 
   .law-desc {
-    flex: 1;
-    margin-bottom: var(--space-2);
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
+    line-height: 1.4;
+    margin: 0;
   }
 
-  .law-stats {
+  .law-card-bottom {
     display: flex;
     align-items: center;
-    gap: var(--space-2);
+    justify-content: space-between;
     padding-top: var(--space-2);
     border-top: 1px solid var(--color-border-light);
+    margin-top: var(--space-2);
   }
 
-  .stat {
+  .law-articles-count {
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    align-items: baseline;
+    gap: 4px;
   }
 
-  .stat-value {
+  .law-count-value {
     font-family: var(--font-heading);
-    font-weight: 600;
+    font-weight: 700;
     font-size: var(--text-md);
+    color: var(--color-text);
   }
 
-  .stat-label {
+  .law-count-label {
+    font-family: var(--font-heading);
+    font-size: var(--text-xs);
     color: var(--color-text-muted);
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+    font-weight: 500;
   }
 
-  .stat-bar {
-    flex: 1;
-    height: 4px;
-    background: var(--color-bg-alt);
-    border-radius: 2px;
-    overflow: hidden;
+  .law-card-arrow {
+    font-size: var(--text-lg);
+    color: var(--color-text-muted);
+    transition: transform var(--transition-fast), color var(--transition-fast);
   }
 
-  .stat-bar-fill {
-    height: 100%;
-    background: var(--color-accent);
-    border-radius: 2px;
-    transition: width var(--transition-base);
-    min-width: 2px;
+  .law-card:hover .law-card-arrow {
+    transform: translateX(4px);
+    color: var(--color-accent);
+  }
+
+  .law-card:hover .law-abbr {
+    color: var(--color-accent);
+    transition: color var(--transition-base);
   }
 </style>

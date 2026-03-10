@@ -15,7 +15,7 @@ const { law: lawParam } = Astro.params;
 const lawInfo = getLawByAbbr(lawParam!);
 
 if (!lawInfo) {
-  return Astro.redirect('/');
+  return Astro.redirect(import.meta.env.BASE_URL);
 }
 
 const articles = listArticles(lawInfo.abbr);
@@ -79,7 +79,7 @@ if (useGrouping) {
             const hasContent = Object.keys(art.meta.layers).length > 0;
             return (
               <li class:list={['toc-item', { 'has-content': hasContent }]}>
-                <a href={`/${lawParam}/${art.slug}`}>
+                <a href={`${import.meta.env.BASE_URL}/${lawParam}/${art.slug}`}>
                   <span class="toc-num font-mono">Art.&nbsp;{displayNum}</span>
                   <span class="toc-title">{art.meta.title}</span>
                   {hasContent && <span class="toc-badge" title="Kommentiert">●</span>}

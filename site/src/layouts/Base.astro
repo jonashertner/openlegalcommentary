@@ -12,7 +12,7 @@ export interface Props {
 
 const {
   title,
-  description = 'Open-access, AI-generated legal commentary on Swiss federal law.',
+  description = 'Offener, KI-generierter Kommentar zum Schweizer Bundesrecht. Täglich aktualisiert.',
   currentPath = Astro.url.pathname,
 } = Astro.props;
 
@@ -28,13 +28,12 @@ const fullTitle = title === 'Home'
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <title>{fullTitle}</title>
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}/favicon.svg`} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Open Legal Commentary" />
     <script is:inline>
-      // Apply theme before render to prevent flash
       (function() {
         const saved = localStorage.getItem('theme');
         if (saved) {

@@ -3,6 +3,20 @@ import path from 'node:path';
 import yaml from 'js-yaml';
 
 const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../..', 'content');
+const ARTICLE_LISTS_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_lists.json');
+
+let _articleListsCache: Record<string, { sr_number: string; article_count: number }> | null = null;
+
+function getArticleLists(): Record<string, { sr_number: string; article_count: number }> {
+  if (_articleListsCache) return _articleListsCache;
+  try {
+    const raw = fs.readFileSync(ARTICLE_LISTS_PATH, 'utf-8');
+    _articleListsCache = JSON.parse(raw);
+    return _articleListsCache!;
+  } catch {
+    return {};
+  }
+}
 
 export interface LayerMeta {
   last_generated: string;
@@ -143,6 +157,11 @@ export function listArticles(law: string): { meta: ArticleMeta; dirName: string;
 
 export function getLawStats(law: string): LawStats {
   const dirs = listArticleDirs(law);
+  if (dirs.length === 0) {
+    const lists = getArticleLists();
+    const count = lists[law.toUpperCase()]?.article_count ?? 0;
+    return { totalArticles: count, completedArticles: 0, withContent: 0 };
+  }
   let withContent = 0;
   for (const dirName of dirs) {
     const artDir = path.join(CONTENT_ROOT, law.toLowerCase(), dirName);

@@ -9,7 +9,6 @@ import type { ArticleMeta, LayerMeta } from '../lib/content';
 
 const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../../content');
 
-// Scan all articles for recently updated layers
 interface ChangeEntry {
   date: string;
   law: string;
@@ -22,9 +21,14 @@ interface ChangeEntry {
 
 const changes: ChangeEntry[] = [];
 
-const lawDirs = fs.readdirSync(CONTENT_ROOT, { withFileTypes: true })
-  .filter((e) => e.isDirectory())
-  .map((e) => e.name);
+let lawDirs: string[] = [];
+try {
+  lawDirs = fs.readdirSync(CONTENT_ROOT, { withFileTypes: true })
+    .filter((e) => e.isDirectory())
+    .map((e) => e.name);
+} catch {
+  lawDirs = [];
+}
 
 for (const lawDir of lawDirs) {
   const lawPath = path.join(CONTENT_ROOT, lawDir);
@@ -64,10 +68,8 @@ for (const lawDir of lawDirs) {
   }
 }
 
-// Sort by date descending
 changes.sort((a, b) => b.date.localeCompare(a.date));
 
-// Group by date
 const byDate = new Map<string, ChangeEntry[]>();
 for (const change of changes) {
   if (!byDate.has(change.date)) byDate.set(change.date, []);
@@ -77,21 +79,26 @@ for (const change of changes) {
 const dates = Array.from(byDate.keys()).sort().reverse();
 
 const layerLabels: Record<string, string> = {
-  summary: 'Uebersicht',
+  summary: 'Übersicht',
   doctrine: 'Doktrin',
   caselaw: 'Rechtsprechung',
 };
 ---
 
-<Base title="Changelog" description="Taegliches Aenderungsprotokoll der Kommentare.">
-  <Breadcrumb items={[{ label: 'Changelog' }]} />
+<Base title="Änderungen" description="Tägliches Änderungsprotokoll der Kommentare.">
+  <Breadcrumb items={[{ label: 'Änderungen' }]} />
 
   <article class="changelog-page content-column">
-    <h1>Changelog</h1>
-    <p class="text-secondary">Aenderungsprotokoll aller Kommentar-Updates.</p>
+    <header class="changelog-header animate-fade-up">
+      <h1 class="display-font">Änderungen</h1>
+      <span class="accent-line-wide"></span>
+      <p class="text-secondary">Änderungsprotokoll aller Kommentar-Updates.</p>
+    </header>
 
     {dates.length === 0 ? (
-      <p class="text-muted">Noch keine Aenderungen erfasst.</p>
+      <div class="changelog-empty animate-fade-up delay-1">
+        <p class="text-muted">Noch keine Änderungen erfasst. Kommentare werden täglich generiert und aktualisiert.</p>
+      </div>
     ) : (
       dates.map((date) => {
         const entries = byDate.get(date)!;
@@ -101,7 +108,7 @@ const layerLabels: Record<string, string> = {
             <ul class="changelog-entries">
               {entries.map((entry) => (
                 <li>
-                  <a href={`/${entry.law.toLowerCase()}/${entry.slug}?layer=${entry.layer}`}>
+                  <a href={`${import.meta.env.BASE_URL}/${entry.law.toLowerCase()}/${entry.slug}?layer=${entry.layer}`}>
                     <span class="change-law font-heading">{entry.law}</span>
                     <span class="change-article">
                       Art.&nbsp;{entry.article}{entry.suffix}
@@ -124,8 +131,25 @@ const layerLabels: Record<string, string> = {
 </Base>
 
 <style>
-  .changelog-page h1 {
-    margin-bottom: var(--space-1);
+  .changelog-header {
+    margin-bottom: var(--space-5);
+  }
+
+  .changelog-header h1 {
+    font-size: var(--text-3xl);
+    margin-bottom: var(--space-2);
+  }
+
+  .changelog-header p {
+    margin-top: var(--space-2);
+  }
+
+  .changelog-empty {
+    padding: var(--space-6) var(--space-4);
+    text-align: center;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
   }
 
   .changelog-day {
@@ -137,7 +161,7 @@ const layerLabels: Record<string, string> = {
     color: var(--color-accent);
     margin-bottom: var(--space-2);
     padding-bottom: var(--space-1);
-    border-bottom: 1px solid var(--color-border-light);
+    border-bottom: 1px solid var(--color-border);
   }
 
   .changelog-entries {
@@ -154,10 +178,10 @@ const layerLabels: Record<string, string> = {
     display: flex;
     align-items: center;
     gap: var(--space-2);
-    padding: 6px var(--space-1);
+    padding: 8px var(--space-1);
     text-decoration: none;
     color: var(--color-text);
-    border-radius: 4px;
+    border-radius: var(--radius-md);
     transition: background var(--transition-fast);
     font-size: var(--text-sm);
   }

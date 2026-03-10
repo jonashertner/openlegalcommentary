@@ -14,7 +14,7 @@ const { items } = Astro.props;
 
 <nav aria-label="Breadcrumb" class="breadcrumb">
   <ol>
-    <li><a href="/">Home</a></li>
+    <li><a href={`${import.meta.env.BASE_URL}`}>Home</a></li>
     {items.map((item, i) => (
       <li>
         <span class="breadcrumb-sep" aria-hidden="true">/</span>
