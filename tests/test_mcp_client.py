@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import asyncio
-from unittest.mock import AsyncMock, patch
+from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
@@ -10,11 +10,11 @@ from agents.mcp_client import mcp_call
 
 
 def _mock_response(text: str):
-    resp = AsyncMock()
+    resp = MagicMock()
     resp.json.return_value = {
         "result": {"content": [{"type": "text", "text": text}]}
     }
-    resp.raise_for_status = lambda: None
+    resp.raise_for_status = MagicMock()
     return resp
 
 
@@ -35,9 +35,9 @@ def test_mcp_call_returns_text():
 
 
 def test_mcp_call_raises_on_error():
-    resp = AsyncMock()
+    resp = MagicMock()
     resp.json.return_value = {"error": {"code": -1, "message": "Not found"}}
-    resp.raise_for_status = lambda: None
+    resp.raise_for_status = MagicMock()
 
     with patch("agents.mcp_client.httpx.AsyncClient") as mock_client:
         mock_client.return_value.__aenter__ = AsyncMock(

@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import asyncio
-from unittest.mock import AsyncMock, patch
+from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
@@ -23,7 +23,7 @@ def tools():
 
 
 def test_get_article_text(tools):
-    mock_resp = AsyncMock()
+    mock_resp = MagicMock()
     mock_resp.json.return_value = _mock_mcp_response("Art. 41\n1 Wer einem andern...")
     mock_resp.raise_for_status = lambda: None
 
@@ -37,7 +37,7 @@ def test_get_article_text(tools):
 
 
 def test_search_decisions(tools):
-    mock_resp = AsyncMock()
+    mock_resp = MagicMock()
     mock_resp.json.return_value = _mock_mcp_response("1. BGE 130 III 182\n2. BGE 133 III 323")
     mock_resp.raise_for_status = lambda: None
 
@@ -53,7 +53,7 @@ def test_search_decisions(tools):
 
 
 def test_find_leading_cases(tools):
-    mock_resp = AsyncMock()
+    mock_resp = MagicMock()
     mock_resp.json.return_value = _mock_mcp_response("Leading: BGE 130 III 182")
     mock_resp.raise_for_status = lambda: None
 
@@ -69,7 +69,7 @@ def test_find_leading_cases(tools):
 
 
 def test_get_decision(tools):
-    mock_resp = AsyncMock()
+    mock_resp = MagicMock()
     mock_resp.json.return_value = _mock_mcp_response("BGE 130 III 182: Haftung...")
     mock_resp.raise_for_status = lambda: None
 
@@ -83,7 +83,7 @@ def test_get_decision(tools):
 
 
 def test_get_case_brief(tools):
-    mock_resp = AsyncMock()
+    mock_resp = MagicMock()
     mock_resp.json.return_value = _mock_mcp_response("Brief: Haftungsrecht...")
     mock_resp.raise_for_status = lambda: None
 
@@ -97,7 +97,7 @@ def test_get_case_brief(tools):
 
 
 def test_mcp_error_handling(tools):
-    mock_resp = AsyncMock()
+    mock_resp = MagicMock()
     mock_resp.json.return_value = {"error": {"code": -1, "message": "Tool not found"}}
     mock_resp.raise_for_status = lambda: None
 

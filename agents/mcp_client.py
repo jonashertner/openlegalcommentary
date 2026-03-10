@@ -22,7 +22,7 @@ async def mcp_call(
             headers={"Content-Type": "application/json"},
         )
         response.raise_for_status()
-        result = await response.json()
+        result = response.json()
         if "error" in result:
             raise RuntimeError(f"MCP error: {result['error']}")
         content = result.get("result", {}).get("content", [])
