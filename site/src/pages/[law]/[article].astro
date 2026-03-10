@@ -4,6 +4,7 @@ import Base from '../../layouts/Base.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import ArticleTabs from '../../components/ArticleTabs.astro';
 import ArticlePagination from '../../components/ArticlePagination.astro';
+import LanguageSwitcher from '../../components/LanguageSwitcher.astro';
 import { LAWS, getLawByAbbr } from '../../lib/laws';
 import { listArticleDirs, loadArticle, slugToDirName, getArticleNav } from '../../lib/content';
 
@@ -84,6 +85,33 @@ const summaryHtml = mdToHtml(summary);
 const doctrineHtml = mdToHtml(doctrine);
 const caselawHtml = mdToHtml(caselaw);
 
+// Determine available languages
+const availableLanguages = ['de'];
+const { translations } = articleData;
+const hasFr = translations.summary?.fr || translations.doctrine?.fr || translations.caselaw?.fr;
+const hasIt = translations.summary?.it || translations.doctrine?.it || translations.caselaw?.it;
+if (hasFr) availableLanguages.push('fr');
+if (hasIt) availableLanguages.push('it');
+
+// Pre-render translations to HTML
+const translatedContent: Record<string, { summary: string; doctrine: string; caselaw: string }> = {
+  de: { summary: summaryHtml, doctrine: doctrineHtml, caselaw: caselawHtml },
+};
+if (hasFr) {
+  translatedContent.fr = {
+    summary: mdToHtml(translations.summary?.fr || ''),
+    doctrine: mdToHtml(translations.doctrine?.fr || ''),
+    caselaw: mdToHtml(translations.caselaw?.fr || ''),
+  };
+}
+if (hasIt) {
+  translatedContent.it = {
+    summary: mdToHtml(translations.summary?.it || ''),
+    doctrine: mdToHtml(translations.doctrine?.it || ''),
+    caselaw: mdToHtml(translations.caselaw?.it || ''),
+  };
+}
+
 const articleDisplay = `Art. ${meta.article}${meta.article_suffix || ''} ${lawInfo.abbr}`;
 
 const layerParam = Astro.url.searchParams.get('layer') || 'summary';
@@ -120,6 +148,20 @@ const lastUpdated = Object.values(layerMeta)
         )}
       </div>
     </header>
+
+    {availableLanguages.length > 1 && (
+      <div class="article-lang">
+        <LanguageSwitcher currentLang="de" available={availableLanguages} />
+      </div>
+    )}
+
+    {availableLanguages.length > 1 && (
+      <script
+        id="translation-data"
+        type="application/json"
+        set:html={JSON.stringify(translatedContent)}
+      />
+    )}
 
     <ArticleTabs
       summary={summaryHtml}
@@ -182,4 +224,38 @@ const lastUpdated = Object.values(layerMeta)
     margin-top: var(--space-3);
     text-align: right;
   }
+
+  .article-lang {
+    margin-bottom: var(--space-2);
+  }
 </style>
+
+<script>
+  document.addEventListener('lang-change', (e: Event) => {
+    const { lang } = (e as CustomEvent).detail;
+    const dataEl = document.getElementById('translation-data');
+    if (!dataEl) return;
+
+    try {
+      const translations = JSON.parse(dataEl.textContent || '{}');
+      const content = translations[lang];
+      if (!content) return;
+
+      const panels = {
+        summary: document.querySelector('[data-panel="summary"]'),
+        doctrine: document.querySelector('[data-panel="doctrine"]'),
+        caselaw: document.querySelector('[data-panel="caselaw"]'),
+      };
+
+      for (const [key, panel] of Object.entries(panels)) {
+        if (panel && content[key]) {
+          // Content is server-rendered HTML from mdToHtml (input is HTML-escaped before markup is added)
+          // eslint-disable-next-line no-unsanitized/property
+          (panel as Element).innerHTML = content[key];
+        }
+      }
+    } catch {
+      // Ignore parse errors
+    }
+  });
+</script>

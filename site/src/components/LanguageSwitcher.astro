@@ -1,0 +1,88 @@
+---
+// site/src/components/LanguageSwitcher.astro
+export interface Props {
+  currentLang: string;
+  available: string[];
+}
+
+const { currentLang = 'de', available = ['de'] } = Astro.props;
+
+const labels: Record<string, string> = {
+  de: 'DE',
+  fr: 'FR',
+  it: 'IT',
+};
+---
+
+{available.length > 1 && (
+  <div class="lang-switcher" role="group" aria-label="Sprache">
+    {available.map((lang) => (
+      <button
+        class:list={['lang-btn', { active: lang === currentLang }]}
+        data-lang={lang}
+        aria-pressed={lang === currentLang ? 'true' : 'false'}
+      >
+        {labels[lang] || lang.toUpperCase()}
+      </button>
+    ))}
+  </div>
+)}
+
+<style>
+  .lang-switcher {
+    display: inline-flex;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  .lang-btn {
+    font-family: var(--font-heading);
+    font-size: var(--text-xs);
+    font-weight: 500;
+    padding: 4px 10px;
+    border: none;
+    background: none;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    transition: background var(--transition-fast), color var(--transition-fast);
+  }
+
+  .lang-btn:not(:last-child) {
+    border-right: 1px solid var(--color-border);
+  }
+
+  .lang-btn:hover {
+    background: var(--color-bg-alt);
+    color: var(--color-text);
+  }
+
+  .lang-btn.active {
+    background: var(--color-text);
+    color: var(--color-bg);
+  }
+</style>
+
+<script>
+  function initLangSwitcher() {
+    const buttons = document.querySelectorAll<HTMLButtonElement>('.lang-btn');
+    if (buttons.length === 0) return;
+
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const lang = btn.dataset.lang;
+        if (!lang) return;
+
+        buttons.forEach((b) => {
+          const isActive = b.dataset.lang === lang;
+          b.classList.toggle('active', isActive);
+          b.setAttribute('aria-pressed', String(isActive));
+        });
+
+        document.dispatchEvent(new CustomEvent('lang-change', { detail: { lang } }));
+      });
+    });
+  }
+
+  initLangSwitcher();
+</script>
