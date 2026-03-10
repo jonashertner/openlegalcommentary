@@ -1,7 +1,9 @@
 """Validate the content/ directory structure and metadata."""
 from __future__ import annotations
+
 from pathlib import Path
-from scripts.schema import ArticleMeta, LAWS
+
+from scripts.schema import LAWS, ArticleMeta
 
 REQUIRED_LAYERS = ("summary.md", "doctrine.md", "caselaw.md")
 LAW_DIRS = {law.lower(): law for law in LAWS}

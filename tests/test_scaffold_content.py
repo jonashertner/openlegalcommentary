@@ -1,5 +1,6 @@
+
 import pytest
-from pathlib import Path
+
 from scripts.scaffold_content import scaffold_article, scaffold_law
 from scripts.schema import ArticleMeta
 
@@ -30,7 +31,10 @@ def test_scaffold_article_does_not_overwrite(content_root):
 
 
 def test_scaffold_law(content_root):
-    articles = [{"number": 1, "suffix": "", "title": "Entstehung"}, {"number": 2, "suffix": "", "title": "Vertrag"}]
+    articles = [
+        {"number": 1, "suffix": "", "title": "Entstehung"},
+        {"number": 2, "suffix": "", "title": "Vertrag"},
+    ]
     scaffold_law(content_root, "OR", articles)
     assert (content_root / "or" / "art-001" / "meta.yaml").exists()
     assert (content_root / "or" / "art-002" / "meta.yaml").exists()

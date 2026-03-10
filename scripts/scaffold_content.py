@@ -1,11 +1,16 @@
 """Scaffold content directories for articles."""
 from __future__ import annotations
+
 from pathlib import Path
+
 from scripts.fetch_articles import article_dir_name
-from scripts.schema import ArticleMeta, SR_NUMBERS, LAW_ELI_PATHS
+from scripts.schema import LAW_ELI_PATHS, SR_NUMBERS, ArticleMeta
 
 
-def scaffold_article(content_root, law, number, suffix, title, absatz_count=1, lexfind_id=None, lexfind_url="", in_force_since=""):
+def scaffold_article(
+    content_root, law, number, suffix, title,
+    absatz_count=1, lexfind_id=None, lexfind_url="", in_force_since="",
+):
     dir_name = article_dir_name(number, suffix)
     art_dir = content_root / law.lower() / dir_name
     art_dir.mkdir(parents=True, exist_ok=True)
@@ -36,12 +41,16 @@ def scaffold_article(content_root, law, number, suffix, title, absatz_count=1, l
 
 def scaffold_law(content_root, law, articles):
     for article in articles:
-        scaffold_article(content_root, law, article["number"], article.get("suffix", ""), article.get("title", ""))
+        scaffold_article(
+            content_root, law, article["number"],
+            article.get("suffix", ""), article.get("title", ""),
+        )
 
 
 if __name__ == "__main__":
     import asyncio
     import json
+
     from scripts.fetch_articles import fetch_all_laws
     content_root = Path("content")
     cache_path = Path("scripts/article_lists.json")

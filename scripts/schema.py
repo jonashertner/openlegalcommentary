@@ -1,6 +1,8 @@
 """Content schema definitions for openlegalcommentary article metadata."""
 from __future__ import annotations
+
 from typing import Literal
+
 import yaml
 from pydantic import BaseModel, Field, field_validator
 
@@ -60,7 +62,10 @@ class ArticleMeta(BaseModel):
         return v
 
     def to_yaml(self) -> str:
-        return yaml.dump(self.model_dump(exclude_none=True), default_flow_style=False, allow_unicode=True, sort_keys=False)
+        return yaml.dump(
+            self.model_dump(exclude_none=True),
+            default_flow_style=False, allow_unicode=True, sort_keys=False,
+        )
 
     @classmethod
     def from_yaml(cls, yaml_str: str) -> ArticleMeta:

@@ -1,4 +1,5 @@
 import pytest
+
 from scripts.schema import ArticleMeta, LayerMeta
 
 
@@ -23,7 +24,10 @@ def test_valid_meta():
 
 def test_invalid_law_rejected():
     with pytest.raises(ValueError):
-        ArticleMeta(law="INVALID", article=1, title="Test", sr_number="999", absatz_count=1, fedlex_url="https://example.com", layers={})
+        ArticleMeta(
+            law="INVALID", article=1, title="Test", sr_number="999",
+            absatz_count=1, fedlex_url="https://example.com", layers={},
+        )
 
 
 def test_quality_score_bounds():
@@ -33,7 +37,10 @@ def test_quality_score_bounds():
 
 def test_article_number_positive():
     with pytest.raises(ValueError):
-        ArticleMeta(law="OR", article=0, title="Test", sr_number="220", absatz_count=1, fedlex_url="https://example.com", layers={})
+        ArticleMeta(
+            law="OR", article=0, title="Test", sr_number="220",
+            absatz_count=1, fedlex_url="https://example.com", layers={},
+        )
 
 
 def test_meta_to_yaml_roundtrip():

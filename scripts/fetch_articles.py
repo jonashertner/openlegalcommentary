@@ -1,11 +1,14 @@
 """Fetch article lists and legislation metadata via opencaselaw MCP server."""
 from __future__ import annotations
+
 import asyncio
 import json
 import re
 from pathlib import Path
+
 import httpx
-from scripts.schema import SR_NUMBERS, LAWS
+
+from scripts.schema import LAWS, SR_NUMBERS
 
 MCP_BASE = "https://mcp.opencaselaw.ch"
 
@@ -94,7 +97,11 @@ if __name__ == "__main__":
     results = asyncio.run(fetch_all_laws())
     output = {}
     for law, articles in results.items():
-        output[law] = {"sr_number": SR_NUMBERS[law], "article_count": len(articles), "articles": articles}
+        output[law] = {
+            "sr_number": SR_NUMBERS[law],
+            "article_count": len(articles),
+            "articles": articles,
+        }
     out_path = Path("scripts/article_lists.json")
     out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False))
     print(f"\nSaved to {out_path}")

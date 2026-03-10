@@ -1,8 +1,7 @@
-import pytest
 from scripts.fetch_articles import (
-    parse_article_list_response,
-    article_dir_name,
     LAWS,
+    article_dir_name,
+    parse_article_list_response,
 )
 
 

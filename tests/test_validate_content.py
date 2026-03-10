@@ -1,5 +1,6 @@
+
 import pytest
-from pathlib import Path
+
 from scripts.validate_content import validate_article_dir, validate_content_tree
 
 
@@ -26,8 +27,11 @@ def missing_layer(tmp_path):
     art_dir = tmp_path / "or" / "art-041"
     art_dir.mkdir(parents=True)
     (art_dir / "meta.yaml").write_text(
-        "law: OR\narticle: 41\ntitle: Test\nsr_number: '220'\nabsatz_count: 1\n"
-        "fedlex_url: https://example.com\nlayers:\n  summary:\n    last_generated: '2026-03-10'\n    version: 1\n"
+        "law: OR\narticle: 41\ntitle: Test\n"
+        "sr_number: '220'\nabsatz_count: 1\n"
+        "fedlex_url: https://example.com\n"
+        "layers:\n  summary:\n"
+        "    last_generated: '2026-03-10'\n    version: 1\n"
     )
     (art_dir / "summary.md").write_text("# Uebersicht\n\nTest.")
     (art_dir / "doctrine.md").write_text("# Doktrin\n\nTest.")
