@@ -38,3 +38,6 @@ StGB (SR 311.0), StPO (SR 312.0), SchKG (SR 281.1), VwVG (SR 172.021)
 - `uv run ruff check .` — lint
 - `uv run python scripts/validate_content.py` — validate content schema
 - `uv run python scripts/fetch_articles.py` — fetch article lists from opencaselaw
+- `uv run python -m agents.pipeline daily` — run daily update pipeline
+- `uv run python -m agents.pipeline bootstrap` — bootstrap all articles (initial run)
+- `uv run python -m agents.pipeline single OR 41` — generate layers for one article
