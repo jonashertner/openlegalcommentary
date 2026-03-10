@@ -6,8 +6,7 @@ import json
 import re
 from pathlib import Path
 
-import httpx
-
+from agents.mcp_client import mcp_call
 from scripts.schema import LAWS, SR_NUMBERS
 
 MCP_BASE = "https://mcp.opencaselaw.ch"
@@ -41,33 +40,16 @@ def parse_article_list_response(text: str) -> list[dict]:
     return articles
 
 
-async def _mcp_call(client: httpx.AsyncClient, tool: str, args: dict) -> str:
-    response = await client.post(
-        f"{MCP_BASE}/mcp",
-        json={"jsonrpc": "2.0", "id": 1, "method": "tools/call",
-              "params": {"name": tool, "arguments": args}},
-        headers={"Content-Type": "application/json"},
-    )
-    response.raise_for_status()
-    result = response.json()
-    if "error" in result:
-        raise RuntimeError(f"MCP error: {result['error']}")
-    content = result.get("result", {}).get("content", [])
-    return "\n".join(c["text"] for c in content if c.get("type") == "text")
-
-
 async def fetch_articles(law: str) -> list[dict]:
     if law not in LAWS:
         raise ValueError(f"Unknown law: {law}")
-    async with httpx.AsyncClient(timeout=120.0) as client:
-        text = await _mcp_call(client, "get_law", {"abbreviation": law})
-        return parse_article_list_response(text)
+    text = await mcp_call(MCP_BASE, "get_law", {"abbreviation": law})
+    return parse_article_list_response(text)
 
 
 async def fetch_legislation_metadata(law: str) -> dict:
     sr = SR_NUMBERS[law]
-    async with httpx.AsyncClient(timeout=60.0) as client:
-        text = await _mcp_call(client, "get_legislation", {"systematic_number": sr})
+    text = await mcp_call(MCP_BASE, "get_legislation", {"systematic_number": sr})
     meta: dict = {"sr_number": sr, "law": law}
     for line in text.splitlines():
         if line.startswith("**LexFind ID:**"):
