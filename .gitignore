@@ -11,3 +11,7 @@ node_modules/
 content/*
 !content/.gitkeep
 bootstrap_state.json
+# Site build output
+site/dist/
+site/node_modules/
+site/.astro/

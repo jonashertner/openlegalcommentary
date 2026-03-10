@@ -46,3 +46,6 @@ StGB (SR 311.0), StPO (SR 312.0), SchKG (SR 281.1), VwVG (SR 172.021)
 - `uv run python -m agents.pipeline bootstrap --state-file state.json` — resume bootstrap from state
 - `uv run python -m scripts.scaffold_content` — scaffold content directories from article lists
 - `uv run python -m scripts.fetch_articles` — fetch article lists from opencaselaw
+- `cd site && npm run dev` — start local dev server
+- `cd site && npm run build` — build static site to site/dist/
+- `cd site && npm run preview` — preview built site
