@@ -1105,6 +1105,18 @@ SR_NUMBERS: dict[str, str] = {
     "VwVG": "172.021",
 }
 
+# ELI paths for each law on Fedlex (historical compilation references).
+LAW_ELI_PATHS: dict[str, str] = {
+    "BV": "1999/404",
+    "ZGB": "24/233_245_233",
+    "OR": "27/317_321_377",
+    "ZPO": "2010/262",
+    "StGB": "54/757_781_799",
+    "StPO": "2010/267",
+    "SchKG": "11/529_488_529",
+    "VwVG": "1969/737_757_755",
+}
+
 LayerName = Literal["summary", "doctrine", "caselaw"]
 
 
@@ -1136,6 +1148,9 @@ class ArticleMeta(BaseModel):
     sr_number: str = Field(description="Systematic collection number")
     absatz_count: int = Field(ge=1, description="Number of paragraphs (Absätze)")
     fedlex_url: str = Field(description="URL to article on Fedlex")
+    lexfind_id: int | None = Field(default=None, description="LexFind ID for the law")
+    lexfind_url: str = Field(default="", description="URL to law on LexFind")
+    in_force_since: str = Field(default="", description="Date the current version entered into force")
     layers: dict[str, LayerMeta] = Field(
         default_factory=dict, description="Per-layer metadata"
     )
@@ -1395,15 +1410,18 @@ git commit -m "feat: add content directory validator with tests"
 
 ---
 
-## Chunk 5: Fedlex Article Enumerator
+## Chunk 5: Article Enumerator via opencaselaw MCP
 
-### Task 11: Fedlex HTML article enumerator
+The opencaselaw.ch MCP server already integrates with LexFind.ch and provides:
+- `get_law(abbreviation)` → full article list for any Swiss federal law
+- `get_law(abbreviation, article)` → full article text with paragraph numbering
+- `get_legislation(sr_number)` → LexFind metadata (LexFind ID, Fedlex URLs, in-force date)
+- `search_legislation(query)` → search across 33,000+ legislative texts
 
-The Fedlex SPARQL endpoint (`fedlex.data.admin.ch/sparqlendpoint`) does not reliably
-expose article-level data — the RDF model uses `jolux:LegalResourceSubdivision` with
-sparse coverage. Instead, we fetch the consolidated HTML law pages from Fedlex and
-parse article anchors from the DOM. This is reliable because Fedlex renders all articles
-with consistent `id="art_XX"` anchors in the HTML.
+This eliminates the need for separate Fedlex scraping. The opencaselaw MCP at
+`https://mcp.opencaselaw.ch` is the single data source for both law text and case law.
+
+### Task 11: opencaselaw MCP client for article enumeration
 
 **Files:**
 - Create: `scripts/fetch_articles.py`
@@ -1414,7 +1432,7 @@ with consistent `id="art_XX"` anchors in the HTML.
 
 Add to `pyproject.toml` under `[tool.pytest.ini_options]`:
 ```toml
-markers = ["network: requires network access to Fedlex"]
+markers = ["network: requires network access to opencaselaw MCP"]
 ```
 
 - [ ] **Step 2: Write tests for article fetcher**
@@ -1424,16 +1442,15 @@ Create `tests/test_fetch_articles.py`:
 ```python
 import pytest
 from scripts.fetch_articles import (
-    parse_articles_from_html,
+    parse_article_list_response,
     article_dir_name,
-    build_fedlex_url,
-    LAW_ELI_PATHS,
+    LAWS,
 )
 
 
-def test_law_eli_paths_has_all_laws():
+def test_laws_has_all_eight():
     expected = {"BV", "ZGB", "OR", "ZPO", "StGB", "StPO", "SchKG", "VwVG"}
-    assert set(LAW_ELI_PATHS.keys()) == expected
+    assert set(LAWS) == expected
 
 
 def test_article_dir_name():
@@ -1447,50 +1464,61 @@ def test_article_dir_name_with_suffix():
     assert article_dir_name(319, suffix="bis") == "art-319bis"
 
 
-def test_build_fedlex_url():
-    url = build_fedlex_url("BV")
-    assert url == "https://www.fedlex.admin.ch/eli/cc/1999/404/de"
+def test_parse_article_list_response():
+    """Test parsing the text output of get_law(abbreviation)."""
+    sample_response = (
+        "# VwVG — SR 172.021\n"
+        "**Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren**\n"
+        "Consolidation date: 2022-07-01\n\n"
+        "**88 articles**\n\n"
+        "- Art. 1\n"
+        "- Art. 2\n"
+        "- Art. 5\n"
+        "- Art. 11 a Eingefügt durch Anhang...\n"
+        "- Art. 11 b Eingefügt durch Anhang...\n"
+        "- Art. 25 a Eingefügt durch Anhang...\n"
+        "- Art. 46 a Eingefügt durch Anhang...\n"
+    )
+    articles = parse_article_list_response(sample_response)
+    assert len(articles) == 7
+    assert articles[0] == {"number": 1, "suffix": "", "raw": "1"}
+    assert articles[1] == {"number": 2, "suffix": "", "raw": "2"}
+    assert articles[3] == {"number": 11, "suffix": "a", "raw": "11a"}
+    assert articles[4] == {"number": 11, "suffix": "b", "raw": "11b"}
 
 
-def test_parse_articles_from_html():
-    """Test parsing article anchors from sample HTML."""
-    sample_html = '''
-    <html><body>
-    <div id="art_1">
-        <h6 class="heading"><span class="article-num">Art. 1</span>
-        <span class="article-title">Schweizerische Eidgenossenschaft</span></h6>
-    </div>
-    <div id="art_2">
-        <h6 class="heading"><span class="article-num">Art. 2</span>
-        <span class="article-title">Zweck</span></h6>
-    </div>
-    <div id="art_6a">
-        <h6 class="heading"><span class="article-num">Art. 6<i>a</i></span>
-        <span class="article-title">Sechster Artikel a</span></h6>
-    </div>
-    </body></html>
-    '''
-    articles = parse_articles_from_html(sample_html)
+def test_parse_article_list_deduplicates():
+    """Duplicate article entries (multiple Absätze) should be collapsed."""
+    sample_response = (
+        "# OR — SR 220\n"
+        "**OR**\nConsolidation date: 2026-01-01\n\n"
+        "**1613 articles**\n\n"
+        "- Art. 1\n"
+        "- Art. 1\n"
+        "- Art. 1\n"
+        "- Art. 2\n"
+        "- Art. 2\n"
+        "- Art. 6 a Eingefügt...\n"
+    )
+    articles = parse_article_list_response(sample_response)
     assert len(articles) == 3
     assert articles[0]["number"] == 1
-    assert articles[0]["suffix"] == ""
-    assert articles[0]["title"] == "Schweizerische Eidgenossenschaft"
-    assert articles[2]["number"] == 6
-    assert articles[2]["suffix"] == "a"
+    assert articles[1]["number"] == 2
+    assert articles[2] == {"number": 6, "suffix": "a", "raw": "6a"}
 
 
-def test_parse_articles_deduplicates():
-    """Duplicate anchors should be collapsed."""
-    sample_html = '''
-    <html><body>
-    <div id="art_1"><h6 class="heading"><span class="article-num">Art. 1</span>
-    <span class="article-title">Title</span></h6></div>
-    <div id="art_1"><h6 class="heading"><span class="article-num">Art. 1</span>
-    <span class="article-title">Title</span></h6></div>
-    </body></html>
-    '''
-    articles = parse_articles_from_html(sample_html)
-    assert len(articles) == 1
+def test_parse_article_range_skipped():
+    """Article ranges like 'Art. 2 – 4' should be skipped."""
+    sample_response = (
+        "# OR\n**OR**\n\n**3 articles**\n\n"
+        "- Art. 1\n"
+        "- Art. 2 – 4\n"
+        "- Art. 5\n"
+    )
+    articles = parse_article_list_response(sample_response)
+    assert len(articles) == 2
+    assert articles[0]["number"] == 1
+    assert articles[1]["number"] == 5
 
 
 @pytest.mark.network
@@ -1498,10 +1526,24 @@ async def test_fetch_vwvg_articles_live():
     """Integration test — requires network. Run with: pytest -m network"""
     from scripts.fetch_articles import fetch_articles
 
-    articles = await fetch_articles("VwVG")  # Smallest law, ~74 articles
-    assert len(articles) >= 50
+    articles = await fetch_articles("VwVG")
+    assert len(articles) >= 70  # VwVG has ~88 articles
     assert all("number" in a for a in articles)
-    assert all("title" in a for a in articles)
+    # Check that suffixed articles are found
+    suffixed = [a for a in articles if a["suffix"]]
+    assert len(suffixed) >= 5  # VwVG has 11a, 11b, 21a, 22a, 25a, 30a, 33a, 33b, 46a
+
+
+@pytest.mark.network
+async def test_fetch_legislation_metadata_live():
+    """Integration test for LexFind metadata."""
+    from scripts.fetch_articles import fetch_legislation_metadata
+
+    meta = await fetch_legislation_metadata("OR")
+    assert meta["sr_number"] == "220"
+    assert meta["lexfind_id"] > 0
+    assert "fedlex.admin.ch" in meta["fedlex_url"]
+    assert "lexfind.ch" in meta["lexfind_url"]
 ```
 
 - [ ] **Step 3: Run tests (unit only) to verify they fail**
@@ -1512,7 +1554,15 @@ Expected: FAIL — `ModuleNotFoundError`
 - [ ] **Step 4: Write scripts/fetch_articles.py**
 
 ```python
-"""Fetch article lists from Fedlex consolidated HTML pages for Swiss federal laws."""
+"""Fetch article lists and legislation metadata via opencaselaw MCP server.
+
+The opencaselaw.ch MCP server (https://mcp.opencaselaw.ch) integrates with
+LexFind.ch and provides structured access to all Swiss federal laws including
+article enumeration, full article text, and legislation metadata.
+
+For the scaffolding script, we call the MCP server's HTTP API directly rather
+than going through the MCP protocol, since we need simple programmatic access.
+"""
 
 from __future__ import annotations
 
@@ -1525,76 +1575,11 @@ import httpx
 
 from scripts.schema import SR_NUMBERS
 
-# ELI paths for the consolidated version of each law on Fedlex.
-# These are the historical compilation references, NOT the SR numbers.
-LAW_ELI_PATHS: dict[str, str] = {
-    "BV": "1999/404",
-    "ZGB": "24/233_245_233",
-    "OR": "27/317_321_377",
-    "ZPO": "2010/262",
-    "StGB": "54/757_781_799",
-    "StPO": "2010/267",
-    "SchKG": "11/529_488_529",
-    "VwVG": "1969/737_757_755",
-}
+# The 8 laws covered by openlegalcommentary
+LAWS = ("BV", "ZGB", "OR", "ZPO", "StGB", "StPO", "SchKG", "VwVG")
 
-
-def build_fedlex_url(law: str, lang: str = "de") -> str:
-    """Build the Fedlex URL for a law's consolidated HTML page."""
-    path = LAW_ELI_PATHS[law]
-    return f"https://www.fedlex.admin.ch/eli/cc/{path}/{lang}"
-
-
-def build_article_fedlex_url(law: str, number: int, suffix: str = "", lang: str = "de") -> str:
-    """Build the Fedlex URL for a specific article."""
-    path = LAW_ELI_PATHS[law]
-    return f"https://www.fedlex.admin.ch/eli/cc/{path}/{lang}#art_{number}{suffix}"
-
-
-def parse_articles_from_html(html: str) -> list[dict]:
-    """Parse article entries from Fedlex consolidated law HTML.
-
-    Fedlex renders articles as <div id="art_XX"> with nested headings containing
-    article numbers and titles. This parser extracts all articles by matching
-    these DOM patterns.
-    """
-    articles: list[dict] = []
-    seen: set[str] = set()
-
-    # Match div ids like art_1, art_6a, art_319bis, art_100
-    for match in re.finditer(
-        r'<div[^>]*\bid=["\']art_(\d+)([a-z]*)["\']',
-        html,
-    ):
-        raw_num = match.group(1)
-        suffix = match.group(2)
-        anchor_id = f"art_{raw_num}{suffix}"
-
-        if anchor_id in seen:
-            continue
-        seen.add(anchor_id)
-
-        number = int(raw_num)
-
-        # Try to extract title from nearby article-title span
-        # Search within 500 chars after the anchor for the title span
-        search_region = html[match.start() : match.start() + 500]
-        title_match = re.search(
-            r'class=["\']article-title["\'][^>]*>([^<]+)<',
-            search_region,
-        )
-        title = title_match.group(1).strip() if title_match else ""
-
-        articles.append({
-            "number": number,
-            "suffix": suffix,
-            "title": title,
-            "raw_num": f"{raw_num}{suffix}",
-        })
-
-    # Sort by number, then suffix
-    articles.sort(key=lambda a: (a["number"], a["suffix"]))
-    return articles
+# opencaselaw MCP base URL
+MCP_BASE = "https://mcp.opencaselaw.ch"
 
 
 def article_dir_name(number: int, suffix: str = "") -> str:
@@ -1603,29 +1588,132 @@ def article_dir_name(number: int, suffix: str = "") -> str:
     return f"art-{padded}{suffix}"
 
 
-async def fetch_articles(law: str) -> list[dict]:
-    """Fetch all articles for a law by scraping its Fedlex consolidated HTML page."""
-    if law not in LAW_ELI_PATHS:
-        raise ValueError(f"Unknown law: {law}. Must be one of {list(LAW_ELI_PATHS.keys())}")
+def parse_article_list_response(text: str) -> list[dict]:
+    """Parse the text output of the get_law MCP tool into a deduplicated article list.
 
-    url = build_fedlex_url(law)
+    The response contains lines like:
+      - Art. 1
+      - Art. 6 a Eingefügt durch...
+      - Art. 2 – 4  (article ranges, skip these)
 
-    async with httpx.AsyncClient(timeout=120.0, follow_redirects=True) as client:
-        response = await client.get(
-            url,
-            headers={
-                "Accept": "text/html",
-                "User-Agent": "openlegalcommentary/0.1 (https://openlegalcommentary.ch)",
-            },
+    Returns deduplicated list sorted by (number, suffix).
+    """
+    articles: list[dict] = []
+    seen: set[str] = set()
+
+    for line in text.splitlines():
+        line = line.strip()
+        if not line.startswith("- Art."):
+            continue
+
+        # Extract article number and optional suffix
+        # Pattern: "- Art. 41" or "- Art. 11 a Eingefügt..." or "- Art. 6 a ..."
+        match = re.match(
+            r"^- Art\.\s+(\d+)\s*(?:–|—|-)\s*\d+",  # Range like "Art. 2 – 4" → skip
+            line,
         )
-        response.raise_for_status()
-        return parse_articles_from_html(response.text)
+        if match:
+            continue  # Skip article ranges
+
+        match = re.match(
+            r"^- Art\.\s+(\d+)\s*([a-z]*)",
+            line,
+        )
+        if not match:
+            continue
+
+        number = int(match.group(1))
+        suffix = match.group(2).strip()
+        raw = f"{number}{suffix}"
+
+        if raw in seen:
+            continue
+        seen.add(raw)
+
+        articles.append({
+            "number": number,
+            "suffix": suffix,
+            "raw": raw,
+        })
+
+    articles.sort(key=lambda a: (a["number"], a["suffix"]))
+    return articles
+
+
+async def _mcp_call(client: httpx.AsyncClient, tool: str, args: dict) -> str:
+    """Call an opencaselaw MCP tool via the HTTP SSE transport.
+
+    The MCP server at mcp.opencaselaw.ch speaks the MCP protocol over SSE.
+    For simple tool calls, we use the JSON-RPC format.
+    """
+    # Use the MCP JSON-RPC endpoint
+    response = await client.post(
+        f"{MCP_BASE}/mcp",
+        json={
+            "jsonrpc": "2.0",
+            "id": 1,
+            "method": "tools/call",
+            "params": {
+                "name": tool,
+                "arguments": args,
+            },
+        },
+        headers={"Content-Type": "application/json"},
+    )
+    response.raise_for_status()
+    result = response.json()
+
+    if "error" in result:
+        raise RuntimeError(f"MCP error: {result['error']}")
+
+    # Extract text from MCP tool result
+    content = result.get("result", {}).get("content", [])
+    texts = [c["text"] for c in content if c.get("type") == "text"]
+    return "\n".join(texts)
+
+
+async def fetch_articles(law: str) -> list[dict]:
+    """Fetch the article list for a law via opencaselaw MCP get_law tool."""
+    if law not in LAWS:
+        raise ValueError(f"Unknown law: {law}. Must be one of {LAWS}")
+
+    async with httpx.AsyncClient(timeout=120.0) as client:
+        text = await _mcp_call(client, "get_law", {"abbreviation": law})
+        return parse_article_list_response(text)
+
+
+async def fetch_legislation_metadata(law: str) -> dict:
+    """Fetch LexFind metadata for a law via opencaselaw MCP get_legislation tool."""
+    sr = SR_NUMBERS[law]
+
+    async with httpx.AsyncClient(timeout=60.0) as client:
+        text = await _mcp_call(client, "get_legislation", {"systematic_number": sr})
+
+    # Parse the structured text response
+    meta: dict = {"sr_number": sr, "law": law}
+
+    for line in text.splitlines():
+        if line.startswith("**LexFind ID:**"):
+            try:
+                meta["lexfind_id"] = int(line.split(":")[-1].strip())
+            except ValueError:
+                pass
+        elif line.startswith("**In force since:**"):
+            meta["in_force_since"] = line.split(":")[-1].strip()
+        elif line.startswith("- [DE]"):
+            url = line.split("]")[-1].strip()
+            meta["fedlex_url"] = url
+        elif line.startswith("- [DE PDF]"):
+            url = line.split("]")[-1].strip()
+            meta["lexfind_url"] = url
+
+    return meta
 
 
 async def fetch_all_laws() -> dict[str, list[dict]]:
     """Fetch article lists for all 8 laws."""
     results: dict[str, list[dict]] = {}
-    for law in LAW_ELI_PATHS:
+    for law in LAWS:
         print(f"Fetching {law}...")
         results[law] = await fetch_articles(law)
         print(f"  → {len(results[law])} articles")
@@ -1649,11 +1737,11 @@ if __name__ == "__main__":
     print(f"Total: {sum(len(a) for a in results.values())} articles across {len(results)} laws")
 ```
 
-Note: Fedlex uses client-side rendering (Angular). If `fetch_articles` returns empty results
-because the HTML contains only a JS app shell, fall back to fetching the XML version at
-`https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/{path}/de/xml/...`
-or use the `droid-f/fedlex` GitHub repo which mirrors consolidated JSON objects. The
-integration test (Step 6) will verify which approach works.
+Note: The `_mcp_call` function assumes the MCP server supports JSON-RPC over HTTP POST.
+If the server only supports SSE transport, replace with an SSE client that sends
+`tools/call` and reads the streamed response. The integration test (Step 6) will verify.
+If the MCP HTTP endpoint doesn't work, fall back to calling the MCP tools via
+`claude mcp call swiss-caselaw get_law '{"abbreviation": "VwVG"}'` in a subprocess.
 
 - [ ] **Step 5: Run unit tests to verify they pass**
 
@@ -1663,17 +1751,13 @@ Expected: 6 passed
 - [ ] **Step 6: Run integration test (requires network)**
 
 Run: `uv run pytest tests/test_fetch_articles.py -v -m network`
-Expected: 1 passed (fetches VwVG articles from Fedlex)
-
-If this fails because Fedlex serves a JS-only page, switch the implementation to fetch
-from the `droid-f/fedlex` GitHub repo instead (raw JSON files at predictable URLs).
-Debug directly: `uv run python scripts/fetch_articles.py`
+Expected: 2 passed (fetches VwVG articles + OR legislation metadata)
 
 - [ ] **Step 7: Commit**
 
 ```bash
 git add scripts/fetch_articles.py tests/test_fetch_articles.py pyproject.toml
-git commit -m "feat: add Fedlex HTML article enumerator for all 8 laws"
+git commit -m "feat: add article enumerator via opencaselaw MCP (LexFind-backed)"
 ```
 
 ---
@@ -1756,8 +1840,8 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from scripts.fetch_articles import article_dir_name, build_article_fedlex_url
-from scripts.schema import ArticleMeta, LayerMeta, SR_NUMBERS
+from scripts.fetch_articles import article_dir_name
+from scripts.schema import ArticleMeta, LayerMeta, SR_NUMBERS, LAW_ELI_PATHS
 
 
 def scaffold_article(
@@ -1767,6 +1851,9 @@ def scaffold_article(
     suffix: str,
     title: str,
     absatz_count: int = 1,
+    lexfind_id: int | None = None,
+    lexfind_url: str = "",
+    in_force_since: str = "",
 ) -> Path:
     """Create an article directory with meta.yaml and placeholder layer files.
 
@@ -1777,7 +1864,8 @@ def scaffold_article(
     art_dir.mkdir(parents=True, exist_ok=True)
 
     sr = SR_NUMBERS.get(law, "")
-    fedlex_url = build_article_fedlex_url(law, number, suffix)
+    eli_path = LAW_ELI_PATHS.get(law, "")
+    fedlex_url = f"https://www.fedlex.admin.ch/eli/cc/{eli_path}/de#art_{number}{suffix}"
 
     # Write meta.yaml only if it doesn't exist
     meta_path = art_dir / "meta.yaml"

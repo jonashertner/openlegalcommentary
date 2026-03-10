@@ -94,6 +94,9 @@ title: "Haftung aus unerlaubter Handlung"
 sr_number: "220"
 absatz_count: 2
 fedlex_url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_41"
+lexfind_id: 25688
+lexfind_url: "https://www.lexfind.ch/tol/25688/de"
+in_force_since: "2026-01-01"
 layers:
   summary:
     last_generated: "2026-03-09"
@@ -177,8 +180,11 @@ Following the autoresearch pattern:
 
 ### Tools available to each law agent
 
-- **opencaselaw MCP**: `search_decisions`, `find_citations`, `find_leading_cases`, `get_decision`, `get_case_brief`
-- **Fedlex**: Law text fetcher (article text, SR metadata)
+- **opencaselaw MCP** (single data source for law text AND case law):
+  - Law text: `get_law` (article enumeration + full article text), `search_laws` (full-text search across statutes)
+  - Legislation metadata: `get_legislation` (LexFind IDs, Fedlex URLs, in-force dates), `search_legislation` (33,000+ texts)
+  - Case law: `search_decisions`, `find_citations`, `find_leading_cases`, `get_decision`, `get_case_brief`
+  - Analysis: `get_statistics`, `analyze_legal_trend`, `find_appeal_chain`
 - **Content tools**: Read/write article directories, meta.yaml management
 - **Cross-reference resolver**: Validate and create links between articles across laws
 
@@ -433,7 +439,7 @@ openlegalcommentary/
 | CI/CD | GitHub Actions | Free for public repos, cron support |
 | Dataset hosting | HuggingFace Datasets | Standard, Parquet support |
 | Case law source | opencaselaw MCP | Existing infrastructure, daily updated |
-| Law text source | Fedlex | Official Swiss law texts |
+| Law text + legislation metadata | opencaselaw MCP (`get_law`, `get_legislation`) | LexFind-backed, current consolidated texts |
 
 ### Cost estimate
 
