@@ -1,8 +1,123 @@
 ---
+// site/src/pages/index.astro
 import Base from '../layouts/Base.astro';
+import LawCard from '../components/LawCard.astro';
+import { LAWS } from '../lib/laws';
+import { getLawStats } from '../lib/content';
+
+const lawsWithStats = LAWS.map((law) => ({
+  law,
+  stats: getLawStats(law.abbr),
+}));
+
+const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticles, 0);
 ---
 
 <Base title="Home">
-  <h1>Open Legal Commentary</h1>
-  <p>Coming soon.</p>
+  <section class="hero">
+    <h1>Open Legal Commentary</h1>
+    <p class="hero-subtitle">
+      Open-access, AI-generated, daily-updated legal commentary on Swiss federal law.
+    </p>
+    <p class="hero-stats text-sm text-muted font-heading">
+      {LAWS.length} Gesetze &middot; {totalArticles.toLocaleString('de-CH')} Artikel &middot; 3 Ebenen pro Artikel
+    </p>
+  </section>
+
+  <section class="laws-grid" aria-label="Bundesgesetze">
+    {lawsWithStats.map(({ law, stats }) => (
+      <LawCard law={law} stats={stats} />
+    ))}
+  </section>
+
+  <section class="intro content-column">
+    <h2>Drei Ebenen pro Artikel</h2>
+    <div class="layers-explain">
+      <div class="layer-item">
+        <h3>Uebersicht</h3>
+        <p class="text-sm">Verstaendliche Zusammenfassung auf B1-Sprachniveau. Was regelt die Norm? Wer ist betroffen? Mit konkretem Beispiel.</p>
+      </div>
+      <div class="layer-item">
+        <h3>Doktrin</h3>
+        <p class="text-sm">Wissenschaftliche Analyse mit Randziffern. Entstehungsgeschichte, Tatbestandsmerkmale, Rechtsfolgen, Streitstaende.</p>
+      </div>
+      <div class="layer-item">
+        <h3>Rechtsprechung</h3>
+        <p class="text-sm">Vollstaendige BGE-Uebersicht mit Leitsaetzen, thematisch gruppiert und taeglich aktualisiert.</p>
+      </div>
+    </div>
+  </section>
 </Base>
+
+<style>
+  .hero {
+    text-align: center;
+    padding: var(--space-6) 0 var(--space-5);
+  }
+
+  .hero h1 {
+    font-size: var(--text-3xl);
+    margin-bottom: var(--space-2);
+  }
+
+  .hero-subtitle {
+    font-size: var(--text-lg);
+    color: var(--color-text-secondary);
+    max-width: 50ch;
+    margin: 0 auto var(--space-2);
+  }
+
+  .hero-stats {
+    margin: 0;
+  }
+
+  .laws-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-3);
+    margin-bottom: var(--space-6);
+  }
+
+  .intro {
+    padding: var(--space-5) 0;
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .intro h2 {
+    text-align: center;
+    margin-bottom: var(--space-4);
+  }
+
+  .layers-explain {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-3);
+  }
+
+  .layer-item {
+    padding: var(--space-3);
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border-light);
+    border-radius: 8px;
+  }
+
+  .layer-item h3 {
+    font-size: var(--text-base);
+    margin: 0 0 var(--space-1) 0;
+    color: var(--color-accent);
+  }
+
+  @media (max-width: 768px) {
+    .hero h1 {
+      font-size: var(--text-2xl);
+    }
+
+    .laws-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .layers-explain {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
