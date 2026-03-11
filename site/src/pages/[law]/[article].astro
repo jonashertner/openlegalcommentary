@@ -7,7 +7,7 @@ import ArticlePagination from '../../components/ArticlePagination.astro';
 import LanguageSwitcher from '../../components/LanguageSwitcher.astro';
 import Gesetzestext from '../../components/Gesetzestext.astro';
 import { LAWS, getLawByAbbr } from '../../lib/laws';
-import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText } from '../../lib/content';
+import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText, getArticleTextI18n } from '../../lib/content';
 
 export function getStaticPaths() {
   const paths: { params: { law: string; article: string } }[] = [];
@@ -43,9 +43,10 @@ const caselaw = articleData?.caselaw || '';
 const translations = articleData?.translations || {};
 const nav = getArticleNav(lawInfo.abbr, dirName);
 
-// Load Gesetzestext from article_texts.json
+// Load Gesetzestext in all languages from article_texts*.json
 const articleRaw = `${meta.article}${meta.article_suffix || ''}`;
 const gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw);
+const gesetzestextI18n = getArticleTextI18n(lawInfo.abbr, articleRaw);
 
 // Simple Markdown to HTML conversion
 function mdToHtml(md: string): string {
@@ -154,6 +155,7 @@ const lastUpdated = Object.values(layerMeta)
 
     <Gesetzestext
       paragraphs={gesetzestextParagraphs}
+      i18n={gesetzestextI18n}
       articleDisplay={articleDisplay}
       fedlexUrl={meta.fedlex_url}
     />

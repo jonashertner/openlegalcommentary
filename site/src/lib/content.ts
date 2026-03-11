@@ -4,7 +4,6 @@ import yaml from 'js-yaml';
 
 const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../..', 'content');
 const ARTICLE_LISTS_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_lists.json');
-const ARTICLE_TEXTS_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_texts.json');
 
 interface ArticleListEntry {
   number: number;
@@ -39,25 +38,47 @@ export interface ArticleTextParagraph {
   items?: { letter: string; text: string }[];
 }
 
-let _articleTextsCache: Record<string, Record<string, ArticleTextParagraph[]>> | null = null;
+type ArticleTextsData = Record<string, Record<string, ArticleTextParagraph[]>>;
 
-function getArticleTexts(): Record<string, Record<string, ArticleTextParagraph[]>> {
-  if (_articleTextsCache) return _articleTextsCache;
+const _articleTextsCache: Record<string, ArticleTextsData> = {};
+
+function getArticleTexts(lang: string = 'de'): ArticleTextsData {
+  if (_articleTextsCache[lang]) return _articleTextsCache[lang];
+  const suffix = lang === 'de' ? '' : `_${lang}`;
+  const textsPath = path.resolve(import.meta.dirname, '../../..', 'scripts', `article_texts${suffix}.json`);
   try {
-    const raw = fs.readFileSync(ARTICLE_TEXTS_PATH, 'utf-8');
-    _articleTextsCache = JSON.parse(raw);
-    return _articleTextsCache!;
+    const raw = fs.readFileSync(textsPath, 'utf-8');
+    _articleTextsCache[lang] = JSON.parse(raw);
+    return _articleTextsCache[lang];
   } catch {
     return {};
   }
 }
 
+function _findLawKey(texts: ArticleTextsData, law: string): string | undefined {
+  return Object.keys(texts).find((k) => k.toLowerCase() === law.toLowerCase());
+}
+
 export function getArticleText(law: string, articleRaw: string): ArticleTextParagraph[] {
-  const texts = getArticleTexts();
-  // Keys use canonical casing (e.g. "VwVG", "StGB"), so match case-insensitively
-  const key = Object.keys(texts).find((k) => k.toLowerCase() === law.toLowerCase());
+  const texts = getArticleTexts('de');
+  const key = _findLawKey(texts, law);
   if (!key) return [];
   return texts[key]?.[articleRaw] || [];
+}
+
+export function getArticleTextI18n(
+  law: string, articleRaw: string
+): Record<string, ArticleTextParagraph[]> {
+  const result: Record<string, ArticleTextParagraph[]> = {};
+  for (const lang of ['de', 'fr', 'it']) {
+    const texts = getArticleTexts(lang);
+    const key = _findLawKey(texts, law);
+    if (key) {
+      const paragraphs = texts[key]?.[articleRaw] || [];
+      if (paragraphs.length > 0) result[lang] = paragraphs;
+    }
+  }
+  return result;
 }
 
 export interface LayerMeta {
