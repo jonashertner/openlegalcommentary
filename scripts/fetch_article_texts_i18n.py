@@ -19,8 +19,8 @@ logger = logging.getLogger(__name__)
 
 MCP_BASE = "https://mcp.opencaselaw.ch"
 SCRIPTS_DIR = Path("scripts")
-MAX_CONCURRENT = 5
-MAX_RETRIES = 3
+MAX_CONCURRENT = 2
+MAX_RETRIES = 5
 
 
 def _parse_article_text(raw: str) -> list[dict]:
@@ -77,7 +77,7 @@ async def fetch_article(
                 return (law, article, paragraphs)
             except Exception as e:
                 if attempt < MAX_RETRIES - 1:
-                    await asyncio.sleep(1 + attempt * 2)
+                    await asyncio.sleep(2 + attempt * 3)
                     continue
                 logger.warning("Failed %s Art. %s (%s): %s", law, article, language, e)
                 return (law, article, [])
