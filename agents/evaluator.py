@@ -10,17 +10,11 @@ import json
 import re
 from dataclasses import dataclass, field
 
-from claude_agent_sdk import (
-    AssistantMessage,
-    ClaudeAgentOptions,
-    TextBlock,
-    query,
-)
-
+from agents.anthropic_client import run_agent
 from agents.config import AgentConfig
 from agents.prompts import build_evaluator_prompt
-from agents.tools.content import create_content_server
-from agents.tools.opencaselaw import create_opencaselaw_server
+from agents.tools.content import create_content_tools
+from agents.tools.opencaselaw import create_opencaselaw_tools
 
 
 @dataclass
@@ -98,8 +92,8 @@ async def evaluate_layer(
     """
     system_prompt = build_evaluator_prompt(config.guidelines_root)
 
-    content_server = create_content_server(config.content_root)
-    opencaselaw_server = create_opencaselaw_server(config.mcp_base_url)
+    content_tools = create_content_tools(config.content_root)
+    opencaselaw_tools = create_opencaselaw_tools(config.mcp_base_url)
 
     suffix_str = article_suffix or ""
     prompt = (
@@ -109,30 +103,20 @@ async def evaluate_layer(
         f"and case law, then return your JSON verdict."
     )
 
-    options = ClaudeAgentOptions(
-        mcp_servers={
-            "content": content_server,
-            "opencaselaw": opencaselaw_server,
-        },
-        allowed_tools=[
-            "mcp__content__read_article_meta",
-            "mcp__content__read_layer_content",
-            "mcp__opencaselaw__get_article_text",
-            "mcp__opencaselaw__find_leading_cases",
-            "mcp__opencaselaw__search_decisions",
-        ],
+    response_text, _ = await run_agent(
         system_prompt=system_prompt,
+        prompt=prompt,
         model=config.model_evaluator,
+        content_tools=content_tools,
+        opencaselaw_tools=opencaselaw_tools,
+        allowed_tools=[
+            "read_article_meta",
+            "read_layer_content",
+            "get_article_text",
+            "find_leading_cases",
+            "search_decisions",
+        ],
         max_turns=config.max_turns_per_agent,
-        max_budget_usd=config.max_budget_per_layer,
-        permission_mode="bypassPermissions",
     )
-
-    response_text = ""
-    async for message in query(prompt=prompt, options=options):
-        if isinstance(message, AssistantMessage):
-            for block in message.content:
-                if isinstance(block, TextBlock):
-                    response_text += block.text
 
     return parse_eval_response(response_text)

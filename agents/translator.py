@@ -5,11 +5,10 @@ terminology for legal terms.
 """
 from __future__ import annotations
 
-from claude_agent_sdk import ClaudeAgentOptions, ResultMessage, query
-
+from agents.anthropic_client import run_agent
 from agents.config import AgentConfig
 from agents.prompts import build_translator_prompt
-from agents.tools.content import create_content_server
+from agents.tools.content import create_content_tools
 
 VALID_LANGUAGES = ("fr", "it")
 
@@ -35,7 +34,7 @@ async def translate_layer(
     system_prompt = build_translator_prompt(
         config.guidelines_root, target_lang,
     )
-    content_server = create_content_server(config.content_root)
+    content_tools = create_content_tools(config.content_root)
 
     suffix_str = article_suffix or ""
     lang_name = "French" if target_lang == "fr" else "Italian"
@@ -47,22 +46,17 @@ async def translate_layer(
         f"the translation as '{layer_type}.{target_lang}'."
     )
 
-    options = ClaudeAgentOptions(
-        mcp_servers={"content": content_server},
-        allowed_tools=[
-            "mcp__content__read_layer_content",
-            "mcp__content__write_layer_content",
-        ],
+    _, cost = await run_agent(
         system_prompt=system_prompt,
+        prompt=prompt,
         model=config.model_translator,
+        content_tools=content_tools,
+        opencaselaw_tools=None,
+        allowed_tools=[
+            "read_layer_content",
+            "write_layer_content",
+        ],
         max_turns=10,
-        max_budget_usd=0.20,
-        permission_mode="bypassPermissions",
     )
-
-    cost = 0.0
-    async for message in query(prompt=prompt, options=options):
-        if isinstance(message, ResultMessage) and message.total_cost_usd:
-            cost = message.total_cost_usd
 
     return cost

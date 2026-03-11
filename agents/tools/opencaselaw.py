@@ -8,8 +8,6 @@ Wraps HTTP calls to the opencaselaw MCP server, providing tools for:
 """
 from __future__ import annotations
 
-from claude_agent_sdk import create_sdk_mcp_server, tool
-
 from agents.mcp_client import mcp_call
 
 
@@ -74,44 +72,3 @@ def create_opencaselaw_tools(mcp_base: str) -> dict:
         "get_decision": get_decision,
         "get_case_brief": get_case_brief,
     }
-
-
-def create_opencaselaw_server(mcp_base: str):
-    """Create an SDK MCP server with opencaselaw tools."""
-    tools_dict = create_opencaselaw_tools(mcp_base)
-
-    t_article = tool(
-        "get_article_text",
-        "Get the full text of a law from LexFind/Fedlex. Returns all articles.",
-        {"law_abbreviation": str},
-    )(tools_dict["get_article_text"])
-
-    t_search = tool(
-        "search_decisions",
-        "Search court decisions by query. Returns matching decisions with references.",
-        {"query": str, "law_abbreviation": str},
-    )(tools_dict["search_decisions"])
-
-    t_leading = tool(
-        "find_leading_cases",
-        "Find leading cases (BGE) for a specific article. Returns Leitentscheide.",
-        {"article": str, "law_abbreviation": str},
-    )(tools_dict["find_leading_cases"])
-
-    t_decision = tool(
-        "get_decision",
-        "Get the full text and details of a specific court decision.",
-        {"decision_id": str},
-    )(tools_dict["get_decision"])
-
-    t_brief = tool(
-        "get_case_brief",
-        "Get a structured brief/summary of a court decision with key holdings.",
-        {"decision_id": str},
-    )(tools_dict["get_case_brief"])
-
-    return create_sdk_mcp_server(
-        name="opencaselaw",
-        version="1.0.0",
-        tools=[t_article, t_search, t_leading, t_decision, t_brief],
-    )

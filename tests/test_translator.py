@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import asyncio
-from unittest.mock import MagicMock, patch
+from unittest.mock import AsyncMock, patch
 
 import pytest
 
@@ -19,44 +19,29 @@ def config(tmp_path):
     return AgentConfig(content_root=content_root)
 
 
-def _mock_query():
-    from claude_agent_sdk import ResultMessage
-    msg = MagicMock(spec=ResultMessage)
-    msg.total_cost_usd = 0.02
-
-    async def gen(*args, **kwargs):
-        yield msg
-    return gen
-
-
 def test_translate_layer_calls_query(config):
-    with patch("agents.translator.query") as mock_query:
-        mock_query.side_effect = _mock_query()
-
+    mock_run = AsyncMock(return_value=("Translated.", 0.02))
+    with patch("agents.translator.run_agent", mock_run):
         asyncio.run(translate_layer(config, "OR", 41, "", "summary", "fr"))
-        mock_query.assert_called_once()
+        mock_run.assert_called_once()
 
 
 def test_translate_layer_uses_sonnet(config):
-    with patch("agents.translator.query") as mock_query:
-        mock_query.side_effect = _mock_query()
-
+    mock_run = AsyncMock(return_value=("Translated.", 0.02))
+    with patch("agents.translator.run_agent", mock_run):
         asyncio.run(translate_layer(config, "OR", 41, "", "summary", "fr"))
-        options = mock_query.call_args.kwargs.get("options")
-        assert options.model == "sonnet"
+        call_kwargs = mock_run.call_args.kwargs
+        assert call_kwargs["model"] == "sonnet"
 
 
 def test_translate_layer_prompt_includes_target(config):
-    with patch("agents.translator.query") as mock_query:
-        mock_query.side_effect = _mock_query()
-
+    mock_run = AsyncMock(return_value=("Translated.", 0.02))
+    with patch("agents.translator.run_agent", mock_run):
         asyncio.run(translate_layer(config, "OR", 41, "", "summary", "it"))
-        prompt = mock_query.call_args.kwargs.get("prompt")
-        if prompt is None:
-            prompt = mock_query.call_args.args[0]
-        assert "summary.it" in prompt or "Italian" in prompt or "it" in prompt
+        call_kwargs = mock_run.call_args.kwargs
+        assert "Italian" in call_kwargs["prompt"]
 
 
 def test_translate_invalid_language(config):
-    with pytest.raises(ValueError):
-        asyncio.run(translate_layer(config, "OR", 41, "", "summary", "es"))
+    with pytest.raises(ValueError, match="Unknown target language"):
+        asyncio.run(translate_layer(config, "OR", 41, "", "summary", "en"))

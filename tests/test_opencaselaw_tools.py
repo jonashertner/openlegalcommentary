@@ -108,9 +108,3 @@ def test_mcp_error_handling(tools):
 
         result = asyncio.run(tools["get_article_text"]({"law_abbreviation": "OR"}))
         assert result.get("is_error") is True
-
-
-def test_create_opencaselaw_server():
-    from agents.tools.opencaselaw import create_opencaselaw_server
-    server = create_opencaselaw_server("https://mcp.test.example")
-    assert server is not None

@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import asyncio
-from unittest.mock import MagicMock, patch
+from unittest.mock import AsyncMock, patch
 
 import pytest
 
@@ -26,58 +26,33 @@ def config(tmp_path):
     return AgentConfig(content_root=content_root)
 
 
-def _mock_query_messages():
-    """Return a mock async generator that yields a ResultMessage."""
-    from claude_agent_sdk import ResultMessage
-    msg = MagicMock(spec=ResultMessage)
-    msg.total_cost_usd = 0.05
-
-    async def gen(*args, **kwargs):
-        yield msg
-
-    return gen
-
-
 def test_generate_layer_calls_query(config):
-    with patch("agents.law_agent.query") as mock_query:
-        mock_query.side_effect = _mock_query_messages()
-
-        asyncio.run(
-            generate_layer(config, "OR", 41, "", "summary")
-        )
-        mock_query.assert_called_once()
-        call_kwargs = mock_query.call_args
-        assert "prompt" in call_kwargs.kwargs or len(call_kwargs.args) > 0
+    mock_run = AsyncMock(return_value=("Generated content.", 0.05))
+    with patch("agents.law_agent.run_agent", mock_run):
+        asyncio.run(generate_layer(config, "OR", 41, "", "summary"))
+        mock_run.assert_called_once()
 
 
 def test_generate_layer_uses_correct_model(config):
-    with patch("agents.law_agent.query") as mock_query:
-        mock_query.side_effect = _mock_query_messages()
-
+    mock_run = AsyncMock(return_value=("Generated content.", 0.05))
+    with patch("agents.law_agent.run_agent", mock_run):
         asyncio.run(generate_layer(config, "OR", 41, "", "doctrine"))
-        options = mock_query.call_args.kwargs.get("options")
-        assert options is not None
-        assert options.model == "opus"
+        call_kwargs = mock_run.call_args.kwargs
+        assert call_kwargs["model"] == "opus"
 
 
 def test_generate_layer_with_feedback(config):
-    with patch("agents.law_agent.query") as mock_query:
-        mock_query.side_effect = _mock_query_messages()
-
+    mock_run = AsyncMock(return_value=("Generated content.", 0.05))
+    with patch("agents.law_agent.run_agent", mock_run):
         asyncio.run(
             generate_layer(config, "OR", 41, "", "summary", feedback="Missing example")
         )
-        call_args = mock_query.call_args
-        if "prompt" in call_args.kwargs:
-            prompt = call_args.kwargs["prompt"]
-        else:
-            prompt = call_args.args[0]
-        assert "Missing example" in prompt
+        call_kwargs = mock_run.call_args.kwargs
+        assert "Missing example" in call_kwargs["prompt"]
 
 
 def test_generate_layer_returns_cost(config):
-    with patch("agents.law_agent.query") as mock_query:
-        mock_query.side_effect = _mock_query_messages()
-
+    mock_run = AsyncMock(return_value=("Generated content.", 0.05))
+    with patch("agents.law_agent.run_agent", mock_run):
         cost = asyncio.run(generate_layer(config, "OR", 41, "", "summary"))
         assert cost == pytest.approx(0.05)

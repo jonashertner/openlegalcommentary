@@ -7,12 +7,11 @@ Each call runs a Claude agent with:
 """
 from __future__ import annotations
 
-from claude_agent_sdk import ClaudeAgentOptions, ResultMessage, query
-
+from agents.anthropic_client import run_agent
 from agents.config import AgentConfig
 from agents.prompts import build_law_agent_prompt
-from agents.tools.content import create_content_server
-from agents.tools.opencaselaw import create_opencaselaw_server
+from agents.tools.content import create_content_tools
+from agents.tools.opencaselaw import create_opencaselaw_tools
 
 
 async def generate_layer(
@@ -40,8 +39,8 @@ async def generate_layer(
         config.guidelines_root, law, layer_type,
     )
 
-    content_server = create_content_server(config.content_root)
-    opencaselaw_server = create_opencaselaw_server(config.mcp_base_url)
+    content_tools = create_content_tools(config.content_root)
+    opencaselaw_tools = create_opencaselaw_tools(config.mcp_base_url)
 
     suffix_str = article_suffix or ""
     art_dir = f"{law.lower()}/art-{str(article_number).zfill(3)}{suffix_str}/"
@@ -58,31 +57,23 @@ async def generate_layer(
             f"Fix the following issues:\n{feedback}"
         )
 
-    options = ClaudeAgentOptions(
-        mcp_servers={
-            "content": content_server,
-            "opencaselaw": opencaselaw_server,
-        },
-        allowed_tools=[
-            "mcp__content__read_article_meta",
-            "mcp__content__read_layer_content",
-            "mcp__content__write_layer_content",
-            "mcp__opencaselaw__get_article_text",
-            "mcp__opencaselaw__search_decisions",
-            "mcp__opencaselaw__find_leading_cases",
-            "mcp__opencaselaw__get_decision",
-            "mcp__opencaselaw__get_case_brief",
-        ],
+    _, cost = await run_agent(
         system_prompt=system_prompt,
+        prompt=prompt,
         model=config.model_for_layer(layer_type),
+        content_tools=content_tools,
+        opencaselaw_tools=opencaselaw_tools,
+        allowed_tools=[
+            "read_article_meta",
+            "read_layer_content",
+            "write_layer_content",
+            "get_article_text",
+            "search_decisions",
+            "find_leading_cases",
+            "get_decision",
+            "get_case_brief",
+        ],
         max_turns=config.max_turns_per_agent,
-        max_budget_usd=config.max_budget_per_layer,
-        permission_mode="bypassPermissions",
     )
-
-    cost = 0.0
-    async for message in query(prompt=prompt, options=options):
-        if isinstance(message, ResultMessage) and message.total_cost_usd:
-            cost = message.total_cost_usd
 
     return cost

@@ -64,9 +64,3 @@ def test_read_missing_meta(content_root):
         )
     )
     assert result.get("is_error") is True
-
-
-def test_create_content_server(content_root):
-    from agents.tools.content import create_content_server
-    server = create_content_server(content_root)
-    assert server is not None

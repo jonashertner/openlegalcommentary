@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import asyncio
 import json
-from unittest.mock import MagicMock, patch
+from unittest.mock import AsyncMock, patch
 
 import pytest
 
@@ -94,16 +94,6 @@ def config(tmp_path):
     return AgentConfig(content_root=content_root)
 
 
-def _mock_eval_query(verdict_json):
-    from claude_agent_sdk import AssistantMessage, TextBlock
-    msg = MagicMock(spec=AssistantMessage)
-    msg.content = [MagicMock(spec=TextBlock, text=json.dumps(verdict_json))]
-
-    async def gen(*args, **kwargs):
-        yield msg
-    return gen
-
-
 def test_evaluate_layer_calls_query(config):
     verdict = {
         "verdict": "publish",
@@ -111,8 +101,7 @@ def test_evaluate_layer_calls_query(config):
         "scores": {"praezision": 0.96},
         "feedback": {"blocking_issues": []},
     }
-    with patch("agents.evaluator.query") as mock_query:
-        mock_query.side_effect = _mock_eval_query(verdict)
-
+    mock_run = AsyncMock(return_value=(json.dumps(verdict), 0.05))
+    with patch("agents.evaluator.run_agent", mock_run):
         result = asyncio.run(evaluate_layer(config, "OR", 41, "", "summary"))
         assert result.verdict == "publish"

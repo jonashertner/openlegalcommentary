@@ -7,8 +7,6 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from claude_agent_sdk import create_sdk_mcp_server, tool
-
 from scripts.fetch_articles import article_dir_name
 
 
@@ -69,35 +67,3 @@ def create_content_tools(content_root: Path) -> dict:
         "read_layer_content": read_layer_content,
         "write_layer_content": write_layer_content,
     }
-
-
-def create_content_server(content_root: Path):
-    """Create an SDK MCP server with content tools."""
-    tools_dict = create_content_tools(content_root)
-
-    read_meta = tool(
-        "read_article_meta",
-        "Read meta.yaml for a commentary article",
-        {"law": str, "article_number": int, "article_suffix": str},
-    )(tools_dict["read_article_meta"])
-
-    read_layer = tool(
-        "read_layer_content",
-        "Read a commentary layer markdown file (summary, doctrine, or caselaw)",
-        {"law": str, "article_number": int, "article_suffix": str, "layer": str},
-    )(tools_dict["read_layer_content"])
-
-    write_layer = tool(
-        "write_layer_content",
-        "Write commentary content to a layer markdown file",
-        {
-            "law": str, "article_number": int, "article_suffix": str,
-            "layer": str, "content": str,
-        },
-    )(tools_dict["write_layer_content"])
-
-    return create_sdk_mcp_server(
-        name="content",
-        version="1.0.0",
-        tools=[read_meta, read_layer, write_layer],
-    )
