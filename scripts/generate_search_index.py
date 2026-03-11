@@ -18,7 +18,7 @@ def generate_search_index():
     output_file = script_dir.parent / "site" / "public" / "search-index.json"
 
     print(f"Reading {input_file}...")
-    with open(input_file, "r", encoding="utf-8") as f:
+    with open(input_file, encoding="utf-8") as f:
         data = json.load(f)
 
     index = []
