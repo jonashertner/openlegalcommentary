@@ -2,6 +2,7 @@
 // site/src/pages/index.astro
 import Base from '../layouts/Base.astro';
 import LawCard from '../components/LawCard.astro';
+import SearchBar from '../components/SearchBar.astro';
 import { LAWS } from '../lib/laws';
 import { getLawStats } from '../lib/content';
 
@@ -28,7 +29,10 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
         Jeder Artikel auf drei Ebenen: verständliche Zusammenfassung, wissenschaftliche Doktrin
         und vollständige Rechtsprechungsübersicht.
       </p>
-      <div class="hero-stats animate-fade-up delay-4">
+      <div class="hero-search animate-fade-up delay-4">
+        <SearchBar />
+      </div>
+      <div class="hero-stats animate-fade-up delay-5">
         <div class="hero-stat">
           <span class="hero-stat-value">{LAWS.length}</span>
           <span class="hero-stat-label">Gesetze</span>
@@ -54,7 +58,7 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
 
   <!-- Laws Grid -->
   <section class="laws-section" aria-label="Bundesgesetze">
-    <div class="laws-header animate-fade-up delay-5">
+    <div class="laws-header animate-fade-up delay-6">
       <h2>Gesetze</h2>
       <p class="text-secondary text-sm">{LAWS.length} kommentierte Bundesgesetze</p>
     </div>
@@ -155,6 +159,12 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
     max-width: 560px;
     margin-top: var(--space-4);
     margin-bottom: var(--space-5);
+  }
+
+  .hero-search {
+    margin-bottom: var(--space-4);
+    position: relative;
+    z-index: 10;
   }
 
   .hero-stats {

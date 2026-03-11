@@ -33,6 +33,7 @@ const fullTitle = title === 'Home'
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Open Legal Commentary" />
+    <meta name="base-url" content={import.meta.env.BASE_URL} />
     <script is:inline>
       (function() {
         const saved = localStorage.getItem('theme');
