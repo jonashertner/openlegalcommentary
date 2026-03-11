@@ -66,43 +66,40 @@ CONTENT_TOOL_SCHEMAS = [
 # Tool schemas for opencaselaw tools
 OPENCASELAW_TOOL_SCHEMAS = [
     {
-        "name": "get_article_text",
-        "description": "Get the full text of a law from LexFind/Fedlex. Returns all articles.",
-        "input_schema": {
-            "type": "object",
-            "properties": {
-                "law_abbreviation": {"type": "string"},
-            },
-            "required": ["law_abbreviation"],
-        },
-    },
-    {
         "name": "search_decisions",
-        "description": "Search court decisions by query. Returns matching decisions.",
+        "description": (
+            "Search 930k+ Swiss court decisions. Supports keywords, "
+            "phrases, Boolean operators, docket numbers, article refs."
+        ),
         "input_schema": {
             "type": "object",
             "properties": {
                 "query": {"type": "string"},
                 "law_abbreviation": {"type": "string", "default": ""},
+                "limit": {"type": "integer", "default": 20},
             },
             "required": ["query"],
         },
     },
     {
         "name": "find_leading_cases",
-        "description": "Find leading cases (BGE) for a specific article. Returns Leitentscheide.",
+        "description": (
+            "Find most-cited decisions for a statute article. "
+            "Ranked by citation authority from 7.85M citation edges."
+        ),
         "input_schema": {
             "type": "object",
             "properties": {
                 "article": {"type": "string"},
                 "law_abbreviation": {"type": "string"},
+                "query": {"type": "string"},
             },
-            "required": ["article", "law_abbreviation"],
+            "required": [],
         },
     },
     {
         "name": "get_decision",
-        "description": "Get the full text and details of a specific court decision.",
+        "description": "Get the full text and details of a court decision.",
         "input_schema": {
             "type": "object",
             "properties": {
@@ -113,13 +110,51 @@ OPENCASELAW_TOOL_SCHEMAS = [
     },
     {
         "name": "get_case_brief",
-        "description": "Get a structured brief/summary of a court decision with key holdings.",
+        "description": (
+            "Structured case brief: regeste, facts, key reasoning, "
+            "holding, applicable statutes, citation authority."
+        ),
         "input_schema": {
             "type": "object",
             "properties": {
-                "decision_id": {"type": "string"},
+                "case": {
+                    "type": "string",
+                    "description": "BGE ref, decision_id, or docket number.",
+                },
             },
-            "required": ["decision_id"],
+            "required": ["case"],
+        },
+    },
+    {
+        "name": "get_doctrine",
+        "description": (
+            "Get leading cases and doctrine for a statute article or "
+            "legal concept. Returns statute text, top BGEs, timeline."
+        ),
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "query": {
+                    "type": "string",
+                    "description": "e.g. 'Art. 41 OR' or 'Tierhalterhaftung'",
+                },
+            },
+            "required": ["query"],
+        },
+    },
+    {
+        "name": "get_commentary",
+        "description": (
+            "Get scholarly commentary from OnlineKommentar.ch (CC-BY-4.0) "
+            "for a Swiss law article."
+        ),
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "abbreviation": {"type": "string"},
+                "article": {"type": "string"},
+            },
+            "required": ["abbreviation"],
         },
     },
 ]

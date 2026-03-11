@@ -118,6 +118,8 @@ async def generate_layer(
             "find_leading_cases",
             "get_decision",
             "get_case_brief",
+            "get_doctrine",
+            "get_commentary",
         ],
         max_turns=config.max_turns_per_agent,
     )
