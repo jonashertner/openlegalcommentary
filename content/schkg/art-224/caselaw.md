@@ -1,0 +1,3 @@
+# Rechtsprechung
+
+Art. 224 SchKG — Art. 224 SchKG

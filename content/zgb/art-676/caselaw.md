@@ -1,0 +1,3 @@
+# Rechtsprechung
+
+Art. 676 ZGB — Art. 676 ZGB

@@ -8,8 +8,7 @@ dist/
 .pytest_cache/
 node_modules/
 .DS_Store
-content/*
-!content/.gitkeep
+# content/ is tracked — generated commentary is committed
 bootstrap_state.json
 # Site build output
 site/dist/

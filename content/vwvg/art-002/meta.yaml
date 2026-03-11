@@ -1,0 +1,22 @@
+law: VwVG
+article: 2
+article_suffix: ''
+title: Teilweise Anwendbarkeit
+sr_number: '172.021'
+absatz_count: 1
+fedlex_url: https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/de#art_2
+lexfind_url: ''
+in_force_since: ''
+layers:
+  doctrine:
+    last_generated: '2026-03-11'
+    version: 2
+    quality_score: 0.91
+  caselaw:
+    last_generated: '2026-03-11'
+    version: 1
+    quality_score: 0.91
+  summary:
+    last_generated: '2026-03-11'
+    version: 1
+    quality_score: 0.95

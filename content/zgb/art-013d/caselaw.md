@@ -1,0 +1,3 @@
+# Rechtsprechung
+
+Art. 13d ZGB — Art. 13d ZGB

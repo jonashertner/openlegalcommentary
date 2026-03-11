@@ -1,0 +1,3 @@
+# Rechtsprechung
+
+Art. 25 SchKG — …

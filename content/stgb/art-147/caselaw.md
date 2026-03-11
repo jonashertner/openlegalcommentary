@@ -1,0 +1,3 @@
+# Rechtsprechung
+
+Art. 147 StGB — Art. 147 StGB

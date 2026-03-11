@@ -1,0 +1,3 @@
+# Rechtsprechung
+
+Art. 902 ZGB — Art. 902 ZGB
