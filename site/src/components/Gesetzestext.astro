@@ -134,7 +134,10 @@ function fedlexLangUrl(url: string, lang: string): string {
     color: var(--color-text);
   }
 
-  .gesetzestext-absatz {
+  /* Use :global() for all children of gesetzestext-body
+     because lang-change JS creates these elements dynamically
+     and they won't have Astro's scoped data attributes */
+  .gesetzestext-body :global(.gesetzestext-absatz) {
     margin-bottom: 0.75rem;
     max-width: none;
     display: flex;
@@ -143,26 +146,25 @@ function fedlexLangUrl(url: string, lang: string): string {
     padding: 0.25rem 0;
   }
 
-  .gesetzestext-absatz:last-child {
+  .gesetzestext-body :global(.gesetzestext-absatz:last-child) {
     margin-bottom: 0;
   }
 
-  /* Numbered paragraphs get a subtle left border on hover for readability */
-  .gesetzestext-absatz.has-num {
+  .gesetzestext-body :global(.gesetzestext-absatz.has-num) {
     border-radius: var(--radius-sm);
-    transition: background var(--transition-fast);
+    transition: background 150ms ease-out;
   }
 
-  .gesetzestext-absatz.has-num:hover {
+  .gesetzestext-body :global(.gesetzestext-absatz.has-num:hover) {
     background: var(--color-bg-alt);
   }
 
-  .gesetzestext-absatz:not(.has-num) {
+  .gesetzestext-body :global(.gesetzestext-absatz:not(.has-num)) {
     display: block;
     padding-left: 0;
   }
 
-  .absatz-num {
+  .gesetzestext-body :global(.absatz-num) {
     flex-shrink: 0;
     display: inline-flex;
     align-items: center;
@@ -181,17 +183,16 @@ function fedlexLangUrl(url: string, lang: string): string {
     user-select: none;
   }
 
-  .absatz-text {
+  .gesetzestext-body :global(.absatz-text) {
     flex: 1;
   }
 
-  /* Separator between paragraphs for visual clarity */
-  .gesetzestext-absatz + .gesetzestext-list,
-  .gesetzestext-list + .gesetzestext-absatz {
+  .gesetzestext-body :global(.gesetzestext-absatz + .gesetzestext-list),
+  .gesetzestext-body :global(.gesetzestext-list + .gesetzestext-absatz) {
     margin-top: 0.25rem;
   }
 
-  .gesetzestext-list {
+  .gesetzestext-body :global(.gesetzestext-list) {
     display: grid;
     grid-template-columns: auto 1fr;
     gap: 0.25rem 0.75rem;
@@ -201,7 +202,7 @@ function fedlexLangUrl(url: string, lang: string): string {
     padding-left: 0.75rem;
   }
 
-  .gesetzestext-list dt {
+  .gesetzestext-body :global(.gesetzestext-list dt) {
     font-family: var(--font-heading);
     font-weight: 600;
     font-size: var(--text-xs);
@@ -210,7 +211,7 @@ function fedlexLangUrl(url: string, lang: string): string {
     min-width: 1.25rem;
   }
 
-  .gesetzestext-list dd {
+  .gesetzestext-body :global(.gesetzestext-list dd) {
     margin: 0;
     line-height: 1.7;
   }
@@ -220,12 +221,12 @@ function fedlexLangUrl(url: string, lang: string): string {
       padding: var(--space-2);
     }
 
-    .gesetzestext-list {
+    .gesetzestext-body :global(.gesetzestext-list) {
       margin-left: 0.5rem;
       padding-left: 0.625rem;
     }
 
-    .absatz-num {
+    .gesetzestext-body :global(.absatz-num) {
       width: 1.5rem;
       min-width: 1.5rem;
       margin-right: 0.5rem;
