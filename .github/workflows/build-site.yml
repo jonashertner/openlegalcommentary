@@ -7,6 +7,7 @@ on:
       - 'content/**'
       - 'site/**'
       - 'scripts/**'
+      - 'agents/**'
       - '.github/workflows/build-site.yml'
   workflow_dispatch:
 
