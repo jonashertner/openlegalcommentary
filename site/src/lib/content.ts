@@ -4,6 +4,7 @@ import yaml from 'js-yaml';
 
 const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../..', 'content');
 const ARTICLE_LISTS_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_lists.json');
+const ARTICLE_TEXTS_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_texts.json');
 
 interface ArticleListEntry {
   number: number;
@@ -29,6 +30,31 @@ function getArticleLists(): Record<string, ArticleListData> {
   } catch {
     return {};
   }
+}
+
+export interface ArticleTextParagraph {
+  num?: string | null;
+  text?: string;
+  type?: 'list';
+  items?: { letter: string; text: string }[];
+}
+
+let _articleTextsCache: Record<string, Record<string, ArticleTextParagraph[]>> | null = null;
+
+function getArticleTexts(): Record<string, Record<string, ArticleTextParagraph[]>> {
+  if (_articleTextsCache) return _articleTextsCache;
+  try {
+    const raw = fs.readFileSync(ARTICLE_TEXTS_PATH, 'utf-8');
+    _articleTextsCache = JSON.parse(raw);
+    return _articleTextsCache!;
+  } catch {
+    return {};
+  }
+}
+
+export function getArticleText(law: string, articleRaw: string): ArticleTextParagraph[] {
+  const texts = getArticleTexts();
+  return texts[law.toUpperCase()]?.[articleRaw] || [];
 }
 
 export interface LayerMeta {

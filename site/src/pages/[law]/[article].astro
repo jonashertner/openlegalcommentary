@@ -5,8 +5,9 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
 import ArticleTabs from '../../components/ArticleTabs.astro';
 import ArticlePagination from '../../components/ArticlePagination.astro';
 import LanguageSwitcher from '../../components/LanguageSwitcher.astro';
+import Gesetzestext from '../../components/Gesetzestext.astro';
 import { LAWS, getLawByAbbr } from '../../lib/laws';
-import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav } from '../../lib/content';
+import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText } from '../../lib/content';
 
 export function getStaticPaths() {
   const paths: { params: { law: string; article: string } }[] = [];
@@ -29,10 +30,22 @@ if (!lawInfo) return Astro.redirect(import.meta.env.BASE_URL);
 
 const dirName = slugToDirName(articleSlug!);
 const articleData = loadArticle(lawInfo.abbr, dirName);
-if (!articleData) return Astro.redirect(`${import.meta.env.BASE_URL}/${lawParam}`);
 
-const { meta, summary, doctrine, caselaw } = articleData;
+// Build meta from article_lists.json fallback if no content dir
+const allArticles = listArticles(lawInfo.abbr);
+const articleEntry = allArticles.find((a) => a.slug === articleSlug);
+if (!articleData && !articleEntry) return Astro.redirect(`${import.meta.env.BASE_URL}/${lawParam}`);
+
+const meta = articleData?.meta || articleEntry!.meta;
+const summary = articleData?.summary || '';
+const doctrine = articleData?.doctrine || '';
+const caselaw = articleData?.caselaw || '';
+const translations = articleData?.translations || {};
 const nav = getArticleNav(lawInfo.abbr, dirName);
+
+// Load Gesetzestext from article_texts.json
+const articleRaw = `${meta.article}${meta.article_suffix || ''}`;
+const gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw);
 
 // Simple Markdown to HTML conversion
 function mdToHtml(md: string): string {
@@ -83,7 +96,6 @@ const caselawHtml = mdToHtml(caselaw);
 
 // Determine available languages
 const availableLanguages = ['de'];
-const { translations } = articleData;
 const hasFr = translations.summary?.fr || translations.doctrine?.fr || translations.caselaw?.fr;
 const hasIt = translations.summary?.it || translations.doctrine?.it || translations.caselaw?.it;
 if (hasFr) availableLanguages.push('fr');
@@ -133,17 +145,18 @@ const lastUpdated = Object.values(layerMeta)
     <header class="article-header">
       <h1>{meta.title}</h1>
       <div class="article-meta text-sm text-muted">
-        <a href={meta.fedlex_url} target="_blank" rel="noopener" class="fedlex-link font-mono">
-          Fedlex SR {meta.sr_number} &nearr;
-        </a>
-        {meta.absatz_count > 1 && (
-          <span>{meta.absatz_count} Absätze</span>
-        )}
+        <span class="font-mono">SR {meta.sr_number}</span>
         {meta.in_force_since && (
           <span>In Kraft seit {meta.in_force_since}</span>
         )}
       </div>
     </header>
+
+    <Gesetzestext
+      paragraphs={gesetzestextParagraphs}
+      articleDisplay={articleDisplay}
+      fedlexUrl={meta.fedlex_url}
+    />
 
     {availableLanguages.length > 1 && (
       <div class="article-lang">
