@@ -423,6 +423,109 @@ main {
 
 .prose strong { font-weight: 700; }
 
+/* Heading anchors */
+.prose .heading-anchor {
+  opacity: 0;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  font-weight: 400;
+  margin-left: -1.25em;
+  padding-right: 0.25em;
+  font-size: 0.85em;
+  transition: opacity var(--transition-fast);
+}
+
+.prose h2:hover .heading-anchor,
+.prose h3:hover .heading-anchor {
+  opacity: 0.5;
+}
+
+.prose .heading-anchor:hover {
+  opacity: 1 !important;
+  color: var(--color-accent);
+}
+
+/* Randziffern (N. X) */
+.prose .randziffer {
+  color: var(--color-accent);
+  font-family: var(--font-heading);
+  font-size: var(--text-sm);
+  scroll-margin-top: 4rem;
+}
+
+.prose .randziffer .rz-link {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted transparent;
+  transition: border-color var(--transition-fast);
+}
+
+.prose .randziffer .rz-link:hover {
+  border-bottom-color: var(--color-accent);
+}
+
+/* Targeted Randziffer highlight */
+.prose .randziffer:target {
+  background: var(--color-accent-light);
+  padding: 0.1em 0.35em;
+  border-radius: var(--radius-sm);
+  margin: 0 -0.35em;
+}
+
+/* BGE citation links */
+.prose .cite-bge {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 600;
+  border-bottom: 1px solid var(--color-accent-subtle);
+  transition: border-color var(--transition-fast);
+}
+
+.prose .cite-bge:hover {
+  border-bottom-color: var(--color-accent);
+}
+
+/* Cross-reference links (→ Art. X) */
+.prose .cite-cross {
+  font-family: var(--font-heading);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  text-decoration: none;
+  color: var(--color-text-secondary);
+  border-bottom: 1px dashed var(--color-border);
+  transition: color var(--transition-fast), border-color var(--transition-fast);
+}
+
+.prose .cite-cross:hover {
+  color: var(--color-accent);
+  border-bottom-color: var(--color-accent);
+}
+
+/* Blockquote enhancements for case excerpts */
+.prose blockquote {
+  border-left: 3px solid var(--color-accent);
+  background: var(--color-bg-alt);
+  padding: var(--space-2) var(--space-3);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  margin: var(--space-2) 0;
+  font-size: var(--text-sm);
+}
+
+.prose blockquote p {
+  margin-bottom: 0.5rem;
+  max-width: none;
+  color: var(--color-text-secondary);
+}
+
+.prose blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Scroll margin for anchor targets */
+.prose h2[id], .prose h3[id] {
+  scroll-margin-top: 4rem;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 1024px) {
   .page-wrapper { padding: 0 var(--space-3); }

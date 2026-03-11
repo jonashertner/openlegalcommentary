@@ -48,7 +48,28 @@ const articleRaw = `${meta.article}${meta.article_suffix || ''}`;
 const gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw);
 const gesetzestextI18n = getArticleTextI18n(lawInfo.abbr, articleRaw);
 
-// Simple Markdown to HTML conversion
+// Generate a slug from heading text for anchor IDs
+function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[äöüéèêàâîôûç]/g, (c) => {
+      const map: Record<string, string> = {
+        ä: 'ae', ö: 'oe', ü: 'ue', é: 'e', è: 'e', ê: 'e',
+        à: 'a', â: 'a', î: 'i', ô: 'o', û: 'u', ç: 'c',
+      };
+      return map[c] || c;
+    })
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+interface TocEntry {
+  level: number;
+  text: string;
+  id: string;
+}
+
+// Simple Markdown to HTML conversion with anchors & enhanced rendering
 function mdToHtml(md: string): string {
   if (!md.trim()) return '<p class="text-muted">Noch kein Inhalt verfügbar.</p>';
 
@@ -56,26 +77,53 @@ function mdToHtml(md: string): string {
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
-    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
-    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^# (.+)$/gm, '<h1>$1</h1>')
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    // Headings with anchor IDs
+    .replace(/^### (.+)$/gm, (_m, text) => {
+      const id = slugify(text);
+      return `<h3 id="${id}"><a href="#${id}" class="heading-anchor" aria-hidden="true">#</a>${text}</h3>`;
+    })
+    .replace(/^## (.+)$/gm, (_m, text) => {
+      const id = slugify(text);
+      return `<h2 id="${id}"><a href="#${id}" class="heading-anchor" aria-hidden="true">#</a>${text}</h2>`;
+    })
+    .replace(/^# (.+)$/gm, (_m, text) => {
+      const id = slugify(text);
+      return `<h1 id="${id}">${text}</h1>`;
+    })
+    // Randziffern: **N. X** → styled anchor with deep-link
     .replace(
-      /\b(BGE\s+\d+\s+[IVX]+\s+\d+)/g,
-      (match) => {
-        const encoded = encodeURIComponent(match);
-        return `<a href="https://opencaselaw.ch/search?q=${encoded}" target="_blank" rel="noopener">${match}</a>`;
+      /\*\*(N\.\s*(\d+))\*\*/g,
+      (_m, label, num) =>
+        `<strong class="randziffer" id="n-${num}"><a href="#n-${num}" class="rz-link" title="${label}">${label}</a></strong>`
+    )
+    // BGE citations → linked with citation class
+    .replace(
+      /\*\*(BGE\s+\d+\s+[IVX]+\s+\d+)\*\*/g,
+      (_m, cite) => {
+        const encoded = encodeURIComponent(cite);
+        return `<strong><a href="https://opencaselaw.ch/search?q=${encoded}" target="_blank" rel="noopener" class="cite-bge">${cite}</a></strong>`;
       }
     )
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    // Plain BGE citations (not already wrapped in an anchor)
+    .replace(
+      /(?<!["'>])(BGE\s+\d+\s+[IVX]+\s+\d+)(?![^<]*<\/a>)/g,
+      (match) => {
+        const encoded = encodeURIComponent(match);
+        return `<a href="https://opencaselaw.ch/search?q=${encoded}" target="_blank" rel="noopener" class="cite-bge">${match}</a>`;
+      }
+    )
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    // Cross-references to other articles
     .replace(
       /(?:→|↔)\s*Art\.\s*(\d+)([a-z]*)\s+(BV|ZGB|OR|ZPO|StGB|StPO|SchKG|VwVG)/g,
       (match, num, suffix, law) => {
         const lawLower = law.toLowerCase();
         const base = import.meta.env.BASE_URL;
-        return `<a href="${base}/${lawLower}/art-${parseInt(num)}${suffix}">${match}</a>`;
+        return `<a href="${base}/${lawLower}/art-${parseInt(num)}${suffix}" class="cite-cross">${match}</a>`;
       }
     )
+    // Blockquotes with proper nesting
     .replace(/^&gt; (.+)$/gm, '<blockquote><p>$1</p></blockquote>')
     .replace(/\n\n/g, '</p><p>')
     .replace(/\n/g, '<br/>');
@@ -85,15 +133,39 @@ function mdToHtml(md: string): string {
   }
 
   html = html.replace(/<p><\/p>/g, '');
-  html = html.replace(/<p>(<h[1-3]>)/g, '$1');
+  html = html.replace(/<p>(<h[1-3])/g, '$1');
   html = html.replace(/(<\/h[1-3]>)<\/p>/g, '$1');
+  // Merge consecutive blockquotes
+  html = html.replace(/<\/blockquote>\s*<blockquote>/g, '');
 
   return html;
+}
+
+// Extract TOC entries from markdown
+function extractToc(md: string): TocEntry[] {
+  const entries: TocEntry[] = [];
+  const lines = md.split('\n');
+  for (const line of lines) {
+    const h2 = line.match(/^## (.+)$/);
+    if (h2) {
+      entries.push({ level: 2, text: h2[1], id: slugify(h2[1]) });
+      continue;
+    }
+    const h3 = line.match(/^### (.+)$/);
+    if (h3) {
+      entries.push({ level: 3, text: h3[1], id: slugify(h3[1]) });
+    }
+  }
+  return entries;
 }
 
 const summaryHtml = mdToHtml(summary);
 const doctrineHtml = mdToHtml(doctrine);
 const caselawHtml = mdToHtml(caselaw);
+
+// Extract TOC entries for tabs with rich heading structure
+const doctrineToc = extractToc(doctrine);
+const caselawToc = extractToc(caselaw);
 
 // Determine available languages
 const availableLanguages = ['de'];
@@ -179,6 +251,8 @@ const lastUpdated = Object.values(layerMeta)
       doctrine={doctrineHtml}
       caselaw={caselawHtml}
       activeTab={activeTab}
+      doctrineToc={doctrineToc}
+      caselawToc={caselawToc}
     />
 
     {lastUpdated && (
@@ -193,6 +267,21 @@ const lastUpdated = Object.values(layerMeta)
       next={nav.next}
     />
   </article>
+
+  <!-- Reading progress bar -->
+  <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
+
+  <!-- Back to top -->
+  <button
+    class="back-to-top"
+    id="back-to-top"
+    aria-label="Nach oben scrollen"
+    title="Nach oben"
+  >
+    <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
+      <path d="M9 14V4M9 4L4 9M9 4l5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </button>
 </Base>
 
 <style>
@@ -239,6 +328,65 @@ const lastUpdated = Object.values(layerMeta)
   .article-lang {
     margin-bottom: var(--space-2);
   }
+
+  /* Reading progress bar */
+  .reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    background: var(--color-accent);
+    z-index: 1000;
+    width: 0%;
+    transition: width 50ms linear;
+    pointer-events: none;
+  }
+
+  /* Back to top button */
+  .back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border);
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity var(--transition-base), transform var(--transition-base),
+      color var(--transition-fast), border-color var(--transition-fast),
+      box-shadow var(--transition-fast);
+    pointer-events: none;
+    box-shadow: var(--shadow-sm);
+    z-index: 100;
+  }
+
+  .back-to-top.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+
+  .back-to-top:hover {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+    box-shadow: var(--shadow-md);
+  }
+
+  @media (max-width: 768px) {
+    .back-to-top {
+      bottom: 1rem;
+      right: 1rem;
+      width: 36px;
+      height: 36px;
+    }
+  }
 </style>
 
 <script>
@@ -268,5 +416,33 @@ const lastUpdated = Object.values(layerMeta)
     } catch {
       // Ignore parse errors
     }
+  });
+
+  // Reading progress bar
+  function updateProgress() {
+    const bar = document.getElementById('reading-progress');
+    if (!bar) return;
+    const scrollTop = window.scrollY;
+    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+    bar.style.width = `${Math.min(progress, 100)}%`;
+  }
+
+  // Back to top button
+  function updateBackToTop() {
+    const btn = document.getElementById('back-to-top');
+    if (!btn) return;
+    btn.classList.toggle('visible', window.scrollY > 400);
+  }
+
+  window.addEventListener('scroll', () => {
+    requestAnimationFrame(() => {
+      updateProgress();
+      updateBackToTop();
+    });
+  }, { passive: true });
+
+  document.getElementById('back-to-top')?.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 </script>
