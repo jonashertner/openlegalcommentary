@@ -54,7 +54,10 @@ function getArticleTexts(): Record<string, Record<string, ArticleTextParagraph[]
 
 export function getArticleText(law: string, articleRaw: string): ArticleTextParagraph[] {
   const texts = getArticleTexts();
-  return texts[law.toUpperCase()]?.[articleRaw] || [];
+  // Keys use canonical casing (e.g. "VwVG", "StGB"), so match case-insensitively
+  const key = Object.keys(texts).find((k) => k.toLowerCase() === law.toLowerCase());
+  if (!key) return [];
+  return texts[key]?.[articleRaw] || [];
 }
 
 export interface LayerMeta {
