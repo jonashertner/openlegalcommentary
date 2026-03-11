@@ -38,8 +38,12 @@ def test_parse_article_list_response():
     articles = parse_article_list_response(sample)
     assert len(articles) == 7
     assert articles[0] == {"number": 1, "suffix": "", "raw": "1"}
-    assert articles[3] == {"number": 11, "suffix": "a", "raw": "11a"}
-    assert articles[4] == {"number": 11, "suffix": "b", "raw": "11b"}
+    assert articles[3]["number"] == 11
+    assert articles[3]["suffix"] == "a"
+    assert articles[3]["raw"] == "11a"
+    assert articles[4]["number"] == 11
+    assert articles[4]["suffix"] == "b"
+    assert articles[4]["raw"] == "11b"
 
 
 def test_parse_article_list_deduplicates():
@@ -53,7 +57,9 @@ def test_parse_article_list_deduplicates():
     assert len(articles) == 3
     assert articles[0]["number"] == 1
     assert articles[1]["number"] == 2
-    assert articles[2] == {"number": 6, "suffix": "a", "raw": "6a"}
+    assert articles[2]["number"] == 6
+    assert articles[2]["suffix"] == "a"
+    assert articles[2]["raw"] == "6a"
 
 
 def test_parse_article_range_skipped():

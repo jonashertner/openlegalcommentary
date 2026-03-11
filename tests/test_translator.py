@@ -15,7 +15,7 @@ def config(tmp_path):
     content_root = tmp_path / "content"
     art_dir = content_root / "or" / "art-041"
     art_dir.mkdir(parents=True)
-    (art_dir / "summary.md").write_text("# Uebersicht\n\nDeutscher Text.")
+    (art_dir / "summary.md").write_text("# Übersicht\n\nDeutscher Text.")
     return AgentConfig(content_root=content_root)
 
 

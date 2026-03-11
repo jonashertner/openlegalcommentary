@@ -90,7 +90,7 @@ def config(tmp_path):
     art_dir = content_root / "or" / "art-041"
     art_dir.mkdir(parents=True)
     (art_dir / "meta.yaml").write_text("law: OR\narticle: 41\n")
-    (art_dir / "summary.md").write_text("# Uebersicht\n\nTest.")
+    (art_dir / "summary.md").write_text("# Übersicht\n\nTest.")
     return AgentConfig(content_root=content_root)
 
 

@@ -17,7 +17,7 @@ def content_root(tmp_path):
         "sr_number: '220'\nabsatz_count: 1\n"
         "fedlex_url: https://example.com\nlayers: {}\n"
     )
-    (art_dir / "summary.md").write_text("# Uebersicht\n\nTest summary.")
+    (art_dir / "summary.md").write_text("# Übersicht\n\nTest summary.")
     return tmp_path
 
 

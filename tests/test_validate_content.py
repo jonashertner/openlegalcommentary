@@ -16,7 +16,7 @@ def valid_article(tmp_path):
         "  doctrine:\n    last_generated: '2026-03-10'\n    version: 1\n"
         "  caselaw:\n    last_generated: '2026-03-10'\n    version: 1\n"
     )
-    (art_dir / "summary.md").write_text("# Uebersicht\n\nPlaceholder.")
+    (art_dir / "summary.md").write_text("# Übersicht\n\nPlaceholder.")
     (art_dir / "doctrine.md").write_text("# Doktrin\n\n**N. 1** Placeholder.")
     (art_dir / "caselaw.md").write_text("# Rechtsprechung\n\nPlaceholder.")
     return art_dir
@@ -33,7 +33,7 @@ def missing_layer(tmp_path):
         "layers:\n  summary:\n"
         "    last_generated: '2026-03-10'\n    version: 1\n"
     )
-    (art_dir / "summary.md").write_text("# Uebersicht\n\nTest.")
+    (art_dir / "summary.md").write_text("# Übersicht\n\nTest.")
     (art_dir / "doctrine.md").write_text("# Doktrin\n\nTest.")
     return art_dir
 

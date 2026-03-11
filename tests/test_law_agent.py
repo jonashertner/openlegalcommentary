@@ -20,7 +20,7 @@ def config(tmp_path):
         "sr_number: '220'\nabsatz_count: 2\n"
         "fedlex_url: https://example.com\nlayers: {}\n"
     )
-    (art_dir / "summary.md").write_text("# Uebersicht\n\nPlaceholder.")
+    (art_dir / "summary.md").write_text("# Übersicht\n\nPlaceholder.")
     (art_dir / "doctrine.md").write_text("# Doktrin\n\nPlaceholder.")
     (art_dir / "caselaw.md").write_text("# Rechtsprechung\n\nPlaceholder.")
     return AgentConfig(content_root=content_root)
