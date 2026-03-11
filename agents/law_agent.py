@@ -3,15 +3,52 @@
 Each call runs a Claude agent with:
 - System prompt built from global + per-law guidelines
 - Content tools for reading/writing article files
-- opencaselaw tools for fetching article text and case law
+- opencaselaw tools for searching court decisions and case law
+- Article text injected directly from article_texts.json
 """
 from __future__ import annotations
+
+import json
+from pathlib import Path
 
 from agents.anthropic_client import run_agent
 from agents.config import AgentConfig
 from agents.prompts import build_law_agent_prompt
 from agents.tools.content import create_content_tools
 from agents.tools.opencaselaw import create_opencaselaw_tools
+
+_article_texts_cache: dict | None = None
+
+
+def _load_article_texts() -> dict:
+    global _article_texts_cache
+    if _article_texts_cache is not None:
+        return _article_texts_cache
+    texts_path = Path("scripts/article_texts.json")
+    if texts_path.exists():
+        _article_texts_cache = json.loads(texts_path.read_text())
+        return _article_texts_cache
+    _article_texts_cache = {}
+    return _article_texts_cache
+
+
+def _format_article_text(law: str, article_number: int, article_suffix: str) -> str:
+    """Get formatted article text from article_texts.json."""
+    texts = _load_article_texts()
+    key = f"{article_number}{article_suffix}"
+    paragraphs = texts.get(law.upper(), {}).get(key, [])
+    if not paragraphs:
+        return ""
+    lines = []
+    for p in paragraphs:
+        if p.get("type") == "list":
+            for item in p.get("items", []):
+                lines.append(f"  {item['letter']}. {item['text']}")
+        elif p.get("num"):
+            lines.append(f"  {p['num']} {p.get('text', '')}")
+        else:
+            lines.append(p.get("text", ""))
+    return "\n".join(lines)
 
 
 async def generate_layer(
@@ -44,12 +81,22 @@ async def generate_layer(
 
     suffix_str = article_suffix or ""
     art_dir = f"{law.lower()}/art-{str(article_number).zfill(3)}{suffix_str}/"
+
+    # Inject article text directly so the agent doesn't need get_article_text MCP
+    article_text = _format_article_text(law, article_number, suffix_str)
+    article_text_block = ""
+    if article_text:
+        article_text_block = (
+            f"\n\nHere is the official Gesetzestext of "
+            f"Art. {article_number}{suffix_str} {law}:\n\n{article_text}\n"
+        )
+
     prompt = (
         f"Generate the {layer_type} layer for "
         f"Art. {article_number}{suffix_str} {law}. "
         f"The article directory is at {art_dir}. "
-        f"Use the tools to research the article, "
-        f"then write the layer content."
+        f"{article_text_block}"
+        f"Use the tools to research case law and write the layer content."
     )
     if feedback:
         prompt += (
@@ -67,7 +114,6 @@ async def generate_layer(
             "read_article_meta",
             "read_layer_content",
             "write_layer_content",
-            "get_article_text",
             "search_decisions",
             "find_leading_cases",
             "get_decision",

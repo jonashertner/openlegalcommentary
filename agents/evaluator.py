@@ -12,9 +12,9 @@ from dataclasses import dataclass, field
 
 from agents.anthropic_client import run_agent
 from agents.config import AgentConfig
+from agents.law_agent import _format_article_text
 from agents.prompts import build_evaluator_prompt
 from agents.tools.content import create_content_tools
-from agents.tools.opencaselaw import create_opencaselaw_tools
 
 
 @dataclass
@@ -93,14 +93,27 @@ async def evaluate_layer(
     system_prompt = build_evaluator_prompt(config.guidelines_root)
 
     content_tools = create_content_tools(config.content_root)
-    opencaselaw_tools = create_opencaselaw_tools(config.mcp_base_url)
 
     suffix_str = article_suffix or ""
+
+    # Inject article text directly for verification
+    article_text = _format_article_text(law, article_number, suffix_str)
+    article_text_block = ""
+    if article_text:
+        article_text_block = (
+            f"\n\nHere is the official Gesetzestext of "
+            f"Art. {article_number}{suffix_str} {law}:\n\n{article_text}\n"
+        )
+
     prompt = (
         f"Evaluate the {layer_type} layer for "
         f"Art. {article_number}{suffix_str} {law}. "
-        f"Read the content, verify it against the article text "
-        f"and case law, then return your JSON verdict."
+        f"Read the content and evaluate its quality "
+        f"based on the rubric criteria. "
+        f"Do NOT reject content solely because you cannot "
+        f"verify external citations — evaluate what is written."
+        f"{article_text_block}"
+        f"Return your JSON verdict."
     )
 
     response_text, _ = await run_agent(
@@ -108,13 +121,10 @@ async def evaluate_layer(
         prompt=prompt,
         model=config.model_evaluator,
         content_tools=content_tools,
-        opencaselaw_tools=opencaselaw_tools,
+        opencaselaw_tools=None,
         allowed_tools=[
             "read_article_meta",
             "read_layer_content",
-            "get_article_text",
-            "find_leading_cases",
-            "search_decisions",
         ],
         max_turns=config.max_turns_per_agent,
     )
