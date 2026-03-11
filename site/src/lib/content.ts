@@ -59,11 +59,20 @@ function _findLawKey(texts: ArticleTextsData, law: string): string | undefined {
   return Object.keys(texts).find((k) => k.toLowerCase() === law.toLowerCase());
 }
 
+function _findArticleKey(lawTexts: Record<string, ArticleTextParagraph[]>, articleRaw: string): string | undefined {
+  if (articleRaw in lawTexts) return articleRaw;
+  // article_texts.json uses "5_a" format, site uses "5a" — try underscore variant
+  const underscored = articleRaw.replace(/(\d)([a-z])/g, '$1_$2');
+  if (underscored in lawTexts) return underscored;
+  return undefined;
+}
+
 export function getArticleText(law: string, articleRaw: string): ArticleTextParagraph[] {
   const texts = getArticleTexts('de');
   const key = _findLawKey(texts, law);
   if (!key) return [];
-  return texts[key]?.[articleRaw] || [];
+  const artKey = _findArticleKey(texts[key], articleRaw);
+  return artKey ? texts[key][artKey] : [];
 }
 
 export function getArticleTextI18n(
@@ -74,7 +83,8 @@ export function getArticleTextI18n(
     const texts = getArticleTexts(lang);
     const key = _findLawKey(texts, law);
     if (key) {
-      const paragraphs = texts[key]?.[articleRaw] || [];
+      const artKey = _findArticleKey(texts[key], articleRaw);
+      const paragraphs = artKey ? texts[key][artKey] : [];
       if (paragraphs.length > 0) result[lang] = paragraphs;
     }
   }
