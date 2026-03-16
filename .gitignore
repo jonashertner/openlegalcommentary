@@ -17,3 +17,6 @@ site/.astro/
 
 # Export output
 export/output/
+
+# Git worktrees
+.worktrees/
