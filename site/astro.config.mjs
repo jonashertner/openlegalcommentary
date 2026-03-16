@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 
 export default defineConfig({
   site: 'https://openlegalcommentary.ch',
-  base: '/openlegalcommentary',
+  base: '/',
   output: 'static',
   build: {
     format: 'directory',

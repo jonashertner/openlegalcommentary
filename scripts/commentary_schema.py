@@ -13,7 +13,7 @@ class Position(BaseModel):
 
 class Controversy(BaseModel):
     topic: str
-    positions: dict[str, str] = Field(min_length=2)
+    positions: dict[str, str] = Field(min_length=1)
 
 
 class ArticleRef(BaseModel):
