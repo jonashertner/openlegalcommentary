@@ -1,3 +1,13 @@
-# Uebersicht
+## Übersicht
 
-Art. 27 BV — Art. 27 BV
+Art. 27 BV schützt die Wirtschaftsfreiheit als eigenständiges Grundrecht. Diese umfasst drei Hauptbereiche: die freie Wahl des Berufs, den freien Zugang zu einer privatwirtschaftlichen Erwerbstätigkeit und deren freie Ausübung. Die Wirtschaftsfreiheit gilt für alle Menschen, die in der Schweiz eine Erwerbstätigkeit ausüben wollen.
+
+**Geschützte Tätigkeiten:** Die Wirtschaftsfreiheit schützt jede privatwirtschaftliche Tätigkeit, die berufsmässig ausgeübt wird und auf Gewinn oder Einkommen ausgerichtet ist (**BGE 130 I 26**). Dazu gehören zum Beispiel ein Restaurant eröffnen, als Anwalt arbeiten oder ein Geschäft betreiben. Auch die Vertragsfreiheit (das Recht, Verträge abzuschliessen, mit wem man will und zu welchen Bedingungen) ist Teil der Wirtschaftsfreiheit.
+
+**Grenzen des Schutzes:** Nicht geschützt sind Tätigkeiten ohne Erwerbscharakter. So entschied das Bundesgericht, dass Bettelei nicht unter Art. 27 BV fällt, weil keine berufsmässige Erwerbstätigkeit vorliegt (**BGE 134 I 214**, **BGE 149 I 248**). Ebenfalls umstritten ist die Konsumfreiheit (das Recht als Kunde zu kaufen, was man will): Das Bundesgericht lehnt deren Schutz durch Art. 27 BV ab, während Teile der Lehre wie Vallender und Biaggini dies kritisieren (Uhlmann, BSK BV, Art. 27 N. 12).
+
+**Staatliche Einschränkungen:** Der Staat darf die Wirtschaftsfreiheit nur unter strengen Voraussetzungen einschränken. Nötig sind: eine gesetzliche Grundlage, ein öffentliches Interesse, Verhältnismässigkeit und die Wahrung des Kerngehalts (→ Art. 36 BV). Zusätzlich muss der Staat wettbewerbsneutral handeln (↔ Art. 94 BV). Bewilligungspflichten für bestimmte Berufe sind grundsätzlich zulässig, müssen aber gerechtfertigt sein (**BGE 130 I 26**).
+
+**Staatliche Wirtschaftstätigkeit:** Wenn der Staat selbst wirtschaftlich tätig wird (z.B. eine staatliche Bank), muss er die Wettbewerbsneutralität wahren. Er darf private Unternehmen nicht unfair konkurrenzieren oder verdrängen (**BGE 138 I 378**). Bei Monopolen (ausschliesslichen Rechten des Staates) sind besonders strenge Anforderungen zu erfüllen.
+
+**Praktische Bedeutung:** Die Wirtschaftsfreiheit ist besonders wichtig bei Bewilligungsverfahren, Berufsreglementierungen und raumplanerischen Massnahmen. Sie schützt auch ausländische Personen und Unternehmen, die in der Schweiz tätig sind (**BGE 131 I 223**). Das Grundrecht begründet jedoch grundsätzlich keine Ansprüche auf staatliche Leistungen, sondern schützt vor staatlichen Eingriffen.
