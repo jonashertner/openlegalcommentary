@@ -43,7 +43,14 @@ Use the tools to:
 1. Read the article text via get_article_text
 2. Search for leading cases via find_leading_cases
 3. Read the existing caselaw layer for context
-4. Write the doctrine layer using write_layer_content""",
+4. Write the doctrine layer using write_layer_content
+
+When doctrinal reference data (BSK/CR) is provided in the prompt:
+- Ground your analysis in the named positions from the reference data
+- Cite BSK authors with Randziffern: Kessler, BSK OR I, Art. 41 N. 12
+- Cite CR authors with Randziffern: Thévenoz, CR CO I, Art. 41 N. 8
+- Present doctrinal controversies from the references with named positions on each side
+- Do NOT reproduce commentary text — synthesize original analysis""",
 
     "caselaw": """Generate the **Rechtsprechung (Case Law Digest)** layer for the given article.
 
@@ -121,7 +128,10 @@ def build_evaluator_prompt(guidelines_root: Path) -> str:
         "3. For caselaw layers: use find_leading_cases to verify completeness\n"
         "4. Evaluate against all non-negotiable criteria (binary pass/fail)\n"
         "5. Score all five dimensions (0.0–1.0)\n"
-        "6. Return your verdict as JSON in EXACTLY this format:\n\n"
+        "6. When doctrinal reference data is provided, cross-check cited BSK/CR "
+        "authors and Randziffern against the reference data\n"
+        "7. Reject if BSK/CR positions are cited that don't appear in the references\n"
+        "8. Return your verdict as JSON in EXACTLY this format:\n\n"
         "```json\n"
         "{\n"
         '  "verdict": "publish" or "reject",\n'

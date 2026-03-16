@@ -69,3 +69,16 @@ def test_all_eight_laws(guidelines_root):
     for law in ("BV", "ZGB", "OR", "ZPO", "StGB", "StPO", "SchKG", "VwVG"):
         prompt = build_law_agent_prompt(guidelines_root, law, "summary")
         assert len(prompt) > 500  # Should contain substantial guidelines
+
+
+def test_doctrine_instructions_mention_bsk():
+    from agents.prompts import LAYER_INSTRUCTIONS
+
+    doctrine = LAYER_INSTRUCTIONS["doctrine"]
+    assert "BSK" in doctrine
+    assert "Do NOT reproduce" in doctrine
+
+
+def test_evaluator_prompt_mentions_reference_data(guidelines_root):
+    prompt = build_evaluator_prompt(guidelines_root)
+    assert "reference data" in prompt.lower()

@@ -20,6 +20,10 @@ class AgentConfig:
     model_evaluator: str = "opus"
     model_translator: str = "sonnet"
 
+    commentary_refs_root: Path = field(
+        default_factory=lambda: Path("scripts/commentary_refs"),
+    )
+
     # Quality thresholds (from guidelines/evaluate.md)
     threshold_precision: float = 0.95
     threshold_concision: float = 0.90

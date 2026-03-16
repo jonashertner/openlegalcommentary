@@ -1,4 +1,6 @@
 # tests/test_config.py
+from pathlib import Path
+
 from agents.config import AgentConfig
 
 
@@ -28,3 +30,8 @@ def test_custom_config():
     config = AgentConfig(max_retries=5, model_doctrine="sonnet")
     assert config.max_retries == 5
     assert config.model_for_layer("doctrine") == "sonnet"
+
+
+def test_config_has_commentary_refs_root():
+    config = AgentConfig()
+    assert config.commentary_refs_root == Path("scripts/commentary_refs")
