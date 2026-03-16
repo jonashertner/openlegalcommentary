@@ -12,8 +12,8 @@ from dataclasses import dataclass, field
 
 from agents.anthropic_client import run_agent
 from agents.config import AgentConfig
-from agents.law_agent import _format_article_text
 from agents.prompts import build_evaluator_prompt
+from agents.references import format_article_text
 from agents.tools.content import create_content_tools
 
 
@@ -97,7 +97,7 @@ async def evaluate_layer(
     suffix_str = article_suffix or ""
 
     # Inject article text directly for verification
-    article_text = _format_article_text(law, article_number, suffix_str)
+    article_text = format_article_text(law, article_number, suffix_str)
     article_text_block = ""
     if article_text:
         article_text_block = (

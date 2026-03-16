@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import pytest
 
-from scripts.commentary_schema import ArticleRef, Position, Controversy
+from scripts.commentary_schema import ArticleRef, Controversy, Position
 
 
 def test_article_ref_required_fields():
@@ -28,7 +28,10 @@ def test_article_ref_edition_required():
 
 
 def test_position_model():
-    p = Position(author="Kessler", n="N. 12", topic="Widerrechtlichkeit", position="Erfolgsunrecht genügt")
+    p = Position(
+        author="Kessler", n="N. 12",
+        topic="Widerrechtlichkeit", position="Erfolgsunrecht genügt",
+    )
     assert p.author == "Kessler"
     assert p.n == "N. 12"
 
@@ -46,7 +49,10 @@ def test_article_ref_full():
         authors=["Kessler", "Widmer Lüchinger"],
         edition="BSK OR I, 7. Aufl. 2019",
         randziffern_map={"1-3": "Entstehungsgeschichte", "4-8": "Systematik"},
-        positions=[Position(author="Kessler", n="N. 12", topic="Widerrechtlichkeit", position="Erfolgsunrecht genügt")],
+        positions=[Position(
+            author="Kessler", n="N. 12",
+            topic="Widerrechtlichkeit", position="Erfolgsunrecht genügt",
+        )],
         controversies=[Controversy(topic="Organhaftung", positions={"A": "yes", "B": "no"})],
         cross_refs=["Art. 97 OR"],
         key_literature=["Gauch/Schluep/Schmid, OR AT, 11. Aufl. 2020"],

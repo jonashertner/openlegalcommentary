@@ -8,47 +8,12 @@ Each call runs a Claude agent with:
 """
 from __future__ import annotations
 
-import json
-from pathlib import Path
-
 from agents.anthropic_client import run_agent
 from agents.config import AgentConfig
 from agents.prompts import build_law_agent_prompt
+from agents.references import format_article_text
 from agents.tools.content import create_content_tools
 from agents.tools.opencaselaw import create_opencaselaw_tools
-
-_article_texts_cache: dict | None = None
-
-
-def _load_article_texts() -> dict:
-    global _article_texts_cache
-    if _article_texts_cache is not None:
-        return _article_texts_cache
-    texts_path = Path("scripts/article_texts.json")
-    if texts_path.exists():
-        _article_texts_cache = json.loads(texts_path.read_text())
-        return _article_texts_cache
-    _article_texts_cache = {}
-    return _article_texts_cache
-
-
-def _format_article_text(law: str, article_number: int, article_suffix: str) -> str:
-    """Get formatted article text from article_texts.json."""
-    texts = _load_article_texts()
-    key = f"{article_number}{article_suffix}"
-    paragraphs = texts.get(law.upper(), {}).get(key, [])
-    if not paragraphs:
-        return ""
-    lines = []
-    for p in paragraphs:
-        if p.get("type") == "list":
-            for item in p.get("items", []):
-                lines.append(f"  {item['letter']}. {item['text']}")
-        elif p.get("num"):
-            lines.append(f"  {p['num']} {p.get('text', '')}")
-        else:
-            lines.append(p.get("text", ""))
-    return "\n".join(lines)
 
 
 async def generate_layer(
@@ -83,7 +48,7 @@ async def generate_layer(
     art_dir = f"{law.lower()}/art-{str(article_number).zfill(3)}{suffix_str}/"
 
     # Inject article text directly so the agent doesn't need get_article_text MCP
-    article_text = _format_article_text(law, article_number, suffix_str)
+    article_text = format_article_text(law, article_number, suffix_str)
     article_text_block = ""
     if article_text:
         article_text_block = (
