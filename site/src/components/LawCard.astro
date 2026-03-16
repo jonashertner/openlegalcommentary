@@ -1,5 +1,6 @@
 ---
 // site/src/components/LawCard.astro
+import { BASE } from '@/lib/base';
 import type { LawInfo } from '../lib/laws';
 import type { LawStats } from '../lib/content';
 
@@ -9,7 +10,7 @@ export interface Props {
 }
 
 const { law, stats } = Astro.props;
-const href = `${import.meta.env.BASE_URL}/${law.abbr.toLowerCase()}`;
+const href = `${BASE}/${law.abbr.toLowerCase()}`;
 ---
 
 <a href={href} class="law-card">

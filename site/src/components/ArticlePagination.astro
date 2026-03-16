@@ -1,5 +1,7 @@
 ---
 // site/src/components/ArticlePagination.astro
+import { BASE } from '@/lib/base';
+
 export interface Props {
   law: string;
   prev: { slug: string; title: string } | null;
@@ -11,7 +13,7 @@ const { law, prev, next } = Astro.props;
 
 <nav class="article-pagination" aria-label="Artikelnavigation">
   {prev ? (
-    <a href={`${import.meta.env.BASE_URL}/${law}/${prev.slug}`} class="pagination-link pagination-prev">
+    <a href={`${BASE}/${law}/${prev.slug}`} class="pagination-link pagination-prev">
       <span class="pagination-arrow">&larr;</span>
       <span class="pagination-meta">
         <span class="pagination-direction text-xs">Vorheriger</span>
@@ -21,7 +23,7 @@ const { law, prev, next } = Astro.props;
   ) : <span />}
 
   {next ? (
-    <a href={`${import.meta.env.BASE_URL}/${law}/${next.slug}`} class="pagination-link pagination-next">
+    <a href={`${BASE}/${law}/${next.slug}`} class="pagination-link pagination-next">
       <span class="pagination-meta">
         <span class="pagination-direction text-xs">Nächster</span>
         <span class="pagination-title">{next.title}</span>

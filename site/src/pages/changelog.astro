@@ -1,5 +1,6 @@
 ---
 // site/src/pages/changelog.astro
+import { BASE } from '@/lib/base';
 import Base from '../layouts/Base.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
 import fs from 'node:fs';
@@ -108,7 +109,7 @@ const layerLabels: Record<string, string> = {
             <ul class="changelog-entries">
               {entries.map((entry) => (
                 <li>
-                  <a href={`${import.meta.env.BASE_URL}/${entry.law.toLowerCase()}/${entry.slug}?layer=${entry.layer}`}>
+                  <a href={`${BASE}/${entry.law.toLowerCase()}/${entry.slug}?layer=${entry.layer}`}>
                     <span class="change-law font-heading">{entry.law}</span>
                     <span class="change-article">
                       Art.&nbsp;{entry.article}{entry.suffix}

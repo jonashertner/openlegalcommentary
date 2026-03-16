@@ -1,5 +1,7 @@
 ---
 // site/src/components/Breadcrumb.astro
+import { BASE, HOME } from '@/lib/base';
+
 export interface BreadcrumbItem {
   label: string;
   href?: string;
@@ -14,7 +16,7 @@ const { items } = Astro.props;
 
 <nav aria-label="Breadcrumb" class="breadcrumb">
   <ol>
-    <li><a href={`${import.meta.env.BASE_URL}`}>Home</a></li>
+    <li><a href={HOME}>Home</a></li>
     {items.map((item, i) => (
       <li>
         <span class="breadcrumb-sep" aria-hidden="true">/</span>

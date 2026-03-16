@@ -1,5 +1,7 @@
 ---
 // site/src/components/Header.astro
+import { BASE, HOME } from '@/lib/base';
+
 export interface Props {
   currentPath?: string;
 }
@@ -9,7 +11,7 @@ const { currentPath = '' } = Astro.props;
 
 <header class="site-header">
   <div class="header-inner page-wrapper">
-    <a href={`${import.meta.env.BASE_URL}`} class="site-logo">
+    <a href={HOME} class="site-logo">
       <span class="logo-mark" aria-hidden="true">§</span>
       <span class="logo-text">
         <span class="logo-title">Open Legal Commentary</span>
@@ -23,9 +25,9 @@ const { currentPath = '' } = Astro.props;
         <span class="nav-toggle-bar"></span>
       </button>
       <ul id="nav-menu" class="nav-list" role="list">
-        <li><a href={`${import.meta.env.BASE_URL}`} class:list={[{ active: currentPath === '/' || currentPath === import.meta.env.BASE_URL }]}>Gesetze</a></li>
-        <li><a href={`${import.meta.env.BASE_URL}/about`} class:list={[{ active: currentPath.includes('/about') }]}>Über uns</a></li>
-        <li><a href={`${import.meta.env.BASE_URL}/changelog`} class:list={[{ active: currentPath.includes('/changelog') }]}>Änderungen</a></li>
+        <li><a href={HOME} class:list={[{ active: currentPath === '/' || currentPath === HOME }]}>Gesetze</a></li>
+        <li><a href={`${BASE}/about`} class:list={[{ active: currentPath.includes('/about') }]}>Über uns</a></li>
+        <li><a href={`${BASE}/changelog`} class:list={[{ active: currentPath.includes('/changelog') }]}>Änderungen</a></li>
       </ul>
     </nav>
 

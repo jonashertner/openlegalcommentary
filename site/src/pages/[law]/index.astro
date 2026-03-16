@@ -1,5 +1,6 @@
 ---
 // site/src/pages/[law]/index.astro
+import { BASE, HOME } from '@/lib/base';
 import Base from '../../layouts/Base.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import SearchBar from '../../components/SearchBar.astro';
@@ -16,7 +17,7 @@ const { law: lawParam } = Astro.params;
 const lawInfo = getLawByAbbr(lawParam!);
 
 if (!lawInfo) {
-  return Astro.redirect(import.meta.env.BASE_URL);
+  return Astro.redirect(HOME);
 }
 
 const articles = listArticles(lawInfo.abbr);
@@ -96,7 +97,7 @@ if (useGrouping) {
             const hasContent = Object.keys(art.meta.layers).length > 0;
             return (
               <li class:list={['toc-item', { 'has-content': hasContent }]}>
-                <a href={`${import.meta.env.BASE_URL}/${lawParam}/${art.slug}`}>
+                <a href={`${BASE}/${lawParam}/${art.slug}`}>
                   <span class="toc-num font-mono">Art.&nbsp;{displayNum}</span>
                   <span class="toc-title">{art.meta.title}</span>
                   {hasContent && <span class="toc-badge" title="Kommentiert">●</span>}

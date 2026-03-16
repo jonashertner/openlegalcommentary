@@ -1,5 +1,6 @@
 ---
 // site/src/pages/[law]/[article].astro
+import { BASE, HOME } from '@/lib/base';
 import Base from '../../layouts/Base.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import ArticleTabs from '../../components/ArticleTabs.astro';
@@ -26,7 +27,7 @@ export function getStaticPaths() {
 
 const { law: lawParam, article: articleSlug } = Astro.params;
 const lawInfo = getLawByAbbr(lawParam!);
-if (!lawInfo) return Astro.redirect(import.meta.env.BASE_URL);
+if (!lawInfo) return Astro.redirect(HOME);
 
 const dirName = slugToDirName(articleSlug!);
 const articleData = loadArticle(lawInfo.abbr, dirName);
@@ -34,7 +35,7 @@ const articleData = loadArticle(lawInfo.abbr, dirName);
 // Build meta from article_lists.json fallback if no content dir
 const allArticles = listArticles(lawInfo.abbr);
 const articleEntry = allArticles.find((a) => a.slug === articleSlug);
-if (!articleData && !articleEntry) return Astro.redirect(`${import.meta.env.BASE_URL}/${lawParam}`);
+if (!articleData && !articleEntry) return Astro.redirect(`${BASE}/${lawParam}`);
 
 const meta = articleData?.meta || articleEntry!.meta;
 const summary = articleData?.summary || '';
@@ -119,7 +120,7 @@ function mdToHtml(md: string): string {
       /(?:→|↔)\s*Art\.\s*(\d+)([a-z]*)\s+(BV|ZGB|OR|ZPO|StGB|StPO|SchKG|VwVG)/g,
       (match, num, suffix, law) => {
         const lawLower = law.toLowerCase();
-        const base = import.meta.env.BASE_URL;
+        const base = BASE;
         return `<a href="${base}/${lawLower}/art-${parseInt(num)}${suffix}" class="cite-cross">${match}</a>`;
       }
     )
@@ -209,7 +210,7 @@ const lastUpdated = Object.values(layerMeta)
 <Base title={articleDisplay} description={`Kommentar zu ${articleDisplay}`}>
   <Breadcrumb
     items={[
-      { label: lawInfo.abbr, href: `${import.meta.env.BASE_URL}/${lawParam}` },
+      { label: lawInfo.abbr, href: `${BASE}/${lawParam}` },
       { label: articleDisplay },
     ]}
   />
