@@ -2,16 +2,12 @@
 
 ## Übersicht
 
-Die Sprachenfreiheit schützt das Recht jeder Person, ihre Sprache frei zu wählen. Sie umfasst vor allem die private Kommunikation zwischen Menschen.
+Art. 18 BV garantiert die Sprachenfreiheit. Dieses Grundrecht schützt das Recht, die eigene Sprache zu sprechen und zu verwenden. Die Sprachenfreiheit ist jedoch nicht absolut (BGE 143 IV 117 E. 2.1). Sie wird durch das Territorialitätsprinzip (Grundsatz der örtlichen Sprachordnung) begrenzt.
 
-Art. 18 BV garantiert zwei wichtige Bereiche: Den **privaten Sprachgebrauch** darf der Staat nicht einschränken. Jede Person kann im Alltag sprechen, wie sie möchte — in ihrer Muttersprache, im Dialekt oder in einer Fremdsprache. Anders ist es bei der **öffentlichen Sprachverwendung** mit Behörden: Hier gelten die Amtssprachen der Kantone. In deutschsprachigen Gebieten müssen Gerichte und Verwaltungen nicht auf Französisch oder Italienisch kommunizieren.
+**Wer ist betroffen?** Alle Personen in der Schweiz können sich auf die Sprachenfreiheit berufen. Dies umfasst sowohl Schweizer Bürger als auch Ausländer. Nach der Lehre können auch juristische Personen (Unternehmen, Vereine) die Sprachenfreiheit geltend machen (BSK BV-Caroni/Hefti, Art. 18 N. 25).
 
-Besonders wichtig ist die Sprachenfreiheit im Schulwesen. Kinder haben grundsätzlich keinen Anspruch darauf, in ihrer Muttersprache unterrichtet zu werden. Die Kantone bestimmen die Schulsprachen nach dem **Territorialitätsprinzip** (örtliche Sprachordnung). In Bern wird deutsch unterrichtet, im Tessin italienisch — auch wenn Familien andere Sprachen sprechen.
+**Was schützt die Sprachenfreiheit?** Der private Sprachgebrauch bildet den Kern der Sprachenfreiheit und duldet keinerlei staatliche Beschränkungen (BSK BV-Caroni/Hefti, Art. 18 N. 14). Im öffentlichen Bereich ist die Sprachenfreiheit jedoch eingeschränkt. Das Territorialitätsprinzip erlaubt es den Kantonen und Gemeinden, Amtssprachen zu bestimmen. Behörden müssen grundsätzlich nicht in einer anderen Sprache als der örtlichen Amtssprache verkehren (BGE 143 IV 117 E. 2.1).
 
-**Beispiel**: Eine italienischsprachige Familie zieht nach Zürich. Die Kinder haben keinen verfassungsrechtlichen Anspruch auf italienischsprachigen Unterricht in der öffentlichen Schule. Sie können aber zu Hause und mit Freunden weiterhin Italienisch sprechen, ohne dass der Staat dies verbieten darf.
+**Rechtsfolgen:** Eingriffe in die Sprachenfreiheit müssen den allgemeinen Eingriffsvoraussetzungen von Art. 36 BV genügen. Sie benötigen eine gesetzliche Grundlage, müssen durch ein öffentliches Interesse gerechtfertigt und verhältnismässig sein (BSK BV-Caroni/Hefti, Art. 18 N. 20-21).
 
-Die Sprachenfreiheit schützt auch **Minderheitensprachen** wie das Rätoromanische. In mehrsprachigen Gebieten können traditionelle Sprachgemeinschaften verlangen, dass ihre Sprache im Schulunterricht erhalten bleibt — aber nur, wenn genügend Schüler vorhanden sind und es praktisch machbar ist.
-
-Im Strafverfahren haben Beschuldigte das Recht auf Übersetzung, wenn sie die Verfahrenssprache nicht verstehen. Dies folgt aus dem Recht auf ein faires Verfahren (Art. 29 BV).
-
-Die Sprachenfreiheit ist ein **individuelles Grundrecht**. Sie verpflichtet den Staat, die private Sprachwahl zu respektieren. Sie begründet aber keine Pflicht, alle Amtsgeschäfte in jeder gewünschten Sprache zu führen.
+**Beispiel:** Ein deutschsprachiger Tourist kann in Genf privat Deutsch sprechen. Die Genfer Behörden müssen aber seine Eingabe nicht auf Deutsch bearbeiten – sie können eine französische Übersetzung verlangen. In Strafverfahren hat er jedoch Anspruch auf Übersetzung wichtiger Verfahrensschritte (BGE 143 IV 117 E. 3.1).
