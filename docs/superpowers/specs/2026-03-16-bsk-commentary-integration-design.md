@@ -24,7 +24,8 @@ Not covered: ZGB, SchKG, VwVG (no BSK volumes available).
 
 - **No reproduction**: The pipeline must not copy or closely paraphrase BSK/CR text. It synthesizes original commentary that cites specific authors and positions.
 - **Structured references, not raw text**: What gets injected into prompts is author names, Randziffern maps, named positions, and controversies — not the commentary text itself.
-- **Minimal architecture change**: Follows the existing pattern of `_format_article_text()` injection. No new infrastructure (no vector DB, no embeddings).
+- **Minimal architecture change**: Follows the existing pattern of article text injection. No new infrastructure (no vector DB, no embeddings).
+- **Consolidate shared utilities**: Article text and commentary ref functions both serve the same purpose (load JSON, format for prompt injection) and are needed by both `law_agent.py` and `evaluator.py`. Consolidate into `agents/references.py`.
 
 ## 1. PDF Storage
 
@@ -78,7 +79,7 @@ scripts/commentary_raw/
 - **Validation**: Each article's output is validated against a Pydantic schema (see §3) before writing. Malformed entries are logged and skipped, not written.
 - **Resume**: State file at `scripts/commentary_raw/{law}_bsk_digest_state.json` tracks completed article keys. `--resume` flag skips already-digested articles. Same pattern as `agents/bootstrap.py`.
 - CR CO I: French input, but output schema is identical (positions summarized in German for uniform consumption by the law agent)
-- **Long articles**: Articles exceeding 20k tokens of raw text are split into overlapping chunks for digestion, then merged. A `--max-input-tokens` flag (default 20000) controls this threshold.
+- **Long articles**: Articles exceeding 20k tokens of raw text are split into overlapping chunks for digestion, then merged. A `--max-input-tokens` flag (default 20000) controls this threshold. **Merge strategy**: Each chunk is assigned a primary Randziffern range; the overlap exists only for context. When merging, positions/controversies are deduplicated by N. reference — the entry from the chunk whose primary range contains that N. wins. Duplicate cross-refs and literature entries are deduplicated by string equality.
 
 ### Cost Estimate
 
@@ -97,6 +98,12 @@ One-time cost. Ongoing cost increase per article generation is negligible (~500�
 `scripts/commentary_refs/{law}_bsk.json`
 
 Article keys use the same format as `article_texts.json`: `"{number}{suffix}"` (e.g., `"41"`, `"6a"`, `"706b"`).
+
+### Pydantic Schema (`scripts/commentary_schema.py`)
+
+**Required fields**: `authors` (non-empty list[str]), `edition` (str).
+
+**Optional fields** (default to empty list/dict): `randziffern_map`, `positions`, `controversies`, `cross_refs`, `key_literature`. Many minor articles will have only a few Randziffern with no controversies — missing data just means less context for the agent, not an error.
 
 ```json
 {
@@ -142,10 +149,15 @@ Article keys use the same format as `article_texts.json`: `"{number}{suffix}"` (
 
 ### Shared utility: `agents/references.py` (new file)
 
-Reference loading and formatting live in a dedicated module (not as private functions in `law_agent.py`) since both the law agent and evaluator need them.
+This module consolidates all reference loading and formatting. It replaces the existing `_load_article_texts()` / `_format_article_text()` from `law_agent.py` (which the evaluator currently imports as a cross-module private function) and adds commentary ref support.
 
-- `load_commentary_refs(refs_root: Path, law: str) -> dict` — loads and caches `{refs_root}/{law}_bsk.json` + `{refs_root}/{law}_cr.json`, merging both into a single dict. Returns empty dict if no files exist (graceful for ZGB, SchKG, VwVG).
-- `format_commentary_refs(refs_root: Path, law: str, article_number: int, suffix: str) -> str` — looks up the article key, formats the reference block. Returns empty string if no data.
+**Relocated from `law_agent.py`**:
+- `load_article_texts() -> dict` — loads and caches `scripts/article_texts.json` (same logic, now public)
+- `format_article_text(law: str, article_number: int, suffix: str) -> str` — formats article text block
+
+**New for commentary refs**:
+- `load_commentary_refs(refs_root: Path, law: str) -> dict` — loads and caches `{refs_root}/{law}_bsk.json` + `{refs_root}/{law}_cr.json`, merging both into a single dict. Returns empty dict if no files exist (graceful for ZGB, SchKG, VwVG). Uses module-level dict cache keyed by `(refs_root, law)`, same pattern as existing article text cache.
+- `format_commentary_refs(refs_root: Path, law: str, article_number: int, suffix: str) -> str` — constructs key as `f"{article_number}{suffix}"`, looks it up, formats the reference block. Returns empty string if no data.
 
 **BSK + CR merging**: When both BSK and CR cover the same article (OR Art. 1–529), the formatted block includes both under labeled subsections (`### BSK` and `### CR`), presented sequentially.
 
@@ -188,7 +200,7 @@ Do NOT reproduce commentary text — synthesize original analysis that cites spe
 
 ### Evaluator (`agents/evaluator.py`)
 
-Calls `format_commentary_refs()` from `agents/references.py` with the same signature. Enables the evaluator to:
+Imports `format_article_text` and `format_commentary_refs` from `agents/references.py` (replacing the current `from agents.law_agent import _format_article_text`). Injects commentary refs into the evaluator prompt the same way as the law agent. Enables the evaluator to:
 
 - Verify cited BSK/CR authors exist in the reference data
 - Check that N. references are plausible given the Randziffern map
@@ -265,8 +277,8 @@ pymupdf = ">=1.24"
 | `scripts/digest_commentary.py` | New — structured digestion via Claude |
 | `scripts/commentary_schema.py` | New — Pydantic schema for commentary ref validation |
 | `agents/references.py` | New — shared commentary ref loading and formatting |
-| `agents/law_agent.py` | Modify — inject commentary refs via `agents/references.py` |
-| `agents/evaluator.py` | Modify — inject commentary refs via `agents/references.py` |
+| `agents/law_agent.py` | Modify — replace `_load_article_texts`/`_format_article_text` with imports from `references.py`, add commentary ref injection |
+| `agents/evaluator.py` | Modify — replace `_format_article_text` import with `references.py`, add commentary ref injection |
 | `agents/config.py` | Modify — add `commentary_refs_root` |
 | `agents/prompts.py` | Modify — update doctrine/evaluator instructions |
 | `guidelines/global.md` | Modify — add BSK/CR citation rules |
