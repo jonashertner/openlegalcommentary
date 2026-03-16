@@ -42,3 +42,118 @@ def format_article_text(law: str, article_number: int, suffix: str) -> str:
         else:
             lines.append(p.get("text", ""))
     return "\n".join(lines)
+
+
+# --- Commentary references (BSK / CR) ---
+
+_commentary_refs_cache: dict[tuple, dict] = {}
+
+
+def load_commentary_refs(refs_root: Path, law: str) -> dict:
+    """Load and merge BSK + CR commentary references for a law.
+
+    Returns a dict keyed by article number string. When both BSK and CR
+    exist for the same article, the value is {"bsk": {...}, "cr": {...}}.
+    When only one source exists, it's {"bsk": {...}} or {"cr": {...}}.
+    Returns empty dict if no files exist.
+    """
+    cache_key = (str(refs_root), law)
+    if cache_key in _commentary_refs_cache:
+        return _commentary_refs_cache[cache_key]
+
+    merged: dict = {}
+    for source in ("bsk", "cr"):
+        path = refs_root / f"{law.lower()}_{source}.json"
+        if not path.exists():
+            continue
+        data = json.loads(path.read_text())
+        articles = data.get(law.upper(), {})
+        for art_key, art_data in articles.items():
+            if art_key not in merged:
+                merged[art_key] = {}
+            merged[art_key][source] = art_data
+
+    _commentary_refs_cache[cache_key] = merged
+    return merged
+
+
+def _format_single_source(source_label: str, data: dict) -> str:
+    """Format a single BSK or CR source block."""
+    lines = []
+    lines.append(f"### {source_label}")
+    lines.append(f"Authors: {', '.join(data.get('authors', []))}")
+    lines.append(f"Edition: {data.get('edition', '')}")
+
+    rz_map = data.get("randziffern_map", {})
+    if rz_map:
+        lines.append("")
+        lines.append("Randziffern overview:")
+        for rz_range, topic in rz_map.items():
+            lines.append(f"- N. {rz_range}: {topic}")
+
+    positions = data.get("positions", [])
+    if positions:
+        lines.append("")
+        lines.append("Key positions:")
+        for p in positions:
+            lines.append(f"- {p['author']}, {p['n']}: {p['position']}")
+
+    controversies = data.get("controversies", [])
+    if controversies:
+        lines.append("")
+        lines.append("Doctrinal controversies:")
+        for c in controversies:
+            parts = [
+                f"{author}: {pos}"
+                for author, pos in c["positions"].items()
+            ]
+            lines.append(f"- {c['topic']}: {'; '.join(parts)}")
+
+    cross_refs = data.get("cross_refs", [])
+    if cross_refs:
+        lines.append("")
+        lines.append(f"Cross-references: {', '.join(cross_refs)}")
+
+    key_lit = data.get("key_literature", [])
+    if key_lit:
+        lines.append("")
+        lines.append("Key literature:")
+        for lit in key_lit:
+            lines.append(f"- {lit}")
+
+    return "\n".join(lines)
+
+
+def format_commentary_refs(
+    refs_root: Path, law: str, article_number: int, suffix: str,
+) -> str:
+    """Format commentary references for prompt injection.
+
+    Returns empty string if no data available.
+    """
+    refs = load_commentary_refs(refs_root, law)
+    key = f"{article_number}{suffix}"
+    article_refs = refs.get(key)
+    if not article_refs:
+        return ""
+
+    blocks = []
+    blocks.append("## Doctrinal Reference Data (BSK / CR)")
+    blocks.append("")
+
+    for source in ("bsk", "cr"):
+        if source in article_refs:
+            label = "BSK" if source == "bsk" else "CR"
+            blocks.append(_format_single_source(label, article_refs[source]))
+            blocks.append("")
+
+    blocks.append(
+        "Use these references to ground your doctrinal analysis. "
+        "Cite authors with proper BSK/CR Randziffern."
+    )
+    blocks.append(
+        "Do NOT reproduce commentary text — synthesize original "
+        "analysis that cites specific positions."
+    )
+
+    return "\n".join(blocks)
