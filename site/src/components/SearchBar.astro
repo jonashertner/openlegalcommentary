@@ -162,6 +162,15 @@ const { placeholder = 'Artikel suchen — z.B. "Art. 41 OR" oder "Haftung"', aut
       display: none;
     }
   }
+
+  @media (max-width: 480px) {
+    .search-results {
+      max-height: 50vh;
+    }
+    .search-input::placeholder {
+      font-size: var(--text-sm);
+    }
+  }
 </style>
 
 <script>

@@ -387,6 +387,19 @@ const lastUpdated = Object.values(layerMeta)
       width: 36px;
       height: 36px;
     }
+    .article-meta {
+      flex-direction: column;
+      gap: var(--space-1);
+    }
+    .article-updated {
+      text-align: left;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .article-header h1 {
+      font-size: 1.25rem;
+    }
   }
 </style>
 

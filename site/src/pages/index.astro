@@ -394,4 +394,16 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
       align-items: center;
     }
   }
+
+  @media (max-width: 480px) {
+    .hero-title {
+      font-size: 2rem;
+    }
+    .hero-stats {
+      gap: var(--space-2);
+    }
+    .hero-stat-value {
+      font-size: var(--text-lg);
+    }
+  }
 </style>

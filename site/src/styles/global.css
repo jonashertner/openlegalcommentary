@@ -544,6 +544,18 @@ main {
   h1 { font-size: var(--text-2xl); }
 }
 
+@media (max-width: 480px) {
+  :root {
+    --text-base: 0.9375rem;
+  }
+  .page-wrapper {
+    padding-left: var(--space-2);
+    padding-right: var(--space-2);
+  }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.15rem; }
+}
+
 /* ===== Selection ===== */
 ::selection {
   background: var(--color-accent-light);
