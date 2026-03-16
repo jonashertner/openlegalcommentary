@@ -2,18 +2,14 @@
 
 ## Übersicht
 
-Art. 12 BV garantiert das verfassungsrechtliche Recht auf Hilfe in Notlagen. Es ist ein echtes Grundrecht, nicht nur ein Staatsziel. Die Verfassung verspricht jedem Menschen die nötigsten Mittel für ein menschenwürdiges Leben.
+Artikel 12 der Bundesverfassung gibt Menschen in einer Notlage das Recht auf staatliche Hilfe. Das Grundrecht (unveräusserliches Recht jeder Person) gewährleistet die grundlegenden Mittel zum Überleben und für ein menschenwürdiges Leben.
 
-**Was regelt die Norm?**  
-Die Verfassung gibt allen Menschen in der Schweiz ein Recht auf Nothilfe (staatliche Hilfe in besonderen Notlagen). Dieses Recht umfasst Hilfe, Betreuung und die unbedingt notwendigen Mittel zum Überleben. Dazu gehören Nahrung, Kleidung, Unterkunft und medizinische Grundversorgung.
+**Wer hat Anspruch auf Hilfe?** Jede Person, die sich in einer akuten Notlage befindet und sich nicht selber helfen kann. Eine Notlage liegt vor, wenn jemand die wichtigsten Bedürfnisse nicht erfüllen kann: Nahrung, Wohnung, Kleidung oder medizinische Behandlung. Die Person muss jedoch zuerst alle eigenen Möglichkeiten ausgeschöpft haben (Subsidiaritätsprinzip). Wer eine zumutbare Arbeit verweigert oder auf andere Hilfe verzichtet, erhält grundsätzlich keine Unterstützung.
 
-**Wer ist betroffen?**  
-Alle Menschen in der Schweiz können dieses Recht beanspruchen. Das gilt für Schweizer Bürger, Ausländer mit Aufenthaltsbewilligung und sogar für abgewiesene Asylbewerber. Zwei Bedingungen müssen erfüllt sein: Die Person muss in Not sein und kann sich nicht selbst helfen.
+**Welche Hilfe wird geleistet?** Der Staat muss die absolut notwendigen Mittel zum Überleben bereitstellen. Dazu gehören Unterkunft, Verpflegung, Kleidung und medizinische Grundversorgung. Die Hilfe kann als Geld oder als Naturalleistung (direkte Bereitstellung von Wohnung und Essen) erfolgen. Bei abgewiesenen Asylbewerbern wird oft nur Naturalleistung gewährt.
 
-**Was sind die Rechtsfolgen?**  
-Der Staat muss helfen, wenn jemand diese Bedingungen erfüllt. Die Nothilfe kann als Geldleistung oder als Naturalleistung (Essen, Unterkunft) gewährt werden. Der Anspruch ist unantastbar – er kann nie vollständig gestrichen werden.
+**Praktisches Beispiel:** Eine alleinerziehende Mutter verliert ihre Arbeit und kann die Miete nicht mehr bezahlen. Sie hat kein Vermögen und keine Familie, die helfen könnte. Das Arbeitslosengeld reicht nicht zum Leben. In dieser Situation kann sie Nothilfe beantragen, bis andere Unterstützung (Sozialhilfe) greift oder sie wieder Arbeit findet.
 
-**Konkretes Beispiel:**  
-Ein arbeitsloser Mann erhält keine Sozialhilfe mehr, weil er ein Arbeitsprogramm verweigert hat. Trotzdem hat er Anspruch auf Nothilfe nach Art. 12 BV. Diese umfasst täglich warme Mahlzeiten, eine einfache Unterkunft und notwendige Medikamente. Das Existenzminimum muss auch bei Sanktionen gewährleistet bleiben.
+**Wichtige Grenzen:** Das Recht gilt nur für das absolute Minimum zum Überleben. Es ist kein Recht auf komfortables Leben. Die betroffene Person muss aktiv nach Lösungen suchen und angebotene Hilfe annehmen. Wer eigene Mittel versteckt oder nicht alle Möglichkeiten nutzt, verliert den Anspruch.
 
-Das Subsidiaritätsprinzip (Vorrang der Selbsthilfe) ist wichtig: Nur wer sich wirklich nicht selbst helfen kann, erhält staatliche Unterstützung.
+Anders als andere Grundrechte kann Art. 12 BV nicht eingeschränkt werden. Selbst Straftäter oder Personen ohne legalen Aufenthaltsstatus behalten diesen Anspruch. Das Recht schützt die Menschenwürde in ihrer grundlegendsten Form.
