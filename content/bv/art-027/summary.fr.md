@@ -1,0 +1,13 @@
+## Aperçu
+
+L'art. 27 Cst. protège la liberté économique en tant que droit fondamental autonome. Celle-ci comprend trois domaines principaux : le libre choix de la profession, le libre accès à une activité économique privée et le libre exercice de cette activité. La liberté économique s'applique à toute personne qui souhaite exercer une activité lucrative en Suisse.
+
+**Activités protégées :** La liberté économique protège toute activité économique privée exercée de manière professionnelle et orientée vers le profit ou le revenu (**ATF 130 I 26**). Cela comprend par exemple l'ouverture d'un restaurant, le travail en tant qu'avocat ou l'exploitation d'un commerce. La liberté contractuelle (le droit de conclure des contrats avec qui l'on veut et aux conditions souhaitées) fait également partie de la liberté économique.
+
+**Limites de la protection :** Les activités sans caractère lucratif ne sont pas protégées. Ainsi, le Tribunal fédéral a décidé que la mendicité ne relève pas de l'art. 27 Cst., car il n'y a pas d'activité lucrative professionnelle (**ATF 134 I 214**, **ATF 149 I 248**). La liberté de consommation (le droit d'acheter en tant que client ce que l'on veut) est également controversée : le Tribunal fédéral refuse sa protection par l'art. 27 Cst., tandis que certains auteurs comme Vallender et Biaggini critiquent cette position (Uhlmann, BSK BV, Art. 27 n. 12).
+
+**Restrictions étatiques :** L'État ne peut restreindre la liberté économique que sous des conditions strictes. Il faut : une base légale, un intérêt public, la proportionnalité et le respect du noyau dur (→ art. 36 Cst.). En outre, l'État doit agir de manière neutre sur le plan concurrentiel (↔ art. 94 Cst.). Les obligations d'autorisation pour certaines professions sont en principe admissibles, mais doivent être justifiées (**ATF 130 I 26**).
+
+**Activité économique étatique :** Lorsque l'État exerce lui-même une activité économique (p. ex. une banque d'État), il doit respecter la neutralité concurrentielle. Il ne peut pas concurrencer de manière déloyale les entreprises privées ou les évincer (**ATF 138 I 378**). En cas de monopoles (droits exclusifs de l'État), des exigences particulièrement strictes doivent être remplies.
+
+**Signification pratique :** La liberté économique revêt une importance particulière dans les procédures d'autorisation, les réglementations professionnelles et les mesures d'aménagement du territoire. Elle protège également les personnes et entreprises étrangères qui exercent une activité en Suisse (**ATF 131 I 223**). Ce droit fondamental ne fonde toutefois en principe aucun droit à des prestations étatiques, mais protège contre les interventions de l'État.
