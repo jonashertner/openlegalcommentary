@@ -1,0 +1,13 @@
+## Panoramica
+
+L'art. 27 Cost. tutela la libertà economica come diritto fondamentale autonomo. Questa comprende tre settori principali: la libera scelta della professione, il libero accesso a un'attività lucrativa privata e il suo libero esercizio. La libertà economica vale per tutte le persone che vogliono esercitare un'attività lucrativa in Svizzera.
+
+**Attività protette:** La libertà economica tutela ogni attività economica privata esercitata professionalmente e orientata al profitto o al reddito (**BGE 130 I 26**). Vi appartengono ad esempio aprire un ristorante, lavorare come avvocato o gestire un'impresa. Anche la libertà contrattuale (il diritto di concludere contratti con chi si vuole e a quali condizioni) fa parte della libertà economica.
+
+**Limiti della tutela:** Non sono protette le attività prive di carattere lucrativo. Così il Tribunale federale ha stabilito che l'accattonaggio non rientra nell'art. 27 Cost., poiché non sussiste un'attività lucrativa professionale (**BGE 134 I 214**, **BGE 149 I 248**). È pure controversa la libertà di consumo (il diritto come cliente di comprare ciò che si vuole): il Tribunale federale rifiuta la sua tutela tramite l'art. 27 Cost., mentre parti della dottrina come Vallender e Biaggini criticano ciò (Uhlmann, BSK BV, Art. 27 N. 12).
+
+**Limitazioni statali:** Lo Stato può limitare la libertà economica solo sotto severe condizioni. Necessari sono: una base legale, un interesse pubblico, la proporzionalità e la salvaguardia del nucleo essenziale (→ art. 36 Cost.). Inoltre lo Stato deve agire in modo neutrale rispetto alla concorrenza (↔ art. 94 Cost.). Gli obblighi di autorizzazione per determinate professioni sono in linea di principio ammissibili, ma devono essere giustificati (**BGE 130 I 26**).
+
+**Attività economica statale:** Quando lo Stato stesso è attivo economicamente (p.es. una banca statale), deve rispettare la neutralità concorrenziale. Non può fare concorrenza sleale alle imprese private o soppiantarle (**BGE 138 I 378**). Nel caso di monopoli (diritti esclusivi dello Stato) devono essere soddisfatti requisiti particolarmente severi.
+
+**Significato pratico:** La libertà economica è particolarmente importante nelle procedure di autorizzazione, nelle regolamentazioni professionali e nelle misure di pianificazione del territorio. Tutela anche le persone straniere e le imprese attive in Svizzera (**BGE 131 I 223**). Il diritto fondamentale tuttavia non fonda in linea di principio pretese a prestazioni statali, ma protegge dagli interventi statali.
