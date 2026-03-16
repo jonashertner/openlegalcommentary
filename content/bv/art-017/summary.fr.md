@@ -1,0 +1,15 @@
+# Aperçu
+
+La liberté des médias selon l'art. 17 Cst. protège tous les médias dans la diffusion d'informations et d'opinions. Ce droit fondamental englobe la presse, la radio, la télévision et les médias en ligne modernes comme les blogs ou les chaînes YouTube. Toute la chaîne médiatique est protégée : de la collecte d'informations au traitement rédactionnel jusqu'à la publication.
+
+L'article 17 Cst. contient trois garanties principales : Premièrement, l'alinéa 1 garantit la liberté générale des médias. Cela signifie : L'État ne peut en principe pas intervenir dans l'activité médiatique. Deuxièmement, l'alinéa 2 interdit toute censure. Les autorités ne peuvent pas contrôler ou interdire le contenu médiatique avant sa publication. Troisièmement, l'alinéa 3 protège le secret de rédaction. Les journalistes n'ont pas à révéler leurs sources.
+
+La liberté des médias appartient à tous ceux qui diffusent publiquement des informations. Il ne s'agit pas seulement des journalistes professionnels, mais aussi des personnes privées avec un blog ou une chaîne YouTube. Ce qui compte, c'est que les contributions s'adressent au public et non seulement à un cercle privé.
+
+**Exemple pratique** : Une journaliste veut faire un reportage sur des dysfonctionnements dans un hôpital. Elle peut librement enquêter, mener des interviews et publier. La direction de l'hôpital ne peut pas interdire la publication (interdiction de la censure). Si la journaliste a reçu des informations confidentielles de lanceurs d'alerte, elle n'a pas à révéler leurs noms (secret de rédaction). Toutefois, les professionnels des médias doivent aussi respecter les lois : la diffamation, l'atteinte à l'honneur ou les violations du droit de protection des données restent punissables.
+
+Les limites de la liberté des médias découlent de l'art. 36 Cst. Les atteintes ne sont admissibles que si elles sont prévues par la loi, justifiées par un intérêt public et proportionnées. Le Tribunal fédéral examine strictement les restrictions à la liberté des médias. Pour les comptes rendus judiciaires, il vaut : L'exclusion des médias n'est admissible qu'en cas « d'intérêts contraires prépondérants ».
+
+Il est controversé en doctrine de savoir jusqu'où s'étend l'interdiction de la censure. Tandis que certains auteurs ne considèrent comme interdite que la censure préalable systématique, d'autres voient déjà dans des interdictions de publication isolées une censure inadmissible. Il est également débattu de savoir si les médias jouissent, en tant que « quatrième pouvoir », de privilèges constitutionnels particuliers ou s'ils font avant tout partie de la société civile.
+
+La numérisation élargit considérablement le champ d'application de l'art. 17 Cst. Les médias sociaux, les podcasts et les plateformes en ligne tombent sous la liberté des médias lorsqu'ils servent à la formation de l'opinion publique. Les groupes de chat privés ne sont en revanche pas protégés.
