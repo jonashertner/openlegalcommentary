@@ -4,6 +4,7 @@ from __future__ import annotations
 from scripts.extract_commentary import (
     VOLUME_CONFIG,
     clean_ocr_text,
+    parse_article_key_from_filename,
     split_articles,
 )
 
@@ -49,3 +50,28 @@ def test_volume_config_has_all_volumes():
         "bsk_bv", "bsk_stgb", "bsk_zpo", "bsk_stpo",
     }
     assert set(VOLUME_CONFIG.keys()) == expected
+
+
+def test_parse_article_key_simple():
+    assert parse_article_key_from_filename("BSK-BV-Achermann-Art-121.pdf") == "121"
+
+
+def test_parse_article_key_with_suffix():
+    assert parse_article_key_from_filename("BSK-BV-Alig-Griffel-Art-75b.pdf") == "75b"
+
+
+def test_parse_article_key_with_ziff():
+    assert parse_article_key_from_filename(
+        "BSK-BV-Achermann-Art-197-Ziff-8.pdf",
+    ) == "197ziff8"
+
+
+def test_parse_article_key_with_compound_ziff():
+    assert parse_article_key_from_filename(
+        "BSK-BV-Epiney-Art-196-Ziff-1-2.pdf",
+    ) == "196ziff1-2"
+
+
+def test_parse_article_key_non_article():
+    assert parse_article_key_from_filename("BSK-BV-1-Abschnitt.pdf") is None
+    assert parse_article_key_from_filename("BSK-BV-Inhaltsverzeichnis.pdf") is None
