@@ -20,3 +20,7 @@ export/output/
 
 # Git worktrees
 .worktrees/
+
+# Commentary PDFs and raw extraction (not committed)
+data/commentary_pdfs/
+scripts/commentary_raw/

@@ -14,6 +14,8 @@ Jede Aussage über geltendes Recht, Rechtsprechung oder herrschende Doktrin muss
 
 **Prüfmethode**: Jeder Satz, der eine Rechtslage behauptet, wird auf einen expliziten Quellenbeleg geprüft. Sätze ohne Beleg werden markiert und führen zur Ablehnung.
 
+**Erweiterung bei BSK/CR-Referenzdaten**: Wenn Referenzdaten bereitgestellt werden, müssen zitierte BSK/CR-Autorinnen/Autoren und Randziffern mit den Referenzdaten übereinstimmen.
+
 ### 2. Keine faktischen Fehler
 
 Die zitierten Leitsätze und Holdings müssen mit den tatsächlichen Entscheiden übereinstimmen. Falsch dargestellte Urteile führen zur Ablehnung.
@@ -73,6 +75,7 @@ Jede Dimension wird auf einer Skala von 0–1 bewertet. Der angegebene Schwellen
 - Mindestens 3 Sekundärquellen (verschiedene Autorinnen/Autoren)
 - Botschaft zitiert (wo vorhanden)
 - Streitstände mit Nennung der vertretenden Autorinnen und Autoren
+- Auseinandersetzung mit den in den Referenzdaten identifizierten doktrinären Kontroversen
 
 ---
 

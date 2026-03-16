@@ -68,6 +68,10 @@ Der Ton ist neutral und objektiv. Erste Person ist unzulässig. Die Terminologie
 - Mindestens 3 Sekundärquellen
 - Die Botschaft muss zitiert sein
 - Querverweise mit Pfeilnotation (→ einseitig, ↔ wechselseitig)
+- Wenn BSK/CR-Referenzdaten verfügbar sind, müssen doktrinäre Positionen auf die Referenzdaten gestützt werden
+- BSK-Zitierformat: Kessler, BSK OR I, Art. 41 N. 12
+- CR-Zitierformat: Thévenoz, CR CO I, Art. 41 N. 8
+- Der Kommentartext darf nicht paraphrasiert oder reproduziert werden — eigenständige Analyse, die spezifische Positionen zitiert
 
 ### Ebene 3 — Rechtsprechung
 
