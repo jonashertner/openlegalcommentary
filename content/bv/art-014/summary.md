@@ -1,17 +1,13 @@
-# Art. 14 — Recht auf Ehe und Familie
-
 ## Übersicht
 
-Art. 14 BV schützt das Recht jedes Menschen, zu heiraten und eine Familie zu gründen. Dieses Grundrecht gibt allen Personen in der Schweiz zwei wichtige Freiheiten: Sie dürfen frei entscheiden, wen sie heiraten möchten. Und sie dürfen ihr Familienleben selbst gestalten.
+Artikel 14 der Bundesverfassung schützt das Recht auf Ehe und Familie. Diese Garantie umfasst zwei wichtige Bereiche: das Recht zu heiraten und das Recht auf Familienleben.
 
-**Was bedeutet das Recht auf Ehe?** Jede Person kann ihren Partner oder ihre Partnerin frei wählen und heiraten. Niemand darf zu einer Heirat gezwungen werden. Seit 2022 können auch gleichgeschlechtliche Paare heiraten ("Ehe für alle"). Die Ehepartner dürfen selbst bestimmen, wie sie zusammenleben wollen.
+**Das Recht auf Ehe** bedeutet, dass jede Person frei entscheiden kann, wen sie heiratet. Der Staat darf Eheschliessungen nicht willkürlich verhindern oder durch übermässige Hindernisse erschweren (**BGE 138 I 41**). Seit dem 1. Juli 2022 können in der Schweiz auch gleichgeschlechtliche Paare heiraten, nachdem das Volk am 26. September 2021 die "Ehe für alle" angenommen hatte. Bis zu diesem Datum war die Ehe auf verschiedengeschlechtliche Paare beschränkt (**BGE 119 II 264**). Polygamie (Vielehe) bleibt auch heute verboten und verstösst gegen den schweizerischen ordre public.
 
-**Was bedeutet das Recht auf Familie?** Familien erhalten besonderen Schutz, unabhängig davon, ob die Eltern verheiratet sind oder nicht. Das Recht schützt auch Stieffamilien, Patchworkfamilien oder alleinerziehende Eltern. Kinder haben das Recht, mit beiden Elternteilen Kontakt zu haben, auch wenn diese getrennt leben.
+**Das Recht auf Familie** schützt bestehende familiäre Beziehungen. Dazu gehören nicht nur verheiratete Paare mit Kindern, sondern auch unverheiratete Lebensgemeinschaften (Konkubinate) und andere Familienformen. Das Bundesgericht hat anerkannt, dass auch unverheiratete Lebenspartner zum Familienbegriff gehören können (**BGE 143 I 241**).
 
-**Welche Pflichten hat der Staat?** Der Staat muss Gesetze schaffen, die Ehen und Familien schützen. Er darf Eheschliessungen nicht willkürlich verhindern oder durch übermässige Hürden erschweren. Gleichzeitig muss er Familien vor Gewalt und anderen Beeinträchtigungen schützen.
+Die Garantie wirkt als **Abwehrrecht** gegen staatliche Eingriffe. Sie verpflichtet den Staat aber auch, einen rechtlichen Rahmen für Ehe und Familie zu schaffen. Besonders wichtig ist dies beim **Familiennachzug**: Ausländische Personen können unter bestimmten Voraussetzungen ihre Ehepartner oder Familienmitglieder in die Schweiz nachziehen lassen (**BGE 139 I 330**).
 
-**Praktisches Beispiel:** Eine Schweizerin möchte einen Ausländer heiraten, der sich im Asylverfahren befindet. Das Zivilstandsamt darf die Trauung nicht verweigern, nur weil der Mann noch keinen definitiven Aufenthaltsstatus hat. Die Behörden müssen ihm eine provisorische Aufenthaltsbewilligung erteilen, damit die Heirat stattfinden kann.
+**Praktisches Beispiel**: Ein deutscher Staatsangehöriger lebt mit seinem Schweizer Partner zusammen. Als sie heiraten wollen, verlangt das Zivilstandsamt von ihm einen Nachweis des rechtmässigen Aufenthalts. Falls er diesen nicht sofort vorweisen kann, muss ihm die Behörde eine provisorische Aufenthaltsbewilligung erteilen, damit die Heirat stattfinden kann (**BGE 137 I 351**).
 
-**Welche Grenzen gibt es?** Wie alle Grundrechte kann auch das Ehe- und Familienrecht eingeschränkt werden. Dies ist aber nur zulässig, wenn ein Gesetz dies vorsieht, ein wichtiges öffentliches Interesse vorliegt und die Einschränkung verhältnismässig ist. So ist beispielsweise die Polygamie (Vielehe) in der Schweiz verboten, weil sie gegen die Gleichberechtigung der Geschlechter verstösst.
-
-Das Recht auf Ehe und Familie ist eng verbunden mit anderen Grundrechten wie der Rechtsgleichheit und dem Schutz der Privatsphäre. Es wird durch das Zivilgesetzbuch und andere Gesetze konkret ausgestaltet.
+Bei Eingriffen in die Ehe- und Familienfreiheit müssen die Behörden eine gesetzliche Grundlage haben und verhältnismässig handeln. Einschränkungen sind nur zulässig, wenn sie einem öffentlichen Interesse dienen und den Kerngehalt des Rechts nicht antasten.
