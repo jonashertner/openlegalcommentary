@@ -97,21 +97,22 @@ function mdToHtml(md: string): string {
       (_m, label, num) =>
         `<strong class="randziffer" id="n-${num}"><a href="#n-${num}" class="rz-link" title="${label}">${label}</a></strong>`
     )
-    // BGE citations → linked with citation class
+    // BGE citations → linked to bger.ch
     .replace(
-      /\*\*(BGE\s+\d+\s+[IVX]+\s+\d+)\*\*/g,
-      (_m, cite) => {
-        const encoded = encodeURIComponent(cite);
-        return `<strong><a href="https://opencaselaw.ch/search?q=${encoded}" target="_blank" rel="noopener" class="cite-bge">${cite}</a></strong>`;
+      /\*\*(BGE\s+(\d+)\s+([IVX]+)\s+(\d+))\*\*/g,
+      (_m, cite, vol, part, page) => {
+        const url = `https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf://${vol}-${part}-${page}`;
+        return `<strong><a href="${url}" target="_blank" rel="noopener" class="cite-bge">${cite}</a></strong>`;
       }
     )
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     // Plain BGE citations (not already wrapped in an anchor)
     .replace(
-      /(?<!["'>])(BGE\s+\d+\s+[IVX]+\s+\d+)(?![^<]*<\/a>)/g,
-      (match) => {
-        const encoded = encodeURIComponent(match);
-        return `<a href="https://opencaselaw.ch/search?q=${encoded}" target="_blank" rel="noopener" class="cite-bge">${match}</a>`;
+      /(?<!["'>])(BGE)\s+(\d+)\s+([IVX]+)\s+(\d+)(?![^<]*<\/a>)/g,
+      (_m, prefix, vol, part, page) => {
+        const cite = `${prefix} ${vol} ${part} ${page}`;
+        const url = `https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf://${vol}-${part}-${page}`;
+        return `<a href="${url}" target="_blank" rel="noopener" class="cite-bge">${cite}</a>`;
       }
     )
     .replace(/\*(.+?)\*/g, '<em>$1</em>')
