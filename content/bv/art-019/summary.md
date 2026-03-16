@@ -1,23 +1,23 @@
 # Übersicht
 
-Art. 19 BV garantiert jedem Kind das Recht auf kostenlosen Grundschulunterricht. Diese Bestimmung schafft einen rechtlich durchsetzbaren Anspruch auf Bildung, den alle Kinder im schulpflichtigen Alter haben - unabhängig von ihrer Staatsangehörigkeit oder dem Aufenthaltsstatus ihrer Eltern.
+Art. 19 BV garantiert allen Kindern in der Schweiz das Recht auf kostenlosen Schulunterricht während der obligatorischen Schulzeit. Diese Bestimmung ist das einzige soziale Grundrecht in der Bundesverfassung, das Eltern und Kinder direkt vor Gericht einklagen können.
 
-## Was regelt die Norm?
+## Was wird geregelt?
 
-Die Verfassung verpflichtet den Staat, ausreichenden Schulunterricht gratis anzubieten. «Ausreichend» bedeutet: Das Kind soll lesen, schreiben und rechnen lernen. Es soll fit werden für das Berufsleben oder weiterführende Schulen. Der Unterricht muss die Chancengleichheit wahren und grundlegende Werte vermitteln. Allerdings schuldet der Staat nur einen Mindeststandard, nicht die beste mögliche Förderung.
-
-«Unentgeltlich» heisst: Die Eltern zahlen nichts für den obligatorischen Unterricht. Das schliesst Lehrmaterial, Schulexkursionen und Klassenlager ein. Nur die Kosten, die sie durch die Abwesenheit der Kinder sparen (wie das Mittagessen), dürfen verrechnet werden.
+Die Norm schafft einen verfassungsmässigen Anspruch auf «ausreichenden und unentgeltlichen Grundschulunterricht». Der Begriff «Grundschulunterricht» umfasst die gesamte obligatorische Schulzeit von mindestens neun Jahren – nicht nur die Primarschule (BBl 1997 I 158). «Ausreichend» bedeutet, dass ein Mindeststandard garantiert wird, nicht aber eine optimale Förderung. Das Bundesgericht betont: «Nur ein ausreichender, nicht aber idealer oder optimaler Unterricht ist geschuldet» (**BGE 138 I 162**). «Unentgeltlich» heisst, dass alle notwendigen Schulmaterialien, obligatorische Exkursionen und Lager kostenlos sein müssen.
 
 ## Wer ist betroffen?
 
-Alle Kinder von etwa 4 bis 15 Jahren haben diesen Anspruch. Das gilt für Schweizer Kinder genauso wie für ausländische Kinder oder Kinder ohne gültigen Aufenthaltsstatus. Auch Kinder mit Behinderungen sind eingeschlossen - sie haben Anspruch auf angemessene Sonderschulung, wenn möglich in der Regelschule.
+Alle Kinder im schulpflichtigen Alter haben diesen Anspruch – unabhängig von ihrer Staatsangehörigkeit oder ihrem Aufenthaltsstatus. Auch Flüchtlingskinder und Sans-Papiers sind geschützt. Besonders wichtig ist das Grundrecht für Kinder mit Behinderungen: Sie haben Anspruch auf angemessene Sonderschulung, wobei die Integration in Regelklassen Vorrang hat.
 
-Die Kantone sind verpflichtet, entsprechende Schulen anzubieten. Sie haben dabei grossen Gestaltungsspielraum, müssen aber die verfassungsrechtlichen Mindestanforderungen erfüllen.
+## Welche Rechtsfolgen entstehen?
 
-## Was sind die Rechtsfolgen?
+Anders als bei den Sozialzielen in Art. 41 BV können sich Betroffene direkt auf Art. 19 BV berufen. Kantone und Gemeinden müssen ausreichende Schulen bereitstellen und finanzieren. Bei Schulausschlüssen muss eine Weiterbetreuung organisiert werden. Eltern können vor Gericht klagen, wenn Schulkosten rechtswidrig überwälzt werden.
 
-Verweigert ein Kanton den kostenlosen Grundschulunterricht, können Eltern vor Gericht klagen. Das Bundesgericht hat mehrfach solche Ansprüche durchgesetzt. Bei einem disziplinarischen Schulausschluss muss das Gemeinwesen eine alternative Betreuung organisieren, damit das Kind weiter lernen kann.
+## Konkrete Beispiele
 
-## Beispiel aus der Praxis
+Eine Gemeinde verlangt von den Eltern 500 Franken für ein obligatorisches Skilager. Das verstösst gegen Art. 19 BV, da alle zwingenden Schulveranstaltungen unentgeltlich sein müssen (**BGE 144 I 1**). Ein autistisches Kind braucht individuelle Betreuung im Regelunterricht. Die Kantonsschule muss diese Assistenzlektionen kostenlos bereitstellen, sofern die Integration möglich ist (**BGE 141 I 9**).
 
-Eine Schule im Thurgau wollte von den Eltern 300 Franken pro Jahr für Exkursionen und Klassenlager kassieren. Das Bundesgericht entschied: Diese Aktivitäten sind Teil des obligatorischen Unterrichts und müssen gratis sein. Die Eltern dürfen nur für eingesparte Mahlzeiten zur Kasse gebeten werden, nicht für die Bildungsveranstaltungen selbst.
+## Umstrittene Fragen
+
+Kontrovers diskutiert wird, ob der Anspruch auch Untergymnasien während der obligatorischen Schulzeit umfasst. Das Bundesgericht verneint dies (**BGE 133 I 156**), doch Wyttenbach kritisiert diese Rechtsprechung scharf (Wyttenbach, BSK BV, Art. 19 N. 11). Bei religiös motivierten Dispensationen hat das Bundesgericht seine frühere, grosszügige Praxis aufgegeben und betont nun den Vorrang der schulischen Integration. Beim Homeschooling gewähren die Kantone sehr unterschiedliche Möglichkeiten – Art. 19 BV garantiert keinen Anspruch auf häuslichen Privatunterricht (**BGE 146 I 20**).
