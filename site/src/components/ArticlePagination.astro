@@ -1,31 +1,33 @@
 ---
 // site/src/components/ArticlePagination.astro
-import { BASE } from '@/lib/base';
+import { type Lang, t } from '@/lib/i18n';
+import { langBase } from '@/lib/base';
 
 export interface Props {
+  lang: Lang;
   law: string;
   prev: { slug: string; title: string } | null;
   next: { slug: string; title: string } | null;
 }
 
-const { law, prev, next } = Astro.props;
+const { lang, law, prev, next } = Astro.props;
 ---
 
 <nav class="article-pagination" aria-label="Artikelnavigation">
   {prev ? (
-    <a href={`${BASE}/${law}/${prev.slug}`} class="pagination-link pagination-prev">
+    <a href={`${langBase(lang)}/${law}/${prev.slug}`} class="pagination-link pagination-prev">
       <span class="pagination-arrow">&larr;</span>
       <span class="pagination-meta">
-        <span class="pagination-direction text-xs">Vorheriger</span>
+        <span class="pagination-direction text-xs">{t('pagination.prev', lang)}</span>
         <span class="pagination-title">{prev.title}</span>
       </span>
     </a>
   ) : <span />}
 
   {next ? (
-    <a href={`${BASE}/${law}/${next.slug}`} class="pagination-link pagination-next">
+    <a href={`${langBase(lang)}/${law}/${next.slug}`} class="pagination-link pagination-next">
       <span class="pagination-meta">
-        <span class="pagination-direction text-xs">Nächster</span>
+        <span class="pagination-direction text-xs">{t('pagination.next', lang)}</span>
         <span class="pagination-title">{next.title}</span>
       </span>
       <span class="pagination-arrow">&rarr;</span>
