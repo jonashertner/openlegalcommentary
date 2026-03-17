@@ -1,145 +1,89 @@
-# Jurisprudence
+## Jurisprudence
 
-## I. Fondements de la garantie de la propriété
+### Contenu essentiel de la garantie de la propriété
 
-### Essence et portée
+**ATF 130 I 360** du 13 juillet 2004
+Destruction de cannabis séquestré pendant la procédure d'enquête
+La disposition du code de procédure pénale bernois sur la réalisation anticipée d'objets séquestrés ne constitue pas une base légale suffisante pour la destruction anticipée de cannabis séquestré.
 
-**ATF 126 I 213** du 1er janvier 2000  
-Situation juridique des riverains lors de la suppression d'un accès  
-La garantie de la propriété ne protège pas seulement le droit de propriété lui-même, mais aussi son exercice économiquement pertinent.
+> « Selon l'art. 26 al. 1 Cst, la propriété est garantie. Une atteinte à la garantie de la propriété requiert une base légale suffisante. Elle doit en outre être justifiée par un intérêt public et proportionnée (art. 36 Cst). Pour une atteinte grave à la garantie de la propriété, une base claire et univoque dans une loi formelle est requise. »
 
-> «Le droit pour les riverains de se prévaloir de la garantie de la propriété face à la suppression ou à la restriction de l'usage général d'une chose publique ne peut pas leur être dénié d'emblée.»
+**ATF 126 I 213** du 28 juin 2000
+Position juridique du riverain lors de la suppression d'un accès
+Le droit des riverains de se prévaloir de la garantie de la propriété face à la suppression ou à la restriction de l'usage public commun d'une chose publique ne peut leur être refusé d'emblée (modification de la jurisprudence).
 
-**ATF 149 I 291** du 3 mai 2023  
-Initiative communale pour la conversion aux systèmes de chauffage renouvelables  
-La garantie de la propriété ne garantit la propriété que dans les limites de l'ordre juridique et ne fonde aucun droit au maintien d'une situation juridique déterminée.
+> « Le droit des riverains de se prévaloir de la garantie de la propriété face à la suppression ou à la restriction de l'usage public commun d'une chose publique ne peut leur être refusé d'emblée. »
 
-> «En principe, il n'existe pas de droit au maintien d'un ordre juridique valable à un moment donné. Il découle notamment du principe démocratique que la loi peut être modifiée à tout moment lorsque d'autres solutions sont préférées en raison de conceptions politiques modifiées.»
+### Expropriation et droit à indemnité
 
-### Délimitation par rapport à d'autres droits fondamentaux
+**ATF 127 I 185** du 30 mai 2001
+Supplément pour contrainte à l'indemnité d'expropriation de droit cantonal
+Le principe constitutionnel fédéral de la pleine indemnité n'interdit pas aux cantons d'octroyer aux expropriés, dans le cadre d'expropriations formelles de droit cantonal, plus que la réparation de l'entier dommage.
 
-**ATF 146 I 70** du 14 novembre 2019  
-Dispositions communales relatives à la construction de logements bon marché  
-L'art. 26 Cst. peut entrer en conflit avec d'autres objectifs constitutionnels et doit alors être pris en compte dans le cadre d'une pesée globale des intérêts.
+> « Le principe constitutionnel fédéral de la pleine indemnité n'interdit pas aux cantons d'octroyer aux expropriés, dans le cadre d'expropriations formelles de droit cantonal, plus que la réparation de l'entier dommage et d'allouer ainsi des indemnités qui dépassent le cadre du droit à la pleine indemnité. »
 
-> «Les dispositions intégrées dans le règlement de construction de la Ville de Berne pour assurer une offre suffisante de logements locatifs bon marché [...] peuvent être interprétées et mises en œuvre de manière à ce que leur application ne soit en principe pas liée à des atteintes injustifiées à la liberté économique ou à la garantie de la propriété.»
+**ATF 138 II 77** du 9 décembre 2011
+Expropriation de droits de voisinage suite au bruit d'avions
+Pour l'appréciation schématique du dommage causé par le bruit d'avions aux immeubles de rapport, la Commission fédérale d'estimation peut appliquer un modèle d'évaluation hédonique.
 
-## II. Expropriation et indemnisation (art. 26 al. 2 Cst.)
+> « Lors du développement d'un modèle d'évaluation par une équipe d'experts sous la direction d'un juge spécialisé de la CFE, les dispositions sur les expertises externes ne s'appliquent certes pas, mais la transparence et les droits procéduraux des parties doivent être garantis. »
 
-### Expropriation matérielle
+### Expropriation matérielle et restrictions de la propriété
 
-**ATF 139 II 243** du 22 mai 2013  
-Restriction des résidences secondaires selon l'initiative constitutionnelle  
-Toute restriction de la propriété ne donne pas lieu à un droit à indemnisation ; seules les atteintes particulièrement graves déclenchent une obligation d'indemniser.
+**ATF 139 II 243** du 22 mai 2013
+Restriction de la construction de résidences secondaires
+L'art. 75b al. 1 en relation avec l'art. 197 ch. 9 al. 2 Cst contient une interdiction directement applicable de délivrer des autorisations de construire pour des résidences secondaires dans les communes où la part de 20 % est atteinte ou dépassée.
 
-> «L'art. 75b al. 1 en relation avec l'art. 197 ch. 9 al. 2 Cst. contient une interdiction directement applicable d'autoriser la construction de résidences secondaires dans les communes où la proportion de 20% est atteinte ou dépassée.»
+> « L'art. 75b al. 1 en relation avec l'art. 197 ch. 9 al. 2 Cst contient une interdiction directement applicable de délivrer des autorisations de construire pour des résidences secondaires dans les communes où la part de 20 % est atteinte ou dépassée. Cette interdiction vaut pour toutes les autorisations de construire qui ont été délivrées en première instance depuis le 11 mars 2012 dans les communes concernées. »
 
-**ATF 138 II 77** du 9 décembre 2011  
-Expropriation de droits de voisinage en raison du bruit des avions  
-Pour le calcul de l'indemnisation, des méthodes d'évaluation schématiques sont admissibles si elles conduisent à des résultats appropriés.
+**ATF 146 I 70** du 14 novembre 2019
+Dispositions communales relatives à la construction de logements à loyers avantageux
+Les dispositions intégrées au règlement sur les constructions de la Ville de Berne pour assurer une offre suffisante de logements locatifs à loyers avantageux peuvent être interprétées de manière à ce qu'elles n'entraînent en principe aucune atteinte injustifiée à la garantie de la propriété.
 
-> «Pour l'évaluation schématique requise du dommage causé par le bruit des avions dans les immeubles collectifs, la Commission fédérale d'estimation du cercle 10 peut appliquer le modèle d'évaluation hédonique développé par un de ses juges spécialisés.»
-
-### Garanties procédurales relatives à la propriété
-
-**ATF 126 I 97** du 23 juin 2000  
-Saisie de valeurs patrimoniales après ouverture de faillite  
-L'art. 26 Cst. garantit aussi des garanties procédurales minimales lors d'atteintes à la propriété.
-
-> «Art. 29 al. 2 Cst. : droit d'être entendu. Obligation de motivation de l'autorité qui rend la décision concernant une doctrine.»
-
-## III. Restrictions de la propriété dans l'intérêt public
-
-### Protection de l'environnement et du climat
-
-**ATF 149 I 291** du 3 mai 2023  
-Conversion aux systèmes de chauffage renouvelables d'ici 2030  
-Les réglementations de protection du climat peuvent se fonder sur l'art. 73 Cst. (développement durable) et justifier des restrictions de la propriété.
-
-> «L'objectif de l'initiative peut être compris comme un pas vers un développement écologiquement plus durable et donc comme une concrétisation de l'art. 73 Cst.»
-
-**ATF 132 II 408** du 25 janvier 2006  
-Planification d'affectation pour installations éoliennes  
-Les objectifs de politique environnementale justifient des restrictions planificatrices étendues de la propriété foncière.
-
-> «Pour constater l'intérêt public, il importe que le projet WindParc Peuchapatte soit en accord avec la politique énergétique nationale et cantonale.»
-
-### Aménagement du territoire et restrictions de construction
-
-**ATF 140 I 176** du 21 janvier 2014  
-Taxe sur les résidences secondaires comme mesure d'orientation  
-Les taxes d'orientation sur les résidences secondaires non exploitées sont compatibles avec la garantie de la propriété si elles sont proportionnées.
-
-> «La taxe sur les résidences secondaires vise notamment une meilleure utilisation des résidences secondaires déjà existantes sur le territoire communal. Un effet d'orientation étant en tout cas potentiellement présent, une telle taxe se justifie.»
-
-## IV. Droit pénal et confiscation
-
-### Créances de remplacement
-
-**ATF 141 IV 305** du 23 juin 2015  
-Démolition illégale d'une maison individuelle digne de protection  
-Pour le calcul des créances de remplacement après confiscations pénales, les circonstances du cas d'espèce sont déterminantes.
-
-> «Il n'y a pas lieu de critiquer comme arbitraire ou disproportionné dans ces circonstances que les coûts de la démolition, c'est-à-dire de l'infraction proprement dite, et la valeur du bâtiment démoli ne soient pas admis en déduction lors du calcul de la créance de remplacement.»
-
-**ATF 141 IV 317** du 23 juin 2015  
-Calcul de la créance de remplacement envers les tiers concernés  
-Les tiers concernés peuvent aussi être saisis par des créances de remplacement s'ils ont profité du comportement illicite.
-
-> «Démolition illégale d'une maison individuelle digne de protection par un propriétaire et représentant du consortium de construction, les autres propriétaires (tiers concernés) voulant seulement détruire la maison de manière légale.»
-
-### Séquestre et saisie
-
-**ATF 139 IV 250** du 25 avril 2013  
-Séquestre de confiscation en cas de violation qualifiée des règles de circulation  
-La proportionnalité du séquestre doit aussi être examinée en cas d'infractions graves à la circulation.
-
-> «Le séquestre de confiscation présuppose (comme jusqu'ici) qu'il existe un soupçon concret d'infraction, que la proportionnalité soit respectée et que la confiscation ne paraisse pas déjà manifestement inadmissible pour des raisons de droit matériel.»
-
-**ATF 135 I 209** du 1er janvier 2009  
-Obligation d'indemniser pour armes confisquées  
-La loi sur les armes ne contient aucune base pour la confiscation sans indemnisation du produit de la réalisation.
-
-> «La loi sur les armes ne contient aucune base légale pour la confiscation du produit net de la réalisation d'objets séquestrés respectivement confisqués pour des raisons de sécurité au profit de l'État.»
-
-## V. Droit fiscal
+> « Les dispositions intégrées au règlement sur les constructions de la Ville de Berne pour assurer une offre suffisante de logements locatifs à loyers avantageux sont compatibles avec le principe de la primauté du droit fédéral. Elles peuvent être interprétées et mises en œuvre de sorte que leur application n'entraîne en principe aucune atteinte injustifiée à la liberté économique ou à la garantie de la propriété. »
 
 ### Imposition confiscatoire
 
-**ATF 143 I 73** du 5 janvier 2017  
-Impôt sur la fortune et titres non cotés en bourse  
-La garantie de la propriété pose des limites à l'imposition lorsque celle-ci a un effet confiscatoire.
+**ATF 143 I 73** du 5 janvier 2017
+Garantie de la propriété et interdiction de l'imposition confiscatoire
+La garantie constitutionnelle de la propriété n'est pas déjà violée lorsque, durant une seule période fiscale, la charge fiscale dépasse les revenus de la fortune. L'appréciation sur la durée est déterminante.
 
-> «Étant donné que l'impôt sur la fortune a pour objet la substance du patrimoine et que la capacité économique se détermine précisément par sa hauteur, et qu'une imposition n'est considérée comme confiscatoire que lorsque les revenus du patrimoine ne suffisent pas durablement à couvrir la charge fiscale, l'impôt sur la fortune ne peut en principe pas avoir d'effet confiscatoire.»
+> « Étant donné que l'impôt sur la fortune a pour objet la substance de la fortune et que la capacité économique se détermine précisément par sa hauteur, et qu'une imposition n'est considérée comme confiscatoire que si les revenus de la fortune ne suffisent pas durablement à couvrir la charge fiscale, la garantie constitutionnelle de la propriété ne peut pas être considérée comme violée déjà lorsque, durant une seule période fiscale, la charge fiscale dépasse les revenus de la fortune. »
 
-## VI. Droit de la fonction publique
+### Droit de procédure pénale et garantie de la propriété
 
-### Indemnisation des titulaires de charge
+**ATF 135 I 209** du 11 juin 2009
+Obligation d'indemniser pour des armes et éléments d'armes confisqués
+La loi sur les armes ne contient aucune base légale pour la confiscation du produit net de la réalisation d'objets séquestrés ou confisqués pour des raisons de sécurité en faveur de l'État.
 
-**ATF 143 I 65** du 2 février 2017  
-Suppression d'indemnités spéciales pour médecins  
-La garantie de la propriété protège aussi certaines prétentions de droit public si elles ont un caractère patrimonial.
+> « La loi sur les armes ne contient aucune base légale pour la confiscation du produit net de la réalisation d'objets séquestrés ou confisqués pour des raisons de sécurité en faveur de l'État. Si l'objet ne peut plus être restitué ou remis au propriétaire, une indemnité appropriée doit être versée à ce dernier. »
 
-> «Le maintien temporaire d'une indemnisation de 8,3% du salaire annuel ("14e mois") au profit des seuls médecins des hôpitaux publics genevois [...] ne viole pas la garantie de la propriété.»
+**ATF 141 IV 305** du 23 juin 2015
+Démolition illégale d'une maison individuelle digne de protection
+Lors de la fixation d'une créance compensatoire, le principe brut doit être appliqué, la garantie de la propriété devant être respectée.
 
-**ATF 132 I 201** du 6 juin 2006  
-Indemnisation du représentant légal d'office  
-L'indemnisation appropriée des mandats obligatoires est constitutionnellement requise.
+> « Application du principe brut ou net lors de la fixation d'une créance compensatoire (résumé et confirmation de la jurisprudence). L'application du principe brut conduit, en cas d'atteintes à la propriété, à un résultat proportionné qui tient compte des exigences constitutionnelles de la garantie de la propriété. »
 
-> «Il ne se justifie plus aujourd'hui de ne rembourser aux représentants légaux d'office que leurs propres débours ; l'indemnisation des mandats obligatoires doit être fixée de manière à permettre aux avocats de réaliser un bénéfice modeste.»
+### Droit de procédure administrative
 
-## VII. Droit administratif
+**ATF 132 II 485** du 26 octobre 2006
+Modification, transfert et retrait d'une concession de télécommunication
+Le retrait d'une concession constitue une atteinte grave à la garantie de la propriété qui requiert une pesée d'intérêts minutieuse.
 
-### Concessions et autorisations
+> « Le retrait d'une concession de télécommunication, qui en tant que droit patrimonial tombe sous la protection de la garantie de la propriété, nécessite une pesée minutieuse entre l'intérêt public et les intérêts légitimes du concessionnaire. »
 
-**ATF 132 II 485** du 26 octobre 2006  
-Retrait d'une concession de télécommunications  
-Le retrait de concessions peut constituer des atteintes à la garantie de la propriété donnant droit à indemnisation.
+### Aménagement du territoire et garantie de la propriété
 
-> «Lors de la modification, du transfert et du retrait d'une concession de télécommunications, les dispositions sur la garantie de la propriété doivent être respectées, notamment concernant une éventuelle obligation d'indemniser.»
+**ATF 140 I 176** du 27 mars 2014
+Qualification juridique d'une taxe sur les résidences secondaires inexploitées
+La taxe sur les résidences secondaires vise une meilleure utilisation des résidences secondaires déjà existantes et ne constitue pas une atteinte confiscatoire à la garantie de la propriété.
 
-**ATF 135 II 296** du 18 juin 2009  
-Obligation de diffusion en droit de la radiodiffusion  
-Les positions de fait peuvent aussi être protégées par le droit de propriété si elles ont une valeur économique.
+> « La taxe sur les résidences secondaires vise notamment une meilleure utilisation des résidences secondaires déjà existantes sur le territoire communal. Étant donné qu'un effet incitatif est en tout cas potentiellement présent et que la taxe est conçue de manière proportionnée, il n'y a pas violation de la garantie de la propriété. »
 
-> «Une entreprise de télévision concessionnée sous l'ancien droit profite du droit transitoire d'un droit d'accès à un réseau pour la diffusion analogique de son programme seulement si l'installation de télécommunications correspondante existait déjà.»
+### Collisions de droits fondamentaux
+
+**ATF 136 I 17** du 23 novembre 2009
+Protection contre le tabagisme passif et garantie de la propriété
+L'interdiction de fumer dans les établissements publics constitue une atteinte justifiée et proportionnée à la garantie de la propriété, légitimée par la protection de la santé.
+
+> « Le fait que la législation bernoise sur la protection contre le tabagisme passif ne prévoit aucune réglementation particulière pour la consommation de pipes à eau dans les établissements publics ne viole pas le droit constitutionnel, notamment pas la liberté économique, la garantie de la propriété ou l'interdiction de discriminer. »

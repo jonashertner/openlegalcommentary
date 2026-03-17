@@ -1,85 +1,66 @@
-# Art. 25 Cost. — Protezione dall'espulsione e dall'estradizione
-
 ## Giurisprudenza
 
-### Cpv. 1: Espulsione ed estradizione di cittadini svizzeri
+### Divieto di espulsione per i cittadini svizzeri (cpv. 1)
 
-#### Divieto di espulsione per gli svizzeri
+**BGE 135 II 1** del 12 novembre 2008  
+Con l'annullamento di una naturalizzazione, la persona interessata è riportata dal diritto degli stranieri nella stessa posizione giuridica antecedente alla naturalizzazione. Il divieto di espulsione dell'art. 25 cpv. 1 Cost. vale solo per i veri cittadini svizzeri, non per le persone con naturalizzazione annullata.
 
-Il divieto assoluto di espulsione per i cittadini svizzeri è indiscusso nella giurisprudenza. L'art. 25 cpv. 1 Cost. protegge i cittadini da ogni forma di allontanamento forzato dal territorio svizzero.
+> «Con l'annullamento della naturalizzazione la persona interessata è riportata dal diritto degli stranieri, sotto riserva di eventuali motivi di estinzione, nella stessa posizione giuridica antecedente alla naturalizzazione.»
 
-#### Requisito del consenso per l'estradizione
+### Divieto di estradizione in caso di rischio di tortura (cpv. 3)
 
-**DTF 133 IV 76** (23.1.2007)
-Il Tribunale federale ha chiarito che i cittadini svizzeri possono essere estradati alle autorità straniere solo con il loro consenso esplicito. 
-Questa norma riflette la protezione speciale che lo Stato accorda ai suoi cittadini.
+**BGE 133 IV 76** del 23 gennaio 2007  
+Il divieto di tortura secondo l'art. 25 cpv. 3 Cost. vieta l'estradizione verso Stati dove minaccia la tortura o il trattamento inumano. Le garanzie diplomatiche possono essere sufficienti, ma devono essere efficaci e verificabili, in particolare attraverso l'osservazione processuale dell'ambasciata svizzera.
 
-> «L'art. 25 cpv. 1 Cost. vieta di estradare cittadini svizzeri a un'autorità straniera senza il loro consenso. Questa disposizione concretizza la particolare pretesa di protezione di cui godono i cittadini svizzeri nei confronti del loro Stato.»
+> «Nessuno può essere estradato in uno Stato nel quale lo minaccia la tortura o un altro tipo di trattamento o punizione crudele e inumano (art. 25 cpv. 3 Cost.). [...] In casi politicamente e dal punto di vista del diritto internazionale difficili come il presente, nei quali i presupposti di estradizione dell'CEDU sembrano fondamentalmente soddisfatti, secondo la prassi del Tribunale federale va quindi posto grande peso su garanzie dei diritti umani efficaci e verificabili.»
 
-### Cpv. 2: Divieto di refoulement per i rifugiati
+**BGE 134 IV 156** del 18 dicembre 2007  
+Le garanzie diplomatiche possono costituire una protezione efficace per il perseguitato. Nell'esame va effettuata una valutazione del rischio. Il principio del non-refoulement vale anche per i reati economici, quando sussistono concreti rischi di tortura.
 
-#### Principio del non-refoulement
+> «Le garanzie diplomatiche possono costituire una protezione efficace per il perseguitato. Nell'esame se questo sia il caso, va effettuata una valutazione del rischio.»
 
-**DTF 135 II 110** (16.2.2009)
-Il Tribunale federale ha precisato il divieto di rimpatrio di rifugiati riconosciuti negli Stati di persecuzione. Anche in caso di revoca dello statuto di asilo, il divieto di refoulement persiste finché sussiste il pericolo di persecuzione.
-Il Tribunale ha chiarito che l'espulsione di un rifugiato riconosciuto è ammissibile solo se appare proporzionata e non comporta il rimpatrio nello Stato di persecuzione.
+### Principio del non-refoulement per i rifugiati (cpv. 2)
 
-> «L'art. 25 cpv. 2 Cost. vieta categoricamente l'allontanamento o l'estradizione di rifugiati in Stati dove rischiano di subire persecuzioni. Questo divieto permane indipendentemente dallo statuto del rifugiato.»
+**BGE 135 II 110** del 16 febbraio 2009  
+Il principio del non-refoulement secondo l'art. 25 cpv. 2 Cost. protegge i rifugiati riconosciuti dall'espulsione verso Stati di persecuzione. Un'espulsione nonostante lo statuto di rifugiato presuppone un pericolo di recidiva concretizzato minimamente e non meramente astratto.
 
-### Cpv. 3: Divieto di tortura e protezione dai trattamenti crudeli
+> «L'espulsione di un rifugiato riconosciuto, il cui asilo è stato revocato, si giustifica solo se, fondata su tutte le circostanze essenziali, appare proporzionata; a questo riguardo solo l'esame di aspetti che riguardano l'inammissibilità può essere rinviato nella procedura sull'ammissione provvisoria.»
 
-#### Natura assoluta del divieto di tortura
+**BGE 139 II 65** del 15 dicembre 2012  
+Il precetto del non-refoulement vale anche nel coordinamento tra allontanamento secondo il diritto degli stranieri e revoca dell'asilo. Le autorità cantonali devono rispettare nell'allontanamento di aventi diritto all'asilo sia i requisiti del diritto degli stranieri che quelli del diritto d'asilo.
 
-**DTF 133 IV 76** (23.1.2007)
-In questa decisione di principio relativa all'estradizione verso la Turchia, il Tribunale federale ha concretizzato i requisiti per un trattamento conforme ai diritti umani nello Stato richiedente. Il Tribunale ha sottolineato che l'art. 25 cpv. 3 Cost. in connessione con l'art. 3 CEDU costituisce una barriera assoluta.
-La decisione dimostra che in caso di rischi di tortura sono necessarie assicurazioni diplomatiche.
+> «Se l'autorità cantonale intende non prolungare o revocare un permesso di dimora o di domicilio di uno straniero che dispone dell'asilo e allontanare l'interessato in applicazione dell'art. 64 cpv. 1 lett. c LStr, deve tuttavia provvedere affinché oltre ai presupposti secondo l'art. 62 segg. LStr siano rispettati anche i requisiti secondo l'art. 65 LAsi.»
 
-> «L'art. 25 cpv. 3 Cost. e l'art. 3 CEDU vietano qualsiasi allontanamento verso Stati dove la persona interessata rischia la tortura o un altro tipo di trattamento o punizione crudele e inumano. Queste garanzie sono assolute e non ammettono eccezioni.»
+### Espulsione penale dal territorio e non-refoulement
 
-#### Assicurazioni diplomatiche
+**BGE 6B_747/2019** del 24 giugno 2020  
+Anche nell'espulsione penale dal territorio va rispettato il precetto del non-refoulement. L'esame dell'esecuzione deve considerare l'art. 25 cpv. 2 e 3 Cost.
 
-**DTF 134 IV 156** (18.12.2007)
-Il Tribunale federale ha riconosciuto le assicurazioni diplomatiche come possibile protezione da trattamenti contrari ai diritti umani. Nel valutarne l'efficacia è necessario procedere a una valutazione del rischio.
-Questa decisione di principio ha stabilito i criteri per la valutazione delle garanzie diplomatiche nelle estradizioni.
+> «precetto del non-refoulement (art. 25 cpv. 2 Cost.).»
 
-> «Le assicurazioni diplomatiche possono costituire una protezione efficace per il perseguitato. Nel valutare se questo sia il caso, è necessario procedere a una valutazione del rischio che tenga conto di tutte le circostanze rilevanti del caso singolo.»
+### Sviluppi attuali
 
-**DTF 122 II 373** (11.9.1996)
-In questa prima decisione di principio relativa all'estradizione verso la Turchia, il Tribunale federale ha sviluppato i principi per i procedimenti di estradizione sotto il profilo dei diritti umani. Il Tribunale ha posto condizioni per l'estradizione al fine di garantire un trattamento conforme all'art. 3 CEDU.
+**E-4103/2024** dell'8 novembre 2024  
+Applicazione attuale del principio del non-refoulement nelle procedure d'asilo con riferimento alla Turchia. Il Tribunale amministrativo federale esamina ancora scrupolosamente il rispetto dell'art. 25 cpv. 2 e 3 Cost. nelle decisioni di allontanamento.
 
-> «In considerazione dell'art. 3 cpv. 2, 2° periodo LEAA, è giustificato subordinare l'estradizione ad assicurazioni dello Stato richiedente riguardo alle condizioni di detenzione della persona estradata.»
+**E-1308/2023** del 19 marzo 2024  
+Anche nelle procedure d'asilo accelerate il precetto del non-refoulement deve essere rispettato integralmente. Una durata procedurale abbreviata non esonera dall'esame scrupoloso degli impedimenti all'esecuzione secondo l'art. 25 Cost.
 
-#### Giurisprudenza più recente sulle garanzie diplomatiche
+**E-3427/2021** del 28 marzo 2022  
+Nelle procedure Dublino va esaminato il precetto del non-refoulement nei confronti del Paese terzo. L'art. 25 cpv. 2 e 3 Cost. vale anche per i trasferimenti in Paesi terzi sicuri, quando minaccia un respingimento a catena.
 
-**DTF 148 I 127** (1.9.2021)
-Il Tribunale federale ha considerevolmente affinato la sua giurisprudenza sulle garanzie diplomatiche. Per le estradizioni verso la Russia ha richiesto un esame approfondito basato sugli undici criteri della Corte EDU.
-La decisione mostra l'evoluzione verso standard più severi nella protezione dai trattamenti inumani.
+### Divieto di tortura e trattamento inumano
 
-> «Considerato il meccanismo di controllo diplomatico implementato dalle autorità dello Stato richiesto per garantire il rispetto di queste garanzie (‹monitoring›), viene confermata l'ammissibilità dell'estradizione contro l'assicurazione di tali garanzie.»
+**BGE 139 IV 41** del 5 febbraio 2013  
+Il divieto di tortura dell'art. 25 cpv. 3 Cost. in relazione con l'art. 3 CEDU vale anche per l'esecuzione delle pene in Svizzera. Non ogni irregolarità nella carcerazione preventiva giustifica un rilascio dal carcere.
 
-**DTF 148 IV 314** (21.3.2022)
-Nell'estradizione verso l'Armenia, il Tribunale federale ha sviluppato ulteriori criteri per la protezione della salute negli istituti di detenzione. Il Tribunale ha esaminato con particolare attenzione gli indizi concreti di trattamenti inumani.
+**BGE 140 I 125** del 26 febbraio 2014  
+Le condizioni di detenzione devono corrispondere agli standard dell'art. 25 cpv. 3 Cost. e dell'art. 3 CEDU. Il sovraffollamento e le condizioni carcerarie inaccettabili possono violare il divieto di tortura.
 
-### Aspetti di diritto processuale
+### Rapporto con i trattati internazionali
 
-#### Ostacoli all'esecuzione
+**BGE 122 II 373** dell'11 settembre 1996  
+L'art. 25 cpv. 3 Cost. concretizza obblighi di diritto internazionale derivanti dall'art. 3 CEDU. Le estradizioni sono ammissibili solo se sussistono sufficienti garanzie per un trattamento conforme ai diritti umani.
 
-**DTF 137 II 305** (26.5.2011)
-Il Tribunale federale ha chiarito i rimedi giuridici contro le decisioni cantonali sugli ostacoli all'esecuzione. Ha stabilito che è ammissibile solo il ricorso costituzionale sussidiario, poiché non esiste un diritto all'ammissione provvisoria.
-La decisione ha precisato i limiti della protezione giuridica nelle decisioni di allontanamento.
-
-> «Contro decisioni cantonali di ultima istanza separate sugli ostacoli all'esecuzione dell'allontanamento è ammissibile esclusivamente il ricorso costituzionale sussidiario. Poiché la persona allontanata non ha diritto all'ammissione provvisoria, possono essere fatte valere solo violazioni di diritti costituzionali particolari.»
-
-### Dimensione internazionale
-
-#### Rapporto con la CEDU
-
-La giurisprudenza mostra uno stretto collegamento tra l'art. 25 Cost. e le corrispondenti garanzie della CEDU (art. 3) e del Patto ONU II (art. 7). Il Tribunale federale applica queste disposizioni in modo complementare, dove l'art. 25 Cost. costituisce il standard minimo costituzionale.
-
-#### Sistema di Dublino
-
-In decisioni più recenti del Tribunale amministrativo federale, l'art. 25 Cost. diventa rilevante anche nel contesto del sistema di Dublino, quando i rinvii ad altri Stati UE fanno temere violazioni sistematiche dei diritti umani.
-
-### Tendenze evolutive
-
-La giurisprudenza mostra un inasprimento continuo dei requisiti per la protezione dai trattamenti inumani. Mentre le decisioni precedenti accettavano le assicurazioni diplomatiche in modo relativamente generoso, la giurisprudenza più recente richiede analisi dettagliate dei rischi e meccanismi di controllo efficaci.
+**BGE 146 IV 297** del 30 giugno 2020  
+Il precetto del non-refoulement vale anche per i trasferimenti Dublino. L'aiuto di emergenza giustifica azioni illecite solo in caso di vera situazione d'emergenza senza altre possibilità di rimedio.

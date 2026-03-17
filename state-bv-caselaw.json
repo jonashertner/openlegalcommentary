@@ -212,16 +212,16 @@
       "law": "BV",
       "article_number": 25,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 1.082208,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 26,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 2.058405,
       "error": ""
     },
     {
@@ -1857,5 +1857,5 @@
       "error": ""
     }
   ],
-  "total_cost": 41.262398999999995
+  "total_cost": 44.403012
 }
