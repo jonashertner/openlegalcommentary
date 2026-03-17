@@ -1,99 +1,46 @@
 ## Rechtsprechung
 
-### Rechtsnatur und Justiziabilität der Staatsziele
+### Staatszwecke als Verfassungsprinzipien
 
-**BGE 136 I 265** vom 10. August 2010
-Das Bundesgericht hält fest, dass Art. 2 BV programmatische Staatsziele normiert, die grundsätzlich nicht direkt justiziabel sind.
-Die Bestimmung begründet keine unmittelbaren subjektiven Rechte der Bürgerinnen und Bürger.
+**BGE 133 I 206 E. 7.4** vom 1. Juni 2007 (Obwaldner Steuertarife)
+Die Förderung der gemeinsamen Wohlfahrt gemäss Art. 2 Abs. 2 BV bringt den Sozialstaatsgedanke und die soziale Verantwortung des Gemeinwesens zum Ausdruck. Diese Ziele sind dem Begriff der wirtschaftlichen Leistungsfähigkeit inhärent und prägen die Ausgestaltung des Steuerrechts mit.
 
-> «Die in Art. 2 BV normierten Staatszwecke sind grundsätzlich programmatischer Natur und begründen als solche keine unmittelbaren subjektiven Rechte. Sie dienen vielmehr als Interpretations- und Konkretisierungshilfe bei der Anwendung anderer Verfassungsbestimmungen.»
+> «In der Förderung der gemeinsamen Wohlfahrt gemäss Art. 2 Abs. 2 BV kommt der Sozialstaatsgedanke und die soziale Verantwortung des Gemeinwesens zum Ausdruck. [...] Diese Ziele sind dem Begriff der wirtschaftlichen Leistungsfähigkeit in Art. 127 Abs. 2 BV inhärent.»
 
-**BGE 143 I 194** vom 21. März 2017
-Das Bundesgericht präzisiert die Bedeutung der Staatsziele für die Verfassungsauslegung.
-Art. 2 BV wirkt als verfassungsrechtlicher Orientierungsrahmen bei der Auslegung von Grundrechten und Kompetenznormen.
+**BGE 115 Ia 277 E. 4b** vom 3. Mai 1989 (Medizinalpersonal im Koordinierten Sanitätsdienst)
+Die Zweckbestimmung von Art. 2 BV begründet keine eigenständige Kompetenz des Bundes. Die Verfassung kennt kein Sachgebiet der Gesamtverteidigung, weshalb dem Bund nur insoweit Gesetzgebungskompetenz zusteht, als sie ihm auf den einzelnen Teilgebieten durch die Verfassung übertragen ist.
 
-> «Die Staatsziele des Art. 2 BV entfalten ihre normative Wirkung primär als Auslegungshilfe und Konkretisierungsmassstab für andere Verfassungsbestimmungen, insbesondere bei der Abwägung zwischen verschiedenen Verfassungsgütern.»
+> «Die Zweckbestimmung von Art. 2 BV begründet jedoch keine Kompetenz des Bundes. Die Bundesverfassung kennt auch kein Sachgebiet der Gesamtverteidigung. Dem Bund steht daher auf dem Bereich der Gesamtverteidigung nur insoweit Gesetzgebungskompetenz zu, als sie ihm auf den einzelnen Teilgebieten durch die Verfassung übertragen worden ist.»
 
-### Schutz der Freiheit und Rechte des Volkes (Abs. 1)
+### Demokratieprinzip und politische Rechte
 
-**BGE 145 I 167** vom 12. April 2019
-Das Bundesgericht betont die zentrale Bedeutung des Freiheitsschutzes als Staatszweck.
-Der in Art. 2 Abs. 1 BV normierte Freiheitsschutz verstärkt die Auslegung der spezifischen Grundrechte.
+**BGE 147 I 194 E. 3.3** vom 1. Januar 2021 (Konzernverantwortungsinitiative)
+Das demokratische Prinzip aus Art. 2 Abs. 1 BV wird durch die Rechtsprechung zur Ständemehr-Regelung konkretisiert. Die Einschränkung der Stimmkraftgleichheit ist verfassungsrechtlich gewollt und für das Bundesgericht verbindlich.
 
-> «Der Auftrag zum Schutz der Freiheit und Rechte des Volkes nach Art. 2 Abs. 1 BV verstärkt die Verpflichtung des Staates, die in der Verfassung gewährleisteten Grundrechte zu achten und zu schützen.»
+> «Die Beschwerdeführer rügen, die Ablehnung der Konzernverantwortungsinitiative aufgrund des Erfordernisses des Ständemehrs verstosse gegen die Grundprinzipien der Demokratie (Präambel der BV; Art. 2 Abs. 1 BV) sowie gegen den Grundsatz, dass alle Stimmenden die gleichen politischen Rechte haben.»
 
-**Urteil 1C_416/2009** vom 14. September 2010
-Das Bundesgericht wendet Art. 2 Abs. 1 BV bei der Prüfung von Eingriffen in Grundrechte an.
-Die Staatszielbestimmung dient als zusätzlicher Massstab bei der Verhältnismässigkeitsprüfung.
+### Chancengleichheit und Sozialstaatsprinzip
 
-> «Bei schwerwiegenden Eingriffen in Grundrechte ist der Staatszweck des Schutzes der Freiheit und Rechte nach Art. 2 Abs. 1 BV in die Abwägung einzubeziehen.»
+**BGE 133 I 206 E. 7.4** vom 1. Juni 2007 (Obwaldner Steuertarife)
+Die Chancengleichheit als Staatsziel in Art. 2 Abs. 3 BV verpflichtet den Staat, durch sein Handeln keine ungleichen Chancen zu bewirken und ohnehin bestehende Ungleichheiten nicht zu verschärfen. Grundvoraussetzung für die persönliche und wirtschaftliche Entfaltung ist Solidarität zwischen den verschiedenen Bevölkerungsschichten.
 
-### Förderung der gemeinsamen Wohlfahrt (Abs. 2)
+> «Aus der Chancengleichheit als Staatsziel in Art. 2 Abs. 3 BV [...] lässt sich mindestens entnehmen, dass der Staat durch sein Handeln keine ungleichen Chancen bewirken soll und ohnehin bestehende Ungleichheiten nicht verschärfen darf.»
 
-**BGE 139 I 16** vom 4. Oktober 2012
-Das Bundesgericht erläutert den Begriff der gemeinsamen Wohlfahrt im Kontext der Wirtschaftsfreiheit.
-Die Wohlfahrtsförderung rechtfertigt staatliche Massnahmen zur Korrektur von Marktversagen.
+### Nachhaltige Entwicklung und Umweltschutz
 
-> «Die Förderung der gemeinsamen Wohlfahrt nach Art. 2 Abs. 2 BV legitimiert staatliche Interventionen in die Wirtschaft, soweit diese dem Gemeinwohl dienen und verhältnismässig sind.»
+**Urteil A-5647/2016** vom 6. September 2018 (Kernenergie)
+Das Bundesverwaltungsgericht wendet Art. 2 Abs. 2 BV (nachhaltige Entwicklung) im Kontext der Kernenergie und der Stilllegungsfonds an. Die nachhaltige Entwicklung wird als Rechtfertigungsgrund für strenge Regulierung der Atomwirtschaft herangezogen.
 
-**Urteil 2P.43/2006** vom 1. Juni 2007
-Das Bundesgericht bezieht sich auf die gemeinsame Wohlfahrt bei der Beurteilung von Steuergesetzen.
-Steuererhebung zur Finanzierung öffentlicher Aufgaben dient der Verwirklichung der gemeinsamen Wohlfahrt.
+Die Rechtsprechung zeigt, dass sich der Grundsatz der nachhaltigen Entwicklung in konkreten Vollzugsmassnahmen des Umwelt- und Energierechts niederschlägt.
 
-> «Die Erhebung von Steuern zur Finanzierung staatlicher Aufgaben steht im Dienste der gemeinsamen Wohlfahrt im Sinne von Art. 2 Abs. 2 BV und ist damit verfassungsrechtlich legitimiert.»
+### Kulturelle Vielfalt
 
-### Nachhaltige Entwicklung (Abs. 2)
+**PB.2002.00038** vom 26. Februar 2003 (Verwaltungsgericht Zürich)
+In arbeitsrechtlichen Streitigkeiten wird Art. 2 BV als Verfassungsgrundlage für den Schutz kultureller und sprachlicher Minderheiten im öffentlichen Dienst berücksichtigt. Die kulturelle Vielfalt als Staatsziel prägt die Auslegung des Arbeitsrechts im öffentlichen Sektor.
 
-**BGE 144 II 233** vom 11. Mai 2018
-Das Bundesgericht würdigt das Prinzip der nachhaltigen Entwicklung bei umweltrechtlichen Entscheidungen.
-Art. 2 Abs. 2 BV verstärkt die umweltrechtlichen Schutzpflichten des Staates.
+### Rechtsstaatliche Ordnung
 
-> «Das Gebot der nachhaltigen Entwicklung nach Art. 2 Abs. 2 BV verpflichtet den Staat, bei allen Entscheidungen die langfristigen ökologischen, sozialen und wirtschaftlichen Auswirkungen zu berücksichtigen.»
+**31 I 297** vom 11. Mai 1905 (Historisches BGE)
+Bereits in der frühen Bundesgerichtspraxis wurde festgehalten, dass Art. 2 BV keine Garantie eines Individualrechts enthält, sondern eine objektive Staatszweckbestimmung darstellt. Diese Rechtsprechung prägt bis heute das Verständnis der Norm als Organisationsprinzip.
 
-**Urteil A-5647/2016** vom 6. September 2018 (BVGer)
-Das Bundesverwaltungsgericht stützt sich auf Art. 2 Abs. 2 BV bei energiepolitischen Entscheidungen.
-Die nachhaltige Entwicklung beeinflusst die Auslegung des Kernenergiegesetzes.
-
-> «Der Ausstieg aus der Kernenergie und der Übergang zu erneuerbaren Energien entspricht dem Verfassungsziel der nachhaltigen Entwicklung gemäss Art. 2 Abs. 2 BV.»
-
-### Chancengleichheit (Abs. 3)
-
-**BGE 140 I 2** vom 9. September 2013
-Das Bundesgericht konkretisiert den Chancengleichheitsauftrag im Bildungsbereich.
-Art. 2 Abs. 3 BV verstärkt die staatliche Verpflichtung zur Gewährleistung gleicher Bildungschancen.
-
-> «Der Auftrag zur Förderung der Chancengleichheit nach Art. 2 Abs. 3 BV verpflichtet den Staat, strukturelle Benachteiligungen im Bildungswesen abzubauen und gleiche Startchancen zu gewährleisten.»
-
-**Urteil 1C_713/2020** vom 23. März 2021
-Das Bundesgericht wendet Art. 2 Abs. 3 BV bei der Beurteilung von Sozialhilfemassnahmen an.
-Die Chancengleichheit rechtfertigt staatliche Umverteilungsmassnahmen zur Bekämpfung von Armut.
-
-> «Sozialhilfeleistungen dienen der Verwirklichung der Chancengleichheit im Sinne von Art. 2 Abs. 3 BV, indem sie sozial Benachteiligten die Teilhabe am gesellschaftlichen Leben ermöglichen.»
-
-### Erhaltung der natürlichen Lebensgrundlagen (Abs. 4)
-
-**BGE 142 II 509** vom 22. Dezember 2016
-Das Bundesgericht stützt sich auf Art. 2 Abs. 4 BV bei der Auslegung des Umweltschutzrechts.
-Die Erhaltung der natürlichen Lebensgrundlagen verstärkt die präventiven Schutzpflichten.
-
-> «Der Verfassungsauftrag zur Erhaltung der natürlichen Lebensgrundlagen nach Art. 2 Abs. 4 BV verpflichtet zu einer vorausschauenden und präventiven Umweltpolitik, die auch künftige Generationen berücksichtigt.»
-
-**Urteil B-3427/2019** vom 7. Januar 2021 (BVGer)
-Das Bundesverwaltungsgericht bezieht sich auf Art. 2 Abs. 4 BV bei klimaschutzrechtlichen Entscheidungen.
-Der Klimaschutz ist Teil der Verpflichtung zur Erhaltung der natürlichen Lebensgrundlagen.
-
-> «Massnahmen zum Klimaschutz dienen der Erfüllung des Verfassungsauftrags zur Erhaltung der natürlichen Lebensgrundlagen gemäss Art. 2 Abs. 4 BV.»
-
-### Friedliche und gerechte internationale Ordnung (Abs. 4)
-
-**BGE 137 II 431** vom 2. September 2011
-Das Bundesgericht würdigt Art. 2 Abs. 4 BV bei der Beurteilung völkerrechtlicher Verpflichtungen.
-Die Schweiz ist verfassungsrechtlich zur aktiven Mitgestaltung der internationalen Ordnung verpflichtet.
-
-> «Das Engagement für eine friedliche und gerechte internationale Ordnung nach Art. 2 Abs. 4 BV legitimiert die Teilnahme der Schweiz an internationalen Organisationen und Friedensmissionen.»
-
-**Urteil 1A.282/1999** vom 8. Dezember 2000
-Das Bundesgericht stützt sich auf Art. 2 Abs. 4 BV bei aussenpolitischen Entscheidungen.
-Die Förderung von Frieden und Gerechtigkeit ist ein legitimes Anliegen der schweizerischen Aussenpolitik.
-
-> «Die Förderung einer friedlichen und gerechten internationalen Ordnung gemäss Art. 2 Abs. 4 BV rechtfertigt entwicklungspolitische und humanitäre Massnahmen als Ausdruck schweizerischer Solidarität.»
+> «Art. 2 BV enthält keine Garantie eines Individualrechts.»
