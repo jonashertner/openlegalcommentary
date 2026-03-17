@@ -1,21 +1,24 @@
 ---
 import type { ArticleTextParagraph } from '../lib/content';
+import { type Lang, t } from '../lib/i18n';
 
 interface Props {
   paragraphs: ArticleTextParagraph[];
-  i18n?: Record<string, ArticleTextParagraph[]>;
+  lang: Lang;
   articleDisplay: string;
   fedlexUrl: string;
 }
 
-const { paragraphs, i18n = {}, articleDisplay, fedlexUrl } = Astro.props;
+const { paragraphs, lang, articleDisplay, fedlexUrl } = Astro.props;
 const hasParagraphs = paragraphs.length > 0;
 
-// Build Fedlex URLs per language
-function fedlexLangUrl(url: string, lang: string): string {
+// Build Fedlex URL for the given language
+function fedlexLangUrl(url: string, l: string): string {
   if (!url) return '';
-  return url.replace(/\/(de|fr|it)(#|$)/, `/${lang}$2`);
+  return url.replace(/\/(de|fr|it)(#|$)/, `/${l}$2`);
 }
+
+const resolvedFedlexUrl = fedlexLangUrl(fedlexUrl, lang);
 ---
 
 {hasParagraphs && (
@@ -29,13 +32,13 @@ function fedlexLangUrl(url: string, lang: string): string {
             <path d="M5.5 7.5h5M5.5 9.5h5M5.5 11.5h3" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
           </svg>
         </span>
-        <span data-gesetz-label>Gesetzestext</span>
+        <span>{t('gesetzestext.label', lang)}</span>
       </div>
-      <a href={fedlexUrl} target="_blank" rel="noopener" class="gesetzestext-source" data-gesetz-fedlex>
+      <a href={resolvedFedlexUrl} target="_blank" rel="noopener" class="gesetzestext-source">
         Fedlex &nearr;
       </a>
     </div>
-    <div class="gesetzestext-body" data-gesetz-body>
+    <div class="gesetzestext-body">
       {paragraphs.map((p) => {
         if (p.type === 'list' && p.items) {
           return (
@@ -57,19 +60,6 @@ function fedlexLangUrl(url: string, lang: string): string {
         );
       })}
     </div>
-    {Object.keys(i18n).length > 1 && (
-      <script
-        id="gesetzestext-i18n"
-        type="application/json"
-        set:html={JSON.stringify({
-          texts: i18n,
-          fedlexUrls: Object.fromEntries(
-            ['de', 'fr', 'it'].map(l => [l, fedlexLangUrl(fedlexUrl, l)])
-          ),
-          labels: { de: 'Gesetzestext', fr: 'Texte de loi', it: 'Testo di legge' },
-        })}
-      />
-    )}
   </section>
 )}
 
@@ -135,8 +125,8 @@ function fedlexLangUrl(url: string, lang: string): string {
   }
 
   /* Use :global() for all children of gesetzestext-body
-     because lang-change JS creates these elements dynamically
-     and they won't have Astro's scoped data attributes */
+     because Astro's scoped data attributes may not apply to
+     dynamically constructed elements in some rendering paths */
   .gesetzestext-body :global(.gesetzestext-absatz) {
     margin-bottom: 0.75rem;
     max-width: none;
@@ -233,66 +223,3 @@ function fedlexLangUrl(url: string, lang: string): string {
     }
   }
 </style>
-
-<script>
-  document.addEventListener('lang-change', (e: Event) => {
-    const { lang } = (e as CustomEvent).detail;
-    const dataEl = document.getElementById('gesetzestext-i18n');
-    if (!dataEl) return;
-
-    try {
-      const data = JSON.parse(dataEl.textContent || '{}');
-      const paragraphs = data.texts?.[lang];
-      if (!paragraphs) return;
-
-      // Update body
-      const body = document.querySelector('[data-gesetz-body]');
-      if (body) {
-        body.replaceChildren();
-        for (const p of paragraphs) {
-          if (p.type === 'list' && p.items) {
-            const dl = document.createElement('dl');
-            dl.className = 'gesetzestext-list';
-            for (const item of p.items) {
-              const dt = document.createElement('dt');
-              dt.textContent = item.letter;
-              const dd = document.createElement('dd');
-              dd.textContent = item.text;
-              dl.appendChild(dt);
-              dl.appendChild(dd);
-            }
-            body.appendChild(dl);
-          } else {
-            const el = document.createElement('p');
-            el.className = 'gesetzestext-absatz' + (p.num ? ' has-num' : '');
-            if (p.num) {
-              const numSpan = document.createElement('span');
-              numSpan.className = 'absatz-num';
-              numSpan.textContent = p.num;
-              el.appendChild(numSpan);
-            }
-            const textSpan = document.createElement('span');
-            textSpan.className = 'absatz-text';
-            textSpan.textContent = p.text || '';
-            el.appendChild(textSpan);
-            body.appendChild(el);
-          }
-        }
-      }
-
-      // Update label
-      const label = document.querySelector('[data-gesetz-label]');
-      if (label && data.labels?.[lang]) {
-        label.textContent = data.labels[lang];
-      }
-
-      // Update Fedlex link
-      const fedlex = document.querySelector('[data-gesetz-fedlex]') as HTMLAnchorElement;
-      if (fedlex && data.fedlexUrls?.[lang]) {
-        fedlex.href = data.fedlexUrls[lang];
-      }
-    } catch {
-      // Ignore parse errors
-    }
-  });
-</script>
