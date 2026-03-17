@@ -1,32 +1,35 @@
 ---
 // site/src/components/LanguageSwitcher.astro
+import { type Lang, LANGS, t } from '@/lib/i18n';
+import { langBase } from '@/lib/base';
+
 export interface Props {
-  currentLang: string;
-  available: string[];
+  currentLang: Lang;
+  pagePath: string;
 }
 
-const { currentLang = 'de', available = ['de'] } = Astro.props;
+const { currentLang, pagePath } = Astro.props;
 
-const labels: Record<string, string> = {
+const labels: Record<Lang, string> = {
   de: 'DE',
   fr: 'FR',
   it: 'IT',
+  en: 'EN',
 };
 ---
 
-{available.length > 1 && (
-  <div class="lang-switcher" role="group" aria-label="Sprache">
-    {available.map((lang) => (
-      <button
-        class:list={['lang-btn', { active: lang === currentLang }]}
-        data-lang={lang}
-        aria-pressed={lang === currentLang ? 'true' : 'false'}
-      >
-        {labels[lang] || lang.toUpperCase()}
-      </button>
-    ))}
-  </div>
-)}
+<div class="lang-switcher" role="group" aria-label={t('lang.label', currentLang)}>
+  {LANGS.map((lang) => (
+    <a
+      class:list={['lang-btn', { active: lang === currentLang }]}
+      href={`${langBase(lang)}${pagePath}`}
+      data-lang-link={lang}
+      aria-current={lang === currentLang ? 'page' : undefined}
+    >
+      {labels[lang]}
+    </a>
+  ))}
+</div>
 
 <style>
   .lang-switcher {
@@ -45,6 +48,7 @@ const labels: Record<string, string> = {
     background: none;
     color: var(--color-text-muted);
     cursor: pointer;
+    text-decoration: none;
     transition: background var(--transition-fast), color var(--transition-fast);
   }
 
@@ -64,23 +68,22 @@ const labels: Record<string, string> = {
 </style>
 
 <script>
+  // Preserve ?layer= query param across language switches
   function initLangSwitcher() {
-    const buttons = document.querySelectorAll<HTMLButtonElement>('.lang-btn');
-    if (buttons.length === 0) return;
+    const links = document.querySelectorAll<HTMLAnchorElement>('[data-lang-link]');
+    if (links.length === 0) return;
 
-    buttons.forEach((btn) => {
-      btn.addEventListener('click', () => {
-        const lang = btn.dataset.lang;
-        if (!lang) return;
+    const search = window.location.search;
+    if (!search) return;
 
-        buttons.forEach((b) => {
-          const isActive = b.dataset.lang === lang;
-          b.classList.toggle('active', isActive);
-          b.setAttribute('aria-pressed', String(isActive));
-        });
-
-        document.dispatchEvent(new CustomEvent('lang-change', { detail: { lang } }));
+    links.forEach((link) => {
+      const url = new URL(link.href, window.location.origin);
+      // Append current query params
+      const currentParams = new URLSearchParams(search);
+      currentParams.forEach((value, key) => {
+        url.searchParams.set(key, value);
       });
+      link.href = url.toString();
     });
   }
 
