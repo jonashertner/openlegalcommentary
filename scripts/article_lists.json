@@ -37,7 +37,7 @@
         "number": 5,
         "suffix": "a",
         "raw": "5a",
-        "title": ""
+        "title": "Subsidiarität"
       },
       {
         "number": 6,
@@ -73,7 +73,7 @@
         "number": 10,
         "suffix": "a",
         "raw": "10a",
-        "title": ""
+        "title": "Verbot der Verhüllung des eigenen Gesichts"
       },
       {
         "number": 11,
@@ -193,7 +193,7 @@
         "number": 29,
         "suffix": "a",
         "raw": "29a",
-        "title": ""
+        "title": "Rechtsweggarantie"
       },
       {
         "number": 30,
@@ -283,7 +283,7 @@
         "number": 43,
         "suffix": "a",
         "raw": "43a",
-        "title": ""
+        "title": "Grundsätze für die Zuweisung und Erfüllung staatlicher Aufgaben"
       },
       {
         "number": 44,
@@ -319,7 +319,7 @@
         "number": 48,
         "suffix": "a",
         "raw": "48a",
-        "title": ""
+        "title": "Allgemeinverbindlicherklärung und Beteiligungspflicht"
       },
       {
         "number": 49,
@@ -403,7 +403,7 @@
         "number": 61,
         "suffix": "a",
         "raw": "61a",
-        "title": ""
+        "title": "Bildungsraum Schweiz"
       },
       {
         "number": 62,
@@ -421,7 +421,7 @@
         "number": 63,
         "suffix": "a",
         "raw": "63a",
-        "title": ""
+        "title": "Hochschulen"
       },
       {
         "number": 64,
@@ -433,7 +433,7 @@
         "number": 64,
         "suffix": "a",
         "raw": "64a",
-        "title": ""
+        "title": "Weiterbildung"
       },
       {
         "number": 65,
@@ -457,7 +457,7 @@
         "number": 67,
         "suffix": "a",
         "raw": "67a",
-        "title": ""
+        "title": "Musikalische Bildung"
       },
       {
         "number": 68,
@@ -511,13 +511,13 @@
         "number": 75,
         "suffix": "a",
         "raw": "75a",
-        "title": ""
+        "title": "Vermessung"
       },
       {
         "number": 75,
         "suffix": "b",
         "raw": "75b",
-        "title": ""
+        "title": "Zweitwohnungen"
       },
       {
         "number": 76,
@@ -559,7 +559,7 @@
         "number": 81,
         "suffix": "a",
         "raw": "81a",
-        "title": ""
+        "title": "Öffentlicher Verkehr"
       },
       {
         "number": 82,
@@ -589,7 +589,7 @@
         "number": 85,
         "suffix": "a",
         "raw": "85a",
-        "title": ""
+        "title": "Abgabe für die Benützung der Nationalstrassen"
       },
       {
         "number": 86,
@@ -607,13 +607,13 @@
         "number": 87,
         "suffix": "a",
         "raw": "87a",
-        "title": ""
+        "title": "Eisenbahninfrastruktur"
       },
       {
         "number": 87,
         "suffix": "b",
         "raw": "87b",
-        "title": ""
+        "title": "Verwendung von Abgaben für Aufgaben und Aufwendungen im Zusammenhang mit dem Luftverkehr"
       },
       {
         "number": 88,
@@ -721,7 +721,7 @@
         "number": 104,
         "suffix": "a",
         "raw": "104a",
-        "title": ""
+        "title": "Ernährungssicherheit"
       },
       {
         "number": 105,
@@ -775,19 +775,19 @@
         "number": 112,
         "suffix": "a",
         "raw": "112a",
-        "title": ""
+        "title": "Ergänzungsleistungen"
       },
       {
         "number": 112,
         "suffix": "b",
         "raw": "112b",
-        "title": ""
+        "title": "Förderung der Eingliederung Invalider"
       },
       {
         "number": 112,
         "suffix": "c",
         "raw": "112c",
-        "title": ""
+        "title": "Betagten- und Behindertenhilfe"
       },
       {
         "number": 113,
@@ -823,13 +823,13 @@
         "number": 117,
         "suffix": "a",
         "raw": "117a",
-        "title": ""
+        "title": "Medizinische Grundversorgung"
       },
       {
         "number": 117,
         "suffix": "b",
         "raw": "117b",
-        "title": ""
+        "title": "Pflege"
       },
       {
         "number": 118,
@@ -841,13 +841,13 @@
         "number": 118,
         "suffix": "a",
         "raw": "118a",
-        "title": ""
+        "title": "Komplementärmedizin"
       },
       {
         "number": 118,
         "suffix": "b",
         "raw": "118b",
-        "title": ""
+        "title": "Forschung am Menschen"
       },
       {
         "number": 119,
@@ -859,7 +859,7 @@
         "number": 119,
         "suffix": "a",
         "raw": "119a",
-        "title": ""
+        "title": "Transplantationsmedizin"
       },
       {
         "number": 120,
@@ -877,7 +877,7 @@
         "number": 121,
         "suffix": "a",
         "raw": "121a",
-        "title": ""
+        "title": "Steuerung der Zuwanderung"
       },
       {
         "number": 122,
@@ -901,13 +901,13 @@
         "number": 123,
         "suffix": "b",
         "raw": "123b",
-        "title": ""
+        "title": "Unverjährbarkeit der Strafverfolgung und der Strafe bei sexuellen und bei pornografischen Straftaten an Kindern vor der Pubertät"
       },
       {
         "number": 123,
         "suffix": "c",
         "raw": "123c",
-        "title": ""
+        "title": "Massnahme nach Sexualdelikten an Kindern oder an zum Widerstand unfähigen oder urteilsunfähigen Personen"
       },
       {
         "number": 124,
@@ -949,7 +949,7 @@
         "number": 129,
         "suffix": "a",
         "raw": "129a",
-        "title": ""
+        "title": "Besondere Besteuerung grosser Unternehmensgruppen"
       },
       {
         "number": 130,
@@ -1021,7 +1021,7 @@
         "number": 139,
         "suffix": "b",
         "raw": "139b",
-        "title": ""
+        "title": "Verfahren bei Initiative und Gegenentwurf"
       },
       {
         "number": 140,
@@ -1039,7 +1039,7 @@
         "number": 141,
         "suffix": "a",
         "raw": "141a",
-        "title": ""
+        "title": "Umsetzung von völkerrechtlichen Verträgen"
       },
       {
         "number": 142,
@@ -1345,7 +1345,7 @@
         "number": 191,
         "suffix": "a",
         "raw": "191a",
-        "title": ""
+        "title": "Weitere richterliche Behörden des Bundes"
       },
       {
         "number": 191,

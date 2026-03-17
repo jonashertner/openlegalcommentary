@@ -64,7 +64,8 @@ def _extract_title(text: str) -> str:
         if idx > 0:
             text = text[:idx].strip()
             break
-    # Remove footnote markers
+    # Remove "* Mit Übergangsbestimmung. *" and footnote markers
+    text = re.sub(r"\s*\*?\s*Mit Übergangsbestimmung\.?\s*\*?\s*", "", text).strip()
     text = re.sub(r"\d*\*\s*$", "", text).strip()
     return text
 
