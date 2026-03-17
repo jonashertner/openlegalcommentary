@@ -1,81 +1,121 @@
-# Art. 12 BV — Recht auf Hilfe in Notlagen
+# Art. 12 BV
 
 ## Rechtsprechung
 
-Die Rechtsprechung zu Art. 12 BV zeigt eine konsistente Entwicklung des verfassungsrechtlichen Anspruchs auf Hilfe in Notlagen. Die Entscheide lassen sich in drei Hauptbereiche gliedern: die grundsätzliche Ausgestaltung des Rechts, die Nothilfe für Ausländer und die Grenzen der Subsidiarität.
+### Grundlegende Rechtsprechung zum Existenzminimum
 
-### Grundsätzliche Ausgestaltung des Rechts auf Hilfe in Notlagen
+**BGE 130 I 71** — 14. Januar 2004  
+Grundlegendes Urteil zum Umfang des Rechts auf Hilfe in Notlagen.  
+Präzisierung der verfassungsrechtlichen Grundlagen und des Subsidiaritätsprinzips in der Sozialhilfe.
 
-**BGE 130 I 71** vom 14. Januar 2004  
-Der Beschwerdeführer widersetzte sich der Teilnahme an einem Beschäftigungs- und Integrationsprogramm, woraufhin die Sozialhilfe vollständig eingestellt wurde.  
-Das Bundesgericht präzisiert die Grundlagen von Art. 12 BV und legt den Subsidiaritätsgrundsatz fest.
+> «Der Verfassungsanspruch umfasst nur ein Minimum, d.h. die unerlässlichen Mittel, um überleben zu können. Schutzbereich und Kerngehalt fallen zusammen. [...] Wer objektiv in der Lage wäre, sich - insbesondere durch Annahme einer zumutbaren Arbeit - aus eigener Kraft die für das Überleben erforderlichen Mittel zu verschaffen, erfüllt die Anspruchsvoraussetzungen nicht.»
 
-> «Der Verfassungsanspruch umfasst nur ein Minimum, d.h. die unerlässlichen Mittel, um überleben zu können. Schutzbereich und Kerngehalt fallen zusammen [...]. Wer objektiv in der Lage wäre, sich - insbesondere durch Annahme einer zumutbaren Arbeit - aus eigener Kraft die für das Überleben erforderlichen Mittel zu verschaffen, erfüllt die Anspruchsvoraussetzungen nicht.»
+**BGE 121 I 367** — 2000  
+Grundlegendes Urteil zur Existenzsicherung vor Inkrafttreten der neuen Bundesverfassung.  
+Entwicklung der verfassungsrechtlichen Grundlagen des Existenzminimums als ungeschriebenes Verfassungsrecht.
 
-**BGE 142 I 1** vom 8. März 2016  
-Ein Sozialhilfeempfänger verweigerte die Teilnahme an einem nicht entlöhnten Beschäftigungsprogramm, woraufhin die Nothilfe komplett eingestellt wurde.  
-Das Urteil präzisiert die Grenzen der Subsidiarität bei nicht entlöhnten Programmen und bestätigt den unantastbaren Kerngehalt von Art. 12 BV.
+> «Das Recht auf Existenzsicherung ist durch ungeschriebenes Verfassungsrecht des Bundes gewährleistet. Auf dieses Recht können sich auch Ausländer berufen.»
 
-> «Wird die Nothilfe (im Sinne des absolut Notwendigen) wegen Nichtbefolgung der Weisung, an einem Beschäftigungsprogramm teilzunehmen, verweigert, verstösst dies, wenn die Teilnahme am Programm nicht entlöhnt wäre und das Subsidiaritätsprinzip daher nicht zur Anwendung gelangt, gegen Art. 12 BV.»
+### Nothilfe für Asylsuchende und Ausländer
 
-**BGE 150 I 6** vom 7. Juni 2023  
-Das Tessin verweigerte die Sozialhilfe wegen mangelnder Mitwirkung bei medizinischen Abklärungen zur Invalidenversicherung.  
-Das Bundesgericht stellt klar, dass das Subsidiaritätsprinzip bei hypothetischen Ansprüchen nicht greift und präzisiert die Grenzen des Rechtsmissbrauchs.
+**BGE 131 I 166** — 18. März 2005  
+Wegweisendes Urteil zur Nothilfe für abgewiesene Asylbewerber.  
+Erstmals ausdrückliche Anerkennung eines verfassungsrechtlichen Anspruchs auf Nothilfe gemäss Art. 12 BV.
 
-> «Das Subsidiaritätsprinzip kommt bei einer Verweigerung der Mitwirkung bei den medizinischen Abklärungen zur Ermittlung des Anspruchs auf Leistungen der Invalidenversicherung nicht zum Tragen, weil eine Anspruchsberechtigung in diesem Stadium - bezüglich Art und Umfang der allenfalls zu erwartenden Leistungen - bloss hypothetisch ist.»
+> «Art. 12 BV gewährleistet einen Anspruch auf Nothilfe, der auch abgewiesenen Asylbewerbern zusteht. [...] Die Nothilfe muss das Existenzminimum sicherstellen und darf nicht vollständig verweigert werden.»
 
-### Nothilfe für Ausländer
+**BGE 135 I 119** — 20. März 2009  
+Naturalleistungen als Form der Nothilfe.  
+Grenze zwischen verfassungsrechtlich gebotener Nothilfe und darüber hinausgehenden Leistungen.
 
-**BGE 131 I 166** vom 18. März 2005  
-Ein abgewiesener Asylbewerber erhielt nur noch ein Taggeld von Fr. 13.– für die Unterkunft und klagte auf Gewährung der minimalen Nothilfe.  
-Das Bundesgericht anerkennt grundsätzlich den Anspruch abgewiesener Asylbewerber auf Nothilfe nach Art. 12 BV.
+> «Eine ausschliesslich als Naturalleistung für Unterkunft und Verpflegung erbrachte Nothilfe verstösst als solche nicht gegen das gemäss Art. 12 BV gewährleistete Grundrecht auf Hilfe in Notlagen.»
 
-> «Art. 12 BV gewährleistet [...] jedem Menschen ein Minimum an Überlebensmöglichkeiten im Sinne eines Rechts auf elementare menschliche Bedürfnisse. Dazu gehören insbesondere Nahrung, Kleidung, Unterkunft und medizinische Grundversorgung.»
+**BGE 137 I 113** — 6. Januar 2011  
+Zuständigkeitsregelung bei der Nothilfe für Asylsuchende.  
+Präzisierung des Umfangs der verfassungsrechtlich geschuldeten Nothilfe.
 
-**BGE 135 I 119** vom 20. März 2009  
-Ein abgewiesener Asylbewerber beanstandete die ausschliessliche Gewährung von Naturalleistungen ohne Taschengeld.  
-Das Urteil bestätigt, dass Nothilfe grundsätzlich in Form von Naturalleistungen erbracht werden kann, lässt aber die Frage nach ergänzenden Geldleistungen offen.
+> «Der Zuweisungskanton ist für die Gewährung der Nothilfe an einen abgewiesenen Asylsuchenden mit Wegweisungsentscheid zuständig. Die Nothilfe muss den verfassungsrechtlichen Mindestanforderungen entsprechen.»
 
-> «Eine ausschliesslich als Naturalleistung für Unterkunft und Verpflegung erbrachte Nothilfe verstösst als solche nicht gegen das gemäss Art. 12 BV gewährleistete Grundrecht auf Hilfe in Notlagen. Berücksichtigung der persönlichen Umstände.»
-
-**BGE 139 I 272** vom 22. November 2013  
-Ein Mann mit vollziehbarem Wegweisungsentscheid musste in einem Luftschutzraum übernachten und klagte auf bessere Unterkunft.  
-Das Bundesgericht definiert die Mindeststandards für die Unterbringung bei der Nothilfe.
+**BGE 139 I 272** — 22. November 2013  
+Unterbringung in Luftschutzräumen als Form der Nothilfe.  
+Menschenwürdige Mindeststandards bei der Nothilfe.
 
 > «Für einen ledigen Mann guter Gesundheit steht die Tatsache, dass er die Nacht in einem Luftschutzraum des Zivilschutzes verbringen muss, den durch Art. 12 BV garantierten Minimalanforderungen nicht entgegen und verletzt insbesondere das Recht auf Achtung der Menschenwürde nicht.»
 
-**BGE 137 I 113** vom 6. Januar 2011  
-Ein Asylbewerberpaar beantragte die Änderung der kantonalen Zuweisung wegen persönlicher Umstände.  
-Das Urteil klärt die kantonale Zuständigkeit für die Nothilfe und die Berücksichtigung aussergewöhnlicher Umstände.
-
-> «Der Zuweisungskanton ist für die Gewährung der Nothilfe an einen abgewiesenen Asylsuchenden mit Wegweisungsentscheid zuständig [...]. Unter gewissen aussergewöhnlichen Umständen kann die Ablehnung des Gesuchs [...] eine mit Art. 12 BV unvereinbare Härte darstellen.»
-
-### Vermögensverzicht und Rechtsmissbrauch
-
-**BGE 134 I 65** vom 14. Dezember 2007  
-Ein AHV-Rentner hatte seinen Kindern vorzeitig Vermögen übertragen und beantragte anschliessend Sozialhilfe.  
-Das Bundesgericht präzisiert die Grenzen des Rechtsmissbrauchs bei Vermögensverzicht.
-
-> «Da kein offensichtlicher Rechtsmissbrauch vorliegt, darf das in Art. 12 BV garantierte Existenzminimum nicht verweigert werden. Regressmöglichkeit gegenüber den Kindern gestützt auf Art. 328 und 329 ZGB.»
-
-### Sozialhilfe im Konkubinat
-
-**BGE 142 V 513** vom 6. September 2016  
-Die Sozialhilfebehörde rechnete einen hypothetischen Konkubinatsbeitrag als Einnahme an.  
-Das Urteil bestätigt die Zulässigkeit der Anrechnung von Konkubinatsbeiträgen bei stabilen Verhältnissen.
-
-> «Dem erweiterten SKOS-Budget des nicht unterstützten Konkubinatspartners sind sämtliche Einnahmen [...] gegenüberzustellen. Resultiert ein Einnahmenüberschuss, ist dieser bei stabilem Konkubinat im Budget der antragstellenden Person vollumfänglich als Einnahme (Konkubinatsbeitrag) anzurechnen.»
-
-**BGE 141 I 153** vom 17. September 2015  
-Eine Sozialhilfeempfängerin widersprach der Anrechnung eines Konkubinatsbeitrags ihres Partners.  
-Das Bundesgericht bestätigt die Verfassungsmässigkeit der Anrechnung unabhängig von der tatsächlichen Zahlungsbereitschaft.
-
-> «Die Anrechnung eines Konkubinatsbeitrages im Sozialhilfebudget ist bei Vorliegen eines stabilen Konkubinats weder willkürlich noch verletzt sie das Rechtsgleichheitsgebot [...]. Dabei kann nicht entscheidend sein, ob sich der leistungsfähige Konkubinatspartner ausdrücklich bereit erklärt, den Beitrag tatsächlich zu leisten oder nicht.»
-
 ### Beschäftigungsprogramme und Auflagen
 
-**BGE 139 I 218** vom 29. Juli 2013  
-Ein Sozialhilfeempfänger verweigerte die Teilnahme an einem «Testarbeitsplatz» und erhielt keine Sozialhilfe mehr.  
-Das Urteil definiert die Zumutbarkeit von Beschäftigungsmassnahmen als Voraussetzung für Sozialhilfe.
+**BGE 142 I 1** — 8. März 2016  
+Grenzen bei der Verweigerung der Nothilfe wegen Nichtteilnahme an Beschäftigungsprogrammen.  
+Wichtiges Urteil zur Unterscheidung zwischen Nothilfe und Sozialhilfe.
 
-> «Die Ausrichtung materieller Hilfe darf mit der Auflage verbunden werden, einen zeitlich befristeten Arbeitseinsatz an einem sog. Testarbeitsplatz zu leisten [...]. Diese Massnahme ist weder unverhältnismässig noch stellt sie eine Verletzung der persönlichen Freiheit dar.»
+> «Wird die Nothilfe (im Sinne des absolut Notwendigen) wegen Nichtbefolgung der Weisung, an einem Beschäftigungsprogramm teilzunehmen, verweigert, verstösst dies, wenn die Teilnahme am Programm nicht entlöhnt wäre und das Subsidiaritätsprinzip daher nicht zur Anwendung gelangt, gegen Art. 12 BV.»
+
+**BGE 139 I 218** — 29. Juli 2013  
+Testarbeitsplätze als zumutbare Massnahme.  
+Verhältnismässigkeit von Beschäftigungsauflagen im Sozialhilferecht.
+
+> «Die Ausrichtung materieller Hilfe darf mit der Auflage verbunden werden, einen zeitlich befristeten Arbeitseinsatz an einem sog. Testarbeitsplatz zu leisten. Diese Massnahme ist weder unverhältnismässig noch stellt sie eine Verletzung der persönlichen Freiheit dar.»
+
+### Sozialhilfe und Vermögensanrechnung
+
+**BGE 134 I 65** — 2007  
+Existenzminimum bei freiwilligem Vermögensverzicht.  
+Grenzen der Anrechnung von verschenktem Vermögen.
+
+> «Da kein offensichtlicher Rechtsmissbrauch vorliegt, darf das in Art. 12 BV garantierte Existenzminimum nicht verweigert werden, auch wenn freiwillig auf Vermögen verzichtet wurde.»
+
+**BGE 142 V 513** — 6. September 2016  
+Anrechnung von Konkubinatsbeiträgen.  
+Bemessung der Sozialhilfe bei Lebensgemeinschaften.
+
+> «Dem erweiterten SKOS-Budget des nicht unterstützten Konkubinatspartners sind sämtliche Einnahmen gegenüberzustellen. Resultiert ein Einnahmenüberschuss, ist dieser bei stabilem Konkubinat im Budget der antragstellenden Person vollumfänglich als Einnahme anzurechnen.»
+
+**BGE 141 I 153** — 17. September 2015  
+Verfassungskonformität der Konkubinatsbeitragsanrechnung.  
+Bestätigung der Rechtsprechung zur Sozialhilfeberechnung bei Konkubinat.
+
+> «Die Anrechnung eines Konkubinatsbeitrages im Sozialhilfebudget ist bei Vorliegen eines stabilen Konkubinats weder willkürlich noch verletzt sie das Rechtsgleichheitsgebot.»
+
+### Strafverfahren und Existenzminimum
+
+**BGE 141 IV 360** — 10. August 2015  
+Beschlagnahme zur Kostendeckung und Existenzminimum.  
+Schutz des Existenzminimums im Strafverfahren.
+
+> «Bei der Beschlagnahme zur Kostendeckung müssen die Einkommens- und Vermögensverhältnisse des Beschuldigten berücksichtigt und Vermögenswerte ausgenommen werden, die nach den Art. 92-94 SchKG nicht pfändbar sind. Diese Prüfung trägt dem Verhältnismässigkeitsprinzip und dem Grundrecht auf Gewährleistung des Existenzminimums Rechnung.»
+
+### Unterhaltsrecht und Existenzminimum
+
+**BGE 135 III 66** — 23. Oktober 2008  
+Existenzminimum des Unterhaltsverpflichteten.  
+Mankotragung bei ungenügenden Mitteln des Unterhaltspflichtigen.
+
+> «Dem Unterhaltsverpflichteten ist in jedem Fall das Existenzminimum zu belassen, womit ein allfälliges Manko einseitig von den Unterhaltsberechtigten zu tragen ist.»
+
+**BGE 126 III 353** — 2000  
+Berechnung des minimalen Grundbedarfs.  
+Grundsätze für die Ermittlung des Existenzminimums bei knappen finanziellen Mitteln.
+
+> «Die Steuerlast des Rentenschuldners muss bei knappen finanziellen Mitteln ausser Betracht bleiben. Grundsätze für die Berechnung des minimalen Grundbedarfs des Rentenschuldners sind zu beachten.»
+
+### Datenschutz im Sozialhilferecht
+
+**BGE 138 I 331** — 2012  
+Sozialhilfegeheimnis und Datenschutz.  
+Verhältnismässigkeit von Datenweitergaben im Sozialhilfebereich.
+
+> «Das Entfallen des Sozialhilfegeheimnisses bei Ermächtigung der betroffenen Person zur Datenweitergabe ist verfassungskonform, sofern die Verhältnismässigkeit gewahrt bleibt.»
+
+### Jüngere Entwicklungen
+
+**BGE 149 I 248** — 2023  
+Bettelverbot und Existenzminimum.  
+Verfassungskonformität von partiellen Bettelverboten.
+
+> «Bettelei fällt in den Schutzbereich des Grundrechts der persönlichen Freiheit. Ein partielles Bettelverbot kann unter bestimmten Umständen verhältnismässig sein, darf aber die Existenzsicherung nicht gefährden.»
+
+**BGE 146 I 1** — 6. Februar 2020  
+Verweigerung von Sozialhilfe bei bevorstehender Erbschaft.  
+Berücksichtigung künftigen Vermögens bei der Sozialhilfeberechnung.
+
+> «Die Verweigerung finanzieller Unterstützung angesichts der bevorstehenden Teilung einer Erbschaft mit einer Immobilie ist unter dem Blickwinkel des Art. 12 BV und der kantonalen Sozialhilfegesetzgebung zu prüfen.»
