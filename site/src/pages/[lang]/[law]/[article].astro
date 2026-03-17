@@ -1,53 +1,50 @@
 ---
-// site/src/pages/[law]/[article].astro
-import { BASE, HOME } from '@/lib/base';
-import Base from '../../layouts/Base.astro';
-import Breadcrumb from '../../components/Breadcrumb.astro';
-import ArticleTabs from '../../components/ArticleTabs.astro';
-import ArticlePagination from '../../components/ArticlePagination.astro';
-import LanguageSwitcher from '../../components/LanguageSwitcher.astro';
-import Gesetzestext from '../../components/Gesetzestext.astro';
-import { LAWS, getLawByAbbr } from '../../lib/laws';
-import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText, getArticleTextI18n } from '../../lib/content';
+// site/src/pages/[lang]/[law]/[article].astro
+import { LANGS, type Lang, t } from '@/lib/i18n';
+import { langBase, langHome } from '@/lib/base';
+import Base from '../../../layouts/Base.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import ArticleTabs from '../../../components/ArticleTabs.astro';
+import ArticlePagination from '../../../components/ArticlePagination.astro';
+import Gesetzestext from '../../../components/Gesetzestext.astro';
+import { LAWS, getLawByAbbr } from '../../../lib/laws';
+import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText } from '../../../lib/content';
 
 export function getStaticPaths() {
-  const paths: { params: { law: string; article: string } }[] = [];
-
-  for (const law of LAWS) {
-    const articles = listArticles(law.abbr);
-    for (const art of articles) {
-      paths.push({
-        params: { law: law.abbr.toLowerCase(), article: art.slug },
+  const laws = ['bv', 'zgb', 'or', 'zpo', 'stgb', 'stpo', 'schkg', 'vwvg'];
+  return LANGS.flatMap(lang =>
+    laws.flatMap(law => {
+      const dirs = listArticleDirs(law);
+      return dirs.map(dir => {
+        const match = dir.match(/^art-(\d+)([a-z]*)$/);
+        const slug = match ? `art-${parseInt(match[1], 10)}${match[2] || ''}` : dir;
+        return { params: { lang, law, article: slug } };
       });
-    }
-  }
-
-  return paths;
+    })
+  );
 }
 
-const { law: lawParam, article: articleSlug } = Astro.params;
+const { lang, law: lawParam, article: articleSlug } = Astro.params as { lang: Lang; law: string; article: string };
 const lawInfo = getLawByAbbr(lawParam!);
-if (!lawInfo) return Astro.redirect(HOME);
+if (!lawInfo) return Astro.redirect(langHome(lang));
 
 const dirName = slugToDirName(articleSlug!);
-const articleData = loadArticle(lawInfo.abbr, dirName);
+const articleData = loadArticle(lawInfo.abbr, dirName, lang);
 
 // Build meta from article_lists.json fallback if no content dir
 const allArticles = listArticles(lawInfo.abbr);
 const articleEntry = allArticles.find((a) => a.slug === articleSlug);
-if (!articleData && !articleEntry) return Astro.redirect(`${BASE}/${lawParam}`);
+if (!articleData && !articleEntry) return Astro.redirect(`${langBase(lang)}/${lawParam}`);
 
 const meta = articleData?.meta || articleEntry!.meta;
 const summary = articleData?.summary || '';
 const doctrine = articleData?.doctrine || '';
 const caselaw = articleData?.caselaw || '';
-const translations = articleData?.translations || {};
 const nav = getArticleNav(lawInfo.abbr, dirName);
 
-// Load Gesetzestext in all languages from article_texts*.json
+// Load Gesetzestext in the current language
 const articleRaw = `${meta.article}${meta.article_suffix || ''}`;
-const gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw);
-const gesetzestextI18n = getArticleTextI18n(lawInfo.abbr, articleRaw);
+const gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw, lang);
 
 // Generate a slug from heading text for anchor IDs
 function slugify(text: string): string {
@@ -125,7 +122,7 @@ function mdToHtml(md: string): string {
       /(?:→|↔)\s*Art\.\s*(\d+)([a-z]*)\s+(BV|ZGB|OR|ZPO|StGB|StPO|SchKG|VwVG)/g,
       (match, num, suffix, law) => {
         const lawLower = law.toLowerCase();
-        const base = BASE;
+        const base = langBase(lang);
         return `<a href="${base}/${lawLower}/art-${parseInt(num)}${suffix}" class="cite-cross">${match}</a>`;
       }
     )
@@ -173,32 +170,6 @@ const caselawHtml = mdToHtml(caselaw);
 const doctrineToc = extractToc(doctrine);
 const caselawToc = extractToc(caselaw);
 
-// Determine available languages
-const availableLanguages = ['de'];
-const hasFr = translations.summary?.fr || translations.doctrine?.fr || translations.caselaw?.fr;
-const hasIt = translations.summary?.it || translations.doctrine?.it || translations.caselaw?.it;
-if (hasFr) availableLanguages.push('fr');
-if (hasIt) availableLanguages.push('it');
-
-// Pre-render translations to HTML
-const translatedContent: Record<string, { summary: string; doctrine: string; caselaw: string }> = {
-  de: { summary: summaryHtml, doctrine: doctrineHtml, caselaw: caselawHtml },
-};
-if (hasFr) {
-  translatedContent.fr = {
-    summary: mdToHtml(translations.summary?.fr || ''),
-    doctrine: mdToHtml(translations.doctrine?.fr || ''),
-    caselaw: mdToHtml(translations.caselaw?.fr || ''),
-  };
-}
-if (hasIt) {
-  translatedContent.it = {
-    summary: mdToHtml(translations.summary?.it || ''),
-    doctrine: mdToHtml(translations.doctrine?.it || ''),
-    caselaw: mdToHtml(translations.caselaw?.it || ''),
-  };
-}
-
 const articleDisplay = `Art. ${meta.article}${meta.article_suffix || ''} ${lawInfo.abbr}`;
 
 const layerParam = Astro.url.searchParams.get('layer') || 'summary';
@@ -212,10 +183,11 @@ const lastUpdated = Object.values(layerMeta)
   .pop();
 ---
 
-<Base title={articleDisplay} description={`Kommentar zu ${articleDisplay}`}>
+<Base title={articleDisplay} lang={lang} pagePath={`/${lawParam}/${articleSlug}`} description={`${t('footer.commentary', lang)}: ${articleDisplay}`}>
   <Breadcrumb
+    lang={lang}
     items={[
-      { label: lawInfo.abbr, href: `${BASE}/${lawParam}` },
+      { label: lawInfo.abbr, href: `${langBase(lang)}/${lawParam}` },
       { label: articleDisplay },
     ]}
   />
@@ -226,33 +198,20 @@ const lastUpdated = Object.values(layerMeta)
       <div class="article-meta text-sm text-muted">
         <span class="font-mono">SR {meta.sr_number}</span>
         {meta.in_force_since && (
-          <span>In Kraft seit {meta.in_force_since}</span>
+          <span>{t('article.in_force_since', lang)} {meta.in_force_since}</span>
         )}
       </div>
     </header>
 
     <Gesetzestext
       paragraphs={gesetzestextParagraphs}
-      i18n={gesetzestextI18n}
+      lang={lang}
       articleDisplay={articleDisplay}
       fedlexUrl={meta.fedlex_url}
     />
 
-    {availableLanguages.length > 1 && (
-      <div class="article-lang">
-        <LanguageSwitcher currentLang="de" available={availableLanguages} />
-      </div>
-    )}
-
-    {availableLanguages.length > 1 && (
-      <script
-        id="translation-data"
-        type="application/json"
-        set:html={JSON.stringify(translatedContent)}
-      />
-    )}
-
     <ArticleTabs
+      lang={lang}
       summary={summaryHtml}
       doctrine={doctrineHtml}
       caselaw={caselawHtml}
@@ -268,6 +227,7 @@ const lastUpdated = Object.values(layerMeta)
     )}
 
     <ArticlePagination
+      lang={lang}
       law={lawParam!}
       prev={nav.prev}
       next={nav.next}
@@ -281,8 +241,8 @@ const lastUpdated = Object.values(layerMeta)
   <button
     class="back-to-top"
     id="back-to-top"
-    aria-label="Nach oben scrollen"
-    title="Nach oben"
+    aria-label={t('article.back_to_top', lang)}
+    title={t('article.back_to_top', lang)}
   >
     <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
       <path d="M9 14V4M9 4L4 9M9 4l5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -329,10 +289,6 @@ const lastUpdated = Object.values(layerMeta)
   .article-updated {
     margin-top: var(--space-3);
     text-align: right;
-  }
-
-  .article-lang {
-    margin-bottom: var(--space-2);
   }
 
   /* Reading progress bar */
@@ -409,34 +365,6 @@ const lastUpdated = Object.values(layerMeta)
 </style>
 
 <script>
-  document.addEventListener('lang-change', (e: Event) => {
-    const { lang } = (e as CustomEvent).detail;
-    const dataEl = document.getElementById('translation-data');
-    if (!dataEl) return;
-
-    try {
-      const translations = JSON.parse(dataEl.textContent || '{}');
-      const content = translations[lang];
-      if (!content) return;
-
-      const panels = {
-        summary: document.querySelector('[data-panel="summary"]'),
-        doctrine: document.querySelector('[data-panel="doctrine"]'),
-        caselaw: document.querySelector('[data-panel="caselaw"]'),
-      };
-
-      for (const [key, panel] of Object.entries(panels)) {
-        if (panel && content[key]) {
-          // Content is server-rendered HTML from mdToHtml (input is HTML-escaped before markup is added)
-          // eslint-disable-next-line no-unsanitized/property
-          (panel as Element).innerHTML = content[key];
-        }
-      }
-    } catch {
-      // Ignore parse errors
-    }
-  });
-
   // Reading progress bar
   function updateProgress() {
     const bar = document.getElementById('reading-progress');
