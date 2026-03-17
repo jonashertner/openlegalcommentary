@@ -1,77 +1,65 @@
-# Art. 3 Cst — Cantons
-
 ## Jurisprudence
 
-### Principe de la souveraineté cantonale
+La jurisprudence relative à l'art. 3 Cst. traite principalement de la délimitation de la compétence résiduelle cantonale par rapport au droit fédéral et de l'interprétation de l'ordre fédéral de répartition des compétences. Les arrêts de principe suivants montrent l'évolution de la jurisprudence sur la souveraineté cantonale.
 
-**ATF 128 I 280 c. 4.3** du 28 juin 2002
-Le Tribunal fédéral établit que dans l'État fédéral suisse, les cantons disposent également de la qualité d'État. Les cantons ne sont pas de simples unités administratives de la Confédération, mais des entités étatiques autonomes dotées de leur propre souveraineté dans leurs domaines de compétence.
+### Principes de la compétence résiduelle cantonale
 
-> « Dans l'État fédéral suisse, la qualité d'État revient également aux cantons. »
+**ATF 122 I 70** (22 février 1996)
+Interdiction du vol à voile du canton d'Appenzell Rhodes-Intérieures ; délimitation entre compétences fédérales et cantonales dans le droit aéronautique. Le Tribunal fédéral précise les principes des compétences concurrentes et de la compétence résiduelle cantonale dans les domaines non réglés de manière exhaustive.
 
-**ATF 103 Ia 329 c. 3** du 18 mars 1977
-Dans un conflit de compétences, le Tribunal fédéral confirme que l'art. 3 Cst sert à délimiter les sphères de souveraineté entre la Confédération et les cantons. La norme définit le cadre constitutionnel pour la répartition des tâches dans l'État fédéral.
+> « Les cantons sont souverains en tant que leur souveraineté n'est pas limitée par la Constitution fédérale (art. 3 Cst.). Ils ont une compétence législative originaire, qui n'est supprimée que dans la mesure où la Confédération soit est compétente exclusivement, avec effet dérogatoire originaire, soit dans un domaine où elle est compétente de manière concurrente, avec effet dérogatoire subséquent, a fait usage de sa compétence de manière exhaustive. »
 
-> « Il [sc. Art. 83 let. a OJ] a pour objet la délimitation des souverainetés fédérale d'une part, cantonale d'autre part. »
+**ATF 125 II 152** (1999)
+Délimitation des compétences fédérales et cantonales en matière d'appareils automatiques à sous. Recours de droit public du canton de Saint-Gall contre une ordonnance du Conseil fédéral. L'arrêt précise que les cantons n'ont pas le droit de poursuivre des pratiques contraires au droit fédéral.
 
-### Répartition des compétences et habilitation spécifique
+> « Le Conseil fédéral n'a pas empiété sur la compétence cantonale en édictant l'ordonnance fédérale sur les appareils automatiques à sous. Les cantons n'ont pas le droit de poursuivre la pratique antérieure d'homologation d'appareils automatiques d'adresse qui s'avère contraire au droit fédéral. »
 
-**ATF 130 I 156 c. 2.5** du 21 avril 2004
-Le Tribunal fédéral précise le système de répartition des compétences selon l'art. 3 Cst. Il souligne que les compétences étatiques sont réparties sans lacune entre la Confédération et les cantons et que la Confédération ne dispose que des compétences explicitement transférées.
+### Souveraineté fiscale cantonale et compétences en matière d'imposition
 
-> « Du système établi à l'art. 3 Cst découle en théorie une répartition des compétences sans lacune entre la Confédération et les cantons. »
+**ATF 140 I 176** (27 mars 2014)
+Admissibilité d'un impôt communal sur les résidences secondaires malgré l'initiative fédérale sur les résidences secondaires. L'arrêt confirme la compétence originaire cantonale en matière d'imposition même dans les domaines de compétence fédérale, pour autant qu'il n'existe pas de réglementation exhaustive.
 
-**Arrêt 2C.1076/2012 c. 7.1** du 27 mars 2014
-Le Tribunal fédéral précise que les nouvelles tâches relèvent en principe de la compétence des cantons, tant qu'il n'existe pas de compétence fédérale explicite. Cela découle de la compétence générale subsidiaire des cantons selon l'art. 3 Cst.
+> « La commune est compétente pour introduire cet impôt : l'initiative sur les résidences secondaires acceptée lors de la votation populaire fédérale du 11 mars 2012, resp. l'art. 75b Cst. nouvellement créé, ne contient pas d'approche de solution globale et donc exhaustive pour la problématique des 'lits froids' et ne s'oppose donc pas à l'impôt communal sur les résidences secondaires en cause. »
 
-> « Les tâches 'nouvelles' relèvent sans autre de la compétence des cantons. »
+**ATF 133 I 206** (1er juin 2007)
+Constitutionnalité des barèmes fiscaux dégressifs obwaldiens ; autonomie tarifaire des cantons. Le Tribunal fédéral reconnaît l'autonomie cantonale dans l'aménagement du droit fiscal sous réserve des limites constitutionnelles.
 
-### Charge de la preuve en cas de conflits de compétences
+> « Autonomie tarifaire des cantons : Les cantons ont en principe la faculté d'aménager leurs barèmes fiscaux selon leur libre appréciation, pour autant que des limites constitutionnelles ne s'y opposent pas. »
 
-**ATF 142 II 369 c. 5.2** du 7 juillet 2016
-Le Tribunal fédéral concrétise la répartition de la charge de la preuve en cas de conflits de compétences. En principe, la Confédération doit prouver qu'elle dispose de la compétence revendiquée, car les cantons disposent de la compétence originaire.
+### Fédéralisme d'exécution et conflits de compétences
 
-> « Il en résulte pour les conflits de compétences qu'en principe la Confédération porte la charge de prouver si elle dispose effectivement de la compétence revendiquée. »
+**ATF 142 II 182** (24 mai 2016)  
+Compétence locale pour la saisie fiscale fédérale de prestations en capital en cas de changement de canton. L'arrêt précise le rôle des cantons dans le fédéralisme d'exécution et les limites des ordonnances administratives de la Confédération.
 
-### Autonomie organisationnelle cantonale
+> « Le canton localement compétent a le 'droit-obligation' de percevoir et de taxer l'impôt fédéral direct. En cas de prestations en capital de prévoyance, l'imposition spéciale doit être effectuée par le canton d'échéance selon l'art. 216 al. 1 LIFD 1990. L'ordonnance administrative de l'AFC, selon laquelle le canton de domicile devrait être compétent en cas de déménagement, viole le droit fédéral et reste donc sans effet. »
 
-**ATF 145 IV 10 c. 2.1** du 19 décembre 2018
-Le Tribunal fédéral souligne qu'une autonomie organisationnelle cantonale découle de l'art. 3 Cst. Les cantons peuvent organiser eux-mêmes l'exécution des prescriptions du droit fédéral en tenant compte des particularités locales, dans la mesure où le droit fédéral le permet.
+### Pouvoir de police cantonal et compétences d'ordre public
 
-> « De la garantie de souveraineté (art. 3, 1re phrase, Cst) découle une autonomie organisationnelle cantonale, qui vaut également lors de l'exécution de prescriptions du droit fédéral. »
+**ATF 128 I 102** (30 janvier 2002)  
+Constitutionnalité d'une taxe de patente pour l'industrie hôtelière du canton de Soleure. L'arrêt confirme la compétence originaire cantonale pour les redevances d'ordre public dans le domaine du pouvoir de police.
 
-**ATF 147 I 478 c. 3.6-3.8** du 8 octobre 2021
-Dans le contexte de la pandémie de COVID-19, le Tribunal fédéral précise l'autonomie organisationnelle cantonale. Les cantons peuvent, en vertu de leur souveraineté, prendre leurs propres mesures, tant qu'elles ne contreviennent pas au droit fédéral.
+> « Réserve constitutionnelle pour les impôts cantonaux (art. 132 CV/SO) ; bases légales des taxes de patente selon l'ancienne et la nouvelle loi économique du canton de Soleure. La compétence cantonale pour la perception de redevances d'ordre public découle du pouvoir de police originaire des cantons. »
 
-> « Les cantons disposent de la compétence pour des 'mesures propres' dans le cadre de leurs compétences constitutionnelles. »
+**ATF 129 IV 276** (2003)
+Dispositions pénales cantonales dans le domaine de la police du feu ; délimitation par rapport au droit pénal fédéral. L'arrêt précise la faculté des cantons de sanctionner pénalement dans les domaines de compétence cantonale.
 
-**ATF 148 I 19 c. 4.6** du 25 janvier 2022
-Le Tribunal fédéral confirme que les cantons peuvent, dans le cadre de leur souveraineté, également édicter des mesures plus strictes que la Confédération, si cela est nécessaire pour l'accomplissement de leurs tâches.
+> « Faculté des cantons de sanctionner pénalement le non-respect de prescriptions sur la lutte contre l'incendie. Le pouvoir pénal cantonal subsiste pour autant que le droit pénal fédéral ne règle pas de manière exhaustive. »
 
-> « Les cantons peuvent, en vertu de leurs compétences, également édicter des mesures plus strictes que la Confédération. »
+### Coopération et coordination intercantonales
 
-### Rapport avec les obligations internationales
+**ATF 134 I 23** (15 janvier 2008)
+Contrôle abstrait des normes ; force dérogatoire du droit fédéral. La loi valaisanne sur les institutions de prévoyance étatiques viole le droit fédéral. L'arrêt montre les limites de la législation cantonale dans les matières réglées par le droit fédéral.
 
-**Arrêt 2C_1130/2013 c. 2.4** du 23 janvier 2015
-Le Tribunal fédéral explique le rapport entre la souveraineté cantonale et les obligations de droit international. La souveraineté cantonale trouve ses limites dans les obligations internationales de la Confédération ancrées dans la Constitution.
+> « La LEI, qui règle notamment la prévoyance professionnelle, viole sur différents points des dispositions impératives du droit fédéral, notamment la LFus et la LPP. »
 
-> « Cette ingérence dans l'autonomie organisationnelle et procédurale cantonale est admissible, car elle est nécessaire et proportionnée pour assurer une mise en œuvre correcte et ponctuelle du droit fédéral par les cantons. »
+### Développements actuels
 
-### Double imposition intercantonale
+**ATF 150 II 527** (18 juillet 2024)
+Répartition fiscale intercantonale ; évaluation des immeubles utilisés à des fins agricoles ou sylvicoles. Le dernier arrêt confirme les obligations de coordination des cantons dans les cas intercantonaux.
 
-**Arrêt 2C_401/2020 c. 1.2.1** du 28 juillet 2021
-Le Tribunal fédéral précise l'application de l'art. 3 Cst en droit fiscal. Même en matière d'interdiction de la double imposition intercantonale, les principes de la répartition des compétences doivent être respectés.
+> « Lors de la répartition fiscale intercantonale, la fortune doit être évaluée de manière uniforme. Pour la question de savoir si un immeuble est considéré comme utilisé à des fins agricoles ou sylvicoles et doit être évalué à la valeur de rendement, il faut s'en tenir à la qualification du canton où se trouve l'immeuble. »
 
-> « Également dans le domaine de l'interdiction de la double imposition intercantonale (art. 127, al. 3, Cst), la voie de droit dans un canton doit être entièrement épuisée avant que le Tribunal fédéral puisse être saisi. »
+**ATF 148 I 65** (28 juillet 2021)
+Interdiction de la double imposition intercantonale ; hiérarchie fonctionnelle entre droit fiscal cantonal et intercantonal. L'arrêt précise les limites de la souveraineté fiscale cantonale dans les cas transfrontaliers.
 
-### Fédéralisme d'exécution
-
-**ATF 148 I 33 c. 5.5** du 25 janvier 2022
-Le Tribunal fédéral souligne le principe du fédéralisme d'exécution, selon lequel le droit fédéral est en principe exécuté par les cantons. Cela constitue une expression de la souveraineté cantonale dans le domaine de l'exécution.
-
-> « Les prescriptions du droit fédéral doivent en principe être exécutées par les cantons, sauf si la Constitution ou la loi fédérale en dispose autrement. »
-
-**Arrêt 2C_183/2021 c. 3.7** du 23 novembre 2021
-Le Tribunal fédéral concrétise la liberté d'aménagement cantonale lors de l'exécution du droit fédéral. Les cantons peuvent tenir compte des particularités locales lors de la mise en œuvre, tant qu'ils ne font pas échec au sens et au but du droit fédéral.
-
-> « Les cantons peuvent choisir eux-mêmes le mode d'exécution des prescriptions du droit fédéral en tenant compte des contraintes et préférences locales, dans la mesure où le droit fédéral leur en laisse la possibilité. »
+> « Principes du droit de la double imposition intercantonale et hiérarchie fonctionnelle entre droit fiscal cantonal et intercantonal, notamment concernant la délimitation des facteurs fiscaux. La souveraineté fiscale cantonale trouve sa limite dans l'interdiction de la double imposition intercantonale. »

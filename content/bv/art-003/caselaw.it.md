@@ -1,77 +1,65 @@
-# Art. 3 Cost. — Cantoni
-
 ## Giurisprudenza
 
-### Principio della sovranità cantonale
+La giurisprudenza relativa all'art. 3 Cost. si occupa principalmente della delimitazione della competenza residua cantonale rispetto al diritto federale e dell'interpretazione dell'ordine federale delle competenze. Le seguenti decisioni direttive mostrano l'evoluzione della giurisprudenza sulla sovranità cantonale.
 
-**DTF 128 I 280 consid. 4.3** del 28 giugno 2002
-Il Tribunale federale stabilisce che nello Stato federale svizzero anche ai Cantoni spetta la statualità. I Cantoni non sono semplici unità amministrative della Confederazione, ma enti statali autonomi con propria sovranità nei loro ambiti di competenza.
+### Principi della competenza residua cantonale
 
-> «Im Schweizerischen Bundesstaat kommt Staatlichkeit auch den Kantonen zu.»
+**DTF 122 I 70** (22 febbraio 1996)
+Divieto di volo con deltaplano del Cantone di Appenzello Interno; delimitazione tra competenze federali e cantonali nel diritto aeronautico. Il Tribunale federale precisa i principi delle competenze concorrenti e della competenza residua cantonale in settori non disciplinati in modo conclusivo.
 
-**DTF 103 Ia 329 consid. 3** del 18 marzo 1977
-In un conflitto di competenze il Tribunale federale conferma che l'art. 3 Cost. serve a delimitare le sfere di sovranità tra Confederazione e Cantoni. La norma definisce il quadro costituzionale per la ripartizione dei compiti nello Stato federale.
+> «I Cantoni sono sovrani nei limiti in cui la loro sovranità non è limitata dalla Costituzione federale (art. 3 Cost.). Essi hanno una competenza legislativa originaria, che è abolita soltanto nella misura in cui la Confederazione è competente esclusivamente, con effetto derogatorio originario, oppure in un settore in cui è competente in modo concorrente, con effetto derogatorio successivo, e ha fatto uso della sua competenza in modo conclusivo.»
 
-> «Il [sc. Art. 83 lit. a OG] a pour objet la délimitation des souverainetés fédérale d'une part, cantonale d'autre part.»
+**DTF 125 II 152** (1999)
+Delimitazione delle competenze federali e cantonali per gli apparecchi automatici da gioco a pagamento. Ricorso di diritto pubblico del Cantone di San Gallo contro ordinanza del Consiglio federale. La sentenza chiarisce che i Cantoni non hanno diritto alla continuazione di pratiche contrarie al diritto federale.
 
-### Ripartizione delle competenze e autorizzazione specifica
+> «Il Consiglio federale, emanando l'ordinanza federale sugli apparecchi automatici da gioco a pagamento, non è intervenuto nella competenza cantonale. Non sussiste alcun diritto dei Cantoni alla continuazione della prassi precedente di omologazione degli apparecchi automatici da gioco d'abilità, che si rivela contraria al diritto federale.»
 
-**DTF 130 I 156 consid. 2.5** del 21 aprile 2004
-Il Tribunale federale precisa il sistema di ripartizione delle competenze secondo l'art. 3 Cost. Sottolinea che le competenze statali sono ripartite senza lacune tra Confederazione e Cantoni e che la Confederazione dispone solo di competenze esplicitamente trasferite.
+### Sovranità fiscale cantonale e competenze tributarie
 
-> «Aus dem in Art. 3 BV angelegten System folgt in der Theorie eine lückenlose Kompetenzaufteilung zwischen Bund und Kantonen.»
+**DTF 140 I 176** (27 marzo 2014)
+Ammissibilità di un'imposta comunale sulle abitazioni secondarie nonostante l'iniziativa federale sulle abitazioni secondarie. La sentenza conferma la competenza cantonale originaria in materia di imposizione anche in settori con competenza federale, purché non sussista una disciplina conclusiva.
 
-**Sentenza 2C.1076/2012 consid. 7.1** del 27 marzo 2014
-Il Tribunale federale chiarisce che i nuovi compiti rientrano in linea di principio nella competenza dei Cantoni, purché non esista una competenza esplicita della Confederazione. Ciò deriva dalla competenza generale sussidiaria dei Cantoni secondo l'art. 3 Cost.
+> «Il Comune è competente per l'introduzione di questa imposta: l'iniziativa sulle abitazioni secondarie accettata nella votazione popolare federale dell'11 marzo 2012, rispettivamente il nuovo art. 75b Cost. così creato, non contengono un approccio risolutivo globale e quindi conclusivo per la problematica dei cosiddetti 'letti freddi' e di conseguenza non si oppongono all'imposta comunale sulle abitazioni secondarie qui controversa.»
 
-> «'Neue' Aufgaben fallen ohne Weiteres in die Zuständigkeit der Kantone.»
+**DTF 133 I 206** (1° giugno 2007)
+Costituzionalità delle tariffe fiscali degressive di Obvaldo; autonomia tariffaria dei Cantoni. Il Tribunale federale riconosce l'autonomia cantonale nella configurazione del diritto fiscale sotto riserva di limiti costituzionali.
 
-### Onere della prova nei conflitti di competenze
+> «Autonomia tariffaria dei Cantoni: I Cantoni hanno fondamentalmente la facoltà di configurare le loro tariffe fiscali secondo proprio apprezzamento, purché non vi si oppongano limiti costituzionali.»
 
-**DTF 142 II 369 consid. 5.2** del 7 luglio 2016
-Il Tribunale federale concretizza la ripartizione dell'onere della prova nei conflitti di competenze. In linea di principio la Confederazione deve dimostrare di disporre della competenza rivendicata, poiché i Cantoni detengono la competenza originaria.
+### Federalismo esecutivo e conflitti di competenze
 
-> «Für Kompetenzkonflikte folgt daraus, dass grundsätzlich der Bund die Beweislast trägt, nachzuweisen, ob er über die in Anspruch genommene Zuständigkeit tatsächlich verfügt.»
+**DTF 142 II 182** (24 maggio 2016)  
+Competenza locale per la rilevazione fiscale federale di prestazioni in capitale in caso di cambiamento di Cantone. La sentenza precisa il ruolo dei Cantoni nel federalismo esecutivo e i limiti delle ordinanze amministrative della Confederazione.
 
-### Autonomia organizzativa cantonale
+> «Il Cantone localmente competente ha il 'diritto-obbligo' di riscossione e tassazione dell'imposta federale diretta. Nel caso di prestazioni in capitale dalla previdenza, secondo l'art. 216 cpv. 1 LIFD 1990 la tassazione speciale deve essere effettuata dal Cantone di scadenza. L'ordinanza amministrativa dell'AFC secondo cui in casi di trasferimento dovrebbe essere competente il Cantone di domicilio, viola il diritto federale e rimane pertanto inosservata.»
 
-**DTF 145 IV 10 consid. 2.1** del 19 dicembre 2018
-Il Tribunale federale sottolinea che dall'art. 3 Cost. deriva un'autonomia organizzativa cantonale. I Cantoni possono organizzare autonomamente l'esecuzione delle prescrizioni di diritto federale tenendo conto delle circostanze locali, nella misura in cui il diritto federale lasci loro spazio.
+### Potere di polizia cantonale e competenze d'ordine
 
-> «Aus der Souveränitätsgarantie (Art. 3 Satz 1 BV) folgt eine kantonale Organisationsautonomie, die auch beim Vollzug bundesrechtlicher Vorgaben gilt.»
+**DTF 128 I 102** (30 gennaio 2002)  
+Costituzionalità di una tassa di patente per esercizi pubblici del Cantone di Soletta. La sentenza conferma la competenza cantonale originaria per le tasse d'ordine nell'ambito del potere di polizia.
 
-**DTF 147 I 478 consid. 3.6-3.8** del 8 ottobre 2021
-Nel contesto della pandemia di COVID-19 il Tribunale federale precisa l'autonomia organizzativa cantonale. I Cantoni possono adottare proprie misure basandosi sulla loro sovranità, purché non contravvengano al diritto federale.
+> «Riserva costituzionale per le imposte cantonali (art. 132 Cost. cant./SO); basi legali delle tasse di patente secondo la vecchia e nuova legge economica del Cantone di Soletta. La competenza cantonale per la riscossione di tasse d'ordine deriva dal potere di polizia originario dei Cantoni.»
 
-> «Die Kantone verfügen über die Kompetenz für 'eigene Massnahmen' im Rahmen ihrer verfassungsmässigen Zuständigkeiten.»
+**DTF 129 IV 276** (2003)
+Disposizioni penali cantonali nell'ambito della polizia del fuoco; delimitazione rispetto al diritto penale federale. La sentenza chiarisce la facoltà dei Cantoni di sanzionare penalmente in settori di competenza cantonale.
 
-**DTF 148 I 19 consid. 4.6** del 25 gennaio 2022
-Il Tribunale federale conferma che i Cantoni nell'ambito della loro sovranità possono anche emanare misure più severe della Confederazione, se ciò è necessario per l'adempimento dei loro compiti.
+> «Facoltà dei Cantoni di minacciare con pena l'inosservanza di prescrizioni sulla lotta contro gli incendi. Il potere punitivo cantonale sussiste nella misura in cui il diritto penale federale non disciplina in modo conclusivo.»
 
-> «Die Kantone dürfen gestützt auf ihre Kompetenzen auch schärfere Massnahmen als der Bund erlassen.»
+### Cooperazione e coordinamento intercantonali
 
-### Rapporto con gli obblighi internazionali
+**DTF 134 I 23** (15 gennaio 2008)
+Controllo astratto di norme; forza derogatoria del diritto federale. La legge vallesana sugli enti di previdenza statali viola il diritto federale. La sentenza mostra i limiti della legislazione cantonale in materie disciplinate dal diritto federale.
 
-**Sentenza 2C_1130/2013 consid. 2.4** del 23 gennaio 2015
-Il Tribunale federale illustra il rapporto tra sovranità cantonale e obblighi di diritto internazionale. La sovranità cantonale trova i suoi limiti negli obblighi internazionali della Confederazione sanciti costituzionalmente.
+> «La LEntPrev, che disciplina tra l'altro la previdenza del personale, viola in diversi punti le disposizioni imperative del diritto federale, segnatamente la LFus e la LPP.»
 
-> «Diese Einwirkung auf die kantonale Organisations- und Verfahrenshoheit ist zulässig, weil sie für die Sicherstellung einer richtigen und rechtzeitigen Umsetzung des Bundesrechts durch die Kantone notwendig und verhältnismässig ist.»
+### Sviluppi attuali
 
-### Doppia imposizione intercantonale
+**DTF 150 II 527** (18 luglio 2024)
+Ripartizione fiscale intercantonale; valutazione di fondi utilizzati per l'agricoltura o la selvicoltura. La sentenza più recente conferma gli obblighi di coordinamento dei Cantoni in situazioni intercantonali.
 
-**Sentenza 2C_401/2020 consid. 1.2.1** del 28 luglio 2021
-Il Tribunale federale precisa l'applicazione dell'art. 3 Cost. nel diritto fiscale. Anche nel divieto di doppia imposizione intercantonale devono essere rispettati i principi della ripartizione delle competenze.
+> «Nella ripartizione fiscale intercantonale il patrimonio deve essere valutato unitariamente. Per la questione se un fondo sia considerato utilizzato per l'agricoltura o la selvicoltura e debba essere valutato al valore di reddito, ci si deve basare sulla qualificazione del Cantone in cui si trova l'immobile.»
 
-> «Anche auf dem Gebiet des Verbots der interkantonalen Doppelbesteuerung (Art. 127 Abs. 3 BV) ist der Instanzenzug in einem Kanton vollständig zu durchlaufen, ehe das Bundesgericht angerufen werden kann.»
+**DTF 148 I 65** (28 luglio 2021)
+Divieto della doppia imposizione intercantonale; gerarchia funzionale tra diritto fiscale cantonale e intercantonale. La sentenza precisa i limiti della sovranità fiscale cantonale in situazioni transfrontaliere.
 
-### Federalismo esecutivo
-
-**DTF 148 I 33 consid. 5.5** del 25 gennaio 2022
-Il Tribunale federale sottolinea il principio del federalismo esecutivo, secondo il quale il diritto federale viene in linea di principio eseguito dai Cantoni. Ciò è espressione della sovranità cantonale nell'ambito dell'esecuzione.
-
-> «Bundesrechtliche Vorgaben sollen grundsätzlich von den Kantonen vollzogen werden, es sei denn, die Verfassung oder das Bundesgesetz ordnen etwas anderes an.»
-
-**Sentenza 2C_183/2021 consid. 3.7** del 23 novembre 2021
-Il Tribunale federale concretizza la libertà di configurazione cantonale nell'esecuzione del diritto federale. I Cantoni possono nell'attuazione tenere conto delle particolarità locali, purché non vanifichino il senso e lo scopo del diritto federale.
-
-> «Die Kantone können den Modus des Vollzugs bundesrechtlicher Vorgaben unter Berücksichtigung lokaler Sachzwänge und Präferenzen selbst wählen, soweit ihnen das Bundesrecht dazu Raum lässt.»
+> «Principi del diritto della doppia imposizione intercantonale e gerarchia funzionale tra diritto fiscale cantonale e intercantonale, in particolare riguardo alla delimitazione dei fattori fiscali. La sovranità fiscale cantonale trova il suo limite nel divieto della doppia imposizione intercantonale.»
