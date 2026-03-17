@@ -1,109 +1,121 @@
 # Rechtsprechung
 
-## Allgemeiner Gleichheitssatz (Abs. 1)
+## Rechtsgleichheit (Art. 8 Abs. 1 BV)
 
 ### Grundsätze der Rechtsgleichheit
 
-**BGE 139 I 161** vom 22. April 2013  
-Lohnungleichbehandlung ist nur bei sachgerechten objektiven Kriterien zulässig.  
-Das Urteil konkretisiert den Massstab für zulässige Ungleichbehandlungen bei der Besoldung im öffentlichen Dienst.  
+**BGE 129 I 161** vom 19. März 2003  
+Rechtsgleichheit im öffentlichen Dienstverhältnis bei unterschiedlicher Entschädigung von Kindergartenstellvertretungen.  
+Das Urteil verdeutlicht den Prüfungsmassstab für Art. 8 Abs. 1 BV bei behördlichen Differenzierungen.
 
-> «Der Grundsatz der Rechtsgleichheit verbietet dem Gesetzgeber nicht jede Differenzierung. Er gebietet nur, dass Gleiches gleich und Ungleiches ungleich zu behandeln ist und dass jede Ungleichbehandlung auf einem sachlichen Grund beruht. Ein solcher ist anzunehmen, wenn die Unterscheidung sich auf wesentliche tatsächliche oder rechtliche Verschiedenheiten stützt und sachlich begründet ist.»
+> «Der Grundsatz der Rechtsgleichheit und damit Art. 8 Abs. 1 BV ist verletzt, wenn im öffentlichen Dienstverhältnis gleichwertige Arbeit ungleich entlöhnt wird. Innerhalb der Grenzen des Willkürverbots und des Rechtsgleichheitsgebots sind die Behörden befugt, aus der Vielzahl denkbarer Anknüpfungspunkte die Kriterien auszuwählen, die für die Besoldung von Beamten massgebend sein sollen.»
 
-**BGE 147 I 1** vom 1. Januar 2020  
-Altersdiskriminierung bei Richterwahlen verstösst nicht automatisch gegen Art. 8 Abs. 1 BV.  
-Der Entscheid zeigt die Grenzen des Diskriminierungsverbots bei strukturellen Ungleichbehandlungen auf.  
-
-> «Die Praxis verstösst auch nicht gegen das Diskriminierungsverbot. Sie ermöglicht jedoch eine gegen die Rechtsgleichheit verstossende Ungleichbehandlung von Amtsinhaberinnen und -inhabern, die kurz vor bzw. kurz nach Beginn der neuen Amtsperiode das 65. Altersjahr vollendet haben.»
-
-### Willkürverbot
-
-**BGE 136 I 309** vom 25. August 2010  
-Willkürverbot bei Ermessensentscheiden im Einbürgerungsverfahren.  
-Das Urteil bestimmt die Grenzen gemeindlicher Autonomie bei der Anwendung von Art. 8 BV.  
-
-> «Das Gebot rechtsgleicher Behandlung ist verletzt, wenn eine Regelung oder eine Entscheidung an tatsächliche Gegebenheiten anknüpft, die nicht wesentlich sind oder die in einem sachlich nicht gerechtfertigten Verhältnis zur vorgesehenen Rechtsfolge stehen.»
-
-## Diskriminierungsverbot (Abs. 2)
-
-### Behinderung
-
-**BGE 139 I 169** vom 13. Mai 2013  
-Diskriminierung geistig behinderter Personen bei der Einbürgerung ist unzulässig.  
-Grundlegender Entscheid zur Tragweite des Behinderungsdiskriminierungsverbots.  
-
-> «Geistig Behinderte mangels eigenen Willens zur Einbürgerung von derselben auszuschliessen, entspricht nicht der gesetzlichen Ordnung und erweist sich aufgrund der damit verbundenen generellen Wirkung als diskriminierend. Zu prüfen ist, ob es dafür eine qualifizierte Rechtfertigung gibt.»
-
-**BGE 139 II 289** vom 22. Februar 2013  
-Barrierefreiheit im öffentlichen Verkehr als Ausdruck des Benachteiligungsverbots.  
-Der Entscheid zeigt die praktische Bedeutung von Art. 8 Abs. 2 und 4 BV im Infrastrukturbereich.  
-
-> «Das Diskriminierungs- und Benachteiligungsverbot für Behinderte gilt auch im Bereich des öffentlichen Verkehrs. Es verlangt, dass Menschen mit Behinderungen gleichberechtigt am gesellschaftlichen Leben teilhaben können.»
-
-### Herkunft und Nationalität
-
-**BGE 136 II 120** vom 22. Januar 2010  
-Inländerdiskriminierung beim Familiennachzug verletzt Art. 8 BV i.V.m. Art. 14 EMRK.  
-Wegweisendes Urteil zur umgekehrten Diskriminierung von Schweizer Bürgern.  
-
-> «Die strengeren Voraussetzungen für den Familiennachzug zu einem eingebürgerten Schweizer im Vergleich zu EU-Bürgern stellen eine gegen Art. 8 BV und Art. 14 i.V.m. Art. 8 EMRK verstossende Diskriminierung dar.»
-
-**BGE 134 I 257** vom 18. Juni 2008  
-Geschlechtsabhängige Weitergabe von Korporationsrechten kann verfassungskonform sein.  
-Das Urteil präzisiert die Voraussetzungen für zulässige Differenzierungen.  
-
-> «Eine öffentlichrechtliche Korporation verletzt das Diskriminierungsverbot nicht, wenn nach ihren Statuten die Mitgliedschaft einer im Jahre 1970 verstorbenen Frau nicht auf ihre Nachfahren weitergegeben werden kann.»
-
-## Gleichberechtigung von Mann und Frau (Abs. 3)
-
-### Lohngleichheit
+### Lohngleichheit zwischen den Geschlechtern
 
 **BGE 131 I 105** vom 16. Februar 2005  
-Grundlegender Entscheid zur Lohngleichheit im öffentlichen Dienst.  
-Das Urteil etabliert die Durchsetzbarkeit von Art. 8 Abs. 3 BV und die Verjährungsregelungen.  
+Lohngleichheit im öffentlichen Dienstverhältnis zwischen Mann und Frau; rückwirkende Nachforderung.  
+Wegweisendes Urteil zur Durchsetzung der verfassungsrechtlichen Lohngleichheit.
 
 > «Der Anspruch auf gleiche Entlöhnung von Mann und Frau gemäss Art. 8 Abs. 3 BV kann im Rahmen der fünfjährigen Verjährungsfrist auch für die Zeit vor Einreichung der Lohnklage geltend gemacht werden. Aus dem allgemeinen Rechtsgleichheitsgebot von Art. 8 Abs. 1 BV ergibt sich hingegen lediglich ein Anspruch auf Korrektur der rechtsungleichen Besoldung auf geeignete Weise und innert angemessener Frist.»
 
-**BGE 117 Ia 270** vom 31. Mai 1991  
-Gleichwertige Arbeit erfordert objektive Bewertungskriterien.  
-Früher Grundsatzentscheid zur Anwendung des Lohngleichheitsgebots (unter der alten BV).  
+## Diskriminierungsverbot (Art. 8 Abs. 2 BV)
 
-> «Ein Vorsprung in der Ausbildung kann einen höheren Lohn rechtfertigen, sofern die bessere Ausbildung vom Arbeitsplatz gefordert oder für die Arbeit, die verrichtet werden muss, von Nutzen ist.»
+### Diskriminierung aufgrund der Herkunft
 
-### Diskriminierung aufgrund des Geschlechts
+**BGE 129 I 217** vom 9. Juli 2003  
+Diskriminierende Urnenabstimmung über Einbürgerungsgesuche von Personen aus dem ehemaligen Jugoslawien.  
+Grundlegender Entscheid zur direkten Diskriminierung aufgrund der Herkunft.
 
-**BGE 145 II 153** vom 5. April 2019  
-Diskriminierung aufgrund sexueller Orientierung fällt nicht unter Art. 8 Abs. 3 BV.  
-Das Urteil grenzt den Anwendungsbereich der Geschlechterdiskriminierung ab.  
+> «Eine Diskriminierung i.S.v. Art. 8 Abs. 2 BV liegt dann vor, wenn eine Person rechtsungleich behandelt wird allein aufgrund ihrer Zugehörigkeit zu einer bestimmten Gruppe, welche historisch und in der gegenwärtigen sozialen Wirklichkeit tendenziell ausgegrenzt oder als minderwertig behandelt wurde. Die Diskriminierung stellt eine qualifizierte Art der Ungleichbehandlung von Personen in vergleichbaren Situationen dar, indem sie eine Benachteiligung eines Menschen bewirkt, die als Herabwürdigung oder Ausgrenzung einzustufen ist.»
 
-> «Mangels Geschlechtsspezifität ist eine direkte Diskriminierung nach Art. 3 Abs. 1 GlG aufgrund der sexuellen Orientierung nicht möglich.»
+**BGE 135 I 49** vom 16. Dezember 2008  
+Verweigerung der Einbürgerung wegen Sozialhilfeabhängigkeit einer behinderten Bewerberin.  
+Das Urteil konkretisiert den Schutz behinderter Personen vor mittelbarer Diskriminierung.
 
-**BGE 134 V 131** vom 28. Januar 2008  
-Geschlechtsspezifische Unterschiede beim Rentenalter bedürfen sachlicher Rechtfertigung.  
-Das Urteil zeigt die Bedeutung von Art. 8 Abs. 3 BV im Sozialversicherungsrecht.  
+> «Das Erfordernis der wirtschaftlichen Selbsterhaltungsfähigkeit für Einbürgerungen trifft Personen mit einer körperlichen, geistigen oder psychischen Behinderung in spezifischer Weise. Eine Behinderung kann nicht nur die Erwerbsfähigkeit beeinträchtigen, sondern auch die Möglichkeiten der Stellensuche und der beruflichen Karriere begrenzen. Das Diskriminierungsverbot verbietet es, behinderte Personen allein aufgrund ihrer Behinderung oder deren Folgen vom Bürgerrecht auszuschliessen.»
 
-> «Das mit der 10. AHV-Revision stufenweise auf das vollendete 64. Altersjahr erhöhte AHV-Rentenalter der Frauen findet in Art. 22 UVG - bedingt durch ein offensichtliches Versehen des Gesetzgebers - keine Berücksichtigung. Ein richterliches Eingreifen ist unter diesen Umständen möglich und geboten.»
+### Indirekte Diskriminierung
 
-## Massnahmen für Behinderte (Abs. 4)
+**BGE 137 V 334** vom 8. Juli 2011  
+Gemischte Methode der Invaliditätsbemessung und mögliche mittelbare Diskriminierung von Frauen.  
+Das Urteil klärt die Anforderungen an den Nachweis mittelbarer Diskriminierung.
 
-**BGE 138 I 265** vom 31. August 2012  
-Alterspezifische Regelungen sind nicht automatisch diskriminierend.  
-Das Urteil konkretisiert das Verhältnis zwischen Art. 8 Abs. 2 und Abs. 4 BV.  
+> «Die gemischte Methode verletzt weder den Anspruch auf Achtung des Privat- und Familienlebens nach Art. 13 Abs. 1 BV und Art. 8 EMRK noch die Grundsätze der Gleichbehandlung und des Diskriminierungsverbots gemäss Art. 8 BV. Eine indirekte Diskriminierung läge nur vor, wenn die Regelung Angehörige einer gegen Diskriminierung geschützten Gruppe in ihren tatsächlichen Auswirkungen besonders stark benachteiligt, ohne dass dies sachlich begründet wäre.»
 
-> «Die Regelung, wonach Leistungsempfängerinnen und Leistungsempfänger, die das 65. Altersjahr vollendet haben, sich im Rahmen ihrer finanziellen Leistungsfähigkeit an den Pflegekosten beteiligen, ist weder alters- noch geschlechterdiskriminierend.»
+### Diskriminierung im Bildungsbereich
 
-### Nachteilsausgleich im Bildungsbereich
+**BGE 147 I 73** vom 27. Juli 2020  
+Gleichheitssatz und Diskriminierungsverbot bei Prüfungen; Verweigerung von Ausgleichsmassnahmen.  
+Aktuelles Urteil zu behindertengerechten Prüfungsbedingungen.
 
-Verschiedene kantonale Gerichte haben die Tragweite von Art. 8 Abs. 2 und 4 BV im Bildungswesen konkretisiert:
+> «Aufgrund des Gleichheitssatzes sind die Hochschulen bei der Durchführung ihrer Examen grundsätzlich verpflichtet, für alle Kandidaten möglichst einheitliche Bedingungen herzustellen. Werden bestimmte Personen bzw. Personengruppen dadurch ungerechtfertigt benachteiligt, kann ausnahmsweise die Pflicht bestehen, Ausgleichsmassnahmen zu treffen. Eine Verletzung des Gleichheitsgrundsatzes bzw. des Diskriminierungsverbots liegt nur dann vor, wenn die Verweigerung einer Ausgleichsmassnahme das Prüfungsergebnis entscheidend beeinflussen konnte.»
 
-**VB.2011.00573** (Verwaltungsgericht Zürich, 9. November 2011)  
-Nachteilsausgleich darf fachliche Anforderungen nicht herabsetzen.  
-Das Urteil zeigt die Grenzen von Ausgleichsmassnahmen auf.  
+## Geschlechtergleichstellung (Art. 8 Abs. 3 BV)
 
-> «Wegen des Diskriminierungsverbots hat ein behinderter Prüfungskandidat Anspruch auf formelle Prüfungserleichterungen. Diese dürfen jedoch nicht dazu führen, dass die fachlichen Anforderungen an die Prüfung herabgesetzt werden.»
+### Mutterschaftsurlaub und Gleichstellung
 
-**B 2012/231** (Verwaltungsgericht St. Gallen, 27. August 2013)  
-Art. 8 Abs. 2 BV begründet Anspruch auf angemessene Vorkehrungen.  
-Das Urteil konkretisiert die verfassungsrechtlichen Anforderungen an Nachteilsausgleiche.  
+**BGE 144 I 113** vom 4. Juli 2018  
+Ferienregelung während des Mutterschaftsurlaubs bei Lehrpersonal.  
+Das Urteil zeigt die Tragweite der Geschlechtergleichstellung im Arbeitsrecht.
 
-> «Gestützt auf Art. 8 Abs. 2 BV und die Vorgaben des BehiG besteht bei Beeinträchtigungen wie ADHS-Störungen oder Dyslexie unter Umständen ein Anspruch auf Anpassung der Prüfungsbedingungen.»
+> «Die vorinstanzliche Auslegung, wonach Ferien, die in den Mutterschaftsurlaub fallen, in der unterrichtsfreien Zeit vor- oder nachbezogen werden können, verstösst weder gegen das Gebot der rechtsgleichen Behandlung (Art. 8 Abs. 1 BV) noch gegen das Diskriminierungsverbot (Art. 8 Abs. 2 BV) oder das Gebot der Geschlechtergleichstellung (Art. 8 Abs. 3 BV).»
+
+### Rentenalter und Gleichberechtigung
+
+**BGE 134 V 131** vom 3. Januar 2008  
+Unterschiedliches Rentenalter in der Unfallversicherung nach Angleichung des AHV-Rentenalters.  
+Das Urteil behandelt die verfassungsrechtlichen Grenzen geschlechtsspezifischer Differenzierungen.
+
+> «Das mit der 10. AHV-Revision stufenweise auf das vollendete 64. Altersjahr erhöhte AHV-Rentenalter der Frauen findet in Art. 22 UVG - bedingt durch ein offensichtliches Versehen des Gesetzgebers - keine entsprechende Berücksichtigung. Art. 8 Abs. 3 BV verlangt die rechtliche und tatsächliche Gleichstellung von Mann und Frau und verbietet damit auch ungerechtfertigte geschlechtsspezifische Differenzierungen zu Lasten der Männer.»
+
+## Behinderung und Benachteiligung (Art. 8 Abs. 4 BV)
+
+### Leistungen für Menschen mit Behinderung
+
+**BGE 133 V 450** vom 1. Januar 2007  
+Lebenspraktische Begleitung als Massnahme zur Beseitigung von Benachteiligungen behinderter Menschen.  
+Grundsatzurteil zur Konkretisierung der verfassungsrechtlichen Aufträge zugunsten behinderter Personen.
+
+> «Die lebenspraktische Begleitung stellt ein zusätzliches und eigenständiges Institut der Hilfe dar und dient der Verwirklichung des in Art. 8 Abs. 4 BV verankerten Verfassungsauftrags, wonach das Gesetz Massnahmen zur Beseitigung von Benachteiligungen der Behinderten vorsieht. Sie beinhaltet weder die direkte oder indirekte Dritthilfe bei den sechs alltäglichen Lebensverrichtungen noch die Pflege noch die Überwachung.»
+
+**BGE 131 V 9** vom 30. September 2004  
+Leistungspflicht der Invalidenversicherung für elektronische Kommunikationsgeräte bei Kindern mit Trisomie 21.  
+Das Urteil zeigt die Grenzen staatlicher Leistungspflichten bei behinderungsbedingten Mehrkosten.
+
+> «Art. 8 Abs. 4 BV verpflichtet den Gesetzgeber, Massnahmen zur Beseitigung von Benachteiligungen der Behinderten vorzusehen. Diese Bestimmung begründet jedoch keinen unmittelbaren Leistungsanspruch des Einzelnen. Die Gewährung von Leistungen hängt von der gesetzlichen Ausgestaltung ab, die dem Gesetzgeber einen erheblichen Gestaltungsspielraum belässt.»
+
+## Steuerrecht und Rechtsgleichheit
+
+### Steuerliche Gleichbehandlung
+
+**BGE 136 I 65** vom 25. September 2009  
+Dividendenbesteuerung und Rechtsgleichheitsgebot bei unterschiedlichen Steuersätzen.  
+Bedeutender Entscheid zur steuerlichen Gleichbehandlung verschiedener Einkunftsarten.
+
+> «Das Rechtsgleichheitsgebot verlangt, dass Gleiches nach Massgabe seiner Gleichheit gleich und Ungleiches nach Massgabe seiner Ungleichheit ungleich behandelt wird. Eine Ungleichbehandlung verletzt die Rechtsgleichheit, wenn sich für sie nicht ein vernünftiger Grund finden lässt oder wenn sie in keinem vernünftigen Verhältnis zu dem mit der Regelung verfolgten Zweck steht.»
+
+## Familiennachzug und Inländerdiskriminierung
+
+**BGE 136 II 120** vom 22. Januar 2010  
+Teilfamiliennachzug zu eingebürgertem Schweizer und Problematik der «Inländerdiskriminierung».  
+Wegweisendes Urteil zur Anwendung des Diskriminierungsverbots im Ausländerrecht.
+
+> «Art. 8 BV gewährleistet das Rechtsgleichheitsgebot und verbietet jede Art von Diskriminierung. Art. 14 in Verbindung mit Art. 8 EMRK statuiert ein akzessorisches Diskriminierungsverbot. Die unterschiedliche Behandlung von eingebürgerten und geborenen Schweizern beim Familiennachzug kann eine Diskriminierung aufgrund der Herkunft darstellen, wenn sie nicht sachlich gerechtfertigt ist.»
+
+## Verfahrensrechtliche Aspekte
+
+### Begründungspflicht bei diskriminierenden Entscheiden
+
+**BGE 129 I 232** vom 9. Juli 2003  
+Ungültigkeit einer Initiative zur Einführung von Urnenabstimmungen über Einbürgerungsgesuche.  
+Grundsatzurteil zum Zusammenhang zwischen Diskriminierungsverbot und Begründungspflicht.
+
+> «Ablehnende Einbürgerungsentscheide unterliegen der Begründungspflicht gemäss Art. 29 Abs. 2 BV (Anspruch auf rechtliches Gehör) i.V.m. Art. 8 Abs. 2 BV (Diskriminierungsverbot). Bei der Urnenabstimmung ist eine den verfassungsrechtlichen Anforderungen genügende Begründung nicht möglich. Die Initiative ist daher ungültig, da sie ein Verfahren einführen will, das systematisch zur Verletzung von Grundrechten führt.»
+
+### Beschwerdelegitimation
+
+**BGE 147 I 1** vom 1. Januar 2020  
+Nichtwiederwahl eines Verwaltungsrichters aus Altersgründen; Anfechtbarkeit politischer Entscheide.  
+Aktuelles Urteil zur Justiziabilität von Diskriminierungsvorwürfen bei politischen Entscheiden.
+
+> «Das Diskriminierungsverbot ist auch bei Wahlakten zu beachten, die vorwiegend politischen Charakter haben. Eine ungerechtfertigte Benachteiligung aufgrund des Alters oder anderer verpönter Merkmale kann auch dann verfassungswidrig sein, wenn sie im Rahmen eines politischen Ermessens erfolgt. Der politische Charakter einer Entscheidung befreit nicht von der Bindung an die Grundrechte.»
