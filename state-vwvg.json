@@ -1,0 +1,741 @@
+{
+  "articles": [
+    {
+      "law": "VwVG",
+      "article_number": 1,
+      "article_suffix": "",
+      "status": "completed",
+      "cost_usd": 2.446692,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 2,
+      "article_suffix": "",
+      "status": "completed",
+      "cost_usd": 2.524035,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 3,
+      "article_suffix": "",
+      "status": "completed",
+      "cost_usd": 4.291281,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 4,
+      "article_suffix": "",
+      "status": "completed",
+      "cost_usd": 2.977761,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 5,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 6,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 7,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 8,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 9,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 10,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 11,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 11,
+      "article_suffix": "a",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 11,
+      "article_suffix": "b",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 12,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 13,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 14,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 15,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 16,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 17,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 18,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 19,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 20,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 21,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 21,
+      "article_suffix": "a",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 22,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 22,
+      "article_suffix": "a",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 23,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 24,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 25,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 25,
+      "article_suffix": "a",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 26,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 27,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 28,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 29,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 30,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 30,
+      "article_suffix": "a",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 31,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 32,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 33,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 33,
+      "article_suffix": "a",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 33,
+      "article_suffix": "b",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 34,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 35,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 36,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 37,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 38,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 39,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 40,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 41,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 42,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 43,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 44,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 45,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 46,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 46,
+      "article_suffix": "a",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 47,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 47,
+      "article_suffix": "a",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 48,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 49,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 50,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 51,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 52,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 53,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 54,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 55,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 56,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 57,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 58,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 59,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 60,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 61,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 62,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 63,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 64,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 65,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 66,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 67,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 68,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 69,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 70,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 71,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 72,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 73,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 74,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 75,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 76,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 77,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 78,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 79,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 80,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 81,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    },
+    {
+      "law": "VwVG",
+      "article_number": 82,
+      "article_suffix": "",
+      "status": "pending",
+      "cost_usd": 0.0,
+      "error": ""
+    }
+  ],
+  "total_cost": 12.239768999999999
+}
