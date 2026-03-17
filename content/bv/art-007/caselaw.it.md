@@ -1,105 +1,97 @@
 # Giurisprudenza
 
-## Decisioni fondamentali sulla dignità umana
+## Significato fondamentale e campo di applicazione
 
-### Misure mediche coattive e dignità umana
+### La dignità umana quale fondamento del sistema giuridico
 
-**BGE 130 I 16** del 7 gennaio 2004  
-Il Tribunale federale ha stabilito in relazione al trattamento farmacologico coattivo in clinica psichiatrica che questo costituisce un grave intervento nella libertà personale e tocca centralmente la dignità umana.  
-Decisione fondamentale sulla portata dell'art. 7 Cost. negli interventi medici contro la volontà del paziente.
+**BGE 130 I 16 consid. 3** (7 gennaio 2004)  
+Trattamento medico forzato in cliniche psichiatriche quale grave ingerenza nella dignità umana.  
+La sentenza stabilisce l'art. 7 Cost. quale norma costituzionale di base per ingerenze particolarmente gravi nei diritti fondamentali.  
 
-> «Un trattamento farmacologico coattivo costituisce un grave intervento nella libertà personale e tocca centralmente la dignità umana. Come grave intervento nei citati diritti costituzionali, un trattamento farmacologico coattivo necessita secondo l'art. 36 Cost. di una disciplina chiara ed esplicita in una legge formale.»
+> «Un trattamento medico forzato rappresenta un grave ingerenza nella libertà personale e tocca la dignità umana in modo centrale.»
 
-**BGE 127 I 6** del 22 marzo 2001  
-Sul trattamento farmacologico coattivo in clinica psichiatrica durante la privazione della libertà a scopo assistenziale.  
-Decisione pionieristica per la concretizzazione della dignità umana nel contesto dei trattamenti psichiatrici.
+**BGE 132 I 49 consid. 5.1** (25 gennaio 2006)  
+Ordinanze di allontanamento e divieto di avvicinamento; rapporto tra dignità umana e diritti fondamentali più specifici.  
+Sentenza fondamentale sul significato autonomo dell'art. 7 Cost. rispetto ad altri diritti fondamentali.
 
-> «Il precetto del rispetto e della protezione della dignità umana nel senso dell'art. 7 Cost. è in definitiva alla base dei punti di partenza per un interesse che giustifichi l'intervento nella libertà personale in vista di un trattamento coattivo di persone malate.»
+> «La dignità umana ha in generale il significato di un principio guida per ogni attività statale, costituisce quale nucleo più intimo al contempo il fondamento dei diritti di libertà, serve alla loro interpretazione e concretizzazione ed è diritto fondamentale sussidiario.»
 
-### Invocazione autonoma della dignità umana
+## Invocazione autonoma della dignità umana
 
-**BGE 132 I 49** del 25 gennaio 2006  
-Sulle disposizioni di allontanamento e di divieto di avvicinamento: Da un'invocazione autonoma della dignità umana (art. 7 Cost.) le persone interessate non possono trarre nulla a loro favore.  
-Decisione di principio sulla delimitazione tra l'art. 7 Cost. e altri diritti fondamentali.
+### Nessuna invocazione autonoma nelle misure di polizia
 
-> «Da un'invocazione autonoma della dignità umana (art. 7 Cost.) le persone interessate non possono trarre nulla a loro favore; esse possono invocare la libertà di riunione (art. 22 Cost.), la libertà personale (art. 10 cpv. 2 Cost.), il divieto di discriminazione (art. 8 cpv. 2 Cost.) e il divieto dell'arbitrio (art. 9 Cost.).»
+**BGE 132 I 49 consid. 5.1** (25 gennaio 2006)  
+Ordinanze di allontanamento contro persone che consumano alcolici in assembramenti.  
+Principio importante sulla sussidiarietà dell'art. 7 Cost. rispetto ai diritti fondamentali più specifici.
 
-### Arresto per debiti e dignità umana
-
-**BGE 130 I 169** del 12 maggio 2004  
-Il divieto dell'arresto per debiti scaturisce sia dalla protezione della dignità umana secondo l'art. 7 Cost. sia dal diritto alla libertà personale.  
-Connessione tra l'art. 7 Cost. e il principio fondamentale del divieto della servitù per debiti.
-
-> «Il divieto dell'arresto per debiti scaturisce sia dalla protezione della dignità umana secondo l'art. 7 Cost. sia dal diritto alla libertà personale secondo l'art. 10 cpv. 2 Cost.»
+> «Da un'invocazione autonoma della dignità umana (art. 7 Cost.) gli interessati non possono derivare nulla a loro favore; essi possono invocare la libertà di riunione (art. 22 Cost.), la libertà personale (art. 10 cpv. 2 Cost.), il divieto di discriminazione (art. 8 cpv. 2 Cost.) e il divieto di arbitrio (art. 9 Cost.).»
 
 ## Dignità umana e aiuto d'emergenza
 
-### Diritto al minimo vitale
+### Diritto a un'esistenza conforme alla dignità umana
 
-Sentenza **2P.318/2004** del 18 marzo 2005  
-Sul minimo aiuto d'emergenza per richiedenti l'asilo respinti: gli artt. 7 e 12 Cost. fondano un diritto all'aiuto per un'esistenza conforme alla dignità umana.  
-Decisione guida sul collegamento tra dignità umana e prestazioni minime del diritto sociale.
+**BGE 131 I 166 consid. 5.2** (18 marzo 2005)  
+Aiuto d'emergenza per richiedenti asilo con decisione di non entrata in materia; standard minimi dell'aiuto sociale.  
+Sentenza fondamentale sul nesso tra l'art. 7 e l'art. 12 Cost.
 
-> «Secondo l'art. 12 Cost., chi si trova nel bisogno e non è in grado di provvedere a sé stesso ha diritto all'aiuto e all'assistenza e ai mezzi indispensabili per un'esistenza conforme alla dignità umana. A questo diritto fondamentale è in definitiva sotteso il precetto del rispetto e della protezione della dignità umana nel senso dell'art. 7 Cost.»
+> «La libertà personale può essere invocata per un obbligo minimo di assistenza così come il diritto ad aiuto e assistenza minimi secondo l'art. 12 Cost. A questi approcci sottosta in definitiva il precetto del rispetto e della protezione della dignità umana nel senso dell'art. 7 Cost.»
 
-### Grave abbandono
+**BGE 139 I 272 consid. 3** (22 novembre 2013)  
+Alloggiamento in rifugi di protezione civile quale aiuto d'emergenza per un uomo celibe in buona salute.  
+Concretizzazione dei requisiti minimi per un alloggiamento conforme alla dignità umana.
 
-**BGE 128 III 12** del 1° ottobre 2001  
-Il motivo particolare di internamento del grave abbandono è calibrato su uno stato di degrado che non è più compatibile con la dignità umana.  
-Concretizzazione dell'art. 7 Cost. nell'ambito della privazione della libertà a scopo assistenziale.
+> «Per un uomo celibe in buona salute, il fatto di dover trascorrere la notte in un rifugio antiaereo della protezione civile non contrasta con i requisiti minimi garantiti dall'art. 12 Cost. e in particolare non viola il diritto al rispetto della dignità umana.»
 
-> «Il motivo particolare di internamento del grave abbandono secondo l'art. 397a cpv. 1 CC è calibrato su uno stato di degrado che non è più compatibile con la dignità umana.»
+## Dignità umana nell'esecuzione delle pene e nella privazione della libertà
 
-## Dignità umana e diritto dei media
+### Condizioni di detenzione e trattamento inumano
 
-### Protezione della personalità alla radio e in televisione
+**BGE 140 I 125 consid. 3.6.3** (26 febbraio 2014)  
+Sovraffollamento nel carcere di Champ-Dollon quale violazione della dignità umana.  
+Precisazione degli standard minimi per le condizioni di detenzione in caso di sovraffollamento estremo.
 
-**BGE 134 II 260** del 26 giugno 2008  
-Su riprese con camera nascosta presso un chirurgo estetico: obbligo degli organizzatori di trasmissioni radiofoniche e televisive di rispettare la dignità umana.  
-Decisione fondamentale sulla portata dell'art. 7 Cost. nell'ambito dei media.
+> «L'occupazione di una cella progettata per tre persone con una superficie lorda di 23 m² da parte di sei detenuti può violare la dignità umana se perdura per quasi tre mesi e si accompagna ad altre carenze, come la reclusione nella cella per 23 ore al giorno.»
 
-> «Gli organizzatori di trasmissioni radiofoniche e televisive sono tenuti al rispetto dei diritti fondamentali e segnatamente della dignità umana. Ciò risulta sia dall'art. 93 cpv. 5 Cost. sia dall'art. 7 Cost.»
+### Obbligo di lavoro nell'esecuzione delle pene
 
-## Discriminazione razziale e dignità umana
+**BGE 139 I 180 consid. 2** (18 luglio 2013)  
+Costituzionalità dell'obbligo di lavoro per i detenuti di tutte le fasce d'età.  
+Conferma che l'obbligo di lavoro non viola l'art. 7 Cost.
 
-### Degradazione della dignità umana
+> «L'obbligo del detenuto al lavoro non viola né il diritto federale né il diritto costituzionale. Vale indipendentemente dall'età del detenuto.»
 
-**BGE 124 IV 121** del 30 aprile 1998  
-Sotto l'art. 261bis cpv. 1 CP rientra un'affermazione che attribuisce alle persone a causa della loro razza, etnia o religione un valore inferiore nell'ambito della loro dignità umana.  
-Collegamento tra la fattispecie di discriminazione razziale e l'art. 7 Cost.
+## Libertà personale e trattamento medico
 
-> «Sotto l'art. 261bis cpv. 1 CP rientra un'affermazione, in qualsiasi forma e tramite qualsiasi mezzo essa venga diffusa, che attribuisce alle persone a causa della loro razza, etnia o religione un valore inferiore nell'ambito della loro dignità umana.»
+### Medicazione forzata in cliniche psichiatriche
 
-**BGE 140 IV 67** del 6 febbraio 2014  
-Negata la sussumibilità nella fattispecie delle espressioni "porco straniero" e "sporco richiedente l'asilo" nel contesto della discriminazione razziale.  
-Delimitazione tra degradazioni punibili e altre espressioni discriminatorie.
+**BGE 130 I 16 consid. 5** (7 gennaio 2004)  
+Esame di proporzionalità nel trattamento medico forzato.  
+Ponderazione completa degli interessi necessaria in caso di gravi ingerenze nella dignità umana.
 
-**BGE 143 IV 77** del 3 gennaio 2017  
-In caso di discriminazione di un gruppo di persone, ai singoli membri del gruppo non spetta la qualità di danneggiato per mancanza di coinvolgimento diretto.  
-Conseguenze processuali della protezione della dignità umana nei casi di discriminazione.
+> «Vista la gravità dell'ingerenza nei diritti fondamentali, il diritto costituzionale esige una ponderazione completa e globale degli interessi in gioco: interessi pubblici, necessità del trattamento, conseguenze di un non trattamento, esame delle alternative, valutazione del pericolo per sé e per altri.»
 
-## Sepoltura e dignità umana
+## Discriminazione e dignità umana
 
-### Monopolio nel settore funerario
+### Procedura di naturalizzazione e arbitrio
 
-**BGE 143 I 388** del 24 maggio 2017  
-Il monopolio dei servizi funebri è giustificato per motivi di dignità umana: la collettività deve far sì che ogni defunto possa essere sepolto decorosamente.  
-Applicazione moderna dell'art. 7 Cost. ai monopoli statali in settori sensibili.
+**BGE 129 I 232 consid. 3** (9 luglio 2003)  
+Nullità delle iniziative di naturalizzazione senza possibilità di motivazione.  
+Collegamento delle garanzie procedurali con il rispetto della dignità umana.
 
-> «Il monopolio è giustificato per motivi sociopolitici e di polizia, venendo attribuito alla collettività per motivi di dignità umana il compito di far sì che ogni defunto possa essere sepolto decorosamente.»
+> «Le decisioni negative di naturalizzazione sottostanno all'obbligo di motivazione secondo l'art. 29 cpv. 2 Cost. (diritto di essere sentiti) in combinato con l'art. 8 cpv. 2 Cost. (divieto di discriminazione). Nella votazione popolare non è possibile una motivazione conforme ai requisiti costituzionali.»
 
-## Sviluppi attuali
+**BGE 139 I 169 consid. 6** (13 maggio 2013)  
+Rifiuto discriminatorio di naturalizzazione nei confronti di persone con disabilità mentali.  
+Protezione della dignità umana per gruppi di persone particolarmente vulnerabili.
 
-### Decisioni sui trattamenti medici
+> «Escludere dalla naturalizzazione le persone con disabilità mentali per mancanza di volontà propria non corrisponde all'ordinamento legale e si rivela discriminatorio a causa dell'effetto generale che ne deriva.»
 
-Sentenza **C-6429/2024** del 17 febbraio 2025  
-Sulle decisioni relative all'iscrizione su una lista di trapianti: la dignità umana come criterio per le decisioni sui trattamenti medici.  
-Giurisprudenza più recente sull'applicazione dell'art. 7 Cost. nel sistema sanitario moderno.
+## Sviluppi recenti
 
-### Collocamento a scopo assistenziale e alimentazione forzata
+### Divieto di mendicare e libertà personale
 
-Sentenza **F 2024 26** dell'8 luglio 2024  
-L'alimentazione forzata costituisce un grave intervento nella libertà personale e tocca centralmente la dignità umana.  
-Continuazione attuale della giurisprudenza BGE 130 I 16.
+**BGE 149 I 248 consid. 4** (13 marzo 2023)  
+Divieto parziale di mendicare a Basilea-Città; rapporto con la libertà personale.  
+Giurisprudenza attuale sulla delimitazione tra dignità umana e altri diritti fondamentali.
 
-> «L'alimentazione forzata costituisce un grave intervento nella libertà personale nel senso dell'integrità fisica e psichica (art. 10 cpv. 2 Cost. e art. 8 n. 1 CEDU) e tocca centralmente la dignità umana secondo l'art. 7 Cost.»
+> «L'accattonaggio rientra nell'ambito di protezione del diritto fondamentale della libertà personale rispettivamente del diritto al rispetto della vita privata. Un divieto parziale di mendicare costituisce un'ingerenza in questi diritti e deve adempiere i relativi presupposti.»

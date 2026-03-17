@@ -1,105 +1,97 @@
 # Rechtsprechung
 
-## Grundlegende Entscheide zur Menschenwürde
+## Grundsätzliche Bedeutung und Anwendungsbereich
 
-### Medizinische Zwangsmassnahmen und Menschenwürde
+### Menschenwürde als Grundlage des Rechtssystems
 
-**BGE 130 I 16** vom 7. Januar 2004  
-Das Bundesgericht hielt zur medikamentösen Zwangsbehandlung in psychiatrischer Klinik fest, dass diese einen schweren Eingriff in die persönliche Freiheit darstellt und die Menschenwürde zentral betrifft.  
-Grundlegender Entscheid zur Tragweite von Art. 7 BV bei medizinischen Eingriffen gegen den Willen des Patienten.
+**BGE 130 I 16 E. 3** (7. Januar 2004)  
+Medikamentöse Zwangsbehandlung in psychiatrischen Kliniken als zentraler Eingriff in die Menschenwürde.  
+Das Urteil etabliert Art. 7 BV als verfassungsrechtliche Grundnorm für besonders schwere Grundrechtseingriffe.  
 
-> «Eine medikamentöse Zwangsbehandlung stellt einen schweren Eingriff in die persönliche Freiheit dar und betrifft die Menschenwürde zentral. Als schwerer Eingriff in die genannten verfassungsmässigen Rechte bedarf eine medikamentöse Zwangsbehandlung nach Art. 36 BV einer klaren und ausdrücklichen Regelung in einem formellen Gesetz.»
+> «Eine medikamentöse Zwangsbehandlung stellt einen schweren Eingriff in die persönliche Freiheit dar und betrifft die Menschenwürde zentral.»
 
-**BGE 127 I 6** vom 22. März 2001  
-Zur medikamentösen Zwangsbehandlung in psychiatrischer Klinik während fürsorgerischen Freiheitsentzuges.  
-Wegweisender Entscheid zur Konkretisierung der Menschenwürde im Kontext psychiatrischer Behandlungen.
+**BGE 132 I 49 E. 5.1** (25. Januar 2006)  
+Wegweisungs- und Fernhalteverfügungen; Verhältnis der Menschenwürde zu spezifischeren Grundrechten.  
+Grundlegendes Urteil zur eigenständigen Bedeutung von Art. 7 BV gegenüber anderen Grundrechten.
 
-> «Das Gebot der Achtung und des Schutzes der Menschenwürde im Sinne von Art. 7 BV liegt letztlich den Ansatzpunkten für ein den Eingriff in die persönliche Freiheit rechtfertigendes Interesse an einer zwangsweisen Behandlung kranker Menschen zugrunde.»
+> «Die Menschenwürde hat allgemein die Bedeutung eines Leitgrundsatzes für jegliche Staatstätigkeit, bildet als innerster Kern zugleich die Grundlage der Freiheitsrechte, dient deren Auslegung und Konkretisierung und ist Auffanggrundrecht.»
 
-### Selbständige Anrufung der Menschenwürde
+## Eigenständige Anrufung der Menschenwürde
 
-**BGE 132 I 49** vom 25. Januar 2006  
-Zu Wegweisungs- und Fernhalteverfügungen: Aus einer selbständigen Anrufung der Menschenwürde (Art. 7 BV) können die Betroffenen nichts zu ihren Gunsten ableiten.  
-Grundsatzentscheid zur Abgrenzung zwischen Art. 7 BV und anderen Grundrechten.
+### Keine selbständige Berufung bei polizeilichen Massnahmen
+
+**BGE 132 I 49 E. 5.1** (25. Januar 2006)  
+Wegweisungsverfügungen gegen Personen in alkoholkonsumierenden Ansammlungen.  
+Wichtiger Grundsatz zur Subsidiarität von Art. 7 BV gegenüber spezifischeren Grundrechten.
 
 > «Aus einer selbständigen Anrufung der Menschenwürde (Art. 7 BV) können die Betroffenen nichts zu ihren Gunsten ableiten; sie können sich auf die Versammlungsfreiheit (Art. 22 BV), die persönliche Freiheit (Art. 10 Abs. 2 BV), das Diskriminierungsverbot (Art. 8 Abs. 2 BV) und das Willkürverbot (Art. 9 BV) berufen.»
 
-### Schuldverhaft und Menschenwürde
-
-**BGE 130 I 169** vom 12. Mai 2004  
-Das Verbot des Schuldverhafts fliesst sowohl aus dem Schutz der Menschenwürde gemäss Art. 7 BV als auch aus dem Recht auf persönliche Freiheit.  
-Verbindung zwischen Art. 7 BV und dem fundamentalen Grundsatz des Verbots der Schuldknechtschaft.
-
-> «Das Verbot des Schuldverhafts fliesst sowohl aus dem Schutz der Menschenwürde gemäss Art. 7 BV als auch aus dem Recht auf persönliche Freiheit gemäss Art. 10 Abs. 2 BV.»
-
 ## Menschenwürde und Nothilfe
 
-### Anspruch auf Existenzminimum
+### Anspruch auf menschenwürdiges Dasein
 
-Urteil **2P.318/2004** vom 18. März 2005  
-Zur minimalen Nothilfe für abgewiesene Asylbewerber: Art. 7 und 12 BV begründen einen Anspruch auf Hilfe für ein menschenwürdiges Dasein.  
-Leitentscheid zur Verbindung zwischen Menschenwürde und sozialrechtlichen Mindestleistungen.
+**BGE 131 I 166 E. 5.2** (18. März 2005)  
+Nothilfe für Asylbewerber mit Nichteintretensentscheid; Mindeststandards der Sozialhilfe.  
+Grundlegendes Urteil zum Zusammenhang zwischen Art. 7 und Art. 12 BV.
 
-> «Nach Art. 12 BV hat, wer in Not gerät und nicht in der Lage ist, für sich zu sorgen, Anspruch auf Hilfe und Betreuung und auf die Mittel, die für ein menschenwürdiges Dasein unerlässlich sind. Diesem Grundrecht liegt letztlich das Gebot der Achtung und des Schutzes der Menschenwürde im Sinne von Art. 7 BV zugrunde.»
+> «Die persönliche Freiheit kann für eine minimale Sorgepflicht ebenso herangezogen werden wie der Anspruch auf minimale Hilfe und Betreuung nach Art. 12 BV. Diesen Ansatzpunkten liegt letztlich das Gebot der Achtung und des Schutzes der Menschenwürde im Sinne von Art. 7 BV zugrunde.»
 
-### Schwere Verwahrlosung
+**BGE 139 I 272 E. 3** (22. November 2013)  
+Unterbringung in Zivilschutzräumen als Nothilfe für einen gesunden alleinstehenden Mann.  
+Konkretisierung der Mindestanforderungen an menschenwürdige Unterbringung.
 
-**BGE 128 III 12** vom 1. Oktober 2001  
-Der besondere Einweisungsgrund der schweren Verwahrlosung ist auf einen Zustand der Verkommenheit zugeschnitten, welcher mit der Menschenwürde nicht mehr vereinbar ist.  
-Konkretisierung von Art. 7 BV im Bereich der fürsorgerischen Freiheitsentziehung.
+> «Für einen ledigen Mann guter Gesundheit steht die Tatsache, dass er die Nacht in einem Luftschutzraum des Zivilschutzes verbringen muss, den durch Art. 12 BV garantierten Minimalanforderungen nicht entgegen und verletzt insbesondere das Recht auf Achtung der Menschenwürde nicht.»
 
-> «Der besondere Einweisungsgrund der schweren Verwahrlosung gemäss Art. 397a Abs. 1 ZGB ist auf einen Zustand der Verkommenheit zugeschnitten, welcher mit der Menschenwürde nicht mehr vereinbar ist.»
+## Menschenwürde im Strafvollzug und bei Freiheitsentzug
 
-## Menschenwürde und Medienrecht
+### Haftbedingungen und unmenschliche Behandlung
 
-### Persönlichkeitsschutz in Radio und Fernsehen
+**BGE 140 I 125 E. 3.6.3** (26. Februar 2014)  
+Überbelegung im Gefängnis Champ-Dollon als Verletzung der Menschenwürde.  
+Präzisierung der Mindeststandards für Haftbedingungen bei extremer Überbelegung.
 
-**BGE 134 II 260** vom 26. Juni 2008  
-Zu Aufnahmen mit versteckter Kamera bei einem Schönheitschirurgen: Pflicht der Veranstalter von Radio- und Fernsehsendungen zur Beachtung der Menschenwürde.  
-Grundlegender Entscheid zur Tragweite von Art. 7 BV im Medienbereich.
+> «Die Belegung einer für drei Personen konzipierten Zelle mit einer Bruttofläche von 23 m² durch sechs Insassen kann die Menschenwürde verletzen, wenn sie fast drei Monate andauert und mit anderen Mängeln einhergeht, wie der Einschliessung in die Zelle während 23 Stunden pro Tag.»
 
-> «Die Veranstalter von Radio- und Fernsehsendungen sind zur Beachtung der Grundrechte und namentlich der Menschenwürde verpflichtet. Dies ergibt sich sowohl aus Art. 93 Abs. 5 BV als auch aus Art. 7 BV.»
+### Arbeitspflicht im Strafvollzug
 
-## Rassendiskriminierung und Menschenwürde
+**BGE 139 I 180 E. 2** (18. Juli 2013)  
+Verfassungsmässigkeit der Arbeitspflicht für Strafgefangene aller Altersgruppen.  
+Bestätigung, dass die Arbeitspflicht nicht gegen Art. 7 BV verstösst.
 
-### Herabsetzung der Menschenwürde
+> «Die Verpflichtung des Gefangenen zur Arbeit verletzt weder Bundes- noch Verfassungsrecht. Sie gilt unabhängig vom Alter des Gefangenen.»
 
-**BGE 124 IV 121** vom 30. April 1998  
-Unter Art. 261bis Abs. 1 StGB fällt eine Behauptung, die Personen wegen ihrer Rasse, Ethnie oder Religion im Bereich ihrer Menschenwürde einen minderen Wert zuschreibt.  
-Verbindung zwischen Rassendiskriminierungstatbestand und Art. 7 BV.
+## Persönliche Freiheit und medizinische Behandlung
 
-> «Unter Art. 261bis Abs. 1 StGB fällt eine Behauptung, in welcher Form und über welches Medium sie auch verbreitet wird, die Personen wegen ihrer Rasse, Ethnie oder Religion im Bereich ihrer Menschenwürde einen minderen Wert zuschreibt.»
+### Zwangsmedikation in psychiatrischen Kliniken
 
-**BGE 140 IV 67** vom 6. Februar 2014  
-Tatbestandsmässigkeit der Äusserungen "Sauausländer" und "Dreckasylant" im Kontext der Rassendiskriminierung verneint.  
-Abgrenzung zwischen strafbaren Herabsetzungen und anderen diskriminierenden Äusserungen.
+**BGE 130 I 16 E. 5** (7. Januar 2004)  
+Verhältnismässigkeitsprüfung bei medikamentöser Zwangsbehandlung.  
+Umfassende Interessenabwägung bei schweren Eingriffen in die Menschenwürde erforderlich.
 
-**BGE 143 IV 77** vom 3. Januar 2017  
-Bei Diskriminierung einer Gruppe von Personen kommt den einzelnen Gruppenangehörigen mangels unmittelbarer Betroffenheit keine Geschädigtenstellung zu.  
-Verfahrensrechtliche Auswirkungen des Schutzes der Menschenwürde in Diskriminierungsfällen.
+> «Angesichts der Schwere des Grundrechtseingriffs erfordert das Verfassungsrecht eine vollständige und umfassende Abwägung der auf dem Spiele stehenden Interessen: öffentliche Interessen, Notwendigkeit der Behandlung, Auswirkungen einer Nicht-Behandlung, Prüfung von Alternativen, Beurteilung von Selbst- und Fremdgefährdung.»
 
-## Bestattungswesen und Menschenwürde
+## Diskriminierung und Menschenwürde
 
-### Monopol im Bestattungswesen
+### Einbürgerungsverfahren und Willkür
 
-**BGE 143 I 388** vom 24. Mai 2017  
-Das Bestattungsmonopol ist aus Gründen der Menschenwürde gerechtfertigt: Das Gemeinwesen hat dafür zu sorgen, dass jeder Verstorbene schicklich begraben werden kann.  
-Moderne Anwendung von Art. 7 BV auf staatliche Monopole in sensiblen Bereichen.
+**BGE 129 I 232 E. 3** (9. Juli 2003)  
+Ungültigkeit von Einbürgerungsinitiativen ohne Begründungsmöglichkeit.  
+Verknüpfung von Verfahrensgarantien mit der Achtung der Menschenwürde.
 
-> «Das Monopol ist aus sozialpolitischen und polizeilichen Gründen gerechtfertigt, wird doch dem Gemeinwesen aus Gründen der Menschenwürde die Aufgabe übertragen, dafür zu sorgen, dass jeder Verstorbene schicklich begraben werden kann.»
+> «Ablehnende Einbürgerungsentscheide unterliegen der Begründungspflicht gemäss Art. 29 Abs. 2 BV (Anspruch auf rechtliches Gehör) i.V.m. Art. 8 Abs. 2 BV (Diskriminierungsverbot). Bei der Urnenabstimmung ist eine den verfassungsrechtlichen Anforderungen genügende Begründung nicht möglich.»
 
-## Aktuelle Entwicklungen
+**BGE 139 I 169 E. 6** (13. Mai 2013)  
+Diskriminierende Einbürgerungsverweigerung gegenüber geistig behinderten Personen.  
+Schutz der Menschenwürde bei besonders verletzlichen Personengruppen.
 
-### Medizinische Behandlungsentscheide
+> «Geistig Behinderte mangels eigenen Willens zur Einbürgerung von derselben auszuschliessen, entspricht nicht der gesetzlichen Ordnung und erweist sich aufgrund der damit verbundenen generellen Wirkung als diskriminierend.»
 
-Urteil **C-6429/2024** vom 17. Februar 2025  
-Zu Entscheiden über die Aufnahme auf eine Transplantationsliste: Menschenwürde als Massstab für medizinische Behandlungsentscheide.  
-Neueste Rechtsprechung zur Anwendung von Art. 7 BV im modernen Gesundheitswesen.
+## Neuere Entwicklungen
 
-### Fürsorgerische Unterbringung und Zwangsernährung
+### Bettelverbot und persönliche Freiheit
 
-Urteil **F 2024 26** vom 8. Juli 2024  
-Die Zwangsernährung stellt einen schweren Eingriff in die persönliche Freiheit dar und betrifft die Menschenwürde zentral.  
-Aktuelle Fortführung der BGE 130 I 16-Rechtsprechung.
+**BGE 149 I 248 E. 4** (13. März 2023)  
+Partielles Bettelverbot in Basel-Stadt; Verhältnis zur persönlichen Freiheit.  
+Aktuelle Rechtsprechung zur Abgrenzung zwischen Menschenwürde und anderen Grundrechten.
 
-> «Die Zwangsernährung stellt einen schweren Eingriff in die persönliche Freiheit im Sinne der körperlichen und geistigen Integrität (Art. 10 Abs. 2 BV und Art. 8 Ziffer 1 EMRK) dar und betrifft die Menschenwürde gemäss Art. 7 BV zentral.»
+> «Bettelei fällt in den Schutzbereich des Grundrechts der persönlichen Freiheit bzw. des Rechts auf Achtung des Privatlebens. Ein partielles Bettelverbot greift in diese Rechte ein und hat die entsprechenden Voraussetzungen zu erfüllen.»
