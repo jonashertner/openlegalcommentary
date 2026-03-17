@@ -133,6 +133,8 @@ Open-access, AI-generated legal commentary on 8 Swiss federal laws.
 - **Articles exported:** {total}
 - **License:** CC BY-SA 4.0
 
+Built with ♥ by [Jonas Hertner](https://opencaselaw.ch)
+
 ## Files
 
 One JSONL file per law (e.g., `or.jsonl`, `zgb.jsonl`).
