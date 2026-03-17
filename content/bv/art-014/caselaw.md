@@ -1,87 +1,77 @@
 ## Rechtsprechung
 
-### Eherecht und Ehevorbereitungsverfahren
+### Recht auf Eheschliessung
 
 **BGE 137 I 351** vom 23. November 2011
-Rechtmässiger Aufenthalt während des Ehevorbereitungsverfahrens.
-Relevanz für das Recht auf Ehe bei Ausländern im Asylverfahren.
+Erfordernis des rechtmässigen Aufenthalts während des Ehevorbereitungsverfahrens bleibt mit Art. 14 BV vereinbar.
+Die Migrationsbehörde ist gehalten, einem ausländischen Verlobten im Hinblick auf die Heirat einen provisorischen Aufenthaltstitel auszustellen, sofern keine Anzeichen für Rechtsmissbrauch vorliegen.
 
-> «Vom Grundsatz der Ausschliesslichkeit bzw. des Vorranges des Asylverfahrens kann nur bei Vorliegen eines "offensichtlichen" Rechtsanspruches auf eine Aufenthaltsbewilligung abgewichen werden. Kann der Zivilstandsbeamte die Trauung eines ausländischen Verlobten mangels Nachweis des rechtmässigen Aufenthalts in der Schweiz nicht vollziehen, so ist die Migrationsbehörde gehalten, letzterem im Hinblick auf die Heirat einen provisorischen Aufenthaltstitel auszustellen, sofern keine Anzeichen für einen Rechtsmissbrauch vorliegen und klar erscheint, dass der Betroffene - einmal verheiratet - aufgrund seiner persönlichen Situation die Zulassungsvoraussetzungen in der Schweiz erfüllen wird.»
+> «Kann der Zivilstandsbeamte die Trauung eines ausländischen Verlobten mangels Nachweis des rechtmässigen Aufenthalts in der Schweiz nicht vollziehen (Art. 98 Abs. 4 ZGB und Art. 67 Abs. 3 ZStV), so ist die Migrationsbehörde gehalten, letzterem im Hinblick auf die Heirat einen provisorischen Aufenthaltstitel auszustellen, sofern keine Anzeichen für einen Rechtsmissbrauch vorliegen und klar erscheint, dass der Betroffene - einmal verheiratet - aufgrund seiner persönlichen Situation die Zulassungsvoraussetzungen in der Schweiz erfüllen wird.»
 
 **BGE 138 I 41** vom 17. Januar 2012
-Bestätigung der Grundsätze zu den Ehevorbereitungsverfahren.
-Präzisierung der Befugnisse von Zivilstandsbeamten und Fremdenpolizei.
+Bestätigung der Rechtsprechung zu Aufenthaltsvoraussetzungen für Eheschliessung.
+Die Gewährleistung des Rechts auf Ehe erfordert eine verhältnismässige Anwendung ausländerrechtlicher Bestimmungen.
 
-> «Die Gewährleistung des Rechts auf Ehe (Art. 12 EMRK und Art. 14 BV) verlangt, dass die zuständigen Behörden das Ehevorbereitungsverfahren und die Trauung nicht durch übermässige formelle oder materielle Hindernisse erschweren.»
+> «Diese Auslegung erlaubt die Beachtung von Art. 12 EMRK und Art. 14 BV in Übereinstimmung mit dem Willen des Gesetzgebers und steht mit dem Grundsatz der Ausschliesslichkeit bzw. des Vorranges des Asylverfahrens im Einklang.»
 
-### Familiennachzug und Schutz der Familie
+### Gleichgeschlechtliche Beziehungen und Ehe
+
+**BGE 119 II 264** vom 3. März 1993
+Frühe Rechtsprechung zur gleichgeschlechtlichen Ehe: Verstoss gegen Ordre public.
+Eine im Ausland geschlossene gleichgeschlechtliche Ehe verstösst gegen den schweizerischen Ordre public und darf nicht anerkannt werden.
+
+> «Eine Ehe unter gleichgeschlechtlichen Personen verstösst gegen den schweizerischen Ordre public und darf deshalb nicht anerkannt werden; die Nichtanerkennung verletzt weder Art. 54 BV noch Art. 8 oder 12 EMRK.»
+
+**BGE 126 II 425** vom 25. August 2000
+Wandel der Rechtsprechung zu gleichgeschlechtlichen Partnerschaften.
+Gleichgeschlechtliche Partnerschaften stellen kein Familienleben dar, können aber unter das Recht auf Privatleben fallen.
+
+> «Gleichgeschlechtliche Partnerschaften stellen kein Familienleben im Sinne von Art. 8 EMRK bzw. Art. 13 Abs. 1 BV dar; die Verweigerung einer fremdenpolizeilichen Bewilligung an den ausländischen Partner kann unter gewissen Umständen aber das Recht der Betroffenen auf Privatleben berühren und das Ermessen der Bewilligungsbehörde gemäss Art. 4 ANAG beschränken.»
+
+### Familiennachzug und Eherecht
 
 **BGE 139 I 330** vom 5. September 2013
-Familiennachzug bei anerkannten Flüchtlingen nach der Flucht geschlossene Ehen.
-Grundrechtskonformer Umgang mit Sozialhilfeabhängigkeit.
+Familiennachzug von anerkannten Flüchtlingen mit nachträglich geheirateten Partnern.
+Das Recht auf Familie begründet unter bestimmten Umständen Ansprüche auf ausländerrechtliche Bewilligungen.
 
 > «Unternimmt ein anerkannter Flüchtling mit Asyl alles ihm Zumutbare, um sich - auch in wirtschaftlicher Hinsicht - möglichst rasch zu integrieren, kann ihm die Sozialhilfeabhängigkeit des nachzuziehenden Gatten nicht entgegengehalten werden, wenn sich der künftige Fehlbetrag in vertretbarer Höhe hält und in absehbarer Zeit vermutlich ausgeglichen werden kann.»
 
 **BGE 139 I 37** vom 2. Januar 2013
-Familiennachzug bei Heirat während Schengenvisum-Aufenthalt.
-Grundrechtskonformer Umgang mit ausländerrechtlichen Bestimmungen.
+Familiennachzug bei Heirat während Schengenvisum.
+Der Anspruch auf Familie kann Migrationsbehörden zur grundrechtskonformen Anwendung ausländerrechtlicher Bestimmungen verpflichten.
 
-> «Der Anspruch auf Familiennachzug ist sowohl unter dem Gesichtswinkel von Art. 8 EMRK als auch von Art. 13 BV zu würdigen. Die Anwendung von Art. 17 Abs. 1 AuG, wonach der Bewilligungsentscheid grundsätzlich im Ausland abzuwarten ist, muss grundrechtskonform erfolgen.»
+> «Die Anwendung von Art. 17 Abs. 1 AuG, wonach der Bewilligungsentscheid grundsätzlich im Ausland abzuwarten ist, muss grundrechtskonform erfolgen.»
 
-### Gleichgeschlechtliche Partnerschaften und Ehebegriff
-
-**BGE 126 II 425** vom 25. August 2000
-Wegweisender Entscheid zu gleichgeschlechtlichen Partnerschaften.
-Grundlegender Wandel der Rechtsprechung bezüglich Privatleben.
-
-> «Gleichgeschlechtliche Partnerschaften stellen kein Familienleben im Sinne von Art. 8 EMRK bzw. Art. 13 Abs. 1 BV dar; die Verweigerung einer fremdenpolizeilichen Bewilligung an den ausländischen Partner kann unter gewissen Umständen aber das Recht der Betroffenen auf Privatleben berühren und das Ermessen der Bewilligungsbehörde gemäss Art. 4 ANAG beschränken.»
-
-**BGE 119 II 264** vom 3. März 1993
-Nichtanerkennung gleichgeschlechtlicher Ehen aus dem Ausland.
-Ordre public-Vorbehalt bei der Eheanerkennung.
-
-> «Eine Ehe unter gleichgeschlechtlichen Personen verstösst gegen den schweizerischen Ordre public und darf deshalb nicht anerkannt werden. Die Nichtanerkennung verletzt weder Art. 54 BV noch Art. 8 oder 12 EMRK.»
-
-### Familienrechte in besonderen Situationen
+### Familienrechte und Konkubinat
 
 **BGE 143 I 241** vom 18. April 2017
-Besuchsrecht zwischen inhaftierten Lebenspartnern.
-Ausdehnung des Familienbegriffs auf unverheiratete Lebenspartner.
+Besuchsrechte zwischen unverheirateten Lebenspartnern in Strafvollzug.
+Art. 14 BV schützt nicht nur Ehepartner, sondern auch unverheiratete Lebensgemeinschaften.
 
-> «Mangels entgegenstehender gewichtiger öffentlicher Interessen haben auch strafprozessuale Häftlinge das Recht auf angemessenen regelmässigen Kontakt zu ihrer Familie, wozu auch unverheiratete Lebenspartner gehören. Dies gilt besonders nach länger andauernder strafprozessualer Haft und Wegfall von Kollusionsgefahr.»
+> «Mangels entgegenstehender gewichtiger öffentlicher Interessen haben auch strafprozessuale Häftlinge das Recht auf angemessenen regelmässigen Kontakt zu ihrer Familie, wozu auch unverheiratete Lebenspartner gehören.»
 
-**BGE 134 I 105** vom 6. März 2008
-Familienrechte bei getrenntlebenden Eltern.
-Berücksichtigung von Besuchsrecht bei IV-Leistungen.
-
-> «Das Recht auf Familie gemäss Art. 14 BV umfasst auch das Recht des Kindes, mit beiden Elternteilen Kontakt zu pflegen, auch wenn diese getrennt leben. Die Invalidenversicherung muss diesem Umstand bei der Kostenübernahme für behinderungsgerechte Anpassungen Rechnung tragen.»
-
-### Sozialversicherungsrecht und Familienformen
-
-**BGE 140 I 77** vom 6. Dezember 2013
-Rentenplafonierung und verschiedene Familienformen.
-Rechtfertigung unterschiedlicher Behandlung von Ehe und Konkubinat.
-
-> «Die Rentenplafonierung gemäss Art. 35 AHVG führt zu einer Ungleichbehandlung von Ehepaaren und eingetragenen Partnern einerseits sowie Konkubinatspaaren anderseits. Die Schlechterstellung in Bezug auf die Höhe der Altersrente darf nicht isoliert betrachtet werden, es gibt hiefür sachliche Gründe. In einer sozialversicherungsrechtlichen Gesamtbetrachtung privilegiert das Gesetz Ehen und eingetragene Partnerschaften in mehrfacher Hinsicht.»
+### Elternrechte und Geschlechtergleichstellung
 
 **BGE 140 I 305** vom 15. September 2014
-Vaterschaftsentschädigung und Gleichberechtigung.
-Verfassungsmässigkeit geschlechtsspezifischer Leistungen.
+Mutterschaftsentschädigung für Väter: Keine Diskriminierung bei geschlechterspezifischen Regelungen.
+Art. 14 BV verlangt keine völlige Gleichstellung in allen familienrechtlichen Bereichen, wenn sachliche Gründe vorliegen.
 
-> «Art. 16b EOG beinhaltet keinen allgemeinen Elternurlaub, sondern regelt ausschliesslich den Entschädigungsanspruch der Mutter nach der Geburt. Eine unzulässige Diskriminierung besteht nicht, da sachliche Gründe für die unterschiedliche Behandlung von Mutter und Vater vorliegen.»
+> «Art. 16b EOG beinhaltet keinen Elternurlaub, wie er in anderen (europäischen) Ländern besteht, sondern regelt ausschliesslich den Entschädigungsanspruch der Mutter nach der Geburt. Eine unzulässige Diskriminierung besteht - auch im Lichte der Rechtsprechung des EGMR - nicht.»
 
-### Neuere Entwicklungen
+### Sozialversicherungsrechtliche Aspekte
 
-**Urteil 2C_323/2018** vom 21. September 2018
-Familiennachzug und Integration.
-Aktuelle Praxis zu Familiennachzugsvoraussetzungen.
+**BGE 140 I 77** vom 6. Dezember 2013
+AHV-Rentenplafonierung: Unterschiedliche Behandlung von Ehepaaren und Konkubinatspaaren.
+Die Schlechterstellung verheirateter Paare bei AHV-Renten ist verfassungsrechtlich zulässig, wenn sachliche Gründe vorliegen.
 
-**Urteil 2C_782/2018** vom 21. Januar 2019  
-Familiennachzug bei wirtschaftlichen Schwierigkeiten.
-Verhältnismässigkeitsprüfung bei Ablehnungen.
+> «Die Rentenplafonierung gemäss Art. 35 AHVG führt zu einer Ungleichbehandlung von Ehepaaren und eingetragenen Partnern einerseits sowie Konkubinatspaaren anderseits. Die Schlechterstellung in Bezug auf die Höhe der Altersrente darf nicht isoliert betrachtet werden, es gibt hiefür sachliche Gründe.»
 
-**Verwaltungsgericht Zürich VB.2021.00023** vom 8. Juli 2021
-Kurzaufenthaltsbewilligung für gleichgeschlechtliche Partnerschaften.
-Neue Rechtspraxis nach Einführung der "Ehe für alle".
+### Aktuelle Entwicklungen
 
-> «Die Beschwerdeführerin kann unter bestimmten Voraussetzungen aus Bestimmungen der EMRK bzw. der Bundesverfassung einen Anwesenheitsanspruch in der Schweiz ableiten, um ihre gleichgeschlechtliche Partnerschaft eintragen zu können.»
+Urteil 2C_323/2018 vom 21. September 2018
+Familiennachzug: Fristen und wichtige familiäre Gründe.
+Das Bundesgericht bestätigt restriktive Anwendung der Familiennachzugsbestimmungen auch bei verheirateten Paaren.
+
+> «Ein entsprechendes Recht besteht im vorliegenden Fall gestützt auf Art. 42 Abs. 1 AuG (i.V.m. Art. 47 Abs. 4 AuG [nicht fristgerechter Familiennachzug]) nur dann, wenn wichtige familiäre Gründe einen nachträglichen Familiennachzug rechtfertigen.»
+
+**Rechtsentwicklung seit 2022:** Mit der Einführung der Ehe für gleichgeschlechtliche Paare per 1. Juli 2022 ist die in **BGE 119 II 264** entwickelte Ordre-public-Rechtsprechung überholt. Art. 14 BV schützt seither auch gleichgeschlechtliche Ehen vollumfänglich.
