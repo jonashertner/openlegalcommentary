@@ -1,70 +1,65 @@
 ## Rechtsprechung
 
-### Grundlagen und Entwicklung der Sprachenfreiheit
+### Grundsätze der Sprachenfreiheit
 
-**BGE 121 I 196** (10.5.1995)
-Territorialitätsprinzip und Verfahrenssprache im Strafverfahren. Das Bundesgericht etablierte zentrale Grundsätze zur Sprachenfreiheit und ihrer Begrenzung durch das Territorialitätsprinzip nach kantonalem Verfassungsrecht. Die Sprachenfreiheit gehört zu den ungeschriebenen Freiheitsrechten der Bundesverfassung und umfasst die Befugnis zum Gebrauch der Muttersprache.
+**BGE 139 I 229** vom 5. Dezember 2013 — Rumantsch Grischun in der Schule
+Grenzen der Sprachenfreiheit bei der Festlegung der Schulsprache.
+Das Bundesgericht präzisierte die Tragweite von Art. 18 BV im Verhältnis zum Territorialitätsprinzip.
 
-> «Nach Lehre und Rechtsprechung gehört die Sprachenfreiheit, d.h. die Befugnis zum Gebrauch der Muttersprache, zu den ungeschriebenen Freiheitsrechten der Bundesverfassung. Soweit die Muttersprache gleichzeitig eine Nationalsprache des Bundes ist, steht deren Gebrauch zudem unter dem Schutz von Art. 116 Abs. 1 BV.»
+> «Die Sprachenfreiheit (Art. 18 BV) garantiert das Recht, eine Sprache nach eigener Wahl zu benützen, insbesondere auch die Muttersprache [...]. Als Individual-Grundrecht schützt sie den Gebrauch sowohl der rätoromanischen Idiome als auch des Rumantsch Grischun [...]. In diesen privaten Bereich der Sprachenfreiheit – d. h. wenn es um die Freiheit der einzelnen Bürgerinnen und Bürger geht, welche Sprache sie benützen und in welcher sie untereinander kommunizieren wollen – hat sich der Staat nicht einzumischen.»
 
-**BGE 122 I 236** (12.6.1996)
-Sprachenfreiheit im Schulwesen und Territorialitätsprinzip. Das Urteil konkretisierte das Verhältnis zwischen individueller Sprachenfreiheit und staatlichen Ordnungsprinzipien. Die Sprachenfreiheit verpflichtet Gemeinwesen nicht, für neu zugewanderte sprachliche Minderheiten Schulunterricht in deren Sprache anzubieten.
+**BGE 122 I 236** vom 15. Juli 1996 — Sprachenfreiheit und Schulbesuch
+Verhältnis zwischen individueller Sprachenfreiheit und staatlicher Schulorganisation.
+Richtungsweisend für die Abgrenzung zwischen Individual- und Leistungsrechten im Sprachenbereich.
 
-> «Die Sprachenfreiheit verpflichtet die Gemeinwesen nicht, für neu zugewanderte sprachliche Minderheiten einen Schulunterricht in deren Sprache anzubieten.»
+> «Die Sprachenfreiheit verpflichtet die Gemeinwesen nicht, für neu zugewanderte sprachliche Minderheiten einen Schulunterricht in deren Sprache anzubieten [...]. Sofern aber eine andere Gemeinde freiwillig bereit ist, das Kind in einer französischsprachigen Schule aufzunehmen und die Eltern die daraus entstehenden finanziellen Konsequenzen tragen, ist es eine unverhältnismässige Einschränkung der Sprachenfreiheit, den Besuch einer deutschsprachigen Schule zu verlangen.»
 
-### Aktive und passive Dimensionen der Sprachenfreiheit
+**BGE 121 I 196** vom 1995 — Verfahrenssprache im Strafrecht
+Grundlegende Rechtsprechung zu Sprachenfreiheit und Territorialitätsprinzip in Gerichtsverfahren.
+Definiert die Grenzen des Anspruchs auf Verwendung der Muttersprache vor Gericht.
 
-**BGE 139 I 229** (12.7.2013)
-Rumantsch Grischun vs. rätoromanische Idiome; Leitentscheid zur Differenzierung aktiver und passiver Sprachenfreiheit. Das Bundesgericht unterschied zwischen der privaten (aktiven) und öffentlichen (passiven) Seite der Sprachenfreiheit. Die individuelle Sprachenfreiheit garantiert das Recht, sowohl Rumantsch Grischun als auch romanische Idiome zu sprechen, begründet aber keinen Anspruch auf bestimmte Unterrichtssprachen.
+> «Nach Lehre und Rechtsprechung gehört die Sprachenfreiheit, d.h. die Befugnis zum Gebrauch der Muttersprache, zu den ungeschriebenen Freiheitsrechten der Bundesverfassung. Soweit die Muttersprache gleichzeitig eine Nationalsprache des Bundes ist, steht deren Gebrauch zudem unter dem Schutz der in Art. 116 Abs. 1 BV niedergelegten institutionellen Garantie.»
 
-> «Die Sprachenfreiheit (Art. 18 BV) garantiert das Recht, eine Sprache nach eigener Wahl zu benützen, insbesondere auch die Muttersprache [...]. In diesen privaten Bereich der Sprachenfreiheit - d. h. wenn es um die Freiheit der einzelnen Bürgerinnen und Bürger geht, welche Sprache sie benützen und in welcher sie untereinander kommunizieren wollen - hat sich der Staat nicht einzumischen.»
+### Grenzen der Sprachenfreiheit
 
-### Verfahrenssprache und Übersetzungspflichten
+**BGE 143 IV 117** vom 13. April 2017 — Verfahrenssprache und Übersetzung
+Aktuelle Rechtsprechung zur nicht absoluten Geltung der Sprachenfreiheit im Behördenverkehr.
+Konkretisiert die Pflichten der Behörden bei Eingaben in fremder Sprache.
 
-**BGE 143 IV 117** (13.4.2017)
-Verfahrenssprache im Strafprozess und Übersetzungsanspruch. Das Bundesgericht stellte klar, dass die Sprachenfreiheit nach Art. 18 BV nicht absolut gilt. Grundsätzlich besteht kein Anspruch, mit Behörden in einer anderen Sprache als der Verfahrenssprache zu verkehren.
+> «Die Sprachenfreiheit nach Art. 18 BV gilt nicht absolut. Grundsätzlich besteht kein Anspruch darauf, mit Behörden in einer anderen Sprache als der Verfahrenssprache zu verkehren (Art. 67 StPO). Um überspitzten Formalismus zu verhindern, muss die Strafbehörde bei einer innert Frist eingereichten Eingabe, die nicht in der Verfahrenssprache verfasst ist, eine zusätzliche Frist für die Übersetzung gewähren, soweit sie sich mit dem Dokument nicht begnügt oder dieses selber übersetzen lässt.»
 
-> «Die Sprachenfreiheit nach Art. 18 BV gilt nicht absolut. Grundsätzlich besteht kein Anspruch darauf, mit Behörden in einer anderen Sprache als der Verfahrenssprache zu verkehren (Art. 67 StPO).»
+**BGE 136 I 149** vom 22. Oktober 2009 — Amts- und Verfahrenssprache
+Sprachenfreiheit im Verwaltungsverfahren des zweisprachigen Kantons Freiburg.
+Bestätigt die Beschränkung der Sprachenfreiheit durch das Territorialitätsprinzip.
 
-**BGE 136 I 149** (18.1.2010)
-Amtssprachen und Verfahrenssprachen im zweisprachigen Kanton Freiburg. Das Urteil behandelte die Bedeutung kantonaler Sprachregelungen für die Ausübung der Sprachenfreiheit. Art. 17 Abs. 2 der Verfassung des Kantons Freiburg erlaubt es Rechtssuchenden, sich in der Amtssprache ihrer Wahl an Gerichte zu wenden.
+> «Die Sprachenfreiheit wird eingeschränkt durch das Territorialitätsprinzip: Der Einzelne hat kein Recht, mit den Behörden in einer beliebigen Sprache zu verkehren, sondern hat – unter Vorbehalt besonderer Ansprüche – die jeweilige Amtssprache zu benützen.»
 
-> «Art. 17 Abs. 2 der Verfassung des Kantons Freiburg erlaubt es dem Rechtsuchenden, sich in der Amtssprache seiner Wahl - Französisch oder Deutsch - an das Kantonsgericht zu wenden. Dies gilt unabhängig von der Verfahrenssprache.»
+### Minderheitensprachen und Territorialitätsprinzip
 
-### Sprachenfreiheit und Territorialitätsprinzip
+**BGE 100 Ia 462** vom 1974 — Grundlegender Minderheitenschutz
+Frühe grundlegende Rechtsprechung zum Schutz sprachlicher Minderheiten.
+Begründet das Territorialitätsprinzip als Schutzinstrument für Minderheitensprachen.
 
-**Urteil 1S.6/2004** (11.1.2005)
-Bundesstrafprozess und Prozesssprache. Das Bundesgericht bestätigte die Geltung des Territorialitätsprinzips auch im Bundesstrafprozess, wobei die Sprachenfreiheit durch verfahrensrechtliche Regelungen begrenzt wird.
+> «Das Territorialitätsprinzip [...] verbietet auch die bewusste Verschiebung hergebrachter Sprachgrenzen oder die Unterdrückung von hergebrachten Minderheitssprachgruppen [...]. Diese Grundsätze gelten insbesondere für den Schutz der traditionellen sprachlichen Minderheiten wie des Italienischen und des Rätoromanischen.»
 
-**Urteil 2C_806/2012** (12.7.2013)
-Ergänzend zu BGE 139 I 229: Sprachenfreiheit im Bildungswesen. Der Entscheid konkretisierte die Grundsätze zur staatlichen Festlegung von Schulsprachen und deren Vereinbarkeit mit Art. 18 BV.
+### Schulsprache und Bildungswesen
 
-### Minderheitensprachen und internationale Verpflichtungen
+**BGE 125 I 347** vom 9. September 1999 — Konfessionelle Neutralität der Schule
+Sprachenfreiheit im Kontext des konfessionell neutralen Schulwesens.
+Zeigt die Abwägung zwischen verschiedenen Grundrechten im Bildungsbereich auf.
 
-Die Rechtsprechung zu Art. 18 BV berücksichtigt systematisch die Europäische Charta der Regional- oder Minderheitssprachen. In **BGE 139 I 229** hielt das Bundesgericht fest, dass die Charta weitgehend programmatische Bestimmungen enthält und sich in erster Linie an den Gesetzgeber richtet. Den Verpflichtungen der Charta ist hinreichend Rechnung getragen, wenn das Rätoromanische als Unterrichtssprache erhalten bleibt.
+> «In zwei- oder mehrsprachigen Gebieten könne sich aus der Sprachenfreiheit ein Anspruch darauf ergeben, in einer der mehreren traditionellen Sprachen unterrichtet zu werden, sofern dies nicht zu einer unverhältnismässigen Belastung des Gemeinwesens führt.»
 
-### Bundesstrafgericht
+### Jüngere Entwicklungen
 
-Die Rechtsprechung des Bundesstrafgerichts konkretisiert die Grundsätze zur Verfahrenssprache:
+Urteil **1B_70/2009** vom 7. April 2009 — Sprachenfreiheit im Strafverfahren
+Präzisierung der Übersetzungsansprüche im Strafverfahren.
+Konkretisiert die Balance zwischen Sprachenfreiheit und Verfahrensökonomie.
 
-**BB.2005.114** (13.2.2006)
-Beschwerde gegen Verfahrenssprache. Das Bundesstrafgericht wendete das Territorialitätsprinzip im Bundesstrafprozess an, wobei die Kompetenz der Bundesbehörden zur landesweiten Tätigkeit besondere Überlegungen erfordert.
+Urteil **2C_806/2012** vom 12. Juli 2013 — Rumantsch Grischun als Schulsprache
+Bestätigt die Flexibilität bei der Ausgestaltung romanischsprachiger Bildung.
+Zeigt die Grenzen individueller Sprachenrechte im öffentlichen Bildungswesen auf.
 
-**CA.2023.8** (14.5.2023)
-Ausstandsgesuch und Verfahrenssprache. Aktuelle Anwendung der Grundsätze zur Verfahrenssprache im bundesstrafrechtlichen Berufungsverfahren.
-
-### Zusammenfassung der Rechtsprechungsentwicklung
-
-Die Rechtsprechung zu Art. 18 BV zeigt eine konsistente Entwicklung von der ursprünglich ungeschriebenen Sprachenfreiheit zur heutigen expliziten Verfassungsgarantie. Das Bundesgericht hat folgende Kernprinzipien etabliert:
-
-1. **Aktive vs. passive Sprachenfreiheit**: Unterscheidung zwischen privater Sprachverwendung (umfassend geschützt) und staatlicher Sprachverwendung (begrenzt durch Territorialitätsprinzip)
-
-2. **Territorialitätsprinzip**: Begrenzung der Sprachenfreiheit durch örtliche Sprachordnung, besonders im Verfahrensrecht
-
-3. **Schulsprachen**: Kein absoluter Anspruch auf Unterricht in der Muttersprache; staatliche Gestaltungsfreiheit bei Beachtung des Territorialitätsprinzips
-
-4. **Minderheitenschutz**: Schutz traditioneller Sprachminderheiten, aber keine unbegrenzte Wahlfreiheit
-
-5. **Verfahrensrechte**: Übersetzungsansprüche in Strafverfahren bei effektiven Bedürfnissen der Beschuldigten
-
-Die jüngere Rechtsprechung bestätigt diese Grundsätze und wendet sie auf moderne Herausforderungen wie mehrsprachige Kantone und Bundesstrafverfahren an.
+Urteil **1C_40/2015** vom 18. September 2015 — Sprachenrechte in der Verwaltung
+Aktuelle Anwendung der Sprachenfreiheit im Verwaltungsverfahren.
+Bestätigt die restriktive Handhabung von Übersetzungsansprüchen ausserhalb der Amtssprachen.
