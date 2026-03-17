@@ -1,113 +1,101 @@
-# Rechtsprechung
+# Art. 17 BV — Medienfreiheit
 
-## Pressefreiheit und journalistische Tätigkeitsfreiheit
+## Rechtsprechung
 
-**BGE 130 I 369** vom 7. Juli 2004
-Polizeiliche Verweigerung des Zugangs nach Davos gegenüber einem Journalisten anlässlich des Weltwirtschaftsforums 2001.
-Der Realakt berührt den Journalisten in der Medienfreiheit gemäss Art. 17 BV.
+Die bundesgerichtliche Rechtsprechung zu Art. 17 BV entwickelte sich in drei Hauptbereichen: Medienfreiheit und Informationszugang, Redaktionsgeheimnis und Quellenschutz sowie Zensurverbot und Berichterstattungsfreiheit.
 
-> «Die polizeiliche Hinderung des Zugangs nach Davos anlässlich des Weltwirtschaftsforums 2001 berührt den betroffenen Journalisten in der persönlichen Freiheit sowie in der Meinungs-, Informations- und Pressefreiheit.»
+### I. Redaktionsgeheimnis und Quellenschutz
 
-**BGE 127 IV 166** vom 1. Januar 2001
-Rechtswidrige Einreise eines Journalisten zur Informationsbeschaffung.
-Die Pressefreiheit rechtfertigt nicht jede Art der Informationsbeschaffung durch Journalisten.
-
-> «Die Voraussetzungen des aussergesetzlichen Rechtfertigungsgrundes der Wahrung berechtigter Interessen sind nicht erfüllt im Falle eines Journalisten, der gemeinsam mit einer Gruppe von Flüchtlingen rechtswidrig in die Schweiz einreist, um Informationen aus "erster Hand" zu sammeln.»
-
-**BGE 127 IV 122** vom 1. Januar 2001
-Anstiftung zur Verletzung des Amtsgeheimnisses durch einen Journalisten.
-Die Medienfreiheit rechtfertigt keine Anstiftung zu Straftaten zur Informationsbeschaffung.
-
-> «Eine Anstiftung zur Amtsgeheimnisverletzung lässt sich weder durch die Medienfreiheit noch durch angebliche journalistische Berufspflichten rechtfertigen.»
-
-## Gerichtsberichterstattung und Justizöffentlichkeit
-
-**BGE 143 I 194** vom 22. Februar 2017
-Ausschluss akkreditierter Gerichtsberichterstatter von Berufungsverhandlung und Urteilseröffnung.
-Vollständiger Medienausschluss verletzt Art. 17 BV unverhältnismässig, wenn weniger weitgehende Schutzmassnahmen verfügbar sind.
-
-> «Die rechtsstaatliche und demokratische Bedeutung des Grundsatzes der Justizöffentlichkeit gebietet, einen Ausschluss des Publikums und der Medienschaffenden in gerichtlichen Strafverfahren nur sehr restriktiv, mithin bei überwiegenden entgegenstehenden Interessen, zuzulassen.»
-
-**BGE 141 I 211** vom 6. November 2015
-Publikationsverbot für Gerichtsberichterstatter unter Androhung von Ordnungsbusse.
-Einschränkungen der Gerichtsberichterstattung bedürfen einer hinreichenden gesetzlichen Grundlage.
-
-> «Das vom Strafrichter gegenüber den Gerichtsberichterstattern unter Androhung von Ordnungsbusse ausgesprochene Verbot, bestimmte Informationen über den Angeklagten zu publizieren, war mangels hinreichender gesetzlicher Grundlage unzulässig.»
-
-**BGE 137 I 209** vom 14. Juli 2011
-Ausschluss eines Medienvertreters wegen Nichteinhaltung gerichtlicher Auflagen.
-Ausschluss von Gerichtsberichterstattung stellt schweren Eingriff in Art. 17 BV dar.
-
-> «Der Berichterstatter, der sich der gerichtlichen Auflage für den Zugang zur Hauptverhandlung (hier: die Wahrung der Anonymität der Verfahrensbeteiligten) nicht unterzieht, darf davon ausgeschlossen werden.»
-
-## Redaktionsgeheimnis und Quellenschutz
-
-**BGE 140 IV 108** vom 1. Januar 2014
-Beschlagnahmeverbot für Unterlagen aus dem Verkehr zwischen Beschuldigtem und Medienschaffenden.
-Art. 17 Abs. 3 BV schützt nicht nur beim Medienschaffenden befindliche, sondern auch beim Beschuldigten oder Dritten befindliche Kommunikation.
-
-> «Das Beschlagnahmeverbot erfasst nicht nur Unterlagen, die sich beim Medienschaffenden befinden, sondern auch solche, die sich beim Beschuldigten oder bei Dritten befinden.»
-
-**BGE 132 I 181** vom 1. Januar 2006
-Verweigerung der Quellenpreisgabe durch Journalisten in Tötungsdeliktverfahren.
-Das Redaktionsgeheimnis kann nur bei ausserordentlich schwerwiegenden Interessen durchbrochen werden.
+**BGE 132 I 181** (11. Mai 2006)
+Das Redaktionsgeheimnis schützt journalistische Quellen vor staatlicher Zwangsoffenlegung.
+Das Interesse an der Aufklärung eines Tötungsdelikts reicht nicht für die Durchbrechung des Quellenschutzes aus, wenn das öffentliche Interesse nicht ausserordentlich hoch ist.
 
 > «Das Interesse an der Aufklärung des hier in Frage stehenden Tötungsdelikts weist nicht das ausserordentliche Gewicht auf, das erlaubte, den Journalisten zur Offenlegung seiner Informationsquellen zu verpflichten.»
 
-## Zensurverbot
+**BGE 136 IV 145** (10. November 2010)
+Der Quellenschutz erstreckt sich auch auf Online-Medien und Blog-Kommentare.
+Der Begriff der «Information» im Sinne von Art. 28a StGB ist weit auszulegen und umfasst auch Nutzerkommentare auf Webseiten periodischer Medien.
 
-**BGE 138 I 274** vom 3. Juli 2012
-Aushängeverbot für aussenpolitische Plakate im Bahnhof.
-Das Zensurverbot erfasst auch präventive Kontrolle von Meinungsäusserungen.
+> «Das SF Schweizer Fernsehen ist ein periodisch erscheinendes Medium im Sinne von Art. 28a Abs. 1 StGB. Das gilt über die eigentlichen Fernsehsendungen hinaus auch in Bezug auf die Blogs, welche auf der Website des Beschwerdeführers in regelmässiger Zeitfolge aufgeschaltet werden.»
+
+**BGE 140 IV 108** (22. Juli 2014)
+Das Beschlagnahmeverbot für journalistisches Material gilt umfassend und ortsunabhängig.
+Geschützt sind nicht nur Unterlagen beim Medienschaffenden, sondern auch solche beim Informanten oder bei Dritten.
+
+> «Das Beschlagnahmeverbot erfasst nicht nur Unterlagen, die sich beim Medienschaffenden befinden, sondern auch solche, die sich beim Beschuldigten oder bei Dritten befinden.»
+
+### II. Medienfreiheit und Informationszugang
+
+**BGE 130 I 369** (7. Juli 2004)
+Polizeiliche Massnahmen gegen Journalisten unterliegen strenger verfassungsrechtlicher Prüfung.
+Die Verweigerung des Zugangs zu einem Ereignis von öffentlichem Interesse beeinträchtigt die Medien- und Informationsfreiheit erheblich.
+
+> «Die polizeiliche Hinderung des Zugangs nach Davos anlässlich des Weltwirtschaftsforums 2001 berührt den betroffenen Journalisten in der persönlichen Freiheit sowie in der Meinungs-, Informations- und Pressefreiheit.»
+
+**BGE 127 IV 122** (4. September 2001)
+Die Medienfreiheit rechtfertigt keine rechtswidrige Informationsbeschaffung.
+Journalistische Recherche kann nicht zur Anstiftung zu Amtsgeheimnisverletzungen führen, ohne rechtliche Konsequenzen zu tragen.
+
+> «Eine Anstiftung zur Amtsgeheimnisverletzung lässt sich weder durch die Medienfreiheit noch durch angebliche journalistische Berufspflichten rechtfertigen.»
+
+**BGE 127 IV 166** (4. September 2001)
+Die Pressefreiheit gewährt keine Berechtigung zu rechtswidrigem Verhalten.
+Der aussergesetzliche Rechtfertigungsgrund der Wahrung berechtigter Interessen greift nicht bei rechtswidriger Einreise von Journalisten zur Informationsbeschaffung.
+
+> «Die Voraussetzungen des aussergesetzlichen Rechtfertigungsgrundes der Wahrung berechtigter Interessen sind nicht erfüllt im Falle eines Journalisten, der gemeinsam mit einer Gruppe von Flüchtlingen rechtswidrig in die Schweiz einreist.»
+
+### III. Justizöffentlichkeit und Berichterstattungsfreiheit
+
+**BGE 143 I 194** (29. März 2017)
+Die Justizöffentlichkeit und Medienfreiheit erfordern weitgehenden Zugang zu Gerichtsverhandlungen.
+Ein vollständiger Medienausschluss ist nur bei überwiegenden entgegenstehenden Interessen zulässig und muss auf das absolut Notwendige beschränkt werden.
+
+> «Die rechtsstaatliche und demokratische Bedeutung des Grundsatzes der Justizöffentlichkeit gebietet, einen Ausschluss des Publikums und der Medienschaffenden in gerichtlichen Strafverfahren nur sehr restriktiv, mithin bei überwiegenden entgegenstehenden Interessen, zuzulassen.»
+
+**BGE 141 I 211** (18. März 2015)
+Richterliche Publikationsverbote bedürfen einer ausreichenden gesetzlichen Grundlage.
+Beschränkungen der Gerichtsberichterstattung über öffentliche Verhandlungen sind nur bei klarer gesetzlicher Ermächtigung zulässig.
 
 > «Das vom Strafrichter gegenüber den Gerichtsberichterstattern unter Androhung von Ordnungsbusse ausgesprochene Verbot, bestimmte Informationen über den Angeklagten zu publizieren, war mangels hinreichender gesetzlicher Grundlage unzulässig.»
 
-## Rundfunkfreiheit und Zugang zu Medien
+**BGE 137 I 209** (14. Juli 2011)
+Medienvertreter müssen gerichtliche Auflagen für den Verhandlungszugang respektieren.
+Wer sich den Zugangsvoraussetzungen widersetzt, kann rechtmässig vom Verfahren ausgeschlossen werden.
 
-**BGE 136 I 167** vom 10. Dezember 2009
-Verweigerung des Zugangs zu SRG-Programmen.
-Kein grundsätzliches «Recht auf Antenne», aber Diskriminierungsverbot bei Zugang.
+> «Der Berichterstatter, der sich der gerichtlichen Auflage für den Zugang zur Hauptverhandlung (hier: die Wahrung der Anonymität der Verfahrensbeteiligten) nicht unterzieht, darf davon ausgeschlossen werden.»
 
-> «Bestätigung der Rechtsprechung, wonach nur ausnahmsweise ein "Recht auf Antenne" besteht. Ist im Zusammenhang mit dem Zugang zum Programm eine Beeinträchtigung von verfassungsrechtlich geschützten Interessen zu bejahen, so sind die Art. 8 und 35 BV anwendbar.»
+### IV. Öffentlichkeitsgesetz und Informationszugang
 
-## Verhältnis zum Öffentlichkeitsprinzip
-
-**BGE 142 II 313** vom 18. Mai 2016
-Zugang zu Steuerverwaltungsdokumenten gestützt auf Öffentlichkeitsprinzip.
-Art. 17 BV stärkt journalistische Recherche im Rahmen des Öffentlichkeitsgesetzes.
+**BGE 142 II 313** (18. Mai 2016)
+Die Medienfreiheit verstärkt den Anspruch auf Zugang zu amtlichen Dokumenten.
+Bei der Anwendung des Öffentlichkeitsgesetzes sind die besonderen Informationsbedürfnisse der Medien zu berücksichtigen.
 
 > «Gemäss dem Öffentlichkeitsgesetz des Bundes besteht ein subjektiver Anspruch auf Zugang zu den amtlichen Dokumenten von Verwaltungseinheiten des Bundes unter Vorbehalt der gesetzlichen Ausnahmen.»
 
-**BGE 144 II 77** vom 27. September 2017
-Einsicht in Ereignisdatenbank der Transportunternehmen.
-Medieninteressen sind bei der Interessenabwägung im Öffentlichkeitsrecht zu berücksichtigen.
+**BGE 139 I 114** (26. April 2013)
+Gebühren für den Medienzugang zu amtlichen Dokumenten müssen angemessen sein.
+Das öffentliche Interesse an der Medieninformation rechtfertigt reduzierte oder erlassene Gebühren.
 
-> «Damit ein Geheimhaltungstatbestand nach Art. 7 Abs. 1 BGÖ greift, muss die bei einer Zugangsgewährung drohende Verletzung öffentlicher oder privater Interessen ernsthaft sein und mit einer gewissen Wahrscheinlichkeit eintreten.»
+> «Das öffentliche Interesse am Zugang der Medien zu amtlichen Dokumenten rechtfertigt in der Regel eine Gebührenreduktion oder einen vollständigen Gebührenerlass.»
 
-**BGE 147 II 408** vom 14. Juni 2021
-Auskunftsgesuch eines Journalisten über SIS-Einträge.
-Auch persönliche Datenauskunft kann journalistischen Zwecken dienen.
+### V. Filmaufnahmen und Medienproduktion
 
-> «Über die Auskunftserteilung entscheidet das Bundesamt für Polizei (fedpol) gemäss Art. 8 und 9 DSG in Verbindung mit Art. 58 SIS-II-Beschluss bzw. Art. 41 SIS-II-Verordnung.»
+**BGE 137 I 8** (23. Dezember 2010)
+Filmaufnahmen in staatlichen Einrichtungen fallen in den Schutzbereich der Medienfreiheit.
+Die Durchführung von Interviews in Strafanstalten ist grundsätzlich durch Art. 17 BV geschützt, unterliegt jedoch besonderen Einschränkungen.
 
-## Verhältnis zu anderen Grundrechten
+> «Die Durchführung eines Fernsehinterviews in einer Strafanstalt fällt unabhängig vom konkreten Inhalt des Beitrags in den Schutzbereich der Medienfreiheit.»
 
-**BGE 127 I 145** vom 27. Juni 2001
-Einsicht in archivierte Strafakten durch Medienschaffende.
-Die Informationsfreiheit gewährt keinen generellen Anspruch auf nicht allgemein zugängliche Informationen.
+### VI. Zensur und Werbebeschränkungen
 
-> «Die Informations- und Wissenschaftsfreiheit räumen keinen generellen Anspruch auf Beschaffung von Informationen aus nicht allgemein zugänglichen Quellen ein.»
+**BGE 139 I 306** (18. Dezember 2013)
+Private Medienunternehmen mit Service public-Auftrag sind grundrechtsgebunden.
+Die Verweigerung der Ausstrahlung von Werbebotschaften kann eine verfassungswidrige Zensur darstellen.
 
-**BGE 132 III 641** vom 22. Mai 2006
-Persönlichkeitsverletzung durch Weitergabe von Informationen an Medien.
-Medienfreiheit kann Persönlichkeitsverletzung rechtfertigen, wenn überwiegendes öffentliches Interesse besteht.
+> «Die Weigerung der SRG bzw. der publisuisse SA, eine Werbebotschaft auszustrahlen, kann mit Zugangsbeschwerde bei der Unabhängigen Beschwerdeinstanz für Radio- und Fernsehen (UBI) angefochten werden.»
 
-> «Die Bedienung eines freien Journalisten und des Schweizer Fernsehens SFDRS mit Unterlagen der genannten Art zu einem Zeitpunkt, da verschiedene medizinische Fachverbände und öffentliche Stellen bereits Abklärungen eingeleitet hatten, war durch das öffentliche Interesse gerechtfertigt.»
+**BGE 138 I 274** (3. Juli 2012)
+Das Zensurverbot gilt auch für behördliche Einschränkungen des Plakatierens.
+Inhaltsbezogene Beschränkungen politischer Meinungsäusserungen sind besonders streng zu prüfen.
 
-## Neuere Entwicklungen
-
-**Urteil 6B_169/2019** vom 26. Februar 2020
-Medienfreiheit bei Verbreitung von Propaganda-Material.
-Auch extremistische Inhalte stehen grundsätzlich unter dem Schutz der Medienfreiheit, unterliegen aber den strafrechtlichen Schranken.
-
-> Der Entscheid betrifft die Abgrenzung zwischen Medienfreiheit und Strafrecht bei der Verbreitung terroristischer Inhalte.
+> «Aushängen von Plakaten zu aussenpolitischen Themen stellt eine Form der Meinungsäusserung dar, die in den Schutzbereich der Meinungsfreiheit fällt und dem Zensurverbot untersteht.»
