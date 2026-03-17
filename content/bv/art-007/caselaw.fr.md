@@ -1,105 +1,97 @@
 # Jurisprudence
 
-## Décisions fondamentales relatives à la dignité humaine
+## Signification fondamentale et champ d'application
 
-### Mesures médicales coercitives et dignité humaine
+### Dignité humaine comme fondement du système juridique
 
-**ATF 130 I 16** du 7 janvier 2004  
-Le Tribunal fédéral a relevé concernant le traitement médicamenteux forcé en clinique psychiatrique que celui-ci constitue une atteinte grave à la liberté personnelle et touche de manière centrale à la dignité humaine.  
-Décision fondamentale sur la portée de l'art. 7 Cst. lors d'interventions médicales contre la volonté du patient.
+**ATF 130 I 16 c. 3** (7 janvier 2004)  
+Traitement médicamenteux forcé dans les cliniques psychiatriques comme atteinte centrale à la dignité humaine.  
+L'arrêt établit l'art. 7 Cst. comme norme constitutionnelle fondamentale pour les atteintes particulièrement graves aux droits fondamentaux.  
 
-> « Un traitement médicamenteux forcé constitue une atteinte grave à la liberté personnelle et touche de manière centrale à la dignité humaine. En tant qu'atteinte grave aux droits constitutionnels mentionnés, un traitement médicamenteux forcé nécessite selon l'art. 36 Cst. une réglementation claire et expresse dans une loi formelle. »
+> « Un traitement médicamenteux forcé constitue une grave atteinte à la liberté personnelle et touche la dignité humaine de manière centrale. »
 
-**ATF 127 I 6** du 22 mars 2001  
-Concernant le traitement médicamenteux forcé en clinique psychiatrique lors de privation de liberté à des fins d'assistance.  
-Décision pionnière pour la concrétisation de la dignité humaine dans le contexte des traitements psychiatriques.
+**ATF 132 I 49 c. 5.1** (25 janvier 2006)  
+Décisions d'expulsion et d'éloignement ; rapport entre la dignité humaine et les droits fondamentaux plus spécifiques.  
+Arrêt fondamental sur la signification autonome de l'art. 7 Cst. par rapport aux autres droits fondamentaux.
 
-> « Le commandement de respect et de protection de la dignité humaine au sens de l'art. 7 Cst. est finalement à la base des points de départ pour un intérêt justifiant l'atteinte à la liberté personnelle lors d'un traitement forcé de personnes malades. »
+> « La dignité humaine a de manière générale la signification d'un principe directeur pour toute activité étatique, forme en tant que noyau le plus intime à la fois le fondement des droits de liberté, sert à leur interprétation et concrétisation et constitue un droit fondamental de rattrapage. »
 
-### Invocation autonome de la dignité humaine
+## Invocation autonome de la dignité humaine
 
-**ATF 132 I 49** du 25 janvier 2006  
-Concernant les ordonnances d'éloignement et d'interdiction d'accès : Les personnes concernées ne peuvent rien dériver en leur faveur d'une invocation autonome de la dignité humaine (art. 7 Cst.).  
-Décision de principe sur la délimitation entre l'art. 7 Cst. et les autres droits fondamentaux.
+### Pas d'invocation autonome lors de mesures policières
 
-> « Les personnes concernées ne peuvent rien dériver en leur faveur d'une invocation autonome de la dignité humaine (art. 7 Cst.) ; elles peuvent s'appuyer sur la liberté de réunion (art. 22 Cst.), la liberté personnelle (art. 10 al. 2 Cst.), l'interdiction de la discrimination (art. 8 al. 2 Cst.) et l'interdiction de l'arbitraire (art. 9 Cst.). »
+**ATF 132 I 49 c. 5.1** (25 janvier 2006)  
+Décisions d'expulsion contre des personnes dans des rassemblements consommant de l'alcool.  
+Principe important sur la subsidiarité de l'art. 7 Cst. par rapport aux droits fondamentaux plus spécifiques.
 
-### Prison pour dettes et dignité humaine
-
-**ATF 130 I 169** du 12 mai 2004  
-L'interdiction de la prison pour dettes découle tant de la protection de la dignité humaine selon l'art. 7 Cst. que du droit à la liberté personnelle.  
-Lien entre l'art. 7 Cst. et le principe fondamental de l'interdiction de la servitude pour dettes.
-
-> « L'interdiction de la prison pour dettes découle tant de la protection de la dignité humaine selon l'art. 7 Cst. que du droit à la liberté personnelle selon l'art. 10 al. 2 Cst. »
+> « D'une invocation autonome de la dignité humaine (art. 7 Cst.), les personnes concernées ne peuvent rien déduire en leur faveur ; elles peuvent se prévaloir de la liberté de réunion (art. 22 Cst.), de la liberté personnelle (art. 10 al. 2 Cst.), de l'interdiction de discriminer (art. 8 al. 2 Cst.) et de l'interdiction de l'arbitraire (art. 9 Cst.). »
 
 ## Dignité humaine et aide d'urgence
 
-### Droit au minimum vital
+### Droit à une existence digne
 
-Arrêt **2P.318/2004** du 18 mars 2005  
-Concernant l'aide d'urgence minimale pour les demandeurs d'asile déboutés : Les art. 7 et 12 Cst. fondent un droit à l'aide pour une existence digne.  
-Décision directrice sur le lien entre dignité humaine et prestations sociales minimales.
+**ATF 131 I 166 c. 5.2** (18 mars 2005)  
+Aide d'urgence pour les demandeurs d'asile avec décision de non-entrée en matière ; standards minimaux de l'aide sociale.  
+Arrêt fondamental sur le lien entre l'art. 7 et l'art. 12 Cst.
 
-> « Selon l'art. 12 Cst., quiconque est dans une situation de détresse et n'est pas en mesure de subvenir à son entretien a le droit d'être aidé et assisté et de recevoir les moyens indispensables pour mener une existence conforme à la dignité humaine. Ce droit fondamental a pour fondement ultime le commandement de respect et de protection de la dignité humaine au sens de l'art. 7 Cst. »
+> « La liberté personnelle peut être invoquée pour un devoir minimal de prise en charge de même que le droit à une aide et à des soins minimaux selon l'art. 12 Cst. Ces points de départ reposent en définitive sur l'exigence du respect et de la protection de la dignité humaine au sens de l'art. 7 Cst. »
 
-### Délabrement grave
+**ATF 139 I 272 c. 3** (22 novembre 2013)  
+Hébergement dans des abris de protection civile comme aide d'urgence pour un homme célibataire en bonne santé.  
+Concrétisation des exigences minimales pour un hébergement digne.
 
-**ATF 128 III 12** du 1er octobre 2001  
-Le motif particulier d'internement du délabrement grave vise un état de déchéance qui n'est plus compatible avec la dignité humaine.  
-Concrétisation de l'art. 7 Cst. dans le domaine de la privation de liberté à des fins d'assistance.
+> « Pour un homme célibataire en bonne santé, le fait qu'il doive passer la nuit dans un abri de protection civile ne s'oppose pas aux exigences minimales garanties par l'art. 12 Cst. et ne viole en particulier pas le droit au respect de la dignité humaine. »
 
-> « Le motif particulier d'internement du délabrement grave selon l'art. 397a al. 1 CC vise un état de déchéance qui n'est plus compatible avec la dignité humaine. »
+## Dignité humaine dans l'exécution des peines et la privation de liberté
 
-## Dignité humaine et droit des médias
+### Conditions de détention et traitement inhumain
 
-### Protection de la personnalité à la radio et à la télévision
+**ATF 140 I 125 c. 3.6.3** (26 février 2014)  
+Surpeuplement dans la prison de Champ-Dollon comme violation de la dignité humaine.  
+Précision des standards minimaux pour les conditions de détention en cas de surpeuplement extrême.
 
-**ATF 134 II 260** du 26 juin 2008  
-Concernant les prises de vue avec caméra cachée chez un chirurgien esthétique : Obligation des diffuseurs d'émissions de radio et de télévision de respecter la dignité humaine.  
-Décision fondamentale sur la portée de l'art. 7 Cst. dans le domaine des médias.
+> « L'occupation d'une cellule conçue pour trois personnes avec une superficie brute de 23 m² par six détenus peut violer la dignité humaine, si elle dure près de trois mois et s'accompagne d'autres défauts, comme l'enfermement dans la cellule pendant 23 heures par jour. »
 
-> « Les diffuseurs d'émissions de radio et de télévision sont tenus de respecter les droits fondamentaux et notamment la dignité humaine. Cela ressort tant de l'art. 93 al. 5 Cst. que de l'art. 7 Cst. »
+### Obligation de travailler dans l'exécution des peines
 
-## Discrimination raciale et dignité humaine
+**ATF 139 I 180 c. 2** (18 juillet 2013)  
+Constitutionnalité de l'obligation de travailler pour les détenus de tous âges.  
+Confirmation que l'obligation de travailler ne viole pas l'art. 7 Cst.
 
-### Atteinte à la dignité humaine
+> « L'obligation du détenu de travailler ne viole ni le droit fédéral ni le droit constitutionnel. Elle s'applique indépendamment de l'âge du détenu. »
 
-**ATF 124 IV 121** du 30 avril 1998  
-Tombe sous le coup de l'art. 261bis al. 1 CP une affirmation qui attribue aux personnes une valeur moindre en raison de leur race, ethnie ou religion dans le domaine de leur dignité humaine.  
-Lien entre l'infraction de discrimination raciale et l'art. 7 Cst.
+## Liberté personnelle et traitement médical
 
-> « Tombe sous le coup de l'art. 261bis al. 1 CP une affirmation, sous quelque forme et par quelque média qu'elle soit diffusée, qui attribue aux personnes une valeur moindre en raison de leur race, ethnie ou religion dans le domaine de leur dignité humaine. »
+### Médication forcée dans les cliniques psychiatriques
 
-**ATF 140 IV 67** du 6 février 2014  
-Caractère punissable des expressions « sale étranger » et « sale demandeur d'asile » nié dans le contexte de la discrimination raciale.  
-Délimitation entre les abaissements punissables et les autres expressions discriminatoires.
+**ATF 130 I 16 c. 5** (7 janvier 2004)  
+Examen de la proportionnalité lors de traitement médicamenteux forcé.  
+Pesée d'intérêts complète et exhaustive requise lors d'atteintes graves à la dignité humaine.
 
-**ATF 143 IV 77** du 3 janvier 2017  
-Lors de discrimination d'un groupe de personnes, les membres individuels du groupe n'ont pas qualité de lésés faute d'atteinte directe.  
-Conséquences procédurales de la protection de la dignité humaine dans les cas de discrimination.
+> « Compte tenu de la gravité de l'atteinte aux droits fondamentaux, le droit constitutionnel exige une pesée complète et exhaustive des intérêts en jeu : intérêts publics, nécessité du traitement, conséquences d'un non-traitement, examen d'alternatives, appréciation du danger pour soi-même et autrui. »
 
-## Services funèbres et dignité humaine
+## Discrimination et dignité humaine
 
-### Monopole dans les services funèbres
+### Procédure de naturalisation et arbitraire
 
-**ATF 143 I 388** du 24 mai 2017  
-Le monopole funéraire est justifié pour des raisons de dignité humaine : La collectivité publique doit veiller à ce que chaque défunt puisse être inhumé décemment.  
-Application moderne de l'art. 7 Cst. aux monopoles étatiques dans des domaines sensibles.
+**ATF 129 I 232 c. 3** (9 juillet 2003)  
+Invalidité d'initiatives de naturalisation sans possibilité de motivation.  
+Lien entre garanties procédurales et respect de la dignité humaine.
 
-> « Le monopole est justifié pour des raisons de politique sociale et de police, la collectivité publique se voyant confier pour des raisons de dignité humaine la tâche de veiller à ce que chaque défunt puisse être inhumé décemment. »
+> « Les décisions de refus de naturalisation sont soumises à l'obligation de motiver selon l'art. 29 al. 2 Cst. (droit d'être entendu) en relation avec l'art. 8 al. 2 Cst. (interdiction de discriminer). Lors du vote à l'urne, une motivation répondant aux exigences constitutionnelles n'est pas possible. »
 
-## Développements actuels
+**ATF 139 I 169 c. 6** (13 mai 2013)  
+Refus discriminatoire de naturalisation envers les personnes handicapées mentales.  
+Protection de la dignité humaine pour les groupes de personnes particulièrement vulnérables.
 
-### Décisions de traitement médical
+> « Exclure les handicapés mentaux de la naturalisation par manque de volonté propre ne correspond pas à l'ordre légal et s'avère discriminatoire en raison de l'effet général qui en résulte. »
 
-Arrêt **C-6429/2024** du 17 février 2025  
-Concernant les décisions sur l'inscription sur une liste de transplantation : La dignité humaine comme critère pour les décisions de traitement médical.  
-Jurisprudence la plus récente sur l'application de l'art. 7 Cst. dans le système de santé moderne.
+## Développements récents
 
-### Placement à des fins d'assistance et alimentation forcée
+### Interdiction de mendier et liberté personnelle
 
-Arrêt **F 2024 26** du 8 juillet 2024  
-L'alimentation forcée constitue une atteinte grave à la liberté personnelle et touche de manière centrale à la dignité humaine.  
-Continuation actuelle de la jurisprudence ATF 130 I 16.
+**ATF 149 I 248 c. 4** (13 mars 2023)  
+Interdiction partielle de mendier à Bâle-Ville ; rapport avec la liberté personnelle.  
+Jurisprudence actuelle sur la délimitation entre dignité humaine et autres droits fondamentaux.
 
-> « L'alimentation forcée constitue une atteinte grave à la liberté personnelle au sens de l'intégrité corporelle et psychique (art. 10 al. 2 Cst. et art. 8 ch. 1 CEDH) et touche de manière centrale à la dignité humaine selon l'art. 7 Cst. »
+> « La mendicité relève du champ de protection du droit fondamental de la liberté personnelle resp. du droit au respect de la vie privée. Une interdiction partielle de mendier porte atteinte à ces droits et doit remplir les conditions correspondantes. »
