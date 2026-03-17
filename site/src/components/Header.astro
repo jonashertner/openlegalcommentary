@@ -261,24 +261,39 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 </style>
 
 <script>
-  const toggle = document.querySelector('.theme-toggle');
-  if (toggle) {
-    toggle.addEventListener('click', () => {
-      const html = document.documentElement;
-      const current = html.getAttribute('data-theme');
-      const next = current === 'dark' ? 'light' : (current === 'light' ? 'dark' : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'light' : 'dark'));
-      html.setAttribute('data-theme', next);
-      localStorage.setItem('theme', next);
-    });
-  }
+  document.addEventListener('astro:page-load', () => {
+    const toggle = document.querySelector('.theme-toggle');
+    if (toggle) {
+      toggle.addEventListener('click', () => {
+        const html = document.documentElement;
+        const current = html.getAttribute('data-theme');
+        const next = current === 'dark' ? 'light' : (current === 'light' ? 'dark' : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'light' : 'dark'));
+        html.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+      });
+    }
 
-  const navToggle = document.querySelector('.nav-toggle');
-  const navMenu = document.getElementById('nav-menu');
-  if (navToggle && navMenu) {
-    navToggle.addEventListener('click', () => {
-      const expanded = navToggle.getAttribute('aria-expanded') === 'true';
-      navToggle.setAttribute('aria-expanded', String(!expanded));
-      navMenu.classList.toggle('open');
-    });
-  }
+    const navToggle = document.querySelector('.nav-toggle');
+    const navMenu = document.getElementById('nav-menu');
+    if (navToggle && navMenu) {
+      navToggle.addEventListener('click', () => {
+        const expanded = navToggle.getAttribute('aria-expanded') === 'true';
+        navToggle.setAttribute('aria-expanded', String(!expanded));
+        navMenu.classList.toggle('open');
+      });
+    }
+
+    // Sticky header shadow on scroll
+    const header = document.querySelector('.site-header');
+    if (header) {
+      const sentinel = document.createElement('div');
+      sentinel.style.height = '1px';
+      sentinel.style.position = 'absolute';
+      sentinel.style.top = '0';
+      document.body.prepend(sentinel);
+      new IntersectionObserver(
+        ([e]) => header.classList.toggle('scrolled', !e.isIntersecting)
+      ).observe(sentinel);
+    }
+  });
 </script>

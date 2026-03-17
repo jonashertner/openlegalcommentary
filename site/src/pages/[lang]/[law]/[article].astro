@@ -365,31 +365,33 @@ const lastUpdated = Object.values(layerMeta)
 </style>
 
 <script>
-  // Reading progress bar
-  function updateProgress() {
-    const bar = document.getElementById('reading-progress');
-    if (!bar) return;
-    const scrollTop = window.scrollY;
-    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-    const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
-    bar.style.width = `${Math.min(progress, 100)}%`;
-  }
+  document.addEventListener('astro:page-load', () => {
+    // Reading progress bar
+    function updateProgress() {
+      const bar = document.getElementById('reading-progress');
+      if (!bar) return;
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+      bar.style.width = `${Math.min(progress, 100)}%`;
+    }
 
-  // Back to top button
-  function updateBackToTop() {
-    const btn = document.getElementById('back-to-top');
-    if (!btn) return;
-    btn.classList.toggle('visible', window.scrollY > 400);
-  }
+    // Back to top button
+    function updateBackToTop() {
+      const btn = document.getElementById('back-to-top');
+      if (!btn) return;
+      btn.classList.toggle('visible', window.scrollY > 400);
+    }
 
-  window.addEventListener('scroll', () => {
-    requestAnimationFrame(() => {
-      updateProgress();
-      updateBackToTop();
+    window.addEventListener('scroll', () => {
+      requestAnimationFrame(() => {
+        updateProgress();
+        updateBackToTop();
+      });
+    }, { passive: true });
+
+    document.getElementById('back-to-top')?.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     });
-  }, { passive: true });
-
-  document.getElementById('back-to-top')?.addEventListener('click', () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 </script>

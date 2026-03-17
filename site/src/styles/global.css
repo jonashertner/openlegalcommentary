@@ -631,6 +631,21 @@ main {
 }
 .skip-link:focus { top: var(--space-2); }
 
+/* ===== Scroll Effects ===== */
+.fade-on-scroll {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.5s var(--ease-out), transform 0.5s var(--ease-out);
+}
+.fade-on-scroll.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.site-header.scrolled {
+  box-shadow: var(--shadow-sm);
+}
+
 /* ===== Reduced Motion ===== */
 @media (prefers-reduced-motion: reduce) {
   *,
@@ -640,4 +655,5 @@ main {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
   }
+  .fade-on-scroll { opacity: 1; transform: none; transition: none; }
 }

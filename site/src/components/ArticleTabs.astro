@@ -297,6 +297,7 @@ const {
 </style>
 
 <script>
+  document.addEventListener('astro:page-load', () => {
   // Tab indicator positioning
   function updateIndicator() {
     const activeTab = document.querySelector('.tab-btn[aria-selected="true"]') || document.querySelector('.tab-btn.active');
@@ -361,6 +362,7 @@ const {
   initTabs();
 
   // TOC active section tracking via IntersectionObserver
+
   function initTocTracking() {
     const tocLinks = document.querySelectorAll('.toc-list li a');
     if (tocLinks.length === 0) return;
@@ -399,4 +401,5 @@ const {
   }
 
   initTocTracking();
+  });
 </script>
