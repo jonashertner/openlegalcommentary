@@ -68,8 +68,8 @@ const labels: Record<Lang, string> = {
 </style>
 
 <script>
-  // Preserve ?layer= query param across language switches
-  function initLangSwitcher() {
+  document.addEventListener('astro:page-load', () => {
+    // Preserve ?layer= query param across language switches
     const links = document.querySelectorAll<HTMLAnchorElement>('[data-lang-link]');
     if (links.length === 0) return;
 
@@ -78,14 +78,11 @@ const labels: Record<Lang, string> = {
 
     links.forEach((link) => {
       const url = new URL(link.href, window.location.origin);
-      // Append current query params
       const currentParams = new URLSearchParams(search);
       currentParams.forEach((value, key) => {
         url.searchParams.set(key, value);
       });
       link.href = url.toString();
     });
-  }
-
-  initLangSwitcher();
+  });
 </script>

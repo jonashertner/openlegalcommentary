@@ -1,5 +1,6 @@
 ---
 // site/src/layouts/Base.astro
+import { ViewTransitions } from 'astro:transitions';
 import { type Lang, LANGS, t } from '@/lib/i18n';
 import { BASE, langBase } from '@/lib/base';
 import Header from '../components/Header.astro';
@@ -45,6 +46,7 @@ const fullTitle = title === 'Home'
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Open Legal Commentary" />
     <meta name="base-url" content={BASE} />
+    <ViewTransitions />
     <script is:inline>
       (function() {
         const saved = localStorage.getItem('theme');
