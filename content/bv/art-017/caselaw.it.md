@@ -1,113 +1,82 @@
-# Giurisprudenza
+# Art. 17 Cost.
 
-## Libertà di stampa e libertà di attività giornalistica
+## Giurisprudenza
 
-**BGE 130 I 369** del 7 luglio 2004
-Rifiuto di accesso a Davos da parte della polizia nei confronti di un giornalista in occasione del Forum economico mondiale 2001.
-L'atto reale tocca il giornalista nella libertà dei media secondo l'art. 17 Cost.
+### Fondamenti della libertà dei media
 
-> «L'impedimento poliziesco dell'accesso a Davos in occasione del Forum economico mondiale 2001 tocca il giornalista interessato nella libertà personale nonché nella libertà di opinione, di informazione e di stampa.»
+**DTF 137 I 8** del 23 dicembre 2010
+Le riprese cinematografiche in uno stabilimento di esecuzione delle pene rientrano, indipendentemente dal contenuto concreto, nell'ambito di protezione della libertà dei media. La libertà dei media protegge l'attività pubblicistica nel suo insieme, compresa la ricerca e la diffusione di informazioni.
 
-**BGE 127 IV 166** del 1° gennaio 2001
-Entrata illegale di un giornalista per la raccolta di informazioni.
-La libertà di stampa non giustifica ogni tipo di raccolta di informazioni da parte dei giornalisti.
+> «La realizzazione di un'intervista televisiva in uno stabilimento di esecuzione delle pene rientra, indipendentemente dal contenuto concreto del contributo, nell'ambito di protezione della libertà dei media.»
 
-> «I presupposti della causa di giustificazione extralegale della tutela di interessi legittimi non sono soddisfatti nel caso di un giornalista che entra illegalmente in Svizzera insieme a un gruppo di rifugiati per raccogliere informazioni di "prima mano".»
+**DTF 130 I 369** del 7 luglio 2004
+L'impedimento poliziesco dell'accesso a Davos in occasione del Forum economico mondiale lede un giornalista nella libertà personale nonché nella libertà di opinione, di informazione e di stampa. La libertà di informazione comprende anche il diritto a procurarsi informazioni senza impedimenti.
 
-**BGE 127 IV 122** del 1° gennaio 2001
-Istigazione alla violazione del segreto d'ufficio da parte di un giornalista.
-La libertà dei media non giustifica l'istigazione a reati per la raccolta di informazioni.
+> «L'impedimento poliziesco dell'accesso a Davos in occasione del Forum economico mondiale 2001 lede il giornalista interessato nella libertà personale nonché nella libertà di opinione, di informazione e di stampa.»
 
-> «Un'istigazione alla violazione del segreto d'ufficio non può essere giustificata né dalla libertà dei media né da pretesi doveri professionali giornalistici.»
+### Divieto di censura (art. 17 cpv. 2 Cost.)
 
-## Cronaca giudiziaria e pubblicità della giustizia
+**DTF 141 I 211** del 6 novembre 2015
+I divieti di pubblicazione penali rivolti ai media sono ammissibili solo in presenza di una base legale sufficiente. Il divieto generale di pubblicare determinate informazioni su un imputato costituisce una censura inammissibile.
 
-**BGE 143 I 194** del 22 febbraio 2017
-Esclusione di cronisti giudiziari accreditati da udienza d'appello e pronuncia del verdetto.
-L'esclusione completa dei media viola l'art. 17 Cost. in modo sproporzionato, se sono disponibili misure di protezione meno estese.
+> «Il divieto pronunciato dal giudice penale nei confronti dei cronisti di tribunale sotto minaccia di multa disciplinare, di pubblicare determinate informazioni sull'imputato, era inammissibile per mancanza di una base legale sufficiente.»
 
-> «Il significato per lo Stato di diritto e democratico del principio della pubblicità della giustizia impone di ammettere un'esclusione del pubblico e degli operatori dei media nei procedimenti penali giudiziari solo in modo molto restrittivo, dunque in presenza di interessi contrari prevalenti.»
+**DTF 137 I 209** del 14 luglio 2011
+Le condizioni per l'accesso dei media alle udienze sono ammissibili se proporzionate. Il giornalista che non rispetta le disposizioni del tribunale può essere escluso dal procedimento.
 
-**BGE 141 I 211** del 6 novembre 2015
-Divieto di pubblicazione per cronisti giudiziari sotto minaccia di multa disciplinare.
-Le limitazioni della cronaca giudiziaria richiedono una base legale sufficiente.
+> «Il cronista che non si sottopone alla disposizione del tribunale per l'accesso al dibattimento principale (qui: il mantenimento dell'anonimato dei partecipanti al procedimento) può essere escluso dal medesimo.»
 
-> «Il divieto pronunciato dal giudice penale nei confronti dei cronisti giudiziari sotto minaccia di multa disciplinare di pubblicare determinate informazioni sull'imputato era inammissibile per mancanza di base legale sufficiente.»
+### Segreto redazionale (art. 17 cpv. 3 Cost.)
 
-**BGE 137 I 209** del 14 luglio 2011
-Esclusione di un rappresentante dei media per mancato rispetto delle condizioni giudiziarie.
-L'esclusione dalla cronaca giudiziaria costituisce un grave intervento nell'art. 17 Cost.
+**DTF 140 IV 108** del 22 luglio 2014
+Il divieto di sequestro dell'art. 264 cpv. 1 lett. c CPP non comprende soltanto i documenti presso l'operatore dei media, ma anche quelli presso l'imputato o presso terzi. Il segreto redazionale protegge l'intero traffico tra imputati e operatori dei media.
 
-> «Il cronista che non si sottomette alla condizione giudiziaria per l'accesso al dibattimento principale (qui: il mantenimento dell'anonimato dei partecipanti al procedimento) può esserne escluso.»
+> «Il divieto di sequestro non comprende soltanto i documenti che si trovano presso l'operatore dei media, ma anche quelli che si trovano presso l'imputato o presso terzi.»
 
-## Segreto redazionale e protezione delle fonti
+**DTF 132 I 181** dell'11 maggio 2006
+La protezione delle fonti può essere violata solo in presenza di uno straordinario interesse pubblico. L'interesse al chiarimento di un delitto contro la vita non giustifica senz'altro la rivelazione di fonti giornalistiche.
 
-**BGE 140 IV 108** del 1° gennaio 2014
-Divieto di sequestro per documenti dal traffico tra imputato e operatori dei media.
-L'art. 17 cpv. 3 Cost. protegge non solo la comunicazione che si trova presso l'operatore dei media, ma anche quella presso l'imputato o presso terzi.
+> «L'interesse al chiarimento del delitto contro la vita qui in questione non presenta quel peso straordinario che permetterebbe di obbligare il giornalista a rivelare le sue fonti di informazione.»
 
-> «Il divieto di sequestro non comprende solo i documenti che si trovano presso l'operatore dei media, ma anche quelli che si trovano presso l'imputato o presso terzi.»
+### Giustificazione tramite libertà dei media
 
-**BGE 132 I 181** del 1° gennaio 2006
-Rifiuto di rivelare le fonti da parte di giornalisti in procedimento per omicidio.
-Il segreto redazionale può essere infranto solo in presenza di interessi straordinariamente gravi.
+**DTF 127 IV 122** dell'11 ottobre 2001
+La libertà dei media non giustifica l'istigazione alla violazione del segreto d'ufficio. L'attività giornalistica non legittima di per sé la ricerca illecita di informazioni.
 
-> «L'interesse alla chiarificazione del reato di omicidio qui in questione non presenta quel peso straordinario che permetterebbe di obbligare il giornalista a rivelare le sue fonti di informazione.»
+> «Un'istigazione alla violazione del segreto d'ufficio non può essere giustificata né dalla libertà dei media né da presunti doveri professionali giornalistici.»
 
-## Divieto di censura
+**DTF 127 IV 166** dell'11 ottobre 2001
+L'ingresso illecito di un giornalista per procurarsi informazioni non può essere giustificato dalla libertà di stampa. La tutela di interessi legittimi presuppone mezzi proporzionati.
 
-**BGE 138 I 274** del 3 luglio 2012
-Divieto di affissione per manifesti di politica estera nella stazione.
-Il divieto di censura comprende anche il controllo preventivo di espressioni di opinioni.
+> «I presupposti del motivo di giustificazione extralegale della tutela di interessi legittimi non sono adempiuti nel caso di un giornalista che entra illecitamente in Svizzera insieme a un gruppo di rifugiati.»
 
-> «Il divieto pronunciato dal giudice penale nei confronti dei cronisti giudiziari sotto minaccia di multa disciplinare di pubblicare determinate informazioni sull'imputato era inammissibile per mancanza di base legale sufficiente.»
+### Cronaca giudiziaria e pubblicità della giustizia
 
-## Libertà radiotelevisiva e accesso ai media
+**DTF 143 I 194** del 22 febbraio 2017
+L'esclusione dei media dalle udienze è ammissibile solo in presenza di interessi contrari preponderanti. Il significato democratico e di Stato di diritto della pubblicità della giustizia impone un'applicazione restrittiva.
 
-**BGE 136 I 167** del 10 dicembre 2009
-Rifiuto dell'accesso ai programmi della SSR.
-Nessun «diritto all'antenna» di principio, ma divieto di discriminazione nell'accesso.
+> «Il significato democratico e di Stato di diritto del principio della pubblicità della giustizia impone di ammettere un'esclusione del pubblico e degli operatori dei media nei procedimenti penali soltanto in modo molto restrittivo, cioè in presenza di interessi contrari preponderanti.»
 
-> «Conferma della giurisprudenza secondo cui solo eccezionalmente esiste un "diritto all'antenna". Se in relazione all'accesso al programma si deve affermare un pregiudizio di interessi costituzionalmente protetti, si applicano gli art. 8 e 35 Cost.»
+**DTF 147 I 463** del 26 maggio 2021
+Il principio della pubblicità della giustizia non conferisce agli operatori dei media alcun diritto di consultare gli atti di procedimenti penali conclusi. La libertà dei media si limita alla cronaca su udienze pubbliche.
 
-## Rapporto con il principio di pubblicità
+> «Il principio della pubblicità della giustizia e il diritto legale di pubblicità non costituiscono una base sufficiente per un diritto di consultazione degli atti in un procedimento penale concluso.»
 
-**BGE 142 II 313** del 18 maggio 2016
-Accesso a documenti dell'amministrazione fiscale basato sul principio di pubblicità.
-L'art. 17 Cost. rafforza la ricerca giornalistica nel quadro della legge sulla trasparenza.
+### Libertà di radiodiffusione
 
-> «Secondo la legge sulla trasparenza della Confederazione esiste un diritto soggettivo di accesso ai documenti ufficiali delle unità amministrative della Confederazione con riserva delle eccezioni legali.»
+**DTF 136 I 167** del 10 dicembre 2009
+Un diritto di antenna esiste solo eccezionalmente. Il rifiuto dell'accesso a programmi di diritto pubblico è contrario alla Costituzione solo in caso di discriminazione o trattamento arbitrario.
 
-**BGE 144 II 77** del 27 settembre 2017
-Consultazione della banca dati eventi delle imprese di trasporto.
-Gli interessi dei media devono essere considerati nella ponderazione degli interessi nel diritto della trasparenza.
+> «Conferma della giurisprudenza secondo cui solo eccezionalmente esiste un 'diritto di antenna'. Se in relazione all'accesso al programma è immaginabile un pregiudizio di posizioni costituzionalmente protette, deve aver luogo una ponderazione caso per caso.»
 
-> «Perché un fatto di segretezza secondo l'art. 7 cpv. 1 LTras si applichi, la violazione di interessi pubblici o privati che minaccia in caso di concessione dell'accesso deve essere seria e verificarsi con una certa probabilità.»
+### Libertà di informazione e principio di pubblicità
 
-**BGE 147 II 408** del 14 giugno 2021
-Domanda di informazione di un giornalista su registrazioni SIS.
-Anche l'informazione su dati personali può servire scopi giornalistici.
+**DTF 142 II 313** del 18 maggio 2016
+L'art. 17 Cost. è strettamente connesso al principio di pubblicità dell'amministrazione. La libertà di informazione dei media è concretizzata dalla Legge federale sul principio di pubblicità dell'amministrazione.
 
-> «Sulla comunicazione di informazioni decide l'Ufficio federale di polizia (fedpol) secondo gli art. 8 e 9 LPD in connessione con l'art. 58 decisione SIS-II risp. art. 41 ordinanza SIS-II.»
+> «Secondo la Legge sulla trasparenza della Confederazione esiste un diritto soggettivo di accesso ai documenti ufficiali delle unità amministrative della Confederazione sotto riserva delle eccezioni legali.»
 
-## Rapporto con altri diritti fondamentali
+**DTF 127 I 145** del 27 giugno 2001
+La libertà di informazione non conferisce alcun diritto generale di procurarsi informazioni da fonti non generalmente accessibili. L'accesso ad atti penali archiviati non è compreso nella libertà dei media.
 
-**BGE 127 I 145** del 27 giugno 2001
-Consultazione di atti penali archiviati da parte di operatori dei media.
-La libertà di informazione non conferisce un diritto generale a informazioni non generalmente accessibili.
-
-> «La libertà di informazione e di scienza non concedono un diritto generale all'acquisizione di informazioni da fonti non generalmente accessibili.»
-
-**BGE 132 III 641** del 22 maggio 2006
-Violazione della personalità attraverso trasmissione di informazioni ai media.
-La libertà dei media può giustificare una violazione della personalità se esiste un interesse pubblico prevalente.
-
-> «Il servizio a un giornalista freelance e alla Televisione Svizzera SFDRS con documenti del tipo menzionato in un momento in cui diverse associazioni specialistiche mediche e enti pubblici avevano già avviato accertamenti era giustificato dall'interesse pubblico.»
-
-## Sviluppi recenti
-
-**Sentenza 6B_169/2019** del 26 febbraio 2020
-Libertà dei media nella diffusione di materiale di propaganda.
-Anche i contenuti estremistici sono in linea di principio sotto la protezione della libertà dei media, ma sottostanno ai limiti del diritto penale.
-
-> La decisione riguarda la delimitazione tra libertà dei media e diritto penale nella diffusione di contenuti terroristici.
+> «La libertà di informazione e di scienza non conferiscono alcun diritto generale di procurarsi informazioni da fonti non generalmente accessibili.»
