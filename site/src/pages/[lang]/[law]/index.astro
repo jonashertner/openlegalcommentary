@@ -1,25 +1,27 @@
 ---
-// site/src/pages/[law]/index.astro
-import { BASE, HOME } from '@/lib/base';
-import Base from '../../layouts/Base.astro';
-import Breadcrumb from '../../components/Breadcrumb.astro';
-import SearchBar from '../../components/SearchBar.astro';
-import { LAWS, getLawByAbbr } from '../../lib/laws';
-import { listArticles, getLawStats } from '../../lib/content';
+// site/src/pages/[lang]/[law]/index.astro
+import { LANGS, type Lang, t } from '@/lib/i18n';
+import { langBase, langHome } from '@/lib/base';
+import Base from '../../../layouts/Base.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import SearchBar from '../../../components/SearchBar.astro';
+import { LAWS, getLawByAbbr } from '../../../lib/laws';
+import { listArticles, getLawStats } from '../../../lib/content';
 import fs from 'node:fs';
 import path from 'node:path';
 
 export function getStaticPaths() {
-  return LAWS.map((law) => ({
-    params: { law: law.abbr.toLowerCase() },
-  }));
+  const laws = ['bv', 'zgb', 'or', 'zpo', 'stgb', 'stpo', 'schkg', 'vwvg'];
+  return LANGS.flatMap(lang =>
+    laws.map(law => ({ params: { lang, law } }))
+  );
 }
 
-const { law: lawParam } = Astro.params;
+const { lang, law: lawParam } = Astro.params as { lang: Lang; law: string };
 const lawInfo = getLawByAbbr(lawParam!);
 
 if (!lawInfo) {
-  return Astro.redirect(HOME);
+  return Astro.redirect(langHome(lang));
 }
 
 const articles = listArticles(lawInfo.abbr);
@@ -47,8 +49,6 @@ try {
 const headingsBefore = new Map<number, StructureEntry[]>();
 
 if (structure.length > 0) {
-  // Entries without 'from' are pure headings (e.g. "2. Titel" without articles)
-  // Entries with 'from' mark where articles begin under that heading
   for (const entry of structure) {
     if (entry.from != null) {
       if (!headingsBefore.has(entry.from)) {
@@ -58,18 +58,15 @@ if (structure.length > 0) {
     }
   }
 
-  // Pure headings (no from/to) should appear before the next entry that has a 'from'
   for (let i = 0; i < structure.length; i++) {
     const entry = structure[i];
     if (entry.from == null) {
-      // Find the next entry with a 'from'
       for (let j = i + 1; j < structure.length; j++) {
         if (structure[j].from != null) {
           const key = structure[j].from!;
           if (!headingsBefore.has(key)) {
             headingsBefore.set(key, []);
           }
-          // Insert before existing entries at this position
           headingsBefore.get(key)!.unshift(entry);
           break;
         }
@@ -77,13 +74,10 @@ if (structure.length > 0) {
     }
   }
 }
-
-// Also handle Gemeinden article (Art. 50) which falls between sections
-// by checking for gaps in the structure
 ---
 
-<Base title={`${lawInfo.abbr} — ${lawInfo.name}`} description={lawInfo.fullTitle}>
-  <Breadcrumb items={[{ label: lawInfo.abbr }]} />
+<Base title={`${lawInfo.abbr} — ${lawInfo.name}`} lang={lang} pagePath={`/${lawParam}`} description={lawInfo.fullTitle}>
+  <Breadcrumb lang={lang} items={[{ label: lawInfo.abbr }]} />
 
   <header class="law-header">
     <div class="law-header-top">
@@ -92,11 +86,11 @@ if (structure.length > 0) {
     </div>
     <p class="law-full-title text-secondary">{lawInfo.fullTitle}</p>
     <div class="law-meta text-sm text-muted font-heading">
-      <span>{stats.totalArticles} Artikel</span>
+      <span>{stats.totalArticles} {t('home.stat.articles', lang)}</span>
       {stats.withContent > 0 && (
         <>
           <span>&middot;</span>
-          <span>{stats.withContent} kommentiert</span>
+          <span>{stats.withContent} {t('law.articles_with_commentary', lang)}</span>
         </>
       )}
     </div>
@@ -111,11 +105,11 @@ if (structure.length > 0) {
   </header>
 
   <div class="law-search">
-    <SearchBar placeholder={`In ${lawInfo.abbr} suchen — z.B. "Haftung" oder "Art. 41"`} />
+    <SearchBar placeholder={`${lawInfo.abbr} — Art. 41`} />
   </div>
 
   <section class="toc">
-    <h2>Inhaltsverzeichnis</h2>
+    <h2>{t('article.toc', lang)}</h2>
 
     <ul class="toc-list">
       {articles.map((art) => {
@@ -124,7 +118,6 @@ if (structure.length > 0) {
         const hasContent = Object.keys(art.meta.layers).length > 0;
         const artNum = art.meta.article;
 
-        // Check if there are structural headings before this article
         const headings = headingsBefore.get(artNum) || [];
 
         return (
@@ -139,10 +132,10 @@ if (structure.length > 0) {
               );
             })}
             <li class:list={['toc-item', { 'has-content': hasContent }]}>
-              <a href={`${BASE}/${lawParam}/${art.slug}`}>
+              <a href={`${langBase(lang)}/${lawParam}/${art.slug}`}>
                 <span class="toc-num font-mono">Art.&nbsp;{displayNum}</span>
                 <span class="toc-title">{art.meta.title}</span>
-                {hasContent && <span class="toc-badge" title="Kommentiert">●</span>}
+                {hasContent && <span class="toc-badge" title="Kommentiert">&#9679;</span>}
               </a>
             </li>
           </>

@@ -1,12 +1,18 @@
 ---
-// site/src/pages/changelog.astro
-import { BASE } from '@/lib/base';
-import Base from '../layouts/Base.astro';
-import Breadcrumb from '../components/Breadcrumb.astro';
+// site/src/pages/[lang]/changelog.astro
+import { LANGS, type Lang, t } from '@/lib/i18n';
+import { langBase } from '@/lib/base';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
 import fs from 'node:fs';
 import path from 'node:path';
 import yaml from 'js-yaml';
-import type { ArticleMeta, LayerMeta } from '../lib/content';
+import type { ArticleMeta, LayerMeta } from '../../lib/content';
+
+export function getStaticPaths() {
+  return LANGS.map(lang => ({ params: { lang } }));
+}
+const { lang } = Astro.params as { lang: Lang };
 
 const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../../content');
 
@@ -79,26 +85,25 @@ for (const change of changes) {
 
 const dates = Array.from(byDate.keys()).sort().reverse();
 
-const layerLabels: Record<string, string> = {
-  summary: 'Übersicht',
-  doctrine: 'Doktrin',
-  caselaw: 'Rechtsprechung',
+const layerLabels: Record<string, Record<Lang, string>> = {
+  summary: { de: 'Übersicht', fr: 'Aperçu', it: 'Panoramica', en: 'Overview' },
+  doctrine: { de: 'Doktrin', fr: 'Doctrine', it: 'Dottrina', en: 'Doctrine' },
+  caselaw: { de: 'Rechtsprechung', fr: 'Jurisprudence', it: 'Giurisprudenza', en: 'Case Law' },
 };
 ---
 
-<Base title="Änderungen" description="Tägliches Änderungsprotokoll der Kommentare.">
-  <Breadcrumb items={[{ label: 'Änderungen' }]} />
+<Base title={t('changelog.title', lang)} lang={lang} pagePath="/changelog" description="Tägliches Änderungsprotokoll der Kommentare.">
+  <Breadcrumb lang={lang} items={[{ label: t('changelog.title', lang) }]} />
 
   <article class="changelog-page content-column">
     <header class="changelog-header animate-fade-up">
-      <h1 class="display-font">Änderungen</h1>
+      <h1 class="display-font">{t('changelog.title', lang)}</h1>
       <span class="accent-line-wide"></span>
-      <p class="text-secondary">Änderungsprotokoll aller Kommentar-Updates.</p>
     </header>
 
     {dates.length === 0 ? (
       <div class="changelog-empty animate-fade-up delay-1">
-        <p class="text-muted">Noch keine Änderungen erfasst. Kommentare werden täglich generiert und aktualisiert.</p>
+        <p class="text-muted">{t('changelog.empty', lang)}</p>
       </div>
     ) : (
       dates.map((date) => {
@@ -109,13 +114,13 @@ const layerLabels: Record<string, string> = {
             <ul class="changelog-entries">
               {entries.map((entry) => (
                 <li>
-                  <a href={`${BASE}/${entry.law.toLowerCase()}/${entry.slug}?layer=${entry.layer}`}>
+                  <a href={`${langBase(lang)}/${entry.law.toLowerCase()}/${entry.slug}?layer=${entry.layer}`}>
                     <span class="change-law font-heading">{entry.law}</span>
                     <span class="change-article">
                       Art.&nbsp;{entry.article}{entry.suffix}
                     </span>
                     <span class="change-layer text-sm text-muted">
-                      {layerLabels[entry.layer] || entry.layer}
+                      {layerLabels[entry.layer]?.[lang] || entry.layer}
                     </span>
                     <span class="change-version text-xs font-mono text-muted">
                       v{entry.version}

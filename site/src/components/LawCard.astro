@@ -1,16 +1,18 @@
 ---
 // site/src/components/LawCard.astro
-import { BASE } from '@/lib/base';
+import { type Lang } from '@/lib/i18n';
+import { langBase } from '@/lib/base';
 import type { LawInfo } from '../lib/laws';
 import type { LawStats } from '../lib/content';
 
 export interface Props {
+  lang: Lang;
   law: LawInfo;
   stats: LawStats;
 }
 
-const { law, stats } = Astro.props;
-const href = `${BASE}/${law.abbr.toLowerCase()}`;
+const { lang, law, stats } = Astro.props;
+const href = `${langBase(lang)}/${law.abbr.toLowerCase()}`;
 ---
 
 <a href={href} class="law-card">

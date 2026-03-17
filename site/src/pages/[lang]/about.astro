@@ -1,9 +1,15 @@
 ---
-// site/src/pages/about.astro
-import Base from '../layouts/Base.astro';
-import Breadcrumb from '../components/Breadcrumb.astro';
+// site/src/pages/[lang]/about.astro
+import { LANGS, type Lang, t } from '@/lib/i18n';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
 import fs from 'node:fs';
 import path from 'node:path';
+
+export function getStaticPaths() {
+  return LANGS.map(lang => ({ params: { lang } }));
+}
+const { lang } = Astro.params as { lang: Lang };
 
 const guidelinesPath = path.resolve(import.meta.dirname, '../../../guidelines/global.md');
 let guidelinesContent = '';
@@ -17,12 +23,12 @@ const leitbildMatch = guidelinesContent.match(/## Leitbild\n\n([\s\S]*?)(?=\n---
 const leitbild = leitbildMatch ? leitbildMatch[1].trim() : '';
 ---
 
-<Base title="Über uns" description="Mission, Methodik und Richtlinien von Open Legal Commentary.">
-  <Breadcrumb items={[{ label: 'Über uns' }]} />
+<Base title={t('about.title', lang)} lang={lang} pagePath="/about" description="Mission, Methodik und Richtlinien von Open Legal Commentary.">
+  <Breadcrumb lang={lang} items={[{ label: t('about.title', lang) }]} />
 
   <article class="about-page content-column">
     <header class="about-header animate-fade-up">
-      <h1 class="display-font">Über das Projekt</h1>
+      <h1 class="display-font">{t('about.title', lang)}</h1>
       <span class="accent-line-wide"></span>
     </header>
 
