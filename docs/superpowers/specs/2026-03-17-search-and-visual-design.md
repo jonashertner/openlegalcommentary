@@ -65,16 +65,31 @@ BGE references like "BGE 130 III 182" naturally appear in caselaw layer content.
 
 ### Multilingual search
 
-Pagefind supports multilingual indexing. Each language version of an article page is a separate static page with `<html lang={lang}>`, so Pagefind creates per-language index segments. The search UI filters by current page language by default, with an option to search across all languages.
+Pagefind supports multilingual indexing. Each language version of an article page is a separate static page with `<html lang={lang}>`, so Pagefind creates per-language index segments.
+
+**Language filtering:** Pagefind does NOT auto-filter by page language. The `SearchModal` JS must explicitly:
+1. Read `document.documentElement.lang` to get the current language
+2. Pass `{ filters: { language: currentLang } }` to `pagefind.search()` calls
+3. Provide a toggle to "search all languages" which removes the filter
+
+Each indexed page must emit `data-pagefind-filter="language:{lang}"` on the content area (e.g., `<article data-pagefind-body data-pagefind-filter="language:de">`).
 
 ### Integration
 
-- Add `pagefind` as a dev dependency in `site/package.json`
+- Add `pagefind` as a pinned dev dependency in `site/package.json` (e.g., `"pagefind": "^1.3.0"`)
 - Add post-build step: `"postbuild": "pagefind --site dist"`
+- **Important:** always use `npm run build` (not `astro build` directly) to ensure postbuild runs
 - Replace `SearchBar.astro` with new `SearchModal.astro` component
 - Add search trigger button in `Header.astro` (magnifying glass icon + "⌘K" badge)
 - Remove `scripts/generate_search_index.py` and the `prebuild` step (Pagefind replaces it)
 - Remove `site/public/search-index.json`
+
+### Dev mode
+
+Pagefind only works post-build — the index doesn't exist during `npm run dev`. The `SearchModal` must handle this gracefully:
+- Attempt to load the Pagefind JS bundle dynamically (`import('/pagefind/pagefind.js')`)
+- If the import fails, show a message: "Search available after build" (translated via `t()`)
+- No fallback to the old JSON search — keep it simple
 
 ## Part 2: Visual Design Elevation
 
@@ -103,7 +118,7 @@ Keep the current font stack (Instrument Serif, Manrope, Source Serif 4) — it's
 The warm palette is good. Additions:
 
 - **Accent gradient** (subtle): `linear-gradient(135deg, #DC2626, #B91C1C)` for hero accent line and key CTAs
-- **Glass tint** for elevated surfaces: `background: color-mix(in srgb, var(--color-bg-elevated) 80%, transparent)` with `backdrop-filter: blur(12px)`
+- **Glass tint** for elevated surfaces: `background: color-mix(in srgb, var(--color-bg-elevated) 80%, transparent)` with `backdrop-filter: blur(12px)`. In dark mode, use 65% opacity with a slightly lightened elevated color to preserve the frosted glass effect
 - **Hover states:** Subtle warm tint (`background: color-mix(in srgb, var(--color-accent) 4%, var(--color-bg))`) instead of flat gray shifts
 - **Dark mode polish:** Slightly warmer darks, accent red brightened for contrast
 
@@ -115,7 +130,7 @@ The warm palette is good. Additions:
 - Sticky header: add a subtle bottom shadow on scroll (not visible at top)
 
 **Home page:**
-- Hero: larger vertical padding (space-12 → space-16), let the typography breathe
+- Hero: larger vertical padding (add `--space-16: 12rem` token to `global.css`), let the typography breathe
 - Laws grid: 3 columns on desktop (currently 2), each card gets a subtle top accent border on hover
 - Stats: larger numbers, use Instrument Serif for the stat values (numbers in serif = premium feel)
 - Add a subtle grid pattern or Swiss cross watermark at very low opacity in the hero background
@@ -128,7 +143,7 @@ The warm palette is good. Additions:
 **Article page:**
 - Tab bar: bottom border becomes a thin accent underline that slides to the active tab (CSS transition on a pseudo-element)
 - Gesetzestext panel: slightly elevated with shadow-sm, warm card background
-- Reading progress bar: thin (2px) accent line at top of viewport
+- Reading progress bar: refine existing implementation (currently 3px) to 2px with accent gradient
 - Randziffern (N. 1, N. 2): styled as elegant sidebar markers
 
 **About/Changelog:**
@@ -167,7 +182,7 @@ The warm palette is good. Additions:
 - **Page transitions:** Subtle fade (opacity 0→1, 200ms) on navigation via View Transitions API (Astro supports this natively)
 - **Scroll-triggered animations:** Elements fade in as they enter viewport (IntersectionObserver), staggered for lists
 - **Hover effects:** Smooth, 150ms ease-out. Cards lift slightly (translateY(-2px) + shadow increase)
-- **Active tab indicator:** Slides horizontally to follow the active tab (CSS transition on transform)
+- **Active tab indicator:** Slides horizontally to follow the active tab. Uses JS to measure each tab's `offsetLeft` and `width`, then sets `transform: translateX()` and `width` on a `::after` pseudo-element. Required because tab label widths vary across languages (DE "Übersicht" vs EN "Overview")
 - **Search modal:** Scales in from 0.96 with opacity (200ms, ease-out)
 - **Reduced motion:** All animations respect `prefers-reduced-motion: reduce`
 
@@ -187,3 +202,19 @@ The warm palette is good. Additions:
 - Pagefind is the only new dependency
 - View Transitions API via Astro's built-in `<ViewTransitions />` component
 - All visual changes are CSS-only where possible
+
+### View Transitions + Pagefind re-initialization
+
+Astro's View Transitions performs client-side DOM swaps. Pagefind's JS needs to be re-initialized after each navigation because `DOMContentLoaded` does not re-fire. The `SearchModal` must:
+- Listen for `astro:page-load` event (fires on initial load AND after each view transition)
+- Re-initialize the Pagefind connection and modal event listeners on each `astro:page-load`
+- Use `astro:page-load` consistently across all client-side scripts (theme toggle, search modal, tab indicator, etc.)
+
+### Implementation order
+
+These specs must be implemented in this order:
+1. **i18n route restructure** — move pages under `[lang]/`, create `i18n.ts`, update all components
+2. **Search** — add Pagefind and `SearchModal` (replaces old `SearchBar`)
+3. **Visual design** — CSS refinements, animations, View Transitions
+
+The i18n LanguageSwitcher redesign (from buttons to `<a>` tags) must be done before the header visual changes.
