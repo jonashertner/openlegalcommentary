@@ -3,6 +3,7 @@
 import { type Lang, t } from '@/lib/i18n';
 import { langHome, langBase } from '@/lib/base';
 import LanguageSwitcher from './LanguageSwitcher.astro';
+import SearchModal from './SearchModal.astro';
 
 export interface Props {
   lang: Lang;
@@ -57,6 +58,7 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
       </button>
     </div>
   </div>
+  <SearchModal lang={lang} />
 </header>
 
 <style>
