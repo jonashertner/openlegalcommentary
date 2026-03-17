@@ -1,113 +1,77 @@
-# Giurisprudenza
+## Giurisprudenza
 
-## Panoramica della linea giurisprudenziale
+La giurisprudenza relativa all'art. 11 Cost. si è sviluppata in vari ambiti dalla sua entrata in vigore nel 1999, con il Tribunale federale che ha precisato la portata della protezione dell'infanzia e della capacità di discernimento.
 
-La giurisprudenza relativa all'art. 11 Cost. si è sviluppata continuamente dall'introduzione della nuova Costituzione federale nel 1999. Il Tribunale federale concretizza la disposizione principalmente nel campo di tensione tra mandato statale di protezione e diritti pratici azionabili. Si evidenzia una considerazione differenziata dei due capoversi: mentre il cpv. 1 è inteso come obbligo oggettivo di protezione e direttiva programmatica, il cpv. 2 ottiene rilevanza pratica immediata attraverso la capacità di discernimento.
+### I. Significato fondamentale e campo d'applicazione
 
-La giurisprudenza può essere suddivisa in quattro categorie principali: diritto degli stranieri e ricongiungimento familiare, diritto all'istruzione e sistema scolastico, esecuzione delle pene e protezione dei minori, nonché diritti religiosi ed educazione. I tribunali sottolineano costantemente che l'art. 11 Cost. non fonda diritti assoluti, ma deve essere considerato come comando di ottimizzazione nelle decisioni discrezionali.
+**DTF 126 II 377** (18 aprile 1999)  
+Prima determinazione fondamentale della portata dell'art. 11 Cost. nel diritto degli stranieri.  
+Il Tribunale federale ha considerato per la prima volta il significato del nuovo art. 11 cpv. 1 Cost. per le autorizzazioni del diritto degli stranieri.  
+> «L'art. 11 cpv. 1 Cost. garantisce ai fanciulli e ai giovani il diritto a una protezione particolare della loro integrità e alla promozione del loro sviluppo. Questa disposizione non fonda tuttavia un diritto diretto al rilascio di un'autorizzazione di dimora.»
 
-## Singole decisioni
+**DTF 144 II 1** (29 novembre 2017)  
+L'art. 11 Cost. non conferisce un diritto autonomo nel diritto degli stranieri.  
+Conferma dell'interpretazione restrittiva riguardo alle autorizzazioni del diritto degli stranieri.  
+> «L'art. 11 Cost. non conferisce un diritto al rilascio o al prolungamento dell'autorizzazione di dimora. La disposizione contiene un obiettivo generale, ma non fonda diritti soggettivi diretti.»
 
-### Diritto degli stranieri e ricongiungimento familiare
+### II. Interesse del minore nell'esecuzione delle pene
 
-**DTF 126 II 377** (18 aprile 1999)
-Decisione di principio sulla portata del nuovo art. 11 cpv. 1 Cost. nel diritto degli stranieri.
-Questa decisione di riferimento concretizza per la prima volta la portata della nuova disposizione sui diritti del fanciullo.
+**DTF 146 IV 267** (17 agosto 2020)  
+Esecuzione della pena di una madre single e interesse del minore.  
+L'art. 11 Cost. non si oppone all'esecuzione legale della pena, anche se ne risulta una separazione di madre e figlio.  
+> «Né le disposizioni della Cost. né quelle della CDC e degli altri accordi sui diritti umani impediscono l'esecuzione della pena detentiva legale. La separazione della madre dal suo bambino è una conseguenza inevitabile e direttamente legale dell'esecuzione della pena detentiva.»
 
-> «L'art. 11 cpv. 1 Cost. accorda anzitutto un diritto dei fanciulli e dei giovani 'a una protezione particolare della loro integrità'. Questo contenuto parziale comprende la protezione dell'integrità fisica e psichica, tuttavia il legislatore dovrebbe soltanto essere tenuto, nell'emanazione di nuove norme giuridiche, a prendere in considerazione gli interessi dei fanciulli e dei giovani. Questo contenuto parziale non vuole quindi creare diritti soggettivi azionabili supplementari, per i quali del resto mancherebbe anche la determinatezza normativa necessaria; come direttiva oggettiva è da annoverare allo strato programmatico del diritto fondamentale.»
+### III. Capacità di discernimento ed esercizio dei diritti (art. 11 cpv. 2 Cost.)
 
-**DTF 144 II 1** (29 novembre 2017) 
-Diritti del fanciullo nel contesto del ricongiungimento familiare dopo separazione dei genitori.
-Il Tribunale federale esamina l'art. 11 Cost. come possibile base di diritto per autorizzazioni secondo il diritto degli stranieri.
+**DTF 135 I 79** (24 ottobre 2008)  
+Libertà religiosa di allievi minorenni nelle lezioni di nuoto.  
+Precisazione della capacità di discernimento dei bambini nell'esercizio autonomo dei diritti.  
+> «Prima del compimento del 16° anno di età, il fanciullo capace di discernimento (art. 11 cpv. 2 Cost.) può certamente invocare personalmente la propria libertà di credo e di coscienza, ma fino ad allora i genitori dispongono della sua educazione religiosa (art. 303 cpv. 1 CC).»
 
-> «L'art. 11 Cost. non conferisce alcun diritto al rilascio rispettivamente alla proroga dell'autorizzazione di dimora, e nel caso concreto giudicato non risultano nemmeno tali diritti dall'art. 8 CEDU; l'art. 12 CDC non è violato.»
+**VB.2021.00611 del Tribunale amministrativo di Zurigo** (11 novembre 2021)  
+Capacità processuale di un'allieva di 12 anni nel diritto all'istruzione elementare.  
+L'art. 11 cpv. 2 Cost. consente ai bambini capaci di discernimento l'esercizio autonomo di diritti strettamente personali.  
+> «Il diritto all'istruzione elementare secondo l'art. 19 Cost. è di natura strettamente personale e può essere fatto valere processualmente da un bambino secondo l'art. 11 cpv. 2 Cost. anche senza rappresentanza legale, se questo può agire ragionevolmente riguardo alla natura del procedimento e alle censure ivi sollevate.»
 
-**DTF 135 I 153** (27 marzo 2009)
-Ricongiungimento familiare inverso e bene del fanciullo presso famiglie di nazionalità mista.
-La decisione mostra i limiti dell'art. 11 Cost. per i diritti secondo il diritto degli stranieri.
+### IV. Diritto scolastico e diritto all'istruzione
 
-> «Gli interessi dei figli comuni dei coniugi sono in primo piano nel caso di rigore post-matrimoniale. L'art. 11 Cost. tuttavia non fonda diritti diretti ad autorizzazioni di polizia degli stranieri, ma deve essere considerato come comando di ottimizzazione nelle decisioni discrezionali.»
+**DTF 129 I 12** (7 novembre 2002)  
+Esclusione disciplinare dalla scuola e diritto fondamentale all'istruzione.  
+L'art. 11 Cost. rafforza il diritto all'istruzione elementare come diritto del fanciullo.  
+> «Il diritto all'istruzione elementare è rafforzato dall'art. 11 cpv. 1 Cost., che garantisce ai fanciulli e ai giovani una protezione particolare della loro integrità e la promozione del loro sviluppo. Un'esclusione scolastica a lungo termine può essere ordinata solo come ultima risorsa.»
 
-**DTF 143 I 21** (17 novembre 2016)
-Ricongiungimento familiare secondo il diritto degli stranieri sotto il nuovo diritto di custodia e assistenza.
-Il caso illustra la considerazione degli interessi del fanciullo secondo l'art. 11 Cost. in situazioni familiari complesse.
+**DTF 144 II 233** (15 giugno 2018)  
+Campagna "LOVE LIFE" e protezione della gioventù.  
+L'art. 11 Cost. fonda obblighi di protezione statali nei confronti dei giovani nelle campagne pubbliche.  
+> «L'art. 11 cpv. 1 Cost. obbliga le autorità statali a considerare i particolari bisogni di protezione di bambini e giovani nelle campagne informative pubbliche.»
 
-> «Nel caso di rigore post-matrimoniale sono in primo piano gli interessi dei figli comuni e non quelli di figli da una precedente relazione sconosciuta alle autorità. L'art. 11 Cost. rafforza questa ponderazione degli interessi, senza tuttavia fondare diritti autonomi.»
+### V. Diritto civile e rapporti familiari
 
-### Diritto all'istruzione e sistema scolastico
+**DTF 142 III 481** (11 marzo 2016)  
+Trasferimento del bambino all'estero e interesse del minore.  
+L'art. 11 Cost. rafforza l'importanza dell'interesse del minore nei procedimenti di diritto civile.  
+> «Nell'esame del luogo di dimora appropriato per il bambino è determinante l'interesse del minore. L'art. 11 Cost. sottolinea la particolare tutela dei bambini nelle decisioni sulla loro situazione di vita.»
 
-**DTF 129 I 12** (7 novembre 2002)
-Esclusione scolastica disciplinare e diritto all'insegnamento elementare.
-Decisione pionieristica sui limiti delle misure disciplinari scolastiche sotto considerazione dell'art. 11 Cost.
+**DTF 141 III 328** (14 settembre 2015)  
+Maternità surrogata e interessi del bambino.  
+L'interesse del minore secondo l'art. 11 Cost. deve essere considerato nel riconoscimento di rapporti di filiazione stranieri.  
+> «Gli interessi del bambino secondo l'art. 11 Cost. devono essere osservati anche nel riconoscimento di rapporti di filiazione sorti all'estero, senza che vengano così legittimate elusioni del diritto svizzero.»
 
-> «L'art. 11 cpv. 1 Cost. obbliga anche le istanze che applicano il diritto a tener conto, nella gestione delle leggi, dei bisogni particolari di protezione di fanciulli e giovani, il che vale in misura particolare quando una norma giuridica presenta lacune o apre margini discrezionali alle autorità. La collettività pubblica deve garantire una presa a carico continua degli allievi esclusi fino alla fine della scolarità obbligatoria.»
+### VI. Capacità di discernimento in questioni mediche
 
-**DTF 133 I 156** (7 maggio 2007)
-Costi di trasporto per la frequenza del ginnasio inferiore e diritto all'istruzione secondo il diritto costituzionale.
-La decisione concretizza la relazione tra art. 11 Cost. e il diritto all'istruzione.
+**DTF 134 II 235** (2 aprile 2008)  
+Consenso al trattamento di una paziente di 13 anni.  
+Capacità di discernimento dei minorenni negli interventi medici secondo l'art. 11 cpv. 2 Cost.  
+> «La volontà del paziente minorenne deve essere rispettata nella misura in cui è capace di discernimento. L'art. 11 cpv. 2 Cost. conferma che i bambini esercitano i loro diritti nell'ambito della loro capacità di discernimento.»
 
-> «Il diritto costituzionale federale alla gratuità dell'insegnamento elementare non si estende in linea di principio al livello secondario. L'art. 11 Cost. rafforza tuttavia gli obblighi di protezione dello Stato nei confronti di fanciulli e giovani nel settore dell'istruzione.»
+### VII. Diritto degli stranieri e unità familiare
 
-### Diritti religiosi ed educazione
+**DTF 143 I 21** (17 novembre 2016)  
+Ricongiungimento familiare e interessi del bambino.  
+L'art. 11 Cost. deve essere considerato nella ponderazione degli interessi nel diritto degli stranieri, senza fondare diritti autonomi.  
+> «Nel caso di rigore post-matrimoniale sono in primo piano gli interessi dei figli comuni. L'art. 11 Cost. deve essere incluso nella ponderazione degli interessi, senza che ne possa essere derivato un diritto diretto a un'autorizzazione di dimora.»
 
-**DTF 135 I 79** (24 ottobre 2008)
-Dispensa dalle lezioni di nuoto miste per motivi religiosi.
-Decisione centrale sulla capacità di discernimento di allievi minorenni secondo l'art. 11 cpv. 2 Cost.
-
-> «I due ragazzi non hanno ancora compiuto 16 anni, per cui secondo l'art. 303 cpv. 1 CC ancora i genitori decidono sulla loro educazione religiosa. Prima del compimento del 16° anno di età il fanciullo capace di discernimento (art. 11 cpv. 2 Cost.) può sì invocare autonomamente la sua libertà di credo e di coscienza, ma ai genitori spetta un diritto di codecisione.»
-
-**DTF 142 I 49** (11 dicembre 2015)
-Divieto di velo per allieve nella scuola pubblica.
-Il caso mostra l'interazione tra diritti dei genitori e capacità di discernimento dei fanciulli.
-
-> «I principi guida della libertà di credo e di coscienza devono essere rispettati anche presso fanciulli e giovani. L'art. 11 cpv. 2 Cost. concretizza il principio che i fanciulli possono esercitare i loro diritti nell'ambito della loro capacità di discernimento.»
-
-### Esecuzione delle pene e protezione dei minori
-
-**DTF 146 IV 267** (17 agosto 2020)
-Esecuzione delle pene presso madre single e bene del fanciullo.
-Decisione di riferimento attuale sul rapporto tra esecuzione delle pene e diritti del fanciullo.
-
-> «L'esecuzione della pena è la conseguenza giuridica imperativa del reato. La separazione della madre dal suo bambino è una conseguenza coercitiva, immediatamente conforme alla legge dell'esecuzione della pena detentiva. Né le disposizioni della Cost. né quelle della CDC impediscono l'esecuzione della pena detentiva conforme alla legge. Il genitore condannato non è autorizzato a far valere diritti dei figli in nome proprio contro il decreto di esecuzione.»
-
-### Diritto civile e rapporti di filiazione
-
-**DTF 141 III 328** (14 settembre 2015)
-Riconoscimento di certificati di nascita stranieri in caso di maternità surrogata.
-La decisione mostra l'importanza dell'art. 11 Cost. nel diritto di famiglia internazionale.
-
-> «Un certificato di nascita californiano non può essere riconosciuto se i rapporti di filiazione documentati con genitori geneticamente non imparentati sono sorti aggirando il divieto svizzero di maternità surrogata. L'art. 11 Cost. comanda tuttavia di considerare prioritariamente il bene del fanciullo nell'applicazione dell'ordre public.»
-
-**DTF 142 III 481** (11 marzo 2016)
-Trasferimento del fanciullo all'estero dopo separazione dei genitori.
-Decisione di principio sull'importanza del bene del fanciullo nella mobilità internazionale.
-
-> «Esame del luogo di dimora appropriato del fanciullo sulla base del bene del fanciullo partendo dal trasferimento di uno dei genitori. Il concetto di assistenza costituisce il punto di partenza per questo esame. L'art. 11 Cost. sottolinea l'obbligo di considerare prioritariamente il bene del fanciullo in tutte le decisioni che riguardano il fanciullo.»
-
-**DTF 144 II 233** (15 giugno 2018)
-Tutela giuridica contro campagna statale di sensibilizzazione e prevenzione.
-Il caso mostra i limiti della protezione dei minori presso misure statali di prevenzione.
-
-> «La campagna 'LOVE LIFE - non pentirtene' è un avvertimento e una raccomandazione ufficiali. L'art. 11 cpv. 1 Cost. accorda in linea di principio protezione da interventi statali che potrebbero mettere in pericolo il bene di fanciulli e giovani, non fonda tuttavia alcun diritto all'omissione di campagne di sensibilizzazione motivate oggettivamente.»
-
-## Indicazioni pratiche
-
-### Ambito di applicazione e contenuto di protezione
-
-L'art. 11 cpv. 1 Cost. funziona primariamente come obbligo oggettivo di protezione e comando di ottimizzazione per l'azione statale. Il Tribunale federale sottolinea che la disposizione «non crea diritti soggettivi azionabili supplementari», ma deve essere intesa come «strato programmatico del diritto fondamentale» (**DTF 126 II 377**). Tuttavia sviluppa forza normativa come direttiva di interpretazione nelle decisioni discrezionali.
-
-### Capacità di discernimento secondo il cpv. 2
-
-L'art. 11 cpv. 2 Cost. ottiene significato pratico soprattutto nel contesto dell'educazione religiosa. Presso fanciulli minorenni sotto i 16 anni ai genitori spetta un diritto di codecisione nell'esercizio della religione, anche se il fanciullo è già capace di discernimento (**DTF 135 I 79**). La disposizione concretizza così il principio generale di diritto civile della capacità di discernimento.
-
-### Rapporto con altri diritti fondamentali
-
-L'art. 11 Cost. dispiega il suo effetto tipicamente in collegamento con altre disposizioni costituzionali: art. 8 CEDU (vita familiare), art. 19 Cost. (diritto all'istruzione), art. 15 Cost. (libertà religiosa) o art. 10 Cost. (libertà personale). La disposizione rafforza diritti di protezione esistenti, senza fondare diritti di difesa autonomi.
-
-### Limiti nel diritto degli stranieri
-
-La giurisprudenza mostra chiaramente che l'art. 11 Cost. nel diritto degli stranieri non fonda diritti autonomi al rilascio o alla proroga di autorizzazioni di dimora (**DTF 144 II 1**, **DTF 126 II 377**). La disposizione agisce tuttavia come rafforzamento nella ponderazione degli interessi in situazioni di rigore, in particolare nel ricongiungimento familiare.
-
-### Significato per il diritto penale
-
-Nell'esecuzione delle pene si mostra la forza di penetrazione limitata dell'art. 11 Cost.: i diritti del fanciullo non possono impedire l'esecuzione conforme alla legge di pene detentive (**DTF 146 IV 267**). La disposizione comanda tuttavia di esaminare forme alternative di esecuzione e di trovare soluzioni di assistenza appropriate per i fanciulli interessati.
+**DTF 135 I 153** (27 marzo 2009)  
+Ricongiungimento familiare inverso per bambini svizzeri.  
+L'interesse del minore secondo l'art. 11 Cost. rafforza la posizione dei bambini residenti in Svizzera nelle decisioni del diritto degli stranieri.  
+> «Il bene di bambini svizzeri deve essere particolarmente considerato secondo l'art. 11 Cost. quando si decide sulla permanenza dei loro genitori stranieri. Ciò può eccezionalmente portare a un diritto all'autorizzazione di dimora.»
