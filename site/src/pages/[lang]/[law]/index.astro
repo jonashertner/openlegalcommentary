@@ -189,15 +189,15 @@ if (structure.length > 0) {
   .progress-bar {
     flex: 1;
     max-width: 200px;
-    height: 4px;
+    height: 3px;
     background: var(--color-bg-alt);
     border-radius: 2px;
     overflow: hidden;
   }
 
   .progress-fill {
-    height: 100%;
-    background: var(--color-accent);
+    height: 3px;
+    background: var(--gradient-accent);
     border-radius: 2px;
     transition: width 0.6s var(--ease-out);
   }
@@ -261,8 +261,9 @@ if (structure.length > 0) {
 
   .toc-heading-titel {
     margin-top: var(--space-4);
-    padding: var(--space-2) 0;
+    padding: var(--space-2) 0 var(--space-2) var(--space-2);
     border-bottom: 2px solid var(--color-accent);
+    border-left: 3px solid var(--color-accent);
   }
 
   .toc-heading-titel .toc-heading-label {
@@ -283,8 +284,9 @@ if (structure.length > 0) {
 
   .toc-heading-kapitel {
     margin-top: var(--space-3);
-    padding: var(--space-1) 0;
+    padding: var(--space-1) 0 var(--space-1) var(--space-2);
     border-bottom: 1px solid var(--color-border);
+    border-left: 3px solid var(--color-accent);
   }
 
   .toc-heading-kapitel .toc-heading-label {
@@ -328,12 +330,15 @@ if (structure.length > 0) {
     text-decoration: none;
     color: var(--color-text);
     border-radius: 4px;
-    transition: background var(--transition-fast);
+    transition: background var(--transition-fast), transform var(--transition-fast), border-color var(--transition-fast);
     font-size: var(--text-sm);
+    border-left: 2px solid transparent;
   }
 
   .toc-item a:hover {
     background: var(--color-bg-alt);
+    transform: translateX(4px);
+    border-left-color: var(--color-accent);
   }
 
   .toc-num {
