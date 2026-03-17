@@ -19,10 +19,11 @@ Requirements (from global.md §II.1):
 - No citations, no Randziffern (marginal numbers)
 - Technical terms explained in parentheses on first use
 
+The article text is provided in the prompt above.
+
 Use the tools to:
-1. Read the article text via get_article_text
-2. Read the existing doctrine and caselaw layers if available (for context)
-3. Write the summary layer using write_layer_content""",
+1. Read the existing doctrine and caselaw layers if available (for context)
+2. Write the summary layer using write_layer_content""",
 
     "doctrine": """Generate the **Doktrin (Doctrinal Analysis)** layer for the given article.
 
@@ -39,9 +40,10 @@ Requirements (from global.md §II.2):
 - The Botschaft (legislative message) must be cited
 - Cross-references use arrow notation: → (unidirectional), ↔ (bidirectional)
 
+The article text is provided in the prompt above.
+
 Use the tools to:
-1. Read the article text via get_article_text
-2. Search for leading cases via find_leading_cases
+1. Search for leading cases via find_leading_cases
 3. Read the existing caselaw layer for context
 4. Write the doctrine layer using write_layer_content
 
@@ -66,9 +68,10 @@ Requirements (from global.md §II.3):
 - ALL leading cases (BGE) available on opencaselaw for this article MUST appear
 - Decisions from the last 12 months must be included if relevant
 
+The article text is provided in the prompt above.
+
 Use the tools to:
-1. Read the article text via get_article_text
-2. Find ALL leading cases via find_leading_cases
+1. Find ALL leading cases via find_leading_cases
 3. Search for additional relevant decisions via search_decisions
 4. Get case briefs for each relevant decision via get_case_brief
 5. For key decisions, get full text via get_decision

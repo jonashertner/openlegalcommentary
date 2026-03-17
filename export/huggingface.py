@@ -37,7 +37,10 @@ def export_article(law: str, art_dir: Path) -> dict | None:
     # Skip placeholder-only articles (scaffolded placeholders have ~3 short lines)
     def has_real_content(text: str) -> bool:
         lines = [line for line in text.strip().splitlines() if line.strip()]
-        return len(lines) > 3 or (len(lines) > 0 and sum(len(line) for line in lines) > 200)
+        # keep in sync with site/src/lib/content.ts:isPlaceholder()
+        return len(lines) > 3 or (
+            len(lines) > 0 and sum(len(line) for line in lines) > 200
+        )
 
     if not any(has_real_content(t) for t in (summary, doctrine, caselaw)):
         return None

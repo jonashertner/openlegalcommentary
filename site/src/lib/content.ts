@@ -161,7 +161,7 @@ function readFileIfExists(filePath: string): string {
 
 function isPlaceholder(content: string): boolean {
   const lines = content.trim().split('\n').filter((l) => l.trim().length > 0);
-  return lines.length <= 2;
+  return lines.length <= 3 && lines.reduce((sum, l) => sum + l.length, 0) <= 200;
 }
 
 export function loadArticleMeta(law: string, dirName: string): ArticleMeta | null {

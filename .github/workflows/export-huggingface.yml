@@ -29,13 +29,18 @@ jobs:
         run: uv run python -m export.huggingface
 
       - name: Push to HuggingFace
+        if: ${{ secrets.HF_TOKEN != '' }}
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           uv run python -c "
           import os
+          token = os.environ.get('HF_TOKEN', '')
+          if not token:
+              print('HF_TOKEN is empty, skipping upload')
+              raise SystemExit(0)
           from huggingface_hub import HfApi
-          api = HfApi(token=os.environ['HF_TOKEN'])
+          api = HfApi(token=token)
           api.upload_folder(
               folder_path='export/output',
               repo_id='openlegalcommentary/swiss-law-commentary',
