@@ -133,7 +133,7 @@ Open-access, AI-generated legal commentary on 8 Swiss federal laws.
 - **Articles exported:** {total}
 - **License:** CC BY-SA 4.0
 
-Built with ♥ by [Jonas Hertner](https://jonashertner.ch)
+Built with ♥ by [Jonas Hertner](https://jonashertner.com)
 
 ## Files
 
