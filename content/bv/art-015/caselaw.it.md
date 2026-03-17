@@ -1,95 +1,103 @@
 ## Giurisprudenza
 
-La giurisprudenza relativa all'art. 15 Cost. è caratterizzata dalla tensione tra la protezione costituzionale delle convinzioni religiose e i limiti derivanti dalla convivenza in una società pluralistica. Il Tribunale federale ha sviluppato una dogmatica differenziata che precisa sia l'ambito di protezione sia i limiti della libertà di credo e di coscienza.
+### Principi fondamentali della libertà religiosa
 
-### Portata di principio e ambito di protezione
+**BGE 142 I 49 cons. 3** dell'11 dicembre 2015  
+Il divieto del velo per le studentesse viola l'art. 15 Cost.  
+Il diritto fondamentale protegge sia la libertà religiosa interiore che quella esteriore.  
 
-**DTF 142 I 49** dell'11 dicembre 2015  
-Divieto del velo per le alunne nelle scuole pubbliche come violazione inammissibile della libertà di credo e di coscienza.  
-La sentenza precisa i principi direttivi della libertà di credo e di coscienza e il loro contenuto quale diritto fondamentale nella scuola.
+> «La libertà di credo e di coscienza appartiene ai diritti fondamentali più antichi; testimonianze dell'idea di tolleranza si trovano già nel IV secolo. La libertà di credo e di coscienza radicata nelle idee citate è garantita dall'art. 15 Cost. Essa accorda a ogni persona il diritto di scegliere liberamente la propria religione e le proprie convinzioni ideologiche e di professarle da sola o in comunità con altri.»
 
-> «La libertà di credo e di coscienza appartiene ai diritti fondamentali più antichi; testimonianze del pensiero di tolleranza si trovano già nel quarto secolo (cfr. Editto di Milano del 313). La libertà di credo e di coscienza ancorata nelle idee citate è garantita dall'art. 15 Cost. (cpv. 1). Essa conferisce a ogni persona il diritto di scegliere liberamente la propria religione e le proprie convinzioni ideologiche e di professarle da sola o in comunità con altri (cpv. 2).»
+### Libertà religiosa nell'ambito scolastico
 
-### Convinzioni religiose nell'ambito educativo
+**BGE 135 I 79 cons. 4.4** del 24 ottobre 2008  
+Dispensa dalle lezioni di nuoto per allievi musulmani — Determinazione del significato delle regole religiose.  
+Il diritto fondamentale protegge anche le convinzioni delle minoranze religiose indipendentemente dalla loro diffusione.
 
-**DTF 135 I 79** del 24 ottobre 2008  
-Dispensa di allievi musulmani dalle lezioni di nuoto miste per motivi religiosi.  
-La sentenza fondamentale sulla delimitazione tra libertà religiosa e obbligo di integrazione nella scuola.
+> «Lo Stato religiosamente neutro non può verificare la correttezza teologica delle regole di fede. Allo stesso modo gli è vietato determinare egli stesso il significato di una prescrizione religiosa e quindi il suo peso nella ponderazione degli interessi. I contenuti della fede che giustificano un comportamento motivato religiosamente o suggeriscono determinati modi di vestire non sono in linea di principio da verificare.»
 
-> «I contenuti di fede che giustificano un comportamento religiosamente motivato o suggeriscono determinati modi di vestire non sono in linea di principio da verificare. Lo Stato religiosamente neutrale non può verificare le regole della fede sulla loro correttezza teologica - in particolare non sulla loro conformità alle sacre scritture. Allo stesso modo gli è vietato stabilire egli stesso il significato di una prescrizione religiosa e quindi il suo peso nella ponderazione degli interessi.»
+**BGE 139 I 280 cons. 5** dell'11 luglio 2013  
+Il divieto del velo per le studentesse necessita di una base legale formale.  
+Gli interventi gravi nell'art. 15 Cost. richiedono una base giuridica sufficiente.
 
-**DTF 139 I 280** dell'11 luglio 2013  
-Divieto del velo per le alunne senza base legale sufficiente.  
-Concretizzazione dei requisiti per la base legale in caso di interventi nella libertà religiosa.
+> «Il divieto di portare il velo a scuola costituisce un grave intervento nel diritto fondamentale della libertà di credo e di coscienza, che necessita di una base legale formale; la legislazione generale sulla scuola popolare del Cantone di Turgovia non costituisce una tale base.»
 
-> «Il divieto di portare un velo a scuola costituisce un grave intervento nel diritto fondamentale della libertà di credo e di coscienza, che necessita di una base legale formale; la legislazione generale sulla scuola popolare del Cantone di Turgovia non costituisce una tale base.»
+### Protezione dalla discriminazione e naturalizzazione
 
-### Procedura di naturalizzazione e libertà religiosa
+**BGE 134 I 49 cons. 3.2** del 27 febbraio 2008  
+Il rifiuto della naturalizzazione per il porto del velo è discriminatorio.  
+L'art. 15 Cost. opera tramite l'art. 8 cpv. 2 Cost. nella procedura di naturalizzazione.
 
-**DTF 134 I 49** del 27 febbraio 2008  
-Mancata naturalizzazione discriminatoria a causa del porto del velo.  
-Divieto di principio della discriminazione religiosa nelle naturalizzazioni.
+> «Basare una decisione negativa di naturalizzazione sul porto del velo come simbolo religioso è idoneo a svantaggiare indebitamente la richiedente. Manca a tal fine una giustificazione qualificata: il semplice porto del velo non esprime di per sé un atteggiamento contrario alle concezioni valoriali dello Stato di diritto e democratiche.»
 
-> «Basare una decisione negativa di naturalizzazione sul porto del velo quale simbolo religioso è idoneo a svantaggiare inammissibilmente la richiedente. Per questo manca una giustificazione qualificata: il semplice porto del velo non esprime di per sé un atteggiamento diretto contro i valori fondamentali dello Stato di diritto e democratici.»
+**BGE 134 I 56 cons. 5** del 27 febbraio 2008  
+Esame della discriminazione nel caso di rifiuto della naturalizzazione motivato religiosamente.  
+Carenze nelle conoscenze linguistiche possono sovrapporsi al porto del velo come motivo di rifiuto.
 
-**DTF 134 I 56** del 27 febbraio 2008  
-Mancata naturalizzazione a causa del velo e di insufficienti conoscenze linguistiche.  
-Delimitazione tra criteri di integrazione ammissibili e discriminazione religiosa inammissibile.
+> «In considerazione delle carenti conoscenze del tedesco e di educazione civica, il rigetto della domanda di naturalizzazione resiste al vaglio costituzionale, indipendentemente dal fatto che la richiedente porti il velo.»
 
-> «Considerando le insufficienti conoscenze del tedesco e di educazione civica, il rigetto della domanda di naturalizzazione regge davanti alla Costituzione indipendentemente dal fatto che la richiedente porti il velo. Basare una decisione negativa di naturalizzazione sulla circostanza che la richiedente porta il velo sarebbe tuttavia discriminatorio.»
+### Uscita dalla Chiesa e libertà religiosa negativa
 
-### Libertà di culto e rapporti giuridici speciali
+**BGE 134 I 75 cons. 3-9** del 16 novembre 2007  
+L'uscita parziale dalla Chiesa cantonale è sufficiente.  
+La libertà religiosa negativa protegge dalla costrizione all'appartenenza a una comunità religiosa.
 
-**DTF 129 I 74** del 2003  
-Libertà di credo e di coscienza nell'esecuzione delle pene.  
-Limiti dell'esercizio della religione nei rapporti giuridici speciali.
+> «È sufficiente la dichiarazione di uscita dalla Chiesa cantonale; da chi vuole uscire non può essere richiesto di separarsi dalla Chiesa cattolica romana come tale.»
 
-> «La libertà di culto quale componente ed emanazione della libertà di credo e di coscienza può subire nell'esecuzione delle pene, a causa dell'ampio isolamento del detenuto dal mondo esterno, limitazioni che vanno oltre ciò che sarebbe ammissibile in libertà. Esse non possono tuttavia andare oltre la misura necessaria per un funzionamento ordinato dell'istituto.»
+**BGE 129 I 68 cons. 3.1-3.4** del 18 dicembre 2002  
+Effetti giuridici dell'uscita parziale dalla Chiesa.  
+L'art. 15 cpv. 4 Cost. protegge dalla costrizione all'esercizio della religione.
 
-### Campane delle chiese e diritti di vicinato
+> «Gli effetti giuridici di una dichiarazione di uscire soltanto dalla parrocchia rispettivamente Chiesa cantonale, ma di volersi continuare a professare nella Chiesa cattolica romana (cosiddetta uscita parziale dalla Chiesa), sono da determinare alla luce della libertà di credo e di coscienza.»
 
-**DTF 126 II 366** del 2000  
-Valutazione del suono delle campane secondo il diritto sulla protezione contro il rumore.  
-Ponderazione tra esercizio della religione e protezione contro il rumore.
+### Tasse ecclesiastiche e libertà religiosa
 
-> «Il suono delle campane delle chiese, anche nella misura in cui rappresenta parte dell'esercizio della religione e sta sotto la protezione della libertà di credo e di coscienza (art. 15 cpv. 2 Cost.), può essere sottoposto a certe limitazioni per la protezione della quiete pubblica. Alle autorità locali compete un margine di apprezzamento per eventi che sono espressione di un'antica tradizione.»
+**BGE 126 I 122 cons. 3** del 13 giugno 2000  
+L'obbligo di tassa ecclesiastica delle persone giuridiche è compatibile con l'art. 15 Cost.  
+La libertà religiosa protegge primariamente le persone fisiche.
 
-### Tasse ecclesiastiche
+> «Conferma della giurisprudenza precedente sulla compatibilità di principio dell'obbligo di tassa ecclesiastica delle persone giuridiche con l'art. 49 cpv. 6 vCost [ora art. 15 Cost.].»
 
-**DTF 126 I 122** del 13 giugno 2000  
-Obbligo di tassa ecclesiastica delle persone giuridiche e libertà religiosa.  
-Conferma della conformità costituzionale del sistema delle tasse ecclesiastiche.
+**BGE 128 I 317 cons. 4** del 20 febbraio 2002  
+Tasse ecclesiastiche in caso di matrimonio confessionalmente misto.  
+La libertà di credo e di coscienza pone limiti alla tassazione ecclesiastica.
 
-> «Conferma della giurisprudenza precedente sulla compatibilità di principio dell'obbligo di tassa ecclesiastica delle persone giuridiche con l'art. 15 Cost. La libertà religiosa negativa non è violata dall'obbligo di tassa ecclesiastica, poiché questo non costringe all'esercizio della fede o all'adesione alla chiesa.»
+> «Mantenimento dei principi finora derivati dalla libertà di credo e di coscienza per la tassazione ecclesiastica nei matrimoni confessionalmente misti.»
 
-### Laicità statale e simboli religiosi
+### Libertà religiosa nell'esecuzione penale
 
-**DTF 148 I 160** del 23 dicembre 2021  
-Legge ginevrino sulla laicità e divieto di simboli religiosi.  
-Controllo astratto delle norme sulla neutralità statale e libertà religiosa.
+**BGE 129 I 74 cons. 4.2** del 13 gennaio 2003  
+Libertà di culto in carcere — Limitazioni sono possibili.  
+La libertà religiosa vale anche nel rapporto speciale di potere, ma con restrizioni.
 
-> «L'art. 3 cpv. 3 e 5 LLE/GE, secondo cui le persone dei tribunali, i membri delle autorità esecutive cantonali e i funzionari devono astenersi dal mettere in mostra la loro appartenenza religiosa attraverso dichiarazioni o segni esteriori, è - nel quadro di un controllo astratto delle norme - conforme agli art. 15 e 36 Cost. e all'art. 9 CEDU. È però da evitare un'applicazione eccessivamente rigorosa di questa disposizione nel caso singolo.»
+> «Nell'esecuzione penale si verificano, nell'interesse pubblico, limitazioni della libertà che derivano dallo scopo di questa istituzione e dal requisito del mantenimento di un funzionamento ordinato dell'istituto. Non possono andare oltre la misura necessaria a tal fine.»
 
-### Missionariato e libertà di commercio
+### Neutralità statale e simboli religiosi
 
-**DTF 126 I 133** del 7 giugno 2000  
-Pubblicità di Scientology su suolo pubblico.  
-Delimitazione tra libertà religiosa e libertà di commercio e d'industria.
+**BGE 148 I 160 cons. 7** del 23 dicembre 2021  
+Legge sulla laicità di Ginevra e libertà religiosa degli impiegati statali.  
+L'esercizio neutrale delle funzioni statali può limitare le manifestazioni religiose.
 
-> «Chi vuole distribuire prestazioni a pagamento e non rende chiaramente riconoscibile al pubblico interessato l'eventuale obiettivo missionario connesso, deve accettare che le sue azioni pubblicitarie non siano giudicate sotto l'aspetto della libertà religiosa, bensì sotto quello della libertà di commercio e d'industria.»
+> «L'art. 3 cpv. 3 e 5 LLE/GE, secondo cui le persone del tribunale, i membri delle autorità esecutive cantonali e i funzionari devono astenersi dal mettere in mostra la loro appartenenza religiosa tramite dichiarazioni o segni esteriori, è conforme agli art. 15 e 36 Cost. e all'art. 9 n. 1 CEDU. È tuttavia da evitare un'applicazione eccessivamente rigorosa di questa disposizione nel caso singolo.»
 
-### Chiese nazionali e libertà di fede
+**BGE 145 I 121 cons. 4** del 17 dicembre 2018  
+Il contributo di finanziamento della Chiesa cantonale a un centro di consulenza non viola la libertà religiosa.  
+Il sostegno indiretto di scopi non religiosi da parte di comunità religiose è ammissibile.
 
-**DTF 145 I 121** del 17 dicembre 2018  
-Contributo ecclesiastico a centro di consulenza e libertà di fede.  
-Limiti dell'intervento statale negli affari ecclesiastici.
+> «La libertà di fede della Chiesa cantonale cattolica romana o il diritto della Chiesa cantonale non sono violati dal contributo vincolato a condizioni della Chiesa cantonale cattolica dei Grigioni dell'importo di fr. 15'000.- a un centro di consulenza per pianificazione familiare, sessualità, gravidanza e partenariato.»
 
-> «La libertà di fede della Chiesa nazionale romana-cattolica o il diritto delle chiese nazionali non sono violati dal contributo vincolato a condizioni della Chiesa nazionale cattolica dei Grigioni dell'importo di fr. 15'000.- a un centro di consulenza per la pianificazione familiare, sessualità, gravidanza e partenariato.»
+### Minoranze religiose e integrazione
 
-### Orari degli esami e festività religiose
+**BGE 126 I 133 cons. 4** del 23 maggio 2000  
+L'attività missionaria su suolo pubblico è sottoposta a limitazioni locali.  
+La libertà religiosa non è illimitata e deve essere ponderata con altri interessi.
 
-**DTF 134 I 114** del 2008  
-Dispensa dall'esame di maturità di sabato per motivi religiosi.  
-Verifica della proporzionalità per eventi unici.
+> «Chi vuole distribuire prestazioni a pagamento e non fa chiaramente riconoscere al pubblico interessato l'eventuale obiettivo missionario collegato, deve mettere in conto che le sue azioni pubblicitarie non vengano privilegiate sotto l'aspetto della libertà religiosa.»
 
-> «Anche se lo svolgimento di un esame di maturità di sabato è permesso dalla legge e dovesse basarsi su un interesse pubblico, il rifiuto di una dispensa nei confronti di un allievo che appartiene a una comunità di fede strettamente vincolata al precetto del riposo del sabato si rivela sproporzionato.»
+### Rapporto con la CEDU
+
+**BGE 132 I 167 cons. 3** del 10 maggio 2006  
+Libertà religiosa e protezione dalla discriminazione nella naturalizzazione.  
+L'art. 15 Cost. e l'art. 9 CEDU hanno un effetto protettivo parallelo.
+
+> «Il richiamo all'art. 15 Cost. e all'art. 9 CEDU non ha significato autonomo riguardo al rimprovero che la naturalizzazione sia stata rifiutata per motivi discriminatori a causa dell'appartenenza religiosa, poiché il divieto di discriminazione dell'art. 8 cpv. 2 Cost. offre la protezione più ampia.»
