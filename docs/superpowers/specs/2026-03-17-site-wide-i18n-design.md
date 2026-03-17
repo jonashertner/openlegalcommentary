@@ -72,7 +72,7 @@ All components currently using `BASE` must be updated:
 - `Footer.astro` — footer links
 - `Breadcrumb.astro` — home link, law link
 - `ArticlePagination.astro` — prev/next links
-- `SearchBar.astro` — result links (see section 8)
+- `SearchModal.astro` — result links (see section 9)
 - `[law]/index.astro` — article TOC links
 - `[article].astro` — internal links
 
@@ -106,7 +106,7 @@ Covers:
 - Current language highlighted
 - Accepts `currentLang` and `pagePath` props (path without the lang prefix, e.g., `/bv/art-5`)
 - Href computation: `/${targetLang}${pagePath}` — simple concatenation, no regex substitution
-- Preserves query parameters (e.g., `?layer=doctrine`) by reading them at build time and appending
+- Preserves query parameters (e.g., `?layer=doctrine`) at runtime: a small client-side script reads `window.location.search` and appends it to each language link's href on page load
 - Remove the old `LanguageSwitcher` usage inside `[article].astro` body
 
 ### 5. Content loading updates — `src/lib/content.ts`
@@ -142,15 +142,18 @@ All components that render translatable text receive a `lang: Lang` prop:
 - `Gesetzestext.astro` — load correct language text
 - `ArticleTabs.astro` — tab labels
 - `ArticlePagination.astro` — prev/next labels
-- `SearchBar.astro` — placeholder text
+- `SearchModal.astro` — placeholder text, language filter
 - `Base.astro` (layout) — `<html lang={lang}>`, meta description, page title
 
 ### 9. Search
 
-- `search-index.json` remains language-agnostic (article numbers and titles)
-- Search result links include the current language prefix: `/${lang}/${law}/${slug}`
-- Inject `lang` into client-side JS via `<meta name="current-lang" content={lang}>` in `Base.astro`, read by SearchBar's click handler
-- Article titles in search index remain German (the canonical form)
+Search is handled by Pagefind (see search spec). The old `SearchBar.astro` and `search-index.json` are replaced by `SearchModal.astro` backed by Pagefind's static index.
+
+- Pagefind indexes all static pages post-build, including all 4 language versions
+- Each page emits `data-pagefind-filter="language:{lang}"` so results can be filtered by language
+- `<meta name="current-lang" content={lang}>` in `Base.astro` allows client-side JS to read the current language for Pagefind filter calls
+- The `SearchModal` reads `document.documentElement.lang` and passes it as a filter to `pagefind.search()`
+- Delete `scripts/generate_search_index.py`, `site/public/search-index.json`, and the `prebuild` npm script
 
 ### 10. Sitemap / SEO
 
