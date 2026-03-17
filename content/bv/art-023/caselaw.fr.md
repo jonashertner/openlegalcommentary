@@ -1,67 +1,75 @@
+# Art. 23 Cst. — Liberté d'association
+
 ## Jurisprudence
 
-### Fondements et domaine de protection de la liberté d'association
+### Fondements de la liberté d'association
 
-**ATF 129 I 113** (15 novembre 2002)
-La liberté syndicale ne confère certes aux associations professionnelles du service public aucun droit à participer à la procédure législative concernant les rapports de service de droit public, mais lorsque des lois et règlements qui influencent de manière substantielle les conditions de travail de leurs membres sont modifiés, le droit d'être entendu doit leur être accordé sous une forme appropriée.
+**ATF 124 I 107** du 29 avril 1998  
+Liberté d'association positive et négative comme deux faces d'une même garantie. La liberté d'association négative garantit le droit de ne pas appartenir à une association ou de la quitter.  
+Définition de principe de la liberté d'association dans le contexte d'une initiative populaire cantonale sur le droit des conventions collectives.
 
-L'arrêt concrétise la liberté d'association dans le domaine du service public et fonde les droits participatifs des associations professionnelles.
+> « Art. 56 Cst. garantiert la liberté d'association. Dans son aspect positif, cette liberté permet aux particuliers de créer des associations, d'en devenir membre, d'exercer en leur sein des activités, et de les dissoudre. Dans son aspect négatif, elle garantit le droit de ne pas être obligé de faire partie d'une association, ou de la quitter. »
 
-> «L'État a, en tant qu'employeur, à s'abstenir de toute mesure discriminatoire injustifiée à l'égard d'associations professionnelles qui violerait leur liberté syndicale ou celle de leurs membres. Il est discriminatoire d'exclure une organisation de travailleurs de la suite de la procédure législative en raison d'opinions qu'elle a défendues au début de la procédure, tandis qu'une autre organisation est admise.»
+**ATF 110 Ia 36** du 25 janvier 1984  
+Liberté d'association négative en cas d'appartenance forcée à des corporations de droit public. Les étudiants ont le droit d'exiger que leur corporation obligatoire ne soit pas considérée comme une organisation politique.  
+Arrêt fondamental sur la liberté d'association négative en cas d'appartenance involontaire.
 
-### Liberté d'association négative et adhésion forcée
+> « Aus dem negativen Effekt der verfassungsmässigen Garantie der Vereinsfreiheit lässt sich der Anspruch darauf ableiten, dass die Organisation, der die Studierenden von Gesetzes wegen und ohne Austrittsmöglichkeit angehören, nicht als eine politische betrachtet wird. »
 
-**Arrêt 2C_58/2009** (4 février 2010)
-La liberté d'association et syndicale protège non seulement le droit d'adhérer à une association, mais aussi le droit de s'en tenir à l'écart.
+### Liberté d'association et égalité des sexes
 
-L'arrêt concerne l'obligation de verser des contributions à la formation professionnelle et précise que l'art. 23 Cst. protège aussi contre la contrainte factuelle d'adhérer à une association.
+**ATF 140 I 201** du 21 mars 2014  
+Collision de droits fondamentaux entre liberté d'association et égalité entre hommes et femmes. Les universités peuvent refuser le statut d'association universitaire à une association d'étudiants qui exclut les femmes.  
+Premier arrêt de principe sur la résolution de la collision entre liberté d'association et égalité des sexes.
 
-> «Les libertés d'association protègent non seulement le droit d'adhérer à une association, mais aussi le droit de s'en tenir à l'écart. Selon ATF 124 I 107 consid. 4c/cc p. 116 s., il est notamment anticonstitutionnel resp. disproportionné d'exiger d'une entreprise qui n'est pas membre d'une association qu'elle verse néanmoins des cotisations d'association.»
+> « Darf ein Verwaltungsträger, der eine staatliche Aufgabe wahrnimmt und deswegen an die Grundrechte gebunden ist, einer zivilrechtlichen Studentenverbindung den Status als universitäre Vereinigung verwehren und die zugehörigen Leistungen verweigern, weil sie Frauen von der Mitgliedschaft ausschliesst? »
 
-### Associations religieuses et autonomie
+**ATF 151 I 337** du 25 mars 2025  
+Changement de jurisprudence en faveur de l'égalité des sexes. L'université peut refuser la reconnaissance à une association d'étudiants exclusivement masculine s'il n'existe aucun lien objectif entre le but de l'association et l'exclusion fondée sur le sexe.  
+Jurisprudence actuelle sur la pondération entre liberté d'association et interdiction de discriminer.
 
-**ATF 145 I 121** (17 décembre 2018)
-La liberté de croyance de l'Église catholique romaine territoriale n'est pas violée par une contribution assortie de conditions à un centre de consultation, lorsque la contribution ne peut pas être utilisée à des fins contraires à la doctrine de l'Église.
+> « Die Universität verfügt aufgrund ihrer Autonomie über ein erhebliches Entscheidungsermessen bezüglich der Anerkennung einer universitären Vereinigung. Sie muss jedoch ein ausgewogenes Verhältnis zwischen den verschiedenen Grundrechten, an welche sie gebunden ist, wahren. »
 
-L'arrêt montre l'imbrication entre liberté d'association et liberté de croyance pour les organisations religieuses.
+### Liberté d'association et liberté de réunion
 
-> «L'octroi de la contribution était assorti de la condition que le montant ne puisse notamment pas être utilisé pour des conseils sur les méthodes d'avortement, etc. Ainsi, la préoccupation de la recourante est satisfaite. Pas de violation de sa liberté de croyance.»
+**ATF 127 I 164** du 20 septembre 2001  
+Liberté d'opinion et de réunion lors de manifestations sur domaine public. Obligation d'autorisation et pesée des intérêts en tenant compte de la portée idéelle des droits fondamentaux.  
+Arrêt de principe sur l'exercice pratique des droits fondamentaux collectifs dans l'espace public.
 
-### Associations politiques et partis
+> « In materieller Hinsicht machen die Beschwerdeführer eine Verletzung der Meinungs- und Versammlungsfreiheit geltend. Das Vorhandensein einer kommunalen gesetzlichen Grundlage für das Erfordernis einer Bewilligung zur Durchführung von Kundgebungen auf öffentlichem Grund bestreiten sie nicht. »
 
-**ATF 151 I 41** (22 mai 2024)
-Un changement de parti d'une candidate entre la date des élections et la constitution du parlement peut constituer une grave tromperie des ayants droit de vote qui viole la liberté de vote selon l'art. 34 al. 2 Cst.
+**ATF 124 I 267** du 26 août 1998  
+Liberté de réunion et restrictions de lieu. Pas de droit à la tenue d'une manifestation sur une place publique déterminée. Licéité d'une interdiction générale de manifester en cas de fonction particulière de la place.  
+Limites de la liberté de réunion selon les circonstances locales spécifiques.
 
-L'arrêt traite des limites de la liberté d'association dans le contexte des partis politiques et de la légitimation démocratique.
+> « Kundgebungen auf öffentlichem Grund stellen eine Form des gesteigerten Gemeingebrauchs dar und dürfen daher weitergehenden Beschränkungen unterworfen werden als Versammlungen auf privatem Grund. »
 
-> «La tromperie sur la 'vraie' appartenance à une liste constitue une grave tromperie des ayants droit de vote qui viole la liberté de vote ancrée à l'art. 34 al. 2 Cst.»
+### Liberté d'association négative et appartenance forcée
 
-### Droit de manifestation et liberté d'association
+**ATF 130 I 279** du 13 juillet 2004  
+Violation de la liberté d'association négative par l'assujettissement forcé aux conventions collectives. Les dispositions cantonales qui subordonnent la prolongation des heures d'ouverture au respect des CCT sont disproportionnées.  
+Application de la liberté d'association négative en droit du travail.
 
-**Arrêt 1C_485/2013** (3 décembre 2013)
-Le droit de manifestation est étroitement lié à la liberté d'association, car les manifestations sont fréquemment organisées par des associations.
+> « Eine kantonale Ladenschlussvorschrift, wonach verlängerte Öffnungszeiten nur bei Beachtung eines Gesamtarbeitsvertrages bewilligt werden, verletzt die negative Vereinigungsfreiheit, da sie faktisch zum Beitritt zu einem Arbeitgeberverband zwingt. »
 
-L'arrêt illustre le lien entre l'art. 22 Cst. (liberté de réunion) et l'art. 23 Cst. (liberté d'association).
+**ATAF 2021 I/2** du 30 mars 2021  
+Appartenance forcée à des organisations de branche. L'obligation indirecte de cotisation via des fédérations coopératives régionales peut être justifiée si les conditions de l'art. 36 Cst. sont remplies.  
+Pratique actuelle sur la liberté d'association négative dans les associations économiques obligatoires.
 
-### Autonomie associative et exclusion d'association
+> « Die positive Vereinigungsfreiheit umfasst das Recht, Vereinigungen zu bilden, Vereinigungen beizutreten oder anzugehören und sich an den Tätigkeiten von Vereinigungen zu beteiligen (sog. positive Vereinigungsfreiheit). Der Schutz vor Zwangsmitgliedschaft (sog. negative Vereinigungsfreiheit) wird durch Art. 23 Abs. 3 BV garantiert. »
 
-**ATF 123 III 193** (14 mars 1997)
-Lorsqu'une association se présente en public comme l'organisation déterminante de la profession concernée, elle ne dispose pas de l'autonomie d'exclusion complète de l'art. 72 al. 2 CC.
+### Liberté d'association en procédure pénale
 
-L'arrêt montre les limites constitutionnelles de l'autonomie associative lorsque les associations exercent des fonctions quasi-publiques.
+**Arrêt 6P.33/2006** du 15 mai 2006  
+Liberté d'association comme grief en procédure pénale. Les libertés d'opinion, d'information et d'association peuvent également être violées dans le contexte pénal.  
+Aspects procéduraux de la liberté d'association.
 
-> «Un membre d'une telle association peut revendiquer une protection appropriée contre une exclusion injustifiée, si celle-ci porterait gravement atteinte à son épanouissement économique.»
+> « Art. 9 Cst. (procédure pénale ; arbitraire) ; art. 16 Cst. (liberté d'opinion et d'information) ; art. 23 Cst. (liberté d'association). Protection procédurale des droits fondamentaux également en procédure pénale. »
 
-### Recours d'association
+### Écoles privées et liberté d'association
 
-**ATF 136 II 539** (8 septembre 2010)
-Le Touring Club Suisse est légitimé à contester une zone à 30 km/h sur une route de transit (« recours d'association égoïste »).
+**Arrêt 2C_807/2015** du 18 octobre 2016  
+Autorisation de tenir une école privée avec niveau préscolaire. La liberté d'association comprend aussi le droit de fonder et d'exploiter des établissements de formation.  
+Liberté d'association dans le domaine de la formation sous réserve de l'obligation de surveillance étatique.
 
-L'arrêt concrétise les droits processuels des associations lors de la défense de leurs buts statutaires.
-
-### Dissolution d'association et décisions associatives
-
-**ATF 85 II 525** (10 décembre 1959)
-L'attaque judiciaire d'une exclusion d'une association n'est admissible qu'après que l'organe associatif suprême compétent pour décider en la matière l'a ordonnée.
-
-L'arrêt établit des principes de procédure pour le contrôle judiciaire des décisions associatives.
+> « Ein Verein kann zur Wahrung der eigenen Interessen Beschwerde führen, wenn er durch staatliche Massnahmen in seiner grundrechtlich geschützten Vereinigungsfreiheit betroffen ist. »

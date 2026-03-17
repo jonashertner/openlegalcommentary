@@ -1,67 +1,75 @@
+# Art. 23 Cost. — Libertà di associazione
+
 ## Giurisprudenza
 
-### Fondamenti e ambito di protezione della libertà di associazione
+### Fondamenti della libertà di associazione
 
-**DTF 129 I 113** (15 novembre 2002)
-La libertà di coalizione non conferisce alle associazioni professionali del servizio pubblico alcun diritto giuridico di partecipazione al processo legislativo concernente il rapporto di pubblico impiego; tuttavia, in caso di modifiche di leggi e regolamenti che influiscano sostanzialmente sulle condizioni di lavoro dei loro membri, deve essere loro garantito in forma adeguata il diritto di essere sentite.
+**DTF 124 I 107** del 29 aprile 1998  
+Libertà di associazione positiva e negativa come due facce di una garanzia. La libertà di associazione negativa garantisce il diritto di non appartenere a un'associazione o di lasciarla.  
+Definizione fondamentale della libertà di associazione nel contesto di un'iniziativa popolare cantonale sul diritto dei contratti collettivi di lavoro.
 
-La sentenza concretizza la libertà di associazione nell'ambito del servizio pubblico e fonda diritti partecipativi delle associazioni professionali.
+> «Art. 56 Cst. garantiert la liberté d'association. Dans son aspect positif, cette liberté permet aux particuliers de créer des associations, d'en devenir membre, d'exercer en leur sein des activités, et de les dissoudre. Dans son aspect négatif, elle garantit le droit de ne pas être obligé de faire partie d'une association, ou de la quitter.»
 
-> «Lo Stato, in qualità di datore di lavoro, deve astenersi da qualsiasi misura discriminatoria ingiustificata nei confronti di associazioni professionali che violi la loro libertà di coalizione o quella dei loro membri. È discriminatorio escludere un'organizzazione dei lavoratori dalla partecipazione al processo legislativo a causa di opinioni che ha sostenuto all'inizio del procedimento, mentre un'altra organizzazione viene ammessa.»
+**DTF 110 Ia 36** del 25 gennaio 1984  
+Libertà di associazione negativa in caso di affiliazione obbligatoria a corporazioni di diritto pubblico. Gli studenti hanno diritto a che la loro corporazione obbligatoria non sia considerata un'organizzazione politica.  
+Sentenza fondamentale sulla libertà di associazione negativa in caso di affiliazione involontaria.
 
-### Libertà negativa di associazione e appartenenza obbligatoria
+> «Aus dem negativen Effekt der verfassungsmässigen Garantie der Vereinsfreiheit lässt sich der Anspruch darauf ableiten, dass die Organisation, der die Studierenden von Gesetzes wegen und ohne Austrittsmöglichkeit angehören, nicht als eine politische betrachtet wird.»
 
-**Sentenza 2C_58/2009** (4 febbraio 2010)
-La libertà di associazione e di coalizione proteggono non solo il diritto di aderire a un'associazione, ma anche il diritto di non aderirvi.
+### Libertà di associazione e parità dei sessi
 
-La sentenza concerne l'obbligo di versare contributi per la formazione professionale e chiarisce che l'art. 23 Cost. protegge anche dalla costrizione di fatto all'adesione associativa.
+**DTF 140 I 201** del 21 marzo 2014  
+Collisione di diritti fondamentali tra libertà di associazione e parità di diritti tra uomo e donna. Le università possono rifiutare a un'associazione studentesca che esclude le donne lo status di associazione universitaria.  
+Prima sentenza di principio sulla risoluzione della collisione tra libertà di associazione e parità dei sessi.
 
-> «Le libertà di associazione proteggono non solo il diritto di aderire a un'associazione, ma anche il diritto di non aderirvi. Secondo DTF 124 I 107 consid. 4c/cc pag. 116 seg., è in particolare incostituzionale e sproporzionato esigere da un'impresa che non è membro di un'associazione il pagamento di contributi associativi.»
+> «Darf ein Verwaltungsträger, der eine staatliche Aufgabe wahrnimmt und deswegen an die Grundrechte gebunden ist, einer zivilrechtlichen Studentenverbindung den Status als universitäre Vereinigung verwehren und die zugehörigen Leistungen verweigern, weil sie Frauen von der Mitgliedschaft ausschliesst?»
 
-### Associazioni ecclesiastiche e autonomia
+**DTF 151 I 337** del 25 marzo 2025  
+Cambiamento di giurisprudenza a favore della parità dei sessi. L'università può rifiutare il riconoscimento a un'associazione studentesca esclusivamente maschile se non sussiste un nesso oggettivo tra scopo dell'associazione ed esclusione di un sesso.  
+Giurisprudenza attuale sulla ponderazione tra libertà di associazione e divieto di discriminazione.
 
-**DTF 145 I 121** (17 dicembre 2018)
-La libertà di credo della Chiesa cattolica romana cantonale non è violata da un contributo condizionato a un centro di consulenza, se il contributo non può essere utilizzato per scopi contrari alla dottrina ecclesiastica.
+> «Die Universität verfügt aufgrund ihrer Autonomie über ein erhebliches Entscheidungsermessen bezüglich der Anerkennung einer universitären Vereinigung. Sie muss jedoch ein ausgewogenes Verhältnis zwischen den verschiedenen Grundrechten, an welche sie gebunden ist, wahren.»
 
-La sentenza evidenzia l'intreccio tra libertà di associazione e libertà di credo nelle organizzazioni ecclesiastiche.
+### Libertà di associazione e libertà di riunione
 
-> «La concessione del contributo era subordinata alla condizione che l'importo non potesse essere utilizzato segnatamente per la consulenza sui metodi abortivi e simili. Con ciò è soddisfatta l'istanza della ricorrente. Nessuna violazione della sua libertà di credo.»
+**DTF 127 I 164** del 20 settembre 2001  
+Libertà d'opinione e di riunione nelle manifestazioni su suolo pubblico. Obbligo di autorizzazione e ponderazione degli interessi nel rispetto del contenuto ideale dei diritti fondamentali.  
+Sentenza guida sull'esercizio pratico dei diritti fondamentali collettivi nello spazio pubblico.
 
-### Associazioni politiche e partiti
+> «In materieller Hinsicht machen die Beschwerdeführer eine Verletzung der Meinungs- und Versammlungsfreiheit geltend. Das Vorhandensein einer kommunalen gesetzlichen Grundlage für das Erfordernis einer Bewilligung zur Durchführung von Kundgebungen auf öffentlichem Grund bestreiten sie nicht.»
 
-**DTF 151 I 41** (22 maggio 2024)
-Un cambio di partito di una candidata tra la data delle elezioni e la costituzione del parlamento può costituire un grave inganno degli aventi diritto di voto che viola la libertà di voto secondo l'art. 34 cpv. 2 Cost.
+**DTF 124 I 267** del 26 agosto 1998  
+Libertà di riunione e restrizioni territoriali. Nessun diritto allo svolgimento di una manifestazione su una determinata piazza pubblica. Ammissibilità di un divieto generale di manifestazione in caso di funzione particolare della piazza.  
+Limiti della libertà di riunione in presenza di particolari caratteristiche locali.
 
-La sentenza tratta i limiti della libertà di associazione nel contesto dei partiti politici e della legittimazione democratica.
+> «Kundgebungen auf öffentlichem Grund stellen eine Form des gesteigerten Gemeingebrauchs dar und dürfen daher weitergehenden Beschränkungen unterworfen werden als Versammlungen auf privatem Grund.»
 
-> «L'inganno sulla 'vera' appartenenza alla lista costituisce un grave inganno degli aventi diritto di voto che viola la libertà di voto sancita dall'art. 34 cpv. 2 Cost.»
+### Libertà di associazione negativa e affiliazione obbligatoria
 
-### Diritto di manifestazione e libertà di associazione
+**DTF 130 I 279** del 13 luglio 2004  
+Violazione della libertà di associazione negativa attraverso vincolo obbligatorio a contratti collettivi di lavoro. Le disposizioni cantonali che collegano orari di apertura prolungati al rispetto di CCL sono sproporzionate.  
+Applicazione della libertà di associazione negativa nel diritto del lavoro.
 
-**Sentenza 1C_485/2013** (3 dicembre 2013)
-Il diritto di manifestazione è strettamente connesso alla libertà di associazione, poiché le manifestazioni sono spesso organizzate da associazioni.
+> «Eine kantonale Ladenschlussvorschrift, wonach verlängerte Öffnungszeiten nur bei Beachtung eines Gesamtarbeitsvertrages bewilligt werden, verletzt die negative Vereinigungsfreiheit, da sie faktisch zum Beitritt zu einem Arbeitgeberverband zwingt.»
 
-La sentenza chiarisce il collegamento tra l'art. 22 Cost. (libertà di riunione) e l'art. 23 Cost. (libertà di associazione).
+**DTAF 2021 I/2** del 30 marzo 2021  
+Affiliazione obbligatoria a organizzazioni di categoria. L'obbligo indiretto di contributi tramite federazioni cooperative regionali può essere giustificato se sono soddisfatti i presupposti dell'art. 36 Cost.  
+Prassi attuale sulla libertà di associazione negativa nelle associazioni economiche obbligatorie.
 
-### Autonomia associativa ed esclusione dall'associazione
+> «Die positive Vereinigungsfreiheit umfasst das Recht, Vereinigungen zu bilden, Vereinigungen beizutreten oder anzugehören und sich an den Tätigkeiten von Vereinigungen zu beteiligen (sog. positive Vereinigungsfreiheit). Der Schutz vor Zwangsmitgliedschaft (sog. negative Vereinigungsfreiheit) wird durch Art. 23 Abs. 3 BV garantiert.»
 
-**DTF 123 III 193** (14 marzo 1997)
-Se un'associazione si presenta in pubblico come organizzazione determinante della rispettiva categoria professionale, non dispone dell'autonomia di esclusione completa dell'art. 72 cpv. 2 CC.
+### Libertà di associazione nel procedimento penale
 
-La sentenza evidenzia i limiti costituzionali dell'autonomia associativa quando le associazioni svolgono funzioni quasi-pubbliche.
+**Sentenza 6P.33/2006** del 15 maggio 2006  
+Libertà di associazione come censura nel procedimento penale. Libertà d'opinione, di informazione e di associazione possono essere violate anche nel contesto penale.  
+Aspetti processuali della libertà di associazione.
 
-> «Un membro di tale associazione può pretendere un'adeguata protezione contro l'esclusione ingiustificata, se questa comprometterebbe sensibilmente il suo sviluppo economico.»
+> «Art. 9 BV (Strafverfahren; Willkür); Art. 16 BV (Meinungs- und Informationsfreiheit); Art. 23 BV (Vereinigungsfreiheit). Verfahrensrechtlicher Schutz der Grundrechte auch im Strafverfahren.»
 
-### Ricorso di associazioni
+### Sistema scolastico privato e libertà di associazione
 
-**DTF 136 II 539** (8 settembre 2010)
-Il Touring Club Svizzero è legittimato a impugnare una zona 30 su una strada di transito («ricorso egoistico di associazione»).
+**Sentenza 2C_807/2015** del 18 ottobre 2016  
+Autorizzazione alla gestione di una scuola privata con sezione della scuola dell'infanzia. La libertà di associazione comprende anche il diritto di fondare e gestire istituti di formazione.  
+Libertà di associazione nel settore educativo nel rispetto dell'obbligo di vigilanza statale.
 
-La sentenza concretizza i diritti processuali delle associazioni nell'attuazione dei loro scopi statutari.
-
-### Scioglimento dell'associazione e delibere associative
-
-**DTF 85 II 525** (10 dicembre 1959)
-L'impugnazione giudiziaria di un'esclusione da un'associazione è ammissibile solo dopo che l'organo associativo supremo competente a decidere in merito l'abbia ordinata.
-
-La sentenza stabilisce principi procedurali per il controllo giudiziario delle decisioni associative.
+> «Ein Verein kann zur Wahrung der eigenen Interessen Beschwerde führen, wenn er durch staatliche Massnahmen in seiner grundrechtlich geschützten Vereinigungsfreiheit betroffen ist.»

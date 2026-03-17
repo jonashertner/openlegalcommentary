@@ -1,67 +1,75 @@
+# Art. 23 BV — Vereinigungsfreiheit
+
 ## Rechtsprechung
 
-### Grundlagen und Schutzbereich der Vereinigungsfreiheit
+### Grundlagen der Vereinigungsfreiheit
 
-**BGE 129 I 113** (15. November 2002)
-Die Koalitionsfreiheit verleiht Berufsverbänden des öffentlichen Dienstes zwar keinen Rechtsanspruch auf Mitwirkung am Gesetzgebungsverfahren betreffend das öffentlichrechtliche Dienstverhältnis, bei Änderungen von Gesetzen und Reglementen, welche die Arbeitsbedingungen ihrer Mitglieder wesentlich beeinflussen, ist ihnen jedoch in angemessener Form das rechtliche Gehör zu gewähren.
+**BGE 124 I 107** vom 29. April 1998  
+Positive und negative Vereinigungsfreiheit als zwei Seiten einer Garantie. Die negative Vereinigungsfreiheit gewährleistet das Recht, nicht einer Vereinigung anzugehören oder sie zu verlassen.  
+Grundsätzliche Definition der Vereinigungsfreiheit im Kontext einer kantonalen Volksinitiative zum Gesamtarbeitsvertragsrecht.
 
-Das Urteil konkretisiert die Vereinigungsfreiheit im Bereich des öffentlichen Dienstes und begründet partizipative Rechte von Berufsverbänden.
+> «Art. 56 Cst. garantiert la liberté d'association. Dans son aspect positif, cette liberté permet aux particuliers de créer des associations, d'en devenir membre, d'exercer en leur sein des activités, et de les dissoudre. Dans son aspect négatif, elle garantit le droit de ne pas être obligé de faire partie d'une association, ou de la quitter.»
 
-> «Der Staat hat als Arbeitgeber Abstand zu nehmen von jeglichen ungerechtfertigten diskriminierenden Massnahmen gegenüber Berufsverbänden, die deren Koalitionsfreiheit oder diejenige ihrer Mitglieder verletzen. Diskriminatorisch ist es, eine Arbeitnehmerorganisation wegen Ansichten, die sie zu Beginn des Verfahren vertreten hat, von der weiteren Mitwirkung am Gesetzgebungsverfahren auszuschliessen, während eine andere Organisation zugelassen wird.»
+**BGE 110 Ia 36** vom 25. Januar 1984  
+Negative Vereinigungsfreiheit bei Zwangsmitgliedschaft in öffentlich-rechtlichen Körperschaften. Studierende haben Anspruch darauf, dass ihre Zwangskörperschaft nicht als politische Organisation betrachtet wird.  
+Grundlegendes Urteil zur negativen Vereinigungsfreiheit bei unfreiwilliger Mitgliedschaft.
+
+> «Aus dem negativen Effekt der verfassungsmässigen Garantie der Vereinsfreiheit lässt sich der Anspruch darauf ableiten, dass die Organisation, der die Studierenden von Gesetzes wegen und ohne Austrittsmöglichkeit angehören, nicht als eine politische betrachtet wird.»
+
+### Vereinigungsfreiheit und Geschlechtergleichstellung
+
+**BGE 140 I 201** vom 21. März 2014  
+Grundrechtskollision zwischen Vereinigungsfreiheit und Gleichberechtigung von Mann und Frau. Universitäten dürfen einer Studentenverbindung, die Frauen ausschliesst, den Status als universitäre Vereinigung verweigern.  
+Erstes Grundsatzurteil zur Auflösung der Kollision zwischen Vereinigungsfreiheit und Geschlechtergleichstellung.
+
+> «Darf ein Verwaltungsträger, der eine staatliche Aufgabe wahrnimmt und deswegen an die Grundrechte gebunden ist, einer zivilrechtlichen Studentenverbindung den Status als universitäre Vereinigung verwehren und die zugehörigen Leistungen verweigern, weil sie Frauen von der Mitgliedschaft ausschliesst?»
+
+**BGE 151 I 337** vom 25. März 2025  
+Rechtsprechungsänderung zugunsten der Geschlechtergleichstellung. Die Universität kann einer ausschliesslich männlichen Studentenverbindung die Anerkennung verweigern, wenn kein objektiver Zusammenhang zwischen Vereinszweck und Geschlechterausschluss besteht.  
+Aktuelle Rechtsprechung zur Gewichtung zwischen Vereinigungsfreiheit und Diskriminierungsverbot.
+
+> «Die Universität verfügt aufgrund ihrer Autonomie über ein erhebliches Entscheidungsermessen bezüglich der Anerkennung einer universitären Vereinigung. Sie muss jedoch ein ausgewogenes Verhältnis zwischen den verschiedenen Grundrechten, an welche sie gebunden ist, wahren.»
+
+### Vereinigungsfreiheit und Versammlungsfreiheit
+
+**BGE 127 I 164** vom 20. September 2001  
+Meinungs- und Versammlungsfreiheit bei Demonstrationen auf öffentlichem Grund. Bewilligungspflicht und Interessenabwägung unter Beachtung des ideellen Gehalts der Grundrechte.  
+Leitentscheid zur praktischen Ausübung kollektiver Grundrechte im öffentlichen Raum.
+
+> «In materieller Hinsicht machen die Beschwerdeführer eine Verletzung der Meinungs- und Versammlungsfreiheit geltend. Das Vorhandensein einer kommunalen gesetzlichen Grundlage für das Erfordernis einer Bewilligung zur Durchführung von Kundgebungen auf öffentlichem Grund bestreiten sie nicht.»
+
+**BGE 124 I 267** vom 26. August 1998  
+Versammlungsfreiheit und Ortsbeschränkungen. Kein Anspruch auf Durchführung einer Kundgebung auf einem bestimmten öffentlichen Platz. Zulässigkeit eines generellen Demonstrationsverbots bei besonderer Funktion des Platzes.  
+Grenzen der Versammlungsfreiheit bei spezifischen örtlichen Gegebenheiten.
+
+> «Kundgebungen auf öffentlichem Grund stellen eine Form des gesteigerten Gemeingebrauchs dar und dürfen daher weitergehenden Beschränkungen unterworfen werden als Versammlungen auf privatem Grund.»
 
 ### Negative Vereinigungsfreiheit und Zwangsmitgliedschaft
 
-**Urteil 2C_58/2009** (4. Februar 2010)
-Die Vereinigungs- und Koalitionsfreiheit schützen nicht nur das Recht, sich einem Verband anzuschliessen, sondern auch das Recht, einem solchen fernzubleiben.
+**BGE 130 I 279** vom 13. Juli 2004  
+Verletzung der negativen Vereinigungsfreiheit durch zwangsweise Bindung an Gesamtarbeitsverträge. Kantonale Vorschriften, die verlängerte Öffnungszeiten an die Einhaltung von GAV knüpfen, sind unverhältnismässig.  
+Anwendung der negativen Vereinigungsfreiheit im Arbeitsrecht.
 
-Das Urteil betrifft die Verpflichtung zur Leistung von Berufsbildungsbeiträgen und stellt klar, dass Art. 23 BV auch vor faktischem Zwang zur Verbandsmitgliedschaft schützt.
+> «Eine kantonale Ladenschlussvorschrift, wonach verlängerte Öffnungszeiten nur bei Beachtung eines Gesamtarbeitsvertrages bewilligt werden, verletzt die negative Vereinigungsfreiheit, da sie faktisch zum Beitritt zu einem Arbeitgeberverband zwingt.»
 
-> «Die Vereinigungsfreiheiten schützen nicht nur das Recht, sich einem Verband anzuschliessen, sondern auch das Recht, einem solchen fernzubleiben. Nach BGE 124 I 107 E. 4c/cc S. 116 f. ist es insbesondere verfassungswidrig bzw. unverhältnismässig, von einem Unternehmen, das nicht Mitglied eines Verbandes ist, dennoch die Bezahlung von Verbandsbeiträgen zu verlangen.»
+**BVGE 2021 I/2** vom 30. März 2021  
+Zwangsmitgliedschaft in Branchenorganisationen. Indirekte Beitragspflicht über regionale Genossenschaftsverbände kann gerechtfertigt sein, wenn die Voraussetzungen von Art. 36 BV erfüllt sind.  
+Aktuelle Praxis zur negativen Vereinigungsfreiheit bei wirtschaftlichen Zwangsverbänden.
 
-### Kirchliche Vereinigungen und Autonomie
+> «Die positive Vereinigungsfreiheit umfasst das Recht, Vereinigungen zu bilden, Vereinigungen beizutreten oder anzugehören und sich an den Tätigkeiten von Vereinigungen zu beteiligen (sog. positive Vereinigungsfreiheit). Der Schutz vor Zwangsmitgliedschaft (sog. negative Vereinigungsfreiheit) wird durch Art. 23 Abs. 3 BV garantiert.»
 
-**BGE 145 I 121** (17. Dezember 2018)
-Die Glaubensfreiheit der Römisch-katholischen Landeskirche ist durch einen an Bedingungen gebundenen Beitrag an eine Beratungsstelle nicht verletzt, wenn der Beitrag nicht für der Kirchenlehre widersprechende Zwecke verwendet werden darf.
+### Vereinigungsfreiheit im Strafverfahren
 
-Das Urteil zeigt die Verschränkung von Vereinigungsfreiheit und Glaubensfreiheit bei kirchlichen Organisationen auf.
+**Urteil 6P.33/2006** vom 15. Mai 2006  
+Vereinigungsfreiheit als Rüge im Strafverfahren. Meinungs-, Informations- und Vereinigungsfreiheit können auch im strafrechtlichen Kontext verletzt werden.  
+Prozessrechtliche Aspekte der Vereinigungsfreiheit.
 
-> «Die Beitragsgewährung war an die Bedingung geknüpft, dass der Betrag namentlich nicht für die Beratung über Abtreibungsmethoden u.Ä. verwendet werden darf. Damit ist das Anliegen der Beschwerdeführerin erfüllt. Keine Verletzung ihrer Glaubensfreiheit.»
+> «Art. 9 BV (Strafverfahren; Willkür); Art. 16 BV (Meinungs- und Informationsfreiheit); Art. 23 BV (Vereinigungsfreiheit). Verfahrensrechtlicher Schutz der Grundrechte auch im Strafverfahren.»
 
-### Politische Vereinigungen und Parteien
+### Privatschulwesen und Vereinigungsfreiheit
 
-**BGE 151 I 41** (22. Mai 2024)
-Ein Parteiwechsel einer Kandidatin zwischen Wahltermin und Konstituierung des Parlaments kann eine schwere Irreführung der Stimmberechtigten darstellen, die die Wahlfreiheit nach Art. 34 Abs. 2 BV verletzt.
+**Urteil 2C_807/2015** vom 18. Oktober 2016  
+Bewilligung zur Führung einer Privatschule mit Kindergartenstufe. Vereinigungsfreiheit umfasst auch das Recht, Bildungseinrichtungen zu gründen und zu betreiben.  
+Vereinigungsfreiheit im Bildungsbereich unter Beachtung staatlicher Aufsichtspflicht.
 
-Das Urteil behandelt die Grenzen der Vereinigungsfreiheit im Kontext politischer Parteien und der demokratischen Legitimation.
-
-> «Die Täuschung über die 'wahre' Listenzugehörigkeit ist eine schwere Irreführung der Stimmberechtigten, die die in Art. 34 Abs. 2 BV verankerte Wahlfreiheit verletzt.»
-
-### Demonstrationsrecht und Vereinigungsfreiheit
-
-**Urteil 1C_485/2013** (3. Dezember 2013)
-Das Demonstrationsrecht steht in engem Zusammenhang mit der Vereinigungsfreiheit, da Demonstrationen häufig von Vereinigungen organisiert werden.
-
-Das Urteil verdeutlicht die Verbindung zwischen Art. 22 BV (Versammlungsfreiheit) und Art. 23 BV (Vereinigungsfreiheit).
-
-### Vereinsautonomie und Vereinsausschluss
-
-**BGE 123 III 193** (14. März 1997)
-Tritt ein Verein in der Öffentlichkeit als massgebende Organisation des betreffenden Berufsstandes auf, so verfügt er nicht über die umfassende Ausschlussautonomie des Art. 72 Abs. 2 ZGB.
-
-Das Urteil zeigt die verfassungsrechtlichen Grenzen der Vereinsautonomie auf, wenn Vereinigungen quasi-öffentliche Funktionen wahrnehmen.
-
-> «Ein Mitglied eines solchen Vereins kann angemessenen Schutz vor ungerechtfertigtem Ausschluss beanspruchen, wenn dieser seine wirtschaftliche Entfaltung empfindlich beeinträchtigen würde.»
-
-### Verbandsbeschwerde
-
-**BGE 136 II 539** (8. September 2010)
-Der Touring Club Schweiz ist zur Anfechtung einer Tempo-30-Zone auf einer Durchgangsstrasse legitimiert («egoistische Verbandsbeschwerde»).
-
-Das Urteil konkretisiert die prozessualen Rechte von Vereinigungen bei der Durchsetzung ihrer satzungsgemässen Zwecke.
-
-### Vereinsauflösung und Vereinsbeschlüsse
-
-**BGE 85 II 525** (10. Dezember 1959)
-Die gerichtliche Anfechtung einer Ausschliessung aus einem Verein ist erst zulässig, wenn das höchste zum Entscheid darüber berufene Vereinsorgan sie angeordnet hat.
-
-Das Urteil etabliert verfahrensrechtliche Grundsätze für die gerichtliche Kontrolle von Vereinsentscheidungen.
+> «Ein Verein kann zur Wahrung der eigenen Interessen Beschwerde führen, wenn er durch staatliche Massnahmen in seiner grundrechtlich geschützten Vereinigungsfreiheit betroffen ist.»
