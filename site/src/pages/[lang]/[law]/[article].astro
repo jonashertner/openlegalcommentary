@@ -192,7 +192,7 @@ const lastUpdated = Object.values(layerMeta)
     ]}
   />
 
-  <article class="article-page content-column">
+  <article class="article-page content-column" data-pagefind-body data-pagefind-filter={`language:${lang}`} data-pagefind-meta={`law:${lawParam!.toUpperCase()}, article:${meta.article}${meta.article_suffix || ''}`}>
     <header class="article-header">
       <h1>{meta.title}</h1>
       <div class="article-meta text-sm text-muted">

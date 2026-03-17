@@ -4,7 +4,6 @@ import { LANGS, type Lang, t } from '@/lib/i18n';
 import { langBase, langHome } from '@/lib/base';
 import Base from '../../../layouts/Base.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
-import SearchBar from '../../../components/SearchBar.astro';
 import { LAWS, getLawByAbbr } from '../../../lib/laws';
 import { listArticles, getLawStats } from '../../../lib/content';
 import fs from 'node:fs';
@@ -105,7 +104,14 @@ if (structure.length > 0) {
   </header>
 
   <div class="law-search">
-    <SearchBar placeholder={`${lawInfo.abbr} — Art. 41`} />
+    <button class="search-trigger law-search-btn" aria-label={t('header.search', lang)}>
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="8"/>
+        <path d="m21 21-4.3-4.3"/>
+      </svg>
+      <span>{t('search.placeholder', lang)}</span>
+      <kbd>⌘K</kbd>
+    </button>
   </div>
 
   <section class="toc">
@@ -198,6 +204,42 @@ if (structure.length > 0) {
 
   .law-search {
     margin-bottom: var(--space-4);
+  }
+
+  .law-search-btn {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    width: 100%;
+    padding: var(--space-2) var(--space-3);
+    background: var(--color-bg-card, var(--color-bg));
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    color: var(--color-text-muted);
+    font-family: var(--font-heading);
+    font-size: var(--text-sm);
+    transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  .law-search-btn:hover {
+    border-color: var(--color-accent);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .law-search-btn span {
+    flex: 1;
+    text-align: left;
+  }
+
+  .law-search-btn kbd {
+    font-family: var(--font-heading);
+    font-size: var(--text-xs);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 1px 5px;
+    background: var(--color-bg-alt);
+    color: var(--color-text-muted);
   }
 
   .toc h2 {

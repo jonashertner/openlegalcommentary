@@ -55,12 +55,16 @@ const fullTitle = title === 'Home'
     </script>
   </head>
   <body>
-    <Header currentPath={currentPath} lang={lang} />
+    <div data-pagefind-ignore>
+      <Header currentPath={currentPath} lang={lang} />
+    </div>
     <main>
       <div class="page-wrapper">
         <slot />
       </div>
     </main>
-    <Footer lang={lang} />
+    <div data-pagefind-ignore>
+      <Footer lang={lang} />
+    </div>
   </body>
 </html>

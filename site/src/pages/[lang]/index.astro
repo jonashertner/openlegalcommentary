@@ -4,7 +4,6 @@ import { LANGS, type Lang, t } from '@/lib/i18n';
 import { langBase, langHome } from '@/lib/base';
 import Base from '../../layouts/Base.astro';
 import LawCard from '../../components/LawCard.astro';
-import SearchBar from '../../components/SearchBar.astro';
 import { LAWS } from '../../lib/laws';
 import { getLawStats } from '../../lib/content';
 
@@ -35,7 +34,14 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
         {t('home.subtitle', lang)}
       </p>
       <div class="hero-search animate-fade-up delay-4">
-        <SearchBar />
+        <button class="search-trigger hero-search-btn" aria-label={t('header.search', lang)}>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"/>
+            <path d="m21 21-4.3-4.3"/>
+          </svg>
+          <span>{t('search.placeholder', lang)}</span>
+          <kbd>⌘K</kbd>
+        </button>
       </div>
       <div class="hero-stats animate-fade-up delay-5">
         <div class="hero-stat">
@@ -163,6 +169,43 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
     margin-bottom: var(--space-4);
     position: relative;
     z-index: 10;
+  }
+
+  .hero-search-btn {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    width: 100%;
+    max-width: 480px;
+    padding: var(--space-2) var(--space-3);
+    background: var(--color-bg-card, var(--color-bg));
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    cursor: pointer;
+    color: var(--color-text-muted);
+    font-family: var(--font-heading);
+    font-size: var(--text-sm);
+    transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  .hero-search-btn:hover {
+    border-color: var(--color-accent);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .hero-search-btn span {
+    flex: 1;
+    text-align: left;
+  }
+
+  .hero-search-btn kbd {
+    font-family: var(--font-heading);
+    font-size: var(--text-xs);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 1px 5px;
+    background: var(--color-bg-alt);
+    color: var(--color-text-muted);
   }
 
   .hero-stats {
