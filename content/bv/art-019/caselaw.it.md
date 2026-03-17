@@ -1,97 +1,105 @@
-# Giurisprudenza
+# Art. 19 — Istruzione elementare
 
-## Fondamenti del diritto all'istruzione di base gratuita
+## Giurisprudenza
 
-**BGE 129 I 12 E. 4** (7 novembre 2002)
-Esclusione disciplinare dalla scuola e art. 19 Cost.
-L'art. 19 Cost. fonda il diritto costituzionale individuale giuridicamente tutelato a una prestazione statale positiva nel settore dell'istruzione e delinea pertanto un diritto fondamentale sociale.
+### I. Contenuto e portata del diritto fondamentale
 
-> «Dall'art. 19 Cost. risulta il diritto a un'istruzione di base gratuita nelle scuole pubbliche corrispondente alle capacità individuali del bambino e al suo sviluppo della personalità durante il periodo scolastico obbligatorio di almeno nove anni.»
+**DTF 129 I 12** del 7.11.2002 — Natura giuridica e contenuto minimo
 
-**BGE 144 I 1 E. 2.1** (7 dicembre 2017)  
-Gratuità di escursioni e campi
-Decisione guida per la definizione del contenuto minimo costituzionalmente garantito dell'art. 19 Cost. in caso di trasferimento di costi cantonali sui genitori.
+Il Tribunale federale ha definito l'art. 19 Cost. come diritto fondamentale sociale che fonda una pretesa individuale soggettiva a una prestazione statale.
 
-> «L'art. 19 Cost. garantisce il diritto a un'istruzione di base sufficiente e gratuita. La norma fonda il diritto costituzionale individuale giuridicamente tutelato a una prestazione statale positiva nel settore dell'istruzione; essa delinea pertanto un diritto fondamentale sociale.»
+> «Dall'art. 19 Cost. risulta il diritto a un'istruzione elementare gratuita presso scuole pubbliche, corrispondente alle capacità individuali del bambino e al suo sviluppo della personalità, durante la scolarità obbligatoria di almeno nove anni.»
 
-## Portata della gratuità
+Sentenza fondamentale sulla dogmatica dei diritti fondamentali sociali e la loro distinzione dai diritti di libertà, con definizione dei requisiti minimi.
 
-**BGE 144 I 1 E. 2.3** (7 dicembre 2017)
-Determinazione del contenuto minimo costituzionale
-Decisione fondamentale sulle concretizzazioni restrittive da parte del legislatore e sui loro limiti.
+**DTF 144 I 1** del 7.12.2017 — Portata della gratuità
 
-> «Il diritto all'insegnamento gratuito comprende tutti i mezzi necessari e che servono direttamente al fine dell'insegnamento. Le concretizzazioni restrittive da parte del legislatore devono essere misurate in base al fatto se esse siano ancora conciliabili con il contenuto minimo costituzionalmente garantito.»
+Il Tribunale federale ha concretizzato la portata della gratuità garantita dal diritto costituzionale.
 
-**BGE 144 I 1 E. 3.1** (7 dicembre 2017)
-Escursioni scolastiche e costi dei campi
-Precisazione della garanzia di gratuità per le manifestazioni scolastiche obbligatorie al di fuori dell'insegnamento regolare.
+> «Il diritto all'istruzione gratuita comprende tutti i mezzi necessari e direttamente al servizio dello scopo dell'istruzione.»
 
-> «Le spese per escursioni e campi appartengono all'insegnamento necessario e quindi obbligatoriamente gratuito, purché sussista un obbligo di partecipazione. Per tali manifestazioni possono essere addebitate ai genitori solo quelle spese che essi risparmiano a causa dell'assenza dei loro figli.»
+Il Tribunale ha annullato la legislazione scolastica turgoviese che addossava ai genitori i costi per campi, escursioni e corsi di lingua. Sentenza guida per la determinazione dei limiti della gratuità.
 
-**BGE 133 I 156 E. 3.4** (7 maggio 2007)
-Delimitazione dell'istruzione di base
-Decisione importante sulla portata dell'art. 19 Cost. rispetto alle scuole superiori anche durante il periodo scolastico obbligatorio.
+**DTF 133 I 156** del 7.5.2007 — Delimitazione tra istruzione elementare e ginnasiale
 
-> «Il diritto costituzionale federale alla gratuità dell'istruzione di base non si estende – nonostante la terminologia modificata rispetto alla precedente Costituzione federale ('istruzione di base' invece di 'istruzione primaria') – in linea di principio nemmeno all'insegnamento nei ginnasi inferiori (statali), benché questo rientri ancora nel periodo scolastico obbligatorio.»
+Il Tribunale federale ha chiarito che la garanzia di gratuità, nonostante il cambiamento terminologico da «istruzione primaria» a «istruzione elementare», non si estende ai livelli ginnasiali.
 
-## Educazione speciale e integrazione di bambini con disabilità
+> «Il diritto costituzionale federale alla gratuità dell'istruzione elementare di principio non si estende anche all'istruzione presso gli (statali) sotto-ginnasi, benché questa rientri ancora nella scolarità obbligatoria.»
 
-**BGE 141 I 9 E. 3.2** (4 dicembre 2014)
-Gratuità nell'educazione speciale integrativa
-Decisione guida sulla ripartizione dei costi per misure di sostegno individuali per bambini disabili nelle scuole regolari.
+Importante delimitazione per l'interpretazione del termine «istruzione elementare».
 
-> «L'istruzione di base sufficiente è obbligatoriamente gratuita, anche quando la scuola fornisce una prestazione non prevista dalla legge. Se in determinate circostanze concrete un insegnamento integrativo con lezioni di assistenza supplementari corrisponde all'insegnamento dovuto ed è finanziariamente sostenibile e praticamente possibile, le lezioni di assistenza sono gratuite per i genitori.»
+### II. Educazione speciale e disabilità
 
-**BGE 138 I 162 E. 3.1** (13 aprile 2012)
-Margine di manovra dei Cantoni nell'educazione speciale
-Considerazioni fondamentali sui requisiti minimi per la scolarizzazione di bambini disabili.
+**DTF 141 I 9** del 4.12.2014 — Gratuità nell'educazione speciale
 
-> «Nel settore dell'educazione speciale spetta ai Cantoni un considerevole margine di manovra. I requisiti minimi del diritto federale richiedono solo un'offerta formativa adeguata e in base all'esperienza sufficiente nelle scuole pubbliche, ma non la scolarizzazione ottimale o più idonea di un bambino.»
+Il Tribunale federale ha sottolineato la gratuità imperativa anche nell'educazione speciale integrativa.
 
-**BGE 130 I 352 E. 3.2** (24 novembre 2004)
-Educazione speciale al di fuori del Cantone di domicilio
-Decisione su soluzioni intercantonali per bisogni formativi speciali di bambini disabili.
+> «L'istruzione elementare sufficiente è imperativamente gratuita, anche quando la scuola fornisce una prestazione non prevista dalla legge.»
 
-> «I Cantoni dispongono di un considerevole margine di manovra nella regolamentazione del sistema scolastico di base; essi devono garantire anche per i disabili un'istruzione di base gratuita corrispondente alle capacità individuali del bambino e al suo sviluppo della personalità.»
+Rilevante per la parificazione dei bambini disabili nel sistema educativo.
 
-## Esclusione disciplinare dalla scuola
+**DTF 138 I 162** del 13.4.2012 — Margine di manovra e standard minimi
 
-**BGE 129 I 12 E. 9.5** (7 novembre 2002)
-Assistenza continuativa in caso di esclusione dalla scuola
-Decisione fondamentale sui doveri statali in caso di esclusione temporanea di bambini soggetti all'obbligo scolastico.
+Il Tribunale federale ha definito i limiti della libertà di configurazione cantonale nell'educazione speciale.
 
-> «Di regola la collettività deve garantire un'assistenza continuativa degli allievi esclusi – fino alla fine dell'obbligo scolastico obbligatorio – da parte di persone idonee o istituzioni pubbliche.»
+> «I requisiti minimi del diritto federale richiedono soltanto un'offerta formativa adeguata e secondo l'esperienza sufficiente presso scuole pubbliche, ma non la scolarizzazione ottimale ovvero più adeguata di un bambino.»
 
-**BGE 129 I 35 E. 7.3** (7 novembre 2002)  
-Durata del diritto all'istruzione di base
-Precisazione dei limiti temporali del diritto secondo l'art. 19 Cost. in caso di misure disciplinari.
+Decisione di principio sul rapporto tra pretesa e capacità prestazionale statale.
 
-> «Secondo l'art. 48 VSG/SG l'obbligo scolastico – e quindi anche il diritto a un'istruzione elementare sufficiente e gratuita ai sensi dell'art. 19 Cost. – dura in linea di principio fino al completamento della terza classe del livello secondario I.»
+**DTF 130 I 352** del 24.11.2004 — Educazione speciale al di fuori del Cantone di domicilio
 
-## Homeschooling e forme alternative di insegnamento
+Il Tribunale federale ha riconosciuto il diritto a un'educazione speciale adeguata anche in caso di ripartizione intercantonale dei costi.
 
-**BGE 146 I 20 E. 4.3** (22 agosto 2019)
-Nessun diritto all'istruzione privata domestica
-Decisione importante sulla delimitazione del diritto secondo l'art. 19 Cost. rispetto alle forme di insegnamento private.
+> «Ai Cantoni compete un considerevole margine di configurazione nella regolamentazione del sistema scolastico elementare; essi devono garantire anche ai disabili un'istruzione elementare gratuita corrispondente alle capacità individuali del bambino e al suo sviluppo della personalità.»
 
-> «Il Tribunale federale ha già stabilito che l'art. 19 Cost. in relazione con l'art. 62 cpv. 2 Cost. non garantisce alcun diritto all'insegnamento privato individuale. Nel caso presente non sussiste alcun motivo per deviare da questa giurisprudenza.»
+Giurisprudenza rilevante per la ripartizione federalista dei costi.
 
-**BGE 146 I 20 E. 5.5** (22 agosto 2019)
-Autonomia regolamentare cantonale per l'homeschooling
-Decisione sull'ammissibilità di regolamentazioni cantonali molto restrittive dell'istruzione privata domestica.
+### III. Diritto disciplinare ed esclusione scolastica
 
-> «Di conseguenza anche regolamentazioni molto restrittive dell'istruzione privata domestica come quelle del Cantone di Basilea Città non violano il diritto costituzionale alla protezione della vita privata e familiare. Spetta ai Cantoni, nel rispetto dell'art. 19 e 62 cpv. 2 Cost., regolare se e in che misura l'homeschooling debba essere ammesso.»
+**DTF 129 I 35** del 7.11.2002 — Limiti dell'esclusione scolastica disciplinare
 
-## Misure COVID-19 nel settore scolastico
+Il Tribunale federale ha precisato i limiti costituzionali per le esclusioni scolastiche durante la scolarità obbligatoria.
 
-**Sentenza 2C_183/2021 E. 1.3** (23 novembre 2021)
-Obbligo di mascherina nella scuola primaria
-Decisione sulla proporzionalità di misure di protezione sanitaria nel contesto scolastico durante la pandemia.
+> «La collettività pubblica deve di regola garantire un'assistenza continuativa degli scolari elementari esclusi tramite persone idonee o istituzioni pubbliche.»
 
-> «La critica avanzata dalla ricorrente sulla disposizione impugnata è però di importanza fondamentale e potrebbe essere rilevante anche per ulteriori misure da emanare.»
+Decisione complementare al DTF 129 I 12 per i limiti delle misure disciplinari.
 
-**BGE 148 I 89** (4 novembre 2020)
-Controllo astratto delle norme per l'obbligo di mascherina
-Decisione sull'esame della proporzionalità di misure COVID-19 nelle scuole a partire dal 5° anno della scuola primaria.
+### IV. Istruzione privata e diritti educativi dei genitori
 
-> «Secondo lo stato attuale delle conoscenze e considerando le circostanze particolari della pandemia COVID-19, l'obbligo di portare la mascherina a partire dal 5° anno della scuola primaria si rivela proporzionato.»
+**DTF 146 I 20** del 22.8.2019 — Homeschooling
+
+Il Tribunale federale ha negato un diritto all'istruzione privata domestica.
+
+> «L'art. 19 in relazione con l'art. 62 cpv. 2 Cost. non garantisce alcun diritto all'istruzione privata individuale.»
+
+Il Tribunale ha confermato la sovranità normativa cantonale sull'ammissione dell'homeschooling. Decisione determinante sul rapporto tra diritti educativi dei genitori e obbligo scolastico statale.
+
+### V. Costi di trasporto e organizzazione scolastica
+
+**DTF 140 I 153** del 5.10.2014 — Costi di trasporto nell'educazione speciale
+
+Il Tribunale federale si è occupato della natura giuridica dell'assunzione dei costi di trasporto.
+
+> «Al diritto all'istruzione elementare sufficiente e gratuita corrisponde di principio anche un diritto all'assunzione dei costi di trasporto necessari per la frequenza scolastica.»
+
+Importante concretizzazione per i bambini con bisogni particolari.
+
+### VI. Misure COVID-19 e attività scolastica
+
+**DTF 148 I 89** del 4.11.2020 — Obbligo di mascherina a scuola
+
+Il Tribunale federale ha esaminato le misure di protezione COVID-19 sotto il profilo della proporzionalità.
+
+> «Secondo lo stato attuale delle conoscenze è da presumere che anche nelle scuole sussista un certo rischio di diffusione dei virus Corona e che l'uso di mascherine facciali contribuisca a ridurre questo rischio.»
+
+La decisione mostra i limiti del diritto fondamentale in caso di misure di protezione pandemica. Il Tribunale federale ha confermato l'obbligo di portare la mascherina a partire dal 5° anno scolastico come proporzionato.
+
+### VII. Insegnamento linguistico e integrazione
+
+**DTF 139 I 229** del 5.12.2011 — Lingua scolastica nei Grigioni
+
+Il Tribunale federale ha trattato il cambiamento della lingua scolastica nel contesto della libertà linguistica.
+
+> «La decisione del Governo grigionese secondo cui un cambiamento della lingua scolastica dal Rumantsch Grischun all'idioma o viceversa può avvenire di principio soltanto all'inizio della 1ª classe elementare, non tocca l'ambito di protezione della libertà linguistica.»
+
+Rilevante per il rapporto tra art. 19 Cost. e art. 18 Cost. (libertà linguistica).

@@ -1,97 +1,105 @@
-# Rechtsprechung
+# Art. 19 — Grundschulunterricht
 
-## Grundsätzliches zum Anspruch auf unentgeltlichen Grundschulunterricht
+## Rechtsprechung
 
-**BGE 129 I 12 E. 4** (7. November 2002)
-Disziplinarischer Schulausschluss und Art. 19 BV
-Art. 19 BV begründet den rechtlich durchsetzbaren verfassungsmässigen Individualanspruch auf eine positive staatliche Leistung im Bildungsbereich und umschreibt damit ein soziales Grundrecht.
+### I. Inhalt und Umfang des Grundrechts
+
+**BGE 129 I 12** vom 7.11.2002 — Rechtsnatur und Mindestgehalt
+
+Das Bundesgericht definierte Art. 19 BV als soziales Grundrecht, das einen individuellen subjektiven Anspruch auf eine staatliche Leistung begründet. 
 
 > «Aus Art. 19 BV ergibt sich der Anspruch auf eine den individuellen Fähigkeiten des Kindes und seiner Persönlichkeitsentwicklung entsprechende unentgeltliche Grundschulausbildung an öffentlichen Schulen während der obligatorischen Schulzeit von mindestens neun Jahren.»
 
-**BGE 144 I 1 E. 2.1** (7. Dezember 2017)  
-Unentgeltlichkeit von Exkursionen und Lagern
-Leitentscheid zur Definition des verfassungsrechtlich garantierten Minimalgehalts von Art. 19 BV bei kantonalen Kostenübertragungen auf Eltern.
+Grundlegendes Urteil zur Dogmatik sozialer Grundrechte und deren Unterscheidung von Freiheitsrechten, mit Definition der Mindestanforderungen.
 
-> «Art. 19 BV gewährleistet den Anspruch auf ausreichenden und unentgeltlichen Grundschulunterricht. Die Norm begründet den rechtlich durchsetzbaren verfassungsmässigen Individualanspruch auf eine positive staatliche Leistung im Bildungsbereich; sie umschreibt damit ein soziales Grundrecht.»
+**BGE 144 I 1** vom 7.12.2017 — Umfang der Unentgeltlichkeit
 
-## Umfang der Unentgeltlichkeit
+Das Bundesgericht konkretisierte den Umfang der verfassungsrechtlich gewährleisteten Unentgeltlichkeit.
 
-**BGE 144 I 1 E. 2.3** (7. Dezember 2017)
-Bestimmung des verfassungsrechtlichen Minimalgehalts
-Grundlegender Entscheid zu einschränkenden Konkretisierungen durch den Gesetzgeber und deren Grenzen.
+> «Der Anspruch auf unentgeltlichen Unterricht umfasst alle notwendigen und unmittelbar dem Unterrichtszweck dienenden Mittel.»
 
-> «Der Anspruch auf unentgeltlichen Unterricht umfasst alle notwendigen und unmittelbar dem Unterrichtszweck dienenden Mittel. Einschränkende Konkretisierungen durch den Gesetzgeber sind daran zu messen, ob sie mit dem verfassungsrechtlich garantierten Minimalgehalt noch zu vereinbaren sind.»
+Das Gericht hob die thurgauische Schulgesetzgebung auf, die Kosten für Lager, Exkursionen und Sprachkurse den Eltern aufbürdete. Leitentscheid zur Bestimmung der Grenzen der Unentgeltlichkeit.
 
-**BGE 144 I 1 E. 3.1** (7. Dezember 2017)
-Schulexkursionen und Lagerkosten
-Präzisierung der Unentgeltlichkeitsgarantie bei obligatorischen Schulveranstaltungen ausserhalb des regulären Unterrichts.
+**BGE 133 I 156** vom 7.5.2007 — Abgrenzung Grundschul- zu Gymnasialunterricht
 
-> «Aufwendungen für Exkursionen und Lager gehören zum notwendigen und somit zwingend unentgeltlichen Unterricht, sofern eine Pflicht zur Teilnahme besteht. Für solche Veranstaltungen dürfen den Eltern nur diejenigen Kosten in Rechnung gestellt werden, die sie aufgrund der Abwesenheit ihrer Kinder einsparen.»
+Das Bundesgericht klärte, dass die Unentgeltlichkeitsgarantie trotz der Terminologieänderung von «Primarunterricht» zu «Grundschulunterricht» nicht auf Gymnasialstufen ausstrahlt.
 
-**BGE 133 I 156 E. 3.4** (7. Mai 2007)
-Abgrenzung des Grundschulunterrichts
-Wichtiger Entscheid zur Reichweite von Art. 19 BV gegenüber weiterführenden Schulen auch während der obligatorischen Schulzeit.
+> «Der bundesverfassungsrechtliche Anspruch auf Unentgeltlichkeit des Grundschulunterrichts erstreckt sich grundsätzlich nicht auch auf den Unterricht an (staatlichen) Untergymnasien, wiewohl dieser noch in die obligatorische Schulzeit fällt.»
 
-> «Der bundesverfassungsrechtliche Anspruch auf Unentgeltlichkeit des Grundschulunterrichts erstreckt sich – trotz gegenüber der bisherigen Bundesverfassung geänderter Terminologie ('Grundschulunterricht' statt 'Primarunterricht') – grundsätzlich nicht auch auf den Unterricht an (staatlichen) Untergymnasien, wiewohl dieser noch in die obligatorische Schulzeit fällt.»
+Wichtige Abgrenzung für die Auslegung des Begriffs «Grundschulunterricht».
 
-## Sonderschulung und Integration von Kindern mit Behinderungen
+### II. Sonderschulung und Behinderung
 
-**BGE 141 I 9 E. 3.2** (4. Dezember 2014)
-Unentgeltlichkeit bei integrativer Sonderschulung
-Leitentscheid zur Kostentragung bei individuellen Unterstützungsmassnahmen für behinderte Kinder in Regelschulen.
+**BGE 141 I 9** vom 4.12.2014 — Unentgeltlichkeit bei Sonderschulung
 
-> «Der ausreichende Grundschulunterricht ist zwingend unentgeltlich, auch wenn die Schule eine gesetzlich nicht vorgesehene Leistung erbringt. Wenn ein integrativer Unterricht mit zusätzlichen Assistenzlektionen in den konkreten Umständen dem gebotenen Unterricht entspricht und finanziell tragbar sowie praktisch möglich ist, sind die Assistenzlektionen für die Eltern unentgeltlich.»
+Das Bundesgericht betonte die zwingende Unentgeltlichkeit auch bei integrativer Sonderschulung.
 
-**BGE 138 I 162 E. 3.1** (13. April 2012)
-Gestaltungsspielraum der Kantone bei Sonderschulung
-Grundsätzliche Ausführungen zu den Mindestanforderungen bei der Beschulung behinderter Kinder.
+> «Der ausreichende Grundschulunterricht ist zwingend unentgeltlich, auch wenn die Schule eine gesetzlich nicht vorgesehene Leistung erbringt.»
 
-> «Im Bereich der Sonderschulung kommt den Kantonen ein erheblicher Gestaltungsspielraum zu. Die bundesrechtlichen Minimalanforderungen verlangen nur ein angemessenes, erfahrungsgemäss ausreichendes Bildungsangebot an öffentlichen Schulen, nicht aber die optimale bzw. geeignetste Schulung eines Kindes.»
+Massgeblich für die Gleichstellung behinderter Kinder im Bildungswesen.
 
-**BGE 130 I 352 E. 3.2** (24. November 2004)
-Sonderschulung ausserhalb des Heimatkantons
-Entscheid zu interkantonalen Lösungen bei speziellen Bildungsbedürfnissen behinderter Kinder.
+**BGE 138 I 162** vom 13.4.2012 — Gestaltungsspielraum und Mindeststandards
+
+Das Bundesgericht definierte die Grenzen kantonaler Gestaltungsfreiheit in der Sonderschulung.
+
+> «Die bundesrechtlichen Minimalanforderungen verlangen nur ein angemessenes, erfahrungsgemäss ausreichendes Bildungsangebot an öffentlichen Schulen, nicht aber die optimale bzw. geeignetste Schulung eines Kindes.»
+
+Grundsatzentscheid zum Verhältnis von Anspruch und staatlicher Leistungsfähigkeit.
+
+**BGE 130 I 352** vom 24.11.2004 — Sonderschulung ausserhalb des Heimatkantons
+
+Das Bundesgericht anerkannte den Anspruch auf angemessene Sonderschulung auch bei interkantonaler Kostentragung.
 
 > «Den Kantonen steht bei der Regelung des Grundschulwesens ein erheblicher Gestaltungsspielraum zu; sie haben auch für Behinderte eine den individuellen Fähigkeiten des Kindes und seiner Persönlichkeitsentwicklung entsprechende, unentgeltliche Grundschulausbildung sicherzustellen.»
 
-## Disziplinärer Schulausschluss
+Relevante Rechtsprechung für die föderalistische Kostenverteilung.
 
-**BGE 129 I 12 E. 9.5** (7. November 2002)
-Weiterbetreuung bei Schulausschluss
-Grundlegender Entscheid zu den staatlichen Pflichten bei vorübergehendem Ausschluss schulpflichtiger Kinder.
+### III. Disziplinarrecht und Schulausschluss
 
-> «Das Gemeinwesen hat in der Regel eine Weiterbetreuung ausgeschlossener Schüler – bis zum Ende der obligatorischen Schulpflicht – durch geeignete Personen oder öffentliche Institutionen zu gewährleisten.»
+**BGE 129 I 35** vom 7.11.2002 — Grenzen des disziplinarischen Schulausschlusses
 
-**BGE 129 I 35 E. 7.3** (7. November 2002)  
-Dauer des Anspruchs auf Grundschulunterricht
-Präzisierung der zeitlichen Grenzen des Anspruchs nach Art. 19 BV bei disziplinären Massnahmen.
+Das Bundesgericht präzisierte die verfassungsrechtlichen Schranken für Schulausschlüsse während der obligatorischen Schulzeit.
 
-> «Nach Art. 48 VSG/SG dauert die Schulpflicht – und damit auch der Anspruch auf ausreichenden und unentgeltlichen Volksschulunterricht im Sinne von Art. 19 BV – grundsätzlich bis zum Abschluss der dritten Oberstufenklasse.»
+> «Das Gemeinwesen hat in der Regel eine Weiterbetreuung ausgeschlossener Grundschüler durch geeignete Personen oder öffentliche Institutionen zu gewährleisten.»
 
-## Homeschooling und alternative Unterrichtsformen
+Komplementärentscheid zu BGE 129 I 12 für die Grenzen disziplinarischer Massnahmen.
 
-**BGE 146 I 20 E. 4.3** (22. August 2019)
-Kein Anspruch auf häuslichen Privatunterricht
-Wichtiger Entscheid zur Abgrenzung des Anspruchs nach Art. 19 BV gegenüber privaten Unterrichtsformen.
+### IV. Privatunterricht und elterliche Bildungsrechte
 
-> «Das Bundesgericht hat bereits festgehalten, dass Art. 19 BV i.V.m. Art. 62 Abs. 2 BV keinen Anspruch auf privaten Einzelunterricht gewährt. Es besteht vorliegend kein Anlass, von dieser Rechtsprechung abzuweichen.»
+**BGE 146 I 20** vom 22.8.2019 — Homeschooling
 
-**BGE 146 I 20 E. 5.5** (22. August 2019)
-Kantonale Regelungsautonomie bei Homeschooling
-Entscheid zur Zulässigkeit sehr restriktiver kantonaler Regelungen des häuslichen Privatunterrichts.
+Das Bundesgericht verneinte einen Anspruch auf häuslichen Privatunterricht.
 
-> «Folglich verstossen selbst sehr restriktive Regelungen des häuslichen Privatunterrichts wie jene des Kantons Basel-Stadt nicht gegen den verfassungsmässigen Anspruch auf Schutz des Privat- und Familienlebens. Es ist Sache der Kantone, unter Beachtung von Art. 19 und 62 Abs. 2 BV zu regeln, ob und in welchem Umfang Homeschooling zugelassen werden soll.»
+> «Art. 19 i.V.m. Art. 62 Abs. 2 BV gewährt keinen Anspruch auf privaten Einzelunterricht.»
 
-## COVID-19-Massnahmen im Schulbereich
+Das Gericht bestätigte die kantonale Regelungshoheit über die Zulassung von Homeschooling. Massgeblicher Entscheid zum Verhältnis von elterlichen Bildungsrechten und staatlicher Schulpflicht.
 
-**Urteil 2C_183/2021 E. 1.3** (23. November 2021)
-Maskenpflicht in der Primarschule
-Entscheid zur Verhältnismässigkeit von Gesundheitsschutzmassnahmen im schulischen Kontext während der Pandemie.
+### V. Transportkosten und Schulorganisation
 
-> «Die von der Beschwerdeführerin vorgebrachte Kritik an der angefochtenen Bestimmung ist aber von grundsätzlicher Bedeutung und könnte auch für weitere zu erlassende Massnahmen von Relevanz sein.»
+**BGE 140 I 153** vom 5.10.2014 — Transportkosten bei Sonderschulung
 
-**BGE 148 I 89** (4. November 2020)
-Abstrakte Normenkontrolle bei Maskenpflicht
-Entscheid zur Prüfung der Verhältnismässigkeit von COVID-19-Massnahmen in Schulen ab dem 5. Primarschuljahr.
+Das Bundesgericht befasste sich mit der Rechtsnatur von Transportkostenübernahmen.
 
-> «Nach dem aktuellen Stand der Erkenntnisse und unter Berücksichtigung der besonderen Umstände der COVID-19-Pandemie erweist sich die Maskentragpflicht ab dem 5. Schuljahr der Primarschule als verhältnismässig.»
+> «Dem Rechtsanspruch auf ausreichenden und unentgeltlichen Grundschulunterricht entspricht grundsätzlich auch ein Anspruch auf Übernahme der notwendigen Transportkosten für den Schulbesuch.»
+
+Wichtige Konkretisierung für Kinder mit besonderen Bedürfnissen.
+
+### VI. COVID-19-Massnahmen und Schulbetrieb
+
+**BGE 148 I 89** vom 4.11.2020 — Maskentragpflicht in der Schule
+
+Das Bundesgericht prüfte COVID-19-Schutzmassnahmen auf ihre Verhältnismässigkeit.
+
+> «Nach dem aktuellen Stand des Wissens ist davon auszugehen, dass auch an Schulen ein gewisses Risiko der Verbreitung von Corona-Viren besteht und dass die Verwendung von Gesichtsmasken dazu beiträgt, dieses Risiko zu reduzieren.»
+
+Der Entscheid zeigt die Grenzen des Grundrechtsanspruchs bei Pandemieschutzmassnahmen auf. Das Bundesgericht bestätigte die Maskentragpflicht ab dem 5. Schuljahr als verhältnismässig.
+
+### VII. Sprachunterricht und Integration
+
+**BGE 139 I 229** vom 5.12.2011 — Schulsprache in Graubünden
+
+Das Bundesgericht behandelte den Wechsel der Schulsprache im Kontext der Sprachenfreiheit.
+
+> «Der Beschluss der Bündner Regierung, wonach ein Wechsel der Schulsprache vom Rumantsch Grischun zum Idiom oder umgekehrt grundsätzlich nur auf den Beginn der 1. Primarschulklasse erfolgen kann, berührt den Schutzbereich der Sprachenfreiheit nicht.»
+
+Relevant für das Verhältnis von Art. 19 BV zu Art. 18 BV (Sprachenfreiheit).

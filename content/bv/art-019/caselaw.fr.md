@@ -1,97 +1,105 @@
-# Jurisprudence
+# Art. 19 — Enseignement de base
 
-## Principes généraux du droit à l'enseignement primaire gratuit
+## Jurisprudence
 
-**ATF 129 I 12 consid. 4** (7 novembre 2002)
-Exclusion disciplinaire de l'école et art. 19 Cst.
-L'art. 19 Cst. fonde le droit constitutionnel individuel juridiquement exigible à une prestation publique positive dans le domaine de l'éducation et décrit ainsi un droit fondamental social.
+### I. Contenu et portée du droit fondamental
 
-> « Il résulte de l'art. 19 Cst. le droit à un enseignement primaire gratuit dans les écoles publiques, correspondant aux capacités individuelles de l'enfant et à son développement personnel, pendant la scolarité obligatoire d'au moins neuf ans. »
+**ATF 129 I 12** du 7.11.2002 — Nature juridique et contenu minimal
 
-**ATF 144 I 1 consid. 2.1** (7 décembre 2017)  
-Gratuité des excursions et des camps
-Arrêt de principe sur la définition du contenu minimal garanti par le droit constitutionnel de l'art. 19 Cst. en cas de transfert des coûts cantonaux aux parents.
+Le Tribunal fédéral a défini l'art. 19 Cst. comme un droit fondamental social qui fonde une prétention subjective individuelle à une prestation étatique.
 
-> « L'art. 19 Cst. garantit le droit à un enseignement primaire suffisant et gratuit. La norme fonde le droit constitutionnel individuel juridiquement exigible à une prestation publique positive dans le domaine de l'éducation ; elle décrit ainsi un droit fondamental social. »
+> « L'art. 19 Cst. donne naissance au droit à un enseignement de base gratuit dans les écoles publiques, correspondant aux capacités individuelles de l'enfant et au développement de sa personnalité, pendant la durée de la scolarité obligatoire d'au moins neuf ans. »
 
-## Étendue de la gratuité
+Arrêt fondamental sur la dogmatique des droits fondamentaux sociaux et leur distinction d'avec les droits de liberté, avec définition des exigences minimales.
 
-**ATF 144 I 1 consid. 2.3** (7 décembre 2017)
-Détermination du contenu minimal de droit constitutionnel
-Décision fondamentale sur les concrétisations restrictives par le législateur et leurs limites.
+**ATF 144 I 1** du 7.12.2017 — Portée de la gratuité
 
-> « Le droit à un enseignement gratuit comprend tous les moyens nécessaires et servant directement aux fins de l'enseignement. Les concrétisations restrictives par le législateur doivent être mesurées à l'aune de leur compatibilité avec le contenu minimal garanti par le droit constitutionnel. »
+Le Tribunal fédéral a concrétisé la portée de la gratuité garantie par la Constitution.
 
-**ATF 144 I 1 consid. 3.1** (7 décembre 2017)
-Excursions scolaires et coûts des camps
-Précision de la garantie de gratuité pour les manifestations scolaires obligatoires en dehors de l'enseignement régulier.
+> « Le droit à un enseignement gratuit comprend tous les moyens nécessaires et servant directement aux fins de l'enseignement. »
 
-> « Les dépenses pour les excursions et les camps font partie de l'enseignement nécessaire et donc obligatoirement gratuit, pour autant qu'il existe une obligation de participation. Pour de telles manifestations, seuls les coûts que les parents économisent en raison de l'absence de leurs enfants peuvent leur être facturés. »
+La Cour a annulé la législation scolaire thurgovienne qui mettait à la charge des parents les coûts des camps, excursions et cours de langue. Arrêt de principe pour la détermination des limites de la gratuité.
 
-**ATF 133 I 156 consid. 3.4** (7 mai 2007)
-Délimitation de l'enseignement primaire
-Décision importante sur la portée de l'art. 19 Cst. par rapport aux écoles du degré secondaire même pendant la scolarité obligatoire.
+**ATF 133 I 156** du 7.5.2007 — Délimitation entre enseignement de base et enseignement gymnasial
 
-> « Le droit de droit constitutionnel fédéral à la gratuité de l'enseignement primaire ne s'étend pas – malgré une terminologie modifiée par rapport à l'ancienne Constitution fédérale ('enseignement primaire' au lieu d''enseignement élémentaire') – en principe aussi à l'enseignement dans les gymnases inférieurs (publics), bien que celui-ci tombe encore dans la scolarité obligatoire. »
+Le Tribunal fédéral a clarifié que la garantie de gratuité ne s'étend pas aux niveaux gymnasiaux malgré le changement de terminologie de « enseignement primaire » à « enseignement de base ».
 
-## Pédagogie spécialisée et intégration des enfants handicapés
+> « La prétention de droit constitutionnel fédéral à la gratuité de l'enseignement de base ne s'étend en principe pas non plus à l'enseignement dans les gymnases inférieurs (étatiques), bien que celui-ci relève encore de la scolarité obligatoire. »
 
-**ATF 141 I 9 consid. 3.2** (4 décembre 2014)
-Gratuité de la pédagogie spécialisée intégrative
-Arrêt de principe sur la prise en charge des coûts des mesures de soutien individuelles pour les enfants handicapés dans les écoles ordinaires.
+Délimitation importante pour l'interprétation de la notion d'« enseignement de base ».
 
-> « L'enseignement primaire suffisant est obligatoirement gratuit, même si l'école fournit une prestation non prévue par la loi. Si un enseignement intégratif avec des leçons d'assistance supplémentaires correspond dans les circonstances concrètes à l'enseignement requis et est financièrement supportable ainsi que pratiquement possible, les leçons d'assistance sont gratuites pour les parents. »
+### II. Enseignement spécialisé et handicap
 
-**ATF 138 I 162 consid. 3.1** (13 avril 2012)
-Marge de manœuvre des cantons en matière de pédagogie spécialisée
-Considérations de principe sur les exigences minimales lors de la scolarisation d'enfants handicapés.
+**ATF 141 I 9** du 4.12.2014 — Gratuité dans l'enseignement spécialisé
 
-> « Dans le domaine de la pédagogie spécialisée, les cantons jouissent d'une marge de manœuvre considérable. Les exigences minimales de droit fédéral n'exigent qu'une offre de formation appropriée et suffisante selon l'expérience dans les écoles publiques, mais non la scolarisation optimale ou la plus appropriée d'un enfant. »
+Le Tribunal fédéral a souligné la gratuité impérative même dans l'enseignement spécialisé intégratif.
 
-**ATF 130 I 352 consid. 3.2** (24 novembre 2004)
-Pédagogie spécialisée hors du canton de domicile
-Décision sur les solutions intercantonales en cas de besoins éducatifs spéciaux d'enfants handicapés.
+> « L'enseignement de base suffisant est obligatoirement gratuit, même lorsque l'école fournit une prestation non prévue par la loi. »
 
-> « Les cantons disposent d'une marge de manœuvre considérable dans la réglementation du système scolaire primaire ; ils doivent aussi assurer aux handicapés un enseignement primaire gratuit correspondant aux capacités individuelles de l'enfant et à son développement personnel. »
+Déterminant pour l'égalisation des enfants handicapés dans le système éducatif.
 
-## Exclusion disciplinaire de l'école
+**ATF 138 I 162** du 13.4.2012 — Marge d'appréciation et standards minimaux
 
-**ATF 129 I 12 consid. 9.5** (7 novembre 2002)
-Prise en charge continue en cas d'exclusion scolaire
-Décision fondamentale sur les devoirs étatiques en cas d'exclusion temporaire d'enfants soumis à la scolarité obligatoire.
+Le Tribunal fédéral a défini les limites de la liberté cantonale d'organisation dans l'enseignement spécialisé.
 
-> « En règle générale, la collectivité publique doit assurer une prise en charge continue des élèves exclus – jusqu'à la fin de la scolarité obligatoire – par des personnes appropriées ou des institutions publiques. »
+> « Les exigences minimales de droit fédéral ne requièrent qu'une offre de formation appropriée et expérimentalement suffisante dans les écoles publiques, mais pas la scolarisation optimale resp. la plus appropriée d'un enfant. »
 
-**ATF 129 I 35 consid. 7.3** (7 novembre 2002)  
-Durée du droit à l'enseignement primaire
-Précision des limites temporelles du droit selon l'art. 19 Cst. en cas de mesures disciplinaires.
+Arrêt de principe sur le rapport entre prétention et capacité de prestation étatique.
 
-> « Selon l'art. 48 VSG/SG, l'obligation scolaire – et par conséquent aussi le droit à un enseignement populaire suffisant et gratuit au sens de l'art. 19 Cst. – dure en principe jusqu'à l'achèvement de la troisième classe du degré secondaire supérieur. »
+**ATF 130 I 352** du 24.11.2004 — Enseignement spécialisé hors du canton de domicile
 
-## Instruction à domicile et formes d'enseignement alternatives
+Le Tribunal fédéral a reconnu la prétention à un enseignement spécialisé approprié même en cas de prise en charge des coûts intercantonale.
 
-**ATF 146 I 20 consid. 4.3** (22 août 2019)
-Pas de droit à l'instruction privée à domicile
-Décision importante sur la délimitation du droit selon l'art. 19 Cst. par rapport aux formes d'enseignement privées.
+> « Les cantons disposent d'une marge d'appréciation considérable dans la réglementation du système scolaire de base ; ils doivent aussi assurer aux handicapés un enseignement de base gratuit correspondant aux capacités individuelles de l'enfant et au développement de sa personnalité. »
 
-> « Le Tribunal fédéral a déjà établi que l'art. 19 Cst. en relation avec l'art. 62 al. 2 Cst. n'accorde aucun droit à un enseignement privé individuel. Il n'y a pas lieu en l'espèce de déroger à cette jurisprudence. »
+Jurisprudence pertinente pour la répartition fédéraliste des coûts.
 
-**ATF 146 I 20 consid. 5.5** (22 août 2019)
-Autonomie réglementaire cantonale en matière d'instruction à domicile
-Décision sur l'admissibilité de réglementations cantonales très restrictives de l'instruction privée à domicile.
+### III. Droit disciplinaire et exclusion scolaire
 
-> « Par conséquent, même des réglementations très restrictives de l'instruction privée à domicile comme celles du canton de Bâle-Ville ne violent pas le droit constitutionnel à la protection de la vie privée et familiale. Il appartient aux cantons, dans le respect de l'art. 19 et 62 al. 2 Cst., de régler si et dans quelle mesure l'instruction à domicile doit être autorisée. »
+**ATF 129 I 35** du 7.11.2002 — Limites de l'exclusion scolaire disciplinaire
 
-## Mesures COVID-19 dans le domaine scolaire
+Le Tribunal fédéral a précisé les limites constitutionnelles des exclusions scolaires pendant la scolarité obligatoire.
 
-**Arrêt 2C_183/2021 consid. 1.3** (23 novembre 2021)
-Obligation de porter un masque à l'école primaire
-Décision sur la proportionnalité des mesures de protection sanitaire dans le contexte scolaire pendant la pandémie.
+> « La collectivité publique doit en règle générale assurer la prise en charge continue des élèves du degré primaire exclus par des personnes appropriées ou des institutions publiques. »
 
-> « La critique avancée par la recourante à l'encontre de la disposition attaquée est toutefois d'importance fondamentale et pourrait aussi être pertinente pour d'autres mesures à prendre. »
+Arrêt complémentaire à l'ATF 129 I 12 pour les limites des mesures disciplinaires.
 
-**ATF 148 I 89** (4 novembre 2020)
-Contrôle abstrait des normes en cas d'obligation de porter un masque
-Décision sur l'examen de la proportionnalité des mesures COVID-19 dans les écoles dès la 5e année primaire.
+### IV. Enseignement privé et droits éducatifs parentaux
 
-> « Selon l'état actuel des connaissances et en tenant compte des circonstances particulières de la pandémie de COVID-19, l'obligation de porter un masque dès la 5e année de l'école primaire s'avère proportionnée. »
+**ATF 146 I 20** du 22.8.2019 — Enseignement à domicile
+
+Le Tribunal fédéral a nié une prétention à l'enseignement privé à domicile.
+
+> « L'art. 19 en relation avec l'art. 62 al. 2 Cst. n'accorde aucune prétention à l'enseignement privé individuel. »
+
+La Cour a confirmé la souveraineté cantonale de réglementation sur l'autorisation de l'enseignement à domicile. Arrêt déterminant sur le rapport entre droits éducatifs parentaux et obligation scolaire étatique.
+
+### V. Coûts de transport et organisation scolaire
+
+**ATF 140 I 153** du 5.10.2014 — Coûts de transport dans l'enseignement spécialisé
+
+Le Tribunal fédéral s'est penché sur la nature juridique de la prise en charge des coûts de transport.
+
+> « À la prétention juridique à un enseignement de base suffisant et gratuit correspond en principe aussi une prétention à la prise en charge des coûts de transport nécessaires pour la fréquentation scolaire. »
+
+Concrétisation importante pour les enfants ayant des besoins particuliers.
+
+### VI. Mesures COVID-19 et fonctionnement scolaire
+
+**ATF 148 I 89** du 4.11.2020 — Obligation du port du masque à l'école
+
+Le Tribunal fédéral a examiné les mesures de protection COVID-19 sous l'angle de leur proportionnalité.
+
+> « Selon l'état actuel des connaissances, il faut partir du principe qu'il existe aussi dans les écoles un certain risque de propagation des coronavirus et que l'utilisation de masques faciaux contribue à réduire ce risque. »
+
+L'arrêt montre les limites de la prétention de droit fondamental en cas de mesures de protection pandémique. Le Tribunal fédéral a confirmé l'obligation du port du masque dès la 5e année scolaire comme proportionnée.
+
+### VII. Enseignement linguistique et intégration
+
+**ATF 139 I 229** du 5.12.2011 — Langue scolaire aux Grisons
+
+Le Tribunal fédéral a traité le changement de langue scolaire dans le contexte de la liberté des langues.
+
+> « La décision du gouvernement grison selon laquelle un changement de la langue scolaire du romanche grischun vers l'idiome ou inversement ne peut en principe avoir lieu qu'au début de la 1re classe primaire ne touche pas le champ de protection de la liberté des langues. »
+
+Pertinent pour le rapport entre l'art. 19 Cst. et l'art. 18 Cst. (liberté des langues).
