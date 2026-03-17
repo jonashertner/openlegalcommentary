@@ -284,6 +284,16 @@ const {
       font-size: var(--text-sm);
     }
   }
+
+  @media (max-width: 640px) {
+    .tabs-nav {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      flex-wrap: nowrap;
+      scrollbar-width: none;
+    }
+    .tabs-nav::-webkit-scrollbar { display: none; }
+  }
 </style>
 
 <script>

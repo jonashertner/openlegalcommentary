@@ -591,6 +591,30 @@ main {
   border-radius: var(--radius-sm);
 }
 
+/* ===== Touch Targets ===== */
+.search-trigger,
+.theme-toggle,
+.nav-toggle {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+.nav-list a {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.tab-btn {
+  min-height: 44px;
+}
+
+.lang-btn {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
 /* ===== Skip to Content ===== */
 .skip-link {
   position: absolute;
