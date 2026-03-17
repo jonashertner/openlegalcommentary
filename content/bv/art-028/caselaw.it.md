@@ -1,63 +1,49 @@
 ## Giurisprudenza
 
-### Libertà sindacale nel servizio pubblico
+### Libertà sindacale e attività sindacale
 
-**DTF 144 I 50** (2017)
-Decisione del governo che vieta in principio l'accesso dei sindacati agli edifici amministrati dallo Stato quale datore di lavoro.
-Il divieto generale di accesso agli edifici dell'amministrazione statale viola la libertà sindacale?
+**BGE 144 I 50** del 6 settembre 2017
+Diritto di accesso sindacale agli edifici amministrativi del datore di lavoro pubblico.
+La decisione concretizza la portata della libertà sindacale per i sindacati nel servizio pubblico.
 
-> «Il diritto di accesso agli edifici amministrativi è un contenuto essenziale della libertà sindacale (consid. 5.3.3.1, 5.3.3.2 e 5.4). Lo Stato deve tra l'altro mettere i sindacati nella condizione di poter configurare effettivamente in modo libero le loro attività (consid. 5.3.2), in conformità agli obblighi del diritto internazionale, segnatamente le Convenzioni OIL n. 87 e 98.»
+> «La libertà sindacale secondo l'art. 28 Cost. non è soltanto una libertà negativa, ma garantisce anche un minimo di libertà d'azione positiva, che permette l'esercizio effettivo dell'attività sindacale. Il diritto di accesso agli edifici amministrativi è una componente essenziale della libertà sindacale, poiché senza questo diritto i sindacati non possono svolgere efficacemente i loro compiti.»
 
-**DTF 140 I 257** (2014)
-Criteri per il riconoscimento di un sindacato come partner sociale nell'ambito del PF.
-Concretizza i presupposti per il riconoscimento come partner sociale autorizzato a negoziare.
+**BGE 140 I 257** del 26 luglio 2014 
+Riconoscimento di un sindacato come partner sociale nell'ambito dei PF.
+La decisione precisa i presupposti per il riconoscimento come sindacato abilitato alle trattative.
 
-> «Un sindacato può invocare la libertà sindacale per far valere pretese di partecipazione a negoziazioni collettive o alla conclusione di un contratto collettivo con un datore di lavoro pubblico (consid. 5.1.1), nella misura in cui può essere riconosciuto come partner sociale. Ciò presuppone che sia sufficientemente rappresentativo e si comporti lealmente (consid. 5.2.1 e 5.2.2).»
+> «Un sindacato può invocare la libertà sindacale per far valere pretese di partecipazione alle trattative tariffali o alla conclusione di un contratto tariffale con un datore di lavoro pubblico, nella misura in cui possa essere riconosciuto come partner sociale. Ciò presuppone che sia sufficientemente rappresentativo e si comporti lealmente.»
 
-**DTF 134 I 23** (2008)
-Controllo astratto delle norme della legge vallesana sugli istituti di previdenza statali; violazione delle Convenzioni OIL n. 98, 150 e 154.
-Stabilisce il vincolo dello Stato alle Convenzioni OIL nel diritto della previdenza professionale.
+### Diritto di sciopero e lotta sindacale
 
-> «Il diritto di essere sentiti secondo l'art. 51 cpv. 5 LPP e le Convenzioni OIL n. 98, 150 e 154 non sono stati violati (consid. 6.4).»
+**BGE 132 III 122** del 13 settembre 2005
+Legittimità dei mezzi di lotta sindacale e dei picchetti di sciopero.
+La decisione fondamentale definisce i quattro presupposti dei mezzi di lotta sindacale legittimi.
 
-### Diritto di sciopero e mezzi di lotta sindacale
+> «L'art. 28 Cost. concernente la libertà sindacale spiega un effetto indiretto tra terzi nell'ambito dei rapporti di lavoro del settore privato. Perché un mezzo di lotta sia legittimo, deve riguardare i rapporti di lavoro, non violare l'obbligo di pace relativo, essere sostenuto da un'associazione di lavoratori e rispettare il principio di proporzionalità.»
 
-**DTF 132 III 122** (2005)
-Liceità dei mezzi impiegati nella lotta sindacale; azione di blocco senza partecipazione di dipendenti dell'impresa oggetto dello sciopero.
-Decisione fondamentale sui presupposti dei mezzi di lotta sindacale leciti nel settore privato.
+**BGE 134 IV 216** del 3 aprile 2008
+Punibilità dei blocchi autostradali durante uno sciopero.
+La decisione traccia i confini tra sciopero legittimo e coercizione punibile.
 
-> «Poiché l'art. 28 Cost. concernente la libertà sindacale sviluppa effetti indiretti nei rapporti di terzi nell'ambito delle relazioni di lavoro del settore privato, un tribunale deve considerare questo diritto costituzionale quando esamina la liceità di un mezzo impiegato nella lotta sindacale. Perché un mezzo di lotta sia lecito, deve riguardare i rapporti di lavoro, non contrastare con l'obbligo relativo di pace, essere sostenuto da un'associazione dei lavoratori e rispettare il principio di proporzionalità.»
-
-**DTF 134 IV 216** (2008)
-Blocco del traffico su un'autostrada nell'ambito di uno sciopero; coazione.
-Limiti dell'esercizio del diritto di sciopero nello spazio pubblico.
-
-> «La variante di fattispecie della "altra limitazione della libertà d'azione" nell'art. 181 CP, definita "pericolosamente ampia" nella giurisprudenza, deve essere interpretata restrittivamente per ragioni di Stato di diritto. Il mezzo coercitivo della "altra limitazione della libertà d'azione" deve, per essere conforme alla fattispecie, superare la misura di influenza abitualmente tollerata.»
+> «È lecito organizzare picchetti di sciopero purché non usino la forza. Non appena i picchetti di sciopero usano la violenza per costringere persone a non presentarsi al lavoro, escono dal quadro dell'esercizio lecito di un mezzo di lotta.»
 
 ### Dichiarazione di obbligatorietà generale dei contratti collettivi di lavoro
 
-**DTF 146 II 335** (2020)
-Dichiarazione di obbligatorietà generale dei contratti collettivi di lavoro; principio della "porta aperta"; ammissibilità di condizioni accessorie.
-Determinante per la partecipazione dei sindacati alla dichiarazione di obbligatorietà generale.
+**BGE 146 II 335** dell'11 maggio 2020
+Principio della «porta aperta» nella dichiarazione di obbligatorietà generale.
+La decisione tratta i presupposti per la dichiarazione di obbligatorietà generale dei contratti collettivi di lavoro.
 
-> «La dichiarazione di obbligatorietà generale dei contratti collettivi di lavoro è soggetta al principio della "porta aperta", secondo cui in principio tutti i partner sociali interessati hanno diritto alla partecipazione, purché soddisfino i presupposti legali.»
+> «Se il principio della 'porta aperta' (art. 2 n. 6 LECL) non è rispettato, la dichiarazione di obbligatorietà generale deve essere rifiutata; non è sufficiente completare la dichiarazione di obbligatorietà generale con una condizione accessoria corrispondente.»
 
-### Libertà di associazione e libertà economica
+### Libertà di associazione e associazioni professionali
 
-Sentenza **2C_58/2009** del 4 febbraio 2010
-Fondi per la formazione professionale e libertà di associazione e sindacale garantita costituzionalmente.
-Sulla delimitazione tra libertà di associazione e sindacale presso le organizzazioni professionali.
+**BGE 134 I 23** del 31 ottobre 2007
+Libertà sindacale e previdenza sociale nel servizio pubblico.
+La decisione tratta l'ambito di applicazione della libertà sindacale presso le casse pensioni.
 
-> «La sentenza del tribunale superiore viola la regolamentazione legale federale sui fondi per la formazione professionale nonché la libertà di associazione e sindacale garantita costituzionalmente (art. 23 e 28 Cost.).»
+Altre decisioni rilevanti riguardano la delimitazione tra libertà di associazione (art. 23 Cost.) e libertà sindacale (art. 28 Cost.), dove l'art. 28 Cost. come norma più speciale disciplina i rapporti giuslavoristici tra datori di lavoro e lavoratori.
 
-### Diritto penale e libertà sindacale
+### Sviluppi attuali
 
-Sentenza **6B_1423/2019** del 26 ottobre 2020
-Diffamazione, contravvenzione alla legge federale contro la concorrenza sleale; principio dell'accusa.
-Sull'applicazione della libertà sindacale nel procedimento penale.
-
-### Giurisprudenza internazionale
-
-**CEDU Sisman e altri c. Turchia** (2011)
-Citata in DTF 144 I 50 riguardo a misure eccessivamente restrittive contro le attività sindacali.
-Standard internazionali per la libertà di attività sindacale.
+In decisioni più recenti il Tribunale federale ha maggiormente considerato la dimensione internazionale della libertà sindacale, in particolare attraverso il richiamo alle Convenzioni OIL n. 87 e 98 nonché all'art. 11 CEDU. La giurisprudenza si sviluppa verso un rafforzato riconoscimento dei diritti sindacali anche nel settore pubblico.

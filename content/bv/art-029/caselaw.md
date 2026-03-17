@@ -1,131 +1,79 @@
-# Rechtsprechung
+# Art. 29 BV
 
-## Allgemeine Verfahrensgarantien (Abs. 1)
+## Rechtsprechung
 
-### Faire und gleichmässige Behandlung
+### Rechtliches Gehör (Abs. 2)
 
-**BGE 137 V 210 E. 1-2** vom 31. März 2011  
-Faire Verfahrensgestaltung bei medizinischen Begutachtungen in der Sozialversicherung.  
-Grundlegender Entscheid zu den verfassungsrechtlichen Anforderungen an ein faires Verwaltungsverfahren.  
+#### Replikrecht und Zustellungspflicht
 
-> «Die Beschaffung medizinischer Entscheidungsgrundlagen durch externe Gutachtensinstitute wie die MEDAS in der schweizerischen Invalidenversicherung sowie deren Verwendung auch im Gerichtsverfahren ist an sich verfassungs- und konventionskonform. Latente Gefährdungen der Verfahrensgarantien ergeben sich aus dem Ertragspotential der Tätigkeit der MEDAS zuhanden der Invalidenversicherung.»
+**BGE 137 I 195** vom 23. März 2011
+Das Replikrecht als Teilaspekt des rechtlichen Gehörs setzt die Zustellung aller Eingaben der Verfahrensbeteiligten voraus. Diese Verletzung kann nicht durch blosse Akteneinsichtsmöglichkeit geheilt werden.
 
-**BGE 141 I 60 E. 2-4** vom 11. März 2015  
-Fairness-Prinzip bei Einbürgerungsverfahren.  
-Konkretisierung der Verfahrensfairness im Verwaltungsrecht.  
+> «Die Wahrnehmung des Replikrechts als Teilaspekt des Anspruchs auf rechtliches Gehör gemäss Art. 29 Abs. 2 BV und Art. 6 Ziff. 1 EMRK setzt die Zustellung der von den übrigen Verfahrensbeteiligten eingereichten Eingaben voraus. Hat das Gericht eine solche Eingabe nicht zugestellt, befindet sie sich jedoch bei den Akten, kann die Rechtsmittelinstanz die Verletzung des Anspruchs auf rechtliches Gehör nicht mit dem blossen Verweis auf die Möglichkeit der Akteneinsicht heilen.»
 
-> «Tragweite des Grundsatzes der Fairness im Verfahren, des Anspruchs auf rechtliches Gehör, des Prinzips von Treu und Glauben, insbesondere des Rechts des Gesuchstellers auf vorgängige Orientierung sowie der Aktenführungspflicht der Behörden.»
+**BGE 145 I 167** vom 26. November 2018
+Initianten haben unter bestimmten Umständen Anspruch auf rechtliches Gehör bei der Prüfung der Gültigkeit einer Volksinitiative durch die kantonale Exekutive. Das rechtliche Gehör wird nicht verletzt, wenn die Entscheidung auf einer vorhersehbaren rechtlichen Argumentation beruht.
 
-### Angemessene Verfahrensdauer
+> «Unter bestimmten Umständen besteht für die Initianten ein Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV), wenn eine kantonale Exekutive über die Gültigkeit einer Initiative entscheidet, bevor dafür Unterschriften gesammelt werden.»
 
-**BGE 139 I 206 E. 4** vom 22. Juli 2013  
-Beschleunigungsgebot im Ausländerrecht.  
-Spezialfall der Verfahrensbeschleunigung bei Haftverfahren.  
+#### Verfahrensmängel in der Rechtsprechung
 
-> «Die ausländerrechtliche Festhaltung aufgrund eines neuen kantonalen Haftentscheids setzt besondere Verfahrensgarantien voraus. Das ausländerrechtliche Beschleunigungsgebot verlangt eine zügige Abklärung der Voraussetzungen.»
+**BGE 136 I 229** vom 14. Mai 2010
+Prüfungsverfahren und Verletzung des rechtlichen Gehörs bei der Beurteilung von Masterabschlüssen. Ein Prüfungsergebnis kann mit subsidiärer Verfassungsbeschwerde angefochten werden, wenn das Bestehen oder Nichtbestehen sowie Prädikate nach festen Regeln bestimmt werden.
 
-## Rechtliches Gehör (Abs. 2)
+> «Ein Prüfungsergebnis (bzw. eine Note) kann mit subsidiärer Verfassungsbeschwerde angefochten werden, wenn das Nichtbestehen, eine andere Rechtsfolge (wie der Ausschluss von der Weiterbildung) oder ein Prädikat in Frage steht, für das die Prüfungsordnung vorgibt, wie es zu bestimmen ist.»
 
-### Grundsätze des rechtlichen Gehörs
+**BGE 126 I 97** vom 12. April 2000
+Begründungspflicht der entscheidenden Behörde in Bezug auf wesentliche Punkte als Teil des rechtlichen Gehörs. Die Behörde muss in ihrem Entscheid darlegen, weshalb sie bestimmte Beweismittel nicht berücksichtigt hat.
 
-**BGE 133 I 100 E. 4.3-4.6** vom 11. Januar 2007  
-Grundlegende Neuausrichtung des Replikrechts.  
-Wegweisende Rechtsprechungsänderung zur EMRK-konformen Auslegung.  
+> «Die Behörde muss in ihrem Entscheid darlegen, weshalb sie bestimmte Beweismittel oder Gesichtspunkte, die für die betroffene Partei von erheblicher Bedeutung waren und von dieser vorgebracht wurden, nicht berücksichtigt hat.»
 
-> «Der Anspruch auf rechtliches Gehör ist ein Teilaspekt des allgemeinen Grundsatzes des fairen Verfahrens von Art. 29 Abs. 1 BV bzw. Art. 6 Ziff. 1 EMRK. Er umfasst das Recht, von jeder dem Gericht eingereichten Stellungnahme Kenntnis zu nehmen und sich dazu äussern zu können, unabhängig davon, ob diese neue Tatsachen oder Argumente enthält und ob sie das Gericht tatsächlich zu beeinflussen vermag.»
+### Unentgeltliche Rechtspflege (Abs. 3)
 
-**BGE 137 I 195 E. 2.3** vom 23. März 2011  
-Replikrecht und Zustellungserfordernis.  
-Präzisierung der praktischen Umsetzung des Replikrechts.  
+#### Grundsätze und Voraussetzungen
 
-> «Die Wahrnehmung des Replikrechts als Teilaspekt des Anspruchs auf rechtliches Gehör gemäss Art. 29 Abs. 2 BV und Art. 6 Ziff. 1 EMRK setzt die Zustellung der von den übrigen Verfahrensbeteiligten eingereichten Eingaben voraus.»
-
-### Begründungspflicht
-
-**BGE 126 I 97 E. 2b** vom 2. November 1999  
-Begründungspflicht als Ausfluss des rechtlichen Gehörs.  
-Grundlegender Entscheid zur Ableitung der Begründungspflicht aus Art. 29 Abs. 2 BV.  
-
-> «Aus dem Grundsatz des rechtlichen Gehörs leitet das Bundesgericht in ständiger Rechtsprechung die Pflicht der Behörden ab, ihre Verfügungen und Entscheide zu begründen. Die Begründungspflicht bezweckt, der betroffenen Person die Überprüfung des Entscheids zu ermöglichen und ihr die nötigen Angaben für eine Anfechtung zu liefern.»
-
-**BGE 129 I 232 E. 3.3-3.6** vom 9. Juli 2003  
-Begründungspflicht bei Einbürgerungsentscheiden.  
-Zentrale Rechtsprechung zur Demokratie und Rechtsstaatlichkeit.  
-
-> «Ablehnende Einbürgerungsentscheide unterliegen der Begründungspflicht gemäss Art. 29 Abs. 2 BV (Anspruch auf rechtliches Gehör) i.V.m. Art. 8 Abs. 2 BV (Diskriminierungsverbot). Bei der Urnenabstimmung ist eine den verfassungsrechtlichen Anforderungen genügende Begründung nicht möglich.»
-
-### Replikrecht in verschiedenen Verfahren
-
-**BGE 138 I 154 E. 3** vom 5. Juli 2012  
-Replikrecht in Verwaltungsverfahren.  
-Anwendung der Replikrechts-Grundsätze ausserhalb der Gerichtsverfahren.  
-
-> «Soweit Eingaben von Vorinstanz oder Gegenpartei Noven enthalten, die prozessual zulässig und materiell geeignet sind, den Entscheid zu beeinflussen, fliesst ein "Replikrecht i.e.S." unmittelbar aus Art. 29 Abs. 2 BV.»
-
-**BGE 138 I 484 E. 4** vom 18. Dezember 2012  
-Effektives Replikrecht im gerichtlichen Verfahren.  
-Konkretisierung der richterlichen Pflichten zur Gewährleistung des Replikrechts.  
-
-> «Es ist Aufgabe des Gerichts, in jedem Einzelfall ein effektives Replikrecht der Parteien zu gewährleisten. Hierfür kann es genügen, eine Eingabe lediglich zur Kenntnisnahme zuzustellen, wenn von der Partei erwartet werden kann, dass sie umgehend unaufgefordert Stellung nimmt.»
-
-### Anhörungsrecht im Verwaltungsverfahren
-
-**BGE 126 V 130 E. 2** vom 5. Juni 2000  
-Vorgängiges rechtliches Gehör bei Sanktionen.  
-Präventive Gehörsgewährung vor belastenden Entscheiden.  
-
-> «Vor Erlass einer Verfügung über die Einstellung in der Anspruchsberechtigung ist der versicherten Person das rechtliche Gehör zur beabsichtigten Sanktion zu gewähren.»
-
-**BGE 145 I 167 E. 3-4** vom 26. November 2018  
-Anhörungsrecht von Initianten bei Ungültigerklärungen.  
-Ausdehnung des Gehörsanspruchs auf politische Verfahren.  
-
-> «Initianten haben Anspruch auf rechtliches Gehör im Rahmen eines Verfahrens über die Ungültigerklärung einer Volksinitiative durch die kantonale Exekutive. Dies ergibt sich aus der grundsätzlichen Geltung von Art. 29 Abs. 2 BV für alle behördlichen Entscheide.»
-
-## Unentgeltliche Rechtspflege (Abs. 3)
-
-### Voraussetzungen der unentgeltlichen Rechtspflege
-
-**BGE 128 I 225 E. 2.4-2.5** vom 17. September 2002  
-Unentgeltliche Rechtsverbeiständung im Massnahmevollzug.  
-Abgrenzung zwischen konkretem Verfahren und Vollzugsbegleitung.  
+**BGE 128 I 225** vom 14. August 2002
+Anspruch auf unentgeltliche Rechtsverbeiständung im Massnahmevollzug besteht nur für konkrete Verfahren, nicht für die gesamte Vollzugsdauer. Für die erstmalige Gewährung von Vollzugslockerungen ist angesichts der Komplexität und Tragweite eine Rechtsvertretung notwendig.
 
 > «Ein Anspruch auf unentgeltliche Rechtsverbeiständung besteht nur für ein konkretes Verfahren (z.B. Prüfung einer (probeweisen) Entlassung, von Vollzugslockerungen oder einzelnen Anordnungen), nicht jedoch für die gesamte Dauer des Vollzugs betreffend Ausgestaltung der Massnahme (Vollzugsplanung) sowie deren regelmässige Überprüfung.»
 
-**BGE 129 I 129 E. 1.1** vom 14. Januar 2003  
-Zwischenentscheide über unentgeltliche Rechtsverbeiständung.  
-Anfechtbarkeit und nicht wieder gutzumachender Nachteil.  
+**BGE 141 III 369** vom 27. August 2015
+Teilweise Gewährung der unentgeltlichen Rechtspflege ist zulässig. Eine Partei kann von Sicherheitsleistungen befreit werden, ohne dass ihr zwingend ein unentgeltlicher Rechtsbeistand bewilligt werden muss.
 
-> «Wenn der Gesuchsteller seine Interessen im Wiederaufnahmeverfahren (Revision) ohne den Beistand eines Anwalts wahrnehmen muss, kann dies einen nicht wieder gutzumachenden Nachteil im Sinne von Art. 87 Abs. 2 OG bewirken.»
+> «Es ist von Bundesrechts wegen nicht ausgeschlossen, die teilweise mittellose Partei zwar im Sinne von Art. 118 Abs. 1 lit. a ZPO von Vorschuss- und Sicherheitsleistungen zu befreien, ihr aber keinen unentgeltlichen Rechtsbeistand zu bewilligen.»
 
-### Bedürftigkeit und Erfolgsaussichten
+### Angemessene Verfahrensdauer (Abs. 1)
 
-**BGE 130 I 180 E. 2-3** vom 30. März 2004  
-Unentgeltliche Rechtspflege bei Kindesschutzverfahren.  
-Anwendung der Kriterien in familienrechtlichen Angelegenheiten.  
+**BGE 137 V 210** vom 31. März 2011
+Faire Verfahrensgestaltung bei der Einholung von Gutachten durch Medizinische Abklärungsstellen (MEDAS) in Sozialversicherungsverfahren. Die Parteien haben Anspruch auf Stellungnahme zu wesentlichen Verfahrenselementen.
 
-> «Die Mutter, der die elterliche Obhut über ihr Kind entzogen worden ist, hat für das von ihr zur Aufhebung dieser Massnahme bei der Vormundschaftsbehörde gestellte Gesuch Anspruch auf unentgeltliche Rechtsverbeiständung, wenn die übrigen Voraussetzungen erfüllt sind.»
+> «Auch unter Berücksichtigung der neueren Rechtsprechung des Europäischen Gerichtshofes für Menschenrechte besteht im Verfahren um Zusprechung oder Verweigerung von Sozialversicherungsleistungen kein förmlicher Anspruch auf versicherungsunabhängige Begutachtung.»
 
-## Verhältnis zur EMRK
+**BGE 135 V 465** vom 28. Oktober 2009
+Beweiswürdigung in Sozialversicherungsverfahren und die Bedeutung des fairen Verfahrens nach EMRK. Auch in verwaltungsrechtlichen Verfahren gelten die Grundsätze des Art. 29 Abs. 1 BV.
 
-### EMRK-konforme Auslegung
+> «Die entscheidende Behörde ist gehalten, die Beweiserhebung so zu gestalten, dass ein faires Verfahren gewährleistet ist und die Verfahrensbeteiligten ihre Rechte wirksam wahrnehmen können.»
 
-**BGE 130 I 312 E. 2-3** vom 2. Juli 2004  
-Verfahrensgarantien und internationale Organisationen.  
-Grenzen der Immunität bei Verletzung von Art. 6 EMRK.  
+### Aktuelle Entwicklungen (2020-2024)
 
-> «In den Anwendungsbereich von Art. 6 Ziff. 1 EMRK fallende Streitigkeiten dürfen nicht von vornherein dem gerichtlichen Rechtsschutz entzogen werden. Die Gerichtsbarkeits-Immunität internationaler Organisationen steht unter dem Vorbehalt der Einhaltung der Verfahrensgarantien.»
+**Urteil 6B 172/2023** vom 24. Mai 2023
+Verletzung des rechtlichen Gehörs in Strafverfahren bei ungenügender Berücksichtigung von Einwänden des Beschuldigten zu wesentlichen Beweiswürdigungsfragen.
 
-**BGE 132 II 485 E. 3** vom 26. Oktober 2006  
-Akteneinsicht als Bestandteil des rechtlichen Gehörs.  
-Integration von EMRK-Standards in das schweizerische Verfassungsrecht.  
+**Urteil 8C_710/2022** vom 6. März 2023
+Replikrecht in Verwaltungsverfahren: Die Vorinstanz muss bei Anordnung eines Schriftenwechsels den Parteien ausreichend Gelegenheit zur Stellungnahme geben.
 
-> «Anspruch auf rechtliches Gehör und Akteneinsicht. Das Recht auf Einsicht in die Verfahrensakten ist integraler Bestandteil des Anspruchs auf rechtliches Gehör gemäss Art. 29 Abs. 2 BV und Art. 6 EMRK.»
+**VB.2024.00020** vom 21. August 2024 (VG ZH)
+Rechtliches Gehör bei behördlichen Auflagen: Eine Behörde verletzt das rechtliche Gehör, wenn sie Auflagen macht und ohne weitere prozessleitende Handlungen einen Endentscheid trifft.
 
-### Grundrechtskonkurrenzen
+### Verhältnis zu Art. 6 EMRK
 
-**BGE 142 II 218 E. 4** vom 5. April 2016  
-Verfahrensgarantien in der Steueramtshilfe.  
-Kollision zwischen Gehörsanspruch und Amtsgeheimnis.  
+**BGE 134 I 140** vom 7. Januar 2008
+Schutzmassnahmen gegen häusliche Gewalt und Verfahrensgarantien. Die Garantien des Art. 29 BV entsprechen im Wesentlichen denjenigen des Art. 6 EMRK, wobei Art. 29 BV auch für rein verwaltungsrechtliche Verfahren gilt.
 
-> «Im Verfahren der Steueramtshilfe sind angemessene Fristen zur Stellungnahme zu einem Verfügungsentwurf zu gewähren. Art. 29 Abs. 2 BV findet auch in internationalen Amtshilfeverfahren Anwendung, soweit dies mit den völkerrechtlichen Verpflichtungen vereinbar ist.»
+**BGE 142 II 218** vom 5. April 2016
+Amtshilfe in Steuersachen: Anwendung der Verfahrensgarantien bei internationalen Rechtshilfeverfahren. Die Frist zur Stellungnahme muss angemessen bemessen sein.
+
+**BGE 127 I 54** vom 29. Februar 2000
+Willkürverbot und rechtliches Gehör bei psychiatrischen Gutachten im Strafverfahren. Ein Gutachten ohne persönliche Untersuchung ist nur ausnahmsweise zulässig.
+
+> «Ein psychiatrisches Gutachten ohne persönliche Untersuchung des Betroffenen ist nur ausnahmsweise zulässig, wenn gewichtige Gründe eine persönliche Untersuchung verunmöglichen und andere Erkenntnisquellen für eine sachgerechte Beurteilung ausreichen.»
