@@ -1,6 +1,7 @@
 ---
 // site/src/components/Breadcrumb.astro
-import { BASE, HOME } from '@/lib/base';
+import { type Lang, t } from '@/lib/i18n';
+import { langHome } from '@/lib/base';
 
 export interface BreadcrumbItem {
   label: string;
@@ -8,15 +9,16 @@ export interface BreadcrumbItem {
 }
 
 export interface Props {
+  lang: Lang;
   items: BreadcrumbItem[];
 }
 
-const { items } = Astro.props;
+const { lang, items } = Astro.props;
 ---
 
 <nav aria-label="Breadcrumb" class="breadcrumb">
   <ol>
-    <li><a href={HOME}>Home</a></li>
+    <li><a href={langHome(lang)}>{t('breadcrumb.home', lang)}</a></li>
     {items.map((item, i) => (
       <li>
         <span class="breadcrumb-sep" aria-hidden="true">/</span>
