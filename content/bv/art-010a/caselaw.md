@@ -1,43 +1,56 @@
-## Rechtsprechung
+# Art. 10a BV — Rechtsprechung
 
-### Rechtsstellung von Kindern im Verfahren
+## Verfassungskonformität kantonaler Verhüllungsverbote
 
-**BGE 143 I 21** vom 17. November 2016 — Familiennachzug und UN-Kinderrechtskonvention
+**BGE 144 I 281** — 20. September 2018
+Das Bundesgericht hat die Tessiner Gesetze über das Gesichtsverhüllungsverbot im öffentlichen Raum geprüft und grundsätzlich für verfassungskonform befunden.
+Das kantonale Verhüllungsverbot dient dem legitimen Zweck der Gewährleistung öffentlicher Sicherheit und Ordnung durch Verhinderung von Gewalttaten und Ermöglichung der Identifikation von Personen durch die Polizei.
+> «Il divieto di dissimulazione del volto secondo le normative ticinesi persegue sia lo scopo di impedire atti di violenza in occasione di raggruppamenti di persone [...], consentendo in particolare alle autorità di polizia di facilitare l'identificazione e le indagini nei confronti di eventuali responsabili di atti di violenza.»
 
-Das Bundesgericht prüft die Rechte von Kindern beim umgekehrten Familiennachzug unter Berücksichtigung der UN-Kinderrechtskonvention. Beim nachehelichen Härtefall stehen die Interessen der gemeinsamen Kinder im Vordergrund, nicht jene von Kindern aus verschwiegenen Parallelbeziehungen.
+**BGE 144 I 281** — 20. September 2018
+Ein Verhüllungsverbot verstösst gegen Meinungs- und Versammlungsfreiheit, wenn es keine angemessenen Ausnahmen vorsieht.
+Das Bundesgericht verlangte vom Tessiner Grossen Rat eine Erweiterung der Ausnahmeregelungen für politische, gewerbliche und Werbeveranstaltungen.
+> «Im Lichte der Rechtsprechung des Bundesgerichts [...] erscheint das so formulierte Verbot unter dem Blickwinkel der Meinungsfreiheit, der Versammlungsfreiheit und der Wirtschaftsfreiheit als unverhältnismässig [...]. Um es mit diesen Grundrechten vereinbar zu machen, wird der Grosse Rat die Gesetze ergänzen und zusätzliche Ausnahmen für die betreffenden Veranstaltungen vorsehen müssen.»
 
-> «Beim nachehelichen Härtefall im Sinne von Art. 50 Abs. 1 lit. b AuG stehen die Interessen der gemeinsamen Kinder der Eheleute, deren Beziehung gescheitert ist, im Vordergrund und nicht jene von Kindern aus einer den Behörden verschwiegenen Parallelbeziehung.»
+**BGE 144 I 281** — 20. September 2018
+Die Religionsfreiheit war im Tessiner Fall nicht streitig, da die Beschwerdeführer das Verhüllungsverbot nicht unter dem Aspekt der Religionsfreiheit angegriffen hatten.
+Das Bundesgericht hat die Vereinbarkeit von Verhüllungsverboten mit der Religionsfreiheit daher nicht geprüft.
+> «I ricorrenti non contestano il divieto di dissimulare il volto con riferimento alla libertà religiosa, questione che esula pertanto dall'oggetto del litigio e non deve essere esaminata in questa sede.»
 
-**BGE 141 III 328** vom 14. September 2015 — Leihmutterschaft und Kindesinteressen
+**BGE 144 I 281** — 20. September 2018
+Kantonale Verhüllungsverbote verstossen nicht gegen das Recht auf informationelle Selbstbestimmung.
+Das Verbot zielt nicht auf systematische Datensammlung ab, sondern auf die Begrenzung des Gewaltpotentials bei Versammlungen und Demonstrationen.
+> «Come è stato esposto, il contestato divieto non ha in realtà lo scopo di raccogliere ed elaborare dati personali, ma mira essenzialmente a limitare il potenziale di pericolo collegato allo svolgimento di manifestazioni e dimostrazioni.»
 
-Das Bundesgericht verweist auf Art. 2, 3 und 7 KRK bei der Beurteilung der Anerkennung ausländischer Geburtsurkunden im Kontext der Leihmutterschaft. Die Kinderrechte müssen bei ordre public-Entscheidungen berücksichtigt werden.
+## Religiöse Symbole und Gesichtsverhüllung
 
-> «Eine kalifornische Geburtsurkunde kann nicht anerkannt werden, wenn die verurkundeten Kindesverhältnisse zu genetisch nicht verwandten Eltern in Umgehung des schweizerischen Leihmutterschaftsverbotes entstanden sind.»
+**BGE 148 I 160** — 23. Dezember 2021
+Das Genfer Laizitätsgesetz, das vorschreibt, dass an gewissen öffentlichen Orten das Gesicht sichtbar bleiben muss, ist verfassungskonform.
+Die Bestimmung steht im Einklang mit der Religionsfreiheit und dem Verhältnismässigkeitsprinzip.
+> «Art. 7 Abs. 2 LLE/GE, der vorschreibt, dass an gewissen öffentlichen Orten das Gesicht sichtbar bleiben muss, ist mit Art. 15 und 36 BV und Art. 9 Ziff. 1 EMRK konform.»
 
-### Bildungsrecht und Grundschulunterricht
+## Abgrenzung zu anderen Rechtsbereichen
 
-**BGE 133 I 156** vom 7. Mai 2007 — Anwendungsbereich des Grundschulunterrichts
+**BGE 144 I 281** — 20. September 2018
+Kantonale Verhüllungsverbote verstossen nicht gegen den Grundsatz des Vorrangs des Bundesrechts.
+Das Verbot stellt keinen Eingriff in das eidgenössische Strafrecht dar, sondern liegt in der kantonalen Kompetenz für Polizeimassnahmen zum Schutz der öffentlichen Ordnung.
+> «L'art. 260bis CP, invocato dai ricorrenti, punisce gli atti preparatori nel caso di specifici reati particolarmente gravi. L'art. 2 cpv. 1 lett. i e l LOrP non interferisce in questo ordinamento, ma rientra nelle facoltà del legislatore di prevedere contravvenzioni, nell'ambito delle sue competenze, in materia di tutela dell'ordine e della sicurezza pubblici.»
 
-Das Bundesgericht konkretisiert den verfassungsrechtlichen Anspruch auf unentgeltlichen Grundschulunterricht unter Verweis auf Art. 28 der UN-Kinderrechtskonvention. Der Anspruch erstreckt sich grundsätzlich nicht auf Untergymnasien, obwohl diese in die obligatorische Schulzeit fallen.
+## Sanktionen und Durchsetzung
 
-> «Der bundesverfassungsrechtliche Anspruch auf Unentgeltlichkeit des Grundschulunterrichts erstreckt sich — trotz gegenüber der bisherigen Bundesverfassung geänderter Terminologie ('Grundschulunterricht' statt 'Primarunterricht') — grundsätzlich nicht auch auf den Unterricht an (staatlichen) Untergymnasien.»
+**BGE 144 I 281** — 20. September 2018
+Der Höchstbetrag der Busse von 10'000 Franken für Verstösse gegen das Verhüllungsverbot ist verfassungskonform.
+Der Betrag entspricht dem Maximum nach Art. 106 Abs. 1 StGB und muss im Einzelfall verhältnismässig festgesetzt werden.
+> «L'importo fissato può inoltre essere oggetto di un controllo giudiziario in occasione di un'applicazione concreta. In questa sede è sufficiente rilevare che il limite massimo di fr. 10'000.- corrisponde a quello previsto per le multe secondo l'art. 106 cpv. 1 CP e in astratto non appare quindi insostenibile.»
 
-### Schutz vor unverhältnismässigen staatlichen Eingriffen
+## Ausnahmen und Verhältnismässigkeit
 
-**Urteil 2C_33/2023** vom 28. Februar 2024 — Ordnungsbussen und elterliche Pflichten
+**BGE 144 I 281** — 20. September 2018
+Ein Verhüllungsverbot ist nur dann verhältnismässig, wenn es angemessene Ausnahmen vorsieht, die über eine exhaustive Liste hinausgehen.
+Gesetzliche Ausnahmelisten müssen so formuliert werden, dass zusätzliche Ausnahmen in begründeten Fällen möglich bleiben.
+> «Queste norme non prevedono quindi esplicitamente un'eccezione per manifestazioni politiche, commerciali o pubblicitarie [...]. In tali circostanze, gli art. 2 cpv. 2 LOrP e 4 LDiss appaiono incompleti e devono quindi essere precisati dal legislatore cantonale nel senso che le eccezioni elencate non hanno carattere esaustivo.»
 
-Das Bundesgericht bestätigt, dass Ordnungsbussen wegen Verletzung elterlicher Pflichten im Schulrecht disziplinarische und nicht strafrechtliche Massnahmen darstellen. Die Verfahrensgarantien von Art. 6 EMRK finden keine Anwendung, wenn Eltern ihre Kinder nicht ordnungsgemäss zur Schule schicken.
-
-> «Die Busse wird als Verwaltungsmassnahme verhängt, um den Elternteil zur Einhaltung seiner verwaltungsrechtlichen Pflichten anzuhalten. Sie wird damit letztlich zur Wahrung des Kindesinteresses des gebüssten Elternteils angeordnet.»
-
-### Familienrechtlicher Kontext
-
-**BGE 135 I 153** vom 27. März 2009 — Umgekehrter Familiennachzug
-
-Das Bundesgericht wendet Art. 10 Abs. 1 KRK (Recht auf Familienleben) bei der Beurteilung von Aufenthaltsbewilligungen für ausländische Mütter Schweizer Kinder an. Die Kinderrechte sind in die Interessenabwägung einzubeziehen.
-
-> «Der Verlängerung der Aufenthaltsbewilligung eines ausländischen, sorgeberechtigten Elternteils eines Schweizer Kindes sind grundsätzlich keine besonderen Hindernisse entgegenzusetzen.»
-
-### Aktuelle Entwicklungen
-
-Das Verfassungsrecht zu Kinderrechten zeigt sich in der jüngeren Rechtsprechung als dynamisch entwickeltes Rechtsgebiet. Die Gerichte wenden die UN-Kinderrechtskonvention zunehmend als Auslegungshilfe für verfassungsrechtliche Kinderrechte an, wobei das Kindeswohl als übergeordneter Grundsatz fungiert.
+**BGE 144 I 281** — 20. September 2018
+Ausnahmen müssen insbesondere für Veranstaltungen gelten, deren Zweck nur durch Gesichtsverhüllung erreicht werden kann.
+Beispielsweise das Tragen von Gasmasken bei Demonstrationen gegen Luftverschmutzung oder zu Atomkraftwerksrisiken.
+> «Il Tribunale federale ha quindi considerato che in quelle circostanze, la normativa cantonale potesse essere oggetto di un'interpretazione conforme alla Costituzione [...] segnatamente nel caso in cui una dimostrazione poteva raggiungere il suo scopo in modo ottimale soltanto dissimulando il viso (per esempio indossando una maschera contro l'inquinamento atmosferico).»
