@@ -1,69 +1,115 @@
-# Art. 24 Cost.
+# Giurisprudenza
 
-## Giurisprudenza
+## Principi della libertà di domicilio
 
-### Obblighi di domicilio e cariche pubbliche
+### Contenuto e portata
 
-**DTF 128 I 34** (9 gennaio 2002)
-Violazione del diritto di voto attraverso l'inosservanza dell'obbligo di domicilio per i governatori di distretto nel Cantone di Berna. L'obbligo di domicilio rientra, come le classiche disposizioni di incompatibilità, nell'ambito di protezione dei diritti politici. Il diritto cantonale non prevedeva espressamente per i governatori di distretto né doppi mandati né eccezioni all'obbligo di domicilio, ragione per cui un'eccezione attraverso l'interpretazione non era ammissibile.
+**DTF 148 I 97** del 21.1.2021
+L'art. 24 Cost. garantisce il diritto alla libera scelta del domicilio in Svizzera.
+Definisce il contenuto e la portata della libertà di domicilio e delimita le competenze cantonali.
 
-> «L'assenza di una regolamentazione d'eccezione non costituisce in concreto una vera lacuna che il Gran Consiglio sarebbe autorizzato a colmare.»
+> «Die Niederlassungsfreiheit garantiert ad ogni persona di cittadinanza svizzera la possibilità di eleggere qualsiasi luogo della Svizzera come luogo di residenza e di ricevere i corrispondenti annunci. D'altro canto, impone ai Cantoni e ai Comuni di permettere ad ogni cittadino svizzero di stabilirsi sul loro territorio, di iscriverlo negli appositi registri.»
 
-**DTF 128 I 280** (5 giugno 2002)
-Obbligo di domicilio per le persone addette all'autenticazione nel Cantone di Appenzello Interno. La regolamentazione secondo cui l'autorità di autenticazione sovrana è riservata alle persone con domicilio nel Cantone è compatibile con la libertà di domicilio. Le persone addette all'autenticazione non possono invocarsi, per quanto riguarda l'attività sovrana, né sulla libertà economica né sull'Accordo sulla libera circolazione.
+**DTF 128 I 280** del 1.1.2002
+La libertà di domicilio protegge la possibilità di soggiorno personale in qualsiasi luogo della Svizzera.
+Decisione fondamentale sulla portata del diritto fondamentale nell'ambito delle attività di pubblico potere.
 
-> «L'autenticazione pubblica è un'attività ufficiale, sovrana. La sua organizzazione è un compito statale che secondo l'art. 55 del titolo finale del Codice civile spetta ai Cantoni.»
+> «La libertà di domicilio garantisce pertanto la possibilità di soggiorno personale in qualsiasi luogo della Svizzera; impone ai Cantoni e ai Comuni di consentire a ogni cittadino svizzero di stabilirsi sul loro territorio e vieta loro al contempo di ostacolare il trasferimento del domicilio da un luogo all'altro.»
 
-### Gruppi particolari di persone e libertà di domicilio
+## Obblighi di domicilio e limitazioni professionali
 
-**DTF 131 I 266** (27 aprile 2005)
-Trasferimento del domicilio di persone sotto tutela tra Cantoni. La limitazione della libertà di domicilio fondata sull'art. 377 cpv. 1 CC deve essere proporzionata. In quanto cittadini svizzeri, anche le persone sotto tutela sono titolari della libertà di domicilio, sebbene siano limitate nella loro capacità di agire.
+### Attività di pubblico potere
 
-> «Comme citoyens suisses, A.T. et B.T. sont titulaires de la liberté d'établissement, garantie par l'art. 24 al. 1 Cst. Leur qualité de personnes privées de l'exercice des droits civils ne les prive pas de cette garantie fondamentale.»
+**DTF 128 I 280** del 1.1.2002
+L'obbligo di domicilio per i pubblici ufficiali è compatibile con l'art. 24 Cost.
+Precisa le limitazioni ammissibili della libertà di domicilio per compiti di pubblico potere.
 
-**DTF 145 I 73** (13 febbraio 2019)
-Controllo astratto delle norme della legge neocastellana sui luoghi di sosta delle comunità itineranti. Lo sgombero di un accampamento illegale non viola né la protezione della sfera privata né la libertà di domicilio né le garanzie generali di procedura. I nomadi svizzeri godono della protezione della libertà di domicilio, anche se nella sua limitazione è richiesta particolare cautela.
+> «La normativa del Cantone Appenzello Interno secondo cui l'autorizzazione di pubblico ufficiale per l'autenticazione è riservata alle persone con domicilio nel Cantone è compatibile con la Costituzione federale e in particolare con la libertà di domicilio.»
 
-> «La loi neuchâteloise n'établit pas de discrimination entre les communautés nomades et le reste de la population et ne viole pas l'interdiction de discrimination.»
+**DTF 128 I 34** del 1.1.2001
+L'obbligo di domicilio per i governatori riguarda il diritto di eleggibilità passivo.
+Mostra il nesso tra libertà di domicilio e diritti politici.
 
-### Misure di allontanamento e di divieto
+> «L'obbligo di domicilio, come le classiche disposizioni di incompatibilità, rientra nell'ambito di protezione dei diritti politici di cui all'art. 85 lett. a OG.»
 
-**DTF 147 I 103** (29 aprile 2020)
-Sproporzionalità del collegamento automatico di misure di allontanamento e di divieto con una minaccia penale secondo l'art. 292 CP nel Cantone di Berna. L'allontanamento dei nomadi e lo sgombero dei terreni occupati entro 24 ore sono sproporzionati, sia per i nomadi svizzeri sia per i nomadi stranieri di passaggio.
+### Mobilità professionale e obbligo di notifica
 
-> «Nell'esame della proporzionalità di un allontanamento di nomadi rispettivamente di uno sgombero del luogo di sosta sono significativi diversi elementi.»
+**DTF 148 I 97** del 21.1.2021  
+L'obbligo di notifica in caso di soggiorno professionale è ammissibile, ma non può essere soggetto ad autorizzazione.
+Giurisprudenza attuale sui domicili secondari per motivi professionali.
 
-### Diritto di famiglia e libertà di domicilio
+> «L'obbligo di notifica in caso di soggiorno professionale in un Comune diverso da quello di domicilio non limita l'esercizio della libertà di domicilio. La notifica non può tuttavia essere sottoposta a un regime di autorizzazione.»
 
-**DTF 142 III 481** (11 marzo 2016)
-Trasferimento del figlio all'estero in caso di autorità parentale congiunta. Il Tribunale federale ha constatato che nell'esame del luogo di dimora appropriato del figlio deve essere rispettata la libertà di domicilio rispettivamente di circolazione dei genitori. L'autorità parentale include il diritto di determinare il luogo di dimora del figlio, anche se in caso di autorità parentale congiunta ciò richiede il consenso di entrambi i genitori o una decisione giudiziaria.
+## Libertà di circolazione (art. 24 cpv. 2 Cost.)
 
-> «Il legislatore ha sottolineato al riguardo che la libertà di domicilio e di circolazione dei genitori deve essere rispettata e che questi non dovrebbero essere limitati dal nuovo diritto.»
+### Libertà di emigrazione
 
-### Obbligo di notificazione e diritto del registro
+**DTF 127 I 97** del 1.1.2001
+Il rifiuto di un attestato di cancellazione per debiti fiscali viola il divieto dell'arbitrio.
+Decisione importante sull'esercizio pratico della libertà di emigrazione.
 
-**VB.2021.00654** (22 agosto 2024) - Tribunale amministrativo Cantone Zurigo
-Obbligo di notificazione di polizia per cittadini svizzeri residenti all'estero. In quanto svizzero residente all'estero che si trattiene regolarmente in un Comune nel Cantone di Zurigo, il ricorrente è stato iscritto contrariamente alla sua richiesta di registrazione come residente settimanale con il rapporto di notificazione domicilio. La Legge sull'armonizzazione dei registri definisce a livello di diritto federale i concetti di Comune di domicilio e Comune di dimora.
+> «Viola il divieto dell'arbitrio il rifiutare a una persona la conferma della cancellazione anagrafica di polizia perché ha debiti fiscali aperti.»
 
-**VB.2022.00722** (22 agosto 2024) - Tribunale amministrativo Cantone Zurigo
-Caso simile all'obbligo di notificazione di polizia. Un cittadino svizzero residente all'estero è stato obbligato ad annunciarsi a Zurigo con domicilio, sebbene vi si trattenesse solo regolarmente. La decisione sottolinea le prescrizioni di diritto federale della Legge sull'armonizzazione dei registri.
+### Diritto di famiglia e benessere del minore
 
-### Diritto degli stranieri e libertà di domicilio
+**DTF 142 III 481** dell'11.3.2016
+Il trasferimento di un bambino all'estero richiede una ponderazione tra la libertà di circolazione dei genitori e il benessere del minore.
+Decisione di principio sulla tensione tra mobilità genitoriale e interessi del bambino.
 
-**2C_273/2023** (30 maggio 2024) - Tribunale federale
-Entrata per prendere domicilio e rilascio di un permesso di dimora. Il caso mostra i punti di contatto tra la libertà di domicilio dei cittadini svizzeri e il diritto degli stranieri, in particolare nelle famiglie miste e nel ricongiungimento familiare.
+> «Il nuovo diritto statuisce come principio generale l'autorità parentale comune [...] Con il nuovo diritto viene rispettata anche la libertà di domicilio rispettivamente di circolazione dei genitori.»
 
-**B 2024/104** (23 ottobre 2024) - Tribunale amministrativo San Gallo
-Rilascio di un permesso di dimora per genitori stranieri di figli svizzeri. Il tribunale ha sottolineato che a seconda dell'età del figlio svizzero il suo desiderio di entrare in Svizzera e di stabilirvisi acquista peso. La libertà di domicilio del figlio svizzero può eventualmente fondare diritti per i familiari stranieri.
+**DTF 131 I 266** del 27.4.2005
+Il cambiamento di domicilio delle persone sotto curatela è soggetto al principio di proporzionalità.
+Mostra i limiti delle limitazioni statali della libertà di domicilio.
 
-> «A seconda dell'età del figlio svizzero, il suo desiderio di entrare in Svizzera e di stabilirvisi acquista peso secondo la giurisprudenza del Tribunale federale.»
+> «La limitazione della libertà di domicilio basata sull'art. 377 cpv. 1 CC dev'essere proporzionata.»
 
-### Assistenza sociale e libertà di circolazione
+## Comunità nomadi
 
-**WBE.2024.36** (19 giugno 2024) - Tribunale amministrativo Argovia
-L'obbligo dei beneficiari dell'assistenza sociale di cercare un'abitazione più economica al domicilio e nei dintorni non viola la "libertà di circolazione" rispettivamente libertà di domicilio secondo l'art. 24 Cost. Le persone assistite sono obbligate a contribuire con le proprie forze alla diminuzione o all'eliminazione del bisogno, il che comprende anche la riduzione delle spese vincolate come l'affitto dell'abitazione.
+### Protezione dello stile di vita nomade
 
-### Aspetti di diritto civile
+**DTF 145 I 73** del 13.2.2019
+Lo sgombero di campi abusivi non viola l'art. 24 Cost.
+Decisione importante sulla protezione delle comunità nomadi e sui limiti della loro libertà di domicilio.
 
-**Sentenza 5A_561/2020** (3 marzo 2021) - Tribunale federale
-Caso di diritto di famiglia riguardante gli alimenti per i figli in caso di genitori trasferiti all'estero. Il caso mostra le tensioni tra la libertà di domicilio dei genitori e gli obblighi alimentari verso i figli rimasti in Svizzera.
+> «Lo sgombero di un campo abusivo - previsto negli art. 24 - 28 LSCN - non viola né la protezione della sfera privata (art. 13 Cost.) né la libertà di domicilio (art. 24 Cost.) né le garanzie generali di procedura (art. 29 Cost.).»
+
+## Riferimenti intercantonali e internazionali
+
+### Federalismo e conflitti di competenza
+
+**DTF 131 I 266** del 27.4.2005
+Il Tribunale federale decide i conflitti di competenza tra le autorità tutelari cantonali.
+Mostra l'importanza della libertà di domicilio per l'equilibrio federale.
+
+> «Portata dell'art. 83 lett. e OG nelle controversie tra le autorità tutelari cantonali riguardo al cambiamento di domicilio delle persone sotto curatela.»
+
+### Diritto europeo e libera circolazione delle persone
+
+**DTF 135 II 1** del 12.11.2008
+L'annullamento di una naturalizzazione comporta la restituzione dello statuto di diritto degli stranieri.
+Mostra la delimitazione tra libertà di domicilio svizzera e libera circolazione delle persone europea.
+
+> «Con l'annullamento della naturalizzazione la persona interessata viene rimessa, sotto riserva di eventuali cause di estinzione, nella stessa posizione giuridica di diritto degli stranieri che aveva prima della naturalizzazione.»
+
+**DTF 135 I 153** del 27.3.2009  
+Ricongiungimento familiare e ricongiungimento familiare inverso per bambini svizzeri.
+Collegamento tra l'art. 24 Cost. e disposizioni di diritto degli stranieri.
+
+> «Se l'espatrio di familiari aventi diritto alla presenza di una persona straniera che deve lasciare la Svizzera non appare senza altro ragionevole, dev'essere effettuata una ponderazione secondo l'art. 8 n. 2 CEDU.»
+
+## Sviluppi attuali
+
+### Sistema di notifica e digitalizzazione
+
+**VB.2022.00722** del 22.8.2024 (Tribunale amministrativo ZH)
+Obbligo di notifica di polizia per cittadini svizzeri residenti all'estero con soggiorno regolare.
+Giurisprudenza cantonale più recente sull'attuazione pratica dell'obbligo di notifica.
+
+> La legge sull'armonizzazione dei registri definisce concetti come Comune di domicilio e Comune di dimora a livello di diritto federale.
+
+### Ricongiungimento familiare in casi complessi  
+
+**2C 273/2023** del 30.5.2024
+Entrata per presa di domicilio e rilascio di un permesso di dimora.
+Decisione più recente del Tribunale federale sulla delimitazione tra diritto svizzero e di diritto degli stranieri al soggiorno.
