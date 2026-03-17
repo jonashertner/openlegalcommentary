@@ -1,49 +1,110 @@
 # Giurisprudenza
 
-## Ambito di protezione generale della libertà scientifica
+La giurisprudenza relativa all'art. 20 Cost. evidenzia i campi di tensione tra libertà di ricerca scientifica e altri beni costituzionali. La giurisprudenza si articola in tre ambiti principali: libertà di ricerca nel rapporto con la protezione degli animali, diritto di accesso alle informazioni per scopi scientifici e aspetti del diritto universitario.
 
-**BGE 127 I 145** del 27 giugno 2001 (Wottreng): Accesso ad atti penali archiviati da parte di uno storico nell'ambito di un progetto librario scientifico-storico.
-Il Tribunale federale ha precisato la portata dell'art. 20 Cost. per l'accesso a fonti non generalmente accessibili e ha ritenuto necessaria una delimitazione restrittiva.
+## Libertà di ricerca e protezione degli animali
 
-> «La libertà di ricerca non può senza altro aprire l'accesso a fonti che, sotto il profilo della più generale libertà d'informazione, sono considerate non accessibili pubblicamente. La limitazione dell'accesso costituzionale all'informazione secondo l'art. 16 cpv. 3 Cost. non può in linea di principio essere superata invocando l'art. 20 Cost. A tal fine occorrerebbe piuttosto un approccio di ricerca specifico e una conseguente necessità di ricerca di prendere visione degli atti.»
+### Esperimenti su animali con primati
 
-## Sperimentazione animale per scopi di ricerca
+**DTF 135 II 384** (7 ottobre 2009)  
+Decisione di principio sulla ponderazione tra libertà di ricerca e protezione degli animali negli esperimenti su primati non umani.  
+La ponderazione degli interessi secondo l'art. 61 cpv. 3 lett. d OPAn richiede una ponderazione concreta tra acquisizione di conoscenze e sofferenze degli animali.
 
-**BGE 135 II 384** del 7 ottobre 2009: Sperimentazione animale con primati non umani per ricerca di base neurobiologica.
-Il Tribunale federale ha confermato che l'art. 20 Cost. può proteggere anche la sperimentazione animale per scopi di ricerca, ma che questa è soggetta a una rigorosa ponderazione degli interessi.
+> «Le prescrizioni della LPAn sugli esperimenti su animali sono inoltre espressione della libertà di ricerca secondo l'art. 20 Cost. Esse rappresentano pertanto parzialmente una ponderazione degli interessi già effettuata dal legislatore.»
 
-> «L'art. 61 cpv. 3 lett. d della precedente OPAn richiede per l'ammissibilità di una sperimentazione animale una ponderazione degli interessi tra l'acquisizione di conoscenze perseguita e i dolori e le sofferenze ad essa connessi. Ciò vale anche per le richieste di ricerca su processi vitali fondamentali.»
+**DTF 135 II 405** (7 ottobre 2009)  
+Decisione complementare al DTF 135 II 384 concernente la ponderazione degli interessi negli esperimenti sui primati.  
+Conferma i rigorosi requisiti per l'autorizzazione di esperimenti su primati non umani.
 
-**BGE 135 II 405** del 7 ottobre 2009: Decisione parallela al caso sopra menzionato.
-Il Tribunale ha ribadito che nella ponderazione degli interessi devono essere considerati la particolare prossimità dei primati non umani all'uomo e la dignità della creatura.
+### Ponderazione degli oneri
 
-> «Nella ponderazione degli interessi devono essere considerati la particolare prossimità dei primati non umani all'uomo e la dignità della creatura.»
+**VB.2007.00157, Tribunale amministrativo di Zurigo** (27 marzo 2008)  
+Esperimento su animali per l'esame di strutture cerebrali su macachi rhesus.  
+Applicazione concreta dei principi del Tribunale federale per la ponderazione degli interessi tra interesse della ricerca e protezione degli animali.
 
-## Accesso al materiale d'archivio per scopi di ricerca
+**VB.2007.00156, Tribunale amministrativo di Zurigo** (27 marzo 2008)  
+Esperimento su animali per l'esame delle capacità di apprendimento su macachi rhesus.  
+La giurisprudenza chiarisce che la libertà di ricerca non ha automaticamente più peso della protezione degli animali.
 
-**Sentenza 1C_117/2021** del 1° marzo 2022: Accesso di ricerca ad atti d'asilo nell'Archivio federale per una dissertazione.
-Il Tribunale federale ha precisato l'applicazione dell'art. 20 Cost. nel contesto della legge sull'archiviazione e ha confermato un diritto condizionato alla consultazione di atti per scopi di ricerca.
+## Accesso a informazioni e archivi
 
-> «La giurisprudenza e la dottrina riconoscono un diritto condizionato derivante dall'art. 20 Cost. (libertà scientifica) alla consultazione di documenti ufficiali, purché questa sia necessaria per la realizzazione di un progetto di ricerca.»
+### Delimitazione di principio
 
-## Delimitazione rispetto ad altri diritti fondamentali
+**DTF 127 I 145** (27 giugno 2001)  
+Decisione di principio sul rapporto tra libertà d'informazione e libertà scientifica nell'accesso agli atti penali archiviati.  
+La libertà scientifica non fonda un diritto generale di accesso a fonti non pubblicamente accessibili.
 
-**BGE 128 IV 201** del 26 luglio 2002: Pornografia e libertà d'opinione.
-Il Tribunale ha chiarito che la libertà scientifica non è privilegiata rispetto ad altri diritti fondamentali, ma è soggetta a una ponderazione dei beni.
+> «La libertà d'informazione e la libertà scientifica non conferiscono un diritto generale di ottenere informazioni da fonti non generalmente accessibili (atti archiviati durante il termine di protezione).»
 
-La decisione delimita l'art. 20 Cost. dagli artt. 16 e 17 Cost. e mostra i limiti dell'attività scientifica.
+> «La libertà di ricerca non può senz'altro aprire l'accesso a fonti che, sotto il profilo della più generale libertà d'informazione, sono considerate non pubblicamente accessibili.»
 
-## Dimensioni del diritto universitario
+### Diritto limitato
 
-**Sentenza VB.2007.00156** del 27 marzo 2008 (Tribunale amministrativo di Zurigo): Sperimentazione animale per l'esame della capacità di apprendimento dei primati.
-Il Tribunale amministrativo di Zurigo ha riconosciuto l'importanza fondamentale della libertà scientifica per la ricerca universitaria, ma ha sottolineato la necessità di un'accurata ponderazione degli interessi.
+**DTF 148 II 273** (1° marzo 2022)  
+Consultazione di materiale d'archivio prima della scadenza del termine di protezione per scopi di ricerca.  
+La libertà scientifica può rafforzare l'interesse della ricerca nella ponderazione degli interessi.
 
-**Sentenza VB.2016.00048** del 21 settembre 2016 (Tribunale amministrativo di Zurigo): Misurazioni neurobiologiche su macachi rhesus.
-Il Tribunale ha confermato il principio secondo cui l'art. 20 Cost. protegge anche la sperimentazione animale per la ricerca di base, ma ha richiesto una ponderazione concreta degli interessi nel singolo caso.
+> «La rielaborazione della storia deve essere considerata come interesse importante nella consultazione; questo viene inoltre rafforzato dal legittimo richiamo alla libertà scientifica.»
 
-## Protezione dei dati e libertà scientifica
+**1C_117/2021** (1° marzo 2022)  
+Istanza precedente al DTF 148 II 273 concernente il principio di pubblicità e domanda di consultazione di atti archiviati.  
+Concretizza i presupposti per un diritto condizionale derivante dalla libertà scientifica.
 
-**Raccomandazione IFPDT** del 19 novembre 2013 (Ufficio federale dell'aviazione civile): Accesso a documenti riservati UE per scopi di ricerca.
-L'Incaricato federale della protezione dei dati e della trasparenza ha confermato un accesso privilegiato ai documenti ufficiali per scopi scientifici a determinate condizioni.
+## Diritto universitario e studio
 
-> «La giurisprudenza e la dottrina riconoscono un diritto condizionato derivante dall'art. 20 Cost. (libertà scientifica) alla consultazione di documenti ufficiali, purché questa sia necessaria per la realizzazione di un progetto di ricerca.»
+### Esclusione dallo studio
+
+**2P.199/2005** (8 novembre 2005)  
+Esclusione dalla prosecuzione degli studi dopo due fallimenti dell'esame di licenza.  
+La libertà scientifica non garantisce un diritto alla ripetizione illimitata degli esami.
+
+> La libertà scientifica protegge la libera scelta della questione, del metodo e dell'esecuzione, ma non la partecipazione illimitata all'attività universitaria.
+
+### Altre decisioni di diritto universitario
+
+**VB.2012.00745, Tribunale amministrativo di Zurigo** (19 maggio 2011)  
+Esclusione dal corso di bachelor dopo assenza ingiustificata agli esami.  
+L'autonomia universitaria pone limiti alla libertà scientifica individuale.
+
+**A-5458/2008, Tribunale amministrativo federale** (19 maggio 2009)  
+Questione di diritto del personale al Politecnico federale di Zurigo.  
+Mostra le tensioni tra libertà scientifica istituzionale e individuale.
+
+## Protezione della personalità e ricerca
+
+### Libertà scientifica vs. protezione della personalità
+
+**K 2008/2, Tribunale amministrativo di San Gallo** (19 agosto 2008)  
+Violazione della personalità e della libertà scientifica attraverso scritti del governo cantonale.  
+La libertà scientifica non può respingere ogni pregiudizio all'ambiente di ricerca.
+
+## Altre decisioni
+
+### Diritto delle assicurazioni sociali
+
+**9C_1075/2008** (28 maggio 2009)  
+Assicurazione malattie e ricerca in medicina del riconoscimento.  
+La libertà scientifica non viene violata per se da obblighi legali generali.
+
+### Diritto penale
+
+**DTF 128 IV 201** (26 luglio 2002)  
+Pornografia hard e libertà d'espressione.  
+Menzione marginale della libertà scientifica nel contesto delle libertà di comunicazione.
+
+### Diritto degli stranieri
+
+**C-857/2013** e altre decisioni del Tribunale amministrativo federale  
+Consenso alla decisione preventiva del mercato del lavoro per ricercatori stranieri.  
+La libertà scientifica può essere considerata nel rilascio di permessi di lavoro.
+
+## Tendenze evolutive
+
+La giurisprudenza mostra un atteggiamento restrittivo verso interpretazioni espansive della libertà scientifica. Il Tribunale federale sottolinea regolarmente che la libertà scientifica:
+
+1. **Non è assoluta**: Deve essere ponderata contro altri beni costituzionali
+2. **Non fonda un diritto generale all'informazione**
+3. **Deve rispettare i limiti dell'autonomia universitaria**
+4. **Presuppone una necessità concreta di ricerca**
+
+La giurisprudenza più recente (DTF 148 II 273) mostra tuttavia una certa rivalutazione della libertà scientifica nella ponderazione degli interessi, in particolare nell'ambito della ricerca storica.

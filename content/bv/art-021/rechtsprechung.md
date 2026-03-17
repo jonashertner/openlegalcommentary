@@ -1,83 +1,79 @@
-# Rechtsprechung
+## Rechtsprechung
 
-## Kunstbegriff und Anwendungsbereich
+### Grundsätze der Kunstfreiheit
 
-**BGE 131 IV 64** (8. März 2005)
-Abgrenzung zwischen Kunst und harter Pornographie — Relevanz des kulturellen Werts.
-Der Entscheid konkretisiert den verfassungsrechtlichen Kunstbegriff in Abgrenzung zu strafbaren pornographischen Darstellungen und bekräftigt, dass Art. 21 BV nicht schutzlos stellt.
+**BGE 135 III 145** (25. September 2008)  
+Verhältnis von Kunstfreiheit und Persönlichkeitsschutz im Kontext eines Romans.  
+Die Kunstfreiheit schützt nicht vor den Folgen von Persönlichkeitsverletzungen.  
 
-> «Gegenstände oder Vorführungen im Sinne von Art. 197 Ziff. 1 StGB gelten nicht als pornographisch, wenn sie einen schutzwürdigen kulturellen oder wissenschaftlichen Wert aufweisen. Die Beurteilung des kulturellen Werts pornographischer Darstellungen kann nicht allein nach subjektiven Kriterien des Urhebers erfolgen, sondern muss sich an objektiven Massstäben orientieren, die sich aus der Sicht des durchschnittlichen Betrachters ergeben.»
+> «Auch der Kunstschaffende [hat] die Persönlichkeitsrechte anderer zu respektieren […] und das Interesse des Verletzten gegen das Interesse des Verletzers an der künstlerischen Betätigung abzuwägen und dabei zu berücksichtigen [ist], welche Möglichkeiten dem Künstler offengestanden hätten, sein Werk ohne die Persönlichkeitsverletzung zu schaffen.»
 
-## Satire und komödiantische Darstellungen
+### Satire als Kunstform
 
-**Urteil 5A_376/2013** (29. Oktober 2013)
-Persönlichkeitsverletzung durch satirische Fotomontage — Kunstfreiheit vs. Persönlichkeitsschutz.
-Die satirische Darstellung einer öffentlichen Person fällt grundsätzlich unter den Schutz von Art. 21 BV, unterliegt jedoch bei Persönlichkeitsverletzungen einer Interessenabwägung.
+**UBI-Entscheid b.515** (1. Juli 2005)  
+Satirische Rundfunksendung fällt in den Schutzbereich der Kunstfreiheit.  
+Die Satire geniesst besonderen Schutz als Mittel der Meinungsäusserung.  
 
-> «Unter dem Blickwinkel der Rechtfertigungsgründe geht es zunächst um das öffentliche Interesse an Satire und Humor. Satirische Darstellungen mit den Mitteln der Ironie, des Humors und des Komischen wollen die Wirklichkeit übersteigern, verfremden, karikieren und lächerlich machen. Sie fallen in den Schutzbereich der Kunstfreiheit.»
+> «Die Satire fällt in den Schutzbereich der in Art. 16 BV bzw. Art. 21 BV sowie in Art. 10 EMRK enthaltenen Meinungsäusserungs- und Kunstfreiheit.»
 
-## Verhältnis zu anderen Grundrechten
+**UBI-Entscheid b.453** (23. August 2002)  
+Satirischer Fernsehbeitrag über die Swissair.  
+Satirische Darstellungen übertreiben bewusst die Wirklichkeit zur kritischen Auseinandersetzung.  
 
-### Kunstfreiheit und Persönlichkeitsrecht
+> «Die Form der Satire übersteigert die Wirklichkeit, verfremdet sie, stellt sie um, kehrt wieder zu ihr zurück, banalisiert sie, karikiert sie, macht sie lächerlich.»
 
-**BGE 135 III 145** (25. September 2008)
-Persönlichkeitsverletzung durch Roman — Grenzen der literarischen Kunstfreiheit.
-Der Entscheid zeigt die Spannungen zwischen Kunstfreiheit und Persönlichkeitsschutz auf und entwickelt Kriterien für die Interessenabwägung bei fiktiven Darstellungen.
-
-> «Wer in seiner Persönlichkeit widerrechtlich verletzt wird, kann zu seinem Schutz gegen jeden, der an der Verletzung mitwirkt, das Gericht anrufen. Eine Verletzung ist widerrechtlich, wenn sie nicht durch ein überwiegendes privates oder öffentliches Interesse gerechtfertigt ist. Bei der Abwägung zwischen Kunstfreiheit und Persönlichkeitsschutz sind die Umstände des Einzelfalls zu berücksichtigen.»
-
-### Kunstfreiheit und Eigentumsgarantie
-
-**BGE 140 II 33** (12. Dezember 2013)
-Lichtinstallation als Kunstwerk — Verhältnis von Kunst-, Eigentums- und Umweltschutzrecht.
-Das Bundesgericht prüfte, ob eine private Weihnachts- und Zierbeleuchtung als Kunstwerk den Schutz von Art. 21 BV geniesst und gegenüber umweltschutzrechtlichen Beschränkungen durchsetzbar ist.
-
-> «Die Zierbeleuchtung im Garten sei Ausdruck ihrer Lebensfreude und Teil ihrer Persönlichkeitsentfaltung. Sie sei die Fortsetzung der kunstvollen Wohnungseinrichtung und bilde mit dieser ein Gesamtkunstwerk. Dieses Interesse fällt grundsätzlich unter den Schutz der Eigentumsgarantie. Ob auch die persönliche Freiheit und die Kunstfreiheit berührt sind, kann offenbleiben, wenn auch die Voraussetzungen für eine Einschränkung dieser Grundrechte vorliegen.»
-
-## Schranken der Kunstfreiheit
-
-### Religiöse Gefühle
-
-**JAAC 61/1997, Nr. 67** (7. März 1997)
-Satiresendung mit religionsfeindlichem Inhalt — Grenzen der Satiresatire bei Verletzung religiöser Gefühle.
-Die UBI befasste sich mit einer Fernsehsendung, in der eine Hostie mit einer Banane verglichen und Affen zum Frass vorgeworfen wurde, was als schwere Verletzung christlicher Glaubensgefühle beurteilt wurde.
-
-> «Ein Konflikt zwischen Glaubensfreiheit und Programmfreiheit des Senders ist im Rahmen einer Güterabwägung der durch die widerstreitenden Verfassungsrechte geschützten Werte zu lösen. Eine Satiresendung, in welcher eine Hostie einer Banane gleichgesetzt und Affen zum Frass vorgeworfen wird, verletzt die religiösen Gefühle in schwerwiegender Weise.»
-
-### Jugendschutz und öffentliche Sittlichkeit
-
-**BGE 128 IV 201** (unveröffentlicht, 2002)
-Harte Pornographie und Kunstfreiheit — Absolute Schranken der Kunstfreiheit.
-Der Entscheid stellte klar, dass gewisse pornographische Darstellungen unabhängig von einem allfälligen künstlerischen Wert strafbar bleiben und nicht durch Art. 21 BV geschützt sind.
-
-> «Die Bestrafung wegen des Vertriebes von pornographischen Magazinen und Videofilmen, die sexuelle Handlungen mit Gewalttätigkeiten bzw. mit menschlichen Ausscheidungen zum Inhalt haben, verstösst auch dann nicht gegen die Meinungsäusserungs- und Kunstfreiheit, wenn den Erzeugnissen ein gewisser kultureller Wert nicht abgesprochen werden kann.»
-
-## Künstlerische Medien und Ausdrucksformen
-
-### Rundfunk und Fernsehen
-
-**UBI-Entscheid b.927** (3. November 2022)
-Satirische Facebook-Beiträge im SRF — Kunstfreiheit in sozialen Medien.
-Die UBI unterstrich den besonderen Stellenwert satirischer Ausstrahlungen innerhalb der Medien- und Programmfreiheit.
+**UBI-Entscheid b.927** (3. November 2022)  
+Facebook-Beitrag mit satirischem Inhalt.  
+Satirische Ausstrahlungen geniessen innerhalb der Medienfreiheit besonderen Stellenwert.  
 
 > «Satirische Ausstrahlungen geniessen innerhalb der Medienfreiheit und der Programmautonomie einen besonderen Stellenwert, fallen sie doch ebenfalls in den Schutzbereich der Meinungsäusserungsfreiheit (Art. 16 BV) und der Kunstfreiheit (Art. 21 BV).»
 
-### Literatur und Verlagswesen
+### Pornographie und kultureller Wert
 
-**BGE 140 III 616** (28. November 2014)
-Urheberrecht und Kunstfreiheit — Schranken der Werknutzung.
-Der Entscheid behandelt die Grenzen des Eigengebrauchs bei künstlerischen Werken und das Verhältnis zwischen Urheberrecht und Kunstfreiheit.
+**BGE 131 IV 64** (8. März 2005)  
+Strafbarkeit pornographischer Darstellungen trotz behauptetem Kunstwert.  
+Kunstfreiheit rechtfertigt nicht automatisch die Verbreitung pornographischer Inhalte.  
 
-> «Art. 19 Abs. 2 URG schliesst die Weitergabe einer zulässigerweise angefertigten Vervielfältigung grundsätzlich aus. Diese Bestimmung dient dem Schutz der Urheberrechte und steht nicht im Widerspruch zur Kunstfreiheit.»
+> «Der Inhalt seiner Website stelle eine künstlerische Komposition von Bildern und Texten dar, die darauf abziele, die zunehmende staatliche Beschränkung der Meinungsfreiheit sowie das feministische Frauenbild zu reflektieren und in Frage zu stellen. Zur Beurteilung dieses Einwands ist […] auf den Inhalt der inkriminierten Bilder abzustellen.»
 
-## Arbeitsrechtliche Dimensionen
+**BGE 128 IV 201** (26. Juli 2002)  
+Harte Pornographie und Meinungsäusserungsfreiheit.  
+Der Schutz der Kunstfreiheit findet bei pornographischen Inhalten ihre Grenzen.  
 
-**VB.2019.00597, Verwaltungsgericht Zürich** (unveröffentlicht)
-Fristlose Kündigung wegen künstlerischer Tätigkeit — Kunstfreiheit im Arbeitsverhältnis.
-Das Gericht befasste sich mit der Frage, ob ein Arbeitgeber einem Angestellten verbieten kann, in seiner Freizeit an einem Filmdrehbuch zu arbeiten.
+> «Die Bestrafung wegen des Vertriebes von pornographischen Magazinen und Videofilmen […] verstösst auch dann nicht gegen die Meinungsäusserungsfreiheit, wenn mit diesen Erzeugnissen ausschliesslich interessierte und eingeweihte Erwachsene bedient werden.»
 
-> «Der tatsächliche Beweggrund für die fristlose Entlassung liegt darin, dass der Angestellte die Rechtmässigkeit der ihm erteilten Weisung, in seiner Freizeit nicht mehr an einem Filmdrehbuch weiterzuschreiben, in Zweifel zog. Dies stellt eine unzulässige Beschränkung der Kunstfreiheit dar.»
+### Kunstförderung und staatliche Neutralität
 
-## Doktrinäre Entwicklungen
+**VG ZH VB.2024.00207** (9. Januar 2025)  
+Konzeptförderungsbeitrag für Theater.  
+Staatliche Kulturförderung unterliegt verwaltungsrechtlichen Grundsätzen.  
 
-Die Rechtsprechung zu Art. 21 BV zeigt eine konstante Entwicklung in der Abgrenzung zwischen der vorbehaltlos gewährleisteten Kunstfreiheit und anderen Verfassungsrechten. Während das Bundesgericht einen weiten Kunstbegriff anerkennt, der auch kommerzielle und satirische Äusserungen umfasst, werden klare Grenzen bei schwerwiegenden Persönlichkeitsverletzungen, der Verletzung religiöser Gefühle und bei strafbaren Inhalten gezogen. Die Gerichte wenden dabei regelmässig eine Interessenabwägung an, die dem besonderen Wert künstlerischer Ausdrucksfreiheit für eine demokratische Gesellschaft Rechnung trägt, ohne andere Grundrechte zu entwerten.
+Die Kunstfreiheit begründet keinen Anspruch auf staatliche Förderung, doch muss die Vergabe von Kulturbeiträgen rechtsgleich und willkürfrei erfolgen.
+
+### Kunstfreiheit und öffentlicher Raum
+
+**BGE 140 II 33** (12. Dezember 2013)  
+Lichtinstallationen als künstlerische Ausdrucksform.  
+Auch künstlerische Aktivitäten im öffentlichen Raum können eingeschränkt werden.  
+
+> «Die ganzjährige Zierbeleuchtung wurde auf die Zeit bis 22.00 Uhr begrenzt. Dies schränkt die Eigentumsgarantie und allfällige andere Grundrechte der Beschwerdeführer nur geringfügig ein und ist verhältnismässig.»
+
+**Urteil 1P.53/2001** (20. September 2001)  
+Demonstration als Grenzbereich zwischen Meinungsäusserungs- und Kunstfreiheit.  
+Künstlerische Elemente in politischen Kundgebungen unterstehen dem Schutz der Grundrechte.  
+
+Die Kunstfreiheit kann sich mit anderen Kommunikationsgrundrechten überschneiden und verstärkt deren Schutzwirkung.
+
+### Medienrecht und Kunstfreiheit
+
+**UBI-Entscheid b.871** (29. März 2021)  
+Historische Dramaserie «Frieden» von SRF.  
+Fiktionale Werke fallen grundsätzlich unter den Schutz der Kunstfreiheit.  
+
+Auch in fiktionalen Werken müssen die Grundsätze der Programmverantwortung beachtet werden, insbesondere bei der Darstellung historischer Ereignisse.
+
+**UBI-Entscheid b.502** (4. Februar 2005)  
+Comedy-Sendung mit religiösen Bezügen.  
+Kunstfreiheit und Glaubensfreiheit müssen zum Ausgleich gebracht werden.  
+
+> «Während der Beschwerdeführer die Glaubensfreiheit […] für sich in Anspruch nehmen kann, verweist die Beschwerdegegnerin auf die Programmautonomie […] sowie die Meinungsäusserungs- und Kunstfreiheit (Art. 16 bzw. 21 BV).»
