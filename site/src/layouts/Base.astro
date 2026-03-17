@@ -1,6 +1,7 @@
 ---
 // site/src/layouts/Base.astro
-import { BASE } from '@/lib/base';
+import { type Lang, LANGS, t } from '@/lib/i18n';
+import { BASE, langBase } from '@/lib/base';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
@@ -9,11 +10,15 @@ export interface Props {
   title: string;
   description?: string;
   currentPath?: string;
+  lang?: Lang;
+  pagePath?: string;
 }
 
 const {
   title,
-  description = 'Offener, KI-generierter Kommentar zum Schweizer Bundesrecht. Täglich aktualisiert.',
+  lang = 'de',
+  pagePath = '/',
+  description = t('meta.description', lang),
   currentPath = Astro.url.pathname,
 } = Astro.props;
 
@@ -23,13 +28,18 @@ const fullTitle = title === 'Home'
 ---
 
 <!doctype html>
-<html lang="de">
+<html lang={lang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    <meta name="current-lang" content={lang} />
     <title>{fullTitle}</title>
     <link rel="icon" type="image/svg+xml" href={`${BASE}/favicon.svg`} />
+    <link rel="canonical" href={`${Astro.site}${langBase('de')}${pagePath}`} />
+    {LANGS.map((l) => (
+      <link rel="alternate" hreflang={l} href={`${Astro.site}${langBase(l)}${pagePath}`} />
+    ))}
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
@@ -45,12 +55,12 @@ const fullTitle = title === 'Home'
     </script>
   </head>
   <body>
-    <Header currentPath={currentPath} />
+    <Header currentPath={currentPath} lang={lang} />
     <main>
       <div class="page-wrapper">
         <slot />
       </div>
     </main>
-    <Footer />
+    <Footer lang={lang} />
   </body>
 </html>
