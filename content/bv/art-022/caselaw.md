@@ -1,85 +1,115 @@
 ## Rechtsprechung
 
-Die Rechtsprechung zu Art. 22 BV gliedert sich thematisch in Grundsatzfragen zur Versammlungsfreiheit, bewilligungsrechtliche Fragen, Kostenüberwälzung, polizeiliche Massnahmen und jüngere COVID-19-bedingte Beschränkungen.
+### Grundlagen und Schutzbereich
 
-### Grundzüge der Versammlungsfreiheit
+**BGE 127 I 164** (20.9.2001)  
+Grundzüge der Versammlungsfreiheit bei Kundgebungen auf öffentlichem Grund.  
+Das Bundesgericht präzisierte die grundlegende Dogmatik zur Versammlungsfreiheit im Zusammenhang mit der Verweigerung einer Demonstration am WEF 2001 in Davos.
 
-**BGE 143 I 147** vom 18.1.2017  
-Auferlegung von Kosten bei Kundgebungen auf öffentlichem Grund  
-Grundlegendes Urteil zur Tragweite von Art. 22 BV bei der Kostenüberwälzung von Polizeieinsätzen.
+> «Die Meinungs- und Versammlungsfreiheit erhalten im Zusammenhang mit Demonstrationen einen über reine Abwehrrechte hinausgehenden Charakter und weisen ein gewisses Leistungselement auf. Die angesprochenen Grundrechte gebieten in gewissen Grenzen, dass öffentlicher Grund zur Verfügung gestellt wird.»
 
-> «Die Meinungs- und Versammlungsfreiheit erhalten im Zusammenhang mit Demonstrationen einen über reine Abwehrrechte hinausgehenden Charakter und weisen ein gewisses Leistungselement auf. Die angesprochenen Grundrechte gebieten in Grenzen, dass für Kundgebungen öffentlicher Grund zur Verfügung gestellt wird.»
+**BGE 143 I 147** (1.1.2017)  
+Meinungs- und Versammlungsfreiheit bei der Auferlegung von Kosten bei Kundgebungen.  
+Präzisierung des Schutzbereichs und des Begriffs des «chilling effect» bei ideellen Grundrechten.
 
-**BGE 132 I 256** vom 1.8.2006  
-Verweigerung einer Kundgebung am 1. August 2006 in Brunnen  
-Systematische Darstellung der Grundsätze der Versammlungsfreiheit für Kundgebungen auf öffentlichem Grund.
+> «Die Meinungs- und Versammlungsfreiheit können nicht nur durch direkte Eingriffe wie Verbote und Sanktionen beeinträchtigt werden. Denkbar sind auch mittelbare Beeinträchtigungen dieser Grundrechte in dem Sinne, dass der Betroffene sich aufgrund einer behördlichen Reaktion nicht mehr getraut, erneut vom Grundrecht Gebrauch zu machen.»
 
-> «Das Bundesgericht hat die Grundzüge der Meinungs- und Versammlungsfreiheit hinsichtlich von Kundgebungen auf öffentlichem Grund in BGE 127 I 164 E. 5 zusammengefasst. Art. 16 BV gewährleistet die Meinungsfreiheit ausdrücklich und räumt jeder Person das Recht ein, ihre Meinung frei zu bilden und sie ungehindert zu äussern und zu verbreiten.»
+### Bewilligungspflicht und Interessenabwägung
 
-**BGE 127 I 164** vom 1.1.2001  
-Verweigerung einer Demonstration anlässlich des Weltwirtschaftsforums 2001 in Davos  
-Klassische Darstellung der Bewilligungspflicht und Interessenabwägung bei Kundgebungen.
+**BGE 132 I 256** (1.8.2006)  
+Verweigerung einer Kundgebung am 1. August 2006 in Brunnen.  
+Grundsätze der behördlichen Schutzpflichten vor drohenden Gegendemonstrationen.
 
-> «Die verschiedenen Interessen sind nach objektiven Gesichtspunkten gegeneinander abzuwägen und zu gewichten. Eine dem Grundsatz der Verhältnismässigkeit genügende Gestaltung kann die Anordnung von Auflagen und Bedingungen sowie eine entsprechende verhältnismässige Mitwirkung der Veranstalter erfordern.»
+> «Die Behörden sind über die Überlassung von öffentlichem Grund hinaus verpflichtet, durch geeignete Massnahmen - namentlich durch Gewährung eines ausreichenden Polizeischutzes - dafür zu sorgen, dass öffentliche Kundgebungen tatsächlich stattfinden können und nicht durch gegnerische Kreise gestört oder verhindert werden.»
 
-### COVID-19-Massnahmen und Versammlungsfreiheit
+**BGE 142 I 121** (20.4.2016)  
+Polizeiliche Festhaltung eines potenziellen Teilnehmers einer unbewilligten Demonstration.  
+Verhältnismässigkeit präventiver polizeilicher Massnahmen bei Demonstrationen.
 
-**BGE 148 I 33** vom 3.9.2021  
-Beschränkung der Teilnehmerzahl an Kundgebungen auf 15 Personen während COVID-19  
-Wegweisendes Urteil zur Verhältnismässigkeit von Pandemie-Massnahmen bei politischen Kundgebungen.
+> «Die rund zweieinhalbstündige Festhaltung des Beschwerdeführers im Rahmen einer polizeilichen Einkesselung sowie die anschliessende knapp dreieinhalbstündige Festhaltung zur sicherheitspolizeilichen Überprüfung stellten gesamthaft betrachtet einen Freiheitsentzug dar, der unverhältnismässig war.»
 
-> «Die Begrenzung der Teilnehmer auf die zum massgeblichen Zeitpunkt von Bundesrechts wegen für private Veranstaltungen geltende Zahl von 15 Personen schränkt die Versammlungsfreiheit in Bezug auf Demonstrationen derart ein, dass diese praktisch ihres Gehalts entleert wird.»
+### Kostentragung und Störerkonzept
 
-**BGE 148 I 19** vom 3.9.2021  
-COVID-19-Reglement des Kantons Uri mit Beschränkung auf 300 Personen  
-Ergänzende Rechtsprechung zu COVID-19-Massnahmen mit weniger restriktiver Teilnehmerbegrenzung.
+**BGE 143 I 147** (1.1.2017)  
+Kostenpflicht bei Kundgebungen mit Gewaltausübung nach luzernischem Polizeigesetz.  
+Grundsätze zur Kostentragung durch Veranstalter bei gewalttätigen Demonstrationen.
 
-**BGE 147 I 450** vom 8.7.2021  
-Veranstaltungsverbot des Kantons Schwyz zur Eindämmung der COVID-19-Pandemie  
-Prüfung der Verhältnismässigkeit von COVID-19-Massnahmen mit Blick auf den Ermessensspielraum der Behörden.
+> «Kundgebungsveranstalter als Zweckveranlasser können grundsätzlich ohne Verstoss gegen Art. 22 BV als Störer ins Recht gefasst werden, sofern die Kostentragungspflicht verhältnismässig ausgestaltet ist.»
 
-### Polizeiliche Massnahmen und Strafverfahren
+### Pandemiebedingte Einschränkungen
 
-**BGE 147 I 372** vom 22.4.2021  
-DNA-Profil und erkennungsdienstliche Erfassung bei friedlicher Kundgebung  
-Bedeutsame Rechtsprechung zum Schutz der Versammlungsfreiheit vor unverhältnismässigen strafprozessualen Eingriffen.
+**BGE 148 I 33** (3.9.2021)  
+Covid-19-bedingte Beschränkung der Teilnehmerzahl an Kundgebungen auf 15 Personen.  
+Wegweisender Entscheid zur Verhältnismässigkeit von Pandemiemassnahmen bei Demonstrationen.
 
-> «Eine friedliche Protestaktion steht unter dem Schutz der Versammlungs- und der Meinungsäusserungsfreiheit; das DNA-Profil und die erkennungsdienstliche Erfassung erweisen sich als unverhältnismässig.»
+> «Die grundsätzliche Bewilligungspflicht für Kundgebungen auf öffentlichem Grund erlaubt differenzierte Lösungen und die Anordnung risikolimitierender Auflagen im Einzelfall. Vor diesem Hintergrund und mit Blick auf die hohe demokratische Bedeutung von Kundgebungen erscheint die Begrenzung der Teilnehmerzahl auf 15 Personen unverhältnismässig.»
 
-**BGE 142 I 121** vom 20.4.2016  
-Polizeiliche Festhaltung eines potenziellen Teilnehmers einer unbewilligten Demonstration  
-Grenzen polizeilicher Präventivmassnahmen gegenüber Demonstrationsteilnehmern.
+**BGE 148 I 19** (3.9.2021)  
+Covid-19-bedingte Beschränkung auf 300 Personen im Kanton Uri.  
+Bestätigung der besonderen verfassungsrechtlichen Stellung von Kundgebungen auch in Pandemiezeiten.
 
-**BGE 147 I 103** vom 29.4.2020  
-Unverhältnismässigkeit der Verbindung von Wegweisungs- und Fernhaltungsmassnahmen mit Strafdrohung  
-Schutz vor übermässigen polizeilichen Reaktionen auf Demonstrationsteilnahme.
+> «Die Beschränkung der Teilnehmerzahl an politischen und zivilgesellschaftlichen Kundgebungen auf 300 Personen ist in Anbetracht des dem Regierungsrat zustehenden Ermessensspielraums und der konkreten epidemiologischen Lage verhältnismässig.»
 
-### Störerprinzip und Kostenüberwälzung
+**BGE 147 I 450** (8.7.2021)  
+Veranstaltungsverbot des Kantons Schwyz zur Eindämmung der Covid-19-Pandemie.  
+Verhältnismässigkeit pauschaler Kundgebungsverbote während der Pandemie.
 
-**BGE 134 IV 216** vom 3.4.2008  
-Streikrecht und Versammlungsfreiheit bei Autobahnblockade  
-Grundsätzliches Urteil zu den Grenzen der Versammlungsfreiheit bei Gewaltausübung.
+> «Das Veranstaltungsverbot des Kantons Schwyz erweist sich in Anbetracht des dem Regierungsrat zustehenden Ermessensspielraums bei der Beurteilung der epidemiologischen Lage als verhältnismässig.»
 
-**BGE 137 I 31** vom 13.10.2010  
-Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen  
-Anwendung des Störerprinzips auf Veranstalter bei Gewaltausschreitungen.
+### Strafverfahrensrechtliche Aspekte
 
-### Wegweisung und Fernhaltung
+**BGE 147 I 372** (22.4.2021)  
+DNA-Profil und erkennungsdienstliche Erfassung bei friedlicher Kundgebungsteilnahme.  
+Schutz der Versammlungsfreiheit vor unverhältnismässigen strafprozessualen Eingriffen.
 
-**BGE 132 I 49** vom 25.1.2006  
-Wegweisungs- und Fernhalteverfügungen im Zusammenhang mit Versammlungsfreiheit  
-Grundsätzliche Überlegungen zu polizeilichen Fernhaltemassnahmen und deren Verhältnismässigkeit.
+> «Eine friedliche Protestaktion steht unter dem Schutz der Versammlungs- und der Meinungsäusserungsfreiheit; das DNA-Profil und die erkennungsdienstliche Erfassung erweisen sich als unverhältnismässig, wenn keine erheblichen und konkreten Anhaltspunkte für weitere Straftaten vorliegen.»
 
-### Sportveranstaltungen und Versammlungsfreiheit
+**BGE 134 IV 216** (3.4.2008)  
+Autobahn-Blockade im Rahmen eines Streiks und der Tatbestand der Nötigung.  
+Grenzen zwischen erlaubter Demonstration und strafbarer Nötigung.
 
-**BGE 140 I 2** vom 1.1.2014  
-Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen  
-Abstrakte Normenkontrolle zu polizeirechtlichen Massnahmen bei Sportveranstaltungen mit Bezug zur Versammlungsfreiheit.
+> «Das Streikrecht und die Versammlungsfreiheit rechtfertigen nicht jede Behinderung des Verkehrs. Eine Blockade des Verkehrs auf einer Autobahn im Rahmen eines Streiks kann den Tatbestand der Nötigung erfüllen.»
 
-### Jüngere Entwicklungen
+### Wegweisungen und Fernhalteverfügungen
 
-**Urteil 6B_236/2023** vom 29.8.2025  
-Meinungsäusserungs- und Versammlungsfreiheit bei Teilnahme an unbewilligter Kundgebung  
-Aktuelle Rechtsprechung zu den strafrechtlichen Folgen der Teilnahme an unbewilligten Kundgebungen.
+**BGE 132 I 49** (25.1.2006)  
+Wegweisungs- und Fernhalteverfügungen vor Sportveranstaltungen.  
+Verhältnis zwischen präventiven polizeilichen Massnahmen und Versammlungsfreiheit.
 
-Die Rechtsprechung zeigt eine kontinuierliche Entwicklung von einer primär abwehrrechtlichen Konzeption der Versammlungsfreiheit hin zu einem Grundrecht mit Leistungscharakter. Besonders während der COVID-19-Pandemie hat das Bundesgericht die hohe demokratische Bedeutung von Kundgebungen betont und unverhältnismässige Einschränkungen zurückgewiesen. Der «Chilling Effect» wird als wichtiges Kriterium bei der Beurteilung mittelbarer Grundrechtseingriffe herangezogen.
+> «Aus einer selbständigen Anrufung der Menschenwürde können die Betroffenen nichts zu ihren Gunsten ableiten; sie können sich auf die Versammlungsfreiheit, die persönliche Freiheit, das Diskriminierungsverbot und das Willkürverbot berufen.»
+
+**BGE 147 I 103** (29.4.2020)  
+Unverhältnismässigkeit der automatischen Verbindung von Wegweisungsmassnahmen mit Strafdrohung.  
+Schutz der Versammlungsfreiheit vor präventiven Massnahmen mit Strafcharakter.
+
+> «Die automatische Verbindung zwischen den Wegweisungs- und Fernhaltungsmassnahmen mit der Strafdrohung nach Art. 292 StGB erweist sich als unverhältnismässiger Eingriff in die Versammlungsfreiheit.»
+
+### Hooligankonkordat und Sportveranstaltungen
+
+**BGE 137 I 31** (13.10.2010)  
+Konkordat über Massnahmen gegen Gewalt bei Sportveranstaltungen.  
+Vereinbarkeit präventiver Massnahmen mit der Versammlungsfreiheit.
+
+> «Die im Konkordat vorgesehenen Massnahmen (Rayonverbot, Meldeauflage und Polizeigewahrsam) sind polizeilicher Natur und stellen Eingriffe in die Versammlungsfreiheit dar, die jedoch unter den gegebenen Umständen verhältnismässig sind.»
+
+**BGE 140 I 2** (1.1.2014)  
+Abstrakte Normenkontrolle bezüglich Hooligankonkordat.  
+Verfassungsmässigkeit präventiver Massnahmen gegen Gewalt bei Sportanlässen.
+
+> «Die Bestimmungen des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen halten vor der Versammlungsfreiheit stand, soweit sie verhältnismässig ausgestaltet sind.»
+
+### Aktuelle Entwicklungen
+
+**BGE 151 I 257** (8.10.2024)  
+WEF-Marschkundgebung auf alternativer Route statt Kantonsstrasse.  
+Verhältnismässigkeit von Routenbeschränkungen und deren Auswirkung auf die Appellwirkung.
+
+> «Der mit der Verschiebung der Route verbundene Eingriff in die Meinungs- und Versammlungsfreiheit erweist sich als unverhältnismässig, weil die Kundgebung unter Auflagen und Bedingungen zumindest abschnittsweise im Sinne eines milderen Mittels entlang der Kantonsstrasse hätte bewilligt werden können.»
+
+### Private Veranstaltungen und allgemeine Polizeiklausel
+
+**BGE 147 I 161** (3.8.2020)  
+Verbot einer Veranstaltung im privaten Raum und Begriff des Störers.  
+Schutzbereich der Versammlungsfreiheit auch bei privaten Räumlichkeiten.
+
+> «Der Anwendungsbereich der polizeilichen Generalklausel als gesetzliche Grundlage für einen Eingriff in die Versammlungsfreiheit ist grundsätzlich auf unvorhersehbare Notfälle beschränkt, die spezialgesetzlich nicht geregelt sind.»
