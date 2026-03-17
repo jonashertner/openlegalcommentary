@@ -59,6 +59,7 @@ const {
     >
       {t('tab.caselaw', lang)}
     </button>
+    <div class="tab-indicator" id="tab-indicator"></div>
   </div>
 
   <div
@@ -142,6 +143,16 @@ const {
     margin-bottom: var(--space-3);
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    position: relative;
+  }
+
+  .tab-indicator {
+    position: absolute;
+    bottom: 0;
+    height: 2px;
+    background: var(--color-accent);
+    transition: transform 0.3s var(--ease-out), width 0.3s var(--ease-out);
+    border-radius: 1px;
   }
 
   .tab-btn {
@@ -165,7 +176,6 @@ const {
 
   .tab-btn.active {
     color: var(--color-tab-active);
-    border-bottom-color: var(--color-accent);
     font-weight: 600;
   }
 
@@ -277,6 +287,17 @@ const {
 </style>
 
 <script>
+  // Tab indicator positioning
+  function updateIndicator() {
+    const activeTab = document.querySelector('.tab-btn[aria-selected="true"]') || document.querySelector('.tab-btn.active');
+    const indicator = document.getElementById('tab-indicator');
+    if (activeTab && indicator) {
+      const btn = activeTab as HTMLElement;
+      indicator.style.width = btn.offsetWidth + 'px';
+      indicator.style.transform = `translateX(${btn.offsetLeft}px)`;
+    }
+  }
+
   // Tab switching with URL parameter support
   function initTabs() {
     const container = document.querySelector('.tabs-container');
@@ -296,6 +317,8 @@ const {
         const isActive = panel.dataset.panel === tabName;
         panel.classList.toggle('hidden', !isActive);
       });
+
+      updateIndicator();
 
       // Update URL without reload
       const url = new URL(window.location.href);
@@ -320,6 +343,9 @@ const {
     if (layer && ['summary', 'doctrine', 'caselaw'].includes(layer)) {
       switchTab(layer);
     }
+
+    // Initialize indicator position
+    updateIndicator();
   }
 
   initTabs();
