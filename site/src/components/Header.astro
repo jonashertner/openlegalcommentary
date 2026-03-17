@@ -1,45 +1,61 @@
 ---
 // site/src/components/Header.astro
-import { BASE, HOME } from '@/lib/base';
+import { type Lang, t } from '@/lib/i18n';
+import { langHome, langBase } from '@/lib/base';
+import LanguageSwitcher from './LanguageSwitcher.astro';
 
 export interface Props {
+  lang: Lang;
+  pagePath?: string;
   currentPath?: string;
 }
 
-const { currentPath = '' } = Astro.props;
+const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 ---
 
 <header class="site-header">
   <div class="header-inner page-wrapper">
-    <a href={HOME} class="site-logo">
+    <a href={langHome(lang)} class="site-logo">
       <span class="logo-mark" aria-hidden="true">§</span>
       <span class="logo-text">
         <span class="logo-title">Open Legal Commentary</span>
       </span>
     </a>
 
-    <nav class="site-nav" aria-label="Hauptnavigation">
-      <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Menü öffnen">
+    <nav class="site-nav" aria-label={t('header.nav_label', lang)}>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label={t('header.menu_open', lang)}>
         <span class="nav-toggle-bar"></span>
         <span class="nav-toggle-bar"></span>
         <span class="nav-toggle-bar"></span>
       </button>
       <ul id="nav-menu" class="nav-list" role="list">
-        <li><a href={HOME} class:list={[{ active: currentPath === '/' || currentPath === HOME }]}>Gesetze</a></li>
-        <li><a href={`${BASE}/about`} class:list={[{ active: currentPath.includes('/about') }]}>Über uns</a></li>
-        <li><a href={`${BASE}/changelog`} class:list={[{ active: currentPath.includes('/changelog') }]}>Änderungen</a></li>
+        <li><a href={langHome(lang)} class:list={[{ active: currentPath === '/' || currentPath === langHome(lang) }]}>{t('nav.laws', lang)}</a></li>
+        <li><a href={`${langBase(lang)}/about`} class:list={[{ active: currentPath.includes('/about') }]}>{t('nav.about', lang)}</a></li>
+        <li><a href={`${langBase(lang)}/changelog`} class:list={[{ active: currentPath.includes('/changelog') }]}>{t('nav.changelog', lang)}</a></li>
       </ul>
     </nav>
 
-    <button class="theme-toggle" aria-label="Farbschema wechseln" title="Farbschema wechseln">
-      <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-        <circle cx="12" cy="12" r="5"/>
-        <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
-      </svg>
-      <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
-      </svg>
-    </button>
+    <div class="header-actions">
+      <button class="search-trigger" aria-label={t('header.search', lang)}>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/>
+          <path d="m21 21-4.35-4.35"/>
+        </svg>
+        <kbd>⌘K</kbd>
+      </button>
+
+      <LanguageSwitcher currentLang={lang} pagePath={pagePath} />
+
+      <button class="theme-toggle" aria-label={t('header.theme_toggle', lang)} title={t('header.theme_toggle', lang)}>
+        <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="5"/>
+          <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+        </svg>
+        <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
+      </button>
+    </div>
   </div>
 </header>
 
@@ -147,6 +163,43 @@ const { currentPath = '' } = Astro.props;
     transition: transform var(--transition-fast), opacity var(--transition-fast);
   }
 
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+
+  .search-trigger {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: none;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    padding: 6px 10px;
+    color: var(--color-text-muted);
+    font-family: var(--font-heading);
+    font-size: var(--text-sm);
+    transition: color var(--transition-fast), border-color var(--transition-fast), background var(--transition-fast);
+  }
+
+  .search-trigger:hover {
+    color: var(--color-text);
+    border-color: var(--color-text-muted);
+    background: var(--color-bg-alt);
+  }
+
+  .search-trigger kbd {
+    font-family: var(--font-heading);
+    font-size: var(--text-xs);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 1px 5px;
+    background: var(--color-bg-alt);
+    color: var(--color-text-muted);
+  }
+
   .theme-toggle {
     background: none;
     border: 1px solid var(--color-border);
@@ -179,6 +232,8 @@ const { currentPath = '' } = Astro.props;
     .logo-title { display: none; }
 
     .nav-toggle { display: flex; }
+
+    .search-trigger kbd { display: none; }
 
     .nav-list {
       display: none;
