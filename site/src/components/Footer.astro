@@ -1,7 +1,13 @@
 ---
 // site/src/components/Footer.astro
-import { BASE, HOME } from '@/lib/base';
+import { type Lang, t } from '@/lib/i18n';
+import { langHome, langBase } from '@/lib/base';
 
+export interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
 const year = new Date().getFullYear();
 ---
 
@@ -9,35 +15,35 @@ const year = new Date().getFullYear();
   <div class="footer-inner page-wrapper">
     <div class="footer-top">
       <div class="footer-brand">
-        <a href={HOME} class="footer-logo">
+        <a href={langHome(lang)} class="footer-logo">
           <span class="footer-logo-mark" aria-hidden="true">§</span>
           <span class="footer-logo-text">Open Legal Commentary</span>
         </a>
         <p class="footer-tagline">
-          Offener, KI-generierter Kommentar zum Schweizer Bundesrecht.
+          {t('footer.tagline', lang)}
         </p>
       </div>
       <div class="footer-links-grid">
         <div class="footer-section">
-          <p class="footer-heading">Kommentar</p>
+          <p class="footer-heading">{t('footer.commentary', lang)}</p>
           <ul class="footer-links">
-            <li><a href={HOME}>Alle Gesetze</a></li>
-            <li><a href={`${BASE}/about`}>Über uns</a></li>
-            <li><a href={`${BASE}/changelog`}>Änderungen</a></li>
+            <li><a href={langHome(lang)}>{t('footer.all_laws', lang)}</a></li>
+            <li><a href={`${langBase(lang)}/about`}>{t('footer.about', lang)}</a></li>
+            <li><a href={`${langBase(lang)}/changelog`}>{t('footer.changes', lang)}</a></li>
           </ul>
         </div>
         <div class="footer-section">
-          <p class="footer-heading">Projekt</p>
+          <p class="footer-heading">{t('footer.project', lang)}</p>
           <ul class="footer-links">
             <li><a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a></li>
             <li><a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a></li>
           </ul>
         </div>
         <div class="footer-section">
-          <p class="footer-heading">Lizenz</p>
+          <p class="footer-heading">{t('footer.license', lang)}</p>
           <ul class="footer-links">
-            <li><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">Inhalte: CC BY-SA 4.0</a></li>
-            <li><a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">Code: MIT</a></li>
+            <li><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">{t('footer.content_license', lang)}</a></li>
+            <li><a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">{t('footer.code_license', lang)}</a></li>
           </ul>
         </div>
       </div>
