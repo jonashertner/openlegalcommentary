@@ -183,6 +183,7 @@ async def bootstrap_law_resumable(
     state: BootstrapState,
     max_concurrent: int = 3,
     max_budget: float = 1000.0,
+    layer_types: list[str] | None = None,
 ) -> list[LayerResult]:
     """Bootstrap a law with resumability and concurrency.
 
@@ -253,10 +254,12 @@ async def bootstrap_law_resumable(
         )
 
         try:
-            art_results = await bootstrap_article(
+            layers = layer_types or ["caselaw", "doctrine", "summary"]
+            art_results = await process_article(
                 config, article.law,
                 article.article_number,
                 article.article_suffix,
+                layers,
             )
             cost = sum(r.cost_usd for r in art_results)
             all_passed = all(
@@ -335,6 +338,11 @@ def main():
         "--max-budget", type=float, default=1000.0,
         help="Max USD budget before stopping",
     )
+    boot_parser.add_argument(
+        "--layers", nargs="+",
+        default=["caselaw", "doctrine", "summary"],
+        help="Layer types to generate (default: all three)",
+    )
 
     single_parser = sub.add_parser(
         "single", help="Generate layers for one article",
@@ -403,6 +411,7 @@ def main():
                     config, law, state,
                     max_concurrent=args.max_concurrent,
                     max_budget=args.max_budget,
+                    layer_types=args.layers,
                 )
             )
             passed = sum(1 for r in results if r.success)
