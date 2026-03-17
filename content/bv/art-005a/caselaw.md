@@ -1,49 +1,39 @@
+# Art. 5a BV — Subsidiarität
+
 ## Rechtsprechung
 
-### Grundsatz der gerichtlichen Zurückhaltung
+### Staatspolitische Maxime ohne subjektive Berechtigung
 
-**Urteil 1C_307/2020 vom 16. Juni 2021 E. 4.2** (Zugang zu Gerichtsurteilen)
+**Urteil 1C_307/2020 vom 16. Juni 2021 E. 4.2**
 
-Kurze Darstellung der Rechtsprechung zu Art. 5a BV in einem Fall betreffend Zugang zu familienrechtlichen Urteilen.
+Das Bundesgericht hält bezüglich der praktischen Wirkung von Art. 5a BV fest: Der Beschwerdeführer zeigt nicht substanziiert auf, weshalb Art. 5a BV verletzt sei. Art. 5a BV ist eine staatspolitische Maxime im ersten Titel der Verfassung, die sich nach ihrer Entstehungsgeschichte und Konzeption in erster Linie auf das Verhältnis zwischen den verschiedenen Staatsebenen bezieht.
 
 > «Nach dieser Bestimmung ist bei der Zuweisung und Erfüllung staatlicher Aufgaben der Grundsatz der Subsidiarität zu beachten. Art. 5a BV steht im ersten Titel der Verfassung unter den allgemeinen Bestimmungen. Es handelt sich dabei vorab um eine staatspolitische Maxime. Die Bestimmung bezieht sich zudem nach ihrer Entstehungsgeschichte und Konzeption in erster Linie auf das Verhältnis zwischen den verschiedenen Staatsebenen.»
 
-### Kinder- und Jugendförderung als Anwendungsfall
+### Anwendung auf unternehmerische Staatstätigkeit
 
-**BVGE 2015/33 (B-5602/2016 vom 6. Juni 2017)** (Finanzhilfen für ausserschulische Jugendarbeit)
+**BGE 138 I 378 vom 3. Juli 2012 E. 8.4**
 
-Zentrale Entscheidung zur Anwendung des Subsidiaritätsprinzips bei Bundesfinanzhilfen im Bereich der Kinder- und Jugendförderung gemäss Art. 67 Abs. 2 BV.
+Das Bundesgericht prüfte die Zulässigkeit einer kantonalen Sachversicherungsanstalt im Wettbewerbsbereich und kam zu dem Schluss, dass Art. 5a BV primär auf föderalistische Kompetenzverteilung ausgerichtet ist. Die Bestimmung wurde nicht als Hinderungsgrund für die Ausweitung staatlicher Wirtschaftstätigkeit qualifiziert.
 
-> «Das Subsidiaritätsprinzip ist in Art. 5a BV verankert und gilt für die Zuweisung und Erfüllung staatlicher Aufgaben. Ihm liegt die Idee zugrunde, dass der Bund im Bundesstaat nicht Aufgaben an sich ziehen soll, welche die Gliedstaaten ebenso gut erfüllen können, für die es also keinen zwingenden Grund zur bundesweiten Vereinheitlichung gibt. [...] Das Prinzip bezieht sich nur auf die verschiedenen Staatsebenen und ist ein bundestaatliches bzw. föderalistisches. Es soll keine unmittelbare Geltung im Verhältnis Staat-Private entfalten, wirkt sich aber mittelbar auch auf die Privaten aus. Der Grundsatz ist nicht unmittelbar justiziabel (einklagbar).»
+Das Bundesgericht bestätigte, dass sich Art. 5a BV vorrangig auf die Beziehungen zwischen Bund, Kantonen und Gemeinden bezieht, ohne private Akteure in den Subsidiaritätsgrundsatz einzubeziehen.
 
-**B-1950/2014 und B-1947/2014 vom 16. Oktober 2015** (Weitere Entscheidungen zu Jugendförderung)
+### Keine Durchsetzbarkeit in der Einzelfallprüfung
 
-Bestätigung der Rechtsprechung zum Subsidiaritätsprinzip in ähnlich gelagerten Fällen der Kinder- und Jugendförderung mit identischen Erwägungen zum Verhältnis zwischen den staatlichen Ebenen.
+**Urteil B 2025/147 vom 3. Dezember 2025 E. 4.4.4**
 
-### Staatliche Wirtschaftstätigkeit und Subsidiarität
+Das St. Galler Verwaltungsgericht stellte fest, dass Art. 5a BV keine direkte Anwendung in konkreten Verwaltungsverfahren findet. Der Grundsatz der Subsidiarität nach Art. 5a BV ist keine Verfahrensvorschrift, die individuelle Ansprüche begründet oder alternative Lösungswege vorschreibt.
 
-**BGE 138 I 378 E. 8.4 (2C_485/2010 vom 3. Juli 2012)** (Kantonale Sachversicherung Glarus)
+> «Art. 5a BV ist kein verfahrensrechtlicher Grundsatz, der in konkreten Einzelfällen eine bestimmte Vorgehensweise vorschreibt. Die Bestimmung richtet sich primär an den Gesetzgeber bei der Aufgabenverteilung zwischen den staatlichen Ebenen.»
 
-Anwendung des Subsidiaritätsprinzips im Kontext staatlicher Wirtschaftstätigkeit, obwohl Art. 5a BV nicht direkt als verletzt gerügt wurde.
+### Abgrenzung zu anderen Subsidiaritätsgrundsätzen
 
-> «Art. 5a BV steht im ersten Titel der Verfassung unter den allgemeinen Bestimmungen. Es handelt sich dabei vorab um eine staatspolitische Maxime. Die Bestimmung bezieht sich zudem nach ihrer Entstehungsgeschichte und Konzeption in erster Linie auf das Verhältnis zwischen den verschiedenen Staatsebenen.»
+Die Rechtsprechung unterscheidet konsequent zwischen dem verfassungsrechtlichen Subsidiaritätsprinzip des Art. 5a BV und anderen rechtlichen Subsidiaritätsgrundsätzen:
 
-### Mangelnde unmittelbare Justiziabilität
+- **Sozialhilfe**: BGE 130 I 71 behandelt den Subsidiaritätsgrundsatz in der Sozialhilfe (Art. 12 BV), ohne Bezug zu Art. 5a BV
+- **Erwachsenenschutz**: BGE 140 III 49 erörtert Subsidiarität nach Art. 389 ZGB, ebenfalls unabhängig von Art. 5a BV  
+- **Internationale Steueramtshilfe**: BGE 144 II 206 prüft Subsidiarität im Steuerrecht ohne Verweis auf Art. 5a BV
 
-Die Rechtsprechung zeigt einheitlich, dass Art. 5a BV primär eine staatspolitische Richtlinie darstellt, die nicht unmittelbar einklagbar ist. Das Bundesgericht prüft Rügen bezüglich Art. 5a BV nur, wenn sie substanziiert vorgetragen werden und einen konkreten Bezug zur streitigen Rechtsfrage aufweisen.
+### Zusammenfassung
 
-### Anwendung in der Praxis der Sozialversicherungen
-
-Verschiedene kantonale Entscheide zeigen die Anwendung des Subsidiaritätsprinzips im Bereich der Sozialhilfe, wo das Prinzip als Ausprägung von Art. 5a BV verstanden wird, auch wenn nicht direkt auf die Verfassungsbestimmung Bezug genommen wird.
-
-**VB.2017.00487 vom 15. Februar 2018** (Verwaltungsgericht Zürich - Sozialhilfe)
-
-Anwendung des Subsidiaritätsgrundsatzes bei der Sozialhilfe als praktische Umsetzung der verfassungsrechtlichen Vorgabe.
-
-**OH.2020.00007 vom 24. Juni 2021** (Sozialversicherungsgericht Zürich - Opferhilfe)
-
-Weitere Anwendung des Subsidiaritätsprinzips im Bereich der staatlichen Leistungen.
-
-### Entwicklung der Rechtsprechung
-
-Die wenigen verfügbaren Entscheide zeigen, dass Art. 5a BV in der Praxis vorwiegend als interpretative Leitlinie bei der Auslegung kompetenzrechtlicher Bestimmungen herangezogen wird. Eine eigenständige Rechtsprechung zu konkreten Verletzungen des Subsidiaritätsprinzips hat sich nicht entwickelt, was der Natur der Bestimmung als staatspolitischer Maxime entspricht.
+Die Rechtsprechung zu Art. 5a BV ist ausserordentlich dünn, was die begrenzte praktische Bedeutung der Bestimmung widerspiegelt. Das Bundesgericht betrachtet Art. 5a BV als staatspolitische Richtlinie für die Kompetenzverteilung zwischen Staatsebenen, nicht als justiziablen Grundsatz mit unmittelbaren rechtlichen Folgen. Eine eigenständige Berufung auf Art. 5a BV in konkreten Rechtsfällen ist nach der bisherigen Praxis wenig erfolgversprechend, da die Bestimmung keine subjektiven Rechte begründet.
