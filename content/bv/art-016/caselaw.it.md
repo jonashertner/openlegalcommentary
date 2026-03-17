@@ -1,83 +1,109 @@
 ## Giurisprudenza
 
-### Campo di protezione della libertà d'opinione
+### Principi fondamentali della libertà di opinione
 
-**BGE 138 I 274** del 3 luglio 2012
-L'affissione di manifesti su temi di politica estera rappresenta una forma di manifestazione del pensiero che rientra nel campo di protezione della libertà d'opinione.
-La decisione riguardava il rifiuto delle FFS di affiggere un manifesto critico nei confronti di Israele nella stazione di Zurigo e confermò il vincolo ai diritti fondamentali delle imprese parastatali.
+**BGE 138 I 274 consid. 2.2** del 3 luglio 2012  
+Divieto di censura per manifesti nello spazio pubblico  
+Il Tribunale federale ha stabilito principi fondamentali sulla libertà di opinione nell'uso straordinario di beni pubblici.
 
-> «L'affissione di manifesti su temi di politica estera rappresenta una forma di manifestazione del pensiero che rientra nel campo di protezione della libertà di manifestazione del pensiero secondo l'art. 16 cpv. 2 Cost. [...]. Il contenuto di una manifestazione del pensiero non è di principio rilevante. Anche le dichiarazioni provocatorie o scioccanti dal punto di vista contenutistico meritano la protezione dei diritti fondamentali.»
+> «L'affissione di manifesti su temi di politica estera costituisce una forma di espressione di opinione che rientra nell'ambito di protezione della libertà di espressione secondo l'art. 16 cpv. 2 Cost. [...] Anche espressioni dal contenuto provocatorio o scioccante meritano protezione costituzionale. [...] Un divieto generale di tali temi non terrebbe conto della funzione ideale della libertà di espressione e equivarrebbe a una censura vietata.»
 
-**BGE 139 I 306** del 1° gennaio 2013
-La SSR è vincolata ai diritti fondamentali anche nella sua attività di diritto privato nel settore pubblicitario e deve tenere conto del contenuto ideale della libertà d'opinione.
-La sentenza ha concretizzato il vincolo ai diritti fondamentali delle imprese mediatiche parastatali nelle attività commerciali.
+**BGE 127 I 164 consid. 3** del 1° gennaio 2001  
+Lineamenti della libertà di dimostrazione e di opinione  
+Decisione innovativa su manifestazioni in occasione del World Economic Forum di Davos, che definisce i principi fondamentali del rapporto tra libertà di opinione e ordine pubblico.
 
-> «Nel suo agire di diritto privato nel settore pubblicitario la SSR è vincolata ai diritti fondamentali. Deve in particolare tenere conto (anche) del contenuto ideale dei diritti di libertà. Il semplice timore che una pubblicità controversa (ideale) possa nuocere alla sua reputazione non costituisce un interesse sufficiente per rifiutare la trasmissione di uno spot pubblicitario critico nei suoi confronti.»
+> «L'autorità deve quindi valutare gli interessi contrapposti secondo criteri oggettivi e tenere adeguatamente conto del legittimo bisogno di poter svolgere utilizzazioni con effetto di richiamo al pubblico. [...] Il fatto che le concezioni che devono essere propagate attraverso l'espressione di opinione appaiano all'autorità competente più o meno valide o importanti non può essere determinante per la decisione sulla domanda.»
 
-### Libertà d'opinione e diritto penale
+**BGE 136 I 332 consid. 3.1** del 31 agosto 2010  
+Libertà di opinione dei dipendenti di diritto pubblico  
+Decisione fondamentale sulla libertà di opinione dei dipendenti statali al di fuori del rapporto di servizio.
 
-**BGE 137 IV 313** del 16 settembre 2011
-Attribuire a una persona simpatie per il regime nazista è lesivo dell'onore anche per un politico e oltrepassa i limiti della libertà di manifestazione del pensiero.
-La decisione ha tracciato confini precisi tra critica politica ammissibile e calunnia punibile.
+> «La distribuzione di volantini è una forma di espressione di opinione che rientra nell'ambito di protezione della libertà di espressione.»
 
-> «Attribuire a una persona simpatie per il regime nazista è lesivo dell'onore anche per un politico. [...] La libertà di manifestazione del pensiero protegge anche la critica dura e offensiva nell'ambito politico, tuttavia alla libera manifestazione del pensiero sono posti limiti laddove vengono formulate affermazioni di fatto lesive dell'onore.»
+### Libertà d'informazione secondo l'art. 16 cpv. 3 Cost.
 
-**BGE 131 IV 23** del 1° gennaio 2004
-La norma penale sul razzismo è applicabile anche quando la dichiarazione discriminatoria avviene nel contesto di confronti politici.
-La sentenza ha chiarito il rapporto tra libertà d'opinione e norma penale sul razzismo nella discussione politica.
+**BGE 144 I 170 consid. 6-8** del 27 giugno 2018  
+Accesso ai documenti delle autorità  
+Decisione innovativa sulla portata della libertà d'informazione nelle leggi cantonali sull'accesso agli atti, che definisce i limiti tra trasparenza e onere amministrativo.
 
-> «Come umiliazione o discriminazione ai sensi dell'art. 261bis cpv. 4 CP appaiono tutti i comportamenti attraverso i quali agli appartenenti di un gruppo di popolazione viene negato o almeno messo in discussione, a causa della loro razza, etnia o religione, il valore paritario come esseri umani o la parità di diritti riguardo ai diritti dell'uomo.»
+> «Il diritto costituzionale cantonale non limita il diritto all'informazione agli atti pubblicamente accessibili e la legge non esclude nemmeno gli atti della giustizia amministrativa dal diritto di accesso. Un rifiuto dell'accesso agli atti può quindi essere preso in considerazione solo se dovesse essere sostenuto un onere così straordinario da pregiudicare considerevolmente l'andamento degli affari dell'autorità o da paralizzarla quasi completamente.»
 
-### Libertà di riunione e spazio pubblico
+**BGE 127 I 145 consid. 4** del 1° gennaio 2001  
+Consultazione di atti penali archiviati  
+Decisione di principio sui limiti della libertà scientifica e d'informazione per documenti non generalmente accessibili.
 
-**BGE 127 I 164** del 1° gennaio 2001
-Le autorità devono tenere conto del contenuto ideale della libertà d'opinione e di riunione nella loro ponderazione degli interessi in caso di dimostrazioni su suolo pubblico.
-La sentenza fondamentale sulla dimostrazione in occasione del Forum economico mondiale di Davos ha plasmato la dogmatica sulle manifestazioni nello spazio pubblico.
+> «La libertà d'informazione e scientifica non accordano un diritto generale all'ottenimento di informazioni da fonti non generalmente accessibili (atti archiviati durante i termini di protezione).»
 
-> «L'autorità non è solo vincolata al divieto dell'arbitrio e al principio della parità di trattamento, ma deve inoltre includere nella ponderazione degli interessi il particolare contenuto ideale dei diritti di libertà di cui si tratta l'esercizio. [...] Se le concezioni che devono essere propagandate attraverso la manifestazione del pensiero appaiano all'autorità competente più o meno preziose o importanti, non può essere determinante per la decisione sulla domanda.»
+### Libertà dei media e accesso al tempo di trasmissione
 
-**BGE 143 I 147** del 18 gennaio 2017
-L'imposizione di costi per le manifestazioni costituisce una lesione dei diritti fondamentali che può causare un "chilling effect".
-La decisione ha trattato la problematica del trasferimento dei costi sugli organizzatori di dimostrazioni e il loro effetto deterrente.
+**BGE 139 I 306 consid. 3-5** del 1° gennaio 2013  
+Vincolo dei diritti fondamentali della SSR nell'ambito pubblicitario  
+Decisione esemplare sul vincolo dei diritti fondamentali delle aziende mediatiche di diritto pubblico nel rifiuto del tempo pubblicitario.
 
-> «La libertà d'opinione e di riunione non possono essere compromesse solo da interventi diretti come divieti e sanzioni. Sono pensabili anche compromissioni indirette di questi diritti fondamentali nel senso che l'interessato non osa più fare uso del diritto fondamentale a causa di una reazione delle autorità.»
+> «Nel suo agire di diritto privato nell'ambito pubblicitario, la SSR è vincolata dai diritti fondamentali. Deve tenere conto in particolare (anche) del contenuto ideale dei diritti di libertà. Il semplice timore che una pubblicità controversa (ideale) possa danneggiare la sua reputazione non costituisce un interesse sufficiente per rifiutare la trasmissione di uno spot pubblicitario critico nei suoi confronti, finché il committente non agisce in modo illecito.»
 
-### Libertà d'informazione
+**BGE 143 I 194 consid. 3** del 1° gennaio 2017  
+Esclusione dei media dalle udienze  
+Decisione sulla ponderazione tra libertà dei media e altri interessi processuali nel processo penale.
 
-**BGE 144 I 170** del 27 giugno 2018
-Il diritto di accesso ai documenti ufficiali non è limitato agli atti pubblicamente accessibili.
-La sentenza sulla consultazione delle perizie AI ha concretizzato la portata della libertà d'informazione secondo il diritto cantonale.
+> «Il significato dello Stato di diritto e democratico del principio della pubblicità giudiziaria impone di ammettere l'esclusione del pubblico e degli operatori dei media nei procedimenti penali giudiziari solo molto restrittivamente, quindi in presenza di interessi contrapposti preponderanti.»
 
-> «Il diritto costituzionale cantonale non limita il diritto all'informazione agli atti pubblicamente accessibili e la legge non esclude nemmeno gli atti della giustizia amministrativa dal diritto di accesso. Un rifiuto dell'accesso agli atti può pertanto essere preso in considerazione solo se dovesse essere affrontato uno sforzo così straordinario che l'andamento degli affari dell'autorità ne risulterebbe considerevolmente compromesso o quasi paralizzato.»
+### Limiti della libertà di opinione nel diritto penale
 
-### Libertà d'opinione nel servizio pubblico
+**BGE 137 IV 313 consid. 2-3** del 16 settembre 2011  
+Diffamazione ed espressione di opinione politica  
+Decisione fondamentale sulla delimitazione tra critica politica ammissibile e lesione dell'onore punibile.
 
-**BGE 136 I 332** del 31 agosto 2010
-I dipendenti di diritto pubblico possono in linea di principio invocare la libertà di manifestazione del pensiero, tuttavia limitazioni di diritto del servizio sono ammissibili a determinate condizioni.
-La decisione riguardava un docente universitario che era stato sottoposto a procedimento disciplinare a causa di manifestazioni di pensiero politiche.
+> «Attribuire a una persona di avere simpatie per il regime nazista è lesivo dell'onore anche per un politico.»
 
-> «Le misure adottate nei confronti del docente di un'università statale a causa della distribuzione di un volantino ai membri del Gran Consiglio - ammonimento e revoca di una funzione dirigenziale - costituiscono una limitazione inammissibile della libertà di manifestazione del pensiero.»
+**BGE 131 IV 23 consid. 2-3** del 1° gennaio 2004  
+Discriminazione razziale e libertà di opinione  
+Decisione innovativa sulla ponderazione tra libertà di opinione e protezione dalla discriminazione razziale secondo l'art. 261bis CP.
 
-### Libertà d'opinione e divieto di mendicare
+> «Come denigrazione o discriminazione nel senso dell'art. 261bis cpv. 4 CP appaiono tutti i comportamenti attraverso i quali agli appartenenti di un gruppo di popolazione, a causa della loro razza, etnia o religione, viene negata o almeno messa in discussione la parità di valore come esseri umani o la parità di diritti riguardo ai diritti umani.»
 
-**BGE 149 I 248** del 1° gennaio 2023
-Il mendicare non rientra nella protezione della libertà d'opinione, bensì nel campo di protezione della libertà personale.
-La più recente decisione del Tribunale federale ha chiarito che la libertà d'opinione non è applicabile all'accattonaggio passivo.
+**BGE 128 IV 201 consid. 1** del 1° gennaio 2002  
+Pornografia violenta e libertà di opinione  
+Decisione sui limiti della libertà di espressione nella diffusione di contenuti pornografici.
 
-> «Sulla giurisprudenza secondo cui il mendicare non rientra nella protezione della libertà d'opinione e della libertà economica, nel presente contesto non si deve tornare.»
+> «La punizione per la vendita di riviste pornografiche e videofilm che hanno per contenuto atti sessuali con violenze o con escrementi umani non viola la libertà di espressione nemmeno quando con questi prodotti vengono serviti esclusivamente adulti interessati e iniziati.»
 
-### Diritto di manifestazione e misure di polizia
+### Libertà di opinione nelle dimostrazioni e manifestazioni
 
-**BGE 147 I 372** del 22 aprile 2021
-I profili DNA e i rilevamenti segnaletici di partecipanti pacifici a manifestazioni costituiscono lesioni sproporzionate dei diritti fondamentali.
-La sentenza ha limitato considerevolmente le competenze di polizia nelle dimostrazioni.
+**BGE 143 I 147 consid. 3** del 1° gennaio 2017  
+Addossamento di costi per manifestazioni  
+Decisione importante sull'onere finanziario delle espressioni di opinione nello spazio pubblico.
 
-> «Il trattamento segnaletrico sistematico di persone che hanno semplicemente partecipato a una manifestazione pacifica non soggetta ad autorizzazione, senza essersi comportate in modo punibile, è sproporzionato e viola i loro diritti fondamentali.»
+> «L'addossamento di costi costituisce una limitazione dei diritti fondamentali. [...] Un addossamento di costi che porta a dover rinunciare allo svolgimento di una manifestazione perché i mezzi finanziari non sono sufficienti, pregiudica la libertà di opinione e di riunione nel suo nucleo essenziale.»
 
-### Pubblicità della giustizia e libertà d'informazione
+**BGE 132 I 256 consid. 3-4** del 1° agosto 2006  
+Manifestazione nella festa nazionale  
+Decisione sul rifiuto di una dimostrazione di gruppi estremisti il 1° agosto a Brunnen.
 
-**BGE 143 I 194** del 1° gennaio 2017
-Il principio della pubblicità della giustizia impone in linea di principio l'accesso dei rappresentanti dei media alle udienze giudiziarie.
-La decisione ha confermato la stretta connessione tra pubblicità della giustizia e libertà d'informazione.
+> «L'autorità deve valutare gli interessi contrapposti secondo criteri oggettivi e tenere adeguatamente conto del legittimo bisogno di poter svolgere utilizzazioni con effetto di richiamo al pubblico.»
 
-> «Il significato dello Stato di diritto e democratico del principio della pubblicità della giustizia impone di ammettere l'esclusione dei media solo a condizioni restrittive.»
+**BGE 134 IV 216 consid. 4-6** del 3 aprile 2008  
+Coazione in azioni di sciopero  
+Decisione sulla delimitazione tra espressione di opinione legittima e coazione punibile nei blocchi stradali.
+
+> «Chi esorta i manifestanti a raggrupparsi attorno a un veicolo per sventare così un intervento della polizia, si rende colpevole di istigazione all'impedimento di un atto d'ufficio, se l'intervento della polizia viene effettivamente impedito.»
+
+### Ambiti di applicazione speciali
+
+**BGE 147 I 372 consid. 4-6** del 22 aprile 2021  
+Rilevamento DNA nelle manifestazioni pacifiche  
+Decisione attuale sulla proporzionalità delle misure poliziesche nell'esercizio dei diritti fondamentali.
+
+> «Il rilevamento segnalettico e il prelievo di campioni DNA presso persone che hanno semplicemente partecipato a una manifestazione pacifica, senza comportarsi in modo punibile, costituiscono una grave limitazione di diversi diritti fondamentali.»
+
+**BGE 130 I 369 consid. 2** del 7 luglio 2004  
+Rifiuto di accesso da parte della polizia per giornalisti  
+Decisione sulla libertà d'informazione e di movimento dei rappresentanti dei media in occasione di grandi eventi.
+
+> «L'impedimento poliziesco dell'accesso a Davos in occasione del World Economic Forum 2001 tocca il giornalista interessato nella libertà personale nonché nella libertà di opinione, d'informazione e di stampa.»
+
+**BGE 149 I 248 consid. 5-7** del 1° gennaio 2023  
+Divieto di mendicare e libertà di opinione  
+Decisione più recente sulla delimitazione tra espressione di opinione e altre forme di espressione.
+
+> «L'accattonaggio rientra nell'ambito di protezione del diritto fondamentale della libertà personale rispettivamente del diritto al rispetto della vita privata. [...] Nella misura in cui l'accattonaggio contiene elementi di comunicazione o di appello alla solidarietà, può toccare anche l'ambito di protezione della libertà di espressione.»

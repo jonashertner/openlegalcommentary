@@ -1,95 +1,103 @@
 ## Jurisprudence
 
-La jurisprudence relative à l'art. 15 Cst. est marquée par la tension entre la protection constitutionnelle des convictions religieuses et les limites qui résultent de la coexistence dans une société pluraliste. Le Tribunal fédéral a développé une dogmatique différenciée qui précise tant le champ de protection que les limites de la liberté de croyance et de conscience.
+### Principes fondamentaux de la liberté religieuse
 
-### Portée fondamentale et champ de protection
+**BGE 142 I 49 c. 3** du 11 décembre 2015  
+L'interdiction du port du foulard pour les écolières viole l'art. 15 Cst.  
+Le droit fondamental protège tant la liberté religieuse interne qu'externe.  
 
-**ATF 142 I 49** du 11 décembre 2015  
-Interdiction du port du foulard pour les écolières dans une école publique comme atteinte inadmissible à la liberté de croyance et de conscience.  
-L'arrêt précise les principes directeurs de la liberté de croyance et de conscience et leur contenu en tant que droit fondamental à l'école.
+> «La liberté de conscience et de croyance fait partie des droits fondamentaux les plus anciens ; des témoignages de l'idée de tolérance se trouvent déjà au quatrième siècle. La liberté de conscience et de croyance ancrée dans les idées mentionnées est garantie par l'art. 15 Cst. Elle accorde à chaque personne le droit de choisir librement sa religion et sa conviction philosophique et de la professer seule ou en communauté avec d'autres.»
 
-> « La liberté de croyance et de conscience fait partie des droits fondamentaux les plus anciens ; on trouve déjà des témoignages de l'idée de tolérance au quatrième siècle (cf. Édit de Milan de 313). La liberté de croyance et de conscience ancrée dans les idées mentionnées est garantie par l'art. 15 Cst. (al. 1). Elle confère à toute personne le droit de choisir librement sa religion et ses convictions philosophiques et de les professer seule ou en communauté avec d'autres (al. 2). »
+### Liberté religieuse dans le domaine scolaire
 
-### Convictions religieuses dans le domaine de l'éducation
+**BGE 135 I 79 c. 4.4** du 24 octobre 2008  
+Dispense du cours de natation pour les élèves musulmans — Détermination de la signification des règles religieuses.  
+Le droit fondamental protège également les convictions des minorités religieuses indépendamment de leur diffusion.
 
-**ATF 135 I 79** du 24 octobre 2008  
-Dispense d'élèves musulmans des cours de natation mixtes pour des motifs religieux.  
-L'arrêt fondamental sur la délimitation entre liberté religieuse et obligation d'intégration à l'école.
+> «L'État religieusement neutre ne peut pas vérifier l'exactitude théologique des règles de croyance. De même, il lui est interdit de déterminer lui-même la signification d'un précepte religieux et ainsi son poids dans la pesée des intérêts. Les contenus de croyance qui fondent un comportement motivé religieusement ou suggèrent certaines façons de s'habiller ne sont en principe pas à vérifier.»
 
-> « Les contenus de foi qui fondent un comportement religieusement motivé ou qui suggèrent certains modes vestimentaires ne sont en principe pas vérifiables. L'État religieusement neutre ne peut pas vérifier les règles de foi quant à leur exactitude théologique - en particulier quant à leur conformité avec les Écritures saintes. Il lui est également interdit de déterminer lui-même la signification d'une prescription religieuse et donc son poids dans la pesée des intérêts. »
+**BGE 139 I 280 c. 5** du 11 juillet 2013  
+L'interdiction du port du foulard pour les écolières nécessite une base légale formelle.  
+Les atteintes graves à l'art. 15 Cst. exigent une base juridique suffisante.
 
-**ATF 139 I 280** du 11 juillet 2013  
-Interdiction du port du foulard pour les écolières sans base légale suffisante.  
-Concrétisation des exigences relatives à la base légale en cas d'atteintes à la liberté religieuse.
+> «L'interdiction du port du foulard à l'école constitue une atteinte grave au droit fondamental de la liberté de conscience et de croyance, qui nécessite une base légale formelle ; la législation générale sur l'école primaire du canton de Thurgovie ne constitue pas une telle base.»
 
-> « L'interdiction de porter un foulard à l'école constitue une atteinte grave au droit fondamental de la liberté de croyance et de conscience, qui requiert une base légale formelle ; la législation scolaire générale du canton de Thurgovie ne constitue pas une telle base. »
+### Protection contre la discrimination et naturalisation
 
-### Procédure de naturalisation et liberté religieuse
+**BGE 134 I 49 c. 3.2** du 27 février 2008  
+Le refus de naturalisation en raison du port du foulard est discriminatoire.  
+L'art. 15 Cst. agit via l'art. 8 al. 2 Cst. dans la procédure de naturalisation.
 
-**ATF 134 I 49** du 27 février 2008  
-Non-naturalisation discriminatoire en raison du port du foulard.  
-Interdiction fondamentale de discrimination religieuse lors de naturalisations.
+> «Fonder une décision négative de naturalisation sur le port du foulard comme symbole religieux est susceptible de désavantager illicitement la requérante. Une justification qualifiée fait défaut à cet égard : le simple port du foulard n'exprime pas en soi une attitude contraire aux valeurs de l'État de droit et démocratiques.»
 
-> « Fonder une décision négative de naturalisation sur le port du foulard comme symbole religieux est propre à désavantager de manière inadmissible la requérante. Il manque pour cela une justification qualifiée : le simple port du foulard n'exprime pas en soi une attitude dirigée contre les valeurs fondamentales de l'État de droit et démocratiques. »
+**BGE 134 I 56 c. 5** du 27 février 2008  
+Examen de discrimination en cas de refus de naturalisation motivé religieusement.  
+Le manque de connaissances linguistiques peut supplanter le port du foulard comme motif de refus.
 
-**ATF 134 I 56** du 27 février 2008  
-Non-naturalisation en raison du foulard et de connaissances linguistiques insuffisantes.  
-Délimitation entre critères d'intégration admissibles et discrimination religieuse inadmissible.
+> «Compte tenu du manque de connaissances en allemand et en instruction civique, le rejet de la demande de naturalisation résiste à la Constitution nonobstant le fait que la requérante porte le foulard.»
 
-> « Compte tenu de connaissances insuffisantes en allemand et en instruction civique, le rejet de la demande de naturalisation résiste à l'examen constitutionnel indépendamment du fait que la requérante porte le foulard. Fonder une décision négative de naturalisation sur la circonstance que la requérante porte le foulard serait cependant discriminatoire. »
+### Sortie d'Église et liberté religieuse négative
 
-### Liberté de culte et rapports juridiques particuliers
+**BGE 134 I 75 c. 3-9** du 16 novembre 2007  
+La sortie partielle de l'Église cantonale suffit.  
+La liberté religieuse négative protège contre la contrainte d'appartenir à une communauté religieuse.
 
-**ATF 129 I 74** de l'année 2003  
-Liberté de croyance et de conscience dans l'exécution des peines.  
-Limites de l'exercice religieux dans les rapports juridiques particuliers.
+> «La déclaration de sortie de l'Église cantonale suffit ; on ne peut pas exiger de celui qui veut sortir qu'il se détache de l'Église catholique romaine en tant que telle.»
 
-> « La liberté de culte en tant que composante et émanation de la liberté de croyance et de conscience peut subir dans l'exécution des peines, par l'isolement largement complet du détenu du monde extérieur, des restrictions qui vont au-delà de ce qui serait admissible en liberté. Elles ne doivent cependant pas dépasser la mesure nécessaire au bon fonctionnement de l'établissement. »
+**BGE 129 I 68 c. 3.1-3.4** du 18 décembre 2002  
+Effets juridiques de la sortie partielle d'Église.  
+L'art. 15 al. 4 Cst. protège contre la contrainte à l'exercice de la religion.
 
-### Cloches d'église et droits de voisinage
+> «Les effets juridiques d'une déclaration visant à sortir seulement de la paroisse resp. de l'Église cantonale, mais à vouloir continuer à se confesser à l'Église catholique romaine (sortie dite partielle d'Église), sont à déterminer à la lumière de la liberté de conscience et de croyance.»
 
-**ATF 126 II 366** de l'année 2000  
-Appréciation du carillon des cloches d'église sous l'angle du droit de la protection contre le bruit.  
-Pesée entre exercice religieux et protection contre le bruit.
+### Impôts ecclésiastiques et liberté religieuse
 
-> « Le carillon des cloches d'église, même s'il fait partie de l'exercice religieux et qu'il bénéficie de la protection de la liberté de croyance et de conscience (art. 15 al. 2 Cst.), peut être soumis à certaines restrictions pour protéger la tranquillité publique. Les autorités locales disposent d'une marge d'appréciation pour les événements qui sont l'expression d'une ancienne tradition. »
+**BGE 126 I 122 c. 3** du 13 juin 2000  
+L'assujettissement des personnes morales à l'impôt ecclésiastique est compatible avec l'art. 15 Cst.  
+La liberté religieuse protège principalement les personnes physiques.
 
-### Impôts ecclésiastiques
+> «Confirmation de la jurisprudence actuelle sur la compatibilité de principe de l'assujettissement des personnes morales à l'impôt ecclésiastique avec l'art. 49 al. 6 aCst. [maintenant art. 15 Cst.].»
 
-**ATF 126 I 122** du 13 juin 2000  
-Assujettissement des personnes morales à l'impôt ecclésiastique et liberté religieuse.  
-Confirmation de la conformité constitutionnelle du système d'impôt ecclésiastique.
+**BGE 128 I 317 c. 4** du 20 février 2002  
+Impôts ecclésiastiques en cas de mariage confessionnellement mixte.  
+La liberté de conscience et de croyance pose des limites à l'imposition ecclésiastique.
 
-> « Confirmation de la jurisprudence antérieure sur la compatibilité de principe de l'assujettissement des personnes morales à l'impôt ecclésiastique avec l'art. 15 Cst. La liberté religieuse négative n'est pas violée par l'assujettissement à l'impôt ecclésiastique, car celui-ci n'oblige pas à l'exercice religieux ou à l'adhésion à une Église. »
+> «Maintien des principes jusqu'ici dérivés de la liberté de conscience et de croyance en matière d'imposition ecclésiastique lors de mariages confessionnellement mixtes.»
 
-### Laïcité étatique et symboles religieux
+### Liberté religieuse dans l'exécution des peines
 
-**ATF 148 I 160** du 23 décembre 2021  
-Loi genevoise sur la laïcité et interdiction des symboles religieux.  
-Contrôle abstrait de normes sur la neutralité étatique et la liberté religieuse.
+**BGE 129 I 74 c. 4.2** du 13 janvier 2003  
+Liberté de culte en prison — Des restrictions sont possibles.  
+La liberté religieuse vaut aussi dans le rapport spécial d'autorité, mais avec des restrictions.
 
-> « L'art. 3 al. 3 et 5 LLE/GE, selon lequel les personnes exerçant des fonctions judiciaires, les membres d'autorités exécutives cantonales et les fonctionnaires doivent s'abstenir de manifester leur appartenance religieuse par des déclarations ou des signes extérieurs, est - dans le cadre d'un contrôle abstrait de normes - conforme aux art. 15 et 36 Cst. et à l'art. 9 CEDH. Il faut cependant éviter une application excessivement stricte de cette disposition dans le cas d'espèce. »
+> «Dans l'exécution des peines se dessinent des restrictions de liberté dans l'intérêt public résultant du but de cette institution et de l'exigence du maintien d'un fonctionnement ordonné de l'établissement. Elles ne doivent pas dépasser la mesure nécessaire à cet effet.»
 
-### Prosélytisme et liberté économique
+### Neutralité étatique et symboles religieux
 
-**ATF 126 I 133** du 7 juin 2000  
-Publicité de la Scientologie sur terrain public.  
-Délimitation entre liberté religieuse et liberté du commerce et de l'industrie.
+**BGE 148 I 160 c. 7** du 23 décembre 2021  
+Loi genevoise sur la laïcité et liberté religieuse des employés de l'État.  
+L'exercice neutre de fonctions étatiques peut limiter les manifestations religieuses.
 
-> « Celui qui veut distribuer des prestations payantes et qui ne fait pas clairement reconnaître au public visé l'objectif de prosélytisme éventuellement lié à cette activité doit accepter que ses actions publicitaires soient appréciées non pas sous l'angle de la liberté religieuse, mais sous celui de la liberté du commerce et de l'industrie. »
+> «L'art. 3 al. 3 et 5 LLE/GE, selon lequel les magistrats, membres des autorités exécutives cantonales et fonctionnaires doivent s'abstenir d'afficher leur appartenance religieuse par des déclarations ou des signes extérieurs, est conforme aux art. 15 et 36 Cst. et à l'art. 9 ch. 1 CEDH. Il faut cependant éviter une application excessivement stricte de cette disposition dans le cas particulier.»
 
-### Églises nationales et liberté de croyance
+**BGE 145 I 121 c. 4** du 17 décembre 2018  
+La contribution de financement de l'Église cantonale à un centre de consultation ne viole pas la liberté religieuse.  
+Le soutien indirect de buts non religieux par des communautés religieuses est admissible.
 
-**ATF 145 I 121** du 17 décembre 2018  
-Contribution ecclésiastique à un centre de conseil et liberté de croyance.  
-Limites de l'intervention étatique dans les affaires ecclésiastiques.
+> «La liberté de croyance de l'Église catholique romaine cantonale ou le droit de l'Église cantonale ne sont pas violés par la contribution liée à conditions de l'Église catholique cantonale des Grisons de Fr. 15'000.- à un centre de consultation pour la planification familiale, la sexualité, la grossesse et le partenariat.»
 
-> « La liberté de croyance de l'Église nationale catholique romaine ou le droit de l'Église nationale ne sont pas violés par la contribution soumise à conditions de l'Église catholique nationale des Grisons d'un montant de 15'000 fr. à un centre de conseil pour la planification familiale, la sexualité, la grossesse et le partenariat. »
+### Minorités religieuses et intégration
 
-### Horaires d'examens et fêtes religieuses
+**BGE 126 I 133 c. 4** du 23 mai 2000  
+L'activité missionnaire sur terrain public est soumise à des restrictions locales.  
+La liberté religieuse n'est pas illimitée et doit être mise en balance avec d'autres intérêts.
 
-**ATF 134 I 114** de l'année 2008  
-Dispense d'examen de maturité un samedi pour des motifs religieux.  
-Examen de la proportionnalité pour des événements ponctuels.
+> «Celui qui veut distribuer des prestations payantes et ne fait pas clairement reconnaître au public visé le but de mission éventuellement lié à cela doit accepter que ses actions publicitaires ne soient pas privilégiées sous l'angle de la liberté religieuse.»
 
-> « Même si la tenue d'un examen de maturité un samedi est permise par la loi et qu'elle devrait reposer sur un intérêt public, le refus d'une dispense à l'égard d'un élève qui appartient à une communauté religieuse strictement attachée au commandement du repos du samedi s'avère disproportionné. »
+### Rapport avec la CEDH
+
+**BGE 132 I 167 c. 3** du 10 mai 2006  
+Liberté religieuse et protection contre la discrimination lors de la naturalisation.  
+L'art. 15 Cst. et l'art. 9 CEDH ont un effet protecteur parallèle.
+
+> «L'invocation de l'art. 15 Cst. et de l'art. 9 CEDH n'a pas de signification autonome en vue du grief que la naturalisation a été refusée pour des motifs discriminatoires en raison de l'appartenance religieuse, car l'interdiction de discrimination de l'art. 8 al. 2 Cst. offre une protection plus étendue.»
