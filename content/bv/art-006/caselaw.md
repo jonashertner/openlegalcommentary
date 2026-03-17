@@ -1,67 +1,60 @@
-## Rechtsprechung
+# Rechtsprechung
 
-### Sozialhilferecht und wirtschaftliche Eigenverantwortung
+## Grundsätzliche Bedeutung und Subsidiaritätsprinzip
 
-**Urteil 8C_708/2018 vom 26. März 2019**
+**BGE 141 I 153** (17. September 2015) — Anrechnung eines Konkubinatsbeitrages im Sozialhilfebudget
+Das Subsidiaritätsprinzip ist Ausdruck der in Art. 6 BV verankerten Pflicht zur Mitverantwortung und Solidarität gegenüber der Gemeinschaft. Die Anrechnung eines Konkubinatsbeitrages bei einem stabilen Konkubinat verstösst weder gegen das Willkürverbot noch gegen die Rechtsgleichheit.
 
-Anrechnung der Hilflosenentschädigung bei Sozialhilfe; Eigenverantwortung der Eltern bei der Betreuung behinderter Kinder. Die Sozialbehörde rechnete die Hilflosenentschädigung einer behinderten Tochter dem Einkommen der sozialhilfebeziehenden Eltern an, welche diese zu Hause betreuten. Das Bundesgericht bestätigte den Grundsatz der Eigenverantwortung im Sozialhilferecht und präzisierte die Voraussetzungen für die Anrechnung von Hilflosenentschädigungen.
+> «Die Sozialhilfe wird vom Subsidiaritätsprinzip beherrscht. Als Grundprinzip im Sozialhilferecht meint die Subsidiarität, dass Sozialhilfe prinzipiell nur gewährt wird, soweit der Einzelne keinen Zugang zu einer anderweitigen, zumutbaren Hilfsquelle hat. Es ist damit Ausdruck der Pflicht zur Mitverantwortung und Solidarität gegenüber der Gemeinschaft, wie sie in Art. 6 BV verankert ist.»
 
-> «Art. 6 BV verpflichtet die Einzelnen, nach ihren Kräften zur Bewältigung der Aufgaben in Staat und Gesellschaft beizutragen. Dies schliesst die Betreuung und Pflege behinderter Familienangehöriger ein, soweit dies den individuellen Möglichkeiten entspricht.»
+**BGE 150 V 161** (1. Februar 2024) — Subsidiaritätsprinzip und Vorsorgeschutz
+Art. 6 BV begründet das Subsidiaritätsprinzip im Sozialhilferecht, das jedoch bei der Verpflichtung zum vorzeitigen Bezug von Freizügigkeitsleistungen gegen den bundesrechtlichen Vorsorgeschutz und den Verhältnismässigkeitsgrundsatz abgewogen werden muss.
 
-**Urteil 8C_44/2012 vom 31. August 2012**
+> «Das Subsidiaritätsprinzip ist Ausdruck der Pflicht zur Mitverantwortung und Solidarität gegenüber der Gemeinschaft, wie sie in Art. 6 BV verankert ist (BGE 150 I 6 E. 10.1.2 mit Hinweisen; BGE 141 I 153 E. 4.2 mit Hinweisen; Urteile 8C_17/2023 vom 5. Oktober 2023 E. 4; vgl. auch Art. 41 Abs. 1 BV).»
 
-Eigenverantwortung bei der Arbeitssuche und Sozialhilfebezug. Sozialhilfebeziehende sind grundsätzlich verpflichtet, ihre Arbeitskraft zur Erzielung von Einkommen einzusetzen. Art. 6 BV untermauert diese Pflicht zur Eigenverantwortung und zur aktiven Mitwirkung bei der Überwindung der Notlage.
+## Aktuelle Anwendung im Sozialhilferecht
 
-> «Der in Art. 6 BV verankerte Grundsatz der Eigenverantwortung verpflichtet erwerbsfähige Personen dazu, durch eigene Anstrengungen ihren Lebensunterhalt zu bestreiten und staatliche Hilfe nur subsidiär in Anspruch zu nehmen.»
+**Urteil 8C_138/2024** (8. Juli 2025) — Konkubinatsbeitrag und Ergänzungsleistungen
+Auch bei Konkubinatspartnern, die Ergänzungsleistungen beziehen, kann ein Konkubinatsbeitrag angerechnet werden. Das Subsidiaritätsprinzip als Ausdruck von Art. 6 BV rechtfertigt die Berücksichtigung aller Einkünfte des Partners, einschliesslich Ergänzungsleistungen.
 
-### Verfahrensrecht und Mitwirkungspflichten
+> «Die Sozialhilfe wird vom Subsidiaritätsprinzip beherrscht (BGE 141 I 153 E. 4.2). Als Grundprinzip im Sozialhilferecht meint die Subsidiarität, dass Sozialhilfe prinzipiell nur gewährt wird, soweit der Einzelne keinen Zugang zu einer anderweitigen, zumutbaren Hilfsquelle hat. Es ist damit Ausdruck der Pflicht zur Mitverantwortung und Solidarität gegenüber der Gemeinschaft, wie sie in Art. 6 BV verankert ist.»
 
-**Urteil 5A_1000/2015 vom 19. Februar 2016**
+**Urteil 8C_708/2018** (26. März 2019) — Anrechnung von Hilflosenentschädigung
+Die Anrechnung von Einkommen in Sozialhilfebudgets erfolgt nach dem Subsidiaritätsprinzip. Bei der Betreuung eines behinderten Kindes durch die Eltern kann die Hilflosenentschädigung grundsätzlich als Einkommen angerechnet werden, wobei die besonderen Umstände zu berücksichtigen sind.
 
-Mitwirkungspflicht der Parteien im Zivilverfahren. Die Eigenverantwortung nach Art. 6 BV erstreckt sich auch auf das Verhalten in gerichtlichen Verfahren und die ordnungsgemässe Wahrnehmung von Verfahrensrechten. Parteien müssen ihre Interessen eigenverantwortlich wahrnehmen.
+Das Bundesgericht bestätigte, dass das Subsidiaritätsprinzip als verfassungsrechtliche Grundlage für die Anrechnung verschiedener Einkommen bei der Sozialhilfebemessung dient.
 
-> «Art. 6 BV begründet nicht nur eine allgemeine Eigenverantwortung für das gesellschaftliche Zusammenleben, sondern auch die Verantwortung für die ordnungsgemässe Wahrnehmung der eigenen Rechte und Pflichten in Verfahren.»
+## Verwaltungsgerichtliche Rechtsprechung
 
-**Urteil 4A_11/2012 vom 29. Juni 2012**
+**Verwaltungsgericht Bern, Urteil 200 2016 679** (17. Februar 2017) — Subsidiarität in der Sozialhilfe
+Das Subsidiaritätsprinzip ist mit Blick auf Art. 6 BV Ausdruck der Pflicht zur Mitverantwortung und Solidarität gegenüber der Gemeinschaft. Eine anderweitige, zumutbare Hilfsquelle ist vorrangig zu nutzen.
 
-Eigenverantwortung im Geschäftsverkehr. Art. 6 BV unterstreicht die Eigenverantwortung der Marktteilnehmer im Wirtschaftsleben. Unternehmen müssen eigenverantwortlich für ihre Geschäftsgebaren einstehen und können sich bei unseriösen Praktiken nicht auf mangelnde staatliche Regulierung berufen.
+> «Als Grundprinzip im Sozialhilferecht meint die Subsidiarität, dass Sozialhilfe prinziziell nur gewährt wird, soweit der Einzelne keinen Zugang zu einer anderweitigen, zumutbaren Hilfsquelle hat. Es ist damit Ausdruck der Pflicht zur Mitverantwortung und Solidarität gegenüber der Gemeinschaft, wie sie in Art. 6 BV verankert ist.»
 
-> «Der Grundsatz der Eigenverantwortung nach Art. 6 BV gilt auch im Bereich der Wirtschaftsfreiheit. Marktteilnehmer sind eigenverantwortlich für ihre Geschäftspraktiken und deren Auswirkungen auf den Markt.»
+**Verwaltungsgericht Zürich, Entscheid VB.2018.00357** (7. November 2019) — Konkubinatsbeitrag und Eigenverantwortung
+Die Anrechnung eines Konkubinatsbeitrages entspricht dem Grundsatz der Eigenverantwortung nach Art. 6 BV und dem Subsidiaritätsprinzip im Sozialhilferecht.
 
-### Gesundheitsrecht und Corona-Massnahmen
+Das Gericht hielt fest, dass die wirtschaftliche Betrachtungsweise bei Konkubinatspaaren der verfassungsrechtlichen Verpflichtung zur Mitverantwortung entspricht.
 
-**Urteil 6B_1007/2022 vom 22. Januar 2025**
+## Historische Entwicklung
 
-Eigenverantwortung bei Gesundheitsschutzmassnahmen während der COVID-19-Pandemie. Das Tragen von Gesichtsmasken an politischen Kundgebungen während der besonderen Lage. Art. 6 BV begründet eine Eigenverantwortung für den Gesundheitsschutz, die jedoch durch staatliche Vorschriften konkretisiert werden kann.
+**BGE 121 I 138** (19. April 1995) — Landsgemeinden und Bürgerpflichten
+Art. 6 BV wurde im Kontext von Bürgerpflichten und demokratischer Teilhabe erwähnt. Das Gericht anerkannte die verfassungsrechtliche Verankerung von Mitverantwortung, ohne diese jedoch ausführlich zu konkretisieren.
 
-> «Art. 6 BV verpflichtet zur Eigenverantwortung auch im Bereich der öffentlichen Gesundheit. Diese Eigenverantwortung entbindet jedoch nicht von der Befolgung spezifischer gesetzlicher Vorschriften zum Schutz der Volksgesundheit.»
+**BGE 91 I 110** (1965) — Kirchgemeinden und staatsbürgerliche Pflichten
+Frühe Erwähnung der Bürgerpflichten im Kontext der Organisation von Kirchgemeinden. Das Bundesgericht bestätigte, dass bestimmte Organisationsformen staatsbürgerliche Mitverantwortung voraussetzen können.
 
-### Historische Rechtsprechung
+## Weitere Anwendungsbereiche
 
-**BGE 61 I 166 (1935)**
+**BGE 96 I 636** (1970) — Konkordate und Bürgerpflichten
+Art. 6 BV wurde im Zusammenhang mit konkordatärechtlichen Verpflichtungen erwähnt, wobei das Bundesgericht die Bedeutung der Bürgerpflicht zur Mitwirkung in staatlichen und gesellschaftlichen Belangen betonte.
 
-Grundlegende Bestimmung zur Eigenverantwortung im schweizerischen Staatsrecht. Frühe Auslegung des Eigenverantwortungsprinzips als tragendes Element der schweizerischen Rechtsordnung und als Grundlage für die Begrenzung staatlicher Eingriffe.
+**BGE 89 I 80** (1963) — Gemeindeorganisation
+Frühe Rechtsprechung zur Bedeutung der Bürgerpflichten in der kommunalen Selbstverwaltung. Das Gericht anerkannte die verfassungsrechtliche Grundlage für Mitwirkungspflichten auf Gemeindeebene.
 
-**BGE 69 I 171 (1943)**
+## Verhältnis zu anderen Verfassungsbestimmungen
 
-Abgrenzung zwischen individueller Eigenverantwortung und staatlicher Fürsorgepflicht. Das Gericht präzisierte die Grenzen der Eigenverantwortung und die Voraussetzungen, unter denen staatliche Hilfe gerechtfertigt ist.
+**BGE 94 I 525** (1968) — Wiedervereinigung Basel
+Art. 6 BV wurde im Kontext föderalistischer Neuordnung erwähnt. Das Gericht verwies auf die Bedeutung der Bürgerpflicht für die demokratische Willensbildung in komplexen Staatsorganisationsverfahren.
 
-### Verwaltungsgerichtliche Rechtsprechung
-
-**VB.2018.00357 (VGer ZH, 2018)**
-
-Sozialhilfe und Anrechnung von Konkubinatsbeiträgen. Eigenverantwortung in Lebensgemeinschaften und die Pflicht zur gegenseitigen Unterstützung. Das Gericht bestätigte, dass Art. 6 BV auch die Verantwortung für nahestehende Personen umfasst.
-
-**VB.2022.00291 (VGer ZH, 13. September 2022)**
-
-Ausschluss vom Präsenzunterricht wegen Verweigerung von COVID-19-Tests. Eigenverantwortung der Schülerinnen und Schüler sowie ihrer Eltern bei Gesundheitsschutzmassnahmen in der Schule. Art. 6 BV rechtfertigt eigenverantwortliche Entscheidungen, schliesst aber Konsequenzen nicht aus.
-
-**VB.2024.00445 (VGer ZH, 24. Oktober 2024)**
-
-Wirtschaftliche Sozialhilfe und Haushaltsgemeinschaften. Eigenverantwortung bei veränderten Lebensverhältnissen und Anpassung der Sozialhilfeleistungen. Das Gericht betonte die Mitwirkungspflicht der Hilfesuchenden bei der Abklärung der Verhältnisse.
-
-### Bundesverwaltungsgerichtliche Rechtsprechung
-
-**B-2713/2018 und B-2683/2018 (BVGer, 4. Februar 2022)**
-
-Unerlaubte Finanzmarktaktivitäten und Eigenverantwortung der Marktteilnehmer. Art. 6 BV begründet die Eigenverantwortung für compliance-konformes Verhalten im regulierten Finanzmarkt. Unkenntnis der Regulierung befreit nicht von der Eigenverantwortung.
+Die Rechtsprechung zeigt, dass Art. 6 BV vor allem im Sozialhilferecht praktische Bedeutung erlangt hat, wo das Subsidiaritätsprinzip als direkter Ausdruck der verfassungsrechtlichen Eigenverantwortung und Solidarität verstanden wird. Jüngere Entscheide bestätigen diese Rechtsprechung und wenden sie auf neue Sachverhalte an, insbesondere bei der Berücksichtigung verschiedener Einkommensarten in Sozialhilfebudgets.

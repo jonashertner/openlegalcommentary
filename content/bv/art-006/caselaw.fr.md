@@ -1,67 +1,60 @@
-## Jurisprudence
+# Jurisprudence
 
-### Droit de l'aide sociale et responsabilité économique individuelle
+## Signification fondamentale et principe de subsidiarité
 
-**Arrêt 8C_708/2018 du 26 mars 2019**
+**ATF 141 I 153** (17 septembre 2015) — Imputation d'une contribution de concubinage dans le budget d'aide sociale
+Le principe de subsidiarité est l'expression du devoir de coresponsabilité et de solidarité envers la collectivité ancré à l'art. 6 Cst. L'imputation d'une contribution de concubinage en cas de concubinage stable ne viole ni l'interdiction de l'arbitraire ni l'égalité de traitement.
 
-Imputation de l'allocation pour impotent dans l'aide sociale ; responsabilité individuelle des parents dans la prise en charge d'enfants handicapés. L'autorité d'aide sociale a imputé l'allocation pour impotent d'une fille handicapée au revenu des parents bénéficiaires d'aide sociale, qui la soignaient à domicile. Le Tribunal fédéral a confirmé le principe de la responsabilité individuelle dans le droit de l'aide sociale et précisé les conditions d'imputation des allocations pour impotents.
+> «L'aide sociale est régie par le principe de subsidiarité. En tant que principe fondamental du droit de l'aide sociale, la subsidiarité signifie que l'aide sociale n'est en principe accordée que dans la mesure où l'individu n'a pas accès à une autre source d'aide raisonnablement exigible. Elle est ainsi l'expression du devoir de coresponsabilité et de solidarité envers la collectivité, tel qu'il est ancré à l'art. 6 Cst.»
 
-> «L'art. 6 Cst. oblige les individus à contribuer selon leurs forces à l'accomplissement des tâches de l'État et de la société. Cela inclut la prise en charge et les soins aux membres handicapés de la famille, dans la mesure où cela correspond aux possibilités individuelles.»
+**ATF 150 V 161** (1er février 2024) — Principe de subsidiarité et protection de la prévoyance
+L'art. 6 Cst. fonde le principe de subsidiarité dans le droit de l'aide sociale, qui doit toutefois être mis en balance avec la protection fédérale de la prévoyance et le principe de proportionnalité lors de l'obligation de percevoir anticipativement des prestations de libre passage.
 
-**Arrêt 8C_44/2012 du 31 août 2012**
+> «Le principe de subsidiarité est l'expression du devoir de coresponsabilité et de solidarité envers la collectivité, tel qu'il est ancré à l'art. 6 Cst. (ATF 150 I 6 consid. 10.1.2 avec références; ATF 141 I 153 consid. 4.2 avec références; arrêts 8C_17/2023 du 5 octobre 2023 consid. 4; cf. aussi art. 41 al. 1 Cst.).»
 
-Responsabilité individuelle dans la recherche d'emploi et bénéfice de l'aide sociale. Les bénéficiaires d'aide sociale sont en principe tenus d'utiliser leur force de travail pour obtenir un revenu. L'art. 6 Cst. étaye cette obligation de responsabilité individuelle et de collaboration active pour surmonter la situation de détresse.
+## Application actuelle dans le droit de l'aide sociale
 
-> «Le principe de la responsabilité individuelle ancré à l'art. 6 Cst. oblige les personnes aptes au travail à assurer leur subsistance par leurs propres efforts et à ne recourir à l'aide étatique qu'à titre subsidiaire.»
+**Arrêt 8C_138/2024** (8 juillet 2025) — Contribution de concubinage et prestations complémentaires
+Même chez les partenaires de concubinage qui perçoivent des prestations complémentaires, une contribution de concubinage peut être imputée. Le principe de subsidiarité en tant qu'expression de l'art. 6 Cst. justifie la prise en compte de tous les revenus du partenaire, y compris les prestations complémentaires.
 
-### Droit procédural et obligations de collaborer
+> «L'aide sociale est régie par le principe de subsidiarité (ATF 141 I 153 consid. 4.2). En tant que principe fondamental du droit de l'aide sociale, la subsidiarité signifie que l'aide sociale n'est en principe accordée que dans la mesure où l'individu n'a pas accès à une autre source d'aide raisonnablement exigible. Elle est ainsi l'expression du devoir de coresponsabilité et de solidarité envers la collectivité, tel qu'il est ancré à l'art. 6 Cst.»
 
-**Arrêt 5A_1000/2015 du 19 février 2016**
+**Arrêt 8C_708/2018** (26 mars 2019) — Imputation d'une allocation pour impotent
+L'imputation de revenus dans les budgets d'aide sociale s'effectue selon le principe de subsidiarité. Lors de la prise en charge d'un enfant handicapé par les parents, l'allocation pour impotent peut en principe être imputée comme revenu, les circonstances particulières devant être prises en compte.
 
-Obligation de collaborer des parties dans la procédure civile. La responsabilité individuelle selon l'art. 6 Cst. s'étend aussi au comportement dans les procédures judiciaires et à l'exercice approprié des droits procéduraux. Les parties doivent défendre leurs intérêts sous leur propre responsabilité.
+Le Tribunal fédéral a confirmé que le principe de subsidiarité sert de base constitutionnelle pour l'imputation de différents revenus lors du calcul de l'aide sociale.
 
-> «L'art. 6 Cst. fonde non seulement une responsabilité individuelle générale pour la vie en société, mais aussi la responsabilité de l'exercice approprié de ses propres droits et obligations dans les procédures.»
+## Jurisprudence des tribunaux administratifs
 
-**Arrêt 4A_11/2012 du 29 juin 2012**
+**Tribunal administratif de Berne, arrêt 200 2016 679** (17 février 2017) — Subsidiarité dans l'aide sociale
+Le principe de subsidiarité est, au regard de l'art. 6 Cst., l'expression du devoir de coresponsabilité et de solidarité envers la collectivité. Une autre source d'aide raisonnablement exigible doit être utilisée en priorité.
 
-Responsabilité individuelle dans les relations commerciales. L'art. 6 Cst. souligne la responsabilité individuelle des acteurs du marché dans la vie économique. Les entreprises doivent répondre sous leur propre responsabilité de leurs pratiques commerciales et ne peuvent invoquer un manque de réglementation étatique en cas de pratiques peu sérieuses.
+> «En tant que principe fondamental du droit de l'aide sociale, la subsidiarité signifie que l'aide sociale n'est en principe accordée que dans la mesure où l'individu n'a pas accès à une autre source d'aide raisonnablement exigible. Elle est ainsi l'expression du devoir de coresponsabilité et de solidarité envers la collectivité, tel qu'il est ancré à l'art. 6 Cst.»
 
-> «Le principe de la responsabilité individuelle selon l'art. 6 Cst. vaut aussi dans le domaine de la liberté économique. Les acteurs du marché sont individuellement responsables de leurs pratiques commerciales et de leurs effets sur le marché.»
+**Tribunal administratif de Zurich, décision VB.2018.00357** (7 novembre 2019) — Contribution de concubinage et responsabilité individuelle
+L'imputation d'une contribution de concubinage correspond au principe de la responsabilité individuelle selon l'art. 6 Cst. et au principe de subsidiarité dans le droit de l'aide sociale.
 
-### Droit de la santé et mesures COVID
+Le tribunal a retenu que la considération économique chez les partenaires de concubinage correspond à l'obligation constitutionnelle de coresponsabilité.
 
-**Arrêt 6B_1007/2022 du 22 janvier 2025**
+## Développement historique
 
-Responsabilité individuelle dans les mesures de protection sanitaire pendant la pandémie de COVID-19. Le port de masques faciaux lors de manifestations politiques pendant la situation extraordinaire. L'art. 6 Cst. fonde une responsabilité individuelle pour la protection de la santé, qui peut cependant être concrétisée par des prescriptions étatiques.
+**ATF 121 I 138** (19 avril 1995) — Landsgemeinden et devoirs civiques
+L'art. 6 Cst. a été mentionné dans le contexte des devoirs civiques et de la participation démocratique. Le tribunal a reconnu l'ancrage constitutionnel de la coresponsabilité, sans toutefois la concrétiser en détail.
 
-> «L'art. 6 Cst. oblige à la responsabilité individuelle aussi dans le domaine de la santé publique. Cette responsabilité individuelle ne dispense cependant pas du respect des prescriptions légales spécifiques pour la protection de la santé publique.»
+**ATF 91 I 110** (1965) — Communes ecclésiastiques et devoirs civiques
+Mention précoce des devoirs civiques dans le contexte de l'organisation des communes ecclésiastiques. Le Tribunal fédéral a confirmé que certaines formes d'organisation peuvent présupposer une coresponsabilité civique.
 
-### Jurisprudence historique
+## Autres domaines d'application
 
-**ATF 61 I 166 (1935)**
+**ATF 96 I 636** (1970) — Concordats et devoirs civiques
+L'art. 6 Cst. a été mentionné en relation avec des obligations concordataires, le Tribunal fédéral soulignant l'importance du devoir civique de participation aux affaires étatiques et sociales.
 
-Disposition fondamentale sur la responsabilité individuelle dans le droit public suisse. Interprétation précoce du principe de responsabilité individuelle comme élément porteur de l'ordre juridique suisse et comme base pour la limitation des interventions étatiques.
+**ATF 89 I 80** (1963) — Organisation communale
+Jurisprudence précoce sur la signification des devoirs civiques dans l'autonomie communale. Le tribunal a reconnu la base constitutionnelle des obligations de participation au niveau communal.
 
-**ATF 69 I 171 (1943)**
+## Rapport avec d'autres dispositions constitutionnelles
 
-Délimitation entre responsabilité individuelle et obligation étatique d'assistance. Le tribunal a précisé les limites de la responsabilité individuelle et les conditions dans lesquelles l'aide étatique est justifiée.
+**ATF 94 I 525** (1968) — Réunification de Bâle
+L'art. 6 Cst. a été mentionné dans le contexte d'un réaménagement fédéraliste. Le tribunal a fait référence à l'importance du devoir civique pour la formation de la volonté démocratique dans des procédures complexes d'organisation étatique.
 
-### Jurisprudence des tribunaux administratifs
-
-**VB.2018.00357 (TA ZH, 2018)**
-
-Aide sociale et imputation de contributions de concubinage. Responsabilité individuelle dans les communautés de vie et obligation de soutien mutuel. Le tribunal a confirmé que l'art. 6 Cst. comprend aussi la responsabilité envers les proches.
-
-**VB.2022.00291 (TA ZH, 13 septembre 2022)**
-
-Exclusion de l'enseignement en présentiel pour refus des tests COVID-19. Responsabilité individuelle des élèves et de leurs parents dans les mesures de protection sanitaire à l'école. L'art. 6 Cst. justifie les décisions prises sous sa propre responsabilité, mais n'exclut pas les conséquences.
-
-**VB.2024.00445 (TA ZH, 24 octobre 2024)**
-
-Aide sociale économique et communautés domestiques. Responsabilité individuelle lors de changements des conditions de vie et adaptation des prestations d'aide sociale. Le tribunal a souligné l'obligation de collaborer des demandeurs d'aide dans l'examen de la situation.
-
-### Jurisprudence du Tribunal administratif fédéral
-
-**B-2713/2018 et B-2683/2018 (TAF, 4 février 2022)**
-
-Activités illicites sur les marchés financiers et responsabilité individuelle des acteurs du marché. L'art. 6 Cst. fonde la responsabilité individuelle d'un comportement conforme aux règles de conformité sur le marché financier réglementé. L'ignorance de la réglementation ne libère pas de la responsabilité individuelle.
+La jurisprudence montre que l'art. 6 Cst. a acquis une signification pratique surtout dans le droit de l'aide sociale, où le principe de subsidiarité est compris comme l'expression directe de la responsabilité individuelle et de la solidarité constitutionnelles. Les décisions récentes confirment cette jurisprudence et l'appliquent à de nouveaux cas d'espèce, notamment lors de la prise en compte de différents types de revenus dans les budgets d'aide sociale.
