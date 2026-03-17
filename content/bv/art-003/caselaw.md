@@ -1,77 +1,65 @@
-# Art. 3 BV — Kantone
-
 ## Rechtsprechung
 
-### Grundsatz der kantonalen Souveränität
+Die Rechtsprechung zu Art. 3 BV befasst sich primär mit der Abgrenzung der kantonalen Restkompetenz zum Bundesrecht und der Auslegung der föderalen Kompetenzordnung. Die folgenden Leitentscheide zeigen die Entwicklung der Rechtsprechung zur kantonalen Souveränität auf.
 
-**BGE 128 I 280 E. 4.3** vom 28. Juni 2002
-Das Bundesgericht hält fest, dass im schweizerischen Bundesstaat auch den Kantonen Staatlichkeit zukommt. Die Kantone sind nicht bloss Verwaltungseinheiten des Bundes, sondern eigenständige staatliche Gebilde mit eigener Souveränität in ihren Zuständigkeitsbereichen.
+### Grundsätze der kantonalen Restkompetenz
 
-> «Im Schweizerischen Bundesstaat kommt Staatlichkeit auch den Kantonen zu.»
+**BGE 122 I 70** (22. Februar 1996)
+Hängegleitervorbote des Kantons Appenzell Innerrhoden; Abgrenzung zwischen Bundes- und Kantonskompetenzen im Luftfahrtrecht. Das Bundesgericht präzisiert die Grundsätze der konkurrierenden Kompetenzen und der kantonalen Restkompetenz bei nicht abschliessend geregelten Bereichen.
 
-**BGE 103 Ia 329 E. 3** vom 18. März 1977
-In einem Kompetenzstreit bestätigt das Bundesgericht, dass Art. 3 BV der Abgrenzung der Souveränitätssphären zwischen Bund und Kantonen dient. Die Norm definiert den verfassungsrechtlichen Rahmen für die Aufgabenteilung im Bundesstaat.
+> «Die Kantone sind souverän, soweit ihre Souveränität nicht durch die Bundesverfassung beschränkt ist (Art. 3 BV). Sie haben eine originäre Gesetzgebungskompetenz, die nur insoweit aufgehoben ist, als der Bund entweder ausschliesslich, mit ursprünglich derogatorischer Wirkung, zuständig ist oder aber in einem Bereich, in dem er konkurrierend, mit nachträglich derogatorischer Wirkung, kompetent ist, von seiner Zuständigkeit abschliessend Gebrauch gemacht hat.»
 
-> «Il [sc. Art. 83 lit. a OG] a pour objet la délimitation des souverainetés fédérale d'une part, cantonale d'autre part.»
+**BGE 125 II 152** (1999)
+Abgrenzung der eidgenössischen und kantonalen Kompetenzen bei Geldspielautomaten. Staatsrechtliche Klage des Kantons St. Gallen gegen Bundesratsverordnung. Das Urteil verdeutlicht, dass die Kantone keinen Anspruch auf Weiterführung bundesrechtswidriger Praktiken haben.
 
-### Kompetenzverteilung und Einzelermächtigung
+> «Der Bundesrat hat durch den Erlass der eidgenössischen Geldspielautomatenverordnung nicht in die kantonale Zuständigkeit eingegriffen. Es besteht kein Anspruch der Kantone auf Weiterführung der bisherigen Praxis der Homologation von Geschicklichkeitsspielautomaten, die sich als bundesrechtswidrig erweist.»
 
-**BGE 130 I 156 E. 2.5** vom 21. April 2004
-Das Bundesgericht präzisiert das System der Kompetenzverteilung nach Art. 3 BV. Es betont, dass die staatlichen Zuständigkeiten lückenlos zwischen Bund und Kantonen aufgeteilt sind und der Bund nur über explizit übertragene Kompetenzen verfügt.
+### Kantonale Steuerhoheit und Besteuerungskompetenzen
 
-> «Aus dem in Art. 3 BV angelegten System folgt in der Theorie eine lückenlose Kompetenzaufteilung zwischen Bund und Kantonen.»
+**BGE 140 I 176** (27. März 2014)
+Zulässigkeit einer kommunalen Zweitwohnungssteuer trotz eidgenössischer Zweitwohnungsinitiative. Das Urteil bestätigt die originäre kantonale Kompetenz zur Besteuerung auch in Bereichen mit Bundeskompetenz, soweit keine abschliessende Regelung besteht.
 
-**Urteil 2C.1076/2012 E. 7.1** vom 27. März 2014
-Das Bundesgericht stellt klar, dass neue Aufgaben grundsätzlich in die Kompetenz der Kantone fallen, solange keine explizite Bundeskompetenz besteht. Dies folgt aus der subsidiären Generalkompetenz der Kantone nach Art. 3 BV.
+> «Die Gemeinde ist zur Einführung dieser Steuer kompetent: Die in der eidgenössischen Volksabstimmung vom 11. März 2012 angenommene Zweitwohnungsinitiative bzw. der damit neu geschaffene Art. 75b BV beinhalten keinen umfassenden und somit abschliessenden Lösungsansatz für die Problematik der sog. 'kalten Betten' und stehen der hier streitigen kommunalen Zweitwohnungssteuer mithin nicht entgegen.»
 
-> «'Neue' Aufgaben fallen ohne Weiteres in die Zuständigkeit der Kantone.»
+**BGE 133 I 206** (1. Juni 2007)
+Verfassungsmässigkeit degressiver Obwaldner Steuertarife; Tarifautonomie der Kantone. Das Bundesgericht anerkennt die kantonale Autonomie in der Steuerrechtsgestaltung unter Vorbehalt verfassungsrechtlicher Grenzen.
 
-### Beweislast bei Kompetenzkonflikten
+> «Tarifautonomie der Kantone: Die Kantone haben grundsätzlich die Befugnis, ihre Steuertarife nach eigenem Ermessen zu gestalten, soweit nicht verfassungsrechtliche Schranken entgegenstehen.»
 
-**BGE 142 II 369 E. 5.2** vom 7. Juli 2016
-Das Bundesgericht konkretisiert die Beweislastverteilung bei Kompetenzkonflikten. Grundsätzlich muss der Bund nachweisen, dass er über die beanspruchte Zuständigkeit verfügt, da die Kantone über die originäre Zuständigkeit verfügen.
+### Vollzugsföderalismus und Kompetenzkonflikte
 
-> «Für Kompetenzkonflikte folgt daraus, dass grundsätzlich der Bund die Beweislast trägt, nachzuweisen, ob er über die in Anspruch genommene Zuständigkeit tatsächlich verfügt.»
+**BGE 142 II 182** (24. Mai 2016)  
+Örtliche Zuständigkeit zur bundessteuerlichen Erfassung von Kapitalleistungen bei Kantonswechsel. Das Urteil präzisiert die Rolle der Kantone im Vollzugsföderalismus und die Grenzen von Verwaltungsverordnungen des Bundes.
 
-### Kantonale Organisationsautonomie
+> «Den örtlich zuständigen Kanton trifft das 'Pflichtrecht' zu Bezug und Veranlagung der direkten Bundessteuer. Im Fall von Kapitalleistungen aus Vorsorge ist gemäss Art. 216 Abs. 1 DBG 1990 die Sonderveranlagung vom Fälligkeitskanton vorzunehmen. Die Verwaltungsverordnung der ESTV, wonach in Wegzugsfällen der Wohnsitzkanton zuständig sein soll, verstösst gegen das Bundesrecht und bleibt daher unbeachtlich.»
 
-**BGE 145 IV 10 E. 2.1** vom 19. Dezember 2018
-Das Bundesgericht betont, dass aus Art. 3 BV eine kantonale Organisationsautonomie folgt. Die Kantone können den Vollzug bundesrechtlicher Vorgaben unter Berücksichtigung lokaler Gegebenheiten selbst organisieren, soweit das Bundesrecht Raum dafür lässt.
+### Kantonale Polizeigewalt und Ordnungskompetenzen
 
-> «Aus der Souveränitätsgarantie (Art. 3 Satz 1 BV) folgt eine kantonale Organisationsautonomie, die auch beim Vollzug bundesrechtlicher Vorgaben gilt.»
+**BGE 128 I 102** (30. Januar 2002)  
+Verfassungsmässigkeit einer gastgewerblichen Patentgebühr des Kantons Solothurn. Das Urteil bestätigt die originäre kantonale Kompetenz für Ordnungsabgaben im Bereich der Polizeigewalt.
 
-**BGE 147 I 478 E. 3.6-3.8** vom 8. Oktober 2021
-Im Kontext der COVID-19-Pandemie präzisiert das Bundesgericht die kantonale Organisationsautonomie. Die Kantone dürfen gestützt auf ihre Souveränität eigene Massnahmen ergreifen, solange sie nicht gegen Bundesrecht verstossen.
+> «Verfassungsvorbehalt für kantonale Steuern (Art. 132 KV/SO); gesetzliche Grundlagen der Patentgebühren gemäss altem und neuem Wirtschaftsgesetz des Kantons Solothurn. Die kantonale Kompetenz zur Erhebung von Ordnungsabgaben folgt aus der originären Polizeigewalt der Kantone.»
 
-> «Die Kantone verfügen über die Kompetenz für 'eigene Massnahmen' im Rahmen ihrer verfassungsmässigen Zuständigkeiten.»
+**BGE 129 IV 276** (2003)
+Kantonale Strafbestimmungen im Bereich der Feuerpolizei; Abgrenzung zum Bundesstrafrecht. Das Urteil verdeutlicht die Befugnis der Kantone zur strafrechtlichen Sanktionierung in Bereichen der kantonalen Zuständigkeit.
 
-**BGE 148 I 19 E. 4.6** vom 25. Januar 2022
-Das Bundesgericht bestätigt, dass die Kantone im Rahmen ihrer Souveränität auch schärfere Massnahmen als der Bund erlassen dürfen, wenn dies zur Erfüllung ihrer Aufgaben erforderlich ist.
+> «Befugnis der Kantone, die Missachtung von Vorschriften über die Brandbekämpfung mit Strafe zu bedrohen. Die kantonale Strafgewalt bleibt bestehen, soweit das Bundesstrafrecht nicht abschliessend regelt.»
 
-> «Die Kantone dürfen gestützt auf ihre Kompetenzen auch schärfere Massnahmen als der Bund erlassen.»
+### Interkantonale Zusammenarbeit und Koordination
 
-### Verhältnis zu internationalen Verpflichtungen
+**BGE 134 I 23** (15. Januar 2008)
+Abstrakte Normenkontrolle; derogatorische Kraft des Bundesrechts. Walliser Gesetz über staatliche Vorsorgeeinrichtungen verstösst gegen Bundesrecht. Das Urteil zeigt die Grenzen der kantonalen Gesetzgebung bei bundesrechtlich geregelten Materien auf.
 
-**Urteil 2C_1130/2013 E. 2.4** vom 23. Januar 2015
-Das Bundesgericht erläutert das Verhältnis zwischen kantonaler Souveränität und völkerrechtlichen Verpflichtungen. Die kantonale Souveränität findet ihre Grenzen in den verfassungsrechtlich verankerten internationalen Verpflichtungen des Bundes.
+> «Das GVE, welches u.a. die Personalvorsorge regelt, verstösst in verschiedenen Punkten gegen zwingend anwendbare Bestimmungen des Bundesrechts, namentlich gegen das FusG und das BVG.»
 
-> «Diese Einwirkung auf die kantonale Organisations- und Verfahrenshoheit ist zulässig, weil sie für die Sicherstellung einer richtigen und rechtzeitigen Umsetzung des Bundesrechts durch die Kantone notwendig und verhältnismässig ist.»
+### Aktuelle Entwicklungen
 
-### Interkantonale Doppelbesteuerung
+**BGE 150 II 527** (18. Juli 2024)
+Interkantonale Steuerausscheidung; Bewertung land- oder forstwirtschaftlich genutzter Grundstücke. Das jüngste Urteil bestätigt die Koordinationspflichten der Kantone bei interkantonalen Sachverhalten.
 
-**Urteil 2C_401/2020 E. 1.2.1** vom 28. Juli 2021
-Das Bundesgericht präzisiert die Anwendung von Art. 3 BV im Steuerrecht. Auch beim Verbot der interkantonalen Doppelbesteuerung müssen die Grundsätze der Kompetenzverteilung beachtet werden.
+> «Bei der interkantonalen Steuerausscheidung ist das Vermögen einheitlich zu bewerten. Für die Frage, ob ein Grundstück als land- oder forstwirtschaftlich genutzt gilt und zum Ertragswert zu bewerten ist, ist auf die Qualifikation des Liegenschaftskantons abzustellen.»
 
-> «Auch auf dem Gebiet des Verbots der interkantonalen Doppelbesteuerung (Art. 127 Abs. 3 BV) ist der Instanzenzug in einem Kanton vollständig zu durchlaufen, ehe das Bundesgericht angerufen werden kann.»
+**BGE 148 I 65** (28. Juli 2021)
+Verbot der interkantonalen Doppelbesteuerung; funktionale Hierarchie zwischen kantonalem und interkantonalem Steuerrecht. Das Urteil präzisiert die Grenzen der kantonalen Steuerhoheit bei grenzüberschreitenden Sachverhalten.
 
-### Vollzugsföderalismus
-
-**BGE 148 I 33 E. 5.5** vom 25. Januar 2022
-Das Bundesgericht betont den Grundsatz des Vollzugsföderalismus, wonach Bundesrecht grundsätzlich von den Kantonen vollzogen wird. Dies ist ein Ausdruck der kantonalen Souveränität im Vollzugsbereich.
-
-> «Bundesrechtliche Vorgaben sollen grundsätzlich von den Kantonen vollzogen werden, es sei denn, die Verfassung oder das Bundesgesetz ordnen etwas anderes an.»
-
-**Urteil 2C_183/2021 E. 3.7** vom 23. November 2021
-Das Bundesgericht konkretisiert die kantonale Gestaltungsfreiheit beim Vollzug von Bundesrecht. Die Kantone können bei der Umsetzung lokale Besonderheiten berücksichtigen, solange sie den Sinn und Zweck des Bundesrechts nicht vereiteln.
-
-> «Die Kantone können den Modus des Vollzugs bundesrechtlicher Vorgaben unter Berücksichtigung lokaler Sachzwänge und Präferenzen selbst wählen, soweit ihnen das Bundesrecht dazu Raum lässt.»
+> «Grundsätze des interkantonalen Doppelbesteuerungsrechts und funktionale Hierarchie zwischen kantonalem und interkantonalem Steuerrecht, insbesondere betreffend die Abgrenzung von Steuerfaktoren. Die kantonale Steuerhoheit findet ihre Grenze im Verbot der interkantonalen Doppelbesteuerung.»
