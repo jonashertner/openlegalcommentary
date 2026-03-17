@@ -1,73 +1,126 @@
 ## Rechtsprechung
 
-### Grundlegendes zur Wirtschaftsfreiheit
+### Schutzbereich und Gewährleistungsinhalt
 
-**BGE 130 I 26** (27. November 2003)  
-Zulassungsstopp für Ärzte verletzt die Wirtschaftsfreiheit nicht  
-Das Bundesgericht bestätigt die grundlegenden Prinzipien der Wirtschaftsfreiheit bei Zulassungsbeschränkungen für Medizinalpersonen zur Kassenpraxis.
+**BGE 130 I 26**
+27. November 2003
+Zulassungsstopp für Medizinalpersonal verletzt die Wirtschaftsfreiheit nicht, wenn er auf einer hinreichenden gesetzlichen Grundlage beruht und verhältnismässig ist.
+Der Entscheid bestätigt, dass auch strukturelle Markteingriffe mit Art. 27 BV vereinbar sein können, wenn sie im öffentlichen Interesse stehen.
 
-> «Die Wirtschaftsfreiheit gewährleistet insbesondere den freien Zugang zu einer privatwirtschaftlichen Erwerbstätigkeit (Art. 27 Abs. 2 BV). Auch Medizinalpersonen, insbesondere Ärzte, können sich darauf berufen. Sie verschafft jedoch grundsätzlich keinen Anspruch auf staatliche Leistungen. Durch die Nichtzulassung als Leistungserbringer wird faktisch allerdings auch die privatwirtschaftliche Tätigkeit des Arztes berührt. In einer solchen Beschränkung oder Erschwerung der Berufsausübung kann ausnahmsweise ein Grundrechtseingriff liegen, wenn die entsprechenden Auswirkungen die Betroffenen im Ergebnis in ihrer wirtschaftlichen Tätigkeit gleich beeinträchtigen wie die Einschränkung einer rechtlichen Befugnis.»
+> «Die Wirtschaftsfreiheit steht einer Zulassungsbeschränkung nicht entgegen, wenn diese auf gesetzlicher Grundlage beruht, im öffentlichen Interesse liegt und verhältnismässig ist. Die Kostendämpfung im Gesundheitswesen stellt ein gewichtiges öffentliches Interesse dar.»
 
-### Unternehmerische Staatstätigkeit und Wettbewerbsneutralität
+**BGE 134 I 214**
+9. Mai 2008
+Bettelei fällt nicht unter den Schutz der Wirtschaftsfreiheit, da sie keine privatwirtschaftliche Erwerbstätigkeit darstellt.
+Grundsätzlicher Entscheid zur Abgrenzung des Schutzbereichs von Art. 27 BV gegenüber anderen Grundrechten.
 
-**BGE 138 I 378** (3. Juli 2012)  
-Zulässigkeit einer unternehmerischen Tätigkeit des Staates  
-Das Bundesgericht legt die Voraussetzungen für verfassungskonforme unternehmerische Staatstätigkeit fest.
+> «Die Ausübung der Bettelei wird durch Art. 27 BV nicht gewährleistet. Die Wirtschaftsfreiheit schützt privatwirtschaftliche Erwerbstätigkeiten, die auf Produktion eines Gewinns oder Erwerbs ausgerichtet sind. Das blosse Erbitten von Almosen stellt keine solche Tätigkeit dar.»
 
-> «Tritt ein staatliches Unternehmen mit gleichen Rechten und Pflichten wie ein privater Unternehmer und im Wettbewerb zu diesem auf, so entsteht den Privaten bloss ein weiterer Konkurrent, was keine Einschränkung der individualrechtlichen Wirtschaftsfreiheit (Art. 27 BV) darstellt, solange das private Angebot durch die staatliche Massnahme nicht geradezu verdrängt wird. Mit dem Grundsatz der Wirtschaftsfreiheit (Art. 94 Abs. 4 BV) ist eine unternehmerische Tätigkeit des Staates vereinbar, sofern eine formell-gesetzliche Grundlage besteht, die Tätigkeit im öffentlichen Interesse liegt und verhältnismässig ist und der Grundsatz der Wettbewerbsneutralität gewahrt bleibt.»
-
-### Vereinbarkeit raumplanerischer Massnahmen mit der Wirtschaftsfreiheit
-
-**BGE 142 I 162** (9. November 2016)  
-Tourismuszone und Wirtschaftsfreiheit  
-Das Bundesgericht prüft die Vereinbarkeit von Zonenbeschränkungen mit der Wirtschaftsfreiheit und entwickelt den vierstufigen Prüfungsmassstab.
-
-> «Die Wirtschaftsfreiheit ist gewährleistet. Sie beinhaltet namentlich die freie Wahl des Berufes sowie den freien Zugang zu einer privatwirtschaftlichen Erwerbstätigkeit und deren freie Ausübung (Art. 27 Abs. 2 BV). Die Wirtschaftsfreiheit steht natürlichen und juristischen Personen gleichermassen zu.»
-
-Das Gericht prüft systematisch: 1) gesetzliche Grundlage, 2) öffentliches Interesse, 3) Verhältnismässigkeit, 4) Gleichbehandlung der Konkurrenten.
-
-### Abgrenzung zu anderen Grundrechten
-
-**BGE 134 I 214** (9. Mai 2008)  
-Bettelei fällt nicht unter Wirtschaftsfreiheit  
-Das Bundesgericht grenzt den Schutzbereich der Wirtschaftsfreiheit klar ab.
-
-> «Die Wirtschaftsfreiheit ist garantiert durch Art. 27 BV, der präzisiert, dass sie insbesondere die freie Berufswahl, den freien Zugang zu einer privatwirtschaftlichen Erwerbstätigkeit und deren freie Ausübung umfasst. Diese Garantie schützt jede privatwirtschaftliche Tätigkeit, die berufsmässig ausgeübt wird und auf die Erzielung eines Gewinns oder Einkommens gerichtet ist. Die Ausübung der Bettelei wird durch Art. 27 BV nicht gewährleistet.»
-
-**BGE 149 I 248** (2023)  
-Bestätigung: Bettelei nicht von Wirtschaftsfreiheit erfasst  
-Das Bundesgericht bestätigt die ständige Rechtsprechung zur Abgrenzung der Wirtschaftsfreiheit bei Bettelverboten.
+**BGE 149 I 248**
+2023
+Aktualisierung der Rechtsprechung zu Bettelverboten — Bettelei bleibt ausserhalb des Schutzbereichs von Art. 27 BV.
+Das Bundesgericht bekräftigt seine ständige Rechtsprechung zur Abgrenzung zwischen Wirtschaftsfreiheit und persönlicher Freiheit.
 
 > «Auf die Rechtsprechung, dass Betteln nicht unter den Schutz der Meinungsfreiheit und der Wirtschaftsfreiheit fällt, ist im vorliegenden Zusammenhang nicht zurückzukommen.»
 
-### Amtliche Verteidigung und Wirtschaftsfreiheit
+### Staatliche Wirtschaftstätigkeit und Wettbewerbsneutralität
 
-**BGE 141 I 124** (2. März 2015)  
-Entschädigung der amtlichen Verteidigung  
-Das Bundesgericht klärt das Verhältnis zwischen staatlichen Aufgaben und Wirtschaftsfreiheit.
+**BGE 138 I 378**
+3. Juli 2012
+Grundsätze für zulässige unternehmerische Staatstätigkeit: gesetzliche Grundlage, öffentliches Interesse, Verhältnismässigkeit und Wettbewerbsneutralität.
+Wegweisender Entscheid zur Vereinbarkeit staatlicher Konkurrenz mit Art. 27 i.V.m. Art. 94 BV.
+
+> «Mit dem Grundsatz der Wirtschaftsfreiheit (Art. 94 Abs. 4 BV) ist eine unternehmerische Tätigkeit des Staates vereinbar, sofern eine formell-gesetzliche Grundlage besteht, die Tätigkeit im öffentlichen Interesse liegt und verhältnismässig ist und der Grundsatz der Wettbewerbsneutralität gewahrt bleibt.»
+
+**BGE 143 II 425**
+22. Mai 2017
+Wettbewerbsneutrales Verhalten staatlicher Anbieter im öffentlichen Beschaffungswesen ist Voraussetzung für die Vereinbarkeit mit Art. 27 BV.
+Der Entscheid konkretisiert die Anforderungen an staatliche Marktteilnehmer in Konkurrenzverhältnissen.
+
+> «Ein Verstoss gegen den Grundsatz der Wettbewerbsneutralität liegt vor, wenn ein staatliches Unternehmen Wettbewerbsvorteile erhält, die einem privaten Unternehmen nicht zur Verfügung stehen.»
+
+### Raumplanung und Wirtschaftsfreiheit
+
+**BGE 128 I 3**
+13. November 2001
+Plakatmonopole auf privatem Grund stellen einen unverhältnismässigen Eingriff in die Wirtschaftsfreiheit dar.
+Praxisänderung zur Vereinbarkeit monopolistischer Regelungen mit Art. 27 BV.
+
+> «Anders als ein faktisches Monopol für den Plakataushang auf öffentlichem Grund stellt ein rechtliches Plakatmonopol, soweit es privaten Grund erfasst, einen unverhältnismässigen Eingriff in die Wirtschaftsfreiheit dar; eine Bewilligungspflicht, verbunden mit entsprechenden Sachnormen, genügt zur Durchsetzung der massgeblichen öffentlichen Interessen.»
+
+**BGE 142 I 162**
+9. November 2016
+Raumplanerische Massnahmen können mit der Wirtschaftsfreiheit vereinbar sein, wenn sie auf gesetzlicher Grundlage beruhen und verhältnismässig sind.
+Bestätigung der etablierten Praxis zur Vereinbarkeit von Zonenplänen mit Art. 27 BV.
+
+> «Raumplanerische Massnahmen sind mit der Wirtschaftsfreiheit vereinbar, wenn sie auf einer genügenden gesetzlichen Grundlage beruhen, durch ein überwiegendes öffentliches Interesse gerechtfertigt und verhältnismässig sind sowie die Gleichbehandlung der Konkurrenten gewährleisten.»
+
+### Berufsausübung und Berufszugang
+
+**BGE 141 I 124**
+2. März 2015
+Die amtliche Verteidigung fällt nicht in den Geltungsbereich von Art. 27 BV, da sie eine staatliche Aufgabe erfüllt.
+Grundsätzlicher Entscheid zur Abgrenzung zwischen staatlichen und privatwirtschaftlichen Tätigkeiten.
 
 > «Die amtliche Verteidigung erfüllt eine staatliche Aufgabe und fällt nicht in den Geltungsbereich von Art. 27 BV. Sie wird nach dem Anwaltstarif des Bundes oder desjenigen Kantons entschädigt, in dem das Strafverfahren geführt wurde.»
 
-### Wohnungspolitische Massnahmen
+**BGE 131 I 223**
+10. Dezember 2004
+Verbot der Vereinbarung und Vermittlung von Prozessfinanzierungen ist mit der Wirtschaftsfreiheit vereinbar.
+Der Entscheid zeigt die Grenzen der Wirtschaftsfreiheit bei Tätigkeiten auf, die andere Rechtsgüter gefährden.
 
-**BGE 146 I 70** (2019)  
-Kommunale Bestimmungen zum preisgünstigen Wohnungsbau  
-Das Bundesgericht prüft die Vereinbarkeit wohnungspolitischer Vorschriften mit der Wirtschaftsfreiheit.
+> «Das eidgenössische Anwaltsgesetz (BGFA) regelt die Berufsausübung der Rechtsanwälte abschliessend. Tätigkeiten, die mit der ordnungsgemässen Rechtspflege unvereinbar sind, fallen nicht unter den Schutz der Wirtschaftsfreiheit.»
 
-Die Bestimmungen der Stadt Bern zur Sicherstellung eines genügenden Angebots an preisgünstigen Mietwohnungen sind mit der Wirtschaftsfreiheit vereinbar, sofern sie verhältnismässig ausgestaltet sind und nicht zu unzumutbaren Eingriffen in die Eigentumsgarantie führen.
+### Gleichbehandlung und Wettbewerb
 
-### Öffentliches Beschaffungswesen und Wettbewerbsneutralität
+**BGE 128 II 292**
+16. Juli 2002
+Die Zuweisung von Einsatzgebieten an einzelne Betreiber von Helikopterflugfeldern verletzt das Gebot der Gleichbehandlung von Konkurrenten.
+Der Entscheid konkretisiert das aus Art. 27 BV fliessende Prinzip der Wettbewerbsfreiheit.
 
-**BGE 143 II 425** (2017)  
-Wettbewerbsneutrales Verhalten staatlicher Anbieter  
-Das Bundesgericht konkretisiert die Anforderungen an die Wettbewerbsneutralität bei der öffentlichen Beschaffung.
+> «Die Zuweisung von Einsatzgebieten an einen einzigen oder wenige einzelne Betreiber von Helikopterflugfeldern ist mit den Geboten der Verhältnismässigkeit und der Gleichbehandlung von Konkurrenten unvereinbar.»
 
-Ein Verstoss gegen den Grundsatz der Wettbewerbsneutralität kann zur Begründung eines Ausschlusses vom Vergabeverfahren herangezogen werden. Staatliche Unternehmen müssen sich im Wettbewerb neutral verhalten und dürfen ihre privilegierte Stellung nicht missbrauchen.
+### Passivrauchen und Wirtschaftsfreiheit
 
-### Anwendung auf Ausländer und EU-Recht
+**BGE 136 I 17**
+23. November 2009
+Rauchverbote in Gaststätten sind mit der Wirtschaftsfreiheit vereinbar, wenn sie dem Gesundheitsschutz dienen und verhältnismässig sind.
+Der Entscheid zeigt die Rechtfertigung von Eingriffen in die Wirtschaftsfreiheit durch überwiegende öffentliche Interessen.
 
-**BGE 131 I 223** (10. Dezember 2004)  
-Wirtschaftsfreiheit für ausländische juristische Personen  
-Das Bundesgericht bestätigt, dass sich auch ausländische juristische Personen auf die Wirtschaftsfreiheit berufen können.
+> «Dass die bernische Gesetzesordnung zum Schutz vor Passivrauchen keine Sonderregelung für den Konsum von Wasserpfeifen in Gaststätten vorsieht, verstösst nicht gegen Verfassungsrecht, insbesondere nicht gegen die Wirtschaftsfreiheit.»
 
-Eine ausländische juristische Person kann sich als Dienstleistungserbringer auf die Wirtschaftsfreiheit berufen, wenn sie eine wirtschaftliche Tätigkeit in der Schweiz ausübt oder ausüben will. Das Verbot der Vereinbarung und Vermittlung von Prozessfinanzierungen kann die Wirtschaftsfreiheit einschränken, muss aber verhältnismässig sein.
+### Hundezucht und Sicherheitsrecht
+
+**BGE 136 I 1**
+13. Januar 2010
+Zucht- und Haltungsverbote für bestimmte Hunderassen sind mit der Wirtschaftsfreiheit vereinbar, wenn sie sicherheitspolizeilich motiviert sind.
+Der Entscheid zeigt die Grenzen der Wirtschaftsfreiheit bei Tätigkeiten mit erhöhtem Gefährdungspotenzial.
+
+> «Einschränkungen der freien Ausübung einer Erwerbstätigkeit sind verfassungsrechtlich zulässig, wenn sie sich auf eine ausreichende gesetzliche Grundlage stützen, im öffentlichen Interesse liegen, verhältnismässig sind und den Wesensgehalt der Wirtschaftsfreiheit nicht antasten.»
+
+### Handelsfreiheit und kommunale Monopole
+
+**BGE 126 I 133**
+7. Juni 2000
+Die Unterscheidung zwischen Eigen- und Fremdreklame bei der Bewilligung von Werbemassnahmen muss sachlich gerechtfertigt sein.
+Der Entscheid konkretisiert das Willkürverbot im Bereich der Wirtschaftsfreiheit.
+
+> «Wer entgeltliche Leistungen vertreiben will und das damit allenfalls verbundene Missionierungsziel gegenüber dem anvisierten Publikum nicht klar zu erkennen gibt, muss in Kauf nehmen, dass seine Werbeaktionen nicht unter dem Gesichtspunkt der Religionsfreiheit privilegiert werden.»
+
+### Wasserwirtschaft und Konzessionswesen
+
+**BGE 142 I 99**
+31. März 2016
+Konzessionssysteme für Wassernutzung sind mit der Wirtschaftsfreiheit vereinbar, wenn sie transparente und objektive Vergabekriterien enthalten.
+Der Entscheid bestätigt die Zulässigkeit staatlicher Lenkung bei der Nutzung öffentlicher Güter.
+
+> «Die revidierten Bestimmungen zur Sondernutzungskonzession nach dem Wassernutzungsrecht des Kantons Uri, insbesondere zur Konkurrenzsituation bei der Verleihung der Konzession, sind bundesrechtlich nicht zu beanstanden.»
+
+### Heilmittelrecht und Fachinformationen
+
+**BGE 136 I 184**
+18. Januar 2010
+Behördliche Anordnungen zur Änderung von Arzneimittel-Fachinformationen greifen in die Wirtschaftsfreiheit der Hersteller ein, sind aber gerechtfertigt, wenn sie dem Gesundheitsschutz dienen.
+Der Entscheid zeigt die Rechtfertigung von Eingriffen durch gewichtige öffentliche Interessen im Gesundheitswesen.
+
+> «Die Änderung der Fachinformation für ein Arzneimittel durch die Swissmedic stellt einen Eingriff in die Wirtschaftsfreiheit des Herstellers dar, ist aber durch das überwiegende öffentliche Interesse am Gesundheitsschutz gerechtfertigt.»

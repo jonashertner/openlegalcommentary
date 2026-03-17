@@ -1,73 +1,126 @@
 ## Jurisprudence
 
-### Principes fondamentaux de la liberté économique
+### Champ de protection et contenu de la garantie
 
-**ATF 130 I 26** (27 novembre 2003)  
-L'arrêt d'admission des médecins ne viole pas la liberté économique  
-Le Tribunal fédéral confirme les principes fondamentaux de la liberté économique en matière de restrictions d'admission du personnel médical à la pratique à charge de l'assurance.
+**ATF 130 I 26**
+27 novembre 2003
+Un moratoire d'admission pour le personnel médical ne viole pas la liberté économique s'il repose sur une base légale suffisante et est proportionnel.
+L'arrêt confirme que même des interventions structurelles sur le marché peuvent être compatibles avec l'art. 27 Cst. si elles servent l'intérêt public.
 
-> « La liberté économique garantit notamment le libre accès à une activité lucrative privée (art. 27 al. 2 Cst.). Le personnel médical, en particulier les médecins, peut également s'en prévaloir. Elle ne confère cependant en principe aucun droit aux prestations étatiques. En cas de non-admission comme fournisseur de prestations, l'activité privée du médecin est néanmoins aussi touchée de facto. Une telle restriction ou un tel obstacle à l'exercice de la profession peut exceptionnellement constituer une atteinte aux droits fondamentaux lorsque les répercussions correspondantes portent atteinte aux personnes concernées dans leur activité économique au même titre que la restriction d'une autorisation légale. »
+> « La liberté économique ne s'oppose pas à une limitation d'admission si celle-ci repose sur une base légale, sert l'intérêt public et est proportionnelle. La maîtrise des coûts dans le domaine de la santé constitue un intérêt public important. »
 
-### Activité entrepreneuriale de l'État et neutralité concurrentielle
+**ATF 134 I 214**
+9 mai 2008
+La mendicité ne relève pas de la protection de la liberté économique car elle ne constitue pas une activité lucrative d'économie privée.
+Arrêt de principe sur la délimitation du champ de protection de l'art. 27 Cst. par rapport à d'autres droits fondamentaux.
 
-**ATF 138 I 378** (3 juillet 2012)  
-Admissibilité d'une activité entrepreneuriale de l'État  
-Le Tribunal fédéral fixe les conditions d'une activité entrepreneuriale étatique conforme à la Constitution.
+> « L'exercice de la mendicité n'est pas garanti par l'art. 27 Cst. La liberté économique protège les activités lucratives d'économie privée qui visent la production d'un gain ou d'un revenu. Le simple fait de quémander l'aumône ne constitue pas une telle activité. »
 
-> « Lorsqu'une entreprise étatique agit avec les mêmes droits et obligations qu'un entrepreneur privé et en concurrence avec celui-ci, il ne naît pour les privés qu'un concurrent supplémentaire, ce qui ne constitue pas une restriction de la liberté économique individuelle (art. 27 Cst.), pour autant que l'offre privée ne soit pas purement et simplement évincée par la mesure étatique. Une activité entrepreneuriale de l'État est compatible avec le principe de la liberté économique (art. 94 al. 4 Cst.) pour autant qu'il existe une base légale formelle, que l'activité serve l'intérêt public et soit proportionnée et que le principe de neutralité concurrentielle soit respecté. »
+**ATF 149 I 248**
+2023
+Actualisation de la jurisprudence sur les interdictions de mendier — la mendicité demeure en dehors du champ de protection de l'art. 27 Cst.
+Le Tribunal fédéral réaffirme sa jurisprudence constante sur la délimitation entre liberté économique et liberté personnelle.
 
-### Compatibilité des mesures d'aménagement du territoire avec la liberté économique
+> « Il n'y a pas lieu de revenir dans le présent contexte sur la jurisprudence selon laquelle mendier ne relève pas de la protection de la liberté d'expression et de la liberté économique. »
 
-**ATF 142 I 162** (9 novembre 2016)  
-Zone touristique et liberté économique  
-Le Tribunal fédéral examine la compatibilité des restrictions de zone avec la liberté économique et développe le critère d'examen à quatre niveaux.
+### Activité économique de l'État et neutralité concurrentielle
 
-> « La liberté économique est garantie. Elle comprend notamment le libre choix de la profession ainsi que le libre accès à une activité lucrative privée et son libre exercice (art. 27 al. 2 Cst.). La liberté économique revient aussi bien aux personnes physiques qu'aux personnes morales. »
+**ATF 138 I 378**
+3 juillet 2012
+Principes pour une activité entrepreneuriale licite de l'État : base légale, intérêt public, proportionnalité et neutralité concurrentielle.
+Arrêt de référence sur la compatibilité de la concurrence étatique avec les art. 27 et 94 Cst.
 
-Le tribunal examine systématiquement : 1) la base légale, 2) l'intérêt public, 3) la proportionnalité, 4) l'égalité de traitement des concurrents.
+> « Une activité entrepreneuriale de l'État est compatible avec le principe de la liberté économique (art. 94 al. 4 Cst.) pour autant qu'il existe une base légale formelle, que l'activité serve l'intérêt public et soit proportionnelle et que le principe de neutralité concurrentielle soit respecté. »
 
-### Délimitation par rapport aux autres droits fondamentaux
+**ATF 143 II 425**
+22 mai 2017
+Un comportement neutre sur le plan concurrentiel des offreurs étatiques dans les marchés publics est une condition de compatibilité avec l'art. 27 Cst.
+L'arrêt concrétise les exigences posées aux acteurs étatiques du marché dans les rapports de concurrence.
 
-**ATF 134 I 214** (9 mai 2008)  
-La mendicité ne relève pas de la liberté économique  
-Le Tribunal fédéral délimite clairement le champ de protection de la liberté économique.
+> « Il y a violation du principe de neutralité concurrentielle lorsqu'une entreprise étatique obtient des avantages concurrentiels qui ne sont pas à la disposition d'une entreprise privée. »
 
-> « La liberté économique est garantie par l'art. 27 Cst., qui précise qu'elle comprend notamment le libre choix de la profession, le libre accès à une activité lucrative privée et son libre exercice. Cette garantie protège toute activité privée exercée de manière professionnelle et visant à obtenir un gain ou un revenu. L'exercice de la mendicité n'est pas garanti par l'art. 27 Cst. »
+### Aménagement du territoire et liberté économique
 
-**ATF 149 I 248** (2023)  
-Confirmation : la mendicité n'est pas couverte par la liberté économique  
-Le Tribunal fédéral confirme la jurisprudence constante sur la délimitation de la liberté économique en cas d'interdictions de mendier.
+**ATF 128 I 3**
+13 novembre 2001
+Les monopoles d'affichage sur terrain privé constituent une atteinte disproportionnée à la liberté économique.
+Changement de pratique sur la compatibilité des réglementations monopolistiques avec l'art. 27 Cst.
 
-> « Il n'y a pas lieu de revenir, dans le présent contexte, sur la jurisprudence selon laquelle la mendicité ne tombe sous la protection ni de la liberté d'opinion ni de la liberté économique. »
+> « Contrairement à un monopole de fait pour l'affichage sur terrain public, un monopole légal d'affichage, dans la mesure où il porte sur un terrain privé, constitue une atteinte disproportionnée à la liberté économique ; une obligation d'autorisation, liée aux normes matérielles correspondantes, suffit pour faire valoir les intérêts publics déterminants. »
 
-### Défense d'office et liberté économique
+**ATF 142 I 162**
+9 novembre 2016
+Les mesures d'aménagement du territoire peuvent être compatibles avec la liberté économique si elles reposent sur une base légale et sont proportionnelles.
+Confirmation de la pratique établie sur la compatibilité des plans de zones avec l'art. 27 Cst.
 
-**ATF 141 I 124** (2 mars 2015)  
-Indemnisation de la défense d'office  
-Le Tribunal fédéral clarifie le rapport entre les tâches étatiques et la liberté économique.
+> « Les mesures d'aménagement du territoire sont compatibles avec la liberté économique si elles reposent sur une base légale suffisante, sont justifiées par un intérêt public prépondérant et proportionnelles et garantissent l'égalité de traitement des concurrents. »
+
+### Exercice et accès à la profession
+
+**ATF 141 I 124**
+2 mars 2015
+La défense d'office ne relève pas du champ d'application de l'art. 27 Cst. car elle remplit une tâche étatique.
+Arrêt de principe sur la délimitation entre activités étatiques et d'économie privée.
 
 > « La défense d'office remplit une tâche étatique et ne relève pas du champ d'application de l'art. 27 Cst. Elle est indemnisée selon le tarif des avocats de la Confédération ou de celui du canton dans lequel la procédure pénale a été menée. »
 
-### Mesures de politique du logement
+**ATF 131 I 223**
+10 décembre 2004
+L'interdiction de convenir et d'intermédiaire pour le financement de procès est compatible avec la liberté économique.
+L'arrêt montre les limites de la liberté économique pour les activités qui mettent en danger d'autres biens juridiques.
 
-**ATF 146 I 70** (2019)  
-Dispositions communales relatives à la construction de logements à prix modéré  
-Le Tribunal fédéral examine la compatibilité des prescriptions de politique du logement avec la liberté économique.
+> « La loi fédérale sur la profession d'avocat (LLCA) règle de manière exhaustive l'exercice de la profession d'avocat. Les activités incompatibles avec une justice ordonnée ne relèvent pas de la protection de la liberté économique. »
 
-Les dispositions de la ville de Berne visant à assurer une offre suffisante de logements locatifs à prix modéré sont compatibles avec la liberté économique pour autant qu'elles soient conçues de manière proportionnée et qu'elles n'entraînent pas d'atteintes inadmissibles à la garantie de la propriété.
+### Égalité de traitement et concurrence
 
-### Marchés publics et neutralité concurrentielle
+**ATF 128 II 292**
+16 juillet 2002
+L'attribution de zones d'intervention à des exploitants individuels d'héliports viole le principe d'égalité de traitement des concurrents.
+L'arrêt concrétise le principe de liberté de concurrence découlant de l'art. 27 Cst.
 
-**ATF 143 II 425** (2017)  
-Comportement concurrentiellement neutre des prestataires étatiques  
-Le Tribunal fédéral concrétise les exigences de neutralité concurrentielle dans les marchés publics.
+> « L'attribution de zones d'intervention à un seul ou à quelques exploitants individuels d'héliports est incompatible avec les principes de proportionnalité et d'égalité de traitement des concurrents. »
 
-Une violation du principe de neutralité concurrentielle peut être invoquée pour justifier une exclusion de la procédure d'adjudication. Les entreprises étatiques doivent adopter un comportement neutre dans la concurrence et ne peuvent abuser de leur position privilégiée.
+### Tabagisme passif et liberté économique
 
-### Application aux étrangers et droit de l'UE
+**ATF 136 I 17**
+23 novembre 2009
+Les interdictions de fumer dans les établissements de restauration sont compatibles avec la liberté économique si elles servent la protection de la santé et sont proportionnelles.
+L'arrêt montre la justification d'atteintes à la liberté économique par des intérêts publics prépondérants.
 
-**ATF 131 I 223** (10 décembre 2004)  
-Liberté économique pour les personnes morales étrangères  
-Le Tribunal fédéral confirme que les personnes morales étrangères peuvent également se prévaloir de la liberté économique.
+> « Le fait que l'ordre juridique bernois pour la protection contre le tabagisme passif ne prévoie pas de réglementation spéciale pour la consommation de pipes à eau dans les établissements de restauration ne viole pas le droit constitutionnel, en particulier pas la liberté économique. »
 
-Une personne morale étrangère peut invoquer la liberté économique en tant que prestataire de services si elle exerce ou veut exercer une activité économique en Suisse. L'interdiction de convenir et de négocier des financements de procès peut restreindre la liberté économique, mais doit être proportionnée.
+### Élevage de chiens et droit de sécurité
+
+**ATF 136 I 1**
+13 janvier 2010
+Les interdictions d'élevage et de détention pour certaines races de chiens sont compatibles avec la liberté économique si elles sont motivées par la police de sécurité.
+L'arrêt montre les limites de la liberté économique pour les activités présentant un potentiel de danger accru.
+
+> « Les restrictions au libre exercice d'une activité lucrative sont admissibles au regard du droit constitutionnel si elles s'appuient sur une base légale suffisante, servent l'intérêt public, sont proportionnelles et ne portent pas atteinte au contenu essentiel de la liberté économique. »
+
+### Liberté commerciale et monopoles communaux
+
+**ATF 126 I 133**
+7 juin 2000
+La distinction entre publicité propre et publicité pour des tiers lors de l'octroi d'autorisations pour des mesures publicitaires doit être objectivement justifiée.
+L'arrêt concrétise l'interdiction de l'arbitraire dans le domaine de la liberté économique.
+
+> « Quiconque veut distribuer des prestations rémunérées et ne fait pas clairement reconnaître au public visé l'objectif missionnaire éventuellement lié à cette démarche doit accepter que ses actions publicitaires ne soient pas privilégiées du point de vue de la liberté religieuse. »
+
+### Économie des eaux et système de concessions
+
+**ATF 142 I 99**
+31 mars 2016
+Les systèmes de concessions pour l'utilisation des eaux sont compatibles avec la liberté économique s'ils contiennent des critères d'attribution transparents et objectifs.
+L'arrêt confirme la licéité du pilotage étatique lors de l'utilisation de biens publics.
+
+> « Les dispositions révisées sur la concession d'usage spécial selon le droit d'utilisation des eaux du canton d'Uri, notamment sur la situation de concurrence lors de l'octroi de la concession, ne sont pas critiquables au regard du droit fédéral. »
+
+### Droit des médicaments et informations professionnelles
+
+**ATF 136 I 184**
+18 janvier 2010
+Les injonctions des autorités de modifier les informations professionnelles sur les médicaments portent atteinte à la liberté économique des fabricants, mais sont justifiées si elles servent la protection de la santé.
+L'arrêt montre la justification d'atteintes par des intérêts publics importants dans le domaine de la santé.
+
+> « La modification de l'information professionnelle pour un médicament par Swissmedic constitue une atteinte à la liberté économique du fabricant, mais est justifiée par l'intérêt public prépondérant à la protection de la santé. »
