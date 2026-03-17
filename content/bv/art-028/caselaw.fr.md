@@ -1,63 +1,49 @@
 ## Jurisprudence
 
-### Liberté syndicale dans la fonction publique
+### Liberté syndicale et activité syndicale
 
-**ATF 144 I 50** (2017)
-Décision gouvernementale interdisant en principe aux syndicats l'accès aux bâtiments que l'État administre en tant qu'employeur.
-L'interdiction générale d'accès aux bâtiments de l'administration étatique viole-t-elle la liberté syndicale ?
+**ATF 144 I 50** du 6 septembre 2017
+Droit d'accès syndical aux bâtiments administratifs de l'employeur public.
+L'arrêt concrétise la portée de la liberté syndicale pour les syndicats dans la fonction publique.
 
-> « Le droit d'accès aux bâtiments administratifs est un élément essentiel de la liberté syndicale (consid. 5.3.3.1, 5.3.3.2 et 5.4). L'État doit notamment mettre les syndicats en mesure de pouvoir organiser librement leurs activités (consid. 5.3.2), en conformité avec les obligations du droit international, notamment les conventions OIT n° 87 et 98. »
+> «La liberté syndicale selon l'art. 28 Cst. n'est pas seulement une liberté négative, mais garantit aussi un minimum de liberté d'action positive, qui permet l'exercice effectif de l'activité syndicale. Le droit d'accès aux bâtiments administratifs est une composante essentielle de la liberté syndicale, car sans ce droit les syndicats ne peuvent pas exercer efficacement leurs tâches.»
 
-**ATF 140 I 257** (2014)
-Critères de reconnaissance d'un syndicat comme partenaire social dans le domaine des EPF.
-Concrétise les conditions de reconnaissance comme partenaire social habilité à négocier.
+**ATF 140 I 257** du 26 juillet 2014 
+Reconnaissance d'un syndicat comme partenaire social dans le domaine des EPF.
+L'arrêt précise les conditions de reconnaissance comme syndicat habilité à négocier.
 
-> « Un syndicat peut invoquer la liberté syndicale pour faire valoir des prétentions à participer à des négociations collectives ou à conclure une convention collective avec un employeur public (consid. 5.1.1), pour autant qu'il puisse être reconnu comme partenaire social. Cela présuppose qu'il soit suffisamment représentatif et qu'il se comporte loyalement (consid. 5.2.1 et 5.2.2). »
+> «Un syndicat peut invoquer la liberté syndicale pour faire valoir des prétentions à la participation aux négociations tarifaires ou à la conclusion d'une convention collective avec un employeur public, dans la mesure où il peut être reconnu comme partenaire social. Cela présuppose qu'il soit suffisamment représentatif et qu'il se comporte loyalement.»
 
-**ATF 134 I 23** (2008)
-Contrôle abstrait des normes de la loi valaisanne sur les institutions de prévoyance étatiques ; violation des conventions OIT n° 98, 150 et 154.
-Établit l'engagement de l'État par les conventions OIT en matière de droit de la prévoyance du personnel.
+### Droit de grève et conflit du travail
 
-> « Le droit d'être entendu selon l'art. 51 al. 5 LPP et les conventions OIT n° 98, 150 et 154 n'ont pas été violés (consid. 6.4). »
+**ATF 132 III 122** du 13 septembre 2005
+Licéité des moyens de lutte et des piquets de grève.
+L'arrêt fondamental définit les quatre conditions de licéité des moyens de lutte.
 
-### Droit de grève et moyens de lutte
+> «L'art. 28 Cst. concernant la liberté syndicale déploie un effet horizontal indirect dans le domaine des relations de travail du secteur privé. Pour qu'un moyen de lutte soit licite, il doit concerner les relations de travail, ne pas violer l'obligation de paix relative, être porté par une association de travailleurs et respecter le principe de la proportionnalité.»
 
-**ATF 132 III 122** (2005)
-Licéité des moyens employés dans un conflit de travail ; action de blocage sans participation d'employés de l'entreprise en grève.
-Arrêt fondamental sur les conditions de licéité des moyens de lutte dans le secteur privé.
+**ATF 134 IV 216** du 3 avril 2008
+Punissabilité des blocages d'autoroutes pendant une grève.
+L'arrêt trace les limites entre grève licite et contrainte punissable.
 
-> « Étant donné que l'art. 28 Cst. concernant la liberté syndicale déploie un effet horizontal indirect dans le domaine des relations de travail du secteur privé, un tribunal doit tenir compte de ce droit constitutionnel lorsqu'il examine la licéité d'un moyen employé dans un conflit de travail. Pour qu'un moyen de lutte soit licite, il doit concerner les relations de travail, ne pas contrevenir à l'obligation de paix relative, être porté par une association de travailleurs et respecter le principe de proportionnalité. »
+> «Il est licite d'organiser des piquets de grève pour autant qu'ils n'usent pas de la force. Dès que les piquets de grève usent de la violence pour contraindre des personnes à ne pas se présenter au travail, ils sortent du cadre de l'exercice licite d'un moyen de combat.»
 
-**ATF 134 IV 216** (2008)
-Blocage du trafic sur une autoroute dans le cadre d'une grève ; contrainte.
-Limites de l'exercice du droit de grève dans l'espace public.
+### Déclaration de force obligatoire générale des conventions collectives
 
-> « La variante du type légal de "l'autre restriction de la liberté d'agir" à l'art. 181 CP, qualifiée dans la jurisprudence de "dangereusement large", doit être interprétée restrictivement pour des raisons d'État de droit. Le moyen de contrainte de "l'autre restriction de la liberté d'agir" doit, pour être constitutif de l'infraction, dépasser la mesure d'influence habituellement tolérée. »
+**ATF 146 II 335** du 11 mai 2020
+Principe de la «porte ouverte» lors de la déclaration de force obligatoire générale.
+L'arrêt traite des conditions de déclaration de force obligatoire générale des conventions collectives.
 
-### Extension de conventions collectives de travail
+> «Si le principe de la 'porte ouverte' (art. 2 ch. 6 LEFOG) n'est pas respecté, la déclaration de force obligatoire générale doit être refusée ; il ne suffit pas de compléter la déclaration de force obligatoire générale par une clause accessoire correspondante.»
 
-**ATF 146 II 335** (2020)
-Extension de conventions collectives de travail ; principe de la "porte ouverte" ; admissibilité de conditions accessoires.
-Déterminant pour la participation de syndicats à l'extension.
+### Liberté d'association et associations professionnelles
 
-> « L'extension de conventions collectives de travail est soumise au principe de la "porte ouverte", selon lequel tous les partenaires sociaux intéressés sont en principe habilités à y participer, pour autant qu'ils remplissent les conditions légales. »
+**ATF 134 I 23** du 31 octobre 2007
+Liberté syndicale et assurance sociale dans la fonction publique.
+L'arrêt traite du champ d'application de la liberté syndicale pour les caisses de pension.
 
-### Liberté d'association et liberté économique
+D'autres décisions pertinentes concernent la délimitation entre la liberté d'association (art. 23 Cst.) et la liberté syndicale (art. 28 Cst.), l'art. 28 Cst. en tant que norme spéciale régissant les relations de droit du travail entre employeurs et travailleurs.
 
-Arrêt **2C_58/2009** du 4 février 2010
-Fonds de formation professionnelle et liberté d'association et syndicale garantie constitutionnellement.
-Délimitation entre liberté d'association et liberté syndicale pour les organisations professionnelles.
+### Développements actuels
 
-> « L'arrêt du tribunal supérieur contreviendrait à la réglementation légale fédérale sur le fonds de formation professionnelle ainsi qu'à la liberté d'association et syndicale garantie constitutionnellement (art. 23 et 28 Cst.). »
-
-### Droit pénal et liberté syndicale
-
-Arrêt **6B_1423/2019** du 26 octobre 2020
-Diffamation, infractions à la loi fédérale contre la concurrence déloyale ; principe d'accusation.
-Application de la liberté syndicale dans la procédure pénale.
-
-### Jurisprudence internationale
-
-**CEDH Sisman et autres c. Turquie** (2011)
-Cité dans l'ATF 144 I 50 concernant les mesures excessivement restrictives contre les activités syndicales.
-Standards internationaux pour la liberté d'activité syndicale.
+Dans des décisions plus récentes, le Tribunal fédéral a davantage valorisé la dimension internationale de la liberté syndicale, notamment par référence aux conventions OIT no 87 et 98 ainsi qu'à l'art. 11 CEDH. La jurisprudence évolue vers une reconnaissance renforcée des droits syndicaux également dans le secteur public.
