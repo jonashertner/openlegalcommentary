@@ -1,109 +1,121 @@
 # Giurisprudenza
 
-## Principio generale di uguaglianza (cpv. 1)
+## Uguaglianza giuridica (art. 8 cpv. 1 Cost.)
 
 ### Principi dell'uguaglianza giuridica
 
-**BGE 139 I 161** del 22 aprile 2013  
-La disparità di trattamento salariale è ammissibile solo in presenza di criteri oggettivi adeguati.  
-La sentenza concretizza il criterio per le disparità di trattamento ammissibili nella retribuzione nel servizio pubblico.  
+**BGE 129 I 161** del 19 marzo 2003  
+Uguaglianza giuridica nel rapporto di servizio pubblico in caso di diversa retribuzione delle supplenze negli asili.  
+La sentenza chiarisce il criterio di valutazione per l'art. 8 cpv. 1 Cost. in caso di differenziazioni da parte delle autorità.
 
-> «Il principio dell'uguaglianza giuridica non vieta al legislatore ogni differenziazione. Esso prescrive soltanto che il simile sia trattato in modo uguale e il dissimile in modo disuguale e che ogni disparità di trattamento si fondi su un motivo oggettivo. Tale motivo deve essere ammesso quando la distinzione si basa su differenze fattualmente o giuridicamente essenziali ed è giustificata oggettivamente.»
+> «Il principio dell'uguaglianza giuridica e quindi l'art. 8 cpv. 1 Cost. è violato quando nel rapporto di servizio pubblico un lavoro equivalente è retribuito in modo diseguale. Entro i limiti del divieto dell'arbitrio e del principio dell'uguaglianza giuridica, le autorità sono competenti a scegliere, dalla molteplicità di punti di riferimento concepibili, i criteri che devono essere determinanti per la retribuzione dei funzionari.»
 
-**BGE 147 I 1** del 1° gennaio 2020  
-La discriminazione per ragioni di età nelle elezioni dei giudici non viola automaticamente l'art. 8 cpv. 1 Cost.  
-La decisione illustra i limiti del divieto di discriminazione in caso di disparità di trattamento strutturali.  
-
-> «La prassi non viola nemmeno il divieto di discriminazione. Essa tuttavia consente una disparità di trattamento dei titolari di carica che hanno compiuto il 65° anno di età poco prima o poco dopo l'inizio del nuovo periodo di carica, disparità che viola l'uguaglianza giuridica.»
-
-### Divieto di arbitrio
-
-**BGE 136 I 309** del 25 agosto 2010  
-Divieto di arbitrio nelle decisioni discrezionali nella procedura di naturalizzazione.  
-La sentenza determina i limiti dell'autonomia comunale nell'applicazione dell'art. 8 Cost.  
-
-> «Il principio del trattamento conforme all'uguaglianza giuridica è violato quando una normativa o una decisione si riallaccia a situazioni di fatto che non sono essenziali o che non stanno in un rapporto oggettivamente giustificato con la conseguenza giuridica prevista.»
-
-## Divieto di discriminazione (cpv. 2)
-
-### Disabilità
-
-**BGE 139 I 169** del 13 maggio 2013  
-La discriminazione delle persone con disabilità mentale nella naturalizzazione è inammissibile.  
-Decisione fondamentale sulla portata del divieto di discriminazione per disabilità.  
-
-> «Escludere i disabili mentali dalla naturalizzazione per mancanza di volontà propria non corrisponde all'ordinamento legale e si rivela discriminatorio a causa del relativo effetto generale. È da esaminare se esista una giustificazione qualificata per tale esclusione.»
-
-**BGE 139 II 289** del 22 febbraio 2013  
-L'accessibilità nei trasporti pubblici come espressione del divieto di svantaggi.  
-La decisione mostra l'importanza pratica degli art. 8 cpv. 2 e 4 Cost. nel settore delle infrastrutture.  
-
-> «Il divieto di discriminazione e di svantaggi per i disabili vale anche nel settore dei trasporti pubblici. Esso esige che le persone con disabilità possano partecipare alla vita sociale con pari diritti.»
-
-### Provenienza e nazionalità
-
-**BGE 136 II 120** del 22 gennaio 2010  
-La discriminazione degli autoctoni nel ricongiungimento familiare viola l'art. 8 Cost. in combinato con l'art. 14 CEDU.  
-Sentenza decisiva sulla discriminazione inversa dei cittadini svizzeri.  
-
-> «I presupposti più severi per il ricongiungimento familiare con uno svizzero naturalizzato rispetto ai cittadini UE costituiscono una discriminazione che viola l'art. 8 Cost. e l'art. 14 in combinato con l'art. 8 CEDU.»
-
-**BGE 134 I 257** del 18 giugno 2008  
-La trasmissione dei diritti corporativi dipendente dal sesso può essere conforme alla Costituzione.  
-La sentenza precisa i presupposti per le differenziazioni ammissibili.  
-
-> «Una corporazione di diritto pubblico non viola il divieto di discriminazione se secondo i suoi statuti l'appartenenza di una donna deceduta nel 1970 non può essere trasmessa ai suoi discendenti.»
-
-## Parità dei diritti tra uomo e donna (cpv. 3)
-
-### Parità salariale
+### Parità salariale tra i sessi
 
 **BGE 131 I 105** del 16 febbraio 2005  
-Decisione fondamentale sulla parità salariale nel servizio pubblico.  
-La sentenza stabilisce l'azionabilità dell'art. 8 cpv. 3 Cost. e le norme di prescrizione.  
+Parità salariale nel rapporto di servizio pubblico tra uomo e donna; rivendicazione retroattiva.  
+Sentenza pionieristica per l'attuazione della parità salariale costituzionale.
 
-> «Il diritto alla parità di retribuzione tra uomo e donna secondo l'art. 8 cpv. 3 Cost. può essere fatto valere nel quadro del termine di prescrizione di cinque anni anche per il periodo precedente alla presentazione dell'azione salariale. Dal principio generale dell'uguaglianza giuridica dell'art. 8 cpv. 1 Cost. risulta invece soltanto un diritto alla correzione della retribuzione non conforme all'uguaglianza giuridica in modo appropriato ed entro un termine adeguato.»
+> «Il diritto alla parità retributiva tra uomo e donna secondo l'art. 8 cpv. 3 Cost. può essere fatto valere nel quadro del termine di prescrizione quinquennale anche per il periodo precedente la presentazione dell'azione salariale. Dal principio generale dell'uguaglianza giuridica dell'art. 8 cpv. 1 Cost. deriva invece soltanto un diritto alla correzione della retribuzione contraria al principio dell'uguaglianza giuridica in modo appropriato ed entro un termine ragionevole.»
 
-**BGE 117 Ia 270** del 31 maggio 1991  
-Il lavoro equivalente richiede criteri di valutazione oggettivi.  
-Prima decisione di principio sull'applicazione del principio della parità salariale (sotto la vecchia Costituzione).  
+## Divieto di discriminazione (art. 8 cpv. 2 Cost.)
 
-> «Un vantaggio nella formazione può giustificare un salario più elevato, purché la migliore formazione sia richiesta dal posto di lavoro o sia utile per il lavoro che deve essere svolto.»
+### Discriminazione in base all'origine
 
-### Discriminazione in ragione del sesso
+**BGE 129 I 217** del 9 luglio 2003  
+Votazione discriminatoria alle urne su domande di naturalizzazione di persone dell'ex Jugoslavia.  
+Decisione fondamentale sulla discriminazione diretta in base all'origine.
 
-**BGE 145 II 153** del 5 aprile 2019  
-La discriminazione per orientamento sessuale non rientra nell'art. 8 cpv. 3 Cost.  
-La sentenza delimita il campo di applicazione della discriminazione di genere.  
+> «Una discriminazione ai sensi dell'art. 8 cpv. 2 Cost. sussiste quando una persona è trattata in modo giuridicamente diseguale unicamente a causa della sua appartenenza a un determinato gruppo che storicamente e nell'attuale realtà sociale tende a essere emarginato o trattato come inferiore. La discriminazione rappresenta un tipo qualificato di trattamento diseguale di persone in situazioni comparabili, in quanto comporta uno svantaggio di una persona da classificare come degradazione o emarginazione.»
 
-> «In mancanza di specificità di genere, una discriminazione diretta secondo l'art. 3 cpv. 1 LPar per orientamento sessuale non è possibile.»
+**BGE 135 I 49** del 16 dicembre 2008  
+Rifiuto della naturalizzazione a causa della dipendenza dall'assistenza sociale di una candidata disabile.  
+La sentenza concretizza la protezione delle persone disabili dalla discriminazione indiretta.
 
-**BGE 134 V 131** del 28 gennaio 2008  
-Le differenze specifiche di genere nell'età pensionabile necessitano di giustificazione oggettiva.  
-La sentenza mostra l'importanza dell'art. 8 cpv. 3 Cost. nel diritto delle assicurazioni sociali.  
+> «Il requisito della capacità di autoconservazione economica per le naturalizzazioni colpisce le persone con una disabilità fisica, mentale o psichica in modo specifico. Una disabilità può non solo compromettere la capacità lavorativa, ma anche limitare le possibilità di ricerca del lavoro e della carriera professionale. Il divieto di discriminazione vieta di escludere le persone disabili dal diritto di cittadinanza unicamente a causa della loro disabilità o delle sue conseguenze.»
 
-> «L'età pensionabile AVS delle donne elevata gradualmente al 64° anno di età compiuto con la 10a revisione AVS non trova considerazione nell'art. 22 LAINF - a causa di un evidente svista del legislatore. Un intervento giudiziario è in queste circostanze possibile e doveroso.»
+### Discriminazione indiretta
 
-## Misure per i disabili (cpv. 4)
+**BGE 137 V 334** dell'8 luglio 2011  
+Metodo misto per la valutazione dell'invalidità e possibile discriminazione indiretta delle donne.  
+La sentenza chiarisce i requisiti per la prova della discriminazione indiretta.
 
-**BGE 138 I 265** del 31 agosto 2012  
-Le normative specifiche per età non sono automaticamente discriminatorie.  
-La sentenza concretizza il rapporto tra l'art. 8 cpv. 2 e cpv. 4 Cost.  
+> «Il metodo misto non viola né il diritto al rispetto della vita privata e familiare secondo l'art. 13 cpv. 1 Cost. e art. 8 CEDU né i principi dell'uguaglianza di trattamento e del divieto di discriminazione secondo l'art. 8 Cost. Una discriminazione indiretta esisterebbe solo se il regolamento svantaggia in modo particolarmente forte gli appartenenti a un gruppo protetto dalla discriminazione nei suoi effetti reali, senza che ciò sia giustificato oggettivamente.»
 
-> «La normativa secondo cui i beneficiari di prestazioni che hanno compiuto il 65° anno di età partecipano ai costi di cura nell'ambito della loro capacità finanziaria non è discriminatoria né per età né per sesso.»
+### Discriminazione nell'ambito dell'istruzione
 
-### Compensazione degli svantaggi nel settore educativo
+**BGE 147 I 73** del 27 luglio 2020  
+Principio di uguaglianza e divieto di discriminazione negli esami; rifiuto di misure compensative.  
+Sentenza attuale sulle condizioni d'esame adatte ai disabili.
 
-Diversi tribunali cantonali hanno concretizzato la portata degli art. 8 cpv. 2 e 4 Cost. nel sistema educativo:
+> «In virtù del principio di uguaglianza, le università sono fondamentalmente obbligate a creare condizioni possibilmente uniformi per tutti i candidati nello svolgimento dei loro esami. Se determinate persone o gruppi di persone sono svantaggiati ingiustificatamente, può eccezionalmente sussistere l'obbligo di adottare misure compensative. Una violazione del principio di uguaglianza o del divieto di discriminazione sussiste solo quando il rifiuto di una misura compensativa ha potuto influenzare in modo decisivo il risultato dell'esame.»
 
-**VB.2011.00573** (Tribunale amministrativo di Zurigo, 9 novembre 2011)  
-La compensazione degli svantaggi non deve ridurre le esigenze specialistiche.  
-La sentenza mostra i limiti delle misure di compensazione.  
+## Parità dei sessi (art. 8 cpv. 3 Cost.)
 
-> «A causa del divieto di discriminazione un candidato d'esame disabile ha diritto ad agevolazioni formali nell'esame. Queste tuttavia non devono comportare una riduzione delle esigenze specialistiche dell'esame.»
+### Congedo di maternità e parità
 
-**B 2012/231** (Tribunale amministrativo di San Gallo, 27 agosto 2013)  
-L'art. 8 cpv. 2 Cost. fonda il diritto ad accomodamenti ragionevoli.  
-La sentenza concretizza le esigenze costituzionali per la compensazione degli svantaggi.  
+**BGE 144 I 113** del 4 luglio 2018  
+Regolamentazione delle vacanze durante il congedo di maternità per il personale docente.  
+La sentenza mostra la portata della parità dei sessi nel diritto del lavoro.
 
-> «In base all'art. 8 cpv. 2 Cost. e alle disposizioni della LDis esiste in caso di menomazioni come disturbi ADHD o dislessia eventualmente un diritto all'adattamento delle condizioni d'esame.»
+> «L'interpretazione dell'istanza precedente, secondo cui le vacanze che cadono nel congedo di maternità possono essere anticipate o posticipate nel periodo senza lezioni, non viola né il precetto del trattamento conforme al principio dell'uguaglianza giuridica (art. 8 cpv. 1 Cost.) né il divieto di discriminazione (art. 8 cpv. 2 Cost.) o il precetto della parità dei sessi (art. 8 cpv. 3 Cost.).»
+
+### Età pensionabile e parità di diritti
+
+**BGE 134 V 131** del 3 gennaio 2008  
+Diversa età pensionabile nell'assicurazione contro gli infortuni dopo l'equiparazione dell'età pensionabile AVS.  
+La sentenza tratta i limiti costituzionali delle differenziazioni specifiche per sesso.
+
+> «L'età pensionabile AVS delle donne, elevata gradualmente al 64° anno di età compiuto con la 10ª revisione AVS, non trova corrispondente considerazione nell'art. 22 LAINF - a causa di un'evidente svista del legislatore. L'art. 8 cpv. 3 Cost. esige la parità giuridica e fattuale tra uomo e donna e vieta quindi anche differenziazioni specifiche per sesso ingiustificate a danno degli uomini.»
+
+## Disabilità e svantaggio (art. 8 cpv. 4 Cost.)
+
+### Prestazioni per persone con disabilità
+
+**BGE 133 V 450** del 1° gennaio 2007  
+Accompagnamento per la vita pratica come misura per l'eliminazione degli svantaggi delle persone disabili.  
+Sentenza di principio sulla concretizzazione degli incarichi costituzionali a favore delle persone disabili.
+
+> «L'accompagnamento per la vita pratica rappresenta un istituto di aiuto aggiuntivo e autonomo e serve alla realizzazione dell'incarico costituzionale ancorato nell'art. 8 cpv. 4 Cost., secondo cui la legge prevede misure per l'eliminazione degli svantaggi dei disabili. Non comprende né l'aiuto diretto o indiretto di terzi per le sei funzioni vitali quotidiane né la cura né la sorveglianza.»
+
+**BGE 131 V 9** del 30 settembre 2004  
+Obbligo di prestazione dell'assicurazione invalidità per apparecchi elettronici di comunicazione per bambini con trisomia 21.  
+La sentenza mostra i limiti degli obblighi di prestazione statali per i costi aggiuntivi dovuti alla disabilità.
+
+> «L'art. 8 cpv. 4 Cost. obbliga il legislatore a prevedere misure per l'eliminazione degli svantaggi dei disabili. Questa disposizione non fonda tuttavia un diritto diretto alle prestazioni del singolo. La concessione di prestazioni dipende dalla configurazione legale, che lascia al legislatore un considerevole margine di manovra.»
+
+## Diritto fiscale e uguaglianza giuridica
+
+### Trattamento fiscale paritario
+
+**BGE 136 I 65** del 25 settembre 2009  
+Tassazione dei dividendi e principio dell'uguaglianza giuridica in caso di diverse aliquote fiscali.  
+Decisione importante sul trattamento fiscale paritario di diversi tipi di reddito.
+
+> «Il principio dell'uguaglianza giuridica esige che il simile sia trattato in modo simile secondo la misura della sua similarità e il dissimile in modo dissimile secondo la misura della sua dissimilarità. Un trattamento diseguale viola l'uguaglianza giuridica se per esso non si può trovare una ragione razionale o se non sta in rapporto ragionevole con lo scopo perseguito dalla regolamentazione.»
+
+## Ricongiungimento familiare e discriminazione degli indigeni
+
+**BGE 136 II 120** del 22 gennaio 2010  
+Ricongiungimento familiare parziale con svizzero naturalizzato e problematica della «discriminazione degli indigeni».  
+Sentenza pionieristica sull'applicazione del divieto di discriminazione nel diritto degli stranieri.
+
+> «L'art. 8 Cost. garantisce il principio dell'uguaglianza giuridica e vieta ogni tipo di discriminazione. L'art. 14 in connessione con l'art. 8 CEDU statuisce un divieto di discriminazione accessorio. Il trattamento diverso di svizzeri naturalizzati e nati svizzeri nel ricongiungimento familiare può rappresentare una discriminazione in base all'origine se non è giustificata oggettivamente.»
+
+## Aspetti di diritto procedurale
+
+### Obbligo di motivazione per decisioni discriminatorie
+
+**BGE 129 I 232** del 9 luglio 2003  
+Invalidità di un'iniziativa per l'introduzione di votazioni alle urne su domande di naturalizzazione.  
+Sentenza di principio sul nesso tra divieto di discriminazione e obbligo di motivazione.
+
+> «Le decisioni negative di naturalizzazione sono soggette all'obbligo di motivazione secondo l'art. 29 cpv. 2 Cost. (diritto di essere sentito) in connessione con l'art. 8 cpv. 2 Cost. (divieto di discriminazione). Nella votazione alle urne non è possibile una motivazione che soddisfi i requisiti costituzionali. L'iniziativa è quindi invalida perché vuole introdurre una procedura che porta sistematicamente alla violazione di diritti fondamentali.»
+
+### Legittimazione al ricorso
+
+**BGE 147 I 1** del 1° gennaio 2020  
+Mancata rielezione di un giudice amministrativo per motivi di età; impugnabilità di decisioni politiche.  
+Sentenza attuale sulla giustiziabilità di accuse di discriminazione in decisioni politiche.
+
+> «Il divieto di discriminazione deve essere rispettato anche negli atti elettorali che hanno carattere prevalentemente politico. Uno svantaggio ingiustificato a causa dell'età o di altre caratteristiche vietate può essere incostituzionale anche quando avviene nel quadro di un potere discrezionale politico. Il carattere politico di una decisione non libera dal vincolo ai diritti fondamentali.»
