@@ -1,81 +1,121 @@
-# Art. 12 Cst. — Droit d'obtenir de l'aide dans des situations de détresse
+# Art. 12 Cst.
 
 ## Jurisprudence
 
-La jurisprudence relative à l'art. 12 Cst. témoigne d'une évolution cohérente du droit constitutionnel à l'aide dans des situations de détresse. Les arrêts peuvent être regroupés en trois domaines principaux : la conception de base du droit, l'aide d'urgence pour les étrangers et les limites de la subsidiarité.
+### Jurisprudence fondamentale sur le minimum vital
 
-### Conception de base du droit d'obtenir de l'aide dans des situations de détresse
+**ATF 130 I 71** — 14 janvier 2004  
+Arrêt fondamental sur l'étendue du droit à l'aide en cas de détresse.  
+Précision des bases constitutionnelles et du principe de subsidiarité dans l'aide sociale.
 
-**ATF 130 I 71** du 14 janvier 2004  
-Le recourant s'était opposé à sa participation à un programme d'occupation et d'intégration, ce qui avait entraîné la suppression complète de l'aide sociale.  
-Le Tribunal fédéral précise les fondements de l'art. 12 Cst. et établit le principe de subsidiarité.
+> « La prétention constitutionnelle ne comprend qu'un minimum, c'est-à-dire les moyens indispensables pour pouvoir survivre. Le champ de protection et le noyau dur coïncident. [...] Celui qui serait objectivement en mesure de se procurer de ses propres forces les moyens nécessaires à sa survie - notamment en acceptant un travail raisonnablement exigible - ne remplit pas les conditions du droit. »
 
-> « La prétention constitutionnelle ne comprend qu'un minimum, c'est-à-dire les moyens indispensables pour pouvoir survivre. Le champ de protection et le contenu essentiel coïncident [...]. Celui qui serait objectivement en mesure de se procurer par ses propres forces les moyens nécessaires à sa survie - en particulier en acceptant un travail qui peut raisonnablement lui être imposé - ne remplit pas les conditions de la prétention. »
+**ATF 121 I 367** — 2000  
+Arrêt fondamental sur la garantie de l'existence avant l'entrée en vigueur de la nouvelle Constitution fédérale.  
+Développement des bases constitutionnelles du minimum vital comme droit constitutionnel non écrit.
 
-**ATF 142 I 1** du 8 mars 2016  
-Un bénéficiaire de l'aide sociale avait refusé de participer à un programme d'occupation non rémunéré, ce qui avait entraîné la suppression complète de l'aide d'urgence.  
-L'arrêt précise les limites de la subsidiarité pour les programmes non rémunérés et confirme le contenu essentiel intangible de l'art. 12 Cst.
+> « Le droit à la garantie de l'existence est garanti par le droit constitutionnel non écrit de la Confédération. Les étrangers peuvent également se prévaloir de ce droit. »
 
-> « Lorsque l'aide d'urgence (au sens de ce qui est absolument nécessaire) est refusée en raison du non-respect de l'instruction de participer à un programme d'occupation, cela contrevient à l'art. 12 Cst. si la participation au programme n'était pas rémunérée et que le principe de subsidiarité ne trouve donc pas à s'appliquer. »
+### Aide d'urgence pour les requérants d'asile et les étrangers
 
-**ATF 150 I 6** du 7 juin 2023  
-Le Tessin avait refusé l'aide sociale en raison du manque de collaboration aux clarifications médicales de l'assurance-invalidité.  
-Le Tribunal fédéral précise que le principe de subsidiarité ne s'applique pas aux prétentions hypothétiques et clarifie les limites de l'abus de droit.
+**ATF 131 I 166** — 18 mars 2005  
+Arrêt de principe sur l'aide d'urgence pour les demandeurs d'asile déboutés.  
+Première reconnaissance expresse d'un droit constitutionnel à l'aide d'urgence selon l'art. 12 Cst.
 
-> « Le principe de subsidiarité n'entre pas en considération en cas de refus de collaborer aux clarifications médicales visant à déterminer le droit aux prestations de l'assurance-invalidité, car l'ayant droit à ce stade - concernant la nature et l'étendue des prestations éventuellement attendues - n'est que hypothétique. »
+> « L'art. 12 Cst. garantit un droit à l'aide d'urgence qui revient aussi aux demandeurs d'asile déboutés. [...] L'aide d'urgence doit assurer le minimum vital et ne peut être complètement refusée. »
 
-### Aide d'urgence pour les étrangers
+**ATF 135 I 119** — 20 mars 2009  
+Prestations en nature comme forme d'aide d'urgence.  
+Limite entre l'aide d'urgence constitutionnellement requise et les prestations qui vont au-delà.
 
-**ATF 131 I 166** du 18 mars 2005  
-Un requérant d'asile débouté ne recevait plus qu'une allocation journalière de 13 fr. pour l'hébergement et réclamait l'octroi de l'aide d'urgence minimale.  
-Le Tribunal fédéral reconnaît en principe le droit des requérants d'asile déboutés à l'aide d'urgence selon l'art. 12 Cst.
+> « Une aide d'urgence fournie exclusivement sous forme de prestations en nature pour le logement et la nourriture ne viole pas en tant que telle le droit fondamental à l'aide en cas de détresse garanti par l'art. 12 Cst. »
 
-> « L'art. 12 Cst. garantit [...] à chaque être humain un minimum de possibilités de survie au sens d'un droit aux besoins humains élémentaires. En font notamment partie la nourriture, les vêtements, le logement et les soins médicaux de base. »
+**ATF 137 I 113** — 6 janvier 2011  
+Réglementation des compétences dans l'aide d'urgence pour les requérants d'asile.  
+Précision de l'étendue de l'aide d'urgence constitutionnellement due.
 
-**ATF 135 I 119** du 20 mars 2009  
-Un requérant d'asile débouté contestait l'octroi exclusif de prestations en nature sans argent de poche.  
-L'arrêt confirme que l'aide d'urgence peut en principe être fournie sous forme de prestations en nature, mais laisse ouverte la question de prestations complémentaires en espèces.
+> « Le canton d'attribution est compétent pour l'octroi de l'aide d'urgence à un demandeur d'asile débouté avec décision de renvoi. L'aide d'urgence doit répondre aux exigences constitutionnelles minimales. »
 
-> « Une aide d'urgence fournie exclusivement sous forme de prestations en nature pour le logement et la nourriture ne viole pas en tant que telle le droit fondamental à l'aide dans des situations de détresse garanti par l'art. 12 Cst. Prise en compte des circonstances personnelles. »
+**ATF 139 I 272** — 22 novembre 2013  
+Hébergement dans des abris de protection civile comme forme d'aide d'urgence.  
+Standards minimaux conformes à la dignité humaine dans l'aide d'urgence.
 
-**ATF 139 I 272** du 22 novembre 2013  
-Un homme sous le coup d'une décision de renvoi exécutoire devait passer la nuit dans un abri de protection civile et réclamait un meilleur hébergement.  
-Le Tribunal fédéral définit les standards minimaux pour l'hébergement dans le cadre de l'aide d'urgence.
+> « Pour un homme célibataire en bonne santé, le fait qu'il doive passer la nuit dans un abri de protection civile ne contrevient pas aux exigences minimales garanties par l'art. 12 Cst. et ne viole pas notamment le droit au respect de la dignité humaine. »
 
-> « Pour un homme célibataire en bonne santé, le fait qu'il doive passer la nuit dans un abri de protection civile n'est pas contraire aux exigences minimales garanties par l'art. 12 Cst. et ne viole en particulier pas le droit au respect de la dignité humaine. »
+### Programmes d'occupation et obligations
 
-**ATF 137 I 113** du 6 janvier 2011  
-Un couple de requérants d'asile demandait la modification de l'attribution cantonale en raison de circonstances personnelles.  
-L'arrêt clarifie la compétence cantonale pour l'aide d'urgence et la prise en compte de circonstances exceptionnelles.
+**ATF 142 I 1** — 8 mars 2016  
+Limites dans le refus de l'aide d'urgence en raison de la non-participation à des programmes d'occupation.  
+Arrêt important sur la distinction entre aide d'urgence et aide sociale.
 
-> « Le canton d'attribution est compétent pour l'octroi de l'aide d'urgence à un requérant d'asile débouté avec décision de renvoi [...]. Dans certaines circonstances exceptionnelles, le refus de la demande [...] peut constituer une rigueur incompatible avec l'art. 12 Cst. »
+> « Si l'aide d'urgence (au sens de l'absolument nécessaire) est refusée en raison du non-respect de l'instruction de participer à un programme d'occupation, cela viole l'art. 12 Cst. lorsque la participation au programme ne serait pas rémunérée et que le principe de subsidiarité ne trouve donc pas application. »
 
-### Renonciation au patrimoine et abus de droit
+**ATF 139 I 218** — 29 juillet 2013  
+Postes de travail d'essai comme mesure raisonnablement exigible.  
+Proportionnalité des obligations d'occupation dans le droit de l'aide sociale.
 
-**ATF 134 I 65** du 14 décembre 2007  
-Un rentier AVS avait transféré prématurément son patrimoine à ses enfants et demandait ensuite l'aide sociale.  
-Le Tribunal fédéral précise les limites de l'abus de droit en cas de renonciation au patrimoine.
+> « L'octroi d'une aide matérielle peut être assorti de l'obligation d'effectuer un engagement de travail limité dans le temps dans un soi-disant poste de travail d'essai. Cette mesure n'est ni disproportionnée ni ne constitue une violation de la liberté personnelle. »
 
-> « En l'absence d'abus de droit manifeste, le minimum vital garanti par l'art. 12 Cst. ne peut pas être refusé. Possibilité de recours contre les enfants fondée sur les art. 328 et 329 CC. »
+### Aide sociale et imputation de la fortune
 
-### Aide sociale en concubinage
+**ATF 134 I 65** — 2007  
+Minimum vital en cas de renonciation volontaire à la fortune.  
+Limites de l'imputation de biens donnés.
 
-**ATF 142 V 513** du 6 septembre 2016  
-L'autorité d'aide sociale avait imputé une contribution hypothétique de concubinage comme recette.  
-L'arrêt confirme l'admissibilité de l'imputation des contributions de concubinage dans des rapports stables.
+> « En l'absence d'abus de droit manifeste, le minimum vital garanti par l'art. 12 Cst. ne peut être refusé, même si l'on a volontairement renoncé à des biens. »
 
-> « Au budget CSIAS élargi du partenaire de concubinage non assisté doivent être opposées toutes les recettes [...]. S'il en résulte un excédent de recettes, celui-ci doit être imputé intégralement comme recette (contribution de concubinage) dans le budget de la personne requérante en cas de concubinage stable. »
+**ATF 142 V 513** — 6 septembre 2016  
+Imputation des contributions de concubinage.  
+Calcul de l'aide sociale dans les communautés de vie.
 
-**ATF 141 I 153** du 17 septembre 2015  
-Une bénéficiaire de l'aide sociale s'opposait à l'imputation d'une contribution de concubinage de son partenaire.  
-Le Tribunal fédéral confirme la constitutionnalité de l'imputation indépendamment de la disposition effective à payer.
+> « Toutes les recettes doivent être opposées au budget CSIAS élargi du partenaire de concubinage non soutenu. S'il en résulte un excédent de recettes, celui-ci doit être imputé intégralement comme recette dans le budget de la personne requérante en cas de concubinage stable. »
 
-> « L'imputation d'une contribution de concubinage dans le budget d'aide sociale n'est ni arbitraire en présence d'un concubinage stable, ni ne viole le principe d'égalité [...]. Il ne peut être déterminant de savoir si le partenaire de concubinage capable de payer se déclare expressément prêt à verser effectivement la contribution ou non. »
+**ATF 141 I 153** — 17 septembre 2015  
+Conformité constitutionnelle de l'imputation des contributions de concubinage.  
+Confirmation de la jurisprudence sur le calcul de l'aide sociale en cas de concubinage.
 
-### Programmes d'occupation et charges
+> « L'imputation d'une contribution de concubinage dans le budget d'aide sociale n'est ni arbitraire ni ne viole le principe d'égalité de traitement lorsqu'il existe un concubinage stable. »
 
-**ATF 139 I 218** du 29 juillet 2013  
-Un bénéficiaire de l'aide sociale avait refusé de participer à une « place de travail test » et ne recevait plus d'aide sociale.  
-L'arrêt définit l'exigibilité des mesures d'occupation comme condition préalable à l'aide sociale.
+### Procédure pénale et minimum vital
 
-> « L'octroi d'une aide matérielle peut être assorti de la charge d'accomplir un engagement de travail limité dans le temps dans une place de travail test [...]. Cette mesure n'est ni disproportionnée ni ne constitue une violation de la liberté personnelle. »
+**ATF 141 IV 360** — 10 août 2015  
+Séquestre pour couverture des coûts et minimum vital.  
+Protection du minimum vital dans la procédure pénale.
+
+> « Lors du séquestre pour couverture des coûts, les rapports de revenus et de fortune de l'accusé doivent être pris en considération et les valeurs patrimoniales qui ne sont pas saisissables selon les art. 92-94 LP doivent être exclues. Cet examen tient compte du principe de proportionnalité et du droit fondamental à la garantie du minimum vital. »
+
+### Droit d'entretien et minimum vital
+
+**ATF 135 III 66** — 23 octobre 2008  
+Minimum vital de la personne tenue à l'entretien.  
+Répartition du déficit en cas de moyens insuffisants de la personne tenue à l'entretien.
+
+> « Le minimum vital doit en tout cas être laissé à la personne tenue à l'entretien, de sorte qu'un éventuel déficit doit être supporté unilatéralement par les ayants droit à l'entretien. »
+
+**ATF 126 III 353** — 2000  
+Calcul des besoins fondamentaux minimaux.  
+Principes pour la détermination du minimum vital en cas de moyens financiers restreints.
+
+> « La charge fiscale du débiteur de rente doit être laissée hors de considération en cas de moyens financiers restreints. Les principes pour le calcul des besoins fondamentaux minimaux du débiteur de rente sont à respecter. »
+
+### Protection des données dans le droit de l'aide sociale
+
+**ATF 138 I 331** — 2012  
+Secret de l'aide sociale et protection des données.  
+Proportionnalité des transmissions de données dans le domaine de l'aide sociale.
+
+> « La suppression du secret de l'aide sociale en cas d'autorisation de la personne concernée pour la transmission de données est conforme à la Constitution, pour autant que la proportionnalité soit respectée. »
+
+### Développements récents
+
+**ATF 149 I 248** — 2023  
+Interdiction de mendier et minimum vital.  
+Conformité constitutionnelle des interdictions partielles de mendier.
+
+> « La mendicité relève du champ de protection du droit fondamental de la liberté personnelle. Une interdiction partielle de mendier peut être proportionnée dans certaines circonstances, mais ne doit pas mettre en danger la garantie de l'existence. »
+
+**ATF 146 I 1** — 6 février 2020  
+Refus d'aide sociale en cas d'héritage imminent.  
+Prise en considération de biens futurs dans le calcul de l'aide sociale.
+
+> « Le refus de soutien financier face au partage imminent d'un héritage avec un bien immobilier doit être examiné sous l'angle de l'art. 12 Cst. et de la législation cantonale sur l'aide sociale. »
