@@ -1,85 +1,66 @@
-# Art. 25 Cst. — Protection contre l'expulsion et l'extradition
-
 ## Jurisprudence
 
-### Al. 1 : Expulsion et extradition de ressortissants suisses
+### Interdiction d'expulsion pour les citoyens suisses (al. 1)
 
-#### Interdiction d'expulsion pour les Suisses
+**ATF 135 II 1** du 12 novembre 2008  
+En cas d'annulation d'une naturalisation, la personne concernée est replacée du point de vue du droit des étrangers dans la même situation juridique qu'avant la naturalisation. L'interdiction d'expulsion de l'art. 25 al. 1 Cst. ne vaut que pour les véritables citoyens suisses, non pour les personnes dont la naturalisation a été annulée.
 
-L'interdiction absolue d'expulsion des Suissesses et des Suisses est incontestée dans la jurisprudence. L'art. 25 al. 1 Cst. protège les ressortissants contre toute forme d'éloignement forcé du territoire suisse.
+> « Par l'annulation de la naturalisation, la personne concernée est replacée du point de vue du droit des étrangers, sous réserve d'éventuels motifs d'extinction, dans la même situation juridique qu'avant la naturalisation. »
 
-#### Exigence de consentement pour l'extradition
+### Interdiction d'extradition en cas de risque de torture (al. 3)
 
-**ATF 133 IV 76** (23.1.2007)
-Le Tribunal fédéral a précisé que les ressortissants suisses ne peuvent être extradés vers des autorités étrangères qu'avec leur consentement exprès.
-Cette norme reflète la protection particulière que l'État accorde à ses citoyens.
+**ATF 133 IV 76** du 23 janvier 2007  
+L'interdiction de la torture selon l'art. 25 al. 3 Cst. interdit l'extradition vers des États où la torture ou un traitement inhumain menace. Les assurances diplomatiques peuvent être suffisantes, mais elles doivent être efficaces et vérifiables, notamment par l'observation des procédures par l'ambassade suisse.
 
-> « L'art. 25 al. 1 Cst. interdit d'extrader des ressortissants suisses vers une autorité étrangère sans leur consentement. Cette disposition concrétise la prétention particulière à la protection dont jouissent les citoyens suisses envers leur État. »
+> « Nul ne peut être extradé vers un État où il risque la torture ou tout autre traitement ou peine cruels et inhumains (art. 25 al. 3 Cst.). [...] Dans des cas politiquement et juridiquement difficiles sur le plan du droit international comme celui qui nous occupe, où les conditions d'extradition de la CEEJ paraissent en principe remplies, il faut donc, selon la pratique du Tribunal fédéral, accorder un grand poids à des garanties des droits de l'homme efficaces et vérifiables. »
 
-### Al. 2 : Interdiction de refoulement pour les réfugiés
+**ATF 134 IV 156** du 18 décembre 2007  
+Les assurances diplomatiques peuvent constituer une protection efficace pour la personne poursuivie. Lors de l'examen, une évaluation des risques doit être entreprise. Le principe de non-refoulement vaut aussi pour les délits économiques lorsque des risques concrets de torture existent.
 
-#### Principe de non-refoulement
+> « Les assurances diplomatiques peuvent constituer une protection efficace pour la personne poursuivie. Lors de l'examen de la question de savoir si tel est le cas, une évaluation des risques doit être entreprise. »
 
-**ATF 135 II 110** (16.2.2009)
-Le Tribunal fédéral a précisé l'interdiction de renvoyer des réfugiés reconnus dans des États de persécution. Même en cas de révocation du statut d'asile, l'interdiction de refoulement subsiste tant qu'une persécution est à craindre.
-Le Tribunal a précisé que l'expulsion d'un réfugié reconnu n'est admissible que si elle apparaît proportionnée et qu'aucun renvoi vers l'État de persécution n'a lieu.
+### Principe de non-refoulement pour les réfugiés (al. 2)
 
-> « L'art. 25 al. 2 Cst. interdit catégoriquement l'expulsion ou l'extradition de réfugiés vers des États dans lesquels ils ont à craindre des persécutions. Cette interdiction subsiste indépendamment du statut du réfugié. »
+**ATF 135 II 110** du 16 février 2009  
+Le principe de non-refoulement selon l'art. 25 al. 2 Cst. protège les réfugiés reconnus contre l'expulsion vers des États de persécution. Une expulsion malgré le statut de réfugié exige un risque de récidive minimalement concrétisé et non pas simplement abstrait.
 
-### Al. 3 : Interdiction de la torture et protection contre les traitements cruels
+> « L'expulsion d'un réfugié reconnu dont l'asile a été révoqué ne se justifie que si elle apparaît proportionnée au vu de l'ensemble des circonstances essentielles ; seul l'examen d'aspects concernant l'illicéité peut être renvoyé à la procédure relative à l'admission provisoire. »
 
-#### Nature absolue de l'interdiction de la torture
+**ATF 139 II 65** du 15 décembre 2012  
+L'interdiction du refoulement vaut aussi en cas de coordination entre renvoi du droit des étrangers et révocation d'asile. Les autorités cantonales doivent, lors du renvoi de bénéficiaires de l'asile, respecter tant les exigences du droit des étrangers que du droit d'asile.
 
-**ATF 133 IV 76** (23.1.2007)
-Dans cette décision de principe concernant l'extradition vers la Turquie, le Tribunal fédéral a concrétisé les exigences relatives au traitement conforme aux droits de l'homme dans l'État requérant. Le Tribunal a souligné que l'art. 25 al. 3 Cst. en relation avec l'art. 3 CEDH constitue une limite absolue.
-La décision montre qu'en cas de risques de torture, des assurances diplomatiques sont requises.
+> « Si l'autorité cantonale a l'intention de ne pas prolonger ou de révoquer une autorisation de séjour ou d'établissement d'un étranger qui dispose de l'asile et de renvoyer l'intéressé en application de l'art. 64 al. 1 let. c LEtr, elle doit toutefois veiller à ce que, outre les conditions selon les art. 62 ss LEtr, les exigences selon l'art. 65 LAsi soient également respectées. »
 
-> « L'art. 25 al. 3 Cst. et l'art. 3 CEDH interdisent toute expulsion vers des États dans lesquels la personne concernée risque la torture ou un autre type de traitement ou de châtiment cruel et inhumain. Ces garanties sont absolues et ne connaissent aucune exception. »
+### Expulsion pénale du territoire et non-refoulement
 
-#### Assurances diplomatiques
+**ATF 6B_747/2019** du 24 juin 2020  
+Même en cas d'expulsion pénale du territoire, l'interdiction du refoulement doit être respectée. L'examen de l'exécution doit tenir compte de l'art. 25 al. 2 et 3 Cst.
 
-**ATF 134 IV 156** (18.12.2007)
-Le Tribunal fédéral a reconnu les assurances diplomatiques comme protection possible contre les traitements contraires aux droits de l'homme. Lors de l'examen de leur efficacité, une évaluation des risques doit être entreprise.
-Cette décision de principe a établi les critères d'appréciation des garanties diplomatiques lors d'extraditions.
+> « interdiction du refoulement (art. 25 al. 2 Cst.). »
 
-> « Les assurances diplomatiques peuvent constituer une protection efficace pour la personne persécutée. Lors de l'examen de la question de savoir si tel est le cas, une évaluation des risques doit être entreprise, qui tient compte de toutes les circonstances pertinentes du cas d'espèce. »
+### Développements actuels
 
-**ATF 122 II 373** (11.9.1996)
-Dans cette décision de principe précoce concernant l'extradition vers la Turquie, le Tribunal fédéral a développé les principes pour les procédures d'extradition sous l'angle des droits de l'homme. Le Tribunal a posé des conditions pour l'extradition afin de garantir un traitement conforme à l'art. 3 CEDH.
+**E-4103/2024** du 8 novembre 2024  
+Application actuelle du principe de non-refoulement dans les procédures d'asile en lien avec la Turquie. Le Tribunal administratif fédéral continue d'examiner soigneusement le respect de l'art. 25 al. 2 et 3 Cst. lors de décisions de renvoi.
 
-> « En considération de l'art. 3 al. 2, 2e phrase EIMP, il se justifie de faire dépendre l'extradition d'assurances de l'État requérant concernant les conditions de détention de la personne extradée. »
+**E-1308/2023** du 19 mars 2024  
+Même dans les procédures d'asile accélérées, l'interdiction du refoulement doit être pleinement respectée. Une durée de procédure réduite ne dispense pas de l'examen soigneux des obstacles à l'exécution selon l'art. 25 Cst.
 
-#### Jurisprudence récente sur les garanties diplomatiques
+**E-3427/2021** du 28 mars 2022  
+Dans les procédures Dublin, l'interdiction du refoulement envers l'État tiers doit être examinée. L'art. 25 al. 2 et 3 Cst. vaut aussi pour les transferts vers des États tiers sûrs lorsqu'un refoulement en chaîne menace.
 
-**ATF 148 I 127** (1.9.2021)
-Le Tribunal fédéral a considérablement affiné sa jurisprudence sur les garanties diplomatiques. Lors d'extraditions vers la Russie, il a exigé un examen approfondi selon les onze critères de la CtEDH.
-La décision montre l'évolution vers des standards plus stricts dans la protection contre les traitements inhumains.
+### Interdiction de la torture et traitement inhumain
 
-> « Compte tenu du mécanisme de contrôle diplomatique mis en place par les autorités de l'État requis pour garantir le respect de ces assurances (« monitoring »), l'admissibilité de l'extradition contre l'assurance de ces garanties est confirmée. »
+**ATF 139 IV 41** du 5 février 2013  
+L'interdiction de la torture de l'art. 25 al. 3 Cst. en relation avec l'art. 3 CEDH vaut aussi pour l'exécution des peines en Suisse. Toute irrégularité lors de la détention provisoire ne justifie pas une libération.
 
-**ATF 148 IV 314** (21.3.2022)
-Lors de l'extradition vers l'Arménie, le Tribunal fédéral a développé d'autres critères pour la protection de la santé dans les établissements pénitentiaires. Le Tribunal a examiné de manière particulièrement approfondie les indices concrets de traitements inhumains.
+**ATF 140 I 125** du 26 février 2014  
+Les conditions de détention doivent correspondre aux standards de l'art. 25 al. 3 Cst. et de l'art. 3 CEDH. La surpopulation et des conditions de détention inadmissibles peuvent violer l'interdiction de la torture.
 
-### Aspects de droit procédural
+### Rapport avec les traités internationaux
 
-#### Obstacles à l'exécution
+**ATF 122 II 373** du 11 septembre 1996  
+L'art. 25 al. 3 Cst. concrétise les obligations de droit international découlant de l'art. 3 CEDH. Les extraditions ne sont admissibles que si des garanties suffisantes pour un traitement conforme aux droits de l'homme existent.
 
-**ATF 137 II 305** (26.5.2011)
-Le Tribunal fédéral a clarifié les voies de droit contre les décisions cantonales relatives aux obstacles à l'exécution. Il a établi que seul le recours constitutionnel subsidiaire est ouvert, car il n'existe pas de droit d'être admis à titre provisoire.
-La décision a précisé les limites de la protection juridique dans les décisions de renvoi.
-
-> « Contre les décisions cantonales de dernière instance distinctes concernant les obstacles à l'exécution lors du renvoi, seul le recours constitutionnel subsidiaire est ouvert. Comme la personne renvoyée n'a pas de droit d'être admise à titre provisoire, seules des violations de droits constitutionnels particuliers peuvent être invoquées. »
-
-### Dimension internationale
-
-#### Rapport avec la CEDH
-
-La jurisprudence montre un lien étroit entre l'art. 25 Cst. et les garanties correspondantes de la CEDH (art. 3) ainsi que du Pacte ONU II (art. 7). Le Tribunal fédéral applique ces dispositions de manière complémentaire, l'art. 25 Cst. formant le standard minimal de droit constitutionnel.
-
-#### Système de Dublin
-
-Dans des décisions récentes du Tribunal administratif fédéral, l'art. 25 Cst. devient également pertinent dans le contexte du système de Dublin, lorsque les transferts vers d'autres États de l'UE font craindre des violations systémiques des droits de l'homme.
-
-### Tendances d'évolution
-
-La jurisprudence montre un durcissement continu des exigences relatives à la protection contre les traitements inhumains. Alors que les décisions antérieures acceptaient les assurances diplomatiques de manière relativement généreuse, la jurisprudence récente exige des analyses détaillées des risques et des mécanismes de contrôle efficaces.
+**ATF 146 IV 297** du 30 juin 2020  
+L'interdiction du refoulement vaut aussi pour les transferts Dublin. L'aide d'urgence ne justifie des actes illégaux qu'en cas de véritable situation d'urgence sans autres possibilités de remède.

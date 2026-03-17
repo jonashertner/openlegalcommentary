@@ -1,69 +1,115 @@
-# Art. 24 Cst.
+# Jurisprudence
 
-## Jurisprudence
+## Principes de la liberté d'établissement
 
-### Obligations de résidence et charges publiques
+### Contenu et portée
 
-**ATF 128 I 34** (9 janvier 2002)
-Violation du droit de vote par méconnaissance de l'obligation de résidence pour les préfets du canton de Berne. L'obligation de résidence fait partie, comme les dispositions classiques d'incompatibilité, du domaine de protection des droits politiques. Le droit cantonal ne prévoyait expressément pour les préfets ni doubles mandats ni exceptions à l'obligation de résidence, raison pour laquelle une exception par voie d'interprétation n'était pas admissible.
+**ATF 148 I 97** du 21.1.2021
+L'art. 24 Cst. garantit le droit au libre choix du domicile en Suisse.
+Définit le contenu et la portée de la liberté d'établissement et délimite les compétences cantonales.
 
-> «L'absence d'une règle d'exception ne constitue pas in concreto une véritable lacune que le Grand Conseil serait habilité à combler.»
+> «La liberté d'établissement garantit ad ogni persona di cittadinanza svizzera la possibilità di eleggere qualsiasi luogo della Svizzera come luogo di residenza e di ricevere i corrispondenti annunci. D'altro canto, impone ai Cantoni e ai Comuni di permettere ad ogni cittadino svizzero di stabilirsi sul loro territorio, di iscriverlo negli appositi registri.»
 
-**ATF 128 I 280** (5 juin 2002)
-Obligation de résidence pour les officiers publics dans le canton d'Appenzell Rh.-Int. La réglementation selon laquelle le pouvoir de recevoir des actes authentiques de droit public est réservé aux personnes ayant leur domicile dans le canton est compatible avec la liberté d'établissement. Les officiers publics ne peuvent se prévaloir, pour leur activité de droit public, ni de la liberté économique ni de l'accord sur la libre circulation.
+**ATF 128 I 280** du 1.1.2002
+La liberté d'établissement protège la possibilité de séjour personnel en n'importe quel lieu de Suisse.
+Arrêt fondamental sur la portée du droit fondamental lors d'activités de souveraineté.
 
-> «L'authentification publique est une activité officielle, de droit public. Son organisation est une tâche étatique qui, selon l'art. 55 du titre final du code civil, incombe aux cantons.»
+> «La liberté d'établissement garantit ainsi la possibilité de séjour personnel en n'importe quel lieu de Suisse ; elle ordonne aux cantons et aux communes d'autoriser tout citoyen suisse à s'établir sur leur territoire et leur interdit en même temps de compliquer le transfert du domicile d'un endroit à l'autre.»
 
-### Groupes de personnes particuliers et liberté d'établissement
+## Obligations de domicile et restrictions professionnelles
 
-**ATF 131 I 266** (27 avril 2005)
-Changement de domicile de personnes sous tutelle entre cantons. La restriction de la liberté d'établissement fondée sur l'art. 377 al. 1 CC doit être proportionnée. En tant que citoyens suisses, les personnes sous tutelle sont aussi titulaires de la liberté d'établissement, bien qu'elles soient limitées dans leur capacité d'exercer leurs droits civils.
+### Activités de souveraineté
 
-> «Comme citoyens suisses, A.T. et B.T. sont titulaires de la liberté d'établissement, garantie par l'art. 24 al. 1 Cst. Leur qualité de personnes privées de l'exercice des droits civils ne les prive pas de cette garantie fondamentale.»
+**ATF 128 I 280** du 1.1.2002
+L'obligation de domicile pour les personnes habilitées à authentifier est compatible avec l'art. 24 Cst.
+Précise les restrictions admissibles de la liberté d'établissement lors de tâches de souveraineté.
 
-**ATF 145 I 73** (13 février 2019)
-Contrôle abstrait de normes de la loi neuchâteloise sur les aires d'accueil des communautés itinérantes. L'évacuation d'un campement illégal ne viole ni la protection de la sphère privée ni la liberté d'établissement ni les garanties générales de procédure. Les gens du voyage suisses jouissent de la protection de la liberté d'établissement, une prudence particulière étant de mise en cas de restriction de celle-ci.
+> «La réglementation du canton d'Appenzell Rhodes-Intérieures selon laquelle le pouvoir d'authentification de souveraineté est réservé aux personnes ayant leur domicile dans le canton est compatible avec la Constitution fédérale et notamment avec la liberté d'établissement.»
 
-> «La loi neuchâteloise n'établit pas de discrimination entre les communautés nomades et le reste de la population et ne viole pas l'interdiction de discrimination.»
+**ATF 128 I 34** du 1.1.2001
+L'obligation de domicile pour les préfets concerne le droit d'éligibilité passif.
+Montre la relation entre la liberté d'établissement et les droits politiques.
 
-### Mesures d'éloignement et d'interdiction de séjour
+> «L'obligation de domicile compte, comme les dispositions classiques d'incompatibilité, dans le champ de protection des droits politiques visé à l'art. 85 lit. a OJ.»
 
-**ATF 147 I 103** (29 avril 2020)
-Disproportion de la liaison automatique des mesures d'éloignement et d'interdiction de séjour avec une menace pénale selon l'art. 292 CP dans le canton de Berne. L'éloignement des gens du voyage et l'évacuation de terrains occupés dans les 24 heures sont disproportionnés, tant pour les gens du voyage suisses que pour les gens du voyage étrangers en transit.
+### Mobilité professionnelle et obligation d'annonce
 
-> «Lors de l'examen de la proportionnalité d'un éloignement de gens du voyage resp. d'une évacuation de l'aire d'arrêt, différents éléments sont importants.»
+**ATF 148 I 97** du 21.1.2021  
+L'obligation d'annonce lors de séjour professionnel est admissible, mais ne doit pas être soumise à autorisation.
+Jurisprudence actuelle sur les résidences secondaires pour raisons professionnelles.
 
-### Droit de la famille et liberté d'établissement
+> «L'obligation d'annonce lors de séjour motivé professionnellement dans une autre commune que la commune de domicile ne restreint pas l'exercice de la liberté d'établissement. L'annonce ne peut toutefois pas être soumise à un régime d'autorisation.»
 
-**ATF 142 III 481** (11 mars 2016)
-Déménagement de l'enfant à l'étranger en cas d'autorité parentale conjointe. Le Tribunal fédéral a constaté que lors de l'examen du lieu de résidence approprié de l'enfant, la liberté d'établissement resp. de mouvement des parents doit être respectée. L'autorité parentale inclut le droit de déterminer le lieu de résidence de l'enfant, ce qui, en cas d'autorité parentale conjointe, nécessite l'accord des deux parents ou une décision judiciaire.
+## Liberté de circulation (art. 24 al. 2 Cst.)
 
-> «Le législateur a souligné à cet égard que la liberté d'établissement et de mouvement des parents devait être respectée et qu'elle ne devait pas être restreinte par le nouveau droit.»
+### Liberté d'émigration
 
-### Obligation d'annonce et droit des registres
+**ATF 127 I 97** du 1.1.2001
+Le refus d'une attestation de départ pour cause de dettes fiscales viole l'interdiction de l'arbitraire.
+Arrêt important sur l'exercice pratique de la liberté d'émigration.
 
-**VB.2021.00654** (22 août 2024) - Tribunal administratif du canton de Zurich
-Obligation d'annonce policière pour les ressortissants suisses vivant à l'étranger. En tant que Suisse vivant à l'étranger qui séjourne régulièrement dans une commune du canton de Zurich, le recourant a été inscrit contrairement à sa demande d'inscription comme résidant secondaire avec le rapport d'annonce établissement. La loi d'harmonisation des registres définit au niveau du droit fédéral les notions de commune d'établissement et de commune de séjour.
+> «Il contrevient à l'interdiction de l'arbitraire de ne pas confirmer à une personne son départ du contrôle des habitants parce qu'elle a des dettes fiscales ouvertes.»
 
-**VB.2022.00722** (22 août 2024) - Tribunal administratif du canton de Zurich
-Cas similaire concernant l'obligation d'annonce policière. Un ressortissant suisse vivant à l'étranger a été obligé de s'annoncer à Zurich avec établissement, bien qu'il n'y séjournât que régulièrement. La décision souligne les prescriptions de droit fédéral de la loi d'harmonisation des registres.
+### Droit de la famille et bien de l'enfant
 
-### Droit des étrangers et liberté d'établissement
+**ATF 142 III 481** du 11.3.2016
+Le départ d'un enfant à l'étranger exige une pesée d'intérêts entre la liberté de circulation des parents et le bien de l'enfant.
+Arrêt de principe sur la tension entre mobilité parentale et intérêts de l'enfant.
 
-**2C_273/2023** (30 mai 2024) - Tribunal fédéral
-Entrée pour prise de domicile et octroi d'un permis de séjour. Le cas montre les points de contact entre la liberté d'établissement des ressortissants suisses et le droit des étrangers, notamment dans les familles mixtes et le regroupement familial.
+> «Le nouveau droit édicte comme principe général l'autorité parentale commune [...] Avec le nouveau droit, la liberté d'établissement resp. de circulation des parents est également respectée.»
 
-**B 2024/104** (23 octobre 2024) - Tribunal administratif de Saint-Gall
-Octroi d'un permis de séjour pour parents étrangers d'enfants suisses. Le tribunal a souligné que selon l'âge de l'enfant suisse, sa volonté d'entrer en Suisse et de s'y établir a du poids. La liberté d'établissement de l'enfant suisse peut dans certaines circonstances fonder des droits pour les membres étrangers de la famille.
+**ATF 131 I 266** du 27.4.2005
+Le changement de domicile de personnes sous tutelle est soumis au principe de proportionnalité.
+Montre les limites des restrictions étatiques à la liberté d'établissement.
 
-> «Selon l'âge de l'enfant suisse, sa volonté d'entrer en Suisse et de s'y établir a du poids selon la jurisprudence du Tribunal fédéral.»
+> «La restriction de la liberté d'établissement fondée sur l'art. 377 al. 1 CC doit être proportionnée.»
 
-### Aide sociale et liberté de mouvement
+## Communautés nomades
 
-**WBE.2024.36** (19 juin 2024) - Tribunal administratif d'Argovie
-L'obligation pour les bénéficiaires d'aide sociale de chercher un logement moins cher au lieu de domicile et dans les environs ne viole pas la «liberté de mouvement» resp. liberté d'établissement selon l'art. 24 Cst. Les personnes assistées sont tenues de contribuer par leurs propres forces à la diminution ou à la suppression de l'état de besoin, ce qui comprend aussi la réduction des dépenses liées comme le loyer du logement.
+### Protection du mode de vie nomade
 
-### Aspects de droit civil
+**ATF 145 I 73** du 13.2.2019
+L'évacuation de camps illégaux ne viole pas l'art. 24 Cst.
+Arrêt important sur la protection des communautés nomades et les limites de leur liberté d'établissement.
 
-**Arrêt 5A_561/2020** (3 mars 2021) - Tribunal fédéral
-Cas de droit de la famille concernant l'entretien de l'enfant en cas de parents ayant déménagé à l'étranger. Le cas montre les champs de tension entre la liberté d'établissement des parents et les obligations d'entretien envers les enfants demeurant en Suisse.
+> «L'évacuation d'un camp illégal - prévue aux art. 24 à 28 LSCN - ne viole ni la protection de la sphère privée (art. 13 Cst.) ni la liberté d'établissement (art. 24 Cst.) ni les garanties générales de procédure (art. 29 Cst.).»
+
+## Relations intercantonales et internationales
+
+### Fédéralisme et conflits de compétences
+
+**ATF 131 I 266** du 27.4.2005
+Le Tribunal fédéral tranche les conflits de compétences entre autorités de tutelle cantonales.
+Montre l'importance de la liberté d'établissement pour l'équilibre fédéral.
+
+> «Portée de l'art. 83 lit. e OJ lors de litiges entre les autorités de tutelle cantonales concernant le changement de domicile de personnes sous tutelle.»
+
+### Droit européen et libre circulation des personnes
+
+**ATF 135 II 1** du 12.11.2008
+L'annulation d'une naturalisation conduit à une remise en l'état de droit des étrangers.
+Montre la délimitation entre liberté d'établissement suisse et libre circulation des personnes européenne.
+
+> «Avec l'annulation de la naturalisation, la personne concernée est remise, du point de vue du droit des étrangers et sous réserve d'éventuels motifs d'extinction, dans la même situation juridique qu'avant la naturalisation.»
+
+**ATF 135 I 153** du 27.3.2009  
+Regroupement familial et regroupement familial inversé pour enfants suisses.
+Lien entre l'art. 24 Cst. et les dispositions de droit des étrangers.
+
+> «Si le départ des membres de la famille ayant droit de présence d'une personne étrangère qui doit quitter la Suisse n'apparaît pas aisément exigible, une pesée d'intérêts selon l'art. 8 ch. 2 CEDH doit être effectuée.»
+
+## Développements actuels
+
+### Système d'annonce et numérisation
+
+**VB.2022.00722** du 22.8.2024 (Tribunal administratif ZH)
+Obligation d'annonce de police pour les citoyens suisses vivant à l'étranger lors de séjour régulier.
+Jurisprudence cantonale récente sur la mise en œuvre pratique de l'obligation d'annonce.
+
+> La loi sur l'harmonisation des registres décrit les notions comme commune d'établissement et commune de séjour au niveau du droit fédéral.
+
+### Regroupement familial dans des cas complexes  
+
+**2C 273/2023** du 30.5.2024
+Entrée pour prise de domicile et octroi d'une autorisation de séjour.
+Arrêt récent du Tribunal fédéral sur la délimitation entre droit de séjour suisse et de droit des étrangers.
