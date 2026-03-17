@@ -1,70 +1,65 @@
 ## Jurisprudence
 
-### Fondements et développement de la liberté de la langue
+### Principes de la liberté de la langue
 
-**ATF 121 I 196** (10.5.1995)
-Principe de territorialité et langue de procédure dans la procédure pénale. Le Tribunal fédéral a établi les principes centraux de la liberté de la langue et de sa limitation par le principe de territorialité selon le droit constitutionnel cantonal. La liberté de la langue fait partie des droits de liberté non écrits de la Constitution fédérale et comprend la faculté d'utiliser sa langue maternelle.
+**ATF 139 I 229** du 5 décembre 2013 — Rumantsch Grischun à l'école
+Limites de la liberté de la langue lors de la détermination de la langue d'enseignement.
+Le Tribunal fédéral a précisé la portée de l'art. 18 Cst. par rapport au principe de territorialité.
 
-> « Selon la doctrine et la jurisprudence, la liberté de la langue, c'est-à-dire la faculté d'utiliser sa langue maternelle, fait partie des droits de liberté non écrits de la Constitution fédérale. Dans la mesure où la langue maternelle est également une langue nationale de la Confédération, son usage est en outre protégé par l'art. 116 al. 1 Cst. »
+> « La liberté de la langue (art. 18 Cst.) garantit le droit d'utiliser une langue de son choix, en particulier la langue maternelle [...]. En tant que droit fondamental individuel, elle protège l'usage tant des idiomes romanches que du rumantsch grischun [...]. Dans ce domaine privé de la liberté de la langue – c'est-à-dire lorsqu'il s'agit de la liberté des citoyennes et citoyens individuels de déterminer quelle langue ils utilisent et dans laquelle ils veulent communiquer entre eux – l'État ne doit pas s'immiscer. »
 
-**ATF 122 I 236** (12.6.1996)
-Liberté de la langue dans l'enseignement scolaire et principe de territorialité. L'arrêt a concrétisé le rapport entre la liberté individuelle de la langue et les principes d'ordre étatique. La liberté de la langue n'oblige pas les collectivités publiques à offrir un enseignement scolaire dans leur langue aux minorités linguistiques nouvellement immigrées.
+**ATF 122 I 236** du 15 juillet 1996 — Liberté de la langue et fréquentation scolaire
+Rapport entre liberté individuelle de la langue et organisation scolaire étatique.
+Décision déterminante pour la délimitation entre droits individuels et droits à des prestations dans le domaine linguistique.
 
-> « La liberté de la langue n'oblige pas les collectivités publiques à offrir un enseignement scolaire dans leur langue aux minorités linguistiques nouvellement immigrées. »
+> « La liberté de la langue n'oblige pas les collectivités publiques à offrir un enseignement scolaire dans la langue de nouvelles minorités linguistiques immigrées [...]. Si toutefois une autre commune est volontairement disposée à accueillir l'enfant dans une école francophone et que les parents supportent les conséquences financières qui en découlent, il constitue une restriction disproportionnée de la liberté de la langue d'exiger la fréquentation d'une école germanophone. »
 
-### Dimensions active et passive de la liberté de la langue
+**ATF 121 I 196** de 1995 — Langue de procédure en droit pénal
+Jurisprudence fondamentale sur la liberté de la langue et le principe de territorialité dans les procédures judiciaires.
+Définit les limites du droit à l'usage de la langue maternelle devant les tribunaux.
 
-**ATF 139 I 229** (12.7.2013)
-Rumantsch Grischun vs. idiomes rhéto-romans ; arrêt de principe sur la différenciation entre liberté active et passive de la langue. Le Tribunal fédéral a distingué entre l'aspect privé (actif) et public (passif) de la liberté de la langue. La liberté individuelle de la langue garantit le droit de parler tant le rumantsch grischun que les idiomes romanches, mais ne fonde aucun droit à des langues d'enseignement déterminées.
+> « Selon la doctrine et la jurisprudence, la liberté de la langue, c'est-à-dire la faculté d'utiliser la langue maternelle, fait partie des droits de liberté non écrits de la Constitution fédérale. Dans la mesure où la langue maternelle est simultanément une langue nationale de la Confédération, son usage jouit en outre de la protection de la garantie institutionnelle inscrite à l'art. 116 al. 1 Cst. »
 
-> « La liberté de la langue (art. 18 Cst.) garantit le droit d'utiliser une langue de son choix, en particulier aussi la langue maternelle [...]. Dans ce domaine privé de la liberté de la langue – c'est-à-dire lorsqu'il s'agit de la liberté des citoyennes et citoyens individuels de choisir quelle langue ils utilisent et dans laquelle ils veulent communiquer entre eux – l'État ne doit pas s'immiscer. »
+### Limites de la liberté de la langue
 
-### Langue de procédure et obligations de traduction
+**ATF 143 IV 117** du 13 avril 2017 — Langue de procédure et traduction
+Jurisprudence actuelle sur la validité non absolue de la liberté de la langue dans les rapports avec les autorités.
+Concrétise les obligations des autorités lors d'écritures en langue étrangère.
 
-**ATF 143 IV 117** (13.4.2017)
-Langue de procédure dans le procès pénal et droit à la traduction. Le Tribunal fédéral a précisé que la liberté de la langue selon l'art. 18 Cst. ne vaut pas de manière absolue. En principe, il n'existe aucun droit de communiquer avec les autorités dans une autre langue que la langue de procédure.
+> « La liberté de la langue selon l'art. 18 Cst. ne vaut pas de manière absolue. En principe, il n'existe aucun droit de communiquer avec les autorités dans une autre langue que la langue de procédure (art. 67 CPP). Afin d'éviter un formalisme excessif, l'autorité pénale doit, pour un écrit déposé dans le délai mais qui n'est pas rédigé dans la langue de procédure, accorder un délai supplémentaire pour la traduction, pour autant qu'elle ne se contente pas du document ou qu'elle ne le fasse pas traduire elle-même. »
 
-> « La liberté de la langue selon l'art. 18 Cst. ne vaut pas de manière absolue. En principe, il n'existe aucun droit de communiquer avec les autorités dans une autre langue que la langue de procédure (art. 67 CPP). »
+**ATF 136 I 149** du 22 octobre 2009 — Langue officielle et de procédure
+Liberté de la langue dans la procédure administrative du canton bilingue de Fribourg.
+Confirme la limitation de la liberté de la langue par le principe de territorialité.
 
-**ATF 136 I 149** (18.1.2010)
-Langues officielles et langues de procédure dans le canton bilingue de Fribourg. L'arrêt a traité de la signification des réglementations linguistiques cantonales pour l'exercice de la liberté de la langue. L'art. 17 al. 2 de la Constitution du canton de Fribourg permet aux justiciables de s'adresser aux tribunaux dans la langue officielle de leur choix.
+> « La liberté de la langue est limitée par le principe de territorialité : l'individu n'a pas le droit de communiquer avec les autorités dans n'importe quelle langue, mais doit – sous réserve de droits particuliers – utiliser la langue officielle respective. »
 
-> « L'art. 17 al. 2 de la Constitution du canton de Fribourg permet au justiciable de s'adresser au tribunal cantonal dans la langue officielle de son choix – français ou allemand. Ceci vaut indépendamment de la langue de procédure. »
+### Langues minoritaires et principe de territorialité
 
-### Liberté de la langue et principe de territorialité
+**ATF 100 Ia 462** de 1974 — Protection fondamentale des minorités
+Jurisprudence fondamentale ancienne sur la protection des minorités linguistiques.
+Fonde le principe de territorialité comme instrument de protection des langues minoritaires.
 
-**Arrêt 1S.6/2004** (11.1.2005)
-Procédure pénale fédérale et langue de procédure. Le Tribunal fédéral a confirmé la validité du principe de territorialité également dans la procédure pénale fédérale, la liberté de la langue étant limitée par les règlements de procédure.
+> « Le principe de territorialité [...] interdit aussi le déplacement conscient de frontières linguistiques traditionnelles ou l'oppression de groupes linguistiques minoritaires traditionnels [...]. Ces principes valent en particulier pour la protection des minorités linguistiques traditionnelles comme l'italien et le romanche. »
 
-**Arrêt 2C_806/2012** (12.7.2013)
-Complétant l'ATF 139 I 229 : liberté de la langue dans l'enseignement. La décision a concrétisé les principes relatifs à la fixation étatique des langues d'enseignement et leur compatibilité avec l'art. 18 Cst.
+### Langue d'enseignement et système éducatif
 
-### Langues minoritaires et obligations internationales
+**ATF 125 I 347** du 9 septembre 1999 — Neutralité confessionnelle de l'école
+Liberté de la langue dans le contexte du système scolaire confessionnellement neutre.
+Montre la pondération entre différents droits fondamentaux dans le domaine de l'éducation.
 
-La jurisprudence relative à l'art. 18 Cst. tient systématiquement compte de la Charte européenne des langues régionales ou minoritaires. Dans l'**ATF 139 I 229**, le Tribunal fédéral a retenu que la Charte contient largement des dispositions programmatiques et s'adresse en premier lieu au législateur. Les obligations de la Charte sont suffisamment prises en compte si le romanche est maintenu comme langue d'enseignement.
+> « Dans les régions bi- ou plurilingues, un droit découlant de la liberté de la langue pourrait naître d'être enseigné dans l'une des plusieurs langues traditionnelles, pour autant que cela ne conduise pas à une charge disproportionnée de la collectivité publique. »
 
-### Tribunal pénal fédéral
+### Développements récents
 
-La jurisprudence du Tribunal pénal fédéral concrétise les principes relatifs à la langue de procédure :
+Arrêt **1B_70/2009** du 7 avril 2009 — Liberté de la langue dans la procédure pénale
+Précision des droits à la traduction dans la procédure pénale.
+Concrétise l'équilibre entre liberté de la langue et économie de procédure.
 
-**BB.2005.114** (13.2.2006)
-Recours contre la langue de procédure. Le Tribunal pénal fédéral a appliqué le principe de territorialité dans la procédure pénale fédérale, la compétence des autorités fédérales à agir sur l'ensemble du territoire national nécessitant des considérations particulières.
+Arrêt **2C_806/2012** du 12 juillet 2013 — Rumantsch Grischun comme langue d'enseignement
+Confirme la flexibilité dans l'organisation de l'éducation en langue romanche.
+Montre les limites des droits linguistiques individuels dans le système d'éducation publique.
 
-**CA.2023.8** (14.5.2023)
-Demande de récusation et langue de procédure. Application actuelle des principes relatifs à la langue de procédure dans la procédure d'appel de droit pénal fédéral.
-
-### Résumé de l'évolution jurisprudentielle
-
-La jurisprudence relative à l'art. 18 Cst. montre une évolution cohérente de la liberté de la langue originellement non écrite vers la garantie constitutionnelle explicite actuelle. Le Tribunal fédéral a établi les principes fondamentaux suivants :
-
-1. **Liberté active vs. passive de la langue** : distinction entre usage privé de la langue (protégé de manière étendue) et usage étatique de la langue (limité par le principe de territorialité)
-
-2. **Principe de territorialité** : limitation de la liberté de la langue par l'ordre linguistique local, particulièrement en droit de procédure
-
-3. **Langues d'enseignement** : aucun droit absolu à l'enseignement dans la langue maternelle ; liberté d'organisation étatique dans le respect du principe de territorialité
-
-4. **Protection des minorités** : protection des minorités linguistiques traditionnelles, mais pas de liberté de choix illimitée
-
-5. **Droits de procédure** : droits à la traduction dans les procédures pénales en cas de besoins effectifs des prévenus
-
-La jurisprudence récente confirme ces principes et les applique aux défis modernes tels que les cantons multilingues et les procédures pénales fédérales.
+Arrêt **1C_40/2015** du 18 septembre 2015 — Droits linguistiques dans l'administration
+Application actuelle de la liberté de la langue dans la procédure administrative.
+Confirme la gestion restrictive des droits à la traduction en dehors des langues officielles.

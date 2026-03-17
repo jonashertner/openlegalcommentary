@@ -1,70 +1,65 @@
 ## Giurisprudenza
 
-### Fondamenti e sviluppo della libertà linguistica
+### Principi della libertà linguistica
 
-**DTF 121 I 196** (10.5.1995)
-Principio di territorialità e lingua processuale nel procedimento penale. Il Tribunale federale ha stabilito i principi centrali della libertà linguistica e della sua limitazione attraverso il principio di territorialità secondo il diritto costituzionale cantonale. La libertà linguistica appartiene ai diritti di libertà non scritti della Costituzione federale e comprende la facoltà di usare la lingua madre.
+**DTF 139 I 229** del 5 dicembre 2013 — Rumantsch Grischun nella scuola
+Limiti della libertà linguistica nella determinazione della lingua scolastica.
+Il Tribunale federale ha precisato la portata dell'art. 18 Cost. in rapporto al principio di territorialità.
 
-> «Secondo la dottrina e la giurisprudenza, la libertà linguistica, vale a dire la facoltà di usare la lingua madre, appartiene ai diritti di libertà non scritti della Costituzione federale. Nella misura in cui la lingua madre è al tempo stesso una lingua nazionale della Confederazione, il suo uso è inoltre protetto dall'art. 116 cpv. 1 Cost.»
+> «La libertà linguistica (art. 18 Cost.) garantisce il diritto di usare una lingua di propria scelta, in particolare anche la lingua madre [...]. In quanto diritto fondamentale individuale, essa protegge l'uso sia degli idiomi romanci sia del Rumantsch Grischun [...]. In questo ambito privato della libertà linguistica – vale a dire quando si tratta della libertà dei singoli cittadini di scegliere quale lingua utilizzare e in quale lingua comunicare tra loro – lo Stato non deve immischiarsi.»
 
-**DTF 122 I 236** (12.6.1996)
-Libertà linguistica nel sistema scolastico e principio di territorialità. La sentenza ha precisato il rapporto tra libertà linguistica individuale e principi ordinatori statali. La libertà linguistica non obbliga i collettivi pubblici a offrire insegnamento scolastico nella loro lingua per le minoranze linguistiche di recente immigrazione.
+**DTF 122 I 236** del 15 luglio 1996 — Libertà linguistica e frequenza scolastica
+Rapporto tra libertà linguistica individuale e organizzazione scolastica statale.
+Orientativo per la delimitazione tra diritti individuali e prestazionali in ambito linguistico.
 
-> «La libertà linguistica non obbliga i collettivi pubblici a offrire alle minoranze linguistiche di recente immigrazione un insegnamento scolastico nella loro lingua.»
+> «La libertà linguistica non obbliga i collettivi pubblici a offrire un insegnamento scolastico nella lingua delle minoranze linguistiche di recente immigrazione [...]. Se tuttavia un altro comune è volontariamente disposto ad accogliere il bambino in una scuola francofona e i genitori si assumono le conseguenze finanziarie che ne derivano, costituisce una limitazione sproporzionata della libertà linguistica esigere la frequenza di una scuola germanofona.»
 
-### Dimensioni attiva e passiva della libertà linguistica
+**DTF 121 I 196** del 1995 — Lingua processuale nel diritto penale
+Giurisprudenza fondamentale sulla libertà linguistica e il principio di territorialità nei procedimenti giudiziari.
+Definisce i limiti del diritto all'uso della lingua madre davanti al tribunale.
 
-**DTF 139 I 229** (12.7.2013)
-Romancio grigione vs. idiomi retoromanici; sentenza pilota per la differenziazione della libertà linguistica attiva e passiva. Il Tribunale federale ha distinto tra il lato privato (attivo) e pubblico (passivo) della libertà linguistica. La libertà linguistica individuale garantisce il diritto di parlare sia il romancio grigione sia gli idiomi romanici, ma non fonda alcun diritto a determinate lingue d'insegnamento.
+> «Secondo dottrina e giurisprudenza, la libertà linguistica, vale a dire la facoltà di usare la lingua madre, appartiene ai diritti di libertà non scritti della Costituzione federale. Nella misura in cui la lingua madre è al contempo una lingua nazionale della Confederazione, il suo uso è inoltre protetto dalla garanzia istituzionale sancita nell'art. 116 cpv. 1 Cost.»
 
-> «La libertà linguistica (art. 18 Cost.) garantisce il diritto di usare una lingua a propria scelta, in particolare anche la lingua madre [...]. In questo ambito privato della libertà linguistica - vale a dire quando si tratta della libertà delle singole cittadine e dei singoli cittadini di scegliere quale lingua usare e in quale comunicare tra loro - lo Stato non deve immischiarsi.»
+### Limiti della libertà linguistica
 
-### Lingua processuale e obblighi di traduzione
+**DTF 143 IV 117** del 13 aprile 2017 — Lingua processuale e traduzione
+Giurisprudenza attuale sulla validità non assoluta della libertà linguistica nei rapporti con le autorità.
+Concretizza i doveri delle autorità in caso di istanze in lingua straniera.
 
-**DTF 143 IV 117** (13.4.2017)
-Lingua processuale nel processo penale e diritto alla traduzione. Il Tribunale federale ha chiarito che la libertà linguistica secondo l'art. 18 Cost. non vale in modo assoluto. In linea di principio non esiste il diritto di comunicare con le autorità in una lingua diversa da quella processuale.
+> «La libertà linguistica secondo l'art. 18 Cost. non vale in modo assoluto. In linea di principio non sussiste alcun diritto di comunicare con le autorità in una lingua diversa da quella processuale (art. 67 CPP). Per evitare un formalismo eccessivo, l'autorità penale deve, nel caso di un'istanza presentata entro il termine ma non redatta nella lingua processuale, concedere un termine supplementare per la traduzione, sempre che non si accontenti del documento o non lo faccia tradurre essa stessa.»
 
-> «La libertà linguistica secondo l'art. 18 Cost. non vale in modo assoluto. In linea di principio non esiste il diritto di comunicare con le autorità in una lingua diversa da quella processuale (art. 67 CPP).»
+**DTF 136 I 149** del 22 ottobre 2009 — Lingua ufficiale e processuale
+Libertà linguistica nel procedimento amministrativo del Cantone bilingue di Friburgo.
+Conferma la limitazione della libertà linguistica attraverso il principio di territorialità.
 
-**DTF 136 I 149** (18.1.2010)
-Lingue ufficiali e lingue processuali nel Cantone bilingue di Friburgo. La sentenza ha trattato il significato delle regolamentazioni linguistiche cantonali per l'esercizio della libertà linguistica. L'art. 17 cpv. 2 della Costituzione del Cantone di Friburgo permette ai ricorrenti di rivolgersi ai tribunali nella lingua ufficiale di loro scelta.
+> «La libertà linguistica è limitata dal principio di territorialità: il singolo non ha il diritto di comunicare con le autorità in una lingua qualsiasi, ma deve – fatte salve pretese particolari – utilizzare la rispettiva lingua ufficiale.»
 
-> «L'art. 17 cpv. 2 della Costituzione del Cantone di Friburgo permette al ricorrente di rivolgersi al Tribunale cantonale nella lingua ufficiale di sua scelta - francese o tedesco. Ciò vale indipendentemente dalla lingua processuale.»
+### Lingue minoritarie e principio di territorialità
 
-### Libertà linguistica e principio di territorialità
+**DTF 100 Ia 462** del 1974 — Protezione fondamentale delle minoranze
+Giurisprudenza fondamentale iniziale sulla protezione delle minoranze linguistiche.
+Fonda il principio di territorialità come strumento di protezione delle lingue minoritarie.
 
-**Sentenza 1S.6/2004** (11.1.2005)
-Processo penale federale e lingua processuale. Il Tribunale federale ha confermato la validità del principio di territorialità anche nel processo penale federale, mentre la libertà linguistica viene limitata da regolamentazioni di diritto processuale.
+> «Il principio di territorialità [...] vieta anche lo spostamento consapevole di confini linguistici tradizionali o l'oppressione di gruppi di minoranze linguistiche tradizionali [...]. Questi principi valgono in particolare per la protezione delle minoranze linguistiche tradizionali come l'italiano e il romancio.»
 
-**Sentenza 2C_806/2012** (12.7.2013)
-Complementare al DTF 139 I 229: Libertà linguistica nel sistema formativo. La decisione ha precisato i principi per la determinazione statale delle lingue scolastiche e la loro compatibilità con l'art. 18 Cost.
+### Lingua scolastica e sistema educativo
 
-### Lingue minoritarie e obblighi internazionali
+**DTF 125 I 347** del 9 settembre 1999 — Neutralità confessionale della scuola
+Libertà linguistica nel contesto del sistema scolastico confessionalmente neutro.
+Mostra la ponderazione tra diversi diritti fondamentali in ambito educativo.
 
-La giurisprudenza relativa all'art. 18 Cost. considera sistematicamente la Carta europea delle lingue regionali o minoritarie. Nel **DTF 139 I 229** il Tribunale federale ha stabilito che la Carta contiene in larga misura disposizioni programmatiche e si rivolge in primo luogo al legislatore. Gli obblighi della Carta sono sufficientemente rispettati se il retoromanico viene mantenuto come lingua d'insegnamento.
+> «Nelle regioni bi- o plurilingui, dalla libertà linguistica può derivare un diritto ad essere istruiti in una delle diverse lingue tradizionali, purché ciò non conduca a un onere sproporzionato per il collettivo pubblico.»
 
-### Tribunale penale federale
+### Sviluppi recenti
 
-La giurisprudenza del Tribunale penale federale precisa i principi relativi alla lingua processuale:
+Sentenza **1B_70/2009** del 7 aprile 2009 — Libertà linguistica nel procedimento penale
+Precisazione dei diritti di traduzione nel procedimento penale.
+Concretizza l'equilibrio tra libertà linguistica ed economia processuale.
 
-**BB.2005.114** (13.2.2006)
-Ricorso contro la lingua processuale. Il Tribunale penale federale ha applicato il principio di territorialità nel processo penale federale, mentre la competenza delle autorità federali per l'attività a livello nazionale richiede considerazioni particolari.
+Sentenza **2C_806/2012** del 12 luglio 2013 — Rumantsch Grischun come lingua scolastica
+Conferma la flessibilità nell'organizzazione dell'istruzione in lingua romancia.
+Mostra i limiti dei diritti linguistici individuali nel sistema educativo pubblico.
 
-**CA.2023.8** (14.5.2023)
-Domanda di ricusazione e lingua processuale. Applicazione attuale dei principi relativi alla lingua processuale nel procedimento d'appello di diritto penale federale.
-
-### Riassunto dello sviluppo giurisprudenziale
-
-La giurisprudenza relativa all'art. 18 Cost. mostra uno sviluppo coerente dalla libertà linguistica originariamente non scritta all'odierna garanzia costituzionale esplicita. Il Tribunale federale ha stabilito i seguenti principi fondamentali:
-
-1. **Libertà linguistica attiva vs. passiva**: Distinzione tra uso privato della lingua (protetto in modo completo) e uso statale della lingua (limitato dal principio di territorialità)
-
-2. **Principio di territorialità**: Limitazione della libertà linguistica attraverso l'ordinamento linguistico locale, specialmente nel diritto processuale
-
-3. **Lingue scolastiche**: Nessun diritto assoluto all'insegnamento nella lingua madre; libertà di organizzazione statale nel rispetto del principio di territorialità
-
-4. **Protezione delle minoranze**: Protezione delle minoranze linguistiche tradizionali, ma nessuna libertà di scelta illimitata
-
-5. **Diritti processuali**: Diritti alla traduzione nei procedimenti penali in caso di effettivi bisogni degli accusati
-
-La giurisprudenza più recente conferma questi principi e li applica alle sfide moderne come i cantoni plurilingui e i procedimenti penali federali.
+Sentenza **1C_40/2015** del 18 settembre 2015 — Diritti linguistici nell'amministrazione
+Applicazione attuale della libertà linguistica nel procedimento amministrativo.
+Conferma la gestione restrittiva dei diritti di traduzione al di fuori delle lingue ufficiali.
