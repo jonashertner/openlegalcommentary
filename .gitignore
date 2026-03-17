@@ -10,6 +10,7 @@ node_modules/
 .DS_Store
 # content/ is tracked — generated commentary is committed
 bootstrap_state.json
+state-*.json
 # Site build output
 site/dist/
 site/node_modules/
