@@ -1,97 +1,93 @@
 # Art. 37 BV — Rechtsprechung
 
-## Schweizer Bürgerrecht (Abs. 1)
+## I. Doppeltes Bürgerrecht (Abs. 1)
 
-### Definition und Begriffsinhalt
+### 1. Grundlegendes Erfordernis
 
-**BGE 148 I 271** vom 8. März 2022
-Die Schweizer Staatsangehörigkeit gemäss Art. 37 Abs. 1 BV setzt das Bürgerrecht einer Gemeinde und das Bürgerrecht des Kantons voraus.
-Die Bedeutung des Schweizer Bürgerrechts im Kontext der Einbürgerungsvoraussetzungen ist von zentraler verfassungsrechtlicher Bedeutung.
+**BGE 148 I 271 E. 2** (8. März 2022)
+Das Bundesgericht bestätigte das verfassungsrechtliche Erfordernis des doppelten Bürgerrechts für die Schweizer Staatsbürgerschaft und wendete Art. 37 Abs. 1 BV bei der Prüfung von Einbürgerungsvoraussetzungen an. Das Urteil behandelt die sprachlichen Anforderungen für die ordentliche Einbürgerung.
 
-> «Die Staatsangehörigkeit bestimmt sich nach Art. 37 Abs. 1 BV, wonach Schweizerbürgerin oder Schweizerbürger ist, wer das Bürgerrecht einer Gemeinde und das Bürgerrecht des Kantons besitzt.»
+> «Gemäss Art. 37 Abs. 1 BV ist Schweizerbürgerin oder Schweizerbürger, wer das Bürgerrecht einer Gemeinde und das Bürgerrecht des Kantons besitzt.»
 
-### Sprachanforderungen bei der Einbürgerung
+### 2. Föderalistische Kompetenzausscheidung bei Einbürgerungen
 
-**BGE 148 I 271** vom 8. März 2022
-Verfassungswidrigkeit der Nichtanerkennung der Maturanote für die Lokalsprache als ausreichenden Sprachnachweis bei der ordentlichen Einbürgerung.
-Grundsätzliche Zulässigkeit des Erfordernisses der Kenntnisse der Lokalsprache in mehrsprachigen Kantonen.
+**BGE 146 I 83** (13. November 2019)
+Das Bundesgericht prüfte die Autonomie der basel-städtischen Bürgergemeinden bei ordentlichen Einbürgerungen und die föderalistische Kompetenzausscheidung. Die kantonale Vermutungsregel für Grundkenntnisse durch Schulbesuch wurde als verfassungskonform beurteilt.
 
-> «Das Erfordernis der Kenntnisse der Lokalsprache in einem mehrsprachigen Kanton ist gemäss Bundes- und Kantonsverfassung zulässig, jedoch darf eine genügende Maturanote nicht als unzureichend erachtet werden.»
+> «Für die ordentliche Einbürgerung müssen sowohl das Gemeindebürgerrecht als auch das Kantonsbürgerrecht erworben werden, was dem Prinzip des doppelten Bürgerrechts nach Art. 37 Abs. 1 BV entspricht.»
 
-### Autonomie der Bürgergemeinden bei der Einbürgerung
+**BGE 146 I 49** (18. Dezember 2019) 
+Das Bundesgericht präzisierte die bundesstaatliche Kompetenzaufteilung bei der ordentlichen Einbürgerung. Auch ohne Rechtsanspruch auf Einbürgerung wäre es willkürlich und rechtsungleich, einen Bewerber abzulehnen, der alle Voraussetzungen erfüllt.
 
-**BGE 146 I 83** vom 13. November 2019
-Umfang der Autonomie der basel-städtischen Bürgergemeinden im Bereich der ordentlichen Einbürgerung.
-Prüfung einer kantonalen Vermutungsregel bei der Bewertung von Einbürgerungskriterien.
+### 3. Sprachliche Anforderungen und verfassungskonforme Anwendung
 
-> «Die Autonomie der Bürgergemeinden im Einbürgerungsverfahren findet ihre Grenzen in den übergeordneten Verfassungsgrundsätzen und kann nicht durch pauschale Vermutungsregeln umgangen werden.»
+**BGE 148 I 271** (8. März 2022)
+Bei einem mehrsprachigen Kanton ist das Erfordernis der Kenntnisse der Lokalsprache grundsätzlich zulässig. Die Nichtanerkennung einer genügenden Maturanote für die Lokalsprache als ausreichender Sprachnachweis war jedoch verfassungswidrig.
 
-**BGE 146 I 49** vom 18. Dezember 2019
-Auch ohne Anspruch auf Einbürgerung wäre es willkürlich und rechtsungleich, einen Bewerber abzulehnen, der alle Einbürgerungsvoraussetzungen erfüllt.
-Bundesstaatliche Kompetenzaufteilung bei der ordentlichen Einbürgerung.
+> «Die Verfassungswidrigkeit der Nichtanerkennung der genügenden Maturanote für die Lokalsprache als ausreichenden Sprachnachweis verletzt das Verbot des überspitzten Formalismus nach Art. 29 Abs. 1 BV.»
 
-> «Auch ohne Anspruch auf Einbürgerung ist es willkürlich und rechtsungleich, einen Bewerber, der alle Einbürgerungsvoraussetzungen erfüllt, nicht einzubürgern.»
+**BGE 149 I 91** (19. Dezember 2022)
+Das Bundesgericht bestätigte seine Zuständigkeit für Beschwerden gegen Entscheide des Bundesverwaltungsgerichts über eidgenössische Einbürgerungsbewilligungen. Die Begründungspflicht nach Art. 29 Abs. 2 BV gilt auch für Ablehnungen von Einbürgerungsgesuchen.
 
-## Diskriminierungsverbot (Abs. 2)
+### 4. Urnenabstimmungen über Einbürgerungen
 
-### Ausnahmetatbestand für Bürgergemeinden und Korporationen
+**BGE 129 I 232** (9. Juli 2003)
+Das Bundesgericht erklärte eine Initiative für verfassungswidrig, die Einbürgerungsgesuche obligatorischen Urnenabstimmungen unterstellen wollte. Solche Verfahren können die verfassungsrechtliche Begründungspflicht nicht erfüllen und verletzen das Diskriminierungsverbot.
 
-**BGE 132 I 68** vom 3. Februar 2006
-Art. 37 Abs. 2 BV ist nicht massgebend für die Weitergabe des Korporationsbürgerrechts an Nachkommen.
-Die Ausnahmeregelung erfasst nur das Verhältnis von Mitgliedern zu Dritten, nicht Ungleichbehandlungen innerhalb der Korporation.
+> «Ablehnende Einbürgerungsentscheide unterliegen der Begründungspflicht gemäss Art. 29 Abs. 2 BV (Anspruch auf rechtliches Gehör) i.V.m. Art. 8 Abs. 2 BV (Diskriminierungsverbot). Bei der Urnenabstimmung ist eine den verfassungsrechtlichen Anforderungen genügende Begründung nicht möglich.»
 
-> «Für die Weitergabe des Korporationsbürgerrechts an einen Nachkommen ist Art. 37 Abs. 2 BV, welcher erlaubt, dass Korporationen ihre eigenen Mitglieder in bestimmten Bereichen gegenüber Dritten bevorzugen, nicht massgebend.»
+## II. Verbot der Bevorzugung oder Benachteiligung (Abs. 2 Satz 1)
 
-### Geschlechtsdiskriminierung in Korporationen
+### 1. Allgemeines Gleichbehandlungsgebot
 
-**BGE 132 I 68** vom 3. Februar 2006
-Eine öffentlich-rechtliche Korporation verletzt Art. 8 BV, wenn sie die Weitergabe der Mitgliedschaft durch verheiratete Korporationsbürgerinnen und ledige Korporationsbürger ausschliesst.
-Verfassungswidrigkeit geschlechtsdiskriminierender Statutenbestimmungen.
+**BGE 132 I 68 E. 3.1** (3. Februar 2006)
+Das Bundesgericht präzisierte den Inhalt von Art. 37 Abs. 2 BV: Kantone und Gemeinden dürfen niedergelassene Bürger aus anderen Kantonen und Gemeinden nicht aufgrund ihres Bürgerrechts anders behandeln als die eigenen. Eine Ungleichbehandlung gestützt auf den Wohnsitz oder andere mit Art. 8 BV vereinbare Kriterien ist zulässig.
 
-> «Eine öffentlich-rechtliche Korporation, welche von Bundesrechts wegen nicht gezwungen ist, die Bestimmungen des Namens- und Bürgerrechts anzuwenden, verletzt Art. 8 BV, wenn sie die Weitergabe der Mitgliedschaft durch verheiratete Korporationsbürgerinnen und ledige Korporationsbürger ausschliesst.»
+> «Gemäss Art. 37 Abs. 2 BV darf niemand wegen seiner Bürgerrechte bevorzugt oder benachteiligt werden. Die Kantone und Gemeinden dürfen in ihrem Gebiet niedergelassene Bürger aus andern Kantonen und Gemeinden nicht aufgrund ihres Bürgerrechts anders behandeln als die eigenen.»
 
-**BGE 134 I 257** vom 14. August 2008
-Verfassungskonforme Weitergabe des Korporationsbürgerrechts an im Jahr 1912 geborene Tochter einer verheirateten Korporationsbürgerin.
-Keine Diskriminierung bei zeitlich begrenzter Übergangsregelung.
+## III. Ausnahme für Bürgergemeinden und Korporationen (Abs. 2 Satz 2)
 
-### Allgemeines Diskriminierungsverbot
+### 1. Tragweite der Ausnahmeregelung
 
-**BGE 129 I 392** vom 21. November 2003
-Initiative "SchweizerInnen zuerst!" verletzt das Diskriminierungsverbot, da sie die pauschale Bevorzugung von Schweizern gegenüber Ausländern bezweckt.
-Art. 37 Abs. 2 BV schützt nicht vor sachlich unbegründeter Benachteiligung.
+**BGE 132 I 68 E. 3** (3. Februar 2006) — Leitentscheid
+Das Bundesgericht klärte die Anwendung der Ausnahmeregelung für Korporationen und stellte fest, dass Art. 37 Abs. 2 Satz 2 BV nur das Verhältnis zu Dritten regelt, nicht aber interne Diskriminierungen innerhalb der Korporation rechtfertigt.
 
-> «Die Initiative bezweckt die Bevorzugung der Schweizer und damit die Benachteiligung der Ausländer auch ohne sachliche Gründe, die eine Ungleichbehandlung erlauben würden. Sie verletzt das Gebot der Rechtsgleichheit und das Diskriminierungsverbot der Bundesverfassung.»
+> «Art. 37 Abs. 2 BV erlaubt, dass Korporationen ihre eigenen Mitglieder in bestimmten Bereichen gegenüber Dritten bevorzugen. Für die Weitergabe des Korporationsbürgerrechts an einen Nachkommen ist diese Bestimmung jedoch nicht massgebend.»
 
-## Einbürgerungsverfahren
+Das Urteil betraf eine Genosssame, die verheirateten Genossenbürgerinnen die Weitergabe der Mitgliedschaft an ihre Kinder verweigerte. Dies wurde als verfassungswidrige Geschlechterdiskriminierung qualifiziert.
 
-### Nichtigerklärung von Einbürgerungen
+> «Eine öffentlichrechtliche Korporation verletzt Art. 8 BV, wenn sie die Weitergabe der Mitgliedschaft durch verheiratete Korporationsbürgerinnen und ledige Korporationsbürger ausschliesst. Die Ausnahmeregelung von Art. 37 Abs. 2 BV deckt diese Ungleichbehandlung innerhalb der Korporation nicht ab.»
 
-**VB.2008.00408** des Verwaltungsgerichts Zürich vom 5. November 2008
-Nichtigerklärung einer Einbürgerung eines Jugendlichen zwischen 16 und 25 Jahren aufgrund nachträglich festgestellter Falschangaben.
-Zuständigkeit des Verwaltungsgerichts auch für die Nichtigerklärung des bereits erteilten Gemeindebürgerrechts.
+### 2. Autonomie der Bürgergemeinden bei Einbürgerungen
 
-### Wirtschaftliche Voraussetzungen
+**BGE 146 I 83** (13. November 2019)
+Das Bundesgericht bestätigte die Autonomie der basel-städtischen Bürgergemeinden im Bereich der ordentlichen Einbürgerung. Eine kantonale Vermutungsregel bei der Prüfung der Grundkenntnisse verletzt diese Autonomie grundsätzlich nicht.
 
-**VB.2013.00494** des Verwaltungsgerichts Zürich vom 20. November 2013
-Verweigerung der Einbürgerung wegen Nichteinhaltung einer kommunalen Karenzfrist nach Sozialhilfebezug der Eltern ohne Prüfung der gegenwärtigen wirtschaftlichen Verhältnisse ist unzulässig.
-Prüfung der wirtschaftlichen Selbsterhaltungsfähigkeit bei minderjährigen Einbürgerungsbewerbern.
+> «Die Ausnahmeregelung von Art. 37 Abs. 2 BV gewährleistet den Bürgergemeinden und Korporationen das Recht, ihre eigenen Mitglieder in bestimmten Bereichen gegenüber Dritten zu bevorzugen.»
 
-### Rechtsmissbrauch bei Einbürgerungsverfahren
+### 3. Grenzen der Korporationsautonomie
 
-**BGE 149 I 91** vom 19. Dezember 2022
-Beschwerde an das Bundesgericht gegen Entscheide des Bundesverwaltungsgerichts über die Verweigerung der eidgenössischen Einbürgerungsbewilligung.
-Prüfung der Verweigerungsgründe und Verhältnismässigkeit der Sanktionen.
+**BGE 132 I 68 E. 4** (3. Februar 2006)
+Das Bundesgericht stellte klar, dass öffentlich-rechtliche Korporationen trotz ihrer Autonomie verfassungsrechtliche Schranken beachten müssen. Eine Anknüpfung an geschlechtsdiskriminierende bundesrechtliche Regelungen ist nicht zwingend.
 
-## Historische Entwicklung
+> «Das Bundesrecht umschreibt die Voraussetzungen der Mitgliedschaft in der Genosssame nicht. Damit bestand für die Korporation keine Notwendigkeit, auf die geschlechtsdiskriminierenden Regelungen zurückzugreifen.»
 
-### Frühere Rechtsprechung zu Verkehrsbeschränkungen
+## IV. Kantonale Gesetzgebung (Abs. 2 Satz 3)
 
-**BGE 122 I 279** vom 1. Januar 1996
-Art. 37 Abs. 2 BV (alte Fassung) gewährleistet die Gebührenfreiheit nur für den Verkehr im Rahmen des Gemeingebrauchs und der Zweckbestimmung öffentlicher Flächen.
-Zulässigkeit von Parkierungsgebühren trotz Verkehrsfreiheit.
+### 1. Vorbehalt der kantonalen Regelung
 
-**BGE 89 I 533** vom 1. Januar 1963
-Tragweite der damaligen Bestimmung über die Gebührenfreiheit für den Verkehr auf öffentlichen Strassen.
-Abgrenzung zwischen zulässigen Gebühren und verfassungswidriger Beschränkung der Verkehrsfreiheit.
+**BGE 132 I 68** (3. Februar 2006)
+Das Bundesgericht bestätigte, dass die kantonale Gesetzgebung die Ausnahmeregelung für Bürgergemeinden und Korporationen einschränken kann. Der Kanton Schwyz kannte keine entsprechende entgegenstehende Regelung.
 
-> «Für den Verkehr auf Strassen, die im Rahmen ihrer Zweckbestimmung der Öffentlichkeit zugänglich sind, dürfen keine Gebühren erhoben werden.»
+> «Ausgenommen sind Vorschriften über die politischen Rechte in Bürgergemeinden und Korporationen sowie über die Beteiligung an deren Vermögen, es sei denn, die kantonale Gesetzgebung sehe etwas anderes vor.»
+
+**BGE 146 I 83** (13. November 2019)
+Das kantonale Bürgerrechtsgesetz von Basel-Stadt regelte die Kompetenzen zwischen Kanton und Bürgergemeinden bei Einbürgerungen und wurde vom Bundesgericht als verfassungskonform beurteilt, obwohl es die Autonomie der Bürgergemeinden teilweise einschränkte.
+
+## V. Nichtigerklärung von Einbürgerungen
+
+**VB.2008.00408** (5. November 2008) — Verwaltungsgericht Zürich
+Die Nichtigerklärung einer Einbürgerung ist möglich, wenn diese unrechtmässig erteilt wurde. Das Gericht ist zuständig, wenn auch die Nichtigerklärung des Gemeindebürgerrechts in Frage steht, auf das grundsätzlich ein Anspruch bestand.
+
+**VB.2013.00494** (20. November 2013) — Verwaltungsgericht Zürich
+Bei minderjährigen Beschwerdeführern mit Einbürgerungsanspruch ist die Verweigerung der Einbürgerung wegen einer kommunalen Karenzfrist nach früherem Sozialhilfebezug der Eltern ohne Prüfung der gegenwärtigen Verhältnisse unzulässig.
