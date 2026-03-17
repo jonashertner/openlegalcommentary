@@ -1,85 +1,115 @@
 ## Jurisprudence
 
-La jurisprudence relative à l'art. 22 Cst. se divise thématiquement en questions de principe concernant la liberté de réunion, questions d'autorisation, répercussion des coûts, mesures de police et restrictions récentes liées au COVID-19.
+### Fondements et champ de protection
 
-### Principes fondamentaux de la liberté de réunion
+**ATF 127 I 164** (20.9.2001)  
+Grands principes de la liberté de réunion lors de manifestations sur le domaine public.  
+Le Tribunal fédéral a précisé la dogmatique fondamentale relative à la liberté de réunion dans le contexte du refus d'une manifestation au WEF 2001 à Davos.
 
-**ATF 143 I 147** du 18.1.2017  
-Imputation de coûts lors de manifestations sur le domaine public  
-Arrêt fondamental sur la portée de l'art. 22 Cst. en matière de répercussion des coûts d'interventions policières.
+> « La liberté d'opinion et de réunion acquièrent, dans le contexte des manifestations, un caractère qui va au-delà des droits de défense purs et présentent un certain élément de prestation. Les droits fondamentaux concernés exigent, dans certaines limites, que le domaine public soit mis à disposition. »
 
-> « La liberté d'opinion et de réunion reçoivent, dans le contexte des manifestations, un caractère dépassant les simples droits de défense et présentent un certain élément de prestation. Les droits fondamentaux concernés exigent, dans certaines limites, que le domaine public soit mis à disposition pour les manifestations. »
+**ATF 143 I 147** (1.1.2017)  
+Liberté d'opinion et de réunion lors de l'imposition de coûts pour des manifestations.  
+Précision du champ de protection et de la notion d'« effet paralysant » (chilling effect) pour les droits fondamentaux idéels.
 
-**ATF 132 I 256** du 1.8.2006  
-Refus d'une manifestation le 1er août 2006 à Brunnen  
-Présentation systématique des principes de la liberté de réunion pour les manifestations sur le domaine public.
+> « La liberté d'opinion et de réunion peuvent être entravées non seulement par des atteintes directes telles que des interdictions et des sanctions. Des atteintes indirectes à ces droits fondamentaux sont également envisageables en ce sens que la personne concernée n'ose plus exercer à nouveau le droit fondamental en raison d'une réaction de l'autorité. »
 
-> « Le Tribunal fédéral a résumé les principes fondamentaux de la liberté d'opinion et de réunion concernant les manifestations sur le domaine public dans l'ATF 127 I 164 consid. 5. L'art. 16 Cst. garantit expressément la liberté d'opinion et accorde à chaque personne le droit de former librement son opinion et de l'exprimer et de la répandre sans entrave. »
+### Obligation d'autorisation et pesée des intérêts
 
-**ATF 127 I 164** du 1.1.2001  
-Refus d'une manifestation à l'occasion du Forum économique mondial 2001 à Davos  
-Présentation classique de l'obligation d'autorisation et de la pesée des intérêts lors de manifestations.
+**ATF 132 I 256** (1.8.2006)  
+Refus d'une manifestation le 1er août 2006 à Brunnen.  
+Principes des obligations de protection des autorités face aux contre-manifestations menaçantes.
 
-> « Les différents intérêts doivent être pesés et pondérés les uns contre les autres selon des critères objectifs. Un aménagement satisfaisant au principe de proportionnalité peut exiger l'ordonnance de charges et de conditions ainsi qu'une collaboration proportionnée correspondante des organisateurs. »
+> « Les autorités sont tenues, au-delà de la mise à disposition du domaine public, de veiller par des mesures appropriées - notamment en accordant une protection policière suffisante - à ce que les manifestations publiques puissent effectivement avoir lieu et ne soient pas perturbées ou empêchées par des milieux adverses. »
 
-### Mesures COVID-19 et liberté de réunion
+**ATF 142 I 121** (20.4.2016)  
+Rétention policière d'un participant potentiel d'une manifestation non autorisée.  
+Proportionnalité des mesures préventives de police lors de manifestations.
 
-**ATF 148 I 33** du 3.9.2021  
-Limitation du nombre de participants aux manifestations à 15 personnes pendant le COVID-19  
-Arrêt déterminant sur la proportionnalité des mesures de pandémie lors de manifestations politiques.
+> « La rétention du recourant d'environ deux heures et demie dans le cadre d'un encerclement policier ainsi que la rétention subséquente d'un peu moins de trois heures et demie pour vérification de police de sûreté constituaient, considérées globalement, une privation de liberté qui était disproportionnée. »
 
-> « La limitation des participants au nombre de 15 personnes valable au moment déterminant selon le droit fédéral pour les manifestations privées restreint la liberté de réunion concernant les manifestations de telle sorte qu'elle est pratiquement vidée de sa substance. »
+### Prise en charge des coûts et concept de perturbateur
 
-**ATF 148 I 19** du 3.9.2021  
-Règlement COVID-19 du canton d'Uri avec limitation à 300 personnes  
-Jurisprudence complémentaire sur les mesures COVID-19 avec limitation moins restrictive du nombre de participants.
+**ATF 143 I 147** (1.1.2017)  
+Obligation de supporter les coûts lors de manifestations avec violence selon la loi de police lucernoise.  
+Principes relatifs à la prise en charge des coûts par les organisateurs lors de manifestations violentes.
 
-**ATF 147 I 450** du 8.7.2021  
-Interdiction de manifestations du canton de Schwyz pour endiguer la pandémie de COVID-19  
-Examen de la proportionnalité des mesures COVID-19 au regard de la marge d'appréciation des autorités.
+> « Les organisateurs de manifestations en tant que responsables en raison du but poursuivi peuvent en principe être recherchés comme perturbateurs sans violation de l'art. 22 Cst., pour autant que l'obligation de supporter les coûts soit conçue de manière proportionnée. »
 
-### Mesures de police et procédure pénale
+### Restrictions liées à la pandémie
 
-**ATF 147 I 372** du 22.4.2021  
-Profil ADN et saisie anthropométrique lors d'une manifestation pacifique  
-Jurisprudence importante sur la protection de la liberté de réunion contre les interventions de procédure pénale disproportionnées.
+**ATF 148 I 33** (3.9.2021)  
+Limitation du nombre de participants aux manifestations à 15 personnes en raison du Covid-19.  
+Arrêt de référence sur la proportionnalité des mesures pandémiques lors de manifestations.
 
-> « Une action de protestation pacifique est sous la protection de la liberté de réunion et d'expression ; le profil ADN et la saisie anthropométrique s'avèrent disproportionnés. »
+> « L'obligation d'autorisation de principe pour les manifestations sur le domaine public permet des solutions différenciées et l'ordonnance de charges limitant les risques dans le cas particulier. Dans cette perspective et eu égard à la haute signification démocratique des manifestations, la limitation du nombre de participants à 15 personnes paraît disproportionnée. »
 
-**ATF 142 I 121** du 20.4.2016  
-Rétention policière d'un participant potentiel à une manifestation non autorisée  
-Limites des mesures préventives policières à l'égard des participants à des manifestations.
+**ATF 148 I 19** (3.9.2021)  
+Limitation à 300 personnes en raison du Covid-19 dans le canton d'Uri.  
+Confirmation du statut constitutionnel particulier des manifestations même en temps de pandémie.
 
-**ATF 147 I 103** du 29.4.2020  
-Caractère disproportionné de la combinaison de mesures d'éloignement et d'interdiction d'accès avec menace pénale  
-Protection contre les réactions policières excessives à la participation à des manifestations.
+> « La limitation du nombre de participants aux manifestations politiques et de la société civile à 300 personnes est proportionnée eu égard à la marge d'appréciation qui revient au Conseil d'État et à la situation épidémiologique concrète. »
 
-### Principe du perturbateur et répercussion des coûts
+**ATF 147 I 450** (8.7.2021)  
+Interdiction de manifestations du canton de Schwyz pour endiguer la pandémie de Covid-19.  
+Proportionnalité des interdictions générales de manifestations pendant la pandémie.
 
-**ATF 134 IV 216** du 3.4.2008  
-Droit de grève et liberté de réunion lors de blocage d'autoroute  
-Arrêt de principe sur les limites de la liberté de réunion en cas d'exercice de violence.
+> « L'interdiction de manifestations du canton de Schwyz s'avère proportionnée eu égard à la marge d'appréciation qui revient au Conseil d'État lors de l'appréciation de la situation épidémiologique. »
 
-**ATF 137 I 31** du 13.10.2010  
-Concordat sur les mesures contre la violence lors de manifestations sportives  
-Application du principe du perturbateur aux organisateurs en cas d'émeutes.
+### Aspects de droit de procédure pénale
 
-### Éloignement et interdiction d'accès
+**ATF 147 I 372** (22.4.2021)  
+Profil ADN et saisie anthropométrique lors de participation pacifique à une manifestation.  
+Protection de la liberté de réunion contre les atteintes disproportionnées de procédure pénale.
 
-**ATF 132 I 49** du 25.1.2006  
-Ordonnances d'éloignement et d'interdiction d'accès en rapport avec la liberté de réunion  
-Considérations de principe sur les mesures policières d'interdiction d'accès et leur proportionnalité.
+> « Une action de protestation pacifique est protégée par la liberté de réunion et d'expression ; le profil ADN et la saisie anthropométrique s'avèrent disproportionnés lorsqu'il n'existe pas d'indices importants et concrets pour d'autres infractions. »
 
-### Manifestations sportives et liberté de réunion
+**ATF 134 IV 216** (3.4.2008)  
+Blocage d'autoroute dans le cadre d'une grève et l'infraction de contrainte.  
+Limites entre manifestation autorisée et contrainte punissable.
 
-**ATF 140 I 2** du 1.1.2014  
-Concordat sur les mesures contre la violence lors de manifestations sportives  
-Contrôle abstrait de normes sur les mesures de droit de police lors de manifestations sportives en rapport avec la liberté de réunion.
+> « Le droit de grève et la liberté de réunion ne justifient pas toute entrave au trafic. Un blocage du trafic sur une autoroute dans le cadre d'une grève peut réaliser les éléments constitutifs de la contrainte. »
+
+### Expulsions et ordonnances d'éloignement
+
+**ATF 132 I 49** (25.1.2006)  
+Ordonnances d'expulsion et d'éloignement avant des manifestations sportives.  
+Rapport entre mesures préventives de police et liberté de réunion.
+
+> « D'une invocation autonome de la dignité humaine, les personnes concernées ne peuvent rien dériver en leur faveur ; elles peuvent se prévaloir de la liberté de réunion, de la liberté personnelle, de l'interdiction de la discrimination et de l'interdiction de l'arbitraire. »
+
+**ATF 147 I 103** (29.4.2020)  
+Caractère disproportionné de la liaison automatique des mesures d'expulsion avec la menace de peine.  
+Protection de la liberté de réunion contre les mesures préventives à caractère pénal.
+
+> « La liaison automatique entre les mesures d'expulsion et d'éloignement avec la menace de peine selon l'art. 292 CP s'avère être une atteinte disproportionnée à la liberté de réunion. »
+
+### Concordat sur les hooligans et manifestations sportives
+
+**ATF 137 I 31** (13.10.2010)  
+Concordat sur les mesures contre la violence lors de manifestations sportives.  
+Compatibilité des mesures préventives avec la liberté de réunion.
+
+> « Les mesures prévues dans le concordat (interdiction de périmètre, obligation de se présenter et détention préventive de police) sont de nature policière et constituent des atteintes à la liberté de réunion qui sont toutefois proportionnées dans les circonstances données. »
+
+**ATF 140 I 2** (1.1.2014)  
+Contrôle abstrait des normes concernant le concordat sur les hooligans.  
+Constitutionnalité des mesures préventives contre la violence lors d'événements sportifs.
+
+> « Les dispositions du concordat sur les mesures contre la violence à l'occasion de manifestations sportives résistent à l'examen de la liberté de réunion, pour autant qu'elles soient conçues de manière proportionnée. »
 
 ### Développements récents
 
-**Arrêt 6B_236/2023** du 29.8.2025  
-Liberté d'expression et de réunion lors de participation à une manifestation non autorisée  
-Jurisprudence actuelle sur les conséquences pénales de la participation à des manifestations non autorisées.
+**ATF 151 I 257** (8.10.2024)  
+Manifestation de marche au WEF sur un itinéraire alternatif au lieu de la route cantonale.  
+Proportionnalité des restrictions d'itinéraire et leur impact sur l'effet d'appel.
 
-La jurisprudence montre une évolution continue d'une conception principalement défensive de la liberté de réunion vers un droit fondamental à caractère de prestation. Particulièrement pendant la pandémie de COVID-19, le Tribunal fédéral a souligné l'importance démocratique élevée des manifestations et a rejeté les restrictions disproportionnées. L'« effet dissuasif » est utilisé comme critère important lors de l'appréciation d'atteintes indirectes aux droits fondamentaux.
+> « L'atteinte à la liberté d'opinion et de réunion liée au déplacement de l'itinéraire s'avère disproportionnée, car la manifestation aurait pu être autorisée sous charges et conditions au moins par sections le long de la route cantonale au sens d'un moyen plus doux. »
+
+### Manifestations privées et clause générale de police
+
+**ATF 147 I 161** (3.8.2020)  
+Interdiction d'une manifestation dans un espace privé et notion de perturbateur.  
+Champ de protection de la liberté de réunion également pour des locaux privés.
+
+> « Le champ d'application de la clause générale de police comme base légale pour une atteinte à la liberté de réunion est en principe limité aux cas d'urgence imprévisibles qui ne sont pas réglés par des lois spéciales. »
