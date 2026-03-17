@@ -1,49 +1,110 @@
 # Jurisprudence
 
-## Champ de protection général de la liberté scientifique
+La jurisprudence relative à l'art. 20 Cst. révèle les tensions entre la liberté de la science et d'autres biens constitutionnels. La jurisprudence se divise en trois domaines principaux : la liberté de recherche par rapport à la protection des animaux, le droit d'accès à l'information à des fins scientifiques et les aspects du droit des hautes écoles.
 
-**ATF 127 I 145** du 27 juin 2001 (Wottreng): Consultation d'actes pénaux archivés par un historien dans le cadre d'un projet de livre scientifique et historique.
-Le Tribunal fédéral a précisé la portée de l'art. 20 Cst. pour l'accès à des sources non publiques et a jugé nécessaire de tracer des limites restrictives.
+## Liberté de recherche et protection des animaux
 
-> « La liberté de la recherche ne peut pas sans autre ouvrir l'accès à des sources qui, du point de vue de la liberté d'information plus générale, sont considérées comme non accessibles au public. La restriction de l'accès constitutionnel à l'information selon l'art. 16 al. 3 Cst. ne peut en principe pas être contournée par l'invocation de l'art. 20 Cst. Il faudrait plutôt pour cela une approche de recherche spécifique et une nécessité de recherche qui en résulte de consulter des actes. »
+### Expérimentations animales avec des primates
 
-## Expériences sur animaux à des fins de recherche
+**ATF 135 II 384** (7 octobre 2009)  
+Arrêt de principe sur la pondération entre liberté de recherche et protection des animaux lors d'expérimentations animales avec des primates non humains.  
+La pondération des intérêts selon l'art. 61 al. 3 let. d aOPAn exige une pondération concrète entre gain de connaissances et souffrance animale.
 
-**ATF 135 II 384** du 7 octobre 2009: Expériences sur animaux avec des primates non humains pour la recherche fondamentale neurobiologique.
-Le Tribunal fédéral a confirmé que l'art. 20 Cst. peut également protéger les expériences sur animaux à des fins de recherche, mais que celles-ci sont soumises à une pesée stricte des intérêts.
+> « Les dispositions de l'aLPAn sur les expérimentations animales sont en outre aussi l'expression de la liberté de recherche selon l'art. 20 Cst. Elles représentent donc partiellement une pondération des intérêts déjà effectuée par le législateur. »
 
-> « L'art. 61 al. 3 let. d aOPAn exige pour l'admissibilité d'une expérience sur animaux une pesée des intérêts entre le gain de connaissance visé ainsi que les douleurs et souffrances qui y sont liées. Ceci vaut également pour les demandes de recherche sur des processus vitaux fondamentaux. »
+**ATF 135 II 405** (7 octobre 2009)  
+Arrêt complémentaire à l'ATF 135 II 384 concernant la pondération des intérêts lors d'expérimentations sur des primates.  
+Confirme les exigences strictes pour l'autorisation d'expérimentations animales sur des primates non humains.
 
-**ATF 135 II 405** du 7 octobre 2009: Décision parallèle au cas précité.
-Le tribunal a réaffirmé que lors de la pesée des intérêts, la proximité particulière des primates non humains avec l'homme et la dignité de la créature doivent être prises en compte.
+### Pondération de la gravité
 
-> « Lors de la pesée des intérêts, la proximité particulière des primates non humains avec l'homme et la dignité de la créature doivent être prises en compte. »
+**VB.2007.00157, Tribunal administratif de Zurich** (27 mars 2008)  
+Expérimentation animale pour l'étude des structures cérébrales chez les macaques rhésus.  
+Application concrète des principes du Tribunal fédéral pour la pondération des intérêts entre intérêt de recherche et protection des animaux.
 
-## Accès aux documents d'archives à des fins de recherche
+**VB.2007.00156, Tribunal administratif de Zurich** (27 mars 2008)  
+Expérimentation animale pour l'étude des capacités d'apprentissage chez les macaques rhésus.  
+La jurisprudence précise que la liberté de recherche ne pèse pas automatiquement plus lourd que la protection des animaux.
 
-**Arrêt 1C_117/2021** du 1er mars 2022: Accès de recherche aux actes d'asile aux Archives fédérales pour une thèse de doctorat.
-Le Tribunal fédéral a précisé l'application de l'art. 20 Cst. dans le contexte de la loi sur l'archivage et a confirmé un droit conditionnel à la consultation d'actes à des fins de recherche.
+## Accès à l'information et aux archives
 
-> « La jurisprudence et la doctrine reconnaissent un droit conditionnel découlant de l'art. 20 Cst. (liberté scientifique) à la consultation de documents officiels, pour autant qu'elle soit nécessaire à la réalisation d'un projet de recherche. »
+### Délimitation de principe
 
-## Délimitation par rapport à d'autres droits fondamentaux
+**ATF 127 I 145** (27 juin 2001)  
+Arrêt de principe sur le rapport entre liberté d'information et liberté scientifique lors de la consultation de dossiers pénaux archivés.  
+La liberté scientifique ne fonde aucun droit général d'accès à des sources non accessibles au public.
 
-**ATF 128 IV 201** du 26 juillet 2002: Pornographie et liberté d'expression.
-Le tribunal a précisé que la liberté scientifique n'est pas privilégiée par rapport aux autres droits fondamentaux, mais qu'elle est soumise à une pesée des biens.
+> « Les libertés d'information et de la science n'accordent aucun droit général d'obtenir des informations provenant de sources non généralement accessibles (dossiers archivés pendant le délai de protection). »
 
-La décision délimite l'art. 20 Cst. des art. 16 et 17 Cst. et montre les limites de l'activité scientifique.
+> « La liberté de recherche ne peut pas ouvrir sans autre l'accès à des sources qui, sous l'angle de la liberté d'information plus générale, sont considérées comme non accessibles au public. »
 
-## Dimensions du droit universitaire
+### Droit restreint
 
-**Arrêt VB.2007.00156** du 27 mars 2008 (Tribunal administratif de Zurich): Expériences sur animaux pour l'étude des capacités d'apprentissage chez les primates.
-Le Tribunal administratif de Zurich a reconnu l'importance fondamentale de la liberté scientifique pour la recherche universitaire, mais a souligné la nécessité d'une pesée soigneuse des intérêts.
+**ATF 148 II 273** (1er mars 2022)  
+Consultation d'archives avant l'expiration du délai de protection à des fins de recherche.  
+La liberté scientifique peut renforcer l'intérêt de recherche lors de la pondération des intérêts.
 
-**Arrêt VB.2016.00048** du 21 septembre 2016 (Tribunal administratif de Zurich): Mesures neurobiologiques chez les macaques rhésus.
-Le tribunal a confirmé le principe que l'art. 20 Cst. protège également les expériences sur animaux pour la recherche fondamentale, mais a exigé une pesée concrète des intérêts dans chaque cas particulier.
+> « La recherche historique doit être prise en considération comme un intérêt important à la consultation ; celui-ci est en outre renforcé par l'invocation légitime de la liberté scientifique. »
 
-## Protection des données et liberté scientifique
+**1C_117/2021** (1er mars 2022)  
+Instance inférieure de l'ATF 148 II 273 concernant le principe de publicité et la demande de consultation de dossiers archivés.  
+Concrétise les conditions pour un droit conditionnel découlant de la liberté scientifique.
 
-**Recommandation PFPDT** du 19 novembre 2013 (Office fédéral de l'aviation civile): Accès aux documents classifiés de l'UE à des fins de recherche.
-Le Préposé fédéral à la protection des données et à la transparence a confirmé un accès privilégié aux documents officiels à des fins scientifiques sous certaines conditions.
+## Droit des hautes écoles et études
 
-> « La jurisprudence et la doctrine reconnaissent un droit conditionnel découlant de l'art. 20 Cst. (liberté scientifique) à la consultation de documents officiels, pour autant qu'elle soit nécessaire à la réalisation d'un projet de recherche. »
+### Exclusion des études
+
+**2P.199/2005** (8 novembre 2005)  
+Exclusion de la poursuite des études après avoir échoué deux fois à l'examen de licence.  
+La liberté scientifique ne garantit aucun droit à la répétition illimitée d'examens.
+
+> La liberté scientifique protège le libre choix de la question, de la méthode et de l'exécution, mais pas la participation illimitée aux activités des hautes écoles.
+
+### Autres arrêts de droit des hautes écoles
+
+**VB.2012.00745, Tribunal administratif de Zurich** (19 mai 2011)  
+Exclusion du cursus de bachelor après absence non excusée aux examens.  
+L'autonomie des hautes écoles pose des limites à la liberté scientifique individuelle.
+
+**A-5458/2008, Tribunal administratif fédéral** (19 mai 2009)  
+Affaire de droit du personnel à l'EPFZ.  
+Révèle les tensions entre liberté scientifique institutionnelle et individuelle.
+
+## Protection de la personnalité et recherche
+
+### Liberté scientifique vs. protection de la personnalité
+
+**K 2008/2, Tribunal administratif de Saint-Gall** (19 août 2008)  
+Violation de la personnalité et de la liberté scientifique par des lettres du Conseil d'État.  
+La liberté scientifique ne peut pas repousser toute atteinte à l'environnement de recherche.
+
+## Autres arrêts
+
+### Droit des assurances sociales
+
+**9C_1075/2008** (28 mai 2009)  
+Assurance maladie et recherche en médecine légale.  
+La liberté scientifique n'est pas violée per se par des obligations légales générales.
+
+### Droit pénal
+
+**ATF 128 IV 201** (26 juillet 2002)  
+Pornographie dure et liberté d'expression.  
+Mention marginale de la liberté scientifique dans le contexte des libertés de communication.
+
+### Droit des étrangers
+
+**C-857/2013** et autres arrêts du Tribunal administratif fédéral  
+Accord à la décision préalable du marché du travail pour les chercheurs étrangers.  
+La liberté scientifique peut être prise en considération lors de l'octroi d'autorisations de travail.
+
+## Tendances d'évolution
+
+La jurisprudence fait preuve d'une attitude restrictive envers les interprétations expansives de la liberté scientifique. Le Tribunal fédéral souligne régulièrement que la liberté scientifique :
+
+1. **N'est pas absolue** : Elle doit être mise en balance avec d'autres biens constitutionnels
+2. **Ne fonde aucun droit général à l'information**
+3. **Doit respecter les limites de l'autonomie des hautes écoles**
+4. **Présuppose une nécessité concrète de recherche**
+
+La jurisprudence récente (ATF 148 II 273) montre cependant une certaine revalorisation de la liberté scientifique lors de la pondération des intérêts, en particulier dans le domaine de la recherche historique.

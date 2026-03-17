@@ -1,49 +1,110 @@
 # Rechtsprechung
 
-## Allgemeiner Schutzbereich der Wissenschaftsfreiheit
+Die Rechtsprechung zu Art. 20 BV zeigt die Spannungsfelder zwischen Wissenschaftsfreiheit und anderen verfassungsrechtlichen Gütern auf. Die Rechtsprechung gliedert sich in drei Hauptbereiche: Forschungsfreiheit im Verhältnis zum Tierschutz, Anspruch auf Informationszugang zu wissenschaftlichen Zwecken und hochschulrechtliche Aspekte.
 
-**BGE 127 I 145** vom 27. Juni 2001 (Wottreng): Einsicht in archivierte Strafakten durch einen Historiker im Rahmen eines wissenschaftlich-historischen Buchprojekts.
-Das Bundesgericht präzisierte die Tragweite von Art. 20 BV für den Zugang zu nicht allgemein zugänglichen Quellen und hielt eine restriktive Grenzziehung für erforderlich.
+## Forschungsfreiheit und Tierschutz
 
-> «Die Forschungsfreiheit vermag nicht ohne weiteres den Zugang zu Quellen zu öffnen, die unter dem Gesichtswinkel der allgemeineren Informationsfreiheit als nicht öffentlich zugänglich gelten. Die Beschränkung des verfassungsrechtlichen Informationszugangs nach Art. 16 Abs. 3 BV kann grundsätzlich nicht durch die Berufung auf Art. 20 BV durchbrochen werden. Hierfür bedürfte es vielmehr eines spezifischen Forschungsansatzes und einer sich daraus ergebenden forschungsmässigen Notwendigkeit, Einsicht in Akten zu nehmen.»
+### Tierversuche mit Primaten
 
-## Tierversuche zu Forschungszwecken
+**BGE 135 II 384** (7. Oktober 2009)  
+Leitentscheid zur Abwägung zwischen Forschungsfreiheit und Tierschutz bei Tierversuchen mit nicht-menschlichen Primaten.  
+Die Interessenabwägung nach Art. 61 Abs. 3 lit. d aTSchV erfordert eine konkrete Güterabwägung zwischen Erkenntnisgewinn und Tierleid.
 
-**BGE 135 II 384** vom 7. Oktober 2009: Tierversuche mit nicht-menschlichen Primaten für neurobiologische Grundlagenforschung.
-Das Bundesgericht bestätigte, dass Art. 20 BV auch Tierversuche zu Forschungszwecken schützen kann, diese aber einer strengen Interessenabwägung unterliegen.
+> «Die Vorschriften des aTSchG über Tierversuche sind zudem auch Ausdruck der Forschungsfreiheit nach Art. 20 BV. Sie repräsentieren daher teilweise eine bereits vom Gesetzgeber vorgenommene Interessenabwägung.»
 
-> «Art. 61 Abs. 3 lit. d aTSchV verlangt für die Zulässigkeit eines Tierversuchs eine Interessenabwägung zwischen dem angestrebten Erkenntnisgewinn sowie den damit verbundenen Schmerzen und Leiden. Dies gilt auch bei Forschungsgesuchen über grundlegende Lebensvorgänge.»
+**BGE 135 II 405** (7. Oktober 2009)  
+Ergänzender Entscheid zu BGE 135 II 384 betreffend die Interessenabwägung bei Primatenversuchen.  
+Bestätigt die strengen Anforderungen an die Bewilligung von Tierversuchen bei nicht-menschlichen Primaten.
 
-**BGE 135 II 405** vom 7. Oktober 2009: Parallel-Entscheidung zum vorgenannten Fall.
-Das Gericht bekräftigte, dass bei der Interessenabwägung die besondere Nähe der nicht-menschlichen Primaten zum Menschen und die Würde der Kreatur zu berücksichtigen sind.
+### Belastungsabwägung
 
-> «Bei der Interessenabwägung sind die besondere Nähe der nicht-menschlichen Primaten zum Menschen und die Würde der Kreatur zu berücksichtigen.»
+**VB.2007.00157, Verwaltungsgericht Zürich** (27. März 2008)  
+Tierversuch zur Untersuchung von Hirnstrukturen bei Rhesusaffen.  
+Konkrete Anwendung der bundesgerichtlichen Grundsätze zur Interessenabwägung zwischen Forschungsinteresse und Tierschutz.
 
-## Zugang zu Archivmaterial für Forschungszwecke
+**VB.2007.00156, Verwaltungsgericht Zürich** (27. März 2008)  
+Tierversuch zur Untersuchung von Lernfähigkeiten bei Rhesusaffen.  
+Die Rechtsprechung stellt klar, dass die Forschungsfreiheit nicht automatisch schwerer wiegt als der Tierschutz.
 
-**Urteil 1C_117/2021** vom 1. März 2022: Forschungszugang zu Asylakten im Bundesarchiv für eine Dissertation.
-Das Bundesgericht präzisierte die Anwendung von Art. 20 BV im Kontext des Archivierungsgesetzes und bestätigte einen bedingten Anspruch auf Akteneinsicht für Forschungszwecke.
+## Informations- und Archivzugang
 
-> «Rechtsprechung und Lehre anerkennen einen bedingten Anspruch aus Art. 20 BV (Wissenschaftsfreiheit) auf Einsichtnahme in amtliche Dokumente, sofern diese für die Durchführung eines Forschungsprojekts notwendig ist.»
+### Grundsätzliche Abgrenzung
 
-## Abgrenzung zu anderen Grundrechten
+**BGE 127 I 145** (27. Juni 2001)  
+Grundsatzentscheid zum Verhältnis von Informations- und Wissenschaftsfreiheit bei der Einsicht in archivierte Strafakten.  
+Die Wissenschaftsfreiheit begründet keinen generellen Anspruch auf Zugang zu nicht öffentlich zugänglichen Quellen.
 
-**BGE 128 IV 201** vom 26. Juli 2002: Pornographie und Meinungsäusserungsfreiheit.
-Das Gericht stellte klar, dass die Wissenschaftsfreiheit gegenüber anderen Grundrechten nicht privilegiert ist, sondern einer Güterabwägung unterliegt.
+> «Die Informations- und Wissenschaftsfreiheit räumen keinen generellen Anspruch auf Beschaffung von Informationen aus nicht allgemein zugänglichen Quellen (archivierten Akten während Schutzfrist) ein.»
 
-Die Entscheidung grenzt Art. 20 BV von Art. 16 und 17 BV ab und zeigt die Grenzen wissenschaftlicher Betätigung auf.
+> «Die Forschungsfreiheit vermag nicht ohne weiteres den Zugang zu Quellen zu öffnen, die unter dem Gesichtswinkel der allgemeineren Informationsfreiheit als nicht öffentlich zugänglich gelten.»
 
-## Hochschulrechtliche Dimensionen
+### Eingeschränkter Anspruch
 
-**Urteil VB.2007.00156** vom 27. März 2008 (Verwaltungsgericht Zürich): Tierversuche zur Untersuchung von Lernfähigkeiten bei Primaten.
-Das Verwaltungsgericht Zürich anerkannte die grundsätzliche Bedeutung der Wissenschaftsfreiheit für universitäre Forschung, unterstrich aber die Notwendigkeit einer sorgfältigen Interessenabwägung.
+**BGE 148 II 273** (1. März 2022)  
+Einsichtnahme in Archivgut vor Ablauf der Schutzfrist zu Forschungszwecken.  
+Die Wissenschaftsfreiheit kann bei der Interessenabwägung stärkend auf das Forschungsinteresse wirken.
 
-**Urteil VB.2016.00048** vom 21. September 2016 (Verwaltungsgericht Zürich): Neurobiologische Messungen bei Rhesusaffen.
-Das Gericht bestätigte den Grundsatz, dass Art. 20 BV auch Tierversuche für Grundlagenforschung schützt, forderte aber eine konkrete Interessenabwägung im Einzelfall.
+> «Die Aufarbeitung der Geschichte ist als gewichtiges Interesse an der Einsichtnahme zu berücksichtigen; dieses wird zusätzlich durch die legitime Anrufung der Wissenschaftsfreiheit verstärkt.»
 
-## Datenschutz und Wissenschaftsfreiheit
+**1C_117/2021** (1. März 2022)  
+Vorinstanz zu BGE 148 II 273 betreffend Öffentlichkeitsprinzip und Gesuch um Einsicht in archivierte Akten.  
+Konkretisiert die Voraussetzungen für einen bedingten Anspruch aus der Wissenschaftsfreiheit.
 
-**Empfehlung EDÖB** vom 19. November 2013 (Bundesamt für Zivilluftfahrt): Zugang zu EU-Verschlusssachen für Forschungszwecke.
-Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte bestätigte einen privilegierten Zugang zu amtlichen Dokumenten für wissenschaftliche Zwecke unter bestimmten Voraussetzungen.
+## Hochschulrecht und Studium
 
-> «Rechtsprechung und Lehre anerkennen einen bedingten Anspruch aus Art. 20 BV (Wissenschaftsfreiheit) auf Einsichtnahme in amtliche Dokumente, sofern diese für die Durchführung eines Forschungsprojekts notwendig ist.»
+### Studienausschluss
+
+**2P.199/2005** (8. November 2005)  
+Ausschluss vom weiteren Studium nach zweimaligem Nichtbestehen der Lizentiatsprüfung.  
+Die Wissenschaftsfreiheit garantiert keinen Anspruch auf unbegrenzte Wiederholung von Prüfungen.
+
+> Die Wissenschaftsfreiheit schützt die freie Wahl von Fragestellung, Methode und Durchführung, aber nicht die unbeschränkte Teilnahme am Hochschulbetrieb.
+
+### Weitere hochschulrechtliche Entscheide
+
+**VB.2012.00745, Verwaltungsgericht Zürich** (19. Mai 2011)  
+Ausschluss aus dem Bachelorstudiengang nach unentschuldigtem Fehlen bei Prüfungen.  
+Die Hochschulautonomie setzt der individuellen Wissenschaftsfreiheit Grenzen.
+
+**A-5458/2008, Bundesverwaltungsgericht** (19. Mai 2009)  
+Personalrechtliche Angelegenheit an der ETH Zürich.  
+Zeigt die Spannungen zwischen institutioneller und individueller Wissenschaftsfreiheit auf.
+
+## Persönlichkeitsschutz und Forschung
+
+### Wissenschaftsfreiheit vs. Persönlichkeitsschutz
+
+**K 2008/2, Verwaltungsgericht St. Gallen** (19. August 2008)  
+Verletzung der Persönlichkeit und der Wissenschaftsfreiheit durch regierungsrätliche Schreiben.  
+Die Wissenschaftsfreiheit kann nicht jede Beeinträchtigung des Forschungsumfelds abwehren.
+
+## Weitere Entscheide
+
+### Sozialversicherungsrecht
+
+**9C_1075/2008** (28. Mai 2009)  
+Krankenversicherung und Forschung an Erkennungsmedizin.  
+Die Wissenschaftsfreiheit wird durch allgemeine gesetzliche Pflichten nicht per se verletzt.
+
+### Strafrecht
+
+**BGE 128 IV 201** (26. Juli 2002)  
+Harte Pornographie und Meinungsäusserungsfreiheit.  
+Randerwähnung der Wissenschaftsfreiheit im Kontext der Kommunikationsfreiheiten.
+
+### Ausländerrecht
+
+**C-857/2013** und weitere Entscheide des Bundesverwaltungsgerichts  
+Zustimmung zum arbeitsmarktlichen Vorentscheid bei ausländischen Forschern.  
+Die Wissenschaftsfreiheit kann bei der Erteilung von Arbeitsbewilligungen berücksichtigt werden.
+
+## Entwicklungstendenzen
+
+Die Rechtsprechung zeigt eine restriktive Haltung gegenüber expansiven Auslegungen der Wissenschaftsfreiheit. Das Bundesgericht betont regelmässig, dass die Wissenschaftsfreiheit:
+
+1. **Nicht absolut ist**: Sie muss gegen andere Verfassungsgüter abgewogen werden
+2. **Keinen generellen Informationsanspruch** begründet
+3. **Schranken der Hochschulautonomie** respektieren muss
+4. **Konkrete forschungsmässige Notwendigkeit** voraussetzt
+
+Die jüngere Rechtsprechung (BGE 148 II 273) zeigt jedoch eine gewisse Aufwertung der Wissenschaftsfreiheit bei der Interessenabwägung, insbesondere im Bereich der historischen Forschung.
