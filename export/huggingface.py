@@ -60,6 +60,9 @@ def export_article(law: str, art_dir: Path) -> dict | None:
         "summary_it": read_if_exists(art_dir / "summary.it.md"),
         "doctrine_it": read_if_exists(art_dir / "doctrine.it.md"),
         "caselaw_it": read_if_exists(art_dir / "caselaw.it.md"),
+        "summary_en": read_if_exists(art_dir / "summary.en.md"),
+        "doctrine_en": read_if_exists(art_dir / "doctrine.en.md"),
+        "caselaw_en": read_if_exists(art_dir / "caselaw.en.md"),
         "fedlex_url": meta.get("fedlex_url", ""),
         "in_force_since": meta.get("in_force_since", ""),
     }
@@ -113,6 +116,7 @@ language:
   - de
   - fr
   - it
+  - en
 tags:
   - legal
   - swiss-law
@@ -129,7 +133,7 @@ Open-access, AI-generated legal commentary on 8 Swiss federal laws.
 - **Source:** [openlegalcommentary.ch](https://openlegalcommentary.ch)
 - **Laws:** BV, ZGB, OR, ZPO, StGB, StPO, SchKG, VwVG
 - **Layers:** Summary (B1 level), Doctrine (academic), Case Law (BGE digest)
-- **Languages:** DE, FR, IT
+- **Languages:** DE, FR, IT, EN
 - **Articles exported:** {total}
 - **License:** CC BY-SA 4.0
 
@@ -157,6 +161,9 @@ One JSONL file per law (e.g., `or.jsonl`, `zgb.jsonl`).
 | `summary_it` | string | Italian summary |
 | `doctrine_it` | string | Italian doctrine |
 | `caselaw_it` | string | Italian case law |
+| `summary_en` | string | English summary |
+| `doctrine_en` | string | English doctrine |
+| `caselaw_en` | string | English case law |
 | `fedlex_url` | string | Fedlex URL |
 | `in_force_since` | string | In force since date |
 """,
