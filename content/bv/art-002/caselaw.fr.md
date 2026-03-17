@@ -1,99 +1,46 @@
 ## Jurisprudence
 
-### Nature juridique et justiciabilité des objectifs de l'État
+### Buts de l'État comme principes constitutionnels
 
-**ATF 136 I 265** du 10 août 2010
-Le Tribunal fédéral retient que l'art. 2 Cst. énonce des objectifs programmatiques de l'État qui ne sont en principe pas directement justiciables.
-Cette disposition ne fonde aucun droit subjectif immédiat des citoyennes et citoyens.
+**ATF 133 I 206 consid. 7.4** du 1er juin 2007 (Tarifs fiscaux obwaldiens)
+La promotion du bien-être commun selon l'art. 2 al. 2 Cst. exprime l'idée de l'État social et la responsabilité sociale de la collectivité. Ces objectifs sont inhérents à la notion de capacité économique et influencent l'aménagement du droit fiscal.
 
-> « Les objectifs de l'État énoncés à l'art. 2 Cst. sont en principe de nature programmatique et ne fondent en tant que tels aucun droit subjectif immédiat. Ils servent plutôt d'aide à l'interprétation et à la concrétisation lors de l'application d'autres dispositions constitutionnelles. »
+> « La promotion du bien-être commun selon l'art. 2 al. 2 Cst. exprime l'idée de l'État social et la responsabilité sociale de la collectivité. [...] Ces objectifs sont inhérents à la notion de capacité économique de l'art. 127 al. 2 Cst. »
 
-**ATF 143 I 194** du 21 mars 2017
-Le Tribunal fédéral précise la signification des objectifs de l'État pour l'interprétation constitutionnelle.
-L'art. 2 Cst. agit comme cadre d'orientation constitutionnel lors de l'interprétation des droits fondamentaux et des normes de compétence.
+**ATF 115 Ia 277 consid. 4b** du 3 mai 1989 (Personnel médical dans le service sanitaire coordonné)
+La définition du but de l'art. 2 Cst. ne fonde aucune compétence autonome de la Confédération. La Constitution ne connaît pas de domaine de la défense générale, c'est pourquoi la Confédération ne dispose de compétences législatives que dans la mesure où elles lui sont transférées par la Constitution dans les domaines partiels particuliers.
 
-> « Les objectifs de l'État de l'art. 2 Cst. déploient leur effet normatif principalement comme aide à l'interprétation et critère de concrétisation pour d'autres dispositions constitutionnelles, en particulier lors de la pesée entre différents biens constitutionnels. »
+> « Cependant, la définition du but de l'art. 2 Cst. ne fonde aucune compétence de la Confédération. La Constitution fédérale ne connaît pas non plus de domaine de la défense générale. La Confédération ne dispose donc de compétences législatives dans le domaine de la défense générale que dans la mesure où elles lui ont été transférées par la Constitution dans les domaines partiels particuliers. »
 
-### Protection de la liberté et des droits du peuple (al. 1)
+### Principe démocratique et droits politiques
 
-**ATF 145 I 167** du 12 avril 2019
-Le Tribunal fédéral souligne l'importance centrale de la protection de la liberté comme objectif de l'État.
-La protection de la liberté énoncée à l'art. 2 al. 1 Cst. renforce l'interprétation des droits fondamentaux spécifiques.
+**ATF 147 I 194 consid. 3.3** du 1er janvier 2021 (Initiative pour des entreprises responsables)
+Le principe démocratique de l'art. 2 al. 1 Cst. est concrétisé par la jurisprudence relative à la règle de la majorité des cantons. La restriction de l'égalité de la force du vote est voulue par le droit constitutionnel et lie le Tribunal fédéral.
 
-> « La mission de protection de la liberté et des droits du peuple selon l'art. 2 al. 1 Cst. renforce l'obligation de l'État de respecter et de protéger les droits fondamentaux garantis par la Constitution. »
+> « Les recourants reprochent au rejet de l'initiative pour des entreprises responsables en raison de l'exigence de la majorité des cantons de violer les principes fondamentaux de la démocratie (préambule de la Cst. ; art. 2 al. 1 Cst.) ainsi que le principe selon lequel toutes les personnes ayant le droit de vote ont les mêmes droits politiques. »
 
-**Arrêt 1C_416/2009** du 14 septembre 2010
-Le Tribunal fédéral applique l'art. 2 al. 1 Cst. lors de l'examen d'atteintes aux droits fondamentaux.
-La disposition relative aux objectifs de l'État sert de critère supplémentaire lors de l'examen de la proportionnalité.
+### Égalité des chances et principe de l'État social
 
-> « En cas d'atteintes graves aux droits fondamentaux, l'objectif de l'État de protection de la liberté et des droits selon l'art. 2 al. 1 Cst. doit être inclus dans la pesée. »
+**ATF 133 I 206 consid. 7.4** du 1er juin 2007 (Tarifs fiscaux obwaldiens)
+L'égalité des chances comme but de l'État à l'art. 2 al. 3 Cst. oblige l'État à ne pas créer d'inégalités de chances par son action et à ne pas aggraver les inégalités existantes. La condition fondamentale pour l'épanouissement personnel et économique est la solidarité entre les différentes couches de la population.
 
-### Promotion du bien-être commun (al. 2)
+> « De l'égalité des chances comme but de l'État à l'art. 2 al. 3 Cst. [...] on peut au moins déduire que l'État ne doit pas créer d'inégalités de chances par son action et ne doit pas aggraver les inégalités existantes. »
 
-**ATF 139 I 16** du 4 octobre 2012
-Le Tribunal fédéral explique la notion de bien-être commun dans le contexte de la liberté économique.
-La promotion du bien-être justifie les mesures étatiques de correction des défaillances du marché.
+### Développement durable et protection de l'environnement
 
-> « La promotion du bien-être commun selon l'art. 2 al. 2 Cst. légitime les interventions étatiques dans l'économie, pour autant qu'elles servent l'intérêt général et soient proportionnées. »
+**Arrêt A-5647/2016** du 6 septembre 2018 (Énergie nucléaire)
+Le Tribunal administratif fédéral applique l'art. 2 al. 2 Cst. (développement durable) dans le contexte de l'énergie nucléaire et des fonds de désaffectation. Le développement durable est invoqué comme motif de justification pour une réglementation stricte de l'économie atomique.
 
-**Arrêt 2P.43/2006** du 1er juin 2007
-Le Tribunal fédéral se réfère au bien-être commun lors de l'appréciation de lois fiscales.
-La perception d'impôts pour financer les tâches publiques sert la réalisation du bien-être commun.
+La jurisprudence montre que le principe du développement durable se reflète dans les mesures concrètes d'exécution du droit de l'environnement et de l'énergie.
 
-> « La perception d'impôts pour financer les tâches étatiques est au service du bien-être commun au sens de l'art. 2 al. 2 Cst. et est ainsi légitimée constitutionnellement. »
+### Diversité culturelle
 
-### Développement durable (al. 2)
+**PB.2002.00038** du 26 février 2003 (Tribunal administratif de Zurich)
+Dans les litiges de droit du travail, l'art. 2 Cst. est pris en compte comme base constitutionnelle pour la protection des minorités culturelles et linguistiques dans la fonction publique. La diversité culturelle comme but de l'État influence l'interprétation du droit du travail dans le secteur public.
 
-**ATF 144 II 233** du 11 mai 2018
-Le Tribunal fédéral apprécie le principe du développement durable dans les décisions de droit de l'environnement.
-L'art. 2 al. 2 Cst. renforce les devoirs de protection environnementaux de l'État.
+### Ordre de l'État de droit
 
-> « L'exigence de développement durable selon l'art. 2 al. 2 Cst. oblige l'État à considérer dans toutes ses décisions les répercussions écologiques, sociales et économiques à long terme. »
+**31 I 297** du 11 mai 1905 (ATF historique)
+Déjà dans la jurisprudence précoce du Tribunal fédéral, il a été établi que l'art. 2 Cst. ne contient aucune garantie d'un droit individuel, mais constitue une définition objective du but de l'État. Cette jurisprudence influence jusqu'à aujourd'hui la compréhension de la norme comme principe d'organisation.
 
-**Arrêt A-5647/2016** du 6 septembre 2018 (TAF)
-Le Tribunal administratif fédéral s'appuie sur l'art. 2 al. 2 Cst. dans les décisions de politique énergétique.
-Le développement durable influence l'interprétation de la loi sur l'énergie nucléaire.
-
-> « La sortie du nucléaire et la transition vers les énergies renouvelables correspondent à l'objectif constitutionnel de développement durable selon l'art. 2 al. 2 Cst. »
-
-### Égalité des chances (al. 3)
-
-**ATF 140 I 2** du 9 septembre 2013
-Le Tribunal fédéral concrétise la mission d'égalité des chances dans le domaine de l'éducation.
-L'art. 2 al. 3 Cst. renforce l'obligation étatique de garantir l'égalité des chances en matière d'éducation.
-
-> « La mission de promotion de l'égalité des chances selon l'art. 2 al. 3 Cst. oblige l'État à réduire les désavantages structurels dans le système éducatif et à garantir l'égalité des chances de départ. »
-
-**Arrêt 1C_713/2020** du 23 mars 2021
-Le Tribunal fédéral applique l'art. 2 al. 3 Cst. lors de l'appréciation de mesures d'aide sociale.
-L'égalité des chances justifie les mesures étatiques de redistribution pour lutter contre la pauvreté.
-
-> « Les prestations d'aide sociale servent la réalisation de l'égalité des chances au sens de l'art. 2 al. 3 Cst., en permettant aux personnes socialement défavorisées de participer à la vie sociale. »
-
-### Préservation des bases naturelles de la vie (al. 4)
-
-**ATF 142 II 509** du 22 décembre 2016
-Le Tribunal fédéral s'appuie sur l'art. 2 al. 4 Cst. lors de l'interprétation du droit de la protection de l'environnement.
-La préservation des bases naturelles de la vie renforce les devoirs de protection préventifs.
-
-> « La mission constitutionnelle de préservation des bases naturelles de la vie selon l'art. 2 al. 4 Cst. oblige à une politique environnementale préventive et prospective qui tient aussi compte des générations futures. »
-
-**Arrêt B-3427/2019** du 7 janvier 2021 (TAF)
-Le Tribunal administratif fédéral se réfère à l'art. 2 al. 4 Cst. dans les décisions relatives au droit de la protection du climat.
-La protection du climat fait partie de l'obligation de préserver les bases naturelles de la vie.
-
-> « Les mesures de protection du climat servent l'accomplissement de la mission constitutionnelle de préservation des bases naturelles de la vie selon l'art. 2 al. 4 Cst. »
-
-### Ordre international pacifique et juste (al. 4)
-
-**ATF 137 II 431** du 2 septembre 2011
-Le Tribunal fédéral apprécie l'art. 2 al. 4 Cst. lors de l'appréciation d'obligations de droit international.
-La Suisse est constitutionnellement tenue de participer activement à l'aménagement de l'ordre international.
-
-> « L'engagement pour un ordre international pacifique et juste selon l'art. 2 al. 4 Cst. légitime la participation de la Suisse aux organisations internationales et aux missions de paix. »
-
-**Arrêt 1A.282/1999** du 8 décembre 2000
-Le Tribunal fédéral s'appuie sur l'art. 2 al. 4 Cst. dans les décisions de politique extérieure.
-La promotion de la paix et de la justice est une préoccupation légitime de la politique extérieure suisse.
-
-> « La promotion d'un ordre international pacifique et juste selon l'art. 2 al. 4 Cst. justifie les mesures de politique du développement et humanitaires comme expression de la solidarité suisse. »
+> « L'art. 2 Cst. ne contient aucune garantie d'un droit individuel. »

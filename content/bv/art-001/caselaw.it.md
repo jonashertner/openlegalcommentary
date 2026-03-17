@@ -1,73 +1,33 @@
-# Art. 1 Cost. — Giurisprudenza
+# Art. 1 Cost.
 
-## Aspetti generali della giurisprudenza relativa all'art. 1 Cost.
+## Giurisprudenza
 
-L'art. 1 Cost. in quanto norma strutturale fondamentale della Confederazione Svizzera è solo raramente oggetto di controversie giuridiche autonome. La giurisprudenza tratta questa disposizione principalmente nel contesto dell'ordinamento federale e della delimitazione di competenze tra Confederazione e Cantoni.
+### Nuova formazione e riunificazione cantonale
 
-## I. Sviluppo storico e consistenza cantonale
+**DTF 61 I 166** del 21 giugno 1935
+Iniziativa per la riunificazione dei Cantoni Basilea Città e Basilea Campagna.
+Rilevanza: Decisione fondamentale per l'interpretazione della struttura federale della Confederazione e per le possibilità di modifica dei territori cantonali.
 
-### Aspirazioni di riunificazione e modifiche cantonali
+> «La riunificazione dei due semicantoni comporta che l'organizzazione statale finora esistente di Basilea-Campagna viene sciolta, diventando territorio e popolazione parte costitutiva di una più ampia comunità statale da costituire. [...] La riserva contenuta in questa decisione esprime che la separazione delle due Basilea, che appartengono insieme storicamente, geograficamente, economicamente e culturalmente, è stato un grave errore politico e che la riunificazione (volontaria) deve essere perseguita, segnatamente anche dal punto di vista della Confederazione, come del resto anche nell'art. 1 Cost. il Cantone Basilea è concepito come perdurante, almeno nell'idea (se anche non nella realtà di diritto costituzionale).»
 
-**DTF 61 I 166** (1935)
-Iniziativa per la riunificazione di Basilea Campagna
-L'iniziativa per la riunificazione dei due Cantoni di Basilea tocca l'enumerazione dei Cantoni stabilita nell'art. 1 Cost.
+### Ripartizione delle competenze federali
 
-> «La presente iniziativa chiede una revisione costituzionale che comporterebbe una modifica dell'enumerazione dei Cantoni contenuta nell'art. 1 della Costituzione federale.»
+**DTF 125 II 152** del 23 febbraio 1999
+Delimitazione delle competenze federali e cantonali nell'autorizzazione degli apparecchi automatici da gioco a moneta.
+Rilevanza: Conferma il principio della competenza residua cantonale all'interno dell'ordinamento federale secondo l'art. 1 Cost.
 
-**DTF 94 I 525** (1968)
-Riunificazione di Basilea-Città e Basilea Campagna
-Il Tribunale federale conferma che le modifiche cantonali richiedono una revisione dell'art. 1 Cost.
+> «Non sussiste alcun diritto dei Cantoni alla continuazione della prassi finora seguita di omologazione degli apparecchi automatici da gioco a moneta da parte dell'Ufficio federale di polizia. Il Consiglio federale, emanando l'ordinanza federale sugli apparecchi automatici da gioco a moneta, non è intervenuto nella competenza cantonale.»
 
-> «Una riunificazione dei Cantoni Basilea-Città e Basilea Campagna presuppone una corrispondente modifica dell'art. 1 Cost., poiché questa disposizione enumera singolarmente i 26 Cantoni.»
+**DTF 122 I 70** del 22 febbraio 1996 
+Competenze cantonali per limitazioni del decollo e atterraggio con deltaplani.
+Rilevanza: Riconferma l'importanza della ripartizione federale dei compiti tra i Cantoni costituiti nell'art. 1 Cost. e la Confederazione.
 
-## II. Ordinamento federale delle competenze
+> «L'art. 37ter Cost. attribuisce alla Confederazione una competenza completa, ma non esclusiva nel campo dell'aviazione. I Cantoni rimangono competenti per questioni di diritto che la Confederazione non ha disciplinato in modo definitivo.»
 
-### Diritto dell'imposta preventiva
+### Continuità federale
 
-**Sentenza 2C_306/2017** (3 luglio 2019)
-Computo forfettario dell'imposta presso società holding
-Il Tribunale federale tratta l'applicazione delle disposizioni del diritto tributario federale nel sistema federale e menziona l'art. 1 Cost. nel contesto dell'enumerazione dei Cantoni per determinare l'applicabilità del diritto tributario cantonale.
+**DTF 133 I 206** del 1° giugno 2007
+Costituzionalità delle tariffe fiscali degressive di Obvaldo.
+Rilevanza: Chiarisce l'autonomia perdurante dei Cantoni nel sistema federale della Confederazione.
 
-> «I Cantoni elencati nell'art. 1 Cost. formano insieme al popolo svizzero la Confederazione Svizzera e sono titolari delle competenze loro trasferite dalla Costituzione federale.»
-
-### Tasse del registro fondiario della Confederazione
-
-**TG 1992 13** (25 novembre 1992, Lucerna)
-Esenzione della Confederazione dalle tasse cantonali
-Il Tribunale superiore lucernese tratta il privilegio fiscale della Confederazione Svizzera e conferma la sua esenzione dalle imposte cantonali e comunali.
-
-> «La Confederazione Svizzera secondo l'art. 1 Cost. è, in quanto portatrice del potere federale, esente da ogni tassazione da parte di Cantoni e Comuni.»
-
-## III. Diritto della pianificazione del territorio e difesa nazionale
-
-### Costruzioni federali per la difesa nazionale
-
-**DTF 110 Ib 260** (1984)
-Costruzioni militari senza autorizzazione edilizia cantonale
-La Confederazione Svizzera è esentata dalle procedure di autorizzazione cantonali per i progetti di difesa nazionale.
-
-> «La Confederazione Svizzera non necessita secondo l'art. 164 cpv. 3 OM di un'autorizzazione cantonale per progetti che servono alla difesa nazionale. Ciò deriva dalla sua posizione di Stato federale secondo l'art. 1 Cost.»
-
-## IV. Accordi di sicurezza sociale
-
-### Trattati internazionali della Confederazione
-
-**Sentenza 2020-02-13-sv-3** (13 febbraio 2020, Basilea Campagna)
-Accordo di sicurezza sociale con l'ex Jugoslavia
-Il Tribunale cantonale di Basilea Campagna tratta la successione giuridica nei trattati internazionali della Confederazione Svizzera.
-
-> «L'accordo dell'8 giugno 1962 tra la Confederazione Svizzera e l'ex Repubblica Socialista Federativa di Jugoslavia rimane determinante per i diritti sorti prima dello scioglimento statale.»
-
-## V. Accertamento della cittadinanza
-
-### Titoli storici di cittadinanza
-
-**Sentenza VB.2024.00730** (10 aprile 2025, Tribunale amministrativo di Zurigo)
-Accertamento della cittadinanza svizzera in base a titoli storici
-La competenza federale per la cittadinanza esclude regolamentazioni cantonali speciali del periodo prestatale.
-
-> «La Confederazione ha esercitato completamente la sua competenza costituzionale per l'emanazione di regolamentazioni concernenti l'acquisizione della cittadinanza con la Legge sulla cittadinanza del 1876. I titoli cantonali più antichi non sono più rilevanti dalla fondazione dello Stato federale del 1848.»
-
-## Conclusione
-
-La giurisprudenza relativa all'art. 1 Cost. è scarsa, poiché questa norma di principio raramente suscita questioni giuridiche dirette. I tribunali citano l'art. 1 Cost. principalmente per giustificare la personalità giuridica della Confederazione Svizzera e la sua posizione particolare nello Stato federale. Discussioni sostanziali si presentano solo per questioni relative alla consistenza cantonale (modifiche territoriali) o per la delimitazione tra competenze federali e cantonali.
+> «Principio della prevalenza del diritto federale (art. 49 cpv. 1 Cost.). Autonomia tariffaria dei Cantoni. I principi di imposizione sono primariamente materia del diritto federale, tuttavia i Cantoni dispongono di un considerevole margine di manovra nell'organizzazione dei loro sistemi fiscali.»
