@@ -1,0 +1,47 @@
+## Dottrina
+
+### 1. Storia della genesi
+
+**N. 1** L'art. 73 Cost. è stato introdotto ex novo nel quadro della revisione totale della Costituzione federale del 1999. La disposizione ha ancorato per la prima volta il principio dello sviluppo sostenibile esplicitamente a livello costituzionale. Nel Messaggio del Consiglio federale del 20 novembre 1996 concernente una nuova Costituzione federale (FF 1997 I 1, 235 s.) il principio della sostenibilità è definito come «idea guida per l'intera attività statale», che deve armonizzare le tre dimensioni ecologia, economia e società.
+
+**N. 2** Il legislatore costituente ha ripreso la disposizione senza modifiche sostanziali dal progetto di Costituzione del Consiglio federale. I dibattiti parlamentari hanno mostrato un ampio consenso sulla necessità di ancorare nella Costituzione svizzera anche il concetto di sviluppo sostenibile stabilito a livello internazionale dalla Conferenza di Rio del 1992. Al contempo si era consapevoli della natura programmatica della disposizione (Griffel, BSK BV, Art. 73 N. 1).
+
+### 2. Inquadramento sistematico
+
+**N. 3** L'art. 73 Cost. si trova all'inizio della 4a sezione «Ambiente e pianificazione del territorio» e assume una funzione di cerniera tra i principi direttivi generali (→ art. 2 Cost.) e le disposizioni più concrete sulla protezione dell'ambiente (→ art. 74 segg. Cost.). La norma, quale principio trasversale, impregna tutti i settori politici e deve essere considerata nell'interpretazione di altre disposizioni costituzionali, in particolare dell'→ art. 54 Cost. (Affari esteri), dell'→ art. 75 Cost. (Pianificazione del territorio), dell'→ art. 77 Cost. (Foreste), dell'→ art. 104 Cost. (Agricoltura) e dell'→ art. 126 Cost. (Conduzione finanziaria) (Griffel, BSK BV, Art. 73 N. 4).
+
+**N. 4** Il principio della sostenibilità è strettamente collegato all'obiettivo statale dello sviluppo sostenibile sancito nell'art. 2 Cost. Mentre l'art. 2 Cost. definisce lo sviluppo sostenibile come obiettivo statale generale, l'art. 73 Cost. concretizza questo obiettivo per il rapporto tra uomo e natura. La posizione sistematica sottolinea che la sostenibilità non può essere ridotta alla protezione dell'ambiente, ma deve essere intesa come concetto integrativo (Flückiger, Le développement durable en droit constitutionnel suisse, URP 2006, 1 segg., 8).
+
+### 3. Elementi della fattispecie / Contenuto normativo
+
+**N. 5** **Destinatari della norma**: L'art. 73 Cost. si rivolge sia alla Confederazione sia ai Cantoni. La formulazione «si adopera» chiarisce che entrambi i livelli statali sono obbligati a realizzare il principio della sostenibilità. Questa responsabilità comune corrisponde alla struttura federalistica della politica ambientale (Petitpierre-Sauvain, Fondements écologiques de l'ordre constitutionnel suisse, 2003, 89).
+
+**N. 6** **«Rapporto durevolmente equilibrato»**: Il concetto «durevole» rimanda alla dimensione intergenerazionale della sostenibilità. La generazione attuale non può utilizzare le basi naturali della vita in misura tale da limitare le generazioni future nel soddisfacimento dei propri bisogni. Il «rapporto equilibrato» esige un equilibrio tra utilizzo e rigenerazione delle risorse naturali. Ciò esclude un sovrasfruttamento, ma consente un utilizzo moderato nel quadro della capacità di rigenerazione (Griffel/Rausch/Marti, Umweltrecht – Ein Lehrbuch, 2020, § 2 N. 45).
+
+**N. 7** **«Capacità di rigenerazione della natura»**: Questo concetto si riferisce alla capacità degli ecosistemi di rigenerarsi e mantenere le proprie funzioni. Centrale è il rispetto dei cicli naturali e dei tempi di rigenerazione. Per le risorse rinnovabili il tasso di utilizzo non deve superare il tasso di rigenerazione; per le risorse non rinnovabili è necessario un uso parsimonioso (Mahaim, Le principe de durabilité et l'aménagement du territoire, 2014, 125 s.).
+
+### 4. Conseguenze giuridiche
+
+**N. 8** L'art. 73 Cost. dispiega i suoi effetti principalmente quale **principio interpretativo** e **comando di ottimizzazione**. Tutti gli organi statali sono obbligati a considerare il principio della sostenibilità nelle loro decisioni e a realizzarlo nel quadro delle loro competenze. Ciò vale sia per la legislazione sia per l'esecuzione delle leggi e la giurisprudenza (Griffel, BSK BV, Art. 73 N. 11).
+
+**N. 9** La giurisprudenza del Tribunale federale mostra la rilevanza pratica del principio della sostenibilità: In **BGE 148 II 36 E. 13.6** il Tribunale federale ha stabilito che l'utilizzo dell'energia eolica corrisponde alle prescrizioni del principio della sostenibilità solo se è garantito un rapporto durevolmente equilibrato tra produzione di energia rinnovabile e protezione della natura. In **BGE 149 I 291** un'iniziativa comunale per sistemi di riscaldamento rinnovabili è stata qualificata come concretizzazione dell'art. 73 Cost.
+
+**N. 10** Quale **norma programmatica** l'art. 73 Cost. non fonda diritti soggettivi immediati. I privati non possono invocare direttamente la disposizione per esigere misure concrete o pretendere omissioni. La norma necessita di concretizzazione mediante la legislazione, in particolare attraverso la legge sulla protezione dell'ambiente, la legge sulla pianificazione del territorio e la legislazione energetica (Biaggini, BV Kommentar, 2ª ed. 2017, Art. 73 N. 3).
+
+### 5. Controversie dottrinali
+
+**N. 11** **Sostenibilità forte versus sostenibilità debole**: Nella dottrina esiste una controversia fondamentale sul rapporto delle tre dimensioni della sostenibilità. La concezione forte della sostenibilità, rappresentata da Griffel (BSK BV, Art. 73 N. 5) e Rausch/Marti (in: Griffel/Rausch/Marti, Umweltrecht, § 2 N. 47), postula che una compensazione tra i settori – segnatamente a danno dell'ambiente – non è ammissibile. Il capitale ecologico deve essere rispettato come limite assoluto. Al contrario, la concezione debole consente una certa sostituzione tra capitale naturale, capitale materiale e capitale umano, purché il capitale complessivo sia conservato. Questa posizione si trova implicitamente nelle interpretazioni del principio della sostenibilità vicine all'economia.
+
+**N. 12** **Giustiziabilità del principio della sostenibilità**: Un altro punto controverso riguarda l'applicabilità giuridica. Flückiger (URP 2006, 15) e Mahaim (Le principe de durabilité, 2014, 287) nonché Brahier (Installations dangereuses et aménagement du territoire, 2018, 195) sostengono che il principio della sostenibilità sia giustiziabile e possa fondare obblighi azionabili nel caso singolo. La dottrina dominante, rappresentata da Griffel, Rausch, Marti (Umweltrecht, § 2 N. 51), Aubert (Petit commentaire BV, Art. 73 N. 8), Mahon (Petit commentaire BV, Art. 2 N. 12) e Biaggini (BV Kommentar, Art. 73 N. 3), sostiene invece che il principio della sostenibilità non sia giustiziabile, poiché non è sufficientemente condensato normativamente per fondare nel caso singolo diritti e obblighi azionabili mediante decreto.
+
+**N. 13** **Dimensione di diritto internazionale**: Controverso è anche se il concetto di sviluppo sostenibile si sia già condensato in diritto internazionale consuetudinario. Mentre alcune voci nella letteratura lo affermano, Keller/von Arb (Nachhaltige Entwicklung im Völkerrecht, URP 2006, 210, 226) definiscono questa concezione come «ardita». La qualità di diritto internazionale ha rilevanza per l'interpretazione dell'art. 73 Cost. alla luce degli obblighi internazionali della Svizzera (Epiney/Scheyli, Umweltvölkerrecht, 2ª ed. 2021, 95 segg.).
+
+### 6. Indicazioni pratiche
+
+**N. 14** **Concretizzazione nella legislazione**: Il principio della sostenibilità è concretizzato da numerose leggi federali, in particolare la legge sulla protezione dell'ambiente (principio di precauzione), la legge sulla pianificazione del territorio (uso parsimonioso del suolo), la legge sull'energia (promozione delle energie rinnovabili) e la legge sul CO₂ (protezione del clima). Nell'elaborazione e revisione di atti normativi l'art. 73 Cost. deve essere utilizzato come ausilio interpretativo.
+
+**N. 15** **Ponderazione degli interessi**: Nella pratica il principio della sostenibilità si manifesta spesso in ponderazioni complesse degli interessi. Come ha dimostrato il Tribunale federale in **BGE 148 II 36**, nei grandi progetti le diverse dimensioni della sostenibilità devono essere ponderate accuratamente le une contro le altre. Vanno ricercate soluzioni che rendano giustizia il più possibile a tutte le dimensioni – nel caso concreto mediante limitazioni dell'esercizio per la protezione di specie minacciate consentendo al contempo l'utilizzo dell'energia eolica.
+
+**N. 16** **Onere della prova e obblighi di accertamento**: Le autorità hanno un obbligo di accertamento comprensivo riguardo agli effetti sulla sostenibilità delle loro decisioni. Ciò comprende in particolare le conseguenze a lungo termine per l'ambiente, ma anche gli aspetti sociali ed economici. La valutazione della sostenibilità deve essere esposta in modo trasparente nei fondamenti decisionali.
+
+**N. 17** **Monitoraggio e amministrazione adattiva**: Il principio della sostenibilità esige una verifica e un adattamento continui delle misure statali. Le autorizzazioni per progetti rilevanti per l'ambiente dovrebbero pertanto contenere obblighi di monitoraggio e riserve di adattamento, per poter reagire a nuove conoscenze. Questa prassi amministrativa adattiva corrisponde alla natura dinamica del principio della sostenibilità.
