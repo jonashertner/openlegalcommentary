@@ -12,5 +12,10 @@ export default defineConfig({
         allow: ['..'],
       },
     },
+    build: {
+      rollupOptions: {
+        external: ['/pagefind/pagefind.js'],
+      },
+    },
   },
 });

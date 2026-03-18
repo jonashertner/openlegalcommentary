@@ -1,67 +1,140 @@
+import type { Lang } from './i18n';
+
 export interface LawInfo {
   abbr: string;
-  name: string;
   sr: string;
-  fullTitle: string;
-  description: string;
+  name: Record<Lang, string>;
+  description: Record<Lang, string>;
 }
 
 export const LAWS: LawInfo[] = [
   {
     abbr: 'BV',
-    name: 'Bundesverfassung',
     sr: '101',
-    fullTitle: 'Bundesverfassung der Schweizerischen Eidgenossenschaft',
-    description: 'Grundrechte, Staatsorganisation, Kompetenzverteilung',
+    name: {
+      de: 'Bundesverfassung',
+      fr: 'Constitution fédérale',
+      it: 'Costituzione federale',
+      en: 'Federal Constitution',
+    },
+    description: {
+      de: 'Grundrechte, Staatsorganisation, Kompetenzverteilung',
+      fr: 'Droits fondamentaux, organisation de l\'État, répartition des compétences',
+      it: 'Diritti fondamentali, organizzazione dello Stato, ripartizione delle competenze',
+      en: 'Fundamental rights, state organization, distribution of powers',
+    },
   },
   {
     abbr: 'ZGB',
-    name: 'Zivilgesetzbuch',
     sr: '210',
-    fullTitle: 'Schweizerisches Zivilgesetzbuch',
-    description: 'Personenrecht, Familienrecht, Erbrecht, Sachenrecht',
+    name: {
+      de: 'Zivilgesetzbuch',
+      fr: 'Code civil',
+      it: 'Codice civile',
+      en: 'Civil Code',
+    },
+    description: {
+      de: 'Personenrecht, Familienrecht, Erbrecht, Sachenrecht',
+      fr: 'Droit des personnes, droit de la famille, droit des successions, droits réels',
+      it: 'Diritto delle persone, diritto di famiglia, diritto successorio, diritti reali',
+      en: 'Law of persons, family law, inheritance law, property law',
+    },
   },
   {
     abbr: 'OR',
-    name: 'Obligationenrecht',
     sr: '220',
-    fullTitle: 'Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)',
-    description: 'Vertragsrecht, Haftpflicht, Gesellschaftsrecht',
+    name: {
+      de: 'Obligationenrecht',
+      fr: 'Code des obligations',
+      it: 'Codice delle obbligazioni',
+      en: 'Code of Obligations',
+    },
+    description: {
+      de: 'Vertragsrecht, Haftpflicht, Gesellschaftsrecht',
+      fr: 'Droit des contrats, responsabilité civile, droit des sociétés',
+      it: 'Diritto contrattuale, responsabilità civile, diritto societario',
+      en: 'Contract law, tort law, corporate law',
+    },
   },
   {
     abbr: 'ZPO',
-    name: 'Zivilprozessordnung',
     sr: '272',
-    fullTitle: 'Schweizerische Zivilprozessordnung',
-    description: 'Zivilverfahren, Schlichtung, Beweisrecht',
+    name: {
+      de: 'Zivilprozessordnung',
+      fr: 'Code de procédure civile',
+      it: 'Codice di procedura civile',
+      en: 'Civil Procedure Code',
+    },
+    description: {
+      de: 'Zivilverfahren, Schlichtung, Beweisrecht',
+      fr: 'Procédure civile, conciliation, droit de la preuve',
+      it: 'Procedura civile, conciliazione, diritto probatorio',
+      en: 'Civil procedure, conciliation, law of evidence',
+    },
   },
   {
     abbr: 'StGB',
-    name: 'Strafgesetzbuch',
     sr: '311.0',
-    fullTitle: 'Schweizerisches Strafgesetzbuch',
-    description: 'Straftatbestände, Sanktionen, Allgemeiner Teil',
+    name: {
+      de: 'Strafgesetzbuch',
+      fr: 'Code pénal',
+      it: 'Codice penale',
+      en: 'Criminal Code',
+    },
+    description: {
+      de: 'Straftatbestände, Sanktionen, Allgemeiner Teil',
+      fr: 'Infractions, sanctions, partie générale',
+      it: 'Reati, sanzioni, parte generale',
+      en: 'Criminal offences, sanctions, general part',
+    },
   },
   {
     abbr: 'StPO',
-    name: 'Strafprozessordnung',
     sr: '312.0',
-    fullTitle: 'Schweizerische Strafprozessordnung',
-    description: 'Strafverfahren, Ermittlung, Hauptverhandlung',
+    name: {
+      de: 'Strafprozessordnung',
+      fr: 'Code de procédure pénale',
+      it: 'Codice di procedura penale',
+      en: 'Criminal Procedure Code',
+    },
+    description: {
+      de: 'Strafverfahren, Ermittlung, Hauptverhandlung',
+      fr: 'Procédure pénale, enquête, débats',
+      it: 'Procedura penale, indagine, dibattimento',
+      en: 'Criminal procedure, investigation, trial',
+    },
   },
   {
     abbr: 'SchKG',
-    name: 'SchKG',
     sr: '281.1',
-    fullTitle: 'Bundesgesetz über Schuldbetreibung und Konkurs',
-    description: 'Betreibung, Konkurs, Pfändung, Nachlass',
+    name: {
+      de: 'SchKG',
+      fr: 'LP',
+      it: 'LEF',
+      en: 'DCBA',
+    },
+    description: {
+      de: 'Betreibung, Konkurs, Pfändung, Nachlass',
+      fr: 'Poursuite, faillite, saisie, concordat',
+      it: 'Esecuzione, fallimento, pignoramento, concordato',
+      en: 'Debt enforcement, bankruptcy, seizure, composition',
+    },
   },
   {
     abbr: 'VwVG',
-    name: 'VwVG',
     sr: '172.021',
-    fullTitle: 'Bundesgesetz über das Verwaltungsverfahren',
-    description: 'Verwaltungsverfahren, Verfügungen, Rechtsmittel',
+    name: {
+      de: 'VwVG',
+      fr: 'PA',
+      it: 'PA',
+      en: 'APA',
+    },
+    description: {
+      de: 'Verwaltungsverfahren, Verfügungen, Rechtsmittel',
+      fr: 'Procédure administrative, décisions, voies de droit',
+      it: 'Procedura amministrativa, decisioni, rimedi giuridici',
+      en: 'Administrative procedure, decisions, legal remedies',
+    },
   },
 ];
 

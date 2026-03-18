@@ -42,6 +42,14 @@ def test_translate_layer_prompt_includes_target(config):
         assert "Italian" in call_kwargs["prompt"]
 
 
+def test_translate_english(config):
+    mock_run = AsyncMock(return_value=("Translated.", 0.02))
+    with patch("agents.translator.run_agent", mock_run):
+        asyncio.run(translate_layer(config, "OR", 41, "", "summary", "en"))
+        call_kwargs = mock_run.call_args.kwargs
+        assert "English" in call_kwargs["prompt"]
+
+
 def test_translate_invalid_language(config):
     with pytest.raises(ValueError, match="Unknown target language"):
-        asyncio.run(translate_layer(config, "OR", 41, "", "summary", "en"))
+        asyncio.run(translate_layer(config, "OR", 41, "", "summary", "de"))

@@ -33,10 +33,16 @@
   --space-8: 6rem;
   --space-10: 8rem;
   --space-12: 10rem;
+  --space-16: 12rem;
 
   /* Layout */
   --content-width: 720px;
-  --max-width: 1200px;
+  --max-width: 1280px;
+
+  /* Gradients & effects */
+  --gradient-accent: linear-gradient(135deg, #DC2626, #B91C1C);
+  --color-hover-tint: color-mix(in srgb, var(--color-accent) 4%, var(--color-bg));
+  --color-glass: color-mix(in srgb, var(--color-bg-elevated) 80%, transparent);
 
   /* Colors — Warm Swiss palette */
   --color-bg: #FAF9F6;
@@ -120,6 +126,7 @@
   --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.3);
   --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.3);
   --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.4);
+  --color-glass: color-mix(in srgb, var(--color-bg-elevated) 65%, transparent);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -190,6 +197,20 @@ body::before {
   z-index: 9999;
   opacity: 0.015;
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+}
+
+/* Top accent line */
+body::after {
+  content: '';
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--gradient-accent);
+  z-index: 200;
+  pointer-events: none;
 }
 
 /* ===== Typography ===== */
@@ -394,7 +415,7 @@ main {
 /* ===== Markdown Content ===== */
 .prose {
   max-width: 65ch;
-  line-height: 1.85;
+  line-height: 1.75;
   font-size: var(--text-base);
 }
 
@@ -402,7 +423,8 @@ main {
 .prose h2 { font-size: var(--text-lg); margin-top: var(--space-4); }
 .prose h3 { font-size: var(--text-md); margin-top: var(--space-3); }
 
-.prose p,
+.prose p { margin-bottom: 1.5em; }
+
 .prose ul,
 .prose ol,
 .prose blockquote,
@@ -569,6 +591,61 @@ main {
   border-radius: var(--radius-sm);
 }
 
+/* ===== Touch Targets ===== */
+.search-trigger,
+.theme-toggle,
+.nav-toggle {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+.nav-list a {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.tab-btn {
+  min-height: 44px;
+}
+
+.lang-btn {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* ===== Skip to Content ===== */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: var(--space-2);
+  padding: var(--space-1) var(--space-2);
+  background: var(--color-accent);
+  color: white;
+  z-index: 300;
+  border-radius: var(--radius-md);
+  font-family: var(--font-heading);
+  font-size: var(--text-sm);
+  text-decoration: none;
+}
+.skip-link:focus { top: var(--space-2); }
+
+/* ===== Scroll Effects ===== */
+.fade-on-scroll {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.5s var(--ease-out), transform 0.5s var(--ease-out);
+}
+.fade-on-scroll.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.site-header.scrolled {
+  box-shadow: var(--shadow-sm);
+}
+
 /* ===== Reduced Motion ===== */
 @media (prefers-reduced-motion: reduce) {
   *,
@@ -578,4 +655,5 @@ main {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
   }
+  .fade-on-scroll { opacity: 1; transform: none; transition: none; }
 }

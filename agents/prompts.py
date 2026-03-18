@@ -169,10 +169,11 @@ def build_translator_prompt(guidelines_root: Path, target_lang: str) -> str:
     lang_config = {
         "fr": ("French", "français"),
         "it": ("Italian", "italiano"),
+        "en": ("English", "english"),
     }
     if target_lang not in lang_config:
         raise ValueError(
-            f"Unknown target language: {target_lang}. Must be 'fr' or 'it'"
+            f"Unknown target language: {target_lang}. Must be 'fr', 'it', or 'en'"
         )
 
     lang_name, _ = lang_config[target_lang]

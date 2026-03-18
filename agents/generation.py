@@ -167,7 +167,7 @@ async def process_article(
                 layer_type, result.eval_result,
             )
 
-            for lang in ("fr", "it"):
+            for lang in ("fr", "it", "en"):
                 try:
                     await translate_layer(
                         config, law, article_number,

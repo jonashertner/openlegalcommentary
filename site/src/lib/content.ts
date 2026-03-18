@@ -4,6 +4,7 @@ import yaml from 'js-yaml';
 
 const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../..', 'content');
 const ARTICLE_LISTS_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_lists.json');
+const ARTICLE_TITLES_I18N_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_titles_i18n.json');
 
 interface ArticleListEntry {
   number: number;
@@ -29,6 +30,29 @@ function getArticleLists(): Record<string, ArticleListData> {
   } catch {
     return {};
   }
+}
+
+// Translated article titles (FR/IT from opencaselaw API)
+type TitleI18nData = Record<string, Record<string, Record<string, string>>>;
+let _titleI18nCache: TitleI18nData | null = null;
+
+function getTitleI18n(): TitleI18nData {
+  if (_titleI18nCache) return _titleI18nCache;
+  try {
+    const raw = fs.readFileSync(ARTICLE_TITLES_I18N_PATH, 'utf-8');
+    _titleI18nCache = JSON.parse(raw);
+    return _titleI18nCache!;
+  } catch {
+    return {};
+  }
+}
+
+export function getTranslatedTitle(law: string, articleRaw: string, lang: string, fallback: string): string {
+  if (lang === 'de') return fallback;
+  const data = getTitleI18n();
+  const lawTitles = data[lang]?.[law.toUpperCase()];
+  if (!lawTitles) return fallback;
+  return lawTitles[articleRaw] || fallback;
 }
 
 export interface ArticleTextParagraph {
@@ -67,8 +91,8 @@ function _findArticleKey(lawTexts: Record<string, ArticleTextParagraph[]>, artic
   return undefined;
 }
 
-export function getArticleText(law: string, articleRaw: string): ArticleTextParagraph[] {
-  const texts = getArticleTexts('de');
+export function getArticleText(law: string, articleRaw: string, lang: string = 'de'): ArticleTextParagraph[] {
+  const texts = getArticleTexts(lang);
   const key = _findLawKey(texts, law);
   if (!key) return [];
   const artKey = _findArticleKey(texts[key], articleRaw);
@@ -79,7 +103,7 @@ export function getArticleTextI18n(
   law: string, articleRaw: string
 ): Record<string, ArticleTextParagraph[]> {
   const result: Record<string, ArticleTextParagraph[]> = {};
-  for (const lang of ['de', 'fr', 'it']) {
+  for (const lang of ['de', 'fr', 'it', 'en']) {
     const texts = getArticleTexts(lang);
     const key = _findLawKey(texts, law);
     if (key) {
@@ -122,11 +146,6 @@ export interface ArticleContent {
   caselaw: string;
   dirName: string;
   slug: string;
-  translations: {
-    summary?: { fr?: string; it?: string };
-    doctrine?: { fr?: string; it?: string };
-    caselaw?: { fr?: string; it?: string };
-  };
 }
 
 export interface LawStats {
@@ -174,25 +193,26 @@ export function loadArticleMeta(law: string, dirName: string): ArticleMeta | nul
   }
 }
 
-export function loadArticle(law: string, dirName: string): ArticleContent | null {
+export function loadArticle(law: string, dirName: string, lang: string = 'de'): ArticleContent | null {
   const artDir = path.join(CONTENT_ROOT, law.toLowerCase(), dirName);
   if (!fs.existsSync(artDir)) return null;
   const meta = loadArticleMeta(law, dirName);
   if (!meta) return null;
-  const summary = readFileIfExists(path.join(artDir, 'summary.md'));
-  const doctrine = readFileIfExists(path.join(artDir, 'doctrine.md'));
-  const caselaw = readFileIfExists(path.join(artDir, 'caselaw.md'));
-  const translations: ArticleContent['translations'] = {};
-  for (const layer of ['summary', 'doctrine', 'caselaw'] as const) {
-    const fr = readFileIfExists(path.join(artDir, `${layer}.fr.md`));
-    const it = readFileIfExists(path.join(artDir, `${layer}.it.md`));
-    if (fr || it) {
-      translations[layer] = {};
-      if (fr) translations[layer]!.fr = fr;
-      if (it) translations[layer]!.it = it;
+
+  function loadLayer(layer: string): string {
+    if (lang === 'de') {
+      return readFileIfExists(path.join(artDir, `${layer}.md`));
     }
+    const langFile = readFileIfExists(path.join(artDir, `${layer}.${lang}.md`));
+    if (langFile.trim().length > 0) return langFile;
+    // Fallback to German
+    return readFileIfExists(path.join(artDir, `${layer}.md`));
   }
-  return { meta, summary, doctrine, caselaw, dirName, slug: dirNameToSlug(dirName), translations };
+
+  const summary = loadLayer('summary');
+  const doctrine = loadLayer('doctrine');
+  const caselaw = loadLayer('caselaw');
+  return { meta, summary, doctrine, caselaw, dirName, slug: dirNameToSlug(dirName) };
 }
 
 export function listArticleDirs(law: string): string[] {

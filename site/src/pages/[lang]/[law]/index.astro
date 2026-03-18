@@ -1,0 +1,377 @@
+---
+// site/src/pages/[lang]/[law]/index.astro
+import { LANGS, type Lang, t } from '@/lib/i18n';
+import { langBase, langHome } from '@/lib/base';
+import Base from '../../../layouts/Base.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import { LAWS, getLawByAbbr } from '../../../lib/laws';
+import { listArticles, getLawStats } from '../../../lib/content';
+import fs from 'node:fs';
+import path from 'node:path';
+
+export function getStaticPaths() {
+  const laws = ['bv', 'zgb', 'or', 'zpo', 'stgb', 'stpo', 'schkg', 'vwvg'];
+  return LANGS.flatMap(lang =>
+    laws.map(law => ({ params: { lang, law } }))
+  );
+}
+
+const { lang, law: lawParam } = Astro.params as { lang: Lang; law: string };
+const lawInfo = getLawByAbbr(lawParam!);
+
+if (!lawInfo) {
+  return Astro.redirect(langHome(lang));
+}
+
+const articles = listArticles(lawInfo.abbr);
+const stats = getLawStats(lawInfo.abbr);
+
+// Load structural data (Titel/Kapitel/Abschnitt) if available
+interface StructureEntry {
+  type: 'titel' | 'kapitel' | 'abschnitt';
+  label: string;
+  name: string;
+  from?: number;
+  to?: number;
+}
+
+let structure: StructureEntry[] = [];
+try {
+  const structPath = path.resolve('..', 'scripts', 'law_structures.json');
+  const structData = JSON.parse(fs.readFileSync(structPath, 'utf-8'));
+  structure = structData[lawInfo.abbr] || [];
+} catch {
+  // No structure data available — show flat list
+}
+
+// Build a map: article number → structural headings that appear before it
+const headingsBefore = new Map<number, StructureEntry[]>();
+
+if (structure.length > 0) {
+  for (const entry of structure) {
+    if (entry.from != null) {
+      if (!headingsBefore.has(entry.from)) {
+        headingsBefore.set(entry.from, []);
+      }
+      headingsBefore.get(entry.from)!.push(entry);
+    }
+  }
+
+  for (let i = 0; i < structure.length; i++) {
+    const entry = structure[i];
+    if (entry.from == null) {
+      for (let j = i + 1; j < structure.length; j++) {
+        if (structure[j].from != null) {
+          const key = structure[j].from!;
+          if (!headingsBefore.has(key)) {
+            headingsBefore.set(key, []);
+          }
+          headingsBefore.get(key)!.unshift(entry);
+          break;
+        }
+      }
+    }
+  }
+}
+---
+
+<Base title={`${lawInfo.abbr} — ${lawInfo.name[lang]}`} lang={lang} pagePath={`/${lawParam}`} description={lawInfo.description[lang]}>
+  <Breadcrumb lang={lang} items={[{ label: lawInfo.abbr }]} />
+
+  <header class="law-header">
+    <div class="law-header-top">
+      <h1>{lawInfo.abbr}</h1>
+      <span class="law-sr font-mono text-muted">SR {lawInfo.sr}</span>
+    </div>
+    <p class="law-full-title text-secondary">{lawInfo.name[lang]}</p>
+    <div class="law-meta text-sm text-muted font-heading">
+      <span>{stats.totalArticles} {t('home.stat.articles', lang)}</span>
+      {stats.withContent > 0 && (
+        <>
+          <span>&middot;</span>
+          <span>{stats.withContent} {t('law.articles_with_commentary', lang)}</span>
+        </>
+      )}
+    </div>
+    <div class="law-progress">
+      <div class="progress-bar">
+        <div class="progress-fill" style={`width: ${Math.max(stats.withContent / stats.totalArticles * 100, stats.withContent > 0 ? 1 : 0)}%`}></div>
+      </div>
+      <span class="progress-label text-xs text-muted font-mono">
+        {Math.round(stats.withContent / stats.totalArticles * 100)}%
+      </span>
+    </div>
+  </header>
+
+  <div class="law-search">
+    <button class="search-trigger law-search-btn" aria-label={t('header.search', lang)}>
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="8"/>
+        <path d="m21 21-4.3-4.3"/>
+      </svg>
+      <span>{t('search.placeholder', lang)}</span>
+      <kbd>⌘K</kbd>
+    </button>
+  </div>
+
+  <section class="toc">
+    <h2>{t('article.toc', lang)}</h2>
+
+    <ul class="toc-list">
+      {articles.map((art) => {
+        const suffix = art.meta.article_suffix || '';
+        const displayNum = `${art.meta.article}${suffix}`;
+        const hasContent = Object.keys(art.meta.layers).length > 0;
+        const artNum = art.meta.article;
+
+        const headings = headingsBefore.get(artNum) || [];
+
+        return (
+          <>
+            {headings.map((h) => {
+              const cls = `toc-heading toc-heading-${h.type}`;
+              return (
+                <li class={cls}>
+                  <span class="toc-heading-label">{h.label}</span>
+                  <span class="toc-heading-name">{h.name}</span>
+                </li>
+              );
+            })}
+            <li class:list={['toc-item', { 'has-content': hasContent }]}>
+              <a href={`${langBase(lang)}/${lawParam}/${art.slug}`}>
+                <span class="toc-num font-mono">Art.&nbsp;{displayNum}</span>
+                <span class="toc-title">{art.meta.title}</span>
+                {hasContent && <span class="toc-badge" title="Kommentiert">&#9679;</span>}
+              </a>
+            </li>
+          </>
+        );
+      })}
+    </ul>
+  </section>
+</Base>
+
+<style>
+  .law-header {
+    margin-bottom: var(--space-4);
+    padding-bottom: var(--space-3);
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .law-header-top {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-2);
+  }
+
+  .law-header h1 {
+    color: var(--color-accent);
+    margin-bottom: var(--space-1);
+  }
+
+  .law-full-title {
+    font-size: var(--text-md);
+    margin-bottom: var(--space-1);
+  }
+
+  .law-meta {
+    display: flex;
+    gap: var(--space-1);
+  }
+
+  .law-progress {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    margin-top: var(--space-2);
+  }
+
+  .progress-bar {
+    flex: 1;
+    max-width: 200px;
+    height: 3px;
+    background: var(--color-bg-alt);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .progress-fill {
+    height: 3px;
+    background: var(--gradient-accent);
+    border-radius: 2px;
+    transition: width 0.6s var(--ease-out);
+  }
+
+  .law-search {
+    margin-bottom: var(--space-4);
+  }
+
+  .law-search-btn {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    width: 100%;
+    padding: var(--space-2) var(--space-3);
+    background: var(--color-bg-card, var(--color-bg));
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    color: var(--color-text-muted);
+    font-family: var(--font-heading);
+    font-size: var(--text-sm);
+    transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  .law-search-btn:hover {
+    border-color: var(--color-accent);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .law-search-btn span {
+    flex: 1;
+    text-align: left;
+  }
+
+  .law-search-btn kbd {
+    font-family: var(--font-heading);
+    font-size: var(--text-xs);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 1px 5px;
+    background: var(--color-bg-alt);
+    color: var(--color-text-muted);
+  }
+
+  .toc h2 {
+    margin-bottom: var(--space-3);
+  }
+
+  .toc-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  /* Structural headings */
+  .toc-heading {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .toc-heading-titel {
+    margin-top: var(--space-4);
+    padding: var(--space-2) 0 var(--space-2) var(--space-2);
+    border-bottom: 2px solid var(--color-accent);
+    border-left: 3px solid var(--color-accent);
+  }
+
+  .toc-heading-titel .toc-heading-label {
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-accent);
+    font-weight: 600;
+    display: block;
+    margin-bottom: 2px;
+  }
+
+  .toc-heading-titel .toc-heading-name {
+    font-size: var(--text-md);
+    font-weight: 600;
+    color: var(--color-text);
+  }
+
+  .toc-heading-kapitel {
+    margin-top: var(--space-3);
+    padding: var(--space-1) 0 var(--space-1) var(--space-2);
+    border-bottom: 1px solid var(--color-border);
+    border-left: 3px solid var(--color-accent);
+  }
+
+  .toc-heading-kapitel .toc-heading-label {
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+    font-weight: 500;
+    margin-right: var(--space-1);
+  }
+
+  .toc-heading-kapitel .toc-heading-name {
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--color-text);
+  }
+
+  .toc-heading-abschnitt {
+    margin-top: var(--space-2);
+    padding: 4px 0 4px var(--space-2);
+  }
+
+  .toc-heading-abschnitt .toc-heading-label {
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
+    margin-right: 4px;
+  }
+
+  .toc-heading-abschnitt .toc-heading-name {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    font-style: italic;
+  }
+
+  /* Article items — single column */
+  .toc-item a {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    padding: 6px var(--space-1);
+    text-decoration: none;
+    color: var(--color-text);
+    border-radius: 4px;
+    transition: background var(--transition-fast), transform var(--transition-fast), border-color var(--transition-fast);
+    font-size: var(--text-sm);
+    border-left: 2px solid transparent;
+  }
+
+  .toc-item a:hover {
+    background: var(--color-bg-alt);
+    transform: translateX(4px);
+    border-left-color: var(--color-accent);
+  }
+
+  .toc-num {
+    color: var(--color-text-muted);
+    min-width: 80px;
+    font-size: var(--text-xs);
+    flex-shrink: 0;
+  }
+
+  .toc-title {
+    flex: 1;
+  }
+
+  .toc-badge {
+    color: var(--color-accent);
+    font-size: 8px;
+    flex-shrink: 0;
+  }
+
+  /* First titel shouldn't have top margin */
+  .toc-list > .toc-heading-titel:first-child {
+    margin-top: 0;
+  }
+
+  @media (max-width: 480px) {
+    .toc-num {
+      min-width: 60px;
+    }
+    .law-full-title {
+      font-size: var(--text-sm);
+    }
+    .toc-heading-titel .toc-heading-name {
+      font-size: var(--text-sm);
+    }
+  }
+</style>

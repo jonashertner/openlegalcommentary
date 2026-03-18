@@ -1,5 +1,7 @@
 ---
 // site/src/components/ArticleTabs.astro
+import { type Lang, t } from '@/lib/i18n';
+
 interface TocEntry {
   level: number;
   text: string;
@@ -7,6 +9,7 @@ interface TocEntry {
 }
 
 export interface Props {
+  lang: Lang;
   summary: string;
   doctrine: string;
   caselaw: string;
@@ -16,6 +19,7 @@ export interface Props {
 }
 
 const {
+  lang,
   summary, doctrine, caselaw,
   activeTab = 'summary',
   doctrineToc = [],
@@ -24,7 +28,7 @@ const {
 ---
 
 <div class="tabs-container" data-active-tab={activeTab}>
-  <div class="tabs-nav" role="tablist" aria-label="Kommentarebenen">
+  <div class="tabs-nav" role="tablist" aria-label={t('tab.summary', lang) + ' / ' + t('tab.doctrine', lang) + ' / ' + t('tab.caselaw', lang)}>
     <button
       role="tab"
       id="tab-summary"
@@ -33,7 +37,7 @@ const {
       class:list={['tab-btn', { active: activeTab === 'summary' }]}
       data-tab="summary"
     >
-      Übersicht
+      {t('tab.summary', lang)}
     </button>
     <button
       role="tab"
@@ -43,7 +47,7 @@ const {
       class:list={['tab-btn', { active: activeTab === 'doctrine' }]}
       data-tab="doctrine"
     >
-      Doktrin
+      {t('tab.doctrine', lang)}
     </button>
     <button
       role="tab"
@@ -53,8 +57,9 @@ const {
       class:list={['tab-btn', { active: activeTab === 'caselaw' }]}
       data-tab="caselaw"
     >
-      Rechtsprechung
+      {t('tab.caselaw', lang)}
     </button>
+    <div class="tab-indicator" id="tab-indicator"></div>
   </div>
 
   <div
@@ -75,7 +80,7 @@ const {
     data-panel="doctrine"
   >
     {doctrineToc.length > 2 && (
-      <nav class="toc" aria-label="Inhaltsverzeichnis">
+      <nav class="toc" aria-label={t('article.toc', lang)}>
         <details open>
           <summary class="toc-toggle">
             <span class="toc-icon" aria-hidden="true">
@@ -83,7 +88,7 @@ const {
                 <path d="M2 3h10M2 7h7M2 11h10" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
               </svg>
             </span>
-            Inhalt
+            {t('article.toc', lang)}
           </summary>
           <ol class="toc-list">
             {doctrineToc.map((entry) => (
@@ -106,7 +111,7 @@ const {
     data-panel="caselaw"
   >
     {caselawToc.length > 2 && (
-      <nav class="toc" aria-label="Inhaltsverzeichnis">
+      <nav class="toc" aria-label={t('article.toc', lang)}>
         <details open>
           <summary class="toc-toggle">
             <span class="toc-icon" aria-hidden="true">
@@ -114,7 +119,7 @@ const {
                 <path d="M2 3h10M2 7h7M2 11h10" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
               </svg>
             </span>
-            Inhalt
+            {t('article.toc', lang)}
           </summary>
           <ol class="toc-list">
             {caselawToc.map((entry) => (
@@ -138,6 +143,16 @@ const {
     margin-bottom: var(--space-3);
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    position: relative;
+  }
+
+  .tab-indicator {
+    position: absolute;
+    bottom: 0;
+    height: 2px;
+    background: var(--color-accent);
+    transition: transform 0.3s var(--ease-out), width 0.3s var(--ease-out);
+    border-radius: 1px;
   }
 
   .tab-btn {
@@ -161,7 +176,6 @@ const {
 
   .tab-btn.active {
     color: var(--color-tab-active);
-    border-bottom-color: var(--color-accent);
     font-weight: 600;
   }
 
@@ -270,9 +284,31 @@ const {
       font-size: var(--text-sm);
     }
   }
+
+  @media (max-width: 640px) {
+    .tabs-nav {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      flex-wrap: nowrap;
+      scrollbar-width: none;
+    }
+    .tabs-nav::-webkit-scrollbar { display: none; }
+  }
 </style>
 
 <script>
+  document.addEventListener('astro:page-load', () => {
+  // Tab indicator positioning
+  function updateIndicator() {
+    const activeTab = document.querySelector('.tab-btn[aria-selected="true"]') || document.querySelector('.tab-btn.active');
+    const indicator = document.getElementById('tab-indicator');
+    if (activeTab && indicator) {
+      const btn = activeTab as HTMLElement;
+      indicator.style.width = btn.offsetWidth + 'px';
+      indicator.style.transform = `translateX(${btn.offsetLeft}px)`;
+    }
+  }
+
   // Tab switching with URL parameter support
   function initTabs() {
     const container = document.querySelector('.tabs-container');
@@ -292,6 +328,8 @@ const {
         const isActive = panel.dataset.panel === tabName;
         panel.classList.toggle('hidden', !isActive);
       });
+
+      updateIndicator();
 
       // Update URL without reload
       const url = new URL(window.location.href);
@@ -316,11 +354,15 @@ const {
     if (layer && ['summary', 'doctrine', 'caselaw'].includes(layer)) {
       switchTab(layer);
     }
+
+    // Initialize indicator position
+    updateIndicator();
   }
 
   initTabs();
 
   // TOC active section tracking via IntersectionObserver
+
   function initTocTracking() {
     const tocLinks = document.querySelectorAll('.toc-list li a');
     if (tocLinks.length === 0) return;
@@ -359,4 +401,5 @@ const {
   }
 
   initTocTracking();
+  });
 </script>
