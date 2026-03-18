@@ -23,8 +23,14 @@ const {
   currentPath = Astro.url.pathname,
 } = Astro.props;
 
+const siteSubtitle: Record<Lang, string> = {
+  de: 'Schweizer Bundesrecht',
+  fr: 'Droit fédéral suisse',
+  it: 'Diritto federale svizzero',
+  en: 'Swiss Federal Law',
+};
 const fullTitle = title === 'Home'
-  ? 'Open Legal Commentary — Schweizer Bundesrecht'
+  ? `Open Legal Commentary — ${siteSubtitle[lang]}`
   : `${title} — Open Legal Commentary`;
 ---
 
@@ -37,9 +43,9 @@ const fullTitle = title === 'Home'
     <meta name="current-lang" content={lang} />
     <title>{fullTitle}</title>
     <link rel="icon" type="image/svg+xml" href={`${BASE}/favicon.svg`} />
-    <link rel="canonical" href={`${Astro.site}${langBase('de')}${pagePath}`} />
+    <link rel="canonical" href={`${(Astro.site?.toString() || '').replace(/\/$/, '')}${langBase('de')}${pagePath}`} />
     {LANGS.map((l) => (
-      <link rel="alternate" hreflang={l} href={`${Astro.site}${langBase(l)}${pagePath}`} />
+      <link rel="alternate" hreflang={l} href={`${(Astro.site?.toString() || '').replace(/\/$/, '')}${langBase(l)}${pagePath}`} />
     ))}
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
