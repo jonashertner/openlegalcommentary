@@ -1,3 +1,13 @@
 ---
-return Astro.redirect('/de/');
+// Root redirect to default language
 ---
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="refresh" content="0;url=/de/" />
+  <link rel="canonical" href="/de/" />
+</head>
+<body>
+  <a href="/de/">Redirecting...</a>
+</body>
+</html>
