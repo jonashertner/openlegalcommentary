@@ -75,7 +75,7 @@ if (structure.length > 0) {
 }
 ---
 
-<Base title={`${lawInfo.abbr} — ${lawInfo.name}`} lang={lang} pagePath={`/${lawParam}`} description={lawInfo.fullTitle}>
+<Base title={`${lawInfo.abbr} — ${lawInfo.name[lang]}`} lang={lang} pagePath={`/${lawParam}`} description={lawInfo.description[lang]}>
   <Breadcrumb lang={lang} items={[{ label: lawInfo.abbr }]} />
 
   <header class="law-header">
@@ -83,7 +83,7 @@ if (structure.length > 0) {
       <h1>{lawInfo.abbr}</h1>
       <span class="law-sr font-mono text-muted">SR {lawInfo.sr}</span>
     </div>
-    <p class="law-full-title text-secondary">{lawInfo.fullTitle}</p>
+    <p class="law-full-title text-secondary">{lawInfo.name[lang]}</p>
     <div class="law-meta text-sm text-muted font-heading">
       <span>{stats.totalArticles} {t('home.stat.articles', lang)}</span>
       {stats.withContent > 0 && (

@@ -1,6 +1,6 @@
 ---
 // site/src/components/LawCard.astro
-import { type Lang } from '@/lib/i18n';
+import { type Lang, t } from '@/lib/i18n';
 import { langBase } from '@/lib/base';
 import type { LawInfo } from '../lib/laws';
 import type { LawStats } from '../lib/content';
@@ -21,13 +21,13 @@ const href = `${langBase(lang)}/${law.abbr.toLowerCase()}`;
       <span class="law-abbr">{law.abbr}</span>
       <span class="law-sr font-mono">{law.sr}</span>
     </div>
-    <h2 class="law-name">{law.name}</h2>
-    <p class="law-desc">{law.description}</p>
+    <h2 class="law-name">{law.name[lang]}</h2>
+    <p class="law-desc">{law.description[lang]}</p>
   </div>
   <div class="law-card-bottom">
     <div class="law-articles-count">
       <span class="law-count-value">{stats.totalArticles}</span>
-      <span class="law-count-label">Artikel</span>
+      <span class="law-count-label">{t('home.stat.articles', lang)}</span>
     </div>
     {stats.withContent > 0 && (
       <div class="law-card-progress">
