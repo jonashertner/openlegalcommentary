@@ -39,13 +39,17 @@ const { lang } = Astro.props;
 <style>
   .search-overlay {
     position: fixed;
-    inset: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     z-index: 200;
     background: color-mix(in srgb, var(--color-bg) 80%, transparent);
     backdrop-filter: blur(20px);
     display: none;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
+    padding: 15vh var(--space-3) var(--space-4);
   }
 
   .search-overlay.open {
@@ -55,7 +59,7 @@ const { lang } = Astro.props;
   .search-modal {
     max-width: 640px;
     width: 100%;
-    max-height: 80vh;
+    max-height: 70vh;
     background: var(--color-bg-elevated, var(--color-bg));
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-xl);
@@ -106,7 +110,7 @@ const { lang } = Astro.props;
 
   .search-results {
     overflow-y: auto;
-    max-height: calc(80vh - 60px);
+    max-height: calc(70vh - 60px);
     padding: var(--space-1);
   }
 
@@ -171,11 +175,15 @@ const { lang } = Astro.props;
   }
 
   @media (max-width: 640px) {
+    .search-overlay {
+      padding: var(--space-3);
+      align-items: flex-start;
+      padding-top: 10vh;
+    }
     .search-modal {
       max-width: 100%;
-      max-height: 100vh;
-      height: 100%;
-      border-radius: 0;
+      max-height: 80vh;
+      border-radius: var(--radius-md);
     }
   }
 </style>
