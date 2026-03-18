@@ -4,6 +4,7 @@ import yaml from 'js-yaml';
 
 const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../..', 'content');
 const ARTICLE_LISTS_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_lists.json');
+const ARTICLE_TITLES_I18N_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_titles_i18n.json');
 
 interface ArticleListEntry {
   number: number;
@@ -29,6 +30,29 @@ function getArticleLists(): Record<string, ArticleListData> {
   } catch {
     return {};
   }
+}
+
+// Translated article titles (FR/IT from opencaselaw API)
+type TitleI18nData = Record<string, Record<string, Record<string, string>>>;
+let _titleI18nCache: TitleI18nData | null = null;
+
+function getTitleI18n(): TitleI18nData {
+  if (_titleI18nCache) return _titleI18nCache;
+  try {
+    const raw = fs.readFileSync(ARTICLE_TITLES_I18N_PATH, 'utf-8');
+    _titleI18nCache = JSON.parse(raw);
+    return _titleI18nCache!;
+  } catch {
+    return {};
+  }
+}
+
+export function getTranslatedTitle(law: string, articleRaw: string, lang: string, fallback: string): string {
+  if (lang === 'de') return fallback;
+  const data = getTitleI18n();
+  const lawTitles = data[lang]?.[law.toUpperCase()];
+  if (!lawTitles) return fallback;
+  return lawTitles[articleRaw] || fallback;
 }
 
 export interface ArticleTextParagraph {
