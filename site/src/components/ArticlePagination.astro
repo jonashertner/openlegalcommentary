@@ -13,7 +13,7 @@ export interface Props {
 const { lang, law, prev, next } = Astro.props;
 ---
 
-<nav class="article-pagination" aria-label="Artikelnavigation">
+<nav class="article-pagination" aria-label={t('pagination.prev', lang) + ' / ' + t('pagination.next', lang)}>
   {prev ? (
     <a href={`${langBase(lang)}/${law}/${prev.slug}`} class="pagination-link pagination-prev">
       <span class="pagination-arrow">&larr;</span>

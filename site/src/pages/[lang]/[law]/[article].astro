@@ -42,9 +42,12 @@ const doctrine = articleData?.doctrine || '';
 const caselaw = articleData?.caselaw || '';
 const nav = getArticleNav(lawInfo.abbr, dirName);
 
-// Load Gesetzestext in the current language
+// Load Gesetzestext in the current language, fallback to German
 const articleRaw = `${meta.article}${meta.article_suffix || ''}`;
-const gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw, lang);
+let gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw, lang);
+if (gesetzestextParagraphs.length === 0 && lang !== 'de') {
+  gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw, 'de');
+}
 
 // Generate a slug from heading text for anchor IDs
 function slugify(text: string): string {
@@ -222,7 +225,7 @@ const lastUpdated = Object.values(layerMeta)
 
     {lastUpdated && (
       <p class="article-updated text-xs text-muted">
-        Letzte Aktualisierung: {lastUpdated}
+        {t('article.last_updated', lang)}: {lastUpdated}
       </p>
     )}
 
