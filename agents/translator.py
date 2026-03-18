@@ -10,7 +10,7 @@ from agents.config import AgentConfig
 from agents.prompts import build_translator_prompt
 from agents.tools.content import create_content_tools
 
-VALID_LANGUAGES = ("fr", "it")
+VALID_LANGUAGES = ("fr", "it", "en")
 
 
 async def translate_layer(
@@ -37,7 +37,8 @@ async def translate_layer(
     content_tools = create_content_tools(config.content_root)
 
     suffix_str = article_suffix or ""
-    lang_name = "French" if target_lang == "fr" else "Italian"
+    lang_names = {"fr": "French", "it": "Italian", "en": "English"}
+    lang_name = lang_names[target_lang]
     prompt = (
         f"Translate the {layer_type} layer for "
         f"Art. {article_number}{suffix_str} {law} "

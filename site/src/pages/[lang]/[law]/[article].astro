@@ -1,0 +1,403 @@
+---
+// site/src/pages/[lang]/[law]/[article].astro
+import { LANGS, type Lang, t } from '@/lib/i18n';
+import { langBase, langHome } from '@/lib/base';
+import Base from '../../../layouts/Base.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import ArticleTabs from '../../../components/ArticleTabs.astro';
+import ArticlePagination from '../../../components/ArticlePagination.astro';
+import Gesetzestext from '../../../components/Gesetzestext.astro';
+import { LAWS, getLawByAbbr } from '../../../lib/laws';
+import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText, getTranslatedTitle } from '../../../lib/content';
+
+export function getStaticPaths() {
+  const laws = ['bv', 'zgb', 'or', 'zpo', 'stgb', 'stpo', 'schkg', 'vwvg'];
+  return LANGS.flatMap(lang =>
+    laws.flatMap(law => {
+      const dirs = listArticleDirs(law);
+      return dirs.map(dir => {
+        const match = dir.match(/^art-(\d+)([a-z]*)$/);
+        const slug = match ? `art-${parseInt(match[1], 10)}${match[2] || ''}` : dir;
+        return { params: { lang, law, article: slug } };
+      });
+    })
+  );
+}
+
+const { lang, law: lawParam, article: articleSlug } = Astro.params as { lang: Lang; law: string; article: string };
+const lawInfo = getLawByAbbr(lawParam!);
+if (!lawInfo) return Astro.redirect(langHome(lang));
+
+const dirName = slugToDirName(articleSlug!);
+const articleData = loadArticle(lawInfo.abbr, dirName, lang);
+
+// Build meta from article_lists.json fallback if no content dir
+const allArticles = listArticles(lawInfo.abbr);
+const articleEntry = allArticles.find((a) => a.slug === articleSlug);
+if (!articleData && !articleEntry) return Astro.redirect(`${langBase(lang)}/${lawParam}`);
+
+const meta = articleData?.meta || articleEntry!.meta;
+const summary = articleData?.summary || '';
+const doctrine = articleData?.doctrine || '';
+const caselaw = articleData?.caselaw || '';
+const nav = getArticleNav(lawInfo.abbr, dirName);
+
+// Load Gesetzestext in the current language, fallback to German
+const articleRaw = `${meta.article}${meta.article_suffix || ''}`;
+let gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw, lang);
+if (gesetzestextParagraphs.length === 0 && lang !== 'de') {
+  gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw, 'de');
+}
+
+// Translate article title if available
+const translatedTitle = getTranslatedTitle(lawInfo.abbr, articleRaw, lang, meta.title);
+
+// Generate a slug from heading text for anchor IDs
+function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[äöüéèêàâîôûç]/g, (c) => {
+      const map: Record<string, string> = {
+        ä: 'ae', ö: 'oe', ü: 'ue', é: 'e', è: 'e', ê: 'e',
+        à: 'a', â: 'a', î: 'i', ô: 'o', û: 'u', ç: 'c',
+      };
+      return map[c] || c;
+    })
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+interface TocEntry {
+  level: number;
+  text: string;
+  id: string;
+}
+
+// Simple Markdown to HTML conversion with anchors & enhanced rendering
+function mdToHtml(md: string): string {
+  if (!md.trim()) return '<p class="text-muted">Noch kein Inhalt verfügbar.</p>';
+
+  let html = md
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    // Headings with anchor IDs
+    .replace(/^### (.+)$/gm, (_m, text) => {
+      const id = slugify(text);
+      return `<h3 id="${id}"><a href="#${id}" class="heading-anchor" aria-hidden="true">#</a>${text}</h3>`;
+    })
+    .replace(/^## (.+)$/gm, (_m, text) => {
+      const id = slugify(text);
+      return `<h2 id="${id}"><a href="#${id}" class="heading-anchor" aria-hidden="true">#</a>${text}</h2>`;
+    })
+    .replace(/^# (.+)$/gm, (_m, text) => {
+      const id = slugify(text);
+      return `<h1 id="${id}">${text}</h1>`;
+    })
+    // Randziffern: **N. X** → styled anchor with deep-link
+    .replace(
+      /\*\*(N\.\s*(\d+))\*\*/g,
+      (_m, label, num) =>
+        `<strong class="randziffer" id="n-${num}"><a href="#n-${num}" class="rz-link" title="${label}">${label}</a></strong>`
+    )
+    // BGE citations → linked to bger.ch with highlight
+    .replace(
+      /\*\*(BGE\s+(\d+)\s+([IVX]+)\s+(\d+))\*\*/g,
+      (_m, cite, vol, part, page) => {
+        const docid = encodeURIComponent(`atf://${vol}-${part}-${page}:de`);
+        const query = encodeURIComponent(`BGE ${vol} ${part} ${page}`);
+        const url = `https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=highlight_simple_query&query_words=${query}&part=all&top_subcollection_clir=bge&highlight_docid=${docid}&azaclir=clir`;
+        return `<strong><a href="${url}" target="_blank" rel="noopener" class="cite-bge">${cite}</a></strong>`;
+      }
+    )
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    // Plain BGE citations (not already wrapped in an anchor)
+    .replace(
+      /(?<!["'>])(BGE)\s+(\d+)\s+([IVX]+)\s+(\d+)(?![^<]*<\/a>)/g,
+      (_m, prefix, vol, part, page) => {
+        const cite = `${prefix} ${vol} ${part} ${page}`;
+        const docid = encodeURIComponent(`atf://${vol}-${part}-${page}:de`);
+        const query = encodeURIComponent(`BGE ${vol} ${part} ${page}`);
+        const url = `https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=highlight_simple_query&query_words=${query}&part=all&top_subcollection_clir=bge&highlight_docid=${docid}&azaclir=clir`;
+        return `<a href="${url}" target="_blank" rel="noopener" class="cite-bge">${cite}</a>`;
+      }
+    )
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    // Cross-references to other articles
+    .replace(
+      /(?:→|↔)\s*Art\.\s*(\d+)([a-z]*)\s+(BV|ZGB|OR|ZPO|StGB|StPO|SchKG|VwVG)/g,
+      (match, num, suffix, law) => {
+        const lawLower = law.toLowerCase();
+        const base = langBase(lang);
+        return `<a href="${base}/${lawLower}/art-${parseInt(num)}${suffix}" class="cite-cross">${match}</a>`;
+      }
+    )
+    // Blockquotes with proper nesting
+    .replace(/^&gt; (.+)$/gm, '<blockquote><p>$1</p></blockquote>')
+    .replace(/\n\n/g, '</p><p>')
+    .replace(/\n/g, '<br/>');
+
+  if (!html.startsWith('<h') && !html.startsWith('<blockquote') && !html.startsWith('<ul') && !html.startsWith('<ol')) {
+    html = '<p>' + html + '</p>';
+  }
+
+  html = html.replace(/<p><\/p>/g, '');
+  html = html.replace(/<p>(<h[1-3])/g, '$1');
+  html = html.replace(/(<\/h[1-3]>)<\/p>/g, '$1');
+  // Merge consecutive blockquotes
+  html = html.replace(/<\/blockquote>\s*<blockquote>/g, '');
+
+  return html;
+}
+
+// Extract TOC entries from markdown
+function extractToc(md: string): TocEntry[] {
+  const entries: TocEntry[] = [];
+  const lines = md.split('\n');
+  for (const line of lines) {
+    const h2 = line.match(/^## (.+)$/);
+    if (h2) {
+      entries.push({ level: 2, text: h2[1], id: slugify(h2[1]) });
+      continue;
+    }
+    const h3 = line.match(/^### (.+)$/);
+    if (h3) {
+      entries.push({ level: 3, text: h3[1], id: slugify(h3[1]) });
+    }
+  }
+  return entries;
+}
+
+const summaryHtml = mdToHtml(summary);
+const doctrineHtml = mdToHtml(doctrine);
+const caselawHtml = mdToHtml(caselaw);
+
+// Extract TOC entries for tabs with rich heading structure
+const doctrineToc = extractToc(doctrine);
+const caselawToc = extractToc(caselaw);
+
+const articleDisplay = `Art. ${meta.article}${meta.article_suffix || ''} ${lawInfo.abbr}`;
+
+const layerParam = Astro.url.searchParams.get('layer') || 'summary';
+const activeTab = ['summary', 'doctrine', 'caselaw'].includes(layerParam) ? layerParam : 'summary';
+
+const layerMeta = meta.layers || {};
+const lastUpdated = Object.values(layerMeta)
+  .map((l) => l.last_generated)
+  .filter(Boolean)
+  .sort()
+  .pop();
+---
+
+<Base title={articleDisplay} lang={lang} pagePath={`/${lawParam}/${articleSlug}`} description={`${t('footer.commentary', lang)}: ${articleDisplay}`}>
+  <Breadcrumb
+    lang={lang}
+    items={[
+      { label: lawInfo.abbr, href: `${langBase(lang)}/${lawParam}` },
+      { label: articleDisplay },
+    ]}
+  />
+
+  <article class="article-page content-column" data-pagefind-body data-pagefind-filter={`language:${lang}`} data-pagefind-meta={`law:${lawParam!.toUpperCase()}, article:${meta.article}${meta.article_suffix || ''}`}>
+    <header class="article-header">
+      <h1>{translatedTitle}</h1>
+      <div class="article-meta text-sm text-muted">
+        <span class="font-mono">SR {meta.sr_number}</span>
+        {meta.in_force_since && (
+          <span>{t('article.in_force_since', lang)} {meta.in_force_since}</span>
+        )}
+      </div>
+    </header>
+
+    <Gesetzestext
+      paragraphs={gesetzestextParagraphs}
+      lang={lang}
+      articleDisplay={articleDisplay}
+      fedlexUrl={meta.fedlex_url}
+    />
+
+    <ArticleTabs
+      lang={lang}
+      summary={summaryHtml}
+      doctrine={doctrineHtml}
+      caselaw={caselawHtml}
+      activeTab={activeTab}
+      doctrineToc={doctrineToc}
+      caselawToc={caselawToc}
+    />
+
+    {lastUpdated && (
+      <p class="article-updated text-xs text-muted">
+        {t('article.last_updated', lang)}: {lastUpdated}
+      </p>
+    )}
+
+    <ArticlePagination
+      lang={lang}
+      law={lawParam!}
+      prev={nav.prev}
+      next={nav.next}
+    />
+  </article>
+
+  <!-- Reading progress bar -->
+  <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
+
+  <!-- Back to top -->
+  <button
+    class="back-to-top"
+    id="back-to-top"
+    aria-label={t('article.back_to_top', lang)}
+    title={t('article.back_to_top', lang)}
+  >
+    <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
+      <path d="M9 14V4M9 4L4 9M9 4l5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </button>
+</Base>
+
+<style>
+  .article-page {
+    padding-top: var(--space-2);
+  }
+
+  .article-header {
+    margin-bottom: var(--space-3);
+    padding-bottom: var(--space-2);
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .article-header h1 {
+    margin-bottom: var(--space-1);
+  }
+
+  .article-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    align-items: center;
+  }
+
+  .fedlex-link {
+    color: var(--color-text-muted);
+    text-decoration: none;
+    font-size: var(--text-xs);
+    padding: 2px 8px;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+  }
+
+  .fedlex-link:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+  }
+
+  .article-updated {
+    margin-top: var(--space-3);
+    text-align: right;
+  }
+
+  /* Reading progress bar */
+  .reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 2px;
+    background: var(--gradient-accent);
+    z-index: 1000;
+    width: 0%;
+    transition: width 50ms linear;
+    pointer-events: none;
+  }
+
+  /* Back to top button */
+  .back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border);
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity var(--transition-base), transform var(--transition-base),
+      color var(--transition-fast), border-color var(--transition-fast),
+      box-shadow var(--transition-fast);
+    pointer-events: none;
+    box-shadow: var(--shadow-sm);
+    z-index: 100;
+  }
+
+  .back-to-top.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+
+  .back-to-top:hover {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+    box-shadow: var(--shadow-md);
+  }
+
+  @media (max-width: 768px) {
+    .back-to-top {
+      bottom: 1rem;
+      right: 1rem;
+      width: 36px;
+      height: 36px;
+    }
+    .article-meta {
+      flex-direction: column;
+      gap: var(--space-1);
+    }
+    .article-updated {
+      text-align: left;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .article-header h1 {
+      font-size: 1.25rem;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener('astro:page-load', () => {
+    // Reading progress bar
+    function updateProgress() {
+      const bar = document.getElementById('reading-progress');
+      if (!bar) return;
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+      bar.style.width = `${Math.min(progress, 100)}%`;
+    }
+
+    // Back to top button
+    function updateBackToTop() {
+      const btn = document.getElementById('back-to-top');
+      if (!btn) return;
+      btn.classList.toggle('visible', window.scrollY > 400);
+    }
+
+    window.addEventListener('scroll', () => {
+      requestAnimationFrame(() => {
+        updateProgress();
+        updateBackToTop();
+      });
+    }, { passive: true });
+
+    document.getElementById('back-to-top')?.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
+</script>

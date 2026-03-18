@@ -60,6 +60,11 @@ def test_translator_prompt_italian(guidelines_root):
     assert "Italian" in prompt or "italiano" in prompt.lower()
 
 
+def test_translator_prompt_english(guidelines_root):
+    prompt = build_translator_prompt(guidelines_root, "en")
+    assert "English" in prompt
+
+
 def test_invalid_layer_type(guidelines_root):
     with pytest.raises(ValueError):
         build_law_agent_prompt(guidelines_root, "OR", "invalid")
