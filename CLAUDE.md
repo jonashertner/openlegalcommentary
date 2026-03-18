@@ -7,7 +7,7 @@ Open-access, AI-generated, daily-updated legal commentary on Swiss federal law.
 - `guidelines/` — Authoring guidelines (global + per-law) and quality evaluation rubric
 - `content/` — Generated commentary organized by law and article
 - `agents/` — Agent pipeline (coordinator, law agents, evaluator, translator)
-- `site/` — Astro static site
+- `site/` — Astro static site (4 languages: DE/FR/IT/EN, URL-based routing under `/{lang}/`)
 - `export/` — HuggingFace dataset export
 - `scripts/` — Utility scripts (article fetcher, validation)
 - `tests/` — Test suite
@@ -19,7 +19,7 @@ Each article lives in `content/{law}/art-{number}/` with:
 - `summary.md` — Plain-language summary (B1 reading level)
 - `doctrine.md` — Doctrinal analysis with Randziffern
 - `caselaw.md` — Case law digest, daily updated
-- `*.fr.md` / `*.it.md` — French/Italian translations
+- `*.fr.md` / `*.it.md` / `*.en.md` — French/Italian/English translations
 
 ## Guidelines
 
@@ -47,5 +47,5 @@ StGB (SR 311.0), StPO (SR 312.0), SchKG (SR 281.1), VwVG (SR 172.021)
 - `uv run python -m scripts.scaffold_content` — scaffold content directories from article lists
 - `uv run python -m scripts.fetch_articles` — fetch article lists from opencaselaw
 - `cd site && npm run dev` — start local dev server
-- `cd site && npm run build` — build static site to site/dist/
+- `cd site && npm run build` — build static site to site/dist/ (includes Pagefind index generation via postbuild; always use `npm run build`, not `astro build` directly)
 - `cd site && npm run preview` — preview built site
