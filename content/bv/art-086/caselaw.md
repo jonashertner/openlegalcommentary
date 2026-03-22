@@ -1,65 +1,29 @@
-## Rechtsprechung
+# Rechtsprechung
 
-Die Rechtsprechung zu Art. 86 BV ist aufgrund des spezifischen Charakters als Finanzierungsgrundlage für Verkehrsinfrastruktur überschaubar. Die meisten Entscheidungen betreffen Fragen der Zweckbindung und Verwendung der Mineralölsteuererträge.
+Die Rechtsprechung zu Art. 86 BV ist aufgrund des technischen Charakters der Norm als Finanzierungsgrundlage für Verkehrsinfrastruktur begrenzt. Die massgeblichen Entscheide behandeln primär Fragen zur Zweckbindung von Treibstoffsteuererträgen und zur Verfassungsauslegung der Verwendungszwecke.
 
-### Zweckbindung und Verwendungsbereich
+## Verfassungsauslegung und Zweckbindung der Spezialfinanzierung
 
-**Gutachten BJ-05-08-3** (2005-08-03)  
-Verfassungsmässigkeit der Verwendung von Mineralölsteuererträgen für Schieneninfrastrukturen des Agglomerationsverkehrs.  
-Grundlegende Auslegung der Formulierung «im Zusammenhang mit dem Strassenverkehr» in Art. 86 Abs. 3 BV.  
+**Gutachten BJ-05-08-3 vom 3. August 2005** (Verfassungsmässigkeit der Verwendung von Mineralölsteuererträgen für Schieneninfrastrukturen des Agglomerationsverkehrs)
 
-> «Art. 86 Abs. 3 BV bestimmt, dass die Hälfte des Reinertrags der Verbrauchssteuer auf Treibstoffen sowie der Reinertrag aus der Nationalstrassenabgabe soweit für die aufgezählten Aufgaben und Aufwendungen verwendet werden darf, als sie «im Zusammenhang mit dem Strassenverkehr» stehen. Der Zusammenhang mit dem Strassenverkehr ist nicht nur dann gegeben, wenn die Beiträge direkt für die Strasseninfrastruktur eingesetzt werden; er besteht auch dann, wenn die Beiträge zu einer konkreten Entlastung bestimmter Strassen führen.»
+Das grundlegende Gutachten des Bundesamtes für Justiz klärt zentrale Auslegungsfragen zu Art. 86 Abs. 3 Bst. b^bis BV bezüglich der Finanzierung von Verkehrsinfrastruktur in Agglomerationen. Das BJ stellte fest, dass «Verkehrsinfrastruktur» alle Verkehrsträger umfasst, einschliesslich der Schiene.
 
-**A-1849/2013** (2013-08-20) [BVGer]  
-Verwendung von Treibstoffzollmitteln für Förderung der Flugsicherheit im Luftverkehr.  
-Bestätigung der engen Zweckbindung der Mineralölsteuererträge gemäss Art. 86 BV.  
+> «Art. 86 Abs. 3 BV bestimmt, dass die Hälfte des Reinertrags der Verbrauchssteuer auf Treibstoffen sowie der Reinertrag aus der Nationalstrassenabgabe soweit für die aufgezählten Aufgaben und Aufwendungen verwendet werden darf, als sie 'im Zusammenhang mit dem Strassenverkehr' stehen. Der Zusammenhang mit dem Strassenverkehr ist nicht nur dann gegeben, wenn die Beiträge direkt für die Strasseninfrastruktur eingesetzt werden; er besteht auch dann, wenn die Beiträge zu einer konkreten Entlastung bestimmter Strassen führen.»
 
-**A-1851/2013** (2013-08-20) [BVGer]  
-Verwendung von Treibstoffzollmitteln für Grundausbildung im Luftfahrzeugunterhalt.  
-Die Massnahme lag nicht im eigentlichen Anwendungsbereich des Art. 37f Bst. e MinVG, da es sich um vorgeschriebene Ausbildungen handelte.  
+Die Relevanz dieses Gutachtens liegt in der systematischen Verfassungsauslegung, welche die Grundlage für die moderne Agglomerationsverkehrsfinanzierung schuf und zeigt, dass die Zweckbindung nicht starr auf Strassenprojekte beschränkt ist, sondern verkehrsträgerübergreifende Lösungen ermöglicht.
 
-**A-1852/2013** (2013-08-20) [BVGer]  
-Verwendung von Treibstoffzollmitteln für Lehrlingsausbildung in der Luftfahrt.  
-Präzisierung der Voraussetzungen für Beiträge zur Förderung der Flugsicherheit.  
+**BGE 112 IV 102 vom 21. Oktober 1986** (Nationalstrassenabgabe; Vignettenpflicht)
 
-**A-1850/2013** (2013-08-20) [BVGer]  
-Weitere Entscheidung zur Verwendung von Treibstoffzollmitteln im Luftverkehr.  
-Konsistente Anwendung der restriktiven Auslegung der Zweckbindung.  
+Dieser Leitentscheid behandelt die praktische Anwendung der Nationalstrassenabgabe und bestätigt die verfassungsrechtliche Grundlage der Verkehrsfinanzierung. Das Bundesgericht präzisierte die Anforderungen an die ordnungsgemässe Vignettenanbringung.
 
-### Nationalstrassenabgabe
+> «Wer bei der Fahrt auf einer Autobahn die Vignette lose im Wagen mitführt, ist wegen Benützung einer Nationalstrasse 'mit einem Fahrzeug ohne gültige Vignette' im Sinne von Art. 9 Abs. 1 NSAV zu bestrafen.»
 
-**BGE 112 IV 102** (1986-10-21)  
-Nationalstrassenabgabe-Verordnung; Benützung von Nationalstrassen ohne gültige Vignette.  
-Die Vignette muss ordnungsgemäss am Fahrzeug angebracht sein; loses Mitführen genügt nicht.  
+Der Entscheid ist für die Finanzierungsgrundlagen relevant, da er die praktische Durchsetzung der Nationalstrassenabgabe als zentrale Einnahmequelle des Nationalstrassenfonds sicherstellt.
 
-> «Wer bei der Fahrt auf einer Autobahn die Vignette lose im Wagen mitführt, ist wegen Benützung einer Nationalstrasse "mit einem Fahrzeug ohne gültige Vignette" im Sinne von Art. 9 Abs. 1 NSAV zu bestrafen.»
+## Weitere relevante Entscheide im Überblick
 
-### Jüngere Entwicklungen
+**A-1849/2013 vom 20. August 2013 (BVGer)**: Verwendung von Treibstoffsteuererträgen für Luftverkehrsausbildungen; das BVGer konkretisierte den Ermessensspielraum bei der Beitragsgewährung und bestätigte die restriktive Auslegung von Art. 86 Abs. 3 BV.
 
-**1C 680/2024** (2024-12-03) [BGer]  
-Strassenverkehrsabgaben und Mahnverfahren.  
-Verfahrensrechtliche Fragen im Zusammenhang mit der Erhebung von Strassenverkehrsabgaben.  
+**A-1851/2013 vom 20. August 2013 (BVGer)**: Parallelentscheid zu A-1849/2013 betreffend Grundausbildungen im Luftfahrzeugunterhalt; bekräftigt die Anforderung eines konkreten Sicherheitsbezugs über Mindeststandards hinaus.
 
-**A-3793/2022** (2024-04-16) [BVGer]  
-Beteiligung an Unterhaltskosten gemäss Verordnung über die Verwendung der zweckgebundenen Mineralölsteuer.  
-Fragen der Eigentumsverhältnisse bei Fussweg- und Radwegbrücken im Zusammenhang mit Nationalstrassen.  
-
-### Parlamentarische Praxis
-
-Die parlamentarischen Verhandlungen zeigen die Entwicklung der Finanzierungsgrundlagen:
-
-- **93.453** (1995): Parlamentarische Initiative zur Verwendung von Mineralölsteuererträgen
-- **93.3294** (1995): Motion zur Änderung des Finanzhaushaltsgesetzes betreffend Strassenrechnung
-- **93.3127** (1995): Motion zur besseren Zweckbindung der Treibstoffsteuererträge
-
-### Rechtsprechungslinien
-
-Die Rechtsprechung zeigt folgende konsistente Linien:
-
-1. **Enge Zweckbindung**: Die Verwendung der Mittel aus Art. 86 BV unterliegt einer strikten Zweckbindung, die nicht extensiv ausgelegt werden darf.
-
-2. **Konkreter Bezug erforderlich**: Massnahmen müssen einen konkreten Bezug zum Strassenverkehr aufweisen oder zu dessen Entlastung beitragen.
-
-3. **Systematische Auslegung**: Die verschiedenen Finanzierungsinstrumente (Nationalstrassenfonds, Spezialfinanzierung) werden als kohärentes System verstanden.
-
-4. **Verfahrensrechtliche Durchsetzung**: Die Erhebung der Abgaben unterliegt den allgemeinen verwaltungsverfahrensrechtlichen Grundsätzen.
+Die parlamentarische Praxis zeigt eine kontinuierliche Entwicklung der Finanzierungsmodalitäten, wobei der Verfassungsauftrag zur zweckgebundenen Verwendung der Mittel stets respektiert wurde.
