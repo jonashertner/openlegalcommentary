@@ -1,15 +1,21 @@
-# Art. 45 BV — Mitwirkung der Kantone
+# Art. 45 BV — Übersicht
 
-## Übersicht
+Art. 45 BV regelt die Mitwirkung der Kantone an der Willensbildung des Bundes. Diese Bestimmung ist ein Eckpfeiler des schweizerischen Föderalismus, der den Kantonen trotz der fortschreitenden Zentralisierung Einflussmöglichkeiten auf Bundesebene sichert.
 
-Artikel 45 BV regelt die Mitwirkung der Kantone bei der politischen Willensbildung des Bundes. Die Bestimmung verpflichtet den Bund, die Kantone bei wichtigen Entscheidungen einzubeziehen.
+## Was regelt die Norm?
 
-**Absatz 1** gibt den Kantonen das Recht, bei der Willensbildung des Bundes mitzuwirken. Dies umfasst die Rechtsetzung (Erlass von Gesetzen und Verordnungen), aber auch andere wichtige politische Entscheide. Die Mitwirkung erfolgt «nach Massgabe der Bundesverfassung» - das bedeutet, andere Verfassungsartikel konkretisieren die genauen Formen. Beispiele sind das Vernehmlassungsverfahren (Art. 147 BV), die Standesinitiative (Art. 160 BV) oder das Ständemehr bei Verfassungsänderungen (Art. 142 BV).
+Die Norm besteht aus zwei Teilen: Absatz 1 verweist auf die verfassungsrechtlich vorgesehenen Mitwirkungsrechte der Kantone, während Absatz 2 konkrete Informations- und Anhörungspflichten des Bundes festlegt. Nach der Botschaft des Bundesrates von 1996 sollte die explizite Verankerung der föderalen Mitwirkung die kooperativen Elemente des schweizerischen Föderalismus stärken (BBl 1997 I 248 f.). Waldmann bezeichnet Art. 45 BV als «Auffangtatbestand» für alle nicht spezifisch geregelten Formen der kantonalen Mitwirkung (Waldmann, BSK BV, Art. 45 N. 6).
 
-**Absatz 2** verpflichtet den Bund zu Information und Anhörung. Er muss die Kantone «rechtzeitig und umfassend» über seine Vorhaben informieren. «Rechtzeitig» bedeutet: so früh, dass die Kantone noch Einfluss nehmen können. «Umfassend» heisst: alle wichtigen Informationen müssen mitgeteilt werden. Wenn Kantonsinteressen betroffen sind, muss der Bund ihre Stellungnahmen einholen.
+## Wer ist betroffen?
 
-**Praktisches Beispiel**: Plant der Bund ein neues Umweltschutzgesetz, muss er die Kantone frühzeitig informieren und ihre Meinung einholen. Die Kantone können im Vernehmlassungsverfahren ihre Stellungnahmen abgeben. Diese muss der Bund zur Kenntnis nehmen, ist aber nicht daran gebunden.
+Betroffen sind alle 26 Kantone sowie die Bundesbehörden (Bundesversammlung, Bundesrat, Bundesverwaltung). Die Kantone erhalten durch Art. 45 BV sowohl formelle als auch informelle Einflussmöglichkeiten auf die Bundespolitik. Der Bund muss die Kantone «rechtzeitig und umfassend» über seine Vorhaben informieren und sie anhören, wenn ihre Interessen betroffen sind.
 
-Die Mitwirkungsrechte stärken den Föderalismus (Zusammenarbeit zwischen Bund und Kantonen). Sie sorgen dafür, dass kantonale Anliegen in der Bundespolitik berücksichtigt werden. Bei einer Verletzung der Informations- und Anhörungspflicht kann das Bundesgericht einen Bundesentscheid aufheben (**BGE 122 II 201**).
+## Welche Rechtsfolgen entstehen?
 
-Die Norm ist ein zentraler Baustein des schweizerischen Föderalismus und gewährleistet, dass die Kantone trotz der Bundeskompetenzen politischen Einfluss behalten.
+Die Mitwirkungsrechte sind vielfältig: Kantone können Standesinitiativen einreichen (Art. 160 BV), an Vernehmlassungsverfahren teilnehmen (Art. 147 BV), über den Ständerat im Parlament mitwirken und bei Verfassungsrevisionen mitentscheiden (Art. 140 BV). Der normative Gehalt von Art. 45 BV ist jedoch umstritten: Biaggini kritisiert, der normative Gehalt liege «bei null» und der Begriff der Mitwirkung sei «unglücklich» (Biaggini, BSK BV, Art. 45 N. 2, 4). Waldmann vertritt eine weite Auslegung, die von der Impulssetzung bis zur Beteiligung an Entscheidungen reicht (Waldmann, BSK BV, Art. 45 N. 7).
+
+## Praktisches Beispiel
+
+Wenn der Bund ein neues Umweltgesetz plant, muss er die Kantone frühzeitig informieren und ihre Stellungnahmen einholen. Die Kantone können über ihre Regierungen oder die Konferenz der Kantonsregierungen (KdK) koordiniert antworten. Sind sie mit dem Entwurf unzufrieden, können acht Kantone gemeinsam das Referendum ergreifen (Art. 141 BV). Diese Möglichkeit verleiht den Kantonen bereits in der Vernehmlassungsphase erhebliches politisches Gewicht.
+
+Kontrovers diskutiert wird, ob die Umsetzung des Bundesrechts nach Art. 46 BV zu den Mitwirkungsrechten gehört: Häfelin/Haller/Keller bejahen dies, während Rhinow/Schefer Mitwirkung und Vollzug strikt trennen (BSK BV, Art. 45 N. 28). Diese Debatte zeigt die Unschärfe des Mitwirkungsbegriffs auf, der in der Praxis flexibel gehandhabt wird.

@@ -1,71 +1,63 @@
-# Rechtsprechung
+# Art. 63a — Hochschulförderung und -koordination
 
-## I. Hochschulautonomie und Disziplinarrecht
+## Rechtsprechung
 
-**BGE 150 I 39** vom 8.9.2023 
-Autonomie der Universität Zürich; schwere Disziplinarmassnahmen bedürfen formellgesetzlicher Grundlage.
-Das Bundesgericht bestätigt die verfassungsrechtlich gewährleistete Hochschulautonomie nach Art. 63a BV, begrenzt sie jedoch bei schweren Eingriffen in Studierendenrechte.
+### Universitätsautonomie und Disziplinarrecht
+
+**BGE 150 I 39** vom 8. September 2023  
+Universitäre Disziplinarmassnahmen in Form von Geldleistungen bis zu Fr. 4'000.— stellen schwere Sanktionen dar, die einer formellgesetzlichen Grundlage bedürfen.  
+Das Urteil präzisiert die verfassungsrechtlich gewährleistete Universitätsautonomie und ihre Grenzen.
 
 > «Vorliegend lässt sich die Autonomie, auf die sich die Beschwerdeführerin beruft, in erster Linie aus Art. 63a BV ableiten, welchen das Bundesgericht frei prüft. Der genaue Umfang dieser Autonomie wird hingegen durch das Universitätsgesetz und somit durch kantonales Gesetzesrecht bestimmt.»
 
-**Urteil 2C_694/2021** vom 8.9.2023
-Universitätsautonomie als Beschwerdegrund; Beschwerdelegitimation der Hochschule.
-Die Universität kann sich bei der Aufhebung von Disziplinarbestimmungen auf ihre verfassungsrechtlich garantierte Autonomie berufen.
+### Prüfungswesen und Bologna-Reform
 
-> «Die Beschwerdeführerin macht in vertretbarer Weise geltend, dass sie durch die Aufhebung der strittigen Bestimmungen der Universitätsverordnung in ihrer verfassungsrechtlich garantierten Autonomie (Art. 63a Abs. 3 Satz 2 BV) verletzt sei.»
+**BVGE 2009/33** vom 19. Mai 2009  
+Hochschulen verfügen im Prüfungswesen über weitgehende Autonomie; diese kann jedoch durch die Bologna-Reform eingeschränkt werden.  
+Das Urteil stellt die Vereinbarkeit universitärer Prüfungsordnungen mit bundesrechtlichen Vorgaben fest.
 
-## II. ETH-Autonomie und Behindertenrechte  
+> «Hochschulen verfügen im Prüfungswesen über weitgehende Autonomie, wobei sich jedoch Einschränkungen aufgrund der Bologna-Reform ergeben können. Das Blockprüfungssystem ist weder durch die Bologna-Richtlinien noch die ergänzenden Empfehlungen für unzulässig erklärt worden.»
 
-**BGE 151 I 73** vom 20.9.2024
-Assistenzanspruch für Menschen mit Behinderungen an der ETH Zürich; Grenzen der Hochschulautonomie.
-Die ETH Zürich ist als öffentlich-rechtliche Anstalt des Bundes grundrechtgebunden und dem Behindertengleichstellungsgesetz unterworfen, was ihre Autonomie begrenzt.
+### Hochschulförderung und Finanzierung
 
-> «Die ETH Zürich ist eine öffentlich-rechtliche Anstalt des Bundes mit Rechtspersönlichkeit (Art. 5 Abs. 1 des Bundesgesetzes vom 4. Oktober 1991 über die Eidgenössischen Technischen Hochschulen [ETH-Gesetz; SR 414.110]). Als solche ist sie an die Grundrechte gebunden und untersteht dem Behindertengleichstellungsgesetz des Bundes.»
+**Urteil 2C_643/2019** vom 14. September 2020  
+Grundbeiträge an Universitäten sind Anspruchssubventionen, auf die grundsätzlich ein Verfassungsanspruch besteht.  
+Das Urteil behandelt die Übergangsbestimmungen zwischen altem Universitätsförderungsgesetz und neuem HFKG.
 
-## III. Zulassungsverfahren und Prüfungsrecht
+> «Bei den vorliegend strittigen Subventionen handelt es sich somit um Beiträge, auf welche von Verfassungs wegen grundsätzlich ein Anspruch besteht; der Umstand, dass dem Bund ein Beurteilungsspielraum verblieb, nimmt den Grundbeiträgen nicht ihren Anspruchscharakter.»
 
-**A-1956/2014** vom 2.10.2014 (BVGer)
-Zulassungsverweigerung wegen zweimaligen Vordiplomscheiterns nach Jahrzehnten; Autonomie bei Zulassungsentscheidungen.
-Die ETH-Beschwerdekommission kann bei veränderten Studienbedingungen (Bologna-Reform) von starren Zulassungsbestimmungen abweichen.
+### Akkreditierung und Hochschulqualität
 
-**A-4366/2020** vom 18.5.2021 (BVGer)  
-Prüfungsannullierung wegen gesundheitlicher Beeinträchtigungen; Wiederholung der Basisprüfung.
-Hochschulautonome Regelungen zum Prüfungsverfahren müssen verhältnismässig sein und können gerichtlich überprüft werden.
+**Urteil 2C_548/2023** vom 15. November 2024  
+Das HFKG regelt die institutionelle Akkreditierung als Voraussetzung für die Führung von Hochschulbezeichnungen.  
+Das Urteil zeigt die strengen Anforderungen an private Hochschulanbieter auf.
 
-## IV. Gebührenrecht und Finanzautonomie
+> «Das angefochtene Urteil betrifft einen Nichteintretensentscheid des Schweizerischen Akkreditierungsrats betreffend die Zulassung der Beschwerdeführerin zum Verfahren der institutionellen Akkreditierung nach dem Hochschulförderungs- und -koordinationsgesetz.»
 
-**A-3505/2011** vom 26.3.2012 (BVGer)
-Energierecht; indirekte Berührung der Hochschulautonomie über Gebührenstrukturen.
+**BGE 142 I 16** vom 9. Februar 2016  
+Der Schutz universitärer Bezeichnungen gemäss HFKG geht kantonalem Recht vor.  
+Das Urteil betrifft die Verwendung der Bezeichnung "Universität" durch nicht akkreditierte Institutionen.
 
-**VB.2019.00188** vom 22.8.2019 (VGer ZH)
-ETH Zürich als Bundesanstalt; keine Befreiung von kommunalen Benutzungsgebühren für temporäre Nutzung kommunalen Grundes.
-Die Hochschulautonomie erstreckt sich nicht auf eine generelle Gebührenbefreiung bei gesteigerten Gemeingebrauch.
+> «Art. 29 Abs. 1 HFKG sieht vor, dass die Hochschule oder die andere Institution des Hochschulbereichs mit der institutionellen Akkreditierung das Recht erlangt, eine entsprechende Bezeichnung zu führen.»
 
-> «Die ETH Zürich ist als Anstalt des Bundes nach Art. 62d [recte: Art. 63a] BV autonom, jedoch nicht von allen kommunalen Abgaben befreit, wenn sie öffentlichen Grund für Sonderzwecke nutzt.»
+### Mehrwertsteuer und Hochschulförderung
 
-## V. Personalrecht  
+**Urteil A-5162/2017** des BVGer vom 4. September 2018  
+Institutionen, die von Bund und Kantonen im Rahmen von Art. 63a BV gefördert werden, sind von der Mehrwertsteuer befreit.  
+Das Urteil konkretisiert die steuerlichen Auswirkungen der verfassungsrechtlichen Hochschulförderung.
 
-**8C_696/2016** vom 19.9.2017
-Personalrechtliche Bestimmungen im Hochschulbereich; Autonomie bei der Personalführung.
+> «Institutionen nach Art. 18 lit. a MWSTV sind Institutionen, die von Bund und Kantonen im Rahmen von Artikel 63a BV gestützt auf eine gesetzliche Grundlage gefördert werden. Das HFKG, das sich auf Art. 63a BV stützt und u.a. Grundlagen für die Qualitätssicherung und Akkreditierung schafft.»
 
-**B-2351/2022** vom 13.3.2023 (BVGer)
-ETH-spezifische personalrechtliche Fragen; Grenzen der Personalautonomie.
+### Föderalismusklausel
 
-## VI. Steuerrecht und finanzielle Autonomie
+**Urteil B-5120/2015** des BVGer vom 10. März 2017  
+Art. 63a Abs. 3 Satz 2 BV gewährleistet die Autonomie der Kantone bei Institutionen mit gleichen Aufgaben.  
+Das Urteil behandelt die Anerkennung ausländischer Hochschulabschlüsse.
 
-**A-5162/2017** vom 4.9.2018 (BVGer)
-Mehrwertsteuerbefreiung für Hochschulleistungen; finanzielle Autonomie im Steuerrecht.
+> «Institutionen mit gleichen Aufgaben (Art. 63a Abs. 3 Satz 2 BV). Unter Vorbehalt einiger Bestimmungen ist das HFKG vom 30. September 2011 am 1. Januar 2015 in Kraft getreten.»
 
-**A-5458/2021** vom 16.12.2022 (BVGer)
-Mehrwertsteuerliche Behandlung von Hochschuldienstleistungen; Abgrenzung zwischen Bildungs- und Forschungstätigkeit.
+### ETH-Bereich
 
-**A-3038/2022** vom 22.5.2024 (BVGer)
-Aktuelle mehrwertsteuerrechtliche Fragen im Hochschulbereich; steuerliche Privilegierung autonomer Hochschulen.
-
-## VII. Rechtsmittelverfahren
-
-**2C_548/2023** vom 15.11.2024
-Aktuelle Rechtsmittelfragen im Hochschulbereich.
-
-**A-3131/2023** vom 29.7.2025 (BVGer)
-Jüngste Entwicklungen im ETH-Beschwerderecht; Verfahrensautonomie der Hochschulen.
+**Diverse Urteile des BVGer (A-1956/2014, A-4366/2020, A-3131/2023)**  
+Die ETH Zürich und ETH Lausanne unterstehen als Bundesanstalten besonderen Organisationsbestimmungen.  
+Diese Rechtsprechung zeigt die verfassungsrechtliche Verankerung des ETH-Bereichs in Art. 63a BV auf.

@@ -2,64 +2,66 @@
 
 ## Rechtsprechung
 
-### Überprüfung von Kantonsverfassungen durch das Bundesgericht
+### Gewährleistung und bundesgerichtliche Überprüfung
 
-**BGE 140 I 394** vom 26. September 2014  
-Befugnis des Bundesgerichts zur Überprüfung von kantonalen Verfassungsbestimmungen trotz bundesrechtlicher Gewährleistung.  
-Das Bundesgericht kann Verfassungsbestimmungen im Anwendungsfall überprüfen, wenn sich das übergeordnete Bundesrecht seit der Gewährleistung weiterentwickelt hat.
+**BGE 143 I 272 E. 2.2-2.5** vom 3. April 2017
+Das Bundesgericht klärte grundlegend den Vorrang der Kantonsverfassung und die Grenzen der bundesgerichtlichen Überprüfung. Der Entscheid betrifft die Zwangsfusion von Schulgemeinden in Zürich.
 
-> «Das aus Art. 34 BV fliessende Prinzip der Wahlrechtsgleichheit ist seit der Gewährleistung der Verfassung des Kantons Appenzell A.Rh. durch die Bundesversammlung im Jahr 1996 weiterentwickelt worden. Dieser Entwicklung gilt es Rechnung zu tragen, weshalb das Bundesgericht auf eine die Wahl des Kantonsrats Appenzell A.Rh. 2011 betreffende Beschwerde hin prüft, ob das in den Grundzügen in der Kantonsverfassung geregelte Wahlverfahren mit der Wahlrechtsgleichheit zu vereinbaren ist.»
+«Zur Hierarchie der Normen lässt sich der Bundesverfassung einzig entnehmen, dass alles Bundesrecht (Art. 49 Abs. 1 BV) und das interkantonale Recht (Art. 48 Abs. 5 BV) widersprechendes kantonales Recht zurückdrängt. Die innerkantonale Normhierarchie bleibt unerwähnt. Gemäss Art. 51 Abs. 1 BV gibt sich aber jeder Kanton eine demokratische Verfassung. Im Normgefüge des Kantons kommt der Verfassung alsdann der normative Vorrang zu.»
 
-**BGE 143 I 272** vom 3. April 2017  
-Normenhierarchie auf kantonaler Ebene und Gewährleistung der Gemeindeautonomie durch Kantonsverfassungen.  
-Kantonsverfassungen haben Vorrang vor dem übrigen kantonalen und kommunalen Recht; kantonalverfassungsrechtliche Garantien sind vom Bund mitgewährleistet.
+**BGE 140 I 394 E. 9** vom 26. September 2014  
+Das Bundesgericht konkretisierte seine Befugnis zur Überprüfung kantonaler Verfassungsbestimmungen im Anwendungsfall am Beispiel des Wahlverfahrens in Appenzell Ausserrhoden.
 
-> «Zur Hierarchie der Normen lässt sich der Bundesverfassung einzig entnehmen, dass alles Bundesrecht (Art. 49 Abs. 1 BV) und das interkantonale Recht (Art. 48 Abs. 5 BV) widersprechendes kantonales Recht zurückdrängt. Die innerkantonale Normhierarchie bleibt unerwähnt. Gemäss Art. 51 Abs. 1 BV gibt sich aber jeder Kanton eine demokratische Verfassung.»
+«Das aus Art. 34 BV fliessende Prinzip der Wahlrechtsgleichheit ist seit der Gewährleistung der Verfassung des Kantons Appenzell A.Rh. durch die Bundesversammlung im Jahr 1996 weiterentwickelt worden. Dieser Entwicklung gilt es Rechnung zu tragen, weshalb das Bundesgericht auf eine die Wahl des Kantonsrats Appenzell A.Rh. 2011 betreffende Beschwerde hin prüft, ob das in den Grundzügen in der Kantonsverfassung geregelte Wahlverfahren mit der Wahlrechtsgleichheit zu vereinbaren ist.»
 
-### Anforderungen an demokratische Kantonsverfassungen
+### Demokratische Verfassung und Wahlverfahren
 
-**BGE 145 I 259** vom 29. Juli 2019  
-Vereinbarkeit von Majorzwahlverfahren für Kantonsparlamente mit dem Demokratieprinzip.  
-Reine Majorzwahlverfahren sind grundsätzlich zulässig, müssen aber besonderen Rechtfertigungsanforderungen genügen.
+**BGE 145 I 259 E. 5** vom 29. Juli 2019
+Der Entscheid betrifft die Vereinbarkeit des Majorzwahlverfahrens in Graubünden mit den Anforderungen an eine demokratische Verfassung nach Art. 51 Abs. 1 BV.
 
-> «Nach Art. 51 Abs. 1 BV gibt sich jeder Kanton eine demokratische Verfassung. Diese bedarf der Zustimmung des Volkes und muss revidiert werden können, wenn die Mehrheit der Stimmberechtigten es verlangt. Ein bestimmtes Wahlsystem für die Wahl der Kantonsparlamente schreibt Art. 51 Abs. 1 BV nicht vor.»
+«Die Voraussetzungen für die Überprüfung von Bestimmungen einer Kantonsverfassung durch das Bundesgericht. Die Grösse der schweizerischen Wohnbevölkerung als zulässiges Kriterium für die Verteilung der Sitze auf die Wahlkreise. Frage der Zulässigkeit von Sitzgarantien für Wahlkreise mit zu geringer Bevölkerungszahl.»
 
-**BGE 140 I 58** vom 13. Dezember 2013  
-Ausgestaltung kommunaler Referendumsrechte als Teil der demokratischen Verfassung.  
-Kantone dürfen für kommunale Referenden nicht prohibitive Voraussetzungen verlangen; diese müssen realistische Wahrnehmung der Referendumsrechte eröffnen.
+**BGE 121 I 138 E. 5** vom 5. Juni 1995
+Das Bundesgericht anerkannte die Landsgemeinde als verfassungskonformes demokratisches System trotz systembedingter Unzulänglichkeiten.
 
-> «Nach Art. 39 Abs. 1 BV regelt der Bund die Ausübung der politischen Rechte in eidgenössischen, die Kantone bestimmen sie in kantonalen und kommunalen Angelegenheiten. Diese Zuständigkeit der Kantone ist deklaratorischer Natur, da sie ohnehin bereits aufgrund der kantonalen Organisationsautonomie gilt, und richtet sich inhaltlich nach Massgabe der Mindestanforderungen gemäss Art. 51 BV.»
+«Die Einrichtung der Landsgemeinden entspricht einer besondern herkömmlichen Form der direktdemokratischen Beteiligung der Stimmbürger. [...] Die Anordnung einer Landsgemeindeabstimmung verletzt die Abstimmungsfreiheit trotz systembedingter Unzulänglichkeiten nicht.»
 
-**BGE 129 I 232** vom 9. Juli 2003  
-Grenzen der direktdemokratischen Ausgestaltung: Ungültigkeit von Initiativen für Urnenabstimmungen über Einbürgerungsgesuche.  
-Demokratische Verfahren müssen rechtsstaatliche Mindestanforderungen erfüllen; das Demokratieprinzip rechtfertigt nicht die Verletzung der Begründungspflicht und des Diskriminierungsverbots.
+### Widerspruch zum Bundesrecht
 
-> «Die rechtsstaatlichen Defizite der Initiative werden nicht durch das Demokratieprinzip gerechtfertigt. Bei der Urnenabstimmung ist eine den verfassungsrechtlichen Anforderungen genügende Begründung nicht möglich.»
+**BGE 129 I 232 E. 2-5** vom 9. Juli 2003
+Das Bundesgericht prüfte eine Initiative zur Einführung von Urnenabstimmungen über Einbürgerungsgesuche und erklärte sie wegen Verletzung von Bundesgrundrechten für ungültig.
 
-### Gewährleistung von Kantonsverfassungen
+«Ablehnende Einbürgerungsentscheide unterliegen der Begründungspflicht gemäss Art. 29 Abs. 2 BV (Anspruch auf rechtliches Gehör) i.V.m. Art. 8 Abs. 2 BV (Diskriminierungsverbot). Bei der Urnenabstimmung ist eine den verfassungsrechtlichen Anforderungen genügende Begründung nicht möglich.»
 
-**BGE 121 I 138** vom 29. Juni 1995  
-Gewährleistung besonderer demokratischer Institutionen: Landsgemeinde als anerkannte Form direkter Demokratie.  
-Das Bundesgericht erkennt kantonalrechtliche Institutionen wie die Landsgemeinde trotz systembedingter Unzulänglichkeiten als demokratisch an.
+**BGE 130 I 1 E. 2** vom 19. November 2003
+Das Bundesgericht bestätigte den Vorrang des Bundesrechts bei einem Konflikt zwischen kantonaler Verfassung und Bundesgesetzgebung im Asylbereich.
 
-> «Die Einrichtung der Landsgemeinden entspricht einer besondern herkömmlichen Form der direktdemokratischen Beteiligung der Stimmbürger. Die Anordnung einer Landsgemeindeabstimmung verletzt die Abstimmungsfreiheit trotz systembedingter Unzulänglichkeiten nicht.»
+«Art. 51 Abs. 2 BV ordnet an, dass die Kantonsverfassungen der Gewährleistung des Bundes bedürfen. Der Bund gewährleistet sie, wenn sie dem Bundesrecht nicht widersprechen.»
 
-**BGE 139 I 195** vom 10. Juli 2013  
-Unzulässigkeit von Abstimmungsvorlagen über bundesverfassungswidrige Wahlverfahren.  
-Stimmrechtsbeschwerde kann auch gegen Abstimmungsvorlagen erhoben werden, die darauf ausgerichtet sind, ein als bundesverfassungswidrig beurteiltes Wahlverfahren beizubehalten.
+### Institutionelle Garantien
 
-> «Die umstrittene Abstimmungsvorlage ist unzulässig, weil sie darauf ausgerichtet ist, die Einführung einer bundesverfassungskonformen Lösung zu verhindern. Ein Kanton kann nicht legitim darüber abstimmen lassen, ob er bundesverfassungswidriges Recht beibehalten will.»
+**BGE 131 I 91 E. 3** vom 28. September 2004
+Der Entscheid zur Gemeindefusion im Wallis klärte die Grenzen kantonaler Autonomie bei Zwangsfusionen.
 
-### Verhältnis zur Gemeindeautonomie
+Das Gericht stellte fest, dass Zwangsfusionen von Gemeinden grundsätzlich mit der Gemeindeautonomie vereinbar sind, wenn das kantonale Recht entsprechende Verfahren vorsieht.
 
-**BGE 130 I 1** vom 3. Januar 2003  
-Kantonale Sozialhilfegesetzgebung für vorläufig aufgenommene Ausländer im Rahmen der demokratischen Verfassung.  
-Kantone müssen bei der Ausgestaltung ihrer Sozialhilfeordnung die Rechtsgleichheit und das Diskriminierungsverbot beachten.
+**BGE 136 I 352 E. 4** vom 7. Juli 2010
+Das Bundesgericht prüfte das Proporzwahlverfahren in Nidwalden und konkretisierte die Anforderungen an demokratische Wahlverfahren.
 
-> «Die Kantonsverfassung bedarf der Gewährleistung des Bundes. Der Bund gewährleistet sie, wenn sie dem Bundesrecht nicht widerspricht, wobei auch die Grundrechte zu beachten sind.»
+Das Gericht hielt fest, dass kantonale Wahlverfahren den bundesverfassungsrechtlichen Mindeststandards entsprechen müssen, den Kantonen aber erheblicher Gestaltungsspielraum zukommt.
 
-**BGE 127 I 60** vom 31. Januar 2001  
-Kostenersatzpflicht für verkehrspolizeiliche Einsätze im Rahmen der kantonalen Organisationsautonomie.  
-Die demokratische Ausgestaltung der Kantonsverfassung umfasst auch die Regelung der Aufgaben- und Finanzierungsverantwortung.
+### Aktuelle Entwicklungen
 
-> «Art. 51 BV gewährleistet den Kantonen die Organisationsautonomie im Rahmen der demokratischen Grundordnung. Die Kantone können ihre Aufgaben- und Kostenverteilung eigenständig regeln, solange sie dem Bundesrecht nicht widersprechen.»
+**BGE 147 I 478 E. 2** vom 25. Juni 2021
+Das Bundesgericht befasste sich mit der Normenhierarchie im Kanton Schwyz während der Covid-19-Pandemie und bekräftigte die Bedeutung der Gewährleistung.
+
+Die Entscheidung unterstrich, dass auch in Ausnahmesituationen die gewährleisteten kantonalen Verfassungsbestimmungen respektiert werden müssen.
+
+### Grenzen der Gewährleistung
+
+**BGE 139 I 195 E. 3** vom 10. Juli 2013
+Der Entscheid zu einem als bundesverfassungswidrig beurteilten Proporzwahlverfahren im Kanton Zug verdeutlichte die Grenzen der einmal erteilten Gewährleistung.
+
+«Die umstrittene Abstimmungsvorlage ist unzulässig, weil sie darauf ausgerichtet ist, die Einführung eines wahlrechtswidrigen Verfahrens zu ermöglichen.»
+
+Das Bundesgericht stellte klar, dass die Gewährleistung einer Kantonsverfassung nicht für alle Zeiten gilt, sondern bei späteren Entwicklungen des Bundesrechts angepasst werden muss.

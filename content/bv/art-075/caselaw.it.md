@@ -1,77 +1,79 @@
-## Giurisprudenza
+# Giurisprudenza
 
-### Ripartizione federalista delle competenze
+## Ripartizione delle competenze tra Confederazione, Cantoni e Comuni
 
-**BGE 142 I 177** del 16 novembre 2016 (consid. 4.1)
-Autonomia comunale nell'introduzione di un'imposta sul plusvalore nel diritto della pianificazione del territorio.
-Il Tribunale federale precisa la ripartizione interconnessa dei compiti tra Confederazione, Cantoni e Comuni nella pianificazione del territorio.
+### Ripartizione fondamentale delle competenze
 
-> «Secondo l'art. 75 cpv. 1 Cost. la Confederazione emana i principi della pianificazione del territorio. Lo ha fatto segnatamente con l'emanazione della legge sulla pianificazione del territorio, che nel suo articolo sugli scopi (art. 1) stabiliva già nella versione originaria che Confederazione, Cantoni e Comuni si adoperano affinché il suolo sia utilizzato con parsimonia e coordinano le loro attività con effetti territoriali.»
+**BGE 142 I 177** del 15 dicembre 2015
+La ripartizione delle competenze tra Confederazione, Cantoni e Comuni è determinata fondamentalmente dall'art. 75 Cost.
+Il Tribunale federale precisa la ripartizione dei compiti nell'ambito della pianificazione del territorio e stabilisce che i Comuni possono agire autonomamente nell'ambito dei compiti di pianificazione territoriale locali.
 
-**BGE 128 I 254** del 14 agosto 2002 (consid. 3-4)
-Competenze cantonali nel diritto della pianificazione del territorio e applicazione del diritto conforme all'uguaglianza giuridica.
-Il Tribunale federale concretizza i requisiti all'organizzazione cantonale per l'attuazione delle basi federali della pianificazione del territorio.
+> «La riscossione di un contributo sul plusvalore corrisponde a un mandato legislativo previsto dalla legislazione federale (art. 5 cpv. 1 LPT) e dalla costituzione cantonale (§ 116 cpv. 4 Cost./BL) rivolto al legislativo cantonale [...]. Fintanto che il Cantone non fa uso della sua competenza di riscuotere un contributo sul plusvalore, non si può impedire ai Comuni di assumere questo compito in propria competenza, poiché è strettamente legato alla pianificazione locale che spetta loro.»
 
-> «L'art. 25 cpv. 2 LPT esige, nell'interesse di un'applicazione del diritto uniforme e conforme all'uguaglianza giuridica a livello cantonale, che tutte le domande per progetti di costruzione al di fuori delle zone edificabili siano trattate da un'autorità cantonale.»
+### Obbligo di coordinamento della Confederazione
 
-### Piani settoriali e coordinamento
+**BGE 137 II 58** del 3 dicembre 2010
+L'obbligo di coordinamento secondo l'art. 75 cpv. 2 Cost. richiede una pianificazione coordinata tra tutti i livelli statali.
+Determinante è la mancanza di coordinamento tra il regolamento d'esercizio e la procedura del piano settoriale per l'aeroporto di Zurigo.
 
-**BGE 137 II 58** del 22 dicembre 2010 (consid. 3)
-Obbligo di coordinamento per grandi progetti di pianificazione del territorio con irradiamento nazionale.
-La sentenza mostra gli obblighi di coordinamento tra la pianificazione federale e cantonale per le infrastrutture di importanza nazionale.
+> «L'autorizzazione di modifiche operative e costruttive dell'aeroporto con effetti considerevoli su territorio e ambiente secondo gli art. 36c cpv. 2 e 37 cpv. 5 LNA presuppone in linea di principio l'esistenza di un piano settoriale. Ciò corrisponde alla regolamentazione in altre leggi federali e serve al coordinamento delle attività con effetti territoriali.»
 
-> «L'autorizzazione di modifiche operative e costruttive dell'aeroporto con effetti considerevoli su territorio e ambiente secondo l'art. 36c cpv. 2 e l'art. 37 cpv. 5 LNA in combinato con l'art. 3a, l'art. 25 cpv. 1 lett. a e l'art. 27d cpv. 1 lett. a OSIA presuppone in linea di principio l'esistenza di un piano settoriale.»
+## Principio di separazione e conformità alle zone
 
-### Compiti federali di pianificazione e diritto di ricorso
+### Separazione tra zone edificabili e non edificabili
 
-**BGE 139 II 271** del 22 maggio 2013 (consid. 9-10)
-Compiti federali nel settore della pianificazione del territorio sull'esempio della regolamentazione delle abitazioni secondarie.
-La decisione definisce quando una misura di pianificazione del territorio vale come compito federale che attiva i diritti di ricorso per le organizzazioni ambientaliste.
+**BGE 147 II 309** del 28 aprile 2021
+Il principio costituzionale di separazione secondo l'art. 75 cpv. 1 Cost. esige una separazione chiara tra zona edificabile e zona non edificabile.
+La sentenza tratta il ripristino dello stato legale in caso di costruzioni illegali fuori della zona edificabile.
 
-> «Il plafond per la costruzione di abitazioni secondarie secondo l'art. 75b Cost. costituisce un compito federale che serve alla salvaguardia della natura e del paesaggio caratteristico del paese. Le autorizzazioni di costruzione possono pertanto essere impugnate con ricorso secondo l'art. 12 LPN per violazione dell'art. 75b Cost. e delle sue disposizioni transitorie ed esecutive.»
+> «Un termine di prescrizione di 30 anni fuori della zona edificabile metterebbe in discussione in particolare il principio costituzionale di separazione (art. 75 cpv. 1 Cost.) e l'applicazione uniforme del diritto federale. La situazione di fatto, di diritto e di interessi fuori della zona edificabile si differenzia così fortemente da quella all'interno della zona edificabile che si impone una regolamentazione differenziata.»
 
-**BGE 142 II 509** del 24 agosto 2016 (consid. 10-11)
-Legittimazione al ricorso delle organizzazioni per la protezione della natura e del paesaggio in caso di nuove classificazioni in zona edificabile.
-La sentenza precisa i criteri per i compiti federali nel diritto della pianificazione del territorio dopo la revisione della LPT del 2012.
+**BGE 145 I 156** del 31 ottobre 2018
+La conformità alle zone richiede una considerazione basata sugli effetti delle ripercussioni delle costruzioni sulle zone vicine.
+Era controversa una distanza dal confine tra zona edificabile e zona agricola.
 
-> «Le nuove classificazioni in zona edificabile che si fondano sull'art. 15 della LPT riveduta (nella versione del 15 giugno 2012) devono essere qualificate come compito federale ai sensi dell'art. 78 cpv. 2 Cost.»
+> «Partendo da una considerazione basata sugli effetti, si deve anche fare riferimento alle conseguenze legate a una costruzione o impianto sull'ambiente circostante. Se sono probabili ripercussioni sulla zona vicina, si deve verificare anche la conformità del progetto con quest'ultima. Una costruzione residenziale direttamente sul confine con la zona agricola vicina non è conforme alla zona.»
 
-### Conformità alle zone e utilizzazione del suolo
+## Pianificazione del territorio e libertà economica
 
-**BGE 145 I 156** del 31 ottobre 2018 (consid. 3-6)
-Distanza dal confine tra zona edificabile e zona agricola come espressione dell'utilizzazione parsimoniosa del suolo.
-Il Tribunale federale concretizza i requisiti per costruzioni conformi alle zone nella zona di confine tra diverse zone di utilizzazione.
+**BGE 142 I 162** del 9 novembre 2016
+Le misure pianificatorie devono essere compatibili con la libertà economica.
+La sentenza concerne l'ammissibilità di una zona turistica e la sua compatibilità con gli art. 27 e 94 Cost.
 
-> «Una costruzione abitativa direttamente sul confine con la zona agricola adiacente non è conforme alla zona. Deve essere arretrata dal confine di zona in modo tale che la sua realizzazione non eserciti più effetti degni di nota sulla zona agricola.»
+> «Il Tribunale federale ha dovuto occuparsi per decenni ripetutamente della compatibilità delle misure pianificatorie con la libertà economica [...]. Le misure pianificatorie possono in linea di principio interferire con la libertà economica. Sono tuttavia ammissibili se si basano su una base legale sufficiente, sono nell'interesse pubblico, sono proporzionate e rispettano l'uguaglianza giuridica.»
 
-### Procedura di pianificazione e rimedi giuridici
+## Diritto di ricorso delle associazioni nelle procedure di pianificazione territoriale
 
-**BGE 135 II 22** del 23 dicembre 2008 (consid. 1-2)
-Coordinamento delle procedure di approvazione nel diritto della pianificazione a più livelli.
-La sentenza mostra i requisiti processuali per l'impugnazione con rimedi giuridici nelle pianificazioni d'utilizzazione.
+**BGE 139 II 271** del 21 febbraio 2013
+Il diritto di ricorso delle associazioni nelle procedure di pianificazione territoriale presuppone un compito federale.
+Determinante era la legittimazione al ricorso delle associazioni per la protezione della natura e del paesaggio contro le costruzioni di abitazioni secondarie.
 
-> «Il Tribunale federale entra in materia sui ricorsi contro contenuti del piano di utilizzazione in linea di principio soltanto se è presente la decisione di approvazione dell'autorità cantonale competente e questa ha potuto essere verificata dall'ultima istanza cantonale.»
+> «Il plafond delle abitazioni secondarie secondo l'art. 75b Cost. costituisce un compito federale che serve alla protezione della natura e dell'immagine del paesaggio patrio. Le autorizzazioni edilizie possono pertanto essere impugnate con ricorso secondo l'art. 12 LPN per violazione dell'art. 75b Cost. e delle sue disposizioni transitorie ed esecutive.»
 
-### Ripristino di stati conformi al diritto
+**BGE 142 II 509** del 26 ottobre 2016
+Le nuove zonizzazioni secondo la LPT riveduta fondano il diritto di ricorso delle associazioni.
+La sentenza chiarisce il diritto di ricorso in caso di zonizzazioni secondo l'art. 15 LPT.
 
-**BGE 147 II 309** del 28 aprile 2021 (consid. 4)
-Ripristino in caso di costruzioni illegali al di fuori della zona edificabile.
-La sentenza tratta l'applicazione delle norme di pianificazione del territorio in caso di violazioni del diritto per periodi prolungati.
+> «Le nuove zonizzazioni che si basano sull'art. 15 della LPT riveduta (nella versione del 15 giugno 2012) sono da qualificare come compito federale ai sensi dell'art. 78 cpv. 2 Cost. I Cantoni devono tener conto delle preoccupazioni della protezione della natura e del paesaggio nell'esecuzione delle prescrizioni del diritto federale sull'utilizzazione parsimoniosa del suolo.»
 
-> «La situazione di fatto, di diritto e degli interessi al di fuori della zona edificabile si differenzia così fortemente da quella all'interno della zona edificabile che si vieta un'applicazione analoga della giurisprudenza sulla decadenza.»
+## Pianificazione del territorio e diritto dell'energia
 
-### Pianificazione del territorio e diritti fondamentali
+**BGE 149 I 291** del 3 maggio 2023
+Le iniziative energetiche comunali devono essere compatibili con i principi pianificatori.
+La sentenza tratta un'iniziativa popolare per il passaggio alle energie rinnovabili.
 
-**BGE 142 I 162** del 9 novembre 2016 (consid. 3.3-3.7)
-Compatibilità delle misure di pianificazione del territorio con la libertà economica.
-Il Tribunale federale sviluppa il criterio di diritto costituzionale per le limitazioni dei diritti fondamentali attraverso la pianificazione del territorio.
+> «L'obiettivo dell'iniziativa può essere inteso come un passo verso uno sviluppo ecologicamente sostenibile (art. 73 Cost.). In linea di principio, né la garanzia della proprietà né la garanzia dell'esistenza acquisita in materia edilizia conferiscono un diritto al mantenimento di un ordinamento giuridico una volta in vigore.»
 
-> «Le misure di pianificazione del territorio possono limitare la libertà economica, ma devono fondarsi su una base legale, essere giustificate da un interesse pubblico ed essere proporzionate, nonché garantire la parità di trattamento dei concorrenti.»
+## Coordinamento nelle procedure complesse di pianificazione territoriale
 
-### Sviluppi attuali
+**BGE 135 II 22** del 19 dicembre 2008
+Le decisioni sui ricorsi devono essere coordinate con le decisioni di approvazione.
+La sentenza concerne il coordinamento tra procedure cantonali di approvazione e ricorsi.
 
-**BGE 149 I 291** del 3 maggio 2023 (consid. 3-4)
-Pianificazione energetica comunale e garanzia dello stato di fatto secondo il diritto della pianificazione del territorio.
-La sentenza direttiva più recente mostra il campo di tensione tra transizione energetica e rapporti esistenti secondo il diritto della pianificazione del territorio.
+> «Il Tribunale federale entra nel merito dei ricorsi contro modifiche dei piani di utilizzazione in linea di principio solo se le modifiche interessate dei piani di utilizzazione sono state approvate dall'autorità cantonale competente. Il necessario coordinamento della decisione sul ricorso con la decisione di approvazione richiede un trattamento coordinato.»
 
-> «L'iniziativa 'Hochdorf riscalda rinnovabile - dal 2030 a maggior ragione' contiene un obiettivo vincolante e ha lo scopo di una decisione di principio che deve essere in armonia con la garanzia dello stato di fatto garantita costituzionalmente.»
+**BGE 135 II 30** del 19 dicembre 2008
+Le decisioni preliminari edilizie non sono decisioni impugnabili.
+La sentenza chiarisce la delimitazione tra chiarimenti preliminari e decisioni definitive.
+
+> «Indicazioni generali e raccomandazioni delle autorità per il rilascio di licenze edilizie non costituiscono una decisione ai sensi dell'art. 82 lett. a LTF. Non comportano conseguenze giuridiche immediate e pertanto non sono impugnabili autonomamente.»

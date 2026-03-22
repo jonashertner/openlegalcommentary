@@ -2,70 +2,66 @@
 
 ### 1. Storia dell'origine
 
-**N. 1** L'art. 39 Cost. continua la ripartizione federale dei compiti in materia di diritti politici vigente dalla fondazione dello Stato federale. La vecchia Costituzione federale del 1874 non conteneva una clausola generale corrispondente, ma disciplinava la materia in modo frammentario in diverse disposizioni. La revisione totale ha creato per la prima volta con l'art. 39 Cost. una norma di competenza sistematica per l'esercizio dei diritti politici (FF 1997 I 195, 226).
+**N. 1** L'art. 39 Cost. ha sostanzialmente ripreso l'art. 6 cpv. 2 lett. b vCost. ampliandolo (FF 1997 I 221). La nuova disposizione precisa l'ordinamento federalistico delle competenze nella configurazione dei diritti politici e ha creato con il cpv. 2 per la prima volta una base esplicita per il principio del domicilio (FF 1997 I 221 s.). La disposizione sul termine d'attesa nel cpv. 4 è stata inserita in seguito alla procedura parlamentare per consentire ai Cantoni una certa flessibilità nel trattare i nuovi residenti (FF 1997 I 222).
 
-**N. 2** Durante i lavori per la nuova Costituzione federale, la ripartizione delle competenze tra Confederazione e Cantoni era largamente indiscussa. Si discusse invece l'inclusione del principio di domicilio nel cpv. 2, che ancorò a livello costituzionale la prassi fino ad allora vigente. La possibilità di termini d'attesa cantonali nel cpv. 4 fu inserita come compromesso necessario tra la libertà di domicilio e l'autonomia cantonale (FF 1997 I 195).
+**N. 2** La disposizione è sorta sullo sfondo del dibattito sull'armonizzazione dei diritti politici. Il costituente voleva da un lato rispettare la diversità cantonale, dall'altro assicurare certi standard minimi a livello nazionale (Tschannen, BSK BV, Art. 39 N. 1). L'ancoraggio esplicito del principio del domicilio doveva creare certezza giuridica e considerare la crescente mobilità della popolazione (FF 1997 I 221 s.).
 
 ### 2. Collocazione sistematica
 
-**N. 3** L'art. 39 Cost. forma insieme all'art. 34 Cost. (garanzia dei diritti politici) e all'art. 40 Cost. (Svizzere e Svizzeri all'estero) il nucleo dell'ordinamento costituzionale dei diritti politici. Mentre l'art. 34 Cost. contiene le garanzie materiali, l'art. 39 Cost. disciplina l'ordinamento formale delle competenze (→ Art. 34 Cost., → Art. 40 Cost.).
+**N. 3** L'art. 39 Cost. forma insieme all'art. 34 (Diritti politici), all'art. 136–142 (Diritti politici della Confederazione) e all'art. 51 (Costituzioni cantonali) il fondamento costituzionale dell'ordinamento democratico (Tschannen, BSK BV, Art. 39 N. 2). La disposizione concretizza la ripartizione federalistica delle competenze nell'ambito dei diritti politici e è strettamente collegata con l'art. 3 Cost. (Sovranità cantonale).
 
-**N. 4** La disposizione è da intendere nel contesto della struttura statale federalista. Essa concretizza il principio generale dell'autonomia cantonale secondo l'art. 3 Cost. per l'ambito dei diritti politici. Allo stesso tempo pone limiti attraverso il principio di domicilio (cpv. 2) e il divieto di esercizio multiplo (cpv. 3), stabilendo così standard minimi di diritto federale (→ Art. 3 Cost., → Art. 51 Cost.).
+**N. 4** La norma è concepita come regola di ripartizione delle competenze il cui contenuto è sovrapposto dalle garanzie dei diritti fondamentali, in particolare dall'art. 8 Cost. (Uguaglianza giuridica) e dall'art. 34 Cost. (Diritti politici) (→ Art. 8 Cost., → Art. 34 Cost.). Questo collegamento sistematico si manifesta particolarmente nella giurisprudenza del Tribunale federale sui procedimenti elettorali cantonali (**DTF 131 I 74 consid. 3.2**; **DTF 129 I 185 consid. 3.1**).
 
-**N. 5** Il collegamento al diritto civile risulta attraverso la nozione di domicilio. L'art. 39 cpv. 2 Cost. si riallaccia al domicilio di diritto civile secondo l'art. 23 segg. CC, creando così un aggancio unitario per l'esercizio dei diritti politici (→ Art. 23-26 CC).
+### 3. Elementi di fattispecie / Contenuto della norma
 
-### 3. Elementi della fattispecie / Contenuto normativo
+#### 3.1 Ripartizione delle competenze (cpv. 1)
 
-#### 3.1 Ripartizione dei compiti (cpv. 1)
+**N. 5** La regola di competenza nel cpv. 1 ha natura dichiarativa, poiché conferma l'autonomia organizzativa che deriva già dalla sovranità cantonale (Tschannen, BSK BV, Art. 39 N. 5; **DTF 140 I 58 consid. 3.3**). La competenza normativa cantonale si estende a tutti gli aspetti dell'esercizio dei diritti politici: presupposti materiali, procedura, organizzazione e tutela giuridica (Aubert/Mahon, Petit commentaire de la Constitution, Art. 39 N. 3).
 
-**N. 6** Il cpv. 1 ripartisce la competenza normativa per l'esercizio dei diritti politici tra Confederazione e Cantoni. Il concetto di "esercizio" comprende l'intera procedura della formazione della volontà politica: registrazione al registro degli elettori, svolgimento di elezioni e votazioni, raccolta di firme per iniziative e referendum nonché la tutela giuridica (Tschannen, BSK BV, Art. 39 N. 6).
+**N. 6** Come base di competenza per le leggi d'attuazione di Confederazione e Cantoni non è necessario ricorrere all'art. 39 cpv. 1 Cost., poiché queste risultano già dalle rispettive disposizioni costituzionali materiali (Tschannen, BSK BV, Art. 39 N. 6). La disposizione serve principalmente al chiarimento dell'ordinamento federalistico delle competenze (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10a ed. 2020, N 1412).
 
-**N. 7** La formulazione "disciplina" significa una competenza legislativa completa. La Confederazione è competente per gli affari federali (elezioni del Consiglio nazionale, votazioni federali, iniziativa popolare e referendum a livello federale), mentre i Cantoni sono competenti per gli affari cantonali e comunali. Le elezioni del Consiglio degli Stati rientrano come elezioni cantonali nella competenza dei Cantoni (**DTF 151 I 354** consid. 3.1).
+#### 3.2 Principio del domicilio (cpv. 2)
 
-**N. 8** La competenza normativa cantonale soggiace a limiti di diritto federale. Oltre all'art. 34 Cost. (garanzia dei diritti politici), i Cantoni devono rispettare altri diritti fondamentali come l'art. 8 Cost. (uguaglianza giuridica) e l'art. 9 Cost. (divieto dell'arbitrio). Il Tribunale federale ha ripetutamente stabilito che le procedure elettorali cantonali devono rispettare i principi dell'uguaglianza del diritto di voto (**DTF 143 I 92**, **DTF 136 I 352**).
+**N. 7** Il principio del domicilio è inteso come principio democratico di territorialità (Tschannen, BSK BV, Art. 39 N. 12). Esso collega l'esercizio dei diritti politici con il centro di vita degli aventi diritto di voto e concretizza così il principio secondo cui devono decidere coloro che sono interessati dalle decisioni (Hangartner/Kley, Die demokratischen Rechte in Bund und Kantonen, 2a ed. 2022, N 215).
 
-#### 3.2 Principio di domicilio (cpv. 2)
+**N. 8** Il concetto di «domicilio» è da intendere nel senso dell'art. 23 segg. CC (→ Art. 23 CC). Determinante è il domicilio di diritto civile, non solo la registrazione presso la polizia (Kley, SG Komm. BV, Art. 39 N. 10). Per la costituzione del domicilio politico sono richiesti gli stessi presupposti che per il domicilio di diritto civile: dimora effettiva e intenzione di rimanere durevolmente (Biaggini, Komm. BV, 2a ed. 2017, Art. 39 N. 7).
 
-**N. 9** Il principio di domicilio stabilisce che i diritti politici vengono esercitati in linea di principio là dove si trova il domicilio di diritto civile. Tschannen definisce ciò appropriatamente come "principio di territorialità democratico" (Tschannen, BSK BV, Art. 39 N. 12). Il domicilio politico segue il domicilio di diritto civile secondo l'art. 23 CC.
+**N. 9** Le eccezioni previste nel cpv. 2 frase 2 permettono di adottare regolamentazioni speciali per certi gruppi di persone (p.es. Svizzeri all'estero, persone con dimora settimanale, studenti) (FF 1997 I 222). Queste eccezioni devono tuttavia essere proporzionate e non possono vanificare il principio del domicilio (Mahon, in: Thürer et al., Verfassungsrecht der Schweiz, 2001, § 36 N. 25).
 
-**N. 10** Il concetto di "domicilio" è definito dal diritto federale. Il Tribunale federale ha chiarito nel **DTF 151 I 354**: "La nozione di diritto federale del domicilio politico presuppone un domicilio di diritto civile e un'iscrizione nel registro degli elettori". Questo duplice prerequisito garantisce la certezza del diritto e impedisce abusi.
+#### 3.3 Divieto dell'esercizio multiplo (cpv. 3)
 
-**N. 11** Confederazione e Cantoni possono prevedere eccezioni al principio di domicilio. A livello federale ciò riguarda principalmente le Svizzere e gli Svizzeri all'estero (→ Art. 40 Cost.). I Cantoni possono ad esempio emanare regolamentazioni speciali per persone con dimora settimanale o studenti, ma devono rispettare le prescrizioni di diritto federale.
+**N. 10** Il cpv. 3 chiarisce che nessuno può esercitare i diritti politici in più di un Cantone. Secondo Tschannen questa disposizione è propriamente superflua, poiché è già concettualmente escluso che un avente diritto di voto possa ottenere più di un domicilio politico (Tschannen, BSK BV, Art. 39 N. 21). La norma ha tuttavia una funzione chiarificatrice per il coordinamento intercantonale (Aubert/Mahon, Art. 39 N. 8).
 
-#### 3.3 Divieto di esercizio multiplo (cpv. 3)
+**N. 11** È controverso se il cpv. 3 si estenda anche al rapporto tra Comuni all'interno di un Cantone. Tschannen lo afferma con l'argomento che il divieto dell'esercizio multiplo rappresenti un principio democratico generale (Tschannen, BSK BV, Art. 39 N. 22). Biaggini sostiene invece l'opinione che il cpv. 3 riguardi solo il rapporto intercantonale, poiché il tenore letterale parla espressamente di «Cantone» (Biaggini, Komm. BV, Art. 39 N. 10 nota 26).
 
-**N. 12** Il cpv. 3 vieta l'esercizio dei diritti politici in più di un Cantone. Questa disposizione è secondo Tschannen "già concettualmente superflua", poiché nessuno può avere più di un domicilio politico (Tschannen, BSK BV, Art. 39 N. 21). Il costituente volle però creare chiarezza ed escludere doppioni.
+#### 3.4 Termine d'attesa per i nuovi residenti (cpv. 4)
 
-**N. 13** È controversa la portata del cpv. 3 riguardo ai Comuni. Tschannen sostiene che il divieto si estende anche al rapporto tra Comuni all'interno di un Cantone. Biaggini valuta ciò diversamente e limita il divieto al livello intercantonale (Tschannen, BSK BV, Art. 39 N. 21; Biaggini, Komm. BV, Art. 39 Fn. 26). La prassi prevalente segue l'interpretazione estensiva.
+**N. 12** Il termine d'attesa può durare al massimo tre mesi e si riferisce esclusivamente agli affari cantonali e comunali (Hangartner/Kley, N 220). Il termine inizia a decorrere con lo stabilimento nel senso del diritto di registrazione (Kley, SG Komm. BV, Art. 39 N. 15). L'introduzione di un termine d'attesa è nella discrezionalità dei Cantoni; non è un obbligo (FF 1997 I 222).
 
-#### 3.4 Termine d'attesa per nuovi residenti (cpv. 4)
-
-**N. 14** I Cantoni possono prevedere un termine d'attesa di massimo tre mesi per l'esercizio del diritto di voto negli affari cantonali e comunali. Questo termine di carenza vale solo per i nuovi residenti provenienti da altri Cantoni, non per traslochi all'interno del Cantone.
-
-**N. 15** Il termine d'attesa è una disposizione facoltativa. Molti Cantoni rinunciano a tale termine e accordano il diritto di voto immediatamente dopo lo stabilimento. Dove esiste un termine d'attesa, deve essere configurato in modo proporzionato e non può superare i tre mesi.
+**N. 13** Il termine d'attesa serve allo scopo di assicurare una certa familiarità con le condizioni locali prima che possano essere esercitati i diritti politici (Aubert/Mahon, Art. 39 N. 10). Esso deve tuttavia essere configurato proporzionatamente e non può avere effetti discriminatori (Häfelin/Haller/Keller/Thurnherr, N 1418).
 
 ### 4. Conseguenze giuridiche
 
-**N. 16** La conseguenza giuridica primaria dell'art. 39 Cost. è la chiara ripartizione delle competenze. Le leggi federali che invadono competenze cantonali sono incostituzionali. Viceversa, i Cantoni non possono emanare regolamentazioni per elezioni e votazioni federali.
+**N. 14** La conseguenza giuridica primaria dell'art. 39 Cost. è l'attribuzione della competenza normativa. La Confederazione è competente esclusivamente per gli affari federali, mentre i Cantoni possono configurare autonomamente i loro diritti politici cantonali e comunali (Tschannen, BSK BV, Art. 39 N. 5). Questa autonomia soggiace tuttavia ai limiti della Costituzione federale, in particolare ai diritti fondamentali (**DTF 131 I 85 consid. 3.2**).
 
-**N. 17** Per gli aventi diritto di voto risulta dal principio di domicilio che possono esercitare i loro diritti politici solo in un Comune e in un Cantone. Un trasloco comporta automaticamente la perdita dei diritti politici nel vecchio luogo e l'acquisizione nel nuovo domicilio, eventualmente nel rispetto del termine d'attesa cantonale.
+**N. 15** Dal principio del domicilio deriva che i diritti politici possono in principio essere esercitati solo presso il domicilio di diritto civile. Le persone senza domicilio in Svizzera non hanno diritto di voto e di elezione, salvo che esistano eccezioni di diritto speciale (p.es. per gli Svizzeri all'estero secondo l'art. 40 cpv. 2 Cost.) (→ Art. 40 Cost.). I Cantoni devono tenere i loro registri in modo che siano evitate le doppie registrazioni (Kley, SG Komm. BV, Art. 39 N. 13).
 
-**N. 18** Le violazioni dell'art. 39 Cost. possono essere censurate con ricorso in materia di diritti politici. Il Tribunale federale verifica sia il rispetto dell'ordinamento delle competenze sia la corretta applicazione del principio di domicilio (**DTF 143 I 92**).
+**N. 16** Le violazioni dell'art. 39 Cost. possono essere censurate con ricorso di diritto pubblico (art. 82 lett. c LTF). In caso di violazioni del principio del domicilio o di termini d'attesa inammissibili è aperta la via del diritto agli interessati (Häfelin/Haller/Keller/Thurnherr, N 1420). Il Tribunale federale esamina le regolamentazioni cantonali sulla loro compatibilità con l'art. 39 Cost. (**DTF 140 I 58 consid. 3.3**).
 
-### 5. Controversie dottrinali
+### 5. Controversie
 
-**N. 19** La principale controversia dottrinale riguarda la portata del cpv. 3. Mentre Tschannen riferisce il divieto di esercizio multiplo anche ai Comuni all'interno di un Cantone, Biaggini interpreta la norma restrittivamente come limite puramente intercantonale (Tschannen, BSK BV, Art. 39 N. 21; Biaggini, Komm. BV, Art. 39 Fn. 26).
+**N. 17** La portata del divieto dell'esercizio multiplo (cpv. 3) è controversa nella dottrina. Mentre Tschannen sostiene un'interpretazione estensiva che comprende anche il rapporto intercomunale (Tschannen, BSK BV, Art. 39 N. 22), Biaggini propugna per un'interpretazione restrittiva che si limita al rapporto intercantonale (Biaggini, Komm. BV, Art. 39 N. 10 nota 26). Kley assume una posizione mediatrice e differenzia secondo il diritto cantonale concreto (Kley, SG Komm. BV, Art. 39 N. 14).
 
-**N. 20** Si discute anche la necessità dell'art. 39 cpv. 1 come fondamento di competenza. Tschannen argomenta che per le leggi di esecuzione cantonali e federali non occorre invocare l'art. 39 cpv. 1, poiché le competenze risultano già da altre disposizioni costituzionali (Tschannen, BSK BV, Art. 39 N. 6). L'opinione contraria vede nell'art. 39 cpv. 1 un necessario chiarimento.
+**N. 18** È discussa in modo controverso anche la questione se l'art. 39 cpv. 1 Cost. costituisca una base di competenza autonoma o sia di mera natura dichiarativa. Tschannen sostiene l'opinione che la disposizione sia puramente dichiarativa, poiché la competenza deriva già dalla sovranità cantonale (Tschannen, BSK BV, Art. 39 N. 6). Aubert/Mahon vedono invece nell'art. 39 cpv. 1 Cost. un'attribuzione di competenza costitutiva che va oltre l'autonomia organizzativa generale (Aubert/Mahon, Art. 39 N. 2).
 
-**N. 21** Le eccezioni al principio di domicilio secondo il cpv. 2 sollevano questioni sulla portata. Non è chiaro in particolare fino a che punto possano spingersi le regolamentazioni cantonali speciali per persone con dimora settimanale, studenti o persone in istituti. La dottrina richiede un'applicazione restrittiva per preservare l'uniformità del domicilio politico (SG Komm. BV-Kley, Art. 39 N. 15).
+**N. 19** La configurazione delle eccezioni al principio del domicilio (cpv. 2 frase 2) porta a posizioni diverse. Mentre la dottrina dominante esige una gestione restrittiva (Hangartner/Kley, N 217; Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3a ed. 2016, N 2845), altri propugnano per un'interpretazione più generosa a favore della partecipazione politica (Mahon, § 36 N. 26).
 
 ### 6. Indicazioni pratiche
 
-**N. 22** In caso di traslochi intercantonali è decisiva la tempestiva comunicazione del cambio di domicilio. Chi vuole esercitare i suoi diritti politici deve farsi registrare nel nuovo domicilio prima della scadenza del termine di annuncio per elezioni e votazioni. I termini cantonali variano considerevolmente.
+**N. 20** Nella configurazione dei procedimenti elettorali cantonali e comunali è da osservare l'ampia libertà di configurazione dei Cantoni, che è limitata solo dalle garanzie dei diritti fondamentali, in particolare dagli art. 8 e 34 Cost. (**DTF 143 I 211 consid. 3.1**). I legislatori cantonali dovrebbero consultare accuratamente la giurisprudenza del Tribunale federale sull'uguaglianza del diritto elettorale nelle riforme del diritto elettorale (**DTF 129 I 185**).
 
-**N. 23** Per i cittadini con doppia cittadinanza e persone con più domicili vale: il domicilio politico segue il domicilio principale di diritto civile. Le persone con dimora settimanale esercitano i loro diritti politici nel luogo del domicilio principale, non nel luogo di lavoro. In caso di incertezze è raccomandabile un chiarimento preventivo con l'ufficio controllo abitanti.
+**N. 21** Per la tenuta dei registri si raccomanda uno stretto coordinamento tra i servizi di controllo degli abitanti e le autorità dei registri elettorali per far rispettare il divieto dell'esercizio multiplo (Kley, SG Komm. BV, Art. 39 N. 13). In caso di cambi di domicilio intercantonali è necessaria una mutazione tempestiva dei registri elettorali (Hangartner/Kley, N 218).
 
-**N. 24** I Comuni devono rispettare le prescrizioni di diritto federale nella tenuta dei registri degli elettori. Una doppia registrazione in diversi Cantoni è inammissibile e può avere conseguenze penali. Il coordinamento intercantonale avviene tramite il registro centrale degli elettori della Confederazione per le consultazioni popolari federali.
+**N. 22** Nell'introduzione di termini d'attesa secondo il cpv. 4 è da osservare che questi possono valere solo per gli affari cantonali e comunali. Le votazioni e elezioni federali non sono interessate dal termine d'attesa (FF 1997 I 222). Il termine deve essere chiaramente definito e uniforme per tutti i nuovi residenti; differenziazioni secondo la provenienza sarebbero discriminatorie e quindi inammissibili (Häfelin/Haller/Keller/Thurnherr, N 1418).
 
-**N. 25** I termini d'attesa per nuovi residenti devono essere comunicati chiaramente. Le persone interessate devono essere informate al momento dell'annuncio sui loro diritti e sull'eventuale termine d'attesa. Dopo la scadenza del termine l'iscrizione nel registro degli elettori avviene automaticamente, non è necessario un annuncio separato.
+**N. 23** I Comuni che vogliono introdurre il diritto di voto per straniere e stranieri necessitano di una corrispondente base giuridica cantonale, poiché la regolamentazione dei diritti politici negli affari comunali secondo il cpv. 1 è cosa dei Cantoni (Aubert/Mahon, Art. 39 N. 5). La sola autonomia comunale non è sufficiente a tale scopo (→ Art. 50 Cost.).

@@ -1,55 +1,39 @@
+# Art. 56 Cost. — Relazioni dei Cantoni con l'estero
+
 ## Giurisprudenza
 
-### Competenza cantonale nella conclusione di trattati e cooperazione intercantonale
+### Trattati cantonali con partner stranieri
 
-**Sentenza 8C_501/2016 del 19 dicembre 2017 consid. 1.2**
+**DTF 150 III 268** (29 aprile 2024) — Validità dei trattati cantonali storici
 
-La commissione di ricorso della Scuola tecnica superiore interstatale di Buchs (NTB) conferma la base costituzionale per i trattati cantonali con l'estero.
+L'accordo dell'11 maggio 1834 tra i Cantoni svizzeri e il Regno di Baviera sul trattamento paritario dei rispettivi cittadini nelle procedure fallimentari non è stato abrogato dalla LDIP entrata in vigore successivamente. L'accordo fallimentare rende non necessario, nel suo ambito di applicazione, il riconoscimento del decreto fallimentare straniero secondo l'art. 166 LDIP. La sentenza conferma la validità permanente dei trattati cantonali storici con l'estero, purché non siano stati espressamente abrogati.
 
-Il Tribunale federale stabilisce che la convenzione di fondazione della NTB costituisce un trattato di diritto internazionale tra i Cantoni di San Gallo e dei Grigioni con il Principato del Liechtenstein. La competenza cantonale per la conclusione di tali trattati viene espressamente confermata:
+> «L'accordo fallimentare con il Regno di Baviera non è stato abrogato dalla LDIP entrata in vigore successivamente e rende non necessario, nel suo ambito di applicazione, il riconoscimento del decreto fallimentare straniero secondo l'art. 166 LDIP.»
 
-> «Questa convenzione di fondazione costituisce un trattato di diritto internazionale che i Cantoni svizzeri di San Gallo e dei Grigioni hanno concluso con il Principato del Liechtenstein. I Cantoni erano competenti a tal fine (cfr. art. 9 della Costituzione federale della Confederazione Svizzera del 29 maggio 1874; corrisponde oggi all'art. 56 Cost.).»
+**Sentenza 8C_501/2016** (19 dicembre 2017) — Cooperazione intercantonale con Stati stranieri
 
-### Trattati di diritto internazionale dei Cantoni tuttora in vigore
+L'accordo di fondazione dell'Università di tecnologia di Buchs tra i Cantoni San Gallo e Grigioni con il Principato del Liechtenstein è un trattato di diritto internazionale ai sensi dell'art. 56 Cost. I Cantoni erano autorizzati, sotto la vecchia Costituzione federale, a concludere tali trattati. La nuova Costituzione ha confermato questa competenza e ha sostituito l'obbligo di approvazione con un obbligo di informazione.
 
-**DTF 150 III 268 consid. 4.4-4.6 del 29 aprile 2024**
+> «Questo accordo di fondazione è un trattato di diritto internazionale che i Cantoni svizzeri San Gallo e Grigioni hanno concluso con il Principato del Liechtenstein. I Cantoni erano autorizzati a farlo.»
 
-La convenzione del 1834 con il Regno di Baviera illustra la continuità storica dei trattati cantonali con l'estero.
+### Cooperazione transfrontaliera
 
-Il Tribunale federale conferma che i trattati storici cantonali con Stati esteri mantengono la loro validità, purché non siano stati espressamente abrogati. La convenzione sui fallimenti con la Baviera del XIX secolo rimane in vigore:
+**GAAC 70.47** (22 agosto 2005) — Quadro istituzionale della cooperazione transfrontaliera
 
-> «La convenzione sui fallimenti con il Regno di Baviera non è stata abrogata dalla LDIP successivamente emanata e nel suo campo di applicazione non rende necessario un riconoscimento del decreto di fallimento estero secondo l'art. 166 LDIP.»
+La Direzione del diritto internazionale pubblico conferma l'ampia autonomia dei Cantoni nella cooperazione transfrontaliera. I Cantoni possono concludere trattati con l'estero nell'ambito delle loro competenze, che secondo la nuova Costituzione federale non devono più essere approvati dal Consiglio federale. Tuttavia, i Cantoni devono informare la Confederazione prima della conclusione dei trattati. I trattati con autorità straniere subordinate possono essere conclusi direttamente dai Cantoni, mentre quelli con autorità centrali o federali solo attraverso la mediazione della Confederazione.
 
-### Concordati intercantonali e riferimenti all'estero
+> «I Cantoni possono concludere trattati con l'estero nell'ambito delle loro competenze, che secondo la nuova Costituzione federale non devono più essere approvati dal Consiglio federale. Tuttavia, i Cantoni devono informare la Confederazione prima della conclusione dei trattati.»
 
-**DTF 122 I 85 consid. 2 dell'11 settembre 1996**
+**GAAC 52.18** (24 aprile 1987) — Basi giuridiche della cooperazione transfrontaliera
 
-Il concordato sull'assistenza giudiziaria e la cooperazione intercantonale in materia penale mostra l'attuazione pratica delle relazioni esterne cantonali nel contesto europeo.
+La Convenzione quadro europea del 20 maggio 1981 sulla cooperazione transfrontaliera fra collettività o autorità territoriali obbliga le parti contraenti a facilitare e promuovere la cooperazione transfrontaliera fra collettività territoriali. I Cantoni fanno sempre più uso della loro competenza per la cooperazione transfrontaliera.
 
-Il Tribunale federale riconosce che gli accordi intercantonali con riferimenti all'estero fanno parte delle competenze cantonali, in particolare quando servono all'attuazione di obblighi di diritto internazionale:
+> «La Convenzione quadro europea del 20 maggio 1981 sulla cooperazione transfrontaliera fra collettività o autorità territoriali obbliga le parti contraenti a facilitare e promuovere la cooperazione transfrontaliera fra collettività territoriali.»
 
-> «Sotto l'aspetto della CERG, le disposizioni del concordato per la Svizzera come Stato richiesto costituiscono una parte delle forme previste dalle prescrizioni di diritto nazionale menzionate nell'art. 3 n. 1 CERG per l'evasione delle domande di assistenza giudiziaria.»
+### Delimitazione rispetto ad altre disposizioni costituzionali
 
-### Prassi storica della politica estera cantonale
+Nella giurisprudenza relativa all'art. 56 Cost. non si evidenziano conflitti con altre disposizioni costituzionali. Le poche decisioni confermano piuttosto l'ordinamento costituzionale della politica estera cantonale. L'applicazione pratica dell'art. 56 Cost. avviene prevalentemente nell'ambito della cooperazione transfrontaliera, senza che vengano sollevate questioni giuridiche fondamentali.
 
-**DTF 73 I 47 del 27 giugno 1946**
+### Sviluppo giuridico
 
-Conferma fondamentale della competenza cantonale per i trattati nei loro ambiti di competenza sotto la vecchia Costituzione federale.
-
-Il Tribunale federale aveva già stabilito sotto l'art. 9 aCost. (corrisponde oggi all'art. 56 Cost.) che i Cantoni sono competenti nei loro ambiti di competenza per concludere trattati con l'estero. Questa giurisprudenza ha costituito la base per l'interpretazione moderna dell'art. 56 Cost.
-
-### Limiti della competenza cantonale nella conclusione di trattati
-
-**DTF 53 I 351 del 1927**
-
-Giurisprudenza precoce sui limiti costituzionali delle normative cantonali con riferimenti all'estero.
-
-Il Tribunale federale ha esaminato la compatibilità delle misure cantonali con il diritto superiore e ha sviluppato i principi che oggi sono codificati nell'art. 56 cpv. 2 Cost. La decisione illustra la necessità di rispettare il diritto federale e gli interessi federali nelle relazioni esterne cantonali.
-
-### Delimitazione rispetto alle autorità subordinate
-
-**DTF 60 I 213 del 18 agosto 1933**
-
-Delimitazione storica tra i rapporti diretti con autorità estere subordinate e i trattati formali di diritto internazionale.
-
-Il Tribunale federale aveva già distinto precocemente tra i rapporti amministrativi diretti dei Cantoni con autorità estere subordinate (oggi art. 56 cpv. 3 Cost.) e la competenza formale di concludere trattati. Questa differenziazione caratterizza l'applicazione moderna della disposizione.
+La giurisprudenza relativa all'art. 56 Cost. è scarsa, il che indica il chiaro ordinamento delle competenze e la configurazione praticabile della norma. Le poche decisioni disponibili mostrano uno sviluppo continuo dall'obbligo di approvazione sotto la vecchia Costituzione all'obbligo di informazione sotto la nuova Costituzione. I Cantoni utilizzano le loro competenze ampliate in particolare nell'ambito della cooperazione transfrontaliera, senza che ciò porti a problemi di diritto costituzionale.

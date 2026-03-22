@@ -1,69 +1,53 @@
-# Art. 47 BV — Rechtsprechung
+## Rechtsprechung
 
-## I. Organisationsautonomie der Kantone
+### Organisationsautonomie der Kantone
 
-### Begrenzung durch Bundesrecht im Raumplanungsrecht
+**BGE 128 I 254** vom 14.8.2002 (E. 3-4)
 
-**BGE 128 I 254** — 14. August 2002
+Das Bundesgericht stellte klar, dass die kantonale Organisationsautonomie Grenzen kennt, wenn Bundesrecht einheitliche Anwendung verlangt. Art. 25 Abs. 2 RPG verlangt im Interesse einer gesamtkantonal einheitlichen und rechtsgleichen Rechtsanwendung, dass sämtliche Gesuche für Bauvorhaben ausserhalb der Bauzone von einer kantonalen Behörde behandelt werden. Die Kompetenzverteilung auf 26 Regierungsstatthalter im Kanton Bern erfüllte diese bundesrechtliche Anforderung nicht.
 
-Die kantonale Organisationsautonomie findet ihre Grenzen in zwingenden bundesrechtlichen Vorgaben. Art. 25 Abs. 1 RPG statuiert zwar den Grundsatz der Organisationsautonomie der Kantone, doch wird dieser durch Abs. 2 eingeschränkt, wenn die Zuständigkeit einer kantonalen Behörde vorgeschrieben wird.
+> «Art. 25 Abs. 1 RPG statuiert den Grundsatz der Organisationsautonomie der Kantone. Dieser Grundsatz wird in Abs. 2 insofern eingeschränkt, als die Zuständigkeit einer kantonalen Behörde vorgeschrieben wird.»
 
-> «Art. 25 Abs. 2 RPG verlangt im Interesse einer gesamtkantonal einheitlichen und rechtsgleichen Rechtsanwendung, dass sämtliche Gesuche für Bauvorhaben ausserhalb der Bauzone von einer kantonalen Behörde behandelt werden.»
+**BGE 144 IV 240** vom 14.6.2018 (E. 2.5)
 
-Die Berner Regelung, welche diese Kompetenz auf 26 verschiedene Regierungsstatthalter übertrug, genügte den bundesrechtlichen Anforderungen nicht und verletzte die Organisationsautonomie paradoxerweise durch ungenügend zentralisierte Organisation.
-
-### Gemeindliche Autonomie bei der beruflichen Vorsorge
-
-**BGE 135 I 28** — 12. Dezember 2008  
-
-Die Organisationsautonomie schützt auch die Gemeinden vor unzulässigen kantonalen Eingriffen in ihre Selbstorganisation. Kantone dürfen Gemeinden nicht zwingen, ihre Angestellten bei einer bestimmten Vorsorgeeinrichtung zu versichern.
-
-> «Die Gemeinden sind befugt, zur Durchführung der beruflichen Vorsorge ihres Personals eine eigene Vorsorgeeinrichtung zu errichten oder sich zu diesem Zweck einer registrierten Vorsorgeeinrichtung, beispielsweise jener des betreffenden Kantons, anzuschliessen.»
-
-Eine kantonale Regelung, welche den zwingenden Anschluss der kommunalen Lehrpersonen an die kantonale Pensionskasse vorschreibt, ist bundesrechtswidrig und verletzt die gemeindliche Organisationsautonomie.
-
-## II. Grenzen der Organisationsautonomie durch Bundesstrafverfahrensrecht
-
-### Parteirechte im Strafverfahren
-
-**BGE 144 IV 240** — 14. Juni 2018 (Urteil 6B_982/2017)
-
-Die kantonale Organisationsautonomie berechtigt die Kantone nicht dazu, privatrechtliche Organisationen als "Behörden" im Sinne von Art. 104 Abs. 2 StPO zu bezeichnen und ihnen Parteirechte zu verleihen. Art. 47 Abs. 2 BV wird durch Art. 123 BV begrenzt.
+Bei der Auslegung von Art. 104 Abs. 2 StPO betonte das Bundesgericht die Bedeutung der kantonalen Organisationsautonomie nach Art. 47 BV. Dennoch können die Kantone keine Vorschriften erlassen, die dem Bundesrecht widersprechen. Die Organisationsautonomie berechtigt Kantone nicht dazu, privaten Organisationen Behördenstatus zu verleihen, wenn dies bundesrechtliche Grenzen überschreitet.
 
 > «Zwar wahrt der Bund die Eigenständigkeit der Kantone und belässt ihnen ausreichend eigene Aufgaben und beachtet ihre Organisationsautonomie (vgl. Art. 47 BV). [...] Allerdings dürfen die Kantone keine Vorschriften aufstellen, die dem Recht des Bundes widersprechen.»
 
-Der Begriff der Behörde in Art. 104 Abs. 2 StPO ist grundsätzlich in einem eingeschränkten Sinn zu verstehen und verlangt: (1) Übertragung einer öffentlichrechtlichen Aufgabe, (2) hoheitliche Befugnisse, (3) genügende staatliche Aufsicht, (4) staatliche Finanzierung der öffentlichrechtlichen Tätigkeit.
+### Finanzielle Eigenständigkeit und Aufgabenverteilung
 
-## III. Steuerliche Doppelbesteuerung und Kantonsautonomie
+**BGE 147 I 136** vom 18.5.2020 (E. 2)
 
-### Interkantonale Steuerausscheidung
+Das Bundesgericht anerkannte die Gemeindeautonomie bei der Festsetzung des Steuerfusses als Ausprägung der durch Art. 47 BV geschützten kantonalen Eigenständigkeit. Der Entzug dieser Kompetenz durch den Kanton verletzt die verfassungsrechtlich garantierte Autonomie. Die Entscheidung zeigt die Grenzen staatlicher Eingriffe in autonome Bereiche der nachgelagerten Ebenen.
 
-**BGE 148 I 65** — 28. Juli 2021
+> «Den luzernischen Gemeinden kommt bei der Festsetzung des Gemeindesteuerfusses Autonomie zu. Der Entzug der Kompetenz zur Festsetzung des Gemeindesteuerfusses verletzt die Gemeindeautonomie und den Grundsatz der Verhältnismässigkeit.»
 
-Die Eigenständigkeit der Kantone im Steuerbereich wird durch das Verbot der interkantonalen Doppelbesteuerung (Art. 127 Abs. 3 BV) begrenzt. Kantone müssen bei der Steuerausscheidung einheitliche Bewertungsmassstäbe anwenden.
+**BGE 135 I 28** vom 12.12.2008 (E. 5)
 
-> «Für die Verlegung der Schulden sind die Aktiven auch bei der Vermögenssteuer nach einheitlichen Regeln zu bewerten. Es ist dazu auf die Repartitionsfaktoren der Schweizerischen Steuerkonferenz SSK abzustellen.»
+Im Bereich der beruflichen Vorsorge bestätigte das Bundesgericht, dass Gemeinden als eigenständige Träger öffentlicher Aufgaben grundsätzlich frei sind, eigene Vorsorgeeinrichtungen zu errichten oder sich bestehenden anzuschliessen. Eine kantonalrechtliche Regelung, welche den zwingenden Anschluss an eine bestimmte Vorsorgeeinrichtung vorschreibt, verletzt die durch Art. 47 BV geschützte kommunale Eigenständigkeit.
 
-Die funktionale Hierarchie zwischen kantonalem und interkantonalem Steuerrecht beschränkt die kantonale Steuerhoheit zugunsten der Rechtseinheit im Bundesstaat.
+> «Die Gemeinden sind befugt, zur Durchführung der beruflichen Vorsorge ihres Personals eine eigene Vorsorgeeinrichtung zu errichten oder sich zu diesem Zweck einer registrierten Vorsorgeeinrichtung [...] anzuschliessen. Eine kantonalrechtliche Regelung, welche den Anschluss [...] an eine bestimmte Vorsorgeeinrichtung vorschreibt, ist bundesrechtswidrig.»
 
-## IV. COVID-19-Massnahmen und Organisationsautonomie
+### Verhältnis zwischen Bundes- und Kantonsrecht
 
-### Kantonale Vollzugsautonomie bei Epidemienrecht
+**BGE 148 I 33** vom 3.9.2021 (E. 5.2-5.4)
 
-**BGE 148 I 33** — 3. September 2021
+Das Bundesgericht präzisierte die Kompetenzabgrenzung zwischen Bund und Kantonen im Gesundheitswesen während der COVID-19-Pandemie. Nach Art. 49 Abs. 1 BV können Kantone in abschliessend geregelten Sachgebieten nur noch tätig werden, soweit dies in der Bundesgesetzgebung ausdrücklich vorgesehen ist. Die kantonale Organisationsautonomie bleibt aber grundsätzlich erhalten.
 
-Kantone verfügen bei der Konkretisierung von Bundesvorgaben im Epidemienrecht über Organisationsautonomie, müssen dabei aber die Grundrechte wahren. Die kantonale Verordnung des Kantons Bern, welche die Teilnehmerzahl an Kundgebungen auf 15 Personen beschränkte, stellte einen schweren Eingriff in die Versammlungsfreiheit dar.
+> «Nach dem Grundsatz des Vorrangs des Bundesrechts (Art. 49 Abs. 1 BV) können die Kantone in Sachgebieten, welche die Bundesgesetzgebung abschliessend geregelt hat, keine Rechtsetzungskompetenzen mehr wahrnehmen, soweit sie nicht in der einschlägigen Bundesgesetzgebung ausdrücklich vorgesehen sind.»
 
-**BGE 148 I 19** — 3. September 2021
+**BGE 148 I 19** vom 3.9.2021 (E. 5)
 
-Die Urner Regelung mit einer Beschränkung auf 300 Personen bei Kundgebungen wurde als verhältnismässig beurteilt. Dies zeigt den Spielraum der Kantone bei der Umsetzung bundesrechtlicher Vorgaben im Rahmen ihrer Organisationsautonomie.
+In einem weiteren COVID-19-Entscheid bekräftigte das Bundesgericht die Bedeutung der kantonalen Umsetzungsfreiheit bei bundesrechtlich vorgegebenen Rahmenbedingungen. Die Kantone behalten auch bei umfassenden Bundesregelungen einen gewissen Gestaltungsspielraum, der jedoch nicht zur Umgehung bundesrechtlicher Vorgaben genutzt werden darf.
 
-## V. Neuere Entwicklungen
+### Interkantonale Zusammenarbeit
 
-### Interkommunale Steuerausscheidung
+**BGE 148 I 65** vom 28.7.2021 (E. 3-4)
 
-**BGE 150 II 527** — 18. Juli 2024
+Bei der interkantonalen Steuerausscheidung konkretisierte das Bundesgericht die Pflicht zur koordinierten Aufgabenerfüllung. Art. 127 Abs. 3 BV verbietet die interkantonale Doppelbesteuerung und verlangt von den Kantonen eine abgestimmte Anwendung ihrer Steuerhoheit. Dies zeigt, dass kantonale Eigenständigkeit mit der Verpflichtung zur Koordination einhergeht.
 
-Die Bewertung von land- oder forstwirtschaftlich genutzten Grundstücken bei der interkantonalen Steuerausscheidung unterliegt dem Schlechterstellungsverbot und dem Rechtsgleichheitsgebot. Kantone müssen bei der Ausscheidung von Steuerfaktoren einheitliche Massstäbe anwenden.
+> «Grundsätze des interkantonalen Doppelbesteuerungsrechts und faktisches Verbot der interkantonalen Doppelbesteuerung bei Kapitalsteuern.»
 
-Das Legalitätsprinzip und das Verbot der interkantonalen Doppelbesteuerung setzen der kantonalen Steuerautonomie enge Grenzen, ohne diese jedoch vollständig aufzuheben.
+**BGE 150 II 527** vom 18.7.2024 (E. 4-5)
+
+Das Bundesgericht unterstrich erneut die Bedeutung einheitlicher Grundsätze bei der interkantonalen Steuerausscheidung. Die kantonale Steuerhoheit muss so ausgeübt werden, dass die verfassungsrechtlichen Vorgaben zur Vermeidung von Doppelbesteuerung eingehalten werden. Dies illustriert das Spannungsfeld zwischen kantonaler Eigenständigkeit und bundesrechtlichen Koordinationspflichten.

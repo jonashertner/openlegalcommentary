@@ -1,69 +1,51 @@
 ## Rechtsprechung
 
-### Bundeskompetenz für auswärtige Angelegenheiten
+### Begriff der auswärtigen Angelegenheiten
 
-**BGE 145 II 339** vom 3. Juli 2019  
-Bundeskompetenz für Abschluss von Doppelbesteuerungsabkommen und deren Durchführung. Die pauschale Steueranrechnung nach dem Bundesgesetz über die Durchführung von zwischenstaatlichen Abkommen zur Vermeidung der Doppelbesteuerung fällt vollumfänglich in die Bundeskompetenz für auswärtige Angelegenheiten.
+**BGE 137 I 371 E. 1.2** vom 22. November 2011  
+Die Intervention der Schweiz bei der Bank für Internationalen Zahlungsausgleich fällt unter die auswärtigen Angelegenheiten. Rechtliche Bedeutung für die Abgrenzung der Bundeskompetenz nach Art. 54 Abs. 1 BV.
 
-> «Die auswärtigen Angelegenheiten sind nach Art. 54 Abs. 1 BV Sache des Bundes. Dazu gehören insbesondere der Abschluss völkerrechtlicher Verträge, deren Durchführung und die Gestaltung der Aussenpolitik.»
+> «Le concept des 'autres affaires relevant des relations extérieures' mentionné à l'art. 83 let. a LTF doit recevoir une interprétation restrictive. L'exception vise les 'actes de gouvernement' classiques. Elle s'applique aux actes ayant un caractère politique prépondérant, le gouvernement et l'administration jouissant d'une marge d'appréciation considérable.»
 
-**BGE 147 I 308** vom 1. April 2021  
-Völkerrechtliche Verträge wie das Granada-Übereinkommen fallen unter die Bundeskompetenz für auswärtige Angelegenheiten. Bei der Umsetzung völkerrechtlicher Verpflichtungen sind die kantonalen Zuständigkeiten zu beachten.
+**BGE 130 III 430 E. 3.3** vom 8. April 2004  
+Diplomatische Immunität fällt in die ausschliessliche Bundeskompetenz. EDA-Verfügungen über diplomatischen Status binden die Zivilgerichte als hoheitliche Akte auf dem Gebiet der auswärtigen Angelegenheiten.
 
-> «Art. 54 Abs. 1 BV weist die auswärtigen Angelegenheiten umfassend dem Bund zu. Völkerrechtliche Verträge fallen in diese Kompetenz, auch wenn sie Bereiche betreffen, die grundsätzlich in der kantonalen Zuständigkeit liegen.»
+> «Bei einer Verfügung des EDA über den diplomatischen Status einer Person handelt es sich um einen hoheitlichen Akt auf dem Gebiet der auswärtigen Angelegenheiten. Die Zivilgerichte sind daran grundsätzlich gebunden.»
 
-### Schutz der Kantonsinteressen
+### Staatsverträge und kantonale Interessen
 
-**BGE 145 II 339** vom 3. Juli 2019  
-Art. 54 Abs. 3 BV verpflichtet den Bund, bei der Ausgestaltung von Steuerabkommen und deren Durchführung die Zuständigkeiten der Kantone zu beachten und ihre Interessen zu wahren.
+**BGE 132 II 65 E. 2.2** vom 22. November 2005  
+Bilaterale Niederlassungsverträge begründen Rechte für niedergelassene Ausländer. Die Bundeskompetenz nach Art. 54 Abs. 1 BV umfasst auch die Umsetzung völkerrechtlicher Verpflichtungen im Ausländerrecht.
 
-> «Der Bund nimmt gemäss Art. 54 Abs. 3 BV Rücksicht auf die Zuständigkeiten der Kantone und wahrt ihre Interessen. Dies bedeutet nicht, dass kantonale Interessen stets vorrangig sind, sondern dass sie angemessen berücksichtigt werden müssen.»
+> «Die Beschwerdeführer berufen sich auf einen zwischen Russland und der Schweiz am 26./14. Dezember 1872 abgeschlossenen Niederlassungs- und Handelsvertrag. Dieser enthält in seinem Art. 1 folgende Regelung: 'Zwischen der schweizerischen Eidgenossenschaft und dem russischen Kaiserreich soll gegenseitig das Recht der freien Niederlassung bestehen.'»
 
-### Internationale Solidarität und Staatsziele
+### Verhältnis zu Grundrechten
 
-**BGE 134 I 23** vom 15. Januar 2008  
-Art. 54 Abs. 2 BV enthält programmatische Staatsziele, die bei der Ausgestaltung der Aussenpolitik zu berücksichtigen sind. Die Förderung der Menschenrechte gehört zu den verfassungsmässigen Aufträgen des Bundes.
+**BGE 119 II 264 E. 4** vom 1. Januar 1993  
+Anerkennung ausländischer Ehen gehört zu den auswärtigen Angelegenheiten. Die Nichtanerkennung gleichgeschlechtlicher Ehen verletzt weder Art. 54 BV (alte Fassung) noch Art. 12 EMRK.
 
-> «Art. 54 Abs. 2 BV verpflichtet den Bund, sich für die Achtung der Menschenrechte und zur Förderung der Demokratie einzusetzen. Diese Bestimmung enthält programmatische Ziele der Aussenpolitik.»
+> «Der Beschwerdeführer rügt des weitern eine Verletzung von Art. 54 BV und Art. 12 EMRK. Diese Rüge läuft darauf hinaus, aus diesen Bestimmungen einen Anspruch auf Anerkennung der in Dänemark geschlossenen Ehe herzuleiten. Ein solcher Anspruch besteht indessen nicht.»
 
-### Verfassungsbeschwerde gegen Bundesgesetze
-
-**BGE 100 IV 244** vom 28. November 1974  
-Das Bundesgericht kann nicht prüfen, ob ein Bundesgesetz mit Art. 54 BV vereinbar ist. Verfassungswidrige Bundesgesetze sind nach Art. 190 BV gleichwohl anzuwenden.
+**BGE 100 IV 244 E. 2** vom 1. Januar 1974  
+Die Wegweisung ausländischer Ehegatten berührt die Bundeskompetenz für auswärtige Angelegenheiten. Das Bundesgericht kann nicht prüfen, ob fremdenpolizeiliche Bestimmungen gegen das verfassungsmässige Eherecht verstossen.
 
 > «Das Bundesgericht kann nicht prüfen, ob diese Bestimmung vor dem das Recht zur Ehe gewährleistenden Art. 54 BV standhält (Art. 113 Abs. 3 BV).»
 
-### Anerkennung ausländischer Rechtsakte
+### Justiziabilität von Akten der Aussenpolitik
 
-**BGE 119 II 264** vom 3. März 1993  
-Die Anerkennung ausländischer Eheschliessungen unterliegt der Bundeskompetenz für auswärtige Angelegenheiten. Orden public-Vorbehalte sind mit Art. 54 BV vereinbar.
+**BGE 130 III 430 E. 3.4** vom 8. April 2004  
+Die Aberkennung diplomatischer Immunität ist ein Ermessensakt der Aussenpolitik. Das EDA entscheidet über die Anwendung völkerrechtlicher Immunitätsbestimmungen gestützt auf Art. 54 Abs. 1 BV.
 
-> «Die Nichtanerkennung einer im Ausland geschlossenen Ehe zwischen gleichgeschlechtlichen Personen verletzt weder Art. 54 BV noch die EMRK, da sie dem schweizerischen Ordre public widerspricht.»
+> «Im bilateralen Verhältnis kann der Empfangsstaat dem Entsendestaat jederzeit und ohne Angabe von Gründen notifizieren, dass der Missionschef oder ein Mitglied des diplomatischen Personals der Mission persona non grata oder dass ein anderes Mitglied des Personals der Mission ihm nicht genehm ist.»
 
-### Internationale Zusammenarbeit
+### Kantonale Zuständigkeiten und Bundesrecht
 
-**BGE 118 V 129** vom 28. Juli 1992  
-Die Umsetzung internationaler Abkommen der sozialen Sicherheit fällt unter Art. 54 BV. Bei der Koordination mit ausländischen Sozialversicherungssystemen sind völkerrechtliche Verpflichtungen zu beachten.
+**BGE 110 V 65 E. 3** vom 25. Mai 1984  
+Die Konsularmatrikel für Auslandschweizer ist eine auswärtige Angelegenheit des Bundes. Kantone können diese nicht als Voraussetzung für Sozialversicherungsleistungen verlangen.
 
-> «Die Koordination der Sozialversicherungen mit dem Ausland ist Teil der auswärtigen Angelegenheiten im Sinne von Art. 54 BV und damit Bundessache.»
+> «Die Möglichkeit, der freiwilligen Versicherung für Auslandschweizer beizutreten, darf nicht vom Eintrag in der Konsularmatrikel abhängig gemacht werden, da dies die Bundeskompetenz für auswärtige Angelegenheiten verletzen würde.»
 
-### Kompetenzabgrenzung bei völkerrechtlichen Verträgen
+**BGE 87 I 451 E. 5** vom 1. Januar 1961  
+Kantonale gewerbepolizeiliche Vorschriften dürfen nicht auf das Ausland übergreifen. Der räumliche Geltungsbereich kantonaler Kompetenzen findet seine Grenze in der Bundeskompetenz für auswärtige Angelegenheiten.
 
-**BGE 116 II 9** vom 15. Februar 1990  
-Völkerrechtliche Verträge haben Vorrang vor Landesrecht und fallen vollumfänglich unter die Bundeskompetenz nach Art. 54 BV, auch wenn sie materiell kantonale Zuständigkeitsbereiche betreffen.
-
-> «Soweit völkerrechtliche Verträge bestehen, richtet sich die Anerkennung und Vollstreckung ausländischer Urteile ausschliesslich nach diesen Staatsverträgen, die der Bundeskompetenz unterstehen.»
-
-### Auslieferungsrecht
-
-**BGE 117 Ib 210** vom 20. September 1991  
-Das Auslieferungsrecht fällt unter die Bundeskompetenz für auswärtige Angelegenheiten. Bei Auslieferungsentscheiden sind sowohl völkerrechtliche Verpflichtungen als auch verfassungsrechtliche Grundrechte zu beachten.
-
-> «Die Auslieferung gehört zu den auswärtigen Angelegenheiten im Sinne von Art. 54 BV. Der Bund hat dabei sowohl die Verpflichtungen aus Auslieferungsverträgen als auch die Grundrechte zu beachten.»
-
-### Diplomatische Beziehungen und Konsularwesen
-
-**BGE 110 Ia 7** vom 13. April 1984  
-Die Gestaltung der diplomatischen Beziehungen und des Konsularwesens gehört zum Kernbereich der auswärtigen Angelegenheiten nach Art. 54 BV.
-
-> «Die Führung diplomatischer und konsularischer Beziehungen sowie der Abschluss entsprechender Verträge sind ausschliesslich Bundessache gemäss Art. 54 BV.»
+> «Ein Kanton, der die öffentliche Reklame an Kinoleinwänden regelt, kann diese Regelung nicht auf Filme erstrecken, die ausschliesslich für das Ausland bestimmt sind, da dies in die Bundeskompetenz für auswärtige Angelegenheiten eingreifen würde.»

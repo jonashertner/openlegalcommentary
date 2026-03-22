@@ -2,60 +2,67 @@
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Art. 62 BV entspricht im Grundsatz den bisherigen Art. 27 und 27quater aBV, führt jedoch entscheidende Neuerungen ein. Die Totalrevision der Bundesverfassung bezweckte eine Stärkung der Bildungsverfassung und eine Verbesserung der interkantonalen Koordination im Schulwesen (BBl 1997 I 1, 286 ff.). Der Begriff «Grundschulunterricht» ersetzt den früheren Begriff «Primarunterricht», um klarzustellen, dass die gesamte obligatorische Schulzeit erfasst ist (BBl 1997 I 287).
+**N. 1** Art. 62 BV wurde im Rahmen der Totalrevision der Bundesverfassung von 1999 geschaffen. Die Bestimmung fasst die bisherigen Bildungsartikel (Art. 27 aBV) neu und enthält wichtige Neuerungen, insbesondere die explizite Verankerung der Sonderschulung (Abs. 3) und der subsidiären Bundeskompetenz zur Schulharmonisierung (Abs. 4). Die Botschaft über eine neue Bundesverfassung vom 20. November 1996 betont, dass die kantonale Schulhoheit als Grundprinzip beibehalten wird, während gleichzeitig die Notwendigkeit einer verstärkten interkantonalen Koordination anerkannt wird (BBl 1997 I 1, 277 ff.).
 
-**N. 2** Die Verankerung der Sonderschulung in Abs. 3 erfolgte auf Drängen der Behindertenverbände während der parlamentarischen Beratung (AB 1998 N 353 ff.; AB 1998 S 245). Mit der NFA-Reform wurde die bisherige IV-Finanzierung der Sonderschulung per 1. Januar 2008 aufgehoben und vollständig in die kantonale Kompetenz überführt (BBl 2005 6029, 6089 ff.).
-
-**N. 3** Die Harmonisierungskompetenz des Bundes in Abs. 4 stellt eine bedeutende Neuerung dar, die als Reaktion auf die mangelnde Koordination zwischen den Kantonen eingefügt wurde (BBl 1997 I 287). Diese subsidiäre Bundeskompetenz folgt dem Grundsatz des kooperativen Föderalismus und soll die Kantone zu verstärkter Zusammenarbeit motivieren (Hänni, BSK BV, Art. 62 N. 39 ff.).
+**N. 2** Die Bildungsartikel wurden 2006 durch die Volksabstimmung vom 21. Mai 2006 revidiert. Die neue Fassung von Art. 62 stärkt die Harmonisierungsbestrebungen und gibt dem Bund subsidiäre Kompetenzen, falls die Kantone keine ausreichende Koordination erreichen. Diese Revision erfolgte im Kontext des Projekts «Harmonisierung der obligatorischen Schule» (HarmoS), welches eine schweizweite Angleichung der kantonalen Schulsysteme anstrebt (BBl 2005 5479, 5508 ff.).
 
 ### 2. Systematische Einordnung
 
-**N. 4** Art. 62 BV steht im Abschnitt über «Bildung, Forschung und Kultur» und ist systematisch eng mit Art. 19 BV (Anspruch auf Grundschulunterricht) sowie Art. 61a BV (Bildungsraum Schweiz) verknüpft. Die Norm konkretisiert die kantonale Kompetenz im Schulwesen unter Vorbehalt der spezifischen Bundeskompetenzen (→ Art. 3 BV, → Art. 63-67 BV).
+**N. 3** Art. 62 BV steht im systematischen Zusammenhang mit dem Grundrecht auf unentgeltlichen Grundschulunterricht (→ Art. 19 BV) und bildet die organisationsrechtliche Grundlage für dessen Verwirklichung. Die Norm gehört zum 3. Abschnitt des 3. Kapitels (Bildung, Forschung und Kultur) und ist eng verbunden mit → Art. 61a BV (Bildungsraum Schweiz), → Art. 63 BV (Berufsbildung) und → Art. 63a BV (Hochschulen).
 
-**N. 5** Die Bildungsartikel bilden ein kohärentes System: Während Art. 19 BV den individuellen Grundrechtsanspruch gewährleistet, regelt Art. 62 BV die institutionellen und kompetenzrechtlichen Aspekte. Art. 61a BV formuliert übergreifende Qualitätsziele für den gesamten Bildungsraum Schweiz (↔ Art. 61a BV).
-
-**N. 6** Im Verhältnis zu den Sozialzielen (Art. 41 BV) geht Art. 62 BV als spezifischere Norm vor. Anders als die programmatischen Sozialziele begründen Art. 19 i.V.m. Art. 62 BV durchsetzbare Individualansprüche (Hänni, BSK BV, Art. 62 N. 14).
+**N. 4** Im föderalistischen Gefüge konkretisiert Art. 62 BV die grundsätzliche Kompetenzverteilung nach → Art. 3 BV, wonach die Kantone alle Aufgaben wahrnehmen, die nicht dem Bund übertragen sind. Die kantonale Schulhoheit wird durch die verfassungsrechtlichen Vorgaben (insbes. Abs. 2) und die subsidiäre Bundeskompetenz (Abs. 4) eingeschränkt. Bei der Sonderschulung (Abs. 3) besteht eine Verbindung zum Diskriminierungsverbot (→ Art. 8 Abs. 2 BV) und zur Rechtsgleichheit (→ Art. 8 Abs. 1 BV).
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** **Kantonale Schulhoheit (Abs. 1)**: Die primäre Zuständigkeit für das Schulwesen liegt bei den Kantonen. Diese umfassende Kompetenz erstreckt sich auf Organisation, Finanzierung, Aufsicht und inhaltliche Ausgestaltung des gesamten Schulwesens. Der Bund besitzt nur punktuelle, ausdrücklich zugewiesene Kompetenzen (Hänni, BSK BV, Art. 62 N. 11-13).
+**N. 5** **Kantonale Schulhoheit (Abs. 1)**: Die Zuständigkeit der Kantone für das Schulwesen umfasst gemäss Hänni (BSK BV, Art. 62 N. 11-13) die Gesetzgebung, Vollzug, Organisation und Finanzierung des gesamten Bildungswesens auf ihrem Gebiet. Diese umfassende Kompetenz erstreckt sich auf alle Schulstufen von der Grundschule bis zu den kantonalen Universitäten, soweit nicht spezifische Bundeskompetenzen bestehen.
 
-**N. 8** **Grundschulunterricht (Abs. 2)**: Der Begriff umfasst die gesamte obligatorische Schulzeit, nicht nur die Primarstufe. Die Kantone müssen einen «ausreichenden» Unterricht gewährleisten, der allen Kindern offensteht. «Ausreichend» bedeutet nach der Rechtsprechung, dass die Ausbildung genügen muss, um die Schüler auf ein selbstverantwortliches Leben im modernen Alltag vorzubereiten (**BGE 129 I 12** E. 3.2).
+**N. 6** **Grundschulunterricht (Abs. 2)**: Der Begriff «ausreichender Grundschulunterricht» verlangt gemäss bundesgerichtlicher Rechtsprechung ein angemessenes, erfahrungsgemäss ausreichendes Bildungsangebot (**BGE 138 I 162**). Die drei Kernelemente sind:
+- **Obligatorium**: Die Schulpflicht dauert mindestens neun Jahre und erfasst alle Kinder unabhängig von Nationalität oder Aufenthaltsstatus
+- **Staatliche Leitung oder Aufsicht**: Private Schulen und Homeschooling unterliegen der staatlichen Kontrolle
+- **Unentgeltlichkeit**: An öffentlichen Schulen müssen alle notwendigen und unmittelbar dem Unterrichtszweck dienenden Mittel kostenlos zur Verfügung gestellt werden (**BGE 144 I 1**)
 
-**N. 9** **Obligatorium und staatliche Aufsicht**: Der Grundschulunterricht ist zwingend obligatorisch. Privatunterricht ist zulässig, untersteht aber der staatlichen Aufsicht. Die Kantone können Homeschooling erlauben oder verbieten (**BGE 146 I 20**).
+**N. 7** **Sonderschulung (Abs. 3)**: Die «ausreichende Sonderschulung» für behinderte Kinder und Jugendliche stellt eine verfassungsrechtliche Innovation dar. Hänni (BSK BV, Art. 62 N. 34-38) betont den weiten kantonalen Gestaltungsspielraum bei der konkreten Ausgestaltung. Die Altersgrenze «bis längstens zum vollendeten 20. Altersjahr» ist absolut und erlaubt keine Ausnahmen.
 
-**N. 10** **Unentgeltlichkeit**: An öffentlichen Schulen muss der Grundschulunterricht vollständig unentgeltlich sein. Dies umfasst alle notwendigen und unmittelbar dem Unterrichtszweck dienenden Mittel (**BGE 144 I 1**). Die Unentgeltlichkeit gilt jedoch nicht für die nachobligatorischen Bildungsstufen (**BGE 133 I 156**).
+**N. 8** **Schulharmonisierung (Abs. 4)**: Die subsidiäre Bundeskompetenz greift nur, wenn die interkantonale Koordination scheitert. Die Harmonisierungsbereiche sind abschliessend aufgezählt:
+- Schuleintrittsalter und Schulpflicht
+- Dauer und Ziele der Bildungsstufen
+- Übergänge zwischen den Stufen
+- Anerkennung von Abschlüssen
 
-**N. 11** **Sonderschulung (Abs. 3)**: Die Kantone müssen eine ausreichende Sonderschulung für alle behinderten Kinder und Jugendlichen bis zum vollendeten 20. Altersjahr gewährleisten. Der Normcharakter dieser Bestimmung ist umstritten: Skeptische Stimmen sehen darin lediglich einen Verfassungsauftrag ohne einklagbaren Individualanspruch (Hänni, BSK BV, Art. 62 N. 70). Andere Lehrmeinungen bejahen einen unmittelbar durchsetzbaren Rechtsanspruch auf ausreichende Sonderschulung (Hänni, BSK BV, Art. 62 N. 70).
-
-**N. 12** **Harmonisierungskompetenz (Abs. 4)**: Die subsidiäre Bundeskompetenz greift, wenn die Kantone keine ausreichende Harmonisierung in den genannten Bereichen erreichen. Erfasst sind: Schuleintrittsalter, Schulpflicht, Dauer und Ziele der Bildungsstufen, Übergänge, Anerkennung von Abschlüssen. Die Qualifikation dieser Kompetenz ist strittig: Ehrenzeller/Schott betonen den subsidiären Charakter und die primäre Verantwortung der Kantone (Hänni, BSK BV, Art. 62 N. 86). Biaggini qualifiziert sie als bedingt konkurrierende Bundeskompetenz (Hänni, BSK BV, Art. 62 N. 86).
-
-**N. 13** **Schuljahresbeginn (Abs. 5)**: Der Bund besitzt die ausschliessliche Kompetenz zur Regelung des Schuljahresbeginns. Diese Bestimmung bezweckt eine schweizweite Vereinheitlichung zur Erleichterung der Mobilität (Hänni, BSK BV, Art. 62 N. 51).
+Biaggini qualifiziert diese Kompetenz als «bedingt konkurrierend» (BSK BV, Art. 62 N. 86), während Ehrenzeller/Schott die primäre Verantwortung bei den Kantonen sehen und die Bundeskompetenz als subsidiär einstufen (BSK BV, Art. 62 N. 86).
 
 ### 4. Rechtsfolgen
 
-**N. 14** Die kantonale Schulhoheit verpflichtet die Kantone zur Bereitstellung eines funktionsfähigen Schulsystems. Sie müssen die notwendigen rechtlichen, organisatorischen und finanziellen Rahmenbedingungen schaffen. Bei Verletzung dieser Pflichten können Betroffene ihre Ansprüche aus Art. 19 BV geltend machen.
+**N. 9** **Aus Abs. 1** folgt die umfassende Regelungsbefugnis der Kantone im Schulwesen. Diese umfasst die Befugnis zur Gesetzgebung, zur Organisation der Schulverwaltung, zur Festlegung der Lehrpläne und zur Anstellung der Lehrpersonen. Die Kantone können ihre Kompetenzen an die Gemeinden delegieren.
 
-**N. 15** Die Unentgeltlichkeitspflicht verbietet jegliche Kostenbeteiligung für den obligatorischen Unterricht an öffentlichen Schulen. Dies schliesst Schulgeld, obligatorische Lehrmittel, notwendige Exkursionen und Schullager ein (**BGE 144 I 1**). Zulässig bleiben Gebühren für fakultative Angebote und Verpflegungskosten.
+**N. 10** **Aus Abs. 2** ergeben sich zwingende Vorgaben für die kantonale Schulgesetzgebung:
+- Pflicht zur Bereitstellung eines flächendeckenden Grundschulangebots
+- Verbot von Schulgeldern an öffentlichen Schulen
+- Durchsetzung der Schulpflicht mit geeigneten Mitteln
+- Aufsichtspflicht über private Bildungsangebote
 
-**N. 16** Im Bereich der Sonderschulung müssen die Kantone adäquate Förderangebote bereitstellen. Die Integration in die Regelschule hat Vorrang vor separativen Lösungen, soweit dies dem Kindeswohl entspricht (**BGE 138 I 162**). Die Kostentragung erfolgt unabhängig vom gewählten Förderort durch den Wohnkanton.
+**N. 11** **Aus Abs. 3** folgt gemäss der herrschenden Lehre ein objektiv-rechtlicher Verfassungsauftrag an die Kantone. Ob daraus auch ein subjektives Recht des einzelnen Kindes abgeleitet werden kann, ist umstritten (siehe N. 15).
 
-**N. 17** Bei mangelnder Harmonisierung kann der Bund gestützt auf Abs. 4 verbindliche Mindeststandards erlassen. Diese Kompetenz wurde bislang nicht ausgeübt, da die Kantone mit dem HarmoS-Konkordat die wesentlichen Harmonisierungsziele erreicht haben.
+**N. 12** **Aus Abs. 4** ergibt sich eine potentielle Gesetzgebungskompetenz des Bundes, die jedoch nur unter der Bedingung des Scheiterns der interkantonalen Koordination aktiviert wird. Der Bund muss den Kantonen eine angemessene Frist zur eigenständigen Harmonisierung einräumen.
 
 ### 5. Streitstände
 
-**N. 18** **Reichweite der Sonderschulungspflicht**: Die Lehre ist uneinig über den Normcharakter von Abs. 3. Eine erste Meinung verneint einen justiziablen Individualanspruch und sieht lediglich einen programmatischen Verfassungsauftrag (Hänni, BSK BV, Art. 62 N. 70; Plotke, Schweizerisches Schulrecht, 2003, 186). Die Gegenmeinung bejaht einen durchsetzbaren Anspruch auf angemessene Sonderschulung analog zu Art. 19 BV (Wyttenbach/Kälin, AJP 2005, 729; Schefer, in: Ehrenzeller et al., St. Galler Kommentar, Art. 62 N. 38).
+**N. 13** **Rechtsnatur des Grundschulunterrichts**: Während die traditionelle Lehre (Plotke, Schweizerisches Schulrecht, 2003, S. 45 ff.) den Grundschulunterricht primär als staatliche Leistung versteht, betonen neuere Stimmen (Wyttenbach/Kälin, AJP 2005, 1267) den grundrechtlichen Charakter des Anspruchs aus Art. 19 i.V.m. Art. 62 Abs. 2 BV. Das Bundesgericht folgt einem vermittelnden Ansatz und anerkennt sowohl die Leistungs- als auch die Abwehrdimension (**BGE 129 I 12**).
 
-**N. 19** **Natur der Harmonisierungskompetenz**: Ehrenzeller/Schott qualifizieren die Bundeskompetenz nach Abs. 4 als rein subsidiär und betonen die primäre kantonale Verantwortung für erfolgreiche Koordination (Hänni, BSK BV, Art. 62 N. 86). Biaggini sieht darin eine bedingt konkurrierende Kompetenz, die dem Bund bei Vorliegen der Voraussetzungen ein eigenständiges Regelungsrecht verleiht (Hänni, BSK BV, Art. 62 N. 86; Biaggini, BV-Kommentar, 2. Aufl. 2017, Art. 62 N. 12).
+**N. 14** **Umfang der Unentgeltlichkeit**: Mascello (Elternrecht und Privatschulfreiheit, 1995, S. 89 ff.) vertritt eine enge Auslegung, die nur die unmittelbaren Unterrichtskosten erfasst. Richli (ZBl 1995, 481) plädiert für eine weite Interpretation, die alle bildungsrelevanten Aufwendungen einschliesst. Das Bundesgericht hat sich in **BGE 144 I 1** für eine mittlere Linie entschieden: Erfasst sind alle notwendigen und unmittelbar dem Unterrichtszweck dienenden Mittel.
 
-**N. 20** **Umfang der Unentgeltlichkeit**: Strittig ist, welche Leistungen von der Unentgeltlichkeitspflicht erfasst sind. Die herrschende Lehre und Rechtsprechung ziehen eine enge Grenze bei unmittelbar unterrichtsbezogenen Kosten (**BGE 144 I 1**). Einzelne Autoren fordern eine extensivere Auslegung unter Einbezug von Betreuungsangeboten und ergänzenden Förderungen (Plotke, ZBl 2005, 456; Reich/Bauer, Kommentar zum Aargauer Schulgesetz, 2011, § 6 N. 7).
+**N. 15** **Normcharakter von Art. 62 Abs. 3**: Ein bedeutender Streitstand besteht bezüglich der Rechtsnatur der Sonderschulungspflicht. Skeptische Stimmen in der Lehre (BSK BV, Art. 62 N. 70) sehen in Abs. 3 lediglich einen Verfassungsauftrag ohne einklagbaren Individualanspruch. Andere Lehrmeinungen (BSK BV, Art. 62 N. 70; Kälin/Künzli, in Wyttenbach/Kälin, AJP 2005, 1278) bejahen einen unmittelbar durchsetzbaren Rechtsanspruch des behinderten Kindes. Das Bundesgericht tendiert zur Anerkennung eines justiziablen Anspruchs, betont aber den weiten kantonalen Gestaltungsspielraum (**BGE 138 I 162**).
+
+**N. 16** **Verhältnis Bund-Kantone bei der Harmonisierung**: Ehrenzeller/Schott (BSK BV, Art. 62 N. 86) betonen die primäre kantonale Verantwortung und sehen die Bundeskompetenz als ultima ratio. Biaggini (BSK BV, Art. 62 N. 86) qualifiziert die Kompetenz als «bedingt konkurrierend» und räumt dem Bund grösseren Spielraum ein. Die Praxis zeigt, dass der Bund bisher zurückhaltend agiert und primär auf die interkantonale Zusammenarbeit (HarmoS-Konkordat) setzt.
 
 ### 6. Praxishinweise
 
-**N. 21** Bei der Ausgestaltung des kantonalen Schulrechts ist die Koordination mit anderen Kantonen zwingend zu beachten. Das HarmoS-Konkordat und regionale Schulabkommen setzen verbindliche Standards, deren Nichteinhaltung die subsidiäre Bundeskompetenz auslösen kann.
+**N. 17** **Schulpflicht und Homeschooling**: Die Kantone haben unterschiedliche Regelungen zum häuslichen Privatunterricht. Während einige Kantone (z.B. Waadt, Jura) Homeschooling unter Auflagen zulassen, kennen andere (z.B. beider Basel) ein faktisches Verbot. Eltern müssen die kantonalen Bewilligungsverfahren beachten und mit regelmässigen Kontrollen rechnen. Das Bundesgericht hat klargestellt, dass kein verfassungsrechtlicher Anspruch auf Homeschooling besteht (**BGE 146 I 20**).
 
-**N. 22** Schulbehörden müssen bei Sonderschulungsentscheiden das Verhältnismässigkeitsprinzip strikt beachten. Die Praxis zeigt, dass integrative Lösungen oft mit Zusatzaufwand verbunden sind, der jedoch von den Kantonen zu tragen ist. Eine Verweigerung aus rein finanziellen Gründen ist unzulässig.
+**N. 18** **Religionsbedingte Dispensationen**: Gesuche um Befreiung vom Unterricht aus religiösen Gründen unterliegen einer strengen Verhältnismässigkeitsprüfung. Während bei einzelnen Anlässen (z.B. Schulweihnachtsfeier) Dispensationen möglich sind, werden sie bei regulären Unterrichtsfächern nur ausnahmsweise gewährt. Der Schwimmunterricht ist gemäss **BGE 135 I 79** auch für muslimische Kinder obligatorisch, wobei flankierende Massnahmen (Burkini, nach Geschlechtern getrennter Unterricht) anzubieten sind.
 
-**N. 23** Im Bereich der Glaubens- und Gewissensfreiheit (→ Art. 15 BV) sind flexible Lösungen gefragt. Dispensationen vom Unterricht sind restriktiv zu handhaben, flankierende Massnahmen können jedoch Grundrechtskonflikte entschärfen (**BGE 135 I 79**).
+**N. 19** **Sonderschulungsverfahren**: Bei der Abklärung des Sonderschulungsbedarfs ist ein standardisiertes Abklärungsverfahren (SAV) durchzuführen. Die Eltern haben Anspruch auf Einbezug und rechtliches Gehör (→ Art. 29 BV). Gegen Verfügungen über Sonderschulungsmassnahmen steht der Rechtsweg offen. Die Kostentragung richtet sich nach kantonalem Recht, wobei die Unentgeltlichkeit gemäss **BGE 141 I 9** auch integrative Sonderschulungsmassnahmen umfasst.
 
-**N. 24** Die Unentgeltlichkeitspflicht erfordert eine sorgfältige Abgrenzung zwischen obligatorischen und fakultativen Schulangeboten. Kostenerhebungen müssen auf einer klaren gesetzlichen Grundlage beruhen und dürfen den Zugang zur Grundbildung nicht beeinträchtigen. Bei Unsicherheiten empfiehlt sich eine grosszügige Auslegung zugunsten der Unentgeltlichkeit.
+**N. 20** **Interkantonale Schulbesuche**: Für den Besuch einer Schule ausserhalb des Wohnkantons ist grundsätzlich eine Bewilligung erforderlich. Die Kostenübernahme richtet sich nach den interkantonalen Vereinbarungen (Regionales Schulabkommen RSA). Bei Sonderschulen gelten die Regelungen der Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE). Ohne Kostengutsprache müssen die Eltern das Schulgeld selbst tragen.
+
+**N. 21** **Durchsetzung der Harmonisierung**: Das HarmoS-Konkordat ist nicht in allen Kantonen in Kraft. Bei Wohnsitzwechsel zwischen Kantonen mit unterschiedlichen Schulsystemen können Übergangsprobleme entstehen. Die Bildungsdirektorenkonferenz (EDK) bietet Informationen zu den kantonalen Unterschieden. Eine direkte Berufung auf Art. 62 Abs. 4 BV durch Private ist nicht möglich, da die Norm sich an den Bundesgesetzgeber richtet.

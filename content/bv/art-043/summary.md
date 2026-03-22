@@ -2,16 +2,12 @@
 
 ## Übersicht
 
-Art. 43 BV regelt die kantonale Aufgabenautonomie. Die Bestimmung gibt den Kantonen das Recht, selbst zu entscheiden, welche Aufgaben sie in ihrem Zuständigkeitsbereich erfüllen wollen. Diese Aufgabenautonomie ist ein zentraler Baustein des schweizerischen Föderalismus und ergänzt Art. 3 BV (Souveränität der Kantone).
+Art. 43 BV regelt die kantonale Aufgabenautonomie (Selbstbestimmung bei Staatsaufgaben). Die Kantone können grundsätzlich frei entscheiden, welche öffentlichen Aufgaben sie übernehmen und wie sie diese organisieren. Diese Autonomie besteht jedoch nur im Rahmen ihrer verfassungsrechtlichen Zuständigkeiten. Die rechtliche Bedeutung und praktische Tragweite der Bestimmung sind bescheiden (Biaggini, BSK BV, Art. 43 N. 1).
 
-Die kantonale Aufgabenautonomie umfasst zwei Bereiche: Erstens können die Kantone entscheiden, ob sie eine Aufgabe überhaupt wahrnehmen. Zweitens bestimmen sie, wie sie eine Aufgabe organisieren und durchführen. Nach Biaggini (BSK BV, Art. 43 N. 12) unterscheidet das Recht zwischen «Zuständigkeiten» (Befugnisse) und «Aufgaben» (konkrete Tätigkeiten). Die Kantone haben nur dort Gestaltungsfreiheit, wo der Bund ihre Kompetenzen nicht einschränkt.
+Betroffen sind alle 26 Kantone als Gliedstaaten der Schweiz. Gemeinden können sich nicht direkt auf diese Norm berufen. Die Aufgabenautonomie umfasst drei Bereiche: die Entscheidung, ob eine Aufgabe überhaupt wahrgenommen wird, die Wahl der Mittel zur Aufgabenerfüllung und die organisatorische Gestaltung.
 
-Diese Autonomie ist nicht grenzenlos. Sie gilt nur «im Rahmen ihrer Zuständigkeiten», wie das Bundesgericht in BGE 122 I 70 festhielt: Die Kantone sind souverän, soweit ihre Souveränität nicht durch die Bundesverfassung beschränkt ist. Bundesrecht geht vor kantonalem Recht. Auch Grundrechte und Völkerrecht setzen den Kantonen Grenzen.
+Die wichtigste Einschränkung liegt in der Formulierung «im Rahmen ihrer Zuständigkeiten». Der Wortlaut ist unpräzis, da er eine weitreichende Freiheit suggeriert, die tatsächlich nicht besteht (Biaggini, BSK BV, Art. 43 N. 18). Bundesgesetze können die kantonale Autonomie stark einschränken, indem sie bestimmte Aufgaben vorschreiben, Mindeststandards festlegen oder Organisationsvorgaben machen.
 
-Ein Beispiel zeigt die praktische Bedeutung: Der Kanton Obwalden führte degressive Steuertarife (niedrigere Steuersätze für höhere Einkommen) ein. Das Bundesgericht prüfte in BGE 133 I 206, ob dies mit der Rechtsgleichheit vereinbar ist. Hier nutzte der Kanton seine Steuerhoheit, musste aber die verfassungsrechtlichen Schranken beachten.
+**Beispiel**: Ein Kanton kann entscheiden, ob er ein eigenes Kulturförderungsgesetz erlässt (Aufgabenautonomie). Er kann jedoch nicht frei über Strafverfahren bestimmen, da die Strafprozessordnung Bundessache ist. Bei der Raumplanung muss er zwar eine kantonale Behörde für Baubewilligungen ausserhalb der Bauzone bezeichnen (**BGE 128 I 254**), kann aber die interne Organisation dieser Behörde selbst festlegen.
 
-Die Kantone können ihre Aufgaben auch gemeinsam erfüllen. BGE 141 II 262 bestätigte, dass sie Aufgaben an interkantonale Organisationen delegieren dürfen. Dies zeigt sich etwa bei der gemeinsamen Lotterie- und Wettaufsicht durch mehrere Kantone.
-
-Die Bestimmung schützt die föderalistische Vielfalt: Verschiedene Kantone können für gleiche Probleme unterschiedliche Lösungen wählen, solange kein zwingendes Bundesrecht existiert. Dies ermöglicht kantonale Experimente und regionale Anpassungen an lokale Bedürfnisse.
-
-Verletzungen der Aufgabenautonomie können die Kantone beim Bundesgericht mit Beschwerde in öffentlich-rechtlichen Angelegenheiten rügen (Art. 82 lit. b BGG). Die praktische Bedeutung von Art. 43 BV wird jedoch kontrovers diskutiert: Während Biaggini (BSK BV, Art. 43 N. 1) sie als bescheiden erachtet, betonen andere Autoren wie Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, § 1024) ihre Rolle für das Subsidiaritätsprinzip.
+Art. 43 BV ergänzt Art. 42 BV (Bundesaufgaben) und konkretisiert das Föderalismusprinzip von Art. 3 BV. Während Art. 42 BV den Verfassungsvorbehalt für Bundeskompetenzen betont, bestätigt Art. 43 BV die kantonale Aufgabenautonomie (Biaggini, BSK BV, Art. 43 N. 11).

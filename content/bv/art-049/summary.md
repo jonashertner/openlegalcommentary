@@ -1,11 +1,15 @@
-# Übersicht
+# Art. 49 — Vorrang und Einhaltung des Bundesrechts
 
-Art. 49 BV regelt das Verhältnis zwischen Bundes- und kantonalem Recht. Er besagt, dass Bundesrecht vor entgegenstehendem kantonalem Recht vorgeht (Absatz 1). Zusätzlich überwacht der Bund, ob die Kantone das Bundesrecht einhalten (Absatz 2).
+## Übersicht
 
-**Wer ist betroffen?** Die Norm gilt für alle staatlichen Behörden. Kantone müssen ihre Gesetze und Verordnungen so erlassen, dass sie dem Bundesrecht nicht widersprechen. Gerichte müssen bei Konflikten zwischen Bundes- und kantonalem Recht das Bundesrecht anwenden. Private Personen können sich vor Gericht darauf berufen, dass kantonale Regeln bundesrechtswidrig sind.
+Art. 49 BV regelt zwei zentrale Grundsätze des schweizerischen Bundesstaats: den Vorrang des Bundesrechts und die Bundesaufsicht.
 
-**Was sind die Rechtsfolgen?** Widerspricht eine kantonale Regel dem Bundesrecht, so ist sie ungültig (BGE 144 I 113 E. 3.1). Das Bundesgericht kann solche Regeln aufheben. In abschliessend geregelten Bereichen dürfen Kantone überhaupt keine eigenen Regeln erlassen. In anderen Bereichen sind kantonale Regeln erlaubt, wenn sie nicht gegen Sinn und Geist des Bundesrechts verstossen (Waldmann, BSK BV, Art. 49 N. 18).
+**Absatz 1** legt fest, dass Bundesrecht vor kantonalem Recht geht, wenn beide sich widersprechen. Dies bedeutet: Wenn der Bund und ein Kanton unterschiedliche Regeln für dasselbe Problem haben, gilt die Regel des Bundes. Das kantonale Recht wird dann ungültig (nichtig). Die herrschende Auffassung betrachtet solches kantonales Recht als ungültig, doch die neuere Lehre kritisiert diese pauschale Nichtigkeitsfolge und fordert differenzierte Rechtsfolgen je nach Situation (Waldmann, BSK BV, Art. 49 N. 24). Das Bundesgericht hat klargestellt, dass kantonales Recht nicht nur bei direktem Widerspruch problematisch ist, sondern auch dann, wenn es «gegen Sinn und Geist des Bundesrechts» verstösst (**BGE 144 I 113**).
 
-Der Bund kann verschiedene Mittel einsetzen, um die Einhaltung des Bundesrechts zu überwachen: Aufsichtsbeschwerden, gerichtliche Überprüfung oder in schweren Fällen sogar Bundesintervention (Waldmann, BSK BV, Art. 49 N. 35-45). Die Rechtsprechung zeigt eine konstante Anwendung dieses Vorrangprinzips bei gleichzeitiger Anerkennung kantonaler Gestaltungsräume (BGE 127 I 60 E. 2b; BGE 129 I 346 E. 3).
+**Absatz 2** verpflichtet den Bund zur Überwachung: Er muss darauf achten, dass die Kantone das Bundesrecht einhalten. Diese Bundesaufsicht umfasst verschiedene Instrumente — von der Genehmigung kantonaler Erlasse bis zur Behördenbeschwerde des Bundes (**BGE 148 II 369**).
 
-**Konkretes Beispiel:** Ein Kanton erlässt ein Gesetz, das Lehrpersonen nur 10 Wochen Mutterschaftsurlaub gewährt. Das Bundesrecht (Erwerbsersatzgesetz) garantiert aber 14 Wochen. Das kantonale Gesetz ist bundesrechtswidrig und ungültig. Die betroffene Lehrperson kann sich vor Gericht auf das Bundesrecht berufen und 14 Wochen Urlaub verlangen (ähnlich BGE 144 I 113 E. 4.2).
+**Beispiel**: Ein Kanton erlässt ein Gesetz, das das Rauchen in Restaurants generell verbietet, obwohl das Bundesgesetz zum Schutz vor Passivrauchen Raucherräume erlaubt. Hier geht das Bundesrecht vor — es sei denn, das kantonale Gesetz ist als strengere Vorschrift «zum Schutz der Gesundheit» zulässig (**BGE 139 I 242**).
+
+**Betroffene**: Alle Behörden (Bund, Kantone, Gemeinden), Gerichte und letztlich alle Bürger, da Art. 49 BV die einheitliche Anwendung des Bundesrechts in der ganzen Schweiz sicherstellt.
+
+**Rechtsfolgen**: Widerspricht kantonales Recht dem Bundesrecht, können Betroffene dies vor Gericht rügen. Das Bundesgericht kann kantonale Gesetze direkt aufheben, wenn sie bundesrechtswidrig sind (abstrakte Normenkontrolle nach Art. 82 lit. b BGG). Bei der Rechtsanwendung geht Bundesrecht automatisch vor.

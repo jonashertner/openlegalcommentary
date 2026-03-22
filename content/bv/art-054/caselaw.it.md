@@ -1,69 +1,51 @@
 ## Giurisprudenza
 
-### Competenza federale per gli affari esteri
+### Nozione di affari esteri
 
-**BGE 145 II 339** del 3 luglio 2019  
-Competenza federale per la conclusione di accordi sulla doppia imposizione e la loro attuazione. L'imputazione forfettaria dell'imposta secondo la legge federale sull'attuazione di accordi internazionali per evitare la doppia imposizione rientra completamente nella competenza federale per gli affari esteri.
+**DTF 137 I 371 consid. 1.2** del 22 novembre 2011  
+L'intervento della Svizzera presso la Banca dei Regolamenti Internazionali rientra negli affari esteri. Significato giuridico per la delimitazione della competenza federale secondo l'art. 54 cpv. 1 Cost.
 
-> «Gli affari esteri secondo l'art. 54 cpv. 1 Cost. sono di competenza della Confederazione. Vi rientrano in particolare la conclusione di trattati di diritto internazionale, la loro attuazione e la configurazione della politica estera.»
+> «Le concept des 'autres affaires relevant des relations extérieures' mentionné à l'art. 83 let. a LTF doit recevoir une interprétation restrictive. L'exception vise les 'actes de gouvernement' classiques. Elle s'applique aux actes ayant un caractère politique prépondérant, le gouvernement et l'administration jouissant d'une marge d'appréciation considérable.»
 
-**BGE 147 I 308** del 1º aprile 2021  
-I trattati di diritto internazionale come la Convenzione di Granada rientrano nella competenza federale per gli affari esteri. Nell'attuazione degli obblighi di diritto internazionale vanno rispettate le competenze cantonali.
+**DTF 130 III 430 consid. 3.3** dell'8 aprile 2004  
+L'immunità diplomatica rientra nella competenza federale esclusiva. Le decisioni del DFAE sullo statuto diplomatico vincolano i tribunali civili in quanto atti autoritativi nel campo degli affari esteri.
 
-> «L'art. 54 cpv. 1 Cost. attribuisce gli affari esteri in modo comprensivo alla Confederazione. I trattati di diritto internazionale rientrano in questa competenza, anche se toccano ambiti che sono fondamentalmente di competenza cantonale.»
+> «Bei einer Verfügung des EDA über den diplomatischen Status einer Person handelt es sich um einen hoheitlichen Akt auf dem Gebiet der auswärtigen Angelegenheiten. Die Zivilgerichte sind daran grundsätzlich gebunden.»
 
-### Tutela degli interessi cantonali
+### Trattati internazionali e interessi cantonali
 
-**BGE 145 II 339** del 3 luglio 2019  
-L'art. 54 cpv. 3 Cost. obbliga la Confederazione, nella configurazione degli accordi fiscali e nella loro attuazione, a rispettare le competenze dei Cantoni e a tutelare i loro interessi.
+**DTF 132 II 65 consid. 2.2** del 22 novembre 2005  
+I trattati bilaterali di domicilio fondano diritti per gli stranieri domiciliati. La competenza federale secondo l'art. 54 cpv. 1 Cost. comprende anche l'attuazione degli obblighi di diritto internazionale nel diritto degli stranieri.
 
-> «La Confederazione tiene conto secondo l'art. 54 cpv. 3 Cost. delle competenze dei Cantoni e tutela i loro interessi. Ciò non significa che gli interessi cantonali siano sempre prioritari, ma che devono essere adeguatamente considerati.»
+> «Die Beschwerdeführer berufen sich auf einen zwischen Russland und der Schweiz am 26./14. Dezember 1872 abgeschlossenen Niederlassungs- und Handelsvertrag. Dieser enthält in seinem Art. 1 folgende Regelung: 'Zwischen der schweizerischen Eidgenossenschaft und dem russischen Kaiserreich soll gegenseitig das Recht der freien Niederlassung bestehen.'»
 
-### Solidarietà internazionale e obiettivi statali
+### Rapporto con i diritti fondamentali
 
-**BGE 134 I 23** del 15 gennaio 2008  
-L'art. 54 cpv. 2 Cost. contiene obiettivi statali programmatici che vanno considerati nella configurazione della politica estera. La promozione dei diritti umani fa parte dei mandati costituzionali della Confederazione.
+**DTF 119 II 264 consid. 4** del 1° gennaio 1993  
+Il riconoscimento di matrimoni stranieri appartiene agli affari esteri. Il mancato riconoscimento di matrimoni tra persone dello stesso sesso non viola né l'art. 54 Cost. (versione precedente) né l'art. 12 CEDU.
 
-> «L'art. 54 cpv. 2 Cost. obbliga la Confederazione a impegnarsi per il rispetto dei diritti umani e per la promozione della democrazia. Questa disposizione contiene obiettivi programmatici della politica estera.»
+> «Der Beschwerdeführer rügt des weitern eine Verletzung von Art. 54 BV und Art. 12 EMRK. Diese Rüge läuft darauf hinaus, aus diesen Bestimmungen einen Anspruch auf Anerkennung der in Dänemark geschlossenen Ehe herzuleiten. Ein solcher Anspruch besteht indessen nicht.»
 
-### Ricorso costituzionale contro leggi federali
+**DTF 100 IV 244 consid. 2** del 1° gennaio 1974  
+L'espulsione di coniugi stranieri tocca la competenza federale per gli affari esteri. Il Tribunale federale non può esaminare se le disposizioni di polizia degli stranieri violino il diritto matrimoniale costituzionale.
 
-**BGE 100 IV 244** del 28 novembre 1974  
-Il Tribunale federale non può verificare se una legge federale sia compatibile con l'art. 54 Cost. Le leggi federali contrarie alla Costituzione vanno comunque applicate secondo l'art. 190 Cost.
+> «Das Bundesgericht kann nicht prüfen, ob diese Bestimmung vor dem das Recht zur Ehe gewährleistenden Art. 54 BV standhält (Art. 113 Abs. 3 BV).»
 
-> «Il Tribunale federale non può verificare se questa disposizione resista di fronte all'art. 54 Cost. che garantisce il diritto al matrimonio (art. 113 cpv. 3 Cost.).»
+### Giustiziabilità di atti di politica estera
 
-### Riconoscimento di atti giuridici stranieri
+**DTF 130 III 430 consid. 3.4** dell'8 aprile 2004  
+La revoca dell'immunità diplomatica è un atto discrezionale di politica estera. Il DFAE decide sull'applicazione delle disposizioni di immunità di diritto internazionale sulla base dell'art. 54 cpv. 1 Cost.
 
-**BGE 119 II 264** del 3 marzo 1993  
-Il riconoscimento di matrimoni celebrati all'estero sottostà alla competenza federale per gli affari esteri. Le riserve di ordine pubblico sono compatibili con l'art. 54 Cost.
+> «Im bilateralen Verhältnis kann der Empfangsstaat dem Entsendestaat jederzeit und ohne Angabe von Gründen notifizieren, dass der Missionschef oder ein Mitglied des diplomatischen Personals der Mission persona non grata oder dass ein anderes Mitglied des Personals der Mission ihm nicht genehm ist.»
 
-> «Il mancato riconoscimento di un matrimonio concluso all'estero tra persone dello stesso sesso non viola né l'art. 54 Cost. né la CEDU, poiché contrasta con l'ordine pubblico svizzero.»
+### Competenze cantonali e diritto federale
 
-### Cooperazione internazionale
+**DTF 110 V 65 consid. 3** del 25 maggio 1984  
+La matricola consolare per gli Svizzeri all'estero è un affare estero della Confederazione. I Cantoni non possono richiederla come presupposto per le prestazioni di assicurazioni sociali.
 
-**BGE 118 V 129** del 28 luglio 1992  
-L'attuazione di accordi internazionali della sicurezza sociale rientra nell'art. 54 Cost. Nel coordinamento con i sistemi di sicurezza sociale stranieri vanno rispettati gli obblighi di diritto internazionale.
+> «Die Möglichkeit, der freiwilligen Versicherung für Auslandschweizer beizutreten, darf nicht vom Eintrag in der Konsularmatrikel abhängig gemacht werden, da dies die Bundeskompetenz für auswärtige Angelegenheiten verletzen würde.»
 
-> «Il coordinamento delle assicurazioni sociali con l'estero è parte degli affari esteri nel senso dell'art. 54 Cost. ed è quindi di competenza federale.»
+**DTF 87 I 451 consid. 5** del 1° gennaio 1961  
+Le prescrizioni cantonali di polizia del commercio non possono estendersi all'estero. L'ambito di validità territoriale delle competenze cantonali trova il suo limite nella competenza federale per gli affari esteri.
 
-### Delimitazione delle competenze nei trattati di diritto internazionale
-
-**BGE 116 II 9** del 15 febbraio 1990  
-I trattati di diritto internazionale hanno la precedenza sul diritto nazionale e rientrano completamente nella competenza federale secondo l'art. 54 Cost., anche se toccano materialmente ambiti di competenza cantonale.
-
-> «Nella misura in cui esistono trattati di diritto internazionale, il riconoscimento e l'esecuzione di sentenze straniere si regge esclusivamente su questi trattati internazionali, che sottostanno alla competenza federale.»
-
-### Diritto di estradizione
-
-**BGE 117 Ib 210** del 20 settembre 1991  
-Il diritto di estradizione rientra nella competenza federale per gli affari esteri. Nelle decisioni di estradizione vanno rispettati sia gli obblighi di diritto internazionale sia i diritti fondamentali costituzionali.
-
-> «L'estradizione appartiene agli affari esteri nel senso dell'art. 54 Cost. La Confederazione deve rispettare sia gli obblighi derivanti dai trattati di estradizione sia i diritti fondamentali.»
-
-### Relazioni diplomatiche e sistema consolare
-
-**BGE 110 Ia 7** del 13 aprile 1984  
-La configurazione delle relazioni diplomatiche e del sistema consolare appartiene al nucleo degli affari esteri secondo l'art. 54 Cost.
-
-> «La conduzione di relazioni diplomatiche e consolari nonché la conclusione di relativi trattati sono esclusivamente di competenza federale secondo l'art. 54 Cost.»
+> «Ein Kanton, der die öffentliche Reklame an Kinoleinwänden regelt, kann diese Regelung nicht auf Filme erstrecken, die ausschliesslich für das Ausland bestimmt sind, da dies in die Bundeskompetenz für auswärtige Angelegenheiten eingreifen würde.»

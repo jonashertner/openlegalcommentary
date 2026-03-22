@@ -1,63 +1,71 @@
 ## Giurisprudenza
 
-### Ripartizione delle competenze e configurazione delle procedure elettorali
+La giurisprudenza relativa all'art. 39 Cost. è stata sviluppata principalmente nel contesto dell'uguaglianza del diritto di voto e dell'autonomia organizzativa cantonale. Il Tribunale federale ha interpretato la disposizione principalmente in relazione all'art. 34 Cost. (diritti politici).
 
-**DTF 131 I 74** — 27.10.2004
-Circoscrizione elettorale per le elezioni parlamentari cantonali nel sistema proporzionale
+### Autonomia organizzativa cantonale e procedure elettorali
 
-Il Tribunale federale ha precisato i requisiti di diritto federale per le procedure elettorali cantonali. L'art. 39 cpv. 1 Cost. obbliga i Cantoni soltanto ad assicurare l'esercizio dei diritti politici secondo forme repubblicane. Questi requisiti costituzionali sono soddisfatti in linea di principio tanto dalla procedura maggioritaria quanto da quella proporzionale.
+**BGE 131 I 74 E. 3.2 (2004)**
 
-> «I Cantoni sono largamente liberi nella configurazione del loro sistema politico. L'art. 39 cpv. 1 Cost. li obbliga soltanto ad assicurare l'esercizio dei diritti politici secondo forme repubblicane (rappresentative o democratiche).»
+27 ottobre 2004
 
-**DTF 139 I 195** — 10.07.2013
-Violazione del diritto di voto riguardo a procedure elettorali contrarie al diritto costituzionale federale
+Il Tribunale federale concretizza la competenza cantonale per la disciplina dei diritti politici.
 
-Il Tribunale federale ha confermato che i Cantoni possono configurare le loro procedure elettorali nel quadro dell'art. 39 cpv. 1 Cost., ma devono rispettare i requisiti minimi del diritto costituzionale federale. Un progetto sottoposto a votazione che mira a impedire l'introduzione di una procedura elettorale proporzionale conforme al diritto costituzionale federale è inammissibile.
+L'art. 39 cpv. 1 Cost. conferisce ai Cantoni un'ampia libertà di configurazione nell'organizzazione dei loro sistemi politici.
 
-> «Possibilità di configurazione della procedura elettorale proporzionale per il Gran Consiglio (consid. 3.1). Il progetto di votazione controverso è inammissibile perché mira a impedire l'introduzione di una procedura elettorale proporzionale conforme al diritto costituzionale federale.»
+> «I Cantoni sono largamente liberi nell'organizzazione del loro sistema politico. L'art. 39 cpv. 1 Cost. li obbliga soltanto ad assicurare l'esercizio dei diritti politici secondo forme repubblicane (rappresentative o democratiche). Questi requisiti costituzionali sono soddisfatti in linea di principio sia dal sistema maggioritario che da quello proporzionale.»
 
-**DTF 143 I 211** — 30.03.2017
-Procedura elettorale per i presidenti dei tribunali circondariali
+**BGE 139 I 195 E. 1.3 (2013)**
 
-L'art. 39 cpv. 1 Cost. concede ai Cantoni un'ampia autonomia nella configurazione delle loro procedure elettorali. I Cantoni disciplinano, secondo la loro autonomia organizzativa, l'esercizio dei diritti politici negli affari cantonali e comunali nel quadro della garanzia del diritto costituzionale federale di cui all'art. 34 Cost.
+10 luglio 2013
 
-> «I Cantoni sono largamente liberi nella configurazione del loro sistema politico e della procedura elettorale. L'art. 39 cpv. 1 Cost. stabilisce che i Cantoni - secondo la loro autonomia organizzativa - disciplinano l'esercizio dei diritti politici negli affari cantonali e comunali.»
+Limiti dell'autonomia organizzativa cantonale in caso di procedure elettorali contrarie alla Costituzione federale.
 
-### Principio del domicilio e diritti politici
+L'autonomia cantonale trova il suo limite dove si intenda mantenere procedure contrarie alla Costituzione federale.
 
-**DTF 151 I 354** — 24.03.2025
-Requisito del domicilio per la candidatura al Consiglio degli Stati
+> «Il progetto di votazione controverso è inammissibile perché mira a impedire l'introduzione di una procedura elettorale proporzionale conforme alla Costituzione federale.»
 
-La più recente sentenza di principio sul principio del domicilio secondo l'art. 39 cpv. 2 Cost. ha precisato la nozione di diritto federale del domicilio politico. Questo presuppone un domicilio di diritto civile e un'iscrizione nel registro degli elettori. Nelle elezioni del Consiglio degli Stati in quanto elezioni cantonali, i Cantoni possono configurare il requisito del domicilio come condizione di eleggibilità.
+**BGE 143 I 211 E. 3.1 (2017)**
 
-> «La nozione di diritto federale del domicilio politico presuppone un domicilio di diritto civile e un'iscrizione nel registro degli elettori (consid. 3.1). Secondo il diritto cantonale è una condizione di eleggibilità (consid. 3.2).»
+30 marzo 2017
 
-Il Tribunale federale ha sottolineato lo stretto legame tra domicilio di diritto civile e politico a causa del principio democratico di territorialità:
+Libertà di configurazione cantonale per l'elezione dei giudici alla luce dell'art. 39 cpv. 1 Cost.
 
-> «Lo stretto legame tra domicilio di diritto civile e politico [si basa] sul principio democratico di territorialità [...]. Il requisito inderogabile del domicilio [...] serve all'idea del principio democratico di territorialità, trattandosi infatti del fatto che la rispettiva persona deve esercitare il suo diritto in quella circoscrizione territoriale in cui, considerata globalmente, ha il centro dei suoi interessi vitali.»
+I Cantoni disciplinano, quale parte della loro autonomia organizzativa, anche l'elezione dei giudici.
 
-### Violazione dei diritti politici
+> «I Cantoni sono largamente liberi nell'organizzazione del loro sistema politico e della procedura elettorale. L'art. 39 cpv. 1 Cost. stabilisce che i Cantoni - conformemente alla loro autonomia organizzativa - disciplinano l'esercizio dei diritti politici negli affari cantonali e comunali. Questa competenza è esercitata nel quadro della garanzia costituzionale federale dell'art. 34 Cost.»
 
-**DTF 129 I 232** — 2003
-Nullità di iniziative sulla naturalizzazione
+### Diritti di referendum comunali
 
-Benché non riguardi direttamente l'art. 39 Cost., questa decisione illustra i limiti della partecipazione democratica in caso di conflitti tra diversi diritti fondamentali. Il Tribunale federale ha esaminato la compatibilità di iniziative popolari con i requisiti costituzionali dei diritti politici.
+**BGE 140 I 58 E. 3.3 (2013)**
 
-> «Le decisioni negative di naturalizzazione sottostanno all'obbligo di motivazione secondo l'art. 29 cpv. 2 Cost. (diritto di essere sentito) in combinato disposto con l'art. 8 cpv. 2 Cost. (divieto di discriminazione; consid. 3.3 e 3.4). Nella votazione alle urne non è possibile una motivazione che soddisfi i requisiti costituzionali.»
+13 dicembre 2013
 
-### Ulteriori precisazioni
+Configurazione dei diritti di referendum comunali quale parte della competenza cantonale.
 
-**DTF 131 I 85** — 27.10.2004
-Circoscrizione elettorale nel sistema proporzionale
+L'art. 39 cpv. 1 Cost. garantisce ai Cantoni la competenza per la disciplina dei diritti politici comunali.
 
-Precisazioni complementari sui requisiti di diritto federale per le circoscrizioni elettorali cantonali sotto l'art. 39 cpv. 1 Cost. in caso di dimensioni delle circoscrizioni elettorali storicamente cresciute e molto diverse.
+> «Secondo l'art. 39 cpv. 1 Cost., la Confederazione disciplina l'esercizio dei diritti politici negli affari federali, i Cantoni li determinano negli affari cantonali e comunali. Questa competenza dei Cantoni ha carattere dichiaratorio, poiché sussiste comunque già in virtù dell'autonomia organizzativa cantonale, e si orienta dal punto di vista contenutistico secondo i requisiti minimi di cui all'art. 51 Cost.»
 
-**DTF 136 I 352** — 07.07.2010
-Procedura proporzionale e circoscrizione elettorale
+### Ripartizione dei collegi elettorali e uguaglianza del successo elettorale
 
-Ulteriore concretizzazione dei requisiti per le procedure proporzionali per le elezioni parlamentari cantonali sotto il profilo dell'uguaglianza del diritto di voto e dell'art. 39 cpv. 1 Cost.
+**BGE 129 I 185 E. 3.1 (2002)**
 
-**DTF 145 I 259** — 29.07.2019
-Sistema maggioritario per le elezioni parlamentari cantonali
+18 dicembre 2002
 
-Il Tribunale federale ha confermato che anche le procedure puramente maggioritarie per le elezioni parlamentari cantonali possono soddisfare i requisiti dell'art. 39 cpv. 1 Cost., purché sia preservata l'uguaglianza del diritto di voto.
+Decisione fondamentale sull'uguaglianza del diritto di voto e sulla libertà di configurazione cantonale.
+
+L'autonomia cantonale nelle procedure elettorali è soggetta ai limiti dell'uguaglianza giuridica.
+
+> «I Cantoni sono largamente liberi nell'organizzazione del loro sistema politico. L'art. 39 cpv. 1 Cost. (prima art. 6 cpv. 2 lett. b vCost.) li obbliga soltanto ad assicurare l'esercizio dei diritti politici secondo forme repubblicane (rappresentative o democratiche). Questi requisiti costituzionali sono soddisfatti in linea di principio sia dal sistema maggioritario che da quello proporzionale. Limite per la configurazione della procedura elettorale costituisce l'art. 8 cpv. 1 Cost. (prima art. 4 cpv. 1 vCost.), che in relazione all'art. 34 Cost. garantisce (anche) la parità di trattamento politico dei cittadini.»
+
+### Rapporto con i diritti fondamentali
+
+**BGE 131 I 85 E. 3.2 (2004)**
+
+27 ottobre 2004
+
+La competenza dell'art. 39 cpv. 1 Cost. è subordinata alle garanzie dei diritti fondamentali.
+
+Le procedure elettorali cantonali devono rispettare le garanzie dei diritti fondamentali della Costituzione federale.
+
+> «I Cantoni sono largamente liberi nell'organizzazione del loro sistema politico. L'art. 39 cpv. 1 Cost. li obbliga soltanto ad assicurare l'esercizio dei diritti politici secondo forme repubblicane (rappresentative o democratiche).»

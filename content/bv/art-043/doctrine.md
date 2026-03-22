@@ -2,82 +2,64 @@
 
 ## Doktrin
 
-**N. 1** **Entstehungsgeschichte**
+### 1. Entstehungsgeschichte
 
-Art. 43 BV wurde im Rahmen der Totalrevision der Bundesverfassung von 1999 neu geschaffen. Die Bestimmung geht auf Art. 3 aBV zurück, welcher die Souveränität der Kantone betonte. Die Botschaft zur neuen Bundesverfassung vom 20. November 1996 (BBl 1997 I 1, 207) führt aus, dass mit der neuen Formulierung die Aufgabenautonomie der Kantone im Rahmen ihrer verfassungsmässigen Zuständigkeiten explizit verankert werden sollte. Der Verfassungsgeber beabsichtigte, das föderalistische Subsidiaritätsprinzip zu stärken und die kantonale Selbstbestimmung bei der Aufgabenerfüllung zu betonen.
+**N. 1** Art. 43 BV wurde im Rahmen der Totalrevision der Bundesverfassung von 1999 geschaffen. Die Bestimmung hatte kein direktes Vorbild in der Bundesverfassung von 1874. Die Norm entstand aus der Überzeugung der Verfassungsreformkommission, dass die föderalistischen Grundsätze expliziter verankert werden sollten (BBl 1997 I 1, 232). Die Botschaft des Bundesrates betont, dass Art. 43 BV zusammen mit Art. 42 BV ein kohärentes System der Aufgabenteilung zwischen Bund und Kantonen bildet (BBl 1997 I 234).
 
-**N. 2** **Systematische Einordnung**
+**N. 2** Der historische Art. 43 aBV von 1874 regelte die politischen Rechte der Niedergelassenen und hat mit der heutigen Bestimmung keinen inhaltlichen Zusammenhang. Die neue Norm ist Teil des 3. Titels «Bund, Kantone und Gemeinden» und konkretisiert den in Art. 3 BV verankerten Föderalismus.
 
-Art. 43 BV steht im 3. Titel der Bundesverfassung über «Bund, Kantone und Gemeinden» und bildet zusammen mit Art. 42 BV das Kernstück der föderalistischen Kompetenzordnung. Während Art. 42 BV die Aufgaben des Bundes definiert und den Verfassungsvorbehalt für Bundeskompetenzen statuiert, bestätigt Art. 43 BV spiegelbildlich die Aufgabenautonomie der Kantone (Biaggini, BSK BV, Art. 43 N. 11). Die Bestimmung steht in engem Zusammenhang mit Art. 3 BV (Souveränität der Kantone), Art. 5a BV (Subsidiarität), Art. 47 BV (Eigenständigkeit der Kantone) und Art. 50 BV (Gemeindeautonomie).
+### 2. Systematische Einordnung
 
-**N. 3** **Norminhalt – Aufgabenautonomie der Kantone**
+**N. 3** Art. 43 BV steht im systematischen Zusammenhang mit den föderalistischen Grundnormen der Bundesverfassung. Er ergänzt Art. 3 BV (Kantonssouveränität) und steht in komplementärem Verhältnis zu Art. 42 BV (Aufgaben des Bundes). Während Art. 42 BV den Verfassungsvorbehalt für Bundeskompetenzen betont, bestätigt Art. 43 BV die kantonale Aufgabenautonomie (Biaggini, BSK BV, Art. 43 N. 11).
 
-Art. 43 BV gewährt den Kantonen die Freiheit zu bestimmen, welche Aufgaben sie im Rahmen ihrer Zuständigkeiten erfüllen wollen. Die Bestimmung hat nach Biaggini (BSK BV, Art. 43 N. 1) eine bescheidene rechtliche Bedeutung und praktische Tragweite, da sie lediglich wiederholt, was sich bereits aus Art. 3 BV ergibt. Die Aufgabenautonomie umfasst zwei Aspekte: die Entscheidungsfreiheit darüber, ob eine Aufgabe überhaupt wahrgenommen wird, und die Gestaltungsfreiheit bei der Art und Weise der Aufgabenerfüllung.
+**N. 4** Die Norm ist im Kontext des gesamten 1. Kapitels des 3. Titels zu lesen: → Art. 43a BV (Grundsätze der Aufgabenzuweisung), → Art. 44 BV (Grundsätze der Zusammenarbeit), → Art. 45 BV (Mitwirkung), ↔ Art. 46 BV (Umsetzung des Bundesrechts), ↔ Art. 47 BV (Eigenständigkeit der Kantone) und → Art. 48 BV (Verträge zwischen Kantonen).
 
-**N. 4** **Unterscheidung zwischen Zuständigkeiten und Aufgaben**
+### 3. Tatbestandsmerkmale / Norminhalt
 
-Nach der Lehre (Biaggini, BSK BV, Art. 43 N. 12) meinen «Zuständigkeiten» Befugnisse im Sinne von Berechtigungen, während bei «Aufgaben» der verpflichtende Charakter im Vordergrund steht. Diese Unterscheidung ist für das Verständnis der kantonalen Autonomie wesentlich: Die Kantone können im Rahmen ihrer Kompetenzen (Zuständigkeiten) selbst entscheiden, welche konkreten Tätigkeiten (Aufgaben) sie wahrnehmen.
+**N. 5** Der Tatbestand von Art. 43 BV enthält drei wesentliche Elemente:
 
-**N. 5** **Verhältnis zu Art. 42 BV**
+**N. 6** **«Die Kantone»**: Normadressaten sind die 26 Kantone als Gliedstaaten der Bundesverfassung. Die Bestimmung richtet sich nicht an Gemeinden oder andere öffentlich-rechtliche Körperschaften, obwohl die Kantone ihre Aufgaben an diese delegieren können (→ Art. 50 BV).
 
-Art. 42 und 43 BV bilden ein komplementäres Normenpaar. Während Art. 42 BV den Verfassungsvorbehalt für Bundesaufgaben betont und damit die Bundeskompetenzen begrenzt, unterstreicht Art. 43 BV die kantonale Aufgabenautonomie innerhalb der verfassungsmässigen Zuständigkeiten (Biaggini, BSK BV, Art. 43 N. 11). Diese duale Struktur konkretisiert das föderalistische Prinzip der Aufgabenteilung zwischen Bund und Kantonen.
+**N. 7** **«bestimmen»**: Die Kantone verfügen über Entscheidungsautonomie bei der Frage, ob und wie sie Aufgaben wahrnehmen. Diese Autonomie umfasst die Organisation der Aufgabenerfüllung, die Wahl der Mittel und die Prioritätensetzung (Schweizer, SG-Komm. BV, Art. 43 N. 4).
 
-**N. 6** **Grenzen der Aufgabenautonomie**
+**N. 8** **«welche Aufgaben sie [...] erfüllen»**: Der Begriff «Aufgaben» unterscheidet sich von «Zuständigkeiten». Während Zuständigkeiten Befugnisse im Sinne von Berechtigungen meinen, steht bei Aufgaben der verpflichtende Charakter im Vordergrund (Biaggini, BSK BV, Art. 43 N. 12). Die Kantone können grundsätzlich selbst entscheiden, welche öffentlichen Aufgaben sie übernehmen wollen.
 
-Die kantonale Aufgabenautonomie ist nicht schrankenlos. Biaggini (BSK BV, Art. 43 N. 18) kritisiert den Wortlaut des Art. 43 BV als unpräzis, da er eine weitreichende Freiheit der Kantone suggeriert, die tatsächlich nicht besteht. Die Autonomie wird eingeschränkt durch:
+**N. 9** **«im Rahmen ihrer Zuständigkeiten»**: Diese Einschränkung ist zentral. Die kantonale Aufgabenautonomie besteht nur soweit, als die Bundesverfassung den Kantonen überhaupt Kompetenzen belässt. Der Wortlaut ist insofern unpräzis, als er eine weitreichende Freiheit suggeriert, die tatsächlich nicht besteht (Biaggini, BSK BV, Art. 43 N. 18).
 
-- Bundesverfassungsrecht (insbesondere Grundrechte und Kompetenzvorschriften)
-- Bundesgesetze im Rahmen der Bundeskompetenzen
-- Völkerrecht
-- Interkantonales Recht (Art. 48 BV)
-- Kantonales Verfassungsrecht
+### 4. Rechtsfolgen
 
-**N. 7** **Bundesrechtliche Vorgaben**
+**N. 10** Art. 43 BV begründet keine neuen kantonalen Kompetenzen, sondern bestätigt die bereits aus Art. 3 BV fliessende Aufgabenautonomie (Biaggini, BSK BV, Art. 43 N. 1). Die praktische Bedeutung der Norm ist daher bescheiden.
 
-Die Kantone können nur dort autonom über ihre Aufgabenerfüllung entscheiden, wo der Bund nicht abschliessend legiferiert hat (Biaggini, BSK BV, Art. 43 N. 17-27). Bei konkurrierenden Kompetenzen geht die kantonale Aufgabenautonomie nur so weit, wie der Bund von seiner Gesetzgebungskompetenz keinen Gebrauch gemacht hat. Dies zeigt sich exemplarisch in **BGE 140 I 176** E. 7.2, wo das Bundesgericht festhielt, dass die Kantone im Bereich der Zweitwohnungen trotz Art. 75b BV weiterhin eigene Massnahmen ergreifen können, solange der Bund nicht abschliessend legiferiert hat.
+**N. 11** Die Kantone können im Rahmen ihrer Zuständigkeiten:
+- Neue Aufgaben schaffen oder bestehende aufheben
+- Die Organisation der Aufgabenerfüllung frei gestalten (Organisationsautonomie)
+- Aufgaben an Gemeinden oder Dritte delegieren
+- Sich zur gemeinsamen Aufgabenerfüllung zusammenschliessen (→ Art. 48 BV)
 
-**N. 8** **Interkantonale Zusammenarbeit**
+**N. 12** Die kantonale Aufgabenautonomie wird jedoch vielfach durch Bundesrecht eingeschränkt. Bundesvorgaben können die kantonale Freiheit in folgenden Formen beschränken (Biaggini, BSK BV, Art. 43 N. 17-27):
+- Obligatorische Aufgabenerfüllung durch Bundesgesetze
+- Vorgaben zur Organisation (z.B. Forderung nach kantonaler Einheitsbehörde)
+- Mindeststandards und Qualitätsvorgaben
+- Finanzielle Anreize und Subventionsbedingungen
 
-Die Aufgabenautonomie umfasst auch die Befugnis der Kantone, ihre Aufgaben gemeinsam mit anderen Kantonen wahrzunehmen. **BGE 141 II 262** E. 5.2.4 bestätigte, dass die Kantone ihre Aufgaben grundsätzlich in der von ihnen gewählten organisatorischen Form erfüllen können, einschliesslich der Delegation an interkantonale Körperschaften. Dies entspricht der in Art. 48 BV vorgesehenen horizontalen Zusammenarbeit.
+### 5. Streitstände
 
-**N. 9** **Verhältnis zu Art. 47 BV**
+**N. 13** **Verhältnis zu Art. 3 BV**: Biaggini vertritt die Position, dass Art. 43 BV rechtlich keine eigenständige Bedeutung hat und nur wiederholt, was sich bereits aus Art. 3 BV ergibt (BSK BV, Art. 43 N. 1). Schweizer hingegen sieht in Art. 43 BV eine wichtige Konkretisierung des Föderalismusprinzips mit eigenem normativen Gehalt (SG-Komm. BV, Art. 43 N. 2).
 
-Schweizer (BSK BV, Fussnote 2 zu Art. 43) weist auf Abgrenzungsschwierigkeiten im Verhältnis zu Art. 47 BV hin. Während Art. 43 BV die funktionale Autonomie (Aufgabenautonomie) regelt, schützt Art. 47 BV die institutionelle Eigenständigkeit der Kantone. Beide Normen ergänzen sich im Schutz der kantonalen Selbstbestimmung.
+**N. 14** **Abgrenzung zu Art. 47 BV**: Schweizer weist auf Abgrenzungsschwierigkeiten zwischen Art. 43 BV (Aufgabenautonomie) und Art. 47 BV (Eigenständigkeit) hin (zitiert in Biaggini, BSK BV, Art. 43 Fn. 2). Während Art. 43 BV die funktionale Autonomie betrifft, schützt Art. 47 BV die institutionelle Eigenständigkeit der Kantone.
 
-**N. 10** **Rechtsfolgen**
+**N. 15** **Tragweite der Einschränkung**: Die Lehre ist sich uneinig über die Tragweite der Formulierung «im Rahmen ihrer Zuständigkeiten». Biaggini kritisiert den unpräzisen Wortlaut, der eine grössere Autonomie suggeriere als tatsächlich bestehe (BSK BV, Art. 43 N. 18). Andere Autoren sehen darin eine notwendige Klarstellung des bundesstaatlichen Kompetenzgefüges.
 
-Art. 43 BV begründet primär eine Abwehrfunktion gegenüber Bundeseingriffen in die kantonale Aufgabenautonomie. Die Norm verleiht den Kantonen jedoch keine zusätzlichen Kompetenzen, sondern bestätigt ihre Freiheit innerhalb der bestehenden Zuständigkeiten. Verletzungen der Aufgabenautonomie können mit Beschwerde in öffentlich-rechtlichen Angelegenheiten beim Bundesgericht gerügt werden (Art. 82 lit. b BGG i.V.m. Art. 189 Abs. 1 lit. e BV).
+### 6. Praxishinweise
 
-**N. 11** **Finanzielle Aspekte**
+**N. 16** Bei der Prüfung kantonaler Aufgabenerfüllung ist stets zuerst die Zuständigkeitsfrage zu klären. Nur wenn eine Materie in die kantonale Kompetenz fällt, kommt Art. 43 BV zur Anwendung.
 
-Die Aufgabenautonomie steht in engem Zusammenhang mit der Finanzautonomie der Kantone (Art. 134 und 135 BV). Die Kantone müssen über ausreichende finanzielle Mittel verfügen, um ihre selbstgewählten Aufgaben erfüllen zu können. Der Finanzausgleich (Art. 135 BV) soll sicherstellen, dass alle Kantone ihre Aufgabenautonomie tatsächlich ausüben können.
+**N. 17** Die Kantone sollten bei der Aufgabengestaltung folgende Bundesvorgaben beachten:
+- Grundrechtsschutz (→ Art. 35 BV)
+- Rechtsgleichheit (→ Art. 8 BV)
+- Verhältnismässigkeit (→ Art. 5 Abs. 2 BV)
+- Vorrang des Bundesrechts (→ Art. 49 BV)
 
-**N. 12** **Gemeindliche Aufgabenautonomie**
+**N. 18** Bei interkantonaler Zusammenarbeit ist zu prüfen, ob die gemeinsame Aufgabenerfüllung eine Vertragsgrundlage nach Art. 48 BV erfordert. Die blosse Koordination ohne rechtliche Verpflichtung bedarf keines formellen Konkordats.
 
-Obwohl Art. 43 BV nur von den Kantonen spricht, gilt das Prinzip der Aufgabenautonomie über Art. 50 BV sinngemäss auch für die Gemeinden im Rahmen der durch das kantonale Recht gewährten Autonomie. Dies wurde in **BGE 140 I 176** E. 7.3 bestätigt, wo das Bundesgericht die Kompetenz einer Gemeinde zur Einführung einer Zweitwohnungssteuer als Ausdruck ihrer Aufgabenautonomie anerkannte.
-
-**N. 13** **Streitstände in der Doktrin**
-
-Die Lehre ist sich über die praktische Bedeutung des Art. 43 BV uneinig. Während Biaggini (BSK BV, Art. 43 N. 1) die Bestimmung als rechtlich wenig bedeutsam erachtet, da sie nur bestätige, was sich bereits aus Art. 3 BV ergebe, messen ihr andere Autoren wie Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, § 1024) grössere Bedeutung für die Konkretisierung des Subsidiaritätsprinzips zu. Rhinow (BV 2000, S. 74 f.) betont die symbolische Bedeutung der Norm für die föderalistische Staatsstruktur.
-
-**N. 14** **Kritik am Wortlaut**
-
-Biaggini (BSK BV, Art. 43 N. 18) kritisiert den Wortlaut der Bestimmung als irreführend. Die Formulierung «Die Kantone bestimmen» suggeriere eine umfassende Autonomie, die angesichts der vielfältigen bundesrechtlichen Vorgaben in der Praxis nicht existiere. Diese Kritik wird von Teilen der Lehre geteilt, die eine präzisere Fassung befürworten.
-
-**N. 15** **Entwicklungstendenzen**
-
-Die praktische Bedeutung des Art. 43 BV ist im Kontext der fortschreitenden Zentralisierung und Harmonisierung zu sehen. Trotz der verfassungsrechtlichen Garantie der Aufgabenautonomie zeigt sich in der Praxis eine Tendenz zur Vereinheitlichung durch Bundesrecht und interkantonale Konkordate. Die neuere Rechtsprechung (etwa **BGE 141 II 262**) bestätigt jedoch, dass die Kantone weiterhin über erhebliche Gestaltungsspielräume verfügen.
-
-**N. 16** **Praxishinweise**
-
-Bei der Anwendung von Art. 43 BV ist zu beachten:
-
-1. Die Bestimmung begründet keine neuen kantonalen Kompetenzen, sondern schützt die Autonomie innerhalb bestehender Zuständigkeiten.
-
-2. Bei Kompetenzstreitigkeiten ist stets zu prüfen, ob und inwieweit der Bund von seinen Gesetzgebungskompetenzen Gebrauch gemacht hat.
-
-3. Die Aufgabenautonomie rechtfertigt unterschiedliche kantonale Lösungen für gleiche Probleme, solange keine zwingenden bundesrechtlichen Vorgaben bestehen.
-
-4. Bei der interkantonalen Zusammenarbeit bleibt die demokratische Legitimation und Kontrolle durch die kantonalen Parlamente zu gewährleisten.
-
-5. Gemeinden können sich nur im Rahmen der kantonalrechtlich eingeräumten Autonomie auf den Grundsatz der Aufgabenautonomie berufen.
+**N. 19** Gemeinden können sich nicht direkt auf Art. 43 BV berufen, da sie keine Adressaten der Norm sind. Ihre Aufgabenautonomie richtet sich nach kantonalem Verfassungsrecht und Art. 50 BV.

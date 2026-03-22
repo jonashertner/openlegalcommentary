@@ -6,6 +6,7 @@ const translations: Record<string, Record<Lang, string>> = {
   'nav.laws': { de: 'Gesetze', fr: 'Lois', it: 'Leggi', en: 'Laws' },
   'nav.about': { de: 'Über uns', fr: 'À propos', it: 'Chi siamo', en: 'About' },
   'nav.changelog': { de: 'Änderungen', fr: 'Modifications', it: 'Modifiche', en: 'Changelog' },
+  'nav.methodology': { de: 'Methodik', fr: 'Méthodologie', it: 'Metodologia', en: 'Methodology' },
 
   // Breadcrumb
   'breadcrumb.home': { de: 'Startseite', fr: 'Accueil', it: 'Home', en: 'Home' },

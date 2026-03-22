@@ -1,75 +1,49 @@
-# Art. 43 Cst.
+# Art. 43 Cst. - Jurisprudence
 
-## Jurisprudence
+## Principes de la détermination des tâches cantonales
 
-### Délimitation des compétences entre la Confédération et les cantons
+**ATF 128 I 254** du 14 août 2002  
+Le Tribunal fédéral retient que les cantons sont en principe libres dans l'organisation de leurs compétences (autonomie organisationnelle). Cette autonomie peut toutefois être limitée par le droit fédéral lorsqu'une autorité cantonale unifiée est nécessaire pour garantir l'égalité devant la loi.
 
-**ATF 122 I 70** du 22 février 1996  
-Restrictions du décollage et de l'atterrissage avec deltaplane par le droit cantonal.  
-Confirmation de principe de la compétence résiduelle cantonale dans les domaines que la Confédération n'a pas réglés de manière exhaustive.  
-
-> « Les cantons sont souverains en tant que leur souveraineté n'est pas limitée par la Constitution fédérale (art. 3 Cst.). Ils ont une compétence législative originaire qui n'est supprimée que dans la mesure où la Confédération est soit exclusivement compétente, avec effet dérogatoire originel, ou bien dans un domaine où elle est compétente de manière concurrente, avec effet dérogatoire postérieur, et qu'elle a effectivement et complètement réglé le domaine en question. »
-
-**ATF 125 II 152** du 23 février 1999  
-Délimitation des compétences fédérales et cantonales pour l'autorisation d'appareils à sous.  
-Clarification des limites de la compétence cantonale en cas d'interventions du droit fédéral.  
-
-> « Le Conseil fédéral n'a pas empiété sur la compétence cantonale en édictant l'ordonnance fédérale sur les appareils à sous. Il n'existe aucun droit des cantons à poursuivre la pratique antérieure d'homologation d'appareils d'adresse qui se révèle contraire au droit fédéral. »
+> « L'art. 25 al. 1 LAT énonce le principe de l'autonomie organisationnelle des cantons. Ce principe est limité à l'al. 2 dans la mesure où la compétence d'une autorité cantonale est prescrite : alors qu'il est habituellement loisible aux cantons de déléguer leurs tâches aux communes, l'art. 25 al. 2 LAT [...] exige, dans l'intérêt d'une application uniforme et égalitaire du droit à l'échelle cantonale, que toutes les demandes relatives à des projets de construction hors zone à bâtir soient traitées par une autorité cantonale. »
 
 **ATF 141 II 262** du 9 juillet 2015  
-Compétence de la Commission intercantonale des loteries et paris pour mener des procédures de qualification.  
-Confirmation de la collaboration intercantonale comme forme licite d'accomplissement des tâches cantonales.  
+Les organisations intercantonales peuvent développer leurs propres compétences lors de l'accomplissement de tâches cantonales. Les cantons déterminent par leur participation aux conventions intercantonales comment ils accomplissent leurs tâches.
 
-> « Les cantons peuvent en principe accomplir leurs tâches sous la forme organisationnelle qu'ils choisissent, pour autant qu'ils respectent les prescriptions constitutionnelles. Cela inclut aussi la délégation de tâches à des collectivités intercantonales. »
+> « La Comlot en tant qu'autorité d'autorisation est habilitée, sur la base d'une interprétation téléologique-temporelle du droit fédéral et intercantonal (CILV), à mener une procédure de soumission ou de qualification en relation avec les grandes loteries et à concrétiser dans le cas individuel l'interdiction générale-abstraite des loteries. »
 
-### Égalité de traitement des ressortissants cantonaux
+## Délimitation entre Confédération et cantons
 
-**ATF 122 I 209** de 1996  
-Emploi temporaire de chômeurs - Inégalité de traitement entre ressortissants cantonaux et non cantonaux.  
-Application de principe de l'interdiction de discriminer aux mesures cantonales.  
+**ATF 117 Ia 202** du 29 mai 1991  
+En cas de conflits de compétences entre la Confédération et les cantons, il faut examiner à quel niveau étatique la tâche revient constitutionnellement. L'art. 43 Cst. ne s'applique que dans la mesure où une tâche relève effectivement de la compétence cantonale.
 
-> « Le principe d'égalité de traitement de tous les citoyens suisses posé à l'art. 43 al. 4 Cst. vaut aussi pour les mesures prises par les cantons pour combattre les effets de la crise. »
+> « L'objet de la procédure du recours de droit public ne porte que sur la question de la délimitation des compétences entre la Confédération et le canton concernant la consultation des dossiers de protection de l'État de la Confédération. »
 
-**ATF 99 Ia 630** du 24 octobre 1973  
-Aide cantonale aux personnes âgées avec délais de carence plus longs pour les non-ressortissants cantonaux.  
-Inconstitutionnalité du traitement différencié entre ressortissants cantonaux et non cantonaux.  
+**ATF 122 I 70** du 22 février 1996  
+Les cantons restent compétents pour les domaines que la Confédération n'a pas réglés de manière exhaustive. La compétence résiduelle cantonale selon l'art. 3 Cst. se concrétise par l'art. 43 Cst. dans la détermination des tâches.
 
-> « La loi bâloise concernant l'aide cantonale aux personnes âgées viole les art. 43 al. 4 et 60 Cst. en tant qu'elle prévoit pour les non-ressortissants cantonaux des délais de carence plus longs que pour les ressortissants cantonaux. »
+> « L'art. 37ter Cst. donne à la Confédération une compétence étendue, mais non exclusive dans le domaine de l'aviation. Les cantons restent compétents pour les questions juridiques que la Confédération n'a pas réglées de manière exhaustive. »
 
-### Organisation de l'autonomie communale
+## Jurisprudence historique sur l'art. 43 aCst. (Droits politiques)
 
-**ATF 89 I 448** de 1963  
-Introduction du référendum financier facultatif dans une commune bernoise.  
-Confirmation de la liberté d'organisation cantonale en matière d'organisation communale.  
+**ATF 122 I 209** du 30 septembre 1996  
+Sous l'ancienne Constitution fédérale de 1874, l'art. 43 aCst. réglait les droits politiques des personnes établies. Cette disposition exigeait un traitement égal de tous les citoyens suisses dans les mesures cantonales.
 
-> « Les cantons déterminent en principe librement l'organisation de leurs communes et peuvent prévoir différents modèles de participation démocratique directe, pour autant qu'ils respectent les standards constitutionnels minimaux. »
+> « Il convient d'examiner la constitutionnalité, au regard de l'art. 43 al. 4 Cst., du délai imposé aux Confédérés par l'art. 23 let. b de la loi cantonale. [...] Le principe de l'égalité de traitement consacré en faveur de tous les Confédérés par l'art. 43 Cst. s'appliquait aux mesures que les cantons prenaient pour combattre les effets de la crise. »
 
-### Souveraineté fiscale et principes d'imposition
+**ATF 89 I 448** du début de l'année 1963  
+Les cantons peuvent déterminer librement leurs formes d'organisation dans les limites constitutionnelles. Les communes en tant que collectivités subordonnées doivent se conformer aux formes d'organisation prescrites par le canton.
 
-**ATF 133 I 206** du 1er juin 2007  
-Constitutionnalité du barème fiscal dégressif obwaldien.  
-Limites de l'autonomie fiscale cantonale par les principes constitutionnels supérieurs.  
+> « En cas de recours relatifs aux votations selon l'art. 85 let. a OJ, le Tribunal fédéral examine librement non seulement l'interprétation du droit fédéral et du droit constitutionnel cantonal, mais aussi celle d'autres dispositions cantonales dans la mesure où elles règlent plus précisément le droit de vote quant à son contenu et à son étendue. »
 
-> « L'autonomie tarifaire des cantons ne signifie pas qu'ils soient entièrement libres dans l'aménagement de leurs barèmes fiscaux. Au contraire, ils doivent respecter les prescriptions constitutionnelles, notamment le principe de l'égalité de traitement et le principe de la capacité économique. »
+## Conflits de compétences intercantonaux
 
-### Réglementation économique cantonale
+**ATF 129 I 419** du 27 octobre 2003  
+En cas de conflits négatifs de compétences entre cantons, le Tribunal fédéral décide de la compétence des autorités étatiques. Les cantons ne peuvent pas déterminer unilatéralement que d'autres cantons sont compétents pour certaines tâches.
 
-**ATF 138 I 378** du 3 juillet 2012  
-Licéité d'une activité entrepreneuriale de l'État - Assurance cantonale des biens de Glaris.  
-Examen de la compatibilité de l'activité économique étatique avec la liberté économique.  
+> « En cas de conflit négatif de compétences, l'autorité tutélaire du domicile de l'enfant est compétente pour les mesures de protection de l'enfant, sans qu'il faille examiner si l'autorité tutélaire du lieu de résidence habituel ne serait pas préférable en raison du principe du bien de l'enfant. »
 
-> « Les cantons sont en principe habilités à diriger leurs propres entreprises ou à participer à de telles entreprises, mais ils doivent respecter les droits fondamentaux, notamment la liberté économique des concurrents. »
+**ATF 129 V 485** du 20 août 2003  
+Les autorités cantonales peuvent transférer leurs compétences par délégation formelle à des instances subordonnées. Ceci doit toutefois s'effectuer de manière juridiquement correcte et ne doit pas porter atteinte au contrôle.
 
-**ATF 128 I 102** du 30 janvier 2002  
-Constitutionnalité d'une taxe de patente pour l'industrie hôtelière du canton de Soleure.  
-Confirmation de la souveraineté fiscale cantonale dans le cadre de la constitutionnalité.  
-
-> « Les cantons sont habilités, dans le cadre de leurs compétences, à percevoir des redevances causales et des taxes d'incitation, pour autant que celles-ci reposent sur une base légale suffisante et soient proportionnées. »
-
-### Collaboration intercommunale et intercantonale
-
-**ATF 140 I 176** de 2014  
-Qualification juridique et licéité d'une redevance sur les résidences secondaires non exploitées.  
-Reconnaissance d'approches communales spécifiques de résolution de problèmes dans le cadre d'une habilitation cantonale.  
-
-> « Les communes peuvent, dans le cadre des compétences que leur confère le droit cantonal, développer des approches autonomes de résolution des problèmes locaux, pour autant que celles-ci soient compatibles avec le droit supérieur. »
+> « La délégation de compétences de tâches particulières du service cantonal aux Centres régionaux de placement (ORP) [...] nécessite un acte formel soumis aux dispositions de publication du canton. »

@@ -2,52 +2,61 @@
 
 ### 1. Storia della genesi
 
-**N. 1** La competenza federale per gli affari esteri ha una lunga tradizione nella storia costituzionale. Già la Costituzione federale del 1848 attribuiva alla Confederazione la competenza esclusiva per la cura delle relazioni estere (art. 8 Cost. 1848). Questa competenza fu mantenuta nell'art. 8 Cost. 1874 e nell'art. 10 aCoost e ripresa invariata nell'art. 54 cpv. 1 Cost. (Epiney, BSK BV, Art. 54 N. 1-9).
+**N. 1** La competenza della Confederazione per gli affari esteri era già sancita nella Costituzione federale del 1848 (art. 8 CF 1848) e da allora è stata ripresa senza modifiche sostanziali in tutte le revisioni costituzionali. La Costituzione del 1874 disciplinava la competenza federale nell'art. 8 e precisava le attribuzioni delle autorità federali negli art. 85 cifre 5 e 6 nonché art. 102 cifre 8 e 9.
 
-**N. 2** Gli obiettivi di politica estera nell'art. 54 cpv. 2 Cost. costituiscono una sostanziale novità della revisione totale del 1999. Il Messaggio sottolinea che questi obiettivi «riflettono il mandato tradizionale della politica estera svizzera» ed esprimono la cresciuta solidarietà internazionale (FF 1997 I 1, 197). L'inserimento di questa disposizione programmatica avvenne senza controversie sostanziali.
+**N. 2** Nella revisione totale del 1999 l'art. 54 Cost. ha subito un'innovazione sostanziale mediante l'inserimento di obiettivi di politica estera nel cpv. 2. Il messaggio del 20 novembre 1996 su una nuova Costituzione federale sottolineava che la Svizzera non doveva più orientare la sua politica estera sull'isolamento, ma sulla partecipazione attiva al plasmare l'ordine internazionale (FF 1997 I 1, 229). L'ancoraggio costituzionale di obiettivi materiali doveva conferire alla politica estera un chiaro orientamento valoriale.
 
-**N. 3** L'art. 54 cpv. 3 Cost. codifica l'obbligo federalistico di riguardo, che già sotto la vecchia Costituzione era derivato dal principio dello Stato federale. Il fondamento costituzionale nell'art. 81 AP 1995 fu ripreso con lievi modifiche (Epiney, BSK BV, Art. 54 N. 43-46).
+**N. 3** Il cpv. 3 codificò la prassi già sviluppata sotto la vecchia Costituzione della considerazione degli interessi cantonali. Questa disposizione riflette la struttura federalistica della Svizzera e riconosce che le decisioni di politica estera possono avere conseguenze significative sui settori di competenza cantonali (FF 1997 I 230).
 
-### 2. Classificazione sistematica
+### 2. Collocazione sistematica
 
-**N. 4** L'art. 54 Cost. si trova all'inizio della 3ª sezione sulle competenze della Confederazione e dei Cantoni. La norma stabilisce una competenza federale esclusiva, che deve essere intesa nell'interazione con → l'art. 3 Cost. (i Cantoni sono sovrani finché la loro sovranità non è limitata dalla Costituzione federale) e → l'art. 42 Cost. (ripartizione dei compiti) (Epiney, BSK BV, Art. 54 N. 10-14).
+**N. 4** L'art. 54 Cost. si trova all'inizio del 2° capitolo sulle competenze della Confederazione e dei Cantoni. Esso fonda una competenza esclusiva della Confederazione (Epiney, BSK BV, Art. 54 N. 18), che non viene limitata dall'art. 3 Cost. (sovranità cantonale) e dall'art. 42 Cost. (ripartizione dei compiti). La norma è sistematicamente collegata con:
+- → Art. 2 Cost. (scopi dello Stato), che al cpv. 1 menziona l'indipendenza come scopo della Confederazione
+- → Art. 5 cpv. 4 Cost. (osservanza del diritto internazionale)
+- → Art. 55 Cost. (partecipazione dei Cantoni alle decisioni di politica estera)
+- → Art. 56 Cost. (rapporti dei Cantoni con l'estero)
+- → Art. 166 Cost. (competenza dell'Assemblea federale per l'approvazione dei trattati di diritto internazionale)
+- → Art. 184 Cost. (competenza del Consiglio federale per la cura delle relazioni esterne)
 
-**N. 5** La disposizione corrisponde all'→ art. 55 Cost. (partecipazione dei Cantoni) e all'→ art. 56 Cost. (relazioni dei Cantoni con l'estero), che regolano i diritti di partecipazione cantonali e le competenze residue. Altri rinvii trasversali esistono all'→ art. 5 cpv. 4 Cost. (diritto internazionale), agli → artt. 140 e → 141 Cost. (trattati internazionali), nonché alle competenze organiche dell'Assemblea federale (→ artt. 166 e → 173 Cost.) e del Consiglio federale (→ artt. 184 e → 185 Cost.).
-
-**N. 6** La neutralità della Svizzera non è menzionata esplicitamente nell'art. 54 Cost. Secondo la dottrina dominante, essa non costituisce un obiettivo autonomo di politica estera, bensì un mezzo per realizzare gli obiettivi menzionati nel cpv. 2 (Epiney, BSK BV, Art. 54 N. 32; Kälin, ZSR 1986 II 249, 270 segg.; diversamente Monnier, ZSR 1986 II 107, 125 segg.).
+**N. 5** La collocazione sistematica sottolinea che la politica estera non può essere considerata isolatamente da altri principi costituzionali. In particolare i diritti fondamentali (art. 7-36 Cost.) e i principi dello Stato di diritto (art. 5 Cost.) vincolano anche l'azione di politica estera della Confederazione.
 
 ### 3. Elementi della fattispecie / Contenuto normativo
 
-**N. 7** **Affari esteri (cpv. 1)**: Il concetto comprende tutte le relazioni con altri soggetti di diritto internazionale, segnatamente Stati e organizzazioni internazionali. La portata è controversa: mentre Baumann sostiene un concetto ampio che include qualsiasi riferimento all'estero, Epiney si concentra sugli attori coinvolti e limita il concetto alle relazioni ufficiali con soggetti di diritto internazionale (Epiney, BSK BV, Art. 54 N. 17). **DTF 145 II 339** consid. 3.1 conferma la competenza federale complessiva per i trattati di diritto internazionale.
+**N. 6** **Affari esteri (cpv. 1)**: Il concetto comprende tutte le relazioni della Svizzera con altri soggetti di diritto internazionale, primariamente Stati e organizzazioni internazionali. La dottrina è discorde sull'esatta portata: mentre Baumann sostiene un concetto ampio che include ogni collegamento con l'estero di qualsiasi natura (compreso i rapporti giuridici transfrontalieri di privati), Epiney propugna un'interpretazione più restrittiva che si basa sugli attori coinvolti (Epiney, BSK BV, Art. 54 N. 17). La prassi del Tribunale federale segue l'interpretazione più restrittiva (**DTF 137 I 371 consid. 1.2**).
 
-**N. 8** **Indipendenza e benessere (cpv. 2)**: L'obiettivo dell'indipendenza non deve essere inteso in senso isolazionista, ma permette e richiede un ampio inserimento nella comunità internazionale (Epiney, BSK BV, Art. 54 N. 24; Biaggini, AJP 1999, 722 segg.). Il benessere comprende lo sviluppo economico, sociale e culturale della Svizzera nel contesto internazionale.
+**N. 7** **Indipendenza e benessere (cpv. 2)**: L'indipendenza è obiettivo statale costituzionale dal 1848. Secondo la dottrina dominante non deve essere intesa in modo isolazionistico, ma consente e richiede l'integrazione della Svizzera nella comunità internazionale (Epiney, BSK BV, Art. 54 N. 24; Biaggini, AJP 1999, 725). Il benessere comprende lo sviluppo economico, sociale e culturale della Svizzera.
 
-**N. 9** **Obiettivi concreti (cpv. 2)**: Il catalogo non è esaustivo («segnatamente»). L'attenuazione di necessità e povertà legittima la cooperazione allo sviluppo (Schläppi/Kälin, Schweizerische Aussenwirtschaftshilfe und Menschenrechtspolitik, 23 segg.). Il rispetto dei diritti dell'uomo obbliga a una politica estera coerente (Künzli, Vom Umgang des Rechtsstaats mit Unrechtregimes, 45 segg.). La promozione della democrazia e della convivenza pacifica nonché la protezione dell'ambiente riflettono priorità moderne di politica estera (Thürer, Völkerrecht als Fortschritt und Chance, 189 segg.).
+**N. 8** **Obiettivi di politica estera (cpv. 2)**: L'enumerazione non è esaustiva («segnatamente»). Essa comprende:
+- Attenuazione delle necessità e della povertà (dimensione di politica dello sviluppo)
+- Rispetto dei diritti dell'uomo (dimensione normativa)
+- Promozione della democrazia (dimensione politica)
+- Coesistenza pacifica dei popoli (dimensione di politica della sicurezza)
+- Salvaguardia delle basi naturali della vita (dimensione ecologica)
 
-**N. 10** **Riguardo per i Cantoni (cpv. 3)**: Questa disposizione concretizza l'obbligo di lealtà federale per la politica estera. La Confederazione deve rispettare le competenze cantonali e includere gli interessi cantonali nel processo decisionale (Pfisterer, Die Kantone mit dem Bund in der EU-Zusammenarbeit, 67 segg.). **DTF 147 I 308** consid. 4.2 sottolinea questo obbligo nell'attuazione di trattati di diritto internazionale.
+**N. 9** **Neutralità**: È notevole che la neutralità non sia menzionata come obiettivo costituzionale. Secondo la dottrina essa non rappresenta un obiettivo autonomo di politica estera, ma è mezzo per la realizzazione delle finalità costituzionalmente ancorate (Epiney, BSK BV, Art. 54 N. 32; Monnier, ZSR 1986 II 215).
+
+**N. 10** **Considerazione dei Cantoni (cpv. 3)**: La Confederazione deve rispettare le competenze cantonali e tutelare gli interessi cantonali. Ciò si concretizza nei diritti di partecipazione secondo l'art. 55 Cost. e nel diritto all'informazione dei Cantoni sui progetti di politica estera che toccano le loro competenze o interessi essenziali.
 
 ### 4. Conseguenze giuridiche
 
-**N. 11** L'art. 54 cpv. 1 Cost. fonda una **competenza federale esclusiva**. I Cantoni possono coltivare relazioni estere autonome solo nel quadro dell'art. 56 Cost. (Epiney, BSK BV, Art. 54 N. 18). Questa competenza comprende la conclusione, la denuncia e l'esecuzione di trattati di diritto internazionale nonché la configurazione delle relazioni diplomatiche.
+**N. 11** La competenza esclusiva della Confederazione significa che solo la Confederazione può emanare atti giuridicamente vincolanti sul piano del diritto internazionale. I Cantoni non possono concludere trattati di diritto internazionale senza autorizzazione del diritto federale (eccezione: art. 56 Cost.). Le autorità cantonali sono vincolate agli atti di politica estera della Confederazione (**DTF 130 III 430 consid. 3.3**).
 
-**N. 12** L'art. 54 cpv. 2 Cost. contiene **obiettivi statali programmatici** senza giustiziabilità diretta. Essi vincolano gli organi federali nella configurazione della politica estera, ma non fondano diritti soggettivi azionabili (Seger, in: Liber amicorum Luzius Wildhaber, 1105 segg.). **DTF 134 I 23** consid. 2.5.3 qualifica queste disposizioni come binari guida della politica estera.
+**N. 12** Gli obiettivi di politica estera del cpv. 2 hanno natura programmatica. Essi non fondano diritti soggettivi dei singoli, ma obbligano le autorità federali nella configurazione della politica estera. Il Tribunale federale ha fortemente limitato la giustiziabilità degli atti di politica estera e riconosce un ampio margine di discrezionalità delle autorità politiche (**DTF 137 I 371 consid. 1.2**).
 
-**N. 13** L'art. 54 cpv. 3 Cost. obbliga la Confederazione al **riguardo federalistico**. Quest'obbligo si concretizza in diritti d'informazione, consultazione e partecipazione dei Cantoni secondo l'art. 55 Cost. In caso di violazione, i Cantoni possono far valere i loro interessi mediante controllo astratto delle norme (art. 82 lett. b LTF).
+**N. 13** L'obbligo di considerazione secondo il cpv. 3 conferisce ai Cantoni pretese procedurali all'informazione e alla consultazione (→ art. 55 Cost.), ma non un diritto di veto contro le decisioni di politica estera della Confederazione.
 
 ### 5. Controversie
 
-**N. 14** **Delimitazione «affari esteri» vs. «relazioni con l'estero»**: La terminologia non è uniforme. Mentre i commentatori sangallesi (Ehrenzeller, SG Komm. BV, Art. 54 N. 15) operano una distinzione, Biaggini usa i concetti come sinonimi (Biaggini, BV-Kommentar, Art. 54 N. 15). La giurisprudenza non segue una linea uniforme.
+**N. 14** **Delimitazione concettuale**: La distinzione tra «affari esteri» e «rapporti con l'estero» è controversa. Ehrenzeller (SG Komm. BV, Art. 54 N. 15) distingue tra i concetti, mentre Biaggini li usa sinonimicamente (Biaggini, AJP 1999, 724). La rilevanza pratica si manifesta nella delimitazione rispetto all'art. 56 Cost.
 
-**N. 15** **Portata del concetto di «affari esteri»**: Baumann sostiene un concetto ampio che comprende qualsiasi attività transfrontaliera con riferimento all'estero, incluse le relazioni di diritto privato (Baumann, Der Einfluss des Völkerrechts auf die Gewaltenteilung, 156). Epiney respinge questo approccio come troppo esteso e si concentra sulla natura della relazione: solo i contatti ufficiali con soggetti di diritto internazionale rientrano nell'art. 54 Cost. (Epiney, BSK BV, Art. 54 N. 17). La dottrina dominante segue la concezione più ristretta.
+**N. 15** **Rapporto con la neutralità**: La posizione della neutralità nel sistema costituzionale è controversa. Mentre Kälin la vede come principio costituzionale implicito (Kälin, ZSR 1986 II 280), Epiney e Monnier sottolineano il suo carattere meramente strumentale (Epiney, BSK BV, Art. 54 N. 32; Monnier, ZSR 1986 II 215). Il Tribunale federale finora non si è pronunciato chiaramente su questa questione.
 
-**N. 16** **Posizione della neutralità**: È controverso se la neutralità costituisca un obiettivo statale autonomo o semplicemente uno strumento di politica estera. Monnier la qualifica come principio costituzionale (Monnier, ZSR 1986 II 107, 125 segg.). L'opinione maggioritaria (Epiney, BSK BV, Art. 54 N. 32; Kälin, ZSR 1986 II 249, 270 segg.; Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, N 3456) la vede come mezzo per raggiungere gli obiettivi, non come fine a sé stante.
+**N. 16** **Giustiziabilità**: La portata del controllo giudiziario degli atti di politica estera rimane controversa. La prassi restrittiva del Tribunale federale, che ammette solo un controllo dell'arbitrio, è criticata da parte della dottrina (Künzli, Vom Umgang des Rechtsstaats mit Unrechtregimes, 156 ss.), che richiede un rafforzamento del vincolo ai diritti fondamentali e ai principi dello Stato di diritto.
 
-### 6. Indicazioni pratiche
+### 6. Indicazioni per la prassi
 
-**N. 17** Nell'**esame di conflitti di competenza** occorre prima chiarire se sussiste un «affare estero». Sono determinanti: (1) gli attori coinvolti (soggetti di diritto internazionale?), (2) la natura della relazione (ufficiale o privata?), (3) la rilevanza di diritto internazionale. In caso di dubbio si presume una competenza federale.
+**N. 17** Nell'applicazione dell'art. 54 Cost. bisogna distinguere tra tre livelli: (1) la ripartizione delle competenze tra Confederazione e Cantoni, (2) la ripartizione delle competenze tra le autorità federali e (3) i limiti materiali della politica estera attraverso i diritti fondamentali e il diritto internazionale.
 
-**N. 18** Le **autorità cantonali** devono, in caso di attività transfrontaliere, esaminare se l'art. 56 Cost. offre una base legale. Altrimenti deve essere ottenuto il consenso della Confederazione. Le conferenze intercantonali hanno elaborato schede informative per la delimitazione.
+**N. 18** Per la prassi è rilevante l'efficacia vincolante degli atti di politica estera: i tribunali devono in principio accettare le decisioni di status del DFAE (p. es. sull'immunità diplomatica). Un'eccezione sussiste solo in caso di arbitrio manifesto o violazione del diritto internazionale imperativo.
 
-**N. 19** Nell'**interpretazione di trattati internazionali** gli obiettivi di politica estera dell'art. 54 cpv. 2 Cost. devono essere utilizzati come ausilio interpretativo. Essi possono contribuire all'interpretazione teleologica, ma non sostituiscono le regole di interpretazione del diritto internazionale secondo gli artt. 31 segg. CVT.
-
-**N. 20** Le **imprese** con riferimento all'estero dovrebbero considerare che le sanzioni economiche e le disposizioni di embargo si basano sull'art. 54 Cost. Il rispetto delle direttive di politica estera può influenzare i contratti di diritto privato (dottrina della frustration). La prassi della SECO offre orientamento.
+**N. 19** I Cantoni devono, in caso di fattispecie transfrontaliere, verificare se le loro misure interferiscono nella competenza della Confederazione. Determinante è se sussiste un'azione di carattere autoritativo nei confronti di altri soggetti di diritto internazionale oppure se si tratta di meri contatti amministrativi, che secondo l'art. 56 cpv. 1 Cost. sono ammissibili.

@@ -1,68 +1,75 @@
-# Art. 45 Cost.
+# Art. 45 Cost. — Giurisprudenza
 
-## Giurisprudenza
+## Osservazione preliminare
 
-### Fondamenti della partecipazione nella giurisprudenza
+Sull'applicazione diretta dell'art. 45 Cost. esiste finora solo scarsa giurisprudenza del Tribunale federale. La disposizione di regola non viene invocata come motivo autonomo di ricorso, ma i suoi principi confluiscono nella valutazione di diritti processuali concreti. La presente esposizione comprende quindi anche decisioni su settori tematici affini della partecipazione e dell'informazione cantonali.
 
-Il Tribunale federale ha concretizzato i diritti di partecipazione dei Cantoni secondo l'art. 45 Cost. in vari settori, ponendo l'accento sul coordinamento territoriale e sulla collaborazione federale.
+## I. Partecipazione cantonale ai compiti federali
 
-**DTF 133 II 120** (11 maggio 2007)
+### Principi della collaborazione
 
-Partecipazione del Cantone Turgovia nel processo di coordinamento SIL per l'aeroporto di Zurigo. Il Tribunale federale ha concretizzato i requisiti per la collaborazione tra Confederazione e Cantoni nelle procedure di piani settoriali.
+**DTF 133 II 120 consid. 2.2** dell'11 maggio 2007  
+Principio della collaborazione federalista per i compiti con effetti territoriali  
+Il Tribunale federale ha stabilito, riguardo alla partecipazione dei Cantoni nell'elaborazione di piani settoriali della Confederazione, che l'art. 13 cpv. 2 LPT concretizza il principio costituzionale della collaborazione.
 
-> «Secondo l'art. 13 cpv. 2 LPT, la Confederazione collabora con i Cantoni nell'elaborazione delle basi per l'adempimento dei suoi compiti con effetti territoriali e comunica loro tempestivamente o quanto prima possibile i suoi concetti, piani settoriali e progetti di costruzione. I piani settoriali della Confederazione vengono elaborati in stretta collaborazione con i Cantoni e i Comuni e con la partecipazione della popolazione, ma tale partecipazione non sfocia in una procedura di ricorso.»
+> «Secondo l'art. 13 cpv. 2 LPT, la Confederazione collabora con i Cantoni nell'elaborazione delle basi per l'adempimento dei suoi compiti con effetti territoriali e comunica loro tempestivamente o il più presto possibile i suoi concetti, piani settoriali e progetti di costruzione.»
 
-**DTF 137 II 58** (22 dicembre 2010)
+**DTF 147 I 433 consid. 4.1** del 4 febbraio 2021  
+Partecipazione dei Comuni nella procedura di piano direttore  
+Il Tribunale federale ha sottolineato l'ancoraggio costituzionale dei diritti di partecipazione nelle procedure di pianificazione delle autorità e il loro significato per la legittimazione democratica.
 
-Coordinamento tra procedure federali e cantonali presso l'aeroporto di Zurigo. Il Tribunale federale ha sottolineato l'importanza di un'informazione tempestiva dei Cantoni per progetti rilevanti dal punto di vista federale.
+> «La partecipazione dei Comuni e di altri interessati nelle procedure di piano direttore non è solo prescritta dalla legge, ma corrisponde anche al precetto costituzionale della formazione democratica della volontà.»
 
-### Lealtà federale e obbligo di cooperazione
+### Delimitazione delle competenze federali e cantonali
 
-**DTF 118 Ia 195** (1992)
+**DTF 143 I 272 consid. 2.2** del 3 aprile 2017  
+Preminenza della Costituzione federale sul diritto cantonale  
+Il Tribunale federale ha stabilito, nel contesto dell'organizzazione scolastica cantonale, che i Cantoni possono esercitare le loro competenze solo nel quadro delle prescrizioni della costituzione federale.
 
-Decisione di principio sulla lealtà federale (Bundestreue) nel sistema federale. Il Tribunale federale ha stabilito che il principio della lealtà federale obbliga anche i Cantoni a considerare gli altri Stati membri.
+> «I Cantoni sono vincolati alla Costituzione federale nell'esercizio delle loro competenze. L'art. 49 Cost. li obbliga al rispetto del diritto federale.»
 
-> «La portata della garanzia del territorio e della sovranità dei Cantoni secondo l'art. 5 Cost. e secondo il principio della lealtà federale si estende all'obbligo dei Cantoni di considerarsi reciprocamente e di mantenere la solidarietà federale.»
+## II. Informazione e procedura di consultazione
 
-### Informazione e presa di posizione nelle procedure federali
+### Obblighi d'informazione della Confederazione
 
-**DTF 122 II 201** (1996)
+**DTF 145 I 1 consid. 6.2** del 29 ottobre 2018  
+Interventi cantonali nelle campagne di votazione  
+Il Tribunale federale ha riconosciuto il diritto dei Cantoni di intervenire nelle campagne di votazione federali in caso di particolare coinvolgimento, ma ha sottolineato il loro obbligo di oggettività.
 
-Ripartizione di stranieri ammessi provvisoriamente tra i Cantoni. Il Tribunale federale ha concretizzato l'obbligo di informazione e consultazione della Confederazione verso i Cantoni per decisioni che toccano i loro interessi.
+> «Se l'esito di una votazione popolare federale tocca in modo rilevante più Cantoni o tutti i Cantoni, i governi cantonali possono esprimersi pubblicamente in vista della votazione e dare una raccomandazione di voto. Tuttavia, gli interventi cantonali devono in tal caso misurarsi ai criteri dell'oggettività, della proporzionalità e della trasparenza.»
 
-> «L'Ufficio federale per i rifugiati deve decidere su eventuali domande di trasferimento in un altro Cantone dopo aver sentito i Cantoni interessati.»
+### Procedura di consultazione
 
-### Cooperazione nella pianificazione territoriale
+Sulla configurazione concreta delle procedure di consultazione secondo l'art. 45 cpv. 2 Cost. non esiste giurisprudenza specifica del Tribunale federale. La pratica si orienta alla Legge sulla consultazione (LCons) e alla sua ordinanza.
 
-**DTF 147 I 433** (4 febbraio 2021)
+## III. Limiti dei diritti di partecipazione
 
-Partecipazione dei Comuni e dei consorzi nella procedura di piano direttore. Il Tribunale federale ha precisato la portata dei diritti di partecipazione nelle procedure pianificatorie e ha confermato l'importanza di un'informazione tempestiva.
+### Partecipazione formale versus materiale
 
-> «I Cantoni designano nei loro piani direttori i siti delle discariche. La designazione avviene con la partecipazione dei Comuni e delle organizzazioni interessati.»
+**DTF 133 II 120 consid. 3.1** dell'11 maggio 2007  
+Distinzione tra audizione e procedura di ricorso  
+Il Tribunale federale ha chiarito che le procedure di partecipazione non sfociano automaticamente in procedure impugnabili.
 
-### Aspetti di diritto della responsabilità statale
+> «La procedura di audizione per l'emanazione di un piano settoriale della Confederazione non sfocia in una procedura di ricorso.»
 
-**DTAF 2008/6** (17 gennaio 2008)
+### Ampio margine di apprezzamento delle autorità federali
 
-Collaborazione Confederazione-Cantoni nell'ambito della responsabilità statale. Il Tribunale amministrativo federale ha trattato questioni di responsabilità in caso di coordinamento insufficiente tra Confederazione e Cantoni.
+**DTF 133 II 120 consid. 3** dell'11 maggio 2007  
+Margine di manovra nell'applicazione delle disposizioni sulla partecipazione  
+Il Tribunale federale ha riconosciuto alle autorità un ampio margine di manovra nella configurazione concreta delle procedure di partecipazione.
 
-### Concretizzazione procedurale
+> «Ampio margine di manovra delle autorità nell'applicazione dell'art. 4 cpv. 2 LPT. La partecipazione generale ai sensi di questa disposizione rappresenta una possibilità di influenza istituzionale e non produce alcun vincolo giuridico per le parti coinvolte, ma soltanto un'influenza politica.»
 
-**DTF 150 II 273** (21 dicembre 2023)
+## IV. Sviluppi attuali
 
-Controversia di diritto pubblico tra un Cantone e la Confederazione riguardante le indennità forfettarie nell'ambito dell'asilo. Il Tribunale federale ha ribadito l'importanza di procedure trasparenti nella collaborazione Confederazione-Cantoni.
+### Protezione dei dati e Legge sulla trasparenza
 
-### Sviluppi recenti
+Decisioni più recenti dell'Incaricato della protezione dei dati e della trasparenza mostrano che l'art. 45 Cost. diventa rilevante anche nel contesto del principio di trasparenza, quando si tratta della protezione dei rapporti tra Confederazione e Cantoni. Questa prassi è però ancora poco consolidata.
 
-La giurisprudenza mostra uno sviluppo continuo dei diritti di partecipazione dei Cantoni. Particolarmente da evidenziare è la tendenza del Tribunale federale a intendere l'informazione e la consultazione dei Cantoni non solo come obbligo formale, ma come elemento materiale della formazione della volontà federale. I tribunali richiedono sempre più una partecipazione «autentica» che vada oltre la semplice presa d'atto e conceda ai Cantoni effettive possibilità di influenza.
+### Partecipazione in questioni di diritto UE
 
-### Ambiti di applicazione nella prassi
+La giurisprudenza sulla partecipazione cantonale nelle questioni di diritto europeo si sviluppa continuamente, con l'art. 45 Cost. che funge da base costituzionale. Tuttavia, decisioni guida concrete sono ancora in sospeso.
 
-La giurisprudenza ha concretizzato l'art. 45 Cost. particolarmente nei seguenti settori:
+## Conclusione
 
-1. **Pianificazione territoriale e progetti infrastrutturali**: piani settoriali della Confederazione, processi di coordinamento presso aeroporti e altre infrastrutture
-2. **Settore dell'asilo e della migrazione**: ripartizione di richiedenti l'asilo e persone ammesse provvisoriamente
-3. **Politica ambientale ed energetica**: siti di discariche, concetti di smaltimento
-4. **Perequazione finanziaria**: indennità forfettarie e ripartizione dei costi tra Confederazione e Cantoni
-
-I tribunali sottolineano sempre che la partecipazione dei Cantoni non è solo un diritto costituzionale, ma una componente essenziale del federalismo svizzero.
+L'art. 45 Cost. viene compreso nella giurisprudenza principalmente come disposizione di principio che viene concretizzata da regolamentazioni di leggi speciali. L'imposizione diretta costituzionale dei diritti di partecipazione è rara, poiché questi vengono di regola realizzati a livello di ordinanza o attraverso processi politici.

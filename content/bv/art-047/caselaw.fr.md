@@ -1,69 +1,53 @@
-# Art. 47 Cst. — Jurisprudence
+## Jurisprudence
 
-## I. Autonomie organisationnelle des cantons
+### Autonomie organisationnelle des cantons
 
-### Limitation par le droit fédéral en matière d'aménagement du territoire
+**BGE 128 I 254** du 14.8.2002 (consid. 3-4)
 
-**ATF 128 I 254** — 14 août 2002
+Le Tribunal fédéral a précisé que l'autonomie organisationnelle cantonale connaît des limites lorsque le droit fédéral exige une application uniforme. L'art. 25 al. 2 LAT exige, dans l'intérêt d'une application uniforme et égalitaire du droit sur l'ensemble du territoire cantonal, que toutes les demandes relatives à des projets de construction en dehors des zones à bâtir soient traitées par une autorité cantonale. La répartition des compétences sur 26 préfets dans le canton de Berne ne satisfaisait pas à cette exigence du droit fédéral.
 
-L'autonomie organisationnelle cantonale trouve ses limites dans les prescriptions impératives du droit fédéral. L'art. 25 al. 1 LAT énonce certes le principe de l'autonomie organisationnelle des cantons, mais celui-ci est limité par l'al. 2 lorsque la compétence d'une autorité cantonale est prescrite.
+> « L'art. 25 al. 1 LAT pose le principe de l'autonomie organisationnelle des cantons. Ce principe est limité par l'al. 2 dans la mesure où la compétence d'une autorité cantonale est prescrite. »
 
-> «L'art. 25 al. 2 LAT exige, dans l'intérêt d'une application uniforme et égale du droit à l'échelon cantonal, que toutes les demandes relatives à des projets de construction en dehors de la zone à bâtir soient traitées par une autorité cantonale.»
+**BGE 144 IV 240** du 14.6.2018 (consid. 2.5)
 
-La réglementation bernoise qui attribuait cette compétence à 26 préfets différents ne satisfaisait pas aux exigences du droit fédéral et violait paradoxalement l'autonomie organisationnelle par une organisation insuffisamment centralisée.
+Lors de l'interprétation de l'art. 104 al. 2 CPP, le Tribunal fédéral a souligné l'importance de l'autonomie organisationnelle cantonale selon l'art. 47 Cst. Néanmoins, les cantons ne peuvent pas édicter de dispositions qui contredisent le droit fédéral. L'autonomie organisationnelle n'autorise pas les cantons à conférer le statut d'autorité à des organisations privées lorsque cela dépasse les limites du droit fédéral.
 
-### Autonomie communale en matière de prévoyance professionnelle
+> « Certes, la Confédération préserve l'autonomie des cantons et leur laisse suffisamment de tâches propres et respecte leur autonomie organisationnelle (cf. art. 47 Cst.). [...] Toutefois, les cantons ne peuvent pas établir de dispositions qui contredisent le droit fédéral. »
 
-**ATF 135 I 28** — 12 décembre 2008  
+### Autonomie financière et répartition des tâches
 
-L'autonomie organisationnelle protège aussi les communes contre les interventions cantonales inadmissibles dans leur auto-organisation. Les cantons ne peuvent pas contraindre les communes à assurer leurs employés auprès d'une institution de prévoyance déterminée.
+**BGE 147 I 136** du 18.5.2020 (consid. 2)
 
-> «Les communes sont habilitées à créer, pour l'exécution de la prévoyance professionnelle de leur personnel, une institution de prévoyance propre ou à s'affilier à cette fin à une institution de prévoyance enregistrée, par exemple celle du canton concerné.»
+Le Tribunal fédéral a reconnu l'autonomie communale dans la fixation du multiplicateur fiscal comme une manifestation de l'autonomie cantonale protégée par l'art. 47 Cst. Le retrait de cette compétence par le canton viole l'autonomie garantie par la Constitution. La décision montre les limites des interventions étatiques dans les domaines autonomes des niveaux inférieurs.
 
-Une réglementation cantonale qui prescrit l'affiliation obligatoire du personnel enseignant communal à la caisse de pension cantonale est contraire au droit fédéral et viole l'autonomie organisationnelle communale.
+> « Les communes lucernoises jouissent d'une autonomie dans la fixation du multiplicateur fiscal communal. Le retrait de la compétence de fixer le multiplicateur fiscal communal viole l'autonomie communale et le principe de proportionnalité. »
 
-## II. Limites de l'autonomie organisationnelle par le droit fédéral de procédure pénale
+**BGE 135 I 28** du 12.12.2008 (consid. 5)
 
-### Droits des parties dans la procédure pénale
+Dans le domaine de la prévoyance professionnelle, le Tribunal fédéral a confirmé que les communes, en tant que porteurs autonomes de tâches publiques, sont en principe libres de créer leurs propres institutions de prévoyance ou de s'affilier à des institutions existantes. Une réglementation de droit cantonal qui prescrit l'affiliation obligatoire à une institution de prévoyance déterminée viole l'autonomie communale protégée par l'art. 47 Cst.
 
-**ATF 144 IV 240** — 14 juin 2018 (arrêt 6B_982/2017)
+> « Les communes sont habilitées à créer, pour l'exécution de la prévoyance professionnelle de leur personnel, leur propre institution de prévoyance ou à s'affilier à cette fin à une institution de prévoyance enregistrée [...]. Une réglementation de droit cantonal qui prescrit l'affiliation [...] à une institution de prévoyance déterminée est contraire au droit fédéral. »
 
-L'autonomie organisationnelle cantonale n'autorise pas les cantons à désigner des organisations de droit privé comme « autorités » au sens de l'art. 104 al. 2 CPP et à leur accorder des droits de partie. L'art. 47 al. 2 Cst. est limité par l'art. 123 Cst.
+### Rapport entre droit fédéral et droit cantonal
 
-> «Il est vrai que la Confédération respecte l'autonomie des cantons et leur laisse suffisamment de tâches propres, et respecte leur autonomie organisationnelle (cf. art. 47 Cst.). [...] Toutefois, les cantons ne peuvent pas édicter de dispositions qui contredisent le droit de la Confédération.»
+**BGE 148 I 33** du 3.9.2021 (consid. 5.2-5.4)
 
-La notion d'autorité à l'art. 104 al. 2 CPP doit en principe être comprise dans un sens restrictif et exige : (1) l'attribution d'une tâche de droit public, (2) des pouvoirs de souveraineté, (3) une surveillance étatique suffisante, (4) un financement étatique de l'activité de droit public.
+Le Tribunal fédéral a précisé la délimitation des compétences entre la Confédération et les cantons dans le domaine de la santé pendant la pandémie de COVID-19. Selon l'art. 49 al. 1 Cst., les cantons ne peuvent agir dans des domaines réglés de manière exhaustive que dans la mesure où cela est expressément prévu dans la législation fédérale. L'autonomie organisationnelle cantonale demeure cependant en principe maintenue.
 
-## III. Double imposition fiscale et autonomie cantonale
+> « Selon le principe de la primauté du droit fédéral (art. 49 al. 1 Cst.), les cantons ne peuvent plus exercer de compétences législatives dans les domaines que la législation fédérale a réglés de manière exhaustive, sauf si elles sont expressément prévues dans la législation fédérale pertinente. »
 
-### Répartition fiscale intercantonale
+**BGE 148 I 19** du 3.9.2021 (consid. 5)
 
-**ATF 148 I 65** — 28 juillet 2021
+Dans une autre décision COVID-19, le Tribunal fédéral a réaffirmé l'importance de la liberté de mise en œuvre cantonale dans le cadre de conditions fixées par le droit fédéral. Les cantons conservent une certaine marge de manœuvre même en cas de réglementations fédérales étendues, mais celle-ci ne peut pas être utilisée pour contourner les prescriptions du droit fédéral.
 
-L'autonomie des cantons en matière fiscale est limitée par l'interdiction de la double imposition intercantonale (art. 127 al. 3 Cst.). Les cantons doivent appliquer des critères d'évaluation uniformes lors de la répartition fiscale.
+### Coopération intercantonale
 
-> «Pour le transfert des dettes, l'actif doit aussi être évalué selon des règles uniformes pour l'impôt sur la fortune. Il faut se référer aux facteurs de répartition de la Conférence suisse des impôts CSI.»
+**BGE 148 I 65** du 28.7.2021 (consid. 3-4)
 
-La hiérarchie fonctionnelle entre le droit fiscal cantonal et intercantonal limite la souveraineté fiscale cantonale en faveur de l'unité du droit dans l'État fédéral.
+En matière de répartition fiscale intercantonale, le Tribunal fédéral a concrétisé l'obligation d'accomplissement coordonné des tâches. L'art. 127 al. 3 Cst. interdit la double imposition intercantonale et exige des cantons une application coordonnée de leur souveraineté fiscale. Cela montre que l'autonomie cantonale va de pair avec l'obligation de coordination.
 
-## IV. Mesures COVID-19 et autonomie organisationnelle
+> « Principes du droit de la double imposition intercantonale et interdiction de fait de la double imposition intercantonale en matière d'impôts sur le capital. »
 
-### Autonomie cantonale d'exécution en droit des épidémies
+**BGE 150 II 527** du 18.7.2024 (consid. 4-5)
 
-**ATF 148 I 33** — 3 septembre 2021
-
-Les cantons disposent d'une autonomie organisationnelle lors de la concrétisation des prescriptions fédérales en droit des épidémies, mais doivent respecter les droits fondamentaux. L'ordonnance cantonale du canton de Berne qui limitait le nombre de participants aux manifestations à 15 personnes constituait une grave atteinte à la liberté de réunion.
-
-**ATF 148 I 19** — 3 septembre 2021
-
-La réglementation uranaise avec une limitation à 300 personnes pour les manifestations a été jugée proportionnée. Cela montre la marge de manœuvre des cantons lors de la mise en œuvre des prescriptions du droit fédéral dans le cadre de leur autonomie organisationnelle.
-
-## V. Développements récents
-
-### Répartition fiscale intercommunale
-
-**ATF 150 II 527** — 18 juillet 2024
-
-L'évaluation des biens-fonds utilisés à des fins agricoles ou sylvicoles lors de la répartition fiscale intercantonale est soumise à l'interdiction de traitement défavorable et au principe d'égalité de traitement. Les cantons doivent appliquer des critères uniformes lors de la répartition des facteurs fiscaux.
-
-Le principe de légalité et l'interdiction de la double imposition intercantonale fixent des limites étroites à l'autonomie fiscale cantonale, sans toutefois la supprimer entièrement.
+Le Tribunal fédéral a souligné une nouvelle fois l'importance de principes uniformes dans la répartition fiscale intercantonale. La souveraineté fiscale cantonale doit s'exercer de manière à respecter les prescriptions constitutionnelles visant à éviter la double imposition. Cela illustre le champ de tension entre l'autonomie cantonale et les obligations de coordination du droit fédéral.

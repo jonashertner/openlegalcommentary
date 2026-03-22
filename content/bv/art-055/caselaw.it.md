@@ -1,33 +1,37 @@
+# Art. 55 Cost. — Partecipazione dei Cantoni alle decisioni di politica estera
+
 ## Giurisprudenza
 
-### Constatazione generale sulla situazione giurisprudenziale
+### Osservazioni generali
 
-L'art. 55 Cost. sulla partecipazione dei Cantoni alla politica estera non è ancora stato oggetto di giurisprudenza della suprema istanza giudiziaria dall'entrata in vigore della nuova Costituzione federale il 1° gennaio 2000. Il Tribunale federale non ha ancora avuto l'occasione di precisare la portata e le modalità concrete dei diritti di partecipazione cantonali nelle decisioni di politica estera.
+La giurisprudenza relativa all'art. 55 Cost. è estremamente scarsa. Ciò si spiega con il fatto che l'art. 55 Cost. nella sua formulazione attuale (partecipazione dei Cantoni alla politica estera) è stato introdotto solo con la revisione totale della Costituzione federale del 1999. La maggior parte delle decisioni più datate, citate sotto «Art. 55 Cost.», riguardano il diritto alla libertà di stampa (art. 55 aCost.), oggi disciplinato dall'art. 17 Cost.
 
-### Giurisprudenza correlata sui rapporti Confederazione-Cantoni
+L'art. 55 Cost. codifica principalmente obblighi procedurali della Confederazione nei confronti dei Cantoni e non contiene diritti soggettivi azionabili in giudizio. I diritti di partecipazione sono concretizzati principalmente dall'ordinanza sulla partecipazione (OPart; RS 158.1) e attuati nella prassi amministrativa. Le controversie giudiziarie sono pertanto rare.
 
-**DTF 129 II 193** del 21 febbraio 2003  
-Divieto d'entrata per motivi di salvaguardia degli interessi del Paese  
-Il Tribunale federale ha confermato la competenza globale della Confederazione in materia di politica estera e ha stabilito che le decisioni del Consiglio federale concernenti i divieti d'entrata e le misure politiche nei confronti di stranieri non sottostanno in principio al ricorso di diritto amministrativo.
+### Politica estera cantonale e competenze federali
 
-> «La politica estera appartiene alle competenze esclusive della Confederazione. Il Consiglio federale è dotato in questo settore di ampie attribuzioni che può fondare direttamente sulla Costituzione federale.»
+**DTF 125 I 227 consid. 5** (21 aprile 1999)  
+Iniziativa cantonale «Genève, République de Paix»: limiti delle attività cantonali nell'ambito della politica estera.  
+Il Tribunale federale ha confermato la competenza federale di principio in materia di politica estera, ma ha ammesso attività cantonali limitate.
 
-**DTF 122 I 70** del 1° gennaio 1996  
-Delimitazione delle competenze tra Confederazione e Cantoni  
-La decisione concerneva l'aviazione, ma contiene affermazioni di principio sulla delimitazione delle competenze: la Confederazione ha competenze globali, ma non esclusive nei suoi settori di competenza. I Cantoni rimangono competenti per le questioni giuridiche che la Confederazione non ha disciplinato in modo definitivo.
+> «In caso di interpretazione restrittiva, la disposizione dell'iniziativa, che prevede un intervento del Cantone presso le ‹istituzioni internazionali›, non viola le competenze della Confederazione in materia di politica estera. La disposizione deve essere intesa nel senso che consente al Cantone di agire solo laddove dispone già delle competenze corrispondenti o dove la sua azione si muove nel quadro delle competenze accordategli dalla Costituzione federale.»
 
-> «L'art. 37ter Cost. conferisce alla Confederazione una competenza globale, ma non esclusiva nel settore dell'aviazione. I Cantoni rimangono competenti per le questioni giuridiche che la Confederazione non ha disciplinato in modo definitivo.»
+Questa decisione precisa i limiti della politica estera cantonale prima dell'entrata in vigore dell'attuale art. 55 Cost. e mostra le tensioni tra gli interessi cantonali e le competenze federali. La sentenza è rilevante anche dopo il 1999 per l'interpretazione dell'art. 55 Cost., poiché chiarisce i limiti costituzionali della politica estera cantonale.
 
-### Giurisprudenza sulla competenza residuale cantonale
+### Aspetti di diritto procedurale
 
-**DTF 125 II 152** del 1° gennaio 1999  
-Delimitazione delle competenze federali e cantonali  
-Il Tribunale federale ha stabilito che i Cantoni non hanno diritto alla continuazione di pratiche precedenti quando la Confederazione riordina le sue competenze.
+Le poche decisioni di diritto procedurale si occupano dell'attuazione pratica dei diritti di partecipazione in ambiti specifici. Tuttavia non esistono decisioni DTF pubblicate che trattino direttamente la violazione dei diritti di informazione o partecipazione secondo l'art. 55 Cost.
 
-> «Non sussiste alcun diritto dei Cantoni alla continuazione della prassi precedente di omologazione degli apparecchi automatici da gioco, quando il Consiglio federale esercita la sua competenza in questo settore in modo nuovo.»
+### Prassi amministrativa
 
-### Significato pratico dell'assenza di giurisprudenza
+L'attuazione dell'art. 55 Cost. avviene principalmente a livello amministrativo attraverso:
+- Procedure di consultazione per i trattati di diritto internazionale
+- Consultazioni nelle questioni dell'UE  
+- Informazione sui negoziati internazionali
+- Partecipazione negli ambiti di competenza cantonale
 
-L'assenza di giurisprudenza specifica sull'art. 55 Cost. indica che i diritti di partecipazione cantonali in materia di politica estera sono stati finora attuati senza conflitti. La partecipazione avviene principalmente attraverso procedure istituzionalizzate come la consultazione dei Cantoni sui trattati internazionali e l'integrazione dei rappresentanti cantonali nei negoziati internazionali, senza che si siano verificate controversie giusticiabili.
+Questa prassi finora non ha portato a significative controversie giudiziarie, il che indica una cooperazione sostanzialmente funzionante tra Confederazione e Cantoni.
 
-L'assenza di giurisprudenza può essere ricondotta anche al fatto che l'art. 55 Cost. accorda principalmente diritti procedurali, la cui violazione è difficilmente dimostrabile e che difficilmente conducono a pretese individualmente azionabili.
+### Conclusione
+
+L'art. 55 Cost. è un esempio classico di norme cooperativo-federaliste che dispiegano la loro efficacia principalmente nei processi politici e amministrativi. Il numero ridotto di decisioni giudiziarie riflette il carattere prevalentemente procedurale della disposizione. Una giurisprudenza futura è immaginabile in caso di conflitti sulla portata degli obblighi di informazione o in caso di insufficiente considerazione delle prese di posizione cantonali.

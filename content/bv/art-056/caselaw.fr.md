@@ -1,55 +1,39 @@
+# Art. 56 Cst. — Relations des cantons avec l'étranger
+
 ## Jurisprudence
 
-### Compétence cantonale de conclusion de traités et coopération intercantonale
+### Traités cantonaux avec des partenaires étrangers
 
-**Arrêt 8C_501/2016 du 19 décembre 2017 consid. 1.2**
+**ATF 150 III 268** (29 avril 2024) — Validité de traités cantonaux historiques
 
-La Commission de recours de l'École supérieure technique interétatique de Buchs (NTB) confirme le fondement constitutionnel des traités cantonaux avec l'étranger.
+La convention du 11 mai 1834 entre cantons suisses et le Royaume de Bavière concernant le traitement égal des ressortissants respectifs en matière de faillite n'a pas été abrogée par la LDIP adoptée ultérieurement. La convention sur la faillite ne nécessite pas, dans son domaine d'application, une reconnaissance du jugement de faillite étranger selon l'art. 166 LDIP. L'arrêt confirme la validité continue des traités cantonaux historiques avec l'étranger, pour autant qu'ils n'aient pas été expressément abrogés.
 
-Le Tribunal fédéral précise que la convention constitutive de la NTB constitue un traité de droit international conclu entre les cantons de Saint-Gall et des Grisons et la Principauté de Liechtenstein. La compétence cantonale de conclure de tels traités est expressément confirmée :
+> « La convention sur la faillite avec le Royaume de Bavière n'a pas été abrogée par la LDIP adoptée ultérieurement et ne nécessite pas, dans son domaine d'application, une reconnaissance du jugement de faillite étranger selon l'art. 166 LDIP. »
 
-> «Cette convention constitutive est un traité de droit international que les cantons suisses de Saint-Gall et des Grisons ont conclu avec la Principauté de Liechtenstein. Les cantons étaient compétents pour ce faire (cf. art. 9 de la Constitution fédérale de la Confédération suisse du 29 mai 1874 ; correspond aujourd'hui à l'art. 56 Cst.).»
+**Arrêt 8C_501/2016** (19 décembre 2017) — Collaboration intercantonale avec des États étrangers
 
-### Traités internationaux cantonaux de validité continue
+La convention de fondation de la Haute école technique de Buchs entre les cantons de Saint-Gall et des Grisons avec la Principauté de Liechtenstein constitue un traité de droit international au sens de l'art. 56 Cst. Les cantons étaient habilités à conclure de tels traités sous l'ancienne Constitution fédérale. La nouvelle Constitution a confirmé cette compétence et a remplacé l'obligation d'approbation par une obligation d'information.
 
-**ATF 150 III 268 consid. 4.4-4.6 du 29 avril 2024**
+> « Cette convention de fondation constitue un traité de droit international que les cantons suisses de Saint-Gall et des Grisons ont conclu avec la Principauté de Liechtenstein. Les cantons étaient habilités à cet effet. »
 
-L'accord de 1834 avec le Royaume de Bavière illustre la continuité historique des traités cantonaux avec l'étranger.
+### Coopération transfrontalière
 
-Le Tribunal fédéral confirme que les traités cantonaux historiques avec des États étrangers conservent leur validité, pour autant qu'ils n'aient pas été expressément abrogés. La convention sur les faillites avec la Bavière du XIXe siècle reste en vigueur :
+**JAAC 70.47** (22 août 2005) — Cadre institutionnel de la coopération transfrontalière
 
-> «La convention sur les faillites avec le Royaume de Bavière n'a pas été abrogée par la LDIP adoptée ultérieurement et ne rend pas nécessaire, dans son champ d'application, une reconnaissance du décret de faillite étranger selon l'art. 166 LDIP.»
+La Direction du droit international confirme la large autonomie des cantons en matière de coopération transfrontalière. Les cantons peuvent conclure avec l'étranger, dans le cadre de leurs domaines de compétence, des traités qui ne doivent plus être approuvés par le Conseil fédéral selon la nouvelle Constitution fédérale. Les cantons doivent cependant informer la Confédération avant la conclusion des traités. Les cantons peuvent conclure directement des traités avec des autorités étrangères subordonnées, mais seulement par l'intermédiaire de la Confédération avec les autorités centrales ou fédérales.
 
-### Concordats intercantonaux et lien avec l'étranger
+> « Les cantons peuvent conclure avec l'étranger, dans le cadre de leurs domaines de compétence, des traités qui ne doivent plus être approuvés par le Conseil fédéral selon la nouvelle Constitution fédérale. Les cantons doivent cependant informer la Confédération avant la conclusion des traités. »
 
-**ATF 122 I 85 consid. 2 du 11 septembre 1996**
+**JAAC 52.18** (24 avril 1987) — Bases légales de la coopération transfrontalière
 
-Le concordat sur l'entraide judiciaire et la coopération intercantonale en matière pénale montre la mise en œuvre pratique des relations extérieures cantonales dans le contexte européen.
+La Convention-cadre européenne du 20 mai 1981 sur la coopération transfrontalière des collectivités ou autorités territoriales oblige les parties contractantes à faciliter et promouvoir la coopération transfrontalière entre collectivités territoriales. Les cantons font de plus en plus usage de leur compétence en matière de coopération transfrontalière.
 
-Le Tribunal fédéral reconnaît que les conventions intercantonales ayant un lien avec l'étranger font partie des compétences cantonales, notamment lorsqu'elles servent à la mise en œuvre d'obligations de droit international :
+> « La Convention-cadre européenne du 20 mai 1981 sur la coopération transfrontalière des collectivités ou autorités territoriales oblige les parties contractantes à faciliter et promouvoir la coopération transfrontalière entre collectivités territoriales. »
 
-> «Sous l'angle de la CEEJ, les dispositions du concordat constituent pour la Suisse, en tant qu'État requis, une partie des formes prévues par les dispositions juridiques nationales mentionnées à l'art. 3 ch. 1 CEEJ pour traiter les demandes d'entraide judiciaire.»
+### Délimitation par rapport aux autres dispositions constitutionnelles
 
-### Pratique historique de la politique extérieure cantonale
+La jurisprudence relative à l'art. 56 Cst. ne fait apparaître aucun conflit avec d'autres dispositions constitutionnelles. Les rares décisions confirment plutôt l'ordre constitutionnel de la politique extérieure cantonale. L'application pratique de l'art. 56 Cst. s'effectue principalement dans le domaine de la coopération transfrontalière, sans soulever de questions juridiques fondamentales.
 
-**ATF 73 I 47 du 27 juin 1946**
+### Évolution du droit
 
-Confirmation fondamentale de la compétence cantonale de conclure des traités dans leurs domaines de compétence sous l'ancienne Constitution fédérale.
-
-Le Tribunal fédéral a déjà établi sous l'art. 9 aCst. (correspond aujourd'hui à l'art. 56 Cst.) que les cantons sont habilités, dans leurs domaines de compétence, à conclure des traités avec l'étranger. Cette jurisprudence a formé la base de l'interprétation moderne de l'art. 56 Cst.
-
-### Limites de la compétence cantonale de conclusion de traités
-
-**ATF 53 I 351 de 1927**
-
-Jurisprudence précoce sur les limites constitutionnelles des réglementations cantonales ayant un lien avec l'étranger.
-
-Le Tribunal fédéral a examiné la compatibilité des mesures cantonales avec le droit supérieur et a développé les principes qui sont aujourd'hui codifiés à l'art. 56 al. 2 Cst. La décision illustre la nécessité de respecter le droit fédéral et les intérêts fédéraux dans les relations extérieures cantonales.
-
-### Délimitation par rapport aux autorités subordonnées
-
-**ATF 60 I 213 du 18 août 1933**
-
-Délimitation historique entre les relations directes avec les autorités étrangères subordonnées et les traités formels de droit international.
-
-Le Tribunal fédéral a distingué précocement entre les relations administratives directes des cantons avec les autorités étrangères subordonnées (aujourd'hui art. 56 al. 3 Cst.) et la compétence formelle de conclusion de traités. Cette différenciation marque l'application moderne de cette disposition.
+La jurisprudence relative à l'art. 56 Cst. est clairsemée, ce qui témoigne de l'ordre clair des compétences et de l'aménagement praticable de la norme. Les rares décisions disponibles montrent une évolution continue de l'obligation d'approbation sous l'ancienne Constitution vers l'obligation d'information sous la nouvelle Constitution. Les cantons utilisent leurs compétences élargies notamment dans le domaine de la coopération transfrontalière, sans que cela ne conduise à des problèmes de droit constitutionnel.

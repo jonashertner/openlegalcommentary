@@ -1,55 +1,39 @@
+# Art. 56 BV — Beziehungen der Kantone mit dem Ausland
+
 ## Rechtsprechung
 
-### Kantonale Vertragsschlusskompetenz und interkantonale Zusammenarbeit
+### Kantonale Verträge mit ausländischen Partnern
 
-**Urteil 8C_501/2016 vom 19. Dezember 2017 E. 1.2**
+**BGE 150 III 268** (29. April 2024) — Gültigkeit historischer Kantonsverträge
 
-Die Rekurskommission der Interstaatlichen Hochschule für Technik Buchs (NTB) bestätigt die verfassungsrechtliche Grundlage für kantonale Verträge mit dem Ausland.
-
-Das Bundesgericht hält fest, dass die Gründungsvereinbarung der NTB einen völkerrechtlichen Vertrag zwischen den Kantonen St. Gallen und Graubünden mit dem Fürstentum Liechtenstein darstellt. Die kantonale Befugnis zum Abschluss solcher Verträge wird ausdrücklich bestätigt:
-
-> «Bei dieser Gründungsvereinbarung handelt es sich um einen völkerrechtlichen Vertrag, welchen die schweizerischen Kantone St. Gallen und Graubünden mit dem Fürstentum Liechtenstein abgeschlossen haben. Hiezu waren die Kantone befugt (vgl. Art. 9 der Bundesverfassung der Schweizerischen Eidgenossenschaft vom 29. Mai 1874; entspricht heute Art. 56 BV).»
-
-### Fortgeltende völkerrechtliche Verträge der Kantone
-
-**BGE 150 III 268 E. 4.4-4.6 vom 29. April 2024**
-
-Die Übereinkunft von 1834 mit dem Königreich Bayern illustriert die historische Kontinuität kantonaler Verträge mit dem Ausland.
-
-Das Bundesgericht bestätigt, dass historische kantonale Verträge mit ausländischen Staaten ihre Gültigkeit behalten, sofern sie nicht ausdrücklich aufgehoben wurden. Die Konkursübereinkunft mit Bayern aus dem 19. Jahrhundert gilt weiterhin:
+Die Übereinkunft vom 11. Mai 1834 zwischen schweizerischen Kantonen und dem Königreich Bayern über gleichmässige Behandlung der gegenseitigen Staatsangehörigen in Konkursfällen ist durch das später erlassene IPRG nicht ausser Kraft gesetzt worden. Die Konkursübereinkunft macht in ihrem Anwendungsbereich eine Anerkennung des ausländischen Konkursdekretes nach Art. 166 IPRG nicht notwendig. Das Urteil bestätigt die Fortgeltung historischer kantonaler Verträge mit dem Ausland, sofern sie nicht ausdrücklich aufgehoben wurden.
 
 > «Die Konkursübereinkunft mit dem Königreich Bayern ist durch das später erlassene IPRG nicht ausser Kraft gesetzt worden und macht in ihrem Anwendungsbereich eine Anerkennung des ausländischen Konkursdekretes nach Art. 166 IPRG nicht notwendig.»
 
-### Interkantonale Konkordate und Auslandbezug
+**Urteil 8C_501/2016** (19. Dezember 2017) — Interkantonale Zusammenarbeit mit ausländischen Staaten
 
-**BGE 122 I 85 E. 2 vom 11. September 1996**
+Die Gründungsvereinbarung über die Hochschule für Technik Buchs zwischen den Kantonen St. Gallen und Graubünden mit dem Fürstentum Liechtenstein ist ein völkerrechtlicher Vertrag im Sinne von Art. 56 BV. Kantone waren nach der alten Bundesverfassung befugt, solche Verträge abzuschliessen. Die neue Verfassung hat diese Kompetenz bestätigt und die Genehmigungspflicht durch eine Informationspflicht ersetzt.
 
-Das Konkordat über die Rechtshilfe und die interkantonale Zusammenarbeit in Strafsachen zeigt die praktische Umsetzung kantonaler Aussenbeziehungen im europäischen Kontext.
+> «Bei dieser Gründungsvereinbarung handelt es sich um einen völkerrechtlichen Vertrag, welchen die schweizerischen Kantone St. Gallen und Graubünden mit dem Fürstentum Liechtenstein abgeschlossen haben. Hiezu waren die Kantone befugt.»
 
-Das Bundesgericht anerkennt, dass interkantonale Vereinbarungen mit Auslandsbezug Teil der kantonalen Zuständigkeiten sind, insbesondere wenn sie der Umsetzung völkerrechtlicher Verpflichtungen dienen:
+### Grenzüberschreitende Zusammenarbeit
 
-> «Unter dem Aspekt des EUeR stellen die Konkordatsbestimmungen für die Schweiz als ersuchter Staat einen Teil der zur Erledigung der Rechtshilfeersuchen in Art. 3 Ziff. 1 EUeR erwähnten, von den nationalen Rechtsvorschriften vorgesehenen Formen dar.»
+**JAAC 70.47** (22. August 2005) — Institutioneller Rahmen der grenzüberschreitenden Zusammenarbeit
 
-### Historische Praxis kantonaler Aussenpolitik
+Die Direktion für Völkerrecht bestätigt die weite Autonomie der Kantone bei der grenzüberschreitenden Zusammenarbeit. Kantone können im Rahmen ihrer Zuständigkeitsbereiche mit dem Ausland Verträge schliessen, die nach der neuen Bundesverfassung vom Bundesrat nicht mehr genehmigt werden müssen. Die Kantone haben jedoch den Bund vor Abschluss der Verträge zu informieren. Verträge mit untergeordneten ausländischen Behörden können die Kantone direkt abschliessen, mit Zentral- bzw. Bundesbehörden dagegen nur durch Vermittlung des Bundes.
 
-**BGE 73 I 47 vom 27. Juni 1946**
+> «Die Kantone können im Rahmen ihrer Zuständigkeitsbereiche mit dem Ausland Verträge schliessen, die nach der neuen Bundesverfassung vom Bundesrat nicht mehr genehmigt werden müssen. Die Kantone haben jedoch den Bund vor Abschluss der Verträge zu informieren.»
 
-Grundlegende Bestätigung der kantonalen Zuständigkeit für Verträge in ihren Kompetenzbereichen unter der alten Bundesverfassung.
+**JAAC 52.18** (24. April 1987) — Rechtliche Grundlagen der grenzüberschreitenden Zusammenarbeit
 
-Das Bundesgericht stellte bereits unter Art. 9 aBV (entspricht heute Art. 56 BV) fest, dass die Kantone in ihren Zuständigkeitsbereichen befugt sind, mit dem Ausland Verträge zu schliessen. Diese Rechtsprechung bildete die Grundlage für die moderne Interpretation von Art. 56 BV.
+Das Europäische Rahmenübereinkommen vom 20. Mai 1981 über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften oder Behörden verpflichtet die Vertragsparteien, die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften zu erleichtern und zu fördern. Die Kantone machen von ihrer Kompetenz zur grenzüberschreitenden Zusammenarbeit vermehrt Gebrauch.
 
-### Grenzen der kantonalen Vertragsschlusskompetenz
+> «Das Europäische Rahmenübereinkommen vom 20. Mai 1981 über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften oder Behörden verpflichtet die Vertragsparteien, die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften zu erleichtern und zu fördern.»
 
-**BGE 53 I 351 vom 1927**
+### Abgrenzung zu anderen Verfassungsbestimmungen
 
-Frühe Rechtsprechung zu den verfassungsrechtlichen Grenzen kantonaler Regelungen mit Auslandsbezug.
+In der Rechtsprechung zu Art. 56 BV zeigen sich keine Konflikte mit anderen Verfassungsbestimmungen. Die wenigen Entscheide bestätigen vielmehr die verfassungsmässige Ordnung der kantonalen Aussenpolitik. Die praktische Anwendung von Art. 56 BV erfolgt vorwiegend im Bereich der grenzüberschreitenden Zusammenarbeit, ohne dass grundsätzliche Rechtsfragen aufgeworfen würden.
 
-Das Bundesgericht prüfte die Vereinbarkeit kantonaler Massnahmen mit übergeordnetem Recht und entwickelte die Grundsätze, die heute in Art. 56 Abs. 2 BV kodifiziert sind. Die Entscheidung illustriert die Notwendigkeit der Wahrung von Bundesrecht und -interessen bei kantonalen Aussenbeziehungen.
+### Rechtsentwicklung
 
-### Abgrenzung zu untergeordneten Behörden
-
-**BGE 60 I 213 vom 18. August 1933**
-
-Historische Abgrenzung zwischen dem direkten Verkehr mit untergeordneten ausländischen Behörden und förmlichen völkerrechtlichen Verträgen.
-
-Das Bundesgericht unterschied bereits früh zwischen dem direkten administrativen Verkehr der Kantone mit untergeordneten ausländischen Behörden (heute Art. 56 Abs. 3 BV) und der förmlichen Vertragsschlusskompetenz. Diese Differenzierung prägt die moderne Anwendung der Bestimmung.
+Die Rechtsprechung zu Art. 56 BV ist spärlich, was auf die klare Kompetenzordnung und die praktikable Ausgestaltung der Norm hindeutet. Die wenigen verfügbaren Entscheide zeigen eine kontinuierliche Entwicklung von der Genehmigungspflicht unter der alten Verfassung hin zur Informationspflicht unter der neuen Verfassung. Die Kantone nutzen ihre erweiterten Kompetenzen insbesondere im Bereich der grenzüberschreitenden Zusammenarbeit, ohne dass dies zu verfassungsrechtlichen Problemen führt.
