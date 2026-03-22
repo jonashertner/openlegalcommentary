@@ -25,7 +25,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
   <dt>Ebene 3 — Rechtsprechung</dt>
   <dd>Vollständige BGE-Übersicht aus der opencaselaw.ch-Datenbank (956'000+ Entscheide). Thematisch gruppiert, nach Wichtigkeit geordnet. Pro Entscheid: BGE-Referenz, Datum, Kernaussage, Relevanz, Blockzitat der entscheidenden Passage.</dd>
 </dl>
-<p>Die Doktrin-Ebene wird mit strukturierten Referenzdaten aus dem Basler Kommentar (BSK) angereichert. Ein zweistufiges Extraktionsverfahren (PDF-Extraktion → KI-gestützte Strukturierung) identifiziert Autorinnen/Autoren, Randziffern, doktrinäre Positionen und Kontroversen. Diese Daten fliessen als Kontext in die Generierung ein.</p>`
+<p>Die Doktrin-Ebene wird mit strukturierten Referenzdaten aus der massgeblichen Kommentarliteratur angereichert. Autorinnen/Autoren, Randziffern, doktrinäre Positionen und Kontroversen fliessen als Kontext in die Generierung ein.</p>`
       },
       {
         heading: 'Qualitätsbewertung',
@@ -34,7 +34,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
 <h3>Unverhandelbare Kriterien (binär)</h3>
 <p>Ein einziges Nichterfüllen führt zur Ablehnung:</p>
 <ol>
-  <li><strong>Keine unbelegten Rechtsaussagen</strong> — Jede Aussage über geltendes Recht muss mit einer Primärquelle belegt sein. Bei BSK/CR-Referenzdaten müssen zitierte Autorinnen/Autoren und Randziffern übereinstimmen.</li>
+  <li><strong>Keine unbelegten Rechtsaussagen</strong> — Jede Aussage über geltendes Recht muss mit einer Primärquelle belegt sein. Zitierte Autorinnen/Autoren und Randziffern müssen mit den Referenzdaten übereinstimmen.</li>
   <li><strong>Keine faktischen Fehler</strong> — Zitierte Leitsätze und Holdings müssen mit den tatsächlichen Entscheiden übereinstimmen.</li>
   <li><strong>Keine fehlenden Leitentscheide</strong> — Alle auf opencaselaw verfügbaren BGE zum Artikel müssen erscheinen.</li>
   <li><strong>Korrekte Legalbegriffe</strong> — Rechtsbegriffe müssen mit dem SR-Text übereinstimmen.</li>
@@ -94,7 +94,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
         body: `<ul>
   <li><strong>Gesetzestexte:</strong> <a href="https://www.fedlex.admin.ch" target="_blank" rel="noopener">Fedlex</a> (Systematische Rechtssammlung)</li>
   <li><strong>Rechtsprechung:</strong> <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a> (956'000+ Entscheide, 8.77 Mio. Zitierverbindungen)</li>
-  <li><strong>Doktrin-Referenzen:</strong> Basler Kommentar (BSK), strukturiert extrahiert</li>
+  <li><strong>Doktrin-Referenzen:</strong> Massgebliche Kommentarliteratur, strukturiert aufbereitet</li>
   <li><strong>KI-Modell:</strong> Claude (Anthropic)</li>
 </ul>`
       },
@@ -119,7 +119,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
   <dt>Layer 3 — Case Law</dt>
   <dd>Complete digest of Federal Supreme Court decisions from the opencaselaw.ch database (956,000+ decisions). Grouped by topic, ordered by importance. For each decision: BGE reference, date, core holding, relevance, block quote of the decisive passage.</dd>
 </dl>
-<p>The doctrine layer is enriched with structured reference data from the Basler Kommentar (BSK). A two-stage extraction process (PDF extraction → AI-assisted structuring) identifies authors, marginal numbers, doctrinal positions, and controversies. This data flows into the generation as context.</p>`
+<p>The doctrine layer is enriched with structured reference data from leading commentary literature. Authors, marginal numbers, doctrinal positions, and controversies flow into the generation as context.</p>`
       },
       {
         heading: 'Quality Evaluation',
@@ -128,7 +128,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
 <h3>Non-Negotiable Criteria (binary)</h3>
 <p>A single failure leads to rejection:</p>
 <ol>
-  <li><strong>No unsourced legal claims</strong> — Every statement about applicable law must be supported by a primary source. When BSK/CR reference data is provided, cited authors and marginal numbers must match.</li>
+  <li><strong>No unsourced legal claims</strong> — Every statement about applicable law must be supported by a primary source. Cited authors and marginal numbers must match the reference data.</li>
   <li><strong>No factual errors</strong> — Cited holdings must match the actual decisions.</li>
   <li><strong>No missing leading cases</strong> — All BGE available on opencaselaw for the article must appear.</li>
   <li><strong>Correct legal terminology</strong> — Legal terms must match the SR text.</li>
@@ -171,7 +171,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
         body: `<ul>
   <li><strong>Statute texts:</strong> <a href="https://www.fedlex.admin.ch" target="_blank" rel="noopener">Fedlex</a> (Classified Compilation)</li>
   <li><strong>Case law:</strong> <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a> (956,000+ decisions, 8.77M citation edges)</li>
-  <li><strong>Doctrine references:</strong> Basler Kommentar (BSK), structurally extracted</li>
+  <li><strong>Doctrine references:</strong> Leading commentary literature, structurally processed</li>
   <li><strong>AI model:</strong> Claude (Anthropic)</li>
 </ul>`
       },
@@ -184,7 +184,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
 <ul>
   <li><strong>System prompt:</strong> Global authoring guidelines + law-specific guidelines (key commentaries, cross-reference patterns, special procedural notes for each law)</li>
   <li><strong>Article text:</strong> The full statutory text from Fedlex, injected directly into the prompt</li>
-  <li><strong>BSK/CR reference data:</strong> Structured extracts from the Basler Kommentar identifying authors, Randziffern, doctrinal positions, controversies, cross-references, and key literature for the specific article</li>
+  <li><strong>Doctrinal reference data:</strong> Structured extracts from leading commentary literature identifying authors, Randziffern, doctrinal positions, controversies, cross-references, and key literature for the specific article</li>
   <li><strong>Tool access:</strong> <code>find_leading_cases</code>, <code>search_decisions</code>, <code>get_case_brief</code>, <code>get_decision</code> (full text), <code>write_layer_content</code> — all via the opencaselaw MCP server</li>
 </ul>
 <p>The agent autonomously researches case law, reads full decision texts, and writes the commentary in a tool-use loop with up to 25 turns per layer.</p>
@@ -193,18 +193,13 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
 <p>A separate evaluator agent receives the generated text and independently verifies it:</p>
 <ul>
   <li><strong>Read-only tools:</strong> Can verify content against primary sources but cannot modify it</li>
-  <li><strong>BSK/CR cross-check:</strong> Verifies that cited BSK/CR authors and Randziffern actually appear in the reference data. Fabricated citations are rejected.</li>
+  <li><strong>Citation cross-check:</strong> Verifies that cited authors and Randziffern actually appear in the reference data. Fabricated citations are rejected.</li>
   <li><strong>Completeness check:</strong> Queries opencaselaw for all leading cases (BGE) on the article and verifies that every one appears in the case law layer</li>
 </ul>
 <p>The evaluator returns structured JSON: binary non-negotiable results, scored dimensions (0.0–1.0 each), blocking issues, and improvement suggestions. On rejection, the full feedback is passed back to the generator for the next attempt.</p>
 
-<h3>BSK/CR Reference Integration</h3>
-<p>A two-pass extraction pipeline grounds the commentary in established scholarship:</p>
-<ol>
-  <li><strong>Pass 1 — PDF extraction:</strong> PyMuPDF extracts raw text from BSK PDF volumes. Articles are identified by regex-based header splitting. For the Federal Constitution, individual per-article PDFs are processed.</li>
-  <li><strong>Pass 2 — AI-assisted structuring:</strong> Claude Sonnet processes the raw text in overlapping chunks and extracts structured data: authors with edition years, Randziffern maps, named doctrinal positions, identified controversies, cross-references, and key literature.</li>
-</ol>
-<p>This grounds the AI commentary in actual scholarly sources rather than generating citations from training data.</p>
+<h3>Doctrinal Reference Integration</h3>
+<p>Commentary literature is processed into structured reference data that flows into the generation pipeline. This includes authors with edition years, Randziffern maps, named doctrinal positions, identified controversies, cross-references, and key literature. This grounds the AI commentary in actual scholarly sources rather than generating citations from training data.</p>
 
 <h3>Cost Tracking and Resumability</h3>
 <p>Every API call is tracked with token-level cost estimation. The pipeline supports budget limits and crash-safe resumability — state is persisted after each article completion.</p>
@@ -240,7 +235,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
       { heading: 'Évaluation de la qualité', body: '<p>Chaque projet est évalué selon 5 critères non négociables (binaires) et 5 dimensions notées (précision ≥ 0.95, concision ≥ 0.90, accessibilité ≥ 0.90, pertinence ≥ 0.90, rigueur académique ≥ 0.95). Un seul critère non satisfait entraîne le rejet.</p>' },
       { heading: 'Processus de reprise', body: '<p>En cas de rejet, l\'agent de génération reçoit le feedback détaillé et produit une version améliorée. Maximum 3 tentatives, puis signalement pour révision manuelle.</p>' },
       { heading: 'Traduction', body: '<p>Les commentaires publiés sont traduits automatiquement en français, italien et anglais. La version allemande fait foi.</p>' },
-      { heading: 'Sources de données', body: '<p>Textes de loi : Fedlex. Jurisprudence : opencaselaw.ch (956\'000+ décisions). Références doctrinales : Basler Kommentar (BSK). Modèle IA : Claude (Anthropic).</p>' },
+      { heading: 'Sources de données', body: '<p>Textes de loi : Fedlex. Jurisprudence : opencaselaw.ch (956\'000+ décisions). Références doctrinales : littérature de commentaire de référence. Modèle IA : Claude (Anthropic).</p>' },
       { heading: 'Open source et licence', body: '<p>Code source sur <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a> (MIT). Contenu sous <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Dataset sur <a href="https://huggingface.co/datasets/openlegalcommentary/swiss-law-commentary" target="_blank" rel="noopener">HuggingFace</a>.</p>' }
     ]
   },
@@ -252,7 +247,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
       { heading: 'Valutazione della qualità', body: '<p>Ogni bozza viene valutata secondo 5 criteri non negoziabili (binari) e 5 dimensioni valutate (precisione ≥ 0.95, concisione ≥ 0.90, accessibilità ≥ 0.90, rilevanza ≥ 0.90, rigore accademico ≥ 0.95). Un singolo criterio non soddisfatto porta al rifiuto.</p>' },
       { heading: 'Processo di ripetizione', body: '<p>In caso di rifiuto, l\'agente di generazione riceve il feedback dettagliato e produce una versione migliorata. Massimo 3 tentativi, poi segnalazione per revisione manuale.</p>' },
       { heading: 'Traduzione', body: '<p>I commenti pubblicati vengono tradotti automaticamente in francese, italiano e inglese. La versione tedesca fa fede.</p>' },
-      { heading: 'Fonti dei dati', body: '<p>Testi di legge: Fedlex. Giurisprudenza: opencaselaw.ch (956\'000+ decisioni). Riferimenti dottrinali: Basler Kommentar (BSK). Modello IA: Claude (Anthropic).</p>' },
+      { heading: 'Fonti dei dati', body: '<p>Testi di legge: Fedlex. Giurisprudenza: opencaselaw.ch (956\'000+ decisioni). Riferimenti dottrinali: letteratura di commento di riferimento. Modello IA: Claude (Anthropic).</p>' },
       { heading: 'Open source e licenza', body: '<p>Codice sorgente su <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a> (MIT). Contenuti sotto <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Dataset su <a href="https://huggingface.co/datasets/openlegalcommentary/swiss-law-commentary" target="_blank" rel="noopener">HuggingFace</a>.</p>' }
     ]
   }
