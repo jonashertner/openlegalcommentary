@@ -132,7 +132,7 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
 <style>
   /* ===== Hero ===== */
   .hero {
-    padding: var(--space-8) 0 var(--space-6);
+    padding: var(--space-5) 0 var(--space-5);
     position: relative;
   }
 
@@ -340,7 +340,7 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
 
   /* ===== Open Access Section ===== */
   .open-section {
-    padding: var(--space-8) 0;
+    padding: var(--space-5) 0 var(--space-4);
     border-top: 1px solid var(--color-border);
   }
 
@@ -404,7 +404,7 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
 
   @media (max-width: 768px) {
     .hero {
-      padding: var(--space-6) 0 var(--space-5);
+      padding: var(--space-4) 0 var(--space-4);
     }
 
     .hero-stats {
@@ -439,6 +439,20 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
   @media (max-width: 640px) {
     .laws-grid {
       grid-template-columns: 1fr;
+    }
+
+    .hero-stats {
+      flex-wrap: wrap;
+      gap: var(--space-2) var(--space-3);
+      justify-content: flex-start;
+    }
+
+    .hero-stat {
+      min-width: 70px;
+    }
+
+    .hero-stat-divider {
+      display: none;
     }
   }
 
