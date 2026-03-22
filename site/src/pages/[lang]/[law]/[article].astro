@@ -71,6 +71,31 @@ const lastUpdated = Object.values(layerMeta)
 ---
 
 <Base title={articleDisplay} lang={lang} pagePath={`/${lawParam}/${articleSlug}`} description={`${t('footer.commentary', lang)}: ${articleDisplay}`}>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": `${articleDisplay} — ${translatedTitle}`,
+    "description": `${t('footer.commentary', lang)}: ${articleDisplay}`,
+    "inLanguage": lang,
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Open Legal Commentary",
+      "url": "https://openlegalcommentary.ch"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Open Legal Commentary",
+      "url": "https://openlegalcommentary.ch"
+    },
+    "about": {
+      "@type": "Legislation",
+      "name": lawInfo.name[lang],
+      "legislationIdentifier": `SR ${meta.sr_number}`,
+      "jurisdiction": "CH"
+    },
+    "dateModified": lastUpdated || undefined,
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+  })} />
   <Breadcrumb
     lang={lang}
     items={[
