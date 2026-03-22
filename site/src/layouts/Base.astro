@@ -69,6 +69,11 @@ const fullTitle = title === 'Home'
         if (saved) {
           document.documentElement.setAttribute('data-theme', saved);
         }
+        // Restore theme after View Transitions DOM swap
+        document.addEventListener('astro:after-swap', function() {
+          const t = localStorage.getItem('theme');
+          if (t) document.documentElement.setAttribute('data-theme', t);
+        });
       })();
     </script>
   </head>
