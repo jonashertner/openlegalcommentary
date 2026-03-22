@@ -1,59 +1,45 @@
-# Art. 76 — Doktrin
+# Doktrin
 
 ## 1. Entstehungsgeschichte
 
-**N. 1** Art. 76 BV überführte die Gewässerschutzartikel der alten Bundesverfassung (Art. 24bis und 24quater aBV) in die neue Verfassung. Die Botschaft vom 20. November 1996 über eine neue Bundesverfassung (BBl 1997 I 1) betonte, dass die Bestimmung die bestehenden Kompetenzen des Bundes im Wasserbereich zusammenfasst und systematisch gliedert. Die Neuformulierung sollte keine materiellen Änderungen bewirken, sondern die verschiedenen Aspekte der Wasserwirtschaft — von der Nutzung über den Schutz bis zur Gefahrenabwehr — in einem Artikel vereinen.
+**N. 1** Art. 76 BV geht auf Art. 24bis aBV zurück, der 1953 in die Bundesverfassung aufgenommen wurde. Die Bestimmung wurde im Rahmen der Totalrevision von 1999 inhaltlich weitgehend unverändert übernommen, jedoch systematisch neu gegliedert und sprachlich modernisiert (BBl 1997 I 1, 269 ff.). Die Botschaft des Bundesrates betont, dass die Kompetenzordnung zwischen Bund und Kantonen im Wasserbereich bewusst beibehalten wurde: «Die Kantone verfügen über die Gewässerhoheit und damit über die Wasservorkommen» (BBl 1997 I 270).
 
-**N. 2** Die verfassungsgeschichtliche Entwicklung zeigt eine schrittweise Ausweitung der Bundeskompetenzen: Zunächst erhielt der Bund 1897 nur die Oberaufsicht über die Wasserbaupolizei (Art. 24 aBV), dann 1908 die Kompetenz zur Wassernutzung (Art. 24bis aBV), 1953 den Gewässerschutz (Art. 24quater aBV) und 1975 die umfassende Kompetenz für den qualitativen und quantitativen Gewässerschutz. Die heutige Fassung trägt dieser historischen Schichtung Rechnung und ordnet die verschiedenen Teilkompetenzen systematisch.
+**N. 2** Die Revision von 1975 führte den Gewässerschutz als Bundesaufgabe ein, während die Wasserkraftnutzung bereits seit 1908 (Art. 24ter aBV) und der Wasserbau seit 1897 (Art. 24 aBV) in der Bundesverfassung verankert waren. Die heutige Fassung vereint diese historisch gewachsenen Kompetenzen in einer systematischen Gesamtregelung (Griffel, St. Galler Kommentar BV, Art. 76 N. 2).
 
 ## 2. Systematische Einordnung
 
-**N. 3** Art. 76 BV ist Teil des 4. Abschnitts über Umwelt und Raumplanung. Die Norm steht in engem Zusammenhang mit → Art. 74 BV (Umweltschutz) und → Art. 77 BV (Wald). Das Wasserrecht weist zudem Bezüge zu → Art. 89 BV (Energiepolitik) und → Art. 91 BV (Energietransport) auf, da Wasserkraft eine zentrale Rolle in der schweizerischen Energieversorgung spielt.
+**N. 3** Art. 76 BV bildet zusammen mit Art. 77 BV (Wald) das Herzstück der verfassungsrechtlichen Umweltnormen. Die Bestimmung steht in engem Zusammenhang mit → Art. 73 BV (Nachhaltigkeit), → Art. 74 BV (Umweltschutz) und → Art. 89 BV (Energiepolitik). Bei der Wasserkraftnutzung besteht eine Schnittstelle zu → Art. 90 BV bezüglich der Energieversorgung (Biaggini, BV-Kommentar, Art. 76 N. 1).
 
-**N. 4** Die Kompetenzverteilung folgt dem Prinzip der konkurrierenden Gesetzgebung: Der Bund erlässt Grundsätze und Rahmenvorschriften (Abs. 2 und 3), während die Kantone ihre traditionelle Gewässerhoheit behalten (Abs. 4). Diese dualistische Struktur prägt das gesamte schweizerische Wasserrecht und führt zu einem komplexen Zusammenspiel von Bundes- und Kantonsrecht.
+**N. 4** Die föderalistische Kompetenzaufteilung prägt Art. 76 BV: Während der Bund die Grundsätze festlegt (Abs. 2) und Vorschriften erlässt (Abs. 3), verbleiben die Wasservorkommen bei den Kantonen (Abs. 4). Diese duale Struktur spiegelt das Subsidiaritätsprinzip nach → Art. 5a BV wider (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, Art. 76 N. 8).
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
-### 3.1 Bundeskompetenzen (Abs. 1-3)
+**N. 5** **Wasservorkommen** umfassen alle ober- und unterirdischen Gewässer einschliesslich Quellen, Seen, Flüsse und Grundwasser. Der Begriff ist weit zu verstehen und schließt auch künftige Nutzungspotentiale ein (Waldmann/Belser/Epiney, BSK BV, Art. 76 N. 15). Die «haushälterische Nutzung» (Abs. 1) verlangt einen schonenden, nachhaltigen Umgang mit der Ressource Wasser im Sinne des Nachhaltigkeitsprinzips.
 
-**N. 5** Absatz 1 statuiert die allgemeine Bundeskompetenz für die haushälterische Nutzung und den Schutz der Wasservorkommen sowie für die Abwehr schädigender Einwirkungen. Der Begriff «haushälterische Nutzung» umfasst die nachhaltige Bewirtschaftung der Wasserressourcen unter Berücksichtigung ökologischer und ökonomischer Aspekte. «Wasservorkommen» bezeichnet alle ober- und unterirdischen Gewässer einschliesslich Grundwasser.
+**N. 6** Die **Grundsatzkompetenz** des Bundes (Abs. 2) ermächtigt zur Rahmengesetzgebung, überlässt aber den Vollzug und die Detailregelung den Kantonen. Die Aufzählung der Nutzungsarten (Energieerzeugung, Kühlzwecke) ist nicht abschliessend («sowie»). Der Bundesgesetzgeber hat diese Kompetenz mit dem WRG, GSchG und WBG umfassend ausgeschöpft (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N. 1098).
 
-**N. 6** Absatz 2 konkretisiert die Grundsatzkompetenz des Bundes für drei Bereiche: Erhaltung und Erschliessung der Wasservorkommen, Nutzung zur Energieerzeugung und für Kühlzwecke sowie andere Eingriffe in den Wasserkreislauf. Diese Aufzählung ist nicht abschliessend («sowie»), erfasst aber die wichtigsten Nutzungsarten.
-
-**N. 7** Absatz 3 nennt spezifische Regelungsbereiche: Gewässerschutz (qualitativ und quantitativ), Sicherung angemessener Restwassermengen, Wasserbau (Hochwasserschutz, Gewässerkorrektionen), Sicherheit der Stauanlagen und Beeinflussung der Niederschläge (Hagelabwehr, Regenfliegerei). Diese Kompetenzen sind umfassend und ermöglichen dem Bund detaillierte Vorschriften.
-
-### 3.2 Kantonale Gewässerhoheit (Abs. 4)
-
-**N. 8** Die Kantone «verfügen» über die Wasservorkommen — dies begründet die kantonale Gewässerhoheit als historisch gewachsenes Regal. Die Verfügungsbefugnis umfasst die Nutzung der Gewässer durch den Kanton selbst oder die Vergabe von Nutzungsrechten an Private mittels Konzession. Die kantonale Abgabenkompetenz ist durch die «Schranken der Bundesgesetzgebung» begrenzt, insbesondere durch das Wasserzinsmaximum.
-
-**N. 9** Das Nutzungsrecht des Bundes für seine Verkehrsbetriebe (Satz 3) stellt eine Ausnahme von der kantonalen Gewässerhoheit dar. Es ist abgabe- und entschädigungspflichtig, womit die vermögensrechtlichen Interessen der Kantone gewahrt bleiben.
-
-### 3.3 Sonderregelungen (Abs. 5-6)
-
-**N. 10** Absatz 5 regelt die Kompetenzen bei grenzüberschreitenden Gewässern: Bei internationalen Wasservorkommen entscheidet der Bund unter Beizug der betroffenen Kantone (Satz 1), bei interkantonalen Konflikten hat der Bund eine subsidiäre Entscheidungskompetenz (Satz 2). Diese Regelung trägt dem Umstand Rechnung, dass Gewässer nicht an politischen Grenzen haltmachen.
-
-**N. 11** Absatz 6 verpflichtet den Bund zur Berücksichtigung der Interessen der Herkunftskantone. Diese Rücksichtnahmepflicht konkretisiert den kooperativen Föderalismus im Wasserbereich und soll Nachteile für Gebirgskantone ausgleichen, die ihre Wasserressourcen zur Verfügung stellen.
+**N. 7** Die **Gewässerhoheit** der Kantone (Abs. 4) umfasst die Verfügungsbefugnis über die öffentlichen Gewässer auf ihrem Gebiet. Diese historisch gewachsene Hoheit beinhaltet das Recht zur Nutzung, zur Konzessionierung und zur Abgabenerhebung. Die kantonale Souveränität wird jedoch durch die Bundesgesetzgebung eingeschränkt («in den Schranken der Bundesgesetzgebung»), was insbesondere bei Umweltschutzvorschriften zum Tragen kommt (Rhinow/Schefer/Uebersax, Verfassungsrecht, N. 3456).
 
 ## 4. Rechtsfolgen
 
-**N. 12** Die Bestimmung begründet verschiedene Gesetzgebungskompetenzen des Bundes, die dieser mit dem Gewässerschutzgesetz (GSchG), dem Wasserbaugesetz (WBG), der Wasserrechtsgesetzgebung (WRG) und weiteren Erlassen ausgeübt hat. Die kantonale Gewässerhoheit bleibt im Rahmen des Bundesrechts bestehen und ermöglicht den Kantonen eine eigenständige Wasserpolitik.
+**N. 8** Aus Abs. 1 ergibt sich eine **Schutz- und Förderungspflicht** des Bundes, die sich in der Gesetzgebung (WRG, GSchG, WBG), aber auch in Subventionen und technischer Unterstützung manifestiert. Die Kantone sind bei der Ausübung ihrer Gewässerhoheit an die Bundesvorgaben gebunden (**BGE 142 I 99** E. 5.2).
 
-**N. 13** Für Private ergeben sich aus Art. 76 BV keine unmittelbaren Rechte. Die Bestimmung ist eine reine Kompetenznorm, die erst durch die Ausführungsgesetzgebung konkretisiert wird. Die Nutzung von Gewässern bedarf in der Regel einer kantonalen Konzession, wobei die bundesrechtlichen Schutzvorschriften (insbesondere Restwasserbestimmungen) einzuhalten sind.
+**N. 9** Die **Abgabenerhebung** nach Abs. 4 Satz 2 umfasst Wasserzinsen, Konzessionsgebühren und weitere wasserbezogene Abgaben. Das Bundesgericht hat die kantonale Abgabenhoheit wiederholt bestätigt, aber deren Grenzen in der Wirtschaftsfreiheit und im Bundesrecht aufgezeigt (**BGE 128 II 112** E. 4). Die maximale Höhe des Wasserzinses ist in Art. 49 WRG bundesrechtlich limitiert.
+
+**N. 10** Bei **internationalen Wasservorkommen** (Abs. 5) hat der Bund die ausschliessliche Entscheidungskompetenz, muss aber die betroffenen Kantone beiziehen. Diese Bundeskompetenz umfasst sowohl völkerrechtliche Verträge als auch die Regelung grenzüberschreitender Wassernutzungen (Müller/Schefer, Grundrechte, S. 897).
 
 ## 5. Streitstände
 
-**N. 14** In der Lehre ist umstritten, wie weit die Bundeskompetenz zur «haushälterischen Nutzung» reicht. Marti (St. Galler Kommentar BV, 4. Aufl. 2023, N 15 zu Art. 76 BV) vertritt eine weite Auslegung, die auch planerische Instrumente umfasst. Bütler (BSK BV, 2. Aufl. 2024, Art. 76 N 8) plädiert für eine engere Auslegung, die primär auf den Schutz vor Übernutzung zielt.
+**N. 11** **Reichweite der kantonalen Gewässerhoheit**: Während Biaggini (BV-Kommentar, Art. 76 N. 5) eine weitgehende Autonomie der Kantone betont, vertreten Waldmann/Belser/Epiney (BSK BV, Art. 76 N. 28) eine restriktivere Auslegung angesichts der umfassenden Bundesgesetzgebung. Das Bundesgericht tendiert zur vermittelnden Position, wonach die kantonale Hoheit zwar fortbesteht, aber erheblich durch Bundesrecht eingeschränkt ist (**BGE 145 II 140**).
 
-**N. 15** Die Reichweite der kantonalen Gewässerhoheit bei ehehaften Wasserrechten ist kontrovers. Während Jagmetti (Energierecht, Bd. VII/2, 2005, S. 234) die unbefristete Geltung ehehafter Rechte verteidigt, folgen Griffel/Rausch (Kommentar zum USG, Ergänzungsband, 2011, Art. 80 GSchG N 12) der neueren Bundesgerichtspraxis (**BGE 145 II 140**), wonach auch ehehafte Rechte zeitlich zu begrenzen sind.
+**N. 12** **Verhältnis Wasserkraft - Gewässerschutz**: In der Lehre ist umstritten, wie der Interessenausgleich zwischen Energieproduktion und Umweltschutz zu gewichten ist. Griffel (St. Galler Kommentar BV, Art. 76 N. 18) plädiert für einen strikten Vorrang des Gewässerschutzes, während Keller (in: Häfelin/Haller/Keller/Thurnherr, N. 1099) eine ausgewogene Interessenabwägung fordert. Die Praxis zeigt eine zunehmende Gewichtung ökologischer Anliegen bei gleichzeitiger Anerkennung der energiepolitischen Bedeutung der Wasserkraft.
 
-**N. 16** Die Abgrenzung zwischen zulässigen kantonalen Wasserabgaben und unzulässigen Sondersteuern wird unterschiedlich beurteilt. Reich (Finanzordnung, 2012, S. 187) sieht in der Wasserzinsregelung eine abschliessende Bundesregelung, während Vallender/Hettich (St. Galler Kommentar BV, 4. Aufl. 2023, N 24 zu Art. 76 BV) zusätzliche kantonale Abgaben unter bestimmten Voraussetzungen für zulässig halten.
+**N. 13** **Wohlerworbene Rechte**: Kontrovers diskutiert wird die Tragweite historischer Wasserrechte. Während ein Teil der Lehre (Huber-Wälchli/Keller, Wasserbaurecht, S. 156) für einen weitgehenden Bestandesschutz plädiert, vertritt die neuere Doktrin (Hettich/Walther, Wasserrecht, N. 234) eine dynamische Anpassungspflicht an moderne Umweltstandards. Das Bundesgericht hat in **BGE 145 II 140** eine vermittelnde Lösung gewählt.
 
 ## 6. Praxishinweise
 
-**N. 17** Bei der Erteilung von Wassernutzungskonzessionen sind die kantonalen Behörden an das Bundesumweltrecht gebunden. Insbesondere müssen die Restwasserbestimmungen des GSchG (Art. 29 ff.) beachtet werden. Die Konzessionsdauer ist auch bei ehehaften Rechten auf maximal 80 Jahre zu begrenzen (**BGE 145 II 140**).
+**N. 14** Bei **Konzessionserneuerungen** sind die aktuellen Umweltvorschriften vollumfänglich anzuwenden, auch wenn die ursprüngliche Konzession unter altem Recht erteilt wurde. Die 80-jährige Maximaldauer gilt unabhängig von der Amortisationsdauer der Investitionen (**BGE 140 II 262**).
 
-**N. 18** Für Wasserkraftprojekte ist regelmässig eine Umweltverträglichkeitsprüfung erforderlich. Die frühzeitige Einbindung der Bundesbehörden (BAFU) wird empfohlen, um spätere Verfahrensverzögerungen zu vermeiden (**BGE 126 II 283**).
+**N. 15** **Verfahrenskoordination**: Bei Wasserkraftprojekten sind regelmässig multiple Bewilligungen erforderlich (Konzession, Baubewilligung, UVP, gewässerschutzrechtliche Bewilligung). Eine frühzeitige Koordination der Verfahren und der Einbezug der Bundesbehörden bei der UVP ist empfehlenswert (**BGE 126 II 283**).
 
-**N. 19** Bei interkantonalen Gewässern empfiehlt sich der Abschluss von Konkordaten zur Regelung der Nutzungs- und Schutzinteressen. Können sich die Kantone nicht einigen, kann der Bund gemäss Abs. 5 Satz 2 eine Entscheidung treffen. Diese subsidiäre Bundeskompetenz sollte durch vorgängige Verhandlungen vermieden werden.
-
-**N. 20** Die kantonale Abgabenhoheit ist durch das Wasserzinsmaximum gemäss WRG begrenzt. Zusätzliche Steuern auf die Wasserkraftnutzung sind möglich, müssen aber klar vom Wasserzins unterschieden werden und dürfen nicht prohibitiv wirken (**BGE 128 II 112**).
+**N. 16** Für die **Abgabenbemessung** ist zwischen Wasserzins (Rohstoffabgabe) und Konzessionsgebühr (Verwaltungsabgabe) zu unterscheiden. Zusätzliche kantonale Steuern auf Wasserkraft sind zulässig, sofern sie sich vom bundesrechtlich geregelten Wasserzins unterscheiden (**BGE 128 II 112**). Bei der Festlegung ist die wirtschaftliche Tragfähigkeit der Wasserkraftnutzung zu berücksichtigen.

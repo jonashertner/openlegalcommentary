@@ -1,86 +1,73 @@
 # Giurisprudenza
 
-## I. Decisioni principali del Tribunale federale
+## Base costituzionale e delega di esecuzione
 
-### 1. Procedure di aggiudicazione e aggiornamento della misurazione ufficiale
+**Decisione del Tribunale amministrativo di San Gallo B 2020/95 del 10 febbraio 2021**
+Fondamenti della disciplina federale sulla misurazione e sistema di indirizzamento.
+Conferma dell'ordine costituzionale delle competenze secondo l'art. 75a cpv. 2 e 3 Cost.
 
-**Sentenza 2C_143/2024 del 14 marzo 2024**  
-Il Tribunale federale tratta la procedura per la misurazione ufficiale nelle ricomposizioni particellari. Controversa era l'opposizione contro un lavoro di misurazione che era stato eseguito dopo una ricomposizione particellare volontaria. Il Tribunale federale chiarisce che le questioni procedurali della misurazione ufficiale sottostanno al ricorso di diritto pubblico.
+> «Il Consiglio federale prescrive l'esecuzione della misurazione ufficiale basandosi sull'art. 75a cpv. 2 e 3 della Costituzione federale della Confederazione Svizzera nonché sull'art. 7 cpv. 1 frase 1 della Legge federale sulla geoinformazione.»
 
-> «È impugnata una decisione finale cantonale di ultima istanza nell'ambito della misurazione ufficiale (art. 86 cpv. 1 lett. d e cpv. 2, art. 90 LTF). Si tratta di un affare di diritto pubblico ai sensi dell'art. 82 lett. a LTF.»
+## Aggiudicazione di lavori di geometri per l'aggiornamento
 
-**Sentenza 1C_664/2024 del 6 settembre 2025**  
-Il Tribunale federale decide sulla correzione di contraddizioni nella misurazione ufficiale. L'Ufficio per la geoinformazione non può procedere d'ufficio a una correzione senza il consenso di tutti i proprietari fondiari interessati. La decisione precisa i limiti delle competenze sovrane nel settore delle misurazioni.
+**Sentenza del Tribunale amministrativo di Berna 100.2024.34U del 31 ottobre 2024**
+Basi giuridiche per l'aggiudicazione di contratti di aggiornamento; applicazione della Legge sul mercato interno.
+Precisazione centrale della ripartizione delle competenze tra Confederazione e Cantoni in materia di misurazione.
 
-> «Con e-mail del 21 dicembre 2020 il geometra cantonale B.A.________ ha spiegato diverse questioni tecnico-specialistiche e ha inoltre precisato che l'AGI non aveva alcuna possibilità di attuare una misura d'ufficio senza la volontà concorde dei proprietari fondiari interessati.»
+> «Secondo l'art. 75a cpv. 2 della Costituzione federale (Cost.; RS 101) la Confederazione disciplina la misurazione ufficiale (cfr. anche art. 34 della Legge federale del 5 ottobre 2007 sulla geoinformazione relativa alla ripartizione dei compiti tra Confederazione e Cantone). La Confederazione ha delegato ai Cantoni l'esecuzione della misurazione ufficiale (art. 34 cpv. 2 lett. a LGI).»
 
-**Sentenza 1C_375/2025 del 12 novembre 2025**  
-Il Tribunale federale tratta la conferma di decorsi di confine da parte della vigilanza cantonale sulle misurazioni. Controversa era la delimitazione tra attività di misurazione sovrana e questioni di confine di diritto privato. Il Tribunale federale sottolinea che la conferma di decorsi di confine esistenti costituisce una decisione di diritto pubblico.
+**Sentenza del Tribunale federale 2C_143/2024 del 14 marzo 2024**
+Aspetti di diritto procedurale nelle opposizioni contro opere di misurazione.
+Importanza dei termini di ricorso nella procedura di diritto amministrativo per la misurazione ufficiale.
 
-> «I ricorrenti sostengono che l'istanza precedente abbia deciso sotto il profilo del diritto pubblico in un affare di diritto civile. È riconosciuto che decorsi di confine errati nell'opera di misurazione devono essere corretti con azioni di rettifica del confine.»
+> «Il ricorso contro una decisione deve essere presentato al Tribunale federale entro 30 giorni dalla notificazione del dispositivo completo (art. 100 cpv. 1 LTF). Questo termine legale non può essere prorogato (art. 47 cpv. 1 LTF).»
 
-### 2. Assoggettamento all'imposta sul valore aggiunto per prestazioni di misurazione
+**Decisione del Tribunale cantonale di Basilea Campagna 810 16 4 del 9 marzo 2016**
+Trattamento secondo il diritto degli appalti dei contratti di aggiornamento.
+Chiarimento della competenza e classificazione giuridica delle procedure di aggiudicazione.
 
-**Sentenza 2C_984/2014 del 26 maggio 2016**  
-Il Tribunale federale decide sull'assoggettamento all'imposta sul valore aggiunto per la rifatturazione di costi per la misurazione ufficiale. Il servizio cantonale aveva argomentato che si trattasse di attività sovrane. Il Tribunale federale conferma l'assoggettamento all'imposta sul valore aggiunto per determinate prestazioni di misurazione.
+> «La questione della subordinazione dell'aggiudicazione di un mandato per l'aggiornamento continuo della misurazione ufficiale al diritto degli appalti si pone nel trasferimento di compiti sovrani ai privati.»
 
-> «Il servizio Sviluppo territoriale, promozione economica e geoinformazione del Cantone di Lucerna è iscritto dal 1° gennaio 1995 presso l'Amministrazione federale delle contribuzioni nel registro dei contribuenti dell'imposta sul valore aggiunto. In occasione del controllo ha contestato tra l'altro che il servizio avesse qualificato i costi per l'aggiornamento della misurazione ufficiale come attività sovrana e che pertanto non avesse contabilizzato la cifra d'affari in questione con l'imposta sul valore aggiunto.»
+**Sentenza del Tribunale amministrativo di Berna 100.2013.54 del 24 ottobre 2014**
+Aggiudicazione di lavori di geometri per l'aggiornamento 2013-2017; principi della procedura di aggiudicazione.
+Primo trattamento completo dei requisiti procedurali per l'aggiudicazione di mandati di misurazione.
 
-## II. Giurisprudenza cantonale sull'aggiudicazione di mandati di aggiornamento
+> «Il Tribunale amministrativo giudica come ultima istanza cantonale i ricorsi contro decisioni e pronunce che si basano sul diritto pubblico, inclusa l'aggiudicazione di lavori di geometri per l'aggiornamento.»
 
-### 1. Diritto delle commesse pubbliche e concessione di licenze
+## Aspetti di diritto del registro fondiario
 
-**Sentenza del Tribunale cantonale di Basilea Campagna 810 16 4 del 9 marzo 2016**  
-Il Tribunale cantonale di Basilea Campagna precisa la natura giuridica dell'aggiudicazione di mandati di aggiornamento. Non si tratta di un appalto pubblico, bensì del conferimento di una concessione di monopolio. L'aggiornamento continuo della misurazione ufficiale non sottosta pertanto al diritto ordinario degli appalti.
+**Decisione del Tribunale superiore di Argovia AGVE_2001_5 del 26 febbraio 2001**
+Rapporto tra misurazione ufficiale e registro fondiario; misurazione passata in giudicato.
+Importanza centrale della misurazione ufficiale per il sistema del registro fondiario.
 
-> «Nell'aggiornamento continuo della misurazione ufficiale i Comuni non si presentano come acquirenti, bensì come offerenti, in quanto aggiudicano il diritto all'esecuzione esclusiva di lavori di geometra per l'aggiornamento continuo sul loro territorio per una durata determinata.»
+> «La misurazione passata in giudicato produce per i fondi rappresentati pubblica fede nel senso che essa vale come corretta finché non sia dimostrato il contrario (art. 950 e art. 9 CC).»
 
-**Sentenza del Tribunale amministrativo bernese 100.2024.34 del 31 ottobre 2024**  
-Il Tribunale amministrativo bernese conferma la base costituzionale della misurazione ufficiale nell'art. 75a cpv. 2 Cost. e precisa le procedure di bando per i mandati di aggiornamento. Il Tribunale stabilisce i principi di trasparenza e parità di trattamento nelle aggiudicazioni di concessioni.
+## Sopportazione dei costi
 
-> «Secondo l'art. 75a cpv. 2 della Costituzione federale (Cost.; RS 101) la Confederazione disciplina la misurazione ufficiale (cfr. anche l'art. 34 della Legge federale del 5 ottobre 2007 sulla geoinformazione [Legge sulla geoinformazione, LGI; RS 510.62] sulla ripartizione dei compiti tra Confederazione e Cantoni).»
+**Decisioni del Tribunale amministrativo dei Grigioni U 2021/4, U 2019/62, U 2024/31-34**
+Serie di decisioni sulla sopportazione dei costi per la misurazione ufficiale.
+Chiarimento delle responsabilità finanziarie tra i diversi interessati.
 
-### 2. Parità di trattamento e trasparenza
+**Decisione del Tribunale federale sull'imposta sul valore aggiunto 2C_984/2014 del 26 maggio 2016**
+Differenze di fatturato riguardanti la misurazione ufficiale; trattamento fiscale delle prestazioni di misurazione.
+Importanza per il trattamento dei servizi di misurazione nel diritto tributario.
 
-**Sentenza del Tribunale amministrativo bernese 100.2024.230-233 del 22 novembre 2024 / 11 febbraio 2025**  
-Una serie di sentenze su procedure di aggiudicazione per lavori di geometra per l'aggiornamento. I tribunali precisano l'applicazione dei principi di parità di trattamento e dell'obbligo di trasparenza nella valutazione delle offerte. Particolare importanza assume l'applicazione uniforme dei criteri di valutazione.
+## Libertà economica e divieto di discriminazione
 
-> «Il Tribunale amministrativo verifica la decisione impugnata per violazioni del diritto (art. 80 lett. a e b LPAmm). Oggetto del presente procedimento è l'aggiudicazione di un mandato da parte del Comune per l'aggiornamento continuo nell'ambito della misurazione ufficiale.»
+**Decisione della Cancelleria ch_vb_150000239 del 3 agosto 2011**
+Misurazione ufficiale, limite di età, divieto di discriminazione, libertà economica.
+Limiti costituzionali nell'ammissione ai lavori di misurazione.
 
-## III. Giurisprudenza amministrativa
+> «Parole chiave: Misurazione ufficiale, limite di età, divieto di discriminazione, libertà economica» mostrano il collegamento tra l'art. 75a Cost. e i diritti fondamentali.
 
-### 1. Approvazione di opere di misurazione
+## Sviluppi recenti
 
-**Decisione della BVD Berna 140 2018 21 del 17 giugno 2019**  
-La Direzione dei lavori pubblici, dei trasporti e dell'energia del Cantone di Berna decide su obiezioni contro l'approvazione di una misurazione ufficiale. La decisione mostra la procedura per l'approvazione di opere di misurazione e le possibilità di tutela giuridica per gli interessati.
+**Sentenza del Tribunale federale 1C_664/2024 del 6 settembre 2025**
+Correzione di contraddizioni della misurazione ufficiale.
+Giurisprudenza attuale sulle procedure di correzione per errori di misurazione.
 
-> «L'AGI come vigilanza sulle misurazioni ha deciso sulle obiezioni rispettivamente opposizioni presentate e ha approvato l'opera di misurazione (art. 22 cpv. 3 in combinazione con l'art. 40 cpv. 1 KGeoIG).»
+**Serie Tribunale amministrativo di Berna 100.2024.217 fino a 100.2024.233 (2024-2025)**
+Diverse procedure parallele riguardanti l'aggiudicazione di lavori di geometri per l'aggiornamento nel Canton Berna.
+Mostrano l'importanza pratica e la frequenza delle controversie nell'aggiudicazione di mandati di misurazione.
 
-### 2. Ripartizione dei costi nella misurazione ufficiale
-
-**Sentenze del Tribunale amministrativo grigionese U 2024 31-34 del 2 settembre / 15 ottobre 2024**  
-Una serie di decisioni sulla ripartizione dei costi nella misurazione ufficiale. I tribunali precisano chi deve sostenere i costi dell'aggiornamento e a quali condizioni possono essere emanate decisioni sui costi.
-
-> «Per la decisione su aperture esecutive ai sensi dell'art. 75a CP in caso di internamenti secondo l'art. 64 CP è competente il Servizio Militare, protezione civile ed esecuzione delle pene.»
-
-## IV. Questioni giuridiche speciali
-
-### 1. Divieto di discriminazione e libertà economica
-
-**Decisione del Consiglio federale 150000239 del 3 agosto 2011**  
-Il Consiglio federale tratta la questione dei limiti di età nel settore delle misurazioni. La limitazione dell'attività professionale a causa dell'età può interferire con la libertà economica e il divieto di discriminazione. Tali interferenze devono soddisfare i requisiti dell'art. 36 Cost.
-
-> «La limitazione dell'attività economica a causa dell'età è idonea a interferire con le posizioni di diritto fondamentale dell'uguaglianza giuridica e della libertà economica. La questione dell'ammissibilità di limiti di età riguardo all'esercizio di una professione si misura sui criteri per le restrizioni dei diritti fondamentali dell'art. 36 della Costituzione federale.»
-
-### 2. Indipendenza degli ingegneri-geometri
-
-**Sentenza del Tribunale amministrativo bernese 100.2024.34 del 31 ottobre 2024**  
-Il Tribunale precisa i requisiti per l'indipendenza professionale degli ingegneri-geometri. La revisione dell'art. 44 OTV ha sottolineato la libertà da istruzioni, senza fare prescrizioni organizzative concrete.
-
-> «Il solo fatto che il convenuto 1 disponga unicamente di una procura collettiva a due e sia soltanto parte della 'direzione aziendale allargata', non mette in questione né la sua indipendenza professionale né la sua capacità all'esercizio 'autonomo' della professione.»
-
-## V. Linee evolutive
-
-La giurisprudenza sull'art. 75a Cost. mostra un'evoluzione chiara da questioni procedurali formali verso requisiti sostanziali di parità di trattamento e trasparenza. Mentre le decisioni precedenti trattavano principalmente la delimitazione tra competenze federali e cantonali, oggi sono in primo piano questioni di equità nell'aggiudicazione e dell'indipendenza professionale.
-
-La giurisprudenza più recente sottolinea inoltre la natura sovrana della misurazione ufficiale, che si riflette nella qualificazione come decisioni di diritto pubblico e nelle corrispondenti possibilità di tutela giuridica. Al contempo vengono tracciati più chiaramente i limiti delle competenze sovrane, in particolare nelle controversie sui confini tra privati.
+> «Il Tribunale amministrativo verifica la decisione impugnata per violazioni del diritto (art. 80 lett. a e b LPGA)» nell'aggiudicazione di lavori di geometri per l'aggiornamento.

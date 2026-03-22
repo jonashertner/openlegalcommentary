@@ -2,89 +2,86 @@
 
 ## 1. Storia della genesi
 
-**N. 1** L'art. 75a Cost. è stato introdotto ex novo nel quadro della Costituzione federale aggiornata del 18 aprile 1999. La disposizione riunisce in un unico articolo le basi costituzionali del settore della misurazione, precedentemente sparse (Hoffmann/Griffel, BSK BV, Art. 75a N. 1). 
+**N. 1** L'art. 75a Cost. è stato creato ex novo nel quadro della revisione totale della Costituzione federale del 1999. La disposizione riunisce in un unico articolo le basi costituzionali precedentemente sparse per la misurazione nazionale e la misurazione ufficiale (FF 1997 I 1, 282).
 
-**N. 2** Il Messaggio relativo alla nuova Costituzione federale del 20 novembre 1996 qualifica l'art. 75a come «nuova disposizione», derivata dalla competenza non scritta della Confederazione nel settore della misurazione nazionale e dall'art. 38 disp. trans. CC (FF 1997 I 1, 260). La misurazione ufficiale era precedentemente disciplinata dall'art. 950 CC e dalle disposizioni finali del CC.
+**N. 2** La revisione costituzionale del 3 ottobre 2003 (in vigore dal 1° gennaio 2008) ha integrato l'art. 75a Cost. con il capoverso 3, che conferisce alla Confederazione una competenza per l'armonizzazione delle informazioni ufficiali su suolo e sottosuolo. Questa integrazione è avvenuta nell'ambito della creazione della Legge federale sulla geoinformazione (LGI), che ha posto le basi giuridiche per un moderno sistema di geoinformazione (FF 2006 7817, 7825 segg.).
 
-**N. 3** La competenza di armonizzazione del cpv. 3 è stata inserita solo durante le deliberazioni parlamentari. Il Consiglio degli Stati ha completato il progetto originario con questa disposizione per tenere conto degli sviluppi tecnologici nel settore dell'informazione geografica (Hoffmann/Griffel, BSK BV, Art. 75a N. 1). Il Messaggio concernente la legge sulla geoinformazione del 6 settembre 2006 sottolinea che il costituente con l'art. 75a cpv. 3 Cost. ha spianato la strada per un'armonizzazione completa dei geodati (FF 2006 7817, 7818).
+**N. 3** La nascita della competenza di armonizzazione (cpv. 3) è stata caratterizzata da discussioni sulla sua portata. Il legislatore voleva creare una base giuridica unitaria per la rilevazione, gestione e utilizzazione dei geodati, senza tuttavia limitare eccessivamente le competenze cantonali (FF 2006 7817, 7832).
 
 ## 2. Collocazione sistematica
 
-**N. 4** L'art. 75a Cost. è collocato sistematicamente nel Titolo 3 (Confederazione, Cantoni e Comuni), Capitolo 3 (Ripartizione dei compiti tra Confederazione e Cantoni), Sezione 1 (Compiti della Confederazione). La disposizione appartiene alle norme di competenza che attribuiscono alla Confederazione compiti specifici (Hoffmann/Griffel, BSK BV, Art. 75a N. 4).
+**N. 4** L'art. 75a Cost. è sistematicamente collocato nella sezione 4 «Ambiente e pianificazione del territorio», il che sottolinea la sua importanza per l'ordinamento territoriale (Hoffmann/Griffel, BSK BV, Art. 75a N. 4). La norma si colloca tra le competenze di pianificazione del territorio (art. 75 Cost.) e le competenze di protezione dell'ambiente (art. 74 Cost.), evidenziando la sua funzione trasversale.
 
-**N. 5** La norma è strettamente connessa con:
-- → Art. 122 Cost. (Diritto civile), poiché il sistema del registro fondiario e la misurazione ufficiale sono ancorati civilisticamente nell'art. 950 CC
-- → Art. 45 cpv. 2 Cost. (Collaborazione tra Confederazione e Cantoni), poiché l'esecuzione della misurazione ufficiale è compito dei Cantoni
-- ↔ Art. 38 segg. disp. trans. CC, che contengono le disposizioni transitorie sulla misurazione ufficiale
+**N. 5** La disposizione presenta stretti legami con le seguenti norme costituzionali:
+- → Art. 122 Cost. (diritto civile): il sistema del registro fondiario si basa sulla misurazione ufficiale
+- → Art. 45 cpv. 2 Cost. (cooperazione): i Cantoni sono obbligati a cooperare per l'armonizzazione
+- → Art. 49 Cost. (primato del diritto federale): le prescrizioni federali di armonizzazione prevalgono sul diritto cantonale
+- ↔ Art. 3 Cost. (federalismo): l'esecuzione della misurazione rimane di competenza dei Cantoni
 
-**N. 6** Nel contesto del diritto dell'informazione geografica, l'art. 75a Cost. costituisce la base costituzionale per la legge federale sulla geoinformazione (LGI) e l'ordinanza sulla misurazione ufficiale (OMU) fondata su di essa.
+**N. 6** A livello legislativo, i seguenti atti concretizzano l'art. 75a Cost.:
+- Legge federale sulla geoinformazione (LGI, RS 510.62)
+- Ordinanza sulla misurazione ufficiale (OMU, RS 211.432.2)
+- Ordinanza sulla misurazione nazionale (OMN, RS 510.626)
 
-## 3. Elementi della fattispecie / Contenuto normativo
+## 3. Elementi della fattispecie / Contenuto della norma
 
-### a) Misurazione nazionale (cpv. 1)
+### 3.1 Misurazione nazionale (cpv. 1)
 
-**N. 7** La misurazione nazionale comprende le basi geodetiche della Svizzera, in particolare il sistema di riferimento, le reti di punti fissi e i rilievi topografici (Hoffmann/Griffel, BSK BV, Art. 75a N. 5). Essa crea i presupposti tecnici per tutti i successivi lavori di misurazione ed è di competenza della Confederazione.
+**N. 7** La misurazione nazionale comprende le basi geodetiche per la determinazione della posizione su tutto il territorio della Svizzera. Essa crea il sistema di riferimento unitario per tutti i dati georeferenziati (Hoffmann/Griffel, BSK BV, Art. 75a N. 5; Huser, Vermessungsrecht, 34 segg.).
 
-**N. 8** Alla misurazione nazionale appartengono secondo gli art. 4 segg. LGI:
-- La definizione e l'aggiornamento dei sistemi di riferimento geodetici
-- La realizzazione e l'aggiornamento delle carte nazionali
-- La gestione del modello topografico del paesaggio
-- La realizzazione di fotografie aeree e modelli digitali del terreno
+**N. 8** Il concetto di «misurazione nazionale» comprende:
+- Reti di punti fissi per posizione e altitudine
+- Servizi di posizionamento satellitare (GNSS)
+- Carte della gravità e modelli geoidali
+- Rilevamenti cartografici nazionali
 
-### b) Misurazione ufficiale (cpv. 2)
+### 3.2 Misurazione ufficiale (cpv. 2)
 
-**N. 9** La misurazione ufficiale serve alla garanzia della proprietà fondiaria e costituisce la base per il registro fondiario (art. 950 CC). Essa comprende il rilevamento particellare preciso dei fondi con i loro confini, edifici e coperture permanenti del suolo (Hoffmann/Griffel, BSK BV, Art. 75a N. 8).
+**N. 9** La misurazione ufficiale (misurazione del registro fondiario) documenta i rapporti effettivi e giuridici dei fondi. Essa costituisce la base tecnica per il registro fondiario secondo l'art. 950 CC (Hoffmann/Griffel, BSK BV, Art. 75a N. 8).
 
-**N. 10** La Confederazione disciplina la misurazione ufficiale attraverso la LGI (art. 29-33) e l'OMU. L'esecuzione spetta tuttavia ai Cantoni (art. 34 cpv. 1 lett. a LGI), che di regola delegano questo compito a ingegneri geometri patentati (art. 41 cpv. 1 LGI).
+**N. 10** Contenuto della misurazione ufficiale:
+- Confini dei fondi e loro materializzazione
+- Copertura del suolo (edifici, strade, acque)
+- Oggetti isolati (muri, scale, condutture sotterranee)
+- Nomenclatura (nomi di località, di comprensori e di strade)
+- Suddivisioni amministrative
 
-**N. 11** La misurazione ufficiale ha carattere di diritto pubblico. I suoi risultati sono stabiliti mediante decisione autoritativa, il che li distingue dalle determinazioni di confine di diritto privato (cfr. Sentenza 1C_375/2025 del 12 novembre 2025).
+### 3.3 Armonizzazione della geoinformazione (cpv. 3)
 
-### c) Armonizzazione dell'informazione geografica (cpv. 3)
+**N. 11** La competenza di armonizzazione secondo il cpv. 3 autorizza la Confederazione a emanare prescrizioni sull'«armonizzazione delle informazioni ufficiali su suolo e sottosuolo».
 
-**N. 12** La competenza di armonizzazione autorizza la Confederazione a emanare prescrizioni sull'armonizzazione delle informazioni ufficiali relative a suolo e sottosuolo. Questa competenza è oggetto di controversie dottrinali (Hoffmann/Griffel, BSK BV, Art. 75a N. 13).
-
-**N. 13** Secondo Lendi si tratta di una competenza federale completa con effetto derogatorio successivo. Egli sottolinea che il costituente in ogni caso non ha perseguito una mera competenza legislativa di principio (Lendi, citato in Hoffmann/Griffel, BSK BV, Art. 75a N. 20).
-
-**N. 14** Al contrario, Biaggini sostiene un'interpretazione più restrittiva e qualifica l'art. 75a cpv. 3 come competenza legislativa limitata oggettivamente (Biaggini, citato in Hoffmann/Griffel, BSK BV, Art. 75a N. 6).
-
-**N. 15** Ruch assume una posizione intermedia e sottolinea che la Confederazione è in ogni caso obbligata a legiferare quando la riproduzione corretta dei rapporti di fatto e di diritto nei catasti ufficiali può essere raggiunta solo attraverso standard qualitativi e tecnici comuni (Ruch, citato in Hoffmann/Griffel, BSK BV, Art. 75a N. 18).
+**N. 12** Il concetto di «informazioni ufficiali su suolo e sottosuolo» va inteso in senso ampio e comprende tutti i dati georeferenziati rilevati o gestiti dalle autorità (Huser, AJP 2010, 147).
 
 ## 4. Conseguenze giuridiche
 
-**N. 16** Dall'art. 75a Cost. risultano le seguenti competenze e doveri:
+**N. 13** Dall'art. 75a Cost. derivano le seguenti competenze costituzionali:
 
-**N. 17** La Confederazione ha la competenza esclusiva per la misurazione nazionale (cpv. 1). Questa comprende sia la legislazione sia l'esecuzione. I Cantoni non hanno competenze proprie in questo settore.
+**N. 14** **Competenza federale integrale** per la misurazione nazionale (cpv. 1): la Confederazione può disciplinare completamente la misurazione nazionale ed eseguirla direttamente. I Cantoni non hanno competenze proprie in questo ambito.
 
-**N. 18** Nel settore della misurazione ufficiale (cpv. 2) la Confederazione dispone di una competenza legislativa completa. La competenza esecutiva spetta tuttavia ai Cantoni, che fungono da «autorità di vigilanza superiore» (art. 34 cpv. 1 lett. d LGI).
+**N. 15** **Competenza ripartita** per la misurazione ufficiale (cpv. 2): la Confederazione emana le prescrizioni (art. 22-26 LGI), i Cantoni eseguono la misurazione (art. 34 cpv. 2 LGI). Questa ripartizione dei compiti è stabilita costituzionalmente.
 
-**N. 19** La competenza di armonizzazione (cpv. 3) consente alla Confederazione di fissare standard tecnici e qualitativi per le informazioni geografiche. Questo comprende secondo gli art. 22 segg. LGI:
-- Modelli di geometadati
-- Modelli di rappresentazione  
-- Formati di scambio
-- Requisiti di qualità
+**N. 16** **Competenza di armonizzazione** (cpv. 3): la Confederazione può prescrivere standard unitari per i geodati. La portata di questa competenza è controversa (vedi N. 17-19).
 
-**N. 20** I Cantoni sono vincolati nell'attuazione delle prescrizioni del diritto federale al principio di legalità (→ Art. 5 Cost.) e al primato del diritto federale (→ Art. 49 Cost.). Essi possono emanare normative complementari nella misura in cui il diritto federale lascia spazio.
+## 5. Controversie dottrinali
 
-## 5. Questioni controverse
+**N. 17** La **portata della competenza di armonizzazione** secondo l'art. 75a cpv. 3 Cost. è controversa nella dottrina:
 
-**N. 21** La portata della competenza di armonizzazione secondo il cpv. 3 è controversa dal punto di vista dottrinale:
+**N. 18** **Lendi** (BSK BV, Art. 75a N. 20) sostiene un'interpretazione estensiva: egli deduce dall'art. 75a cpv. 3 una competenza federale integrale con effetto derogatorio successivo. Secondo la sua concezione, il costituente non voleva espressamente creare una mera competenza di legislazione di principio.
 
-**N. 22** **Competenza federale completa (Lendi)**: Questa posizione interpreta l'art. 75a cpv. 3 come autorizzazione estensiva della Confederazione ad armonizzare tutti i dati con riferimento spaziale. L'effetto derogatorio successivo significa che il diritto federale spodesta il diritto cantonale contrastante.
+**N. 19** **Biaggini** (BSK BV, Art. 75a N. 6) assume una posizione più restrittiva: egli qualifica l'art. 75a cpv. 3 come competenza legislativa limitata per oggetto, che non va oltre l'armonizzazione di standard tecnici.
 
-**N. 23** **Competenza limitata (Biaggini)**: Questa concezione limita la competenza federale all'armonizzazione tecnica, senza interventi materiali nelle competenze cantonali. La Confederazione può pertanto stabilire solo standard e formati, non prescrizioni contenutistiche.
+**N. 20** **Ruch** (BSK BV, Art. 75a N. 18) media tra le due posizioni: sottolinea che la Confederazione è comunque obbligata a legiferare quando la corretta riproduzione dei rapporti effettivi e giuridici nei catasti ufficiali può essere raggiunta solo attraverso standard qualitativi e tecnici comuni.
 
-**N. 24** **Interpretazione funzionale (Ruch)**: Questa posizione intermedia fa dipendere la portata della competenza federale dal bisogno funzionale di armonizzazione. Dove standard comuni sono indispensabili per la funzionalità del sistema, esiste persino un obbligo legislativo della Confederazione.
-
-**N. 25** La prassi si è ampiamente allineata all'interpretazione funzionale. La LGI contiene sia standard tecnici sia prescrizioni materiali, nella misura in cui queste sono necessarie per l'interoperabilità dei sistemi (Huser, Schweizerisches Vermessungsrecht, 3ª ed. 2014, p. 143 segg.).
+**N. 21** L'**obbligo legislativo della Confederazione** è valutato diversamente: mentre Ruch assume un obbligo di armonizzazione in caso di necessità di standard comuni, altri autori vedono soltanto una prescrizione facoltativa (Kettiger, Jusletter 2008, n. 15).
 
 ## 6. Indicazioni pratiche
 
-**N. 26** L'aggiudicazione di mandati di aggiornamento per la misurazione ufficiale non costituisce acquisto pubblico ai sensi del diritto degli appalti, bensì aggiudicazione di concessioni. Questo ha chiarito il Tribunale cantonale di Basilea Campagna (Sentenza 810 16 4 del 9 marzo 2016). Tuttavia, si applicano i principi della parità di trattamento e della trasparenza.
+**N. 22** Nell'**aggiudicazione di lavori di aggiornamento**, i Cantoni devono rispettare il diritto degli appalti. Il Tribunale amministrativo di Berna ha confermato ripetutamente che i lavori di aggiornamento dei geometri sottostanno al diritto degli acquisti pubblici (VGE BE 100.2024.34U del 31.10.2024).
 
-**N. 27** Le decisioni nel settore della misurazione ufficiale sottostanno al diritto procedurale pubblico. La via di ricorso si orienta secondo gli ordinamenti procedurali cantonali, essendo possibile il ricorso in materia di diritto pubblico al Tribunale federale (art. 82 lett. a LTF).
+**N. 23** La **ripartizione dei costi** tra Confederazione, Cantoni e proprietari fondiari si regge secondo gli art. 38 segg. OMU. Per le prime misurazioni, i proprietari fondiari sopportano di regola una parte dei costi (art. 42 cpv. 3 OMU).
 
-**N. 28** L'indipendenza professionale degli ingegneri geometri va intesa, dopo la revisione dell'art. 44 OMU, in modo meno formalistico. Decisiva è l'indipendenza professionale tecnica, non la posizione societaria (cfr. Sentenza del Tribunale amministrativo di Berna 100.2024.34 del 31 ottobre 2024).
+**N. 24** **Protezione dei dati e principio di pubblicità**: i geodati della misurazione ufficiale sono in linea di principio accessibili al pubblico (art. 11 LGI). I dati personali sottostanno tuttavia alla protezione dei dati (Kettiger/Oesch, Auswirkungen, 45 segg.).
 
-**N. 29** Nelle controversie sui confini occorre distinguere tra la constatazione autoritativa nel quadro della misurazione ufficiale e le sistemazioni di confine di diritto privato. Se non sussiste errore della misurazione ufficiale, è competente il giudice civile (→ Art. 669 CC).
+**N. 25** **Cooperazione intercantonale**: nei progetti intercantonali l'armonizzazione è obbligatoria. I Cantoni hanno concluso concordati corrispondenti o utilizzano i meccanismi della LGI (art. 31 LGI).
 
-**N. 30** Il catasto delle restrizioni di diritto pubblico della proprietà (catasto RDPP) secondo gli art. 16 segg. LGI rappresenta un importante ampliamento della misurazione tradizionale. Esso documenta non solo i rapporti geometrici, ma anche le limitazioni giuridiche della proprietà fondiaria (Kettiger, ZBGR 2010, 137 segg.).
+**N. 26** **Rapporto con il registro fondiario**: la misurazione ufficiale costituisce la base tecnica del registro fondiario. Le contraddizioni tra misurazione e registro fondiario devono essere chiarite nella procedura di sistemazione secondo l'art. 40 OMU (Huser, ZBGR 2002, 78).

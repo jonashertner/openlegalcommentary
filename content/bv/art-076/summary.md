@@ -1,15 +1,11 @@
-# Art. 76 — Übersicht
+# Übersicht
 
-Art. 76 BV regelt die Verteilung der Macht über das Wasser zwischen Bund und Kantonen. Der Artikel bestimmt, wer was mit unserem Wasser machen darf und wer die Regeln dafür aufstellt.
+Art. 76 BV regelt die Wasserwirtschaft in der Schweiz. Er teilt die Aufgaben zwischen Bund und Kantonen auf: Der Bund schützt das Wasser vor Verschmutzung und Übernutzung. Er macht Gesetze über saubere Gewässer, Wasserkraftwerke und Hochwasserschutz. Die Kantone besitzen die Wasservorkommen auf ihrem Gebiet und dürfen sie nutzen oder die Nutzung anderen erlauben.
 
-Der Bund hat drei wichtige Aufgaben beim Wasser. Erstens muss er das Wasser schützen und dafür sorgen, dass es sparsam genutzt wird. Zweitens muss er die Menschen vor gefährlichem Wasser schützen, zum Beispiel vor Hochwasser. Drittens erstellt er die Grundregeln dafür, wie Wasser genutzt werden darf — etwa für Strom aus Wasserkraft oder zum Kühlen von Fabriken.
+Die Kantone können für die Wassernutzung Gebühren erheben. Ein Beispiel ist der Wasserzins: Wer ein Wasserkraftwerk betreibt, zahlt dem Kanton eine Abgabe für das genutzte Wasser. Diese Gebühren fließen oft in die Gemeindekassen der Berggebiete, wo die Kraftwerke stehen.
 
-Die Kantone hingegen sind die eigentlichen Besitzer des Wassers in ihrem Gebiet. Sie dürfen entscheiden, wer das Wasser nutzen darf und können dafür Gebühren verlangen. Will jemand ein Wasserkraftwerk bauen, braucht er vom Kanton eine Bewilligung (Konzession genannt).
+Der Bund kann selber Wasser für seine Verkehrsbetriebe nutzen. Zum Beispiel braucht die SBB Wasser für ihre Wasserkraftwerke, die Bahnstrom erzeugen. Dafür zahlt sie ebenfalls Gebühren an die Kantone.
 
-Ein praktisches Beispiel: Eine Firma möchte an einem Bach ein kleines Kraftwerk bauen. Sie muss beim Kanton um Erlaubnis fragen und eine Konzession erhalten. Der Kanton kann Ja sagen und eine Gebühr verlangen. Aber er muss dabei die Bundesregeln befolgen — zum Beispiel muss genug Wasser im Bach bleiben, damit Fische überleben können (Restwasser genannt).
+Bei grenzüberschreitenden Gewässern entscheidet der Bund allein. Das betrifft etwa den Rhein oder die Grenzgewässer zu Deutschland, Österreich oder Italien. Wenn zwei Kantone sich nicht über ein Gewässer einigen können, schlichtet der Bund.
 
-Bei Flüssen, die durch mehrere Kantone oder Länder fliessen, entscheidet der Bund. Können sich zwei Kantone nicht einigen, wer das Wasser nutzen darf, schlichtet der Bund.
-
-Die Regelung schafft ein Gleichgewicht: Der Bund sorgt für einheitliche Schutzstandards in der ganzen Schweiz. Die Kantone behalten aber ihre traditionelle Macht über das Wasser und können damit Einnahmen erzielen. Dies ist besonders wichtig für Bergkantone, die viel Wasser haben aber oft weniger andere Einnahmequellen.
-
-Art. 76 BV betrifft alle, die Wasser nutzen wollen — von Wasserkraftwerken über Industriebetriebe bis zu Gemeinden, die Trinkwasser fördern. Auch Umweltschützer können sich auf die Schutzpflichten des Bundes berufen.
+Die Wasservorkommen gehören rechtlich den Kantonen. Sie dürfen aber nur im Rahmen der Bundesgesetze darüber verfügen. Das bedeutet: Die Kantone müssen die Umweltvorschriften des Bundes beachten, auch wenn sie über ihr eigenes Wasser bestimmen.

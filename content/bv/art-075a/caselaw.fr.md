@@ -1,86 +1,73 @@
 # Jurisprudence
 
-## I. Arrêts de principe du Tribunal fédéral
+## Base constitutionnelle et délégation d'exécution
 
-### 1. Procédure d'adjudication et mise à jour de la mensuration officielle
+**Décision du Tribunal administratif de Saint-Gall B 2020/95 du 10 février 2021**
+Fondements de la réglementation fédérale en matière de mensuration et système d'adressage.
+Confirmation de l'ordre constitutionnel des compétences selon l'art. 75a al. 2 et 3 Cst.
 
-**Arrêt 2C_143/2024 du 14 mars 2024**  
-Le Tribunal fédéral traite de la procédure de mensuration officielle lors de remaniements parcellaires. L'opposition contre un travail de mensuration réalisé après un remaniement parcellaire volontaire était litigieuse. Le Tribunal fédéral précise que les questions de procédure de la mensuration officielle sont soumises au recours de droit public.
+> « Le Conseil fédéral prescrit, en vertu de l'art. 75a al. 2 et 3 de la Constitution fédérale de la Confédération suisse ainsi que de l'art. 7 al. 1 phrase 1 de la loi fédérale sur la géoinformation, l'exécution de la mensuration officielle. »
 
-> « L'objet du recours est une décision cantonale de dernière instance définitive dans le domaine de la mensuration officielle (art. 86 al. 1 let. d et al. 2, art. 90 LTF). Il s'agit d'une affaire de droit public au sens de l'art. 82 let. a LTF. »
+## Attribution de travaux de géomètres de mise à jour
 
-**Arrêt 1C_664/2024 du 6 septembre 2025**  
-Le Tribunal fédéral statue sur l'élimination de contradictions dans la mensuration officielle. L'office de géoinformation ne peut pas procéder d'office à une régularisation sans l'accord de tous les propriétaires fonciers concernés. L'arrêt précise les limites des compétences souveraines en matière de mensuration.
+**Arrêt du Tribunal administratif de Berne 100.2024.34U du 31 octobre 2024**
+Bases légales de l'attribution de contrats de mise à jour ; application de la loi sur le marché intérieur.
+Précision centrale de la répartition des compétences entre la Confédération et les cantons en matière de mensuration.
 
-> « Par courriel du 21 décembre 2020, le géomètre cantonal B.A.________ a expliqué diverses questions techniques spécialisées et a en outre indiqué que l'AGI n'avait aucune possibilité de mettre en œuvre une mesure d'office sans la volonté concordante des propriétaires fonciers concernés. »
+> « Selon l'art. 75a al. 2 de la Constitution fédérale (Cst. ; RS 101), la Confédération règle la mensuration officielle (cf. également l'art. 34 de la loi fédérale du 5 octobre 2007 sur la géoinformation concernant la répartition des tâches entre la Confédération et le canton). La Confédération a délégué l'exécution de la mensuration officielle aux cantons (art. 34 al. 2 let. a LGéo). »
 
-**Arrêt 1C_375/2025 du 12 novembre 2025**  
-Le Tribunal fédéral traite de la confirmation de tracés de limites par la surveillance cantonale de la mensuration. La délimitation entre l'activité souveraine de mensuration et les questions de limites de droit privé était litigieuse. Le Tribunal fédéral souligne que la confirmation de tracés de limites existants constitue une décision de droit public.
+**Arrêt du Tribunal fédéral 2C_143/2024 du 14 mars 2024**
+Aspects procéduraux en cas d'opposition contre des ouvrages de mensuration.
+Importance des délais de recours dans la procédure de droit administratif pour la mensuration officielle.
 
-> « Les recourants font valoir que l'instance précédente a statué sous l'angle du droit public dans une affaire de droit civil. Il est reconnu que les tracés de limites erronés dans l'œuvre de mensuration doivent être corrigés par des actions en rectification de limites. »
+> « Le recours contre une décision doit être déposé auprès du Tribunal fédéral dans les 30 jours suivant la notification de l'expédition complète (art. 100 al. 1 LTF). Ce délai légal ne peut pas être prolongé (art. 47 al. 1 LTF). »
 
-### 2. Assujettissement à la TVA pour les prestations de mensuration
+**Décision du Tribunal cantonal de Bâle-Campagne 810 16 4 du 9 mars 2016**
+Traitement relevant du droit des soumissions de contrats de mise à jour.
+Clarification de la compétence et de la qualification juridique des procédures d'attribution.
 
-**Arrêt 2C_984/2014 du 26 mai 2016**  
-Le Tribunal fédéral statue sur l'assujettissement à la TVA lors de la refacturation des coûts de la mensuration officielle. Le service cantonal avait soutenu qu'il s'agissait d'activités souveraines. Le Tribunal fédéral confirme l'assujettissement à la TVA pour certaines prestations de mensuration.
+> « La question de la soumission de l'attribution d'un mandat pour la mise à jour continue de la mensuration officielle au droit des soumissions se pose lors de la délégation de tâches souveraines à des privés. »
 
-> « Le Service du développement territorial, de la promotion économique et de la géoinformation du canton de Lucerne est inscrit depuis le 1er janvier 1995 au registre des assujettis à la taxe sur la valeur ajoutée auprès de l'Administration fédérale des contributions. Lors du contrôle, elle a notamment critiqué le fait que le service avait qualifié les coûts de mise à jour de la mensuration officielle comme activité souveraine et n'avait donc pas facturé le chiffre d'affaires en question avec la taxe sur la valeur ajoutée. »
+**Arrêt du Tribunal administratif de Berne 100.2013.54 du 24 octobre 2014**
+Attribution de travaux de géomètres de mise à jour 2013-2017 ; principes de la procédure d'attribution.
+Premier traitement complet des exigences procédurales lors de l'attribution de mandats de mensuration.
 
-## II. Jurisprudence cantonale sur l'attribution des mandats de mise à jour
+> « Le Tribunal administratif juge en dernière instance cantonale les recours contre les décisions et les arrêts qui se fondent sur le droit public, y compris l'attribution de travaux de géomètres de mise à jour. »
 
-### 1. Droit des soumissions et attribution de concessions
+## Aspects relevant du droit du registre foncier
 
-**Arrêt du Tribunal cantonal de Bâle-Campagne 810 16 4 du 9 mars 2016**  
-Le Tribunal cantonal de Bâle-Campagne précise la nature juridique de l'attribution des mandats de mise à jour. Il ne s'agit pas d'un marché public, mais de la transmission d'une concession de monopole. La mise à jour courante de la mensuration officielle n'est donc pas soumise au droit ordinaire des soumissions.
+**Décision du Tribunal supérieur d'Argovie AGVE_2001_5 du 26 février 2001**
+Rapport entre la mensuration officielle et le registre foncier ; mensuration entrée en force.
+Importance centrale de la mensuration officielle pour le système du registre foncier.
 
-> « Lors de la mise à jour courante de la mensuration officielle, les communes n'interviennent pas comme demandeuses, mais comme offreuses, en attribuant le droit d'exécution exclusive des travaux de géomètre de mise à jour courante sur leur territoire pour une durée déterminée. »
+> « La mensuration entrée en force confère aux immeubles représentés la foi publique en ce sens qu'elle est réputée exacte tant que le contraire n'est pas prouvé (art. 950 et art. 9 CC). »
 
-**Arrêt du Tribunal administratif de Berne 100.2024.34 du 31 octobre 2024**  
-Le Tribunal administratif de Berne confirme la base constitutionnelle de la mensuration officielle dans l'art. 75a al. 2 Cst. et précise les procédures d'appel d'offres pour les mandats de mise à jour. Le tribunal fixe les principes de transparence et d'égalité de traitement lors d'attributions de concessions.
+## Prise en charge des coûts
 
-> « Selon l'art. 75a al. 2 de la Constitution fédérale (Cst. ; RS 101), la Confédération règle la mensuration officielle (cf. aussi art. 34 de la loi fédérale du 5 octobre 2007 sur la géoinformation [loi sur la géoinformation, LGéo ; RS 510.62] concernant la répartition des tâches entre la Confédération et les cantons). »
+**Décisions du Tribunal administratif des Grisons U 2021/4, U 2019/62, U 2024/31-34**
+Série de décisions sur la prise en charge des coûts pour la mensuration officielle.
+Clarification des responsabilités financières entre les différentes parties concernées.
 
-### 2. Égalité de traitement et transparence
+**Décision du Tribunal fédéral concernant la taxe sur la valeur ajoutée 2C_984/2014 du 26 mai 2016**
+Différences de chiffre d'affaires concernant la mensuration officielle ; traitement fiscal des prestations de mensuration.
+Importance pour le traitement des services de mensuration en droit fiscal.
 
-**Arrêt du Tribunal administratif de Berne 100.2024.230-233 du 22 novembre 2024 / 11 février 2025**  
-Une série d'arrêts sur les procédures d'attribution pour les travaux de géomètre de mise à jour. Les tribunaux précisent l'application des principes d'égalité de traitement et de l'obligation de transparence lors de l'évaluation d'offres. Une importance particulière revient à l'application uniforme des critères d'évaluation.
+## Liberté économique et interdiction de discrimination
 
-> « Le Tribunal administratif vérifie l'arrêt attaqué sous l'angle des violations du droit (art. 80 let. a et b LPAC). L'objet de la présente procédure est l'attribution d'un mandat par la commune pour la mise à jour courante dans le domaine de la mensuration officielle. »
+**Décision de l'Ambassade ch_vb_150000239 du 3 août 2011**
+Mensuration officielle, limite d'âge, interdiction de discrimination, liberté économique.
+Limites constitutionnelles lors de l'admission aux travaux de mensuration.
 
-## III. Jurisprudence administrative
+> « Mots-clés : Mensuration officielle, limite d'âge, interdiction de discrimination, liberté économique » montrent le lien entre l'art. 75a Cst. et les droits fondamentaux.
 
-### 1. Approbation d'œuvres de mensuration
+## Développements récents
 
-**Décision de la BVD Berne 140 2018 21 du 17 juin 2019**  
-La Direction des travaux publics, des transports et de l'énergie du canton de Berne statue sur les objections contre l'approbation d'une mensuration officielle. La décision montre la procédure lors de l'approbation d'œuvres de mensuration et les possibilités de recours pour les personnes concernées.
+**Arrêt du Tribunal fédéral 1C_664/2024 du 6 septembre 2025**
+Correction de contradictions de la mensuration officielle.
+Jurisprudence actuelle sur les procédures de correction en cas d'erreurs de mensuration.
 
-> « L'AGI en tant que surveillance de la mensuration a statué sur les objections resp. oppositions déposées et a approuvé l'œuvre de mensuration (art. 22 al. 3 en relation avec art. 40 al. 1 KGeoIG). »
+**Série Tribunal administratif de Berne 100.2024.217 à 100.2024.233 (2024-2025)**
+Plusieurs procédures parallèles concernant l'attribution de travaux de géomètres de mise à jour dans le canton de Berne.
+Montrent l'importance pratique et la fréquence des litiges lors de l'attribution de mandats de mensuration.
 
-### 2. Prise en charge des coûts de la mensuration officielle
-
-**Arrêts du Tribunal administratif des Grisons U 2024 31-34 du 2 septembre / 15 octobre 2024**  
-Une série de décisions sur la prise en charge des coûts de la mensuration officielle. Les tribunaux précisent qui doit supporter les coûts de la mise à jour et sous quelles conditions des décisions de frais peuvent être rendues.
-
-> « Pour la décision sur les ouvertures d'exécution au sens de l'art. 75a CP lors d'internements selon l'art. 64 CP, le Service militaire, protection civile et exécution des peines est compétent. »
-
-## IV. Questions juridiques particulières
-
-### 1. Interdiction de discriminer et liberté économique
-
-**Décision du CF 150000239 du 3 août 2011**  
-Le Conseil fédéral traite la question des limites d'âge dans le domaine de la mensuration. La limitation de l'activité professionnelle en raison de l'âge peut porter atteinte à la liberté économique et à l'interdiction de discriminer. De telles atteintes doivent satisfaire aux exigences de l'art. 36 Cst.
-
-> « La limitation de l'activité économique en raison de l'âge est propre à porter atteinte aux positions de droits fondamentaux de l'égalité juridique et de la liberté économique. La question de l'admissibilité des limites d'âge concernant l'exercice d'une profession se mesure aux critères des restrictions aux droits fondamentaux de l'art. 36 de la Constitution fédérale. »
-
-### 2. Indépendance des ingénieurs-géomètres
-
-**Arrêt du Tribunal administratif de Berne 100.2024.34 du 31 octobre 2024**  
-Le tribunal précise les exigences relatives à l'indépendance professionnelle des ingénieurs-géomètres. La révision de l'art. 44 OAV a souligné l'absence d'instructions, sans faire de prescriptions organisationnelles concrètes.
-
-> « Le seul fait que l'intimé 1 ne dispose que d'une procuration collective à deux et n'est que partie de la 'direction élargie' ne remet en question ni son indépendance professionnelle ni sa capacité à exercer sa profession de manière 'autonome'. »
-
-## V. Lignes d'évolution
-
-La jurisprudence sur l'art. 75a Cst. montre une évolution claire des questions de procédure formelle vers des exigences substantielles d'égalité de traitement et de transparence. Alors que les arrêts antérieurs traitaient principalement de la délimitation entre compétences fédérales et cantonales, les questions d'équité dans l'attribution et d'indépendance professionnelle sont aujourd'hui au premier plan.
-
-La jurisprudence récente souligne en outre la nature souveraine de la mensuration officielle, ce qui se reflète dans la qualification de décisions de droit public et dans les possibilités de recours correspondantes. En même temps, les limites des compétences souveraines sont tracées plus clairement, en particulier lors de litiges de limites entre privés.
+> « Le Tribunal administratif vérifie la décision attaquée quant aux violations du droit (art. 80 let. a et b LPJA) » lors de l'attribution de travaux de géomètres de mise à jour.

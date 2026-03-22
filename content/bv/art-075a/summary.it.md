@@ -1,0 +1,13 @@
+# Panoramica
+
+L'art. 75a Cost. disciplina la misurazione ufficiale della Svizzera su tre livelli. La disposizione crea le basi costituzionali per un sistema uniforme di rilevamento e gestione di dati con riferimento territoriale (geodati).
+
+**Misurazione nazionale (capoverso 1)**: La Confederazione esegue la misurazione nazionale (FF 1997 I 1, 259). Questa crea l'intelaiatura geodetica di base per l'intera Svizzera — come una rete di coordinate invisibile che determina con precisione ogni punto del Paese (Hoffmann/Griffel, BSK BV, Art. 75a N. 5). Comprende punti di misurazione, servizi di posizionamento satellitare e la carta nazionale. La Legge federale sulla geoinformazione (LGI) e l'Ordinanza sulla misurazione nazionale (OMN) attuano questa competenza.
+
+**Misurazione ufficiale (capoverso 2)**: La Confederazione disciplina la misurazione ufficiale, i Cantoni la eseguono (art. 34 LGI). Questa documenta ogni metro quadrato di suolo svizzero: confini dei fondi, edifici, strade, acque (Hoffmann/Griffel, BSK BV, Art. 75a N. 8). Un esempio: quando qualcuno acquista una casa, la misurazione ufficiale mostra esattamente dove inizia e finisce il fondo. La misurazione passata in giudicato gode di pubblica fede — vale come corretta finché non si prova il contrario (art. 9 LGI; TAF BE 100.2024.34U del 31.10.2024). L'Ordinanza sulla misurazione ufficiale (OMU) concretizza l'esecuzione.
+
+**Armonizzazione (capoverso 3)**: La Confederazione può emanare prescrizioni sull'armonizzazione delle informazioni ufficiali concernenti il suolo (FF 2006 7315, 7323 segg.). Questa competenza introdotta nel 2008 consente standard uniformi per tutti i geodati delle autorità. La portata è controversa nella dottrina giuridica: Lendi vede una competenza federale globale (BSK BV, Art. 75a N. 20), mentre Biaggini assume una competenza limitata per oggetto (BSK BV, Art. 75a N. 6).
+
+**Significato pratico**: L'ordinamento della misurazione incide notevolmente sulla vita quotidiana. Iscrizioni nel registro fondiario, licenze edilizie, determinazione delle imposte — tutto si basa sulla misurazione ufficiale (Huser, Vermessungsrecht, 34 segg.). Nelle controversie sui confini decide per lo più la misurazione. I costi della misurazione sono sostenuti in parte dai proprietari fondiari (art. 42 cpv. 3 OMU), nelle prime misurazioni regolarmente con un contributo.
+
+La giurisprudenza si occupa principalmente di procedure di aggiudicazione per lavori di aggiornamento (diritto degli appalti) e dell'eliminazione di errori di misurazione. Il Tribunale amministrativo di Berna ha confermato ripetutamente che l'aggiudicazione di lavori di geometra per l'aggiornamento sottostà al diritto degli appalti pubblici (TAF BE 100.2024.38U del 31.10.2024).

@@ -1,0 +1,13 @@
+# Overview
+
+Art. 75a FC regulates the official surveying of Switzerland at three levels. The provision creates the constitutional foundations for a unified system for the collection and management of spatial data (geodata).
+
+**National Survey (Paragraph 1)**: The Confederation conducts the national survey (BBl 1997 I 1, 282). This creates the geodetic framework for the entire Switzerland — like an invisible coordinate network that precisely determines every point in the country (Hoffmann/Griffel, BSK BV, Art. 75a N. 5). This includes survey points, satellite positioning services and the national map. The Federal Act on Geoinformation (GeoIA) and the National Survey Ordinance (NSO) implement this competence.
+
+**Official Survey (Paragraph 2)**: The Confederation regulates the official survey; the cantons conduct it (Art. 34 GeoIA). This documents every square metre of Swiss soil: property boundaries, buildings, roads, watercourses (Hoffmann/Griffel, BSK BV, Art. 75a N. 8). An example: If someone buys a house, the official survey shows exactly where the property begins and ends. The legally binding survey enjoys public faith — it is deemed correct until proven otherwise (Art. 9 GeoIA; VGE BE 100.2024.34U of 31.10.2024). The Ordinance on Official Survey (OSO) specifies the implementation.
+
+**Harmonisation (Paragraph 3)**: The Confederation may enact regulations on the harmonisation of official information about land and soil (BBl 2006 7817, 7825 ff.). This competence, introduced in 2008, enables uniform standards for all official geodata. The scope is disputed in legal doctrine: Lendi sees a comprehensive federal competence (BSK BV, Art. 75a N. 20), while Biaggini assumes a substantively limited competence (BSK BV, Art. 75a N. 6).
+
+**Practical Significance**: The surveying system significantly shapes everyday life. Land register entries, building permits, tax assessments — all are based on the official survey (Huser, Vermessungsrecht, 34 ff.). In boundary disputes, the survey usually decides. The costs of surveying are partially borne by property owners (Art. 42 para. 3 OSO), with regular contributions for initial surveys.
+
+Case law deals mainly with award procedures for updating work (public procurement law) and the correction of survey errors. The Administrative Court of Bern has repeatedly confirmed that the award of updating surveyor work is subject to public procurement law (VGE BE 100.2024.38U of 31.10.2024).
