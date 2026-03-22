@@ -2,6 +2,7 @@
 // site/src/pages/[lang]/[law]/[article].astro
 import { LANGS, type Lang, t } from '@/lib/i18n';
 import { langBase, langHome } from '@/lib/base';
+import { renderMarkdown, type TocEntry } from '@/lib/markdown';
 import Base from '../../../layouts/Base.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
 import ArticleTabs from '../../../components/ArticleTabs.astro';
@@ -52,129 +53,9 @@ if (gesetzestextParagraphs.length === 0 && lang !== 'de') {
 // Translate article title if available
 const translatedTitle = getTranslatedTitle(lawInfo.abbr, articleRaw, lang, meta.title);
 
-// Generate a slug from heading text for anchor IDs
-function slugify(text: string): string {
-  return text
-    .toLowerCase()
-    .replace(/[äöüéèêàâîôûç]/g, (c) => {
-      const map: Record<string, string> = {
-        ä: 'ae', ö: 'oe', ü: 'ue', é: 'e', è: 'e', ê: 'e',
-        à: 'a', â: 'a', î: 'i', ô: 'o', û: 'u', ç: 'c',
-      };
-      return map[c] || c;
-    })
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-|-$/g, '');
-}
-
-interface TocEntry {
-  level: number;
-  text: string;
-  id: string;
-}
-
-// Simple Markdown to HTML conversion with anchors & enhanced rendering
-function mdToHtml(md: string): string {
-  if (!md.trim()) return '<p class="text-muted">Noch kein Inhalt verfügbar.</p>';
-
-  let html = md
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    // Headings with anchor IDs
-    .replace(/^### (.+)$/gm, (_m, text) => {
-      const id = slugify(text);
-      return `<h3 id="${id}"><a href="#${id}" class="heading-anchor" aria-hidden="true">#</a>${text}</h3>`;
-    })
-    .replace(/^## (.+)$/gm, (_m, text) => {
-      const id = slugify(text);
-      return `<h2 id="${id}"><a href="#${id}" class="heading-anchor" aria-hidden="true">#</a>${text}</h2>`;
-    })
-    .replace(/^# (.+)$/gm, (_m, text) => {
-      const id = slugify(text);
-      return `<h1 id="${id}">${text}</h1>`;
-    })
-    // Randziffern: **N. X** → styled anchor with deep-link
-    .replace(
-      /\*\*(N\.\s*(\d+))\*\*/g,
-      (_m, label, num) =>
-        `<strong class="randziffer" id="n-${num}"><a href="#n-${num}" class="rz-link" title="${label}">${label}</a></strong>`
-    )
-    // BGE citations → linked to bger.ch with highlight
-    .replace(
-      /\*\*(BGE\s+(\d+)\s+([IVX]+)\s+(\d+))\*\*/g,
-      (_m, cite, vol, part, page) => {
-        const docid = encodeURIComponent(`atf://${vol}-${part}-${page}:de`);
-        const query = encodeURIComponent(`BGE ${vol} ${part} ${page}`);
-        const url = `https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=highlight_simple_query&query_words=${query}&part=all&top_subcollection_clir=bge&highlight_docid=${docid}&azaclir=clir`;
-        return `<strong><a href="${url}" target="_blank" rel="noopener" class="cite-bge">${cite}</a></strong>`;
-      }
-    )
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    // Plain BGE citations (not already wrapped in an anchor)
-    .replace(
-      /(?<!["'>])(BGE)\s+(\d+)\s+([IVX]+)\s+(\d+)(?![^<]*<\/a>)/g,
-      (_m, prefix, vol, part, page) => {
-        const cite = `${prefix} ${vol} ${part} ${page}`;
-        const docid = encodeURIComponent(`atf://${vol}-${part}-${page}:de`);
-        const query = encodeURIComponent(`BGE ${vol} ${part} ${page}`);
-        const url = `https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=highlight_simple_query&query_words=${query}&part=all&top_subcollection_clir=bge&highlight_docid=${docid}&azaclir=clir`;
-        return `<a href="${url}" target="_blank" rel="noopener" class="cite-bge">${cite}</a>`;
-      }
-    )
-    .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    // Cross-references to other articles
-    .replace(
-      /(?:→|↔)\s*Art\.\s*(\d+)([a-z]*)\s+(BV|ZGB|OR|ZPO|StGB|StPO|SchKG|VwVG)/g,
-      (match, num, suffix, law) => {
-        const lawLower = law.toLowerCase();
-        const base = langBase(lang);
-        return `<a href="${base}/${lawLower}/art-${parseInt(num)}${suffix}" class="cite-cross">${match}</a>`;
-      }
-    )
-    // Blockquotes with proper nesting
-    .replace(/^&gt; (.+)$/gm, '<blockquote><p>$1</p></blockquote>')
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/\n/g, '<br/>');
-
-  if (!html.startsWith('<h') && !html.startsWith('<blockquote') && !html.startsWith('<ul') && !html.startsWith('<ol')) {
-    html = '<p>' + html + '</p>';
-  }
-
-  html = html.replace(/<p><\/p>/g, '');
-  html = html.replace(/<p>(<h[1-3])/g, '$1');
-  html = html.replace(/(<\/h[1-3]>)<\/p>/g, '$1');
-  // Merge consecutive blockquotes
-  html = html.replace(/<\/blockquote>\s*<blockquote>/g, '');
-
-  return html;
-}
-
-// Extract TOC entries from markdown
-function extractToc(md: string): TocEntry[] {
-  const entries: TocEntry[] = [];
-  const lines = md.split('\n');
-  for (const line of lines) {
-    const h2 = line.match(/^## (.+)$/);
-    if (h2) {
-      entries.push({ level: 2, text: h2[1], id: slugify(h2[1]) });
-      continue;
-    }
-    const h3 = line.match(/^### (.+)$/);
-    if (h3) {
-      entries.push({ level: 3, text: h3[1], id: slugify(h3[1]) });
-    }
-  }
-  return entries;
-}
-
-const summaryHtml = mdToHtml(summary);
-const doctrineHtml = mdToHtml(doctrine);
-const caselawHtml = mdToHtml(caselaw);
-
-// Extract TOC entries for tabs with rich heading structure
-const doctrineToc = extractToc(doctrine);
-const caselawToc = extractToc(caselaw);
+const { html: summaryHtml } = renderMarkdown(summary, lang);
+const { html: doctrineHtml, toc: doctrineToc } = renderMarkdown(doctrine, lang);
+const { html: caselawHtml, toc: caselawToc } = renderMarkdown(caselaw, lang);
 
 const articleDisplay = `Art. ${meta.article}${meta.article_suffix || ''} ${lawInfo.abbr}`;
 
