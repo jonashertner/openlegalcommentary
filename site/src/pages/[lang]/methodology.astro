@@ -69,7 +69,25 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
       },
       {
         heading: 'Übersetzung',
-        body: `<p>Veröffentlichte Kommentare werden automatisch in Französisch, Italienisch und Englisch übersetzt. Die deutsche Fassung ist massgeblich. Rechtsbegriffe werden gemäss den offiziellen Fedlex-Termdat-Übersetzungen wiedergegeben. Struktur, Formatierung und Randziffern-Nummerierung bleiben erhalten.</p>`
+        body: `<p>Veröffentlichte Kommentare werden automatisch in Französisch, Italienisch und Englisch übersetzt. Die deutsche Fassung ist massgeblich. Rechtsbegriffe werden gemäss den offiziellen Fedlex-Termdat-Übersetzungen wiedergegeben. Struktur, Formatierung und Randziffern-Nummerierung bleiben erhalten.</p>
+<p>Für Artikeltitel und Gesetzestexte: Wo Fedlex offizielle Übersetzungen bereitstellt (z.B. BV in allen vier Sprachen), werden diese verwendet und als <em>«Fedlex»</em> gekennzeichnet. Wo keine offizielle Übersetzung vorliegt, wird eine eigene Übersetzung erstellt.</p>`
+      },
+      {
+        heading: 'Produktionskosten (BV)',
+        body: `<p>Transparente Kostendaten aus dem Bootstrap-Lauf der Bundesverfassung:</p>
+<table class="eval-table">
+  <thead><tr><th>Metrik</th><th>Wert</th></tr></thead>
+  <tbody>
+    <tr><td>Durchschnittliche Kosten pro Artikel</td><td>$2.58</td></tr>
+    <tr><td>Median</td><td>$2.40</td></tr>
+    <tr><td>Spanne</td><td>$0.84 – $7.77</td></tr>
+    <tr><td>Kosten pro Ebene</td><td>~$0.50 (Generierung + Evaluation)</td></tr>
+    <tr><td>Kosten pro Übersetzung</td><td>~$0.15 pro Sprache</td></tr>
+    <tr><td>Evaluations-Retry-Aufwand</td><td>+$0.80 pro abgelehntem Versuch</td></tr>
+    <tr><td>Geschätzte Gesamtkosten BV (232 Artikel)</td><td>~$600</td></tr>
+    <tr><td>Geschätzte Gesamtkosten alle 8 Gesetze (4'800+ Artikel)</td><td>~$12'000</td></tr>
+  </tbody>
+</table>`
       },
       {
         heading: 'Datenquellen',
@@ -145,7 +163,8 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
       },
       {
         heading: 'Translation',
-        body: `<p>Published commentary is automatically translated into French, Italian, and English. The German version is authoritative. Legal terminology uses official Fedlex termdat translations. Structure, formatting, and marginal number numbering are preserved.</p>`
+        body: `<p>Published commentary is automatically translated into French, Italian, and English. The German version is authoritative. Legal terminology uses official Fedlex termdat translations. Structure, formatting, and marginal number numbering are preserved.</p>
+<p>For article titles and statute texts: where Fedlex provides official translations (e.g., the Federal Constitution is available in all four national languages plus English), these are used and marked as <em>"Fedlex"</em>. Where no official translation exists, the platform produces its own AI translation.</p>`
       },
       {
         heading: 'Data Sources',
@@ -188,7 +207,24 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
 <p>This grounds the AI commentary in actual scholarly sources rather than generating citations from training data.</p>
 
 <h3>Cost Tracking and Resumability</h3>
-<p>Every API call is tracked with token-level cost estimation (~$2.50 per article for 3 layers + evaluation + translation to 3 languages). The pipeline supports budget limits and crash-safe resumability — state is persisted after each article completion.</p>`
+<p>Every API call is tracked with token-level cost estimation. The pipeline supports budget limits and crash-safe resumability — state is persisted after each article completion.</p>
+
+<h3>Production Costs — BV (Federal Constitution)</h3>
+<p>Transparent cost data from the BV bootstrap run (232 articles):</p>
+<table class="eval-table">
+  <thead><tr><th>Metric</th><th>Value</th></tr></thead>
+  <tbody>
+    <tr><td>Average cost per article</td><td>$2.58</td></tr>
+    <tr><td>Median cost per article</td><td>$2.40</td></tr>
+    <tr><td>Range</td><td>$0.84 – $7.77</td></tr>
+    <tr><td>Cost per layer</td><td>~$0.50 (generation + evaluation)</td></tr>
+    <tr><td>Cost per translation</td><td>~$0.15 per language</td></tr>
+    <tr><td>Evaluation retry overhead</td><td>+$0.80 per rejected attempt</td></tr>
+    <tr><td>Estimated total for BV (232 articles)</td><td>~$600</td></tr>
+    <tr><td>Estimated total for all 8 laws (4,800+ articles)</td><td>~$12,000</td></tr>
+  </tbody>
+</table>
+<p>Higher-cost articles are those with extensive case law (more tool calls to opencaselaw) or repeated evaluation rejections (up to 3 attempts per layer).</p>`
       },
       {
         heading: 'Open Source & License',

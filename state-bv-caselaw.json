@@ -732,56 +732,56 @@
       "law": "BV",
       "article_number": 81,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 2.421525,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 81,
       "article_suffix": "a",
-      "status": "pending",
+      "status": "failed",
       "cost_usd": 0.0,
-      "error": ""
+      "error": "One or more layers failed"
     },
     {
       "law": "BV",
       "article_number": 82,
       "article_suffix": "",
-      "status": "pending",
+      "status": "failed",
       "cost_usd": 0.0,
-      "error": ""
+      "error": "Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CZJPGijaeGYNZM5aDTz3P'}"
     },
     {
       "law": "BV",
       "article_number": 83,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 5.553621,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 84,
       "article_suffix": "",
-      "status": "pending",
+      "status": "failed",
       "cost_usd": 0.0,
-      "error": ""
+      "error": "One or more layers failed"
     },
     {
       "law": "BV",
       "article_number": 85,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.735648,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 85,
       "article_suffix": "a",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 5.543052,
       "error": ""
     },
     {
@@ -1857,5 +1857,5 @@
       "error": ""
     }
   ],
-  "total_cost": 220.529733
+  "total_cost": 237.78357899999997
 }
