@@ -66,7 +66,7 @@ def config_with_refs(tmp_path):
             },
         },
     }
-    (refs_dir / "or_bsk.json").write_text(json.dumps(refs_data))
+    (refs_dir / "or_primary.json").write_text(json.dumps(refs_data))
 
     return AgentConfig(
         content_root=content_root,
@@ -120,7 +120,7 @@ def test_evaluator_includes_commentary_refs(config_with_refs):
 
 def test_generate_doctrine_no_refs_for_uncovered_law(config_with_refs):
     """No crash when law has no commentary refs."""
-    # Create ZGB content dir (no BSK refs for ZGB)
+    # Create ZGB content dir (no refs for ZGB)
     art_dir = config_with_refs.content_root / "zgb" / "art-001"
     art_dir.mkdir(parents=True)
     (art_dir / "meta.yaml").write_text(
@@ -137,4 +137,4 @@ def test_generate_doctrine_no_refs_for_uncovered_law(config_with_refs):
             config_with_refs, "ZGB", 1, "", "doctrine",
         ))
         prompt = mock_run.call_args.kwargs["prompt"]
-        assert "BSK" not in prompt  # no BSK data for ZGB
+        assert "BSK" not in prompt  # no ref data for ZGB

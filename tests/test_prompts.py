@@ -76,7 +76,7 @@ def test_all_eight_laws(guidelines_root):
         assert len(prompt) > 500  # Should contain substantial guidelines
 
 
-def test_doctrine_instructions_mention_bsk():
+def test_doctrine_instructions_mention_references():
     from agents.prompts import LAYER_INSTRUCTIONS
 
     doctrine = LAYER_INSTRUCTIONS["doctrine"]

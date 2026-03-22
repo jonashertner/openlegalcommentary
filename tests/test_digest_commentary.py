@@ -35,7 +35,7 @@ def test_build_digestion_prompt_french():
 def test_parse_digest_response_valid():
     response = json.dumps({
         "authors": ["Kessler"],
-        "edition": "BSK OR I, 7. Aufl. 2019",
+        "edition": "Doctrinal OR I, 7. Aufl. 2019",
         "randziffern_map": {"1-3": "Entstehungsgeschichte"},
         "positions": [
             {"author": "Kessler", "n": "N. 12", "topic": "Test", "position": "Pos"},
@@ -51,7 +51,7 @@ def test_parse_digest_response_valid():
 
 def test_parse_digest_response_with_markdown():
     inner = json.dumps({
-        "authors": ["Kessler"], "edition": "BSK OR I", "positions": [],
+        "authors": ["Kessler"], "edition": "Doctrinal OR I", "positions": [],
     })
     response = f"Here is the result:\n```json\n{inner}\n```"
     result = parse_digest_response(response)
@@ -64,7 +64,7 @@ def test_parse_digest_response_invalid():
 
 
 def test_parse_digest_response_missing_required():
-    response = json.dumps({"edition": "BSK OR I"})  # missing authors
+    response = json.dumps({"edition": "Doctrinal OR I"})  # missing authors
     with pytest.raises(ValueError):
         parse_digest_response(response)
 
@@ -98,7 +98,7 @@ def test_chunk_long_article():
 
 def test_merge_chunk_results_deduplicates():
     ref1 = ArticleRef(
-        authors=["Kessler"], edition="BSK OR I",
+        authors=["Kessler"], edition="Doctrinal OR I",
         positions=[
             Position(author="Kessler", n="N. 5", topic="T", position="P1"),
         ],
@@ -106,7 +106,7 @@ def test_merge_chunk_results_deduplicates():
         key_literature=["Gauch"],
     )
     ref2 = ArticleRef(
-        authors=["Kessler"], edition="BSK OR I",
+        authors=["Kessler"], edition="Doctrinal OR I",
         positions=[
             Position(author="Kessler", n="N. 15", topic="T2", position="P2"),
         ],

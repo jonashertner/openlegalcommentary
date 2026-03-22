@@ -1,9 +1,9 @@
 """Pass 2: Digest raw commentary text into structured reference data via Claude.
 
 Usage:
-    uv run python -m scripts.digest_commentary scripts/commentary_raw/or_bsk.json
+    uv run python -m scripts.digest_commentary scripts/commentary_raw/or_refs.json
     uv run python -m scripts.digest_commentary --all
-    uv run python -m scripts.digest_commentary scripts/commentary_raw/or_bsk.json --resume
+    uv run python -m scripts.digest_commentary scripts/commentary_raw/or_refs.json --resume
 """
 from __future__ import annotations
 
@@ -30,7 +30,7 @@ The text below is from a {source_type} commentary on Swiss law ({law}).
 Extract the following as JSON — do NOT summarize or paraphrase the text. Identify:
 
 1. **authors**: List of author names for this article
-2. **edition**: Full edition string (e.g., "BSK OR I, 7. Aufl. 2019")
+2. **edition**: Full edition string (e.g., "Doctrinal OR I, 7. Aufl. 2019")
 3. **randziffern_map**: Map of N. ranges to topics (e.g., "1-3": "Entstehungsgeschichte")
 4. **positions**: List of named doctrinal positions, each with:
    - author: who holds this position
@@ -53,7 +53,7 @@ Return ONLY valid JSON matching this schema. No markdown, no explanation.
 def build_digestion_prompt(text: str, law: str, lang: str) -> str:
     """Build the prompt for structured extraction."""
     source_type = (
-        "Basler Kommentar (BSK)" if lang == "de"
+        "leading commentary" if lang == "de"
         else "Commentaire Romand (CR)"
     )
     lang_note = ""
@@ -286,7 +286,7 @@ async def process_file(
     law = next(iter(data))
     articles = data[law]
 
-    source = "bsk" if "_bsk" in raw_path.name else "cr"
+    source = "refs" if "_refs" in raw_path.name else "cr"
     state_path = (
         raw_path.parent / f"{law.lower()}_{source}_digest_state.json"
     )

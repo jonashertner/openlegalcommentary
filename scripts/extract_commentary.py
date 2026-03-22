@@ -1,10 +1,10 @@
-"""Pass 1: Extract raw text from BSK/CR PDFs and split into per-article chunks.
+"""Pass 1: Extract raw text from commentary source texts and split into per-article chunks.
 
 Supports two modes:
   1. Single volume PDF: split by article headers
-     uv run python -m scripts.extract_commentary data/bsk_or_i.pdf --volume bsk_or_i
+     uv run python -m scripts.extract_commentary data/or_i_refs.pdf --volume or_i_refs
   2. Per-article PDFs in a directory: one PDF per article
-     uv run python -m scripts.extract_commentary --dir data/commentary_pdfs/ --law BV --source bsk
+     uv run python -m scripts.extract_commentary --dir data/commentary_pdfs/ --law BV --source primary
 """
 from __future__ import annotations
 
@@ -17,13 +17,13 @@ from pathlib import Path
 logger = logging.getLogger(__name__)
 
 VOLUME_CONFIG: dict[str, dict] = {
-    "bsk_or_i": {"law": "OR", "source": "bsk", "article_range": (1, 529)},
-    "bsk_or_ii": {"law": "OR", "source": "bsk", "article_range": (530, 1186)},
+    "or_i": {"law": "OR", "source": "primary", "article_range": (1, 529)},
+    "or_ii": {"law": "OR", "source": "primary", "article_range": (530, 1186)},
     "cr_co_i": {"law": "OR", "source": "cr", "article_range": (1, 529)},
-    "bsk_bv": {"law": "BV", "source": "bsk", "article_range": (1, 197)},
-    "bsk_stgb": {"law": "StGB", "source": "bsk", "article_range": (1, 401)},
-    "bsk_zpo": {"law": "ZPO", "source": "bsk", "article_range": (1, 408)},
-    "bsk_stpo": {"law": "StPO", "source": "bsk", "article_range": (1, 457)},
+    "bv": {"law": "BV", "source": "primary", "article_range": (1, 197)},
+    "stgb": {"law": "StGB", "source": "primary", "article_range": (1, 401)},
+    "zpo": {"law": "ZPO", "source": "primary", "article_range": (1, 408)},
+    "stpo": {"law": "StPO", "source": "primary", "article_range": (1, 457)},
 }
 
 # Regex for article headers — matches "Art. 41", "Art. 6a", "Art. 706b" etc.
@@ -61,7 +61,7 @@ def split_articles(raw_text: str, law: str) -> dict[str, str]:
     return articles
 
 
-# Regex for per-article filenames: BSK-BV-Author-Art-{number}[suffix].pdf
+# Regex for per-article filenames: primary-BV-Author-Art-{number}[suffix].pdf
 # Handles Art-121, Art-6a, Art-197-Ziff-8
 PER_ARTICLE_RE = re.compile(
     r"Art-(\d+[a-z]?)(?:-Ziff-(.+?))?\.pdf$",
@@ -72,10 +72,10 @@ def parse_article_key_from_filename(filename: str) -> str | None:
     """Extract article key from a per-article PDF filename.
 
     Examples:
-        BSK-BV-Achermann-Art-121.pdf → "121"
-        BSK-BV-Alig-Griffel-Art-75b.pdf → "75b"
-        BSK-BV-Achermann-Art-197-Ziff-8.pdf → "197ziff8"
-        BSK-BV-Epiney-Art-196-Ziff-1-2.pdf → "196ziff1-2"
+        primary-BV-Achermann-Art-121.pdf → "121"
+        primary-BV-Alig-Griffel-Art-75b.pdf → "75b"
+        primary-BV-Achermann-Art-197-Ziff-8.pdf → "197ziff8"
+        primary-BV-Epiney-Art-196-Ziff-1-2.pdf → "196ziff1-2"
     """
     match = PER_ARTICLE_RE.search(filename)
     if not match:
@@ -102,7 +102,7 @@ def extract_pdf(pdf_path: Path) -> str:
 def process_volume(
     pdf_path: Path, volume_name: str, output_dir: Path,
 ) -> Path:
-    """Extract and split a single BSK/CR volume."""
+    """Extract and split a single primary/CR volume."""
     config = VOLUME_CONFIG[volume_name]
     law = config["law"]
     source = config["source"]
@@ -135,7 +135,7 @@ def process_directory(
 ) -> Path:
     """Extract text from per-article PDFs in a directory.
 
-    Each PDF named like BSK-BV-Author-Art-{num}.pdf is extracted
+    Each PDF named like primary-BV-Author-Art-{num}.pdf is extracted
     and keyed by article number.
     """
     logger.info(
@@ -174,7 +174,7 @@ def process_directory(
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Extract raw text from BSK/CR PDFs",
+        description="Extract raw text from commentary source texts",
     )
     parser.add_argument(
         "pdf_path", nargs="?", type=Path, help="Path to a single PDF",
@@ -191,8 +191,8 @@ def main():
         "--law", help="Law abbreviation (e.g., BV) — required with --dir",
     )
     parser.add_argument(
-        "--source", choices=["bsk", "cr"], default="bsk",
-        help="Commentary source (default: bsk)",
+        "--source", choices=["primary", "cr"], default="primary",
+        help="Commentary source (default: primary)",
     )
     parser.add_argument(
         "--all", action="store_true",
