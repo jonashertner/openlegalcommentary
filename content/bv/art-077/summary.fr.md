@@ -1,0 +1,13 @@
+# Art. 77 Cst. — Aperçu
+
+L'art. 77 Cst. confère à la Confédération la compétence de protéger la forêt suisse. La Constitution exige que la forêt puisse remplir trois fonctions importantes : elle doit protéger contre les dangers naturels (fonction de protection), fournir du bois comme matière première (fonction de production) et servir à la détente ainsi qu'à la protection de l'environnement (fonction sociale). Ces trois fonctions doivent être traitées de manière équivalente selon le message relatif à la Cst. (FF 1997 I 386).
+
+La Confédération ne peut édicter que des principes pour la protection de la forêt (compétence de législation-cadre). Cela signifie qu'elle peut déterminer les règles les plus importantes, mais ne peut pas régler tous les détails. Les cantons exécutent ces règles et disposent d'une marge de manœuvre dans leur mise en œuvre. Il est controversé de savoir si la Confédération peut également assumer elle-même des tâches d'exécution. La doctrine juridique est divisée : Jagmetti le nie, tandis que Hoffmann/Griffel affirment, en se fondant sur l'art. 46 Cst., l'existence de compétences limitées d'exécution fédérale (BSK BV, art. 77 ch. 20).
+
+La principale loi fédérale est la loi sur les forêts (LFo). Elle interdit en principe de défricher définitivement des surfaces forestières. Quiconque veut néanmoins défricher de la forêt a besoin d'une autorisation. Celle-ci n'est accordée que si des motifs importants l'emportent sur la protection de la forêt. En cas d'infractions à la loi sur les forêts, des amendes sont prévues (art. 42 ss LFo).
+
+La notion de forêt fait l'objet de discussions controversées. La LFo connaît une notion dynamique de forêt : un terrain devient automatiquement forêt si des arbres y poussent. Les cantons peuvent toutefois introduire une notion statique de forêt, qui ne protège que les zones forestières existantes. Les critiques reprochent à la Confédération de laisser trop de liberté aux cantons (BSK BV, art. 77 ch. 17).
+
+**Exemple :** Une commune veut construire une nouvelle route à travers une zone forestière. Elle doit d'abord demander une autorisation de défrichement. L'autorité examine si la route est vraiment nécessaire et s'il n'existe pas d'autres solutions. L'autorisation n'est accordée que si l'intérêt public à la route est supérieur à l'intérêt de la protection de la forêt. En compensation, il faut généralement planter une nouvelle forêt ailleurs.
+
+La disposition ne protège pas la propriété de manière absolue. Les propriétaires forestiers doivent accepter de ne pas pouvoir utiliser leur forêt arbitrairement. Le Tribunal fédéral a confirmé que la protection de la forêt se situe au même rang que la garantie de la propriété (BGE 150 I 213).

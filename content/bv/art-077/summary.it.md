@@ -1,0 +1,13 @@
+# Art. 77 Cost. — Panoramica
+
+L'art. 77 Cost. conferisce alla Confederazione la competenza per la protezione delle foreste svizzere. La Costituzione esige che le foreste possano adempiere tre funzioni importanti: devono proteggere dai pericoli naturali (funzione protettiva), fornire legno come materia prima (funzione economica) e servire al svago nonché alla protezione dell'ambiente (funzione sociale). Queste tre funzioni vanno trattate in modo equivalente secondo il messaggio sulla Cost. (FF 1997 I 381).
+
+La Confederazione può stabilire soltanto i principi per la protezione delle foreste (competenza legislativa di principio). Ciò significa: può determinare le regole più importanti, ma non disciplinare tutti i dettagli. I Cantoni eseguono queste regole e hanno margine di manovra nella loro configurazione. È controverso se la Confederazione possa anche assumere compiti esecutivi propri. La dottrina è discorde: Jagmetti lo nega, mentre Hoffmann/Griffel, basandosi sull'art. 46 Cost., affermano competenze esecutive federali limitate (BSK Cost., art. 77 n. 20).
+
+La legge federale più importante è la legge forestale (LFo). Essa vieta in linea di principio il dissodamento permanente di superfici forestali. Chi vuole comunque dissodare deve ottenere un'autorizzazione. Questa viene concessa soltanto se sussistono motivi importanti che prevalgono sulla protezione delle foreste. In caso di violazioni della legge forestale sono comminate multe (art. 42 segg. LFo).
+
+Il concetto di foresta è oggetto di discussione controversa. La LFo conosce un concetto dinamico di foresta: un terreno diventa automaticamente foresta se vi crescono alberi. I Cantoni possono però introdurre un concetto statico di foresta che protegge soltanto le aree forestali esistenti. I critici lamentano che la Confederazione lascia troppo margine di manovra ai Cantoni (BSK Cost., art. 77 n. 17).
+
+**Esempio:** Un Comune vuole costruire una nuova strada attraverso un'area forestale. Deve prima richiedere un'autorizzazione di dissodamento. L'autorità esamina se la strada è realmente necessaria e se non esistono altre soluzioni. L'autorizzazione viene rilasciata soltanto se l'interesse pubblico alla strada è maggiore dell'interesse alla protezione della foresta. Come compensazione, di regola deve essere piantata nuova foresta in altro luogo.
+
+La disposizione non protegge la proprietà in modo assoluto. I proprietari di foreste devono accettare di non poter utilizzare la loro foresta a piacimento. Il Tribunale federale ha confermato che la protezione delle foreste è equiparata alla garanzia della proprietà (DTF 150 I 213).

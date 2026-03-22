@@ -1,0 +1,11 @@
+# Aperçu
+
+L'art. 86 Cst. règle le financement des routes nationales et de l'infrastructure de transport dans les villes et agglomérations. Cette disposition crée deux fonds distincts : le fonds pour les routes nationales et le trafic d'agglomération (FORTA) et le financement spécial pour la circulation routière. Cette affectation garantit que les recettes provenant de la circulation routière sont également utilisées pour la circulation routière.
+
+Le FORTA finance principalement les routes nationales (autoroutes et semi-autoroutes) ainsi que les projets de transport dans les agglomérations. Il reçoit les produits de la vignette autoroutière, les suppléments sur l'impôt sur les huiles minérales et en règle générale 10 pour cent de l'impôt général sur les huiles minérales. Pour cet impôt sur les huiles minérales s'applique un plafond de 310 millions de francs par an. La vignette autoroutière est juridiquement controversée : alors que le Conseil fédéral la qualifie d'émolument, la doctrine dominante la considère comme un impôt, car son montant est indépendant de l'utilisation des routes.
+
+Le financement spécial reçoit les produits restants de l'impôt sur les huiles minérales et finance d'autres tâches liées aux routes. Celles-ci comprennent les contributions aux routes principales cantonales, les mesures de protection de l'environnement et les contributions routières générales aux cantons. La recherche et l'administration sont également financées par ce biais.
+
+Les deux instruments de financement ne peuvent être utilisés que pour des objectifs « en rapport avec la circulation routière ». Cette formulation doit être interprétée largement : les voies ferrées ou les pistes cyclables peuvent également être financées si elles soulagent de manière avérée les routes.
+
+**Exemple :** Un canton planifie une ligne de RER dans une agglomération. Bien qu'il s'agisse de transport ferroviaire, la Confédération peut contribuer par des moyens du FORTA, si le RER réduit le trafic automobile et soulage ainsi les routes.
