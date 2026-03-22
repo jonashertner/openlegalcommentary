@@ -10,6 +10,7 @@
     "preview": "astro preview"
   },
   "dependencies": {
+    "@astrojs/sitemap": "^3.7.1",
     "astro": "^4.16.0",
     "js-yaml": "^4.1.0",
     "rehype-autolink-headings": "^7.1.0",

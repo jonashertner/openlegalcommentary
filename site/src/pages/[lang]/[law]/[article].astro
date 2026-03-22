@@ -64,18 +64,23 @@ const activeTab = ['summary', 'doctrine', 'caselaw'].includes(layerParam) ? laye
 
 const layerMeta = meta.layers || {};
 const lastUpdated = Object.values(layerMeta)
-  .map((l) => l.last_generated)
+  .map((l: any) => l.last_generated)
   .filter(Boolean)
   .sort()
   .pop();
+
+// Generate per-article meta description from summary first sentence
+const summaryPlain = summary.replace(/[#*>\[\]()]/g, '').replace(/\n+/g, ' ').trim();
+const firstSentence = summaryPlain.match(/^.{50,200}?[.!?]\s/)?.[0]?.trim() || summaryPlain.slice(0, 160);
+const metaDescription = firstSentence || `${t('footer.commentary', lang)}: ${articleDisplay} — ${translatedTitle}`;
 ---
 
-<Base title={articleDisplay} lang={lang} pagePath={`/${lawParam}/${articleSlug}`} description={`${t('footer.commentary', lang)}: ${articleDisplay}`}>
+<Base title={`${articleDisplay} — ${translatedTitle}`} lang={lang} pagePath={`/${lawParam}/${articleSlug}`} description={metaDescription}>
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": "ScholarlyArticle",
     "headline": `${articleDisplay} — ${translatedTitle}`,
-    "description": `${t('footer.commentary', lang)}: ${articleDisplay}`,
+    "description": metaDescription,
     "inLanguage": lang,
     "isPartOf": {
       "@type": "WebSite",
@@ -87,14 +92,23 @@ const lastUpdated = Object.values(layerMeta)
       "name": "Open Legal Commentary",
       "url": "https://openlegalcommentary.ch"
     },
+    "author": {
+      "@type": "Organization",
+      "name": "Open Legal Commentary"
+    },
     "about": {
       "@type": "Legislation",
       "name": lawInfo.name[lang],
-      "legislationIdentifier": `SR ${meta.sr_number}`,
-      "jurisdiction": "CH"
+      "legislationIdentifier": `SR ${meta.sr_number} Art. ${meta.article}${meta.article_suffix || ''}`,
+      "jurisdiction": {
+        "@type": "AdministrativeArea",
+        "name": "Switzerland"
+      }
     },
+    "datePublished": Object.values(layerMeta).map((l: any) => l.last_generated).filter(Boolean).sort()[0] || undefined,
     "dateModified": lastUpdated || undefined,
-    "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "keywords": `Swiss law, ${lawInfo.name[lang]}, Art. ${meta.article}${meta.article_suffix || ''}, legal commentary`
   })} />
   <Breadcrumb
     lang={lang}

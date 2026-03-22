@@ -52,6 +52,15 @@ const fullTitle = title === 'Home'
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Open Legal Commentary" />
+    <meta property="og:url" content={`${(Astro.site?.toString() || '').replace(/\/$/, '')}${langBase(lang)}${pagePath}`} />
+    <meta property="og:locale" content={lang === 'de' ? 'de_CH' : lang === 'fr' ? 'fr_CH' : lang === 'it' ? 'it_CH' : 'en'} />
+    <meta property="og:image" content={`${(Astro.site?.toString() || '').replace(/\/$/, '')}/og-image.png`} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={`${(Astro.site?.toString() || '').replace(/\/$/, '')}/og-image.png`} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
     <meta name="base-url" content={BASE} />
     <ViewTransitions />
     <script is:inline>
