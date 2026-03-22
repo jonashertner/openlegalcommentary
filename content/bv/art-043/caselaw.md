@@ -1,75 +1,49 @@
-# Art. 43 BV
+# Art. 43 BV - Rechtsprechung
 
-## Rechtsprechung
+## Grundsätze der kantonalen Aufgabenbestimmung
 
-### Kompetenzabgrenzung zwischen Bund und Kantonen
+**BGE 128 I 254** vom 14. August 2002  
+Das Bundesgericht hält fest, dass die Kantone bei der Organisation ihrer Zuständigkeiten grundsätzlich frei sind (Organisationsautonomie). Diese Autonomie kann jedoch durch Bundesrecht eingeschränkt werden, wenn eine einheitliche kantonale Behörde zur Gewährleistung der Rechtsgleichheit erforderlich ist.
 
-**BGE 122 I 70** vom 22. Februar 1996  
-Einschränkungen des Startens und Landens mit Hängegleitern durch kantonales Recht.  
-Grundsätzliche Bestätigung der kantonalen Restkompetenz in Bereichen, die der Bund nicht abschliessend geregelt hat.  
-
-> «Die Kantone sind souverän, soweit ihre Souveränität nicht durch die Bundesverfassung beschränkt ist (Art. 3 BV). Sie haben eine originäre Gesetzgebungskompetenz, die nur insoweit aufgehoben ist, als der Bund entweder ausschliesslich, mit ursprünglich derogatorischer Wirkung, zuständig ist oder aber in einem Bereich, in dem er konkurrierend, mit nachträglich derogatorischer Wirkung, kompetent ist, das betreffende Sachgebiet tatsächlich und vollständig geregelt hat.»
-
-**BGE 125 II 152** vom 23. Februar 1999  
-Abgrenzung der eidgenössischen und kantonalen Kompetenzen bei der Zulassung von Geldspielautomaten.  
-Klarstellung der Grenzen der kantonalen Zuständigkeit bei bundesrechtlichen Eingriffen.  
-
-> «Der Bundesrat hat durch den Erlass der eidgenössischen Geldspielautomatenverordnung nicht in die kantonale Zuständigkeit eingegriffen. Es besteht kein Anspruch der Kantone auf Weiterführung der bisherigen Praxis der Homologation von Geschicklichkeitsspielautomaten, die sich als bundesrechtswidrig erweist.»
+> «Art. 25 Abs. 1 RPG statuiert den Grundsatz der Organisationsautonomie der Kantone. Dieser Grundsatz wird in Abs. 2 insofern eingeschränkt, als die Zuständigkeit einer kantonalen Behörde vorgeschrieben wird: Während es den Kantonen üblicherweise freisteht, ihre Aufgaben an die Gemeinden zu delegieren, verlangt Art. 25 Abs. 2 RPG [...] im Interesse einer gesamtkantonal einheitlichen und rechtsgleichen Rechtsanwendung, dass sämtliche Gesuche für Bauvorhaben ausserhalb der Bauzone von einer kantonalen Behörde behandelt werden.»
 
 **BGE 141 II 262** vom 9. Juli 2015  
-Kompetenz der Interkantonalen Lotterie- und Wettkommission zur Durchführung von Qualifikationsverfahren.  
-Bestätigung der interkantonalen Zusammenarbeit als zulässige Form kantonaler Aufgabenerfüllung.  
+Interkantonale Organisationen können bei Erfüllung kantonaler Aufgaben eigene Zuständigkeiten entwickeln. Die Kantone bestimmen durch ihre Beteiligung an interkantonalen Vereinbarungen, wie sie ihre Aufgaben wahrnehmen.
 
-> «Die Kantone können ihre Aufgaben grundsätzlich in der von ihnen gewählten organisatorischen Form erfüllen, solange sie dabei die verfassungsrechtlichen Vorgaben beachten. Dies schliesst auch die Delegation von Aufgaben an interkantonale Körperschaften ein.»
+> «Die Comlot als Bewilligungsbehörde ist gestützt auf eine teleologisch-geltungszeitliche Interpretation des Bundes- und interkantonalen Rechts (IVLW) befugt, im Zusammenhang mit Grosslotterien ein Unterstellungs- bzw. Qualifikationsverfahren durchzuführen und das generell-abstrakt gültige Lotterieverbot im Einzelfall zu konkretisieren.»
 
-### Gleichbehandlung der Kantonsangehörigen
+## Abgrenzung zwischen Bund und Kantonen
 
-**BGE 122 I 209** vom 1996  
-Zeitweilige Beschäftigung von Arbeitslosen - Ungleichbehandlung von Kantons- und Nichtkantonsbürgern.  
-Grundsätzliche Anwendung des Diskriminierungsverbots auf kantonale Massnahmen.  
+**BGE 117 Ia 202** vom 29. Mai 1991  
+Bei Kompetenzkonflikten zwischen Bund und Kantonen ist zu prüfen, welcher Staatsebene die Aufgabe verfassungsrechtlich zusteht. Art. 43 BV kommt nur zur Anwendung, soweit eine Aufgabe überhaupt in kantonaler Zuständigkeit liegt.
 
-> «Das in Art. 43 Abs. 4 BV aufgestellte Gebot der Gleichbehandlung sämtlicher Schweizer Bürger gilt auch hinsichtlich der von den Kantonen getroffenen Massnahmen zur Bekämpfung der Auswirkungen der Krise.»
+> «Gegenstand des Verfahrens der staatsrechtlichen Klage bildet einzig die Frage nach der Kompetenzabgrenzung zwischen Bund und Kanton hinsichtlich der Einsicht in die Staatsschutzakten des Bundes.»
 
-**BGE 99 Ia 630** vom 24. Oktober 1973  
-Kantonale Altershilfe mit längeren Karenzfristen für Nichtkantonsbürger.  
-Verfassungswidrigkeit unterschiedlicher Behandlung von Kantons- und Nichtkantonsbürgern.  
+**BGE 122 I 70** vom 22. Februar 1996  
+Die Kantone bleiben für Bereiche zuständig, die der Bund nicht abschliessend geregelt hat. Die kantonale Restkompetenz nach Art. 3 BV konkretisiert sich durch Art. 43 BV in der Aufgabenbestimmung.
 
-> «Das baselstädtische Gesetz betr. die kantonale Altershilfe verstösst insoweit gegen Art. 43 Abs. 4 und Art. 60 BV, als es für Nichtkantonsbürger längere Karenzfristen vorsieht als für Kantonsbürger.»
+> «Art. 37ter BV gibt dem Bund eine umfassende, aber keine ausschliessliche Kompetenz auf dem Gebiet der Luftfahrt. Die Kantone bleiben zuständig für Rechtsfragen, die der Bund nicht abschliessend geregelt hat.»
 
-### Organisation der Gemeindeautonomie
+## Historische Rechtsprechung zu Art. 43 aBV (Politische Rechte)
 
-**BGE 89 I 448** vom 1963  
-Einführung des fakultativen Finanzreferendums in einer bernischen Gemeinde.  
-Bestätigung der kantonalen Gestaltungsfreiheit bei der kommunalen Organisation.  
+**BGE 122 I 209** vom 30. September 1996  
+Unter der alten Bundesverfassung von 1874 regelte Art. 43 aBV die politischen Rechte der Niedergelassenen. Diese Bestimmung verlangte eine Gleichbehandlung aller Schweizer Bürger bei kantonalen Massnahmen.
 
-> «Die Kantone bestimmen grundsätzlich frei über die Organisation ihrer Gemeinden und können dabei verschiedene Modelle der direktdemokratischen Mitwirkung vorsehen, sofern sie die verfassungsrechtlichen Mindeststandards beachten.»
+> «Il convient d'examiner la constitutionnalité, au regard de l'art. 43 al. 4 Cst., du délai imposé aux Confédérés par l'art. 23 let. b de la loi cantonale. [...] Le principe de l'égalité de traitement consacré en faveur de tous les Confédérés par l'art. 43 Cst. s'appliquait aux mesures que les cantons prenaient pour combattre les effets de la crise.»
 
-### Steuerhoheit und Besteuerungsgrundsätze
+**BGE 89 I 448** vom Jahresbeginn 1963  
+Die Kantone können ihre Organisationsformen innerhalb der verfassungsrechtlichen Grenzen frei bestimmen. Gemeinden als untergeordnete Körperschaften müssen sich an die vom Kanton vorgegebenen Organisationsformen halten.
 
-**BGE 133 I 206** vom 1. Juni 2007  
-Verfassungsmässigkeit der degressiven Obwaldner Steuertarife.  
-Grenzen der kantonalen Steuerautonomie durch übergeordnete Verfassungsprinzipien.  
+> «Bei Abstimmungsbeschwerden nach Art. 85 lit. a OG prüft das Bundesgericht nicht nur die Auslegung des Bundesrechts und des kantonalen Verfassungsrechts, sondern auch diejenige anderer kantonaler Vorschriften insoweit frei, als sie das Stimmrecht nach Inhalt und Umfang näher normieren.»
 
-> «Tarifautonomie der Kantone bedeutet nicht, dass diese bei der Gestaltung ihrer Steuertarife völlig frei wären. Vielmehr haben sie die verfassungsrechtlichen Vorgaben, insbesondere das Rechtsgleichheitsgebot und das Leistungsfähigkeitsprinzip, zu beachten.»
+## Interkantonale Kompetenzkonflikte
 
-### Kantonale Wirtschaftsregulierung
+**BGE 129 I 419** vom 27. Oktober 2003  
+Bei negativen Kompetenzkonflikten zwischen Kantonen entscheidet das Bundesgericht über die Zuständigkeit staatlicher Behörden. Die Kantone können nicht einseitig bestimmen, dass andere Kantone für bestimmte Aufgaben zuständig sind.
 
-**BGE 138 I 378** vom 3. Juli 2012  
-Zulässigkeit einer unternehmerischen Tätigkeit des Staates - Kantonale Sachversicherung Glarus.  
-Prüfung der Vereinbarkeit staatlicher Wirtschaftstätigkeit mit der Wirtschaftsfreiheit.  
+> «Im Falle eines negativen Kompetenzkonfliktes ist die Vormundschaftsbehörde am Wohnsitz des Kindes für Kindesschutzmassnahmen zuständig, ohne dass zu prüfen ist, ob nicht die Vormundschaftsbehörde am gewöhnlichen Aufenthaltsort wegen des Grundsatzes des Kindeswohls vorzuziehen wäre.»
 
-> «Die Kantone sind grundsätzlich befugt, eigene Unternehmen zu führen oder sich an solchen zu beteiligen, müssen dabei aber die Grundrechte, insbesondere die Wirtschaftsfreiheit der Konkurrenten, beachten.»
+**BGE 129 V 485** vom 20. August 2003  
+Kantonale Behörden können ihre Zuständigkeiten durch formelle Delegation auf nachgeordnete Stellen übertragen. Dies muss jedoch rechtlich korrekt erfolgen und darf die Kontrolle nicht beeinträchtigen.
 
-**BGE 128 I 102** vom 30. Januar 2002  
-Verfassungsmässigkeit einer gastgewerblichen Patentgebühr des Kantons Solothurn.  
-Bestätigung der kantonalen Abgabenhoheit im Rahmen der Verfassungsmässigkeit.  
-
-> «Die Kantone sind im Rahmen ihrer Zuständigkeiten befugt, Kausalabgaben und Lenkungsabgaben zu erheben, sofern diese auf einer genügenden gesetzlichen Grundlage beruhen und verhältnismässig sind.»
-
-### Interkommunale und interkantonale Zusammenarbeit
-
-**BGE 140 I 176** vom 2014  
-Rechtliche Qualifikation und Zulässigkeit einer Abgabe auf unbewirtschaftete Zweitwohnungen.  
-Anerkennung spezifischer kommunaler Problemlösungsansätze im Rahmen kantonaler Ermächtigung.  
-
-> «Die Gemeinden können im Rahmen der ihnen vom kantonalen Recht eingeräumten Kompetenzen eigenständige Lösungsansätze für lokale Probleme entwickeln, sofern diese mit übergeordnetem Recht vereinbar sind.»
+> «Die Kompetenzdelegation einzelner Aufgaben der kantonalen Amtsstelle an die Regionalen Arbeitsvermittlungszentren (RAV) [...] bedarf eines formellen, den Publikationsvorschriften des Kantons unterstehenden Erlasses.»

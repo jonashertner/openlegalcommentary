@@ -1,83 +1,65 @@
-# Art. 43 Cst
+# Art. 43 Cst.
 
 ## Doctrine
 
-**N° 1** **Genèse**
+### 1. Historique
 
-L'art. 43 Cst a été créé dans le cadre de la révision totale de la Constitution fédérale de 1999. Cette disposition se fonde sur l'art. 3 acst, qui mettait l'accent sur la souveraineté des cantons. Le Message relatif à une nouvelle Constitution fédérale du 20 novembre 1996 (FF 1997 I 1, 189) précise que la nouvelle formulation visait à ancrer explicitement l'autonomie des tâches des cantons dans le cadre de leurs compétences constitutionnelles. Le constituant entendait renforcer le principe fédéraliste de subsidiarité et mettre l'accent sur l'autodétermination cantonale dans l'accomplissement des tâches.
+**N. 1** L'art. 43 Cst. a été créé dans le cadre de la révision totale de la Constitution fédérale de 1999. Cette disposition n'avait pas de modèle direct dans la Constitution fédérale de 1874. La norme est née de la conviction de la commission de réforme constitutionnelle que les principes fédéralistes devaient être ancrés plus explicitement (FF 1997 I 1, 232). Le message du Conseil fédéral souligne que l'art. 43 Cst. forme, avec l'art. 42 Cst., un système cohérent de répartition des tâches entre la Confédération et les cantons (FF 1997 I 234).
 
-**N° 2** **Classification systématique**
+**N. 2** L'ancien art. 43 aCst. de 1874 réglait les droits politiques des personnes établies et n'a aucun lien de contenu avec la disposition actuelle. La nouvelle norme fait partie du 3e titre « Confédération, cantons et communes » et concrétise le fédéralisme ancré à l'art. 3 Cst.
 
-L'art. 43 Cst figure dans le 3e titre de la Constitution fédérale sur « Confédération, cantons et communes » et forme, avec l'art. 42 Cst, la pièce maîtresse de l'ordre fédéraliste des compétences. Alors que l'art. 42 Cst définit les tâches de la Confédération et pose la réserve constitutionnelle pour les compétences fédérales, l'art. 43 Cst confirme en miroir l'autonomie des tâches des cantons (Biaggini, BSK BV, art. 43 n° 11). Cette disposition est étroitement liée à l'art. 3 Cst (souveraineté des cantons), à l'art. 5a Cst (subsidiarité), à l'art. 47 Cst (autonomie des cantons) et à l'art. 50 Cst (autonomie communale).
+### 2. Classement systématique
 
-**N° 3** **Contenu normatif – Autonomie des tâches des cantons**
+**N. 3** L'art. 43 Cst. s'inscrit dans le contexte systématique des normes fondamentales fédéralistes de la Constitution fédérale. Il complète l'art. 3 Cst. (souveraineté cantonale) et entretient un rapport complémentaire avec l'art. 42 Cst. (tâches de la Confédération). Alors que l'art. 42 Cst. met l'accent sur la réserve constitutionnelle pour les compétences fédérales, l'art. 43 Cst. confirme l'autonomie cantonale des tâches (Biaggini, BSK BV, Art. 43 N. 11).
 
-L'art. 43 Cst accorde aux cantons la liberté de déterminer les tâches qu'ils veulent accomplir dans le cadre de leurs compétences. Selon Biaggini (BSK BV, art. 43 n° 1), cette disposition a une importance juridique et une portée pratique modestes, puisqu'elle ne fait que répéter ce qui découle déjà de l'art. 3 Cst. L'autonomie des tâches comprend deux aspects : la liberté de décision quant à savoir si une tâche doit être accomplie ou non, et la liberté de conception concernant la manière dont la tâche est accomplie.
+**N. 4** La norme doit être lue dans le contexte de l'ensemble du 1er chapitre du 3e titre : → Art. 43a Cst. (principes de l'attribution des tâches), → Art. 44 Cst. (principes de la collaboration), → Art. 45 Cst. (participation), ↔ Art. 46 Cst. (mise en œuvre du droit fédéral), ↔ Art. 47 Cst. (autonomie des cantons) et → Art. 48 Cst. (conventions entre cantons).
 
-**N° 4** **Distinction entre compétences et tâches**
+### 3. Éléments constitutifs / Contenu de la norme
 
-Selon la doctrine (Biaggini, BSK BV, art. 43 n° 12), les « compétences » désignent des pouvoirs au sens d'habilitations, tandis que pour les « tâches », c'est le caractère obligatoire qui est au premier plan. Cette distinction est essentielle pour la compréhension de l'autonomie cantonale : les cantons peuvent décider eux-mêmes, dans le cadre de leurs compétences, quelles activités concrètes (tâches) ils accomplissent.
+**N. 5** L'état de fait de l'art. 43 Cst. contient trois éléments essentiels :
 
-**N° 5** **Rapport avec l'art. 42 Cst**
+**N. 6** **« Les cantons »** : Les destinataires de la norme sont les 26 cantons en tant qu'États membres de la Constitution fédérale. La disposition ne s'adresse pas aux communes ou à d'autres corporations de droit public, bien que les cantons puissent leur déléguer leurs tâches (→ Art. 50 Cst.).
 
-Les art. 42 et 43 Cst forment un couple de normes complémentaires. Alors que l'art. 42 Cst met l'accent sur la réserve constitutionnelle pour les tâches fédérales et limite ainsi les compétences fédérales, l'art. 43 Cst souligne l'autonomie des tâches cantonales dans le cadre des compétences constitutionnelles (Biaggini, BSK BV, art. 43 n° 11). Cette structure duale concrétise le principe fédéraliste de répartition des tâches entre la Confédération et les cantons.
+**N. 7** **« déterminent »** : Les cantons disposent d'une autonomie de décision sur la question de savoir s'ils accomplissent des tâches et comment ils les accomplissent. Cette autonomie comprend l'organisation de l'accomplissement des tâches, le choix des moyens et la définition des priorités (Schweizer, SG-Komm. BV, Art. 43 N. 4).
 
-**N° 6** **Limites de l'autonomie des tâches**
+**N. 8** **« quelles tâches ils [...] accomplissent »** : Le concept de « tâches » se distingue des « compétences ». Alors que les compétences signifient des attributions au sens d'autorisations, c'est le caractère obligatoire qui est au premier plan pour les tâches (Biaggini, BSK BV, Art. 43 N. 12). Les cantons peuvent en principe décider eux-mêmes quelles tâches publiques ils veulent assumer.
 
-L'autonomie des tâches cantonales n'est pas sans limites. Biaggini (BSK BV, art. 43 n° 18) critique le libellé de l'art. 43 Cst comme imprécis, car il suggère une liberté étendue des cantons qui n'existe pas en réalité. L'autonomie est limitée par :
+**N. 9** **« dans le cadre de leurs compétences »** : Cette restriction est centrale. L'autonomie cantonale des tâches n'existe que dans la mesure où la Constitution fédérale laisse effectivement des compétences aux cantons. Le libellé est imprécis en ce sens qu'il suggère une liberté plus large que celle qui existe réellement (Biaggini, BSK BV, Art. 43 N. 18).
 
-- Le droit constitutionnel fédéral (notamment les droits fondamentaux et les dispositions de compétence)
-- Les lois fédérales dans le cadre des compétences fédérales  
-- Le droit international
-- Le droit intercantonal (art. 48 Cst)
-- Le droit constitutionnel cantonal
+### 4. Conséquences juridiques
 
-**N° 7** **Prescriptions du droit fédéral**
+**N. 10** L'art. 43 Cst. ne fonde pas de nouvelles compétences cantonales, mais confirme l'autonomie des tâches qui découle déjà de l'art. 3 Cst. (Biaggini, BSK BV, Art. 43 N. 1). La signification pratique de la norme est donc modeste.
 
-Les cantons ne peuvent décider de manière autonome de l'accomplissement de leurs tâches que dans les domaines où la Confédération n'a pas légiféré de manière exhaustive (Biaggini, BSK BV, art. 43 n° 17-27). En cas de compétences concurrentes, l'autonomie des tâches cantonales ne va que jusqu'où la Confédération n'a pas fait usage de sa compétence législative. Cela ressort notamment de l'**ATF 140 I 176** consid. 7.2, où le Tribunal fédéral a retenu que les cantons peuvent encore prendre leurs propres mesures dans le domaine des résidences secondaires malgré l'art. 75b Cst, tant que la Confédération n'a pas légiféré de manière exhaustive.
+**N. 11** Les cantons peuvent, dans le cadre de leurs compétences :
+- Créer de nouvelles tâches ou supprimer des tâches existantes
+- Organiser librement l'accomplissement des tâches (autonomie organisationnelle)
+- Déléguer des tâches aux communes ou à des tiers
+- S'associer pour l'accomplissement commun de tâches (→ Art. 48 Cst.)
 
-**N° 8** **Collaboration intercantonale**
+**N. 12** L'autonomie cantonale des tâches est toutefois souvent limitée par le droit fédéral. Les prescriptions fédérales peuvent restreindre la liberté cantonale sous les formes suivantes (Biaggini, BSK BV, Art. 43 N. 17-27) :
+- Accomplissement obligatoire de tâches par les lois fédérales
+- Prescriptions relatives à l'organisation (p. ex. exigence d'une autorité cantonale unique)
+- Standards minimaux et prescriptions de qualité
+- Incitations financières et conditions de subventionnement
 
-L'autonomie des tâches comprend aussi le pouvoir des cantons d'accomplir leurs tâches conjointement avec d'autres cantons. L'**ATF 141 II 262** consid. 5.2.4 a confirmé que les cantons peuvent en principe accomplir leurs tâches sous la forme organisationnelle qu'ils choisissent, y compris par délégation à des organismes intercantonaux. Cela correspond à la collaboration horizontale prévue à l'art. 48 Cst.
+### 5. Points de controverse
 
-**N° 9** **Rapport avec l'art. 47 Cst**
+**N. 13** **Rapport à l'art. 3 Cst.** : Biaggini défend la position que l'art. 43 Cst. n'a juridiquement aucune signification autonome et ne fait que répéter ce qui découle déjà de l'art. 3 Cst. (BSK BV, Art. 43 N. 1). Schweizer voit au contraire dans l'art. 43 Cst. une concrétisation importante du principe du fédéralisme avec un contenu normatif propre (SG-Komm. BV, Art. 43 N. 2).
 
-Schweizer (BSK BV, note de bas de page 2 à l'art. 43) relève des difficultés de délimitation dans le rapport avec l'art. 47 Cst. Alors que l'art. 43 Cst règle l'autonomie fonctionnelle (autonomie des tâches), l'art. 47 Cst protège l'autonomie institutionnelle des cantons. Ces deux normes se complètent dans la protection de l'autodétermination cantonale.
+**N. 14** **Délimitation par rapport à l'art. 47 Cst.** : Schweizer souligne les difficultés de délimitation entre l'art. 43 Cst. (autonomie des tâches) et l'art. 47 Cst. (autonomie) (cité dans Biaggini, BSK BV, Art. 43 Fn. 2). Alors que l'art. 43 Cst. concerne l'autonomie fonctionnelle, l'art. 47 Cst. protège l'autonomie institutionnelle des cantons.
 
-**N° 10** **Conséquences juridiques**
+**N. 15** **Portée de la restriction** : La doctrine n'est pas unanime sur la portée de la formulation « dans le cadre de leurs compétences ». Biaggini critique le libellé imprécis qui suggère une autonomie plus grande que celle qui existe réellement (BSK BV, Art. 43 N. 18). D'autres auteurs y voient une clarification nécessaire de la structure des compétences de l'État fédéral.
 
-L'art. 43 Cst fonde principalement une fonction défensive contre les interventions fédérales dans l'autonomie des tâches cantonales. La norme ne confère cependant pas de compétences supplémentaires aux cantons, mais confirme leur liberté dans le cadre des compétences existantes. Les violations de l'autonomie des tâches peuvent être invoquées par recours en matière de droit public devant le Tribunal fédéral (art. 82 let. b LTF en relation avec l'art. 189 al. 1 let. e Cst).
+### 6. Conseils pratiques
 
-**N° 11** **Aspects financiers**
+**N. 16** Lors de l'examen de l'accomplissement cantonal de tâches, il faut toujours clarifier d'abord la question des compétences. L'art. 43 Cst. ne s'applique que si une matière relève de la compétence cantonale.
 
-L'autonomie des tâches est étroitement liée à l'autonomie financière des cantons (art. 134 et 135 Cst). Les cantons doivent disposer de moyens financiers suffisants pour pouvoir accomplir les tâches qu'ils ont choisies. La péréquation financière (art. 135 Cst) doit garantir que tous les cantons puissent effectivement exercer leur autonomie des tâches.
+**N. 17** Les cantons devraient respecter les prescriptions fédérales suivantes lors de la conception des tâches :
+- Protection des droits fondamentaux (→ Art. 35 Cst.)
+- Égalité devant la loi (→ Art. 8 Cst.)
+- Proportionnalité (→ Art. 5, al. 2 Cst.)
+- Primauté du droit fédéral (→ Art. 49 Cst.)
 
-**N° 12** **Autonomie des tâches communales**
+**N. 18** En cas de collaboration intercantonale, il faut examiner si l'accomplissement commun de tâches nécessite une base contractuelle selon l'art. 48 Cst. La simple coordination sans obligation juridique ne nécessite pas de concordat formel.
 
-Bien que l'art. 43 Cst ne parle que des cantons, le principe de l'autonomie des tâches s'applique par analogie aux communes via l'art. 50 Cst dans le cadre de l'autonomie accordée par le droit cantonal. Cela a été confirmé dans l'**ATF 140 I 176** consid. 7.3, où le Tribunal fédéral a reconnu la compétence d'une commune d'introduire un impôt sur les résidences secondaires comme expression de son autonomie des tâches.
-
-**N° 13** **Points de controverse dans la doctrine**
-
-La doctrine n'est pas unanime sur la signification pratique de l'art. 43 Cst. Alors que Biaggini (BSK BV, art. 43 n° 1) considère cette disposition comme juridiquement peu importante, puisqu'elle ne ferait que confirmer ce qui découle déjà de l'art. 3 Cst, d'autres auteurs comme Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10e éd. 2020, § 1024) lui accordent une plus grande importance pour la concrétisation du principe de subsidiarité. Rhinow (BV 2000, p. 74 s.) souligne l'importance symbolique de la norme pour la structure étatique fédéraliste.
-
-**N° 14** **Critique du libellé**
-
-Biaggini (BSK BV, art. 43 n° 18) critique le libellé de la disposition comme trompeur. La formulation « Les cantons déterminent » suggère une autonomie globale qui, face aux multiples prescriptions du droit fédéral, n'existe pas dans la pratique. Cette critique est partagée par une partie de la doctrine, qui préconise une formulation plus précise.
-
-**N° 15** **Tendances d'évolution**
-
-L'importance pratique de l'art. 43 Cst doit être vue dans le contexte de la centralisation et de l'harmonisation progressives. Malgré la garantie constitutionnelle de l'autonomie des tâches, la pratique montre une tendance à l'uniformisation par le droit fédéral et les concordats intercantonaux. La jurisprudence plus récente (notamment l'**ATF 141 II 262**) confirme cependant que les cantons disposent encore de marges de manœuvre considérables.
-
-**N° 16** **Indications pratiques**
-
-Dans l'application de l'art. 43 Cst, il convient de noter :
-
-1. Cette disposition ne fonde pas de nouvelles compétences cantonales, mais protège l'autonomie dans le cadre des compétences existantes.
-
-2. En cas de conflits de compétences, il faut toujours examiner si et dans quelle mesure la Confédération a fait usage de ses compétences législatives.
-
-3. L'autonomie des tâches justifie des solutions cantonales différentes pour les mêmes problèmes, tant qu'il n'existe pas de prescriptions fédérales impératives.
-
-4. En cas de collaboration intercantonale, la légitimation et le contrôle démocratiques par les parlements cantonaux doivent être garantis.
-
-5. Les communes ne peuvent se prévaloir du principe de l'autonomie des tâches que dans le cadre de l'autonomie octroyée par le droit cantonal.
+**N. 19** Les communes ne peuvent pas se prévaloir directement de l'art. 43 Cst., car elles ne sont pas destinataires de la norme. Leur autonomie des tâches se fonde sur le droit constitutionnel cantonal et l'art. 50 Cst.

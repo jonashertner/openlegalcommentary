@@ -9,10 +9,10 @@ lexfind_url: ''
 in_force_since: ''
 layers:
   caselaw:
-    last_generated: '2026-03-17'
-    version: 1
+    last_generated: '2026-03-22'
+    version: 2
     quality_score: 0.9
   doctrine:
-    last_generated: '2026-03-17'
-    version: 1
-    quality_score: 0.9
+    last_generated: '2026-03-22'
+    version: 2
+    quality_score: 0.91

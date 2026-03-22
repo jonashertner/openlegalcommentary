@@ -332,9 +332,9 @@
       "law": "BV",
       "article_number": 39,
       "article_suffix": "",
-      "status": "failed",
-      "cost_usd": 0.0,
-      "error": "One or more layers failed"
+      "status": "completed",
+      "cost_usd": 3.803565,
+      "error": ""
     },
     {
       "law": "BV",
@@ -364,9 +364,9 @@
       "law": "BV",
       "article_number": 43,
       "article_suffix": "",
-      "status": "failed",
-      "cost_usd": 0.0,
-      "error": "One or more layers failed"
+      "status": "completed",
+      "cost_usd": 2.5937460000000003,
+      "error": ""
     },
     {
       "law": "BV",
@@ -388,9 +388,9 @@
       "law": "BV",
       "article_number": 45,
       "article_suffix": "",
-      "status": "failed",
-      "cost_usd": 0.0,
-      "error": "One or more layers failed"
+      "status": "completed",
+      "cost_usd": 3.045249,
+      "error": ""
     },
     {
       "law": "BV",
@@ -428,9 +428,9 @@
       "law": "BV",
       "article_number": 49,
       "article_suffix": "",
-      "status": "failed",
-      "cost_usd": 0.0,
-      "error": "One or more layers failed"
+      "status": "completed",
+      "cost_usd": 3.631188,
+      "error": ""
     },
     {
       "law": "BV",
@@ -444,9 +444,9 @@
       "law": "BV",
       "article_number": 51,
       "article_suffix": "",
-      "status": "failed",
-      "cost_usd": 0.0,
-      "error": "One or more layers failed"
+      "status": "completed",
+      "cost_usd": 2.674155,
+      "error": ""
     },
     {
       "law": "BV",
@@ -468,9 +468,9 @@
       "law": "BV",
       "article_number": 54,
       "article_suffix": "",
-      "status": "failed",
-      "cost_usd": 0.0,
-      "error": "One or more layers failed"
+      "status": "completed",
+      "cost_usd": 2.979933,
+      "error": ""
     },
     {
       "law": "BV",
@@ -484,9 +484,9 @@
       "law": "BV",
       "article_number": 56,
       "article_suffix": "",
-      "status": "failed",
-      "cost_usd": 0.0,
-      "error": "One or more layers failed"
+      "status": "completed",
+      "cost_usd": 3.110793,
+      "error": ""
     },
     {
       "law": "BV",
@@ -540,9 +540,9 @@
       "law": "BV",
       "article_number": 62,
       "article_suffix": "",
-      "status": "failed",
-      "cost_usd": 0.0,
-      "error": "One or more layers failed"
+      "status": "completed",
+      "cost_usd": 2.656839,
+      "error": ""
     },
     {
       "law": "BV",
@@ -556,9 +556,9 @@
       "law": "BV",
       "article_number": 63,
       "article_suffix": "a",
-      "status": "failed",
-      "cost_usd": 0.0,
-      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'messages.8.content.0.tool_result: content cannot be empty if `is_error` is true'}, 'request_id': 'req_011CZADX9CgSN13isooBCS3K'}"
+      "status": "completed",
+      "cost_usd": 2.4021,
+      "error": ""
     },
     {
       "law": "BV",
@@ -668,17 +668,17 @@
       "law": "BV",
       "article_number": 75,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "One or more layers failed"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 75,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "One or more layers failed"
+      "error": ""
     },
     {
       "law": "BV",
@@ -692,1170 +692,1170 @@
       "law": "BV",
       "article_number": 76,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWFm54KukoWBVJkA7p'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 77,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWGdAJBnSergb85FvL'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 78,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWHcT3H2ycB4uqJQRd'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 79,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWJQpKFJSGksKmL87c'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 80,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWKDgmnyMtwL6v2ydy'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 81,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWL2JbHP7tKFEhyGkL'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 81,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWLrQwRycD6Zdb9qTc'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 82,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWMi1SrEZ7b9PFMqWh'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 83,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWNTQKupNuoRn2twtN'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 84,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWPQD2oTxyPjg9F7q8'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 85,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWQSxQhma6cWiRY82w'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 85,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWREavYS8w4AVgHX6u'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 86,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWS8unr2yE3TgLxQBN'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 87,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWTLbFF72qFboKe7fd'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 87,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWUAhGo5B9rnQvj1tN'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 87,
       "article_suffix": "b",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWV23MQEKCvXPb3cAi'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 88,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWVsdrhGFQ98qspSWM'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 89,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWWhViXhPMN6MFLaia'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 90,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWXXMVMQTXipAvQuoz'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 91,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWYMxkws76RtKDWq6Q'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 92,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWZA5duX5VhkZCQcLd'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 93,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWa4f646NjFtp6yEEe'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 94,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWc6wBLm4CC53RvCgY'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 95,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWdWX47AaNQLGEfsNY'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 96,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWeJthWkzdH42dZ6kn'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 97,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWfdGY26vaQKHzmM1y'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 98,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWhMCYqoZ4atRAg7NP'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 99,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWiH1cnTfTLosajEve'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 100,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWjPErkiW2eb1CGotN'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 101,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWm2i1pFEu5Rbm6veF'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 102,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWo5Ek5WqVxmxT858c'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 103,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWp8FFBP82Frnzz51A'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 104,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWq9kmihUGagCyFKNg'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 104,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWr4aW31QVDRFAbGr4'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 105,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWruReXmJkDn7s1rum'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 106,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWshZ1zzp3JPmjEuGV'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 107,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWtXANBESHdXpZsrBX'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 108,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWuJHo4vcFw7t2Gzx5'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 109,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWvkbpwmZX5TR7fuBU'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 110,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWwWFC3vHDNZjB8BLP'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 111,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWxK7hg6cU3PKDAHc9'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 112,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWyPMZ7dGtS44gVgHt'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 112,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvWzCiovFChzwnXpdCu'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 112,
       "article_suffix": "b",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX144zn2Ajaduzv6Jv'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 112,
       "article_suffix": "c",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX1ydW7GEW7a9FZfkA'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 113,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX2twZTXzHQwmwbXLF'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 114,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX3k3a4rX2qnag2GT7'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 115,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX4a9sWnt3EbgtjhJi'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 116,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX5ViRpmGxCPqUALQf'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 117,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX6KpNcWPR1ZStRMPq'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 117,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX7BAtAitPD9ZD8CK5'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 117,
       "article_suffix": "b",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX86jCwvvkVZNeF2JE'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 118,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX8wpvgN6wiGFeqH9r'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 118,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvX9mSZgYRV9e1T57Fr'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 118,
       "article_suffix": "b",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXAcnmDc1uA9WDY3Gs'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 119,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXBT9KuFtkQ6uQpbH4'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 119,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXCJEprYxgxRBYWyzk'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 120,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXD9LesmJ1bt8BgpWp'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 121,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXDzCDPYxvx19dv7YT'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 121,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXEpYVD4q57BMkh1PD'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 122,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXFf9bLXQ1f6snhCWk'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 123,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXGUWiHfaQ9XUH1vyy'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 123,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXHNLnDd19fPf2CATc'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 123,
       "article_suffix": "b",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXJM84x7yVBZ8R5tCf'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 123,
       "article_suffix": "c",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXKSrarvdY2a25Wntx'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 124,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXLGDnQTt7puUkMrUC'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 125,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXM46bB2xJ8z63obCM'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 126,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXNMitxZixem3iLTpW'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 127,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXPDZxkMSj5AahBMxd'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 128,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXQ2gYV5qz3q1JZAzC'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 129,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXQqYuBoDfrsmsFZWH'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 129,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXRfQmEAeXZG4VMutc'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 130,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXSaUYF6Mq5ocQCpeR'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 131,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXTRLBhNCzMSAvP5Hw'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 132,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXUFvry2pPc5bsB9zt'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 133,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXV91ptbAMbbj4gHKB'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 134,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXVwtFMt9MkTo3PYDS'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 135,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXWvAzV8F3PwW7cG7r'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 136,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXXmWroxp5ft1S22dp'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 137,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXYipA1bsRedsLCwfw'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 138,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXZZfvvNqogC5X6Nf8'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 139,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXaTzeE43hC9gXiubF'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 139,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXbUWiP8CzusP4rdJ5'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 139,
       "article_suffix": "b",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXcLbxCfRk1sht7kbp'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 140,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXdQMD78FFKXUvGNo6'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 141,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXeScS83ZyYomDSNu1'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 141,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXgGF6qsQi9bdb8MFM'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 142,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXhCJR6RmweachN7We'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 143,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXi4PwrWgJoLs3AWS1'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 144,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXiuVY3xh7yEF3Z8Fd'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 145,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXjjrKYWRdXZg8j1oy'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 146,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXkiPJpgkwDHJzVevC'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 147,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXmehKztc3tD58HnLX'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 148,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXnqsxLGqUMqqTfx8M'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 149,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXohinRXzBmNEt4btd'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 150,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXpg1i6v2Txrq1iuJQ'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 151,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXqkW92oQt9K6tX9Zo'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 152,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXreaQViihNFkjdsGy'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 153,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXsUgVDL5rLu4sffRo'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 154,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXtJnbVrzC3LsdXqvQ'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 155,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXuB8HezNuY3S6LLNv'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 156,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXv4D3ws8PpYypMML4'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 157,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXvtZnHDYZs28wrDdd'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 158,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXwrcErgqjszanHcgm'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 159,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXxnAkgZfnP9pFH6mf'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 160,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXygFGDE3VAZTSGL7c'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 161,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvXza5GA36o33qehd3g'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 162,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvY1bLgPDHFNWZAshB7'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 163,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvY2tEQeSCxxMGq1DjQ'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 164,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvY3ja8LAPA9gdPQYfv'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 165,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvY4hs3RNoU92YmZD7t'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 166,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvY5YiM3V2ptEowYRWR'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 167,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvY6Xzuf2D8USNNxE7Q'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 168,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvY7QLWNKewmUoTTSDM'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 169,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvY8DhgF6FD1gz1hiyu'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 170,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvY9MfWCExPGqkpAqbj'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 171,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYAwuoWf41mR2AQH33'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 172,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYBmGXyyUBFroBNz1a'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 173,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYCerGnDHgPV9FJCbU'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 174,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYDaugdb5fGqgzr94g'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 175,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYENHa9hX5UYM1QYHG'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 176,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYFBAA1ud9MBCfcJgg'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 177,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYFzGkX3DU8FQMUQ8A'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 178,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYGntXYzTiWjqbRksu'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 179,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYHfyHsJUHnHj1rZcP'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 180,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYJUqcYdTHtcTJTb3n'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 181,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYKJCcL8Ar2juWTuHR'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 182,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYLJECx949rxPvz9UD'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 183,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYMj44oYeYfUe7Rs6g'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 184,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYNZf4twKauwSVV68T'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 185,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYQRHEt1rG891uNdXp'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 186,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYRifWt4fQUU9vJ3ni'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 187,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYT4Xbaz78jw6NwqjY'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 188,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYTtdrwrmNReAecmnY'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 189,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYUnDDa2AtnoUTiy2S'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 190,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYVdJyTBe2SvxffEF2'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 191,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYWYsqrEZJwGaxxc3N'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 191,
       "article_suffix": "a",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYXMz6TRMzBPWGNrcC'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 191,
       "article_suffix": "b",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYYCqevQvthsB6kT8w'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 191,
       "article_suffix": "c",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYZYxC5MYJMtFvdeaE'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 192,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYaVWXx4ep4AjAcE29'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 193,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYbZkXmSoaCSKuhWNa'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 194,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYcQMAh8xjx4axQ9x1'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 195,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYdFCZLuVCiMradWNs'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 196,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYeDVa2xEMcV8A4LsD'}"
+      "error": ""
     },
     {
       "law": "BV",
       "article_number": 197,
       "article_suffix": "",
-      "status": "failed",
+      "status": "pending",
       "cost_usd": 0.0,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'Invalid authentication credentials'}, 'request_id': 'req_011CZAvYf84Z5xzi4qxFQHkF'}"
+      "error": ""
     }
   ],
-  "total_cost": 174.529296
+  "total_cost": 201.426864
 }

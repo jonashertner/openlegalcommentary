@@ -1,50 +1,45 @@
 ## Doctrine
 
-### 1. Historique de l'adoption
+### 1. Genèse
 
-**N. 1** La formulation actuelle de l'art. 47 Cst. est issue de la révision totale de la Constitution fédérale de 1999. Dans le projet de 1995, la disposition était déjà prévue à l'art. 42 PE 1995, l'al. 2 mentionnant encore expressément la « substance fiscale nécessaire » (Explications relatives au PE 1995, p. 141). Cette mention explicite a disparu dans le texte constitutionnel définitif.
+**N. 1** La disposition de l'art. 47 Cst. a été intégrée dans le cadre de la révision totale de la Constitution fédérale comme nouvelle norme de garantie du fédéralisme. Le message relatif à la nouvelle Constitution fédérale du 20 novembre 1996 (FF 1997 I 1, 202 s.) souligne que la norme a été conçue comme « disposition de principe concernant les rapports Confédération-cantons ». Déjà le rapport d'experts de 1977 et les explications relatives au projet de 1995 avaient exigé un ancrage explicite du principe fédéraliste.
 
-**N. 2** Dans le message relatif à la nouvelle Constitution fédérale, le Conseil fédéral a souligné que l'art. 47 Cst. avait un « caractère programmatique » et servait de « garde-fou » pour l'interprétation des normes constitutionnelles fédéralistes (FF 1997 I 304). La norme devait ancrer constitutionnellement le principe déjà en vigueur de l'exercice le plus ménager possible des compétences de la Confédération.
+**N. 2** La formulation devait aller au-delà de la répartition traditionnelle des compétences et créer une garantie globale de l'autonomie cantonale. Au cours de la procédure parlementaire, l'al. 2 a été complété afin d'ancrer expressément la dimension financière de l'autonomie cantonale. Ce complément a été apporté en vue de la réforme ultérieure de la péréquation financière et de la répartition des tâches (RPT), voir Message RPT I (FF 2002 2155, 2217 ss.).
 
-### 2. Classification systématique
+### 2. Situation systématique
 
-**N. 3** L'art. 47 Cst. forme, avec les art. 42–49 Cst., le noyau de l'ordre fédéraliste des compétences. La disposition se situe systématiquement entre la répartition générale des tâches (art. 42–43 Cst.) et les mécanismes concrets de coopération (art. 48 Cst.).
+**N. 3** L'art. 47 Cst. est placé dans le deuxième titre concernant la Confédération, les cantons et les communes et forme, avec l'art. 46 Cst. (mise en œuvre du droit fédéral) et l'art. 48 Cst. (conventions entre cantons), la base constitutionnelle de l'ordre fédéraliste. La norme entretient des liens étroits avec → l'art. 3 Cst. (répartition des compétences), → l'art. 5a Cst. (principe de subsidiarité) et → l'art. 43a Cst. (répartition des tâches).
 
-**N. 4** La norme concrétise le principe de subsidiarité ancré à l'art. 3 Cst. et le complète par des devoirs spécifiques de protection de la Confédération en faveur de l'autonomie cantonale (Biaggini, Komm. BV, Art. 47 N. 3). Elle est étroitement liée à → l'art. 5a Cst. (subsidiarité), → l'art. 43 Cst. (attribution des tâches) et → l'art. 46 Cst. (mise en œuvre du droit fédéral).
+**N. 4** Systématiquement, l'art. 47 Cst. est à comprendre comme une concrétisation du principe fédéraliste ancré dans le préambule et l'art. 1 Cst. La norme fonctionne comme un pont entre l'ordre général des compétences et les attributions spécifiques de tâches à partir de l'art. 54 ss Cst. Elle est en outre en interaction avec → l'art. 49 Cst. (primauté du droit fédéral) et → l'art. 50 Cst. (autonomie communale).
 
-### 3. Éléments constitutifs / Contenu normatif
+### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 5** La notion d'« autonomie » est controversée. Hangartner défend la position selon laquelle il faut distinguer strictement, sur le plan terminologique, entre « Eigenständigkeit » et « Autonomie » (ZSR 2012 I 156). La doctrine dominante utilise cependant ces termes comme synonymes (Kägi-Diener, SG Komm. BV [2e éd.], Art. 47 N. 5 ; Egli, ZSR 2011 I 366 f.). Le texte français parle d'« autonomie », l'italien d'« autonomia ».
+**N. 5** Le terme « autonomie » est l'élément constitutif central de l'al. 1. Selon Hangartner (ZSR 2012 I 145 ss, 156), il faut toujours parler en allemand d'« Eigenständigkeit », non d'« Autonomie ». À l'inverse, d'autres auteurs sont d'avis qu'« Eigenständigkeit » peut être utilisé de manière synonyme avec « Autonomie » (Egli, SG Komm. BV [2e éd.], Art. 47 N 5 ; même auteur, ZSR 2011 I 366 s. ; Belser/Massüger, BSK BV, Art. 47 N. 12).
 
-**N. 6** L'art. 47 al. 2 Cst. concrétise l'obligation générale de protection par trois dimensions :
-- **Autonomie des tâches** : la Confédération doit laisser aux cantons « suffisamment de tâches propres »
-- **Autonomie d'organisation** : l'organisation interne des cantons doit être respectée
-- **Autonomie financière** : des sources de financement et des moyens financiers suffisants doivent être garantis
+**N. 6** Le « respect » de l'autonomie englobe selon la doctrine trois dimensions : premièrement le respect de l'ordre constitutionnel des compétences, deuxièmement la prise en considération des particularités cantonales lors de l'édiction du droit fédéral et troisièmement la retenue dans l'exercice des compétences fédérales (Martenet, L'Autonomie constitutionnelle des cantons, 1999, p. 245 ss).
 
-**N. 7** La jurisprudence a clarifié que l'autonomie d'organisation englobe aussi la protection des communes. L'**ATF 135 I 28** a établi que les cantons ne peuvent pas contraindre les communes à assurer leur personnel auprès d'une institution de prévoyance déterminée.
+**N. 7** L'al. 2 concrétise trois aspects de l'autonomie cantonale : l'autonomie des tâches (1re phrase), l'autonomie organisationnelle (2e phrase, première moitié) et l'autonomie financière (2e phrase, seconde moitié). Cette triade constitue selon Pippig (Verfassungsrechtliche Grundlagen des Finanzausgleichs, 2002, p. 78 ss) le fondement de l'étaticité cantonale.
 
 ### 4. Conséquences juridiques
 
-**N. 8** La nature juridique de l'art. 47 Cst. est controversée. La doctrine dominante qualifie la norme de programmatique (Kägi-Diener, SG Komm. BV, Art. 47 N. 8 ; Biaggini, Komm. BV, Art. 47 N. 3). Une minorité lui reconnaît aussi un contenu justiciable (Hangartner, ZSR 2012 I 155 ; Fleiner et al., BV-CF-Forster, 132).
+**N. 8** La qualification juridique de l'art. 47 Cst. est controversée. Selon Egli (SG Komm. BV, Art. 47 N 8) et Biaggini (Komm. BV, Art. 47 N 3), la disposition a un contenu programmatique. À l'inverse, Hangartner (ZSR 2012 I 155) et Fleiner et al. (BV-CF-Forster, 132) sont d'avis que l'art. 47 Cst. contient tout à fait des éléments justiciables.
 
-**N. 9** En tant que directive d'interprétation, l'art. 47 Cst. déploie un effet considérable même sans justiciabilité directe. L'**ATF 128 I 254** montre que les prescriptions de compétence du droit fédéral ne doivent pas restreindre excessivement l'autonomie d'organisation cantonale. La norme exige une interprétation du droit fédéral favorable au fédéralisme.
+**N. 9** Dans la pratique, il apparaît que le Tribunal fédéral utilise l'art. 47 Cst. comme aide à l'interprétation et limite pour les interventions du droit fédéral (**ATF 128 I 254** consid. 3 ; **ATF 135 I 28** consid. 5). Cependant, selon la doctrine dominante, la norme ne fonde pas de droit autonome à certaines compétences ou dotations financières (Belser/Massüger, BSK BV, Art. 47 N. 11).
 
-**N. 10** L'obligation de protection de la Confédération se concrétise dans diverses dispositions constitutionnelles : l'art. 46 al. 3 Cst. (prise en compte des particularités des cantons), l'art. 126 al. 3 Cst. (prise en compte de la capacité financière) et l'art. 135 Cst. (péréquation financière).
+**N. 10** Comme conséquences juridiques concrètes résultent : l'obligation d'exercer avec retenue les compétences fédérales, le commandement d'interprétation favorable au fédéralisme du droit fédéral ainsi que l'obligation de tenir compte des préoccupations cantonales dans la procédure législative (Message Cst., FF 1997 I 202).
 
-### 5. Points controversés
+### 5. Points de controverse
 
-**N. 11** La doctrine est divisée sur l'existence d'un « noyau dur » intangible de l'autonomie cantonale. Le Conseil fédéral et une partie de la doctrine affirment l'existence d'un tel noyau dur, tandis que Biaggini doute que l'art. 47 al. 1 soit réellement apte à garantir un fédéralisme substantiel (Komm. BV, Art. 47 N. 26).
+**N. 11** La question de la force normative de l'art. 47 Cst. fait l'objet de discussions controversées. Le Conseil fédéral et une partie de la doctrine voient dans la norme une garantie que la Confédération ne peut violer le noyau de l'autonomie des cantons (Belser/Massüger, BSK BV, Art. 47 N. 11). Cependant, des voix critiques comme Biaggini (Komm. BV, Art. 47 N. 26) remettent en question si l'art. 47 al. 1 est effectivement approprié pour garantir un fédéralisme substantiel.
 
-**N. 12** L'efficacité pratique de la norme face à la centralisation progressive fait aussi l'objet de discussions controversées. Waldmann évoque une « force normative du factuel » qui s'oppose à l'art. 47 Cst. (BSK BV-Belser/Massüger, Art. 47 N. 11). Martenet souligne en revanche l'importance symbolique et de politique juridique de la norme constitutionnelle (L'Autonomie constitutionnelle des cantons, p. 245).
+**N. 12** Un autre point de controverse concerne la terminologie. Alors que Hangartner (ZSR 2012 I 145 ss, 156) exige qu'en allemand on parle toujours d'« Eigenständigkeit » et non d'« Autonomie », d'autres auteurs utilisent les termes de manière synonyme (Egli, SG Komm. BV [2e éd.], Art. 47 N 5 ; même auteur, ZSR 2011 I 366 s.). Ce débat terminologique a aussi des répercussions sur l'interprétation de la norme.
 
-### 6. Indications pratiques
+**N. 13** Il est finalement controversé de savoir si de l'art. 47 al. 2 Cst. peuvent être dérivés des droits concrets de financement. Tandis qu'une partie de la doctrine l'affirme (Pippig, Verfassungsrechtliche Grundlagen des Finanzausgleichs, 2002, p. 156 ss), la pratique du Tribunal fédéral nie des droits directs à des prestations des cantons envers la Confédération (**ATF 135 I 28** consid. 5).
 
-**N. 13** Lors de l'élaboration de lois fédérales, l'art. 47 Cst. doit être pris en compte précocement. Les messages doivent exposer dans quelle mesure l'autonomie cantonale demeure préservée (art. 141 al. 2 let. d LParl).
+### 6. Conseils pratiques
 
-**N. 14** Les cantons peuvent se défendre contre les atteintes à leur autonomie d'organisation au moyen du contrôle abstrait des normes (art. 82 let. b LTF). Le grief de violation de l'art. 47 Cst. doit généralement être combiné avec la violation de normes de compétence plus spécifiques.
+**N. 14** Lors de l'invocation de l'art. 47 Cst., il faut observer que la norme fonctionne principalement comme règle d'interprétation et moins comme fondement autonome de prétentions. Plus fructueux sont les griefs qui font valoir l'art. 47 Cst. en relation avec des normes spécifiques de compétences ou d'autonomie (↔ Art. 3 Cst., ↔ Art. 50 Cst.).
 
-**N. 15** Dans la pratique, l'importance de l'art. 47 Cst. se manifeste particulièrement dans :
-- Les prescriptions relatives à l'organisation des autorités cantonales (→ **ATF 128 I 254**)
-- Les restrictions de l'autonomie communale (→ **ATF 135 I 28**)
-- Les efforts d'harmonisation dans les domaines de l'éducation, de la santé et du social
-- La mise en œuvre d'obligations internationales au niveau cantonal
+**N. 15** Dans la procédure législative, l'art. 47 Cst. doit être utilisé lors de la consultation et des délibérations parlementaires comme argument pour la prise en considération des préoccupations cantonales. La Conférence des gouvernements cantonaux (CdC) se fonde régulièrement sur cette disposition dans ses prises de position sur les projets fédéraux.
+
+**N. 16** Lors de litiges intercantonaux, l'art. 47 Cst. peut être invoqué comme base pour les égards mutuels et la protection des petits cantons. La norme oblige non seulement la Confédération, mais indirectement aussi les cantons à respecter la diversité fédéraliste (↔ Art. 48 Cst.).

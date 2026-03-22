@@ -1,0 +1,336 @@
+---
+// site/src/pages/[lang]/methodology.astro
+import { LANGS, type Lang, t } from '@/lib/i18n';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+export function getStaticPaths() {
+  return LANGS.map(lang => ({ params: { lang } }));
+}
+const { lang } = Astro.params as { lang: Lang };
+
+const content: Record<Lang, { title: string; intro: string; sections: { heading: string; body: string }[] }> = {
+  de: {
+    title: 'Methodik & Qualitätssicherung',
+    intro: 'Jeder Kommentarartikel durchläuft eine mehrstufige Pipeline: Generierung durch spezialisierte KI-Agenten, automatische Qualitätsprüfung durch einen unabhängigen Evaluator-Agenten und Übersetzung in vier Sprachen. Diese Seite dokumentiert den gesamten Prozess und die Qualitätskriterien.',
+    sections: [
+      {
+        heading: 'Generierungspipeline',
+        body: `<p>Für jeden Gesetzesartikel werden drei Kommentarebenen generiert:</p>
+<dl class="method-list">
+  <dt>Ebene 1 — Übersicht</dt>
+  <dd>Verständliche Zusammenfassung auf B1-Sprachniveau (150–300 Wörter). Beantwortet: Was regelt die Norm? Wer ist betroffen? Was sind die Rechtsfolgen? Enthält mindestens ein konkretes Beispiel. Maximale Satzlänge: 25 Wörter.</dd>
+  <dt>Ebene 2 — Doktrin</dt>
+  <dd>Wissenschaftliche Analyse mit Randziffern (N. 1, N. 2, …). Pflichtabschnitte: Entstehungsgeschichte, systematische Einordnung, Tatbestandsmerkmale, Rechtsfolgen, Streitstände, Praxishinweise. Mindestens 3 Sekundärquellen verschiedener Autorinnen/Autoren. Die Botschaft muss zitiert werden.</dd>
+  <dt>Ebene 3 — Rechtsprechung</dt>
+  <dd>Vollständige BGE-Übersicht aus der opencaselaw.ch-Datenbank (956'000+ Entscheide). Thematisch gruppiert, nach Wichtigkeit geordnet. Pro Entscheid: BGE-Referenz, Datum, Kernaussage, Relevanz, Blockzitat der entscheidenden Passage.</dd>
+</dl>
+<p>Die Doktrin-Ebene wird mit strukturierten Referenzdaten aus dem Basler Kommentar (BSK) angereichert. Ein zweistufiges Extraktionsverfahren (PDF-Extraktion → KI-gestützte Strukturierung) identifiziert Autorinnen/Autoren, Randziffern, doktrinäre Positionen und Kontroversen. Diese Daten fliessen als Kontext in die Generierung ein.</p>`
+      },
+      {
+        heading: 'Qualitätsbewertung',
+        body: `<p>Nach jeder Generierung prüft ein unabhängiger Evaluator-Agent den Entwurf anhand eines zweistufigen Verfahrens. Nur Entwürfe, die <strong>alle</strong> Kriterien erfüllen, werden veröffentlicht.</p>
+
+<h3>Unverhandelbare Kriterien (binär)</h3>
+<p>Ein einziges Nichterfüllen führt zur Ablehnung:</p>
+<ol>
+  <li><strong>Keine unbelegten Rechtsaussagen</strong> — Jede Aussage über geltendes Recht muss mit einer Primärquelle belegt sein. Bei BSK/CR-Referenzdaten müssen zitierte Autorinnen/Autoren und Randziffern übereinstimmen.</li>
+  <li><strong>Keine faktischen Fehler</strong> — Zitierte Leitsätze und Holdings müssen mit den tatsächlichen Entscheiden übereinstimmen.</li>
+  <li><strong>Keine fehlenden Leitentscheide</strong> — Alle auf opencaselaw verfügbaren BGE zum Artikel müssen erscheinen.</li>
+  <li><strong>Korrekte Legalbegriffe</strong> — Rechtsbegriffe müssen mit dem SR-Text übereinstimmen.</li>
+  <li><strong>Strukturelle Vollständigkeit</strong> — Alle vorgeschriebenen Sektionen müssen vorhanden sein.</li>
+</ol>
+
+<h3>Bewertete Dimensionen (0–1 Skala)</h3>
+<table class="eval-table">
+  <thead><tr><th>Dimension</th><th>Schwellenwert</th><th>Kriterien</th></tr></thead>
+  <tbody>
+    <tr><td>Präzision</td><td>≥ 0.95</td><td>Zitiergenauigkeit, terminologische Exaktheit, zeitliche Genauigkeit</td></tr>
+    <tr><td>Konzision</td><td>≥ 0.90</td><td>Keine Redundanzen, Wortzahl 150–300 (Übersicht), keine Füllformeln</td></tr>
+    <tr><td>Zugänglichkeit</td><td>≥ 0.90</td><td>Kein unübersetzter Jargon, Satzlänge ≤ 25 Wörter, konkretes Beispiel (nur Ebene 1)</td></tr>
+    <tr><td>Relevanz</td><td>≥ 0.90</td><td>Praktische Bedeutung vor Theorie, aktuelle Entwicklungen berücksichtigt</td></tr>
+    <tr><td>Akademische Strenge</td><td>≥ 0.95</td><td>≥ 3 Sekundärquellen, Botschaft zitiert, Streitstände mit Autorinnen/Autoren</td></tr>
+  </tbody>
+</table>`
+      },
+      {
+        heading: 'Wiederholungsverfahren',
+        body: `<p>Wird ein Entwurf abgelehnt, erhält der Generierungsagent das detaillierte Feedback des Evaluators und generiert einen verbesserten Entwurf. Nach maximal <strong>3 Versuchen</strong> wird der Artikel zur manuellen Überprüfung markiert.</p>
+<div class="process-flow">
+  <span class="flow-step">Generierung</span>
+  <span class="flow-arrow">→</span>
+  <span class="flow-step">Evaluation</span>
+  <span class="flow-arrow">→</span>
+  <span class="flow-step flow-decision">Bestanden?</span>
+  <span class="flow-arrow">→</span>
+  <span class="flow-step flow-success">Übersetzung & Veröffentlichung</span>
+</div>
+<p class="text-sm text-muted" style="margin-top: var(--space-1);">Bei Ablehnung: Retry mit Feedback (max. 3×). Nach 3 Fehlversuchen: Markierung zur manuellen Prüfung.</p>`
+      },
+      {
+        heading: 'Übersetzung',
+        body: `<p>Veröffentlichte Kommentare werden automatisch in Französisch, Italienisch und Englisch übersetzt. Die deutsche Fassung ist massgeblich. Rechtsbegriffe werden gemäss den offiziellen Fedlex-Termdat-Übersetzungen wiedergegeben. Struktur, Formatierung und Randziffern-Nummerierung bleiben erhalten.</p>`
+      },
+      {
+        heading: 'Datenquellen',
+        body: `<ul>
+  <li><strong>Gesetzestexte:</strong> <a href="https://www.fedlex.admin.ch" target="_blank" rel="noopener">Fedlex</a> (Systematische Rechtssammlung)</li>
+  <li><strong>Rechtsprechung:</strong> <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a> (956'000+ Entscheide, 8.77 Mio. Zitierverbindungen)</li>
+  <li><strong>Doktrin-Referenzen:</strong> Basler Kommentar (BSK), strukturiert extrahiert</li>
+  <li><strong>KI-Modell:</strong> Claude (Anthropic)</li>
+</ul>`
+      },
+      {
+        heading: 'Open Source & Lizenz',
+        body: `<p>Der gesamte Quellcode ist auf <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a> verfügbar (MIT-Lizenz). Alle Kommentarinhalte stehen unter <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Der vollständige Datensatz ist auf <a href="https://huggingface.co/datasets/openlegalcommentary/swiss-law-commentary" target="_blank" rel="noopener">HuggingFace</a> verfügbar.</p>`
+      }
+    ]
+  },
+  en: {
+    title: 'Methodology & Quality Assurance',
+    intro: 'Every commentary article passes through a multi-stage pipeline: generation by specialized AI agents, automatic quality review by an independent evaluator agent, and translation into four languages. This page documents the entire process and quality criteria.',
+    sections: [
+      {
+        heading: 'Generation Pipeline',
+        body: `<p>Three commentary layers are generated for each article of law:</p>
+<dl class="method-list">
+  <dt>Layer 1 — Overview</dt>
+  <dd>Accessible summary at B1 language level (150–300 words). Answers: What does the provision regulate? Who is affected? What are the legal consequences? Includes at least one concrete example. Maximum sentence length: 25 words.</dd>
+  <dt>Layer 2 — Doctrine</dt>
+  <dd>Academic analysis with marginal numbers (N. 1, N. 2, …). Required sections: legislative history, systematic context, elements of the provision, legal consequences, doctrinal debates, practical guidance. Minimum 3 secondary sources from different authors. The legislative message (Botschaft) must be cited.</dd>
+  <dt>Layer 3 — Case Law</dt>
+  <dd>Complete digest of Federal Supreme Court decisions from the opencaselaw.ch database (956,000+ decisions). Grouped by topic, ordered by importance. For each decision: BGE reference, date, core holding, relevance, block quote of the decisive passage.</dd>
+</dl>
+<p>The doctrine layer is enriched with structured reference data from the Basler Kommentar (BSK). A two-stage extraction process (PDF extraction → AI-assisted structuring) identifies authors, marginal numbers, doctrinal positions, and controversies. This data flows into the generation as context.</p>`
+      },
+      {
+        heading: 'Quality Evaluation',
+        body: `<p>After each generation, an independent evaluator agent reviews the draft using a two-stage process. Only drafts that meet <strong>all</strong> criteria are published.</p>
+
+<h3>Non-Negotiable Criteria (binary)</h3>
+<p>A single failure leads to rejection:</p>
+<ol>
+  <li><strong>No unsourced legal claims</strong> — Every statement about applicable law must be supported by a primary source. When BSK/CR reference data is provided, cited authors and marginal numbers must match.</li>
+  <li><strong>No factual errors</strong> — Cited holdings must match the actual decisions.</li>
+  <li><strong>No missing leading cases</strong> — All BGE available on opencaselaw for the article must appear.</li>
+  <li><strong>Correct legal terminology</strong> — Legal terms must match the SR text.</li>
+  <li><strong>Structural completeness</strong> — All required sections must be present.</li>
+</ol>
+
+<h3>Scored Dimensions (0–1 scale)</h3>
+<table class="eval-table">
+  <thead><tr><th>Dimension</th><th>Threshold</th><th>Criteria</th></tr></thead>
+  <tbody>
+    <tr><td>Precision</td><td>≥ 0.95</td><td>Citation accuracy, terminological exactness, temporal accuracy</td></tr>
+    <tr><td>Concision</td><td>≥ 0.90</td><td>No redundancy, word count 150–300 (overview), no filler phrases</td></tr>
+    <tr><td>Accessibility</td><td>≥ 0.90</td><td>No untranslated jargon, sentence length ≤ 25 words, concrete example (layer 1 only)</td></tr>
+    <tr><td>Relevance</td><td>≥ 0.90</td><td>Practical significance before theory, recent developments included</td></tr>
+    <tr><td>Academic Rigor</td><td>≥ 0.95</td><td>≥ 3 secondary sources, Botschaft cited, doctrinal debates with named authors</td></tr>
+  </tbody>
+</table>`
+      },
+      {
+        heading: 'Retry Process',
+        body: `<p>If a draft is rejected, the generation agent receives detailed feedback from the evaluator and produces an improved draft. After a maximum of <strong>3 attempts</strong>, the article is flagged for manual review.</p>
+<div class="process-flow">
+  <span class="flow-step">Generation</span>
+  <span class="flow-arrow">→</span>
+  <span class="flow-step">Evaluation</span>
+  <span class="flow-arrow">→</span>
+  <span class="flow-step flow-decision">Passed?</span>
+  <span class="flow-arrow">→</span>
+  <span class="flow-step flow-success">Translation & Publication</span>
+</div>
+<p class="text-sm text-muted" style="margin-top: var(--space-1);">On rejection: retry with feedback (max 3×). After 3 failures: flagged for manual review.</p>`
+      },
+      {
+        heading: 'Translation',
+        body: `<p>Published commentary is automatically translated into French, Italian, and English. The German version is authoritative. Legal terminology uses official Fedlex termdat translations. Structure, formatting, and marginal number numbering are preserved.</p>`
+      },
+      {
+        heading: 'Data Sources',
+        body: `<ul>
+  <li><strong>Statute texts:</strong> <a href="https://www.fedlex.admin.ch" target="_blank" rel="noopener">Fedlex</a> (Classified Compilation)</li>
+  <li><strong>Case law:</strong> <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a> (956,000+ decisions, 8.77M citation edges)</li>
+  <li><strong>Doctrine references:</strong> Basler Kommentar (BSK), structurally extracted</li>
+  <li><strong>AI model:</strong> Claude (Anthropic)</li>
+</ul>`
+      },
+      {
+        heading: 'Open Source & License',
+        body: `<p>The complete source code is available on <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a> (MIT license). All commentary content is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. The full dataset is available on <a href="https://huggingface.co/datasets/openlegalcommentary/swiss-law-commentary" target="_blank" rel="noopener">HuggingFace</a>.</p>`
+      }
+    ]
+  },
+  fr: {
+    title: 'Méthodologie et assurance qualité',
+    intro: 'Chaque article de commentaire passe par un pipeline multi-étapes : génération par des agents IA spécialisés, contrôle qualité automatique par un agent évaluateur indépendant, et traduction en quatre langues. Cette page documente l\'ensemble du processus et les critères de qualité.',
+    sections: [
+      { heading: 'Pipeline de génération', body: '<p>Trois niveaux de commentaire sont générés pour chaque article de loi. Le niveau 1 (aperçu) offre un résumé accessible. Le niveau 2 (doctrine) fournit une analyse académique avec numéros marginaux. Le niveau 3 (jurisprudence) présente un digest complet des arrêts du Tribunal fédéral issus de la base opencaselaw.ch.</p>' },
+      { heading: 'Évaluation de la qualité', body: '<p>Chaque projet est évalué selon 5 critères non négociables (binaires) et 5 dimensions notées (précision ≥ 0.95, concision ≥ 0.90, accessibilité ≥ 0.90, pertinence ≥ 0.90, rigueur académique ≥ 0.95). Un seul critère non satisfait entraîne le rejet.</p>' },
+      { heading: 'Processus de reprise', body: '<p>En cas de rejet, l\'agent de génération reçoit le feedback détaillé et produit une version améliorée. Maximum 3 tentatives, puis signalement pour révision manuelle.</p>' },
+      { heading: 'Traduction', body: '<p>Les commentaires publiés sont traduits automatiquement en français, italien et anglais. La version allemande fait foi.</p>' },
+      { heading: 'Sources de données', body: '<p>Textes de loi : Fedlex. Jurisprudence : opencaselaw.ch (956\'000+ décisions). Références doctrinales : Basler Kommentar (BSK). Modèle IA : Claude (Anthropic).</p>' },
+      { heading: 'Open source et licence', body: '<p>Code source sur <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a> (MIT). Contenu sous <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Dataset sur <a href="https://huggingface.co/datasets/openlegalcommentary/swiss-law-commentary" target="_blank" rel="noopener">HuggingFace</a>.</p>' }
+    ]
+  },
+  it: {
+    title: 'Metodologia e garanzia di qualità',
+    intro: 'Ogni articolo di commento passa attraverso una pipeline multi-fase: generazione da agenti IA specializzati, controllo qualità automatico da un agente valutatore indipendente e traduzione in quattro lingue. Questa pagina documenta l\'intero processo e i criteri di qualità.',
+    sections: [
+      { heading: 'Pipeline di generazione', body: '<p>Per ogni articolo di legge vengono generati tre livelli di commento. Il livello 1 (panoramica) offre un riassunto accessibile. Il livello 2 (dottrina) fornisce un\'analisi accademica con numeri marginali. Il livello 3 (giurisprudenza) presenta un digest completo delle sentenze del Tribunale federale dalla banca dati opencaselaw.ch.</p>' },
+      { heading: 'Valutazione della qualità', body: '<p>Ogni bozza viene valutata secondo 5 criteri non negoziabili (binari) e 5 dimensioni valutate (precisione ≥ 0.95, concisione ≥ 0.90, accessibilità ≥ 0.90, rilevanza ≥ 0.90, rigore accademico ≥ 0.95). Un singolo criterio non soddisfatto porta al rifiuto.</p>' },
+      { heading: 'Processo di ripetizione', body: '<p>In caso di rifiuto, l\'agente di generazione riceve il feedback dettagliato e produce una versione migliorata. Massimo 3 tentativi, poi segnalazione per revisione manuale.</p>' },
+      { heading: 'Traduzione', body: '<p>I commenti pubblicati vengono tradotti automaticamente in francese, italiano e inglese. La versione tedesca fa fede.</p>' },
+      { heading: 'Fonti dei dati', body: '<p>Testi di legge: Fedlex. Giurisprudenza: opencaselaw.ch (956\'000+ decisioni). Riferimenti dottrinali: Basler Kommentar (BSK). Modello IA: Claude (Anthropic).</p>' },
+      { heading: 'Open source e licenza', body: '<p>Codice sorgente su <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a> (MIT). Contenuti sotto <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Dataset su <a href="https://huggingface.co/datasets/openlegalcommentary/swiss-law-commentary" target="_blank" rel="noopener">HuggingFace</a>.</p>' }
+    ]
+  }
+};
+
+const c = content[lang];
+---
+
+<Base title={c.title} lang={lang} pagePath="/methodology" description={c.intro}>
+  <Breadcrumb lang={lang} items={[{ label: c.title }]} />
+
+  <article class="methodology-page content-column">
+    <header class="methodology-header animate-fade-up">
+      <h1 class="display-font">{c.title}</h1>
+      <span class="accent-line-wide"></span>
+      <p class="methodology-intro">{c.intro}</p>
+    </header>
+
+    {c.sections.map((section, i) => (
+      <section class={`methodology-section animate-fade-up delay-${i + 1}`}>
+        <h2>{section.heading}</h2>
+        <Fragment set:html={section.body} />
+      </section>
+    ))}
+  </article>
+</Base>
+
+<style>
+  .methodology-header {
+    margin-bottom: var(--space-5);
+  }
+
+  .methodology-header h1 {
+    font-size: var(--text-3xl);
+    margin-bottom: var(--space-2);
+  }
+
+  .methodology-intro {
+    font-size: var(--text-md);
+    color: var(--color-text-secondary);
+    line-height: 1.7;
+    max-width: 640px;
+    margin-top: var(--space-3);
+  }
+
+  .methodology-section {
+    margin-bottom: var(--space-5);
+  }
+
+  .methodology-section h2 {
+    margin-top: var(--space-4);
+    padding-bottom: var(--space-1);
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .methodology-section h3 {
+    margin-top: var(--space-3);
+    font-size: var(--text-md);
+  }
+
+  .method-list {
+    margin: var(--space-2) 0;
+  }
+
+  .method-list dt {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    margin-top: var(--space-2);
+  }
+
+  .method-list dd {
+    margin-left: var(--space-2);
+    color: var(--color-text-secondary);
+    line-height: 1.6;
+  }
+
+  .eval-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: var(--space-2) 0;
+    font-size: var(--text-sm);
+  }
+
+  .eval-table th {
+    text-align: left;
+    font-family: var(--font-heading);
+    font-weight: 600;
+    padding: var(--space-1) var(--space-2);
+    border-bottom: 2px solid var(--color-border);
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-secondary);
+  }
+
+  .eval-table td {
+    padding: var(--space-1) var(--space-2);
+    border-bottom: 1px solid var(--color-border-light);
+    vertical-align: top;
+  }
+
+  .eval-table td:first-child {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .eval-table td:nth-child(2) {
+    font-family: var(--font-mono);
+    font-size: var(--text-xs);
+    color: var(--color-accent);
+    white-space: nowrap;
+  }
+
+  .process-flow {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    flex-wrap: wrap;
+    margin: var(--space-3) 0;
+    font-family: var(--font-heading);
+    font-size: var(--text-sm);
+  }
+
+  .flow-step {
+    padding: 6px 12px;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg-alt);
+  }
+
+  .flow-arrow {
+    color: var(--color-text-muted);
+  }
+
+  .flow-decision {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+    background: var(--color-accent-light);
+  }
+
+  .flow-success {
+    border-color: #16a34a;
+    color: #16a34a;
+    background: #f0fdf4;
+  }
+
+  [data-theme='dark'] .flow-success {
+    background: #052e16;
+  }
+</style>

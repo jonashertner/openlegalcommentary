@@ -1,0 +1,9 @@
+Art. 54 BV regulates the Confederation's competence for all of Switzerland's foreign policy relations. The Confederation is exclusively responsible for relations with other states and international organisations (Epiney, BSK BV, Art. 54 N. 18). The cantons may not conclude international treaties without federal authorisation.
+
+The Constitution specifies concrete foreign policy objectives: Switzerland shall preserve its independence, but also actively contribute to solving global problems. This includes combating poverty, protecting human rights, promoting democracy, maintaining peace and protecting the environment. These objectives are programme clauses (guidelines) that do not create enforceable rights for individuals (Epiney, BSK BV, Art. 54 N. 24).
+
+The courts exercise very restrained control over foreign policy decisions. They only review whether the authorities have acted arbitrarily (**BGE 137 I 371 E. 1.2**). The political authorities enjoy wide discretionary powers.
+
+Despite federal competence, the Confederation must take cantonal interests into account. When international treaties affect cantonal areas of competence, the cantons have a right to information and consultation. A concrete example: Before Switzerland concludes an education agreement with the EU, the Confederation must consult the cantons, since education is fundamentally a cantonal matter.
+
+Exclusive federal competence also means: cantonal authorities are bound by foreign policy acts of the Confederation. When the Federal Department of Foreign Affairs (FDFA) grants diplomatic immunity to a person, all Swiss courts must respect this decision (**BGE 130 III 430 E. 3.3**). A canton cannot criminally prosecute such a person, even if they have violated Swiss law.

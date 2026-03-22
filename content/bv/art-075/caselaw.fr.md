@@ -1,77 +1,79 @@
-## Jurisprudence
+# Jurisprudence
 
-### Répartition fédéraliste des compétences
+## Répartition des compétences entre Confédération, cantons et communes
 
-**ATF 142 I 177** du 16 novembre 2016 (consid. 4.1)
-Autonomie communale lors de l'introduction d'une taxe sur la plus-value en droit de l'aménagement du territoire.
-Le Tribunal fédéral précise la répartition imbriquée des tâches entre Confédération, cantons et communes en matière d'aménagement du territoire.
+### Répartition fondamentale des compétences
 
-> «Selon l'art. 75 al. 1 Cst., la Confédération établit les principes de l'aménagement du territoire. Elle l'a fait notamment en édictant la loi sur l'aménagement du territoire, qui dans son article-but (art. 1er) prévoyait déjà dans sa version originelle que la Confédération, les cantons et les communes veillent à une utilisation mesurée du sol et coordonnent leurs activités ayant des effets sur l'organisation du territoire.»
+**ATF 142 I 177** du 15 décembre 2015
+La répartition des compétences entre Confédération, cantons et communes est fondamentalement déterminée par l'art. 75 Cst.
+Le Tribunal fédéral précise la répartition des tâches dans le domaine de l'aménagement du territoire et constate que les communes peuvent agir de manière autonome pour les tâches d'aménagement local.
 
-**ATF 128 I 254** du 14 août 2002 (consid. 3-4)
-Compétences cantonales en droit de l'aménagement du territoire et application uniforme du droit.
-Le Tribunal fédéral concrétise les exigences relatives à l'organisation cantonale pour la mise en œuvre des bases fédérales d'aménagement du territoire.
+> « La perception d'une taxe sur la plus-value correspond à un mandat législatif prévu par la législation fédérale (art. 5 al. 1 LAT) et la constitution cantonale (§ 116 al. 4 Const./BL) adressé au législatif cantonal [...]. Tant que le canton ne fait pas usage de sa compétence pour percevoir une taxe sur la plus-value, les communes ne peuvent se voir interdire d'assumer cette tâche dans le cadre de leur propre compétence, car elle est étroitement liée à l'aménagement local qui leur incombe. »
 
-> «L'art. 25 al. 2 LAT exige dans l'intérêt d'une application du droit uniforme et conforme au principe d'égalité sur l'ensemble du canton, que toutes les demandes de construire hors de la zone à bâtir soient traitées par une autorité cantonale.»
+### Obligation de coordination de la Confédération
 
-### Plans sectoriels et coordination
+**ATF 137 II 58** du 3 décembre 2010
+L'obligation de coordination selon l'art. 75 al. 2 Cst. exige une planification coordonnée entre tous les niveaux étatiques.
+L'élément déterminant est l'absence de coordination entre le règlement d'exploitation et la procédure de plan sectoriel pour l'aéroport de Zurich.
 
-**ATF 137 II 58** du 22 décembre 2010 (consid. 3)
-Obligation de coordination pour les grands projets d'aménagement du territoire à rayonnement national.
-L'arrêt montre les obligations de coordination entre planification fédérale et cantonale pour les infrastructures d'importance nationale.
+> « L'autorisation de modifications d'exploitation et de construction de l'aéroport ayant des effets considérables sur le territoire et l'environnement selon l'art. 36c al. 2 et l'art. 37 al. 5 LA présuppose en principe l'existence d'un plan sectoriel. Ceci correspond à la réglementation dans d'autres lois fédérales et sert à la coordination des activités ayant des effets sur le territoire. »
 
-> «L'autorisation de modifications d'exploitation et de construction de l'aéroport ayant des effets considérables sur le territoire et l'environnement selon l'art. 36c al. 2 et l'art. 37 al. 5 LA en relation avec l'art. 3a, l'art. 25 al. 1 let. a et l'art. 27d al. 1 let. a OSIA présuppose en principe l'existence d'un plan sectoriel.»
+## Principe de séparation et conformité aux zones
 
-### Tâches fédérales de planification et droit de recours
+### Séparation entre zones à bâtir et zones non constructibles
 
-**ATF 139 II 271** du 22 mai 2013 (consid. 9-10)
-Tâches fédérales dans le domaine de l'aménagement du territoire à l'exemple de la réglementation des résidences secondaires.
-La décision définit quand une mesure d'aménagement du territoire constitue une tâche fédérale qui déclenche des droits de recours pour les organisations de protection de l'environnement.
+**ATF 147 II 309** du 28 avril 2021
+Le principe constitutionnel de séparation selon l'art. 75 al. 1 Cst. exige une séparation claire entre zones à bâtir et zones non constructibles.
+L'arrêt traite du rétablissement de l'état légal en cas de constructions illégales en dehors des zones à bâtir.
 
-> «Le plafonnement de la construction de résidences secondaires selon l'art. 75b Cst. constitue une tâche fédérale qui sert à la protection de la nature et du paysage. Les autorisations de construire peuvent donc faire l'objet d'un recours selon l'art. 12 LPN pour violation de l'art. 75b Cst. et de ses dispositions transitoires et d'exécution.»
+> « Un délai de forclusion de 30 ans en dehors des zones à bâtir remettrait notamment en question le principe constitutionnel de séparation (art. 75 al. 1 Cst.) et l'application uniforme du droit fédéral. La situation de fait, de droit et d'intérêts en dehors des zones à bâtir diffère si fortement de celle à l'intérieur des zones à bâtir qu'une réglementation différenciée s'impose. »
 
-**ATF 142 II 509** du 24 août 2016 (consid. 10-11)
-Qualité pour recourir des organisations de protection de la nature et du patrimoine en cas de nouveaux zonages.
-L'arrêt précise les critères des tâches fédérales en droit de l'aménagement du territoire après la révision LAT de 2012.
+**ATF 145 I 156** du 31 octobre 2018
+La conformité aux zones exige une approche axée sur les effets des constructions sur les zones voisines.
+L'objet du litige était une distance à la limite entre zone à bâtir et zone agricole.
 
-> «Les nouveaux zonages qui se fondent sur l'art. 15 de la LAT révisée (dans sa version du 15 juin 2012) doivent être qualifiés de tâche fédérale au sens de l'art. 78 al. 2 Cst.»
+> « Partant d'une approche axée sur les effets, il faut aussi prendre en compte les conséquences liées à une construction ou installation sur l'environnement. Si des effets sur la zone voisine sont probables, la conformité du projet avec cette dernière doit également être vérifiée. Une construction d'habitation directement sur la limite de la zone agricole voisine n'est pas conforme à la zone. »
 
-### Conformité à l'affectation et utilisation du sol
+## Aménagement du territoire et liberté économique
 
-**ATF 145 I 156** du 31 octobre 2018 (consid. 3-6)
-Distance limite entre zone à bâtir et zone agricole comme expression de l'utilisation mesurée du sol.
-Le Tribunal fédéral concrétise les exigences relatives à la construction conforme à l'affectation dans la zone limite entre différentes zones d'utilisation.
+**ATF 142 I 162** du 9 novembre 2016
+Les mesures d'aménagement du territoire doivent être compatibles avec la liberté économique.
+L'arrêt concerne l'admissibilité d'une zone touristique et sa compatibilité avec les art. 27 et 94 Cst.
 
-> «Une construction d'habitation directement sur la limite de la zone agricole voisine n'est pas conforme à l'affectation. Elle doit être reculée de la limite de zone de manière à ce que sa réalisation n'exerce plus d'effets notables sur la zone agricole.»
+> « Le Tribunal fédéral a eu à maintes reprises à se prononcer depuis des décennies sur la compatibilité de mesures d'aménagement du territoire avec la liberté économique [...]. Les mesures d'aménagement du territoire peuvent en principe porter atteinte à la liberté économique. Elles sont toutefois admissibles si elles reposent sur une base légale suffisante, sont dans l'intérêt public, proportionnées et respectent l'égalité de traitement. »
 
-### Procédures de planification et voies de droit
+## Droit de recours des associations dans les procédures d'aménagement du territoire
 
-**ATF 135 II 22** du 23 décembre 2008 (consid. 1-2)
-Coordination des procédures d'autorisation dans le droit de planification à plusieurs degrés.
-L'arrêt montre les exigences procédurales relatives au recours en matière de plans d'affectation.
+**ATF 139 II 271** du 21 février 2013
+Le droit de recours des associations dans les procédures d'aménagement du territoire présuppose une tâche fédérale.
+L'élément déterminant était la qualité pour recourir d'associations de protection de la nature et du patrimoine contre des constructions de résidences secondaires.
 
-> «Le Tribunal fédéral n'entre en matière sur les recours contre le contenu des plans d'affectation qu'en principe si la décision d'approbation de l'autorité cantonale compétente est disponible et que celle-ci a pu être examinée par la dernière instance cantonale.»
+> « Le plafonnement de la construction de résidences secondaires selon l'art. 75b Cst. constitue une tâche fédérale qui sert à la protection de la nature et du paysage traditionnel. Les autorisations de construire peuvent donc être attaquées par recours selon l'art. 12 LPN pour violation de l'art. 75b Cst. et de ses dispositions transitoires et d'exécution. »
 
-### Rétablissement d'états légaux
+**ATF 142 II 509** du 26 octobre 2016
+Les nouveaux classements en zone selon la LAT révisée fondent le droit de recours des associations.
+L'arrêt clarifie le droit de recours lors de classements en zone selon l'art. 15 LAT.
 
-**ATF 147 II 309** du 28 avril 2021 (consid. 4)
-Remise en état pour constructions illégales hors de la zone à bâtir.
-L'arrêt traite de l'exécution des normes d'aménagement du territoire en cas de violations du droit sur de longues périodes.
+> « Les nouveaux classements en zone qui se fondent sur l'art. 15 de la LAT révisée (dans la version du 15 juin 2012) doivent être qualifiés de tâche fédérale au sens de l'art. 78 al. 2 Cst. Les cantons doivent, lors de l'exécution des prescriptions du droit fédéral sur l'utilisation mesurée du sol, tenir compte des préoccupations de la protection de la nature et du patrimoine. »
 
-> «La situation de fait, de droit et d'intérêts hors de la zone à bâtir diffère si fortement de celle à l'intérieur de la zone à bâtir qu'une application par analogie de la jurisprudence sur la péremption est interdite.»
+## Aménagement du territoire et droit de l'énergie
 
-### Aménagement du territoire et droits fondamentaux
+**ATF 149 I 291** du 3 mai 2023
+Les initiatives énergétiques communales doivent être compatibles avec les principes d'aménagement du territoire.
+L'arrêt traite d'une initiative populaire sur la conversion aux énergies renouvelables.
 
-**ATF 142 I 162** du 9 novembre 2016 (consid. 3.3-3.7)
-Compatibilité des mesures d'aménagement du territoire avec la liberté économique.
-Le Tribunal fédéral développe l'étalon de droit constitutionnel pour les atteintes aux droits fondamentaux par l'aménagement du territoire.
+> « L'objectif de l'initiative peut être compris comme un pas vers un développement écologiquement durable (art. 73 Cst.). En principe, ni la garantie de la propriété ni la garantie de l'existence du droit de construire ne confèrent un droit au maintien d'un ordre juridique en vigueur. »
 
-> «Les mesures d'aménagement du territoire peuvent restreindre la liberté économique, mais elles doivent reposer sur une base légale, être justifiées par un intérêt public et proportionnées, ainsi que garantir l'égalité de traitement des concurrents.»
+## Coordination dans les procédures complexes d'aménagement du territoire
 
-### Développements actuels
+**ATF 135 II 22** du 19 décembre 2008
+Les décisions de recours doivent être coordonnées avec les décisions d'approbation.
+L'arrêt concerne la coordination entre les procédures cantonales d'approbation et les recours.
 
-**ATF 149 I 291** du 3 mai 2023 (consid. 3-4)
-Planification énergétique communale et garantie de la propriété en droit de l'aménagement du territoire.
-Ce dernier arrêt de principe montre le champ de tension entre transition énergétique et rapports juridiques existants en matière d'aménagement du territoire.
+> « Le Tribunal fédéral n'entre en matière sur les recours contre les modifications de plans d'affectation qu'en principe que si les modifications de plans d'affectation concernées ont été approuvées par l'autorité cantonale compétente. La coordination nécessaire de la décision de recours avec la décision d'approbation exige un traitement coordonné. »
 
-> «L'initiative 'Hochdorf chauffe renouvelable - dès 2030 à plus forte raison' contient un objectif contraignant et vise une décision de principe qui doit être en accord avec la garantie de la propriété garantie par la Constitution.»
+**ATF 135 II 30** du 19 décembre 2008
+Les décisions préalables de droit de construire ne sont pas des décisions attaquables.
+L'arrêt clarifie la délimitation entre clarifications préalables et décisions définitives.
+
+> « Les indications et recommandations générales des autorités délivrant les permis de construire ne constituent pas une décision au sens de l'art. 82 let. a LTF. Elles ne produisent aucun effet juridique immédiat et ne sont donc pas attaquables de manière autonome. »

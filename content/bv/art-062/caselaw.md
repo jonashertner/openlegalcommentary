@@ -1,87 +1,57 @@
 ## Rechtsprechung
 
-### Kompetenzabgrenzung und Gestaltungsspielraum der Kantone
+### Grundsätze des Anspruchs auf Grundschulunterricht
 
-**BGE 129 I 12** (7.11.2002)
-Disziplinarischer Schulausschluss und kantonaler Gestaltungsspielraum im Grundschulwesen.
-Das Urteil begründet die verfassungsrechtlichen Grenzen bei Eingriffen in den Anspruch auf Grundschulunterricht gemäss Art. 19 i.V.m. Art. 62 BV.
+**BGE 129 I 12** vom 7. November 2002 — Disziplinarischer Schulausschluss und sozialer Grundrechtsanspruch. Das Bundesgericht präzisiert den Umfang des Anspruchs auf Grundschulunterricht gemäss Art. 19 i.V.m. Art. 62 BV und dessen Schranken im Kontext disziplinarischer Massnahmen.
 
-> «Den Kantonen steht bei der Regelung des Grundschulwesens ein erheblicher Gestaltungsspielraum zu. Die Ausbildung muss aber auf jeden Fall für den Einzelnen angemessen und geeignet sein und genügen, um die Schüler auf ein selbstverantwortliches Leben im modernen Alltag vorzubereiten.»
+> «Aus Art. 19 BV ergibt sich der Anspruch auf eine den individuellen Fähigkeiten des Kindes und seiner Persönlichkeitsentwicklung entsprechende unentgeltliche Grundschulausbildung an öffentlichen Schulen während der obligatorischen Schulzeit von mindestens neun Jahren.»
 
-**BGE 130 I 352** (24.11.2004)
-Sonderschulung behinderter Kinder; kantonaler Gestaltungsspielraum.
-Bestätigung der weiten kantonalen Zuständigkeit bei der Ausgestaltung des Schulwesens unter Beachtung der bundesrechtlichen Mindestanforderungen.
-
-> «Den Kantonen steht bei der Regelung des Grundschulwesens ein erheblicher Gestaltungsspielraum zu; sie haben auch für Behinderte eine den individuellen Fähigkeiten des Kindes und seiner Persönlichkeitsentwicklung entsprechende, unentgeltliche Grundschulausbildung sicherzustellen.»
-
-**BGE 138 I 162** (13.4.2012)
-Sonderschulung von behinderten Kindern; Grundsatz der Verhältnismässigkeit.
-Das Urteil präzisiert die bundesrechtlichen Minimalanforderungen im Bereich der Sonderschulung gemäss Art. 62 Abs. 3 BV.
-
-> «Im Bereich der Sonderschulung kommt den Kantonen ein erheblicher Gestaltungsspielraum zu. Die bundesrechtlichen Minimalanforderungen verlangen nur ein angemessenes, erfahrungsgemäss ausreichendes Bildungsangebot an öffentlichen Schulen, nicht aber die optimale bzw. geeignetste Schulung eines Kindes.»
-
-### Unentgeltlichkeit des Grundschulunterrichts
-
-**BGE 144 I 1** (7.12.2017)
-Umfang der Unentgeltlichkeit; Kosten für Exkursionen und Lager.
-Grundlegender Entscheid zur Abgrenzung zwischen zwingend unentgeltlichen und kostenpflichtigen Unterrichtsleistungen.
+**BGE 144 I 1** vom 7. Dezember 2017 — Umfang der Unentgeltlichkeit des Grundschulunterrichts. Das Bundesgericht konkretisiert, welche Leistungen vom Anspruch auf unentgeltlichen Unterricht erfasst werden und hebt eine thurgauische Bestimmung auf, die Kosten auf die Eltern abwälzte.
 
 > «Der Anspruch auf unentgeltlichen Unterricht umfasst alle notwendigen und unmittelbar dem Unterrichtszweck dienenden Mittel. Einschränkende Konkretisierungen durch den Gesetzgeber sind daran zu messen, ob sie mit dem verfassungsrechtlich garantierten Minimalgehalt noch zu vereinbaren sind.»
 
-**BGE 141 I 9** (4.12.2014)
-Unentgeltlichkeit bei Sonderschulung; Kostenübernahme durch die Kantone.
-Das Urteil konkretisiert die Unentgeltlichkeitspflicht gemäss Art. 62 Abs. 2 BV im Bereich der Sonderschulung.
+**BGE 138 I 162** vom 13. April 2012 — Sonderschulung und kantonaler Gestaltungsspielraum. Das Bundesgericht bestätigt, dass Art. 62 Abs. 3 BV den Kantonen erheblichen Spielraum bei der Organisation der Sonderschulung einräumt, jedoch bundesrechtliche Mindeststandards eingehalten werden müssen.
 
-> «Der ausreichende Grundschulunterricht ist zwingend unentgeltlich, auch wenn die Schule eine gesetzlich nicht vorgesehene Leistung erbringt. Kantonalrechtliche Regelungen, welche über die Zuteilung eines Kindes in die separative Sonderschulung entscheiden, müssen dem Unentgeltlichkeitsgebot nachkommen.»
+> «Im Bereich der Sonderschulung kommt den Kantonen ein erheblicher Gestaltungsspielraum zu. Die bundesrechtlichen Minimalanforderungen verlangen nur ein angemessenes, erfahrungsgemäss ausreichendes Bildungsangebot an öffentlichen Schulen, nicht aber die optimale bzw. geeignetste Schulung eines Kindes.»
 
-**BGE 133 I 156** (7.5.2007)
-Umfang der Unentgeltlichkeit; Transportkosten für weiterführende Schulen.
-Das Urteil grenzt den Grundschulunterricht von weiterführenden Bildungsstufen ab.
+### Religionsfreiheit im Schulkontext
 
-> «Der bundesverfassungsrechtliche Anspruch auf Unentgeltlichkeit des Grundschulunterrichts erstreckt sich — trotz gegenüber der bisherigen Bundesverfassung geänderter Terminologie ('Grundschulunterricht' statt 'Primarunterricht') — grundsätzlich nicht auch auf die nachobligatorischen Bildungsstufen.»
+**BGE 135 I 79** vom 24. Oktober 2008 — Schwimmunterricht und Religionsfreiheit. Wegweisender Entscheid zu religiösen Dispensationen vom obligatorischen Unterricht, bei dem das Bundesgericht die Grenzen der Religionsfreiheit im öffentlichen Schulwesen definiert.
 
-### Grundrechte und Schulpflicht
+> «Verbunden mit flankierenden Massnahmen stellt das angefochtene Obligatorium auch für muslimische Kinder keinen unzulässigen Eingriff in die Religionsfreiheit dar. Bei der Interessenabwägung sind insbesondere die vielfältigen Bestrebungen zur Integration der muslimischen Bevölkerungsgruppe zu berücksichtigen.»
 
-**BGE 135 I 79** (24.10.2008)
-Glaubensfreiheit und Dispensation vom gemischtgeschlechtlichen Schwimmunterricht.
-Das Urteil zeigt die Spannungsfelder zwischen Grundrechten der Schüler und dem obligatorischen Charakter des Grundschulunterrichts auf.
+**BGE 142 I 49** vom 11. Dezember 2015 — Kopftuchverbot in der Schule. Das Bundesgericht erklärt ein generelles Kopfbedeckungsverbot für Schülerinnen als verfassungswidrig und präzisiert die Anforderungen an Einschränkungen der Religionsfreiheit.
 
-> «Genügende gesetzliche Grundlage für den obligatorischen, gemischtgeschlechtlichen Schwimmunterricht an der Unterstufe der öffentlichen Grundschulen. Verbunden mit flankierenden Massnahmen stellt das angefochtene Obligatorium auch für muslimische Kinder keinen unzulässigen Eingriff in die Religionsfreiheit dar.»
+> «Ein generelles Kopfbedeckungsverbot für Schülerinnen an öffentlichen Schulen stellt einen unzulässigen Eingriff in die Glaubens- und Gewissensfreiheit dar, wenn es nicht durch genügend gewichtige öffentliche Interessen gerechtfertigt ist und nicht verhältnismässig ausgestaltet wird.»
 
-**BGE 142 I 49** (11.12.2015)
-Kopftuchverbot an öffentlichen Schulen; unzulässiger Eingriff in die Glaubensfreiheit.
-Das Urteil zeigt die Grenzen staatlicher Neutralitätspflicht im Schulbereich auf.
+### Sonderschulung und Inklusion
 
-> «Kopftuchverbot für Schülerinnen an einer öffentlichen Schule; unzulässiger Eingriff in die Glaubens- und Gewissensfreiheit. Leitprinzipien der Glaubens- und Gewissensfreiheit; Inhalt des Grundrechts.»
+**BGE 141 I 9** vom 4. Dezember 2014 — Unentgeltlichkeit der integrativen Sonderschulung. Das Bundesgericht stärkt das Recht behinderter Kinder auf unentgeltliche Bildung und untersagt die Abwälzung von Integrationskosten auf die Eltern.
 
-### Homeschooling und alternative Unterrichtsformen
+> «Der ausreichende Grundschulunterricht ist zwingend unentgeltlich, auch wenn die Schule eine gesetzlich nicht vorgesehene Leistung erbringt. Kantonalrechtliche Regelungen, welche über die Zuteilung eines Kindes in die separative Sonderschulung aufgrund schematischer Grundlagen bestimmen, berücksichtigen im Einzelfall das Kindswohl nicht ausreichend.»
 
-**BGE 146 I 20** (22.8.2019)
-Häuslicher Privatunterricht; kein Anspruch auf Homeschooling.
-Das Urteil bestätigt die kantonale Zuständigkeit zur Regelung alternativer Unterrichtsformen.
+**BGE 130 I 352** vom 24. November 2004 — Sonderschulung ausserhalb des Heimatkantons. Das Bundesgericht präzisiert die Ansprüche behinderter Kinder auf angemessene Beschulung und die interkantonale Kostentragung.
 
-> «Art. 19 i.V.m. Art. 62 Abs. 2 BV gewährt keinen Anspruch auf privaten Einzelunterricht. Das Erziehungsrecht der Eltern fällt zwar in den Schutzbereich von Art. 13 Abs. 1 BV und 8 Ziff. 1 EMRK, es steht jedoch unter Vorbehalt des kantonalen Schulrechts und des Kindeswohls.»
+> «Den Kantonen steht bei der Regelung des Grundschulwesens ein erheblicher Gestaltungsspielraum zu; sie haben auch für Behinderte einen angemessenen, erfahrungsgemäss ausreichenden Grundschulunterricht an öffentlichen Schulen zu gewährleisten.»
 
-### Harmonisierung und Koordination
+### Homeschooling und Privatunterricht
 
-**BGE 143 I 361** (3.5.2017)
-Spracheninitiative Graubünden; Harmonisierung der Sprachenlehrpläne.
-Das Urteil behandelt die Koordinationspflicht gemäss Art. 62 Abs. 4 BV bei der Harmonisierung des Schulwesens.
+**BGE 146 I 20** vom 22. August 2019 — Häuslicher Privatunterricht. Das Bundesgericht bestätigt, dass Art. 62 BV keinen Anspruch auf Homeschooling gewährt und den Kantonen die Regelung überlässt.
 
-> «Beurteilung der Frage, ob eine in der Form der allgemeinen Initiative eingereichte Vorlage zur Änderung der Kantonsverfassung mit dem übergeordneten Recht vereinbar ist und somit für gültig erklärt werden kann.»
+> «Art. 19 i.V.m. Art. 62 Abs. 2 BV gewährt keinen Anspruch auf privaten Einzelunterricht. Es ist Sache der Kantone, unter Beachtung von Art. 19 und 62 Abs. 2 BV zu regeln, ob und in welchem Umfang Homeschooling zugelassen werden soll.»
 
-### Jüngere Entwicklungen
+### Bildungsharmonisierung
 
-**BGE 149 I 282** (12.1.2023)
-Vorschulische Sprachförderung; Anspruch auf Unentgeltlichkeit.
-Das Urteil zeigt die aktuellen Entwicklungen im Bereich der Sprachförderung vor dem Schuleintritt auf.
+**BGE 143 I 361** vom 3. Mai 2017 — HarmoS-Konkordat und Volksentscheid. Das Bundesgericht behandelt die Frage der demokratischen Legitimation von Schulharmonisierungsmassnahmen und das Verhältnis zwischen Art. 62 Abs. 4 BV und kantonalen Entscheidungsverfahren.
 
-> «Art. 19 BV; Anspruch auf Unentgeltlichkeit des Grundschulunterrichts; Gesetzesvorlage des Kantons Thurgau zur vorschulischen Sprachförderung; Pflicht zur Teilnahme an vorschulischer Sprachförderung als Teil des Grundschulunterrichts.»
+> «Bei der Beurteilung der Frage, ob eine in der Form der allgemeinen Volksinitiative eingebrachte Vorlage gegen höherrangiges Recht verstösst, ist zwischen zwingenden und nicht zwingenden Bestimmungen des Bundesrechts zu unterscheiden.»
 
-**Urteil 2C_433/2011** (1.6.2012)
-Umfang des Anspruchs auf unentgeltlichen Unterricht; spezifische Lernmittel.
-Der unveröffentlichte Entscheid konkretisiert die Anforderungen an die Unentgeltlichkeit des Grundschulunterrichts.
+### Kantonale Schulorganisation
 
-### Bundesrechtliche Vorgaben bei fehlender Harmonisierung
+**BGE 133 I 156** vom 7. Mai 2007 — Transportkosten und Untergymnasium. Das Bundesgericht definiert die Grenzen des Anspruchs auf unentgeltlichen Unterricht bei weiterführenden Schulen.
 
-Bislang sind keine Entscheide zu Art. 62 Abs. 4 und 5 BV ergangen, da die Kantone die Koordination im Bereich des Schuleintrittsalters, der Schulpflicht und des Schuljahresbeginns erfolgreich vollzogen haben. Der Bund hat daher noch keine direkten Vorschriften erlassen müssen.
+> «Der bundesverfassungsrechtliche Anspruch auf Unentgeltlichkeit beschränkt sich auf die obligatorische Grundschulausbildung. Für den Besuch weiterführender Schulen besteht grundsätzlich kein verfassungsrechtlicher Anspruch auf Übernahme der Transportkosten durch das Gemeinwesen.»
+
+**BGE 130 I 113** vom 8. April 2004 — Studiengebühren an Universitäten. Das Bundesgericht grenzt den Anwendungsbereich von Art. 62 BV ab und bestätigt, dass dieser sich nur auf die Grundschulstufe bezieht.
+
+> «Die Bestimmungen über die Unentgeltlichkeit des Grundschulunterrichts finden auf Universitäten keine Anwendung. Angemessene Studiengebühren sind mit der Verfassung vereinbar, solange sie den Zugang zur Bildung nicht übermässig erschweren.»

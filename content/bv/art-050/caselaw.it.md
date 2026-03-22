@@ -1,97 +1,107 @@
+# Art. 50 Cost.
+
 ## Giurisprudenza
 
 ### Fondamenti dell'autonomia comunale
 
-**DTF 131 I 91** del 19 gennaio 2005
-Decisione fondamentale sulle fusioni forzate di comuni.
-Il Tribunale federale conferma l'ancoraggio costituzionale dell'autonomia comunale attraverso l'art. 50 cpv. 1 Cost. e ne precisa la portata.
+**DTF 131 I 91** del 19 gennaio 2005 — Fusione forzata di comuni
+Sentenza fondamentale sulla natura giuridica dell'autonomia comunale secondo la nuova Costituzione federale. Il Tribunale federale riconosce la competenza dei Cantoni di ordinare fusioni forzate, ma le sottopone a limiti costituzionali.
 
-> «L'art. 50 cpv. 1 Cost. garantisce ora espressamente l'autonomia comunale secondo il diritto cantonale. [...] I comuni sono autonomi in un ambito materiale quando il diritto cantonale non lo disciplina in modo conclusivo, ma lo lascia in tutto o in parte al comune per la regolamentazione, concedendogli un margine di decisione relativamente considerevole.»
+> «L'art. 50 cpv. 1 Cost. garantisce ora espressamente l'autonomia comunale secondo il diritto cantonale. Anche sotto l'impero della nuova Costituzione federale rimane compito dei Cantoni determinare se e in che misura viene accordata ai comuni autonomia.»
 
-**DTF 141 I 36** del 15 dicembre 2014
-Chiarimento completo della legittimazione al ricorso e della cognizione nei ricorsi per autonomia nell'ambito della lingua scolastica.
-Il Tribunale federale chiarisce che anche i privati possono invocare l'autonomia comunale.
+**DTF 128 I 3** del 13 novembre 2001 — Monopolio di affissioni su terreno privato
+Sentenza di principio sull'intensità del controllo e sul rapporto tra autonomia comunale e diritti fondamentali. Prima importante applicazione dell'art. 50 Cost. nella giurisprudenza.
 
-> «I privati possono invocare l'autonomia comunale nella misura in cui questa garanzia può avere un effetto sulla loro posizione giuridica o di fatto. Una regolamentazione cantonale che concede il ricorso per autonomia solo ai comuni è contraria al diritto federale.»
+> «Secondo la giurisprudenza, i comuni sono autonomi in un settore se il diritto cantonale non lo disciplina in modo conclusivo, ma lo lascia in tutto o in parte al comune per la regolamentazione, accordandogli in ciò una libertà di decisione relativamente considerevole.»
 
-### Pianificazione del territorio e costruzione
+### Diritto della pianificazione territoriale e diritti di partecipazione
 
-**DTF 136 I 265** del 27 agosto 2010
-Diritti di partecipazione dei comuni nella procedura cantonale di piano direttore.
-Il Tribunale federale stabilisce che i comuni hanno un diritto costituzionale all'audizione nella procedura di piano direttore.
+**DTF 136 I 265** del 27 agosto 2010 — Partecipazione nella procedura del piano direttore
+Decisione centrale sui diritti di partecipazione dei comuni nella pianificazione direttrice cantonale. Il Tribunale federale rafforza i diritti procedurali dei comuni nei confronti del Cantone.
 
-> «Diritto dei comuni all'audizione e alla partecipazione nella procedura di piano direttore. Il Gran Consiglio ha violato il diritto di partecipazione del comune perché non ha esaminato la sua obiezione secondo cui il necessario collegamento ferroviario non era garantito per tutta la durata dello sfruttamento della cava di ghiaia.»
+> «Diritto dei comuni all'audizione e alla partecipazione nella procedura del piano direttore: il Gran Consiglio ha violato il diritto di partecipazione del comune perché non ha esaminato la sua obiezione.»
 
-**DTF 145 I 52** del 5 settembre 2018
-Precisazione dell'autonomia comunale nel diritto edilizio per le clausole estetiche.
-Il Tribunale federale definisce i limiti del controllo cantonale delle autorizzazioni edilizie comunali.
+**DTF 147 I 433** del 21 dicembre 2021 — Pianificazione dei rifiuti e delle discariche
+Conferma dei diritti di partecipazione dei comuni nelle pianificazioni cantonali con effetti territoriali. La sentenza amplia la giurisprudenza sull'art. 50 cpv. 2 Cost. riguardo all'obbligo di considerazione da parte della Confederazione.
 
-> «Il tribunale ricorsuale edilizio del Canton Zurigo può annullare una decisione di inserimento dell'autorità edilizia comunale solo se questa ha superato il margine di valutazione e di discrezionalità garantito dall'autonomia comunale nell'applicazione della regolamentazione estetica.»
+> «La pianificazione dei rifiuti e delle discariche è un settore nel quale i Cantoni operano nell'ambito della loro sovranità pianificatoria. In questo contesto devono rispettare i diritti di partecipazione dei comuni.»
 
-### Naturalizzazione
+**DTF 146 I 36** del 19 febbraio 2020 — Aggiornamento del piano direttore
+Il Tribunale federale precisa i presupposti per l'impugnazione delle modifiche del piano direttore cantonale da parte dei comuni e rafforza la loro autonomia nel settore pianificatorio.
 
-**DTF 139 I 169** del 13 maggio 2013
-Autonomia comunale nelle naturalizzazioni e divieto di discriminazione.
-Il Tribunale federale stabilisce l'estensione dell'autonomia comunale nell'ambito della naturalizzazione e pone limiti costituzionali.
+> «Autonomia comunale in relazione all'aggiornamento di un piano direttore: impugnabilità di misure pianificatorie cantonali presso il Tribunale federale da parte dei comuni interessati.»
 
-> «Portata dell'autonomia comunale nella naturalizzazione ordinaria. Escludere i disabili mentali dalla naturalizzazione per mancanza di volontà propria non corrisponde all'ordinamento legale e si rivela discriminatorio a causa dell'effetto generale che ne deriva.»
+### Diritto di naturalizzazione
+
+**DTF 139 I 169** del 13 maggio 2013 — Naturalizzazione di una persona con disabilità mentale
+Decisione fondamentale sui limiti dell'autonomia comunale nel diritto di naturalizzazione. Il Tribunale federale chiarisce che l'autonomia comunale non autorizza la discriminazione.
+
+> «Secondo la giurisprudenza del Tribunale federale, i comuni sono autonomi in un settore se il diritto cantonale non lo disciplina in modo conclusivo, ma lo lascia in tutto o in parte al comune per la regolamentazione, accordandogli in ciò una libertà di decisione relativamente considerevole.»
+
+**DTF 137 I 235** del 13 aprile 2011 — Conoscenze linguistiche e integrazione
+Il Tribunale federale conferma l'autonomia dei comuni nella valutazione delle domande di naturalizzazione, ma pone limiti costituzionali.
+
+> «Il tribunale cantonale che giudica decisioni negative sulle naturalizzazioni deve procedere a un libero esame dei fatti e dell'applicazione del diritto.»
+
+**DTF 138 I 242** del 12 giugno 2012 — Integrazione locale nelle naturalizzazioni
+Conferma dell'ampio margine di apprezzamento delle autorità comunali nella valutazione dell'integrazione dei candidati alla naturalizzazione.
+
+> «Alle assemblee comunali dei cittadini spetta un ampio margine di apprezzamento e da una persona richiedente può essere richiesta una 'certa integrazione locale'.»
 
 ### Appalti pubblici
 
-**DTF 138 I 143** del 25 gennaio 2012
-Autonomia comunale nel diritto degli appalti e ammissibilità di criteri di aggiudicazione innovativi.
-Il Tribunale federale rafforza l'autonomia dei comuni nella configurazione delle loro procedure di appalto.
+**DTF 138 I 143** del 25 gennaio 2012 — Public Voting come criterio di aggiudicazione
+Decisione di principio sull'autonomia dei comuni negli appalti. Il Tribunale federale riconosce procedure innovative come espressione dell'autonomia comunale.
 
-> «Nel cosiddetto "Public Voting" cittadine e cittadini interessati scelgono il loro progetto preferito tra studi progettuali esposti pubblicamente. Viola l'autonomia comunale se l'istanza cantonale di ricorso dichiara fondamentalmente inammissibile il criterio di aggiudicazione "Public Voting".»
+> «Viola l'autonomia comunale se l'istanza cantonale di ricorso dichiara il criterio di aggiudicazione 'Public Voting' fondamentalmente inammissibile.»
 
-**DTF 143 II 553** del 13 novembre 2017
-Ponderazione dei criteri di aggiudicazione negli appalti pubblici.
-Il Tribunale federale precisa l'autonomia dei comuni nella definizione dei criteri di valutazione.
+**DTF 143 II 553** dell'8 novembre 2017 — Ponderazione del criterio di aggiudicazione «prezzo»
+Il Tribunale federale ribadisce l'autonomia dei comuni nella determinazione dei criteri di aggiudicazione negli appalti pubblici.
 
-> «I comuni del Canton Berna godono di autonomia nella ponderazione dei criteri di aggiudicazione negli appalti pubblici, purché si muovano entro i limiti stabiliti dal diritto degli appalti.»
+> «I comuni del Cantone sottostanno fondamentalmente al diritto cantonale degli appalti, ma dispongono nell'ambito dell'autonomia comunale di un certo margine nella configurazione concreta.»
 
-### Libertà economica e immagine del paesaggio urbano
+**DTF 143 II 120** del 21 marzo 2017 — Concessione di un monopolio comunale
+Conferma della competenza dei comuni di concedere diritti di monopolio a imprese private come espressione della loro autonomia.
 
-**DTF 128 I 3** del 13 novembre 2001
-Monopolio dei manifesti e autonomia comunale in rapporto di tensione con la libertà economica.
-Il Tribunale federale definisce i limiti dell'autonomia comunale nelle misure di regolamentazione economica.
+> «Procedura per la concessione di un diritto di monopolio: i comuni dispongono di autonomia nella configurazione di tali procedure.»
 
-> «Autonomia del comune nell'autorizzazione di manifesti e pubblicità ovvero nella determinazione dei limiti di protezione dell'immagine del paesaggio urbano e estetici. Diversamente da un monopolio di fatto per l'affissione di manifesti su suolo pubblico, un monopolio giuridico dei manifesti, nella misura in cui riguarda il suolo privato, costituisce un intervento sproporzionato nella libertà economica.»
+### Diritto edilizio e pianificatorio
 
-### Atti cantonali e controllo astratto delle norme
+**DTF 145 I 52** del 5 settembre 2018 — Regolamentazione estetica e margine di valutazione
+Decisione fondamentale sui limiti del controllo cantonale delle decisioni di classificazione comunali. Il Tribunale federale rafforza l'autonomia comunale nei confronti delle istanze cantonali di ricorso.
 
-**DTF 133 I 128** del 6 dicembre 2006
-Limiti del ricorso per autonomia contro le leggi cantonali.
-Il Tribunale federale chiarisce i presupposti sotto i quali i comuni possono impugnare atti cantonali.
+> «Il tribunale dei ricorsi edilizi può annullare una decisione di classificazione dell'autorità edilizia comunale solo se questa ha oltrepassato il margine di valutazione e di apprezzamento garantito dall'autonomia comunale.»
 
-> «Con la censura della violazione dell'autonomia comunale, i comuni possono impugnare solo quegli atti cantonali che limitano la loro autonomia in modo inammissibile nella misura in cui sottraggono loro una competenza legislativa o altra competenza che è loro garantita direttamente dalla Costituzione cantonale.»
+**DTF 136 I 395** del 6 settembre 2010 — Interpretazione di prescrizioni di zona
+Il Tribunale federale conferma l'autonomia dei comuni nell'interpretazione di concetti di diritto cantonale nel diritto edilizio.
 
-### Autonomia finanziaria
+> «Autonomia del comune nell'interpretazione del concetto di diritto cantonale di esercizio moderatamente molesto: il comune dispone di un margine considerevole.»
 
-**DTF 144 I 81** del 17 aprile 2018
-Autonomia comunale e sovranità fiscale in caso di modifiche della legislazione fiscale.
-Il Tribunale federale esamina i limiti della legislazione cantonale rispetto all'autonomia finanziaria comunale.
+### Settori particolari
 
-> «Abrogazione di una norma che concedeva ai comuni ticinesi il diritto a una parte dei proventi della riscossione dell'imposta sugli utili immobiliari. Nessuna violazione dell'autonomia comunale, poiché i comuni non hanno un diritto costituzionale a quote sui proventi fiscali cantonali.»
+**DTF 144 I 81** del 22 marzo 2018 — Imposta sugli utili immobiliari e autonomia finanziaria
+Il Tribunale federale esamina gli effetti delle modifiche legislative cantonali sulle finanze comunali alla luce dell'art. 50 Cost.
 
-### Diritto processuale e legittimazione al ricorso
+> «Invocazione della violazione dell'autonomia comunale: abrogazione di una norma che accordava ai comuni il diritto a una parte delle entrate dell'imposta sugli utili immobiliari.»
 
-**DTF 138 I 242** del 12 giugno 2012
-Margine di discrezionalità nelle naturalizzazioni comunali.
-Il Tribunale federale definisce la cognizione nel controllo delle decisioni di naturalizzazione.
+**DTF 141 I 36** del 21 marzo 2014 — Lingua scolastica nei Grigioni
+Applicazione dell'art. 50 Cost. nel settore dell'istruzione. Il Tribunale federale rafforza l'autonomia dei comuni nelle decisioni di politica linguistica.
 
-> «Alle assemblee comunali dei cittadini spetta un ampio margine di discrezionalità e da una persona richiedente si può pretendere "una certa integrazione locale". Ciò tuttavia non giustifica di esigere l'appartenenza ad associazioni o altre organizzazioni come presupposto imperativo.»
+> «L'art. 50 cpv. 1 Cost. garantisce l'autonomia comunale secondo il diritto cantonale: la lingua scolastica come settore dell'autonomia comunale.»
 
-### Sviluppi attuali
+**DTF 145 I 121** del 19 febbraio 2018 — Diritto ecclesiastico cantonale e contributi
+Il Tribunale federale applica l'art. 50 Cost. a questioni di diritto ecclesiastico e conferma l'autonomia dei comuni in materie religiose.
 
-**DTF 147 I 433** del 4 febbraio 2021
-Partecipazione di consorzi a scopo nella procedura di piano direttore.
-Il Tribunale federale estende i diritti di partecipazione anche ai consorzi comunali a scopo.
+> «La libertà di credo e il diritto ecclesiastico cantonale non sono violati da contributi condizionati a centri di consulenza, se viene rispettata l'autonomia comunale.»
 
-> «La pianificazione cantonale dei rifiuti comprende in particolare il fabbisogno di volume di discarica e l'ubicazione delle discariche. I consorzi a scopo che svolgono compiti pubblici hanno diritto alla partecipazione nella procedura di piano direttore nella misura in cui sono toccati nelle loro competenze.»
+### Sviluppi recenti
 
-**DTF 146 I 36** del 19 febbraio 2019
-Aggiornamento del piano direttore cantonale e autonomia comunale.
-Il Tribunale federale precisa i requisiti per la partecipazione dei comuni nelle modifiche del piano direttore.
+**DTF 129 I 410** del 20 novembre 2003 — Diritto delle gare d'appalto nei Grigioni
+Applicazione precoce dell'art. 50 Cost. al diritto degli appalti. Il Tribunale federale riconosce l'autonomia dei comuni grigionesi nella procedura di gara d'appalto.
 
-> «Impugnabilità di misure cantonali di piano direttore presso il Tribunale federale da parte di comuni interessati. I comuni hanno un diritto costituzionale che le loro obiezioni siano esaminate in modo pertinente nella procedura di piano direttore.»
+> «Autonomia dei comuni grigionesi nella procedura di gara d'appalto: l'aggiudicazione non fonda un obbligo contrattuale, ma soltanto un diritto alla conclusione del contratto.»
+
+**DTF 126 I 133** del 7 giugno 2000 — Libertà religiosa e uso speciale
+Applicazione del diritto previgente all'uso di suolo pubblico da parte di organizzazioni religiose considerando l'autonomia comunale di allora.
+
+> «Autonomia comunale e intensità del controllo: chi vuole vendere prestazioni a pagamento deve rendere chiaramente riconoscibili gli scopi religiosi nei confronti del pubblico.»

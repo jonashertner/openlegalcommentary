@@ -1,97 +1,107 @@
+# Art. 50 Cst.
+
 ## Jurisprudence
 
 ### Fondements de l'autonomie communale
 
-**BGE 131 I 91** du 19 janvier 2005
-Décision fondamentale sur les fusions forcées de communes.
-Le Tribunal fédéral confirme l'ancrage constitutionnel de l'autonomie communale par l'art. 50 al. 1 Cst. et précise sa portée.
+**ATF 131 I 91** du 19 janvier 2005 — Fusion forcée de communes
+Arrêt de principe sur la nature juridique de l'autonomie communale sous la nouvelle Constitution fédérale. Le Tribunal fédéral constate la compétence des cantons d'ordonner des fusions forcées, mais les soumet à des limites constitutionnelles.
 
-> « L'art. 50 al. 1 Cst. garantit désormais expressément l'autonomie communale selon le droit cantonal. [...] Les communes sont autonomes dans un domaine lorsque le droit cantonal ne le réglemente pas de façon exhaustive, mais le confie entièrement ou partiellement à la commune pour qu'elle le réglemente et lui accorde à cet égard une liberté de décision relativement importante. »
+> «L'art. 50 al. 1 Cst. garantit désormais expressément l'autonomie communale selon le droit cantonal. Sous l'empire de la nouvelle Constitution fédérale également, il appartient aux cantons de déterminer si et dans quelle mesure une autonomie est accordée aux communes.»
 
-**BGE 141 I 36** du 15 décembre 2014
-Clarification complète de la qualité pour recourir et de la cognition en cas de recours pour atteinte à l'autonomie dans le domaine de la langue d'enseignement.
-Le Tribunal fédéral précise que les particuliers peuvent aussi invoquer l'autonomie communale.
+**ATF 128 I 3** du 13 novembre 2001 — Monopole d'affichage sur terrain privé
+Arrêt de principe sur l'intensité du contrôle et le rapport entre autonomie communale et droits fondamentaux. Première application importante de l'art. 50 Cst. dans la jurisprudence.
 
-> « Les particuliers peuvent invoquer l'autonomie communale dans la mesure où cette garantie peut avoir une incidence sur leur situation juridique ou factuelle. Une réglementation cantonale qui n'accorde le recours pour atteinte à l'autonomie qu'aux communes est contraire au droit fédéral. »
+> «Selon la jurisprudence, les communes sont autonomes dans un domaine lorsque le droit cantonal ne le réglemente pas de manière exhaustive, mais le laisse entièrement ou partiellement à la commune pour qu'elle le règle et lui accorde ce faisant une liberté de décision relativement importante.»
 
-### Aménagement du territoire et construction
+### Droit de l'aménagement du territoire et droits de participation
 
-**BGE 136 I 265** du 27 août 2010
-Droits de participation des communes dans la procédure cantonale de plan directeur.
-Le Tribunal fédéral constate que les communes ont un droit constitutionnel d'être entendues dans la procédure de plan directeur.
+**ATF 136 I 265** du 27 août 2010 — Participation dans la procédure de plan directeur
+Décision centrale sur les droits de participation des communes lors de la planification directrice cantonale. Le Tribunal fédéral renforce les droits procéduraux des communes face au canton.
 
-> « Droit des communes d'être entendues et de participer à la procédure de plan directeur. Le Grand Conseil a violé le droit de participation de la commune parce qu'il n'a pas examiné son objection selon laquelle le raccordement ferroviaire nécessaire n'était pas assuré pendant toute la durée d'exploitation de la gravière. »
+> «Droit des communes à être entendues et à participer dans la procédure de plan directeur : le Grand Conseil a violé le droit de participation de la commune parce qu'il n'a pas examiné son objection.»
 
-**BGE 145 I 52** du 5 septembre 2018
-Précision de l'autonomie communale en droit de la construction pour les clauses esthétiques.
-Le Tribunal fédéral définit les limites du contrôle cantonal des autorisations de construire communales.
+**ATF 147 I 433** du 21 décembre 2021 — Planification des déchets et des décharges
+Confirmation des droits de participation des communes lors de planifications cantonales ayant des effets sur l'organisation du territoire. L'arrêt étend la jurisprudence relative à l'art. 50 al. 2 Cst. concernant l'obligation de prise en considération de la Confédération.
 
-> « Le tribunal de recours en matière de construction du canton de Zurich ne peut annuler une décision d'intégration de l'autorité communale de construction que si celle-ci a dépassé, lors de l'application de la réglementation esthétique, la marge d'appréciation et de libre appréciation garantie par l'autonomie communale. »
+> «La planification des déchets et des décharges est un domaine dans lequel les cantons agissent dans le cadre de leur souveraineté en matière de planification. Ce faisant, ils doivent respecter les droits de participation des communes.»
 
-### Naturalisation
+**ATF 146 I 36** du 19 février 2020 — Mise à jour du plan directeur
+Le Tribunal fédéral précise les conditions pour la contestation de modifications de plans directeurs cantonaux par les communes et renforce leur autonomie dans le domaine de la planification.
 
-**BGE 139 I 169** du 13 mai 2013
-Autonomie communale en matière de naturalisations et interdiction de discrimination.
-Le Tribunal fédéral fixe l'étendue de l'autonomie communale en matière de naturalisation et pose des limites constitutionnelles.
+> «Autonomie communale en rapport avec la mise à jour d'un plan directeur : possibilité de contester devant le Tribunal fédéral des mesures de planification directrice cantonales par les communes concernées.»
 
-> « Portée de l'autonomie communale lors de la naturalisation ordinaire. Exclure les handicapés mentaux de la naturalisation par manque de volonté propre ne correspond pas à l'ordre légal et s'avère discriminatoire en raison de l'effet général qui en découle. »
+### Droit de naturalisation
+
+**ATF 139 I 169** du 13 mai 2013 — Naturalisation d'une personne handicapée mentale
+Décision de principe sur les limites de l'autonomie communale dans le droit de naturalisation. Le Tribunal fédéral précise que l'autonomie communale ne donne pas le droit de discriminer.
+
+> «Selon la jurisprudence du Tribunal fédéral, les communes sont autonomes dans un domaine lorsque le droit cantonal ne le réglemente pas de manière exhaustive, mais le laisse entièrement ou partiellement à la commune pour qu'elle le règle et lui accorde ce faisant une liberté de décision relativement importante.»
+
+**ATF 137 I 235** du 13 avril 2011 — Connaissances linguistiques et intégration
+Le Tribunal fédéral confirme l'autonomie des communes dans l'appréciation des demandes de naturalisation, mais pose des limites constitutionnelles.
+
+> «Le tribunal cantonal qui juge des décisions de refus de naturalisation doit procéder à un libre examen des faits et de l'application du droit.»
+
+**ATF 138 I 242** du 12 juin 2012 — Intégration locale lors de naturalisations
+Confirmation de la large marge d'appréciation des autorités communales dans l'appréciation de l'intégration des candidats à la naturalisation.
+
+> «Les assemblées communales de bourgeoisie disposent d'une large marge d'appréciation et une 'certaine intégration locale' peut être exigée d'une personne requérante.»
 
 ### Marchés publics
 
-**BGE 138 I 143** du 25 janvier 2012
-Autonomie communale en droit des marchés publics et admissibilité de critères d'adjudication innovants.
-Le Tribunal fédéral renforce l'autonomie des communes dans l'aménagement de leurs procédures d'acquisition.
+**ATF 138 I 143** du 25 janvier 2012 — Public Voting comme critère d'adjudication
+Arrêt de principe sur l'autonomie des communes dans les marchés publics. Le Tribunal fédéral reconnaît les procédures innovantes comme expression de l'autonomie communale.
 
-> « Dans le cadre du "Public Voting", les citoyennes et citoyens intéressés choisissent leur projet préféré parmi les études de projet exposées publiquement. Il porte atteinte à l'autonomie communale lorsque l'instance cantonale de recours déclare le critère d'adjudication "Public Voting" fondamentalement inadmissible. »
+> «Il viole l'autonomie communale si l'instance de recours cantonale déclare le critère d'adjudication 'Public Voting' comme fondamentalement inadmissible.»
 
-**BGE 143 II 553** du 13 novembre 2017
-Pondération des critères d'adjudication dans les marchés publics.
-Le Tribunal fédéral précise l'autonomie des communes dans la fixation des critères d'évaluation.
+**ATF 143 II 553** du 8 novembre 2017 — Pondération du critère d'adjudication «prix»
+Le Tribunal fédéral confirme l'autonomie des communes dans la fixation des critères d'adjudication dans les marchés publics.
 
-> « Les communes du canton de Berne jouissent d'autonomie dans la pondération des critères d'adjudication en matière de marchés publics, pour autant qu'elles se meuvent dans les limites fixées par le droit des marchés publics. »
+> «Les communes du canton sont en principe soumises au droit cantonal des marchés publics, mais disposent dans le cadre de l'autonomie communale d'une certaine marge de manœuvre dans l'aménagement concret.»
 
-### Liberté économique et image du site
+**ATF 143 II 120** du 21 mars 2017 — Octroi d'un monopole communal
+Confirmation de la compétence des communes d'octroyer des droits de monopole à des entreprises privées comme expression de leur autonomie.
 
-**BGE 128 I 3** du 13 novembre 2001
-Monopole d'affichage et autonomie communale en conflit avec la liberté économique.
-Le Tribunal fédéral définit les limites de l'autonomie communale en cas de mesures régulatrices de l'économie.
+> «Procédure pour l'octroi d'un droit de monopole : les communes disposent d'autonomie dans l'aménagement de telles procédures.»
 
-> « Autonomie de la commune dans l'autorisation d'affiches et de réclames resp. dans la détermination des limites de protection de l'image du site et esthétiques. Contrairement à un monopole de fait pour l'affichage sur le domaine public, un monopole légal d'affichage, dans la mesure où il englobe le terrain privé, constitue une atteinte disproportionnée à la liberté économique. »
+### Droit de la construction et de l'aménagement
 
-### Actes cantonaux et contrôle abstrait des normes
+**ATF 145 I 52** du 5 septembre 2018 — Réglementation esthétique et marge d'appréciation
+Décision de principe sur les limites du contrôle cantonal des décisions communales de classement. Le Tribunal fédéral renforce l'autonomie communale face aux instances de recours cantonales.
 
-**BGE 133 I 128** du 6 décembre 2006
-Limites du recours pour atteinte à l'autonomie contre les lois cantonales.
-Le Tribunal fédéral clarifie les conditions sous lesquelles les communes peuvent attaquer les actes cantonaux.
+> «Le tribunal de recours en matière de constructions ne peut annuler une décision de classement de l'autorité communale de construction que si celle-ci a dépassé la marge d'appréciation et de pouvoir discrétionnaire garantie par l'autonomie communale.»
 
-> « Par le grief de violation de l'autonomie communale, les communes ne peuvent attaquer que les actes cantonaux qui limitent leur autonomie de façon inadmissible dans la mesure où ils leur retirent une compétence législative ou une autre attribution qui leur est directement garantie par la constitution cantonale. »
+**ATF 136 I 395** du 6 septembre 2010 — Interprétation de prescriptions de zones
+Le Tribunal fédéral confirme l'autonomie des communes dans l'interprétation de notions de droit cantonal en matière de construction.
 
-### Autonomie financière
+> «Autonomie de la commune dans l'interprétation de la notion de droit cantonal d'exploitation moyennement dérangeante : la commune dispose d'une marge de manœuvre considérable.»
 
-**BGE 144 I 81** du 17 avril 2018
-Autonomie communale et souveraineté fiscale en cas de modifications de la législation fiscale.
-Le Tribunal fédéral examine les limites de la législation cantonale face à l'autonomie financière communale.
+### Domaines particuliers
 
-> « Abrogation d'une norme qui accordait aux communes tessinoises le droit à une part des recettes provenant de la perception de l'impôt sur les gains immobiliers. Pas de violation de l'autonomie communale, car les communes n'ont pas de droit constitutionnel à des parts aux recettes fiscales cantonales. »
+**ATF 144 I 81** du 22 mars 2018 — Impôt sur les gains immobiliers et autonomie financière
+Le Tribunal fédéral examine les effets de modifications de lois cantonales sur les finances communales à la lumière de l'art. 50 Cst.
 
-### Droit de procédure et qualité pour recourir
+> «Allégation de violation de l'autonomie communale : abrogation d'une norme qui accordait aux communes le droit à une partie des recettes de l'impôt sur les gains immobiliers.»
 
-**BGE 138 I 242** du 12 juin 2012
-Marge d'appréciation lors de naturalisations communales.
-Le Tribunal fédéral définit la cognition lors du contrôle de décisions de naturalisation.
+**ATF 141 I 36** du 21 mars 2014 — Langue scolaire aux Grisons
+Application de l'art. 50 Cst. dans le domaine de l'éducation. Le Tribunal fédéral renforce l'autonomie des communes dans les décisions de politique linguistique.
 
-> « Les assemblées communales de bourgeoisie disposent d'une large marge d'appréciation et il est possible d'exiger d'une personne requérante une "certaine intégration locale". Cela ne justifie cependant pas d'exiger l'adhésion à des associations ou à d'autres organisations comme condition impérative. »
+> «L'art. 50 al. 1 Cst. garantit l'autonomie communale selon le droit cantonal : la langue scolaire comme domaine de l'autonomie communale.»
 
-### Développements actuels
+**ATF 145 I 121** du 19 février 2018 — Droit des Églises nationales et contributions
+Le Tribunal fédéral applique l'art. 50 Cst. aux questions de droit ecclésiastique et confirme l'autonomie des communes en matière religieuse.
 
-**BGE 147 I 433** du 4 février 2021
-Participation d'associations intercommunales à but spécial dans la procédure de plan directeur.
-Le Tribunal fédéral étend les droits de participation aussi aux associations intercommunales à but spécial.
+> «La liberté de croyance et le droit des Églises nationales ne sont pas violés par des contributions conditionnelles à des centres de conseil si l'autonomie communale est respectée.»
 
-> « La planification des déchets des cantons comprend notamment les besoins en volume de décharge et les sites de décharges. Les associations à but spécial qui accomplissent des tâches de droit public ont un droit de participation dans la procédure de plan directeur dans la mesure où leurs compétences sont affectées. »
+### Développements récents
 
-**BGE 146 I 36** du 19 février 2019
-Mise à jour du plan directeur cantonal et autonomie communale.
-Le Tribunal fédéral précise les exigences concernant la participation des communes lors de modifications du plan directeur.
+**ATF 129 I 410** du 20 novembre 2003 — Droit des soumissions aux Grisons
+Application précoce de l'art. 50 Cst. au droit des marchés publics. Le Tribunal fédéral reconnaît l'autonomie des communes grisonnes dans la procédure de soumission.
 
-> « Possibilité d'attaquer devant le Tribunal fédéral des mesures cantonales d'aménagement du plan directeur par les communes concernées. Les communes ont un droit constitutionnel à ce que leurs objections soient examinées de façon appropriée dans la procédure de plan directeur. »
+> «Autonomie des communes grisonnes dans la procédure de soumission : l'adjudication ne fonde aucune obligation contractuelle, mais seulement un droit à la conclusion du contrat.»
+
+**ATF 126 I 133** du 7 juin 2000 — Liberté religieuse et usage spécial
+Application de l'ancien droit à l'utilisation du domaine public par des organisations religieuses en tenant compte de l'autonomie communale d'alors.
+
+> «Autonomie communale et intensité du contrôle : qui veut distribuer des prestations payantes doit clairement faire reconnaître ses buts religieux au public.»

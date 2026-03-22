@@ -1,13 +1,13 @@
-# Art. 56 — Beziehungen der Kantone zum Ausland
+# Art. 56 BV — Beziehungen der Kantone mit dem Ausland
 
 ## Übersicht
 
-Art. 56 BV gibt den Kantonen die Befugnis, in ihren eigenen Zuständigkeitsbereichen mit dem Ausland Verträge abzuschliessen. Diese kantonale Aussenpolitik ist eine Besonderheit des Schweizer Föderalismus. Kaum ein anderer Bundesstaat gewährt seinen Gliedstaaten so weitreichende internationale Handlungsmöglichkeiten.
+Art. 56 BV regelt die kantonale Aussenpolitik und verleiht den Kantonen eine weltweit einzigartig weitgespannte völkerrechtliche Handlungsfähigkeit. Wie der St. Galler Kommentar betont, verfügen die Gliedstaaten in wohl keinem anderen Bundesstaat über eine so umfassende Kompetenz im aussenpolitischen Bereich (Thürer, BSK BV-Hänni/Borter, Art. 56 N. 33).
 
-Die Kantone können völkerrechtliche Verträge schliessen, wenn es um ihre eigenen Kompetenzen geht. Dazu gehören Bereiche wie Bildung, Gesundheit, Polizei, Raumplanung oder Kultur. Ein Beispiel ist ein Abkommen zwischen dem Kanton Genf und dem französischen Departement Ain über die gemeinsame Nutzung von Spitälern. Oder eine Vereinbarung zwischen Basel-Stadt und deutschen Gemeinden über den grenzüberschreitenden öffentlichen Verkehr.
+Die Kantone können in ihren Zuständigkeitsbereichen völkerrechtliche Verträge mit dem Ausland abschliessen. Diese Vertragsschlusskompetenz umfasst sowohl öffentlich-rechtliche Staatsverträge als auch andere völkerrechtliche Vereinbarungen. Problematisch ist oft die Abgrenzung zu privatrechtlichen Verträgen, die nicht unter Art. 56 BV fallen und zu schwierigen Abgrenzungsfragen führen (Hangartner, BSK BV-Hänni/Borter, Art. 56 N. 27).
 
-Die kantonale Vertragsfreiheit hat aber klare Grenzen. Erstens dürfen die Verträge nicht gegen Bundesrecht verstossen. Das gilt auch für internationale Verträge der Schweiz. Zweitens müssen die Interessen des Bundes gewahrt bleiben. Drittens dürfen keine Rechte anderer Kantone verletzt werden. Zusätzlich müssen die Kantone den Bund vor Vertragsabschluss informieren.
+Drei Schranken begrenzen die kantonale Vertragsfreiheit: Kantonale Verträge dürfen weder dem Bundesrecht noch den Bundesinteressen noch den Rechten anderer Kantone widersprechen. Vor Vertragsabschluss müssen die Kantone den Bund informieren. Diese Informationspflicht ersetzte 1999 die frühere Genehmigungspflicht und stärkte den kantonalen Handlungsspielraum erheblich.
 
-Art. 56 Abs. 3 BV regelt den täglichen Kontakt mit dem Ausland. Mit lokalen ausländischen Behörden können die Kantone direkt verkehren. Das betrifft etwa den Austausch von Polizeiinformationen oder technische Absprachen zwischen Verwaltungen. Bei wichtigen Angelegenheiten oder Kontakten mit Zentralbehörden erfolgt der Verkehr über den Bund.
+Bei der Kommunikation unterscheidet die Verfassung zwischen untergeordneten und zentralstaatlichen ausländischen Behörden. Mit Gemeinden, Regionen oder Bundesländern können Kantone direkt verkehren. Der Kontakt zu ausländischen Zentralregierungen erfolgt durch Bundesvermittlung.
 
-Die Bestimmung spiegelt das Prinzip wider, dass die Kantone auch international als eigenständige Akteure auftreten können. Sie müssen dabei aber die Einheit der schweizerischen Aussenpolitik respektieren. Verstösse gegen diese Regeln können dazu führen, dass der Bund eingreift und rechtswidrige Verträge für innerstaatlich unwirksam erklärt.
+**Beispiel**: Der Kanton Basel-Stadt schliesst mit der Region Elsass ein Abkommen über grenzüberschreitende Polizeizusammenarbeit ab. Nach Information des Bundes kann der Vertrag direkt mit den regionalen französischen Behörden verhandelt werden, ohne dass eine Bundesgenehmigung erforderlich wäre.

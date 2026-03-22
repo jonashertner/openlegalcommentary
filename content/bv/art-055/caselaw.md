@@ -1,33 +1,37 @@
+# Art. 55 BV — Mitwirkung der Kantone an aussenpolitischen Entscheiden
+
 ## Rechtsprechung
 
-### Allgemeine Feststellung zur Rechtsprechungslage
+### Allgemeine Bemerkungen
 
-Art. 55 BV über die Mitwirkung der Kantone bei der Aussenpolitik ist seit Inkrafttreten der neuen Bundesverfassung am 1. Januar 2000 noch nicht Gegenstand höchstrichterlicher Rechtsprechung geworden. Das Bundesgericht hatte bisher keine Gelegenheit, die Tragweite und die konkreten Modalitäten der kantonalen Mitwirkungsrechte bei aussenpolitischen Entscheiden zu präzisieren.
+Die Rechtsprechung zu Art. 55 BV ist äusserst spärlich. Dies erklärt sich dadurch, dass Art. 55 BV in seiner heutigen Fassung (Mitwirkung der Kantone an der Aussenpolitik) erst mit der Totalrevision der Bundesverfassung von 1999 eingeführt wurde. Die meisten älteren Entscheide, die unter «Art. 55 BV» zitiert werden, betreffen das alte Pressefreiheitsrecht (Art. 55 aBV), welches heute in Art. 17 BV geregelt ist.
 
-### Verwandte Rechtsprechung zu Bund-Kantone-Verhältnis
+Art. 55 BV kodifiziert primär Verfahrenspflichten des Bundes gegenüber den Kantonen und enthält keine justiziablen subjektiven Rechte. Die Mitwirkungsrechte werden hauptsächlich durch die Mitwirkungsverordnung (MWVO; SR 158.1) konkretisiert und in der Verwaltungspraxis umgesetzt. Gerichtliche Auseinandersetzungen sind daher selten.
 
-**BGE 129 II 193** vom 21. Februar 2003  
-Einreiseverbot aus Gründen der Wahrung der Landesinteressen  
-Das Bundesgericht bestätigte die umfassende Kompetenz des Bundes in der Aussenpolitik und stellte fest, dass Bundesratsbeschlüsse betreffend Einreisesperren und politische Massnahmen gegenüber Ausländern grundsätzlich nicht der Verwaltungsgerichtsbeschwerde unterliegen.
+### Kantonale Aussenpolitik und Bundeskompetenzen
 
-> «Die Aussenpolitik gehört zu den ausschliesslichen Kompetenzen des Bundes. Der Bundesrat ist in diesem Bereich mit weitreichenden Befugnissen ausgestattet, die er unmittelbar auf die Bundesverfassung stützen kann.»
+**BGE 125 I 227 E. 5** (21. April 1999)  
+Kantonale Initiative «Genève, République de Paix»: Grenzen kantonaler Aktivitäten im aussenpolitischen Bereich.  
+Das Bundesgericht bestätigte die grundsätzliche Bundeskompetenz in der Aussenpolitik, liess aber eingeschränkte kantonale Aktivitäten zu.
 
-**BGE 122 I 70** vom 1. Januar 1996  
-Zuständigkeitsabgrenzung zwischen Bund und Kantonen  
-Die Entscheidung betraf zwar die Luftfahrt, enthält aber grundsätzliche Aussagen zur Kompetenzabgrenzung: Der Bund hat umfassende, aber nicht ausschliessliche Kompetenzen in seinen Zuständigkeitsbereichen. Die Kantone bleiben für Rechtsfragen zuständig, die der Bund nicht abschliessend geregelt hat.
+> «Bei restriktiver Auslegung verstösst die Initiativbestimmung, welche eine Intervention des Kantons bei ‹internationalen Institutionen› vorsieht, nicht gegen die aussenpolitischen Kompetenzen des Bundes. Die Bestimmung ist so zu verstehen, dass sie dem Kanton nur dort ein Tätigwerden gestattet, wo er bereits über entsprechende Zuständigkeiten verfügt oder wo sein Handeln sich im Rahmen der ihm von der Bundesverfassung eingeräumten Kompetenzen bewegt.»
 
-> «Art. 37ter BV gibt dem Bund eine umfassende, aber keine ausschliessliche Kompetenz auf dem Gebiet der Luftfahrt. Die Kantone bleiben zuständig für Rechtsfragen, die der Bund nicht abschliessend geregelt hat.»
+Dieser Entscheid präzisiert die Grenzen kantonaler Aussenpolitik vor Inkrafttreten des heutigen Art. 55 BV und zeigt die Spannungen zwischen kantonalen Interessen und Bundeskompetenzen auf. Das Urteil ist auch nach 1999 für die Auslegung von Art. 55 BV relevant, da es die verfassungsrechtlichen Schranken kantonaler Aussenpolitik verdeutlicht.
 
-### Rechtsprechung zur kantonalen Restkompetenz
+### Verfahrensrechtliche Aspekte
 
-**BGE 125 II 152** vom 1. Januar 1999  
-Abgrenzung eidgenössischer und kantonaler Kompetenzen  
-Das Bundesgericht stellte fest, dass kein Anspruch der Kantone auf Weiterführung bisheriger Praktiken besteht, wenn der Bund seine Kompetenzen neu ordnet.
+Die wenigen verfahrensrechtlichen Entscheide befassen sich mit der praktischen Umsetzung der Mitwirkungsrechte in spezifischen Bereichen. Jedoch existieren keine publizierten BGE-Entscheide, die direkt die Verletzung der Informations- oder Mitwirkungsrechte nach Art. 55 BV thematisieren.
 
-> «Es besteht kein Anspruch der Kantone auf Weiterführung der bisherigen Praxis der Homologation von Geldspielautomaten, wenn der Bundesrat seine Kompetenz auf diesem Gebiet neu ausübt.»
+### Administrative Praxis
 
-### Praktische Bedeutung des Fehlens von Rechtsprechung
+Die Umsetzung von Art. 55 BV erfolgt hauptsächlich auf administrativer Ebene durch:
+- Stellungnahmeverfahren bei völkerrechtlichen Verträgen
+- Konsultationen in EU-Angelegenheiten  
+- Information über internationale Verhandlungen
+- Mitwirkung in Bereichen kantonaler Zuständigkeit
 
-Das Fehlen spezifischer Rechtsprechung zu Art. 55 BV deutet darauf hin, dass die kantonalen Mitwirkungsrechte in der Aussenpolitik bisher konfliktfrei umgesetzt werden. Die Mitwirkung erfolgt primär über institutionalisierte Verfahren wie die Konsultation der Kantone bei Staatsverträgen und die Einbindung der Kantonsvertreter in internationale Verhandlungen, ohne dass es zu justiziablen Streitigkeiten gekommen wäre.
+Diese Praxis hat bisher nicht zu bedeutsamen gerichtlichen Auseinandersetzungen geführt, was auf eine grundsätzlich funktionierende Kooperation zwischen Bund und Kantonen hindeutet.
 
-Die fehlende Rechtsprechung kann auch darauf zurückgeführt werden, dass Art. 55 BV primär prozeduale Rechte gewährt, deren Verletzung schwer nachweisbar ist und die kaum zu individuell durchsetzbaren Ansprüchen führen.
+### Fazit
+
+Art. 55 BV ist ein klassisches Beispiel für kooperativ-föderalistische Normen, die ihre Wirkung primär in politischen und administrativen Prozessen entfalten. Die geringe Anzahl gerichtlicher Entscheide spiegelt den vorwiegend verfahrensrechtlichen Charakter der Bestimmung wider. Zukünftige Rechtsprechung ist bei Konflikten über die Reichweite der Informationspflichten oder bei ungenügender Berücksichtigung kantonaler Stellungnahmen denkbar.

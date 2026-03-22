@@ -1,63 +1,71 @@
 ## Jurisprudence
 
-### Répartition des compétences et aménagement des procédures électorales
+La jurisprudence relative à l'art. 39 Cst. s'est développée principalement dans le contexte de l'égalité du droit de vote et de l'autonomie organisationnelle cantonale. Le Tribunal fédéral a interprété cette disposition en priorité en relation avec l'art. 34 Cst. (droits politiques).
 
-**ATF 131 I 74** — 27.10.2004
-Division en circonscriptions pour les élections parlementaires cantonales selon le système proportionnel
+### Autonomie organisationnelle cantonale et procédures électorales
 
-Le Tribunal fédéral a précisé les exigences de droit fédéral applicables aux procédures électorales cantonales. L'art. 39 al. 1 Cst. oblige seulement les cantons à assurer l'exercice des droits politiques selon des formes républicaines. Ces exigences constitutionnelles sont satisfaites en principe tant par le système majoritaire que par le système proportionnel.
+**ATF 131 I 74 consid. 3.2 (2004)**
 
-> « Les cantons sont largement libres dans l'aménagement de leur système politique. L'art. 39 al. 1 Cst. les oblige seulement à assurer l'exercice des droits politiques selon des formes républicaines (représentatives ou démocratiques). »
+27 octobre 2004
 
-**ATF 139 I 195** — 10.07.2013
-Violation du droit de vote concernant des procédures électorales contraires à la Constitution fédérale
+Le Tribunal fédéral concrétise la compétence cantonale en matière d'aménagement des droits politiques.
 
-Le Tribunal fédéral a confirmé que les cantons peuvent aménager leurs procédures électorales dans le cadre de l'art. 39 al. 1 Cst., mais doivent respecter les exigences minimales de droit constitutionnel fédéral. Un objet de votation qui vise à empêcher l'introduction d'une procédure électorale proportionnelle conforme à la Constitution fédérale est inadmissible.
+L'art. 39, al. 1, Cst. confère aux cantons une large liberté d'aménagement de leurs systèmes politiques.
 
-> « Possibilités d'aménagement de la procédure électorale proportionnelle pour le conseil cantonal (consid. 3.1). L'objet de votation litigieux est inadmissible, car il vise à empêcher l'introduction d'une procédure électorale proportionnelle conforme à la Constitution fédérale. »
+> « Les cantons sont largement libres dans l'aménagement de leur système politique. L'art. 39, al. 1, Cst. les oblige seulement à garantir l'exercice des droits politiques selon des formes républicaines (représentatives ou démocratiques). Ces exigences constitutionnelles sont satisfaites en principe tant par le système majoritaire que par le système proportionnel. »
 
-**ATF 143 I 211** — 30.03.2017
-Procédure électorale pour les présidents de tribunaux d'arrondissement
+**ATF 139 I 195 consid. 1.3 (2013)**
 
-L'art. 39 al. 1 Cst. accorde aux cantons une large autonomie dans l'aménagement de leurs procédures électorales. Les cantons règlent conformément à leur autonomie organisationnelle l'exercice des droits politiques dans les affaires cantonales et communales dans le cadre de la garantie constitutionnelle fédérale de l'art. 34 Cst.
+10 juillet 2013
 
-> « Les cantons sont largement libres dans l'aménagement de leur système politique et de la procédure électorale. L'art. 39 al. 1 Cst. dispose que les cantons - conformément à leur autonomie organisationnelle - règlent l'exercice des droits politiques dans les affaires cantonales et communales. »
+Limites de l'autonomie organisationnelle cantonale en cas de procédures électorales contraires au droit constitutionnel fédéral.
 
-### Principe de domicile et droits politiques
+L'autonomie cantonale trouve sa limite là où l'on veut maintenir des procédures contraires au droit constitutionnel fédéral.
 
-**ATF 151 I 354** — 24.03.2025
-Exigence de domicile pour une candidature au Conseil des États
+> « Le projet de votation litigieux est inadmissible parce qu'il vise à empêcher l'introduction d'une procédure électorale proportionnelle conforme au droit constitutionnel fédéral. »
 
-Le plus récent arrêt de principe concernant le principe de domicile selon l'art. 39 al. 2 Cst. a précisé la notion de droit fédéral du domicile politique. Celui-ci suppose un domicile de droit civil et une inscription au registre électoral. Lors d'élections au Conseil des États en tant qu'élections cantonales, les cantons peuvent aménager l'exigence de domicile comme condition d'éligibilité.
+**ATF 143 I 211 consid. 3.1 (2017)**
 
-> « La notion de droit fédéral du domicile politique suppose un domicile de droit civil et une inscription au registre électoral (consid. 3.1). Il constitue selon le droit cantonal une condition d'éligibilité (consid. 3.2). »
+30 mars 2017
 
-Le Tribunal fédéral a souligné le lien étroit entre domicile de droit civil et domicile politique en raison du principe démocratique de territorialité :
+Liberté d'aménagement cantonale pour l'élection des juges au regard de l'art. 39, al. 1, Cst.
 
-> « Le lien étroit entre domicile de droit civil et domicile politique [repose sur] le principe démocratique de territorialité [...]. L'exigence de domicile sans exception [...] sert l'idée du principe démocratique de territorialité, car il s'agit que la personne concernée exerce son droit dans cette commune territoriale où elle a, considérée dans son ensemble, le centre de sa vie. »
+Les cantons règlent aussi l'élection des juges dans le cadre de leur autonomie organisationnelle.
 
-### Violation des droits politiques
+> « Les cantons sont largement libres dans l'aménagement de leur système politique et de la procédure électorale. L'art. 39, al. 1, Cst. précise que les cantons - conformément à leur autonomie organisationnelle - règlent l'exercice des droits politiques dans les affaires cantonales et communales. Cette compétence s'exerce dans le cadre de la garantie constitutionnelle fédérale de l'art. 34 Cst. »
 
-**ATF 129 I 232** — 2003
-Nullité d'une initiative de naturalisation
+### Droits de référendum communaux
 
-Bien que ne concernant pas directement l'art. 39 Cst., cet arrêt illustre les limites de la participation démocratique en cas de conflits entre différents droits fondamentaux. Le Tribunal fédéral a examiné la compatibilité d'initiatives populaires avec les exigences constitutionnelles des droits politiques.
+**ATF 140 I 58 consid. 3.3 (2013)**
 
-> « Les décisions de rejet de naturalisations sont soumises à l'obligation de motiver selon l'art. 29 al. 2 Cst. (droit d'être entendu) en relation avec l'art. 8 al. 2 Cst. (interdiction de discrimination ; consid. 3.3 et 3.4). Lors d'un scrutin, une motivation satisfaisant aux exigences constitutionnelles n'est pas possible. »
+13 décembre 2013
 
-### Autres précisions
+Aménagement des droits de référendum communaux comme partie de la compétence cantonale.
 
-**ATF 131 I 85** — 27.10.2004
-Division en circonscriptions selon le système proportionnel
+L'art. 39, al. 1, Cst. garantit aux cantons la compétence de régler les droits politiques communaux.
 
-Précisions complémentaires concernant les exigences de droit fédéral applicables aux divisions cantonales en circonscriptions sous l'art. 39 al. 1 Cst. en cas de tailles de circonscriptions historiquement développées et très différentes.
+> « Selon l'art. 39, al. 1, Cst., la Confédération règle l'exercice des droits politiques en matière fédérale ; les cantons le déterminent pour les affaires cantonales et communales. Cette compétence des cantons est de nature déclaratoire, car elle vaut déjà en raison de l'autonomie organisationnelle cantonale, et se détermine quant au contenu selon les exigences minimales de l'art. 51 Cst. »
 
-**ATF 136 I 352** — 07.07.2010
-Procédure proportionnelle et division en circonscriptions
+### Division des circonscriptions électorales et égalité de l'effet utile du vote
 
-Concrétisation supplémentaire des exigences applicables aux procédures proportionnelles pour les élections parlementaires cantonales sous l'angle de l'égalité du droit de vote et de l'art. 39 al. 1 Cst.
+**ATF 129 I 185 consid. 3.1 (2002)**
 
-**ATF 145 I 259** — 29.07.2019
-Système majoritaire pour les élections parlementaires cantonales
+18 décembre 2002
 
-Le Tribunal fédéral a confirmé que même des procédures purement majoritaires pour les élections parlementaires cantonales peuvent satisfaire aux exigences de l'art. 39 al. 1 Cst., pour autant que l'égalité du droit de vote soit préservée.
+Arrêt fondamental sur l'égalité du droit de vote et la liberté d'aménagement cantonale.
+
+L'autonomie cantonale en matière de procédures électorales est soumise aux limites de l'égalité de traitement.
+
+> « Les cantons sont largement libres dans l'aménagement de leur système politique. L'art. 39, al. 1, Cst. (anciennement art. 6, al. 2, let. b, aCst.) les oblige seulement à garantir l'exercice des droits politiques selon des formes républicaines (représentatives ou démocratiques). Ces exigences constitutionnelles sont satisfaites en principe tant par le système majoritaire que par le système proportionnel. L'art. 8, al. 1, Cst. (anciennement art. 4, al. 1, aCst.) constitue une limite à l'aménagement de la procédure électorale, lequel garantit en relation avec l'art. 34 Cst. (aussi) l'égalité politique des citoyens. »
+
+### Rapport avec les droits fondamentaux
+
+**ATF 131 I 85 consid. 3.2 (2004)**
+
+27 octobre 2004
+
+La compétence découlant de l'art. 39, al. 1, Cst. est soumise à la réserve des garanties fondamentales.
+
+Les procédures électorales cantonales doivent respecter les garanties constitutionnelles fédérales relatives aux droits fondamentaux.
+
+> « Les cantons sont largement libres dans l'aménagement de leur système politique. L'art. 39, al. 1, Cst. les oblige seulement à garantir l'exercice des droits politiques selon des formes républicaines (représentatives ou démocratiques). »

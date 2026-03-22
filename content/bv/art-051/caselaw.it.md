@@ -1,65 +1,67 @@
-# Art. 51 Cost.
+# Art. 51 Cfed
 
 ## Giurisprudenza
 
-### Controllo delle costituzioni cantonali da parte del Tribunale federale
+### Garanzia e controllo del Tribunale federale
 
-**DTF 140 I 394** del 26 settembre 2014  
-Competenza del Tribunale federale di controllare le disposizioni costituzionali cantonali nonostante la garanzia federale.  
-Il Tribunale federale può controllare le disposizioni costituzionali nel caso d'applicazione, se il diritto federale superiore si è evoluto dalla garanzia.
+**BGE 143 I 272 c. 2.2-2.5** del 3 aprile 2017
+Il Tribunale federale ha chiarito in modo fondamentale la precedenza della Costituzione cantonale e i limiti del controllo del Tribunale federale. La decisione riguarda la fusione forzata di comuni scolastici a Zurigo.
 
-> «Il principio di uguaglianza del diritto di voto che deriva dall'art. 34 Cost. si è evoluto dalla garanzia della Costituzione del Cantone di Appenzello Esterno da parte dell'Assemblea federale nel 1996. Occorre tener conto di questo sviluppo, per cui il Tribunale federale esamina, a seguito di un ricorso concernente l'elezione del Gran Consiglio di Appenzello Esterno del 2011, se la procedura elettorale disciplinata nei suoi tratti fondamentali nella Costituzione cantonale sia compatibile con l'uguaglianza del diritto di voto.»
+«Riguardo alla gerarchia delle norme, dalla Costituzione federale si può desumere unicamente che tutto il diritto federale (art. 49 cpv. 1 Cfed) e il diritto intercantonale (art. 48 cpv. 5 Cfed) prevalgono sul diritto cantonale contrario. La gerarchia normativa intracantonale rimane inespressa. Secondo l'art. 51 cpv. 1 Cfed però ogni Cantone si dà una Costituzione democratica. Nel sistema normativo del Cantone spetta quindi alla Costituzione la precedenza normativa.»
 
-**DTF 143 I 272** del 3 aprile 2017  
-Gerarchia delle norme a livello cantonale e garanzia dell'autonomia comunale da parte delle costituzioni cantonali.  
-Le costituzioni cantonali hanno la precedenza sul rimanente diritto cantonale e comunale; le garanzie di diritto costituzionale cantonale sono cogarantite dalla Confederazione.
+**BGE 140 I 394 c. 9** del 26 settembre 2014  
+Il Tribunale federale ha concretizzato la sua competenza di controllo delle disposizioni costituzionali cantonali nel caso concreto, utilizzando l'esempio della procedura elettorale in Appenzello Esterno.
 
-> «Dalla Costituzione federale si può desumere unicamente che tutto il diritto federale (art. 49 cpv. 1 Cost.) e il diritto intercantonale (art. 48 cpv. 5 Cost.) fanno arretrare il diritto cantonale che vi si oppone. La gerarchia normativa intracantonale rimane non menzionata. Secondo l'art. 51 cpv. 1 Cost. ogni Cantone si dà però una costituzione democratica.»
+«Il principio dell'uguaglianza del diritto di voto che deriva dall'art. 34 Cfed si è sviluppato ulteriormente dalla garanzia della Costituzione del Cantone Appenzello Est. da parte dell'Assemblea federale nel 1996. Di questo sviluppo bisogna tenere conto, motivo per cui il Tribunale federale, in seguito a un ricorso concernente l'elezione del Gran Consiglio di Appenzello Est. del 2011, esamina se la procedura elettorale disciplinata nei tratti essenziali nella Costituzione cantonale sia compatibile con l'uguaglianza del diritto di voto.»
 
-### Requisiti per le costituzioni cantonali democratiche
+### Costituzione democratica e procedura elettorale
 
-**DTF 145 I 259** del 29 luglio 2019  
-Compatibilità del sistema elettorale maggioritario per i parlamenti cantonali con il principio democratico.  
-I sistemi elettorali maggioritari puri sono in linea di principio ammissibili, ma devono soddisfare particolari requisiti di giustificazione.
+**BGE 145 I 259 c. 5** del 29 luglio 2019
+La decisione riguarda la compatibilità della procedura elettorale maggioritaria nei Grigioni con i requisiti di una Costituzione democratica secondo l'art. 51 cpv. 1 Cfed.
 
-> «Secondo l'art. 51 cpv. 1 Cost. ogni Cantone si dà una costituzione democratica. Questa richiede il consenso del popolo e deve poter essere riveduta se lo esige la maggioranza degli aventi diritto di voto. L'art. 51 cpv. 1 Cost. non prescrive un determinato sistema elettorale per l'elezione dei parlamenti cantonali.»
+«I presupposti per il controllo di disposizioni di una Costituzione cantonale da parte del Tribunale federale. La grandezza della popolazione residente svizzera come criterio ammissibile per la ripartizione dei seggi sui collegi elettorali. Questione dell'ammissibilità di garanzie di seggi per collegi elettorali con popolazione insufficiente.»
 
-**DTF 140 I 58** del 13 dicembre 2013  
-Configurazione dei diritti di referendum comunali come parte della costituzione democratica.  
-I Cantoni non possono esigere per i referendum comunali presupposti proibitivi; questi devono aprire un esercizio realistico dei diritti di referendum.
+**BGE 121 I 138 c. 5** del 5 giugno 1995
+Il Tribunale federale ha riconosciuto la Landsgemeinde come sistema democratico conforme alla Costituzione nonostante le insufficienze intrinseche al sistema.
 
-> «Secondo l'art. 39 cpv. 1 Cost. la Confederazione disciplina l'esercizio dei diritti politici per gli affari federali, i Cantoni lo determinano per gli affari cantonali e comunali. Questa competenza dei Cantoni è di natura dichiarativa, poiché vale già in virtù dell'autonomia organizzativa cantonale, e si orienta secondo i requisiti minimi previsti dall'art. 51 Cost.»
+«L'istituzione delle Landsgemeinde corrisponde a una forma particolare tradizionale di partecipazione democratica diretta dei cittadini aventi diritto di voto. [...] L'organizzazione di una votazione in Landsgemeinde non viola la libertà di voto nonostante le insufficienze intrinseche al sistema.»
 
-**DTF 129 I 232** del 9 luglio 2003  
-Limiti della configurazione democratica diretta: nullità di iniziative per votazioni alle urne su domande di naturalizzazione.  
-I procedimenti democratici devono soddisfare i requisiti minimi dello Stato di diritto; il principio democratico non giustifica la violazione dell'obbligo di motivazione e del divieto di discriminazione.
+### Contraddizione con il diritto federale
 
-> «I deficit dello Stato di diritto dell'iniziativa non sono giustificati dal principio democratico. Nella votazione alle urne non è possibile una motivazione che soddisfi i requisiti costituzionali.»
+**BGE 129 I 232 c. 2-5** del 9 luglio 2003
+Il Tribunale federale ha esaminato un'iniziativa per l'introduzione di votazioni all'urna sulle domande di naturalizzazione e l'ha dichiarata nulla per violazione dei diritti fondamentali federali.
 
-### Garanzia delle costituzioni cantonali
+«Le decisioni di rifiuto della naturalizzazione sottostanno all'obbligo di motivazione secondo l'art. 29 cpv. 2 Cfed (diritto di essere sentiti) in combinazione con l'art. 8 cpv. 2 Cfed (divieto di discriminazione). Nella votazione all'urna non è possibile una motivazione che soddisfi i requisiti costituzionali.»
 
-**DTF 121 I 138** del 29 giugno 1995  
-Garanzia di particolari istituzioni democratiche: Landsgemeinde come forma riconosciuta di democrazia diretta.  
-Il Tribunale federale riconosce le istituzioni di diritto cantonale come la Landsgemeinde come democratiche nonostante le inadeguatezze sistemiche.
+**BGE 130 I 1 c. 2** del 19 novembre 2003
+Il Tribunale federale ha confermato la precedenza del diritto federale in caso di conflitto tra Costituzione cantonale e legislazione federale nell'ambito dell'asilo.
 
-> «L'istituzione delle Landsgemeinde corrisponde a una particolare forma tradizionale di partecipazione democratica diretta dei cittadini aventi diritto di voto. L'ordinanza di una votazione alla Landsgemeinde non viola la libertà di voto nonostante le inadeguatezze sistemiche.»
+«L'art. 51 cpv. 2 Cfed stabilisce che le Costituzioni cantonali necessitano della garanzia della Confederazione. La Confederazione le garantisce se non sono contrarie al diritto federale.»
 
-**DTF 139 I 195** del 10 luglio 2013  
-Inammissibilità di oggetti di votazione su procedure elettorali contrarie alla Costituzione federale.  
-Il ricorso in materia di diritti politici può essere interposto anche contro oggetti di votazione che mirano a mantenere una procedura elettorale giudicata contraria alla Costituzione federale.
+### Garanzie istituzionali
 
-> «L'oggetto di votazione controverso è inammissibile perché mira a impedire l'introduzione di una soluzione conforme alla Costituzione federale. Un Cantone non può legittimamente far votare se vuole mantenere un diritto contrario alla Costituzione federale.»
+**BGE 131 I 91 c. 3** del 28 settembre 2004
+La decisione sulla fusione di comuni in Vallese ha chiarito i limiti dell'autonomia cantonale nelle fusioni forzate.
 
-### Rapporto con l'autonomia comunale
+Il Tribunale ha stabilito che le fusioni forzate di comuni sono in linea di principio compatibili con l'autonomia comunale, quando il diritto cantonale prevede procedure corrispondenti.
 
-**DTF 130 I 1** del 3 gennaio 2003  
-Legislazione cantonale sull'assistenza sociale per stranieri ammessi provvisoriamente nel quadro della costituzione democratica.  
-I Cantoni devono rispettare l'uguaglianza giuridica e il divieto di discriminazione nella configurazione del loro ordinamento dell'assistenza sociale.
+**BGE 136 I 352 c. 4** del 7 luglio 2010
+Il Tribunale federale ha esaminato la procedura elettorale proporzionale a Nidvaldo e ha concretizzato i requisiti delle procedure elettorali democratiche.
 
-> «La Costituzione cantonale richiede la garanzia della Confederazione. La Confederazione la garantisce se non contraddice il diritto federale, dovendo essere rispettati anche i diritti fondamentali.»
+Il Tribunale ha stabilito che le procedure elettorali cantonali devono corrispondere agli standard minimi del diritto costituzionale federale, ma che ai Cantoni spetta un considerevole margine di manovra.
 
-**DTF 127 I 60** del 31 gennaio 2001  
-Obbligo di rimborso delle spese per interventi di polizia stradale nel quadro dell'autonomia organizzativa cantonale.  
-La configurazione democratica della Costituzione cantonale comprende anche la disciplina della responsabilità per i compiti e il finanziamento.
+### Sviluppi attuali
 
-> «L'art. 51 Cost. garantisce ai Cantoni l'autonomia organizzativa nel quadro dell'ordinamento democratico fondamentale. I Cantoni possono disciplinare autonomamente la loro ripartizione di compiti e costi, purché non contraddicano il diritto federale.»
+**BGE 147 I 478 c. 2** del 25 giugno 2021
+Il Tribunale federale si è occupato della gerarchia delle norme nel Cantone Svitto durante la pandemia di Covid-19 e ha ribadito l'importanza della garanzia.
+
+La decisione ha sottolineato che anche in situazioni eccezionali devono essere rispettate le disposizioni costituzionali cantonali garantite.
+
+### Limiti della garanzia
+
+**BGE 139 I 195 c. 3** del 10 luglio 2013
+La decisione su una procedura elettorale proporzionale nel Cantone Zugo giudicata contraria alla Costituzione federale ha chiarito i limiti della garanzia una volta concessa.
+
+«L'oggetto di votazione controverso è inammissibile perché è orientato a permettere l'introduzione di una procedura contraria al diritto elettorale.»
+
+Il Tribunale federale ha chiarito che la garanzia di una Costituzione cantonale non vale per sempre, ma deve essere adattata agli sviluppi successivi del diritto federale.

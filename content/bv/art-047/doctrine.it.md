@@ -1,50 +1,45 @@
 ## Dottrina
 
-### 1. Storia della genesi
+### 1. Genesi storica
 
-**N. 1** L'attuale formulazione dell'art. 47 Cost. è nata nel quadro della revisione totale della Costituzione federale del 1999. Nel progetto del 1995 la disposizione era già prevista nell'art. 42 AP 1995, dove al cpv. 2 era ancora menzionata espressamente la «sostanza fiscale necessaria» (Spiegazioni dell'AP 1995, pag. 141). Questa menzione esplicita è stata soppressa nel testo costituzionale definitivo.
+**N. 1** La disposizione dell'art. 47 Cost. è stata inserita nel quadro della revisione totale della Costituzione federale come nuova norma di garanzia del federalismo. Il messaggio sulla nuova Costituzione federale del 20 novembre 1996 (FF 1997 I 1, 202 seg.) sottolinea che la norma è stata concepita come «disposizione di principio sui rapporti Confederazione-Cantoni». Già il rapporto di esperti del 1977 e le spiegazioni sull'AP 1995 avevano richiesto un ancoraggio esplicito del principio federalista.
 
-**N. 2** Nel messaggio concernente la nuova Costituzione federale il Consiglio federale ha sottolineato che l'art. 47 Cost. ha «carattere programmatico» e funge da «guardrail» per l'interpretazione delle norme costituzionali federaliste (FF 1997 I 355). La norma doveva ancorare costituzionalmente il principio già vigente dell'esercizio il più possibile rispettoso delle competenze da parte della Confederazione.
+**N. 2** La formulazione doveva andare oltre la tradizionale ripartizione delle competenze e creare una garanzia globale dell'autonomia cantonale. Nel procedimento parlamentare è stato aggiunto il cpv. 2 per ancorare espressamente la dimensione finanziaria dell'autonomia cantonale. Questa aggiunta è avvenuta in vista della successiva attuazione della nuova impostazione della perequazione finanziaria e della ripartizione dei compiti (NPC), cfr. messaggio NPC I (FF 2002 2155, 2207 segg.).
 
 ### 2. Collocazione sistematica
 
-**N. 3** L'art. 47 Cost. costituisce insieme agli art. 42–49 Cost. l'elemento centrale dell'ordinamento federalista delle competenze. La disposizione si situa sistematicamente tra la ripartizione generale dei compiti (art. 42–43 Cost.) e i meccanismi concreti di cooperazione (art. 48 Cost.).
+**N. 3** L'art. 47 Cost. è collocato nel secondo titolo sui rapporti tra Confederazione, Cantoni e Comuni e forma, insieme all'art. 46 Cost. (attuazione del diritto federale) e all'art. 48 Cost. (accordi tra Cantoni), la base costituzionale dell'ordinamento federalista. La norma è strettamente collegata con → art. 3 Cost. (ripartizione delle competenze), → art. 5a Cost. (principio di sussidiarietà) e → art. 43a Cost. (attribuzione dei compiti).
 
-**N. 4** La norma concretizza il principio di sussidiarietà ancorato nell'art. 3 Cost. e lo completa con specifici obblighi di protezione della Confederazione a favore dell'autonomia cantonale (Biaggini, Komm. BV, Art. 47 N. 3). È strettamente collegata con → art. 5a Cost. (sussidiarietà), → art. 43 Cost. (attribuzione di compiti) e → art. 46 Cost. (attuazione del diritto federale).
+**N. 4** Sistematicamente l'art. 47 Cost. va inteso come concretizzazione del principio federalista ancorato nel preambolo e nell'art. 1 Cost. La norma funge da ponte tra l'ordinamento generale delle competenze e le specifiche attribuzioni di compiti a partire dall'art. 54 segg. Cost. È inoltre in interazione con → art. 49 Cost. (primato del diritto federale) e → art. 50 Cost. (autonomia comunale).
 
-### 3. Elementi di fattispecie / Contenuto della norma
+### 3. Elementi della fattispecie / Contenuto della norma
 
-**N. 5** Il concetto di «autonomia» è controverso. Hangartner sostiene la posizione secondo cui terminologicamente bisogna distinguere rigorosamente tra «Eigenständigkeit» e «Autonomie» (ZSR 2012 I 156). La dottrina predominante usa tuttavia i concetti come sinonimi (Kägi-Diener, SG Komm. BV [2a ed.], Art. 47 N. 5; Egli, ZSR 2011 I 366 sg.). Il testo francese parla di «autonomie», quello italiano di «autonomia».
+**N. 5** Il concetto di «autonomia» è l'elemento centrale della fattispecie del cpv. 1. Secondo Hangartner (ZSR 2012 I 145 segg., 156) in tedesco si deve sempre parlare di «Eigenständigkeit», non di «Autonomie». Altri autori sostengono invece che «Eigenständigkeit» può essere usato come sinonimo di «Autonomie» (Egli, SG Komm. BV [2a ed.], art. 47 n. 5; id., ZSR 2011 I 366 seg.; Belser/Massüger, BSK BV, art. 47 n. 12).
 
-**N. 6** L'art. 47 cpv. 2 Cost. concretizza l'obbligo generale di protezione attraverso tre dimensioni:
-- **Autonomia dei compiti**: la Confederazione deve lasciare ai Cantoni «compiti sufficienti»
-- **Autonomia organizzativa**: l'organizzazione interna dei Cantoni deve essere rispettata
-- **Autonomia finanziaria**: devono essere garantite fonti di finanziamento e mezzi finanziari sufficienti
+**N. 6** Il «rispetto» dell'autonomia comprende secondo la dottrina tre dimensioni: in primo luogo il rispetto dell'ordinamento costituzionale delle competenze, in secondo luogo la considerazione delle particolarità cantonali nella legislazione federale e in terzo luogo la moderazione nell'impiego delle competenze federali (Martenet, L'Autonomie constitutionnelle des cantons, 1999, pag. 245 segg.).
 
-**N. 7** La giurisprudenza ha chiarito che l'autonomia organizzativa comprende anche la protezione dei Comuni. **DTF 135 I 28** ha stabilito che i Cantoni non possono obbligare i Comuni ad assicurare il loro personale presso una determinata istituzione di previdenza.
+**N. 7** Il cpv. 2 concretizza tre aspetti dell'autonomia cantonale: l'autonomia dei compiti (prima frase), l'autonomia organizzativa (seconda frase, prima parte) e l'autonomia finanziaria (seconda frase, seconda parte). Questa triade forma secondo Pippig (Verfassungsrechtliche Grundlagen des Finanzausgleichs, 2002, pag. 78 segg.) il fondamento della statualità cantonale.
 
 ### 4. Conseguenze giuridiche
 
-**N. 8** La natura giuridica dell'art. 47 Cost. è controversa. La dottrina dominante qualifica la norma come programmatica (Kägi-Diener, SG Komm. BV, Art. 47 N. 8; Biaggini, Komm. BV, Art. 47 N. 3). Una minoranza le riconosce anche un contenuto giustiziabile (Hangartner, ZSR 2012 I 155; Fleiner et al., BV-CF-Forster, 132).
+**N. 8** La qualificazione giuridica dell'art. 47 Cost. è controversa. Secondo Egli (SG Komm. BV, art. 47 n. 8) e Biaggini (Komm. BV, art. 47 n. 3) la disposizione ha un contenuto programmatico. Al contrario Hangartner (ZSR 2012 I 155) e Fleiner et al. (BV-CF-Forster, 132) sostengono che l'art. 47 Cost. contiene elementi giusticiabili.
 
-**N. 9** Come direttiva interpretativa l'art. 47 Cost. sviluppa un effetto considerevole anche senza diretta giustiziabilità. **DTF 128 I 254** mostra che le prescrizioni di competenza del diritto federale non devono limitare eccessivamente l'autonomia organizzativa cantonale. La norma richiede un'interpretazione del diritto federale favorevole al federalismo.
+**N. 9** Nella prassi si dimostra che il Tribunale federale ricorre all'art. 47 Cost. come ausilio interpretativo e limite per gli interventi del diritto federale (**DTF 128 I 254** consid. 3; **DTF 135 I 28** consid. 5). Tuttavia secondo la dottrina dominante la norma non fonda alcun diritto autonomo a determinate competenze o dotazioni finanziarie (Belser/Massüger, BSK BV, art. 47 n. 11).
 
-**N. 10** L'obbligo di protezione della Confederazione si concretizza in varie disposizioni costituzionali: art. 46 cpv. 3 Cost. (considerazione delle particolarità dei Cantoni), art. 126 cpv. 3 Cost. (considerazione della capacità finanziaria) e art. 135 Cost. (perequazione finanziaria).
+**N. 10** Come conseguenze giuridiche concrete risultano: l'obbligo di esercitare con moderazione le competenze federali, l'imperativo di interpretazione del diritto federale favorevole al federalismo nonché l'obbligo di considerare gli interessi cantonali nel procedimento legislativo (messaggio Cost., FF 1997 I 202).
 
-### 5. Controversie
+### 5. Questioni controverse
 
-**N. 11** La dottrina non è concorde sull'esistenza di un «nucleo essenziale» intangibile dell'autonomia cantonale. Il Consiglio federale e parti della dottrina affermano l'esistenza di tale nucleo essenziale, mentre Biaggini dubita che l'art. 47 cpv. 1 sia effettivamente adatto a garantire un federalismo sostanziale (Komm. BV, Art. 47 N. 26).
+**N. 11** La questione della forza normativa dell'art. 47 Cost. è discussa in modo controverso. Il Consiglio federale e parte della dottrina vedono nella norma una garanzia che la Confederazione non può ledere il nucleo dell'autonomia dei Cantoni (Belser/Massüger, BSK BV, art. 47 n. 11). Voci critiche come Biaggini (Komm. BV, art. 47 n. 26) mettono tuttavia in dubbio se l'art. 47 cpv. 1 sia effettivamente idoneo a garantire un federalismo sostanziale.
 
-**N. 12** Viene anche discussa in modo controverso l'efficacia pratica della norma di fronte alla progressiva centralizzazione. Waldmann parla di una «forza normativa del fattuale» che si oppone all'art. 47 Cost. (BSK BV-Belser/Massüger, Art. 47 N. 11). Martenet sottolinea invece il significato simbolico e di politica del diritto della norma costituzionale (L'Autonomie constitutionnelle des cantons, pag. 245).
+**N. 12** Un ulteriore punto controverso riguarda la terminologia. Mentre Hangartner (ZSR 2012 I 145 segg., 156) richiede di parlare sempre in tedesco di «Eigenständigkeit» e non di «Autonomie», altri autori usano i concetti come sinonimi (Egli, SG Komm. BV [2a ed.], art. 47 n. 5; id., ZSR 2011 I 366 seg.). Questo dibattito terminologico ha anche ripercussioni sull'interpretazione della norma.
+
+**N. 13** È infine controverso se dall'art. 47 cpv. 2 Cost. si possano derivare concreti diritti di finanziamento. Mentre una parte della dottrina lo afferma (Pippig, Verfassungsrechtliche Grundlagen des Finanzausgleichs, 2002, pag. 156 segg.), la prassi del Tribunale federale nega diritti diretti alle prestazioni dei Cantoni nei confronti della Confederazione (**DTF 135 I 28** consid. 5).
 
 ### 6. Indicazioni pratiche
 
-**N. 13** Nell'elaborazione delle leggi federali l'art. 47 Cost. deve essere considerato tempestivamente. I messaggi devono esporre in che misura l'autonomia cantonale rimane tutelata (art. 141 cpv. 2 lett. d LParl).
+**N. 14** Nell'invocare l'art. 47 Cost. si dovrebbe tener presente che la norma funge principalmente come regola interpretativa e meno come titolo autonomo di diritto. Più efficaci sono i ricorsi che fanno valere l'art. 47 Cost. in combinazione con specifiche norme di competenza o di autonomia (↔ art. 3 Cost., ↔ art. 50 Cost.).
 
-**N. 14** I Cantoni possono difendersi contro le violazioni della loro autonomia organizzativa mediante controllo astratto delle norme (art. 82 lett. b LTF). Il rimprovero di violazione dell'art. 47 Cost. deve essere di regola collegato con la violazione di norme di competenza più specifiche.
+**N. 15** Nel procedimento legislativo l'art. 47 Cost. deve essere impiegato nella consultazione e nella deliberazione parlamentare come argomento per la considerazione degli interessi cantonali. La Conferenza dei governi cantonali (CdC) si basa regolarmente su questa disposizione nelle sue prese di posizione sui progetti federali.
 
-**N. 15** Nella prassi il significato dell'art. 47 Cost. si manifesta particolarmente in caso di:
-- Prescrizioni sull'organizzazione delle autorità cantonali (→ **DTF 128 I 254**)
-- Limitazioni dell'autonomia comunale (→ **DTF 135 I 28**)
-- Sforzi di armonizzazione nel settore dell'educazione, della sanità e del sociale
-- Attuazione di obblighi internazionali a livello cantonale
+**N. 16** Nelle controversie intercantonali l'art. 47 Cost. può essere invocato come base per il rispetto reciproco e la protezione dei Cantoni più piccoli. La norma obbliga non solo la Confederazione, ma indirettamente anche i Cantoni a rispettare la diversità federalista (↔ art. 48 Cost.).

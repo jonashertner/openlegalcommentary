@@ -1,97 +1,107 @@
+# Art. 50 BV
+
 ## Rechtsprechung
 
 ### Grundlagen der Gemeindeautonomie
 
-**BGE 131 I 91** vom 19. Januar 2005
-Grundlegende Entscheidung zu Zwangsfusionen von Gemeinden. 
-Das Bundesgericht bestätigt die verfassungsrechtliche Verankerung der Gemeindeautonomie durch Art. 50 Abs. 1 BV und präzisiert deren Tragweite.
+**BGE 131 I 91** vom 19. Januar 2005 — Zwangsfusion von Gemeinden
+Wegweisendes Urteil zur Rechtsnatur der Gemeindeautonomie nach der neuen Bundesverfassung. Das Bundesgericht stellt die Kompetenz der Kantone zur Anordnung von Zwangsfusionen fest, unterwirft diese aber verfassungsrechtlichen Schranken.
 
-> «Art. 50 Abs. 1 BV garantiert die Gemeindeautonomie nunmehr ausdrücklich nach Massgabe des kantonalen Rechts. [...] Gemeinden sind in einem Sachbereich autonom, wenn das kantonale Recht diesen nicht abschliessend ordnet, sondern ihn ganz oder teilweise der Gemeinde zur Regelung überlässt und ihr dabei eine relativ erhebliche Entscheidungsfreiheit einräumt.»
+> «Art. 50 Abs. 1 BV gewährleistet die Gemeindeautonomie nunmehr ausdrücklich nach Massgabe des kantonalen Rechts. Auch unter dem Geltungsbereich der neuen Bundesverfassung bleibt es Sache der Kantone zu bestimmen, ob und in welchem Umfang den Gemeinden Autonomie eingeräumt wird.»
 
-**BGE 141 I 36** vom 15. Dezember 2014
-Umfassende Klärung der Beschwerdelegitimation und Kognition bei Autonomiebeschwerden im Bereich Schulsprache.
-Das Bundesgericht stellt klar, dass auch Private sich auf die Gemeindeautonomie berufen können.
+**BGE 128 I 3** vom 13. November 2001 — Plakatmonopol auf privatem Grund
+Grundsatzurteil zur Prüfungsdichte und zum Verhältnis zwischen Gemeindeautonomie und Grundrechten. Erste bedeutende Anwendung von Art. 50 BV in der Rechtsprechung.
 
-> «Private können sich auf die Gemeindeautonomie berufen, soweit diese Garantie eine Auswirkung auf ihre rechtliche oder tatsächliche Stellung haben kann. Eine kantonale Regelung, welche die Autonomiebeschwerde nur den Gemeinden zugesteht, ist bundesrechtswidrig.»
+> «Nach der Rechtsprechung sind Gemeinden in einem Sachbereich autonom, wenn das kantonale Recht diesen nicht abschliessend ordnet, sondern ihn ganz oder teilweise der Gemeinde zur Regelung überlässt und ihr dabei eine relativ erhebliche Entscheidungsfreiheit einräumt.»
 
-### Raumplanung und Bau
+### Raumplanungsrecht und Mitwirkungsrechte
 
-**BGE 136 I 265** vom 27. August 2010
-Mitwirkungsrechte der Gemeinden im kantonalen Richtplanverfahren.
-Das Bundesgericht stellt fest, dass Gemeinden einen verfassungsrechtlichen Anspruch auf Anhörung im Richtplanverfahren haben.
+**BGE 136 I 265** vom 27. August 2010 — Mitwirkung im Richtplanverfahren
+Zentrale Entscheidung zu den Mitwirkungsrechten der Gemeinden bei der kantonalen Richtplanung. Das Bundesgericht stärkt die prozeduralen Rechte der Gemeinden gegenüber dem Kanton.
 
-> «Anspruch der Gemeinden auf Anhörung und Mitwirkung im Richtplanverfahren. Der Kantonsrat verletzte das Mitwirkungsrecht der Gemeinde, weil er ihren Einwand, der notwendige Bahnanschluss sei nicht während der gesamten Abbauzeit der Kiesgrube gesichert, nicht prüfte.»
+> «Anspruch der Gemeinden auf Anhörung und Mitwirkung im Richtplanverfahren: Der Kantonsrat verletzte das Mitwirkungsrecht der Gemeinde, weil er ihren Einwand nicht prüfte.»
 
-**BGE 145 I 52** vom 5. September 2018
-Präzisierung der Gemeindeautonomie im Baurecht bei Ästhetikklauseln.
-Das Bundesgericht definiert die Grenzen der kantonalen Überprüfung kommunaler Baubewilligungen.
+**BGE 147 I 433** vom 21. Dezember 2021 — Abfall- und Deponieplanung
+Bestätigung der Mitwirkungsrechte der Gemeinden bei raumwirksamen kantonalen Planungen. Das Urteil erweitert die Rechtsprechung zu Art. 50 Abs. 2 BV bezüglich der Berücksichtigungspflicht des Bundes.
 
-> «Das Baurekursgericht des Kantons Zürich darf einen Einordnungsentscheid der kommunalen Baubehörde nur aufheben, wenn diese bei der Anwendung der Ästhetikregelung den durch die Gemeindeautonomie gewährleisteten Beurteilungs- und Ermessensspielraum überschritten hat.»
+> «Die Abfall- und Deponieplanung ist ein Bereich, in dem die Kantone im Rahmen ihrer Planungshoheit tätig werden. Dabei haben sie die Mitwirkungsrechte der Gemeinden zu beachten.»
 
-### Einbürgerung
+**BGE 146 I 36** vom 19. Februar 2020 — Fortschreibung des Richtplans
+Das Bundesgericht präzisiert die Voraussetzungen für die Anfechtung kantonaler Richtplanänderungen durch Gemeinden und stärkt deren Autonomie im Planungsbereich.
 
-**BGE 139 I 169** vom 13. Mai 2013
-Gemeindeautonomie bei Einbürgerungen und Diskriminierungsverbot.
-Das Bundesgericht legt den Umfang der Gemeindeautonomie im Einbürgerungsbereich fest und setzt verfassungsrechtliche Grenzen.
+> «Gemeindeautonomie im Zusammenhang mit der Fortschreibung eines Richtplans: Anfechtbarkeit von kantonalen richtplanerischen Massnahmen beim Bundesgericht durch betroffene Gemeinden.»
 
-> «Tragweite der Gemeindeautonomie bei der ordentlichen Einbürgerung. Geistig Behinderte mangels eigenen Willens zur Einbürgerung von derselben auszuschliessen, entspricht nicht der gesetzlichen Ordnung und erweist sich aufgrund der damit verbundenen generellen Wirkung als diskriminierend.»
+### Einbürgerungsrecht
+
+**BGE 139 I 169** vom 13. Mai 2013 — Einbürgerung einer geistig Behinderten
+Wegweisende Entscheidung zu den Grenzen der Gemeindeautonomie im Einbürgerungsrecht. Das Bundesgericht stellt klar, dass die Gemeindeautonomie nicht zur Diskriminierung berechtigt.
+
+> «Gemäss der bundesgerichtlichen Rechtsprechung sind Gemeinden in einem Sachbereich autonom, wenn das kantonale Recht diesen nicht abschliessend ordnet, sondern ihn ganz oder teilweise der Gemeinde zur Regelung überlässt und ihr dabei eine relativ erhebliche Entscheidungsfreiheit einräumt.»
+
+**BGE 137 I 235** vom 13. April 2011 — Sprachkenntnisse und Integration
+Das Bundesgericht bestätigt die Autonomie der Gemeinden bei der Beurteilung von Einbürgerungsgesuchen, setzt aber verfassungsrechtliche Grenzen.
+
+> «Das kantonale Gericht, das ablehnende Entscheide über Einbürgerungen beurteilt, hat eine freie Überprüfung des Sachverhalts und der Rechtsanwendung vorzunehmen.»
+
+**BGE 138 I 242** vom 12. Juni 2012 — Lokale Integration bei Einbürgerungen
+Bestätigung des weiten Ermessensspielraums der kommunalen Behörden bei der Beurteilung der Integration von Einbürgerungskandidaten.
+
+> «Den kommunalen Bürgerversammlungen kommt ein weiter Ermessensspielraum zu und von einer gesuchstellenden Person kann eine 'gewisse lokale Integration' verlangt werden.»
 
 ### Öffentliches Beschaffungswesen
 
-**BGE 138 I 143** vom 25. Januar 2012
-Gemeindeautonomie im Vergaberecht und Zulässigkeit innovativer Zuschlagskriterien.
-Das Bundesgericht stärkt die Autonomie der Gemeinden bei der Gestaltung ihrer Beschaffungsverfahren.
+**BGE 138 I 143** vom 25. Januar 2012 — Public Voting als Zuschlagskriterium
+Grundsatzentscheid zur Autonomie der Gemeinden im Beschaffungswesen. Das Bundesgericht anerkennt innovative Verfahren als Ausdruck der Gemeindeautonomie.
 
-> «Beim so genannten "Public Voting" wählen interessierte Bürgerinnen und Bürger unter öffentlich aufgelegten Projektstudien ihr bevorzugtes Projekt aus. Es verletzt die Gemeindeautonomie, wenn die kantonale Rechtsmittelinstanz das Zuschlagskriterium "Public Voting" für grundsätzlich unzulässig erklärt.»
+> «Es verletzt die Gemeindeautonomie, wenn die kantonale Rechtsmittelinstanz das Zuschlagskriterium 'Public Voting' für grundsätzlich unzulässig erklärt.»
 
-**BGE 143 II 553** vom 13. November 2017
-Gewichtung von Zuschlagskriterien im öffentlichen Beschaffungswesen.
-Das Bundesgericht präzisiert die Autonomie der Gemeinden bei der Festlegung von Bewertungskriterien.
+**BGE 143 II 553** vom 8. November 2017 — Gewichtung des Zuschlagskriteriums «Preis»
+Das Bundesgericht bekräftigt die Autonomie der Gemeinden bei der Festlegung von Zuschlagskriterien im öffentlichen Beschaffungswesen.
 
-> «Die Gemeinden des Kantons Bern geniessen bei der Gewichtung der Zuschlagskriterien im öffentlichen Beschaffungswesen Autonomie, sofern sie sich innerhalb der durch das Beschaffungsrecht vorgegebenen Grenzen bewegen.»
+> «Die Gemeinden des Kantons unterstehen grundsätzlich dem kantonalen Vergaberecht, verfügen aber im Rahmen der Gemeindeautonomie über einen gewissen Spielraum bei der konkreten Ausgestaltung.»
 
-### Wirtschaftsfreiheit und Ortsbild
+**BGE 143 II 120** vom 21. März 2017 — Verleihung eines Gemeindemonopols
+Bestätigung der Kompetenz der Gemeinden zur Verleihung von Monopolrechten an private Unternehmen als Ausdruck ihrer Autonomie.
 
-**BGE 128 I 3** vom 13. November 2001
-Plakatmonopol und Gemeindeautonomie im Spannungsfeld zur Wirtschaftsfreiheit.
-Das Bundesgericht definiert die Grenzen der Gemeindeautonomie bei wirtschaftsregulierenden Massnahmen.
+> «Verfahren über die Verleihung eines Monopolrechts: Die Gemeinden verfügen über Autonomie bei der Ausgestaltung solcher Verfahren.»
 
-> «Autonomie der Gemeinde bei der Bewilligung von Plakaten und Reklamen bzw. bei der Bestimmung der ortsbildschützerischen und ästhetischen Schranken. Anders als ein faktisches Monopol für den Plakataushang auf öffentlichem Grund stellt ein rechtliches Plakatmonopol, soweit es privaten Grund erfasst, einen unverhältnismässigen Eingriff in die Wirtschaftsfreiheit dar.»
+### Bau- und Planungsrecht
 
-### Kantonale Erlasse und abstrakte Normenkontrolle
+**BGE 145 I 52** vom 5. September 2018 — Ästhetikregelung und Beurteilungsspielraum
+Wegweisende Entscheidung zu den Grenzen der kantonalen Überprüfung kommunaler Einordnungsentscheide. Das Bundesgericht stärkt die Gemeindeautonomie gegenüber kantonalen Rekursinstanzen.
 
-**BGE 133 I 128** vom 6. Dezember 2006
-Grenzen der Autonomiebeschwerde gegen kantonale Gesetze.
-Das Bundesgericht klärt die Voraussetzungen, unter denen Gemeinden kantonale Erlasse anfechten können.
+> «Das Baurekursgericht kann einen Einordnungsentscheid der kommunalen Baubehörde nur aufheben, wenn diese den durch die Gemeindeautonomie gewährleisteten Beurteilungs- und Ermessensspielraum überschritten hat.»
 
-> «Mit der Rüge der Verletzung der Gemeindeautonomie können die Gemeinden nur solche kantonalen Erlasse anfechten, die ihre Autonomie in unzulässiger Weise insoweit beschränken, als sie ihnen eine Gesetzgebungskompetenz oder eine sonstige Zuständigkeit entziehen, die ihnen direkt durch die Kantonsverfassung gewährleistet wird.»
+**BGE 136 I 395** vom 6. September 2010 — Auslegung von Zonenvorschriften
+Das Bundesgericht bestätigt die Autonomie der Gemeinden bei der Auslegung kantonalrechtlicher Begriffe im Baurecht.
 
-### Finanzautonomie
+> «Autonomie der Gemeinde bei der Auslegung des kantonalrechtlichen Begriffs des mässig störenden Betriebs: Die Gemeinde verfügt über einen erheblichen Spielraum.»
 
-**BGE 144 I 81** vom 17. April 2018
-Gemeindeautonomie und Steuerhoheit bei Änderungen der Steuergesetzgebung.
-Das Bundesgericht prüft die Grenzen der kantonalen Gesetzgebung gegenüber der kommunalen Finanzautonomie.
+### Besondere Bereiche
 
-> «Aufhebung einer Norm, die den Tessiner Gemeinden das Recht auf einen Teil der Einnahmen aus der Erhebung der Grundstückgewinnsteuer gewährte. Keine Verletzung der Gemeindeautonomie, da die Gemeinden keinen verfassungsrechtlichen Anspruch auf Anteile an kantonalen Steuereinnahmen haben.»
+**BGE 144 I 81** vom 22. März 2018 — Grundstückgewinnsteuer und Finanzautonomie
+Das Bundesgericht prüft die Auswirkungen kantonaler Gesetzesänderungen auf die Gemeindefinanzen im Lichte von Art. 50 BV.
 
-### Verfahrensrecht und Beschwerdelegitimation
+> «Geltendmachung der Verletzung der Gemeindeautonomie: Aufhebung einer Norm, die den Gemeinden das Recht auf einen Teil der Einnahmen aus der Grundstückgewinnsteuer gewährte.»
 
-**BGE 138 I 242** vom 12. Juni 2012
-Ermessensspielraum bei kommunalen Einbürgerungen.
-Das Bundesgericht definiert die Kognition bei der Überprüfung von Einbürgerungsentscheiden.
+**BGE 141 I 36** vom 21. März 2014 — Schulsprache in Graubünden
+Anwendung von Art. 50 BV im Bildungsbereich. Das Bundesgericht stärkt die Autonomie der Gemeinden bei sprachpolitischen Entscheidungen.
 
-> «Den kommunalen Bürgerversammlungen kommt ein weiter Ermessensspielraum zu und von einer gesuchstellenden Person kann eine "gewisse lokale Integration" verlangt werden. Dies rechtfertigt es jedoch nicht, die Mitgliedschaft in Vereinen oder anderen Organisationen als zwingende Voraussetzung zu verlangen.»
+> «Art. 50 Abs. 1 BV garantiert die Gemeindeautonomie nach Massgabe des kantonalen Rechts: Schulsprache als Bereich der Gemeindeautonomie.»
 
-### Aktuelle Entwicklungen
+**BGE 145 I 121** vom 19. Februar 2018 — Landeskirchenrecht und Beiträge
+Das Bundesgericht wendet Art. 50 BV auf kirchenrechtliche Fragen an und bestätigt die Autonomie der Gemeinden in religiösen Angelegenheiten.
 
-**BGE 147 I 433** vom 4. Februar 2021
-Mitwirkung von Zweckverbänden im Richtplanverfahren.
-Das Bundesgericht erweitert die Mitwirkungsrechte auch auf kommunale Zweckverbände.
+> «Die Glaubensfreiheit und das Landeskirchenrecht sind durch bedingte Beiträge an Beratungsstellen nicht verletzt, wenn die Gemeindeautonomie respektiert wird.»
 
-> «Die Abfallplanung der Kantone umfasst insbesondere den Bedarf an Deponievolumen und die Standorte von Deponien. Zweckverbände, die hoheitliche Aufgaben wahrnehmen, haben einen Anspruch auf Mitwirkung im Richtplanverfahren, soweit sie in ihren Kompetenzen betroffen sind.»
+### Jüngere Entwicklungen
 
-**BGE 146 I 36** vom 19. Februar 2019
-Fortschreibung des kantonalen Richtplans und Gemeindeautonomie.
-Das Bundesgericht präzisiert die Anforderungen an die Mitwirkung der Gemeinden bei Richtplanänderungen.
+**BGE 129 I 410** vom 20. November 2003 — Submissionsrecht in Graubünden
+Frühe Anwendung von Art. 50 BV auf das Vergaberecht. Das Bundesgericht anerkennt die Autonomie der bündnerischen Gemeinden im Submissionsverfahren.
 
-> «Anfechtbarkeit von kantonalen richtplanerischen Massnahmen beim Bundesgericht durch betroffene Gemeinden. Die Gemeinden haben einen verfassungsrechtlichen Anspruch darauf, dass ihre Einwände im Richtplanverfahren sachgerecht geprüft werden.»
+> «Autonomie der bündnerischen Gemeinden im Submissionsverfahren: Der Zuschlag begründet keine Kontraktspflicht, sondern lediglich eine Berechtigung zum Vertragsabschluss.»
+
+**BGE 126 I 133** vom 7. Juni 2000 — Religionsfreiheit und Sondernutzung
+Anwendung der alten Rechtslage auf die Nutzung öffentlichen Grundes durch religiöse Organisationen unter Berücksichtigung der damaligen Gemeindeautonomie.
+
+> «Gemeindeautonomie und Prüfungsdichte: Wer entgeltliche Leistungen vertreiben will, muss religiöse Zwecke gegenüber dem Publikum klar zu erkennen geben.»

@@ -1,68 +1,75 @@
-# Art. 45 Cst.
+# Art. 45 Cst. — Jurisprudence
 
-## Jurisprudence
+## Remarque préliminaire
 
-### Fondements de la participation dans la jurisprudence
+Il n'existe jusqu'à présent qu'une jurisprudence clairsemée du Tribunal fédéral concernant l'application directe de l'art. 45 Cst. Cette disposition n'est généralement pas invoquée comme grief autonome de recours, mais ses principes s'intègrent dans l'appréciation des droits de procédure concrets. L'exposé qui suit englobe donc également les arrêts relatifs à des domaines connexes de la participation et de l'information cantonales.
 
-Le Tribunal fédéral a concrétisé les droits de participation des cantons selon l'art. 45 Cst. dans différents domaines, l'accent étant mis sur la coordination en matière d'aménagement du territoire et la coopération fédéraliste.
+## I. Participation cantonale aux tâches fédérales
 
-**ATF 133 II 120** (11 mai 2007)
+### Principes de la collaboration
 
-Participation du canton de Thurgovie dans le processus de coordination SIL pour l'aéroport de Zurich. Le Tribunal fédéral a concrétisé les exigences de collaboration entre la Confédération et les cantons dans les procédures de plans sectoriels.
+**ATF 133 II 120 c. 2.2** du 11 mai 2007  
+Principe de la collaboration fédéraliste dans les tâches ayant des effets sur l'organisation du territoire  
+Le Tribunal fédéral a retenu, concernant la participation des cantons à l'établissement des plans sectoriels de la Confédération, que l'art. 13 al. 2 LAT concrétise le principe constitutionnel de collaboration.
 
-> «Selon l'art. 13 al. 2 LAT, la Confédération collabore avec les cantons lors de l'établissement de bases pour l'accomplissement de ses tâches ayant des effets sur l'organisation du territoire et elle leur communique ses conceptions, plans sectoriels et projets de construction en temps utile, respectivement le plus tôt possible. Les plans sectoriels de la Confédération sont certes élaborés en étroite collaboration avec les cantons et les communes ainsi qu'avec la participation de la population, mais cette participation ne débouche pas sur une procédure de recours.»
+> « Selon l'art. 13 al. 2 LAT, la Confédération collabore avec les cantons pour l'établissement des bases nécessaires à l'accomplissement de ses tâches ayant des effets sur l'organisation du territoire et leur communique ses conceptions, ses plans sectoriels et ses projets de construction en temps utile, soit le plus tôt possible. »
 
-**ATF 137 II 58** (22 décembre 2010)
+**ATF 147 I 433 c. 4.1** du 4 février 2021  
+Participation des communes dans la procédure de plan directeur  
+Le Tribunal fédéral a souligné l'ancrage constitutionnel des droits de participation dans les procédures de planification des autorités et leur importance pour la légitimation démocratique.
 
-Coordination entre les procédures fédérales et cantonales à l'aéroport de Zurich. Le Tribunal fédéral a souligné l'importance d'une information précoce des cantons dans les projets d'importance fédérale.
+> « La participation des communes et d'autres personnes concernées dans les procédures de plan directeur n'est pas seulement prescrite par la loi, mais correspond aussi à l'exigence constitutionnelle de formation démocratique de la volonté. »
 
-### Loyauté fédérale et obligation de coopération
+### Délimitation des compétences fédérales et cantonales
 
-**ATF 118 Ia 195** (1992)
+**ATF 143 I 272 c. 2.2** du 3 avril 2017  
+Primauté de la Constitution fédérale sur le droit cantonal  
+Le Tribunal fédéral a constaté, dans le contexte de l'organisation scolaire cantonale, que les cantons ne peuvent exercer leurs compétences que dans le cadre des prescriptions de la Constitution fédérale.
 
-Arrêt de principe sur la fidélité fédérale (loyauté fédérale) dans le système fédératif. Le Tribunal fédéral a établi que le principe de loyauté fédérale oblige aussi les cantons à tenir compte des autres États membres.
+> « Les cantons sont liés par la Constitution fédérale dans l'exercice de leurs compétences. L'art. 49 Cst. les oblige à respecter le droit fédéral. »
 
-> «La portée de la garantie du territoire et de la souveraineté des cantons selon l'art. 5 Cst. et selon le principe de loyauté fédérale s'étend à l'obligation des cantons de se ménager mutuellement et de préserver la solidarité fédérale.»
+## II. Information et procédure de consultation
 
-### Information et prise de position dans les procédures fédérales
+### Obligations d'information de la Confédération
 
-**ATF 122 II 201** (1996)
+**ATF 145 I 1 c. 6.2** du 29 octobre 2018  
+Interventions cantonales dans les campagnes de votation  
+Le Tribunal fédéral a reconnu le droit des cantons d'intervenir dans les campagnes de votation fédérales en cas d'atteinte particulière, mais a souligné leur obligation d'objectivité.
 
-Répartition des étrangers admis provisoirement sur les cantons. Le Tribunal fédéral a concrétisé l'obligation d'information et d'audition de la Confédération envers les cantons dans les décisions qui touchent leurs intérêts.
+> « Lorsque l'issue d'une votation populaire fédérale concerne plusieurs ou tous les cantons de manière notable, les gouvernements cantonaux peuvent s'exprimer publiquement à ce sujet avant la votation et donner une recommandation de vote. Toutefois, les interventions cantonales doivent dans ce cas être mesurées à l'aune des critères d'objectivité, de proportionnalité ainsi que de transparence. »
 
-> «L'Office fédéral des réfugiés doit statuer sur d'éventuelles demandes de déménagement dans un autre canton après avoir entendu les cantons concernés.»
+### Procédure de consultation
 
-### Coopération en matière d'aménagement du territoire
+Il n'existe aucune jurisprudence spécifique du Tribunal fédéral concernant la mise en œuvre concrète des procédures de consultation selon l'art. 45 al. 2 Cst. La pratique se fonde sur la loi sur la consultation (LCo) et son ordonnance.
 
-**ATF 147 I 433** (4 février 2021)
+## III. Limites des droits de participation
 
-Participation des communes et des associations à but spécial dans la procédure de plan directeur. Le Tribunal fédéral a précisé la portée des droits de participation dans les procédures de planification et a confirmé l'importance d'une information en temps utile.
+### Participation formelle versus matérielle
 
-> «Les cantons désignent les sites de décharges dans leurs plans directeurs. La fixation s'effectue avec la participation des communes et organisations concernées.»
+**ATF 133 II 120 c. 3.1** du 11 mai 2007  
+Distinction entre audition et procédure de recours  
+Le Tribunal fédéral a clarifié que les procédures de participation ne débouchent pas automatiquement sur des procédures susceptibles de recours.
 
-### Aspects relatifs à la responsabilité de l'État
+> « La procédure d'audition lors de l'édiction d'un plan sectoriel de la Confédération ne débouche pas sur une procédure de recours. »
 
-**ATAF 2008/6** (17 janvier 2008)
+### Large marge d'appréciation des autorités fédérales
 
-Collaboration Confédération-cantons dans le domaine de la responsabilité de l'État. Le Tribunal administratif fédéral a traité des questions de responsabilité en cas de coordination défaillante entre la Confédération et les cantons.
+**ATF 133 II 120 c. 3** du 11 mai 2007  
+Marge de manœuvre dans l'application des dispositions de participation  
+Le Tribunal fédéral a accordé aux autorités une large marge de manœuvre dans l'aménagement concret des procédures de participation.
 
-### Concrétisation procédurale
+> « Large marge de manœuvre des autorités dans l'application de l'art. 4 al. 2 LAT. La participation générale au sens de cette disposition constitue une possibilité d'influence institutionnelle et n'entraîne aucun lien juridique pour les participants, mais seulement une influence politique. »
 
-**ATF 150 II 273** (21 décembre 2023)
+## IV. Développements actuels
 
-Litige de droit public entre un canton et la Confédération concernant les indemnités forfaitaires dans le domaine de l'asile. Le Tribunal fédéral a réaffirmé l'importance de procédures transparentes dans la collaboration Confédération-cantons.
+### Protection des données et loi sur la transparence
 
-### Développements récents
+Des arrêts récents du Préposé à la protection des données et à la transparence montrent que l'art. 45 Cst. devient également pertinent dans le contexte du principe de publicité lorsqu'il s'agit de protéger les relations entre la Confédération et les cantons. Cette pratique n'est cependant pas encore bien établie.
 
-La jurisprudence montre un développement continu des droits de participation des cantons. Il faut particulièrement souligner la tendance du Tribunal fédéral à comprendre l'information et la consultation des cantons non seulement comme une obligation formelle, mais comme un élément matériel de la formation de la volonté fédérale. Les tribunaux exigent de plus en plus une participation «réelle», qui va au-delà de la simple prise de connaissance et accorde aux cantons des possibilités d'influence effectives.
+### Participation dans les questions de droit européen
 
-### Domaines d'application dans la pratique
+La jurisprudence relative à la participation cantonale dans les questions de droit européen continue d'évoluer, l'art. 45 Cst. servant de base constitutionnelle. Des arrêts de principe concrets font cependant encore défaut.
 
-La jurisprudence a concrétisé l'art. 45 Cst. notamment dans les domaines suivants :
+## Conclusion
 
-1. **Aménagement du territoire et projets d'infrastructure** : Plans sectoriels de la Confédération, processus de coordination pour les aéroports et autres infrastructures
-2. **Asile et migration** : Répartition des requérants d'asile et des personnes admises provisoirement
-3. **Politique environnementale et énergétique** : Sites de décharges, concepts d'élimination
-4. **Péréquation financière** : Indemnités forfaitaires et répartition des coûts entre la Confédération et les cantons
-
-Les tribunaux soulignent toujours que la participation des cantons n'est pas seulement un droit constitutionnel, mais une composante essentielle du fédéralisme suisse.
+L'art. 45 Cst. est compris dans la jurisprudence principalement comme une disposition de principe qui est concrétisée par des réglementations de droit spécial. L'application directe par voie constitutionnelle des droits de participation est rare, car ceux-ci se réalisent généralement au niveau de l'ordonnance ou par des processus politiques.

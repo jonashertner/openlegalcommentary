@@ -1,0 +1,11 @@
+## Aperçu
+
+L'art. 62 Cst. règle les compétences en matière d'instruction publique entre la Confédération et les cantons. Les cantons sont en principe compétents pour toutes les écoles. Ils doivent offrir à tous les enfants un enseignement de base gratuit d'une durée minimale de neuf ans et obligatoire (**ATF 129 I 12**). En outre, les cantons doivent permettre aux enfants handicapés de bénéficier d'une formation spécialisée appropriée jusqu'à l'âge de 20 ans.
+
+**Qui est concerné ?** Tous les enfants qui vivent en Suisse ont droit à un enseignement de base gratuit. Cela vaut aussi pour les enfants étrangers sans autorisation de séjour. Les enfants handicapés ont des droits supplémentaires à un encouragement spécialisé. Les parents doivent envoyer leurs enfants à l'école — c'est obligatoire.
+
+**Quelles sont les conséquences juridiques ?** Les cantons doivent mettre à disposition suffisamment d'écoles et ne peuvent pas exiger d'écolage pour l'enseignement obligatoire. Le Tribunal fédéral a précisé : tous les moyens d'enseignement nécessaires comme les livres et les cahiers doivent être gratuits (**ATF 144 I 1**). Pour la formation spécialisée, il est controversé de savoir si les enfants handicapés ont un droit direct devant les tribunaux. La doctrine est partagée (Hänni, BSK BV, Art. 62 N. 70).
+
+Si les cantons ne peuvent pas se mettre d'accord sur des standards communs, la Confédération peut intervenir. Cela concerne par exemple l'âge d'entrée à l'école ou la reconnaissance des diplômes. Cette compétence fédérale est cependant subsidiaire — elle n'intervient que si les cantons échouent.
+
+**Exemple concret :** La famille Müller déménage de Berne à Saint-Gall. Leur fils Marc, âgé de 10 ans, avait le français comme première langue étrangère à Berne. À Saint-Gall, on apprend d'abord l'anglais. De telles différences, le concordat HarmoS (un accord entre cantons) doit les éviter. Si pas assez de cantons y participent, la Confédération pourrait adopter une loi qui prescrit les mêmes règles dans toute la Suisse (Message concernant la constitution fédérale pour la formation, FF 2005 5113).

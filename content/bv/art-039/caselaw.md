@@ -1,63 +1,71 @@
 ## Rechtsprechung
 
-### Kompetenzteilung und Ausgestaltung der Wahlverfahren
+Die Rechtsprechung zu Art. 39 BV ist hauptsächlich im Kontext der Wahlrechtsgleichheit und der kantonalen Organisationsautonomie entwickelt worden. Das Bundesgericht hat die Bestimmung primär in Verbindung mit Art. 34 BV (politische Rechte) ausgelegt.
 
-**BGE 131 I 74** — 27.10.2004
-Wahlkreiseinteilung für kantonale Parlamentswahlen im Verhältniswahlrecht
+### Kantonale Organisationsautonomie und Wahlverfahren
 
-Das Bundesgericht präzisierte die bundesrechtlichen Anforderungen an kantonale Wahlverfahren. Art. 39 Abs. 1 BV verpflichtet die Kantone lediglich, die Ausübung der politischen Rechte nach republikanischen Formen zu sichern. Diesen verfassungsrechtlichen Anforderungen genügen grundsätzlich sowohl das Mehrheits- als auch das Verhältniswahlverfahren.
+**BGE 131 I 74 E. 3.2 (2004)**
+
+27. Oktober 2004
+
+Das Bundesgericht konkretisiert die kantonale Zuständigkeit zur Ausgestaltung der politischen Rechte.
+
+Art. 39 Abs. 1 BV verleiht den Kantonen weitgehende Gestaltungsfreiheit bei der Ausgestaltung ihrer politischen Systeme.
+
+> «Die Kantone sind in der Ausgestaltung ihres politischen Systems weitgehend frei. Art. 39 Abs. 1 BV verpflichtet sie lediglich, die Ausübung der politischen Rechte nach republikanischen (repräsentativen oder demokratischen) Formen zu sichern. Diesen verfassungsrechtlichen Anforderungen genügen grundsätzlich sowohl das Mehrheits- als auch das Verhältniswahlverfahren.»
+
+**BGE 139 I 195 E. 1.3 (2013)**
+
+10. Juli 2013
+
+Grenzen der kantonalen Organisationsautonomie bei bundesverfassungswidrigen Wahlverfahren.
+
+Die kantonale Autonomie findet ihre Grenze dort, wo bundesverfassungswidrige Verfahren beibehalten werden sollen.
+
+> «Die umstrittene Abstimmungsvorlage ist unzulässig, weil sie darauf ausgerichtet ist, die Einführung eines bundesverfassungskonformen Proporzwahlverfahrens zu verhindern.»
+
+**BGE 143 I 211 E. 3.1 (2017)**
+
+30. März 2017
+
+Kantonale Gestaltungsfreiheit bei Richterwahlen im Lichte von Art. 39 Abs. 1 BV.
+
+Die Kantone regeln als Teil ihrer Organisationsautonomie auch die Wahl von Richtern.
+
+> «Die Kantone sind in der Ausgestaltung ihres politischen Systems und des Wahlverfahrens weitgehend frei. Art. 39 Abs. 1 BV hält fest, dass die Kantone - entsprechend ihrer Organisationsautonomie - die Ausübung der politischen Rechte in kantonalen und kommunalen Angelegenheiten regeln. Diese Zuständigkeit wird im Rahmen der bundesverfassungsrechtlichen Garantie von Art. 34 BV ausgeübt.»
+
+### Kommunale Referendumsrechte
+
+**BGE 140 I 58 E. 3.3 (2013)**
+
+13. Dezember 2013
+
+Ausgestaltung kommunaler Referendumsrechte als Teil der kantonalen Zuständigkeit.
+
+Art. 39 Abs. 1 BV gewährleistet den Kantonen die Zuständigkeit zur Regelung kommunaler politischer Rechte.
+
+> «Nach Art. 39 Abs. 1 BV regelt der Bund die Ausübung der politischen Rechte in eidgenössischen, die Kantone bestimmen sie in kantonalen und kommunalen Angelegenheiten. Diese Zuständigkeit der Kantone ist deklaratorischer Natur, da sie ohnehin bereits aufgrund der kantonalen Organisationsautonomie gilt, und richtet sich inhaltlich nach Massgabe der Mindestanforderungen gemäss Art. 51 BV.»
+
+### Wahlkreiseinteilung und Erfolgswertgleichheit
+
+**BGE 129 I 185 E. 3.1 (2002)**
+
+18. Dezember 2002
+
+Grundlegender Entscheid zur Wahlrechtsgleichheit und kantonaler Gestaltungsfreiheit.
+
+Die kantonale Autonomie bei Wahlverfahren unterliegt den Schranken der Rechtsgleichheit.
+
+> «Die Kantone sind in der Ausgestaltung ihres politischen Systems weitgehend frei. Art. 39 Abs. 1 BV (früher Art. 6 Abs. 2 lit. b aBV) verpflichtet sie lediglich, die Ausübung der politischen Rechte nach republikanischen (repräsentativen oder demokratischen) Formen zu sichern. Diesen verfassungsrechtlichen Anforderungen genügen grundsätzlich sowohl das Mehrheits- als auch das Verhältniswahlverfahren. Schranke für die Ausgestaltung des Wahlverfahrens bildet Art. 8 Abs. 1 BV (früher Art. 4 Abs. 1 aBV), welcher in Verbindung mit Art. 34 BV (auch) die politische Gleichberechtigung der Bürger garantiert.»
+
+### Verhältnis zu Grundrechten
+
+**BGE 131 I 85 E. 3.2 (2004)**
+
+27. Oktober 2004
+
+Die Zuständigkeit aus Art. 39 Abs. 1 BV steht unter dem Vorbehalt der grundrechtlichen Garantien.
+
+Kantonale Wahlverfahren müssen die bundesverfassungsrechtlichen Grundrechtsgarantien respektieren.
 
 > «Die Kantone sind in der Ausgestaltung ihres politischen Systems weitgehend frei. Art. 39 Abs. 1 BV verpflichtet sie lediglich, die Ausübung der politischen Rechte nach republikanischen (repräsentativen oder demokratischen) Formen zu sichern.»
-
-**BGE 139 I 195** — 10.07.2013
-Stimmrechtsverletzung bezüglich bundesverfassungswidriger Wahlverfahren
-
-Das Bundesgericht bestätigte, dass Kantone ihre Wahlverfahren im Rahmen von Art. 39 Abs. 1 BV ausgestalten können, aber bundesverfassungsrechtliche Mindestanforderungen einhalten müssen. Eine Abstimmungsvorlage, die darauf ausgerichtet ist, die Einführung eines bundesverfassungskonformen Proporzwahlverfahrens zu verhindern, ist unzulässig.
-
-> «Möglichkeiten der Ausgestaltung des Proporzwahlverfahrens für den Kantonsrat (E. 3.1). Die umstrittene Abstimmungsvorlage ist unzulässig, weil sie darauf ausgerichtet ist, die Einführung eines bundesverfassungskonformen Proporzwahlverfahrens zu verhindern.»
-
-**BGE 143 I 211** — 30.03.2017
-Wahlverfahren für Amtsgerichtspräsidenten
-
-Art. 39 Abs. 1 BV gewährt den Kantonen weitgehende Autonomie bei der Ausgestaltung ihrer Wahlverfahren. Kantone regeln entsprechend ihrer Organisationsautonomie die Ausübung der politischen Rechte in kantonalen und kommunalen Angelegenheiten im Rahmen der bundesverfassungsrechtlichen Garantie von Art. 34 BV.
-
-> «Die Kantone sind in der Ausgestaltung ihres politischen Systems und des Wahlverfahrens weitgehend frei. Art. 39 Abs. 1 BV hält fest, dass die Kantone - entsprechend ihrer Organisationsautonomie - die Ausübung der politischen Rechte in kantonalen und kommunalen Angelegenheiten regeln.»
-
-### Wohnsitzprinzip und politische Rechte
-
-**BGE 151 I 354** — 24.03.2025
-Wohnsitzerfordernis für Ständeratskandidatur
-
-Das jüngste Leiturteil zum Wohnsitzprinzip nach Art. 39 Abs. 2 BV präzisierte den bundesrechtlichen Begriff des politischen Wohnsitzes. Dieser setzt einen zivilrechtlichen Wohnsitz und einen Stimmregistereintrag voraus. Bei Ständeratswahlen als kantonalen Wahlen können die Kantone das Wohnsitzerfordernis als Wählbarkeitsvoraussetzung ausgestalten.
-
-> «Der bundesrechtliche Begriff des politischen Wohnsitzes setzt einen zivilrechtlichen Wohnsitz und einen Stimmregistereintrag voraus (E. 3.1). Er ist nach dem kantonalen Recht eine Wählbarkeitsvoraussetzung (E. 3.2).»
-
-Das Bundesgericht betonte die enge Verbindung zwischen zivilrechtlichem und politischem Wohnsitz aufgrund des demokratischen Territorialitätsprinzips:
-
-> «Die enge Verbindung zwischen zivilrechtlichem und politischem Wohnsitz [beruht auf] dem demokratischen Territorialitätsprinzip [...]. Das ausnahmslose Wohnsitzerfordernis [...] dient der Idee des demokratischen Territorialitätsprinzips, geht es doch darum, dass die jeweilige Person in jener Territorialgemeinde ihr Recht ausüben soll, in der sie gesamthaft betrachtet ihren Lebensmittelpunkt hat.»
-
-### Verletzung der politischen Rechte
-
-**BGE 129 I 232** — 2003
-Ungültigkeit von Einbürgerungsinitiatives
-
-Obschon nicht direkt Art. 39 BV betreffend, illustriert dieser Entscheid die Grenzen demokratischer Mitwirkung bei Konflikten zwischen verschiedenen Grundrechten. Das Bundesgericht prüfte die Vereinbarkeit von Volksinitiativen mit verfassungsrechtlichen Anforderungen der politischen Rechte.
-
-> «Ablehnende Einbürgerungsentscheide unterliegen der Begründungspflicht gemäss Art. 29 Abs. 2 BV (Anspruch auf rechtliches Gehör) i.V.m. Art. 8 Abs. 2 BV (Diskriminierungsverbot; E. 3.3 und 3.4). Bei der Urnenabstimmung ist eine den verfassungsrechtlichen Anforderungen genügende Begründung nicht möglich.»
-
-### Weitere Präzisierungen
-
-**BGE 131 I 85** — 27.10.2004
-Wahlkreiseinteilung im Verhältniswahlrecht
-
-Ergänzende Präzisierungen zu den bundesrechtlichen Anforderungen an kantonale Wahlkreiseinteilungen unter Art. 39 Abs. 1 BV bei historisch gewachsenen, stark unterschiedlichen Wahlkreisgrössen.
-
-**BGE 136 I 352** — 07.07.2010
-Proporzverfahren und Wahlkreiseinteilung
-
-Weitere Konkretisierung der Anforderungen an Proporzverfahren für kantonale Parlamentswahlen unter dem Gesichtspunkt der Wahlrechtsgleichheit und Art. 39 Abs. 1 BV.
-
-**BGE 145 I 259** — 29.07.2019
-Majorzsystem für kantonale Parlamentswahlen
-
-Das Bundesgericht bestätigte, dass auch reine Majorzverfahren für kantonale Parlamentswahlen den Anforderungen von Art. 39 Abs. 1 BV genügen können, sofern die Wahlrechtsgleichheit gewahrt bleibt.

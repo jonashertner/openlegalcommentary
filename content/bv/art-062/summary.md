@@ -1,23 +1,11 @@
-# Art. 62 BV — Schulwesen
-
 ## Übersicht
 
-Art. 62 BV regelt die Zuständigkeiten im Schulwesen zwischen Bund und Kantonen. Die Kantone sind primär für das gesamte Schulwesen zuständig (Hänni, BSK BV, Art. 62 N. 11-13). Sie müssen allen Kindern einen ausreichenden Grundschulunterricht bieten, der obligatorisch und an öffentlichen Schulen unentgeltlich ist (**BGE 144 I 1**). 
+Art. 62 BV regelt die Zuständigkeiten im Schulwesen zwischen Bund und Kantonen. Die Kantone sind grundsätzlich für alle Schulen zuständig. Sie müssen allen Kindern kostenlosen Grundschulunterricht anbieten, der mindestens neun Jahre dauert und obligatorisch ist (**BGE 129 I 12**). Zusätzlich müssen die Kantone behinderten Kindern bis zum 20. Lebensjahr eine angemessene Sonderschulung ermöglichen.
 
-Für behinderte Kinder und Jugendliche müssen die Kantone eine ausreichende Sonderschulung bis längstens zum vollendeten 20. Altersjahr gewährleisten. Umstritten ist, ob dies nur ein Verfassungsauftrag oder ein einklagbarer Rechtsanspruch ist (Hänni, BSK BV, Art. 62 N. 70).
+**Wer ist betroffen?** Alle Kinder, die in der Schweiz leben, haben Anspruch auf kostenlosen Grundschulunterricht. Das gilt auch für ausländische Kinder ohne Aufenthaltsbewilligung. Behinderte Kinder haben zusätzliche Ansprüche auf spezielle Förderung. Eltern müssen ihre Kinder zur Schule schicken — das ist Pflicht.
 
-Der Bund kann nur subsidiär eingreifen: Er regelt den Schuljahresbeginn und kann Harmonisierungsvorschriften erlassen, wenn die Kantone keine ausreichende Koordination erreichen (Hänni, BSK BV, Art. 62 N. 39 ff.).
+**Was sind die Rechtsfolgen?** Die Kantone müssen genügend Schulen bereitstellen und dürfen für den obligatorischen Unterricht kein Schulgeld verlangen. Das Bundesgericht hat klargestellt: Alle notwendigen Unterrichtsmittel wie Bücher und Hefte müssen gratis sein (**BGE 144 I 1**). Bei der Sonderschulung ist umstritten, ob behinderte Kinder einen direkten Anspruch vor Gericht haben. Die Rechtslehre ist geteilter Meinung (Hänni, BSK BV, Art. 62 N. 70). 
 
-## Praktische Bedeutung
+Falls die Kantone sich nicht auf gemeinsame Standards einigen können, darf der Bund eingreifen. Das betrifft zum Beispiel das Alter beim Schuleintritt oder die Anerkennung von Abschlüssen. Diese Bundeskompetenz ist aber subsidiär — sie greift nur, wenn die Kantone versagen.
 
-Die kantonale Schulhoheit bedeutet grosse Unterschiede zwischen den Kantonen bei Lehrplänen, Schulorganisation und Prüfungen. Das erschwert Umzüge von Familien. Die Unentgeltlichkeitspflicht verhindert, dass Eltern für obligatorische Schulleistungen bezahlen müssen (**BGE 144 I 1**). 
-
-Bei Sonderschulung entscheiden die Kantone über Integration in Regelklassen oder separate Förderung. Die Kostentragung erfolgt durch den Wohnkanton, unabhängig vom gewählten Förderort (**BGE 138 I 162**).
-
-## Beispiele
-
-Eine Familie zieht von Basel nach Bern. Das Kind muss sich an andere Lehrmittel und Bewertungssysteme gewöhnen, da jeder Kanton sein Schulwesen eigenständig organisiert.
-
-Ein Schulkind mit Autismus hat Anspruch auf geeignete Sonderschulmassnahmen. Der Kanton kann zwischen Integration mit Zusatzunterstützung oder separater Spezialschule wählen, muss aber die Kosten vollständig übernehmen.
-
-Eine Schule verlangt 200 Franken für ein obligatorisches Klassenlager. Dies verstösst gegen die Unentgeltlichkeitspflicht, da das Lager Teil des obligatorischen Unterrichts ist.
+**Konkretes Beispiel:** Familie Müller zieht von Bern nach St. Gallen. Ihr 10-jähriger Sohn Marc hatte in Bern Französisch als erste Fremdsprache. In St. Gallen lernt man zuerst Englisch. Solche Unterschiede soll das HarmoS-Konkordat (eine Vereinbarung zwischen Kantonen) verhindern. Falls nicht genug Kantone mitmachen, könnte der Bund ein Gesetz erlassen, das schweizweit die gleichen Regeln vorschreibt (Botschaft zur Bildungsverfassung, BBl 2005 5479).

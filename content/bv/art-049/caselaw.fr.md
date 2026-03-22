@@ -1,107 +1,89 @@
-# Jurisprudence
+## Jurisprudence
 
-## Jurisprudence fondamentale
+### Principes de la primauté du droit fédéral
 
-### Primauté du droit fédéral - Principes
+**ATF 144 I 113** du 4 juillet 2018 
+Le principe de la primauté et du respect du droit fédéral exige non seulement que le droit cantonal ne soit pas contraire au droit fédéral, mais aussi qu'il soit conforme à l'esprit et au sens du droit fédéral.
+L'examen par le Tribunal fédéral se limite à déterminer si une réglementation cantonale va à l'encontre du droit fédéral dans ses effets.
 
-**ATF 144 I 113** (4 juillet 2018) — Congé de maternité et droit aux vacances d'une enseignante
-Le principe de la primauté du droit fédéral selon l'art. 49, al. 1, Cst. exclut, dans les domaines que la législation fédérale règle de manière exhaustive, toute législation par les cantons.
-La réglementation cantonale sur l'octroi de vacances aux enseignants ne viole pas l'art. 49 Cst., car les droits minimaux fédéraux en matière de congé de maternité sont respectés.
+> «Le principe de la primauté et du respect du droit fédéral selon l'art. 49 Cst. exige non seulement que le droit cantonal ne soit pas contraire au droit fédéral, mais aussi qu'il soit conforme à l'esprit et au sens du droit fédéral.»
 
-> « Le principe de la primauté du droit fédéral selon l'art. 49, al. 1, Cst. exclut, dans les domaines que la législation fédérale règle de manière exhaustive, toute législation par les cantons. Dans les domaines que le droit fédéral ne règle pas de manière exhaustive, les cantons ne peuvent édicter que des prescriptions qui ne vont pas à l'encontre du sens et de l'esprit du droit fédéral et n'en compromettent ni ne contrecarrent le but. »
+**ATF 149 I 172** du 19 janvier 2023
+Le droit cantonal qui, lors d'une demande rétroactive de réduction de primes, ne tient pas compte d'une diminution de revenus survenue, contrevient à l'esprit et au sens du droit fédéral.
+Une lacune de calcul justifiée par le droit transitoire viole également la primauté du droit fédéral.
 
-**ATF 127 I 60** (2001) — Remboursement des coûts pour les interventions de police de la circulation
-La primauté du droit fédéral est violée lorsque les réglementations cantonales contredisent les dispositions de droit fédéral ou en contrecarrent le but.
-La réglementation cantonale sur la prise en charge des coûts pour les interventions de police de réglementation de la circulation ne viole pas la force dérogatoire du droit fédéral, car le droit de la circulation routière n'interdit pas de telles réglementations aux cantons.
+> «Une lacune de calcul justifiée par le droit transitoire, qui fait que la situation financière des assurés d'une année concrète n'est prise en compte dans aucune année de droit lors de la détermination du droit à la réduction de primes, ne peut également pas être conciliée avec les exigences du droit fédéral.»
 
-> « La force dérogatoire du droit fédéral est violée lorsque des dispositions cantonales violent le sens et l'esprit du droit fédéral ou en compromettent le but. »
+**ATF 150 II 98** du 7 décembre 2023  
+La perception d'un impôt cantonal sur les mutations à l'occasion du changement de direction de fonds ne rend pas ce changement impossible et ne viole ni la loi sur l'infrastructure des marchés financiers ni le principe de la primauté du droit fédéral.
+La réglementation fédérale des placements collectifs de capitaux entre en conflit avec la souveraineté fiscale cantonale.
 
-**ATF 148 I 251** (8 mars 2022) — Compétence de l'autorité de protection de l'enfant
-Lors de l'examen de la conformité au droit fédéral des normes cantonales, l'art. 49 Cst. est central.
-La réglementation cantonale sur la compétence individuelle en matière de mesures provisoires de protection de l'enfant viole le droit fédéral, car le CC prescrit une décision collégiale.
+> «La perception de l'impôt sur les mutations ne rend pas le changement de direction de fonds impossible et ne viole ni l'art. 39 LIMF ni le principe de la primauté du droit fédéral.»
 
-> « Selon l'art. 49 al. 1 Cst., le droit fédéral prime le droit cantonal qui lui est contraire. Ce principe de la primauté du droit fédéral fait obstacle à l'adoption ou à l'application de règles cantonales qui éludent des prescriptions de droit fédéral ou qui en contredisent le sens ou l'esprit. »
+### Compétence fédérale et autonomie cantonale
 
-### Réglementations fédérales exhaustives
+**ATF 142 I 99** du 31 mars 2016
+En matière d'utilisation des eaux, il existe une compétence de principe de la Confédération avec une souveraineté simultanée des cantons sur les eaux.
+Les cantons sont habilités à utiliser eux-mêmes les eaux publiques ou à concéder le droit d'utilisation à des tiers par voie de concession.
+Aucune obligation de droit fédéral de mise au concours public avant l'octroi de concession.
 
-**ATF 141 V 455** (2 juillet 2015) — Carte d'assuré de l'assurance obligatoire des soins
-La remise de la carte d'assuré est réglée de manière exhaustive par le droit fédéral.
-Le principe de la primauté du droit fédéral est violé lorsque les assureurs-maladie invoquent le droit cantonal pour se soustraire à leur obligation de droit fédéral.
+> «La souveraineté sur les eaux constitue une régale cantonale, raison pour laquelle le pouvoir de disposition sur les eaux publiques est exclu du champ d'application de la liberté économique. L'octroi de concessions relève du pouvoir d'appréciation conforme aux devoirs de l'autorité concédante.»
 
-> « La remise de la carte d'assuré pour l'assurance obligatoire des soins est régie de manière exhaustive par le droit fédéral. Le principe de la primauté du droit fédéral est violé lorsque l'assureur-maladie refuse de délivrer la carte en invoquant le droit cantonal pour se soustraire à son obligation. »
+**ATF 139 I 242** du 7 juillet 2013
+L'art. 4 de la loi fédérale sur la protection contre le tabagisme passif permet aux cantons d'édicter des prescriptions plus strictes «pour la protection de la santé».
+Une interdiction cantonale de service dans les fumoirs séparés va au-delà de la réglementation minimale fédérale, mais elle est admissible.
 
-**ATF 138 I 356** (23 août 2012) — Honoraires supplémentaires médicaux et droit du travail
-La loi sur le travail règle de manière exhaustive l'indemnité pour heures supplémentaires.
-La réglementation cantonale sur l'imputation des pools d'honoraires sur les salaires pour heures supplémentaires viole la force dérogatoire du droit fédéral (art. 13 et 71 let. b LTr).
+> «La disposition cantonale constitue ainsi un durcissement par rapport à la réglementation fédérale, qui est toutefois couvert par l'art. 4 LPTab, lequel confère expressément aux cantons la compétence d'édicter 'des prescriptions plus strictes pour la protection de la santé'.»
 
-> « Les indemnités provenant des pools d'honoraires ne doivent pas être imputées sur le salaire pour les heures supplémentaires effectuées. La compréhension contraire viole les art. 13 et 71 let. b LTr et donc le principe de la force dérogatoire du droit fédéral. »
+### Force dérogatoire du droit fédéral
 
-### Réglementations minimales de la Confédération
+**ATF 127 I 60** de 2001
+La force dérogatoire du droit fédéral signifie qu'une réglementation cantonale ou communale relative à la prise en charge des coûts doit être compatible avec le droit fédéral.
+Le droit fédéral n'a pas besoin d'être exhaustif pour évincer les réglementations cantonales.
 
-**ATF 139 I 242** (7 juillet 2013) — Protection contre le tabagisme passif et durcissements cantonaux
-L'art. 4 de la loi sur la protection contre le tabagisme passif prévoit que les cantons peuvent édicter des prescriptions plus strictes pour la protection de la santé.
-La réglementation cantonale sur l'interdiction de servir dans les fumoirs dépasse la réglementation minimale de droit fédéral et ne viole pas l'art. 49 Cst.
+> «Le recourant fait grief d'une violation du principe de la force dérogatoire du droit fédéral. [...] Celui-ci ouvre aux autorités la possibilité de diriger le trafic au moyen de réglementations de la circulation et tient compte de la prise en charge des coûts qui y est liée.»
 
-> « L'art. 4 LPTab prévoit que les cantons peuvent édicter des prescriptions plus strictes 'pour la protection de la santé'. Le § 34 GGG/BS institue une interdiction de servir dans les fumoirs séparés et dépasse ainsi la réglementation minimale de droit fédéral. »
+**ATF 128 I 206** du 19 juin 2002
+L'obligation imposée à l'office des poursuites et des faillites de vendre globalement les appartements et d'obtenir une autorisation préalable contrevient au droit fédéral.
+La LP règle la réalisation forcée de manière exhaustive.
 
-**ATF 129 I 346** (2003) — Assurance soins infirmiers et contributions cantonales aux coûts
-Les coûts d'investissement dans les établissements médico-sociaux ne tombent pas sous la protection tarifaire de la LAMal.
-L'obligation cantonale des patients de contribuer aux investissements ne viole pas l'art. 49 Cst., car ce domaine n'est pas couvert par le droit fédéral.
+> «L'obligation imposée à l'office des poursuites et des faillites de vendre les appartements ensemble et de demander une autorisation préalable contrevient au droit fédéral, en particulier aux art. 140 ss LP.»
 
-> « Selon l'ordre juridique en vigueur, les coûts de séjour dans les établissements médico-sociaux, en particulier les coûts d'hébergement, ne tombent pas sous la législation de l'assurance obligatoire des soins et ne bénéficient d'aucune protection tarifaire. »
+### Surveillance constitutionnelle de la Confédération
 
-### Droit fiscal et redevances
+**ATF 148 II 369** du 15 mars 2022
+Le sens et le but du recours des autorités de la Confédération est d'assurer l'application uniforme et correcte du droit fédéral.
+Il s'agit d'un moyen de surveillance fédérale qui recourt au système cantonal de voies de droit.
 
-**ATF 127 II 1** (2000) — Exonération fiscale de la Poste
-Le grief d'une violation de l'art. 49 Cst. peut être invoqué depuis la nouvelle Constitution fédérale par le recours de droit administratif.
-L'impôt cantonal sur les mutations sur les immeubles de la Poste viole le droit fédéral, car la Poste est exonérée fiscalement par le droit fédéral.
+> «Le sens et le but du recours des autorités de la Confédération est d'assurer l'application uniforme et correcte du droit fédéral. Il s'agit d'un moyen de surveillance fédérale qui recourt à cette fin au système cantonal de voies de droit.»
 
-> « Le grief qu'une redevance cantonale n'est pas compatible avec le droit fédéral peut être invoqué depuis l'entrée en vigueur de la nouvelle Constitution fédérale par le recours de droit administratif. »
+**ATF 127 II 1** du 25 juin 2000
+Le grief qu'une redevance cantonale n'est pas compatible avec le droit fédéral peut être soulevé depuis la révision totale de la Constitution fédérale par le recours de droit public.
+L'exonération fiscale des institutions de droit fédéral prime le droit cantonal des redevances.
 
-**ATF 133 I 206** (1er juin 2007) — Barèmes fiscaux dégressifs
-La constitutionnalité des barèmes fiscaux cantonaux est également examinée sous l'angle de la primauté du droit fédéral.
-Les barèmes fiscaux dégressifs obwaldiens ne violent pas les dispositions fédérales d'harmonisation.
+> «Le grief qu'une redevance cantonale n'est pas compatible avec le droit fédéral peut être soulevé depuis la révision totale de la Constitution fédérale par le recours de droit public auprès du Tribunal fédéral.»
 
-### Répartition des compétences et droit procédural
+### Autonomie cantonale d'exécution
 
-**ATF 129 I 337** (2003) — Chemins pour piétons dans le plan d'utilisation
-La législation fédérale sur les chemins pour piétons et les chemins de randonnée pédestre traite les deux catégories de chemins ensemble.
-La définition cantonale des chemins pour piétons, qui inclut aussi les voies de liaison entre hameaux, n'est pas en contradiction avec le droit fédéral.
+**ATF 136 I 220** du 15 avril 2010
+Une réglementation cantonale selon laquelle les contributions de réduction de primes peuvent être compensées avec des dettes fiscales n'est pas compatible avec l'objectif de la LAMal et est donc contraire au droit fédéral.
 
-> « La législation fédérale distingue certes entre chemins pour piétons et chemins de randonnée pédestre, mais traite les deux ensemble et de la même manière. »
+> «Une réglementation cantonale selon laquelle les contributions de réduction de primes peuvent être compensées avec des dettes fiscales n'est pas compatible avec l'objectif de la LAMal et est donc contraire au droit fédéral.»
 
-**ATF 142 II 369** (18 juillet 2016) — Droit des marchés publics et caisses de pension
-La soumission au droit des marchés publics ne découle pas déjà des traités internationaux.
-Lors de l'examen de l'applicabilité du droit cantonal des marchés publics, il faut respecter la hiérarchie entre le droit des traités internationaux, le droit fédéral et le droit cantonal.
+**ATF 141 V 455** du 2 juillet 2015
+La remise de la carte d'assuré pour l'assurance-maladie obligatoire est réglée de manière exhaustive par le droit fédéral.
+Le principe de la primauté du droit fédéral est violé lorsque l'assureur-maladie se prévaut du droit cantonal pour se soustraire à son obligation de droit fédéral.
 
-### Mesures COVID-19
+> «Le principe de la primauté du droit fédéral est violé lorsque l'assureur-maladie se prévaut du droit cantonal pour se soustraire à son obligation d'établir la carte.»
 
-**ATF 148 I 19** (3 septembre 2021) — Limitation des manifestations à 300 personnes
-Les mesures cantonales COVID-19 doivent être compatibles avec le droit fédéral supérieur.
-La limitation des manifestations politiques à 300 personnes ne viole pas l'art. 49 Cst., car elle s'inscrit dans le cadre de l'habilitation de droit fédéral.
+### Contrôle abstrait des normes
 
-**ATF 148 I 33** (3 septembre 2021) — Limitation des manifestations à 15 personnes
-Même en cas d'atteintes graves aux droits fondamentaux, la compatibilité avec le droit fédéral doit être examinée.
-La limitation à 15 personnes constitue une atteinte grave, mais se situe encore dans le cadre de l'habilitation de droit fédéral.
+**ATF 142 I 16** de 2016 (version italienne)
+La protection des dénominations universitaires par le droit cantonal doit être conforme à la loi sur l'encouragement et la coordination des hautes écoles.
+L'art. 29 LEHE prévoit que les hautes écoles obtiennent avec l'accréditation institutionnelle le droit de porter la dénomination correspondante.
 
-### Application dans différents domaines juridiques
+**ATF 133 I 206** du 1er juin 2007
+La constitutionnalité des barèmes fiscaux cantonaux dégressifs doit être examinée.
+La légitimation pour contester les barèmes fiscaux par recours de droit public doit être donnée.
 
-**ATF 128 I 92** (2 novembre 2001) — Admission professionnelle psychothérapeutique
-L'exigence cantonale d'études de psychologie ne viole pas le principe de la primauté du droit fédéral.
-L'accord sur la libre circulation avec l'UE n'empêche pas les cantons d'exiger des qualifications supplémentaires pour l'admission professionnelle.
-
-**ATF 131 I 223** (10 décembre 2004) — Financement de procès et droit des avocats
-La loi sur les avocats ne règle pas de manière exhaustive tous les aspects des services juridiques.
-L'interdiction cantonale du financement de procès ne viole pas la liberté économique et l'accord sur la libre circulation.
-
-**ATF 136 I 220** (15 avril 2010) — Réduction de primes dans le droit de l'assurance-maladie
-Une réglementation cantonale sur la compensation de contributions de réduction de primes avec des dettes fiscales est contraire au droit fédéral.
-L'objectif de la LAMal n'est pas compatible avec une telle compensation.
-
-**ATF 146 I 70** (14 novembre 2019) — Construction de logements bon marché
-Les dispositions communales sur la construction de logements bon marché sont compatibles avec la primauté du droit fédéral.
-Elles n'empiètent pas sur des domaines réglés de manière exhaustive par le droit fédéral et ne violent pas la liberté économique.
-
-## Développements dans la jurisprudence récente
-
-La jurisprudence sur l'art. 49 Cst. montre une application constante du principe de primauté tout en reconnaissant des espaces de configuration cantonaux dans les domaines non réglés de manière exhaustive. Cela apparaît particulièrement clairement dans les décisions COVID-19, où le Tribunal fédéral a soigneusement examiné la compatibilité des mesures cantonales avec les bases d'habilitation de droit fédéral. Dans le domaine du droit des assurances sociales, la jurisprudence confirme le principe de la réglementation fédérale exhaustive, tandis que dans le domaine du droit cantonal d'organisation et de procédure, les cantons conservent une liberté de configuration considérable.
+> «Inadmissibilité de la limitation du contrôle au pur arbitraire lors de la charge fiscale des personnes physiques par des barèmes dégressifs.»

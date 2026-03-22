@@ -1,13 +1,13 @@
 ## Übersicht
 
-Art. 47 BV schützt die Eigenständigkeit der Kantone vor übermässigen Eingriffen des Bundes. Die Bestimmung verpflichtet den Bund, den Kantonen genügend eigene Aufgaben zu belassen und ihre Organisationsfreiheit zu respektieren. Zusätzlich müssen die Kantone über ausreichende Finanzierungsquellen verfügen, um ihre Aufgaben erfüllen zu können.
+Artikel 47 der Bundesverfassung schützt die Eigenständigkeit der Kantone vor zu starken Eingriffen des Bundes. Diese Norm ist das verfassungsrechtliche Herzstück des schweizerischen Föderalismus (Aufteilung der Macht zwischen Bund und Kantonen).
 
-Die kantonale Eigenständigkeit umfasst drei Bereiche: Erstens die Aufgabenautonomie — Kantone sollen eigene Zuständigkeiten behalten, nicht nur Bundesrecht vollziehen. Zweitens die Organisationsautonomie — jeder Kanton kann seine Behörden und Verwaltung selbst organisieren. Drittens die Finanzautonomie — Kantone brauchen eigene Steuerquellen und genügend Geld für ihre Aufgaben.
+Absatz 1 verpflichtet den Bund, die kantonale Eigenständigkeit zu wahren. Das bedeutet: Der Bund darf seine Kompetenzen nicht übermässig ausweiten und muss bei der Rechtsetzung auf kantonale Besonderheiten Rücksicht nehmen.
 
-Nach der BSK BV-Belser/Massüger, Art. 47 N. 11 hat Art. 47 BV programmatischen Charakter und dient als Auslegungsleitlinie. Die Bestimmung ist grundsätzlich nicht direkt vor Gericht einklagbar. Sie verpflichtet aber Bundesrat und Parlament, bei neuen Gesetzen die kantonale Eigenständigkeit zu berücksichtigen.
+Absatz 2 konkretisiert drei wichtige Bereiche: Erstens müssen die Kantone genügend eigene Aufgaben behalten können. Zweitens dürfen sie ihre interne Organisation selbst bestimmen (Organisationsautonomie). Drittens muss ihnen der Bund ausreichende Finanzierungsmöglichkeiten belassen und sie bei Bedarf unterstützen.
 
-Ein praktisches Beispiel zeigt **BGE 135 I 28**: Der Kanton Zug wollte alle Gemeinden zwingen, ihre Angestellten bei der kantonalen Pensionskasse zu versichern. Das Bundesgericht entschied, dies verletze die gemeindliche Organisationsautonomie. Jede Gemeinde darf selbst wählen, welche Pensionskasse sie für ihr Personal verwendet.
+Ein Beispiel aus der Praxis: Als der Bund während der COVID-19-Pandemie umfassende Massnahmen erliess, prüfte das Bundesgericht, ob genügend Raum für kantonale Lösungen blieb. Die Kantone konnten weiterhin ihre Organisationsstrukturen selbst bestimmen, mussten aber die bundesrechtlichen Vorgaben beachten.
 
-Bei der Terminologie ist umstritten, ob «Eigenständigkeit» und «Autonomie» dasselbe bedeuten. Hangartner (ZSR 2012 I 156) unterscheidet strikt zwischen beiden Begriffen. Die Mehrheit der Lehre verwendet sie jedoch synonym (Kägi-Diener, SG Komm. BV, Art. 47 N. 5).
+Die rechtlichen Folgen sind vielfältig: Artikel 47 BV dient als Auslegungshilfe für Gesetze und begrenzt die Bundeskompetenzen. Er begründet jedoch keinen direkten Anspruch der Kantone auf bestimmte Aufgaben oder Gelder. Vielmehr schreibt er vor, dass der Bund bei all seinen Tätigkeiten die föderalistische Struktur der Schweiz respektieren muss.
 
-Die Schutzpflicht des Bundes ist nicht absolut. Bundesrecht geht vor kantonalem Recht (Art. 49 BV). Wenn der Bund eine Kompetenz hat, kann er den Kantonen durchaus Vorgaben machen. Art. 47 BV verlangt aber, dass dies schonend geschieht und die Kantone nicht zu reinen Vollzugsbehörden degradiert werden.
+Diese Bestimmung betrifft alle Ebenen: den Bund bei der Gesetzgebung, die Kantone bei der Umsetzung und die Gerichte bei der Auslegung von Kompetenzkonflikten.

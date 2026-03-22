@@ -1,75 +1,49 @@
-# Art. 43 Cost.
+# Art. 43 Cost. - Giurisprudenza
 
-## Giurisprudenza
+## Principi della determinazione cantonale dei compiti
 
-### Delimitazione delle competenze tra Confederazione e Cantoni
+**BGE 128 I 254** del 14 agosto 2002  
+Il Tribunale federale stabilisce che i Cantoni sono fondamentalmente liberi nell'organizzazione delle loro competenze (autonomia organizzativa). Questa autonomia può tuttavia essere limitata dal diritto federale quando un'autorità cantonale unitaria è necessaria per garantire l'uguaglianza di diritto.
 
-**DTF 122 I 70** del 22 febbraio 1996  
-Restrizioni al decollo e all'atterraggio con deltaplani mediante diritto cantonale.  
-Conferma di principio della competenza residua cantonale in settori non regolati in modo definitivo dalla Confederazione.  
+> «L'art. 25 cpv. 1 LPT statuisce il principio dell'autonomia organizzativa dei Cantoni. Questo principio è limitato nel cpv. 2 in quanto viene prescritta la competenza di un'autorità cantonale: mentre i Cantoni sono solitamente liberi di delegare i loro compiti ai Comuni, l'art. 25 cpv. 2 LPT [...] richiede, nell'interesse di un'applicazione del diritto unitaria e uguale per tutto il Cantone, che tutte le domande per progetti edilizi fuori zona edificabile siano trattate da un'autorità cantonale.»
 
-> «I Cantoni sono sovrani per quanto la loro sovranità non sia limitata dalla Costituzione federale (art. 3 Cost.). Essi hanno una competenza legislativa originaria, che è soppressa solo nella misura in cui la Confederazione sia competente in via esclusiva, con effetto originariamente derogatorio, oppure in un settore in cui essa sia competente in via concorrente, con effetto successivamente derogatorio, e abbia effettivamente e completamente regolato la materia in questione.»
+**BGE 141 II 262** del 9 luglio 2015  
+Le organizzazioni intercantonali possono sviluppare proprie competenze nell'adempimento di compiti cantonali. I Cantoni determinano attraverso la loro partecipazione a convenzioni intercantonali come adempiere i loro compiti.
 
-**DTF 125 II 152** del 23 febbraio 1999  
-Delimitazione delle competenze federali e cantonali nell'autorizzazione degli apparecchi automatici da gioco con vincita in denaro.  
-Chiarimento dei limiti della competenza cantonale in caso di interventi del diritto federale.  
+> «La Comlot come autorità di approvazione è autorizzata, basandosi su un'interpretazione teleologica-temporale del diritto federale e intercantonale (CIVL), a condurre una procedura di sottomissione o qualificazione in relazione alle lotterie maggiori e a concretizzare nel caso singolo il divieto generale e astratto di lotterie.»
 
-> «Il Consiglio federale, emanando l'ordinanza federale sugli apparecchi automatici da gioco con vincita in denaro, non è intervenuto nella competenza cantonale. I Cantoni non hanno diritto al proseguimento della prassi finora seguita per l'omologazione degli apparecchi automatici da gioco d'abilità, che si rivela contraria al diritto federale.»
+## Delimitazione tra Confederazione e Cantoni
 
-**DTF 141 II 262** del 9 luglio 2015  
-Competenza della Commissione intercantonale delle lotterie e delle scommesse per lo svolgimento di procedure di qualificazione.  
-Conferma della collaborazione intercantonale quale forma ammissibile di adempimento di compiti cantonali.  
+**BGE 117 Ia 202** del 29 maggio 1991  
+In caso di conflitti di competenza tra Confederazione e Cantoni occorre esaminare a quale livello statale spetti il compito dal punto di vista costituzionale. L'art. 43 Cost. trova applicazione solo nella misura in cui un compito rientra nella competenza cantonale.
 
-> «I Cantoni possono in linea di principio adempiere i loro compiti nella forma organizzativa da essi scelta, purché rispettino le prescrizioni costituzionali. Ciò include anche la delega di compiti a enti intercantonali.»
+> «Oggetto del procedimento del ricorso di diritto pubblico è unicamente la questione della delimitazione delle competenze tra Confederazione e Cantone riguardo all'accesso agli atti della protezione dello Stato della Confederazione.»
 
-### Parità di trattamento dei cittadini cantonali
+**BGE 122 I 70** del 22 febbraio 1996  
+I Cantoni rimangono competenti per i settori che la Confederazione non ha disciplinato in modo esaustivo. La competenza residua cantonale secondo l'art. 3 Cost. si concretizza attraverso l'art. 43 Cost. nella determinazione dei compiti.
 
-**DTF 122 I 209** del 1996  
-Occupazione temporanea di disoccupati - Disparità di trattamento tra cittadini cantonali e non cantonali.  
-Applicazione di principio del divieto di discriminazione alle misure cantonali.  
+> «L'art. 37ter Cost. conferisce alla Confederazione una competenza comprensiva, ma non esclusiva nel settore dell'aviazione. I Cantoni rimangono competenti per questioni giuridiche che la Confederazione non ha disciplinato in modo esaustivo.»
 
-> «Il precetto di parità di trattamento di tutti i cittadini svizzeri stabilito dall'art. 43 cpv. 4 Cost. vale anche per le misure adottate dai Cantoni per combattere gli effetti della crisi.»
+## Giurisprudenza storica relativa all'art. 43 vCost. (Diritti politici)
 
-**DTF 99 Ia 630** del 24 ottobre 1973  
-Assistenza agli anziani cantonale con tempi di carenza più lunghi per i non cittadini cantonali.  
-Incostituzionalità del trattamento differenziato tra cittadini cantonali e non cantonali.  
+**BGE 122 I 209** del 30 settembre 1996  
+Sotto la vecchia Costituzione federale del 1874, l'art. 43 vCost. disciplinava i diritti politici degli attinenti. Questa disposizione richiedeva una parità di trattamento di tutti i cittadini svizzeri nelle misure cantonali.
 
-> «La legge basilese sull'assistenza cantonale agli anziani viola gli art. 43 cpv. 4 e 60 Cost. nella misura in cui prevede per i non cittadini cantonali tempi di carenza più lunghi che per i cittadini cantonali.»
+> «Il convient d'examiner la constitutionnalité, au regard de l'art. 43 al. 4 Cst., du délai imposé aux Confédérés par l'art. 23 let. b de la loi cantonale. [...] Le principe de l'égalité de traitement consacré en faveur de tous les Confédérés par l'art. 43 Cst. s'appliquait aux mesures que les cantons prenaient pour combattre les effets de la crise.»
 
-### Organizzazione dell'autonomia comunale
+**BGE 89 I 448** dell'inizio del 1963  
+I Cantoni possono determinare liberamente le loro forme organizzative entro i limiti costituzionali. I Comuni come enti subordinati devono attenersi alle forme organizzative prescritte dal Cantone.
 
-**DTF 89 I 448** del 1963  
-Introduzione del referendum finanziario facoltativo in un Comune bernese.  
-Conferma della libertà cantonale di configurazione nell'organizzazione comunale.  
+> «Nei ricorsi per votazioni secondo l'art. 85 lett. a OG il Tribunale federale esamina liberamente non solo l'interpretazione del diritto federale e del diritto costituzionale cantonale, ma anche quella di altre prescrizioni cantonali nella misura in cui normano più precisamente il diritto di voto secondo contenuto e portata.»
 
-> «I Cantoni determinano in linea di principio liberamente l'organizzazione dei loro Comuni e possono prevedere diversi modelli di partecipazione democratica diretta, purché rispettino gli standard costituzionali minimi.»
+## Conflitti di competenza intercantonali
 
-### Sovranità fiscale e principi di imposizione
+**BGE 129 I 419** del 27 ottobre 2003  
+In caso di conflitti di competenza negativi tra Cantoni, il Tribunale federale decide sulla competenza delle autorità statali. I Cantoni non possono determinare unilateralmente che altri Cantoni sono competenti per determinati compiti.
 
-**DTF 133 I 206** del 1º giugno 2007  
-Costituzionalità delle tariffe fiscali degressive di Obvaldo.  
-Limiti dell'autonomia fiscale cantonale attraverso principi costituzionali superiori.  
+> «Nel caso di un conflitto di competenza negativo, l'autorità tutoria del domicilio del bambino è competente per le misure di protezione del minore, senza che occorra esaminare se non sia da preferire l'autorità tutoria della dimora abituale a causa del principio del bene del bambino.»
 
-> «L'autonomia tariffaria dei Cantoni non significa che questi siano completamente liberi nella configurazione delle loro tariffe fiscali. Devono piuttosto rispettare le prescrizioni costituzionali, in particolare il principio di uguaglianza giuridica e il principio della capacità contributiva.»
+**BGE 129 V 485** del 20 agosto 2003  
+Le autorità cantonali possono trasferire le loro competenze a enti subordinati mediante delega formale. Ciò deve tuttavia avvenire in modo giuridicamente corretto e non deve compromettere il controllo.
 
-### Regolamentazione economica cantonale
-
-**DTF 138 I 378** del 3 luglio 2012  
-Ammissibilità di un'attività imprenditoriale dello Stato - Assicurazione cantonale cose di Glarona.  
-Esame della compatibilità dell'attività economica statale con la libertà economica.  
-
-> «I Cantoni sono in linea di principio autorizzati a gestire proprie imprese o a partecipare a tali imprese, ma devono rispettare i diritti fondamentali, in particolare la libertà economica dei concorrenti.»
-
-**DTF 128 I 102** del 30 gennaio 2002  
-Costituzionalità di una tassa per patente degli esercizi pubblici del Cantone Soletta.  
-Conferma della sovranità tributaria cantonale nel quadro della costituzionalità.  
-
-> «I Cantoni sono autorizzati, nell'ambito delle loro competenze, a riscuotere tributi causali e tributi d'orientamento, purché si basino su una base legale sufficiente e siano proporzionati.»
-
-### Collaborazione intercomunale e intercantonale
-
-**DTF 140 I 176** del 2014  
-Qualificazione giuridica e ammissibilità di un tributo sulle abitazioni secondarie non gestite.  
-Riconoscimento di approcci specifici di risoluzione di problemi comunali nel quadro dell'autorizzazione cantonale.  
-
-> «I Comuni possono, nell'ambito delle competenze loro conferite dal diritto cantonale, sviluppare approcci autonomi per la risoluzione di problemi locali, purché siano compatibili con il diritto superiore.»
+> «La delega di competenza di singoli compiti dell'ufficio cantonale ai Centri regionali di collocamento (CRC) [...] necessita di un atto formale sottostante alle prescrizioni di pubblicazione del Cantone.»

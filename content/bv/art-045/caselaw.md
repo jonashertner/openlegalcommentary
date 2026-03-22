@@ -1,68 +1,75 @@
-# Art. 45 BV
+# Art. 45 BV — Rechtsprechung
 
-## Rechtsprechung
+## Vorbemerkung
 
-### Grundlagen der Mitwirkung in der Rechtsprechung
+Zur direkten Anwendung von Art. 45 BV liegt bisher nur spärliche bundesgerichtliche Rechtsprechung vor. Die Bestimmung wird in der Regel nicht als selbständiger Beschwerdegrund geltend gemacht, sondern ihre Grundsätze fliessen in die Beurteilung konkreter Verfahrensrechte ein. Die nachfolgende Darstellung erfasst daher auch Entscheide zu verwandten Themenbereichen der kantonalen Mitwirkung und Information.
 
-Das Bundesgericht hat die Mitwirkungsrechte der Kantone gemäss Art. 45 BV in verschiedenen Bereichen konkretisiert, wobei der Schwerpunkt auf der raumplanerischen Koordination und der bundesstaatlichen Zusammenarbeit liegt.
+## I. Kantonale Mitwirkung bei Bundesaufgaben
 
-**BGE 133 II 120** (11. Mai 2007)
+### Grundsätze der Zusammenarbeit
 
-Mitwirkung des Kantons Thurgau im SIL-Koordinationsprozess für den Flughafen Zürich. Das Bundesgericht konkretisierte die Anforderungen an die Zusammenarbeit zwischen Bund und Kantonen bei Sachplanverfahren.
+**BGE 133 II 120 E. 2.2** vom 11. Mai 2007  
+Grundsatz der bundesstaatlichen Zusammenarbeit bei raumwirksamen Aufgaben  
+Das Bundesgericht hielt zur Mitwirkung der Kantone bei der Erstellung von Bundessachplänen fest, dass Art. 13 Abs. 2 RPG den verfassungsrechtlichen Grundsatz der Zusammenarbeit konkretisiere.
 
-> «Nach Art. 13 Abs. 2 RPG arbeitet der Bund bei der Erstellung von Grundlagen für die Erfüllung seiner raumwirksamen Aufgaben mit den Kantonen zusammen und gibt diesen seine Konzepte, Sachpläne und Bauvorhaben rechtzeitig bzw. möglichst frühzeitig bekannt. Die Sachpläne des Bundes werden zwar sowohl in enger Zusammenarbeit mit den Kantonen und Gemeinden wie auch unter Mitwirkung der Bevölkerung erstellt, doch mündet diese Mitwirkung nicht in ein Rechtsmittelverfahren.»
+> «Nach Art. 13 Abs. 2 RPG arbeitet der Bund bei der Erstellung von Grundlagen für die Erfüllung seiner raumwirksamen Aufgaben mit den Kantonen zusammen und gibt diesen seine Konzepte, Sachpläne und Bauvorhaben rechtzeitig bzw. möglichst frühzeitig bekannt.»
 
-**BGE 137 II 58** (22. Dezember 2010)
+**BGE 147 I 433 E. 4.1** vom 4. Februar 2021  
+Mitwirkung der Gemeinden im Richtplanverfahren  
+Das Bundesgericht betonte die verfassungsrechtliche Verankerung der Mitwirkungsrechte bei behördlichen Planungsverfahren und deren Bedeutung für die demokratische Legitimation.
 
-Koordination zwischen Bundes- und kantonalen Verfahren beim Flughafen Zürich. Das Bundesgericht betonte die Bedeutung einer frühzeitigen Information der Kantone bei bundesstaatlich relevanten Vorhaben.
+> «Die Mitwirkung der Gemeinden und weiterer Betroffener in Richtplanverfahren ist nicht nur gesetzlich vorgeschrieben, sondern entspricht auch dem verfassungsrechtlichen Gebot der demokratischen Willensbildung.»
 
-### Bundesstaatliche Loyalität und Kooperationspflicht
+### Abgrenzung von Bundes- und Kantonskompetenzen
 
-**BGE 118 Ia 195** (1992)
+**BGE 143 I 272 E. 2.2** vom 3. April 2017  
+Vorrang der Bundesverfassung gegenüber kantonalem Recht  
+Das Bundesgericht stellte im Zusammenhang mit der kantonalen Schulorganisation fest, dass die Kantone ihre Kompetenzen nur im Rahmen der bundesverfassungsrechtlichen Vorgaben ausüben können.
 
-Grundsatzentscheid zur bundesstaatlichen Treue (Bundestreue) im föderalen System. Das Bundesgericht stellte fest, dass der Grundsatz der Bundestreue auch die Kantone zur Rücksichtnahme auf andere Gliedstaaten verpflichtet.
+> «Die Kantone sind in der Ausübung ihrer Kompetenzen an die Bundesverfassung gebunden. Art. 49 BV verpflichtet sie zur Einhaltung des Bundesrechts.»
 
-> «Die Tragweite der Gewährleistung des Gebiets und der Souveränität der Kantone gemäss Art. 5 BV und nach dem Grundsatz der Bundestreue erstreckt sich auf die Verpflichtung der Kantone zur gegenseitigen Rücksichtnahme und zur Wahrung der bundesstaatlichen Solidarität.»
+## II. Information und Vernehmlassungsverfahren
 
-### Information und Stellungnahme bei Bundesverfahren
+### Informationspflichten des Bundes
 
-**BGE 122 II 201** (1996)
+**BGE 145 I 1 E. 6.2** vom 29. Oktober 2018  
+Kantonale Interventionen in Abstimmungskämpfen  
+Das Bundesgericht anerkannte das Recht der Kantone, bei besonderen Betroffenheiten in eidgenössische Abstimmungskämpfe einzugreifen, betonte aber deren Pflicht zur Sachlichkeit.
 
-Verteilung von vorläufig aufgenommenen Ausländern auf die Kantone. Das Bundesgericht konkretisierte die Informations- und Anhörungspflicht des Bundes gegenüber den Kantonen bei Entscheiden, die deren Interessen betreffen.
+> «Betrifft der Ausgang einer eidgenössischen Volksabstimmung mehrere oder alle Kantone namhaft, dürfen sich die Kantonsregierungen im Vorfeld der Abstimmung dazu öffentlich äussern und eine Abstimmungsempfehlung abgeben. Allerdings müssen sich die kantonalen Interventionen diesfalls an den Kriterien der Sachlichkeit, der Verhältnismässigkeit sowie der Transparenz messen lassen.»
 
-> «Das Bundesamt für Flüchtlinge hat über allfällige Gesuche, in einen anderen Kanton zu ziehen, nach Anhörung der betroffenen Kantone zu entscheiden.»
+### Vernehmlassungsverfahren
 
-### Kooperation in der Raumplanung
+Zur konkreten Ausgestaltung von Vernehmlassungsverfahren nach Art. 45 Abs. 2 BV liegt keine spezifische bundesgerichtliche Rechtsprechung vor. Die Praxis richtet sich nach dem Vernehmlassungsgesetz (VlG) und dessen Verordnung.
 
-**BGE 147 I 433** (4. Februar 2021)
+## III. Grenzen der Mitwirkungsrechte
 
-Mitwirkung der Gemeinden und Zweckverbände im Richtplanungsverfahren. Das Bundesgericht präzisierte die Reichweite der Mitwirkungsrechte bei planerischen Verfahren und bestätigte die Bedeutung einer rechtzeitigen Information.
+### Formelle versus materielle Mitwirkung
 
-> «Die Kantone weisen die Standorte von Deponien in ihren Richtplänen aus. Die Festlegung erfolgt unter Mitwirkung der betroffenen Gemeinden und Organisationen.»
+**BGE 133 II 120 E. 3.1** vom 11. Mai 2007  
+Unterscheidung zwischen Anhörung und Rechtsmittelverfahren  
+Das Bundesgericht stellte klar, dass Mitwirkungsverfahren nicht automatisch in beschwerdefähige Verfahren münden.
 
-### Staatshaftungsrechtliche Aspekte
+> «Das Anhörungsverfahren bei Erlass eines Sachplans des Bundes mündet nicht in ein Rechtsmittelverfahren.»
 
-**BVGE 2008/6** (17. Januar 2008)
+### Weiter Ermessensspielraum der Bundesbehörden
 
-Zusammenarbeit Bund-Kantone im Bereich der Staatshaftung. Das Bundesverwaltungsgericht behandelte Fragen der Verantwortlichkeit bei mangelhafter Koordination zwischen Bund und Kantonen.
+**BGE 133 II 120 E. 3** vom 11. Mai 2007  
+Spielraum bei der Anwendung von Mitwirkungsbestimmungen  
+Das Bundesgericht räumte den Behörden einen weiten Spielraum bei der konkreten Ausgestaltung von Mitwirkungsverfahren ein.
 
-### Verfahrensrechtliche Konkretisierung
+> «Weiter Spielraum der Behörden bei Anwendung von Art. 4 Abs. 2 RPG. Die allgemeine Mitwirkung im Sinne dieser Bestimmung stelle eine institutionelle Einflussmöglichkeit dar und bewirke keine rechtliche Bindung für die Beteiligten, sondern lediglich eine politische Einflussnahme.»
 
-**BGE 150 II 273** (21. Dezember 2023)
+## IV. Aktuelle Entwicklungen
 
-Öffentlich-rechtliche Streitigkeit zwischen einem Kanton und dem Bund betreffend Pauschalabgeltungen im Asylbereich. Das Bundesgericht bekräftigte die Bedeutung transparenter Verfahren in der Bund-Kantone-Zusammenarbeit.
+### Datenschutz und Öffentlichkeitsgesetz
 
-### Neuere Entwicklungen
+Neuere Entscheide der Datenschutz- und Öffentlichkeitsbeauftragten zeigen, dass Art. 45 BV auch im Kontext des Öffentlichkeitsprinzips relevant wird, wenn es um den Schutz der Beziehungen zwischen Bund und Kantonen geht. Diese Praxis ist jedoch noch wenig gefestigt.
 
-Die Rechtsprechung zeigt eine kontinuierliche Weiterentwicklung der Mitwirkungsrechte der Kantone. Besonders hervorzuheben ist die Tendenz des Bundesgerichts, die Information und Konsultation der Kantone nicht nur als formale Pflicht, sondern als materielles Element der föderalen Willensbildung zu verstehen. Die Gerichte fordern zunehmend eine «echte» Mitwirkung, die über die blosse Kenntnisnahme hinausgeht und den Kantonen effektive Einflussmöglichkeiten einräumt.
+### Mitwirkung bei EU-rechtlichen Fragen
 
-### Anwendungsbereiche in der Praxis
+Die Rechtsprechung zur kantonalen Mitwirkung bei europarechtlichen Fragen entwickelt sich laufend weiter, wobei Art. 45 BV als verfassungsrechtliche Grundlage dient. Konkrete Leitentscheide stehen jedoch noch aus.
 
-Die Rechtsprechung hat Art. 45 BV insbesondere in folgenden Bereichen konkretisiert:
+## Fazit
 
-1. **Raumplanung und Infrastrukturprojekte**: Sachpläne des Bundes, Koordinationsprozesse bei Flughäfen und anderen Infrastrukturen
-2. **Asyl- und Migrationswesen**: Verteilung von Asylsuchenden und vorläufig aufgenommenen Personen
-3. **Umwelt- und Energiepolitik**: Deponiestandorte, Entsorgungskonzepte
-4. **Finanzausgleich**: Pauschalabgeltungen und Kostenverteilung zwischen Bund und Kantonen
-
-Die Gerichte betonen dabei stets, dass die Mitwirkung der Kantone nicht nur ein verfassungsmässiges Recht, sondern eine wesentliche Komponente des schweizerischen Föderalismus darstellt.
+Art. 45 BV wird in der Rechtsprechung primär als Grundsatzbestimmung verstanden, die durch spezialgesetzliche Regelungen konkretisiert wird. Die direkte verfassungsgerichtliche Durchsetzung der Mitwirkungsrechte ist selten, da diese meist auf Verordnungsebene oder durch politische Prozesse verwirklicht werden.
