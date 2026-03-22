@@ -36,12 +36,22 @@ interface StructureEntry {
 }
 
 let structure: StructureEntry[] = [];
+let structureI18n: Record<string, string> = {};
 try {
   const structPath = path.resolve('..', 'scripts', 'law_structures.json');
   const structData = JSON.parse(fs.readFileSync(structPath, 'utf-8'));
   structure = structData[lawInfo.abbr] || [];
 } catch {
   // No structure data available — show flat list
+}
+if (lang !== 'de') {
+  try {
+    const i18nPath = path.resolve('..', 'scripts', 'law_structures_i18n.json');
+    const i18nData = JSON.parse(fs.readFileSync(i18nPath, 'utf-8'));
+    structureI18n = i18nData[lawInfo.abbr]?.[lang] || {};
+  } catch {
+    // No i18n data available — keep German names
+  }
 }
 
 // Build a map: article number → structural headings that appear before it
@@ -134,7 +144,7 @@ if (structure.length > 0) {
               return (
                 <li class={cls}>
                   <span class="toc-heading-label">{translatedLabel}</span>
-                  <span class="toc-heading-name">{h.name}</span>
+                  <span class="toc-heading-name">{structureI18n[h.name] || h.name}</span>
                 </li>
               );
             })}
