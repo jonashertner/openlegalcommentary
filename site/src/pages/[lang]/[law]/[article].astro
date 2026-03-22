@@ -76,6 +76,12 @@ const metaDescription = firstSentence || `${t('footer.commentary', lang)}: ${art
 ---
 
 <Base title={`${articleDisplay} — ${translatedTitle}`} lang={lang} pagePath={`/${lawParam}/${articleSlug}`} description={metaDescription}>
+  <meta name="citation_title" content={`${articleDisplay} — ${translatedTitle}`} />
+  <meta name="citation_author" content="Open Legal Commentary" />
+  <meta name="citation_publication_date" content={lastUpdated || ''} />
+  <meta name="citation_journal_title" content="Open Legal Commentary" />
+  <meta name="citation_language" content={lang} />
+  <meta name="citation_fulltext_html_url" content={`https://openlegalcommentary.ch${langBase(lang)}/${lawParam}/${articleSlug}`} />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "ScholarlyArticle",
