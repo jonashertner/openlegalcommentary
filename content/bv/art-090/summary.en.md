@@ -1,0 +1,7 @@
+# Summary
+
+Art. 90 BV grants the Confederation exclusive competence for all legislation in the field of nuclear energy. This encompasses all aspects of the peaceful use of nuclear energy: research, construction, operation and decommissioning of nuclear power plants, handling of radioactive substances, transport and disposal (Kern, BSK BV, Art. 90 N. 4). The cantons may not enact their own legislation in this area.
+
+The Confederation has exercised this competence through the Nuclear Energy Act (KEG). Anyone wishing to operate a nuclear power plant requires an operating licence from the Confederation (Art. 19 KEG). The Federal Supreme Court decided that such licences may only be limited in time for safety reasons, not for political motives (**BGE 139 II 185** E. 5.2). An important controversy concerns the constitutionality of a complete nuclear phase-out: The Federal Office of Justice considers a safety-motivated phase-out to be constitutionally permissible, while other legal scholars dispute this (Müller, ZBl 2013, 666).
+
+Practical example: If a company wishes to build a new nuclear power plant, it must apply to the Confederation for a general licence, a construction licence and finally an operating licence. Cantonal or municipal construction permits are not required, as federal law displaces these (Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, p. 234). The electorate can launch a referendum against the general licence (Art. 48 para. 4 KEG).
