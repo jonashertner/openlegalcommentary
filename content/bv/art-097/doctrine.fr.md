@@ -1,0 +1,27 @@
+# Art. 97 Cst. — Protection des consommateurs
+
+## Doctrine
+
+**N. 1** **Historique**
+
+L'art. 97 Cst. se fonde sur l'article précédent 31sexies de l'ancienne Constitution fédérale (aCst.), qui fut inséré en 1981 par votation populaire (FF 1981 II 745). L'insertion de la protection des consommateurs dans la Constitution constitue une réaction à la complexité croissante des marchés de biens de consommation et au déséquilibre structurel d'informations entre fournisseurs et consommateurs (Favre-Bulle, AJP 1993, 265). Lors de la révision totale de 1999, la disposition fut reprise pour l'essentiel sans modification de contenu comme art. 97 dans la nouvelle Constitution fédérale, mais systématiquement attribuée aux dispositions économiques (FF 1997 I 317).
+
+**N. 2** **Classement systématique**
+
+L'art. 97 Cst. se trouve au 3e chapitre (Régime économique) du 3e titre (Confédération, cantons et communes) de la Constitution fédérale. La disposition entretient un rapport systématique étroit avec → l'art. 95 al. 1 Cst. (activité économique privée) et → l'art. 96 al. 2 let. a Cst. (politique de la concurrence). Ce classement souligne que la protection des consommateurs est comprise comme partie intégrante de l'ordre économique suisse, et non comme son antipode (Uhlmann, BSK BV, art. 97 n. 3). La norme complète les obligations de protection découlant des droits fondamentaux de l'État (→ art. 35 Cst.) dans le contexte spécifique des relations de consommation et concrétise les buts sociaux (↔ art. 41 Cst.) dans le domaine de l'économie de marché.
+
+**N. 3** **Éléments constitutifs / Contenu de la norme**
+
+L'art. 97 Cst. contient trois domaines de réglementation distincts. L'alinéa 1 statue une obligation générale de protection de la Confédération en faveur des consommatrices et consommateurs. Le terme « consommateur » englobe les personnes physiques et morales qui acquièrent des biens ou services à des fins privées, par opposition à l'usage commercial ou professionnel (Uhlmann, BSK BV, art. 97 n. 3-5). Les « mesures » peuvent être de nature législative, administrative ou informative. L'alinéa 2 oblige la Confédération à introduire des droits d'action pour les organisations de consommateurs, qui doivent être mises sur un pied d'égalité avec les associations professionnelles et économiques dans le domaine de la LCD. L'alinéa 3 transfère aux cantons l'obligation de prévoir des procédures à bas seuil pour les litiges en dessous d'une valeur litigieuse fixée par le Conseil fédéral.
+
+**N. 4** **Conséquences juridiques**
+
+La disposition fonde principalement une compétence et une obligation législative de la Confédération. L'alinéa 1 n'entraîne pas d'applicabilité immédiate ni un droit subjectif à certaines mesures de protection ; le Tribunal fédéral a explicitement refusé un droit fondamental à la consommation (Uhlmann, BSK BV, art. 97 n. 7). Le législateur dispose d'une marge d'appréciation considérable dans l'aménagement des mesures de protection. Les droits d'action selon l'alinéa 2 doivent cependant être aménagés de manière effective ; la question de savoir si une efficacité minimale est garantie sur le plan constitutionnel demeure controversée (voir n. 5). L'obligation cantonale selon l'alinéa 3 a été concrétisée par les art. 243 ss CPC, le Conseil fédéral ayant fixé la valeur litigieuse à CHF 30'000.
+
+**N. 5** **Points controversés**
+
+La doctrine discute de manière controversée la question de savoir si l'art. 97 al. 2 Cst. garantit une efficacité minimale du droit d'action des associations. Uhlmann défend la position selon laquelle, au moins à la lumière de l'art. 97 al. 1 et → de l'art. 170 Cst., le législateur fédéral devrait corriger une insuffisance flagrante du droit d'action des associations (Uhlmann, BSK BV, art. 97 n. 12-15). Le législateur n'a toutefois pas pris en compte ces considérations de droit constitutionnel lors de la révision de l'art. 10 LCD (FF 2009 6151). Il existe également un désaccord sur la portée de la notion de consommateur : alors que la doctrine dominante inclut les personnes morales, pour autant qu'elles agissent comme consommateurs finaux (SG Komm. BV-Hettich, art. 97 n. 4), une minorité plaide pour une limitation aux personnes physiques (Koller-Tumler, Grundlagen des Konsumentenschutzes, 15 f.).
+
+**N. 6** **Indications pratiques**
+
+Dans l'application de l'art. 97 Cst., il faut noter que la norme constitutionnelle ne fonde elle-même aucun droit subjectif immédiat. Elle déploie une pertinence pratique principalement comme aide à l'interprétation lors de l'interprétation des dispositions de protection des consommateurs du droit fédéral ordinaire. Les tribunaux tiennent régulièrement compte du mandat de protection constitutionnel lors de l'interprétation de clauses générales dans la LCD, la LCC ou lors de l'appréciation de CGA (cf. **ATF 139 III 201** consid. 2). Pour les organisations de consommateurs, l'art. 97 al. 2 Cst. revêt une importance centrale, car il constitue la base constitutionnelle de leurs compétences d'action. Pour les ordres de procédure cantonaux, il faut examiner s'ils satisfont aux exigences de l'art. 97 al. 3 Cst. ; le simple renvoi à la procédure civile ordinaire ne suffit pas (Huguenin, SJZ 1995, 420).
