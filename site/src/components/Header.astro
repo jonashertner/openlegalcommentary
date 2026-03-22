@@ -128,6 +128,8 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     gap: var(--space-1);
     padding: 0;
     margin: 0;
+    /* Reset for Astro scoped styles */
+    visibility: visible;
   }
 
   .nav-list a {
@@ -243,7 +245,25 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   @media (max-width: 640px) {
     .logo-title { display: none; }
 
-    .nav-toggle { display: flex; }
+    .nav-toggle {
+      display: flex;
+      position: relative;
+      z-index: 102;
+      min-height: 44px;
+      min-width: 44px;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(1) {
+      transform: translateY(6.5px) rotate(45deg);
+    }
+    .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(2) {
+      opacity: 0;
+    }
+    .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(3) {
+      transform: translateY(-6.5px) rotate(-45deg);
+    }
 
     .search-trigger kbd { display: none; }
 
@@ -251,30 +271,62 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 
     .nav-lang-item {
       display: block;
-      padding: var(--space-2) var(--space-2) var(--space-1);
-      border-top: 1px solid var(--color-border);
+      padding: var(--space-3) var(--space-3) var(--space-2);
+      border-top: 1px solid var(--color-border-light);
       margin-top: var(--space-1);
     }
 
     .nav-list {
-      display: none;
-      position: absolute;
+      position: fixed;
       top: 60px;
       left: 0;
       right: 0;
+      height: calc(100vh - 60px);
+      height: calc(100dvh - 60px);
       background: var(--color-bg);
-      border-bottom: 1px solid var(--color-border);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
       flex-direction: column;
-      padding: var(--space-2);
+      padding: var(--space-4) var(--space-4);
       gap: 0;
+      z-index: 101;
+      overflow-y: auto;
+      pointer-events: none;
+      opacity: 0;
+      transform: translateY(-8px);
+      transition: opacity 0.25s var(--ease-out), transform 0.25s var(--ease-out);
     }
 
-    .nav-list.open { display: flex; }
+    .nav-list.open {
+      pointer-events: auto;
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .nav-list > li:not(.nav-lang-item) {
+      border-bottom: 1px solid var(--color-border-light);
+    }
 
     .nav-list a {
       display: block;
-      padding: var(--space-1) var(--space-2);
-      border-radius: var(--radius-md);
+      padding: var(--space-2) var(--space-2);
+      border-radius: 0;
+      font-size: var(--text-md);
+      font-weight: 500;
+      min-height: 48px;
+      display: flex;
+      align-items: center;
+    }
+
+    .nav-list a.active {
+      color: var(--color-accent);
+      background: none;
+      font-weight: 600;
+    }
+
+    .nav-list a:hover {
+      background: none;
+      color: var(--color-accent);
     }
   }
 </style>
@@ -295,10 +347,23 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     const navToggle = document.querySelector('.nav-toggle');
     const navMenu = document.getElementById('nav-menu');
     if (navToggle && navMenu) {
+      function closeMenu() {
+        navToggle.setAttribute('aria-expanded', 'false');
+        navMenu.classList.remove('open');
+        document.body.style.overflow = '';
+      }
+      function openMenu() {
+        navToggle.setAttribute('aria-expanded', 'true');
+        navMenu.classList.add('open');
+        document.body.style.overflow = 'hidden';
+      }
       navToggle.addEventListener('click', () => {
         const expanded = navToggle.getAttribute('aria-expanded') === 'true';
-        navToggle.setAttribute('aria-expanded', String(!expanded));
-        navMenu.classList.toggle('open');
+        expanded ? closeMenu() : openMenu();
+      });
+      // Close on nav link click
+      navMenu.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', closeMenu);
       });
     }
 
