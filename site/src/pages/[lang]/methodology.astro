@@ -157,6 +157,40 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
 </ul>`
       },
       {
+        heading: 'Technical Architecture of the Quality Gate',
+        body: `<p>The quality assurance system is implemented as a <strong>multi-agent pipeline where the generator and evaluator are strictly separated</strong>. The evaluator has no access to the generator's internal state, prompts, or reasoning. This architectural separation prevents self-confirming quality assessments.</p>
+
+<h3>Generator Agent</h3>
+<p>For each layer, a specialized law agent receives:</p>
+<ul>
+  <li><strong>System prompt:</strong> Global authoring guidelines + law-specific guidelines (key commentaries, cross-reference patterns, special procedural notes for each law)</li>
+  <li><strong>Article text:</strong> The full statutory text from Fedlex, injected directly into the prompt</li>
+  <li><strong>BSK/CR reference data:</strong> Structured extracts from the Basler Kommentar identifying authors, Randziffern, doctrinal positions, controversies, cross-references, and key literature for the specific article</li>
+  <li><strong>Tool access:</strong> <code>find_leading_cases</code>, <code>search_decisions</code>, <code>get_case_brief</code>, <code>get_decision</code> (full text), <code>write_layer_content</code> — all via the opencaselaw MCP server</li>
+</ul>
+<p>The agent autonomously researches case law, reads full decision texts, and writes the commentary in a tool-use loop with up to 25 turns per layer.</p>
+
+<h3>Evaluator Agent</h3>
+<p>A separate evaluator agent receives the generated text and independently verifies it:</p>
+<ul>
+  <li><strong>Read-only tools:</strong> Can verify content against primary sources but cannot modify it</li>
+  <li><strong>BSK/CR cross-check:</strong> Verifies that cited BSK/CR authors and Randziffern actually appear in the reference data. Fabricated citations are rejected.</li>
+  <li><strong>Completeness check:</strong> Queries opencaselaw for all leading cases (BGE) on the article and verifies that every one appears in the case law layer</li>
+</ul>
+<p>The evaluator returns structured JSON: binary non-negotiable results, scored dimensions (0.0–1.0 each), blocking issues, and improvement suggestions. On rejection, the full feedback is passed back to the generator for the next attempt.</p>
+
+<h3>BSK/CR Reference Integration</h3>
+<p>A two-pass extraction pipeline grounds the commentary in established scholarship:</p>
+<ol>
+  <li><strong>Pass 1 — PDF extraction:</strong> PyMuPDF extracts raw text from BSK PDF volumes. Articles are identified by regex-based header splitting. For the Federal Constitution, individual per-article PDFs are processed.</li>
+  <li><strong>Pass 2 — AI-assisted structuring:</strong> Claude Sonnet processes the raw text in overlapping chunks and extracts structured data: authors with edition years, Randziffern maps, named doctrinal positions, identified controversies, cross-references, and key literature.</li>
+</ol>
+<p>This grounds the AI commentary in actual scholarly sources rather than generating citations from training data.</p>
+
+<h3>Cost Tracking and Resumability</h3>
+<p>Every API call is tracked with token-level cost estimation (~$2.50 per article for 3 layers + evaluation + translation to 3 languages). The pipeline supports budget limits and crash-safe resumability — state is persisted after each article completion.</p>`
+      },
+      {
         heading: 'Open Source & License',
         body: `<p>The complete source code is available on <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a> (MIT license). All commentary content is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. The full dataset is available on <a href="https://huggingface.co/datasets/openlegalcommentary/swiss-law-commentary" target="_blank" rel="noopener">HuggingFace</a>.</p>`
       }

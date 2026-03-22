@@ -5,7 +5,7 @@ import { langBase, langHome } from '@/lib/base';
 import Base from '../../../layouts/Base.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
 import { LAWS, getLawByAbbr } from '../../../lib/laws';
-import { listArticles, getLawStats } from '../../../lib/content';
+import { listArticles, getLawStats, getTranslatedTitle } from '../../../lib/content';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -130,9 +130,10 @@ if (structure.length > 0) {
           <>
             {headings.map((h) => {
               const cls = `toc-heading toc-heading-${h.type}`;
+              const translatedLabel = h.label.replace(/Titel/, t('law.titel', lang)).replace(/Kapitel/, t('law.kapitel', lang)).replace(/Abschnitt/, t('law.abschnitt', lang));
               return (
                 <li class={cls}>
-                  <span class="toc-heading-label">{h.label}</span>
+                  <span class="toc-heading-label">{translatedLabel}</span>
                   <span class="toc-heading-name">{h.name}</span>
                 </li>
               );
@@ -140,8 +141,8 @@ if (structure.length > 0) {
             <li class:list={['toc-item', { 'has-content': hasContent }]}>
               <a href={`${langBase(lang)}/${lawParam}/${art.slug}`}>
                 <span class="toc-num font-mono">Art.&nbsp;{displayNum}</span>
-                <span class="toc-title">{art.meta.title}</span>
-                {hasContent && <span class="toc-badge" title="Kommentiert">&#9679;</span>}
+                <span class="toc-title">{getTranslatedTitle(lawInfo.abbr, `${art.meta.article}${suffix}`, lang, art.meta.title)}</span>
+                {hasContent && <span class="toc-badge" title={t('law.commented', lang)}>&#9679;</span>}
               </a>
             </li>
           </>
