@@ -2,89 +2,86 @@
 
 ## 1. Genèse
 
-**N. 1** L'art. 75a Cst. a été nouvellement introduit dans le cadre de la Constitution fédérale mise à jour du 18 avril 1999. Cette disposition rassemble en un seul article les bases constitutionnelles du système de mensuration qui étaient auparavant dispersées (Hoffmann/Griffel, BSK BV, art. 75a n. 1).
+**N. 1** L'art. 75a Cst. a été créé dans le cadre de la révision totale de la Constitution fédérale de 1999. Cette disposition rassemble en un seul article les bases constitutionnelles auparavant dispersées pour la mensuration nationale et la mensuration officielle (FF 1997 I 1, 282).
 
-**N. 2** Le message relatif à une nouvelle constitution fédérale du 20 novembre 1996 désigne l'art. 75a comme une « nouvelle disposition », dérivée de la compétence non écrite de la Confédération dans le domaine de la mensuration nationale ainsi que de l'art. 38 disp. trans. CC (FF 1997 I 1, 260). La mensuration officielle était auparavant réglée par l'art. 950 CC et les dispositions finales du CC.
+**N. 2** La révision constitutionnelle du 3 octobre 2003 (en vigueur depuis le 1er janvier 2008) a complété l'art. 75a Cst. par un alinéa 3, qui confère à la Confédération une compétence d'harmonisation des informations officielles concernant le territoire et les immeubles. Cette adjonction a eu lieu dans le cadre de la création de la loi fédérale sur la géoinformation (LGéo), qui a posé les bases juridiques d'un système moderne de géoinformation (FF 2006 7817, 7825 ss).
 
-**N. 3** La compétence d'harmonisation à l'al. 3 n'a été insérée que lors des délibérations parlementaires. Le Conseil des États a complété le projet initial par cette disposition afin de tenir compte des développements technologiques dans le domaine de la géoinformation (Hoffmann/Griffel, BSK BV, art. 75a n. 1). Le message relatif à la loi sur la géoinformation du 6 septembre 2006 souligne que le constituant a ouvert la voie à une harmonisation complète des géodonnées avec l'art. 75a al. 3 Cst. (FF 2006 7817, 7818).
+**N. 3** La création de la compétence d'harmonisation (al. 3) a été marquée par des discussions sur sa portée. Le législateur voulait créer une base juridique uniforme pour la saisie, la gestion et l'utilisation des géodonnées, sans toutefois limiter excessivement les compétences cantonales (FF 2006 7817, 7832).
 
-## 2. Classement systématique
+## 2. Classification systématique
 
-**N. 4** L'art. 75a Cst. est systématiquement classé dans le 3e titre (Confédération, cantons et communes), 3e chapitre (Répartition des tâches entre la Confédération et les cantons), 1re section (Tâches de la Confédération). Cette disposition fait partie des normes de compétence qui attribuent des tâches spécifiques à la Confédération (Hoffmann/Griffel, BSK BV, art. 75a n. 4).
+**N. 4** L'art. 75a Cst. est systématiquement classé dans la section 4 « Environnement et aménagement du territoire », ce qui souligne son importance pour l'organisation spatiale (Hoffmann/Griffel, BSK BV, Art. 75a N. 4). La norme se situe entre les compétences d'aménagement du territoire (art. 75 Cst.) et les compétences de protection de l'environnement (art. 74 Cst.), ce qui illustre sa fonction transversale.
 
-**N. 5** La norme est étroitement liée à :
-- → Art. 122 Cst. (droit civil), car le régime du registre foncier et la mensuration officielle sont ancrés dans le droit civil à l'art. 950 CC
-- → Art. 45 al. 2 Cst. (collaboration entre la Confédération et les cantons), car l'exécution de la mensuration officielle est une tâche des cantons
-- ↔ Art. 38 ss disp. trans. CC, qui contiennent les dispositions transitoires relatives à la mensuration officielle
+**N. 5** Cette disposition présente des liens étroits avec les normes constitutionnelles suivantes :
+- → Art. 122 Cst. (droit civil) : Le régime du registre foncier repose sur la mensuration officielle
+- → Art. 45 al. 2 Cst. (collaboration) : Les cantons sont tenus de collaborer à l'harmonisation
+- → Art. 49 Cst. (primauté du droit fédéral) : Les prescriptions fédérales d'harmonisation priment le droit cantonal
+- ↔ Art. 3 Cst. (fédéralisme) : L'exécution de la mensuration demeure du ressort des cantons
 
-**N. 6** Dans le contexte du droit de la géoinformation, l'art. 75a Cst. forme la base constitutionnelle de la loi fédérale sur la géoinformation (LGéo) et de l'ordonnance sur la mensuration officielle (OMO) qui s'appuie sur celle-ci.
+**N. 6** Au niveau législatif, les actes suivants concrétisent l'art. 75a Cst. :
+- Loi fédérale sur la géoinformation (LGéo, RS 510.62)
+- Ordonnance sur la mensuration officielle (OMO, RS 211.432.2)
+- Ordonnance sur la mensuration nationale (OMN, RS 510.626)
 
-## 3. Éléments constitutifs / Contenu de la norme
+## 3. Éléments constitutifs / Contenu normatif
 
-### a) Mensuration nationale (al. 1)
+### 3.1 Mensuration nationale (al. 1)
 
-**N. 7** La mensuration nationale comprend les bases géodésiques de la Suisse, notamment le système de référence, les réseaux de points fixes et les levés topographiques (Hoffmann/Griffel, BSK BV, art. 75a n. 5). Elle crée les conditions techniques préalables pour tous les autres travaux de mensuration et relève de la Confédération.
+**N. 7** La mensuration nationale comprend les bases géodésiques pour la détermination de position sur l'ensemble du territoire suisse. Elle crée le système de référence uniforme pour toutes les données à référence spatiale (Hoffmann/Griffel, BSK BV, Art. 75a N. 5 ; Huser, Vermessungsrecht, 34 ss).
 
-**N. 8** Selon les art. 4 ss LGéo, font partie de la mensuration nationale :
-- La définition et la mise à jour des systèmes de référence géodésiques
-- L'établissement et la mise à jour des cartes nationales
-- La tenue du modèle topographique du paysage
-- L'établissement de photographies aériennes et de modèles numériques de terrain
+**N. 8** Le terme « mensuration nationale » comprend :
+- Les réseaux de points fixes pour la position et l'altitude
+- Les services de positionnement par satellite (GNSS)
+- Les cartes gravimétriques et modèles de géoïde
+- Les levés cartographiques nationaux
 
-### b) Mensuration officielle (al. 2)
+### 3.2 Mensuration officielle (al. 2)
 
-**N. 9** La mensuration officielle sert à garantir la propriété foncière et constitue la base du registre foncier (art. 950 CC). Elle comprend le levé parcellaire des immeubles avec leurs limites, bâtiments et couvertures durables du sol (Hoffmann/Griffel, BSK BV, art. 75a n. 8).
+**N. 9** La mensuration officielle (mensuration du registre foncier) documente les rapports effectifs et juridiques des immeubles. Elle constitue la base technique du registre foncier selon l'art. 950 CC (Hoffmann/Griffel, BSK BV, Art. 75a N. 8).
 
-**N. 10** La Confédération réglemente la mensuration officielle par la LGéo (art. 29-33) et l'OMO. L'exécution incombe toutefois aux cantons (art. 34 al. 1 let. a LGéo), qui délèguent généralement cette tâche à des ingénieurs-géomètres brevetés (art. 41 al. 1 LGéo).
+**N. 10** Contenu de la mensuration officielle :
+- Les limites des immeubles et leur bornage
+- La couverture du sol (bâtiments, routes, eaux)
+- Les objets isolés (murs, escaliers, canalisations souterraines)
+- La nomenclature (noms de lieux, de lieux-dits et de rues)
+- Les divisions administratives
 
-**N. 11** La mensuration officielle a un caractère de droit public. Ses résultats sont constatés par décision souveraine, ce qui la distingue des constatations de limites de droit privé (cf. arrêt 1C_375/2025 du 12 novembre 2025).
+### 3.3 Harmonisation de la géoinformation (al. 3)
 
-### c) Harmonisation de la géoinformation (al. 3)
+**N. 11** La compétence d'harmonisation selon l'al. 3 habilite la Confédération à édicter des prescriptions sur l'« harmonisation des informations officielles concernant le territoire et les immeubles ».
 
-**N. 12** La compétence d'harmonisation habilite la Confédération à édicter des prescriptions sur l'harmonisation des informations officielles concernant le sol et le territoire. Cette compétence fait l'objet de controverses doctrinales (Hoffmann/Griffel, BSK BV, art. 75a n. 13).
+**N. 12** Le terme « informations officielles concernant le territoire et les immeubles » doit être compris largement et englobe toutes les données à référence spatiale qui sont collectées ou gérées par les autorités (Huser, AJP 2010, 147).
 
-**N. 13** Selon Lendi, il s'agit d'une compétence fédérale complète avec un effet dérogatoire a posteriori. Il souligne que le constituant n'a en tout cas pas visé une simple compétence de législation de principe (Lendi, cité dans Hoffmann/Griffel, BSK BV, art. 75a n. 20).
+## 4. Effets juridiques
 
-**N. 14** En revanche, Biaggini défend une interprétation plus restrictive et qualifie l'art. 75a al. 3 de compétence législative limitée quant à l'objet (Biaggini, cité dans Hoffmann/Griffel, BSK BV, art. 75a n. 6).
+**N. 13** L'art. 75a Cst. fait naître les compétences constitutionnelles suivantes :
 
-**N. 15** Ruch adopte une position médiane et souligne que la Confédération est en tout cas tenue de légiférer lorsque la reproduction correcte des rapports de fait et de droit dans les cadastres officiels ne peut être obtenue que par des standards qualitatifs et techniques communs (Ruch, cité dans Hoffmann/Griffel, BSK BV, art. 75a n. 18).
+**N. 14** **Compétence fédérale complète** pour la mensuration nationale (al. 1) : La Confédération peut régler entièrement la mensuration nationale et l'exécuter elle-même. Les cantons n'ont aucune compétence propre dans ce domaine.
 
-## 4. Conséquences juridiques
+**N. 15** **Compétence partagée** pour la mensuration officielle (al. 2) : La Confédération édicte les prescriptions (art. 22-26 LGéo), les cantons exécutent la mensuration (art. 34 al. 2 LGéo). Cette répartition des tâches est prédéterminée par la Constitution.
 
-**N. 16** L'art. 75a Cst. entraîne les compétences et obligations suivantes :
+**N. 16** **Compétence d'harmonisation** (al. 3) : La Confédération peut prescrire des standards uniformes pour les géodonnées. La portée de cette compétence est controversée (voir N. 17-19).
 
-**N. 17** La Confédération a la compétence exclusive pour la mensuration nationale (al. 1). Celle-ci comprend aussi bien la législation que l'exécution. Les cantons n'ont aucune compétence propre dans ce domaine.
+## 5. Points litigieux
 
-**N. 18** Dans le domaine de la mensuration officielle (al. 2), la Confédération dispose d'une compétence législative complète. La compétence d'exécution appartient toutefois aux cantons, qui agissent comme « autorités de haute surveillance » (art. 34 al. 1 let. d LGéo).
+**N. 17** La **portée de la compétence d'harmonisation** selon l'art. 75a al. 3 Cst. est controversée dans la doctrine :
 
-**N. 19** La compétence d'harmonisation (al. 3) permet à la Confédération de fixer des standards techniques et qualitatifs pour les géoinformations. Ceci comprend selon les art. 22 ss LGéo :
-- Les modèles de géométadonnées
-- Les modèles de représentation
-- Les formats d'échange
-- Les exigences de qualité
+**N. 18** **Lendi** (BSK BV, Art. 75a N. 20) défend une interprétation extensive : Il déduit de l'art. 75a al. 3 une compétence fédérale complète avec effet dérogatoire ultérieur. Selon sa conception, le constituant n'a expressément pas voulu créer une simple compétence de législation de principe.
 
-**N. 20** Les cantons sont tenus, lors de la mise en œuvre des prescriptions du droit fédéral, au principe de légalité (→ art. 5 Cst.) et à la primauté du droit fédéral (→ art. 49 Cst.). Ils peuvent édicter des réglementations complémentaires dans la mesure où le droit fédéral laisse de la place.
+**N. 19** **Biaggini** (BSK BV, Art. 75a N. 6) adopte une position plus restrictive : Il qualifie l'art. 75a al. 3 de compétence législative limitée dans son objet, qui ne va pas au-delà de l'harmonisation des standards techniques.
 
-## 5. Points controversés
+**N. 20** **Ruch** (BSK BV, Art. 75a N. 18) fait la médiation entre les deux positions : Il souligne que la Confédération est en tout cas tenue de légiférer lorsque la reproduction correcte des rapports effectifs et juridiques dans les cadastres officiels ne peut être atteinte que par des standards qualitatifs et techniques communs.
 
-**N. 21** La portée de la compétence d'harmonisation selon l'al. 3 est controversée en doctrine :
-
-**N. 22** **Compétence fédérale complète (Lendi)** : Cette position interprète l'art. 75a al. 3 comme une habilitation étendue de la Confédération à harmoniser toutes les données géoréférencées. L'effet dérogatoire a posteriori signifie que le droit fédéral supplante le droit cantonal qui lui fait obstacle.
-
-**N. 23** **Compétence limitée (Biaggini)** : Cette conception limite la compétence fédérale à l'harmonisation technique, sans interventions matérielles dans les compétences cantonales. La Confédération ne peut dès lors fixer que des standards et formats, mais pas des prescriptions de contenu.
-
-**N. 24** **Interprétation fonctionnelle (Ruch)** : Cette position médiane fait dépendre la portée de la compétence fédérale du besoin d'harmonisation fonctionnelle. Là où des standards communs sont indispensables pour le fonctionnement du système, il existe même une obligation législative de la Confédération.
-
-**N. 25** La pratique s'est largement ralliée à l'interprétation fonctionnelle. La LGéo contient aussi bien des standards techniques que des prescriptions matérielles, dans la mesure où celles-ci sont nécessaires à l'interopérabilité des systèmes (Huser, Schweizerisches Vermessungsrecht, 3e éd. 2014, p. 143 ss).
+**N. 21** L'**obligation législative de la Confédération** est jugée différemment : Tandis que Ruch admet une obligation d'harmonisation en cas de besoin de standards communs, d'autres auteurs ne voient qu'une prescription facultative (Kettiger, Jusletter 2008, marg. 15).
 
 ## 6. Indications pratiques
 
-**N. 26** L'attribution de mandats de mise à jour pour la mensuration officielle ne relève pas des marchés publics au sens du droit des soumissions, mais de l'octroi de concessions. Le Tribunal cantonal de Bâle-Campagne l'a précisé (arrêt 810 16 4 du 9 mars 2016). Les principes d'égalité de traitement et de transparence s'appliquent néanmoins.
+**N. 22** Lors de l'**attribution de travaux de mise à jour**, les cantons doivent respecter le droit des marchés publics. Le Tribunal administratif de Berne a confirmé à plusieurs reprises que les travaux de géomètre de mise à jour sont soumis au droit des marchés publics (VGE BE 100.2024.34U du 31.10.2024).
 
-**N. 27** Les décisions dans le domaine de la mensuration officielle sont soumises au droit de procédure publique. La voie de droit se détermine selon les ordonnances de procédure cantonales, le recours en matière de droit public au Tribunal fédéral étant possible (art. 82 let. a LTF).
+**N. 23** La **répartition des coûts** entre la Confédération, les cantons et les propriétaires fonciers se règle selon les art. 38 ss OMO. Lors de premières mensurations, les propriétaires fonciers supportent régulièrement une partie des coûts (art. 42 al. 3 OMO).
 
-**N. 28** L'indépendance professionnelle des ingénieurs-géomètres doit être comprise de manière moins formaliste après la révision de l'art. 44 OMO. L'indépendance technique face aux instructions est déterminante, non la position en droit des sociétés (cf. arrêt du Tribunal administratif de Berne 100.2024.34 du 31 octobre 2024).
+**N. 24** **Protection des données et principe de publicité** : Les géodonnées de la mensuration officielle sont en principe accessibles au public (art. 11 LGéo). Les données personnelles sont toutefois soumises à la protection des données (Kettiger/Oesch, Auswirkungen, 45 ss).
 
-**N. 29** En cas de contestations de limites, il faut distinguer entre la constatation souveraine dans le cadre de la mensuration officielle et les rectifications de limites de droit privé. S'il n'y a pas d'erreur de la mensuration officielle, le juge civil est compétent (→ art. 669 CC).
+**N. 25** **Collaboration intercantonale** : Pour les projets intercantonnaux, l'harmonisation est obligatoire. Les cantons ont conclu des concordats correspondants ou utilisent les mécanismes de la LGéo (art. 31 LGéo).
 
-**N. 30** Le cadastre des restrictions de droit public à la propriété foncière (cadastre RDPPF) selon les art. 16 ss LGéo constitue une extension importante de la mensuration traditionnelle. Il documente non seulement les rapports géométriques, mais aussi les restrictions légales de la propriété foncière (Kettiger, ZBGR 2010, 137 ss).
+**N. 26** **Rapport au registre foncier** : La mensuration officielle constitue la base technique du registre foncier. Les contradictions entre mensuration et registre foncier doivent être clarifiées dans la procédure d'épurement selon l'art. 40 OMO (Huser, ZBGR 2002, 78).

@@ -1,67 +1,63 @@
-## Doktrin
+# Doktrin
 
-### 1. Entstehungsgeschichte
+## 1. Entstehungsgeschichte
 
-**N. 1** Die Raumplanungskompetenz des Bundes beruht auf einer langen Entwicklung. Bereits 1933 forderte Armin Meili eine systematische Landesplanung, die das Gebiet der Schweiz in Landwirtschafts-, Industrie- und Wohnzonen einteilt (Griffel, BSK BV, Art. 75 N. 1). Diese frühe Vision erkannte die Notwendigkeit einer überregionalen Koordination der Bodennutzung.
+**N. 1** Die Idee einer bundesstaatlichen Raumplanung reicht weit zurück. Bereits 1933 forderte Armin Meili eine systematische Landesplanung, die das Gebiet der Schweiz in Landwirtschafts-, Industrie- und Wohnzonen einteilt (Griffel, BSK BV, Art. 75 N. 1). Diese frühe Vision einer geordneten Raumnutzung sollte die wirtschaftliche Entwicklung mit dem Schutz des Bodens verbinden.
 
-**N. 2** Der entscheidende Impuls kam 1964 vom Berner Staatsrechtler Hans Huber. In einem wegweisenden Rechtsgutachten legte er dar, dass es für eine bundesrechtliche Landwirtschaftszone einer zusätzlichen Verfassungsgrundlage bedurfte (Griffel, BSK BV, Art. 75 N. 3). Diese Erkenntnis führte zur Einleitung des Verfassungsgebungsprozesses.
+**N. 2** Der Weg zur heutigen Verfassungsgrundlage war lang. 1964 legte der Berner Staatsrechtler Hans Huber in einem wegweisenden Rechtsgutachten dar, dass es für eine bundesrechtliche Landwirtschaftszone einer zusätzlichen Verfassungsgrundlage bedurfte (Griffel, BSK BV, Art. 75 N. 3). Diese Erkenntnis bildete einen wichtigen Grundstein für die spätere Verfassungsrevision.
 
-**N. 3** Die Verfassungsgrundlage wurde am 14. September 1969 mit überwältigendem Mehr von 88,9% der Stimmen und sämtlichen Ständen angenommen (BBl 1967 II 140 ff.). Die Botschaft des Bundesrates betonte die Dringlichkeit einer geordneten Raumplanung angesichts der raschen wirtschaftlichen Entwicklung und des Bevölkerungswachstums der Nachkriegszeit. Der Verfassungsgeber wollte bewusst eine Grundsatzkompetenz des Bundes schaffen, die Ausführung aber bei den Kantonen belassen.
+**N. 3** Die Verfassungsgrundlage für die Raumplanung wurde schliesslich am 14. September 1969 vom Volk und allen Ständen angenommen (BBl 1967 I 134; BBl 1969 II 1261). Der neue Art. 22quater aBV verankerte die Grundsatzgesetzgebungskompetenz des Bundes bei gleichzeitiger Wahrung der kantonalen Planungshoheit. Die Botschaft betonte die Notwendigkeit einer koordinierten Raumordnung angesichts der zunehmenden Zersiedelung und des steigenden Bodenbedarfs (BBl 1967 I 142).
 
-**N. 4** Das Ausführungsrecht folgte mit dem Raumplanungsgesetz vom 22. Juni 1979 (RPG), das am 1. Januar 1980 in Kraft trat. Die erste Totalrevision scheiterte 2009 in der parlamentarischen Beratung. Die Teilrevision vom 15. Juni 2012 (RPG 1) brachte wesentliche Verschärfungen bei der Bauzonendimensionierung (Griffel, BSK BV, Art. 75 N. 5-16).
+**N. 4** Bei der Totalrevision der Bundesverfassung wurde Art. 22quater aBV praktisch unverändert in Art. 75 BV überführt. Die redaktionellen Anpassungen betrafen primär die Terminologie: Statt «geordneter Besiedlung» spricht die neue Fassung von «geordneter Besiedlung des Landes» (BBl 1997 I 336). Die materielle Kompetenzordnung blieb unverändert.
 
-### 2. Systematische Einordnung
+## 2. Systematische Einordnung
 
-**N. 5** Art. 75 BV bildet das Herzstück der verfassungsrechtlichen Raumordnung. Die Norm steht im 2. Kapitel «Zuständigkeiten» des 3. Titels «Bund, Kantone und Gemeinden» und begründet eine Verbundaufgabe von Bund und Kantonen. Im Kontext der Nachhaltigkeitsverfassung (→ Art. 2 Abs. 2 und Art. 73 BV) kommt der Raumplanung eine Schlüsselrolle zu.
+**N. 5** Art. 75 BV ist im 3. Abschnitt («Umwelt und Raumplanung») des 4. Kapitels platziert. Diese systematische Stellung unterstreicht den engen Zusammenhang zwischen Raumplanung und Umweltschutz. Die Nachbarschaft zu Art. 73 BV (Nachhaltigkeit) und Art. 74 BV (Umweltschutz) ist programmatisch: Raumplanung ist ein Instrument nachhaltiger Entwicklung.
 
-**N. 6** Die systematischen Bezüge sind vielfältig: Der Umweltschutz (→ Art. 74 BV) steht in engem funktionellem Zusammenhang, da Raumplanung präventiven Umweltschutz ermöglicht. Die Eigentumsgarantie (→ Art. 26 BV) wird durch raumplanerische Massnahmen regelmässig tangiert. Mit der Gemeindeautonomie (→ Art. 50 BV) bestehen Spannungen, da die Raumplanung überörtliche Koordination verlangt.
+**N. 6** Die Norm etabliert eine verfassungsrechtliche Kompetenzordnung mit drei Elementen: Grundsatzgesetzgebung des Bundes (Abs. 1), Koordinationspflicht (Abs. 2) und allgemeine Berücksichtigungspflicht (Abs. 3). Diese Dreiteilung spiegelt das föderalistische Gleichgewicht zwischen bundesrechtlicher Rahmenordnung und kantonaler Ausführungshoheit wider.
 
-**N. 7** Die 2012 eingefügte Zweitwohnungsbestimmung (→ Art. 75b BV) konkretisiert die Raumplanungsziele für einen spezifischen Bereich. Sie zeigt exemplarisch, wie der Verfassungsgeber bei dringlichen raumplanerischen Problemen direkt eingreifen kann.
+**N. 7** Im Verhältnis zu anderen Verfassungsbestimmungen fungiert Art. 75 BV als Brückennorm. Die Verbindungen sind vielfältig: → Art. 2 Abs. 2 BV (nachhaltige Entwicklung als Staatsziel), → Art. 26 BV (Eigentumsgarantie als Schranke der Planung), ↔ Art. 73 BV (Nachhaltigkeit), ↔ Art. 74 BV (Umweltschutz), → Art. 108 BV (Wohnbau- und Wohneigentumsförderung).
 
-### 3. Tatbestandsmerkmale / Norminhalt
+## 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 8** **Grundsätze der Raumplanung (Abs. 1 Satz 1):** Der Bund legt nur die Grundsätze fest, nicht die Details. Diese Grundsatzkompetenz umfasst Ziele, Planungspflichten, Mindestinhalte der Pläne und Verfahrensgrundsätze (Waldmann/Hänni, Handkommentar RPG, Vorbem. N. 18). Die Kantone verfügen über erheblichen Gestaltungsspielraum bei der Umsetzung.
+### 3.1 Grundsatzgesetzgebungskompetenz (Abs. 1)
 
-**N. 9** **Kantonale Zuständigkeit (Abs. 1 Satz 2):** Die Formulierung «obliegt den Kantonen» begründet eine primäre Vollzugszuständigkeit der Kantone. Diese umfasst die Richt- und Nutzungsplanung sowie den Vollzug im Einzelfall. Die Kantone können Aufgaben an Gemeinden delegieren, bleiben aber verantwortlich für die Koordination (Tschannen, Der Richtplan, S. 45 ff.).
+**N. 8** Der Begriff «Grundsätze» begrenzt die Bundeskompetenzen. Nach der Lehre handelt es sich um eine eingeschränkte Bundeskompetenz, die nur die Festlegung von Rahmenvorschriften erlaubt (Griffel, BSK BV, Art. 75 N. 25-28; Waldmann/Hänni, Handkommentar RPG, Vorbem. N. 15). Der Bund darf nicht die gesamte Materie regeln, sondern muss den Kantonen substanziellen Gestaltungsspielraum belassen.
 
-**N. 10** **Zweckmässige und haushälterische Nutzung des Bodens:** Diese Doppelformel bildet das materielle Kernstück. «Haushälterisch» meint sparsam und effizient, verlangt also Verdichtung und Begrenzung der Siedlungsfläche. «Zweckmässig» zielt auf die funktional richtige Zuordnung der Nutzungen (Ruch/Griffel, Raumplanungsrecht in der Krise, S. 23).
+**N. 9** Die «zweckmässige und haushälterische Nutzung des Bodens» konstituiert das zentrale Planungsziel. Zweckmässigkeit verlangt eine funktional sinnvolle Raumnutzung, die verschiedene Bedürfnisse koordiniert. Haushälterisch bedeutet sparsam und nachhaltig — der Boden als nicht vermehrbare Ressource muss optimal genutzt werden (Ruch/Griffel, Raumplanungsrecht in der Krise, S. 23).
 
-**N. 11** **Geordnete Besiedlung:** Dieser Begriff umfasst sowohl die räumliche Ordnung (Trennung von Bau- und Nichtbaugebiet, funktionale Gliederung) als auch die zeitliche Steuerung der Siedlungsentwicklung. Er verlangt eine aktive Lenkung, nicht bloss passive Verwaltung (Flückiger, Le régime juridique des plans, S. 156).
+**N. 10** Die «geordnete Besiedlung des Landes» zielt auf eine planmässige Siedlungsentwicklung. Kern ist der Trennungsgrundsatz zwischen Baugebiet und Nichtbaugebiet, wie ihn das Bundesgericht in ständiger Rechtsprechung betont (**BGE 147 II 309** E. 4.2; **BGE 145 I 156** E. 3.1). Dieser Grundsatz hat Verfassungsrang und bindet alle Planungsträger.
 
-**N. 12** **Förderung und Koordination (Abs. 2):** Der Bund hat eine aktive Unterstützungsrolle. Dies umfasst finanzielle Beiträge, Modellvorhaben, Grundlagenarbeiten und die Bereitstellung von Planungsinstrumenten. Die Koordination erfolgt primär über den Sachplan (Art. 13 RPG).
+### 3.2 Förderungs- und Koordinationspflicht (Abs. 2)
 
-**N. 13** **Berücksichtigungspflicht (Abs. 3):** Diese Querschnittsklausel verpflichtet alle staatlichen Ebenen, bei sämtlichen raumwirksamen Tätigkeiten die Raumplanung zu beachten. Dies gilt für Strassenbau, Gewässerschutz, Energieanlagen etc. Die Norm hat programmatischen Charakter, begründet aber eine justiziabl Pflicht zur Interessenabwägung (Griffel, BSK BV, Art. 75 N. 37).
+**N. 11** Die Förderungspflicht verpflichtet den Bund zur aktiven Unterstützung kantonaler Planungsbestrebungen. Instrumente sind nach der Doktrin insbesondere Finanzhilfen, Modellvorhaben und fachliche Beratung (Griffel, BSK BV, Art. 75 N. 35-36). Die ARE (Bundesamt für Raumentwicklung) nimmt diese Aufgabe operativ wahr.
 
-### 4. Rechtsfolgen
+**N. 12** Die Koordinationspflicht geht weiter: Der Bund muss die kantonalen Planungen aufeinander abstimmen. Dies geschieht primär durch die Genehmigung kantonaler Richtpläne nach Art. 11 RPG. Das Bundesgericht hat diese Koordinationsfunktion wiederholt als zentral bezeichnet (**BGE 137 II 58** E. 2.3).
 
-**N. 14** **Gesetzgebungspflicht:** Art. 75 BV verpflichtet den Bund zum Erlass von Grundsatzvorschriften. Diese Pflicht wurde mit dem RPG erfüllt. Eine Untätigkeit wäre verfassungswidrig. Die Kantone sind verpflichtet, Ausführungsrecht zu erlassen und Pläne zu erstellen.
+### 3.3 Berücksichtigungspflicht (Abs. 3)
 
-**N. 15** **Keine unmittelbaren subjektiven Rechte:** Art. 75 BV begründet keine individuellen Ansprüche. Bürgerinnen und Bürger können nicht direkt gestützt auf Art. 75 BV eine bestimmte Planung verlangen. Die Konkretisierung erfolgt über das RPG und kantonales Recht (BGE 142 I 177 E. 4.1).
+**N. 13** Abs. 3 statuiert eine allgemeine Berücksichtigungspflicht für alle staatlichen Aufgabenträger. Nach herrschender Lehre handelt es sich um eine Optimierungspflicht: Raumplanerische Erfordernisse sind bei allen staatlichen Tätigkeiten einzubeziehen und zu gewichten (Griffel, BSK BV, Art. 75 N. 37; Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, § 58 N. 12).
 
-**N. 16** **Kompetenzschranken:** Der Bund darf nur Grundsätze festlegen, keine Detailregelungen. Eine zu weitgehende Bundesregelung wäre kompetenzwidrig. Umgekehrt dürfen die Kantone nicht von bundesrechtlichen Grundsätzen abweichen (→ Art. 49 BV).
+## 4. Rechtsfolgen
 
-**N. 17** **Rechtsschutz:** Gegen Planungsentscheide besteht grundsätzlich Rechtsschutz. Die Kognition ist aber eingeschränkt, da Planung Ermessensentscheide beinhaltet. Das Bundesgericht prüft bei Nutzungsplänen nur Rechtsverletzungen (BGE 135 II 22).
+**N. 14** Die primäre Rechtsfolge ist die Verpflichtung des Bundes zum Erlass von Grundsatzgesetzen. Diese Pflicht hat der Bund mit dem RPG vom 22. Juni 1979 erfüllt. Das RPG konkretisiert die verfassungsrechtlichen Vorgaben und schafft den verbindlichen Rahmen für die kantonale Planung.
 
-### 5. Streitstände
+**N. 15** Für die Kantone folgt aus Abs. 1 die Planungspflicht. Sie müssen Richtpläne erstellen (Art. 6 ff. RPG) und für die Nutzungsplanung sorgen (Art. 14 ff. RPG). Diese Pflicht ist justiziabel — Gemeinden können die Erstellung von Nutzungsplänen gerichtlich durchsetzen.
 
-**N. 18** **Umfang der Grundsatzkompetenz:** Umstritten ist, wie detailliert der Bund regeln darf. Lendi (Grundriss einer Theorie, S. 89) plädiert für eine restriktive Auslegung im Sinne des Föderalismus. Waldmann (in: Waldmann/Hänni, Vorbem. N. 22) vertritt eine weitere Auslegung angesichts der überregionalen Herausforderungen. Die Praxis tendiert zur extensiven Auslegung, wie die detaillierten Bestimmungen zur Bauzonendimensionierung zeigen.
+**N. 16** Die Berücksichtigungspflicht nach Abs. 3 erzeugt keine direkten subjektiven Rechte. Sie wirkt als Auslegungsmaxime und Abwägungsdirektive bei allen raumrelevanten Entscheiden. Ihre Verletzung kann im Rahmen der Überprüfung von Ermessensentscheiden gerügt werden.
 
-**N. 19** **Gemeindeautonomie:** Kontrovers ist das Ausmass der Gemeindeautonomie in der Nutzungsplanung. Hänni (Planungs-, Bau- und Umweltrecht, § 3 N. 45) betont die lokale Planungshoheit. Tschannen (Allgemeines Verwaltungsrecht, § 7 N. 23) sieht die Gemeinden als blosse Vollzugsorgane übergeordneter Planung. Das Bundesgericht anerkennt Gemeindeautonomie nur im Rahmen des übergeordneten Rechts (BGE 142 I 177).
+## 5. Streitstände
 
-**N. 20** **Verhältnis zu anderen Verfassungsnormen:** Besonders umstritten ist das Verhältnis zur Wirtschaftsfreiheit (Art. 27 BV). Rhinow/Schefer (Verfassungsrecht, N. 3456) sehen Raumplanung als inhärente Schranke der Wirtschaftsfreiheit. Müller/Schefer (Grundrechte, S. 1045) verlangen eine Grundrechtsabwägung im Einzelfall. Die Rechtsprechung folgt der zweiten Ansicht (BGE 142 I 162).
+**N. 17** Umstritten ist der Umfang der Grundsatzgesetzgebungskompetenz. Ein Teil der Lehre plädiert für eine restriktive Auslegung, die dem Föderalismus Rechnung trägt (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N. 1042). Andere Autoren befürworten eine dynamische Interpretation angesichts neuer Herausforderungen wie Klimawandel und Verdichtung (Waldmann/Belser/Epiney, BSK BV, Art. 75 N. 15).
 
-**N. 21** **Materielle Planungsziele:** Die Gewichtung zwischen haushälterischer Bodennutzung und Entwicklungsbedürfnissen ist umstritten. Muggli (Ist der Föderalismus an der Zersiedelung schuld?, S. 67) fordert absoluten Vorrang der Verdichtung. Bertschi (Umsetzung von Art. 15 lit. b RPG, S. 123) plädiert für eine einzelfallweise Abwägung. Die RPG-Revision 2012 hat sich für eine Stärkung der Verdichtung entschieden.
+**N. 18** Kontrovers diskutiert wird die direkte Anwendbarkeit von Art. 75 Abs. 1 BV. Während Ruch/Griffel eine unmittelbare Bindungswirkung des Trennungsgrundsatzes bejahen (Raumplanungsrecht in der Krise, S. 45), verneint die Gegenmeinung justiziable Individualrechte aus der Verfassungsnorm (Rhinow/Schefer/Uebersax, Verfassungsrecht, N. 3421).
 
-### 6. Praxishinweise
+**N. 19** Die Reichweite der Berücksichtigungspflicht ist ebenfalls umstritten. Mahaim vertritt eine weite Auslegung, die alle Staatsebenen und Verwaltungsbereiche erfasst (Le principe de durabilité et l'aménagement du territoire, S. 234). Demgegenüber beschränkt Tschannen die Pflicht auf explizit raumwirksame Tätigkeiten (Der Richtplan und die Abstimmung raumwirksamer Aufgaben, S. 89).
 
-**N. 22** **Planungshierarchie beachten:** Projekte müssen stufengerecht geplant werden: Sachplan des Bundes → kantonaler Richtplan → kommunale Nutzungsplanung → Baubewilligung. Ein Überspringen von Planungsstufen ist unzulässig.
+## 6. Praxishinweise
 
-**N. 23** **Koordinationspflicht ernst nehmen:** Bei raumwirksamen Vorhaben sind frühzeitig alle betroffenen Stellen einzubeziehen. Dies gilt besonders bei gemeindeübergreifenden Projekten. Die Missachtung der Koordination führt zur Aufhebung von Entscheiden.
+**N. 20** Bei der Anwendung von Art. 75 BV ist die föderalistische Kompetenzordnung strikt zu beachten. Bundesrechtliche Detailregelungen, die über Grundsätze hinausgehen, sind verfassungswidrig. Die kantonale Planungshoheit bildet die Regel, bundesrechtliche Vorgaben die Ausnahme.
 
-**N. 24** **Bundesaufgaben identifizieren:** Für die Beschwerdelegitimation von Verbänden (Art. 12 NHG) ist entscheidend, ob eine Bundesaufgabe vorliegt. Seit der RPG-Revision 2012 sind Neueinzonungen Bundesaufgaben (BGE 142 II 509).
+**N. 21** Für die Praxis zentral ist das Verhältnis zur Eigentumsgarantie (Art. 26 BV). Raumplanerische Massnahmen greifen regelmässig in private Eigentumsrechte ein. Die Eingriffe müssen den allgemeinen Voraussetzungen von Art. 36 BV genügen. Das Bundesgericht prüft dies in ständiger Praxis (**BGE 142 I 162** E. 3).
 
-**N. 25** **Bestandesgarantie respektieren:** Bestehende Bauten und Anlagen geniessen Bestandesgarantie, auch wenn sie der neuen Planung widersprechen. Änderungen sind aber nur im Rahmen der neuen Ordnung zulässig. Bei Wiederaufbau nach Zerstörung erlischt die Bestandesgarantie.
-
-**N. 26** **Interessenabwägung dokumentieren:** Planungsentscheide erfordern eine umfassende Interessenabwägung. Diese muss nachvollziehbar dokumentiert werden. Fehlende oder mangelhafte Interessenabwägung ist ein häufiger Aufhebungsgrund.
-
-**N. 27** **Mitwirkung sicherstellen:** Die Bevölkerung hat Anspruch auf Mitwirkung bei Planungen (Art. 4 RPG). Dies erfordert rechtzeitige Information, angemessene Fristen und ernsthafte Auseinandersetzung mit Einwendungen. Scheinmitwirkung führt zur Verfahrenswidrigkeit.
+**N. 22** Die Koordinationspflicht nach Abs. 2 erfordert in der Praxis institutionalisierte Zusammenarbeitsformen. Raumordnungskonferenzen, interkantonale Vereinbarungen und Agglomerationsprogramme sind bewährte Instrumente. Bei grenzüberschreitenden Projekten ist eine frühzeitige Abstimmung unerlässlich, um spätere Koordinationskonflikte zu vermeiden (**BGE 137 II 58** E. 2).

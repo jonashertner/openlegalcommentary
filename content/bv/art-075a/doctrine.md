@@ -2,89 +2,86 @@
 
 ## 1. Entstehungsgeschichte
 
-**N. 1** Art. 75a BV wurde im Rahmen der nachgeführten Bundesverfassung vom 18. April 1999 neu eingeführt. Die Bestimmung fasst die zuvor verstreuten verfassungsrechtlichen Grundlagen des Vermessungswesens in einem einzigen Artikel zusammen (Hoffmann/Griffel, BSK BV, Art. 75a N. 1). 
+**N. 1** Art. 75a BV wurde im Rahmen der Totalrevision der Bundesverfassung 1999 neu geschaffen. Die Bestimmung fasst die zuvor verstreuten verfassungsrechtlichen Grundlagen für die Landesvermessung und die amtliche Vermessung in einem Artikel zusammen (BBl 1997 I 1, 282).
 
-**N. 2** Die Botschaft zur neuen Bundesverfassung vom 20. November 1996 bezeichnet Art. 75a als «neue Bestimmung», die aus der bisherigen ungeschriebenen Kompetenz des Bundes im Bereich der Landesvermessung sowie aus Art. 38 SchlT ZGB abgeleitet wurde (BBl 1997 I 1, 260). Die amtliche Vermessung war zuvor über Art. 950 ZGB und die Schlussbestimmungen des ZGB geregelt.
+**N. 2** Die Verfassungsrevision vom 3. Oktober 2003 (in Kraft seit 1. Januar 2008) ergänzte Art. 75a BV um Absatz 3, welcher dem Bund eine Kompetenz zur Harmonisierung amtlicher Informationen über Grund und Boden verleiht. Diese Ergänzung erfolgte im Zuge der Schaffung des Bundesgesetzes über Geoinformation (GeoIG), welches die rechtlichen Grundlagen für ein modernes Geoinformationssystem schuf (BBl 2006 7817, 7825 ff.).
 
-**N. 3** Die Harmonisierungskompetenz in Abs. 3 wurde erst während der parlamentarischen Beratungen eingefügt. Der Ständerat ergänzte die ursprüngliche Vorlage um diese Bestimmung, um die technologischen Entwicklungen im Bereich der Geoinformation zu berücksichtigen (Hoffmann/Griffel, BSK BV, Art. 75a N. 1). Die Botschaft zum Geoinformationsgesetz vom 6. September 2006 betont, dass der Verfassungsgeber mit Art. 75a Abs. 3 BV den Weg für eine umfassende Harmonisierung der Geodaten geebnet hat (BBl 2006 7817, 7818).
+**N. 3** Die Entstehung der Harmonisierungskompetenz (Abs. 3) war von Diskussionen über deren Reichweite geprägt. Der Gesetzgeber wollte eine einheitliche rechtliche Grundlage für die Erfassung, Verwaltung und Nutzung von Geodaten schaffen, ohne jedoch die kantonalen Kompetenzen übermässig zu beschneiden (BBl 2006 7817, 7832).
 
 ## 2. Systematische Einordnung
 
-**N. 4** Art. 75a BV ist systematisch im 3. Titel (Bund, Kantone und Gemeinden), 3. Kapitel (Aufgabenteilung zwischen Bund und Kantonen), 1. Abschnitt (Aufgaben des Bundes) eingeordnet. Die Bestimmung gehört zu den Kompetenznormen, die dem Bund spezifische Aufgaben zuweisen (Hoffmann/Griffel, BSK BV, Art. 75a N. 4).
+**N. 4** Art. 75a BV ist systematisch in Abschnitt 4 «Umwelt und Raumplanung» eingeordnet, was seine Bedeutung für die räumliche Ordnung unterstreicht (Hoffmann/Griffel, BSK BV, Art. 75a N. 4). Die Norm steht zwischen den Raumplanungskompetenzen (Art. 75 BV) und den Umweltschutzkompetenzen (Art. 74 BV), was ihre Querschnittsfunktion verdeutlicht.
 
-**N. 5** Die Norm steht in engem Zusammenhang mit:
-- → Art. 122 BV (Zivilrecht), da das Grundbuchwesen und die amtliche Vermessung zivilrechtlich in Art. 950 ZGB verankert sind
-- → Art. 45 Abs. 2 BV (Zusammenarbeit zwischen Bund und Kantonen), da die Durchführung der amtlichen Vermessung Aufgabe der Kantone ist
-- ↔ Art. 38 ff. SchlT ZGB, welche die Übergangsbestimmungen zur amtlichen Vermessung enthalten
+**N. 5** Die Bestimmung weist enge Bezüge zu folgenden Verfassungsnormen auf:
+- → Art. 122 BV (Zivilrecht): Das Grundbuchwesen basiert auf der amtlichen Vermessung
+- → Art. 45 Abs. 2 BV (Zusammenarbeit): Kantone sind zur Zusammenarbeit bei der Harmonisierung verpflichtet
+- → Art. 49 BV (Vorrang des Bundesrechts): Bundesrechtliche Harmonisierungsvorschriften gehen kantonalem Recht vor
+- ↔ Art. 3 BV (Föderalismus): Die Durchführung der Vermessung verbleibt bei den Kantonen
 
-**N. 6** Im Kontext des Geoinformationsrechts bildet Art. 75a BV die verfassungsrechtliche Grundlage für das Bundesgesetz über Geoinformation (GeoIG) und die darauf gestützte Verordnung über die amtliche Vermessung (VAV).
+**N. 6** Auf Gesetzesstufe konkretisieren folgende Erlasse Art. 75a BV:
+- Bundesgesetz über Geoinformation (GeoIG, SR 510.62)
+- Verordnung über die amtliche Vermessung (VAV, SR 211.432.2)
+- Verordnung über die Landesvermessung (LVV, SR 510.626)
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
-### a) Landesvermessung (Abs. 1)
+### 3.1 Landesvermessung (Abs. 1)
 
-**N. 7** Die Landesvermessung umfasst die geodätischen Grundlagen der Schweiz, insbesondere das Bezugssystem, die Fixpunktnetze und die topografischen Aufnahmen (Hoffmann/Griffel, BSK BV, Art. 75a N. 5). Sie schafft die technischen Voraussetzungen für alle weiteren Vermessungsarbeiten und ist Sache des Bundes.
+**N. 7** Die Landesvermessung umfasst die geodätischen Grundlagen für die Positionsbestimmung auf dem gesamten Gebiet der Schweiz. Sie schafft das einheitliche Bezugssystem für alle raumbezogenen Daten (Hoffmann/Griffel, BSK BV, Art. 75a N. 5; Huser, Vermessungsrecht, 34 ff.).
 
-**N. 8** Zur Landesvermessung gehören nach Art. 4 ff. GeoIG:
-- Die Definition und Nachführung der geodätischen Bezugssysteme
-- Die Erstellung und Nachführung der Landeskartenwerke
-- Die Führung des topografischen Landschaftsmodells
-- Die Erstellung von Luftbildern und digitalen Geländemodellen
+**N. 8** Der Begriff «Landesvermessung» umfasst:
+- Fixpunktnetze für Lage und Höhe
+- Satellitenpositionierungsdienste (GNSS)
+- Schwerekarten und Geoidmodelle
+- Kartographische Landesaufnahmen
 
-### b) Amtliche Vermessung (Abs. 2)
+### 3.2 Amtliche Vermessung (Abs. 2)
 
-**N. 9** Die amtliche Vermessung dient der Sicherung des Grundeigentums und bildet die Grundlage für das Grundbuch (Art. 950 ZGB). Sie umfasst die parzellengenaue Aufnahme der Liegenschaften mit ihren Grenzen, Gebäuden und dauernden Bodenbedeckungen (Hoffmann/Griffel, BSK BV, Art. 75a N. 8).
+**N. 9** Die amtliche Vermessung (Grundbuchvermessung) dokumentiert die tatsächlichen und rechtlichen Verhältnisse der Grundstücke. Sie bildet die technische Grundlage für das Grundbuch gemäss Art. 950 ZGB (Hoffmann/Griffel, BSK BV, Art. 75a N. 8).
 
-**N. 10** Der Bund regelt die amtliche Vermessung durch das GeoIG (Art. 29-33) und die VAV. Die Durchführung obliegt jedoch den Kantonen (Art. 34 Abs. 1 lit. a GeoIG), die diese Aufgabe in der Regel an patentierte Ingenieur-Geometer delegieren (Art. 41 Abs. 1 GeoIG).
+**N. 10** Inhalt der amtlichen Vermessung:
+- Grundstücksgrenzen und deren Vermarkung
+- Bodenbedeckung (Gebäude, Strassen, Gewässer)
+- Einzelobjekte (Mauern, Treppen, unterirdische Leitungen)
+- Nomenklatur (Orts-, Flur- und Strassennamen)
+- Administrative Einteilungen
 
-**N. 11** Die amtliche Vermessung hat öffentlich-rechtlichen Charakter. Ihre Ergebnisse werden durch hoheitliche Verfügung festgestellt, was sie von privatrechtlichen Grenzfeststellungen unterscheidet (vgl. Urteil 1C_375/2025 vom 12. November 2025).
+### 3.3 Harmonisierung der Geoinformation (Abs. 3)
 
-### c) Harmonisierung der Geoinformation (Abs. 3)
+**N. 11** Die Harmonisierungskompetenz nach Abs. 3 ermächtigt den Bund, Vorschriften über die «Harmonisierung amtlicher Informationen über Grund und Boden» zu erlassen.
 
-**N. 12** Die Harmonisierungskompetenz ermächtigt den Bund, Vorschriften über die Harmonisierung amtlicher Informationen über Grund und Boden zu erlassen. Diese Kompetenz ist Gegenstand doktrinärer Kontroversen (Hoffmann/Griffel, BSK BV, Art. 75a N. 13).
-
-**N. 13** Nach Lendi handelt es sich um eine umfassende Bundeskompetenz mit nachträglich derogatorischer Wirkung. Er betont, dass der Verfassungsgeber jedenfalls keine blosse Grundsatzgesetzgebungskompetenz angestrebt habe (Lendi, zitiert bei Hoffmann/Griffel, BSK BV, Art. 75a N. 20).
-
-**N. 14** Demgegenüber vertritt Biaggini eine restriktivere Auslegung und qualifiziert Art. 75a Abs. 3 als gegenständlich begrenzte Gesetzgebungskompetenz (Biaggini, zitiert bei Hoffmann/Griffel, BSK BV, Art. 75a N. 6).
-
-**N. 15** Ruch nimmt eine vermittelnde Position ein und betont, dass der Bund jedenfalls dann zur Gesetzgebung verpflichtet ist, wenn die korrekte Wiedergabe der tatsächlichen und rechtlichen Verhältnisse in den amtlichen Katastern nur durch gemeinsame qualitative und technische Standards erreicht werden kann (Ruch, zitiert bei Hoffmann/Griffel, BSK BV, Art. 75a N. 18).
+**N. 12** Der Begriff «amtliche Informationen über Grund und Boden» ist weit zu verstehen und umfasst alle raumbezogenen Daten, die von Behörden erhoben oder verwaltet werden (Huser, AJP 2010, 147).
 
 ## 4. Rechtsfolgen
 
-**N. 16** Aus Art. 75a BV ergeben sich folgende Kompetenzen und Pflichten:
+**N. 13** Aus Art. 75a BV ergeben sich folgende verfassungsrechtliche Kompetenzen:
 
-**N. 17** Der Bund hat die ausschliessliche Kompetenz für die Landesvermessung (Abs. 1). Diese umfasst sowohl die Gesetzgebung als auch den Vollzug. Die Kantone haben in diesem Bereich keine eigenen Kompetenzen.
+**N. 14** **Umfassende Bundeskompetenz** für Landesvermessung (Abs. 1): Der Bund kann die Landesvermessung vollständig regeln und selbst durchführen. Die Kantone haben keine eigenen Kompetenzen in diesem Bereich.
 
-**N. 18** Im Bereich der amtlichen Vermessung (Abs. 2) verfügt der Bund über eine umfassende Gesetzgebungskompetenz. Die Vollzugskompetenz liegt jedoch bei den Kantonen, die als «Oberaufsichtsbehörden» fungieren (Art. 34 Abs. 1 lit. d GeoIG).
+**N. 15** **Geteilte Kompetenz** für amtliche Vermessung (Abs. 2): Der Bund erlässt die Vorschriften (Art. 22-26 GeoIG), die Kantone führen die Vermessung durch (Art. 34 Abs. 2 GeoIG). Diese Aufgabenteilung ist verfassungsrechtlich vorgegeben.
 
-**N. 19** Die Harmonisierungskompetenz (Abs. 3) ermöglicht dem Bund, technische und qualitative Standards für Geoinformationen festzulegen. Dies umfasst nach Art. 22 ff. GeoIG:
-- Geometadatenmodelle
-- Darstellungsmodelle  
-- Austauschformate
-- Qualitätsanforderungen
-
-**N. 20** Die Kantone sind bei der Umsetzung der bundesrechtlichen Vorgaben an das Legalitätsprinzip (→ Art. 5 BV) und den Vorrang des Bundesrechts (→ Art. 49 BV) gebunden. Sie können ergänzende Regelungen erlassen, soweit das Bundesrecht Raum lässt.
+**N. 16** **Harmonisierungskompetenz** (Abs. 3): Der Bund kann einheitliche Standards für Geodaten vorschreiben. Die Reichweite dieser Kompetenz ist umstritten (siehe N. 17-19).
 
 ## 5. Streitstände
 
-**N. 21** Die Reichweite der Harmonisierungskompetenz nach Abs. 3 ist doktrinär umstritten:
+**N. 17** Die **Reichweite der Harmonisierungskompetenz** nach Art. 75a Abs. 3 BV ist in der Doktrin umstritten:
 
-**N. 22** **Umfassende Bundeskompetenz (Lendi)**: Diese Position interpretiert Art. 75a Abs. 3 als weitreichende Ermächtigung des Bundes zur Harmonisierung sämtlicher raumbezogener Daten. Die nachträglich derogatorische Wirkung bedeutet, dass Bundesrecht entgegenstehendes kantonales Recht verdrängt.
+**N. 18** **Lendi** (BSK BV, Art. 75a N. 20) vertritt eine extensive Auslegung: Er leitet aus Art. 75a Abs. 3 eine umfassende Bundeskompetenz mit nachträglich derogatorischer Wirkung ab. Nach seiner Auffassung wollte der Verfassungsgeber ausdrücklich keine blosse Grundsatzgesetzgebungskompetenz schaffen.
 
-**N. 23** **Begrenzte Kompetenz (Biaggini)**: Diese Auffassung beschränkt die Bundeskompetenz auf die technische Harmonisierung, ohne materielle Eingriffe in kantonale Zuständigkeiten. Der Bund kann demnach nur Standards und Formate, nicht aber inhaltliche Vorgaben machen.
+**N. 19** **Biaggini** (BSK BV, Art. 75a N. 6) nimmt eine restriktivere Position ein: Er qualifiziert Art. 75a Abs. 3 als gegenständlich begrenzte Gesetzgebungskompetenz, die nicht über die Harmonisierung technischer Standards hinausgeht.
 
-**N. 24** **Funktionale Interpretation (Ruch)**: Diese vermittelnde Position macht die Reichweite der Bundeskompetenz vom funktionalen Harmonisierungsbedarf abhängig. Wo gemeinsame Standards für die Funktionsfähigkeit des Systems unerlässlich sind, besteht sogar eine Gesetzgebungspflicht des Bundes.
+**N. 20** **Ruch** (BSK BV, Art. 75a N. 18) vermittelt zwischen beiden Positionen: Er betont, dass der Bund jedenfalls dann zur Gesetzgebung verpflichtet ist, wenn die korrekte Wiedergabe der tatsächlichen und rechtlichen Verhältnisse in den amtlichen Katastern nur durch gemeinsame qualitative und technische Standards erreicht werden kann.
 
-**N. 25** Die Praxis hat sich weitgehend der funktionalen Interpretation angeschlossen. Das GeoIG enthält sowohl technische Standards als auch materielle Vorgaben, soweit diese für die Interoperabilität der Systeme erforderlich sind (Huser, Schweizerisches Vermessungsrecht, 3. Aufl. 2014, S. 143 ff.).
+**N. 21** Die **Gesetzgebungspflicht des Bundes** wird unterschiedlich beurteilt: Während Ruch eine Pflicht zur Harmonisierung bei Bedarf gemeinsamer Standards annimmt, sehen andere Autoren lediglich eine Kann-Vorschrift (Kettiger, Jusletter 2008, Rz. 15).
 
 ## 6. Praxishinweise
 
-**N. 26** Bei der Vergabe von Nachführungsmandaten für die amtliche Vermessung handelt es sich nicht um öffentliche Beschaffungen im Sinne des Submissionsrechts, sondern um Konzessionsvergaben. Dies hat das Kantonsgericht Basel-Landschaft klargestellt (Urteil 810 16 4 vom 9. März 2016). Dennoch gelten die Grundsätze der Gleichbehandlung und Transparenz.
+**N. 22** Bei der **Vergabe von Nachführungsarbeiten** müssen die Kantone das Submissionsrecht beachten. Das Verwaltungsgericht Bern hat wiederholt bestätigt, dass Nachführungsgeometerarbeiten dem öffentlichen Beschaffungsrecht unterstehen (VGE BE 100.2024.34U vom 31.10.2024).
 
-**N. 27** Verfügungen im Bereich der amtlichen Vermessung unterliegen dem öffentlichen Verfahrensrecht. Der Rechtsweg richtet sich nach den kantonalen Verfahrensordnungen, wobei die Beschwerde in öffentlich-rechtlichen Angelegenheiten an das Bundesgericht möglich ist (Art. 82 lit. a BGG).
+**N. 23** Die **Kostenverteilung** zwischen Bund, Kantonen und Grundeigentümern richtet sich nach Art. 38 ff. VAV. Bei Erstvermessungen tragen die Grundeigentümer regelmässig einen Teil der Kosten (Art. 42 Abs. 3 VAV).
 
-**N. 28** Die berufliche Unabhängigkeit der Ingenieur-Geometer ist nach der Revision von Art. 44 VAV weniger formalistisch zu verstehen. Entscheidend ist die fachliche Weisungsfreiheit, nicht die gesellschaftsrechtliche Stellung (vgl. Urteil des Verwaltungsgerichts Bern 100.2024.34 vom 31. Oktober 2024).
+**N. 24** **Datenschutz und Öffentlichkeitsprinzip**: Geodaten der amtlichen Vermessung sind grundsätzlich öffentlich zugänglich (Art. 11 GeoIG). Personenbezogene Daten unterliegen jedoch dem Datenschutz (Kettiger/Oesch, Auswirkungen, 45 ff.).
 
-**N. 29** Bei Grenzstreitigkeiten ist zwischen der hoheitlichen Feststellung im Rahmen der amtlichen Vermessung und privatrechtlichen Grenzbereinigungen zu unterscheiden. Liegt kein Fehler der amtlichen Vermessung vor, ist der Zivilrichter zuständig (→ Art. 669 ZGB).
+**N. 25** **Interkantonale Zusammenarbeit**: Bei kantonsübergreifenden Projekten ist die Harmonisierung zwingend. Die Kantone haben entsprechende Konkordate abgeschlossen oder nutzen die Mechanismen des GeoIG (Art. 31 GeoIG).
 
-**N. 30** Der Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster) nach Art. 16 ff. GeoIG stellt eine wichtige Erweiterung der traditionellen Vermessung dar. Er dokumentiert nicht nur die geometrischen Verhältnisse, sondern auch die rechtlichen Beschränkungen des Grundeigentums (Kettiger, ZBGR 2010, 137 ff.).
+**N. 26** **Verhältnis zum Grundbuch**: Die amtliche Vermessung bildet die technische Grundlage des Grundbuchs. Widersprüche zwischen Vermessung und Grundbuch sind im Bereinigungsverfahren nach Art. 40 VAV zu klären (Huser, ZBGR 2002, 78).
