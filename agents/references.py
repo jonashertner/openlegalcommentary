@@ -44,17 +44,17 @@ def format_article_text(law: str, article_number: int, suffix: str) -> str:
     return "\n".join(lines)
 
 
-# --- Commentary references (BSK / CR) ---
+# --- Commentary references (Doctrinal Sources) ---
 
 _commentary_refs_cache: dict[tuple, dict] = {}
 
 
 def load_commentary_refs(refs_root: Path, law: str) -> dict:
-    """Load and merge BSK + CR commentary references for a law.
+    """Load and merge Primary + CR commentary references for a law.
 
-    Returns a dict keyed by article number string. When both BSK and CR
-    exist for the same article, the value is {"bsk": {...}, "cr": {...}}.
-    When only one source exists, it's {"bsk": {...}} or {"cr": {...}}.
+    Returns a dict keyed by article number string. When both Primary and CR
+    exist for the same article, the value is {"primary": {...}, "cr": {...}}.
+    When only one source exists, it's {"primary": {...}} or {"cr": {...}}.
     Returns empty dict if no files exist.
     """
     cache_key = (str(refs_root), law)
@@ -62,7 +62,7 @@ def load_commentary_refs(refs_root: Path, law: str) -> dict:
         return _commentary_refs_cache[cache_key]
 
     merged: dict = {}
-    for source in ("bsk", "cr"):
+    for source in ("primary", "cr"):
         path = refs_root / f"{law.lower()}_{source}.json"
         if not path.exists():
             continue
@@ -78,7 +78,7 @@ def load_commentary_refs(refs_root: Path, law: str) -> dict:
 
 
 def _format_single_source(source_label: str, data: dict) -> str:
-    """Format a single BSK or CR source block."""
+    """Format a single Primary or CR source block."""
     lines = []
     lines.append(f"### {source_label}")
     lines.append(f"Authors: {', '.join(data.get('authors', []))}")
@@ -138,18 +138,18 @@ def format_commentary_refs(
         return ""
 
     blocks = []
-    blocks.append("## Doctrinal Reference Data (BSK / CR)")
+    blocks.append("## Doctrinal Reference Data (Doctrinal Sources)")
     blocks.append("")
 
-    for source in ("bsk", "cr"):
+    for source in ("primary", "cr"):
         if source in article_refs:
-            label = "BSK" if source == "bsk" else "CR"
+            label = "Primary" if source == "primary" else "CR"
             blocks.append(_format_single_source(label, article_refs[source]))
             blocks.append("")
 
     blocks.append(
         "Use these references to ground your doctrinal analysis. "
-        "Cite authors with proper BSK/CR Randziffern."
+        "Cite authors with proper Primary/CR Randziffern."
     )
     blocks.append(
         "Do NOT reproduce commentary text — synthesize original "
