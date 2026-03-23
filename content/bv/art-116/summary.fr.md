@@ -1,0 +1,15 @@
+# Art. 116 Cst. — Famille
+
+## Aperçu
+
+L'art. 116 Cst. habilite la Confédération à protéger la famille et à mener une politique sociale en faveur des familles. La norme constitutionnelle contient quatre alinéas avec différents mandats d'action.
+
+**Que règle la norme ?** L'art. 116 Cst. prescrit à la Confédération de tenir compte des besoins de la famille dans l'accomplissement de toutes ses tâches (al. 1, 1re phrase). Elle peut soutenir des mesures destinées à protéger la famille (al. 1, 2e phrase) et édicter des prescriptions sur les allocations familiales (al. 2). Le mandat constitutionnel relatif à l'assurance-maternité est formulé de manière contraignante : la Confédération « institue une assurance-maternité » (al. 3). Ces différences montrent divers degrés d'intensité des compétences fédérales (Gächter/Filippo, BSK BV, art. 116 ch. 4).
+
+**Qui est concerné ?** La notion de famille doit être comprise au sens large et comprend toutes les formes de vie commune avec des enfants — couples mariés, couples en concubinage, partenaires enregistrés et parents seuls (Gächter/Filippo, BSK BV, art. 116 ch. 3). Le Tribunal fédéral a confirmé que les règles de priorité automatique en faveur d'un sexe pour les allocations familiales sont contraires à la constitution (**BGE 129 I 265**).
+
+**Quelles sont les conséquences juridiques ?** La norme ne fonde pas de droits directs des citoyens, mais donne des possibilités d'action à la Confédération. Concrètement, la Confédération a édicté la loi sur les allocations familiales (LAFam, RS 836.2), qui prévoit des montants minimaux de 200 francs par enfant et par mois (art. 5 LAFam). L'assurance-maternité a été mise en œuvre par révision de la loi sur les allocations pour perte de gain (art. 16b ss LAPG, RS 834.1) et accorde 14 semaines d'indemnisation à 80 pour cent du salaire.
+
+**Exemple pratique :** Une mère reçoit après l'accouchement pendant 14 semaines 80 pour cent de son salaire antérieur de l'assurance-maternité (maximum 196 francs par jour selon l'art. 16e LAPG). En même temps, la famille a droit à des allocations pour enfants d'au moins 200 francs par mois. Si seul le père travaille dans le canton de Fribourg, mais que la famille habite dans le canton de Vaud avec des allocations plus élevées, elle peut faire valoir la différence dans le canton de domicile (**BGE 129 I 265**). En revanche, les pères n'ont pas droit à une allocation pour perte de gain après la naissance (**BGE 140 I 305**).
+
+La Constitution oblige la Confédération, dans tous les domaines politiques — du droit fiscal à la politique migratoire — à examiner les effets sur les familles. Cette tâche transversale n'est cependant pas fondatrice de compétences, mais une instruction d'action pour les compétences fédérales existantes (Gächter/Filippo, BSK BV, art. 116 ch. 5).

@@ -1,0 +1,11 @@
+# Panoramica
+
+L'art. 117a Cost. obbliga Confederazione e Cantoni a provvedere congiuntamente a garantire cure mediche di base sufficienti, accessibili a tutti e di elevata qualità. La medicina di famiglia (medicina interna generale, medicina dell'infanzia e dell'adolescenza) è particolarmente riconosciuta e promossa (Gächter/Renold-Burch, BSK BV, Art. 117a N. 6-23). Questa disposizione costituzionale nacque come controprogetto diretto all'iniziativa popolare «Sì alla medicina di famiglia» e fu chiaramente accettata il 18 maggio 2014 con l'88% dei voti favorevoli (FF 2010 2549; **1C_282/2014**).
+
+Le cure mediche di base comprendono tutte le prestazioni sanitarie primarie ambulatoriali e ospedaliere che servono come primo punto di contatto per i problemi di salute. Vi rientrano i medici di famiglia, la medicina dell'infanzia e dell'adolescenza, i servizi di emergenza, ma anche altre professioni sanitarie come le ostetriche. Un esempio: quando un bambino ha la febbre, i genitori si rivolgono prima al pediatra del posto. Questi deve essere raggiungibile, accessibile economicamente e professionalmente qualificato.
+
+La Confederazione deve disciplinare per legge due ambiti concreti: in primo luogo la formazione e il perfezionamento dei medici di base e in secondo luogo una remunerazione adeguata per le loro prestazioni (Gächter/Renold-Burch, BSK BV, Art. 117a N. 34-38). Diversamente dagli obiettivi sociali dell'art. 41 Cost., l'art. 117a Cost. è direttamente azionabile (**DTF 151 V 100**). I cittadini possono invocare davanti al giudice le violazioni delle cure di base.
+
+I Cantoni possono limitare il numero dei medici autorizzati, ma devono garantire che le cure di base non vengano compromesse. Il Tribunale federale ha confermato questa prassi, purché si faccia una distinzione regionale: dove c'è carenza di medici, occorre promuovere; dove c'è sovraofferta, si può limitare (**DTF 151 V 100**).
+
+La disposizione rafforza l'assistenza medica vicina al domicilio e combatte la carenza di medici di famiglia. Costituisce il fondamento costituzionale del «Piano generale medicina di famiglia», che prevede misure concrete di promozione come l'assistentato in studio medico e una migliore promozione del perfezionamento (Gächter/Renold-Burch, BSK BV, Art. 117a N. 39-40).

@@ -1,0 +1,13 @@
+# Overview
+
+Art. 112a BV jointly obliges the Confederation and the cantons to provide supplementary benefits. These supplement old-age and disability insurance pensions when they do not fully cover subsistence needs. The provision dates back to 1972 and was fundamentally revised with the new federal fiscal equalisation system (NFA).
+
+Supplementary benefits are intended for persons who receive an old-age or disability insurance pension but still do not have enough money to live on. This primarily affects elderly people and people with disabilities whose pensions are too low. Unlike social assistance, those affected do not have to exhaust all their assets. Supplementary benefits cover the entire subsistence need – that is, everything necessary for a life of human dignity.
+
+The legal consequences are significant: Art. 112a BV creates a binding constitutional mandate. The Confederation regulates the details in the Supplementary Benefits Act (ELG). The cantons must ensure in implementation that subsistence needs are fully covered. The Federal Supreme Court has repeatedly held that cantons may not abuse their discretion to undermine subsistence security.
+
+**Example:** A 75-year-old pensioner receives 1,800 francs per month in old-age insurance pension. Her housing costs amount to 1,200 francs, her other living costs 800 francs – in total she needs 2,000 francs per month. The supplementary benefit of 200 francs closes the gap between pension and subsistence need.
+
+The constitutional significance of supplementary benefits lies in their systematic position between social insurance and social assistance. According to Gächter/Filippo, they form an independent system of the first pillar that can be assigned neither to social insurance in the narrow sense nor to social assistance. Carigiet/Koch emphasise that supplementary benefits are intended to prevent old-age and disability insurance pensioners from becoming dependent on social assistance. Case law has confirmed this purpose: supplementary benefits serve complete subsistence security and take priority over social assistance.
+
+Locher/Gächter characterise supplementary benefits as means-tested but not needs-dependent benefits. Unlike social assistance, they are not subsidiary to private support. Dummermuth points out that constitutional entrenchment protects supplementary benefits from short-term austerity measures. However, the SB reform of 2021 shows that even constitutionally entrenched benefits can be subject to political changes.

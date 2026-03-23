@@ -1,0 +1,11 @@
+# Aperçu
+
+L'art. 117a Cst. oblige conjointement la Confédération et les cantons à garantir des soins médicaux de base suffisants, accessibles à tous et de haute qualité. La médecine de famille (médecine interne générale, pédiatrie et médecine de l'adolescence) est particulièrement reconnue et encouragée (Gächter/Renold-Burch, BSK BV, art. 117a N. 6-23). Cette disposition constitutionnelle est née comme contre-projet direct à l'initiative populaire « Oui à la médecine de famille » et a été clairement adoptée le 18 mai 2014 avec 88% de votes favorables (FF 2010 2723; **1C_282/2014**).
+
+Les soins médicaux de base comprennent toutes les prestations ambulatoires et hospitalières des soins de santé primaires qui servent de premier recours en cas de problèmes de santé. Cela inclut les médecins de famille, la pédiatrie et médecine de l'adolescence, les services d'urgence, mais aussi d'autres professions de la santé comme les sages-femmes. Un exemple : si un enfant a de la fièvre, les parents s'adressent d'abord au pédiatre du lieu. Celui-ci doit être accessible, abordable et qualifié sur le plan professionnel.
+
+La Confédération doit réglementer légalement deux domaines concrets : premièrement la formation et la formation continue des médecins de premier recours et deuxièmement une rémunération appropriée pour leurs prestations (Gächter/Renold-Burch, BSK BV, art. 117a N. 34-38). Contrairement aux buts sociaux de l'art. 41 Cst., l'art. 117a Cst. est directement justiciable (**ATF 151 V 100**). Les citoyens peuvent invoquer devant les tribunaux des violations des soins de base.
+
+Les cantons peuvent limiter le nombre de médecins admis, mais ils doivent veiller à ce que les soins de base ne soient pas compromis. Le Tribunal fédéral a confirmé cette pratique, pour autant qu'une distinction régionale soit faite : là où règne une pénurie de médecins, il faut encourager ; là où existe une offre excédentaire, on peut limiter (**ATF 151 V 100**).
+
+La disposition renforce les soins médicaux de proximité et combat la pénurie de médecins de famille. Elle constitue la base constitutionnelle du « Plan directeur médecine de famille », qui prévoit des mesures d'encouragement concrètes comme l'assistanat au cabinet médical et une meilleure promotion de la formation continue (Gächter/Renold-Burch, BSK BV, art. 117a N. 39-40).
