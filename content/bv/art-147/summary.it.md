@@ -1,0 +1,11 @@
+La procedura di consultazione secondo l'art. 147 Cost. è un importante strumento di partecipazione nel processo legislativo svizzero. La Costituzione obbliga le autorità a invitare i Cantoni, i partiti politici e i circoli interessati a esprimere il loro parere su atti normativi importanti e su trattati internazionali.
+
+**Chi è interessato?** I partecipanti obbligatori sono tutti i Cantoni quale espressione del federalismo cooperativo. I partiti politici vengono consultati in quanto portatori della formazione della volontà politica. I «circoli interessati» comprendono associazioni, organizzazioni e altri attori toccati dal progetto.
+
+**Cosa viene consultato?** La procedura di consultazione si svolge per tre categorie: atti normativi importanti (nuove leggi o modifiche significative), altri progetti di grande portata (programmi politici) e importanti trattati internazionali. La dottrina è divisa sulla questione se sia necessaria una consultazione per ogni modifica di legge. Mentre la legge sulla consultazione (LCo) lo prevede in linea di principio, Schiess Rütimann critica questa prassi estensiva come incostituzionale (BSK BV, Art. 147 n. 16).
+
+**Quali conseguenze giuridiche?** La procedura è consultiva – i pareri non sono vincolanti per le autorità. La Costituzione federale non fonda alcun diritto soggettivo allo svolgimento di una consultazione. La giurisprudenza ha confermato che nella procedura legislativa non esiste un diritto costituzionale al diritto di essere sentiti (**BGE 121 I 230**).
+
+**Esempio:** Prima della revisione della legge sulla caccia per la regolazione del lupo, il Consiglio federale ha condotto nel 2024 una consultazione di tre mesi. Cantoni, partiti e associazioni ambientali hanno potuto esporre la loro posizione. Nonostante molti pareri fossero critici, il Consiglio federale ha comunque messo in vigore la revisione – la consultazione era stata condotta con successo.
+
+La consultazione rafforza la legittimazione delle leggi mediante il coinvolgimento precoce degli interessati, senza limitare la libertà decisionale democratica delle autorità elette.

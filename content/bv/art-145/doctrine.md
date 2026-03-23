@@ -1,3 +1,25 @@
-# Doktrin
+## Doktrin
 
-Art. 145 BV — Art. 145 BV
+**N. 1 Entstehungsgeschichte**
+
+Art. 145 BV wurde in der Totalrevision von 1999 ohne substantielle Änderungen aus der bisherigen Verfassung übernommen. Die Botschaft zur neuen Bundesverfassung vom 20. November 1996 (BBl 1997 I 1, 421) hält fest, dass die Bestimmung die bisher in verschiedenen Artikeln verstreuten Regelungen über die Amtsdauer zusammenführt. Die vierjährige Amtsdauer für Nationalrat und Bundesrat war bereits seit 1848 verfassungsrechtlich verankert, während die sechsjährige Amtsdauer der Bundesrichter erstmals 1874 eingeführt wurde. Die differenzierte Ausgestaltung der Amtsdauern sollte bewusst beibehalten werden, um den unterschiedlichen funktionalen Anforderungen der drei Staatsgewalten Rechnung zu tragen.
+
+**N. 2 Systematische Einordnung**
+
+Art. 145 BV steht im 5. Titel über die Bundesbehörden und ist systematisch zwischen den Bestimmungen über die Wählbarkeit (Art. 143 f. BV) und der Inkompatibilität (Art. 144 BV) einerseits und den Immunitätsbestimmungen (Art. 162 BV) andererseits eingeordnet. Die Norm bildet zusammen mit → Art. 143 BV (Wählbarkeit) und → Art. 144 BV (Unvereinbarkeiten) das verfassungsrechtliche Fundament für die personelle Ausgestaltung der Bundesbehörden. Im Kontext der Gewaltenteilung (→ Art. 144 Abs. 1 BV) kommt der unterschiedlichen Amtsdauer von politischen Behörden und Justizorganen besondere Bedeutung zu.
+
+**N. 3 Tatbestandsmerkmale / Norminhalt**
+
+Die Bestimmung regelt abschliessend die Amtsdauer für drei Kategorien von Bundesämtern. Der **Begriff der Amtsdauer** bezeichnet den zeitlichen Rahmen, für den eine Person in ein Amt gewählt wird (Schaub, BSK BV, Art. 145 N. 3). Die vierjährige Amtsdauer für Nationalrat, Bundesrat und Bundeskanzler entspricht der **Legislaturperiode**, wodurch die demokratische Legitimation und politische Kohärenz gesichert werden. Die sechsjährige Amtsdauer der Bundesrichter weicht bewusst davon ab, um die richterliche Unabhängigkeit zu stärken (Schaub, BSK BV, Art. 145 N. 7). Die Norm enthält keine Regelung über die **Wiederwählbarkeit**, die sich aus → Art. 143 BV (unbeschränkte Wählbarkeit) ergibt.
+
+**N. 4 Rechtsfolgen**
+
+Mit Ablauf der Amtsdauer erlöschen die mit dem Amt verbundenen Rechte und Pflichten von Verfassungs wegen. Eine automatische Verlängerung oder stillschweigende Fortsetzung des Amtes ist ausgeschlossen. Die **feste Amtsdauer** bedeutet nach der Lehre (Kiener, BSK BV, Art. 145 N. 10), dass die demokratische Legitimation staatlicher Macht immer nur für eine überschaubare Dauer geleistet werden kann. Während der Amtsdauer besteht grundsätzlich ein Anspruch auf Ausübung des Amtes; eine **vorzeitige Abberufung** aus politischen Gründen ist verfassungsrechtlich unzulässig (Schaub, BSK BV, Art. 145 N. 8). Aus nichtpolitischen Gründen (Amtsunfähigkeit, grobe Amtspflichtverletzung) kann jedoch eine Amtsenthebung erfolgen, wobei für Bundesrichter das Instrument der Nichtwiederwahl als funktionales Äquivalent dient (JAAC 68.49).
+
+**N. 5 Streitstände**
+
+Die Doktrin ist in zwei zentralen Fragen gespalten. Erstens besteht Uneinigkeit über die **Verfassungsmässigkeit der Altersgrenze** für Bundesrichter nach Art. 9 Abs. 2 BGG. Während die Botschaft Bundesrechtspflege die Vereinbarkeit mit Art. 143 BV bejaht, vertreten Fischbacher, Biaggini, Gächter und Kiener die Auffassung, die Regelung stehe nicht im Einklang mit Art. 143 BV, da sie eine neue Wählbarkeitsvoraussetzung festschreibe. Zweitens ist die **Zulässigkeit einer Amtsenthebung** von Bundesrichtern durch die Bundesversammlung umstritten. Biaggini, Kiener, Rhinow und Schefer halten eine solche Amtsenthebung mittels referendumspflichtigen Bundesbeschlusses für verfassungswidrig, während der St. Galler Kommentar (Ehrenzeller) und ein Gutachten zumindest Zweifel an der Verfassungsmässigkeit äussern. Ein dritter Streitpunkt betrifft die **optimale Amtsdauer** für Bundesrichter: Raselli (BSK BV, Art. 145 N. 35) fordert eine Verlängerung der Amtsdauer oder alternativ eine Wahl auf Lebenszeit unter Verzicht auf die Wiederwahlmöglichkeit, während Tschannen (BSK BV, Art. 145 N. 35) sich kritisch zu einer lebenslänglichen Amtszeit äussert.
+
+**N. 6 Praxishinweise**
+
+Die unterschiedlichen Amtsdauern haben erhebliche praktische Konsequenzen für die Amtsführung. Bei **Bundesrichtern** erfolgt alle sechs Jahre eine Gesamterneuerungswahl durch die Vereinigte Bundesversammlung (→ Art. 168 Abs. 1 BV), wobei gestaffelte Wahlen zur Kontinuität der Rechtsprechung beitragen. Die **Altersgrenze** von 68 Jahren (Art. 9 Abs. 2 BGG) führt dazu, dass Bundesrichter ihr Amt auch während einer laufenden Amtsperiode niederlegen müssen. Für **Nationalräte** bedeutet die vierjährige Amtsdauer, dass sie sich regelmässig dem Wählervotum stellen müssen, was die demokratische Rückbindung verstärkt. Bei **Bundesräten** hat sich trotz formeller Wiederwählbarkeit eine Praxis der faktischen Inamovibilität entwickelt — Nichtwiederwahlen sind äusserst selten. Die **Bundeskanzlerin oder der Bundeskanzler** wird zeitgleich mit dem Bundesrat für vier Jahre gewählt (→ Art. 175 Abs. 2 BV), wodurch die Kohärenz der Exekutive gesichert wird. Bei vorzeitigen Rücktritten erfolgen Ersatzwahlen nur für den Rest der laufenden Amtsdauer.

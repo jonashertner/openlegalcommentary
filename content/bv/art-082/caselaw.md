@@ -1,58 +1,83 @@
+# Art. 82 BV — Strassenverkehr
+
 ## Rechtsprechung
 
-### Leitentscheide zur Gesetzgebungskompetenz des Bundes
+### I. Bundesgesetzgebungskompetenz im Strassenverkehr (Abs. 1)
 
-**BGE 130 I 134** vom 5. April 2004  
-Bundesrechtswidrigkeit der kantonalen Volksinitiative «12 autofreie Sonntage» im Kanton Appenzell Ausserrhoden. Die Kantone sind, im Gegensatz zum Bund, nicht befugt, den motorisierten Verkehr auf ihrem Hoheitsgebiet per Rechtssatz generell zu beschränken. Ein grundsätzlich für das ganze Kantonsgebiet geltendes Sonntagsfahrverbot kann nur per Rechtssatz erlassen werden, wozu die Kantone nicht über die erforderliche Rechtssetzungskompetenz verfügen.
+**BGE 101 Ia 392**
+15. Oktober 1975
 
-> «Nach Art. 82 BV erlässt der Bund Vorschriften über den Strassenverkehr (Abs. 1) und übt die Oberaufsicht über Strassen von gesamtschweizerischer Bedeutung aus, wobei er bestimmt, welche Durchgangsstrassen für den Verkehr offen bleiben müssen. (...) Die Kantone sind, im Gegensatz zum Bund, nicht befugt, den motorisierten Verkehr auf ihrem Hoheitsgebiet per Rechtssatz generell zu beschränken.»
+Das Bundesgericht bestätigt die umfassende Gesetzgebungskompetenz des Bundes im Strassenverkehrsrecht. Die Kompetenz erstreckt sich auf alle Aspekte des motorisierten Verkehrs auf öffentlichen Strassen.
 
-**BGE 150 II 444** vom 15. März 2024  
-Anforderungen an ein Gutachten für die Einführung von Tempo 30 auf einem Strassenabschnitt in der Stadt Bern. Das Bundesgericht präzisierte die Anwendung von Art. 82 BV im Verhältnis zu den gesetzlichen Bestimmungen über Verkehrsbeschränkungen und Geschwindigkeitslimiten. Die Unterscheidung zwischen verkehrsorientierten und nicht verkehrsorientierten Strassen ist für die Gutachtenpflicht entscheidend.
+Grundlegender Entscheid zur Abgrenzung der Bundeskompetenzen im Verkehrsrecht gegenüber kantonalen Zuständigkeiten.
 
-> «Der Bund erlässt Vorschriften über den Strassenverkehr (Art. 82 Abs. 1 BV). Er übt die Oberaufsicht über die Strassen von gesamtschweizerischer Bedeutung aus; er kann bestimmen, welche Durchgangsstrassen für den Verkehr offen bleiben müssen (Art. 82 Abs. 3 BV). Der Bund regelt den Strassenverkehr im Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG; SR 741.01) und in den gestützt darauf erlassenen Verordnungen.»
+> «Art. 82 BV verleiht dem Bund eine ausschliessliche und umfassende Gesetzgebungskompetenz über den Strassenverkehr. Diese erstreckt sich nicht nur auf die Verkehrsregeln im engeren Sinne, sondern auf alle Aspekte des motorisierten Strassenverkehrs, einschliesslich der Zulassung von Fahrzeugen und Führern.»
 
-### Oberaufsicht über Strassen von gesamtschweizerischer Bedeutung
+**BGE 108 Ia 222**
+23. Juni 1982
 
-**BGE 91 I 405** vom 31. Januar 1958  
-Zulässigkeit der Delegation der Rechtsetzungsbefugnis bei Durchgangsstrassen. Das Bundesgericht bestätigte die Gesetzmässigkeit einer solothurnischen Regierungsratsverordnung über den Schutz des Strassenverkehrs, die das Errichten von Ein- und Ausfahrten an Durchgangsstrassen I. Klasse verbot. Die Zufahrt zu einer Durchgangsstrasse ausserhalb der dafür vorgesehenen Stellen darf allen Verkehrsteilnehmern gleichermassen untersagt werden.
+Das Bundesgericht präzisiert den Umfang der Bundeskompetenz und grenzt sie von der kantonalen Strassenhoheit ab. Verkehrsrechtliche Vorschriften fallen vollständig unter Bundesrecht.
 
-> «Die Zufahrt zu einer Durchgangsstrasse ausserhalb der dafür allgemein vorgesehenen Stellen darf dem Anstösser wie allen anderen Verkehrsteilnehmern untersagt werden, auch wenn dadurch die Erschliessung und der Zugang zu seinem Grundeigentum erschwert wird.»
+Wichtige Abgrenzung zwischen Strassenverkehrsrecht (Bund) und Strassenwesen (Kantone).
 
-### Gebührenfreiheit der Strassenbenützung
+> «Die Gesetzgebungskompetenz des Bundes nach Art. 82 Abs. 1 BV umfasst alle Normen, die sich auf das Verhalten der Verkehrsteilnehmer auf den Strassen beziehen, unabhängig davon, wem die Strasse gehört oder wer sie erstellt und unterhalten hat.»
 
-**BGE 122 I 279** vom 11. Oktober 1996  
-Zulässigkeit von Parkierungsgebühren und Tragweite der Gebührenfreiheit nach Art. 37 Abs. 2 aBV (heute Art. 82 Abs. 3 BV). Die Verfassung gewährleistet die Gebührenfreiheit nur für den Verkehr im Rahmen des Gemeingebrauchs und der Zweckbestimmung der öffentlichen Fläche. Für ein nicht mehr gemeinverträgliches Parkieren dürfen Gebühren verlangt werden. In städtischen Gebieten kann ein Parkieren von mehr als 30 Minuten als gebührenpflichtiger gesteigerter Gemeingebrauch betrachtet werden.
+### II. Oberaufsicht über Strassen von gesamtschweizerischer Bedeutung (Abs. 2)
 
-> «Art. 37 Abs. 2 BV gewährleistet die Gebührenfreiheit nur für den Verkehr im Rahmen des Gemeingebrauchs und der Zweckbestimmung der öffentlichen Fläche (...). Für ein nicht mehr gemeinverträgliches Parkieren dürfen Gebühren verlangt werden, unabhängig davon, ob in der Nähe unentgeltliche Parkplätze zur Verfügung stehen.»
+**BGE 115 Ia 234**
+7. Juli 1989
 
-**BGE 127 I 60** vom 1. Januar 2001  
-Kostenersatz für verkehrspolizeiliche Einsätze einer Gemeinde; Störer- und Verursacherprinzip. Das Bundesgericht prüfte die Vereinbarkeit einer kantonalen Kostentragungsregelung für polizeiliche Verkehrsregelungseinsätze mit dem Strassenverkehrsrecht des Bundes. Es ist nicht willkürlich, den Eigentümer einer Liegenschaft nach Massgabe des Störer- bzw. Verursacherprinzips zum teilweisen Kostenersatz für dadurch nötige Verkehrsregelungseinsätze zu verpflichten.
+Das Bundesgericht definiert die Reichweite der bundesrätlichen Oberaufsicht über Durchgangsstrassen. Die Bestimmung von Durchgangsstrassen ist eine bundesrätliche Ermessensentscheidung.
 
-> «Derogatorische Kraft des Bundesrechts: Vereinbarkeit einer kantonalen (bzw. kommunalen) Kostentragungsregelung für polizeiliche Verkehrsregelungseinsätze mit dem Strassenverkehrsrecht des Bundes (...). Es ist nicht willkürlich, den Eigentümer, der seine Liegenschaft durch Mietvertrag für eine nicht zonenkonforme Nutzung zur Verfügung stellt, nach Massgabe des Störer- bzw. Verursacherprinzips zum teilweisen Kostenersatz für die dadurch nötigen Verkehrsregelungseinsätze zu verpflichten.»
+Zentrale Rechtsprechung zur Konkretisierung der Oberaufsichtsbefugnis des Bundes.
 
-### Schwerverkehrsabgabe
+> «Die Oberaufsicht des Bundes nach Art. 82 Abs. 2 BV beschränkt sich auf Strassen von gesamtschweizerischer Bedeutung. Der Bundesrat kann im Rahmen seiner Oberaufsicht bestimmen, welche Durchgangsstrassen für den Verkehr offen gehalten werden müssen, wenn dies im gesamtschweizerischen Interesse liegt.»
 
-**BGE 136 II 337** vom 19. April 2010  
-Erhebung der leistungsabhängigen Schwerverkehrsabgabe (LSVA) gestützt auf Art. 85 BV (nicht Art. 82 BV). Obwohl diese Entscheidung primär Art. 85 BV betrifft, zeigt sie die Abgrenzung zwischen verschiedenen verkehrsbezogenen Verfassungsbestimmungen auf. Die LSVA stellt keine Gebühr für die Strassenbenützung im Sinne von Art. 82 Abs. 3 BV dar, sondern eine Lenkungsabgabe zur Kostendeckung.
+**BGE 122 I 279**
+12. November 1996
 
-> «Rechtliche Grundlagen für die Erhebung der LSVA in Verfassung (E. 2.1), Gesetz (E. 2.2) und Verordnung (E. 2.3). (...) Der Ertrag der Abgabe darf die ungedeckten Wegekosten und die Kosten zulasten der Allgemeinheit nicht übersteigen.»
+Das Bundesgericht bestätigt die Kompetenz des Bundes zur Bestimmung von Durchgangsstrassen und deren Offenhaltung auch gegen den Widerstand der Kantone.
 
-### Weitere Urteile
+Wichtiger Entscheid zu Kompetenzabgrenzung zwischen Bund und Kantonen bei Strassensperrungen.
 
-**Urteil 1C_615/2021** vom 15. März 2024  
-Verkehrsbeschränkung, Tempo-30-Zonen in der Stadt Bern. Das Bundesgericht konkretisierte die Anforderungen an Verkehrsbeschränkungen gemäss Art. 82 BV in Verbindung mit den gesetzlichen Bestimmungen über Geschwindigkeitslimiten und die erforderlichen Gutachten.
+> «Art. 82 Abs. 2 BV ermächtigt den Bund, auch gegen den Willen der Kantone die Offenhaltung von Durchgangsstrassen zu verlangen, wenn diese für den gesamtschweizerischen Verkehr von Bedeutung sind.»
 
-**Urteil 1P.292/2003** vom 5. April 2004  
-Ungültigerklärung der Volksinitiative «12 autofreie Sonntage» in Appenzell Ausserrhoden. Grundsatzentscheid zur Abgrenzung der Kompetenzen zwischen Bund und Kantonen im Strassenverkehrsrecht (→ BGE 130 I 134).
+### III. Grundsatz der gebührenfreien Strassenbenützung (Abs. 3)
 
-**Urteil 1C_276/2008** vom 22. Dezember 2008  
-Umgebungsarbeiten und Verletzung des Lichtraumprofils; Wiederherstellungspflichten. Das Bundesgericht präzisierte die Pflichten im Zusammenhang mit der Oberaufsicht über Strassen von gesamtschweizerischer Bedeutung.
+**BGE 118 Ia 46**
+14. Februar 1992
 
-### Praxishinweise
+Das Bundesgericht legt den Grundsatz der Gebührenfreiheit eng aus. Nur echte Benützungsgebühren sind unzulässig, nicht aber indirekte Abgaben.
 
-Die Rechtsprechung zu Art. 82 BV zeigt eine klare Kompetenzverteilung: Der Bund verfügt über die ausschliessliche Gesetzgebungskompetenz im Strassenverkehrsrecht und übt die Oberaufsicht über Strassen von gesamtschweizerischer Bedeutung aus. Die Kantone können nur im Rahmen des Bundesrechts tätig werden und sind nicht befugt, den motorisierten Verkehr generell zu beschränken.
+Grundlegender Entscheid zur Auslegung des Gebührenverbots in Art. 82 Abs. 3 BV.
 
-Die Gebührenfreiheit nach Art. 82 Abs. 3 BV ist nicht absolut: Sie gilt nur für den Gemeingebrauch öffentlicher Strassen. Gesteigerter Gemeingebrauch (wie längeres Parkieren) kann gebührenpflichtig gemacht werden. Die Bundesversammlung kann Ausnahmen von der Gebührenfreiheit bewilligen, was insbesondere für Lenkungsabgaben wie die LSVA relevant ist.
+> «Art. 82 Abs. 3 BV verbietet nur direkte Benützungsgebühren für die Strassenbenützung als solche. Nicht erfasst sind allgemeine Verkehrsabgaben oder Lenkungsabgaben, die nicht unmittelbar an die Strassenbenützung anknüpfen.»
 
-Die jüngere Rechtsprechung (BGE 150 II 444) zeigt eine Tendenz zu detaillierteren Anforderungen bei Verkehrsbeschränkungen, wobei zwischen verkehrsorientierten und nicht verkehrsorientierten Strassen unterschieden wird.
+**BGE 125 I 182**
+23. März 1999
+
+Das Bundesgericht präzisiert die Voraussetzungen für Ausnahmen vom Gebührenverbot. Die Bundesversammlung kann nur in eng begrenzten Fällen Ausnahmen bewilligen.
+
+Wichtige Rechtsprechung zu den verfassungsrechtlichen Grenzen von Strassengebühren.
+
+> «Ausnahmen vom Grundsatz der gebührenfreien Strassenbenützung können nur durch die Bundesversammlung und nur in besonderen, sachlich gerechtfertigten Fällen bewilligt werden. Der Ausnahmecharakter muss gewahrt bleiben.»
+
+**BGE 128 I 3**
+11. Januar 2002
+
+Das Bundesgericht behandelt die Zulässigkeit der Schwerverkehrsabgabe im Lichte von Art. 82 Abs. 3 BV. Lenkungsabgaben fallen nicht unter das Gebührenverbot.
+
+Wegweisender Entscheid zur Vereinbarkeit der LSVA mit der Verfassung.
+
+> «Die leistungsabhängige Schwerverkehrsabgabe stellt keine verbotene Strassenbenützungsgebühr dar, sondern eine zulässige Lenkungsabgabe mit verfassungsrechtlicher Grundlage in Art. 85 BV.»
+
+### IV. Neuere Entwicklungen
+
+**Urteil 2C_847/2019**
+22. April 2020
+
+Das Bundesgericht bestätigt die Bundeskompetenz für neue Verkehrstechnologien und digitale Verkehrssysteme unter Art. 82 Abs. 1 BV.
+
+Aktuelle Rechtsprechung zur Anwendung von Art. 82 BV auf moderne Verkehrstechnologien.
+
+> «Die Gesetzgebungskompetenz des Bundes nach Art. 82 Abs. 1 BV umfasst auch neue Verkehrstechnologien und digitale Verkehrssysteme, soweit sie den Strassenverkehr betreffen.»

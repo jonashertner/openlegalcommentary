@@ -1,0 +1,11 @@
+# Aperçu
+
+L'art. 140 Cst. règle quand le peuple suisse doit obligatoirement voter sur des décisions politiques importantes. La disposition distingue entre deux procédures : le référendum obligatoire (al. 1) et la votation populaire obligatoire (al. 2).
+
+**Pour le référendum obligatoire**, le peuple et les cantons (États) doivent approuver. Cela s'applique à trois cas : Toutes les modifications de la Constitution sont automatiquement soumises à cette règle — même de petits changements de texte déclenchent une votation (Epiney/Diezig, BSK BV, Art. 140 N. 10). Deuxièmement, les adhésions à des organisations internationales de sécurité ou à des communautés supranationales doivent être soumises au peuple. Les **communautés supranationales** sont selon la définition du Conseil fédéral des organisations dotées d'organes indépendants qui peuvent prendre des décisions immédiatement contraignantes par des décisions majoritaires (Conseil fédéral, cit. in Epiney/Diezig, BSK BV, Art. 140 N. 18). L'UE en est l'exemple classique. Pour l'**Espace économique européen (EEE)**, il est controversé de savoir s'il est supranational (Epiney/Diezig, BSK BV, Art. 140 N. 19). Troisièmement, les lois fédérales urgentes sans base constitutionnelle sont soumises au peuple si elles s'appliquent pendant plus d'un an.
+
+**Pour la votation populaire obligatoire**, seul le peuple décide, sans que les cantons doivent approuver. Cela concerne les initiatives populaires pour la révision totale de la Constitution et les initiatives rejetées sous la forme de suggestion générale. Si le Conseil national et le Conseil des États ne peuvent pas s'entendre sur la nécessité d'une révision totale, le peuple décide également.
+
+**Exemple** : Si la Suisse veut adhérer à l'UE, le peuple et les États doivent approuver, car l'UE est une communauté supranationale. Si quelqu'un veut lancer une initiative populaire pour une révision complète de la Constitution, la majorité du peuple suffit.
+
+La votation a lieu automatiquement — les autorités n'ont pas le choix (l'art. 140 est exhaustif, Epiney/Diezig, BSK BV, Art. 140 N. 10). Les arrêtés parlementaires concernant l'organisation de tels référendums ne peuvent pas être contestés devant le Tribunal fédéral (arrêt 1C_529/2022 consid. 3).

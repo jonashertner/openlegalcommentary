@@ -1,0 +1,9 @@
+## Aperçu
+
+L'art. 133 Cst. confère à la Confédération le pouvoir exclusif sur les droits de douane et autres redevances perçues lors du trafic transfrontalier de marchandises. Cette disposition constitutionnelle fédérale constitue un pilier fondamental du droit économique suisse et remonte à la fondation de l'État fédéral en 1848 (Oesch, BSK BV, art. 133 n. 1).
+
+La norme couvre toutes les redevances perçues lors du passage frontalier de marchandises. Cela comprend aussi bien les droits de douane classiques que d'autres redevances comme les émoluments pour les prestations douanières. Selon la doctrine dominante, l'art. 133 Cst. comprend tant les droits de douane fiscaux (pour le financement de l'État) que les droits de douane économiques (pour la protection de l'économie nationale), car une limitation aux seuls droits fiscaux ne serait guère opportune (Oesch, BSK BV, art. 133 n. 15).
+
+La compétence fédérale est exclusive : les cantons ne peuvent percevoir leurs propres droits de douane ni réglementer la procédure douanière (**ATF 151 II 533 consid. 1.2.2**). L'application pratique s'effectue aujourd'hui principalement par la loi sur les douanes et se conforme aux engagements internationaux de la Suisse, notamment au droit du commerce mondial (droit OMC) et aux accords de libre-échange.
+
+**Exemple** : Une entreprise importe des machines d'Allemagne. Elle doit payer le taux douanier fixé dans le tarif des douanes et respecter la procédure douanière de droit fédéral. Les autorités cantonales ne peuvent percevoir de redevances supplémentaires ni prescrire leurs propres procédures.

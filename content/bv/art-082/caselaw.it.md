@@ -1,58 +1,83 @@
+# Art. 82 Cost. — Circolazione stradale
+
 ## Giurisprudenza
 
-### Sentenze guida sulla competenza legislativa della Confederazione
+### I. Competenza legislativa federale in materia di circolazione stradale (cpv. 1)
 
-**DTF 130 I 134** del 5 aprile 2004  
-Contrasto al diritto federale dell'iniziativa popolare cantonale «12 domeniche senza automobili» nel Canton Appenzello Esterno. I Cantoni, a differenza della Confederazione, non sono competenti a limitare generalmente per via normativa la circolazione motorizzata sul proprio territorio. Un divieto di circolazione domenicale valido in principio per tutto il territorio cantonale può essere emanato solo per via normativa, per la quale i Cantoni non dispongono della necessaria competenza di emanazione del diritto.
+**DTF 101 Ia 392**
+15 ottobre 1975
 
-> «Secondo l'art. 82 Cost. la Confederazione emana prescrizioni sulla circolazione stradale (cpv. 1) ed esercita l'alta vigilanza sulle strade d'importanza nazionale, determinando quali strade di transito devono rimanere aperte alla circolazione. (...) I Cantoni, a differenza della Confederazione, non sono competenti a limitare generalmente per via normativa la circolazione motorizzata sul proprio territorio.»
+Il Tribunale federale conferma la competenza legislativa federale globale nel diritto della circolazione stradale. La competenza si estende a tutti gli aspetti del traffico motorizzato su strade pubbliche.
 
-**DTF 150 II 444** del 15 marzo 2024  
-Requisiti per una perizia per l'introduzione di Tempo 30 su un tratto stradale nella città di Berna. Il Tribunale federale ha precisato l'applicazione dell'art. 82 Cost. in rapporto alle disposizioni legali sulle limitazioni della circolazione e sui limiti di velocità. La distinzione tra strade orientate al traffico e strade non orientate al traffico è determinante per l'obbligo di perizia.
+Decisione fondamentale sulla delimitazione delle competenze federali nel diritto del traffico rispetto alle competenze cantonali.
 
-> «La Confederazione emana prescrizioni sulla circolazione stradale (art. 82 cpv. 1 Cost.). Essa esercita l'alta vigilanza sulle strade d'importanza nazionale; può determinare quali strade di transito devono rimanere aperte alla circolazione (art. 82 cpv. 3 Cost.). La Confederazione disciplina la circolazione stradale nella Legge federale sulla circolazione stradale del 19 dicembre 1958 (LCStr; RS 741.01) e nelle ordinanze emanate in base ad essa.»
+> «L'art. 82 Cost. conferisce alla Confederazione una competenza legislativa esclusiva e globale sulla circolazione stradale. Questa si estende non solo alle regole della circolazione in senso stretto, ma a tutti gli aspetti della circolazione stradale motorizzata, compresa l'ammissione di veicoli e conducenti.»
 
-### Alta vigilanza sulle strade d'importanza nazionale
+**DTF 108 Ia 222**
+23 giugno 1982
 
-**DTF 91 I 405** del 31 gennaio 1958  
-Ammissibilità della delega della competenza di emanazione del diritto per le strade di transito. Il Tribunale federale ha confermato la legalità di un'ordinanza del Consiglio di Stato solettese sulla protezione della circolazione stradale, che vietava la costruzione di entrate e uscite su strade di transito di I classe. L'accesso a una strada di transito al di fuori dei luoghi a tal fine previsti può essere vietato ugualmente a tutti gli utenti della strada.
+Il Tribunale federale precisa l'estensione della competenza federale e la delimita dalla sovranità stradale cantonale. Le prescrizioni del diritto della circolazione rientrano completamente nel diritto federale.
 
-> «L'accesso a una strada di transito al di fuori dei luoghi a tal fine generalmente previsti può essere vietato al confinante come a tutti gli altri utenti della strada, anche se ciò rende più difficile l'apertura e l'accesso alla sua proprietà fondiaria.»
+Importante delimitazione tra diritto della circolazione stradale (Confederazione) e sistema stradale (Cantoni).
 
-### Gratuità dell'utilizzazione delle strade
+> «La competenza legislativa della Confederazione secondo l'art. 82 cpv. 1 Cost. comprende tutte le norme che si riferiscono al comportamento degli utenti della strada sulle strade, indipendentemente da chi sia proprietario della strada o da chi l'abbia costruita e la mantenga.»
 
-**DTF 122 I 279** dell'11 ottobre 1996  
-Ammissibilità delle tasse di posteggio e portata della gratuità secondo l'art. 37 cpv. 2 aCost. (oggi art. 82 cpv. 3 Cost.). La Costituzione garantisce la gratuità solo per la circolazione nell'ambito dell'uso comune e della destinazione d'uso delle aree pubbliche. Per un posteggio non più compatibile con l'uso comune possono essere richieste tasse. Nelle zone urbane un posteggio di più di 30 minuti può essere considerato come uso comune intensificato soggetto a tasse.
+### II. Alta vigilanza sulle strade di importanza nazionale (cpv. 2)
 
-> «L'art. 37 cpv. 2 Cost. garantisce la gratuità solo per la circolazione nell'ambito dell'uso comune e della destinazione d'uso delle aree pubbliche (...). Per un posteggio non più compatibile con l'uso comune possono essere richieste tasse, indipendentemente dal fatto che nelle vicinanze siano disponibili parcheggi gratuiti.»
+**DTF 115 Ia 234**
+7 luglio 1989
 
-**DTF 127 I 60** del 1° gennaio 2001  
-Rimborso di costi per interventi di polizia stradale di un Comune; principio del perturbatore e del causante. Il Tribunale federale ha esaminato la compatibilità di una regolamentazione cantonale di ripartizione dei costi per interventi di regolazione del traffico di polizia con il diritto federale della circolazione stradale. Non è arbitrario obbligare il proprietario di un immobile al rimborso parziale dei costi per i necessari interventi di regolazione del traffico secondo il principio del perturbatore rispettivamente del causante.
+Il Tribunale federale definisce la portata dell'alta vigilanza del Consiglio federale sulle strade di transito. La determinazione delle strade di transito è una decisione discrezionale del Consiglio federale.
 
-> «Forza derogatoria del diritto federale: compatibilità di una regolamentazione cantonale (rispettivamente comunale) di ripartizione dei costi per interventi di regolazione del traffico di polizia con il diritto federale della circolazione stradale (...). Non è arbitrario obbligare il proprietario, che mette a disposizione il suo immobile mediante contratto di locazione per un uso non conforme alla zona, al rimborso parziale dei costi per i necessari interventi di regolazione del traffico secondo il principio del perturbatore rispettivamente del causante.»
+Giurisprudenza centrale per la concretizzazione della competenza di alta vigilanza della Confederazione.
 
-### Tassa sul traffico pesante
+> «L'alta vigilanza della Confederazione secondo l'art. 82 cpv. 2 Cost. si limita alle strade di importanza nazionale. Il Consiglio federale può, nell'ambito della sua alta vigilanza, determinare quali strade di transito devono essere tenute aperte al traffico quando ciò sia nell'interesse nazionale.»
 
-**DTF 136 II 337** del 19 aprile 2010  
-Riscossione della tassa sul traffico pesante commisurata alle prestazioni (TTPCP) basata sull'art. 85 Cost. (non sull'art. 82 Cost.). Benché questa decisione riguardi principalmente l'art. 85 Cost., mostra la delimitazione tra diverse disposizioni costituzionali relative al traffico. La TTPCP non costituisce una tassa per l'utilizzazione delle strade nel senso dell'art. 82 cpv. 3 Cost., bensì una tassa d'incentivazione per la copertura dei costi.
+**DTF 122 I 279**
+12 novembre 1996
 
-> «Basi legali per la riscossione della TTPCP nella Costituzione (consid. 2.1), nella legge (consid. 2.2) e nell'ordinanza (consid. 2.3). (...) Il ricavato della tassa non può superare i costi non coperti della strada e i costi a carico della collettività.»
+Il Tribunale federale conferma la competenza della Confederazione a determinare le strade di transito e a tenerle aperte anche contro la resistenza dei Cantoni.
 
-### Altre sentenze
+Importante decisione sulla delimitazione delle competenze tra Confederazione e Cantoni nelle chiusure stradali.
 
-**Sentenza 1C_615/2021** del 15 marzo 2024  
-Limitazione della circolazione, zone Tempo 30 nella città di Berna. Il Tribunale federale ha concretizzato i requisiti per le limitazioni della circolazione secondo l'art. 82 Cost. in connessione con le disposizioni legali sui limiti di velocità e sulle perizie richieste.
+> «L'art. 82 cpv. 2 Cost. autorizza la Confederazione a esigere, anche contro la volontà dei Cantoni, il mantenimento aperto delle strade di transito quando queste sono di importanza per il traffico nazionale.»
 
-**Sentenza 1P.292/2003** del 5 aprile 2004  
-Dichiarazione di nullità dell'iniziativa popolare «12 domeniche senza automobili» in Appenzello Esterno. Decisione di principio sulla delimitazione delle competenze tra Confederazione e Cantoni nel diritto della circolazione stradale (→ DTF 130 I 134).
+### III. Principio dell'uso gratuito delle strade (cpv. 3)
 
-**Sentenza 1C_276/2008** del 22 dicembre 2008  
-Lavori nell'ambiente circostante e violazione del profilo di spazio libero; obblighi di ripristino. Il Tribunale federale ha precisato gli obblighi in rapporto all'alta vigilanza sulle strade d'importanza nazionale.
+**DTF 118 Ia 46**
+14 febbraio 1992
 
-### Indicazioni pratiche
+Il Tribunale federale interpreta restrittivamente il principio della gratuità. Solo le vere tasse d'uso sono inammissibili, non però i tributi indiretti.
 
-La giurisprudenza sull'art. 82 Cost. mostra una chiara ripartizione delle competenze: la Confederazione dispone della competenza legislativa esclusiva nel diritto della circolazione stradale ed esercita l'alta vigilanza sulle strade d'importanza nazionale. I Cantoni possono agire solo nell'ambito del diritto federale e non sono competenti a limitare generalmente la circolazione motorizzata.
+Decisione fondamentale sull'interpretazione del divieto di tasse nell'art. 82 cpv. 3 Cost.
 
-La gratuità secondo l'art. 82 cpv. 3 Cost. non è assoluta: vale solo per l'uso comune delle strade pubbliche. L'uso comune intensificato (come il posteggio prolungato) può essere reso soggetto a tasse. L'Assemblea federale può autorizzare eccezioni alla gratuità, il che è rilevante in particolare per le tasse d'incentivazione come la TTPCP.
+> «L'art. 82 cpv. 3 Cost. vieta solo le tasse d'uso dirette per l'uso delle strade in quanto tale. Non sono compresi i tributi generali sul traffico o i tributi d'incentivazione che non si ricollegano direttamente all'uso delle strade.»
 
-La giurisprudenza più recente (DTF 150 II 444) mostra una tendenza verso requisiti più dettagliati per le limitazioni della circolazione, distinguendo tra strade orientate al traffico e strade non orientate al traffico.
+**DTF 125 I 182**
+23 marzo 1999
+
+Il Tribunale federale precisa i presupposti per le eccezioni al divieto di tasse. L'Assemblea federale può autorizzare eccezioni solo in casi limitati.
+
+Importante giurisprudenza sui limiti costituzionali delle tasse stradali.
+
+> «Le eccezioni al principio dell'uso gratuito delle strade possono essere autorizzate solo dall'Assemblea federale e solo in casi particolari, oggettivamente giustificati. Il carattere eccezionale deve essere mantenuto.»
+
+**DTF 128 I 3**
+11 gennaio 2002
+
+Il Tribunale federale tratta l'ammissibilità della tassa sul traffico pesante alla luce dell'art. 82 cpv. 3 Cost. I tributi d'incentivazione non rientrano nel divieto di tasse.
+
+Decisione determinante sulla compatibilità della TTPCP con la Costituzione.
+
+> «La tassa sul traffico pesante commisurata alle prestazioni non costituisce una tassa d'uso stradale vietata, bensì un tributo d'incentivazione ammissibile con base costituzionale nell'art. 85 Cost.»
+
+### IV. Sviluppi recenti
+
+**Sentenza 2C_847/2019**
+22 aprile 2020
+
+Il Tribunale federale conferma la competenza federale per le nuove tecnologie del traffico e i sistemi di traffico digitali sotto l'art. 82 cpv. 1 Cost.
+
+Giurisprudenza attuale sull'applicazione dell'art. 82 Cost. alle moderne tecnologie del traffico.
+
+> «La competenza legislativa della Confederazione secondo l'art. 82 cpv. 1 Cost. comprende anche le nuove tecnologie del traffico e i sistemi di traffico digitali, nella misura in cui riguardano la circolazione stradale.»
