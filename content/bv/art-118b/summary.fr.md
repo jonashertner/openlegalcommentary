@@ -1,0 +1,13 @@
+# Art. 118b Cst. — Recherche sur l'être humain
+
+## Aperçu
+
+L'art. 118b Cst. règle la recherche sur l'être humain dans le domaine de la médecine et de la biologie. Cette disposition constitutionnelle a été adoptée en 2010 avec 77,2% de voix favorables et confère à la Confédération une compétence législative étendue pour la recherche humaine (FF 2007 7863). Elle protège simultanément la dignité et la personnalité des participants à la recherche par des principes contraignants.
+
+**Qui est concerné ?** La norme saisit toutes les personnes qui participent à la recherche médicale ou biologique — des patients dans les études cliniques aux sujets sains dans les études de prévention (art. 2 LRH). La recherche avec des matériels biologiques et des données de santé est également couverte. Les personnes incapables de discernement (enfants, personnes démentes) bénéficient d'une protection particulière (art. 118b al. 2 let. c Cst. ; art. 22 LRH).
+
+**Quelles sont les conséquences juridiques ?** Toute recherche humaine nécessite une autorisation d'une commission d'éthique (art. 45 LRH). Les chercheurs doivent informer complètement les participants et obtenir leur consentement écrit (art. 16 LRH). Celui-ci peut être retiré à tout moment. En cas de violation, des sanctions jusqu'à trois ans d'emprisonnement sont prévues (art. 62 LRH). Belser/Molinari soulignent que la disposition constitutionnelle « agit comme concrétisation constitutionnelle du champ de tension de droit fondamental entre liberté de la recherche et protection de la personnalité » (Belser/Molinari, BSK BV, Art. 118b N. 1).
+
+**Exemple :** Un groupe pharmaceutique veut tester un nouveau médicament contre le cancer. Il doit présenter le protocole d'étude à une commission d'éthique, contracter une assurance (art. 20 LRH) et informer chaque patient sur les risques et les bénéfices. L'étude est enregistrée publiquement (art. 56 LRH). Ce n'est qu'après évaluation éthique positive et consentement écrit du patient que la recherche peut commencer. Le Tribunal fédéral a précisé : « Il existe un intérêt public à protéger la dignité, la personnalité et la santé de l'être humain dans la recherche » (ATF 2C_885/2018 consid. 4.3).
+
+La disposition constitutionnelle équilibre liberté de la recherche et protection de l'être humain. Elle permet le progrès médical sous des conditions éthiques strictes et crée des standards uniformes à l'échelle suisse par la loi sur la recherche humaine (LRH ; RS 810.30) entrée en vigueur en 2014.

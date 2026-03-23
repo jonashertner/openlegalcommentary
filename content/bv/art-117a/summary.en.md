@@ -1,0 +1,11 @@
+# Overview
+
+Art. 117a BV obligates the Confederation and the cantons jointly to ensure sufficient, high-quality primary medical care that is accessible to all. Family medicine (general internal medicine, pediatrics and adolescent medicine) is particularly recognized and promoted (Gächter/Renold-Burch, BSK BV, Art. 117a N. 6-23). This constitutional provision emerged as a direct counter-proposal to the popular initiative «Yes to family medicine» and was clearly adopted on 18 May 2014 with 88% yes votes (BBl 2010 2939; **1C_282/2014**).
+
+Primary medical care encompasses all outpatient and inpatient services of primary health care that serve as the first point of contact for health problems. This includes family doctors, pediatrics and adolescent medicine, emergency services, but also other health professions such as midwives. An example: When a child has a fever, the parents first turn to the local pediatrician. This practitioner must be accessible, affordable and professionally qualified.
+
+The Confederation must regulate two specific areas by law: First, the education and continuing education of primary care providers and second, appropriate remuneration for their services (Gächter/Renold-Burch, BSK BV, Art. 117a N. 34-38). Unlike the social goals in Art. 41 BV, Art. 117a BV is directly enforceable (**BGE 151 V 100**). Citizens can invoke violations of primary care before the courts.
+
+The cantons may limit the number of licensed physicians, but must ensure that primary care is not endangered. The Federal Supreme Court confirmed this practice, as long as regional distinctions are made: Where there is a shortage of doctors, promotion must be provided; where there is oversupply, restrictions may be imposed (**BGE 151 V 100**).
+
+The provision strengthens local medical care and combats the shortage of family doctors. It forms the constitutional basis for the «Master Plan Family Medicine», which provides for concrete promotion measures such as practice assistance and improved continuing education support (Gächter/Renold-Burch, BSK BV, Art. 117a N. 39-40).

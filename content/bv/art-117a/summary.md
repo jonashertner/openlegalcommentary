@@ -1,3 +1,11 @@
-# Uebersicht
+# Übersicht
 
-Art. 117a BV — Art. 117a BV
+Art. 117a BV verpflichtet Bund und Kantone gemeinsam dazu, eine ausreichende, allen zugängliche medizinische Grundversorgung von hoher Qualität sicherzustellen. Die Hausarztmedizin (Allgemeine Innere Medizin, Kinder- und Jugendmedizin) wird dabei besonders anerkannt und gefördert (Gächter/Renold-Burch, BSK BV, Art. 117a N. 6-23). Diese Verfassungsbestimmung entstand als direkter Gegenentwurf zur Volksinitiative «Ja zur Hausarztmedizin» und wurde am 18. Mai 2014 mit 88% Ja-Stimmen deutlich angenommen (BBl 2010 2939; **1C_282/2014**).
+
+Die medizinische Grundversorgung umfasst alle ambulanten und stationären Leistungen der primären Gesundheitsversorgung, die als erste Anlaufstelle bei Gesundheitsproblemen dienen. Dazu gehören Hausärzte, Kinder- und Jugendmedizin, Notfalldienste, aber auch andere Gesundheitsberufe wie Hebammen. Ein Beispiel: Wenn ein Kind Fieber hat, wenden sich die Eltern zuerst an den Kinderarzt vor Ort. Dieser muss erreichbar, bezahlbar und fachlich qualifiziert sein.
+
+Der Bund muss zwei konkrete Bereiche gesetzlich regeln: Erstens die Aus- und Weiterbildung der Grundversorger und zweitens eine angemessene Vergütung für deren Leistungen (Gächter/Renold-Burch, BSK BV, Art. 117a N. 34-38). Anders als die Sozialziele in Art. 41 BV ist Art. 117a BV direkt durchsetzbar (**BGE 151 V 100**). Bürger können sich vor Gericht auf Verletzungen der Grundversorgung berufen.
+
+Die Kantone dürfen die Anzahl der zugelassenen Ärzte begrenzen, müssen aber sicherstellen, dass die Grundversorgung nicht gefährdet wird. Das Bundesgericht bestätigte diese Praxis, solange regional unterschieden wird: Wo Ärztemangel herrscht, muss gefördert werden; wo Überversorgung besteht, darf beschränkt werden (**BGE 151 V 100**).
+
+Die Bestimmung stärkt die wohnortnahe medizinische Versorgung und bekämpft den Hausärztemangel. Sie bildet die verfassungsrechtliche Grundlage für den «Masterplan Hausarztmedizin», der konkrete Förderungsmassnahmen wie die Praxisassistenz und bessere Weiterbildungsförderung vorsieht (Gächter/Renold-Burch, BSK BV, Art. 117a N. 39-40).

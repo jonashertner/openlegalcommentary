@@ -1,0 +1,13 @@
+# Panoramica
+
+L'art. 112a Cost. obbliga Confederazione e Cantoni a versare congiuntamente prestazioni complementari. Queste integrano le rendite AVS e AI quando non coprono completamente il fabbisogno vitale. La norma risale al 1972 ed è stata fondamentalmente rielaborata con la Nuova impostazione della perequazione finanziaria (NPC).
+
+Le prestazioni complementari si rivolgono a persone che percepiscono una rendita AVS o AI, ma che ciononostante non hanno abbastanza denaro per vivere. Sono interessate soprattutto le persone anziane e le persone con disabilità le cui rendite sono troppo basse. A differenza dell'aiuto sociale, gli interessati non devono esaurire tutto il patrimonio. Le prestazioni complementari coprono l'intero fabbisogno vitale – vale a dire tutto ciò che è necessario per una vita dignitosa.
+
+Le conseguenze giuridiche sono significative: l'art. 112a Cost. crea un mandato costituzionale vincolante. La Confederazione disciplina i dettagli nella Legge sulle prestazioni complementari (LPC). I Cantoni devono assicurare nell'attuazione che il fabbisogno vitale sia completamente coperto. Il Tribunale federale ha deciso più volte che i Cantoni non possono abusare della loro libertà di configurazione per minare la garanzia dell'esistenza.
+
+**Esempio:** Una pensionata di 75 anni riceve mensilmente 1800 franchi di rendita AVS. I suoi costi abitativi ammontano a 1200 franchi, le sue altre spese di sostentamento a 800 franchi – in totale ha bisogno di 2000 franchi al mese. La prestazione complementare di 200 franchi colma il divario tra rendita e fabbisogno vitale.
+
+L'importanza costituzionale delle prestazioni complementari risiede nella loro posizione sistematica tra assicurazione sociale e aiuto sociale. Secondo Gächter/Filippo esse formano un sistema autonomo del primo pilastro, che non è da attribuire né all'assicurazione sociale in senso stretto né all'aiuto sociale. Carigiet/Koch sottolineano che le prestazioni complementari devono impedire che i beneficiare di rendite AVS e AI dipendano dall'aiuto sociale. La giurisprudenza ha confermato questa finalità: le prestazioni complementari servono alla completa garanzia dell'esistenza e precedono l'aiuto sociale.
+
+Locher/Gächter caratterizzano le prestazioni complementari come prestazioni verificate in base al bisogno, ma non dipendenti dal bisogno. A differenza dell'aiuto sociale, non sono sussidiarie rispetto al sostegno privato. Dummermuth fa notare che l'ancoraggio costituzionale protegge le prestazioni complementari da esercizi di risparmio a breve termine. La riforma PC 2021 mostra tuttavia che anche le prestazioni ancorate costituzionalmente possono essere soggette a cambiamenti politici.

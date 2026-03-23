@@ -1,0 +1,11 @@
+# Overview
+
+Art. 122 FC allocates competences between the Confederation and the cantons in civil law. The Confederation has exclusive competence to enact laws on civil law (property law, contract law, family law) and civil procedure law (judicial proceedings). This federal competence is comprehensive and conclusive – in principle, no room remains for cantonal civil law under Art. 5 CC (Göksu, BSK BV, Art. 122 N. 5). The cantons, on the other hand, are responsible for organising their courts and for the practical administration of justice in civil matters.
+
+An example: Swiss law of obligations (CO) regulates purchase contracts uniformly throughout Switzerland. When someone buys a car, the same rules apply in Zurich as in Geneva. However, the cantons may themselves determine which court has jurisdiction in disputes and how court proceedings are organised. They must, however, apply the federal procedural rules of the Code of Civil Procedure (CCP).
+
+The allocation of competences has practical significance: If a canton enacts its own civil law rules, these are unconstitutional (**BGE 146 I 70**). The Federal Supreme Court applies various theories to distinguish between public law and private law, with no theory having a priori priority (**BGE 146 I 70** E. 5.2). It is disputed whether cantons may in exceptional cases use civil law instruments for public law purposes – older case law (**BGE 73 I 228**) permitted this, while more recent doctrine (Göksu, BSK BV, Art. 122 N. 6) rejects it.
+
+When establishing their court organisation, the cantons must observe federal law requirements, particularly the double degree of jurisdiction under Art. 75 para. 2 FSCA and the jurisdictional rules of the CCP (**BGE 137 III 217**). In voluntary jurisdiction (guardianship matters), the cantons have greater discretion, but must apply the CCP when federal law itself prescribes a judicial authority (**BGE 139 III 225**).
+
+This allocation of competences ensures uniform civil law throughout Switzerland while allowing for cantonal diversity in court organisation and judicial practice.

@@ -1,0 +1,13 @@
+# Art. 118b Cost. — Ricerca sull'essere umano
+
+## Panoramica
+
+L'art. 118b Cost. disciplina la ricerca sull'essere umano nel campo della medicina e della biologia. Questa disposizione costituzionale è stata accettata nel 2010 con il 77,2% di voti favorevoli e conferisce alla Confederazione una competenza legislativa globale per la ricerca umana (FF 2007 7759). Al contempo protegge la dignità e la personalità dei partecipanti alla ricerca mediante principi vincolanti.
+
+**Chi è interessato?** La norma contempla tutte le persone che partecipano a ricerche mediche o biologiche — dai pazienti in studi clinici ai probandi sani in studi di prevenzione (art. 2 LRU). Sono incluse anche le ricerche con materiale biologico e dati sanitari. Le persone incapaci di discernimento (bambini, dementi) godono di una protezione particolare (art. 118b cpv. 2 lett. c Cost.; art. 22 LRU).
+
+**Quali sono le conseguenze giuridiche?** Ogni ricerca umana necessita di un'autorizzazione da parte di una commissione d'etica (art. 45 LRU). I ricercatori devono informare esaurientemente i partecipanti e ottenere il loro consenso scritto (art. 16 LRU). Questo può essere ritirato in qualsiasi momento. In caso di violazioni sono previste pene fino a tre anni di privazione della libertà (art. 62 LRU). Belser/Molinari sottolineano che la disposizione costituzionale "agisce come concretizzazione costituzionale del campo di tensione di diritti fondamentali tra libertà della ricerca e protezione della personalità" (Belser/Molinari, BSK BV, Art. 118b N. 1).
+
+**Esempio:** Un gruppo farmaceutico vuole testare un nuovo medicamento contro il cancro. Deve sottoporre il protocollo dello studio a una commissione d'etica, stipulare un'assicurazione (art. 20 LRU) e informare ogni paziente sui rischi e benefici. Lo studio viene registrato pubblicamente (art. 56 LRU). Solo dopo una valutazione etica positiva e il consenso scritto del paziente può iniziare la ricerca. Il Tribunale federale ha chiarito: "Sussiste un interesse pubblico a proteggere la dignità, la personalità e la salute dell'essere umano nella ricerca" (DTF 2C_885/2018 consid. 4.3).
+
+La disposizione costituzionale bilancia libertà della ricerca e protezione dell'essere umano. Consente il progresso medico sotto severe condizioni etiche e crea standard uniformi in tutta la Svizzera mediante la legge sulla ricerca umana (LRU; RS 810.30) entrata in vigore nel 2014.

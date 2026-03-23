@@ -1,0 +1,13 @@
+# Aperçu
+
+L'art. 112a Cst. oblige la Confédération et les cantons à verser conjointement des prestations complémentaires. Celles-ci complètent les rentes AVS et AI lorsque ces dernières ne couvrent pas entièrement les besoins vitaux. Cette norme remonte à 1972 et a été fondamentalement révisée avec la réforme de la péréquation financière (RPT).
+
+Les prestations complémentaires s'adressent aux personnes qui touchent une rente AVS ou AI mais n'ont néanmoins pas assez d'argent pour vivre. Sont principalement concernées les personnes âgées et les personnes handicapées dont les rentes sont trop faibles. Contrairement à l'aide sociale, les bénéficiaires ne doivent pas épuiser toute leur fortune. Les prestations complémentaires couvrent l'ensemble des besoins vitaux – c'est-à-dire tout ce qui est nécessaire pour une vie digne.
+
+Les conséquences juridiques sont importantes : l'art. 112a Cst. crée un mandat constitutionnel contraignant. La Confédération règle les détails dans la loi sur les prestations complémentaires (LPC). Les cantons doivent, lors de la mise en œuvre, garantir que les besoins vitaux sont entièrement couverts. Le Tribunal fédéral a décidé à plusieurs reprises que les cantons ne peuvent pas abuser de leur liberté d'organisation pour saper la garantie de l'existence.
+
+**Exemple :** Une retraitée de 75 ans reçoit mensuellement 1800 francs de rente AVS. Ses frais de logement s'élèvent à 1200 francs, ses autres frais de subsistance à 800 francs – au total, elle a besoin de 2000 francs par mois. La prestation complémentaire de 200 francs comble l'écart entre la rente et les besoins vitaux.
+
+La signification constitutionnelle des prestations complémentaires réside dans leur position systématique entre l'assurance sociale et l'aide sociale. Selon Gächter/Filippo, elles forment un système autonome du premier pilier qui ne peut être attribué ni à l'assurance sociale au sens strict ni à l'aide sociale. Carigiet/Koch soulignent que les prestations complémentaires doivent empêcher que les bénéficiaires de rentes AVS et AI dépendent de l'aide sociale. La jurisprudence a confirmé cette finalité : les prestations complémentaires servent à la garantie complète de l'existence et priment sur l'aide sociale.
+
+Locher/Gächter caractérisent les prestations complémentaires comme des prestations soumises à examen des ressources mais non dépendantes des besoins. Contrairement à l'aide sociale, elles ne sont pas subsidiaires par rapport au soutien privé. Dummermuth relève que l'ancrage constitutionnel protège les prestations complémentaires contre les exercices d'économies à court terme. La réforme PC 2021 montre cependant que même les prestations ancrées constitutionnellement peuvent subir des modifications politiques.

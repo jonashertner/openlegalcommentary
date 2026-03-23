@@ -1,3 +1,11 @@
-# Uebersicht
+# Übersicht
 
-Art. 122 BV — Art. 122 BV
+Art. 122 BV teilt die Zuständigkeiten zwischen Bund und Kantonen im Zivilrecht auf. Der Bund hat die ausschliessliche Kompetenz, Gesetze für das Zivilrecht (Eigentumsrecht, Vertragsrecht, Familienrecht) und das Zivilprozessrecht (gerichtliche Verfahren) zu erlassen. Diese Bundeskompetenz ist umfassend und abschliessend – es bleibt nach Art. 5 ZGB grundsätzlich kein Raum für kantonales Zivilrecht (Göksu, BSK BV, Art. 122 N. 5). Die Kantone sind dagegen zuständig für die Organisation ihrer Gerichte und für die praktische Rechtsprechung in Zivilsachen.
+
+Ein Beispiel: Das Schweizer Obligationenrecht (OR) regelt schweizweit einheitlich die Kaufverträge. Wenn jemand ein Auto kauft, gelten dieselben Regeln in Zürich wie in Genf. Die Kantone können jedoch selbst bestimmen, welches Gericht bei Streitigkeiten zuständig ist und wie das Gerichtsverfahren organisiert wird. Sie müssen aber die bundesrechtlichen Verfahrensregeln der Zivilprozessordnung (ZPO) anwenden.
+
+Die Kompetenzabgrenzung ist praktisch bedeutsam: Erlässt ein Kanton eigene zivilrechtliche Regeln, sind diese verfassungswidrig (**BGE 146 I 70**). Das Bundesgericht wendet zur Abgrenzung zwischen öffentlichem Recht und Privatrecht verschiedene Theorien an, wobei keine a priori Vorrang hat (**BGE 146 I 70** E. 5.2). Umstritten ist, ob Kantone in Ausnahmefällen zivilrechtliche Mittel für öffentlich-rechtliche Zwecke einsetzen dürfen – die ältere Rechtsprechung (**BGE 73 I 228**) liess dies zu, während die neuere Doktrin (Göksu, BSK BV, Art. 122 N. 6) dies ablehnt.
+
+Die Kantone müssen beim Aufbau ihrer Gerichtsorganisation die bundesrechtlichen Vorgaben beachten, insbesondere den doppelten Instanzenzug nach Art. 75 Abs. 2 BGG und die Zuständigkeitsregeln der ZPO (**BGE 137 III 217**). Bei der freiwilligen Gerichtsbarkeit (Vormundschaftssachen) haben die Kantone grössere Gestaltungsfreiheit, müssen aber die ZPO anwenden, wenn das Bundesrecht selbst eine gerichtliche Behörde vorschreibt (**BGE 139 III 225**).
+
+Diese Kompetenzverteilung gewährleistet schweizweit einheitliches Zivilrecht bei kantonaler Vielfalt in der Gerichtsorganisation und Rechtsprechung.

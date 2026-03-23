@@ -1,3 +1,13 @@
-# Uebersicht
+# Übersicht
 
-Art. 112a BV — Art. 112a BV
+Art. 112a BV verpflichtet Bund und Kantone gemeinsam zur Ausrichtung von Ergänzungsleistungen. Diese ergänzen die AHV- und IV-Renten, wenn diese den Existenzbedarf nicht vollständig decken. Die Norm geht auf das Jahr 1972 zurück und wurde mit der Neugestaltung des Finanzausgleichs (NFA) grundlegend überarbeitet.
+
+Die Ergänzungsleistungen richten sich an Personen, die eine AHV- oder IV-Rente beziehen, aber trotzdem nicht genug Geld zum Leben haben. Betroffen sind vor allem ältere Menschen und Menschen mit Behinderungen, deren Renten zu niedrig sind. Anders als bei der Sozialhilfe müssen die Betroffenen nicht alles Vermögen aufbrauchen. Die Ergänzungsleistungen decken den gesamten Existenzbedarf ab – das heisst alles, was für ein menschenwürdiges Leben nötig ist.
+
+Die Rechtsfolgen sind bedeutsam: Art. 112a BV schafft einen verbindlichen Verfassungsauftrag. Der Bund regelt die Einzelheiten im Ergänzungsleistungsgesetz (ELG). Die Kantone müssen bei der Umsetzung sicherstellen, dass der Existenzbedarf vollständig gedeckt wird. Das Bundesgericht hat mehrfach entschieden, dass Kantone ihre Gestaltungsfreiheit nicht dazu missbrauchen dürfen, die Existenzsicherung zu untergraben.
+
+**Beispiel:** Eine 75-jährige Rentnerin erhält monatlich 1800 Franken AHV-Rente. Ihre Wohnkosten betragen 1200 Franken, ihre übrigen Lebenshaltungskosten 800 Franken – insgesamt benötigt sie 2000 Franken pro Monat. Die Ergänzungsleistung von 200 Franken schliesst die Lücke zwischen Rente und Existenzbedarf.
+
+Die verfassungsrechtliche Bedeutung der Ergänzungsleistungen liegt in ihrer systematischen Stellung zwischen Sozialversicherung und Sozialhilfe. Nach Gächter/Filippo bilden sie ein eigenständiges System der ersten Säule, das weder der Sozialversicherung im engeren Sinn noch der Sozialhilfe zuzuordnen ist. Carigiet/Koch betonen, dass die Ergänzungsleistungen verhindern sollen, dass AHV- und IV-Rentner auf Sozialhilfe angewiesen sind. Die Rechtsprechung hat diese Zweckbestimmung bestätigt: Die Ergänzungsleistungen dienen der vollständigen Existenzsicherung und gehen der Sozialhilfe vor.
+
+Locher/Gächter charakterisieren die Ergänzungsleistungen als bedarfsgeprüfte, aber nicht bedarfsabhängige Leistungen. Im Unterschied zur Sozialhilfe sind sie nicht subsidiär gegenüber privater Unterstützung. Dummermuth weist darauf hin, dass die verfassungsrechtliche Verankerung die Ergänzungsleistungen vor kurzfristigen Sparübungen schützt. Die EL-Reform 2021 zeigt jedoch, dass auch verfassungsrechtlich verankerte Leistungen politischen Veränderungen unterliegen können.
