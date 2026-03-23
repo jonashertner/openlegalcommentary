@@ -41,7 +41,12 @@ const meta = articleData?.meta || articleEntry!.meta;
 const summary = articleData?.summary || '';
 const doctrine = articleData?.doctrine || '';
 const caselaw = articleData?.caselaw || '';
-const nav = getArticleNav(lawInfo.abbr, dirName);
+const rawNav = getArticleNav(lawInfo.abbr, dirName);
+// Translate prev/next titles
+const nav = {
+  prev: rawNav.prev ? { slug: rawNav.prev.slug, title: getTranslatedTitle(lawInfo.abbr, rawNav.prev.slug.replace('art-', ''), lang, rawNav.prev.title) } : null,
+  next: rawNav.next ? { slug: rawNav.next.slug, title: getTranslatedTitle(lawInfo.abbr, rawNav.next.slug.replace('art-', ''), lang, rawNav.next.title) } : null,
+};
 
 // Load Gesetzestext in the current language, fallback to German
 const articleRaw = `${meta.article}${meta.article_suffix || ''}`;
