@@ -1,3 +1,11 @@
-# Uebersicht
+# Übersicht
 
-Art. 140 BV — Art. 140 BV
+Art. 140 BV regelt, wann das Schweizer Volk zwingend über wichtige politische Entscheide abstimmen muss. Die Bestimmung unterscheidet zwischen zwei Verfahren: dem obligatorischen Referendum (Absatz 1) und der obligatorischen Volksabstimmung (Absatz 2).
+
+**Beim obligatorischen Referendum** müssen sowohl das Volk als auch die Kantone (Stände) zustimmen. Dies gilt für drei Fälle: Alle Verfassungsänderungen unterliegen automatisch dieser Regel — selbst kleine Textänderungen lösen eine Abstimmung aus (Epiney/Diezig, BSK BV, Art. 140 N. 10). Zweitens müssen Beitritte zu internationalen Sicherheitsorganisationen oder supranationalen Gemeinschaften vor das Volk. **Supranationale Gemeinschaften** sind nach der bundesrätlichen Definition Organisationen mit unabhängigen Organen, die durch Mehrheitsbeschluss unmittelbar verbindliche Entscheide erlassen können (Bundesrat, zit. in Epiney/Diezig, BSK BV, Art. 140 N. 18). Die EU ist das klassische Beispiel dafür. Beim **Europäischen Wirtschaftsraum (EWR)** ist umstritten, ob er supranational ist (Epiney/Diezig, BSK BV, Art. 140 N. 19). Drittens kommen dringliche Bundesgesetze ohne Verfassungsgrundlage vor das Volk, wenn sie länger als ein Jahr gelten.
+
+**Bei der obligatorischen Volksabstimmung** entscheidet nur das Volk, ohne dass die Kantone zustimmen müssen. Dies betrifft Volksinitiativen zur Totalrevision der Verfassung und abgelehnte Initiativen in Form der allgemeinen Anregung. Wenn sich National- und Ständerat nicht einigen können, ob eine Totalrevision nötig ist, entscheidet ebenfalls das Volk.
+
+**Beispiel**: Will die Schweiz der EU beitreten, müssen Volk und Stände zustimmen, da die EU eine supranationale Gemeinschaft ist. Will jemand eine Volksinitiative zur kompletten Verfassungsneuerung lancieren, reicht das Volksmehr.
+
+Die Abstimmung erfolgt automatisch — die Behörden haben keine Wahl (Art. 140 ist abschliessend, Epiney/Diezig, BSK BV, Art. 140 N. 10). Parlamentsbeschlüsse über die Durchführung solcher Referenden können vor Bundesgericht nicht angefochten werden (Urteil 1C_529/2022 E. 3).

@@ -1,0 +1,11 @@
+La procédure de consultation selon l'art. 147 Cst. est un instrument important de participation dans le processus législatif suisse. La Constitution oblige les autorités à inviter les cantons, les partis politiques et les milieux intéressés à se prononcer sur les actes législatifs importants et les traités internationaux.
+
+**Qui est concerné ?** Les participants obligatoires sont tous les cantons en expression du fédéralisme coopératif. Les partis politiques sont consultés en tant que porteurs de la formation de la volonté politique. Les « milieux intéressés » comprennent les associations, organisations et autres acteurs qui sont concernés par le projet.
+
+**Sur quoi porte la consultation ?** La procédure de consultation a lieu pour trois catégories : les actes législatifs importants (nouvelles lois ou modifications importantes), autres projets de grande portée (programmes politiques) et traités internationaux importants. La doctrine débat de savoir si une consultation est nécessaire pour chaque modification de loi. Alors que la loi sur la consultation (LCo) le prévoit en principe, Schiess Rütimann critique cette pratique extensive comme étant contraire à la constitution (BSK BV, art. 147 n. 16).
+
+**Quelles conséquences juridiques ?** La procédure est consultative – les prises de position ne lient pas les autorités. La Constitution fédérale ne fonde aucun droit subjectif à la conduite d'une consultation. La jurisprudence a confirmé qu'il n'existe pas de droit constitutionnel d'être entendu dans la procédure législative (**ATF 121 I 230**).
+
+**Exemple :** Avant la révision de la loi sur la chasse concernant la régulation du loup, le Conseil fédéral a mené en 2024 une consultation de trois mois. Les cantons, partis et associations environnementales ont pu exposer leur position. Bien que de nombreuses prises de position aient été critiques, le Conseil fédéral a néanmoins mis la révision en vigueur – la consultation avait été menée avec succès.
+
+La consultation renforce la légitimation des lois par l'intégration précoce des personnes concernées, sans restreindre la liberté de décision démocratique des autorités élues.

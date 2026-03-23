@@ -1,0 +1,11 @@
+# Panoramica
+
+L'art. 140 Cost. disciplina quando il popolo svizzero deve obbligatoriamente votare su importanti decisioni politiche. La disposizione distingue tra due procedure: il referendum obbligatorio (cpv. 1) e la votazione popolare obbligatoria (cpv. 2).
+
+**Nel referendum obbligatorio** devono approvare sia il popolo che i Cantoni. Ciò vale per tre casi: tutte le modifiche costituzionali sottostanno automaticamente a questa regola — anche piccole modifiche testuali scatenano una votazione (Epiney/Diezig, BSK BV, Art. 140 N. 10). In secondo luogo, le adesioni a organizzazioni internazionali di sicurezza o a comunità sovranazionali devono essere sottoposte al popolo. Le **comunità sovranazionali** sono secondo la definizione del Consiglio federale organizzazioni con organi indipendenti che possono emanare decisioni direttamente vincolanti tramite decisioni a maggioranza (Consiglio federale, cit. in Epiney/Diezig, BSK BV, Art. 140 N. 18). L'UE ne è l'esempio classico. Per lo **Spazio economico europeo (SEE)** è controverso se sia sovranazionale (Epiney/Diezig, BSK BV, Art. 140 N. 19). In terzo luogo, le leggi federali urgenti senza base costituzionale vengono sottoposte al popolo se hanno validità superiore a un anno.
+
+**Nella votazione popolare obbligatoria** decide solo il popolo, senza che i Cantoni debbano approvare. Ciò riguarda le iniziative popolari per la revisione totale della Costituzione e le iniziative respinte sotto forma di proposta generica. Se Consiglio nazionale e Consiglio degli Stati non riescono ad accordarsi sulla necessità di una revisione totale, decide parimenti il popolo.
+
+**Esempio**: se la Svizzera vuole aderire all'UE, devono approvare popolo e Cantoni, poiché l'UE è una comunità sovranazionale. Se qualcuno vuole lanciare un'iniziativa popolare per un completo rinnovamento costituzionale, è sufficiente la maggioranza del popolo.
+
+La votazione avviene automaticamente — le autorità non hanno scelta (l'art. 140 è esaustivo, Epiney/Diezig, BSK BV, Art. 140 N. 10). Le decisioni parlamentari sullo svolgimento di tali referendum non possono essere impugnate davanti al Tribunale federale (sentenza 1C_529/2022 consid. 3).

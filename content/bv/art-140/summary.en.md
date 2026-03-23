@@ -1,0 +1,11 @@
+# Overview
+
+Art. 140 FC regulates when the Swiss people must vote on important political decisions. The provision distinguishes between two procedures: the mandatory referendum (paragraph 1) and the mandatory popular vote (paragraph 2).
+
+**In the mandatory referendum**, both the people and the cantons (states) must give their consent. This applies to three cases: All constitutional amendments are automatically subject to this rule — even small textual changes trigger a vote (Epiney/Diezig, BSK BV, Art. 140 N. 10). Second, accession to international security organisations or supranational communities must be put before the people. **Supranational communities** are, according to the Federal Council's definition, organisations with independent bodies that can issue directly binding decisions by majority decision (Federal Council, cited in Epiney/Diezig, BSK BV, Art. 140 N. 18). The EU is the classic example of this. For the **European Economic Area (EEA)**, it is disputed whether it is supranational (Epiney/Diezig, BSK BV, Art. 140 N. 19). Third, urgent federal acts without a constitutional basis are put before the people if they remain in force for longer than one year.
+
+**In the mandatory popular vote**, only the people decide, without the cantons having to give their consent. This concerns popular initiatives for a total revision of the constitution and rejected initiatives in the form of a general suggestion. If the National Council and Council of States cannot agree on whether a total revision is necessary, the people also decide.
+
+**Example**: If Switzerland wants to join the EU, both people and states must consent, as the EU is a supranational community. If someone wants to launch a popular initiative for a complete constitutional renewal, a popular majority is sufficient.
+
+The vote takes place automatically — the authorities have no choice (Art. 140 is exhaustive, Epiney/Diezig, BSK BV, Art. 140 N. 10). Parliamentary resolutions on conducting such referendums cannot be challenged before the Federal Court (Judgment 1C_529/2022 E. 3).

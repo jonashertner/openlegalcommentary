@@ -7,4 +7,12 @@ absatz_count: 1
 fedlex_url: https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_153
 lexfind_url: ''
 in_force_since: ''
-layers: {}
+layers:
+  doctrine:
+    last_generated: '2026-03-23'
+    version: 1
+    quality_score: 0.91
+  summary:
+    last_generated: '2026-03-23'
+    version: 1
+    quality_score: 0.91
