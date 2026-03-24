@@ -1,0 +1,11 @@
+# Aperçu
+
+L'art. 111 Cst. oblige la Confédération à assurer une prévoyance vieillesse suffisante. Celle-ci repose sur trois piliers : l'AVS/AI étatique (premier pilier), la prévoyance professionnelle par les caisses de pension (deuxième pilier) et la prévoyance individuelle facultative (troisième pilier). La Confédération doit veiller à ce que les deux premiers piliers puissent remplir durablement leurs tâches.
+
+Le premier pilier doit couvrir les besoins vitaux — soit les coûts de la vie de base comme le logement, la nourriture et les vêtements. Le deuxième pilier complète le premier, afin que les rentiers et rentières reçoivent ensemble environ 60% de leur dernier salaire. Ils peuvent ainsi maintenir largement leur train de vie habituel (niveau de vie antérieur). Le troisième pilier permet une prévoyance individuelle supplémentaire pour des besoins particuliers.
+
+Les trois piliers sont protégés par le droit constitutionnel. Le législateur ne peut supprimer aucun pilier ou l'affaiblir fondamentalement. Il doit au contraire concevoir les trois de manière coordonnée et assurer leur financement à long terme. Pour les questions fiscales, la Confédération peut contraindre les cantons à favoriser les institutions de prévoyance.
+
+**Exemple** : Une enseignante reçoit à 64 ans une rente AVS de 1'800 francs mensuels (premier pilier) et une rente de caisse de pension de 2'200 francs (deuxième pilier). En plus, elle a épargné dans le pilier 3a et en tire 400 francs supplémentaires par mois (troisième pilier). Les trois piliers ensemble constituent sa rente de vieillesse.
+
+La disposition concerne toutes les personnes actives et les rentiers ainsi que rentières en Suisse. Elle oblige la Confédération et les cantons à coopérer dans la politique de prévoyance. Les violations du principe des trois piliers peuvent être contestées devant les tribunaux. Cependant, la norme ne fonde pas de droits directs des particuliers — ceux-ci ne résultent que des lois spéciales comme la LAVS et la LPP.

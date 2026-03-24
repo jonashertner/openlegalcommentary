@@ -1,29 +1,79 @@
 ---
 // site/src/pages/[lang]/about.astro
 import { LANGS, type Lang, t } from '@/lib/i18n';
+import { langBase } from '@/lib/base';
 import Base from '../../layouts/Base.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
-import fs from 'node:fs';
-import path from 'node:path';
+import { LAWS } from '../../lib/laws';
 
 export function getStaticPaths() {
   return LANGS.map(lang => ({ params: { lang } }));
 }
 const { lang } = Astro.params as { lang: Lang };
 
-const guidelinesPath = path.resolve(import.meta.dirname, '../../../guidelines/global.md');
-let guidelinesContent = '';
-try {
-  guidelinesContent = fs.readFileSync(guidelinesPath, 'utf-8');
-} catch {
-  guidelinesContent = '';
-}
+const content: Record<Lang, { mission: string; methodology: string; layers: { name: string; desc: string }[]; citation_intro: string; license: string; contact: string }> = {
+  de: {
+    mission: 'openlegalcommentary.ch macht das Schweizer Bundesrecht für alle zugänglich. Jeder Kommentarartikel ist auf drei Ebenen lesbar: als knapper Überblick, als wissenschaftlich fundierte Doktrin und als vollständige Rechtsprechungsübersicht.',
+    methodology: 'Die Kommentare werden mittels KI generiert und folgen strengen Redaktionsrichtlinien. Jede Rechtsaussage ist auf eine Primärquelle zurückführbar. Doktrinäre Positionen werden präzise zugeschrieben. Mindermeinungen werden fair und vollständig dargestellt.',
+    layers: [
+      { name: 'Ebene 1 — Übersicht', desc: 'Verständliche Zusammenfassung auf B1-Sprachniveau (150–300 Wörter). Was regelt die Norm? Wer ist betroffen? Was sind die Rechtsfolgen?' },
+      { name: 'Ebene 2 — Doktrin', desc: 'Wissenschaftliche Analyse mit Randziffern (N. 1, N. 2, ...). Entstehungsgeschichte, systematische Einordnung, Tatbestandsmerkmale, Rechtsfolgen, Streitstände.' },
+      { name: 'Ebene 3 — Rechtsprechung', desc: 'Vollständige BGE-Übersicht, thematisch gruppiert. Pro Entscheid: BGE-Referenz, Leitsatz, Relevanz, Blockzitat der entscheidenden Passage.' },
+    ],
+    citation_intro: 'Verbindliche Zitierformate:',
+    license: 'Inhalte stehen unter <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Code steht unter der <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT-Lizenz</a>.',
+    contact: 'Projekt auf <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a>. Powered by <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a>.',
+  },
+  en: {
+    mission: 'openlegalcommentary.ch makes Swiss federal law accessible to everyone. Each commentary article is readable on three levels: as a concise overview, as academically grounded doctrine, and as a complete case law digest.',
+    methodology: 'Commentary is AI-generated following strict editorial guidelines. Every legal statement is traceable to a primary source. Doctrinal positions are precisely attributed. Minority opinions are presented fairly and completely.',
+    layers: [
+      { name: 'Layer 1 — Overview', desc: 'Accessible summary at B1 language level (150–300 words). What does the provision regulate? Who is affected? What are the legal consequences?' },
+      { name: 'Layer 2 — Doctrine', desc: 'Academic analysis with marginal numbers (N. 1, N. 2, ...). Legislative history, systematic context, elements of the provision, legal consequences, doctrinal debates.' },
+      { name: 'Layer 3 — Case Law', desc: 'Complete digest of Federal Supreme Court decisions, grouped by topic. For each decision: BGE reference, core holding, relevance, block quote of the decisive passage.' },
+    ],
+    citation_intro: 'Standard citation formats:',
+    license: 'Content is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Code is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT License</a>.',
+    contact: 'Project on <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a>. Powered by <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a>.',
+  },
+  fr: {
+    mission: 'openlegalcommentary.ch rend le droit fédéral suisse accessible à tous. Chaque article de commentaire est lisible sur trois niveaux : un aperçu concis, une doctrine fondée académiquement et un digest complet de la jurisprudence.',
+    methodology: 'Les commentaires sont générés par IA selon des directives éditoriales strictes. Chaque affirmation juridique est traçable à une source primaire. Les positions doctrinales sont attribuées avec précision. Les opinions minoritaires sont présentées équitablement.',
+    layers: [
+      { name: 'Niveau 1 — Aperçu', desc: 'Résumé accessible au niveau B1 (150–300 mots). Que règle la norme ? Qui est concerné ? Quelles sont les conséquences juridiques ?' },
+      { name: 'Niveau 2 — Doctrine', desc: 'Analyse académique avec numéros marginaux (N. 1, N. 2, ...). Genèse, contexte systématique, éléments constitutifs, conséquences juridiques, controverses.' },
+      { name: 'Niveau 3 — Jurisprudence', desc: 'Digest complet des arrêts du Tribunal fédéral, classés par thème. Pour chaque arrêt : référence ATF, considérant principal, pertinence, citation du passage décisif.' },
+    ],
+    citation_intro: 'Formats de citation standards :',
+    license: 'Le contenu est sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Le code est sous <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">licence MIT</a>.',
+    contact: 'Projet sur <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a>. Propulsé par <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a>.',
+  },
+  it: {
+    mission: 'openlegalcommentary.ch rende il diritto federale svizzero accessibile a tutti. Ogni articolo di commento è leggibile su tre livelli: una panoramica concisa, una dottrina fondata accademicamente e un digest completo della giurisprudenza.',
+    methodology: 'I commenti sono generati dall\'IA seguendo rigorose linee guida editoriali. Ogni affermazione giuridica è riconducibile a una fonte primaria. Le posizioni dottrinali sono attribuite con precisione. Le opinioni minoritarie sono presentate in modo equo e completo.',
+    layers: [
+      { name: 'Livello 1 — Panoramica', desc: 'Riassunto accessibile a livello B1 (150–300 parole). Cosa regola la norma? Chi è interessato? Quali sono le conseguenze giuridiche?' },
+      { name: 'Livello 2 — Dottrina', desc: 'Analisi accademica con numeri marginali (N. 1, N. 2, ...). Genesi, contesto sistematico, elementi costitutivi, conseguenze giuridiche, controversie.' },
+      { name: 'Livello 3 — Giurisprudenza', desc: 'Digest completo delle sentenze del Tribunale federale, ordinate per tema. Per ogni sentenza: riferimento DTF, massima, rilevanza, citazione del passaggio decisivo.' },
+    ],
+    citation_intro: 'Formati di citazione standard:',
+    license: 'I contenuti sono sotto licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Il codice è sotto <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">licenza MIT</a>.',
+    contact: 'Progetto su <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a>. Alimentato da <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a>.',
+  },
+};
 
-const leitbildMatch = guidelinesContent.match(/## Leitbild\n\n([\s\S]*?)(?=\n---)/);
-const leitbild = leitbildMatch ? leitbildMatch[1].trim() : '';
+const headings: Record<Lang, { mission: string; methodology: string; layers: string; laws: string; citation: string; license: string; contact: string }> = {
+  de: { mission: 'Mission', methodology: 'Methodik', layers: 'Drei Ebenen', laws: 'Abgedeckte Gesetze', citation: 'Zitierformat', license: 'Lizenz', contact: 'Kontakt' },
+  en: { mission: 'Mission', methodology: 'Methodology', layers: 'Three Layers', laws: 'Covered Laws', citation: 'Citation Format', license: 'License', contact: 'Contact' },
+  fr: { mission: 'Mission', methodology: 'Méthodologie', layers: 'Trois niveaux', laws: 'Lois couvertes', citation: 'Format de citation', license: 'Licence', contact: 'Contact' },
+  it: { mission: 'Missione', methodology: 'Metodologia', layers: 'Tre livelli', laws: 'Leggi coperte', citation: 'Formato di citazione', license: 'Licenza', contact: 'Contatto' },
+};
+
+const c = content[lang];
+const h = headings[lang];
 ---
 
-<Base title={t('about.title', lang)} lang={lang} pagePath="/about" description="Mission, Methodik und Richtlinien von Open Legal Commentary.">
+<Base title={t('about.title', lang)} lang={lang} pagePath="/about" description={c.mission}>
   <Breadcrumb lang={lang} items={[{ label: t('about.title', lang) }]} />
 
   <article class="about-page content-column">
@@ -33,75 +83,52 @@ const leitbild = leitbildMatch ? leitbildMatch[1].trim() : '';
     </header>
 
     <section class="about-section animate-fade-up delay-1">
-      <h2>Mission</h2>
-      <p>
-        openlegalcommentary.ch macht das Schweizer Bundesrecht für alle zugänglich.
-        Jeder Kommentarartikel ist auf drei Ebenen lesbar: als knapper Überblick,
-        als wissenschaftlich fundierte Doktrin und als vollständige Rechtsprechungsübersicht.
-      </p>
-      {leitbild && <p>{leitbild}</p>}
+      <h2>{h.mission}</h2>
+      <p>{c.mission}</p>
     </section>
 
     <section class="about-section animate-fade-up delay-2">
-      <h2>Methodik</h2>
-      <p>
-        Die Kommentare werden mittels KI generiert und folgen strengen Redaktionsrichtlinien.
-        Jede Rechtsaussage ist auf eine Primärquelle zurückführbar. Doktrinäre Positionen
-        werden präzise zugeschrieben. Mindermeinungen werden fair und vollständig dargestellt.
-      </p>
-
-      <h3>Drei Ebenen</h3>
+      <h2>{h.methodology}</h2>
+      <p>{c.methodology}</p>
+      <h3>{h.layers}</h3>
       <dl class="method-list">
-        <dt>Ebene 1 — Übersicht (Summary)</dt>
-        <dd>Verständliche Zusammenfassung auf B1-Sprachniveau (150–300 Wörter). Was regelt die Norm? Wer ist betroffen? Was sind die Rechtsfolgen?</dd>
-
-        <dt>Ebene 2 — Doktrin</dt>
-        <dd>Wissenschaftliche Analyse mit Randziffern (N. 1, N. 2, ...). Entstehungsgeschichte, systematische Einordnung, Tatbestandsmerkmale, Rechtsfolgen, Streitstände.</dd>
-
-        <dt>Ebene 3 — Rechtsprechung</dt>
-        <dd>Vollständige BGE-Übersicht, thematisch gruppiert. Pro Entscheid: BGE-Referenz, Leitsatz, Relevanz, Blockzitat der entscheidenden Passage.</dd>
+        {c.layers.map(layer => (
+          <>
+            <dt>{layer.name}</dt>
+            <dd>{layer.desc}</dd>
+          </>
+        ))}
       </dl>
     </section>
 
     <section class="about-section animate-fade-up delay-3">
-      <h2>Abgedeckte Gesetze</h2>
+      <h2>{h.laws}</h2>
       <ul class="law-list">
-        <li><strong>BV</strong> — Bundesverfassung (SR 101)</li>
-        <li><strong>ZGB</strong> — Zivilgesetzbuch (SR 210)</li>
-        <li><strong>OR</strong> — Obligationenrecht (SR 220)</li>
-        <li><strong>ZPO</strong> — Zivilprozessordnung (SR 272)</li>
-        <li><strong>StGB</strong> — Strafgesetzbuch (SR 311.0)</li>
-        <li><strong>StPO</strong> — Strafprozessordnung (SR 312.0)</li>
-        <li><strong>SchKG</strong> — SchKG (SR 281.1)</li>
-        <li><strong>VwVG</strong> — VwVG (SR 172.021)</li>
+        {LAWS.map(law => (
+          <li><strong>{law.abbr}</strong> — {law.name[lang]} (SR {law.sr})</li>
+        ))}
       </ul>
     </section>
 
     <section class="about-section animate-fade-up delay-4">
-      <h2>Zitierformat</h2>
-      <p>Verbindliche Zitierformate:</p>
+      <h2>{h.citation}</h2>
+      <p>{c.citation_intro}</p>
       <ul class="citation-examples font-mono text-sm">
         <li><strong>BGE:</strong> BGE 130 III 182 E. 5.5.1</li>
         <li><strong>BGer:</strong> Urteil 4A_123/2024 vom 15.3.2024 E. 3.2</li>
-        <li><strong>Literatur:</strong> Gauch/Schluep/Schmid, OR AT, 11. Aufl. 2020, N 2850</li>
+        <li><strong>Literature:</strong> Gauch/Schluep/Schmid, OR AT, 11. Aufl. 2020, N 2850</li>
         <li><strong>Botschaft:</strong> BBl 2001 4202</li>
       </ul>
     </section>
 
     <section class="about-section animate-fade-up delay-5">
-      <h2>Lizenz</h2>
-      <p>
-        Inhalte stehen unter <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.
-        Code steht unter der <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT-Lizenz</a>.
-      </p>
+      <h2>{h.license}</h2>
+      <p><Fragment set:html={c.license} /></p>
     </section>
 
     <section class="about-section animate-fade-up delay-6">
-      <h2>Kontakt</h2>
-      <p>
-        Projekt auf <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a>.
-        Powered by <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a>.
-      </p>
+      <h2>{h.contact}</h2>
+      <p><Fragment set:html={c.contact} /></p>
     </section>
   </article>
 </Base>
