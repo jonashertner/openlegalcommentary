@@ -1,49 +1,69 @@
-## Dottrina
+# Dottrina
 
-### 1. Storia dell'origine
+## 1. Storia della genesi
 
-**N. 1** L'attuale disposizione sulla protezione civile dell'art. 61 Cost. è stata riformulata nel quadro della revisione totale della Costituzione federale del 1999. La precedente disposizione dell'art. 22bis aCost. del 1959 si limitava a disciplinare l'obbligo di servizio e ad attribuire la competenza legislativa alla Confederazione. Con la nuova Costituzione si è avuto un notevole ampliamento della competenza confederale per le catastrofi e le situazioni di emergenza (FF 1997 I 408).
+**N. 1** L'art. 61 Cost. risale alla revisione totale della Costituzione federale del 1999. La disposizione riprendeva sostanzialmente il contenuto dell'art. 22bis aCost., che era stato inserito nella vecchia Costituzione mediante votazione popolare del 24 maggio 1959 (FF 1997 I 435). Il Messaggio sulla nuova Costituzione federale sottolineava che la protezione civile, quale organizzazione autonoma accanto all'esercito, fornisce un importante contributo alla sicurezza della popolazione (FF 1997 I 436).
 
-**N. 2** L'estensione dei compiti di protezione civile oltre i conflitti armati era già stata avviata con la riforma della protezione civile del 1995. La revisione costituzionale ha codificato questo sviluppo e ha creato la base giuridica per una protezione della popolazione completa, che viene impiegata anche negli eventi civili di grande portata (FF 1997 I 409).
+**N. 2** Con la riforma della protezione della popolazione e della protezione civile attraverso la legge federale sulla protezione della popolazione e sulla protezione civile del 4 ottobre 2002 (LPPC; RS 520.1), la protezione civile è stata integrata in un sistema di protezione della popolazione globale che comprende anche polizia, pompieri, sanità e aziende tecniche. La base costituzionale rimase invariata, ma ricevette attraverso la legislazione una configurazione al passo con i tempi.
 
-### 2. Collocazione sistematica
+## 2. Collocazione sistematica
 
-**N. 3** L'art. 61 Cost. si situa sistematicamente tra l'obbligo di servizio militare (→ art. 59 Cost.) e gli obiettivi sociali (→ art. 41 Cost.). Questa collocazione sottolinea la duplice natura della protezione civile come strumento di politica di sicurezza da un lato e come servizio di soccorso per la popolazione dall'altro. La protezione civile forma insieme alla polizia, ai pompieri, al settore sanitario e ai servizi tecnici il sistema integrato di protezione della popolazione (Diggelmann/Altwicker, BSK BV, art. 61 n. 1).
+**N. 3** L'art. 61 Cost. si trova nella 2a sezione del 2° titolo della Costituzione federale sotto il titolo «Educazione, ricerca e cultura». Questa collocazione sistematica è storicamente condizionata e non del tutto appropriata dal punto di vista contenutistico. Dal punto di vista materiale, la disposizione appartiene al diritto della sicurezza e si trova in stretta relazione con → art. 57 Cost. (Sicurezza), → art. 58 Cost. (Esercito) e → art. 59 Cost. (Servizio militare e servizio civile).
 
-**N. 4** La Costituzione distingue chiaramente tra l'obbligo di servizio militare secondo l'art. 59 Cost. e l'obbligo di servizio di protezione secondo l'art. 61 Cost. Mentre l'esercito serve principalmente alla difesa nazionale, la protezione civile si concentra sulla protezione della popolazione civile. Questa separazione funzionale impedisce una commistione degli ambiti di competenza (↔ art. 58 Cost. Esercito).
+**N. 4** La protezione civile fa parte del sistema di sicurezza globale della Svizzera. Essa completa la difesa nazionale militare attraverso la protezione della popolazione civile e opera in coordinamento con altre organizzazioni partner civili della protezione della popolazione (polizia, pompieri, sanità, aziende tecniche). La ripartizione delle competenze segue il principio federalista: la Confederazione legifera, i Cantoni eseguono (→ art. 46 Cost.).
 
-### 3. Elementi costitutivi / Contenuto della norma
+## 3. Elementi della fattispecie / Contenuto della norma
 
-**N. 5** **Competenza confederale nei conflitti armati (cpv. 1)**: La competenza legislativa esclusiva della Confederazione si riferisce alla «protezione civile di persone e beni dagli effetti di conflitti armati». Questa formulazione comprende sia i conflitti armati internazionali sia i conflitti armati non internazionali nel senso del diritto internazionale umanitario (von Arnauld, Völkerrecht, 2012, p. 456).
+### a) Competenza legislativa (cpv. 1)
 
-**N. 6** **Impiego nelle catastrofi e situazioni di emergenza (cpv. 2)**: Il concetto di «catastrofi» comprende sia eventi naturali (alluvioni, valanghe, terremoti) sia eventi tecnici di grande portata (incidenti chimici, incidenti nelle centrali nucleari). Le «situazioni di emergenza» sono situazioni straordinarie che compromettono il normale funzionamento della collettività senza raggiungere le dimensioni di una catastrofe (Mohler, Grundzüge des Polizeirechts, 2012, n. 234).
+**N. 5** Il cpv. 1 attribuisce alla Confederazione la competenza legislativa esclusiva per la protezione civile dai conflitti armati. Il concetto di «conflitto armato» comprende tanto i confronti armati internazionali quanto quelli non internazionali nel senso del diritto internazionale umanitario. La competenza è onnicomprensiva ed esclude regolamentazioni cantonali in questo ambito (Ehrenzeller/Schindler/Schweizer/Vallender, Commentario di San Gallo Cost., 4a ed. 2023, art. 61 n. 3).
 
-**N. 7** **Obbligo di servizio (cpv. 3)**: La Costituzione autorizza la Confederazione ad introdurre un obbligo di servizio di protezione obbligatorio per gli uomini. Per le donne il servizio rimane volontario. Questa differenziazione secondo il sesso va vista nel contesto dell'obbligo di servizio militare che vale anch'esso solo per gli uomini (→ art. 59 cpv. 1 Cost.). La parità dei sessi (→ art. 8 cpv. 3 Cost.) non si oppone a questa regolamentazione, poiché è espressamente ancorata a livello costituzionale.
+**N. 6** La «protezione civile» comprende tutte le misure non militari per la protezione della popolazione, in particolare costruzioni protette, sistemi di allarme e di avvertimento, piani di evacuazione nonché l'organizzazione e la formazione del personale della protezione civile. La delimitazione dalla difesa militare (→ art. 58 Cost.) avviene funzionalmente: la protezione civile protegge la popolazione, l'esercito respinge l'attacco.
 
-**N. 8** **Indennità per perdita di guadagno (cpv. 4)**: L'«adeguata indennità per la perdita di guadagno» garantisce che chi presta servizio di protezione non subisca svantaggi finanziari. L'adeguatezza si orienta al sistema dell'ordinamento delle indennità per perdita di guadagno per chi presta servizio militare. Il diritto è legato al diritto al soldo (art. 1a cpv. 3 LIPG in comb. con art. 23 LPPC).
+### b) Catastrofi e situazioni di emergenza (cpv. 2)
 
-**N. 9** **Sostegno in caso di danno (cpv. 5)**: Questa disposizione fonda un diritto costituzionalmente diretto al sostegno per le persone che subiscono danni alla salute o perdono la vita nel servizio di protezione. Il concetto di «sostegno adeguato» va interpretato ampiamente e comprende sia prestazioni finanziarie sia prestazioni in natura come il trattamento medico (Diggelmann/Altwicker, BSK BV, art. 61 n. 18).
+**N. 7** Il cpv. 2 estende la competenza della Confederazione all'impiego della protezione civile in caso di catastrofi e in situazioni di emergenza. Questa competenza non è esclusiva, bensì concorrente: i Cantoni conservano le loro competenze nell'ambito dell'aiuto in caso di catastrofe, nella misura in cui la Confederazione non emana alcuna regolamentazione (→ art. 3 Cost.).
 
-### 4. Conseguenze giuridiche
+**N. 8** Le «catastrofi» sono eventi scatenati da forze naturali, incidenti tecnici o altre cause che superano i mezzi ordinari dei comuni interessati. Le «situazioni di emergenza» sono situazioni straordinarie che comportano un pericolo aumentato per la popolazione, senza raggiungere l'entità di una catastrofe. I concetti devono essere intesi in senso ampio e comprendono anche pandemie, blackout su vasta scala o cyberattacchi su infrastrutture critiche.
 
-**N. 10** La competenza legislativa della Confederazione secondo i cpv. 1 e 2 è configurata diversamente. Mentre la Confederazione dispone di una competenza esclusiva nell'ambito dei conflitti armati, si tratta nel caso delle catastrofi e situazioni di emergenza di una competenza concorrente con effetto derogatorio successivo. I Cantoni possono emanare proprie regolamentazioni finché e nella misura in cui la Confederazione non ha legiferato (→ art. 3 Cost.).
+### c) Servizio di protezione obbligatorio e volontario (cpv. 3)
 
-**N. 11** L'introduzione di un obbligo di servizio di protezione (cpv. 3) necessita di una base legale. La Confederazione l'ha creata con la Legge sulla protezione della popolazione e sulla protezione civile (LPPC). L'obbligo di servizio sussiste per gli uomini svizzeri dai 20 ai 40 anni, per gli specialisti fino ai 50 anni (art. 11 segg. LPPC).
+**N. 9** La Confederazione può dichiarare obbligatorio il servizio di protezione per gli uomini secondo il cpv. 3, cosa che ha fatto con gli art. 11 segg. LPPC. L'obbligo del servizio di protezione è un obbligo di servizio autonomo accanto all'obbligo del servizio militare (→ art. 59 Cost.). Inizia con il ventesimo anno di età e dura di principio fino al quarantesimo anno di età.
 
-**N. 12** Chi non presta servizio di protezione soggiace alla tassa d'esenzione dall'obbligo militare secondo la Legge sulla tassa d'esenzione dall'obbligo militare (LTEMO). Questo obbligo sostitutivo vale sia per le persone inabili al servizio militare sia per quelle inabili al servizio di protezione, purché non siano completamente inabili al servizio.
+**N. 10** Per le donne il servizio di protezione è volontario. Questa differenziazione specifica al genere è ammissibile dal punto di vista costituzionale, poiché l'art. 61 cpv. 3 Cost. come lex specialis prevale sul precetto generale di parità (→ art. 8 cpv. 3 Cost.). Le donne possono iscriversi volontariamente alla protezione civile e hanno poi gli stessi diritti e doveri delle persone soggette all'obbligo del servizio di protezione di sesso maschile.
 
-### 5. Controversie dottrinali
+### d) Indennità per perdita di guadagno (cpv. 4)
 
-**N. 13** **Tipo di competenza confederale**: Nella dottrina è controverso quale tipo di competenza spetti alla Confederazione nell'ambito della protezione civile. Häfelin/Haller/Keller (Bundesstaatsrecht, 10ª ed. 2020, n. 1045) rappresentano l'opinione di competenze parallele, secondo cui Confederazione e Cantoni possono emanare regolamentazioni indipendentemente l'uno dall'altro. Aubert/Mahon (Petit commentaire, art. 61 n. 10) qualificano la competenza come esclusiva. La posizione più convincente di Diggelmann/Altwicker (BSK BV, art. 61 n. 11) vede una competenza concorrente con effetto derogatorio successivo, il che corrisponde meglio alla struttura federalista e alla prassi.
+**N. 11** Il cpv. 4 obbliga la Confederazione a emanare prescrizioni su un'adeguata indennità per perdita di guadagno. Questo obbligo è stato attuato attraverso la legge sulle indennità di perdita di guadagno (LIPG; RS 834.1). L'indennità per perdita di guadagno deve essere «adeguata», il che implica un certo margine di manovra per il legislatore. Secondo la giurisprudenza «adeguata» non significa risarcimento completo, bensì un'indennità equa sotto considerazione degli interessi pubblici e delle possibilità finanziarie (**DTF 138 V 324 consid. 5.2**).
 
-**N. 14** **Compatibilità della differenziazione di genere con l'art. 8 Cost.**: Mentre una parte della dottrina considera problematico il trattamento diverso di uomini e donne nell'obbligo di servizio, l'opinione dominante la ritiene ammissibile dal punto di vista costituzionale, poiché l'art. 61 cpv. 3 Cost. vale come lex specialis rispetto all'art. 8 cpv. 3 Cost. Una parificazione richiederebbe una modifica costituzionale (Rhinow/Schefer/Uebersax, Verfassungsrecht, 3ª ed. 2016, n. 2345).
+### e) Risarcimento del danno (cpv. 5)
 
-### 6. Indicazioni pratiche
+**N. 12** Le persone che subiscono danni alla salute nel servizio di protezione o perdono la vita hanno secondo il cpv. 5 diritto per sé o per i loro congiunti a un sostegno adeguato della Confederazione. Questa disposizione fonda un diritto costituzionale immediato, che è azionabile anche senza concretizzazione legale (Müller/Schefer, Diritti fondamentali in Svizzera, 4a ed. 2008, pag. 892).
 
-**N. 15** Nella chiamata al servizio di protezione bisogna distinguere tra servizi di formazione, impieghi a favore della collettività e impieghi d'emergenza. L'obbligo annuale di servizio ammonta di regola a un massimo di 19 giorni (art. 33 LPPC). Gli impieghi nelle catastrofi e nelle situazioni di emergenza possono superare questo limite.
+**N. 13** Il concetto di «sostegno adeguato» comprende tanto prestazioni finanziarie quanto prestazioni in natura come trattamento medico o riabilitazione. L'adeguatezza si determina secondo il danno subito, i rapporti personali e il grado di colpa. La configurazione legale avviene attraverso l'assicurazione militare, che vale anche per gli appartenenti alla protezione civile.
 
-**N. 16** L'indennità per perdita di guadagno viene versata secondo le disposizioni dell'ordinamento delle indennità per perdita di guadagno (LIPG). Presupposto è il diritto al soldo. I lavoratori indipendenti e i lavoratori dipendenti hanno diritto all'80% del reddito medio precedente al servizio, ma almeno CHF 62 e al massimo CHF 196 al giorno (situazione 2024).
+## 4. Conseguenze giuridiche
 
-**N. 17** Le persone soggette all'obbligo di servizio di protezione che si assentano ingiustificatamente dal servizio si rendono punibili secondo l'art. 68 LPPC. La comminatoria di pena comprende una pena detentiva fino a tre anni o una pena pecuniaria. Nella prassi in caso di prima assenza vengono pronunciate per lo più pene pecuniarie con la condizionale.
+**N. 14** Le competenze legislative secondo i cpv. 1 e 2 autorizzano e obbligano la Confederazione all'emanazione delle leggi corrispondenti. La più importante legislazione di esecuzione è la LPPC. I Cantoni sono vincolati alla legislazione federale e obbligati all'esecuzione (→ art. 49 Cost.).
 
-**N. 18** Il coordinamento tra protezione civile e altre organizzazioni partner nella protezione della popolazione (polizia, pompieri, settore sanitario, servizi tecnici) avviene attraverso stati maggiori cantonali di condotta. Nella prassi è stabilita una stretta collaborazione in particolare con i pompieri, dove le risorse materiali possono essere utilizzate in comune.
+**N. 15** L'obbligo del servizio di protezione secondo il cpv. 3 fonda per gli uomini interessati un dovere di diritto pubblico, che può essere fatto valere con mezzi coercitivi. L'inosservanza delle chiamate è punibile (art. 88 LPPC). Le donne possono obbligarsi volontariamente, ma sottostanno poi agli stessi doveri.
+
+**N. 16** I diritti secondo i cpv. 4 e 5 sono diritti pubblici soggettivi, che sono azionabili in sede giudiziaria. La via giuridica si orienta secondo le leggi procedurali applicabili (LIPG rispettivamente legge sull'assicurazione militare).
+
+## 5. Controversie
+
+**N. 17** Nella dottrina è controverso se la competenza della Confederazione secondo il cpv. 2 comprenda anche misure preventive per la prevenzione di catastrofi. Häfelin/Haller/Keller/Thurnherr (Diritto costituzionale svizzero, 10a ed. 2020, n. 1456) lo affermano con l'argomento che una protezione efficace della popolazione inizia già con la prevenzione. Rhinow/Schefer/Uebersax (Diritto costituzionale svizzero, 3a ed. 2016, n. 3842) rappresentano un'interpretazione più restrittiva e limitano la competenza al superamento di eventi verificatisi.
+
+**N. 18** Viene discussa controversamente anche la questione se la regolamentazione specifica al genere nel cpv. 3 sia ancora al passo con i tempi. Müller/Schefer (op. cit., pag. 456) propugnano de lege ferenda per una formulazione neutra dal punto di vista del genere con riferimento all'→ art. 8 cpv. 3 Cost. La dottrina prevalente mantiene l'ammissibilità della differenziazione, poiché la Costituzione la prevede esplicitamente (BSK Cost.-Waldmann/Belser/Epiney, 2a ed. 2024, art. 61 n. 8).
+
+**N. 19** Riguardo all'ammontare dell'indennità per perdita di guadagno secondo il cpv. 4 le opinioni divergono. Mentre una parte della dottrina richiede un'indennità completa per perdita di guadagno per analogia al servizio militare (Tschannen/Zimmerli/Müller, Diritto amministrativo generale, 4a ed. 2014, § 42 n. 18), la giurisprudenza ritiene conforme alla Costituzione un'aliquota ridotta, purché non sia sproporzionatamente bassa (**DTF 138 V 324**).
+
+## 6. Indicazioni pratiche
+
+**N. 20** Nell'applicazione dell'art. 61 Cost. è da osservare lo stretto collegamento con la LPPC. I concetti costituzionali vengono concretizzati attraverso la legislazione e devono essere interpretati alla luce dell'attuale situazione di minaccia.
+
+**N. 21** Per la pratica è rilevante la delimitazione tra protezione civile e altre organizzazioni della protezione della popolazione. Mentre la protezione civile è regolata dal diritto federale, pompieri e sanità sottostanno primariamente al diritto cantonale. In caso di impieghi congiunti sono da osservare le diverse basi legali e competenze.
+
+**N. 22** Le controversie sull'obbligo del servizio di protezione sono frequenti. Le autorità amministrative devono in particolare in caso di domande di rinvio o esonero dal servizio esaminare accuratamente i rapporti personali e rispettare la proporzionalità (→ art. 5 cpv. 2 Cost.).
+
+**N. 23** Nella commisurazione dell'indennità per perdita di guadagno e del risarcimento del danno è da ricorrere alla giurisprudenza sull'assicurazione militare, che è applicabile per analogia. L'«adeguatezza» è da determinare nel caso singolo sotto ponderazione di tutte le circostanze.

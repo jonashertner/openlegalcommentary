@@ -1,71 +1,57 @@
-# Art. 60 Cost. — Legislazione militare e organizzazione dell'esercito
-
 ## Giurisprudenza
 
-La giurisprudenza sull'art. 60 Cost. è limitata, dato che la norma contiene principalmente un'attribuzione di competenza e la maggior parte dei casi controversi viene decisa a livello legislativo. Le decisioni disponibili possono essere suddivise tematicamente:
+### Competenza federale per la legislazione e organizzazione militare
 
-### I. Portata della competenza federale
+**BGE 67 I 277** (17 luglio 1941)  
+Controversie tra Confederazione e Cantoni in materia di amministrazione militare e assunzione di impianti militari.  
+La decisione precisa la natura imperativa dell'ordine di competenze costituzionali federali in materia militare e i limiti di accordi contrattuali tra Confederazione e Cantoni.
 
-**DTF 99 Ia 630** (24 ottobre 1973)
-La vecchia Costituzione federale del 1874 conteneva una disposizione di competenza comparabile. Il Tribunale federale ha chiarito che l'organizzazione militare spetta esclusivamente alla Confederazione, applicandosi la norma anche alle assicurazioni sociali militarmente rilevanti.
+> «Le disposizioni sulla ripartizione dell'amministrazione militare tra Confederazione e Cantoni (art. 20, cpv. 1, Cost., OM e le disposizioni applicabili, in particolare anche quelle sui diritti e doveri dei Cantoni) sono norme imperative del diritto pubblico. La ripartizione delle competenze ivi stabilita non può essere modificata mediante accordi tra la Confederazione e un Cantone.»
 
-> «L'art. 60 Cost. obbliga i Cantoni a trattare tutti i cittadini svizzeri in modo uguale di fronte alla legge, sia nella legislazione che nel procedimento giudiziario.»
+### Organizzazione militare e responsabilità
 
-### II. Esecuzione della legislazione militare
+**BGE 123 II 577** (1997)  
+Responsabilità della Confederazione in caso di scontro tra aeromobile militare e civile in volo.  
+Il Tribunale federale ha chiarito che la competenza federale nella legislazione militare si estende anche alle disposizioni sulla responsabilità.
 
-#### A. Esoneri dal servizio per attività indispensabili
+> «La responsabilità della Confederazione per uno scontro tra un aeromobile militare e un aeromobile civile in volo non si regge sulla legge sulla navigazione aerea, ma sull'organizzazione militare (oggi: legge militare).»
 
-**A-2884/2019** (17 febbraio 2020, TAF)
-Gli esoneri dal servizio secondo l'art. 18 LM devono essere applicati restrittivamente, poiché rappresentano una deroga all'obbligo generale di servizio militare. I presupposti devono essere adempiuti cumulativamente.
+**BGE 127 II 289** (2001)  
+Rapporto tra responsabilità federale secondo la legge militare e assicurazione militare.  
+La decisione conferma l'ampia competenza federale per l'intero ordinamento di diritto militare incluse le norme sulla responsabilità.
 
-> «L'elenco delle attività indispensabili deve essere tenuto ristretto, poiché l'esonero dal servizio rappresenta una certa deroga all'obbligo generale di servizio militare e deve quindi essere applicato restrittivamente.»
+> «Secondo l'art. 135 cpv. 3 LM, la responsabilità della Confederazione in caso di fattispecie che rientrano sotto altre disposizioni sulla responsabilità si regge su tali disposizioni.»
 
-**A-3015/2019** (20 aprile 2020, TAF)
-Il Tribunale amministrativo federale ha confermato l'applicazione restrittiva dei crediti di formazione in ambito militare. I presupposti legali devono essere verificati rigorosamente.
+### Regresso contro appartenenti all'esercito
 
-#### B. Tassa militare
+**BGE 111 Ib 192** (1985)  
+Regresso della Confederazione contro appartenenti all'esercito in caso di colpa grave.  
+La sentenza mostra l'attuazione pratica della competenza federale per organizzazione e responsabilità in ambito militare.
 
-**DTF 108 Ib 115** (9 luglio 1982)
-L'esenzione dalla tassa militare presuppone l'idoneità al servizio. Chi è inabile al servizio per motivi di salute non può invocare i motivi di esenzione secondo l'art. 13 OM.
+> «Secondo l'art. 22 cpv. 1 OM la Confederazione risponde indipendentemente dalla colpa del militare per il danno che questi arreca a un terzo nell'esercizio di un'attività di servizio. [...] La Confederazione può tuttavia rivalersi sul militare che ha causato il danno se questi ha agito con dolo o colpa grave.»
 
-> «È esonerato dall'obbligo di pagare la tassa militare sostitutiva ai sensi dell'art. 4 cpv. 1 lett. c LTM solo il militare abile al servizio.»
+### Impianti militari e indennità
 
-**DTF 121 II 166** (11 agosto 1995)
-Il Tribunale federale ha chiarito che una prestazione lavorativa nell'interesse pubblico (servizio del lavoro) non è riconosciuta come prestazione di servizio equivalente al servizio militare. La tassa militare non è una pena, ma una prestazione sostitutiva prevista costituzionalmente.
+**BGE 108 Ib 220** (1982)  
+Trattamento procedurale delle pretese di regresso della Confederazione contro appartenenti all'esercito.  
+La decisione illustra la competenza federale per l'amministrazione di impianti militari e le relative conseguenze giuridiche.
 
-> «La tassa militare non è una pena. È la prestazione sostitutiva che il cittadino svizzero deve pagare se non adempie il suo obbligo militare - per qualsiasi motivo - o non lo adempie nella misura prescritta dalla legge mediante prestazione di servizio personale.»
+**BGE 108 Ib 9** (1982)  
+Responsabilità del militare secondo l'organizzazione militare.  
+Ulteriore precisazione dell'ampia competenza federale in materia militare.
 
-**DTF 122 II 56** (8 febbraio 1996)
-Per i doppi cittadini si applicano regole particolari per l'esenzione dalla tassa militare. L'obbligo militare degli Svizzeri all'estero e dei doppi cittadini deve essere valutato restrittivamente.
+**BGE 103 Ib 276** (1977)  
+Responsabilità federale per danni nel servizio militare.  
+La sentenza conferma la competenza esclusiva federale per le questioni di responsabilità militare quale parte dell'organizzazione militare.
 
-### III. Diritto della responsabilità
+> «Per il danno alla persona degli eredi la Confederazione non risponde secondo l'art. 22 cpv. 1 OM. La LAMil rientra nelle "altre disposizioni sulla responsabilità civile" riservate nell'art. 22 cpv. 2 OM.»
 
-#### A. Responsabilità della Confederazione per interventi militari
+### Sviluppi moderni
 
-**DTF 123 II 577** (12 settembre 1997)
-La responsabilità della Confederazione per danni causati da attività militari è disciplinata dall'organizzazione militare (oggi: Legge militare), non da leggi speciali come la Legge sulla navigazione aerea.
+**A-2884/2019** (17 febbraio 2020, TAF)  
+Obbligo di servizio militare e organizzazione.  
+Giurisprudenza attuale sull'applicazione della competenza federale per la legislazione militare in contesti moderni.
 
-> «La responsabilità della Confederazione per una collisione tra un aereo militare e uno civile in volo non è disciplinata dalla Legge sulla navigazione aerea, ma dall'organizzazione militare.»
-
-**DTF 108 Ib 220** (22 ottobre 1982)
-Le pretese di regresso della Confederazione contro i militari devono essere fatte valere con decisione. Il diritto procedurale segue i principi generali del diritto amministrativo.
-
-**DTF 111 Ib 192** (20 dicembre 1985)
-Nel valutare la colpa grave dei militari devono essere considerate le circostanze particolari del servizio militare.
-
-### IV. Servizio civile e libertà di coscienza
-
-#### A. Ammissione al servizio civile
-
-**B-2840/2023** (13 settembre 2023, TAF)
-L'esonero dal servizio civile per attività indispensabili è applicato restrittivamente. Non è sufficiente che un'attività sia socialmente preziosa; deve soddisfare i presupposti legali.
-
-**DTAF 2023 I/3** (13 settembre 2023, TAF)
-Il Tribunale amministrativo federale ha confermato i fondamenti storici dell'organizzazione militare e il suo sviluppo dal 1874. L'unificazione dell'organizzazione militare era una preoccupazione centrale dello Stato federale.
-
-### V. Diritto di espropriazione
-
-**DTF 109 Ib 130** (3 giugno 1983)
-Il Dipartimento federale della difesa è competente per avviare procedimenti di espropriazione per scopi militari. Le condizioni di diritto materiale e formale devono tuttavia essere esaminate accuratamente.
-
-> «Il Dipartimento federale della difesa è competente, in base alla sua competenza materiale per la difesa nazionale, per avviare procedimenti di espropriazione per scopi militari.»
+**B-2840/2023** (13 settembre 2023, TAF)  
+Servizio civile come alternativa al servizio militare.  
+La decisione mostra l'evoluzione della competenza federale nel settore dell'organizzazione militare includendo il servizio civile.
