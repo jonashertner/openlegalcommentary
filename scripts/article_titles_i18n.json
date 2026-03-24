@@ -228,7 +228,8 @@
       "194": "Révision partielle",
       "195": "Entrée en vigueur",
       "196": "Dispositions transitoires selon l’arrêté fédéral du 18 décembre 1998 relatif à une mise à jour de la Constitution fédérale",
-      "197": "Dispositions transitoires après acceptation de la Constitution du 18 avril 1999"
+      "197": "Dispositions transitoires après acceptation de la Constitution du 18 avril 1999",
+      "0": "Préambule"
     },
     "ZGB": {},
     "OR": {},
@@ -867,7 +868,8 @@
       "194": "Revisione parziale",
       "195": "Entrata in vigore",
       "196": "Disposizioni transitorie secondo il decreto federale del 18 dicembre 1998 su una nuova Costituzione federale",
-      "197": "Disposizioni transitorie successive all’accettazione della Costituzione federale del 18 aprile 1999"
+      "197": "Disposizioni transitorie successive all’accettazione della Costituzione federale del 18 aprile 1999",
+      "0": "Preambolo"
     },
     "SchKG": {}
   },
@@ -1101,7 +1103,8 @@
       "192": "Principle",
       "193": "Total revision",
       "194": "Partial revision",
-      "195": "Commencement"
+      "195": "Commencement",
+      "0": "Preamble"
     }
   }
 }

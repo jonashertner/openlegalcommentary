@@ -150,7 +150,7 @@ if (structure.length > 0) {
             })}
             <li class:list={['toc-item', { 'has-content': hasContent }]}>
               <a href={`${langBase(lang)}/${lawParam}/${art.slug}`}>
-                <span class="toc-num font-mono">Art.&nbsp;{displayNum}</span>
+                <span class="toc-num font-mono">{artNum === 0 ? '' : `Art.\u00A0${displayNum}`}</span>
                 <span class="toc-title">{getTranslatedTitle(lawInfo.abbr, `${art.meta.article}${suffix}`, lang, art.meta.title)}</span>
                 {hasContent && <span class="toc-badge" title={t('law.commented', lang)}>&#9679;</span>}
               </a>

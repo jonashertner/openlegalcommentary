@@ -62,7 +62,10 @@ const { html: summaryHtml } = renderMarkdown(summary, lang);
 const { html: doctrineHtml, toc: doctrineToc } = renderMarkdown(doctrine, lang);
 const { html: caselawHtml, toc: caselawToc } = renderMarkdown(caselaw, lang);
 
-const articleDisplay = `Art. ${meta.article}${meta.article_suffix || ''} ${lawInfo.abbr}`;
+const isPreamble = meta.article === 0;
+const articleDisplay = isPreamble
+  ? `${translatedTitle} ${lawInfo.abbr}`
+  : `Art. ${meta.article}${meta.article_suffix || ''} ${lawInfo.abbr}`;
 
 const layerParam = Astro.url.searchParams.get('layer') || 'summary';
 const activeTab = ['summary', 'doctrine', 'caselaw'].includes(layerParam) ? layerParam : 'summary';

@@ -32,7 +32,8 @@
       "Bundesgericht und andere richterliche Behörden": "Federal Supreme Court and other Judicial Authorities",
       "Revision der Bundesverfassung und Übergangsbestimmungen": "Revision of the Federal Constitution and Transitional Provisions",
       "Revision": "Revision",
-      "Übergangsbestimmungen": "Transitional Provisions"
+      "Übergangsbestimmungen": "Transitional Provisions",
+      "Präambel": "Preamble"
     },
     "fr": {
       "Allgemeine Bestimmungen": "Dispositions générales",
@@ -66,7 +67,8 @@
       "Bundesgericht und andere richterliche Behörden": "Tribunal fédéral et autres autorités judiciaires",
       "Revision der Bundesverfassung und Übergangsbestimmungen": "Révision de la Constitution et dispositions transitoires",
       "Revision": "Révision",
-      "Übergangsbestimmungen": "Dispositions transitoires"
+      "Übergangsbestimmungen": "Dispositions transitoires",
+      "Präambel": "Préambule"
     },
     "it": {
       "Allgemeine Bestimmungen": "Disposizioni generali",
@@ -100,7 +102,8 @@
       "Bundesgericht und andere richterliche Behörden": "Tribunale federale e altre autorità giudiziarie",
       "Revision der Bundesverfassung und Übergangsbestimmungen": "Revisione della Costituzione e disposizioni transitorie",
       "Revision": "Revisione",
-      "Übergangsbestimmungen": "Disposizioni transitorie"
+      "Übergangsbestimmungen": "Disposizioni transitorie",
+      "Präambel": "Preambolo"
     }
   }
 }
