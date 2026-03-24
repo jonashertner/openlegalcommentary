@@ -52,16 +52,6 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
       <span class="header-lang-switcher">
         <LanguageSwitcher currentLang={lang} pagePath={pagePath} />
       </span>
-
-      <button class="theme-toggle" aria-label={t('header.theme_toggle', lang)} title={t('header.theme_toggle', lang)}>
-        <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="12" cy="12" r="5"/>
-          <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
-        </svg>
-        <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
-        </svg>
-      </button>
     </div>
   </div>
   <SearchModal lang={lang} />
@@ -210,33 +200,6 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     color: var(--color-text-muted);
   }
 
-  .theme-toggle {
-    background: none;
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-md);
-    cursor: pointer;
-    padding: 7px;
-    color: var(--color-text-muted);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: color var(--transition-fast), border-color var(--transition-fast), background var(--transition-fast);
-  }
-
-  .theme-toggle:hover {
-    color: var(--color-text);
-    border-color: var(--color-text-muted);
-    background: var(--color-bg-alt);
-  }
-
-  .icon-moon { display: none; }
-  [data-theme='dark'] .icon-sun { display: none; }
-  [data-theme='dark'] .icon-moon { display: block; }
-
-  @media (prefers-color-scheme: dark) {
-    :root:not([data-theme='light']) .icon-sun { display: none; }
-    :root:not([data-theme='light']) .icon-moon { display: block; }
-  }
 
   .nav-lang-item {
     display: none;
@@ -333,17 +296,6 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 
 <script>
   document.addEventListener('astro:page-load', () => {
-    const toggle = document.querySelector('.theme-toggle');
-    if (toggle) {
-      toggle.addEventListener('click', () => {
-        const html = document.documentElement;
-        const current = html.getAttribute('data-theme');
-        const next = current === 'dark' ? 'light' : (current === 'light' ? 'dark' : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'light' : 'dark'));
-        html.setAttribute('data-theme', next);
-        localStorage.setItem('theme', next);
-      });
-    }
-
     const navToggle = document.querySelector('.nav-toggle');
     const navMenu = document.getElementById('nav-menu');
     if (navToggle && navMenu) {
