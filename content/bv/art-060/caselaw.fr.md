@@ -1,71 +1,57 @@
-# Art. 60 Cst. — Législation militaire et organisation de l'armée
-
 ## Jurisprudence
 
-La jurisprudence relative à l'art. 60 Cst. est limitée, car la norme contient principalement une attribution de compétences et la plupart des cas litigieux sont tranchés au niveau législatif. Les décisions disponibles peuvent être classées thématiquement :
+### Compétence fédérale pour la législation et l'organisation militaires
 
-### I. Étendue de la compétence fédérale
+**ATF 67 I 277** (17 juillet 1941)  
+Différends entre la Confédération et les cantons concernant l'administration militaire et la reprise d'installations militaires.  
+L'arrêt précise la nature impérative de l'ordre de répartition des compétences constitutionnelles en matière militaire et les limites des accords contractuels entre la Confédération et les cantons.
 
-**ATF 99 Ia 630** (24 octobre 1973)
-L'ancienne Constitution fédérale de 1874 contenait une disposition de compétence comparable. Le Tribunal fédéral a précisé que l'organisation militaire relève exclusivement de la Confédération, la norme s'appliquant également aux assurances sociales d'importance militaire.
+> « Les prescriptions concernant la répartition de l'administration militaire entre la Confédération et les cantons (art. 20, al. 1, Cst., OM et les dispositions pertinentes, notamment celles relatives aux droits et devoirs des cantons) sont des normes impératives de droit public. La répartition des compétences qui y est établie ne peut pas être modifiée par des accords entre la Confédération et un canton. »
 
-> « L'art. 60 Cst. oblige les cantons à traiter tous les citoyens suisses de manière égale tant dans la législation que dans la procédure judiciaire. »
+### Organisation militaire et responsabilité
 
-### II. Exécution de la législation militaire
+**ATF 123 II 577** (1997)  
+Responsabilité de la Confédération en cas de collision entre un aéronef militaire et un aéronef civil en vol.  
+Le Tribunal fédéral a précisé que la compétence fédérale en matière de législation militaire s'étend également aux dispositions sur la responsabilité.
 
-#### A. Dispenses de service pour activités indispensables
+> « La responsabilité de la Confédération pour une collision entre un aéronef militaire et un aéronef civil en vol ne se règle pas d'après la loi sur l'aviation, mais d'après l'organisation militaire (aujourd'hui : loi militaire). »
 
-**A-2884/2019** (17 février 2020, TAF)
-Les dispenses de service selon l'art. 18 LM doivent être appliquées restrictivement, car elles constituent une atteinte à l'obligation générale de servir. Les conditions doivent être remplies cumulativement.
+**ATF 127 II 289** (2001)  
+Rapport entre la responsabilité fédérale selon la loi militaire et l'assurance militaire.  
+L'arrêt confirme la compétence fédérale globale pour l'ensemble de l'ordre juridique militaire y compris les règles de responsabilité.
 
-> « La liste des activités indispensables doit être tenue courte, car la dispense de service constitue une certaine atteinte à l'obligation générale de servir et elle doit donc être appliquée restrictivement. »
+> « Selon l'art. 135, al. 3, LM, la responsabilité de la Confédération en cas de faits qui tombent sous d'autres dispositions de responsabilité se règle d'après ces dispositions. »
 
-**A-3015/2019** (20 avril 2020, TAF)
-Le Tribunal administratif fédéral a confirmé l'application restrictive des bonifications de formation dans le domaine militaire. Les conditions légales doivent être examinées strictement.
+### Recours contre les membres de l'armée
 
-#### B. Taxe d'exemption de l'obligation de servir
+**ATF 111 Ib 192** (1985)  
+Recours de la Confédération contre les membres de l'armée en cas de faute grave.  
+L'arrêt montre la mise en œuvre pratique de la compétence fédérale pour l'organisation et la responsabilité en matière militaire.
 
-**ATF 108 Ib 115** (9 juillet 1982)
-L'exemption de la taxe d'exemption de l'obligation de servir présuppose l'aptitude au service. Celui qui est inapte au service pour des raisons de santé ne peut se prévaloir des motifs d'exemption selon l'art. 13 OM.
+> « Selon l'art. 22, al. 1, OM, la Confédération répond sans égard à la faute du militaire du dommage que celui-ci cause à un tiers dans l'exercice d'une activité de service. [...] En revanche, la Confédération peut exercer un recours contre le militaire qui a causé le dommage si celui-ci a agi intentionnellement ou par faute grave. »
 
-> « N'est exempté de l'obligation de payer la taxe d'exemption au sens de l'art. 4 al. 1 let. c LOEM que la personne astreinte au service militaire qui est apte au service. »
+### Installations militaires et indemnisation
 
-**ATF 121 II 166** (11 août 1995)
-Le Tribunal fédéral a précisé qu'une prestation de travail dans l'intérêt public (service du travail) n'est pas reconnue comme prestation de service équivalente au service militaire. La taxe d'exemption de l'obligation de servir n'est pas une peine, mais une prestation de remplacement prévue par la Constitution.
+**ATF 108 Ib 220** (1982)  
+Traitement procédural des prétentions en recours de la Confédération contre les membres de l'armée.  
+L'arrêt illustre la compétence fédérale pour l'administration des installations militaires et leurs conséquences juridiques.
 
-> « La taxe d'exemption de l'obligation de servir n'est pas une peine. C'est la prestation de remplacement que doit payer le citoyen suisse qui n'accomplit pas son obligation militaire - pour quelque raison que ce soit - ou ne l'accomplit pas dans la mesure légalement prescrite par une prestation personnelle. »
+**ATF 108 Ib 9** (1982)  
+Responsabilité du militaire selon l'organisation militaire.  
+Précision supplémentaire de la compétence fédérale globale dans les affaires militaires.
 
-**ATF 122 II 56** (8 février 1996)
-Pour les doubles nationaux, des règles particulières s'appliquent pour l'exemption de la taxe d'exemption de l'obligation de servir. L'obligation militaire des Suisses de l'étranger et des doubles nationaux doit être appréciée restrictivement.
+**ATF 103 Ib 276** (1977)  
+Responsabilité fédérale pour les dommages survenus lors du service militaire.  
+L'arrêt confirme la compétence exclusive de la Confédération pour les questions de responsabilité militaire comme partie de l'organisation militaire.
 
-### III. Droit de la responsabilité
+> « Pour le dommage corporel des survivants, la Confédération ne répond pas selon l'art. 22, al. 1, OM. La LAM tombe sous les « autres dispositions de responsabilité » réservées à l'art. 22, al. 2, OM. »
 
-#### A. Responsabilité de la Confédération lors d'engagements militaires
+### Développements modernes
 
-**ATF 123 II 577** (12 septembre 1997)
-La responsabilité de la Confédération pour les dommages lors d'activités militaires se régit selon l'organisation militaire (aujourd'hui : loi militaire), non selon des lois spéciales comme la loi sur l'aviation.
+**A-2884/2019** (17 février 2020, TAF)  
+Obligation de servir et organisation militaires.  
+Jurisprudence actuelle sur l'application de la compétence fédérale pour la législation militaire dans des contextes modernes.
 
-> « La responsabilité de la Confédération pour une collision entre un aéronef militaire et un aéronef civil en l'air ne se régit pas selon la loi sur l'aviation, mais selon l'organisation militaire. »
-
-**ATF 108 Ib 220** (22 octobre 1982)
-Les prétentions récursoires de la Confédération contre les militaires doivent être fait valoir par décision. Le droit de procédure suit les principes généraux du droit administratif.
-
-**ATF 111 Ib 192** (20 décembre 1985)
-Lors de l'appréciation de la faute grave des militaires, les circonstances particulières du service militaire doivent être prises en considération.
-
-### IV. Service civil et liberté de conscience
-
-#### A. Admission au service civil
-
-**B-2840/2023** (13 septembre 2023, TAF)
-La dispense de service du service civil pour activités indispensables est appliquée restrictivement. Il ne suffit pas qu'une activité soit socialement utile ; elle doit remplir les conditions légales.
-
-**ATAF 2023 I/3** (13 septembre 2023, TAF)
-Le Tribunal administratif fédéral a confirmé les fondements historiques de l'organisation militaire et son développement depuis 1874. L'unification de l'organisation militaire était une préoccupation centrale de l'État fédéral.
-
-### V. Droit d'expropriation
-
-**ATF 109 Ib 130** (3 juin 1983)
-Le Département militaire fédéral est habilité à engager des procédures d'expropriation à des fins militaires. Les conditions de droit matériel et de procédure doivent cependant être examinées soigneusement.
-
-> « Le Département militaire fédéral est habilité, en raison de sa compétence matérielle pour la défense nationale, à engager des procédures d'expropriation à des fins militaires. »
+**B-2840/2023** (13 septembre 2023, TAF)  
+Service civil comme alternative au service militaire.  
+L'arrêt montre l'évolution de la compétence fédérale dans le domaine de l'organisation militaire en incluant le service civil.

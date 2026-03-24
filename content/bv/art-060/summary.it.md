@@ -1,13 +1,13 @@
-# Art. 60 Cost. — Legislazione militare e organizzazione dell'esercito
-
 ## Panoramica
 
-L'art. 60 Cost. conferisce alla Confederazione la competenza esclusiva per gli affari militari. L'articolo proviene dalla Costituzione federale del 1848 ed era una pietra angolare della fondazione dello Stato (Diggelmann/Altwicker, BSK BV, Art. 60 N. 2).
+L'art. 60 Cost. disciplina la sovranità militare (competenza per gli affari militari) in Svizzera. La Confederazione è l'unica responsabile di tutte le leggi militari, dell'organizzazione dell'esercito, della formazione dei soldati e del loro equipaggiamento. I Cantoni non hanno più proprie competenze militari.
 
-**Cosa disciplina la norma?** Il cpv. 1 attribuisce alla Confederazione tre settori centrali: primo la legislazione militare (tutte le leggi con riferimento militare), secondo l'organizzazione dell'esercito (struttura e condotta) e terzo l'istruzione e l'equipaggiamento delle truppe. Questa competenza è globale e include persino i divieti di fumo nelle caserme (Jaag/Rüssli, AJP 2006, 21 segg.). Il cpv. 2 è stato abrogato. Il cpv. 3 permette alla Confederazione di rilevare contro indennizzo le installazioni militari dei Cantoni.
+**Chi è interessato?** Tutti i cittadini svizzeri che devono prestare servizio militare, nonché le autorità cantonali e federali. Anche i civili sono interessati quando subiscono danni a causa di attività militari.
 
-**Chi è interessato?** Tutti i cittadini svizzeri soggiacciono all'obbligo del servizio militare. I Cantoni perdono ogni competenza normativa in ambito militare, ma possono assumere compiti esecutivi. Le prescrizioni cantonali su questioni militari sono contrarie al diritto federale (**BGE 123 II 577**).
+**Cosa significa concretamente?** Solo la Confederazione può emanare leggi sull'esercito. Essa determina come è strutturato l'esercito, quale formazione ricevono i soldati e quali armi utilizzano. Se un veicolo militare causa un incidente, la Confederazione risponde secondo il diritto federale - non i Cantoni. I Cantoni non possono emanare proprie prescrizioni militari, nemmeno per i poligoni di tiro locali.
 
-**Quali sono le conseguenze giuridiche?** La Confederazione può disciplinare unitariamente tutti gli affari militari. La Legge militare (LM) concretizza l'art. 60 Cost. e crea disposizioni dettagliate per l'obbligo di prestare servizio, l'equipaggiamento e l'organizzazione. In caso di danni risponde la Confederazione secondo le disposizioni del diritto militare (**BGE 108 Ib 220**).
+**Esempio:** Se un Cantone vuole vietare le esercitazioni militari rumorose di notte, può farlo solo se l'utilizzo militare rimane comunque possibile. Un divieto notturno completo sarebbe incostituzionale, poiché violerebbe la competenza federale.
 
-**Esempio:** Un Cantone vuole vietare il fumo negli edifici militari. Ciò è inammissibile, poiché anche le prescrizioni sanitarie nelle installazioni dell'esercito appartengono alla competenza della Confederazione (Jaag/Rüssli, AJP 2006, 28). La Confederazione può tuttavia rilevare arsenali cantonali esistenti e deve per questo versare un indennizzo adeguato (SG Komm. BV-Meyer, Art. 60 N. 9).
+La Confederazione può assumere impianti militari dei Cantoni dietro congrua retribuzione. Oggi questo avviene però raramente, poiché l'esercito è già completamente organizzato dalla Confederazione. La norma risale ancora al tempo in cui i Cantoni avevano proprie truppe.
+
+**Conseguenze giuridiche:** In caso di controversie su questioni militari si applica esclusivamente il diritto federale. Le leggi cantonali in ambito militare sono incostituzionali e inefficaci.
