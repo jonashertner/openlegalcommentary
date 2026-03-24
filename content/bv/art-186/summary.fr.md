@@ -1,0 +1,9 @@
+# Art. 186 Cst. — Vue d'ensemble
+
+L'art. 186 Cst. règle les tâches du Conseil fédéral dans le système fédéral. Le Conseil fédéral doit entretenir les relations avec les cantons et collaborer avec eux (al. 1). Il doit approuver les actes normatifs cantonaux lorsque le droit fédéral l'exige pour la bonne exécution de celui-ci (al. 2). Le Conseil fédéral peut faire opposition aux traités entre cantons ou entre cantons et l'étranger (al. 3). Enfin, il veille au respect du droit fédéral par les cantons et prend les mesures nécessaires en cas de violation (al. 4).
+
+Cette norme est centrale pour le fédéralisme coopératif en Suisse (FF 1997 I 447). L'entretien des relations (al. 1) comprend des consultations régulières et le dialogue dans des conférences, mais ne fonde aucun droit exigible des cantons (Biaggini, BV Kommentar, Art. 186 N 3). L'obligation d'approbation (al. 2) n'existe qu'en cas de prescription expresse du droit fédéral ou si, sans approbation, l'application uniforme du droit serait mise en péril (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar, Art. 186 N 11).
+
+La surveillance fédérale (al. 4) est une obligation, pas seulement une compétence du Conseil fédéral (JAAC 69.1). Elle doit garantir l'application uniforme et correcte du droit fédéral (**ATF 148 II 369**). Le Conseil fédéral dispose de différents moyens de surveillance : de l'information aux rappels à l'ordre jusqu'à l'exécution de substitution (Tschannen/Zimmerli/Müller, Verwaltungsrecht, § 57 N 23). En dernier recours, l'intervention fédérale est à disposition.
+
+Un exemple : si un canton refuse l'exécution conforme du droit des étrangers, le Conseil fédéral peut d'abord adresser un rappel à l'ordre, puis édicter des instructions et finalement assumer lui-même la tâche.
