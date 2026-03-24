@@ -1,3 +1,9 @@
-# Uebersicht
+# Art. 186 BV — Übersicht
 
-Art. 186 BV — Art. 186 BV
+Art. 186 BV regelt die Aufgaben des Bundesrates im föderalen System. Der Bundesrat muss die Beziehungen zu den Kantonen pflegen und mit ihnen zusammenarbeiten (Abs. 1). Er hat kantonale Erlasse zu genehmigen, wenn das Bundesrecht dies für dessen korrekte Durchführung verlangt (Abs. 2). Der Bundesrat kann gegen Verträge zwischen Kantonen oder zwischen Kantonen und dem Ausland Einsprache erheben (Abs. 3). Schliesslich sorgt er für die Einhaltung des Bundesrechts durch die Kantone und trifft bei Verstössen die nötigen Massnahmen (Abs. 4).
+
+Die Norm ist zentral für den kooperativen Föderalismus in der Schweiz (BBl 1997 I 447). Die Beziehungspflege (Abs. 1) umfasst regelmässige Konsultationen und den Dialog in Konferenzen, begründet aber keine einklagbaren Rechte der Kantone (Biaggini, BV Kommentar, Art. 186 N 3). Die Genehmigungspflicht (Abs. 2) besteht nur bei ausdrücklicher bundesrechtlicher Vorgabe oder wenn ohne Genehmigung die einheitliche Rechtsdurchführung gefährdet wäre (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar, Art. 186 N 11).
+
+Die Bundesaufsicht (Abs. 4) ist eine Pflicht, nicht nur eine Befugnis des Bundesrates (JAAC 69.1). Sie soll die einheitliche und korrekte Anwendung von Bundesrecht sicherstellen (**BGE 148 II 369**). Der Bundesrat verfügt über verschiedene Aufsichtsmittel: von der Information über Mahnungen bis zur Ersatzvornahme (Tschannen/Zimmerli/Müller, Verwaltungsrecht, § 57 N 23). Als letztes Mittel steht die Bundesintervention zur Verfügung.
+
+Ein Beispiel: Verweigert ein Kanton die ordnungsgemässe Durchführung des Ausländerrechts, kann der Bundesrat zunächst mahnen, dann Weisungen erlassen und schliesslich die Aufgabe selbst übernehmen.

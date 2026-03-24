@@ -1,0 +1,9 @@
+# Art. 186 Cost. — Panoramica
+
+L'art. 186 Cost. disciplina i compiti del Consiglio federale nel sistema federale. Il Consiglio federale deve curare i rapporti con i Cantoni e collaborare con essi (cpv. 1). Deve approvare gli atti normativi cantonali quando il diritto federale lo esige per la sua corretta attuazione (cpv. 2). Il Consiglio federale può opporsi ai trattati tra Cantoni o tra Cantoni e Paesi esteri (cpv. 3). Infine, vigila sull'osservanza del diritto federale da parte dei Cantoni e prende le misure necessarie in caso di violazioni (cpv. 4).
+
+La norma è centrale per il federalismo cooperativo in Svizzera (FF 1997 I 447). La cura dei rapporti (cpv. 1) comprende consultazioni regolari e il dialogo nelle conferenze, ma non fonda diritti azionabili dei Cantoni (Biaggini, BV Kommentar, Art. 186 N 3). L'obbligo di approvazione (cpv. 2) sussiste solo in presenza di una prescrizione espressa del diritto federale o quando senza approvazione sarebbe compromessa l'applicazione uniforme del diritto (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar, Art. 186 N 11).
+
+La vigilanza federale (cpv. 4) è un dovere, non solo una facoltà del Consiglio federale (JAAC 69.1). Essa deve garantire l'applicazione uniforme e corretta del diritto federale (**DTF 148 II 369**). Il Consiglio federale dispone di diversi strumenti di vigilanza: dall'informazione agli ammonimenti fino alla sostituzione nell'adempimento (Tschannen/Zimmerli/Müller, Verwaltungsrecht, § 57 N 23). Come ultima risorsa è disponibile l'intervento federale.
+
+Un esempio: se un Cantone rifiuta l'attuazione regolare del diritto degli stranieri, il Consiglio federale può dapprima ammonire, poi impartire istruzioni e infine assumere direttamente il compito.

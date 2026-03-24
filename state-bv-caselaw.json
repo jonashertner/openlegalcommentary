@@ -1692,170 +1692,170 @@
       "law": "BV",
       "article_number": 180,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.8399099999999997,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 181,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 2.3186940000000003,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 182,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.023565,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 183,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 2.551413,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 184,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.703143,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 185,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.7121399999999998,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 186,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.347358,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 187,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.7140690000000003,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 188,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.3318060000000003,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 189,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.472632,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 190,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.045093,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 191,
       "article_suffix": "",
-      "status": "pending",
+      "status": "failed",
       "cost_usd": 0.0,
-      "error": ""
+      "error": "One or more layers failed"
     },
     {
       "law": "BV",
       "article_number": 191,
       "article_suffix": "a",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 2.431995,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 191,
       "article_suffix": "b",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 6.058848,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 191,
       "article_suffix": "c",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 5.4121109999999994,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 192,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 4.299603,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 193,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 2.038299,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 194,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 1.761612,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 195,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 2.987085,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 196,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 3.128265,
       "error": ""
     },
     {
       "law": "BV",
       "article_number": 197,
       "article_suffix": "",
-      "status": "pending",
-      "cost_usd": 0.0,
+      "status": "completed",
+      "cost_usd": 6.21546,
       "error": ""
     }
   ],
-  "total_cost": 494.3947590000002
+  "total_cost": 564.7878600000004
 }

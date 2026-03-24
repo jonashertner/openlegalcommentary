@@ -1,0 +1,9 @@
+# Art. 186 BV — Overview
+
+Art. 186 BV governs the tasks of the Federal Council in the federal system. The Federal Council must maintain relations with the cantons and cooperate with them (para. 1). It must approve cantonal enactments when federal law requires this for its proper implementation (para. 2). The Federal Council may object to treaties between cantons or between cantons and foreign countries (para. 3). Finally, it ensures compliance with federal law by the cantons and takes necessary measures in case of violations (para. 4).
+
+This provision is central to cooperative federalism in Switzerland (BBl 1997 I 447). Maintaining relations (para. 1) includes regular consultations and dialogue in conferences, but does not create enforceable rights for the cantons (Biaggini, BV Kommentar, Art. 186 N 3). The approval requirement (para. 2) exists only when expressly required by federal law or when uniform implementation of the law would be endangered without approval (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar, Art. 186 N 11).
+
+Federal supervision (para. 4) is a duty, not merely a power of the Federal Council (JAAC 69.1). It is intended to ensure uniform and correct application of federal law (**BGE 148 II 369**). The Federal Council has various supervisory instruments at its disposal: from information to warnings to substitute performance (Tschannen/Zimmerli/Müller, Verwaltungsrecht, § 57 N 23). Federal intervention is available as a last resort.
+
+An example: If a canton refuses to properly implement immigration law, the Federal Council may first issue a warning, then issue instructions, and finally take over the task itself.
