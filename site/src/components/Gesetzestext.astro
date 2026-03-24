@@ -15,15 +15,21 @@ const hasParagraphs = paragraphs.length > 0;
 // Build Fedlex URL for the given language
 function fedlexLangUrl(url: string, l: string): string {
   if (!url) return '';
-  return url.replace(/\/(de|fr|it)(#|$)/, `/${l}$2`);
+  return url.replace(/\/(de|fr|it|en)(#|$)/, `/${l}$2`);
 }
 
 const resolvedFedlexUrl = fedlexLangUrl(fedlexUrl, lang);
 
-// Strip footnote reference numbers (e.g., "b.128" → "b.", "text130" → "text")
+// Strip footnote reference numbers from text
 function stripFootnotes(text: string): string {
-  // Remove superscript-style trailing footnote numbers
-  return text.replace(/\d{2,3}$/g, '').replace(/\d{2,3}(\s)/g, '$1').trim();
+  return text
+    // Remove trailing footnote numbers: "text.129" → "text."
+    .replace(/(\S)\d{2,3}$/g, '$1')
+    // Remove mid-text footnote numbers before whitespace: "text128 more" → "text more"
+    .replace(/(\S)\d{2,3}(\s)/g, '$1$2')
+    // Remove standalone trailing numbers: "text 130" at end
+    .replace(/\s\d{2,3}$/g, '')
+    .trim();
 }
 function stripLetterFootnote(letter: string): string {
   return letter.replace(/^([a-z](?:bis|ter|quater)?\.?)\d+$/i, '$1');
@@ -51,9 +57,13 @@ function isAmendmentNote(text: string): boolean {
   return amendmentPatterns.some(p => p.test(text.trim()));
 }
 
-// Clean paragraphs: filter amendments, strip footnotes
+// Clean paragraphs: filter amendments and footnote paragraphs, strip footnote numbers
 const cleanParagraphs = paragraphs.filter(p => {
   if (p.text && isAmendmentNote(p.text)) return false;
+  // Filter out footnote paragraphs: high num + amendment text pattern
+  if (p.num && parseInt(p.num, 10) >= 20 && p.text && isAmendmentNote(p.text)) return false;
+  // Also filter standalone high-numbered footnotes referencing AS/BBl/FedD
+  if (p.num && parseInt(p.num, 10) >= 20 && p.text && /\b(AS|BBl|FedD|BRB|BB vom|FCD)\b/.test(p.text)) return false;
   return true;
 }).map(p => {
   if (p.type === 'list' && p.items) {
