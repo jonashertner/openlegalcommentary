@@ -1,0 +1,13 @@
+# Aperçu
+
+L'art. 105 Cst. confère à la Confédération la compétence exclusive de légiférer sur la fabrication, l'importation, la rectification et la vente d'eaux-de-vie. La notion d'« eaux-de-vie » englobe toutes les boissons alcooliques produites par distillation contenant plus de 15% d'alcool en volume (art. 2 al. 2 LAlc). Cela comprend le whisky, la vodka, le gin et autres spiritueux – mais pas la bière ou le vin, qui ne résultent que de la fermentation.
+
+La Confédération doit tenir compte de la protection de la santé dans sa législation. C'est pourquoi elle taxe les spiritueux importés d'une taxe de monopole de 29 francs par litre d'alcool pur (art. 23 OAlc). Cette taxe élevée vise à réduire la consommation d'alcool et à protéger la santé publique. La Confédération contrôle aussi la production par un système de concessions pour les distilleries.
+
+Les cantons ne peuvent pas édicter leurs propres lois dans le domaine des spiritueux. Ils ne peuvent établir que des règles complémentaires concernant les patentes d'établissement public et les heures de vente. Si un canton viole cette répartition des compétences, le Tribunal fédéral peut intervenir (**ATF 143 II 409**).
+
+**Exemple** : Une distillerie souhaite produire du whisky. Elle a besoin d'une concession de la Confédération selon la loi sur l'alcool et en plus d'une autorisation d'exploiter cantonale. Pour l'importation de vodka, un importateur paie 29 francs de taxe de monopole par litre d'alcool pur. Un canton ne peut pas lever de taxe supplémentaire sur l'alcool concernant les spiritueux.
+
+L'historique montre : Après de graves problèmes sociaux dus à l'alcoolisme au XIXe siècle, la Confédération a obtenu ses premières compétences en 1885. La réglementation actuelle date de la révision totale de 1999, lorsque trois anciens articles constitutionnels ont été regroupés dans l'art. 105 Cst. (FF 1997 I 1, 276). La Suisse voulait réduire la consommation d'alcool par le contrôle étatique et des taxes élevées.
+
+Actuellement, le Conseil fédéral prépare une réforme de la législation sur l'alcool. Les prix minimums pour les boissons alcooliques et les interdictions de vente nocturnes sont controversés. Le Conseil des États a approuvé de telles mesures, le Conseil national les a refusées. La doctrine est partagée : Uhlmann voit des marges de manœuvre constitutionnelles, tandis que Pärli/Lehne considèrent les prix minimums comme admissibles.

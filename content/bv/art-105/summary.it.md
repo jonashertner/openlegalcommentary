@@ -1,0 +1,13 @@
+# Panoramica
+
+L'art. 105 Cost. conferisce alla Confederazione la competenza esclusiva per la legislazione sulla fabbricazione, importazione, depurazione e vendita di alcolici distillati. Il termine «acque distillate» comprende tutte le bevande alcoliche prodotte per distillazione con più del 15% di alcol in volume (art. 2 cpv. 2 LAlc). Rientrano in questa categoria whisky, vodka, gin e altri alcolici distillati – non però birra o vino, che vengono prodotti solo per fermentazione.
+
+Nella legislazione, la Confederazione deve tenere conto della protezione della salute. Pertanto tassa gli alcolici distillati importati con una tassa di monopolio di 29 franchi per litro di alcol puro (art. 23 OAlc). Questa tassa elevata mira a ridurre il consumo di alcol e proteggere la salute pubblica. La Confederazione controlla anche la produzione attraverso un sistema di concessioni per le distillerie.
+
+I Cantoni non possono emanare leggi proprie nel settore degli alcolici distillati. Possono stabilire regole complementari solo per le patenti degli esercizi pubblici e gli orari di vendita. Se un Cantone viola questo ordine di competenze, il Tribunale federale può intervenire (**BGE 143 II 409**).
+
+**Esempio**: Una distilleria vuole produrre whisky. Ha bisogno di una concessione della Confederazione secondo la legge sull'alcol e inoltre di un'autorizzazione commerciale cantonale. Per l'importazione di vodka, un importatore paga 29 franchi di tassa di monopolio per litro di alcol puro. Un Cantone non può riscuotere una tassa aggiuntiva sull'alcol per gli alcolici distillati.
+
+La genesi storica mostra: dopo gravi problemi sociali dovuti all'alcolismo nel XIX secolo, la Confederazione ottenne nel 1885 le prime competenze. La disciplina attuale deriva dalla revisione totale del 1999, quando tre vecchi articoli costituzionali furono riuniti nell'art. 105 Cost. (FF 1997 I 1, 276). La Svizzera voleva ridurre il consumo di alcol attraverso il controllo statale e tasse elevate.
+
+Attualmente il Consiglio federale pianifica una riforma della legislazione sull'alcol. Controverse sono i prezzi minimi per le bevande alcoliche e i divieti di vendita notturni. Il Consiglio degli Stati ha sostenuto tali misure, il Consiglio nazionale le ha respinte. La dottrina è divisa: Uhlmann vede margini di manovra dal punto di vista del diritto costituzionale, mentre Pärli/Lehne ritengono ammissibili i prezzi minimi.
