@@ -22,14 +22,54 @@ const resolvedFedlexUrl = fedlexLangUrl(fedlexUrl, lang);
 
 // Strip footnote reference numbers (e.g., "b.128" → "b.", "text130" → "text")
 function stripFootnotes(text: string): string {
-  return text.replace(/(\D)\d{2,3}$/g, '$1').replace(/(\D)\d{2,3}(\s)/g, '$1$2').trim();
+  // Remove superscript-style trailing footnote numbers
+  return text.replace(/\d{2,3}$/g, '').replace(/\d{2,3}(\s)/g, '$1').trim();
 }
 function stripLetterFootnote(letter: string): string {
   return letter.replace(/^([a-z](?:bis|ter|quater)?\.?)\d+$/i, '$1');
 }
+
+// Filter out amendment note paragraphs that got parsed as regular content
+const amendmentPatterns = [
+  /^Angenommen in der Volksabstimmung/i,
+  /^Eingefügt durch/i,
+  /^Aufgehoben durch/i,
+  /^Fassung gemäss/i,
+  /^Adopted by the popular vote/i,
+  /^Inserted by/i,
+  /^Repealed by/i,
+  /^Amended by/i,
+  /^Accepté en votation populaire/i,
+  /^Introduit par/i,
+  /^Abrogé par/i,
+  /^Adopté par/i,
+  /^Accettato nella votazione popolare/i,
+  /^Introdotto/i,
+  /^Abrogato/i,
+];
+function isAmendmentNote(text: string): boolean {
+  return amendmentPatterns.some(p => p.test(text.trim()));
+}
+
+// Clean paragraphs: filter amendments, strip footnotes
+const cleanParagraphs = paragraphs.filter(p => {
+  if (p.text && isAmendmentNote(p.text)) return false;
+  return true;
+}).map(p => {
+  if (p.type === 'list' && p.items) {
+    return {
+      ...p,
+      items: p.items.filter(item => !isAmendmentNote(item.text)).map(item => ({
+        letter: stripLetterFootnote(item.letter),
+        text: stripFootnotes(item.text),
+      })),
+    };
+  }
+  return { ...p, text: p.text ? stripFootnotes(p.text) : p.text };
+});
 ---
 
-{hasParagraphs && (
+{cleanParagraphs.length > 0 && (
   <section class="gesetzestext">
     <div class="gesetzestext-header">
       <div class="gesetzestext-label">
@@ -47,14 +87,14 @@ function stripLetterFootnote(letter: string): string {
       </a>
     </div>
     <div class="gesetzestext-body">
-      {paragraphs.map((p) => {
+      {cleanParagraphs.map((p) => {
         if (p.type === 'list' && p.items) {
           return (
             <dl class="gesetzestext-list">
               {p.items.map((item) => (
                 <>
-                  <dt>{stripLetterFootnote(item.letter)}</dt>
-                  <dd>{stripFootnotes(item.text)}</dd>
+                  <dt>{item.letter}</dt>
+                  <dd>{item.text}</dd>
                 </>
               ))}
             </dl>
@@ -63,7 +103,7 @@ function stripLetterFootnote(letter: string): string {
         return (
           <p class:list={['gesetzestext-absatz', { 'has-num': !!p.num }]}>
             {p.num && <span class="absatz-num">{p.num}</span>}
-            <span class="absatz-text">{stripFootnotes(p.text)}</span>
+            <span class="absatz-text">{p.text}</span>
           </p>
         );
       })}
