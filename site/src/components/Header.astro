@@ -18,9 +18,7 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   <div class="header-inner page-wrapper">
     <a href={langHome(lang)} class="site-logo">
       <span class="logo-mark" aria-hidden="true">§</span>
-      <span class="logo-text">
-        <span class="logo-title">Open Legal Commentary</span>
-      </span>
+      <span class="logo-title">Open Legal Commentary</span>
     </a>
 
     <nav class="site-nav" aria-label={t('header.nav_label', lang)}>
@@ -60,7 +58,6 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 <style>
   .site-header {
     border-bottom: 1px solid var(--color-border);
-    background: var(--color-bg);
     position: sticky;
     top: 0;
     z-index: 100;
@@ -68,34 +65,39 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     background: color-mix(in srgb, var(--color-bg) 85%, transparent);
   }
 
+  .site-header.scrolled {
+    box-shadow: var(--shadow-sm);
+  }
+
   .header-inner {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    height: 60px;
-    gap: var(--space-3);
+    height: 56px;
+    gap: var(--space-2);
   }
 
+  /* === Logo === */
   .site-logo {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
     text-decoration: none;
     color: var(--color-text);
     white-space: nowrap;
+    flex-shrink: 0;
   }
 
   .logo-mark {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 30px;
-    height: 30px;
+    width: 28px;
+    height: 28px;
     background: var(--color-accent);
     color: white;
     border-radius: 6px;
     font-family: var(--font-display);
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     font-weight: 400;
     line-height: 1;
   }
@@ -105,21 +107,23 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     font-weight: 700;
     font-size: var(--text-sm);
     letter-spacing: -0.02em;
+    line-height: 1;
   }
 
+  /* === Nav === */
   .site-nav {
     display: flex;
     align-items: center;
+    margin-left: auto;
   }
 
   .nav-list {
     display: flex;
     list-style: none;
-    gap: var(--space-1);
+    gap: 2px;
     padding: 0;
     margin: 0;
-    /* Reset for Astro scoped styles */
-    visibility: visible;
+    align-items: center;
   }
 
   .nav-list a {
@@ -128,9 +132,11 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     font-weight: 500;
     color: var(--color-text-muted);
     text-decoration: none;
-    padding: 6px 12px;
+    padding: 6px 10px;
     border-radius: var(--radius-md);
     transition: color var(--transition-fast), background var(--transition-fast);
+    white-space: nowrap;
+    line-height: 1;
   }
 
   .nav-list a:hover {
@@ -144,6 +150,7 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     font-weight: 600;
   }
 
+  /* === Hamburger (hidden by default, shown via JS) === */
   .nav-toggle {
     display: none;
     flex-direction: column;
@@ -163,10 +170,13 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     transition: transform var(--transition-fast), opacity var(--transition-fast);
   }
 
+  /* === Right actions === */
   .header-actions {
     display: flex;
     align-items: center;
     gap: var(--space-2);
+    flex-shrink: 0;
+    margin-left: var(--space-2);
   }
 
   .search-trigger {
@@ -177,11 +187,12 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     border: 1px solid var(--color-border);
     border-radius: var(--radius-md);
     cursor: pointer;
-    padding: 6px 10px;
+    padding: 5px 8px;
     color: var(--color-text-muted);
     font-family: var(--font-heading);
     font-size: var(--text-sm);
     transition: color var(--transition-fast), border-color var(--transition-fast), background var(--transition-fast);
+    line-height: 1;
   }
 
   .search-trigger:hover {
@@ -198,138 +209,157 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     padding: 1px 5px;
     background: var(--color-bg-alt);
     color: var(--color-text-muted);
+    line-height: 1;
   }
-
 
   .nav-lang-item {
     display: none;
   }
 
-  @media (max-width: 640px) {
-    .logo-title { display: none; }
+  /* === Mobile mode (applied via JS class .mobile-nav) === */
+  :global(.mobile-nav) .logo-title { display: none; }
 
-    .nav-toggle {
-      display: flex;
-      position: relative;
-      z-index: 102;
-      min-height: 44px;
-      min-width: 44px;
-      align-items: center;
-      justify-content: center;
-    }
+  :global(.mobile-nav) .nav-toggle {
+    display: flex;
+    position: relative;
+    z-index: 102;
+    min-height: 44px;
+    min-width: 44px;
+    align-items: center;
+    justify-content: center;
+  }
 
-    .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(1) {
-      transform: translateY(6.5px) rotate(45deg);
-    }
-    .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(2) {
-      opacity: 0;
-    }
-    .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(3) {
-      transform: translateY(-6.5px) rotate(-45deg);
-    }
+  :global(.mobile-nav) .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(1) {
+    transform: translateY(6.5px) rotate(45deg);
+  }
+  :global(.mobile-nav) .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(2) {
+    opacity: 0;
+  }
+  :global(.mobile-nav) .nav-toggle[aria-expanded="true"] .nav-toggle-bar:nth-child(3) {
+    transform: translateY(-6.5px) rotate(-45deg);
+  }
 
-    .search-trigger kbd { display: none; }
+  :global(.mobile-nav) .search-trigger kbd { display: none; }
+  :global(.mobile-nav) .header-lang-switcher { display: none; }
 
-    .header-lang-switcher { display: none; }
+  :global(.mobile-nav) .nav-lang-item {
+    display: block;
+    padding: var(--space-3) var(--space-3) var(--space-2);
+    border-top: 1px solid var(--color-border-light);
+    margin-top: var(--space-1);
+  }
 
-    .nav-lang-item {
-      display: block;
-      padding: var(--space-3) var(--space-3) var(--space-2);
-      border-top: 1px solid var(--color-border-light);
-      margin-top: var(--space-1);
-    }
+  :global(.mobile-nav) .nav-list {
+    position: fixed;
+    top: 56px;
+    left: 0;
+    right: 0;
+    height: calc(100vh - 56px);
+    height: calc(100dvh - 56px);
+    background: var(--color-bg);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    flex-direction: column;
+    padding: var(--space-4);
+    gap: 0;
+    z-index: 101;
+    overflow-y: auto;
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(-8px);
+    transition: opacity 0.25s var(--ease-out), transform 0.25s var(--ease-out);
+  }
 
-    .nav-list {
-      position: fixed;
-      top: 60px;
-      left: 0;
-      right: 0;
-      height: calc(100vh - 60px);
-      height: calc(100dvh - 60px);
-      background: var(--color-bg);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-      flex-direction: column;
-      padding: var(--space-4) var(--space-4);
-      gap: 0;
-      z-index: 101;
-      overflow-y: auto;
-      pointer-events: none;
-      opacity: 0;
-      transform: translateY(-8px);
-      transition: opacity 0.25s var(--ease-out), transform 0.25s var(--ease-out);
-    }
+  :global(.mobile-nav) .nav-list.open {
+    pointer-events: auto;
+    opacity: 1;
+    transform: translateY(0);
+  }
 
-    .nav-list.open {
-      pointer-events: auto;
-      opacity: 1;
-      transform: translateY(0);
-    }
+  :global(.mobile-nav) .nav-list > li:not(.nav-lang-item) {
+    border-bottom: 1px solid var(--color-border-light);
+  }
 
-    .nav-list > li:not(.nav-lang-item) {
-      border-bottom: 1px solid var(--color-border-light);
-    }
+  :global(.mobile-nav) .nav-list a {
+    display: flex;
+    align-items: center;
+    padding: var(--space-2);
+    border-radius: 0;
+    font-size: var(--text-md);
+    font-weight: 500;
+    min-height: 48px;
+  }
 
-    .nav-list a {
-      display: block;
-      padding: var(--space-2) var(--space-2);
-      border-radius: 0;
-      font-size: var(--text-md);
-      font-weight: 500;
-      min-height: 48px;
-      display: flex;
-      align-items: center;
-    }
+  :global(.mobile-nav) .nav-list a.active {
+    color: var(--color-accent);
+    background: none;
+    font-weight: 600;
+  }
 
-    .nav-list a.active {
-      color: var(--color-accent);
-      background: none;
-      font-weight: 600;
-    }
-
-    .nav-list a:hover {
-      background: none;
-      color: var(--color-accent);
-    }
+  :global(.mobile-nav) .nav-list a:hover {
+    background: none;
+    color: var(--color-accent);
   }
 </style>
 
 <script>
   document.addEventListener('astro:page-load', () => {
-    const navToggle = document.querySelector('.nav-toggle');
+    const header = document.querySelector('.site-header') as HTMLElement;
+    const navToggle = document.querySelector('.nav-toggle') as HTMLElement;
     const navMenu = document.getElementById('nav-menu');
-    if (navToggle && navMenu) {
-      function closeMenu() {
-        navToggle.setAttribute('aria-expanded', 'false');
-        navMenu.classList.remove('open');
-        document.body.style.overflow = '';
+    if (!header || !navToggle || !navMenu) return;
+
+    // --- Responsive nav: detect overflow and switch to mobile mode ---
+    function checkNavFit() {
+      // Temporarily remove mobile mode to measure natural width
+      header.classList.remove('mobile-nav');
+      const headerInner = header.querySelector('.header-inner') as HTMLElement;
+      if (!headerInner) return;
+
+      // Check if content overflows the header
+      const overflows = headerInner.scrollWidth > headerInner.clientWidth;
+      if (overflows) {
+        header.classList.add('mobile-nav');
       }
-      function openMenu() {
-        navToggle.setAttribute('aria-expanded', 'true');
-        navMenu.classList.add('open');
-        document.body.style.overflow = 'hidden';
-      }
-      navToggle.addEventListener('click', () => {
-        const expanded = navToggle.getAttribute('aria-expanded') === 'true';
-        expanded ? closeMenu() : openMenu();
-      });
-      // Close on nav link click
-      navMenu.querySelectorAll('a').forEach(link => {
-        link.addEventListener('click', closeMenu);
-      });
     }
 
-    // Sticky header shadow on scroll
-    const header = document.querySelector('.site-header');
-    if (header) {
-      const sentinel = document.createElement('div');
-      sentinel.style.height = '1px';
-      sentinel.style.position = 'absolute';
-      sentinel.style.top = '0';
-      document.body.prepend(sentinel);
-      new IntersectionObserver(
-        ([e]) => header.classList.toggle('scrolled', !e.isIntersecting)
-      ).observe(sentinel);
+    checkNavFit();
+    const ro = new ResizeObserver(() => {
+      // Close menu on resize
+      navToggle.setAttribute('aria-expanded', 'false');
+      navMenu.classList.remove('open');
+      document.body.style.overflow = '';
+      checkNavFit();
+    });
+    ro.observe(header);
+
+    // --- Mobile menu open/close ---
+    function closeMenu() {
+      navToggle.setAttribute('aria-expanded', 'false');
+      navMenu.classList.remove('open');
+      document.body.style.overflow = '';
     }
+    function openMenu() {
+      navToggle.setAttribute('aria-expanded', 'true');
+      navMenu.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+    navToggle.addEventListener('click', () => {
+      const expanded = navToggle.getAttribute('aria-expanded') === 'true';
+      expanded ? closeMenu() : openMenu();
+    });
+    navMenu.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', closeMenu);
+    });
+
+    // --- Sticky header shadow on scroll ---
+    const sentinel = document.createElement('div');
+    sentinel.style.height = '1px';
+    sentinel.style.position = 'absolute';
+    sentinel.style.top = '0';
+    document.body.prepend(sentinel);
+    new IntersectionObserver(
+      ([e]) => header.classList.toggle('scrolled', !e.isIntersecting)
+    ).observe(sentinel);
   });
 </script>
