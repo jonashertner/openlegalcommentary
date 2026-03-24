@@ -65,13 +65,15 @@ const fullTitle = title === 'Home'
     <ViewTransitions />
     <script is:inline>
       (function() {
-        const saved = localStorage.getItem('theme');
+        // Only apply saved theme if user has explicitly chosen one
+        // Otherwise, let CSS prefers-color-scheme handle it (system default)
+        var saved = localStorage.getItem('theme');
         if (saved) {
           document.documentElement.setAttribute('data-theme', saved);
         }
-        // Restore theme after View Transitions DOM swap
+        // Restore after View Transitions DOM swap
         document.addEventListener('astro:after-swap', function() {
-          const t = localStorage.getItem('theme');
+          var t = localStorage.getItem('theme');
           if (t) document.documentElement.setAttribute('data-theme', t);
         });
       })();
