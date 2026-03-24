@@ -1,8 +1,14 @@
 {
   "BV": {
     "sr_number": "101",
-    "article_count": 232,
+    "article_count": 233,
     "articles": [
+      {
+        "number": 0,
+        "suffix": "",
+        "raw": "0",
+        "title": "Präambel"
+      },
       {
         "number": 1,
         "suffix": "",
