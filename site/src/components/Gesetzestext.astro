@@ -21,18 +21,21 @@ function fedlexLangUrl(url: string, l: string): string {
 const resolvedFedlexUrl = fedlexLangUrl(fedlexUrl, lang);
 
 // Strip footnote reference numbers from text
+// Only strip numbers that are clearly superscript footnote refs:
+// - After a period at end: "text.129" → "text."
+// - After a closing paren: "text)130" → "text)"
+// Do NOT strip numbers after spaces (those are content like "4000 Angehörige")
 function stripFootnotes(text: string): string {
   return text
-    // Remove trailing footnote numbers: "text.129" → "text."
-    .replace(/(\S)\d{2,3}$/g, '$1')
-    // Remove mid-text footnote numbers before whitespace: "text128 more" → "text more"
-    .replace(/(\S)\d{2,3}(\s)/g, '$1$2')
-    // Remove standalone trailing numbers: "text 130" at end
-    .replace(/\s\d{2,3}$/g, '')
+    // Remove footnote number after period at end: "Satz.129" → "Satz."
+    .replace(/(\.)(\d{2,3})$/g, '$1')
+    // Remove footnote number after closing paren at end: "text)130" → "text)"
+    .replace(/(\))(\d{2,3})$/g, '$1')
     .trim();
 }
 function stripLetterFootnote(letter: string): string {
-  return letter.replace(/^([a-z](?:bis|ter|quater)?\.?)\d+$/i, '$1');
+  // "b.128" → "b." but NOT "128" alone
+  return letter.replace(/^([a-z](?:bis|ter|quater)?\.)\d+$/i, '$1');
 }
 
 // Filter out amendment note paragraphs that got parsed as regular content
