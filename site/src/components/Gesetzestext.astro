@@ -19,6 +19,14 @@ function fedlexLangUrl(url: string, l: string): string {
 }
 
 const resolvedFedlexUrl = fedlexLangUrl(fedlexUrl, lang);
+
+// Strip footnote reference numbers (e.g., "b.128" → "b.", "text130" → "text")
+function stripFootnotes(text: string): string {
+  return text.replace(/(\D)\d{2,3}$/g, '$1').replace(/(\D)\d{2,3}(\s)/g, '$1$2').trim();
+}
+function stripLetterFootnote(letter: string): string {
+  return letter.replace(/^([a-z](?:bis|ter|quater)?\.?)\d+$/i, '$1');
+}
 ---
 
 {hasParagraphs && (
@@ -45,8 +53,8 @@ const resolvedFedlexUrl = fedlexLangUrl(fedlexUrl, lang);
             <dl class="gesetzestext-list">
               {p.items.map((item) => (
                 <>
-                  <dt>{item.letter}</dt>
-                  <dd>{item.text}</dd>
+                  <dt>{stripLetterFootnote(item.letter)}</dt>
+                  <dd>{stripFootnotes(item.text)}</dd>
                 </>
               ))}
             </dl>
@@ -55,7 +63,7 @@ const resolvedFedlexUrl = fedlexLangUrl(fedlexUrl, lang);
         return (
           <p class:list={['gesetzestext-absatz', { 'has-num': !!p.num }]}>
             {p.num && <span class="absatz-num">{p.num}</span>}
-            <span class="absatz-text">{p.text}</span>
+            <span class="absatz-text">{stripFootnotes(p.text)}</span>
           </p>
         );
       })}
