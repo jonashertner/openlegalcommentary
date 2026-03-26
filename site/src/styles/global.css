@@ -40,42 +40,42 @@
   --max-width: 1280px;
 
   /* Gradients & effects */
-  --gradient-accent: linear-gradient(135deg, #DC2626, #B91C1C);
+  --gradient-accent: linear-gradient(135deg, #166534, #14532D);
   --color-hover-tint: color-mix(in srgb, var(--color-accent) 4%, var(--color-bg));
   --color-glass: color-mix(in srgb, var(--color-bg-elevated) 80%, transparent);
 
-  /* Colors — Warm Swiss palette */
-  --color-bg: #FAF9F6;
-  --color-bg-alt: #F2F0EB;
+  /* Colors — Scholarly Green palette */
+  --color-bg: #FAFDF7;
+  --color-bg-alt: #F0F4EC;
   --color-bg-card: #FFFFFF;
   --color-bg-elevated: #FFFFFF;
-  --color-text: #1C1917;
-  --color-text-secondary: #57534E;
-  --color-text-muted: #A8A29E;
-  --color-border: #E7E5E4;
-  --color-border-light: #F5F5F4;
+  --color-text: #1A1C1A;
+  --color-text-secondary: #4B5548;
+  --color-text-muted: #8A9485;
+  --color-border: #DCE4D8;
+  --color-border-light: #EDF2EA;
 
-  /* Accent — Swiss Red */
-  --color-accent: #DC2626;
-  --color-accent-hover: #B91C1C;
-  --color-accent-light: #FEF2F2;
-  --color-accent-subtle: #FECACA;
+  /* Accent — Forest Green */
+  --color-accent: #166534;
+  --color-accent-hover: #14532D;
+  --color-accent-light: #F0FDF4;
+  --color-accent-subtle: #BBF7D0;
 
-  /* Secondary — Gold (for highlights, badges) */
-  --color-gold: #B45309;
+  /* Secondary — Warm Gold */
+  --color-gold: #92400E;
   --color-gold-light: #FEF3C7;
 
   /* Links */
-  --color-link: #1C1917;
-  --color-link-hover: #DC2626;
+  --color-link: #1A1C1A;
+  --color-link-hover: #166534;
 
   /* Tabs */
-  --color-tab-active: #1C1917;
-  --color-tab-inactive: #A8A29E;
-  --color-tab-bg: #F2F0EB;
+  --color-tab-active: #1A1C1A;
+  --color-tab-inactive: #8A9485;
+  --color-tab-bg: #F0F4EC;
 
   /* Code */
-  --color-code-bg: #F5F5F4;
+  --color-code-bg: #F0F4EC;
 
   /* Shadows */
   --shadow-xs: 0 1px 2px rgba(28, 25, 23, 0.04);
@@ -100,26 +100,26 @@
 
 /* ===== Dark Mode ===== */
 [data-theme='dark'] {
-  --color-bg: #0C0A09;
-  --color-bg-alt: #1C1917;
-  --color-bg-card: #1C1917;
-  --color-bg-elevated: #292524;
-  --color-text: #FAFAF9;
-  --color-text-secondary: #A8A29E;
-  --color-text-muted: #78716C;
-  --color-border: #292524;
-  --color-border-light: #1C1917;
-  --color-accent: #EF4444;
-  --color-accent-hover: #F87171;
-  --color-accent-light: #1F1012;
-  --color-accent-subtle: #450A0A;
-  --color-gold: #D97706;
+  --color-bg: #0A0F0C;
+  --color-bg-alt: #141C17;
+  --color-bg-card: #141C17;
+  --color-bg-elevated: #1C2620;
+  --color-text: #F0FDF4;
+  --color-text-secondary: #94A89B;
+  --color-text-muted: #5F7365;
+  --color-border: #1C2620;
+  --color-border-light: #141C17;
+  --color-accent: #4ADE80;
+  --color-accent-hover: #86EFAC;
+  --color-accent-light: #0A1F10;
+  --color-accent-subtle: #052E16;
+  --color-gold: #FBBF24;
   --color-gold-light: #1C1507;
-  --color-link: #FAFAF9;
-  --color-link-hover: #EF4444;
-  --color-tab-active: #FAFAF9;
-  --color-tab-inactive: #78716C;
-  --color-tab-bg: #1C1917;
+  --color-link: #F0FDF4;
+  --color-link-hover: #4ADE80;
+  --color-tab-active: #F0FDF4;
+  --color-tab-inactive: #5F7365;
+  --color-tab-bg: #141C17;
   --color-code-bg: #1C1917;
   --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.2);
   --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
