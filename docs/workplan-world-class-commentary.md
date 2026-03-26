@@ -194,8 +194,9 @@ For each law:
 | Phase 2: Botschaft integration | 3 days | $100 |
 | Phase 3: Deepen Tier 1 | 5 days | $300 |
 | Phase 4: Daily automation | 1 day | $0 |
-| Phase 5: Next law (OR) | 5 days | $1,500 |
-| **Total through OR** | **~17 days** | **~$1,950** |
+| Phase 5: Next federal law (OR) | 5 days | $1,500 |
+| Phase 6: First cantonal laws (ZH VRG + PBG + StG) | 5 days | $1,850 |
+| **Total through OR + ZH** | **~22 days** | **~$3,800** |
 
 ---
 
@@ -211,9 +212,86 @@ For each law:
 
 ---
 
+## Phase 6: Cantonal Law Expansion (the blue ocean)
+
+This is where the project becomes truly unique.
+
+### The opportunity
+
+No publisher will invest in a commentary on the Zurich VRG, the Bern BauG, or the Geneva LIPP. The market per canton is too small — maybe 500 practitioners who need it. But those 500 practitioners have literally nothing. No commentary, no systematic analysis, just raw statute text and scattered court decisions.
+
+We have the data infrastructure to fill this gap:
+- **opencaselaw covers all cantonal courts** — 963K decisions including ZH Verwaltungsgericht (11,500), ZH Obergericht (27,458), BE Verwaltungsgericht (11,217), etc.
+- **33,000+ cantonal legislative texts** searchable via opencaselaw
+- **The same pipeline works** — just different law parameters
+
+### Priority cantonal laws
+
+Start with the most-used procedural and substantive cantonal laws in the largest cantons:
+
+**Zurich (ZH)** — largest legal market
+- VRG (Verwaltungsrechtspflegegesetz, SR 175.2) — every administrative lawyer needs this
+- PBG (Planungs- und Baugesetz, SR 700.1) — construction/planning law
+- StG (Steuergesetz, SR 631.1) — cantonal tax law
+
+**Bern (BE)** — second largest
+- VRPG (Verwaltungsrechtspflegegesetz)
+- BauG (Baugesetz)
+- StG (Steuergesetz)
+
+**Romandie** — French-language market, even less covered
+- VD: LPA (Loi sur la procédure administrative)
+- GE: LPA (Loi sur la procédure administrative)
+
+### What cantonal commentary requires
+
+| Aspect | Federal Law | Cantonal Law |
+|--------|-------------|--------------|
+| Statute text | Fedlex | Cantonal law collections (via opencaselaw) |
+| Case law | BGE + BVGer | Cantonal courts + BGE on cantonal application |
+| Commentary refs | BSK metadata available | None exist — that's the point |
+| Botschaft | Fedlex BBl | Kantonsratsvorlagen (harder to access) |
+| Cross-references | Between federal laws | To federal framework law (e.g., VRG ↔ VwVG) |
+| Languages | DE/FR/IT/EN | DE or FR depending on canton |
+
+### Architecture changes needed
+
+1. Content structure: `content/{jurisdiction}/{law}/art-{number}/`
+   - `content/ch/bv/art-008/` (federal, as today)
+   - `content/zh/vrg/art-005/` (cantonal)
+2. Site routing: `/{lang}/{jurisdiction}/{law}/{article}`
+   - `/de/zh/vrg/art-5` (Zurich VRG Art. 5)
+   - `/fr/ge/lpa/art-12` (Geneva LPA Art. 12)
+3. Laws module: extend to support cantonal laws with jurisdiction prefix
+4. Home page: federal laws as primary, cantonal as a separate section
+5. Search: Pagefind indexes everything — cantonal and federal
+
+### Cost per cantonal law
+
+Cantonal laws are typically shorter than federal laws (50-200 articles vs. 232-1,600):
+- ZH VRG: ~90 articles × $2.50 = ~$225
+- ZH PBG: ~350 articles × $2.50 = ~$875
+- ZH StG: ~300 articles × $2.50 = ~$750
+
+A complete commentary on the 3 most important ZH laws: ~$1,850
+
+### Why this matters
+
+A Zurich administrative lawyer today has:
+- The VRG statute text (free, but no analysis)
+- ZH Verwaltungsgericht decisions (via opencaselaw, but unsystematic)
+- Maybe Kölz/Häner/Bertschi, Verwaltungsverfahren und Verwaltungsrechtspflege des Bundes (but that's federal, not cantonal)
+- And that's it.
+
+We can give them a structured, searchable, daily-updated commentary on every article of the VRG, cross-referenced to federal parallels (VwVG), grounded in actual cantonal court decisions. For free. That doesn't exist anywhere.
+
+---
+
 ## The Real Differentiation
 
-We're not competing with BSK or St. Galler Kommentar. Those cost CHF 300-500 per volume and are behind paywalls. We're competing with **nothing** — there is no free, structured, multilingual commentary on Swiss federal law.
+For federal law: we're a free alternative to expensive commentaries. Useful, but not the only option.
+
+For cantonal law: **we're the only option.** Period. No publisher will write a commentary on the Zurich VRG or the Bern BauG. The market is too small. But the need is real.
 
 Our differentiation:
 - **Free** (CC BY-SA 4.0)
@@ -222,5 +300,6 @@ Our differentiation:
 - **Machine-readable** (HuggingFace dataset, full-text search)
 - **Honest about sources** (transparent citation policy, open methodology)
 - **Living** (automated daily caselaw updates)
+- **Cantonal law coverage** (something that literally does not exist elsewhere)
 
-That's world-class for what it is. Not a replacement for BSK, but something that didn't exist before.
+That's world-class. Not because it matches BSK in depth, but because it provides something no one else can or will.
