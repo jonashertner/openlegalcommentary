@@ -136,6 +136,22 @@ export const LAWS: LawInfo[] = [
       en: 'Administrative procedure, decisions, legal remedies',
     },
   },
+  {
+    abbr: 'BGFA',
+    sr: '935.61',
+    name: {
+      de: 'Anwaltsgesetz',
+      fr: 'Loi sur les avocats',
+      it: 'Legge sugli avvocati',
+      en: 'Lawyers Act',
+    },
+    description: {
+      de: 'Freizügigkeit, Berufsregeln, Berufsgeheimnis, Disziplinaraufsicht',
+      fr: 'Libre circulation, règles professionnelles, secret professionnel, surveillance disciplinaire',
+      it: 'Libera circolazione, regole professionali, segreto professionale, vigilanza disciplinare',
+      en: 'Freedom of movement, professional rules, professional secret, disciplinary supervision',
+    },
+  },
 ];
 
 export function getLawByAbbr(abbr: string): LawInfo | undefined {
