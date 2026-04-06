@@ -5,8 +5,8 @@ from scripts.fetch_articles import (
 )
 
 
-def test_laws_has_all_eight():
-    expected = {"BV", "ZGB", "OR", "ZPO", "StGB", "StPO", "SchKG", "VwVG"}
+def test_laws_has_all_nine():
+    expected = {"BV", "ZGB", "OR", "ZPO", "StGB", "StPO", "SchKG", "VwVG", "BGFA"}
     assert set(LAWS) == expected
 
 
