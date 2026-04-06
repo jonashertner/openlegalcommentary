@@ -313,3 +313,142 @@ export function getArticleNav(
   }
   return { prev, next };
 }
+
+// ── Concept pages ──────────────────────────────────────────────
+export interface ConceptMeta {
+  type: 'concept';
+  slug: string;
+  title: string;
+  provisions: string[];
+  confidence: 'settled' | 'contested' | 'evolving';
+  author_status: 'draft' | 'reviewed' | 'contested';
+  tags: string[];
+  last_generated: string;
+  quality_score: number | null;
+}
+
+export interface ConceptPage {
+  meta: ConceptMeta;
+  content: string;
+  slug: string;
+}
+
+export function listConcepts(): ConceptPage[] {
+  const conceptsDir = path.join(CONTENT_ROOT, 'concepts');
+  try {
+    const entries = fs.readdirSync(conceptsDir, { withFileTypes: true });
+    return entries
+      .filter((e) => e.isDirectory())
+      .map((e) => {
+        const metaPath = path.join(conceptsDir, e.name, 'meta.yaml');
+        const contentPath = path.join(conceptsDir, e.name, 'content.md');
+        try {
+          const meta = yaml.load(fs.readFileSync(metaPath, 'utf-8')) as ConceptMeta;
+          const content = readFileIfExists(contentPath);
+          return { meta, content, slug: e.name };
+        } catch {
+          return null;
+        }
+      })
+      .filter((c): c is ConceptPage => c !== null);
+  } catch {
+    return [];
+  }
+}
+
+export function loadConcept(slug: string): ConceptPage | null {
+  const dir = path.join(CONTENT_ROOT, 'concepts', slug);
+  if (!fs.existsSync(dir)) return null;
+  try {
+    const meta = yaml.load(fs.readFileSync(path.join(dir, 'meta.yaml'), 'utf-8')) as ConceptMeta;
+    const content = readFileIfExists(path.join(dir, 'content.md'));
+    return { meta, content, slug };
+  } catch {
+    return null;
+  }
+}
+
+// ── Contested pages ──────────────────────────────────────────────
+export interface ContestedPosition {
+  label: string;
+  summary: string;
+}
+
+export interface ContestedMeta {
+  type: 'contested';
+  slug: string;
+  title: string;
+  question: string;
+  provisions: string[];
+  positions: ContestedPosition[];
+  author_status: 'draft' | 'reviewed' | 'contested';
+  tags: string[];
+  last_generated: string;
+}
+
+export interface ContestedPage {
+  meta: ContestedMeta;
+  content: string;
+  slug: string;
+}
+
+export function listContested(): ContestedPage[] {
+  const contestedDir = path.join(CONTENT_ROOT, 'contested');
+  try {
+    const entries = fs.readdirSync(contestedDir, { withFileTypes: true });
+    return entries
+      .filter((e) => e.isDirectory())
+      .map((e) => {
+        const metaPath = path.join(contestedDir, e.name, 'meta.yaml');
+        const contentPath = path.join(contestedDir, e.name, 'content.md');
+        try {
+          const meta = yaml.load(fs.readFileSync(metaPath, 'utf-8')) as ContestedMeta;
+          const content = readFileIfExists(contentPath);
+          return { meta, content, slug: e.name };
+        } catch {
+          return null;
+        }
+      })
+      .filter((c): c is ContestedPage => c !== null);
+  } catch {
+    return [];
+  }
+}
+
+export function loadContested(slug: string): ContestedPage | null {
+  const dir = path.join(CONTENT_ROOT, 'contested', slug);
+  if (!fs.existsSync(dir)) return null;
+  try {
+    const meta = yaml.load(fs.readFileSync(path.join(dir, 'meta.yaml'), 'utf-8')) as ContestedMeta;
+    const content = readFileIfExists(path.join(dir, 'content.md'));
+    return { meta, content, slug };
+  } catch {
+    return null;
+  }
+}
+
+// ── Cross-references ──────────────────────────────────────────────
+export interface CrossRef {
+  type: 'concept' | 'contested';
+  slug: string;
+  title: string;
+}
+
+export function getCrossReferences(law: string, articleDirName: string): CrossRef[] {
+  const provisionKey = `${law.toLowerCase()}/${articleDirName}`;
+  const refs: CrossRef[] = [];
+
+  for (const concept of listConcepts()) {
+    if (concept.meta.provisions.some((p) => p === provisionKey)) {
+      refs.push({ type: 'concept', slug: concept.slug, title: concept.meta.title });
+    }
+  }
+
+  for (const contested of listContested()) {
+    if (contested.meta.provisions.some((p) => p === provisionKey)) {
+      refs.push({ type: 'contested', slug: contested.slug, title: contested.meta.title });
+    }
+  }
+
+  return refs;
+}
