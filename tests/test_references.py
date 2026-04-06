@@ -14,6 +14,11 @@ from agents.references import (
     load_article_texts,
     load_commentary_refs,
 )
+from agents.references import (
+    _prep_materials_cache,
+    format_preparatory_materials,
+    load_preparatory_materials,
+)
 
 
 def test_load_article_texts(tmp_path):
@@ -217,3 +222,143 @@ def test_format_commentary_refs_primary_and_cr(tmp_path):
     assert "CR" in result
     assert "Kessler" in result
     assert "Thévenoz" in result
+
+
+# --- Preparatory materials tests ---
+
+
+@pytest.fixture(autouse=True)
+def clear_prep_cache():
+    """Clear the module-level preparatory materials cache between tests."""
+    _prep_materials_cache.clear()
+    yield
+    _prep_materials_cache.clear()
+
+
+def _make_prep_materials(tmp_path, law, articles_data):
+    """Helper to write a preparatory materials JSON file."""
+    prep_dir = tmp_path / "preparatory_materials"
+    prep_dir.mkdir(exist_ok=True)
+    path = prep_dir / f"{law.lower()}.json"
+    path.write_text(json.dumps({
+        "law": law.upper(),
+        "sr_number": "935.61",
+        "generated": "2026-04-06T14:00:00Z",
+        "articles": articles_data,
+    }))
+    return prep_dir
+
+
+def test_load_preparatory_materials_basic(tmp_path):
+    articles = {
+        "12": {
+            "sources": [{
+                "bbl_ref": "BBl 1999 6013",
+                "bbl_page_refs": ["6045-6048"],
+                "legislative_intent": "Art. 12 enthält einen Katalog.",
+                "key_arguments": ["Numerus clausus"],
+                "design_choices": [],
+                "rejected_alternatives": [],
+                "general_context": None,
+            }],
+            "parliamentary_modifications": [],
+        },
+    }
+    prep_dir = _make_prep_materials(tmp_path, "BGFA", articles)
+    with patch("agents.references.PREPARATORY_MATERIALS_ROOT", prep_dir):
+        result = load_preparatory_materials("BGFA")
+        assert "12" in result
+        assert result["12"]["sources"][0]["bbl_ref"] == "BBl 1999 6013"
+
+
+def test_load_preparatory_materials_missing_law(tmp_path):
+    prep_dir = tmp_path / "preparatory_materials"
+    prep_dir.mkdir()
+    with patch("agents.references.PREPARATORY_MATERIALS_ROOT", prep_dir):
+        result = load_preparatory_materials("ZGB")
+        assert result == {}
+
+
+def test_load_preparatory_materials_caching(tmp_path):
+    articles = {"1": {"sources": [], "parliamentary_modifications": []}}
+    prep_dir = _make_prep_materials(tmp_path, "BGFA", articles)
+    with patch("agents.references.PREPARATORY_MATERIALS_ROOT", prep_dir):
+        result1 = load_preparatory_materials("BGFA")
+        result2 = load_preparatory_materials("BGFA")
+        assert result1 is result2
+
+
+def test_format_preparatory_materials_basic(tmp_path):
+    articles = {
+        "12": {
+            "sources": [{
+                "bbl_ref": "BBl 1999 6013",
+                "bbl_page_refs": ["6045-6048"],
+                "legislative_intent": "Art. 12 enthält einen abschliessenden Katalog.",
+                "key_arguments": ["Numerus clausus", "Bundesrechtlich abschliessend"],
+                "design_choices": ["Abschliessender Katalog statt Mindeststandards"],
+                "rejected_alternatives": ["Selbstregulierung abgelehnt"],
+                "general_context": None,
+            }],
+            "parliamentary_modifications": [
+                {
+                    "council": "Nationalrat",
+                    "date": "1999-09-01",
+                    "change": "Beschluss abweichend vom Entwurf",
+                },
+            ],
+        },
+    }
+    prep_dir = _make_prep_materials(tmp_path, "BGFA", articles)
+    with patch("agents.references.PREPARATORY_MATERIALS_ROOT", prep_dir):
+        result = format_preparatory_materials("BGFA", 12, "")
+        assert "BBl 1999 6013" in result
+        assert "abschliessenden Katalog" in result
+        assert "Numerus clausus" in result
+        assert "Abschliessender Katalog" in result
+        assert "Selbstregulierung" in result
+        assert "Nationalrat" in result
+        assert "Materialien" in result
+
+
+def test_format_preparatory_materials_empty_for_unknown(tmp_path):
+    prep_dir = tmp_path / "preparatory_materials"
+    prep_dir.mkdir()
+    with patch("agents.references.PREPARATORY_MATERIALS_ROOT", prep_dir):
+        result = format_preparatory_materials("BGFA", 999, "")
+        assert result == ""
+
+
+def test_format_preparatory_materials_multiple_sources(tmp_path):
+    articles = {
+        "12": {
+            "sources": [
+                {
+                    "bbl_ref": "BBl 1999 6013",
+                    "bbl_page_refs": ["6045"],
+                    "legislative_intent": "Original intent.",
+                    "key_arguments": [],
+                    "design_choices": [],
+                    "rejected_alternatives": [],
+                    "general_context": None,
+                },
+                {
+                    "bbl_ref": "BBl 2020 1234",
+                    "bbl_page_refs": ["15-16"],
+                    "legislative_intent": "Amendment intent.",
+                    "key_arguments": [],
+                    "design_choices": [],
+                    "rejected_alternatives": [],
+                    "general_context": None,
+                },
+            ],
+            "parliamentary_modifications": [],
+        },
+    }
+    prep_dir = _make_prep_materials(tmp_path, "BGFA", articles)
+    with patch("agents.references.PREPARATORY_MATERIALS_ROOT", prep_dir):
+        result = format_preparatory_materials("BGFA", 12, "")
+        assert "BBl 1999 6013" in result
+        assert "BBl 2020 1234" in result
+        assert "Original intent" in result
+        assert "Amendment intent" in result
