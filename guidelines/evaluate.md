@@ -40,6 +40,13 @@ Alle für die jeweilige Ebene vorgeschriebenen Sektionen müssen vorhanden sein 
 
 **Prüfmethode**: Automatische Prüfung auf Vorhandensein aller Pflicht-Überschriften gemäss Ebenen-Spezifikation.
 
+### 6. **Korrekte Materialien** (Correct preparatory materials)
+   Wenn Materialien-Referenzdaten bereitgestellt werden:
+   - Zitierte BBl-Seitenverweise müssen mit den Referenzdaten übereinstimmen
+   - Aussagen zur Gesetzgebungsabsicht müssen auf die bereitgestellten Botschaftsauszüge zurückführbar sein
+   - Aussagen zu parlamentarischen Änderungen müssen mit den Abstimmungsdaten übereinstimmen
+   - Keine Botschaftszitate erfinden, die nicht in den Referenzdaten enthalten sind
+
 ---
 
 ## II. Bewertete Dimensionen
