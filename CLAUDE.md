@@ -53,6 +53,12 @@ BGFA (SR 935.61)
 - `uv run python -m agents.pipeline bootstrap --state-file state.json` — resume bootstrap from state
 - `uv run python -m scripts.scaffold_content` — scaffold content directories from article lists
 - `uv run python -m scripts.fetch_articles` — fetch article lists from opencaselaw
+- `uv run python -m scripts.discover_botschaften` — discover Botschaften via parliament API
+- `uv run python -m scripts.download_botschaften` — download Botschaft PDFs
+- `uv run python -m scripts.extract_botschaften` — extract text from Botschaft PDFs
+- `uv run python -m scripts.digest_botschaften` — digest Botschaften per article (uses Claude API)
+- `uv run python -m scripts.preparatory_materials_pipeline` — run full preparatory materials pipeline
+- `uv run python -m scripts.preparatory_materials_pipeline --law BGFA` — run pipeline for one law
 - `cd site && npm run dev` — start local dev server
 - `cd site && npm run build` — build static site to site/dist/ (includes Pagefind index generation via postbuild; always use `npm run build`, not `astro build` directly)
 - `cd site && npm run preview` — preview built site
