@@ -44,8 +44,8 @@ const { lang } = Astro.props;
     right: 0;
     bottom: 0;
     z-index: 200;
-    background: color-mix(in srgb, var(--color-bg) 80%, transparent);
-    backdrop-filter: blur(20px);
+    background: color-mix(in srgb, var(--color-bg, #fff) 80%, transparent);
+    backdrop-filter: blur(4px);
     display: none;
     align-items: flex-start;
     justify-content: center;
@@ -60,10 +60,8 @@ const { lang } = Astro.props;
     max-width: 640px;
     width: 100%;
     max-height: 70vh;
-    background: var(--color-bg-elevated, var(--color-bg));
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-xl);
-    border: 1px solid var(--color-border);
+    background: #fff;
+    border: 1px solid var(--color-rule);
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -88,8 +86,8 @@ const { lang } = Astro.props;
     flex: 1;
     background: none;
     border: none;
-    font-size: var(--text-lg);
-    font-family: var(--font-heading);
+    font-size: 16px;
+    font-family: var(--font-ui);
     color: var(--color-text);
     outline: none;
   }
@@ -100,12 +98,10 @@ const { lang } = Astro.props;
 
   .search-kbd {
     font-family: var(--font-mono);
-    font-size: var(--text-xs);
+    font-size: 11px;
     padding: 2px 6px;
     border: 1px solid var(--color-border);
-    border-radius: var(--radius-sm);
     color: var(--color-text-muted);
-    background: var(--color-bg-alt);
   }
 
   .search-results {
@@ -119,7 +115,6 @@ const { lang } = Astro.props;
     align-items: start;
     gap: var(--space-2);
     padding: var(--space-2) var(--space-3);
-    border-radius: var(--radius-md);
     cursor: pointer;
     text-decoration: none;
     color: var(--color-text);
@@ -128,19 +123,17 @@ const { lang } = Astro.props;
 
   :global(.search-result:hover),
   :global(.search-result.active) {
-    background: var(--color-bg-alt);
+    background: var(--color-rule-light);
   }
 
   :global(.search-result-law) {
-    font-family: var(--font-mono);
-    font-size: var(--text-xs);
+    font-family: var(--font-ui);
+    font-size: 10px;
     font-weight: 600;
-    color: var(--color-accent);
-    padding: 2px 6px;
-    background: var(--color-accent-light);
-    border-radius: var(--radius-sm);
+    color: var(--color-text-muted);
     flex-shrink: 0;
     text-transform: uppercase;
+    letter-spacing: 0.08em;
   }
 
   :global(.search-result-content) {
@@ -148,30 +141,31 @@ const { lang } = Astro.props;
   }
 
   :global(.search-result-title) {
-    font-family: var(--font-heading);
+    font-family: var(--font-ui);
     font-weight: 600;
-    font-size: var(--text-sm);
+    font-size: 13px;
   }
 
   :global(.search-result-excerpt) {
-    font-size: var(--text-xs);
+    font-size: 11px;
     color: var(--color-text-muted);
     margin-top: 2px;
     line-height: 1.4;
   }
 
   :global(.search-result-excerpt mark) {
-    background: var(--color-accent-light);
-    color: var(--color-accent);
-    padding: 0 2px;
-    border-radius: 2px;
+    background: none;
+    color: var(--color-text);
+    font-weight: 600;
+    text-decoration: underline;
+    padding: 0;
   }
 
   :global(.search-empty) {
     text-align: center;
     padding: var(--space-4);
     color: var(--color-text-muted);
-    font-size: var(--text-sm);
+    font-size: 13px;
   }
 
   @media (max-width: 640px) {
@@ -183,7 +177,6 @@ const { lang } = Astro.props;
     .search-modal {
       max-width: 100%;
       max-height: 80vh;
-      border-radius: var(--radius-md);
     }
   }
 </style>
