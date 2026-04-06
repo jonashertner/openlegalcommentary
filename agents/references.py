@@ -157,3 +157,91 @@ def format_commentary_refs(
     )
 
     return "\n".join(blocks)
+
+
+# --- Preparatory materials (Botschaften, parliamentary data) ---
+
+PREPARATORY_MATERIALS_ROOT = Path("scripts/preparatory_materials")
+
+_prep_materials_cache: dict[str, dict] = {}
+
+
+def load_preparatory_materials(law: str) -> dict:
+    """Load per-article preparatory materials for a law.
+
+    Returns dict keyed by article number string, or empty dict if no file.
+    """
+    if law in _prep_materials_cache:
+        return _prep_materials_cache[law]
+
+    path = PREPARATORY_MATERIALS_ROOT / f"{law.lower()}.json"
+    if not path.exists():
+        _prep_materials_cache[law] = {}
+        return {}
+
+    data = json.loads(path.read_text())
+    _prep_materials_cache[law] = data.get("articles", {})
+    return _prep_materials_cache[law]
+
+
+def format_preparatory_materials(
+    law: str, article_number: int, suffix: str,
+) -> str:
+    """Format preparatory materials for prompt injection.
+
+    Returns empty string if no data available.
+    """
+    materials = load_preparatory_materials(law)
+    key = f"{article_number}{suffix}"
+    article_data = materials.get(key)
+    if not article_data:
+        return ""
+
+    blocks = []
+    blocks.append("## Preparatory Materials (Materialien)")
+    blocks.append("")
+
+    for source in article_data.get("sources", []):
+        bbl = source.get("bbl_ref", "?")
+        pages = ", ".join(source.get("bbl_page_refs", []))
+        blocks.append(f"### {bbl} (pp. {pages})")
+        blocks.append("")
+
+        intent = source.get("legislative_intent")
+        if intent:
+            blocks.append(f"**Legislative intent:** {intent}")
+            blocks.append("")
+
+        for arg in source.get("key_arguments", []):
+            blocks.append(f"- {arg}")
+
+        choices = source.get("design_choices", [])
+        if choices:
+            blocks.append("")
+            blocks.append("**Design choices:**")
+            for c in choices:
+                blocks.append(f"- {c}")
+
+        rejected = source.get("rejected_alternatives", [])
+        if rejected:
+            blocks.append("")
+            blocks.append("**Rejected alternatives:**")
+            for r in rejected:
+                blocks.append(f"- {r}")
+
+        blocks.append("")
+
+    mods = article_data.get("parliamentary_modifications", [])
+    if mods:
+        blocks.append("### Parliamentary Modifications")
+        for m in mods:
+            blocks.append(f"- {m['council']}, {m['date']}: {m['change']}")
+        blocks.append("")
+
+    blocks.append(
+        "Use these materials to ground the Entstehungsgeschichte section. "
+        "Cite with exact BBl page references. "
+        "Trace where courts have deviated from or confirmed legislative intent."
+    )
+
+    return "\n".join(blocks)
