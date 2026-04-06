@@ -1,25 +1,30 @@
 type: contested
 slug: open-methodology-bgfa
-title: Open-Source-Rechtskommentar und anwaltliche Berufsausübung
-question: Stellt die Veröffentlichung eines KI-generierten Rechtskommentars eine bewilligungspflichtige
-  anwaltliche Tätigkeit dar?
+title: Open-Source-Anwaltsmethodik und Art. 13 BGFA
+question: Kann eine Schweizer Anwaltskanzlei ihre Arbeitsmethodik — Prozessstrategien,
+  Verhandlungsrahmen, analytische Vorlagen, Verfahrens-Playbooks — als Open-Source-Material
+  veröffentlichen, ohne das Berufsgeheimnis nach Art. 13 BGFA oder die Berufsregeln
+  nach Art. 12 BGFA zu verletzen?
 provisions:
-- bgfa/art-012
 - bgfa/art-013
-- bgfa/art-002
+- bgfa/art-012
+- bv/art-027
+- bv/art-013
+- bv/art-016
 positions:
-- label: Keine anwaltliche Tätigkeit
-  summary: Rechtskommentierung ist Wissenschaft und Lehre, nicht individuelle Rechtsberatung
-    — kein Bewilligungserfordernis
-- label: Bewilligungspflichtig bei Personalisierung
-  summary: Solange der Kommentar abstrakt-generell bleibt, ist er zulässig; personalisierte
-    Rechtsaussagen erfordern Anwaltszulassung
-- label: Regulatorisches Neuland
-  summary: Die bestehenden Kategorien passen nicht auf KI-generierte Rechtskommentare
-    — der Gesetzgeber muss handeln
+- label: Maximalistische Lesart
+  summary: Art. 13 BGFA schützt alles beruflich erworbene Wissen — Methodik eingeschlossen
+- label: Minimalistische Lesart
+  summary: Art. 13 schützt nur mandatsspezifische Informationen; generalisierte Methodik
+    ist nicht «anvertraut»
+- label: Mittlerer Weg
+  summary: Methodik darf veröffentlicht werden, wenn hinreichend abstrahiert und keine
+    Mandantenidentifikation möglich
 author_status: contested
 tags:
-- berufsrecht
-- digitalisierung
-- selbstreferenz
-last_generated: ''
+- berufsgeheimnis
+- open-source
+- anwaltsrecht
+- methodik
+- regenerative-law
+last_generated: '2026-04-06'
