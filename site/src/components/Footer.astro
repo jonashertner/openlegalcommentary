@@ -1,243 +1,50 @@
 ---
 // site/src/components/Footer.astro
-import { type Lang, t } from '@/lib/i18n';
-import { langHome, langBase } from '@/lib/base';
+import { type Lang } from '@/lib/i18n';
 
 export interface Props {
   lang: Lang;
 }
 
 const { lang } = Astro.props;
-const year = new Date().getFullYear();
 ---
 
 <footer class="site-footer">
   <div class="footer-inner page-wrapper">
-    <div class="footer-top">
-      <div class="footer-brand">
-        <a href={langHome(lang)} class="footer-logo">
-          <span class="footer-logo-mark" aria-hidden="true">§</span>
-          <span class="footer-logo-text">Open Legal Commentary</span>
-        </a>
-        <p class="footer-tagline">
-          {t('footer.tagline', lang)}
-        </p>
-      </div>
-      <div class="footer-links-grid">
-        <div class="footer-section">
-          <p class="footer-heading">{t('footer.commentary', lang)}</p>
-          <ul class="footer-links">
-            <li><a href={langHome(lang)}>{t('footer.all_laws', lang)}</a></li>
-            <li><a href={`${langBase(lang)}/about`}>{t('footer.about', lang)}</a></li>
-            <li><a href={`${langBase(lang)}/methodology`}>{t('nav.methodology', lang)}</a></li>
-            <li><a href={`${langBase(lang)}/changelog`}>{t('footer.changes', lang)}</a></li>
-          </ul>
-        </div>
-        <div class="footer-section">
-          <p class="footer-heading">{t('footer.project', lang)}</p>
-          <ul class="footer-links">
-            <li><a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a></li>
-            <li><a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a></li>
-          </ul>
-        </div>
-        <div class="footer-section">
-          <p class="footer-heading">{t('footer.license', lang)}</p>
-          <ul class="footer-links">
-            <li><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">{t('footer.content_license', lang)}</a></li>
-            <li><a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">{t('footer.code_license', lang)}</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <p>&copy; {year} openlegalcommentary.ch &middot; Built with &hearts; by <a href="https://jonashertner.com" target="_blank" rel="noopener">Jonas Hertner</a></p>
-      <button class="theme-toggle" aria-label={t('header.theme_toggle', lang)} title={t('header.theme_toggle', lang)}>
-        <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="12" cy="12" r="5"/>
-          <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
-        </svg>
-        <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
-        </svg>
-      </button>
-    </div>
+    <div>Quelle: <a href="https://opencaselaw.ch">OpenCaseLaw.ch</a> · Inhalt: CC0 · Code: MIT</div>
+    <div>openlegalcommentary.ch</div>
   </div>
 </footer>
 
 <style>
   .site-footer {
-    border-top: 1px solid var(--color-border);
-    padding: var(--space-6) 0 var(--space-4);
+    border-top: 1px solid var(--color-rule);
+    padding: var(--space-3) 0;
     margin-top: auto;
-    background: var(--color-bg-alt);
+    font-size: 11px;
+    color: var(--color-text-muted);
   }
 
-  .footer-top {
+  .footer-inner {
     display: flex;
     justify-content: space-between;
-    gap: var(--space-6);
-    margin-bottom: var(--space-5);
-  }
-
-  .footer-brand {
-    max-width: 280px;
-    flex-shrink: 0;
-  }
-
-  .footer-logo {
-    display: flex;
     align-items: center;
-    gap: 8px;
-    text-decoration: none;
-    color: var(--color-text);
-    margin-bottom: var(--space-2);
   }
 
-  .footer-logo-mark {
-    font-family: var(--font-display);
-    font-size: 1.1rem;
-    color: var(--color-accent);
-  }
-
-  .footer-logo-text {
-    font-family: var(--font-heading);
-    font-weight: 700;
-    font-size: var(--text-sm);
-    letter-spacing: -0.02em;
-  }
-
-  .footer-tagline {
-    font-size: var(--text-sm);
-    color: var(--color-text-muted);
-    line-height: 1.5;
-  }
-
-  .footer-links-grid {
-    display: flex;
-    gap: var(--space-6);
-  }
-
-  .footer-heading {
-    font-family: var(--font-heading);
-    font-weight: 600;
-    font-size: var(--text-xs);
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--color-text-secondary);
-    margin-bottom: var(--space-2);
-  }
-
-  .footer-links {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .footer-links li {
-    margin-bottom: 6px;
-  }
-
-  .footer-links a {
-    font-family: var(--font-heading);
-    font-size: var(--text-sm);
+  .site-footer a {
     color: var(--color-text-muted);
     text-decoration: none;
-    transition: color var(--transition-fast);
   }
 
-  .footer-links a:hover {
+  .site-footer a:hover {
     color: var(--color-text);
-  }
-
-  .footer-bottom {
-    border-top: 1px solid var(--color-border);
-    padding-top: var(--space-3);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  .footer-bottom p {
-    font-family: var(--font-heading);
-    font-size: var(--text-xs);
-    color: var(--color-text-muted);
-  }
-
-  .footer-bottom a {
-    color: var(--color-text-muted);
-    text-decoration: none;
-    transition: color var(--transition-fast);
-  }
-
-  .footer-bottom a:hover {
-    color: var(--color-text);
-  }
-
-  .theme-toggle {
-    background: none;
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-md);
-    cursor: pointer;
-    padding: 6px;
-    color: var(--color-text-muted);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: color var(--transition-fast), border-color var(--transition-fast);
-  }
-
-  .theme-toggle:hover {
-    color: var(--color-text);
-    border-color: var(--color-text-muted);
-  }
-
-  .icon-moon { display: none; }
-  :global([data-theme='dark']) .icon-sun { display: none; }
-  :global([data-theme='dark']) .icon-moon { display: block; }
-
-  @media (prefers-color-scheme: dark) {
-    :global(:root:not([data-theme='light'])) .icon-sun { display: none; }
-    :global(:root:not([data-theme='light'])) .icon-moon { display: block; }
   }
 
   @media (max-width: 768px) {
-    .footer-top {
+    .footer-inner {
       flex-direction: column;
-      gap: var(--space-4);
-    }
-
-    .footer-brand {
-      max-width: none;
-    }
-
-    .footer-links-grid {
-      gap: var(--space-4);
-    }
-  }
-
-  @media (max-width: 480px) {
-    .footer-links-grid {
-      flex-direction: column;
-      gap: var(--space-3);
+      gap: 0.5rem;
+      text-align: center;
     }
   }
 </style>
-
-<script>
-  document.addEventListener('astro:page-load', () => {
-    const toggle = document.querySelector('.theme-toggle');
-    if (toggle) {
-      toggle.addEventListener('click', () => {
-        const html = document.documentElement;
-        const current = html.getAttribute('data-theme');
-        const isDarkSystem = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        let next: string;
-        if (current === 'dark') next = 'light';
-        else if (current === 'light') next = 'dark';
-        else next = isDarkSystem ? 'light' : 'dark';
-        html.setAttribute('data-theme', next);
-        localStorage.setItem('theme', next);
-      });
-    }
-  });
-</script>
