@@ -6,18 +6,22 @@ from typing import Literal
 import yaml
 from pydantic import BaseModel, Field, field_validator
 
-LAWS = ("BV", "ZGB", "OR", "ZPO", "StGB", "StPO", "SchKG", "VwVG")
+LAWS = ("BV", "ZGB", "OR", "ZPO", "StGB", "StPO", "SchKG", "VwVG", "BGFA")
 
 SR_NUMBERS: dict[str, str] = {
     "BV": "101", "ZGB": "210", "OR": "220", "ZPO": "272",
     "StGB": "311.0", "StPO": "312.0", "SchKG": "281.1", "VwVG": "172.021",
+    "BGFA": "935.61",
 }
 
 LAW_ELI_PATHS: dict[str, str] = {
     "BV": "1999/404", "ZGB": "24/233_245_233", "OR": "27/317_321_377",
     "ZPO": "2010/262", "StGB": "54/757_781_799", "StPO": "2010/267",
     "SchKG": "11/529_488_529", "VwVG": "1969/737_757_755",
+    "BGFA": "2002/153",
 }
+
+CONTENT_TYPES = ("article", "concept", "contested", "comparison")
 
 LayerName = Literal["summary", "doctrine", "caselaw"]
 
@@ -69,4 +73,48 @@ class ArticleMeta(BaseModel):
 
     @classmethod
     def from_yaml(cls, yaml_str: str) -> ArticleMeta:
+        return cls(**yaml.safe_load(yaml_str))
+
+
+class ConceptMeta(BaseModel):
+    type: Literal["concept"] = "concept"
+    slug: str
+    title: str
+    provisions: list[str]  # e.g. ["bgfa/art-013", "bv/art-013"]
+    confidence: Literal["settled", "contested", "evolving"]
+    author_status: Literal["draft", "reviewed", "contested"]
+    tags: list[str] = Field(default_factory=list)
+    last_generated: str = ""
+    quality_score: float | None = None
+
+    def to_yaml(self) -> str:
+        return yaml.dump(
+            self.model_dump(exclude_none=True),
+            default_flow_style=False, allow_unicode=True, sort_keys=False,
+        )
+
+    @classmethod
+    def from_yaml(cls, yaml_str: str) -> ConceptMeta:
+        return cls(**yaml.safe_load(yaml_str))
+
+
+class ContestedMeta(BaseModel):
+    type: Literal["contested"] = "contested"
+    slug: str
+    title: str
+    question: str
+    provisions: list[str]
+    positions: list[dict]  # [{"label": "...", "summary": "..."}]
+    author_status: Literal["draft", "reviewed", "contested"] = "contested"
+    tags: list[str] = Field(default_factory=list)
+    last_generated: str = ""
+
+    def to_yaml(self) -> str:
+        return yaml.dump(
+            self.model_dump(exclude_none=True),
+            default_flow_style=False, allow_unicode=True, sort_keys=False,
+        )
+
+    @classmethod
+    def from_yaml(cls, yaml_str: str) -> ContestedMeta:
         return cls(**yaml.safe_load(yaml_str))

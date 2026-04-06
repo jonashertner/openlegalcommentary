@@ -1,0 +1,25 @@
+type: contested
+slug: open-methodology-bgfa
+title: Open-Source-Rechtskommentar und anwaltliche Berufsausübung
+question: Stellt die Veröffentlichung eines KI-generierten Rechtskommentars eine bewilligungspflichtige
+  anwaltliche Tätigkeit dar?
+provisions:
+- bgfa/art-012
+- bgfa/art-013
+- bgfa/art-002
+positions:
+- label: Keine anwaltliche Tätigkeit
+  summary: Rechtskommentierung ist Wissenschaft und Lehre, nicht individuelle Rechtsberatung
+    — kein Bewilligungserfordernis
+- label: Bewilligungspflichtig bei Personalisierung
+  summary: Solange der Kommentar abstrakt-generell bleibt, ist er zulässig; personalisierte
+    Rechtsaussagen erfordern Anwaltszulassung
+- label: Regulatorisches Neuland
+  summary: Die bestehenden Kategorien passen nicht auf KI-generierte Rechtskommentare
+    — der Gesetzgeber muss handeln
+author_status: contested
+tags:
+- berufsrecht
+- digitalisierung
+- selbstreferenz
+last_generated: ''
