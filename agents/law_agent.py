@@ -11,7 +11,7 @@ from __future__ import annotations
 from agents.anthropic_client import run_agent
 from agents.config import AgentConfig
 from agents.prompts import build_law_agent_prompt
-from agents.references import format_article_text, format_commentary_refs
+from agents.references import format_article_text, format_commentary_refs, format_preparatory_materials
 from agents.tools.content import create_content_tools
 from agents.tools.opencaselaw import create_opencaselaw_tools
 
@@ -63,6 +63,13 @@ async def generate_layer(
             config.commentary_refs_root, law, article_number, suffix_str,
         )
 
+    # Inject preparatory materials for doctrine and summary layers
+    prep_materials_block = ""
+    if layer_type in ("doctrine", "summary"):
+        prep_materials_block = format_preparatory_materials(
+            law, article_number, suffix_str,
+        )
+
     prompt = (
         f"Generate the {layer_type} layer for "
         f"Art. {article_number}{suffix_str} {law}. "
@@ -72,6 +79,8 @@ async def generate_layer(
     )
     if commentary_refs_block:
         prompt += f"\n\n{commentary_refs_block}"
+    if prep_materials_block:
+        prompt += f"\n\n{prep_materials_block}"
     if feedback:
         prompt += (
             "\n\nYour previous attempt was rejected by the evaluator. "
