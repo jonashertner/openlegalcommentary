@@ -12,7 +12,7 @@ import { LAWS, getLawByAbbr } from '../../../lib/laws';
 import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText, getTranslatedTitle } from '../../../lib/content';
 
 export function getStaticPaths() {
-  const laws = ['bv', 'zgb', 'or', 'zpo', 'stgb', 'stpo', 'schkg', 'vwvg'];
+  const laws = ['bv', 'zgb', 'or', 'zpo', 'stgb', 'stpo', 'schkg', 'vwvg', 'bgfa'];
   return LANGS.flatMap(lang =>
     laws.flatMap(law => {
       const dirs = listArticleDirs(law);
