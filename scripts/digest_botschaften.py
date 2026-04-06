@@ -83,13 +83,30 @@ Use the article numbers as strings (e.g. "12", "12a").
 
 
 def load_article_numbers(law: str) -> list[str]:
-    """Load article number strings from article_lists.json for the given law."""
-    if not ARTICLE_LISTS_PATH.exists():
-        return []
-    data = json.loads(ARTICLE_LISTS_PATH.read_text(encoding="utf-8"))
-    law_data = data.get(law, {})
-    articles = law_data.get("articles", [])
-    return [a["raw"] for a in articles if a.get("raw")]
+    """Load article number strings for the given law.
+
+    Tries article_lists.json first, falls back to scanning content directory.
+    """
+    if ARTICLE_LISTS_PATH.exists():
+        data = json.loads(ARTICLE_LISTS_PATH.read_text(encoding="utf-8"))
+        law_data = data.get(law, {})
+        articles = law_data.get("articles", [])
+        nums = [a["raw"] for a in articles if a.get("raw")]
+        if nums:
+            return nums
+
+    # Fallback: scan content directory
+    content_dir = Path("content") / law.lower()
+    if content_dir.exists():
+        nums = []
+        for d in sorted(content_dir.iterdir()):
+            if d.is_dir() and d.name.startswith("art-"):
+                # art-001 -> "1", art-012a -> "12a"
+                raw = d.name[4:].lstrip("0") or "0"
+                nums.append(raw)
+        return nums
+
+    return []
 
 
 def digest_botschaft(
@@ -234,7 +251,13 @@ def main() -> None:
         return
 
     registry = json.loads(REGISTRY_PATH.read_text(encoding="utf-8"))
-    law_affairs = registry.get(law, [])
+    # Registry structure: registry[law] = [affairs_list] (flat)
+    # or registry["laws"][law]["affairs"] (nested). Handle both.
+    if "laws" in registry:
+        law_affairs = registry["laws"].get(law, {}).get("affairs", [])
+    else:
+        raw = registry.get(law, [])
+        law_affairs = raw if isinstance(raw, list) else raw.get("affairs", [])
     if not law_affairs:
         print(f"No affairs found for {law} in registry.")
         return
@@ -291,7 +314,10 @@ def main() -> None:
             print(f"  SKIP [{bbl_ref}]: already processed")
             continue
 
-        txt_path = TEXT_DIR / f"{bbl_ref_normalized}.txt"
+        # Try both filename formats: BBl ref (from download script) and normalized
+        txt_path = TEXT_DIR / f"{bbl_ref}.txt"
+        if not txt_path.exists():
+            txt_path = TEXT_DIR / f"{bbl_ref_normalized}.txt"
         if not txt_path.exists():
             print(f"  SKIP [{bbl_ref}]: no extracted text at {txt_path}")
             continue
