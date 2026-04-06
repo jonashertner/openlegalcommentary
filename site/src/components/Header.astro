@@ -16,12 +16,9 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 
 <header class="site-header">
   <div class="header-inner page-wrapper">
-    <a href={langHome(lang)} class="site-logo">
-      <span class="logo-mark" aria-hidden="true">§</span>
-      <span class="logo-title">Open Legal Commentary</span>
-    </a>
+    <a href={langHome(lang)} class="site-name">openlegalcommentary</a>
 
-    <nav class="site-nav" aria-label={t('header.nav_label', lang)}>
+    <nav class="nav-main" aria-label={t('header.nav_label', lang)}>
       <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label={t('header.menu_open', lang)}>
         <span class="nav-toggle-bar"></span>
         <span class="nav-toggle-bar"></span>
@@ -42,11 +39,21 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 
     <div class="header-actions">
       <button class="search-trigger" aria-label={t('header.search', lang)}>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <circle cx="11" cy="11" r="8"/>
           <path d="m21 21-4.35-4.35"/>
         </svg>
         <kbd>⌘K</kbd>
+      </button>
+
+      <button class="theme-toggle" aria-label={t('header.theme_toggle', lang)} title={t('header.theme_toggle', lang)}>
+        <svg class="icon-sun" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="5"/>
+          <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+        </svg>
+        <svg class="icon-moon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
       </button>
 
       <span class="header-lang-switcher">
@@ -59,61 +66,33 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 
 <style>
   .site-header {
-    border-bottom: 1px solid var(--color-border);
+    border-bottom: 1px solid var(--color-rule);
+    background: var(--color-bg);
     position: sticky;
     top: 0;
     z-index: 100;
-    backdrop-filter: blur(12px);
-    background: color-mix(in srgb, var(--color-bg) 85%, transparent);
-  }
-
-  .site-header.scrolled {
-    box-shadow: var(--shadow-sm);
   }
 
   .header-inner {
     display: flex;
     align-items: center;
-    height: 56px;
-    gap: var(--space-2);
+    justify-content: space-between;
+    height: 48px;
   }
 
-  /* === Logo === */
-  .site-logo {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    text-decoration: none;
+  /* === Site name as logo === */
+  .site-name {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
     color: var(--color-text);
+    text-decoration: none;
     white-space: nowrap;
     flex-shrink: 0;
   }
 
-  .logo-mark {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 28px;
-    height: 28px;
-    background: var(--color-accent);
-    color: white;
-    border-radius: 6px;
-    font-family: var(--font-display);
-    font-size: 1.1rem;
-    font-weight: 400;
-    line-height: 1;
-  }
-
-  .logo-title {
-    font-family: var(--font-heading);
-    font-weight: 700;
-    font-size: var(--text-sm);
-    letter-spacing: -0.02em;
-    line-height: 1;
-  }
-
   /* === Nav === */
-  .site-nav {
+  .nav-main {
     display: flex;
     align-items: center;
     margin-left: auto;
@@ -129,26 +108,20 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   }
 
   .nav-list a {
-    font-family: var(--font-heading);
-    font-size: var(--text-sm);
-    font-weight: 500;
+    font-size: 12px;
     color: var(--color-text-muted);
     text-decoration: none;
     padding: 6px 10px;
-    border-radius: var(--radius-md);
-    transition: color var(--transition-fast), background var(--transition-fast);
     white-space: nowrap;
     line-height: 1;
   }
 
   .nav-list a:hover {
     color: var(--color-text);
-    background: var(--color-bg-alt);
   }
 
   .nav-list a.active {
     color: var(--color-text);
-    background: var(--color-bg-alt);
     font-weight: 600;
   }
 
@@ -168,8 +141,7 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     width: 18px;
     height: 1.5px;
     background: var(--color-text);
-    border-radius: 1px;
-    transition: transform var(--transition-fast), opacity var(--transition-fast);
+    transition: transform 0.15s ease, opacity 0.15s ease;
   }
 
   /* === Right actions === */
@@ -187,31 +159,50 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     gap: 6px;
     background: none;
     border: 1px solid var(--color-border);
-    border-radius: var(--radius-md);
     cursor: pointer;
-    padding: 5px 8px;
+    padding: 4px 10px;
     color: var(--color-text-muted);
-    font-family: var(--font-heading);
-    font-size: var(--text-sm);
-    transition: color var(--transition-fast), border-color var(--transition-fast), background var(--transition-fast);
+    font-size: 11px;
     line-height: 1;
   }
 
   .search-trigger:hover {
     color: var(--color-text);
     border-color: var(--color-text-muted);
-    background: var(--color-bg-alt);
   }
 
   .search-trigger kbd {
-    font-family: var(--font-heading);
-    font-size: var(--text-xs);
+    font-size: 10px;
     border: 1px solid var(--color-border);
-    border-radius: 4px;
     padding: 1px 5px;
-    background: var(--color-bg-alt);
     color: var(--color-text-muted);
     line-height: 1;
+  }
+
+  /* === Theme toggle === */
+  .theme-toggle {
+    background: none;
+    border: 1px solid var(--color-border);
+    cursor: pointer;
+    padding: 4px;
+    color: var(--color-text-muted);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .theme-toggle:hover {
+    color: var(--color-text);
+    border-color: var(--color-text-muted);
+  }
+
+  .icon-moon { display: none; }
+  :global([data-theme='dark']) .icon-sun { display: none; }
+  :global([data-theme='dark']) .icon-moon { display: block; }
+
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .icon-sun { display: none; }
+    :global(:root:not([data-theme='light'])) .icon-moon { display: block; }
   }
 
   .nav-lang-item {
@@ -219,7 +210,9 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   }
 
   /* === Mobile mode (applied via JS class .mobile-nav) === */
-  :global(.mobile-nav) .logo-title { display: none; }
+  :global(.mobile-nav) .site-name {
+    font-size: 12px;
+  }
 
   :global(.mobile-nav) .nav-toggle {
     display: flex;
@@ -247,20 +240,18 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   :global(.mobile-nav) .nav-lang-item {
     display: block;
     padding: var(--space-3) var(--space-3) var(--space-2);
-    border-top: 1px solid var(--color-border-light);
+    border-top: 1px solid var(--color-rule-light);
     margin-top: var(--space-1);
   }
 
   :global(.mobile-nav) .nav-list {
     position: fixed;
-    top: 56px;
+    top: 48px;
     left: 0;
     right: 0;
-    height: calc(100vh - 56px);
-    height: calc(100dvh - 56px);
+    height: calc(100vh - 48px);
+    height: calc(100dvh - 48px);
     background: var(--color-bg);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
     flex-direction: column;
     padding: var(--space-4);
     gap: 0;
@@ -269,7 +260,7 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     pointer-events: none;
     opacity: 0;
     transform: translateY(-8px);
-    transition: opacity 0.25s var(--ease-out), transform 0.25s var(--ease-out);
+    transition: opacity 0.2s ease, transform 0.2s ease;
   }
 
   :global(.mobile-nav) .nav-list.open {
@@ -279,28 +270,25 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   }
 
   :global(.mobile-nav) .nav-list > li:not(.nav-lang-item) {
-    border-bottom: 1px solid var(--color-border-light);
+    border-bottom: 1px solid var(--color-rule-light);
   }
 
   :global(.mobile-nav) .nav-list a {
     display: flex;
     align-items: center;
     padding: var(--space-2);
-    border-radius: 0;
-    font-size: var(--text-md);
+    font-size: 14px;
     font-weight: 500;
     min-height: 48px;
   }
 
   :global(.mobile-nav) .nav-list a.active {
-    color: var(--color-accent);
-    background: none;
+    color: var(--color-text);
     font-weight: 600;
   }
 
   :global(.mobile-nav) .nav-list a:hover {
-    background: none;
-    color: var(--color-accent);
+    color: var(--color-text);
   }
 </style>
 
@@ -313,12 +301,9 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 
     // --- Responsive nav: detect overflow and switch to mobile mode ---
     function checkNavFit() {
-      // Temporarily remove mobile mode to measure natural width
       header.classList.remove('mobile-nav');
       const headerInner = header.querySelector('.header-inner') as HTMLElement;
       if (!headerInner) return;
-
-      // Check if content overflows the header
       const overflows = headerInner.scrollWidth > headerInner.clientWidth;
       if (overflows) {
         header.classList.add('mobile-nav');
@@ -327,7 +312,6 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 
     checkNavFit();
     const ro = new ResizeObserver(() => {
-      // Close menu on resize
       navToggle.setAttribute('aria-expanded', 'false');
       navMenu.classList.remove('open');
       document.body.style.overflow = '';
@@ -354,14 +338,20 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
       link.addEventListener('click', closeMenu);
     });
 
-    // --- Sticky header shadow on scroll ---
-    const sentinel = document.createElement('div');
-    sentinel.style.height = '1px';
-    sentinel.style.position = 'absolute';
-    sentinel.style.top = '0';
-    document.body.prepend(sentinel);
-    new IntersectionObserver(
-      ([e]) => header.classList.toggle('scrolled', !e.isIntersecting)
-    ).observe(sentinel);
+    // --- Theme toggle ---
+    const toggle = document.querySelector('.theme-toggle');
+    if (toggle) {
+      toggle.addEventListener('click', () => {
+        const html = document.documentElement;
+        const current = html.getAttribute('data-theme');
+        const isDarkSystem = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        let next: string;
+        if (current === 'dark') next = 'light';
+        else if (current === 'light') next = 'dark';
+        else next = isDarkSystem ? 'light' : 'dark';
+        html.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+      });
+    }
   });
 </script>
