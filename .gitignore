@@ -32,3 +32,6 @@ export/output/
 # Commentary PDFs and raw extraction (not committed)
 data/commentary_pdfs/
 scripts/commentary_raw/
+
+# Botschaft PDFs and raw text extraction (not committed)
+data/botschaften/
