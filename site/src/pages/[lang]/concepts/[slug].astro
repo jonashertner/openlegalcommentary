@@ -1,0 +1,87 @@
+---
+import { LANGS, type Lang, t } from '@/lib/i18n';
+import { langBase } from '@/lib/base';
+import { renderMarkdown } from '@/lib/markdown';
+import Base from '../../../layouts/Base.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import { listConcepts, loadConcept } from '../../../lib/content';
+
+export function getStaticPaths() {
+  const concepts = listConcepts();
+  return LANGS.flatMap(lang =>
+    concepts.map(c => ({ params: { lang, slug: c.slug } }))
+  );
+}
+
+const { lang, slug } = Astro.params as { lang: Lang; slug: string };
+const concept = loadConcept(slug!);
+if (!concept) return Astro.redirect(`/${lang}/concepts`);
+
+const { html: contentHtml } = renderMarkdown(concept.content, lang);
+
+const confidenceLabels: Record<string, string> = {
+  settled: t('concepts.settled', lang),
+  contested: t('concepts.contested', lang),
+  evolving: t('concepts.evolving', lang),
+};
+
+function provisionToLink(prov: string): { href: string; label: string } {
+  const [law, art] = prov.split('/');
+  const num = art.replace('art-', '').replace(/^0+/, '');
+  return {
+    href: `${langBase(lang)}/${law}/art-${num}`,
+    label: `Art. ${num} ${law.toUpperCase()}`,
+  };
+}
+---
+
+<Base title={concept.meta.title} lang={lang} pagePath={`/concepts/${slug}`}>
+  <Breadcrumb
+    lang={lang}
+    items={[
+      { label: t('nav.concepts', lang), href: `${langBase(lang)}/concepts` },
+      { label: concept.meta.title },
+    ]}
+  />
+
+  <article class="concept-page content-column" data-pagefind-body data-pagefind-filter={`language:${lang}`}>
+    <header class="concept-header">
+      <h1>{concept.meta.title}</h1>
+      <div class="concept-meta text-sm">
+        <span class:list={['confidence-badge', `confidence-${concept.meta.confidence}`]}>
+          {confidenceLabels[concept.meta.confidence]}
+        </span>
+        <span class="author-status text-muted">{concept.meta.author_status}</span>
+      </div>
+    </header>
+
+    <div class="concept-provisions">
+      <h2 class="text-sm font-heading">{t('concepts.provisions', lang)}</h2>
+      <ul class="provision-links">
+        {concept.meta.provisions.map(prov => {
+          const link = provisionToLink(prov);
+          return <li><a href={link.href}>{link.label}</a></li>;
+        })}
+      </ul>
+    </div>
+
+    <div class="concept-content prose" set:html={contentHtml} />
+  </article>
+</Base>
+
+<style>
+  .concept-page { padding-top: var(--space-2); }
+  .concept-header { margin-bottom: var(--space-3); padding-bottom: var(--space-2); border-bottom: 1px solid var(--color-border-light); }
+  .concept-header h1 { margin-bottom: var(--space-1); }
+  .concept-meta { display: flex; gap: var(--space-2); align-items: center; }
+  .confidence-badge { font-family: var(--font-heading); font-size: var(--text-xs); font-weight: 600; padding: 2px 8px; border-radius: var(--radius-sm); text-transform: uppercase; letter-spacing: 0.05em; }
+  .confidence-settled { background: color-mix(in srgb, var(--color-accent) 15%, transparent); color: var(--color-accent); }
+  .confidence-contested { background: color-mix(in srgb, #d97706 15%, transparent); color: #d97706; }
+  .confidence-evolving { background: color-mix(in srgb, #6366f1 15%, transparent); color: #6366f1; }
+  .concept-provisions { margin-bottom: var(--space-4); padding: var(--space-2) var(--space-3); background: var(--color-bg-alt); border-radius: var(--radius-md); }
+  .concept-provisions h2 { margin: 0 0 var(--space-1); color: var(--color-text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  .provision-links { display: flex; flex-wrap: wrap; gap: var(--space-1); list-style: none; padding: 0; margin: 0; }
+  .provision-links a { font-family: var(--font-mono); font-size: var(--text-xs); color: var(--color-accent); text-decoration: none; padding: 2px 8px; border: 1px solid var(--color-border); border-radius: var(--radius-sm); transition: border-color var(--transition-fast), background var(--transition-fast); }
+  .provision-links a:hover { border-color: var(--color-accent); background: color-mix(in srgb, var(--color-accent) 8%, transparent); }
+  .concept-content { line-height: 1.7; }
+</style>
