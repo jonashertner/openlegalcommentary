@@ -5,7 +5,7 @@ Open-access, AI-generated, daily-updated legal commentary on Swiss federal law.
 ## Project structure
 
 - `guidelines/` — Authoring guidelines (global + per-law) and quality evaluation rubric
-- `content/` — Generated commentary organized by law and article
+- `content/` — Generated commentary organized by law, article, concept, and contested question
 - `agents/` — Agent pipeline (coordinator, law agents, evaluator, translator)
 - `site/` — Astro static site (4 languages: DE/FR/IT/EN, URL-based routing under `/{lang}/`)
 - `export/` — HuggingFace dataset export
@@ -21,16 +21,23 @@ Each article lives in `content/{law}/art-{number}/` with:
 - `caselaw.md` — Case law digest, daily updated
 - `*.fr.md` / `*.it.md` / `*.en.md` — French/Italian/English translations
 
+Content types: article, concept, contested, comparison
+
+Concept pages live in `content/concepts/{slug}/` with `meta.yaml` (ConceptMeta).
+Contested pages live in `content/contested/{slug}/` with `meta.yaml` (ContestedMeta).
+
 ## Guidelines
 
 All authoring is governed by `guidelines/global.md` (core standards) and
 `guidelines/{law}.md` (law-specific context). Quality evaluation uses
-`guidelines/evaluate.md`.
+`guidelines/evaluate.md`. Cross-cutting content types have their own guidelines:
+`guidelines/concepts.md` and `guidelines/contested.md`.
 
 ## Laws covered
 
 BV (SR 101), ZGB (SR 210), OR (SR 220), ZPO (SR 272),
-StGB (SR 311.0), StPO (SR 312.0), SchKG (SR 281.1), VwVG (SR 172.021)
+StGB (SR 311.0), StPO (SR 312.0), SchKG (SR 281.1), VwVG (SR 172.021),
+BGFA (SR 935.61)
 
 ## Commands
 
