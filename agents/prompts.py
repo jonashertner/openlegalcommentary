@@ -23,7 +23,11 @@ The article text is provided in the prompt above.
 
 Use the tools to:
 1. Read the existing doctrine and caselaw layers if available (for context)
-2. Write the summary layer using write_layer_content""",
+2. Write the summary layer using write_layer_content
+
+When preparatory materials are provided:
+- Use the Botschaft's own plain-language explanation as a starting point
+- The summary should reflect what the legislature intended, not just what the text says""",
 
     "doctrine": """Generate the **Doktrin (Doctrinal Analysis)** layer for the given article.
 
@@ -52,7 +56,16 @@ When doctrinal reference data (BSK/CR) is provided in the prompt:
 - Cite BSK authors with Randziffern: Kessler, BSK OR I, Art. 41 N. 12
 - Cite CR authors with Randziffern: Thévenoz, CR CO I, Art. 41 N. 8
 - Present doctrinal controversies from the references with named positions on each side
-- Do NOT reproduce commentary text — synthesize original analysis""",
+- Do NOT reproduce commentary text — synthesize original analysis
+
+When preparatory materials (Materialien) are provided in the prompt:
+- Ground the Entstehungsgeschichte section in actual Botschaft quotes
+- Cite with exact BBl page references: "BBl 1999 6045"
+- Include the Federal Council's stated intent for the provision
+- Note where the parliamentary process modified the Federal Council's proposal
+- In the Norminhalt and Streitstände sections, trace where judicial interpretation
+  has confirmed, narrowed, or expanded the original legislative intent
+- Do NOT reproduce Botschaft text verbatim — synthesize and cite""",
 
     "caselaw": """Generate the **Rechtsprechung (Case Law Digest)** layer for the given article.
 
@@ -134,7 +147,10 @@ def build_evaluator_prompt(guidelines_root: Path) -> str:
         "6. When doctrinal reference data is provided, cross-check cited BSK/CR "
         "authors and Randziffern against the reference data\n"
         "7. Reject if BSK/CR positions are cited that don't appear in the references\n"
-        "8. Return your verdict as JSON in EXACTLY this format:\n\n"
+        "8. When preparatory materials reference data is provided, verify that "
+        "cited BBl page references and legislative intent claims match the "
+        "reference data. Reject fabricated Botschaft quotes.\n"
+        "9. Return your verdict as JSON in EXACTLY this format:\n\n"
         "```json\n"
         "{\n"
         '  "verdict": "publish" or "reject",\n'
