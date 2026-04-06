@@ -20,7 +20,7 @@ Grundsatzentscheid zur Abgrenzung zwischen klientenseitig anvertrauten und eigen
 
 **BGE 117 Ia 341**
 1991
-Durchsuchungen von Anwaltsräumlichkeiten sind nur unter strengen Voraussetzungen zulässig. Der Anwalt hat das Recht, die Siegelung der beschlagnahmten Unterlagen zu verlangen. Im Entsiegelungsverfahren prüft die zuständige Behörde, welche Unterlagen dem Berufsgeheimnis unterfallen.
+Durchsuchungen von Anwaltsräumlichkeiten sind nur unter strengen Voraussetzungen zulässig. Der Anwalt hat das Recht, die Siegelung der beschlagnahmten Unterlagen zu verlangen, damit im Entsiegelungsverfahren geprüft wird, welche Unterlagen dem Berufsgeheimnis unterfallen.
 Grundsatzentscheid zum Schutz des Anwaltsgeheimnisses bei Hausdurchsuchungen und zum Entsiegelungsverfahren als Schutzmechanismus.
 
 > «Wird eine Anwaltskanzlei durchsucht, so hat der betroffene Anwalt das Recht, die Siegelung der Papiere zu verlangen, damit in einem Entsiegelungsverfahren geprüft werden kann, ob die Unterlagen dem Berufsgeheimnis unterstehen.»
