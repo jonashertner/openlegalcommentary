@@ -1,0 +1,1084 @@
+{
+  "BV": [
+    {
+      "id": "19960091",
+      "short_id": "96.091",
+      "title": "Bundesverfassung. Reform",
+      "affair_type": "BRG",
+      "state": "Erledigt",
+      "botschaften": [
+        {
+          "title": "Botschaft vom 20. November 1996 über eine neue Bundesverfassung",
+          "bbl_ref": "BBl 1997 I 1",
+          "bbl_ref_normalized": "bbl-1997-I-1",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/1997",
+          "year": "1997",
+          "page": "1",
+          "date": "1996-11-19",
+          "reference_type_id": 1
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 1997 III 1484",
+          "bbl_ref_normalized": "bbl-1997-III-1484",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/1997",
+          "year": "1997",
+          "page": "1484",
+          "date": "1997-06-08",
+          "reference_type_id": 2
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 1999 I 162",
+          "bbl_ref_normalized": "bbl-1999-I-162",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/1999",
+          "year": "1999",
+          "page": "162",
+          "date": "1998-12-17",
+          "reference_type_id": 3
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 1999 I 162",
+          "bbl_ref_normalized": "bbl-1999-I-162",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/1999",
+          "year": "1999",
+          "page": "162",
+          "date": "1998-12-17",
+          "reference_type_id": 3
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 1999 I 162",
+          "bbl_ref_normalized": "bbl-1999-I-162",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/1999",
+          "year": "1999",
+          "page": "162",
+          "date": "1998-12-17",
+          "reference_type_id": 3
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 1999 8633",
+          "bbl_ref_normalized": "bbl-1999-8633",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/1999/8633.pdf",
+          "year": "1999",
+          "page": "8633",
+          "date": "1999-10-25",
+          "reference_type_id": 3
+        }
+      ],
+      "resolutions": [
+        {
+          "council": "Ständerat",
+          "date": "1998-01-21",
+          "text": "Beschluss abweichend vom Entwurf"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-03-19",
+          "text": "Abweichend (Art. 1 bis 11a)"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-04-28",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-06-18",
+          "text": "Abweichend (bis und mit Art. 57g)"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-09-21",
+          "text": "Abweichend (Art. 57h bis 83a)"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-09-23",
+          "text": "Abweichend (Art. 1 bis 57g)"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-10-07",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-11-30",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-12-14",
+          "text": "Zustimmung zum Antrag der Einigungskonferenz."
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-12-15",
+          "text": "Zustimmung zum Antrag der Einigungskonferenz."
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-03-04",
+          "text": "Beschluss abweichend vom Entwurf"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-04-29",
+          "text": "Abweichend (Art. 60 und 84 bis 95)"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-06-08",
+          "text": "Abweichend (Art. 96 bis Ende)"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-09-21",
+          "text": "Abweichend (Art. 84 bis 95)"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-09-22",
+          "text": "Abweichend (Art. 97 bis 126, Art. 185; Schlussbestimmungen)"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-10-06",
+          "text": "Abweichend (Art. 57k - 126)"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-12-01",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-12-09",
+          "text": "Abweichend (die Varianten werden abgelehnt)."
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-12-14",
+          "text": "Zustimmung zum Antrag der Einigungskonferenz."
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-12-15",
+          "text": "Zustimmung zum Antrag der Einigungskonferenz."
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-01-22",
+          "text": "Beschluss abweichend vom Entwurf"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-03-09",
+          "text": "Abweichend (Art. 127 bis 153)"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-04-30",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-06-25",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-09-22",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-11-30",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-12-08",
+          "text": "Abweichend (die Varianten werden abgelehnt)."
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-12-14",
+          "text": "Zustimmung zum Antrag der Einigungskonferenz."
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-12-15",
+          "text": "Zustimmung zum Antrag der Einigungskonferenz."
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1999-06-09",
+          "text": "Nichteintreten."
+        },
+        {
+          "council": "Ständerat",
+          "date": "1999-08-30",
+          "text": "Nichteintreten."
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-03-05",
+          "text": "Beschluss abweichend vom Entwurf"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1998-06-25",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1998-10-01",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1999-06-09",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1999-08-30",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1999-10-06",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1999-10-07",
+          "text": "Beschluss gemäss Antrag der Einigungskonferenz."
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1999-10-07",
+          "text": "Beschluss gemäss Antrag der Einigungskonferenz."
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1999-10-08",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1999-10-08",
+          "text": "Annahme in der Schlussabstimmung"
+        }
+      ],
+      "committees": [
+        {
+          "abbreviation": "96.091-SR",
+          "name": "Kommission 96.091-SR",
+          "council": "Ständerat"
+        },
+        {
+          "abbreviation": "96.091-NR",
+          "name": "Kommission 96.091-NR",
+          "council": "Nationalrat"
+        }
+      ],
+      "debate_documents": [
+        {
+          "type_id": null,
+          "title": "Reform der Justiz: Volksabstimmung (Bundeskanzlei)",
+          "url": "http://www.admin.ch/ch/d/pore/va/20000312/index.html"
+        },
+        {
+          "type_id": null,
+          "title": "Reform der Justiz: Verhandlungen (PDF)",
+          "url": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-4597"
+        },
+        {
+          "type_id": null,
+          "title": "Dossier zur Reform der Bundesverfassung",
+          "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/wie-funktioniert-das-parlament/parlamentsrecht/bundesverfassung/bundesverfassung-reform"
+        },
+        {
+          "type_id": null,
+          "title": "Bundesverfassung: Volksabstimmung",
+          "url": "https://www.admin.ch/ch/d/pore/va/19990418/index.html"
+        },
+        {
+          "type_id": null,
+          "title": "swissvotes",
+          "url": "https://swissvotes.ch/vote/459.00"
+        }
+      ],
+      "related_affair_ids": []
+    }
+  ],
+  "ZGB": [
+    {
+      "id": "19940083",
+      "short_id": "94.083",
+      "title": "Zusammenarbeit mit den Staaten Osteuropas",
+      "affair_type": "BRG",
+      "state": "Erledigt",
+      "botschaften": [
+        {
+          "title": "Botschaft und Beschlussesentwurf vom 19. September 1994 zum allgemeinverbindlichen Bundesbeschluss über die Zusammenarbeit mit den Staaten Osteuropas",
+          "bbl_ref": "BBl 1994 V 553",
+          "bbl_ref_normalized": "bbl-1994-V-553",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/1994",
+          "year": "1994",
+          "page": "553",
+          "date": "1899-12-31",
+          "reference_type_id": 1
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 1995 II 451",
+          "bbl_ref_normalized": "bbl-1995-II-451",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/1995",
+          "year": "1995",
+          "page": "451",
+          "date": "1995-03-23",
+          "reference_type_id": 3
+        }
+      ],
+      "resolutions": [
+        {
+          "council": "Ständerat",
+          "date": "1994-12-01",
+          "text": "Beschluss abweichend vom Entwurf"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1995-03-08",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1995-03-13",
+          "text": "Zustimmung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1995-03-24",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "1995-03-24",
+          "text": "Annahme in der Schlussabstimmung"
+        }
+      ],
+      "committees": [],
+      "debate_documents": [],
+      "related_affair_ids": []
+    },
+    {
+      "id": "20150046",
+      "short_id": "15.046",
+      "title": "Internationaler automatischer Informationsaustausch im Steuerbereich. Bundesgesetz",
+      "affair_type": "BRG",
+      "state": "Erledigt",
+      "botschaften": [
+        {
+          "title": "Botschaft vom 5. Juni 2015 zur Genehmigung der multilateralen Vereinbarung der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten und zu ihrer Umsetzung (Bundesgesetz über den internationalen automatischen Informationsaustausch in Steuersachen)",
+          "bbl_ref": "BBl 2015 5437",
+          "bbl_ref_normalized": "bbl-2015-5437",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2015/5437.pdf",
+          "year": "2015",
+          "page": "5437",
+          "date": "2015-06-04",
+          "reference_type_id": 1
+        },
+        {
+          "title": "Multilaterale Vereinbarung der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten",
+          "bbl_ref": "BBl 2015 5527",
+          "bbl_ref_normalized": "bbl-2015-5527",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2015/5527.pdf",
+          "year": "2015",
+          "page": "5527",
+          "date": "2015-06-04",
+          "reference_type_id": 1
+        },
+        {
+          "title": "Bundesbeschluss über die Genehmigung der multilateralen Vereinbarung der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten",
+          "bbl_ref": "BBl 2015 5525",
+          "bbl_ref_normalized": "bbl-2015-5525",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2015/5525.pdf",
+          "year": "2015",
+          "page": "5525",
+          "date": "2015-06-04",
+          "reference_type_id": 1
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 2015 9603",
+          "bbl_ref_normalized": "bbl-2015-9603",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2015/9603.pdf",
+          "year": "2015",
+          "page": "9603",
+          "date": "2016-01-03",
+          "reference_type_id": 3
+        },
+        {
+          "title": "Bundesgesetz über den internationalen automatischen Informationsaustausch in Steuersachen (AIAG)",
+          "bbl_ref": "BBl 2015 5565",
+          "bbl_ref_normalized": "bbl-2015-5565",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2015/5565.pdf",
+          "year": "2015",
+          "page": "5565",
+          "date": "2015-06-04",
+          "reference_type_id": 1
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 2015 9573",
+          "bbl_ref_normalized": "bbl-2015-9573",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2015/9573.pdf",
+          "year": "2015",
+          "page": "9573",
+          "date": "2016-01-03",
+          "reference_type_id": 3
+        }
+      ],
+      "resolutions": [
+        {
+          "council": "Nationalrat",
+          "date": "2015-09-16",
+          "text": "Beschluss gemäss Entwurf"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2015-12-02",
+          "text": "Zustimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2015-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2015-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2015-09-16",
+          "text": "Beschluss abweichend vom Entwurf"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2015-12-02",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2015-12-07",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2015-12-14",
+          "text": "Zustimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2015-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2015-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        }
+      ],
+      "committees": [],
+      "debate_documents": [
+        {
+          "type_id": null,
+          "title": "Gutachten zur Verfassungskonformität des automatischen Informationsaustauschs",
+          "url": "http://biblio.parlament.ch/e-docs/383331.pdf"
+        },
+        {
+          "type_id": null,
+          "title": "Gutachten: Verwendung der Versichertennummer der AHV als Steueridentifikationsnummer im Rahmen des automatischen Informationsaustausches in Steuersachen (AIA)",
+          "url": "http://biblio.parlament.ch/e-docs/384220.pdf"
+        }
+      ],
+      "related_affair_ids": []
+    },
+    {
+      "id": "20180069",
+      "short_id": "18.069",
+      "title": "ZGB. Änderung (Erbrecht)",
+      "affair_type": "BRG",
+      "state": "Erledigt",
+      "botschaften": [
+        {
+          "title": "Botschaft vom 29. August 2018 zur Änderung des Schweizerischen Zivilgesetzbuches (Erbrecht)",
+          "bbl_ref": "BBl 2018 5813",
+          "bbl_ref_normalized": "bbl-2018-5813",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2018/5813.pdf",
+          "year": "2018",
+          "page": "5813",
+          "date": "2018-08-26",
+          "reference_type_id": 1
+        },
+        {
+          "title": "Schweizerisches Zivilgesetzbuch (Erbrecht)",
+          "bbl_ref": "BBl 2018 5905",
+          "bbl_ref_normalized": "bbl-2018-5905",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2018/5905.pdf",
+          "year": "2018",
+          "page": "5905",
+          "date": "2018-08-28",
+          "reference_type_id": 1
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 2020 9923",
+          "bbl_ref_normalized": "bbl-2020-9923",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2020/9923.pdf",
+          "year": "2020",
+          "page": "9923",
+          "date": "2020-12-30",
+          "reference_type_id": 3
+        }
+      ],
+      "resolutions": [
+        {
+          "council": "Ständerat",
+          "date": "2019-09-12",
+          "text": "Beschluss abweichend vom Entwurf"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-09-22",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-12-01",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-12-07",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-12-10",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-12-16",
+          "text": "Zustimmung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-12-18",
+          "text": "Annahme in der Schlussabstimmung"
+        }
+      ],
+      "committees": [],
+      "debate_documents": [
+        {
+          "type_id": null,
+          "title": "Standpunkt des BJ zu den Änderungsanträgen der RK-N (Art. 216 Abs. 2 und Art. 472 Abs. 1 E-ZGB) vom 17.10.2019 und zum Antrag um erneute Prüfung",
+          "url": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10022"
+        }
+      ],
+      "related_affair_ids": []
+    }
+  ],
+  "OR": [
+    {
+      "id": "20160077",
+      "short_id": "16.077",
+      "title": "OR. Aktienrecht",
+      "affair_type": "BRG",
+      "state": "Erledigt",
+      "botschaften": [
+        {
+          "title": "Botschaft vom 23. November 2016 zur Änderung des Obligationenrechts (Aktienrecht)",
+          "bbl_ref": "BBl 2017 399",
+          "bbl_ref_normalized": "bbl-2017-399",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2017/399.pdf",
+          "year": "2017",
+          "page": "399",
+          "date": "2016-11-22",
+          "reference_type_id": 1
+        },
+        {
+          "title": "Obligationenrecht (Aktienrecht)",
+          "bbl_ref": "BBl 2017 683",
+          "bbl_ref_normalized": "bbl-2017-683",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2017/683.pdf",
+          "year": "2017",
+          "page": "683",
+          "date": "2016-11-22",
+          "reference_type_id": 1
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 2020 5573",
+          "bbl_ref_normalized": "bbl-2020-5573",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2020/5573.pdf",
+          "year": "2020",
+          "page": "5573",
+          "date": "2020-06-29",
+          "reference_type_id": 3
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 2021 890",
+          "bbl_ref_normalized": "bbl-2021-890",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2021/890.pdf",
+          "year": "2021",
+          "page": "890",
+          "date": "2021-04-26",
+          "reference_type_id": 3
+        }
+      ],
+      "resolutions": [
+        {
+          "council": "Nationalrat",
+          "date": "2018-06-14",
+          "text": "Beginn der Debatte"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2018-06-15",
+          "text": "Beschluss abweichend vom Entwurf"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2018-12-11",
+          "text": "Rückweisung an die Kommission"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2019-06-19",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2019-12-19",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-03-04",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-06-03",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-06-09",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-06-16",
+          "text": "Beschluss gemäss Antrag der Einigungskonferenz"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-06-18",
+          "text": "Beschluss gemäss Antrag der Einigungskonferenz"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-06-19",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-06-19",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2018-06-14",
+          "text": "Beginn der Debatte"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2018-06-15",
+          "text": "Beschluss gemäss Antrag Bigler."
+        },
+        {
+          "council": "Ständerat",
+          "date": "2019-03-12",
+          "text": "Nichteintreten"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2019-06-13",
+          "text": "Festhalten"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2019-12-18",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-03-04",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-03-09",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-03-11",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-06-02",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-06-08",
+          "text": "Beschluss gemäss Antrag der Einigungskonferenz"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-06-09",
+          "text": "Beschluss gemäss Antrag der Einigungskonferenz"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2020-06-19",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2020-06-19",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "",
+          "date": "2021-02-03",
+          "text": "Dieses Gesetz wird im Bundesblatt publiziert, sobald die Volksinitiative vom 10. Oktober 2016  «Für verantwortungsvolle Unternehmen – zum Schutz von Mensch und Umwelt» zurückgezogen oder abgelehnt worden ist."
+        }
+      ],
+      "committees": [],
+      "debate_documents": [
+        {
+          "type_id": null,
+          "title": "Bundesamt für Justiz: Transparenz bezüglich nichtfinanzieller Belange und Sorgfaltspflichten und Transparenz bezüglich Mineralien und Metallen aus Konfliktgebieten und Kinderarbeit",
+          "url": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-9802"
+        }
+      ],
+      "related_affair_ids": []
+    },
+    {
+      "id": "20080064",
+      "short_id": "08.064",
+      "title": "Übereinkommen über Menschenrechte und Biomedizin. Zusatzprotokoll",
+      "affair_type": "BRG",
+      "state": "Erledigt",
+      "botschaften": [
+        {
+          "title": "Botschaft vom 10. September 2008 über die Genehmigung des Zusatzprotokolls über die Transplantation menschlicher Organe und Gewebe zum Übereinkommen über Menschenrechte und Biomedizin",
+          "bbl_ref": "BBl 2008 7951",
+          "bbl_ref_normalized": "bbl-2008-7951",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2008/7951.pdf",
+          "year": "2008",
+          "page": "7951",
+          "date": "2008-09-09",
+          "reference_type_id": 1
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 2009 4489",
+          "bbl_ref_normalized": "bbl-2009-4489",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2009/4489.pdf",
+          "year": "2009",
+          "page": "4489",
+          "date": "2009-06-22",
+          "reference_type_id": 3
+        }
+      ],
+      "resolutions": [
+        {
+          "council": "Nationalrat",
+          "date": "2009-03-03",
+          "text": "Beschluss gemäss Entwurf"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2009-06-04",
+          "text": "Zustimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2009-06-12",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2009-06-12",
+          "text": "Annahme in der Schlussabstimmung"
+        }
+      ],
+      "committees": [],
+      "debate_documents": [],
+      "related_affair_ids": []
+    }
+  ],
+  "ZPO": [
+    {
+      "id": "20060062",
+      "short_id": "06.062",
+      "title": "Schweizerische Zivilprozessordnung",
+      "affair_type": "BRG",
+      "state": "Erledigt",
+      "botschaften": [
+        {
+          "title": "Botschaft vom 28. Juni 2006 zur Schweizerischen Zivilprozessordnung",
+          "bbl_ref": "BBl 2006 7221",
+          "bbl_ref_normalized": "bbl-2006-7221",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2006/7221.pdf",
+          "year": "2006",
+          "page": "7221",
+          "date": "2006-06-27",
+          "reference_type_id": 1
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 2009 21",
+          "bbl_ref_normalized": "bbl-2009-21",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2009/21.pdf",
+          "year": "2009",
+          "page": "21",
+          "date": "2009-01-05",
+          "reference_type_id": 3
+        }
+      ],
+      "resolutions": [
+        {
+          "council": "Ständerat",
+          "date": "2007-06-21",
+          "text": "Beschluss abweichend vom Entwurf"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2008-05-29",
+          "text": "Behandlung der Vorlage bis Art. 111."
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2008-06-12",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2008-09-29",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2008-12-02",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2008-12-04",
+          "text": "Zustimmung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2008-12-19",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2008-12-19",
+          "text": "Annahme in der Schlussabstimmung"
+        }
+      ],
+      "committees": [],
+      "debate_documents": [
+        {
+          "type_id": null,
+          "title": "Verhandlungen | Argumente (PDF)",
+          "url": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-9466"
+        }
+      ],
+      "related_affair_ids": []
+    }
+  ],
+  "StGB": [
+    {
+      "id": "20100050",
+      "short_id": "10.050",
+      "title": "Begrenzung volkswirtschaftlicher Risiken durch Grossunternehmen. Planung von Massnahmen",
+      "affair_type": "BRG",
+      "state": "Erledigt",
+      "botschaften": [
+        {
+          "title": "Botschaft vom 12. Mai 2010 über die Planung von Massnahmen zur Begrenzung volkswirtschaftlicher Risiken durch Grossunternehmen",
+          "bbl_ref": "BBl 2010 3367",
+          "bbl_ref_normalized": "bbl-2010-3367",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2010/3367.pdf",
+          "year": "2010",
+          "page": "3367",
+          "date": "2010-05-11",
+          "reference_type_id": 1
+        }
+      ],
+      "resolutions": [
+        {
+          "council": "Ständerat",
+          "date": "2010-06-03",
+          "text": "Nichteintreten."
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2010-06-07",
+          "text": "Nichteintreten."
+        }
+      ],
+      "committees": [],
+      "debate_documents": [],
+      "related_affair_ids": []
+    }
+  ],
+  "StPO": [],
+  "SchKG": [],
+  "VwVG": [],
+  "BGFA": [
+    {
+      "id": "19990027",
+      "short_id": "99.027",
+      "title": "Freizügigkeit der Anwältinnen und Anwälte. Bundesgesetz",
+      "affair_type": "BRG",
+      "state": "Erledigt",
+      "botschaften": [
+        {
+          "title": "Botschaft vom 28. April 1999 zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte (Anwaltsgesetz; BGFA)",
+          "bbl_ref": "BBl 1999 6013",
+          "bbl_ref_normalized": "bbl-1999-6013",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/1999/6013.pdf",
+          "year": "1999",
+          "page": "6013",
+          "date": "1999-04-27",
+          "reference_type_id": 1
+        },
+        {
+          "title": "",
+          "bbl_ref": "BBl 2000 3594",
+          "bbl_ref_normalized": "bbl-2000-3594",
+          "pdf_url": "http://www.admin.ch/opc/de/federal-gazette/2000/3594.pdf",
+          "year": "2000",
+          "page": "3594",
+          "date": "2000-07-05",
+          "reference_type_id": 3
+        }
+      ],
+      "resolutions": [
+        {
+          "council": "Nationalrat",
+          "date": "1999-09-01",
+          "text": "Beschluss abweichend vom Entwurf"
+        },
+        {
+          "council": "Ständerat",
+          "date": "1999-12-20",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2000-03-07",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2000-03-16",
+          "text": "Rückweisung an die Kommission"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2000-06-05",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2000-06-14",
+          "text": "Abweichung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2000-06-20",
+          "text": "Zustimmung"
+        },
+        {
+          "council": "Nationalrat",
+          "date": "2000-06-23",
+          "text": "Annahme in der Schlussabstimmung"
+        },
+        {
+          "council": "Ständerat",
+          "date": "2000-06-23",
+          "text": "Annahme in der Schlussabstimmung"
+        }
+      ],
+      "committees": [],
+      "debate_documents": [],
+      "related_affair_ids": []
+    }
+  ]
+}
