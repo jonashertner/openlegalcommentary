@@ -7,4 +7,13 @@ absatz_count: 1
 fedlex_url: https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_12
 lexfind_url: ''
 in_force_since: ''
-layers: {}
+layers:
+  summary:
+    last_generated: '2026-04-06'
+    version: 1
+  doctrine:
+    last_generated: '2026-04-06'
+    version: 1
+  caselaw:
+    last_generated: '2026-04-06'
+    version: 1
