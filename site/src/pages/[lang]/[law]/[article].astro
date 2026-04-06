@@ -8,8 +8,9 @@ import Breadcrumb from '../../../components/Breadcrumb.astro';
 import ArticleTabs from '../../../components/ArticleTabs.astro';
 import ArticlePagination from '../../../components/ArticlePagination.astro';
 import Gesetzestext from '../../../components/Gesetzestext.astro';
+import CrossReferences from '../../../components/CrossReferences.astro';
 import { LAWS, getLawByAbbr } from '../../../lib/laws';
-import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText, getTranslatedTitle } from '../../../lib/content';
+import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText, getTranslatedTitle, getCrossReferences } from '../../../lib/content';
 
 export function getStaticPaths() {
   const laws = ['bv', 'zgb', 'or', 'zpo', 'stgb', 'stpo', 'schkg', 'vwvg', 'bgfa'];
@@ -41,6 +42,7 @@ const meta = articleData?.meta || articleEntry!.meta;
 const summary = articleData?.summary || '';
 const doctrine = articleData?.doctrine || '';
 const caselaw = articleData?.caselaw || '';
+const crossRefs = getCrossReferences(lawInfo.abbr, dirName);
 const rawNav = getArticleNav(lawInfo.abbr, dirName);
 // Translate prev/next titles
 const nav = {
@@ -173,6 +175,7 @@ const metaDescription = firstSentence || `${t('footer.commentary', lang)}: ${art
       prev={nav.prev}
       next={nav.next}
     />
+    <CrossReferences lang={lang} refs={crossRefs} />
   </article>
 
   <!-- Reading progress bar -->
