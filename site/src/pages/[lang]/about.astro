@@ -77,17 +77,16 @@ const h = headings[lang];
   <Breadcrumb lang={lang} items={[{ label: t('about.title', lang) }]} />
 
   <article class="about-page content-column">
-    <header class="about-header animate-fade-up">
-      <h1 class="display-font">{t('about.title', lang)}</h1>
-      <span class="accent-line-wide"></span>
+    <header class="about-header">
+      <h1>{t('about.title', lang)}</h1>
     </header>
 
-    <section class="about-section animate-fade-up delay-1">
+    <section class="about-section">
       <h2>{h.mission}</h2>
       <p>{c.mission}</p>
     </section>
 
-    <section class="about-section animate-fade-up delay-2">
+    <section class="about-section">
       <h2>{h.methodology}</h2>
       <p>{c.methodology}</p>
       <h3>{h.layers}</h3>
@@ -101,7 +100,7 @@ const h = headings[lang];
       </dl>
     </section>
 
-    <section class="about-section animate-fade-up delay-3">
+    <section class="about-section">
       <h2>{h.laws}</h2>
       <ul class="law-list">
         {LAWS.map(law => (
@@ -110,10 +109,10 @@ const h = headings[lang];
       </ul>
     </section>
 
-    <section class="about-section animate-fade-up delay-4">
+    <section class="about-section">
       <h2>{h.citation}</h2>
       <p>{c.citation_intro}</p>
-      <ul class="citation-examples font-mono text-sm">
+      <ul class="citation-examples">
         <li><strong>BGE:</strong> BGE 130 III 182 E. 5.5.1</li>
         <li><strong>BGer:</strong> Urteil 4A_123/2024 vom 15.3.2024 E. 3.2</li>
         <li><strong>Literature:</strong> Gauch/Schluep/Schmid, OR AT, 11. Aufl. 2020, N 2850</li>
@@ -121,12 +120,12 @@ const h = headings[lang];
       </ul>
     </section>
 
-    <section class="about-section animate-fade-up delay-5">
+    <section class="about-section">
       <h2>{h.license}</h2>
       <p><Fragment set:html={c.license} /></p>
     </section>
 
-    <section class="about-section animate-fade-up delay-6">
+    <section class="about-section">
       <h2>{h.contact}</h2>
       <p><Fragment set:html={c.contact} /></p>
     </section>
@@ -156,7 +155,7 @@ const h = headings[lang];
   }
 
   .method-list dt {
-    font-family: var(--font-heading);
+    font-family: var(--font-ui);
     font-weight: 600;
     margin-top: var(--space-2);
   }
@@ -173,9 +172,8 @@ const h = headings[lang];
   .citation-examples {
     list-style: none;
     padding: var(--space-3);
-    background: var(--color-code-bg);
-    border-radius: var(--radius-md);
-    border: 1px solid var(--color-border-light);
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
   }
 
   .citation-examples li {
