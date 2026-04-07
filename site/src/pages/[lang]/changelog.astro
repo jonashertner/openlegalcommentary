@@ -96,13 +96,12 @@ const layerLabels: Record<string, Record<Lang, string>> = {
   <Breadcrumb lang={lang} items={[{ label: t('changelog.title', lang) }]} />
 
   <article class="changelog-page content-column">
-    <header class="changelog-header animate-fade-up">
-      <h1 class="display-font">{t('changelog.title', lang)}</h1>
-      <span class="accent-line-wide"></span>
+    <header class="changelog-header">
+      <h1>{t('changelog.title', lang)}</h1>
     </header>
 
     {dates.length === 0 ? (
-      <div class="changelog-empty animate-fade-up delay-1">
+      <div class="changelog-empty">
         <p class="text-muted">{t('changelog.empty', lang)}</p>
       </div>
     ) : (
@@ -115,7 +114,7 @@ const layerLabels: Record<string, Record<Lang, string>> = {
               {entries.map((entry) => (
                 <li>
                   <a href={`${langBase(lang)}/${entry.law.toLowerCase()}/${entry.slug}?layer=${entry.layer}`}>
-                    <span class="change-law font-heading">{entry.law}</span>
+                    <span class="change-law">{entry.law}</span>
                     <span class="change-article">
                       Art.&nbsp;{entry.article}{entry.suffix}
                     </span>
@@ -153,8 +152,6 @@ const layerLabels: Record<string, Record<Lang, string>> = {
   .changelog-empty {
     padding: var(--space-6) var(--space-4);
     text-align: center;
-    background: var(--color-bg-alt);
-    border-radius: var(--radius-lg);
     border: 1px solid var(--color-border);
   }
 
@@ -164,7 +161,7 @@ const layerLabels: Record<string, Record<Lang, string>> = {
 
   .changelog-date {
     font-size: var(--text-md);
-    color: var(--color-accent);
+    color: var(--color-text);
     margin-bottom: var(--space-2);
     padding-bottom: var(--space-1);
     border-bottom: 1px solid var(--color-border);
@@ -187,19 +184,18 @@ const layerLabels: Record<string, Record<Lang, string>> = {
     padding: 8px var(--space-1);
     text-decoration: none;
     color: var(--color-text);
-    border-radius: var(--radius-md);
     transition: background var(--transition-fast);
     font-size: var(--text-sm);
   }
 
   .changelog-entries a:hover {
-    background: var(--color-bg-alt);
+    background: var(--color-rule-light);
   }
 
   .change-law {
     font-weight: 600;
     min-width: 50px;
-    color: var(--color-accent);
+    color: var(--color-text);
     font-size: var(--text-xs);
     text-transform: uppercase;
   }
