@@ -84,7 +84,6 @@ const firstSentence = summaryPlain.match(/^.{50,200}?[.!?]\s/)?.[0]?.trim() || s
 const metaDescription = firstSentence || `${t('footer.commentary', lang)}: ${articleDisplay} — ${translatedTitle}`;
 
 const conceptRefs = crossRefs.filter(r => r.type === 'concept');
-const contestedRefs = crossRefs.filter(r => r.type === 'contested');
 ---
 
 <Base title={`${articleDisplay} — ${translatedTitle}`} lang={lang} pagePath={`/${lawParam}/${articleSlug}`} description={metaDescription}>
@@ -164,9 +163,6 @@ const contestedRefs = crossRefs.filter(r => r.type === 'contested');
           <div class="cross-refs">
             {conceptRefs.map(ref => (
               <a href={`${langBase(lang)}/concepts/${ref.slug}`}>&rarr; {ref.title}</a>
-            ))}
-            {contestedRefs.map(ref => (
-              <a href={`${langBase(lang)}/contested/${ref.slug}`}>&rarr; {ref.title}</a>
             ))}
           </div>
         </>
