@@ -35,3 +35,4 @@ scripts/commentary_raw/
 
 # Botschaft PDFs and raw text extraction (not committed)
 data/botschaften/
+.superpowers/
