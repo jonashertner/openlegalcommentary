@@ -38,64 +38,140 @@ function provisionToLink(prov: string): { href: string; label: string } {
     ]}
   />
 
-  <article class="contested-page content-column" data-pagefind-body data-pagefind-filter={`language:${lang}`}>
-    <header class="contested-header">
-      <h1>{page.meta.title}</h1>
-      <span class="author-status text-sm text-muted">{page.meta.author_status}</span>
-    </header>
+  <article class="page-wrapper" data-pagefind-body data-pagefind-filter={`language:${lang}`}>
+    <div class="page-grid">
+      <div class="left-col">
+        <div class="label">{t('contested.type', lang) || 'Contested Question'}</div>
+        <h1 class="contested-title">{page.meta.title}</h1>
 
-    <div class="contested-question">
-      <h2 class="text-sm font-heading text-muted">{t('contested.question', lang)}</h2>
-      <p class="question-text">{page.meta.question}</p>
-    </div>
+        <div class="meta-block">
+          <div class="label">{t('contested.question', lang)}</div>
+          <p class="question-text">{page.meta.question}</p>
+        </div>
 
-    <div class="contested-positions">
-      <h2 class="text-sm font-heading text-muted">{t('contested.positions', lang)}</h2>
-      <div class="positions-grid">
-        {page.meta.positions.map((pos, i) => (
-          <div class="position-card">
-            <div class="position-label">
-              <span class="position-letter">{String.fromCharCode(65 + i)}</span>
-              {pos.label}
+        <div class="meta-block">
+          <div class="label">{t('contested.positions', lang)}</div>
+          {page.meta.positions.map((pos, i) => (
+            <div class="position-entry">
+              <span class="position-letter">{String.fromCharCode(65 + i)}.</span>
+              <div class="position-body">
+                <span class="position-label">{pos.label}</span>
+                <span class="position-summary">{pos.summary}</span>
+              </div>
             </div>
-            <p class="position-summary">{pos.summary}</p>
+          ))}
+        </div>
+
+        {page.meta.provisions.length > 0 && (
+          <div class="meta-block">
+            <div class="label">{t('concepts.provisions', lang)}</div>
+            <ul class="provision-list">
+              {page.meta.provisions.map(prov => {
+                const link = provisionToLink(prov);
+                return <li><a href={link.href}>{link.label}</a></li>;
+              })}
+            </ul>
           </div>
-        ))}
+        )}
+
+        <div class="meta-block">
+          <div class="label">{page.meta.author_status}</div>
+        </div>
+      </div>
+
+      <div class="right-col">
+        <div class="contested-content prose" set:html={contentHtml} />
       </div>
     </div>
-
-    <div class="contested-provisions">
-      <h2 class="text-sm font-heading text-muted">{t('concepts.provisions', lang)}</h2>
-      <ul class="provision-links">
-        {page.meta.provisions.map(prov => {
-          const link = provisionToLink(prov);
-          return <li><a href={link.href}>{link.label}</a></li>;
-        })}
-      </ul>
-    </div>
-
-    <div class="contested-content prose" set:html={contentHtml} />
   </article>
 </Base>
 
 <style>
-  .contested-page { padding-top: var(--space-2); }
-  .contested-header { margin-bottom: var(--space-3); padding-bottom: var(--space-2); border-bottom: 1px solid var(--color-border-light); }
-  .contested-header h1 { margin-bottom: var(--space-1); }
-  .contested-question { margin-bottom: var(--space-3); padding: var(--space-3); background: color-mix(in srgb, #d97706 8%, transparent); border-left: 3px solid #d97706; border-radius: 0 var(--radius-md) var(--radius-md) 0; }
-  .contested-question h2 { margin: 0 0 var(--space-1); text-transform: uppercase; letter-spacing: 0.05em; }
-  .question-text { font-size: var(--text-md); font-style: italic; margin: 0; line-height: 1.6; }
-  .contested-positions { margin-bottom: var(--space-3); }
-  .contested-positions h2 { margin: 0 0 var(--space-2); text-transform: uppercase; letter-spacing: 0.05em; }
-  .positions-grid { display: flex; flex-direction: column; gap: var(--space-2); }
-  .position-card { padding: var(--space-2) var(--space-3); background: var(--color-bg-card); border: 1px solid var(--color-border); border-radius: var(--radius-md); }
-  .position-label { font-family: var(--font-heading); font-weight: 600; font-size: var(--text-sm); margin-bottom: 4px; display: flex; align-items: center; gap: var(--space-1); }
-  .position-letter { display: flex; align-items: center; justify-content: center; width: 22px; height: 22px; background: var(--color-bg-alt); border-radius: 50%; font-size: var(--text-xs); font-weight: 700; color: var(--color-text-muted); flex-shrink: 0; }
-  .position-summary { font-size: var(--text-sm); color: var(--color-text-secondary); margin: 0; line-height: 1.5; }
-  .contested-provisions { margin-bottom: var(--space-4); padding: var(--space-2) var(--space-3); background: var(--color-bg-alt); border-radius: var(--radius-md); }
-  .contested-provisions h2 { margin: 0 0 var(--space-1); text-transform: uppercase; letter-spacing: 0.05em; }
-  .provision-links { display: flex; flex-wrap: wrap; gap: var(--space-1); list-style: none; padding: 0; margin: 0; }
-  .provision-links a { font-family: var(--font-mono); font-size: var(--text-xs); color: var(--color-accent); text-decoration: none; padding: 2px 8px; border: 1px solid var(--color-border); border-radius: var(--radius-sm); transition: border-color var(--transition-fast), background var(--transition-fast); }
-  .provision-links a:hover { border-color: var(--color-accent); background: color-mix(in srgb, var(--color-accent) 8%, transparent); }
-  .contested-content { line-height: 1.7; }
+  .contested-title {
+    font-family: var(--font-ui);
+    font-size: 24px;
+    font-weight: 700;
+    margin: var(--space-1) 0 var(--space-4);
+    line-height: 1.2;
+  }
+
+  .meta-block {
+    margin-bottom: var(--space-3);
+  }
+
+  .question-text {
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-style: italic;
+    color: var(--color-text);
+    margin: 4px 0 0;
+    line-height: 1.5;
+  }
+
+  .position-entry {
+    display: flex;
+    gap: var(--space-1);
+    padding: 8px 0;
+    border-bottom: 1px solid var(--color-rule-light);
+  }
+
+  .position-entry:first-of-type {
+    border-top: 1px solid var(--color-rule-light);
+    margin-top: 4px;
+  }
+
+  .position-letter {
+    font-family: var(--font-ui);
+    font-weight: 700;
+    font-size: 12px;
+    color: var(--color-text);
+    flex-shrink: 0;
+  }
+
+  .position-body {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .position-label {
+    font-family: var(--font-ui);
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--color-text);
+  }
+
+  .position-summary {
+    font-family: var(--font-body);
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    line-height: 1.4;
+  }
+
+  .provision-list {
+    list-style: none;
+    padding: 0;
+    margin: 4px 0 0;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .provision-list a {
+    font-family: var(--font-ui);
+    font-size: 12px;
+    color: var(--color-text);
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-rule-light);
+    padding-bottom: 1px;
+    transition: border-color var(--transition-fast);
+  }
+
+  .provision-list a:hover {
+    border-bottom-color: var(--color-rule);
+  }
+
+  .contested-content {
+    line-height: 1.7;
+  }
 </style>
