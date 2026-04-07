@@ -33,7 +33,10 @@ const { lang, items } = Astro.props;
 
 <style>
   .breadcrumb {
-    margin-bottom: var(--space-3);
+    font-size: 11px;
+    color: var(--color-text-muted);
+    padding: 12px 0;
+    border-bottom: 1px solid var(--color-rule-light);
   }
 
   .breadcrumb ol {
@@ -44,8 +47,6 @@ const { lang, items } = Astro.props;
     padding: 0;
     margin: 0;
     gap: 4px;
-    font-family: var(--font-heading);
-    font-size: var(--text-sm);
   }
 
   .breadcrumb a {
@@ -54,11 +55,11 @@ const { lang, items } = Astro.props;
   }
 
   .breadcrumb a:hover {
-    color: var(--color-accent);
+    color: var(--color-text);
   }
 
   .breadcrumb-sep {
-    color: var(--color-border);
+    color: var(--color-text-muted);
     margin: 0 2px;
   }
 
