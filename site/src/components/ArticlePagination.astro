@@ -39,10 +39,10 @@ const { lang, law, prev, next } = Astro.props;
   .article-pagination {
     display: flex;
     justify-content: space-between;
-    gap: var(--space-2);
     margin-top: var(--space-5);
-    padding-top: var(--space-3);
-    border-top: 1px solid var(--color-border-light);
+    padding-top: var(--space-2);
+    border-top: 1px solid var(--color-rule-light);
+    font-size: 12px;
   }
 
   .pagination-link {
@@ -50,17 +50,12 @@ const { lang, law, prev, next } = Astro.props;
     align-items: center;
     gap: var(--space-1);
     text-decoration: none;
-    color: var(--color-text);
-    padding: var(--space-1) var(--space-2);
-    border: 1px solid var(--color-border-light);
-    border-radius: 6px;
-    max-width: 45%;
-    transition: border-color var(--transition-fast), background var(--transition-fast);
+    color: var(--color-text-muted);
+    transition: color var(--transition-fast);
   }
 
   .pagination-link:hover {
-    border-color: var(--color-accent);
-    background: var(--color-bg-alt);
+    color: var(--color-text);
   }
 
   .pagination-next {
@@ -69,8 +64,6 @@ const { lang, law, prev, next } = Astro.props;
   }
 
   .pagination-arrow {
-    font-size: var(--text-lg);
-    color: var(--color-accent);
     flex-shrink: 0;
   }
 
@@ -84,13 +77,10 @@ const { lang, law, prev, next } = Astro.props;
     color: var(--color-text-muted);
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    font-family: var(--font-heading);
   }
 
   .pagination-title {
-    font-family: var(--font-heading);
-    font-size: var(--text-sm);
-    font-weight: 500;
+    font-size: 12px;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -99,6 +89,7 @@ const { lang, law, prev, next } = Astro.props;
   @media (max-width: 768px) {
     .article-pagination {
       flex-direction: column;
+      gap: var(--space-2);
     }
 
     .pagination-link {
@@ -108,7 +99,6 @@ const { lang, law, prev, next } = Astro.props;
     .pagination-next {
       margin-left: 0;
       text-align: left;
-      flex-direction: row-reverse;
     }
   }
 </style>

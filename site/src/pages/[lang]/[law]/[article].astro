@@ -8,7 +8,6 @@ import Breadcrumb from '../../../components/Breadcrumb.astro';
 import ArticleTabs from '../../../components/ArticleTabs.astro';
 import ArticlePagination from '../../../components/ArticlePagination.astro';
 import Gesetzestext from '../../../components/Gesetzestext.astro';
-import CrossReferences from '../../../components/CrossReferences.astro';
 import { LAWS, getLawByAbbr } from '../../../lib/laws';
 import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText, getTranslatedTitle, getCrossReferences } from '../../../lib/content';
 
@@ -83,6 +82,9 @@ const lastUpdated = Object.values(layerMeta)
 const summaryPlain = summary.replace(/[#*>\[\]()]/g, '').replace(/\n+/g, ' ').trim();
 const firstSentence = summaryPlain.match(/^.{50,200}?[.!?]\s/)?.[0]?.trim() || summaryPlain.slice(0, 160);
 const metaDescription = firstSentence || `${t('footer.commentary', lang)}: ${articleDisplay} — ${translatedTitle}`;
+
+const conceptRefs = crossRefs.filter(r => r.type === 'concept');
+const contestedRefs = crossRefs.filter(r => r.type === 'contested');
 ---
 
 <Base title={`${articleDisplay} — ${translatedTitle}`} lang={lang} pagePath={`/${lawParam}/${articleSlug}`} description={metaDescription}>
@@ -135,207 +137,124 @@ const metaDescription = firstSentence || `${t('footer.commentary', lang)}: ${art
     ]}
   />
 
-  <article class="article-page content-column" data-pagefind-body data-pagefind-filter={`language:${lang}`} data-pagefind-meta={`law:${lawParam!.toUpperCase()}, article:${meta.article}${meta.article_suffix || ''}`}>
-    <header class="article-header">
-      <h1>{translatedTitle}</h1>
-      <div class="article-meta text-sm text-muted">
-        <span class="font-mono">SR {meta.sr_number}</span>
-        {meta.in_force_since && (
-          <span>{t('article.in_force_since', lang)} {meta.in_force_since}</span>
-        )}
-      </div>
-    </header>
+  <div class="page-grid" data-pagefind-body data-pagefind-filter={`language:${lang}`} data-pagefind-meta={`law:${lawParam!.toUpperCase()}, article:${meta.article}${meta.article_suffix || ''}`}>
+    <aside class="left-col">
+      <div class="label">Artikel</div>
+      <div class="article-number">{meta.article}{meta.article_suffix || ''}</div>
+      <div class="article-title-side">{translatedTitle}</div>
 
-    <Gesetzestext
-      paragraphs={gesetzestextParagraphs}
-      lang={lang}
-      articleDisplay={articleDisplay}
-      fedlexUrl={meta.fedlex_url}
-    />
+      <div class="meta-divider"></div>
 
-    <ArticleTabs
-      lang={lang}
-      summary={summaryHtml}
-      doctrine={doctrineHtml}
-      caselaw={caselawHtml}
-      activeTab={activeTab}
-      doctrineToc={doctrineToc}
-      caselawToc={caselawToc}
-    />
+      <div class="label">Gesetz</div>
+      <div class="meta-value">{lawInfo.abbr.toUpperCase()}</div>
+      <div class="meta-sub">SR {meta.sr_number}</div>
 
-    {lastUpdated && (
-      <p class="article-updated text-xs text-muted">
-        {t('article.last_updated', lang)}: {lastUpdated}
-      </p>
-    )}
+      {lastUpdated && (
+        <>
+          <div class="meta-divider"></div>
+          <div class="label">{t('article.last_updated', lang)}</div>
+          <div class="meta-value">{lastUpdated}</div>
+        </>
+      )}
 
-    <ArticlePagination
-      lang={lang}
-      law={lawParam!}
-      prev={nav.prev}
-      next={nav.next}
-    />
-    <CrossReferences lang={lang} refs={crossRefs} />
-  </article>
+      {crossRefs.length > 0 && (
+        <>
+          <div class="meta-divider"></div>
+          <div class="label">{t('crossref.title', lang)}</div>
+          <div class="cross-refs">
+            {conceptRefs.map(ref => (
+              <a href={`${langBase(lang)}/concepts/${ref.slug}`}>&rarr; {ref.title}</a>
+            ))}
+            {contestedRefs.map(ref => (
+              <a href={`${langBase(lang)}/contested/${ref.slug}`}>&rarr; {ref.title}</a>
+            ))}
+          </div>
+        </>
+      )}
 
-  <!-- Reading progress bar -->
-  <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
+      {meta.fedlex_url && (
+        <>
+          <div class="meta-divider"></div>
+          <div class="label">Fedlex</div>
+          <a href={meta.fedlex_url} class="meta-link" target="_blank" rel="noopener">Originaltext &rarr;</a>
+        </>
+      )}
+    </aside>
 
-  <!-- Back to top -->
-  <button
-    class="back-to-top"
-    id="back-to-top"
-    aria-label={t('article.back_to_top', lang)}
-    title={t('article.back_to_top', lang)}
-  >
-    <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
-      <path d="M9 14V4M9 4L4 9M9 4l5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    </svg>
-  </button>
+    <div class="right-col">
+      <Gesetzestext
+        paragraphs={gesetzestextParagraphs}
+        lang={lang}
+        articleDisplay={articleDisplay}
+        fedlexUrl={meta.fedlex_url}
+      />
+
+      <ArticleTabs
+        lang={lang}
+        summary={summaryHtml}
+        doctrine={doctrineHtml}
+        caselaw={caselawHtml}
+        activeTab={activeTab}
+        doctrineToc={doctrineToc}
+        caselawToc={caselawToc}
+      />
+
+      <ArticlePagination
+        lang={lang}
+        law={lawParam!}
+        prev={nav.prev}
+        next={nav.next}
+      />
+    </div>
+  </div>
 </Base>
 
 <style>
-  .article-page {
-    padding-top: var(--space-2);
+  .article-number {
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    line-height: 1;
   }
 
-  .article-header {
-    margin-bottom: var(--space-3);
-    padding-bottom: var(--space-2);
-    border-bottom: 1px solid var(--color-border-light);
+  .article-title-side {
+    font-size: 13px;
+    margin-top: 8px;
+    line-height: 1.4;
   }
 
-  .article-header h1 {
-    margin-bottom: var(--space-1);
+  .meta-divider {
+    height: 1px;
+    background: var(--color-rule-light);
+    margin: var(--space-3) 0;
   }
 
-  .article-meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--space-2);
-    align-items: center;
+  .meta-value {
+    font-size: 12px;
   }
 
-  .fedlex-link {
+  .meta-sub {
+    font-size: 11px;
     color: var(--color-text-muted);
-    text-decoration: none;
-    font-size: var(--text-xs);
-    padding: 2px 8px;
-    border: 1px solid var(--color-border);
-    border-radius: 4px;
   }
 
-  .fedlex-link:hover {
-    border-color: var(--color-accent);
-    color: var(--color-accent);
-  }
-
-  .article-updated {
-    margin-top: var(--space-3);
-    text-align: right;
-  }
-
-  /* Reading progress bar */
-  .reading-progress {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 2px;
-    background: var(--gradient-accent);
-    z-index: 1000;
-    width: 0%;
-    transition: width 50ms linear;
-    pointer-events: none;
-  }
-
-  /* Back to top button */
-  .back-to-top {
-    position: fixed;
-    bottom: 2rem;
-    right: 2rem;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    background: var(--color-bg-card);
-    border: 1px solid var(--color-border);
+  .meta-link {
+    font-size: 11px;
     color: var(--color-text-secondary);
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 0;
-    transform: translateY(10px);
-    transition: opacity var(--transition-base), transform var(--transition-base),
-      color var(--transition-fast), border-color var(--transition-fast),
-      box-shadow var(--transition-fast);
-    pointer-events: none;
-    box-shadow: var(--shadow-sm);
-    z-index: 100;
   }
 
-  .back-to-top.visible {
-    opacity: 1;
-    transform: translateY(0);
-    pointer-events: auto;
+  .cross-refs {
+    font-size: 12px;
+    line-height: 1.8;
   }
 
-  .back-to-top:hover {
-    color: var(--color-accent);
-    border-color: var(--color-accent);
-    box-shadow: var(--shadow-md);
+  .cross-refs a {
+    display: block;
+    color: var(--color-text-secondary);
+    text-decoration: none;
   }
 
-  @media (max-width: 768px) {
-    .back-to-top {
-      bottom: 1rem;
-      right: 1rem;
-      width: 36px;
-      height: 36px;
-    }
-    .article-meta {
-      flex-direction: column;
-      gap: var(--space-1);
-    }
-    .article-updated {
-      text-align: left;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .article-header h1 {
-      font-size: 1.25rem;
-    }
+  .cross-refs a:hover {
+    color: var(--color-text);
   }
 </style>
-
-<script>
-  document.addEventListener('astro:page-load', () => {
-    // Reading progress bar
-    function updateProgress() {
-      const bar = document.getElementById('reading-progress');
-      if (!bar) return;
-      const scrollTop = window.scrollY;
-      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-      const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
-      bar.style.width = `${Math.min(progress, 100)}%`;
-    }
-
-    // Back to top button
-    function updateBackToTop() {
-      const btn = document.getElementById('back-to-top');
-      if (!btn) return;
-      btn.classList.toggle('visible', window.scrollY > 400);
-    }
-
-    window.addEventListener('scroll', () => {
-      requestAnimationFrame(() => {
-        updateProgress();
-        updateBackToTop();
-      });
-    }, { passive: true });
-
-    document.getElementById('back-to-top')?.addEventListener('click', () => {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
-  });
-</script>
