@@ -36,3 +36,10 @@ scripts/commentary_raw/
 # Botschaft PDFs and raw text extraction (not committed)
 data/botschaften/
 .superpowers/
+
+# Generated verification/research reports (regenerable)
+content/**/.citations.json
+content/**/.research.json
+
+# Editorial registry (local to each editor)
+scripts/editorial/editors.json

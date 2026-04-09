@@ -363,6 +363,25 @@ def main():
         help="Layer types to generate",
     )
 
+    deep_parser = sub.add_parser(
+        "deep", help="Multi-pass deep generation for one article",
+    )
+    deep_parser.add_argument(
+        "law", help="Law abbreviation (e.g., BV)",
+    )
+    deep_parser.add_argument(
+        "article", type=int, help="Article number",
+    )
+    deep_parser.add_argument(
+        "--suffix", default="",
+        help="Article suffix (e.g., a)",
+    )
+    deep_parser.add_argument(
+        "--tier", default="tier_1",
+        choices=["tier_1", "tier_2"],
+        help="Significance tier (determines number of passes)",
+    )
+
     parser.add_argument(
         "--content-root", default="content",
         help="Content directory",
@@ -435,6 +454,19 @@ def main():
                 f"{status} {r.layer_type}: "
                 f"{r.attempts} attempts, ${r.cost_usd:.2f}"
             )
+
+    elif args.command == "deep":
+        from agents.deep_generation import deep_generate_article
+        content, cost = asyncio.run(
+            deep_generate_article(
+                config, args.law, args.article,
+                args.suffix, args.tier,
+            )
+        )
+        print(
+            f"Deep generation complete: "
+            f"{len(content)} chars, ${cost:.2f}"
+        )
 
 
 if __name__ == "__main__":

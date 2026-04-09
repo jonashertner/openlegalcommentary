@@ -11,7 +11,11 @@ from __future__ import annotations
 from agents.anthropic_client import run_agent
 from agents.config import AgentConfig
 from agents.prompts import build_law_agent_prompt
-from agents.references import format_article_text, format_commentary_refs, format_preparatory_materials
+from agents.references import (
+    format_article_text,
+    format_commentary_refs,
+    format_preparatory_materials,
+)
 from agents.tools.content import create_content_tools
 from agents.tools.opencaselaw import create_opencaselaw_tools
 

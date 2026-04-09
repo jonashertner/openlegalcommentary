@@ -25,6 +25,16 @@ CONTENT_TYPES = ("article", "concept", "contested", "comparison")
 
 LayerName = Literal["summary", "doctrine", "caselaw"]
 
+EditorialStatus = Literal[
+    "draft",           # Initial generation, no review
+    "agent_reviewed",  # Passed agent evaluation
+    "human_reviewed",  # Human editor reviewed and approved
+    "published",       # Published to the live site
+    "flagged",         # Flagged for human attention
+]
+
+SignificanceTier = Literal["tier_1", "tier_2", "tier_3", "tier_4"]
+
 
 class LayerMeta(BaseModel):
     last_generated: str = Field(description="ISO date of last generation")
@@ -34,6 +44,15 @@ class LayerMeta(BaseModel):
     last_reviewed: str | None = Field(default=None)
     total_decisions: int | None = Field(default=None, ge=0)
     new_decisions_count: int | None = Field(default=None, ge=0)
+    # Citation verification
+    verified: bool = Field(default=False, description="All citations verified")
+    verification_report: str = Field(
+        default="", description="Path to .citations.json",
+    )
+    # Editorial workflow
+    editorial_status: EditorialStatus = Field(default="draft")
+    editor: str = Field(default="", description="Assigned human editor")
+    review_notes: str = Field(default="", description="Editor review notes")
 
 
 class ArticleMeta(BaseModel):
@@ -47,6 +66,7 @@ class ArticleMeta(BaseModel):
     lexfind_id: int | None = Field(default=None)
     lexfind_url: str = Field(default="")
     in_force_since: str = Field(default="")
+    significance: SignificanceTier = Field(default="tier_3")
     layers: dict[str, LayerMeta] = Field(default_factory=dict)
 
     @field_validator("law")

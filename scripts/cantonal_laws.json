@@ -1,0 +1,82 @@
+{
+  "_comment": "Registry of cantonal laws for openlegalcommentary expansion. Priority cantonal laws by canton.",
+  "ZH": {
+    "VRG": {
+      "name": "Verwaltungsrechtspflegegesetz",
+      "sr_cantonal": "175.2",
+      "estimated_articles": 90,
+      "language": "de",
+      "federal_parallel": "VwVG",
+      "priority": "high",
+      "notes": "Every ZH administrative lawyer needs this. No commentary exists."
+    },
+    "PBG": {
+      "name": "Planungs- und Baugesetz",
+      "sr_cantonal": "700.1",
+      "estimated_articles": 350,
+      "language": "de",
+      "federal_parallel": "RPG",
+      "priority": "high",
+      "notes": "Construction and planning law. High practical demand."
+    },
+    "StG": {
+      "name": "Steuergesetz",
+      "sr_cantonal": "631.1",
+      "estimated_articles": 300,
+      "language": "de",
+      "federal_parallel": "DBG",
+      "priority": "medium",
+      "notes": "Cantonal tax law."
+    }
+  },
+  "BE": {
+    "VRPG": {
+      "name": "Verwaltungsrechtspflegegesetz",
+      "sr_cantonal": "155.21",
+      "estimated_articles": 100,
+      "language": "de",
+      "federal_parallel": "VwVG",
+      "priority": "medium"
+    },
+    "BauG": {
+      "name": "Baugesetz",
+      "sr_cantonal": "721.0",
+      "estimated_articles": 150,
+      "language": "de",
+      "federal_parallel": "RPG",
+      "priority": "medium"
+    }
+  },
+  "VD": {
+    "LPA": {
+      "name": "Loi sur la procédure administrative",
+      "sr_cantonal": "173.36",
+      "estimated_articles": 100,
+      "language": "fr",
+      "federal_parallel": "PA",
+      "priority": "medium",
+      "notes": "Key administrative procedure law for Romandie."
+    }
+  },
+  "GE": {
+    "LPA": {
+      "name": "Loi sur la procédure administrative",
+      "sr_cantonal": "E 5 10",
+      "estimated_articles": 90,
+      "language": "fr",
+      "federal_parallel": "PA",
+      "priority": "medium",
+      "notes": "Geneva administrative procedure law."
+    }
+  },
+  "TI": {
+    "LOC": {
+      "name": "Legge organica comunale",
+      "sr_cantonal": "2.1.1.2",
+      "estimated_articles": 200,
+      "language": "it",
+      "priority": "low",
+      "notes": "Ticino municipal organization law."
+    }
+  }
+}
