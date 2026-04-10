@@ -1,80 +1,97 @@
-# Doctrine
+# Art. 117a FC — Primary Medical Care
 
-## 1. Legislative History
+## Doctrine
 
-**No. 1** The provision on basic medical care emerged from the popular initiative «Yes to family medicine» that was submitted on 1 April 2010 with 200,268 valid signatures (BBl 2010 2939). While the Federal Council acknowledged the justified fundamental concern of the initiative, it considered the exclusive focus on family medicine as too one-sided (Gächter/Renold-Burch, BSK BV, Art. 117a No. 1). 
+### 1. Legislative History
 
-**No. 2** On 16 September 2011, the Federal Council submitted a direct counter-proposal that encompassed all basic medical care (BBl 2011 7553). After the withdrawal of the initiative in favour of the counter-proposal, this was adopted on 18 May 2014 with an overwhelming majority of 88% yes votes (**1C_282/2014** consid. 1). The provision entered into force on 18 May 2014.
+**N. 1** Art. 117a FC originates from the popular initiative «Yes to Family Medicine» («Ja zur Hausarztmedizin»), which was declared valid on 27 April 2010 (BBl 2010 2939). The initiators were responding to the shortage of general practitioners that had been emerging for years and to the financial disadvantage of family medicine compared with specialist fields. The aim was to enshrine in constitutional law a «sufficient, universally accessible, comprehensive and high-quality outpatient primary medical care» (BBl 2011 7553, 7560).
 
-## 2. Systematic Classification
+**N. 2** The Federal Council rejected the initiative but acknowledged a fundamental need for action. In its dispatch of 16 September 2011 it noted that the demands of the initiative had already been partially met at the level of legislation and ordinances (BBl 2011 7553, 7571 f.). The explicit mention of a single professional group (general practitioners) and the high degree of detail in the initiative text were assessed as problematic. The Federal Council submitted instead a direct counter-proposal intended to address the issue on a broader basis.
 
-**No. 3** Art. 117a Cst. was deliberately inserted after the social insurance law competence norms and not among the personality-protecting health provisions (Art. 118–119a Cst.), which underlines its primarily care policy orientation (Gächter/Renold-Burch, BSK BV, Art. 117a No. 3).
+**N. 3** In the Federal Assembly the Federal Council's counter-proposal was modified: the Council of States inserted the provision on «appropriate remuneration for the services of family medicine» (para. 2 let. b) (AB StR 2012 404, 407). This compromise — which took up the central financial demand of the initiative — prompted the initiative committee to withdraw its initiative on 26 September 2013 (BBl 2013 7989). The principal political driving force behind the popular initiative, namely the financial disadvantage of family medicine, had thereby been addressed by the Constitution; cf. Trümpler/Werder, OFK BV, Art. 117a N. 3 f.
 
-**No. 4** The norm is in close systematic connection with → Art. 117 Cst. (health and accident insurance), → Art. 118 Cst. (protection of health) and → Art. 41 para. 1 let. b Cst. (social objectives). Unlike Art. 41 Cst., however, Art. 117a Cst. establishes directly enforceable claims (**BGE 151 V 100** consid. 8).
+**N. 4** Alongside the constitutional article, the master plan «Family Medicine and Primary Medical Care» («Masterplan Hausarztmedizin und medizinische Grundversorgung») was developed, providing for concrete implementing measures for the cantons (practice assistant posts) and the Confederation (education, tariffs, research). On 18 May 2014, Art. 117a FC was adopted with a yes vote of 88.0 % and by all cantons (BBl 2014 6346, 6349 ff.).
 
-**No. 5** The provision supplements the existing health competences of the Confederation and extends these specifically for basic medical care. It simultaneously forms a constitutional foundation for the further development of the HIA, particularly for Art. 43 para. 5 and Art. 55a HIA (Koller, PrimaryCare 19/2013, 384).
+---
 
-## 3. Elements of the Offence / Norm Content
+### 2. Systematic Classification
 
-### 3.1 Basic Medical Care (para. 1)
+**N. 5** Art. 117a FC is to be classified as a competence norm in the field of social objectives and state duties of the Confederation, and stands in systematic connection with Art. 117 FC (health and accident insurance) as well as Art. 118a FC (complementary medicine) and Art. 118b FC (research on human beings). The provision has a dual normative character: para. 1 is a programmatic norm without direct subjective entitlement effects; para. 2 contains a specific legislative mandate to the Confederation.
 
-**No. 6** The concept of «basic medical care» encompasses all outpatient and inpatient services of primary health care that are accessible with low barriers for the great majority of the population (Gächter/Renold-Burch, BSK BV, Art. 117a No. 6-8). 
+**N. 6** The provision is not a fundamental rights norm within the meaning of Arts. 7–34 FC and does not establish individually enforceable entitlements to medical services (→ Art. 12 FC for the minimal right to emergency assistance). It differs from the social objectives under Art. 41 FC in that Art. 117a para. 2 FC obliges the Confederation to legislative action — para. 1, by contrast, shares with Art. 41 FC the characteristic of non-justiciability. Cf. Biaggini, BV Kommentar, 2nd ed. 2017, N. 2 on Art. 117a FC.
 
-**No. 7** Basic care is characterised by the following features: first point of contact for health problems, continuous care, coordination function in the health system and care close to home (GDK/FOPH, Neue Versorgungsmodelle, 2012, 8f.).
+**N. 7** Para. 2 establishes a subsequently derogatory federal competence in the field of education and training and professional practice for professions in primary medical care: this competence extends — beyond the federal competence already laid down in Arts. 95 and 117 FC in the area of private law — also to the public-law sector; cf. Gächter/Renold-Burch, BSK BV, Art. 117a N. 27. No shifts of competence between the Confederation and the cantons follow from para. 1; to that extent the provision is «compatible with federalism» (Opinion of the Conference of Cantonal Directors of Public Health [GDK] of 24 February 2014; similarly BBl 2011 7553, 7576). → Art. 3 FC.
 
-**No. 8** In addition to family medicine, basic care also includes outpatient paediatrics and adolescent medicine, basic care in emergency services and emergency departments as well as other health professions such as midwives (**Judgment 2C_326/2024**).
+**N. 8** When interpreting other norms of federal law, Art. 117a FC is to be used as a standard of interpretation; in particular it influences the interpretation of the Federal Health Insurance Act (HIA) and related enactments. In the field of public procurement law the Federal Supreme Court held that Art. 117a para. 1 FC reflects the public mandate to guarantee primary care and must be taken into account when classifying hospitals as institutions governed by public law (**BGE 145 II 49** cons. 4.4.2). ↔ Art. 117 FC.
 
-### 3.2 Quality Features of Basic Care
+---
 
-**No. 9** The Constitution requires basic care that fulfils three quality features (Gächter/Renold-Burch, BSK BV, Art. 117a No. 19-23):
+### 3. Elements of the Provision / Normative Content
 
-- **Sufficient**: Needs-based care without over- or under-supply (**BGE 151 V 100** consid. 12.2)
-- **Accessible to all**: Geographic, temporal and financial accessibility for the entire population
-- **High quality**: Professional standards according to current medical knowledge
+#### a. Para. 1 Sentence 1: Programmatic Obligation
 
-**No. 10** These requirements are in tension with each other and with cost control. The case law acknowledges that efficient use of resources is part of the constitutional mandate (**BGE 151 V 100** consid. 12.2.1).
+**N. 9** Para. 1 sentence 1 obliges the Confederation and the cantons, «within the scope of their respective responsibilities», to ensure a primary medical care that cumulatively fulfils three qualifying characteristics: it must be (1) *sufficient*, (2) *accessible to all*, and (3) *of high quality*. The term «ensure» («sorgen») signals a high degree of obligation, albeit without an enforceable entitlement (BBl 2011 7553, 7576 f.; Gächter/Renold-Burch, BSK BV, Art. 117a N. 21, 26).
 
-### 3.3 Family Medicine (para. 1 sent. 2)
+**N. 10** The concept of *primary medical care* is an indeterminate legal concept which, according to Gächter and Renold-Burch, is to be interpreted along three dimensions (Gächter, Was ist «medizinische Grundversorgung»?, Pflegerecht 2015, p. 101 ff.): (a) profession-specific (general practitioners, nursing professionals, pharmacists, physiotherapists, clinical psychologists, and others); (b) needs-specific and functional (oriented towards the «ordinary needs of the population for basic preventive, curative, rehabilitative and palliative medical goods and services», BBl 2011 7553, 7577); (c) conceptually on the basis of the international «Primary Health Care» concept of the WHO (Declaration of Alma-Ata, 12 September 1978). Excluded are services that are required only occasionally or that, for reasons of quality and safety, can be provided exclusively in a concentrated and specialised form, in particular services of highly specialised medicine (BBl 2011 7553, 7577; Gächter/Renold-Burch, BSK BV, Art. 117a N. 13).
 
-**No. 11** «Family medicine» is understood as a medical field of activity oriented primarily towards primary care (Message Family Medicine, BBl 2011 7558). The definition is disputed in the professional community (Rupp, PrimaryCare 3/2011, 41).
+**N. 11** The characteristic *sufficient* designates a dual substantive threshold: neither under-supply, over-supply, nor mis-supply should occur. The Constitution thus contains, alongside a duty of supply, also a limiting function that mirrors Art. 43a para. 5 FC (needs-based and economical fulfilment of tasks). The Federal Supreme Court confirmed that maximum-number regulations under Art. 55a HIA restricting the admission of new service providers in well-supplied regions are compatible with this criterion (**BGE 151 V 100** cons. 10.3).
 
-**No. 12** The Federal Supreme Court concretised the promotion of family medicine through recognition of specific continuing education programmes in General Internal Medicine, Paediatrics and Adolescent Medicine as well as other basic care specialties (**BGE 151 V 100** consid. 10.3).
+**N. 12** The characteristic *accessible to all* is to be understood geographically (reachability close to one's place of residence), financially (affordability for all segments of the population) and temporally (availability within a reasonable time) (BBl 2011 7553, 7577; Kahil-Wolff Hummer, CR Cst., Art. 117a N. 8). The accessible form of care is not limited to physical consultations but can evolve with advances in medicine and technology (telemedicine, digital care).
 
-### 3.4 Legislative Mandate (para. 2)
+**N. 13** The characteristic *of high quality* encompasses three dimensions: (1) well-coordinated education and training of service providers; (2) networked and coordinated delivery of services; (3) individual quality of the service by individual service providers (BBl 2011 7553, 7577). The quality characteristic establishes a mandate for state health policy but is not in itself judicially enforceable.
 
-**No. 13** Para. 2 contains a binding legislative mandate with two components:
+#### b. Para. 1 Sentence 2: Recognition and Promotion of Family Medicine
 
-- **Education and continuing education as well as professional practice** (let. a): The Confederation must regulate the framework conditions for basic care professions (Gächter/Renold-Burch, BSK BV, Art. 117a No. 28-33)
-- **Appropriate remuneration** (let. b): The tariff structures must appropriately remunerate the services of family medicine (Gächter/Renold-Burch, BSK BV, Art. 117a No. 34-38)
+**N. 14** Art. 117a para. 1 sentence 2 expressly obliges the Confederation and the cantons to «recognise and promote» *family medicine* as an «essential component» of primary medical care. The mention in the constitutional text already fulfils the recognition mandate in itself; the promotion mandate requires concrete implementing measures by the levels of government.
 
-## 4. Legal Consequences
+**N. 15** *Family medicine* denotes, according to the Federal Council and legal scholarship, «a field of medical activity focused principally on primary care» (BBl 2011 7553, 7578; BBl 2013 6205, 6214). Accordingly, the concept encompasses the postgraduate specialist titles «General Internal Medicine» (in its family medicine orientation), «Paediatrics and Adolescent Medicine» («Kinder- und Jugendmedizin») and — historically — «General Medicine» («Allgemeinmedizin») and «General Practitioner» («Praktische Ärztin/Arzt») (Gächter/Renold-Burch, BSK BV, Art. 117a N. 17; BBl 2011 7553, 7578). These professional groups were explicitly exempted from the restriction when the admission freeze was reintroduced under Art. 55a HIA (2013), documenting the legislative recognition of their status as primary care providers; cf. Werder, Die Zulassungsbeschränkung zur OKP, Jusletter of 31 August 2020.
 
-**No. 14** Art. 117a Cst. establishes a state duty with different levels of obligation (Gächter/Renold-Burch, BSK BV, Art. 117a No. 25-26):
+**N. 16** The promotion mandate obliges the Confederation and the cantons to take concrete measures. The Federal Supreme Court recognised as examples cantonal practice assistant programmes as well as financial support for training posts in the specialties of General Internal Medicine, Paediatrics and Adolescent Medicine, Psychiatry and Child and Adolescent Psychiatry as constitutionally compliant implementation of the promotion mandate (**BGE 151 V 100** cons. 10.3).
 
-- **Guarantee obligation**: Confederation and cantons must jointly ensure basic care
-- **Promotion obligation**: Family medicine is to be particularly supported
-- **Legislative obligation**: The Confederation must regulate the areas mentioned in para. 2
+#### c. Para. 2: Legislative Mandates to the Confederation
 
-**No. 15** The constitutional provision is, unlike Art. 41 Cst., directly applicable and justiciable. Those affected can invoke violations of Art. 117a Cst. (**BGE 151 V 100**).
+**N. 17** Art. 117a para. 2 confers on the Confederation two substantively delineated legislative mandates:
 
-**No. 16** The distribution of competences between Confederation and cantons remains fundamentally unaffected by Art. 117a Cst. The cantons retain their enforcement competences in health care (**BGE 151 V 100** consid. 8).
+- **Let. a** (*Education, training and professional practice*): The Confederation has comprehensive authority to regulate education and training as well as the requirements for professional practice for all professions in primary medical care. «Education and training» is to be understood as a continuum extending from basic education through university of applied sciences and university degrees to postgraduate specialist training (BBl 2011 7553, 7578 f.). The federal legislature has fulfilled this mandate with the Medical Professions Act (MedBG; SR 811.11), the Psychology Professions Act (PsyG; SR 935.81) and the Health Professions Act (GesBG; SR 811.21, in force since 1 February 2020). All enactments were subsequently supplemented in their preamble with a reference to Art. 117a para. 2 FC (Trümpler/Werder, OFK BV, Art. 117a N. 27).
 
-## 5. Points of Dispute
+- **Let. b** (*Appropriate remuneration*): The Confederation must enact provisions on the appropriate remuneration of services rendered in family medicine. The addressee of this mandate is exclusively family medicine — not all professions in primary medical care under let. a; cf. Kahil-Wolff Hummer, CR Cst., Art. 117a N. 19; Filippo, Angemessene Abgeltung der Leistungen nur für die Hausarztmedizin?, Pflegerecht 2015, p. 107 ff. Remuneration is effected not through direct payments but via the tariff structures of social insurance law (TARMED, Analysenliste); cf. Gächter/Renold-Burch, BSK BV, Art. 117a N. 36. The Federal Council implemented this mandate with the Tariff Adjustment Ordinance 2014 (adaptation of the TARMED tariff structure) by upgrading tariff positions for family medicine services while simultaneously reducing technical services in other specialties.
 
-**No. 17** **Scope of basic care**: The GDK criticised the counter-proposal because it was not limited only to outpatient basic care (Gächter/Renold-Burch, BSK BV, Art. 117a No. 10). The prevailing doctrine, in contrast, advocates a comprehensive understanding that also includes inpatient services (Gächter/Rütsche, Gesundheitsrecht, 3rd ed. 2013, § 2 No. 45).
+---
 
-**No. 18** **Definition of family medicine**: Rupp criticises the unclear definition of the concept and demands more precise delineation (PrimaryCare 3/2011, 41f.). Bauer/Hänggeli see the definition as clarified by the new continuing education programmes in General Internal Medicine (SÄZ 49/2010, 1930).
+### 4. Legal Consequences
 
-**No. 19** **Relationship to admission restrictions**: It is disputed to what extent cantonal admission restrictions are compatible with Art. 117a Cst. The Federal Supreme Court affirms compatibility provided basic care is not endangered (**BGE 151 V 100**). Critical voices demand a more restrictive interpretation of the possibilities for restrictions.
+**N. 18** *Programmatic obligation without entitlement effect (para. 1):* Para. 1 does not establish subjective rights of individuals to a specific care service. Private parties cannot rely directly before a court on Art. 117a para. 1 FC to claim state care services (BBl 2011 7553, 7576; Gächter/Filippo, Stärkt der neue Grundversorgungsartikel die Rechte auf Gesundheit?, Bioethica Forum 8[3]:85–89, p. 88). The provision nonetheless operates as a standard of interpretation when applying the implementing norms of the HIA and of cantonal health acts.
 
-## 6. Practice Guidelines
+**N. 19** *Legislative duty (para. 2):* Para. 2 obliges the Confederation to legislate. Should it fail to fulfil this duty, an unconstitutional legislative omission occurs. However, the Federal Supreme Court is bound under Art. 190 FC by (federal statutory) implementing law and cannot directly sanction a violation of Art. 117a para. 2 FC by quashing federal law norms. → Art. 190 FC.
 
-**No. 20** In the application of Art. 117a Cst., the interplay with the HIA must be observed, particularly with Art. 43 para. 5 HIA (tariff protection for basic care providers) and Art. 55a HIA (admission control).
+**N. 20** *Standard for Federal Council ordinance-making:* In the field of tariff-setting the Federal Supreme Court acknowledged that the Federal Council, when enacting adjustment ordinances on the TARMED tariff structure, may take into account the political objective enshrined in Art. 117a FC of promoting family medicine and that interventions based thereon are not without more to be classified as contrary to legislation (**BGE 144 V 138** cons. 6.5). The Federal Council bears responsibility for the appropriateness of the measure; the court confines itself to a review of arbitrariness and competence (Art. 190 FC; **BGE 144 V 138** cons. 2.4).
 
-**No. 21** The «Master Plan Family Medicine and Basic Medical Care» concretises the constitutional requirements through a bundle of measures (Gächter/Renold-Burch, BSK BV, Art. 117a No. 39-40; Koller, FS Straumann, 2013, 113ff.).
+**N. 21** *Admission restrictions:* Art. 117a FC does not preclude cantonal maximum-number regulations under Art. 55a HIA, provided these pursue the objective of ensuring needs-based care, limiting over-supply and at the same time specifically promoting specialties in primary care with a supply deficit. The Federal Supreme Court denied a violation of Art. 117a FC by the Bernese Admission Ordinance (**BGE 151 V 100** cons. 10.3).
 
-**No. 22** Cantonal admission restrictions must undertake a differentiated needs analysis and exempt basic care from restrictions or give it privileged treatment (**BGE 151 V 100** consid. 12).
+**N. 22** *Radiating effect on other areas of law:* Art. 117a FC influences the interpretation of various areas of law. In public procurement law the constitutional supply mandate supports the characterisation of listed hospitals as institutions governed by public law that do not engage in commercial activity, since they fulfil a public, non-market-based supply mandate (**BGE 145 II 49** cons. 4.4.2, 4.5.1–4.5.2). This assessment applies irrespective of the private-law form (stock corporation, limited liability company) of the hospital operator.
 
-**No. 23** In tariff negotiations, the constitutional requirement of «appropriate remuneration» for family medicine must be considered. This can justify higher tariffs for basic care providers (Poledna/Berger, Öffentliches Gesundheitsrecht, 2002, 225).
+---
 
-**No. 24** The promotion of family medicine encompasses concrete programmes such as the «practice assistantship» and specific continuing education support. These measures must be considered in the interpretation of the promotion mandate (**BGE 151 V 100** consid. 10.3).
+### 5. Contested Issues
+
+**N. 23** *Legal nature of para. 1: programmatic or justiciable?* The Federal Council's dispatch expressly qualifies Art. 117a para. 1 FC as a programmatic mandate without individual entitlements to services (BBl 2011 7553, 7576). Gächter/Filippo share this view and doubt that the primary care article substantively strengthens the right to health (Bioethica Forum 8[3], p. 89). By contrast, Trümpler/Werder emphasise that Art. 117a para. 1 FC «can create new expectations regarding a state guarantee responsibility that did not previously exist to this extent» and thus exerts an indirect effect on state health policy (OFK BV, Art. 117a N. 7). The Federal Supreme Court examined a concrete complaint alleging a violation of Art. 117a FC on the merits in **BGE 151 V 100**, thereby implicitly affirming a limited justiciability as a standard for reviewing state action, without, however, recognising subjective entitlements.
+
+**N. 24** *Scope of the competence title in para. 2 let. a: private-law sector only or also the public-law sector?* Gächter/Rütsche attribute to the legislative mandate a purely aspirational character, since the corresponding competences had already vested in the Confederation under Arts. 95 and 117 FC (Gesundheitsrecht, 4th ed. 2018, § 2 N. 142). Gächter/Renold-Burch contend, with convincing reasons, that Art. 117a para. 2 FC establishes an additional, subsequently derogatory federal competence extending to the public-law sector (BSK BV, Art. 117a N. 27). Practice has aligned with the second view: the preambles of the MedBG, the PsyG and the GesBG were subsequently supplemented with a reference to Art. 117a para. 2 FC.
+
+**N. 25** *Demarcation of «professions in primary medical care» (para. 2 let. a) vs. «family medicine» (para. 2 let. b):* Kaufmann advocates a narrow interpretation and would subsume under para. 2 let. a only medical primary care providers (Was muss oder soll der Bund bei den Berufen der medizinischen Grundversorgung regeln?, Pflegerecht 2015, p. 104 ff.); the Federal Council's dispatch and Gächter/Renold-Burch (BSK BV, Art. 117a N. 28) favour a broad interpretation that also includes non-physician health professionals (nursing, pharmacy, physiotherapy). The enactment of the GesBG demonstrates that the legislature regards the broad interpretation as authoritative. For the remuneration mandate in let. b, however, the legislature deliberately chose the narrower formulation «services of family medicine», thereby restricting the constitutional privilege to that professional group; cf. Filippo, Pflegerecht 2015, p. 107 ff.
+
+**N. 26** *Appropriate remuneration: legal binding force of the standard?* Gächter/Renold-Burch hold that the appropriateness of remuneration «must be measured against the objective of strengthening […] family medicine» (BSK BV, Art. 117a N. 36). How concretely the Federal Council is bound by this standard is disputed: in **BGE 144 V 138** cons. 6.5 the Federal Supreme Court acknowledged that the Federal Council, when adjusting tariffs, may give consideration to «political concerns» (here: strengthening family medicine) without thereby exceeding the limits of Art. 43 para. 4 HIA. The Federal Supreme Court thereby allows a wide margin of discretion whose limits can hardly be determined from Art. 117a FC alone.
+
+---
+
+### 6. Practical Notes
+
+**N. 27** *Admission restrictions and primary care:* Cantons enacting maximum-number regulations under Art. 55a HIA must demonstrate that the restriction does not lead to under-supply in areas of primary medical care. This can be shown in particular by means of regionalised needs planning and by promotion measures in specialties with a supply deficit (**BGE 151 V 100** cons. 10.3, 12.2.1). Where an under-supply exists despite admission restrictions, exception rules or adjustments to the maximum numbers must be provided (cf. Arts. 3 and 6 para. 3 cantonal ZulaV/BE).
+
+**N. 28** *Tariff-setting:* When challenging Federal Council tariff adjustment ordinances (Art. 43 para. 5bis HIA), Art. 117a FC offers no independent ground of challenge. The Federal Supreme Court reviews only whether the ordinance manifestly exceeds the limits of the statutory discretion or is arbitrary (**BGE 144 V 138** cons. 2.4, 6.5). Service providers alleging an infringement through adjustment ordinances must specifically demonstrate that the remuneration no longer covers the efficient costs of service delivery (cons. 6.1.2).
+
+**N. 29** *Procurement law and hospitals:* The classification of a hospital as an institution governed by public law in procurement law depends decisively on whether it is subject to the pressure of effective competition. Hospitals with a cantonal service mandate (listed hospitals) are subject to public procurement law in the absence of genuine competition, since their supply mandate under Arts. 117a and 117 FC serves the general interest (**BGE 145 II 49** cons. 4.4.2, 4.5.1–4.5.6). This assessment applies regardless of the private-law legal form (stock corporation, limited liability company) of the hospital operator.
+
+**N. 30** *Demarcation from Art. 12 FC (emergency assistance) and Art. 41 FC (social objectives):* Art. 117a para. 1 FC supersedes neither Art. 12 FC (subjective minimal right to a subsistence minimum, including emergency care) nor Art. 41 FC (social objectives in health care). Art. 117a para. 1 goes qualitatively and substantively beyond Art. 12 FC — it targets regular, nationwide primary care, not the emergency situation. Vis-à-vis Art. 41 para. 1 let. b FC (access to necessary health care), Art. 117a FC refers to a more specific and institutionally shaped field. → Art. 12 FC; → Art. 41 FC.
+
+**N. 31** *Cantonal implementing measures:* The promotion of family medicine (para. 1 sentence 2) can be implemented through a variety of cantonal measures: practice assistant programmes, training post promotion grants, innovation programmes for establishing new training posts. A violation of the promotion mandate does not arise where a canton introduces admission restrictions for over-supplied specialties but simultaneously creates targeted incentives for under-supplied primary care specialties (**BGE 151 V 100** cons. 10.3). The Confederation and the cantons enjoy broad discretion in the choice of promotion measures; Biaggini, BV Kommentar, 2nd ed. 2017, N. 2 on Art. 117a FC; Gächter/Renold-Burch, BSK BV, Art. 117a N. 18.
