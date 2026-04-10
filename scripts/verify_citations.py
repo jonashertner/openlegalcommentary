@@ -67,41 +67,113 @@ def _load_prep_materials(law: str) -> dict:
     return data.get("articles", {})
 
 
+def _collect_known_authors(primary: dict) -> tuple[set[str], set[str]]:
+    """Collect known author names for a BSK-covered article.
+
+    Returns two sets:
+    - ``strict``: authors listed at the article's top-level ``authors`` key
+      (the primary BSK author/s for this article — a strict match here
+      means the citation points at the "right" source)
+    - ``loose``: additional authors who appear in ``positions[].author``
+      or as keys inside ``controversies[].positions``. These are scholars
+      known to have *some* position on this article, including from other
+      commentaries (St. Galler, Berner Kommentar, standalone treatises).
+      A match here is weaker — the author is a real scholar on the topic,
+      but the exact commentary source the citation claims may differ.
+
+    The strict set is always a subset of the loose set (loose includes
+    strict). This lets callers distinguish "cited the primary BSK author"
+    from "cited a known scholar on this article, possibly from a
+    different source".
+    """
+    strict: set[str] = set()
+    for a in primary.get("authors", []) or []:
+        if isinstance(a, str) and a.strip():
+            strict.add(a.strip())
+
+    loose: set[str] = set(strict)
+    for position in primary.get("positions", []) or []:
+        author = position.get("author") if isinstance(position, dict) else None
+        if isinstance(author, str) and author.strip():
+            loose.add(author.strip())
+    for controversy in primary.get("controversies", []) or []:
+        positions = (
+            controversy.get("positions", {})
+            if isinstance(controversy, dict)
+            else {}
+        )
+        if isinstance(positions, dict):
+            for key in positions:
+                if isinstance(key, str) and key.strip():
+                    loose.add(key.strip())
+
+    return strict, loose
+
+
+def _author_matches(cited: str, known: set[str]) -> bool:
+    """Case-insensitive substring match of a cited author against a set of
+    known author names. Substring match is permissive on purpose — "Kessler"
+    should match "Martin Kessler" and vice versa — but tight enough that
+    unrelated single-token hits (e.g. "Müller" matching "Müller-Chen") are
+    acceptable noise for a flag-for-review tool.
+    """
+    if not cited:
+        return False
+    cited_lower = cited.lower()
+    for k in known:
+        k_lower = k.lower()
+        if cited_lower in k_lower or k_lower in cited_lower:
+            return True
+    return False
+
+
 def _verify_bsk_citation(
     citation: Citation,
     refs: dict,
     article_key: str,
 ) -> Citation:
-    """Verify a BSK citation against reference data."""
+    """Verify a BSK citation against reference data.
+
+    Three-state outcome:
+    - **strict match**: author appears in the top-level ``authors`` list →
+      ``verified = True``, note records "strict match"
+    - **loose match**: author appears only in ``positions[].author`` or
+      ``controversies[].positions`` keys → ``verified = True``, note
+      records "loose match — seen in positions, not in BSK authors list"
+    - **no match**: author nowhere in the ref data → ``verified = False``,
+      note records the cited author and the known authors
+
+    Articles with no ref data return ``verified = None`` (unchecked).
+    Citations with no author field also return ``None``.
+    """
     article_refs = refs.get(article_key, {})
     primary = article_refs.get("primary", {})
 
-    # Check if author appears in the reference data
     author = citation.details.get("author", "")
-    known_authors = primary.get("authors", [])
+    strict_authors, loose_authors = _collect_known_authors(primary)
 
-    if known_authors and author:
-        author_found = any(
-            author.lower() in a.lower() or a.lower() in author.lower()
-            for a in known_authors
-        )
-        if author_found:
-            citation.verified = True
-            citation.verification_note = "Author found in BSK ref data"
-        else:
-            citation.verified = False
-            citation.verification_note = (
-                f"Author '{author}' not in ref data "
-                f"(known: {', '.join(known_authors)})"
-            )
-    elif not known_authors:
+    if not loose_authors:
         citation.verified = None
         citation.verification_note = "No BSK ref data available for this article"
-    else:
+    elif not author:
         citation.verified = None
         citation.verification_note = "No author specified in citation"
+    elif _author_matches(author, strict_authors):
+        citation.verified = True
+        citation.verification_note = "Author matches BSK primary (strict)"
+    elif _author_matches(author, loose_authors):
+        citation.verified = True
+        citation.verification_note = (
+            "Author seen in positions/controversies (loose) — "
+            "possibly cited from another commentary"
+        )
+    else:
+        citation.verified = False
+        citation.verification_note = (
+            f"Author '{author}' not in ref data "
+            f"(known: {', '.join(sorted(loose_authors))})"
+        )
 
-    # Check Randziffer if present
     rz = citation.details.get("randziffer")
     if rz and primary.get("randziffern_map"):
         citation.verification_note += "; has ref data for N. cross-check"
