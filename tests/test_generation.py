@@ -186,6 +186,98 @@ def test_generate_and_evaluate_fails_if_every_attempt_write_skips(config):
         assert result.flagged_for_review is True
 
 
+def test_generate_and_evaluate_rolls_back_on_total_failure(config):
+    """Safeguard: if every attempt writes new content but every evaluator
+    pass rejects it, the pipeline must restore the pre-regeneration snapshot
+    rather than leaving the last rejected attempt's content on disk.
+
+    Empirically observed on BV Art. 118 during Phase 1b where this exact
+    pattern turned an 8-flagged article into a 12-flagged one.
+    """
+    layer_path = config.content_root / "or" / "art-041" / "summary.md"
+    original_content = layer_path.read_text()
+    assert "Placeholder" in original_content
+
+    fail = _fail_result()
+    with (
+        patch(
+            "agents.generation.generate_layer",
+            side_effect=_make_writing_gen_mock(layer_path),
+        ),
+        patch(
+            "agents.generation.evaluate_layer",
+            new_callable=AsyncMock,
+            return_value=fail,
+        ),
+    ):
+        result = asyncio.run(
+            generate_and_evaluate(config, "OR", 41, "", "summary")
+        )
+
+    assert result.success is False
+    assert result.flagged_for_review is True
+    # Critical: the file on disk after total failure must equal the snapshot
+    # captured before the first attempt, not the last rejected write
+    assert layer_path.read_text() == original_content
+
+
+def test_generate_and_evaluate_rolls_back_missing_file(config):
+    """If the target layer file did not exist before regeneration and every
+    attempt fails, the rollback should remove any partial file written by
+    the failed attempts rather than leaving a stub.
+    """
+    layer_path = config.content_root / "or" / "art-041" / "summary.md"
+    layer_path.unlink()
+    assert not layer_path.exists()
+
+    fail = _fail_result()
+    with (
+        patch(
+            "agents.generation.generate_layer",
+            side_effect=_make_writing_gen_mock(layer_path),
+        ),
+        patch(
+            "agents.generation.evaluate_layer",
+            new_callable=AsyncMock,
+            return_value=fail,
+        ),
+    ):
+        result = asyncio.run(
+            generate_and_evaluate(config, "OR", 41, "", "summary")
+        )
+
+    assert result.success is False
+    assert result.flagged_for_review is True
+    # Critical: the file must not exist after rollback — it didn't exist
+    # before regeneration either
+    assert not layer_path.exists()
+
+
+def test_generate_and_evaluate_success_does_not_trigger_rollback(config):
+    """Rollback logic must not touch successful attempts: after a PASS the
+    new content must stay on disk.
+    """
+    layer_path = config.content_root / "or" / "art-041" / "summary.md"
+    with (
+        patch(
+            "agents.generation.generate_layer",
+            side_effect=_make_writing_gen_mock(layer_path),
+        ),
+        patch(
+            "agents.generation.evaluate_layer",
+            new_callable=AsyncMock,
+            return_value=_pass_result(),
+        ),
+    ):
+        result = asyncio.run(
+            generate_and_evaluate(config, "OR", 41, "", "summary")
+        )
+
+    assert result.success is True
+    # The successful attempt's content (written by the mock) must remain
+    assert "Generated (attempt 1)" in layer_path.read_text()
+
+
 def test_layer_result_dataclass():
     result = LayerResult(
         law="OR", article_number=41, article_suffix="",

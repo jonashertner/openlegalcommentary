@@ -25,6 +25,18 @@ from scripts.fetch_articles import article_dir_name
 logger = logging.getLogger(__name__)
 
 
+def _layer_file_path(
+    config: AgentConfig,
+    law: str,
+    article_number: int,
+    article_suffix: str,
+    layer_type: str,
+):
+    """Return the absolute path to a layer markdown file."""
+    dir_name = article_dir_name(article_number, article_suffix)
+    return config.content_root / law.lower() / dir_name / f"{layer_type}.md"
+
+
 def _layer_file_hash(
     config: AgentConfig,
     law: str,
@@ -42,13 +54,55 @@ def _layer_file_hash(
     ``write_layer_content`` tool call, leaving the on-disk content
     unchanged. The evaluator then silently scored the pre-existing content.
     """
-    dir_name = article_dir_name(article_number, article_suffix)
-    layer_path = (
-        config.content_root / law.lower() / dir_name / f"{layer_type}.md"
+    layer_path = _layer_file_path(
+        config, law, article_number, article_suffix, layer_type,
     )
     if not layer_path.exists():
         return None
     return hashlib.sha256(layer_path.read_bytes()).hexdigest()
+
+
+def _read_layer_snapshot(
+    config: AgentConfig,
+    law: str,
+    article_number: int,
+    article_suffix: str,
+    layer_type: str,
+) -> bytes | None:
+    """Return raw bytes of the target layer file, or ``None`` if it doesn't
+    exist. Used to capture a rollback snapshot before ``generate_and_evaluate``
+    so the pre-regeneration content can be restored if every retry fails.
+    """
+    layer_path = _layer_file_path(
+        config, law, article_number, article_suffix, layer_type,
+    )
+    if not layer_path.exists():
+        return None
+    return layer_path.read_bytes()
+
+
+def _restore_layer_snapshot(
+    config: AgentConfig,
+    law: str,
+    article_number: int,
+    article_suffix: str,
+    layer_type: str,
+    snapshot: bytes | None,
+) -> None:
+    """Restore a layer file from a snapshot captured before regeneration.
+
+    If ``snapshot`` is ``None`` the layer file did not exist before
+    regeneration, so any file on disk now is a partial write from a failed
+    attempt — we remove it rather than leaving a broken stub.
+    """
+    layer_path = _layer_file_path(
+        config, law, article_number, article_suffix, layer_type,
+    )
+    if snapshot is None:
+        if layer_path.exists():
+            layer_path.unlink()
+        return
+    layer_path.write_bytes(snapshot)
 
 
 @dataclass
@@ -77,6 +131,18 @@ async def generate_and_evaluate(
     total_cost = 0.0
     feedback = None
     eval_result = None
+
+    # Capture a snapshot of the target layer file *before* any generation
+    # attempts. If every retry fails we restore this snapshot so the article
+    # is never left worse than its pre-regeneration state. Observed concretely
+    # on BV Art. 118 during Phase 1b: attempt 1 hit the write-skip safeguard,
+    # attempts 2 and 3 were evaluator-rejected, and the pipeline left the
+    # last rejected content on disk — audit went from 8 flagged to 12 (worse
+    # than baseline). This safeguard makes the full-retry-failure case
+    # content-neutral instead of content-regressive.
+    rollback_snapshot = _read_layer_snapshot(
+        config, law, article_number, article_suffix, layer_type,
+    )
 
     for attempt in range(1, config.max_retries + 1):
         logger.info(
@@ -154,6 +220,17 @@ async def generate_and_evaluate(
         "Fail: %s for Art. %d%s %s flagged for review after %d attempts",
         layer_type, article_number, article_suffix,
         law, config.max_retries,
+    )
+    # Roll back to the pre-regeneration snapshot so the article is never left
+    # worse than its baseline state after a total-retry failure. Without this
+    # the last rejected attempt's content would persist on disk.
+    _restore_layer_snapshot(
+        config, law, article_number, article_suffix, layer_type,
+        rollback_snapshot,
+    )
+    logger.info(
+        "Rolled back %s for Art. %d%s %s to pre-regeneration snapshot",
+        layer_type, article_number, article_suffix, law,
     )
     return LayerResult(
         law=law, article_number=article_number,
