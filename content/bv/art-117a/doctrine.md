@@ -1,80 +1,97 @@
-# Doktrin
+# Art. 117a BV — Medizinische Grundversorgung
 
-## 1. Entstehungsgeschichte
+## Doktrin
 
-**N. 1** Die Bestimmung über die medizinische Grundversorgung ging aus der Volksinitiative «Ja zur Hausarztmedizin» hervor, die am 1. April 2010 mit 200'268 gültigen Unterschriften eingereicht wurde (BBl 2010 2939). Der Bundesrat anerkannte zwar das berechtigte Grundanliegen der Initiative, erachtete jedoch die ausschliessliche Fokussierung auf die Hausarztmedizin als zu einseitig (Gächter/Renold-Burch, BSK BV, Art. 117a N. 1). 
+### 1. Entstehungsgeschichte
 
-**N. 2** Am 16. September 2011 legte der Bundesrat einen direkten Gegenentwurf vor, der die gesamte medizinische Grundversorgung umfasste (BBl 2011 7553). Nach dem Rückzug der Initiative zugunsten des Gegenentwurfs wurde dieser am 18. Mai 2014 mit überwältigendem Mehr von 88% Ja-Stimmen angenommen (**1C_282/2014** E. 1). Die Bestimmung trat am 18. Mai 2014 in Kraft.
+**N. 1** Art. 117a BV geht auf die Volksinitiative «Ja zur Hausarztmedizin» zurück, die am 27. April 2010 zustande kam (BBl 2010 2939). Die Initiantinnen und Initianten reagierten auf den sich seit Jahren abzeichnenden Hausärztemangel und die finanzielle Benachteiligung der Hausarztmedizin gegenüber spezialärztlichen Fachbereichen. Ziel war es, eine «ausreichende, allen zugängliche, flächendeckende, fachlich umfassende und qualitativ hochstehende ambulante medizinische Grundversorgung» verfassungsrechtlich zu verankern (BBl 2011 7553, 7560).
 
-## 2. Systematische Einordnung
+**N. 2** Der Bundesrat lehnte die Initiative ab, anerkannte aber grundsätzlichen Handlungsbedarf. In seiner Botschaft vom 16. September 2011 hielt er fest, dass die Forderungen der Initiative auf Gesetzes- und Verordnungsebene bereits teilweise eingelöst seien (BBl 2011 7553, 7571 f.). Die explizite Nennung einer einzelnen Berufsgruppe (der Hausärztinnen und Hausärzte) und der hohe Detaillierungsgrad des Initiativtexts wurden als problematisch eingestuft. Der Bundesrat unterbreitete stattdessen einen direkten Gegenentwurf, der die Problematik auf einer breiteren Grundlage angehen sollte.
 
-**N. 3** Art. 117a BV wurde bewusst nach den sozialversicherungsrechtlichen Kompetenznormen eingefügt und nicht bei den persönlichkeitsschützenden Gesundheitsbestimmungen (Art. 118–119a BV), was seine primär versorgungspolitische Ausrichtung unterstreicht (Gächter/Renold-Burch, BSK BV, Art. 117a N. 3).
+**N. 3** In den eidgenössischen Räten wurde der bundesrätliche Gegenentwurf modifiziert: Der Ständerat fügte die Bestimmung über die «angemessene Abgeltung der Leistungen der Hausarztmedizin» (Abs. 2 lit. b) ein (AB StR 2012 404, 407). Dieser Kompromiss — der die zentrale finanzielle Forderung der Initiative aufgriff — bewog das Initiativkomitee am 26. September 2013 zum Rückzug seiner Initiative (BBl 2013 7989). Damit war die wesentliche politische Triebfeder für das Volksbegehren, die finanzielle Benachteiligung der Hausarztmedizin, von der Verfassung erfasst worden; vgl. Trümpler/Werder, OFK BV, Art. 117a N. 3 f.
 
-**N. 4** Die Norm steht in engem systematischem Zusammenhang mit → Art. 117 BV (Kranken- und Unfallversicherung), → Art. 118 BV (Schutz der Gesundheit) und → Art. 41 Abs. 1 lit. b BV (Sozialziele). Anders als Art. 41 BV begründet Art. 117a BV jedoch direkt durchsetzbare Ansprüche (**BGE 151 V 100** E. 8).
+**N. 4** Flankierend zum Verfassungsartikel wurde der Masterplan «Hausarztmedizin und medizinische Grundversorgung» erarbeitet, der konkrete Umsetzungsmassnahmen für Kantone (Praxisassistenzstellen) und den Bund (Bildung, Tarife, Forschung) vorsah. Am 18. Mai 2014 wurde Art. 117a BV mit einem Ja-Stimmen-Anteil von 88,0 % und von allen Ständen angenommen (BBl 2014 6346, 6349 ff.).
 
-**N. 5** Die Bestimmung ergänzt die bestehenden Gesundheitskompetenzen des Bundes und erweitert diese spezifisch für die medizinische Grundversorgung. Sie bildet zugleich eine verfassungsrechtliche Grundlage für die Weiterentwicklung des KVG, insbesondere für Art. 43 Abs. 5 und Art. 55a KVG (Koller, PrimaryCare 19/2013, 384).
+---
 
-## 3. Tatbestandsmerkmale / Norminhalt
+### 2. Systematische Einordnung
 
-### 3.1 Medizinische Grundversorgung (Abs. 1)
+**N. 5** Art. 117a BV ist als Kompetenznorm im Bereich der sozialen Ziele und staatlichen Aufgaben des Bundes einzuordnen und steht im systematischen Zusammenhang mit Art. 117 BV (Kranken- und Unfallversicherung) sowie Art. 118a BV (Komplementärmedizin) und Art. 118b BV (Forschung am Menschen). Die Bestimmung enthält einen dualen Normcharakter: Abs. 1 ist eine programmatische Norm ohne unmittelbare subjektive Anspruchswirkung; Abs. 2 enthält einen konkreten Gesetzgebungsauftrag an den Bund.
 
-**N. 6** Der Begriff der «medizinischen Grundversorgung» umfasst alle ambulanten und stationären Leistungen der primären Gesundheitsversorgung, die für die grosse Mehrheit der Bevölkerung niederschwellig zugänglich sind (Gächter/Renold-Burch, BSK BV, Art. 117a N. 6-8). 
+**N. 6** Die Bestimmung ist keine Grundrechtsnorm im Sinne von Art. 7–34 BV und begründet keine individuell einklagbaren Ansprüche auf medizinische Leistungen (→ Art. 12 BV für das Minimalrecht auf Nothilfe). Sie unterscheidet sich von den Sozialzielen gemäss Art. 41 BV dadurch, dass Art. 117a Abs. 2 BV den Bund zu gesetzgeberischem Handeln verpflichtet — Abs. 1 hingegen teilt mit Art. 41 BV die Eigenschaft fehlender Justiziabilität. Vgl. Biaggini, BV Kommentar, 2. Aufl. 2017, N. 2 zu Art. 117a BV.
 
-**N. 7** Die Grundversorgung zeichnet sich durch folgende Merkmale aus: Erstanlaufstelle bei Gesundheitsproblemen, kontinuierliche Betreuung, Koordinationsfunktion im Gesundheitssystem und wohnortnahe Versorgung (GDK/BAG, Neue Versorgungsmodelle, 2012, 8f.).
+**N. 7** Abs. 2 begründet eine nachträglich derogatorische Bundeskompetenz im Bereich der Aus- und Weiterbildung sowie der Berufsausübung für Berufe der medizinischen Grundversorgung: Diese Kompetenz erstreckt sich — über die bereits in Art. 95 und Art. 117 BV angelegte Bundeskompetenz im privatrechtlichen Bereich hinaus — auch auf den öffentlich-rechtlichen Sektor; vgl. Gächter/Renold-Burch, BSK BV, Art. 117a N. 27. Kompetenzverschiebungen zwischen Bund und Kantonen folgen aus Abs. 1 nicht; die Bestimmung ist insoweit «föderalismusverträglich» (Stellungnahme GDK vom 24. Februar 2014; so auch BBl 2011 7553, 7576). → Art. 3 BV.
 
-**N. 8** Zur Grundversorgung gehören neben der Hausarztmedizin auch die ambulante Kinder- und Jugendmedizin, die Grundversorgung in Permanencen und Notfallstationen sowie weitere Gesundheitsberufe wie Hebammen (**Urteil 2C_326/2024**).
+**N. 8** Bei der Auslegung anderer Normen des Bundesrechts ist Art. 117a BV als Auslegungsmassstab heranzuziehen; namentlich beeinflusst er die Auslegung des KVG und verwandter Erlasse. Im Bereich des öffentlichen Beschaffungsrechts hielt das Bundesgericht fest, dass Art. 117a Abs. 1 BV den öffentlichen Auftrag zur Gewährleistung der Grundversorgung widerspiegelt und bei der Qualifikation von Spitälern als Einrichtungen des öffentlichen Rechts zu berücksichtigen ist (**BGE 145 II 49** E. 4.4.2). ↔ Art. 117 BV.
 
-### 3.2 Qualitätsmerkmale der Grundversorgung
+---
 
-**N. 9** Die Verfassung verlangt eine Grundversorgung, die drei Qualitätsmerkmale erfüllt (Gächter/Renold-Burch, BSK BV, Art. 117a N. 19-23):
+### 3. Tatbestandsmerkmale / Norminhalt
 
-- **Ausreichend**: Bedarfsgerechte Versorgung ohne Über- oder Unterversorgung (**BGE 151 V 100** E. 12.2)
-- **Allen zugänglich**: Geografische, zeitliche und finanzielle Erreichbarkeit für die gesamte Bevölkerung
-- **Hohe Qualität**: Fachliche Standards nach aktuellem medizinischem Wissen
+#### a. Abs. 1 Satz 1: Programmatische Verpflichtung
 
-**N. 10** Diese Anforderungen stehen in einem Spannungsverhältnis zueinander und zur Kostenkontrolle. Die Rechtsprechung anerkennt, dass eine effiziente Mittelverwendung Teil des Verfassungsauftrags ist (**BGE 151 V 100** E. 12.2.1).
+**N. 9** Abs. 1 Satz 1 verpflichtet Bund und Kantone, «im Rahmen ihrer Zuständigkeiten» für eine medizinische Grundversorgung zu sorgen, die drei Qualifikationsmerkmale kumulativ erfüllt: Sie muss (1) *ausreichend*, (2) *allen zugänglich* und (3) *von hoher Qualität* sein. Der Ausdruck «sorgen» signalisiert einen intensiven Verpflichtungsgrad, wenngleich ohne einklagbaren Anspruch (BBl 2011 7553, 7576 f.; Gächter/Renold-Burch, BSK BV, Art. 117a N. 21, 26).
 
-### 3.3 Hausarztmedizin (Abs. 1 Satz 2)
+**N. 10** Der Begriff *medizinische Grundversorgung* ist ein unbestimmter Rechtsbegriff, der nach Gächter und Renold-Burch anhand von drei Ebenen auszulegen ist (Gächter, Was ist «medizinische Grundversorgung»?, Pflegerecht 2015, S. 101 ff.): (a) berufsgruppenspezifisch (Hausärzte, Pflegefachpersonen, Apotheker, Physiotherapeuten, klinische Psychologen u.a.); (b) bedarfsspezifisch-funktional (Orientierung am «üblichen Bedarf der Bevölkerung an grundlegenden präventiven, kurativen, rehabilitativen und palliativen medizinischen Gütern und Dienstleistungen», BBl 2011 7553, 7577); (c) konzeptuell anhand des internationalen «Primary Health Care»-Begriffs der WHO (Erklärung von Alma-Ata, 12. September 1978). Ausgeschlossen sind Leistungen, die nur vereinzelt benötigt werden oder aus Gründen der Qualität und Sicherheit ausschliesslich in konzentrierter und spezialisierter Form angeboten werden können, namentlich Leistungen der hochspezialisierten Medizin (BBl 2011 7553, 7577; Gächter/Renold-Burch, BSK BV, Art. 117a N. 13).
 
-**N. 11** Die «Hausarztmedizin» wird als schwergewichtig auf die Primärversorgung ausgerichtetes ärztliches Tätigkeitsgebiet verstanden (Botsch. Hausarztmedizin, BBl 2011 7558). Die Definition ist in der Fachwelt umstritten (Rupp, PrimaryCare 3/2011, 41).
+**N. 11** Das Merkmal *ausreichend* bezeichnet eine inhaltliche Doppelschranke: Weder Unter- noch Über- noch Fehlversorgung sollen eintreten. Die Verfassung enthält damit neben einer Versorgungspflicht auch eine Begrenzungsfunktion, die Art. 43a Abs. 5 BV (bedarfsgerechte und wirtschaftliche Aufgabenerfüllung) widerspiegelt. Das Bundesgericht bestätigte, dass Höchstzahlregelungen nach Art. 55a KVG, welche die Neuzulassung von Leistungserbringern in versorgten Regionen beschränken, mit diesem Kriterium vereinbar sind (**BGE 151 V 100** E. 10.3).
 
-**N. 12** Das Bundesgericht konkretisierte die Förderung der Hausarztmedizin durch Anerkennung spezifischer Weiterbildungsprogramme in Allgemeiner Innerer Medizin, Kinder- und Jugendmedizin sowie weiteren Grundversorgungsfachrichtungen (**BGE 151 V 100** E. 10.3).
+**N. 12** Das Merkmal *allen zugänglich* ist geografisch (wohnortsnahe Erreichbarkeit), finanziell (Leistbarkeit für alle Bevölkerungsschichten) und zeitlich (Verfügbarkeit innert angemessener Frist) zu verstehen (BBl 2011 7553, 7577; Kahil-Wolff Hummer, CR Cst., Art. 117a N. 8). Die zugängliche Form der Versorgung ist nicht auf physische Konsultationen beschränkt, sondern kann sich mit dem Stand der Medizin und Technologie wandeln (Telemedizin, digitale Versorgung).
 
-### 3.4 Gesetzgebungsauftrag (Abs. 2)
+**N. 13** Das Merkmal *von hoher Qualität* umfasst drei Dimensionen: (1) eine gut aufeinander abgestimmte Aus- und Weiterbildung der Leistungserbringer; (2) vernetzte und koordinierte Leistungserbringung; (3) individuelle Qualität der Leistung durch einzelne Leistungserbringer (BBl 2011 7553, 7577). Das Qualitätsmerkmal begründet einen Auftrag für die staatliche Gesundheitspolitik, ist aber für sich allein nicht gerichtlich durchsetzbar.
 
-**N. 13** Abs. 2 enthält einen verbindlichen Gesetzgebungsauftrag mit zwei Komponenten:
+#### b. Abs. 1 Satz 2: Anerkennung und Förderung der Hausarztmedizin
 
-- **Aus- und Weiterbildung sowie Berufsausübung** (lit. a): Der Bund muss die Rahmenbedingungen für die Grundversorgerberufe regeln (Gächter/Renold-Burch, BSK BV, Art. 117a N. 28-33)
-- **Angemessene Abgeltung** (lit. b): Die Tarifstrukturen müssen die Leistungen der Hausarztmedizin angemessen vergüten (Gächter/Renold-Burch, BSK BV, Art. 117a N. 34-38)
+**N. 14** Art. 117a Abs. 1 Satz 2 verpflichtet Bund und Kantone ausdrücklich, die *Hausarztmedizin* als «wesentlichen Bestandteil» der medizinischen Grundversorgung «anzuerkennen und zu fördern». Die Nennung im Verfassungstext erfüllt den Anerkennungsauftrag bereits selbst; der Förderauftrag bedarf konkreter Umsetzungsmassnahmen durch die Staatsebenen.
 
-## 4. Rechtsfolgen
+**N. 15** *Hausarztmedizin* bezeichnet nach Bundesrat und Lehre «ein schwergewichtig auf die Primärversorgung ausgerichtetes ärztliches Tätigkeitsgebiet» (BBl 2011 7553, 7578; BBl 2013 6205, 6214). Entsprechend umfasst der Begriff die Weiterbildungstitel «Allgemeine Innere Medizin» (in der hausärztlichen Ausrichtung), «Kinder- und Jugendmedizin» und — historisch — «Allgemeinmedizin» und «Praktische Ärztin/Arzt» (Gächter/Renold-Burch, BSK BV, Art. 117a N. 17; BBl 2011 7553, 7578). Diese Berufsgruppen waren bei der Wiedereinführung des Zulassungsstopps nach Art. 55a KVG (2013) explizit von der Beschränkung ausgenommen, was die gesetzgeberische Anerkennung ihrer Stellung als Grundversorger dokumentiert; vgl. Werder, Die Zulassungsbeschränkung zur OKP, Jusletter vom 31. August 2020.
 
-**N. 14** Art. 117a BV begründet eine Staatsaufgabe mit unterschiedlichen Verpflichtungsgraden (Gächter/Renold-Burch, BSK BV, Art. 117a N. 25-26):
+**N. 16** Der Förderauftrag verpflichtet Bund und Kantone zu konkreten Massnahmen. Das Bundesgericht anerkannte als Beispiele kantonale Praxisassistenzprogramme sowie finanzielle Förderung von Weiterbildungsstellen in den Fachrichtungen Allgemeine Innere Medizin, Kinder- und Jugendmedizin, Psychiatrie und Kinder- und Jugendpsychiatrie als verfassungskonforme Umsetzung des Förderauftrags (**BGE 151 V 100** E. 10.3).
 
-- **Gewährleistungspflicht**: Bund und Kantone müssen gemeinsam die Grundversorgung sicherstellen
-- **Förderungspflicht**: Die Hausarztmedizin ist besonders zu unterstützen
-- **Gesetzgebungspflicht**: Der Bund muss die in Abs. 2 genannten Bereiche regeln
+#### c. Abs. 2: Gesetzgebungsaufträge an den Bund
 
-**N. 15** Die Verfassungsbestimmung ist im Gegensatz zu Art. 41 BV direkt anwendbar und justiziabel. Betroffene können sich auf Verletzungen von Art. 117a BV berufen (**BGE 151 V 100**).
+**N. 17** Art. 117a Abs. 2 erteilt dem Bund zwei inhaltlich abgegrenzte Gesetzgebungsaufträge:
 
-**N. 16** Die Kompetenzverteilung zwischen Bund und Kantonen bleibt durch Art. 117a BV grundsätzlich unberührt. Die Kantone behalten ihre Vollzugskompetenzen im Gesundheitswesen (**BGE 151 V 100** E. 8).
+- **Lit. a** (*Aus- und Weiterbildung und Berufsausübung*): Der Bund ist zur umfassenden Regelung der Aus- und Weiterbildung sowie der Berufsausübungsvoraussetzungen für alle Berufe der medizinischen Grundversorgung zuständig. Unter «Aus- und Weiterbildung» ist ein Kontinuum zu verstehen, das von der Grundausbildung über Fachhochschul- und Universitätsabschlüsse bis zur postgradualen Weiterbildung reicht (BBl 2011 7553, 7578 f.). Der Bundesgesetzgeber hat diesen Auftrag mit dem Medizinalberufegesetz (MedBG; SR 811.11), dem Psychologieberufegesetz (PsyG; SR 935.81) und dem Gesundheitsberufegesetz (GesBG; SR 811.21, in Kraft seit 1. Februar 2020) erfüllt. Sämtliche Erlasse wurden um Art. 117a Abs. 2 BV im Ingress ergänzt (Trümpler/Werder, OFK BV, Art. 117a N. 27).
 
-## 5. Streitstände
+- **Lit. b** (*Angemessene Abgeltung*): Der Bund hat Vorschriften über die angemessene Abgeltung der Leistungen der Hausarztmedizin zu erlassen. Adressat dieses Auftrags ist ausschliesslich die Hausarztmedizin — nicht alle Berufe der medizinischen Grundversorgung nach lit. a; vgl. Kahil-Wolff Hummer, CR Cst., Art. 117a N. 19; Filippo, Angemessene Abgeltung der Leistungen nur für die Hausarztmedizin?, Pflegerecht 2015, S. 107 ff. Die Abgeltung erfolgt nicht durch Direktzahlungen, sondern über die sozialversicherungsrechtlichen Tarifstrukturen (TARMED, Analysenliste); vgl. Gächter/Renold-Burch, BSK BV, Art. 117a N. 36. Der Bundesrat setzte diesen Auftrag mit der Tarifanpassungsverordnung 2014 (Anpassung der TARMED-Tarifstruktur) um, indem er Tarifpositionen hausärztlicher Leistungen aufwertete und gleichzeitig technische Leistungen anderer Fachgebiete kürzte.
 
-**N. 17** **Reichweite der Grundversorgung**: Die GDK kritisierte den Gegenentwurf, weil er sich nicht nur auf die ambulante Grundversorgung beschränke (Gächter/Renold-Burch, BSK BV, Art. 117a N. 10). Die herrschende Lehre vertritt demgegenüber ein umfassendes Verständnis, das auch stationäre Leistungen einschliesst (Gächter/Rütsche, Gesundheitsrecht, 3. Aufl. 2013, § 2 N. 45).
+---
 
-**N. 18** **Definition der Hausarztmedizin**: Rupp kritisiert die unklare Begriffsbestimmung und fordert eine präzisere Abgrenzung (PrimaryCare 3/2011, 41f.). Bauer/Hänggeli sehen die Definition durch die neuen Weiterbildungsprogramme in Allgemeiner Innerer Medizin als geklärt an (SÄZ 49/2010, 1930).
+### 4. Rechtsfolgen
 
-**N. 19** **Verhältnis zu Zulassungsbeschränkungen**: Umstritten ist, inwieweit kantonale Zulassungsbeschränkungen mit Art. 117a BV vereinbar sind. Das Bundesgericht bejaht die Vereinbarkeit, sofern die Grundversorgung nicht gefährdet wird (**BGE 151 V 100**). Kritische Stimmen fordern eine restriktivere Auslegung der Beschränkungsmöglichkeiten.
+**N. 18** *Programmatische Verpflichtung ohne Anspruchswirkung (Abs. 1):* Abs. 1 begründet keine subjektiven Rechte einzelner Personen auf eine bestimmte Versorgungsleistung. Private können sich vor Gericht nicht unmittelbar auf Art. 117a Abs. 1 BV berufen, um staatliche Versorgungsleistungen einzufordern (BBl 2011 7553, 7576; Gächter/Filippo, Stärkt der neue Grundversorgungsartikel die Rechte auf Gesundheit?, Bioethica Forum 8[3]:85–89, S. 88). Die Bestimmung wirkt jedoch als Auslegungsmassstab bei der Anwendung konkretisierender Normen des KVG und kantonaler Gesundheitsgesetze.
 
-## 6. Praxishinweise
+**N. 19** *Gesetzgebungspflicht (Abs. 2):* Abs. 2 verpflichtet den Bund zur Gesetzgebung. Kommt er dieser Pflicht nicht nach, liegt ein verfassungswidriges gesetzgeberisches Unterlassen vor. Das Bundesgericht ist indessen nach Art. 190 BV an das (bundesgesetzliche) Ausführungsrecht gebunden und kann eine Verletzung von Art. 117a Abs. 2 BV nicht direkt mit Kassation bundesrechtlicher Normen sanktionieren. → Art. 190 BV.
 
-**N. 20** Bei der Anwendung von Art. 117a BV ist das Zusammenspiel mit dem KVG zu beachten, insbesondere mit Art. 43 Abs. 5 KVG (Tarifschutz für Grundversorger) und Art. 55a KVG (Zulassungssteuerung).
+**N. 20** *Massstab für bundesrätliche Verordnungstätigkeit:* Im Bereich der Tarifgestaltung anerkannte das Bundesgericht, dass der Bundesrat beim Erlass von Anpassungsverordnungen zur TARMED-Tarifstruktur das in Art. 117a BV verankerte politische Ziel der Förderung der Hausarztmedizin berücksichtigen darf und die darauf gestützten Eingriffe nicht ohne Weiteres als gesetzeswidrig einzustufen sind (**BGE 144 V 138** E. 6.5). Der Bundesrat trägt die Verantwortung für die Zweckmässigkeit der Massnahme; das Gericht beschränkt sich auf Willkür- und Kompetenzprüfung (Art. 190 BV; **BGE 144 V 138** E. 2.4).
 
-**N. 21** Der «Masterplan Hausarztmedizin und medizinische Grundversorgung» konkretisiert die Verfassungsvorgaben durch ein Bündel von Massnahmen (Gächter/Renold-Burch, BSK BV, Art. 117a N. 39-40; Koller, FS Straumann, 2013, 113ff.).
+**N. 21** *Zulassungsbeschränkungen:* Art. 117a BV steht kantonalen Höchstzahlregelungen nach Art. 55a KVG nicht entgegen, solange diese das Ziel verfolgen, eine bedarfsgerechte Versorgung sicherzustellen, Überversorgung zu begrenzen und gleichzeitig Fachgebiete der Grundversorgung mit Versorgungsmangel gezielt zu fördern. Das Bundesgericht verneinte eine Verletzung von Art. 117a BV durch die bernische Zulassungsverordnung (**BGE 151 V 100** E. 10.3).
 
-**N. 22** Kantonale Zulassungsbeschränkungen müssen eine differenzierte Bedarfsanalyse vornehmen und die Grundversorgung von Beschränkungen ausnehmen oder privilegieren (**BGE 151 V 100** E. 12).
+**N. 22** *Ausstrahlungswirkung auf andere Rechtsgebiete:* Art. 117a BV beeinflusst die Auslegung verschiedener Rechtsgebiete. Im öffentlichen Beschaffungsrecht begründet der verfassungsrechtliche Versorgungsauftrag die Charakterisierung von Listenspitälern als Einrichtungen des öffentlichen Rechts ohne gewerbliche Tätigkeit, da sie einen öffentlichen, nicht marktmässig organisierten Versorgungsauftrag erfüllen (**BGE 145 II 49** E. 4.4.2, 4.5.1–4.5.2).
 
-**N. 23** Bei Tarifverhandlungen ist die verfassungsrechtliche Vorgabe der «angemessenen Abgeltung» der Hausarztmedizin zu berücksichtigen. Dies kann höhere Tarife für Grundversorger rechtfertigen (Poledna/Berger, Öffentliches Gesundheitsrecht, 2002, 225).
+---
 
-**N. 24** Die Förderung der Hausarztmedizin umfasst konkrete Programme wie die «Praxisassistenz» und spezifische Weiterbildungsförderung. Diese Massnahmen sind bei der Auslegung des Förderauftrags zu berücksichtigen (**BGE 151 V 100** E. 10.3).
+### 5. Streitstände
+
+**N. 23** *Rechtsnatur von Abs. 1: programmatisch oder justiziabel?* Die Botschaft des Bundesrats qualifiziert Art. 117a Abs. 1 BV ausdrücklich als programmatischen Auftrag ohne individuelle Leistungsansprüche (BBl 2011 7553, 7576). Gächter/Filippo teilen diese Auffassung und bezweifeln, dass der Grundversorgungsartikel das Recht auf Gesundheit substantiell stärkt (Bioethica Forum 8[3], S. 89). Demgegenüber heben Trümpler/Werder hervor, dass Art. 117a Abs. 1 BV «neue Erwartungshaltungen an eine in diesem Umfang bis anhin nicht bestehende staatliche Gewährleistungsverantwortung schaffen» kann und damit mittelbar auf die staatliche Gesundheitspolitik wirkt (OFK BV, Art. 117a N. 7). Das Bundesgericht prüfte in **BGE 151 V 100** eine konkrete Rüge der Verletzung von Art. 117a BV inhaltlich, bejahte damit implizit eine beschränkte Justiziabilität als Kontrollmassstab staatlichen Handelns, ohne jedoch subjektive Ansprüche zuzuerkennen.
+
+**N. 24** *Umfang des Kompetenztitels in Abs. 2 lit. a: nur privatrechtlicher Bereich oder auch öffentlich-rechtlicher Sektor?* Gächter/Rütsche ordnen dem Gesetzgebungsauftrag reinen Appellcharakter zu, da dem Bund die entsprechenden Kompetenzen bereits aus Art. 95 und Art. 117 BV zukamen (Gesundheitsrecht, 4. Aufl. 2018, § 2 N. 142). Gächter/Renold-Burch halten dagegen mit überzeugenden Gründen fest, dass Art. 117a Abs. 2 BV eine zusätzliche, nachträglich derogatorische Bundeskompetenz begründet, die sich auf den öffentlich-rechtlichen Sektor erstreckt (BSK BV, Art. 117a N. 27). Die Praxis hat sich der zweiten Auffassung angeschlossen: Der Ingress von MedBG, PsyG und GesBG wurde nachträglich um Art. 117a Abs. 2 BV ergänzt.
+
+**N. 25** *Abgrenzung «Berufe der medizinischen Grundversorgung» (Abs. 2 lit. a) vs. «Hausarztmedizin» (Abs. 2 lit. b):* Kaufmann vertritt eine enge Auslegung und möchte nur ärztliche Grundversorger unter Abs. 2 lit. a subsumieren (Was muss oder soll der Bund bei den Berufen der medizinischen Grundversorgung regeln?, Pflegerecht 2015, S. 104 ff.); die Botschaft des Bundesrats und Gächter/Renold-Burch (BSK BV, Art. 117a N. 28) sprechen sich für eine weite Auslegung aus, die auch nicht-ärztliche Gesundheitsfachpersonen (Pflege, Pharmazie, Physiotherapie) einschliesst. Der Erlass des GesBG zeigt, dass die weite Auslegung vom Gesetzgeber als massgebend betrachtet wird. Für den Abgeltungsauftrag in lit. b hat der Gesetzgeber hingegen bewusst die engere Formulierung «Leistungen der Hausarztmedizin» gewählt und damit die verfassungsrechtliche Privilegierung auf diese Berufsgruppe beschränkt; vgl. Filippo, Pflegerecht 2015, S. 107 ff.
+
+**N. 26** *Angemessene Abgeltung: rechtliche Bindungswirkung des Massstabs?* Gächter/Renold-Burch halten fest, dass sich die Angemessenheit der Abgeltung «am Ziel der Stärkung […] der Hausarztmedizin messen lassen» muss (BSK BV, Art. 117a N. 36). Wie konkret der Bundesrat an diesen Massstab gebunden ist, ist umstritten: In **BGE 144 V 138** E. 6.5 anerkannte das Bundesgericht, dass der Bundesrat bei Tarifanpassungen «politischen Anliegen» (hier: Stärkung der Hausarztmedizin) Rechnung tragen darf, ohne damit die Grenzen von Art. 43 Abs. 4 KVG zu überschreiten. Das Bundesgericht lässt damit einen weiten Ermessensspielraum, dessen Grenzen aus Art. 117a BV allein kaum zu bestimmen sind.
+
+---
+
+### 6. Praxishinweise
+
+**N. 27** *Zulassungsbeschränkungen und Grundversorgung:* Kantone, die Höchstzahlregelungen nach Art. 55a KVG erlassen, müssen darlegen, dass die Beschränkung nicht zu einer Unterversorgung in Bereichen der medizinischen Grundversorgung führt. Der Nachweis gelingt insbesondere durch eine regionalisierte Bedarfsplanung und durch Fördermassnahmen in Fachgebieten mit Versorgungsmangel (**BGE 151 V 100** E. 10.3, 12.2.1). Liegt trotz Zulassungsbeschränkung eine Unterversorgung vor, müssen Ausnahmeregelungen oder Anpassungen der Höchstzahlen vorgesehen sein (vgl. Art. 3 und 6 Abs. 3 kantonale ZulaV/BE).
+
+**N. 28** *Tarifgestaltung:* Bei der Anfechtung bundesrätlicher Tarifanpassungsverordnungen (Art. 43 Abs. 5bis KVG) bietet Art. 117a BV keinen eigenständigen Anfechtungsgrund. Das Bundesgericht prüft lediglich, ob die Verordnung die Grenzen des gesetzlichen Ermessens offensichtlich sprengt oder willkürlich ist (**BGE 144 V 138** E. 2.4, 6.5). Leistungserbringer, die eine Rechtsverletzung durch Anpassungsverordnungen rügen, müssen konkret darlegen, dass die Abgeltung die effizienten Kosten der Leistungserbringung nicht mehr deckt (E. 6.1.2).
+
+**N. 29** *Beschaffungsrecht und Spitäler:* Die Qualifikation eines Spitals als Einrichtung des öffentlichen Rechts im Beschaffungsrecht hängt massgeblich davon ab, ob es unter dem Druck funktionierenden Wettbewerbs steht. Spitäler mit kantonalem Leistungsauftrag (Listenspitäler) unterliegen mangels echten Wettbewerbs dem Beschaffungsrecht, da ihr Versorgungsauftrag nach Art. 117a und Art. 117 BV den Allgemeininteressen dient (**BGE 145 II 49** E. 4.4.2, 4.5.1–4.5.6). Diese Beurteilung gilt unabhängig von der privatrechtlichen Rechtsform (AG, GmbH) des Spitalträgers.
+
+**N. 30** *Abgrenzung zu Art. 12 BV (Nothilfe) und Art. 41 BV (Sozialziele):* Art. 117a Abs. 1 BV überlagert weder Art. 12 BV (subjektives Minimalrecht auf das Existenzminimum, einschliesslich Notfallversorgung) noch Art. 41 BV (Sozialziele der Gesundheitsversorgung). Art. 117a Abs. 1 geht qualitativ und inhaltlich über Art. 12 BV hinaus — er zielt auf eine reguläre, flächendeckende Grundversorgung ab, nicht auf die Notfallsituation. Gegenüber Art. 41 Abs. 1 lit. b BV (Zugang zu notwendiger Gesundheitsversorgung) verweist Art. 117a BV auf einen spezifischeren und institutionell ausgeformten Bereich. → Art. 12 BV; → Art. 41 BV.
+
+**N. 31** *Kantonale Umsetzungsmassnahmen:* Die Förderung der Hausarztmedizin (Abs. 1 Satz 2) kann durch vielfältige kantonale Massnahmen umgesetzt werden: Praxisassistenzprogramme, Weiterbildungsförderungsbeiträge, Innovationsprogramme zum Aufbau neuer Weiterbildungsstellen. Eine Verletzung des Förderauftrags liegt nicht vor, wenn ein Kanton zwar Zulassungsbeschränkungen für überversorgte Fachgebiete einführt, aber gleichzeitig gezielte Förderanreize für unterversorgte Grundversorgungsfachgebiete schafft (**BGE 151 V 100** E. 10.3). Bund und Kantone haben einen weiten Gestaltungsspielraum bei der Wahl der Fördermassnahmen; Biaggini, BV Kommentar, 2. Aufl. 2017, N. 2 zu Art. 117a BV; Gächter/Renold-Burch, BSK BV, Art. 117a N. 18.
