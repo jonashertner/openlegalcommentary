@@ -15,6 +15,11 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 ---
 
 <header class="site-header">
+  <div class="beta-bar">
+    <div class="page-wrapper">
+      <p class="beta-notice">{t('header.beta_notice', lang)}</p>
+    </div>
+  </div>
   <div class="header-inner page-wrapper">
     <a href={langHome(lang)} class="site-name">openlegalcommentary</a>
 
@@ -70,6 +75,27 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     position: sticky;
     top: 0;
     z-index: 100;
+  }
+
+  /* === Beta bar === */
+  .beta-bar {
+    border-bottom: 1px solid var(--color-rule-light);
+    padding: 6px 0;
+  }
+
+  .beta-bar > .page-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .beta-notice {
+    font-size: 11px;
+    font-weight: 700;
+    color: #DC2626;
+    line-height: 1;
+    margin: 0;
+    text-align: center;
   }
 
   .header-inner {
@@ -245,11 +271,11 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 
   :global(.mobile-nav) .nav-list {
     position: fixed;
-    top: 48px;
+    top: 72px;
     left: 0;
     right: 0;
-    height: calc(100vh - 48px);
-    height: calc(100dvh - 48px);
+    height: calc(100vh - 72px);
+    height: calc(100dvh - 72px);
     background: var(--color-bg);
     flex-direction: column;
     padding: var(--space-4);
