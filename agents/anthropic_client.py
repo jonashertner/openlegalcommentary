@@ -194,20 +194,50 @@ async def run_agent(
 
     messages = [{"role": "user", "content": prompt}]
     total_input_tokens = 0
+    total_cache_creation_tokens = 0
+    total_cache_read_tokens = 0
     total_output_tokens = 0
     final_text = ""
+
+    # System prompt as a cache-marked content block so the ~15k-token static
+    # portion (guidelines + layer instructions + citation format) is billed
+    # once per ~5-minute window and re-read at ~10% cost on subsequent turns.
+    # This is the single largest cost lever in agentic workflows with 8-12
+    # turns per article.
+    system_blocks = [
+        {
+            "type": "text",
+            "text": system_prompt,
+            "cache_control": {"type": "ephemeral"},
+        }
+    ]
 
     for turn in range(max_turns):
         response = client.messages.create(
             model=model_id,
             max_tokens=8192,
-            system=system_prompt,
+            system=system_blocks,
             tools=tool_schemas,
             messages=messages,
         )
 
-        total_input_tokens += response.usage.input_tokens
-        total_output_tokens += response.usage.output_tokens
+        usage = response.usage
+        total_input_tokens += usage.input_tokens
+        total_output_tokens += usage.output_tokens
+        total_cache_creation_tokens += getattr(
+            usage, "cache_creation_input_tokens", 0,
+        ) or 0
+        total_cache_read_tokens += getattr(
+            usage, "cache_read_input_tokens", 0,
+        ) or 0
+        logger.debug(
+            "turn %d usage: input=%d cache_write=%s cache_read=%s output=%d",
+            turn,
+            usage.input_tokens,
+            getattr(usage, "cache_creation_input_tokens", None),
+            getattr(usage, "cache_read_input_tokens", None),
+            usage.output_tokens,
+        )
 
         # Collect text and tool use blocks
         assistant_content = response.content
@@ -262,9 +292,37 @@ async def run_agent(
 
         messages.append({"role": "user", "content": tool_results})
 
-    # Rough cost estimate (Sonnet pricing as baseline)
-    cost = (total_input_tokens * 3 + total_output_tokens * 15) / 1_000_000
+    # Cost estimate with prompt-caching awareness.
+    # Ephemeral cache writes are billed at 1.25x normal input, cache reads
+    # at 0.10x. Output pricing is unchanged.
+    # Sonnet baseline: input $3, cache-write $3.75, cache-read $0.30, output $15
+    # Opus:            input $15, cache-write $18.75, cache-read $1.50, output $75
     if "opus" in model_id:
-        cost = (total_input_tokens * 15 + total_output_tokens * 75) / 1_000_000
+        input_rate = 15.0
+        cache_write_rate = 18.75
+        cache_read_rate = 1.50
+        output_rate = 75.0
+    else:
+        input_rate = 3.0
+        cache_write_rate = 3.75
+        cache_read_rate = 0.30
+        output_rate = 15.0
+
+    cost = (
+        total_input_tokens * input_rate
+        + total_cache_creation_tokens * cache_write_rate
+        + total_cache_read_tokens * cache_read_rate
+        + total_output_tokens * output_rate
+    ) / 1_000_000
+
+    logger.info(
+        "run_agent(%s) totals: input=%d cache_write=%d cache_read=%d output=%d cost=$%.4f",
+        model,
+        total_input_tokens,
+        total_cache_creation_tokens,
+        total_cache_read_tokens,
+        total_output_tokens,
+        cost,
+    )
 
     return final_text, cost
