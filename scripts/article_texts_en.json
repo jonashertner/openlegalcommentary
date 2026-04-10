@@ -49,13 +49,6 @@
       {
         "num": "4",
         "text": "The Confederation and the Cantons shall respect international law."
-      },
-      {
-        "text": "The principle of subsidiarity must be observed in the allocation and performance of state tasks."
-      },
-      {
-        "num": "2",
-        "text": "Adopted by the popular vote on 28 Nov. 2004, in force since 1 Jan. 2008 (FCD of 3 Oct. 2003, FCD of 26 Jan. 2005, FCD of 7 Nov. 2007; AS 2007 5765; BBl 2002 2291, 2003 6591, 2005 951)."
       }
     ],
     "6": [
@@ -4536,6 +4529,12 @@
     "191c": [
       {
         "text": "The judicial authorities are independent in the exercise of their judicial powers and are bound only by the law."
+      }
+    ],
+    "5a": [
+      {
+        "num": "1",
+        "text": "The principle of subsidiarity must be observed in the allocation and performance of state tasks."
       }
     ]
   }
