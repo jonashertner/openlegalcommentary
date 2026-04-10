@@ -13,8 +13,15 @@ class AgentConfig:
     guidelines_root: Path = field(default_factory=lambda: Path("guidelines"))
     mcp_base_url: str = "https://mcp.opencaselaw.ch"
 
-    # Model selection per role (spec: Opus for doctrine+eval, Sonnet for caselaw+translation)
-    model_doctrine: str = "opus"
+    # Model selection per role.
+    # Doctrine was originally Opus but the Phase 0 Sonnet experiment
+    # (docs/superpowers/specs/2026-04-10-phase-0-sonnet-test-results.md)
+    # showed Sonnet 4.6 producing measurably better doctrine than the
+    # Opus-4 baseline at roughly 10-13x lower cost, scoring 0.92 from
+    # the Opus 4.6 evaluator. Evaluator stays on Opus as an independent
+    # judge. The write-skip safeguard in agents/generation.py protects
+    # against the silent failure mode observed in the experiment.
+    model_doctrine: str = "sonnet"
     model_caselaw: str = "sonnet"
     model_summary: str = "sonnet"
     model_evaluator: str = "opus"
