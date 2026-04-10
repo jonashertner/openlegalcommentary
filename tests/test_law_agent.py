@@ -34,11 +34,15 @@ def test_generate_layer_calls_query(config):
 
 
 def test_generate_layer_uses_correct_model(config):
+    """Doctrine uses Sonnet by default (switched from Opus after the
+    Phase 0 experiment — see docs/superpowers/specs/
+    2026-04-10-phase-0-sonnet-test-results.md).
+    """
     mock_run = AsyncMock(return_value=("Generated content.", 0.05))
     with patch("agents.law_agent.run_agent", mock_run):
         asyncio.run(generate_layer(config, "OR", 41, "", "doctrine"))
         call_kwargs = mock_run.call_args.kwargs
-        assert call_kwargs["model"] == "opus"
+        assert call_kwargs["model"] == "sonnet"
 
 
 def test_generate_layer_with_feedback(config):
