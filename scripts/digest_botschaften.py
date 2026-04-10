@@ -22,7 +22,7 @@ TEXT_DIR = Path("data/botschaften")
 OUTPUT_DIR = Path("scripts/preparatory_materials")
 ARTICLE_LISTS_PATH = Path("scripts/article_lists.json")
 
-DEFAULT_MODEL = "claude-opus-4-20250514"
+DEFAULT_MODEL = "claude-opus-4-6"
 DEFAULT_MAX_BUDGET = 50.0
 
 SR_NUMBERS: dict[str, str] = {

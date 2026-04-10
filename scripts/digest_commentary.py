@@ -113,7 +113,7 @@ class DigestState:
         return key in self.completed_keys
 
 
-DEFAULT_MODEL = "claude-sonnet-4-20250514"
+DEFAULT_MODEL = "claude-sonnet-4-6"
 DEFAULT_MAX_INPUT_TOKENS = 20000
 # Rough estimate: 1 token ≈ 4 chars for European languages
 CHARS_PER_TOKEN = 4

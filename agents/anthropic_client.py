@@ -13,8 +13,8 @@ logger = logging.getLogger(__name__)
 
 # Model mapping from short names to API model IDs
 MODEL_MAP = {
-    "opus": "claude-opus-4-20250514",
-    "sonnet": "claude-sonnet-4-20250514",
+    "opus": "claude-opus-4-6",
+    "sonnet": "claude-sonnet-4-6",
 }
 
 # Tool schemas for content tools
