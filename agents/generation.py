@@ -9,6 +9,7 @@ Orchestrates the per-article workflow:
 """
 from __future__ import annotations
 
+import hashlib
 import logging
 from dataclasses import dataclass
 from datetime import date
@@ -22,6 +23,32 @@ from agents.translator import translate_layer
 from scripts.fetch_articles import article_dir_name
 
 logger = logging.getLogger(__name__)
+
+
+def _layer_file_hash(
+    config: AgentConfig,
+    law: str,
+    article_number: int,
+    article_suffix: str,
+    layer_type: str,
+) -> str | None:
+    """Return a SHA-256 hash of the target layer markdown file, or ``None``
+    if the file does not exist.
+
+    Used by the write-skip safeguard in ``generate_and_evaluate`` to detect
+    law-agent runs that completed without calling ``write_layer_content`` on
+    the target layer. Observed on Sonnet 4.6 in ~1 of 3 BGFA Art. 12 runs —
+    the agent's final text response was delivered without a
+    ``write_layer_content`` tool call, leaving the on-disk content
+    unchanged. The evaluator then silently scored the pre-existing content.
+    """
+    dir_name = article_dir_name(article_number, article_suffix)
+    layer_path = (
+        config.content_root / law.lower() / dir_name / f"{layer_type}.md"
+    )
+    if not layer_path.exists():
+        return None
+    return hashlib.sha256(layer_path.read_bytes()).hexdigest()
 
 
 @dataclass
@@ -58,11 +85,44 @@ async def generate_and_evaluate(
             law, attempt, config.max_retries,
         )
 
+        before_hash = _layer_file_hash(
+            config, law, article_number, article_suffix, layer_type,
+        )
+
         gen_cost = await generate_layer(
             config, law, article_number, article_suffix,
             layer_type, feedback=feedback,
         )
         total_cost += gen_cost
+
+        after_hash = _layer_file_hash(
+            config, law, article_number, article_suffix, layer_type,
+        )
+        if before_hash == after_hash:
+            # Write-skip safeguard: the law agent's loop completed without
+            # modifying the target layer file on disk. This happens when
+            # the agent produces its final text response without calling
+            # ``write_layer_content``. Without this check the evaluator
+            # would silently score the pre-existing content, the pipeline
+            # would report PASS, and no new content would actually ship.
+            # Treat it as a failed attempt and retry with explicit
+            # feedback telling the agent what it missed.
+            logger.warning(
+                "Write-skip detected on %s Art. %d%s %s "
+                "(attempt %d/%d); target file unchanged — retrying",
+                layer_type, article_number, article_suffix, law,
+                attempt, config.max_retries,
+            )
+            feedback = (
+                "Your previous attempt finished without calling the "
+                "write_layer_content tool to save the new layer content. "
+                f"You MUST call write_layer_content with your generated "
+                f"content for layer '{layer_type}' as part of this run. "
+                "The task is not complete without this tool call. Start "
+                "fresh and ensure your final action is a write_layer_content "
+                "call that actually writes the layer content to disk."
+            )
+            continue
 
         logger.info(
             "Evaluating %s for Art. %d%s %s",
