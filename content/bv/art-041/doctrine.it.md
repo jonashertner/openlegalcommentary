@@ -1,81 +1,111 @@
-# Dottrina
+# Art. 41 Cost. — Obiettivi sociali
 
-## Storia della genesi
+## Dottrina
 
-**N. 1** L'art. 41 Cost. fu introdotto nella Costituzione federale come innovazione centrale della revisione totale del 1999. Gli obiettivi sociali risalgono alle proposte della Commissione di esperti Furgler del 1977 nonché al progetto di Costituzione del Consiglio federale del 1996 (FF 1997 I 1, 166 segg.). L'ancoraggio degli obiettivi sociali nella Costituzione federale rimase controverso fino alla fine. La maggioranza favorì la loro inclusione come **mandati programmatici per l'organizzazione sociale** (Gächter/Werder, BSK BV, Art. 41 N. 4), mentre una minoranza propugnò diritti fondamentali giustiziabili nel catalogo dei diritti fondamentali (Gächter/Werder, BSK BV, Art. 41 N. 4).
+### 1. Genesi della norma
 
-**N. 2** Il messaggio del Consiglio federale sottolineò che gli obiettivi sociali dovevano essere «linea direttrice per la politica», senza fondare pretese individuali (FF 1997 I 167). Questa configurazione come norme di finalità statale non giustiziabili fu un compromesso consapevole tra coloro che non volevano diritti sociali nella Costituzione e coloro che esigevano diritti fondamentali sociali azionabili. L'ancoraggio esplicito dell'esclusione della giustiziabilità nel cpv. 4 avvenne su proposta della Commissione costituzionale del Consiglio degli Stati, per escludere qualsiasi incertezza del diritto (FF 1997 I 169).
+**N. 1** L'art. 41 Cost. trae origine dal processo di revisione totale della Costituzione federale, concluso con il decreto federale del 18 aprile 1999 concernente una nuova Costituzione federale. Il legislatore costituente si trovò di fronte alla questione concettuale di come ancorare costituzionalmente gli obiettivi sociali dello Stato senza creare un'incontrollata inflazione di pretese. Nel suo messaggio del 20 novembre 1996 il Consiglio federale ha definito gli obiettivi sociali come «mandati alla Confederazione e ai Cantoni», categorialmente distinti dai diritti fondamentali direttamente azionabili (FF 1997 I 1 [193 s.]). Ha espressamente stabilito che dagli obiettivi sociali non devono nascere pretese giustiziali a prestazioni (FF 1997 I 194).
 
-## Classificazione sistematica
+**N. 2** La distinzione tra «obiettivi sociali» (art. 41 Cost.), «diritti fondamentali sociali» in senso stretto (art. 12 Cost.: diritto all'aiuto in situazioni di bisogno; art. 19 Cost.: istruzione scolastica di base) e «diritti di partecipazione sociale» risale alle più recenti costituzioni cantonali, che hanno servito da modello al legislatore costituente. Il Tribunale federale ha espressamente confermato questa distinzione — fondandosi sui materiali — in **DTF 129 I 12 consid. 4.3** e ha indicato nell'art. 41 cpv. 4 Cost. il parametro di delimitazione determinante. Nel messaggio si precisa che l'art. 36 Cost. (restrizione dei diritti fondamentali) non è applicabile agli obiettivi sociali dell'art. 41 Cost., poiché questi non fondano diritti soggettivi di difesa (FF 1997 I 194 s.).
 
-**N. 3** L'art. 41 Cost. è ancorato nel 3° capitolo della Costituzione federale sotto il titolo «Obiettivi sociali», separato consapevolmente dal catalogo dei diritti fondamentali (art. 7–36 Cost.). Questa separazione sistematica sottolinea il carattere differente: mentre i diritti fondamentali fondano **diritti soggettivi**, gli obiettivi sociali statuiscono **mandati costituzionali oggettivi** (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3ª ed. 2016, § 15 N. 2850).
+**N. 3** Il cpv. 1 lett. g — la protezione e la promozione dello sviluppo dei fanciulli e dei giovani nonché la loro integrazione e la promozione della loro salute — è stato inserito con la revisione del 27 settembre 2009 (RU 2010 3853). Con tale modifica il legislatore costituente ha risposto agli sviluppi sociopolitici nel settore della promozione dell'infanzia e della gioventù; la disposizione rimane tuttavia di natura programmatica (FF 2008 8395).
 
-**N. 4** Gli obiettivi sociali sono strettamente legati ad altre disposizioni costituzionali:
-- → L'art. 6 Cost. (responsabilità individuale e sociale) concretizza il principio di sussidiarietà dell'art. 41 cpv. 1 Cost.
-- → L'art. 12 Cost. garantisce come diritto fondamentale giustiziabile l'aiuto d'emergenza, mentre l'art. 41 Cost. formula obiettivi sociali che vanno oltre
-- → L'art. 19 Cost. (diritto all'istruzione scolastica di base) garantisce come diritto fondamentale ciò a cui l'art. 41 cpv. 1 lett. f Cost. aspira come obiettivo sociale
-- ↔ Gli art. 110–117 Cost. concretizzano gli obiettivi sociali nel settore delle assicurazioni sociali
+---
 
-**N. 5** Nel contesto internazionale gli obiettivi sociali corrispondono agli obblighi derivanti dal **Patto ONU I sui diritti economici, sociali e culturali** (RS 0.103.1), benché gli obblighi di diritto internazionale vadano in parte oltre gli obiettivi sociali di diritto costituzionale (Müller/Schefer, Grundrechte in der Schweiz, 4ª ed. 2008, pag. 1157).
+### 2. Inquadramento sistematico
 
-## Elementi costitutivi / Contenuto normativo
+**N. 4** L'art. 41 Cost. è collocato nel terzo capitolo («Obiettivi sociali») del secondo titolo («Diritti fondamentali, diritti civici e obiettivi sociali») della Costituzione federale. Il posizionamento dopo gli articoli sui diritti fondamentali (art. 7–36 Cost.) e i diritti sociali (art. 37–40 Cost.) non è casuale: esso esprime che gli obiettivi sociali costituiscono una categoria normativa autonoma, non riconducibile né ai diritti di libertà né ai diritti a prestazioni direttamente azionabili in giudizio. Si tratta di **norme sugli obiettivi dello Stato** (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3a ed. 2016, N. 1736) o **norme programmatiche** (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10a ed. 2020, N. 287).
 
-### Principio di sussidiarietà (cpv. 1 Chapeau)
+**N. 5** La delimitazione rispetto ad altre disposizioni costituzionali è fondamentale per l'applicazione del diritto:
 
-**N. 6** Il chapeau del cpv. 1 ancora il **principio di sussidiarietà** come elemento portante dell'ordinamento sociale svizzero. Le misure statali avvengono «a complemento della responsabilità personale e dell'iniziativa privata». Ciò non significa che le assicurazioni sociali statali abbiano carattere meramente complementare — piuttosto secondo Tschudi l'iniziativa privata complementa le assicurazioni sociali (Gächter/Werder, BSK BV, Art. 41 N. 29).
+- ↔ **Art. 12 Cost.** (diritto all'aiuto in situazioni di bisogno): diritto fondamentale sociale azionabile in giudizio, che garantisce una pretesa minima giudizialmente eseguibile al minimo vitale — in netto contrasto con la disposizione sugli obiettivi sociali, non azionabile in giudizio, dell'art. 41 cpv. 1 lett. a Cost.
+- ↔ **Art. 19 Cost.** (diritto all'istruzione scolastica di base): diritto fondamentale sociale azionabile in giudizio, che conferisce una pretesa individuale avente priorità rispetto all'art. 41 cpv. 1 lett. f Cost. (**DTF 129 I 12 consid. 4.1**; **DTF 133 I 156 consid. 3.6.4**).
+- → **Art. 2 Cost.** (scopo): la promozione del «benessere comune» ancorata all'art. 2 cpv. 2 Cost. costituisce il contesto costituzionale generale nel quale va letto l'art. 41 Cost.
+- → **Art. 36 Cost.** (restrizione dei diritti fondamentali): non applicabile agli obiettivi sociali (FF 1997 I 194 s.).
+- → **Art. 190 Cost.** (diritto determinante): le leggi federali e il diritto internazionale che concretizzano gli obiettivi sociali (ad es. LAVS, LAMal, LL) sono determinanti per il Tribunale federale e le altre autorità incaricate dell'applicazione del diritto.
 
-**N. 7** La formulazione «Confederazione e Cantoni si adoperano [...]» fonda una **responsabilità comune** di entrambi i livelli statali, senza modificare l'ordinamento federale delle competenze. Ogni livello statale agisce nel quadro delle sue competenze costituzionali (art. 41 cpv. 3 Cost.).
+**N. 6** Gli obiettivi sociali vanno inoltre distinti dagli **articoli sulle competenze**, che attribuiscono alla Confederazione la competenza legislativa in determinati settori sociali. L'art. 41 Cost. non fonda competenze; queste derivano da altre disposizioni costituzionali (art. 112 ss. Cost.: assicurazioni sociali; art. 116 Cost.: assegni familiari; art. 117 Cost.: assicurazione malattia).
 
-### Catalogo degli obiettivi sociali (cpv. 1 lett. a–g)
+---
 
-**N. 8** **Lett. a — Partecipazione alla sicurezza sociale**: Questa norma programmatica mira all'inserimento di tutte le persone nei sistemi della sicurezza sociale, indipendentemente dalla loro capacità economica (Gächter, Grundstrukturen des schweizerischen Rechts der Sozialen Sicherheit, 2020, pag. 45).
+### 3. Elementi della fattispecie / Contenuto normativo
 
-**N. 9** **Lett. b — Cure mediche necessarie**: L'obiettivo sociale comprende l'assistenza medica di base, senza garantire uno standard determinato. La concretizzazione avviene tramite la LAMal, mentre il Tribunale federale sottolinea che dall'art. 41 cpv. 1 lett. b Cost. non è derivabile alcun diritto a un determinato trattamento (**DTF 127 I 6** consid. 5c).
+#### 3.1 Soggetti del mandato costituzionale (cpv. 1, frase introduttiva)
 
-**N. 10** **Lett. c — Protezione e promozione della famiglia**: Le famiglie vengono definite come «comunità di adulti e bambini», il che include anche le comunità di vita non coniugali con bambini (Saladin, Rechtsbeziehungen zwischen Eltern und Kindern, in: ZSR 1996 I pag. 45).
+**N. 7** «Confederazione e Cantoni» sono congiuntamente destinatari del mandato costituzionale di cui all'art. 41 cpv. 1 Cost. La norma contiene quindi una **determinazione congiunta degli obiettivi dello Stato** per entrambi i livelli statali. Ciò non include esplicitamente i Comuni, i quali vengono tuttavia coinvolti attraverso il diritto cantonale. L'attribuzione dei compiti alla Confederazione e ai Cantoni va letta in modo differenziato secondo le rispettive competenze costituzionali (art. 41 cpv. 3 Cost.; → N. 13).
 
-**N. 11** **Lett. d — Sicurezza dell'esistenza mediante il lavoro**: L'obiettivo sociale non postula un diritto al lavoro, bensì la possibilità di provvedere al sostentamento attraverso il lavoro a «condizioni eque». Il concetto di equità è aperto e necessita della concretizzazione legislativa (Gächter/Werder, BSK BV, Art. 41 N. 42 segg.).
+**N. 8** Gli obiettivi sociali sono sussidiari rispetto alla «responsabilità individuale e all'iniziativa privata». La frase introduttiva dell'art. 41 cpv. 1 Cost. qualifica l'impegno statale come complementare («in complemento a»). In tal modo viene ancorato costituzionalmente il **principio di sussidiarietà** (→ art. 5a Cost.) per il settore sociale. Müller/Schefer sottolineano che questa riserva di sussidiarietà ha un significato normativo rilevante: essa non solo vieta allo Stato l'inerzia, ma prescrive anche un determinato ordine di priorità — prima l'azione responsabile del singolo, poi l'intervento statale (Müller/Schefer, Grundrechte in der Schweiz, 4a ed. 2008, pag. 784 s.).
 
-**N. 12** **Lett. e — Alloggio adeguato**: L'obiettivo si riferisce a «condizioni sopportabili», il che implica una relazione tra costi dell'alloggio e capacità economica. L'attuazione avviene attraverso il diritto di locazione (→ art. 269 segg. CO) e l'edilizia abitativa sociale.
+#### 3.2 Singoli obiettivi sociali (cpv. 1 lett. a–g)
 
-**N. 13** **Lett. f — Istruzione secondo le attitudini**: A differenza dell'istruzione scolastica di base giustiziabile (→ art. 19 Cost.) l'obiettivo sociale comprende l'intero percorso formativo. Meyer sottolinea che si tratta di uno dei «sette aspetti centrali, elementari dell'esistenza umana» (Gächter/Werder, BSK BV, Art. 41 N. 10).
+**N. 9** **Lett. a** (sicurezza sociale): L'obiettivo sociale della partecipazione alla sicurezza sociale è il più ampio. Esso corrisponde alle specifiche norme sulle competenze della Confederazione in materia di assicurazioni sociali (art. 112–114 Cost.). L'attuazione legislativa avviene in particolare attraverso la LAVS, la LAI, la LADI, la LPC e la LACI. L'obiettivo sociale non fonda alcuna pretesa a un determinato livello di prestazioni, ma conferisce al legislatore un mandato di colmare le lacune (Häfelin/Haller/Keller/Thurnherr, op. cit., N. 289).
 
-**N. 14** **Lett. g — Promozione di bambini e giovani**: Questa disposizione inserita nel 2006 (RU 2006 2349) concretizza il particolare mandato di protezione a favore della giovane generazione oltre l'istruzione (Reich, Schutz der Kinder und Jugendlichen, in: AJP 2009, pag. 1547 segg.).
+**N. 10** **Lett. b** (cure sanitarie): L'obiettivo sociale in materia di cure sanitarie comprende le cure «necessarie per la salute» — ossia medicalmente indicate. Esso costituisce il contesto costituzionale della LAMal, senza tuttavia fondare pretese concrete a determinate prestazioni terapeutiche. Nella **DTF 127 I 6** il Tribunale federale ha chiarito che l'obiettivo sociale dell'art. 41 cpv. 1 lett. b Cost. non costituisce una base per ingerenze in altri diritti fondamentali (in particolare la libertà personale).
 
-### Garanzia dei rischi sociali (cpv. 2)
+**N. 11** **Lett. c** (protezione della famiglia): L'obiettivo sociale della protezione della famiglia comprende le «famiglie quali comunità di adulti e bambini». La formulazione è volutamente ampia e include le comunità di vita non coniugali con figli (Rhinow/Schefer/Uebersax, op. cit., N. 1741). Il Tribunale federale ha fatto ricorso all'art. 41 cpv. 1 lett. c Cost. nella **DTF 140 V 449 consid. 4.1** come ausilio interpretativo per questioni inerenti al diritto sugli assegni familiari, senza tuttavia derivarne pretese autonome.
 
-**N. 15** Il cpv. 2 enumera i **rischi classici delle assicurazioni sociali**: vecchiaia, invalidità, malattia, infortunio, disoccupazione, maternità, orfanezza e vedovanza. Questa enumerazione non è esaustiva, ma comprende i principali rischi esistenziali (Poledna, Allgemeiner Überblick, in: Schweizerisches Bundesverwaltungsrecht, vol. XIV, 3ª ed. 2016, N. 15).
+**N. 12** **Lett. d–f** (lavoro, alloggio, formazione): Questi tre obiettivi sociali costituiscono il nucleo della partecipazione economica e sociale. «Condizioni adeguate» (lett. d), «condizioni sopportabili» (lett. e) e «secondo le loro capacità» (lett. f) sono nozioni giuridiche indeterminate che lasciano al legislatore ampio margine di concretizzazione. L'obiettivo formativo di cui alla lett. f va tenuto rigorosamente separato dall'art. 19 Cost., come il Tribunale federale ha stabilito nella **DTF 133 I 156 consid. 3.6.4**: «Ciò vale a maggior ragione riguardo all'art. 41 cpv. 1 lett. f Cost., da cui (in quanto obiettivo sociale) non possono comunque essere derivate pretese dirette.»
 
-### Limiti costituzionali (cpv. 3 e 4)
+**N. 13** **Lett. g** (promozione di fanciulli e giovani): La disposizione inserita con la revisione costituzionale del 2009 comprende tre elementi: (1) promozione dell'autonomia e della responsabilità sociale; (2) sostegno dell'integrazione sociale, culturale e politica; (3) promozione della salute. La disposizione è strettamente connessa con → art. 11 Cost. (protezione dei fanciulli e dei giovani), che — a differenza dell'art. 41 lett. g — contiene un diritto fondamentale azionabile in giudizio.
 
-**N. 16** **Il cpv. 3** contiene una doppia riserva: gli obiettivi sociali sono perseguiti solo nel quadro delle **competenze costituzionali** e dei **mezzi disponibili**. La riserva delle risorse non significa completa arbitrarietà, ma obbliga all'impiego ottimale dei mezzi disponibili (Waldmann, Das Recht auf Nothilfe, 2012, pag. 267).
+#### 3.3 Sicurezza contro le conseguenze economiche dei rischi sociali (cpv. 2)
 
-**N. 17** **Il cpv. 4** esclude categoricamente la giustiziabilità: «Dagli obiettivi sociali non possono essere fatte derivare pretese immediate a prestazioni statali.» Il Tribunale federale applica questa disposizione coerentemente (**DTF 129 I 12** consid. 3.1; **DTF 133 I 156** consid. 3.5).
+**N. 14** L'art. 41 cpv. 2 Cost. contiene un mandato distinto in materia di obiettivi sociali: la sicurezza contro le conseguenze economiche di **vecchiaia, invalidità, malattia, infortunio, disoccupazione, maternità, orfanità e vedovanza**. Questi otto «casi assicurativi» (catalogo dei rischi) corrispondono ampiamente al catalogo classico delle assicurazioni sociali. La formulazione «siano assicurati» — a differenza di «si adoperino affinché» nel cpv. 1 — potrebbe suggerire una maggiore densità obbligatoria; secondo la dottrina dominante, tuttavia, anche il cpv. 2 non fonda una pretesa soggettiva (Häfelin/Haller/Keller/Thurnherr, op. cit., N. 293; Rhinow/Schefer/Uebersax, op. cit., N. 1744).
 
-## Conseguenze giuridiche
+#### 3.4 Riserva delle risorse (cpv. 3)
 
-**N. 18** Gli obiettivi sociali dispiegano i loro effetti su tre livelli:
+**N. 15** Confederazione e Cantoni «perseguono gli obiettivi sociali nell'ambito delle loro competenze costituzionali e dei mezzi disponibili». Questa doppia riserva — competenza e mezzi — qualifica il dovere statale come un **obbligo di perseguimento**, non come un obbligo di risultato. La clausola sulle competenze è particolarmente rilevante nel sistema federale: essa non vieta al legislatore federale di concretizzare gli obiettivi sociali (nella misura in cui disponga di una competenza), ma gli vieta di fondarsi unicamente sull'art. 41 Cost. come base di competenza (→ art. 3 Cost.). La riserva delle risorse («mezzi disponibili») va intesa come ancoraggio costituzionale del pragmatismo di politica finanziaria.
 
-**N. 19** **Mandato legislativo**: L'art. 41 Cost. obbliga Confederazione e Cantoni alla creazione e configurazione di sistemi di prestazioni sociali. Questo obbligo non è azionabile, ma costituzionalmente vincolante (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, 10ª ed. 2020, N. 892).
+#### 3.5 Non azionabilità in giudizio (cpv. 4)
 
-**N. 20** **Massima interpretativa**: Nell'interpretazione delle leggi sulle assicurazioni sociali e di altre norme di diritto sociale, gli obiettivi sociali servono come aiuto interpretativo. Il Tribunale federale ricorre regolarmente all'art. 41 Cost. per l'interpretazione teleologica (**DTF 140 V 449** consid. 4.2).
+**N. 16** L'art. 41 cpv. 4 Cost. è la norma centrale dell'articolo: «Dagli obiettivi sociali non possono essere derivate direttamente pretese a prestazioni statali.» Il Tribunale federale ha trattato ciò come una **regola assoluta**: anche quando un obiettivo sociale si avvicina tematicamente a un diritto fondamentale azionabile in giudizio, esso non fonda di per sé alcuna pretesa giudizialmente eseguibile (**DTF 129 I 12 consid. 4.3**). La non azionabilità vale egualmente per tutte e sette le lettere del cpv. 1 e per il cpv. 2. Il termine «direttamente» nel cpv. 4 non è da intendersi come clausola di apertura: non esistono pretese «indirette» fondate sull'art. 41 Cost.
 
-**N. 21** **Limite ai limiti**: Le limitazioni delle prestazioni sociali esistenti devono misurarsi con l'art. 41 Cost. Una completa soppressione in uno dei settori menzionati sarebbe incostituzionale (Uebersax, Stand und Entwicklung der Sozialverfassung, in: LeGes 2003/2, pag. 41).
+---
 
-## Punti controversi
+### 4. Effetti giuridici
 
-**N. 22** **Natura giuridica degli obiettivi sociali**: La dottrina dominante qualifica l'art. 41 Cost. come **norme programmatiche** o **norme di finalità statale** (Rhinow/Schefer/Uebersax, § 15 N. 2851; Häfelin/Haller/Keller/Thurnherr, N. 891). Una minoranza propugna una rivalutazione a **diritti fondamentali condizionati**, che diverrebbero giustiziabili in presenza di sufficienti risorse statali (critico in merito: Gächter/Werder, BSK BV, Art. 41 N. 9).
+**N. 17** Gli obiettivi sociali dispiegano i loro effetti normativi su tre livelli:
 
-**N. 23** **Rapporto sussidiarietà — solidarietà**: Controversa è la ponderazione tra responsabilità personale e solidarietà statale. Mentre gli autori conservatori enfatizzano la responsabilità individuale (Gächter/Werder, BSK BV, Art. 41 N. 14 segg.), le voci progressiste vedono nell'art. 41 Cost. primariamente un mandato di solidarietà (Tschudi, Die Sozialverfassung der Schweiz, 1989, pag. 89; cit. in Gächter/Werder, BSK BV, Art. 41 N. 29).
+**(1) Mandato legislativo**: L'art. 41 Cost. obbliga Confederazione e Cantoni a una legislazione attiva in campo sociale. Tale mandato è politicamente, non giudizialmente, eseguibile. Un perdurante immobilismo legislativo in uno dei settori menzionati sarebbe costituzionalmente problematico, ma non può essere sanzionato dal giudice (Müller/Schefer, op. cit., pag. 786).
 
-**N. 24** **Portata della riserva delle risorse**: Controverso è se la riserva dei «mezzi disponibili» (cpv. 3) valga anche per il mantenimento delle prestazioni sociali esistenti. L'opinione maggioritaria lo afferma (Müller/Schefer, pag. 1159), mentre una minoranza postula una **garanzia dell'esistente** costituzionale per gli standard sociali una volta raggiunti (Mader, Die Sozial- und Umweltverfassung, in: ZBl 2000, pag. 245).
+**(2) Direttiva interpretativa**: Gli obiettivi sociali fungono da **ausilio interpretativo** nella concretizzazione di altre disposizioni costituzionali e di norme di legge ordinaria. Il Tribunale federale applica questo approccio in particolare nel diritto delle assicurazioni sociali: sentenza 9C_736/2011 del 7.2.2012; cfr. anche il riferimento all'art. 41 Cost. come contesto interpretativo nella **DTF 140 V 449 consid. 4.1**. Gli obiettivi sociali non possono tuttavia condurre a un ampliamento del campo di protezione di un altro diritto fondamentale (**DTF 133 I 156 consid. 3.6.4**).
 
-## Indicazioni pratiche
+**(3) Criterio di esame dell'azione statale**: Nell'ambito dell'esame della proporzionalità di misure statali, gli obiettivi sociali possono essere inseriti nella ponderazione come interessi pubblici. Ciò è emerso nella giurisprudenza in materia fiscale: nella **DTF 133 I 206 consid. 7.4** il Tribunale federale ha fatto ricorso all'obiettivo sociale della solidarietà — in riferimento al commento di Bigler-Eggenberger (Commentario sangallese, N. 10 s. ad art. 41 Cost.) — come contesto normativo per l'interpretazione del principio della capacità economica (art. 127 cpv. 2 Cost.).
 
-**N. 25** **Per il legislatore**: Nella creazione o revisione di leggi sociali, l'art. 41 Cost. va inteso come **mandato di ottimizzazione**. Gli obiettivi sociali non esigono prestazioni massimali, ma un costante miglioramento nel quadro del finanziariamente possibile. I progetti di legge dovrebbero esporre esplicitamente come contribuiscono alla realizzazione degli obiettivi sociali.
+**N. 18** Altrettanto normativamente rilevante è ciò che gli obiettivi sociali **non** determinano: essi non fondano diritti soggettivi, non fondano pretese dirette a prestazioni, non legittimano a ricorrere al Tribunale federale e non costituiscono una base per la cassazione di leggi contrarie. Dall'assenza di un'attuazione legislativa non può essere costruita alcuna pretesa giuridica di rango costituzionale.
 
-**N. 26** **Per gli operatori del diritto**: Benché dall'art. 41 Cost. non siano derivabili pretese individuali, gli obiettivi sociali possono essere rilevanti nell'**esercizio del potere discrezionale**. Le autorità devono esercitare il loro potere discrezionale alla luce degli obiettivi sociali, il che è particolarmente significativo nella concessione di prestazioni facoltative.
+---
 
-**N. 27** **Per la giurisprudenza**: Gli obiettivi sociali servono come **aiuto interpretativo** per concetti giuridici indeterminati nel diritto sociale. Tra più interpretazioni sostenibili è da scegliere quella che corrisponde meglio agli obiettivi sociali. Ciò vale particolarmente nell'interpretazione di clausole di rigore e norme discrezionali.
+### 5. Questioni controverse
 
-**N. 28** **Rapporto con i diritti fondamentali**: Nella pratica è da distinguere accuratamente tra obiettivi sociali non giustiziabili e diritti fondamentali giustiziabili. Le pretese vanno fondate primariamente sui diritti fondamentali (→ art. 12 Cost. per l'aiuto d'emergenza, → art. 19 Cost. per l'istruzione scolastica di base), non sull'art. 41 Cost.
+#### 5.1 Significato normativo della non azionabilità in giudizio
+
+**N. 19** È controverso se l'art. 41 cpv. 4 Cost. abbia un significato meramente dichiarativo o costitutivo. **Rhinow/Schefer/Uebersax** (op. cit., N. 1750 s.) sostengono che la non azionabilità esclude soltanto l'eseguibilità **diretta**, non ogni effetto indiretto. Gli obiettivi sociali sarebbero da intendere come «soft law» della Costituzione federale, che struttura normativamente il margine di apprezzamento di chi applica il diritto, senza fondare pretese.
+
+**N. 20** **Müller/Schefer** (op. cit., pag. 787 s.) distinguono tra il rigetto di pretese a prestazioni e il riconoscimento di un «divieto di insufficienza»: qualora il legislatore ignori completamente un obiettivo sociale o riduca drasticamente senza una ragione oggettiva un livello di tutela già esistente, ciò potrebbe essere qualificato come violazione costituzionale del mandato di protezione statale. Questa opinione minoritaria non si è sinora affermata nella giurisprudenza del Tribunale federale.
+
+**N. 21** **Häfelin/Haller/Keller/Thurnherr** (op. cit., N. 295) escludono sia l'azionabilità sia un divieto di insufficienza nel senso di Müller/Schefer. Secondo la loro concezione, gli obiettivi sociali sono concepiti come pure determinazioni degli obiettivi dello Stato, il cui effetto normativo si esplica esclusivamente nel processo politico e non in quello giuridico. Il Tribunale federale, con la sua giurisprudenza sull'art. 41 cpv. 4 Cost., si avvicina a questa posizione (**DTF 129 I 12 consid. 4.3**).
+
+#### 5.2 Rapporto tra obiettivi sociali e diritti fondamentali sociali
+
+**N. 22** Una questione irrisolta riguarda la metodologia interpretativa quando obiettivi sociali e diritti fondamentali sociali corrono parallelamente sotto il profilo tematico (ad es. art. 41 cpv. 1 lett. f Cost. e art. 19 Cost. nel settore della formazione). Il Tribunale federale ha stabilito nella **DTF 133 I 156 consid. 3.5.2** che la dottrina insiste per lo più nell'interpretare l'art. 19 Cost. alla luce della giurisprudenza esistente, senza che l'art. 41 cpv. 1 lett. f Cost. conduca a un ampliamento. **Plotke** (Schweizerisches Schulrecht, 2a ed. 2003, pag. 185 ss.) ha invece sostenuto un'interpretazione teleologica che utilizzi gli obiettivi sociali come bussola per un'interpretazione evolutiva dei diritti fondamentali sociali — posizione che il Tribunale federale nella **DTF 133 I 156** ha espressamente non accolto.
+
+#### 5.3 Portata della riserva di sussidiarietà
+
+**N. 23** Se la riserva di sussidiarietà («in complemento alla responsabilità individuale e all'iniziativa privata», art. 41 cpv. 1 frase introduttiva) vada letta come limitazione del mandato dello Stato sociale oppure come mero rafforzamento dichiarativo dei valori costituzionali liberali è controverso in dottrina. **Bigler-Eggenberger** (Commentario sangallese alla Cost., N. 10 ss. ad art. 41 Cost.) sottolinea che la clausola di sussidiarietà non produce un effetto preclusivo assoluto, bensì sancisce la priorità dell'individuo rispetto allo Stato, senza limitare il mandato dello Stato sociale. **Uebersax** (in: Rhinow/Schefer/Uebersax, op. cit., N. 1737) ravvisa invece nella clausola di sussidiarietà un indizio che il legislatore costituente ha consapevolmente rinunciato a una responsabilità statale estesa.
+
+---
+
+### 6. Indicazioni pratiche
+
+**N. 24** Nei rimedi giuridici e nelle azioni fondate su una violazione dell'art. 41 Cost. il Tribunale federale non entrerà nel merito o respingerà il motivo. L'art. 41 cpv. 4 Cost. esclude categoricamente la derivazione di un «diritto costituzionale» ai sensi dell'art. 116 cpv. 1 lett. a LTF dall'art. 41 Cost. I ricorsi fondati unicamente sull'art. 41 Cost. sono inammissibili.
+
+**N. 25** Per contro, è processualmente ammissibile e giuridicamente produttivo **fare ricorso all'art. 41 Cost. come ausilio interpretativo** per altre disposizioni costituzionali azionabili in giudizio o per norme di legge ordinaria. Chi fa valere una violazione dell'art. 19 Cost. (istruzione scolastica di base), dell'art. 12 Cost. (minimo vitale), dell'art. 8 Cost. (uguaglianza) o dell'art. 13 Cost. (sfera privata) può utilizzare l'art. 41 Cost. a sostegno teleologico della propria argomentazione.
+
+**N. 26** Nel **procedimento legislativo** gli obiettivi sociali costituiscono un criterio normativo di esame della conformità costituzionale della legislazione sociale. I progetti legislativi di smantellamento in campo sociale (ad es. riduzione delle prestazioni delle assicurazioni sociali) devono misurarsi con la cornice del mandato sociale dell'art. 41 Cost. — non nel senso di una cassazione, bensì nel senso di un obbligo di giustificazione politica nei confronti del mandato costituzionale.
+
+**N. 27** Nel **diritto cantonale** gli obiettivi sociali possono essere «elevati» dai Cantoni a veri e propri diritti sociali, qualora le costituzioni cantonali — come fanno l'art. 29 cpv. 2 Cost./BE o gli art. 24 e 25 Cost./AR — contengano corrispondenti disposizioni azionabili in giudizio. Il Tribunale federale ha riconosciuto ciò nella **DTF 129 I 12 consid. 4.4** come ulteriore sviluppo ammissibile della Costituzione federale da parte del diritto cantonale. La non azionabilità in giudizio di diritto costituzionale federale non osta a un tale potenziamento cantonale; d'altro canto, dal diritto federale non deriva alcun obbligo di configurare gli obiettivi sociali come diritti azionabili a livello cantonale.
+
+**N. 28** Nel settore delle **assicurazioni sociali** occorre tenere presente che il Tribunale federale fa ricorso agli obiettivi sociali come contesto interpretativo costituzionale nell'interpretazione delle pretese a prestazioni (sentenza 9C_736/2011 del 7.2.2012 consid. 4). Ciò non significa che dall'art. 41 Cost. sia derivabile un diritto a un determinato livello di prestazioni; significa però che nell'interpretazione di nozioni giuridiche indeterminate nel diritto ordinario delle assicurazioni sociali (ad es. «prestazione assicurativa adeguata») gli obiettivi sociali devono essere presi in considerazione come contesto normativo.
+
+**N. 29** La **delimitazione tra cpv. 1 e cpv. 2** ha rilevanza pratica: l'art. 41 cpv. 2 Cost. contiene un mandato più ristretto, specificamente attinente al diritto delle assicurazioni sociali (copertura dei rischi), mentre il cpv. 1 comprende un ampio spettro di obiettivi sociali dello Stato. Nella prassi legislativa il cpv. 2 viene tipicamente utilizzato come punto di raccordo costituzionale per i rami classici delle assicurazioni sociali (AVS, AI, AINF, LAMal, AD).
