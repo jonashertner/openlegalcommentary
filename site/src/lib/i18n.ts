@@ -129,6 +129,12 @@ const translations: Record<string, Record<Lang, string>> = {
   'header.menu_open': { de: 'Menü öffnen', fr: 'Ouvrir le menu', it: 'Apri menu', en: 'Open menu' },
   'header.theme_toggle': { de: 'Farbschema wechseln', fr: 'Changer le thème', it: 'Cambia tema', en: 'Toggle theme' },
   'header.search': { de: 'Suche', fr: 'Recherche', it: 'Ricerca', en: 'Search' },
+  'header.beta_notice': {
+    de: 'openlegalcommentary befindet sich in aktiver Entwicklung.',
+    fr: 'openlegalcommentary est en développement actif.',
+    it: 'openlegalcommentary è in sviluppo attivo.',
+    en: 'openlegalcommentary is in active development.',
+  },
 
   // Language switcher
   'lang.label': { de: 'Sprache', fr: 'Langue', it: 'Lingua', en: 'Language' },
