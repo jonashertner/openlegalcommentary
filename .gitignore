@@ -9,6 +9,8 @@ dist/
 node_modules/
 .DS_Store
 # content/ is tracked — generated commentary is committed
+# except for per-article citation verification reports, which are ephemeral
+content/**/.citations.json
 bootstrap_state.json
 state-*.json
 # Site build output
