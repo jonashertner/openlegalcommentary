@@ -1,15 +1,16 @@
 ---
 // site/src/components/BetaOverlay.astro
-// First-visit beta disclosure modal. Companion to the persistent .beta-bar
-// in Header.astro — the bar is the always-visible reminder, this overlay
-// is the once-per-visitor "set expectations" moment.
+// Beta disclosure modal. Companion to the persistent .beta-bar in
+// Header.astro — the bar is the always-visible thin reminder, this
+// overlay is the prominent "set expectations" interrupt.
 //
 // Lifecycle:
-//  - On page load, check localStorage for `beta-modal-dismissed-v1`.
-//  - If absent, show after 200ms (gentle, not jarring).
-//  - On dismiss (button, Escape, or backdrop click), set the flag.
-//  - The version suffix in the key lets us re-show after major status
-//    changes — bump to v2 in the future.
+//  - Shown on every page load after a 200ms delay (gentle, not jarring).
+//  - Dismissible via button, Escape key, or backdrop click.
+//  - Dismissal hides it for the current page only. A reload or
+//    navigation to a new page re-shows it. Intentional: while the site
+//    is in active beta, the disclosure should be unmissable on every
+//    visit, not just the first.
 import { type Lang, t } from '@/lib/i18n';
 
 export interface Props {
@@ -165,26 +166,13 @@ const { lang } = Astro.props;
 </style>
 
 <script>
-  const STORAGE_KEY = 'beta-modal-dismissed-v1';
-
   function initBetaOverlay() {
     const overlay = document.getElementById('beta-overlay');
     if (!overlay) return;
 
-    let dismissed = false;
-    try {
-      dismissed = localStorage.getItem(STORAGE_KEY) === '1';
-    } catch (_e) {
-      // localStorage may be unavailable (private browsing on some browsers).
-      // In that case, treat the user as not-yet-dismissed and show the
-      // modal each visit — strictly more transparent than hiding it.
-      dismissed = false;
-    }
-
-    if (dismissed) return;
-
-    // Small delay so the page paints first; jumping a modal in immediately
-    // feels jarring on a content site.
+    // Always show on page load — no localStorage persistence. While the
+    // site is in beta, the disclosure must be unmissable on every visit
+    // and every reload, not just the first.
     window.setTimeout(() => {
       overlay.removeAttribute('hidden');
       const button = overlay.querySelector<HTMLButtonElement>(
@@ -195,11 +183,6 @@ const { lang } = Astro.props;
 
     function dismiss() {
       overlay.setAttribute('hidden', '');
-      try {
-        localStorage.setItem(STORAGE_KEY, '1');
-      } catch (_e) {
-        // Same as above — best effort.
-      }
       document.removeEventListener('keydown', onKey);
     }
 
