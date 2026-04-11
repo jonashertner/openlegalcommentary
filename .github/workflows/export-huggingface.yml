@@ -29,10 +29,14 @@ jobs:
         run: uv run python -m export.huggingface
 
       - name: Push to HuggingFace
-        if: ${{ secrets.HF_TOKEN != '' }}
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
+          # The secrets context is not available in step-level `if:`
+          # conditions at workflow parse time, which used to cause this
+          # workflow to fail before any step ran. Instead, we check the
+          # env var inside the script — HF_TOKEN is an empty string when
+          # the secret isn't configured, and we exit cleanly in that case.
           uv run python -c "
           import os
           token = os.environ.get('HF_TOKEN', '')

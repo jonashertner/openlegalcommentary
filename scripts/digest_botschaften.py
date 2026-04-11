@@ -12,7 +12,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 import anthropic
@@ -47,9 +47,12 @@ extract the following per article and for the general context:
 For each article mentioned:
 - legislative_intent: The primary purpose and goal of the provision as stated in the Botschaft
 - key_arguments: Main arguments given for the provision (list of strings)
-- design_choices: Specific design decisions made (e.g. thresholds, scope choices, procedural choices) (list of strings)
-- rejected_alternatives: Alternative approaches that were considered but rejected (list of strings)
-- bbl_page_refs: Page references in the BBl where this article is discussed (list of strings, e.g. ["6045", "6046-6048"])
+- design_choices: Specific design decisions made (e.g. thresholds, scope choices,
+  procedural choices) (list of strings)
+- rejected_alternatives: Alternative approaches that were considered but rejected
+  (list of strings)
+- bbl_page_refs: Page references in the BBl where this article is discussed
+  (list of strings, e.g. ["6045", "6046-6048"])
 - general_context: Brief note on how this article fits into the broader law (string)
 
 For the general context (Allgemeiner Teil / general section):
@@ -358,7 +361,7 @@ def main() -> None:
         output_data = {
             "law": law,
             "sr_number": sr_number,
-            "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "generated": datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
             "articles": articles,
         }
         output_path.write_text(
@@ -372,7 +375,7 @@ def main() -> None:
     output_data = {
         "law": law,
         "sr_number": sr_number,
-        "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generated": datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "articles": articles,
     }
     output_path.write_text(

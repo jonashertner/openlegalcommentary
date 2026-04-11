@@ -1,10 +1,6 @@
 """Tests for scripts/discover_botschaften.py — parliament API registry builder."""
 from __future__ import annotations
 
-import json
-
-import pytest
-
 from scripts.discover_botschaften import (
     SEED_AFFAIRS,
     extract_affair_data,

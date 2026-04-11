@@ -9,14 +9,12 @@ import pytest
 
 from agents.references import (
     _commentary_refs_cache,
+    _prep_materials_cache,
     format_article_text,
     format_commentary_refs,
+    format_preparatory_materials,
     load_article_texts,
     load_commentary_refs,
-)
-from agents.references import (
-    _prep_materials_cache,
-    format_preparatory_materials,
     load_preparatory_materials,
 )
 

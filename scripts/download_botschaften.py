@@ -212,7 +212,12 @@ def main() -> None:
                 downloaded += 1
             else:
                 # If Fedlex filestore failed, try fallback URL as last resort
-                if fedlex_url and fallback_url and "null" not in fallback_url and url_to_try != fallback_url:
+                if (
+                    fedlex_url
+                    and fallback_url
+                    and "null" not in fallback_url
+                    and url_to_try != fallback_url
+                ):
                     if fallback_url.startswith("http://"):
                         fallback_url = "https://" + fallback_url[len("http://"):]
                     print(f"    Fedlex download failed, trying fallback: {fallback_url}")
