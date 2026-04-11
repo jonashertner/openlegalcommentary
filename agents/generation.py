@@ -151,6 +151,21 @@ async def generate_and_evaluate(
             law, attempt, config.max_retries,
         )
 
+        # Force a blank slate at the start of every attempt: remove the
+        # current layer file. The original is preserved in
+        # ``rollback_snapshot`` and restored on total failure. Empirically
+        # the dominant cause of write-skip failures is Sonnet seeing
+        # existing content (the baseline or a previously-rejected attempt's
+        # output) via ``read_layer_content`` and treating it as
+        # authoritative — exiting its agent loop without writing.
+        # Deleting the file forces the agent to start from nothing, which
+        # makes the "I should regenerate this" path the only sensible one.
+        layer_path = _layer_file_path(
+            config, law, article_number, article_suffix, layer_type,
+        )
+        if layer_path.exists():
+            layer_path.unlink()
+
         before_hash = _layer_file_hash(
             config, law, article_number, article_suffix, layer_type,
         )

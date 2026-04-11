@@ -31,41 +31,98 @@ When preparatory materials are provided:
 
     "doctrine": """Generate the **Doktrin (Doctrinal Analysis)** layer for the given article.
 
+⚠ MANDATORY FINAL ACTION ⚠
+Your run is INCOMPLETE until you call `write_layer_content` with the full
+German doctrine for the `doctrine` layer. This is non-negotiable. Do NOT
+end the run with a text-only response describing what you would write —
+ACTUALLY WRITE IT via the tool. The pipeline will treat any run that
+finishes without a `write_layer_content` call on the `doctrine` layer as
+a failure and roll back.
+
 Requirements (from global.md §II.2):
 - Use numbered marginal notes: **N. 1**, **N. 2**, etc.
-- Required sections:
-  1. Entstehungsgeschichte (legislative history — cite the Botschaft)
+- Required sections, in order:
+  1. Entstehungsgeschichte (legislative history — cite the Botschaft if available)
   2. Systematische Einordnung (systematic context within the law)
   3. Tatbestandsmerkmale / Norminhalt (elements / content of the provision)
   4. Rechtsfolgen (legal consequences)
   5. Streitstände (doctrinal debates — name specific authors and their positions)
   6. Praxishinweise (practical guidance)
 - Minimum 3 secondary sources from different authors
-- The Botschaft (legislative message) must be cited
 - Cross-references use arrow notation: → (unidirectional), ↔ (bidirectional)
 
-The article text is provided in the prompt above.
+## Citation style: prefer literature format
 
-Use the tools to:
-1. Search for leading cases via find_leading_cases
-3. Read the existing caselaw layer for context
-4. Write the doctrine layer using write_layer_content
+Cite scholarly authors in **literature format** by default:
 
-When doctrinal reference data (BSK/CR) is provided in the prompt:
+  ✅ Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht,
+     10. Aufl. 2020, N 749
+  ✅ Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 729
+  ✅ Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht,
+     3. Aufl. 2016, N 1862
+
+Use BSK or CR commentary format **only** when the cited author appears in
+the Doctrinal Reference Data block included in this prompt. Do not invent
+BSK author/Randziffer combinations:
+
+  ⚠ Tschentscher, BSK BV, Art. 67 N. 5  (only if Tschentscher is in the
+                                         reference data for this article)
+  ⚠ Thévenoz, CR CO I, Art. 41 N. 8     (only if Thévenoz is in the CR
+                                         reference data)
+
+## Konzision discipline (no redundancy)
+
+Each Randziffer must contribute new content. Do not restate a holding,
+authority, or doctrinal position across two different N.s. If a topic
+naturally spans sections (e.g. a single leading case is relevant to both
+Norminhalt and Streitstände), cite it ONCE in the more specific section
+and use → cross-reference notation in the other.
+
+The most common reason previous attempts have been rejected is redundancy
+between adjacent Randziffern — guard against this proactively, not just
+in revision.
+
+## Research workflow
+
+The article text (Gesetzestext) is provided in the prompt above. Before
+writing, use the tools to:
+
+1. Call `find_leading_cases` for the article to get the canonical BGE list
+2. Call `get_case_brief` on the top 3-5 most-cited decisions
+3. Call `read_layer_content` for the existing **`caselaw`** layer (NOT
+   `doctrine` — do not read your own prior doctrine; you are regenerating
+   from scratch, not approving the existing version)
+4. If reference data (BSK/CR or preparatory materials) is provided in the
+   prompt, treat it as **research material** to draw from — not as the
+   answer to copy. Synthesize your own analysis that engages with the
+   named positions.
+5. THEN call `write_layer_content` with the full German doctrine
+
+## When doctrinal reference data (BSK/CR) is provided in the prompt
+
 - Ground your analysis in the named positions from the reference data
-- Cite BSK authors with Randziffern: Kessler, BSK OR I, Art. 41 N. 12
-- Cite CR authors with Randziffern: Thévenoz, CR CO I, Art. 41 N. 8
-- Present doctrinal controversies from the references with named positions on each side
+- Present the doctrinal controversies from the references with named
+  positions on each side
+- Cite the named authors using BSK/CR format only — do not generalise
+  to authors not in the reference data
 - Do NOT reproduce commentary text — synthesize original analysis
 
-When preparatory materials (Materialien) are provided in the prompt:
+## When preparatory materials (Materialien) are provided in the prompt
+
 - Ground the Entstehungsgeschichte section in actual Botschaft quotes
 - Cite with exact BBl page references: "BBl 1999 6045"
 - Include the Federal Council's stated intent for the provision
 - Note where the parliamentary process modified the Federal Council's proposal
 - In the Norminhalt and Streitstände sections, trace where judicial interpretation
   has confirmed, narrowed, or expanded the original legislative intent
-- Do NOT reproduce Botschaft text verbatim — synthesize and cite""",
+- Do NOT reproduce Botschaft text verbatim — synthesize and cite
+
+## Final action reminder
+
+⚠ Your last action MUST be a `write_layer_content` call on the `doctrine`
+layer with the full German doctrinal analysis. A run that ends with a
+text response describing the content but no tool call is a failure and
+will be rolled back. Write the content. Do not describe it.""",
 
     "caselaw": """Generate the **Rechtsprechung (Case Law Digest)** layer for the given article.
 
