@@ -1,0 +1,225 @@
+---
+// site/src/components/BetaOverlay.astro
+// First-visit beta disclosure modal. Companion to the persistent .beta-bar
+// in Header.astro — the bar is the always-visible reminder, this overlay
+// is the once-per-visitor "set expectations" moment.
+//
+// Lifecycle:
+//  - On page load, check localStorage for `beta-modal-dismissed-v1`.
+//  - If absent, show after 200ms (gentle, not jarring).
+//  - On dismiss (button, Escape, or backdrop click), set the flag.
+//  - The version suffix in the key lets us re-show after major status
+//    changes — bump to v2 in the future.
+import { type Lang, t } from '@/lib/i18n';
+
+export interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+---
+
+<div
+  class="beta-overlay"
+  id="beta-overlay"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="beta-overlay-title"
+  aria-describedby="beta-overlay-body"
+  hidden
+>
+  <div class="beta-overlay__backdrop" data-beta-dismiss></div>
+  <div class="beta-overlay__panel" role="document">
+    <div class="beta-overlay__tag">{t('overlay.tag', lang)}</div>
+    <h2 class="beta-overlay__title" id="beta-overlay-title">
+      {t('overlay.title', lang)}
+    </h2>
+    <div class="beta-overlay__body" id="beta-overlay-body">
+      <p>{t('overlay.body1', lang)}</p>
+      <p>{t('overlay.body2', lang)}</p>
+      <p>{t('overlay.body3', lang)}</p>
+    </div>
+    <div class="beta-overlay__actions">
+      <button
+        type="button"
+        class="beta-overlay__button"
+        data-beta-dismiss
+        autofocus
+      >
+        {t('overlay.button', lang)}
+      </button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .beta-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-4, 24px);
+  }
+
+  .beta-overlay[hidden] {
+    display: none;
+  }
+
+  .beta-overlay__backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+  }
+
+  :global([data-theme='dark']) .beta-overlay__backdrop {
+    background: rgba(0, 0, 0, 0.7);
+  }
+
+  .beta-overlay__panel {
+    position: relative;
+    max-width: 540px;
+    width: 100%;
+    background: var(--color-bg);
+    color: var(--color-text);
+    border: 1px solid var(--color-rule);
+    padding: 32px 36px 28px;
+    box-sizing: border-box;
+  }
+
+  .beta-overlay__tag {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: #DC2626;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #DC2626;
+  }
+
+  .beta-overlay__title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    margin: 0 0 18px 0;
+    color: var(--color-text);
+  }
+
+  .beta-overlay__body {
+    font-size: 13px;
+    line-height: 1.55;
+    color: var(--color-text);
+  }
+
+  .beta-overlay__body p {
+    margin: 0 0 12px 0;
+  }
+
+  .beta-overlay__body p:last-child {
+    margin-bottom: 0;
+  }
+
+  .beta-overlay__actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 22px;
+    padding-top: 18px;
+    border-top: 1px solid var(--color-rule-light);
+  }
+
+  .beta-overlay__button {
+    background: var(--color-text);
+    color: var(--color-bg);
+    border: 1px solid var(--color-text);
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    cursor: pointer;
+    line-height: 1;
+  }
+
+  .beta-overlay__button:hover {
+    background: var(--color-bg);
+    color: var(--color-text);
+  }
+
+  .beta-overlay__button:focus-visible {
+    outline: 2px solid #DC2626;
+    outline-offset: 2px;
+  }
+
+  @media (max-width: 480px) {
+    .beta-overlay__panel {
+      padding: 24px 24px 20px;
+    }
+    .beta-overlay__title {
+      font-size: 19px;
+    }
+  }
+</style>
+
+<script>
+  const STORAGE_KEY = 'beta-modal-dismissed-v1';
+
+  function initBetaOverlay() {
+    const overlay = document.getElementById('beta-overlay');
+    if (!overlay) return;
+
+    let dismissed = false;
+    try {
+      dismissed = localStorage.getItem(STORAGE_KEY) === '1';
+    } catch (_e) {
+      // localStorage may be unavailable (private browsing on some browsers).
+      // In that case, treat the user as not-yet-dismissed and show the
+      // modal each visit — strictly more transparent than hiding it.
+      dismissed = false;
+    }
+
+    if (dismissed) return;
+
+    // Small delay so the page paints first; jumping a modal in immediately
+    // feels jarring on a content site.
+    window.setTimeout(() => {
+      overlay.removeAttribute('hidden');
+      const button = overlay.querySelector<HTMLButtonElement>(
+        '.beta-overlay__button',
+      );
+      if (button) button.focus();
+    }, 200);
+
+    function dismiss() {
+      overlay.setAttribute('hidden', '');
+      try {
+        localStorage.setItem(STORAGE_KEY, '1');
+      } catch (_e) {
+        // Same as above — best effort.
+      }
+      document.removeEventListener('keydown', onKey);
+    }
+
+    function onKey(event: KeyboardEvent) {
+      if (event.key === 'Escape') {
+        dismiss();
+      }
+    }
+
+    overlay.querySelectorAll('[data-beta-dismiss]').forEach((el) => {
+      el.addEventListener('click', dismiss);
+    });
+    document.addEventListener('keydown', onKey);
+  }
+
+  document.addEventListener('astro:page-load', initBetaOverlay);
+  // Initial load (in case the listener is registered after page-load fires)
+  if (document.readyState !== 'loading') {
+    initBetaOverlay();
+  } else {
+    document.addEventListener('DOMContentLoaded', initBetaOverlay);
+  }
+</script>

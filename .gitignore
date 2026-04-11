@@ -38,3 +38,7 @@ scripts/commentary_raw/
 # Botschaft PDFs and raw text extraction (not committed)
 data/botschaften/
 .superpowers/
+
+# Local Word/PDF exports (drafted ad hoc, not part of the project record)
+*.docx
+*.pdf

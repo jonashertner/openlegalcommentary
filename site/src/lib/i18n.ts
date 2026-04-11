@@ -136,6 +136,44 @@ const translations: Record<string, Record<Lang, string>> = {
     en: 'openlegalcommentary is in active development.',
   },
 
+  // Beta first-visit overlay
+  'overlay.tag': {
+    de: 'BETA · IN ENTWICKLUNG',
+    fr: 'BÊTA · EN DÉVELOPPEMENT',
+    it: 'BETA · IN SVILUPPO',
+    en: 'BETA · IN DEVELOPMENT',
+  },
+  'overlay.title': {
+    de: 'Willkommen bei openlegalcommentary',
+    fr: 'Bienvenue sur openlegalcommentary',
+    it: 'Benvenuti su openlegalcommentary',
+    en: 'Welcome to openlegalcommentary',
+  },
+  'overlay.body1': {
+    de: 'Diese Plattform befindet sich in aktiver Entwicklung. Die Inhalte werden täglich von KI-Modellen aus öffentlichen Rechtsquellen erstellt und automatisch auf Qualität geprüft.',
+    fr: "Cette plateforme est en développement actif. Le contenu est généré quotidiennement par des modèles d'IA à partir de sources juridiques publiques et évalué automatiquement pour sa qualité.",
+    it: "Questa piattaforma è in sviluppo attivo. I contenuti sono generati quotidianamente da modelli di IA a partire da fonti giuridiche pubbliche e valutati automaticamente per la qualità.",
+    en: 'This platform is in active development. Content is generated daily by AI models from public legal sources and automatically evaluated for quality.',
+  },
+  'overlay.body2': {
+    de: 'Die Kommentare sind ein Ausgangspunkt für die Recherche — keine abschliessende Rechtsauskunft. Prüfen Sie Aussagen stets gegen die Primärquellen.',
+    fr: 'Ces commentaires sont un point de départ pour la recherche — pas un conseil juridique définitif. Vérifiez toujours les affirmations par rapport aux sources primaires.',
+    it: 'Questi commenti sono un punto di partenza per la ricerca — non una consulenza legale definitiva. Verificate sempre le affermazioni rispetto alle fonti primarie.',
+    en: 'These commentaries are a starting point for research — not definitive legal advice. Always verify statements against primary sources.',
+  },
+  'overlay.body3': {
+    de: 'Wir verbessern die Plattform laufend. Übersetzungen können der deutschen Originalfassung hinterherhinken. Feedback ist willkommen.',
+    fr: "Nous améliorons la plateforme en continu. Les traductions peuvent être en retard sur la version originale allemande. Vos commentaires sont les bienvenus.",
+    it: 'Miglioriamo la piattaforma continuamente. Le traduzioni possono essere in ritardo rispetto alla versione originale tedesca. I vostri commenti sono benvenuti.',
+    en: "We're improving the platform continuously. Translations may lag the German original. Feedback is welcome.",
+  },
+  'overlay.button': {
+    de: 'Verstanden',
+    fr: 'Compris',
+    it: 'Ho capito',
+    en: 'Got it',
+  },
+
   // Language switcher
   'lang.label': { de: 'Sprache', fr: 'Langue', it: 'Lingua', en: 'Language' },
 

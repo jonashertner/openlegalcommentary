@@ -5,6 +5,7 @@ import { type Lang, LANGS, t } from '@/lib/i18n';
 import { BASE, langBase } from '@/lib/base';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import BetaOverlay from '../components/BetaOverlay.astro';
 import '../styles/global.css';
 
 export interface Props {
@@ -91,6 +92,9 @@ const fullTitle = title === 'Home'
     </main>
     <div data-pagefind-ignore>
       <Footer lang={lang} />
+    </div>
+    <div data-pagefind-ignore>
+      <BetaOverlay lang={lang} />
     </div>
   </body>
 </html>
