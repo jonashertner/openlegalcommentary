@@ -2,9 +2,11 @@
 
 Supports two modes:
   1. Single volume PDF: split by article headers
-     uv run python -m scripts.extract_commentary data/or_i_refs.pdf --volume or_i_refs
+     uv run python -m scripts.extract_commentary \\
+         data/or_i_refs.pdf --volume or_i_refs
   2. Per-article PDFs in a directory: one PDF per article
-     uv run python -m scripts.extract_commentary --dir data/commentary_pdfs/ --law BV --source primary
+     uv run python -m scripts.extract_commentary \\
+         --dir data/commentary_pdfs/ --law BV --source primary
 """
 from __future__ import annotations
 

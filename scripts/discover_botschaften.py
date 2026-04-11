@@ -1,4 +1,6 @@
-"""Discover Botschaften (Federal Council messages) for all covered laws via the Swiss Parliament API.
+"""Discover Botschaften (Federal Council messages) for all covered laws.
+
+Queries the Swiss Parliament API to find Federal Council messages per law.
 
 Queries ws-old.parlament.ch, performs BFS over relatedAffairs, and writes a
 registry of found Botschaften to scripts/preparatory_materials/registry.json.
@@ -11,7 +13,7 @@ from __future__ import annotations
 import asyncio
 import json
 import re
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 import httpx
@@ -69,7 +71,7 @@ def _parse_dotnet_date(date_str: str) -> str | None:
     m = re.match(r"^/Date\((-?\d+)([+-]\d{4})?\)/$", date_str)
     if m:
         ms = int(m.group(1))
-        dt = datetime.fromtimestamp(ms / 1000, tz=timezone.utc)
+        dt = datetime.fromtimestamp(ms / 1000, tz=UTC)
         return dt.date().isoformat()
     # ISO 8601 (e.g. "1999-09-01T00:00:00Z")
     iso_m = re.match(r"^(\d{4}-\d{2}-\d{2})", date_str)
