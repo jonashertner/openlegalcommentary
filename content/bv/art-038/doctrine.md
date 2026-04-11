@@ -1,84 +1,85 @@
-# Art. 38 BV
+# Art. 38 BV — Erwerb und Verlust der Bürgerrechte
 
 ## Doktrin
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Art. 38 BV wurde im Rahmen der Totalrevision der Bundesverfassung von 1999 geschaffen und vereint die zuvor auf verschiedene Artikel verteilten Bundeszuständigkeiten im Bürgerrechtsbereich. Die Bestimmung führt die Tradition von Art. 43 und 44 aBV fort, wobei die Formulierung modernisiert und geschlechtsneutral gefasst wurde (BBl 1997 I 270 ff.).
+**N. 1** Art. 38 BV geht zurück auf Art. 44 der Bundesverfassung von 1874 (aBV), der dem Bund die Gesetzgebungskompetenz über Erwerb und Verlust des Schweizer Bürgerrechts zuwies. Die Revision von 1874 normierte erstmals eine zentrale Bundeszuständigkeit, behielt aber den Kantonen und Gemeinden die eigentliche Einbürgerungsentscheidung vor. Diese föderalistische Grundstruktur wurde in die BV 1999 übernommen.
 
-**N. 2** Die bedeutendste Änderung erfolgte durch die Volksabstimmung vom 12. Februar 2017, als Abs. 3 hinzugefügt wurde. Diese Erweiterung verpflichtet den Bund zur erleichterten Einbürgerung von Personen der dritten Ausländergeneration und staatenlosen Kindern (BBl 2014 2883, BBl 2015 769). Der neue Absatz reflektiert die demographische Realität der Schweiz mit einem hohen Anteil an Ausländerinnen und Ausländern in dritter Generation.
+**N. 2** Die Botschaft des Bundesrats zur BV 1999 (BBl 1997 I 1 ff., insb. 159 f.) hob hervor, dass Art. 38 BV gegenüber Art. 44 aBV keinen materiellen Wandel bedeute, sondern die bestehende Kompetenzordnung auf verfassungsrechtlicher Ebene konsolidiere. Art. 38 Abs. 1 BV kodifiziert die ausschliessliche Bundeskompetenz für den Erwerb und Verlust kraft Abstammung, Heirat und Adoption sowie für die Wiedereinbürgerung; Art. 38 Abs. 2 BV beschränkt die Bundeskompetenz bei der ordentlichen Einbürgerung durch die Kantone auf den Erlass von Mindestvorschriften und die Erteilung der Einbürgerungsbewilligung.
+
+**N. 3** Abs. 3 wurde in der Volksabstimmung vom 12. Februar 2017 angenommen und trat am gleichen Tag in Kraft (BB vom 30. September 2016, BRB vom 13. April 2017, AS 2017 2). Dem Verfassungsauftrag lag die Botschaft des Bundesrats vom 4. März 2011 zur Totalrevision des Bürgerrechtsgesetzes (BBl 2011 2825) und ein parlamentarischer Verfassungsänderungsantrag zugrunde, der die Einbürgerungserleichterung für Personen der dritten Ausländergeneration sowie für staatenlose Kinder auf Verfassungsstufe verankerte. Die Botschaft zur Volksabstimmung von 2016 hob hervor, die in der Schweiz aufgewachsenen Nachkommen der zweiten Einwanderergeneration seien faktisch integriert, die formelle Einbürgerung aber unverhältnismässig erschwert (BBl 2016 7097 ff.).
+
+---
 
 ### 2. Systematische Einordnung
 
-**N. 3** Art. 38 BV steht im 2. Titel «Bürgerrecht und politische Rechte» und bildet zusammen mit Art. 37 BV (Bürgerrecht) das verfassungsrechtliche Fundament des schweizerischen Staatsangehörigkeitsrechts. Die Norm ist eine **Kompetenznorm**, die dem Bund umfassende Gesetzgebungsbefugnisse im Bürgerrechtsbereich überträgt.
+**N. 4** Art. 38 BV ist eine Kompetenznorm, keine Grundrechtsnorm. Sie verleiht dem Einzelnen keinen verfassungsrechtlichen Anspruch auf Einbürgerung; dieser kann sich nur auf das einfache Gesetzesrecht — namentlich das Bürgerrechtsgesetz vom 20. Juni 2014 (BüG; SR 141.0) — und auf verfassungsrechtliche Grundrechtsgarantien (Art. 8, 9, 29 BV) berufen (Achermann/von Rütte, BSK BV, Art. 38 N. 3 f.; Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, Rz. 300 ff.).
 
-**N. 4** Systematisch ist Art. 38 BV eng verknüpft mit:
-- → Art. 37 BV (Doppelbürgerschaft und dreistufiger Aufbau des Bürgerrechts)
-- → Art. 5 BV (Rechtsstaatsprinzip, insbesondere bei Einbürgerungsverfahren)
-- → Art. 8 BV (Rechtsgleichheit und Diskriminierungsverbot)
-- → Art. 9 BV (Willkürverbot)
-- → Art. 29 BV (allgemeine Verfahrensgarantien)
-- → Art. 50 BV (Gemeindeautonomie)
+**N. 5** Die Norm steht im Zusammenhang mit Art. 37 BV (↔ Art. 37 BV, dreiteiliges Bürgerrecht: Bundes-, Kantons- und Gemeindebürgerrecht) sowie Art. 39 BV (→ Art. 39 BV, Ausübung der politischen Rechte). Die Aufgabenteilung zwischen Bund, Kantonen und Gemeinden bei der ordentlichen Einbürgerung ist verfassungsrechtlich in Art. 38 Abs. 2 BV verankert und wird einfachgesetzlich im BüG konkretisiert. Die Zulässigkeit kantonaler und kommunaler Anforderungen ist stets an Art. 38 Abs. 2 BV sowie an → Art. 8 und → Art. 9 BV zu messen.
 
-**N. 5** Das System des schweizerischen Bürgerrechts basiert auf dem dreistufigen Prinzip: Gemeinde-, Kantons- und Bundesbürgerrecht sind untrennbar miteinander verbunden (Art. 37 Abs. 1 BV). Diese Verknüpfung prägt die Kompetenzaufteilung bei der ordentlichen Einbürgerung (**BGE 146 I 49** E. 2.1).
+**N. 6** Art. 38 BV enthält keine unmittelbar anwendbare Norm zugunsten Privater, sondern einen Gesetzgebungsauftrag an den Bund. Das Bundesgericht qualifiziert Einbürgerungsentscheide heute nicht mehr als politischen Akt im rechtsfreien Raum, sondern als Hoheitsakte, auf die rechtsstaatliche Grundsätze uneingeschränkt anwendbar sind (**BGE 149 I 91** E. 2.6; Gutzwiller, CR CO/Cst., Art. 38 N. 4).
+
+---
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 6** **Absatz 1** umfasst drei Regelungsbereiche:
-- **Erwerb durch Abstammung** (ius sanguinis): Das Schweizer Bürgerrecht wird primär durch Abstammung von einem schweizerischen Elternteil erworben
-- **Erwerb durch Heirat**: Betrifft heute nur noch die erleichterte Einbürgerung von Ehegatten
-- **Erwerb durch Adoption**: Minderjährige Kinder erwerben das Bürgerrecht bei Adoption durch Schweizer Eltern
+#### 3.1 Abs. 1: Ausschliessliche Bundeskompetenz
 
-**N. 7** Der **Verlust des Bürgerrechts** «aus anderen Gründen» umfasst nach der Lehre (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 38 N 12; Waldmann/Belser/Epiney, BSK BV, Art. 38 N 8):
-- Entlassung auf Gesuch
-- Nichtigerklärung der Einbürgerung
-- Entzug bei Doppelbürgern (unter strengen Voraussetzungen)
+**N. 7** Abs. 1 Satz 1 überträgt dem Bund die ausschliessliche Regelungskompetenz für den Erwerb und Verlust des Bürgerrechts durch Abstammung (*ius sanguinis*), Heirat und Adoption. Die Kompetenz ist abschliessend — die Kantone haben in diesem Bereich keinen Regelungsspielraum. Das geltende BüG vom 20. Juni 2014 konkretisiert diese Bereiche in Art. 1 ff. (Abstammung), Art. 21 ff. (erleichterte Einbürgerung von Ehegatten Schweizer Bürgerinnen und Bürger) sowie Art. 7 f. (Adoption).
 
-**N. 8** **Absatz 2** etabliert ein dualistisches System der ordentlichen Einbürgerung:
-- Der Bund erlässt **Mindestvorschriften** als bundesrechtlicher Rahmen
-- Die Kantone (und Gemeinden) regeln die Einbürgerung im Rahmen dieser Vorgaben
-- Der Bund erteilt die **eidgenössische Einbürgerungsbewilligung** als formeller Akt
+**N. 8** Abs. 1 Satz 2 überträgt dem Bund zusätzlich die Regelungskompetenz für den Verlust des Schweizer Bürgerrechts aus anderen Gründen (namentlich Entlassung und Entzug gemäss Art. 42 ff. BüG) sowie für die Wiedereinbürgerung (Art. 51 ff. BüG). Die Wiedereinbürgerung ist von der ordentlichen Einbürgerung zu unterscheiden: Sie setzt einen früheren Besitz des Schweizer Bürgerrechts voraus.
 
-**N. 9** Die «Mindestvorschriften» müssen nach **BGE 148 I 271** E. 5.2 verhältnismässig sein und dürfen die kantonale Zuständigkeit nicht aushöhlen. Sie umfassen typischerweise Wohnsitzfristen, Integrationskriterien und Verfahrensgarantien.
+#### 3.2 Abs. 2: Mindestvorschriften und Einbürgerungsbewilligung
 
-**N. 10** **Absatz 3** (seit 2017) verpflichtet den Bund zur Schaffung erleichterter Einbürgerungsverfahren für:
-- **Personen der dritten Ausländergeneration**: Enkelkinder von Eingewanderten, deren Eltern bereits in der Schweiz geboren oder aufgewachsen sind
-- **Staatenlose Kinder**: Minderjährige ohne Staatsangehörigkeit
+**N. 9** Abs. 2 enthält eine konkurrierende Gesetzgebungskompetenz: Der Bund erlässt Mindestvorschriften (*prescriptions minimales*) über die Einbürgerung von Ausländerinnen und Ausländern durch die Kantone. Die Verwendung des Begriffs «Mindestvorschriften» bedeutet, dass die Kantone strengere, nicht aber weniger anspruchsvolle Anforderungen stellen dürfen (Achermann/von Rütte, BSK BV, Art. 38 N. 37 f.; Gutzwiller, CR Cst., Art. 38 N. 36 f.; **BGE 148 I 271** E. 4.2; **BGE 138 I 305** E. 1.4.3). Soweit das Bundesrecht Integrationskriterien abschliessend umschreibt, sind kantonale Abweichungen zulasten der Gesuchstellenden verfassungswidrig (**BGE 148 I 271** E. 5.5).
+
+**N. 10** Zusätzlich erteilt der Bund — handelnd durch das Staatssekretariat für Migration (SEM) — die Einbürgerungsbewilligung. Diese eidgenössische Einbürgerungsbewilligung ist Voraussetzung jeder ordentlichen Einbürgerung (Art. 13 BüG). Das SEM prüft die Einhaltung der bundesrechtlichen Mindestvoraussetzungen; bei deren Erfüllung besteht nach der Rechtsprechung kein Ermessensspielraum zur Verweigerung der Bewilligung (**BGE 149 I 91** E. 2.6; **BGE 146 I 49** E. 2.7). Gegen Entscheide des Bundesverwaltungsgerichts über die eidgenössische Einbürgerungsbewilligung steht die Beschwerde in öffentlich-rechtlichen Angelegenheiten an das Bundesgericht offen (**BGE 149 I 91** E. 2.7).
+
+**N. 11** Das Einbürgerungsverfahren ist dreistufig: (1) Überprüfung und Bewilligung durch das SEM auf Bundesebene; (2) Entscheid durch die zuständige kantonale Behörde; (3) Entscheid durch die Gemeinde. Die Aufgabenteilung bedingt, dass keine sachliche Doppelprüfung stattfindet — das SEM konzentriert sich auf die Kriterien der öffentlichen Sicherheit und Ordnung, während Kanton und Gemeinde die lokale Integration beurteilen (**BGE 149 I 91** E. 2.8).
+
+#### 3.3 Abs. 3: Erleichterte Einbürgerung besonderer Personengruppen
+
+**N. 12** Abs. 3 Bst. a verankert einen Verfassungsauftrag zur Erleichterung der Einbürgerung von Personen der dritten Ausländergeneration. Darunter fallen Ausländerinnen und Ausländer, deren Eltern und mindestens ein Grosselternteil bereits in der Schweiz gelebt haben und die selbst in der Schweiz aufgewachsen sind. Die verfassungsrechtliche Verankerung dieser Erleichterung geht auf den Verfassungsänderungsantrag von 2016 zurück und ist im BüG (Art. 24a ff.) einfachgesetzlich konkretisiert.
+
+**N. 13** Abs. 3 Bst. b verpflichtet den Bund zur Erleichterung der Einbürgerung staatenloser Kinder (Kinder ohne Staatsangehörigkeit). Der Hintergrund ist das Internationale Übereinkommen zur Verminderung der Staatenlosigkeit (SR 0.141.12). Die Erleichterung soll verhindern, dass Staatenlosigkeit faktisch perpetuiert wird. Das BüG sieht in Art. 31 eine vereinfachte Einbürgerung staatenloser Kinder vor.
+
+**N. 14** Abs. 3 enthält einen direkten Gesetzgebungsauftrag an den Bund. Er begründet weder einen subjektiven Anspruch auf Einbürgerung noch eine unmittelbar anwendbare Norm; die Umsetzung obliegt dem einfachen Gesetzgeber (Achermann/von Rütte, BSK BV, Art. 38 N. 52 f.).
+
+---
 
 ### 4. Rechtsfolgen
 
-**N. 11** Art. 38 BV begründet eine **umfassende Bundeskompetenz** im Bürgerrechtsbereich. Der Bund hat diese Kompetenz durch das Bürgerrechtsgesetz (BüG) vom 20. Juni 2014 (in Kraft seit 1.1.2018) ausgeübt.
+**N. 15** Die durch Art. 38 BV vermittelte Kompetenzordnung hat folgende Rechtsfolgen: Im Bereich von Abs. 1 ist Bundesrecht ausschliesslich anwendbar; kantonales Recht ist nicht zulässig (→ Art. 49 Abs. 1 BV, Vorrang Bundesrecht). Im Bereich von Abs. 2 gilt Bundesrecht als Mindeststandard; kantonale Anforderungen sind zulässig, sofern sie verfassungskonform sind und die Einbürgerung nicht übermässig erschweren.
 
-**N. 12** Für die **ordentliche Einbürgerung** resultiert aus Abs. 2 eine geteilte Zuständigkeit:
-- Bundesebene: Mindestvorschriften und Erteilung der eidgenössischen Bewilligung
-- Kantone: Konkretisierung der Einbürgerungsvoraussetzungen, soweit sie über die Bundesvorgaben hinausgehen
-- Gemeinden: Entscheid über das Gemeindebürgerrecht im Rahmen ihrer Autonomie (**BGE 146 I 83**)
+**N. 16** Erfüllt eine Person alle bundesrechtlichen und kantonalen Einbürgerungsvoraussetzungen, wäre die Verweigerung der Einbürgerung willkürlich (Art. 9 BV) und verstösst gegen das Rechtsgleichheitsgebot (Art. 8 Abs. 1 BV). Die Rechtslage nähert sich in diesem Fall einer Anspruchssituation an, ohne dass ein formeller Anspruch auf Einbürgerung bestünde (**BGE 146 I 49** E. 2.7; Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, Rz. 300 ff.; Achermann/von Rütte, BSK BV, Art. 38 N. 35).
 
-**N. 13** Die Einbürgerung begründet **keinen subjektiven Rechtsanspruch**. Jedoch besteht ein Anspruch auf willkür- und diskriminierungsfreie Behandlung (**BGE 138 I 305** E. 5.8). Bei Erfüllung aller Voraussetzungen wäre eine Verweigerung willkürlich (**BGE 146 I 49** E. 2.3).
+**N. 17** Integrationsanforderungen müssen insgesamt verhältnismässig und diskriminierungsfrei sein. Die Fokussierung auf ein einziges Kriterium ist unzulässig; erforderlich ist eine Gesamtwürdigung aller massgeblichen Aspekte (**BGE 146 I 49** E. 4.4; **BGE 138 I 242** E. 5.3). Überzogene Sprachkenntnisanforderungen oder die Nichtanerkennung gleichwertiger Sprachnachweise verstosse gegen Art. 38 Abs. 2 BV sowie Art. 9 BV (**BGE 148 I 271** E. 5.11). Diskriminierende Einbürgerungsverweigerungen — etwa aufgrund einer geistigen Behinderung — sind an Art. 8 Abs. 2 BV zu messen; die Diskriminierung kann durch qualifizierte Rechtfertigung überwunden werden, nicht aber durch pauschalen Gruppenausschluss (**BGE 139 I 169** E. 7.3.1).
 
-**N. 14** Die erleichterte Einbürgerung nach Abs. 3 ist eine **reine Bundeskompetenz**. Kantone und Gemeinden haben hier keine Mitsprache, was einen Systembruch zum dreistufigen Bürgerrechtsprinzip darstellt (kritisch: Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, Rz. 3985).
+**N. 18** Die eidgenössische Einbürgerungsbewilligung hat die Rechtsnatur eines anfechtbaren Endentscheids. Verweigert das SEM die Bewilligung, erledigt sich der Rechtsstreit materiell; der Kanton kann ohne Bundesbewilligung nicht einbürgern (**BGE 149 I 91** E. 2.7). Der Entscheid des SEM ist eine individuelle Prüfung und Zuordnung der gesetzlichen Voraussetzungen; eine kollektive Sippenhaftung durch Anrechnung des Gefährdungspotenzials von Familienangehörigen ist unzulässig (**BGE 149 I 91** E. 4.2).
+
+---
 
 ### 5. Streitstände
 
-**N. 15** **Umfang der Gemeindeautonomie**: Umstritten ist, wie weit die Gemeindeautonomie bei der ordentlichen Einbürgerung reicht. Während Tschannen (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 15 N 28) für eine weite Autonomie plädiert, betont Kiener (Kiener/Kälin/Wyttenbach, Grundrechte, 3. Aufl. 2018, § 10 N 15) die Bindung an die Grundrechte.
+**N. 19** **Anspruch auf Einbürgerung:** Kontrovers diskutiert wird, ob bei Erfüllung aller Voraussetzungen ein rechtlicher Anspruch auf Einbürgerung besteht. Das Bundesgericht verneint einen formellen Anspruch, erkennt aber an, dass «kein Ermessen» für eine Verweigerung mehr verbleibt (**BGE 138 I 305** E. 1.4.5; **BGE 146 I 49** E. 2.7). Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, Rz. 300 ff.) bezeichnen die Situation als «Annäherung an eine Anspruchssituation». Achermann/von Rütte (BSK BV, Art. 38 N. 35) schliessen sich dieser Einschätzung an. Gutzwiller (Droit de la nationalité suisse, 2016, S. 39 f.) hebt die damit verbundene Spannung zum klassischen Souveränitätsverständnis hervor, wonach die Einbürgerung einem politischen Hoheitsakt entspricht, der gerichtlicher Kontrolle entzogen sein solle — eine Sicht, die das Bundesgericht ab **BGE 130 I 140** und verstärkt ab **BGE 138 I 305** aufgegeben hat.
 
-**N. 16** **Verhältnis zu Art. 8 EMRK**: Kontrovers diskutiert wird, ob Art. 8 EMRK ein Recht auf Einbürgerung begründen kann. Die herrschende Lehre lehnt dies ab (Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 896; a.M. Thurnherr, ZSR 2018, 5 ff., der in Extremfällen einen Anspruch bejaht).
+**N. 20** **Tragweite der kantonalen Mindestvorschriftenkompetenz:** Strittig ist die Reichweite des Begriffs «weitere Integrationskriterien» im Sinne von Art. 12 Abs. 3 BüG: Achermann/von Rütte (BSK BV, Art. 38 N. 37 f.) und Gutzwiller (CR Cst., Art. 38 N. 36 f.) vertreten, die Kantone dürften die bundesrechtlichen Kriterien konkretisieren, jedoch nicht inhaltlich abändern. Von Rütte (Das neue Bürgerrechtsgesetz und dessen Umsetzung in den Kantonen, Jahrbuch für Migrationsrecht 2017/2018, S. 77) weist darauf hin, dass «weitere» Kriterien additiv zu verstehen seien und keine Modifikation der Bundesvorgaben erlaubten. Das Bundesgericht hat diese Frage in **BGE 148 I 271** E. 4.3 offen gelassen, aber festgehalten, dass kantonale Sprachenanforderungen, die den bundesrechtlichen Nachweis aushebeln, mit dem Vorrang des Bundesrechts (→ Art. 49 BV) in Konflikt geraten können.
 
-**N. 17** **Integrationskriterien**: Die Anforderungen an die Integration sind umstritten. Während Waldmann (BSK BV, Art. 38 N 14) für objektiv messbare Kriterien plädiert, verteidigt Biaggini (BV Kommentar, 2. Aufl. 2017, Art. 38 N 5) den Ermessensspielraum der Einbürgerungsbehörden. Das Bundesgericht hat überspitzte Anforderungen als verfassungswidrig bezeichnet (**BGE 148 I 271**).
+**N. 21** **Gemeindeautonomie vs. Mindestvorschriften:** In der Lehre ist umstritten, wie weit die Gemeindeautonomie (→ Art. 50 Abs. 1 BV) in Einbürgerungssachen reicht. Das Bundesgericht hielt in **BGE 146 I 83** E. 2.3 fest, Gemeinden könnten aus dem Bundesrecht keine eigenständige Autonomie ableiten; deren Handlungsspielraum ergibt sich ausschliesslich aus kantonalem Recht. Raselli (Die Einbürgerung zwischen Politik und Justiz, ZBl 112/2011, S. 578 ff.) betont, die historisch tief verwurzelte kommunale Einbürgerungshoheit bilde einen kulturellen Kern, der auch nach **BGE 130 I 140** nicht vollständig der richterlichen Kontrolle zugeführt worden sei. Uebersax (Das Bundesgericht und das Bürgerrechtsgesetz, BJM 2016, S. 177 ff.) sieht die Entwicklung hingegen konsequent: Mit der Anerkennung des Einbürgerungsentscheids als Hoheitsakt seien die rechtsstaatlichen Garantien vollumfänglich anwendbar.
 
-**N. 18** **Doppelbürgerschaft**: Die automatische Hinnahme der Doppelbürgerschaft seit 1992 wird kritisiert. Schindler (SGK BV, Art. 38 N 18) sieht darin eine Aufweichung des Loyalitätsprinzips, während Kälin (Kälin/Kühler, in: Kaufmann/Krauthammer, Staatsbürgerschaft und Teilhabe, 2020, S. 45) dies als Anpassung an die globale Mobilität verteidigt.
+---
 
 ### 6. Praxishinweise
 
-**N. 19** Bei der **ordentlichen Einbürgerung** ist die dreistufige Prüfung zu beachten:
-1. Erfüllung der bundesrechtlichen Mindestvoraussetzungen (Art. 9–11 BüG)
-2. Erfüllung zusätzlicher kantonaler Voraussetzungen
-3. Zustimmung der Wohngemeinde (Gemeindeautonomie)
+**N. 22** **Dreigliedrige Prüfungsordnung:** Praktikerinnen und Praktiker müssen die dreistufige Kompetenzaufteilung (Bund/SEM, Kanton, Gemeinde) im Verfahren beachten. Der Entscheid über die eidgenössische Einbürgerungsbewilligung (SEM → Bundesverwaltungsgericht → Bundesgericht) und der kantonale Einbürgerungsentscheid (kantonale Rechtsmittelinstanz → Bundesgericht mittels subsidiärer Verfassungsbeschwerde, Art. 113 ff. BGG) sind verfahrensrechtlich eigenständig.
 
-**N. 20** **Verfahrensgarantien**: Das Einbürgerungsverfahren unterliegt den allgemeinen Verfahrensgarantien (→ Art. 29 BV). Insbesondere besteht ein Anspruch auf rechtliches Gehör und eine Begründung bei Ablehnungen (**BGE 149 I 91** E. 4).
+**N. 23** **Integrationsanforderungen:** Integrationsanforderungen sind stets anhand einer Gesamtwürdigung zu beurteilen. Einzelne Mängel — etwa bei geografischen oder kulturellen Kenntnissen — können durch Stärken bei anderen Kriterien ausgeglichen werden (**BGE 146 I 49** E. 4.4). Die Anforderungen dürfen nicht über das hinausgehen, was von einer durchschnittlichen Schweizerin oder einem durchschnittlichen Schweizer mit Wohnsitz in der Gemeinde vernünftigerweise erwartet werden dürfte (**BGE 146 I 49** E. 4.3).
 
-**N. 21** **Rechtsschutz**: Gegen negative Einbürgerungsentscheide stehen die kantonalen Rechtsmittel und letztinstanzlich die Beschwerde ans Bundesgericht offen. Die Kognition ist jedoch auf Willkür und Grundrechtsverletzungen beschränkt (**BGE 138 I 305**).
+**N. 24** **Sprachkenntnisse:** Der Sprachnachweis muss auf einem standardisierten, qualitätsgesicherten Verfahren beruhen. Gleichwertige staatlich anerkannte Nachweise — namentlich genügende gymnasiale Maturanoten in der Lokalsprache — sind als Sprachnachweis anzuerkennen; eine doppelte Validierung durch das SEM ist überspitzt formalistisch (**BGE 148 I 271** E. 5.9–5.11). Lokalsprachliche Anforderungen müssen verhältnismässig sein und das Territorialitätsprinzip des Sprachenrechts respektieren (↔ Art. 70 BV).
 
-**N. 22** **Sprachanforderungen** müssen verhältnismässig und an den konkreten Umständen orientiert sein. Die Nichtanerkennung genügender Schulzeugnisse als Sprachnachweis wurde als überspitzter Formalismus qualifiziert (**BGE 148 I 271** E. 6.4).
+**N. 25** **Sicherheitskriterien:** Das Kriterium der Nichtgefährdung der öffentlichen Sicherheit ist individuell zu prüfen. Allein familiäre Beziehungen zu sicherheitsgefährdenden Personen genügen nicht für eine Einbürgerungsverweigerung; erforderlich ist ein eigener Beitrag oder ein bewusstes, massgebliches Profitieren der gesuchstellenden Person (**BGE 149 I 91** E. 4.2). Internetquellen aus Medienbeiträgen, die im Verfahren als entscheidwesentlich herangezogen werden, sind den Betroffenen vorgängig zur Stellungnahme vorzulegen (→ Art. 29 Abs. 2 BV; **BGE 149 I 91** E. 3.4).
 
-**N. 23** Die **erleichterte Einbürgerung** nach Abs. 3 erfolgt in einem reinen Bundesverfahren beim Staatssekretariat für Migration (SEM). Die materiellen Voraussetzungen sind in Art. 24–26 BüG (dritte Generation) und Art. 23 BüG (Staatenlose) geregelt.
+**N. 26** **Besondere Personengruppen:** Bei der Einbürgerung von Personen mit einer geistigen Behinderung darf mangelnde Urteilsfähigkeit nicht zu einem generellen Ausschluss von der Einbürgerung führen. Massgeblich ist der mutmassliche Wille der betroffenen Person sowie eine Beurteilung der übrigen Einbürgerungsvoraussetzungen, die auf die spezifischen Fähigkeiten der Person zugeschnitten ist (**BGE 139 I 169** E. 7.3.2). Art. 33 f. BüG sieht ausdrücklich die Vertretung Urteilsunfähiger im Einbürgerungsverfahren vor.
+
+**N. 27** **Verfassungsauftrag Abs. 3:** Für die praktische Anwendung der erleichterten Einbürgerung von Personen der dritten Ausländergeneration (Art. 38 Abs. 3 Bst. a BV i.V.m. Art. 24a ff. BüG) ist die Kausalität zwischen dem langjährigen Aufenthalt der Vorgängergenerationen und der Integration der gesuchstellenden Person massgeblich. Der Anspruch auf die erleichterte Einbürgerung ergibt sich allein aus dem BüG; Art. 38 Abs. 3 BV ist als Verfassungsauftrag formuliert und begründet kein subjektives Recht ↔ Art. 37 BV.
