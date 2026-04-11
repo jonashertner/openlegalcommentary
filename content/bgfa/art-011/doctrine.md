@@ -1,0 +1,102 @@
+# Art. 11 BGFA — Berufsbezeichnung
+
+## Doktrin
+
+### 1. Entstehungsgeschichte
+
+**N. 1** Art. 11 BGFA wurde im Rahmen des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte vom 23. Juni 2000 eingeführt und ist seit dem 1. Juni 2002 in Kraft. Die Botschaft vom 28. April 1999 (BBl 1999 6013, insb. 6042 f.) hielt fest, dass die Regelung der Berufsbezeichnung eine unmittelbare Folge des Freizügigkeitssystems des BGFA ist: Weil das Gesetz interkantonale Berufsausübung kraft Registereintrag ermöglicht, musste es zugleich regeln, welche Bezeichnung die Anwältinnen und Anwälte im Geschäftsverkehr verwenden dürfen und welche Angabe gegenüber dem rechtsuchenden Publikum obligatorisch ist. Das Bedürfnis nach einer Regelung ergab sich aus der Vielfalt der in den Kantonen verwendeten Titelbezeichnungen («Rechtsanwalt», «Advokat», «Fürsprech», «Avocat», «Avvocato» usw.), welche die interkantonale Freizügigkeit ohne gemeinsame Klammer erschwert hätten (BBl 1999 6042).
+
+**N. 2** Die Botschaft sprach ausdrücklich von einem Informationsbedürfnis des Publikums: Durch den obligatorischen Hinweis auf den Registereintrag solle das Publikum in die Lage versetzt werden, «die forensisch tätigen Anwälte, die den Berufsregeln des eidgenössischen Anwaltsgesetzes unterstehen, von den übrigen Anwälten, die ebenfalls den Anwaltstitel führen dürfen, zu unterscheiden» (Urteil **2P.159/2005** vom 30. Juni 2006 E. 2.7, mit Bezug auf BBl 1999 6022; Staehelin/Oetiker, in: Fellmann/Zindel [Hrsg.], Kommentar zum Anwaltsgesetz, 1. Aufl. 2005, N. 5 zu Art. 11 BGFA). Der Hinweis auf den Registereintrag gemäss Art. 11 Abs. 2 BGFA bezweckt damit die Transparenz gegenüber dem Publikum über die Unterstellung unter das Berufsrecht des BGFA, nicht die Schaffung eines Titelmonopols für im Register eingetragene Anwältinnen und Anwälte.
+
+**N. 3** Die eidgenössischen Räte lehnten es in der Sommersession 2006 ausdrücklich ab, nicht im Register eingetragenen Patentinhaberinnen und Patentinhabern das Führen des Anwaltstitels generell zu untersagen (AB 2006 N 901 f.; vgl. Urteil **2P.159/2005** vom 30. Juni 2006 E. 2.7). Dies stellt klar, dass Art. 11 Abs. 1 BGFA keinen abschliessenden Titelschutz zugunsten von im Register eingetragenen Anwältinnen und Anwälten begründet, sondern lediglich die Modalitäten der Titelverwendung durch dem BGFA unterstehende Anwältinnen und Anwälte regelt.
+
+---
+
+### 2. Systematische Einordnung
+
+**N. 4** Art. 11 BGFA steht im Ersten Abschnitt des BGFA («Freizügigkeit und Register», Art. 1–11) und bildet dessen Schlussartikel. Die Norm verbindet das Registersystem (→ Art. 5–9 BGFA) mit dem Berufsrecht (→ Art. 12 BGFA): Einerseits setzt Art. 11 Abs. 1 das Vorhandensein eines Anwaltspatents und die Eintragung im kantonalen Register voraus; andererseits schützt die Pflicht zur korrekten Berufsbezeichnung das Publikum, was systematisch zu den Berufsregeln überleitet.
+
+**N. 5** Art. 11 Abs. 2 BGFA steht in engem sachlichem Zusammenhang mit Art. 12 lit. a und lit. d BGFA (Sorgfaltspflicht und Werbebeschränkung). Die Verletzung der Registermitteilungspflicht oder die Verwendung einer irreführenden Berufsbezeichnung wird als Berufsregelverletzung geahndet (↔ Art. 12 lit. a und lit. d BGFA; → Art. 17 BGFA: Disziplinarmassnahmen). Bundesgericht und kantonale Gerichte haben denn auch Art. 11-Verstösse regelmässig unter Art. 12 lit. a und lit. d BGFA gewürdigt (Urteil **2C_985/2021** vom 16. November 2022 E. 4.1 ff.; Urteil **2P.159/2005** E. 2.7; Verwaltungsgericht ZH VB.2020.00534 vom 30. September 2021).
+
+**N. 6** Art. 11 BGFA ist ausschliesslich auf Anwältinnen und Anwälte anwendbar, die dem BGFA unterstehen, d.h. die über ein kantonales Anwaltspatent verfügen und im kantonalen Anwaltsregister eingetragen sind (→ Art. 2 Abs. 1 BGFA). Wer kein Patent mehr besitzt oder darauf verzichtet hat, fällt nicht unter Art. 11 BGFA; für ihn bestimmt sich das Recht zur Titelführung nach kantonalem Recht sowie nach dem wettbewerbsrechtlichen Schutz von Art. 3 Abs. 1 lit. c UWG (Urteil **2C_897/2015** vom 25. Mai 2016 E. 7.3; Urteil **2P.159/2005** E. 2.6 f.).
+
+---
+
+### 3. Tatbestandsmerkmale und Norminhalt
+
+#### 3.1 Art. 11 Abs. 1 — Berufsbezeichnung
+
+**N. 7** **Pflicht zur patentgemässen Bezeichnung.** Anwältinnen und Anwälte, die dem BGFA unterstehen, verwenden die mit dem Anwaltspatent erteilte Berufsbezeichnung oder eine gleichwertige Bezeichnung des Kantons, in dessen Register sie eingetragen sind. Die Norm verpflichtet zur Verwendung derjenigen Bezeichnung, die dem kantonalen Patentrecht entspricht — also «Rechtsanwältin», «Advokat», «Fürsprech», «Avocate», «Avvocato» usw. — oder einer gleichwertigen Bezeichnung des Registerkantons. Eine «gleichwertige Berufsbezeichnung» im Sinne von Art. 11 Abs. 1 liegt vor, wenn diese im Registerkanton gebräuchlich ist und dieselbe berufliche Qualifikation zum Ausdruck bringt wie der im Patent verwendete Titel (Staehelin/Oetiker, in: Fellmann/Zindel [Hrsg.], Kommentar zum Anwaltsgesetz, 1. Aufl. 2005, N. 3 zu Art. 11 BGFA).
+
+**N. 8** **Kein Titelmonopol für Registereingetragene.** Art. 11 Abs. 1 BGFA bewirkt kein abschliessendes Monopol auf Berufsbezeichnungen zugunsten von im Register eingetragenen Anwältinnen und Anwälten. Anwältinnen und Anwälte, die ein kantonales Patent besitzen, aber nicht im Register eingetragen sind (z.B. nicht forensisch tätige Unternehmensjuristen oder Richter), können gestützt auf kantonales Recht und Art. 27 BV ebenfalls den Anwaltstitel führen, sofern sie über ein gültiges Patent verfügen. Das Bundesgericht hielt schon in **BGE 112 Ia 318** (1986) fest, dass ein generelles Verbot des Anwaltstitels für alle nicht in der Anwaltsliste eingetragenen Patentinhaber gegen den Verhältnismässigkeitsgrundsatz verstösst. An dieser Lage hat das BGFA nichts geändert (Urteil **2P.159/2005** E. 2.6 f.).
+
+**N. 9** **Verbot der Titelführung nach Patentverlust.** Wer das Anwaltspatent verloren hat — sei es durch Entzug oder Verzicht — darf den Anwaltstitel nicht mehr führen. Die Titelführung nach Patentverlust verstösst je nach kantonalem Recht gegen das kantonale Anwaltsgesetz und kann nach Art. 3 Abs. 1 lit. c UWG als unlauterer Wettbewerb qualifiziert werden (Urteil **2C_897/2015** E. 7.3; Urteil **2P.159/2005** E. 2.6). Kantonalrechtlich kann die widerrechtliche Titelverwendung zudem übertretungsstrafrechtlich geahndet werden (vgl. dazu Urteil **2C_897/2015** E. 7.3 für den Kanton Luzern: § 25 des Übertretungsstrafgesetzes).
+
+**N. 10** **Irreführende Berufsbezeichnung.** Art. 11 Abs. 1 BGFA verbietet nicht nur die unbefugte Verwendung des Anwaltstitels, sondern auch eine irreführende Verwendung von Berufsbezeichnungen. Das Bundesgericht und das Zürcher Verwaltungsgericht haben in den Fällen des «Rechtsanwalts und öffentlichen Notars» entschieden, dass ein Anwalt, der in mehreren Kantonen tätig ist, die Bezeichnung «Öffentlicher Notar» nicht undifferenziert verwenden darf, wenn er nur in einem dieser Kantone zur Notariatstätigkeit befugt ist; eine solche Verwendung ist gegenüber dem rechtsunkundigen Publikum irreführend (Urteil **2C_985/2021** E. 4.3–4.5; Verwaltungsgericht ZH VB.2020.00534 E. 4.2). Diese Pflicht zur Klarheit der Bezeichnung folgt sowohl aus Art. 11 Abs. 1 BGFA als auch — qualifiziert — aus Art. 12 lit. d BGFA (Werbeverbot für irreführende Angaben).
+
+#### 3.2 Art. 11 Abs. 2 — Hinweis auf Registereintrag im Geschäftsverkehr
+
+**N. 11** **Pflicht zum Registereintragungshinweis.** Im Geschäftsverkehr müssen Anwältinnen und Anwälte ihren Eintrag in einem kantonalen Register angeben. Der Begriff «Geschäftsverkehr» ist weit auszulegen und umfasst Briefköpfe, E-Mail-Signaturen, Homepages, Visitenkarten sowie alle weiteren Kommunikationsmittel, die im professionellen Kontext verwendet werden (Staehelin/Oetiker, Kommentar zum Anwaltsgesetz, 1. Aufl. 2005, N. 4 f. zu Art. 11 BGFA; bestätigt durch Urteil **2C_985/2021** E. 4.3; Zürcher Obergericht KG080012 vom 6. November 2008). Nicht erfasst sind rein private Kommunikation und allgemeine Beratungstätigkeiten ausserhalb der forensischen Berufstätigkeit.
+
+**N. 12** **Inhalt des Hinweises.** Die Angabe muss den konkreten Kanton des Registereintrags erkennen lassen. Es genügt nicht, allgemein auf einen «Registereintrag» hinzuweisen, ohne den Kanton zu nennen; ebenfalls unzulässig ist die Verwendung eines Registerhinweises, wenn tatsächlich kein Eintrag besteht. Das Zürcher Obergericht hat in KG080012 die Verwendung des Vermerks «Eingetragen im Anwaltsregister» auf Briefpapier ohne tatsächlichen Registereintrag als Verletzung von Art. 12 lit. a und lit. d BGFA qualifiziert.
+
+**N. 13** **Zweck des Hinweises.** Der Hinweis auf den Registereintrag soll das Publikum in die Lage versetzen, die forensisch tätigen Anwältinnen und Anwälte, die den Berufsregeln des BGFA unterstehen, von übrigen Titeltragenden zu unterscheiden (BBl 1999 6022; Urteil **2P.159/2005** E. 2.7; Staehelin/Oetiker, Kommentar zum Anwaltsgesetz, 1. Aufl. 2005, N. 5 zu Art. 11 BGFA). Er dient damit dem Konsumentenschutz und der Transparenz des Anwaltsmarkts, nicht der Errichtung eines exklusiven Titelmonopols.
+
+---
+
+### 4. Rechtsfolgen
+
+**N. 14** **Disziplinarrechtliche Sanktionierung.** Die Verletzung von Art. 11 BGFA — insbesondere die irreführende Berufsbezeichnung oder das Fehlen des Registerhinweises im Geschäftsverkehr — wird als Verletzung der Berufsregeln gemäss Art. 12 lit. a (Sorgfaltspflicht) und lit. d (Werbung) BGFA qualifiziert und kann mit Disziplinarmassnahmen nach Art. 17 BGFA geahndet werden (→ Art. 17 BGFA: Verwarnung bis dauerndes Berufsausübungsverbot). Das Bundesgericht hat für den Fall der irreführenden Notariatsbeschriftung eines in zwei Kantonen tätigen Anwalts die Sanktion eines Verweises als verhältnismässig bestätigt (Urteil **2C_985/2021** E. 4.4–4.6).
+
+**N. 15** **Kein Vorsatz erforderlich.** Eine Disziplinarsanktion wegen Verletzung der Berufsbezeichnungsvorschriften setzt keine Absicht voraus. Das Fehlverhalten kann fahrlässig, unbewusst oder durch blosse Unkenntnis der Regel begangen werden (Urteil **2C_985/2021** E. 4.6; vgl. auch **BGE 148 I 1** E. 12.2 betreffend Ärzte, analog angewendet).
+
+**N. 16** **Wettbewerbsrechtliche Flankierung.** Bundesrechtlich ist der Anwaltstitel nicht unmittelbar durch das BGFA geschützt; Art. 11 BGFA enthält keine direkte Strafnorm. Der Schutz vor unrechtmässiger Titelverwendung wird indirekt über Art. 3 Abs. 1 lit. c UWG (unzutreffende Titel oder Berufsbezeichnungen) gewährleistet, bei vorsätzlicher Begehung strafbewehrt nach Art. 23 Abs. 1 UWG (Urteil **2C_897/2015** E. 7.3; Chappuis, La profession d'avocat, Tome I, 2. Aufl. 2016, S. 22). Hinzu tritt das kantonale Recht (kantonale Übertretungsstrafgesetze), das die Titelanmassung pönalisieren kann.
+
+**N. 17** **Eintrag und Löschung aus dem Register.** Art. 11 Abs. 1 BGFA setzt den Registereintrag gemäss Art. 5 ff. BGFA voraus. Die Löschung aus dem Register — z.B. infolge des Wegfalls persönlicher Voraussetzungen nach Art. 9 BGFA — hat zur Folge, dass die gelöschte Person nicht mehr berechtigt ist, im Geschäftsverkehr auf einen Registereintrag hinzuweisen (→ Art. 9 BGFA; Urteil **2C_897/2015** E. 5.2.1). Ob der Patentverlust über den Registereintrag hinaus auch die Berechtigung zur Titelführung aufhebt, beurteilt sich nach kantonalem Recht (vgl. N. 9 oben).
+
+---
+
+### 5. Streitstände
+
+#### 5.1 Titelmonopol oder blosses Transparenzgebot?
+
+**N. 18** Streitig ist, ob Art. 11 Abs. 1 BGFA ein Monopol des Anwaltstitels für Registereingetragene begründet oder lediglich die Modalitäten der Titelverwendung regelt. **Staehelin/Oetiker** (Kommentar zum Anwaltsgesetz, 1. Aufl. 2005, N. 5 zu Art. 11 BGFA) und die Botschaft (BBl 1999 6022) vertreten die Transparenzkonzeption: Art. 11 Abs. 2 BGFA solle einzig das Publikum informieren, nicht einen Titelschutz begründen. Das Bundesgericht hat diese Auffassung in Urteil **2P.159/2005** E. 2.7 ausdrücklich bestätigt: Der Hinweis auf den Registereintrag «bezweckt die unbeschränkte Freizügigkeit der forensisch tätigen Anwälte in der ganzen Schweiz. Hingegen geht es nicht darum, den im Register eingetragenen Anwälten ein Monopol für den Titel zu sichern.» Dies entspricht der älteren Rechtsprechung in **BGE 112 Ia 318**, wonach ein generelles Titelverbot für nicht im Verzeichnis eingetragene Patentinhaber unverhältnismässig ist.
+
+**N. 19** Die Gegenposition — ein de facto-Monopol für Registrierte — lässt sich in der Lehre nicht schlüssig belegen. Zwar könnte aus dem Zusammenspiel von Art. 11 Abs. 1 und dem kantonalen Titelschutzrecht gefolgert werden, dass nur Registereingetragene den Anwaltstitel führen dürfen; jedoch haben die eidgenössischen Räte 2006 eine dahingehende Gesetzesänderung abgelehnt (AB 2006 N 901 f.). **Bohnet/Martenet** (Droit de la profession d'avocat, 2009, N. 578) halten fest, dass das öffentliche Interesse des Konsumentenschutzes beim Titelgebrauch dem privaten Interesse an der Verwendung des Anwaltstitels grundsätzlich vorgeht — ohne daraus jedoch ein generelles Monopol abzuleiten.
+
+#### 5.2 Reichweite von «Geschäftsverkehr» (Art. 11 Abs. 2 BGFA)
+
+**N. 20** Unklar ist die Reichweite des Begriffs «Geschäftsverkehr» in Art. 11 Abs. 2 BGFA. Die Botschaft (BBl 1999 6042) gibt keine abschliessende Definition. **Staehelin/Oetiker** (Kommentar zum Anwaltsgesetz, 1. Aufl. 2005, N. 4 zu Art. 11 BGFA) gehen von einem weiten Begriff aus, der jeden professionellen Auftritt umfasst. Das Bundesgericht hat in Urteil **2C_985/2021** E. 4.3 ohne ausdrückliche Abgrenzung Briefkopf, E-Mail-Signaturen und Homepages dem «Geschäftsverkehr» zugerechnet, wenn diese Werbezwecken dienen. **Fellmann** (Anwaltsrecht, 2. Aufl. 2017, Rz. 563) plädiert für eine an der Werbefunktion orientierte Auslegung: Massgebend sei nicht die physische Form, sondern die Funktion der Kommunikation im professionellen Umfeld. Eine Mindermeinung würde den «Geschäftsverkehr» auf den forensischen Bereich beschränken; diese Position findet in der Praxis keine Stütze.
+
+#### 5.3 Verhältnis von Art. 11 BGFA zu Art. 12 lit. a und d BGFA
+
+**N. 21** Rechtsprechung und Lehre debattieren, ob Art. 11 BGFA eine eigenständige Berufsregel bildet oder ob Verletzungen stets unter Art. 12 BGFA zu subsumieren sind. Das Bundesgericht hat Art. 11-Verstösse konsequent unter Art. 12 lit. a und lit. d BGFA gewürdigt, ohne Art. 11 als eigenständige Disziplinargrundlage anzuführen (Urteil **2C_985/2021** E. 4.1 ff.; Urteil **2P.159/2005** E. 2.7). **Fellmann** (Anwaltsrecht, 2. Aufl. 2017) und **Bohnet/Martenet** (Droit de la profession d'avocat, 2009, N. 1514) behandeln Art. 11 systematisch als Annex zu Art. 12 lit. d BGFA (Werbeverbot), was die bundesgerichtliche Praxis stützt. Art. 11 BGFA hat damit in erster Linie informativen und deklaratorischen Charakter; die Disziplinarwirkung entfaltet sich primär über Art. 12 BGFA.
+
+#### 5.4 Fähigkeitsausweis versus Berufsausübungsbewilligung — Wirkung auf Titelführung
+
+**N. 22** Das Verhältnis zwischen dem Anwaltspatent als Fähigkeitsausweis einerseits und dem Registereintrag als Berufsausübungsbewilligung andererseits ist für Art. 11 BGFA von zentraler Bedeutung. Das Bundesgericht hat in Urteil **2C_897/2015** E. 7.2 ff. für den Kanton Luzern festgehalten, dass das Anwaltspatent dort keine Berufsausübungsbewilligung, sondern eine Feststellungsverfügung über das Vorliegen fachlicher und persönlicher Voraussetzungen darstellt; die eigentliche Berufszulassung erfolgt über den Registereintrag. Dem gegenüber hatte das Bundesgericht in Urteil **2P.159/2005** E. 3.2 das Anwaltspatent traditionell als Polizeibewilligung qualifiziert. Die Konsequenz für Art. 11 BGFA lautet: Die Berechtigung zur Titelführung hängt — mindestens für die forensische Tätigkeit — vom Registereintrag, nicht allein vom Patent ab; für beratend tätige Anwälte mit gültigem Patent kann das kantonale Recht die Titelführung selbständig regeln. **Kettiger** (Jusletter 28. September 2009, S. 4) hatte für eine konsequente Trennung zwischen Fähigkeitsausweis und Berufsausübungsbewilligung plädiert, was eine klarere Regelung der Titelführung ermöglicht hätte; das geltende Recht bleibt insoweit unvollständig.
+
+---
+
+### 6. Praxishinweise
+
+**N. 23** **Briefkopf und digitale Kommunikation.** Anwältinnen und Anwälte müssen auf Briefkopf, E-Mail-Signatur und Homepage sowohl ihre patentgemässe Berufsbezeichnung als auch den Kanton ihres Registereintrags angeben. Eine blosse Angabe «eingetragen im Anwaltsregister» ohne Nennung des Kantons ist unzureichend. Bei Kanzleien mit Standorten in mehreren Kantonen empfiehlt sich eine klare und nach Standort differenzierte Darstellung, welche Tätigkeiten (insbesondere Nebenberufe wie Notariat) wo ausgeübt werden. Unterbleibt diese Klarstellung, droht eine Disziplinarsanktion wegen Verletzung von Art. 12 lit. d BGFA auch ohne Vorsatz (Urteil **2C_985/2021** E. 4.6; Verwaltungsgericht ZH VB.2020.00534 E. 4.2).
+
+**N. 24** **Mehrere Berufsbezeichnungen und Nebenberufe.** Wer neben dem Anwaltsberuf in einem weiteren reglementierten Beruf tätig ist (z.B. Notar, Steuerberater), muss im Auftritt klarstellen, in welchem geografischen oder sachlichen Umfang er zu diesem Nebenberuf berechtigt ist. Eine pauschale Kombination «Rechtsanwalt und Öffentlicher Notar» genügt nicht, wenn die Notariatsbefugnis nur in einem von mehreren Tätigkeitskantonen besteht. Dies gilt unabhängig davon, ob unter einer separaten Rubrik der Homepage ein klärender Hinweis aufgeschaltet ist: Jede Seite und jeder Kommunikationsträger muss für sich verständlich und nicht irreführend sein (Urteil **2C_985/2021** E. 4.5).
+
+**N. 25** **Löschung aus dem Register und Titelführung.** Bei Löschung aus dem Register — z.B. nach Art. 9 BGFA infolge Verlustscheinen — entfällt die Berechtigung, im Geschäftsverkehr auf den Registereintrag hinzuweisen. Ob auch das Führen des Anwaltstitels selbst entfällt, hängt vom kantonalen Recht ab: Bleibt das Anwaltspatent trotz Registerlöschung bestehen, erlaubt es nach Massgabe des kantonalen Rechts möglicherweise weiterhin die Titelführung (vgl. Urteil **2C_897/2015** E. 5.2.1, E. 7.2 f.). Bei Patentsentzug (und nicht nur Registerlöschung) erlischt das Recht zur Titelführung nach dem Recht jenes Kantons, der das Patent erteilt hat; ein Restrecht aus einem allenfalls weiterhin gültigen Patent eines anderen Kantons ist gesondert zu prüfen (vgl. Urteil **2P.159/2005** E. 4.3).
+
+**N. 26** **Werbung und Online-Auftritte.** Internetseiten dienen (auch) Werbezwecken im Sinne von Art. 12 lit. d BGFA, selbst wenn der Anwalt sie primär zur Information nutzt. Angaben zur Berufsbezeichnung auf der Website unterliegen daher dem Irreführungsverbot. Anwältinnen und Anwälte sind gut beraten, beim Relaunch ihrer Website die Konformität des Auftritts mit Art. 11 BGFA und Art. 12 lit. d BGFA durch die Anwaltsaufsicht vorab klären zu lassen oder auf eine transparent differenzierte Darstellung zu achten.
+
+**N. 27** **Verhältnis zu kantonalem Recht und UWG.** Der Schutz des Anwaltstitels erfolgt mehrschichtig: Art. 11 BGFA statuiert die Pflichten für dem BGFA unterstehende Anwältinnen und Anwälte; Art. 3 Abs. 1 lit. c UWG schützt — bundesrechtlich flankierend — vor irreführender Titelverwendung durch Dritte (inkl. nicht patentierte Personen); das kantonale Strafrecht kann die unberechtigte Titelanmassung als Übertretung ahnden. Diese Schichten sind kumulativ anwendbar (Urteil **2C_897/2015** E. 7.3).
+
+---
+
+### Literatur
+
+- Staehelin/Oetiker, in: Fellmann/Zindel (Hrsg.), Kommentar zum Anwaltsgesetz, 1. Aufl. 2005, N. 1–6 zu Art. 11 BGFA
+- Fellmann, Anwaltsrecht, 2. Aufl. 2017, Rz. 563 ff.
+- Bohnet/Martenet, Droit de la profession d'avocat, 2009, N. 576 ff., N. 1514
+- Chappuis, La profession d'avocat, Tome I, 2. Aufl. 2016, S. 22
+- Kettiger, Entzug des Anwaltspatents: Zur Frage der Rechtmässigkeit kantonaler Regelungen des Patententzugs, Jusletter 28. September 2009
+- Botschaft zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte vom 28. April 1999, BBl 1999 6013, insb. 6022 und 6042 f.
