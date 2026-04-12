@@ -356,44 +356,64 @@ def main() -> None:
             break
 
         text = txt_path.read_text(encoding="utf-8")
-        # Truncate very long texts to avoid excessive token usage (~500k chars ≈ 125k tokens)
-        max_chars = 500_000
-        if len(text) > max_chars:
-            print(f"  WARNING: truncating text from {len(text)} to {max_chars} chars")
-            text = text[:max_chars]
 
-        print(f"  Digesting [{bbl_ref}] ({len(text)} chars)...")
-        try:
-            result = digest_botschaft(client, text, bbl_ref, article_numbers, model)
-        except Exception as exc:
-            print(f"  ERROR processing {bbl_ref}: {exc}")
-            continue
+        # Split long texts into chunks to stay within context limits.
+        # ~400k chars ≈ ~100k tokens, safely under the 200k context.
+        chunk_size = 400_000
+        if len(text) <= chunk_size:
+            chunks = [text]
+        else:
+            # Split at page boundaries (marked by [Page N]) to avoid
+            # cutting mid-sentence. Fall back to raw char splits.
+            chunks = []
+            current = ""
+            for line in text.split("\n"):
+                if line.startswith("[Page ") and len(current) >= chunk_size:
+                    chunks.append(current)
+                    current = ""
+                current += line + "\n"
+            if current.strip():
+                chunks.append(current)
+            print(f"  Split into {len(chunks)} chunks ({', '.join(f'{len(c):,}' for c in chunks)} chars)")
 
-        usage = result.pop("usage", {})
-        input_tokens = usage.get("input_tokens", 0)
-        output_tokens = usage.get("output_tokens", 0)
-        cost = estimate_cost(input_tokens, output_tokens)
-        total_cost += cost
+        for chunk_idx, chunk in enumerate(chunks, 1):
+            chunk_label = f"[{bbl_ref} chunk {chunk_idx}/{len(chunks)}]" if len(chunks) > 1 else f"[{bbl_ref}]"
+            print(f"  Digesting {chunk_label} ({len(chunk):,} chars)...")
+            try:
+                result = digest_botschaft(client, chunk, bbl_ref, article_numbers, model)
+            except Exception as exc:
+                print(f"  ERROR processing {chunk_label}: {exc}")
+                continue
 
-        n_articles = len(result.get("articles", {}))
-        print(
-            f"    -> {n_articles} article(s) extracted | "
-            f"{input_tokens}+{output_tokens} tokens | ${cost:.4f} | total: ${total_cost:.4f}"
-        )
+            usage = result.pop("usage", {})
+            input_tokens = usage.get("input_tokens", 0)
+            output_tokens = usage.get("output_tokens", 0)
+            cost = estimate_cost(input_tokens, output_tokens)
+            total_cost += cost
 
-        articles = merge_digests(articles, result, bbl_ref)
+            if total_cost >= max_budget:
+                print(f"Budget limit of ${max_budget:.2f} reached. Stopping.")
+                break
 
-        # Save incrementally after each Botschaft
-        output_data = {
-            "law": law,
-            "sr_number": sr_number,
-            "generated": datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
-            "articles": articles,
-        }
-        output_path.write_text(
-            json.dumps(output_data, ensure_ascii=False, indent=2),
-            encoding="utf-8",
-        )
+            n_articles = len(result.get("articles", {}))
+            print(
+                f"    -> {n_articles} article(s) extracted | "
+                f"{input_tokens}+{output_tokens} tokens | ${cost:.4f} | total: ${total_cost:.4f}"
+            )
+
+            articles = merge_digests(articles, result, bbl_ref)
+
+            # Save incrementally after each chunk
+            output_data = {
+                "law": law,
+                "sr_number": sr_number,
+                "generated": datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                "articles": articles,
+            }
+            output_path.write_text(
+                json.dumps(output_data, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
 
     # Final pass: add parliamentary data
     articles = add_parliamentary_data(articles, law_affairs)
