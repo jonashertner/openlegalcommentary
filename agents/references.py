@@ -166,6 +166,14 @@ PREPARATORY_MATERIALS_ROOT = Path("scripts/preparatory_materials")
 _prep_materials_cache: dict[str, dict] = {}
 
 
+def _load_json_articles(path: Path) -> dict:
+    """Load a JSON file and return its 'articles' dict, or empty dict."""
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text())
+    return data.get("articles", {})
+
+
 def load_preparatory_materials(law: str) -> dict:
     """Load per-article preparatory materials for a law.
 
@@ -184,64 +192,193 @@ def load_preparatory_materials(law: str) -> dict:
     return _prep_materials_cache[law]
 
 
+def load_all_materialien(law: str) -> dict:
+    """Load all Materialien sources for a law into a unified per-article dict.
+
+    Returns ``{article_key: {botschaft: {...}, erlaeuterungsbericht: {...},
+    ab_staenderat: {...}, ab_nationalrat: {...}}}``.  Each sub-key is present
+    only when the corresponding JSON file exists and contains data for that
+    article.
+    """
+    law_lower = law.lower()
+    sources = {
+        "botschaft": _load_json_articles(
+            PREPARATORY_MATERIALS_ROOT / f"{law_lower}.json",
+        ),
+        "erlaeuterungsbericht": _load_json_articles(
+            PREPARATORY_MATERIALS_ROOT / f"{law_lower}_erlaeuterungsbericht.json",
+        ),
+        "ab_staenderat": _load_json_articles(
+            PREPARATORY_MATERIALS_ROOT / f"{law_lower}_ab_staenderat.json",
+        ),
+        "ab_nationalrat": _load_json_articles(
+            PREPARATORY_MATERIALS_ROOT / f"{law_lower}_ab_nationalrat.json",
+        ),
+    }
+
+    # Merge into per-article dict
+    all_keys: set[str] = set()
+    for src_data in sources.values():
+        all_keys.update(src_data.keys())
+
+    merged: dict[str, dict] = {}
+    for key in all_keys:
+        entry: dict = {}
+        for src_name, src_data in sources.items():
+            if key in src_data:
+                entry[src_name] = src_data[key]
+        merged[key] = entry
+
+    return merged
+
+
+def _format_botschaft_source(source: dict) -> list[str]:
+    """Format a single Botschaft source entry."""
+    lines: list[str] = []
+    bbl = source.get("bbl_ref", "?")
+    pages = ", ".join(source.get("bbl_page_refs", []))
+    lines.append(f"**Reference:** {bbl}, pp. {pages}")
+
+    intent = source.get("legislative_intent")
+    if intent:
+        lines.append(f"**Legislative intent:** {intent}")
+
+    for arg in source.get("key_arguments", []):
+        lines.append(f"- {arg}")
+
+    choices = source.get("design_choices", [])
+    if choices:
+        lines.append("**Design choices:**")
+        for c in choices:
+            lines.append(f"- {c}")
+
+    rejected = source.get("rejected_alternatives", [])
+    if rejected:
+        lines.append("**Rejected alternatives:**")
+        for r in rejected:
+            lines.append(f"- {r}")
+
+    return lines
+
+
+def _format_debate_source(source_entry: dict) -> list[str]:
+    """Format a single AB (parliamentary debate) source entry."""
+    lines: list[str] = []
+    for src in source_entry.get("sources", [source_entry]):
+        ref = src.get("reference", "")
+        if ref:
+            lines.append(f"**Reference:** {ref}")
+
+        speakers = src.get("speakers", [])
+        if speakers:
+            for sp in speakers[:8]:
+                name = sp.get("name", "?")
+                stmt = sp.get("statement", "")[:200]
+                role = sp.get("role", "")
+                prefix = f"{name} ({role})" if role else name
+                lines.append(f"- **{prefix}:** {stmt}")
+
+        contested = src.get("contested_points", [])
+        if contested:
+            lines.append("**Contested points:**")
+            for c in contested[:5]:
+                lines.append(f"- {c}")
+
+        quotes = src.get("key_quotes", [])
+        if quotes:
+            lines.append("**Key quotes:**")
+            for q in quotes[:3]:
+                speaker = q.get("speaker", "?")
+                quote = q.get("quote", "")[:250]
+                lines.append(f"- «{quote}» ({speaker})")
+
+        vote = src.get("vote_result", "")
+        if vote:
+            lines.append(f"**Vote result:** {vote}")
+
+    return lines
+
+
 def format_preparatory_materials(
     law: str, article_number: int, suffix: str,
 ) -> str:
-    """Format preparatory materials for prompt injection.
+    """Format all available Materialien for prompt injection.
 
-    Returns empty string if no data available.
+    Loads Botschaft, Erläuterungsbericht, and parliamentary debate data
+    (AB Ständerat + AB Nationalrat) and formats them as a unified block.
+    Returns empty string if no data available for this article.
     """
-    materials = load_preparatory_materials(law)
+    all_mat = load_all_materialien(law)
     key = f"{article_number}{suffix}"
-    article_data = materials.get(key)
-    if not article_data:
-        return ""
+    article_mat = all_mat.get(key)
+    if not article_mat:
+        # Fallback to legacy single-file format
+        materials = load_preparatory_materials(law)
+        article_data = materials.get(key)
+        if not article_data:
+            return ""
+        # Legacy format: just Botschaft sources
+        blocks = ["## Materialien (Legislative History)", ""]
+        blocks.append("### Botschaft")
+        for source in article_data.get("sources", []):
+            blocks.extend(_format_botschaft_source(source))
+            blocks.append("")
+        return "\n".join(blocks)
 
-    blocks = []
-    blocks.append("## Preparatory Materials (Materialien)")
+    blocks: list[str] = []
+    blocks.append("## Materialien (Legislative History)")
     blocks.append("")
 
-    for source in article_data.get("sources", []):
-        bbl = source.get("bbl_ref", "?")
-        pages = ", ".join(source.get("bbl_page_refs", []))
-        blocks.append(f"### {bbl} (pp. {pages})")
+    # 1. Botschaft
+    bot = article_mat.get("botschaft")
+    if bot:
+        blocks.append("### Botschaft (Federal Council Message)")
+        for source in bot.get("sources", [bot]):
+            blocks.extend(_format_botschaft_source(source))
         blocks.append("")
 
-        intent = source.get("legislative_intent")
-        if intent:
-            blocks.append(f"**Legislative intent:** {intent}")
-            blocks.append("")
-
-        for arg in source.get("key_arguments", []):
-            blocks.append(f"- {arg}")
-
-        choices = source.get("design_choices", [])
-        if choices:
-            blocks.append("")
-            blocks.append("**Design choices:**")
-            for c in choices:
-                blocks.append(f"- {c}")
-
-        rejected = source.get("rejected_alternatives", [])
-        if rejected:
-            blocks.append("")
-            blocks.append("**Rejected alternatives:**")
-            for r in rejected:
-                blocks.append(f"- {r}")
-
+    # 2. Erläuterungsbericht
+    erl = article_mat.get("erlaeuterungsbericht")
+    if erl:
+        blocks.append("### Erläuterungsbericht (Explanatory Report, VE 1995)")
+        for source in erl.get("sources", [erl]):
+            blocks.extend(_format_botschaft_source(source))
         blocks.append("")
 
-    mods = article_data.get("parliamentary_modifications", [])
+    # 3. AB Ständerat
+    ab_sr = article_mat.get("ab_staenderat")
+    if ab_sr:
+        blocks.append("### Parlamentarische Beratungen — Ständerat")
+        blocks.extend(_format_debate_source(ab_sr))
+        blocks.append("")
+
+    # 4. AB Nationalrat
+    ab_nr = article_mat.get("ab_nationalrat")
+    if ab_nr:
+        blocks.append("### Parlamentarische Beratungen — Nationalrat")
+        blocks.extend(_format_debate_source(ab_nr))
+        blocks.append("")
+
+    # Parliamentary modifications from the Botschaft data structure
+    bot_data = article_mat.get("botschaft", {})
+    mods = bot_data.get("parliamentary_modifications", [])
     if mods:
-        blocks.append("### Parliamentary Modifications")
+        blocks.append("### Parlamentarische Änderungen (from Botschaft record)")
         for m in mods:
-            blocks.append(f"- {m['council']}, {m['date']}: {m['change']}")
+            council = m.get("council", "")
+            date = m.get("date", "")
+            change = m.get("change", m.get("text", ""))
+            blocks.append(f"- {council}, {date}: {change}")
         blocks.append("")
+
+    if len(blocks) <= 2:
+        return ""
 
     blocks.append(
-        "Use these materials to ground the Entstehungsgeschichte section. "
-        "Cite with exact BBl page references. "
-        "Trace where courts have deviated from or confirmed legislative intent."
+        "Ground the Entstehungsgeschichte in these actual sources. "
+        "Cite BBl page references for the Botschaft. "
+        "Attribute parliamentary statements to named speakers. "
+        "Trace where courts have confirmed or departed from legislative intent."
     )
 
     return "\n".join(blocks)
