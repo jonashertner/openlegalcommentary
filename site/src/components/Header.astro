@@ -32,7 +32,6 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
       <ul id="nav-menu" class="nav-list" role="list">
         <li><a href={langHome(lang)} class:list={[{ active: currentPath === '/' || currentPath === langHome(lang) }]}>{t('nav.laws', lang)}</a></li>
         <li><a href={`${langBase(lang)}/concepts`} class:list={[{ active: currentPath.includes('/concepts') }]}>{t('nav.concepts', lang)}</a></li>
-        <li><a href={`${langBase(lang)}/support`} class:list={[{ active: currentPath.includes('/support') }]}>{t('nav.support', lang)}</a></li>
         <li><a href={`${langBase(lang)}/about`} class:list={[{ active: currentPath.includes('/about') }]}>{t('nav.about', lang)}</a></li>
         <li><a href={`${langBase(lang)}/methodology`} class:list={[{ active: currentPath.includes('/methodology') }]}>{t('nav.methodology', lang)}</a></li>
         <li><a href={`${langBase(lang)}/changelog`} class:list={[{ active: currentPath.includes('/changelog') }]}>{t('nav.changelog', lang)}</a></li>
