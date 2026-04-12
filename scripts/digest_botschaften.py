@@ -112,6 +112,33 @@ def load_article_numbers(law: str) -> list[str]:
     return []
 
 
+def load_article_titles(law: str) -> dict[str, str]:
+    """Load article number → title mapping from meta.yaml files.
+
+    Returns a dict like {"1": "Schweizerische Eidgenossenschaft", "8": "Rechtsgleichheit"}.
+    Used to help Claude map Botschaft sections (which use draft numbering)
+    to the correct final article numbers.
+    """
+    import yaml
+
+    titles: dict[str, str] = {}
+    content_dir = Path("content") / law.lower()
+    if not content_dir.exists():
+        return titles
+    for d in sorted(content_dir.iterdir()):
+        if not d.is_dir() or not d.name.startswith("art-"):
+            continue
+        meta_path = d / "meta.yaml"
+        if not meta_path.exists():
+            continue
+        meta = yaml.safe_load(meta_path.read_text())
+        raw = d.name[4:].lstrip("0") or "0"
+        title = meta.get("title", "")
+        if title:
+            titles[raw] = title
+    return titles
+
+
 def _repair_json(raw: str) -> str:
     """Best-effort repair of common LLM JSON formatting errors.
 
@@ -136,6 +163,7 @@ def digest_botschaft(
     bbl_ref: str,
     article_numbers: list[str],
     model: str = DEFAULT_MODEL,
+    article_titles: dict[str, str] | None = None,
 ) -> dict:
     """Send a Botschaft text to Claude and parse the structured JSON response.
 
@@ -143,10 +171,27 @@ def digest_botschaft(
     Handles JSON code blocks, trailing commas, and truncated output
     (unclosed braces from hitting max_tokens).
     """
-    articles_list = ", ".join(article_numbers[:50]) if article_numbers else "(unknown)"
+    # Build the article list with titles to help Claude map draft numbering
+    # to final article numbers. Without titles, Claude maps Botschaft sections
+    # (which use draft VE 96 numbering) to the wrong final articles.
+    if article_titles:
+        articles_lines = []
+        for num in article_numbers[:80]:
+            title = article_titles.get(num, "")
+            articles_lines.append(f"  Art. {num}: {title}" if title else f"  Art. {num}")
+        articles_str = "\n".join(articles_lines)
+    else:
+        articles_str = ", ".join(article_numbers[:50]) if article_numbers else "(unknown)"
+
     user_prompt = (
-        f"Botschaft reference: {bbl_ref}\n"
-        f"Law article numbers to look for: {articles_list}\n\n"
+        f"Botschaft reference: {bbl_ref}\n\n"
+        f"IMPORTANT: The Botschaft may use DRAFT article numbers that differ "
+        f"from the FINAL law. Use the article TITLES below to match each "
+        f"Botschaft section to the correct FINAL article number. For example, "
+        f"if the Botschaft discusses 'Rechtsgleichheit' under a different "
+        f"article number, map it to the FINAL article that has "
+        f"'Rechtsgleichheit' as its title.\n\n"
+        f"Final law articles to look for:\n{articles_str}\n\n"
         f"--- BEGIN BOTSCHAFT TEXT ---\n{text}\n--- END BOTSCHAFT TEXT ---"
     )
 
@@ -307,9 +352,10 @@ def main() -> None:
 
     print(f"Found {len(botschaften_to_process)} unique Botschaft(en) for {law}.")
 
-    # Load article numbers
+    # Load article numbers and titles
     article_numbers = load_article_numbers(law)
-    print(f"Loaded {len(article_numbers)} article numbers for {law}.")
+    article_titles = load_article_titles(law)
+    print(f"Loaded {len(article_numbers)} article numbers for {law} ({len(article_titles)} with titles).")
 
     # Load existing output if present (for resume)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -380,7 +426,10 @@ def main() -> None:
             chunk_label = f"[{bbl_ref} chunk {chunk_idx}/{len(chunks)}]" if len(chunks) > 1 else f"[{bbl_ref}]"
             print(f"  Digesting {chunk_label} ({len(chunk):,} chars)...")
             try:
-                result = digest_botschaft(client, chunk, bbl_ref, article_numbers, model)
+                result = digest_botschaft(
+                    client, chunk, bbl_ref, article_numbers, model,
+                    article_titles=article_titles,
+                )
             except Exception as exc:
                 print(f"  ERROR processing {chunk_label}: {exc}")
                 continue
