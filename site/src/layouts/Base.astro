@@ -93,8 +93,10 @@ const fullTitle = title === 'Home'
     <div data-pagefind-ignore>
       <Footer lang={lang} />
     </div>
-    <div data-pagefind-ignore>
-      <BetaOverlay lang={lang} />
-    </div>
+    {title === 'Home' && (
+      <div data-pagefind-ignore>
+        <BetaOverlay lang={lang} />
+      </div>
+    )}
   </body>
 </html>
