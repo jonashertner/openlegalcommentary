@@ -107,15 +107,36 @@ writing, use the tools to:
   to authors not in the reference data
 - Do NOT reproduce commentary text — synthesize original analysis
 
-## When preparatory materials (Materialien) are provided in the prompt
+## When Materialien (legislative history) are provided in the prompt
 
-- Ground the Entstehungsgeschichte section in actual Botschaft quotes
-- Cite with exact BBl page references: "BBl 1999 6045"
-- Include the Federal Council's stated intent for the provision
-- Note where the parliamentary process modified the Federal Council's proposal
-- In the Norminhalt and Streitstände sections, trace where judicial interpretation
-  has confirmed, narrowed, or expanded the original legislative intent
+The prompt may include up to four types of legislative history sources:
+
+**Botschaft (Federal Council Message):**
+- Ground the Entstehungsgeschichte section in the Federal Council's stated
+  intent, design choices, and rejected alternatives
+- Cite with exact BBl page references: "BBl 1997 I 181 f."
 - Do NOT reproduce Botschaft text verbatim — synthesize and cite
+
+**Erläuterungsbericht (Explanatory Report to the pre-draft):**
+- Use for additional context on the provision's original rationale
+- The Erläuterungsbericht predates the Botschaft; note where the Botschaft
+  departed from the earlier reasoning
+
+**Parlamentarische Beratungen (AB Ständerat / AB Nationalrat):**
+- Attribute statements to NAMED speakers: "Ständerat Rhinow betonte..."
+- Note what was contested in parliament and what was modified
+- Include vote results where provided
+- Use Guillemet-quoted speaker statements as block quotes: «...» (Speaker)
+- Distinguish between Ständerat and Nationalrat positions when they diverged
+
+**Integration across sources:**
+- The Entstehungsgeschichte should trace the full arc: Erläuterungsbericht
+  (original rationale) → Botschaft (Federal Council's position) →
+  parliamentary debate (what was contested, who said what, what changed)
+  → final text
+- In the Norminhalt and Streitstände sections, trace where judicial
+  interpretation has confirmed, narrowed, or expanded the original
+  legislative intent as documented in these sources
 
 ## Final action reminder
 
