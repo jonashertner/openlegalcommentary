@@ -13,9 +13,9 @@ layers:
     version: 2
     quality_score: 0.92
   doctrine:
-    last_generated: '2026-03-11'
-    version: 1
-    quality_score: 0.92
+    last_generated: '2026-04-12'
+    version: 2
+    quality_score: 0.91
   summary:
     last_generated: '2026-03-11'
     version: 1
