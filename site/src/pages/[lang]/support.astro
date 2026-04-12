@@ -26,7 +26,7 @@ const { lang } = Astro.params as { lang: Lang };
         <h2>{t('support.problem_title', lang)}</h2>
         <p>{t('support.problem_1', lang)}</p>
         <p>{t('support.problem_2', lang)}</p>
-        <p class="support-quote">{t('support.problem_quote', lang)}</p>
+        {t('support.problem_quote', lang) && <p class="support-quote">{t('support.problem_quote', lang)}</p>}
       </section>
 
       <!-- Solution -->
@@ -60,19 +60,19 @@ const { lang } = Astro.params as { lang: Lang };
 
         <div class="budget-impact">
           <div class="budget-item">
-            <div class="budget-amount">CHF 4</div>
+            <div class="budget-amount">CHF 6</div>
             <div class="budget-desc">{t('support.budget_4', lang)}</div>
           </div>
           <div class="budget-item">
-            <div class="budget-amount">CHF 200</div>
+            <div class="budget-amount">CHF 250</div>
             <div class="budget-desc">{t('support.budget_200', lang)}</div>
           </div>
           <div class="budget-item">
-            <div class="budget-amount">CHF 1'000</div>
+            <div class="budget-amount">CHF 1'500</div>
             <div class="budget-desc">{t('support.budget_1000', lang)}</div>
           </div>
           <div class="budget-item">
-            <div class="budget-amount">CHF 21'000</div>
+            <div class="budget-amount">CHF 30'000</div>
             <div class="budget-desc">{t('support.budget_21000', lang)}</div>
           </div>
         </div>
@@ -88,16 +88,16 @@ const { lang } = Astro.params as { lang: Lang };
             </tr>
           </thead>
           <tbody>
-            <tr><td>BV</td><td>233</td><td>CHF 1'000</td><td class="status-progress">In Arbeit</td></tr>
-            <tr><td>BGFA</td><td>38</td><td>CHF 200</td><td class="status-progress">In Arbeit</td></tr>
-            <tr><td>VwVG</td><td>92</td><td>CHF 400</td><td class="status-open">Offen</td></tr>
-            <tr><td>SchKG</td><td>400</td><td>CHF 1'700</td><td class="status-open">Offen</td></tr>
-            <tr><td>ZPO</td><td>426</td><td>CHF 1'800</td><td class="status-open">Offen</td></tr>
-            <tr><td>StGB</td><td>466</td><td>CHF 2'000</td><td class="status-open">Offen</td></tr>
-            <tr><td>StPO</td><td>478</td><td>CHF 2'000</td><td class="status-open">Offen</td></tr>
-            <tr><td>ZGB</td><td>1'126</td><td>CHF 4'800</td><td class="status-open">Offen</td></tr>
-            <tr><td>OR</td><td>1'584</td><td>CHF 6'700</td><td class="status-open">Offen</td></tr>
-            <tr class="total-row"><td><strong>Total</strong></td><td><strong>4'843</strong></td><td><strong>CHF 20'600</strong></td><td></td></tr>
+            <tr><td>BV</td><td>233</td><td>CHF 1'500</td><td class="status-progress">In Arbeit</td></tr>
+            <tr><td>BGFA</td><td>38</td><td>CHF 250</td><td class="status-progress">In Arbeit</td></tr>
+            <tr><td>VwVG</td><td>92</td><td>CHF 600</td><td class="status-open">Offen</td></tr>
+            <tr><td>SchKG</td><td>400</td><td>CHF 2'500</td><td class="status-open">Offen</td></tr>
+            <tr><td>ZPO</td><td>426</td><td>CHF 2'700</td><td class="status-open">Offen</td></tr>
+            <tr><td>StGB</td><td>466</td><td>CHF 3'000</td><td class="status-open">Offen</td></tr>
+            <tr><td>StPO</td><td>478</td><td>CHF 3'000</td><td class="status-open">Offen</td></tr>
+            <tr><td>ZGB</td><td>1'126</td><td>CHF 7'000</td><td class="status-open">Offen</td></tr>
+            <tr><td>OR</td><td>1'584</td><td>CHF 10'000</td><td class="status-open">Offen</td></tr>
+            <tr class="total-row"><td><strong>Total</strong></td><td><strong>4'843</strong></td><td><strong>CHF 30'550</strong></td><td></td></tr>
           </tbody>
         </table>
       </section>
@@ -114,13 +114,13 @@ const { lang } = Astro.params as { lang: Lang };
             </tr>
           </thead>
           <tbody>
-            <tr><td>{t('support.cost_gen', lang)}</td><td>CHF 0.95</td></tr>
-            <tr><td>{t('support.cost_eval', lang)}</td><td>CHF 0.70</td></tr>
-            <tr><td>{t('support.cost_trans', lang)}</td><td>CHF 0.55</td></tr>
-            <tr><td>{t('support.cost_mat', lang)}</td><td>CHF 0.15</td></tr>
-            <tr><td>{t('support.cost_retry', lang)}</td><td>CHF 0.65</td></tr>
-            <tr><td>{t('support.cost_reserve', lang)}</td><td>CHF 0.75</td></tr>
-            <tr class="total-row"><td><strong>Total</strong></td><td><strong>CHF 3.75</strong></td></tr>
+            <tr><td>{t('support.cost_gen', lang)}</td><td>CHF 1.50</td></tr>
+            <tr><td>{t('support.cost_eval', lang)}</td><td>CHF 1.00</td></tr>
+            <tr><td>{t('support.cost_trans', lang)}</td><td>CHF 0.80</td></tr>
+            <tr><td>{t('support.cost_mat', lang)}</td><td>CHF 0.20</td></tr>
+            <tr><td>{t('support.cost_retry', lang)}</td><td>CHF 1.00</td></tr>
+            <tr><td>{t('support.cost_reserve', lang)}</td><td>CHF 1.50</td></tr>
+            <tr class="total-row"><td><strong>Total</strong></td><td><strong>CHF 6.00</strong></td></tr>
           </tbody>
         </table>
       </section>
