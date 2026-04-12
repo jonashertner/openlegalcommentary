@@ -112,6 +112,24 @@ def load_article_numbers(law: str) -> list[str]:
     return []
 
 
+def _repair_json(raw: str) -> str:
+    """Best-effort repair of common LLM JSON formatting errors.
+
+    Handles: trailing commas before ``}`` or ``]``, truncated output
+    (unclosed braces/brackets), and stray control characters.
+    """
+    # Remove trailing commas before closing braces/brackets
+    repaired = re.sub(r",\s*([}\]])", r"\1", raw)
+    # Close any unclosed braces/brackets (truncated output)
+    open_braces = repaired.count("{") - repaired.count("}")
+    open_brackets = repaired.count("[") - repaired.count("]")
+    if open_braces > 0 or open_brackets > 0:
+        # Close innermost structures first
+        repaired += "]" * max(0, open_brackets)
+        repaired += "}" * max(0, open_braces)
+    return repaired
+
+
 def digest_botschaft(
     client: anthropic.Anthropic,
     text: str,
@@ -122,7 +140,8 @@ def digest_botschaft(
     """Send a Botschaft text to Claude and parse the structured JSON response.
 
     Returns a dict with 'articles' and 'general_context' keys.
-    Handles ```json ... ``` code blocks in the response.
+    Handles JSON code blocks, trailing commas, and truncated output
+    (unclosed braces from hitting max_tokens).
     """
     articles_list = ", ".join(article_numbers[:50]) if article_numbers else "(unknown)"
     user_prompt = (
@@ -131,14 +150,14 @@ def digest_botschaft(
         f"--- BEGIN BOTSCHAFT TEXT ---\n{text}\n--- END BOTSCHAFT TEXT ---"
     )
 
-    response = client.messages.create(
+    with client.messages.stream(
         model=model,
-        max_tokens=8192,
+        max_tokens=32768,
         system=DIGEST_SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_prompt}],
-    )
-
-    response_text = response.content[0].text
+    ) as stream:
+        response_text = stream.get_final_text()
+        response = stream.get_final_message()
 
     # Handle ```json ... ``` code blocks
     json_match = re.search(r"```json\s*([\s\S]*?)```", response_text)
@@ -152,7 +171,14 @@ def digest_botschaft(
         else:
             raise ValueError(f"No JSON found in response: {response_text[:200]}")
 
-    data = json.loads(json_str)
+    # First try direct parse
+    try:
+        data = json.loads(json_str)
+    except json.JSONDecodeError:
+        # Attempt repair (trailing commas, unclosed structures)
+        repaired = _repair_json(json_str)
+        data = json.loads(repaired)
+
     return {
         "articles": data.get("articles", {}),
         "general_context": data.get("general_context", {}),
