@@ -1,0 +1,1613 @@
+{
+  "law": "BV",
+  "source": "Erläuterungen zum Verfassungsentwurf 1995",
+  "articles": {
+    "0": {
+      "provisions_discussed": [
+        "Art. 0"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "29"
+          ],
+          "legislative_intent": "Die Präambel soll als feierliche Einleitungsformel den symbolischen und legitimierenden Charakter der Verfassung als staatsbegründende Urkunde unterstreichen, ohne normativen Wert zu haben.",
+          "key_arguments": [
+            "Die Anrufung Gottes ist eine Tradition seit den ersten Bündnissen der alten Eidgenossen und verweist auf eine dem Staat übergeordnete transzendentale Macht.",
+            "Der Hinweis auf die verfassungsgebende Gewalt soll kurz und ohne Pathos gehalten werden.",
+            "Der frühere Hinweis auf den Bundesschluss entfällt, da er im Gegensatz zu 1848 nicht mehr gilt."
+          ],
+          "design_choices": [
+            "Kurze und pathofreie Fassung des Hinweises auf die verfassungsgebende Gewalt.",
+            "Beibehaltung der Gottesanrufung als Tradition.",
+            "Als Alternative wäre die ausführlichere Präambel des Entwurfs 1977 übernehmbar."
+          ],
+          "rejected_alternatives": [
+            "Ausführlichere Erzählung nach dem Vorbild der Präambel des Entwurfs 1977 wurde als Alternative erwogen, aber nicht bevorzugt."
+          ],
+          "general_context": "Die Präambel leitet den gesamten Verfassungstext ein und hat symbolischen, aber keinen normativen Charakter."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "1": {
+      "provisions_discussed": [
+        "Art. 1"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "29",
+            "30"
+          ],
+          "legislative_intent": "Art. 1 VE hält fest, aus welchen Gliedstaaten die Schweizerische Eidgenossenschaft gebildet wird und legt Zahl und Bestand der Kantone verbindlich fest.",
+          "key_arguments": [
+            "Änderungen im Bestand der Kantone können nur im Verfahren der Verfassungsrevision erfolgen.",
+            "Die Reihenfolge der Kantone hat keine rechtliche Bedeutung mehr, wird aber aus Traditionsgründen beibehalten.",
+            "Die gesonderte Aufzählung der Halbkantone in einer Klammer entfällt, da auch sie gleichberechtigte Bundesglieder sind."
+          ],
+          "design_choices": [
+            "Übernahme der bestehenden Reihenfolge der Kantone aus der geltenden BV.",
+            "Keine gesonderte Klammer für Halbkantone; anderes Recht für Halbkantone wird in den betreffenden Bestimmungen ausdrücklich festgehalten.",
+            "Weitere Grundsätze über Veränderungen im Bestand und Gebiet der Kantone werden in Art. 39 VE geregelt."
+          ],
+          "rejected_alternatives": [
+            "Eine andere Reihenfolge der Kantone drängt sich nicht auf."
+          ],
+          "general_context": "Art. 1 entspricht dem geltenden Art. 1 BV und bildet die Grundlage des Bundesstaates im allgemeinen Teil der Verfassung."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "2": {
+      "provisions_discussed": [
+        "Art. 2"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "30",
+            "31"
+          ],
+          "legislative_intent": "Art. 2 VE übernimmt den Zweckartikel in aktualisierter Form und dient dem besseren Verständnis der Bundesverfassung als Auslegungshilfe, ohne kompetenzbegründend zu wirken.",
+          "key_arguments": [
+            "Alle Bundeszwecke haben grundsätzlich das gleiche Gewicht.",
+            "Der Schutz der Grundrechte und Freiheiten hat wegen gewachsener Staatsaufgaben eine geänderte Ausrichtung erhalten.",
+            "Der Umweltschutz wird neu im Zweckartikel ausdrücklich erwähnt, da die Schweiz nur bestehen kann, wenn sie ihre natürlichen Lebensgrundlagen schützt.",
+            "Der Einsatz für eine friedliche und gerechte internationale Ordnung wird als neuer Bundeszweck aufgenommen, da die internationale Verflechtung und gemeinsame Verantwortung gewachsen sind."
+          ],
+          "design_choices": [
+            "Zusammenfassung der zwei erstgenannten Zwecke (Unabhängigkeit nach aussen, Ruhe und Ordnung im Innern) zu 'Unabhängigkeit und Sicherheit des Landes'.",
+            "Explizite Erwähnung des Umweltschutzes als Bundeszweck.",
+            "Explizite Erwähnung des Einsatzes für eine friedliche und gerechte internationale Ordnung.",
+            "Keine kompetenzbegründende oder unmittelbar anwendbare Wirkung."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 2 bildet zusammen mit Art. 1 die allgemeinen Bestimmungen und dient als Auslegungsgrundlage für die gesamte Verfassung."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "3": {
+      "provisions_discussed": [
+        "Art. 3"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "31"
+          ],
+          "legislative_intent": "Art. 3 VE bekräftigt die Eigenstaatlichkeit der Kantone und übernimmt den geltenden Art. 3 BV wörtlich, um Traditionsanschlüsse zu ermöglichen.",
+          "key_arguments": [
+            "In diesem sehr sensiblen Bereich soll der Traditionsanschluss ermöglicht werden.",
+            "Die Bezeichnung der Kantone als 'souveräne' Staaten entspricht zwar nicht mehr der heutigen Verfassungsrechtslehre, die Bezeichnung als Gliedstaaten erscheint jedoch für die Nachführung zu schwach.",
+            "Die Kantone haben das Recht, von Personen auf ihrem Gebiet die Einhaltung der Gesetze zu verlangen (Polizeihoheit)."
+          ],
+          "design_choices": [
+            "Wörtliche Übernahme des geltenden Art. 3 BV trotz Wandels des Souveränitätsbegriffs seit 1848.",
+            "Keine Anpassung an moderne Rechtsterminologie ('Gliedstaaten im Bundesstaat')."
+          ],
+          "rejected_alternatives": [
+            "Verwendung des moderneren Begriffs 'Gliedstaaten im Bundesstaat' wurde erwogen, aber zugunsten des Traditionsanschlusses verworfen."
+          ],
+          "general_context": "Art. 3 bildet zusammen mit Art. 1 und Art. 32 VE das föderalistische Grundgerüst der Verfassung."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "4": {
+      "provisions_discussed": [
+        "Art. 4"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "31",
+            "32",
+            "33"
+          ],
+          "legislative_intent": "Art. 4 VE kodifiziert ungeschriebenes Verfassungsrecht durch die ausdrückliche Verankerung der Grundsätze des staatlichen Handelns (Legalitätsprinzip, öffentliches Interesse, Verhältnismässigkeit, Treu und Glauben) zur umfassenden rechtlichen Absicherung der Rechtsstaatlichkeit.",
+          "key_arguments": [
+            "Der Begriff 'Recht' deckt alle Rechtsnormen ab, unabhängig von ihrem Rang.",
+            "Der Vorrang des Rechts verlangt, dass gültig erlassene Rechtsnormen auch von staatlichen Organen beachtet werden.",
+            "Der Vorbehalt des Rechts verlangt, dass grundsätzlich jede staatliche Tätigkeit auf einer generellen und abstrakten Norm beruht.",
+            "Das Verhältnismässigkeitsprinzip enthält die Elemente der Geeignetheit, Erforderlichkeit und Verhältnismässigkeit im engeren Sinne.",
+            "Der Grundsatz des guten Glaubens wird unter den Grundsätzen staatlichen Handelns aufgeführt, auch wenn er primär als verfassungsmässiges Individualrecht gilt."
+          ],
+          "design_choices": [
+            "Absatz 1 enthält das Legalitätsprinzip im weiten Sinn (Vorrang und Vorbehalt des Rechts).",
+            "Absatz 2 enthält den Grundsatz des öffentlichen Interesses und der Verhältnismässigkeit.",
+            "Absatz 3 enthält den Grundsatz des guten Glaubens.",
+            "Die Bestimmung enthält Grundsätze, keine selbständig anrufbaren verfassungsmässigen Rechte."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 4 VE entspricht im finalen Gesetz Art. 5 (Grundsätze rechtsstaatlichen Handelns) und Art. 9 (Schutz vor Willkür und Wahrung von Treu und Glauben). Die Grundsätze dienen der umfassenden rechtlichen Absicherung der Rechtsstaatlichkeit."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "5": {
+      "provisions_discussed": [
+        "Art. 5"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "33",
+            "34"
+          ],
+          "legislative_intent": "Art. 5 VE (Landessprachen) hält die vier Landessprachen als bedeutsames konstituierendes Element des schweizerischen Bundesstaates fest und erklärt sie als gleichberechtigt.",
+          "key_arguments": [
+            "Die Landessprachen sind ein bedeutsames konstituierendes Element des schweizerischen Bundesstaates.",
+            "Als Landessprachen sind alle vier Sprachen gleichberechtigt, im Unterschied zu ihrer Bedeutung als Amtssprachen des Bundes.",
+            "Die Bestimmung hat den Charakter einer 'politischen Erklärung' und ist im Einleitungsteil besser platziert als in den Organisationsbestimmungen."
+          ],
+          "design_choices": [
+            "Verwendung des Begriffs 'Landessprachen' statt 'Nationalsprachen'.",
+            "Platzierung im Einleitungsteil statt in den Organisationsbestimmungen.",
+            "Dem Rätoromanischen wird in Art. 124 VE (Amtssprachen) ein Sonderstatus zugewiesen."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 5 VE entspricht dem finalen Art. 4 (Landessprachen) und steht in engem Bezug zur Regelung der Amtssprachen sowie zur Sprachenfreiheit."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "7": {
+      "provisions_discussed": [
+        "Art. 7"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "35",
+            "36"
+          ],
+          "legislative_intent": "Art. 7 VE (Rechtsgleichheit) entspricht Art. 4 BV und garantiert die rechtliche Gleichstellung, das Diskriminierungsverbot sowie die Gleichberechtigung von Mann und Frau.",
+          "key_arguments": [
+            "Der Grundsatz der Rechtsgleichheit richtet sich an Gesetzgeber und rechtsanwendende Behörden.",
+            "Das Diskriminierungsverbot beinhaltet, dass keine Tatsache eine unterschiedliche Behandlung rechtfertigt, wenn sie als Beweggrund für Diskriminierung dient.",
+            "Die Gleichberechtigung von Mann und Frau enthält einen Gesetzgebungsauftrag zur tatsächlichen Gleichstellung und einen direkt anwendbaren Anspruch auf gleichen Lohn für gleichwertige Arbeit.",
+            "Förderungsmassnahmen zugunsten diskriminierter Gruppen sind nicht allein deshalb nichtig, weil sie andere Gruppen benachteiligen."
+          ],
+          "design_choices": [
+            "Absatz 1: Recht auf rechtliche Gleichstellung.",
+            "Absatz 2: Diskriminierungsverbot mit beispielhafter Aufzählung unzulässiger Kriterien.",
+            "Absatz 3: Gleichberechtigung von Mann und Frau mit Gesetzgebungsauftrag und direkt anwendbarem Lohngleichheitsgrundsatz.",
+            "Nicht berücksichtigt wurden Kriterien, die seit 1848 an Aktualität eingebüsst haben ('Untertanenverhältnisse, Vorrechte des Orts, der Geburt, der Familie')."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 7 VE entspricht dem finalen Art. 8 (Rechtsgleichheit) und ist eines der zentralen Grundrechte der Verfassung."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "8": {
+      "provisions_discussed": [
+        "Art. 8"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "36",
+            "37"
+          ],
+          "legislative_intent": "Art. 8 VE (Willkürverbot und Treu und Glauben) verankert zwei vom Bundesgericht aus Art. 4 BV abgeleitete Verfassungsrechte als selbständige Grundrechte, die der Einzelne im Verfahren direkt geltend machen kann.",
+          "key_arguments": [
+            "Das Willkürverbot und der Schutz von Treu und Glauben sind Grundsätze staatlichen Handelns mit der Qualität eines selbständigen verfassungsmässigen Rechts.",
+            "Das Willkürverbot soll dem Einzelnen im Verkehr mit Behörden ein Minimum an Gerechtigkeit sichern.",
+            "Der Schutz von Treu und Glauben erlaubt dem Einzelnen von den Behörden zu verlangen, dass sie sich an ihre Zusicherungen halten und widerspruchsfrei handeln."
+          ],
+          "design_choices": [
+            "Aufnahme beider Rechte in den Grundrechtskatalog wegen ihrer Doppelnatur als Grundsätze und selbständige Rechte.",
+            "Das Willkürverbot hat eigenständige Bedeutung vor allem bei der Anwendung kantonalen Rechts."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 8 VE entspricht dem finalen Art. 9 (Schutz vor Willkür und Wahrung von Treu und Glauben)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "9": {
+      "provisions_discussed": [
+        "Art. 9"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "38",
+            "39",
+            "40"
+          ],
+          "legislative_intent": "Art. 9 VE (Recht auf Leben, persönliche Freiheit und menschenwürdiges Dasein) entspricht dem ungeschriebenen Verfassungsrecht der persönlichen Freiheit und verankert zusätzlich das Verbot der Todesstrafe, das Recht auf Existenzminimum und das Verbot der Körperstrafe.",
+          "key_arguments": [
+            "Das Recht auf Leben schützt Beginn und Ende des Lebens sowie körperliche und geistige Funktionen von lebenswichtiger Bedeutung.",
+            "Das Verbot der Todesstrafe gilt in Friedens- und Kriegszeiten ohne Ausnahme.",
+            "Das Recht auf Existenzminimum wird von der Lehre einstimmig bejaht; das Bundesgericht hat sich noch nicht geäussert.",
+            "Absatz 3 gibt Bedürftigen einen individuellen Anspruch auf minimale soziale Hilfe; er berührt die Aufgabenteilung zwischen Bund und Kantonen nicht."
+          ],
+          "design_choices": [
+            "Absatz 1: Recht auf Leben und Verbot der Todesstrafe.",
+            "Absatz 2: Traditionelle Elemente des Rechts auf persönliche Freiheit (physische und psychische Integrität, Bewegungsfreiheit) und Verbot der Folter.",
+            "Absatz 3: Individueller Anspruch auf minimale soziale Hilfe (Existenzminimum).",
+            "Nicht aufgenommen: Art. 65 Abs. 1 BV (Todesstrafe für politische Verbrechen, als obsolet betrachtet), Art. 65 Abs. 2 BV (Körperstrafen) und Art. 59 Abs. 3 BV (Schuldverhaft)."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 9 VE entspricht dem finalen Art. 10 (Recht auf Leben und auf persönliche Freiheit) und Art. 12 (Recht auf Hilfe in Notlagen)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "10": {
+      "provisions_discussed": [
+        "Art. 10"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "40",
+            "41"
+          ],
+          "legislative_intent": "Art. 10 VE (Schutz des Privat- und Familienlebens) verankert die als ungeschriebenes Verfassungsrecht anerkannte Unverletzlichkeit des Privat- und Familienlebens als unabdingbare Voraussetzung zur Entfaltung der menschlichen Persönlichkeit.",
+          "key_arguments": [
+            "Die verschiedenen Aspekte werden in Anlehnung an Art. 8 EMRK zusammengefasst, um Überschneidungen zu vermeiden.",
+            "Privatleben schützt nicht nur in privaten Räumen, sondern auch im Freien und in öffentlichen Räumen.",
+            "Das Datenschutzrecht als Grundrecht gegenüber dem Staat wird erstmals ausdrücklich verankert.",
+            "Das Post- und Fernmeldegeheimnis umfasst auch neue Beförderungsformen und Informationsübermittlungen."
+          ],
+          "design_choices": [
+            "Zusammenfassung mehrerer Grundrechtsaspekte in einer Bestimmung nach dem Vorbild von Art. 8 EMRK.",
+            "Absatz 1: Privatleben und Familienleben, Achtung der Wohnung.",
+            "Absatz 2: Post- und Fernmeldegeheimnis.",
+            "Absatz 3: Datenschutz gegenüber dem Staat als Grundrecht."
+          ],
+          "rejected_alternatives": [
+            "Gesonderte Behandlung der verschiedenen Aspekte als separate Grundrechte wurde zugunsten einer zusammenfassenden Bestimmung verworfen."
+          ],
+          "general_context": "Art. 10 VE entspricht dem finalen Art. 13 (Schutz der Privatsphäre)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "11": {
+      "provisions_discussed": [
+        "Art. 11"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "41",
+            "42"
+          ],
+          "legislative_intent": "Art. 11 VE (Recht auf Ehe) entspricht Art. 54 Abs. 1 BV und garantiert das Recht auf Ehe als unmittelbar justizialbes Individualrecht.",
+          "key_arguments": [
+            "Die Garantie des Rechts auf Ehe schützt die Freiheit, im heiratsfähigen Alter gemäss nationalem Recht zu heiraten.",
+            "Das Grundrecht schützt die klassische, monogame Eheschliessung zwischen Mann und Frau.",
+            "Das Recht auf Eheschliessung umfasst auch den Schutz der Ehe als Institution."
+          ],
+          "design_choices": [
+            "Die Absätze 2, 3 und 5 des Art. 54 BV werden als obsolet nicht aufgenommen, da die Ehehindernisse durch das Bundeszivilrecht vereinheitlicht worden sind.",
+            "Neuredigierung in Übereinstimmung mit Art. 12 EMRK und Art. 23 Abs. 2 Pakt II."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 11 VE entspricht dem finalen Art. 14 (Recht auf Ehe und Familie)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "12": {
+      "provisions_discussed": [
+        "Art. 12"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "42",
+            "43",
+            "44"
+          ],
+          "legislative_intent": "Art. 12 VE (Glaubens- und Gewissensfreiheit) führt Art. 27 Abs. 3, 49 und 50 BV fort und legt das Schwergewicht auf die individualrechtlichen Aspekte der Religionsfreiheit unter Berücksichtigung der neueren bundesgerichtlichen Rechtsprechung.",
+          "key_arguments": [
+            "Die Glaubens- und Gewissensfreiheit schützt alle Religionen und Sekten unabhängig von ihrer zahlenmässigen Bedeutung.",
+            "Die Religionsfreiheit schliesst die konfessionelle Neutralität des Staates ein.",
+            "Der öffentliche Unterricht muss das Prinzip der konfessionellen Neutralität respektieren.",
+            "Der Bistumsartikel (Absatz 4) sollte im Sinne einer Neuerung gestrichen werden, gemäss einer Motion vom 14. Dezember 1972, die von beiden Räten einstimmig überwiesen wurde."
+          ],
+          "design_choices": [
+            "Absatz 1: Allgemeine Gewährleistung der Glaubens- und Gewissensfreiheit.",
+            "Absatz 2: Konkretisierung des Grundsatzes (religiöse Überzeugung, Kultushandlungen, Religionsgemeinschaften).",
+            "Absatz 3: Konfessionelle Neutralität öffentlicher Schulen.",
+            "Absatz 4: Genehmigungspflicht für Bistumsgründungen (mit Hinweis auf mögliche Streichung als Neuerung).",
+            "Nicht weitergeführt werden u.a. Art. 49 Abs. 3 BV (durch ZGB ausgeführt) und Art. 50 Abs. 1 BV."
+          ],
+          "rejected_alternatives": [
+            "Streichung des Bistumsartikels (Absatz 4) wurde als Neuerung in Betracht gezogen, aber nicht als Nachführung umgesetzt."
+          ],
+          "general_context": "Art. 12 VE entspricht dem finalen Art. 15 (Glaubens- und Gewissensfreiheit)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "13": {
+      "provisions_discussed": [
+        "Art. 13"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "44",
+            "45"
+          ],
+          "legislative_intent": "Art. 13 VE fasst die Meinungs- und Informationsfreiheit, die Pressefreiheit (Art. 55 BV) und die Radio- und Fernsehfreiheit in einer Bestimmung zusammen und stellt deren Grundrechtsqualität klar.",
+          "key_arguments": [
+            "Die Medienfreiheit hat Grundrechtsqualität und bindet als solche alle Behörden einschliesslich des Gesetzgebers.",
+            "Das Verbot eines staatlichen Monopols im Bereich Radio und Fernsehen ergibt sich aus der Medienfreiheit.",
+            "Die Vorzensur ist verboten als unumstösslicher Kerngehalt der Presse- und Medienfreiheit.",
+            "Die Unabhängigkeit von Radio und Fernsehen und die Programmautonomie sind nicht nur organisationsrechtliche Grundsätze, sondern haben Grundrechtsqualität."
+          ],
+          "design_choices": [
+            "Absatz 1: Allgemeine Gewährleistung der Meinungs- und Informationsfreiheit.",
+            "Absatz 2: Recht auf freie Meinungsbildung und -äusserung.",
+            "Absatz 3: Recht auf freie Information aus öffentlich zugänglichen Quellen.",
+            "Absatz 4: Medienfreiheit einschliesslich Presse-, Radio- und Fernsehfreiheit sowie Verbot der Vorzensur."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 13 VE entspricht dem finalen Art. 16 (Meinungs- und Informationsfreiheit) und Art. 17 (Medienfreiheit)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "14": {
+      "provisions_discussed": [
+        "Art. 14"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "45",
+            "46"
+          ],
+          "legislative_intent": "Art. 14 VE (Sprachenfreiheit) führt das 1965 vom Bundesgericht als ungeschriebenes Grundrecht anerkannte Recht auf Gebrauch der Muttersprache nach und verwendet eine offene Formulierung, die eine Entwicklung der Rechtsprechung ermöglicht.",
+          "key_arguments": [
+            "Die Sprachenfreiheit garantiert den Gebrauch der Muttersprache und darüber hinaus nach der Lehre den Gebrauch einer Sprache nach freier Wahl.",
+            "Der Umfang der Sprachenfreiheit unterscheidet sich danach, ob es sich um Beziehungen unter Einzelpersonen oder um das Verhältnis des Einzelnen zum Staat handelt.",
+            "Einschränkungen aus dem Territorialitätsprinzip sind möglich, doch soll eine Entwicklung der Rechtsprechung in Richtung der Lehre nicht verbaut werden."
+          ],
+          "design_choices": [
+            "Generelle Formulierung ohne explizite Bezugnahme auf das Territorialitätsprinzip.",
+            "Offenhalten der Rechtsentwicklung in Richtung der Lehre, die eine Diskriminierung sprachlicher Minderheiten ablehnt."
+          ],
+          "rejected_alternatives": [
+            "Eine alternative Formulierung, die die Sprachenfreiheit nur in den Grenzen des Territorialitätsprinzips gewährleistet, würde die Rechtsprechung des Bundesgerichts getreu wiedergeben, hätte aber den Nachteil, jede Entwicklung des Territorialitätsprinzips zu unterbinden."
+          ],
+          "general_context": "Art. 14 VE entspricht dem finalen Art. 18 (Sprachenfreiheit)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "15": {
+      "provisions_discussed": [
+        "Art. 15"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "46",
+            "47"
+          ],
+          "legislative_intent": "Art. 15 VE vereinigt die Freiheit der Kunst und die Freiheit von Lehre und Forschung als kulturelle Grundrechte, die als integrale Bestandteile der Meinungsäusserungsfreiheit anerkannt sind.",
+          "key_arguments": [
+            "Bundesrat und Bundesversammlung vertreten die Auffassung, dass Unterrichtsfreiheit und Lehrfreiheit ungeschriebene Grundrechte sind.",
+            "Die Wissenschaftsfreiheit ist im Bundesgesetz über die Wissenschaft und im ETH-Gesetz ausdrücklich anerkannt.",
+            "Die Kunstfreiheit schützt künstlerische Produktion, Präsentation und das Produkt sowie die Mittler."
+          ],
+          "design_choices": [
+            "Zusammenfassung beider kulturellen Grundrechte in einer Bestimmung.",
+            "Keine eigenständige Qualifikation als ungeschriebenes Verfassungsrecht durch das Bundesgericht, das sie als von der Meinungsfreiheit mitgewährleistet betrachtet."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 15 VE entspricht dem finalen Art. 20 (Wissenschaftsfreiheit) und Art. 21 (Kunstfreiheit)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "16": {
+      "provisions_discussed": [
+        "Art. 16"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "47",
+            "48",
+            "49"
+          ],
+          "legislative_intent": "Art. 16 VE (Versammlungsfreiheit) führt das 1970 vom Bundesgericht als ungeschriebenes Grundrecht anerkannte Recht nach und schützt sowohl politische als auch andere Versammlungen und Demonstrationen.",
+          "key_arguments": [
+            "Die Versammlungsfreiheit macht einen unverzichtbaren Bestandteil des demokratischen politischen Systems aus.",
+            "Demonstrationen und Umzüge sind von der Meinungs- und der Versammlungsfreiheit geschützt.",
+            "Versammlungen auf öffentlichem Grund können einer behördlichen Genehmigung unterworfen werden, da sie einen gesteigerten Gemeingebrauch darstellen."
+          ],
+          "design_choices": [
+            "Absatz 1: Allgemeine Gewährleistung der Versammlungsfreiheit.",
+            "Absatz 2: Konkretisierung (Einberufungsrecht, Freiwilligkeit der Teilnahme).",
+            "Absatz 3: Bewilligungsmöglichkeit für Versammlungen auf öffentlichem Grund ausdrücklich im Verfassungstext."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 16 VE entspricht dem finalen Art. 22 (Versammlungsfreiheit)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "17": {
+      "provisions_discussed": [
+        "Art. 17"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "49",
+            "50"
+          ],
+          "legislative_intent": "Art. 17 VE (Vereinsfreiheit) führt Art. 56 BV in moderner und aussagekräftigerer Fassung nach und umfasst sowohl den positiven als auch den negativen Aspekt der Vereinsfreiheit.",
+          "key_arguments": [
+            "Historisch konzipiert zur Garantie der freien Bildung von Parteien, schützt die Vereinsfreiheit alle dauernden Vereinigungen mit gemeinsamem ideellen Zweck.",
+            "Vereinigungen, die wegen ihrer Zielsetzungen oder Mittel unsittlich oder gefährlich sind, können verboten werden.",
+            "Die Vereinsfreiheit schützt Einzelne gegen den Staat, räumt aber kein Anrecht auf Mitgliedschaft in einem bestimmten Verein ein."
+          ],
+          "design_choices": [
+            "Absatz 1: Allgemeine Gewährleistung der Vereinsfreiheit.",
+            "Absatz 2: Normierung der wichtigsten Aspekte (Gründungsrecht, Mitgliedschaft, Auflösung).",
+            "Mögliche Ergänzung durch Satz über die negative Vereinsfreiheit (Recht, nicht einem Verein angehören zu müssen)."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 17 VE entspricht dem finalen Art. 23 (Vereinigungsfreiheit)."
+        },
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "199",
+            "200"
+          ],
+          "legislative_intent": "Schutz der Medienfreiheit und als Variante Verankerung des Redaktionsgeheimnisses im Grundrechtsteil.",
+          "key_arguments": [
+            "Gesetzgeberischer Handlungsbedarf besteht beim Schutz des Redaktionsgeheimnisses (Medienstrafrecht).",
+            "Die Verankerung des Schutzes des Redaktionsgeheimnisses im Grundrechtsteil bringt eine wünschbare und wichtige Klarstellung."
+          ],
+          "design_choices": [
+            "Als Variante wird ein zusätzlicher Absatz vorgeschlagen: 'Das Redaktionsgeheimnis ist gewährleistet.'",
+            "Auf einen Presseartikel mit Bundeskompetenz zur Presseförderung und zur Regelung des Verhältnisses zwischen Verlegern und Redaktoren wurde verzichtet."
+          ],
+          "rejected_alternatives": [
+            "Ein Presseartikel, der dem Bund Kompetenz für Förderungsmassnahmen zur Pressevielfalt und zur Regelung der inneren Medienfreiheit einräumt, wurde als nicht opportun beurteilt.",
+            "Eine auf Radio und Fernsehen beschränkte Regelung der inneren Medienfreiheit wurde als wenig sinnvoll erachtet."
+          ],
+          "general_context": "Variante zum Grundrechtsteil, Ergänzung von Art. 13 VE (Meinungs-, Informations- und Medienfreiheit) um den Schutz des Redaktionsgeheimnisses."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "18": {
+      "provisions_discussed": [
+        "Art. 18"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "50",
+            "51"
+          ],
+          "legislative_intent": "Art. 18 VE (Niederlassungsfreiheit) entspricht Art. 45 Abs. 1 BV und garantiert Schweizerinnen und Schweizern das Recht, sich an einem beliebigen Ort in der Schweiz niederzulassen.",
+          "key_arguments": [
+            "Die Niederlassungsfreiheit kann weder aus polizeilichen, fürsorgerischen noch fiskalischen Gründen beschränkt werden.",
+            "Ausländerinnen und Ausländer sowie juristische Personen können sich nicht auf Art. 18 berufen.",
+            "Absatz 2 enthält das Recht, die Schweiz zu verlassen und jederzeit wieder zurückzukehren."
+          ],
+          "design_choices": [
+            "Absatz 1: Niederlassungsfreiheit für Schweizerinnen und Schweizer.",
+            "Absatz 2: Recht auf Ausreise und Rückkehr (Auswanderungsrecht)."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 18 VE entspricht dem finalen Art. 24 (Niederlassungsfreiheit)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "19": {
+      "provisions_discussed": [
+        "Art. 19"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "51",
+            "52"
+          ],
+          "legislative_intent": "Art. 19 VE (Schutz vor Ausweisung, Auslieferung und Ausschaffung) fasst das Ausweisungsverbot für Schweizer Bürger und den völkerrechtlich verbindlichen Grundsatz der Nichtrückschiebung bedrohter Personen zusammen.",
+          "key_arguments": [
+            "Das Verbot der Ausweisung von Schweizer Bürgerinnen und Bürgern ergibt sich zwingend aus dem Staatsangehörigkeitsrecht und der Niederlassungsfreiheit.",
+            "Das Nichtrückschiebungsgebot (Non-refoulement) hat zweifelsfrei Verfassungsrang.",
+            "Der Grundsatz soll so abgefasst werden, dass er Entwicklungen des künftigen Völkerrechts nicht ausschliesst."
+          ],
+          "design_choices": [
+            "Absatz 1: Ausweisungsverbot für Personen mit Schweizer Bürgerrecht.",
+            "Absatz 2: Nicht-Rückschiebungsgebot aus EMRK, Flüchtlingsübereinkommen und Rechtshilfegesetz.",
+            "Die Auslieferung strafbarer Schweizer Bürger mit Einverständnis der betroffenen Person bleibt möglich."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 19 VE entspricht dem finalen Art. 25 (Schutz vor Ausweisung, Auslieferung und Ausschaffung)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "20": {
+      "provisions_discussed": [
+        "Art. 20"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "52"
+          ],
+          "legislative_intent": "Art. 20 VE (Eigentumsgarantie) entspricht Art. 22ter BV und gewährleistet die Institutionsgarantie, die Bestandsgarantie und die Wertgarantie des Eigentums.",
+          "key_arguments": [
+            "Die Eigentumsgarantie erfasst Eigentum im sachenrechtlichen Sinne, beschränkte dingliche Rechte, obligatorische Rechte und Immaterialgüterrechte.",
+            "Entschädigungspflichtig sind die formelle und die materielle Enteignung.",
+            "Die Verfassung schreibt 'volle' Entschädigung vor: Der Enteignete soll wirtschaftlich gleichgestellt sein wie vorher."
+          ],
+          "design_choices": [
+            "Art. 22ter Abs. 2 BV (Ermächtigung zur Enteignung) wird nicht weitergeführt, da allgemeine Fragen der Grundrechtsbeschränkung in Art. 30 VE geregelt sind.",
+            "Absatz 1: Institutionsgarantie, Bestandsgarantie und Wertgarantie.",
+            "Absatz 2: Entschädigungspflicht bei Enteignung."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 20 VE entspricht dem finalen Art. 26 (Eigentumsgarantie)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "21": {
+      "provisions_discussed": [
+        "Art. 21"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "52",
+            "53",
+            "54",
+            "55",
+            "56"
+          ],
+          "legislative_intent": "Art. 21 VE (Wirtschaftsfreiheit) führt Art. 31 BV fort und gewährleistet allgemein die Freiheit der privatwirtschaftlichen Tätigkeit sowie den Grundsatz des freien Wettbewerbs.",
+          "key_arguments": [
+            "Der Begriff 'Handels- und Gewerbefreiheit' wird durch 'Wirtschaftsfreiheit' ersetzt, ohne inhaltliche Änderung zu beabsichtigen.",
+            "Der Grundsatz des freien Wettbewerbs untersagt wirtschaftspolitische Massnahmen, die einzelne Gewerbegenossen begünstigen oder das Wirtschaftsleben nach einem festen Plan lenken.",
+            "Die Wirtschaftsfreiheit vermittelt keinen Anspruch auf staatliche Leistungen oder Vergabe öffentlicher Aufträge.",
+            "Die bundesstaatliche Dimension (Geltung im ganzen Umfang der Eidgenossenschaft) wird nicht mehr ausdrücklich hervorgehoben, da selbstverständlich."
+          ],
+          "design_choices": [
+            "Absatz 1: Allgemeine Gewährleistung der Wirtschaftsfreiheit.",
+            "Absatz 2: Hervorhebung von Berufswahlfreiheit, Berufszugangsfreiheit und Berufsausübungsfreiheit.",
+            "Absatz 3: Grundsatz des freien Wettbewerbs.",
+            "Unpersönliche Formulierung, da die Wirtschaftsfreiheit nach neuerer Rechtsprechung auch gewissen Kategorien ausländischer Staatsangehöriger zugutekommt.",
+            "Keine spezielle Regelung der wirtschaftsrechtlichen Regelungsbefugnisse der Kantone, da dies aus Art. 3 bzw. Art. 32 VE folgt."
+          ],
+          "rejected_alternatives": [
+            "Fortführung des Begriffs 'Handels- und Gewerbefreiheit' wurde als redaktionelle Alternative erwogen.",
+            "Begriff 'Grundsatz der Wettbewerbsneutralität' als Alternative zu 'Grundsatz des freien Wettbewerbs' wurde diskutiert."
+          ],
+          "general_context": "Art. 21 VE entspricht dem finalen Art. 27 (Wirtschaftsfreiheit)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "22": {
+      "provisions_discussed": [
+        "Art. 22"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "56",
+            "57"
+          ],
+          "legislative_intent": "Art. 22 VE nennt ausdrücklich und in einer eigenen Bestimmung die Koalitionsfreiheit, die bisher nur im Rahmen der Vereinsfreiheit garantiert war, und verankert auch das Streikrecht und die Aussperrung.",
+          "key_arguments": [
+            "Das Streikrecht ist durch völkerrechtliche Verträge (Pakt I und ILO-Konvention Nr. 87) gewährleistet.",
+            "Ein generelles Verbot des Streiks für die Gesamtheit der öffentlichen Verwaltung scheint mit den völkerrechtlichen Verpflichtungen nicht vereinbar zu sein.",
+            "Einschränkungen des Streikrechts in der öffentlichen Verwaltung müssen durch andere Massnahmen kompensiert werden."
+          ],
+          "design_choices": [
+            "Absatz 1: Verschiedene Aspekte der Koalitionsfreiheit (Gründungsrecht, positive und negative Aspekte der Mitgliedschaft, Freiheit der Gewerkschaft).",
+            "Absatz 2: Streikrecht und Aussperrung als Bestandteile der Koalitionsfreiheit mit Möglichkeit gesetzlicher Einschränkungen."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 22 VE entspricht dem finalen Art. 28 (Koalitionsfreiheit)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "23": {
+      "provisions_discussed": [
+        "Art. 23"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "57",
+            "58"
+          ],
+          "legislative_intent": "Art. 23 VE (Allgemeine Verfahrensgarantien) fasst verschiedene durch die Rechtsprechung zu Art. 4 BV konkretisierte Teilaspekte des Verbots der formellen Rechtsverweigerung in einem Verfassungsartikel zusammen.",
+          "key_arguments": [
+            "Art. 23 VE gewährt allgemeine Verfahrensrechte, die sowohl in Gerichts- als auch in Verwaltungsverfahren anwendbar sind.",
+            "Das Gebot der gleichen und gerechten Behandlung umfasst das Verbot der Rechtsverweigerung, Rechtsverzögerung und des überspitzten Formalismus.",
+            "Der Anspruch auf rechtliches Gehör garantiert Mitwirkungsrechte beim Erlass eines Entscheids.",
+            "Das Recht auf unentgeltliche Rechtspflege besteht grundsätzlich auch in nichtgerichtlichen Verfahren."
+          ],
+          "design_choices": [
+            "Absatz 1: Gebot der gleichen und gerechten Behandlung.",
+            "Absatz 2: Anspruch auf rechtliches Gehör.",
+            "Absatz 3: Unentgeltliche Rechtspflege.",
+            "Grundlage auch in Art. 6 EMRK (fair trial)."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 23 VE entspricht dem finalen Art. 29 (Allgemeine Verfahrensgarantien)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "24": {
+      "provisions_discussed": [
+        "Art. 24"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "58",
+            "59",
+            "60"
+          ],
+          "legislative_intent": "Art. 24 VE (Gerichtliche Verfahren) fasst verschiedene Verfahrensgarantien für gerichtliche Verfahren zusammen, einschliesslich des Anspruchs auf den gesetzlichen Richter, den Wohnsitzrichter und die Öffentlichkeit des Verfahrens.",
+          "key_arguments": [
+            "Die Garantie des unabhängigen und unparteiischen Richters wird ausdrücklich verankert.",
+            "Das Verbot von Ausnahmegerichten ergibt sich aus dem Anspruch auf Beurteilung durch das auf Gesetz beruhende Gericht.",
+            "Der Grundsatz der Öffentlichkeit gerichtlicher Verfahren wird neu in den Verfassungsentwurf aufgenommen.",
+            "Der Grundsatz des Wohnsitzrichters wird beibehalten, aber verschiedene Einschränkungen des geltenden Rechts werden gelockert."
+          ],
+          "design_choices": [
+            "Absatz 1: Anspruch auf das auf Gesetz beruhende, unabhängige und unparteiische Gericht.",
+            "Absatz 2: Garantie des Wohnsitzrichters mit Möglichkeit gesetzlicher Abweichungen (auch zur Erfüllung der Anforderungen aus dem Lugano-Übereinkommen).",
+            "Absatz 3: Öffentlichkeitsgrundsatz für Verhandlung und Urteilsverkündung.",
+            "Verzicht auf Art. 58 Abs. 2 BV (Abschaffung der geistlichen Gerichtsbarkeit) als obsolet."
+          ],
+          "rejected_alternatives": [
+            "Übernahme der internationalen Terminologie ('zivilrechtliche Ansprüche', 'strafrechtliche Anklagen') aus Art. 6 EMRK wurde wegen Einheitlichkeit der Verfassungsterminologie abgelehnt."
+          ],
+          "general_context": "Art. 24 VE entspricht dem finalen Art. 30 (Gerichtliche Verfahren)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "25": {
+      "provisions_discussed": [
+        "Art. 25"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "60",
+            "61"
+          ],
+          "legislative_intent": "Art. 25 VE (Freiheitsentzug) fasst die Verfahrensgarantien zusammen, die einer Person zustehen, welcher die Freiheit entzogen wird, als Konkretisierungen des Anspruchs auf rechtliches Gehör und des Grundrechts der persönlichen Freiheit.",
+          "key_arguments": [
+            "Ein Freiheitsentzug ist nur in den vom Gesetz vorgesehenen Fällen und auf die gesetzlich vorgesehene Weise zulässig.",
+            "Jede Person, der die Freiheit entzogen wird, hat das Recht auf Mitteilung der Gründe und Gelegenheit zur Rechtswahrnehmung.",
+            "Bei Untersuchungshaft besteht das Recht auf unverzügliche Vorführung vor den Richter und auf Beurteilung innert angemessener Frist.",
+            "Jede Person, der die Freiheit entzogen wurde, kann jederzeit ein Gericht anrufen."
+          ],
+          "design_choices": [
+            "Absatz 1: Legalitätserfordernis.",
+            "Absatz 2 Bst. a: Mitteilung und Rechtswahrnehmung (für alle Arten des Freiheitsentzugs).",
+            "Absatz 2 Bst. b: Vorführung vor den Richter und Fristgarantie (nur Untersuchungshaft).",
+            "Absatz 2 Bst. c: Richterliche Überprüfung der Rechtmässigkeit (für alle Arten des Freiheitsentzugs)."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 25 VE entspricht dem finalen Art. 31 (Freiheitsentzug)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "26": {
+      "provisions_discussed": [
+        "Art. 26"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "61",
+            "62"
+          ],
+          "legislative_intent": "Art. 26 VE (Strafverfahren) verankert die minimalen Verfahrensrechte der angeschuldigten Person, insbesondere die Unschuldsvermutung, Verteidigungsrechte und die Rechtsmittelgarantie.",
+          "key_arguments": [
+            "Die besonders empfindlichen Eingriffe des Strafverfahrens in die Rechte der betroffenen Person rechtfertigen besondere Hervorhebung.",
+            "Die Unschuldsvermutung enthält eine Beweislast- und eine Beweiswürdigungsregel.",
+            "Die Rechtsmittelgarantie ergibt sich heute bereits aus Art. 2 des Siebten Zusatzprotokolls zur EMRK und Art. 15 Ziff. 5 Pakt II."
+          ],
+          "design_choices": [
+            "Absatz 1: Unschuldsvermutung.",
+            "Absatz 2: Orientierung über Beschuldigungen und Verteidigungsrechte.",
+            "Absatz 3: Rechtsmittelgarantie mit Ausnahme der Entscheidung durch das höchste Gericht.",
+            "Nur die Ausnahme der Entscheidung durch das höchste Gericht wird genannt (nicht die EMRK-Ausnahmen für Bagatellsachen und nachträgliche Verurteilung, die durch Pakt II gegenstandslos sind)."
+          ],
+          "rejected_alternatives": [
+            "Ersatzlose Streichung der Ausnahme für das höchste Gericht wurde als Neuerung erwogen, würde aber ein erstinstanzliches Bundesstrafgericht voraussetzen."
+          ],
+          "general_context": "Art. 26 VE entspricht dem finalen Art. 32 (Strafverfahren)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "27": {
+      "provisions_discussed": [
+        "Art. 27"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "62",
+            "63"
+          ],
+          "legislative_intent": "Art. 27 VE (Petitionsfreiheit) führt Art. 57 BV nach und definiert die Petitionsfreiheit als Recht, jederzeit der zuständigen Behörde Bittschriften, Vorschläge, Kritik und Beschwerden einzureichen.",
+          "key_arguments": [
+            "Die Behörden sind verpflichtet, von Petitionen Kenntnis zu nehmen und sie gegebenenfalls weiterzuleiten.",
+            "In der Praxis gehen die Behörden weiter, als nur zur Kenntnis zu nehmen.",
+            "Als Neuerung könnte eine Pflicht zur materiellen Behandlung und Beantwortung eingeführt werden."
+          ],
+          "design_choices": [
+            "Satz 1: Definition der Petitionsfreiheit.",
+            "Satz 2: Pflicht der Behörden zur Kenntnisnahme und Weiterleitung."
+          ],
+          "rejected_alternatives": [
+            "Ausdehnung des Petitionsrechts mit Pflicht zur materiellen Behandlung und Antwort wurde als Neuerung erwogen, da das Bundesgericht eine solche Pflicht abgelehnt hat, aber nicht als Nachführung umgesetzt."
+          ],
+          "general_context": "Art. 27 VE entspricht dem finalen Art. 33 (Petitionsrecht)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "28": {
+      "provisions_discussed": [
+        "Art. 28"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "63"
+          ],
+          "legislative_intent": "Art. 28 VE (Wahl- und Abstimmungsfreiheit) verankert das ungeschriebene verfassungsmässige Recht, das das Bundesgericht aus dem von der Bundesverfassung garantierten Stimmrecht ableitet, und stellt die freie Willensbildung und unverfälschte Stimmabgabe sicher.",
+          "key_arguments": [
+            "Ein Abstimmungs- oder Wahlresultat wird nur anerkannt, wenn es Ausdruck der freien und unverfälschten Willensäusserung der Stimmberechtigten ist.",
+            "Die Garantie umfasst das Recht auf geheime Stimmabgabe sowie Pflichten der Behörden bei der Abstimmungsinformation.",
+            "Die Kantone können bei Landsgemeinde und Gemeindeversammlung vom Prinzip der geheimen Stimmabgabe abweichen."
+          ],
+          "design_choices": [
+            "Absatz 1: Allgemeiner Grundsatz.",
+            "Absatz 2 Satz 1: Freie Willensbildung und unverfälschte Stimmabgabe als Säulen.",
+            "Absatz 2 Satz 2: Ausnahme für Landsgemeinde und Gemeindeversammlung."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 28 VE entspricht dem finalen Art. 34 (Politische Rechte)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "29": {
+      "provisions_discussed": [
+        "Art. 29"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "64"
+          ],
+          "legislative_intent": "Art. 29 VE (Wirkungen der Grundrechte) normiert Prinzipien des ungeschriebenen Verfassungsrechts über die defensive und positive Funktion der Grundrechte sowie über ihre Adressaten.",
+          "key_arguments": [
+            "Grundrechte haben eine defensive Funktion (Beschränkung staatlicher Zugriffe) und eine positive Funktion (Verpflichtung des Staates zum Handeln).",
+            "Destinatäre der Grundrechte sind alle Behörden aller öffentlichen Gemeinwesen und wer sonst eine staatliche Aufgabe wahrnimmt.",
+            "Privatpersonen sind grundsätzlich nicht in derselben Weise an die Grundrechte gebunden (Horizontalwirkung)."
+          ],
+          "design_choices": [
+            "Absatz 1: Verfassungsrechtlicher Auftrag zur effektiven Verwirklichung der Grundrechte.",
+            "Absatz 2: Bestimmung der Destinatäre der Grundrechte.",
+            "Ausnahmsweise direkte Anwendung auf Private, wo die Verfassung es vorsieht (z.B. Lohngleichheit)."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 29 VE entspricht dem finalen Art. 35 (Verwirklichung der Grundrechte)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "30": {
+      "provisions_discussed": [
+        "Art. 30"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "64",
+            "65",
+            "66"
+          ],
+          "legislative_intent": "Art. 30 VE (Schranken der Grundrechte) normiert in einer eigenen Bestimmung die allgemeinen Voraussetzungen für zulässige Grundrechtseingriffe (gesetzliche Grundlage, öffentliches Interesse, Verhältnismässigkeit, Kerngehalt).",
+          "key_arguments": [
+            "Ein Grundrechtseingriff ist zulässig, wenn er vier Bedingungen erfüllt: kein Eingriff in den Kerngehalt, gesetzliche Grundlage, öffentliches Interesse, Verhältnismässigkeit.",
+            "Statt bei jedem Grundrecht die Eingriffsordnung zu nennen, wird ihr eine eigene Bestimmung gewidmet.",
+            "Bei schweren Eingriffen muss die Grundlage zwingend im formellen Gesetz enthalten sein.",
+            "Der Kerngehalt eines Grundrechts darf nie tangiert werden."
+          ],
+          "design_choices": [
+            "Absatz 1: Allgemeine Voraussetzungen (gesetzliche Grundlage, öffentliches Interesse oder Grundrechte Dritter, Verhältnismässigkeit).",
+            "Absatz 2: Strengere Anforderungen an die gesetzliche Grundlage bei schweren Eingriffen; polizeiliche Generalklausel vorbehalten.",
+            "Absatz 3: Verbot der Verletzung des Kerngehalts.",
+            "Im allgemeinen wird der Kerngehalt der einzelnen Grundrechte nicht im Verfassungstext festgelegt, sondern der Rechtsprechung überlassen."
+          ],
+          "rejected_alternatives": [
+            "Normierung der Eingriffsordnung bei jedem einzelnen Grundrecht nach dem Vorbild der EMRK wurde zugunsten einer eigenständigen Bestimmung verworfen."
+          ],
+          "general_context": "Art. 30 VE entspricht dem finalen Art. 36 (Einschränkungen von Grundrechten)."
+        },
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "294",
+            "295"
+          ],
+          "legislative_intent": "Sicherstellung, dass kantonale Gerichte als richterliche Vorinstanzen im Bereich des Zivil-, Straf- und öffentlichen Rechts zur Verfügung stehen und damit der Grundsatz der richterlichen Vorinstanz vor dem Bundesgericht verwirklicht wird.",
+          "key_arguments": [
+            "Kantone müssen richterliche Behörden für zivilrechtliche, strafrechtliche und öffentlichrechtliche Streitigkeiten bereitstellen",
+            "Verfassungsrechtliche Grundlage für bundesrechtliche Einbrüche in die Organisationsautonomie der Kantone im Bereich der Verwaltungsgerichtsbarkeit notwendig",
+            "Bereinigung einer in der Literatur teilweise als verfassungswidrig bezeichneten Situation beim Vollzug von Bundesverwaltungsrecht durch Kantone",
+            "Entlastung des Bundesgerichts durch obligatorische kantonale Vorinstanzen"
+          ],
+          "design_choices": [
+            "Buchstabe a (Zivil- und Strafsachen) hat reine Informationsfunktion",
+            "Buchstabe b (öffentlichrechtliche Streitigkeiten) schafft Verfassungsgrundlage für bundesrechtliche Einbriffe in die kantonale Organisationsautonomie",
+            "Ausnahmen von der richterlichen Vorinstanzpflicht werden durch die Rechtsweggarantie (Art. 167) geregelt"
+          ],
+          "rejected_alternatives": [
+            "Keine explizite Verfassungsregelung der kantonalen Gerichtsinstanzen"
+          ],
+          "general_context": "Draft Art. 166 (Richterliche Behörden der Kantone) stellt sicher, dass das Prinzip der richterlichen Vorinstanz auch auf kantonaler Ebene verwirklicht wird und entspricht dem finalen Art. 30 BV über gerichtliche Verfahren."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "31": {
+      "provisions_discussed": [
+        "Art. 31"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "66",
+            "67"
+          ],
+          "legislative_intent": "Art. 31 VE (Sozialziele) stellt formell eine Neuerung dar, da die geltende Verfassung keine Sozialziele als solche nennt; er ergänzt die traditionellen Grundrechte durch nicht-justiziable Sozialziele als Impulse an den Gesetzgeber.",
+          "key_arguments": [
+            "Sozialziele erzeugen keine justiziablen Individualansprüche, sondern stellen Impulse an den Gesetzgeber dar.",
+            "Die Schweiz hat sich mit der Ratifikation des Pakts I verpflichtet, Rechte auf Arbeit, soziale Sicherheit, Gesundheit und Bildung anzuerkennen.",
+            "Justiziable Ansprüche können nur aufgrund von Gesetzen entstehen, die die verfassungsrechtlichen Ziele konkretisieren.",
+            "Die Sozialziele müssen im Rahmen der verfügbaren Mittel und in Ergänzung zur privaten Initiative und Verantwortung verfolgt werden."
+          ],
+          "design_choices": [
+            "Klare Unterscheidung zwischen traditionellen Grundrechten und Sozialzielen.",
+            "Keine direkte Anwendbarkeit der Sozialziele.",
+            "Art. 31 VE lässt die Frage der Aufgabenteilung zwischen Bund und Kantonen offen (geregelt in Art. 88 ff. VE)."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 31 VE entspricht dem finalen Art. 41 (Sozialziele)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "37": {
+      "provisions_discussed": [
+        "Art. 37"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "72",
+            "73"
+          ],
+          "legislative_intent": "Art. 37 VE (Verfassungsmässige Ordnung und Gebiet) führt Art. 5 und 16 BV nach und gewährleistet Gebiet, Hoheitsgewalt und die in den Kantonsverfassungen verankerten Individualrechte.",
+          "key_arguments": [
+            "Ziel ist es, die im kantonalen Recht verankerten Individualrechte gegenüber dem Staat zu schützen.",
+            "Die Bundesintervention bezweckt die Wiederherstellung der gestörten öffentlichen Ordnung in einem Kanton.",
+            "Der Bund ist berechtigt, von sich aus zu intervenieren, wenn die Ordnung gestört oder unmittelbar bedroht ist."
+          ],
+          "design_choices": [
+            "Verzicht auf das Instrument der Mahnung durch andere Kantone, da es zu Missverständnissen Anlass gibt.",
+            "Die grundsätzliche Pflicht, Grundrechte auch im Interventionsfall zu beachten, wird als in den Grundrechtsbestimmungen enthalten betrachtet.",
+            "Als Neuerung könnte die Kostentragung grundsätzlich dem Bund auferlegt werden."
+          ],
+          "rejected_alternatives": [
+            "Mahnung durch andere Kantone als Voraussetzung der Bundesintervention wurde zugunsten einer direkten Interventionsbefugnis des Bundes aufgegeben."
+          ],
+          "general_context": "Art. 37 VE entspricht dem finalen Art. 52 (Verfassungsmässige Ordnung)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "38": {
+      "provisions_discussed": [
+        "Art. 38"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "73",
+            "74"
+          ],
+          "legislative_intent": "Art. 38 VE (Kantonsverfassungen) entspricht Art. 6 BV und umschreibt die materiellen Voraussetzungen, die kantonale Verfassungen für die Erteilung der Gewährleistung durch den Bund erfüllen müssen.",
+          "key_arguments": [
+            "Kantonsverfassungen müssen demokratischen Grundsätzen entsprechen (gewähltes Parlament, Gewaltenteilung, obligatorische Volksabstimmung, Verfassungsinitiative).",
+            "Die Wirkung der Gewährleistung ist deklaratorisch.",
+            "Die Gewährleistung kann unter Vorbehalt erteilt werden."
+          ],
+          "design_choices": [
+            "Absatz 1: Materielle Voraussetzungen für die Gewährleistung.",
+            "Absatz 2: Pflicht zur Einholung der Gewährleistung; Verbot des Widerspruchs zum Bundesrecht.",
+            "Als redaktionelle Alternative könnte Absatz 2 vereinfacht werden: 'Der Bund gewährleistet die Verfassungen der Kantone'."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 38 VE entspricht dem finalen Art. 51 (Kantonsverfassungen)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "39": {
+      "provisions_discussed": [
+        "Art. 39"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "74",
+            "75"
+          ],
+          "legislative_intent": "Art. 39 VE kodifiziert weitgehend ungeschriebenes Verfassungsrecht über Änderungen im Bestand und im Gebiet der Kantone und verlangt die Zustimmung der betroffenen Bevölkerung, der betroffenen Kantone sowie von Volk und Ständen.",
+          "key_arguments": [
+            "Die Schaffung oder Aufhebung von Kantonen bedingt zwingend eine Verfassungsänderung.",
+            "Eine Variante unterscheidet zwischen Bestandsveränderungen (Zustimmung von Volk und Ständen) und Gebietsveränderungen (nur Zustimmung der Bundesversammlung unter Vorbehalt des fakultativen Referendums).",
+            "Die Zustimmung der betroffenen Bevölkerung und der betroffenen Kantone bleibt in beiden Fällen Voraussetzung."
+          ],
+          "design_choices": [
+            "Kodifikation des ungeschriebenen Verfassungsrechts.",
+            "Variante mit unterschiedlichen Anforderungen für Bestands- und Gebietsveränderungen.",
+            "Bezugnahme auf Motionen Gross (93.3132) und Bonny (93.3318) betreffend Erleichterung des Kantonswechsels einzelner Gemeinden."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 39 VE entspricht dem finalen Art. 53 (Bestand und Gebiet der Kantone)."
+        },
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "144",
+            "200",
+            "201"
+          ],
+          "legislative_intent": "Regelung der Ausübung der politischen Rechte durch Stimmberechtigte und Festlegung des für kantonale und Gemeindeangelegenheiten massgebenden kantonalen Rechts.",
+          "key_arguments": [
+            "Das Stimm- und Wahlrecht in kantonalen und Gemeindeangelegenheiten ist dem kantonalen Recht vorbehalten.",
+            "Die bisherigen bundesverfassungsrechtlichen Regelungen zu Änderungen im Bestand und Gebiet der Kantone sind kodifizierungsbedürftig.",
+            "Das Zustimmungserfordernis der betroffenen Bevölkerung zu Gebietsveränderungen wird als geltendes Verfassungsrecht eingestuft und soll positivrechtlich verankert werden."
+          ],
+          "design_choices": [
+            "Als Variante wird vorgeschlagen: Gebietsveränderungen im Bestand der Kantone bedürfen der Zustimmung von Volk und Ständen, Gebietsveränderungen zwischen Kantonen unterliegen der Genehmigung der Bundesversammlung in der Form eines allgemeinverbindlichen Bundesbeschlusses, der dem fakultativen (statt obligatorischen) Referendum untersteht.",
+            "Grenzbereinigungen können die Kantone unter sich durch Vertrag vornehmen."
+          ],
+          "rejected_alternatives": [
+            "Verzicht auf die Zustimmung von Volk und Ständen bei Gebietsveränderungen (Motion Gross) wurde nur als Variante berücksichtigt.",
+            "Ein qualifiziertes Mehr von 2/3 für die Zustimmung der betroffenen Bevölkerung (Motion Bonny) wurde nicht vertieft."
+          ],
+          "general_context": "Variante im Rahmen der Nachführung zu Änderungen im Bestand und Gebiet der Kantone."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "42": {
+      "provisions_discussed": [
+        "Art. 42"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "76",
+            "77"
+          ],
+          "legislative_intent": "Art. 42 VE (Ausübung des Stimm- und Wahlrechts) entspricht Art. 43 Abs. 2, 3, 5 und 6 sowie Art. 74 Abs. 4 BV und regelt, dass das Stimm- und Wahlrecht grundsätzlich am Wohnsitz ausgeübt wird.",
+          "key_arguments": [
+            "Das Stimm- und Wahlrecht wird auf allen staatlichen Ebenen grundsätzlich am Wohnsitz ausgeübt.",
+            "Der Bund regelt das Stimm- und Wahlrecht in eidgenössischen Angelegenheiten; in kantonalen und Gemeindeangelegenheiten sind die Kantone zuständig.",
+            "Die Kantone können eine Wartefrist von maximal drei Monaten auferlegen."
+          ],
+          "design_choices": [
+            "Absatz 1: Wohnsitzprinzip mit gesetzlicher Ausnahmemöglichkeit.",
+            "Absatz 2: Zuständigkeitsregelung Bund/Kantone.",
+            "Absatz 3: Gleichbehandlungsgarantie und Wartefrist-Möglichkeit für Kantone.",
+            "Erwägung, das besondere Genehmigungserfordernis auf die Gesetzesebene herabzustufen."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 42 VE entspricht dem finalen Art. 39 (Ausübung der politischen Rechte)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "43": {
+      "provisions_discussed": [
+        "Art. 43"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "77",
+            "78"
+          ],
+          "legislative_intent": "Art. 43 VE (Auslandschweizerinnen und -schweizer) entspricht Art. 45bis BV und bezweckt, die Beziehungen zwischen Auslandschweizern und der Schweiz so eng wie möglich zu halten.",
+          "key_arguments": [
+            "Der Bund erhält einen Förderungsauftrag sowie den Gesetzgebungsauftrag für die Ausübung politischer Rechte, die Erfüllung der Wehrpflicht und die Unterstützung.",
+            "Die Entbindung von Auslandschweizern von der Militärpflicht und dem Militärpflichtersatz wird verfassungsmässig abgesichert.",
+            "Das Anhörungsrecht der Kantone wird in allgemeiner Weise im VE geregelt."
+          ],
+          "design_choices": [
+            "Absatz 1: Generalklausel ohne sachliche Begrenzung.",
+            "Absatz 2: Drei besondere Gesetzgebungsbereiche (politische Rechte, Militärpflicht, Fürsorge).",
+            "Verzicht auf die ausdrückliche Erwähnung des Anhörungsrechts der Kantone."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 43 VE entspricht dem finalen Art. 40 (Auslandschweizerinnen und Auslandschweizer)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "44": {
+      "provisions_discussed": [
+        "Art. 44"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "78",
+            "79"
+          ],
+          "legislative_intent": "Art. 44 VE (Auswärtige Angelegenheiten) entspricht Art. 8 BV und überträgt dem Bund eine umfassende Befugnis im aussenpolitischen Bereich einschliesslich einer umfassenden Vertragsschlusskompetenz.",
+          "key_arguments": [
+            "Der Bund kann auch Verträge über Bereiche abschliessen, die innerstaatlich in den Zuständigkeitsbereich der Kantone fallen.",
+            "Absatz 2 schafft eine ausdrückliche Grundlage für die schweizerische Entwicklungszusammenarbeit und -hilfe.",
+            "Neben völkerrechtlichen Verträgen gibt es zahlreiche andere Instrumente aussenpolitischen Handelns."
+          ],
+          "design_choices": [
+            "Absatz 1: Umfassende aussenpolitische Befugnis des Bundes.",
+            "Absatz 2: Nicht abschliessende Aufzählung wichtiger aussenpolitischer Ziele.",
+            "Ausdrückliche Grundlage für die Entwicklungszusammenarbeit."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 44 VE entspricht dem finalen Art. 54 (Auswärtige Angelegenheiten)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "45": {
+      "provisions_discussed": [
+        "Art. 45"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "79"
+          ],
+          "legislative_intent": "Art. 45 VE (Verkehr der Kantone mit dem Ausland) entspricht Art. 9 und 10 BV und regelt die subsidiäre und von der Genehmigung des Bundes abhängige Vertragsschlusskompetenz der Kantone im Ausland.",
+          "key_arguments": [
+            "Die Vertragsschlusskompetenz der Kantone ist subsidiär und hat Ausnahmecharakter.",
+            "Der Abschluss der Verträge sowie der übrige amtliche Verkehr der Kantone mit dem Ausland geschieht grundsätzlich durch die Vermittlung des Bundes.",
+            "Für untergeordnete ausländische Behörden können die Kantone selbst in direkten Kontakt treten."
+          ],
+          "design_choices": [
+            "Absatz 1: Subsidiäre Vertragsschlusskompetenz der Kantone.",
+            "Absatz 2: Genehmigungspflicht durch den Bund.",
+            "Absatz 3: Vermittlungsprinzip."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 45 VE entspricht dem finalen Art. 56 (Beziehungen der Kantone mit dem Ausland)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "47": {
+      "provisions_discussed": [
+        "Art. 47"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "80",
+            "81",
+            "82"
+          ],
+          "legislative_intent": "Art. 47 VE (Wehrpflicht) führt Teilgehalte der Art. 18 und 34ter Abs. 1 Bst. d BV sowie Art. 6 der Übergangsbestimmungen nach und umschreibt die allgemeine Wehrpflicht für Männer.",
+          "key_arguments": [
+            "Die allgemeine Wehrpflicht dient der gleichmässigen Verteilung der Last des Militärdienstes.",
+            "Art. 18 BV ist kein verfassungsmässiges Recht; das Gesetz kann die Gründe für den Ausschluss nach Zweckmässigkeitsgesichtspunkten regeln.",
+            "Der zivile Ersatzdienst-Gesetzgebungsauftrag wird fortgeführt.",
+            "Der Bund hat eine Militärversicherung zu betreiben und Erwerbsausfallentschädigung zu gewähren."
+          ],
+          "design_choices": [
+            "Absatz 1: Allgemeine Wehrpflicht für Männer und Gesetzgebungsauftrag für Zivildienst.",
+            "Absatz 2: Militärpflichtersatzabgabe als echte Ersatzabgabe.",
+            "Absatz 3: Möglichkeit gesetzlicher Ausnahmen.",
+            "Absatz 4: Militärversicherung.",
+            "Absatz 5: Erwerbsausfallentschädigung."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 47 VE entspricht dem finalen Art. 59 (Militär- und Ersatzdienst)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "48": {
+      "provisions_discussed": [
+        "Art. 48"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "82",
+            "83",
+            "84"
+          ],
+          "legislative_intent": "Art. 48 VE (Armee) entspricht den Artikeln 11, 13, 17-22 BV und verankert das Milizprinzip als Grundsatz der Schweizer Armee sowie die umfassende Bundeskompetenz für das Militärwesen.",
+          "key_arguments": [
+            "Das Verbot einer Berufsarmee folgt aus dem Verbot stehender Truppen in moderner Auslegung.",
+            "Die Militärgesetzgebung ist umfassend und ausschliesslich Bundessache.",
+            "Den Kantonen verbleibt nur ein beschränkter Rest an Militärkompetenzen (kantonale Formationen, Offiziersernennungen).",
+            "Artikel 11 und 21 BV werden nicht weitergeführt (Militärkapitulationsverbot als obsolet; kantonale Truppenkörper als Gegenstand der Militärgesetzgebung)."
+          ],
+          "design_choices": [
+            "Absatz 1: Milizprinzip und Zweck der Armee.",
+            "Absatz 2: Umfassende Bundeskompetenz für Militärgesetzgebung, -ordnung, -ausbildung und -bewaffnung.",
+            "Absatz 3: Restkompetenzen der Kantone.",
+            "Keine Weiterführung von Art. 11 BV (Militärkapitulationsverbot) und Art. 21 BV (kantonale Truppenkörper)."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 48 VE entspricht dem finalen Art. 58 (Armee) und Art. 60 (Organisation, Ausbildung und Ausrüstung der Armee)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "50": {
+      "provisions_discussed": [
+        "Art. 50"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "85",
+            "86"
+          ],
+          "legislative_intent": "Art. 50 VE (Zivilschutz) führt Art. 22bis BV weiter und verankert die umfassende Bundeskompetenz für den Zivilschutz, der Personen bei bewaffneten Konflikten, Katastrophen und anderen Notlagen zu retten und zu betreuen hat.",
+          "key_arguments": [
+            "Der Zivilschutz hat zivilen Charakter und erfüllt keine Kampfaufgaben.",
+            "Die zeitgemässe Gleichrangigkeit des Zivilschutzes in bewaffneten Konflikten und in Katastrophenfällen wird berücksichtigt.",
+            "Frauen sollen freiwillig Schutzdienst leisten können."
+          ],
+          "design_choices": [
+            "Absatz 1: Umfassende Bundeskompetenz.",
+            "Absatz 2: Einsatzmöglichkeiten in Katastrophen und anderen Notlagen.",
+            "Absatz 3: Obligatorium für Männer; Freiwilligkeit für Frauen.",
+            "Absatz 4: Verweis auf Gesetzgebung für Versicherung und Erwerbsersatz."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 50 VE entspricht dem finalen Art. 61 (Zivilschutz)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "62": {
+      "provisions_discussed": [
+        "Art. 62"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "94",
+            "95",
+            "96"
+          ],
+          "legislative_intent": "Art. 62 VE fasst die Strassenverkehrsabgaben (Mineralölsteuer, Schwerverkehrsabgabe, Nationalstrassenabgabe) zusammen und enthält eine Abgabe- und Sachkompetenz für eine leistungs- oder verbrauchsabhängige Schwerverkehrsabgabe zur Verwirklichung des Verursacherprinzips.",
+          "key_arguments": [
+            "Die leistungsabhängige Schwerverkehrsabgabe verwirklicht das Verursacherprinzip für Strassenverkehrskosten.",
+            "Die Internalisierung der Kosten hat ökologisch erwünschte Nebenwirkungen (Leerfahrtenverhinderung, Umlagerung auf die Schiene).",
+            "Die Erträge sind zweckgebunden für Strassennetz, Schnittstellen zum öffentlichen Verkehr und Schutz von Mensch und Umwelt."
+          ],
+          "design_choices": [
+            "Absatz 1: Leistungs- oder verbrauchsabhängige Schwerverkehrsabgabe.",
+            "Absatz 2: Nationalstrassenabgabe (Autobahnvignette).",
+            "Absatz 3: Verwendung der Erträge (zweckgebunden).",
+            "Absatz 4: Mineralölsteuerzuschlag.",
+            "Übergangsbestimmung mit Art. 21 UeB BV (pauschale Schwerverkehrsabgabe bis Ende 2004)."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 62 VE enthält keine direkte finale Entsprechung als einzelner Artikel, regelt aber Materien, die im finalen Gesetz in verschiedenen Bestimmungen über Strassenverkehrsabgaben enthalten sind."
+        },
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "283",
+            "284",
+            "285",
+            "288",
+            "299",
+            "300"
+          ],
+          "legislative_intent": "Harmonisierung und Vereinheitlichung des Zivilverfahrensrechts durch den Bund mittels Rahmenbestimmungen, während die Gerichtsorganisation bei den Kantonen verbleibt.",
+          "key_arguments": [
+            "27 kantonale Zivilprozessordnungen führen zu Rechtszersplitterung, Unübersichtlichkeit und Rechtsunsicherheit",
+            "Unterschiedliche Verfahrensordnungen bewirken Ungleichbehandlung, die ein Rechtsstaat nicht tolerieren darf",
+            "Lugano-Übereinkommen vereinheitlicht bereits Teile des Zivilprozessrechts auf europäischer Ebene",
+            "Tendenz zu grösseren Wirtschaftsräumen macht kantonale Rechtfertigung hinfällig",
+            "Europäische Integration erfordert Annäherung der nationalen Prozessrechte"
+          ],
+          "design_choices": [
+            "Bund erhält nur Befugnis zur Harmonisierung (Rahmenbestimmungen), nicht zur vollständigen Vereinheitlichung wie im Strafprozess",
+            "Gerichtsorganisation verbleibt bei den Kantonen",
+            "Kompetenz als Änderung der geltenden Kompetenzverteilung (Art. 64 Abs. 3 BV)",
+            "Punktuelle Verfahrensbestimmungen in einzelnen Bundesgesetzen bleiben zulässig, soweit zur Durchsetzung des Bundesprivatrechts notwendig"
+          ],
+          "rejected_alternatives": [
+            "Vollständige Vereinheitlichung des Zivilverfahrensrechts nach dem Modell des Strafprozessrechts",
+            "Beibehaltung des status quo mit 27 kantonalen Zivilprozessordnungen",
+            "Umfassende Bundeskompetenz auch für die Gerichtsorganisation"
+          ],
+          "general_context": "Draft Art. 101 Abs. 2 schafft die Verfassungsgrundlage für die Harmonisierung des Zivilverfahrensrechts. Die Befugnis ist bewusst schwächer ausgestaltet als jene für das Strafverfahrensrecht, da das Harmonisierungsbedürfnis im Zivilprozess weniger dringend ist."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "69": {
+      "provisions_discussed": [
+        "Art. 69"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "101",
+            "102"
+          ],
+          "legislative_intent": "Art. 69 VE (Bildung) entspricht Art. 27 BV und Art. 4 ÜB und regelt die bundesrechtlichen Mindestanforderungen für den Grundschulunterricht bei grundsätzlicher kantonaler Schulhoheit.",
+          "key_arguments": [
+            "Der öffentliche Grundschulunterricht muss qualitativ und räumlich ausreichend sowie unentgeltlich sein.",
+            "Obligatorischer Unterricht sichert eine flächendeckende Qualität im Interesse der Demokratiefähigkeit.",
+            "Der Bund verfügt über Kompetenz für polytechnische Schulen, Universitäten und höhere Unterrichtsanstalten.",
+            "Privatschulen mit kantonaler Aufsicht sind zulässig; es besteht kein staatliches Schulmonopol."
+          ],
+          "design_choices": [
+            "Absatz 1: Bundesrechtliche Mindestanforderungen für die Grundschule.",
+            "Absatz 2: Bundeskompetenz für Hochschulen.",
+            "Als Neuerung könnte ein Absatz über zweisprachige Bildung eingefügt werden.",
+            "Auf Art. 27 Abs. 4 BV kann verzichtet werden, da die Aufsichtskompetenz allgemein geregelt ist."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 69 VE entspricht dem finalen Art. 62 (Schulwesen) und Art. 19 (Anspruch auf Grundschulunterricht)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "70": {
+      "provisions_discussed": [
+        "Art. 70"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "102"
+          ],
+          "legislative_intent": "Art. 70 VE (Ausbildungsbeihilfen) entspricht Art. 27quater BV und sieht subsidiäre Bundesförderung zur Ausschöpfung der Bildungsreserven und Sicherstellung des qualifizierten Nachwuchses vor.",
+          "key_arguments": [
+            "Der Bund soll dazu beitragen, die Bildungsreserven auszuschöpfen und sozial Benachteiligte zu fördern.",
+            "Die Beihilfen sind als Ergänzung, nicht als Ersatz kantonaler Leistungen gedacht.",
+            "Nur individuelle Beihilfen und keine Investitionsbeiträge sind zulässig."
+          ],
+          "design_choices": [
+            "Absatz 1: Subsidäre Förderungskompetenz (Stipendien, Darlehen, Entschädigungen).",
+            "Absatz 2: Eigenständige Förderungsmassnahmen des Bundes als parallele Kompetenz.",
+            "Verzicht auf ausdrückliche Erwähnung der kantonalen Schulhoheit und des Anhörungsrechts."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 70 VE entspricht dem finalen Art. 66 (Ausbildungsbeiträge)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "71": {
+      "provisions_discussed": [
+        "Art. 71"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "103",
+            "104"
+          ],
+          "legislative_intent": "Art. 71 VE (Berufsbildung) entspricht Art. 34ter Abs. 1 Bst. g BV und ermächtigt den Bund zum Erlass von Normen über die berufliche Aus- und Weiterbildung.",
+          "key_arguments": [
+            "Die Aufzählung der erfassten Berufsbereiche führt zu Abgrenzungsproblemen, insbesondere beim Begriff 'Gewerbe'.",
+            "Verschiedene parlamentarische Vorstösse thematisieren die Abgrenzungsschwierigkeiten.",
+            "Eine umfassende Bundeskompetenz könnte Abgrenzungsprobleme lösen."
+          ],
+          "design_choices": [
+            "Beibehaltung der bestehenden Kompetenzstruktur in enger Anlehnung an das geltende Recht.",
+            "Als Alternative: umfassende Gesetzgebungskompetenz des Bundes für Berufsbildung oder nur Kompetenz zur Regelung von Zulassungsvoraussetzungen und Anerkennung von Fähigkeitszeugnissen."
+          ],
+          "rejected_alternatives": [
+            "Umfassende Gesetzgebungskompetenz ('Die Berufsbildung ist Sache des Bundes') wurde als Alternative diskutiert, aber nicht als Nachführung vorgeschlagen.",
+            "Begrenzte Kompetenz nur für Zulassungsvoraussetzungen und Anerkennung von Fähigkeitszeugnissen wurde als weitere Alternative erwogen."
+          ],
+          "general_context": "Art. 71 VE entspricht dem finalen Art. 63 (Berufsbildung)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "72": {
+      "provisions_discussed": [
+        "Art. 72"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "104"
+          ],
+          "legislative_intent": "Art. 72 VE (Forschung) entspricht Art. 27sexies BV und weist dem Bund die Hauptverantwortung für die Forschungsförderung zu als umfassende und parallele Zuständigkeit.",
+          "key_arguments": [
+            "Lehre, Bildung und Forschung ergänzen sich funktionell als Elemente eines umfassenden Systems.",
+            "Der Bund darf weder den Forschungsgegenstand noch die Methode beschränken.",
+            "Die Forschungsförderung begründet keinen Individualanspruch auf Leistung.",
+            "Eine ausdrückliche Erwähnung der Bundesstatistik könnte durch einen zusätzlichen Artikel erfolgen."
+          ],
+          "design_choices": [
+            "Absatz 1: Umfassende und parallele Bundeszuständigkeit für Forschungsförderung.",
+            "Absatz 2: Koordinationskompetenz mit subsidiärem Charakter.",
+            "Absatz 3: Kompetenz zum Betrieb von Forschungsstätten.",
+            "Statistik als Annexkompetenz zu den jeweiligen Sachkompetenzen."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 72 VE entspricht dem finalen Art. 64 (Forschung)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "73": {
+      "provisions_discussed": [
+        "Art. 73"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "104",
+            "105",
+            "106"
+          ],
+          "legislative_intent": "Art. 73 VE (Kultur) kodifiziert die anerkannte, aber bisher nicht geschriebene umfassende Bundeskompetenz zur Kulturförderung und verankert sie erstmals ausdrücklich in der Verfassung.",
+          "key_arguments": [
+            "Die öffentliche Kulturförderung ist in erster Linie Aufgabe der Kantone.",
+            "Dem Bund kommt nach unbestrittener Praxis eine stillschweigende oder gewohnheitsrechtliche Kompetenz zu.",
+            "Die Bundeskompetenz ist im Vergleich zum 1994 abgelehnten Kulturförderungsartikel deutlich eingeschränkt.",
+            "Der Bund kann nur kulturelle Bestrebungen von gesamtschweizerischem Charakter unterstützen (Subsidiaritätsprinzip)."
+          ],
+          "design_choices": [
+            "Absatz 1: Pflicht des Bundes, Anliegen der kulturellen Vielfalt bei Aufgabenerfüllung zu berücksichtigen.",
+            "Absatz 2: Eingeschränkte Kulturförderungskompetenz für gesamtschweizerische Bestrebungen.",
+            "Absatz 3: Förderungsauftrag für Kommunikation zwischen Sprachgemeinschaften und bedrohte Landessprachen.",
+            "Absatz 4: Filmförderung (Art. 27ter BV)."
+          ],
+          "rejected_alternatives": [
+            "Die umfassenderen Kulturförderungsartikel von 1986 und 1994 wurden von Volk und Ständen abgelehnt und dienen als Negativbeispiel für die Beschränkung der Bundeskompetenz."
+          ],
+          "general_context": "Art. 73 VE entspricht dem finalen Art. 69 (Kultur)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "74": {
+      "provisions_discussed": [
+        "Art. 74"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "106",
+            "107"
+          ],
+          "legislative_intent": "Art. 74 VE (Turnen und Sport) führt Art. 27quinquies BV nach und dient als Grundlage für die allgemeine Förderung von Turnen und Sport als Teil der Allgemeinbildung.",
+          "key_arguments": [
+            "Die historische Wurzel der körperlichen Ertüchtigung für den Militärdienst ist heute nur noch ein Bestandteil eines weiteren Zielrahmens.",
+            "Der Bund kann den Turn- und Sportunterricht an Schulen obligatorisch erklären.",
+            "Der Bund hat eine Sportschule zu unterhalten."
+          ],
+          "design_choices": [
+            "Absatz 1: Konkurrierende Gesetzgebungskompetenz für Turnen und Sport der Jugend.",
+            "Absatz 2: Parallele Kompetenz zur Förderung des Erwachsenensports (keine Regelungskompetenz).",
+            "Verzicht auf ausdrückliche Erwähnung des Vollzugsvorbehalts zugunsten der Kantone und des Anhörungsrechts."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Art. 74 VE entspricht dem finalen Art. 68 (Sport)."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "34": {
+      "provisions_discussed": [
+        "Art. 34"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "141",
+            "142"
+          ],
+          "legislative_intent": "Verankerung der politischen Rechte der Bürgerinnen und Bürger im Bund, einschliesslich der Voraussetzungen des eidgenössischen Stimm- und Wahlrechts und der Aufzählung der politischen Rechte.",
+          "key_arguments": [
+            "Das Stimm- und Wahlrecht soll nur bei Entmündigung infolge Geisteskrankheit oder Geistesschwäche entzogen werden können, da in diesen Fällen das erforderliche Minimum an politischer Urteilsfähigkeit nicht mehr gegeben ist.",
+            "Bei anderen Bevormundungsfällen oder aus anderen Gründen soll der Ausschluss von den politischen Rechten unzulässig sein.",
+            "Das Prinzip des allgemeinen Stimm- und Wahlrechts und die politische Gleichberechtigung aller Stimmberechtigten werden statuiert."
+          ],
+          "design_choices": [
+            "Übernahme der in Art. 2 BPR statuierten Ausschlussgründe auf Verfassungsstufe.",
+            "Aufzählung der politischen Rechte im Bund (Nationalratswahlen, eidgenössische Abstimmungen, Volksinitiative, Referendum).",
+            "Anlehnung an Art. 57 VE 1977, Art. 75 Modellstudie JPD und Art. 72 VF der FDP."
+          ],
+          "rejected_alternatives": [],
+          "general_context": "Grundsatzbestimmung zu den politischen Rechten im 4. Titel 'Volk und Stände', 1. Kapitel 'Stimm- und Wahlrecht'."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "55": {
+      "provisions_discussed": [
+        "Art. 55"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "201",
+            "202"
+          ],
+          "legislative_intent": "Regelung der Mitwirkung der Kantone an aussenpolitischen Entscheiden des Bundes.",
+          "key_arguments": [
+            "Die umfassende Zuständigkeit des Bundes in der Aussenpolitik bleibt unverändert, jedoch wird der Bund verpflichtet, bei der Ausübung seiner Kompetenz der innerstaatlichen Zuständigkeitsverteilung und den kantonalen Interessen Rechnung zu tragen.",
+            "Die Pflicht des Bundes umfasst Information, Anhörung und Mitwirkung der Kantone bei der Vorbereitung aussenpolitischer Entscheide.",
+            "Die Variante entspricht weitgehend der im EWR-Beschluss von 1992 enthaltenen Bestimmung."
+          ],
+          "design_choices": [
+            "Informationspflicht, Anhörungspflicht und Mitwirkungspflicht des Bundes gegenüber den Kantonen in der Aussenpolitik.",
+            "Verpflichtung der Kantone zur rechtzeitigen Umsetzung des internationalen Rechts in ihrem Zuständigkeitsbereich.",
+            "Keine Bindung des Bundes an allfällige Stellungnahmen der Kantone.",
+            "Möglichkeit der Konkretisierung auf Gesetzesstufe (Modalitäten der Mitwirkung, Organe wie Kontaktgremium Bund-Kantone)."
+          ],
+          "rejected_alternatives": [
+            "Eine Änderung der heutigen Zuständigkeitsregelung in der Aussenpolitik wurde nicht vorgesehen."
+          ],
+          "general_context": "Variante zur Stärkung der Kantone in der Aussenpolitik, in Analogie zu Art. 47bis a GVG über die Mitwirkung des Parlaments."
+        }
+      ],
+      "parliamentary_modifications": []
+    },
+    "29a": {
+      "provisions_discussed": [
+        "Art. 29a"
+      ],
+      "sources": [
+        {
+          "bbl_ref": "Erläuterungsbericht VE 1995",
+          "bbl_page_refs": [
+            "295",
+            "296",
+            "297"
+          ],
+          "legislative_intent": "Verankerung einer Rechtsweggarantie, die natürlichen und juristischen Personen grundsätzlich in allen Streitigkeiten den Zugang zu einer richterlichen Behörde sichert, jedoch begründete Ausnahmen durch Gesetz zulässt.",
+          "key_arguments": [
+            "Kompensation für die Möglichkeit von Zugangsbeschränkungen zum Bundesgericht",
+            "Umsetzung der Anforderungen aus Art. 6 Ziff. 1 EMRK und Art. 13 EMRK auf nationaler Ebene",
+            "Sicherstellung eines einheitlichen Mindeststandards im Rechtsschutz",
+            "Demokratische Legitimation und Gewaltentrennung erfordern Ausnahmen für bestimmte Regierungs- und Parlamentsakte"
+          ],
+          "design_choices": [
+            "Rechtsweggarantie gilt für natürliche und juristische Personen, nicht absolut",
+            "Ausnahmen durch Gesetz von Bund und Kantonen möglich, aber nur in Ausnahmefällen mit spezifischen Gründen",
+            "Akte der Bundesversammlung und des Bundesrates ausdrücklich von der Anfechtung beim Bundesgericht ausgeschlossen (Abs. 2)",
+            "Keine abstrakte Normenkontrolle durch Gerichte vorgeschrieben, aber auch nicht ausgeschlossen",
+            "Zeitpunkt des Zugangs zum Richter wird dem Gesetzgeber überlassen",
+            "Beschwerdebefugnis ausländischer Staaten vom Gesetzgeber zu klären"
+          ],
+          "rejected_alternatives": [
+            "Absolute Rechtsweggarantie ohne jede Ausnahme",
+            "Beschränkung der Garantie nur auf zivilrechtliche Streitigkeiten im Sinne der EMRK"
+          ],
+          "general_context": "Die Rechtsweggarantie (draft Art. 167) bildet das Gegenstück zu den Zugangsbeschränkungen zum Bundesgericht und stellt sicher, dass jedermann zumindest an irgendein unabhängiges Gericht gelangen kann. Sie ist Teil des Justizreformpakets."
+        }
+      ],
+      "parliamentary_modifications": []
+    }
+  }
+}

@@ -1,0 +1,3900 @@
+{
+  "law": "BV",
+  "source": "Verhandlungen im Ständerat (AB 1998 Separatdruck)",
+  "articles": {
+    "0": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "Die Präambel hat keinen Rechtsatzcharakter; keine konkreten Rechte und Pflichten lassen sich daraus ableiten. Die Kommission hat sich einstimmig für die Anrufung Gottes des Allmächtigen ausgesprochen. Die Kommission hat in Absatz 3 den Zusammenhalt gestärkt, in Absatz 5 die Verantwortung gegenüber früheren Generationen ergänzt, und in Absatz 6 die Gegenwartsform gewählt."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Dankbar für Zustimmung zur Präambel. Das Vernehmlassungsverfahren hat klar gezeigt, dass dem Volk viel an der Präambel liegt. Stimmt der Ergänzung des inneren Zusammenhaltes und des Bewusstseins der gemeinsamen Errungenschaften zu."
+            }
+          ],
+          "contested_points": [
+            "Ob die Invocatio Dei (Anrufung Gottes) aufgenommen werden soll",
+            "Formulierung zur Verantwortung gegenüber vergangenen und künftigen Generationen",
+            "Ob die Präambel des Bundesrates oder jene der nationalrätlichen Kommission (nach Muschg) zu bevorzugen sei"
+          ],
+          "amendments_proposed": [
+            "Kommission SR: Anrufung Gottes des Allmächtigen beibehalten; Absatz 3 um Stärkung des Zusammenhalts ergänzt; Absatz 5 um Dankbarkeit gegenüber früheren Generationen erweitert; Absatz 6 in Gegenwartsform"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Die Präambel ist eine Art Grundsatzprogramm. In gedrängter, sprachlich ausgefeilter Form nennt sie den Geist und die Ziele der Verfassung."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Der Gott, der angerufen wird, ist nicht in jedermanns Vorstellung derselbe; jede Person kann gemäss ihrer eigenen Religion und Weltanschauung Gott dem Allmächtigen einen persönlichen Sinn geben."
+            }
+          ],
+          "page_refs": [
+            "23",
+            "24"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "C, SZ, Berichterstatter",
+              "statement": "Erläuterte die Änderungen der Präambel durch den Nationalrat und die Position der Kommission. Die Mehrheit möchte Verbesserungen in den Absätzen 3 und 4 übernehmen, aber die 'Muschgschen Elemente' (Absätze 5a und 5b) ablehnen."
+            },
+            {
+              "name": "Gentil Pierre-Alain",
+              "role": "S, JU",
+              "statement": "Beantragte im Namen der Minderheit die Streichung von Absatz 2a ('in der Verantwortung gegenüber der Schöpfung'), da dieser bereits durch die Invocatio und Absatz 5 abgedeckt sei."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Befürwortete eine kurze Präambel aus einem Guss; die Verbindung der Muschgschen Formel mit dem bundesrätlichen Entwurf sei misslungen und der Text zu lang. Neigte bei Absatz 2a eher dem Minderheitsantrag zu."
+            }
+          ],
+          "contested_points": [
+            "Aufnahme von Absatz 2a ('in der Verantwortung gegenüber der Schöpfung')",
+            "Übernahme der 'Muschgschen Elemente' (Absätze 5a und 5b) aus dem Nationalratsbeschluss",
+            "Streichung von Absatz 5 (historische Verpflichtung)",
+            "Länge und stilistische Einheitlichkeit der Präambel"
+          ],
+          "amendments_proposed": [
+            "Minderheit (Gentil, Aeby, Cavadini Jean, Forster, Marty Dick): Streichung von Absatz 2a",
+            "Mehrheit: Zustimmung zum Beschluss des Nationalrates bei Absatz 2a",
+            "Streichung der Absätze 5a und 5b",
+            "Festhalten an Absätzen 5 und 6"
+          ],
+          "vote_result": "Absatz 2a: Für den Antrag der Minderheit (Streichung) 17 Stimmen, für den Antrag der Mehrheit 14 Stimmen. Übrige Absätze gemäss Kommissionsantrag angenommen.",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Die Änderungen in den Absätzen 1 bis 4 erweisen sich nach unserer Beurteilung in der Tat als Verbesserungen, und zwar in bezug auf den Inhalt und auf die Sprache. Hingegen ist die Implantation der Muschgschen Elemente ... nicht sachgerecht."
+            },
+            {
+              "speaker": "Gentil Pierre-Alain",
+              "quote": "Nous estimons que cet alinéa 2a n'apporte absolument rien de nouveau et que, dans le fond, il ne constitue qu'une redite d'éléments mentionnés de manière plus ramassée et plus incisive aux alinéas 1er et 5."
+            }
+          ],
+          "page_refs": [
+            "157",
+            "158",
+            "159"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "C, SZ, Berichterstatter",
+              "statement": "In zweiter Runde: Zustimmung zu Abs. 5 (sprachliche Straffung im Deutschen). Festhalten bei Abs. 2a ('In der Verantwortung gegenüber der Schöpfung' ablehnen) und Abs. 5a (Element aus Muschg-Präambel)."
+            }
+          ],
+          "contested_points": [
+            "Ob 'In der Verantwortung gegenüber der Schöpfung' in Präambel aufgenommen werden soll",
+            "Ob Absatz 5a (aus Muschg-Präambel) aufgenommen werden soll",
+            "Sprachliche Straffung in Absatz 5"
+          ],
+          "amendments_proposed": [
+            "Kommission: Abs. 2a Festhalten, Abs. 3 und 5 Zustimmung zum Nationalrat, Abs. 5a Festhalten"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Die Muschgsche Fassung passt in der Sprache und im Aufbau nicht in unsere Präambel – so wertvoll sie auch ist."
+            }
+          ],
+          "page_refs": [
+            "212"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "Bei der Präambel schliesst sich die Einigungskonferenz bei beiden Differenzen der Fassung des Nationalrates an. Unsere Vertreter in der Einigungskonferenz haben das ohne Begeisterung getan. Wir hätten uns stilistisch einen schöneren Anfang der Bundesverfassung gewünscht."
+            }
+          ],
+          "contested_points": [
+            "Zwei Differenzen in der Präambel (Abs. 2a und 5a) zwischen National- und Ständerat",
+            "Stilistische Formulierung des Verfassungsbeginns"
+          ],
+          "amendments_proposed": [
+            "Einigungskonferenz beantragt Zustimmung zum Beschluss des Nationalrates für Präambel Abs. 2a und 5a"
+          ],
+          "vote_result": "Angenommen gemäss Antrag der Einigungskonferenz (Zustimmung zum Nationalratsbeschluss)",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Wir bitten Sie, hier Nachgiebigkeit vor Schönheit walten zu lassen."
+            }
+          ],
+          "page_refs": [
+            "234",
+            "235"
+          ]
+        }
+      ]
+    },
+    "1": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "Kommission wählt 'Das Schweizervolk und die Kantone' statt nur 'die Kantone', um Volkssouveränität neben Föderalismus auszudrücken. Titel wird 'Die Schweizerische Eidgenossenschaft'. Traditionelle Reihenfolge der Kantone beibehalten. Halbkantone mit 'und' verbunden."
+            },
+            {
+              "name": "Plattner Gian-Reto",
+              "role": "S, BS",
+              "statement": "Weist auf Problem der Halbkantone hin: das 'und' zwischen Halbkantonen nimmt ihnen einen Ständeratssitz und halbe Standesstimme. Hält dies für Anachronismus."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Stimmt der zeitgemässeren Formulierung mit 'Schweizervolk und Kantone' zu. Das 'und' bei Halbkantonen wurde auf Wunsch der Konferenz der Kantonsregierungen eingeführt."
+            }
+          ],
+          "contested_points": [
+            "Ob 'Das Schweizervolk und die Kantone' oder nur 'Die Kantone' als Grundlage der Eidgenossenschaft",
+            "Reihenfolge der Kantone",
+            "Umgang mit den Halbkantonen (Verbindung durch 'und')"
+          ],
+          "amendments_proposed": [
+            "Kommission: 'Das Schweizervolk und die Kantone' statt nur 'die Kantone'",
+            "Neuer Titel: 'Die Schweizerische Eidgenossenschaft' statt 'Bestand'"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Wir wollen damit zum Ausdruck bringen, dass das Schweizervolk das andere Element neben den Kantonen ist."
+            },
+            {
+              "speaker": "Plattner Gian-Reto",
+              "quote": "Die Halbkantone sind sozusagen nur noch um ein Komma vom vollen Status als Kantone entfernt."
+            }
+          ],
+          "page_refs": [
+            "24"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "Kommission stimmt inhaltlich vollständig dem Bundesrat zu. Einzige Änderung in Absatz 3: statt zwei Verben nur ein Verb 'einsetzen', um beide Elemente (Lebensgrundlagen und internationale Ordnung) gleichwertig zu normieren."
+            }
+          ],
+          "contested_points": [
+            "Formulierung in Absatz 3: ob 'sich einsetzen' und 'beitragen' oder nur 'einsetzen'"
+          ],
+          "amendments_proposed": [
+            "Kommission: Vereinheitlichung auf ein Verb 'einsetzen' in Absatz 3"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "24",
+            "25"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 58 on land use planning; commission clarified cantonal role and added cantons to para. 3."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "87"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "C, SZ, Berichterstatter",
+              "statement": "Erläuterte die Differenzen bei Artikel 2. Die Mehrheit schlägt bei Absatz 2 'nachhaltig' als Adverb vor statt als separatem Ausdruck. Absatz 2bis (Chancengleichheit) soll gestrichen werden."
+            },
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR",
+              "statement": "Unterstützte die Minderheitsposition und plädierte für Zustimmung zum Nationalratsbeschluss bei Absatz 2 sowie für Aufnahme von Absatz 2bis (Chancengleichheit)."
+            },
+            {
+              "name": "Schmid Carlo",
+              "role": "C, AI",
+              "statement": "Kritisierte die Aufnahme von 'nachhaltig' als überflüssig, da Absatz 3 bereits die dauerhafte Erhaltung der natürlichen Lebensgrundlagen enthalte. Plädierte für die ursprüngliche Fassung des Bundesrates."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Äusserte persönliche Skepsis gegenüber dem Modewort 'nachhaltig', stimmte inhaltlich aber zu. Empfahl, Absatz 2bis nicht aufzunehmen, da unerfüllbare Erwartungen geweckt würden."
+            }
+          ],
+          "contested_points": [
+            "Aufnahme des Begriffs 'nachhaltige Entwicklung' bzw. 'nachhaltig' in Absatz 2",
+            "Formulierung als Adverb (Mehrheit) vs. separater Ausdruck (Minderheit Frick/Aeby)",
+            "Aufnahme der Chancengleichheit als Staatszweck in Absatz 2bis"
+          ],
+          "amendments_proposed": [
+            "Mehrheit: 'Sie fördert nachhaltig die gemeinsame Wohlfahrt, den inneren Zusammenhalt und die kulturelle Vielfalt des Landes'",
+            "Minderheit (Frick, Aeby): Zustimmung zum Beschluss des Nationalrates (Nachhaltigkeit als separater Begriff)",
+            "Minderheit (Aeby): Zustimmung zum Nationalrat bei Absatz 2bis (Chancengleichheit)",
+            "Mehrheit: Streichung von Absatz 2bis"
+          ],
+          "vote_result": "Absatz 2: Eventuell für Mehrheit 28, für Minderheit 7; Definitiv für Mehrheit 20, für Antrag Schmid Carlo 16. Absatz 2bis: Für Mehrheit (Streichung) 28 Stimmen, für Minderheit 4 Stimmen.",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Die politisch verstandene Nachhaltigkeit eben weit über die blosse Schonung der Umwelt und der natürlichen Ressourcen hinausgeht, weil sie zusätzlich auch das wirtschaftliche und kulturelle Leben und das gesamte Staatswesen umfasst."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Andererseits ist der Begriff 'nachhaltig' wahrscheinlich – aber da werde ich subjektiv – auch ein Modewort."
+            }
+          ],
+          "page_refs": [
+            "159",
+            "160",
+            "161"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "C, SZ, Berichterstatter",
+              "statement": "Abs. 2: Kommission schließt sich Nationalrat bei Nachhaltigkeit an ('fördert nachhaltig'). Abs. 2bis: Chancengleichheit soll nicht als Staatszweck verankert werden (13:2)."
+            },
+            {
+              "name": "Gentil Pierre-Alain",
+              "role": "S, JU",
+              "statement": "Beantragte Aufnahme von Abs. 2bis: Chancengleichheit als Staatszweck ('aussi grande que possible')."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Empfahl Mehrheit für Abs. 2bis: Begriff Chancengleichheit schillernd, könnte missverstanden werden."
+            }
+          ],
+          "contested_points": [
+            "Ob nachhaltige Entwicklung als Staatszweck aufgenommen wird",
+            "Ob Chancengleichheit als eigenständiger Bundeszweck verankert werden soll"
+          ],
+          "amendments_proposed": [
+            "Minderheit Gentil: Zustimmung zum Nationalrat bei Abs. 2bis (Chancengleichheit)"
+          ],
+          "vote_result": "Abs. 2: Angenommen. Abs. 2bis: Mehrheit 27, Minderheit 4. Mehrheit obsiegt.",
+          "key_quotes": [
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Wenn man nun aber den Begriff der Chancengleichheit so interpretiert, dass der Staat diese ungleichen Startchancen durchwegs kompensieren müsste, würde sich der Staat eindeutig übernehmen."
+            }
+          ],
+          "page_refs": [
+            "212",
+            "213",
+            "214"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "In Artikel 2 Absatz 2bis betreffend die Chancengleichheit schliessen wir uns ebenfalls dem Nationalrat an, erwähnen aber nochmals, dass dieser Zweckartikel nicht direkt anwendbar ist, was die Annahme durch den Ständerat erleichtert."
+            }
+          ],
+          "contested_points": [
+            "Chancengleichheit als Verfassungsziel (Art. 2 Abs. 2bis)",
+            "Direkte Anwendbarkeit des Zweckartikels"
+          ],
+          "amendments_proposed": [
+            "Einigungskonferenz beantragt Zustimmung zum Beschluss des Nationalrates für Art. 2 Abs. 2bis"
+          ],
+          "vote_result": "Angenommen gemäss Antrag der Einigungskonferenz (Zustimmung zum Nationalratsbeschluss)",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "dieser Zweckartikel nicht direkt anwendbar ist, was die Annahme durch den Ständerat erleichtert."
+            }
+          ],
+          "page_refs": [
+            "234",
+            "235"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "Rapporteur (S, FR)",
+              "statement": "Der Artikel über die Kantone steht im Zentrum des ersten Titels. Die Absätze 2 und 3 des bundesrätlichen Entwurfs wurden in spätere Artikel verschoben."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Weist auf gewichtige systematische Differenz zwischen Bundesrat/Nationalrat und Ständerat hin, die in der Differenzbereinigung zu klären sein wird."
+            }
+          ],
+          "contested_points": [
+            "Systematik des ersten Titels: Wo gehört der Kantons-Artikel hin?",
+            "Ob Absätze 2 und 3 des bundesrätlichen Entwurfs hier oder in späteren Artikeln"
+          ],
+          "amendments_proposed": [
+            "Kommission SR: Beibehaltung nur des ersten Absatzes im Titel 1, Verschiebung der Absätze 2 und 3 in den 3. Titel"
+          ],
+          "vote_result": "34 Stimmen (Einstimmigkeit)",
+          "key_quotes": [],
+          "page_refs": [
+            "25"
+          ]
+        }
+      ]
+    },
+    "4": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "Rapporteur (S, FR)",
+              "statement": "Artikel 3a über Landessprachen ist eines der fünf fundamentalen Elemente des Staates im ersten Titel. Die Amtssprachen werden in Artikel 57h aufgeführt."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "25"
+          ]
+        }
+      ]
+    },
+    "6": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Seiler Bernhard",
+              "role": "V, SH",
+              "statement": "Beantragt Artikel über individuelle und gesellschaftliche Verantwortung: 'Im Rahmen ihrer Fähigkeiten trägt jede Person Verantwortung für sich selbst sowie Mitverantwortung gegenüber Mitmenschen und Gesellschaft.' Begründet mit Notwendigkeit der Selbstverantwortung angesichts gefährdeter Sozialwerke."
+            },
+            {
+              "name": "Onken Thomas",
+              "role": "S, TG",
+              "statement": "Stellt eigenen Antrag mit drei Absätzen, der Selbstentfaltung, Verantwortung und Mitverantwortung umfasst. Empfiehlt, Diskussion dem Nationalrat zu überlassen und erst in Differenzbereinigung aufzunehmen."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "Berichterstatter (R, BL)",
+              "statement": "Kommission hat Subsidiarität und individuelle Verantwortung an anderen Stellen verankert (Art. 10, Art. 33). Ein allgemeiner Pflichtenartikel wäre problematisch: Verfassung soll Freiheiten schützen, nicht Menschen 'regeln'. Staatliche Organe könnten nicht prüfen, ob jemand Verantwortung wahrgenommen hat."
+            },
+            {
+              "name": "Frick Bruno",
+              "role": "C, SZ",
+              "statement": "Findet Anregungen interessant, hält aber Artikel 1-5 für falschen Platz. Thema sollte bei Grundrechten und Grundpflichten stehen. Bittet um Rückweisung an Kommission."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Verfassung soll, mit Ausnahme der Präambel, Teil der Rechtsordnung sein. Ethische Appelle ohne normative Substanz gehören nicht in die Verfassung."
+            }
+          ],
+          "contested_points": [
+            "Ob ein Artikel über individuelle und gesellschaftliche Verantwortung in die Verfassung gehört",
+            "Systematischer Standort (erster Titel vs. Grundrechte)",
+            "Ob ethische Appelle ohne Rechtsdurchsetzbarkeit Verfassungsrang erhalten sollen",
+            "Unterschied zwischen Antrag Seiler (Pflichten) und Antrag Onken (Rechte und Pflichten)"
+          ],
+          "amendments_proposed": [
+            "Antrag Seiler Bernhard: Titel 'Individuelle und gesellschaftliche Verantwortung', Text über Selbstverantwortung",
+            "Antrag Onken: Drei Absätze über Selbstentfaltung, Verantwortung und Chancengerechtigkeit"
+          ],
+          "vote_result": "Antrag Seiler Bernhard: 11 Stimmen; Dagegen: 21 Stimmen. Beide Anträge abgelehnt.",
+          "key_quotes": [
+            {
+              "speaker": "Rhinow René",
+              "quote": "Die Verfassung möchte Freiheiten schützen, sie möchte den Staatsaufbau regeln... sie möchte aber nicht, dass die gesamte Verantwortung des einzelnen Menschen auch verfassungsrechtlich vorgeschrieben wird."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Radikale ethische Ansprüche, die zweifellos völlig berechtigt sind, lassen sich in einem liberalen Rechtsstaat nicht durchsetzen, wenn die einzelnen Bürgerinnen und Bürger diese Appelle nicht erhören."
+            }
+          ],
+          "page_refs": [
+            "25",
+            "26",
+            "27",
+            "28"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Danioth Hans",
+              "role": "C, UR",
+              "statement": "Proposed new Art. 32e 'Bürgerpflichten' as counterpoint to rights; not enforceable but an ethical imperative."
+            },
+            {
+              "name": "Wicki Franz",
+              "role": "C, LU",
+              "statement": "Supported Danioth; argued constitution should balance individual freedom and community interest."
+            },
+            {
+              "name": "Seiler Bernhard",
+              "role": "V, SH",
+              "statement": "Supported Danioth; citizens should contribute as active members of society."
+            },
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Opposed as rapporteur; wrong placement, unclear content, risk of cantonal overreach."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Opposed; commission had already rejected duty articles; provision too vague and potentially dangerous."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Expressed sympathy but raised placement concerns; could not recommend rejection outright."
+            }
+          ],
+          "contested_points": [
+            "Whether a general civic duty provision belongs in the constitution",
+            "Whether the provision is too vague to be meaningful",
+            "Whether it could be misused by courts or cantonal legislatures",
+            "Appropriate placement (not next to citizenship rights)"
+          ],
+          "amendments_proposed": [
+            "Danioth: new Art. 32e 'Bürgerpflichten': 'Jede Person trägt nach ihren Kräften zur Bewältigung der Aufgaben in Staat und Gesellschaft bei'"
+          ],
+          "vote_result": "Für Antrag Danioth: 23 Stimmen, Dagegen: 5 Stimmen. Adopted.",
+          "key_quotes": [
+            {
+              "speaker": "Danioth Hans",
+              "quote": "Es darf nicht das einseitige Bild entstehen, dass der Bürger und die Bürgerin gegenüber dem Staat nur Rechte und Ansprüche geltend machen."
+            },
+            {
+              "speaker": "Rhinow René",
+              "quote": "Kann also das Bundesgericht aufgrund einer solchen Bestimmung beispielsweise gesetzliche Normen auslegen, jemanden verantwortlich machen, weil er sich in Staat und Gesellschaft nicht genügend engagiert habe?"
+            }
+          ],
+          "page_refs": [
+            "64",
+            "65",
+            "66",
+            "67"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Erläuterte, dass Artikel 3b des Nationalrates gestrichen und stattdessen Artikel 5a aufgenommen werden soll. Die Kommission hat einen eigenen Text erarbeitet: 'Neben der Verantwortung für sich selber trägt jede Person nach ihren Kräften zur Bewältigung der Aufgaben in Staat und Gesellschaft bei.'"
+            },
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR",
+              "statement": "Unterstützte seinen Minderheitsantrag, der stärker auf die Entfaltung der persönlichen Fähigkeiten fokussiert und als Kompromiss mit dem Nationalrat gedacht ist."
+            },
+            {
+              "name": "Marty Dick",
+              "role": "R, TI",
+              "statement": "Brachte einen eigenen Antrag ein ('Jede Person nimmt Verantwortung für sich selber wahr und trägt nach ihren Kräften zur Bewältigung der Aufgaben in Staat und Gesellschaft bei'), der als redaktionelle Verbesserung gedacht war."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Überlässt die Auswahl der Formulierung dem Rat; im Zweifel sei die kürzeste Formulierung die beste."
+            }
+          ],
+          "contested_points": [
+            "Formulierung des Artikels über individuelle und gesellschaftliche Verantwortung",
+            "Ob Selbstentfaltung als Voraussetzung für Verantwortungsübernahme erwähnt werden soll",
+            "Ob Bezug auf Nationalratsbeschluss (Art. 3b) hergestellt werden soll"
+          ],
+          "amendments_proposed": [
+            "Mehrheit: 'Neben der Verantwortung für sich selber trägt jede Person nach ihren Kräften zur Bewältigung der Aufgaben in Staat und Gesellschaft bei'",
+            "Minderheit (Aeby): Titel 'Individuelle und gesellschaftliche Verantwortung'; Wortlaut fokussiert auf Entfaltung der Fähigkeiten als Voraussetzung für Verantwortung",
+            "Antrag Marty Dick: 'Jede Person nimmt Verantwortung für sich selber wahr und trägt nach ihren Kräften zur Bewältigung der Aufgaben in Staat und Gesellschaft bei'"
+          ],
+          "vote_result": "Kommissionsmehrheit zog Antrag zugunsten Antrag Marty Dick zurück. Für Antrag Marty Dick 33 Stimmen, für Minderheit (Aeby) 3 Stimmen.",
+          "key_quotes": [
+            {
+              "speaker": "Marty Dick",
+              "quote": "La discussion d'hier a été intéressante et M. Aeby a eu le mérite de soulever le problème. Cela nous a permis de constater que la proposition de la majorité de la commission présentait certaines faiblesses dans sa rédaction."
+            }
+          ],
+          "page_refs": [
+            "161",
+            "162",
+            "163",
+            "164",
+            "165"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Artikel 5a: Kommission beantragt Festhalten (Ständeratsfassung einfacher und klarer)."
+            },
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR",
+              "statement": "Beantragte Kompromiss: Titel des Nationalrats ('Individuelle und gesellschaftliche Verantwortung'), aber Text des Ständerats."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Inhaltlich für Ständeratsfassung; verstand Aebys Kompromissversuch. Empfahl Festhalten beim Text."
+            }
+          ],
+          "contested_points": [
+            "Ob Titel 'Verantwortung' oder 'Individuelle und gesellschaftliche Verantwortung' lauten soll",
+            "Ob Absatz 1 des Nationalrats (individualistische Grundhaltung) aufgenommen werden soll"
+          ],
+          "amendments_proposed": [
+            "Antrag Aeby: Titel gemäss Nationalrat, Absätze gemäss Ständerat"
+          ],
+          "vote_result": "Titel: Angenommen gemäss Antrag Aeby. Abs. 1, 2: Angenommen gemäss Kommissionsantrag.",
+          "key_quotes": [
+            {
+              "speaker": "Inderkum Hansheiri",
+              "quote": "Ich beantrage Ihnen namens der Kommission, an unserer Fassung festzuhalten."
+            },
+            {
+              "speaker": "Aeby Pierre",
+              "quote": "Je ne vous dirai pas que le Conseil national, dans les travaux auxquels il s'est livré, est arrivé à une formulation extraordinaire."
+            }
+          ],
+          "page_refs": [
+            "213",
+            "214",
+            "215"
+          ]
+        }
+      ]
+    },
+    "5": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Zwei Abweichungen vom Bundesrat: Titel wird 'Grundsätze rechtsstaatlichen Handelns' (statt 'staatlichen Handelns'), und in Absatz 3 werden 'Behörden' ergänzt. Das Willkürverbot bleibt in Artikel 8."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL",
+              "statement": "Persönliche Fussnote: Begriff 'öffentliches Interesse' und 'verhältnismässig' in Artikel 4 erscheinen auch in Artikel 32, wo sie gefestigte Bedeutung haben. Hier in Art. 4 sind sie auf gesamte Staatstätigkeit bezogen."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Stimmt der Ergänzung der Rechtsstaatlichkeit zu."
+            }
+          ],
+          "contested_points": [
+            "Ob 'staatliches Handeln' oder 'rechtsstaatliches Handeln' im Titel",
+            "Verhältnis zu ethischen Ordnungsprinzipien in Absatz 1",
+            "Begriff 'öffentliches Interesse' und seine Bedeutung im Kontext"
+          ],
+          "amendments_proposed": [
+            "Kommission: Titel 'Grundsätze rechtsstaatlichen Handelns'",
+            "Kommission: Ergänzung von 'Behörden' neben 'staatliche Organe' in Absatz 3"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [
+            {
+              "speaker": "Inderkum Hansheiri",
+              "quote": "Damit soll verdeutlicht werden, dass in den Artikeln 1 bis 4 die Wesensmerkmale des schweizerischen Staatswesens sichtbar gemacht werden. Und eines dieser Wesensmerkmale besteht eben in der Rechtsstaatlichkeit."
+            }
+          ],
+          "page_refs": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 57k on sustainable development; commission anchored it as fundamental principle for environment section."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [
+            {
+              "speaker": "Aeby Pierre",
+              "quote": "La Confédération et les cantons agissent en permanence en faveur d'un rapport équilibré entre la nature et sa capacité de renouvellement et son utilisation par l'homme."
+            }
+          ],
+          "page_refs": [
+            "85",
+            "86"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Artikel 4 Abs. 3: Kommission schließt sich Nationalrat an beim Begriff 'Behörden' statt 'staatliche Organe'. Konzession im Differenzbereinigungsverfahren."
+            }
+          ],
+          "contested_points": [
+            "Ob 'Behörden' oder 'staatliche Organe' als Oberbegriff verwendet werden soll"
+          ],
+          "amendments_proposed": [
+            "Kommission: Zustimmung zum Beschluss des Nationalrates"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "213"
+          ]
+        }
+      ]
+    },
+    "7": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Artikel 7 enthält Rechtsgleichheit und Diskriminierungsverbot. Aufzählung in Absatz 2 nicht abschliessend ('namentlich'). Keine ausdrückliche Erwähnung sexueller Orientierung, um nicht Auftrag zu positiver Gesetzgebung zu suggerieren."
+            },
+            {
+              "name": "Beerli Christine",
+              "role": "R, BE",
+              "statement": "Beantragt Aufnahme von 'Lebensform' in Absatz 2 zum Schutz Homosexueller. Entweder nur Grundsatz oder vollständige Aufzählung."
+            },
+            {
+              "name": "Leumann Helen",
+              "role": "R, LU",
+              "statement": "Beantragt Aufnahme des 'Alters' in Absatz 2. Aufzählung muss vollständig sein oder wegfallen."
+            },
+            {
+              "name": "Brändli Christoffel",
+              "role": "V, GR",
+              "statement": "Beantragt Dreiteilung der Behinderung (körperlich, geistig, psychisch) gemäss nationalrätlicher Kommission und IV-Gesetz. Beantragt zudem Absatz 4 mit Gleichstellungsauftrag für Behinderte."
+            },
+            {
+              "name": "Spoerry Vreni",
+              "role": "R, ZH",
+              "statement": "Beantragt Streichung von Absatz 2 mit Aufzählung. Allgemeines Diskriminierungsverbot ohne Aufzählung umfasst alle. Aufzählung kann nie vollständig sein."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "Berichterstatter (R, BL)",
+              "statement": "Diskriminierung ist mehr als ungerechtfertigte Ungleichbehandlung: sie hat kollektive und abwertende Dimension. Empfiehlt Beibehaltung der Aufzählung oder Erweiterung, nicht aber vollständige Streichung."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Bundesrat empfiehlt Beibehaltung der exemplifikativen Aufzählung als ethisches Bekenntnis. Verfassung soll auch von Minderheiten getragen werden."
+            },
+            {
+              "name": "Simmen Rosemarie",
+              "role": "C, SO",
+              "statement": "Unterstützt Antrag Spoerry, weil Aufzählung immer unvollständig und somit ausschliessend wirkt."
+            },
+            {
+              "name": "Brunner Christiane",
+              "role": "S, GE",
+              "statement": "Verteidigt exemplifikatorische Aufzählung als symbolisch wichtig, auch für Homosexuelle."
+            }
+          ],
+          "contested_points": [
+            "Ob Absatz 2 mit Diskriminierungstatbeständen beibehalten, gestrichen oder erweitert werden soll",
+            "Aufnahme von 'Lebensform' (Homosexuelle) in die Aufzählung",
+            "Aufnahme von 'Alter' (Jugendliche) in die Aufzählung",
+            "Zweiteilung vs. Dreiteilung der Behinderung",
+            "Gleichstellungsauftrag für Behinderte in Absatz 4",
+            "Grundsätzliches Konzept: allgemeines Diskriminierungsverbot vs. exemplifikatorische Aufzählung"
+          ],
+          "amendments_proposed": [
+            "Antrag Beerli: Aufnahme von 'Lebensform' in Absatz 2",
+            "Antrag Leumann: Aufnahme von 'Alter' in Absatz 2",
+            "Antrag Brändli: Dreiteilung der Behinderung in Absatz 2 und neuer Absatz 4 mit Gleichstellungsauftrag",
+            "Antrag Spoerry: Streichung von Absatz 2, allgemeines Diskriminierungsverbot als neuer Absatz"
+          ],
+          "vote_result": "Abs. 1: Angenommen gemäss Kommission. Abs. 2: Eventualabstimmung: Antrag Beerli 26:14; Antrag Leumann 16:17 (abgelehnt); Antrag Brändli 21:17. Definitiv: Antrag Spoerry 29 Stimmen, Antrag Kommission/Beerli/Brändli 14 Stimmen. Abs. 3: Angenommen. Abs. 4 (Brändli): 11:20 abgelehnt. Ordnungsantrag Aeby (Rückkommen): 2:24 abgelehnt.",
+          "key_quotes": [
+            {
+              "speaker": "Rhinow René",
+              "quote": "Wenn Sie streichen wollen, dann sollten Sie eigentlich auch diesen Satz streichen und sagen, es brauche keinen Absatz 2. Wenn Sie den Satz 'Niemand darf diskriminiert werden' beibehalten, dann eröffnen Sie allenfalls dem Richter die Möglichkeit, selbst zu bestimmen, welche Gruppen besonders zu schützen sind."
+            },
+            {
+              "speaker": "Leuenberger Moritz",
+              "quote": "Diese Verfassung wird auch deshalb gemacht, damit sich dieses Land der Minderheiten mit ihr identifizieren kann."
+            },
+            {
+              "speaker": "Spoerry Vreni",
+              "quote": "Eine Diskriminierung ist eine sachlich ungerechtfertigte Ungleichbehandlung... Und dieser Grundsatz gilt für alle Menschen in diesem Land, gleich welcher Herkunft oder Rasse."
+            }
+          ],
+          "page_refs": [
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40"
+          ]
+        }
+      ]
+    },
+    "9": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Artikel 8 garantiert Schutz vor Willkür und Wahrung von Treu und Glauben. Kommission erwartet, dass Bundesgericht seine Praxis aufgrund des ausdrücklichen Willkürverbots im Grundrechtskatalog ändern muss."
+            }
+          ],
+          "contested_points": [
+            "Verhältnis zu Artikel 4 (allgemeine Grundsätze) und Bedeutung als selbständiges verfassungsmässiges Recht"
+          ],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "40"
+          ]
+        }
+      ]
+    },
+    "10": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Artikel 9 enthält das Recht auf Leben und persönliche Freiheit. Kommission beantragt 'das' statt 'ein' Recht auf Leben. Drei Worte 'in jedem Fall' in Absatz 2 werden gestrichen."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Einverstanden mit Kommissionsfassung."
+            }
+          ],
+          "contested_points": [
+            "Formulierung 'ein' vs. 'das' Recht auf Leben",
+            "Streichung von 'in jedem Fall'"
+          ],
+          "amendments_proposed": [
+            "Kommission: 'das' statt 'ein' Recht auf Leben",
+            "Kommission: Streichung von 'in jedem Fall' in Absatz 2"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "40"
+          ]
+        }
+      ]
+    },
+    "12": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Kommissionsmehrheit beantragt Titel 'Recht auf Hilfe in Notlagen' (statt 'Recht auf Existenzsicherung') und Formulierung mit Subsidiaritätsprinzip ('nicht in der Lage ist, für sich zu sorgen')."
+            },
+            {
+              "name": "Aeby Pierre",
+              "role": "Minderheit (S, FR)",
+              "statement": "Verteidigt Fassung des Bundesrates ('Recht auf Existenzsicherung'). Kritisiert, dass Kommissionsfassung als einziges Grundrecht bereits im Titel eine Einschränkung enthält. 'Notlage' ist subjektiv, nicht objektiv."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Hält an Bundesratsfassung fest. Subsidiaritätsprinzip ist in Artikel 33 verankert. Titel soll nicht schon relativieren."
+            }
+          ],
+          "contested_points": [
+            "Titel: 'Recht auf Existenzsicherung' (Bundesrat) vs. 'Recht auf Hilfe in Notlagen' (Kommissionsmehrheit)",
+            "Ob Subsidiaritätsprinzip ('nicht in der Lage ist, für sich zu sorgen') direkt im Text verankert werden soll",
+            "Systematik: Einschränkung eines Grundrechts bereits im Grundrechtstext"
+          ],
+          "amendments_proposed": [
+            "Kommissionsmehrheit: Neuer Titel und Subsidiaritätsklausel im Text",
+            "Minderheit Aeby/Gentil: Rückkehr zur Bundesratsfassung"
+          ],
+          "vote_result": "Antrag der Mehrheit: 29 Stimmen; Antrag der Minderheit: 6 Stimmen",
+          "key_quotes": [
+            {
+              "speaker": "Aeby Pierre",
+              "quote": "On vise un seul droit fondamental – et on ne peut pas mettre en doute que ce soit un droit fondamental – et on lui introduit une restriction... C'est un signe qu'on veut une moindre garantie."
+            },
+            {
+              "speaker": "Leuenberger Moritz",
+              "quote": "Wenn bei Artikel 10 allein schon der Titel – nachher aber auch der Text – relativiert wird, wird damit der Eindruck erweckt, dieses Menschenrecht auf Existenz würde ausgerechnet in diesem Bereich tatsächlich relativiert."
+            }
+          ],
+          "page_refs": [
+            "40",
+            "41"
+          ]
+        }
+      ]
+    },
+    "13": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Artikel 11 (Schutz der Privatsphäre) entspricht Artikel 8 EMRK. Keine grösseren Diskussionen."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "41"
+          ]
+        }
+      ]
+    },
+    "14": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Artikel 12 entspricht Artikel 54 der heutigen BV. Garantiert Ehe als Institut. Andere Formen des Zusammenlebens sind zwar erlaubt, geniessen aber keinen institutionellen Schutz."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Aus Artikel 12 kann keine Pflicht zur Ehe abgeleitet werden."
+            }
+          ],
+          "contested_points": [
+            "Verhältnis zu anderen Lebensformen (gleichgeschlechtliche Partnerschaften)"
+          ],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "41"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Beantragte Festhalten an der Fassung des Ständerates (Institutsgarantie der Ehe), da die Fassung des Nationalrates ('Recht auf Ehe und Familie') zu falschen Erwartungen und Auslegungen führen könnte."
+            }
+          ],
+          "contested_points": [
+            "Formulierung als Institutsgarantie vs. subjektives Recht auf Ehe und Familie",
+            "Mögliche Auslegung zugunsten unverheirateter Paare und Adoptionsrecht"
+          ],
+          "amendments_proposed": [
+            "Kommission: Festhalten an Ständeratsbeschluss (Institutsgarantie)"
+          ],
+          "vote_result": "Angenommen gemäss Kommissionsantrag (Festhalten).",
+          "key_quotes": [
+            {
+              "speaker": "Inderkum Hansheiri",
+              "quote": "Die Fassung des Nationalrates könnte zu falschen Erwartungen und Auslegungen führen. Es könnte nicht ausgeschlossen werden, dass auch unverheiratete Paare daraus ein Recht auf Familie ableiten würden, einschliesslich des Rechtes auf eine Adoption."
+            }
+          ],
+          "page_refs": [
+            "166"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Artikel 12 'Recht auf Ehe': Kommission beharrt auf Institutsgarantie der Ehe (nur für verschiedengeschlechtliche Paare). Dem Nationalrat folgen würde weitergehende Rechte (Adoption, In-vitro etc.) ermöglichen."
+            }
+          ],
+          "contested_points": [
+            "Ob 'Recht auf Ehe' oder 'Recht auf Ehe und Familie' als Titel und Inhalt"
+          ],
+          "amendments_proposed": [
+            "Kommission: Festhalten (nur 'Recht auf Ehe')"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [
+            {
+              "speaker": "Inderkum Hansheiri",
+              "quote": "Wenn wir hier dem Nationalrat folgen würden, könnte daraus noch weit mehr abgeleitet werden, zum Beispiel das Recht für gleichgeschlechtliche Paare auf Kinder, das Recht auf Adoption."
+            }
+          ],
+          "page_refs": [
+            "218"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "Artikel 12 normiert das Recht auf Familie in der Fassung des Nationalrates. Unter «Familie» verstehen auch wir die heute gängigen Familienformen, nämlich Eltern und Kinder im gemeinsamen Zusammenleben."
+            }
+          ],
+          "contested_points": [
+            "Formulierung des Rechts auf Ehe und Familie",
+            "Definition von Familie (gängige Familienformen)"
+          ],
+          "amendments_proposed": [
+            "Einigungskonferenz beantragt Zustimmung zum Beschluss des Nationalrates für Art. 12"
+          ],
+          "vote_result": "Angenommen gemäss Antrag der Einigungskonferenz (Zustimmung zum Nationalratsbeschluss)",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Unter «Familie» verstehen auch wir die heute gängigen Familienformen, nämlich Eltern und Kinder im gemeinsamen Zusammenleben. Mit dieser Art von Recht auf Familie haben wir kein Problem."
+            }
+          ],
+          "page_refs": [
+            "235"
+          ]
+        }
+      ]
+    },
+    "15": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Glaubens- und Gewissensfreiheit aus Artikeln 49 und 50 der geltenden BV, nur individualrechtlicher Charakter. Bezieht sich nur auf natürliche Personen."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "41",
+            "42"
+          ]
+        }
+      ]
+    },
+    "17": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Kommission beantragt Medienfreiheit aus Artikel 14 herauszunehmen und in separatem Artikel 14a zu regeln. Redaktionsgeheimnis wird auf Gesetzesebene verschoben, nicht vollständig aus Verfassung gestrichen."
+            },
+            {
+              "name": "Gentil Pierre-Alain",
+              "role": "Minderheit (S, JU)",
+              "statement": "Verteidigt Bundesratsfassung mit vollem Redaktionsgeheimnis. Mehrheitslösung ist unverhältnismässige Reaktion auf 'Fuites'. Freiheit der Presse muss geschützt werden."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Bundesrat unterstützt Zweiteilung (Art. 14 + 14a). Absatz 3 des neuen Artikels 14a ist jedoch zu restriktiv, da Grundprinzip des Redaktionsgeheimnisses nicht mehr genannt wird."
+            }
+          ],
+          "contested_points": [
+            "Ob Medienfreiheit in separatem Artikel geregelt werden soll",
+            "Ob das Redaktionsgeheimnis Verfassungsrang erhält oder nur auf Gesetzesebene",
+            "Reichweite des Redaktionsgeheimnisses"
+          ],
+          "amendments_proposed": [
+            "Kommissionsmehrheit: Separater Artikel 14a für Medienfreiheit; Redaktionsgeheimnis nur auf Gesetzesebene",
+            "Minderheit Gentil: Beibehaltung von Bundesratsfassung mit Redaktionsgeheimnis auf Verfassungsebene"
+          ],
+          "vote_result": "Antrag der Mehrheit: 33 Stimmen; Antrag der Minderheit: 5 Stimmen",
+          "key_quotes": [
+            {
+              "speaker": "Gentil Pierre-Alain",
+              "quote": "La démocratie ne sera que renforcée par l'existence d'une presse libre et indépendante."
+            },
+            {
+              "speaker": "Inderkum Hansheiri",
+              "quote": "Das Redaktionsgeheimnis ist europarechtlich abgesichert. Der Europäische Gerichtshof für Menschenrechte hat entschieden, dass die Informationsquelle geschützt werden müsse."
+            }
+          ],
+          "page_refs": [
+            "42",
+            "43"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 57i on film; commission moved it from energy section to culture section. Opposed Rochat's deletion of para. 2."
+            },
+            {
+              "name": "Rochat Eric",
+              "role": "L, VD",
+              "statement": "Proposed deletion of Art. 57i para. 2 on 'varied and quality' films as impossible to define and risking state cultural cinema."
+            },
+            {
+              "name": "Simmen Rosemarie",
+              "role": "C, SO",
+              "statement": "Opposed deletion; diversity provision protects minority language film cultures."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Opposed deletion; para. 2 provides constitutional basis for existing film legislation; deletion would be material change."
+            }
+          ],
+          "contested_points": [
+            "Whether para. 2 on 'varied and quality' film offer should be retained",
+            "Whether state can define 'quality' in film",
+            "Whether para. 1 alone is sufficient constitutional basis for film support"
+          ],
+          "amendments_proposed": [
+            "Rochat: delete Art. 57i para. 2"
+          ],
+          "vote_result": "Para. 1: Adopted. Para. 2: Commission 29, Rochat 5. Commission adopted.",
+          "key_quotes": [
+            {
+              "speaker": "Rochat Eric",
+              "quote": "Qu'est-ce déjà qu'un film de qualité? Il y a quelques règles des films à succès qui sont connues... Il est parfaitement impossible d'édicter des dispositions pour une offre de films de qualité."
+            }
+          ],
+          "page_refs": [
+            "84",
+            "85",
+            "86"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Beantragte Zustimmung zum Nationalratsbeschluss: 'Das Redaktionsgeheimnis ist gewährleistet.' statt der Ständeratsfassung, welche dem Gesetzgeber die Bestimmung des Umfangs überlassen hatte."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Dankte für das Einlenken. Nach dem Entscheid Goodwin des EGMR und neueren Bundesgerichtsentscheiden wäre es nicht angegangen, das Redaktionsgeheimnis einfach in die Disposition des Gesetzgebers zu stellen."
+            }
+          ],
+          "contested_points": [
+            "Ob Redaktionsgeheimnis direkt gewährleistet (Nationalrat) oder dem Gesetzgeber zur Bestimmung überlassen wird (ursprünglicher Ständeratsbeschluss)"
+          ],
+          "amendments_proposed": [
+            "Kommission: Zustimmung zum Nationalratsbeschluss ('Das Redaktionsgeheimnis ist gewährleistet')"
+          ],
+          "vote_result": "Angenommen gemäss Kommissionsantrag.",
+          "key_quotes": [
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Nach dem Entscheid Goodwin des Europäischen Gerichtshofes für Menschenrechte und nach zwei neueren Entscheiden des Bundesgerichtes vom 4. November 1997 ... wäre es nicht angegangen, das Redaktionsgeheimnis einfach in die Disposition des Gesetzgebers zu stellen."
+            }
+          ],
+          "page_refs": [
+            "167"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Plattner Gian-Reto",
+              "role": "S, BS",
+              "statement": "Beantragte Aufnahme der Bildung in den Auftrag von Radio und Fernsehen (Art. 76 Abs. 2). Neue Formulierung: 'Radio und Fernsehen tragen zur Bildung und kulturellen Entfaltung, zur freien Meinungsbildung und zur Unterhaltung bei.'"
+            },
+            {
+              "name": "Simmen Rosemarie",
+              "role": "C, SO",
+              "statement": "Unterstützte Plattner: Bildungsauftrag für konzessionierte Medien notwendig in Informationsgesellschaft."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Zögerte wegen Formulierung 'Bildung entfalten'. Schlug vor, Kommission zu folgen wenn keine bessere Formulierung."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Stimmte neuer Formulierung Plattner zu: materiell keine wesentliche Neuerung, Bildung war schon in kultureller Entfaltung enthalten."
+            }
+          ],
+          "contested_points": [
+            "Ob Bildung explizit als Auftrag von Radio und Fernsehen in Verfassung aufgenommen werden soll",
+            "Formulierung: 'Entfaltung der Bildung' vs. 'Bildung und kulturelle Entfaltung'"
+          ],
+          "amendments_proposed": [
+            "Antrag Plattner (neu): 'Radio und Fernsehen tragen zur Bildung und kulturellen Entfaltung, zur freien Meinungsbildung und zur Unterhaltung bei.'"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [
+            {
+              "speaker": "Plattner Gian-Reto",
+              "quote": "Schulkinder heute sitzen erfahrungsgemäss mehr Stunden vor dem Fernseher als vor dem Lehrer."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Ich kann dieser neuen Formulierung zustimmen, zumal ja allen klar ist, dass es sich hier materiell nicht um eine wesentliche Neuerung handelt."
+            }
+          ],
+          "page_refs": [
+            "188",
+            "192"
+          ]
+        }
+      ]
+    },
+    "18": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Sprachenfreiheit als ungeschriebenes Grundrecht anerkannt seit 1965, garantiert Gebrauch der Muttersprache. Formell schlanke und offene Bestimmung."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "43"
+          ]
+        }
+      ]
+    },
+    "21": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Kunstfreiheit nicht als ungeschriebenes Grundrecht anerkannt, aber durch Uno-Pakt I und EMRK abgedeckt."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "43"
+          ]
+        }
+      ]
+    },
+    "22": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Wissenschaftsfreiheit: Kommission hat auf Unterrichtsfreiheit verzichtet wegen kontroverser Vernehmlassungsergebnisse."
+            }
+          ],
+          "contested_points": [
+            "Ob Unterrichtsfreiheit in die Bestimmung aufgenommen werden soll"
+          ],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "43"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Beantragte Festhalten an Ständeratsfassung bei Absatz 3 (Möglichkeit der Bewilligungspflicht für Versammlungen auf öffentlichem Grund)."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Unterstützte Festhalten, da das Bundesgericht seine Praxis noch nicht geändert habe."
+            }
+          ],
+          "contested_points": [
+            "Bewilligungspflicht für Versammlungen auf öffentlichem Grund: Sachenrechtstheorie vs. Grundrechtstheorie"
+          ],
+          "amendments_proposed": [
+            "Kommission: Festhalten an Ständeratsbeschluss (Beibehaltung von Absatz 3)"
+          ],
+          "vote_result": "Angenommen gemäss Kommissionsantrag (Festhalten).",
+          "key_quotes": [],
+          "page_refs": [
+            "167",
+            "168"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Artikel 18 Abs. 3: Bewilligungspflicht für Versammlungen auf öffentlichem Grund. Kommission schließt sich Nationalrat an (Streichung), hält aber fest, dass Bewilligungen weiterhin gesetzlich möglich sind."
+            }
+          ],
+          "contested_points": [
+            "Ob Bewilligungspflicht für Versammlungen auf öffentlichem Grund explizit in Verfassung geregelt werden soll"
+          ],
+          "amendments_proposed": [
+            "Kommission: Zustimmung zum Beschluss des Nationalrates (Streichung von Abs. 3)"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [
+            {
+              "speaker": "Inderkum Hansheiri",
+              "quote": "Ich möchte klar auf folgendes hinweisen: Wenn wir hier ... dem Nationalrat folgen, darf dadurch nicht das Missverständnis entstehen, es sei unzulässig, für Versammlungen und Kundgebungen auf öffentlichem Grund eine Bewilligung zu verlangen."
+            }
+          ],
+          "page_refs": [
+            "218"
+          ]
+        }
+      ]
+    },
+    "23": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "Berichterstatter (C, UR)",
+              "statement": "Versammlungsfreiheit als ungeschriebenes Verfassungsrecht und durch EMRK Art. 11 abgestützt. Absatz 3 über Bewilligungspflicht für Klarheit."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "43"
+          ]
+        }
+      ]
+    },
+    "24": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Marty Dick",
+              "role": "Rapporteur (R, TI)",
+              "statement": "Artikel 20 entspricht Art. 45 Abs. 1 der geltenden BV. Änderung: 'entrer' statt 'revenir' für Schweizer, die im Ausland geboren werden."
+            }
+          ],
+          "contested_points": [
+            "Formulierung Absatz 2: 'revenir' vs. 'entrer en Suisse'"
+          ],
+          "amendments_proposed": [
+            "Kommission: 'd'entrer en Suisse' statt 'd'y revenir'"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "43",
+            "44"
+          ]
+        }
+      ]
+    },
+    "25": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Marty Dick",
+              "role": "Rapporteur (R, TI)",
+              "statement": "Schutz vor Ausweisung, Auslieferung und Ausschaffung: keine Diskussion von Prinzip. Einstimmig von Kommission angenommen."
+            },
+            {
+              "name": "Schmid Carlo",
+              "role": "C, AI",
+              "statement": "Fragt nach Verhältnis zu Bundesbeschluss über Zusammenarbeit mit internationalen Gerichten. Seinerzeit wurde argumentiert, es handle sich nicht um Auslieferung."
+            }
+          ],
+          "contested_points": [
+            "Verhältnis zum Bundesbeschluss über internationale Strafgerichte"
+          ],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "44"
+          ]
+        }
+      ]
+    },
+    "26": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Marty Dick",
+              "role": "Rapporteur (R, TI)",
+              "statement": "Eigentumsgarantie entspricht Art. 22ter der geltenden BV. Diskussion über Entschädigungsprinzip: 'volle Entschädigung' (dt./it.) vs. 'juste indemnité' (fr.). Bundesratsfassung mit 'voller Entschädigung' korrekt."
+            },
+            {
+              "name": "Aeby Pierre",
+              "role": "Minderheit (S, FR)",
+              "statement": "Beantragt 'angemessene Entschädigung' statt 'volle Entschädigung'. 'Volle Entschädigung' führt zu Bereicherung der Exproprierten."
+            },
+            {
+              "name": "Büttiker Rolf",
+              "role": "R, SO",
+              "statement": "Lehnt Minderheitsantrag ab. Wechsel von 'voller' zu 'angemessener' Entschädigung wäre materiell gravierend und hätte nichts mit Nachführung zu tun."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Bittet, an Bundesratsfassung festzuhalten. Änderung ginge über Nachführung hinaus."
+            }
+          ],
+          "contested_points": [
+            "Ob 'volle' oder 'angemessene/équitable' Entschädigung bei Enteignung",
+            "Diskrepanz zwischen deutscher/italienischer und französischer Sprachversion der geltenden BV"
+          ],
+          "amendments_proposed": [
+            "Minderheit Aeby: 'angemessene Entschädigung' statt 'volle Entschädigung'"
+          ],
+          "vote_result": "Antrag der Mehrheit: 34 Stimmen; Antrag der Minderheit: 5 Stimmen",
+          "key_quotes": [
+            {
+              "speaker": "Marty Dick",
+              "quote": "La doctrine et la jurisprudence ont affirmé à plusieurs reprises que ce sont bien les versions allemande et italienne qui sont correctes: elles expriment le principe de l'«Eigentumsgarantie als Wertgarantie»."
+            }
+          ],
+          "page_refs": [
+            "44",
+            "45"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Marty Dick",
+              "role": "R, TI, rapporteur",
+              "statement": "Beantragte Festhalten an Ständeratsfassung. Der Nationalrat habe einen Nachsatz eingefügt, wonach 'andere Eigentumsbeschränkungen' einen angemessenen Ausgleich erfordern, was weit über die Nachführung hinausgehe und unberechenbare finanzielle Konsequenzen hätte."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Unterstützte Festhalten; der Nachsatz sei eine rechtspolitische Neuerung in einem sehr sensiblen verfassungsrechtlichen Bereich."
+            }
+          ],
+          "contested_points": [
+            "Ob auch andere Eigentumsbeschränkungen (ausserhalb formeller/materieller Enteignung) einen angemessenen Ausgleich erfordern sollen"
+          ],
+          "amendments_proposed": [
+            "Kommission: Festhalten an Ständeratsbeschluss (kein Ausgleich für sonstige Eigentumsbeschränkungen)"
+          ],
+          "vote_result": "Angenommen gemäss Kommissionsantrag (Festhalten).",
+          "key_quotes": [
+            {
+              "speaker": "Marty Dick",
+              "quote": "Si nous suivons la décision du Conseil national, nous changeons complètement le système actuel. Cela pourrait avoir des conséquences financières qui sont difficilement calculables mais qui seraient très importantes."
+            }
+          ],
+          "page_refs": [
+            "168"
+          ]
+        }
+      ]
+    },
+    "27": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Marty Dick",
+              "role": "Rapporteur (R, TI)",
+              "statement": "Wirtschaftsfreiheit als Grundrecht des Individuums zur Ausübung einer Erwerbstätigkeit. Kein institutionelles Verständnis (das ist Art. 85). Einstimmig von Kommission angenommen."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "45"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Arts. 61-64 on forests, nature protection, fishing/hunting, animals: all adopted with minor modifications."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "88",
+            "89",
+            "90"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Artikel 85 Abs. 3: Kommission beharrt auf Erwähnung von Massnahmen, die den Wettbewerb gefährden, als Ausnahmen zur Wirtschaftsfreiheit."
+            }
+          ],
+          "contested_points": [
+            "Ob 'insbesondere auch Massnahmen, die den Wettbewerb gefährden' in Abs. 3 aufgenommen werden soll"
+          ],
+          "amendments_proposed": [
+            "Kommission: Festhalten"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "190",
+            "191",
+            "225"
+          ]
+        }
+      ]
+    },
+    "28": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Cottier Anton",
+              "role": "Berichterstatter (C, FR)",
+              "statement": "Kommissionsmehrheit beantragt Streichung von Absätzen 3 und 4 (Streik und Aussperrung). Begründung: kein verfassungsmässiges Streikrecht in der Schweizer Rechtsordnung; Beamtenstreik gesetzlich verboten; Sozialpartnerschaft als Acquis suisse."
+            },
+            {
+              "name": "Marty Dick",
+              "role": "Minderheit I (R, TI)",
+              "statement": "Verteidigt Aufnahme von Streik und Aussperrung in eingeschränkter Form (Minderheit I). Kompromisslösung mit klaren Grenzen für zukünftige Rechtsprechung."
+            },
+            {
+              "name": "Gentil Pierre-Alain",
+              "role": "Minderheit II (S, JU)",
+              "statement": "Verteidigt Bundesratsfassung (Minderheit II). Streikrecht gut eingegrenzt: nur für Arbeitsbeziehungen, keine politischen Streiks, Friedenspflicht muss eingehalten sein."
+            },
+            {
+              "name": "Forster Erika",
+              "role": "R, SG",
+              "statement": "Unterstützt Mehrheitsantrag (Streichung). Streik ist kein ungeschriebenes Verfassungsrecht. Aufnahme würde unnötige Konflikte schaffen."
+            },
+            {
+              "name": "Frick Bruno",
+              "role": "C, SZ",
+              "statement": "Streikrecht besteht als eingeschränktes ungeschriebenes Verfassungsrecht. Streichung würde hinter geltendes Recht zurückgehen."
+            },
+            {
+              "name": "Brunner Christiane",
+              "role": "S, GE",
+              "statement": "Streikrecht ist implizit in Schweizer Recht anerkannt. Sozialpartnerschaft basiert auf Anerkennung des Streikrechts."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "Berichterstatter (R, BL)",
+              "statement": "Empfiehlt Minderheitsantrag I (Marty) als Kompromiss, der beiden Seiten gestattet, das Gesicht zu wahren."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Erste Priorität: Bundesratsfassung. Zweite Priorität: Minderheit I. Streichung unter keinen Umständen akzeptabel."
+            },
+            {
+              "name": "Reimann Maximilian",
+              "role": "V, AG",
+              "statement": "Unterstützt Mehrheitsantrag (Streichung). Streik und Aussperrung sind kein ungeschriebenes Verfassungsrecht."
+            },
+            {
+              "name": "Danioth Hans",
+              "role": "C, UR",
+              "statement": "Unterstützt Minderheit I. Bundesgericht hat Streikrecht nicht abgelehnt, sondern offengelassen. Klare Grenzen schützen vor ausufernden Interpretationen."
+            }
+          ],
+          "contested_points": [
+            "Ob Streik und Aussperrung in der Verfassung erwähnt werden sollen",
+            "Ob das Streikrecht bereits ungeschriebenes Verfassungsrecht darstellt",
+            "Verhältnis zur Sozialpartnerschaft und zum Beamtenstreikverbot",
+            "Ob Aufnahme über die Nachführung hinausgeht",
+            "Welche der drei Varianten (Mehrheit, Minderheit I, Minderheit II/Bundesrat) zu bevorzugen ist"
+          ],
+          "amendments_proposed": [
+            "Kommissionsmehrheit: Streichung von Absätzen 3 und 4",
+            "Minderheit I (Marty): Erwähnung von Streik und Aussperrung ohne Grundrechtscharakter, mit klaren Grenzen",
+            "Minderheit II (Aeby): Bundesratsfassung mit Grundrecht auf Streik"
+          ],
+          "vote_result": "Eventualabstimmung: Minderheit I 31 Stimmen, Minderheit II 8 Stimmen. Definitiv: Mehrheit 24 Stimmen, Minderheit I 16 Stimmen. Mehrheitsantrag (Streichung) angenommen.",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Es scheint mir fast, als ob die Debatte auf den Satz reduziert werden könnte: Wer Streik ablehnt, streicht ihn aus der Verfassung. Aber so einfach geht es nicht!"
+            },
+            {
+              "speaker": "Rhinow René",
+              "quote": "Wer den Streik regle, wolle ihn auch – dies ist aber so absurd, wie wenn man denjenigen, die den Konkurs regeln wollen, vorwerfen würde, sie wollten den Konkurs."
+            },
+            {
+              "speaker": "Leuenberger Moritz",
+              "quote": "Unter gar keinen Umständen aber kann der Bundesrat der Mehrheit zustimmen."
+            },
+            {
+              "speaker": "Brunner Christiane",
+              "quote": "Toute notre tradition de partenariat social repose sur la reconnaissance implicite du droit de recourir à des mesures collectives de lutte."
+            }
+          ],
+          "page_refs": [
+            "45",
+            "46",
+            "47",
+            "48",
+            "49",
+            "50"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Erläuterte die Kommissionsmehrheitsfassung, die Streik und Aussperrung nur unter bestimmten Voraussetzungen für zulässig erklärt (kein ausdrückliches 'Recht auf Streik'). Die Formulierung gibt die geltende Rechtslage wieder."
+            },
+            {
+              "name": "Brunner Christiane",
+              "role": "S, GE",
+              "statement": "Unterstützte die Minderheit I (Zustimmung zum Nationalratsbeschluss). Die Kommissionsfassung sei unehrlich; wenn Streik zulässig sei, sei es ein Recht. Kritisierte die zusätzlichen Bedingungen (Verhältnismässigkeit, Organisationserfordernis) als überflüssig und einschränkend."
+            },
+            {
+              "name": "Reimann Maximilian",
+              "role": "V, AG",
+              "statement": "Beantragte im Namen der Minderheit II Festhalten am ursprünglichen Ständeratsbeschluss (keine Verankerung des Streikrechts). Warnte vor Missbrauch und verwies auf ausländische Streikbeispiele."
+            },
+            {
+              "name": "Marty Dick",
+              "role": "R, TI",
+              "statement": "Unterstützte zunächst Minderheit III, schloss sich dann dem Antrag Inderkum an."
+            },
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR",
+              "statement": "Brachte einen eigenen Antrag ein ohne das Wörtchen 'nur' und ohne das Erfordernis der Arbeitgeberorganisationen, aber mit Verhältnismässigkeitsprinzip."
+            },
+            {
+              "name": "Forster Erika",
+              "role": "R, SG",
+              "statement": "Unterstützte die Kommissionsmehrheit. Die vier Elemente der Mehrheitsfassung geben die heutige Rechtswirklichkeit wieder; wilde Streiks werden nicht geduldet."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Dankte der Mehrheit für die Bewegung in Richtung Bundesrat/Nationalrat. Empfahl den Antrag Inderkum als beste Lösung, da dieser das Verhältnismässigkeitsprinzip aufnimmt, ohne das problematische 'nur' und ohne das zu enge Kriterium der Arbeitgeberorganisation."
+            }
+          ],
+          "contested_points": [
+            "Ob Streikrecht ausdrücklich als Recht verankert werden soll (Nationalrat/Bundesrat) oder nur Zulässigkeitsbedingungen genannt werden",
+            "Ob das Wörtchen 'nur' aufgenommen werden soll",
+            "Ob Arbeitnehmer- und Arbeitgeberorganisationen als Träger genannt werden sollen",
+            "Ob das Verhältnismässigkeitsprinzip explizit erwähnt werden soll",
+            "Ob Streikrecht überhaupt in der Verfassung verankert werden soll (Minderheit II)"
+          ],
+          "amendments_proposed": [
+            "Mehrheit: 'Streik und Aussperrung sind nur zulässig, wenn sie Arbeitsbeziehungen betreffen, verhältnismässig sind, von Arbeitnehmer- oder Arbeitgeberorganisationen getragen werden und wenn keine Verpflichtungen entgegenstehen...'",
+            "Minderheit I (Aeby, Gentil): Zustimmung zum Nationalratsbeschluss",
+            "Minderheit II (Reimann u.a.): Festhalten am ursprünglichen Ständeratsbeschluss (keine Verankerung)",
+            "Minderheit III (Marty Dick, Inderkum): ohne 'nur' und ohne Organisationserfordernis, mit Verhältnismässigkeit",
+            "Antrag Inderkum: 'Streik und Aussperrung sind zulässig, wenn sie Arbeitsbeziehungen betreffen, verhältnismässig sind und keine Verpflichtungen entgegenstehen...'"
+          ],
+          "vote_result": "Abstimmung nicht explizit im Text vermerkt für diesen Artikel; Debatte endet mit Unterbrechung der Beratung.",
+          "key_quotes": [
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Wir dürfen doch nicht Blindekuh spielen vor einem Faktum, das tatsächlich besteht."
+            },
+            {
+              "speaker": "Reimann Maximilian",
+              "quote": "Das Streikrecht und die Aussperrung waren bis heute kein geschriebenes Verfassungsrecht; das steht ausser Zweifel."
+            },
+            {
+              "speaker": "Brunner Christiane",
+              "quote": "Car, si la grève et le lock-out sont licites, nécessairement ils constituent bel et bien un droit. Je trouverais donc plus honnête et plus simple de le déclarer ainsi."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Wenn Sie heute dem Antrag Inderkum zustimmen, dann haben wir dieses Problem gelöst; ich bin überzeugt, dass der Nationalrat dann auch zustimmen wird."
+            }
+          ],
+          "page_refs": [
+            "167",
+            "168",
+            "169",
+            "170",
+            "171",
+            "172"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Forster Erika",
+              "role": "Kommissionsberichterstatterin (R, SG)",
+              "statement": "Erläuterte die Mehrheitsfassung zur Koalitionsfreiheit und betonte, dass die tariffähigen Organisationen im Mehrheitsantrag nicht erwähnt werden, was ein wesentlicher Unterschied zur Minderheit III ist."
+            },
+            {
+              "name": "Brunner Christiane",
+              "role": "S, GE",
+              "statement": "Kritisierte Übersetzungsprobleme ('verhältnismässig' vs 'adapté aux circonstances') und inhaltliche Unstimmigkeiten bezüglich Arbeitgeberorganisationen. Forderte Rückweisung an Kommission oder Annahme des Antrages Inderkum."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Befürwortete Antrag Inderkum als nationalratsfähig. Betonte Notwendigkeit von Absatz 4 für Streikverbote im öffentlichen Interesse. Hält Mehrheitsantrag wegen 'nur' und engem Begriff 'Arbeitgeberorganisation' für nicht konsensfähig im Nationalrat."
+            }
+          ],
+          "contested_points": [
+            "Ob Streik und Aussperrung explizit als zulässig anerkannt werden sollen oder nur Schranken geregelt werden",
+            "Begriff der tariffähigen Organisationen vs. 'Arbeitnehmer- oder Arbeitgeberorganisationen'",
+            "Verhältnismässigkeitserfordernis ('verhältnismässig') und dessen Übersetzung ins Französische",
+            "Das Wort 'nur' in der Mehrheitsfassung als politisch-psychologische vs. rechtliche Differenz",
+            "Verbot des wilden Streiks: ob explizit aufzunehmen",
+            "Ob Arbeitgeberorganisation für Aussperrung Voraussetzung sein soll"
+          ],
+          "amendments_proposed": [
+            "Minderheit I (Aeby): Zustimmung zum Beschluss des Nationalrates",
+            "Minderheit II (Reimann): Keine Regelung (alles offenlassen)",
+            "Minderheit III (Marty Dick): Eigene Fassung ohne tariffähige Organisationen und ohne 'nur'",
+            "Antrag Inderkum: Modifizierte Fassung der Minderheit III mit Verhältnismässigkeit, ohne 'nur'; Minderheit III zurückgezogen zugunsten Inderkum"
+          ],
+          "vote_result": "Erste Eventualabstimmung: Inderkum 22, Mehrheit 17. Zweite Eventualabstimmung: Inderkum 32, Minderheit I 4. Definitiv: Inderkum 23, Minderheit II 15. Antrag Inderkum angenommen.",
+          "key_quotes": [
+            {
+              "speaker": "Forster Erika",
+              "quote": "Das Verbot des wilden Streiks fehlt im Antrag der Minderheit III. Jetzt kann man sicher zu Recht sagen, dieses gelte weiterhin aufgrund von Lehre und Rechtsprechung. Aber warum regeln wir denn drei Voraussetzungen und sagen just von dieser vierten nichts?"
+            },
+            {
+              "speaker": "Brunner Christiane",
+              "quote": "'Verhältnismässig', c'est en quelque sorte 'proportionnel'; une grève doit être proportionnelle. Mais en français, c'est traduit par 'doit être adapté aux circonstances' ... La traduction correcte est 'proportionnée'."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Ich bin überzeugt, dass der Antrag der Minderheit III in der Fassung von Herrn Inderkum im Nationalrat mehrheitsfähig sein wird, und ich werde im Nationalrat auch dafür kämpfen."
+            }
+          ],
+          "page_refs": [
+            "172",
+            "173"
+          ]
+        }
+      ]
+    },
+    "33": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Marty Dick",
+              "role": "R, TI, rapporteur",
+              "statement": "Presented Art. 29 (Petitionsrecht) on behalf of commission, recommending deletion of paragraph 2 as redundant."
+            },
+            {
+              "name": "Gentil Pierre-Alain",
+              "role": "S, JU, minority",
+              "statement": "Argued that citizens' right to petition is meaningless without obligation for authorities to respond."
+            },
+            {
+              "name": "Büttiker Rolf",
+              "role": "R, SO",
+              "statement": "Proposed following Federal Council version (keeping para. 2), warning against both commission majority and minority positions."
+            },
+            {
+              "name": "Schmid Carlo",
+              "role": "C, AI",
+              "statement": "Supported Büttiker proposal citing 'commercial decency' but noted petition right is historically outdated."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Agreed with Bundesrat position; noted real risk of disadvantage to petitioners despite good intentions."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Supported Federal Council version with obligation to take note but not necessarily respond to every petition."
+            }
+          ],
+          "contested_points": [
+            "Whether Art. 29 para. 2 requiring authorities to 'take note' of petitions should be retained",
+            "Whether authorities should be obliged to respond to petitions",
+            "Risk of abuse through mass petitions generated by computer"
+          ],
+          "amendments_proposed": [
+            "Büttiker: retain Federal Council version (Art. 29 para. 2 kept)",
+            "Gentil minority: require authorities to inform petitioners of how their petition will be handled"
+          ],
+          "vote_result": "Preliminary: Büttiker 26, minority 5. Final: Büttiker 23, commission majority 10. Büttiker amendment adopted.",
+          "key_quotes": [
+            {
+              "speaker": "Marty Dick",
+              "quote": "Die Subkommission 2 hat gefunden, es sei eine Frechheit, den Behörden zu unterstellen, dass sie etwas nur lesen, wenn man es ausdrücklich sagt."
+            },
+            {
+              "speaker": "Schmid Carlo",
+              "quote": "Das Petitionsrecht ist heute im Prinzip ein Schlag ins Wasser."
+            },
+            {
+              "speaker": "Gentil Pierre-Alain",
+              "quote": "Sans cette obligation faite à l'autorité de répondre à une pétition, nous craignons que le droit de pétition soit un droit vide de sens."
+            }
+          ],
+          "page_refs": [
+            "60",
+            "61"
+          ]
+        }
+      ]
+    },
+    "34": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Marty Dick",
+              "role": "R, TI, rapporteur",
+              "statement": "Presented Art. 30 on political rights (freedom of vote); no critical reservations in commission."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [
+            {
+              "speaker": "Marty Dick",
+              "quote": "L'article 30 codifie la liberté de vote aujourd'hui déjà reconnue par le Tribunal fédéral comme droit constitutionnel non écrit."
+            }
+          ],
+          "page_refs": [
+            "61"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Verwies bei Artikel 3 auf die systematische Lösung der Kommission, wonach Absätze 2 und 3 des bundesrätlichen Entwurfs zu Artikel 34a und Artikel 36/37 verlagert wurden."
+            }
+          ],
+          "contested_points": [
+            "Systematische Verortung der Bürgerrechte (anschliessend an Grundrechte vs. im Föderalismuskapitel)"
+          ],
+          "amendments_proposed": [
+            "Kommission: Festhalten an eigener Systematik"
+          ],
+          "vote_result": "Angenommen gemäss Kommissionsantrag.",
+          "key_quotes": [],
+          "page_refs": [
+            "161",
+            "162"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Erläuterte Garantie der politischen Rechte als redaktionelle Anpassung in Zusammenhang mit den folgenden Artikeln 32a ff."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [
+            "Kommission: Titel 'Garantie der politischen Rechte', Abs. 1 und 2 mit redaktionellen Anpassungen"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "173"
+          ]
+        }
+      ]
+    },
+    "35": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Marty Dick",
+              "role": "R, TI, rapporteur",
+              "statement": "Presented Art. 31 on realization of fundamental rights, including horizontal effect between private parties."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [
+            {
+              "speaker": "Marty Dick",
+              "quote": "Les droits fondamentaux ont aussi des effets horizontaux... 'A travail égal, salaire égal'."
+            }
+          ],
+          "page_refs": [
+            "61",
+            "62"
+          ]
+        }
+      ]
+    },
+    "36": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Marty Dick",
+              "role": "R, TI, rapporteur",
+              "statement": "Presented Art. 32 on restrictions of fundamental rights; commission modified structure but not substance. Opposed Schmid proposal as going backwards."
+            },
+            {
+              "name": "Schmid Carlo",
+              "role": "C, AI",
+              "statement": "Proposed listing specific public interests justifying restrictions to limit Federal Court's political discretion. Acknowledged proposal was tactical to stimulate debate."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Opposed Schmid: his proposal would prevent energy policy, land use planning, and curtail cantonal autonomy."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Supported commission version; noted Schmid's list could create uncertainty e.g. on 'Moral' as public interest."
+            }
+          ],
+          "contested_points": [
+            "Whether to enumerate specific public interests justifying fundamental rights restrictions in the constitution",
+            "Role of Federal Court vs. legislature in defining public interest",
+            "Risk that enumerated list would exclude legitimate interests like environmental protection or land use planning"
+          ],
+          "amendments_proposed": [
+            "Schmid Carlo: add Art. 32 para. 1bis listing permitted grounds for restriction (security, public order, economic welfare, health, morality, rights of others)"
+          ],
+          "vote_result": "Para. 1, 1ter, 2, 3: Angenommen. Para. 1bis: Commission 22, Schmid Carlo 11. Commission adopted.",
+          "key_quotes": [
+            {
+              "speaker": "Schmid Carlo",
+              "quote": "Das Politisieren ist unser Geschäft, Recht zu sprechen nicht; Recht zu sprechen ist das Geschäft des Bundesgerichtes, das Politisieren nicht."
+            },
+            {
+              "speaker": "Rhinow René",
+              "quote": "Ihr Antrag, Herr Schmid, gehört in die Kategorie 'gutgemeint ist oft das Gegenteil von gut'."
+            }
+          ],
+          "page_refs": [
+            "62",
+            "63",
+            "64"
+          ]
+        }
+      ]
+    },
+    "37": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 32a on citizenship; explained inversion of order (Swiss, cantonal, communal) and changes to terminology."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "64"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Bürgerrechte: Artikel 32a – Kommission behielt eigene Systematik (dreifaches Bürgerrecht). Artikel 32b – eigene Formulierung mit 'personnes étrangères'. Artikel 32c – Titel geändert, Formulierungen angepasst."
+            }
+          ],
+          "contested_points": [
+            "Systematik: Ständerat will dreifaches Bürgerrecht (Gemeinde-, Kantons-, Bundesbürgerrecht) ausdrücken",
+            "Nationalrat geht auf Fassung von 1848 zurück, ohne Gemeindebürgerrecht explizit zu erwähnen"
+          ],
+          "amendments_proposed": [
+            "Kommission (zweite Runde): Festhalten an ständerätlicher Fassung zu Absatz 1 (dreifaches Bürgerrecht)"
+          ],
+          "vote_result": "Angenommen (Festhalten)",
+          "key_quotes": [
+            {
+              "speaker": "Rhinow René",
+              "quote": "Wir wissen alle, dass es letztlich die Bürgergemeinden sind, welche den eigentlichen Einbürgerungsakt vornehmen."
+            }
+          ],
+          "page_refs": [
+            "173",
+            "174",
+            "219"
+          ]
+        }
+      ]
+    },
+    "38": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 32b on acquisition and loss of citizenship; new para. 3 on naturalization of stateless children."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Noted para. 3 goes beyond 'mise à jour' but corresponds to international standards; did not oppose."
+            }
+          ],
+          "contested_points": [
+            "Whether new para. 3 on naturalization of stateless children exceeds the scope of 'mise à jour'"
+          ],
+          "amendments_proposed": [
+            "Commission added para. 3 on naturalization of stateless children"
+          ],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [
+            {
+              "speaker": "Leuenberger Moritz",
+              "quote": "Wahrscheinlich hat sich Ihre vorberatende Kommission gesagt, dass sie beim Streikrecht einen gravierenden Fehler gemacht habe und diesen jetzt hier wiedergutmachen wolle."
+            }
+          ],
+          "page_refs": [
+            "64"
+          ]
+        }
+      ]
+    },
+    "39": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Brief comment on Art. 32c; commission deleted second sentence of para. 4 as superfluous."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "64"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Artikel 32c: Titel 'Ausübung der politischen Rechte', Absatz 2 im Französischen angepasst für geschlechtsneutrale Formulierung. Artikel 32d: Kommission behält Muss-Vorschrift für Bundesregelungen über Auslandschweizer (statt Kann-Vorschrift des Nationalrats)."
+            }
+          ],
+          "contested_points": [
+            "Ob Bund Muss- oder Kann-Vorschriften über Rechte und Pflichten der Auslandschweizer erlässt",
+            "Ob Sozialversicherungen in Katalog für Auslandschweizer aufgenommen werden (zweite Runde)"
+          ],
+          "amendments_proposed": [
+            "Zweite Runde: Kommission schlägt Zustimmung zum Nationalrat bei Art. 32d vor"
+          ],
+          "vote_result": "Angenommen (verschiedene Abstimmungen je nach Runde)",
+          "key_quotes": [
+            {
+              "speaker": "Büttiker Rolf",
+              "quote": "Ich möchte sicher sein, dass in bezug auf Absatz 1 keine neuen Subventionstatbestände bzw. Sozialversicherungstatbestände geschaffen werden."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Die Konkretisierung erfolgt vielmehr auf der Stufe der einfachen Gesetzgebung."
+            }
+          ],
+          "page_refs": [
+            "174",
+            "210"
+          ]
+        }
+      ]
+    },
+    "40": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 32d on Swiss abroad; commission strengthened Confederation's commitment to maintaining links; noted translation issue between German and French."
+            }
+          ],
+          "contested_points": [
+            "Gender-inclusive language discrepancy between German 'Auslandschweizerinnen und -schweizer' and French 'Suisses de l'étranger'"
+          ],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "64"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Artikel 32d: Kommission behielt Muss-Vorschrift (Bund erlässt Vorschriften über Rechte und Pflichten der Auslandschweizer) gegenüber Kann-Vorschrift des Nationalrats."
+            }
+          ],
+          "contested_points": [
+            "Muss- vs. Kann-Vorschrift für Bundesregelungen betreffend Auslandschweizer"
+          ],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "174"
+          ]
+        }
+      ]
+    },
+    "41": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 33 (Sozialartikel); explained no competences or individual rights derive from it; opposed Rochat's referral motion."
+            },
+            {
+              "name": "Rochat Eric",
+              "role": "L, VD",
+              "statement": "Proposed referral to commission for clearer separation of already-realized rights from mere goals."
+            },
+            {
+              "name": "Brunner Christiane",
+              "role": "S, GE",
+              "statement": "Proposed adding letter g on social and professional integration of foreigners."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Opposed referral; impossible to neatly separate fulfilled from unfulfilled goals."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Opposed referral; opposed Brunner amendment arguing integration applies to many groups, not just foreigners."
+            }
+          ],
+          "contested_points": [
+            "Whether Art. 33 is a 'fourre-tout' mixing different types of provisions",
+            "Whether to refer the article back to commission for restructuring",
+            "Whether to add integration of foreigners as a social goal"
+          ],
+          "amendments_proposed": [
+            "Rochat: referral to commission",
+            "Brunner Christiane: add Art. 33 para. 1 lit. g on social and professional integration of foreigners"
+          ],
+          "vote_result": "Referral rejected: 5 for, 30 against. Para. 1a, 1 lit. a-f, 2: Adopted. Brunner amendment: 4 for, 31 against. Rejected.",
+          "key_quotes": [
+            {
+              "speaker": "Aeby Pierre",
+              "quote": "C'est la preuve que certains ou certaines d'entre nous peuvent se trouver effarouchés par la simple lecture de ce qu'est aujourd'hui notre Etat social."
+            },
+            {
+              "speaker": "Brunner Christiane",
+              "quote": "L'intégration des étrangers et des étrangères est un objectif social fondamental en Suisse."
+            }
+          ],
+          "page_refs": [
+            "68",
+            "69",
+            "70",
+            "71"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Erläuterte Sozialziele (Art. 33): Kompromisslösung mit Streichung von Abs. 1aa und 1a, Neufassung von Abs. 1bis und 1ter. Bericht über Streichung von Bst. a (jede Person hat an sozialer Sicherheit teil)."
+            }
+          ],
+          "contested_points": [
+            "Ob Grundsatz 'jede Person hat an der sozialen Sicherheit teil' (Bst. a) gestrichen werden soll",
+            "Systematik und Reihenfolge der Sozialziele",
+            "Ob Absatz 1aa (private Initiative als Grundlage sozialen Handelns) aufgenommen werden soll",
+            "In zweiter Runde: Variante zu Artikel 33 mit direktem Staatsauftrag zur Verwirklichung der Sozialziele"
+          ],
+          "amendments_proposed": [
+            "Bundesrat: Beibehaltung von Bst. a (jede Person an sozialer Sicherheit)",
+            "Minderheit Gentil/Aeby (zweite Runde): Variante zu Artikel 33 mit Absatz 2 'Wer staatliche Aufgaben wahrnimmt, ist zur Verwirklichung der Sozialziele verpflichtet'"
+          ],
+          "vote_result": "Abs. 1aa, 1a: Angenommen (Streichung). Abs. 1 Bst. a: Kommission 11, Bundesrat 9 (Kommission obsiegt, Streichung). Variante (zweite Runde): abgelehnt (alle gegen 2 Stimmen in Kommission).",
+          "key_quotes": [
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Sowohl der Bundesrat wie der Nationalrat hatten das Prinzip verankert, dass jede Person an der sozialen Sicherheit teilhat. Das sollte unseres Erachtens beibehalten werden, denn dieser Artikel richtet sich ja nicht nur an den Bund, sondern er richtet sich auch an die Kantone."
+            },
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Bisher gingen wir vom Grundsatz der Subsidiarität aus: Der Staat soll eingreifen, wo es private Organisationen oder der Betroffene selber nicht tun können. Nun wird diese Subsidiarität eliminiert."
+            }
+          ],
+          "page_refs": [
+            "174",
+            "175",
+            "231",
+            "232"
+          ]
+        }
+      ]
+    },
+    "50": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 41 on communes (Gemeindartikel); introduced minority position on urban agglomerations only."
+            },
+            {
+              "name": "Rochat Eric",
+              "role": "L, VD",
+              "statement": "Proposed combined version; noted French translation issue ('exigences' vs. 'intérêts')."
+            },
+            {
+              "name": "Uhlmann Hans",
+              "role": "V, TG",
+              "statement": "Proposed deletion of para. 2 to avoid creating second-class communes; later modified to delete only second part after comma."
+            },
+            {
+              "name": "Loretan Willy",
+              "role": "R, AG",
+              "statement": "Supported commission majority; recall motion history; warned against weakening the article."
+            },
+            {
+              "name": "Danioth Hans",
+              "role": "C, UR",
+              "statement": "Queried whether dynamic (urban agglomeration promotion) belongs in autonomy article."
+            },
+            {
+              "name": "Bloetzer Peter",
+              "role": "C, VS",
+              "statement": "Supported majority; urban agglomerations and mountain areas both have supra-cantonal significance."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Supported commission majority; 70-80% of Swiss live in agglomerations; they need constitutional recognition."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Warned against undoing compromise; urban agglomerations only mentioned here while mountain regions appear elsewhere."
+            }
+          ],
+          "contested_points": [
+            "Whether to include urban agglomerations alongside mountain regions in Art. 41 para. 2",
+            "Whether this creates 'second-class communes'",
+            "French translation 'exigences des communes' vs. 'intérêts/Anliegen der Gemeinden'",
+            "Whether this provision belongs in an article about communal autonomy"
+          ],
+          "amendments_proposed": [
+            "Uhlmann: delete para. 2 entirely (later modified to delete only 'insbesondere in städtischen Agglomerationen und in Berggebieten')",
+            "Rochat: French text correction ('intérêts particuliers' instead of 'exigences')",
+            "Aeby minority: mention only cities and urban agglomerations (not mountain regions)"
+          ],
+          "vote_result": "Para. 1: Adopted. Para. 2 preliminary: Uhlmann 17, minority Aeby 16. Final: majority/Rochat 31, Uhlmann 8. Commission majority adopted.",
+          "key_quotes": [
+            {
+              "speaker": "Leuenberger Moritz",
+              "quote": "Zwischen 70 und 80 Prozent der Bevölkerung leben heute in Agglomerationen... Der wirkliche, der gefährliche Graben für dieses Land ist der kulturelle Graben zwischen Stadt und Land."
+            },
+            {
+              "speaker": "Rhinow René",
+              "quote": "Ich bitte jetzt all diejenigen, die nicht in den städtischen Agglomerationen wohnen, daran zu denken, dass es diese andere Schweiz gibt und dass sie auch in der Verfassung erwähnt sein möchte."
+            }
+          ],
+          "page_refs": [
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
+            "78",
+            "79",
+            "80"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Gemeindeartikel (Art. 41): Kommission wollte eigene Fassung behalten. Loretan Willy beantragte Kompromiss: Nationalratsfassung für Abs. 1 und 2 mit Berggebieten in Abs. 3 und ohne Erwähnung der Kantone."
+            }
+          ],
+          "contested_points": [
+            "Ob Gemeindeautonomie als Bundesrechtsinstitut oder durch Kantone bestimmt wird",
+            "Ob Städte und Agglomerationen separat in Absatz 3 erwähnt werden",
+            "Ob Berggebiete in Absatz 3 aufgenommen werden",
+            "Ob Kantone in Absatz 3 verpflichtet werden auf Städte/Agglomerationen Rücksicht zu nehmen"
+          ],
+          "amendments_proposed": [
+            "Loretan Willy: Abs. 1+2 gemäss Nationalrat, Abs. 3 mit Berggebieten aber ohne Kantone",
+            "Minderheit Aeby: Zustimmung zum Beschluss des Nationalrates (ohne Berggebiete)",
+            "Dritte Runde: Kommission schlägt Abs. 1+2 gemäss Nationalrat, Abs. 3 mit 'dabei' und mit Berggebieten vor"
+          ],
+          "vote_result": "Erste Runde: Eventualabstimmung Loretan 20, Minderheit 5. Definitiv: Mehrheit 13, Loretan 13 – Stichentscheid Präsident für Mehrheit. Dritte Runde: Abs. 1+2 angenommen, Abs. 3 Kommission 32, Aeby 3.",
+          "key_quotes": [
+            {
+              "speaker": "Loretan Willy",
+              "quote": "Ich bitte Sie, meinem Vermittlungsantrag zuzustimmen. Ich glaube, dass wir so die Brücke für den Handschlag mit dem Nationalrat bauen können."
+            },
+            {
+              "speaker": "Aeby Pierre",
+              "quote": "En y ajoutant les régions de montagne, on enveloppe l'ensemble du territoire suisse, et c'est précisément ce qu'on ne veut pas."
+            },
+            {
+              "speaker": "Schmid Carlo",
+              "quote": "Wenn Sie in Absatz 3 die Städte und Agglomerationen nennen, die Berggebiete aber ausklammern, dann ist das eine sogenannte negative Norm."
+            }
+          ],
+          "page_refs": [
+            "176",
+            "177",
+            "211",
+            "212",
+            "213",
+            "214"
+          ]
+        }
+      ]
+    },
+    "42": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Detailed introduction to the chapter on Bund und Kantone and Zuständigkeiten."
+            },
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented minority on Art. 34a para. 2 (positive vs. restrictive formulation of Confederation's role)."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Supported minority formulation as 'schlanker' and less restrictive."
+            }
+          ],
+          "contested_points": [
+            "Whether Art. 34a para. 2 should state the Confederation 'nur' assumes tasks requiring uniform regulation (majority) or simply 'assumes' such tasks (minority/positive formulation)"
+          ],
+          "amendments_proposed": [
+            "Aeby minority: positive formulation without 'nur' in Art. 34a para. 2"
+          ],
+          "vote_result": "Majority: 27, Minority: 7. Majority adopted.",
+          "key_quotes": [
+            {
+              "speaker": "Aeby Pierre",
+              "quote": "Nous ne pouvons pas continuer à vivre constitutionnellement et légalement notre réalité avec une définition aussi négative du pouvoir de la Confédération."
+            }
+          ],
+          "page_refs": [
+            "70",
+            "71",
+            "72"
+          ]
+        }
+      ]
+    },
+    "43": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 42 (Kantonsverfassungen) and Art. 43 (Verfassungsmässige Ordnung); noted commission deleted provision on cost allocation for federal intervention."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "75"
+          ]
+        }
+      ]
+    },
+    "53": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 44 on cantonal territory and changes; noted new provision for cantonal border changes without mandatory national referendum."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "75"
+          ]
+        }
+      ]
+    },
+    "44": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Presented overview of competences chapter including systematic changes."
+            },
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented foreign affairs article; commission added 'preservation of the natural environment' to foreign policy goals."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "75",
+            "76"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Artikel 43 Abs. 2: Redaktionelle Differenz über Bundesintervention bei gestörter Ordnung eines Kantons. Kommission schlägt Zustimmung zum Nationalrat vor."
+            }
+          ],
+          "contested_points": [
+            "Ob die Herkunft der Gefahr (von einem anderen Kanton) explizit erwähnt werden soll"
+          ],
+          "amendments_proposed": [
+            "Kommission: Zustimmung zum Beschluss des Nationalrates"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "177"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "In Artikel 34a hat bezüglich der Zusammenarbeit von Bund und Kantonen die Fassung des Ständerates obsiegt, die sich ebenfalls für die Subsidiarität ausspricht, diese aber nicht nur als blossen Begriff in die Verfassung setzt, sondern gleich bestimmt, was Subsidiarität ist."
+            }
+          ],
+          "contested_points": [
+            "Formulierung der Zusammenarbeit zwischen Bund und Kantonen",
+            "Subsidiaritätsprinzip: blosser Begriff vs. inhaltliche Bestimmung"
+          ],
+          "amendments_proposed": [
+            "Einigungskonferenz beantragt Zustimmung zum Beschluss des Ständerates für Art. 34a Abs. 2"
+          ],
+          "vote_result": "Angenommen gemäss Antrag der Einigungskonferenz (Zustimmung zum Ständeratsbeschluss)",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Nur die Aufgaben, welche einer einheitlichen Regelung in der ganzen Eidgenossenschaft bedürfen, werden dem Bund übertragen. Mit der Fassung des Ständerates gewinnt die Verfassung einiges an Klarheit."
+            }
+          ],
+          "page_refs": [
+            "235"
+          ]
+        }
+      ]
+    },
+    "55": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 50 on cantonal participation in foreign policy decisions; commission simplified and improved Federal Council draft."
+            },
+            {
+              "name": "Schmid Carlo",
+              "role": "C, AI",
+              "statement": "Thanked commission for deleting reference to Conference of Cantonal Governments (KdK) as constitutional organ."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Recommended majority over minority; three-step differentiation is clearer."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Supported majority; noted difficulty of granting participation rights given speed of foreign policy decisions."
+            }
+          ],
+          "contested_points": [
+            "Whether minority formulation (Aeby) provides more or less clarity on cantonal participation in foreign negotiations",
+            "Timing of information ('en temps utile' vs. 'sans délai')",
+            "Whether cantons associated with negotiations themselves or only preparatory work"
+          ],
+          "amendments_proposed": [
+            "Aeby minority: alternative formulation of Art. 50 with 'touchés' instead of 'affectant', information 'sans délai', participation in preparatory work rather than negotiations"
+          ],
+          "vote_result": "Majority: 31, Minority: 4. Majority adopted.",
+          "key_quotes": [
+            {
+              "speaker": "Schmid Carlo",
+              "quote": "Diese gemeinsame Organisation ist eine dienliche, eine nützliche Organisation, aber sie ist kein Verfassungsorgan."
+            }
+          ],
+          "page_refs": [
+            "76",
+            "77",
+            "78"
+          ]
+        }
+      ]
+    },
+    "56": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Brief comment on Art. 51 on cantonal treaties with foreign states; follows Federal Council version."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "77"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Artikel 51 Abs. 2: Kommission schlägt Zustimmung zum Nationalrat vor – Kantone müssen Bund vor Vertragsabschluss informieren."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [
+            "Kommission: Zustimmung zum Beschluss des Nationalrates"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "178"
+          ]
+        }
+      ]
+    },
+    "57": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 52 (Ordensverbot equivalent); commission deleted it as anachronistic."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Noted deletion strengthens cantonal autonomy on this matter; agreed to deletion."
+            }
+          ],
+          "contested_points": [
+            "Whether to retain constitutional prohibition on accepting foreign decorations"
+          ],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté (deleted)",
+          "key_quotes": [
+            {
+              "speaker": "Aeby Pierre",
+              "quote": "L'article 52 avait quelque chose d'anachronique, non pas dans les principes qu'il pose, mais dans le fait de les insérer dans la constitution."
+            }
+          ],
+          "page_refs": [
+            "77",
+            "78"
+          ]
+        }
+      ]
+    },
+    "58": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 54 on Army; commission deleted para. 1 ('Die Schweiz hat eine Milizarmee') due to concerns about constitutionalizing 'Miliz' concept."
+            },
+            {
+              "name": "Spoerry Vreni",
+              "role": "R, ZH",
+              "statement": "Proposed modified version: simply 'Die Schweiz hat eine Armee' without 'Miliz' reference."
+            },
+            {
+              "name": "Reimann Maximilian",
+              "role": "V, AG",
+              "statement": "Opposed; commission version already implies army exists via title; unnecessary to add para. 1."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Could live with either version; noted milicia character derives from general conscription regardless."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Explained commission's reasoning: creating new constitutional term 'Miliz' after 150 years would raise interpretation problems."
+            }
+          ],
+          "contested_points": [
+            "Whether to retain explicit statement 'Die Schweiz hat eine Armee' in para. 1",
+            "Whether to include reference to 'Milizarmee' in the constitution",
+            "Risk that 'Miliz' term would be interpreted as prohibiting professionalization"
+          ],
+          "amendments_proposed": [
+            "Spoerry: Add para. 1 'Die Schweiz hat eine Armee' (without Miliz reference)"
+          ],
+          "vote_result": "Para. 1: Commission 20, Spoerry 16. Commission (no para. 1) adopted. Para. 2, 3: Adopted.",
+          "key_quotes": [
+            {
+              "speaker": "Rhinow René",
+              "quote": "Wir möchten nur nicht, dass neu ein Verfassungsbegriff 'Miliz' entsteht, bei dem man sich dann fragen muss: Was soll es bedeuten, wenn dieser nach 150 Jahren plötzlich neu in der Verfassung erscheint?"
+            }
+          ],
+          "page_refs": [
+            "79",
+            "80",
+            "81"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur, Minderheit",
+              "statement": "Wollte Absatz 1 streichen (keine Notwendigkeit, in Verfassung zu schreiben 'Die Schweiz hat eine Armee'). Verwies auf Professionalisierung."
+            },
+            {
+              "name": "Wicki Franz",
+              "role": "C, LU, Mehrheit",
+              "statement": "Für Mehrheit: Verfassung soll aussagen, die Schweiz habe eine Armee, und im zweiten Satz das Milizprinzip als Grundsatz festlegen, mit Ausnahmen möglich."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Gegen Streichungsantrag der Minderheit. Fragte, ob 'grundsätzlich' nicht einen schleichenden Prozess weg von der Milizarmee zeige."
+            }
+          ],
+          "contested_points": [
+            "Ob Absatz 1 ('Die Schweiz hat eine Armee') in der Verfassung stehen soll",
+            "Ob das Wort 'grundsätzlich' beim Milizprinzip den Weg zu einer Berufsarmee öffnet"
+          ],
+          "amendments_proposed": [
+            "Mehrheit: 'Die Schweiz hat eine Armee. Diese ist grundsätzlich nach dem Milizprinzip organisiert.'",
+            "Minderheit Aeby: Streichung von Absatz 1"
+          ],
+          "vote_result": "Mehrheit 24, Minderheit 2. Mehrheitsantrag angenommen.",
+          "key_quotes": [
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Ich fürchte, der Ausdruck 'grundsätzlich' zeigt ein wenig, dass wir uns irgendwie in einem schleichenden Prozess weg von der Milizarmee hin zu einer Berufsarmee befinden."
+            }
+          ],
+          "page_refs": [
+            "178",
+            "179"
+          ]
+        }
+      ]
+    },
+    "59": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 55 on military and alternative service; commission made slight rebalancing between military and civilian service."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "81"
+          ]
+        }
+      ]
+    },
+    "60": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 56 (Zivilschutz equivalent) follows Federal Council version."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "81"
+          ]
+        }
+      ]
+    },
+    "61": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 57 on civil protection; follows Federal Council with modification on cultural property."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "81"
+          ]
+        }
+      ]
+    },
+    "62": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 57a on education; commission placed this section higher in systematic order to emphasize importance."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "81"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Artikel 57a und 57abis: Kompromisslösung zu Schulwesen und Berufsbildung. Explizite Erwähnung der technischen Hochschulen in Art. 57abis Abs. 2 beibehalten, die der Nationalrat gestrichen hatte."
+            }
+          ],
+          "contested_points": [
+            "Ob technische Hochschulen explizit in Verfassung erwähnt werden",
+            "Systematische Einordnung der Berufsbildung"
+          ],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "179",
+            "180"
+          ]
+        }
+      ]
+    },
+    "64": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 57b on research adopted in Federal Council version without opposition."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "81"
+          ]
+        }
+      ]
+    },
+    "65": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 57c on statistics newly introduced by commission; Confederation lacked explicit statistics competence."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Noted that Federal Council's Botschaft had recommended statistics article but it was omitted from draft; commission reinserted it."
+            },
+            {
+              "name": "Büttiker Rolf",
+              "role": "R, SO",
+              "statement": "Welcomed statistics article; requested it be used to modernize census and save costs."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Thanked commission for reinserting statistics article."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [
+            {
+              "speaker": "Rhinow René",
+              "quote": "Jedenfalls haben wir ihn wieder in den Verfassungsentwurf eingesetzt und möchten vom Bundesrat gern den Dank dafür erhalten."
+            }
+          ],
+          "page_refs": [
+            "82"
+          ]
+        }
+      ]
+    },
+    "66": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 57d on education grants follows Federal Council; commission respected cantonal autonomy in education."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "82"
+          ]
+        }
+      ]
+    },
+    "67": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 57e on youth and adult education; commission added Art. 57e para. 1a on children's and youth needs; result of contact with youth organizations."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Emphasized para. 1a extends beyond education to general protection and promotion of children and youth."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "82",
+            "83"
+          ]
+        }
+      ]
+    },
+    "68": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 57f on sport follows existing constitutional principles."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "83"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Artikel 57f Sport: Zustimmung zum Nationalrat bei Abs. 1 und 1bis. Festhalten bei Abs. 2 (Jugendturnen und Obligatorium des Schulsports), den der Nationalrat gestrichen hatte."
+            }
+          ],
+          "contested_points": [
+            "Ob Absatz 2 (Obligatorium des Schulsports) in der Verfassung verbleibt"
+          ],
+          "amendments_proposed": [
+            "Kommission: Abs. 1 und 1bis gemäss Nationalrat; Abs. 2 Festhalten"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "180"
+          ]
+        }
+      ]
+    },
+    "69": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 57g on culture; commission created separate culture and language articles. Opposed Simmen proposal."
+            },
+            {
+              "name": "Simmen Rosemarie",
+              "role": "C, SO",
+              "statement": "Proposed adding 'primär' (cantons primarily responsible) and explicit authorization for Confederation's own measures respecting cantonal competences."
+            },
+            {
+              "name": "Cavadini Jean",
+              "role": "L, NE",
+              "statement": "Opposed Simmen; 1986 culture initiative was rejected; clear cantonal competence must be preserved."
+            },
+            {
+              "name": "Rochat Eric",
+              "role": "L, VD",
+              "statement": "Proposed French text correction: 'des' rather than 'les' activités culturelles in para. 2."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Opposed Simmen amendment; cantons strongly opposed expansion of federal cultural policy in consultation."
+            }
+          ],
+          "contested_points": [
+            "Whether to explicitly state cantons are 'primarily' responsible for culture",
+            "Whether Confederation should be able to take 'own measures' in culture while respecting cantonal competences",
+            "French translation 'des' vs 'les' activités culturelles in para. 2"
+          ],
+          "amendments_proposed": [
+            "Simmen: Art. 57g para. 1 'Für den Bereich der Kultur sind primär die Kantone zuständig'; para. 2 add 'unter Beachtung der kantonalen Zuständigkeiten'",
+            "Rochat: French text correction in para. 2 ('des' not 'les')"
+          ],
+          "vote_result": "Para. 1: Commission 24, Simmen 7. Commission adopted. Para. 2: Adopted per Rochat (French text). Para. 3-6: Adopted.",
+          "key_quotes": [
+            {
+              "speaker": "Leuenberger Moritz",
+              "quote": "Bis jetzt war es ja so, dass das Landesmuseum, die Landesbibliothek und die Pro Helvetia weiss Gott auf schwachen juristischen Füssen standen."
+            },
+            {
+              "speaker": "Cavadini Jean",
+              "quote": "Nous ne pouvons pas ici, dans ce Conseil, décider maintenant que nous enlevons aux cantons cette prépondérance absolue en ce qui concerne leurs compétences quant à la culture."
+            }
+          ],
+          "page_refs": [
+            "83",
+            "84",
+            "85"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Artikel 57g Kultur: Kommission will Kompetenz der Kantone nicht antasten, daher Festhalten."
+            },
+            {
+              "name": "Danioth Hans",
+              "role": "C, UR",
+              "statement": "Beantragte Aufnahme der Musik- und Kunstförderung in Artikel 57g Abs. 2. Argumentierte für Gleichstellung von Musik und Sport, verwies auf gesellschaftlichen Nutzen."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Antwortete auf Nachführungskonzept: Antrag Danioth geht über Nachführung hinaus. Verwies auf zweimalige Ablehnung von Kulturartikeln durch Volk. Letztentscheid beim Parlament über Konsensfähigkeit."
+            }
+          ],
+          "contested_points": [
+            "Ob Kunst- und Musikförderung als Bundesaufgabe in Verfassung aufgenommen werden soll",
+            "Verhältnis zu kantonalen Bildungskompetenzen",
+            "Konsensfähigkeit der Neuerung"
+          ],
+          "amendments_proposed": [
+            "Antrag Danioth: Aufnahme von '.... sowie Kunst und Musik insbesondere im Bereich der Ausbildung fördern' in Art. 57g Abs. 2"
+          ],
+          "vote_result": "Abs. 1, 3: Angenommen. Abs. 2: Danioth 21, Kommission 10. Antrag Danioth angenommen.",
+          "key_quotes": [
+            {
+              "speaker": "Danioth Hans",
+              "quote": "Sport und Musik sind die beiden Gebiete, die unsere Jugend am meisten faszinieren. Aber während die Förderung des Sports als eine Aufgabe des Bundes mit grosszügigen Mitteln rechnen kann, fristen die Belange der Musik ein vergleichsweise kärgliches Dasein."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Das Volk hat zweimal Kulturartikel abgelehnt. Das ist das Dilemma."
+            }
+          ],
+          "page_refs": [
+            "180",
+            "181"
+          ]
+        }
+      ]
+    },
+    "70": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Presented Art. 57h on languages; commission created specific language article including territoriality principle."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [
+            {
+              "speaker": "Aeby Pierre",
+              "quote": "La commission introduit ici une notion de territorialité de la langue... c'est ici, à l'alinéa 2, qu'elle figure."
+            }
+          ],
+          "page_refs": [
+            "84"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Erwähnte im Überblick, dass die Kommission die Integration der Amtssprachen in den Sprachenartikel und weitere systematische Anpassungen beantragt."
+            }
+          ],
+          "contested_points": [
+            "Systematische Integration des Sprachenartikels"
+          ],
+          "amendments_proposed": [
+            "Kommission: Festhalten an Systematik des Ständerates"
+          ],
+          "vote_result": "Nicht separat abgestimmt (im Überblick erwähnt).",
+          "key_quotes": [],
+          "page_refs": [
+            "156",
+            "157"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Artikel 57h Sprachen: Kommission behält eigene Systematik und Territorialprinzip. Streit um Abs. 1bis: Unterstützung mehrsprachiger Kantone."
+            },
+            {
+              "name": "Paupe Pierre",
+              "role": "C, JU",
+              "statement": "Unterstützte Minderheitsantrag für Bundesunterstützung mehrsprachiger Kantone."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Empfahl Mehrheit der Kommission (keine explizite Unterstützungsklausel) im Interesse konsequenter Nachführung."
+            }
+          ],
+          "contested_points": [
+            "Ob Bundesunterstützung für mehrsprachige Kantone in Verfassung verankert werden soll (Abs. 1bis)",
+            "Ob Ausdruck 'zur Wahrung des Sprachfriedens' in Abs. 2 aufgenommen werden soll (zweite Runde)",
+            "Territorialprinzip und Formulierung betreffend angestammte sprachliche Minderheiten"
+          ],
+          "amendments_proposed": [
+            "Minderheit (Aeby, Bloetzer, Paupe): Aufnahme von Abs. 1bis: 'Der Bund unterstützt die mehrsprachigen Kantone bei der Erfüllung ihrer besonderen Aufgaben'",
+            "Zweite Runde: Festhalten bei Abs. 2 (ohne 'Sprachfrieden')"
+          ],
+          "vote_result": "Abs. 1-4: Angenommen. Abs. 1bis: Minderheit 18, Mehrheit 15. Minderheitsantrag angenommen.",
+          "key_quotes": [
+            {
+              "speaker": "Aeby Pierre",
+              "quote": "Il est quasiment incongru de parler de maintien de la paix des langues dans une Suisse en plein processus d'intégration européenne."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Im Interesse einer konsequenten Nachführung – Sie wissen, dass das mein Ceterum censeo ist – möchte ich Sie aber bitten, der Mehrheit der Kommission zuzustimmen, denn es handelt sich hier eben doch um eine materielle Neuerung."
+            }
+          ],
+          "page_refs": [
+            "182",
+            "183",
+            "224"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "Der Sprachenartikel, Artikel 57h, hat bis zur letzten Lesung im Nationalrat eine Entwicklung durchgemacht. Auch wir glauben, dass der Abschluss im letzten Durchgang des Nationalrates gelungen ist; aus diesem Grund schliessen wir uns an."
+            }
+          ],
+          "contested_points": [
+            "Formulierung des Sprachenartikels (mehrfache Entwicklung bis zur Schlussform)"
+          ],
+          "amendments_proposed": [
+            "Einigungskonferenz beantragt Zustimmung zum Beschluss des Nationalrates für Art. 57h Abs. 2"
+          ],
+          "vote_result": "Angenommen gemäss Antrag der Einigungskonferenz (Zustimmung zum Nationalratsbeschluss)",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Es ist dies die Fassung, die wir sinngemäss gewollt haben, die aber erst jetzt klar und gut formuliert ist."
+            }
+          ],
+          "page_refs": [
+            "235"
+          ]
+        }
+      ]
+    },
+    "29a": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 57l on environmental protection as first concretization of sustainable development; commission kept water article structure."
+            },
+            {
+              "name": "Maissen Theo",
+              "role": "C, GR",
+              "statement": "Questioned clarity of polluter-pays principle sentence and its application in sparsely populated areas."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Explained polluter-pays as a principle to be applied through optimization, not 'all-or-nothing'."
+            },
+            {
+              "name": "Leuenberger Moritz",
+              "role": "Bundesrat",
+              "statement": "Agreed with Rhinow; exact attribution of causation is always a political judgment."
+            }
+          ],
+          "contested_points": [
+            "Application of polluter-pays principle in sparsely populated areas where costs would be disproportionate"
+          ],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [
+            {
+              "speaker": "Maissen Theo",
+              "quote": "Da entstehen derart unverhältnismässige Kosten... dass es nicht zumutbar ist, einfach zu sagen: Die sind die Verursacher, die bezahlen dafür."
+            }
+          ],
+          "page_refs": [
+            "86",
+            "87"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Wicki Franz",
+              "role": "C, LU, Berichterstatter",
+              "statement": "Erwähnte Artikel 25a (Rechtsweggarantie) im Zusammenhang mit Artikel 177 des Justizreformteils als Ausnahme, wo die Gewaltentrennung geregelt wird."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Nicht separat abgestimmt (im Kontext anderer Artikel erwähnt).",
+          "key_quotes": [],
+          "page_refs": [
+            "107"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Wicki Franz",
+              "role": "C, LU, Berichterstatter (Justizreform)",
+              "statement": "Artikel 178a: Kommission beharrt einstimmig auf ständerätlicher Fassung zum Zugang zum Bundesgericht. Kriterium 'grundsätzliche Bedeutung' statt subjektiver Kriterien des Nationalrats."
+            }
+          ],
+          "contested_points": [
+            "Ob Zugang zum Bundesgericht bei 'grundsätzlicher Bedeutung' oder bei subjektiven Kriterien ('untergeordnete Tragweite', 'offenkundig unbegründet') gewährleistet werden soll"
+          ],
+          "amendments_proposed": [
+            "Kommission: Festhalten bei Abs. 1, 1bis, 2, 2bis; Zustimmung zu Abs. 3 gemäß Nationalrat"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "210",
+            "211"
+          ]
+        }
+      ]
+    },
+    "45": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 34 begins federal competences chapter; Art. 34a on federal tasks adopted."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "71"
+          ]
+        }
+      ]
+    },
+    "46": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Arts. 35, 35a, 36-40 adopted without opposition."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "72"
+          ]
+        }
+      ]
+    },
+    "48": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Arts. 45-48 adopted without discussion."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "75"
+          ]
+        }
+      ]
+    },
+    "51": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Art. 49 opens competences chapter; introduced overview of changes."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "75",
+            "76"
+          ]
+        }
+      ]
+    },
+    "54": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Art. 49 (Auswärtige Angelegenheiten) and Art. 50 presented together; see Art. 55 entry."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [],
+          "page_refs": [
+            "76"
+          ]
+        }
+      ]
+    },
+    "29": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Wicki Franz",
+              "role": "C, LU, Berichterstatter",
+              "statement": "Presented Art. 25a (Rechtsweggarantie) as procedural fundamental right guaranteeing access to independent court."
+            }
+          ],
+          "contested_points": [],
+          "amendments_proposed": [],
+          "vote_result": "Angenommen – Adopté",
+          "key_quotes": [
+            {
+              "speaker": "Wicki Franz",
+              "quote": "Die Rechtsweggarantie vermittelt das Recht, vor den Richter zu gelangen, aber nicht unbedingt die Beanspruchung des höchsten Gerichtes, des Bundesgerichtes."
+            }
+          ],
+          "page_refs": [
+            "114",
+            "115"
+          ]
+        }
+      ]
+    },
+    "8": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Beantragte bei Absatz 2 die Aufnahme von 'Alter' als zusätzliches Diskriminierungskriterium nach dem Geschlecht; beantragte Festhalten bei Absatz 3 (nur rechtliche, nicht tatsächliche Gleichstellung); schlug bei Absatz 4 eine neue Formulierung vor: 'Das Gesetz sieht Massnahmen zur Beseitigung bestehender Benachteiligungen der Behinderten vor.'"
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Dankte für das Einlenken bei Absatz 2. Stimmte bei Absatz 4 zu, dass es sich um eine konsensfähige Neuerung handle; lehnte aber direkte Klagbarkeit gegen Private ab."
+            },
+            {
+              "name": "Brändli Christoffel",
+              "role": "V, GR",
+              "statement": "Betonte die Wichtigkeit der Gleichstellungsfrage für Behindertenorganisationen und unterstützte Absatz 4 als Grundlage für gesetzgeberisches Handeln."
+            }
+          ],
+          "contested_points": [
+            "Aufnahme von Diskriminierungskriterien in Absatz 2 (insbes. Alter, Lebensform, psychische Behinderung)",
+            "Tatsächliche vs. nur rechtliche Gleichstellung bei Absatz 3",
+            "Formulierung und Reichweite des Gesetzgebungsauftrages für Behinderte (Absatz 4)"
+          ],
+          "amendments_proposed": [
+            "Kommission: Einfügung von 'Alter' nach 'Geschlecht' in Absatz 2",
+            "Festhalten bei Absatz 3 (nur rechtliche Gleichstellung)",
+            "Neuer Absatz 4: 'Das Gesetz sieht Massnahmen zur Beseitigung bestehender Benachteiligungen der Behinderten vor.'"
+          ],
+          "vote_result": "Absatz 2, 3, 4 jeweils angenommen gemäss Kommissionsantrag.",
+          "key_quotes": [
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Nicht konsensfähig wären sicher Vorschläge gewesen ... wonach die Gleichstellung der Behinderten durch ein direktes Klagerecht, also durch eine unmittelbare Drittwirkung dieses Anspruchs, realisiert werden sollte."
+            }
+          ],
+          "page_refs": [
+            "164",
+            "165",
+            "166"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Artikel 7 Abs. 3: Mehrheit will am einfachen Begriff 'Gleichstellung' festhalten. Differenzierung zwischen rechtlicher und tatsächlicher Gleichstellung könnte zu Interpretationsproblemen führen."
+            },
+            {
+              "name": "Gentil Pierre-Alain",
+              "role": "S, JU, Minderheit",
+              "statement": "Beantragte Aufnahme von Abs. 3 gemäss Nationalrat: tatsächliche Gleichstellung."
+            },
+            {
+              "name": "Brunner Christiane",
+              "role": "S, GE",
+              "statement": "Unterstützte Minderheit: tatsächliche Gleichstellung ist moderne Konzeption, entspricht Gleichstellungsgesetz und Bundesgerichtspraxis."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Empfahl Festhalten beim Urtext (Ständerat): Verfassungstext von 1981 reicht aus, neue Begriffe schaffen nur Kontroversen."
+            }
+          ],
+          "contested_points": [
+            "Ob rechtliche und tatsächliche Gleichstellung explizit unterschieden werden soll",
+            "Ob Begriff 'tatsächliche Gleichstellung' Interpretationsprobleme schafft"
+          ],
+          "amendments_proposed": [
+            "Minderheit Gentil: Zustimmung zum Beschluss des Nationalrates"
+          ],
+          "vote_result": "Mehrheit 29, Minderheit 4. Mehrheit obsiegt (Festhalten).",
+          "key_quotes": [
+            {
+              "speaker": "Brunner Christiane",
+              "quote": "De cette conception défensive, on est passé aujourd'hui, et de manière unanime, à une conception positive, active de l'égalité."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Wir sehen, dass diese neuen Begriffe nur Anlass zu Diskussionen und Kontroversen geben. Deshalb möchte ich Sie bitten, beim Urtext des Faust zu bleiben."
+            }
+          ],
+          "page_refs": [
+            "214",
+            "215",
+            "216"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "In Artikel 7 geht es um die Gleichstellung: Der Ständerat hat nur die Gleichstellung an sich normieren wollen, während der Nationalrat – wir schliessen uns dieser Lösung an – ausdrücklich von rechtlicher und tatsächlicher Gleichstellung spricht."
+            }
+          ],
+          "contested_points": [
+            "Ob nur formelle Gleichstellung oder auch tatsächliche Gleichstellung in die Verfassung aufgenommen werden soll",
+            "Risiko der Gleichmacherei oder Quotenfestlegung durch tatsächliche Gleichstellung"
+          ],
+          "amendments_proposed": [
+            "Einigungskonferenz beantragt Zustimmung zum Beschluss des Nationalrates für Art. 7 Abs. 3 (rechtliche und tatsächliche Gleichstellung)"
+          ],
+          "vote_result": "Angenommen gemäss Antrag der Einigungskonferenz (Zustimmung zum Nationalratsbeschluss)",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Es bedeutet nichts anderes, als dass die heutige Praxis des Bundesgerichtes weitergeführt werden soll, denn das Bundesgericht hat bereits in einigen Urteilen festgestellt, dass schon Artikel 4 Absatz 2 der geltenden Bundesverfassung neben der rechtlichen die tatsächliche Gleichstellung enthält."
+            },
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Sie ist auch kein Aufruf zur absoluten Gleichmacherei, insbesondere kein Aufruf und kein Blankoscheck für Quotenfestlegungen."
+            }
+          ],
+          "page_refs": [
+            "234",
+            "235"
+          ]
+        }
+      ]
+    },
+    "11": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Beantragte in Artikel 9 einen neuen Absatz 3: 'Kinder und Jugendliche haben Anspruch auf besonderen Schutz ihrer Unversehrtheit und Entwicklung.' und Streichung des separaten Artikels 11a des Nationalrates über Rechte der Kinder und Jugendlichen."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Befürwortete Artikel 9 Absatz 3 und lehnte Artikel 11a ab, da Grundrechte grundsätzlich allen Menschen zustehen und nicht nur einer besonderen Kategorie."
+            }
+          ],
+          "contested_points": [
+            "Ob Rechte der Kinder und Jugendlichen als separater Grundrechtsartikel (Nationalrat) oder als Absatz bei persönlicher Freiheit verankert werden sollen",
+            "Justitiabilität eines Anspruchs auf 'harmonische Entwicklung'"
+          ],
+          "amendments_proposed": [
+            "Kommission: Neuer Absatz 3 in Artikel 9 (persönliche Freiheit) statt separatem Artikel 11a",
+            "Streichung von Artikel 11a"
+          ],
+          "vote_result": "Angenommen gemäss Kommissionsantrag.",
+          "key_quotes": [
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Grundrechte stehen grundsätzlich allen Menschen zu und nicht nur einer besonderen Kategorie, also den Kindern und den Jugendlichen."
+            }
+          ],
+          "page_refs": [
+            "165",
+            "166"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Schuf neuen Artikel 9a 'Schutz der Kinder und Jugendlichen' als Kompromiss zwischen Ständerat (Abs. 3 in Art. 9) und Nationalrat (Art. 11a). Zweiter Satz über Urteilsfähigkeit umstritten."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Gegen zweiten Satz (Ausübung von Rechten im Rahmen der Urteilsfähigkeit): könnte kontraproduktiv sein, relativiert unbestrittene Rechtsträgereigenschaft von Unmündigen."
+            },
+            {
+              "name": "Leumann Helen",
+              "role": "R, LU",
+              "statement": "Für Beibehaltung des zweiten Satzes: entspricht ZGB, Jugendorganisationen haben dafür gekämpft."
+            },
+            {
+              "name": "Cavadini Jean",
+              "role": "L, NE",
+              "statement": "Beantragte Trennung in zwei Absätze; zweifelte an normativer Qualität des zweiten Satzes."
+            },
+            {
+              "name": "Rhinow René",
+              "role": "R, BL",
+              "statement": "Zweiter Satz ist vertretbar (folgt ZGB). Schlug Titel 'Kinder und Jugendliche' vor."
+            }
+          ],
+          "contested_points": [
+            "Ob eigener Artikel für Rechte/Schutz der Kinder und Jugendlichen oder Einbettung in Art. 9",
+            "Ob zweiter Satz 'Sie üben ihre Rechte im Rahmen ihrer Urteilsfähigkeit aus' aufgenommen werden soll",
+            "Ob Titel 'Schutz' oder 'Rechte' oder neutral 'Kinder und Jugendliche' lauten soll"
+          ],
+          "amendments_proposed": [
+            "Kommission: Artikel 9a mit Abs. 1 (Schutz) und Satz zur Urteilsfähigkeit",
+            "Cavadini: Trennung in zwei Absätze",
+            "Rhinow: Titel 'Kinder und Jugendliche'",
+            "Bundesrat: Streichung des zweiten Satzes"
+          ],
+          "vote_result": "Art. 9 Abs. 3: Angenommen. Art. 9a Text: Bundesrat 23, Kommission 12 – zweiter Satz gestrichen. Art. 9a Titel: Angenommen (Redaktionskommission entscheidet über Formulierung).",
+          "key_quotes": [
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Mit diesem zweiten Satz relativieren wir eigentlich die unbestrittene Lehre, dass Rechtsträger der persönlichen Freiheit auch Unmündige und Urteilunfähige sind."
+            },
+            {
+              "speaker": "Inderkum Hansheiri",
+              "quote": "Wenn es heisst, dass Kinder und Jugendliche Anspruch auf besonderen Schutz hätten, ist dies selbstverständlich keine Einschränkung – die Formulierung hat offenbar zu diesem Missverständnis Anlass gegeben –, sondern es soll im Gegenteil damit herausgestrichen werden, dass die gesellschaftliche Gruppe 'Kinder und Jugendliche' Anspruch auf einen ganz besonderen Schutz hat."
+            }
+          ],
+          "page_refs": [
+            "215",
+            "216",
+            "217",
+            "218"
+          ]
+        },
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "Artikel 9a ist wohl – nicht für den Nationalrat, aber für unseren Rat – die politisch heikelste Bestimmung. Die Einigungskonferenz hat einer neuen Lösung den Vorzug gegeben."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Mit Absatz 2, der festhält, dass die Kinder und Jugendlichen ihre höchst persönlichen Rechte im Rahmen ihrer Urteilsfähigkeit ausüben, wird auf das sehr austarierte positive Recht im Zivilrecht, im öffentlichen Recht und im Strafrecht verwiesen. Daher können keine neuen Berechtigungen aus diesem Absatz 2 direkt abgeleitet werden."
+            }
+          ],
+          "contested_points": [
+            "Anspruch auf harmonische Entwicklung (Nationalrat) vs. besonderer Schutz der Unversehrtheit und Entwicklung (Ständerat)",
+            "Ob Kinder ihre Rechte selbst durchsetzen können sollen (Abs. 2)",
+            "Ob Abs. 2 einen Keil zwischen Eltern und Kinder treibt"
+          ],
+          "amendments_proposed": [
+            "Einigungskonferenz beschloss neue Fassung: Abs. 1 in Fassung des Ständerates (Schutz der Unversehrtheit und Förderung der Entwicklung), Abs. 2 neu als Verfahrensregel (Kinder üben Rechte im Rahmen ihrer Urteilsfähigkeit selbst aus)"
+          ],
+          "vote_result": "Angenommen gemäss Antrag der Einigungskonferenz (neue Kompromissfassung)",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Keinesfalls soll Absatz 2 ein Keil sein, den die Verfassung zwischen Eltern und Kinder treibt."
+            },
+            {
+              "speaker": "Koller Arnold",
+              "quote": "damit keinerlei neue Rechte in der Verfassung festgeschrieben werden, sondern dass mit diesem Absatz 2 ... auf das sehr austarierte positive Recht im Zivilrecht, im öffentlichen Recht und im Strafrecht verwiesen wird."
+            }
+          ],
+          "page_refs": [
+            "234",
+            "235"
+          ]
+        }
+      ]
+    },
+    "19": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Inderkum Hansheiri",
+              "role": "C, UR, Berichterstatter",
+              "statement": "Beantragte Zustimmung zum Nationalratsbeschluss, den Anspruch auf ausreichenden und unentgeltlichen Grundschulunterricht bei den Grundrechten zu verankern."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Stimmte zu. Wies darauf hin, dass der Anspruch kein Recht auf unentgeltlichen Besuch einer Privatschule begründe."
+            }
+          ],
+          "contested_points": [
+            "Systematische Verortung des Anspruchs (Grundrechte vs. Bildungsartikel)"
+          ],
+          "amendments_proposed": [
+            "Kommission: Zustimmung zum Nationalratsbeschluss (Verankerung bei Grundrechten in Art. 16a)"
+          ],
+          "vote_result": "Angenommen gemäss Kommissionsantrag.",
+          "key_quotes": [
+            {
+              "speaker": "Koller Arnold",
+              "quote": "Es ist in Lehre und Rechtsprechung anerkannt, dass der Anspruch auf unentgeltlichen, ausreichenden Grundschulunterricht ein direkt einklagbares Sozialrecht darstellt."
+            }
+          ],
+          "page_refs": [
+            "167"
+          ]
+        }
+      ]
+    },
+    "31": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Marty Dick",
+              "role": "R, TI, rapporteur",
+              "statement": "Berichtete über kleine Differenz in Absatz 2: Nationalrat fügte Satz hinzu, dass die verhaftete Person das Recht hat, ihre nächsten Angehörigen zu informieren. Kommission schlägt Zustimmung zum Nationalrat vor, obwohl die Formulierung nicht optimal ist."
+            }
+          ],
+          "contested_points": [
+            "Ob in Absatz 2 explizit das Recht auf Information der nächsten Angehörigen aufgenommen werden soll"
+          ],
+          "amendments_proposed": [
+            "Kommission: Zustimmung zum Beschluss des Nationalrates"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [
+            {
+              "speaker": "Marty Dick",
+              "quote": "Nous estimons que la différence n'est pas importante et surtout qu'elle ne mérite pas une divergence. Néanmoins, nous pensons que la version du Conseil national n'est pas très heureuse parce qu'on peut peut-être imaginer que le fait de faire avertir immédiatement un médecin est tout aussi important."
+            }
+          ],
+          "page_refs": [
+            "173"
+          ]
+        }
+      ]
+    },
+    "49": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Aeby Pierre",
+              "role": "S, FR, rapporteur",
+              "statement": "Artikel 49 Abs. 2: Ständerat hatte 'Erhaltung der natürlichen Umwelt' in aussenpolitischen Zielen ergänzt; Nationalrat stimmte nicht zu. Kommission hält fest."
+            }
+          ],
+          "contested_points": [
+            "Ob 'Erhaltung der natürlichen Umwelt' als aussenpolitisches Ziel in die Verfassung aufgenommen werden soll"
+          ],
+          "amendments_proposed": [
+            "Kommission: Festhalten"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [],
+          "page_refs": [
+            "178"
+          ]
+        }
+      ]
+    },
+    "63": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Rhinow René",
+              "role": "R, BL, Berichterstatter",
+              "statement": "Erläuterte dritte Runde: Zustimmung zum Nationalrat bei Art. 57abis Abs. 1 (umfassende Bundeskompetenz Berufsbildung). Kantone haben keine grundsätzlichen Einwände."
+            },
+            {
+              "name": "Koller Arnold",
+              "role": "Bundesrat",
+              "statement": "Bestätigte Konsensfähigkeit der Erweiterung; EDK hat keine Opposition formuliert."
+            }
+          ],
+          "contested_points": [
+            "Ausdehnung der Bundeskompetenz in der Berufsbildung über klassische BIGA-Berufe hinaus auf Gesundheits-, Sozial- und Kunstberufe"
+          ],
+          "amendments_proposed": [
+            "Kommission (dritte Runde): Zustimmung zum Beschluss des Nationalrates bei Art. 57abis Abs. 1"
+          ],
+          "vote_result": "Angenommen",
+          "key_quotes": [
+            {
+              "speaker": "Rhinow René",
+              "quote": "Wir überschreiten – dessen sind wir uns bewusst – die Grenzen einer eng verstandenen Nachführung der Verfassung. Es handelt sich auch hier um eine rechtspolitische Neuerung, die wir kritisch darauf hin prüfen müssen, ob sie konsensfähig ist."
+            }
+          ],
+          "page_refs": [
+            "223",
+            "224"
+          ]
+        }
+      ]
+    },
+    "32": {
+      "sources": [
+        {
+          "reference": "AB 1998 SR Separatdruck",
+          "speakers": [
+            {
+              "name": "Frick Bruno",
+              "role": "Berichterstatter (C, SZ)",
+              "statement": "Artikel 32a ist lediglich eine redaktionelle Differenz ohne jede inhaltliche Tragweite. Hier schliessen wir uns dem Nationalrat an."
+            }
+          ],
+          "contested_points": [
+            "Redaktionelle Differenz ohne inhaltliche Tragweite (Art. 32a Abs. 1)"
+          ],
+          "amendments_proposed": [
+            "Einigungskonferenz beantragt Zustimmung zum Beschluss des Nationalrates für Art. 32a Abs. 1"
+          ],
+          "vote_result": "Angenommen gemäss Antrag der Einigungskonferenz (Zustimmung zum Nationalratsbeschluss)",
+          "key_quotes": [
+            {
+              "speaker": "Frick Bruno",
+              "quote": "Artikel 32a ist lediglich eine redaktionelle Differenz ohne jede inhaltliche Tragweite."
+            }
+          ],
+          "page_refs": [
+            "235"
+          ]
+        }
+      ]
+    }
+  }
+}
