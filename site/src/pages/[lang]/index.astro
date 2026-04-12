@@ -55,16 +55,20 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
       <section class="laws-section">
         <div class="label">{t('nav.laws', lang)}</div>
         <div class="laws-grid">
-          {lawsWithStats.map(({ law, stats }) => (
-            <a href={`${langBase(lang)}/${law.abbr.toLowerCase()}/`} class="law-cell">
-              <div class="law-cell-top">
-                <span class="law-abbr">{law.abbr}</span>
-                <span class="law-count">{stats.totalArticles} Art.</span>
-              </div>
-              <div class="law-name">{law.name[lang]}</div>
-              <div class="law-sr">SR {law.sr}</div>
-            </a>
-          ))}
+          {lawsWithStats.map(({ law, stats }) => {
+            const hasContent = stats.withContent > 0;
+            return (
+              <a href={`${langBase(lang)}/${law.abbr.toLowerCase()}/`} class:list={['law-cell', { 'law-cell--pending': !hasContent }]}>
+                <div class="law-cell-top">
+                  <span class="law-abbr">{law.abbr}</span>
+                  <span class="law-count">{stats.totalArticles} Art.</span>
+                </div>
+                <div class="law-name">{law.name[lang]}</div>
+                <div class="law-sr">SR {law.sr}</div>
+                {!hasContent && <div class="law-pending">{t('law.coming_soon', lang)}</div>}
+              </a>
+            );
+          })}
         </div>
       </section>
     </div>
@@ -176,6 +180,23 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
     font-size: 10px;
     color: var(--color-text-faint);
     margin-top: 2px;
+  }
+
+  /* Uncommented laws: visually muted */
+  .law-cell--pending {
+    opacity: 0.35;
+  }
+
+  .law-cell--pending:hover {
+    opacity: 0.55;
+    background: transparent;
+  }
+
+  .law-pending {
+    font-size: 10px;
+    font-style: italic;
+    color: var(--color-text-muted);
+    margin-top: 4px;
   }
 
   @media (max-width: 768px) {
