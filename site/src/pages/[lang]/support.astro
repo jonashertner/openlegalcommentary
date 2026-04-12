@@ -1,0 +1,413 @@
+---
+// site/src/pages/[lang]/support.astro
+import { LANGS, type Lang, t } from '@/lib/i18n';
+import { langBase } from '@/lib/base';
+import Base from '../../layouts/Base.astro';
+
+export function getStaticPaths() {
+  return LANGS.map(lang => ({ params: { lang } }));
+}
+const { lang } = Astro.params as { lang: Lang };
+---
+
+<Base title={t('support.title', lang)} lang={lang} pagePath="/support" description={t('support.meta', lang)}>
+  <article class="support-page">
+    <div class="page-wrapper">
+
+      <!-- Hero -->
+      <section class="support-hero">
+        <div class="support-tag">{t('support.tag', lang)}</div>
+        <h1 class="support-title">{t('support.headline', lang)}</h1>
+        <p class="support-lead">{t('support.lead', lang)}</p>
+      </section>
+
+      <!-- Problem -->
+      <section class="support-section">
+        <h2>{t('support.problem_title', lang)}</h2>
+        <p>{t('support.problem_1', lang)}</p>
+        <p>{t('support.problem_2', lang)}</p>
+        <p class="support-quote">{t('support.problem_quote', lang)}</p>
+      </section>
+
+      <!-- Solution -->
+      <section class="support-section">
+        <h2>{t('support.solution_title', lang)}</h2>
+        <p>{t('support.solution_1', lang)}</p>
+        <ul class="support-features">
+          <li>{t('support.feature_1', lang)}</li>
+          <li>{t('support.feature_2', lang)}</li>
+          <li>{t('support.feature_3', lang)}</li>
+          <li>{t('support.feature_4', lang)}</li>
+          <li>{t('support.feature_5', lang)}</li>
+        </ul>
+      </section>
+
+      <!-- Quality proof -->
+      <section class="support-section">
+        <h2>{t('support.quality_title', lang)}</h2>
+        <p>{t('support.quality_intro', lang)}</p>
+        <div class="support-showcase">
+          <a href={`${langBase(lang)}/bv/art-8?layer=doctrine`} class="showcase-link">
+            {t('support.quality_cta', lang)} →
+          </a>
+        </div>
+      </section>
+
+      <!-- Budget -->
+      <section class="support-section">
+        <h2>{t('support.budget_title', lang)}</h2>
+        <p>{t('support.budget_intro', lang)}</p>
+
+        <div class="budget-impact">
+          <div class="budget-item">
+            <div class="budget-amount">CHF 4</div>
+            <div class="budget-desc">{t('support.budget_4', lang)}</div>
+          </div>
+          <div class="budget-item">
+            <div class="budget-amount">CHF 200</div>
+            <div class="budget-desc">{t('support.budget_200', lang)}</div>
+          </div>
+          <div class="budget-item">
+            <div class="budget-amount">CHF 1'000</div>
+            <div class="budget-desc">{t('support.budget_1000', lang)}</div>
+          </div>
+          <div class="budget-item">
+            <div class="budget-amount">CHF 21'000</div>
+            <div class="budget-desc">{t('support.budget_21000', lang)}</div>
+          </div>
+        </div>
+
+        <h3>{t('support.laws_title', lang)}</h3>
+        <table class="support-table">
+          <thead>
+            <tr>
+              <th>{t('support.col_law', lang)}</th>
+              <th>{t('support.col_articles', lang)}</th>
+              <th>{t('support.col_target', lang)}</th>
+              <th>{t('support.col_status', lang)}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>BV</td><td>233</td><td>CHF 1'000</td><td class="status-progress">In Arbeit</td></tr>
+            <tr><td>BGFA</td><td>38</td><td>CHF 200</td><td class="status-progress">In Arbeit</td></tr>
+            <tr><td>VwVG</td><td>92</td><td>CHF 400</td><td class="status-open">Offen</td></tr>
+            <tr><td>SchKG</td><td>400</td><td>CHF 1'700</td><td class="status-open">Offen</td></tr>
+            <tr><td>ZPO</td><td>426</td><td>CHF 1'800</td><td class="status-open">Offen</td></tr>
+            <tr><td>StGB</td><td>466</td><td>CHF 2'000</td><td class="status-open">Offen</td></tr>
+            <tr><td>StPO</td><td>478</td><td>CHF 2'000</td><td class="status-open">Offen</td></tr>
+            <tr><td>ZGB</td><td>1'126</td><td>CHF 4'800</td><td class="status-open">Offen</td></tr>
+            <tr><td>OR</td><td>1'584</td><td>CHF 6'700</td><td class="status-open">Offen</td></tr>
+            <tr class="total-row"><td><strong>Total</strong></td><td><strong>4'843</strong></td><td><strong>CHF 20'600</strong></td><td></td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <!-- Cost transparency -->
+      <section class="support-section">
+        <h2>{t('support.transparency_title', lang)}</h2>
+        <p>{t('support.transparency_intro', lang)}</p>
+        <table class="support-table cost-table">
+          <thead>
+            <tr>
+              <th>{t('support.col_item', lang)}</th>
+              <th>{t('support.col_cost', lang)}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>{t('support.cost_gen', lang)}</td><td>CHF 0.95</td></tr>
+            <tr><td>{t('support.cost_eval', lang)}</td><td>CHF 0.70</td></tr>
+            <tr><td>{t('support.cost_trans', lang)}</td><td>CHF 0.55</td></tr>
+            <tr><td>{t('support.cost_mat', lang)}</td><td>CHF 0.15</td></tr>
+            <tr><td>{t('support.cost_retry', lang)}</td><td>CHF 0.65</td></tr>
+            <tr><td>{t('support.cost_reserve', lang)}</td><td>CHF 0.75</td></tr>
+            <tr class="total-row"><td><strong>Total</strong></td><td><strong>CHF 3.75</strong></td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <!-- Independence -->
+      <section class="support-section support-independence">
+        <h2>{t('support.independence_title', lang)}</h2>
+        <p>{t('support.independence_1', lang)}</p>
+        <p>{t('support.independence_2', lang)}</p>
+        <p>{t('support.independence_3', lang)}</p>
+      </section>
+
+      <!-- Donate -->
+      <section class="support-section support-donate" id="donate">
+        <h2>{t('support.donate_title', lang)}</h2>
+        <p>{t('support.donate_intro', lang)}</p>
+
+        <div class="donate-methods">
+          <div class="donate-method">
+            <h3>TWINT</h3>
+            <p class="donate-note">{t('support.donate_twint', lang)}</p>
+            <div class="donate-placeholder">[QR Code]</div>
+          </div>
+          <div class="donate-method">
+            <h3>{t('support.donate_bank_title', lang)}</h3>
+            <p class="donate-note">{t('support.donate_bank', lang)}</p>
+            <div class="donate-placeholder">[IBAN]</div>
+          </div>
+          <div class="donate-method">
+            <h3>GitHub Sponsors</h3>
+            <p class="donate-note">{t('support.donate_github', lang)}</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Supporters -->
+      <section class="support-section">
+        <h2>{t('support.supporters_title', lang)}</h2>
+        <p>{t('support.supporters_intro', lang)}</p>
+        <p class="support-cta">{t('support.supporters_cta', lang)}</p>
+      </section>
+
+    </div>
+  </article>
+</Base>
+
+<style>
+  .support-page {
+    padding-bottom: var(--space-8);
+  }
+
+  .support-hero {
+    padding: var(--space-8) 0 var(--space-6);
+    border-bottom: 1px solid var(--color-rule);
+  }
+
+  .support-tag {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: #DC2626;
+    text-transform: uppercase;
+    margin-bottom: var(--space-3);
+  }
+
+  .support-title {
+    font-size: 42px;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    max-width: 700px;
+  }
+
+  .support-lead {
+    font-size: 17px;
+    line-height: 1.7;
+    color: var(--color-text-secondary);
+    max-width: 600px;
+    margin-top: var(--space-4);
+  }
+
+  .support-section {
+    padding: var(--space-6) 0;
+    border-bottom: 1px solid var(--color-rule-light);
+  }
+
+  .support-section h2 {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin-bottom: var(--space-3);
+  }
+
+  .support-section h3 {
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: var(--space-4);
+    margin-bottom: var(--space-2);
+  }
+
+  .support-section p {
+    font-size: 14px;
+    line-height: 1.7;
+    color: var(--color-text-secondary);
+    max-width: 640px;
+    margin-bottom: var(--space-2);
+  }
+
+  .support-quote {
+    font-size: 20px !important;
+    font-weight: 700;
+    color: var(--color-text) !important;
+    font-style: italic;
+    margin-top: var(--space-4) !important;
+    padding-left: var(--space-3);
+    border-left: 3px solid #DC2626;
+  }
+
+  .support-features {
+    list-style: none;
+    padding: 0;
+    margin-top: var(--space-3);
+  }
+
+  .support-features li {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-secondary);
+    padding: 6px 0;
+    border-bottom: 1px solid var(--color-rule-light);
+  }
+
+  .support-features li::before {
+    content: "—";
+    margin-right: 8px;
+    color: var(--color-text-muted);
+  }
+
+  /* Budget impact grid */
+  .budget-impact {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--color-rule-light);
+    margin: var(--space-4) 0;
+    border: 1px solid var(--color-rule);
+  }
+
+  .budget-item {
+    background: var(--color-bg);
+    padding: var(--space-3);
+    text-align: center;
+  }
+
+  .budget-amount {
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  .budget-desc {
+    font-size: 11px;
+    color: var(--color-text-muted);
+    margin-top: 4px;
+    line-height: 1.4;
+  }
+
+  /* Tables */
+  .support-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    margin-top: var(--space-3);
+  }
+
+  .support-table th {
+    text-align: left;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    padding: var(--space-1) var(--space-2);
+    border-bottom: 1px solid var(--color-rule);
+  }
+
+  .support-table td {
+    padding: var(--space-1) var(--space-2);
+    border-bottom: 1px solid var(--color-rule-light);
+  }
+
+  .total-row td {
+    border-top: 1px solid var(--color-rule);
+    border-bottom: none;
+    padding-top: var(--space-2);
+  }
+
+  .status-progress {
+    color: #DC2626;
+    font-weight: 600;
+    font-size: 11px;
+  }
+
+  .status-open {
+    color: var(--color-text-muted);
+    font-size: 11px;
+  }
+
+  .cost-table {
+    max-width: 400px;
+  }
+
+  .cost-table td:last-child,
+  .cost-table th:last-child {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Showcase */
+  .support-showcase {
+    margin-top: var(--space-3);
+    padding: var(--space-3);
+    border: 1px solid var(--color-rule);
+  }
+
+  .showcase-link {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .showcase-link:hover {
+    text-decoration: underline;
+  }
+
+  /* Independence section */
+  .support-independence p {
+    font-size: 15px !important;
+    color: var(--color-text) !important;
+    font-weight: 500;
+  }
+
+  /* Donate section */
+  .support-donate {
+    border-bottom: none;
+  }
+
+  .donate-methods {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-3);
+    margin-top: var(--space-4);
+  }
+
+  .donate-method {
+    padding: var(--space-3);
+    border: 1px solid var(--color-rule);
+  }
+
+  .donate-method h3 {
+    margin-top: 0;
+  }
+
+  .donate-note {
+    font-size: 12px !important;
+    color: var(--color-text-muted) !important;
+  }
+
+  .donate-placeholder {
+    margin-top: var(--space-2);
+    padding: var(--space-4);
+    background: var(--color-rule-light);
+    text-align: center;
+    font-size: 12px;
+    color: var(--color-text-muted);
+  }
+
+  .support-cta {
+    font-size: 15px !important;
+    font-weight: 600;
+    color: var(--color-text) !important;
+  }
+
+  @media (max-width: 768px) {
+    .support-title { font-size: 28px; }
+    .budget-impact { grid-template-columns: repeat(2, 1fr); }
+    .donate-methods { grid-template-columns: 1fr; }
+  }
+</style>
