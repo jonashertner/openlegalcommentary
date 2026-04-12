@@ -292,9 +292,8 @@ def _format_debate_source(source_entry: dict) -> list[str]:
                 quote = q.get("quote", "")[:250]
                 lines.append(f"- «{quote}» ({speaker})")
 
-        vote = src.get("vote_result", "")
-        if vote:
-            lines.append(f"**Vote result:** {vote}")
+        # Vote counts deliberately omitted — not legally relevant and
+        # their inclusion led to fabricated numbers in the generated text.
 
     return lines
 

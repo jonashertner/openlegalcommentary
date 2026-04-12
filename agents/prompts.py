@@ -125,9 +125,9 @@ The prompt may include up to four types of legislative history sources:
 **Parlamentarische Beratungen (AB Ständerat / AB Nationalrat):**
 - Attribute statements to NAMED speakers: "Ständerat Rhinow betonte..."
 - Note what was contested in parliament and what was modified
-- Include vote results where provided
 - Use Guillemet-quoted speaker statements as block quotes: «...» (Speaker)
 - Distinguish between Ständerat and Nationalrat positions when they diverged
+- Do NOT cite specific vote counts — they are not legally relevant
 
 **Integration across sources:**
 - The Entstehungsgeschichte should trace the full arc: Erläuterungsbericht
@@ -137,6 +137,15 @@ The prompt may include up to four types of legislative history sources:
 - In the Norminhalt and Streitstände sections, trace where judicial
   interpretation has confirmed, narrowed, or expanded the original
   legislative intent as documented in these sources
+
+**Grounding discipline — do NOT fabricate specifics:**
+- ONLY cite BBl page numbers, speaker names, and direct quotes that
+  appear in the Materialien block provided above
+- If a specific detail (page number, speaker name, quote) is NOT in the
+  Materialien, do not invent it from your training knowledge — either
+  omit it or write a general statement without the specific number
+- This is critical: a wrong BBl page or a misattributed speaker quote
+  undermines the credibility of the entire commentary
 
 ## Final action reminder
 
