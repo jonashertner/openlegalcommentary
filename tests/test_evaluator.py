@@ -103,5 +103,6 @@ def test_evaluate_layer_calls_query(config):
     }
     mock_run = AsyncMock(return_value=(json.dumps(verdict), 0.05))
     with patch("agents.evaluator.run_agent", mock_run):
-        result = asyncio.run(evaluate_layer(config, "OR", 41, "", "summary"))
+        result, cost = asyncio.run(evaluate_layer(config, "OR", 41, "", "summary"))
         assert result.verdict == "publish"
+        assert cost == 0.05

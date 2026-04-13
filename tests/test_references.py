@@ -67,6 +67,17 @@ def test_format_article_text_with_suffix(tmp_path):
             assert "Art 6a text" in result
 
 
+def test_format_article_text_with_underscore_suffix(tmp_path):
+    """Fallback: article_texts.json may use underscore format (e.g. '5_a')."""
+    texts = {"BV": {"5_a": [{"text": "Subsidiarität"}]}}
+    texts_path = tmp_path / "article_texts.json"
+    texts_path.write_text(json.dumps(texts))
+    with patch("agents.references.ARTICLE_TEXTS_PATH", texts_path):
+        with patch("agents.references._article_texts_cache", None):
+            result = format_article_text("BV", 5, "a")
+            assert "Subsidiarität" in result
+
+
 def test_format_article_text_missing():
     with patch("agents.references.ARTICLE_TEXTS_PATH", Path("/nonexistent/path.json")):
         with patch("agents.references._article_texts_cache", None):

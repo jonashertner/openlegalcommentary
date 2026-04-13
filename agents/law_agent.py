@@ -81,6 +81,14 @@ async def generate_layer(
         f"{article_text_block}"
         f"Use the tools to research case law and write the layer content."
     )
+    if layer_type == "doctrine":
+        prompt += (
+            "\n\nIMPORTANT: The doctrine file has been deleted. You are "
+            "generating from scratch. Do NOT call read_layer_content for "
+            "the 'doctrine' layer — there is nothing there. Read the "
+            "'caselaw' layer instead for research context, then write "
+            "your doctrine via write_layer_content."
+        )
     if commentary_refs_block:
         prompt += f"\n\n{commentary_refs_block}"
     if prep_materials_block:

@@ -209,10 +209,11 @@ async def generate_and_evaluate(
             "Evaluating %s for Art. %d%s %s",
             layer_type, article_number, article_suffix, law,
         )
-        eval_result = await evaluate_layer(
+        eval_result, eval_cost = await evaluate_layer(
             config, law, article_number, article_suffix,
             layer_type,
         )
+        total_cost += eval_cost
 
         if eval_result.passed:
             logger.info("Pass: %s passed evaluation", layer_type)
@@ -321,14 +322,15 @@ async def process_article(
 
             for lang in ("fr", "it", "en"):
                 try:
-                    await translate_layer(
+                    translation_cost = await translate_layer(
                         config, law, article_number,
                         article_suffix, layer_type, lang,
                     )
+                    result.cost_usd += translation_cost
                     logger.info(
-                        "Translated %s to %s for Art. %d%s %s",
+                        "Translated %s to %s for Art. %d%s %s ($%.4f)",
                         layer_type, lang, article_number,
-                        article_suffix, law,
+                        article_suffix, law, translation_cost,
                     )
                 except Exception:
                     logger.exception(
