@@ -3,6 +3,9 @@ import type { Lang } from './i18n';
 export interface LawInfo {
   abbr: string;
   sr: string;
+  slug: string;
+  canton?: string;
+  language?: string;
   name: Record<Lang, string>;
   description: Record<Lang, string>;
 }
@@ -11,6 +14,7 @@ export const LAWS: LawInfo[] = [
   {
     abbr: 'BV',
     sr: '101',
+    slug: 'bv',
     name: {
       de: 'Bundesverfassung',
       fr: 'Constitution fédérale',
@@ -27,6 +31,7 @@ export const LAWS: LawInfo[] = [
   {
     abbr: 'ZGB',
     sr: '210',
+    slug: 'zgb',
     name: {
       de: 'Zivilgesetzbuch',
       fr: 'Code civil',
@@ -43,6 +48,7 @@ export const LAWS: LawInfo[] = [
   {
     abbr: 'OR',
     sr: '220',
+    slug: 'or',
     name: {
       de: 'Obligationenrecht',
       fr: 'Code des obligations',
@@ -59,6 +65,7 @@ export const LAWS: LawInfo[] = [
   {
     abbr: 'ZPO',
     sr: '272',
+    slug: 'zpo',
     name: {
       de: 'Zivilprozessordnung',
       fr: 'Code de procédure civile',
@@ -75,6 +82,7 @@ export const LAWS: LawInfo[] = [
   {
     abbr: 'StGB',
     sr: '311.0',
+    slug: 'stgb',
     name: {
       de: 'Strafgesetzbuch',
       fr: 'Code pénal',
@@ -91,6 +99,7 @@ export const LAWS: LawInfo[] = [
   {
     abbr: 'StPO',
     sr: '312.0',
+    slug: 'stpo',
     name: {
       de: 'Strafprozessordnung',
       fr: 'Code de procédure pénale',
@@ -107,6 +116,7 @@ export const LAWS: LawInfo[] = [
   {
     abbr: 'SchKG',
     sr: '281.1',
+    slug: 'schkg',
     name: {
       de: 'SchKG',
       fr: 'LP',
@@ -123,6 +133,7 @@ export const LAWS: LawInfo[] = [
   {
     abbr: 'VwVG',
     sr: '172.021',
+    slug: 'vwvg',
     name: {
       de: 'VwVG',
       fr: 'PA',
@@ -139,6 +150,7 @@ export const LAWS: LawInfo[] = [
   {
     abbr: 'BGFA',
     sr: '935.61',
+    slug: 'bgfa',
     name: {
       de: 'Anwaltsgesetz',
       fr: 'Loi sur les avocats',
@@ -154,10 +166,509 @@ export const LAWS: LawInfo[] = [
   },
 ];
 
+export const CANTONAL_LAWS: LawInfo[] = [
+  {
+    abbr: 'KV ZH',
+    sr: '101',
+    slug: 'zh-kv',
+    canton: 'ZH',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Zürich',
+      fr: 'Verfassung des Kantons Zürich',
+      it: 'Verfassung des Kantons Zürich',
+      en: 'Verfassung des Kantons Zürich',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV BE',
+    sr: '',
+    slug: 'be-kv',
+    canton: 'BE',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Bern',
+      fr: 'Verfassung des Kantons Bern',
+      it: 'Verfassung des Kantons Bern',
+      en: 'Verfassung des Kantons Bern',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV LU',
+    sr: '',
+    slug: 'lu-kv',
+    canton: 'LU',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Luzern',
+      fr: 'Verfassung des Kantons Luzern',
+      it: 'Verfassung des Kantons Luzern',
+      en: 'Verfassung des Kantons Luzern',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV UR',
+    sr: '',
+    slug: 'ur-kv',
+    canton: 'UR',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Uri',
+      fr: 'Verfassung des Kantons Uri',
+      it: 'Verfassung des Kantons Uri',
+      en: 'Verfassung des Kantons Uri',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV SZ',
+    sr: '',
+    slug: 'sz-kv',
+    canton: 'SZ',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Schwyz',
+      fr: 'Verfassung des Kantons Schwyz',
+      it: 'Verfassung des Kantons Schwyz',
+      en: 'Verfassung des Kantons Schwyz',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV OW',
+    sr: '',
+    slug: 'ow-kv',
+    canton: 'OW',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Obwalden',
+      fr: 'Verfassung des Kantons Obwalden',
+      it: 'Verfassung des Kantons Obwalden',
+      en: 'Verfassung des Kantons Obwalden',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV NW',
+    sr: '',
+    slug: 'nw-kv',
+    canton: 'NW',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Nidwalden',
+      fr: 'Verfassung des Kantons Nidwalden',
+      it: 'Verfassung des Kantons Nidwalden',
+      en: 'Verfassung des Kantons Nidwalden',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV GL',
+    sr: '',
+    slug: 'gl-kv',
+    canton: 'GL',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Glarus',
+      fr: 'Verfassung des Kantons Glarus',
+      it: 'Verfassung des Kantons Glarus',
+      en: 'Verfassung des Kantons Glarus',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV ZG',
+    sr: '',
+    slug: 'zg-kv',
+    canton: 'ZG',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Zug',
+      fr: 'Verfassung des Kantons Zug',
+      it: 'Verfassung des Kantons Zug',
+      en: 'Verfassung des Kantons Zug',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV FR',
+    sr: '',
+    slug: 'fr-kv',
+    canton: 'FR',
+    language: 'fr',
+    name: {
+      de: 'Constitution du canton de Fribourg',
+      fr: 'Constitution du canton de Fribourg',
+      it: 'Constitution du canton de Fribourg',
+      en: 'Constitution du canton de Fribourg',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV SO',
+    sr: '',
+    slug: 'so-kv',
+    canton: 'SO',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Solothurn',
+      fr: 'Verfassung des Kantons Solothurn',
+      it: 'Verfassung des Kantons Solothurn',
+      en: 'Verfassung des Kantons Solothurn',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV BS',
+    sr: '',
+    slug: 'bs-kv',
+    canton: 'BS',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Basel-Stadt',
+      fr: 'Verfassung des Kantons Basel-Stadt',
+      it: 'Verfassung des Kantons Basel-Stadt',
+      en: 'Verfassung des Kantons Basel-Stadt',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV BL',
+    sr: '',
+    slug: 'bl-kv',
+    canton: 'BL',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Basel-Landschaft',
+      fr: 'Verfassung des Kantons Basel-Landschaft',
+      it: 'Verfassung des Kantons Basel-Landschaft',
+      en: 'Verfassung des Kantons Basel-Landschaft',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV SH',
+    sr: '',
+    slug: 'sh-kv',
+    canton: 'SH',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Schaffhausen',
+      fr: 'Verfassung des Kantons Schaffhausen',
+      it: 'Verfassung des Kantons Schaffhausen',
+      en: 'Verfassung des Kantons Schaffhausen',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV AR',
+    sr: '',
+    slug: 'ar-kv',
+    canton: 'AR',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Appenzell Ausserrhoden',
+      fr: 'Verfassung des Kantons Appenzell Ausserrhoden',
+      it: 'Verfassung des Kantons Appenzell Ausserrhoden',
+      en: 'Verfassung des Kantons Appenzell Ausserrhoden',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV AI',
+    sr: '',
+    slug: 'ai-kv',
+    canton: 'AI',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Appenzell Innerrhoden',
+      fr: 'Verfassung des Kantons Appenzell Innerrhoden',
+      it: 'Verfassung des Kantons Appenzell Innerrhoden',
+      en: 'Verfassung des Kantons Appenzell Innerrhoden',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV SG',
+    sr: '',
+    slug: 'sg-kv',
+    canton: 'SG',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons St. Gallen',
+      fr: 'Verfassung des Kantons St. Gallen',
+      it: 'Verfassung des Kantons St. Gallen',
+      en: 'Verfassung des Kantons St. Gallen',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV GR',
+    sr: '',
+    slug: 'gr-kv',
+    canton: 'GR',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Graubünden',
+      fr: 'Verfassung des Kantons Graubünden',
+      it: 'Verfassung des Kantons Graubünden',
+      en: 'Verfassung des Kantons Graubünden',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV AG',
+    sr: '',
+    slug: 'ag-kv',
+    canton: 'AG',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Aargau',
+      fr: 'Verfassung des Kantons Aargau',
+      it: 'Verfassung des Kantons Aargau',
+      en: 'Verfassung des Kantons Aargau',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV TG',
+    sr: '',
+    slug: 'tg-kv',
+    canton: 'TG',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Thurgau',
+      fr: 'Verfassung des Kantons Thurgau',
+      it: 'Verfassung des Kantons Thurgau',
+      en: 'Verfassung des Kantons Thurgau',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV TI',
+    sr: '',
+    slug: 'ti-kv',
+    canton: 'TI',
+    language: 'it',
+    name: {
+      de: 'Costituzione della Repubblica e Cantone Ticino',
+      fr: 'Costituzione della Repubblica e Cantone Ticino',
+      it: 'Costituzione della Repubblica e Cantone Ticino',
+      en: 'Costituzione della Repubblica e Cantone Ticino',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV VD',
+    sr: '',
+    slug: 'vd-kv',
+    canton: 'VD',
+    language: 'fr',
+    name: {
+      de: 'Constitution du Canton de Vaud',
+      fr: 'Constitution du Canton de Vaud',
+      it: 'Constitution du Canton de Vaud',
+      en: 'Constitution du Canton de Vaud',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV VS',
+    sr: '',
+    slug: 'vs-kv',
+    canton: 'VS',
+    language: 'de',
+    name: {
+      de: 'Verfassung des Kantons Wallis',
+      fr: 'Verfassung des Kantons Wallis',
+      it: 'Verfassung des Kantons Wallis',
+      en: 'Verfassung des Kantons Wallis',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV NE',
+    sr: '',
+    slug: 'ne-kv',
+    canton: 'NE',
+    language: 'fr',
+    name: {
+      de: 'Constitution de la République et Canton de Neuchâtel',
+      fr: 'Constitution de la République et Canton de Neuchâtel',
+      it: 'Constitution de la République et Canton de Neuchâtel',
+      en: 'Constitution de la République et Canton de Neuchâtel',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV GE',
+    sr: '',
+    slug: 'ge-kv',
+    canton: 'GE',
+    language: 'fr',
+    name: {
+      de: 'Constitution de la République et canton de Genève',
+      fr: 'Constitution de la République et canton de Genève',
+      it: 'Constitution de la République et canton de Genève',
+      en: 'Constitution de la République et canton de Genève',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+  {
+    abbr: 'KV JU',
+    sr: '',
+    slug: 'ju-kv',
+    canton: 'JU',
+    language: 'fr',
+    name: {
+      de: 'Constitution de la République et Canton du Jura',
+      fr: 'Constitution de la République et Canton du Jura',
+      it: 'Constitution de la République et Canton du Jura',
+      en: 'Constitution de la République et Canton du Jura',
+    },
+    description: {
+      de: 'Kantonsverfassung',
+      fr: 'Constitution cantonale',
+      it: 'Costituzione cantonale',
+      en: 'Cantonal constitution',
+    },
+  },
+];
+
+export const ALL_LAWS: LawInfo[] = [...LAWS, ...CANTONAL_LAWS];
+
 export function getLawByAbbr(abbr: string): LawInfo | undefined {
-  return LAWS.find((l) => l.abbr.toLowerCase() === abbr.toLowerCase());
+  return ALL_LAWS.find(l => l.abbr.toLowerCase() === abbr.toLowerCase() || l.slug === abbr.toLowerCase());
 }
 
 export function getLawAbbrList(): string[] {
-  return LAWS.map((l) => l.abbr.toLowerCase());
+  return ALL_LAWS.map(l => l.slug);
 }
