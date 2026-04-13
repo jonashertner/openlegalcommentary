@@ -1,0 +1,3110 @@
+{
+  "canton": "SH",
+  "law_key": "sh-kv",
+  "sr_number": "101.000",
+  "language": "de",
+  "title": "Verfassung des Kantons Schaffhausen",
+  "lexfind_id": 14100,
+  "fetched_at": "2026-04-13",
+  "article_count": 124,
+  "articles": [
+    {
+      "number": 1,
+      "suffix": "",
+      "raw": "1",
+      "title": "Staatsform, Souveränität"
+    },
+    {
+      "number": 2,
+      "suffix": "",
+      "raw": "2",
+      "title": "Demokratische Grundordnung"
+    },
+    {
+      "number": 3,
+      "suffix": "",
+      "raw": "3",
+      "title": "Bund, andere Kantone, Ausland"
+    },
+    {
+      "number": 4,
+      "suffix": "",
+      "raw": "4",
+      "title": "Kantonsgebiet, Gemeinden"
+    },
+    {
+      "number": 5,
+      "suffix": "",
+      "raw": "5",
+      "title": "Bürgerrecht"
+    },
+    {
+      "number": 6,
+      "suffix": "",
+      "raw": "6",
+      "title": "Verantwortung und Pflichten"
+    },
+    {
+      "number": 7,
+      "suffix": "",
+      "raw": "7",
+      "title": "Rechtsstaatlichkeit, Treu und Glauben"
+    },
+    {
+      "number": 8,
+      "suffix": "",
+      "raw": "8",
+      "title": "Gewaltenteilung"
+    },
+    {
+      "number": 9,
+      "suffix": "",
+      "raw": "9",
+      "title": "Nachhaltigkeit"
+    },
+    {
+      "number": 10,
+      "suffix": "",
+      "raw": "10",
+      "title": "Menschenwürde"
+    },
+    {
+      "number": 11,
+      "suffix": "",
+      "raw": "11",
+      "title": "Rechtsgleichheit"
+    },
+    {
+      "number": 12,
+      "suffix": "",
+      "raw": "12",
+      "title": "Freiheitsrechte"
+    },
+    {
+      "number": 13,
+      "suffix": "",
+      "raw": "13",
+      "title": "Recht auf Hilfe in Notlagen"
+    },
+    {
+      "number": 14,
+      "suffix": "",
+      "raw": "14",
+      "title": "Schutz der Kinder und Jugendlichen"
+    },
+    {
+      "number": 15,
+      "suffix": "",
+      "raw": "15",
+      "title": "Recht auf Schulbildung"
+    },
+    {
+      "number": 16,
+      "suffix": "",
+      "raw": "16",
+      "title": "Opferhilfe"
+    },
+    {
+      "number": 17,
+      "suffix": "",
+      "raw": "17",
+      "title": "Rechtsweggarantie"
+    },
+    {
+      "number": 18,
+      "suffix": "",
+      "raw": "18",
+      "title": "Verfahrensgarantien"
+    },
+    {
+      "number": 19,
+      "suffix": "",
+      "raw": "19",
+      "title": "Petitionsrecht"
+    },
+    {
+      "number": 20,
+      "suffix": "",
+      "raw": "20",
+      "title": "Geltung der Grundrechte"
+    },
+    {
+      "number": 21,
+      "suffix": "",
+      "raw": "21",
+      "title": "Schranken der Grundrechte"
+    },
+    {
+      "number": 22,
+      "suffix": "",
+      "raw": "22",
+      "title": "Sozialziele"
+    },
+    {
+      "number": 23,
+      "suffix": "",
+      "raw": "23",
+      "title": "Stimm- und Wahlrecht"
+    },
+    {
+      "number": 24,
+      "suffix": "",
+      "raw": "24",
+      "title": "Volkswahlen"
+    },
+    {
+      "number": 25,
+      "suffix": "",
+      "raw": "25",
+      "title": "Wahlverfahren"
+    },
+    {
+      "number": 26,
+      "suffix": "",
+      "raw": "26",
+      "title": "Abberufung"
+    },
+    {
+      "number": 27,
+      "suffix": "",
+      "raw": "27",
+      "title": "Gegenstand, Form"
+    },
+    {
+      "number": 28,
+      "suffix": "",
+      "raw": "28",
+      "title": "Verfahren"
+    },
+    {
+      "number": 29,
+      "suffix": "",
+      "raw": "29",
+      "title": "Behandlung"
+    },
+    {
+      "number": 30,
+      "suffix": "",
+      "raw": "30",
+      "title": "Gegenvorschlag"
+    },
+    {
+      "number": 31,
+      "suffix": "",
+      "raw": "31",
+      "title": "Volksmotion"
+    },
+    {
+      "number": 32,
+      "suffix": "",
+      "raw": "32",
+      "title": "Obligatorische Volksabstimmung"
+    },
+    {
+      "number": 33,
+      "suffix": "",
+      "raw": "33",
+      "title": "Fakultative Volksabstimmung"
+    },
+    {
+      "number": 34,
+      "suffix": "",
+      "raw": "34",
+      "title": "Dringlichkeitsrecht"
+    },
+    {
+      "number": 35,
+      "suffix": "",
+      "raw": "35",
+      "title": "Teil- und Variantenabstimmung"
+    },
+    {
+      "number": 36,
+      "suffix": "",
+      "raw": "36",
+      "title": "Vernehmlassungen"
+    },
+    {
+      "number": 37,
+      "suffix": "",
+      "raw": "37",
+      "title": "Politische Parteien"
+    },
+    {
+      "number": 37,
+      "suffix": "a",
+      "raw": "37a",
+      "title": ""
+    },
+    {
+      "number": 38,
+      "suffix": "",
+      "raw": "38",
+      "title": "Gesetzmässigkeitsgrundsatz"
+    },
+    {
+      "number": 39,
+      "suffix": "",
+      "raw": "39",
+      "title": "Tätigkeitsgrundsätze"
+    },
+    {
+      "number": 40,
+      "suffix": "",
+      "raw": "40",
+      "title": "Wählbarkeit"
+    },
+    {
+      "number": 41,
+      "suffix": "",
+      "raw": "41",
+      "title": "Amtsdauer"
+    },
+    {
+      "number": 42,
+      "suffix": "",
+      "raw": "42",
+      "title": "Unvereinbare Ämter"
+    },
+    {
+      "number": 43,
+      "suffix": "",
+      "raw": "43",
+      "title": "Persönliche Unvereinbarkeit"
+    },
+    {
+      "number": 44,
+      "suffix": "",
+      "raw": "44",
+      "title": "Verpflichtung auf Verfassung und Gesetz"
+    },
+    {
+      "number": 45,
+      "suffix": "",
+      "raw": "45",
+      "title": "Ausstand"
+    },
+    {
+      "number": 46,
+      "suffix": "",
+      "raw": "46",
+      "title": "Dienstverhältnis"
+    },
+    {
+      "number": 47,
+      "suffix": "",
+      "raw": "47",
+      "title": "Öffentlichkeit, Information"
+    },
+    {
+      "number": 48,
+      "suffix": "",
+      "raw": "48",
+      "title": "Verantwortlichkeit"
+    },
+    {
+      "number": 49,
+      "suffix": "",
+      "raw": "49",
+      "title": "Aufgabenübertragung zwischen Behörden"
+    },
+    {
+      "number": 50,
+      "suffix": "",
+      "raw": "50",
+      "title": "Vorbehalt des Gesetzes"
+    },
+    {
+      "number": 51,
+      "suffix": "",
+      "raw": "51",
+      "title": "Beizug Privater"
+    },
+    {
+      "number": 52,
+      "suffix": "",
+      "raw": "52",
+      "title": "Stellung, Zusammensetzung"
+    },
+    {
+      "number": 53,
+      "suffix": "",
+      "raw": "53",
+      "title": "Rechtsetzung"
+    },
+    {
+      "number": 54,
+      "suffix": "",
+      "raw": "54",
+      "title": "Planung"
+    },
+    {
+      "number": 55,
+      "suffix": "",
+      "raw": "55",
+      "title": "Aufsicht, Wirksamkeitsprüfung"
+    },
+    {
+      "number": 56,
+      "suffix": "",
+      "raw": "56",
+      "title": "Finanzbefugnisse"
+    },
+    {
+      "number": 57,
+      "suffix": "",
+      "raw": "57",
+      "title": "Weitere Befugnisse und Aufgaben"
+    },
+    {
+      "number": 58,
+      "suffix": "",
+      "raw": "58",
+      "title": "Aufträge an den Regierungsrat, Grundsatzbeschlüsse"
+    },
+    {
+      "number": 59,
+      "suffix": "",
+      "raw": "59",
+      "title": "Stellung der Ratsmitglieder"
+    },
+    {
+      "number": 60,
+      "suffix": "",
+      "raw": "60",
+      "title": "Stellung, Zusammensetzung"
+    },
+    {
+      "number": 61,
+      "suffix": "",
+      "raw": "61",
+      "title": "Unvereinbarkeit"
+    },
+    {
+      "number": 62,
+      "suffix": "",
+      "raw": "62",
+      "title": "Stellung im Kantonsrat"
+    },
+    {
+      "number": 63,
+      "suffix": "",
+      "raw": "63",
+      "title": "Planung, Koordination"
+    },
+    {
+      "number": 64,
+      "suffix": "",
+      "raw": "64",
+      "title": "Leitung der Verwaltung"
+    },
+    {
+      "number": 65,
+      "suffix": "",
+      "raw": "65",
+      "title": "Rechtsetzung"
+    },
+    {
+      "number": 66,
+      "suffix": "",
+      "raw": "66",
+      "title": "Finanzbefugnisse"
+    },
+    {
+      "number": 67,
+      "suffix": "",
+      "raw": "67",
+      "title": "Weitere Befugnisse und Aufgaben"
+    },
+    {
+      "number": 68,
+      "suffix": "",
+      "raw": "68",
+      "title": "Ausserordentliche Lagen"
+    },
+    {
+      "number": 69,
+      "suffix": "",
+      "raw": "69",
+      "title": "Aufbau, Organisation"
+    },
+    {
+      "number": 70,
+      "suffix": "",
+      "raw": "70",
+      "title": "Übertragung von Entscheidungsbefugnissen"
+    },
+    {
+      "number": 71,
+      "suffix": "",
+      "raw": "71",
+      "title": "Aufgabe, Stellung"
+    },
+    {
+      "number": 72,
+      "suffix": "",
+      "raw": "72",
+      "title": "Gerichtsorganisation, Verfahrensrecht"
+    },
+    {
+      "number": 73,
+      "suffix": "",
+      "raw": "73",
+      "title": "Wahlen"
+    },
+    {
+      "number": 74,
+      "suffix": "",
+      "raw": "74",
+      "title": "Rechtsbeistand, Rechtsauskunft"
+    },
+    {
+      "number": 75,
+      "suffix": "",
+      "raw": "75",
+      "title": "Abs. 1"
+    },
+    {
+      "number": 76,
+      "suffix": "",
+      "raw": "76",
+      "title": "Strafverfolgungsbehörden"
+    },
+    {
+      "number": 77,
+      "suffix": "",
+      "raw": "77",
+      "title": "Kantonsgericht"
+    },
+    {
+      "number": 78,
+      "suffix": "",
+      "raw": "78",
+      "title": "Obergericht"
+    },
+    {
+      "number": 79,
+      "suffix": "",
+      "raw": "79",
+      "title": "Grundsätze"
+    },
+    {
+      "number": 80,
+      "suffix": "",
+      "raw": "80",
+      "title": "Öffentlicher Friede und Sicherheit"
+    },
+    {
+      "number": 81,
+      "suffix": "",
+      "raw": "81",
+      "title": "Umwelt, Naturschutz"
+    },
+    {
+      "number": 82,
+      "suffix": "",
+      "raw": "82",
+      "title": "Raumplanung"
+    },
+    {
+      "number": 83,
+      "suffix": "",
+      "raw": "83",
+      "title": "Verkehr"
+    },
+    {
+      "number": 84,
+      "suffix": "",
+      "raw": "84",
+      "title": "Wasser, Energie, Entsorgung"
+    },
+    {
+      "number": 85,
+      "suffix": "",
+      "raw": "85",
+      "title": "Grundsatz"
+    },
+    {
+      "number": 86,
+      "suffix": "",
+      "raw": "86",
+      "title": "Arbeit"
+    },
+    {
+      "number": 87,
+      "suffix": "",
+      "raw": "87",
+      "title": "Gesundheit"
+    },
+    {
+      "number": 88,
+      "suffix": "",
+      "raw": "88",
+      "title": "Ziele"
+    },
+    {
+      "number": 89,
+      "suffix": "",
+      "raw": "89",
+      "title": "Auftrag"
+    },
+    {
+      "number": 90,
+      "suffix": "",
+      "raw": "90",
+      "title": "Zusammenarbeit"
+    },
+    {
+      "number": 91,
+      "suffix": "",
+      "raw": "91",
+      "title": "Kultur, Heimatschutz"
+    },
+    {
+      "number": 92,
+      "suffix": "",
+      "raw": "92",
+      "title": "Freizeitgestaltung"
+    },
+    {
+      "number": 93,
+      "suffix": "",
+      "raw": "93",
+      "title": "Grundsatz"
+    },
+    {
+      "number": 94,
+      "suffix": "",
+      "raw": "94",
+      "title": "Kantonalbank"
+    },
+    {
+      "number": 95,
+      "suffix": "",
+      "raw": "95",
+      "title": "Regalrechte"
+    },
+    {
+      "number": 96,
+      "suffix": "",
+      "raw": "96",
+      "title": "Allgemeines"
+    },
+    {
+      "number": 97,
+      "suffix": "",
+      "raw": "97",
+      "title": "Sicherstellung des Haushaltgleichgewichts"
+    },
+    {
+      "number": 98,
+      "suffix": "",
+      "raw": "98",
+      "title": "Mittelbeschaffung"
+    },
+    {
+      "number": 99,
+      "suffix": "",
+      "raw": "99",
+      "title": "Grundsätze der Besteuerung"
+    },
+    {
+      "number": 100,
+      "suffix": "",
+      "raw": "100",
+      "title": "Finanzausgleich"
+    },
+    {
+      "number": 101,
+      "suffix": "",
+      "raw": "101",
+      "title": "Finanzkontrolle"
+    },
+    {
+      "number": 102,
+      "suffix": "",
+      "raw": "102",
+      "title": "Allgemeines"
+    },
+    {
+      "number": 103,
+      "suffix": "",
+      "raw": "103",
+      "title": "Gemeindeverfassung"
+    },
+    {
+      "number": 104,
+      "suffix": "",
+      "raw": "104",
+      "title": "Bestand, Neubildung"
+    },
+    {
+      "number": 105,
+      "suffix": "",
+      "raw": "105",
+      "title": "Gemeindeautonomie"
+    },
+    {
+      "number": 106,
+      "suffix": "",
+      "raw": "106",
+      "title": "Zusammenarbeit zwischen den Gemeinden"
+    },
+    {
+      "number": 107,
+      "suffix": "",
+      "raw": "107",
+      "title": "Zusammenarbeit mit dem Kanton"
+    },
+    {
+      "number": 108,
+      "suffix": "",
+      "raw": "108",
+      "title": "Öffentlich-rechtliche Anerkennung"
+    },
+    {
+      "number": 109,
+      "suffix": "",
+      "raw": "109",
+      "title": "Selbständigkeit"
+    },
+    {
+      "number": 110,
+      "suffix": "",
+      "raw": "110",
+      "title": "Mitgliedschaft"
+    },
+    {
+      "number": 111,
+      "suffix": "",
+      "raw": "111",
+      "title": "Kirchgemeinden"
+    },
+    {
+      "number": 112,
+      "suffix": "",
+      "raw": "112",
+      "title": "Kirchensteuer, Finanzen"
+    },
+    {
+      "number": 113,
+      "suffix": "",
+      "raw": "113",
+      "title": "Rechtsschutz"
+    },
+    {
+      "number": 114,
+      "suffix": "",
+      "raw": "114",
+      "title": "Grundsatz"
+    },
+    {
+      "number": 115,
+      "suffix": "",
+      "raw": "115",
+      "title": "Teilrevision"
+    },
+    {
+      "number": 116,
+      "suffix": "",
+      "raw": "116",
+      "title": "Totalrevision"
+    },
+    {
+      "number": 117,
+      "suffix": "",
+      "raw": "117",
+      "title": "In-Kraft-Treten"
+    },
+    {
+      "number": 118,
+      "suffix": "",
+      "raw": "118",
+      "title": "Aufhebung des bisherigen Rechts"
+    },
+    {
+      "number": 119,
+      "suffix": "",
+      "raw": "119",
+      "title": "Beschränkte Weitergeltung des bisherigen Rechts"
+    },
+    {
+      "number": 120,
+      "suffix": "",
+      "raw": "120",
+      "title": "Erlass neuen Rechts"
+    },
+    {
+      "number": 121,
+      "suffix": "",
+      "raw": "121",
+      "title": "Behörden, Beamtinnen und Beamte"
+    },
+    {
+      "number": 122,
+      "suffix": "",
+      "raw": "122",
+      "title": "Volksrechte"
+    },
+    {
+      "number": 123,
+      "suffix": "",
+      "raw": "123",
+      "title": "Veröffentlichung"
+    }
+  ],
+  "article_texts": {
+    "1": [
+      {
+        "num": "1",
+        "text": "Der Kanton Schaffhausen ist ein freiheitlicher, demokratischer und sozialer"
+      },
+      {
+        "num": null,
+        "text": "Rechtsstaat."
+      },
+      {
+        "num": "2",
+        "text": "Er ist ein eigenständiges Glied der Schweizerischen Eidgenossenschaft. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "2": [
+      {
+        "num": "1",
+        "text": "Die Staatsgewalt beruht auf dem Volk. Sie wird durch die Stimmberechtigten und die Behörden ausgeübt. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "4": [
+      {
+        "num": "1",
+        "text": "Der Kanton Schaffhausen umfasst das Gebiet, das ihm durch die Schweizerische Eidgenossenschaft gewährleistet ist."
+      },
+      {
+        "num": "2",
+        "text": "Er gliedert sich in Gemeinden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "3": [
+      {
+        "num": "1",
+        "text": "Der Kanton beteiligt sich aktiv an der Willensbildung im Bund."
+      },
+      {
+        "num": "2",
+        "text": "Er erfüllt die ihm vom Bund übertragenen Aufgaben unter Wahrung seiner"
+      },
+      {
+        "num": null,
+        "text": "Interessen und derjenigen der Gemeinden."
+      },
+      {
+        "num": "3",
+        "text": "Er arbeitet mit den anderen Kantonen und dem Ausland zusammen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "5": [
+      {
+        "num": "1",
+        "text": "Das Gesetz regelt Erwerb und Verlust des Kantons- und Gemeindebürgerrechts. 1 * Änderungstabellen am Schluss des Erlasses 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "6": [
+      {
+        "num": "1",
+        "text": "Jede Person trägt Verantwortung für sich selbst."
+      },
+      {
+        "num": "2",
+        "text": "Sie trägt Mitverantwortung für die Gemeinschaft und die Umwelt."
+      },
+      {
+        "num": "3",
+        "text": "Sie erfüllt die Pflichten, die ihr durch Verfassung und Gesetz übertragen werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "7": [
+      {
+        "num": "1",
+        "text": "Staatliches Handeln muss auf einem Rechtssatz beruhen, im öffentlichen"
+      },
+      {
+        "num": null,
+        "text": "Interesse liegen und verhältnismässig sein."
+      },
+      {
+        "num": "2",
+        "text": "Der Schutz vor staatlicher Willkür ist gewährleistet."
+      },
+      {
+        "num": "3",
+        "text": "Staatliche Organe und Private verhalten sich nach Treu und Glauben. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "8": [
+      {
+        "num": "1",
+        "text": "Der Aufbau des Staates und die Ausübung staatlicher Macht richten sich nach dem Grundsatz der Gewaltenteilung. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "9": [
+      {
+        "num": "1",
+        "text": "Staatliches  Handeln  hat  sich  auf  eine  ökologische,  wirtschaftliche  und soziale Entwicklung auszurichten, welche die Bedürfnisse heutiger wie auch zukünftiger Generationen berücksichtigt."
+      },
+      {
+        "num": "2",
+        "text": "Grundrechte, Sozialziele 2.1 Grundrechte --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "10": [
+      {
+        "num": "1",
+        "text": "Die Würde des Menschen ist zu achten und zu schützen. Sie bildet die"
+      },
+      {
+        "num": null,
+        "text": "Grundlage der gesamten Rechtsordnung. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "12": [
+      {
+        "num": "1",
+        "text": "Die Freiheitsrechte sind gewährleistet, insbesondere:"
+      },
+      {
+        "num": null,
+        "text": "a) die persönliche Freiheit b) der Schutz der Privatsphäre c) das Recht auf Ehe und Familie oder auf eine andere Form des Zusammenlebens d) die Glaubens- und Gewissensfreiheit e) die Meinungs-, Informations- und Medienfreiheit f) die Freiheit von Unterricht, Lehre und Forschung g) die Freiheit des künstlerischen Ausdrucks h) die Vereinigungs-, Versammlungs- und Koalitionsfreiheit i) die Niederlassungsfreiheit j) die Wirtschaftsfreiheit"
+      },
+      {
+        "num": "2",
+        "text": "Das Eigentum ist gewährleistet. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "11": [
+      {
+        "num": "1",
+        "text": "Alle Menschen sind vor dem Gesetz gleich. Niemand darf diskriminiert werden. 2"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000"
+      },
+      {
+        "num": "2",
+        "text": "Kanton und Gemeinden fördern die Gleichstellung von Frau und Mann, namentlich in Familie, Ausbildung und Arbeit. Frau und Mann haben Anspruch auf gleichen Lohn für gleichwertige Arbeit."
+      },
+      {
+        "num": "3",
+        "text": "Kanton und Gemeinden sehen Massnahmen vor zur Beseitigung von Benachteiligungen behinderter Menschen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "14": [
+      {
+        "num": "1",
+        "text": "Kinder und Jugendliche haben Anspruch auf Schutz und Fürsorge. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "13": [
+      {
+        "num": "1",
+        "text": "Wer Notlagen nicht aus eigener Kraft bewältigen kann, hat Anspruch auf die für ein menschenwürdiges Dasein unerlässliche Hilfe. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "15": [
+      {
+        "num": "1",
+        "text": "Kinder und Jugendliche haben Anspruch auf eine ihren Fähigkeiten entsprechende Schulbildung."
+      },
+      {
+        "num": "2",
+        "text": "Während der obligatorischen Schulzeit ist der Unterricht an öffentlichen"
+      },
+      {
+        "num": null,
+        "text": "Schulen und an Schulen mit öffentlichem Auftrag unentgeltlich. 3 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "16": [
+      {
+        "num": "1",
+        "text": "Personen, die infolge einer Straftat in ihrer körperlichen, psychischen oder sexuellen Unversehrtheit beeinträchtigt worden sind, haben Anspruch auf"
+      },
+      {
+        "num": null,
+        "text": "Hilfe und, sofern sie durch die Straftat in wirtschaftliche Schwierigkeiten geraten sind, auf angemessene Entschädigung. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "18": [
+      {
+        "num": "1",
+        "text": "Jede Person hat in Verfahren vor Gerichts- und Verwaltungsinstanzen Anspruch auf gleiche und gerechte Behandlung und auf Beurteilung innert angemessener Frist."
+      },
+      {
+        "num": "2",
+        "text": "Personen, die nicht über die erforderlichen Mittel verfügen, haben Anspruch auf unentgeltliche Rechtspflege, wenn ihr Rechtsbegehren nicht aussichtslos erscheint. Soweit es zur Wahrung ihrer Rechte notwendig ist, haben sie ausserdem Anspruch auf unentgeltlichen Rechtsbeistand. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "17": [
+      {
+        "num": "1",
+        "text": "Jede Person hat bei Rechtsstreitigkeiten Anspruch auf Beurteilung durch ein kantonales Gericht. Ausgenommen ist die Anfechtung von Verfassungsbestimmungen und Gesetzen sowie von Entscheiden des Kantonsrates, soweit das Bundesrecht nicht einen gerichtlichen Rechtsschutz auf kantonaler"
+      },
+      {
+        "num": null,
+        "text": "Ebene vorschreibt."
+      },
+      {
+        "num": "2",
+        "text": "… * ### § 17 — Abs. 2 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.05.2010 ### § 17 — Abs. 2 09.11.2009 01.01.2011 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "20": [
+      {
+        "num": "1",
+        "text": "Die Grundrechte müssen in der ganzen Rechtsordnung zur Geltung kommen."
+      },
+      {
+        "num": "2",
+        "text": "Wer öffentliche Aufgaben wahrnimmt, ist an die Grundrechte gebunden und verpflichtet, zu ihrer Verwirklichung beizutragen. 4"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "19": [
+      {
+        "num": "1",
+        "text": "Jede Person kann Petitionen an Behörden richten, ohne dass ihr daraus"
+      },
+      {
+        "num": null,
+        "text": "Nachteile erwachsen."
+      },
+      {
+        "num": "2",
+        "text": "Die Behörden haben Petitionen in angemessener Frist zu beantworten. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "21": [
+      {
+        "num": "1",
+        "text": "Einschränkungen von Grundrechten sind nur zulässig, wenn sie auf einer gesetzlichen Grundlage beruhen, durch ein überwiegendes öffentliches Interesse gerechtfertigt und verhältnismässig sind."
+      },
+      {
+        "num": "2",
+        "text": "Schwerwiegende Einschränkungen müssen im Gesetz selbst vorgesehen sein. Ausgenommen sind Fälle ernster, unmittelbarer und nicht anders abwendbarer Gefahr. 2.2 Sozialziele --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "22": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden setzen sich in Ergänzung zu persönlicher Verantwortung und privater Initiative dafür ein, dass:"
+      },
+      {
+        "num": null,
+        "text": "a) jede Person an der sozialen Sicherheit teilhat b) jede Person die für ihre Gesundheit notwendige Pflege erhält c)"
+      },
+      {
+        "num": null,
+        "text": "Familien als Gemeinschaften von Erwachsenen und Kindern geschützt und gefördert werden d)"
+      },
+      {
+        "num": null,
+        "text": "Erwerbsfähige ihren Lebensunterhalt durch Arbeit zu angemessenen"
+      },
+      {
+        "num": null,
+        "text": "Bedingungen bestreiten können e)"
+      },
+      {
+        "num": null,
+        "text": "Wohnungssuchende für sich und ihre Familie eine angemessene"
+      },
+      {
+        "num": null,
+        "text": "Wohnung zu tragbaren Bedingungen finden können f)"
+      },
+      {
+        "num": null,
+        "text": "Kinder und Jugendliche sowie Personen im erwerbsfähigen Alter sich nach ihren Fähigkeiten bilden, aus- und weiterbilden können g)"
+      },
+      {
+        "num": null,
+        "text": "Kinder und Jugendliche in ihrer Entwicklung zu selbständigen und sozial verantwortlichen Personen gefördert und in ihrer sozialen, kulturellen und politischen Integration unterstützt werden"
+      },
+      {
+        "num": "2",
+        "text": "Kanton und Gemeinden setzen sich dafür ein, dass jede Person gegen die wirtschaftlichen Folgen von Alter, Invalidität, Krankheit, Unfall, Arbeitslosigkeit, Mutterschaft, Verwaisung und Verwitwung gesichert ist."
+      },
+      {
+        "num": "3",
+        "text": "Sie streben die Sozialziele im Rahmen ihrer verfassungsmässigen Zuständigkeiten und ihrer verfügbaren Mittel an."
+      },
+      {
+        "num": "4",
+        "text": "Aus den Sozialzielen können keine unmittelbaren Ansprüche auf staatliche"
+      },
+      {
+        "num": null,
+        "text": "Leistungen abgeleitet werden. 5 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": "3",
+        "text": "Volksrechte 3.1 Stimm- und Wahlrecht --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "24": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten wählen:"
+      },
+      {
+        "num": null,
+        "text": "a) den Kantonsrat b) den Regierungsrat c) die Schaffhauser Mitglieder des Ständerates und des Nationalrates --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "23": [
+      {
+        "num": "1",
+        "text": "Stimm-  und  wahlberechtigt  in  Kantons-  und  Gemeindeangelegenheiten sind alle im Kanton wohnhaften mündigen Schweizerinnen und Schweizer."
+      },
+      {
+        "num": "2",
+        "text": "Das Stimm- und Wahlrecht verpflichtet, an Abstimmungen und Wahlen teilzunehmen."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt den Ausschluss vom Stimm- und Wahlrecht. Es regelt die Ausnahmen von der Stimmpflicht. 3.2 Wahlen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "26": [
+      {
+        "num": "1",
+        "text": "1'000 Stimmberechtigte können die Gesamterneuerung des Kantonsrates oder des Regierungsrates verlangen. Das Gesetz regelt das Verfahren. 6"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000"
+      },
+      {
+        "num": "2",
+        "text": "Spricht sich die Mehrheit der Stimmenden für die Abberufung aus, wird eine Erneuerungswahl durchgeführt."
+      },
+      {
+        "num": "3",
+        "text": "Die neu gewählte Behörde beendet die Amtsdauer der abberufenen Behörde. 3.3 Volksinitiative --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "25": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat wird nach dem Verhältniswahlverfahren gewählt."
+      },
+      {
+        "num": "2",
+        "text": "Die Zuteilung der Sitze an die politischen Gruppierungen erfolgt entsprechend deren Wählerstärke im Kanton. *"
+      },
+      {
+        "num": "3",
+        "text": "Die Einteilung der Wahlkreise wird durch den Kantonsrat vorgenommen."
+      },
+      {
+        "num": null,
+        "text": "Die Sitze werden nach Massgabe der Wohnbevölkerung auf die Wahlkreise verteilt. Jedem Wahlkreis wird mindestens ein Sitz zugeteilt."
+      },
+      {
+        "num": "4",
+        "text": "Bei den anderen kantonalen Wahlen gilt das Mehrheitswahlverfahren. ### § 25 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2008, S. 531, S. 532 09.11.2009 01.01.2011 ### § 25 — Abs. 2 29.10.2007 01.05.2008 geändert --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "28": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat entscheidet über das Zustandekommen der Volksinitiative."
+      },
+      {
+        "num": "2",
+        "text": "Der Kantonsrat entscheidet über die Gültigkeit der Volksinitiative. Diese ist ganz oder teilweise ungültig zu erklären, wenn sie:"
+      },
+      {
+        "num": null,
+        "text": "a) gegen übergeordnetes Recht verstösst b) undurchführbar ist c) die Einheit der Form oder der Materie verletzt"
+      },
+      {
+        "num": "3",
+        "text": "Bei einer allgemeinen Anregung bestimmt der Kantonsrat abschliessend darüber, in welcher Erlassform sie ausgearbeitet wird. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "27": [
+      {
+        "num": "1",
+        "text": "Mit einer Volksinitiative können 1'000 Stimmberechtigte das Begehren stellen auf:"
+      },
+      {
+        "num": null,
+        "text": "a)"
+      },
+      {
+        "num": null,
+        "text": "Total- oder Teilrevision der Verfassung b)"
+      },
+      {
+        "num": null,
+        "text": "Erlass, Änderung oder Aufhebung eines Gesetzes c)"
+      },
+      {
+        "num": null,
+        "text": "Kündigung oder Aufnahme von Verhandlungen über Abschluss oder"
+      },
+      {
+        "num": null,
+        "text": "Änderung eines internationalen oder interkantonalen Vertrages, soweit er der Volksabstimmung untersteht d)"
+      },
+      {
+        "num": null,
+        "text": "Einreichen einer Standesinitiative"
+      },
+      {
+        "num": "2",
+        "text": "Das Begehren kann als allgemeine Anregung oder, sofern nicht die Totalrevision der Verfassung verlangt wird, als ausgearbeiteter Entwurf eingereicht werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "30": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat kann sowohl einem ausgearbeiteten Entwurf als auch einer"
+      },
+      {
+        "num": null,
+        "text": "Vorlage, die er aufgrund einer allgemeinen Anregung ausgearbeitet hat, einen Gegenvorschlag gegenüberstellen."
+      },
+      {
+        "num": "2",
+        "text": "Die Abstimmungen über die Volksinitiative und den Gegenvorschlag finden gleichzeitig statt."
+      },
+      {
+        "num": "3",
+        "text": "Die Stimmberechtigten können beiden Vorlagen zustimmen und darüber befinden, welcher sie den Vorzug geben, wenn beide angenommen werden. 3.4 Volksmotion --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "29": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat unterbreitet die Volksinitiative mit dem Antrag auf Zustimmung oder Ablehnung der Volksabstimmung oder stellt ihr einen Gegenvorschlag gegenüber. 7 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": "2",
+        "text": "Ist der Kantonsrat mit einer Initiative in Form einer allgemeinen Anregung einverstanden, so arbeitet er eine Vorlage im Sinne der Initiative aus. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "31": [
+      {
+        "num": "1",
+        "text": "100 Stimmberechtigte haben das Recht, dem Kantonsrat eine schriftlich begründete Volksmotion einzureichen."
+      },
+      {
+        "num": "2",
+        "text": "Der Kantonsrat behandelt diese sinngemäss wie eine Motion eines seiner"
+      },
+      {
+        "num": null,
+        "text": "Mitglieder. 3.5 Volksabstimmungen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "32": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten entscheiden obligatorisch über:"
+      },
+      {
+        "num": null,
+        "text": "a)"
+      },
+      {
+        "num": null,
+        "text": "Verfassungsänderungen b) internationale und interkantonale Verträge, die unmittelbar anwendbar sind und nicht mit der Verfassung übereinstimmen c)"
+      },
+      {
+        "num": null,
+        "text": "Gesetze, die nicht der fakultativen Volksabstimmung unterstellt sind d)"
+      },
+      {
+        "num": null,
+        "text": "Volksinitiativen e)"
+      },
+      {
+        "num": null,
+        "text": "Beschlüsse des Kantonsrates über neue einmalige Ausgaben von mehr als Fr. 3'000'000.00 und über neue jährlich wiederkehrende"
+      },
+      {
+        "num": null,
+        "text": "Ausgaben von mehr als Fr. 500'000.00 8"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000 f) die Stellungnahme des Kantons Schaffhausen zuhanden des Bundes bezüglich des Baus von Kernkraftwerken, Aufbereitungsanlagen für"
+      },
+      {
+        "num": null,
+        "text": "Kernbrennstoffe oder Lagerstätten für radioaktive Rückstände auf dem Gebiet des Kantons Schaffhausen und der angrenzenden"
+      },
+      {
+        "num": null,
+        "text": "Kantone g) die Stellungnahme des Kantons Schaffhausen zuhanden des Bundes über die Aufnahme von neuen Nationalstrassen ins Nationalstrassennetz h) weitere Beschlüsse des Kantonsrates, wenn das Gesetz es vorschreibt i)"
+      },
+      {
+        "num": null,
+        "text": "Beschlüsse, welche der Kantonsrat von sich aus zur Abstimmung bringen will --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "34": [
+      {
+        "num": "1",
+        "text": "Gesetze, deren In-Kraft-Treten keinen Aufschub erträgt, können sofort in"
+      },
+      {
+        "num": null,
+        "text": "Kraft gesetzt werden, wenn zwei Drittel der anwesenden Mitglieder des"
+      },
+      {
+        "num": null,
+        "text": "Kantonsrates zustimmen. 9 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": "2",
+        "text": "Ist eine Volksabstimmung erforderlich oder wird eine solche verlangt, so tritt ein solches Gesetz ein Jahr nach Annahme durch den Kantonsrat wieder ausser Kraft, wenn es nicht innerhalb dieser Frist vom Volk angenommen wird. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "33": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten können verlangen, dass der Volksabstimmung unterstellt werden:"
+      },
+      {
+        "num": null,
+        "text": "a)"
+      },
+      {
+        "num": null,
+        "text": "Gesetze, denen mindestens 4/5 der anwesenden Mitglieder des"
+      },
+      {
+        "num": null,
+        "text": "Kantonsrates zugestimmt haben b) unmittelbar anwendbare internationale und interkantonale Verträge mit gesetzgebendem Charakter c) der Voranschlag bei einer Änderung des Steuerfusses d)"
+      },
+      {
+        "num": null,
+        "text": "Beschlüsse des Kantonsrates über neue einmalige Ausgaben von mehr als Fr. 1'000'000.00 und über neue jährlich wiederkehrende"
+      },
+      {
+        "num": null,
+        "text": "Ausgaben von mehr als Fr. 100'000.00 e)"
+      },
+      {
+        "num": null,
+        "text": "Grundsatzbeschlüsse des Kantonsrates f) weitere Beschlüsse des Kantonsrates, wenn das Gesetz es vorschreibt"
+      },
+      {
+        "num": "2",
+        "text": "Das Referendum ist zustande gekommen, wenn innert 90 Tagen seit der"
+      },
+      {
+        "num": null,
+        "text": "Veröffentlichung des Beschlusses 1'000 Stimmberechtigte die Volksabstimmung verlangen. Für Abs. 1 lit. c gilt eine Frist von 30 Tagen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "35": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat kann beschliessen, dass anstelle oder neben einer Gesamtvorlage einzelne Teile oder Varianten der Volksabstimmung unterbreitet werden."
+      },
+      {
+        "num": "2",
+        "text": "Wird bei einer der fakultativen Abstimmung unterstehenden Vorlage das"
+      },
+      {
+        "num": null,
+        "text": "Referendum nicht ergriffen, so fallen die Varianten dahin. 3.6 Mitwirkungsrechte --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "36": [
+      {
+        "num": "1",
+        "text": "Jede Person hat das Recht, im Rahmen von Vernehmlassungen zu kantonalen Verfassungs- und Gesetzesentwürfen sowie zu weiteren kantonalen"
+      },
+      {
+        "num": null,
+        "text": "Vorhaben von allgemeiner Tragweite Stellung zu nehmen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "37": [
+      {
+        "num": "1",
+        "text": "Die politischen Parteien wirken bei der Meinungs- und Willensbildung der"
+      },
+      {
+        "num": null,
+        "text": "Stimmberechtigten mit. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "37a": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": null,
+        "text": "Transparente Wahl-, Abstimmungs- und Parteienfinanzierung *"
+      },
+      {
+        "num": "1",
+        "text": "Natürliche und juristische Personen, wie alle Parteien und sonstigen politischen  Gruppierungen,  Kampagnenkomitees,  Lobbyorganisationen  und sonstige  Organisationen,  die  sich  an  Abstimmungskämpfen  sowie  an"
+      },
+      {
+        "num": null,
+        "text": "Wahlen beteiligen, die in die Kompetenz von Kanton und Gemeinden fallen, müssen ihre Finanzen offenlegen. Unter die Offenlegungspflichten fallen insbesondere:"
+      },
+      {
+        "num": null,
+        "text": "a)"
+      },
+      {
+        "num": null,
+        "text": "Das Globalbudget für den betreffenden Wahl- oder Abstimmungskampf b)"
+      },
+      {
+        "num": null,
+        "text": "Die Namen der juristischen Personen, die zur Finanzierung beigetragen haben, mit Angabe des jeweiligen Betrags 10"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000 c)"
+      },
+      {
+        "num": null,
+        "text": "Die Namen der natürlichen Personen, die zur Finanzierung beigetragen haben, mit Angabe des jeweiligen Betrags. Ausgenommen sind"
+      },
+      {
+        "num": null,
+        "text": "Spenderinnen und Spender, deren Zuwendung insgesamt"
+      },
+      {
+        "num": null,
+        "text": "Fr. 3'000.00 pro Kalenderjahr nicht übersteigt 1bis Ausgenommen von den Offenlegungspflichten nach Abs. 1 sind: *"
+      },
+      {
+        "num": null,
+        "text": "a)"
+      },
+      {
+        "num": null,
+        "text": "Kommunale Wahl- und Abstimmungskämpfe in Gemeinden mit weniger als 3000 Einwohnerinnen und Einwohnern; b)"
+      },
+      {
+        "num": null,
+        "text": "Wahl- und Abstimmungskampagnen, für die gesamthaft weniger als"
+      },
+      {
+        "num": null,
+        "text": "CHF 3’000.– aufgewendet werden. 1ter Die Annahme anonymer Zuwendungen ist verboten. *"
+      },
+      {
+        "num": "2",
+        "text": "Alle Kandidierenden für alle öffentlichen Ämter auf kantonaler und für Exekutiven und Legislativen auf kommunaler Ebene legen ihre Interessenbindungen bei der Anmeldung ihrer Kandidatur offen. 2bis Ausgenommen von der Offenlegungspflicht nach Abs. 2 sind Kandidierende für kommunale Ämter in Gemeinden mit weniger als 3000 Einwohnerinnen und Einwohnern. * 2ter Der Geltungsbereich von Abs. 1 und Abs. 2 wird auf die Nationalratswahlen ausgedehnt. *"
+      },
+      {
+        "num": "3",
+        "text": "Zu Beginn eines Kalenderjahres legen alle gewählten Mandatsträgerinnen und Mandatsträger in öffentlichen Ämtern gemäss Abs. 2 ihre Interessenbindungen offen."
+      },
+      {
+        "num": "4",
+        "text": "Die kantonale Verwaltung oder eine unabhängige Stelle überprüfen die"
+      },
+      {
+        "num": null,
+        "text": "Richtigkeit der Angaben gemäss Abs. 1, 2 und 3 und erstellen ein öffentliches  Register,  einsehbar  auf  der  Internetseite/Homepage  des  Kantons"
+      },
+      {
+        "num": null,
+        "text": "Schaffhausen."
+      },
+      {
+        "num": "5",
+        "text": "Widerhandlungen von Kandidierenden und gewählten Mandatsträgerinnen und Mandatsträgern sowie von natürlichen und juristischen Personen, von"
+      },
+      {
+        "num": null,
+        "text": "Parteien, politischen Gruppierungen, Abstimmungskomitees, Lobbyorganisationen  und  sonstigen  Organisationen  gegen  die  Verpflichtungen  von"
+      },
+      {
+        "num": null,
+        "text": "Abs. 1–3 dieses Verfassungsartikels werden mit Busse sanktioniert. 5bis Spenden an politische Parteien, die gegen die Offenlegungspflichten verstossen haben, sind steuerlich nicht abzugsfähig. *"
+      },
+      {
+        "num": "6",
+        "text": "Das Gesetz regelt die Einzelheiten. Es trägt namentlich dem Schutz von"
+      },
+      {
+        "num": null,
+        "text": "Berufsgeheimnissen Rechnung. 11 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": "4",
+        "text": "Behörden 4.1 Grundsätze ### § 37a eingefügt"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2022, S. 1769 24.11.2024 24.11.2024 ### § 37a — Titel geändert 2025-33 24.11.2024 24.11.2024 ### § 37a — Abs. 1bis eingefügt 2025-33 24.11.2024 24.11.2024 ### § 37a — Abs. 1ter eingefügt 2025-33 24.11.2024 24.11.2024 ### § 37a — Abs. 2bis eingefügt 2025-33 24.11.2024 24.11.2024 ### § 37a — Abs. 2ter eingefügt 2025-33 24.11.2024 24.11.2024 ### § 37a — Abs. 5bis eingefügt 2025-33 24.11.2024 24.11.2024"
+      },
+      {
+        "num": null,
+        "text": "Art. T1 eingefügt 2025-33 35 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": null,
+        "text": "Änderungstabelle - Nach Artikel"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Fundstelle"
+      },
+      {
+        "num": null,
+        "text": "Erlass 17.06.2002 01.01.2003"
+      },
+      {
+        "num": null,
+        "text": "Erstfassung"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2002, S. 1974 ### § 37a — Abl. 2008, S. 531, S. 532 09.02.2020 09.02.2020 eingefügt ### § 37a — Abl. 2022, S. 1769 24.11.2024 24.11.2024"
+      },
+      {
+        "num": null,
+        "text": "Titel geändert 2025-33 ### § 37a — Abs. 1bis 24.11.2024 24.11.2024 eingefügt 2025-33 ### § 37a — Abs. 1ter 24.11.2024 24.11.2024 eingefügt 2025-33 ### § 37a — Abs. 2bis 24.11.2024 24.11.2024 eingefügt 2025-33 ### § 37a — Abs. 2ter 24.11.2024 24.11.2024 eingefügt 2025-33 ### § 37a — Abs. 5bis 24.11.2024 24.11.2024 eingefügt 2025-33 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "39": [
+      {
+        "num": "1",
+        "text": "Die staatlichen Organe erfüllen ihre Aufgaben bürgerfreundlich, wirksam und kostengünstig."
+      },
+      {
+        "num": "2",
+        "text": "Sind in einer Sache mehrere Behörden gleichzeitig zuständig, koordinieren sie ihre Tätigkeit und arbeiten zusammen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "38": [
+      {
+        "num": "1",
+        "text": "Wer öffentliche Aufgaben wahrnimmt, ist an die Verfassung, das übergeordnete Recht und die gestützt darauf erlassenen Vorschriften gebunden."
+      },
+      {
+        "num": "2",
+        "text": "Kantonale Erlasse, die übergeordnetem Recht widersprechen, dürfen vom"
+      },
+      {
+        "num": null,
+        "text": "Kantonsrat, vom Regierungsrat und von den Rechtspflegebehörden nicht angewendet werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "40": [
+      {
+        "num": "1",
+        "text": "In den Kantonsrat, den Regierungsrat und den Ständerat sind alle im"
+      },
+      {
+        "num": null,
+        "text": "Kanton stimmberechtigten Schweizerinnen und Schweizer wählbar. * 1bis In das Obergericht und das Kantonsgericht sind alle mündigen Schweizerinnen und Schweizer wählbar. Sie müssen ab Amtsantritt im Kanton Schaffhausen Wohnsitz haben. *"
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt die Wählbarkeit der übrigen Behördenmitglieder sowie des Personals der kantonalen Verwaltung und der Rechtspflegebehörden."
+      },
+      {
+        "num": null,
+        "text": "Es kann für Rechtspflegebehörden zusätzliche Anforderungen stellen. ### § 40 — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.05.2010 ### § 40 — Abs. 1bis eingefügt"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.01.2011 ### § 40 — Abs. 1 09.11.2009 01.05.2010 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 ### § 40 — Abs. 1bis 09.11.2009 01.05.2010 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "41": [
+      {
+        "num": "1",
+        "text": "Die Mitglieder des Kantonsrates, des Regierungsrates, der Rechtspflegebehörden und der Gemeindebehörden werden auf die Dauer von vier Jahren gewählt. Sie üben ihre Funktion bis zum Amtsantritt der neuen Organe weiter aus. 12"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "42": [
+      {
+        "num": "1",
+        "text": "Niemand darf gleichzeitig angehören:"
+      },
+      {
+        "num": null,
+        "text": "a) dem Kantonsrat, dem Regierungsrat und einer kantonalen Rechtspflegebehörde b) dem Regierungsrat, dem Nationalrat und dem Ständerat c) dem Regierungsrat und einer Gemeindebehörde"
+      },
+      {
+        "num": "2",
+        "text": "Angehörige der kantonalen Verwaltung können nicht Mitglied einer Rechtspflegebehörde sein. Angehörige der kantonalen Verwaltung, die dem Regierungsrat oder einem seiner Mitglieder direkt unterstellt sind, können auch nicht im Kantonsrat Einsitz nehmen."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz kann für einzelne Behörden weitere Unvereinbarkeiten festlegen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "43": [
+      {
+        "num": "1",
+        "text": "Der  gleichen  Behörde  dürfen  mit  Ausnahme  des  Kantonsrates,  der"
+      },
+      {
+        "num": null,
+        "text": "Gemeindeparlamente und des Verfassungsrates nicht gleichzeitig angehören: Ehepaare, Paare in eingetragener Partnerschaft, Konkubinatspaare, Eltern und Kinder, Geschwister. * ### § 43 — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2006, S. 1547, S. 1549 29.10.2007 01.05.2008 ### § 43 — Abs. 1 03.07.2006 01.01.2007 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2006, S. 1547, S. 1549 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "45": [
+      {
+        "num": "1",
+        "text": "Behördenmitglieder sowie Angehörige der Verwaltung und der Rechtspflegebehörden treten bei Geschäften, die sie unmittelbar betreffen, während der ganzen Dauer des Verfahrens in den Ausstand."
+      },
+      {
+        "num": "2",
+        "text": "In Rekurs- und Beschwerdeverfahren vor Verwaltungsbehörden dürfen die"
+      },
+      {
+        "num": null,
+        "text": "Vorinstanzen nicht mit der Verfahrensleitung betraut werden."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz kann weitere Ausstandsgründe vorsehen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "44": [
+      {
+        "num": "1",
+        "text": "Behördenmitglieder werden vor Amtsantritt auf Verfassung und Gesetz verpflichtet. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "47": [
+      {
+        "num": "1",
+        "text": "Rechtsetzungsakte sind zu veröffentlichen und in eine Rechtssammlung aufzunehmen."
+      },
+      {
+        "num": "2",
+        "text": "Die Verhandlungen des Kantonsrates und der Gerichte sind öffentlich. Ausnahmen bestimmt das Gesetz."
+      },
+      {
+        "num": "3",
+        "text": "Die Behörden informieren die Öffentlichkeit über ihre Tätigkeit und gewähren auf Gesuch hin Einsicht in amtliche Akten, soweit keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen."
+      },
+      {
+        "num": "4",
+        "text": "Die Behörden stellen die Information künftiger Generationen sicher, indem sie ihre Tätigkeit angemessen dokumentieren und ihre Akten archivieren. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "46": [
+      {
+        "num": "1",
+        "text": "Das Gesetz regelt das Dienstverhältnis der Behördenmitglieder und der"
+      },
+      {
+        "num": null,
+        "text": "Arbeitnehmerinnen und Arbeitnehmer des Kantons. 13 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": "2",
+        "text": "Mitglieder des Regierungsrates und der vom Kantonsrat gewählten Behörden können bei offenkundiger Amtsunfähigkeit von zwei Dritteln der anwesenden Mitglieder des Kantonsrates ihres Amtes enthoben werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "48": [
+      {
+        "num": "1",
+        "text": "Der Kanton, die Gemeinden und die öffentlich-rechtlichen Organisationen haften für Schäden, die ihre Organe in Ausübung amtlicher Tätigkeit widerrechtlich verursachen."
+      },
+      {
+        "num": "2",
+        "text": "Sie haften im Rahmen des Gesetzes auch für Schäden, die ihre Organe rechtmässig verursacht haben."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt die Haftung der Behördenmitglieder sowie der Arbeitnehmerinnen und Arbeitnehmer gegenüber dem Kanton und den anderen"
+      },
+      {
+        "num": null,
+        "text": "Trägern öffentlicher Aufgaben. 4.2 Aufgabenübertragung --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "49": [
+      {
+        "num": "1",
+        "text": "Rechtsetzungs-  und  Ausgabenbefugnisse  des  Volkes  können  dem"
+      },
+      {
+        "num": null,
+        "text": "Kantonsrat oder dem Regierungsrat  übertragen werden,  sofern sich die"
+      },
+      {
+        "num": null,
+        "text": "Übertragung auf ein bestimmtes Gebiet beschränkt und das Gesetz ihren"
+      },
+      {
+        "num": null,
+        "text": "Rahmen festlegt. Die direkte Übertragung von Befugnissen an andere Behörden ist ausgeschlossen."
+      },
+      {
+        "num": "2",
+        "text": "Unter den gleichen Voraussetzungen können Befugnisse des Kantonsrats an den Regierungsrat übertragen werden. 14"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000"
+      },
+      {
+        "num": "3",
+        "text": "Der Kantonsrat kann die verfassungsmässigen Ausgabenbefugnisse der"
+      },
+      {
+        "num": null,
+        "text": "Behörden der Veränderung des Geldwertes anpassen."
+      },
+      {
+        "num": "4",
+        "text": "Rechtsprechungsbefugnisse können durch das Gesetz einer Verwaltungsbehörde übertragen werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "51": [
+      {
+        "num": "1",
+        "text": "Das Gesetz kann anstelle von staatlichen Regelungen private Vereinbarungen ermöglichen. Es bestimmt die notwendigen Zielvorgaben."
+      },
+      {
+        "num": "2",
+        "text": "Kontroll-  und  Überwachungsmassnahmen  können  Privaten  übertragen werden.  Die  Übertragung  von  Verfügungsbefugnissen  und  weiteren"
+      },
+      {
+        "num": null,
+        "text": "Vollzugsaufgaben bedarf einer Grundlage im Gesetz."
+      },
+      {
+        "num": "3",
+        "text": "Bei der Erfüllung öffentlicher Aufgaben durch Private gelten die Vorschriften über Aufsicht und Rechtsschutz sinngemäss. Für Schäden haftet die beauftragende Körperschaft oder Anstalt subsidiär. 4.3 Kantonsrat --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "50": [
+      {
+        "num": "1",
+        "text": "Alle wichtigen Rechtssätze sind in der Form des Gesetzes zu erlassen. Dazu gehören Bestimmungen, für welche die Verfassung das Gesetz ausdrücklich vorsieht, sowie die grundlegenden Bestimmungen über:"
+      },
+      {
+        "num": null,
+        "text": "a) die Volksrechte b)"
+      },
+      {
+        "num": null,
+        "text": "Einschränkungen verfassungsmässiger Rechte c) die Rechte und Pflichten von Personen d) den Gegenstand und die Bemessung von Abgaben sowie den Kreis der Abgabenpflichtigen e) die Aufgaben und die Leistungen des Kantons f) die Organisation und das Verfahren der Behörden --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "53": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat erlässt unter Vorbehalt der Rechte des Volkes die kantonalen Gesetze."
+      },
+      {
+        "num": "2",
+        "text": "Für ausführende Bestimmungen kann er Dekrete erlassen, soweit die Verfassung oder das Gesetz ihn ausdrücklich dazu ermächtigt. Dekrete unterliegen nicht der Volksabstimmung."
+      },
+      {
+        "num": "3",
+        "text": "Er bereitet die Vorlagen zuhanden der Volksabstimmung vor."
+      },
+      {
+        "num": "4",
+        "text": "Er genehmigt oder kündigt internationale und interkantonale Verträge, soweit sie nicht in die alleinige Kompetenz des Regierungsrates fallen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "52": [
+      {
+        "num": "1",
+        "text": "Der aus 60 Mitgliedern bestehende Kantonsrat übt unter Vorbehalt der"
+      },
+      {
+        "num": null,
+        "text": "Volksrechte die oberste Gewalt aus. *"
+      },
+      {
+        "num": "2",
+        "text": "Er ist die gesetzgebende Behörde und übt die Oberaufsicht über die staatlichen Organe des Kantons aus. 15 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": "3",
+        "text": "Durch Verfassung und Gesetz können ihm wichtige Verwaltungsentscheide übertragen werden. ### § 52 — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2007, S. 1599, S. 1600 03.07.2006 01.01.2007 ### § 52 — Abs. 1 29.08.2004 01.01.2009 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2007, S. 1599, S. 1600 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "55": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat übt die Oberaufsicht über den Regierungsrat, die Verwaltung und die anderen Träger öffentlicher Aufgaben sowie über die Gerichtsbehörden aus. Das Gesetz bestimmt die zur Ausübung der Oberaufsicht notwendigen Auskunftsrechte und Untersuchungsbefugnisse."
+      },
+      {
+        "num": "2",
+        "text": "Der Kantonsrat prüft und genehmigt die Rechenschaftsberichte des Regierungsrates, des Obergerichts sowie der Rechtspflegekommission für die"
+      },
+      {
+        "num": null,
+        "text": "Justizverwaltung. *"
+      },
+      {
+        "num": "3",
+        "text": "Er kann für eine unabhängige Überprüfung der Wirksamkeit kantonaler"
+      },
+      {
+        "num": null,
+        "text": "Massnahmen sorgen. ### § 55 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.01.2011 ### § 55 — Abs. 2 09.11.2009 01.01.2011 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "54": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat behandelt das Regierungsprogramm, den Finanzplan, den"
+      },
+      {
+        "num": null,
+        "text": "Richtplan über die raumwirksamen Tätigkeiten sowie weitere grundlegende"
+      },
+      {
+        "num": null,
+        "text": "Pläne."
+      },
+      {
+        "num": "2",
+        "text": "Sofern dem Kantonsrat durch das Gesetz kein Änderungs- oder Genehmigungsrecht zukommt, kann er zu Planungen in einer eigenen Erklärung Stellung nehmen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "56": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat beschliesst über:"
+      },
+      {
+        "num": null,
+        "text": "a) den Voranschlag 16"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000 b) die Genehmigung der Kantonsrechnung c) die Festsetzung kantonaler Steuern und Abgaben im Rahmen der gesetzlichen Vorschriften d)"
+      },
+      {
+        "num": null,
+        "text": "Ausgaben, soweit sie nicht in die Kompetenz des Regierungsrates fallen, unter Vorbehalt von Art. 32 und 33 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "57": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat:"
+      },
+      {
+        "num": null,
+        "text": "a) beschliesst über die Gegenstände, die der Volksabstimmung unterliegen, ausser dem Begehren auf Abberufung des Kantonsrates b) entscheidet über die Ergreifung des fakultativen Referendums zusammen mit anderen Kantonen und über die Einreichung einer Standesinitiative auf Bundesebene c) nimmt die ihm durch Verfassung und Gesetz übertragenen Wahlen vor d) beschliesst über Amnestie und Begnadigung e) erteilt das Kantonsbürgerrecht, soweit dies nicht durch das Gesetz einer anderen Stelle übertragen wird f) behandelt die an ihn gerichteten Petitionen und Beschwerden g) entscheidet über Verleihung, Änderung, Erneuerung und Übertragung wichtiger Konzessionen"
+      },
+      {
+        "num": "2",
+        "text": "Durch Gesetz können ihm weitere Aufgaben übertragen werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "58": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat kann dem Regierungsrat Aufträge erteilen. Soweit der Regierungsrat abschliessend zu entscheiden hat, kommt einem Auftrag der"
+      },
+      {
+        "num": null,
+        "text": "Charakter einer Richtlinie zu."
+      },
+      {
+        "num": "2",
+        "text": "Der  Kantonsrat  kann  im  Bereich  seiner  Zuständigkeiten  Grundsatzbeschlüsse fassen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "59": [
+      {
+        "num": "1",
+        "text": "Die Mitglieder des Kantonsrates beraten und stimmen ohne Instruktion."
+      },
+      {
+        "num": "2",
+        "text": "Sie sind in ihren parlamentarischen Äusserungen frei und können dafür nur in den gesetzlich vorgesehenen Fällen zur Verantwortung gezogen werden."
+      },
+      {
+        "num": null,
+        "text": "Der Aufhebung der parlamentarischen Immunität müssen zwei Drittel der anwesenden Ratsmitglieder zustimmen. 17 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": "3",
+        "text": "Sie sind zu den gesetzlich vorgesehenen parlamentarischen Vorstössen berechtigt."
+      },
+      {
+        "num": "4",
+        "text": "Sie verfügen gegenüber der Verwaltung und den Gerichten über die im Gesetz bezeichneten besonderen Auskunfts- und Einsichtsrechte."
+      },
+      {
+        "num": "5",
+        "text": "Sie können Fraktionen bilden. An diese können Beiträge ausgerichtet werden. 4.4 Regierungsrat --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "60": [
+      {
+        "num": "1",
+        "text": "Der aus fünf Mitgliedern bestehende Regierungsrat ist unter Vorbehalt der"
+      },
+      {
+        "num": null,
+        "text": "Befugnisse des Kantonsrates die oberste leitende und vollziehende Behörde des Kantons."
+      },
+      {
+        "num": "2",
+        "text": "Der Regierungsrat fasst seine Beschlüsse als Kollegialbehörde. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "61": [
+      {
+        "num": "1",
+        "text": "Die Mitglieder des Regierungsrates dürfen keine bezahlte private Tätigkeit ausüben. In Erwerbsunternehmen können sie nur in Vertretung des Kantons tätig sein. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "63": [
+      {
+        "num": "1",
+        "text": "Der  Regierungsrat  bestimmt  unter  Vorbehalt  der  Zuständigkeit  des"
+      },
+      {
+        "num": null,
+        "text": "Kantonsrates die Ziele staatlichen Handelns."
+      },
+      {
+        "num": "2",
+        "text": "Er  erstellt  zu  Beginn  jeder  Amtsperiode  ein  Regierungsprogramm  und einen Finanzplan. Am Ende der Amtsperiode legt er Rechenschaft ab."
+      },
+      {
+        "num": "3",
+        "text": "Er plant und koordiniert die Tätigkeiten des Kantons. 18"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "62": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat hat das Recht, dem Kantonsrat Anträge zu stellen."
+      },
+      {
+        "num": "2",
+        "text": "Seine Mitglieder nehmen in der Regel an den Sitzungen des Kantonsrates mit beratender Stimme teil. Dabei geniessen sie parlamentarische Immunität. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "64": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat bestimmt im Rahmen von Verfassung und Gesetz die zweckmässige Organisation der kantonalen Verwaltung."
+      },
+      {
+        "num": "2",
+        "text": "Jedes Mitglied des Regierungsrates leitet ein Departement."
+      },
+      {
+        "num": "3",
+        "text": "Der Regierungsrat legt dem Kantonsrat Rechenschaft über die Verwaltungstätigkeit ab. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "65": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat leitet in der Regel das Vorverfahren der Gesetzgebung."
+      },
+      {
+        "num": null,
+        "text": "Er legt dem Kantonsrat Entwürfe zu Verfassungsänderungen, Gesetzen und"
+      },
+      {
+        "num": null,
+        "text": "Dekreten vor."
+      },
+      {
+        "num": "2",
+        "text": "Er erlässt die Verordnungen, zu denen ihn die Verfassung oder das Gesetz ermächtigen."
+      },
+      {
+        "num": "3",
+        "text": "Bei zeitlicher Dringlichkeit kann der Regierungsrat die Bestimmungen, die zur Einführung übergeordneten Rechts notwendig sind, durch Verordnung regeln. Dringliche Einführungsbestimmungen sind ohne Verzug durch ordentliches Recht abzulösen."
+      },
+      {
+        "num": "4",
+        "text": "Der  Regierungsrat  schliesst  unter  Vorbehalt  der  Genehmigung  des"
+      },
+      {
+        "num": null,
+        "text": "Kantonsrates und der Rechte des Volkes internationale und interkantonale"
+      },
+      {
+        "num": null,
+        "text": "Verträge ab. In die alleinige Kompetenz des Regierungsrates fallen Verträge, welche im Rahmen seiner Verordnungsbefugnisse liegen, von untergeordneter Bedeutung sind oder zu deren Abschluss ihn das Gesetz ermächtigt. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "67": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat:"
+      },
+      {
+        "num": null,
+        "text": "a) vertritt den Kanton nach aussen und innen b) trägt die Verantwortung für die Wahrung der öffentlichen Ordnung und Sicherheit c) bereitet die Geschäfte des Kantonsrates vor, soweit dieser sie nicht allein bearbeiten will d) veröffentlicht die kantonalen Erlasse e) sorgt für den Vollzug der Erlasse von Bund und Kanton, der Beschlüsse des Kantonsrates und der rechtskräftigen Urteile f) übt nach Gesetz die Aufsicht über die Gemeinden aus g) verabschiedet Vernehmlassungen an Bundesbehörden h) entscheidet über Verwaltungsstreitigkeiten, soweit Verfassung und"
+      },
+      {
+        "num": null,
+        "text": "Gesetz dies vorsehen i) erfüllt alle weiteren Aufgaben, die ihm durch Verfassung und Gesetz übertragen werden --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "66": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat verwaltet das Kantonsvermögen."
+      },
+      {
+        "num": "2",
+        "text": "Er  verabschiedet  Voranschlag  und  Kantonsrechnung  zuhanden  des"
+      },
+      {
+        "num": null,
+        "text": "Kantonsrates."
+      },
+      {
+        "num": "3",
+        "text": "Er beschliesst über:"
+      },
+      {
+        "num": null,
+        "text": "a) neue einmalige Ausgaben bis Fr. 100'000.00 und neue jährlich wiederkehrende Ausgaben bis Fr. 20'000.00 b)"
+      },
+      {
+        "num": null,
+        "text": "Verfügungsgeschäfte über Liegenschaften des Finanzvermögens bis"
+      },
+      {
+        "num": null,
+        "text": "Fr. 1'000'000.00"
+      },
+      {
+        "num": "4",
+        "text": "Er nimmt die erforderlichen Darlehen und Anleihen auf. 19 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "69": [
+      {
+        "num": "1",
+        "text": "Die kantonale Verwaltung ist in Departemente gegliedert."
+      },
+      {
+        "num": "2",
+        "text": "Die Staatskanzlei ist die Stabs- und Koordinationsstelle des Regierungsrates; sie stellt die Verbindung zum Kantonsrat sicher."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz kann vorsehen, dass bestimmte Aufgaben der kantonalen Verwaltung auf regionaler Ebene oder durch besondere Kommissionen oder selbständige Organisationen erfüllt werden. 20"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "68": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat kann ohne gesetzliche Grundlage Massnahmen ergreifen, um eingetretenen oder unmittelbar drohenden schwerwiegenden Störungen der öffentlichen Ordnung und Sicherheit sowie sozialen Notständen zu begegnen."
+      },
+      {
+        "num": "2",
+        "text": "Notverordnungen hat er sofort dem Kantonsrat zur Genehmigung vorzulegen; sie fallen spätestens ein Jahr nach ihrem In-Kraft-Treten dahin. 4.5 Kantonale Verwaltung --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "70": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat kann seine Entscheidungsbefugnisse auf andere Organe übertragen, wenn ihn das Gesetz dazu ermächtigt. Befugnisse der Departemente darf er ohne Ermächtigung im Gesetz durch Verordnung an nachgeordnete Dienststellen übertragen."
+      },
+      {
+        "num": "2",
+        "text": "Das Weisungsrecht des Regierungsrates gegenüber allen Verwaltungsorganen  bleibt  vorbehalten;  ausgenommen  sind  insbesondere  Rechtsprechungstätigkeiten von Verwaltungsbehörden sowie die Strafverfolgung durch die Staatsanwaltschaft. * 4.6 Rechtspflegebehörden ### § 70 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.01.2011 ### § 70 — Abs. 2 09.11.2009 01.01.2011 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "71": [
+      {
+        "num": "1",
+        "text": "Aufgabe der Gerichte und der ihnen aufsichtsrechtlich unterstellten weiteren Rechtspflegebehörden ist die unabhängige Rechtsanwendung im Bereich des Privatrechts, des Strafrechts und des übrigen öffentlichen Rechts."
+      },
+      {
+        "num": "2",
+        "text": "Die Rechtspflegebehörden sind von den anderen Behörden und den Streitparteien unabhängig und nur Recht und Gesetz unterworfen."
+      },
+      {
+        "num": "3",
+        "text": "Das Obergericht vertritt die Rechtspflegebehörden im Verkehr mit dem"
+      },
+      {
+        "num": null,
+        "text": "Kantonsrat und dem Regierungsrat. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "73": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat wählt die Mitglieder und Ersatzmitglieder der Gerichte sowie der weiteren Rechtspflegebehörden, soweit Verfassung und Gesetz dies vorsehen. 21 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": "2",
+        "text": "Die übrigen Mitglieder der Rechtspflegebehörden und ihre Mitarbeiterinnen und  Mitarbeiter  werden  durch  das  Obergericht  beziehungsweise  das"
+      },
+      {
+        "num": null,
+        "text": "Kantonsgericht gewählt. Das Obergericht kann die Anstellung der Mitarbeiterinnen und Mitarbeiter delegieren. * ### § 73 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.05.2010 ### § 73 — Abs. 2 09.11.2009 01.01.2011 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "72": [
+      {
+        "num": "1",
+        "text": "Die Rechtspflegebehörden und ihre Verfahren sind durch Gesetz übersichtlich und einfach einzurichten."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz kann für einzelne Gebiete besondere Rechtspflegeinstanzen und den Einsatz von Fachrichterinnen und Fachrichtern vorsehen. *"
+      },
+      {
+        "num": "3",
+        "text": "… * ### § 72 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.01.2011 ### § 72 — Abs. 3 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.01.2011 ### § 72 — Abs. 2 09.11.2009 01.01.2011 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 ### § 72 — Abs. 3 09.11.2009 01.01.2011 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "75": [
+      {
+        "num": null,
+        "text": "aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.01.2011 ### § 75 — Abs. 2 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.01.2011 ### § 75 — Abs. 1 09.11.2009 01.05.2010 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 ### § 75 — Abs. 2 09.11.2009 01.01.2011 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "74": [
+      {
+        "num": "1",
+        "text": "Die freie Verbeiständung und Vertretung vor allen Rechtspflegeinstanzen des Kantons ist gewährleistet."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton kann unentgeltlich tätige private Rechtsauskunftsstellen unterstützen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "76": [
+      {
+        "num": "1",
+        "text": "… *"
+      },
+      {
+        "num": "2",
+        "text": "Unter dem Vorbehalt des Weiterzugs an ein Gericht kann das Gesetz die"
+      },
+      {
+        "num": null,
+        "text": "Ahndung  von  Übertretungen  mit  Busse  auch  Verwaltungsbehörden  von"
+      },
+      {
+        "num": null,
+        "text": "Kanton und Gemeinden zuweisen. *"
+      },
+      {
+        "num": "3",
+        "text": "Strafverfolgungsbehörden mit vorwiegend nichtrichterlicher Funktion können der Aufsicht des Regierungsrates unterstellt werden. ### § 76 — Abs. 1 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.01.2011 ### § 76 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.11.2009 01.01.2011 ### § 76 — Abs. 1 09.11.2009 01.01.2011 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 ### § 76 — Abs. 2 09.11.2009 01.01.2011 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "77": [
+      {
+        "num": "1",
+        "text": "Das Kantonsgericht beurteilt die ihm durch das Gesetz zur erstinstanzlichen oder endgültigen Behandlung zugewiesenen Zivil- und Strafsachen."
+      },
+      {
+        "num": "2",
+        "text": "… * ### § 77 — Abs. 2 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 09.02.2020 09.02.2020 ### § 77 — Abs. 2 09.11.2009 01.01.2011 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2010, S. 546, S. 547 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "78": [
+      {
+        "num": "1",
+        "text": "Das Obergericht beurteilt die ihm durch Gesetz zur erstinstanzlichen Behandlung zugewiesenen Streitfälle und die Rechtsmittel auf dem Gebiet des"
+      },
+      {
+        "num": null,
+        "text": "Zivil- und Strafrechts."
+      },
+      {
+        "num": "2",
+        "text": "Es entscheidet staats- und verwaltungsrechtliche Streitigkeiten nach Massgabe von Verfassung und Gesetzgebung sowie Zuständigkeitskonflikte zwischen Verwaltungs- und Rechtspflegebehörden. 22"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000"
+      },
+      {
+        "num": "3",
+        "text": "Es ist Aufsichtsbehörde über alle Gerichte des Kantons und die weiteren"
+      },
+      {
+        "num": null,
+        "text": "Rechtspflegebehörden, welche das Gesetz seiner Aufsicht unterstellt. *"
+      },
+      {
+        "num": "4",
+        "text": "Soweit gesetzliche Vorschriften fehlen oder eine gesetzliche Ermächtigung besteht, erlässt das Obergericht die notwendigen Verordnungen zur Ausübung der richterlichen Tätigkeit. *"
+      },
+      {
+        "num": "5",
+        "text": "Öffentliche Aufgaben 5.1 Allgemeines ### § 78 — Abs. 3 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2004, S. 1798, S. 1824 17.05.2004 01.01.2005 ### § 78 — Abs. 4 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2004, S. 1798, S. 1824 29.08.2004 01.01.2009 ### § 78 — Abs. 3 17.05.2004 01.01.2005 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2004, S. 1798, S. 1824 ### § 78 — Abs. 4 17.05.2004 01.01.2005 geändert"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2004, S. 1798, S. 1824"
+      },
+      {
+        "num": null,
+        "text": "Art. T1 24.11.2024 24.11.2024 eingefügt 2025-33 36 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "79": [
+      {
+        "num": "1",
+        "text": "Der Kanton orientiert sich bei der Erfüllung seiner Aufgaben an den Bedürfnissen und am Wohlergehen aller."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton erfüllt eine Aufgabe nur:"
+      },
+      {
+        "num": null,
+        "text": "a) wenn das private Angebot nicht ausreicht oder b) wenn die Gemeinden sie nicht wirtschaftlich und wirksam erfüllen können oder c) wenn die Wahrung eines öffentlichen Interesses dies erfordert"
+      },
+      {
+        "num": "3",
+        "text": "Aufgaben sind regelmässig daraufhin zu prüfen, ob sie notwendig und finanzierbar sind und ob ihre Erfüllung wirtschaftlich und wirksam ist."
+      },
+      {
+        "num": "4",
+        "text": "Das Gesetz regelt die Aufgabenteilung und die Zusammenarbeit zwischen"
+      },
+      {
+        "num": null,
+        "text": "Kanton und Gemeinden. 5.2 Öffentlicher Friede und Sicherheit --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "81": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden sorgen für den Schutz der Menschen und der natürlichen Umwelt vor schädlichen oder lästigen Einwirkungen. Sie sorgen für eine dauerhafte Erhaltung der natürlichen Lebensgrundlagen und der Artenvielfalt."
+      },
+      {
+        "num": "2",
+        "text": "Die Natur soll durch staatliche und private Tätigkeiten so wenig wie möglich belastet werden."
+      },
+      {
+        "num": "3",
+        "text": "Kanton und Gemeinden fördern die Anwendung umweltgerechter Technologien."
+      },
+      {
+        "num": "4",
+        "text": "Die Kosten für Umweltschutzmassnahmen sind in der Regel nach dem"
+      },
+      {
+        "num": null,
+        "text": "Verursacherprinzip zu tragen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "80": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden sorgen für die öffentliche Sicherheit und schützen das Recht. Sie sichern den öffentlichen Frieden. 23 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 5.3 Lebensraum --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "82": [
+      {
+        "num": "1",
+        "text": "Kanton  und  Gemeinden  sorgen  für  eine  geordnete  Besiedlung  des"
+      },
+      {
+        "num": null,
+        "text": "Kantonsgebietes, für eine zweckmässige und haushälterische Nutzung des"
+      },
+      {
+        "num": null,
+        "text": "Bodens und für den Schutz der Landschaft."
+      },
+      {
+        "num": "2",
+        "text": "Sie erlassen Bau-, Schutz- und Gestaltungsvorschriften für eine menschenfreundliche und umweltgerechte Bebauung. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "83": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden sorgen für eine sichere, zweckmässige und umweltschonende Verkehrsordnung für alle am Verkehr Teilnehmenden."
+      },
+      {
+        "num": "2",
+        "text": "Sie setzen sich für eine möglichst umweltverträgliche Bewältigung des Verkehrsaufkommens ein und fördern das Umsteigen auf umweltfreundliche"
+      },
+      {
+        "num": null,
+        "text": "Verkehrsmittel. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "84": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden stellen die Wasserversorgung sicher und treffen"
+      },
+      {
+        "num": null,
+        "text": "Massnahmen für eine ausreichende und umweltschonende Energieversorgung."
+      },
+      {
+        "num": "2",
+        "text": "Sie  fördern  Massnahmen  für  einen  sparsamen  und  wirtschaftlichen"
+      },
+      {
+        "num": null,
+        "text": "Wasser- und Energieverbrauch. Sie begünstigen die Nutzung erneuerbarer"
+      },
+      {
+        "num": null,
+        "text": "Energien. 24"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000"
+      },
+      {
+        "num": "3",
+        "text": "Sie treffen Massnahmen zur Verminderung und Wiederverwertung von Abfällen und für deren fachgerechte Entsorgung. Sie sorgen für eine umweltgerechte Reinigung der Abwässer. 5.4 Soziales --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "85": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden sorgen zusammen mit öffentlichen und privaten Institutionen dafür, materielle und persönliche Notlagen von Menschen abzuwenden, zu lindern oder zu beheben. Sie fördern Vorsorge, Selbsthilfe und"
+      },
+      {
+        "num": null,
+        "text": "Eigeninitiative."
+      },
+      {
+        "num": "2",
+        "text": "Sie unterstützen Massnahmen zur gesellschaftlichen Integration. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "86": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden treffen Massnahmen, um die Arbeitslosigkeit zu bekämpfen und deren Folgen zu mildern. Sie unterstützen Massnahmen zur"
+      },
+      {
+        "num": null,
+        "text": "Wiedereingliederung von Stellensuchenden."
+      },
+      {
+        "num": "2",
+        "text": "Sie unterstützen jugendliche Schulabgängerinnen und Schulabgänger bei der Eingliederung in berufsbezogene Bildungsgänge oder in die Arbeitswelt. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "87": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden schützen und fördern die Gesundheit der Bevölkerung."
+      },
+      {
+        "num": "2",
+        "text": "Sie unterstützen die Gesundheitsvorsorge und die Gesundheitserziehung."
+      },
+      {
+        "num": "3",
+        "text": "Sie stellen eine wirksame medizinische und pflegerische Versorgung der"
+      },
+      {
+        "num": null,
+        "text": "Bevölkerung sicher."
+      },
+      {
+        "num": "4",
+        "text": "Das Gesetz regelt die Patientenrechte. 5.5 Bildung --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "88": [
+      {
+        "num": "1",
+        "text": "Erziehung und Bildung haben zum Ziel, die Entwicklung zu selbstverantwortlichen Persönlichkeiten, den Willen zur sozialen Gerechtigkeit und die"
+      },
+      {
+        "num": null,
+        "text": "Verantwortung für die Umwelt zu fördern. 25 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "89": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden sorgen für ein umfassendes Bildungsangebot, das allen im Kanton Wohnenden zugänglich ist, und sichern den Zugang zu weiterführenden Schulen."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton gewährt Ausbildungsbeiträge. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "91": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden:"
+      },
+      {
+        "num": null,
+        "text": "a) fördern das aktuelle kulturelle Schaffen und die Pflege des Brauchtums b) erhalten und pflegen Kulturgüter, Denkmäler und schützenswerte"
+      },
+      {
+        "num": null,
+        "text": "Ortsbilder c) erleichtern den Zugang zum kulturellen Leben d) fördern die kulturellen Beziehungen zwischen verschiedenen Volksgruppen, unter den Kantonen und mit dem Ausland e) unterstützen kulturelle Einrichtungen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "90": [
+      {
+        "num": "1",
+        "text": "Der Kanton setzt sich in Zusammenarbeit mit anderen Bildungsträgern und dem angrenzenden Ausland für die Koordination der Bildungsgänge ein, mit dem Ziel, deren Durchlässigkeit zu fördern."
+      },
+      {
+        "num": "2",
+        "text": "Kanton und Gemeinden arbeiten mit den Eltern bei der Erziehung und Bildung ihrer Kinder partnerschaftlich zusammen."
+      },
+      {
+        "num": "3",
+        "text": "Kanton und Gemeinden können zur Ergänzung der eigenen Bildungsangebote mit privaten Bildungsträgern zusammenarbeiten. 5.6 Kultur, Heimatschutz, Freizeit --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "93": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden schaffen günstige Rahmenbedingungen für eine leistungsfähige Wirtschaft. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "92": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden unterstützen die sinnvolle Freizeitgestaltung, insbesondere die Jugendarbeit und den Sport. 26"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000 5.7 Wirtschaft --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "95": [
+      {
+        "num": "1",
+        "text": "Der Kanton hält die Regalrechte gemäss Gesetz."
+      },
+      {
+        "num": "2",
+        "text": "Er kann die Nutzungsrechte Gemeinden oder Privaten übertragen."
+      },
+      {
+        "num": "6",
+        "text": "Finanzordnung --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "94": [
+      {
+        "num": "1",
+        "text": "Der Kanton kann im Interesse der regionalen Volkswirtschaft eine Bank führen oder sich an einer solchen beteiligen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "96": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden führen ihren Finanzhaushalt sparsam, wirtschaftlich, konjunktur- und aufgabengerecht."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton sorgt für eine umfassende, aufeinander abgestimmte Aufgaben- und Finanzplanung."
+      },
+      {
+        "num": "3",
+        "text": "Vor der Übernahme neuer Aufgaben ist darzulegen, wie sie finanziert werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "97": [
+      {
+        "num": "1",
+        "text": "Der Finanzhaushalt muss mittelfristig ausgeglichen sein. Bilanzfehlbeträge sind innert fünf Jahren zu tilgen."
+      },
+      {
+        "num": "2",
+        "text": "Übersteigt der Fehlbetrag in der Bilanz des Kantons fünf Prozent der Einnahmen der laufenden Rechnung, so haben der Regierungsrat und der"
+      },
+      {
+        "num": null,
+        "text": "Kantonsrat Massnahmen zur Sicherstellung des Haushaltgleichgewichts zu treffen. 27 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "98": [
+      {
+        "num": "1",
+        "text": "Der Kanton beschafft sich seine Mittel insbesondere:"
+      },
+      {
+        "num": null,
+        "text": "a) durch Erheben von Steuern und anderen Abgaben b) aus den Erträgen seines Vermögens c) aus Leistungen des Bundes und Dritter d) durch die Aufnahme von Darlehen und Anleihen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "99": [
+      {
+        "num": "1",
+        "text": "Bei der Ausgestaltung der Steuern sind die Grundsätze der Allgemeinheit, der Rechtsgleichheit und der wirtschaftlichen Leistungsfähigkeit der Steuerpflichtigen zu beachten."
+      },
+      {
+        "num": "2",
+        "text": "Die Steuern sind so zu bemessen, dass die gesamte Belastung der steuerpflichtigen Personen nach sozialen Grundsätzen tragbar ist, die Leistungsfähigkeit der Wirtschaft nicht überfordert, der Wille zur Einkommens- und Vermögenserzielung nicht geschwächt und die Selbstvorsorge gefördert werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "101": [
+      {
+        "num": "1",
+        "text": "Die Finanzkontrolle des Kantons ist durch ein unabhängiges Organ sicherzustellen, das im Auftrag des Regierungsrates und des Kantonsrates tätig wird."
+      },
+      {
+        "num": "2",
+        "text": "Die Wahl der Leiterin oder des Leiters der Finanzkontrolle erfolgt auf Vorschlag des Regierungsrates durch den Kantonsrat."
+      },
+      {
+        "num": "7",
+        "text": "Gemeinden --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "100": [
+      {
+        "num": "1",
+        "text": "Der Kanton fördert mit dem Finanzausgleich die Entwicklung zu leistungsfähigen Gemeinden und erstrebt eine ausgewogene Steuerbelastung."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt den Finanzausgleich. Der Kanton leistet Beiträge daran. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "103": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden legen im Rahmen des übergeordneten Rechts ihre Organisation in einer Gemeindeverfassung fest."
+      },
+      {
+        "num": "2",
+        "text": "Die Gemeindeverfassung wird mit der Genehmigung des Regierungsrates rechtsgültig. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "102": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden sind selbständige Körperschaften des öffentlichen Rechts. 28"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000"
+      },
+      {
+        "num": "2",
+        "text": "Sie erfüllen alle öffentlichen Aufgaben, für die nicht der Bund oder der"
+      },
+      {
+        "num": null,
+        "text": "Kanton zuständig sind."
+      },
+      {
+        "num": "3",
+        "text": "Die Grundsätze der Art. 38 bis 48 gelten auch für die Organe der Gemeinden, soweit sie sich nicht nur auf kantonale Behörden beziehen."
+      },
+      {
+        "num": "4",
+        "text": "Das Gesetz kann Mindestanforderungen festlegen, die die Gemeinden bei der Erfüllung ihrer Aufgaben einzuhalten haben. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "104": [
+      {
+        "num": "1",
+        "text": "Für  den  Zusammenschluss,  die  Aufteilung  und  die  Neueinteilung  von"
+      },
+      {
+        "num": null,
+        "text": "Gemeinden ist die Zustimmung der betroffenen Gemeinden und die Genehmigung des Kantonsrates erforderlich."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton kann den freiwilligen Zusammenschluss von Gemeinden fördern. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "105": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden sind im Rahmen von Verfassung und Gesetz befugt, sich selbst zu organisieren, ihre Behörden zu wählen, ihre Aufgaben nach eigenem Ermessen zu erfüllen, die erforderlichen Abgaben zu erheben und ihre öffentlichen Sachen selbständig zu verwalten. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "106": [
+      {
+        "num": "1",
+        "text": "Der Kanton fördert  die Zusammenarbeit  zwischen den Gemeinden.  Er kann sich an der Zusammenarbeit beteiligen. Er unterstützt die Interessen der Gemeinden über die Kantonsgrenzen hinweg."
+      },
+      {
+        "num": "2",
+        "text": "Die Gemeinden können sich für die gemeinsame Erfüllung von Aufgaben zu Zweckverbänden zusammenschliessen oder andere Formen der Zusammenarbeit gemäss Gesetz wählen. 29 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz bestimmt, was zwingend in den Verbandsreglementen zu regeln ist. Die Mitwirkungsrechte der Stimmberechtigten und der Behörden der einzelnen Gemeinden sind zu wahren."
+      },
+      {
+        "num": "4",
+        "text": "Ist eine Aufgabe nicht anders zu erfüllen, kann der Regierungsrat zwei oder mehrere Gemeinden zur Zusammenarbeit verpflichten. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "107": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden können vereinbaren, einander einzelne Verwaltungsaufgaben gegen Entgelt zur Erledigung zu übertragen."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton kann mit Gemeinden Verwaltungsabteilungen oder Betriebe führen und gemeinsame Leitungs- und Aufsichtsorgane bilden. Die Rechte der Parlamente und der Stimmberechtigten bleiben vorbehalten."
+      },
+      {
+        "num": "3",
+        "text": "Im Streitfall entscheidet das Obergericht."
+      },
+      {
+        "num": "8",
+        "text": "Kirchen und Religionsgemeinschaften --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "109": [
+      {
+        "num": "1",
+        "text": "Die  anerkannten  Kirchen  organisieren  sich  nach  demokratischen  und rechtsstaatlichen Grundsätzen selbständig."
+      },
+      {
+        "num": "2",
+        "text": "Sie geben sich ein Organisationsstatut, das vom Regierungsrat genehmigt werden muss. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "108": [
+      {
+        "num": "1",
+        "text": "Die evangelisch-reformierte, die römisch-katholische und die christkatholische Kirche sind als öffentlich-rechtliche Körperschaften mit eigener Rechtspersönlichkeit anerkannt."
+      },
+      {
+        "num": "2",
+        "text": "Der Kantonsrat kann weitere Religionsgemeinschaften öffentlich-rechtlich anerkennen. Die Voraussetzungen und Auswirkungen der öffentlich-rechtlichen Anerkennung richten sich sinngemäss nach Art. 109 bis 113. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "110": [
+      {
+        "num": "1",
+        "text": "Die Mitgliedschaft in einer anerkannten Kirche richtet sich nach deren Organisationsstatut."
+      },
+      {
+        "num": "2",
+        "text": "Der Austritt kann jederzeit durch schriftliche Erklärung erfolgen. 30"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "111": [
+      {
+        "num": "1",
+        "text": "Die  anerkannten  Kirchen  können  sich  in  Kirchgemeinden  mit  eigener"
+      },
+      {
+        "num": null,
+        "text": "Rechtspersönlichkeit gliedern."
+      },
+      {
+        "num": "2",
+        "text": "Sie regeln in ihrem Organisationsstatut die Aufsicht über die Kirchgemeinden und deren Finanzhaushalt sowie die Wahl ihrer Geistlichen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "112": [
+      {
+        "num": "1",
+        "text": "Die anerkannten Kirchen können von ihren Mitgliedern Steuern erheben."
+      },
+      {
+        "num": "2",
+        "text": "Die Steuerpflicht richtet sich nach der kantonalen Steuergesetzgebung und"
+      },
+      {
+        "num": null,
+        "text": "Veranlagung."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt die Leistungen des Kantons an die anerkannten Kirchen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "113": [
+      {
+        "num": "1",
+        "text": "Die anerkannten Kirchen sorgen für einen genügenden Rechtsschutz ihrer"
+      },
+      {
+        "num": null,
+        "text": "Mitglieder und der Kirchgemeinden."
+      },
+      {
+        "num": "2",
+        "text": "Entscheide der obersten kirchlichen Rechtsschutzinstanzen können beim"
+      },
+      {
+        "num": null,
+        "text": "Obergericht angefochten werden."
+      },
+      {
+        "num": "9",
+        "text": "Revision der Kantonsverfassung --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "115": [
+      {
+        "num": "1",
+        "text": "Mit einer Teilrevision können einzelne oder sachlich zusammenhängende"
+      },
+      {
+        "num": null,
+        "text": "Verfassungsbestimmungen geändert werden. 31 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "114": [
+      {
+        "num": "1",
+        "text": "Die Verfassung kann jederzeit ganz oder teilweise revidiert werden."
+      },
+      {
+        "num": "2",
+        "text": "Soweit die Verfassung nichts anderes bestimmt, werden Verfassungsrevisionen im Verfahren der Gesetzgebung vorgenommen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "117": [
+      {
+        "num": "1",
+        "text": "Die Kantonsverfassung wird auf einen vom Kantonsrat festgesetzten Zeitpunkt in Kraft gesetzt1)."
+      },
+      {
+        "num": "2",
+        "text": "Auf diesen Zeitpunkt wird die Verfassung des Kantons Schaffhausen vom 24. März 1876 aufgehoben2). --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "116": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten beschliessen die Einleitung der Totalrevision. Sie entscheiden gleichzeitig, ob ein Verfassungsrat oder der Kantonsrat die Revision vorbereiten soll."
+      },
+      {
+        "num": "2",
+        "text": "Die Wahl und die Abberufung des Verfassungsrates unterliegen den Vorschriften über Wahl und Abberufung des Kantonsrates. Die Bestimmungen über die Unvereinbarkeiten und die Amtsdauer kommen nicht zur Anwendung. Der Verfassungsrat gibt sich eine Geschäftsordnung."
+      },
+      {
+        "num": "3",
+        "text": "Wird der Verfassungsentwurf nicht angenommen, so arbeitet der mit der"
+      },
+      {
+        "num": null,
+        "text": "Revision beauftragte Rat einen zweiten Entwurf aus. Wird auch dieser von den Stimmberechtigten verworfen, fällt der Revisionsbeschluss dahin."
+      },
+      {
+        "num": "10",
+        "text": "Übergangs- und Schlussbestimmungen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "118": [
+      {
+        "num": "1",
+        "text": "Bestimmungen im bisherigen Recht, welche dieser Verfassung widersprechen, sind aufgehoben. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "119": [
+      {
+        "num": "1",
+        "text": "Erlasse, die von einer nicht mehr zuständigen Behörde oder in einem nicht mehr zulässigen Verfahren geschaffen worden sind, bleiben vorläufig in"
+      },
+      {
+        "num": null,
+        "text": "Kraft."
+      },
+      {
+        "num": "2",
+        "text": "Die Änderung dieser Erlasse richtet sich nach dieser Verfassung. 1) In Kraft getreten am 1. Januar 2003 (Amtsblatt 2002, S. 1974). 2) Art. 5 der Verfassung des Kantons Schaffhausen vom 24. März 1876 bleibt vorläufig in Kraft (Amtsblatt 2002, S. 1974). 32"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "121": [
+      {
+        "num": "1",
+        "text": "Behördenmitglieder sowie Angehörige der kantonalen Verwaltung und der"
+      },
+      {
+        "num": null,
+        "text": "Gerichte bleiben bei In-Kraft-Treten dieser Verfassung bis zum Ablauf der"
+      },
+      {
+        "num": null,
+        "text": "Amtsperiode nach bisherigem Recht im Amt."
+      },
+      {
+        "num": "2",
+        "text": "Für Neuwahlen und Ersatzwahlen gelten die Bestimmungen dieser Verfassung. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "120": [
+      {
+        "num": "1",
+        "text": "Ist nach dieser Verfassung neues Recht zu erlassen oder bestehendes"
+      },
+      {
+        "num": null,
+        "text": "Recht zu ändern, so hat dies ohne Verzug zu geschehen."
+      },
+      {
+        "num": "2",
+        "text": "Der Kantonsrat erlässt ein Rechtsetzungsprogramm. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "122": [
+      {
+        "num": "1",
+        "text": "Das bisherige Recht ist massgebend für Volksinitiativen, die vor dem In-"
+      },
+      {
+        "num": null,
+        "text": "Kraft-Treten dieser Verfassung eingereicht worden sind, sowie für Referenden, die sich gegen Vorlagen richten, die vor diesem Zeitpunkt verabschiedet worden sind."
+      },
+      {
+        "num": "2",
+        "text": "Volksinitiativen auf Teilrevision der bisherigen Verfassung, die bis zur Annahme der neuen Verfassung eingereicht werden, wandelt der Kantonsrat in"
+      },
+      {
+        "num": null,
+        "text": "Vorlagen zur Teilrevision der neuen Verfassung um. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "123": [
+      {
+        "num": "1",
+        "text": "Die Verfassung ist im Amtsblatt zu veröffentlichen3) und in die kantonale"
+      },
+      {
+        "num": null,
+        "text": "Gesetzessammlung aufzunehmen."
+      },
+      {
+        "num": null,
+        "text": "Art.  T1 *"
+      },
+      {
+        "num": null,
+        "text": "Übergangsbestimmungen zu Art. 37a"
+      },
+      {
+        "num": "1",
+        "text": "Art. 37a tritt so wie in der Abstimmung vom 9. Februar 2020 angenommen und ergänzt um die Absätze 1bis, 1ter, 2bis, 2ter und 5bis unmittelbar in"
+      },
+      {
+        "num": null,
+        "text": "Kraft. 3) Amtsblatt 2002, S. 1975. 33 101.000"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen"
+      },
+      {
+        "num": "2",
+        "text": "Mit Annahme von Art. 37a Abs. 1bis, 1ter, 2bis, 2ter und 5bis sind bis zum"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten der kantonalen Ausführungsgesetzgebung subsidiär die Offenlegungsvorschriften des Bundes sinngemäss anwendbar, insbesondere Art. 76b bis 76j des Bundesgesetzes über die politischen Rechte4) und Art. 11 des Bundesgesetzes über die Bundesversammlung. Der Regierungsrat erlässt nötigenfalls umgehend ergänzende Ausführungsbestimmungen. 4) BBI 2021 1492. 34"
+      },
+      {
+        "num": null,
+        "text": "Kanton Schaffhausen 101.000"
+      },
+      {
+        "num": null,
+        "text": "Änderungstabelle - Nach Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Fundstelle 17.06.2002 01.01.2003"
+      },
+      {
+        "num": null,
+        "text": "Erlass"
+      },
+      {
+        "num": null,
+        "text": "Erstfassung"
+      },
+      {
+        "num": null,
+        "text": "Abl. 2002, S. 1974 17.05.2004 01.01.2005 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ]
+  }
+}

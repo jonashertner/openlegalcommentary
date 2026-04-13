@@ -1,0 +1,4314 @@
+{
+  "canton": "VS",
+  "law_key": "vs-kv",
+  "sr_number": "101.1",
+  "language": "de",
+  "title": "Verfassung des Kantons Wallis",
+  "lexfind_id": 19030,
+  "fetched_at": "2026-04-13",
+  "article_count": 113,
+  "articles": [
+    {
+      "number": 1,
+      "suffix": "",
+      "raw": "1",
+      "title": ""
+    },
+    {
+      "number": 2,
+      "suffix": "",
+      "raw": "2",
+      "title": ""
+    },
+    {
+      "number": 3,
+      "suffix": "",
+      "raw": "3",
+      "title": ""
+    },
+    {
+      "number": 4,
+      "suffix": "",
+      "raw": "4",
+      "title": ""
+    },
+    {
+      "number": 5,
+      "suffix": "",
+      "raw": "5",
+      "title": ""
+    },
+    {
+      "number": 6,
+      "suffix": "",
+      "raw": "6",
+      "title": ""
+    },
+    {
+      "number": 7,
+      "suffix": "",
+      "raw": "7",
+      "title": ""
+    },
+    {
+      "number": 8,
+      "suffix": "",
+      "raw": "8",
+      "title": ""
+    },
+    {
+      "number": 9,
+      "suffix": "",
+      "raw": "9",
+      "title": ""
+    },
+    {
+      "number": 10,
+      "suffix": "",
+      "raw": "10",
+      "title": ""
+    },
+    {
+      "number": 11,
+      "suffix": "",
+      "raw": "11",
+      "title": ""
+    },
+    {
+      "number": 12,
+      "suffix": "",
+      "raw": "12",
+      "title": ""
+    },
+    {
+      "number": 13,
+      "suffix": "",
+      "raw": "13",
+      "title": ""
+    },
+    {
+      "number": 13,
+      "suffix": "a",
+      "raw": "13a",
+      "title": ""
+    },
+    {
+      "number": 14,
+      "suffix": "",
+      "raw": "14",
+      "title": ""
+    },
+    {
+      "number": 14,
+      "suffix": "a",
+      "raw": "14a",
+      "title": ""
+    },
+    {
+      "number": 15,
+      "suffix": "",
+      "raw": "15",
+      "title": ""
+    },
+    {
+      "number": 16,
+      "suffix": "",
+      "raw": "16",
+      "title": ""
+    },
+    {
+      "number": 17,
+      "suffix": "",
+      "raw": "17",
+      "title": ""
+    },
+    {
+      "number": 18,
+      "suffix": "",
+      "raw": "18",
+      "title": ""
+    },
+    {
+      "number": 19,
+      "suffix": "",
+      "raw": "19",
+      "title": ""
+    },
+    {
+      "number": 20,
+      "suffix": "",
+      "raw": "20",
+      "title": ""
+    },
+    {
+      "number": 21,
+      "suffix": "",
+      "raw": "21",
+      "title": ""
+    },
+    {
+      "number": 22,
+      "suffix": "",
+      "raw": "22",
+      "title": ""
+    },
+    {
+      "number": 23,
+      "suffix": "",
+      "raw": "23",
+      "title": ""
+    },
+    {
+      "number": 24,
+      "suffix": "",
+      "raw": "24",
+      "title": ""
+    },
+    {
+      "number": 25,
+      "suffix": "",
+      "raw": "25",
+      "title": "Existenzminimums."
+    },
+    {
+      "number": 26,
+      "suffix": "",
+      "raw": "26",
+      "title": ""
+    },
+    {
+      "number": 27,
+      "suffix": "",
+      "raw": "27",
+      "title": ""
+    },
+    {
+      "number": 28,
+      "suffix": "",
+      "raw": "28",
+      "title": ""
+    },
+    {
+      "number": 29,
+      "suffix": "",
+      "raw": "29",
+      "title": ""
+    },
+    {
+      "number": 30,
+      "suffix": "",
+      "raw": "30",
+      "title": ""
+    },
+    {
+      "number": 31,
+      "suffix": "",
+      "raw": "31",
+      "title": ""
+    },
+    {
+      "number": 32,
+      "suffix": "",
+      "raw": "32",
+      "title": ""
+    },
+    {
+      "number": 33,
+      "suffix": "",
+      "raw": "33",
+      "title": ""
+    },
+    {
+      "number": 34,
+      "suffix": "",
+      "raw": "34",
+      "title": ""
+    },
+    {
+      "number": 35,
+      "suffix": "",
+      "raw": "35",
+      "title": ""
+    },
+    {
+      "number": 36,
+      "suffix": "",
+      "raw": "36",
+      "title": ""
+    },
+    {
+      "number": 37,
+      "suffix": "",
+      "raw": "37",
+      "title": ""
+    },
+    {
+      "number": 38,
+      "suffix": "",
+      "raw": "38",
+      "title": ""
+    },
+    {
+      "number": 39,
+      "suffix": "",
+      "raw": "39",
+      "title": ""
+    },
+    {
+      "number": 40,
+      "suffix": "",
+      "raw": "40",
+      "title": ""
+    },
+    {
+      "number": 41,
+      "suffix": "",
+      "raw": "41",
+      "title": ""
+    },
+    {
+      "number": 42,
+      "suffix": "",
+      "raw": "42",
+      "title": ""
+    },
+    {
+      "number": 43,
+      "suffix": "",
+      "raw": "43",
+      "title": ""
+    },
+    {
+      "number": 44,
+      "suffix": "",
+      "raw": "44",
+      "title": ""
+    },
+    {
+      "number": 45,
+      "suffix": "",
+      "raw": "45",
+      "title": ""
+    },
+    {
+      "number": 46,
+      "suffix": "",
+      "raw": "46",
+      "title": ""
+    },
+    {
+      "number": 47,
+      "suffix": "",
+      "raw": "47",
+      "title": ""
+    },
+    {
+      "number": 48,
+      "suffix": "",
+      "raw": "48",
+      "title": ""
+    },
+    {
+      "number": 49,
+      "suffix": "",
+      "raw": "49",
+      "title": ""
+    },
+    {
+      "number": 50,
+      "suffix": "",
+      "raw": "50",
+      "title": ""
+    },
+    {
+      "number": 51,
+      "suffix": "",
+      "raw": "51",
+      "title": ""
+    },
+    {
+      "number": 52,
+      "suffix": "",
+      "raw": "52",
+      "title": ""
+    },
+    {
+      "number": 53,
+      "suffix": "",
+      "raw": "53",
+      "title": ""
+    },
+    {
+      "number": 54,
+      "suffix": "",
+      "raw": "54",
+      "title": ""
+    },
+    {
+      "number": 55,
+      "suffix": "",
+      "raw": "55",
+      "title": ""
+    },
+    {
+      "number": 56,
+      "suffix": "",
+      "raw": "56",
+      "title": ""
+    },
+    {
+      "number": 57,
+      "suffix": "",
+      "raw": "57",
+      "title": ""
+    },
+    {
+      "number": 58,
+      "suffix": "",
+      "raw": "58",
+      "title": ""
+    },
+    {
+      "number": 59,
+      "suffix": "",
+      "raw": "59",
+      "title": ""
+    },
+    {
+      "number": 60,
+      "suffix": "",
+      "raw": "60",
+      "title": ""
+    },
+    {
+      "number": 61,
+      "suffix": "",
+      "raw": "61",
+      "title": ""
+    },
+    {
+      "number": 62,
+      "suffix": "",
+      "raw": "62",
+      "title": ""
+    },
+    {
+      "number": 63,
+      "suffix": "",
+      "raw": "63",
+      "title": ""
+    },
+    {
+      "number": 64,
+      "suffix": "",
+      "raw": "64",
+      "title": ""
+    },
+    {
+      "number": 65,
+      "suffix": "",
+      "raw": "65",
+      "title": ""
+    },
+    {
+      "number": 65,
+      "suffix": "a",
+      "raw": "65a",
+      "title": ""
+    },
+    {
+      "number": 66,
+      "suffix": "",
+      "raw": "66",
+      "title": ""
+    },
+    {
+      "number": 67,
+      "suffix": "",
+      "raw": "67",
+      "title": ""
+    },
+    {
+      "number": 68,
+      "suffix": "",
+      "raw": "68",
+      "title": ""
+    },
+    {
+      "number": 69,
+      "suffix": "",
+      "raw": "69",
+      "title": ""
+    },
+    {
+      "number": 70,
+      "suffix": "",
+      "raw": "70",
+      "title": ""
+    },
+    {
+      "number": 71,
+      "suffix": "",
+      "raw": "71",
+      "title": ""
+    },
+    {
+      "number": 72,
+      "suffix": "",
+      "raw": "72",
+      "title": ""
+    },
+    {
+      "number": 73,
+      "suffix": "",
+      "raw": "73",
+      "title": ""
+    },
+    {
+      "number": 74,
+      "suffix": "",
+      "raw": "74",
+      "title": ""
+    },
+    {
+      "number": 75,
+      "suffix": "",
+      "raw": "75",
+      "title": ""
+    },
+    {
+      "number": 76,
+      "suffix": "",
+      "raw": "76",
+      "title": ""
+    },
+    {
+      "number": 77,
+      "suffix": "",
+      "raw": "77",
+      "title": ""
+    },
+    {
+      "number": 78,
+      "suffix": "",
+      "raw": "78",
+      "title": ""
+    },
+    {
+      "number": 79,
+      "suffix": "",
+      "raw": "79",
+      "title": ""
+    },
+    {
+      "number": 80,
+      "suffix": "",
+      "raw": "80",
+      "title": ""
+    },
+    {
+      "number": 81,
+      "suffix": "",
+      "raw": "81",
+      "title": ""
+    },
+    {
+      "number": 82,
+      "suffix": "",
+      "raw": "82",
+      "title": ""
+    },
+    {
+      "number": 83,
+      "suffix": "",
+      "raw": "83",
+      "title": ""
+    },
+    {
+      "number": 84,
+      "suffix": "",
+      "raw": "84",
+      "title": ""
+    },
+    {
+      "number": 85,
+      "suffix": "",
+      "raw": "85",
+      "title": ""
+    },
+    {
+      "number": 85,
+      "suffix": "a",
+      "raw": "85a",
+      "title": ""
+    },
+    {
+      "number": 86,
+      "suffix": "",
+      "raw": "86",
+      "title": ""
+    },
+    {
+      "number": 87,
+      "suffix": "",
+      "raw": "87",
+      "title": ""
+    },
+    {
+      "number": 88,
+      "suffix": "",
+      "raw": "88",
+      "title": ""
+    },
+    {
+      "number": 89,
+      "suffix": "",
+      "raw": "89",
+      "title": ""
+    },
+    {
+      "number": 90,
+      "suffix": "",
+      "raw": "90",
+      "title": ""
+    },
+    {
+      "number": 91,
+      "suffix": "",
+      "raw": "91",
+      "title": ""
+    },
+    {
+      "number": 92,
+      "suffix": "",
+      "raw": "92",
+      "title": ""
+    },
+    {
+      "number": 93,
+      "suffix": "",
+      "raw": "93",
+      "title": ""
+    },
+    {
+      "number": 94,
+      "suffix": "",
+      "raw": "94",
+      "title": ""
+    },
+    {
+      "number": 95,
+      "suffix": "",
+      "raw": "95",
+      "title": ""
+    },
+    {
+      "number": 96,
+      "suffix": "",
+      "raw": "96",
+      "title": ""
+    },
+    {
+      "number": 97,
+      "suffix": "",
+      "raw": "97",
+      "title": ""
+    },
+    {
+      "number": 98,
+      "suffix": "",
+      "raw": "98",
+      "title": ""
+    },
+    {
+      "number": 99,
+      "suffix": "",
+      "raw": "99",
+      "title": ""
+    },
+    {
+      "number": 100,
+      "suffix": "",
+      "raw": "100",
+      "title": ""
+    },
+    {
+      "number": 101,
+      "suffix": "",
+      "raw": "101",
+      "title": ""
+    },
+    {
+      "number": 102,
+      "suffix": "",
+      "raw": "102",
+      "title": ""
+    },
+    {
+      "number": 103,
+      "suffix": "",
+      "raw": "103",
+      "title": ""
+    },
+    {
+      "number": 104,
+      "suffix": "",
+      "raw": "104",
+      "title": ""
+    },
+    {
+      "number": 105,
+      "suffix": "",
+      "raw": "105",
+      "title": ""
+    },
+    {
+      "number": 106,
+      "suffix": "",
+      "raw": "106",
+      "title": ""
+    },
+    {
+      "number": 107,
+      "suffix": "",
+      "raw": "107",
+      "title": ""
+    },
+    {
+      "number": 108,
+      "suffix": "",
+      "raw": "108",
+      "title": ""
+    },
+    {
+      "number": 109,
+      "suffix": "",
+      "raw": "109",
+      "title": ""
+    }
+  ],
+  "article_texts": {
+    "2": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Glaubens- und Gewissensfreiheit und die freie Ausübung gottesdienstlicher Handlungen sind gewährleistet."
+      },
+      {
+        "num": "2",
+        "text": "Die Religionsgemeinschaften entscheiden über ihre Lehre und ihren Kultus frei und unabhängig. Sie befinden innert den Schranken des öffentlichen"
+      },
+      {
+        "num": null,
+        "text": "Rechts selbständig über ihre Organisation und Verwaltung."
+      },
+      {
+        "num": "3",
+        "text": "Die römisch-katholische Kirche und die evangelisch-reformierte Kirche werden als öffentlich-rechtliche Institutionen mit eigener Rechtspersönlichkeit anerkannt. Die anderen Konfessionen unterstehen den Vorschriften des Privatrechts, können aber nach Massgabe ihrer Bedeutung im Kanton durch"
+      },
+      {
+        "num": null,
+        "text": "Gesetz öffentlich-rechtlich anerkannt werden."
+      },
+      {
+        "num": "4",
+        "text": "Soweit die Pfarreien der römisch-katholischen Kirche und diejenigen der evangelisch-reformierten Kirche die orts-kirlichen Kultusausgaben nicht aus eigenen Mitteln bestreiten können, kommen dafür unter Wahrung der Glaubens- und Gewissensfreiheit die Munizipalgemeinden auf. Der Kanton kann den öffentlich-rechtlich anerkannten Kirchen Beiträge gewähren. * Änderungstabellen am Schluss des Erlasses 1 101.1"
+      },
+      {
+        "num": "5",
+        "text": "Das Gesetz regelt die Anwendung dieser Bestimmungen. ### Art. 2 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1974 f 4 | d 1, 1993 f 1, 102 | d 1, 116 28.09.1975 01.01.1981"
+      },
+      {
+        "num": null,
+        "text": "Titel 6.2.1 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 2 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1993 f 1, 102 | d 1, 116 10.06.1990 01.08.1993 ### Art. 2 17.03.1974 01.08.1993 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1974 f 4 | d 1, 1993 f 1, 102 | d 1, 116 ### Art. 2 10.06.1990 01.08.1993 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1993 f 1, 102 | d 1, 116 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "1": [
+      {
+        "num": "1",
+        "text": "Wallis bildet eine innert der Schranken der Bundesverfassung souveräne und als Kanton der Schweizerischen Eidgenossenschaft einverleibte demokratische Republik."
+      },
+      {
+        "num": "2",
+        "text": "Die Souveränität beruht im Volke und wird unmittelbar durch die Aktivbürger und mittelbar von den durch die Verfassung eingesetzten Behörden ausgeübt. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "4": [
+      {
+        "num": "1",
+        "text": "Die  persönliche  Freiheit  und  die  Unverletzlichkeit  der  Wohnung  sind gewährleistet."
+      },
+      {
+        "num": "2",
+        "text": "Niemand darf gerichtlich verfolgt oder verhaftet und keine Hausdurchsuchung darf vorgenommen werden, ausser in den vom Gesetze vorgesehenen Fällen, und in den von demselben vorgeschriebenen Formen."
+      },
+      {
+        "num": "3",
+        "text": "Ungesetzlich Verhaftete sowie unschuldig Verurteilte sind durch den Staat angemessen zu entschädigen. Das Gesetz regelt die Anwendung dieses"
+      },
+      {
+        "num": null,
+        "text": "Grundsatzes. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "3": [
+      {
+        "num": null,
+        "text": "1)"
+      },
+      {
+        "num": "1",
+        "text": "Alle Bürger sind vor dem Gesetze gleich."
+      },
+      {
+        "num": "2",
+        "text": "Es gibt im Wallis kein Vorrecht des Ortes, der Geburt, der Personen oder"
+      },
+      {
+        "num": null,
+        "text": "Familien. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "5": [
+      {
+        "num": "1",
+        "text": "Niemand darf seinem ordentlichen Richter entzogen werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "6": [
+      {
+        "num": "1",
+        "text": "Das Eigentum ist unverletzlich."
+      },
+      {
+        "num": "2",
+        "text": "Von diesem Grundsatze kann nur aus Rücksichten öffentlichen Nutzens mittelst einer gerechten Entschädigung und in den vom Gesetze vorgesehenen Formen abgewichen werden."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz kann jedoch Fälle bestimmen, in welchen Grund und Boden der Burgerschaften oder Gemeinden, aus Rücksichten öffentlichen Nutzens, unentgeltlich abzutreten ist. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "8": [
+      {
+        "num": "1",
+        "text": "Die Freiheit der Meinungsäusserung in Wort und Schrift sowie die Freiheit der Presse sind gesichert. Das Gesetz bestraft den Missbrauch derselben. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "7": [
+      {
+        "num": "1",
+        "text": "Kein Grundstück kann mit einem unloskäuflichen Bodenzins belastet werden. 1) In der Verfassung gilt jede Bezeichnung einer Person, eines Statuts oder einer"
+      },
+      {
+        "num": null,
+        "text": "Funktion in gleicher Weise für Mann oder Frau. 2 101.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "9": [
+      {
+        "num": "1",
+        "text": "Das Petitionsrecht ist gewährleistet. Die Ausübung desselben wird vom"
+      },
+      {
+        "num": null,
+        "text": "Gesetz bestimmt. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "10": [
+      {
+        "num": "1",
+        "text": "Das Recht der freien Niederlassung, das Vereins- und Versammlungsrecht, die freie Ausübung jeder Berufsart in Kunst und Wissenschaft sowie die Freiheit des Handels und der Gewerbe sind gewährleistet."
+      },
+      {
+        "num": "2",
+        "text": "Die Ausübung dieser Rechte wird durch das Gesetz geregelt. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "11": [
+      {
+        "num": "1",
+        "text": "Jeder Bürger ist wehrpflichtig."
+      },
+      {
+        "num": "2",
+        "text": "Die Anwendung dieses Grundsatzes ist durch die Bundes- und Kantonalgesetzgebung geregelt. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "12": [
+      {
+        "num": "1",
+        "text": "Die französische und die deutsche Sprache sind als Landessprachen erklärt."
+      },
+      {
+        "num": "2",
+        "text": "Der Grundsatz der Gleichberechtigung beider Sprachen soll in der Gesetzgebung und in der Verwaltung durchgeführt werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "13": [
+      {
+        "num": "1",
+        "text": "Der öffentliche Unterricht sowie der private Primarunterricht stehen unter der Leitung und der Oberaufsicht des Staates."
+      },
+      {
+        "num": "2",
+        "text": "Der Primarunterricht ist obligatorisch und in den öffentlichen Schulen unentgeltlich."
+      },
+      {
+        "num": "3",
+        "text": "Die Lehrfreiheit ist, unter Vorbehalt der Gesetzesbestimmungen betreffend die Primarschule, gewährleistet. 3 101.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "13a": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Staat muss der Familie, als Basisgemeinschaft der Gesellschaft, den für die Entfaltung jedes ihrer Mitglieder notwendigen Schutz sowie Unterstützung gewähren."
+      },
+      {
+        "num": "2",
+        "text": "Er überprüft die Gesetzgebung unter dem Gesichtspunkt ihrer Auswirkungen auf die Lebensverhältnisse der Familie und passt diese entsprechend an. ### Art. 13a eingefügt"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 20/1999, 40/2000 16.11.2001 01.01.2005 ### Art. 13a 13.06.2001 01.01.2001 eingefügt --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "14a": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Staat erlässt Vorschriften zum Schutz vor Grossraubtieren und zur Beschränkung und Regulierung des Bestands. Die Förderung des Grossraubtierbestandes ist verboten.2) ### Art. 14a eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 2023-051 38 101.1"
+      },
+      {
+        "num": null,
+        "text": "Änderungstabelle - Nach Artikel"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Quelle Publikation"
+      },
+      {
+        "num": null,
+        "text": "Erlass 08.03.1907 02.06.1907"
+      },
+      {
+        "num": null,
+        "text": "Erstfassung"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1907 f 215, 249 | d 173, 206 ### Art. 14a — BO/Abl. 20/1999, 40/2000 15.10.2020 01.05.2023 eingefügt --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "14": [
+      {
+        "num": "1",
+        "text": "Der Staat erlässt Vorschriften betreffend Arbeiterschutz und Sicherung der"
+      },
+      {
+        "num": null,
+        "text": "Arbeiterfreiheit. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "15": [
+      {
+        "num": "1",
+        "text": "Der Staat fördert und unterstützt nach Massgabe der ihm zu Gebote stehenden finanziellen Mittel:"
+      },
+      {
+        "num": null,
+        "text": "a) die Landwirtschaft, die Industrie, den Handel und im Allgemeinen alle den Kanton interessierenden Zweige der Staatswirtschaft; b) den beruflichen Unterricht für Landwirtschaft, Handel, Industrie und"
+      },
+      {
+        "num": null,
+        "text": "Gewerbe; c) die Viehzucht, die Milchwirtschaft, den Rebbau, den Obstbau, die Alpwirtschaft,  die  Bodenverbesserungen,  die  Forstwirtschaft  und  das landwirtschaftliche und berufliche Genossenschaftswesen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "16": [
+      {
+        "num": "1",
+        "text": "Der Staat organisiert und unterstützt die Viehversicherung."
+      },
+      {
+        "num": "2",
+        "text": "Er kann auch andere Versicherungen und besonders die obligatorische"
+      },
+      {
+        "num": null,
+        "text": "Mobiliar- und Immobiliar-Feuerversicherung einführen. 2) Die Bundesgarantie wurde durch Bundesbeschluss vom 6. März 2023 gewährt (BBl 2023  724). https://www.fedlex.admin.ch/eli/fga/2023/724/de https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220079 4 101.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "18": [
+      {
+        "num": "1",
+        "text": "Der Staat gründet oder unterstützt durch Beiträge Erziehungsanstalten für verwahrloste Kinder sowie andere Wohltätigkeitsanstalten. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "17": [
+      {
+        "num": "1",
+        "text": "Der Staat fördert die Entwicklung des Strassennetzes und der übrigen Verkehrsmittel."
+      },
+      {
+        "num": "2",
+        "text": "Er steht ferner vermittelst Beiträgen für die Dämmung der Rhone sowie für die Dämmung und Verbauung der Bäche und Wildbäche ein. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "20": [
+      {
+        "num": "1",
+        "text": "Die finanzielle Beteiligung des Staates in den von den Artikeln 15, 16, 17,"
+      },
+      {
+        "num": "18",
+        "text": "und 19 vorgesehenen Fällen wird durch Spezialgesetz bestimmt werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "19": [
+      {
+        "num": "1",
+        "text": "Der Staat wird die Errichtung von Bezirks- oder Kreis-Spitälern, Kliniken und Krankenhäusern fördern und unterstützen."
+      },
+      {
+        "num": "2",
+        "text": "Er kann auch eine gleichartige kantonale Anstalt errichten. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "22": [
+      {
+        "num": "1",
+        "text": "Die Abberufung oder Absetzung eines öffentlichen Beamten oder Angestellten kann nur nach seiner Einvernahme oder Vorladung und auf Grund eines motivierten Beschlusses derjenigen Behörde erfolgen, die ihn ernannt hat. 5 101.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "21": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Staat, die Gemeinden und die mit Rechtspersönlichkeit ausgestatteten"
+      },
+      {
+        "num": null,
+        "text": "Gemeindeverbände des öffentlichen Rechts haften gegenüber Dritten für die"
+      },
+      {
+        "num": null,
+        "text": "Handlungen ihrer Agenten."
+      },
+      {
+        "num": "2",
+        "text": "Der Agent haftet gegenüber dem öffentlichen Gemeinwesen, in dessen"
+      },
+      {
+        "num": null,
+        "text": "Dienst er sich befindet, für den Schaden, den er ihm in Ausübung seiner amtlichen Tätigkeit durch vorsätzliche oder grobfahrlässige Verletzung seiner Dienstpflicht direkt oder indirekt zufügt."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt die Anwendung dieser Grundsätze. ### Art. 21 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1976 f 51, 52 | d 105, 106 09.06.1985 01.01.1987 ### Art. 21 — RO/AGS 2023-051 26.09.1976 01.01.1977 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1976 f 51, 52 | d 105, 106 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "23": [
+      {
+        "num": "1",
+        "text": "Die Staatsausgaben werden bestritten:"
+      },
+      {
+        "num": null,
+        "text": "a) aus den Einkünften des Staatsvermögens; b) aus dem Ertrag der Hoheitsrechte; c) aus den Fiskalgebühren und den verschiedenen Einkünften; d) aus den Bundes-Entschädigungen, Beiträgen und Verteilungen; e) aus den Steuern. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "24": [
+      {
+        "num": "1",
+        "text": "Die Staats- und Gemeindesteuern werden durch die Gesetzgebung festgesetzt unter Wahrung der Grundsätze der Progression und eines gewissen ### Art. 24 — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 24 — Abs. 1 11.11.1920 07.01.1921 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "26": [
+      {
+        "num": "1",
+        "text": "Der Kanton ist in Bezirke eingeteilt."
+      },
+      {
+        "num": "2",
+        "text": "Die Bezirke sind aus Gemeinden gebildet."
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat kann, nach Anhörung der Beteiligten, durch ein Gesetz die"
+      },
+      {
+        "num": null,
+        "text": "Zahl und Umgrenzung der Bezirke und durch ein Dekret diejenigen der"
+      },
+      {
+        "num": null,
+        "text": "Gemeinden abändern."
+      },
+      {
+        "num": "4",
+        "text": "Er bezeichnet auch die Hauptorte derselben. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "25": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Voranschlag des Staates muss einen Ertragsüberschuss und einen Finanzierungsüberschuss ausweisen, die für eine harmonische Entwicklung des Kantons notwendigen Investitionen und Investitionsbeteiligungen Dritter sicherstellen sowie die Tilgung eines allfälligen Bilanzfehlbetrages und der"
+      },
+      {
+        "num": null,
+        "text": "Schuld gewährleisten."
+      },
+      {
+        "num": "2",
+        "text": "Weicht die Rechnung vom Voranschlag ab und weist sie einen Aufwandüberschuss oder einen Finanzierungsfehlbetrag aus, so muss die Tilgung dieser Fehlbeträge im Voranschlag des übernächsten Jahres vorgesehen werden."
+      },
+      {
+        "num": "3",
+        "text": "Der Staatsrat beantragt dem Grossen Rat vorgängig zum Entwurf des Voranschlages die Änderung jener Gesetzesbestimmungen, die nicht in seiner eigenen Kompetenz liegen und zur Einhaltung dieses Grundsatzes notwendig sind."
+      },
+      {
+        "num": "4",
+        "text": "Diese Änderungen werden vom Grossen Rat auf dem Dekretsweg in der gleichen Session beschlossen, in welcher er den Voranschlag genehmigt."
+      },
+      {
+        "num": "5",
+        "text": "Die Gesetzgebung regelt die Anwendung der in diesem Artikel aufgestellten Grundsätze. Sie kann Ausnahmen vorsehen aufgrund der wirtschaftlichen Konjunktur oder im Falle von Naturkatastrophen oder anderen ausserordentlichen Ereignissen. 6 101.1"
+      },
+      {
+        "num": "2",
+        "text": "Einteilung des Kantons ### Art. 25 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 31/2002, 51/2004 13.05.2004 01.02.2006 ### Art. 25 16.11.2001 01.01.2005 totalrevidiert --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "28": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Walliser sind:"
+      },
+      {
+        "num": null,
+        "text": "a) die einer Gemeinde des Kantons auf Grund der Geburt angehörenden"
+      },
+      {
+        "num": null,
+        "text": "Bürger; b) diejenigen, welchen die Einbürgerung gemäss der kantonalen Gesetzgebung gewährt worden ist."
+      },
+      {
+        "num": "2",
+        "text": "…"
+      },
+      {
+        "num": "3",
+        "text": "… 7 101.1"
+      },
+      {
+        "num": "4",
+        "text": "… ### Art. 28 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 3/2007, 26/2009 14.12.2006 01.01.2008 ### Art. 28 — BO/Abl. 31/2002, 51/2004 14.12.2006 01.01.2008 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 3/2007, 26/2009 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "27": [
+      {
+        "num": "1",
+        "text": "Sitten ist der Hauptort des Kantons und der Sitz des Grossen Rates, des"
+      },
+      {
+        "num": null,
+        "text": "Staatsrates und des Kantonsgerichtes."
+      },
+      {
+        "num": "2",
+        "text": "Wenn wichtige Umstände es erfordern, können diese Behörden anderswo tagen."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz vom 1. Dezember 1882 bestimmt die Leistungen des Hauptortes."
+      },
+      {
+        "num": "4",
+        "text": "Bei Errichtung von kantonalen Anstalten soll billige Rücksicht auf die verschiedenen Landesteile genommen werden."
+      },
+      {
+        "num": "5",
+        "text": "Die Gemeinde, welche als Sitz einer kantonalen Anstalt bezeichnet wird, kann zu gewissen Leistungen oder Beiträgen gehalten werden."
+      },
+      {
+        "num": "3",
+        "text": "Politischer Stand der Bürger --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "29": [
+      {
+        "num": "1",
+        "text": "Jeder Kantonsbürger kann unter den vom Gesetz festgelegten Bedingungen in anderen Einwohnergemeinden das Bürgerrecht erwerben. *"
+      },
+      {
+        "num": "4",
+        "text": "Ausübung der Volksrechte ### Art. 29 — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 3/2007, 26/2009 14.06.2007 01.04.2008 ### Art. 29 — Abs. 1 14.12.2006 01.01.2008 geändert --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "30": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Nebst ihren Befugnissen bei Wahlen und Abstimmungen sowie beim obligatorischen Verfassungsreferendum besitzen die Bürger das Initiativ- und das fakultative Referendumsrecht."
+      },
+      {
+        "num": null,
+        "text": "a) … b) … c) … d) * … e) * …"
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt die Ausübung dieser Rechte sowie das Verfahren der"
+      },
+      {
+        "num": null,
+        "text": "Vernehmlassung und der Information der Bürger. 4.1 Referendumsrecht * ### Art. 30"
+      },
+      {
+        "num": null,
+        "text": "Abs. 1, c), 3. eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 30 — Abs. 1, d) geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 30 — Abs. 1, e) aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 30 — Abs. 1, d) geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1973 f 60, 72 | d 60, 74 17.03.1974 01.08.1993 ### Art. 30 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 30 — BO/Abl. 3/2007, 26/2009 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 ### Art. 30"
+      },
+      {
+        "num": null,
+        "text": "Abs. 1, c), 3. 11.11.1920 07.01.1921 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 30 — Abs. 1, d) 11.11.1920 07.01.1921 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 30 — Abs. 1, d) 23.09.1973 14.10.1973 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1973 f 60, 72 | d 60, 74 ### Art. 30 — Abs. 1, e) 11.11.1920 07.01.1921 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110"
+      },
+      {
+        "num": null,
+        "text": "Titel 4.1 20.10.1993 01.06.1994 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "31": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Dreitausend Stimmberechtigte können innert neunzig Tagen ab deren Veröffentlichung im Amtsblatt verlangen, dass der Volksabstimmung unterbreitet werden:"
+      },
+      {
+        "num": null,
+        "text": "a) die Gesetze und Dekrete; b) die Konkordate, Verträge und Vereinbarungen, die Rechtsnormen enthalten; c) die Beschlüsse des Grossen Rates, welche eine ausserordentliche"
+      },
+      {
+        "num": null,
+        "text": "Ausgabe zur Folge haben, die als einmalige 0.75 Prozent oder als wiederkehrende Ausgabe 0.25 Prozent der Bruttogesamtausgaben der"
+      },
+      {
+        "num": null,
+        "text": "Verwaltungs- und Investitionsrechnung des letzten Verwaltungsjahres übersteigt. 8 101.1"
+      },
+      {
+        "num": "2",
+        "text": "Das Referendum kann auch von der Mehrheit des Grossen Rates verlangt werden. *"
+      },
+      {
+        "num": "3",
+        "text": "Nicht der Volksabstimmung unterliegen:"
+      },
+      {
+        "num": null,
+        "text": "a) die Ausführungsgesetze (Art. 42 Abs. 2); b) die ordentlichen Ausgaben und die übrigen Beschlüsse."
+      },
+      {
+        "num": "4",
+        "text": "Der Grosse Rat stellt die Ungültigkeit von Referenden fest, welche die von"
+      },
+      {
+        "num": null,
+        "text": "Verfassung und Gesetz gestellten Bedingungen nicht erfüllen. ### Art. 31 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1972 f 136 | d 136, 1973 f 46 | d 49 24.09.1972 08.07.1973 ### Art. 31 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 31 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 ### Art. 31 — Abs. 2 24.09.1972 08.07.1973 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1972 f 136 | d 136, 1973 f 46 | d 49 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "32": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Gesetze, Verträge, Konkordate, Vereinbarungen oder Beschlüsse, die dem Referendum unterstellt sind, dürfen weder vor Ablauf der Referendumsfrist noch, gegebenenfalls, vor der Volksabstimmung in Kraft gesetzt werden."
+      },
+      {
+        "num": "2",
+        "text": "Die Dekrete werden sofort in Kraft gesetzt. Falls dreitausend Stimmberechtigte oder die Mehrheit des Grossen Rates es verlangen, sind sie im folgenden Jahr dem Volk zur Abstimmung zu unterbreiten. Werden sie nicht genehmigt, verlieren sie ihre Gültigkeit und können nicht mehr erneuert werden. 4.2 Initiativrecht * ### Art. 32 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994"
+      },
+      {
+        "num": null,
+        "text": "Titel 4.2 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 32 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96"
+      },
+      {
+        "num": null,
+        "text": "Titel 4.2 24.10.1993 01.06.1994 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "34": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Initiative kann, sofern sie nicht auf einen Beschluss abzielt, in der Form des ausgearbeiteten Entwurfes eingereicht werden."
+      },
+      {
+        "num": "2",
+        "text": "Stimmt der Grosse Rat der Initiative zu, findet eine Volksabstimmung nur auf Begehren von dreitausend Stimmberechtigten oder der absoluten Mehrheit des Grossen Rates statt."
+      },
+      {
+        "num": "3",
+        "text": "Lehnt der Grosse Rat die Initiative ab, hat er diese unverändert dem Volk zur Abstimmung zu unterbreiten; er kann aber deren Verwerfung empfehlen oder ebenfalls einen Gegenentwurf ausarbeiten."
+      },
+      {
+        "num": "4",
+        "text": "Nimmt der Grosse Rat einen Gegenentwurf an, werden die Stimmberechtigten eingeladen, sich auf dem gleichen Stimmzettel über folgende drei Fragen auszusprechen:"
+      },
+      {
+        "num": null,
+        "text": "a)"
+      },
+      {
+        "num": null,
+        "text": "Wollen Sie die Volksinitiative annehmen? b)"
+      },
+      {
+        "num": null,
+        "text": "Wollen Sie den Gegenentwurf annehmen? c)"
+      },
+      {
+        "num": null,
+        "text": "Falls beide Vorlagen die Mehrheit der gültig Stimmenden erhalten, soll die Initiative oder der Gegenentwurf in Kraft treten? ### Art. 34 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 34 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "33": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Viertausend Stimmberechtigte können die Ausarbeitung, die Annahme, die"
+      },
+      {
+        "num": null,
+        "text": "Abänderung oder die Aufhebung eines dem Referendum unterliegenden Gesetzes, Dekretes oder anderen Beschlusses verlangen, mit Ausnahme der"
+      },
+      {
+        "num": null,
+        "text": "Gesetze, Dekrete und Beschlüsse, über die das Volk seit weniger als vier"
+      },
+      {
+        "num": null,
+        "text": "Jahren abgestimmt hat, der bereits ausgeführten Beschlüsse und der Dekrete mit einer Gültigkeit unter einem Jahr."
+      },
+      {
+        "num": "2",
+        "text": "Mit Ausnahme der in den Artikeln 34 Absatz 2 und 35 Absatz 1 genannten"
+      },
+      {
+        "num": null,
+        "text": "Fälle ist jede Volksinitiative innert drei Jahren nach deren Einreichung dem"
+      },
+      {
+        "num": null,
+        "text": "Volk zur Abstimmung zu unterbreiten. Diese Frist kann durch einen Beschluss des Grossen Rates höchstens um ein Jahr verlängert werden."
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat stellt die Ungültigkeit einer Initiative fest, die:"
+      },
+      {
+        "num": null,
+        "text": "a) dem Bundesrecht oder der Kantonsverfassung widerspricht; b) mehr als eine Materie beinhaltet; c) die Einheit der Form nicht beachtet; 9 101.1 d) nicht ausführbar ist; e) nicht in den Bereich eines der Initiative unterliegenden Erlasses fällt."
+      },
+      {
+        "num": "4",
+        "text": "Wenn ein Initiativbegehren neue Staatsausgaben oder die Aufhebung bestehender Einnahmen zur Folge hat, welche das finanzielle Gleichgewicht gefährden, so wird der Grosse Rat die Initiative ergänzen, indem er neue"
+      },
+      {
+        "num": null,
+        "text": "Einnahmequellen, den Abbau staatlicher Aufgaben oder andere Sparmassnahmen vorschlägt. ### Art. 33 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 33 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "36": [
+      {
+        "num": "1",
+        "text": "Die öffentlichen Gewalten sind:"
+      },
+      {
+        "num": null,
+        "text": "a) die gesetzgebende Gewalt; b) die vollziehende und verwaltende Gewalt; c) die richterliche Gewalt. 5.1 Gesetzgebende Gewalt 5.1.1 Befugnisse * --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "35": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Initiative in Form der allgemeinen Anregung wird vom Grossen Rat"
+      },
+      {
+        "num": null,
+        "text": "Folge gegeben, indem er entscheidet, ob die von ihm angenommenen oder abgeänderten Bestimmungen in die Verfassung oder in einen Gesetzesoder Verwaltungserlass aufzunehmen sind; wird die Initiative in einem Gesetz oder einem Verwaltungserlass verwirklicht, unterliegt sie nur dann der"
+      },
+      {
+        "num": null,
+        "text": "Volksabstimmung, wenn dreitausend Stimmberechtigte oder die Mehrheit des Grossen Rates es verlangen."
+      },
+      {
+        "num": "2",
+        "text": "Lehnt der Grosse Rat die Initiative ab, unterbreitet er sie unverändert und mit seiner Stellungnahme dem Volk zur Abstimmung."
+      },
+      {
+        "num": "3",
+        "text": "Verwirft das Volk die Initiative, wird sie abgeschrieben. 10 101.1"
+      },
+      {
+        "num": "4",
+        "text": "Nimmt das Volk die Initiative an, ist der Grosse Rat verpflichtet, ihr unverzüglich Folge zu geben."
+      },
+      {
+        "num": "5",
+        "text": "Bei der Ausarbeitung der von der Initiative in Form der allgemeinen Anregung verlangten Bestimmungen hat der Grosse Rat den Absichten der Initianten zu entsprechen."
+      },
+      {
+        "num": "5",
+        "text": "Öffentliche Gewalt ### Art. 35 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.1.1 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 35 101.1"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Quelle Publikation 24.10.1993 01.06.1994 ### Art. 35 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.1.1 24.10.1993 01.06.1994 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "38": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Grosse Rat arbeitet die Verfassungsbestimmungen, die Gesetze und die Dekrete aus. Vorbehalten bleiben die Artikel 31 bis 35 und 100 bis 106."
+      },
+      {
+        "num": "2",
+        "text": "Unter Vorbehalt der Befugnisse des Volkes und Staatsrates genehmigt er die Verträge, Konkordate und Konventionen."
+      },
+      {
+        "num": "3",
+        "text": "Er übt die Rechte aus, die den Kantonen in den Artikeln 86, 89, 89bis und 93 der Bundesverfassung vorbehalten sind und beantwortet die Vernehmlassungen des Bundes über atomare Einrichtungen. 11 101.1 ### Art. 38 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 38 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "37": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Unter Vorbehalt der dem Volk eingeräumten Rechte wird die gesetzgebende Gewalt vom Grossen Rat ausgeübt."
+      },
+      {
+        "num": "2",
+        "text": "Er besitzt jede andere Befugnis, die ihm durch Verfassung oder Gesetz eingeräumt ist. ### Art. 37 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 37 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "40": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der  Grosse  Rat  hat  die  Oberaufsicht  über  die  Geschäftsführung  des"
+      },
+      {
+        "num": null,
+        "text": "Staatsrates, der autonomen Körperschaften und Anstalten des öffentlichen"
+      },
+      {
+        "num": null,
+        "text": "Rechts, der Gerichtsbehörden sowie über die Vertreter des Staates in den"
+      },
+      {
+        "num": null,
+        "text": "Gesellschaften, an denen der Kanton eine Mehrheitsbeteiligung besitzt. Er prüft die Geschäftsführung und berät über deren Genehmigung."
+      },
+      {
+        "num": "2",
+        "text": "Er kann jederzeit von der ausführenden Gewalt Rechenschaft über eine"
+      },
+      {
+        "num": null,
+        "text": "Handlung ihrer Verwaltung verlangen."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz kann gewisse Aufgaben des Staates autonomen Körperschaften oder Anstalten öffentlichen Rechts übertragen. ### Art. 40 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 40 — Quelle Publikation 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "39": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Grosse Rat entscheidet über die Gültigkeit der Wahl seiner Mitglieder."
+      },
+      {
+        "num": "2",
+        "text": "Er wählt das Kantonsgericht, dessen Präsidenten und Vizepräsidenten sowie die Mitglieder des Büros des Staatsanwaltschaft. * ### Art. 39 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 39 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 24/2016, 5/2018 10.03.2016 01.02.2018 ### Art. 39 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 ### Art. 39 — Abs. 2 10.03.2016 01.02.2018 geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 24/2016, 5/2018 39 101.1"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Änderung --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "41": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Grosse Rat hat namentlich folgende Befugnisse:"
+      },
+      {
+        "num": null,
+        "text": "a) er beschliesst den Voranschlag und genehmigt die Rechnung, die veröffentlicht werden. b) er beteiligt sich im Rahmen des Gesetzes an der Planung. c) er beschliesst die ausserordentlichen Ausgaben, bewilligt die Konzessionen und erteilt die Ermächtigung zu Liegenschaftstransaktionen, zur"
+      },
+      {
+        "num": null,
+        "text": "Aufnahme von Darlehen sowie zu Bürgschaften und anderen analogen"
+      },
+      {
+        "num": null,
+        "text": "Garantien unter Vorbehalt der in der Verfassung oder im Gesetz vorgesehenen Ausnahmen. d) er setzt die Gehälter der Magistraten, Beamten und Angestellten des"
+      },
+      {
+        "num": null,
+        "text": "Staates fest unter Vorbehalt der im Gesetz vorgesehenen Ausnahmen. e) er übt das Begnadigungsrecht aus. ### Art. 41 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 41 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "42": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Grosse Rat erlässt die Rechtsnormen in Form des Gesetzes, das grundsätzlich für eine unbegrenzte Dauer in Kraft gesetzt wird. Er kann indessen auch eine Inkraftsetzung mit begrenzter Dauer vorsehen."
+      },
+      {
+        "num": "2",
+        "text": "Er erlässt in Form von Ausführungsgesetzen die zum Vollzug des übergeordneten Rechtes absolut notwendigen Bestimmungen. 12 101.1"
+      },
+      {
+        "num": "3",
+        "text": "Erfordern es die Umstände, so kann er jedoch auf dem Dekretsweg dringliche Bestimmungen von begrenzter Dauer erlassen (Art. 32 Abs. 2)."
+      },
+      {
+        "num": "4",
+        "text": "Der Grosse Rat behandelt alle übrigen Geschäfte in Form von Beschlüssen. 5.1.2 Organisation * ### Art. 42 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.1.2 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 42 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.1.2 24.10.1993 01.06.1994 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "44": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Grosse Rat versammelt sich von Rechts wegen:"
+      },
+      {
+        "num": null,
+        "text": "a) * zur konstituierenden Session am siebten Montag nach seiner Gesamterneuerung; b) * zu den ordentlichen Sessionen gemäss den im Gesetz festgelegten"
+      },
+      {
+        "num": null,
+        "text": "Terminen. c) … d) … e) … f) … g) … h) * … i) * … j) … k) … l) … m) … n) … o) … 13 101.1"
+      },
+      {
+        "num": "2",
+        "text": "Der Grosse Rat versammelt sich zu ausserordentlichen Sessionen:"
+      },
+      {
+        "num": null,
+        "text": "a) wenn er es selber beschliesst; b) auf Einladung des Staatsrates; c) auf Begehren von zwanzig Abgeordneten unter Angabe der zu behandelnden Gegenstände. ### Art. 44 — Abs. 1, h) aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 44 — Abs. 1, i) aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 44 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 44 — Abs. 1, b) geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 31/2000, 11/2002 24.09.2000 01.05.2002 ### Art. 44 — Abs. 1, a) geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 2019-026, 2020- 084 10.03.2016 01.11.2020 ### Art. 44 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 ### Art. 44 — Abs. 1, a) 10.03.2016 01.11.2020 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 2019-026, 2020- 084 ### Art. 44 — Abs. 1, b) 24.09.2000 01.05.2002 geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 31/2000, 11/2002 ### Art. 44 — Abs. 1, h) 11.11.1920 07.01.1921 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 44 — Abs. 1, i) 11.11.1920 07.01.1921 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "43": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Das Gesetz legt die Grundzüge der Organisation des Grossen Rates sowie seiner Beziehungen zum Staatsrat und zu den Gerichtsbehörden fest. Im übrigen organisiert sich der Grosse Rat selbst. *"
+      },
+      {
+        "num": "2",
+        "text": "Es regelt die Teilnahme der Mitglieder des Staatsrates an den Sitzungen des Grossen Rates und der parlamentarischen Kommissionen. ### Art. 43 — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 43 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 43 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 ### Art. 43 — Abs. 1 11.11.1920 07.01.1921 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "45": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Grosse Rat wählt für die Dauer eines Jahres einen Präsidenten und zwei Vizepräsidenten."
+      },
+      {
+        "num": "2",
+        "text": "Der Grosse Rat verfügt über einen unabhängigen Parlamentsdienst. ### Art. 45 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 45 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 31/2000, 11/2002 24.09.2000 01.05.2002 ### Art. 45 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 ### Art. 45 24.09.2000 01.05.2002 totalrevidiert --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "46": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Grosse Rat bezeichnet die ständigen und nicht ständigen Kommissionen, welche seine Beratungen vorbereiten. Diese Befugnis kann an das Büro delegiert werden."
+      },
+      {
+        "num": "2",
+        "text": "Die Abgeordneten können politische Gruppen von mindestens fünf Mitgliedern bilden."
+      },
+      {
+        "num": "3",
+        "text": "Grundsätzlich müssen die politischen Gruppen in den Kommissionen angemessen vertreten sein. ### Art. 46 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 46 — BO/Abl. 31/2000, 11/2002 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "47": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Grosse Rat kann nur in Anwesenheit der absoluten Mehrheit seiner"
+      },
+      {
+        "num": null,
+        "text": "Mitglieder gültig beraten."
+      },
+      {
+        "num": "2",
+        "text": "Er fasst seine Beschlüsse mit der absoluten Mehrheit. ### Art. 47 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 47 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "48": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Sitzungen des Grossen Rates sind öffentlich."
+      },
+      {
+        "num": "2",
+        "text": "Sofern es die Umstände erfordern, kann er jedoch geheime Verhandlung beschliessen. ### Art. 48 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.1.3 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 48 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "50": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Abgeordneten üben ihr Mandat frei aus."
+      },
+      {
+        "num": "2",
+        "text": "Die Abgeordneten können ohne Ermächtigung des Grossen Rates für die von ihnen vor der Versammlung oder in Kommissionen gemachten Äusserungen nicht strafrechtlich verfolgt werden."
+      },
+      {
+        "num": "3",
+        "text": "Ausser bei Ertappen auf frischer Tat können sie während den Sessionen ohne Ermächtigung der Versammlung nicht verhaftet werden. ### Art. 50 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 50 24.10.1993 01.07.1998 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "49": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Gesetzes- und Dekretsentwürfe werden in zwei Lesungen durchberaten."
+      },
+      {
+        "num": "2",
+        "text": "Die Beschlüsse bilden Gegenstand einer einzigen Lesung. 14 101.1"
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat kann in allen Fällen eine einzige oder eine zusätzliche Lesung beschliessen. 5.1.3 Rechte der Abgeordneten * ### Art. 49 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 49 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 31/2000, 11/2002 13.06.2001 01.01.2001 ### Art. 49 24.10.1993 01.07.1998 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 ### Art. 49 24.09.2000 01.05.2002 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 31/2000, 11/2002"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.1.3 24.10.1993 01.06.1994 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "51": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Jedem Mitglied des Grossen Rates steht das Recht auf Einreichung einer"
+      },
+      {
+        "num": null,
+        "text": "Initiative, einer Motion, eines Postulates, einer Interpellation, einer Resolution und einer einfachen Anfrage zu."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz umschreibt inhaltlich diese Rechte und regelt ihre Ausübung. 5.2 Vollziehende Gewalt * 5.2.1 Wahl * ### Art. 51 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.2 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.2.1 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.2.2 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 51 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.2 24.10.1993 01.06.1994 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.2.1 24.10.1993 01.06.1994 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "52": [
+      {
+        "num": "1",
+        "text": "Die Vollziehungs- und Verwaltungsgewalt ist einem aus fünf Mitgliedern gebildeten Staatsrate anvertraut."
+      },
+      {
+        "num": "2",
+        "text": "Einer derselben wird aus den Wählern des Kantonsteiles ernannt, welcher die gegenwärtigen Bezirke Goms, Brig, Visp, Raron und Leuk umfasst; einer aus denjenigen der Bezirke Siders, Sitten, Ering und Gundis, und einer aus denjenigen der Bezirke Martinach, Entremont, Saint-Maurice und Monthey. *"
+      },
+      {
+        "num": "3",
+        "text": "Die zwei andern werden aus den sämtlichen Wählern des Kantons ernannt. Jedoch darf nicht mehr als ein Staatsrat aus den Wählern des nämlichen Bezirkes ernannt werden. * 15 101.1"
+      },
+      {
+        "num": "4",
+        "text": "Die Mitglieder des Staatsrates werden am gleichen Tage wie die Mitglieder des Grossen Rates direkt vom Volke gewählt und treten ihr Amt am darauffolgenden ersten Mai an. Ihre Wahl erfolgt nach dem Mehrheitssystem. Der"
+      },
+      {
+        "num": null,
+        "text": "Staatsrat konstituiert sich alljährlich selbst. Der ausscheidende Präsident ist nicht unmittelbar wieder wählbar. *"
+      },
+      {
+        "num": "5",
+        "text": "Die frei gewordene Stelle eines Staatsrates ist nach sechzig Tagen wieder zu besetzen, insofern die Gesamterneuerung nicht innert vier Monaten erfolgt. *"
+      },
+      {
+        "num": "6",
+        "text": "Die Wahl der Mitglieder des Staatsrates findet mittels des gleichen Listenskrutiniums  statt.  Werden  die  Wahlverhandlungen  am  bestimmten  Tage nicht vollendet, so sind dieselben am darauffolgenden dritten Sonntag wieder aufzunehmen. In diesem Falle wird das Ergebnis des ersten Wahlganges und die Wiederaufnahme der Wahlverhandlungen unverzüglich bekannt gegeben. *"
+      },
+      {
+        "num": "7",
+        "text": "Hat sich im ersten Wahlgange die absolute Mehrheit nicht auf soviele Personen vereinigt, als zu wählen sind, so findet ein zweiter Wahlgang statt. In diesem zweiten Wahlgang gelten diejenigen als gewählt, welche die meisten"
+      },
+      {
+        "num": null,
+        "text": "Stimmen und wäre es auch nicht die absolute Mehrheit derselben, erhalten haben. Wenn jedoch im zweiten Wahlgang die Zahl der zu besetzenden Sitze jener der vorgeschlagenen Kandidaten entspricht, werden diese ohne Urnengang als gewählt erklärt. Die stille Wahl findet ebenfalls auf den ersten"
+      },
+      {
+        "num": null,
+        "text": "Wahlgang bei Ersatzwahlen Anwendung, sofern nur ein einziger Kandidat auftritt und nur ein Sitz wieder zu besetzen ist. *"
+      },
+      {
+        "num": "8",
+        "text": "Ist die Zahl derjenigen, welche die absolute Mehrheit auf sich vereinigt haben, grösser als die Zahl der zu Wählenden, so gelten diejenigen, die die meisten Stimmen auf sich vereinigt haben, als gewählt. *"
+      },
+      {
+        "num": "9",
+        "text": "Haben zwei oder mehrere Bürger des nämlichen Bezirkes die absolute"
+      },
+      {
+        "num": null,
+        "text": "Mehrheit erhalten, so gilt nur derjenige als gewählt, der die meisten Stimmen erhalten hat. *"
+      },
+      {
+        "num": "10",
+        "text": "Bei Stimmengleichheit entscheidet das Los. * 5.2.2 Organisation und Befugnisse * ### Art. 52 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 52 — Abs. 3 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 52 — Abs. 4 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 52 — Abs. 5 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 52 — Abs. 6 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 52 — Abs. 7 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 52 — Abs. 8 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 52 — Abs. 9 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 52 — Abs. 10 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.11.1920 07.01.1921 ### Art. 52 — Abs. 6 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1997 f 1, 267 | d 1, 277 21.01.1996 01.02.1997 ### Art. 52 — Abs. 7 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1997 f 1, 267 | d 1, 277 21.01.1996 01.02.1997 ### Art. 52 — Abs. 6 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 2019-026, 2020- 084 10.03.2016 01.11.2020 ### Art. 52 — Abs. 2 11.11.1920 07.01.1921 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 52 — Abs. 3 11.11.1920 07.01.1921 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 52 — Abs. 4 11.11.1920 07.01.1921 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 52 — Abs. 5 11.11.1920 07.01.1921 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 52 — Abs. 6 11.11.1920 07.01.1921 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 52 — Abs. 6 21.01.1996 01.02.1997 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1997 f 1, 267 | d 1, 277 40 101.1"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Quelle Publikation ### Art. 52 — Abs. 6 10.03.2016 01.11.2020 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 2019-026, 2020- 084 ### Art. 52 — Abs. 7 11.11.1920 07.01.1921 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 52 — Abs. 7 21.01.1996 01.02.1997 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1997 f 1, 267 | d 1, 277 ### Art. 52 — Abs. 8 11.11.1920 07.01.1921 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 52 — Abs. 9 11.11.1920 07.01.1921 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 52 — Abs. 10 11.11.1920 07.01.1921 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110"
+      },
+      {
+        "num": null,
+        "text": "Titel 5.2.2 24.10.1993 01.06.1994 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "54": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "In seinen Beziehungen zum Grossen Rat verfügt der Staatsrat namentlich über folgende Befugnisse:"
+      },
+      {
+        "num": null,
+        "text": "a) er legt die Verfassungs-, Gesetzes-, Dekrets- und Beschlussentwürfe vor; b) er erstattet Bericht über die Volksinitiativen, die Initiativen, Motionen,"
+      },
+      {
+        "num": null,
+        "text": "Postulate und Resolutionen der Abgeordneten und antwortet auf ihre"
+      },
+      {
+        "num": null,
+        "text": "Interpellationen und Anfragen; c) er unterbreitet dem Grossen Rat den Entwurf des Voranschlages, die"
+      },
+      {
+        "num": null,
+        "text": "Staatsrechnung und den Verwaltungsbericht; d) er kann dem Grossen Rat Vorschläge unterbreiten; e) er unterbreitet dem Grossen Rat die Konkordats-, Vertrags- und Vereinbarungsentwürfe, die Rechtsnormen enthalten oder die in seine Zuständigkeit fallende Ausgaben zur Folge haben. ### Art. 54 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 54 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "53": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Staatsrat übt die vollziehende und verwaltende Gewalt aus und besitzt jede Befugnis, die ihm durch Verfassung oder Gesetz erteilt wird."
+      },
+      {
+        "num": "2",
+        "text": "Er handelt als Kollegialbehörde. 16 101.1"
+      },
+      {
+        "num": "3",
+        "text": "Die wichtigen Geschäfte bleiben immer in seiner Zuständigkeit."
+      },
+      {
+        "num": "4",
+        "text": "Er verteilt die Geschäfte unter die Departemente, deren Zahl und Befugnisse durch eine Verordnung, die der Genehmigung des Grossen Rates unterliegt, festgelegt werden."
+      },
+      {
+        "num": "5",
+        "text": "Im übrigen organisiert sich der Staatsrat selber. ### Art. 53 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 53 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "56": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Staatsrat gewährleistet die öffentliche Ordnung und verfügt zu diesem"
+      },
+      {
+        "num": null,
+        "text": "Zweck über die Polizei und die kantonalen Truppen. 17 101.1"
+      },
+      {
+        "num": "2",
+        "text": "Er übt im Falle grosser und unmittelbar bevorstehender Gefahr die ausserordentliche Gewalt aus und benachrichtigt unverzüglich den Grossen Rat über die Massnahmen, die er trifft. ### Art. 56 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 56 24.10.1993 01.07.1998 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "55": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Staatsrat übt namentlich folgende Verwaltungsbefugnisse aus:"
+      },
+      {
+        "num": null,
+        "text": "a) er ernennt das Staatspersonal unter Vorbehalt der im Gesetz vorgesehenen Ausnahmen; b) er überwacht die ihm unterstellten Behörden sowie die öffentlich-rechtlichen Körperschaften und Anstalten; c) er vertritt den Staat, schliesst die Verträge, Konkordate und Vereinbarungen öffentlichen Rechts ab und antwortet auf die vom Kanton verlangten Vernehmlassungen; d) er leitet die Verwaltung, plant und koordiniert ihre Tätigkeiten. ### Art. 55 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 55 24.10.1993 01.07.1998 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "57": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Staatsrat erlässt in Reglementsform die zur Anwendung kantonaler"
+      },
+      {
+        "num": null,
+        "text": "Gesetze und Dekrete notwendigen Bestimmungen."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz kann dem Staatsrat die Befugnis zum Erlass von Verordnungen übertragen, indem es deren Zweck und die ihren Inhalt bestimmenden"
+      },
+      {
+        "num": null,
+        "text": "Grundsätze festlegt. Die Delegation muss sich auf einen genau umschriebenen Bereich beziehen. Die Verordnungen können der Genehmigung des"
+      },
+      {
+        "num": null,
+        "text": "Grossen Rates unterstellt werden."
+      },
+      {
+        "num": "3",
+        "text": "Der Staatsrat behandelt die anderen Geschäfte in Form von Beschlüssen und Entscheiden. ### Art. 57 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 57 24.10.1993 01.07.1998 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "58": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Staatsrat veröffentlicht die Rechtsnormen und setzt sie in Kraft, es sei denn, der Grosse Rat beschliesst darüber selber und sorgt für ihre Anwendung."
+      },
+      {
+        "num": "2",
+        "text": "Er setzt die direkt anwendbaren Verfassungsbestimmungen unmittelbar nach ihrer Genehmigung durch die Bundesversammlung in Kraft. ### Art. 58 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 58 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "60": [
+      {
+        "num": "1",
+        "text": "Die richterliche Gewalt ist unabhängig."
+      },
+      {
+        "num": "2",
+        "text": "… *"
+      },
+      {
+        "num": "3",
+        "text": "… * 18 101.1 ### Art. 60 — Abs. 3 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.06.1994 ### Art. 60 — Abs. 2 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 60 — Abs. 2 24.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 ### Art. 60 — Abs. 3 20.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "59": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Regierung hat in jedem Bezirk einen Regierungsstatthalter und einen"
+      },
+      {
+        "num": null,
+        "text": "Stellvertreter desselben."
+      },
+      {
+        "num": "2",
+        "text": "Die  Befugnisse  des  Regierungsstatthalters  sind  durch  das  Gesetz  bestimmt. 5.3 Richterliche Gewalt ### Art. 59 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 59 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "62": [
+      {
+        "num": "1",
+        "text": "Es besteht in jeder Gemeinde oder in jedem Amtsbezirk ein Richter und ein"
+      },
+      {
+        "num": null,
+        "text": "Richterstatthalter; für jeden Kreis ein Zivil-, ein Korrektions- und ein Kriminalgericht; und für den Kanton ein Kantonsgericht."
+      },
+      {
+        "num": "2",
+        "text": "Die Mitglieder des Kantonsgerichtes sollen die Kenntnisse der beiden Landessprachen besitzen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "61": [
+      {
+        "num": "1",
+        "text": "Das Kantonsgericht erstattet alljährlich dem Grossen Rate durch das Organ des Staatsrates Bericht über alle Zweige der Justizverwaltung. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "64": [
+      {
+        "num": "1",
+        "text": "Der Gesetzgebung bleibt es vorbehalten, ein Handelsgericht und ein oder mehrere gewerbliche Schiedsgerichte einzuführen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "63": [
+      {
+        "num": "1",
+        "text": "Die Anzahl der Kreise, die Kompetenz der Gerichte, deren Zusammensetzung, die Wahl und Besoldungsweise der Richter, sowie auch die Unverträglichkeit zwischen den richterlichen und andern Amtsverrichtungen werden durch das Gesetz bestimmt."
+      },
+      {
+        "num": "2",
+        "text": "Es können nur vier Kreisgerichte bestehen."
+      },
+      {
+        "num": "3",
+        "text": "Die Richter der Amtsbezirke oder der Gemeinden und deren Ersatzmänner werden durch die Wähler des Amtsbezirkes oder der Gemeinde gewählt."
+      },
+      {
+        "num": "4",
+        "text": "Bei der Bildung der Amtsbezirke wird auf die Bevölkerung und die topographische Lage der Gemeinden gebührende Rücksicht genommen."
+      },
+      {
+        "num": "5",
+        "text": "Die Abstimmung findet in jeder Gemeinde statt. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "65a": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Justizrat ist eine unabhängige Justizaufsichtsbehörde."
+      },
+      {
+        "num": "2",
+        "text": "Er übt über die kantonalen Gerichtsbehörden und die Magistraten der"
+      },
+      {
+        "num": null,
+        "text": "Staatsanwaltschaft die administrative und disziplinarische Aufsicht aus. Die ausschliessliche Kompetenz des Grossen Rates, die von ihm gewählten Magistraten aus wichtigen Gründen ihres Amtes zu entheben, bleibt vorbehalten."
+      },
+      {
+        "num": "3",
+        "text": "Er ist der Oberaufsicht des Grossen Rates unterstellt."
+      },
+      {
+        "num": "4",
+        "text": "Der Grosse Rat wählt die Mitglieder des Justizrates, die nicht vom Gesetz bestimmt werden."
+      },
+      {
+        "num": "5",
+        "text": "Ausserdem legt das Gesetz Folgendes fest:"
+      },
+      {
+        "num": null,
+        "text": "a) die Zusammensetzung, die Ernennungsweise und die Organisation des Justizrates; b) den Rechtsmittelweg gegen die Entscheide des Justizrates; c) die Beziehungen zwischen dem Justizrat und dem Grossen Rat, dem"
+      },
+      {
+        "num": null,
+        "text": "Kantonsgericht und der Staatsanwaltschaft; d) die Mitarbeit des Justizrates bei den richterlichen Wahlen."
+      },
+      {
+        "num": "6",
+        "text": "Bezirks- und Gemeindeverwaltung 6.1 Bezirksrat ### Art. 65a eingefügt"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 24/2016, 5/2018 10.03.2016 01.11.2020 ### Art. 65a 10.03.2016 01.02.2018 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 24/2016, 5/2018"
+      },
+      {
+        "num": null,
+        "text": "Titel 6.2.1 28.09.1975 01.01.1981 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "65": [
+      {
+        "num": "1",
+        "text": "Es besteht ein Verwaltungsgericht sowie ein Gericht das über Kompetenzstreitigkeiten zwischen der vollziehenden und der richterlichen Gewalt zu erkennen hat."
+      },
+      {
+        "num": "2",
+        "text": "Diese Gerichte werden durch eigene Gesetze organisiert. 19 101.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "66": [
+      {
+        "num": "1",
+        "text": "Es besteht in jedem Bezirke ein auf vier Jahre gewählter Bezirksrat."
+      },
+      {
+        "num": "2",
+        "text": "Der Gemeinderat wählt seine Delegierten auf denselben im Verhältnis von einem auf 300 Seelen Bevölkerung."
+      },
+      {
+        "num": "3",
+        "text": "Der Bruch von 151 wird für ein Ganzes gerechnet."
+      },
+      {
+        "num": "4",
+        "text": "Jede Gemeinde, welches immer ihre Bevölkerung sein mag, ernennt wenigstens einen Abgeordneten."
+      },
+      {
+        "num": "5",
+        "text": "Der Regierungsstatthalter oder dessen Substitut führt beim Bezirksrate den"
+      },
+      {
+        "num": null,
+        "text": "Vorsitz. 20 101.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "67": [
+      {
+        "num": "1",
+        "text": "Der Bezirksrat schliesst die Rechnungen des Bezirkes ab und verteilt die demselben zufallenden Lasten unter die Gemeinden, unter Vorbehalt des"
+      },
+      {
+        "num": null,
+        "text": "Rekurses an den Staatsrat."
+      },
+      {
+        "num": "2",
+        "text": "Er nimmt alljährlich Kenntnis von dem Berichte über die Finanzverwaltung des Staates."
+      },
+      {
+        "num": "3",
+        "text": "Er vertritt den Bezirk und wacht im besonderen über dessen ökonomische"
+      },
+      {
+        "num": null,
+        "text": "Entwicklung und die Verwertung der landwirtschaftlichen Produkte desselben. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "69": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden ordnen innerhalb der Schranken der Verfassung und der"
+      },
+      {
+        "num": null,
+        "text": "Gesetze ihre Angelegenheiten selbständig. Sie sind für die Aufgaben zuständig, die örtlicher Natur sind und jene, die sie allein oder zusammen mit anderen Gemeinden lösen können. * ### Art. 69 — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 69 — Abs. 1 28.09.1975 01.01.1981 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "68": [
+      {
+        "num": "1",
+        "text": "Das Gesetz bestimmt die Organisation und die weiteren Amtsbefugnisse dieses Rates. 6.2 Gemeindeordnung 6.2.1 Allgemeine Bestimmungen * --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "71": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Gemeinden können sich zur gemeinsamen Lösung öffentlicher Aufgaben zusammenschliessen. Sie bilden zu diesem Zwecke öffentlich-rechtliche mit Rechtspersönlichkeit ausgestattete Verbände. Die Gemeinden können auch auf jede andere Art zusammenarbeiten. Die Grundsätze bezüglich dieser Zusammenarbeit, sowie der Gründung und der Tätigkeit dieser Gemeindeverbände werden durch das Gesetz bestimmt."
+      },
+      {
+        "num": "2",
+        "text": "Der Staatsrat kann unter gewissen vom Gesetz zu bezeichneten Bedingungen  Gemeinden  zwingen,  zusammenzuarbeiten  oder  sich  zu  öffentlichrechtlichen Verbänden zusammenzuschliessen. ### Art. 71 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 71 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "70": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Gemeinden üben ihre Tätigkeit so aus, dass sie mit dem Gemeinwohl und dem Interesse der übrigen Gemeinwesen vereinbar ist."
+      },
+      {
+        "num": "2",
+        "text": "Sie führen ihre eigenen sowie die ihnen durch Gesetz übertragenen Aufgaben aus."
+      },
+      {
+        "num": "3",
+        "text": "Das Gemeindevermögen muss zweckmässig verwendet und sorgfältig verwaltet werden. 21 101.1 ### Art. 70 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 70 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "72": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "In jeder Gemeinde bestehen folgende Organe:"
+      },
+      {
+        "num": null,
+        "text": "a) eine Versammlung der in der Gemeinde stimmberechtigten Bürger; b) ein Gemeinderat, der von der Gemeindeversammlung gewählt wird."
+      },
+      {
+        "num": "2",
+        "text": "Die Gemeindeversammlung wählt aus der Mitte der Gemeinderäte einen"
+      },
+      {
+        "num": null,
+        "text": "Präsidenten und einen Vize-Präsidenten."
+      },
+      {
+        "num": "3",
+        "text": "Im weiteren bestimmt das Gesetz die Grundsätze der Gemeindeorganisation. ### Art. 72 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 72 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "73": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die  Gemeindeversammlung  kann,  sofern  die  Gemeinde  über  700"
+      },
+      {
+        "num": null,
+        "text": "Einwohner zählt, einen Generalrat wählen, dessen Organisation und Befugnisse vom Gesetz bestimmt werden."
+      },
+      {
+        "num": "2",
+        "text": "Gegen  die  Beschlüsse,  die  der  Generalrat  anstelle  der  Gemeindeversammlung fasst, steht den Bürgern das fakultative Referendum zu. Das Gesetz regelt die Ausübung dieses Rechtes."
+      },
+      {
+        "num": "3",
+        "text": "Diese Bestimmungen gelten nicht für die Burgergemeinde. ### Art. 73 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 73 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "74": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die  Gemeinden  sind  berechtigt,  das  Initiativrecht  einzuführen.  In  den"
+      },
+      {
+        "num": null,
+        "text": "Gemeinden, die dieses Recht besitzen, können die Bürger an den Gemeinderat Initiativbegehren stellen in Form einer allgemeinen Anregung über den"
+      },
+      {
+        "num": null,
+        "text": "Erlass oder die Abänderung von Reglementen, die in die Zuständigkeit der"
+      },
+      {
+        "num": null,
+        "text": "Gemeindeversammlung fallen. 22 101.1"
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt die Einführung und die Ausübung dieses Rechtes. ### Art. 74 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 74 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "75": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Gemeinden sind innerhalb der Schranken des Artikels 69 der Aufsicht des Staatsrates unterstellt. Das Gesetz bestimmt die Art und Weise dieser"
+      },
+      {
+        "num": null,
+        "text": "Aufsicht, insbesondere was die Verwaltung betrifft. Sofern die Verfassung und  die  Gesetze  nicht  ausdrücklich  etwas  gegenteiliges  vorsehen,  beschränkt sich die Überprüfungsbefugnis des Staatsrates auf die Gesetzmässigkeit."
+      },
+      {
+        "num": "2",
+        "text": "Die von den Gemeinden ausgearbeiteten Reglemente müssen vom Staatsrat genehmigt werden."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz kann vorsehen, dass wichtige Vorhaben der Gemeinden der"
+      },
+      {
+        "num": null,
+        "text": "Homologation oder der Genehmigung des Staatsrats unterliegen. *"
+      },
+      {
+        "num": "4",
+        "text": "Das Genehmigungsverfahren wird durch das Gesetz geregelt. ### Art. 75 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 75 — Abs. 3 geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 30/2004, 3/2006 13.05.2004 01.02.2006 ### Art. 75 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 ### Art. 75 — Abs. 3 13.05.2004 01.02.2006 geändert --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "76": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Als Gemeinden gelten:"
+      },
+      {
+        "num": null,
+        "text": "a) die Einwohnergemeinden; b) die Burgergemeinden. c) * … 6.2.2 Einwohnergemeinden * ### Art. 76 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981"
+      },
+      {
+        "num": null,
+        "text": "Titel 6.2.2 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 34 101.1"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Quelle Publikation 28.09.1975 01.01.1981 ### Art. 76 — Abs. 1, c) aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1993 f 1, 102 | d 1, 116 10.06.1990 01.08.1993"
+      },
+      {
+        "num": null,
+        "text": "Titel 6.2.4 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1993 f 1, 102 | d 1, 116 10.06.1990 01.08.1993 ### Art. 76 — BO/Abl. 30/2004, 3/2006 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 ### Art. 76 — Abs. 1, c) 10.06.1990 01.08.1993 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1993 f 1, 102 | d 1, 116"
+      },
+      {
+        "num": null,
+        "text": "Titel 6.2.2 28.09.1975 01.01.1981 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 41 101.1"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Änderung --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "77": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Einwohnergemeinde besteht aus den auf dem Gemeindegebiet wohnsässigen Personen."
+      },
+      {
+        "num": "2",
+        "text": "Das Gebiet der Einwohnergemeinde ist unter Vorbehalt des Artikels 26 gewährleistet. ### Art. 77 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 77 — Quelle Publikation 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "79": [
+      {
+        "num": null,
+        "text": "* 1. Dem Gemeinderat obliegen folgende Aufgaben:"
+      },
+      {
+        "num": null,
+        "text": "a) er besorgt die allgemeine Verwaltung der Gemeinde; b) er entwirft die Gemeindereglemente und sorgt für deren Anwendung; c) er sorgt für die Vollziehung der kantonalen Gesetzgebung; d) er ernennt die Angestellten; e) * er erstellt den Entwurf des Voranschlages; f) er erstellt die Rechnung."
+      },
+      {
+        "num": "2",
+        "text": "In den Gemeinden ohne Burgerrat, übt der Gemeinderat dessen Funktion aus. 6.2.3 Burgergemeinden * ### Art. 79 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | d 228, 231 26.09.1976 01.01.1977 ### Art. 79 — Abs. 1., e) geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 30/2004, 3/2006 14.12.2006 01.01.2008 ### Art. 79 — BO/Abl. 30/2004, 3/2006 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | d 228, 231 ### Art. 79 — Abs. 1., e) 13.05.2004 01.02.2006 geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 30/2004, 3/2006"
+      },
+      {
+        "num": null,
+        "text": "Titel 6.2.3 28.09.1975 01.01.1981 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "78": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Urversammlung setzt sich zusammen aus den in der Gemeinde stimmberechtigten Einwohnern."
+      },
+      {
+        "num": "2",
+        "text": "Sie wählt einen Gemeinderat von drei bis fünfzehn Mitgliedern, den Präsidenten und Vize-Präsidenten und gegebenenfalls den Generalrat. 23 101.1"
+      },
+      {
+        "num": "3",
+        "text": "In den Gemeinden ohne Generalrat entscheidet die Urversammlung insbesondere über:"
+      },
+      {
+        "num": null,
+        "text": "a) * die Gemeindereglemente, ausser in den durch das Gesetz bestimmten"
+      },
+      {
+        "num": null,
+        "text": "Ausnahmen; b) * die  wichtigen  Vorhaben  betreffend  Verkauf,  Gewährung  von  beschränkten dinglichen Rechten, Tausch, Verpachtung, Veräusserung von Vermögenswerten, Gewährung von Darlehen, Kreditaufnahmen,"
+      },
+      {
+        "num": null,
+        "text": "Leistung von Bürgschaften, Erteilung und Übertragung von Wasserkraftkonzessionen; c) * die neuen nicht gebundenen Ausgaben, deren Höhe durch das Gesetz festzulegen ist; d) * den Voranschlag und die Rechnung."
+      },
+      {
+        "num": "4",
+        "text": "In den Gemeinden mit Generalrat tritt dieser an die Stelle der Urversammlung und übt mindestens deren Rechte aus, ausgenommen in Wahlangelegenheiten."
+      },
+      {
+        "num": "5",
+        "text": "Das Gesetz bestimmt in beiden Fällen die weitern Zuständigkeiten sowie die Ausübung dieser Rechte. ### Art. 78 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981"
+      },
+      {
+        "num": null,
+        "text": "Titel 6.2.3 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 78 — Abs. 3, a) geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 30/2004, 3/2006 13.05.2004 01.02.2006 ### Art. 78 — Abs. 3, b) geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 30/2004, 3/2006 13.05.2004 01.02.2006 ### Art. 78 — Abs. 3, c) geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 30/2004, 3/2006 13.05.2004 01.02.2006 ### Art. 78 — Abs. 3, d) eingefügt"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 30/2004, 3/2006 13.05.2004 01.02.2006 ### Art. 78 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 ### Art. 78 — Abs. 3, a) 13.05.2004 01.02.2006 geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 30/2004, 3/2006 ### Art. 78 — Abs. 3, b) 13.05.2004 01.02.2006 geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 30/2004, 3/2006 ### Art. 78 — Abs. 3, c) 13.05.2004 01.02.2006 geändert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 30/2004, 3/2006 ### Art. 78 — Abs. 3, d) 13.05.2004 01.02.2006 eingefügt --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "80": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Burgergemeinde ist eine Körperschaft des öffentlichen Rechtes und hat als solche die ihr von der Gesetzgebung übertragenen Aufgaben im öffentlichen Interesse zu erfüllen. 24 101.1 ### Art. 80 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 80 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "81": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Burgerversammlung besteht aus den Burgern, welche im Gebiet der"
+      },
+      {
+        "num": null,
+        "text": "Burgergemeinde ihren Wohnsitz haben. Die Gesetzgebung kann die Ausübung bestimmter Rechte auf die im Kanton wohnsässigen Burger ausdehnen."
+      },
+      {
+        "num": "2",
+        "text": "Die Burgerversammlung hat in Burgerangelegenheiten die gleichen Befugnisse wie die Urversammlung. Sie entscheidet überdies über die Aufnahme neuer Burger. ### Art. 81 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 81 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "82": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Burgerversammlung ist berechtigt, die Bildung eines getrennten Burgerrates zu verlangen. Dieses Begehren muss gemäss den gesetzlichen"
+      },
+      {
+        "num": null,
+        "text": "Vorschriften am Ende einer Verwaltungsperiode gestellt werden."
+      },
+      {
+        "num": "2",
+        "text": "Der Burgerrat besteht aus mindestens drei und höchstens neun Mitgliedern. 6.2.4 … * ### Art. 82 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981"
+      },
+      {
+        "num": null,
+        "text": "Titel 6.2.4 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 82 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231"
+      },
+      {
+        "num": null,
+        "text": "Titel 6.2.4 28.09.1975 01.01.1981 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231"
+      },
+      {
+        "num": null,
+        "text": "Titel 6.2.4 10.06.1990 01.08.1993 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1993 f 1, 102 | d 1, 116 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "83": [
+      {
+        "num": null,
+        "text": "* …"
+      },
+      {
+        "num": "7",
+        "text": "Wahlmodus - Bedingungen der Wahlfähigkeit - Dauer der öffentlichen Ämter ### Art. 83 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 83 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1993 f 1, 102 | d 1, 116 10.06.1990 01.08.1993 ### Art. 83 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 ### Art. 83 10.06.1990 01.08.1993 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1993 f 1, 102 | d 1, 116 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "85": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat, der Staatsrat, die Gerichtsbeamten, die Gemeinderäte und die Burgerräte sind für eine Amtsdauer von vier Jahren gewählt."
+      },
+      {
+        "num": "2",
+        "text": "Der Präsident und der Vize-Präsident des Staatsrates sind alljährlich einer"
+      },
+      {
+        "num": null,
+        "text": "Neuwahl unterworfen. Der Präsident kann nicht unmittelbar wieder gewählt werden. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "84": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Der Grosse Rat setzt sich aus 130, unter die Bezirke zu verteilenden Abgeordneten und ebenso vielen Ersatzmännern zusammen, die direkt vom Volke gewählt werden. *"
+      },
+      {
+        "num": "2",
+        "text": "Der Bezirk Raron, der sich aus zwei Halb-Bezirken mit eigenen Organen und Befugnissen zusammensetzt, bildet zwei Wahlkreise. *"
+      },
+      {
+        "num": "3",
+        "text": "Die Sitze werden wie folgt unter die Bezirke und Halb-Bezirke verteilt: 25 101.1"
+      },
+      {
+        "num": null,
+        "text": "Die Gesamtzahl der schweizerischen Wohnbevölkerung wird durch 130 geteilt. Der so erhaltene Quotient wird auf die nächsthöhere Zahl aufgerundet und bildet dann die Verteilungszahl. Jeder Bezirk oder Halb-Bezirk erhält sovielmal einen Abgeordneten und einen Ersatzmann zugeteilt, als die Verteilungszahl in der Zahl seiner schweizerischen Wohnbevölkerung enthalten ist. Werden durch diese Verteilung nicht alle Sitze ermittelt, so fallen die verbliebenen Sitze den Bezirken und Halb-Bezirken zu, welche die grössten"
+      },
+      {
+        "num": null,
+        "text": "Zahlenresten aufweisen."
+      },
+      {
+        "num": "4",
+        "text": "Der Staatsrat setzt nach jeder Volkszählung die jedem Bezirk und Halb-"
+      },
+      {
+        "num": null,
+        "text": "Bezirk zuzuteilende Anzahl Sitze fest. *"
+      },
+      {
+        "num": "5",
+        "text": "Die Volksabstimmung findet in den Gemeinden statt. *"
+      },
+      {
+        "num": "6",
+        "text": "Die Wahlen erfolgen bezirks- und halbbezirksweise und zwar nach dem"
+      },
+      {
+        "num": null,
+        "text": "Proportional-Wahlverfahren.  Die  Anwendungsart  dieses  Grundsatzes  ist durch das Gesetz bestimmt. *"
+      },
+      {
+        "num": "7",
+        "text": "… *"
+      },
+      {
+        "num": "8",
+        "text": "… * ### Art. 84 — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1911-1913 f 199 | d 125 23.06.1912 25.10.1912 ### Art. 84 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1911-1913 f 199 | d 125 20.11.1919 13.03.1920 ### Art. 84 — Abs. 4 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1917-1920 f 413 | d 413, 1920-1923 f 15 | d 15 20.11.1919 13.03.1920 ### Art. 84 — Abs. 5 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1917-1920 f 413 | d 413, 1920-1923 f 15 | d 15 20.11.1919 13.03.1920 ### Art. 84 — Abs. 6 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1917-1920 f 413 | d 413, 1920-1923 f 15 | d 15 20.11.1919 13.03.1920 ### Art. 84 — Abs. 7 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1917-1920 f 413 | d 413, 1920-1923 f 15 | d 15 20.11.1919 13.03.1920 ### Art. 84 — Abs. 8 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1917-1920 f 413 | d 413, 1920-1923 f 15 | d 15 11.11.1920 07.01.1921 ### Art. 84 — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1952 f 242 | d 242 21.12.1952 23.01.1953 ### Art. 84 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1952 f 242 | d 242 21.12.1952 23.01.1953 ### Art. 84 — Abs. 4 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1952 f 242 | d 242 21.12.1952 23.01.1953 ### Art. 84 — Abs. 5 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1952 f 242 | d 242 14.09.1969 28.10.1970 ### Art. 84 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1985 f 1, 139 | d 1, 148 10.06.1990 01.08.1993 ### Art. 84 09.06.1985 01.01.1987 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1985 f 1, 139 | d 1, 148 ### Art. 84 — Abs. 1 23.06.1912 25.10.1912 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1911-1913 f 199 | d 125 ### Art. 84 — Abs. 1 21.12.1952 23.01.1953 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1952 f 242 | d 242 ### Art. 84 — Abs. 2 23.06.1912 25.10.1912 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1911-1913 f 199 | d 125 ### Art. 84 — Abs. 2 21.12.1952 23.01.1953 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1952 f 242 | d 242 ### Art. 84 — Abs. 4 20.11.1919 13.03.1920 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1917-1920 f 413 | d 413, 1920-1923 f 15 | d 15 ### Art. 84 — Abs. 4 21.12.1952 23.01.1953 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1952 f 242 | d 242 ### Art. 84 — Abs. 5 20.11.1919 13.03.1920 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1917-1920 f 413 | d 413, 1920-1923 f 15 | d 15 ### Art. 84 — Abs. 5 21.12.1952 23.01.1953 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1952 f 242 | d 242 ### Art. 84 — Abs. 6 20.11.1919 13.03.1920 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1917-1920 f 413 | d 413, 1920-1923 f 15 | d 15 ### Art. 84 — Abs. 7 20.11.1919 13.03.1920 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1917-1920 f 413 | d 413, 1920-1923 f 15 | d 15 ### Art. 84 — Abs. 8 20.11.1919 13.03.1920 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1917-1920 f 413 | d 413, 1920-1923 f 15 | d 15 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "86": [
+      {
+        "num": "1",
+        "text": "Die Wahl der Mitglieder und der Ersatzmänner des Grossen Rates findet für jede neue Amtsperiode am ersten Sonntag März statt."
+      },
+      {
+        "num": "2",
+        "text": "Der neugewählte Grosse Rat tritt mit der Eröffnung der konstituierten Session in Amtstätigkeit. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "85a": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Abgeordneten auf den Ständerat werden bei der ordentlichen Gesamterneuerung des Nationalrates direkt vom Volke gewählt. Diese Wahlen erfolgen im ganzen Kanton als einziger Wahlkreis nach dem Mehrheitssystem. *"
+      },
+      {
+        "num": "2",
+        "text": "Die Wahl des Ständerates findet mittels des gleichen Listenskrutiniums statt. Werden die Wahlen am bestimmten Tag nicht vollendet, so sind dieselben am darauffolgenden dritten Sonntag wieder aufzunehmen. In diesem"
+      },
+      {
+        "num": null,
+        "text": "Falle wird das Ergebnis des ersten Wahlganges und die Wiederaufnahme der Wahlverhandlungen unverzüglich bekannt gegeben. * 26 101.1"
+      },
+      {
+        "num": "3",
+        "text": "Hat sich im ersten Wahlgang die absolute Mehrheit nicht auf soviele Abgeordnete vereinigt, als zu wählen sind, so findet ein zweiter Wahlgang statt. In diesem zweiten Wahlgang gelten diejenigen als gewählt, welche die meisten"
+      },
+      {
+        "num": null,
+        "text": "Stimmen, und wäre es auch nicht die absolute Mehrheit derselben, erhalten haben. Wenn jedoch im zweiten Wahlgang die Zahl der zu wählenden Abgeordneten jener der vorgeschlagenen Kandidaten entspricht, werden diese ohne Urnengang als gewählt erklärt. Die stille Wahl findet ebenfalls auf den ersten Wahlgang bei Ersatzwahlen Anwendung, sofern nur ein einziger Kandidat auftritt und nur ein Sitz wieder zu besetzen ist. *"
+      },
+      {
+        "num": "4",
+        "text": "Ist die Zahl derjenigen, welche die absolute Mehrheit erhalten haben, grösser als die Zahl der zu Wählenden, so gelten diejenigen, die die meisten"
+      },
+      {
+        "num": null,
+        "text": "Stimmen auf sich vereinigt haben, als gewählt."
+      },
+      {
+        "num": "5",
+        "text": "Bei Stimmengleichheit entscheidet das Los. ### Art. 85a eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 33 101.1"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Quelle Publikation 11.11.1920 07.01.1921 ### Art. 85a — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1934-1935 f 76 | d 76 21.12.1952 23.01.1953 ### Art. 85a — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1997 f 1, 267 | d 1, 277 21.01.1996 01.02.1997 ### Art. 85a — Abs. 3 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1997 f 1, 267 | d 1, 277 24.09.2000 01.05.2002 ### Art. 85a — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 2019-026, 2020- 084 15.10.2020 01.05.2023 ### Art. 85a 11.11.1920 07.01.1921 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 85a — Abs. 1 11.03.1934 06.07.1934 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1934-1935 f 76 | d 76 ### Art. 85a — Abs. 2 21.01.1996 01.02.1997 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1997 f 1, 267 | d 1, 277 ### Art. 85a — Abs. 2 10.03.2016 01.11.2020 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 2019-026, 2020- 084 42 101.1"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Quelle Publikation ### Art. 85a — Abs. 3 21.01.1996 01.02.1997 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1997 f 1, 267 | d 1, 277 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "88": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Bürger und Bürgerinnen üben ihre politischen Rechte mit der Erfüllung des achtzehnten Altersjahres aus. *"
+      },
+      {
+        "num": "2",
+        "text": "Alle Stimmfähigen sind in die öffentlichen Ämter wählbar. ### Art. 88 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18, 141 12.04.1970 01.11.1970 ### Art. 88 — Abs. 1 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1991 f 1, 245 | d 1, 265 20.10.1993 01.06.1994"
+      },
+      {
+        "num": null,
+        "text": "Titel 4.1 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 20.10.1993 01.07.1998 ### Art. 88 — BO/Abl. 34/2007, 13/2008 12.04.1970 01.11.1970 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18, 141 ### Art. 88 — Abs. 1 02.06.1991 16.08.1991 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1991 f 1, 245 | d 1, 265 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "87": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Mitglieder des Generalrates werden vom Wahlvolk nach dem Proporzsystem gewählt."
+      },
+      {
+        "num": "2",
+        "text": "Die Mitglieder des Gemeinde- und Burgerrates werden vom Wahlvolk nach dem  Proporzsystem  gewählt.  In  den  Burgergemeinden  und  in  den"
+      },
+      {
+        "num": null,
+        "text": "Einwohnergemeinden  mit  weniger  als  der  im  Gesetz  festgelegten"
+      },
+      {
+        "num": null,
+        "text": "Einwohnerzahl kann das Wahlvolk mit der Mehrheit seiner Mitglieder unter den im Gesetz bestimmten Voraussetzungen einen Wechsel des Wahlsystems beschliessen. Das Majorzsystem wird in den Burgergemeinden und in den Einwohnergemeinden, welche dieses System im Zeitpunkt des Inkrafttretens der vorliegenden Reform kennen, beibehalten."
+      },
+      {
+        "num": "3",
+        "text": "Der Präsident, der Vizepräsident, der Richter und der Vizerichter werden vom Wahlvolk nach dem Majorzsystem gewählt."
+      },
+      {
+        "num": "4",
+        "text": "Das Gesetz bestimmt die Modalitäten der Wahl und das Datum des Urnengangs. 27 101.1 ### Art. 87 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1969 f 60 | d 61, 1970 f 138 | d 142 12.04.1970 01.11.1970 ### Art. 87 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "BO/Abl. 34/2007, 13/2008 37 101.1"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Quelle Publikation 10.03.2016 01.02.2018 ### Art. 87 14.09.1969 28.10.1970 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1969 f 60 | d 61, 1970 f 138 | d 142 ### Art. 87 14.06.2007 01.04.2008 totalrevidiert --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "90": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Das Gesetz regelt die Unvereinbarkeiten."
+      },
+      {
+        "num": "2",
+        "text": "Es sucht namentlich zu verhindern, dass:"
+      },
+      {
+        "num": null,
+        "text": "a) ein Bürger gleichzeitig Funktionen von mehreren öffentlichen Gewalten ausübt; b) die gleiche Person zwei einander untergeordneten Organen angehört; c) die Mitglieder derselben Familie in der gleichen Behörde sitzen; d) der Bürger, der eine öffentliche Beamtung inne hat, noch andere Tätigkeiten ausübt, die sich bei der Erfüllung seiner Funktion nachteilig auswirken könnten."
+      },
+      {
+        "num": "3",
+        "text": "Unter  Vorbehalt  gesetzlicher  Ausnahmen  gelten  die  Unvereinbarkeiten auch für die Ersatzmänner und die Substituten."
+      },
+      {
+        "num": "4",
+        "text": "Das Gesetz kann andere Ausnahmen, namentlich für die Gemeindeordnung, vorsehen."
+      },
+      {
+        "num": "5",
+        "text": "Nur ein einziges Mitglied des Staatsrates darf in den eidgenössischen Räten sitzen. ### Art. 90 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 11.03.1934 06.07.1934 ### Art. 90 wieder in Kraft"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1998 f 1, 337 | d 1, 365 21.01.1996 01.02.1997 ### Art. 90 11.11.1920 07.01.1921 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1920-1923 f 119 | d 110 ### Art. 90 24.10.1993 01.07.1998 wieder in Kraft"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "89": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "… *"
+      },
+      {
+        "num": "2",
+        "text": "Jeder  Bürger  kann  nur  in  einer  Einwohner-  und  Burgergemeinde  das"
+      },
+      {
+        "num": null,
+        "text": "Stimmrecht ausüben. ### Art. 89 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 28.09.1975 01.01.1981 ### Art. 89 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1993 f 1, 102 | d 1, 116 02.06.1991 16.08.1991 ### Art. 89 — Abs. 1 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 89 28.09.1975 01.01.1981 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1981 f 218, 221 | 228, 231 ### Art. 89 10.06.1990 01.08.1993 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1993 f 1, 102 | d 1, 116 ### Art. 89 — Abs. 1 24.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "91": [
+      {
+        "num": null,
+        "text": "* … ### Art. 91 — Abs. 1, a) geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 12.04.1970 01.11.1970 ### Art. 91 — Abs. 1, b) geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 12.04.1970 01.11.1970 ### Art. 91 — Abs. 1, c) geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 12.04.1970 01.11.1970 ### Art. 91 — Abs. 1, d) geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 12.04.1970 01.11.1970 ### Art. 91 — Abs. 1, e) aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 12.04.1970 01.11.1970 ### Art. 91 — Abs. 1, f) aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 12.04.1970 01.11.1970 ### Art. 91 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 12.04.1970 01.11.1970 ### Art. 91 — Abs. 3 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 24.09.1972 08.07.1973 ### Art. 91 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 91 24.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 ### Art. 91 — Abs. 1, a) 12.04.1970 01.11.1970 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 ### Art. 91 — Abs. 1, b) 12.04.1970 01.11.1970 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 ### Art. 91 — Abs. 1, c) 12.04.1970 01.11.1970 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 ### Art. 91 — Abs. 1, d) 12.04.1970 01.11.1970 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 ### Art. 91 — Abs. 1, e) 12.04.1970 01.11.1970 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 ### Art. 91 — Abs. 1, f) 12.04.1970 01.11.1970 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 ### Art. 91 — Abs. 2 12.04.1970 01.11.1970 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 ### Art. 91 — Abs. 3 12.04.1970 01.11.1970 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1970 f 15, 138 | d 18,141 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "92": [
+      {
+        "num": "1",
+        "text": "Die Fälle des Ausschlusses vom Stimm- und Wahlrecht sind durch die"
+      },
+      {
+        "num": null,
+        "text": "Kantons- und Bundesgesetzgebung bestimmt. 28 101.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "94": [
+      {
+        "num": null,
+        "text": "* … ### Art. 94 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 94 24.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "93": [
+      {
+        "num": null,
+        "text": "* … ### Art. 93 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 93 24.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "95": [
+      {
+        "num": null,
+        "text": "* … ### Art. 95 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 95 24.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "96": [
+      {
+        "num": null,
+        "text": "* … ### Art. 96 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 96 24.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "97": [
+      {
+        "num": null,
+        "text": "* … ### Art. 97 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 97 24.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "98": [
+      {
+        "num": null,
+        "text": "* … ### Art. 98 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 98 24.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "100": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Sechstausend Stimmberechtigte können die Total- oder Teilrevision der"
+      },
+      {
+        "num": null,
+        "text": "Verfassung verlangen."
+      },
+      {
+        "num": "2",
+        "text": "Jede Volksinitiative ist innert drei Jahren nach deren Einreichung dem Volk zur Abstimmung zu unterbreiten. Diese Frist kann durch einen Beschluss des Grossen Rates höchstens um ein Jahr verlängert werden."
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat stellt die Ungültigkeit einer Initiative fest, die:"
+      },
+      {
+        "num": null,
+        "text": "a) dem Bundesrecht widerspricht; b) mehr als eine Materie beinhaltet; c) die Einheit der Form nicht beachtet; d) nicht in den Bereich der Verfassung fällt; e) nicht ausführbar ist. ### Art. 100 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 100 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "99": [
+      {
+        "num": null,
+        "text": "* …"
+      },
+      {
+        "num": "8",
+        "text": "Revision der Verfassung ### Art. 99 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 99 24.10.1993 01.07.1998 aufgehoben"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "102": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Teilrevision der Verfassung kann in Form eines ausgearbeiteten Entwurfes verlangt werden."
+      },
+      {
+        "num": "2",
+        "text": "Der Grosse Rat kann die Ablehnung oder die Annahme empfehlen oder einen Gegenentwurf ausarbeiten."
+      },
+      {
+        "num": "3",
+        "text": "Arbeitet der Grosse Rat einen Gegenentwurf aus, berät er darüber in zwei ordentlichen Sessionen. Er kann eine zusätzliche Lesung beschliessen."
+      },
+      {
+        "num": "4",
+        "text": "Nimmt der Grosse Rat einen Gegenentwurf an, werden die Stimmberechtigten eingeladen, sich auf dem gleichen Stimmzettel über folgende drei Fragen auszusprechen:"
+      },
+      {
+        "num": null,
+        "text": "a)"
+      },
+      {
+        "num": null,
+        "text": "Wollen Sie die Volksinitiative annehmen? b)"
+      },
+      {
+        "num": null,
+        "text": "Wollen Sie den Gegenentwurf annehmen? c)"
+      },
+      {
+        "num": null,
+        "text": "Falls beide Vorlagen die absolute Mehrheit der Stimmenden erhalten, soll die Initiative oder der Gegenentwurf in Kraft treten? ### Art. 102 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 102 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "101": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die Initiative in Form der allgemeinen Anregung wird mit einer Stellungnahme des Grossen Rates dem Volk zur Abstimmung unterbreitet. 29 101.1"
+      },
+      {
+        "num": "2",
+        "text": "Verwirft das Volk die Initiative, wird sie abgeschrieben."
+      },
+      {
+        "num": "3",
+        "text": "Nimmt das Volk die Initiative an, ist der Grosse Rat verpflichtet, ihr unverzüglich Folge zu geben. *"
+      },
+      {
+        "num": "4",
+        "text": "Bei der Ausarbeitung der von der Initiative in Form der allgemeinen Anregung verlangten Bestimmungen hat der Grosse Rat den Absichten der Initianten zu entsprechen."
+      },
+      {
+        "num": "5",
+        "text": "Das Volk entscheidet gleichzeitig, ob im Falle der Annahme der Initiative die Totalrevision durch den Grossen Rat oder durch einen Verfassungsrat durchzuführen ist. ### Art. 101 — Abs. 3 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1972 f 136 | d 136, 1973 f 46 | d 49 23.09.1973 14.10.1973 ### Art. 101 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 101 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 43 101.1"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Quelle Publikation ### Art. 101 — Abs. 3 24.09.1972 08.07.1973 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1972 f 136 | d 136, 1973 f 46 | d 49 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "103": [
+      {
+        "num": "1",
+        "text": "Findet die Revision zufolge des Volkentscheides durch den Grossen Rat statt, so wird dieselbe in zwei ordentlichen Sessionen beraten."
+      },
+      {
+        "num": "2",
+        "text": "Findet dieselbe durch einen Verfassungsrat statt, so wird sie in zwei Lesungen beraten."
+      },
+      {
+        "num": "3",
+        "text": "Die Verfassungsratswahlen erfolgen auf der gleichen Grundlage wie die"
+      },
+      {
+        "num": null,
+        "text": "Wahl der Abgeordneten auf den Grossen Rat. Auf dieselben ist keiner der für die letztere vorgesehenen Unverträglichkeitsfälle anwendbar. 30 101.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "104": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat kann auch von sich aus eine Verfassungsrevision durchführen."
+      },
+      {
+        "num": "2",
+        "text": "Die  Abänderungen  bilden  zuerst  Gegenstand  einer  Lesung  über  die"
+      },
+      {
+        "num": null,
+        "text": "Zweckmässigkeit, gefolgt von zwei Lesungen über den Text, und zwar in ordentlichen Sessionen. *"
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat kann in jedem Fall eine zusätzliche Lesung beschliessen."
+      },
+      {
+        "num": null,
+        "text": "Er kann auch verlangen, dass sich das Volk über verschiedene Varianten ausspricht. * ### Art. 104 — Abs. 2 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 104 — Abs. 3 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 24.10.1993 01.06.1994 ### Art. 104 — Abs. 2 24.10.1993 01.06.1994 geändert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 ### Art. 104 — Abs. 3 24.10.1993 01.06.1994 eingefügt"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "106": [
+      {
+        "num": "1",
+        "text": "Bei den in Vollziehung der Artikel 102 und 105 angeordneten Abstimmungen entscheidet die absolute Mehrheit der an der Abstimmung teilnehmenden Bürger. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "105": [
+      {
+        "num": "1",
+        "text": "Die durch den Grossen Rat oder durch einen Verfassungsrat revidierte"
+      },
+      {
+        "num": null,
+        "text": "Verfassung wird dem Volke zur Annahme oder Verwerfung unterbreitet. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "108": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die vom Grossen Rat vor dem Datum der Inkraftsetzung der neuen Verfassungsbestimmungen angenommenen Erlasse unterliegen gemäss dem bisherigen Artikel 30 der Kantonsverfassung dem obligatorischen Referendum. 31 101.1"
+      },
+      {
+        "num": "2",
+        "text": "Die bei der Staatskanzlei vor diesem Datum eingereichten Volksinitiativen unterliegen den alten Artikeln 31 bis 35 oder den bisherigen Artikeln 101 bis 107 der Kantonsverfassung."
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat ist befugt, die Reihenfolge und die Numerierung der bisherigen Artikel 49, 50, 55, 56 und 57 der Kantonsverfassung zu ändern, sofern der neue, die Unvereinbarkeiten regelnde Artikel 90 vom Volk nicht angenommen wird. ### Art. 108 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 36 101.1"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Quelle Publikation 24.10.1993 01.07.1998 ### Art. 108 24.10.1993 01.06.1994 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "107": [
+      {
+        "num": "1",
+        "text": "Jedes aus einer Volksinitiative hervorgegangene Revisionsbegehren wird an den Grossen Rat gerichtet."
+      },
+      {
+        "num": "2",
+        "text": "Die das Begehren unterstützenden Unterschriften werden gemeindeweise abgegeben und die Stimmberechtigung der Unterzeichner muss durch den"
+      },
+      {
+        "num": null,
+        "text": "Gemeindepräsidenten bescheinigt werden. Dieser hat sich auch von der"
+      },
+      {
+        "num": null,
+        "text": "Echtheit der ihm verdächtig scheinenden Unterschriften zu versichern."
+      },
+      {
+        "num": "9",
+        "text": "Übergangsbestimmungen --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ],
+    "109": [
+      {
+        "num": null,
+        "text": "*"
+      },
+      {
+        "num": "1",
+        "text": "Die bisherigen Artikel 49, 50, 55, 56, 57, 60 Absätze 2 und 3, 89 Absatz 1, 91, 93 bis 99 bleiben bis zur Annahme des vom neuen Artikel 90 Absatz 1 vorgesehenen Gesetzes in Kraft. Bis zu diesem Datum ist der Grosse Rat jedoch befugt, die Reihenfolge und die Numerierung der Artikel soweit als notwendig zu ändern. 32 101.1"
+      },
+      {
+        "num": null,
+        "text": "Änderungstabelle - Nach Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Beschluss"
+      },
+      {
+        "num": null,
+        "text": "Inkrafttreten"
+      },
+      {
+        "num": null,
+        "text": "Element"
+      },
+      {
+        "num": null,
+        "text": "Änderung"
+      },
+      {
+        "num": null,
+        "text": "Quelle Publikation 08.03.1907 02.06.1907"
+      },
+      {
+        "num": null,
+        "text": "Erlass"
+      },
+      {
+        "num": null,
+        "text": "Erstfassung"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1907 f 215, 249 | d 173, 206 23.06.1912 25.10.1912 ### Art. 109 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 24.10.1993 01.07.1998 ### Art. 109 24.10.1993 01.07.1998 totalrevidiert"
+      },
+      {
+        "num": null,
+        "text": "RO/AGS 1994 f 1, 81 | d 1, 96, 1998 f 1, 337 | d 1, 365 44 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+      }
+    ]
+  }
+}
