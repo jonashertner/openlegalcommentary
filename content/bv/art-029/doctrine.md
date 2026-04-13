@@ -1,58 +1,105 @@
-# Art. 29 BV
+# Art. 29 BV — Allgemeine Verfahrensgarantien
 
 ## Doktrin
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Art. 29 BV fasst die allgemeinen Verfahrensgarantien zusammen, die zuvor in verschiedenen Bestimmungen der alten Bundesverfassung verstreut waren. Die Botschaft über eine neue Bundesverfassung vom 20. November 1996 (BBl 1997 I 1, 230 ff.) betonte die Notwendigkeit, diese fundamentalen Verfahrensrechte systematisch an einem Ort zu vereinen. Der Verfassungsgeber orientierte sich dabei stark an der Rechtsprechung des Bundesgerichts und an den Garantien der EMRK.
+**N. 1** Art. 29 BV kodifiziert Verfahrensgarantien, die das Bundesgericht vor 1999 aus dem allgemeinen Willkürverbot und Gleichheitssatz (Art. 4 aBV) hergeleitet hatte. Die Botschaft des Bundesrats vom 20. November 1996 bezeichnet Art. 29 explizit als Zusammenfassung «verschiedener allgemeiner Verfahrensgarantien», die durch jahrzehntelange bundesgerichtliche Rechtsprechung zu Art. 4 aBV konkretisiert worden waren (BBl 1997 I 181). Materiell neu war damit wenig; der Gewinn lag in der ausdrücklichen Verankerung als Grundrecht.
 
-**N. 2** Die Bestimmung kodifiziert drei zentrale Verfahrensgarantien: das Recht auf faire Behandlung und Beurteilung innert angemessener Frist (Abs. 1), das rechtliche Gehör (Abs. 2) sowie die unentgeltliche Rechtspflege und Rechtsverbeiständung für Bedürftige (Abs. 3). Während das rechtliche Gehör bereits unter der alten Bundesverfassung als ungeschriebenes Verfassungsrecht anerkannt war, wurden die Ansprüche auf angemessene Verfahrensdauer und unentgeltliche Rechtspflege erstmals explizit in der Verfassung verankert (BBl 1997 I 232).
+**N. 2** Als normative Grundlage nennt die Botschaft Art. 6 EMRK und Art. 14 UNO-Pakt II («fair trial»), betont aber zugleich, dass Art. 29 BV über den Anwendungsbereich von Art. 6 EMRK hinausgeht, weil er — anders als die Konventionsnorm — auch rein verwaltungsrechtliche Verfahren ohne «civil rights»-Charakter erfasst (BBl 1997 I 182). Die ausdrückliche Erwähnung des Verbots der Rechtsverzögerung in Abs. 1 erklärte der Bundesrat mit der «grossen praktischen Bedeutung» dieses Aspekts der Verfahrensgerechtigkeit (BBl 1997 I 182).
+
+**N. 3** Im Verfassungsentwurf 1995 (VE 95) fehlte noch eine eigenständige Bestimmung zu den allgemeinen Verfahrensgarantien; diese wurden erst im Entwurf des Bundesrats vom November 1996 als eigenständiger Art. 25a eingeführt. Die Dreiabsatzstruktur — gleiche und gerechte Behandlung/angemessene Frist (Abs. 1), rechtliches Gehör (Abs. 2), unentgeltliche Rechtspflege (Abs. 3) — entspricht dem bundesrätlichen Entwurf und blieb im parlamentarischen Verfahren unverändert. Der Ständerat stimmte in der Schlussabstimmung vom 18. Dezember 1998 zu, der Nationalrat am gleichen Tag; die neue Bundesverfassung trat am 1. Januar 2000 in Kraft.
+
+**N. 4** Ständerat Wicki Franz (C, LU) hob bei der Beratung der Rechtsweggarantie (Art. 29a BV, damals Art. 25a des Entwurfs) hervor, dass die Rechtsweggarantie das Recht vermittle, «vor den Richter zu gelangen, aber nicht unbedingt die Beanspruchung des höchsten Gerichtes, des Bundesgerichtes» (AB 1998 SR Separatdruck). Dieser Grundsatz gilt sinngemäss für Art. 29 BV: Die allgemeinen Verfahrensgarantien sichern einen fairen Verfahrensrahmen, legen aber weder den Instanzenzug noch den Umfang der Kognition fest.
+
+---
 
 ### 2. Systematische Einordnung
 
-**N. 3** Art. 29 BV steht im Kontext der allgemeinen Verfahrensgarantien (Art. 29–32 BV) und ergänzt die spezifischen Garantien des Gerichtsverfahrens (→ Art. 30 BV) sowie des Strafverfahrens (→ Art. 31–32 BV). Die Bestimmung gilt für alle Verfahren vor staatlichen Instanzen, unabhängig davon, ob es sich um Gerichts- oder Verwaltungsbehörden handelt. Dies unterscheidet Art. 29 BV von Art. 6 EMRK, der primär auf gerichtliche Verfahren fokussiert ist (Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 892 ff.).
+**N. 5** Art. 29 BV steht im dritten Abschnitt des zweiten Kapitels der Bundesverfassung («Grundrechte», Art. 7–36 BV). Die Norm bildet zusammen mit Art. 29a BV (Rechtsweggarantie) und Art. 30 BV (Gerichtliche Verfahren) das Kernstück der verfassungsrechtlichen Verfahrensgrundrechte. Der sachliche Anwendungsbereich von Art. 29 BV ist breiter als derjenige von Art. 30 BV (der ausschliesslich Gerichtsverfahren betrifft) und von Art. 6 EMRK (der auf Zivil- und Strafverfahren beschränkt ist): Art. 29 BV erfasst alle staatlichen Verfahren vor Gerichts- und Verwaltungsinstanzen.
 
-**N. 4** Die Verfahrensgarantien des Art. 29 BV sind eng mit dem Rechtsstaatsprinzip (→ Art. 5 BV) und dem Willkürverbot (→ Art. 9 BV) verknüpft. Sie konkretisieren die rechtsstaatlichen Anforderungen an staatliche Entscheidverfahren und dienen gleichzeitig der Verwirklichung der Rechtsgleichheit (↔ Art. 8 BV) im Verfahrensrecht.
+**N. 6** Art. 29 BV ist ein echtes Grundrecht mit unmittelbarer Wirkung gegenüber staatlichen Behörden (→ Art. 35 Abs. 1 BV). Die Norm ist justiziabel: Verletzungen können mit Beschwerde an das Bundesgericht gerügt werden (Art. 95 lit. a BGG). Das Bundesgericht prüft Verletzungen von Art. 29 BV mit freier Kognition (→ Art. 95 BGG). Eine Drittwirkung (Horizontalwirkung gegenüber Privaten) besteht nicht unmittelbar; soweit Private staatliche Aufgaben wahrnehmen, sind sie jedoch an die Verfahrensgarantien gebunden (↔ Art. 35 Abs. 2 BV).
 
-### 3. Tatbestandsmerkmale / Norminhalt
+**N. 7** Verhältnis zu anderen Normen: Art. 29 Abs. 2 BV (rechtliches Gehör) steht in enger Verbindung mit ↔ Art. 8 BV (Rechtsgleichheit). Art. 29 Abs. 1 BV (faires Verfahren, angemessene Frist) ist durch → Art. 36 BV einschränkbar, soweit er als subjektives Recht qualifiziert wird. Das Verhältnis zu → Art. 6 EMRK und → Art. 14 UNO-Pakt II ist komplementärer Natur: Diese Konventionsgarantien können im Einzelfall weitergehenden Schutz bieten (z.B. in Strafverfahren), gehen aber in ihrem sachlichen Anwendungsbereich nicht über Art. 29 BV hinaus.
 
-#### a) Anspruch auf gleiche und gerechte Behandlung (Abs. 1)
+---
 
-**N. 5** Der Anspruch auf gleiche und gerechte Behandlung umfasst das Recht auf ein faires Verfahren (*fair trial*). Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 831) betonen, dass dieser Anspruch sowohl formelle als auch materielle Aspekte umfasst. Die Behörde muss unvoreingenommen entscheiden, alle Parteien gleich behandeln und die Verfahrensregeln einhalten.
+### 3. Norminhalt
 
-**N. 6** Die Beurteilung innert angemessener Frist verlangt, dass Verfahren ohne ungerechtfertigte Verzögerungen durchgeführt werden. Was als «angemessen» gilt, hängt von der Komplexität des Falls, dem Verhalten der Parteien und der Bedeutung der Streitsache ab (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N 2986).
+#### 3.1 Abs. 1: Gleiche und gerechte Behandlung sowie Beurteilung innert angemessener Frist
 
-#### b) Rechtliches Gehör (Abs. 2)
+**N. 8** Der Anspruch auf «gleiche und gerechte Behandlung» (Abs. 1, erste Variante) ist als eigenständige Verfahrensgarantie zu verstehen, die über das allgemeine Rechtsgleichheitsgebot (Art. 8 BV) und das Willkürverbot (Art. 9 BV) hinausgeht. Er umfasst das Gebot der Unparteilichkeit und Neutralität der entscheidenden Behörde, das Verbot sachfremder Differenzierungen im Verfahren sowie den Grundsatz der prozessualen Waffengleichheit («égalité des armes»). Das Bundesgericht hat diesen Aspekt insbesondere im Sozialversicherungsrecht unter dem Gesichtspunkt der Waffengleichheit zwischen versicherter Person und Versicherungsträger konkretisiert (**BGE 137 V 210** E. 2.1.2).
 
-**N. 7** Das rechtliche Gehör umfasst nach der Lehre von Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 30 N 1 ff.) folgende Teilgehalte:
-- Recht auf vorgängige Anhörung
-- Recht auf Akteneinsicht
-- Recht auf Mitwirkung im Beweisverfahren
-- Recht auf Begründung des Entscheids
-- Recht auf Replik
+**N. 9** Das Verbot der Rechtsverzögerung (Abs. 1, zweite Variante) verpflichtet staatliche Behörden zur Beurteilung innert «angemessener Frist». Was angemessen ist, bemisst sich nach den Umständen des Einzelfalls: Komplexität des Sachverhalts, Verhalten der Parteien, Arbeitsbelastung der Behörde sowie die für die betroffene Person auf dem Spiel stehenden Interessen sind zu berücksichtigen. Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 830, betonen, dass die Rechtsverzögerung nicht nur formal, sondern auch inhaltlich — als Weigerung, eine sachliche Entscheidung zu treffen — zu verstehen ist. Das Bundesgericht greift bei unrechtmässiger Verzögerung durch Anordnung, die Sache unverzüglich zu behandeln (sog. Rechtsverzögerungsbeschwerde).
 
-**N. 8** Das Bundesgericht hat in **BGE 137 I 195** präzisiert, dass das Replikrecht die Zustellung aller Eingaben der Verfahrensbeteiligten voraussetzt. Eine blosse Akteneinsichtsmöglichkeit genügt nicht. Die Verletzung des rechtlichen Gehörs führt grundsätzlich zur Aufhebung des angefochtenen Entscheids, es sei denn, die Verletzung sei unheilbar (formeller Charakter) und eine Rückweisung würde zu einem formalistischen Leerlauf führen.
+**N. 10** Der Anspruch auf gleiche und gerechte Behandlung nach Abs. 1 schliesst das Recht auf Ausstand einer befangenen Entscheidperson ein. Wer in einem Verfahren ein persönliches Interesse hat oder aus anderen Gründen als befangen erscheint, ist in den Ausstand zu treten (→ Art. 10 VwVG; → Art. 34 BGG). **BGE 137 V 210** E. 2.1.3 hält ausdrücklich fest, dass auch medizinische Sachverständige grundsätzlich gleichermassen unabhängig und unparteilich sein müssen wie die Richterinnen und Richter, weil Gutachten wegen ihrer Hilfsfunktion oft ein bestimmendes Element des rechtlichen Erkenntnisses bilden.
 
-#### c) Unentgeltliche Rechtspflege und Rechtsverbeiständung (Abs. 3)
+#### 3.2 Abs. 2: Rechtliches Gehör
 
-**N. 9** Der Anspruch auf unentgeltliche Rechtspflege setzt zwei kumulative Voraussetzungen voraus: Bedürftigkeit der gesuchstellenden Person und fehlende Aussichtslosigkeit des Rechtsbegehrens. Waldmann/Belser/Epiney (BSK BV, 2. Aufl. 2024, Art. 29 N 45) weisen darauf hin, dass die Bedürftigkeit dann gegeben ist, wenn die Person ohne Beeinträchtigung des für sie und ihre Familie notwendigen Unterhalts die Verfahrenskosten nicht aufbringen kann.
+**N. 11** Der Anspruch auf rechtliches Gehör (Abs. 2) ist das zentrale und am häufigsten angewandte Verfahrensgrundrecht der Schweizer Rechtsordnung. Das Bundesgericht definiert ihn als «formelles Recht», dessen Verletzung ungeachtet der materiellen Begründetheit des Rechtsmittels zur Aufhebung des angefochtenen Entscheids führt (**BGE 137 I 195** E. 2.2). Der formelle Charakter schützt das Vertrauen der Parteien in ein faires Verfahren und dient gleichzeitig der Sachaufklärung (vgl. BBl 1997 I 181 f.).
 
-**N. 10** Der Anspruch auf unentgeltlichen Rechtsbeistand ist zusätzlich davon abhängig, dass die Rechtsvertretung zur Wahrung der Rechte notwendig ist. Dies ist nach **BGE 128 I 225** bei komplexen Sach- oder Rechtsfragen oder bei schwerwiegenden Eingriffen in die persönliche Freiheit der Fall.
+**N. 12** Der Anspruch auf rechtliches Gehör umfasst nach ständiger Rechtsprechung folgende Teilgehalte:
+
+- **Recht auf Äusserung**: Die Parteien müssen sich zu entscheidungserheblichen Tatsachen und Rechtsfragen äussern können, bevor ein Entscheid ergeht (**BGE 126 I 97** E. 2b).
+- **Beweisführungsrecht**: Die Parteien haben das Recht, taugliche und relevante Beweisanträge zu stellen; die Behörde darf diese antizipierend ablehnen, wenn der Sachverhalt genügend erstellt ist.
+- **Akteneinsicht**: Die betroffene Person hat das Recht, die entscheidungserheblichen Akten einzusehen.
+- **Begründungspflicht**: Die Behörde muss ihren Entscheid begründen, damit die betroffene Person ihn sachgerecht anfechten kann. Die Begründung muss zumindest kurz die tragenden Überlegungen darlegen, ohne dass auf jedes Argument einzeln eingegangen werden muss (**BGE 126 I 97** E. 2b).
+- **Replikrecht**: Die Parteien haben das Recht, von allen Eingaben der übrigen Verfahrensbeteiligten Kenntnis zu erhalten und sich dazu zu äussern (**BGE 137 I 195** E. 2.3.1; **BGE 138 I 484** E. 2.1).
+
+**N. 13** Das Replikrecht setzt nach **BGE 137 I 195** E. 2.3.1 voraus, dass fragliche Eingaben der Partei tatsächlich *zugestellt* werden — die blosse Möglichkeit der Akteneinsicht genügt nicht. **BGE 138 I 484** E. 2.4 präzisiert: Es ist Aufgabe des Gerichts, in jedem Einzelfall ein *effektives* Replikrecht zu gewährleisten. Hierfür kann es genügen, eine Eingabe lediglich «zur Kenntnisnahme» zuzustellen (ohne Fristansetzung), wenn von der anwaltlich vertretenen Partei erwartet werden kann, dass sie umgehend unaufgefordert Stellung nimmt oder Fristansetzung beantragt.
+
+**N. 14** Eine Verletzung des rechtlichen Gehörs kann geheilt werden, wenn die betroffene Person die Möglichkeit erhält, sich vor einer Rechtsmittelinstanz zu äussern, die sowohl den Sachverhalt als auch die Rechtslage frei überprüfen kann (**BGE 137 I 195** E. 2.3.2). Bei besonders schwerwiegenden Verletzungen ist eine Heilung jedoch ausgeschlossen; es gilt der Grundsatz, dass Rechtsunterworfene Anspruch auf Einhaltung des Instanzenzugs haben (**BGE 137 I 195** E. 2.7).
+
+**N. 15** Der Anspruch auf rechtliches Gehör nach Abs. 2 gilt für «Parteien». Der Begriff ist funktional zu verstehen und schliesst alle Personen ein, deren rechtliche Interessen durch den Verfahrensausgang unmittelbar berührt werden. Im Verwaltungsverfahren ist der Begriff weiter als im Zivilprozessrecht (→ Art. 6 VwVG; Art. 102 ZPO).
+
+#### 3.3 Abs. 3: Unentgeltliche Rechtspflege
+
+**N. 16** Art. 29 Abs. 3 BV statuiert zwei kumulative Garantien: (a) Befreiung von Gerichtskosten und Parteiauslagen («unentgeltliche Rechtspflege» im engeren Sinn) und (b) Beiordnung eines unentgeltlichen Rechtsbeistands, «soweit es zur Wahrung der Rechte notwendig ist». Die Norm enthält drei Tatbestandsvoraussetzungen, die kumulativ erfüllt sein müssen:
+
+1. **Mittellosigkeit**: Eine Person ist mittellos, wenn sie die Prozesskosten nicht ohne Beeinträchtigung des notwendigen Lebensunterhalts für sich und ihre Familie aufbringen kann (**BGE 128 I 225** E. 2.5.1).
+2. **Nichtaussichtslosigkeit**: Das Rechtsbegehren darf nicht «aussichtslos erscheinen». Aussichtslosigkeit liegt vor, wenn die Gewinnaussichten beträchtlich geringer sind als die Verlustgefahren (**BGE 128 I 225** E. 2.5.3).
+3. **Notwendigkeit** (nur für Rechtsbeistand): Der unentgeltliche Rechtsbeistand ist zu gewähren, wenn die Interessen schwerwiegend betroffen sind und der Fall tatsächliche oder rechtliche Schwierigkeiten bietet, denen die betroffene Person allein nicht gewachsen wäre (**BGE 128 I 225** E. 2.5.2).
+
+**N. 17** Der Anspruch besteht für jedes staatliche Verfahren, in das die gesuchstellende Person einbezogen wird oder das zur Wahrung ihrer Rechte notwendig ist — also nicht nur für Gerichts-, sondern auch für nichtstreitige Verwaltungsverfahren (**BGE 128 I 225** E. 2.3). Ausgenommen ist die reine Rechtsberatung ausserhalb eines konkreten Verfahrens. Ein Anspruch für die Dauer zukünftiger, noch nicht eingeleiteter Verfahren besteht grundsätzlich nicht; es muss vielmehr für jedes Verfahren separat geprüft werden, ob die Voraussetzungen erfüllt sind (**BGE 128 I 225** E. 2.4.2).
+
+**N. 18** Art. 29 Abs. 3 BV ist eine Minimalgarantie; das kantonale und das Bundesverfahrensrecht können weitergehende Ansprüche vorsehen (→ Art. 117 ff. ZPO; Art. 65 BGG). Im kantonalen Recht gilt Art. 29 Abs. 3 BV als direkt anwendbares Auffangnetz, soweit das kantonale Recht keinen gleichwertigen Schutz bietet (**BGE 128 I 225** E. 2.3).
+
+---
 
 ### 4. Rechtsfolgen
 
-**N. 11** Die Verletzung der Verfahrensgarantien des Art. 29 BV führt grundsätzlich zur Aufhebung des angefochtenen Entscheids. Bei Verletzungen des rechtlichen Gehörs unterscheidet die Rechtsprechung zwischen heilbaren und unheilbaren Verletzungen. Heilbar sind Gehörsverletzungen, wenn die betroffene Person ihre Vorbringen im Rechtsmittelverfahren noch vorbringen kann und die Rechtsmittelinstanz über volle Kognition verfügt.
+**N. 19** Die Verletzung von Art. 29 BV hat je nach betroffener Teilgarantie unterschiedliche Rechtsfolgen:
 
-**N. 12** Bei ungebührlicher Verfahrensdauer kann die betroffene Person Schadenersatz und Genugtuung verlangen. Das Bundesgericht hat in seiner Rechtsprechung zu Art. 29 Abs. 1 BV i.V.m. Art. 6 Ziff. 1 EMRK Entschädigungsansprüche bei überlangen Verfahren anerkannt.
+- **Verletzung von Abs. 1 (faires Verfahren)**: Kassation des angefochtenen Entscheids oder Rückweisung zur Neubeurteilung; bei Rechtsverzögerung Anordnung der unverzüglichen Behandlung.
+- **Verletzung von Abs. 2 (rechtliches Gehör)**: Aufhebung des Entscheids ohne Rücksicht auf die materielle Begründetheit, da das rechtliche Gehör ein formelles Recht ist. Ausnahmsweise Heilung im Rechtsmittelverfahren möglich (→ N. 14).
+- **Verletzung von Abs. 3 (unentgeltliche Rechtspflege)**: Aufhebung der Kostenauflage oder Anordnung der Beiordnung eines unentgeltlichen Rechtsbeistands; keine automatische Kassation des Sachentscheids.
+
+**N. 20** Einschränkungen von Art. 29 BV sind nach Massgabe von → Art. 36 BV zulässig, soweit die Norm als Freiheitsrecht qualifiziert wird. Praktische Bedeutung hat dies vor allem für den Anspruch auf unentgeltliche Rechtspflege (z.B. Beschränkung auf nicht-aussichtslose Verfahren) und für das rechtliche Gehör (z.B. antizipierte Beweiswürdigung). Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 875 ff., weisen darauf hin, dass die Einschränkungsvoraussetzungen für prozedurale Grundrechte tendenziell enger auszulegen sind als für materielle Freiheitsrechte, weil dem fairen Verfahren eine instrumentelle Funktion für alle anderen Grundrechte zukommt.
+
+---
 
 ### 5. Streitstände
 
-**N. 13** In der Lehre ist umstritten, inwieweit die unentgeltliche Rechtspflege auch eine teilweise Gewährung zulässt. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 29 N 62) vertreten die Auffassung, dass eine Abstufung nach dem Grad der Bedürftigkeit möglich sein muss. Demgegenüber plädiert ein Teil der Lehre für eine Alles-oder-Nichts-Lösung. Das Bundesgericht hat in **BGE 141 III 369** die Zulässigkeit einer teilweisen Gewährung bejaht.
+**N. 21** **Verhältnis von Art. 29 Abs. 1 zu Art. 6 EMRK**: Umstritten ist, ob und inwieweit Art. 29 Abs. 1 BV gegenüber Art. 6 EMRK einen selbständigen, über die Konventionsgarantie hinausgehenden Gehalt hat. Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N 2690 ff., betonen den eigenständigen verfassungsrechtlichen Gehalt von Art. 29 Abs. 1 BV, der auch im verwaltungsrechtlichen Verfahren ohne «civil rights»-Charakter gilt. Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 829 ff., stimmen zu, relativieren aber die praktische Bedeutung der Differenz, weil das Bundesgericht Art. 6 EMRK zunehmend extensiv auslegt. Das Bundesgericht selbst hält in ständiger Rechtsprechung fest, dass Art. 29 Abs. 1 BV im Anwendungsbereich deckungsgleich mit Art. 6 Ziff. 1 EMRK, über diesen hinaus aber für alle staatlichen Verfahren gilt (**BGE 134 I 140** E. 4 f.).
 
-**N. 14** Kontrovers diskutiert wird auch die Frage, ob Art. 29 Abs. 2 BV ein Recht auf mündliche Verhandlung gewährleistet. Während Kiener/Kälin/Wyttenbach (Grundrechte, 3. Aufl. 2018, § 32 N 45) ein solches Recht aus dem rechtlichen Gehör ableiten, lehnt die herrschende Lehre dies ab und verweist auf die spezielle Regelung in Art. 6 Ziff. 1 EMRK für zivilrechtliche Ansprüche und Strafsachen.
+**N. 22** **Formeller vs. materieller Charakter des rechtlichen Gehörs**: In der Lehre wird diskutiert, ob der formelle Charakter des rechtlichen Gehörs — der Entscheid wird unabhängig von der materiellen Begründetheit aufgehoben — gerechtfertigt ist oder zu prozessualem Formalismus führt. Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 870 ff., verteidigen die Strenge mit dem Argument, dass nur so eine effektive Abschreckungswirkung gegenüber behördlichen Verfahrensverstössen erzielt werden kann. Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N 2705 ff., anerkennen die Regel, betonen aber, dass die Heilung im Rechtsmittelverfahren eine notwendige Ausnahme darstellt, um übermässige Verfahrensverzögerungen zu vermeiden. Das Bundesgericht hat die Heilungsmöglichkeit in **BGE 137 I 195** E. 2.3.2 ausdrücklich bestätigt, dabei aber den Grundsatz des Instanzenzugs als Schranke festgehalten.
+
+**N. 23** **Reichweite des Replikrechts**: Strittig ist, ob das Gericht immer ausdrücklich eine Frist zur Stellungnahme ansetzen muss oder ob die blosse Zustellung «zur Kenntnisnahme» genügen kann. Der EGMR hat in *Schaller-Bossert c. Suisse* (28. Oktober 2010) eine Verletzung von Art. 6 EMRK bejaht, weil eine nicht anwaltlich vertretene Beschwerdeführerin nicht effektiv replizieren konnte. **BGE 138 I 484** E. 2.3 f. präzisiert: Bei anwaltlich vertretenen Parteien, die die Praxis zum unbedingten Replikrecht kennen müssen, genügt die Zustellung zur Kenntnisnahme, sofern das Gericht genügend Zeit bis zum Entscheid lässt. Diese Differenzierung ist in der Lehre akzeptiert (vgl. Lanter, ZBl 113/2012 S. 167, 175 f., zitiert in **BGE 138 I 484** E. 2.4), bleibt aber in Einzelfällen streitanfällig.
+
+**N. 24** **Unentgeltliche Rechtspflege im nichtstreitigen Verwaltungsverfahren**: Umstritten war, ob Art. 29 Abs. 3 BV nur in formell streitigen Verfahren oder auch im nichtstreitigen Verwaltungsverfahren gilt. Das Bundesgericht hat seit **BGE 128 I 225** E. 2.3 und ständiger Rechtsprechung die weite Anwendung auf alle staatlichen Verfahren bestätigt. Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 836 ff., begrüssen dies als notwendige Konsequenz des sozialen Charakters der Garantie; Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N 2715 ff., weisen auf die damit verbundene fiskalische Belastung hin, die sie aber als durch den Verfassungsrang der Garantie gerechtfertigt betrachten.
+
+---
 
 ### 6. Praxishinweise
 
-**N. 15** Bei der Geltendmachung von Gehörsverletzungen ist zu beachten, dass diese grundsätzlich sofort nach Kenntnisnahme gerügt werden müssen. Ein verspätetes Vorbringen kann als Verzicht auf die Geltendmachung der Verletzung gewertet werden, sofern die Partei rechtskundig vertreten war.
+**N. 25** **Rüge der Gehörsverletzung vor Bundesgericht**: Die Verletzung von Art. 29 BV ist eine Rüge von Bundesrecht (Art. 95 lit. a BGG) und kann mit Beschwerde in öffentlich-rechtlichen Angelegenheiten sowie — soweit kein anderes Rechtsmittel offen steht — mit subsidiärer Verfassungsbeschwerde (Art. 116 ff. BGG) geltend gemacht werden. Das Bundesgericht prüft die Verletzung von Art. 29 BV mit freier Kognition. Da die Heilung einer Gehörsverletzung im Rechtsmittelverfahren möglich ist, sollte die betroffene Partei sämtliche Gehörsverletzungen bereits vor der Rechtsmittelinstanz explizit rügen, um Verwirkung zu vermeiden.
 
-**N. 16** Für die Praxis der unentgeltlichen Rechtspflege ist relevant, dass das Gesuch rechtzeitig, das heisst vor Ablauf der massgeblichen Verfahrensfrist, gestellt werden muss. Die nachträgliche Gewährung zur Wiederherstellung versäumter Fristen ist nur in Ausnahmefällen möglich. Die Bedürftigkeitsprüfung orientiert sich an den konkreten finanziellen Verhältnissen unter Berücksichtigung der betreibungsrechtlichen Existenzminimumberechnung.
+**N. 26** **Replikrecht in der Praxis**: Wer eine Eingabe «zur Kenntnisnahme» erhält und sich dazu äussern will, muss dies umgehend tun oder ausdrücklich Fristansetzung beantragen. Schweigen nach Zustellung einer Eingabe kann als Verzicht auf das Replikrecht gewertet werden (**BGE 138 I 484** E. 2.2, 2.5). Anwaltlich vertretene Parteien tragen insoweit eine erhöhte Sorgfaltspflicht.
+
+**N. 27** **Begründungspflicht und Lehrmeinungen**: Eine Behörde verletzt die aus Art. 29 Abs. 2 BV fliessende Begründungspflicht nicht, wenn sie eine Lehrmeinung mit dem Inhalt wiedergibt, den sie ihr tatsächlich entnimmt — auch wenn diese Interpretation des zitierten Autors objektiv unzutreffend ist —, sofern sie ihren Entscheid tatsächlich auf diese Auffassung stützt (**BGE 126 I 97** E. 2c). Entscheidend ist, dass die Begründung eine sachgerechte Anfechtung ermöglicht.
+
+**N. 28** **Unentgeltliche Rechtspflege — Gesuch**: Das Gesuch um unentgeltliche Rechtspflege muss rechtzeitig, d.h. vor Fälligkeit der Prozesskostenvorschüsse, gestellt und mit Belegen über die Mittellosigkeit versehen werden. Die Aussichtslosigkeit ist nach den Verhältnissen im Zeitpunkt der Gesuchseinreichung zu beurteilen (**BGE 128 I 225** E. 2.5.3). Bei einer günstigeren Beurteilung zum Gesuchszeitpunkt ändert eine nachträglich ablehnende Expertenmeinung nichts an der ursprünglichen Nichtaussichtslosigkeit.
+
+**N. 29** **Verhältnis zu Art. 6 EMRK in der Praxis**: Praktiker sollten beachten, dass Art. 6 EMRK in Zivil- und Strafverfahren weitergehende spezifische Garantien bietet (Öffentlichkeit der Verhandlung, Beweisverwertungsverbote, Grundsätze des Strafprozessrechts), die Art. 29 BV nicht notwendig enthält. Im Verwaltungsverfahren ausserhalb des Anwendungsbereichs von Art. 6 EMRK ist hingegen Art. 29 BV die einschlägige Garantienorm. Die EMRK-Parallelprüfung ist stets vorzunehmen, wenn zivilrechtliche Ansprüche oder strafrechtliche Anklagen betroffen sind (↔ Art. 6 EMRK).
+
+**N. 30** **Waffengleichheit im Sozialversicherungsverfahren**: Die aus Art. 29 Abs. 1 BV fliessende Waffengleichheit gebietet strukturelle Korrektive, wo eine versicherte Person gegenüber einem spezialisierten Versicherungsträger strukturell benachteiligt ist. **BGE 137 V 210** hat insoweit einen Appellentscheid erlassen und den Verordnungsgeber sowie die Aufsichtsbehörden zu Reformmassnahmen verpflichtet (Zufallsprinzip bei der Auftragsvergabe an MEDAS, Partizipationsrechte bei Gutachtenanordnung). Dieses Urteil ist wegweisend für das Verständnis der Waffengleichheit als strukturelles Korrektiv, nicht bloss als formales Gleichstellungsgebot.
