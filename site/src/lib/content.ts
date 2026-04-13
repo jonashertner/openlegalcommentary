@@ -5,6 +5,7 @@ import yaml from 'js-yaml';
 const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../..', 'content');
 const ARTICLE_LISTS_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_lists.json');
 const ARTICLE_TITLES_I18N_PATH = path.resolve(import.meta.dirname, '../../..', 'scripts', 'article_titles_i18n.json');
+const CANTONAL_DIR = path.resolve(import.meta.dirname, '../../..', 'scripts', 'cantonal');
 
 interface ArticleListEntry {
   number: number;
@@ -79,6 +80,44 @@ function getArticleTexts(lang: string = 'de'): ArticleTextsData {
   }
 }
 
+interface CantonalLawData {
+  canton: string;
+  law_key: string;
+  sr_number: string;
+  language: string;
+  title: string;
+  lexfind_id: number;
+  fetched_at: string;
+  article_count: number;
+  articles: { number: number; suffix: string; raw: string; title: string }[];
+  article_texts: Record<string, ArticleTextParagraph[]>;
+}
+
+const _cantonalCache: Record<string, CantonalLawData> = {};
+
+function loadCantonalLaw(slug: string): CantonalLawData | null {
+  if (_cantonalCache[slug]) return _cantonalCache[slug];
+  const filePath = path.join(CANTONAL_DIR, `${slug}.json`);
+  try {
+    const raw = fs.readFileSync(filePath, 'utf-8');
+    const data = JSON.parse(raw) as CantonalLawData;
+    _cantonalCache[slug] = data;
+    return data;
+  } catch {
+    return null;
+  }
+}
+
+export function listCantonalLawSlugs(): string[] {
+  try {
+    return fs.readdirSync(CANTONAL_DIR)
+      .filter(f => f.endsWith('.json'))
+      .map(f => f.replace('.json', ''));
+  } catch {
+    return [];
+  }
+}
+
 function _findLawKey(texts: ArticleTextsData, law: string): string | undefined {
   return Object.keys(texts).find((k) => k.toLowerCase() === law.toLowerCase());
 }
@@ -92,6 +131,12 @@ function _findArticleKey(lawTexts: Record<string, ArticleTextParagraph[]>, artic
 }
 
 export function getArticleText(law: string, articleRaw: string, lang: string = 'de'): ArticleTextParagraph[] {
+  // Check cantonal JSON first
+  const cantonal = loadCantonalLaw(law.toLowerCase());
+  if (cantonal) {
+    return cantonal.article_texts[articleRaw] || [];
+  }
+
   const texts = getArticleTexts(lang);
   const key = _findLawKey(texts, law);
   if (!key) return [];
@@ -253,6 +298,30 @@ export function listArticles(law: string): { meta: ArticleMeta; dirName: string;
     return articles;
   }
 
+  // Check cantonal JSON
+  const cantonal = loadCantonalLaw(law.toLowerCase());
+  if (cantonal) {
+    return cantonal.articles.map((entry) => {
+      const num = entry.number;
+      const suffix = entry.suffix || '';
+      const dirName = `art-${String(num).padStart(3, '0')}${suffix}`;
+      const slug = `art-${num}${suffix}`;
+      const meta: ArticleMeta = {
+        law: cantonal.law_key.toUpperCase(),
+        article: num,
+        article_suffix: suffix,
+        title: entry.title || '',
+        sr_number: cantonal.sr_number,
+        absatz_count: 1,
+        fedlex_url: '',
+        lexfind_url: '',
+        in_force_since: '',
+        layers: {},
+      };
+      return { meta, dirName, slug };
+    });
+  }
+
   // Fallback: build article list from article_lists.json (no content dirs)
   const lists = getArticleLists();
   const lawData = lists[law.toUpperCase()];
@@ -284,6 +353,11 @@ export function listArticles(law: string): { meta: ArticleMeta; dirName: string;
 export function getLawStats(law: string): LawStats {
   const dirs = listArticleDirs(law);
   if (dirs.length === 0) {
+    // Check cantonal JSON
+    const cantonal = loadCantonalLaw(law.toLowerCase());
+    if (cantonal) {
+      return { totalArticles: cantonal.article_count, completedArticles: 0, withContent: 0 };
+    }
     const lists = getArticleLists();
     const count = lists[law.toUpperCase()]?.article_count ?? 0;
     return { totalArticles: count, completedArticles: 0, withContent: 0 };
@@ -304,6 +378,19 @@ export function getArticleNav(
   currentDirName: string
 ): { prev: { slug: string; title: string } | null; next: { slug: string; title: string } | null } {
   const dirs = listArticleDirs(law);
+
+  if (dirs.length === 0) {
+    // Use listArticles fallback (covers both article_lists.json and cantonal JSON)
+    const articles = listArticles(law);
+    const currentSlug = dirNameToSlug(currentDirName);
+    const idx = articles.findIndex(a => a.slug === currentSlug);
+    return {
+      prev: idx > 0 ? { slug: articles[idx - 1].slug, title: articles[idx - 1].meta.title } : null,
+      next: idx >= 0 && idx < articles.length - 1 ? { slug: articles[idx + 1].slug, title: articles[idx + 1].meta.title } : null,
+    };
+  }
+
+  // Existing content-dir logic (unchanged)
   const idx = dirs.indexOf(currentDirName);
   let prev: { slug: string; title: string } | null = null;
   let next: { slug: string; title: string } | null = null;
