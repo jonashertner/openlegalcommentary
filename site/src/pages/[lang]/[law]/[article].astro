@@ -9,18 +9,25 @@ import ArticleTabs from '../../../components/ArticleTabs.astro';
 import ArticlePagination from '../../../components/ArticlePagination.astro';
 import Gesetzestext from '../../../components/Gesetzestext.astro';
 import { LAWS, getLawByAbbr } from '../../../lib/laws';
-import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText, getTranslatedTitle, getCrossReferences } from '../../../lib/content';
+import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText, getTranslatedTitle, getCrossReferences, listCantonalLawSlugs } from '../../../lib/content';
 
 export function getStaticPaths() {
-  const laws = ['bv', 'zgb', 'or', 'zpo', 'stgb', 'stpo', 'schkg', 'vwvg', 'bgfa'];
+  const federalSlugs = LAWS.map(l => l.slug);
+  const cantonalSlugs = listCantonalLawSlugs();
+  const allSlugs = [...federalSlugs, ...cantonalSlugs];
   return LANGS.flatMap(lang =>
-    laws.flatMap(law => {
+    allSlugs.flatMap(law => {
       const dirs = listArticleDirs(law);
-      return dirs.map(dir => {
-        const match = dir.match(/^art-(\d+)([a-z]*)$/);
-        const slug = match ? `art-${parseInt(match[1], 10)}${match[2] || ''}` : dir;
-        return { params: { lang, law, article: slug } };
-      });
+      if (dirs.length > 0) {
+        return dirs.map(dir => {
+          const match = dir.match(/^art-(\d+)([a-z]*)$/);
+          const slug = match ? `art-${parseInt(match[1], 10)}${match[2] || ''}` : dir;
+          return { params: { lang, law, article: slug } };
+        });
+      }
+      // Cantonal or article_lists.json fallback
+      const articles = listArticles(law);
+      return articles.map(art => ({ params: { lang, law, article: art.slug } }));
     })
   );
 }
@@ -145,9 +152,19 @@ const showFallbackNotice = lang !== 'de' && articleData?.isFallback;
 
       <div class="meta-divider"></div>
 
-      <div class="label">Gesetz</div>
-      <div class="meta-value">{lawInfo.abbr.toUpperCase()}</div>
-      <div class="meta-sub">SR {meta.sr_number}</div>
+      {lawInfo.canton ? (
+        <>
+          <div class="label">Kanton</div>
+          <div class="meta-value">{lawInfo.canton}</div>
+          <div class="meta-sub">{lawInfo.sr}</div>
+        </>
+      ) : (
+        <>
+          <div class="label">Gesetz</div>
+          <div class="meta-value">{lawInfo.abbr.toUpperCase()}</div>
+          <div class="meta-sub">SR {meta.sr_number}</div>
+        </>
+      )}
 
       {lastUpdated && (
         <>
