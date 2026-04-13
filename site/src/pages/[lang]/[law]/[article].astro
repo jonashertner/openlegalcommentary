@@ -84,6 +84,7 @@ const firstSentence = summaryPlain.match(/^.{50,200}?[.!?]\s/)?.[0]?.trim() || s
 const metaDescription = firstSentence || `${t('footer.commentary', lang)}: ${articleDisplay} — ${translatedTitle}`;
 
 const conceptRefs = crossRefs.filter(r => r.type === 'concept');
+const showFallbackNotice = lang !== 'de' && articleData?.isFallback;
 ---
 
 <Base title={`${articleDisplay} — ${translatedTitle}`} lang={lang} pagePath={`/${lawParam}/${articleSlug}`} description={metaDescription}>
@@ -178,6 +179,11 @@ const conceptRefs = crossRefs.filter(r => r.type === 'concept');
     </aside>
 
     <div class="right-col">
+      {showFallbackNotice && (
+        <div class="fallback-notice">
+          {t('article.fallback_notice', lang)}
+        </div>
+      )}
       <Gesetzestext
         paragraphs={gesetzestextParagraphs}
         lang={lang}
@@ -206,6 +212,15 @@ const conceptRefs = crossRefs.filter(r => r.type === 'concept');
 </Base>
 
 <style>
+  .fallback-notice {
+    font-size: 12px;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-rule);
+    padding: 8px 12px;
+    margin-bottom: var(--space-3);
+    line-height: 1.5;
+  }
+
   .article-number {
     font-size: 48px;
     font-weight: 700;

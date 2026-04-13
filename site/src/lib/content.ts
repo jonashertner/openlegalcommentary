@@ -146,6 +146,7 @@ export interface ArticleContent {
   caselaw: string;
   dirName: string;
   slug: string;
+  isFallback: boolean;
 }
 
 export interface LawStats {
@@ -199,6 +200,7 @@ export function loadArticle(law: string, dirName: string, lang: string = 'de'): 
   const meta = loadArticleMeta(law, dirName);
   if (!meta) return null;
 
+  let isFallback = false;
   function loadLayer(layer: string): string {
     if (lang === 'de') {
       return readFileIfExists(path.join(artDir, `${layer}.md`));
@@ -206,13 +208,15 @@ export function loadArticle(law: string, dirName: string, lang: string = 'de'): 
     const langFile = readFileIfExists(path.join(artDir, `${layer}.${lang}.md`));
     if (langFile.trim().length > 0) return langFile;
     // Fallback to German
-    return readFileIfExists(path.join(artDir, `${layer}.md`));
+    const deFile = readFileIfExists(path.join(artDir, `${layer}.md`));
+    if (deFile.trim().length > 0) isFallback = true;
+    return deFile;
   }
 
   const summary = loadLayer('summary');
   const doctrine = loadLayer('doctrine');
   const caselaw = loadLayer('caselaw');
-  return { meta, summary, doctrine, caselaw, dirName, slug: dirNameToSlug(dirName) };
+  return { meta, summary, doctrine, caselaw, dirName, slug: dirNameToSlug(dirName), isFallback };
 }
 
 export function listArticleDirs(law: string): string[] {
