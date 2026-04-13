@@ -1,6 +1,7 @@
 ---
 // site/src/components/Footer.astro
-import { type Lang } from '@/lib/i18n';
+import { type Lang, t } from '@/lib/i18n';
+import { langBase } from '@/lib/base';
 
 export interface Props {
   lang: Lang;
@@ -12,7 +13,11 @@ const { lang } = Astro.props;
 <footer class="site-footer">
   <div class="footer-inner page-wrapper">
     <div>Quelle: <a href="https://opencaselaw.ch">OpenCaseLaw.ch</a> · Inhalt: CC0 · Code: MIT</div>
-    <div>openlegalcommentary.ch</div>
+    <div class="footer-right">
+      <a href={`${langBase(lang)}/support`}>{t('support.title', lang)}</a>
+      <span class="footer-dot">·</span>
+      <span>openlegalcommentary.ch</span>
+    </div>
   </div>
 </footer>
 
@@ -29,6 +34,16 @@ const { lang } = Astro.props;
     display: flex;
     justify-content: space-between;
     align-items: center;
+  }
+
+  .footer-right {
+    display: flex;
+    align-items: center;
+    gap: 0;
+  }
+
+  .footer-dot {
+    margin: 0 6px;
   }
 
   .site-footer a {

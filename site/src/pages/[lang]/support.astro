@@ -88,15 +88,15 @@ const { lang } = Astro.params as { lang: Lang };
             </tr>
           </thead>
           <tbody>
-            <tr><td>BV</td><td>233</td><td>CHF 1'500</td><td class="status-progress">In Arbeit</td></tr>
-            <tr><td>BGFA</td><td>38</td><td>CHF 250</td><td class="status-progress">In Arbeit</td></tr>
-            <tr><td>VwVG</td><td>92</td><td>CHF 600</td><td class="status-open">Offen</td></tr>
-            <tr><td>SchKG</td><td>400</td><td>CHF 2'500</td><td class="status-open">Offen</td></tr>
-            <tr><td>ZPO</td><td>426</td><td>CHF 2'700</td><td class="status-open">Offen</td></tr>
-            <tr><td>StGB</td><td>466</td><td>CHF 3'000</td><td class="status-open">Offen</td></tr>
-            <tr><td>StPO</td><td>478</td><td>CHF 3'000</td><td class="status-open">Offen</td></tr>
-            <tr><td>ZGB</td><td>1'126</td><td>CHF 7'000</td><td class="status-open">Offen</td></tr>
-            <tr><td>OR</td><td>1'584</td><td>CHF 10'000</td><td class="status-open">Offen</td></tr>
+            <tr><td>BV</td><td>233</td><td>CHF 1'500</td><td class="status-done">{t('support.status_done', lang)}</td></tr>
+            <tr><td>BGFA</td><td>38</td><td>CHF 250</td><td class="status-done">{t('support.status_done', lang)}</td></tr>
+            <tr><td>VwVG</td><td>92</td><td>CHF 600</td><td class="status-next">{t('support.status_next', lang)}</td></tr>
+            <tr><td>SchKG</td><td>400</td><td>CHF 2'500</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>ZPO</td><td>426</td><td>CHF 2'700</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>StGB</td><td>466</td><td>CHF 3'000</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>StPO</td><td>478</td><td>CHF 3'000</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>ZGB</td><td>1'126</td><td>CHF 7'000</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>OR</td><td>1'584</td><td>CHF 10'000</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
             <tr class="total-row"><td><strong>Total</strong></td><td><strong>4'843</strong></td><td><strong>CHF 30'550</strong></td><td></td></tr>
           </tbody>
         </table>
@@ -142,18 +142,20 @@ const { lang } = Astro.params as { lang: Lang };
           <div class="donate-method">
             <h3>TWINT</h3>
             <p class="donate-note">{t('support.donate_twint', lang)}</p>
-            <div class="donate-placeholder">[QR Code]</div>
+            <div class="donate-setup">{t('support.donate_setup', lang)}</div>
           </div>
           <div class="donate-method">
             <h3>{t('support.donate_bank_title', lang)}</h3>
             <p class="donate-note">{t('support.donate_bank', lang)}</p>
-            <div class="donate-placeholder">[IBAN]</div>
+            <div class="donate-setup">{t('support.donate_setup', lang)}</div>
           </div>
           <div class="donate-method">
             <h3>GitHub Sponsors</h3>
             <p class="donate-note">{t('support.donate_github', lang)}</p>
+            <div class="donate-setup">{t('support.donate_setup', lang)}</div>
           </div>
         </div>
+        <p class="donate-contact">{t('support.donate_contact', lang)}</p>
       </section>
 
       <!-- Supporters -->
@@ -318,7 +320,13 @@ const { lang } = Astro.params as { lang: Lang };
     padding-top: var(--space-2);
   }
 
-  .status-progress {
+  .status-done {
+    color: #16a34a;
+    font-weight: 600;
+    font-size: 11px;
+  }
+
+  .status-next {
     color: #DC2626;
     font-weight: 600;
     font-size: 11px;
@@ -390,13 +398,20 @@ const { lang } = Astro.params as { lang: Lang };
     color: var(--color-text-muted) !important;
   }
 
-  .donate-placeholder {
+  .donate-setup {
     margin-top: var(--space-2);
-    padding: var(--space-4);
+    padding: var(--space-3);
     background: var(--color-rule-light);
     text-align: center;
     font-size: 12px;
     color: var(--color-text-muted);
+    font-style: italic;
+  }
+
+  .donate-contact {
+    margin-top: var(--space-3) !important;
+    font-size: 13px !important;
+    font-weight: 500;
   }
 
   .support-cta {
