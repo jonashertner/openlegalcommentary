@@ -287,21 +287,33 @@ const translations: Record<string, Record<Lang, string>> = {
   'support.status_progress': { de: 'In Arbeit', fr: 'En cours', it: 'In corso', en: 'In progress' },
   'support.status_open': { de: 'Offen', fr: 'Ouvert', it: 'Aperto', en: 'Open' },
 
+  // Commitment
+  'support.commitment_title': { de: 'Dauerhaft frei', fr: 'Libre en permanence', it: 'Permanentemente libero', en: 'Permanently free' },
+  'support.commitment_text': {
+    de: 'openlegalcommentary ist und bleibt frei zugänglich und quelloffen. Die Inhalte stehen dauerhaft unter CC BY-SA 4.0, der Code unter MIT-Lizenz. Es gibt keine Bezahlschranke, keine Premium-Version, keine Einschränkung des Zugangs. Spenden finanzieren die Erstellung der Inhalte — nicht den Zugang zu ihnen.',
+    fr: "openlegalcommentary est et restera librement accessible et open source. Les contenus sont placés en permanence sous CC BY-SA 4.0, le code sous licence MIT. Il n'y a pas de mur payant, pas de version premium, pas de restriction d'accès. Les dons financent la création des contenus — pas l'accès.",
+    it: "openlegalcommentary è e rimarrà liberamente accessibile e open source. I contenuti sono posti in permanenza sotto CC BY-SA 4.0, il codice sotto licenza MIT. Non ci sono barriere di pagamento, nessuna versione premium, nessuna restrizione dell'accesso. Le donazioni finanziano la creazione dei contenuti — non l'accesso.",
+    en: 'openlegalcommentary is and will remain freely accessible and open source. Content is permanently licensed under CC BY-SA 4.0, code under MIT. There is no paywall, no premium version, no access restriction. Donations fund the creation of content — not access to it.',
+  },
+
   // Independence
   'support.independence_title': { de: 'Unabhängigkeit', fr: 'Indépendance', it: 'Indipendenza', en: 'Independence' },
   'support.independence_text': {
-    de: 'Keine Sponsoren, keine Werbung. Finanzierung ausschliesslich über individuelle Spenden. Spenderinnen und Spender werden auf Wunsch namentlich erwähnt — darüber hinaus keine Gegenleistung.',
-    fr: "Pas de sponsors, pas de publicité. Financement exclusivement par des dons individuels. Les donateurs sont mentionnés nommément sur demande — aucune autre contrepartie.",
-    it: "Nessuno sponsor, nessuna pubblicità. Finanziamento esclusivamente tramite donazioni individuali. I donatori sono menzionati nominativamente su richiesta — nessun'altra contropartita.",
-    en: 'No sponsors, no advertising. Funding exclusively from individual donations. Donors are named on request — no other consideration.',
+    de: 'Keine Sponsoren, keine Werbung. Finanzierung ausschliesslich über individuelle Spenden. Spenderinnen und Spender werden auf Wunsch namentlich erwähnt — darüber hinaus keine Gegenleistung. Die Gründung einer gemeinnützigen Aktiengesellschaft ist in Vorbereitung.',
+    fr: "Pas de sponsors, pas de publicité. Financement exclusivement par des dons individuels. Les donateurs sont mentionnés nommément sur demande — aucune autre contrepartie. La création d'une société anonyme d'utilité publique est en préparation.",
+    it: "Nessuno sponsor, nessuna pubblicità. Finanziamento esclusivamente tramite donazioni individuali. I donatori sono menzionati nominativamente su richiesta — nessun'altra contropartita. È in preparazione la costituzione di una società anonima di pubblica utilità.",
+    en: 'No sponsors, no advertising. Funding exclusively from individual donations. Donors are named on request — no other consideration. A public-benefit corporation (gemeinnützige AG) is being established.',
   },
 
   // Donate
   'support.donate_title': { de: 'Spenden', fr: 'Faire un don', it: 'Donare', en: 'Donate' },
-  'support.donate_twint': { de: 'Gebührenfrei', fr: 'Sans frais', it: 'Senza commissioni', en: 'Zero fees' },
-  'support.donate_bank_title': { de: 'Banküberweisung', fr: 'Virement bancaire', it: 'Bonifico bancario', en: 'Bank transfer' },
-  'support.donate_bank': { de: 'Gebührenfrei', fr: 'Sans frais', it: 'Senza commissioni', en: 'Zero fees' },
-  'support.donate_github': { de: 'Für internationale Unterstützende', fr: 'Pour les donateurs internationaux', it: 'Per i sostenitori internazionali', en: 'For international supporters' },
+  'support.donate_setup': {
+    de: 'Die Spendenkanäle werden derzeit eingerichtet. Bei Interesse wenden Sie sich direkt an das Projekt.',
+    fr: "Les canaux de don sont en cours de mise en place. Si vous êtes intéressé, contactez directement le projet.",
+    it: 'I canali di donazione sono in fase di allestimento. Se interessati, contattate direttamente il progetto.',
+    en: 'Donation channels are being set up. If interested, contact the project directly.',
+  },
+  'support.donate_contact': { de: 'Kontakt', fr: 'Contact', it: 'Contatto', en: 'Contact' },
 
   // Supporters
   'support.supporters_title': { de: 'Unterstützende', fr: 'Soutiens', it: 'Sostenitori', en: 'Supporters' },
