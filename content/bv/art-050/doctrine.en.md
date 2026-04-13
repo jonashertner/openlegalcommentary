@@ -1,116 +1,79 @@
-# Art. 50 BV
+# Art. 50 BV — Municipal Autonomy
 
 ## Doctrine
 
 ### 1. Legislative History
 
-**N. 1** Municipal autonomy is one of the traditional cornerstones of the Swiss state structure. Under the **1848 Constitution and 1874 Constitution**, however, it found no explicit expression in the constitutional text. The Federal Supreme Court developed the legal concept of municipal autonomy in a practice-oriented manner within the framework of constitutional appeals (Meyer, BSK BV, Art. 50 N. 6).
+**N. 1** Municipal autonomy was not expressly enshrined in the Federal Constitution of 1874. The Federal Supreme Court consistently qualified it as an institution of cantonal law, without any guarantee under federal constitutional law (cf. **BGE 131 I 91 E. 2**: «The municipalities and their autonomy were not mentioned in the old Federal Constitution»). With the total revision of the Federal Constitution in 1999, Art. 50 BV — referred to in the preliminary draft as Art. 41 VE 96 — was introduced as a new provision. The Federal Council's Message (BBl 1997 I 563 f.) stated that the purpose of the provision was to secure the position of municipalities within the federal state and to allow the cantons to determine their organisation and the scope of their autonomy. The Federal Council deliberately refrained from establishing a direct federal guarantee of municipal autonomy; the terse formulation was intended to leave the cantons maximum latitude (BBl 1997 I 597).
 
-**N. 2** In academic doctrine, the constitutional anchoring was disputed: Saladin wanted to recognise municipal autonomy as a principle of the 1874 Constitution, especially since it constituted a constitutive element of Swiss democracy. The prevailing doctrine and the Federal Supreme Court, however, held that the right to autonomy had been developed based on cantonal guarantees and only provided protection against cantonal acts (Meyer, BSK BV, Art. 50 N. 6).
+**N. 2** The parliamentary deliberations were particularly contentious with regard to paragraphs 2 and 3. In the Council of States, rapporteur Aeby Pierre (S, FR) presented the committee version, while Uhlmann Hans (V, TG) moved to delete paragraph 2, arguing that a separate mention of cities and agglomerations would create «second-class municipalities». Federal Councillor Leuenberger Moritz defended the inclusion of agglomerations, noting that between 70 and 80 per cent of the population now lived in agglomerations. Rhinow René (R, BL) cautioned against diluting the compromise and emphasised: «I now ask all those who do not live in urban agglomerations to bear in mind that this other Switzerland exists and that it also wishes to be mentioned in the Constitution.» (AB 1998 SR Separatdruck). The agreement on the present text — with the simultaneous mention of cities, agglomerations and mountain regions in paragraph 3 — is largely attributable to a conciliation motion by Loretan Willy (R, AG).
 
-**N. 3** The total revision of the Federal Constitution brought with Art. 50 BV the first express federal constitutional mention of municipalities. The provision was largely uncontested in parliamentary deliberation (BBl 1997 I 1, 203 f.). Its inclusion was made in awareness of the great significance of municipalities for the Swiss state system, without however fundamentally changing their legal status.
+**N. 3** In the National Council, the minority led by Schlüer Ulrich (V, ZH) moved to delete paragraph 3 and warned against the creation of new subsidy channels. Gysin Remo (S, BS) countered: «Regional centres require not only intra-cantonal, but also inter-cantonal and, in part, international cooperation.» (AB 1998 NR Separatdruck). Federal Councillor Koller Arnold urged restraint regarding any cantonal obligation with respect to cities: «It is not appropriate for the Confederation to interfere unnecessarily in the cantons' organisational autonomy.» The conciliation conference adopted the present text; both chambers approved the provision in the final vote on 18 December 1998.
 
-**N. 4** The **European Charter of Local Self-Government** of 15 October 1985 (SR 0.102) significantly influenced the discussion. Switzerland ratified the Charter on 17 February 2005. Art. 50 BV goes beyond the minimal guarantees of the Charter in its protective effect (Meyer, BSK BV, Art. 50 N. 8-10; Buschor, ZBl 1983, 97 ff.).
+---
 
 ### 2. Systematic Classification
 
-**N. 5** Art. 50 BV is systematically positioned at the transition between Title 2 (Confederation, Cantons and Municipalities) and Title 3 (Confederation) of the Constitution. This position underscores the dual function of the norm: it recognises municipalities as a third level of government and simultaneously obliges the Confederation to show consideration.
+**N. 4** Art. 50 BV is situated in Chapter 4 of Title 2 («Confederation and Cantons»), which governs relations between the Confederation and the cantons (Art. 44–53 BV). The provision is an **institutional guarantee** sui generis: it guarantees municipal autonomy as such, but does not define its content under federal law; instead it refers to cantonal law. It is not a competence norm in the ordinary sense (→ Art. 54 ff. BV) and does not confer a subjective right on individuals; however, municipalities may lodge a complaint on this basis (→ Art. 189 para. 1 lit. e BV). Private individuals may invoke municipal autonomy insofar as this guarantee may have an effect on their legal or factual position (**BGE 141 I 36 E. 1.2.4**).
 
-**N. 6** The provision is closely connected to:
-- → Art. 1 BV (federal state as association of cantons)
-- → Art. 3 BV (cantonal sovereignty and residual competence)
-- → Art. 5 para. 4 BV (duty of consideration)
-- ↔ Art. 47 BV (independence of cantons)
-- → Art. 49 para. 2 BV (primacy of federal law)
-- → Art. 51 para. 2 BV (cantonal constitutions)
-- → Art. 189 para. 1 lit. e BV (guarantee of legal remedies)
+**N. 5** The provision has three tiers: paragraph 1 contains the substantive autonomy guarantee with reference to cantonal law; paragraph 2 establishes a **duty of the Confederation to have regard** to municipalities (not to cantons); paragraph 3 specifies this duty in relation to cities, agglomerations and mountain regions. The relationship between the three paragraphs is not seamless: paragraph 1 is directly applicable and justiciable; paragraphs 2 and 3 have the character of directives addressed to the Confederation, but do not confer enforceable subjective rights on municipalities vis-à-vis the Confederation. ↔ Art. 3 BV (cantonal sovereignty), → Art. 5 BV (rule of law), → Art. 36 BV (proportionality), → Art. 189 para. 1 lit. e BV (justiciability).
 
-**N. 7** As an institutional guarantee, Art. 50 BV complements fundamental rights (Art. 7-36 BV) but differs fundamentally from them: while fundamental rights are subjective rights of individuals, municipal autonomy protects an objective legal status (Meyer, BSK BV, Art. 50 N. 11).
+---
 
-### 3. Elements of the Provision / Normative Content
+### 3. Content of the Provision
 
-#### 3.1 Federal Guarantee of Municipal Autonomy (para. 1)
+#### 3.1 Paragraph 1: Guarantee of Municipal Autonomy
 
-**N. 8** Municipal autonomy is guaranteed «in accordance with cantonal law». Part of the academic doctrine attributes only declaratory significance to this norm: municipal autonomy is an institute of cantonal law that is protected by the Federal Supreme Court to the extent defined by cantonal law (Meyer, BSK BV, Art. 50 N. 11).
+**N. 6** Art. 50 para. 1 BV guarantees municipal autonomy «within the limits set by cantonal law». This means that the **scope** of autonomy is determined entirely by cantonal constitutional and statutory law. Federal constitutional law secures autonomy only in principle; its content in a specific subject area is determined solely by the applicable cantonal law. It follows that where cantonal law does not grant a municipality any independent decision-making freedom in a given area, there is no autonomy protected under federal constitutional law (**BGE 128 I 3 E. 2a**; **BGE 131 I 91 E. 2**).
 
-**N. 9** According to Meyer, however, Art. 50 BV represents an innovation compared to the 1848 Constitution and expresses that municipalities characterise the essence of the Swiss federal state in an indispensable way (Meyer, BSK BV, Art. 50 N. 11). The federal guarantee has both programmatic and justiciable elements (Meyer, BSK BV, Art. 50 N. 14-26).
+**N. 7** According to consistent case law, municipalities are autonomous in a subject area if the applicable cantonal law does not **exhaustively regulate** that area but instead leaves it entirely or in part to the municipality for regulation, thereby granting it a **relatively significant degree of decision-making freedom**. The protected sphere of autonomy may relate to the power to enact or implement the municipality's own communal rules, or to a corresponding margin of discretion in applying cantonal or federal law. The protection of municipal autonomy requires that autonomy exist not across an entire field of activity, but solely **in the contested area** (**BGE 141 I 36 E. 5.3**; **BGE 145 I 52 E. 3.1**; **BGE 128 I 3 E. 2a**).
 
-**N. 10** The Federal Supreme Court consistently defines municipal autonomy: municipalities are autonomous in a subject area if cantonal law does not comprehensively regulate it, but leaves it wholly or partially to the municipality for regulation and thereby grants it «relatively substantial decision-making freedom» (**BGE 145 I 52** E. 3.1; **BGE 139 I 169** E. 6.1).
+**N. 8** Where municipal autonomy exists, Art. 50 para. 1 BV protects, in particular, against cantonal appellate authorities failing to respect the **margin of assessment and discretion** of the municipal authorities and substituting their own assessment for that of the municipality (**BGE 138 I 143 E. 3.2**). A cantonal appellate authority violates municipal autonomy if it exceeds a margin of assessment falling within the scope of municipal autonomy — even where its review nominally extends to questions of expediency (**BGE 145 I 52 E. 3.6**).
 
-**N. 11** Autonomy may extend to:
-- Legislative autonomy (enactment of municipal regulations)
-- Organisational autonomy (design of authority structure)
-- Administrative autonomy (implementation under own responsibility)
-- Financial autonomy (tax sovereignty, budget rights)
-- Planning autonomy (land use planning)
+**N. 9** Art. 50 para. 1 BV does not contain a **guarantee of continued existence** for individual municipalities. Cantonal authorities are in principle empowered to compulsorily merge municipalities, provided there is a legal basis for doing so, the measure serves a public interest, and it is proportionate. In the context of an autonomy complaint, an appellant municipality may argue that the statutory conditions for a compulsory merger are not satisfied or that the measure is disproportionate (**BGE 131 I 91 E. 2, 3.3**).
 
-#### 3.2 Consideration of Effects on Municipalities (para. 2)
+**N. 10** The Federal Supreme Court's scope of review in municipal autonomy complaints is governed by Art. 95 BGG: federal law and cantonal constitutional rights — to which municipal autonomy belongs — are reviewed freely; other cantonal statutory law only for arbitrariness (**BGE 141 I 36 E. 5.4**; **BGE 136 I 395 E. 2**).
 
-**N. 12** The Confederation must consider the «possible effects» on municipalities in its actions. This obligation concretises the general duty of consideration under Art. 5 para. 4 BV (Meyer, BSK BV, Art. 50 N. 33-35).
+#### 3.2 Paragraph 2: Confederation's Duty of Regard
 
-**N. 13** The duty of consideration encompasses:
-- Legislation: impact assessment for municipalities
-- Implementation: consideration of municipal circumstances
-- Planning: involvement of municipalities
+**N. 11** Paragraph 2 obliges the **Confederation** — not the cantons — to take into account, in the exercise of its activities, the possible effects on the municipalities. «Activities of the Confederation» encompasses legislation, implementation and administration. The provision is framed as an optimisation requirement: the Confederation must incorporate municipal concerns into its deliberations, but may depart from them on objective grounds. It constitutes an objective duty without a corresponding subjective right of municipalities vis-à-vis the Confederation. Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 1202, qualify paragraph 2 as a directive without direct justiciability against the Confederation.
 
-**N. 14** Unlike para. 3, para. 2 does not require special consideration, but merely awareness and consideration of the effects (Meyer, BSK BV, Art. 50 N. 36-40).
+#### 3.3 Paragraph 3: Special Situation of Cities, Agglomerations and Mountain Regions
 
-#### 3.3 Special Consideration (para. 3)
+**N. 12** Paragraph 3 concretises the duty of regard in respect of three types of municipality of overriding importance: cities, agglomerations and mountain regions. This enumeration is the result of the parliamentary compromise (→ N. 2–3): cities and agglomerations reflect «urban Switzerland», while mountain regions reflect thinly populated upland areas. Mentioning both types of municipality was intended to prevent one group from appearing to be privileged over the other («negative norm», AB 1998 SR Separatdruck, speech by Schmid Carlo).
 
-**N. 15** The Confederation «takes account of» the special situation of:
-- Cities
-- Agglomerations
-- Mountain regions
+**N. 13** «Having regard» in paragraph 3 is not defined in more specific terms. When enacting legislation, the Confederation must take into account the particular challenges facing these types of municipality — the burden of centre costs borne by cities, the inter-communal interdependencies of agglomerations, and the structurally disadvantaged situations of mountain regions. Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, N 3157, regard paragraph 3 primarily as a programmatic policy norm that remains dependent on specific federal legislation (cf. in particular the NHG, RPG, and Interreg programmes).
 
-**N. 16** This qualified duty of consideration goes beyond mere awareness. It requires active measures to address the specific challenges of these municipal categories (Meyer, BSK BV, Art. 50 N. 41-43).
+---
 
 ### 4. Legal Consequences
 
-**N. 17** The legal consequences of Art. 50 BV must be considered in a differentiated manner:
+**N. 14** A **violation of Art. 50 para. 1 BV** may be referred by municipalities to the Federal Supreme Court by way of an autonomy complaint (Art. 89 para. 2 lit. c BGG). The requirement is that the municipality be affected by the contested decision in its capacity as a bearer of sovereign authority; whether it in fact enjoys autonomy in the relevant area is a question of substantive assessment and not of standing (**BGE 128 I 3 E. 1c**). Private individuals may also invoke municipal autonomy insofar as the guarantee may have an effect on their legal or factual position (**BGE 141 I 36 E. 1.2.4**).
 
-**N. 18** **Protective effect (para. 1)**: Municipal autonomy is enforceable through constitutional appeal (Art. 189 para. 1 lit. e BV). The Federal Supreme Court reviews violations of municipal autonomy with limited cognition: in matters of law and discretion in the autonomous sphere, only arbitrariness control is possible (**BGE 145 I 52** E. 3.2).
+**N. 15** If the Federal Supreme Court finds a violation of municipal autonomy, it annuls the contested decision and refers the matter back to the cantonal authority for a fresh determination, provided that authority failed to respect the municipality's margin of assessment (**BGE 138 I 143 E. 4.4–4.5**). In exceptional cases, the Federal Supreme Court decides the matter on the merits.
 
-**N. 19** **Duties of consideration (para. 2 and 3)**: These do not establish subjective rights of municipalities. They are primarily legislative and implementation directives to the Confederation. A violation can, however, be challenged within the framework of abstract norm control.
+**N. 16** A **violation of Art. 50 paras. 2 and 3 BV** does not, according to the prevailing view, give rise to a judicially enforceable legal position for municipalities against the Confederation. These paragraphs take effect primarily in the political process and as interpretive guidelines for federal law. An indirect effect arises insofar as federal statutes that disregard paragraph 2 may be reviewed for proportionality in the light of paragraph 1.
 
-**N. 20** **Relationship to cantonal law**: Cantons determine the existence and scope of municipal autonomy. They may:
-- Merge municipalities, even against their will (**BGE 131 I 91**)
-- Centralise or decentralise tasks
-- Expand or limit autonomy
+---
 
-**N. 21** **Limitations**: Cantonal design freedom finds its limits in:
-- Federal law (Art. 49 BV)
-- Fundamental rights (esp. equality before the law, prohibition of arbitrariness)
-- Principle of proportionality (Art. 5 para. 2 BV)
-- Good faith (Art. 5 para. 3 BV)
+### 5. Contested Issues
 
-### 5. Controversies
+**N. 17** **Relationship between Art. 50 para. 1 BV and any federal constitutional guarantee of continued existence**: Häfelin/Haller/Keller/Thurnherr, op. cit., N 1196 f., take the view that the provision protects only autonomy, not existence. The Federal Supreme Court has confirmed this (**BGE 131 I 91 E. 2**). Rhinow/Schefer/Uebersax, op. cit., N 3150, note, however, that a reckless dissolution of all municipalities in a canton would ultimately render the object protected by the provision — municipal autonomy as an institution — devoid of substance and would thereby violate Art. 50 para. 1 BV. The dispute is practically significant in cantons with an aggressive merger policy.
 
-**N. 22** **Legal nature of the federal guarantee**: Part of the academic doctrine attributes only declaratory significance to Art. 50 para. 1 BV (critics cited in Meyer, BSK BV, Art. 50 N. 11). Meyer, in contrast, argues that the norm has constitutive significance and strengthens the protection of municipal autonomy (Meyer, BSK BV, Art. 50 N. 11).
+**N. 18** **Scope of review of cantonal courts with respect to municipal discretionary decisions**: Schindler, Benjamin, «Die Gemeindeautonomie als Hindernis für einen wirksamen Rechtsschutz», Festschrift Jaag 2012, p. 149 ff., and Griffel, Alain, Raumplanungs- und Baurecht in a nutshell, 2012, p. 182, criticise the Federal Supreme Court's formula — according to which cantonal courts may only intervene when the municipal authority's discretionary decision is no longer objectively tenable — as being equivalent to an arbitrariness review and as impairing the right to judicial protection under Art. 29a BV. The Federal Supreme Court partially accommodated this criticism in **BGE 145 I 52 E. 3.6** and clarified: cantonal courts must not wait until arbitrariness is established before intervening, but must nonetheless exercise restraint where questions concerning local conditions are at issue that the municipal authority knows better. A municipal authority also exceeds its margin of discretion when it is guided by irrelevant considerations or violates the principles of equality and proportionality.
 
-**N. 23** **Justiciability of para. 2 and 3**: It is disputed to what extent the duties of consideration are judicially enforceable. Prevailing doctrine sees them primarily as political directives without direct enforceability (Meyer, BSK BV, Art. 50 N. 33 ff.).
+**N. 19** **Justiciability of paragraph 2**: Müller/Schefer, Grundrechte in der Schweiz, 4th ed. 2008, p. 729, take the view that paragraph 2 contains a binding directive that goes beyond a mere programmatic norm. By contrast, Rhinow/Schefer/Uebersax, op. cit., N 3157, regard judicial enforcement of paragraph 2 against the Confederation as precluded, since municipalities lack a subjective right for this purpose. In practice, the Federal Supreme Court has not yet applied paragraph 2 as an independent standard of review; paragraph 1 remains the key provision.
 
-**N. 24** **Relationship to the European Charter**: The question of whether Art. 4 of the European Charter (scope of local self-government) contains guarantees going beyond Art. 50 BV is controversially discussed. Practice tends toward denial (Meyer, BSK BV, Art. 50 N. 8-10).
+**N. 20** **Definition of «agglomeration»** in paragraph 3: In the National Council, Bircher Peter (C, AG) criticised the term «agglomeration» as legally insufficiently defined (AB 1998 NR Separatdruck). The academic literature (cf. Rhinow/Schefer/Uebersax, op. cit., N 3158) recommends recourse to the statistical definitions of the Federal Statistical Office; a legally binding definition is absent from the Constitution.
 
-**N. 25** **Financial autonomy**: The scope of municipal financial autonomy is particularly disputed. While parts of the academic doctrine demand a constitutional minimum standard, practice emphasises cantonal design freedom (**BGE 144 I 81**).
+---
 
-### 6. Practical Guidelines
+### 6. Practical Notes
 
-**N. 26** **Test scheme for autonomy violations**:
-1. Does municipal autonomy exist in the area in question under cantonal law?
-2. Does the challenged act interfere with the autonomous sphere?
-3. Is the interference justified by superior law?
-4. Were the limitations (arbitrariness, proportionality) observed?
+**N. 21** **Asserting a violation of autonomy**: A municipality wishing to allege a violation of Art. 50 para. 1 BV must demonstrate: (1) in which subject area it enjoys autonomy under cantonal law; (2) that the cantonal authority has intervened in that area; and (3) that this intervention is not objectively justified or fails to respect the municipality's margin of discretion. Whether a municipality is in fact autonomous in the relevant area is reviewed freely by the Federal Supreme Court; whether it has correctly exercised its margin of discretion is reviewed only for arbitrariness, insofar as statutory law is concerned.
 
-**N. 27** **Important spheres of autonomy** in practice:
-- Land use planning and building permits (**BGE 136 I 395**)
-- Naturalisations (**BGE 139 I 169**)
-- Public procurement (**BGE 143 II 553**)
-- School and education system (**BGE 141 I 36**)
-- Financial and tax system (**BGE 144 I 81**)
+**N. 22** **Areas of practical relevance**: Art. 50 para. 1 BV is relevant in a wide range of subject areas, notably in building and planning law (**BGE 145 I 52**, **BGE 136 I 265**, **BGE 136 I 395**), in public procurement (**BGE 138 I 143**, **BGE 143 II 553**), in naturalisation law (**BGE 139 I 169**, **BGE 137 I 235**), in education law (**BGE 141 I 36**) and in financial law (**BGE 144 I 81**). The decisive question is always whether cantonal law grants the municipality a relatively significant degree of decision-making freedom in the specific area.
 
-**N. 28** **Procedural aspects**:
-- Standing to appeal: Only the municipality as such, not individual authorities
-- Appeal deadline: 30 days (Art. 100 para. 1 BGG)
-- Exhaustion of remedies: Cantonal legal remedies must be exhausted
+**N. 23** **Spatial planning and cantonal structure plan proceedings**: The Confederation and the cantons are obliged to involve municipalities appropriately in cantonal structure plan proceedings and to address their objections. The Federal Supreme Court has derived participation rights of municipalities from Art. 50 para. 1 BV in conjunction with Art. 29 para. 2 BV and the procedural provisions of the RPG (**BGE 136 I 265 E.** on consultation in cantonal structure plan proceedings; **BGE 147 I 433**; **BGE 146 I 36**).
 
-**N. 29** **Relationship to other complaints**: Violation of municipal autonomy can often be raised together with other constitutional complaints (arbitrariness, equality before the law, proportionality). However, the specific autonomy complaint has independent significance due to the Federal Supreme Court's limited cognition.
+**N. 24** **Cities and agglomerations (paragraphs 2 and 3)**: In federal legislation, Art. 50 para. 3 BV operates as an interpretive guideline. Federal authorities must, when drafting legislation affecting agglomerations and mountain regions — in particular in the areas of spatial planning, regional policy and fiscal equalisation — take into account the particular needs of these types of municipality. The provision may be invoked in political proceedings (consultation, parliamentary initiative), but cannot be directly relied upon before the courts as the basis for annulling federal law. → Art. 190 BV.

@@ -1,116 +1,79 @@
-# Art. 50 Cost.
+# Art. 50 Cost. — Autonomia comunale
 
 ## Dottrina
 
-### 1. Storia dell'origine
+### 1. Genesi della norma
 
-**N. 1** L'autonomia comunale appartiene ai pilastri tradizionali fondamentali dell'ordinamento statale svizzero. Sotto la **Cost. 1848 e Cost. 1874** tuttavia non trovò alcuna menzione esplicita nel testo costituzionale. Il Tribunale federale sviluppò la figura giuridica dell'autonomia comunale in modo orientato alla prassi nel quadro del ricorso di diritto pubblico (Meyer, BSK BV, Art. 50 N. 6).
+**N. 1** L'autonomia comunale non era espressamente sancita nella Costituzione federale del 1874. Il Tribunale federale la qualificava costantemente come istituto del diritto cantonale, privo di garanzia a livello costituzionale federale (cfr. **DTF 131 I 91 consid. 2**: «I Comuni e la loro autonomia non erano menzionati nella vecchia Costituzione federale»). Con la revisione totale della Costituzione federale del 1999, l'art. 50 Cost. — denominato nel progetto preliminare art. 41 AP 96 — è stato introdotto come nuova disposizione. Il messaggio del Consiglio federale (FF 1997 I 488 segg.) precisava che lo scopo della norma era di garantire la posizione dei Comuni nello Stato federale e di lasciare ai Cantoni la determinazione della loro organizzazione e dell'ampiezza dell'autonomia. Il Consiglio federale rinunciò deliberatamente a una garanzia federale diretta dell'autonomia comunale; la formulazione concisa intendeva lasciare ai Cantoni il massimo margine di manovra (FF 1997 I 521).
 
-**N. 2** Nella dottrina l'ancoraggio costituzionale era controverso: Saladin voleva riconoscere l'autonomia comunale come principio della Cost. 1874, tanto più trattandosi di un elemento costitutivo della democrazia svizzera. La dottrina dominante e il Tribunale federale sostenevano invece che il diritto all'autonomia era stato sviluppato sulla base delle garanzie cantonali e forniva protezione unicamente contro atti cantonali (Meyer, BSK BV, Art. 50 N. 6).
+**N. 2** Le deliberazioni parlamentari furono particolarmente controverse riguardo ai capoversi 2 e 3. In seno al Consiglio degli Stati, il relatore di commissione Aeby Pierre (S, FR) presentò il testo della commissione, mentre Uhlmann Hans (V, TG) propose la soppressione del capoverso 2 sostenendo che una menzione separata delle città e degli agglomerati avrebbe creato «Comuni di seconda classe». Il consigliere federale Leuenberger Moritz difese l'inclusione degli agglomerati rilevando che tra il 70 e l'80 per cento della popolazione viveva ormai in agglomerati. Rhinow René (R, BL) mise in guardia contro l'annacquamento del compromesso e sottolineò: «Chiedo ora a tutti coloro che non abitano negli agglomerati urbani di tenere presente che quest'altra Svizzera esiste e che vuole essere menzionata anche nella Costituzione.» (BU 1998 CS Supplemento). L'accordo sul testo attuale — con la menzione congiunta di città, agglomerati e regioni montane nel capoverso 3 — si deve in misura determinante a una proposta di mediazione di Loretan Willy (R, AG).
 
-**N. 3** La revisione totale della Costituzione federale portò con l'art. 50 Cost. la prima menzione esplicita dei Comuni a livello costituzionale federale. La disposizione fu largamente incontestata nella deliberazione parlamentare (FF 1997 I 1, 203 s.). L'inserimento avvenne nella consapevolezza della grande importanza dei Comuni per l'ordinamento statale svizzero, senza tuttavia modificare fondamentalmente la loro posizione giuridica.
+**N. 3** In seno al Consiglio nazionale, la minoranza Schlüer Ulrich (V, ZH) propose la soppressione del capoverso 3, mettendo in guardia contro nuovi canali di sussidi. Gysin Remo (S, BS) replicò: «I centri regionali richiedono non solo una cooperazione intracantonale, ma anche intercantonale e in parte anche internazionale.» (BU 1998 CN Supplemento). Il consigliere federale Koller Arnold invitò alla prudenza riguardo a un obbligo cantonale nei confronti delle città: «Non è ammissibile che la Confederazione interferisca senza necessità nell'autonomia organizzativa dei Cantoni.» La conferenza di conciliazione approvò il testo attuale; entrambe le Camere adottarono la disposizione nella votazione finale del 18 dicembre 1998.
 
-**N. 4** La **Carta europea dell'autonomia locale** del 15 ottobre 1985 (RS 0.102) caratterizzò in modo determinante la discussione. La Svizzera ratificò la Carta il 17 febbraio 2005. L'art. 50 Cost. va oltre le garanzie minimali della Carta nel suo effetto protettivo (Meyer, BSK BV, Art. 50 N. 8-10; Buschor, ZBl 1983, 97 ss.).
+---
 
-### 2. Classificazione sistematica
+### 2. Inquadramento sistematico
 
-**N. 5** L'art. 50 Cost. si colloca sistematicamente al passaggio tra il 2° Titolo (Confederazione, Cantoni e Comuni) e il 3° Titolo (Confederazione) della Costituzione. Questa posizione sottolinea la doppia funzione della norma: riconosce i Comuni come terzo livello statale e al tempo stesso obbliga la Confederazione al riguardo.
+**N. 4** L'art. 50 Cost. si trova nel capitolo 4 del titolo 2 («Confederazione e Cantoni»), che disciplina i rapporti tra Confederazione e Cantoni (art. 44–53 Cost.). La disposizione costituisce una **garanzia istituzionale** sui generis: essa garantisce l'autonomia comunale in quanto tale, ma non ne fissa il contenuto a livello di diritto federale, bensì rinvia al diritto cantonale. Non si tratta di una norma competenziale nel senso usuale (→ art. 54 segg. Cost.) e non fonda diritti soggettivi dei singoli; tuttavia i Comuni possono fondare su di essa un ricorso (→ art. 189 cpv. 1 lett. e Cost.). I privati possono invocare l'autonomia comunale nella misura in cui questa garanzia può ripercuotersi sulla loro situazione giuridica o di fatto (**DTF 141 I 36 consid. 1.2.4**).
 
-**N. 6** La disposizione è in stretto rapporto con:
-- → Art. 1 Cost. (Stato federale come unione di Cantoni)
-- → Art. 3 Cost. (sovranità cantonale e competenza residua)
-- → Art. 5 cpv. 4 Cost. (obbligo di riguardo)
-- ↔ Art. 47 Cost. (autonomia dei Cantoni)
-- → Art. 49 cpv. 2 Cost. (primato del diritto federale)
-- → Art. 51 cpv. 2 Cost. (costituzioni cantonali)
-- → Art. 189 cpv. 1 lett. e Cost. (garanzia della via giuridica)
+**N. 5** La norma è strutturata su tre livelli: il capoverso 1 contiene la garanzia dell'autonomia vera e propria, con rinvio al diritto cantonale; il capoverso 2 fonda un **obbligo di considerazione della Confederazione** nei confronti dei Comuni (non dei Cantoni); il capoverso 3 specifica tale obbligo per le città, gli agglomerati e le regioni montane. Il rapporto tra i tre capoversi non è continuo: il capoverso 1 è direttamente applicabile e giustiziabile; i capoversi 2 e 3 hanno carattere di direttive per la Confederazione, ma non fondano diritti soggettivi azionabili dei Comuni nei confronti della Confederazione. ↔ art. 3 Cost. (sovranità cantonale), → art. 5 Cost. (principio dello Stato di diritto), → art. 36 Cost. (proporzionalità), → art. 189 cpv. 1 lett. e Cost. (giustiziabilità).
 
-**N. 7** Come garanzia istituzionale l'art. 50 Cost. completa i diritti fondamentali (art. 7-36 Cost.), ma si distingue fondamentalmente da questi: mentre i diritti fondamentali sono diritti soggettivi di singoli, l'autonomia comunale protegge una posizione giuridica oggettiva (Meyer, BSK BV, Art. 50 N. 11).
+---
 
-### 3. Elementi della fattispecie / Contenuto della norma
+### 3. Contenuto della norma
 
-#### 3.1 Garanzia federale dell'autonomia comunale (cpv. 1)
+#### 3.1 Capoverso 1: garanzia dell'autonomia comunale
 
-**N. 8** L'autonomia comunale è garantita «secondo il diritto cantonale». Una parte della dottrina attribuisce a questa norma solo significato dichiarativo: l'autonomia comunale sarebbe un istituto del diritto cantonale, che nel campo definito cantonalmente è protetto dal Tribunale federale (Meyer, BSK BV, Art. 50 N. 11).
+**N. 6** L'art. 50 cpv. 1 Cost. garantisce l'autonomia comunale «nei limiti del diritto cantonale». Ciò significa che la **portata** dell'autonomia è determinata integralmente dal diritto costituzionale e legislativo cantonale. Il diritto costituzionale federale garantisce l'autonomia solo nel principio; il suo contenuto nel singolo settore deriva unicamente dal diritto cantonale applicabile. Ne consegue che, se il diritto cantonale non attribuisce a un Comune alcuna libertà decisionale propria in un determinato settore, non esiste nemmeno un settore di autonomia tutelato dalla Costituzione federale (**DTF 128 I 3 consid. 2a**; **DTF 131 I 91 consid. 2**).
 
-**N. 9** Secondo Meyer l'art. 50 Cost. rappresenta tuttavia una novità rispetto alla Cost. 1848 ed esprime che i Comuni caratterizzano in modo indispensabile l'essenza dello Stato federale svizzero (Meyer, BSK BV, Art. 50 N. 11). La garanzia federale ha elementi sia programmatici che giustiziabili (Meyer, BSK BV, Art. 50 N. 14-26).
+**N. 7** Secondo giurisprudenza costante, i Comuni sono autonomi in un settore quando il diritto cantonale **non lo disciplina in modo esaustivo**, ma lo rimette integralmente o parzialmente al Comune per la sua regolamentazione, attribuendogli una **libertà decisionale relativamente ampia**. Il settore di autonomia tutelato può riguardare la facoltà di emanare o applicare proprie normative comunali, oppure un corrispondente margine di apprezzamento nell'applicazione del diritto cantonale o federale. La tutela dell'autonomia comunale presuppone che essa sussista non in un intero ambito di competenze, bensì unicamente **nel settore controverso** (**DTF 141 I 36 consid. 5.3**; **DTF 145 I 52 consid. 3.1**; **DTF 128 I 3 consid. 2a**).
 
-**N. 10** Il Tribunale federale definisce costantemente l'autonomia comunale: i Comuni sono autonomi in un settore quando il diritto cantonale non lo disciplina esaustivamente, ma lo lascia in tutto o in parte alla disciplina del Comune e gli concede una «libertà di decisione relativamente considerevole» (**DTF 145 I 52** consid. 3.1; **DTF 139 I 169** consid. 6.1).
+**N. 8** Laddove sussiste l'autonomia comunale, l'art. 50 cpv. 1 Cost. protegge in particolare da situazioni in cui le istanze cantonali di ricorso non rispettano il **margine di valutazione e di apprezzamento** delle autorità comunali e sostituiscono la propria valutazione a quella del Comune (**DTF 138 I 143 consid. 3.2**). L'istanza cantonale di ricorso viola l'autonomia comunale quando eccede un margine di valutazione che rientra nell'ambito dell'autonomia comunale — anche nell'ambito di un controllo dell'adeguatezza formalmente completo (**DTF 145 I 52 consid. 3.6**).
 
-**N. 11** L'autonomia può estendersi a:
-- Autonomia nella legislazione (emanazione di regolamenti comunali)
-- Autonomia nell'organizzazione (configurazione della struttura delle autorità)
-- Autonomia nell'amministrazione (esecuzione sotto propria responsabilità)
-- Autonomia finanziaria (sovranità fiscale, diritto di bilancio)
-- Autonomia nella pianificazione (pianificazione dell'utilizzazione)
+**N. 9** L'art. 50 cpv. 1 Cost. non contiene una **garanzia dell'esistenza** dei singoli Comuni. Le autorità cantonali sono in linea di principio autorizzate a procedere a fusioni coatte di Comuni, purché vi sia una base legale, l'operazione risponda a un interesse pubblico e sia proporzionata. Il Comune ricorrente può far valere, nell'ambito del ricorso per autonomia, che i presupposti legali di una fusione coatta non sono adempiuti o che la misura è sproporzionata (**DTF 131 I 91 consid. 2, 3.3**).
 
-#### 3.2 Rispetto delle ripercussioni sui Comuni (cpv. 2)
+**N. 10** Il potere cognitivo del Tribunale federale nei ricorsi per autonomia comunale si fonda sull'art. 95 LTF: il diritto federale e i diritti costituzionali cantonali — tra cui rientra l'autonomia comunale — sono esaminati liberamente; il diritto legislativo cantonale ordinario è esaminato solo sotto il profilo dell'arbitrio (**DTF 141 I 36 consid. 5.4**; **DTF 136 I 395 consid. 2**).
 
-**N. 12** La Confederazione deve rispettare nel suo operare le «possibili ripercussioni» sui Comuni. Questo dovere concretizza l'obbligo generale di riguardo secondo l'art. 5 cpv. 4 Cost. (Meyer, BSK BV, Art. 50 N. 33-35).
+#### 3.2 Capoverso 2: obbligo di considerazione della Confederazione
 
-**N. 13** L'obbligo di rispetto comprende:
-- Legislazione: valutazione delle conseguenze per i Comuni
-- Esecuzione: considerazione delle condizioni comunali
-- Pianificazione: coinvolgimento dei Comuni
+**N. 11** Il capoverso 2 obbliga la **Confederazione** — non i Cantoni — a tenere conto delle possibili ripercussioni del suo agire sui Comuni. L'«agire della Confederazione» comprende la legislazione, l'esecuzione e l'amministrazione. La norma è concepita come precetto di ottimizzazione: la Confederazione deve integrare gli interessi comunali nelle proprie ponderazioni, ma può discostarsene per motivi oggettivi. Si tratta di un obbligo oggettivo senza corrispondente diritto soggettivo dei Comuni nei confronti della Confederazione. Häfelin/Haller/Keller/Thurnherr, Diritto federale svizzero, 10a ed. 2020, N 1202, qualificano il capoverso 2 come direttiva priva di immediata giustiziabilità nei confronti della Confederazione.
 
-**N. 14** A differenza del cpv. 3, il cpv. 2 non richiede un riguardo particolare, ma soltanto la presa di conoscenza e la considerazione delle ripercussioni (Meyer, BSK BV, Art. 50 N. 36-40).
+#### 3.3 Capoverso 3: situazione particolare delle città, degli agglomerati e delle regioni montane
 
-#### 3.3 Particolare riguardo (cpv. 3)
+**N. 12** Il capoverso 3 concretizza l'obbligo di considerazione per tre tipologie di Comuni di rilevanza superiore: città, agglomerati e regioni montane. Questa elencazione è il risultato del compromesso parlamentare (→ N. 2–3): città e agglomerati rispecchiano la «Svizzera urbana», le regioni montane le zone d'altitudine scarsamente popolate. La menzione di entrambe le tipologie di Comuni intendeva evitare che l'un gruppo apparisse privilegiato rispetto all'altro («norma negativa», BU 1998 CS Supplemento, votazione Schmid Carlo).
 
-**N. 15** La Confederazione «tiene conto» della situazione particolare di:
-- Città
-- Agglomerazioni
-- Regioni di montagna
+**N. 13** «Tenere conto» ai sensi del capoverso 3 non è ulteriormente precisato nel contenuto. La Confederazione è tenuta, nell'attività normativa, a considerare le sfide specifiche di queste tipologie di Comuni — gli oneri di centro delle città, le interdipendenze intercomunali degli agglomerati, le condizioni strutturalmente deboli delle regioni montane. Rhinow/Schefer/Uebersax, Diritto costituzionale svizzero, 3a ed. 2016, N 3157, ravvisano nel capoverso 3 essenzialmente una norma programmatica a carattere politico, che rimane tributaria di una legislazione federale specifica (cfr. in particolare LPN, LPT, programmi Interreg).
 
-**N. 16** Questo obbligo di riguardo qualificato va oltre il semplice rispetto. Richiede misure attive per la considerazione delle sfide specifiche di queste categorie di Comuni (Meyer, BSK BV, Art. 50 N. 41-43).
+---
 
 ### 4. Conseguenze giuridiche
 
-**N. 17** Le conseguenze giuridiche dell'art. 50 Cost. devono essere considerate in modo differenziato:
+**N. 14** La **violazione dell'art. 50 cpv. 1 Cost.** può essere impugnata dai Comuni con ricorso per autonomia al Tribunale federale (art. 89 cpv. 2 lett. c LTF). Presupposto è che il Comune sia toccato dalla decisione impugnata nella sua qualità di titolare di potestà pubblica; se nel settore in questione gli compete effettivamente l'autonomia è una questione di merito e non di ricevibilità (**DTF 128 I 3 consid. 1c**). Anche i privati possono invocare l'autonomia comunale nella misura in cui la garanzia può ripercuotersi sulla loro situazione giuridica o di fatto (**DTF 141 I 36 consid. 1.2.4**).
 
-**N. 18** **Effetto protettivo (cpv. 1)**: L'autonomia comunale è azionabile con ricorso di diritto pubblico (art. 189 cpv. 1 lett. e Cost.). Il Tribunale federale esamina le violazioni dell'autonomia comunale con cognizione limitata: per questioni di diritto e discrezionali nel settore autonomo è possibile solo il controllo dell'arbitrio (**DTF 145 I 52** consid. 3.2).
+**N. 15** Se il Tribunale federale accerta una violazione dell'autonomia comunale, annulla la decisione impugnata e rinvia la causa all'istanza cantonale per nuovo giudizio, qualora quest'ultima non abbia rispettato il margine di apprezzamento spettante al Comune (**DTF 138 I 143 consid. 4.4–4.5**). In casi eccezionali il Tribunale federale decide con pronuncia riformatoria.
 
-**N. 19** **Obblighi di considerazione (cpv. 2 e 3)**: Questi non fondano diritti soggettivi dei Comuni. Sono primariamente direttive legislative e di esecuzione per la Confederazione. Una violazione può tuttavia essere censurata nel quadro del controllo astratto delle norme.
+**N. 16** La **violazione dell'art. 50 cpv. 2 e 3 Cost.** non fonda, secondo l'opinione dominante, una posizione giuridica azionabile giudizialmente dai Comuni nei confronti della Confederazione. Questi capoversi spiegano i loro effetti principalmente nel processo politico e come direttiva interpretativa del diritto federale. Un effetto indiretto si produce nella misura in cui le leggi federali che ignorano il capoverso 2 possono essere verificate alla luce del capoverso 1 sotto il profilo della loro proporzionalità.
 
-**N. 20** **Rapporto con il diritto cantonale**: I Cantoni determinano l'esistenza e l'ampiezza dell'autonomia comunale. Possono:
-- Unire Comuni, anche contro la loro volontà (**DTF 131 I 91**)
-- Centralizzare o decentralizzare compiti
-- Estendere o limitare l'autonomia
+---
 
-**N. 21** **Limiti**: La libertà di configurazione cantonale trova i suoi limiti in:
-- Diritto federale (art. 49 Cost.)
-- Diritti fondamentali (spec. uguaglianza giuridica, divieto dell'arbitrio)
-- Principio di proporzionalità (art. 5 cpv. 2 Cost.)
-- Buona fede (art. 5 cpv. 3 Cost.)
+### 5. Questioni controverse
 
-### 5. Posizioni controverse
+**N. 17** **Rapporto tra l'art. 50 cpv. 1 Cost. e un'eventuale garanzia costituzionale federale dell'esistenza**: Häfelin/Haller/Keller/Thurnherr, op. cit., N 1196 seg., sostengono che la norma tuteli solo l'autonomia, non l'esistenza. Il Tribunale federale ha confermato questa posizione (**DTF 131 I 91 consid. 2**). Rhinow/Schefer/Uebersax, op. cit., N 3150, rilevano tuttavia che la dissoluzione incondizionata di tutti i Comuni di un Cantone priverebbe in definitiva di sostanza l'oggetto tutelato dalla norma — l'autonomia comunale come istituto — violando così l'art. 50 cpv. 1 Cost. La questione è praticamente rilevante per i Cantoni che praticano una politica aggressiva di fusioni.
 
-**N. 22** **Natura giuridica della garanzia federale**: Una parte della dottrina attribuisce all'art. 50 cpv. 1 Cost. solo significato dichiarativo (critici presso Meyer, BSK BV, Art. 50 N. 11). Meyer sostiene invece che la norma ha significato costitutivo e rafforza la protezione dell'autonomia comunale (Meyer, BSK BV, Art. 50 N. 11).
+**N. 18** **Potere cognitivo dei tribunali cantonali rispetto alle decisioni discrezionali comunali**: Schindler, Benjamin, «Die Gemeindeautonomie als Hindernis für einen wirksamen Rechtsschutz», Scritti in onore di Jaag 2012, p. 149 segg., e Griffel, Alain, Raumplanungs- und Baurecht in a nutshell, 2012, p. 182, criticano che la formula del Tribunale federale — i tribunali cantonali possono intervenire solo quando la decisione di qualificazione dell'autorità comunale non sia più sostenibile sul piano oggettivo — equivalga a un controllo dell'arbitrio e pregiudichi la tutela giurisdizionale ai sensi dell'art. 29a Cost. Il Tribunale federale ha parzialmente recepito questa critica nella **DTF 145 I 52 consid. 3.6** e ha precisato: i tribunali cantonali non possono intervenire soltanto in caso di arbitrio, ma devono esercitare moderazione quando si tratta di valutare questioni relative alle condizioni locali, che l'autorità comunale conosce meglio. Un'autorità comunale eccede il proprio margine anche quando si lascia guidare da considerazioni estranee alla materia oppure viola il principio della parità di trattamento o della proporzionalità.
 
-**N. 23** **Giustiziabilità dei cpv. 2 e 3**: È controverso fino a che punto gli obblighi di considerazione siano azionabili giudizialmente. La dottrina dominante vi vede primariamente istruzioni politiche d'azione senza diretta azionabilità (Meyer, BSK BV, Art. 50 N. 33 ss.).
+**N. 19** **Giustiziabilità del capoverso 2**: Müller/Schefer, Diritti fondamentali in Svizzera, 4a ed. 2008, p. 729, ritengono che il capoverso 2 contenga una direttiva vincolante che va al di là di una mera norma programmatica. Per contro, Rhinow/Schefer/Uebersax, op. cit., N 3157, escludono la giustiziabilità giudiziale del capoverso 2 nei confronti della Confederazione, in quanto manca un diritto soggettivo dei Comuni. Nella prassi il Tribunale federale non ha finora applicato il capoverso 2 come parametro autonomo di controllo; il capoverso 1 rimane la norma chiave.
 
-**N. 24** **Rapporto con la Carta europea**: È discusso controversamente se l'art. 4 della Carta europea (portata dell'autonomia locale) contenga garanzie che vanno oltre l'art. 50 Cost. La prassi tende alla negazione (Meyer, BSK BV, Art. 50 N. 8-10).
+**N. 20** **Definizione di «agglomerato»** ai sensi del capoverso 3: In sede di Consiglio nazionale, Bircher Peter (C, AG) lamentò che il termine «agglomerato» non fosse delimitabile con chiarezza sul piano giuridico (BU 1998 CN Supplemento). La dottrina (cfr. Rhinow/Schefer/Uebersax, op. cit., N 3158) raccomanda di fare riferimento alle definizioni statistiche dell'Ufficio federale di statistica; la Costituzione non contiene una definizione giuridicamente vincolante.
 
-**N. 25** **Autonomia finanziaria**: Particolarmente controversa è la portata dell'autonomia finanziaria comunale. Mentre parti della dottrina richiedono uno standard costituzionale minimo, la prassi sottolinea la libertà di configurazione cantonale (**DTF 144 I 81**).
+---
 
 ### 6. Indicazioni pratiche
 
-**N. 26** **Schema di esame per violazioni dell'autonomia**:
-1. Esiste nel settore in questione autonomia comunale secondo il diritto cantonale?
-2. L'atto impugnato incide nel settore autonomo?
-3. L'ingerenza è giustificata dal diritto superiore?
-4. Sono stati rispettati i limiti (arbitrio, proporzionalità)?
+**N. 21** **Fare valere la violazione dell'autonomia**: Un Comune che intende far valere una violazione dell'art. 50 cpv. 1 Cost. deve dimostrare (1) in quale settore disponga di autonomia in forza del diritto cantonale, (2) che l'istanza cantonale è intervenuta in tale settore, e (3) che tale intervento non è oggettivamente giustificato oppure ha disatteso il margine di apprezzamento ad esso spettante. Se un Comune sia effettivamente autonomo nel settore in questione è esaminato liberamente dal Tribunale federale; se abbia esercitato correttamente il proprio margine è verificato solo sotto il profilo dell'arbitrio, nella misura in cui si tratta di diritto legislativo.
 
-**N. 27** **Settori autonomi importanti** nella prassi:
-- Pianificazione dell'utilizzazione e autorizzazioni edilizie (**DTF 136 I 395**)
-- Naturalizzazioni (**DTF 139 I 169**)
-- Appalti pubblici (**DTF 143 II 553**)
-- Sistema scolastico e formativo (**DTF 141 I 36**)
-- Sistema finanziario e fiscale (**DTF 144 I 81**)
+**N. 22** **Settori di applicazione pratica**: L'art. 50 cpv. 1 Cost. è rilevante in una moltitudine di settori, in particolare nel diritto edilizio e pianificatorio (**DTF 145 I 52**, **DTF 136 I 265**, **DTF 136 I 395**), negli appalti pubblici (**DTF 138 I 143**, **DTF 143 II 553**), nel diritto della cittadinanza (**DTF 139 I 169**, **DTF 137 I 235**), nel settore scolastico (**DTF 141 I 36**) e nel diritto finanziario (**DTF 144 I 81**). È sempre determinante se il diritto cantonale attribuisca al Comune una libertà decisionale relativamente ampia nel settore specifico.
 
-**N. 28** **Aspetti procedurali**:
-- Legittimazione a ricorrere: Solo il Comune come tale, non singole autorità
-- Termine di ricorso: 30 giorni (art. 100 cpv. 1 LTF)
-- Esaurimento delle istanze: Devono essere esauriti i mezzi di impugnazione cantonali
+**N. 23** **Pianificazione del territorio e procedura del piano direttore**: La Confederazione e i Cantoni sono tenuti a coinvolgere adeguatamente i Comuni nelle procedure del piano direttore e a dar seguito alle loro obiezioni. Il Tribunale federale ha desunto diritti di partecipazione dei Comuni dall'art. 50 cpv. 1 Cost. in combinato con l'art. 29 cpv. 2 Cost. e le disposizioni procedurali della LPT (**DTF 136 I 265 consid.** concernente l'audizione nella procedura del piano direttore; **DTF 147 I 433**; **DTF 146 I 36**).
 
-**N. 29** **Rapporto con altre censure**: La violazione dell'autonomia comunale può spesso essere sollevata insieme ad altre censure costituzionali (arbitrio, uguaglianza giuridica, proporzionalità). La censura specifica dell'autonomia ha tuttavia significato autonomo a causa della cognizione limitata del Tribunale federale.
+**N. 24** **Città e agglomerati (capoversi 2 e 3)**: Nella legislazione federale, l'art. 50 cpv. 3 Cost. funge da direttiva interpretativa. Le autorità federali devono tener conto, nell'elaborazione di leggi riguardanti gli agglomerati e le regioni montane — in particolare nei settori della pianificazione del territorio, della politica regionale e della perequazione finanziaria — dei bisogni specifici di queste tipologie di Comuni. Sulla disposizione ci si può fondare in procedure politiche (consultazione, iniziativa parlamentare), ma essa non può essere invocata direttamente in giudizio come base per l'annullamento di diritto federale. → art. 190 Cost.
