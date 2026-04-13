@@ -155,6 +155,12 @@ Do not restate a holding across two different N.s.
         </table>
       </section>
 
+      <!-- Commitment -->
+      <section class="support-section support-commitment">
+        <h2>{t('support.commitment_title', lang)}</h2>
+        <p>{t('support.commitment_text', lang)}</p>
+      </section>
+
       <!-- Independence -->
       <section class="support-section support-independence">
         <h2>{t('support.independence_title', lang)}</h2>
@@ -164,22 +170,12 @@ Do not restate a holding across two different N.s.
       <!-- Donate -->
       <section class="support-section support-donate" id="donate">
         <h2>{t('support.donate_title', lang)}</h2>
-        <div class="donate-methods">
-          <div class="donate-method">
-            <h3>TWINT</h3>
-            <p class="donate-note">{t('support.donate_twint', lang)}</p>
-            <div class="donate-placeholder">[QR Code]</div>
-          </div>
-          <div class="donate-method">
-            <h3>{t('support.donate_bank_title', lang)}</h3>
-            <p class="donate-note">{t('support.donate_bank', lang)}</p>
-            <div class="donate-placeholder">[IBAN]</div>
-          </div>
-          <div class="donate-method">
-            <h3>GitHub Sponsors</h3>
-            <p class="donate-note">{t('support.donate_github', lang)}</p>
-          </div>
-        </div>
+        <p>{t('support.donate_setup', lang)}</p>
+        <p class="donate-contact">
+          <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">
+            GitHub &rarr;
+          </a>
+        </p>
       </section>
 
       <!-- Supporters -->
@@ -442,11 +438,17 @@ Do not restate a holding across two different N.s.
     font-size: 11px;
   }
 
-  /* Independence */
-  .support-independence p {
+  /* Commitment */
+  .support-commitment p {
     font-size: 15px !important;
     color: var(--color-text) !important;
     font-weight: 500;
+    line-height: 1.7 !important;
+  }
+
+  /* Independence */
+  .support-independence p {
+    font-size: 14px !important;
   }
 
   /* Donate */
@@ -454,36 +456,19 @@ Do not restate a holding across two different N.s.
     border-bottom: none;
   }
 
-  .donate-methods {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: var(--space-3);
-    margin-top: var(--space-4);
+  .donate-contact {
+    margin-top: var(--space-2) !important;
   }
 
-  .donate-method {
-    padding: var(--space-3);
-    border: 1px solid var(--color-rule);
+  .donate-contact a {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--color-text);
+    text-decoration: none;
   }
 
-  .donate-method h3 {
-    font-size: 15px;
-    font-weight: 700;
-    margin: 0 0 var(--space-1);
-  }
-
-  .donate-note {
-    font-size: 12px !important;
-    color: var(--color-text-muted) !important;
-  }
-
-  .donate-placeholder {
-    margin-top: var(--space-2);
-    padding: var(--space-4);
-    background: var(--color-rule-light);
-    text-align: center;
-    font-size: 12px;
-    color: var(--color-text-muted);
+  .donate-contact a:hover {
+    text-decoration: underline;
   }
 
   .support-cta {
@@ -495,6 +480,5 @@ Do not restate a holding across two different N.s.
   @media (max-width: 768px) {
     .support-title { font-size: 28px; }
     .pipeline { grid-template-columns: 1fr; }
-    .donate-methods { grid-template-columns: 1fr; }
   }
 </style>
