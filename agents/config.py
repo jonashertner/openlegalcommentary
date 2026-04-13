@@ -14,14 +14,11 @@ class AgentConfig:
     mcp_base_url: str = "https://mcp.opencaselaw.ch"
 
     # Model selection per role.
-    # Doctrine was originally Opus but the Phase 0 Sonnet experiment
-    # (docs/superpowers/specs/2026-04-10-phase-0-sonnet-test-results.md)
-    # showed Sonnet 4.6 producing measurably better doctrine than the
-    # Opus-4 baseline at roughly 10-13x lower cost, scoring 0.92 from
-    # the Opus 4.6 evaluator. Evaluator stays on Opus as an independent
-    # judge. The write-skip safeguard in agents/generation.py protects
-    # against the silent failure mode observed in the experiment.
-    model_doctrine: str = "sonnet"
+    # Doctrine uses Opus 4.6 with extended thinking (adaptive). The A/B
+    # test (2026-04-13) showed Opus thinking producing measurably better
+    # doctrine than Sonnet 4.6 — Art. 36 BV passed Claude Opus evaluation
+    # (a first), at ~$6/article generation cost (4-5x Sonnet).
+    model_doctrine: str = "opus-thinking"
     model_caselaw: str = "sonnet"
     model_summary: str = "sonnet"
     model_evaluator: str = "opus"
@@ -30,7 +27,7 @@ class AgentConfig:
     # Cross-model evaluation
     model_evaluator_2: str = "chatgpt"
     model_evaluator_3: str = "grok"
-    evaluator_mode: str = "all_must_pass"  # "all_must_pass", "majority", "claude_only"
+    evaluator_mode: str = "advisory_chatgpt"  # chatgpt feedback only, claude+grok must pass
 
     commentary_refs_root: Path = field(
         default_factory=lambda: Path("scripts/commentary_refs"),

@@ -42,7 +42,7 @@ def test_generate_layer_uses_correct_model(config):
     with patch("agents.law_agent.run_agent", mock_run):
         asyncio.run(generate_layer(config, "OR", 41, "", "doctrine"))
         call_kwargs = mock_run.call_args.kwargs
-        assert call_kwargs["model"] == "sonnet"
+        assert call_kwargs["model"] == "opus-thinking"
 
 
 def test_generate_layer_with_feedback(config):
