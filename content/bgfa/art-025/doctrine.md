@@ -1,106 +1,95 @@
-# Art. 25 BGFA — Berufsregeln
+# Art. 25 BGFA — Berufsregeln (Ständige Ausübung)
 
 ## Doktrin
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Art. 25 BGFA ist Teil des 4. Abschnitts des Gesetzes (Art. 21–26), der den *vorübergehenden* Dienstleistungsverkehr von Anwältinnen und Anwälten aus EU- und EFTA-Mitgliedstaaten in der Schweiz regelt. Die Botschaft vom 28. April 1999 (BBl 1999 6013) schlug diesen Abschnitt als unmittelbare Umsetzung der Richtlinie 77/249/EWG des Rates vom 22. März 1977 zur Erleichterung der tatsächlichen Ausübung des freien Dienstleistungsverkehrs der Rechtsanwälte (ABl. EG Nr. L 78/17) in schweizerisches Recht vor. Die Richtlinie war für die Schweiz als Nicht-EU-Mitglied nicht direkt anwendbar, wurde aber durch den Verweis in Anhang III, B.3 des Freizügigkeitsabkommens vom 21. Juni 1999 (FZA; SR 0.142.112.681) in die bilaterale Rechtsordnung einbezogen.
+**N. 1** Art. 25 BGFA setzt Art. 6 der Richtlinie 98/5/EG des Europäischen Parlaments und des Rates vom 16. Februar 1998 zur Erleichterung der ständigen Ausübung des Rechtsanwaltsberufs in einem anderen Mitgliedstaat als dem, in dem die Qualifikation erworben wurde, ins schweizerische Recht um. Die Botschaft des Bundesrats vom 28. April 1999 (BBl 1999 6013, S. 6053 f.) erklärt, die ständige Berufsausübung unter der ursprünglichen Berufsbezeichnung bilde eine Vorstufe zur vollständigen Integration in das schweizerische Anwaltsrecht (→ Art. 29–34 BGFA). Der Bundesrat sah keine sachliche Rechtfertigung dafür, bei den materiellen Berufspflichten zwischen schweizweit eingetragenen Anwälten und EU/EFTA-Anwälten, die dauerhaft in der Schweiz tätig sind, zu unterscheiden.
 
-**N. 2** Der Entwurf des Bundesrats sah vor, dass EU/EFTA-Anwälte bei vorübergehender Dienstleistungserbringung grundsätzlich denselben Berufsregeln unterliegen wie schweizerische Anwälte, jedoch unter Beibehaltung ihrer Herkunftsberufsbezeichnung (BBl 1999 6052 f., Ziff. 231). Der Bundesrat stützte dies auf den Grundsatz der Inländergleichbehandlung, der sowohl in Art. 19 i.V.m. Anhang I des FZA als auch in Art. 4 Abs. 1 und 2 der Richtlinie 77/249/EWG verankert ist: «Der Dienstleistungserbringer muss die Regeln des Berufs einhalten, welche im Aufnahmestaat gelten» (BBl 1999 6052). Das Parlament folgte dem Entwurf ohne inhaltliche Änderung; Art. 25 BGFA wurde in den Räten nicht kontrovers diskutiert.
-
-**N. 3** Art. 25 BGFA ist am 1. Juni 2002 gemeinsam mit dem gesamten BGFA in Kraft getreten (AS 2002 862). Inhaltliche Revisionen haben nicht stattgefunden.
+**N. 2** Der Gesetzesentwurf sah für die ständige Ausübung zunächst einen Verweis auf Art. 21 BGFA (Einvernehmlichkeit beim Anwaltszwang) und Art. 23 BGFA (Berufsregeln für Dienstleistungserbringer) vor. Der Gesetzgeber entschied sich, denselben Verweismechanismus zu verwenden, den er bereits für die vorübergehende Dienstleistungserbringung (Art. 23) etabliert hatte, und ergänzte ihn lediglich um die zusätzlich anwendbare Bestimmung betreffend den Registereintrag (Art. 12 lit. j BGFA), die — systemgerecht — ausgenommen bleibt, weil die ständig ausübenden EU/EFTA-Anwälte in eine separate Liste nach Art. 26 BGFA eingetragen werden. Die parlamentarischen Beratungen verliefen zwischen September 1999 und Juni 2000 mehrstufig; die endgültige Fassung wurde in der Schlussabstimmung vom 23. Juni 2000 von beiden Räten angenommen. Die Bestimmung trat am 1. Juni 2002 in Kraft (AS 2002 863).
 
 ---
 
 ### 2. Systematische Einordnung
 
-**N. 4** Art. 25 BGFA ist die *Berufsregelreferenznorm* für den vorübergehenden Dienstleistungsverkehr. Der 4. Abschnitt ist dreistufig aufgebaut:
+**N. 3** Art. 25 BGFA steht im 5. Abschnitt («Ständige Ausübung des Anwaltsberufs durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA») und bildet das berufsrechtliche Kernstück dieses Abschnitts. Er schafft die materiell-rechtliche Pflichtenbindung für EU/EFTA-Anwälte, die — nach Eintragung in die kantonale Liste gemäss Art. 26 BGFA — dauerhaft in der Schweiz unter ihrer heimatstaatlichen Berufsbezeichnung tätig sind.
 
-| Norm | Inhalt |
-|------|--------|
-| Art. 21–24 BGFA | Berechtigung zur vorübergehenden Tätigkeit, Berufsbezeichnung, Beizug eines Korrespondenzanwalts |
-| **Art. 25 BGFA** | **Anwendbare Berufsregeln** |
-| Art. 26 BGFA | Disziplinarmassnahmen |
+**N. 4** Die Systematik unterscheidet drei Personenkategorien mit unterschiedlichem Regelungsregime:
 
-Art. 25 schlägt damit die Brücke zwischen dem Zugangsrecht (Art. 21–24 BGFA) und der Disziplinarverantwortlichkeit (Art. 26 BGFA). Ohne Art. 25 BGFA wäre unklar, welcher Verhaltensmassstab EU/EFTA-Anwälte im Dienstleistungsverkehr bindet. ↔ Art. 12 BGFA; → Art. 17 BGFA (Disziplinarmassnahmen, anwendbar via Art. 26 BGFA).
+- Schweizer und interkantonale Anwälte: vollständige Bindung an Art. 12 BGFA (→ Art. 12 BGFA);
+- Vorübergehend dienstleistungserbringende EU/EFTA-Anwälte (Art. 21–24 BGFA): Art. 12 BGFA mit Ausnahme von lit. g und lit. j (→ Art. 23 BGFA);
+- Ständig ausübende EU/EFTA-Anwälte (Art. 27–29 BGFA): Art. 12 BGFA mit Ausnahme von lit. g und lit. j (Art. 25 BGFA).
 
-**N. 5** Das Verhältnis zu den Berufsregeln des 2. Abschnitts (Art. 12–20 BGFA) ist zentral: Art. 25 BGFA ordnet die *vollständige Anwendbarkeit* von Art. 12 BGFA an — und damit denselben Pflichtenkatalog, dem auch im kantonalen Register eingetragene schweizerische Anwälte unterliegen. Dieser Gleichbehandlungsansatz unterscheidet Art. 25 BGFA von einer blossen Mindeststandard-Verweisung.
+Der Verweis in Art. 27 Abs. 2 BGFA auf Art. 25 BGFA erstreckt den Geltungsbereich der Berufsregeln ausdrücklich auch auf Anwälte, die die ständige Ausübung ohne vorgängige Eintragung in die Liste aufnehmen (**BGE 130 II 87 E. 5.1.2**; Urteile 2A.110/2003 E. 5.1.2 vom 29.1.2004 und 2A.111/2003 E. 5.1.2 vom 29.1.2004).
 
-**N. 6** Für die *ständige* Ausübung des Anwaltsberufs durch EU/EFTA-Anwälte gelten Art. 27–34 BGFA. Art. 27 Abs. 2 BGFA verweist ausdrücklich auf Art. 25 BGFA: Die Berufsregeln nach Art. 25 BGFA gelten auch für ständig tätige EU/EFTA-Anwälte — die Norm hat damit Ausstrahlungswirkung auf den gesamten 5. Abschnitt. Dies hat das Bundesgericht in Urteil 2A.110/2003 vom 29. Januar 2004 E. 5.1.2 und Urteil 2A.111/2003 vom 29. Januar 2004 E. 5.1.2 bestätigt. → Art. 27 Abs. 2 BGFA; → Art. 30 Abs. 2 BGFA.
+**N. 5** Art. 25 BGFA steht in Wechselwirkung mit mehreren Rechtsnormen:
+- ↔ Art. 12 BGFA: Quelle der verwiesenen Berufsregeln;
+- ↔ Art. 23 BGFA: parallele Regelung für die vorübergehende Dienstleistungserbringung;
+- → Art. 26 BGFA: Eintragungsvoraussetzung für die ständige Ausübung;
+- → Art. 27 Abs. 2 BGFA: Verweis auf Art. 25 für die materiellen Berufspflichten im Rahmen der ständigen Ausübung;
+- → Art. 30 Abs. 2 BGFA: Ausdehnung auf vollständig integrierte EU/EFTA-Anwälte;
+- ↔ Art. 13 BGFA i.V.m. Art. 321 StGB: Berufsgeheimnis, das uneingeschränkt gilt;
+- ↔ Art. 6 RL 98/5/EG: Primärrechtliche Grundlage (Inländerbehandlung);
+- → FZA (SR 0.142.112.681), Anhang I Art. 19 und Anhang III B.3.
 
 ---
 
 ### 3. Norminhalt
 
-**N. 7** Art. 25 BGFA lautet gemäss dem verbindlichen Wortlaut von Fedlex (SR 935.61):
+**N. 6** Art. 25 BGFA enthält eine **Globalverweisung mit abschliessenden Ausnahmen**: Sämtliche Berufsregeln des Art. 12 BGFA gelten für ständig ausübende EU/EFTA-Anwälte, mit genau zwei Ausnahmen:
 
-> «Anwältinnen und Anwälte, die Parteien vor schweizerischen Gerichtsbehörden vertreten, unterstehen den Berufsregeln nach Artikel 12 und handeln dabei im Einvernehmen mit einer Anwältin oder einem Anwalt, die oder der in einem kantonalen Anwaltsregister eingetragen ist (Art. 23). Sie verwenden in der Schweiz ihre ursprüngliche Berufsbezeichnung in der Amtssprache ihres Herkunftsstaats unter Angabe der Berufsorganisation, deren Zuständigkeit sie unterliegen, oder des Gerichts, bei dem sie nach den Vorschriften dieses Staats zugelassen sind (Art. 24).»
+1. **Art. 12 lit. g BGFA** (amtliche Pflichtverteidigung und unentgeltliche Rechtsvertretung): Dieses Amt setzt typischerweise die vollständige Einbindung in das schweizerische Anwaltssystem voraus und ist mit der Berufszugehörigkeit eines ausländisch qualifizierten Anwalts strukturell inkompatibel. Die Ausnahme entspricht Art. 4 Abs. 4 RL 77/249/EWG analog und Art. 5 RL 98/5/EG im Umkehrschluss.
 
-Die Bestimmung enthält damit zwei materielle Regelungsgehalte: (a) die Unterwerfung unter die Berufsregeln nach Art. 12 BGFA (mit dem Erfordernis des Beizugs eines Korrespondenzanwalts nach Art. 23 BGFA) und (b) die Pflicht zur Führung der Herkunftsberufsbezeichnung nach Massgabe von Art. 24 BGFA.
+2. **Art. 12 lit. j BGFA** (Registereintragungspflicht): EU/EFTA-Anwälte werden nicht in das kantonale Anwaltsregister nach Art. 6 BGFA eingetragen, sondern in die separate Liste nach Art. 26 BGFA. Eine kumulative Registereintragungs*pflicht* entfiele daher ins Leere; sie ist gleichwohl systemwidrig, da die Eintragung in die Liste nach Art. 26 BGFA abschliessend geregelt ist.
 
-#### 3.1 Pflicht zur Führung der Herkunftsberufsbezeichnung
+**N. 7** Im Übrigen gelten sämtliche Pflichten des Art. 12 BGFA uneingeschränkt:
+- **Sorgfalt und Gewissenhaftigkeit** (lit. a);
+- **Unabhängigkeit** (lit. b): Das Unabhängigkeitsgebot gilt für ständig ausübende EU/EFTA-Anwälte in vollem Umfang und beruht auf dem Grundsatz der Inländerbehandlung (Art. 6 RL 98/5/EG; **BGE 130 II 87 E. 5.1.2**). Das Bundesgericht hat ausdrücklich festgehalten, dass das Argument der Inländerdiskriminierung unzutreffend ist, weil EU/EFTA-Anwälte gemäss Art. 25 bzw. Art. 27 Abs. 2 i.V.m. Art. 25 BGFA denselben Berufsregeln unterstehen wie eingetragene Schweizer Anwälte;
+- **Interessenkonfliktverbot** (lit. c);
+- **Berufsgeheimnis** (lit. d, → Art. 13 BGFA);
+- **Werbebeschränkungen** (lit. e);
+- **Klientengeldverwaltung** (lit. h);
+- **Weiterbildungspflicht** (lit. i, soweit anwendbar).
 
-**N. 8** EU/EFTA-Anwälte, die vorübergehend in der Schweiz tätig sind, müssen ihre *Herkunftsberufsbezeichnung* in der Amtssprache des Herkunftsstaates verwenden — also etwa «Rechtsanwalt» (Deutschland), «Avvocato» (Italien), «Solicitor» (England und Wales), «Avocat» (Frankreich). Sie dürfen sich *nicht* als «Advokat», «Rechtsanwalt» oder «Fürsprech» im schweizerischen Sinne bezeichnen, weil diese Bezeichnungen nach Art. 2 BGFA Personen mit kantonalem Anwaltspatent vorbehalten sind. Zweck dieser Pflicht ist die Transparenz gegenüber dem rechtsuchenden Publikum. Nach herrschender Lehrmeinung ist eine blosse Übersetzung der Herkunftsberufsbezeichnung unzulässig, da die Richtlinie 77/249/EWG (Art. 3) und Art. 24 BGFA die Bezeichnung in der Amtssprache des *Herkunftsstaates* verlangen (Fellmann/Zindel, BSK BGFA, 2. Aufl. 2011, Art. 24 N. 20 ff.; Bohnet/Martenet, Droit de la profession d'avocat, 2009, N. 2211 ff.). Auf Briefköpfen, E-Mail-Signaturen und in Gerichtsschriftsätzen ist zusätzlich anzugeben, welchem Berufsregister der Anwalt im Herkunftsstaat angehört; dies folgt unmittelbar aus dem Wortlaut von Art. 24 BGFA i.V.m. Art. 25 BGFA. Die unberechtigte Verwendung einer schweizerischen Berufsbezeichnung begründet neben dem Disziplinarverfahren nach Art. 26 BGFA auch eine allfällige Haftung nach kantonalem Recht.
-
-#### 3.2 Anwendbarkeit der Berufsregeln nach Art. 12 BGFA
-
-**N. 9** Art. 25 BGFA unterstellt EU/EFTA-Anwälte im vorübergehenden Dienstleistungsverkehr *vollumfänglich* den Berufsregeln nach Art. 12 BGFA. Dies umfasst namentlich:
-
-- Art. 12 lit. a BGFA: Sorgfalt und Gewissenhaftigkeit
-- Art. 12 lit. b BGFA: **Unabhängigkeit** — nach bundesgerichtlicher Rechtsprechung auch für EU/EFTA-Anwälte im Dienstleistungsverkehr uneingeschränkt geltend (Urteil 2A.110/2003 vom 29. Januar 2004 E. 5.1.2; Urteil 2A.111/2003 vom 29. Januar 2004 E. 5.1.2)
-- Art. 12 lit. c BGFA: Vermeidung von Interessenkonflikten
-- Art. 12 lit. d BGFA: Grenzen zulässiger Werbung
-- Art. 12 lit. h BGFA: Trennung von Klientengeldern
-- Art. 13 BGFA: Berufsgeheimnis (→ Art. 13 BGFA; zum Streit über die Erstreckung des Art. 13 BGFA auf Dienstleistungserbringer vgl. N. 16)
-
-**N. 10** Die Unterwerfung unter Art. 12 BGFA erfolgt *zusätzlich* zur Bindung an die Berufsregeln des Herkunftsstaates. Im Konfliktfall gilt das strengere Recht (Doppelbindung). Dies entspricht dem EU-rechtlichen Grundsatz der Aufnahmestaatsregeln, der in Art. 4 Abs. 1 der Richtlinie 77/249/EWG normiert ist; die Einhaltung der Regeln des Aufnahmestaates ist unabdingbar (Fellmann, Anwaltsrecht, 2. Aufl. 2017, Rz. 1180).
-
-**N. 11** Beim Beizug des Korrespondenzanwalts nach Art. 23 BGFA handelt es sich um eine *besondere* Berufspflicht für die Parteivertretung vor schweizerischen Gerichten; der Verweis von Art. 25 BGFA auf Art. 23 BGFA stellt klar, dass diese Pflicht im Geltungsbereich von Art. 25 BGFA eigenständig weiterläuft. Der Korrespondenzanwalt muss im kantonalen Anwaltsregister eingetragen sein und das Mandat aktiv mitverantworten; eine rein formale Einbindung ohne inhaltliche Mitarbeit kann für beide Anwälte eine Berufspflichtverletzung begründen. → Art. 23 BGFA.
-
-#### 3.3 Sachlicher Anwendungsbereich und Abgrenzung zur ständigen Tätigkeit
-
-**N. 12** Art. 25 BGFA gilt für *vorübergehende* Dienstleistungserbringung im Sinne von Art. 21 BGFA. Die Abgrenzung zur *ständigen* Tätigkeit nach Art. 27 ff. BGFA ist nach den Kriterien von Art. 5 Abs. 1 FZA vorzunehmen: Massgebend sind Dauer, Häufigkeit, regelmässige Wiederkehr und Kontinuität der Dienstleistungserbringung (Urteil 2A.536/2003 vom 9. August 2004 E. 3.2.2). Als zeitliche Orientierungsgrösse gilt die 90-Arbeitstage-Grenze des Art. 5 Abs. 1 FZA; entscheidend ist jedoch das Gesamtbild der Tätigkeit. In **BGE 151 II 640** E. 5.7.1 f. hat das Bundesgericht klargestellt, dass für die Eintragung in die EU/EFTA-Anwaltsliste (Art. 28 BGFA) keine vorgängige wirtschaftliche Schwerpunktbildung in der Schweiz verlangt werden darf; ausreichend ist die Absicht, in der Schweiz ständig eine Kanzlei zu betreiben und entsprechende Dispositionen zu treffen. Anwälte, die wiederholt in mehreren Verfahren in der Schweiz tätig sind, sollten daher frühzeitig prüfen, ob die Voraussetzungen für die ständige Ausübung (Art. 27 BGFA) gegeben sind. → Art. 21 BGFA; → Art. 27 BGFA; → Art. 28 BGFA.
-
-**N. 13** Im Bereich der *aussergerichtlichen Rechtsberatung* durch EU/EFTA-Anwälte im Dienstleistungsverkehr gilt Art. 25 BGFA nicht, da das BGFA nach Art. 2 Abs. 1 nur Personen erfasst, die im Rahmen des Anwaltsmonopols Parteien vor Gericht vertreten. Für blosse Rechtsberatung ohne forensische Tätigkeit fehlt es an der Monopoltätigkeit; EU/EFTA-Anwälte, die ausschliesslich beratend tätig sind, unterliegen weder Art. 12 BGFA noch Art. 25 BGFA (Bohnet/Martenet, Droit de la profession d'avocat, 2009, N. 2183 ff.; BBl 1999 6043 f.).
+**N. 8** Die Anwendbarkeit von Art. 12 lit. f BGFA (Pflicht zur Zusammenarbeit mit Behörden) und Art. 12 lit. k BGFA (Beachtung der Standesregeln anderer Kantone) auf ständig ausübende EU/EFTA-Anwälte ergibt sich unmittelbar aus dem Globalverweis. Die RL 98/5/EG sieht in Art. 6 Abs. 1 vor, dass für den eingetragenen Rechtsanwalt unabhängig von seiner Kanzleiorganisation die standesrechtlichen Regeln des Aufnahmestaats gelten; zusätzlich bleibt er den Berufsregeln des Herkunftsstaats unterworfen. Das BGFA normiert nur die schweizerische Seite dieser Doppelbindung; das Verhältnis zu herkunftsstaatlichem Berufsrecht ist staatsvertraglich geregelt.
 
 ---
 
 ### 4. Rechtsfolgen
 
-**N. 14** Verletzt ein EU/EFTA-Anwalt im vorübergehenden Dienstleistungsverkehr die Berufsregeln nach Art. 12 BGFA, so sind die *Disziplinarmassnahmen* nach Art. 26 BGFA i.V.m. Art. 17 BGFA anwendbar. Als Disziplinarmassnahmen stehen in aufsteigender Schwere zur Verfügung: Verwarnung, Verweis, Busse bis 20'000 Franken sowie das Berufsausübungsverbot bis zwei Jahre (Art. 17 Abs. 1 BGFA). Im Fall der vorübergehenden Dienstleistungserbringung wirkt das *Berufsausübungsverbot* als faktisches Tätigkeitsverbot in der Schweiz. → Art. 26 BGFA; → Art. 17 BGFA.
+**N. 9** Verstösst ein ständig ausübender EU/EFTA-Anwalt gegen die über Art. 25 BGFA anwendbaren Berufsregeln des Art. 12 BGFA, greifen die Disziplinarmassnahmen nach Art. 17 BGFA. Dies ergibt sich aus Art. 27 Abs. 2 BGFA, der die Disziplinarhoheit der kantonalen Aufsichtsbehörde über ständig ausübende EU/EFTA-Anwälte begründet. Die Sanktionen reichen von der Verwarnung bis zum Berufsverbot; bei schweren Verletzungen ist die Löschung aus der Liste nach Art. 26 BGFA möglich (→ Art. 17 BGFA i.V.m. Art. 9 BGFA analog).
 
-**N. 15** Zuständig für Disziplinarmassnahmen gegen EU/EFTA-Anwälte im Dienstleistungsverkehr ist nach Art. 14 BGFA grundsätzlich die Aufsichtsbehörde des Kantons, in dem die anwaltliche Tätigkeit ausgeübt wird (Begehungsortsprinzip). Die Information der Aufsichtsbehörde im Herkunftsstaat ist in schwerwiegenden Fällen geboten (Art. 26 Abs. 2 BGFA); die praktische Vollstreckung von Disziplinarsanktionen im Ausland bleibt jedoch schwierig.
+**N. 10** Strafrechtsrelevante Verletzungen des Berufsgeheimnisses (→ Art. 13 BGFA, Art. 321 StGB) treffen den ständig ausübenden EU/EFTA-Anwalt in gleicher Weise wie einen eingetragenen Schweizer Anwalt. Die Strafbarkeit knüpft an die faktische Tätigkeit als Anwalt in der Schweiz an, nicht an die Art der Eintragung.
+
+**N. 11** Prozessual sind ständig ausübende EU/EFTA-Anwälte für die Zwecke des Zeugnisverweigerungsrechts und der Beschlagnahmebeschränkungen (Art. 171 StPO, Art. 160 ZPO) den eingetragenen Schweizer Anwälten gleichzustellen, soweit sie dem Berufsgeheimnis nach Art. 13 BGFA unterstehen. Die Berufsgeheimnis-Regelungen setzen die anwaltliche Tätigkeit in der Schweiz voraus, nicht die Eintragung in ein bestimmtes Register.
 
 ---
 
 ### 5. Streitstände
 
-**N. 16** **Reichweite der Berufsregelunterwerfung: vollständige Gleichbehandlung oder differenzierte Anwendung?** Die herrschende Lehre (Fellmann/Zindel, BSK BGFA, 2. Aufl. 2011, Art. 25 N. 5 ff.; Bohnet/Martenet, Droit de la profession d'avocat, 2009, N. 2218) liest Art. 25 BGFA als *vollständige* Gleichstellungsnorm: EU/EFTA-Anwälte im Dienstleistungsverkehr unterliegen denselben Pflichten wie im Register eingetragene schweizerische Anwälte. Demgegenüber hat Rothenbühler (Dienstleistungsfreiheit und Berufsanerkennung, in: Die sektoriellen Abkommen Schweiz-EG, Berner Tage für die juristische Praxis, Bern 2002, S. 114 ff.) darauf hingewiesen, dass einzelne Pflichten aus Art. 12 BGFA — namentlich strukturell an das kantonale Register anknüpfende Obliegenheiten — auf vorübergehende Dienstleister nicht passen und teleologisch reduziert angewendet werden müssten. Das Bundesgericht hat diese Frage nicht explizit entschieden, aber in Urteil 2A.110/2003 vom 29. Januar 2004 E. 5.1.2 und Urteil 2A.111/2003 vom 29. Januar 2004 E. 5.1.2 die vollständige Geltung des Unabhängigkeitsgebots (Art. 12 lit. b BGFA) für EU/EFTA-Anwälte ohne Differenzierung bestätigt.
+**N. 12** **Reichweite des Unabhängigkeitsgebots bei angestellten EU/EFTA-Anwälten.** Der wichtigste Streitstand betrifft die Frage, ob das über Art. 25 BGFA geltende Unabhängigkeitsgebot (Art. 12 lit. b BGFA) für ständig ausübende EU/EFTA-Anwälte dieselben institutionellen Anforderungen stellt wie für Schweizer Anwälte. Das Bundesgericht hat in **BGE 130 II 87 E. 5.1.2** und in den Parallelentscheiden Urteile 2A.110/2003 und 2A.111/2003 klargestellt, dass Art. 25 i.V.m. Art. 27 Abs. 2 BGFA das Unabhängigkeitsgebot vollständig auf EU/EFTA-Anwälte erstreckt und damit eine Inländerdiskriminierung — wie von Nationalrat Nabholz (AB 1999 N 1558) befürchtet — ausschliesst. Art. 8 RL 98/5/EG bestätigt diese Gleichbehandlung für angestellte ausländische Rechtsanwälte ausdrücklich: Der Aufnahmestaat kann ihnen die Zulassung verweigern, soweit er dies auch gegenüber inländischen Anwälten in gleicher Lage tut.
 
-**N. 17** **Keine Inländerdiskriminierung durch das Unabhängigkeitsgebot.** In der parlamentarischen Beratung (AB 1999 N 1558, Votum Nabholz) wurde die Befürchtung geäussert, die restriktive schweizerische Unabhängigkeitskonzeption führe zu einer Benachteiligung inländischer gegenüber ausländischen Anwälten. Das Bundesgericht hat diese Befürchtung in Urteil 2A.110/2003 vom 29. Januar 2004 E. 5.1.2 und Urteil 2A.111/2003 vom 29. Januar 2004 E. 5.1.2 ausdrücklich zurückgewiesen: Da Art. 25 BGFA das schweizerische Unabhängigkeitsgebot ausnahmslos auch auf EU/EFTA-Anwälte erstreckt — und Art. 6 der Richtlinie 77/249/EWG sowie Art. 8 der Richtlinie 98/5/EG jeweils den Inländerbehandlungsgrundsatz verankern —, liegt keine Diskriminierung inländischer Anwälte vor:
+**N. 13** **Verhältnis Herkunftsstaat/Aufnahmestaat bei Berufsregeln.** Art. 6 Abs. 1 RL 98/5/EG sieht eine Doppelbindung vor: Der ständig ausübende EU-Anwalt untersteht sowohl den Berufsregeln des Herkunfts- als auch des Aufnahmestaats. Fellmann/Zindel (Hrsg.), Basler Kommentar Anwaltsgesetz, 2. Aufl. 2019, betonen, dass im schweizerischen Recht die Pflichten nach Art. 12 BGFA abschliessend normiert sind und keine Subsidiarität gegenüber herkunftsstaatlichem Recht beanspruchen. Bohnet/Martenet, Droit de la profession d'avocat, 2009, N 1842 ff., sehen hingegen ein normatives Spannungsfeld, wenn das Herkunftsstaatrecht strengere Standards vorschreibt — etwa beim Werbeverbot (Art. 12 lit. e BGFA). In der Praxis löst sich dieser Konflikt zugunsten des strengeren Massstabs auf, da der Anwalt stets beide Pflichtenkreise einhalten muss.
 
-> «Die ausländischen Anwälte, die in einem Vertragsstaat tätig werden wollen, sind ihren inländischen Berufskollegen insbesondere in Bezug auf die Berufspflichten (wie das Unabhängigkeitsgebot) gleichgestellt» (Urteil 2A.111/2003 vom 29. Januar 2004 E. 5.1.2).
+**N. 14** **Amtliche Pflichtverteidigung und das Ausnahme-Régime (Art. 12 lit. g BGFA).** Die Ausnahme für die amtliche Pflichtverteidigung wird von Valloni/Steinegger, Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte, 2002, S. 46 f., damit begründet, dass diese öffentlichrechtliche Aufgabe eine vollständige rechtliche und organisatorische Integration in das schweizerische Rechtssystem voraussetzt. Rohner/Thouvenin, in: Ehrenzeller (Hrsg.), Das Anwaltsrecht nach dem BGFA, 2003, S. 65, weisen darauf hin, dass das Bundesstrafgericht (Urteil SN.2013.11 vom 16.10.2013) für die Bestellung eines amtlichen Verteidigers eine Eintragung im kantonalen Anwaltsregister oder in der Liste nach Art. 26 BGFA verlangt, ohne die Ausnahme des Art. 12 lit. g BGFA eigenständig zu problematisieren. Ein ständig ausübender EU/EFTA-Anwalt kann sich folglich nicht als amtlicher Verteidiger bestellen lassen, selbst wenn er im Übrigen sämtliche Berufspflichten erfüllt. Diese Beschränkung ist im Ergebnis unbestritten.
 
-**N. 18** **Erstreckung des Berufsgeheimnisses (Art. 13 BGFA) auf Dienstleistungserbringer.** Art. 25 BGFA verweist auf Art. 12, nicht ausdrücklich auf Art. 13 BGFA. Fellmann/Zindel (BSK BGFA, 2. Aufl. 2011, Art. 25 N. 8) bejahen die Geltung von Art. 13 BGFA: Dieser konkretisiert Art. 12 lit. a BGFA (Sorgfaltspflicht) und ist daher über den Verweis in Art. 25 BGFA mitumfasst; der Schutzzweck des Berufsgeheimnisses könne nicht von der Registrierungssituation des Anwalts abhängen. Die Gegenmeinung (Nater/Zindel, Kommentar zum Anwaltsgesetz, 2020, Art. 25 N. 4) differenziert: Art. 13 BGFA entfalte gegenüber EU/EFTA-Anwälten im Dienstleistungsverkehr nur die Funktion der Bestimmung des straf- und zivilrechtlichen Rahmens (Art. 321 StGB, Art. 171 StPO), nicht aber die disziplinarrechtliche Dimension. Praktisch führt diese Abgrenzung in grenzüberschreitenden Verfahren zu Kollisionsproblemen: Schweizer Recht schützt das Berufsgeheimnis auch gegenüber ausländischen Offenbarungspflichten; welches Recht im Konfliktfall überwiegt, ist im Einzelfall zu klären. ↔ Art. 13 BGFA; → Art. 321 StGB; → Art. 171 StPO.
-
-**N. 19** **Abgrenzung vorübergehend / ständig und Bedeutung für Art. 25 BGFA.** Die Abgrenzung zwischen vorübergehender Dienstleistungserbringung (Art. 21–26 BGFA) und ständiger Ausübung (Art. 27–34 BGFA) bestimmt, ob Art. 25 BGFA oder Art. 27 Abs. 2 i.V.m. Art. 25 BGFA anwendbar ist. Das Bundesgericht hat in **BGE 151 II 640** E. 5.7 (2025) die frühere Rechtsprechung präzisiert und klargestellt, dass für die Eintragung in die EU/EFTA-Anwaltsliste keine vorgängige wirtschaftliche Schwerpunktbildung in der Schweiz verlangt werden darf. Diese Präzisierung beeinflusst die Abgrenzungsfrage auch im Anwendungsbereich von Art. 25 BGFA: Ein Anwalt, der unter Einrichtung einer festen Kanzleiinfrastruktur in der Schweiz tätig werden will, ist nach **BGE 151 II 640** E. 5.7.2 regelmässig nicht mehr als bloss vorübergehender Dienstleister einzustufen, selbst wenn er noch keine 90 Arbeitstage in der Schweiz tätig war.
+**N. 15** **Klientenschutz und Transparenz bei Doppelbindung.** Fritz Rothenbühler, Dienstleistungsfreiheit und Berufsanerkennung, insbesondere für Rechtsanwälte, in: Die sektoriellen Abkommen Schweiz-EG, Berner Tage 2002, S. 114 ff., weist auf die praktische Schwierigkeit hin, dass Klienten nicht stets erkennen, ob ihr Anwalt schweizerischem oder ausländischem Standesrecht primär untersteht. Er plädiert für eine verstärkte Transparenzpflicht gegenüber Klienten über die doppelte Standeszugehörigkeit. Art. 22 BGFA (Pflicht zur Verwendung der ursprünglichen Berufsbezeichnung) adressiert dieses Problem teilweise; eine ausdrückliche Informationspflicht nach Art. 12 lit. a BGFA (Sorgfalt und Gewissenhaftigkeit) ist als Auffangnorm aber bei Unklarheit einschlägig.
 
 ---
 
 ### 6. Praxishinweise
 
-**N. 20** **Interessenkonflikte bei grenzüberschreitenden Mandaten.** Gerade bei grenzüberschreitenden Mandaten besteht erhöhte Gefahr von Interessenkonflikten — etwa wenn der EU-Anwalt sowohl im Herkunftsstaat als auch in der Schweiz tätige Unternehmen einer Unternehmensgruppe berät. Art. 12 lit. c BGFA gilt über Art. 25 BGFA uneingeschränkt; die im Herkunftsstaat geltenden Konfliktregeln entbinden nicht von der schweizerischen Pflicht.
+**N. 16** **Für ständig ausübende EU/EFTA-Anwälte** gilt praktisch die gesamte Bandbreite des schweizerischen materiellen Berufsrechts. Die Ausnahmen (Art. 12 lit. g und lit. j BGFA) sind eng und abschliessend. Wer in der Schweiz dauerhaft Mandate führt, muss insbesondere:
+- das Berufsgeheimnis nach Art. 13 BGFA i.V.m. Art. 321 StGB uneingeschränkt einhalten;
+- jeden Interessenkonflikt nach Art. 12 lit. c BGFA vermeiden;
+- das Unabhängigkeitsgebot nach Art. 12 lit. b BGFA wahren, einschliesslich der institutionellen Anforderungen bei allfälligen Anstellungsverhältnissen.
 
-**N. 21** **Disziplinarzuständigkeit.** Im Disziplinarverfahren gegen EU/EFTA-Anwälte empfiehlt die Lehre (Fellmann, Anwaltsrecht, 2. Aufl. 2017, Rz. 1185), die Aufsichtsbehörde des Kantons zu kontaktieren, in dem die fragliche Tätigkeit erbracht wurde. Eine Information der Aufsichtsbehörde im Herkunftsstaat ist in schwerwiegenden Fällen geboten (Art. 26 Abs. 2 BGFA).
+**N. 17** **Disziplinarverfahren.** Zuständig für die Disziplinaraufsicht ist die kantonale Behörde jenes Kantons, in dem der EU/EFTA-Anwalt in die Liste nach Art. 26 BGFA eingetragen ist. Bei Verletzung von Art. 12 BGFA drohen dieselben Massnahmen wie gegenüber eingetragenen Schweizer Anwälten (→ Art. 17 BGFA). Die Herkunftsstaatsbehörde ist gemäss Art. 7 RL 98/5/EG über schwerwiegende Massnahmen zu informieren.
+
+**N. 18** **Abgrenzung vorübergehend/ständig.** Art. 25 BGFA und Art. 23 BGFA sind inhaltlich parallelgeschaltet: Beide verweisen auf Art. 12 BGFA mit denselben zwei Ausnahmen. Die praktische Bedeutung der Abgrenzung zwischen vorübergehender (Art. 21–24 BGFA) und ständiger Ausübung (Art. 27–29 BGFA) liegt daher nicht im materiellen Berufsrecht, sondern im Verfahrens- und Registerrecht. Die Eintragung in die Liste nach Art. 26 BGFA ist der massgebliche Anknüpfungspunkt für Art. 25 BGFA. Anwälten, die faktisch dauerhaft tätig sind, ohne sich in die Liste eintragen zu lassen, drohen neben der Disziplinarsanktion auch strafrechtliche Konsequenzen wegen unbefugter Berufstätigkeit.
+
+**N. 19** **Wechsel in das schweizerische Register (Art. 29–34 BGFA).** Sobald ein ständig ausübender EU/EFTA-Anwalt nach Art. 29 ff. BGFA vollständig in das schweizerische Anwaltsregister integriert wird, entfällt der Sonderstatus. Art. 12 BGFA gilt dann ohne jede Ausnahme, einschliesslich der Pflichten nach lit. g und lit. j. Art. 30 Abs. 2 BGFA verweist insoweit nicht mehr auf Art. 25 BGFA, sondern auf Art. 12 BGFA direkt.
 
 ---
 
-### Literatur
-
-- Fellmann/Zindel (Hrsg.), Basler Kommentar zum Anwaltsgesetz (BSK BGFA), 2. Aufl. 2011
-- Fellmann, Anwaltsrecht, 2. Aufl. 2017
-- Bohnet/Martenet, Droit de la profession d'avocat, 2009
-- Nater/Zindel, Kommentar zum Anwaltsgesetz, 2020
-- Rothenbühler, Dienstleistungsfreiheit und Berufsanerkennung, insbesondere für Rechtsanwälte, in: Die sektoriellen Abkommen Schweiz-EG, Berner Tage für die juristische Praxis, Bern 2002, S. 95 ff.
-- Einhaus, Die Richtlinie 98/5/EG zur Erleichterung der ständigen Ausübung des Rechtsanwaltsberufs im Ausland, in: Das künftige Berufsbild des Anwalts in Europa, DACH Schriftenreihe 13, Köln 2000, S. 33 ff.
-- Botschaft des Bundesrats vom 28. April 1999 zum Anwaltsgesetz, BBl 1999 6013 ff.
+*Querverweise:* → Art. 12 BGFA (Berufsregeln); → Art. 13 BGFA (Berufsgeheimnis); → Art. 17 BGFA (Disziplinarmassnahmen); → Art. 22 BGFA (Berufsbezeichnung); ↔ Art. 23 BGFA (Berufsregeln für Dienstleistungserbringer); → Art. 26 BGFA (Eintragung in die Liste); → Art. 27 Abs. 2 BGFA (Verweis auf Art. 25); → Art. 29–34 BGFA (Integration); → Art. 321 StGB (Berufsgeheimnis strafrechtlich); → Art. 171 StPO (Zeugnisverweigerungsrecht); → Art. 160 ZPO (Mitwirkungsverweigerung); Art. 6 RL 98/5/EG; FZA SR 0.142.112.681 Anhang I Art. 19.

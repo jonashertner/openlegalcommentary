@@ -7,4 +7,8 @@ absatz_count: 1
 fedlex_url: https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_34a
 lexfind_url: ''
 in_force_since: ''
-layers: {}
+layers:
+  doctrine:
+    last_generated: '2026-04-13'
+    version: 1
+    quality_score: 0.92

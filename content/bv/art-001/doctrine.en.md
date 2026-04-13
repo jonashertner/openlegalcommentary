@@ -1,71 +1,65 @@
-# Art. 1 FC — Doctrine
+# Art. 1 FC — The Swiss Confederation
 
-## 1. Legislative History
+## Doctrine
 
-**N. 1** Art. 1 FC dates back to the founding of the federal state in 1848. The Federal Constitution of 12 September 1848 first listed the 22 cantons in Art. 1 (Message on the Federal Constitution 1848, BBl 1848 I 1ff.). The enumeration was retained during the total revision of 1874. Jura as the 23rd canton was inserted into Art. 1 FC following the successful referendum of 24 September 1978 (BBl 1977 III 227).
+### 1. Legislative History
 
-**N. 2** The current version stems from the total revision of 1999 (Message on the new Federal Constitution of 20 November 1996, BBl 1997 I 1ff., 133). The order of the cantons follows their date of accession to the Confederation, with the exception of the three founding cantons, which are ordered alphabetically. This historical order was retained out of respect for tradition (Ehrenzeller/Schindler/Schweizer/Vallender, St. Gallen Commentary FC, 4th ed. 2023, Art. 1 N. 3).
+**N. 1** Art. 1 FC continues the identically worded Art. 1 of the Federal Constitution of 1874. The explanatory report on the preliminary draft of 1995 (PD 1995) already stated that the provision bindingly established the number and existence of the cantons; changes would only be possible through the constitutional revision procedure. The order of the cantons was retained for traditional reasons, even though it carries no legal significance (Explanatory Report PD 1995, p. 29 f.). The preliminary draft also envisaged no longer identifying the half-cantons separately in parentheses, since they too are equal members of the Confederation; the remaining law applicable to the half-cantons was to be expressly regulated in the relevant individual provisions (Explanatory Report PD 1995, p. 29 f.).
 
-## 2. Systematic Classification
+**N. 2** The Federal Council's Message of 20 November 1996 adopted this approach and emphasised that the enumeration by name of all 26 cantons anchored the existence of the Swiss Confederation in constitutional law (BBl 1997 I 1, 124 f., 589). The Message cited as deliberate drafting decisions: the retention of the traditional order of the cantons (three former presiding cantons under the Federal Treaty of 1815, followed by the others in the order of their accession), the linking of the half-cantons with «and» rather than by parenthetical notation, and the choice of the term «Swiss Confederation» as a designation for the state that is neutral with respect to the internal federal organisation (BBl 1997 I 1, 124 f.). Alphabetical order and an enumeration according to date of accession were expressly rejected (BBl 1997 I 1, 124).
 
-**N. 3** Art. 1 FC forms the foundations of the federal state together with Art. 2 (purpose) and Art. 3 (cantons). The provision constitutes the Swiss Confederation as a federal state and defines its territorial composition (→ Art. 53 FC for guarantee of cantonal existence).
+**N. 3** In the Council of States, rapporteur Frick (C, SZ) emphasised that the committee wished to express, through the formula «The Swiss People and the Cantons», rather than merely «the Cantons», that the Swiss People, alongside the cantons, is the other constituent element of the Confederation: «We wish to express thereby that the Swiss People is the other element alongside the cantons.» Federal Councillor Koller agreed with this formulation; the «and» linking the half-cantons had been introduced at the express request of the Conference of Cantonal Governments. Council of States member Plattner (S, BS) criticised the coupling of the half-cantons with «and» as an anachronism that denied them a Council of States seat and half a cantonal vote: «The half-cantons are, so to speak, only a comma away from full cantonal status.» In the National Council, Sandoz Suzette (L, VD) objected to the removal of the historical designations («Unterwalden ob und nid dem Wald», «Appenzell Ausser- und Innerrhoden»): «Comment peut-on, en actualisant, biffer d'un coup de crayon des siècles d'histoire?» This objection did not prevail in the final vote of 18 December 1998. The popular referendum of 18 April 1999 led to the adoption of the new Federal Constitution.
 
-**N. 4** The provision is closely connected with:
-- → Art. 3 FC (sovereignty of the cantons)
-- → Art. 5a FC (subsidiarity)
-- ↔ Art. 42–47 FC (division of tasks between Confederation and cantons)
-- → Art. 53 FC (existence and territory of the cantons)
+---
 
-## 3. Elements of the Provision / Normative Content
+### 2. Systematic Classification
 
-### a) «Swiss People»
+**N. 4** Art. 1 FC opens the first Title («General Provisions») of the Federal Constitution and forms the cornerstone of the entire constitutional framework. The provision is an organisational norm, not a fundamental rights norm and not a statement of state objectives: it establishes neither subjective rights nor directly enforceable claims of individuals (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 144 f.).
 
-**N. 5** The term «Swiss people» refers to all Swiss citizens regardless of their place of residence (Häfelin/Haller/Keller/Thurnherr, Swiss Federal Constitutional Law, 10th ed. 2020, N 882). The Swiss people, together with the cantons, is the bearer of constituent power (pouvoir constituant).
+**N. 5** Within the first Title, Art. 1 FC is in close systematic connection with Art. 3 FC (Cantons), which defines cantonal sovereignty as a residual competence, with Art. 37 FC (Rights of citizenship), which links individuals to the federal state through the cantonal level, and with Art. 53 FC (Existence and territory of the cantons), which governs the procedure for changes to the composition of the cantons. The 1998 parliamentary debate made clear that Art. 1 FC deliberately refers to popular sovereignty and federalism as equally constitutive principles of the federal state (→ Art. 3 FC; → Art. 53 FC; ↔ Art. 37 FC).
 
-**N. 6** The mention of the Swiss people underscores the dual character of Switzerland as both a federal and popular state. Unlike in purely federal systems, not only the member states but also the people are direct bearers of state power (Rhinow/Schefer/Uebersax, Swiss Constitutional Law, 3rd ed. 2016, § 5 N 2).
+---
 
-### b) «Cantons»
+### 3. Elements of the Provision / Normative Content
 
-**N. 7** The 26 cantons listed by name are the constituent members of the federal state. Their explicit enumeration has constitutive significance: Only the named territorial entities are cantons in the constitutional sense (BSK FC-Waldmann/Belser/Epiney, 2nd ed. 2024, Art. 1 N. 12).
+**N. 6** Art. 1 FC contains two addresses of the norm: «the Swiss People» and «the Cantons». This dual formula expresses that Switzerland as a federal state is founded both on democratic legitimation through the people and on the federal union of sovereign member states. Rhinow/Schefer/Uebersax describe this as the «dual origin» of federal statehood, which finds its normative complement in the Preamble («with the will to … renew the Confederation») (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, N 9 ff.).
 
-**N. 8** The half-cantons (Basel-Stadt/Basel-Landschaft, Appenzell Ausserrhoden/Innerrhoden, Obwalden/Nidwalden) are listed individually and are full cantons. The term «half-canton» has been obsolete since 1999; Art. 142 para. 4 FC speaks neutrally of «cantons» (**BGE 130 I 185** E. 2.2).
+**N. 7** The enumeration of the 26 cantons is exhaustive and constitutive: only the communities named therein are members of the Confederation. «Canton» within the meaning of Art. 1 FC encompasses both the 20 full cantons and the six half-cantons (Obwalden and Nidwalden, Basel-City and Basel-Country, Appenzell Outer Rhodes and Appenzell Inner Rhodes). These are linked in the enumeration in pairs by «and», which visually highlights their special position — as compared to the other cantons separated by «,». The designation «half-canton» does not appear in Art. 1 FC; the concept is found implicitly in Art. 142 para. 4 FC (majority of cantons) and Art. 150 para. 2 FC (Council of States), where the differentiated weighting of votes finds expression (Biaggini, BV-Kommentar, 2nd ed. 2017, Art. 1 N. 5 f.).
 
-### c) «form»
+**N. 8** The order of the cantons follows historical tradition: Zurich, Berne and Lucerne appear as the former presiding cantons of the Diet; the remaining cantons follow in the order of their accession to the Confederation. This order has no legal significance under current constitutional law and in particular establishes no hierarchy among the cantons (BBl 1997 I 1, 124; Explanatory Report PD 1995, p. 30).
 
-**N. 9** The verb «form» expresses the continuous constitution of the federal state. The Confederation does not exist independently of its members, but is formed through the ongoing cooperation of people and cantons (Aubert/Mahon, Short Commentary on the Federal Constitution, 2003, Art. 1 N. 4).
+**N. 9** The phrase «form the Swiss Confederation» designates the Confederation as the legal subject arising from the union of the people and the cantons. «Form» is not to be understood as a one-time historical founding act, but as an ongoing constitutive relationship: the Confederation exists from and through its members. The term «Swiss Confederation» is a more neutral term than «federal state», preserving historical continuity without prejudging the internal structure (BBl 1997 I 1, 124 f.).
 
-### d) «Swiss Confederation»
+---
 
-**N. 10** The Swiss Confederation is the official designation of the federal state. It is a subject of international law and bearer of state power at the federal level. The Latin designation «Confoederatio Helvetica» (CH) and the Romance forms are equivalent (Tschannen, Constitutional Law of the Swiss Confederation, 5th ed. 2021, § 1 N 3).
+### 4. Legal Consequences
 
-## 4. Legal Consequences
+**N. 10** Art. 1 FC establishes the existence of the cantons in a constitutionally binding manner. Any change to the number or composition of the cantons requires a constitutional revision. Whether a change to the composition of the cantons is subject to mandatory (Art. 140 para. 1 lit. a FC) or optional constitutional revision depends on the nature of the change; changes affecting Art. 1 FC itself always require a double majority (people and cantons pursuant to Art. 142 para. 1 FC). The procedure for the creation, dissolution, division and merger of cantons is further governed by Art. 53 FC (→ Art. 53 FC).
 
-**N. 11** Art. 1 FC establishes the legal personality of the Swiss Confederation. It is authorized to create rights and obligations, acquire property and appear before courts. As a federal state, it enjoys special privileges vis-à-vis the cantons, such as exemption from cantonal taxes and levies (Higher Court of Lucerne of 25.11.1992, in: SJZ 1993, 283).
+**N. 11** The most central legal consequence of the provision is its role as the foundation of the federal allocation of competences: by naming the Swiss People and the Cantons as the constituent elements of the Confederation, Art. 1 FC legitimises the residual competence of the cantons enshrined in Art. 3 FC and the federal competences set out in Art. 42 ff. FC. The cantons exercise, as Art. 3 FC makes clear, all rights not conferred upon the Confederation. Art. 1 FC is in this respect the logical starting point for every delimitation of competences between the Confederation and the cantons (Häfelin/Haller/Keller/Thurnherr, op. cit., N 731 ff.).
 
-**N. 12** The listing of cantons by name has constitutive character. A change in the composition of cantons mandatorily requires a revision of Art. 1 FC. This applies to:
-- Merger of cantons (**BGE 94 I 525**)
-- Division of cantons
-- Creation of new cantons
-- Abolition of cantons
+**N. 12** No direct subjective legal consequence: Art. 1 FC is not enforceable before the courts as an independent basis for a claim. Individuals cannot derive any rights from the provision. The Federal Supreme Court has to date invoked Art. 1 FC exclusively as an interpretive frame of reference — in particular to confirm the independence of the cantons within the federal structure and to interpret competence norms (→ N. 18 f. for case law).
 
-**N. 13** The joint mention of people and cantons establishes the dualistic principle of Swiss democracy. Constitutional amendments require the consent of the people (popular majority) and the cantons (majority of cantons) (→ Art. 140 FC). This requirement of a double majority is a direct consequence of the structure anchored in Art. 1 FC (Biaggini, FC Commentary, 2nd ed. 2017, Art. 1 N. 5).
+---
 
-## 5. Doctrinal Disputes
+### 5. Disputed Questions
 
-**N. 14** **Legal nature of the enumeration**: Häfelin/Haller/Keller/Thurnherr (Federal Constitutional Law, N 883) qualify the enumeration of cantons as constitutive. Ehrenzeller (St. Gallen Commentary, Art. 1 N. 8) argues, by contrast, that the enumeration has primarily declaratory character, since the cantons already existed before the Federal Constitution. The prevailing doctrine follows the constitutive theory, since the constitutional position of the cantons is first established by Art. 1 FC (also Rhinow/Schefer/Uebersax, Constitutional Law, § 5 N 8).
+**N. 13** *Dualism of People and Cantons — equal rank or hierarchical relationship?* The formula «The Swiss People and the Cantons form» raises the question of whether the people and the cantons are equally ranked or hierarchically ordered constituent elements of the Confederation. The prevailing doctrine regards popular sovereignty and federal statehood as equally weighted and mutually conditioning foundations of the state: neither may be reduced to the other. Rhinow/Schefer/Uebersax speak of a «dual origin» (Schweizerisches Verfassungsrecht, 3rd ed. 2016, N 9), and Biaggini holds that both elements are «constitutive» for the constitutional system (BV-Kommentar, 2nd ed. 2017, Art. 1 N. 2 f.).
 
-**N. 15** **Tension between people/cantons**: Aubert (Swiss Federalism, 2nd ed. 1991, p. 42) emphasizes the equal status of people and cantons as constituent powers. Schindler (Constitutional Law and Social Structure, 4th ed. 1971, p. 98) sees a latent tension, however, since the people as a whole embodies unitary tendencies. Recent doctrine (Waldmann, in: BSK FC, Art. 1 N. 15) understands both elements as complementary.
+**N. 14** A divergent position, according to which ultimate priority belongs to the *pouvoir constituant* of the people, is advanced by Auer/Malinverni/Hottelier: in their view, the Swiss People is the actual author of the constitution; the cantons, while also named in Art. 1 FC, ultimately derive their state existence from recognition by the Federal Constitution, whose bearer is the people (Auer/Malinverni/Hottelier, Droit constitutionnel suisse, vol. I, 3rd ed. 2013, N 253 ff.). Aubert — in agreement with the older doctrine (Burckhardt, Fleiner) — took the view that autonomous limits on constitutional revision should be rejected, which implicitly confirms the primacy of the sovereign people's *pouvoir constituant* over the cantons (Aubert, Traité de droit constitutionnel suisse, 1967, N 332; cf. also **BGE 94 I 525** E. 9, where the Federal Supreme Court expressly left open the question of autonomous limits). This controversy is not merely theoretical: it has practical significance for the question of whether and to what extent the cantons are legally protected against constitutional revisions affecting their existence or competences.
 
-**N. 16** **Confederation vs. Federation**: Kälin (The Federal Constitution of 18 April 1999, ZBl 2000, p. 1, 8) prefers the term «Federation» as a short designation. Tschannen (Constitutional Law, § 1 N 4) objects that «Confederation» is the constitutional designation and expresses historical continuity. In practice, both terms are used synonymously.
+**N. 15** *Legal nature of the «half-cantons»* The concept of «half-canton» is imprecise as a matter of public law. Art. 1 FC deliberately avoids it. The communities concerned — Obwalden and Nidwalden, Basel-City and Basel-Country, Appenzell Outer Rhodes and Appenzell Inner Rhodes — are fully-fledged cantons with their own constitutions, their own law, and their own territory. Their differentiated position derives exclusively from the specific provisions concerning the federal level (Art. 142 para. 4 FC: half a cantonal vote in the popular majority; Art. 150 para. 2 FC: one Council of States seat each instead of two). Council of States member Plattner described this differentiation as an anachronism as early as 1998. Biaggini considers the designation «half-canton» a historical relic without substantive justification and advocates full equalisation (BV-Kommentar, 2nd ed. 2017, Art. 1 N. 5 f.). The contrary view, according to which the differentiated position protects historically developed characteristics that cannot be readily removed, is also held, but has found little support in more recent doctrine.
 
-## 6. Practical Notes
+**N. 16** *Order of cantons and the principle of equal treatment* Some authors have questioned whether the established order of the cantons — despite its expressly declared insignificance — implicitly suggests a hierarchy and thereby engages the principle of equal treatment. Müller/Schefer deny this: the order is purely traditional with no normative import; any other order (alphabetical, by date of accession, by population) would be equally arbitrary (Müller/Schefer, Grundrechte in der Schweiz, 4th ed. 2008, p. 641). The Message expressly rejected a change to alphabetical order (BBl 1997 I 1, 124).
 
-**N. 17** In case of territorial changes between cantons, Art. 1 FC is not affected as long as the existence of the cantons remains unchanged (→ Art. 53 para. 3 FC). Only changes in the composition of cantons make a revision of Art. 1 FC necessary.
+---
 
-**N. 18** For the practice of federal authorities, Art. 1 FC is relevant for:
-- International treaties (designation of contracting party)
-- Delimitation of powers between Confederation and cantons
-- Tax exemptions of the Confederation in the cantons
-- Procedures for cantonal mergers or divisions
+### 6. Practical Notes
 
-**N. 19** The official order of cantons according to Art. 1 FC is binding in matters of protocol, such as seating arrangements in the Council of States or at official events (Rules of the Council of States of 20 June 2003, Art. 3).
+**N. 17** *Changes to the composition of cantons* Any change to the composition of the cantons as established in Art. 1 FC requires a revision of Art. 1 FC itself, since the enumeration is exhaustive and constitutive. The procedure is governed by Art. 53 FC, which requires for the creation of a new canton the consent of the affected population, the affected cantons, and the people and cantons at the federal level. The practical significance is illustrated by the case law on the half-cantons: the Federal Supreme Court held as early as **BGE 61 I 166** E. 5 that Art. 1 FC conceived of the Canton of Basel «at least conceptually as continuing to exist», which did not preclude from the outset under federal law the reunification initiative of the two Basels. The elaborate sequence of proceedings (BGE 61 I 166; BGE 94 I 525) illustrates the constitutional hurdles that changes to cantonal composition must clear.
+
+**N. 18** *Federal autonomy in the judicial context* The federal structure pursuant to Art. 1 FC provides the interpretive framework for the competence norms of Art. 42 ff. FC. In **BGE 122 I 70** E. 1, the Federal Supreme Court emphasised that the cantons retain their competences in areas of federal law that are not exhaustively regulated, thereby confirming the independence of the cantons enshrined in Art. 1 FC as an enduring element of the federal state. In **BGE 125 II 152**, the Federal Supreme Court applied the same principle to the delimitation of federal and cantonal competences in relation to the licensing of gambling machines.
+
+**N. 19** *Art. 1 FC as an interpretive aid in tax law* The cantonal independence guaranteed by Art. 1 FC grounds the tax autonomy of the cantons, which the Federal Supreme Court in **BGE 133 I 206** E. 5 derived expressly from Art. 3 FC (in conjunction with Art. 1 FC): «The cantons are in principle free to design their tax system» — but within the limits of the Federal Constitution, in particular Art. 8 para. 1 and Art. 127 para. 2 FC. The Court struck down the regressive tax rates of Obwalden as contrary to the principle of equality, but at the same time confirmed federal tax competition as constitutionally permissible. Of practical relevance is that cantons may exercise their latitude only within the limits of federal constitutional law — a principle that has its systematic starting point in Art. 1 FC (↔ Art. 3 FC; → Art. 49 FC).
+
+**N. 20** *Non-invocability as an independent basis for a claim* Art. 1 FC has no direct effect as a subjective right. In legal practice, the provision must therefore always be cited in conjunction with an operative constitutional provision (Art. 3 FC for cantonal competences, Art. 53 FC for changes to cantonal composition, Art. 142 FC for the majority of cantons). An isolated invocation of Art. 1 FC in an appeal remains without effect.
