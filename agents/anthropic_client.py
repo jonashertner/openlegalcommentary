@@ -225,7 +225,7 @@ async def run_agent(
         )
         if use_thinking:
             create_kwargs["thinking"] = {
-                "type": "enabled",
+                "type": "adaptive",
                 "budget_tokens": 100000,
             }
         # Use streaming for thinking mode (required for >10min operations)

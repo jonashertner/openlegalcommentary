@@ -14,9 +14,8 @@ def test_default_config():
 
 def test_model_for_layer():
     config = AgentConfig()
-    # Doctrine switched from Opus to Sonnet after the Phase 0 experiment
-    # (docs/superpowers/specs/2026-04-10-phase-0-sonnet-test-results.md)
-    assert config.model_for_layer("doctrine") == "sonnet"
+    # Doctrine uses Opus 4.6 extended thinking after A/B test (2026-04-13)
+    assert config.model_for_layer("doctrine") == "opus-thinking"
     assert config.model_for_layer("caselaw") == "sonnet"
     assert config.model_for_layer("summary") == "sonnet"
 

@@ -106,45 +106,52 @@ def parse_eval_response(response_text: str) -> EvalResult:
     )
 
 
-def merge_eval_results(results: dict[str, EvalResult]) -> EvalResult:
+def merge_eval_results(
+    results: dict[str, EvalResult],
+    advisory: set[str] | None = None,
+) -> EvalResult:
     """Merge multiple evaluator results into a single verdict.
 
-    All must pass for the merged verdict to be "publish".
-    Scores take the minimum per dimension across all evaluators.
-    Feedback is combined with source labels.
+    Evaluators in ``advisory`` contribute feedback and suggestions but
+    their verdict does not block publication.  All non-advisory evaluators
+    must pass for the merged verdict to be "publish".
+    Scores take the minimum per dimension across non-advisory evaluators.
     """
     if not results:
         raise ValueError("No evaluation results to merge")
 
-    all_passed = all(r.passed for r in results.values())
+    advisory = advisory or set()
+    binding = {k: v for k, v in results.items() if k not in advisory}
+    all_passed = all(r.passed for r in binding.values()) if binding else True
 
-    # Merge scores: minimum per dimension
+    # Merge scores: minimum per dimension (binding only)
     all_dims: set[str] = set()
-    for r in results.values():
+    for r in binding.values():
         all_dims.update(r.scores.keys())
     merged_scores = {}
     for dim in all_dims:
-        values = [r.scores[dim] for r in results.values() if dim in r.scores]
+        values = [r.scores[dim] for r in binding.values() if dim in r.scores]
         merged_scores[dim] = min(values) if values else 0.0
 
-    # Merge non-negotiables: AND across evaluators
+    # Merge non-negotiables: AND across binding evaluators
     all_nn_keys: set[str] = set()
-    for r in results.values():
+    for r in binding.values():
         all_nn_keys.update(r.non_negotiables.keys())
     merged_nn = {}
     for key in all_nn_keys:
         merged_nn[key] = all(
-            r.non_negotiables.get(key, True) for r in results.values()
+            r.non_negotiables.get(key, True) for r in binding.values()
         )
 
-    # Merge feedback with source labels
+    # Merge feedback with source labels (all evaluators, incl. advisory)
     merged_blocking: list[str] = []
     merged_suggestions: list[str] = []
     for name, r in results.items():
+        label = f"[{name}]" if name not in advisory else f"[{name} advisory]"
         for issue in r.feedback.get("blocking_issues", []):
-            merged_blocking.append(f"[{name}] {issue}")
+            merged_blocking.append(f"{label} {issue}")
         for sug in r.feedback.get("improvement_suggestions", []):
-            merged_suggestions.append(f"[{name}] {sug}")
+            merged_suggestions.append(f"{label} {sug}")
 
     return EvalResult(
         verdict="publish" if all_passed else "reject",
@@ -341,4 +348,7 @@ async def evaluate_layer(
                 feedback={"blocking_issues": [f"Evaluator {name} error: {e}"]},
             )
 
-    return merge_eval_results(results)
+    # ChatGPT is advisory — its feedback is included but its verdict
+    # does not block publication (A/B test showed it lacks Swiss law
+    # domain knowledge for reliable precision/rigor scoring).
+    return merge_eval_results(results, advisory={"chatgpt"})
