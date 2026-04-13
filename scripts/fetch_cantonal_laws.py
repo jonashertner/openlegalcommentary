@@ -21,32 +21,58 @@ MCP_BASE = "https://mcp.opencaselaw.ch"
 
 # Canton → KV config with LexFind IDs from search_legislation results
 CANTON_KV_CONFIG: dict[str, dict] = {
-    "ZH": {"language": "de", "lexfind_id": 21736, "title": "Verfassung des Kantons Zürich"},
-    "BE": {"language": "de", "lexfind_id": 23149, "title": "Verfassung des Kantons Bern"},
-    "LU": {"language": "de", "lexfind_id": 10797, "title": "Verfassung des Kantons Luzern"},
-    "UR": {"language": "de", "lexfind_id": 17919, "title": "Verfassung des Kantons Uri"},
-    "SZ": {"language": "de", "lexfind_id": 17525, "title": "Verfassung des Kantons Schwyz"},
-    "OW": {"language": "de", "lexfind_id": 12769, "title": "Verfassung des Kantons Obwalden"},
-    "NW": {"language": "de", "lexfind_id": 13358, "title": "Verfassung des Kantons Nidwalden"},
-    "GL": {"language": "de", "lexfind_id": 7326, "title": "Verfassung des Kantons Glarus"},
-    "ZG": {"language": "de", "lexfind_id": 19965, "title": "Verfassung des Kantons Zug"},
-    "FR": {"language": "fr", "lexfind_id": 5674, "title": "Constitution du canton de Fribourg"},
-    "SO": {"language": "de", "lexfind_id": 15261, "title": "Verfassung des Kantons Solothurn"},
-    "BS": {"language": "de", "lexfind_id": 3293, "title": "Verfassung des Kantons Basel-Stadt"},
-    "BL": {"language": "de", "lexfind_id": 3696, "title": "Verfassung des Kantons Basel-Landschaft"},
-    "SH": {"language": "de", "lexfind_id": 14100, "title": "Verfassung des Kantons Schaffhausen"},
-    "AR": {"language": "de", "lexfind_id": 2368, "title": "Verfassung des Kantons Appenzell A.Rh."},
-    "AI": {"language": "de", "lexfind_id": 1209, "title": "Verfassung für den Eidgenössischen Stand Appenzell I. Rh."},
-    "SG": {"language": "de", "lexfind_id": 14551, "title": "Verfassung des Kantons St.Gallen"},
-    "GR": {"language": "de", "lexfind_id": 9576, "title": "Verfassung des Kantons Graubünden"},
-    "AG": {"language": "de", "lexfind_id": 25, "title": "Verfassung des Kantons Aargau"},
-    "TG": {"language": "de", "lexfind_id": 17412, "title": "Verfassung des Kantons Thurgau"},
-    "TI": {"language": "it", "lexfind_id": 20038, "title": "Costituzione della Repubblica e Cantone Ticino"},
-    "VD": {"language": "fr", "lexfind_id": 18476, "title": "Constitution du Canton de Vaud"},
-    "VS": {"language": "de", "lexfind_id": 19030, "title": "Verfassung des Kantons Wallis"},
-    "NE": {"language": "fr", "lexfind_id": 9978, "title": "Constitution de la République et Canton de Neuchâtel"},
-    "GE": {"language": "fr", "lexfind_id": 31535, "title": "Constitution de la République et canton de Genève"},
-    "JU": {"language": "fr", "lexfind_id": 8442, "title": "Constitution de la République et Canton du Jura"},
+    "ZH": {"language": "de", "lexfind_id": 21736,
+            "title": "Verfassung des Kantons Zürich"},
+    "BE": {"language": "de", "lexfind_id": 23149,
+            "title": "Verfassung des Kantons Bern"},
+    "LU": {"language": "de", "lexfind_id": 10797,
+            "title": "Verfassung des Kantons Luzern"},
+    "UR": {"language": "de", "lexfind_id": 17919,
+            "title": "Verfassung des Kantons Uri"},
+    "SZ": {"language": "de", "lexfind_id": 17525,
+            "title": "Verfassung des Kantons Schwyz"},
+    "OW": {"language": "de", "lexfind_id": 12769,
+            "title": "Verfassung des Kantons Obwalden"},
+    "NW": {"language": "de", "lexfind_id": 13358,
+            "title": "Verfassung des Kantons Nidwalden"},
+    "GL": {"language": "de", "lexfind_id": 7326,
+            "title": "Verfassung des Kantons Glarus"},
+    "ZG": {"language": "de", "lexfind_id": 19965,
+            "title": "Verfassung des Kantons Zug"},
+    "FR": {"language": "fr", "lexfind_id": 5674,
+            "title": "Constitution du canton de Fribourg"},
+    "SO": {"language": "de", "lexfind_id": 15261,
+            "title": "Verfassung des Kantons Solothurn"},
+    "BS": {"language": "de", "lexfind_id": 3293,
+            "title": "Verfassung des Kantons Basel-Stadt"},
+    "BL": {"language": "de", "lexfind_id": 3696,
+            "title": "Verfassung des Kantons Basel-Landschaft"},
+    "SH": {"language": "de", "lexfind_id": 14100,
+            "title": "Verfassung des Kantons Schaffhausen"},
+    "AR": {"language": "de", "lexfind_id": 2368,
+            "title": "Verfassung des Kantons Appenzell A.Rh."},
+    "AI": {"language": "de", "lexfind_id": 1209,
+            "title": "Verfassung für den Eidg. Stand Appenzell I.Rh."},
+    "SG": {"language": "de", "lexfind_id": 14551,
+            "title": "Verfassung des Kantons St.Gallen"},
+    "GR": {"language": "de", "lexfind_id": 9576,
+            "title": "Verfassung des Kantons Graubünden"},
+    "AG": {"language": "de", "lexfind_id": 25,
+            "title": "Verfassung des Kantons Aargau"},
+    "TG": {"language": "de", "lexfind_id": 17412,
+            "title": "Verfassung des Kantons Thurgau"},
+    "TI": {"language": "it", "lexfind_id": 20038,
+            "title": "Costituzione della Repubblica e Cantone Ticino"},
+    "VD": {"language": "fr", "lexfind_id": 18476,
+            "title": "Constitution du Canton de Vaud"},
+    "VS": {"language": "de", "lexfind_id": 19030,
+            "title": "Verfassung des Kantons Wallis"},
+    "NE": {"language": "fr", "lexfind_id": 9978,
+            "title": "Constitution de la Rép. et Canton de Neuchâtel"},
+    "GE": {"language": "fr", "lexfind_id": 31535,
+            "title": "Constitution de la Rép. et canton de Genève"},
+    "JU": {"language": "fr", "lexfind_id": 8442,
+            "title": "Constitution de la Rép. et Canton du Jura"},
 }
 
 
@@ -185,7 +211,11 @@ def parse_article_text(text: str) -> list[dict]:
                 continue
 
         # Unnumbered paragraph — append to previous if it looks like continuation
-        if paragraphs and not line[0].isupper() and not line.startswith("a.") and not line.startswith("a)"):
+        is_continuation = (
+            paragraphs and not line[0].isupper()
+            and not line.startswith("a.") and not line.startswith("a)")
+        )
+        if is_continuation:
             # Continuation of previous paragraph
             prev = paragraphs[-1]
             prev["text"] = prev["text"] + " " + line
@@ -242,7 +272,8 @@ async def fetch_cantonal_kv(canton: str, concurrency: int = 5) -> Path:
                         await asyncio.sleep(2 ** attempt)  # 2s, 4s backoff
                     art_text = await mcp_call(
                         MCP_BASE, "get_law",
-                        {"canton": canton, "sr_number": sr, "article": raw, "language": cfg["language"]},
+                        {"canton": canton, "sr_number": sr,
+                         "article": raw, "language": cfg["language"]},
                         timeout=30.0,
                     )
                     article_texts[raw] = parse_single_article_response(art_text)
@@ -275,13 +306,28 @@ async def fetch_cantonal_kv(canton: str, concurrency: int = 5) -> Path:
     return out_path
 
 
-async def fetch_all(cantons: list[str]) -> None:
-    """Fetch KVs for all specified cantons sequentially."""
-    for canton in cantons:
+async def fetch_all(cantons: list[str], pause: float = 10.0) -> None:
+    """Fetch KVs for all specified cantons sequentially with pauses."""
+    for i, canton in enumerate(cantons):
+        # Skip cantons that already have data
+        slug = f"{canton.lower()}-kv"
+        existing = CANTONAL_DIR / f"{slug}.json"
+        if existing.exists():
+            import json as _json
+            data = _json.loads(existing.read_text())
+            texts_ok = sum(1 for v in data.get("article_texts", {}).values() if v)
+            if texts_ok > 0 and texts_ok >= data.get("article_count", 0) * 0.9:
+                print(f"  SKIP {canton}: already have {texts_ok}/{data['article_count']} articles")
+                continue
         try:
-            await fetch_cantonal_kv(canton)
+            await fetch_cantonal_kv(canton, concurrency=2)
+            if i < len(cantons) - 1:
+                print(f"    Pausing {pause}s before next canton...")
+                await asyncio.sleep(pause)
         except Exception as e:
             print(f"  ERROR fetching {canton}: {e}")
+            # Wait longer after an error
+            await asyncio.sleep(pause * 3)
 
 
 if __name__ == "__main__":
