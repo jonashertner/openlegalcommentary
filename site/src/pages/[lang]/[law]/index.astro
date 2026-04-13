@@ -5,14 +5,16 @@ import { langBase, langHome } from '@/lib/base';
 import Base from '../../../layouts/Base.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
 import { LAWS, getLawByAbbr } from '../../../lib/laws';
-import { listArticles, getLawStats, getTranslatedTitle } from '../../../lib/content';
+import { listArticles, getLawStats, getTranslatedTitle, listCantonalLawSlugs } from '../../../lib/content';
 import fs from 'node:fs';
 import path from 'node:path';
 
 export function getStaticPaths() {
-  const laws = ['bv', 'zgb', 'or', 'zpo', 'stgb', 'stpo', 'schkg', 'vwvg', 'bgfa'];
+  const federalSlugs = LAWS.map(l => l.slug);
+  const cantonalSlugs = listCantonalLawSlugs();
+  const allSlugs = [...federalSlugs, ...cantonalSlugs];
   return LANGS.flatMap(lang =>
-    laws.map(law => ({ params: { lang, law } }))
+    allSlugs.map(law => ({ params: { lang, law } }))
   );
 }
 
