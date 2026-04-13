@@ -267,6 +267,63 @@ def build_evaluator_prompt(guidelines_root: Path) -> str:
     )
 
 
+def build_evaluator_prompt_inline(guidelines_root: Path) -> str:
+    """Build evaluator system prompt for non-tool evaluators (OpenAI/xAI).
+
+    Same rubric as build_evaluator_prompt(), but instructs the evaluator
+    to evaluate the content provided directly in the user message rather
+    than reading it via tools.
+    """
+    evaluate_md = (guidelines_root / "evaluate.md").read_text()
+
+    return (
+        "You are the quality evaluator for openlegalcommentary.ch. Your role is to "
+        "assess whether generated commentary meets the publication threshold.\n\n"
+        "You evaluate rigorously and objectively. "
+        "You do not generate commentary — you only judge it.\n\n"
+        f"## Evaluation Rubric\n\n{evaluate_md}\n\n"
+        "## Your Task\n\n"
+        "The generated content, article text, and reference data are provided "
+        "directly in the user message below. Evaluate the content against the rubric.\n\n"
+        "1. Evaluate against all non-negotiable criteria (binary pass/fail)\n"
+        "2. Score all five dimensions (0.0\u20131.0)\n"
+        "3. When doctrinal reference data is provided, cross-check cited BSK/CR "
+        "authors and Randziffern against the reference data\n"
+        "4. When preparatory materials reference data is provided, verify that "
+        "cited BBl page references and legislative intent claims match the "
+        "reference data. Reject fabricated Botschaft quotes.\n"
+        "5. Do NOT reject content solely because you cannot "
+        "verify external citations \u2014 evaluate what is written.\n"
+        "6. Return your verdict as JSON in EXACTLY this format:\n\n"
+        "```json\n"
+        "{\n"
+        '  "verdict": "publish" or "reject",\n'
+        '  "non_negotiables": {\n'
+        '    "keine_unbelegten_rechtsaussagen": true/false,\n'
+        '    "keine_faktischen_fehler": true/false,\n'
+        '    "keine_fehlenden_leitentscheide": true/false,\n'
+        '    "korrekte_legalbegriffe": true/false,\n'
+        '    "strukturelle_vollstaendigkeit": true/false\n'
+        "  },\n"
+        '  "scores": {\n'
+        '    "praezision": 0.00,\n'
+        '    "konzision": 0.00,\n'
+        '    "zugaenglichkeit": 0.00,\n'
+        '    "relevanz": 0.00,\n'
+        '    "akademische_strenge": 0.00\n'
+        "  },\n"
+        '  "feedback": {\n'
+        '    "blocking_issues": ["..."],\n'
+        '    "improvement_suggestions": ["..."]\n'
+        "  }\n"
+        "}\n"
+        "```\n\n"
+        'A "publish" verdict requires ALL non-negotiables to be true AND all scores to '
+        "meet thresholds (precision \u2265 0.95, concision \u2265 0.90, "
+        "accessibility \u2265 0.90, relevance \u2265 0.90, academic rigor \u2265 0.95)."
+    )
+
+
 def build_translator_prompt(guidelines_root: Path, target_lang: str) -> str:
     """Build the system prompt for the translator agent."""
     lang_config = {

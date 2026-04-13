@@ -3,22 +3,45 @@
 Evaluates layers against guidelines/evaluate.md criteria:
 - 5 non-negotiable binary checks (any failure = reject)
 - 5 scored dimensions with thresholds (all must meet minimum)
+
+Supports cross-model evaluation: Claude Opus (primary, tool-based),
+plus optional ChatGPT and Grok evaluators via OpenAI-compatible API.
+All evaluators must pass for the merged verdict to be "publish".
 """
 from __future__ import annotations
 
+import asyncio
 import json
+import logging
+import os
 import re
 from dataclasses import dataclass, field
 
 from agents.anthropic_client import run_agent
 from agents.config import AgentConfig
-from agents.prompts import build_evaluator_prompt
+from agents.openai_client import run_evaluation as run_openai_evaluation
+from agents.prompts import build_evaluator_prompt, build_evaluator_prompt_inline
 from agents.references import (
     format_article_text,
     format_commentary_refs,
     format_preparatory_materials,
 )
 from agents.tools.content import create_content_tools
+
+logger = logging.getLogger(__name__)
+
+EVALUATOR_REGISTRY = {
+    "chatgpt": {
+        "model": "chatgpt-5.4-pro",
+        "base_url": "https://api.openai.com/v1",
+        "api_key_env": "OPENAI_API_KEY",
+    },
+    "grok": {
+        "model": "grok-4.20-0309-reasoning",
+        "base_url": "https://api.x.ai/v1",
+        "api_key_env": "XAI_API_KEY",
+    },
+}
 
 
 @dataclass
@@ -83,17 +106,102 @@ def parse_eval_response(response_text: str) -> EvalResult:
     )
 
 
-async def evaluate_layer(
+def merge_eval_results(results: dict[str, EvalResult]) -> EvalResult:
+    """Merge multiple evaluator results into a single verdict.
+
+    All must pass for the merged verdict to be "publish".
+    Scores take the minimum per dimension across all evaluators.
+    Feedback is combined with source labels.
+    """
+    if not results:
+        raise ValueError("No evaluation results to merge")
+
+    all_passed = all(r.passed for r in results.values())
+
+    # Merge scores: minimum per dimension
+    all_dims: set[str] = set()
+    for r in results.values():
+        all_dims.update(r.scores.keys())
+    merged_scores = {}
+    for dim in all_dims:
+        values = [r.scores[dim] for r in results.values() if dim in r.scores]
+        merged_scores[dim] = min(values) if values else 0.0
+
+    # Merge non-negotiables: AND across evaluators
+    all_nn_keys: set[str] = set()
+    for r in results.values():
+        all_nn_keys.update(r.non_negotiables.keys())
+    merged_nn = {}
+    for key in all_nn_keys:
+        merged_nn[key] = all(
+            r.non_negotiables.get(key, True) for r in results.values()
+        )
+
+    # Merge feedback with source labels
+    merged_blocking: list[str] = []
+    merged_suggestions: list[str] = []
+    for name, r in results.items():
+        for issue in r.feedback.get("blocking_issues", []):
+            merged_blocking.append(f"[{name}] {issue}")
+        for sug in r.feedback.get("improvement_suggestions", []):
+            merged_suggestions.append(f"[{name}] {sug}")
+
+    return EvalResult(
+        verdict="publish" if all_passed else "reject",
+        non_negotiables=merged_nn,
+        scores=merged_scores,
+        feedback={
+            "blocking_issues": merged_blocking,
+            "improvement_suggestions": merged_suggestions,
+        },
+    )
+
+
+def _build_inline_eval_prompt(
+    config: AgentConfig,
+    law: str,
+    article_number: int,
+    article_suffix: str,
+    layer_type: str,
+) -> str:
+    """Build a content-inlined evaluation prompt for external evaluators."""
+    suffix_str = article_suffix or ""
+    dir_name = f"art-{article_number:03d}{suffix_str}"
+    layer_path = config.content_root / law.lower() / dir_name / f"{layer_type}.md"
+    layer_content = layer_path.read_text() if layer_path.exists() else ""
+
+    article_text = format_article_text(law, article_number, suffix_str)
+
+    parts = [
+        f"Evaluate the {layer_type} layer for "
+        f"Art. {article_number}{suffix_str} {law}.",
+    ]
+    if article_text:
+        parts.append(f"\n## Gesetzestext\n\n{article_text}")
+    parts.append(f"\n## Generated Content\n\n{layer_content}")
+
+    if layer_type in ("doctrine", "summary"):
+        refs = format_commentary_refs(
+            config.commentary_refs_root, law, article_number, suffix_str,
+        )
+        if refs:
+            parts.append(f"\n\n{refs}")
+        prep = format_preparatory_materials(law, article_number, suffix_str)
+        if prep:
+            parts.append(f"\n\n{prep}")
+
+    parts.append("\nReturn your JSON verdict.")
+    return "\n".join(parts)
+
+
+async def _evaluate_anthropic(
     config: AgentConfig,
     law: str,
     article_number: int,
     article_suffix: str,
     layer_type: str,
 ) -> EvalResult:
-    """Run the evaluator agent on a generated layer.
-
-    Returns an EvalResult with verdict, scores, and feedback.
-    """
+    """Run the Claude Opus evaluator (tool-based)."""
     system_prompt = build_evaluator_prompt(config.guidelines_root)
 
     content_tools = create_content_tools(config.content_root)
@@ -152,3 +260,85 @@ async def evaluate_layer(
     )
 
     return parse_eval_response(response_text)
+
+
+async def _evaluate_external(
+    config: AgentConfig,
+    law: str,
+    article_number: int,
+    article_suffix: str,
+    layer_type: str,
+    model: str,
+    base_url: str,
+    api_key_env: str,
+) -> EvalResult:
+    """Run an external evaluator (ChatGPT/Grok) via OpenAI-compatible API."""
+    system_prompt = build_evaluator_prompt_inline(config.guidelines_root)
+    prompt = _build_inline_eval_prompt(
+        config, law, article_number, article_suffix, layer_type,
+    )
+    response_text, _ = await run_openai_evaluation(
+        system_prompt=system_prompt,
+        prompt=prompt,
+        model=model,
+        base_url=base_url,
+        api_key_env=api_key_env,
+    )
+    return parse_eval_response(response_text)
+
+
+async def evaluate_layer(
+    config: AgentConfig,
+    law: str,
+    article_number: int,
+    article_suffix: str,
+    layer_type: str,
+) -> EvalResult:
+    """Run evaluation across all configured evaluators.
+
+    Returns a single merged EvalResult. All evaluators must pass
+    for the merged verdict to be "publish".
+    """
+    tasks: dict[str, asyncio.Task] = {}
+
+    # Always run Claude Opus
+    tasks["claude"] = asyncio.ensure_future(
+        _evaluate_anthropic(config, law, article_number, article_suffix, layer_type)
+    )
+
+    # External evaluators — skip if API key not set
+    for eval_key, eval_cfg in EVALUATOR_REGISTRY.items():
+        if not os.environ.get(eval_cfg["api_key_env"]):
+            logger.info(
+                "Skipping %s evaluator — %s not set",
+                eval_key, eval_cfg["api_key_env"],
+            )
+            continue
+        tasks[eval_key] = asyncio.ensure_future(
+            _evaluate_external(
+                config, law, article_number, article_suffix, layer_type,
+                model=eval_cfg["model"],
+                base_url=eval_cfg["base_url"],
+                api_key_env=eval_cfg["api_key_env"],
+            )
+        )
+
+    # Await all
+    results: dict[str, EvalResult] = {}
+    for name, task in tasks.items():
+        try:
+            results[name] = await task
+            logger.info(
+                "Evaluator %s: verdict=%s scores=%s",
+                name, results[name].verdict, results[name].scores,
+            )
+        except Exception as e:
+            logger.error(
+                "Evaluator %s failed: %s — treating as reject", name, e,
+            )
+            results[name] = EvalResult(
+                verdict="reject",
+                feedback={"blocking_issues": [f"Evaluator {name} error: {e}"]},
+            )
+
+    return merge_eval_results(results)

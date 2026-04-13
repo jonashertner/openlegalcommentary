@@ -8,7 +8,12 @@ from unittest.mock import AsyncMock, patch
 import pytest
 
 from agents.config import AgentConfig
-from agents.evaluator import EvalResult, evaluate_layer, parse_eval_response
+from agents.evaluator import (
+    EvalResult,
+    evaluate_layer,
+    merge_eval_results,
+    parse_eval_response,
+)
 
 
 def test_eval_result_passed():
@@ -105,3 +110,74 @@ def test_evaluate_layer_calls_query(config):
     with patch("agents.evaluator.run_agent", mock_run):
         result = asyncio.run(evaluate_layer(config, "OR", 41, "", "summary"))
         assert result.verdict == "publish"
+
+
+def test_merge_eval_results_all_pass():
+    results = {
+        "claude": EvalResult(
+            verdict="publish",
+            non_negotiables={"keine_unbelegten_rechtsaussagen": True},
+            scores={"praezision": 0.97},
+            feedback={"blocking_issues": [], "improvement_suggestions": []},
+        ),
+        "chatgpt": EvalResult(
+            verdict="publish",
+            non_negotiables={"keine_unbelegten_rechtsaussagen": True},
+            scores={"praezision": 0.95},
+            feedback={"blocking_issues": [], "improvement_suggestions": []},
+        ),
+        "grok": EvalResult(
+            verdict="publish",
+            non_negotiables={"keine_unbelegten_rechtsaussagen": True},
+            scores={"praezision": 0.96},
+            feedback={"blocking_issues": [], "improvement_suggestions": []},
+        ),
+    }
+    merged = merge_eval_results(results)
+    assert merged.passed is True
+    assert merged.scores["praezision"] == 0.95  # minimum
+
+
+def test_merge_eval_results_one_rejects():
+    results = {
+        "claude": EvalResult(
+            verdict="publish",
+            non_negotiables={"keine_unbelegten_rechtsaussagen": True},
+            scores={"praezision": 0.97},
+            feedback={"blocking_issues": []},
+        ),
+        "chatgpt": EvalResult(
+            verdict="reject",
+            non_negotiables={"keine_unbelegten_rechtsaussagen": False},
+            scores={"praezision": 0.80},
+            feedback={"blocking_issues": ["Missing source in N. 3"]},
+        ),
+        "grok": EvalResult(
+            verdict="publish",
+            non_negotiables={"keine_unbelegten_rechtsaussagen": True},
+            scores={"praezision": 0.96},
+            feedback={"blocking_issues": []},
+        ),
+    }
+    merged = merge_eval_results(results)
+    assert merged.passed is False
+    assert "[chatgpt]" in merged.feedback_text().lower()
+
+
+def test_merge_eval_results_all_reject():
+    results = {
+        "claude": EvalResult(
+            verdict="reject", non_negotiables={}, scores={"praezision": 0.80},
+            feedback={"blocking_issues": ["Issue A"]},
+        ),
+        "grok": EvalResult(
+            verdict="reject", non_negotiables={}, scores={"praezision": 0.75},
+            feedback={"blocking_issues": ["Issue B"]},
+        ),
+    }
+    merged = merge_eval_results(results)
+    assert merged.passed is False
+    assert merged.scores["praezision"] == 0.75
+    text = merged.feedback_text()
+    assert "Issue A" in text
+    assert "Issue B" in text
