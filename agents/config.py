@@ -27,6 +27,11 @@ class AgentConfig:
     model_evaluator: str = "opus"
     model_translator: str = "sonnet"
 
+    # Cross-model evaluation
+    model_evaluator_2: str = "chatgpt"
+    model_evaluator_3: str = "grok"
+    evaluator_mode: str = "all_must_pass"  # "all_must_pass", "majority", "claude_only"
+
     commentary_refs_root: Path = field(
         default_factory=lambda: Path("scripts/commentary_refs"),
     )

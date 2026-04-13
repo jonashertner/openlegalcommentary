@@ -14,6 +14,7 @@ logger = logging.getLogger(__name__)
 # Model mapping from short names to API model IDs
 MODEL_MAP = {
     "opus": "claude-opus-4-6",
+    "opus-thinking": "claude-opus-4-6",
     "sonnet": "claude-sonnet-4-6",
 }
 
@@ -175,6 +176,7 @@ async def run_agent(
     Returns (final_text_response, estimated_cost_usd).
     """
     model_id = MODEL_MAP.get(model, model)
+    use_thinking = model == "opus-thinking"
     client = anthropic.Anthropic()
 
     # Build tool list from allowed tools
@@ -197,6 +199,7 @@ async def run_agent(
     total_cache_creation_tokens = 0
     total_cache_read_tokens = 0
     total_output_tokens = 0
+    total_thinking_tokens = 0
     final_text = ""
 
     # System prompt as a cache-marked content block so the ~15k-token static
@@ -213,13 +216,19 @@ async def run_agent(
     ]
 
     for turn in range(max_turns):
-        response = client.messages.create(
+        create_kwargs = dict(
             model=model_id,
-            max_tokens=8192,
+            max_tokens=16384 if use_thinking else 8192,
             system=system_blocks,
             tools=tool_schemas,
             messages=messages,
         )
+        if use_thinking:
+            create_kwargs["thinking"] = {
+                "type": "enabled",
+                "budget_tokens": 100000,
+            }
+        response = client.messages.create(**create_kwargs)
 
         usage = response.usage
         total_input_tokens += usage.input_tokens
@@ -229,6 +238,9 @@ async def run_agent(
         ) or 0
         total_cache_read_tokens += getattr(
             usage, "cache_read_input_tokens", 0,
+        ) or 0
+        total_thinking_tokens += getattr(
+            usage, "thinking_tokens", 0,
         ) or 0
         logger.debug(
             "turn %d usage: input=%d cache_write=%s cache_read=%s output=%d",
@@ -312,16 +324,17 @@ async def run_agent(
         total_input_tokens * input_rate
         + total_cache_creation_tokens * cache_write_rate
         + total_cache_read_tokens * cache_read_rate
-        + total_output_tokens * output_rate
+        + (total_output_tokens + total_thinking_tokens) * output_rate
     ) / 1_000_000
 
     logger.info(
-        "run_agent(%s) totals: input=%d cache_write=%d cache_read=%d output=%d cost=$%.4f",
+        "run_agent(%s) totals: in=%d cw=%d cr=%d out=%d think=%d cost=$%.4f",
         model,
         total_input_tokens,
         total_cache_creation_tokens,
         total_cache_read_tokens,
         total_output_tokens,
+        total_thinking_tokens,
         cost,
     )
 
