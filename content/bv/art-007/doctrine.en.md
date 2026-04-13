@@ -1,56 +1,83 @@
-# Doctrine
+# Art. 7 FC — Human Dignity
 
-## 1. History of Origins
+## Doctrine
 
-**N. 1** Human dignity was explicitly enshrined as a fundamental right for the first time in the total revision of the Federal Constitution in 1999. In the Federal Council's Message on the new Federal Constitution of 20 November 1996, human dignity is described as the «guiding principle of fundamental rights» (BBl 1997 I 1, 140). The Federal Council emphasised that human dignity is «inviolable, inalienable and unforfeitable» and represents the «supreme fundamental value of the Constitution» (BBl 1997 I 1, 140).
+### 1. Legislative History
 
-**N. 2** Even before 1999, human dignity was recognised as an unwritten constitutional principle. The Federal Supreme Court derived it from various fundamental rights guarantees, particularly from personal freedom and the prohibition of inhuman treatment. Art. 7 Fed. Const. provided this principle with an explicit constitutional basis.
+**N. 1** Art. 7 FC is a new creation of the constitutional reform of 1999. The old Federal Constitution of 1874 contained no explicit guarantee of human dignity; only Art. 119 para. 2 oFC (reproductive medicine and genetic technology) and Art. 119a para. 1 oFC (transplantation medicine) contained sector-specific references. The Federal Supreme Court had already previously recognised human dignity as a general protected interest and a general constitutional principle, and had invoked it in connection with the unwritten fundamental right of personal liberty (cf. **BGE 97 I 45** cons. 3).
 
-## 2. Systematic Classification
+**N. 2** The Federal Council set out the conception of the provision comprehensively in its Message on the Federal Constitution of 20 November 1996 (BBl 1997 I 139 ff.). It described human dignity as the «core and reference point of other fundamental rights», which outline their substance and serve as a guiding standard for their concretisation. Art. 7 FC constitutes «in a sense a subsidiary catch-all fundamental right» (BBl 1997 I 140). At the same time, the Federal Council noted that the right to a decent burial (Art. 53 para. 2 oFC) would no longer be expressly included in the new FC, as it was encompassed by human dignity (BBl 1997 I 111).
 
-**N. 3** Art. 7 Fed. Const. stands at the beginning of the catalogue of fundamental rights and forms the foundation of the entire fundamental rights order. Human dignity is both an independent fundamental right and an interpretative principle for all other fundamental rights (Schefer, Bedrohungen der Menschenwürde, 2003, p. 142; Mastronardi, in: St. Galler Kommentar BV, 4th ed. 2023, Art. 7 N 15).
+**N. 3** The Federal Council deliberately chose the formulation «to be respected and protected» instead of the absolute formulation «inviolable» or «untouchable», as several respondents in the consultation procedure had demanded and as Art. 1 para. 1 of the German Basic Law provides (BBl 1997 I 141). The dual formulation encodes a twofold structure of State obligations: respect as a duty to refrain (negative aspect) and protection as a duty to act (positive aspect) (BBl 1997 I 563, 590). Human dignity was thus to be conceived not as an absolutely non-derogable right, but as a subsidiary catch-all fundamental right.
 
-**N. 4** The systematic references are manifold:
-- → Art. 8 Fed. Const. (equality before the law): discrimination violates human dignity
-- → Art. 10 para. 2 Fed. Const. (right to personal liberty): concretises the protection of dignity for physical and mental integrity
-- ↔ Art. 12 Fed. Const. (right to assistance when in need): guarantees what is essential for a dignified existence
-- → Art. 36 Fed. Const.: Human dignity has no restrictable area; its core content is absolutely protected
+**N. 4** In the parliamentary deliberations, Art. 7 FC (human dignity) as such was not at the centre of controversy; the debates focused on other provisions of the catalogue of fundamental rights, notably the prohibition of discrimination (→ Art. 8 FC). The final votes in both chambers on 18 December 1998 and in the Council of States and the National Council on 8 October 1999 led to the adoption of the Federal Constitution in its current form.
 
-**N. 5** At the international level, human dignity is found in Art. 1 of the Universal Declaration of Human Rights and is concretised through Art. 3 ECHR (prohibition of inhuman treatment) and Art. 7 UN Covenant II.
+---
 
-## 3. Normative Content
+### 2. Systematic Classification
 
-**N. 6** Human dignity encompasses two dimensions: The **duty to respect** obliges the state to respect the dignity of every human being. The **duty to protect** requires active measures to protect human dignity from interference by third parties (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, N 1169).
+**N. 5** Art. 7 FC opens the catalogue of fundamental rights (Art. 7–36 FC) and occupies a special position within it: the provision stands before and above the specific liberty rights and social rights, and shapes the entire fundamental rights order as a foundational value. The Federal Supreme Court qualifies Art. 7 FC as a «guiding principle for all State activity» and the «innermost core» of the liberty rights (**BGE 127 I 6** cons. 5b; **BGE 132 I 49** cons. 5.1).
 
-**N. 7** The concept of dignity must be determined objectively. What matters is not the subjective perception of the person concerned, but an objective assessment of whether the treatment in question degrades the person to a mere object (Kiener/Kälin/Wyttenbach, Grundrechte, 3rd ed. 2018, § 11 N 4). The Federal Supreme Court speaks of the instrumentalisation of the person and the negation of their subject status (**BGE 127 I 6** E. 5b).
+**N. 6** Unlike the fundamental rights of Art. 10–34 FC, Art. 7 FC is not primarily conceived as a subjective defensive right; rather, it exerts its effect principally through its radiating effect and as a standard of interpretation. Human dignity forms the normative basis for the guarantee of the essential core in Art. 36 para. 4 FC (→ Art. 36 FC) as well as for the prohibition of degrading treatment in Art. 10 para. 3 FC (↔ Art. 10 FC). The right to emergency assistance (→ Art. 12 FC) is, according to consistent case law, directly oriented towards Art. 7 FC (**BGE 131 I 166** cons. 7.1).
 
-**N. 8** Concrete manifestations of human dignity are:
-- Prohibition of degrading and inhuman treatment
-- Protection of physical and psychological integrity
-- Right to a dignified subsistence minimum
-- Respect for personal identity
-- Prohibition of total surveillance
+**N. 7** In international law, human dignity finds expression in particular in Art. 1 of the Universal Declaration of Human Rights (UDHR; Resolution 217 A [III] of the UN General Assembly of 10 December 1948), according to which all human beings are born free and equal in dignity and rights. The prohibition of inhuman or degrading treatment is set out in Art. 3 ECHR and Art. 7 UN Covenant II (SR 0.103.2), which the Federal Supreme Court regularly invokes alongside Art. 7 FC (BBl 1997 I 139 f.; **BGE 127 I 6** cons. 5c–e).
 
-## 4. Legal Consequences
+**N. 8** Human dignity is furthermore expressly enshrined in specific subject-matter areas: Art. 119 para. 2 FC (reproductive medicine), Art. 119a para. 1 FC (transplantation medicine), Art. 120 FC (genetic technology in non-human areas). These sector-specific guarantees give concrete expression to Art. 7 FC without displacing it.
 
-**N. 9** Human dignity is **absolutely protected**. It has no area that can be restricted under Art. 36 Fed. Const. (Müller/Schefer, Grundrechte in der Schweiz, 4th ed. 2008, p. 4; Biaggini, BV-Kommentar, 2nd ed. 2017, Art. 7 N 8). Every violation of human dignity is simultaneously a violation of the essential content.
+---
 
-**N. 10** As an independently invocable fundamental right, Art. 7 Fed. Const. only applies subsidiarily when no more specific fundamental right is applicable (**BGE 132 I 49** E. 5.1). In practice, human dignity is usually examined in connection with other fundamental rights, whose interpretation it shapes.
+### 3. Elements of the Provision / Normative Content
 
-**N. 11** The duty to protect obliges the state to take active action. It must create legal foundations and take precautions to protect human dignity from interference by private parties (Waldmann, in: BSK BV, 2nd ed. 2024, Art. 7 N 28).
+**N. 9** According to its wording, Art. 7 FC contains an instruction to the State («to be respected and protected»), rather than a classical guarantee of rights for the individual. Since **BGE 127 I 6** cons. 5b, the Federal Supreme Court has developed a three-part doctrine of functions:
 
-## 5. Points of Contention
+1. **Guiding principle**: Art. 7 FC is a standard for all State activity and a maxim of interpretation for all other fundamental rights.
+2. **Innermost core of the liberty rights**: Art. 7 FC forms the normative basis of personality-related fundamental rights and underpins the guarantee of the essential core in Art. 36 para. 4 FC.
+3. **Subsidiary catch-all fundamental right**: Art. 7 FC can, in specially situated constellations, develop an autonomous fundamental rights content that goes beyond the more specific guarantees (BBl 1997 I 140 f.; **BGE 132 I 49** cons. 5.1).
 
-**N. 12** **Scope of the duty to protect**: Müller/Schefer (Grundrechte in der Schweiz, 4th ed. 2008, p. 6) advocate for a broad scope of protection and derive comprehensive state obligations to act from Art. 7 Fed. Const. In contrast, Kiener/Kälin/Wyttenbach (Grundrechte, 3rd ed. 2018, § 11 N 16) argue for a restrained interpretation of protective duties in order to preserve the legislature's freedom of action.
+**N. 10** The substantive content of human dignity resists any definitive positive determination. The Federal Supreme Court describes it in **BGE 132 I 49** cons. 5.1 as «that which is ultimately ungraspable about the human being and humanity», oriented towards «recognition of the individual in his or her own inherent worth and individual uniqueness and possible distinctiveness». This openness of the normative content is conceptually intentional: Müller/Schefer, Grundrechte in der Schweiz, 4th ed. 2008, p. 1 describe human dignity as the supreme constitutive principle to which the other fundamental rights owe the quality of their binding force.
 
-**N. 13** **Relationship to Art. 12 Fed. Const.**: Mastronardi (in: St. Galler Kommentar BV, 4th ed. 2023, Art. 7 N 42) sees Art. 12 Fed. Const. as a special manifestation of human dignity in the social sphere. In contrast, Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3rd ed. 2016, N 1185) emphasise the independence of Art. 12 Fed. Const. as a social fundamental right with its own contours.
+**N. 11** The duty to respect (negative aspect) obliges the State to refrain from encroachments on human dignity. It is most clearly relevant in constellations of inhuman or degrading treatment — for example in conditions of detention (**BGE 140 I 125** cons. 3.6.3), compulsory treatment (**BGE 130 I 16** cons. 3), and deportation proceedings. The duty to protect (positive aspect) obliges the State to take active steps where dignity is threatened by private or structural factors.
 
-**N. 14** **Bioethical questions**: In preimplantation diagnosis and stem cell research, it is disputed when protection of dignity begins. Rütsche (Rechtsstaatliche Grenzen der Fortpflanzungsmedizin, 2017, p. 89) advocates for graduated dignity protection. In contrast, Schweizer/Sprecher (Die Schweizerische Bundesverfassung, 3rd ed. 2014, Art. 7 N 18) demand comprehensive protection from fertilisation onwards.
+**N. 12** Concrete fields of application of the autonomous human dignity guarantee, according to the Message and case law, include: conditions of detention, interrogation methods, extradition, compulsory medical measures, genetic technology, and areas of extreme social destitution. The overlap with Art. 3 ECHR (prohibition of torture and inhuman treatment) is considerable and is regularly examined in parallel by the Federal Supreme Court (**BGE 127 I 6** cons. 5c).
 
-## 6. Practice Guidelines
+---
 
-**N. 15** In cases of **medical coercive measures**, a comprehensive balancing of interests is required. The Federal Supreme Court requires a clear legal basis, observance of the principle of proportionality and respect for procedural guarantees (**BGE 130 I 16** E. 5.3). Compulsory treatment is only permissible as a last resort.
+### 4. Legal Consequences
 
-**N. 16** In **social assistance law**, Art. 7 Fed. Const. in conjunction with Art. 12 Fed. Const. guarantees a dignified subsistence minimum. Reducing social assistance benefits below this minimum violates human dignity. However, the Federal Supreme Court recognises benefit reductions for lack of cooperation, provided the absolute subsistence minimum is maintained (judgment 8C_455/2015 E. 4.2).
+**N. 13** Art. 7 FC operates primarily as an objective-law principle and standard of interpretation. By virtue of its subsidiary character, the rule is that insofar as a more specific fundamental right (Art. 10–34 FC) is applicable, persons concerned can as a rule derive nothing to their advantage from invoking Art. 7 FC independently (**BGE 132 I 49** cons. 5.1). The Federal Supreme Court expressly states: «For specially situated constellations, human dignity may have an autonomous content» — this presupposes, however, that the more specific fundamental rights do not provide sufficient protection.
 
-**N. 17** In cases of **deportation**, it must be examined whether dignified treatment is guaranteed in the destination state. The risk of torture or inhuman treatment establishes an absolute obstacle to deportation (→ Art. 3 ECHR, → Art. 25 para. 3 Fed. Const.).
+**N. 14** As an autonomous catch-all fundamental right, Art. 7 FC produces subjective-law effects in particular in areas not covered by any other constitutional guarantee. The Federal Council expressly described this in the Message as a «subsidiary catch-all fundamental right» (BBl 1997 I 140). Judicial enforceability in this area is recognised; however, practice restricts the autonomous invocation to manifestly dignity-violating treatment.
+
+**N. 15** The connection between Art. 7 FC and Art. 12 FC (right to assistance in situations of need) is fundamental: the minimum subsistence level under Art. 12 FC is «oriented towards the preservation of human dignity» (**BGE 131 I 166** cons. 7.1). It follows that the denial of emergency assistance — even in relation to persons who fail to comply with their obligations under aliens law — is incompatible with human dignity: «It proves incompatible with human dignity (cf. Art. 7 FC), towards the preservation of which Art. 12 FC is oriented, if the survival of the persons affected is placed in question by the exclusion from emergency assistance» (**BGE 131 I 166** cons. 7.1).
+
+**N. 16** In the area of serious encroachments on fundamental rights — notably in the case of compulsory medical treatment — Art. 7 FC, together with Art. 10 para. 2 FC, requires a «complete and comprehensive weighing of the interests at stake» (**BGE 130 I 16** cons. 5.4). Human dignity thereby constitutes an independent dimension of review, which stands alongside the proportionality assessment under Art. 36 FC.
+
+---
+
+### 5. Contested Issues
+
+**N. 17** **Holders of the right (subjects of fundamental rights).** It is undisputed that Art. 7 FC applies to all human beings regardless of nationality, age, or capacity of judgement. It is contested whether legal persons, groups, or — in bioethical contexts — the nasciturus are also entitled to the protection of human dignity. Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 195 affirm that the universal human dignity guarantee is an exclusively individual right. Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, N 1862 emphasise the anthropocentric character of the guarantee. For particularly vulnerable groups — such as persons with intellectual disabilities — the Federal Supreme Court has expressly held in **BGE 139 I 169** cons. 7.2.1 that the prohibition of discrimination «also encompasses aspects of human dignity under Art. 7 FC», which underlines the close connection between Art. 7 and Art. 8 para. 2 FC (↔ Art. 8 FC).
+
+**N. 18** **Restrictability of human dignity.** A fundamental dispute exists as to whether human dignity — unlike Art. 1 para. 1 of the German Basic Law — is subject to restriction. The Message deliberately rejected the formulation «inviolable» (BBl 1997 I 141). Müller/Schefer, Grundrechte in der Schweiz, 4th ed. 2008, pp. 4 f. argue that the essential core of human dignity is absolutely inviolable (→ Art. 36 para. 4 FC), while peripheral aspects may be open to balancing. Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, N 1872 emphasise that the scope of protection and the essential core of Art. 7 FC — similarly to Art. 12 FC — largely coincide, thus practically excluding any restrictions. The Federal Supreme Court left this question open in **BGE 127 I 6** cons. 9e, but found that a compulsory medical treatment carried out in accordance with medical rules as a form of assistance «does not encroach on the core area of human dignity».
+
+**N. 19** **Relationship to Art. 10 para. 3 FC (prohibition of torture).** Art. 10 para. 3 FC expressly prohibits torture and any form of cruel, inhuman, or degrading treatment. According to the prevailing doctrine, this prohibition is absolute and corresponds to Art. 3 ECHR and Art. 7 UN Covenant II. Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 369 regard Art. 10 para. 3 FC as a sector-specific concretisation of Art. 7 FC, without Art. 7 FC thereby losing its autonomous scope of application. It is contested whether, for particularly serious violations of dignity falling below the threshold of Art. 10 para. 3 FC, an independent recourse to Art. 7 FC remains possible.
+
+**N. 20** **Subsidiarity in practice.** It is disputed how narrowly the subsidiary character of Art. 7 FC as a catch-all fundamental right is to be understood. **BGE 132 I 49** cons. 5.1 confirms that independent reliance on Art. 7 FC is precluded where more specific fundamental rights are applicable. Tschentscher has critically noted in the literature (ZBJV 141/2005 p. 655) that this restrictive approach considerably limits the practical relevance of Art. 7 FC as a subjective right. The Federal Supreme Court holds, in contrast, that Art. 7 FC exerts its principal effect as a standard of interpretation and concretisation for all other fundamental rights and has permanent significance in this function (**BGE 127 I 6** cons. 5b).
+
+**N. 21** **Human dignity and prohibition of begging.** In **BGE 149 I 248** cons. 4.3, 4.6.3, the Federal Supreme Court recently clarified that in cases of prohibitions on begging «aspects of human dignity (pursuant to Art. 7 FC) are to be taken into consideration», without Art. 7 FC serving as an independent standard of review. The primary standard remains Art. 10 para. 2 FC (personal liberty) in conjunction with Art. 8 ECHR (right to private life). It is impermissible to characterise begging as «undignified behaviour» and thereby to reverse the protective effect of fundamental rights to the detriment of those who beg (**BGE 149 I 248** cons. 4.6.3). This case law confirms and extends the findings of **BGE 134 I 214** cons. 5.3.
+
+---
+
+### 6. Practical Guidance
+
+**N. 22** **Approach when examining a violation of dignity.** Art. 7 FC should not ordinarily be invoked in isolation. Before examining a direct reliance on Art. 7 FC, it must always be clarified whether a more specific fundamental right is applicable. The following are to be considered in particular: Art. 10 para. 2 FC (personal liberty), Art. 10 para. 3 FC (prohibition of torture), Art. 12 FC (emergency assistance), Art. 13 FC (private and family life), and Art. 8 FC (equality before the law and prohibition of discrimination). Only if these provisions do not afford sufficient protection is an autonomous complaint under Art. 7 FC admissible.
+
+**N. 23** **Compulsory treatment and deprivation of liberty.** In proceedings concerning compulsory psychiatric medication, Art. 7 FC is regularly to be examined alongside Art. 10 para. 2 FC. According to consistent case law, the examination requires a complete balancing of interests encompassing public interests, the necessity of the treatment, alternatives, side effects, and the risk of harm to self and others (**BGE 130 I 16** cons. 5.1). The feeling of «heteronomy and helplessness» resulting from treatment carried out against the will of the person concerned affects human dignity «centrally» (**BGE 127 I 6** cons. 5g).
+
+**N. 24** **Conditions of detention.** Extreme overcrowding in detention facilities may violate human dignity when combined with further deficiencies — such as confinement for several hours per day (**BGE 140 I 125** cons. 3.6.3). Art. 3 ECHR and the case law of the ECtHR also form a benchmark. For practice: even in the case of detention conditions that are legitimate under penal law, respect for human dignity must be observed as an absolute lower limit.
+
+**N. 25** **Emergency assistance and existential need.** Art. 7 FC places an absolute lower limit on State discretion in the area of social assistance: even in cases of breach of obligations under aliens law, emergency assistance may not be used as a means of pressure to achieve migration policy objectives. Withdrawal of the minimum subsistence level is incompatible with Art. 7 FC (**BGE 131 I 166** cons. 7.1). In practice, it is to be noted that Art. 12 FC covers the scope of protection and the essential core in a single provision, so that restrictions are precluded (→ Art. 12 FC).
+
+**N. 26** **Discrimination as a dignity-violating unequal treatment.** Acts of discrimination under Art. 8 para. 2 FC always also engage Art. 7 FC, because they are based on characteristics that constitute a significant and difficult-to-abandon element of identity (**BGE 132 I 49** cons. 8.1; **BGE 139 I 169** cons. 7.2.1). This applies in particular to the exclusion of especially vulnerable groups — such as persons with intellectual disabilities — from legal proceedings in which they should be involved (↔ Art. 8 FC).
+
+**N. 27** **Recent development: prohibition of begging.** In **BGE 149 I 248** (2023), the Federal Supreme Court clarified that partially designed prohibitions on begging are not generally disproportionate, but that aspects of human dignity must be taken into account in their design. The blanket prohibition of passive begging in public parks was lifted as disproportionate; the direct conversion of a fixed-penalty fine into a custodial sentence against destitute persons who beg is permissible only if less severe administrative measures have first been exhausted (**BGE 149 I 248** cons. 5.4.6 f.). This case law marks the threshold at which a State measure against particularly vulnerable persons is qualified as a violation of dignity.
