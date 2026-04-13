@@ -306,6 +306,9 @@ const translations: Record<string, Record<Lang, string>> = {
   'support.col_articles': { de: 'Artikel', fr: 'Articles', it: 'Articoli', en: 'Articles' },
   'support.col_target': { de: 'Ziel', fr: 'Objectif', it: 'Obiettivo', en: 'Target' },
   'support.col_status': { de: 'Status', fr: 'Statut', it: 'Stato', en: 'Status' },
+  'support.status_done': { de: 'Fertig', fr: 'Terminé', it: 'Completato', en: 'Done' },
+  'support.status_next': { de: 'Nächstes Ziel', fr: 'Prochain objectif', it: 'Prossimo obiettivo', en: 'Next target' },
+  'support.status_open': { de: 'Offen', fr: 'Ouvert', it: 'Aperto', en: 'Open' },
   'support.transparency_title': { de: 'Kostentransparenz', fr: 'Transparence des coûts', it: 'Trasparenza dei costi', en: 'Cost transparency' },
   'support.transparency_intro': {
     de: 'Was ein Artikel kostet — aufgeschlüsselt:',
@@ -351,6 +354,18 @@ const translations: Record<string, Record<Lang, string>> = {
   'support.donate_bank_title': { de: 'Banküberweisung', fr: 'Virement bancaire', it: 'Bonifico bancario', en: 'Bank transfer' },
   'support.donate_bank': { de: 'Gebührenfrei', fr: 'Sans frais', it: 'Senza commissioni', en: 'Zero fees' },
   'support.donate_github': { de: 'Für internationale Unterstützende', fr: 'Pour les donateurs internationaux', it: 'Per i sostenitori internazionali', en: 'For international supporters' },
+  'support.donate_setup': {
+    de: 'Wird eingerichtet',
+    fr: 'En cours de mise en place',
+    it: 'In fase di configurazione',
+    en: 'Being set up',
+  },
+  'support.donate_contact': {
+    de: 'Spendenmöglichkeiten werden derzeit eingerichtet. In der Zwischenzeit erreichen Sie uns unter info@openlegalcommentary.ch.',
+    fr: "Les possibilités de don sont en cours de mise en place. En attendant, vous pouvez nous contacter à info@openlegalcommentary.ch.",
+    it: 'Le possibilità di donazione sono in fase di configurazione. Nel frattempo potete contattarci a info@openlegalcommentary.ch.',
+    en: 'Donation channels are being set up. In the meantime, reach us at info@openlegalcommentary.ch.',
+  },
   'support.supporters_title': { de: 'Unterstützende', fr: 'Soutiens', it: 'Sostenitori', en: 'Supporters' },
   'support.supporters_intro': {
     de: 'Die folgenden Personen unterstützen openlegalcommentary (mit Einwilligung):',
