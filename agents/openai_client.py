@@ -40,7 +40,7 @@ async def run_evaluation(
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": prompt},
         ],
-        max_tokens=4096,
+        max_completion_tokens=4096,
     )
 
     text = response.choices[0].message.content or ""
