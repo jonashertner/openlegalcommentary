@@ -4,8 +4,9 @@ import json
 from unittest.mock import patch
 
 from scripts.fetch_cantonal_laws import (
+    parse_article_list_response,
     parse_article_text,
-    parse_legislation_response,
+    parse_single_article_response,
     save_cantonal_law,
 )
 
@@ -30,6 +31,14 @@ def test_parse_article_text_empty():
     assert parse_article_text("  ") == []
 
 
+def test_parse_article_text_continuation():
+    text = "1 Der Kanton Zürich ist ein souveräner\nstand der Eidgenossenschaft."
+    result = parse_article_text(text)
+    assert len(result) == 1
+    assert result[0]["num"] == "1"
+    assert "souveräner stand der Eidgenossenschaft." in result[0]["text"]
+
+
 def test_save_cantonal_law(tmp_path):
     with patch("scripts.fetch_cantonal_laws.CANTONAL_DIR", tmp_path):
         path = save_cantonal_law(
@@ -49,32 +58,55 @@ def test_save_cantonal_law(tmp_path):
         assert data["article_texts"]["1"][0]["text"] == "Test text"
 
 
-def test_parse_legislation_response():
-    response = {
-        "articles": [
-            {
-                "article_num": "1",
-                "heading": "Kanton Zürich",
-                "text": "1 Souveräner Stand.\n2 Eigenverantwortung.",
-            },
-            {"article_num": "2", "heading": "Grundsätze", "text": "Grundlage ist das Recht."},
-        ]
-    }
-    articles, texts = parse_legislation_response("ZH", response)
-    assert len(articles) == 2
+def test_parse_article_list_response():
+    text = """# ZH 101
+**Verfassung des Kantons Zürich**
+Jurisdiction: Canton ZH
+
+**147 articles**
+
+- Art. 1
+- Art. 2 Grundsätze
+- Art. 3
+- Art. 5 Subsidiarität
+"""
+    articles = parse_article_list_response(text)
+    assert len(articles) == 4
     assert articles[0]["number"] == 1
-    assert articles[0]["title"] == "Kanton Zürich"
-    assert len(texts["1"]) == 2
-    assert texts["2"][0]["num"] is None
+    assert articles[0]["title"] == ""
+    assert articles[1]["number"] == 2
+    assert articles[1]["title"] == "Grundsätze"
+    assert articles[3]["number"] == 5
+    assert articles[3]["title"] == "Subsidiarität"
 
 
-def test_parse_legislation_response_skips_invalid():
-    response = {
-        "articles": [
-            {"article_num": "1", "heading": "Valid", "text": "Text"},
-            {"article_num": "Übergangsbestimmung", "heading": "Invalid", "text": "Skipped"},
-        ]
-    }
-    articles, texts = parse_legislation_response("ZH", response)
-    assert len(articles) == 1
-    assert articles[0]["raw"] == "1"
+def test_parse_article_list_response_with_paragraphs():
+    text = """# LU 1
+**Verfassung des Kantons Luzern**
+
+**94 articles**
+
+- § 1 Kanton Luzern
+- § 2 Grundsätze staatlichen Handelns
+"""
+    articles = parse_article_list_response(text)
+    assert len(articles) == 2
+    assert articles[0]["title"] == "Kanton Luzern"
+
+
+def test_parse_single_article_response():
+    text = """# ZH 101
+**Verfassung des Kantons Zürich**
+Jurisdiction: Canton ZH
+
+### § 50
+
+1 Der Kantonsrat übt die Gewalt aus.
+2 Er ist ein Milizparlament und besteht aus 180 Mitgliedern.
+
+"""
+    paragraphs = parse_single_article_response(text)
+    assert len(paragraphs) == 2
+    assert paragraphs[0]["num"] == "1"
+    assert "Kantonsrat" in paragraphs[0]["text"]
+    assert paragraphs[1]["num"] == "2"
