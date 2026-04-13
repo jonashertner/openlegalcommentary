@@ -9,6 +9,6 @@ lexfind_url: ''
 in_force_since: ''
 layers:
   doctrine:
-    last_generated: '2026-04-11'
-    version: 1
-    quality_score: 0.91
+    last_generated: '2026-04-13'
+    version: 2
+    quality_score: 0.92
