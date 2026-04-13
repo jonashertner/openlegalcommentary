@@ -355,7 +355,9 @@ def main() -> None:
     # Load article numbers and titles
     article_numbers = load_article_numbers(law)
     article_titles = load_article_titles(law)
-    print(f"Loaded {len(article_numbers)} article numbers for {law} ({len(article_titles)} with titles).")
+    n_nums = len(article_numbers)
+    n_titles = len(article_titles)
+    print(f"Loaded {n_nums} article numbers for {law} ({n_titles} with titles).")
 
     # Load existing output if present (for resume)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -420,10 +422,14 @@ def main() -> None:
                 current += line + "\n"
             if current.strip():
                 chunks.append(current)
-            print(f"  Split into {len(chunks)} chunks ({', '.join(f'{len(c):,}' for c in chunks)} chars)")
+            sizes = ", ".join(f"{len(c):,}" for c in chunks)
+            print(f"  Split into {len(chunks)} chunks ({sizes} chars)")
 
         for chunk_idx, chunk in enumerate(chunks, 1):
-            chunk_label = f"[{bbl_ref} chunk {chunk_idx}/{len(chunks)}]" if len(chunks) > 1 else f"[{bbl_ref}]"
+            if len(chunks) > 1:
+                chunk_label = f"[{bbl_ref} chunk {chunk_idx}/{len(chunks)}]"
+            else:
+                chunk_label = f"[{bbl_ref}]"
             print(f"  Digesting {chunk_label} ({len(chunk):,} chars)...")
             try:
                 result = digest_botschaft(
