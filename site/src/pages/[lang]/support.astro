@@ -21,63 +21,116 @@ const { lang } = Astro.params as { lang: Lang };
         <p class="support-lead">{t('support.lead', lang)}</p>
       </section>
 
-      <!-- Problem -->
+      <!-- Pipeline -->
       <section class="support-section">
-        <h2>{t('support.problem_title', lang)}</h2>
-        <p>{t('support.problem_1', lang)}</p>
-        <p>{t('support.problem_2', lang)}</p>
-        {t('support.problem_quote', lang) && <p class="support-quote">{t('support.problem_quote', lang)}</p>}
+        <h2>{t('support.pipeline_title', lang)}</h2>
+        <div class="pipeline">
+          <div class="pipeline-step">
+            <div class="step-num">1</div>
+            <div class="step-body">
+              <div class="step-label">{t('support.step1_label', lang)}</div>
+              <p class="step-desc">{t('support.step1_desc', lang)}</p>
+            </div>
+          </div>
+          <div class="pipeline-step">
+            <div class="step-num">2</div>
+            <div class="step-body">
+              <div class="step-label">{t('support.step2_label', lang)}</div>
+              <p class="step-desc">{t('support.step2_desc', lang)}</p>
+            </div>
+          </div>
+          <div class="pipeline-step">
+            <div class="step-num">3</div>
+            <div class="step-body">
+              <div class="step-label">{t('support.step3_label', lang)}</div>
+              <p class="step-desc">{t('support.step3_desc', lang)}</p>
+            </div>
+          </div>
+          <div class="pipeline-step">
+            <div class="step-num">4</div>
+            <div class="step-body">
+              <div class="step-label">{t('support.step4_label', lang)}</div>
+              <p class="step-desc">{t('support.step4_desc', lang)}</p>
+            </div>
+          </div>
+        </div>
       </section>
 
-      <!-- Solution -->
+      <!-- The Prompt -->
       <section class="support-section">
-        <h2>{t('support.solution_title', lang)}</h2>
-        <p>{t('support.solution_1', lang)}</p>
-        <ul class="support-features">
-          <li>{t('support.feature_1', lang)}</li>
-          <li>{t('support.feature_2', lang)}</li>
-          <li>{t('support.feature_3', lang)}</li>
-          <li>{t('support.feature_4', lang)}</li>
-          <li>{t('support.feature_5', lang)}</li>
-        </ul>
+        <h2>{t('support.prompt_title', lang)}</h2>
+        <p>{t('support.prompt_intro', lang)}</p>
+        <div class="prompt-window">
+          <div class="prompt-header">
+            <span class="prompt-dot"></span>
+            <span class="prompt-dot"></span>
+            <span class="prompt-dot"></span>
+            <span class="prompt-filename">doctrine_prompt.txt</span>
+          </div>
+          <pre class="prompt-code"><span class="prompt-section">Requirements:</span>
+- Use numbered marginal notes: <span class="prompt-hl">N. 1</span>, <span class="prompt-hl">N. 2</span>, etc.
+- Required sections, in order:
+  1. Entstehungsgeschichte (legislative history)
+  2. Systematische Einordnung (systematic context)
+  3. Tatbestandsmerkmale / Norminhalt (elements)
+  4. Rechtsfolgen (legal consequences)
+  5. Streitstände (doctrinal debates)
+  6. Praxishinweise (practical guidance)
+- Minimum 3 secondary sources from different authors
+- Cross-references use arrow notation: &rarr; / &harr;
+
+<span class="prompt-section">Citation style:</span>
+Cite scholarly authors in <span class="prompt-hl">literature format</span> by default:
+  Häfelin/Haller/Keller/Thurnherr, Schweizerisches
+  Bundesstaatsrecht, 10. Aufl. 2020, N 749
+
+Use BSK/CR format <span class="prompt-hl">only</span> when the cited author
+appears in the reference data block. Do not invent
+BSK author/Randziffer combinations.
+
+<span class="prompt-section">Konzision discipline:</span>
+Each Randziffer must contribute <span class="prompt-hl">new content</span>.
+Do not restate a holding across two different N.s.
+
+<span class="prompt-section">When Materialien are provided:</span>
+- Cite with exact BBl page references
+- Attribute statements to <span class="prompt-hl">named speakers</span>
+- Note what was contested in parliament
+- ONLY cite specifics that appear in the
+  Materialien block — do <span class="prompt-hl">not fabricate</span></pre>
+        </div>
       </section>
 
-      <!-- Quality proof -->
+      <!-- Example result -->
       <section class="support-section">
-        <h2>{t('support.quality_title', lang)}</h2>
-        <p>{t('support.quality_intro', lang)}</p>
-        <div class="support-showcase">
-          <a href={`${langBase(lang)}/bv/art-8?layer=doctrine`} class="showcase-link">
-            {t('support.quality_cta', lang)} →
+        <h2>{t('support.example_title', lang)}</h2>
+        <p>{t('support.example_intro', lang)}</p>
+        <div class="example-link">
+          <a href={`${langBase(lang)}/bv/art-8?layer=doctrine`}>
+            {t('support.example_cta', lang)} &rarr;
           </a>
         </div>
       </section>
 
-      <!-- Budget -->
+      <!-- Cost -->
       <section class="support-section">
-        <h2>{t('support.budget_title', lang)}</h2>
-        <p>{t('support.budget_intro', lang)}</p>
-
-        <div class="budget-impact">
-          <div class="budget-item">
-            <div class="budget-amount">CHF 6</div>
-            <div class="budget-desc">{t('support.budget_4', lang)}</div>
-          </div>
-          <div class="budget-item">
-            <div class="budget-amount">CHF 250</div>
-            <div class="budget-desc">{t('support.budget_200', lang)}</div>
-          </div>
-          <div class="budget-item">
-            <div class="budget-amount">CHF 1'500</div>
-            <div class="budget-desc">{t('support.budget_1000', lang)}</div>
-          </div>
-          <div class="budget-item">
-            <div class="budget-amount">CHF 30'000</div>
-            <div class="budget-desc">{t('support.budget_21000', lang)}</div>
-          </div>
+        <h2>{t('support.cost_title', lang)}</h2>
+        <p>{t('support.cost_intro', lang)}</p>
+        <div class="cost-grid">
+          <div class="cost-row"><span>{t('support.cost_gen', lang)}</span><span>CHF 1.50</span></div>
+          <div class="cost-row"><span>{t('support.cost_eval', lang)}</span><span>CHF 1.00</span></div>
+          <div class="cost-row"><span>{t('support.cost_trans', lang)}</span><span>CHF 0.80</span></div>
+          <div class="cost-row"><span>{t('support.cost_mat', lang)}</span><span>CHF 0.20</span></div>
+          <div class="cost-row"><span>{t('support.cost_retry', lang)}</span><span>CHF 1.00</span></div>
+          <div class="cost-row"><span>{t('support.cost_reserve', lang)}</span><span>CHF 1.50</span></div>
+          <div class="cost-row cost-total"><span>Total</span><span>CHF 6.00</span></div>
         </div>
+        <p class="cost-note">{t('support.cost_note', lang)}</p>
+      </section>
 
-        <h3>{t('support.laws_title', lang)}</h3>
+      <!-- Scale -->
+      <section class="support-section">
+        <h2>{t('support.scale_title', lang)}</h2>
         <table class="support-table">
           <thead>
             <tr>
@@ -88,39 +141,16 @@ const { lang } = Astro.params as { lang: Lang };
             </tr>
           </thead>
           <tbody>
-            <tr><td>BV</td><td>233</td><td>CHF 1'500</td><td class="status-progress">In Arbeit</td></tr>
-            <tr><td>BGFA</td><td>38</td><td>CHF 250</td><td class="status-progress">In Arbeit</td></tr>
-            <tr><td>VwVG</td><td>92</td><td>CHF 600</td><td class="status-open">Offen</td></tr>
-            <tr><td>SchKG</td><td>400</td><td>CHF 2'500</td><td class="status-open">Offen</td></tr>
-            <tr><td>ZPO</td><td>426</td><td>CHF 2'700</td><td class="status-open">Offen</td></tr>
-            <tr><td>StGB</td><td>466</td><td>CHF 3'000</td><td class="status-open">Offen</td></tr>
-            <tr><td>StPO</td><td>478</td><td>CHF 3'000</td><td class="status-open">Offen</td></tr>
-            <tr><td>ZGB</td><td>1'126</td><td>CHF 7'000</td><td class="status-open">Offen</td></tr>
-            <tr><td>OR</td><td>1'584</td><td>CHF 10'000</td><td class="status-open">Offen</td></tr>
+            <tr><td>BV</td><td>233</td><td>CHF 1'500</td><td class="status-progress">{t('support.status_progress', lang)}</td></tr>
+            <tr><td>BGFA</td><td>38</td><td>CHF 250</td><td class="status-progress">{t('support.status_progress', lang)}</td></tr>
+            <tr><td>VwVG</td><td>92</td><td>CHF 600</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>SchKG</td><td>400</td><td>CHF 2'500</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>ZPO</td><td>426</td><td>CHF 2'700</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>StGB</td><td>466</td><td>CHF 3'000</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>StPO</td><td>478</td><td>CHF 3'000</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>ZGB</td><td>1'126</td><td>CHF 7'000</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
+            <tr><td>OR</td><td>1'584</td><td>CHF 10'000</td><td class="status-open">{t('support.status_open', lang)}</td></tr>
             <tr class="total-row"><td><strong>Total</strong></td><td><strong>4'843</strong></td><td><strong>CHF 30'550</strong></td><td></td></tr>
-          </tbody>
-        </table>
-      </section>
-
-      <!-- Cost transparency -->
-      <section class="support-section">
-        <h2>{t('support.transparency_title', lang)}</h2>
-        <p>{t('support.transparency_intro', lang)}</p>
-        <table class="support-table cost-table">
-          <thead>
-            <tr>
-              <th>{t('support.col_item', lang)}</th>
-              <th>{t('support.col_cost', lang)}</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr><td>{t('support.cost_gen', lang)}</td><td>CHF 1.50</td></tr>
-            <tr><td>{t('support.cost_eval', lang)}</td><td>CHF 1.00</td></tr>
-            <tr><td>{t('support.cost_trans', lang)}</td><td>CHF 0.80</td></tr>
-            <tr><td>{t('support.cost_mat', lang)}</td><td>CHF 0.20</td></tr>
-            <tr><td>{t('support.cost_retry', lang)}</td><td>CHF 1.00</td></tr>
-            <tr><td>{t('support.cost_reserve', lang)}</td><td>CHF 1.50</td></tr>
-            <tr class="total-row"><td><strong>Total</strong></td><td><strong>CHF 6.00</strong></td></tr>
           </tbody>
         </table>
       </section>
@@ -128,16 +158,12 @@ const { lang } = Astro.params as { lang: Lang };
       <!-- Independence -->
       <section class="support-section support-independence">
         <h2>{t('support.independence_title', lang)}</h2>
-        <p>{t('support.independence_1', lang)}</p>
-        <p>{t('support.independence_2', lang)}</p>
-        <p>{t('support.independence_3', lang)}</p>
+        <p>{t('support.independence_text', lang)}</p>
       </section>
 
       <!-- Donate -->
       <section class="support-section support-donate" id="donate">
         <h2>{t('support.donate_title', lang)}</h2>
-        <p>{t('support.donate_intro', lang)}</p>
-
         <div class="donate-methods">
           <div class="donate-method">
             <h3>TWINT</h3>
@@ -214,13 +240,6 @@ const { lang } = Astro.params as { lang: Lang };
     margin-bottom: var(--space-3);
   }
 
-  .support-section h3 {
-    font-size: 15px;
-    font-weight: 700;
-    margin-top: var(--space-4);
-    margin-bottom: var(--space-2);
-  }
-
   .support-section p {
     font-size: 14px;
     line-height: 1.7;
@@ -229,66 +248,160 @@ const { lang } = Astro.params as { lang: Lang };
     margin-bottom: var(--space-2);
   }
 
-  .support-quote {
-    font-size: 20px !important;
-    font-weight: 700;
-    color: var(--color-text) !important;
-    font-style: italic;
-    margin-top: var(--space-4) !important;
-    padding-left: var(--space-3);
-    border-left: 3px solid #DC2626;
-  }
-
-  .support-features {
-    list-style: none;
-    padding: 0;
-    margin-top: var(--space-3);
-  }
-
-  .support-features li {
-    font-size: 14px;
-    line-height: 1.6;
-    color: var(--color-text-secondary);
-    padding: 6px 0;
-    border-bottom: 1px solid var(--color-rule-light);
-  }
-
-  .support-features li::before {
-    content: "—";
-    margin-right: 8px;
-    color: var(--color-text-muted);
-  }
-
-  /* Budget impact grid */
-  .budget-impact {
+  /* Pipeline */
+  .pipeline {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1px;
     background: var(--color-rule-light);
-    margin: var(--space-4) 0;
+    border: 1px solid var(--color-rule);
+    margin-top: var(--space-4);
+  }
+
+  .pipeline-step {
+    background: var(--color-bg);
+    padding: var(--space-3);
+  }
+
+  .step-num {
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--color-text-muted);
+    line-height: 1;
+    margin-bottom: var(--space-2);
+  }
+
+  .step-label {
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+
+  .step-desc {
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+    color: var(--color-text-muted) !important;
+    margin-bottom: 0 !important;
+    max-width: none !important;
+  }
+
+  /* Prompt window */
+  .prompt-window {
+    margin-top: var(--space-3);
+    border: 1px solid var(--color-rule);
+    overflow: hidden;
+    max-width: 640px;
+  }
+
+  .prompt-header {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 12px;
+    background: var(--color-rule-light);
+    border-bottom: 1px solid var(--color-rule);
+  }
+
+  .prompt-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--color-text-muted);
+    opacity: 0.3;
+  }
+
+  .prompt-filename {
+    font-size: 11px;
+    color: var(--color-text-muted);
+    margin-left: 6px;
+  }
+
+  .prompt-code {
+    font-family: 'SF Mono', 'Fira Code', 'Fira Mono', Menlo, Monaco, Consolas, monospace;
+    font-size: 11.5px;
+    line-height: 1.6;
+    padding: var(--space-3);
+    margin: 0;
+    overflow-x: auto;
+    color: var(--color-text-secondary);
+    white-space: pre;
+    tab-size: 2;
+  }
+
+  .prompt-section {
+    color: var(--color-text);
+    font-weight: 600;
+  }
+
+  .prompt-hl {
+    color: #DC2626;
+    font-weight: 600;
+  }
+
+  :global([data-theme='dark']) .prompt-hl {
+    color: #F87171;
+  }
+
+  /* Example */
+  .example-link {
+    margin-top: var(--space-3);
+    padding: var(--space-3);
     border: 1px solid var(--color-rule);
   }
 
-  .budget-item {
-    background: var(--color-bg);
-    padding: var(--space-3);
-    text-align: center;
+  .example-link a {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--color-text);
+    text-decoration: none;
   }
 
-  .budget-amount {
-    font-size: 28px;
+  .example-link a:hover {
+    text-decoration: underline;
+  }
+
+  /* Cost grid */
+  .cost-grid {
+    max-width: 360px;
+    margin-top: var(--space-3);
+  }
+
+  .cost-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+    border-bottom: 1px solid var(--color-rule-light);
+    font-size: 13px;
+  }
+
+  .cost-row span:first-child {
+    color: var(--color-text-secondary);
+  }
+
+  .cost-row span:last-child {
+    font-variant-numeric: tabular-nums;
+    color: var(--color-text);
+  }
+
+  .cost-total {
+    border-top: 1px solid var(--color-rule);
+    border-bottom: none;
+    padding-top: var(--space-2);
     font-weight: 700;
-    letter-spacing: -0.02em;
   }
 
-  .budget-desc {
-    font-size: 11px;
-    color: var(--color-text-muted);
-    margin-top: 4px;
-    line-height: 1.4;
+  .cost-total span:first-child,
+  .cost-total span:last-child {
+    color: var(--color-text);
   }
 
-  /* Tables */
+  .cost-note {
+    font-size: 11px !important;
+    color: var(--color-text-muted) !important;
+    margin-top: var(--space-2) !important;
+  }
+
+  /* Table */
   .support-table {
     width: 100%;
     border-collapse: collapse;
@@ -329,42 +442,14 @@ const { lang } = Astro.params as { lang: Lang };
     font-size: 11px;
   }
 
-  .cost-table {
-    max-width: 400px;
-  }
-
-  .cost-table td:last-child,
-  .cost-table th:last-child {
-    text-align: right;
-    font-variant-numeric: tabular-nums;
-  }
-
-  /* Showcase */
-  .support-showcase {
-    margin-top: var(--space-3);
-    padding: var(--space-3);
-    border: 1px solid var(--color-rule);
-  }
-
-  .showcase-link {
-    font-size: 14px;
-    font-weight: 600;
-    color: var(--color-text);
-    text-decoration: none;
-  }
-
-  .showcase-link:hover {
-    text-decoration: underline;
-  }
-
-  /* Independence section */
+  /* Independence */
   .support-independence p {
     font-size: 15px !important;
     color: var(--color-text) !important;
     font-weight: 500;
   }
 
-  /* Donate section */
+  /* Donate */
   .support-donate {
     border-bottom: none;
   }
@@ -382,7 +467,9 @@ const { lang } = Astro.params as { lang: Lang };
   }
 
   .donate-method h3 {
-    margin-top: 0;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0 0 var(--space-1);
   }
 
   .donate-note {
@@ -407,7 +494,7 @@ const { lang } = Astro.params as { lang: Lang };
 
   @media (max-width: 768px) {
     .support-title { font-size: 28px; }
-    .budget-impact { grid-template-columns: repeat(2, 1fr); }
+    .pipeline { grid-template-columns: 1fr; }
     .donate-methods { grid-template-columns: 1fr; }
   }
 </style>
