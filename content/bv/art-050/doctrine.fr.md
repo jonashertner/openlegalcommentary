@@ -1,116 +1,79 @@
-# Art. 50 Cst.
+# Art. 50 Cst. — Autonomie communale
 
 ## Doctrine
 
 ### 1. Genèse
 
-**N. 1** L'autonomie communale fait partie des piliers traditionnels fondamentaux de la structure étatique suisse. Sous la **Cst. 1848 et la Cst. 1874**, elle ne trouvait toutefois aucune expression explicite dans le texte constitutionnel. Le Tribunal fédéral a développé la figure juridique de l'autonomie communale de manière orientée vers la pratique dans le cadre du recours de droit public (Meyer, BSK BV, Art. 50 N. 6).
+**N. 1** L'autonomie communale n'était pas expressément ancrée dans la Constitution fédérale de 1874. Le Tribunal fédéral la qualifiait systématiquement d'institution relevant du droit cantonal, sans garantie constitutionnelle fédérale (cf. **ATF 131 I 91 consid. 2** : «Les communes et leur autonomie n'étaient pas mentionnées dans l'ancienne Constitution fédérale»). Lors de la révision totale de la Constitution fédérale de 1999, l'art. 50 Cst. — désigné art. 41 AP-96 dans l'avant-projet — a été introduit comme nouvelle disposition. Le Message du Conseil fédéral (FF 1997 I 563 s.) précisait que cette norme avait pour but de garantir la position des communes dans l'État fédéral et de laisser aux cantons le soin de déterminer leur organisation et l'étendue de leur autonomie. Le Conseil fédéral a délibérément renoncé à une garantie fédérale directe de l'autonomie communale ; la formulation concise devait laisser aux cantons un maximum de marge de manœuvre (FF 1997 I 597).
 
-**N. 2** Dans la doctrine, l'ancrage constitutionnel était controversé : Saladin voulait reconnaître l'autonomie communale comme principe de la Cst. 1874, dans la mesure où il s'agissait d'un élément constitutif de la démocratie suisse. La doctrine dominante et le Tribunal fédéral ont maintenu en revanche que le droit d'autonomie avait été développé sur la base des garanties cantonales et ne procurait une protection que contre les actes cantonaux (Meyer, BSK BV, Art. 50 N. 6).
+**N. 2** Les débats parlementaires furent particulièrement controversés s'agissant des alinéas 2 et 3. Au Conseil des États, le rapporteur Aeby Pierre (S, FR) a présenté la version de la commission, tandis qu'Uhlmann Hans (V, TG) proposait la suppression de l'alinéa 2, au motif qu'une mention distincte des villes et des agglomérations créerait des «communes de deuxième classe». Leuenberger Moritz (Conseiller fédéral) a défendu l'inscription des agglomérations en soulignant qu'entre 70 et 80 % de la population vivait désormais en agglomération. Rhinow René (R, BL) a mis en garde contre tout affaiblissement du compromis, en déclarant : «Je demande maintenant à tous ceux qui ne vivent pas dans les agglomérations urbaines de penser qu'il existe une autre Suisse et qu'elle souhaite elle aussi être mentionnée dans la Constitution.» (BO 1998 CE tiré à part). L'accord sur le texte actuel — mentionnant simultanément les villes, les agglomérations et les régions de montagne à l'alinéa 3 — est essentiellement dû à une proposition de médiation de Loretan Willy (R, AG).
 
-**N. 3** La révision totale de la Constitution fédérale a apporté avec l'art. 50 Cst. la première mention explicite des communes au niveau du droit constitutionnel fédéral. Cette disposition a été largement incontestée lors des délibérations parlementaires (FF 1997 I 1, 203 ss). L'inclusion s'est faite dans la conscience de la grande importance des communes pour l'État suisse, sans toutefois modifier fondamentalement leur situation juridique.
+**N. 3** Au Conseil national, la minorité Schlüer Ulrich (V, ZH) proposait la suppression de l'alinéa 3 et mettait en garde contre de nouveaux canaux de subventions. Gysin Remo (S, BS) lui a répondu : «Les centres régionaux exigent non seulement une coopération intracantonale, mais aussi intercantonale et parfois internationale.» (BO 1998 CN tiré à part). Le Conseiller fédéral Koller Arnold invitait à la retenue face à une obligation cantonale concernant les villes : «Il n'est pas acceptable que la Confédération s'immisce sans nécessité dans l'autonomie organisationnelle des cantons.» La conférence de conciliation a adopté le texte actuel ; les deux chambres l'ont approuvé lors du vote final du 18 décembre 1998.
 
-**N. 4** La **Charte européenne de l'autonomie locale** du 15 octobre 1985 (RS 0.102) a influencé de manière déterminante la discussion. La Suisse a ratifié la Charte le 17 février 2005. L'art. 50 Cst. va au-delà des garanties minimales de la Charte dans son effet protecteur (Meyer, BSK BV, Art. 50 N. 8-10 ; Buschor, ZBl 1983, 97 ss).
+---
 
-### 2. Situation systématique
+### 2. Systématique
 
-**N. 5** L'art. 50 Cst. se situe systématiquement à la transition entre le 2e titre (Confédération, cantons et communes) et le 3e titre (Confédération) de la Constitution. Cette position souligne la double fonction de la norme : Elle reconnaît les communes comme troisième niveau étatique et oblige simultanément la Confédération à prendre des égards.
+**N. 4** L'art. 50 Cst. figure au chapitre 4 du titre 2 («Confédération et cantons»), qui régit les relations entre la Confédération et les cantons (art. 44–53 Cst.). La disposition est une **garantie institutionnelle** sui generis : elle garantit l'autonomie communale en tant que telle, mais n'en fixe pas le contenu en droit fédéral, renvoyant au droit cantonal. Elle ne constitue pas une norme de compétence au sens usuel (→ art. 54 ss Cst.) et ne fonde pas un droit subjectif des particuliers ; les communes peuvent toutefois former un recours sur cette base (→ art. 189 al. 1 let. e Cst.). Les particuliers peuvent se prévaloir de l'autonomie communale dans la mesure où cette garantie peut avoir une incidence sur leur situation juridique ou de fait (**ATF 141 I 36 consid. 1.2.4**).
 
-**N. 6** La disposition est en relation étroite avec :
-- → Art. 1 Cst. (État fédéral comme union de cantons)
-- → Art. 3 Cst. (souveraineté cantonale et compétence résiduelle)
-- → Art. 5 al. 4 Cst. (obligation de ménagement)
-- ↔ Art. 47 Cst. (autonomie des cantons)
-- → Art. 49 al. 2 Cst. (primauté du droit fédéral)
-- → Art. 51 al. 2 Cst. (constitutions cantonales)
-- → Art. 189 al. 1 let. e Cst. (garantie de la voie de droit)
+**N. 5** La norme est à trois niveaux : l'alinéa 1 contient la garantie de l'autonomie proprement dite, avec renvoi au droit cantonal ; l'alinéa 2 fonde une **obligation de la Confédération de prendre en considération** les communes (et non les cantons) ; l'alinéa 3 précise cette obligation pour les villes, les agglomérations et les régions de montagne. Les trois alinéas ne forment pas une hiérarchie continue : l'alinéa 1 est directement applicable et justiciable ; les alinéas 2 et 3 ont le caractère de directives adressées à la Confédération, mais ne fondent pas de droits subjectifs actionnables des communes à l'égard de la Confédération. ↔ art. 3 Cst. (souveraineté cantonale), → art. 5 Cst. (principe de l'État de droit), → art. 36 Cst. (proportionnalité), → art. 189 al. 1 let. e Cst. (justiciabilité).
 
-**N. 7** En tant que garantie institutionnelle, l'art. 50 Cst. complète les droits fondamentaux (art. 7-36 Cst.), mais s'en distingue fondamentalement : Tandis que les droits fondamentaux sont des droits subjectifs d'individus, l'autonomie communale protège une situation juridique objective (Meyer, BSK BV, Art. 50 N. 11).
+---
 
-### 3. Éléments constitutifs / Contenu de la norme
+### 3. Contenu de la norme
 
-#### 3.1 Garantie fédérale de l'autonomie communale (al. 1)
+#### 3.1 Alinéa 1 : Garantie de l'autonomie communale
 
-**N. 8** L'autonomie communale est garantie « dans les limites fixées par le droit cantonal ». Une partie de la doctrine n'attribue à cette norme qu'une signification déclaratoire : L'autonomie communale serait un institut du droit cantonal qui est protégé par le Tribunal fédéral dans l'étendue définie cantonalement (Meyer, BSK BV, Art. 50 N. 11).
+**N. 6** L'art. 50 al. 1 Cst. garantit l'autonomie communale «dans le cadre du droit cantonal». Cela signifie que **l'étendue** de l'autonomie est entièrement déterminée par le droit constitutionnel et législatif cantonal. Le droit constitutionnel fédéral ne garantit l'autonomie qu'en principe ; son contenu dans un domaine concret résulte exclusivement du droit cantonal applicable. Il s'ensuit que si le droit cantonal ne laisse pas à une commune de liberté de décision propre dans un domaine, il n'existe pas non plus de domaine d'autonomie protégé par le droit constitutionnel fédéral (**ATF 128 I 3 consid. 2a** ; **ATF 131 I 91 consid. 2**).
 
-**N. 9** Selon Meyer, l'art. 50 Cst. représente toutefois une innovation par rapport à la Cst. 1848 et exprime que les communes façonnent de manière indispensable l'essence de l'État fédéral suisse (Meyer, BSK BV, Art. 50 N. 11). La garantie fédérale comporte des éléments tant programmatiques que justiciables (Meyer, BSK BV, Art. 50 N. 14-26).
+**N. 7** Selon une jurisprudence constante, les communes sont autonomes dans un domaine lorsque le droit cantonal **ne règle pas ce domaine de manière exhaustive**, mais le laisse entièrement ou partiellement à la réglementation de la commune en lui accordant une **liberté de décision relativement importante**. Le domaine d'autonomie protégé peut porter sur la compétence d'édicter ou d'appliquer des règles communales propres ou sur une marge correspondante dans l'application du droit cantonal ou fédéral. La protection de l'autonomie communale n'est pas requise dans l'ensemble d'un domaine de tâches, mais seulement **dans le domaine litigieux** (**ATF 141 I 36 consid. 5.3** ; **ATF 145 I 52 consid. 3.1** ; **ATF 128 I 3 consid. 2a**).
 
-**N. 10** Le Tribunal fédéral définit l'autonomie communale de manière constante : Les communes sont autonomes dans un domaine lorsque le droit cantonal ne l'ordonne pas de manière exhaustive, mais le laisse entièrement ou partiellement à la commune pour qu'elle le règle et lui accorde ce faisant une « liberté de décision relativement considérable » (**ATF 145 I 52** c. 3.1 ; **ATF 139 I 169** c. 6.1).
+**N. 8** Lorsqu'une autonomie communale existe, l'art. 50 al. 1 Cst. protège notamment contre le fait que les instances de recours cantonales ne respectent pas la **marge d'appréciation** des autorités communales et substituent leur propre appréciation à celle de la commune (**ATF 138 I 143 consid. 3.2**). L'instance de recours cantonale viole l'autonomie communale lorsqu'elle excède la marge d'appréciation entrant dans le domaine de l'autonomie communale — y compris lorsqu'elle dispose en principe d'un plein pouvoir d'examen en opportunité (**ATF 145 I 52 consid. 3.6**).
 
-**N. 11** L'autonomie peut s'étendre à :
-- Autonomie législative (édiction de règlements communaux)
-- Autonomie d'organisation (aménagement de la structure des autorités)
-- Autonomie administrative (exécution sous sa propre responsabilité)
-- Autonomie financière (souveraineté fiscale, droit budgétaire)
-- Autonomie de planification (planification de l'affectation)
+**N. 9** L'art. 50 al. 1 Cst. ne contient pas de **garantie de l'existence** des communes particulières. Les autorités cantonales sont en principe habilitées à procéder à des fusions forcées de communes, pour autant que celles-ci reposent sur une base légale, répondent à un intérêt public et soient proportionnées. La recourante peut faire valoir, dans le cadre d'un recours pour violation de l'autonomie, que les conditions légales d'une fusion forcée ne sont pas remplies ou que la mesure est disproportionnée (**ATF 131 I 91 consid. 2, 3.3**).
 
-#### 3.2 Prise en compte des répercussions sur les communes (al. 2)
+**N. 10** Le pouvoir d'examen du Tribunal fédéral en matière de recours pour violation de l'autonomie communale est régi par l'art. 95 LTF : le droit fédéral et les droits constitutionnels cantonaux — dont fait partie l'autonomie communale — sont examinés librement ; le reste du droit cantonal est uniquement examiné sous l'angle de l'arbitraire (**ATF 141 I 36 consid. 5.4** ; **ATF 136 I 395 consid. 2**).
 
-**N. 12** La Confédération doit, dans son action, tenir compte des « répercussions possibles » sur les communes. Cette obligation concrétise l'obligation générale de ménagement selon l'art. 5 al. 4 Cst. (Meyer, BSK BV, Art. 50 N. 33-35).
+#### 3.2 Alinéa 2 : Obligation de la Confédération de prendre en considération les communes
 
-**N. 13** L'obligation de prise en compte comprend :
-- Législation : Évaluation d'impact pour les communes
-- Exécution : Prise en compte des circonstances communales
-- Planification : Inclusion des communes
+**N. 11** L'alinéa 2 oblige la **Confédération** — et non les cantons — à tenir compte, dans son action, des effets possibles sur les communes. L'«action de la Confédération» comprend la législation, l'exécution et l'administration. La norme est conçue comme un mandat d'optimisation : la Confédération doit intégrer les intérêts communaux dans ses arbitrages, mais peut s'en écarter pour des motifs objectifs. Il s'agit d'une obligation objective sans droit subjectif corrélatif des communes à l'égard de la Confédération. Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10e éd. 2020, N 1202, qualifient l'alinéa 2 de directive sans justiciabilité directe à l'égard de la Confédération.
 
-**N. 14** Contrairement à l'al. 3, l'al. 2 n'exige pas de ménagement particulier, mais seulement la prise de connaissance et la prise en compte des répercussions (Meyer, BSK BV, Art. 50 N. 36-40).
+#### 3.3 Alinéa 3 : Situation particulière des villes, des agglomérations et des régions de montagne
 
-#### 3.3 Ménagement particulier (al. 3)
+**N. 12** L'alinéa 3 concrétise l'obligation de prise en considération pour trois types de communes d'importance supérieure : les villes, les agglomérations et les régions de montagne. Cette énumération est le fruit du compromis parlementaire (→ N. 2–3) : les villes et agglomérations reflètent la «Suisse urbaine», les régions de montagne les hautes terres peu peuplées. La mention des deux types de communes visait à éviter que l'un n'apparaisse privilégié par rapport à l'autre («norme négative», BO 1998 CE tiré à part, intervention Schmid Carlo).
 
-**N. 15** La Confédération « ménage » la situation particulière :
-- Des villes
-- Des agglomérations
-- Des régions de montagne
+**N. 13** La notion de «prendre en considération» à l'alinéa 3 n'est pas précisée quant à son contenu. Lors de l'élaboration des normes, la Confédération doit tenir compte des défis particuliers propres à ces types de communes — charges de centre des villes, interdépendances intercommunales des agglomérations, situations structurellement défavorisées des régions de montagne. Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3e éd. 2016, N 3157, voient dans l'alinéa 3 principalement une norme programmatique politique, qui reste tributaire d'une législation fédérale spécifique (cf. notamment LPN, LAT, programmes Interreg).
 
-**N. 16** Cette obligation de ménagement qualifiée va au-delà de la simple prise en compte. Elle exige des mesures actives pour tenir compte des défis spécifiques de ces catégories de communes (Meyer, BSK BV, Art. 50 N. 41-43).
+---
 
-### 4. Conséquences juridiques
+### 4. Effets juridiques
 
-**N. 17** Les conséquences juridiques de l'art. 50 Cst. doivent être considérées de manière différenciée :
+**N. 14** La **violation de l'art. 50 al. 1 Cst.** peut être déférée par les communes au Tribunal fédéral par un recours pour violation de l'autonomie (art. 89 al. 2 let. c LTF). La condition est que la commune soit touchée par la décision attaquée en sa qualité de détentrice de la puissance publique ; la question de savoir si elle dispose effectivement d'une autonomie dans le domaine concerné relève de l'examen au fond et non de la recevabilité (**ATF 128 I 3 consid. 1c**). Les particuliers peuvent également se prévaloir de l'autonomie communale dans la mesure où la garantie peut avoir une incidence sur leur situation juridique ou de fait (**ATF 141 I 36 consid. 1.2.4**).
 
-**N. 18** **Effet protecteur (al. 1)** : L'autonomie communale peut être mise en œuvre par un recours de droit public (art. 189 al. 1 let. e Cst.). Le Tribunal fédéral examine les violations de l'autonomie communale avec une cognition restreinte : En cas de questions de droit et de questions d'appréciation dans le domaine autonome, seul un contrôle de l'arbitraire est possible (**ATF 145 I 52** c. 3.2).
+**N. 15** Lorsque le Tribunal fédéral constate une violation de l'autonomie communale, il annule la décision attaquée et renvoie la cause à l'instance cantonale pour nouvelle décision, si celle-ci n'a pas respecté la marge d'appréciation revenant à la commune (**ATF 138 I 143 consid. 4.4–4.5**). Dans des cas exceptionnels, le Tribunal fédéral statue avec pleine juridiction (réforme).
 
-**N. 19** **Obligations de prise en compte (al. 2 et 3)** : Celles-ci ne fondent pas de droits subjectifs des communes. Elles sont principalement des directives de législation et d'exécution à la Confédération. Une violation peut toutefois être invoquée dans le cadre du contrôle abstrait des normes.
+**N. 16** La **violation de l'art. 50 al. 2 et 3 Cst.** ne fonde, selon l'opinion dominante, aucune position juridique judiciairement actionnable par les communes à l'égard de la Confédération. Ces alinéas produisent leurs effets principalement dans le processus politique et en tant que directive d'interprétation du droit fédéral. Un effet indirect en découle dans la mesure où les lois fédérales qui ignorent l'alinéa 2 peuvent être examinées à l'aune de l'alinéa 1 sous l'angle de leur proportionnalité.
 
-**N. 20** **Rapport au droit cantonal** : Les cantons déterminent l'existence et l'étendue de l'autonomie communale. Ils peuvent :
-- Fusionner des communes, même contre leur volonté (**ATF 131 I 91**)
-- Centraliser ou décentraliser des tâches
-- Élargir ou restreindre l'autonomie
+---
 
-**N. 21** **Limites** : La liberté d'aménagement cantonale trouve ses limites dans :
-- Le droit fédéral (art. 49 Cst.)
-- Les droits fondamentaux (notamment l'égalité de traitement, l'interdiction de l'arbitraire)
-- Le principe de proportionnalité (art. 5 al. 2 Cst.)
-- La bonne foi (art. 5 al. 3 Cst.)
+### 5. Points litigieux
 
-### 5. Points de controverse
+**N. 17** **Rapport entre l'art. 50 al. 1 Cst. et une éventuelle garantie constitutionnelle fédérale de l'existence des communes** : Häfelin/Haller/Keller/Thurnherr, op. cit., N 1196 s., soutiennent que la norme protège uniquement l'autonomie, non l'existence. Le Tribunal fédéral l'a confirmé (**ATF 131 I 91 consid. 2**). Rhinow/Schefer/Uebersax, op. cit., N 3150, font toutefois valoir que la dissolution inconsidérée de toutes les communes d'un canton rendrait en fin de compte le bien protégé par la norme — l'autonomie communale en tant qu'institution — sans substance et violerait ainsi l'art. 50 al. 1 Cst. Ce débat est pratiquement pertinent dans les cantons pratiquant une politique de fusion agressive.
 
-**N. 22** **Nature juridique de la garantie fédérale** : Une partie de la doctrine n'attribue à l'art. 50 al. 1 Cst. qu'une signification déclaratoire (critiques chez Meyer, BSK BV, Art. 50 N. 11). Meyer soutient en revanche que la norme a une signification constitutive et renforce la protection de l'autonomie communale (Meyer, BSK BV, Art. 50 N. 11).
+**N. 18** **Pouvoir d'examen des tribunaux cantonaux à l'égard des décisions discrétionnaires communales** : Schindler, Benjamin, «Die Gemeindeautonomie als Hindernis für einen wirksamen Rechtsschutz», Festschrift Jaag 2012, p. 149 ss, et Griffel, Alain, Raumplanungs- und Baurecht in a nutshell, 2012, p. 182, critiquent le fait que la formule du Tribunal fédéral — selon laquelle les tribunaux cantonaux ne pourraient intervenir que si la décision d'appréciation de l'autorité communale ne pouvait plus être soutenue objectivement — équivaut à un contrôle de l'arbitraire et porte atteinte à la protection juridique au sens de l'art. 29a Cst. Le Tribunal fédéral a partiellement pris en compte cette critique et précisé dans l'**ATF 145 I 52 consid. 3.6** : les tribunaux cantonaux ne peuvent pas seulement intervenir en cas d'arbitraire, mais doivent faire preuve de retenue lorsqu'il s'agit d'apprécier des questions relatives aux conditions locales, que l'autorité communale connaît mieux qu'eux. Une autorité communale excède sa marge de manœuvre également lorsqu'elle se laisse guider par des considérations étrangères à l'objet ou lorsqu'elle viole l'égalité de traitement et la proportionnalité.
 
-**N. 23** **Justiciabilité des al. 2 et 3** : Il est controversé de savoir dans quelle mesure les obligations de prise en compte sont juridictionnellement exécutoires. La doctrine dominante y voit principalement des instructions d'action politique sans opposabilité directe (Meyer, BSK BV, Art. 50 N. 33 ss).
+**N. 19** **Justiciabilité de l'alinéa 2** : Müller/Schefer, Grundrechte in der Schweiz, 4e éd. 2008, p. 729, estiment que l'alinéa 2 contient une directive contraignante qui va au-delà d'une simple norme programmatique. En revanche, Rhinow/Schefer/Uebersax, op. cit., N 3157, considèrent qu'une exécution judiciaire de l'alinéa 2 à l'égard de la Confédération est exclue, faute de droit subjectif des communes. Dans la pratique, le Tribunal fédéral n'a jusqu'à présent pas utilisé l'alinéa 2 comme critère d'examen autonome ; l'alinéa 1 demeure la norme-clé.
 
-**N. 24** **Rapport à la Charte européenne** : Il est discuté de manière controversée si l'art. 4 de la Charte européenne (étendue de l'autonomie locale) contient des garanties allant au-delà de l'art. 50 Cst. La pratique tend vers la négation (Meyer, BSK BV, Art. 50 N. 8-10).
+**N. 20** **Définition de la notion d'«agglomération»** à l'alinéa 3 : Au Conseil national, Bircher Peter (C, AG) a relevé que la notion d'«agglomération» n'était pas délimitable de manière juridiquement claire (BO 1998 CN tiré à part). La doctrine (cf. Rhinow/Schefer/Uebersax, op. cit., N 3158) recommande de se référer aux définitions statistiques de l'Office fédéral de la statistique ; une définition juridiquement contraignante fait défaut dans la Constitution.
 
-**N. 25** **Autonomie financière** : L'étendue de l'autonomie financière communale est particulièrement controversée. Tandis que des parties de la doctrine exigent un standard minimal constitutionnel, la pratique souligne la liberté d'aménagement cantonale (**ATF 144 I 81**).
+---
 
 ### 6. Indications pratiques
 
-**N. 26** **Schéma d'examen en cas de violations d'autonomie** :
-1. Existe-t-il une autonomie communale dans le domaine en question selon le droit cantonal ?
-2. L'acte attaqué porte-t-il atteinte au domaine autonome ?
-3. L'atteinte est-elle justifiée par un droit supérieur ?
-4. Les limites (arbitraire, proportionnalité) ont-elles été respectées ?
+**N. 21** **Invocation d'une violation de l'autonomie** : Une commune souhaitant invoquer une violation de l'art. 50 al. 1 Cst. doit démontrer (1) dans quel domaine elle dispose d'une autonomie en vertu du droit cantonal, (2) que l'instance cantonale est intervenue dans ce domaine, et (3) que cette intervention n'est pas objectivement justifiée ou méconnaît la marge d'appréciation qui lui revient. La question de savoir si une commune est effectivement autonome dans le domaine concerné est examinée librement par le Tribunal fédéral ; la question de savoir si elle a exercé correctement sa marge de manœuvre n'est examinée que sous l'angle de l'arbitraire, dans la mesure où il s'agit de droit législatif.
 
-**N. 27** **Domaines d'autonomie importants** dans la pratique :
-- Planification de l'affectation et autorisations de construire (**ATF 136 I 395**)
-- Naturalisations (**ATF 139 I 169**)
-- Marchés publics (**ATF 143 II 553**)
-- Système scolaire et éducatif (**ATF 141 I 36**)
-- Système financier et fiscal (**ATF 144 I 81**)
+**N. 22** **Domaines pratiques** : L'art. 50 al. 1 Cst. est pertinent dans de nombreux domaines, notamment le droit de la construction et de l'aménagement du territoire (**ATF 145 I 52**, **ATF 136 I 265**, **ATF 136 I 395**), les marchés publics (**ATF 138 I 143**, **ATF 143 II 553**), le droit de la naturalisation (**ATF 139 I 169**, **ATF 137 I 235**), le droit scolaire (**ATF 141 I 36**) et le droit financier (**ATF 144 I 81**). La question déterminante est toujours de savoir si le droit cantonal accorde à la commune, dans le domaine concret, une liberté de décision relativement importante.
 
-**N. 28** **Aspects procéduraux** :
-- Qualité pour recourir : Seulement la commune en tant que telle, pas les autorités individuelles
-- Délai de recours : 30 jours (art. 100 al. 1 LTF)
-- Épuisement des instances : Les voies de droit cantonales doivent être épuisées
+**N. 23** **Aménagement du territoire et procédures de plan directeur** : La Confédération et les cantons sont tenus d'associer les communes de manière appropriée aux procédures de plan directeur et de donner suite à leurs objections. Le Tribunal fédéral a déduit des droits de participation des communes de l'art. 50 al. 1 Cst. en lien avec l'art. 29 al. 2 Cst. et les dispositions de procédure de la LAT (**ATF 136 I 265 consid.** relatif à l'audition dans la procédure du plan directeur ; **ATF 147 I 433** ; **ATF 146 I 36**).
 
-**N. 29** **Rapport à d'autres griefs** : La violation de l'autonomie communale peut souvent être soulevée conjointement avec d'autres griefs constitutionnels (arbitraire, égalité de traitement, proportionnalité). Le grief spécifique d'autonomie a toutefois une signification autonome en raison de la cognition restreinte du Tribunal fédéral.
+**N. 24** **Villes et agglomérations (alinéas 2 et 3)** : Dans la législation fédérale, l'art. 50 al. 3 Cst. agit comme directive d'interprétation. Les autorités fédérales doivent, lors de l'élaboration de lois touchant les agglomérations et les régions de montagne — notamment dans les domaines de l'aménagement du territoire, de la politique régionale et de la péréquation financière —, tenir compte des besoins particuliers de ces types de communes. Il est possible de se fonder sur cette disposition dans les procédures politiques (consultation, initiative parlementaire), mais elle ne peut pas être invoquée directement devant les tribunaux comme base d'une annulation du droit fédéral. → art. 190 Cst.
