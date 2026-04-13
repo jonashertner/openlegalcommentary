@@ -81,6 +81,8 @@ const translations: Record<string, Record<Lang, string>> = {
     it: 'Sentenze principali del Tribunale federale, ordinate per tema e aggiornate quotidianamente.',
     en: 'Leading Federal Supreme Court decisions, organized by topic and updated daily.',
   },
+  'home.cantons_heading': { de: 'Kantonsverfassungen', fr: 'Constitutions cantonales', it: 'Costituzioni cantonali', en: 'Cantonal Constitutions' },
+  'home.cantons_subtitle': { de: '26 Kantone', fr: '26 cantons', it: '26 cantoni', en: '26 cantons' },
   'home.open_heading': { de: 'Offen und frei', fr: 'Ouvert et libre', it: 'Aperto e libero', en: 'Open and Free' },
   'home.open_desc': {
     de: 'Alle Inhalte stehen unter CC BY-SA 4.0. Der Code ist MIT-lizenziert. Beitragen auf GitHub.',
