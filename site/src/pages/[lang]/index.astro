@@ -14,7 +14,7 @@ const { lang } = Astro.params as { lang: Lang };
 
 const lawsWithStats = LAWS.map((law) => ({
   law,
-  stats: getLawStats(law.abbr),
+  stats: getLawStats(law.slug),
 }));
 
 const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticles, 0);

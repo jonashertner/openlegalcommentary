@@ -25,8 +25,8 @@ if (!lawInfo) {
   return Astro.redirect(langHome(lang));
 }
 
-const articles = listArticles(lawInfo.abbr);
-const stats = getLawStats(lawInfo.abbr);
+const articles = listArticles(lawInfo.slug);
+const stats = getLawStats(lawInfo.slug);
 
 // Load structural data (Titel/Kapitel/Abschnitt) if available
 interface StructureEntry {

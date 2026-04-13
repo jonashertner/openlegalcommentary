@@ -36,11 +36,12 @@ const { lang, law: lawParam, article: articleSlug } = Astro.params as { lang: La
 const lawInfo = getLawByAbbr(lawParam!);
 if (!lawInfo) return Astro.redirect(langHome(lang));
 
+const lawKey = lawInfo.slug;
 const dirName = slugToDirName(articleSlug!);
-const articleData = loadArticle(lawInfo.abbr, dirName, lang);
+const articleData = loadArticle(lawKey, dirName, lang);
 
 // Build meta from article_lists.json fallback if no content dir
-const allArticles = listArticles(lawInfo.abbr);
+const allArticles = listArticles(lawKey);
 const articleEntry = allArticles.find((a) => a.slug === articleSlug);
 if (!articleData && !articleEntry) return Astro.redirect(`${langBase(lang)}/${lawParam}`);
 
@@ -48,8 +49,8 @@ const meta = articleData?.meta || articleEntry!.meta;
 const summary = articleData?.summary || '';
 const doctrine = articleData?.doctrine || '';
 const caselaw = articleData?.caselaw || '';
-const crossRefs = getCrossReferences(lawInfo.abbr, dirName);
-const rawNav = getArticleNav(lawInfo.abbr, dirName);
+const crossRefs = getCrossReferences(lawKey, dirName);
+const rawNav = getArticleNav(lawKey, dirName);
 // Translate prev/next titles
 const nav = {
   prev: rawNav.prev ? { slug: rawNav.prev.slug, title: getTranslatedTitle(lawInfo.abbr, rawNav.prev.slug.replace('art-', ''), lang, rawNav.prev.title) } : null,
@@ -58,9 +59,9 @@ const nav = {
 
 // Load Gesetzestext in the current language, fallback to German
 const articleRaw = `${meta.article}${meta.article_suffix || ''}`;
-let gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw, lang);
+let gesetzestextParagraphs = getArticleText(lawKey, articleRaw, lang);
 if (gesetzestextParagraphs.length === 0 && lang !== 'de') {
-  gesetzestextParagraphs = getArticleText(lawInfo.abbr, articleRaw, 'de');
+  gesetzestextParagraphs = getArticleText(lawKey, articleRaw, 'de');
 }
 
 // Translate article title if available
