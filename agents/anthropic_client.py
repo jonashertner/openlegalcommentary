@@ -218,7 +218,7 @@ async def run_agent(
     for turn in range(max_turns):
         create_kwargs = dict(
             model=model_id,
-            max_tokens=16384 if use_thinking else 8192,
+            max_tokens=128000 if use_thinking else 8192,
             system=system_blocks,
             tools=tool_schemas,
             messages=messages,
@@ -228,7 +228,12 @@ async def run_agent(
                 "type": "enabled",
                 "budget_tokens": 100000,
             }
-        response = client.messages.create(**create_kwargs)
+        # Use streaming for thinking mode (required for >10min operations)
+        if use_thinking:
+            with client.messages.stream(**create_kwargs) as stream:
+                response = stream.get_final_message()
+        else:
+            response = client.messages.create(**create_kwargs)
 
         usage = response.usage
         total_input_tokens += usage.input_tokens
