@@ -29,7 +29,12 @@ def format_article_text(law: str, article_number: int, suffix: str) -> str:
     """Format article text from article_texts.json for prompt injection."""
     texts = load_article_texts()
     key = f"{article_number}{suffix}"
-    paragraphs = texts.get(law.upper(), {}).get(key, [])
+    law_texts = texts.get(law.upper(), {})
+    paragraphs = law_texts.get(key, [])
+    if not paragraphs and suffix:
+        # Fallback: article_texts.json may use underscore format (e.g. "5_a")
+        underscore_key = f"{article_number}_{suffix}"
+        paragraphs = law_texts.get(underscore_key, [])
     if not paragraphs:
         return ""
     lines = []

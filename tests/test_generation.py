@@ -74,7 +74,7 @@ def test_generate_and_evaluate_passes_first_try(config):
         patch(
             "agents.generation.evaluate_layer",
             new_callable=AsyncMock,
-            return_value=_pass_result(),
+            return_value=(_pass_result(), 0.05),
         ),
     ):
         result = asyncio.run(
@@ -95,7 +95,7 @@ def test_generate_and_evaluate_retries_on_failure(config):
         patch(
             "agents.generation.evaluate_layer",
             new_callable=AsyncMock,
-            side_effect=[fail, fail, _pass_result()],
+            side_effect=[(fail, 0.05), (fail, 0.05), (_pass_result(), 0.05)],
         ),
     ):
         result = asyncio.run(
@@ -116,7 +116,7 @@ def test_generate_and_evaluate_flags_after_max_retries(config):
         patch(
             "agents.generation.evaluate_layer",
             new_callable=AsyncMock,
-            return_value=fail,
+            return_value=(fail, 0.05),
         ),
     ):
         result = asyncio.run(
@@ -152,7 +152,7 @@ def test_generate_and_evaluate_retries_on_write_skip(config):
         patch(
             "agents.generation.evaluate_layer",
             new_callable=AsyncMock,
-            return_value=_pass_result(),
+            return_value=(_pass_result(), 0.05),
         ),
     ):
         result = asyncio.run(
@@ -175,7 +175,7 @@ def test_generate_and_evaluate_fails_if_every_attempt_write_skips(config):
         patch(
             "agents.generation.evaluate_layer",
             new_callable=AsyncMock,
-            return_value=_pass_result(),  # would pass if the evaluator were reached
+            return_value=(_pass_result(), 0.05),  # would pass if the evaluator were reached
         ),
     ):
         result = asyncio.run(
@@ -207,7 +207,7 @@ def test_generate_and_evaluate_rolls_back_on_total_failure(config):
         patch(
             "agents.generation.evaluate_layer",
             new_callable=AsyncMock,
-            return_value=fail,
+            return_value=(fail, 0.05),
         ),
     ):
         result = asyncio.run(
@@ -239,7 +239,7 @@ def test_generate_and_evaluate_rolls_back_missing_file(config):
         patch(
             "agents.generation.evaluate_layer",
             new_callable=AsyncMock,
-            return_value=fail,
+            return_value=(fail, 0.05),
         ),
     ):
         result = asyncio.run(
@@ -266,7 +266,7 @@ def test_generate_and_evaluate_success_does_not_trigger_rollback(config):
         patch(
             "agents.generation.evaluate_layer",
             new_callable=AsyncMock,
-            return_value=_pass_result(),
+            return_value=(_pass_result(), 0.05),
         ),
     ):
         result = asyncio.run(

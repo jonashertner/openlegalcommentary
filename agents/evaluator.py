@@ -138,7 +138,7 @@ async def evaluate_layer(
     if prep_materials_block:
         prompt += f"\n\n{prep_materials_block}"
 
-    response_text, _ = await run_agent(
+    response_text, cost = await run_agent(
         system_prompt=system_prompt,
         prompt=prompt,
         model=config.model_evaluator,
@@ -151,4 +151,4 @@ async def evaluate_layer(
         max_turns=config.max_turns_per_agent,
     )
 
-    return parse_eval_response(response_text)
+    return parse_eval_response(response_text), cost

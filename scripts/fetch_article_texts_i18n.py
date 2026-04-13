@@ -1,8 +1,8 @@
-"""Fetch article texts in FR and IT from opencaselaw MCP.
+"""Fetch article texts in FR, IT, and EN from opencaselaw MCP.
 
 Reads article_lists.json for the article inventory, then calls the
-get_law MCP tool per article per language. Saves to article_texts_fr.json
-and article_texts_it.json with the same structure as article_texts.json.
+get_law MCP tool per article per language. Saves to article_texts_{lang}.json
+with the same structure as article_texts.json.
 """
 from __future__ import annotations
 
@@ -31,7 +31,8 @@ def _parse_article_text(raw: str) -> list[dict]:
     body_started = False
     body_lines = []
     for line in lines:
-        if line.startswith("### Art."):
+        # Match article headers including suffix articles: ### Art. 5a, ### Art. 10a
+        if re.match(r"^###\s+Art\.", line):
             body_started = True
             continue
         if body_started:
@@ -113,7 +114,7 @@ async def fetch_all(language: str) -> dict:
 
 
 async def main():
-    for lang in ("fr", "it"):
+    for lang in ("fr", "it", "en"):
         texts = await fetch_all(lang)
         out_path = SCRIPTS_DIR / f"article_texts_{lang}.json"
         out_path.write_text(json.dumps(texts, ensure_ascii=False, indent=None))
