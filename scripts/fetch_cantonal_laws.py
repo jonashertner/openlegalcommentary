@@ -516,6 +516,21 @@ def _segment_pdf_articles(
     if not matches:
         return [], {}
 
+    # Filter out matches where footnote numbers merged with article
+    # numbers (e.g., "Art. 356" where 35 is the article and 6 is a
+    # footnote). Heuristic: if a number is much larger than its
+    # neighbors, it's likely a merge.
+    filtered = []
+    nums = [int(re.match(r"(\d+)", m.group(1)).group(1)) for m in matches]
+    for i, (m, n) in enumerate(zip(matches, nums)):
+        prev_n = nums[i - 1] if i > 0 else 0
+        next_n = nums[i + 1] if i + 1 < len(nums) else n
+        # Skip if this number is implausibly large relative to neighbors
+        if n > 300 or (n > prev_n + 50 and n > next_n + 50):
+            continue
+        filtered.append(m)
+    matches = filtered
+
     articles: list[dict] = []
     article_texts: dict[str, list[dict]] = {}
 
@@ -863,7 +878,7 @@ def _http_get(
 # ── Orchestrator ─────────────────────────────────────────────────
 
 
-PDF_CANTONS = {"SZ", "TI", "VD", "JU"}
+PDF_CANTONS = {"SZ", "TI", "VD", "JU", "ZH"}
 
 
 def fetch_canton(canton: str) -> Path:
