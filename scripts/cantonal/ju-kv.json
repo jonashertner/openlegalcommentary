@@ -7,7 +7,7 @@
   "lexfind_id": 8442,
   "fetched_at": "2026-04-14",
   "source": "lexfind_pdf",
-  "article_count": 134,
+  "article_count": 127,
   "articles": [
     {
       "number": 2,
@@ -49,12 +49,6 @@
       "number": 9,
       "suffix": "",
       "raw": "9",
-      "title": ""
-    },
-    {
-      "number": 109,
-      "suffix": "",
-      "raw": "109",
       "title": ""
     },
     {
@@ -145,12 +139,6 @@
       "number": 25,
       "suffix": "",
       "raw": "25",
-      "title": ""
-    },
-    {
-      "number": 264,
-      "suffix": "",
-      "raw": "264",
       "title": ""
     },
     {
@@ -586,34 +574,22 @@
       "title": "Les tribunaux sont indépendants."
     },
     {
-      "number": 1025,
-      "suffix": "",
-      "raw": "1025",
-      "title": ""
-    },
-    {
       "number": 105,
       "suffix": "",
       "raw": "105",
       "title": "En matière pénale, la protection des mineurs relève d'une juridiction"
     },
     {
-      "number": 1069,
-      "suffix": "",
-      "raw": "1069",
-      "title": "Ministère public"
-    },
-    {
-      "number": 1079,
-      "suffix": "",
-      "raw": "1079",
-      "title": "Renvoi"
-    },
-    {
       "number": 108,
       "suffix": "",
       "raw": "108",
       "title": "Statut"
+    },
+    {
+      "number": 109,
+      "suffix": "",
+      "raw": "109",
+      "title": ""
     },
     {
       "number": 110,
@@ -778,18 +754,6 @@
       "title": "Revision totale"
     },
     {
-      "number": 1382,
-      "suffix": "",
-      "raw": "1382",
-      "title": ""
-    },
-    {
-      "number": 13912,
-      "suffix": "",
-      "raw": "13912",
-      "title": ""
-    },
-    {
       "number": 7,
       "suffix": "",
       "raw": "7",
@@ -806,12 +770,6 @@
       "suffix": "",
       "raw": "148",
       "title": ""
-    },
-    {
-      "number": 1517,
-      "suffix": "",
-      "raw": "1517",
-      "title": ""
     }
   ],
   "article_texts": {
@@ -819,20 +777,12 @@
       {
         "num": null,
         "text": "ses représentants."
-      },
-      {
-        "num": null,
-        "text": "Langue"
       }
     ],
     "3": [
       {
         "num": null,
-        "text": "Canton du Jura. 101 2"
-      },
-      {
-        "num": null,
-        "text": "Coopération"
+        "text": "Canton du Jura."
       }
     ],
     "4": [
@@ -847,24 +797,12 @@
       {
         "num": "3",
         "text": "Elle est ouverte au monde et coopère avec les peuples soucieux de solidarité."
-      },
-      {
-        "num": null,
-        "text": "Armoiries"
       }
     ],
     "5": [
       {
         "num": null,
-        "text": "\"Parti d'argent à la crosse épiscopale de gueules et de gueules à trois fasces d'argent.\""
-      },
-      {
-        "num": null,
-        "text": "II.  LES DROITS FONDAMENTAUX"
-      },
-      {
-        "num": null,
-        "text": "Egalité devant la loi"
+        "text": "\"Parti d'argent à la crosse épiscopale de gueules et de gueules à trois fasces d'argent.\" II.  LES DROITS FONDAMENTAUX Egalité devant la loi"
       }
     ],
     "6": [
@@ -883,10 +821,6 @@
       {
         "num": "2",
         "text": "Tout être humain a droit au libre développement de sa personnalité et à l'égalité des chances."
-      },
-      {
-        "num": null,
-        "text": "Libertés"
       }
     ],
     "8": [
@@ -896,11 +830,11 @@
       },
       {
         "num": null,
-        "text": "a) le droit à la vie et à l'intégrité physique et morale; b) le droit au respect de la vie privée et du domicile; c) le droit de contracter mariage et celui d'avoir une vie de famille; d) le droit d'élever et d'éduquer ses enfants; e) la liberté de pensée, de conscience et de religion; f) la liberté d'avoir, d'exprimer et de diffuser des opinions, en particulier la liberté de presse; g) la liberté d'association, de réunion et de manifestation publique; h) la liberté d'étude et d'enseignement; i) la liberté de l'art et de la recherche; j) la liberté de choisir et d'exercer une profession; 101 3 k) la liberté de commerce et d'industrie; l) la liberté d'établissement; m) la liberté d'accéder aux charges publiques."
+        "text": "a) le droit à la vie et à l'intégrité physique et morale; b) le droit au respect de la vie privée et du domicile; c) le droit de contracter mariage et celui d'avoir une vie de famille; d) le droit d'élever et d'éduquer ses enfants; e) la liberté de pensée, de conscience et de religion; f) la liberté d'avoir, d'exprimer et de diffuser des opinions, en particulier la liberté de presse; g) la liberté d'association, de réunion et de manifestation publique; h) la liberté d'étude et d'enseignement; i) la liberté de l'art et de la recherche; j) la liberté de choisir et d'exercer une profession;"
       },
       {
         "num": null,
-        "text": "Protection juridique en général"
+        "text": "101 3 k) la liberté de commerce et d'industrie; l) la liberté d'établissement; m) la liberté d'accéder aux charges publiques."
       }
     ],
     "9": [
@@ -919,16 +853,6 @@
       {
         "num": "4",
         "text": "Les parties dépourvues des ressources nécessaires ont droit à l'assistance judiciaire gratuite selon la loi."
-      }
-    ],
-    "109": [
-      {
-        "num": null,
-        "text": ")"
-      },
-      {
-        "num": null,
-        "text": "Censure"
       }
     ],
     "11": [
@@ -957,20 +881,12 @@
       {
         "num": "5",
         "text": "La loi peut conférer un droit de préemption à l'Etat et aux communes lorsqu'un intérêt public prépondérant l'exige."
-      },
-      {
-        "num": null,
-        "text": "Limites des droits fondamentaux"
       }
     ],
     "13": [
       {
         "num": null,
         "text": "la seule mesure d'un intérêt public prépondérant."
-      },
-      {
-        "num": null,
-        "text": "Effets des droits fondamentaux"
       }
     ],
     "14": [
@@ -980,21 +896,13 @@
       },
       {
         "num": "2",
-        "text": "Chacun exerce ses droits fondamentaux en respectant ceux d'autrui. 101 4"
-      },
-      {
-        "num": null,
-        "text": "Devoirs"
+        "text": "Chacun exerce ses droits fondamentaux en respectant ceux d'autrui."
       }
     ],
     "15": [
       {
         "num": null,
         "text": "communes."
-      },
-      {
-        "num": null,
-        "text": "Droit de cité"
       }
     ],
     "16": [
@@ -1005,14 +913,6 @@
       {
         "num": "2",
         "text": "Le droit de cité communal fonde la citoyenneté cantonale."
-      },
-      {
-        "num": null,
-        "text": "III.  LES TACHES DE L'ETAT 1. La famille"
-      },
-      {
-        "num": null,
-        "text": "La famille"
       }
     ],
     "17": [
@@ -1022,11 +922,7 @@
       },
       {
         "num": "2",
-        "text": "Il en renforce le rôle dans la communauté. 2. La sécurité sociale"
-      },
-      {
-        "num": null,
-        "text": "Principe"
+        "text": "Il en renforce le rôle dans la communauté."
       }
     ],
     "18": [
@@ -1041,10 +937,6 @@
       {
         "num": "3",
         "text": "Ils encouragent l'insertion des migrants dans le milieu social jurassien."
-      },
-      {
-        "num": null,
-        "text": "Droit au travail"
       }
     ],
     "19": [
@@ -1066,31 +958,19 @@
       },
       {
         "num": "5",
-        "text": "Il favorise l'intégration économique et sociale des handicapés. 101 5"
-      },
-      {
-        "num": null,
-        "text": "Protection des travailleurs"
+        "text": "Il favorise l'intégration économique et sociale des handicapés."
       }
     ],
     "20": [
       {
         "num": null,
         "text": "a) organise l'assurance chômage obligatoire; b) institue la médecine du travail; c) légifère sur les conditions de travail; d) favorise la participation des travailleurs au sein des entreprises; e) protège les travailleurs et leurs représentants dans l'exercice de leurs droits; f) veille à l'application du principe \"à travail égal, salaire égal\"; g) reconnaît le droit de grève; la loi détermine les services publics où il peut être réglementé."
-      },
-      {
-        "num": null,
-        "text": "Paix sociale"
       }
     ],
     "21": [
       {
         "num": null,
         "text": "chargé d'intervenir dans les conflits sociaux."
-      },
-      {
-        "num": null,
-        "text": "Droit au logement"
       }
     ],
     "22": [
@@ -1105,10 +985,6 @@
       {
         "num": "3",
         "text": "Ils prennent des mesures aux fins de protéger les locataires contre les abus."
-      },
-      {
-        "num": null,
-        "text": "Assurances et prestations sociales"
       }
     ],
     "23": [
@@ -1122,21 +998,13 @@
       },
       {
         "num": "3",
-        "text": "Pour le financement des assurances et prestations sociales, la loi s'inspire du principe de la solidarité. 3. L'aide sociale"
-      },
-      {
-        "num": null,
-        "text": "L'aide sociale"
+        "text": "Pour le financement des assurances et prestations sociales, la loi s'inspire du principe de la solidarité."
       }
     ],
     "24": [
       {
         "num": null,
-        "text": "4. La santé publique"
-      },
-      {
-        "num": null,
-        "text": "Protection générale"
+        "text": "4. La santé publique Protection générale"
       }
     ],
     "25": [
@@ -1146,7 +1014,11 @@
       },
       {
         "num": "2",
-        "text": "Ils favorisent la médecine préventive et encouragent les activités visant à donner des soins aux malades et aux handicapés. 101 6"
+        "text": "Ils favorisent la médecine préventive et encouragent les activités visant à donner des soins aux malades et aux handicapés."
+      },
+      {
+        "num": null,
+        "text": "101 6"
       },
       {
         "num": "3",
@@ -1154,13 +1026,7 @@
       },
       {
         "num": null,
-        "text": "Organisation du système hospitalier"
-      }
-    ],
-    "264": [
-      {
-        "num": null,
-        "text": ")  1 L'Etat organise et coordonne l'ensemble du système hospitalier et des services médicaux annexes."
+        "text": "Organisation du système hospitalier Art. 264)  1 L'Etat organise et coordonne l'ensemble du système hospitalier et des services médicaux annexes."
       },
       {
         "num": "2",
@@ -1173,10 +1039,6 @@
       {
         "num": null,
         "text": "Soins à domicile Art. 27  L'Etat favorise les soins à domicile."
-      },
-      {
-        "num": null,
-        "text": "Police sanitaire"
       }
     ],
     "28": [
@@ -1193,10 +1055,6 @@
       {
         "num": "2",
         "text": "L'Etat favorise la prise en charge du coût des soins dentaires par l'assurance maladie."
-      },
-      {
-        "num": null,
-        "text": "Sport"
       }
     ],
     "30": [
@@ -1212,11 +1070,7 @@
       },
       {
         "num": "2",
-        "text": "La loi en règle la composition, le fonctionnement et les compétences. 5. L'école"
-      },
-      {
-        "num": null,
-        "text": "Mission"
+        "text": "La loi en règle la composition, le fonctionnement et les compétences."
       }
     ],
     "32": [
@@ -1231,20 +1085,12 @@
       {
         "num": "3",
         "text": "Elle forme des êtres libres, conscients de leurs responsabilités et capables de prendre en charge leur propre destinée."
-      },
-      {
-        "num": null,
-        "text": "Obligation"
       }
     ],
     "33": [
       {
         "num": null,
-        "text": "101 7"
-      },
-      {
-        "num": null,
-        "text": "Ecoles publiques Art. 34  1 L'Etat organise et contrôle l'école publique."
+        "text": "101 7 Ecoles publiques Art. 34  1 L'Etat organise et contrôle l'école publique."
       },
       {
         "num": "2",
@@ -1257,10 +1103,6 @@
       {
         "num": "4",
         "text": "L'école publique respecte la liberté de pensée, de conscience et de religion."
-      },
-      {
-        "num": null,
-        "text": "Répartition des tâches"
       }
     ],
     "35": [
@@ -1279,30 +1121,18 @@
       {
         "num": "4",
         "text": "L'Etat assume la formation initiale et permanente du corps enseignant."
-      },
-      {
-        "num": null,
-        "text": "Formation des handicapés"
       }
     ],
     "36": [
       {
         "num": null,
         "text": "lesquels les handicapés reçoivent une formation adaptée à leur état."
-      },
-      {
-        "num": null,
-        "text": "Formation hors du Canton"
       }
     ],
     "37": [
       {
         "num": null,
         "text": "certaines formations qui ne sont pas dispensées dans le Canton."
-      },
-      {
-        "num": null,
-        "text": "Ecoles privées"
       }
     ],
     "38": [
@@ -1313,10 +1143,6 @@
       {
         "num": "2",
         "text": "L'Etat soutient les écoles privées aux conditions fixées par la loi."
-      },
-      {
-        "num": null,
-        "text": "Surveillance"
       }
     ],
     "39": [
@@ -1332,11 +1158,7 @@
       },
       {
         "num": "2",
-        "text": "L'Etat et les communes facilitent la fréquentation des écoles et des universités, ainsi que la formation professionnelle en général. 101 8"
-      },
-      {
-        "num": null,
-        "text": "Conseil scolaire"
+        "text": "L'Etat et les communes facilitent la fréquentation des écoles et des universités, ainsi que la formation professionnelle en général."
       }
     ],
     "41": [
@@ -1346,11 +1168,11 @@
       },
       {
         "num": "2",
-        "text": "La loi en règle la composition, le fonctionnement et les compétences. 6. La culture et l'éducation des adultes"
+        "text": "La loi en règle la composition, le fonctionnement et les compétences."
       },
       {
         "num": null,
-        "text": "Activités culturelles"
+        "text": "6. La culture et l'éducation des adultes Activités culturelles"
       }
     ],
     "42": [
@@ -1365,20 +1187,12 @@
       {
         "num": "3",
         "text": "Ils favorisent l'illustration de la langue française."
-      },
-      {
-        "num": null,
-        "text": "Education des adultes"
       }
     ],
     "43": [
       {
         "num": null,
-        "text": "7. Le Bureau de la condition féminine"
-      },
-      {
-        "num": null,
-        "text": "Le Bureau de la condition féminine"
+        "text": "7. Le Bureau de la condition féminine Le Bureau de la condition féminine"
       }
     ],
     "44": [
@@ -1388,23 +1202,19 @@
       },
       {
         "num": null,
-        "text": "a) améliorer la condition féminine; b) favoriser l'accès de la femme à tous les degrés de responsabilité; c) éliminer les discriminations dont elle peut faire l'objet. 7bis. Le développement durable11)"
+        "text": "a) améliorer la condition féminine; b) favoriser l'accès de la femme à tous les degrés de responsabilité; c) éliminer les discriminations dont elle peut faire l'objet."
       },
       {
         "num": null,
-        "text": "Développement durable"
-      },
-      {
-        "num": null,
-        "text": "Art. 44a11)  1 L'Etat et les communes veillent à l'équilibre entre la préservation de l'environnement naturel et les exigences de la vie économique et sociale."
+        "text": "7bis. Le développement durable11) Développement durable Art. 44a11)  1 L'Etat et les communes veillent à l'équilibre entre la préservation de l'environnement naturel et les exigences de la vie économique et sociale."
       },
       {
         "num": "2",
-        "text": "Dans l'accomplissement de leurs tâches, ils respectent les principes du développement durable et prennent en compte les intérêts des générations futures. 101 9 8. L'environnement et le territoire"
+        "text": "Dans l'accomplissement de leurs tâches, ils respectent les principes du développement durable et prennent en compte les intérêts des générations futures."
       },
       {
         "num": null,
-        "text": "Protection de l'environnement"
+        "text": "101 9 8. L'environnement et le territoire Protection de l'environnement"
       }
     ],
     "45": [
@@ -1423,10 +1233,6 @@
       {
         "num": "4",
         "text": "Il règle la pratique de la chasse et de la pêche."
-      },
-      {
-        "num": null,
-        "text": "Aménagement du territoire"
       }
     ],
     "46": [
@@ -1448,11 +1254,7 @@
       },
       {
         "num": "5",
-        "text": "Ils considèrent l'avis des populations en cause. 9. L'économie"
-      },
-      {
-        "num": null,
-        "text": "Développement de l'économie"
+        "text": "Ils considèrent l'avis des populations en cause."
       }
     ],
     "47": [
@@ -1463,20 +1265,12 @@
       {
         "num": "2",
         "text": "Il peut, à cet effet, créer des services et soutenir des institutions, notamment un Conseil économique et social consultatif et un Office de développement économique."
-      },
-      {
-        "num": null,
-        "text": "Constructions et routes"
       }
     ],
     "48": [
       {
         "num": null,
-        "text": "101 10"
-      },
-      {
-        "num": null,
-        "text": "Transports publics"
+        "text": "101 10 Transports publics"
       }
     ],
     "49": [
@@ -1488,31 +1282,23 @@
     "50": [
       {
         "num": null,
-        "text": "Politique agricole Art. 51  L'Etat définit une politique agricole. 10. La protection des consommateurs"
+        "text": "Politique agricole Art. 51  L'Etat définit une politique agricole."
       },
       {
         "num": null,
-        "text": "La protection des consommateurs"
+        "text": "10. La protection des consommateurs La protection des consommateurs"
       }
     ],
     "52": [
       {
         "num": null,
-        "text": "11. L'aide humanitaire"
-      },
-      {
-        "num": null,
-        "text": "L'aide humanitaire"
+        "text": "11. L'aide humanitaire L'aide humanitaire"
       }
     ],
     "53": [
       {
         "num": null,
-        "text": "des peuples défavorisés. 12. L'ordre public"
-      },
-      {
-        "num": null,
-        "text": "L'ordre public"
+        "text": "des peuples défavorisés."
       }
     ],
     "54": [
@@ -1522,11 +1308,7 @@
       },
       {
         "num": null,
-        "text": "IV. L'ORGANISATION DE L'ETAT 1. Principes généraux"
-      },
-      {
-        "num": null,
-        "text": "Séparation des pouvoirs"
+        "text": "IV. L'ORGANISATION DE L'ETAT 1. Principes généraux Séparation des pouvoirs"
       }
     ],
     "55": [
@@ -1543,30 +1325,18 @@
       {
         "num": "2",
         "text": "Il doit être approprié à son but."
-      },
-      {
-        "num": null,
-        "text": "Responsabilité"
       }
     ],
     "57": [
       {
         "num": null,
-        "text": "fonctionnaires causent, sans droit, dans l'exercice de leurs fonctions. 101 11"
-      },
-      {
-        "num": null,
-        "text": "Rétroactivité des lois"
+        "text": "fonctionnaires causent, sans droit, dans l'exercice de leurs fonctions."
       }
     ],
     "58": [
       {
         "num": null,
         "text": "charges ou obligations nouvelles aux particuliers ou aux communes."
-      },
-      {
-        "num": null,
-        "text": "Délégation de compétences"
       }
     ],
     "59": [
@@ -1577,20 +1347,12 @@
       {
         "num": "2",
         "text": "S'agissant du peuple et du Parlement, la loi limite l'objet de chaque délégation et en précise le but et la portée."
-      },
-      {
-        "num": null,
-        "text": "Droit de nécessité"
       }
     ],
     "60": [
       {
         "num": null,
         "text": "peuvent, en cas de guerre ou de catastrophe, être conférées temporairement au Parlement ou au Gouvernement."
-      },
-      {
-        "num": null,
-        "text": "Renseignements juridiques et médiation"
       }
     ],
     "61": [
@@ -1601,10 +1363,6 @@
       {
         "num": "2",
         "text": "Il peut instituer un organe indépendant de médiation en matière administrative."
-      },
-      {
-        "num": null,
-        "text": "Fonctions incompatibles"
       }
     ],
     "62": [
@@ -1631,30 +1389,18 @@
       {
         "num": "6",
         "text": "La loi règle les cas d'incompatibilité s'agissant des juges non permanents et des fonctionnaires."
-      },
-      {
-        "num": null,
-        "text": "Incompatibilité entre parents"
       }
     ],
     "63": [
       {
         "num": null,
-        "text": "101 12"
-      },
-      {
-        "num": null,
-        "text": "Double activité"
+        "text": "101 12 Double activité"
       }
     ],
     "64": [
       {
         "num": null,
         "text": "incompatible avec toute autre activité rétribuée."
-      },
-      {
-        "num": null,
-        "text": "Durée des fonctions"
       }
     ],
     "65": [
@@ -1664,19 +1410,11 @@
       },
       {
         "num": "2",
-        "text": "Les présidents et vice-présidents du Parlement, du Gouvernement et du"
-      },
-      {
-        "num": null,
-        "text": "Tribunal cantonal sont élus pour un an."
+        "text": "Les présidents et vice-présidents du Parlement, du Gouvernement et du Tribunal cantonal sont élus pour un an."
       },
       {
         "num": "3",
         "text": "Toute personne élue en cours de période exerce son mandat jusqu'à la fin de celle-ci."
-      },
-      {
-        "num": null,
-        "text": "Réélection"
       }
     ],
     "66": [
@@ -1690,11 +1428,7 @@
       },
       {
         "num": "3",
-        "text": "Les présidents et vice-présidents du Parlement, du Gouvernement et du"
-      },
-      {
-        "num": null,
-        "text": "Tribunal cantonal ne sont pas immédiatement rééligibles en la même qualité."
+        "text": "Les présidents et vice-présidents du Parlement, du Gouvernement et du Tribunal cantonal ne sont pas immédiatement rééligibles en la même qualité."
       },
       {
         "num": "4",
@@ -1702,19 +1436,11 @@
       },
       {
         "num": null,
-        "text": "Destitution"
-      },
-      {
-        "num": null,
-        "text": "Art. 66a14)  1 La loi peut prévoir la destitution des membres du Gouvernement, des autorités judiciaires et des conseils communaux en cas de faute grave ou d'incapacité durable à exercer la fonction. Elle en règle la procédure et les conditions."
+        "text": "Destitution Art. 66a14)  1 La loi peut prévoir la destitution des membres du Gouvernement, des autorités judiciaires et des conseils communaux en cas de faute grave ou d'incapacité durable à exercer la fonction. Elle en règle la procédure et les conditions."
       },
       {
         "num": "2",
         "text": "La loi peut prévoir la dissolution du Gouvernement en cas de démission d'une majorité des membres de celui-ci à la suite d'une procédure de destitution visant l'un d'eux. Elle en règle la procédure et les conditions."
-      },
-      {
-        "num": null,
-        "text": "Publicité des débats"
       }
     ],
     "67": [
@@ -1730,11 +1456,7 @@
       },
       {
         "num": "2",
-        "text": "Elles publient les projets importants de manière à permettre la discussion publique. 101 13"
-      },
-      {
-        "num": null,
-        "text": "Siège des autorités"
+        "text": "Elles publient les projets importants de manière à permettre la discussion publique."
       }
     ],
     "69": [
@@ -1744,19 +1466,11 @@
       },
       {
         "num": "2",
-        "text": "Le Tribunal cantonal et le Tribunal de première instance ont leur siège à"
-      },
-      {
-        "num": null,
-        "text": "Porrentruy.5)"
+        "text": "Le Tribunal cantonal et le Tribunal de première instance ont leur siège à Porrentruy.5)"
       },
       {
         "num": "3",
-        "text": "L'administration cantonale est décentralisée. 2. Les droits politiques"
-      },
-      {
-        "num": null,
-        "text": "Electeurs"
+        "text": "L'administration cantonale est décentralisée."
       }
     ],
     "70": [
@@ -1775,44 +1489,24 @@
       {
         "num": "4",
         "text": "La loi règle les cas dans lesquels un électeur est privé de ses droits politiques."
-      },
-      {
-        "num": null,
-        "text": "Contenu des droits politiques"
       }
     ],
     "71": [
       {
         "num": null,
-        "text": "a) de prendre part aux élections et votes populaires; b) d'être élu à une fonction publique aux conditions prévues par la"
-      },
-      {
-        "num": null,
-        "text": "Constitution et la loi; c) de signer les initiatives et les référendums."
-      },
-      {
-        "num": null,
-        "text": "Jurassiens de l'extérieur"
+        "text": "a) de prendre part aux élections et votes populaires; b) d'être élu à une fonction publique aux conditions prévues par la Constitution et la loi; c) de signer les initiatives et les référendums."
       }
     ],
     "72": [
       {
         "num": null,
         "text": "Canton."
-      },
-      {
-        "num": null,
-        "text": "Etrangers"
       }
     ],
     "73": [
       {
         "num": null,
         "text": "étrangers."
-      },
-      {
-        "num": null,
-        "text": "Elections populaires"
       }
     ],
     "74": [
@@ -1822,7 +1516,11 @@
       },
       {
         "num": null,
-        "text": "a) les députés au Parlement et les suppléants; b) les membres du Gouvernement; c) les députés au Conseil des Etats. 101 14"
+        "text": "a) les députés au Parlement et les suppléants; b) les membres du Gouvernement; c) les députés au Conseil des Etats."
+      },
+      {
+        "num": null,
+        "text": "101 14"
       },
       {
         "num": "2",
@@ -1846,11 +1544,7 @@
       },
       {
         "num": "6",
-        "text": "Les membres du Gouvernement et les maires sont élus au scrutin majoritaire.5)"
-      },
-      {
-        "num": null,
-        "text": "Initiative populaire cantonale : conditions"
+        "text": "Les membres du Gouvernement et les maires sont élus au scrutin majoritaire.5) Initiative populaire cantonale : conditions"
       }
     ],
     "75": [
@@ -1860,11 +1554,7 @@
       },
       {
         "num": "2",
-        "text": "Cinq mille électeurs peuvent demander en termes généraux que le"
-      },
-      {
-        "num": null,
-        "text": "Parlement exerce le droit d'initiative de l'Etat en matière fédérale."
+        "text": "Cinq mille électeurs peuvent demander en termes généraux que le Parlement exerce le droit d'initiative de l'Etat en matière fédérale."
       },
       {
         "num": "3",
@@ -1873,10 +1563,6 @@
       {
         "num": "4",
         "text": "L'initiative peut être retirée aux conditions fixées par la loi."
-      },
-      {
-        "num": null,
-        "text": "Initiative populaire cantonale : procédure"
       }
     ],
     "76": [
@@ -1899,20 +1585,12 @@
       {
         "num": "5",
         "text": "Si le peuple accepte à la fois l'initiative et le contre-projet, est adopté le projet qui a obtenu le plus grand nombre de voix."
-      },
-      {
-        "num": null,
-        "text": "Référendum obligatoire"
       }
     ],
     "77": [
       {
         "num": null,
         "text": "a) le principe d'une revision totale de la Constitution et, simultanément, l'additif constitutionnel qui en règle les modalités; b) les dispositions constitutionnelles; c) les initiatives auxquelles le Parlement ne donne pas suite; d) toute dépense non déterminée par une loi, s'il s'agit d'une dépense unique supérieure à cinq centièmes du montant des recettes portées au dernier budget ou d'une dépense périodique supérieure à cinq millièmes du même montant; e) les lois et arrêtés qui entraînent des dépenses soumises au référendum obligatoire; f) les traités, concordats et autres conventions de droit public qui dérogent à la Constitution, la complètent ou entraînent des dépenses soumises au référendum obligatoire; g)10) le budget de l'Etat conformément à l'article 123a, alinéas 4 et 6."
-      },
-      {
-        "num": null,
-        "text": "Référendum facultatif"
       }
     ],
     "78": [
@@ -1923,24 +1601,12 @@
       {
         "num": null,
         "text": "a) les lois; b) toute dépense non déterminée par une loi, s'il s'agit d'une dépense unique supérieure à cinq millièmes du montant des recettes portées au dernier budget ou d'une dépense périodique supérieure à cinq dix-millièmes du même montant; c) les traités, concordats et autres conventions de droit public qui dérogent à la loi, la complètent ou entraînent des dépenses soumises au référendum facultatif; d) les transactions immobilières, les cautionnements et la participation à une entreprise économique, si les montants en jeu sont supérieurs à cinq millièmes du montant des recettes portées au dernier budget; e) les plans dans les cas prévus par la loi; f) les initiatives déposées par l'Etat en matière fédérale."
-      },
-      {
-        "num": null,
-        "text": "Référendum sur décision du"
-      },
-      {
-        "num": null,
-        "text": "Parlement"
       }
     ],
     "79": [
       {
         "num": null,
         "text": "prise."
-      },
-      {
-        "num": null,
-        "text": "Droit de pétition"
       }
     ],
     "80": [
@@ -1950,21 +1616,13 @@
       },
       {
         "num": "2",
-        "text": "Toute autorité saisie d'une pétition est tenue de la traiter et d'y répondre. 101 16"
-      },
-      {
-        "num": null,
-        "text": "Partis politiques"
+        "text": "Toute autorité saisie d'une pétition est tenue de la traiter et d'y répondre."
       }
     ],
     "81": [
       {
         "num": null,
-        "text": "3. Le Parlement"
-      },
-      {
-        "num": null,
-        "text": "Rôle"
+        "text": "3. Le Parlement Rôle"
       }
     ],
     "82": [
@@ -1983,10 +1641,6 @@
       {
         "num": "4",
         "text": "Il exerce la haute surveillance sur le Gouvernement, l'administration et les autorités judiciaires."
-      },
-      {
-        "num": null,
-        "text": "Compétence législative"
       }
     ],
     "83": [
@@ -1996,11 +1650,7 @@
       },
       {
         "num": null,
-        "text": "a) élabore les dispositions constitutionnelles en cas de revision partielle de la"
-      },
-      {
-        "num": null,
-        "text": "Constitution; b) édicte les lois, notamment celles qui règlent l'introduction du droit fédéral."
+        "text": "a) élabore les dispositions constitutionnelles en cas de revision partielle de la Constitution; b) édicte les lois, notamment celles qui règlent l'introduction du droit fédéral."
       },
       {
         "num": "2",
@@ -2009,20 +1659,16 @@
       {
         "num": "3",
         "text": "Les projets de dispositions constitutionnelles, de lois et de décrets font l'objet de deux lectures."
-      },
-      {
-        "num": null,
-        "text": "Autres compétences"
       }
     ],
     "84": [
       {
         "num": null,
-        "text": "a) élit les membres du Tribunal cantonal, le procureur et les membres des autres autorités désignées par la loi; b) approuve les traités, concordats et autres conventions de droit public qui ne sont pas du ressort exclusif du Gouvernement; c) discute du programme gouvernemental et de sa réalisation; d) approuve les plans cantonaux qui concernent l'économie, la construction, l'aménagement du territoire et en détermine le caractère obligatoire; e) approuve les plans financiers de l'Etat; f) arrête le budget et approuve les comptes; g) arrête toute dépense non déterminée par une loi, s'il s'agit d'un montant unique supérieur à cinq dix-millièmes du montant des recettes portées au dernier budget ou d'une dépense périodique supérieure à cinq centmillièmes de ce montant; 101 17 h) statue sur la conclusion de transactions immobilières, l'octroi de cautionnements et la participation à des entreprises économiques si les montants en jeu sont supérieurs à cinq dix-millièmes du montant des recettes portées au dernier budget; i) autorise les emprunts publics; j) approuve les rapports de gestion du Gouvernement, des tribunaux et des établissements cantonaux autonomes; k) tranche les conflits de compétence dans lesquels la Cour constitutionnelle est partie; l) exerce le droit de grâce; m) accorde l'amnistie; n) se prononce sur la réponse donnée par le Gouvernement aux consultations fédérales touchant des objets importants; o) exerce le droit d'initiative de l'Etat en matière fédérale; p) exerce le droit de demander, avec d'autres cantons, la convocation extraordinaire de l'Assemblée fédérale et la présentation au vote populaire d'une loi fédérale ou d'un arrêté fédéral; q) exerce toute autre compétence qui lui est attribuée par la Constitution ou la loi."
+        "text": "a) élit les membres du Tribunal cantonal, le procureur et les membres des autres autorités désignées par la loi; b) approuve les traités, concordats et autres conventions de droit public qui ne sont pas du ressort exclusif du Gouvernement; c) discute du programme gouvernemental et de sa réalisation; d) approuve les plans cantonaux qui concernent l'économie, la construction, l'aménagement du territoire et en détermine le caractère obligatoire; e) approuve les plans financiers de l'Etat; f) arrête le budget et approuve les comptes; g) arrête toute dépense non déterminée par une loi, s'il s'agit d'un montant unique supérieur à cinq dix-millièmes du montant des recettes portées au dernier budget ou d'une dépense périodique supérieure à cinq centmillièmes de ce montant;"
       },
       {
         "num": null,
-        "text": "Composition"
+        "text": "101 17 h) statue sur la conclusion de transactions immobilières, l'octroi de cautionnements et la participation à des entreprises économiques si les montants en jeu sont supérieurs à cinq dix-millièmes du montant des recettes portées au dernier budget; i) autorise les emprunts publics; j) approuve les rapports de gestion du Gouvernement, des tribunaux et des établissements cantonaux autonomes; k) tranche les conflits de compétence dans lesquels la Cour constitutionnelle est partie; l) exerce le droit de grâce; m) accorde l'amnistie; n) se prononce sur la réponse donnée par le Gouvernement aux consultations fédérales touchant des objets importants; o) exerce le droit d'initiative de l'Etat en matière fédérale; p) exerce le droit de demander, avec d'autres cantons, la convocation extraordinaire de l'Assemblée fédérale et la présentation au vote populaire d'une loi fédérale ou d'un arrêté fédéral; q) exerce toute autre compétence qui lui est attribuée par la Constitution ou la loi."
       }
     ],
     "85": [
@@ -2033,10 +1679,6 @@
       {
         "num": "2",
         "text": "La loi règle l'élection de suppléants."
-      },
-      {
-        "num": null,
-        "text": "Election"
       }
     ],
     "86": [
@@ -2047,20 +1689,12 @@
       {
         "num": "2",
         "text": "Trois sièges sont attribués d'office à chaque circonscription, les autres étant ensuite répartis proportionnellement à la population."
-      },
-      {
-        "num": null,
-        "text": "Convocation"
       }
     ],
     "87": [
       {
         "num": null,
         "text": "a) dans les cas prévus par le règlement; b) lorsqu'il le décide spécialement; c) à la demande du Gouvernement; d) quand douze députés le requièrent en indiquant les objets à traiter."
-      },
-      {
-        "num": null,
-        "text": "Indépendance des parlementaires"
       }
     ],
     "88": [
@@ -2070,15 +1704,15 @@
       },
       {
         "num": "2",
-        "text": "Ils ne peuvent être poursuivis pour les propos qu'ils tiennent dans l'exercice de leur mandat. 101 18"
-      },
-      {
-        "num": "3",
-        "text": "Ils n'en sont responsables que devant le Parlement. 4. Le Gouvernement"
+        "text": "Ils ne peuvent être poursuivis pour les propos qu'ils tiennent dans l'exercice de leur mandat."
       },
       {
         "num": null,
-        "text": "Rôle"
+        "text": "101 18"
+      },
+      {
+        "num": "3",
+        "text": "Ils n'en sont responsables que devant le Parlement."
       }
     ],
     "89": [
@@ -2093,10 +1727,6 @@
       {
         "num": "3",
         "text": "Il représente l'Etat."
-      },
-      {
-        "num": null,
-        "text": "Législation"
       }
     ],
     "90": [
@@ -2107,10 +1737,6 @@
       {
         "num": "2",
         "text": "Sous réserve de la compétence du Parlement, il édicte les ordonnances qui mettent à exécution le droit fédéral, les lois et les décrets cantonaux."
-      },
-      {
-        "num": null,
-        "text": "Droit d'urgence"
       }
     ],
     "91": [
@@ -2121,20 +1747,12 @@
       {
         "num": "2",
         "text": "Ces ordonnances et mesures restent en vigueur tant que les dispositions nécessaires n'ont pu être prises conformément à la Constitution, mais un an au plus."
-      },
-      {
-        "num": null,
-        "text": "Autres compétences"
       }
     ],
     "92": [
       {
         "num": "1",
-        "text": "Le Gouvernement, sous réserve des compétences du peuple et du"
-      },
-      {
-        "num": null,
-        "text": "Parlement :"
+        "text": "Le Gouvernement, sous réserve des compétences du peuple et du Parlement :"
       },
       {
         "num": null,
@@ -2146,11 +1764,11 @@
       },
       {
         "num": null,
-        "text": "a) conclut les conventions de droit public portant sur des matières d'ordre mineur; b) présente au Parlement, en début de législature, un programme de politique générale; c) présente au Parlement, en fin de législature, un rapport sur la réalisation de son programme; d) planifie, sous réserve des compétences du Parlement, les activités de l'Etat et pourvoit à la réalisation des plans; 101 19 e) prépare et soumet au Parlement le budget et les comptes de l'Etat; f) administre les biens et les finances de l'Etat; g) assure l'ordre public et dispose à cette fin des forces militaires cantonales; h) exécute les lois, décrets et arrêtés, ainsi que les jugements; i) coordonne l'activité des autorités et organise l'administration dans les limites de la loi; j) assume la surveillance des communes; k) surveille les établissements cantonaux autonomes; l) statue sur les plaintes et recours dans les cas prévus par la loi; m) accorde la citoyenneté cantonale; n) répond, sous réserve des compétences du Parlement, aux consultations des autorités fédérales; o) consulte et informe régulièrement les parlementaires fédéraux; p) exerce toute autre compétence que lui attribue la loi ou qui n'est pas dévolue à une autorité déterminée."
+        "text": "a) conclut les conventions de droit public portant sur des matières d'ordre mineur; b) présente au Parlement, en début de législature, un programme de politique générale; c) présente au Parlement, en fin de législature, un rapport sur la réalisation de son programme; d) planifie, sous réserve des compétences du Parlement, les activités de l'Etat et pourvoit à la réalisation des plans;"
       },
       {
         "num": null,
-        "text": "Composition et élection"
+        "text": "101 19 e) prépare et soumet au Parlement le budget et les comptes de l'Etat; f) administre les biens et les finances de l'Etat; g) assure l'ordre public et dispose à cette fin des forces militaires cantonales; h) exécute les lois, décrets et arrêtés, ainsi que les jugements; i) coordonne l'activité des autorités et organise l'administration dans les limites de la loi; j) assume la surveillance des communes; k) surveille les établissements cantonaux autonomes; l) statue sur les plaintes et recours dans les cas prévus par la loi; m) accorde la citoyenneté cantonale; n) répond, sous réserve des compétences du Parlement, aux consultations des autorités fédérales; o) consulte et informe régulièrement les parlementaires fédéraux; p) exerce toute autre compétence que lui attribue la loi ou qui n'est pas dévolue à une autorité déterminée."
       }
     ],
     "93": [
@@ -2161,20 +1779,12 @@
       {
         "num": "2",
         "text": "Pour l'élection du Gouvernement, le Canton forme une seule circonscription."
-      },
-      {
-        "num": null,
-        "text": "Président et viceprésident"
       }
     ],
     "94": [
       {
         "num": null,
         "text": "Parlement."
-      },
-      {
-        "num": null,
-        "text": "Collège"
       }
     ],
     "95": [
@@ -2185,10 +1795,6 @@
       {
         "num": "2",
         "text": "Les affaires importantes restent toujours de sa compétence."
-      },
-      {
-        "num": null,
-        "text": "Départements"
       }
     ],
     "96": [
@@ -2199,10 +1805,6 @@
       {
         "num": "2",
         "text": "La coordination entre les départements doit être assurée."
-      },
-      {
-        "num": null,
-        "text": "Relations avec le Parlement"
       }
     ],
     "97": [
@@ -2213,60 +1815,38 @@
       {
         "num": "2",
         "text": "Il assiste aux séances du Parlement et peut intervenir sur chaque objet."
-      },
-      {
-        "num": null,
-        "text": "Conseil consultatif des"
-      },
-      {
-        "num": null,
-        "text": "Jurassiens de l'extérieur"
       }
     ],
     "98": [
       {
         "num": null,
         "text": "l'extérieur du Canton."
-      },
-      {
-        "num": null,
-        "text": "Administration"
       }
     ],
     "99": [
       {
         "num": "1",
-        "text": "Tout fonctionnaire est au service du peuple. 101 20"
+        "text": "Tout fonctionnaire est au service du peuple."
+      },
+      {
+        "num": null,
+        "text": "101 20"
       },
       {
         "num": "2",
         "text": "L'administration doit être efficace et économe."
-      },
-      {
-        "num": null,
-        "text": "Etablissements ou institutions autonomes"
       }
     ],
     "100": [
       {
         "num": null,
-        "text": "institutions autonomes. 5. Les autorités judiciaires"
-      },
-      {
-        "num": null,
-        "text": "Indépendance"
+        "text": "institutions autonomes."
       }
     ],
     "101": [
       {
         "num": null,
-        "text": "Tribunal de première instance"
-      }
-    ],
-    "1025": [
-      {
-        "num": null,
-        "text": ")  1 La justice de première instance est rendue sur l'ensemble du territoire cantonal par le Tribunal de première instance.9)"
+        "text": "Tribunal de première instance Art. 1025)  1 La justice de première instance est rendue sur l'ensemble du territoire cantonal par le Tribunal de première instance.9)"
       },
       {
         "num": "2",
@@ -2287,10 +1867,6 @@
       {
         "num": null,
         "text": "a) les litiges relatifs à la validité des décrets, arrêtés, ordonnances et règlements cantonaux et communaux; b) les litiges relatifs à l'autonomie des communes, des Eglises reconnues et de leurs paroisses; c) les litiges relatifs à l'exercice des droits politiques, à la validité des élections et votes cantonaux et, sur recours, à celle des élections et votes organisés dans les districts et les communes; d) les conflits de compétence entre autorités cantonales, à moins que la Cour constitutionnelle elle-même y soit partie; e) les autres litiges indiqués par la loi."
-      },
-      {
-        "num": null,
-        "text": "Mineurs"
       }
     ],
     "105": [
@@ -2300,31 +1876,11 @@
       },
       {
         "num": null,
-        "text": "Ministère public"
-      }
-    ],
-    "1069": [
-      {
-        "num": null,
-        "text": ")  L'action publique est exercée par le Ministère public. 101 21"
+        "text": "Ministère public Art. 1069)  L'action publique est exercée par le Ministère public."
       },
       {
         "num": null,
-        "text": "Renvoi"
-      }
-    ],
-    "1079": [
-      {
-        "num": null,
-        "text": ")  La loi règle les modalités d'élection des autorités judiciaires, leur organisation et leurs compétences, ainsi que la procédure dans les limites du droit fédéral."
-      },
-      {
-        "num": null,
-        "text": "V.  LES DISTRICTS ET LES COMMUNES 1. Les districts"
-      },
-      {
-        "num": null,
-        "text": "Statut"
+        "text": "101 21 Renvoi Art. 1079)  La loi règle les modalités d'élection des autorités judiciaires, leur organisation et leurs compétences, ainsi que la procédure dans les limites du droit fédéral."
       }
     ],
     "108": [
@@ -2342,11 +1898,17 @@
       },
       {
         "num": "4",
-        "text": "…5)"
+        "text": "…5) Nombre et étendue"
+      }
+    ],
+    "109": [
+      {
+        "num": "1",
+        "text": "Le territoire du Canton est divisé en quatre districts : Delémont, Les Franches-Montagnes, Porrentruy, Moutier.16)"
       },
       {
-        "num": null,
-        "text": "Nombre et étendue"
+        "num": "2",
+        "text": "Les districts sont délimités par la loi."
       }
     ],
     "110": [
@@ -2356,33 +1918,21 @@
       },
       {
         "num": "2",
-        "text": "Leur existence et leur autonomie sont garanties dans les limites de la"
-      },
-      {
-        "num": null,
-        "text": "Constitution et de la loi."
-      },
-      {
-        "num": null,
-        "text": "Surveillance"
+        "text": "Leur existence et leur autonomie sont garanties dans les limites de la Constitution et de la loi."
       }
     ],
     "111": [
       {
         "num": "1",
-        "text": "Les communes sont placées sous la surveillance du"
-      },
-      {
-        "num": null,
-        "text": "Gouvernement."
+        "text": "Les communes sont placées sous la surveillance du Gouvernement."
       },
       {
         "num": "2",
-        "text": "Le Gouvernement surveille en particulier leur gestion financière et l'exécution des tâches qui leur sont déférées par la Confédération et le"
+        "text": "Le Gouvernement surveille en particulier leur gestion financière et l'exécution des tâches qui leur sont déférées par la Confédération et le Canton."
       },
       {
         "num": null,
-        "text": "Canton. 101 22"
+        "text": "101 22"
       },
       {
         "num": "3",
@@ -2394,15 +1944,7 @@
       },
       {
         "num": "5",
-        "text": "Lorsque les organes de la commune ne peuvent être constitués, le"
-      },
-      {
-        "num": null,
-        "text": "Gouvernement institue une administration extraordinaire."
-      },
-      {
-        "num": null,
-        "text": "Fusion, division, modification de limites"
+        "text": "Lorsque les organes de la commune ne peuvent être constitués, le Gouvernement institue une administration extraordinaire."
       }
     ],
     "112": [
@@ -2417,10 +1959,6 @@
       {
         "num": "3",
         "text": "Aux conditions et dans les cas exceptionnels prévus par la loi, le Parlement peut décider la fusion de deux ou plusieurs communes, ou la modification des limites entre communes."
-      },
-      {
-        "num": null,
-        "text": "Syndicats de communes"
       }
     ],
     "113": [
@@ -2438,57 +1976,37 @@
       },
       {
         "num": "4",
-        "text": "Dans les cas prévus par la loi, le Gouvernement peut décider la fondation d'un syndicat de communes et en établir l'acte constitutif et le règlement. b) Les communes municipales"
-      },
-      {
-        "num": null,
-        "text": "Tâches"
+        "text": "Dans les cas prévus par la loi, le Gouvernement peut décider la fondation d'un syndicat de communes et en établir l'acte constitutif et le règlement. b) Les communes municipales Tâches"
       }
     ],
     "114": [
       {
         "num": null,
         "text": "ni à la Confédération ni au Canton."
-      },
-      {
-        "num": null,
-        "text": "Organisation"
       }
     ],
     "115": [
       {
         "num": "1",
-        "text": "La commune municipale se donne un règlement d'organisation. 101 23"
+        "text": "La commune municipale se donne un règlement d'organisation."
+      },
+      {
+        "num": null,
+        "text": "101 23"
       },
       {
         "num": "2",
-        "text": "Ce règlement doit être adopté par le corps électoral et approuvé par le"
-      },
-      {
-        "num": null,
-        "text": "Gouvernement."
+        "text": "Ce règlement doit être adopté par le corps électoral et approuvé par le Gouvernement."
       },
       {
         "num": "3",
-        "text": "Le Gouvernement donne son approbation si le règlement est conforme à la"
-      },
-      {
-        "num": null,
-        "text": "Constitution et à la loi."
-      },
-      {
-        "num": null,
-        "text": "Organes"
+        "text": "Le Gouvernement donne son approbation si le règlement est conforme à la Constitution et à la loi."
       }
     ],
     "116": [
       {
         "num": null,
         "text": "a) le corps électoral; b) le conseil communal; c) les commissions permanentes prescrites par la loi."
-      },
-      {
-        "num": null,
-        "text": "Corps électoral"
       }
     ],
     "117": [
@@ -2503,10 +2021,6 @@
       {
         "num": "3",
         "text": "Les compétences du corps électoral, l'organisation et le fonctionnement de l'assemblée communale, les scrutins et le droit d'initiative sont réglés par la loi, qui peut renvoyer au règlement communal."
-      },
-      {
-        "num": null,
-        "text": "Conseil général"
       }
     ],
     "118": [
@@ -2517,10 +2031,6 @@
       {
         "num": "2",
         "text": "L'élection, les compétences, l'organisation et le fonctionnement du conseil général, ainsi que le référendum contre ses décisions, sont réglés par la loi qui peut renvoyer au règlement communal."
-      },
-      {
-        "num": null,
-        "text": "Conseil communal"
       }
     ],
     "119": [
@@ -2534,11 +2044,7 @@
       },
       {
         "num": "3",
-        "text": "L'élection, les compétences, l'organisation et le fonctionnement du conseil sont réglés par la loi, qui peut renvoyer au règlement communal. 101 24 c) Les autres communes"
-      },
-      {
-        "num": null,
-        "text": "Les autres communes"
+        "text": "L'élection, les compétences, l'organisation et le fonctionnement du conseil sont réglés par la loi, qui peut renvoyer au règlement communal."
       }
     ],
     "120": [
@@ -2548,11 +2054,7 @@
       },
       {
         "num": null,
-        "text": "VI.  LES FINANCES 1. Les impôts et redevances"
-      },
-      {
-        "num": null,
-        "text": "Souveraineté fiscale"
+        "text": "VI.  LES FINANCES 1. Les impôts et redevances Souveraineté fiscale"
       }
     ],
     "121": [
@@ -2563,20 +2065,12 @@
       {
         "num": "2",
         "text": "Les contributions publiques sont instituées et, pour l'essentiel, réglées par la loi."
-      },
-      {
-        "num": null,
-        "text": "Devoir fiscal"
       }
     ],
     "122": [
       {
         "num": null,
-        "text": "économique, aux charges de l'Etat et des communes. 2. La gestion des finances publiques"
-      },
-      {
-        "num": null,
-        "text": "Dispositions générales"
+        "text": "économique, aux charges de l'Etat et des communes."
       }
     ],
     "123": [
@@ -2586,11 +2080,7 @@
       },
       {
         "num": "2",
-        "text": "L'Etat gère ses finances en considérant les besoins de l'ensemble du"
-      },
-      {
-        "num": null,
-        "text": "Canton."
+        "text": "L'Etat gère ses finances en considérant les besoins de l'ensemble du Canton."
       },
       {
         "num": "3",
@@ -2606,11 +2096,11 @@
       },
       {
         "num": null,
-        "text": "Frein à l'endettement"
+        "text": "Frein à l'endettement Art. 123a10)  1 Le budget de l'Etat doit présenter un degré d'autofinancement supérieur ou égal à 80%."
       },
       {
         "num": null,
-        "text": "Art. 123a10)  1 Le budget de l'Etat doit présenter un degré d'autofinancement supérieur ou égal à 80%. 101 25"
+        "text": "101 25"
       },
       {
         "num": "2",
@@ -2635,40 +2125,28 @@
       {
         "num": "7",
         "text": "Au surplus, la loi règle les modalités du frein à l'endettement."
-      },
-      {
-        "num": null,
-        "text": "Publicité des comptes et du budget"
       }
     ],
     "124": [
       {
         "num": null,
         "text": "syndicats de communes, de leurs établissements et institutions, sont publics."
-      },
-      {
-        "num": null,
-        "text": "Financement"
       }
     ],
     "125": [
       {
         "num": null,
-        "text": "accompagné d'un plan de financement. 3. La péréquation financière"
-      },
-      {
-        "num": null,
-        "text": "La péréquation financière"
+        "text": "accompagné d'un plan de financement."
       }
     ],
     "126": [
       {
         "num": null,
-        "text": "communes de capacité économique et financière différente. 4. Les établissements économiques autonomes"
+        "text": "communes de capacité économique et financière différente."
       },
       {
         "num": null,
-        "text": "Banque cantonale"
+        "text": "4. Les établissements économiques autonomes Banque cantonale"
       }
     ],
     "127": [
@@ -2678,45 +2156,33 @@
       },
       {
         "num": "2",
-        "text": "Il en garantit les engagements. 101 26"
+        "text": "Il en garantit les engagements."
+      },
+      {
+        "num": null,
+        "text": "101 26"
       },
       {
         "num": "3",
         "text": "La banque cantonale soutient la politique économique du Canton."
-      },
-      {
-        "num": null,
-        "text": "Autres établissements"
       }
     ],
     "128": [
       {
         "num": null,
-        "text": "participer à des entreprises économiques ou en créer. 5. Les régales"
-      },
-      {
-        "num": null,
-        "text": "Les régales"
+        "text": "participer à des entreprises économiques ou en créer."
       }
     ],
     "129": [
       {
         "num": null,
-        "text": "VII.  L'EGLISE ET L'ETAT"
-      },
-      {
-        "num": null,
-        "text": "Eglises reconnues"
+        "text": "VII.  L'EGLISE ET L'ETAT Eglises reconnues"
       }
     ],
     "130": [
       {
         "num": "1",
-        "text": "L'Eglise catholique romaine et l'Eglise réformée évangélique du"
-      },
-      {
-        "num": null,
-        "text": "Canton sont reconnues collectivités de droit public."
+        "text": "L'Eglise catholique romaine et l'Eglise réformée évangélique du Canton sont reconnues collectivités de droit public."
       },
       {
         "num": "2",
@@ -2725,10 +2191,6 @@
       {
         "num": "3",
         "text": "Les autres collectivités religieuses sont soumises au droit privé."
-      },
-      {
-        "num": null,
-        "text": "Autonomie"
       }
     ],
     "131": [
@@ -2743,10 +2205,6 @@
       {
         "num": "3",
         "text": "Le Gouvernement doit approuver la Constitution ecclésiastique si elle est adoptée selon les principes démocratiques et conforme à la Constitution et à la loi."
-      },
-      {
-        "num": null,
-        "text": "Appartenance à une Eglise reconnue"
       }
     ],
     "132": [
@@ -2757,10 +2215,6 @@
       {
         "num": "2",
         "text": "Tout membre d'une Eglise reconnue peut en sortir par une déclaration écrite."
-      },
-      {
-        "num": null,
-        "text": "Paroisses"
       }
     ],
     "133": [
@@ -2770,11 +2224,7 @@
       },
       {
         "num": "2",
-        "text": "Les paroisses sont des collectivités de droit public. 101 27"
-      },
-      {
-        "num": null,
-        "text": "Finances"
+        "text": "Les paroisses sont des collectivités de droit public."
       }
     ],
     "134": [
@@ -2793,14 +2243,6 @@
       {
         "num": "4",
         "text": "La loi règle les cas dans lesquels l'Etat verse des subsides aux Eglises."
-      },
-      {
-        "num": null,
-        "text": "VIII.  LA REVISION DE LA CONSTITUTION"
-      },
-      {
-        "num": null,
-        "text": "Principe"
       }
     ],
     "135": [
@@ -2823,10 +2265,6 @@
       {
         "num": "3",
         "text": "Elle ne doit concerner qu'une seule matière."
-      },
-      {
-        "num": null,
-        "text": "Revision totale"
       }
     ],
     "137": [
@@ -2841,26 +2279,10 @@
       {
         "num": "3",
         "text": "Si l'additif constitutionnel est rejeté, le Parlement soumet au peuple un nouveau projet dans le délai d'un an."
-      }
-    ],
-    "1382": [
-      {
-        "num": null,
-        "text": ")"
-      }
-    ],
-    "13912": [
-      {
-        "num": null,
-        "text": ") 15) 101 28"
       },
       {
         "num": null,
-        "text": "DISPOSITIONS FINALES ET TRANSITOIRES"
-      },
-      {
-        "num": null,
-        "text": "Article premier  L'Assemblée constituante décrète l'entrée en vigueur simultanée ou successive des dispositions de la présente Constitution."
+        "text": "Art. 1382) Art. 13912) 15) 101 28 DISPOSITIONS FINALES ET TRANSITOIRES Article premier  L'Assemblée constituante décrète l'entrée en vigueur simultanée ou successive des dispositions de la présente Constitution."
       }
     ],
     "7": [
@@ -2872,11 +2294,7 @@
     "10": [
       {
         "num": "1",
-        "text": "Toutes les affaires pendantes devant les autorités administratives et judiciaires du canton de Berne passent aux autorités compétentes de la"
-      },
-      {
-        "num": null,
-        "text": "République et Canton du Jura lorsque celles-ci sont constituées."
+        "text": "Toutes les affaires pendantes devant les autorités administratives et judiciaires du canton de Berne passent aux autorités compétentes de la République et Canton du Jura lorsque celles-ci sont constituées."
       },
       {
         "num": "2",
@@ -2898,17 +2316,11 @@
       },
       {
         "num": "4",
-        "text": "Dès l'entrée en vigueur de la présente modification, les membres du"
+        "text": "Dès l'entrée en vigueur de la présente modification, les membres du Gouvernement ne sont rééligibles que deux fois, les élections et réélections antérieures à l'entrée en vigueur de la présente modification étant comptabilisées."
       },
       {
         "num": null,
-        "text": "Gouvernement ne sont rééligibles que deux fois, les élections et réélections antérieures à l'entrée en vigueur de la présente modification étant comptabilisées."
-      }
-    ],
-    "1517": [
-      {
-        "num": null,
-        "text": ")  1 Pendant les années 2026 à 2031, il peut être dérogé aux alinéas"
+        "text": "Art. 1517)  1 Pendant les années 2026 à 2031, il peut être dérogé aux alinéas"
       },
       {
         "num": "1",
@@ -2920,31 +2332,23 @@
       },
       {
         "num": null,
-        "text": "Delémont, le 3 février 1977"
+        "text": "Delémont, le 3 février 1977 AU NOM DE L'ASSEMBLEE CONSTITUANTE DE LA REPUBLIQUE ET CANTON DU JURA Le président : François Lachat Le secrétaire général : Joseph Boinay 1) Adoptée par l'Assemblée constituante de la République et Canton du Jura le 3 février 1977."
       },
       {
         "num": null,
-        "text": "AU NOM DE L'ASSEMBLEE CONSTITUANTE"
+        "text": "Acceptée par le peuple jurassien le 20 mars 1977, par 27 061 voix contre 5 749."
       },
       {
         "num": null,
-        "text": "DE LA REPUBLIQUE ET CANTON DU JURA"
+        "text": "101 31 Garantie par l'Assemblée fédérale le 28 septembre 1977, à l'exception de l'article 138 et sous réserve que les articles 1er et 80 de la Constitution fédérale soient modifiés, que la séparation du futur canton d'avec le canton de Berne, ainsi que son organisation soient assurées par le droit fédéral et que les articles 1er, 4, 5 et 10 des dispositions finales et transitoires soient appliqués conformément au droit transitoire à établir par la Confédération (FF 1977 II 259, III 266)."
       },
       {
         "num": null,
-        "text": "Le président : François Lachat"
+        "text": "2) L'article 138 n'a pas obtenu la garantie fédérale."
       },
       {
         "num": null,
-        "text": "Le secrétaire général : Joseph Boinay 1) Adoptée par l'Assemblée constituante de la République et Canton du Jura le 3 février 1977."
-      },
-      {
-        "num": null,
-        "text": "Acceptée par le peuple jurassien le 20 mars 1977, par 27 061 voix contre 5 749. 101 31"
-      },
-      {
-        "num": null,
-        "text": "Garantie par l'Assemblée fédérale le 28 septembre 1977, à l'exception de l'article 138 et sous réserve que les articles 1er et 80 de la Constitution fédérale soient modifiés, que la séparation du futur canton d'avec le canton de Berne, ainsi que son organisation soient assurées par le droit fédéral et que les articles 1er, 4, 5 et 10 des dispositions finales et transitoires soient appliqués conformément au droit transitoire à établir par la Confédération (FF 1977 II 259, III 266). 2) L'article 138 n'a pas obtenu la garantie fédérale. 3) Modification de l'article 62 (Incompatibilité entre la fonction de parlementaire fédéral et de membre du Gouvernement)."
+        "text": "3) Modification de l'article 62 (Incompatibilité entre la fonction de parlementaire fédéral et de membre du Gouvernement)."
       },
       {
         "num": null,
@@ -2952,7 +2356,11 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 9 mars 1988. 4) Modification de l'article 26 (Organisation du système hospitalier)."
+        "text": "Garantie fédérale accordée le 9 mars 1988."
+      },
+      {
+        "num": null,
+        "text": "4) Modification de l'article 26 (Organisation du système hospitalier)."
       },
       {
         "num": null,
@@ -2960,7 +2368,11 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 3 juin / 16 septembre 1996. 5) Modification des articles 69, 70, 74, 102 et 108; introduction de l'article 11 des dispositions finales et transitoires (Réforme de l'organisation judiciaire)."
+        "text": "Garantie fédérale accordée le 3 juin / 16 septembre 1996."
+      },
+      {
+        "num": null,
+        "text": "5) Modification des articles 69, 70, 74, 102 et 108; introduction de l'article 11 des dispositions finales et transitoires (Réforme de l'organisation judiciaire)."
       },
       {
         "num": null,
@@ -2968,11 +2380,11 @@
       },
       {
         "num": null,
-        "text": "Entrée en vigueur le 1er janvier 2001"
+        "text": "Entrée en vigueur le 1er janvier 2001 Garantie fédérale accordée le 5 juin / 14 juin 2000."
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 5 juin / 14 juin 2000. 6) Modification de l'article 26, alinéa 2; introduction de l'article 12 des dispositions finales et transitoires (Transfert des charges de la santé à l'Etat)."
+        "text": "6) Modification de l'article 26, alinéa 2; introduction de l'article 12 des dispositions finales et transitoires (Transfert des charges de la santé à l'Etat)."
       },
       {
         "num": null,
@@ -2984,11 +2396,15 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 5 octobre / 6 octobre 2005. 7) Modification des articles 75, alinéas 1 et 3, et 76, alinéas 1 et 4; introduction de l'article 13 des dispositions finales et transitoires (Introduction de l'initiative populaire rédigée de toutes pièces). 101 32"
+        "text": "Garantie fédérale accordée le 5 octobre / 6 octobre 2005."
       },
       {
         "num": null,
-        "text": "Acceptée en votation populaire le 26 septembre 2004."
+        "text": "7) Modification des articles 75, alinéas 1 et 3, et 76, alinéas 1 et 4; introduction de l'article 13 des dispositions finales et transitoires (Introduction de l'initiative populaire rédigée de toutes pièces)."
+      },
+      {
+        "num": null,
+        "text": "101 32 Acceptée en votation populaire le 26 septembre 2004."
       },
       {
         "num": null,
@@ -2996,7 +2412,11 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 5 octobre / 6 octobre 2005. 8) Modification des articles 65, alinéa 1, et 66, alinéa 2; abrogation de l'article 6, alinéa 1 et introduction de l'article 14 des dispositions finales et transitoires (Augmentation de la durée de la législature)."
+        "text": "Garantie fédérale accordée le 5 octobre / 6 octobre 2005."
+      },
+      {
+        "num": null,
+        "text": "8) Modification des articles 65, alinéa 1, et 66, alinéa 2; abrogation de l'article 6, alinéa 1 et introduction de l'article 14 des dispositions finales et transitoires (Augmentation de la durée de la législature)."
       },
       {
         "num": null,
@@ -3008,7 +2428,11 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 28 février / 2 mars 2011. 9) Modification des articles 102, alinéa 1, 103, 104, alinéa 1, 106, 107, 134, alinéa 3, abrogation de l'article 10, nouvelle teneur de l'article 13 des dispositions finales et transitoires (Mise en œuvre des procédures fédérales civile et pénale)."
+        "text": "Garantie fédérale accordée le 28 février / 2 mars 2011."
+      },
+      {
+        "num": null,
+        "text": "9) Modification des articles 102, alinéa 1, 103, 104, alinéa 1, 106, 107, 134, alinéa 3, abrogation de l'article 10, nouvelle teneur de l'article 13 des dispositions finales et transitoires (Mise en œuvre des procédures fédérales civile et pénale)."
       },
       {
         "num": null,
@@ -3020,7 +2444,11 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 23 novembre / 10 décembre 2009. 10) Introduction des articles 77, lettre g, et 123a, nouvelle teneur de l'article 13 des dispositions finales et transitoires (Frein à l'endettement)."
+        "text": "Garantie fédérale accordée le 23 novembre / 10 décembre 2009."
+      },
+      {
+        "num": null,
+        "text": "10) Introduction des articles 77, lettre g, et 123a, nouvelle teneur de l'article 13 des dispositions finales et transitoires (Frein à l'endettement)."
       },
       {
         "num": null,
@@ -3032,7 +2460,11 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 29 novembre / 8 décembre 2010. 11) Modification du texte introductif, du deuxième paragraphe du préambule, introduction de la section 7bis et de l'article 44a (Introduction des principes du développement durable)."
+        "text": "Garantie fédérale accordée le 29 novembre / 8 décembre 2010."
+      },
+      {
+        "num": null,
+        "text": "11) Modification du texte introductif, du deuxième paragraphe du préambule, introduction de la section 7bis et de l'article 44a (Introduction des principes du développement durable)."
       },
       {
         "num": null,
@@ -3040,7 +2472,11 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 29 février/6 mars 2012. 12) Introduction de l'article 139 (Processus tendant à la création d'un nouveau canton)."
+        "text": "Garantie fédérale accordée le 29 février/6 mars 2012."
+      },
+      {
+        "num": null,
+        "text": "12) Introduction de l'article 139 (Processus tendant à la création d'un nouveau canton)."
       },
       {
         "num": null,
@@ -3048,7 +2484,11 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 5 mars / 11 mars 2015. 101 33 13) Modifications des articles 75, alinéa 1, et 78, phrase introductive (Droit d'initiative et de référendum des communes)."
+        "text": "Garantie fédérale accordée le 5 mars / 11 mars 2015."
+      },
+      {
+        "num": null,
+        "text": "101 33 13) Modifications des articles 75, alinéa 1, et 78, phrase introductive (Droit d'initiative et de référendum des communes)."
       },
       {
         "num": null,
@@ -3056,7 +2496,11 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 29 mai / 12 juin 2017. 14) Introduction de l'article 66a (Destitution)."
+        "text": "Garantie fédérale accordée le 29 mai / 12 juin 2017."
+      },
+      {
+        "num": null,
+        "text": "14) Introduction de l'article 66a (Destitution)."
       },
       {
         "num": null,
@@ -3064,31 +2508,27 @@
       },
       {
         "num": null,
-        "text": "Garantie fédérale accordée le 10 septembre / 18 septembre 2024. 15) Abrogation de l'article 139"
+        "text": "Garantie fédérale accordée le 10 septembre / 18 septembre 2024."
       },
       {
         "num": null,
-        "text": "Acceptée en votation populaire le 22 septembre 2024"
+        "text": "15) Abrogation de l'article 139 Acceptée en votation populaire le 22 septembre 2024 Entrée en vigueur le 1er janvier 2025."
       },
       {
         "num": null,
-        "text": "Entrée en vigueur le 1er janvier 2025."
+        "text": "Procédure de garantie fédérale en cours."
       },
       {
         "num": null,
-        "text": "Procédure de garantie fédérale en cours. 16) Modification de l'article 109, alinéa 1 (Création du district de Moutier)"
+        "text": "16) Modification de l'article 109, alinéa 1 (Création du district de Moutier) Acceptée en votation populaire le 24 novembre 2024 Entrée en vigueur le 1er août 2025."
       },
       {
         "num": null,
-        "text": "Acceptée en votation populaire le 24 novembre 2024"
+        "text": "Procédure de garantie fédérale en cours."
       },
       {
         "num": null,
-        "text": "Entrée en vigueur le 1er août 2025."
-      },
-      {
-        "num": null,
-        "text": "Procédure de garantie fédérale en cours. 17) Introduction de l'article 15 des dispositions transitoires et finales (Dérogation au frein à l'endettement)."
+        "text": "17) Introduction de l'article 15 des dispositions transitoires et finales (Dérogation au frein à l'endettement)."
       },
       {
         "num": null,
@@ -3100,7 +2540,7 @@
       },
       {
         "num": null,
-        "text": "Procédure de garantie fédérale en cours. 101 34"
+        "text": "Procédure de garantie fédérale en cours."
       }
     ]
   }
