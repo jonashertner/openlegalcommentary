@@ -5,7 +5,8 @@
   "language": "fr",
   "title": "Constitution du canton de Fribourg",
   "lexfind_id": 5674,
-  "fetched_at": "2026-04-13",
+  "fetched_at": "2026-04-14",
+  "source": "lexwork",
   "article_count": 154,
   "articles": [
     {
@@ -24,13 +25,13 @@
       "number": 3,
       "suffix": "",
       "raw": "3",
-      "title": "Buts de l'Etat"
+      "title": "Buts de l&#39;Etat"
     },
     {
       "number": 4,
       "suffix": "",
       "raw": "4",
-      "title": "Principes de l'activité étatique"
+      "title": "Principes de l&#39;activité étatique"
     },
     {
       "number": 5,
@@ -66,7 +67,7 @@
       "number": 10,
       "suffix": "",
       "raw": "10",
-      "title": "Interdiction de l'arbitraire et bonne foi"
+      "title": "Interdiction de l&#39;arbitraire et bonne foi"
     },
     {
       "number": 11,
@@ -228,7 +229,7 @@
       "number": 37,
       "suffix": "",
       "raw": "37",
-      "title": "Champ d'application"
+      "title": "Champ d&#39;application"
     },
     {
       "number": 38,
@@ -498,7 +499,7 @@
       "number": 82,
       "suffix": "",
       "raw": "82",
-      "title": "Gestion financière – Principe d'économie"
+      "title": "Gestion financière – Principe d&#39;économie"
     },
     {
       "number": 83,
@@ -594,19 +595,19 @@
       "number": 98,
       "suffix": "",
       "raw": "98",
-      "title": "Relations avec le Conseil d'Etat"
+      "title": "Relations avec le Conseil d&#39;Etat"
     },
     {
       "number": 99,
       "suffix": "",
       "raw": "99",
-      "title": "Compétences – Législation"
+      "title": "Compétences – Législation\n1. En général"
     },
     {
       "number": 100,
       "suffix": "",
       "raw": "100",
-      "title": "Compétences – Législation"
+      "title": "Compétences – Législation\n2. Traités intercantonaux et internationaux"
     },
     {
       "number": 101,
@@ -654,7 +655,7 @@
       "number": 108,
       "suffix": "",
       "raw": "108",
-      "title": "Chancellerie d'Etat"
+      "title": "Chancellerie d&#39;Etat"
     },
     {
       "number": 109,
@@ -900,37 +901,37 @@
       "number": 148,
       "suffix": "",
       "raw": "148",
-      "title": "Droit transitoire – Dispositions particulières"
+      "title": "Droit transitoire – Dispositions particulières\n1. Maternité (art. 33)"
     },
     {
       "number": 149,
       "suffix": "",
       "raw": "149",
-      "title": "Droit transitoire – Dispositions particulières"
+      "title": "Droit transitoire – Dispositions particulières\n2. Exercice des droits politiques et éligibilité (art. 39, 48 et 131)"
     },
     {
       "number": 150,
       "suffix": "",
       "raw": "150",
-      "title": "Droit transitoire – Dispositions particulières"
+      "title": "Droit transitoire – Dispositions particulières\n3. Initiatives constitutionnelles pendantes (art. 41 ss et 99)"
     },
     {
       "number": 151,
       "suffix": "",
       "raw": "151",
-      "title": "Droit transitoire – Dispositions particulières"
+      "title": "Droit transitoire – Dispositions particulières\n4. Grand Conseil et Conseil d&#39;Etat"
     },
     {
       "number": 152,
       "suffix": "",
       "raw": "152",
-      "title": "Droit transitoire – Dispositions particulières"
+      "title": "Droit transitoire – Dispositions particulières\n5. Pouvoir judiciaire, Ministère public et Conseil de la magistrature"
     },
     {
       "number": 153,
       "suffix": "",
       "raw": "153",
-      "title": "Droit transitoire – Dispositions particulières"
+      "title": "Droit transitoire – Dispositions particulières\n6. Communes (art. 49 à 51 et 129 à 135)"
     }
   ],
   "article_texts": {
@@ -941,7 +942,7 @@
       },
       {
         "num": "2",
-        "text": "C'est l'un des cantons de la Confédération suisse. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "C'est l'un des cantons de la Confédération suisse."
       }
     ],
     "2": [
@@ -955,13 +956,7 @@
       },
       {
         "num": "3",
-        "text": "Ses armoiries sont: «Coupé de sable et d'argent». --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "4": [
-      {
-        "num": "1",
-        "text": "Toute activité de l'Etat se fonde sur le droit, répond à un intérêt public et est proportionnée au but visé. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Ses armoiries sont: «Coupé de sable et d'argent»."
       }
     ],
     "3": [
@@ -971,15 +966,17 @@
       },
       {
         "num": null,
-        "text": "a) la promotion du bien commun; b) la protection de la population; 1"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 c) la reconnaissance et le soutien des familles en tant que communautés de base de la société; d) la justice; e) la sécurité sociale; f) la cohésion cantonale dans le respect de la diversité culturelle; g) la protection de l'environnement; h) le développement durable."
+        "text": "a) la promotion du bien commun; b) la protection de la population; c) la reconnaissance et le soutien des familles en tant que communautés de base de la société; d) la justice; e) la sécurité sociale; f) la cohésion cantonale dans le respect de la diversité culturelle; g) la protection de l'environnement; h) le développement durable."
       },
       {
         "num": "2",
-        "text": "L'Etat poursuit ces buts dans le respect de la liberté et de la responsabilité de l'être humain ainsi que du principe de subsidiarité. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat poursuit ces buts dans le respect de la liberté et de la responsabilité de l'être humain ainsi que du principe de subsidiarité."
+      }
+    ],
+    "4": [
+      {
+        "num": "1",
+        "text": "Toute activité de l'Etat se fonde sur le droit, répond à un intérêt public et est proportionnée au but visé."
       }
     ],
     "5": [
@@ -989,7 +986,7 @@
       },
       {
         "num": "2",
-        "text": "Il favorise la collaboration intercantonale et interrégionale. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il favorise la collaboration intercantonale et interrégionale."
       }
     ],
     "6": [
@@ -1011,13 +1008,7 @@
       },
       {
         "num": "5",
-        "text": "Le canton favorise les relations entre les communautés linguistiques nationales. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "8": [
-      {
-        "num": "1",
-        "text": "La dignité humaine est intangible. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le canton favorise les relations entre les communautés linguistiques nationales."
       }
     ],
     "7": [
@@ -1027,25 +1018,17 @@
       },
       {
         "num": "2",
-        "text": "Elle assume sa part de responsabilité envers elle-même, autrui, la collectivité et les générations futures. 2"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1"
+        "text": "Elle assume sa part de responsabilité envers elle-même, autrui, la collectivité et les générations futures."
       },
       {
         "num": "3",
         "text": "Les collectivités publiques interviennent en faveur de l'individu en complément de ses propres capacités."
-      },
-      {
-        "num": "2",
-        "text": "Droits fondamentaux et droits sociaux 2.1 Droits fondamentaux --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
       }
     ],
-    "10": [
+    "8": [
       {
         "num": "1",
-        "text": "Toute personne a le droit d'être traitée par les organes étatiques sans arbitraire et conformément aux règles de la bonne foi. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La dignité humaine est intangible."
       }
     ],
     "9": [
@@ -1059,17 +1042,13 @@
       },
       {
         "num": "3",
-        "text": "L'Etat et les communes prennent des mesures en vue de compenser les inégalités qui frappent les handicapés et de favoriser leur autonomie et leur intégration économique et sociale. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat et les communes prennent des mesures en vue de compenser les inégalités qui frappent les handicapés et de favoriser leur autonomie et leur intégration économique et sociale."
       }
     ],
-    "12": [
+    "10": [
       {
         "num": "1",
-        "text": "Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et de ses télécommunications."
-      },
-      {
-        "num": "2",
-        "text": "Elle a le droit d'être protégée contre l'usage abusif de données qui la concernent. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Toute personne a le droit d'être traitée par les organes étatiques sans arbitraire et conformément aux règles de la bonne foi."
       }
     ],
     "11": [
@@ -1079,7 +1058,23 @@
       },
       {
         "num": "2",
-        "text": "Toute personne a droit à la liberté personnelle, notamment à l'intégrité physique et psychique et à la liberté de mouvement. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Toute personne a droit à la liberté personnelle, notamment à l'intégrité physique et psychique et à la liberté de mouvement."
+      }
+    ],
+    "12": [
+      {
+        "num": "1",
+        "text": "Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et de ses télécommunications."
+      },
+      {
+        "num": "2",
+        "text": "Elle a le droit d'être protégée contre l'usage abusif de données qui la concernent."
+      }
+    ],
+    "13": [
+      {
+        "num": "1",
+        "text": "Le droit au mariage et à la famille est garanti."
       }
     ],
     "14": [
@@ -1089,17 +1084,7 @@
       },
       {
         "num": "2",
-        "text": "Le droit d'enregistrer un partenariat pour les couples de même sexe est garanti. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "13": [
-      {
-        "num": "1",
-        "text": "Le droit au mariage et à la famille est garanti. 3"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le droit d'enregistrer un partenariat pour les couples de même sexe est garanti."
       }
     ],
     "15": [
@@ -1117,19 +1102,13 @@
       },
       {
         "num": "4",
-        "text": "Toute contrainte, tout abus de pouvoir et toute manipulation sont interdits. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Toute contrainte, tout abus de pouvoir et toute manipulation sont interdits."
       }
     ],
     "16": [
       {
         "num": "1",
-        "text": "Le libre choix du domicile et du lieu de séjour est garanti. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "18": [
-      {
-        "num": "1",
-        "text": "Le droit à un enseignement de base suffisant et gratuit est garanti. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le libre choix du domicile et du lieu de séjour est garanti."
       }
     ],
     "17": [
@@ -1139,7 +1118,13 @@
       },
       {
         "num": "2",
-        "text": "Celui qui s'adresse à une autorité dont la compétence s'étend à l'ensemble du canton peut le faire dans la langue officielle de son choix. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Celui qui s'adresse à une autorité dont la compétence s'étend à l'ensemble du canton peut le faire dans la langue officielle de son choix."
+      }
+    ],
+    "18": [
+      {
+        "num": "1",
+        "text": "Le droit à un enseignement de base suffisant et gratuit est garanti."
       }
     ],
     "19": [
@@ -1149,7 +1134,7 @@
       },
       {
         "num": "2",
-        "text": "Le droit à l'information est garanti. Toute personne peut consulter les documents officiels dans la mesure où aucun intérêt public ou privé prépondérant ne s'y oppose. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le droit à l'information est garanti. Toute personne peut consulter les documents officiels dans la mesure où aucun intérêt public ou privé prépondérant ne s'y oppose."
       }
     ],
     "20": [
@@ -1159,7 +1144,13 @@
       },
       {
         "num": "2",
-        "text": "La censure est interdite. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La censure est interdite."
+      }
+    ],
+    "21": [
+      {
+        "num": "1",
+        "text": "La liberté de l'art est garantie."
       }
     ],
     "22": [
@@ -1169,17 +1160,13 @@
       },
       {
         "num": "2",
-        "text": "Les scientifiques assument leur responsabilité envers les êtres humains, les animaux, les plantes et leurs bases vitales. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les scientifiques assument leur responsabilité envers les êtres humains, les animaux, les plantes et leurs bases vitales."
       }
     ],
-    "21": [
+    "23": [
       {
         "num": "1",
-        "text": "La liberté de l'art est garantie. 4"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Toute personne a le droit de créer une association, d'en faire partie et de participer à ses activités. Personne ne peut y être contraint."
       }
     ],
     "24": [
@@ -1193,19 +1180,13 @@
       },
       {
         "num": "3",
-        "text": "Les réunions et les manifestations doivent être autorisées si elles ne portent pas une atteinte disproportionnée aux intérêts des autres usagers et si un déroulement ordonné est assuré. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "23": [
-      {
-        "num": "1",
-        "text": "Toute personne a le droit de créer une association, d'en faire partie et de participer à ses activités. Personne ne peut y être contraint. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les réunions et les manifestations doivent être autorisées si elles ne portent pas une atteinte disproportionnée aux intérêts des autres usagers et si un déroulement ordonné est assuré."
       }
     ],
     "25": [
       {
         "num": "1",
-        "text": "Le droit de pétition est garanti. L'autorité interpellée donne une réponse motivée. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le droit de pétition est garanti. L'autorité interpellée donne une réponse motivée."
       }
     ],
     "26": [
@@ -1215,7 +1196,7 @@
       },
       {
         "num": "2",
-        "text": "Elle comprend notamment le libre choix de la profession, le libre accès à une activité économique lucrative privée et son libre exercice. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Elle comprend notamment le libre choix de la profession, le libre accès à une activité économique lucrative privée et son libre exercice."
       }
     ],
     "27": [
@@ -1233,11 +1214,7 @@
       },
       {
         "num": "4",
-        "text": "La loi peut interdire le recours à la grève à certaines catégories de personnes. 5"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La loi peut interdire le recours à la grève à certaines catégories de personnes."
       }
     ],
     "28": [
@@ -1247,7 +1224,7 @@
       },
       {
         "num": "2",
-        "text": "Une pleine indemnité est due en cas d'expropriation ou de restriction de la propriété qui équivaut à une expropriation. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Une pleine indemnité est due en cas d'expropriation ou de restriction de la propriété qui équivaut à une expropriation."
       }
     ],
     "29": [
@@ -1269,13 +1246,13 @@
       },
       {
         "num": "5",
-        "text": "La situation particulière des enfants, des jeunes et des jeunes adultes doit être prise en considération. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La situation particulière des enfants, des jeunes et des jeunes adultes doit être prise en considération."
       }
     ],
     "30": [
       {
         "num": "1",
-        "text": "Toute personne a droit à ce que sa cause soit jugée par une autorité judiciaire. La loi peut exclure l'accès au juge dans des cas exceptionnels. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Toute personne a droit à ce que sa cause soit jugée par une autorité judiciaire. La loi peut exclure l'accès au juge dans des cas exceptionnels."
       }
     ],
     "31": [
@@ -1285,7 +1262,7 @@
       },
       {
         "num": "2",
-        "text": "Les débats et le prononcé du jugement sont publics. La loi peut prévoir des exceptions. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les débats et le prononcé du jugement sont publics. La loi peut prévoir des exceptions."
       }
     ],
     "32": [
@@ -1299,25 +1276,7 @@
       },
       {
         "num": "3",
-        "text": "Toute personne condamnée a le droit de déférer le jugement à une juridiction supérieure. 6"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 2.2 Droits sociaux --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "34": [
-      {
-        "num": "1",
-        "text": "Les enfants et les jeunes ont le droit, subsidiairement au rôle de la famille, d'être aidés, encouragés et encadrés dans leur développement afin de devenir des personnes responsables."
-      },
-      {
-        "num": "2",
-        "text": "Ils ont droit à une protection particulière de leur intégrité physique et psychique, y compris au sein de leur famille."
-      },
-      {
-        "num": "3",
-        "text": "Dans la mesure où ils sont capables de discernement, ils exercent euxmêmes leurs droits. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Toute personne condamnée a le droit de déférer le jugement à une juridiction supérieure."
       }
     ],
     "33": [
@@ -1335,13 +1294,27 @@
       },
       {
         "num": "4",
-        "text": "L'adoption et la naissance sont mises sur pied d'égalité si l'enfant adopté n'est pas celui du conjoint et si son âge ou sa situation le justifient. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'adoption et la naissance sont mises sur pied d'égalité si l'enfant adopté n'est pas celui du conjoint et si son âge ou sa situation le justifient."
+      }
+    ],
+    "34": [
+      {
+        "num": "1",
+        "text": "Les enfants et les jeunes ont le droit, subsidiairement au rôle de la famille, d'être aidés, encouragés et encadrés dans leur développement afin de devenir des personnes responsables."
+      },
+      {
+        "num": "2",
+        "text": "Ils ont droit à une protection particulière de leur intégrité physique et psychique, y compris au sein de leur famille."
+      },
+      {
+        "num": "3",
+        "text": "Dans la mesure où ils sont capables de discernement, ils exercent eux-mêmes leurs droits."
       }
     ],
     "35": [
       {
         "num": "1",
-        "text": "Les personnes âgées ont droit à la participation, à l'autonomie, à la qualité de vie et au respect de leur personnalité. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les personnes âgées ont droit à la participation, à l'autonomie, à la qualité de vie et au respect de leur personnalité."
       }
     ],
     "36": [
@@ -1355,17 +1328,13 @@
       },
       {
         "num": "3",
-        "text": "Les enfants et les jeunes victimes d'infractions ont droit à une aide spéciale. 7"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 2.3 Champ d'application et restrictions --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les enfants et les jeunes victimes d'infractions ont droit à une aide spéciale."
       }
     ],
     "37": [
       {
         "num": "1",
-        "text": "Les autorités veillent à ce que les droits fondamentaux et sociaux, dans la mesure où ils s'y prêtent, soient aussi réalisés dans les relations entre particuliers. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les autorités veillent à ce que les droits fondamentaux et sociaux, dans la mesure où ils s'y prêtent, soient aussi réalisés dans les relations entre particuliers."
       }
     ],
     "38": [
@@ -1384,32 +1353,6 @@
       {
         "num": "4",
         "text": "L'essence des droits fondamentaux et sociaux est inviolable."
-      },
-      {
-        "num": "3",
-        "text": "Droits politiques 3.1 Droits politiques cantonaux --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "40": [
-      {
-        "num": "1",
-        "text": "Le peuple élit les membres du Grand Conseil, ceux du Conseil d'Etat, les préfets et les membres fribourgeois du Conseil des Etats."
-      },
-      {
-        "num": "2",
-        "text": "Les membres du Conseil des Etats sont élus parmi les personnes domiciliées dans le canton qui ont la citoyenneté active en matière cantonale, selon le système majoritaire, en même temps et pour la même durée que ceux du"
-      },
-      {
-        "num": null,
-        "text": "Conseil national."
-      },
-      {
-        "num": "3",
-        "text": "L'élection des membres du Conseil national est réglée par le droit fédéral. 8"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
       }
     ],
     "39": [
@@ -1423,17 +1366,21 @@
       },
       {
         "num": "2",
-        "text": "La loi règle l'exclusion du droit de voter et d'élire. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La loi règle l'exclusion du droit de voter et d'élire."
       }
     ],
-    "42": [
+    "40": [
       {
         "num": "1",
-        "text": "L'initiative populaire peut prendre la forme d'un projet rédigé de toutes pièces ou être conçue en termes généraux."
+        "text": "Le peuple élit les membres du Grand Conseil, ceux du Conseil d'Etat, les préfets et les membres fribourgeois du Conseil des Etats."
       },
       {
         "num": "2",
-        "text": "Elle doit être appuyée par 6000 citoyennes et citoyens actifs. Le délai de récolte des signatures est de 90 jours. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les membres du Conseil des Etats sont élus parmi les personnes domiciliées dans le canton qui ont la citoyenneté active en matière cantonale, selon le système majoritaire, en même temps et pour la même durée que ceux du Conseil national."
+      },
+      {
+        "num": "3",
+        "text": "L'élection des membres du Conseil national est réglée par le droit fédéral."
       }
     ],
     "41": [
@@ -1443,23 +1390,39 @@
       },
       {
         "num": null,
-        "text": "a) la révision partielle ou totale de la Constitution; b) l'adoption, la modification ou l'abrogation d'une loi. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "a) la révision partielle ou totale de la Constitution; b) l'adoption, la modification ou l'abrogation d'une loi."
       }
     ],
-    "44": [
+    "42": [
       {
         "num": "1",
-        "text": "L'initiative populaire doit être traitée par le Grand Conseil et soumise au peuple sans retard, le cas échéant en même temps qu'un contre-projet du"
+        "text": "L'initiative populaire peut prendre la forme d'un projet rédigé de toutes pièces ou être conçue en termes généraux."
       },
       {
-        "num": null,
-        "text": "Grand Conseil. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "num": "2",
+        "text": "Elle doit être appuyée par 6000 citoyennes et citoyens actifs. Le délai de récolte des signatures est de 90 jours."
       }
     ],
     "43": [
       {
         "num": "1",
-        "text": "Le Grand Conseil invalide entièrement ou partiellement les initiatives populaires si elles violent le droit supérieur, ne respectent pas l'unité de la forme ou de la matière ou sont inexécutables. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Grand Conseil invalide entièrement ou partiellement les initiatives populaires si elles violent le droit supérieur, ne respectent pas l'unité de la forme ou de la matière ou sont inexécutables."
+      }
+    ],
+    "44": [
+      {
+        "num": "1",
+        "text": "L'initiative populaire doit être traitée par le Grand Conseil et soumise au peuple sans retard, le cas échéant en même temps qu'un contre-projet du Grand Conseil."
+      }
+    ],
+    "45": [
+      {
+        "num": "1",
+        "text": "Sont soumis obligatoirement à un vote populaire:"
+      },
+      {
+        "num": null,
+        "text": "a) la révision partielle ou totale de la Constitution; b) les actes du Grand Conseil qui entraînent une dépense nette nouvelle supérieure à 1% du total des dépenses des derniers comptes arrêtés par le Grand Conseil."
       }
     ],
     "46": [
@@ -1473,35 +1436,17 @@
       },
       {
         "num": "2",
-        "text": "Les signatures doivent être récoltées dans un délai de 90 jours. 9"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "45": [
-      {
-        "num": "1",
-        "text": "Sont soumis obligatoirement à un vote populaire:"
-      },
-      {
-        "num": null,
-        "text": "a) la révision partielle ou totale de la Constitution; b) les actes du Grand Conseil qui entraînent une dépense nette nouvelle supérieure à 1% du total des dépenses des derniers comptes arrêtés par le Grand Conseil. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les signatures doivent être récoltées dans un délai de 90 jours."
       }
     ],
     "47": [
       {
         "num": "1",
-        "text": "300 citoyennes et citoyens actifs peuvent adresser une motion au Grand"
-      },
-      {
-        "num": null,
-        "text": "Conseil."
+        "text": "300 citoyennes et citoyens actifs peuvent adresser une motion au Grand Conseil."
       },
       {
         "num": "2",
-        "text": "Le Grand Conseil la traite comme une motion de l'un de ses membres. 3.2 Droits politiques communaux --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Grand Conseil la traite comme une motion de l'un de ses membres."
       }
     ],
     "48": [
@@ -1515,7 +1460,13 @@
       },
       {
         "num": "2",
-        "text": "La loi règle l'exclusion du droit de voter et d'élire. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La loi règle l'exclusion du droit de voter et d'élire."
+      }
+    ],
+    "49": [
+      {
+        "num": "1",
+        "text": "Les citoyennes et les citoyens actifs élisent les membres du conseil communal et, le cas échéant, ceux du conseil général."
       }
     ],
     "50": [
@@ -1525,27 +1476,7 @@
       },
       {
         "num": "2",
-        "text": "Dans les communes qui ont un conseil général, les citoyennes et les citoyens actifs ont le droit d'initiative et de référendum. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "49": [
-      {
-        "num": "1",
-        "text": "Les citoyennes et les citoyens actifs élisent les membres du conseil communal et, le cas échéant, ceux du conseil général. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "52": [
-      {
-        "num": "1",
-        "text": "L'activité étatique est régie par les principes de subsidiarité, de transparence et de solidarité. 10"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1"
-      },
-      {
-        "num": "2",
-        "text": "Pour accomplir les tâches qui leur incombent, l'Etat et les communes disposent de services publics de qualité et de proximité. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Dans les communes qui ont un conseil général, les citoyennes et les citoyens actifs ont le droit d'initiative et de référendum."
       }
     ],
     "51": [
@@ -1556,10 +1487,22 @@
       {
         "num": "2",
         "text": "Les associations et les communes membres consultent et informent la population."
+      }
+    ],
+    "52": [
+      {
+        "num": "1",
+        "text": "L'activité étatique est régie par les principes de subsidiarité, de transparence et de solidarité."
       },
       {
-        "num": "4",
-        "text": "Tâches publiques --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "num": "2",
+        "text": "Pour accomplir les tâches qui leur incombent, l'Etat et les communes disposent de services publics de qualité et de proximité."
+      }
+    ],
+    "53": [
+      {
+        "num": "1",
+        "text": "La loi attribue les tâches à la collectivité publique la mieux à même de les accomplir."
       }
     ],
     "54": [
@@ -1573,13 +1516,7 @@
       },
       {
         "num": "3",
-        "text": "L'Etat et les communes peuvent participer à des entreprises ou en créer. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "53": [
-      {
-        "num": "1",
-        "text": "La loi attribue les tâches à la collectivité publique la mieux à même de les accomplir. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat et les communes peuvent participer à des entreprises ou en créer."
       }
     ],
     "55": [
@@ -1589,7 +1526,7 @@
       },
       {
         "num": "2",
-        "text": "Ils prennent des mesures pour atténuer les conséquences du chômage, prévenir l'exclusion sociale ou professionnelle et favoriser la réinsertion. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Ils prennent des mesures pour atténuer les conséquences du chômage, prévenir l'exclusion sociale ou professionnelle et favoriser la réinsertion."
       }
     ],
     "56": [
@@ -1599,7 +1536,7 @@
       },
       {
         "num": "2",
-        "text": "L'Etat encourage l'aide au logement, la construction de logements et l'accès à la propriété de son logement. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat encourage l'aide au logement, la construction de logements et l'accès à la propriété de son logement."
       }
     ],
     "57": [
@@ -1609,17 +1546,13 @@
       },
       {
         "num": "2",
-        "text": "Il encourage l'innovation et la création d'entreprises. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il encourage l'innovation et la création d'entreprises."
       }
     ],
     "58": [
       {
         "num": "1",
-        "text": "L'Etat et les communes peuvent créer des monopoles lorsque l'intérêt public le commande. Les régales cantonales sont réservées. 11"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat et les communes peuvent créer des monopoles lorsque l'intérêt public le commande. Les régales cantonales sont réservées."
       }
     ],
     "59": [
@@ -1633,7 +1566,7 @@
       },
       {
         "num": "3",
-        "text": "La législation doit respecter les intérêts des familles. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La législation doit respecter les intérêts des familles."
       }
     ],
     "60": [
@@ -1647,19 +1580,19 @@
       },
       {
         "num": "3",
-        "text": "En collaboration avec les communes et les particuliers, l'Etat organise un accueil de la prime enfance jusqu'à l'entrée à l'école obligatoire et peut mettre sur pied un accueil parascolaire. Ces prestations doivent être financièrement accessibles à tous. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "62": [
-      {
-        "num": "1",
-        "text": "L'Etat et les communes favorisent la compréhension et la solidarité entre les générations. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "En collaboration avec les communes et les particuliers, l'Etat organise un accueil de la prime enfance jusqu'à l'entrée à l'école obligatoire et peut mettre sur pied un accueil parascolaire. Ces prestations doivent être financièrement accessibles à tous."
       }
     ],
     "61": [
       {
         "num": "1",
-        "text": "L'Etat et les communes favorisent l'intégration sociale et politique des jeunes. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat et les communes favorisent l'intégration sociale et politique des jeunes."
+      }
+    ],
+    "62": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes favorisent la compréhension et la solidarité entre les générations."
       }
     ],
     "63": [
@@ -1669,7 +1602,7 @@
       },
       {
         "num": "2",
-        "text": "Leur développement harmonieux doit être soutenu et leur intégration sociale favorisée. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Leur développement harmonieux doit être soutenu et leur intégration sociale favorisée."
       }
     ],
     "64": [
@@ -1683,25 +1616,11 @@
       },
       {
         "num": "3",
-        "text": "La première langue étrangère enseignée est l'autre langue officielle. 12"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1"
+        "text": "La première langue étrangère enseignée est l'autre langue officielle."
       },
       {
         "num": "4",
-        "text": "L'enseignement  respecte  la  neutralité  confessionnelle  et  politique.  Les"
-      },
-      {
-        "num": null,
-        "text": "Eglises et les communautés religieuses reconnues ont le droit d'organiser un enseignement religieux dans le cadre de l'école obligatoire. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "66": [
-      {
-        "num": "1",
-        "text": "L'Etat et les communes encouragent la formation des adultes. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'enseignement respecte la neutralité confessionnelle et politique. Les Eglises et les communautés religieuses reconnues ont le droit d'organiser un enseignement religieux dans le cadre de l'école obligatoire."
       }
     ],
     "65": [
@@ -1719,45 +1638,13 @@
       },
       {
         "num": "4",
-        "text": "Il octroie des aides financières aux personnes en formation dont les ressources sont limitées. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il octroie des aides financières aux personnes en formation dont les ressources sont limitées."
       }
     ],
-    "68": [
+    "66": [
       {
         "num": "1",
-        "text": "L'Etat s'emploie à la promotion de la santé et veille à ce que toute personne ait accès à des soins de qualité égale. 1a Il assure des soins urgents accessibles 24 heures sur 24 et 7 jours sur 7 dans toutes les régions du canton."
-      },
-      {
-        "num": "2",
-        "text": "Il prend des mesures visant à protéger la population contre la fumée passive. ### Art. 68 modifié 01.01.2009 2008_073 09.02.2017 ### Art. 68 al. 1a introduit 01.01.2025 2024_043"
-      },
-      {
-        "num": null,
-        "text": "Tableau des modifications – Par article"
-      },
-      {
-        "num": null,
-        "text": "Elément touché"
-      },
-      {
-        "num": null,
-        "text": "Type de modification"
-      },
-      {
-        "num": null,
-        "text": "Adoption"
-      },
-      {
-        "num": null,
-        "text": "Entrée en vigueur"
-      },
-      {
-        "num": null,
-        "text": "Source (ROF depuis 2002)"
-      },
-      {
-        "num": null,
-        "text": "Acte acte de base 16.05.2004 01.01.2005 2004_035 ### Art. 68 modifié 20.06.2008 01.01.2009 2008_073 ### Art. 68 al. 1a introduit 09.06.2024 01.01.2025 2024_043 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat et les communes encouragent la formation des adultes."
       }
     ],
     "67": [
@@ -1767,7 +1654,17 @@
       },
       {
         "num": "2",
-        "text": "Il exerce la surveillance sur celles qui assurent l'enseignement de base et sur celles qu'il soutient. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il exerce la surveillance sur celles qui assurent l'enseignement de base et sur celles qu'il soutient."
+      }
+    ],
+    "68": [
+      {
+        "num": "1",
+        "text": "L'Etat s'emploie à la promotion de la santé et veille à ce que toute personne ait accès à des soins de qualité égale. 1a Il assure des soins urgents accessibles 24 heures sur 24 et 7 jours sur 7 dans toutes les régions du canton."
+      },
+      {
+        "num": "2",
+        "text": "Il prend des mesures visant à protéger la population contre la fumée passive."
       }
     ],
     "69": [
@@ -1781,23 +1678,13 @@
       },
       {
         "num": "3",
-        "text": "Pour l'octroi du droit de cité, ils ne prélèvent qu'un émolument administratif. 13"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Pour l'octroi du droit de cité, ils ne prélèvent qu'un émolument administratif."
       }
     ],
     "70": [
       {
         "num": "1",
-        "text": "L'Etat encourage l'aide humanitaire, la coopération au développement et le commerce équitable. Il favorise les échanges entre les peuples. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "72": [
-      {
-        "num": "1",
-        "text": "L'Etat et les communes veillent à une utilisation judicieuse et mesurée du sol et à une occupation rationnelle du territoire. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat encourage l'aide humanitaire, la coopération au développement et le commerce équitable. Il favorise les échanges entre les peuples."
       }
     ],
     "71": [
@@ -1807,13 +1694,13 @@
       },
       {
         "num": "2",
-        "text": "Ils favorisent l'utilisation et le développement des énergies renouvelables. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Ils favorisent l'utilisation et le développement des énergies renouvelables."
       }
     ],
-    "74": [
+    "72": [
       {
         "num": "1",
-        "text": "En collaboration avec la Confédération, l'Etat encourage et soutient l'agriculture et la sylviculture dans leurs fonctions protectrice, écologique, économique et sociale. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat et les communes veillent à une utilisation judicieuse et mesurée du sol et à une occupation rationnelle du territoire."
       }
     ],
     "73": [
@@ -1827,7 +1714,19 @@
       },
       {
         "num": "3",
-        "text": "Ils favorisent la connaissance de la nature et du patrimoine culturel, notamment par la formation, la recherche et l'information. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Ils favorisent la connaissance de la nature et du patrimoine culturel, notamment par la formation, la recherche et l'information."
+      }
+    ],
+    "74": [
+      {
+        "num": "1",
+        "text": "En collaboration avec la Confédération, l'Etat encourage et soutient l'agriculture et la sylviculture dans leurs fonctions protectrice, écologique, économique et sociale."
+      }
+    ],
+    "75": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes prennent les mesures nécessaires pour prévenir et maîtriser les catastrophes et les situations d'urgence."
       }
     ],
     "76": [
@@ -1837,13 +1736,13 @@
       },
       {
         "num": "2",
-        "text": "L'Etat détient le monopole de la force publique. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat détient le monopole de la force publique."
       }
     ],
-    "75": [
+    "77": [
       {
         "num": "1",
-        "text": "L'Etat et les communes prennent les mesures nécessaires pour prévenir et maîtriser les catastrophes et les situations d'urgence. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'Etat et les communes garantissent l'approvisionnement en eau et en énergie."
       }
     ],
     "78": [
@@ -1857,17 +1756,7 @@
       },
       {
         "num": "3",
-        "text": "Il favorise les transports publics et le trafic non motorisé. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "77": [
-      {
-        "num": "1",
-        "text": "L'Etat et les communes garantissent l'approvisionnement en eau et en énergie. 14"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il favorise les transports publics et le trafic non motorisé."
       }
     ],
     "79": [
@@ -1877,27 +1766,13 @@
       },
       {
         "num": "2",
-        "text": "Ils encouragent la coopération et les échanges culturels entre les régions du canton et avec l'extérieur. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Ils encouragent la coopération et les échanges culturels entre les régions du canton et avec l'extérieur."
       }
     ],
     "80": [
       {
         "num": "1",
         "text": "L'Etat et les communes favorisent les loisirs contribuant à l'équilibre et au développement personnels. Ils encouragent la pratique du sport et les possibilités de délassement."
-      },
-      {
-        "num": "5",
-        "text": "Finances --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "82": [
-      {
-        "num": "1",
-        "text": "L'Etat et les communes gèrent les finances publiques avec économie."
-      },
-      {
-        "num": "2",
-        "text": "Ils vérifient périodiquement que les tâches qu'ils accomplissent et les subventions qu'ils octroient sont toujours efficaces, nécessaires et supportables financièrement. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
       }
     ],
     "81": [
@@ -1911,21 +1786,17 @@
       },
       {
         "num": "3",
-        "text": "Ils luttent contre la fraude et la soustraction fiscales. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Ils luttent contre la fraude et la soustraction fiscales."
       }
     ],
-    "84": [
+    "82": [
       {
         "num": "1",
-        "text": "Toute personne peut consulter le budget et les comptes des collectivités publiques et de leurs établissements ainsi que les comptes des autres institutions étatiques."
+        "text": "L'Etat et les communes gèrent les finances publiques avec économie."
       },
       {
         "num": "2",
-        "text": "La surveillance des finances de l'Etat et des communes est assurée par un organe dont l'indépendance est garantie."
-      },
-      {
-        "num": "6",
-        "text": "Autorités cantonales 6.1 Dispositions générales --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Ils vérifient périodiquement que les tâches qu'ils accomplissent et les subventions qu'ils octroient sont toujours efficaces, nécessaires et supportables financièrement."
       }
     ],
     "83": [
@@ -1939,11 +1810,23 @@
       },
       {
         "num": "3",
-        "text": "Les déficits engendrés par ces situations doivent être compensés dans les années suivantes. 15"
+        "text": "Les déficits engendrés par ces situations doivent être compensés dans les années suivantes."
+      }
+    ],
+    "84": [
+      {
+        "num": "1",
+        "text": "Toute personne peut consulter le budget et les comptes des collectivités publiques et de leurs établissements ainsi que les comptes des autres institutions étatiques."
       },
       {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "num": "2",
+        "text": "La surveillance des finances de l'Etat et des communes est assurée par un organe dont l'indépendance est garantie."
+      }
+    ],
+    "85": [
+      {
+        "num": "1",
+        "text": "Les autorités sont organisées selon le principe de la séparation des pouvoirs."
       }
     ],
     "86": [
@@ -1953,27 +1836,7 @@
       },
       {
         "num": "2",
-        "text": "La loi peut permettre l'accès aux fonctions de l'ordre judiciaire aux personnes de nationalité étrangère qui sont domiciliées dans le canton depuis au moins cinq ans et au bénéfice d'une autorisation d'établissement. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "85": [
-      {
-        "num": "1",
-        "text": "Les autorités sont organisées selon le principe de la séparation des pouvoirs. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "88": [
-      {
-        "num": "1",
-        "text": "Les autorités informent le public sur leur activité. 16"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1"
-      },
-      {
-        "num": "2",
-        "text": "Les membres du Grand Conseil et du Conseil d'Etat ainsi que les préfets rendent publics tous les liens particuliers qui les rattachent à des intérêts privés ou publics. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La loi peut permettre l'accès aux fonctions de l'ordre judiciaire aux personnes de nationalité étrangère qui sont domiciliées dans le canton depuis au moins cinq ans et au bénéfice d'une autorisation d'établissement."
       }
     ],
     "87": [
@@ -1995,7 +1858,17 @@
       },
       {
         "num": "4",
-        "text": "La loi peut prévoir d'autres incompatibilités. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La loi peut prévoir d'autres incompatibilités."
+      }
+    ],
+    "88": [
+      {
+        "num": "1",
+        "text": "Les autorités informent le public sur leur activité."
+      },
+      {
+        "num": "2",
+        "text": "Les membres du Grand Conseil et du Conseil d'Etat ainsi que les préfets rendent publics tous les liens particuliers qui les rattachent à des intérêts privés ou publics."
       }
     ],
     "89": [
@@ -2005,7 +1878,7 @@
       },
       {
         "num": "2",
-        "text": "La loi décrit les conditions de la levée de l'immunité. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La loi décrit les conditions de la levée de l'immunité."
       }
     ],
     "90": [
@@ -2015,21 +1888,7 @@
       },
       {
         "num": "2",
-        "text": "La loi fixe les conditions de la responsabilité pour fait licite. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "92": [
-      {
-        "num": "1",
-        "text": "Un acte du Grand Conseil dont l'entrée en vigueur ne souffre aucun retard peut être déclaré urgent et mis en vigueur immédiatement par une décision prise à la majorité de ses membres. Sa durée de validité doit être limitée."
-      },
-      {
-        "num": "2",
-        "text": "Lorsqu'un tel acte est soumis obligatoirement au référendum ou que celui-ci est demandé, il cesse de produire effet un an après son adoption par le Grand"
-      },
-      {
-        "num": null,
-        "text": "Conseil s'il n'a pas été accepté par le peuple dans ce délai. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La loi fixe les conditions de la responsabilité pour fait licite."
       }
     ],
     "91": [
@@ -2039,13 +1898,17 @@
       },
       {
         "num": "2",
-        "text": "Les actes législatifs des autres autorités revêtent la forme de l'ordonnance ou du règlement. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les actes législatifs des autres autorités revêtent la forme de l'ordonnance ou du règlement."
       }
     ],
-    "94": [
+    "92": [
       {
         "num": "1",
-        "text": "Le Grand Conseil est l'autorité suprême du canton, sous réserve des droits du peuple. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Un acte du Grand Conseil dont l'entrée en vigueur ne souffre aucun retard peut être déclaré urgent et mis en vigueur immédiatement par une décision prise à la majorité de ses membres. Sa durée de validité doit être limitée."
+      },
+      {
+        "num": "2",
+        "text": "Lorsqu'un tel acte est soumis obligatoirement au référendum ou que celui-ci est demandé, il cesse de produire effet un an après son adoption par le Grand Conseil s'il n'a pas été accepté par le peuple dans ce délai."
       }
     ],
     "93": [
@@ -2059,11 +1922,13 @@
       },
       {
         "num": "3",
-        "text": "Le Grand Conseil peut opposer son veto aux actes de l'autorité délégataire. 17"
-      },
+        "text": "Le Grand Conseil peut opposer son veto aux actes de l'autorité délégataire."
+      }
+    ],
+    "94": [
       {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 6.2 Grand Conseil --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "num": "1",
+        "text": "Le Grand Conseil est l'autorité suprême du canton, sous réserve des droits du peuple."
       }
     ],
     "95": [
@@ -2077,7 +1942,7 @@
       },
       {
         "num": "3",
-        "text": "La loi définit au maximum huit cercles électoraux. Elle assure une représentation équitable des régions du canton. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La loi définit au maximum huit cercles électoraux. Elle assure une représentation équitable des régions du canton."
       }
     ],
     "96": [
@@ -2099,13 +1964,13 @@
       },
       {
         "num": "4",
-        "text": "Le Grand Conseil ne peut valablement délibérer que si la majorité de ses membres sont présents. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Grand Conseil ne peut valablement délibérer que si la majorité de ses membres sont présents."
       }
     ],
     "97": [
       {
         "num": "1",
-        "text": "Le Grand Conseil dispose de son propre secrétariat, dirigé par la secrétaire générale ou le secrétaire général. Il peut faire appel aux services de l'administration. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Grand Conseil dispose de son propre secrétariat, dirigé par la secrétaire générale ou le secrétaire général. Il peut faire appel aux services de l'administration."
       }
     ],
     "98": [
@@ -2119,18 +1984,10 @@
       },
       {
         "num": "3",
-        "text": "Le Secrétariat assure, en collaboration avec la Chancellerie d'Etat, les relations entre le Grand Conseil et le Conseil d'Etat. 18"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Secrétariat assure, en collaboration avec la Chancellerie d'Etat, les relations entre le Grand Conseil et le Conseil d'Etat."
       }
     ],
     "99": [
-      {
-        "num": null,
-        "text": "1. En général"
-      },
       {
         "num": "1",
         "text": "Le Grand Conseil exerce le pouvoir législatif."
@@ -2141,14 +1998,10 @@
       },
       {
         "num": "3",
-        "text": "Un quart des députés peut demander un référendum financier (art. 46 al. 1 let. b). La loi fixe le délai de dépôt d'une telle demande. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Un quart des députés peut demander un référendum financier (art. 46 al. 1 let. b). La loi fixe le délai de dépôt d'une telle demande."
       }
     ],
     "100": [
-      {
-        "num": null,
-        "text": "2. Traités intercantonaux et internationaux"
-      },
       {
         "num": "1",
         "text": "Le Grand Conseil approuve l'adhésion du canton aux traités intercantonaux et internationaux."
@@ -2159,13 +2012,13 @@
       },
       {
         "num": "3",
-        "text": "Il peut inviter le Conseil d'Etat à engager des négociations en vue de la conclusion d'un traité ou à dénoncer un traité existant. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il peut inviter le Conseil d'Etat à engager des négociations en vue de la conclusion d'un traité ou à dénoncer un traité existant."
       }
     ],
     "101": [
       {
         "num": "1",
-        "text": "Le Grand Conseil examine le programme de législature et le plan financier du Conseil d'Etat. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Grand Conseil examine le programme de législature et le plan financier du Conseil d'Etat."
       }
     ],
     "102": [
@@ -2175,17 +2028,7 @@
       },
       {
         "num": "2",
-        "text": "Il fixe les impôts cantonaux ainsi que les conditions et les limites d'un nouvel endettement. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "104": [
-      {
-        "num": "1",
-        "text": "Le Grand Conseil exerce la haute surveillance sur:"
-      },
-      {
-        "num": null,
-        "text": "a) le Conseil d'Etat et l'administration; b) la justice; c) les délégataires de tâches publiques. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il fixe les impôts cantonaux ainsi que les conditions et les limites d'un nouvel endettement."
       }
     ],
     "103": [
@@ -2195,19 +2038,21 @@
       },
       {
         "num": null,
-        "text": "a) la présidente ou le président et les vice-présidentes ou les vice-présidents du Grand Conseil; b) la présidente ou le président du Conseil d'Etat; c) la présidente ou le président du Tribunal cantonal; d) les membres du Conseil de la magistrature; e) les membres du pouvoir judiciaire et du Ministère public, sur préavis du"
-      },
-      {
-        "num": null,
-        "text": "Conseil de la magistrature; f) la secrétaire générale ou le secrétaire général du Grand Conseil; g) les membres de ses commissions."
+        "text": "a) la présidente ou le président et les vice-présidentes ou les vice-présidents du Grand Conseil; b) la présidente ou le président du Conseil d'Etat; c) la présidente ou le président du Tribunal cantonal; d) les membres du Conseil de la magistrature; e) les membres du pouvoir judiciaire et du Ministère public, sur préavis du Conseil de la magistrature; f) la secrétaire générale ou le secrétaire général du Grand Conseil; g) les membres de ses commissions."
       },
       {
         "num": "2",
-        "text": "La loi peut confier d'autres compétences électorales au Grand Conseil. 19"
+        "text": "La loi peut confier d'autres compétences électorales au Grand Conseil."
+      }
+    ],
+    "104": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil exerce la haute surveillance sur:"
       },
       {
         "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "a) le Conseil d'Etat et l'administration; b) la justice; c) les délégataires de tâches publiques."
       }
     ],
     "105": [
@@ -2217,7 +2062,7 @@
       },
       {
         "num": null,
-        "text": "a) statue sur la validité des initiatives populaires; b) tranche les conflits de compétence entre les autorités supérieures du canton; c) accorde l'amnistie et la grâce; d) accorde le droit de cité cantonal; e) exerce les droits de participation que le droit fédéral confère aux cantons; f) accomplit toutes les autres tâches qui, en vertu de la Constitution ou de la loi, lui incombent ou ne ressortissent pas à la compétence d'une autre autorité. 6.3 Conseil d'Etat --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "a) statue sur la validité des initiatives populaires; b) tranche les conflits de compétence entre les autorités supérieures du canton; c) accorde l'amnistie et la grâce; d) accorde le droit de cité cantonal; e) exerce les droits de participation que le droit fédéral confère aux cantons; f) accomplit toutes les autres tâches qui, en vertu de la Constitution ou de la loi, lui incombent ou ne ressortissent pas à la compétence d'une autre autorité."
       }
     ],
     "106": [
@@ -2227,31 +2072,23 @@
       },
       {
         "num": "2",
-        "text": "Il est élu par le peuple, selon le système majoritaire, en même temps que le"
-      },
-      {
-        "num": null,
-        "text": "Grand Conseil. La circonscription électorale est le canton."
+        "text": "Il est élu par le peuple, selon le système majoritaire, en même temps que le Grand Conseil. La circonscription électorale est le canton."
       },
       {
         "num": "3",
-        "text": "Les membres du Conseil d'Etat sont élus pour cinq ans et ne peuvent siéger pendant plus de trois législatures complètes. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les membres du Conseil d'Etat sont élus pour cinq ans et ne peuvent siéger pendant plus de trois législatures complètes."
       }
     ],
     "107": [
       {
         "num": "1",
-        "text": "La présidente ou le président du Conseil d'Etat est élu par le Grand Conseil pour une année. Elle ou il n'est pas immédiatement rééligible. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La présidente ou le président du Conseil d'Etat est élu par le Grand Conseil pour une année. Elle ou il n'est pas immédiatement rééligible."
       }
     ],
     "108": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat dispose de son propre secrétariat, dirigé par la chancelière ou le chancelier d'Etat. 20"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Conseil d'Etat dispose de son propre secrétariat, dirigé par la chancelière ou le chancelier d'Etat."
       }
     ],
     "109": [
@@ -2265,37 +2102,29 @@
       },
       {
         "num": "3",
-        "text": "La Chancellerie d'Etat assure, en collaboration avec le Secrétariat du Grand"
-      },
-      {
-        "num": null,
-        "text": "Conseil, les relations entre le Conseil d'Etat et le Grand Conseil. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La Chancellerie d'Etat assure, en collaboration avec le Secrétariat du Grand Conseil, les relations entre le Conseil d'Etat et le Grand Conseil."
       }
     ],
     "110": [
       {
         "num": "1",
-        "text": "Le  Conseil  d'Etat  exerce  le  pouvoir  exécutif,  dirige  l'administration  et conduit la politique du canton. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Conseil d'Etat exerce le pouvoir exécutif, dirige l'administration et conduit la politique du canton."
       }
     ],
     "111": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat prépare les projets d'actes législatifs à l'intention du Grand"
-      },
-      {
-        "num": null,
-        "text": "Conseil."
+        "text": "Le Conseil d'Etat prépare les projets d'actes législatifs à l'intention du Grand Conseil."
       },
       {
         "num": "2",
-        "text": "Il édicte des règles de droit lorsque la Constitution ou la loi l'y autorisent ainsi que les dispositions d'exécution des lois cantonales ou fédérales, dans la mesure où celles-ci ne doivent pas être prises sous la forme d'une loi. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il édicte des règles de droit lorsque la Constitution ou la loi l'y autorisent ainsi que les dispositions d'exécution des lois cantonales ou fédérales, dans la mesure où celles-ci ne doivent pas être prises sous la forme d'une loi."
       }
     ],
     "112": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat présente au Grand Conseil le programme de législature et le plan financier. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Conseil d'Etat présente au Grand Conseil le programme de législature et le plan financier."
       }
     ],
     "113": [
@@ -2305,7 +2134,7 @@
       },
       {
         "num": "2",
-        "text": "Il décide des dépenses ainsi que des acquisitions et des aliénations du domaine public dans les limites fixées par la loi. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il décide des dépenses ainsi que des acquisitions et des aliénations du domaine public dans les limites fixées par la loi."
       }
     ],
     "114": [
@@ -2319,29 +2148,25 @@
       },
       {
         "num": "3",
-        "text": "Il répond aux consultations fédérales. 21"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "116": [
-      {
-        "num": "1",
-        "text": "Le Conseil d'Etat procède aux nominations qui ne sont pas réservées à une autre autorité. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il répond aux consultations fédérales."
       }
     ],
     "115": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat exerce la surveillance sur les communes. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Conseil d'Etat exerce la surveillance sur les communes."
+      }
+    ],
+    "116": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat procède aux nominations qui ne sont pas réservées à une autre autorité."
       }
     ],
     "117": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat prend les mesures nécessaires pour parer aux dangers sérieux, directs et imminents. Ces mesures cessent de produire effet une fois le danger disparu ou en l'absence d'approbation par le Grand Conseil dans le délai d'une année. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Conseil d'Etat prend les mesures nécessaires pour parer aux dangers sérieux, directs et imminents. Ces mesures cessent de produire effet une fois le danger disparu ou en l'absence d'approbation par le Grand Conseil dans le délai d'une année."
       }
     ],
     "118": [
@@ -2351,13 +2176,13 @@
       },
       {
         "num": "2",
-        "text": "Il veille à ce qu'elle soit efficace et assure un service de proximité. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il veille à ce qu'elle soit efficace et assure un service de proximité."
       }
     ],
     "119": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat institue, en matière administrative, un organe de médiation indépendant. 6.4 Justice --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Conseil d'Etat institue, en matière administrative, un organe de médiation indépendant."
       }
     ],
     "120": [
@@ -2371,13 +2196,7 @@
       },
       {
         "num": "3",
-        "text": "Le Grand Conseil accorde au pouvoir judiciaire les moyens nécessaires pour assurer la célérité et la qualité de la justice. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "122": [
-      {
-        "num": "1",
-        "text": "Les autorités des juridictions civile, pénale et administrative n'appliquent pas les dispositions contraires au droit supérieur. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Le Grand Conseil accorde au pouvoir judiciaire les moyens nécessaires pour assurer la célérité et la qualité de la justice."
       }
     ],
     "121": [
@@ -2387,11 +2206,13 @@
       },
       {
         "num": "2",
-        "text": "Les membres du pouvoir judiciaire et du Ministère public sont élus pour une durée indéterminée. Ils peuvent être révoqués par l'autorité d'élection dans les seuls cas prévus par la loi. 22"
-      },
+        "text": "Les membres du pouvoir judiciaire et du Ministère public sont élus pour une durée indéterminée. Ils peuvent être révoqués par l'autorité d'élection dans les seuls cas prévus par la loi."
+      }
+    ],
+    "122": [
       {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "num": "1",
+        "text": "Les autorités des juridictions civile, pénale et administrative n'appliquent pas les dispositions contraires au droit supérieur."
       }
     ],
     "123": [
@@ -2417,7 +2238,7 @@
       },
       {
         "num": "4",
-        "text": "La loi peut instituer des autorités judiciaires spéciales. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La loi peut instituer des autorités judiciaires spéciales."
       }
     ],
     "124": [
@@ -2431,11 +2252,13 @@
       },
       {
         "num": "3",
-        "text": "La présidente ou le président du Tribunal cantonal est élu par le Grand"
-      },
+        "text": "La présidente ou le président du Tribunal cantonal est élu par le Grand Conseil pour une année. Elle ou il n'est pas immédiatement rééligible."
+      }
+    ],
+    "125": [
       {
-        "num": null,
-        "text": "Conseil pour une année. Elle ou il n'est pas immédiatement rééligible. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "num": "1",
+        "text": "Le Conseil de la magistrature est une autorité indépendante de surveillance du pouvoir judiciaire. Il donne son préavis lors des élections judiciaires."
       }
     ],
     "126": [
@@ -2445,39 +2268,15 @@
       },
       {
         "num": null,
-        "text": "a) un membre du Grand Conseil; b) un membre du Conseil d'Etat; 23"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 c) un membre du Tribunal cantonal; d) un membre de l'Ordre des avocats fribourgeois; e) une ou un professeur ordinaire de la Faculté de droit de l'Université; f) un membre du Ministère public; g) un membre des autorités judiciaires de première instance; h) deux autres membres."
+        "text": "a) un membre du Grand Conseil; b) un membre du Conseil d'Etat; c) un membre du Tribunal cantonal; d) un membre de l'Ordre des avocats fribourgeois; e) une ou un professeur ordinaire de la Faculté de droit de l'Université; f) un membre du Ministère public; g) un membre des autorités judiciaires de première instance; h) deux autres membres."
       },
       {
         "num": "2",
-        "text": "Les membres du Conseil de la magistrature sont élus par le Grand Conseil."
-      },
-      {
-        "num": null,
-        "text": "Les sept premiers cités le sont sur proposition de l'autorité ou du groupe de personnes dont ils font partie, les deux autres, sur proposition du Conseil de la magistrature."
+        "text": "Les membres du Conseil de la magistrature sont élus par le Grand Conseil. Les sept premiers cités le sont sur proposition de l'autorité ou du groupe de personnes dont ils font partie, les deux autres, sur proposition du Conseil de la magistrature."
       },
       {
         "num": "3",
-        "text": "Ils sont élus pour cinq ans et ne peuvent siéger au Conseil pendant plus de deux périodes consécutives. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "125": [
-      {
-        "num": "1",
-        "text": "Le Conseil de la magistrature est une autorité indépendante de surveillance du pouvoir judiciaire. Il donne son préavis lors des élections judiciaires. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "128": [
-      {
-        "num": "1",
-        "text": "Le Conseil de la magistrature préavise à l'intention du Grand Conseil les candidatures aux postes du pouvoir judiciaire et du Ministère public, en se fondant sur la formation, l'expérience professionnelle et les qualités personnelles des candidates et candidats."
-      },
-      {
-        "num": "7",
-        "text": "Communes et structure territoriale --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Ils sont élus pour cinq ans et ne peuvent siéger au Conseil pendant plus de deux périodes consécutives."
       }
     ],
     "127": [
@@ -2491,7 +2290,13 @@
       },
       {
         "num": "3",
-        "text": "Il renseigne annuellement le Grand Conseil sur son activité. Il en fait de même chaque fois que cette autorité le demande. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il renseigne annuellement le Grand Conseil sur son activité. Il en fait de même chaque fois que cette autorité le demande."
+      }
+    ],
+    "128": [
+      {
+        "num": "1",
+        "text": "Le Conseil de la magistrature préavise à l'intention du Grand Conseil les candidatures aux postes du pouvoir judiciaire et du Ministère public, en se fondant sur la formation, l'expérience professionnelle et les qualités personnelles des candidates et candidats."
       }
     ],
     "129": [
@@ -2501,11 +2306,7 @@
       },
       {
         "num": "2",
-        "text": "L'autonomie communale est garantie dans les limites du droit cantonal. Elle peut être invoquée par les associations de communes dans leur domaine de compétence. 24"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "L'autonomie communale est garantie dans les limites du droit cantonal. Elle peut être invoquée par les associations de communes dans leur domaine de compétence."
       }
     ],
     "130": [
@@ -2515,17 +2316,7 @@
       },
       {
         "num": "2",
-        "text": "Elles veillent au bien-être de la population, lui assurent une qualité de vie durable et disposent de services de proximité. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "132": [
-      {
-        "num": "1",
-        "text": "Les communes disposent d'autonomie dans la fixation et le prélèvement des taxes et impôts communaux dans les limites de la législation."
-      },
-      {
-        "num": "2",
-        "text": "Elles établissent un plan financier. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Elles veillent au bien-être de la population, lui assurent une qualité de vie durable et disposent de services de proximité."
       }
     ],
     "131": [
@@ -2539,7 +2330,23 @@
       },
       {
         "num": "3",
-        "text": "Les articles 85, 88 al. 1 et 90 s'appliquent par analogie aux communes. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les articles 85, 88 al. 1 et 90 s'appliquent par analogie aux communes."
+      }
+    ],
+    "132": [
+      {
+        "num": "1",
+        "text": "Les communes disposent d'autonomie dans la fixation et le prélèvement des taxes et impôts communaux dans les limites de la législation."
+      },
+      {
+        "num": "2",
+        "text": "Elles établissent un plan financier."
+      }
+    ],
+    "133": [
+      {
+        "num": "1",
+        "text": "L'Etat prend des mesures pour atténuer les effets des disparités entre les communes; il instaure notamment une péréquation financière."
       }
     ],
     "134": [
@@ -2557,13 +2364,7 @@
       },
       {
         "num": "4",
-        "text": "Les communes peuvent créer des structures administratives régionales. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "133": [
-      {
-        "num": "1",
-        "text": "L'Etat prend des mesures pour atténuer les effets des disparités entre les communes; il instaure notamment une péréquation financière. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les communes peuvent créer des structures administratives régionales."
       }
     ],
     "135": [
@@ -2577,15 +2378,11 @@
       },
       {
         "num": "3",
-        "text": "Les citoyennes et les citoyens actifs des communes concernées se prononcent sur la fusion. L'al. 4 est réservé. 25"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1"
+        "text": "Les citoyennes et les citoyens actifs des communes concernées se prononcent sur la fusion. L'al. 4 est réservé."
       },
       {
         "num": "4",
-        "text": "Lorsque les intérêts communaux, régionaux ou cantonaux l'exigent, l'Etat peut ordonner une fusion. Les communes concernées doivent être entendues. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Lorsque les intérêts communaux, régionaux ou cantonaux l'exigent, l'Etat peut ordonner une fusion. Les communes concernées doivent être entendues."
       }
     ],
     "136": [
@@ -2596,10 +2393,6 @@
       {
         "num": "2",
         "text": "Un préfet élu par le peuple est placé à la tête de chaque district. Il accomplit les tâches que la loi lui attribue."
-      },
-      {
-        "num": "8",
-        "text": "Société civile --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
       }
     ],
     "137": [
@@ -2609,7 +2402,7 @@
       },
       {
         "num": "2",
-        "text": "Ils assurent, en particulier auprès des enfants et des jeunes, la promotion du civisme et de la citoyenneté. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Ils assurent, en particulier auprès des enfants et des jeunes, la promotion du civisme et de la citoyenneté."
       }
     ],
     "138": [
@@ -2619,13 +2412,13 @@
       },
       {
         "num": "2",
-        "text": "Ils encouragent le bénévolat. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Ils encouragent le bénévolat."
       }
     ],
     "139": [
       {
         "num": "1",
-        "text": "Les partis politiques contribuent de manière importante au fonctionnement de la démocratie; l'Etat et les communes peuvent les soutenir financièrement. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les partis politiques contribuent de manière importante au fonctionnement de la démocratie; l'Etat et les communes peuvent les soutenir financièrement."
       }
     ],
     "139a": [
@@ -2635,11 +2428,7 @@
       },
       {
         "num": null,
-        "text": "a) lors de campagnes électorales ou de votations, les sources de financement ainsi que le budget total de la campagne correspondante; b) pour le financement des organisations susmentionnées, la raison sociale des personnes morales participant au financement desdites organisations, de même que le montant des versements; c) l'identité des personnes physiques participant au financement desdites organisations, à l'exception de celles dont les versements n'excèdent pas 5000 francs par année civile. 26"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1"
+        "text": "a) lors de campagnes électorales ou de votations, les sources de financement ainsi que le budget total de la campagne correspondante; b) pour le financement des organisations susmentionnées, la raison sociale des personnes morales participant au financement desdites organisations, de même que le montant des versements; c) l'identité des personnes physiques participant au financement desdites organisations, à l'exception de celles dont les versements n'excèdent pas 5000 francs par année civile."
       },
       {
         "num": "2",
@@ -2652,10 +2441,6 @@
       {
         "num": "4",
         "text": "Pour le surplus, la loi règle l'application. Elle tient notamment compte du secret professionnel."
-      },
-      {
-        "num": "9",
-        "text": "Eglises et communautés religieuses ### Art. 139a introduit 01.01.2021 2017_011 09.06.2024 ### Art. 139a introduit 09.02.2017 01.01.2021 2017_011 31 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
       }
     ],
     "140": [
@@ -2665,7 +2450,7 @@
       },
       {
         "num": "2",
-        "text": "Les Eglises et les communautés religieuses s'organisent librement dans le respect de l'ordre juridique. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les Eglises et les communautés religieuses s'organisent librement dans le respect de l'ordre juridique."
       }
     ],
     "141": [
@@ -2675,7 +2460,7 @@
       },
       {
         "num": "2",
-        "text": "Les Eglises reconnues sont autonomes. Leur organisation est soumise à l'approbation de l'Etat. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Les Eglises reconnues sont autonomes. Leur organisation est soumise à l'approbation de l'Etat."
       }
     ],
     "142": [
@@ -2685,49 +2470,19 @@
       },
       {
         "num": "2",
-        "text": "Si leur importance sociale le justifie et si elles respectent les droits fondamentaux, elles peuvent obtenir des prérogatives de droit public ou être dotées d'un statut de droit public. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Si leur importance sociale le justifie et si elles respectent les droits fondamentaux, elles peuvent obtenir des prérogatives de droit public ou être dotées d'un statut de droit public."
       }
     ],
     "143": [
       {
         "num": "1",
         "text": "La perception des impôts ecclésiastiques est réglée par la loi."
-      },
-      {
-        "num": "10",
-        "text": "Révision de la Constitution --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "145": [
-      {
-        "num": "1",
-        "text": "La révision partielle de la Constitution peut être proposée par le Grand"
-      },
-      {
-        "num": null,
-        "text": "Conseil ou par voie d'initiative populaire."
-      },
-      {
-        "num": "2",
-        "text": "Elle doit être conforme au droit supérieur, respecter l'unité de la forme et de la matière et être exécutable."
-      },
-      {
-        "num": "11",
-        "text": "Dispositions finales --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
       }
     ],
     "144": [
       {
         "num": "1",
-        "text": "La révision totale de la Constitution peut être demandée par le Grand"
-      },
-      {
-        "num": null,
-        "text": "Conseil ou par voie d'initiative populaire. 27"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1"
+        "text": "La révision totale de la Constitution peut être demandée par le Grand Conseil ou par voie d'initiative populaire."
       },
       {
         "num": "2",
@@ -2743,179 +2498,83 @@
       },
       {
         "num": "4",
-        "text": "Si le peuple rejette le projet, l'organe chargé de la révision totale en élabore un second. S'il s'agit d'une assemblée constituante, les pouvoirs de celle-ci sont prorogés pour deux ans. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Si le peuple rejette le projet, l'organe chargé de la révision totale en élabore un second. S'il s'agit d'une assemblée constituante, les pouvoirs de celle-ci sont prorogés pour deux ans."
+      }
+    ],
+    "145": [
+      {
+        "num": "1",
+        "text": "La révision partielle de la Constitution peut être proposée par le Grand Conseil ou par voie d'initiative populaire."
+      },
+      {
+        "num": "2",
+        "text": "Elle doit être conforme au droit supérieur, respecter l'unité de la forme et de la matière et être exécutable."
       }
     ],
     "146": [
       {
         "num": "1",
-        "text": "La présente Constitution entre en vigueur le 1er janvier 2005. A cette date, la"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg du 7 mai 1857 (RSF 10.1) est abrogée."
-      },
-      {
-        "num": null,
-        "text": "Les dispositions qui suivent sont réservées. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "La présente Constitution entre en vigueur le 1 er janvier 2005. A cette date, la Constitution du canton de Fribourg du 7 mai 1857 (RSF 10.1) est abrogée. Les dispositions qui suivent sont réservées."
       }
     ],
     "147": [
       {
         "num": "1",
-        "text": "Le droit actuel doit être adapté sans retard à la présente Constitution. Les adaptations doivent entrer en vigueur au plus tard le 1er janvier 2009."
+        "text": "Le droit actuel doit être adapté sans retard à la présente Constitution. Les adaptations doivent entrer en vigueur au plus tard le 1 er janvier 2009."
       },
       {
         "num": "2",
-        "text": "Dans les domaines où les règles de la présente Constitution nécessitent des dispositions d'application, le droit actuel reste en vigueur jusqu'à l'adoption de ces dispositions. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "149": [
-      {
-        "num": null,
-        "text": "2. Exercice des droits politiques et éligibilité (art. 39, 48 et 131)"
-      },
-      {
-        "num": "1",
-        "text": "Les Suissesses et les Suisses de l'étranger ainsi que les étrangères et les étrangers peuvent exercer leurs droits politiques dès le 1er janvier 2006."
-      },
-      {
-        "num": "2",
-        "text": "Les étrangères et les étrangers sont éligibles à partir de cette même date. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Dans les domaines où les règles de la présente Constitution nécessitent des dispositions d'application, le droit actuel reste en vigueur jusqu'à l'adoption de ces dispositions."
       }
     ],
     "148": [
-      {
-        "num": null,
-        "text": "1. Maternité (art. 33)"
-      },
       {
         "num": "1",
         "text": "Les prestations cantonales dues en cas de naissance et d'adoption sont versées pendant au moins 14 semaines."
       },
       {
         "num": "2",
-        "text": "Leur versement doit commencer au plus tard le 1er janvier 2008. 28"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1"
+        "text": "Leur versement doit commencer au plus tard le 1 er janvier 2008."
       },
       {
         "num": "3",
-        "text": "Si une assurance maternité fédérale est mise en place, le versement cessera pour celle(s) des catégories de prestations que le droit fédéral prévoit (mère avec [art. 33 al. 2] ou sans activité lucrative [art. 33 al. 3], adoption [art. 33 al. 4]). --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Si une assurance maternité fédérale est mise en place, le versement cessera pour celle(s) des catégories de prestations que le droit fédéral prévoit (mère avec [art. 33 al. 2] ou sans activité lucrative [art. 33 al. 3], adoption [art. 33 al. 4])."
+      }
+    ],
+    "149": [
+      {
+        "num": "1",
+        "text": "Les Suissesses et les Suisses de l'étranger ainsi que les étrangères et les étrangers peuvent exercer leurs droits politiques dès le 1 er janvier 2006."
+      },
+      {
+        "num": "2",
+        "text": "Les étrangères et les étrangers sont éligibles à partir de cette même date."
+      }
+    ],
+    "150": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil adapte formellement le texte des initiatives constitutionnelles pendantes à la présente Constitution."
       }
     ],
     "151": [
-      {
-        "num": null,
-        "text": "4. Grand Conseil et Conseil d'Etat"
-      },
       {
         "num": "1",
         "text": "Les nouvelles règles relatives au Grand Conseil, notamment à son Secrétariat (art. 97), prennent effet en vue de la législature 2007–2011."
       },
       {
         "num": "2",
-        "text": "Il en va de même des nouvelles règles relatives au Conseil d'Etat. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "150": [
-      {
-        "num": null,
-        "text": "3. Initiatives constitutionnelles pendantes (art. 41 ss et 99)"
-      },
-      {
-        "num": "1",
-        "text": "Le Grand Conseil adapte formellement le texte des initiatives constitutionnelles pendantes à la présente Constitution. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "153": [
-      {
-        "num": null,
-        "text": "6. Communes (art. 49 à 51 et 129 à 135)"
-      },
-      {
-        "num": "1",
-        "text": "Les nouvelles règles relatives aux communes, à l'exception de l'article 133 (péréquation financière), prennent effet en vue de la période administrative 2006–2011."
-      },
-      {
-        "num": null,
-        "text": "ANNEXES SOUS FORME DE DOCUMENTS SÉPARÉS"
-      },
-      {
-        "num": null,
-        "text": "Annexe 1: …"
-      },
-      {
-        "num": null,
-        "text": "Garantie fédérale"
-      },
-      {
-        "num": null,
-        "text": "La Constitution a été garantie par le Conseil des Etats le 08.06.2005 et par le"
-      },
-      {
-        "num": null,
-        "text": "Conseil national le 13.06.2005 (FF 2005 4025 )."
-      },
-      {
-        "num": null,
-        "text": "La modification du 20.06.2008 a été garantie par le Conseil des Etats le 01.06.2010 et par le Conseil national le 08.06.2010 (FF 2010 3977 )."
-      },
-      {
-        "num": null,
-        "text": "La modification du 09.02.2017 a été garantie par le Conseil des Etats le 12.03.2019 et par le Conseil national le 22.03.2019 (FF 2019 2821 )."
-      },
-      {
-        "num": null,
-        "text": "La modification du 09.06.2024 a été garantie par le Conseil des Etats le 13.03.2025 et par le Conseil national le 17.03.2025 (FF 2025 966 ). 30"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1"
-      },
-      {
-        "num": null,
-        "text": "Tableau des modifications – Par date d'adoption"
-      },
-      {
-        "num": null,
-        "text": "Adoption"
-      },
-      {
-        "num": null,
-        "text": "Elément touché"
-      },
-      {
-        "num": null,
-        "text": "Type de modification"
-      },
-      {
-        "num": null,
-        "text": "Entrée en vigueur"
-      },
-      {
-        "num": null,
-        "text": "Source (ROF depuis 2002) 16.05.2004"
-      },
-      {
-        "num": null,
-        "text": "Acte acte de base 01.01.2005 2004_035 20.06.2008 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Il en va de même des nouvelles règles relatives au Conseil d'Etat."
       }
     ],
     "152": [
       {
-        "num": null,
-        "text": "5. Pouvoir judiciaire, Ministère public et Conseil de la magistrature"
-      },
-      {
         "num": "1",
-        "text": "Le Conseil de la magistrature entre en fonction le 1er juillet 2007. Il ne commence toutefois son activité de surveillance que le 1er janvier 2008."
+        "text": "Le Conseil de la magistrature entre en fonction le 1 er juillet 2007. Il ne commence toutefois son activité de surveillance que le 1 er janvier 2008."
       },
       {
         "num": "2",
-        "text": "Le Tribunal cantonal unifié commence son activité ce même 1er janvier 2008."
+        "text": "Le Tribunal cantonal unifié commence son activité ce même 1 er janvier 2008."
       },
       {
         "num": "3",
@@ -2923,23 +2582,13 @@
       },
       {
         "num": null,
-        "text": "a)"
-      },
+        "text": "a) Les personnes en fonction à l'entrée en vigueur de la présente Constitution le restent jusqu'au terme de leur mandat. b) Les postes à repourvoir entre le 1 er janvier 2005 et le 31 décembre 2007 le sont selon le droit actuel. c) Les nouvelles règles (art. 103, 121 et 128) s'appliquent pour les postes à repourvoir à partir du 1 er janvier 2008."
+      }
+    ],
+    "153": [
       {
-        "num": null,
-        "text": "Les personnes en fonction à l'entrée en vigueur de la présente Constitution le restent jusqu'au terme de leur mandat. b)"
-      },
-      {
-        "num": null,
-        "text": "Les postes à repourvoir entre le 1er janvier 2005 et le 31 décembre 2007 le sont selon le droit actuel. c)"
-      },
-      {
-        "num": null,
-        "text": "Les nouvelles règles (art. 103, 121 et 128) s'appliquent pour les postes à repourvoir à partir du 1er janvier 2008. 29"
-      },
-      {
-        "num": null,
-        "text": "Constitution du canton de Fribourg 10.1 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "num": "1",
+        "text": "Les nouvelles règles relatives aux communes, à l'exception de l'article 133 (péréquation financière), prennent effet en vue de la période administrative 2006–2011."
       }
     ]
   }

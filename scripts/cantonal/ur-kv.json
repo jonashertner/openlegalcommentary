@@ -5,8 +5,1731 @@
   "language": "de",
   "title": "Verfassung des Kantons Uri",
   "lexfind_id": 17919,
-  "fetched_at": "2026-04-13",
-  "article_count": 0,
-  "articles": [],
-  "article_texts": {}
+  "fetched_at": "2026-04-14",
+  "source": "lexwork",
+  "article_count": 105,
+  "articles": [
+    {
+      "number": 1,
+      "suffix": "",
+      "raw": "1",
+      "title": "Souveränität"
+    },
+    {
+      "number": 2,
+      "suffix": "",
+      "raw": "2",
+      "title": "Staatsziele"
+    },
+    {
+      "number": 3,
+      "suffix": "",
+      "raw": "3",
+      "title": "Bürgerrecht"
+    },
+    {
+      "number": 4,
+      "suffix": "",
+      "raw": "4",
+      "title": "Staatshaftung"
+    },
+    {
+      "number": 5,
+      "suffix": "",
+      "raw": "5",
+      "title": "Verantwortlichkeit der Organe"
+    },
+    {
+      "number": 6,
+      "suffix": "",
+      "raw": "6",
+      "title": "Entschädigung bei Enteignung"
+    },
+    {
+      "number": 7,
+      "suffix": "",
+      "raw": "7",
+      "title": "Landeskirchen"
+    },
+    {
+      "number": 8,
+      "suffix": "",
+      "raw": "8",
+      "title": "Selbständigkeit"
+    },
+    {
+      "number": 9,
+      "suffix": "",
+      "raw": "9",
+      "title": "Steuerhoheit"
+    },
+    {
+      "number": 10,
+      "suffix": "",
+      "raw": "10",
+      "title": "Menschenwürde"
+    },
+    {
+      "number": 11,
+      "suffix": "",
+      "raw": "11",
+      "title": "Rechtsgleichheit"
+    },
+    {
+      "number": 12,
+      "suffix": "",
+      "raw": "12",
+      "title": "Freiheitsrechte"
+    },
+    {
+      "number": 13,
+      "suffix": "",
+      "raw": "13",
+      "title": "Rechtsschutz"
+    },
+    {
+      "number": 14,
+      "suffix": "",
+      "raw": "14",
+      "title": "Schranken der Grundrechte"
+    },
+    {
+      "number": 15,
+      "suffix": "",
+      "raw": "15",
+      "title": "Verwirklichung der Grundrechte"
+    },
+    {
+      "number": 16,
+      "suffix": "",
+      "raw": "16",
+      "title": "Pflichten"
+    },
+    {
+      "number": 17,
+      "suffix": "",
+      "raw": "17",
+      "title": "Stimm- und Wahlrecht: allgemein"
+    },
+    {
+      "number": 18,
+      "suffix": "",
+      "raw": "18",
+      "title": "Stimm- und Wahlrecht: Ausdehnung"
+    },
+    {
+      "number": 19,
+      "suffix": "",
+      "raw": "19",
+      "title": "Stimm- und Wahlrecht: Korporationen"
+    },
+    {
+      "number": 20,
+      "suffix": "",
+      "raw": "20",
+      "title": "Ausübung des Stimmrechts"
+    },
+    {
+      "number": 21,
+      "suffix": "",
+      "raw": "21",
+      "title": "Obligatorische Volkswahl: kantonale"
+    },
+    {
+      "number": 24,
+      "suffix": "",
+      "raw": "24",
+      "title": "Obligatorische Volksabstimmung des Kantons"
+    },
+    {
+      "number": 25,
+      "suffix": "",
+      "raw": "25",
+      "title": "Fakultative Volksabstimmung des Kantons"
+    },
+    {
+      "number": 27,
+      "suffix": "",
+      "raw": "27",
+      "title": "Kantonale Volksinitiative: Gegenstand"
+    },
+    {
+      "number": 28,
+      "suffix": "",
+      "raw": "28",
+      "title": "Kantonale Volksinitiative: Form und Verfahren"
+    },
+    {
+      "number": 29,
+      "suffix": "",
+      "raw": "29",
+      "title": "Gemeindliche Volksinitiative"
+    },
+    {
+      "number": 30,
+      "suffix": "",
+      "raw": "30",
+      "title": "Wahlen und Abstimmungen"
+    },
+    {
+      "number": 31,
+      "suffix": "",
+      "raw": "31",
+      "title": "Zusammenarbeit"
+    },
+    {
+      "number": 32,
+      "suffix": "",
+      "raw": "32",
+      "title": "Enteignung"
+    },
+    {
+      "number": 33,
+      "suffix": "",
+      "raw": "33",
+      "title": "Öffentliche Schulen"
+    },
+    {
+      "number": 35,
+      "suffix": "",
+      "raw": "35",
+      "title": "Volksschulen: Trägerschaft und Aufsicht"
+    },
+    {
+      "number": 36,
+      "suffix": "",
+      "raw": "36",
+      "title": "Volksschulen: Sonderschulen"
+    },
+    {
+      "number": 38,
+      "suffix": "",
+      "raw": "38",
+      "title": "Berufsschule und höhere Schulen"
+    },
+    {
+      "number": 39,
+      "suffix": "",
+      "raw": "39",
+      "title": "Privatschulen"
+    },
+    {
+      "number": 40,
+      "suffix": "",
+      "raw": "40",
+      "title": "Ausbildungshilfen"
+    },
+    {
+      "number": 41,
+      "suffix": "",
+      "raw": "41",
+      "title": "Erwachsenenbildung und Freizeitbeschäftigung"
+    },
+    {
+      "number": 42,
+      "suffix": "",
+      "raw": "42",
+      "title": "Kulturpflege"
+    },
+    {
+      "number": 43,
+      "suffix": "",
+      "raw": "43",
+      "title": "Gesetzgebung"
+    },
+    {
+      "number": 44,
+      "suffix": "",
+      "raw": "44",
+      "title": "Aufgabenteilung"
+    },
+    {
+      "number": 45,
+      "suffix": "",
+      "raw": "45",
+      "title": "Grundsatz"
+    },
+    {
+      "number": 46,
+      "suffix": "",
+      "raw": "46",
+      "title": "Besondere Aufgaben des Kantons"
+    },
+    {
+      "number": 47,
+      "suffix": "",
+      "raw": "47",
+      "title": "Raumplanung"
+    },
+    {
+      "number": 48,
+      "suffix": "",
+      "raw": "48",
+      "title": "Bauwesen"
+    },
+    {
+      "number": 49,
+      "suffix": "",
+      "raw": "49",
+      "title": "Schutz der Umwelt und des Lebensraumes"
+    },
+    {
+      "number": 50,
+      "suffix": "",
+      "raw": "50",
+      "title": "Öffentliche Sachen"
+    },
+    {
+      "number": 51,
+      "suffix": "",
+      "raw": "51",
+      "title": "Wirtschaftspolitik"
+    },
+    {
+      "number": 52,
+      "suffix": "",
+      "raw": "52",
+      "title": "Rahmenbedingungen"
+    },
+    {
+      "number": 53,
+      "suffix": "",
+      "raw": "53",
+      "title": "Gesetzgebung"
+    },
+    {
+      "number": 55,
+      "suffix": "",
+      "raw": "55",
+      "title": "Regalrechte: Begriff"
+    },
+    {
+      "number": 56,
+      "suffix": "",
+      "raw": "56",
+      "title": "Regalrechte: Salz-, Jagd- und Fischereiregal"
+    },
+    {
+      "number": 57,
+      "suffix": "",
+      "raw": "57",
+      "title": "Regalrechte: Bergregal"
+    },
+    {
+      "number": 58,
+      "suffix": "",
+      "raw": "58",
+      "title": "Finanzhaushalt"
+    },
+    {
+      "number": 59,
+      "suffix": "",
+      "raw": "59",
+      "title": "Mittelbeschaffung"
+    },
+    {
+      "number": 60,
+      "suffix": "",
+      "raw": "60",
+      "title": "Grundsätze der Steuererhebung"
+    },
+    {
+      "number": 61,
+      "suffix": "",
+      "raw": "61",
+      "title": "Finanzausgleich"
+    },
+    {
+      "number": 62,
+      "suffix": "",
+      "raw": "62",
+      "title": "Gebiet"
+    },
+    {
+      "number": 63,
+      "suffix": "",
+      "raw": "63",
+      "title": "Hauptort"
+    },
+    {
+      "number": 64,
+      "suffix": "",
+      "raw": "64",
+      "title": "Gemeindearten"
+    },
+    {
+      "number": 65,
+      "suffix": "",
+      "raw": "65",
+      "title": "Rechtsnatur"
+    },
+    {
+      "number": 66,
+      "suffix": "",
+      "raw": "66",
+      "title": "Gebietsveränderungen und Grenzbereinigungen&nbsp;<strong>*</strong>"
+    },
+    {
+      "number": 68,
+      "suffix": "",
+      "raw": "68",
+      "title": "Kirchgemeinde"
+    },
+    {
+      "number": 69,
+      "suffix": "",
+      "raw": "69",
+      "title": "Ortsbürgergemeinde"
+    },
+    {
+      "number": 70,
+      "suffix": "",
+      "raw": "70",
+      "title": "Korporationsbürgergemeinde"
+    },
+    {
+      "number": 72,
+      "suffix": "",
+      "raw": "72",
+      "title": "Rechtsnatur"
+    },
+    {
+      "number": 73,
+      "suffix": "",
+      "raw": "73",
+      "title": "Korporationsvermögen"
+    },
+    {
+      "number": 74,
+      "suffix": "",
+      "raw": "74",
+      "title": "Zusammenarbeit"
+    },
+    {
+      "number": 75,
+      "suffix": "",
+      "raw": "75",
+      "title": "Gewaltenteilung"
+    },
+    {
+      "number": 76,
+      "suffix": "",
+      "raw": "76",
+      "title": "Unvereinbarkeiten"
+    },
+    {
+      "number": 77,
+      "suffix": "",
+      "raw": "77",
+      "title": "Verwandtenausschluss"
+    },
+    {
+      "number": 79,
+      "suffix": "",
+      "raw": "79",
+      "title": "Öffentlichkeit"
+    },
+    {
+      "number": 80,
+      "suffix": "",
+      "raw": "80",
+      "title": "Beschlussfähigkeit"
+    },
+    {
+      "number": 81,
+      "suffix": "",
+      "raw": "81",
+      "title": "Beschlussfassung"
+    },
+    {
+      "number": 84,
+      "suffix": "",
+      "raw": "84",
+      "title": "Amtsantritt"
+    },
+    {
+      "number": 85,
+      "suffix": "",
+      "raw": "85",
+      "title": "Amtszwang"
+    },
+    {
+      "number": 86,
+      "suffix": "",
+      "raw": "86",
+      "title": "Information der Öffentlichkeit"
+    },
+    {
+      "number": 87,
+      "suffix": "",
+      "raw": "87",
+      "title": "Stellung und Zusammensetzung"
+    },
+    {
+      "number": 88,
+      "suffix": "",
+      "raw": "88",
+      "title": "Wahl"
+    },
+    {
+      "number": 89,
+      "suffix": "",
+      "raw": "89",
+      "title": "Verfahrensordnung"
+    },
+    {
+      "number": 90,
+      "suffix": "",
+      "raw": "90",
+      "title": "Zuständigkeiten: Gesetzgebung"
+    },
+    {
+      "number": 91,
+      "suffix": "",
+      "raw": "91",
+      "title": "Zuständigkeiten: Finanzbeschlüsse"
+    },
+    {
+      "number": 92,
+      "suffix": "",
+      "raw": "92",
+      "title": "Zuständigkeiten: Wahlen"
+    },
+    {
+      "number": 93,
+      "suffix": "",
+      "raw": "93",
+      "title": "Zuständigkeiten: weitere Zuständigkeiten"
+    },
+    {
+      "number": 94,
+      "suffix": "",
+      "raw": "94",
+      "title": "Regierungsrat: Stellung und Zusammensetzung"
+    },
+    {
+      "number": 95,
+      "suffix": "",
+      "raw": "95",
+      "title": "Regierungsrat: Wahl"
+    },
+    {
+      "number": 96,
+      "suffix": "",
+      "raw": "96",
+      "title": "Regierungsrat: Organisation"
+    },
+    {
+      "number": 97,
+      "suffix": "",
+      "raw": "97",
+      "title": "Regierungstätigkeiten"
+    },
+    {
+      "number": 98,
+      "suffix": "",
+      "raw": "98",
+      "title": "Vorbereitung der Rechtsetzung"
+    },
+    {
+      "number": 99,
+      "suffix": "",
+      "raw": "99",
+      "title": "Leitung der Verwaltung"
+    },
+    {
+      "number": 100,
+      "suffix": "",
+      "raw": "100",
+      "title": "Der Erziehungsrat"
+    },
+    {
+      "number": 101,
+      "suffix": "",
+      "raw": "101",
+      "title": "Kantonale Verwaltung"
+    },
+    {
+      "number": 106,
+      "suffix": "",
+      "raw": "106",
+      "title": "Selbständigkeit"
+    },
+    {
+      "number": 107,
+      "suffix": "",
+      "raw": "107",
+      "title": "Aufgaben"
+    },
+    {
+      "number": 108,
+      "suffix": "",
+      "raw": "108",
+      "title": "Organisation"
+    },
+    {
+      "number": 109,
+      "suffix": "",
+      "raw": "109",
+      "title": "Zuständigkeit"
+    },
+    {
+      "number": 110,
+      "suffix": "",
+      "raw": "110",
+      "title": "Zuständigkeit der Stimmberechtigten"
+    },
+    {
+      "number": 115,
+      "suffix": "",
+      "raw": "115",
+      "title": "Kirchenrat"
+    },
+    {
+      "number": 117,
+      "suffix": "",
+      "raw": "117",
+      "title": "Ortsbürgerrat"
+    },
+    {
+      "number": 118,
+      "suffix": "",
+      "raw": "118",
+      "title": "Selbständigkeit"
+    },
+    {
+      "number": 119,
+      "suffix": "",
+      "raw": "119",
+      "title": "Grundsatz"
+    },
+    {
+      "number": 120,
+      "suffix": "",
+      "raw": "120",
+      "title": "Teilrevision"
+    },
+    {
+      "number": 121,
+      "suffix": "",
+      "raw": "121",
+      "title": "Totalrevision"
+    },
+    {
+      "number": 122,
+      "suffix": "",
+      "raw": "122",
+      "title": "Aufhebung bisherigen Rechts"
+    },
+    {
+      "number": 123,
+      "suffix": "",
+      "raw": "123",
+      "title": "Inkrafttreten"
+    },
+    {
+      "number": 124,
+      "suffix": "",
+      "raw": "124",
+      "title": "Weitergeltung bisherigen Rechts"
+    },
+    {
+      "number": 125,
+      "suffix": "",
+      "raw": "125",
+      "title": "Wahlen"
+    }
+  ],
+  "article_texts": {
+    "1": [
+      {
+        "num": "1",
+        "text": "Der Kanton Uri ist ein souveräner Stand der Schweizerischen Eidgenossenschaft."
+      },
+      {
+        "num": "2",
+        "text": "Als Glied des Bundesstaates arbeitet er unter Wahrung seiner besonderen Interessen mit Bund und Kantonen in der Erfüllung der Staatsaufgaben zusammen."
+      }
+    ],
+    "2": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden streben insbesondere an:"
+      },
+      {
+        "num": null,
+        "text": "a) eine gerechte Ordnung für das friedliche Zusammenleben der Menschen zu schaffen b) Rechte und Freiheiten des Einzelnen und der Familie zu schützen und Grundlagen für deren Verwirklichung bereitzustellen c) die Voraussetzungen für ein menschengerechtes Dasein herzustellen"
+      }
+    ],
+    "3": [
+      {
+        "num": "1",
+        "text": "Kantons- und Gemeindebürgerrecht sind untrennbar miteinander verbunden."
+      },
+      {
+        "num": "2",
+        "text": "Die Gesetzgebung regelt die Erteilung des Gemeinde- und Kantonsbürgerrechts."
+      }
+    ],
+    "4": [
+      {
+        "num": "1",
+        "text": "Der Kanton, die Gemeinden und die übrigen öffentlichrechtlichen Körperschaften und Anstalten haften für den Schaden, den ihre Organe in der Ausübung ihrer amtlichen Tätigkeit Dritten widerrechtlich verursacht haben."
+      },
+      {
+        "num": "2",
+        "text": "Wer in seiner persönlichen Freiheit widerrechtlich schwer eingeschränkt oder wer schuldlos verhaftet wird, hat Anspruch auf Schadenersatz und Genugtuung."
+      },
+      {
+        "num": "3",
+        "text": "Die Gesetzgebung kann die Haftung des Staates auf weitere Fälle ausdehnen."
+      }
+    ],
+    "5": [
+      {
+        "num": "1",
+        "text": "Der Kanton, die Gemeinden und die übrigen öffentlichrechtlichen Körperschaften und Anstalten können auf ihre Organe zurückgreifen, wenn diese den Schaden durch vorsätzliche oder grobfahrlässige Verletzung der Amtspflicht verschuldet haben."
+      }
+    ],
+    "6": [
+      {
+        "num": "1",
+        "text": "Enteignungen und Eigentumsbeschränkungen, die einer Enteignung gleichkommen, sind voll zu entschädigen."
+      }
+    ],
+    "7": [
+      {
+        "num": "1",
+        "text": "Die römisch-katholische und die evangelisch-reformierte Kirche werden als Landeskirchen anerkannt."
+      },
+      {
+        "num": "2",
+        "text": "Die Landeskirchen sind selbständige Körperschaften des öffentlichen Rechts."
+      }
+    ],
+    "8": [
+      {
+        "num": "1",
+        "text": "Die Landeskirchen ordnen ihre Angelegenheiten im Rahmen der Verfassung und der Gesetzgebung selbständig. Sie organisieren sich nach demokratischen Grundsätzen."
+      },
+      {
+        "num": "2",
+        "text": "Sie können sich in Kirchgemeinden gliedern."
+      },
+      {
+        "num": "3",
+        "text": "Jede Landeskirche erlässt für sich ein Organisationsstatut, das vom Regierungsrat zu genehmigen ist."
+      },
+      {
+        "num": "4",
+        "text": "Das Handeln der Landeskirchen untersteht der Rechtskontrolle des Kantons."
+      },
+      {
+        "num": "5",
+        "text": "Übergangsbestimmung: Jede Landeskirche hat innert fünf Jahren dem Regierungsrat ein Organisationsstatut zur Genehmigung zu unterbreiten. Bis dahin werden die bisher genehmigten Ausscheidungsdekrete und der Landratsbeschluss vom 28. Dezember 1916 über die Anerkennung der protestantischen Kirchgemeinde als Organisationsstatut anerkannt. Nach Ablauf dieser Frist kann der Regierungsrat die Organisationsstatute ersatzweise verfügen."
+      }
+    ],
+    "9": [
+      {
+        "num": "1",
+        "text": "Die Landeskirchen oder ihre Kirchgemeinden sind befugt, im Rahmen der kantonalen Gesetzgebung Steuern zu erheben."
+      }
+    ],
+    "10": [
+      {
+        "num": "1",
+        "text": "Die Würde des Menschen ist unantastbar."
+      }
+    ],
+    "11": [
+      {
+        "num": "1",
+        "text": "Alle Menschen sind vor dem Gesetze gleich."
+      },
+      {
+        "num": "2",
+        "text": "Niemand darf wegen seiner Herkunft, seines Geschlechts, seiner Rasse, seiner Sprache, seiner sozialen Stellung oder seiner Weltanschauung oder Religion benachteiligt oder bevorzugt werden."
+      }
+    ],
+    "12": [
+      {
+        "num": "1",
+        "text": "Gewährleistet sind:"
+      },
+      {
+        "num": null,
+        "text": "a) das Recht auf Leben, körperliche und geistige Unversehrtheit und Bewegungsfreiheit b) das Recht auf Ehe und Familie c) der Schutz der Privatsphäre, der Wohnung und des Brief- und Fernmeldegeheimnisses d) die Glaubens- und Gewissensfreiheit e) die Informations-, Meinungs- und Pressefreiheit f) das Petitionsrecht g) die Vereinigungs- und Versammlungsfreiheit h) die Niederlassungsfreiheit i) die Freiheit der Lehre und Forschung sowie die Kunstfreiheit k) die Wirtschaftsfreiheit und das Recht der freien Berufswahl l) die Eigentumsfreiheit"
+      }
+    ],
+    "13": [
+      {
+        "num": "1",
+        "text": "Jeder hat Anspruch auf Rechtsschutz."
+      },
+      {
+        "num": "2",
+        "text": "Die Parteien haben in allen Verfahren Anspruch auf rechtliches Gehör und auf einen Entscheid innert angemessener Frist."
+      }
+    ],
+    "14": [
+      {
+        "num": "1",
+        "text": "Einschränkungen der Grundrechte bedürfen einer gesetzlichen Grundlage. Vorbehalten bleiben Fälle ernster, unmittelbarer und offensichtlicher Gefahr."
+      },
+      {
+        "num": "2",
+        "text": "Die Grundrechte dürfen nur eingeschränkt werden, wenn ein überwiegendes öffentliches Interesse es rechtfertigt."
+      },
+      {
+        "num": "3",
+        "text": "Die Grundrechte von Personen, die in einem besonderen Abhängigkeitsverhältnis zum Staate stehen, dürfen zusätzlich soweit eingeschränkt werden, als es das besondere öffentliche Interesse erfordert."
+      },
+      {
+        "num": "4",
+        "text": "Der Kern der Grundrechte ist unantastbar."
+      }
+    ],
+    "15": [
+      {
+        "num": "1",
+        "text": "Grundrechte verpflichten alle Organe des Kantons, der Gemeinden und der übrigen öffentlichrechtlichen Körperschaften und Anstalten."
+      }
+    ],
+    "16": [
+      {
+        "num": "1",
+        "text": "Jeder hat seine gesetzlichen Pflichten dem Staat und der Allgemeinheit gegenüber zu erfüllen."
+      }
+    ],
+    "17": [
+      {
+        "num": "1",
+        "text": "Stimmberechtigt sind alle Schweizerinnen und Schweizer, die das 18. Altersjahr zurückgelegt haben, im Kanton Uri wohnen und nicht wegen Geisteskrankheit oder Geistesschwäche entmündigt sind. *"
+      },
+      {
+        "num": "2",
+        "text": "In kirchlichen Angelegenheiten sind nur die Kirchenangehörigen und in Angelegenheiten der Ortsbürgergemeinde nur die Ortsbürger stimmberechtigt."
+      },
+      {
+        "num": "3",
+        "text": "Das Stimmrecht berechtigt, an Volkswahlen und an Volksabstimmungen teilzunehmen sowie Volksreferenden und Volksinitiativen zu unterzeichnen."
+      },
+      {
+        "num": "4",
+        "text": "Wer stimmberechtigt ist, ist wahlfähig."
+      }
+    ],
+    "18": [
+      {
+        "num": "1",
+        "text": "Die Landeskirchen können in ihrem Organisationsstatut den Kreis der in kirchlichen Angelegenheiten Stimmberechtigten ausdehnen."
+      },
+      {
+        "num": "2",
+        "text": "Die Landeskirchen können diese Befugnis den Kirchgemeinden übertragen."
+      }
+    ],
+    "19": [
+      {
+        "num": "1",
+        "text": "Das Stimmrecht in Angelegenheiten der Korporationen und der Korporationsbürgergemeinden bestimmt sich nach dem Recht der Korporationen."
+      }
+    ],
+    "20": [
+      {
+        "num": "1",
+        "text": "Die Teilnahme an den Abstimmungen und Wahlen und an den Gemeindeversammlungen ist Bürgerpflicht."
+      }
+    ],
+    "21": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten wählen:"
+      },
+      {
+        "num": null,
+        "text": "a) die Ständeräte b) den Regierungsrat c) den Landammann und den Landesstatthalter d) * das Landgericht e) * das Obergericht"
+      }
+    ],
+    "24": [
+      {
+        "num": "1",
+        "text": "Der kantonalen Volksabstimmung unterliegen:"
+      },
+      {
+        "num": null,
+        "text": "a) die Verfassungsänderungen b) die kantonalen Gesetze c) * neue Ausgaben des Kantons von mehr als einer Million Franken d) * neue Ausgaben des Kantons von mehr als hunderttausend Franken, wenn sie während mindestens zehn Jahren wiederkehrend sind e) kantonale Volksinitiativen in der Form des ausgearbeiteten Entwurfs f) kantonale Volksinitiativen in der Form der allgemeinen Anregung, wenn der Landrat diesen nicht zustimmt. Volksinitiativen, welche die Totalrevision der Kantonsverfassung anregen, unterliegen immer der Volksabstimmung g) kantonale Volksinitiativen, welche die Abberufung einer Behörde verlangen"
+      }
+    ],
+    "25": [
+      {
+        "num": "1",
+        "text": "Volksreferenden unterliegen der kantonalen Volksabstimmung, wenn sie von mindestens vierhundertfünfzig Stimmberechtigten unterzeichnet sind, deren Stimmberechtigung amtlich beglaubigt ist. *"
+      },
+      {
+        "num": "2",
+        "text": "Volksreferenden sind zulässig gegen:"
+      },
+      {
+        "num": null,
+        "text": "a) Verordnungen b) Konkordate des Landrates c) * neue Ausgaben des Kantons von mehr als fünfhunderttausend Franken d) * neue Ausgaben des Kantons von mehr als fünfzigtausend Franken, wenn sie während mindestens zehn Jahren wiederkehrend sind e) grössere Wasserrechtsverleihungen des Kantons"
+      },
+      {
+        "num": "3",
+        "text": "Volksreferenden sind innert neunzig Tagen seit der Bekanntmachung der Referendumsvorlage einzureichen."
+      },
+      {
+        "num": "4",
+        "text": "Der Landrat kann von sich aus weitere Beschlüsse der Volksabstimmung unterstellen."
+      },
+      {
+        "num": "5",
+        "text": "Übergangsbestimmung zu Artikel 24 Buchstabe c und d und Artikel 25 Absatz 2 Buchstabe c und d: Für Ausgaben, die im Zeitpunkt der Volksabstimmung vom Landrat bereits beschlossen sind, gilt die bisherige Regelung. *"
+      }
+    ],
+    "27": [
+      {
+        "num": "1",
+        "text": "Mit einer kantonalen Volksinitiative kann der Erlass, die Änderung oder die Aufhebung von Verfassungs-, Gesetzes- oder Verordnungsbestimmungen verlangt werden."
+      },
+      {
+        "num": "2",
+        "text": "Die kantonale Volksinitiative kann auch die Abberufung einer Behörde oder die Einreichung einer Standesinitiative beim Bund verlangen."
+      }
+    ],
+    "28": [
+      {
+        "num": "1",
+        "text": "Kantonale Volksinitiativen sind als ausgearbeiteter Entwurf oder als allgemeine Anregung einzureichen. Begehren auf Totalrevision der Kantonsverfassung sind nur in der Form der allgemeinen Anregung zulässig."
+      },
+      {
+        "num": "2",
+        "text": "Kantonale Volksinitiativen müssen sich auf einen einheitlichen Regelungsbereich beschränken und dürfen weder übergeordnetem Recht widersprechen noch aus tatsächlichen Gründen unmöglich oder inhaltlich unbestimmt sein. Sie müssen von mindestens sechshundert Stimmberechtigten unterzeichnet sein, deren Stimmberechtigung amtlich beglaubigt ist. *"
+      },
+      {
+        "num": "3",
+        "text": "Kantonale Volksinitiativen sind spätestens anderthalb Jahre nach ihrer Einreichung dem Volk zur Abstimmung vorzulegen. Der Landrat kann der Volksinitiative einen Gegenvorschlag gegenüberstellen."
+      }
+    ],
+    "29": [
+      {
+        "num": "1",
+        "text": "Mit einer gemeindlichen Volksinitiative kann die Abberufung einer Gemeindebehörde oder der Erlass, die Änderung oder die Aufhebung von Rechtsvorschriften verlangt werden, die im Zuständigkeitsbereich der Gemeinden liegen."
+      },
+      {
+        "num": "2",
+        "text": "Gemeindliche Volksinitiativen müssen die amtlich beglaubigten Unterschriften von mindestens einem Zehntel der in der Gemeinde Stimmberechtigten aufweisen. Sie sind spätestens zwölf Monate, nachdem sie eingereicht worden sind, dem Volk zur Abstimmung vorzulegen."
+      },
+      {
+        "num": "3",
+        "text": "Im Übrigen gelten die Bestimmungen für kantonale Volksinitiativen."
+      }
+    ],
+    "30": [
+      {
+        "num": "1",
+        "text": "Wahlen und Abstimmungen des Kantons werden an der Urne getroffen. *"
+      },
+      {
+        "num": "2",
+        "text": "Landratswahlen nach dem Verhältniswahlsystem erfolgen an der Urne. *"
+      },
+      {
+        "num": "3",
+        "text": "Das Gemeindegesetz regelt die Abstimmungen und Wahlen der Gemeinden. *"
+      }
+    ],
+    "31": [
+      {
+        "num": "1",
+        "text": "Der Kanton, die Gemeinden und die übrigen öffentlichrechtlichen Körperschaften und Anstalten arbeiten bei der Erfüllung der öffentlichen Aufgaben zusammen."
+      }
+    ],
+    "32": [
+      {
+        "num": "1",
+        "text": "Soweit es zur Erfüllung der öffentlichen Aufgaben notwendig ist, ist die Enteignung zulässig."
+      },
+      {
+        "num": "2",
+        "text": "Das Enteignungsrecht steht dem Kanton, den Gemeinden, den Gemeindeverbänden und den Korporationen zu."
+      }
+    ],
+    "33": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden schaffen geeignete Voraussetzungen, damit alle Kinder und Jugendlichen ihren Anlagen entsprechend an öffentlichen Volks-, Mittel- und Berufsschulen unterrichtet werden können."
+      }
+    ],
+    "35": [
+      {
+        "num": "1",
+        "text": "Träger der Volksschulen sind die Gemeinden oder Gemeindeverbände."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton unterstützt und beaufsichtigt die Gemeinden und die Gemeindeverbände."
+      }
+    ],
+    "36": [
+      {
+        "num": "1",
+        "text": "Der Kanton führt oder unterstützt Sonderschulen und Heime. Er kann die Gemeinden zu angemessenen Leistungen beiziehen."
+      }
+    ],
+    "38": [
+      {
+        "num": "1",
+        "text": "Der Kanton fördert die Berufs- und Fachausbildung und die höhere Schulbildung."
+      },
+      {
+        "num": "2",
+        "text": "Er kann entsprechende Bildungsanstalten selber betreiben oder sich an solchen beteiligen."
+      }
+    ],
+    "39": [
+      {
+        "num": "1",
+        "text": "Das Recht des Privatschulunterrichts ist gewährleistet. Privatschulen sind bewilligungspflichtig und unterstehen der Aufsicht des Kantons."
+      }
+    ],
+    "40": [
+      {
+        "num": "1",
+        "text": "Der Kanton richtet Ausbildungshilfen in Form von Stipendien und Darlehen aus."
+      }
+    ],
+    "41": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden können die Erwachsenenbildung und Bestrebungen für eine sinnvolle Freizeitgestaltung unterstützen."
+      }
+    ],
+    "42": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden pflegen das heimatliche Kulturgut und fördern künstlerische und kulturelle Bestrebungen und Tätigkeiten."
+      }
+    ],
+    "43": [
+      {
+        "num": "1",
+        "text": "Die Gesetzgebung führt die Grundsätze über das Bildungswesen und insbesondere über die Dauer der obligatorischen Schulpflicht sowie über die Kulturpflege näher aus."
+      }
+    ],
+    "44": [
+      {
+        "num": "1",
+        "text": "Die öffentliche Fürsorge und das Vormundschaftswesen obliegen den Gemeinden, soweit die Gesetzgebung nichts anderes bestimmt."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton unterstützt und beaufsichtigt die Gemeinden. Er kann besondere Sozialhilfeeinrichtungen schaffen und unterstützen."
+      },
+      {
+        "num": "3",
+        "text": "Der Kanton kann eigene Sozialversicherungseinrichtungen schaffen."
+      }
+    ],
+    "45": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden fördern die Volksgesundheit, die Gesundheitsvorsorge und die Krankenpflege. Sie schaffen die Voraussetzungen für die medizinische Versorgung der Bevölkerung."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton und die Gemeinden fördern die Bekämpfung von Suchtgefahren."
+      }
+    ],
+    "46": [
+      {
+        "num": "1",
+        "text": "Der Kanton überwacht und koordiniert das Gesundheitswesen. Er ordnet das Medizinalwesen und die Gesundheitspolizei."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton gewährleistet den Betrieb des Kantonsspitals. Er kann weitere Kranken- und Pflegeheime unterstützen."
+      }
+    ],
+    "47": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden stellen die geordnete Besiedlung des Landes und die zweckmässige Nutzung des Bodens sicher. Sie berücksichtigen bei ihren Tätigkeiten die Ziele und Erfordernisse der Raumplanung."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton ist für die Richtplanung verantwortlich. Die Gemeinden sind im Rahmen der Gesetzgebung für die Nutzungsplanung zuständig."
+      }
+    ],
+    "48": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden erlassen Bauvorschriften."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton regelt den Bau und den Unterhalt der Verkehrswege und der Einrichtungen zum Schutze vor Naturgewalten."
+      }
+    ],
+    "49": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden sorgen bei ihrer Tätigkeit für den Schutz des Menschen, seiner Umwelt und seines Lebensraumes."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton erlässt Vorschriften zum Schutz vor Grossraubtieren und zur Beschränkung und Regulierung des Bestands. Die Förderung des Grossraubtierbestands ist verboten. *"
+      }
+    ],
+    "50": [
+      {
+        "num": "1",
+        "text": "Seen und Flüsse gehören dem Kanton. Privatrechte bleiben vorbehalten."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton stellt weitere Vorschriften auf über die öffentlichen Sachen und über deren Gebrauch und Nutzung."
+      },
+      {
+        "num": "3",
+        "text": "Er regelt die Nutzung des Grundwassers."
+      },
+      {
+        "num": "4",
+        "text": "Wasserkräfte, die dem Kanton gehören, dürfen nur zur Nutzung verliehen werden, wenn sich der Kanton am Unternehmen des Beliehenen erheblich beteiligen kann."
+      }
+    ],
+    "51": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden fördern eine ausgewogene Entwicklung aller Bereiche der urnerischen Volkswirtschaft."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton strebt dabei eine ausgeglichene Entwicklung aller Landesteile an."
+      }
+    ],
+    "52": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden schaffen günstige Rahmenbedingungen für die Land- und Forstwirtschaft, die Industrie, das Gewerbe und den Dienstleistungssektor."
+      }
+    ],
+    "53": [
+      {
+        "num": "1",
+        "text": "Der Kanton erlässt Vorschriften für eine geordnete Ausübung der wirtschaftlichen Tätigkeiten."
+      }
+    ],
+    "55": [
+      {
+        "num": "1",
+        "text": "Die Regalien vermitteln die ausschliessliche Befugnis zur Betätigung und wirtschaftlichen Nutzung."
+      }
+    ],
+    "56": [
+      {
+        "num": "1",
+        "text": "Dem Kanton stehen das Salzregal, das Jagdregal und das Fischereiregal zu."
+      }
+    ],
+    "57": [
+      {
+        "num": "1",
+        "text": "Das Bergregal steht grundsätzlich dem Kanton zu."
+      },
+      {
+        "num": "2",
+        "text": "Vorbehalten bleiben das Recht der Korporationen, Strahlerrechte zu erteilen sowie auf ihrem Allmendgebiet Konzessionen zu verleihen zur Ausbeutung von Erzgruben und zur Ausbeutung von Gesteinen im Tagbau (Steinbrüche)."
+      },
+      {
+        "num": "3",
+        "text": "Die Gesetzgebungshoheit über das Bergregal verbleibt dem Kanton."
+      }
+    ],
+    "58": [
+      {
+        "num": "1",
+        "text": "Der Finanzhaushalt des Kantons und der Gemeinden ist nach den Grundsätzen der Gesetzmässigkeit, der Sparsamkeit und der Wirtschaftlichkeit zu führen. Er soll auf die Dauer ausgeglichen sein."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton und die Gemeinden erstellen Finanzplanungen und gewährleisten die Finanzkontrolle."
+      },
+      {
+        "num": "3",
+        "text": "Die Finanzplanungen sind mit den Aufgabenplanungen abzustimmen."
+      }
+    ],
+    "59": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden beschaffen sich die notwendigen Mittel durch:"
+      },
+      {
+        "num": null,
+        "text": "a) die Erhebung von Steuern, Gebühren und Beiträgen b) die Erträgnisse des Vermögens und der Regalrechte c) Beiträge und Anteile an Einnahmen des Bundes und anderer öffentlich-rechtlicher Körperschaften, Unternehmungen und Einrichtungen d) allfällige weitere Erträgnisse e) Aufnahme von Anleihen und Darlehen"
+      },
+      {
+        "num": "2",
+        "text": "Gemeindeverbände erheben keine Steuern."
+      },
+      {
+        "num": "3",
+        "text": "Das kantonale Recht bestimmt den Gegenstand der Steuer, den Kreis der Steuerpflichtigen und die Bemessungsgrundlagen. Im Rahmen der Gesetzgebung bestimmen die Gemeinden ihren Steuerfuss."
+      }
+    ],
+    "60": [
+      {
+        "num": "1",
+        "text": "Die Steuern sind nach den Grundsätzen der Solidarität und der Leistungsfähigkeit der Steuerpflichtigen auszurichten."
+      },
+      {
+        "num": "2",
+        "text": "Sie sind so zu bemessen, dass die gesamte Belastung der Steuerpflichtigen mit Abgaben nach sozialen Grundsätzen tragbar ist, die Leistungsfähigkeit der Wirtschaft nicht überfordert, der Wille zur Einkommens- und Vermögenserzielung nicht geschwächt und die Selbstvorsorge gefördert werden."
+      },
+      {
+        "num": "3",
+        "text": "Steuerhinterziehungen und Widerstände gegen die Steuererhebung sind mit wirksamen Sanktionen zu verfolgen."
+      }
+    ],
+    "61": [
+      {
+        "num": "1",
+        "text": "Der Kanton stellt den Finanzausgleich zwischen den Einwohnergemeinden sicher. Diese können verpflichtet werden, Finanzausgleichsbeiträge zu leisten."
+      }
+    ],
+    "62": [
+      {
+        "num": "1",
+        "text": "Zum Kanton Uri gehört das Gebiet, das ihm durch die historischen Grenzen zugeschieden und durch die Schweizerische Eidgenossenschaft gewährleistet ist."
+      },
+      {
+        "num": "2",
+        "text": "Grenzbereinigungen sind vom Landrat zu genehmigen."
+      }
+    ],
+    "63": [
+      {
+        "num": "1",
+        "text": "Hauptort des Kantons Uri ist Altdorf."
+      },
+      {
+        "num": "2",
+        "text": "Der Landrat, der Regierungsrat und die obersten kantonalen Gerichte haben ihren Sitz in Altdorf."
+      }
+    ],
+    "64": [
+      {
+        "num": "1",
+        "text": "Im Rahmen der Verfassung sind folgende Gemeindearten anerkannt:"
+      },
+      {
+        "num": null,
+        "text": "a) die Einwohnergemeinde, die alle in einer Gemeinde ansässigen Personen umfasst b) die Kirchgemeinde, die alle in einer Gemeinde ansässigen Angehörigen einer Landeskirche umfasst c) die Ortsbürgergemeinde, die alle in einer Gemeinde ansässigen Ortsbürger umfasst d) die Korporationsbürgergemeinde (Allmendbürgergemeinde), die alle in einer Gemeinde ansässigen Korporationsbürger umfasst"
+      },
+      {
+        "num": "2",
+        "text": "Die Landeskirchen und die Korporationen können das Hoheitsgebiet ihrer Gemeinden abweichend vom Gebiet der Einwohnergemeinden festlegen."
+      }
+    ],
+    "65": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden sind selbständige Körperschaften des öffentlichen Rechts."
+      }
+    ],
+    "66": [
+      {
+        "num": "1",
+        "text": "Gebietsveränderungen und Grenzbereinigungen richten sich nach dem Gemeindegesetz. *"
+      },
+      {
+        "num": "2",
+        "text": "Für die Kirchgemeinden gilt das Organisationsstatut der Landeskirche, für die Korporationsbürgergemeinden das Recht der Korporationen."
+      }
+    ],
+    "68": [
+      {
+        "num": "1",
+        "text": "Im Rahmen der Verfassung begründen und organisieren sich die Kirchgemeinden nach dem Organisationsstatut der betreffenden Landeskirche."
+      }
+    ],
+    "69": [
+      {
+        "num": "1",
+        "text": "Die Einwohnergemeinden können Ortsbürgergemeinden ausscheiden."
+      },
+      {
+        "num": "2",
+        "text": "Die Ausscheidungsdekrete, die vom Regierungsrat zu genehmigen sind, müssen die Grundzüge der Organisation und die Aufgaben der Ortsbürgergemeinde umschreiben. 2.1 Übergangsbestimmung: Die bisherigen Ausscheidungsdekrete werden als solche nach Absatz 2 anerkannt. Sie sind innert fünf Jahren seit dem Inkrafttreten der Kantonsverfassung anzupassen. Nach Ablauf dieser Frist kann der Regierungsrat die Ausscheidungsdekrete ersatzweise anpassen."
+      },
+      {
+        "num": "3",
+        "text": "Wird eine Einwohnergemeinde aufgehoben oder schliesst sie sich mit einer anderen zusammen, gilt das auch für die Ortsbürgergemeinde. *"
+      }
+    ],
+    "70": [
+      {
+        "num": "1",
+        "text": "Die Korporationsbürgergemeinden begründen und organisieren sich nach dem Recht der Korporationen."
+      }
+    ],
+    "72": [
+      {
+        "num": "1",
+        "text": "Die Korporationen Uri und Ursern sind selbständige Körperschaften des öffentlichen Rechts."
+      },
+      {
+        "num": "2",
+        "text": "Die Korporationen können Korporationsbürgergemeinden schaffen. Solche Beschlüsse sind dem Regierungsrat mitzuteilen."
+      },
+      {
+        "num": "3",
+        "text": "Übergangsbestimmung: Die bestehenden Korporationsbürgergemeinden werden anerkannt. Die entsprechenden Ausscheidungsdekrete sind innert fünf Jahren seit dem Inkrafttreten der Verfassung anzupassen."
+      }
+    ],
+    "73": [
+      {
+        "num": "1",
+        "text": "Das Korporationsvermögen bleibt gewährleistet."
+      }
+    ],
+    "74": [
+      {
+        "num": "1",
+        "text": "Die Korporationen unterstützen den Kanton und die Gemeinden in deren Aufgabenerfüllung und helfen mit, die Staatsziele zu erreichen."
+      }
+    ],
+    "75": [
+      {
+        "num": "1",
+        "text": "Rechtsetzende, vollziehende und rechtsprechende Gewalten sind getrennt."
+      }
+    ],
+    "76": [
+      {
+        "num": "1",
+        "text": "Niemand darf gleichzeitig Mitglied des Landrates und des Regierungsrates sein. Landräte und Regierungsräte dürfen keinem Gericht angehören. Kein Richter darf gleichzeitig Mitglied zweier ordentlicher Gerichte sein."
+      },
+      {
+        "num": "2",
+        "text": "Den Mitgliedern des Regierungsrates ist es untersagt:"
+      },
+      {
+        "num": null,
+        "text": "a) Mitglied einer Gemeindebehörde zu sein b) dem Engeren Rat einer Korporation anzugehören c) * vollamtlicher Angestellter des Kantons oder einer Gemeinde zu sein d) als Rechtsanwalt vor einem urnerischen Gericht aufzutreten"
+      },
+      {
+        "num": "3",
+        "text": "Vollamtlichen Angestellten des Kantons ist es untersagt, dem Landrat als Mitglied anzugehören. *"
+      }
+    ],
+    "77": [
+      {
+        "num": "1",
+        "text": "Es dürfen nicht der gleichen Kantons- oder Gemeindebehörde angehören: *"
+      },
+      {
+        "num": null,
+        "text": "a) Ehegatten, eingetragene Partnerinnen oder Partner und Personen, die zusammen in dauernder Lebensgemeinschaft leben b) Verwandte im ersten und zweiten Grad c) Ehegatten von Verwandten im ersten und zweiten Grad, eingetragene Partnerinnen und Partner von Verwandten im ersten und zweiten Grad sowie Personen, die mit Verwandten im ersten und zweiten Grad in dauernder Lebensgemeinschaft leben"
+      },
+      {
+        "num": "2",
+        "text": "Die Bestimmung gilt nicht für den Landrat."
+      }
+    ],
+    "79": [
+      {
+        "num": "1",
+        "text": "Die Verhandlungen des Landrates und der Gerichte sind öffentlich. Die Gesetzgebung bezeichnet die im öffentlichen und privaten Interesse gebotenen Ausnahmen."
+      },
+      {
+        "num": "2",
+        "text": "Bei den Gerichten erstreckt sich die Öffentlichkeit nicht auf die Urteilsberatung."
+      }
+    ],
+    "80": [
+      {
+        "num": "1",
+        "text": "Eine Behörde ist beschlussfähig, wenn mehr als die Hälfte, mindestens aber drei Mitglieder anwesend sind."
+      },
+      {
+        "num": "2",
+        "text": "Vorbehalten bleiben die Bestimmungen des Gerichtsorganisationsgesetzes und die Fälle des gesetzlichen Ausstandes. *"
+      }
+    ],
+    "81": [
+      {
+        "num": "1",
+        "text": "Sofern die Gesetzgebung nichts anderes bestimmt, bedürfen Beschlüsse zu ihrer Gültigkeit der absoluten Mehrheit der Stimmenden."
+      },
+      {
+        "num": "2",
+        "text": "Die Präsidenten stimmen nicht, ausser bei Wahlen. Sie geben den Stichentscheid. Bei Wahlen entscheidet das Los."
+      }
+    ],
+    "84": [
+      {
+        "num": "1",
+        "text": "Die Mitglieder des Landrates, des Regierungsrates und der Gerichte treten ihr Amt am 1. Juni an, die Ständeräte mit Beginn der auf die Wahl folgenden Sitzung der Bundesversammlung."
+      },
+      {
+        "num": "2",
+        "text": "Die Gemeindebehörden treten ihr Amt am 1. Januar an, wenn die Gemeindeordnung nichts anderes bestimmt. *"
+      },
+      {
+        "num": "3",
+        "text": "Wahlen für den Rest der Amtsdauer werden sofort wirksam."
+      },
+      {
+        "num": "4",
+        "text": "Die Wahlen sind so anzusetzen, dass der rechtzeitige Amtsantritt gewährleistet ist."
+      }
+    ],
+    "85": [
+      {
+        "num": "1",
+        "text": "Die Gesetzgebung regelt den Amtszwang."
+      }
+    ],
+    "86": [
+      {
+        "num": "1",
+        "text": "Die Behörden unterrichten die Öffentlichkeit über wichtige Probleme, Vorhaben und Beschlüsse, sofern nicht entgegenstehende Interessen überwiegen."
+      }
+    ],
+    "87": [
+      {
+        "num": "1",
+        "text": "Der Landrat ist die stellvertretend gesetzgebende Behörde des Kantons. Er übt die Oberaufsicht über alle Behörden aus, die kantonale Aufgaben wahrnehmen."
+      },
+      {
+        "num": "2",
+        "text": "Der Landrat besteht aus 64 Mitgliedern."
+      }
+    ],
+    "88": [
+      {
+        "num": "1",
+        "text": "Jede Einwohnergemeinde wählt so viele Landräte, als ihr zustehen. Für Gemeinden, denen fünf oder mehr Landräte zustehen, gilt das System der Verhältniswahl, für die übrigen das System der Mehrheitswahl. Das Nähere regelt das Gesetz. *"
+      },
+      {
+        "num": "2",
+        "text": "Die 64 Sitze verteilen sich auf die Einwohnergemeinden nach ihrer schweizerischen Wohnbevölkerung gemäss jeweils neuester eidgenössischer Volkszählung. Es gelten folgende Regeln:"
+      },
+      {
+        "num": null,
+        "text": "a) Die schweizerische Bevölkerungszahl des Kantons wird durch 64 geteilt. Gemeinden, deren schweizerische Bevölkerungszahl die so ermittelte, auf die nächste ganze Zahl aufgerundete Ziffer nicht überschreitet, erhalten einen Sitz zugeteilt und scheiden für die weitere Zuteilung aus b) Die restlichen Landratssitze werden auf die verbleibenden Gemeinden verteilt, indem die schweizerische Bevölkerungszahl dieser Gemeinden durch die Zahl der verbleibenden Landratssitze geteilt wird. Jede dieser Gemeinden erhält soviel Sitze, als die sich ergebende Ziffer in ihrer Bevölkerungszahl aufgeht c) Die übrigbleibenden Sitze fallen der Reihe nach an die Gemeinden mit den grössten Restzahlen"
+      },
+      {
+        "num": "3",
+        "text": "Übergangsbestimmung zu Artikel 88 Absatz 1: Das Gesetz ist dem Volk innert zwei Jahren seit der Annahme dieser Verfassungsänderung zur Abstimmung vorzulegen. Bis zum Inkrafttreten dieses Gesetzes wird der Landrat nach dem System der Mehrheitswahl gewählt. *"
+      }
+    ],
+    "89": [
+      {
+        "num": "1",
+        "text": "Der Landrat konstituiert sich selbst und wählt jährlich seinen Präsidenten und den Vizepräsidenten."
+      },
+      {
+        "num": "2",
+        "text": "Er erlässt eine Geschäftsordnung, die nicht dem Volksreferendum unterliegt."
+      },
+      {
+        "num": "3",
+        "text": "Der Regierungsrat nimmt an den Sitzungen des Landrates mit beratender Stimme teil."
+      }
+    ],
+    "90": [
+      {
+        "num": "1",
+        "text": "Der Landrat unterbreitet dem Volk in Form des Gesetzes alle wichtigen Bestimmungen, insbesondere diejenigen, welche die Rechte und Pflichten aller oder der meisten Bürger festlegen."
+      },
+      {
+        "num": "2",
+        "text": "Für andere Vorschriften erlässt der Landrat Verordnungen, soweit die Gesetzgebung in der Sache nicht einer anderen Behörde zusteht."
+      },
+      {
+        "num": "3",
+        "text": "Der Regierungsrat erlässt zeitlich befristete Noterlasse; diese sind sobald als möglich dem Landrat zu unterbreiten, der über ihre weitere Geltung und Befristung entscheidet. *"
+      }
+    ],
+    "91": [
+      {
+        "num": "1",
+        "text": "Der Landrat:"
+      },
+      {
+        "num": null,
+        "text": "a) beschliesst unter Vorbehalt der Zuständigkeit des Volkes über neue Ausgaben b) beschliesst den jährlichen Voranschlag c) nimmt die Staatsrechnung, die Rechnung der Urner Kantonalbank und jene des Kantonsspitals ab"
+      }
+    ],
+    "92": [
+      {
+        "num": "1",
+        "text": "Der Landrat wählt:"
+      },
+      {
+        "num": null,
+        "text": "a) die Vorsteher und Stellvertreter der regierungsrätlichen Direktionen, auf Vorschlag des Regierungsrates b) den Erziehungsrat, ausser dem Präsidenten c) * … d) den Kommandanten des Urner Bataillons nach den Bundesvorschriften e) * die Angestellten des Kantons, soweit deren Wahl nicht dem Regierungsrat vorbehalten ist f) * den Bankrat"
+      }
+    ],
+    "93": [
+      {
+        "num": "1",
+        "text": "Der Landrat:"
+      },
+      {
+        "num": null,
+        "text": "a) genehmigt rechtsetzende Konkordate b) genehmigt die Rechenschaftsberichte des Regierungsrates und des Obergerichtes c) übt die den Kantonen in der Bundesverfassung eingeräumten bundesstaatlichen Mitwirkungsrechte aus (Art. 86, 89, 89 bis und 93 Bundesverfassung, SR 101 ) d) * … e) übt das Begnadigungsrecht aus f) entscheidet Kompetenzkonflikte, soweit dafür nicht das Obergericht zuständig ist g) nimmt von regierungsrätlichen Planungen Kenntnis h) bewilligt Anleihen i) erfüllt weitere Aufgaben, die ihm die Gesetzgebung überträgt"
+      }
+    ],
+    "94": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat ist die leitende und die oberste vollziehende Behörde des Kantons."
+      },
+      {
+        "num": "2",
+        "text": "Er besteht aus dem Landammann, dem Landesstatthalter und fünf Mitgliedern."
+      }
+    ],
+    "95": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat wird vom Volk nach dem System der Mehrheitswahl bestellt."
+      },
+      {
+        "num": "2",
+        "text": "Bei der Wahl ist auf die verschiedenen Landesteile billige Rücksicht zu nehmen. Aus einer Gemeinde dürfen höchstens drei Mitglieder gewählt werden."
+      }
+    ],
+    "96": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat erfüllt seine Aufgaben als Kollegialbehörde."
+      },
+      {
+        "num": "2",
+        "text": "Zur Vorbereitung der Regierungsaufgaben und für den Vollzug der Gesetzgebung des Bundes und des Kantons werden Direktionen geschaffen, die im Rahmen ihrer Zuständigkeit selbständig entscheiden."
+      }
+    ],
+    "97": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat bestimmt die wichtigen Ziele und Mittel des staatlichen Handelns. Er plant und koordiniert die staatlichen Tätigkeiten."
+      },
+      {
+        "num": "2",
+        "text": "Der Regierungsrat hat im Weitern:"
+      },
+      {
+        "num": null,
+        "text": "a) den Kanton nach innen und aussen zu vertreten b) die öffentliche Ruhe, Ordnung und Sicherheit zu wahren c) die Beziehungen mit den Behörden des Bundes und anderer Kantone zu pflegen d) im Rahmen seiner Zuständigkeit rechtsgeschäftliche und vollziehende Konkordate abzuschliessen e) Wahlen zu treffen, soweit diese Befugnisse nicht andern Organen übertragen sind f) * im Rahmen der Gesetzgebung das Kantonsbürgerrecht zu erteilen g) dem Landrat regelmässig den Voranschlag, die Staatsrechnung und den Rechenschaftsbericht über die Regierungs- und Verwaltungstätigkeit vorzulegen h) alle Staatsgeschäfte zu erledigen und alle Verfügungen zu treffen, die zu den Aufgaben einer Regierung gehören und nicht ausdrücklich einer anderen Behörde zugewiesen sind"
+      }
+    ],
+    "98": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat legt dem Landrat Entwürfe zu Verfassungsänderungen, Gesetzen und Verordnungen vor."
+      }
+    ],
+    "99": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat ist die oberste Verwaltungsbehörde. Er steht der kantonalen Verwaltung vor und beaufsichtigt die anderen Träger von öffentlichen Aufgaben."
+      },
+      {
+        "num": "2",
+        "text": "Der Regierungsrat sorgt für die rechtmässige und wirksame Tätigkeit der Verwaltung."
+      },
+      {
+        "num": "3",
+        "text": "Er entscheidet nach Massgabe der Gesetzgebung über Verwaltungsbeschwerden."
+      }
+    ],
+    "100": [
+      {
+        "num": "1",
+        "text": "Der Erziehungsrat übt im Rahmen der Gesetzgebung die unmittelbare Aufsicht über das gesamte Schul- und Erziehungswesen aus."
+      },
+      {
+        "num": "2",
+        "text": "Der Erziehungsrat besteht aus dem Präsidenten, dem Vizepräsidenten und fünf bis sieben Mitgliedern. Der Erziehungsdirektor amtet als Präsident."
+      }
+    ],
+    "101": [
+      {
+        "num": "1",
+        "text": "Die kantonale Verwaltung wird in Direktionen gegliedert. Diese werden durch die Mitglieder des Regierungsrates geleitet."
+      },
+      {
+        "num": "2",
+        "text": "Verwaltungsaufgaben des Kantons können selbständigen Anstalten, Gemeinden, Zweckverbänden, interkantonalen Organisationen oder gemischtwirtschaftlichen Unternehmungen übertragen werden."
+      },
+      {
+        "num": "3",
+        "text": "Ausnahmsweise können privatrechtliche Organisationen mit der Erfüllung öffentlicher Aufgaben betraut werden, sofern die Mitwirkungsrechte und der Rechtsschutz der Bürger sowie die Aufsicht durch den Regierungsrat sichergestellt sind."
+      }
+    ],
+    "106": [
+      {
+        "num": "1",
+        "text": "Im Rahmen der Verfassung und der Gesetzgebung sind die Gemeinden befugt, sich selbst zu organisieren, ihre Behörden und Angestellten zu wählen, ihre Aufgaben nach eigenem Ermessen zu erfüllen und ihre öffentlichen Sachen selbständig zu verwalten. *"
+      },
+      {
+        "num": "2",
+        "text": "Der Regierungsrat übt die Aufsicht über die Gemeinden aus."
+      }
+    ],
+    "107": [
+      {
+        "num": "1",
+        "text": "Die Aufgaben der Einwohnergemeinden richten sich nach dem Gemeindegesetz. *"
+      },
+      {
+        "num": "2",
+        "text": "Die Kirchgemeinden erfüllen die kirchlichen Aufgaben einer Gemeinde, wie sie sich aus der Verfassung und dem Organisationsstatut ergeben."
+      },
+      {
+        "num": "3",
+        "text": "Die Ortsbürgergemeinden erfüllen die Aufgaben, die ihnen im Ausscheidungsdekret übertragen sind."
+      },
+      {
+        "num": "4",
+        "text": "Die Aufgaben der Korporationsbürgergemeinden richten sich nach dem Recht der Korporationen."
+      },
+      {
+        "num": "5",
+        "text": "Im Rahmen der Verfassung können die verschiedenen Gemeinden vertragliche Vereinbarungen über die Aufgabenteilung treffen. Solche Verträge bedürfen der Genehmigung des Regierungsrats, sofern es sich nicht um gleichartige Gemeinden handelt. *"
+      }
+    ],
+    "108": [
+      {
+        "num": "1",
+        "text": "Oberstes Organ der Gemeinde sind die Stimmberechtigten. *"
+      },
+      {
+        "num": "2",
+        "text": "Jede Einwohnergemeinde hat einen Gemeinderat, jede Kirchgemeinde einen Kirchenrat und jede Ortsbürgergemeinde einen Ortsbürgerrat zu wählen. Für besondere Aufgaben können weitere Behörden, insbesondere ein Schulrat und ein Sozialrat, gewählt werden. *"
+      },
+      {
+        "num": "3",
+        "text": "Die Organisation der Korporationsbürgergemeinden richtet sich nach dem Recht der Korporationen."
+      }
+    ],
+    "109": [
+      {
+        "num": "1",
+        "text": "Soweit weder die Verfassung noch die Gesetzgebung etwas anderes bestimmt, ist der Gemeinderat beziehungsweise der Kirchenrat oder der Ortsbürgerrat zuständig, für die Gemeinde zu handeln."
+      }
+    ],
+    "110": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten sind zuständig: *"
+      },
+      {
+        "num": null,
+        "text": "a) Rechtsvorschriften zu beschliessen b) den Voranschlag und die Rechnung der Gemeinde zu verabschieden c) die Abgaben der Gemeinde festzulegen d) * … e) * die Landräte, den Gemeinderat, den Schulrat und den Sozialrat und, sofern keine Kirchgemeinde besteht, den Ortspfarrer zu wählen f) Ausscheidungsdekrete zu beschliessen g) Verträge über die Aufgabenteilung und die Vermögensausscheidung nach Artikel 107 zu beschliessen"
+      },
+      {
+        "num": "2",
+        "text": "Die Befugnisse nach Absatz 1 sind nicht übertragbar, soweit die besondere Gesetzgebung nichts anderes bestimmt."
+      }
+    ],
+    "115": [
+      {
+        "num": "1",
+        "text": "Der Kirchenrat besteht aus dem Präsidenten, dem Vizepräsidenten, dem Verwalter und mindestens zwei Mitgliedern."
+      },
+      {
+        "num": "2",
+        "text": "Er erfüllt die ihm durch das Organisationsstatut zugewiesenen Aufgaben."
+      }
+    ],
+    "117": [
+      {
+        "num": "1",
+        "text": "Der Ortsbürgerrat besteht aus dem Präsidenten, dem Vizepräsidenten, dem Verwalter und zwei bis vier Mitgliedern."
+      },
+      {
+        "num": "2",
+        "text": "Er erfüllt die ihm durch das Ausscheidungsdekret zugewiesenen Aufgaben."
+      }
+    ],
+    "118": [
+      {
+        "num": "1",
+        "text": "Die Korporationen organisieren und verwalten sich nach demokratischen Grundsätzen selbst."
+      },
+      {
+        "num": "2",
+        "text": "Das Handeln der Korporationen untersteht der Rechtskontrolle des Kantons."
+      }
+    ],
+    "119": [
+      {
+        "num": "1",
+        "text": "Die Verfassung kann jederzeit ganz oder teilweise revidiert werden."
+      }
+    ],
+    "120": [
+      {
+        "num": "1",
+        "text": "Vorlagen auf Teilrevision der Kantonsverfassung werden vom Landrat oder durch Volksinitiative der obligatorischen Volksabstimmung unterbreitet."
+      },
+      {
+        "num": "2",
+        "text": "Übergangsbestimmung: Der Regierungsrat kann Volksinitiativen, die zur Zeit des Inkrafttretens dieser Verfassung hängig sind, redaktionell dem Text der neuen Verfassung anpassen."
+      }
+    ],
+    "121": [
+      {
+        "num": "1",
+        "text": "Der Landrat oder auf Volksinitiative hin das Volk können die Totalrevision der Kantonsverfassung beschliessen."
+      },
+      {
+        "num": "2",
+        "text": "Die Totalrevision wird von einem Verfassungsrat vorgenommen, der vom Volk nach den Bestimmungen über die Landratswahlen gewählt wird. Mitglieder des Landrates und des Regierungsrates sind wählbar."
+      },
+      {
+        "num": "3",
+        "text": "Die Vorschriften über die Unvereinbarkeit und die Amtsdauer finden keine Anwendung."
+      }
+    ],
+    "122": [
+      {
+        "num": "1",
+        "text": "Die Verfassung des Kantons Uri vom 6. Mai 1888 wird aufgehoben."
+      }
+    ],
+    "123": [
+      {
+        "num": "1",
+        "text": "Diese Verfassung tritt am 1. Januar 1985 in Kraft. Sie unterliegt der Gewährleistung durch die Bundesversammlung [1] ."
+      }
+    ],
+    "124": [
+      {
+        "num": "1",
+        "text": "Bestimmungen des bisherigen Rechts, die dieser Verfassung widersprechen, sind aufgehoben."
+      },
+      {
+        "num": "2",
+        "text": "Erlasse, die von einer nach dieser Verfassung nicht mehr zuständigen Behörde geschaffen worden sind, bleiben weiterhin in Kraft. Die Änderung solcher Erlasse richtet sich nach dieser Verfassung."
+      }
+    ],
+    "125": [
+      {
+        "num": "1",
+        "text": "Die Mitglieder der Behörden und die Beamten bleiben bis zum Ende der laufenden Amtsdauer, längstens bis zum 31. Dezember 1988, im Amt."
+      },
+      {
+        "num": "2",
+        "text": "Bestehende Behörden, die sich nicht mehr auf eine Verfassungsgrundlage stützen können, werden auf das Ende der laufenden Amtsdauer aufgelöst."
+      }
+    ]
+  }
 }
