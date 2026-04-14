@@ -7,7 +7,7 @@
   "lexfind_id": 2368,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 113,
+  "article_count": 122,
   "articles": [
     {
       "number": 1,
@@ -355,13 +355,25 @@
       "number": 60,
       "suffix": "",
       "raw": "60",
-      "title": "Obligatorisches Referendum und Wahlen&nbsp;<strong>*</strong>"
+      "title": "Obligatorisches Referendum und Wahlen *"
+    },
+    {
+      "number": 60,
+      "suffix": "bis",
+      "raw": "60bis",
+      "title": "Fakultatives Referendum"
     },
     {
       "number": 61,
       "suffix": "",
       "raw": "61",
       "title": "Gewaltenteilung"
+    },
+    {
+      "number": 61,
+      "suffix": "bis",
+      "raw": "61bis",
+      "title": "Rechtsstaatliche Grundsätze"
     },
     {
       "number": 62,
@@ -388,6 +400,12 @@
       "title": "Amtsdauer"
     },
     {
+      "number": 66,
+      "suffix": "",
+      "raw": "66",
+      "title": ""
+    },
+    {
       "number": 67,
       "suffix": "",
       "raw": "67",
@@ -410,6 +428,12 @@
       "suffix": "",
       "raw": "70",
       "title": "Verantwortlichkeit"
+    },
+    {
+      "number": 70,
+      "suffix": "bis",
+      "raw": "70bis",
+      "title": "Stellung"
     },
     {
       "number": 71,
@@ -436,6 +460,12 @@
       "title": "c) Rechtsetzung"
     },
     {
+      "number": 74,
+      "suffix": "bis",
+      "raw": "74bis",
+      "title": "cbis) Aussenbeziehungen"
+    },
+    {
       "number": 75,
       "suffix": "",
       "raw": "75",
@@ -457,25 +487,25 @@
       "number": 78,
       "suffix": "",
       "raw": "78",
-      "title": "Organisation\na) Grundsätze&nbsp;<strong>*</strong>"
+      "title": "Organisation\na) Grundsätze *"
     },
     {
       "number": 79,
       "suffix": "",
       "raw": "79",
-      "title": "b) Kommissionen&nbsp;<strong>*</strong>"
+      "title": "b) Kommissionen *"
     },
     {
       "number": 80,
       "suffix": "",
       "raw": "80",
-      "title": "c) Stellung des Regierungsrates&nbsp;<strong>*</strong>"
+      "title": "c) Stellung des Regierungsrates *"
     },
     {
       "number": 81,
       "suffix": "",
       "raw": "81",
-      "title": "d) Immunität, Instruktionsverbot&nbsp;<strong>*</strong>"
+      "title": "d) Immunität, Instruktionsverbot *"
     },
     {
       "number": 82,
@@ -487,13 +517,19 @@
       "number": 83,
       "suffix": "",
       "raw": "83",
-      "title": "Sitzzahl, Vollamt, Wiederwahl&nbsp;<strong>*</strong>"
+      "title": "Sitzzahl, Vollamt, Wiederwahl *"
     },
     {
       "number": 84,
       "suffix": "",
       "raw": "84",
       "title": "Das Landammannamt"
+    },
+    {
+      "number": 85,
+      "suffix": "",
+      "raw": "85",
+      "title": ""
     },
     {
       "number": 86,
@@ -506,6 +542,12 @@
       "suffix": "",
       "raw": "87",
       "title": "b) Rechtsetzung"
+    },
+    {
+      "number": 87,
+      "suffix": "bis",
+      "raw": "87bis",
+      "title": "Aussenbeziehungen"
     },
     {
       "number": 88,
@@ -590,6 +632,12 @@
       "suffix": "",
       "raw": "101",
       "title": "Gemeindeautonomie"
+    },
+    {
+      "number": 101,
+      "suffix": "bis",
+      "raw": "101bis",
+      "title": "Bestandes und Gebietsänderungen"
     },
     {
       "number": 102,
@@ -680,6 +728,12 @@
       "suffix": "",
       "raw": "116",
       "title": "Kirchliche Gebäulichkeiten"
+    },
+    {
+      "number": 117,
+      "suffix": "ter",
+      "raw": "117ter",
+      "title": "Amtsdauer"
     },
     {
       "number": 118,
@@ -1385,6 +1439,16 @@
         "text": "a) die Mitglieder des Regierungsrates und aus deren Mitte die Person, die das Landammannamt bekleidet; b) * die Mitglieder des Obergerichtes; c) den Vertreter oder die Vertreterin des Kantons im Ständerat auf eine Amtsdauer von vier Jahren."
       }
     ],
+    "60bis": [
+      {
+        "num": "1",
+        "text": "Wenn wenigstens 300 Stimmberechtigte dies innert 60 Tagen nach der amtlichen Publikation verlangen, so entscheiden die Stimmberechtigten über"
+      },
+      {
+        "num": null,
+        "text": "a) den Erlass, die Aufhebung oder Änderung von Gesetzen; b) interkantonale und internationale Verträge mit gesetzgebendem Charakter."
+      }
+    ],
     "61": [
       {
         "num": "1",
@@ -1397,6 +1461,16 @@
       {
         "num": "3",
         "text": "… *"
+      }
+    ],
+    "61bis": [
+      {
+        "num": "1",
+        "text": "Wer öffentliche Aufgaben wahrnimmt, ist an Verfassung und Gesetz gebunden. Er handelt im öffentlichen Interesse nach Treu und Glauben, willkürfrei und nach dem Grundsatz der Verhältnismässigkeit."
+      },
+      {
+        "num": "2",
+        "text": "Kantonale Erlasse, die übergeordnetem Recht widersprechen, dürfen vom Regierungsrat und von den Gerichten nicht angewendet werden."
       }
     ],
     "62": [
@@ -1439,6 +1513,7 @@
         "text": "Alle Wahlen erfolgen für eine Amtsdauer oder für den Rest einer solchen."
       }
     ],
+    "66": [],
     "67": [
       {
         "num": "1",
@@ -1493,6 +1568,12 @@
       {
         "num": "3",
         "text": "Das Gesetz regelt die Haftung der Behördenmitglieder und Angestellten gegenüber dem Kanton und den anderen Körperschaften, die öffentliche Aufgaben wahrnehmen."
+      }
+    ],
+    "70bis": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat ist die gesetzgebende Behörde des Kantons und führt die Oberaufsicht."
       }
     ],
     "71": [
@@ -1553,6 +1634,20 @@
       {
         "num": "3",
         "text": "… *"
+      }
+    ],
+    "74bis": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat wirkt an der Gestaltung der Aussenbeziehungen mit."
+      },
+      {
+        "num": "2",
+        "text": "Er genehmigt oder kündigt interkantonale und internationale Verträge. Vorbehalten bleibt das fakultative Referendum."
+      },
+      {
+        "num": "3",
+        "text": "Er begleitet Vorhaben zur interkantonalen oder internationalen Zusammenarbeit."
       }
     ],
     "75": [
@@ -1687,6 +1782,7 @@
         "text": "Die Wahl ins Landammannamt findet alle zwei Jahre statt. Nach Ablauf einer vollen Amtsdauer ist für eine Amtsdauer auszusetzen. *"
       }
     ],
+    "85": [],
     "86": [
       {
         "num": "1",
@@ -1717,6 +1813,24 @@
       {
         "num": "5",
         "text": "Zum Vollzug übergeordneten Rechts kann er die notwendigen Bestimmungen erlassen, soweit sich diese auf die Organisation und die Aufgaben der kantonalen Behörden beschränken. *"
+      }
+    ],
+    "87bis": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat gestaltet die Zusammenarbeit mit dem Bund, mit anderen Kantonen und mit dem Ausland und vertritt den Kanton nach aussen."
+      },
+      {
+        "num": "2",
+        "text": "Er schliesst und kündigt interkantonale und internationale Verträge über Gegenstände, die im Rahmen seiner ordentlichen Zuständigkeit liegen."
+      },
+      {
+        "num": "3",
+        "text": "Er setzt sich für die kantonalen Interessen gegenüber dem Bund ein."
+      },
+      {
+        "num": "4",
+        "text": "Er wahrt die Mitwirkungsrechte des Kantonsrates."
       }
     ],
     "88": [
@@ -1891,6 +2005,20 @@
         "text": "Alle kantonalen Organe wahren eine möglichst grosse Selbständigkeit der Gemeinden."
       }
     ],
+    "101bis": [
+      {
+        "num": "1",
+        "text": "Bestandes- und Gebietsänderungen benötigen die Zustimmung der Stimmberechtigten jeder betroffenen Gemeinde."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton leistet administrative und finanzielle Unterstützung an Gemeinden, die sich zusammenschliessen wollen."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt das Nähere."
+      }
+    ],
     "102": [
       {
         "num": "1",
@@ -2031,6 +2159,20 @@
       {
         "num": "1",
         "text": "In den Gemeinden, in denen die kirchlichen Gebäulichkeiten im Eigentum der Einwohnergemeinde stehen, ist innert einer Frist von fünf Jahren seit Inkrafttreten dieser Verfassung eine Sicherung der bisherigen Mitbenutzungsrechte sowie eine Vereinbarung über Benutzung und Unterhalt zu treffen."
+      }
+    ],
+    "117ter": [
+      {
+        "num": "1",
+        "text": "Die durch die Teilrevision der Verfassung vom 13. Juni 2010 geschaffenen Unvereinbarkeiten sind auf Ende der laufenden Amtsdauer zu beheben."
+      },
+      {
+        "num": "2",
+        "text": "Die für die laufende Amtsdauer gewählten Mitglieder des Verwaltungsgerichtes werden im Zeitpunkt des Inkrafttretens der Teilrevision der Verfassung vom 13. Juni 2010 bis zum Ablauf der Amtsdauer Mitglieder des Obergerichtes."
+      },
+      {
+        "num": "3",
+        "text": "Die von den Stimmberechtigten der Gemeinden gewählten Vermittler und Vermittlerinnen behandeln die bei ihnen bis zum 31. Dezember 2010 eingehenden Vermittlungsbegehren bis zum Ende der laufenden Amtsdauer."
       }
     ],
     "118": [

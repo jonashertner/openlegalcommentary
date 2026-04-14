@@ -7,7 +7,7 @@
   "lexfind_id": 3696,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 143,
+  "article_count": 162,
   "articles": [
     {
       "number": 1,
@@ -184,6 +184,12 @@
       "title": "Verfahren"
     },
     {
+      "number": 30,
+      "suffix": "",
+      "raw": "30",
+      "title": "Obligatorische Abstimmungen"
+    },
+    {
       "number": 31,
       "suffix": "",
       "raw": "31",
@@ -244,6 +250,24 @@
       "title": "Hauptort"
     },
     {
+      "number": 41,
+      "suffix": "",
+      "raw": "41",
+      "title": "Bezirke"
+    },
+    {
+      "number": 42,
+      "suffix": "",
+      "raw": "42",
+      "title": "Zivilgerichtskreise"
+    },
+    {
+      "number": 43,
+      "suffix": "",
+      "raw": "43",
+      "title": "Wahlkreise"
+    },
+    {
       "number": 44,
       "suffix": "",
       "raw": "44",
@@ -268,6 +292,12 @@
       "title": "Organisation"
     },
     {
+      "number": 47,
+      "suffix": "a",
+      "raw": "47a",
+      "title": "Aufgabenzuordnung"
+    },
+    {
       "number": 48,
       "suffix": "",
       "raw": "48",
@@ -280,16 +310,52 @@
       "title": "Mitwirkung im Kanton"
     },
     {
+      "number": 49,
+      "suffix": "a",
+      "raw": "49a",
+      "title": "Grundsatz"
+    },
+    {
+      "number": 50,
+      "suffix": "",
+      "raw": "50",
+      "title": "Voraussetzungen der Wahl oder Anstellung"
+    },
+    {
       "number": 51,
       "suffix": "",
       "raw": "51",
       "title": "Unvereinbarkeit"
     },
     {
+      "number": 52,
+      "suffix": "",
+      "raw": "52",
+      "title": "Verwandtenausschluss"
+    },
+    {
+      "number": 53,
+      "suffix": "",
+      "raw": "53",
+      "title": "Amtsperiode"
+    },
+    {
       "number": 54,
       "suffix": "",
       "raw": "54",
       "title": "Amtszeitbeschränkung"
+    },
+    {
+      "number": 55,
+      "suffix": "",
+      "raw": "55",
+      "title": "Öffentlichkeit von Verhandlungen"
+    },
+    {
+      "number": 56,
+      "suffix": "",
+      "raw": "56",
+      "title": "Information"
     },
     {
       "number": 57,
@@ -454,6 +520,12 @@
       "title": "Zivilgerichtsbarkeit"
     },
     {
+      "number": 84,
+      "suffix": "",
+      "raw": "84",
+      "title": "Strafrechtspflege"
+    },
+    {
       "number": 85,
       "suffix": "",
       "raw": "85",
@@ -475,7 +547,7 @@
       "number": 88,
       "suffix": "",
       "raw": "88",
-      "title": "Stellung, Unabhängigkeit und Unvereinbarkeit&nbsp;<strong>*</strong>"
+      "title": "Stellung, Unabhängigkeit und Unvereinbarkeit *"
     },
     {
       "number": 89,
@@ -586,6 +658,12 @@
       "title": "Wohnung"
     },
     {
+      "number": 106,
+      "suffix": "a",
+      "raw": "106a",
+      "title": "Förderung des selbst genutzten Wohneigentums und des gemeinnützigen Wohnungsbaus *"
+    },
+    {
       "number": 107,
       "suffix": "",
       "raw": "107",
@@ -688,6 +766,12 @@
       "title": "Landwirtschaft"
     },
     {
+      "number": 124,
+      "suffix": "",
+      "raw": "124",
+      "title": "Wald"
+    },
+    {
       "number": 125,
       "suffix": "",
       "raw": "125",
@@ -704,6 +788,12 @@
       "suffix": "",
       "raw": "127",
       "title": "Kantonalbank"
+    },
+    {
+      "number": 127,
+      "suffix": "a",
+      "raw": "127a",
+      "title": "Rheinhäfen[1]"
     },
     {
       "number": 128,
@@ -740,6 +830,12 @@
       "suffix": "",
       "raw": "133",
       "title": "Grundsätze der Steuererhebung"
+    },
+    {
+      "number": 133,
+      "suffix": "a",
+      "raw": "133a",
+      "title": "Einfaches, leicht verständliches und nachvollziehbares Steuergesetz"
     },
     {
       "number": 134,
@@ -866,6 +962,24 @@
       "suffix": "",
       "raw": "154",
       "title": "Verfassungsrechtliche Grundlage"
+    },
+    {
+      "number": 155,
+      "suffix": "",
+      "raw": "155",
+      "title": "Vermögensausscheidung betreffend das Laufental"
+    },
+    {
+      "number": 156,
+      "suffix": "",
+      "raw": "156",
+      "title": "Verkürzung der Amtsperiode infolge Umstellung auf das Staatsanwaltschaftsmodell"
+    },
+    {
+      "number": 157,
+      "suffix": "",
+      "raw": "157",
+      "title": "Amtsperiode des Verfahrensgerichts in Strafsachen"
     }
   ],
   "article_texts": {
@@ -1263,6 +1377,16 @@
         "text": "Der Landrat kann jedem Begehren einen Gegenvorschlag gegenüberstellen."
       }
     ],
+    "30": [
+      {
+        "num": "1",
+        "text": "Der obligatorischen Volksabstimmung unterliegen:"
+      },
+      {
+        "num": null,
+        "text": "a. Verfassungsänderungen und Staatsverträge mit verfassungsänderndem Inhalt; b. * Gesetze und Staatsverträge mit gesetzeswesentlichem Inhalt sowie Vorlagen aufgrund von zurückgezogenen nichtformulierten Initiativbegehren, die der Landrat mit weniger als 4/5 der anwesenden Mitglieder beschliesst oder die er durch separaten Beschluss der obligatorischen Volksabstimmung unterstellt; c. * formulierte Initiativbegehren und gleichzeitig gegenübergestellte Gegenvorschläge; d. * nichtformulierte Initiativbegehren, die der Landrat ablehnt, und gleichzeitig gegenübergestellte Gegenvorschläge sowie Vorlagen aufgrund von nichtformulierten Initiativbegehren; e. Beschlüsse der Gemeindeversammlung und des Einwohnerrates nach den Bestimmungen des Gesetzes und der Gemeindeordnung."
+      }
+    ],
     "31": [
       {
         "num": "1",
@@ -1391,6 +1515,44 @@
         "text": "Landrat, Regierungsrat und Kantonsgericht haben ihren Sitz in Liestal. *"
       }
     ],
+    "41": [
+      {
+        "num": "1",
+        "text": "Die Bezirke sind Gebietsorganisationen für die regionalisierte Erfüllung von öffentlichen Aufgaben."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton ist in die Bezirke Arlesheim, Laufen, Liestal, Sissach und Waldenburg eingeteilt."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Bezirken. Gemeinden dürfen nur mit ihrer Zustimmung einem anderen Bezirk zugeteilt werden."
+      }
+    ],
+    "42": [
+      {
+        "num": "1",
+        "text": "Der Kanton ist in zwei Zivilgerichtskreise eingeteilt."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt die Zugehörigkeit des Kantonsgebiets zu den beiden Zivilgerichtskreisen."
+      }
+    ],
+    "43": [
+      {
+        "num": "1",
+        "text": "Kantonale Wahlen und Abstimmungen werden in Wahlkreisen innerhalb der Bezirksgrenzen durchgeführt."
+      },
+      {
+        "num": "2",
+        "text": "… *"
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt Aufgaben, Bestand und Organisation der Wahlkreise. *"
+      }
+    ],
     "44": [
       {
         "num": "1",
@@ -1459,6 +1621,20 @@
         "text": "Der Gemeinderat ist die oberste vollziehende Behörde. Er leitet die Verwaltung."
       }
     ],
+    "47a": [
+      {
+        "num": "1",
+        "text": "Die Erlassgeber ordnen den Gemeinden die Aufgaben nach dem Grundsatz der Vorrangigkeit der Gemeinde zu (Subsidiarität). Sie tragen nach Möglichkeit dem Grundsatz Rechnung, dass die Zuständigkeit für eine Aufgabe und die dafür notwendigen finanziellen Ressourcen beim gleichen Gemeinwesen liegen (fiskalische Äquivalenz)."
+      },
+      {
+        "num": "2",
+        "text": "Sie gewähren den Gemeinden grösstmögliche Regelungs- und Vollzugsfreiheit (Gemeindeautonomie) und können für sie unterschiedliche Regelungen vorsehen (Variabilität)."
+      },
+      {
+        "num": "3",
+        "text": "Sie können vorsehen, dass den Gemeinden oder Gemeindeverbünden auf deren Begehren kantonale Vollzugsaufgaben übertragen werden."
+      }
+    ],
     "48": [
       {
         "num": "1",
@@ -1499,6 +1675,30 @@
         "text": "Bei der Vorbereitung von Erlassen und Beschlüssen des Landrates und des Regierungsrates sind die betroffenen Gemeinden rechtzeitig anzuhören."
       }
     ],
+    "49a": [
+      {
+        "num": "1",
+        "text": "Mitglieder der kantonalen Behörden werden durch Wahl auf Amtsperiode bestimmt."
+      },
+      {
+        "num": "2",
+        "text": "Mitarbeiterinnen und Mitarbeiter des Kantons werden in der Regel durch öffentlich-rechtlichen Vertrag angestellt, soweit nicht Verfassung oder Gesetz die Wahl auf Amtsperiode vorsehen."
+      }
+    ],
+    "50": [
+      {
+        "num": "1",
+        "text": "Für die Wahl in den Landrat, in den Regierungsrat und in die Gerichte ist die Stimmberechtigung erforderlich."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz kann die Stimmberechtigung für weitere Ämter als Wahlvoraussetzung bestimmen."
+      },
+      {
+        "num": "3",
+        "text": "Es kann für die Wahl oder Anstellung weitere Voraussetzungen verlangen."
+      }
+    ],
     "51": [
       {
         "num": "1",
@@ -1513,6 +1713,22 @@
         "text": "Das Nähere bestimmt das Gesetz. Es kann weitere Unvereinbarkeiten für andere Behörden festlegen."
       }
     ],
+    "52": [
+      {
+        "num": "1",
+        "text": "Allen Behörden, ausser dem Landrat, dürfen nicht gleichzeitig angehören:"
+      },
+      {
+        "num": null,
+        "text": "a. Eltern und Kinder, b. Geschwister, c. Ehegatten, d. Grosseltern und Enkelkinder, e. Schwägerinnen und Schwäger, f. Schwiegereltern und Schwiegerkinder, g. eingetragene Partnerinnen und eingetragene Partner, h. Personen in eingetragener Partnerschaft und Geschwister der Partnerin oder des Partners dieser Personen, i. Eltern von Personen in eingetragener Partnerschaft und die Partnerin oder der Partner dieser Personen, k. Personen in eingetragener Partnerschaft und Kinder der Partnerin oder des Partners dieser Personen."
+      }
+    ],
+    "53": [
+      {
+        "num": "1",
+        "text": "Die Amtsperiode der Behördenmitglieder sowie der gewählten Mitarbeiterinnen und Mitarbeiter beträgt vier Jahre."
+      }
+    ],
     "54": [
       {
         "num": "1",
@@ -1521,6 +1737,26 @@
       {
         "num": "2",
         "text": "Angebrochene Amtsperioden sind ganzen gleichgestellt."
+      }
+    ],
+    "55": [
+      {
+        "num": "1",
+        "text": "Die Verhandlungen des Landrates und der Gerichte sind öffentlich. Ausnahmen bestimmt das Gesetz."
+      }
+    ],
+    "56": [
+      {
+        "num": "1",
+        "text": "Die Behörden informieren die Öffentlichkeit über ihre Tätigkeit."
+      },
+      {
+        "num": "2",
+        "text": "Jede Person hat Anspruch auf Zugang zu den bei den Behörden vorhandenen Informationen."
+      },
+      {
+        "num": "3",
+        "text": "Das Nähere regelt das Gesetz, insbesondere den Schutz öffentlicher und privater Interessen."
       }
     ],
     "57": [
@@ -1881,6 +2117,24 @@
         "text": "Die Schiedsgerichtsbarkeit in vermögensrechtlichen Streitigkeiten wird anerkannt. Schiedsgerichtsurteile können nach Massgabe des Gesetzes an kantonale Gerichte weitergezogen werden."
       }
     ],
+    "84": [
+      {
+        "num": "1",
+        "text": "Die Strafgerichtsbarkeit wird ausgeübt durch:"
+      },
+      {
+        "num": null,
+        "text": "a. das Strafgericht, b. das Jugendgericht, c. das Zwangsmassnahmengericht, d. das Kantonsgericht."
+      },
+      {
+        "num": "2",
+        "text": "Strafverfolgungsbehörden sind die Polizei, die Staatsanwaltschaft und die Jugendanwaltschaft."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt die Befugnis von Verwaltungsstellen und Gemeindebehörden, Bussen auszusprechen."
+      }
+    ],
     "85": [
       {
         "num": "1",
@@ -2165,6 +2419,28 @@
         "text": "Der Kanton unterhält eine Schlichtungsstelle für Mietstreitigkeiten."
       }
     ],
+    "106a": [
+      {
+        "num": "1",
+        "text": "Der Kanton fördert den Wohnungsbau, den Erwerb von Wohneigentum, das von natürlichen Personen selbst genutzt wird, sowie die Bereitstellung von Wohnraum durch gemeinnützige Wohnbauträger. Dabei richtet er sich nach dem Grundsatz der haushälterischen Nutzung des Bodens durch verdichtetes Bauen und fördert das altersgerechte Wohnen. *"
+      },
+      {
+        "num": "2",
+        "text": "Für gemeinnützige Wohnbauträger erlässt er insbesondere Vorschriften für Anreize zum Bau oder Erwerb von preisgünstigem Wohnraum im Kanton sowie zur Finanzierung von Wohnraumerneuerung im Kanton, namentlich im Energiespar- und Umweltschutzbereich. *"
+      },
+      {
+        "num": "3",
+        "text": "Er erlässt insbesondere Vorschriften über Erleichterungen bei erstmaligem Erwerb von selbst genutztem Wohneigentum im Kanton sowie Erleichterungen für selbst nutzende Wohneigentümer, deren übrige Einkünfte und das nicht in die Liegenschaft investierte Vermögen in einem dauerhaften Missverhältnis zu den Liegenschafts-Unterhaltskosten und den Schuldzinsen stehen."
+      },
+      {
+        "num": "4",
+        "text": "Für das selbst genutzte Wohneigentum erlässt er insbesondere Vorschriften für Anreize zur Bildung von gebundenen Sparrücklagen, die dem erstmaligen entgeltlichen Erwerb von Wohneigentum im Kanton sowie der Finanzierung von Energiespar- und Umweltschutzmassnahmen an bestehendem Wohneigentum im Kanton dienen. *"
+      },
+      {
+        "num": "5",
+        "text": "Er erlässt insbesondere Vorschriften über die massvolle Festsetzung der Eigenmietwerte. *"
+      }
+    ],
     "107": [
       {
         "num": "1",
@@ -2387,6 +2663,20 @@
         "text": "a. das bäuerliche Bildungs-, Beratungs- und Versuchswesen, b. Familien- und Nebenerwerbsbetriebe, c. die Erhaltung des bäuerlichen Grundbesitzes, d. landwirtschaftliche Strukturverbesserungen, Güterzusammenlegungen und Meliorationen, e. die Zusammenarbeit auf der Basis genossenschaftlicher Selbsthilfe, f. die Kreditbeschaffung und das Versicherungswesen."
       }
     ],
+    "124": [
+      {
+        "num": "1",
+        "text": "Der Kanton sorgt für die Erhaltung des Waldes in seiner Fläche und in seiner räumlichen Verteilung. Er stellt sicher, dass der Wald seine Funktionen dauerhaft erfüllen kann."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton unterstützt zusammen mit den Einwohnergemeinden die Waldwirtschaft. Sie sorgen dafür, dass die Waldbewirtschaftung das Gemeinwohl berücksichtigt."
+      },
+      {
+        "num": "3",
+        "text": "Die Einwohnergemeinden üben die Aufsicht über den Wald im Rahmen ihrer Gebietshoheit aus."
+      }
+    ],
     "125": [
       {
         "num": "1",
@@ -2411,6 +2701,12 @@
       {
         "num": "1",
         "text": "Der Kanton unterhält eine Kantonalbank, die namentlich der Mittelbeschaffung und der Förderung der wirtschaftlichen und sozialen Entwicklung dient."
+      }
+    ],
+    "127a": [
+      {
+        "num": "1",
+        "text": "Der Kanton unterhält Rheinhäfen. Das Gesetz bestimmt das Hafengebiet und dessen Nutzung."
       }
     ],
     "128": [
@@ -2515,6 +2811,16 @@
       {
         "num": "3",
         "text": "Steuerhinterziehung und Steuerbetrug sind mit wirksamen Sanktionen zu bekämpfen."
+      }
+    ],
+    "133a": [
+      {
+        "num": "1",
+        "text": "Das Steuergesetz ist einfach, leicht verständlich und nachvollziehbar auszugestalten. Das Ausfüllen der Steuererklärung soll wenig Zeit und ihre Überprüfung wenig Kontrollaufwand erfordern."
+      },
+      {
+        "num": "2",
+        "text": "Die Kantonsbehörden setzen sich für eine Vereinfachung der Bundesgesetzgebung im Sinne von Absatz 1 ein."
       }
     ],
     "134": [
@@ -2733,6 +3039,28 @@
       {
         "num": "1",
         "text": "Bestimmungen über die Erfüllung öffentlicher Aufgaben, die einer verfassungsmässigen Grundlage gemäss § 90 entbehren, bleiben bis zu ihrer Änderung in Kraft."
+      }
+    ],
+    "155": [
+      {
+        "num": "1",
+        "text": "Entstehen dem Kanton Basel-Landschaft aus der Vermögensausscheidung mit dem Kanton Bern betreffend das Laufental Ausgaben, so gelten diese als endgültig bewilligt."
+      }
+    ],
+    "156": [
+      {
+        "num": "1",
+        "text": "Die Amtsperiode 2010-2014 folgender Behördenmitglieder endet am 31. Dezember 2010:"
+      },
+      {
+        "num": null,
+        "text": "a. Leiterinnen und Leiter der Statthalterämter; b. Leiterin oder Leiter des besonderes Untersuchungsrichteramtes."
+      }
+    ],
+    "157": [
+      {
+        "num": "1",
+        "text": "Die Amtsperiode 2010-2014 des Präsidiums und der übrigen Mitglieder des Verfahrensgerichts in Strafsachen endet, sobald sämtliche Rechtsmittelverfahren im Sinne von Artikel 453 Absatz 1 der Schweizerischen Strafprozessordnung [9] abgeschlossen sind. Danach ist das Kantonsgericht, Abteilung Strafrecht, die Nachfolgebehörde des Verfahrensgerichts in Strafsachen, sofern das Bundesrecht nicht eine andere Zuständigkeit vorsieht."
       }
     ]
   }

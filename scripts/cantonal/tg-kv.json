@@ -7,7 +7,7 @@
   "lexfind_id": 17412,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 95,
+  "article_count": 101,
   "articles": [
     {
       "number": 1,
@@ -73,7 +73,7 @@
       "number": 11,
       "suffix": "",
       "raw": "11",
-      "title": "Öffentlichkeit<a class=\"footnote\" name=\"articletitle_text_fn_506526_2_1\" data-turbolinks=false href=\"#articletitle_text_fn_506526_2_1_c\">[1]</a>&nbsp;<strong>*</strong>"
+      "title": "Öffentlichkeit[1] *"
     },
     {
       "number": 12,
@@ -184,6 +184,12 @@
       "title": "Unvereinbarkeit"
     },
     {
+      "number": 30,
+      "suffix": "",
+      "raw": "30",
+      "title": "Verwandtenausschluss"
+    },
+    {
       "number": 31,
       "suffix": "",
       "raw": "31",
@@ -193,7 +199,7 @@
       "number": 32,
       "suffix": "",
       "raw": "32",
-      "title": "Amtsdauer&nbsp;<strong>*</strong>"
+      "title": "Amtsdauer *"
     },
     {
       "number": 33,
@@ -292,6 +298,12 @@
       "title": "Vollzugsdelegation"
     },
     {
+      "number": 49,
+      "suffix": "",
+      "raw": "49",
+      "title": "Personal"
+    },
+    {
       "number": 50,
       "suffix": "",
       "raw": "50",
@@ -310,6 +322,12 @@
       "title": "Zivilrechtspflege"
     },
     {
+      "number": 53,
+      "suffix": "",
+      "raw": "53",
+      "title": "Strafrechtspflege"
+    },
+    {
       "number": 54,
       "suffix": "",
       "raw": "54",
@@ -320,6 +338,12 @@
       "suffix": "",
       "raw": "55",
       "title": "Aufsicht"
+    },
+    {
+      "number": 56,
+      "suffix": "",
+      "raw": "56",
+      "title": "Einteilung des Kantons"
     },
     {
       "number": 57,
@@ -415,7 +439,7 @@
       "number": 72,
       "suffix": "",
       "raw": "72",
-      "title": "Hochschulen, Fachschulen&nbsp;<strong>*</strong>"
+      "title": "Hochschulen, Fachschulen *"
     },
     {
       "number": 73,
@@ -475,7 +499,7 @@
       "number": 82,
       "suffix": "",
       "raw": "82",
-      "title": "Wasser, Energie, Förderung Energieeffizienz&nbsp;<strong>*</strong>"
+      "title": "Wasser, Energie, Förderung Energieeffizienz *"
     },
     {
       "number": 83,
@@ -574,6 +598,18 @@
       "title": "Bezirke, Gemeinden"
     },
     {
+      "number": 99,
+      "suffix": "",
+      "raw": "99",
+      "title": "Ende der laufenden Amtsdauern"
+    },
+    {
+      "number": 99,
+      "suffix": "a",
+      "raw": "99a",
+      "title": "Übergangsbestimmungen zu § 11 Abs. 3 und Abs. 4"
+    },
+    {
       "number": 100,
       "suffix": "",
       "raw": "100",
@@ -626,7 +662,39 @@
     "6": [
       {
         "num": "1",
-        "text": "Die Freiheitsrechte sind gewährleistet, insbesondere: 1. die persönliche Freiheit; 2. die Freiheit und der Schutz des Privat- und Geheimbereiches; 3. die Glaubens- und Gewissensfreiheit; 4. die Informations-, Meinungs- und Pressefreiheit; 5. die Vereinigungs- und Versammlungsfreiheit; 6. die Freiheit der wissenschaftlichen Lehre und Forschung sowie der künstlerischen Betätigung; 7. die Freiheit der Berufswahl und der wirtschaftlichen Betätigung; 8. die Niederlassungsfreiheit."
+        "text": "Die Freiheitsrechte sind gewährleistet, insbesondere:"
+      },
+      {
+        "num": null,
+        "text": "1. die persönliche Freiheit;"
+      },
+      {
+        "num": null,
+        "text": "2. die Freiheit und der Schutz des Privat- und Geheimbereiches;"
+      },
+      {
+        "num": null,
+        "text": "3. die Glaubens- und Gewissensfreiheit;"
+      },
+      {
+        "num": null,
+        "text": "4. die Informations-, Meinungs- und Pressefreiheit;"
+      },
+      {
+        "num": null,
+        "text": "5. die Vereinigungs- und Versammlungsfreiheit;"
+      },
+      {
+        "num": null,
+        "text": "6. die Freiheit der wissenschaftlichen Lehre und Forschung sowie der künstlerischen Betätigung;"
+      },
+      {
+        "num": null,
+        "text": "7. die Freiheit der Berufswahl und der wirtschaftlichen Betätigung;"
+      },
+      {
+        "num": null,
+        "text": "8. die Niederlassungsfreiheit."
       }
     ],
     "7": [
@@ -738,7 +806,27 @@
     "20": [
       {
         "num": "1",
-        "text": "Das Volk wählt: 1. die Mitglieder des Grossen Rates; 2. die Mitglieder des Regierungsrates; 3. die Ständeräte; 4. die Präsidenten, Mitglieder und Ersatzmitglieder der Bezirksgerichte; 5. * … 6. * die Friedensrichter."
+        "text": "Das Volk wählt:"
+      },
+      {
+        "num": null,
+        "text": "1. die Mitglieder des Grossen Rates;"
+      },
+      {
+        "num": null,
+        "text": "2. die Mitglieder des Regierungsrates;"
+      },
+      {
+        "num": null,
+        "text": "3. die Ständeräte;"
+      },
+      {
+        "num": null,
+        "text": "4. die Präsidenten, Mitglieder und Ersatzmitglieder der Bezirksgerichte;"
+      },
+      {
+        "num": null,
+        "text": "5. * … 6. * die Friedensrichter."
       },
       {
         "num": "2",
@@ -746,7 +834,19 @@
       },
       {
         "num": "3",
-        "text": "Wahlkreis ist: 1. der Bezirk für die Mitglieder des Grossen Rates; 2. der Kanton für die Mitglieder des Regierungsrates und des Ständerates; 3. das Amtsgebiet in den übrigen Fällen."
+        "text": "Wahlkreis ist:"
+      },
+      {
+        "num": null,
+        "text": "1. der Bezirk für die Mitglieder des Grossen Rates;"
+      },
+      {
+        "num": null,
+        "text": "2. der Kanton für die Mitglieder des Regierungsrates und des Ständerates;"
+      },
+      {
+        "num": null,
+        "text": "3. das Amtsgebiet in den übrigen Fällen."
       },
       {
         "num": "4",
@@ -865,6 +965,36 @@
       {
         "num": "4",
         "text": "Weitere Unvereinbarkeiten regelt das Gesetz."
+      }
+    ],
+    "30": [
+      {
+        "num": "1",
+        "text": "Der gleichen Behörde dürfen nicht gleichzeitig angehören:"
+      },
+      {
+        "num": null,
+        "text": "1. Ehegatten;"
+      },
+      {
+        "num": null,
+        "text": "2. Eltern und Kinder sowie ihre Ehegatten;"
+      },
+      {
+        "num": null,
+        "text": "3. Geschwister und ihre Ehegatten."
+      },
+      {
+        "num": "2",
+        "text": "Personen in eingetragener Partnerschaft sowie Personen in faktischer Lebensgemeinschaft sind den Ehegatten gleichgestellt."
+      },
+      {
+        "num": "3",
+        "text": "Der Verwandtenausschluss gilt nicht für den Grossen Rat und die Gemeindeparlamente."
+      },
+      {
+        "num": "4",
+        "text": "Weitere Ausnahmen vom Verwandtenausschluss regelt das Gesetz."
       }
     ],
     "31": [
@@ -1107,6 +1237,12 @@
         "text": "Die Weiterübertragung ist unzulässig."
       }
     ],
+    "49": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat regelt das Dienstverhältnis des Staatspersonals und der Lehrkräfte, soweit die Verfassung nichts anderes vorsieht."
+      }
+    ],
     "50": [
       {
         "num": "1",
@@ -1134,11 +1270,61 @@
     "52": [
       {
         "num": "1",
-        "text": "Die Zivilrechtspflege üben aus: 1. * das Obergericht; 2. * die Bezirksgerichte; 3. die Friedensrichter."
+        "text": "Die Zivilrechtspflege üben aus:"
+      },
+      {
+        "num": null,
+        "text": "1. * das Obergericht;"
+      },
+      {
+        "num": null,
+        "text": "2. * die Bezirksgerichte;"
+      },
+      {
+        "num": null,
+        "text": "3. die Friedensrichter."
       },
       {
         "num": "2",
         "text": "Das Gesetz kann besondere Gerichte vorsehen. *"
+      }
+    ],
+    "53": [
+      {
+        "num": "1",
+        "text": "Gerichtliche Befugnisse im Strafverfahren haben: * 1. * das Obergericht;"
+      },
+      {
+        "num": null,
+        "text": "2. die Bezirksgerichte;"
+      },
+      {
+        "num": null,
+        "text": "3. das Zwangsmassnahmengericht;"
+      },
+      {
+        "num": null,
+        "text": "4. die Generalstaatsanwaltschaft und die Staatsanwaltschaften;"
+      },
+      {
+        "num": null,
+        "text": "5. die Jugendanwaltschaft."
+      },
+      {
+        "num": "2",
+        "text": "Die Strafverfolgung üben aus:"
+      },
+      {
+        "num": null,
+        "text": "1. die Polizei;"
+      },
+      {
+        "num": null,
+        "text": "2. die Generalstaatsanwaltschaft und die Staatsanwaltschaften;"
+      },
+      {
+        "num": null,
+        "text": "3. die Jugendanwaltschaft."
       }
     ],
     "54": [
@@ -1155,6 +1341,12 @@
       {
         "num": "2",
         "text": "… *"
+      }
+    ],
+    "56": [
+      {
+        "num": "1",
+        "text": "Das Kantonsgebiet ist in fünf Bezirke eingeteilt. Das Gesetz bestimmt deren Umfang und die Aufgaben der Behörden."
       }
     ],
     "57": [
@@ -1312,7 +1504,23 @@
     "71": [
       {
         "num": "1",
-        "text": "Kanton und Schulgemeinden führen: 1. Kindergärten; 2. Volksschulen; 3. Berufsschulen; 4. Mittelschulen."
+        "text": "Kanton und Schulgemeinden führen:"
+      },
+      {
+        "num": null,
+        "text": "1. Kindergärten;"
+      },
+      {
+        "num": null,
+        "text": "2. Volksschulen;"
+      },
+      {
+        "num": null,
+        "text": "3. Berufsschulen;"
+      },
+      {
+        "num": null,
+        "text": "4. Mittelschulen."
       },
       {
         "num": "2",
@@ -1446,7 +1654,27 @@
     "84": [
       {
         "num": "1",
-        "text": "Dem Kanton stehen zur ausschliesslichen wirtschaftlichen Nutzung zu: 1. Jagd; 2. Fischerei; 3. Bergbau und Lagerung von Stoffen im Erdinnern; 4. Erdwärme; 5. Salzhandel."
+        "text": "Dem Kanton stehen zur ausschliesslichen wirtschaftlichen Nutzung zu:"
+      },
+      {
+        "num": null,
+        "text": "1. Jagd;"
+      },
+      {
+        "num": null,
+        "text": "2. Fischerei;"
+      },
+      {
+        "num": null,
+        "text": "3. Bergbau und Lagerung von Stoffen im Erdinnern;"
+      },
+      {
+        "num": null,
+        "text": "4. Erdwärme;"
+      },
+      {
+        "num": null,
+        "text": "5. Salzhandel."
       },
       {
         "num": "2",
@@ -1587,6 +1815,22 @@
       {
         "num": "3",
         "text": "Die Neuordnungen gemäss Abs. 1 und Abs. 2 haben innert 15 Jahren nach Inkrafttreten dieser Verfassung zu erfolgen."
+      }
+    ],
+    "99": [
+      {
+        "num": "1",
+        "text": "Die im Zeitpunkt des Inkrafttretens dieses Gesetzes laufenden Amtsdauern der Friedensrichter, der Betreibungsbeamten, der Bezirksstatthalter, der Vizestatthalter, der Untersuchungsrichter, des Jugendanwaltes, der Staatsanwälte sowie der Mitglieder und Ersatzmitglieder der Bezirksgerichte, der Anklagekammer und des Obergerichtes enden mit dem Inkrafttreten der Schweizerischen Zivilprozessordnung (ZPO) [2] , der Schweizerischen Strafprozessordnung (StPO) [3] und der Schweizerischen Jugendstrafprozessordnung (JStPO) [4] ."
+      }
+    ],
+    "99a": [
+      {
+        "num": "1",
+        "text": "§ 11 Abs. 3 ist auf amtliche Akten anwendbar, die nach der Annahme dieser Verfassungsbestimmung durch das Volk von einer Behörde erstellt oder empfangen wurden."
+      },
+      {
+        "num": "2",
+        "text": "Tritt die entsprechende Gesetzgebung nach Annahme von § 11 Abs. 3 und Abs. 4 nicht innerhalb von drei Jahren in Kraft, so erlässt der Regierungsrat die nötigen Ausführungsbestimmungen durch Verordnung."
       }
     ],
     "100": [

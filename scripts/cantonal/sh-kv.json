@@ -6,8 +6,8 @@
   "title": "Verfassung des Kantons Schaffhausen",
   "lexfind_id": 14100,
   "fetched_at": "2026-04-14",
-  "source": "lexwork",
-  "article_count": 123,
+  "source": "fedlex",
+  "article_count": 120,
   "articles": [
     {
       "number": 1,
@@ -220,12 +220,6 @@
       "title": "Teil- und Variantenabstimmung"
     },
     {
-      "number": 36,
-      "suffix": "",
-      "raw": "36",
-      "title": "Vernehmlassungen"
-    },
-    {
       "number": 37,
       "suffix": "",
       "raw": "37",
@@ -340,12 +334,6 @@
       "title": "Aufsicht, Wirksamkeitsprüfung"
     },
     {
-      "number": 56,
-      "suffix": "",
-      "raw": "56",
-      "title": "Finanzbefugnisse"
-    },
-    {
       "number": 57,
       "suffix": "",
       "raw": "57",
@@ -452,12 +440,6 @@
       "suffix": "",
       "raw": "74",
       "title": "Rechtsbeistand, Rechtsauskunft"
-    },
-    {
-      "number": 75,
-      "suffix": "",
-      "raw": "75",
-      "title": ""
     },
     {
       "number": 76,
@@ -761,7 +743,7 @@
     ],
     "2": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Staatsgewalt beruht auf dem Volk. Sie wird durch die Stimmberechtigten und die Behörden ausgeübt."
       }
     ],
@@ -791,7 +773,7 @@
     ],
     "5": [
       {
-        "num": "1",
+        "num": null,
         "text": "Das Gesetz regelt Erwerb und Verlust des Kantons- und Gemeindebürgerrechts."
       }
     ],
@@ -825,19 +807,19 @@
     ],
     "8": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Aufbau des Staates und die Ausübung staatlicher Macht richten sich nach dem Grundsatz der Gewaltenteilung."
       }
     ],
     "9": [
       {
-        "num": "1",
+        "num": null,
         "text": "Staatliches Handeln hat sich auf eine ökologische, wirtschaftliche und soziale Entwicklung auszurichten, welche die Bedürfnisse heutiger wie auch zukünftiger Generationen berücksichtigt."
       }
     ],
     "10": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Würde des Menschen ist zu achten und zu schützen. Sie bildet die Grundlage der gesamten Rechtsordnung."
       }
     ],
@@ -858,11 +840,7 @@
     "12": [
       {
         "num": "1",
-        "text": "Die Freiheitsrechte sind gewährleistet, insbesondere:"
-      },
-      {
-        "num": null,
-        "text": "a) die persönliche Freiheit b) der Schutz der Privatsphäre c) das Recht auf Ehe und Familie oder auf eine andere Form des Zusammenlebens d) die Glaubens- und Gewissensfreiheit e) die Meinungs-, Informations- und Medienfreiheit f) die Freiheit von Unterricht, Lehre und Forschung g) die Freiheit des künstlerischen Ausdrucks h) die Vereinigungs-, Versammlungs- und Koalitionsfreiheit i) die Niederlassungsfreiheit j) die Wirtschaftsfreiheit"
+        "text": "Die Freiheitsrechte sind gewährleistet, insbesondere"
       },
       {
         "num": "2",
@@ -871,13 +849,13 @@
     ],
     "13": [
       {
-        "num": "1",
+        "num": null,
         "text": "Wer Notlagen nicht aus eigener Kraft bewältigen kann, hat Anspruch auf die für ein menschenwürdiges Dasein unerlässliche Hilfe."
       }
     ],
     "14": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kinder und Jugendliche haben Anspruch auf Schutz und Fürsorge."
       }
     ],
@@ -893,7 +871,7 @@
     ],
     "16": [
       {
-        "num": "1",
+        "num": null,
         "text": "Personen, die infolge einer Straftat in ihrer körperlichen, psychischen oder sexuellen Unversehrtheit beeinträchtigt worden sind, haben Anspruch auf Hilfe und, sofern sie durch die Straftat in wirtschaftliche Schwierigkeiten geraten sind, auf angemessene Entschädigung."
       }
     ],
@@ -904,7 +882,7 @@
       },
       {
         "num": "2",
-        "text": "… *"
+        "text": "…2"
       }
     ],
     "18": [
@@ -950,11 +928,7 @@
     "22": [
       {
         "num": "1",
-        "text": "Kanton und Gemeinden setzen sich in Ergänzung zu persönlicher Verantwortung und privater Initiative dafür ein, dass:"
-      },
-      {
-        "num": null,
-        "text": "a) jede Person an der sozialen Sicherheit teilhat b) jede Person die für ihre Gesundheit notwendige Pflege erhält c) Familien als Gemeinschaften von Erwachsenen und Kindern geschützt und gefördert werden d) Erwerbsfähige ihren Lebensunterhalt durch Arbeit zu angemessenen Bedingungen bestreiten können e) Wohnungssuchende für sich und ihre Familie eine angemessene Wohnung zu tragbaren Bedingungen finden können f) Kinder und Jugendliche sowie Personen im erwerbsfähigen Alter sich nach ihren Fähigkeiten bilden, aus- und weiterbilden können g) Kinder und Jugendliche in ihrer Entwicklung zu selbständigen und sozial verantwortlichen Personen gefördert und in ihrer sozialen, kulturellen und politischen Integration unterstützt werden"
+        "text": "Kanton und Gemeinden setzen sich in Ergänzung zu persönlicher Verantwortung und privater Initiative dafür ein, dass"
       },
       {
         "num": "2",
@@ -985,12 +959,8 @@
     ],
     "24": [
       {
-        "num": "1",
-        "text": "Die Stimmberechtigten wählen:"
-      },
-      {
         "num": null,
-        "text": "a) den Kantonsrat b) den Regierungsrat c) die Schaffhauser Mitglieder des Ständerates und des Nationalrates"
+        "text": "Die Stimmberechtigten wählen"
       }
     ],
     "25": [
@@ -1000,7 +970,7 @@
       },
       {
         "num": "2",
-        "text": "Die Zuteilung der Sitze an die politischen Gruppierungen erfolgt entsprechend deren Wählerstärke im Kanton. *"
+        "text": "Die Zuteilung der Sitze an die politischen Gruppierungen erfolgt entsprechend deren Wählerstärke im Kanton.3"
       },
       {
         "num": "3",
@@ -1014,7 +984,7 @@
     "26": [
       {
         "num": "1",
-        "text": "1'000 Stimmberechtigte können die Gesamterneuerung des Kantonsrates oder des Regierungsrates verlangen. Das Gesetz regelt das Verfahren."
+        "text": "1000 Stimmberechtigte können die Gesamterneuerung des Kantonsrates oder des Regierungsrates verlangen. Das Gesetz regelt das Verfahren."
       },
       {
         "num": "2",
@@ -1028,11 +998,7 @@
     "27": [
       {
         "num": "1",
-        "text": "Mit einer Volksinitiative können 1'000 Stimmberechtigte das Begehren stellen auf:"
-      },
-      {
-        "num": null,
-        "text": "a) Total- oder Teilrevision der Verfassung b) Erlass, Änderung oder Aufhebung eines Gesetzes c) Kündigung oder Aufnahme von Verhandlungen über Abschluss oder Änderung eines internationalen oder interkantonalen Vertrages, soweit er der Volksabstimmung untersteht d) Einreichen einer Standesinitiative"
+        "text": "Mit einer Volksinitiative können 1000 Stimmberechtigte das Begehren stellen auf"
       },
       {
         "num": "2",
@@ -1046,11 +1012,7 @@
       },
       {
         "num": "2",
-        "text": "Der Kantonsrat entscheidet über die Gültigkeit der Volksinitiative. Diese ist ganz oder teilweise ungültig zu erklären, wenn sie:"
-      },
-      {
-        "num": null,
-        "text": "a) gegen übergeordnetes Recht verstösst b) undurchführbar ist c) die Einheit der Form oder der Materie verletzt"
+        "text": "Der Kantonsrat entscheidet über die Gültigkeit der Volksinitiative. Diese ist ganz oder teilweise ungültig zu erklären, wenn sie"
       },
       {
         "num": "3",
@@ -1093,26 +1055,18 @@
     ],
     "32": [
       {
-        "num": "1",
-        "text": "Die Stimmberechtigten entscheiden obligatorisch über:"
-      },
-      {
         "num": null,
-        "text": "a) Verfassungsänderungen b) internationale und interkantonale Verträge, die unmittelbar anwendbar sind und nicht mit der Verfassung übereinstimmen c) Gesetze, die nicht der fakultativen Volksabstimmung unterstellt sind d) Volksinitiativen e) Beschlüsse des Kantonsrates über neue einmalige Ausgaben von mehr als Fr. 3'000'000.00 und über neue jährlich wiederkehrende Ausgaben von mehr als Fr. 500'000.00 f) die Stellungnahme des Kantons Schaffhausen zuhanden des Bundes bezüglich des Baus von Kernkraftwerken, Aufbereitungsanlagen für Kernbrennstoffe oder Lagerstätten für radioaktive Rückstände auf dem Gebiet des Kantons Schaffhausen und der angrenzenden Kantone g) die Stellungnahme des Kantons Schaffhausen zuhanden des Bundes über die Aufnahme von neuen Nationalstrassen ins Nationalstrassennetz h) weitere Beschlüsse des Kantonsrates, wenn das Gesetz es vorschreibt i) Beschlüsse, welche der Kantonsrat von sich aus zur Abstimmung bringen will"
+        "text": "Die Stimmberechtigten entscheiden obligatorisch über"
       }
     ],
     "33": [
       {
         "num": "1",
-        "text": "Die Stimmberechtigten können verlangen, dass der Volksabstimmung unterstellt werden:"
-      },
-      {
-        "num": null,
-        "text": "a) Gesetze, denen mindestens 4/5 der anwesenden Mitglieder des Kantonsrates zugestimmt haben b) unmittelbar anwendbare internationale und interkantonale Verträge mit gesetzgebendem Charakter c) der Voranschlag bei einer Änderung des Steuerfusses d) Beschlüsse des Kantonsrates über neue einmalige Ausgaben von mehr als Fr. 1'000'000.00 und über neue jährlich wiederkehrende Ausgaben von mehr als Fr. 100'000.00 e) Grundsatzbeschlüsse des Kantonsrates f) weitere Beschlüsse des Kantonsrates, wenn das Gesetz es vorschreibt"
+        "text": "Die Stimmberechtigten können verlangen, dass der Volksabstimmung unterstellt werden"
       },
       {
         "num": "2",
-        "text": "Das Referendum ist zustande gekommen, wenn innert 90 Tagen seit der Veröffentlichung des Beschlusses 1'000 Stimmberechtigte die Volksabstimmung verlangen. Für Abs. 1 lit. c gilt eine Frist von 30 Tagen."
+        "text": "Das Referendum ist zustande gekommen, wenn innert 90 Tagen seit der Veröffentlichung des Beschlusses 1000 Stimmberechtigte die Volksabstimmung verlangen. Für Abs. 1 Bst. c gilt eine Frist von 30 Tagen."
       }
     ],
     "34": [
@@ -1135,15 +1089,9 @@
         "text": "Wird bei einer der fakultativen Abstimmung unterstehenden Vorlage das Referendum nicht ergriffen, so fallen die Varianten dahin."
       }
     ],
-    "36": [
-      {
-        "num": "1",
-        "text": "Jede Person hat das Recht, im Rahmen von Vernehmlassungen zu kantonalen Verfassungs- und Gesetzesentwürfen sowie zu weiteren kantonalen Vorhaben von allgemeiner Tragweite Stellung zu nehmen."
-      }
-    ],
     "37": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die politischen Parteien wirken bei der Meinungs- und Willensbildung der Stimmberechtigten mit."
       }
     ],
@@ -1170,11 +1118,11 @@
     "40": [
       {
         "num": "1",
-        "text": "In den Kantonsrat, den Regierungsrat und den Ständerat sind alle im Kanton stimmberechtigten Schweizerinnen und Schweizer wählbar. *"
+        "text": "In den Kantonsrat, den Regierungsrat und den Ständerat sind alle im Kanton stimmberechtigten Schweizerinnen und Schweizer wählbar.5"
       },
       {
-        "num": "1",
-        "text": "bis In das Obergericht und das Kantonsgericht sind alle mündigen Schweizerinnen und Schweizer wählbar. Sie müssen ab Amtsantritt im Kanton Schaffhausen Wohnsitz haben. *"
+        "num": null,
+        "text": "1bis In das Obergericht und das Kantonsgericht sind alle mündigen Schweizerinnen und Schweizer wählbar. Sie müssen ab Amtsantritt im Kanton Schaffhausen Wohnsitz haben.6"
       },
       {
         "num": "2",
@@ -1183,18 +1131,14 @@
     ],
     "41": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Mitglieder des Kantonsrates, des Regierungsrates, der Rechtspflegebehörden und der Gemeindebehörden werden auf die Dauer von vier Jahren gewählt. Sie üben ihre Funktion bis zum Amtsantritt der neuen Organe weiter aus."
       }
     ],
     "42": [
       {
         "num": "1",
-        "text": "Niemand darf gleichzeitig angehören:"
-      },
-      {
-        "num": null,
-        "text": "a) dem Kantonsrat, dem Regierungsrat und einer kantonalen Rechtspflegebehörde b) dem Regierungsrat, dem Nationalrat und dem Ständerat c) dem Regierungsrat und einer Gemeindebehörde"
+        "text": "Niemand darf gleichzeitig angehören"
       },
       {
         "num": "2",
@@ -1207,13 +1151,13 @@
     ],
     "43": [
       {
-        "num": "1",
-        "text": "Der gleichen Behörde dürfen mit Ausnahme des Kantonsrates, der Gemeindeparlamente und des Verfassungsrates nicht gleichzeitig angehören: Ehepaare, Paare in eingetragener Partnerschaft, Konkubinatspaare, Eltern und Kinder, Geschwister. *"
+        "num": null,
+        "text": "Der gleichen Behörde dürfen mit Ausnahme des Kantonsrates, der Gemeindeparlamente und des Verfassungsrates nicht gleichzeitig angehören: Ehepaare, Paare in eingetragener Partnerschaft, Konkubinatspaare, Eltern und Kinder, Geschwister."
       }
     ],
     "44": [
       {
-        "num": "1",
+        "num": null,
         "text": "Behördenmitglieder werden vor Amtsantritt auf Verfassung und Gesetz verpflichtet."
       }
     ],
@@ -1293,12 +1237,8 @@
     ],
     "50": [
       {
-        "num": "1",
-        "text": "Alle wichtigen Rechtssätze sind in der Form des Gesetzes zu erlassen. Dazu gehören Bestimmungen, für welche die Verfassung das Gesetz ausdrücklich vorsieht, sowie die grundlegenden Bestimmungen über:"
-      },
-      {
         "num": null,
-        "text": "a) die Volksrechte b) Einschränkungen verfassungsmässiger Rechte c) die Rechte und Pflichten von Personen d) den Gegenstand und die Bemessung von Abgaben sowie den Kreis der Abgabenpflichtigen e) die Aufgaben und die Leistungen des Kantons f) die Organisation und das Verfahren der Behörden"
+        "text": "Alle wichtigen Rechtssätze sind in der Form des Gesetzes zu erlassen. Dazu gehören Bestimmungen, für welche die Verfassung das Gesetz ausdrücklich vorsieht, sowie die grundlegenden Bestimmungen über"
       }
     ],
     "51": [
@@ -1317,8 +1257,8 @@
     ],
     "52": [
       {
-        "num": "1",
-        "text": "Der aus 60 Mitgliedern bestehende Kantonsrat übt unter Vorbehalt der Volksrechte die oberste Gewalt aus. *"
+        "num": null,
+        "text": "1 Der aus 60 Mitgliedern bestehende Kantonsrat übt unter Vorbehalt der Volksrechte die oberste Gewalt aus.8"
       },
       {
         "num": "2",
@@ -1364,31 +1304,17 @@
       },
       {
         "num": "2",
-        "text": "Der Kantonsrat prüft und genehmigt die Rechenschaftsberichte des Regierungsrates, des Obergerichts sowie der Rechtspflegekommission für die Justizverwaltung. *"
+        "text": "Der Kantonsrat prüft und genehmigt die Rechenschaftsberichte des Regierungsrates, des Obergerichts sowie der Rechtspflegekommission für die Justizverwaltung.9"
       },
       {
         "num": "3",
         "text": "Er kann für eine unabhängige Überprüfung der Wirksamkeit kantonaler Massnahmen sorgen."
       }
     ],
-    "56": [
-      {
-        "num": "1",
-        "text": "Der Kantonsrat beschliesst über:"
-      },
-      {
-        "num": null,
-        "text": "a) den Voranschlag b) die Genehmigung der Kantonsrechnung c) die Festsetzung kantonaler Steuern und Abgaben im Rahmen der gesetzlichen Vorschriften d) Ausgaben, soweit sie nicht in die Kompetenz des Regierungsrates fallen, unter Vorbehalt von Art. 32 und 33"
-      }
-    ],
     "57": [
       {
         "num": "1",
-        "text": "Der Kantonsrat:"
-      },
-      {
-        "num": null,
-        "text": "a) beschliesst über die Gegenstände, die der Volksabstimmung unterliegen, ausser dem Begehren auf Abberufung des Kantonsrates b) entscheidet über die Ergreifung des fakultativen Referendums zusammen mit anderen Kantonen und über die Einreichung einer Standesinitiative auf Bundesebene c) nimmt die ihm durch Verfassung und Gesetz übertragenen Wahlen vor d) beschliesst über Amnestie und Begnadigung e) erteilt das Kantonsbürgerrecht, soweit dies nicht durch das Gesetz einer anderen Stelle übertragen wird f) behandelt die an ihn gerichteten Petitionen und Beschwerden g) entscheidet über Verleihung, Änderung, Erneuerung und Übertragung wichtiger Konzessionen"
+        "text": "Der Kantonsrat"
       },
       {
         "num": "2",
@@ -1439,7 +1365,7 @@
     ],
     "61": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Mitglieder des Regierungsrates dürfen keine bezahlte private Tätigkeit ausüben. In Erwerbsunternehmen können sie nur in Vertretung des Kantons tätig sein."
       }
     ],
@@ -1510,11 +1436,7 @@
       },
       {
         "num": "3",
-        "text": "Er beschliesst über:"
-      },
-      {
-        "num": null,
-        "text": "a) neue einmalige Ausgaben bis Fr. 100'000.00 und neue jährlich wiederkehrende Ausgaben bis Fr. 20'000.00 b) Verfügungsgeschäfte über Liegenschaften des Finanzvermögens bis Fr. 1'000'000.00"
+        "text": "Er beschliesst über"
       },
       {
         "num": "4",
@@ -1523,12 +1445,8 @@
     ],
     "67": [
       {
-        "num": "1",
-        "text": "Der Regierungsrat:"
-      },
-      {
         "num": null,
-        "text": "a) vertritt den Kanton nach aussen und innen b) trägt die Verantwortung für die Wahrung der öffentlichen Ordnung und Sicherheit c) bereitet die Geschäfte des Kantonsrates vor, soweit dieser sie nicht allein bearbeiten will d) veröffentlicht die kantonalen Erlasse e) sorgt für den Vollzug der Erlasse von Bund und Kanton, der Beschlüsse des Kantonsrates und der rechtskräftigen Urteile f) übt nach Gesetz die Aufsicht über die Gemeinden aus g) verabschiedet Vernehmlassungen an Bundesbehörden h) entscheidet über Verwaltungsstreitigkeiten, soweit Verfassung und Gesetz dies vorsehen i) erfüllt alle weiteren Aufgaben, die ihm durch Verfassung und Gesetz übertragen werden"
+        "text": "Der Regierungsrat"
       }
     ],
     "68": [
@@ -1562,7 +1480,7 @@
       },
       {
         "num": "2",
-        "text": "Das Weisungsrecht des Regierungsrates gegenüber allen Verwaltungsorganen bleibt vorbehalten; ausgenommen sind insbesondere Rechtsprechungstätigkeiten von Verwaltungsbehörden sowie die Strafverfolgung durch die Staatsanwaltschaft. *"
+        "text": "Das Weisungsrecht des Regierungsrates gegenüber allen Verwaltungsorganen bleibt vorbehalten; ausgenommen sind insbesondere Rechtsprechungstätigkeiten von Verwaltungsbehörden sowie die Strafverfolgung durch die Staatsanwaltschaft.10"
       }
     ],
     "71": [
@@ -1586,11 +1504,11 @@
       },
       {
         "num": "2",
-        "text": "Das Gesetz kann für einzelne Gebiete besondere Rechtspflegeinstanzen und den Einsatz von Fachrichterinnen und Fachrichtern vorsehen. *"
+        "text": "Das Gesetz kann für einzelne Gebiete besondere Rechtspflegeinstanzen und den Einsatz von Fachrichterinnen und Fachrichtern vorsehen.11"
       },
       {
         "num": "3",
-        "text": "… *"
+        "text": "…12"
       }
     ],
     "73": [
@@ -1600,7 +1518,7 @@
       },
       {
         "num": "2",
-        "text": "Die übrigen Mitglieder der Rechtspflegebehörden und ihre Mitarbeiterinnen und Mitarbeiter werden durch das Obergericht beziehungsweise das Kantonsgericht gewählt. Das Obergericht kann die Anstellung der Mitarbeiterinnen und Mitarbeiter delegieren. *"
+        "text": "Die übrigen Mitglieder der Rechtspflegebehörden und ihre Mitarbeiterinnen und Mitarbeiter werden durch das Obergericht beziehungsweise das Kantonsgericht gewählt. Das Obergericht kann die Anstellung der Mitarbeiterinnen und Mitarbeiter delegieren.13"
       }
     ],
     "74": [
@@ -1613,15 +1531,14 @@
         "text": "Der Kanton kann unentgeltlich tätige private Rechtsauskunftsstellen unterstützen."
       }
     ],
-    "75": [],
     "76": [
       {
         "num": "1",
-        "text": "… *"
+        "text": "…15"
       },
       {
         "num": "2",
-        "text": "Unter dem Vorbehalt des Weiterzugs an ein Gericht kann das Gesetz die Ahndung von Übertretungen mit Busse auch Verwaltungsbehörden von Kanton und Gemeinden zuweisen. *"
+        "text": "Unter dem Vorbehalt des Weiterzugs an ein Gericht kann das Gesetz die Ahndung von Übertretungen mit Busse auch Verwaltungsbehörden von Kanton und Gemeinden zuweisen.16"
       },
       {
         "num": "3",
@@ -1635,7 +1552,7 @@
       },
       {
         "num": "2",
-        "text": "… *"
+        "text": "…17"
       }
     ],
     "78": [
@@ -1649,11 +1566,11 @@
       },
       {
         "num": "3",
-        "text": "Es ist Aufsichtsbehörde über alle Gerichte des Kantons und die weiteren Rechtspflegebehörden, welche das Gesetz seiner Aufsicht unterstellt. *"
+        "text": "Es ist Aufsichtsbehörde über alle Gerichte des Kantons und die weiteren Rechtspflegebehörden, welche das Gesetz seiner Aufsicht unterstellt.18"
       },
       {
         "num": "4",
-        "text": "Soweit gesetzliche Vorschriften fehlen oder eine gesetzliche Ermächtigung besteht, erlässt das Obergericht die notwendigen Verordnungen zur Ausübung der richterlichen Tätigkeit. *"
+        "text": "Soweit gesetzliche Vorschriften fehlen oder eine gesetzliche Ermächtigung besteht, erlässt das Obergericht die notwendigen Verordnungen zur Ausübung der richterlichen Tätigkeit.19"
       }
     ],
     "79": [
@@ -1666,10 +1583,6 @@
         "text": "Der Kanton erfüllt eine Aufgabe nur:"
       },
       {
-        "num": null,
-        "text": "a) wenn das private Angebot nicht ausreicht oder b) wenn die Gemeinden sie nicht wirtschaftlich und wirksam erfüllen können oder c) wenn die Wahrung eines öffentlichen Interesses dies erfordert"
-      },
-      {
         "num": "3",
         "text": "Aufgaben sind regelmässig daraufhin zu prüfen, ob sie notwendig und finanzierbar sind und ob ihre Erfüllung wirtschaftlich und wirksam ist."
       },
@@ -1680,7 +1593,7 @@
     ],
     "80": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden sorgen für die öffentliche Sicherheit und schützen das Recht. Sie sichern den öffentlichen Frieden."
       }
     ],
@@ -1776,7 +1689,7 @@
     ],
     "88": [
       {
-        "num": "1",
+        "num": null,
         "text": "Erziehung und Bildung haben zum Ziel, die Entwicklung zu selbstverantwortlichen Persönlichkeiten, den Willen zur sozialen Gerechtigkeit und die Verantwortung für die Umwelt zu fördern."
       }
     ],
@@ -1806,29 +1719,25 @@
     ],
     "91": [
       {
-        "num": "1",
-        "text": "Kanton und Gemeinden:"
-      },
-      {
         "num": null,
-        "text": "a) fördern das aktuelle kulturelle Schaffen und die Pflege des Brauchtums b) erhalten und pflegen Kulturgüter, Denkmäler und schützenswerte Ortsbilder c) erleichtern den Zugang zum kulturellen Leben d) fördern die kulturellen Beziehungen zwischen verschiedenen Volksgruppen, unter den Kantonen und mit dem Ausland e) unterstützen kulturelle Einrichtungen"
+        "text": "Kanton und Gemeinden"
       }
     ],
     "92": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden unterstützen die sinnvolle Freizeitgestaltung, insbesondere die Jugendarbeit und den Sport."
       }
     ],
     "93": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden schaffen günstige Rahmenbedingungen für eine leistungsfähige Wirtschaft."
       }
     ],
     "94": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton kann im Interesse der regionalen Volkswirtschaft eine Bank führen oder sich an einer solchen beteiligen."
       }
     ],
@@ -1868,12 +1777,8 @@
     ],
     "98": [
       {
-        "num": "1",
-        "text": "Der Kanton beschafft sich seine Mittel insbesondere:"
-      },
-      {
         "num": null,
-        "text": "a) durch Erheben von Steuern und anderen Abgaben b) aus den Erträgen seines Vermögens c) aus Leistungen des Bundes und Dritter d) durch die Aufnahme von Darlehen und Anleihen"
+        "text": "Der Kanton beschafft sich seine Mittel insbesondere"
       }
     ],
     "99": [
@@ -1917,7 +1822,7 @@
       },
       {
         "num": "3",
-        "text": "Die Grundsätze der Art. 38 bis 48 gelten auch für die Organe der Gemeinden, soweit sie sich nicht nur auf kantonale Behörden beziehen."
+        "text": "Die Grundsätze der Artikel 38 bis 48 gelten auch für die Organe der Gemeinden, soweit sie sich nicht nur auf kantonale Behörden beziehen."
       },
       {
         "num": "4",
@@ -1946,7 +1851,7 @@
     ],
     "105": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Gemeinden sind im Rahmen von Verfassung und Gesetz befugt, sich selbst zu organisieren, ihre Behörden zu wählen, ihre Aufgaben nach eigenem Ermessen zu erfüllen, die erforderlichen Abgaben zu erheben und ihre öffentlichen Sachen selbständig zu verwalten."
       }
     ],
@@ -1989,7 +1894,7 @@
       },
       {
         "num": "2",
-        "text": "Der Kantonsrat kann weitere Religionsgemeinschaften öffentlich-rechtlich anerkennen. Die Voraussetzungen und Auswirkungen der öffentlich-rechtlichen Anerkennung richten sich sinngemäss nach Art. 109 bis 113."
+        "text": "Der Kantonsrat kann weitere Religionsgemeinschaften öffentlich-rechtlich anerkennen. Die Voraussetzungen und Auswirkungen der öffentlich-rechtlichen Anerkennung richten sich sinngemäss nach Art. 109 bis 113."
       }
     ],
     "109": [
@@ -2058,7 +1963,7 @@
     ],
     "115": [
       {
-        "num": "1",
+        "num": null,
         "text": "Mit einer Teilrevision können einzelne oder sachlich zusammenhängende Verfassungsbestimmungen geändert werden."
       }
     ],
@@ -2079,16 +1984,16 @@
     "117": [
       {
         "num": "1",
-        "text": "Die Kantonsverfassung wird auf einen vom Kantonsrat festgesetzten Zeitpunkt in Kraft gesetzt [1] ."
+        "text": "Die Kantonsverfassung wird auf einen vom Kantonsrat festgesetzten Zeitpunkt in Kraft gesetzt."
       },
       {
         "num": "2",
-        "text": "Auf diesen Zeitpunkt wird die Verfassung des Kantons Schaffhausen vom 24. März 1876 aufgehoben [2] ."
+        "text": "Auf diesen Zeitpunkt wird die Verfassung des Kantons Schaffhausen vom 24. März 1876 aufgehoben."
       }
     ],
     "118": [
       {
-        "num": "1",
+        "num": null,
         "text": "Bestimmungen im bisherigen Recht, welche dieser Verfassung widersprechen, sind aufgehoben."
       }
     ],
@@ -2125,7 +2030,7 @@
     "122": [
       {
         "num": "1",
-        "text": "Das bisherige Recht ist massgebend für Volksinitiativen, die vor dem In-Kraft-Treten dieser Verfassung eingereicht worden sind, sowie für Referenden, die sich gegen Vorlagen richten, die vor diesem Zeitpunkt verabschiedet worden sind."
+        "text": "Das bisherige Recht ist massgebend für Volksinitiativen, die vor dem Inkrafttreten dieser Verfassung eingereicht worden sind, sowie für Referenden, die sich gegen Vorlagen richten, die vor diesem Zeitpunkt verabschiedet worden sind."
       },
       {
         "num": "2",
@@ -2134,8 +2039,8 @@
     ],
     "123": [
       {
-        "num": "1",
-        "text": "Die Verfassung ist im Amtsblatt zu veröffentlichen [3] und in die kantonale Gesetzessammlung aufzunehmen."
+        "num": null,
+        "text": "Die Verfassung ist im Amtsblatt zu veröffentlichen und in die kantonale Gesetzessammlung aufzunehmen."
       }
     ]
   }

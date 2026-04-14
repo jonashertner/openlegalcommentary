@@ -7,7 +7,7 @@
   "lexfind_id": 12769,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 92,
+  "article_count": 123,
   "articles": [
     {
       "number": 1,
@@ -94,6 +94,12 @@
       "title": "Eigentumsgarantie"
     },
     {
+      "number": 15,
+      "suffix": "",
+      "raw": "15",
+      "title": "Träger der politischen Rechte"
+    },
+    {
       "number": 16,
       "suffix": "",
       "raw": "16",
@@ -122,6 +128,12 @@
       "suffix": "",
       "raw": "22",
       "title": "Bürgerpflicht"
+    },
+    {
+      "number": 23,
+      "suffix": "",
+      "raw": "23",
+      "title": ""
     },
     {
       "number": 24,
@@ -262,16 +274,124 @@
       "title": "Wählbarkeit"
     },
     {
+      "number": 47,
+      "suffix": "",
+      "raw": "47",
+      "title": "Ausübung der politischen Rechte"
+    },
+    {
       "number": 48,
       "suffix": "",
       "raw": "48",
       "title": "Amtsdauer"
     },
     {
+      "number": 49,
+      "suffix": "",
+      "raw": "49",
+      "title": "Amtszeitbeschränkung"
+    },
+    {
+      "number": 50,
+      "suffix": "",
+      "raw": "50",
+      "title": "Unvereinbarkeit der Amtspflichten von Angestellten *"
+    },
+    {
+      "number": 51,
+      "suffix": "",
+      "raw": "51",
+      "title": "Unvereinbarkeit in der Person"
+    },
+    {
+      "number": 52,
+      "suffix": "",
+      "raw": "52",
+      "title": "Amtsjahr"
+    },
+    {
+      "number": 53,
+      "suffix": "",
+      "raw": "53",
+      "title": ""
+    },
+    {
+      "number": 54,
+      "suffix": "",
+      "raw": "54",
+      "title": "Haftung"
+    },
+    {
+      "number": 55,
+      "suffix": "",
+      "raw": "55",
+      "title": "Amtseid und Amtsgelübde"
+    },
+    {
       "number": 56,
       "suffix": "",
       "raw": "56",
       "title": "Öffentlichkeit der Sitzungen"
+    },
+    {
+      "number": 57,
+      "suffix": "",
+      "raw": "57",
+      "title": "Wahlen"
+    },
+    {
+      "number": 58,
+      "suffix": "",
+      "raw": "58",
+      "title": "Sachabstimmungen\n1. Obligatorische"
+    },
+    {
+      "number": 59,
+      "suffix": "",
+      "raw": "59",
+      "title": "2. Fakultative"
+    },
+    {
+      "number": 60,
+      "suffix": "",
+      "raw": "60",
+      "title": "Gesetzesvorbehalt"
+    },
+    {
+      "number": 61,
+      "suffix": "",
+      "raw": "61",
+      "title": "Volksbegehren\n1. Zustandekommen"
+    },
+    {
+      "number": 62,
+      "suffix": "",
+      "raw": "62",
+      "title": "2. Form"
+    },
+    {
+      "number": 63,
+      "suffix": "",
+      "raw": "63",
+      "title": "3. Inhalt"
+    },
+    {
+      "number": 64,
+      "suffix": "",
+      "raw": "64",
+      "title": "4. Behandlung"
+    },
+    {
+      "number": 65,
+      "suffix": "",
+      "raw": "65",
+      "title": ""
+    },
+    {
+      "number": 66,
+      "suffix": "",
+      "raw": "66",
+      "title": "Zusammensetzung und Wahlverfahren"
     },
     {
       "number": 67,
@@ -286,16 +406,34 @@
       "title": "Einberufung"
     },
     {
+      "number": 69,
+      "suffix": "",
+      "raw": "69",
+      "title": "Wahlbefugnisse"
+    },
+    {
       "number": 70,
       "suffix": "",
       "raw": "70",
       "title": "Sachbefugnisse"
     },
     {
+      "number": 71,
+      "suffix": "",
+      "raw": "71",
+      "title": ""
+    },
+    {
       "number": 72,
       "suffix": "",
       "raw": "72",
       "title": "Verordnungsbefugnisse"
+    },
+    {
+      "number": 73,
+      "suffix": "",
+      "raw": "73",
+      "title": ""
     },
     {
       "number": 74,
@@ -316,6 +454,18 @@
       "title": "Regierungsbefugnisse"
     },
     {
+      "number": 77,
+      "suffix": "",
+      "raw": "77",
+      "title": "Unabhängigkeit und Aufsicht"
+    },
+    {
+      "number": 77,
+      "suffix": "a",
+      "raw": "77a",
+      "title": "Gerichtsverwaltung"
+    },
+    {
       "number": 78,
       "suffix": "",
       "raw": "78",
@@ -326,6 +476,12 @@
       "suffix": "",
       "raw": "79",
       "title": "Zivilrechtspflege"
+    },
+    {
+      "number": 80,
+      "suffix": "",
+      "raw": "80",
+      "title": "Strafrechtspflege"
     },
     {
       "number": 81,
@@ -436,6 +592,12 @@
       "title": "Befugnisse"
     },
     {
+      "number": 99,
+      "suffix": "",
+      "raw": "99",
+      "title": "Zuständigkeit des Bürgergemeinderates"
+    },
+    {
       "number": 100,
       "suffix": "",
       "raw": "100",
@@ -502,6 +664,18 @@
       "title": "Abänderlichkeit"
     },
     {
+      "number": 111,
+      "suffix": "",
+      "raw": "111",
+      "title": "Teilrevision"
+    },
+    {
+      "number": 112,
+      "suffix": "",
+      "raw": "112",
+      "title": "Gesamtrevision"
+    },
+    {
       "number": 113,
       "suffix": "",
       "raw": "113",
@@ -544,10 +718,22 @@
       "title": "Wahlen"
     },
     {
+      "number": 119,
+      "suffix": "a",
+      "raw": "119a",
+      "title": "Anpassung an Partnerschaftsgesetz"
+    },
+    {
       "number": 120,
       "suffix": "",
       "raw": "120",
       "title": "Anpassung des Gemeindeabstimmungsgesetzes"
+    },
+    {
+      "number": 120,
+      "suffix": "a",
+      "raw": "120a",
+      "title": "Anpassung des Staatsverwaltungsgesetzes"
     },
     {
       "number": 121,
@@ -715,6 +901,12 @@
         "text": "Das Enteignungsverfahren wird durch Gesetz geregelt."
       }
     ],
+    "15": [
+      {
+        "num": "1",
+        "text": "Träger der politischen Rechte ist jeder im Kanton wohnhafte Kantonsbürger und niedergelassene Schweizerbürger, der das achtzehnte Altersjahr zurückgelegt hat und dem nicht gestützt auf die Gesetzgebung das Aktivbürgerrecht entzogen ist."
+      }
+    ],
     "16": [
       {
         "num": "1",
@@ -734,7 +926,15 @@
     "20": [
       {
         "num": "1",
-        "text": "Der Aktivbürger kann im Kanton und in seiner Wohngemeinde 1. an Wahlen und Abstimmungen teilnehmen; 2. vom Recht der Initiative und des Referendums Gebrauch machen; 3. nach Massgabe der Gesetzgebung in eine Behörde oder in ein öffentliches Amt gewählt werden."
+        "text": "Der Aktivbürger kann im Kanton und in seiner Wohngemeinde 1. an Wahlen und Abstimmungen teilnehmen;"
+      },
+      {
+        "num": null,
+        "text": "2. vom Recht der Initiative und des Referendums Gebrauch machen;"
+      },
+      {
+        "num": null,
+        "text": "3. nach Massgabe der Gesetzgebung in eine Behörde oder in ein öffentliches Amt gewählt werden."
       }
     ],
     "21": [
@@ -761,6 +961,7 @@
         "text": "Jedermann hat bei allen Vorlagen und Wahlen so zu stimmen, wie er es in seinem Gewissen verantworten kann."
       }
     ],
+    "23": [],
     "24": [
       {
         "num": "1",
@@ -995,6 +1196,16 @@
         "text": "… *"
       }
     ],
+    "47": [
+      {
+        "num": "1",
+        "text": "Das Verfahren bei Initiative und Referendum sowie das Abstimmungs- und Wahlverfahren wird durch die Gesetzgebung geregelt."
+      },
+      {
+        "num": "2",
+        "text": "Die Gesetzgebung bestimmt die Durchführung von Urnenverfahren bei Geschäften, die in die Zuständigkeit der Gemeindeversammlung fallen."
+      }
+    ],
     "48": [
       {
         "num": "1",
@@ -1009,6 +1220,91 @@
         "text": "Während einer Amtsdauer frei gewordene Stellen sind für den Rest der Amtsdauer neu zu besetzen."
       }
     ],
+    "49": [
+      {
+        "num": "1",
+        "text": "Die Amtszeit für die Mitglieder des Kantonsrates, der Gerichte sowie der Gemeinderäte ist auf sechzehn Jahre beschränkt."
+      },
+      {
+        "num": "2",
+        "text": "Davon ausgenommen sind die Gerichtspräsidenten. *"
+      }
+    ],
+    "50": [
+      {
+        "num": "1",
+        "text": "Wer in einem voll- oder hauptamtlichen Dienst- oder Arbeitsverhältnis mit dem Kanton steht, ist nicht in eine übergeordnete kantonale Behörde oder einen Einwohner- bzw. Bezirksgemeinderat wählbar. Die Gesetzgebung kann weitere Einschränkungen vorsehen."
+      },
+      {
+        "num": "2",
+        "text": "Wer in einem voll- oder hauptamtlichen Dienst- oder Arbeitsverhältnis mit einer Gemeinde steht, ist nicht in eine übergeordnete Gemeindebehörde wählbar."
+      },
+      {
+        "num": "3",
+        "text": "Wer in einem voll- oder hauptamtlichen Dienst- oder Arbeitsverhältnis einer öffentlich-rechtlichen Anstalt steht, kann nicht in die Wahlbehörde gewählt werden."
+      }
+    ],
+    "51": [
+      {
+        "num": "1",
+        "text": "Dem Regierungsrat, dem Kantonsrat, einem Gericht, einer anderen Rechtspflegebehörde, einer Kommission oder einer Gemeindebehörde dürfen nicht gleichzeitig angehören: * 1. Personen, die in gerader Linie oder bis und mit dem dritten Grad der Seitenlinie blutsverwandt oder verschwägert sind;"
+      },
+      {
+        "num": null,
+        "text": "2. Ehegatten sowie Ehegatten von Geschwistern;"
+      },
+      {
+        "num": null,
+        "text": "3. eingetragene Partner sowie eingetragene Partner von Geschwistern;"
+      },
+      {
+        "num": null,
+        "text": "4. Personen, die in faktischer Lebensgemeinschaft leben."
+      },
+      {
+        "num": "2",
+        "text": "Die auf einer Ehe oder einer eingetragenen Partnerschaft beruhende Unvereinbarkeit in der Person bleibt auch nach deren Auflösung bestehen."
+      },
+      {
+        "num": "3",
+        "text": "Über den durch Unvereinbarkeit in der Person bedingten Rücktritt entscheidet nötigenfalls das Los."
+      }
+    ],
+    "52": [
+      {
+        "num": "1",
+        "text": "Das Amtsjahr der kantonalen und kommunalen Behörden beginnt, soweit die Gesetzgebung bzw. die Gemeindeordnung keine abweichende Bestimmungen enthält, am 1. Juli und endet am 30. Juni."
+      },
+      {
+        "num": "2",
+        "text": "Rücktritte sind auf das Ende eines Amtsjahres möglich. Die Gesetzgebung kann Ausnahmen für einen vorzeitigen Rücktritt festlegen."
+      }
+    ],
+    "53": [],
+    "54": [
+      {
+        "num": "1",
+        "text": "Kanton, Gemeinden und andere öffentlich-rechtliche Körperschaften und Anstalten haften für den Schaden, den ihre Organe bei der Ausübung einer hoheitlichen Tätigkeit widerrechtlich verursachen."
+      },
+      {
+        "num": "2",
+        "text": "Sie haften auch für Schäden, die ihre Organe rechtmässig verursacht haben, wenn einzelne davon schwer betroffen sind und ihnen nicht zugemutet werden kann, den Schaden selber zu tragen."
+      },
+      {
+        "num": "3",
+        "text": "Behördenmitglieder und Angestellte sind nach Massgabe des Gesetzes für ihre Amtshandlungen verantwortlich."
+      }
+    ],
+    "55": [
+      {
+        "num": "1",
+        "text": "Die Mitglieder des Kantonsrates, des Regierungsrates und der Gerichte legen zu Beginn der Amtsdauer auf die Verfassung und die Gesetze sowie auf die getreue Erfüllung ihrer amtlichen Pflichten den Amtseid oder das Amtsgelübde ab."
+      },
+      {
+        "num": "2",
+        "text": "Die Gesetzgebung bestimmt im übrigen, wer einen Amtseid oder ein Amtsgelübde zu leisten hat."
+      }
+    ],
     "56": [
       {
         "num": "1",
@@ -1017,6 +1313,105 @@
       {
         "num": "2",
         "text": "Die Gesetzgebung bestimmt die im Interesse des Staates oder Privater gebotenen Ausnahmen von der Öffentlichkeit und den Umfang des Rechtes auf Akteneinsicht."
+      }
+    ],
+    "57": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten wählen an der Urne:"
+      },
+      {
+        "num": null,
+        "text": "a. den Kantonsrat und den Verfassungsrat; b. den Regierungsrat; c. das Mitglied des Ständerates; d. die Präsidien des Obergerichts, des Verwaltungsgerichts und des Kantonsgerichts; e. die Mitglieder des Obergerichts, des Verwaltungsgerichts und des Kantonsgerichts."
+      }
+    ],
+    "58": [
+      {
+        "num": "1",
+        "text": "Der Abstimmung an der Urne unterliegen:"
+      },
+      {
+        "num": null,
+        "text": "a. der Erlass und die Änderung der Kantonsverfassung sowie der Beschluss über die Gesamtrevision; b. das Standesinitiativrecht des Kantons nach Art. 93 Abs. 2 der Bundesverfassung [2] , wenn es durch ein Volksbegehren verlangt wird und ihm der Kantonsrat nicht zustimmt; c. die rechtsgültig zu Stande gekommenen Volksbegehren betreffend Gesetze und Finanzbeschlüsse, sofern der Kantonsrat den Volksbegehren nicht zustimmt oder ihnen einen Gegenvorschlag gegenüberstellt."
+      }
+    ],
+    "59": [
+      {
+        "num": "1",
+        "text": "Auf Verlangen sind der Abstimmung zu unterbreiten:"
+      },
+      {
+        "num": null,
+        "text": "a. der Erlass, die Änderung oder die Aufhebung von Gesetzen; b. die Beschlussfassung über alle frei bestimmbaren, für den gleichen Zweck bestimmten, einmaligen Ausgaben von mehr als einer Million Franken und jährlich wiederkehrenden Ausgaben von mehr als 200 000 Franken."
+      },
+      {
+        "num": "2",
+        "text": "Die Volksabstimmung ist durchzuführen:"
+      },
+      {
+        "num": null,
+        "text": "a. wenn ein Drittel der Mitglieder des Kantonsrates dies verlangt; b. wenn sie binnen 30 Tagen seit der amtlichen Veröffentlichung des Erlasses oder Beschlusses von 100 Stimmberechtigten verlangt wird."
+      }
+    ],
+    "60": [
+      {
+        "num": "1",
+        "text": "In der Form des Gesetzes sind die generellen Bestimmungen zu erlassen, die Rechte und Pflichten der natürlichen und juristischen Personen sowie die Organisation von Kanton und Gemeinden allgemein gültig festlegen."
+      }
+    ],
+    "61": [
+      {
+        "num": "1",
+        "text": "Ein Volksbegehren kommt zu Stande, wenn:"
+      },
+      {
+        "num": null,
+        "text": "a. 500 Stimmberechtigte die Gesamtrevision oder die Teilrevision der Kantonsverfassung verlangen; b. 500 Stimmberechtigte den Erlass, die Aufhebung oder die Änderung eines Gesetzes oder eines der fakultativen Abstimmung unterstehenden Finanzbeschlusses verlangen; c. 500 Stimmberechtigte verlangen, das dem Kanton nach Art. 93 Abs. 2 der Bundesverfassung [3] zustehende Standesinitiativrecht auszuüben."
+      },
+      {
+        "num": "2",
+        "text": "Eine Volksmotion kommt zu Stande, wenn ein Stimmberechtigter oder ein Gemeinderat den Erlass, die Aufhebung oder die Änderung eines Gesetzes oder eines der fakultativen Abstimmung unterstehenden Finanzbeschlusses verlangt und das Begehren vom Kantonsrat unterstützt wird."
+      }
+    ],
+    "62": [
+      {
+        "num": "1",
+        "text": "Volksbegehren können als allgemeine Anregung oder, wenn sie nicht die Gesamtrevision der Verfassung verlangen, als ausgearbeitete Vorlage eingereicht werden."
+      }
+    ],
+    "63": [
+      {
+        "num": "1",
+        "text": "Volksbegehren dürfen nichts enthalten, was dem Bundesrecht oder, sofern sie nicht eine Verfassungsrevision verlangen, der Kantonsverfassung widerspricht."
+      },
+      {
+        "num": "2",
+        "text": "Sie dürfen sich nur auf ein bestimmtes Sachgebiet beziehen und müssen eine Begründung enthalten."
+      }
+    ],
+    "64": [
+      {
+        "num": "1",
+        "text": "Ein als allgemeine Anregung gestelltes verfassungsmässiges Volksbegehren ist innert Jahresfrist der Volksabstimmung zu unterbreiten, sofern ihm der Kantonsrat nicht zustimmt. Stimmt ihm der Kantonsrat zu oder wird es vom Volk angenommen, so hat der Kantonsrat eine Vorlage auszuarbeiten, die innert zwei Jahren der Urnenabstimmung unterbreitet werden kann."
+      },
+      {
+        "num": "2",
+        "text": "Der Kantonsrat hat ein verfassungsmässiges Volksbegehren in der Form der ausgearbeiteten Vorlage so zu behandeln, dass es innert zwei Jahren zusammen mit einem allfälligen Gegenvorschlag der Volksabstimmung unterbreitet werden kann."
+      }
+    ],
+    "65": [],
+    "66": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat besteht aus 55 Mitgliedern. Er wird nach dem Verhältniswahlverfahren gewählt."
+      },
+      {
+        "num": "2",
+        "text": "Die Sitze werden auf die Einwohnergemeinden entsprechend der Wohnbevölkerung verteilt. Massgebend ist der Stand der Einwohnerkontrolle am 31. Dezember des zweiten der Wahl vorausgehenden Jahres. Jede Einwohnergemeinde hat Anspruch auf mindestens vier Kantonsratssitze."
+      },
+      {
+        "num": "3",
+        "text": "Alle vier Jahre haben Gesamterneuerungswahlen stattzufinden."
       }
     ],
     "67": [
@@ -1043,18 +1438,98 @@
         "text": "a. wenn es die Geschäftsordnung vorsieht oder wenn es der Rat beschliesst; b. auf Verlangen des Regierungsrates; c. wenn ein Drittel der Ratsmitglieder die Einberufung unter Nennung der zu behandelnden Gegenstände schriftlich verlangt."
       }
     ],
+    "69": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat wählt jedes Jahr aus der Mitte des Regierungsrates den Landammann und den Landstatthalter. Der Landammann ist für die nächste Amtsdauer in dieses Amt nicht wieder wählbar. Ein Regierungsratsmitglied darf insgesamt nicht mehr als viermal das Landammannamt bekleiden."
+      },
+      {
+        "num": "2",
+        "text": "Der Kantonsrat wählt ferner auf die verfassungsmässige Amtsdauer:"
+      },
+      {
+        "num": null,
+        "text": "a. die Vizepräsidenten des Obergerichts, des Verwaltungsgerichts und des Kantonsgerichts aus den Mitgliedern dieser Gerichte; b. auf Vorschlag des Regierungsrates den Landschreiber; c. * die Staatsanwälte, aus deren Reihe den Oberstaatsanwalt und den stellvertretenden Oberstaatsanwalt, sowie den Jugendanwalt und dessen Stellvertreter; d.–e. * … f. die kantonale Geschäfts- und Rechnungsprüfungskommission; g. weitere Behörden und Kommissionen, deren Wahl durch die Gesetzgebung dem Kantonsrat übertragen ist."
+      }
+    ],
     "70": [
       {
         "num": "1",
-        "text": "In die Zuständigkeit des Kantonsrates fallen sodann: 1. die Beratung von Vorlagen und die Antragstellung zuhanden der Volksabstimmung; 2. die Interpretation der Kantonsverfassung, der Gesetze und der Verordnungen, jedoch nie in einem vor dem Richter anhängigen Fall; 3. die Oberaufsicht über die Staatsverwaltung und die Rechtspflege, insbesondere die Prüfung und Genehmigung der Rechenschaftsberichte; 4. die Aufstellung des jährlichen Voranschlages sowie die Prüfung und Genehmigung der Staats-, Verwaltungs- und Fondsrechnungen; 5. * die Beschlussfassung über alle Ausgaben, die durch das Bundesrecht dem Kanton vorgeschrieben sind oder für die dem Kantonsrat durch Gesetz Vollmacht erteilt ist, sowie, unter dem Vorbehalt des Finanzreferendums, über alle frei bestimmbaren, für den gleichen Zweck bestimmten, einmaligen Ausgaben und jährlich wiederkehrenden Ausgaben, die nicht in die Zuständigkeit des Regierungsrates fallen; 6. * der Erwerb von Grundstücken zur Sicherung von Landreserven für kantonale Aufgaben; 7. die Beschlussfassung über die Aufnahme und Erneuerung langfristiger Anleihen; 8. * die Ausübung des Begnadigungsrechtes bei Freiheitsstrafen; 9. der Entscheid über Kompetenzkonflikte zwischen kantonalen Behörden unter sich sowie zwischen einer kantonalen und einer kommunalen Behörde; 10. * der Entscheid über die verfassungsmässige Zulässigkeit und die Behandlung der eingereichten Volksbegehren; 11. * … 12. die Ausübung der dem Kanton gemäss Bundesverfassung gegenüber dem Bunde zustehenden Rechte; 13. * der Entscheid über den Beitritt zu interkantonalen Vereinbarungen sowie über den Abschluss von Rechtsgeschäften mit dem Bistum, unter Vorbehalt des Finanzreferendums und soweit diese Befugnisse nicht durch die Gesetzgebung dem Regierungsrat übertragen sind; 14. alle übrigen ihm durch die Gesetzgebung übertragenen Aufgaben."
+        "text": "In die Zuständigkeit des Kantonsrates fallen sodann:"
+      },
+      {
+        "num": null,
+        "text": "1. die Beratung von Vorlagen und die Antragstellung zuhanden der Volksabstimmung;"
+      },
+      {
+        "num": null,
+        "text": "2. die Interpretation der Kantonsverfassung, der Gesetze und der Verordnungen, jedoch nie in einem vor dem Richter anhängigen Fall;"
+      },
+      {
+        "num": null,
+        "text": "3. die Oberaufsicht über die Staatsverwaltung und die Rechtspflege, insbesondere die Prüfung und Genehmigung der Rechenschaftsberichte;"
+      },
+      {
+        "num": null,
+        "text": "4. die Aufstellung des jährlichen Voranschlages sowie die Prüfung und Genehmigung der Staats-, Verwaltungs- und Fondsrechnungen;"
+      },
+      {
+        "num": null,
+        "text": "5. * die Beschlussfassung über alle Ausgaben, die durch das Bundesrecht dem Kanton vorgeschrieben sind oder für die dem Kantonsrat durch Gesetz Vollmacht erteilt ist, sowie, unter dem Vorbehalt des Finanzreferendums, über alle frei bestimmbaren, für den gleichen Zweck bestimmten, einmaligen Ausgaben und jährlich wiederkehrenden Ausgaben, die nicht in die Zuständigkeit des Regierungsrates fallen;"
+      },
+      {
+        "num": null,
+        "text": "6. * der Erwerb von Grundstücken zur Sicherung von Landreserven für kantonale Aufgaben;"
+      },
+      {
+        "num": null,
+        "text": "7. die Beschlussfassung über die Aufnahme und Erneuerung langfristiger Anleihen;"
+      },
+      {
+        "num": null,
+        "text": "8. * die Ausübung des Begnadigungsrechtes bei Freiheitsstrafen;"
+      },
+      {
+        "num": null,
+        "text": "9. der Entscheid über Kompetenzkonflikte zwischen kantonalen Behörden unter sich sowie zwischen einer kantonalen und einer kommunalen Behörde;"
+      },
+      {
+        "num": null,
+        "text": "10. * der Entscheid über die verfassungsmässige Zulässigkeit und die Behandlung der eingereichten Volksbegehren;"
+      },
+      {
+        "num": null,
+        "text": "11. * … 12. die Ausübung der dem Kanton gemäss Bundesverfassung gegenüber dem Bunde zustehenden Rechte;"
+      },
+      {
+        "num": null,
+        "text": "13. * der Entscheid über den Beitritt zu interkantonalen Vereinbarungen sowie über den Abschluss von Rechtsgeschäften mit dem Bistum, unter Vorbehalt des Finanzreferendums und soweit diese Befugnisse nicht durch die Gesetzgebung dem Regierungsrat übertragen sind;"
+      },
+      {
+        "num": null,
+        "text": "14. alle übrigen ihm durch die Gesetzgebung übertragenen Aufgaben."
       }
     ],
+    "71": [],
     "72": [
       {
         "num": "1",
-        "text": "Der Kantonsrat ist zuständig für den Erlass von: 1. selbständigen Verordnungen in untergeordneten Fragen; 2. Vollziehungsverordnungen zu bundesrechtlichen Vorschriften und zu kantonalen Gesetzen; 3. Verordnungen, die auf Gesetzesdelegation beruhen."
+        "text": "Der Kantonsrat ist zuständig für den Erlass von:"
+      },
+      {
+        "num": null,
+        "text": "1. selbständigen Verordnungen in untergeordneten Fragen;"
+      },
+      {
+        "num": null,
+        "text": "2. Vollziehungsverordnungen zu bundesrechtlichen Vorschriften und zu kantonalen Gesetzen;"
+      },
+      {
+        "num": null,
+        "text": "3. Verordnungen, die auf Gesetzesdelegation beruhen."
       }
     ],
+    "73": [],
     "74": [
       {
         "num": "1",
@@ -1072,7 +1547,19 @@
     "75": [
       {
         "num": "1",
-        "text": "Der Regierungsrat ist zuständig für den Erlass von: 1. Ausführungsbestimmungen zu bundesrechtlichen Vorschriften, sofern sie sich darauf beschränken, das Verfahren und die Zuständigkeit zu regeln; 2. * Ausführungsbestimmungen zu kantonalen Gesetzen, welche die Delegation an den Regierungsrat vorsehen, und zu kantonsrätlichen Verordnungen; 3. zeitlich befristeten Noterlassen. Diese sind sobald als möglich dem Kantonsrat zu unterbreiten, der über ihre weitere Geltung und Befristung entscheidet."
+        "text": "Der Regierungsrat ist zuständig für den Erlass von:"
+      },
+      {
+        "num": null,
+        "text": "1. Ausführungsbestimmungen zu bundesrechtlichen Vorschriften, sofern sie sich darauf beschränken, das Verfahren und die Zuständigkeit zu regeln;"
+      },
+      {
+        "num": null,
+        "text": "2. * Ausführungsbestimmungen zu kantonalen Gesetzen, welche die Delegation an den Regierungsrat vorsehen, und zu kantonsrätlichen Verordnungen;"
+      },
+      {
+        "num": null,
+        "text": "3. zeitlich befristeten Noterlassen. Diese sind sobald als möglich dem Kantonsrat zu unterbreiten, der über ihre weitere Geltung und Befristung entscheidet."
       }
     ],
     "76": [
@@ -1082,7 +1569,75 @@
       },
       {
         "num": "2",
-        "text": "Er ist namentlich befugt: 1. die Verfassung, Gesetze und Verordnungen durch eigene Verfügungen sowie durch Anweisungen an die Verwaltung zu vollziehen; 2. die Beschlüsse und Entscheidungen anderer kantonaler Behörden zu vollstrecken, soweit diese Befugnisse nicht besonderen Organen vorbehalten ist; 3. * die Organisation der kantonalen Verwaltung zu bestimmen sowie die Wahlen und Anstellungen vorzunehmen, soweit in der Gesetzgebung die Organisation nicht anders festgelegt oder die Wahl und die Anstellung nicht einer andern Instanz übertragen ist; 4. die gesamte Staatsverwaltung zu überwachen und die Gemeinden, Korporationen und sich selbst verwaltenden Körperschaften und Anstalten nach Massgabe der Gesetzgebung zu beaufsichtigen; 5. die Beschwerden gegen die Departemente, Gemeinden und Korporationen zu beurteilen, soweit nicht ein Gericht zuständig ist; 6. die kantonalen Konzessionen zu verleihen; 7. Bewilligungen und Patente zu erteilen, soweit dies nach der Gesetzgebung keiner andern Behörde übertragen ist; 8. * unter Vorbehalt weitergehender, ihm durch die Gesetzgebung oder durch Beschluss des Kantonsrates übertragener Vollmachten frei bestimmbare, für den gleichen Zweck bestimmte, einmalige Ausgaben bis 200 000 Franken und jährlich wiederkehrende Ausgaben bis 50 000 Franken zu beschliessen; 9. das Kantonsvermögen zu verwalten, insbesondere die kantonalen Gebäude und Anlagen zu unterhalten; 10. Vernehmlassungen zu erstatten; 11. * … 12. * das Begnadigungsrecht auszuüben, soweit dieses nicht dem Kantonsrat vorbehalten ist; 13. alle übrigen ihm durch die Gesetzgebung übertragenen Aufgaben zu erfüllen."
+        "text": "Er ist namentlich befugt:"
+      },
+      {
+        "num": null,
+        "text": "1. die Verfassung, Gesetze und Verordnungen durch eigene Verfügungen sowie durch Anweisungen an die Verwaltung zu vollziehen;"
+      },
+      {
+        "num": null,
+        "text": "2. die Beschlüsse und Entscheidungen anderer kantonaler Behörden zu vollstrecken, soweit diese Befugnisse nicht besonderen Organen vorbehalten ist;"
+      },
+      {
+        "num": null,
+        "text": "3. * die Organisation der kantonalen Verwaltung zu bestimmen sowie die Wahlen und Anstellungen vorzunehmen, soweit in der Gesetzgebung die Organisation nicht anders festgelegt oder die Wahl und die Anstellung nicht einer andern Instanz übertragen ist;"
+      },
+      {
+        "num": null,
+        "text": "4. die gesamte Staatsverwaltung zu überwachen und die Gemeinden, Korporationen und sich selbst verwaltenden Körperschaften und Anstalten nach Massgabe der Gesetzgebung zu beaufsichtigen;"
+      },
+      {
+        "num": null,
+        "text": "5. die Beschwerden gegen die Departemente, Gemeinden und Korporationen zu beurteilen, soweit nicht ein Gericht zuständig ist;"
+      },
+      {
+        "num": null,
+        "text": "6. die kantonalen Konzessionen zu verleihen;"
+      },
+      {
+        "num": null,
+        "text": "7. Bewilligungen und Patente zu erteilen, soweit dies nach der Gesetzgebung keiner andern Behörde übertragen ist;"
+      },
+      {
+        "num": null,
+        "text": "8. * unter Vorbehalt weitergehender, ihm durch die Gesetzgebung oder durch Beschluss des Kantonsrates übertragener Vollmachten frei bestimmbare, für den gleichen Zweck bestimmte, einmalige Ausgaben bis 200 000 Franken und jährlich wiederkehrende Ausgaben bis 50 000 Franken zu beschliessen;"
+      },
+      {
+        "num": null,
+        "text": "9. das Kantonsvermögen zu verwalten, insbesondere die kantonalen Gebäude und Anlagen zu unterhalten;"
+      },
+      {
+        "num": null,
+        "text": "10. Vernehmlassungen zu erstatten;"
+      },
+      {
+        "num": null,
+        "text": "11. * … 12. * das Begnadigungsrecht auszuüben, soweit dieses nicht dem Kantonsrat vorbehalten ist;"
+      },
+      {
+        "num": null,
+        "text": "13. alle übrigen ihm durch die Gesetzgebung übertragenen Aufgaben zu erfüllen."
+      }
+    ],
+    "77": [
+      {
+        "num": "1",
+        "text": "In der Rechtsprechung sind die Gerichte unabhängig und nur Gesetz und Recht unterworfen."
+      },
+      {
+        "num": "2",
+        "text": "Die Gerichtsbehörden unterstehen der Aufsicht des Obergerichtes und der Oberaufsicht des Kantonsrates."
+      }
+    ],
+    "77a": [
+      {
+        "num": "1",
+        "text": "Die Gerichtsverwaltung ist nach Massgabe des Gesetzes Sache der Gerichte. Das Obergericht vertritt dabei die Gerichte im Verkehr mit andern Behörden. Es erstattet dem Kantonsrat regelmässig einen Rechenschaftsbericht über die Rechtspflege."
+      },
+      {
+        "num": "2",
+        "text": "Die Gerichtspräsidenten sind befugt, unter Vorbehalt weitergehender, ihnen durch die Gesetzgebung oder durch Beschluss des Kantonsrates übertragener Vollmachten, Ausgaben im Rahmen des genehmigten Voranschlags zu tätigen."
       }
     ],
     "78": [
@@ -1099,6 +1654,16 @@
       {
         "num": "2",
         "text": "… *"
+      }
+    ],
+    "80": [
+      {
+        "num": "1",
+        "text": "Die Strafrechtspflege üben aus: die Staatsanwaltschaft, das Kantonsgerichtspräsidium, das Kantonsgericht und das Obergericht oder sein Präsidium."
+      },
+      {
+        "num": "2",
+        "text": "Die Jugendstrafrechtspflege wird durch die Jugendanwaltschaft, das Kantonsgerichtspräsidium, das Kantonsgericht als Jugendgericht und das Obergericht oder sein Präsidium ausgeübt."
       }
     ],
     "81": [
@@ -1206,7 +1771,19 @@
     "90": [
       {
         "num": "1",
-        "text": "Als Gemeinden gelten: 1. die Einwohner- und Bezirksgemeinden; 2. die Bürgergemeinden; 3. die Kirchgemeinden."
+        "text": "Als Gemeinden gelten:"
+      },
+      {
+        "num": null,
+        "text": "1. die Einwohner- und Bezirksgemeinden;"
+      },
+      {
+        "num": null,
+        "text": "2. die Bürgergemeinden;"
+      },
+      {
+        "num": null,
+        "text": "3. die Kirchgemeinden."
       }
     ],
     "91": [
@@ -1240,17 +1817,85 @@
     "93": [
       {
         "num": "1",
-        "text": "In die Zuständigkeit der Gemeindeversammlung fallen: 1. die Festsetzung der Zahl der Gemeinderäte im Rahmen von fünf bis dreizehn Mitgliedern; 2. auf die Amtsdauer von vier Jahren die Wahl"
+        "text": "In die Zuständigkeit der Gemeindeversammlung fallen:"
       },
       {
         "num": null,
-        "text": "a. der Gemeinderäte, b. der Mitglieder des Kantonsrates, c. * … d. des Gemeindeweibels, e. der Rechnungsprüfungskommission; 3. * die Wahl des Präsidenten und Vizepräsidenten des Rates, in Engelberg mit der Benennung Talammann und Statthalter, auf die Amtsdauer von einem Jahr, soweit die Gemeindeordnung keine längere Amtsdauer vorsieht; 4. der Entscheid über den Erlass, die Aufhebung oder Abänderung von Verordnungen und allgemeinverbindlichen Reglementen, sofern ein Initiativantrag eingereicht oder das Referendum ergriffen worden ist; 5. * alljährlich die Genehmigung der Gemeinderechnung und des Voranschlags; 6. die Festsetzung des Steuerfusses; 7. die Beschlussfassung über Anträge des Gemeinderates und der Stimmbürger."
+        "text": "1. die Festsetzung der Zahl der Gemeinderäte im Rahmen von fünf bis dreizehn Mitgliedern;"
+      },
+      {
+        "num": null,
+        "text": "2. auf die Amtsdauer von vier Jahren die Wahl"
+      },
+      {
+        "num": null,
+        "text": "a. der Gemeinderäte, b. der Mitglieder des Kantonsrates, c. * … d. des Gemeindeweibels, e. der Rechnungsprüfungskommission;"
+      },
+      {
+        "num": null,
+        "text": "3. * die Wahl des Präsidenten und Vizepräsidenten des Rates, in Engelberg mit der Benennung Talammann und Statthalter, auf die Amtsdauer von einem Jahr, soweit die Gemeindeordnung keine längere Amtsdauer vorsieht;"
+      },
+      {
+        "num": null,
+        "text": "4. der Entscheid über den Erlass, die Aufhebung oder Abänderung von Verordnungen und allgemeinverbindlichen Reglementen, sofern ein Initiativantrag eingereicht oder das Referendum ergriffen worden ist;"
+      },
+      {
+        "num": null,
+        "text": "5. * alljährlich die Genehmigung der Gemeinderechnung und des Voranschlags;"
+      },
+      {
+        "num": null,
+        "text": "6. die Festsetzung des Steuerfusses;"
+      },
+      {
+        "num": null,
+        "text": "7. die Beschlussfassung über Anträge des Gemeinderates und der Stimmbürger."
       }
     ],
     "94": [
       {
         "num": "1",
-        "text": "Dem Gemeinderat obliegen: 1. die Genehmigung des Protokolls der Gemeindeversammlung; 2. der Vollzug der Beschlüsse der Gemeindeversammlung; 3. die Handhabung der Verfassung, der Gesetze, Verordnungen und Reglemente sowie der Vollzug von Beschlüssen und Anordnungen kantonaler Behörden; 4. die Vorbereitung der Anträge an die Gemeindeversammlung; 5. die Sorge für öffentliche Ruhe, Ordnung, Sittlichkeit und Gesundheit; 6. die Aufstellung des Voranschlages; 7. * die Beschlussfassung über alle frei bestimmbaren, für den gleichen Zweck bestimmten, einmaligen Ausgaben bis 50 000 Franken und jährlich wiederkehrenden Ausgaben bis 10 000 Franken, soweit die Gemeinde in der Gemeindeordnung nicht abweichende Ausgabengrenzen vorsieht, ferner über Ausgaben, die der Gemeinde durch die Gesetzgebung vorgeschrieben oder für welche durch die Gesetzgebung oder einen Beschluss der Gemeindeversammlung dem Gemeinderat weitergehende Vollmachten übertragen sind, sowie über Ausgaben für den Unterhalt der im Besitz der Gemeinde stehenden Gebäude, Anlagen und Einrichtungen; 8. der Erlass von Verordnungen und Reglementen; 9. die Wahl des Gemeindepersonals sowie der Abschluss entsprechender Dienstverträge; 10. die Verwaltung des Gemeindevermögens."
+        "text": "Dem Gemeinderat obliegen:"
+      },
+      {
+        "num": null,
+        "text": "1. die Genehmigung des Protokolls der Gemeindeversammlung;"
+      },
+      {
+        "num": null,
+        "text": "2. der Vollzug der Beschlüsse der Gemeindeversammlung;"
+      },
+      {
+        "num": null,
+        "text": "3. die Handhabung der Verfassung, der Gesetze, Verordnungen und Reglemente sowie der Vollzug von Beschlüssen und Anordnungen kantonaler Behörden;"
+      },
+      {
+        "num": null,
+        "text": "4. die Vorbereitung der Anträge an die Gemeindeversammlung;"
+      },
+      {
+        "num": null,
+        "text": "5. die Sorge für öffentliche Ruhe, Ordnung, Sittlichkeit und Gesundheit;"
+      },
+      {
+        "num": null,
+        "text": "6. die Aufstellung des Voranschlages;"
+      },
+      {
+        "num": null,
+        "text": "7. * die Beschlussfassung über alle frei bestimmbaren, für den gleichen Zweck bestimmten, einmaligen Ausgaben bis 50 000 Franken und jährlich wiederkehrenden Ausgaben bis 10 000 Franken, soweit die Gemeinde in der Gemeindeordnung nicht abweichende Ausgabengrenzen vorsieht, ferner über Ausgaben, die der Gemeinde durch die Gesetzgebung vorgeschrieben oder für welche durch die Gesetzgebung oder einen Beschluss der Gemeindeversammlung dem Gemeinderat weitergehende Vollmachten übertragen sind, sowie über Ausgaben für den Unterhalt der im Besitz der Gemeinde stehenden Gebäude, Anlagen und Einrichtungen;"
+      },
+      {
+        "num": null,
+        "text": "8. der Erlass von Verordnungen und Reglementen;"
+      },
+      {
+        "num": null,
+        "text": "9. die Wahl des Gemeindepersonals sowie der Abschluss entsprechender Dienstverträge;"
+      },
+      {
+        "num": null,
+        "text": "10. die Verwaltung des Gemeindevermögens."
       }
     ],
     "95": [
@@ -1290,11 +1935,33 @@
     "98": [
       {
         "num": "1",
-        "text": "In die Zuständigkeit der Bürgergemeindeversammlung fallen: 1. auf die Amtsdauer von vier Jahren die Wahl eines aus fünf bis neun Mitgliedern bestehenden Bürgergemeinderates; 2. * die Aufnahme von Ausländern ins Gemeindebürgerrecht. 1a Die Bürgergemeindeversammlung kann in der Gemeindeordnung die Zuständigkeit für die Aufnahme von Ausländern ins Gemeindebürgerrecht dem Bürgergemeinderat oder einer Einbürgerungskommission übertragen. * 1b Überträgt sie diese Befugnis einer Einbürgerungskommission, kann sie dieser in der Gemeindeordnung auch die Zuständigkeit für die Aufnahme von Schweizern ins Gemeindebürgerrecht zuweisen. *"
+        "text": "In die Zuständigkeit der Bürgergemeindeversammlung fallen:"
+      },
+      {
+        "num": null,
+        "text": "1. auf die Amtsdauer von vier Jahren die Wahl eines aus fünf bis neun Mitgliedern bestehenden Bürgergemeinderates;"
+      },
+      {
+        "num": null,
+        "text": "2. * die Aufnahme von Ausländern ins Gemeindebürgerrecht."
+      },
+      {
+        "num": null,
+        "text": "1a Die Bürgergemeindeversammlung kann in der Gemeindeordnung die Zuständigkeit für die Aufnahme von Ausländern ins Gemeindebürgerrecht dem Bürgergemeinderat oder einer Einbürgerungskommission übertragen. * 1b Überträgt sie diese Befugnis einer Einbürgerungskommission, kann sie dieser in der Gemeindeordnung auch die Zuständigkeit für die Aufnahme von Schweizern ins Gemeindebürgerrecht zuweisen. *"
       },
       {
         "num": "2",
         "text": "Die weiteren Befugnisse richten sich sinngemäss nach den Bestimmungen über die Einwohnergemeinde."
+      }
+    ],
+    "99": [
+      {
+        "num": "1",
+        "text": "In die Zuständigkeit des Bürgergemeinderates fällt die Aufnahme von Schweizerbürgern in das Gemeindebürgerrecht."
+      },
+      {
+        "num": "2",
+        "text": "Die weiteren Befugnisse richten sich sinngemäss nach den Bestimmungen über den Einwohnergemeinderat."
       }
     ],
     "100": [
@@ -1411,6 +2078,30 @@
         "text": "Die Kantonsverfassung kann jederzeit ganz oder teilweise abgeändert werden."
       }
     ],
+    "111": [
+      {
+        "num": "1",
+        "text": "Eine Teilrevision der Verfassung erfolgt auf dem Weg der Gesetzgebung mit obligatorischer Abstimmung."
+      }
+    ],
+    "112": [
+      {
+        "num": "1",
+        "text": "Die Gesamtrevision der Verfassung ist auf dem Weg der Gesetzgebung mit obligatorischer Abstimmung zu beschliessen."
+      },
+      {
+        "num": "2",
+        "text": "Wird die Gesamtrevision der Kantonsverfassung beschlossen, so obliegt die Ausarbeitung einer neuen Verfassung einem Verfassungsrat."
+      },
+      {
+        "num": "3",
+        "text": "Der Verfassungsrat wird nach den für den Kantonsrat geltenden Wahlvorschriften bestellt. Alle im Kanton wohnhaften Stimmberechtigten sind wählbar. *"
+      },
+      {
+        "num": "4",
+        "text": "Die vom Verfassungsrat ausgearbeitete Vorlage ist der Urnenabstimmung zu unterbreiten. Wird sie in der Abstimmung abgelehnt, so ist innert drei Jahren dem Volk eine neue Vorlage zu unterbreiten. Wenn auch diese Vorlage verworfen wird, ist das Begehren auf Gesamtrevision erledigt. *"
+      }
+    ],
     "113": [
       {
         "num": "1",
@@ -1493,10 +2184,22 @@
         "text": "Der Regierungsrat erlässt nötigenfalls die für die Durchführung einer Volkswahl an der Urne erforderlichen Weisungen. *"
       }
     ],
+    "119a": [
+      {
+        "num": "1",
+        "text": "Die Änderungen gemäss Verfassungsnachtrag über die neuen Unvereinbarkeiten in der Person gelten erstmals für die ab 1. Juli 2008 neu beginnenden Amtsdauern."
+      }
+    ],
     "120": [
       {
         "num": "1",
         "text": "... [6]"
+      }
+    ],
+    "120a": [
+      {
+        "num": "1",
+        "text": "... [7]"
       }
     ],
     "121": [

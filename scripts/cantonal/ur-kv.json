@@ -139,7 +139,7 @@
       "number": 22,
       "suffix": "",
       "raw": "22",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 23,
@@ -163,7 +163,7 @@
       "number": 26,
       "suffix": "",
       "raw": "26",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 27,
@@ -403,7 +403,7 @@
       "number": 66,
       "suffix": "",
       "raw": "66",
-      "title": "Gebietsveränderungen und Grenzbereinigungen&nbsp;<strong>*</strong>"
+      "title": "Gebietsveränderungen und Grenzbereinigungen *"
     },
     {
       "number": 67,
@@ -1434,7 +1434,11 @@
       },
       {
         "num": "2",
-        "text": "Die Ausscheidungsdekrete, die vom Regierungsrat zu genehmigen sind, müssen die Grundzüge der Organisation und die Aufgaben der Ortsbürgergemeinde umschreiben. 2.1 Übergangsbestimmung: Die bisherigen Ausscheidungsdekrete werden als solche nach Absatz 2 anerkannt. Sie sind innert fünf Jahren seit dem Inkrafttreten der Kantonsverfassung anzupassen. Nach Ablauf dieser Frist kann der Regierungsrat die Ausscheidungsdekrete ersatzweise anpassen."
+        "text": "Die Ausscheidungsdekrete, die vom Regierungsrat zu genehmigen sind, müssen die Grundzüge der Organisation und die Aufgaben der Ortsbürgergemeinde umschreiben."
+      },
+      {
+        "num": null,
+        "text": "2.1 Übergangsbestimmung: Die bisherigen Ausscheidungsdekrete werden als solche nach Absatz 2 anerkannt. Sie sind innert fünf Jahren seit dem Inkrafttreten der Kantonsverfassung anzupassen. Nach Ablauf dieser Frist kann der Regierungsrat die Ausscheidungsdekrete ersatzweise anpassen."
       },
       {
         "num": "3",

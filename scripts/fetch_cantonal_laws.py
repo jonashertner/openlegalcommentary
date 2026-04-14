@@ -42,6 +42,20 @@ CANTON_LANG: dict[str, str] = {
     "ZH": "de",
 }
 
+# Fedlex HTML filestore — authoritative, structured, multi-language.
+# Only used for cantons where Fedlex provides better data than LexWork
+# (clean text + headings). Cantons with good LexWork data stay on LexWork.
+FEDLEX_CONFIG: dict[str, dict] = {
+    "ZH": {"eli": "/eli/cc/2006/14_fga", "date": "20240701"},
+    "BE": {"eli": "/eli/cc/1994/1_401_401_361_fga", "date": "20240101"},
+    "FR": {"eli": "/eli/cc/2004/2129_cc", "date": "20250101"},
+    "GR": {"eli": "/eli/cc/2004/232_fga", "date": "20230920"},
+    "NW": {"eli": "/eli/cc/1965/3_619_631_611_fga", "date": "20230313"},
+    "SG": {"eli": "/eli/cc/2002/258_fga", "date": "20100608"},
+    "SH": {"eli": "/eli/cc/2003/1135_fga", "date": "20210921"},
+    "VD": {"eli": "/eli/cc/2003/1136_fga", "date": "20230618"},
+}
+
 # LexWork REST API hosts (19 cantons)
 LEXWORK_HOSTS: dict[str, str] = {
     "AG": "gesetzessammlungen.ag.ch",
@@ -131,6 +145,100 @@ def save_cantonal_law(
         encoding="utf-8",
     )
     return out_path
+
+
+# ── Fedlex fetcher (15 cantons) ──────────────────────────────────
+
+
+def fetch_fedlex(canton: str) -> Path:
+    """Fetch from Fedlex structured HTML — authoritative federal source."""
+    cfg = FEDLEX_CONFIG[canton]
+    lang = CANTON_LANG[canton]
+    eli, date = cfg["eli"], cfg["date"]
+    path_clean = eli.replace("/eli/cc/", "").replace("/", "-")
+    url = (
+        f"https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch"
+        f"{eli}/{date}/{lang}/html/"
+        f"fedlex-data-admin-ch-eli-cc-{path_clean}-{date}-{lang}-html-1.html"
+    )
+
+    print(f"  {canton}: Fedlex HTML...")
+    r = _http_get(url, accept="text/html")
+    html = r.text
+
+    # Extract title from <h1>
+    title_m = re.search(r"<h1[^>]*>(.*?)</h1>", html[:5000], re.DOTALL)
+    title = ""
+    if title_m:
+        title = re.sub(r"<[^>]+>", "", title_m.group(1))
+        title = html_lib.unescape(title).strip()
+
+    # Find section headings (Randtitel) — these wrap articles
+    headings: list[tuple[int, str]] = []
+    for m in re.finditer(
+        r'<div[^>]*class="heading"[^>]*>(.*?)</div>',
+        html, re.DOTALL,
+    ):
+        # Extract text from the heading div (may contain <a> or plain text)
+        inner = m.group(1)
+        text = re.sub(r"<[^>]+>", " ", inner)
+        text = html_lib.unescape(re.sub(r"\s+", " ", text).strip())
+        if text and len(text) < 80:
+            headings.append((m.start(), text))
+
+    # Extract articles
+    articles: list[dict] = []
+    article_texts: dict[str, list[dict]] = {}
+
+    for m in re.finditer(
+        r'<article\s+id="art_(\d+[a-z]?)">(.*?)</article>',
+        html, re.DOTALL,
+    ):
+        art_num = m.group(1)
+        content = m.group(2)
+        pos = m.start()
+
+        # Closest preceding heading
+        heading = ""
+        for h_pos, h_text in reversed(headings):
+            if h_pos < pos:
+                heading = h_text
+                break
+
+        # Parse paragraphs (class="absatz" or plain <p>)
+        paras: list[dict] = []
+        for p in re.finditer(
+            r"<p(?:\s+class=\"absatz[^\"]*\"|\s*)>(.*?)</p>",
+            content, re.DOTALL,
+        ):
+            p_html = p.group(1)
+            num_m = re.search(r"<sup>(\d+)</sup>", p_html)
+            num = num_m.group(1) if num_m else None
+            p_text = re.sub(r"<[^>]+>", "", p_html)
+            p_text = html_lib.unescape(p_text).strip()
+            if num:
+                p_text = re.sub(r"^\d+\s*", "", p_text).strip()
+            if p_text:
+                paras.append({"num": num, "text": p_text})
+
+        nm = re.match(r"^(\d+)([a-z]*)$", art_num)
+        if nm and paras:
+            articles.append({
+                "number": int(nm.group(1)),
+                "suffix": nm.group(2),
+                "raw": art_num,
+                "title": heading,
+            })
+            article_texts[art_num] = paras
+
+    sr = CANTON_KV_SR.get(canton, "")
+    out = save_cantonal_law(
+        canton=canton, title=title, sr_number=sr,
+        language=lang, articles=articles,
+        article_texts=article_texts, source="fedlex",
+    )
+    print(f"  -> {canton}: {len(articles)} articles (Fedlex)")
+    return out
 
 
 # ── LexWork fetcher (19 cantons) ─────────────────────────────────
@@ -998,16 +1106,20 @@ PDF_CANTONS = {"SZ", "TI", "VD", "JU", "ZH"}
 
 
 def fetch_canton(canton: str) -> Path:
-    """Fetch a canton's KV using the best available source."""
+    """Fetch a canton's KV using the best available source.
+
+    Priority: Fedlex HTML > LexWork API > SIL HTML > LexFind PDF.
+    """
     canton = canton.upper()
-    if canton in LEXWORK_HOSTS:
+    if canton in FEDLEX_CONFIG:
+        return fetch_fedlex(canton)
+    elif canton in LEXWORK_HOSTS:
         return fetch_lexwork(canton)
     elif canton in SIL_CONFIG:
         return fetch_sil(canton)
     elif canton in PDF_CANTONS:
         return fetch_lexfind_pdf(canton)
     else:
-        # MCP fallback for ZH (per-article fetching)
         return asyncio.run(_fetch_mcp(canton))
 
 

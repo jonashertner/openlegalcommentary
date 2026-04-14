@@ -103,7 +103,7 @@
       "number": 16,
       "suffix": "",
       "raw": "16",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 17,
@@ -217,7 +217,7 @@
       "number": 33,
       "suffix": "",
       "raw": "33",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 34,
@@ -253,7 +253,7 @@
       "number": 39,
       "suffix": "",
       "raw": "39",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 40,
@@ -325,7 +325,7 @@
       "number": 51,
       "suffix": "",
       "raw": "51",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 52,
@@ -355,7 +355,7 @@
       "number": 55,
       "suffix": "bis",
       "raw": "55bis",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 56,
@@ -367,7 +367,7 @@
       "number": 57,
       "suffix": "",
       "raw": "57",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 58,
@@ -385,7 +385,7 @@
       "number": 60,
       "suffix": "",
       "raw": "60",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 61,
@@ -397,7 +397,7 @@
       "number": 62,
       "suffix": "",
       "raw": "62",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 63,
@@ -409,37 +409,37 @@
       "number": 64,
       "suffix": "",
       "raw": "64",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 65,
       "suffix": "",
       "raw": "65",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 66,
       "suffix": "",
       "raw": "66",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 67,
       "suffix": "",
       "raw": "67",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 68,
       "suffix": "",
       "raw": "68",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 69,
       "suffix": "",
       "raw": "69",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 70,
@@ -505,25 +505,25 @@
       "number": 80,
       "suffix": "",
       "raw": "80",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 81,
       "suffix": "",
       "raw": "81",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 82,
       "suffix": "",
       "raw": "82",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 83,
       "suffix": "",
       "raw": "83",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 84,
@@ -859,7 +859,23 @@
       },
       {
         "num": null,
-        "text": "a) durch Annahme oder Verwerfung der Verfassung und ihrer Abänderungen; b) durch Genehmigung oder Verwerfung der Gesetze; c) durch das Vorschlagsrecht (Initiative); d) durch die Wahl folgender Behörden und Beamten: 1. der beiden Mitglieder des schweizerischen Ständerates für eine vierjährige Amtsdauer; 2. der Mitglieder des Kantonsrates; 3. der Mitglieder des Regierungsrates; 4. * der Mitglieder und Ersatzmitglieder des Kantonsgerichtes, des Strafgerichtes, des Obergerichtes und des Verwaltungsgerichtes; vorbehalten bleibt die Wahl ausserordentlicher Ersatzmitglieder durch den Kantonsrat gemäss § 41 Bst. l;"
+        "text": "a) durch Annahme oder Verwerfung der Verfassung und ihrer Abänderungen; b) durch Genehmigung oder Verwerfung der Gesetze; c) durch das Vorschlagsrecht (Initiative); d) durch die Wahl folgender Behörden und Beamten:"
+      },
+      {
+        "num": null,
+        "text": "1. der beiden Mitglieder des schweizerischen Ständerates für eine vierjährige Amtsdauer;"
+      },
+      {
+        "num": null,
+        "text": "2. der Mitglieder des Kantonsrates;"
+      },
+      {
+        "num": null,
+        "text": "3. der Mitglieder des Regierungsrates;"
+      },
+      {
+        "num": null,
+        "text": "4. * der Mitglieder und Ersatzmitglieder des Kantonsgerichtes, des Strafgerichtes, des Obergerichtes und des Verwaltungsgerichtes; vorbehalten bleibt die Wahl ausserordentlicher Ersatzmitglieder durch den Kantonsrat gemäss § 41 Bst. l;"
       }
     ],
     "32": [
@@ -985,7 +1001,11 @@
       },
       {
         "num": null,
-        "text": "a) die Entscheidung über die Vollmachten seiner Mitglieder; b) das ausschliessliche Recht der Gesetzgebung, mit Vorbehalt der Bestimmungen der §§ 33, 34 und 35; c) die Oberaufsicht über die Behörden sowie über die Erhaltung und Vollziehung der Verfassung und der Gesetze; d) die Oberaufsicht über den Staatshaushalt; e) die Festsetzung der Besoldungen und amtlichen Gebühren; f) das Recht der Begnadigung und der Amnestie für politische Verbrechen und Vergehen; g) * die Beschlussfassung über die Amtsberichte des Regierungsrates, des Obergerichtes und des Verwaltungsgerichtes sowie über die vom Regierungsrat jährlich abzulegende Staatsrechnung; h) * die Beschlussfassung über die Budgets und Nachtragskredite sowie die Genehmigung der Leistungsaufträge; i) die Genehmigung aller Verträge mit andern Kantonen unter Vorbehalt der Bundeskompetenz sowie der Verträge über Salzlieferungen; k) die Behandlung eingehender Bittschriften und Beschwerden; l) * je auf die Dauer von sechs Jahren: 1. * die Festsetzung der Zahl der Mitglieder und der Ersatzmitglieder des Kantonsgerichtes und des Strafgerichtes, 2. die Festsetzung der Zahl der hauptamtlichen Richter in jedem Gericht und deren Wahl aus den Mitgliedern des betreffenden Gerichtes, 3. * die Wahl der Präsidenten des Kantonsgerichtes und des Strafgerichtes aus den Mitgliedern dieser Gerichte, 4. die Wahl des Präsidenten des Obergerichtes und des Verwaltungsgerichtes aus den Mitgliedern dieser Gerichte, 5. * die Wahl ausserordentlicher Ersatzmitglieder der Gerichte; die Einzelheiten regelt das Gesetz. m) die Wahl des Landschreibers; n) * die Bestätigung der vom Regierungsrat vorgenommenen Wahl der vom Kanton zu wählenden Mitglieder des Bankrates und der Revisionsstelle der Zuger Kantonalbank; o) der Entscheid über Kompetenz-Streitigkeiten zwischen der vollziehenden und der richterlichen Gewalt; p) * … q) die Ausübung aller übrigen Souveränitätsrechte, insofern selbe nicht ausdrücklich durch die bestehende Bundes- und Kantonsverfassung beschränkt sind; r) die Ausübung der den Kantonen in der Bundesverfassung eingeräumten bundesstaatlichen Mitwirkungsrechte (Einberufung der Bundesversammlung, Referendum, Standesinitiative)."
+        "text": "a) die Entscheidung über die Vollmachten seiner Mitglieder; b) das ausschliessliche Recht der Gesetzgebung, mit Vorbehalt der Bestimmungen der §§ 33, 34 und 35; c) die Oberaufsicht über die Behörden sowie über die Erhaltung und Vollziehung der Verfassung und der Gesetze; d) die Oberaufsicht über den Staatshaushalt; e) die Festsetzung der Besoldungen und amtlichen Gebühren; f) das Recht der Begnadigung und der Amnestie für politische Verbrechen und Vergehen; g) * die Beschlussfassung über die Amtsberichte des Regierungsrates, des Obergerichtes und des Verwaltungsgerichtes sowie über die vom Regierungsrat jährlich abzulegende Staatsrechnung; h) * die Beschlussfassung über die Budgets und Nachtragskredite sowie die Genehmigung der Leistungsaufträge; i) die Genehmigung aller Verträge mit andern Kantonen unter Vorbehalt der Bundeskompetenz sowie der Verträge über Salzlieferungen; k) die Behandlung eingehender Bittschriften und Beschwerden; l) * je auf die Dauer von sechs Jahren:"
+      },
+      {
+        "num": null,
+        "text": "1. * die Festsetzung der Zahl der Mitglieder und der Ersatzmitglieder des Kantonsgerichtes und des Strafgerichtes, 2. die Festsetzung der Zahl der hauptamtlichen Richter in jedem Gericht und deren Wahl aus den Mitgliedern des betreffenden Gerichtes, 3. * die Wahl der Präsidenten des Kantonsgerichtes und des Strafgerichtes aus den Mitgliedern dieser Gerichte, 4. die Wahl des Präsidenten des Obergerichtes und des Verwaltungsgerichtes aus den Mitgliedern dieser Gerichte, 5. * die Wahl ausserordentlicher Ersatzmitglieder der Gerichte; die Einzelheiten regelt das Gesetz. m) die Wahl des Landschreibers; n) * die Bestätigung der vom Regierungsrat vorgenommenen Wahl der vom Kanton zu wählenden Mitglieder des Bankrates und der Revisionsstelle der Zuger Kantonalbank; o) der Entscheid über Kompetenz-Streitigkeiten zwischen der vollziehenden und der richterlichen Gewalt; p) * … q) die Ausübung aller übrigen Souveränitätsrechte, insofern selbe nicht ausdrücklich durch die bestehende Bundes- und Kantonsverfassung beschränkt sind; r) die Ausübung der den Kantonen in der Bundesverfassung eingeräumten bundesstaatlichen Mitwirkungsrechte (Einberufung der Bundesversammlung, Referendum, Standesinitiative)."
       }
     ],
     "42": [
