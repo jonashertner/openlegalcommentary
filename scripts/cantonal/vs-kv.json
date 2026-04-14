@@ -7,7 +7,7 @@
   "lexfind_id": 19030,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 45,
+  "article_count": 113,
   "articles": [
     {
       "number": 1,
@@ -16,10 +16,16 @@
       "title": ""
     },
     {
+      "number": 2,
+      "suffix": "",
+      "raw": "2",
+      "title": ""
+    },
+    {
       "number": 3,
       "suffix": "",
       "raw": "3",
-      "title": "<a class=\"footnote\" name=\"articletitle_text_fn_579075_2_1\" data-turbolinks=false href=\"#articletitle_text_fn_579075_2_1_c\">[1]</a>"
+      "title": "[1]"
     },
     {
       "number": 4,
@@ -82,9 +88,21 @@
       "title": ""
     },
     {
+      "number": 13,
+      "suffix": "a",
+      "raw": "13a",
+      "title": ""
+    },
+    {
       "number": 14,
       "suffix": "",
       "raw": "14",
+      "title": ""
+    },
+    {
+      "number": 14,
+      "suffix": "a",
+      "raw": "14a",
       "title": ""
     },
     {
@@ -124,6 +142,12 @@
       "title": ""
     },
     {
+      "number": 21,
+      "suffix": "",
+      "raw": "21",
+      "title": ""
+    },
+    {
       "number": 22,
       "suffix": "",
       "raw": "22",
@@ -142,6 +166,12 @@
       "title": ""
     },
     {
+      "number": 25,
+      "suffix": "",
+      "raw": "25",
+      "title": ""
+    },
+    {
       "number": 26,
       "suffix": "",
       "raw": "26",
@@ -154,9 +184,51 @@
       "title": ""
     },
     {
+      "number": 28,
+      "suffix": "",
+      "raw": "28",
+      "title": ""
+    },
+    {
       "number": 29,
       "suffix": "",
       "raw": "29",
+      "title": ""
+    },
+    {
+      "number": 30,
+      "suffix": "",
+      "raw": "30",
+      "title": ""
+    },
+    {
+      "number": 31,
+      "suffix": "",
+      "raw": "31",
+      "title": ""
+    },
+    {
+      "number": 32,
+      "suffix": "",
+      "raw": "32",
+      "title": ""
+    },
+    {
+      "number": 33,
+      "suffix": "",
+      "raw": "33",
+      "title": ""
+    },
+    {
+      "number": 34,
+      "suffix": "",
+      "raw": "34",
+      "title": ""
+    },
+    {
+      "number": 35,
+      "suffix": "",
+      "raw": "35",
       "title": ""
     },
     {
@@ -166,9 +238,141 @@
       "title": ""
     },
     {
+      "number": 37,
+      "suffix": "",
+      "raw": "37",
+      "title": ""
+    },
+    {
+      "number": 38,
+      "suffix": "",
+      "raw": "38",
+      "title": ""
+    },
+    {
+      "number": 39,
+      "suffix": "",
+      "raw": "39",
+      "title": ""
+    },
+    {
+      "number": 40,
+      "suffix": "",
+      "raw": "40",
+      "title": ""
+    },
+    {
+      "number": 41,
+      "suffix": "",
+      "raw": "41",
+      "title": ""
+    },
+    {
+      "number": 42,
+      "suffix": "",
+      "raw": "42",
+      "title": ""
+    },
+    {
+      "number": 43,
+      "suffix": "",
+      "raw": "43",
+      "title": ""
+    },
+    {
+      "number": 44,
+      "suffix": "",
+      "raw": "44",
+      "title": ""
+    },
+    {
+      "number": 45,
+      "suffix": "",
+      "raw": "45",
+      "title": ""
+    },
+    {
+      "number": 46,
+      "suffix": "",
+      "raw": "46",
+      "title": ""
+    },
+    {
+      "number": 47,
+      "suffix": "",
+      "raw": "47",
+      "title": ""
+    },
+    {
+      "number": 48,
+      "suffix": "",
+      "raw": "48",
+      "title": ""
+    },
+    {
+      "number": 49,
+      "suffix": "",
+      "raw": "49",
+      "title": ""
+    },
+    {
+      "number": 50,
+      "suffix": "",
+      "raw": "50",
+      "title": ""
+    },
+    {
+      "number": 51,
+      "suffix": "",
+      "raw": "51",
+      "title": ""
+    },
+    {
       "number": 52,
       "suffix": "",
       "raw": "52",
+      "title": ""
+    },
+    {
+      "number": 53,
+      "suffix": "",
+      "raw": "53",
+      "title": ""
+    },
+    {
+      "number": 54,
+      "suffix": "",
+      "raw": "54",
+      "title": ""
+    },
+    {
+      "number": 55,
+      "suffix": "",
+      "raw": "55",
+      "title": ""
+    },
+    {
+      "number": 56,
+      "suffix": "",
+      "raw": "56",
+      "title": ""
+    },
+    {
+      "number": 57,
+      "suffix": "",
+      "raw": "57",
+      "title": ""
+    },
+    {
+      "number": 58,
+      "suffix": "",
+      "raw": "58",
+      "title": ""
+    },
+    {
+      "number": 59,
+      "suffix": "",
+      "raw": "59",
       "title": ""
     },
     {
@@ -208,6 +412,12 @@
       "title": ""
     },
     {
+      "number": 65,
+      "suffix": "a",
+      "raw": "65a",
+      "title": ""
+    },
+    {
       "number": 66,
       "suffix": "",
       "raw": "66",
@@ -232,9 +442,105 @@
       "title": ""
     },
     {
+      "number": 70,
+      "suffix": "",
+      "raw": "70",
+      "title": ""
+    },
+    {
+      "number": 71,
+      "suffix": "",
+      "raw": "71",
+      "title": ""
+    },
+    {
+      "number": 72,
+      "suffix": "",
+      "raw": "72",
+      "title": ""
+    },
+    {
+      "number": 73,
+      "suffix": "",
+      "raw": "73",
+      "title": ""
+    },
+    {
+      "number": 74,
+      "suffix": "",
+      "raw": "74",
+      "title": ""
+    },
+    {
+      "number": 75,
+      "suffix": "",
+      "raw": "75",
+      "title": ""
+    },
+    {
+      "number": 76,
+      "suffix": "",
+      "raw": "76",
+      "title": ""
+    },
+    {
+      "number": 77,
+      "suffix": "",
+      "raw": "77",
+      "title": ""
+    },
+    {
+      "number": 78,
+      "suffix": "",
+      "raw": "78",
+      "title": ""
+    },
+    {
+      "number": 79,
+      "suffix": "",
+      "raw": "79",
+      "title": ""
+    },
+    {
+      "number": 80,
+      "suffix": "",
+      "raw": "80",
+      "title": ""
+    },
+    {
+      "number": 81,
+      "suffix": "",
+      "raw": "81",
+      "title": ""
+    },
+    {
+      "number": 82,
+      "suffix": "",
+      "raw": "82",
+      "title": ""
+    },
+    {
+      "number": 83,
+      "suffix": "",
+      "raw": "83",
+      "title": "&hellip;"
+    },
+    {
+      "number": 84,
+      "suffix": "",
+      "raw": "84",
+      "title": ""
+    },
+    {
       "number": 85,
       "suffix": "",
       "raw": "85",
+      "title": ""
+    },
+    {
+      "number": 85,
+      "suffix": "a",
+      "raw": "85a",
       "title": ""
     },
     {
@@ -244,9 +550,99 @@
       "title": ""
     },
     {
+      "number": 87,
+      "suffix": "",
+      "raw": "87",
+      "title": ""
+    },
+    {
+      "number": 88,
+      "suffix": "",
+      "raw": "88",
+      "title": ""
+    },
+    {
+      "number": 89,
+      "suffix": "",
+      "raw": "89",
+      "title": ""
+    },
+    {
+      "number": 90,
+      "suffix": "",
+      "raw": "90",
+      "title": ""
+    },
+    {
+      "number": 91,
+      "suffix": "",
+      "raw": "91",
+      "title": "&hellip;"
+    },
+    {
       "number": 92,
       "suffix": "",
       "raw": "92",
+      "title": ""
+    },
+    {
+      "number": 93,
+      "suffix": "",
+      "raw": "93",
+      "title": "&hellip;"
+    },
+    {
+      "number": 94,
+      "suffix": "",
+      "raw": "94",
+      "title": "&hellip;"
+    },
+    {
+      "number": 95,
+      "suffix": "",
+      "raw": "95",
+      "title": "&hellip;"
+    },
+    {
+      "number": 96,
+      "suffix": "",
+      "raw": "96",
+      "title": "&hellip;"
+    },
+    {
+      "number": 97,
+      "suffix": "",
+      "raw": "97",
+      "title": "&hellip;"
+    },
+    {
+      "number": 98,
+      "suffix": "",
+      "raw": "98",
+      "title": "&hellip;"
+    },
+    {
+      "number": 99,
+      "suffix": "",
+      "raw": "99",
+      "title": "&hellip;"
+    },
+    {
+      "number": 100,
+      "suffix": "",
+      "raw": "100",
+      "title": ""
+    },
+    {
+      "number": 101,
+      "suffix": "",
+      "raw": "101",
+      "title": ""
+    },
+    {
+      "number": 102,
+      "suffix": "",
+      "raw": "102",
       "title": ""
     },
     {
@@ -278,6 +674,18 @@
       "suffix": "",
       "raw": "107",
       "title": ""
+    },
+    {
+      "number": 108,
+      "suffix": "",
+      "raw": "108",
+      "title": ""
+    },
+    {
+      "number": 109,
+      "suffix": "",
+      "raw": "109",
+      "title": ""
     }
   ],
   "article_texts": {
@@ -289,6 +697,28 @@
       {
         "num": "2",
         "text": "Die Souveränität beruht im Volke und wird unmittelbar durch die Aktivbürger und mittelbar von den durch die Verfassung eingesetzten Behörden ausgeübt."
+      }
+    ],
+    "2": [
+      {
+        "num": "1",
+        "text": "Die Glaubens- und Gewissensfreiheit und die freie Ausübung gottesdienstlicher Handlungen sind gewährleistet."
+      },
+      {
+        "num": "2",
+        "text": "Die Religionsgemeinschaften entscheiden über ihre Lehre und ihren Kultus frei und unabhängig. Sie befinden innert den Schranken des öffentlichen Rechts selbständig über ihre Organisation und Verwaltung."
+      },
+      {
+        "num": "3",
+        "text": "Die römisch-katholische Kirche und die evangelisch-reformierte Kirche werden als öffentlich-rechtliche Institutionen mit eigener Rechtspersönlichkeit anerkannt. Die anderen Konfessionen unterstehen den Vorschriften des Privatrechts, können aber nach Massgabe ihrer Bedeutung im Kanton durch Gesetz öffentlich-rechtlich anerkannt werden."
+      },
+      {
+        "num": "4",
+        "text": "Soweit die Pfarreien der römisch-katholischen Kirche und diejenigen der evangelisch-reformierten Kirche die orts-kirlichen Kultusausgaben nicht aus eigenen Mitteln bestreiten können, kommen dafür unter Wahrung der Glaubens- und Gewissensfreiheit die Munizipalgemeinden auf. Der Kanton kann den öffentlich-rechtlich anerkannten Kirchen Beiträge gewähren."
+      },
+      {
+        "num": "5",
+        "text": "Das Gesetz regelt die Anwendung dieser Bestimmungen."
       }
     ],
     "3": [
@@ -397,10 +827,26 @@
         "text": "Die Lehrfreiheit ist, unter Vorbehalt der Gesetzesbestimmungen betreffend die Primarschule, gewährleistet."
       }
     ],
+    "13a": [
+      {
+        "num": "1",
+        "text": "Der Staat muss der Familie, als Basisgemeinschaft der Gesellschaft, den für die Entfaltung jedes ihrer Mitglieder notwendigen Schutz sowie Unterstützung gewähren."
+      },
+      {
+        "num": "2",
+        "text": "Er überprüft die Gesetzgebung unter dem Gesichtspunkt ihrer Auswirkungen auf die Lebensverhältnisse der Familie und passt diese entsprechend an."
+      }
+    ],
     "14": [
       {
         "num": "1",
         "text": "Der Staat erlässt Vorschriften betreffend Arbeiterschutz und Sicherung der Arbeiterfreiheit."
+      }
+    ],
+    "14a": [
+      {
+        "num": "1",
+        "text": "Der Staat erlässt Vorschriften zum Schutz vor Grossraubtieren und zur Beschränkung und Regulierung des Bestands. Die Förderung des Grossraubtierbestandes ist verboten. [2]"
       }
     ],
     "15": [
@@ -455,6 +901,20 @@
         "text": "Die finanzielle Beteiligung des Staates in den von den Artikeln 15, 16, 17, 18 und 19 vorgesehenen Fällen wird durch Spezialgesetz bestimmt werden."
       }
     ],
+    "21": [
+      {
+        "num": "1",
+        "text": "Der Staat, die Gemeinden und die mit Rechtspersönlichkeit ausgestatteten Gemeindeverbände des öffentlichen Rechts haften gegenüber Dritten für die Handlungen ihrer Agenten."
+      },
+      {
+        "num": "2",
+        "text": "Der Agent haftet gegenüber dem öffentlichen Gemeinwesen, in dessen Dienst er sich befindet, für den Schaden, den er ihm in Ausübung seiner amtlichen Tätigkeit durch vorsätzliche oder grobfahrlässige Verletzung seiner Dienstpflicht direkt oder indirekt zufügt."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt die Anwendung dieser Grundsätze."
+      }
+    ],
     "22": [
       {
         "num": "1",
@@ -475,6 +935,28 @@
       {
         "num": "1",
         "text": "Die Staats- und Gemeindesteuern werden durch die Gesetzgebung festgesetzt unter Wahrung der Grundsätze der Progression und eines gewissen Existenzminimums. *"
+      }
+    ],
+    "25": [
+      {
+        "num": "1",
+        "text": "Der Voranschlag des Staates muss einen Ertragsüberschuss und einen Finanzierungsüberschuss ausweisen, die für eine harmonische Entwicklung des Kantons notwendigen Investitionen und Investitionsbeteiligungen Dritter sicherstellen sowie die Tilgung eines allfälligen Bilanzfehlbetrages und der Schuld gewährleisten."
+      },
+      {
+        "num": "2",
+        "text": "Weicht die Rechnung vom Voranschlag ab und weist sie einen Aufwandüberschuss oder einen Finanzierungsfehlbetrag aus, so muss die Tilgung dieser Fehlbeträge im Voranschlag des übernächsten Jahres vorgesehen werden."
+      },
+      {
+        "num": "3",
+        "text": "Der Staatsrat beantragt dem Grossen Rat vorgängig zum Entwurf des Voranschlages die Änderung jener Gesetzesbestimmungen, die nicht in seiner eigenen Kompetenz liegen und zur Einhaltung dieses Grundsatzes notwendig sind."
+      },
+      {
+        "num": "4",
+        "text": "Diese Änderungen werden vom Grossen Rat auf dem Dekretsweg in der gleichen Session beschlossen, in welcher er den Voranschlag genehmigt."
+      },
+      {
+        "num": "5",
+        "text": "Die Gesetzgebung regelt die Anwendung der in diesem Artikel aufgestellten Grundsätze. Sie kann Ausnahmen vorsehen aufgrund der wirtschaftlichen Konjunktur oder im Falle von Naturkatastrophen oder anderen ausserordentlichen Ereignissen."
       }
     ],
     "26": [
@@ -517,10 +999,148 @@
         "text": "Die Gemeinde, welche als Sitz einer kantonalen Anstalt bezeichnet wird, kann zu gewissen Leistungen oder Beiträgen gehalten werden."
       }
     ],
+    "28": [
+      {
+        "num": "1",
+        "text": "Walliser sind:"
+      },
+      {
+        "num": null,
+        "text": "a) die einer Gemeinde des Kantons auf Grund der Geburt angehörenden Bürger; b) diejenigen, welchen die Einbürgerung gemäss der kantonalen Gesetzgebung gewährt worden ist."
+      },
+      {
+        "num": "2",
+        "text": "…"
+      },
+      {
+        "num": "3",
+        "text": "…"
+      },
+      {
+        "num": "4",
+        "text": "…"
+      }
+    ],
     "29": [
       {
         "num": "1",
         "text": "Jeder Kantonsbürger kann unter den vom Gesetz festgelegten Bedingungen in anderen Einwohnergemeinden das Bürgerrecht erwerben. *"
+      }
+    ],
+    "30": [
+      {
+        "num": "1",
+        "text": "Nebst ihren Befugnissen bei Wahlen und Abstimmungen sowie beim obligatorischen Verfassungsreferendum besitzen die Bürger das Initiativ- und das fakultative Referendumsrecht."
+      },
+      {
+        "num": null,
+        "text": "a) … b) … c) … d) * … e) * …"
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt die Ausübung dieser Rechte sowie das Verfahren der Vernehmlassung und der Information der Bürger."
+      }
+    ],
+    "31": [
+      {
+        "num": "1",
+        "text": "Dreitausend Stimmberechtigte können innert neunzig Tagen ab deren Veröffentlichung im Amtsblatt verlangen, dass der Volksabstimmung unterbreitet werden:"
+      },
+      {
+        "num": null,
+        "text": "a) die Gesetze und Dekrete; b) die Konkordate, Verträge und Vereinbarungen, die Rechtsnormen enthalten; c) die Beschlüsse des Grossen Rates, welche eine ausserordentliche Ausgabe zur Folge haben, die als einmalige 0.75 Prozent oder als wiederkehrende Ausgabe 0.25 Prozent der Bruttogesamtausgaben der Verwaltungs- und Investitionsrechnung des letzten Verwaltungsjahres übersteigt."
+      },
+      {
+        "num": "2",
+        "text": "Das Referendum kann auch von der Mehrheit des Grossen Rates verlangt werden. *"
+      },
+      {
+        "num": "3",
+        "text": "Nicht der Volksabstimmung unterliegen:"
+      },
+      {
+        "num": null,
+        "text": "a) die Ausführungsgesetze (Art. 42 Abs. 2); b) die ordentlichen Ausgaben und die übrigen Beschlüsse."
+      },
+      {
+        "num": "4",
+        "text": "Der Grosse Rat stellt die Ungültigkeit von Referenden fest, welche die von Verfassung und Gesetz gestellten Bedingungen nicht erfüllen."
+      }
+    ],
+    "32": [
+      {
+        "num": "1",
+        "text": "Die Gesetze, Verträge, Konkordate, Vereinbarungen oder Beschlüsse, die dem Referendum unterstellt sind, dürfen weder vor Ablauf der Referendumsfrist noch, gegebenenfalls, vor der Volksabstimmung in Kraft gesetzt werden."
+      },
+      {
+        "num": "2",
+        "text": "Die Dekrete werden sofort in Kraft gesetzt. Falls dreitausend Stimmberechtigte oder die Mehrheit des Grossen Rates es verlangen, sind sie im folgenden Jahr dem Volk zur Abstimmung zu unterbreiten. Werden sie nicht genehmigt, verlieren sie ihre Gültigkeit und können nicht mehr erneuert werden."
+      }
+    ],
+    "33": [
+      {
+        "num": "1",
+        "text": "Viertausend Stimmberechtigte können die Ausarbeitung, die Annahme, die Abänderung oder die Aufhebung eines dem Referendum unterliegenden Gesetzes, Dekretes oder anderen Beschlusses verlangen, mit Ausnahme der Gesetze, Dekrete und Beschlüsse, über die das Volk seit weniger als vier Jahren abgestimmt hat, der bereits ausgeführten Beschlüsse und der Dekrete mit einer Gültigkeit unter einem Jahr."
+      },
+      {
+        "num": "2",
+        "text": "Mit Ausnahme der in den Artikeln 34 Absatz 2 und 35 Absatz 1 genannten Fälle ist jede Volksinitiative innert drei Jahren nach deren Einreichung dem Volk zur Abstimmung zu unterbreiten. Diese Frist kann durch einen Beschluss des Grossen Rates höchstens um ein Jahr verlängert werden."
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat stellt die Ungültigkeit einer Initiative fest, die:"
+      },
+      {
+        "num": null,
+        "text": "a) dem Bundesrecht oder der Kantonsverfassung widerspricht; b) mehr als eine Materie beinhaltet; c) die Einheit der Form nicht beachtet; d) nicht ausführbar ist; e) nicht in den Bereich eines der Initiative unterliegenden Erlasses fällt."
+      },
+      {
+        "num": "4",
+        "text": "Wenn ein Initiativbegehren neue Staatsausgaben oder die Aufhebung bestehender Einnahmen zur Folge hat, welche das finanzielle Gleichgewicht gefährden, so wird der Grosse Rat die Initiative ergänzen, indem er neue Einnahmequellen, den Abbau staatlicher Aufgaben oder andere Sparmassnahmen vorschlägt."
+      }
+    ],
+    "34": [
+      {
+        "num": "1",
+        "text": "Die Initiative kann, sofern sie nicht auf einen Beschluss abzielt, in der Form des ausgearbeiteten Entwurfes eingereicht werden."
+      },
+      {
+        "num": "2",
+        "text": "Stimmt der Grosse Rat der Initiative zu, findet eine Volksabstimmung nur auf Begehren von dreitausend Stimmberechtigten oder der absoluten Mehrheit des Grossen Rates statt."
+      },
+      {
+        "num": "3",
+        "text": "Lehnt der Grosse Rat die Initiative ab, hat er diese unverändert dem Volk zur Abstimmung zu unterbreiten; er kann aber deren Verwerfung empfehlen oder ebenfalls einen Gegenentwurf ausarbeiten."
+      },
+      {
+        "num": "4",
+        "text": "Nimmt der Grosse Rat einen Gegenentwurf an, werden die Stimmberechtigten eingeladen, sich auf dem gleichen Stimmzettel über folgende drei Fragen auszusprechen:"
+      },
+      {
+        "num": null,
+        "text": "a) Wollen Sie die Volksinitiative annehmen? b) Wollen Sie den Gegenentwurf annehmen? c) Falls beide Vorlagen die Mehrheit der gültig Stimmenden erhalten, soll die Initiative oder der Gegenentwurf in Kraft treten?"
+      }
+    ],
+    "35": [
+      {
+        "num": "1",
+        "text": "Der Initiative in Form der allgemeinen Anregung wird vom Grossen Rat Folge gegeben, indem er entscheidet, ob die von ihm angenommenen oder abgeänderten Bestimmungen in die Verfassung oder in einen Gesetzes- oder Verwaltungserlass aufzunehmen sind; wird die Initiative in einem Gesetz oder einem Verwaltungserlass verwirklicht, unterliegt sie nur dann der Volksabstimmung, wenn dreitausend Stimmberechtigte oder die Mehrheit des Grossen Rates es verlangen."
+      },
+      {
+        "num": "2",
+        "text": "Lehnt der Grosse Rat die Initiative ab, unterbreitet er sie unverändert und mit seiner Stellungnahme dem Volk zur Abstimmung."
+      },
+      {
+        "num": "3",
+        "text": "Verwirft das Volk die Initiative, wird sie abgeschrieben."
+      },
+      {
+        "num": "4",
+        "text": "Nimmt das Volk die Initiative an, ist der Grosse Rat verpflichtet, ihr unverzüglich Folge zu geben."
+      },
+      {
+        "num": "5",
+        "text": "Bei der Ausarbeitung der von der Initiative in Form der allgemeinen Anregung verlangten Bestimmungen hat der Grosse Rat den Absichten der Initianten zu entsprechen."
       }
     ],
     "36": [
@@ -531,6 +1151,192 @@
       {
         "num": null,
         "text": "a) die gesetzgebende Gewalt; b) die vollziehende und verwaltende Gewalt; c) die richterliche Gewalt."
+      }
+    ],
+    "37": [
+      {
+        "num": "1",
+        "text": "Unter Vorbehalt der dem Volk eingeräumten Rechte wird die gesetzgebende Gewalt vom Grossen Rat ausgeübt."
+      },
+      {
+        "num": "2",
+        "text": "Er besitzt jede andere Befugnis, die ihm durch Verfassung oder Gesetz eingeräumt ist."
+      }
+    ],
+    "38": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat arbeitet die Verfassungsbestimmungen, die Gesetze und die Dekrete aus. Vorbehalten bleiben die Artikel 31 bis 35 und 100 bis 106."
+      },
+      {
+        "num": "2",
+        "text": "Unter Vorbehalt der Befugnisse des Volkes und Staatsrates genehmigt er die Verträge, Konkordate und Konventionen."
+      },
+      {
+        "num": "3",
+        "text": "Er übt die Rechte aus, die den Kantonen in den Artikeln 86, 89, 89 bis und 93 der Bundesverfassung vorbehalten sind und beantwortet die Vernehmlassungen des Bundes über atomare Einrichtungen."
+      }
+    ],
+    "39": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat entscheidet über die Gültigkeit der Wahl seiner Mitglieder."
+      },
+      {
+        "num": "2",
+        "text": "Er wählt das Kantonsgericht, dessen Präsidenten und Vizepräsidenten sowie die Mitglieder des Büros des Staatsanwaltschaft. *"
+      }
+    ],
+    "40": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat hat die Oberaufsicht über die Geschäftsführung des Staatsrates, der autonomen Körperschaften und Anstalten des öffentlichen Rechts, der Gerichtsbehörden sowie über die Vertreter des Staates in den Gesellschaften, an denen der Kanton eine Mehrheitsbeteiligung besitzt. Er prüft die Geschäftsführung und berät über deren Genehmigung."
+      },
+      {
+        "num": "2",
+        "text": "Er kann jederzeit von der ausführenden Gewalt Rechenschaft über eine Handlung ihrer Verwaltung verlangen."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz kann gewisse Aufgaben des Staates autonomen Körperschaften oder Anstalten öffentlichen Rechts übertragen."
+      }
+    ],
+    "41": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat hat namentlich folgende Befugnisse:"
+      },
+      {
+        "num": null,
+        "text": "a) er beschliesst den Voranschlag und genehmigt die Rechnung, die veröffentlicht werden. b) er beteiligt sich im Rahmen des Gesetzes an der Planung. c) er beschliesst die ausserordentlichen Ausgaben, bewilligt die Konzessionen und erteilt die Ermächtigung zu Liegenschaftstransaktionen, zur Aufnahme von Darlehen sowie zu Bürgschaften und anderen analogen Garantien unter Vorbehalt der in der Verfassung oder im Gesetz vorgesehenen Ausnahmen. d) er setzt die Gehälter der Magistraten, Beamten und Angestellten des Staates fest unter Vorbehalt der im Gesetz vorgesehenen Ausnahmen. e) er übt das Begnadigungsrecht aus."
+      }
+    ],
+    "42": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat erlässt die Rechtsnormen in Form des Gesetzes, das grundsätzlich für eine unbegrenzte Dauer in Kraft gesetzt wird. Er kann indessen auch eine Inkraftsetzung mit begrenzter Dauer vorsehen."
+      },
+      {
+        "num": "2",
+        "text": "Er erlässt in Form von Ausführungsgesetzen die zum Vollzug des übergeordneten Rechtes absolut notwendigen Bestimmungen."
+      },
+      {
+        "num": "3",
+        "text": "Erfordern es die Umstände, so kann er jedoch auf dem Dekretsweg dringliche Bestimmungen von begrenzter Dauer erlassen (Art. 32 Abs. 2)."
+      },
+      {
+        "num": "4",
+        "text": "Der Grosse Rat behandelt alle übrigen Geschäfte in Form von Beschlüssen."
+      }
+    ],
+    "43": [
+      {
+        "num": "1",
+        "text": "Das Gesetz legt die Grundzüge der Organisation des Grossen Rates sowie seiner Beziehungen zum Staatsrat und zu den Gerichtsbehörden fest. Im übrigen organisiert sich der Grosse Rat selbst. *"
+      },
+      {
+        "num": "2",
+        "text": "Es regelt die Teilnahme der Mitglieder des Staatsrates an den Sitzungen des Grossen Rates und der parlamentarischen Kommissionen."
+      }
+    ],
+    "44": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat versammelt sich von Rechts wegen:"
+      },
+      {
+        "num": null,
+        "text": "a) * zur konstituierenden Session am siebten Montag nach seiner Gesamterneuerung; b) * zu den ordentlichen Sessionen gemäss den im Gesetz festgelegten Terminen. c) … d) … e) … f) … g) … h) * … i) * … j) … k) … l) … m) … n) … o) …"
+      },
+      {
+        "num": "2",
+        "text": "Der Grosse Rat versammelt sich zu ausserordentlichen Sessionen:"
+      },
+      {
+        "num": null,
+        "text": "a) wenn er es selber beschliesst; b) auf Einladung des Staatsrates; c) auf Begehren von zwanzig Abgeordneten unter Angabe der zu behandelnden Gegenstände."
+      }
+    ],
+    "45": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat wählt für die Dauer eines Jahres einen Präsidenten und zwei Vizepräsidenten."
+      },
+      {
+        "num": "2",
+        "text": "Der Grosse Rat verfügt über einen unabhängigen Parlamentsdienst."
+      }
+    ],
+    "46": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat bezeichnet die ständigen und nicht ständigen Kommissionen, welche seine Beratungen vorbereiten. Diese Befugnis kann an das Büro delegiert werden."
+      },
+      {
+        "num": "2",
+        "text": "Die Abgeordneten können politische Gruppen von mindestens fünf Mitgliedern bilden."
+      },
+      {
+        "num": "3",
+        "text": "Grundsätzlich müssen die politischen Gruppen in den Kommissionen angemessen vertreten sein."
+      }
+    ],
+    "47": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat kann nur in Anwesenheit der absoluten Mehrheit seiner Mitglieder gültig beraten."
+      },
+      {
+        "num": "2",
+        "text": "Er fasst seine Beschlüsse mit der absoluten Mehrheit."
+      }
+    ],
+    "48": [
+      {
+        "num": "1",
+        "text": "Die Sitzungen des Grossen Rates sind öffentlich."
+      },
+      {
+        "num": "2",
+        "text": "Sofern es die Umstände erfordern, kann er jedoch geheime Verhandlung beschliessen."
+      }
+    ],
+    "49": [
+      {
+        "num": "1",
+        "text": "Gesetzes- und Dekretsentwürfe werden in zwei Lesungen durchberaten."
+      },
+      {
+        "num": "2",
+        "text": "Die Beschlüsse bilden Gegenstand einer einzigen Lesung."
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat kann in allen Fällen eine einzige oder eine zusätzliche Lesung beschliessen."
+      }
+    ],
+    "50": [
+      {
+        "num": "1",
+        "text": "Die Abgeordneten üben ihr Mandat frei aus."
+      },
+      {
+        "num": "2",
+        "text": "Die Abgeordneten können ohne Ermächtigung des Grossen Rates für die von ihnen vor der Versammlung oder in Kommissionen gemachten Äusserungen nicht strafrechtlich verfolgt werden."
+      },
+      {
+        "num": "3",
+        "text": "Ausser bei Ertappen auf frischer Tat können sie während den Sessionen ohne Ermächtigung der Versammlung nicht verhaftet werden."
+      }
+    ],
+    "51": [
+      {
+        "num": "1",
+        "text": "Jedem Mitglied des Grossen Rates steht das Recht auf Einreichung einer Initiative, einer Motion, eines Postulates, einer Interpellation, einer Resolution und einer einfachen Anfrage zu."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz umschreibt inhaltlich diese Rechte und regelt ihre Ausübung."
       }
     ],
     "52": [
@@ -573,6 +1379,92 @@
       {
         "num": "10",
         "text": "Bei Stimmengleichheit entscheidet das Los. *"
+      }
+    ],
+    "53": [
+      {
+        "num": "1",
+        "text": "Der Staatsrat übt die vollziehende und verwaltende Gewalt aus und besitzt jede Befugnis, die ihm durch Verfassung oder Gesetz erteilt wird."
+      },
+      {
+        "num": "2",
+        "text": "Er handelt als Kollegialbehörde."
+      },
+      {
+        "num": "3",
+        "text": "Die wichtigen Geschäfte bleiben immer in seiner Zuständigkeit."
+      },
+      {
+        "num": "4",
+        "text": "Er verteilt die Geschäfte unter die Departemente, deren Zahl und Befugnisse durch eine Verordnung, die der Genehmigung des Grossen Rates unterliegt, festgelegt werden."
+      },
+      {
+        "num": "5",
+        "text": "Im übrigen organisiert sich der Staatsrat selber."
+      }
+    ],
+    "54": [
+      {
+        "num": "1",
+        "text": "In seinen Beziehungen zum Grossen Rat verfügt der Staatsrat namentlich über folgende Befugnisse:"
+      },
+      {
+        "num": null,
+        "text": "a) er legt die Verfassungs-, Gesetzes-, Dekrets- und Beschlussentwürfe vor; b) er erstattet Bericht über die Volksinitiativen, die Initiativen, Motionen, Postulate und Resolutionen der Abgeordneten und antwortet auf ihre Interpellationen und Anfragen; c) er unterbreitet dem Grossen Rat den Entwurf des Voranschlages, die Staatsrechnung und den Verwaltungsbericht; d) er kann dem Grossen Rat Vorschläge unterbreiten; e) er unterbreitet dem Grossen Rat die Konkordats-, Vertrags- und Vereinbarungsentwürfe, die Rechtsnormen enthalten oder die in seine Zuständigkeit fallende Ausgaben zur Folge haben."
+      }
+    ],
+    "55": [
+      {
+        "num": "1",
+        "text": "Der Staatsrat übt namentlich folgende Verwaltungsbefugnisse aus:"
+      },
+      {
+        "num": null,
+        "text": "a) er ernennt das Staatspersonal unter Vorbehalt der im Gesetz vorgesehenen Ausnahmen; b) er überwacht die ihm unterstellten Behörden sowie die öffentlich-rechtlichen Körperschaften und Anstalten; c) er vertritt den Staat, schliesst die Verträge, Konkordate und Vereinbarungen öffentlichen Rechts ab und antwortet auf die vom Kanton verlangten Vernehmlassungen; d) er leitet die Verwaltung, plant und koordiniert ihre Tätigkeiten."
+      }
+    ],
+    "56": [
+      {
+        "num": "1",
+        "text": "Der Staatsrat gewährleistet die öffentliche Ordnung und verfügt zu diesem Zweck über die Polizei und die kantonalen Truppen."
+      },
+      {
+        "num": "2",
+        "text": "Er übt im Falle grosser und unmittelbar bevorstehender Gefahr die ausser- ordentliche Gewalt aus und benachrichtigt unverzüglich den Grossen Rat über die Massnahmen, die er trifft."
+      }
+    ],
+    "57": [
+      {
+        "num": "1",
+        "text": "Der Staatsrat erlässt in Reglementsform die zur Anwendung kantonaler Gesetze und Dekrete notwendigen Bestimmungen."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz kann dem Staatsrat die Befugnis zum Erlass von Verordnungen übertragen, indem es deren Zweck und die ihren Inhalt bestimmenden Grundsätze festlegt. Die Delegation muss sich auf einen genau umschriebenen Bereich beziehen. Die Verordnungen können der Genehmigung des Grossen Rates unterstellt werden."
+      },
+      {
+        "num": "3",
+        "text": "Der Staatsrat behandelt die anderen Geschäfte in Form von Beschlüssen und Entscheiden."
+      }
+    ],
+    "58": [
+      {
+        "num": "1",
+        "text": "Der Staatsrat veröffentlicht die Rechtsnormen und setzt sie in Kraft, es sei denn, der Grosse Rat beschliesst darüber selber und sorgt für ihre Anwendung."
+      },
+      {
+        "num": "2",
+        "text": "Er setzt die direkt anwendbaren Verfassungsbestimmungen unmittelbar nach ihrer Genehmigung durch die Bundesversammlung in Kraft."
+      }
+    ],
+    "59": [
+      {
+        "num": "1",
+        "text": "Die Regierung hat in jedem Bezirk einen Regierungsstatthalter und einen Stellvertreter desselben."
+      },
+      {
+        "num": "2",
+        "text": "Die Befugnisse des Regierungsstatthalters sind durch das Gesetz bestimmt."
       }
     ],
     "60": [
@@ -643,6 +1535,32 @@
         "text": "Diese Gerichte werden durch eigene Gesetze organisiert."
       }
     ],
+    "65a": [
+      {
+        "num": "1",
+        "text": "Der Justizrat ist eine unabhängige Justizaufsichtsbehörde."
+      },
+      {
+        "num": "2",
+        "text": "Er übt über die kantonalen Gerichtsbehörden und die Magistraten der Staatsanwaltschaft die administrative und disziplinarische Aufsicht aus. Die ausschliessliche Kompetenz des Grossen Rates, die von ihm gewählten Magistraten aus wichtigen Gründen ihres Amtes zu entheben, bleibt vorbehalten."
+      },
+      {
+        "num": "3",
+        "text": "Er ist der Oberaufsicht des Grossen Rates unterstellt."
+      },
+      {
+        "num": "4",
+        "text": "Der Grosse Rat wählt die Mitglieder des Justizrates, die nicht vom Gesetz bestimmt werden."
+      },
+      {
+        "num": "5",
+        "text": "Ausserdem legt das Gesetz Folgendes fest:"
+      },
+      {
+        "num": null,
+        "text": "a) die Zusammensetzung, die Ernennungsweise und die Organisation des Justizrates; b) den Rechtsmittelweg gegen die Entscheide des Justizrates; c) die Beziehungen zwischen dem Justizrat und dem Grossen Rat, dem Kantonsgericht und der Staatsanwaltschaft; d) die Mitarbeit des Justizrates bei den richterlichen Wahlen."
+      }
+    ],
     "66": [
       {
         "num": "1",
@@ -691,6 +1609,211 @@
         "text": "Die Gemeinden ordnen innerhalb der Schranken der Verfassung und der Gesetze ihre Angelegenheiten selbständig. Sie sind für die Aufgaben zuständig, die örtlicher Natur sind und jene, die sie allein oder zusammen mit anderen Gemeinden lösen können. *"
       }
     ],
+    "70": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden üben ihre Tätigkeit so aus, dass sie mit dem Gemeinwohl und dem Interesse der übrigen Gemeinwesen vereinbar ist."
+      },
+      {
+        "num": "2",
+        "text": "Sie führen ihre eigenen sowie die ihnen durch Gesetz übertragenen Aufgaben aus."
+      },
+      {
+        "num": "3",
+        "text": "Das Gemeindevermögen muss zweckmässig verwendet und sorgfältig verwaltet werden."
+      }
+    ],
+    "71": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden können sich zur gemeinsamen Lösung öffentlicher Aufgaben zusammenschliessen. Sie bilden zu diesem Zwecke öffentlich-rechtliche mit Rechtspersönlichkeit ausgestattete Verbände. Die Gemeinden können auch auf jede andere Art zusammenarbeiten. Die Grundsätze bezüglich dieser Zusammenarbeit, sowie der Gründung und der Tätigkeit dieser Gemeindeverbände werden durch das Gesetz bestimmt."
+      },
+      {
+        "num": "2",
+        "text": "Der Staatsrat kann unter gewissen vom Gesetz zu bezeichneten Bedingungen Gemeinden zwingen, zusammenzuarbeiten oder sich zu öffentlich-rechtlichen Verbänden zusammenzuschliessen."
+      }
+    ],
+    "72": [
+      {
+        "num": "1",
+        "text": "In jeder Gemeinde bestehen folgende Organe:"
+      },
+      {
+        "num": null,
+        "text": "a) eine Versammlung der in der Gemeinde stimmberechtigten Bürger; b) ein Gemeinderat, der von der Gemeindeversammlung gewählt wird."
+      },
+      {
+        "num": "2",
+        "text": "Die Gemeindeversammlung wählt aus der Mitte der Gemeinderäte einen Präsidenten und einen Vize-Präsidenten."
+      },
+      {
+        "num": "3",
+        "text": "Im weiteren bestimmt das Gesetz die Grundsätze der Gemeindeorganisation."
+      }
+    ],
+    "73": [
+      {
+        "num": "1",
+        "text": "Die Gemeindeversammlung kann, sofern die Gemeinde über 700 Einwohner zählt, einen Generalrat wählen, dessen Organisation und Befugnisse vom Gesetz bestimmt werden."
+      },
+      {
+        "num": "2",
+        "text": "Gegen die Beschlüsse, die der Generalrat anstelle der Gemeindeversammlung fasst, steht den Bürgern das fakultative Referendum zu. Das Gesetz regelt die Ausübung dieses Rechtes."
+      },
+      {
+        "num": "3",
+        "text": "Diese Bestimmungen gelten nicht für die Burgergemeinde."
+      }
+    ],
+    "74": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden sind berechtigt, das Initiativrecht einzuführen. In den Gemeinden, die dieses Recht besitzen, können die Bürger an den Gemeinderat Initiativbegehren stellen in Form einer allgemeinen Anregung über den Erlass oder die Abänderung von Reglementen, die in die Zuständigkeit der Gemeindeversammlung fallen."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt die Einführung und die Ausübung dieses Rechtes."
+      }
+    ],
+    "75": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden sind innerhalb der Schranken des Artikels 69 der Aufsicht des Staatsrates unterstellt. Das Gesetz bestimmt die Art und Weise dieser Aufsicht, insbesondere was die Verwaltung betrifft. Sofern die Verfassung und die Gesetze nicht ausdrücklich etwas gegenteiliges vorsehen, beschränkt sich die Überprüfungsbefugnis des Staatsrates auf die Gesetzmässigkeit."
+      },
+      {
+        "num": "2",
+        "text": "Die von den Gemeinden ausgearbeiteten Reglemente müssen vom Staatsrat genehmigt werden."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz kann vorsehen, dass wichtige Vorhaben der Gemeinden der Homologation oder der Genehmigung des Staatsrats unterliegen. *"
+      },
+      {
+        "num": "4",
+        "text": "Das Genehmigungsverfahren wird durch das Gesetz geregelt."
+      }
+    ],
+    "76": [
+      {
+        "num": "1",
+        "text": "Als Gemeinden gelten:"
+      },
+      {
+        "num": null,
+        "text": "a) die Einwohnergemeinden; b) die Burgergemeinden. c) * …"
+      }
+    ],
+    "77": [
+      {
+        "num": "1",
+        "text": "Die Einwohnergemeinde besteht aus den auf dem Gemeindegebiet wohnsässigen Personen."
+      },
+      {
+        "num": "2",
+        "text": "Das Gebiet der Einwohnergemeinde ist unter Vorbehalt des Artikels 26 gewährleistet."
+      }
+    ],
+    "78": [
+      {
+        "num": "1",
+        "text": "Die Urversammlung setzt sich zusammen aus den in der Gemeinde stimmberechtigten Einwohnern."
+      },
+      {
+        "num": "2",
+        "text": "Sie wählt einen Gemeinderat von drei bis fünfzehn Mitgliedern, den Präsidenten und Vize-Präsidenten und gegebenenfalls den Generalrat."
+      },
+      {
+        "num": "3",
+        "text": "In den Gemeinden ohne Generalrat entscheidet die Urversammlung insbesondere über:"
+      },
+      {
+        "num": null,
+        "text": "a) * die Gemeindereglemente, ausser in den durch das Gesetz bestimmten Ausnahmen; b) * die wichtigen Vorhaben betreffend Verkauf, Gewährung von beschränkten dinglichen Rechten, Tausch, Verpachtung, Veräusserung von Vermögenswerten, Gewährung von Darlehen, Kreditaufnahmen, Leistung von Bürgschaften, Erteilung und Übertragung von Wasserkraftkonzessionen; c) * die neuen nicht gebundenen Ausgaben, deren Höhe durch das Gesetz festzulegen ist; d) * den Voranschlag und die Rechnung."
+      },
+      {
+        "num": "4",
+        "text": "In den Gemeinden mit Generalrat tritt dieser an die Stelle der Urversammlung und übt mindestens deren Rechte aus, ausgenommen in Wahlange-legenheiten."
+      },
+      {
+        "num": "5",
+        "text": "Das Gesetz bestimmt in beiden Fällen die weitern Zuständigkeiten sowie die Ausübung dieser Rechte."
+      }
+    ],
+    "79": [
+      {
+        "num": null,
+        "text": "1. Dem Gemeinderat obliegen folgende Aufgaben:"
+      },
+      {
+        "num": null,
+        "text": "a) er besorgt die allgemeine Verwaltung der Gemeinde; b) er entwirft die Gemeindereglemente und sorgt für deren Anwendung; c) er sorgt für die Vollziehung der kantonalen Gesetzgebung; d) er ernennt die Angestellten; e) * er erstellt den Entwurf des Voranschlages; f) er erstellt die Rechnung."
+      },
+      {
+        "num": "2",
+        "text": "In den Gemeinden ohne Burgerrat, übt der Gemeinderat dessen Funktion aus."
+      }
+    ],
+    "80": [
+      {
+        "num": "1",
+        "text": "Die Burgergemeinde ist eine Körperschaft des öffentlichen Rechtes und hat als solche die ihr von der Gesetzgebung übertragenen Aufgaben im öffentlichen Interesse zu erfüllen."
+      }
+    ],
+    "81": [
+      {
+        "num": "1",
+        "text": "Die Burgerversammlung besteht aus den Burgern, welche im Gebiet der Burgergemeinde ihren Wohnsitz haben. Die Gesetzgebung kann die Ausübung bestimmter Rechte auf die im Kanton wohnsässigen Burger ausdehnen."
+      },
+      {
+        "num": "2",
+        "text": "Die Burgerversammlung hat in Burgerangelegenheiten die gleichen Befugnisse wie die Urversammlung. Sie entscheidet überdies über die Aufnahme neuer Burger."
+      }
+    ],
+    "82": [
+      {
+        "num": "1",
+        "text": "Die Burgerversammlung ist berechtigt, die Bildung eines getrennten Burgerrates zu verlangen. Dieses Begehren muss gemäss den gesetzlichen Vorschriften am Ende einer Verwaltungsperiode gestellt werden."
+      },
+      {
+        "num": "2",
+        "text": "Der Burgerrat besteht aus mindestens drei und höchstens neun Mitgliedern."
+      }
+    ],
+    "83": [],
+    "84": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat setzt sich aus 130, unter die Bezirke zu verteilenden Abgeordneten und ebenso vielen Ersatzmännern zusammen, die direkt vom Volke gewählt werden. *"
+      },
+      {
+        "num": "2",
+        "text": "Der Bezirk Raron, der sich aus zwei Halb-Bezirken mit eigenen Organen und Befugnissen zusammensetzt, bildet zwei Wahlkreise. *"
+      },
+      {
+        "num": "3",
+        "text": "Die Sitze werden wie folgt unter die Bezirke und Halb-Bezirke verteilt: Die Gesamtzahl der schweizerischen Wohnbevölkerung wird durch 130 geteilt. Der so erhaltene Quotient wird auf die nächsthöhere Zahl aufgerundet und bildet dann die Verteilungszahl. Jeder Bezirk oder Halb-Bezirk erhält sovielmal einen Abgeordneten und einen Ersatzmann zugeteilt, als die Verteilungszahl in der Zahl seiner schweizerischen Wohnbevölkerung enthalten ist. Werden durch diese Verteilung nicht alle Sitze ermittelt, so fallen die verbliebenen Sitze den Bezirken und Halb-Bezirken zu, welche die grössten Zahlenresten aufweisen."
+      },
+      {
+        "num": "4",
+        "text": "Der Staatsrat setzt nach jeder Volkszählung die jedem Bezirk und Halb-Bezirk zuzuteilende Anzahl Sitze fest. *"
+      },
+      {
+        "num": "5",
+        "text": "Die Volksabstimmung findet in den Gemeinden statt. *"
+      },
+      {
+        "num": "6",
+        "text": "Die Wahlen erfolgen bezirks- und halbbezirksweise und zwar nach dem Proportional-Wahlverfahren. Die Anwendungsart dieses Grundsatzes ist durch das Gesetz bestimmt. *"
+      },
+      {
+        "num": "7",
+        "text": "… *"
+      },
+      {
+        "num": "8",
+        "text": "… *"
+      }
+    ],
     "85": [
       {
         "num": "1",
@@ -699,6 +1822,28 @@
       {
         "num": "2",
         "text": "Der Präsident und der Vize-Präsident des Staatsrates sind alljährlich einer Neuwahl unterworfen. Der Präsident kann nicht unmittelbar wieder gewählt werden."
+      }
+    ],
+    "85a": [
+      {
+        "num": "1",
+        "text": "Die Abgeordneten auf den Ständerat werden bei der ordentlichen Gesamt- erneuerung des Nationalrates direkt vom Volke gewählt. Diese Wahlen erfolgen im ganzen Kanton als einziger Wahlkreis nach dem Mehrheitssystem. *"
+      },
+      {
+        "num": "2",
+        "text": "Die Wahl des Ständerates findet mittels des gleichen Listenskrutiniums statt. Werden die Wahlen am bestimmten Tag nicht vollendet, so sind dieselben am darauffolgenden dritten Sonntag wieder aufzunehmen. In diesem Falle wird das Ergebnis des ersten Wahlganges und die Wiederaufnahme der Wahlverhandlungen unverzüglich bekannt gegeben. *"
+      },
+      {
+        "num": "3",
+        "text": "Hat sich im ersten Wahlgang die absolute Mehrheit nicht auf soviele Abgeordnete vereinigt, als zu wählen sind, so findet ein zweiter Wahlgang statt. In diesem zweiten Wahlgang gelten diejenigen als gewählt, welche die meisten Stimmen, und wäre es auch nicht die absolute Mehrheit derselben, erhalten haben. Wenn jedoch im zweiten Wahlgang die Zahl der zu wählenden Abgeordneten jener der vorgeschlagenen Kandidaten entspricht, werden diese ohne Urnengang als gewählt erklärt. Die stille Wahl findet ebenfalls auf den ersten Wahlgang bei Ersatzwahlen Anwendung, sofern nur ein einziger Kandidat auftritt und nur ein Sitz wieder zu besetzen ist. *"
+      },
+      {
+        "num": "4",
+        "text": "Ist die Zahl derjenigen, welche die absolute Mehrheit erhalten haben, grösser als die Zahl der zu Wählenden, so gelten diejenigen, die die meisten Stimmen auf sich vereinigt haben, als gewählt."
+      },
+      {
+        "num": "5",
+        "text": "Bei Stimmengleichheit entscheidet das Los."
       }
     ],
     "86": [
@@ -711,10 +1856,144 @@
         "text": "Der neugewählte Grosse Rat tritt mit der Eröffnung der konstituierten Ses-sion in Amtstätigkeit."
       }
     ],
+    "87": [
+      {
+        "num": "1",
+        "text": "Die Mitglieder des Generalrates werden vom Wahlvolk nach dem Proporzsystem gewählt."
+      },
+      {
+        "num": "2",
+        "text": "Die Mitglieder des Gemeinde- und Burgerrates werden vom Wahlvolk nach dem Proporzsystem gewählt. In den Burgergemeinden und in den Einwohnergemeinden mit weniger als der im Gesetz festgelegten Einwohnerzahl kann das Wahlvolk mit der Mehrheit seiner Mitglieder unter den im Gesetz bestimmten Voraussetzungen einen Wechsel des Wahlsystems beschliessen. Das Majorzsystem wird in den Burgergemeinden und in den Einwohnergemeinden, welche dieses System im Zeitpunkt des Inkrafttretens der vorliegenden Reform kennen, beibehalten."
+      },
+      {
+        "num": "3",
+        "text": "Der Präsident, der Vizepräsident, der Richter und der Vizerichter werden vom Wahlvolk nach dem Majorzsystem gewählt."
+      },
+      {
+        "num": "4",
+        "text": "Das Gesetz bestimmt die Modalitäten der Wahl und das Datum des Urnengangs."
+      }
+    ],
+    "88": [
+      {
+        "num": "1",
+        "text": "Die Bürger und Bürgerinnen üben ihre politischen Rechte mit der Erfüllung des achtzehnten Altersjahres aus. *"
+      },
+      {
+        "num": "2",
+        "text": "Alle Stimmfähigen sind in die öffentlichen Ämter wählbar."
+      }
+    ],
+    "89": [
+      {
+        "num": "1",
+        "text": "… *"
+      },
+      {
+        "num": "2",
+        "text": "Jeder Bürger kann nur in einer Einwohner- und Burgergemeinde das Stimmrecht ausüben."
+      }
+    ],
+    "90": [
+      {
+        "num": "1",
+        "text": "Das Gesetz regelt die Unvereinbarkeiten."
+      },
+      {
+        "num": "2",
+        "text": "Es sucht namentlich zu verhindern, dass:"
+      },
+      {
+        "num": null,
+        "text": "a) ein Bürger gleichzeitig Funktionen von mehreren öffentlichen Gewalten ausübt; b) die gleiche Person zwei einander untergeordneten Organen angehört; c) die Mitglieder derselben Familie in der gleichen Behörde sitzen; d) der Bürger, der eine öffentliche Beamtung inne hat, noch andere Tätigkeiten ausübt, die sich bei der Erfüllung seiner Funktion nachteilig auswirken könnten."
+      },
+      {
+        "num": "3",
+        "text": "Unter Vorbehalt gesetzlicher Ausnahmen gelten die Unvereinbarkeiten auch für die Ersatzmänner und die Substituten."
+      },
+      {
+        "num": "4",
+        "text": "Das Gesetz kann andere Ausnahmen, namentlich für die Gemeindeordnung, vorsehen."
+      },
+      {
+        "num": "5",
+        "text": "Nur ein einziges Mitglied des Staatsrates darf in den eidgenössischen Räten sitzen."
+      }
+    ],
+    "91": [],
     "92": [
       {
         "num": "1",
         "text": "Die Fälle des Ausschlusses vom Stimm- und Wahlrecht sind durch die Kantons- und Bundesgesetzgebung bestimmt."
+      }
+    ],
+    "93": [],
+    "94": [],
+    "95": [],
+    "96": [],
+    "97": [],
+    "98": [],
+    "99": [],
+    "100": [
+      {
+        "num": "1",
+        "text": "Sechstausend Stimmberechtigte können die Total- oder Teilrevision der Verfassung verlangen."
+      },
+      {
+        "num": "2",
+        "text": "Jede Volksinitiative ist innert drei Jahren nach deren Einreichung dem Volk zur Abstimmung zu unterbreiten. Diese Frist kann durch einen Beschluss des Grossen Rates höchstens um ein Jahr verlängert werden."
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat stellt die Ungültigkeit einer Initiative fest, die:"
+      },
+      {
+        "num": null,
+        "text": "a) dem Bundesrecht widerspricht; b) mehr als eine Materie beinhaltet; c) die Einheit der Form nicht beachtet; d) nicht in den Bereich der Verfassung fällt; e) nicht ausführbar ist."
+      }
+    ],
+    "101": [
+      {
+        "num": "1",
+        "text": "Die Initiative in Form der allgemeinen Anregung wird mit einer Stellungnahme des Grossen Rates dem Volk zur Abstimmung unterbreitet."
+      },
+      {
+        "num": "2",
+        "text": "Verwirft das Volk die Initiative, wird sie abgeschrieben."
+      },
+      {
+        "num": "3",
+        "text": "Nimmt das Volk die Initiative an, ist der Grosse Rat verpflichtet, ihr unverzüglich Folge zu geben. *"
+      },
+      {
+        "num": "4",
+        "text": "Bei der Ausarbeitung der von der Initiative in Form der allgemeinen Anregung verlangten Bestimmungen hat der Grosse Rat den Absichten der Ini-tianten zu entsprechen."
+      },
+      {
+        "num": "5",
+        "text": "Das Volk entscheidet gleichzeitig, ob im Falle der Annahme der Initiative die Totalrevision durch den Grossen Rat oder durch einen Verfassungsrat durchzuführen ist."
+      }
+    ],
+    "102": [
+      {
+        "num": "1",
+        "text": "Die Teilrevision der Verfassung kann in Form eines ausgearbeiteten Entwurfes verlangt werden."
+      },
+      {
+        "num": "2",
+        "text": "Der Grosse Rat kann die Ablehnung oder die Annahme empfehlen oder einen Gegenentwurf ausarbeiten."
+      },
+      {
+        "num": "3",
+        "text": "Arbeitet der Grosse Rat einen Gegenentwurf aus, berät er darüber in zwei ordentlichen Sessionen. Er kann eine zusätzliche Lesung beschliessen."
+      },
+      {
+        "num": "4",
+        "text": "Nimmt der Grosse Rat einen Gegenentwurf an, werden die Stimmberechtigten eingeladen, sich auf dem gleichen Stimmzettel über folgende drei Fragen auszusprechen:"
+      },
+      {
+        "num": null,
+        "text": "a) Wollen Sie die Volksinitiative annehmen? b) Wollen Sie den Gegenentwurf annehmen? c) Falls beide Vorlagen die absolute Mehrheit der Stimmenden erhalten, soll die Initiative oder der Gegenentwurf in Kraft treten?"
       }
     ],
     "103": [
@@ -765,6 +2044,26 @@
       {
         "num": "2",
         "text": "Die das Begehren unterstützenden Unterschriften werden gemeindeweise abgegeben und die Stimmberechtigung der Unterzeichner muss durch den Gemeindepräsidenten bescheinigt werden. Dieser hat sich auch von der Echtheit der ihm verdächtig scheinenden Unterschriften zu versichern."
+      }
+    ],
+    "108": [
+      {
+        "num": "1",
+        "text": "Die vom Grossen Rat vor dem Datum der Inkraftsetzung der neuen Verfassungsbestimmungen angenommenen Erlasse unterliegen gemäss dem bisherigen Artikel 30 der Kantonsverfassung dem obligatorischen Referendum."
+      },
+      {
+        "num": "2",
+        "text": "Die bei der Staatskanzlei vor diesem Datum eingereichten Volksinitiativen unterliegen den alten Artikeln 31 bis 35 oder den bisherigen Artikeln 101 bis 107 der Kantonsverfassung."
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat ist befugt, die Reihenfolge und die Numerierung der bisherigen Artikel 49, 50, 55, 56 und 57 der Kantonsverfassung zu ändern, sofern der neue, die Unvereinbarkeiten regelnde Artikel 90 vom Volk nicht angenommen wird."
+      }
+    ],
+    "109": [
+      {
+        "num": "1",
+        "text": "Die bisherigen Artikel 49, 50, 55, 56, 57, 60 Absätze 2 und 3, 89 Absatz 1, 91, 93 bis 99 bleiben bis zur Annahme des vom neuen Artikel 90 Absatz 1 vorgesehenen Gesetzes in Kraft. Bis zu diesem Datum ist der Grosse Rat jedoch befugt, die Reihenfolge und die Numerierung der Artikel soweit als notwendig zu ändern."
       }
     ]
   }

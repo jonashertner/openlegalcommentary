@@ -3,17 +3,17 @@
   "law_key": "ti-kv",
   "sr_number": "101.000",
   "language": "it",
-  "title": "SR Number:** 101.000",
+  "title": "Kantonsverfassung TI",
   "lexfind_id": 20038,
   "fetched_at": "2026-04-14",
-  "source": "mcp_lexfind_pdf",
-  "article_count": 60,
+  "source": "lexfind_pdf",
+  "article_count": 96,
   "articles": [
     {
       "number": 1,
       "suffix": "",
       "raw": "1",
-      "title": "Cantone Ticino"
+      "title": ""
     },
     {
       "number": 2,
@@ -25,7 +25,7 @@
       "number": 3,
       "suffix": "",
       "raw": "3",
-      "title": "Stemma"
+      "title": "Lo stemma del Cantone è il seguente:"
     },
     {
       "number": 4,
@@ -37,7 +37,7 @@
       "number": 5,
       "suffix": "",
       "raw": "5",
-      "title": "La capitale del Cantone è Bellinzona ove hanno sede il Gran Consiglio e il Consiglio di"
+      "title": "Capitale"
     },
     {
       "number": 6,
@@ -79,7 +79,7 @@
       "number": 12,
       "suffix": "",
       "raw": "12",
-      "title": "Ognuno è tenuto ad adempiere ai doveri previsti dalla Costituzione e dalle leggi, a"
+      "title": "Doveri"
     },
     {
       "number": 13,
@@ -145,7 +145,7 @@
       "number": 23,
       "suffix": "",
       "raw": "23",
-      "title": "I Comuni, i consorzi di Comuni, i Patriziati e gli altri enti di diritto pubblico soggiacciono"
+      "title": "Vigilanza"
     },
     {
       "number": 24,
@@ -163,7 +163,7 @@
       "number": 26,
       "suffix": "",
       "raw": "26",
-      "title": "Il Cantone riconosce la funzione sociale dei sindacati e delle organizzazioni economiche"
+      "title": "Sindacati e organizzazioni economiche e professionali"
     },
     {
       "number": 27,
@@ -187,7 +187,7 @@
       "number": 30,
       "suffix": "",
       "raw": "30",
-      "title": "La legge definisce i casi in cui il cittadino ticinese all’estero acquista i diritti politici e ne"
+      "title": ""
     },
     {
       "number": 31,
@@ -199,7 +199,7 @@
       "number": 32,
       "suffix": "",
       "raw": "32",
-      "title": "Dovere di votare"
+      "title": "La partecipazione alle votazioni e alle elezioni è un dovere civico."
     },
     {
       "number": 33,
@@ -235,7 +235,7 @@
       "number": 38,
       "suffix": "",
       "raw": "38",
-      "title": "Se il numero di firme è raggiunto, il Gran Consiglio esamina preliminarmente la ricevibilità"
+      "title": ""
     },
     {
       "number": 39,
@@ -247,7 +247,7 @@
       "number": 40,
       "suffix": "",
       "raw": "40",
-      "title": "Se all’iniziativa popolare il Gran Consiglio contrappone un proprio progetto, i cittadini"
+      "title": ""
     },
     {
       "number": 41,
@@ -259,7 +259,7 @@
       "number": 4225,
       "suffix": "",
       "raw": "4225",
-      "title": "Sottostanno al voto popolare se richiesto nei sessanta giorni dalla pubblicazione nel"
+      "title": "Referendum facoltativo"
     },
     {
       "number": 43,
@@ -277,7 +277,7 @@
       "number": 4528,
       "suffix": "",
       "raw": "4528",
-      "title": "La legge stabilisce le norme di applicazione in materia di votazioni ed elezioni, di"
+      "title": "Norme di applicazione"
     },
     {
       "number": 4629,
@@ -313,19 +313,19 @@
       "number": 51,
       "suffix": "",
       "raw": "51",
-      "title": "L’autorità in quanto non riservata al popolo è esercitata dai tre poteri, tra loro distinti e"
+      "title": "Separazione dei poteri"
     },
     {
       "number": 52,
       "suffix": "",
       "raw": "52",
-      "title": "L’elezione del Gran Consiglio e del Consiglio di Stato ha luogo contemporaneamente"
+      "title": "Elezioni"
     },
     {
       "number": 53,
       "suffix": "",
       "raw": "53",
-      "title": "La legge regola l’organizzazione dei tre poteri e i rapporti tra Gran Consiglio e Consiglio"
+      "title": "Organizzazione"
     },
     {
       "number": 54,
@@ -343,7 +343,7 @@
       "number": 56,
       "suffix": "",
       "raw": "56",
-      "title": "Ogni autorità informa adeguatamente sulla propria attività. Non devono essere lesi"
+      "title": "Informazione"
     },
     {
       "number": 57,
@@ -368,6 +368,222 @@
       "suffix": "",
       "raw": "60",
       "title": "Sedute"
+    },
+    {
+      "number": 61,
+      "suffix": "",
+      "raw": "61",
+      "title": "Presidenza"
+    },
+    {
+      "number": 62,
+      "suffix": "",
+      "raw": "62",
+      "title": "Deliberazioni"
+    },
+    {
+      "number": 63,
+      "suffix": "",
+      "raw": "63",
+      "title": "Le sedute del Gran Consiglio sono pubbliche."
+    },
+    {
+      "number": 64,
+      "suffix": "",
+      "raw": "64",
+      "title": ""
+    },
+    {
+      "number": 65,
+      "suffix": "",
+      "raw": "65",
+      "title": "Consiglio di Stato"
+    },
+    {
+      "number": 66,
+      "suffix": "",
+      "raw": "66",
+      "title": "Elezione"
+    },
+    {
+      "number": 67,
+      "suffix": "",
+      "raw": "67",
+      "title": ""
+    },
+    {
+      "number": 68,
+      "suffix": "",
+      "raw": "68",
+      "title": "Sedute"
+    },
+    {
+      "number": 69,
+      "suffix": "",
+      "raw": "69",
+      "title": "Organizzazione"
+    },
+    {
+      "number": 70,
+      "suffix": "",
+      "raw": "70",
+      "title": "Il Consiglio di Stato, riservati i diritti del popolo e del Gran Consiglio:"
+    },
+    {
+      "number": 71,
+      "suffix": "",
+      "raw": "71",
+      "title": "Attività legislativa"
+    },
+    {
+      "number": 72,
+      "suffix": "",
+      "raw": "72",
+      "title": "Presenza in Gran Consiglio"
+    },
+    {
+      "number": 73,
+      "suffix": "",
+      "raw": "73",
+      "title": "Tribunali"
+    },
+    {
+      "number": 74,
+      "suffix": "",
+      "raw": "74",
+      "title": "Giurisdizione"
+    },
+    {
+      "number": 75,
+      "suffix": "",
+      "raw": "75",
+      "title": "Tribunali civili"
+    },
+    {
+      "number": 76,
+      "suffix": "",
+      "raw": "76",
+      "title": "Tribunali penali"
+    },
+    {
+      "number": 77,
+      "suffix": "",
+      "raw": "77",
+      "title": "Tribunali amministrativi"
+    },
+    {
+      "number": 78,
+      "suffix": "",
+      "raw": "78",
+      "title": "Inchieste giudiziarie e pubblica accusa"
+    },
+    {
+      "number": 79,
+      "suffix": "",
+      "raw": "79",
+      "title": ""
+    },
+    {
+      "number": 80,
+      "suffix": "",
+      "raw": "80",
+      "title": "Organizzazione e requisiti"
+    },
+    {
+      "number": 8140,
+      "suffix": "",
+      "raw": "8140",
+      "title": "Periodo di nomina ed elezione"
+    },
+    {
+      "number": 82,
+      "suffix": "",
+      "raw": "82",
+      "title": "Principio"
+    },
+    {
+      "number": 83,
+      "suffix": "",
+      "raw": "83",
+      "title": ""
+    },
+    {
+      "number": 8443,
+      "suffix": "",
+      "raw": "8443",
+      "title": ""
+    },
+    {
+      "number": 85,
+      "suffix": "",
+      "raw": "85",
+      "title": ""
+    },
+    {
+      "number": 86,
+      "suffix": "",
+      "raw": "86",
+      "title": ""
+    },
+    {
+      "number": 87,
+      "suffix": "",
+      "raw": "87",
+      "title": ""
+    },
+    {
+      "number": 88,
+      "suffix": "",
+      "raw": "88",
+      "title": ""
+    },
+    {
+      "number": 8946,
+      "suffix": "",
+      "raw": "8946",
+      "title": "Termini"
+    },
+    {
+      "number": 90,
+      "suffix": "",
+      "raw": "90",
+      "title": "Votazione"
+    },
+    {
+      "number": 91,
+      "suffix": "",
+      "raw": "91",
+      "title": "Entrata in vigore"
+    },
+    {
+      "number": 92,
+      "suffix": "",
+      "raw": "92",
+      "title": "Validità del diritto attuale"
+    },
+    {
+      "number": 93,
+      "suffix": "",
+      "raw": "93",
+      "title": "Nuovo diritto"
+    },
+    {
+      "number": 94,
+      "suffix": "",
+      "raw": "94",
+      "title": "Iniziative popolari e referendum facoltativi"
+    },
+    {
+      "number": 9548,
+      "suffix": "",
+      "raw": "9548",
+      "title": "Autorità e magistrati"
+    },
+    {
+      "number": 9649,
+      "suffix": "",
+      "raw": "9649",
+      "title": "L’art. 9a entra in vigore contemporaneamente alla nuova legge di applicazione."
     }
   ],
   "article_texts": {
@@ -379,18 +595,30 @@
       {
         "num": null,
         "text": "Costituzione federale."
+      },
+      {
+        "num": null,
+        "text": "Sovranità"
       }
     ],
     "2": [
       {
         "num": null,
         "text": "1La sovranità del Cantone risiede nell’universalità dei cittadini ed è esercitata nei modi stabiliti dalla Costituzione. 2Il voto del Cantone è dato dal popolo con la maggioranza dei voti validi."
+      },
+      {
+        "num": null,
+        "text": "Stemma"
       }
     ],
     "3": [
       {
         "num": null,
-        "text": "Lo stemma del Cantone è il seguente: “Partito di rosso e di azzurro”"
+        "text": "“Partito di rosso e di azzurro”"
+      },
+      {
+        "num": null,
+        "text": "Scopo"
       }
     ],
     "4": [
@@ -404,6 +632,10 @@
       }
     ],
     "5": [
+      {
+        "num": null,
+        "text": "La capitale del Cantone è Bellinzona ove hanno sede il Gran Consiglio e il Consiglio di"
+      },
       {
         "num": null,
         "text": "Stato."
@@ -427,18 +659,30 @@
       {
         "num": null,
         "text": "Diritti fondamentali e doveri"
+      },
+      {
+        "num": null,
+        "text": "Tutela della dignità umana"
       }
     ],
     "6": [
       {
         "num": null,
         "text": "1Il diritto alla vita è inerente alla persona umana e dev’essere protetto. 2La dignità umana è inviolabile. 3La pena di morte, la tortura e i trattamenti inumani o degradanti sono proibiti."
+      },
+      {
+        "num": null,
+        "text": "Uguaglianza"
       }
     ],
     "7": [
       {
         "num": null,
         "text": "1Nessuno deve subire svantaggio o trarre privilegio per motivi di origine, razza, posizione sociale, convinzione religiosa, filosofica, politica o stato di salute. 2Donne e uomini sono uguali davanti alla legge. 3Per lavoro di pari valore donne e uomini ricevono retribuzione uguale. 4Nella Costituzione, nelle leggi e nell’attività dello Stato le parole che si riferiscono all’uomo in genere intendono comprendere sia le donne sia gli uomini."
+      },
+      {
+        "num": null,
+        "text": "Diritti individuali"
       }
     ],
     "8": [
@@ -449,6 +693,10 @@
       {
         "num": null,
         "text": "a) la libertà personale, l’integrità fisica e morale; b) la libertà di coscienza e di religione; c) la libertà d’opinione, di informazione e di stampa; d) la tutela della sfera privata e dei dati personali e il diritto di ciascuno di consultare ogni raccolta di dati ufficiali o privati che lo concernono, domandarne la rettifica se errati e esigere di essere protetto contro una loro utilizzazione abusiva; e) la libertà di associazione, di riunione e di manifestazione pubblica; f) il diritto di sciopero e di serrata se si riferiscono ai rapporti di lavoro e non contrastano con impegni di preservare la pace del lavoro o di condurre trattative di conciliazione; g) la libertà di domicilio; h) la proprietà; i) l’attività economica nei limiti dell’interesse generale; l) il diritto di petizione alle autorità e di ottenere risposta entro un termine ragionevole; m) la libertà dei genitori di scegliere per i figli scuole diverse da quelle istituite dalle autorità pubbliche, purché conformi ai requisiti fondamentali previsti dallo Stato in materia di istruzione, e di curarne l’educazione religiosa e morale secondo le proprie convinzioni. 3I diritti individuali, salvaguardata la loro essenza, possono essere limitati per legge, nel rispetto del principio della proporzionalità, soltanto se un interesse pubblico preponderante lo esige. 4Nell’espressione delle libertà ideali la censura preventiva è vietata."
+      },
+      {
+        "num": null,
+        "text": "Inviolabilità della libertà personale"
       }
     ],
     "9": [
@@ -463,6 +711,10 @@
       {
         "num": null,
         "text": "Art. 9a4 1Nessuno può dissimulare o nascondere il proprio viso nelle vie pubbliche e nei luoghi aperti al pubblico (ad eccezione dei luoghi di culto) o destinati ad offrire un servizio pubblico. 2Nessuno può obbligare una persona a dissimulare il viso in ragione del suo sesso. 3Le eccezioni al primo capoverso e le sanzioni sono stabilite dalla legge."
+      },
+      {
+        "num": null,
+        "text": "Protezione giuridica"
       }
     ],
     "10": [
@@ -473,6 +725,10 @@
       {
         "num": "4",
         "text": "Introduzione dell’art. 9a con votazione popolare del 22.9.2013: voti favorevoli 63'494, voti contrari 32'777, in vigore dal 1.7.2016 - BU 2016, 193. 101.000 3 4II Cantone risponde del danno materiale e morale derivante dall’ingiusta privazione della libertà personale."
+      },
+      {
+        "num": null,
+        "text": "Cittadinanza"
       }
     ],
     "11": [
@@ -492,7 +748,7 @@
     "12": [
       {
         "num": null,
-        "text": "rispettare i diritti degli altri e a salvaguardare il diritto all’autodeterminazione delle generazioni future."
+        "text": "Ognuno è tenuto ad adempiere ai doveri previsti dalla Costituzione e dalle leggi, a rispettare i diritti degli altri e a salvaguardare il diritto all’autodeterminazione delle generazioni future."
       },
       {
         "num": null,
@@ -501,6 +757,10 @@
       {
         "num": null,
         "text": "Diritti e obiettivi sociali"
+      },
+      {
+        "num": null,
+        "text": "Diritti sociali"
       }
     ],
     "13": [
@@ -519,6 +779,10 @@
       {
         "num": null,
         "text": "Comuni e delle altre corporazioni e istituzioni di diritto pubblico. 5La lingua dei segni italiana è riconosciuta."
+      },
+      {
+        "num": null,
+        "text": "Obiettivi sociali"
       }
     ],
     "147": [
@@ -553,6 +817,10 @@
       {
         "num": null,
         "text": "Organismi sociali"
+      },
+      {
+        "num": null,
+        "text": "Compiti pubblici"
       }
     ],
     "1510": [
@@ -599,6 +867,10 @@
       {
         "num": null,
         "text": "1Per eseguire determinate attività di pubblico interesse, i Comuni possono riunirsi in associazioni di diritto pubblico dotate di personalità giuridica oppure collaborare sotto ogni altra forma organizzativa di natura pubblica, mista o privata. 2Il Consiglio di Stato può costituire consorzi di Comuni nei casi e nei limiti previsti dalla legge. 3Il consorzio di Comuni è un ente di diritto pubblico costituito per l’esercizio di attività di pubblico interesse con statuto approvato dai Comuni e dal Consiglio di Stato."
+      },
+      {
+        "num": null,
+        "text": "Fusione e divisione di Comuni"
       }
     ],
     "2011": [
@@ -609,6 +881,10 @@
       {
         "num": null,
         "text": "Comuni fatta salva la ratifica del Consiglio di Stato."
+      },
+      {
+        "num": null,
+        "text": "Distretti"
       }
     ],
     "21": [
@@ -619,6 +895,10 @@
       {
         "num": null,
         "text": "Bellinzona, Riviera, Blenio e Leventina. 2La legge ne determina l’estensione e i compiti, tenendo conto del territorio, della popolazione e del decentramento amministrativo e giudiziario."
+      },
+      {
+        "num": null,
+        "text": "Patriziato"
       }
     ],
     "22": [
@@ -634,13 +914,21 @@
     "23": [
       {
         "num": null,
-        "text": "alla vigilanza del Cantone. La legge ne disciplina le modalità ed i limiti."
+        "text": "I Comuni, i consorzi di Comuni, i Patriziati e gli altri enti di diritto pubblico soggiacciono alla vigilanza del Cantone. La legge ne disciplina le modalità ed i limiti."
+      },
+      {
+        "num": null,
+        "text": "Comunità religiose"
       }
     ],
     "24": [
       {
         "num": null,
         "text": "1La Chiesa cattolica apostolica romana e la Chiesa evangelica riformata hanno la personalità di diritto pubblico e si organizzano liberamente. 2La legge può conferire la personalità di diritto pubblico ad altre comunità religiose."
+      },
+      {
+        "num": null,
+        "text": "Partiti"
       }
     ],
     "25": [
@@ -656,7 +944,7 @@
     "26": [
       {
         "num": null,
-        "text": "e professionali e ne favorisce l’attività."
+        "text": "Il Cantone riconosce la funzione sociale dei sindacati e delle organizzazioni economiche e professionali e ne favorisce l’attività."
       },
       {
         "num": null,
@@ -708,25 +996,37 @@
     "30": [
       {
         "num": null,
-        "text": "stabilisce l’esercizio.15"
+        "text": "La legge definisce i casi in cui il cittadino ticinese all’estero acquista i diritti politici e ne stabilisce l’esercizio.15"
+      },
+      {
+        "num": null,
+        "text": "Segretezza"
       }
     ],
     "31": [
       {
         "num": null,
         "text": "1Il segreto del voto è inviolabile. 2La legge provvede a impedire il controllo per garantire la libertà del cittadino."
+      },
+      {
+        "num": null,
+        "text": "Dovere di votare"
       }
     ],
     "32": [
       {
         "num": null,
-        "text": "La partecipazione alle votazioni e alle elezioni è un dovere civico."
+        "text": "Dovere di accettare la carica"
       }
     ],
     "33": [
       {
         "num": null,
         "text": "1Ogni eletto dal popolo ad una carica pubblica ha il dovere di accettarla. 2La legge può rendere obbligatoria l’accettazione."
+      },
+      {
+        "num": null,
+        "text": "Informazione e agevolazione del voto"
       }
     ],
     "34": [
@@ -785,6 +1085,10 @@
       {
         "num": null,
         "text": "Elezioni, iniziativa popolare, referendum e revoca19"
+      },
+      {
+        "num": null,
+        "text": "Elezioni popolari"
       }
     ],
     "35": [
@@ -799,6 +1103,10 @@
       {
         "num": null,
         "text": "a) il Consiglio comunale; b) il Municipio; c) il Sindaco."
+      },
+      {
+        "num": null,
+        "text": "Elezioni di competenza del Gran Consiglio"
       }
     ],
     "3621": [
@@ -844,7 +1152,7 @@
     "38": [
       {
         "num": null,
-        "text": "della domanda di iniziativa, verificandone la conformità al diritto superiore, l’unità della forma e della materia e l’attuabilità entro un anno dalla pubblicazione nel Foglio ufficiale del risultato della domanda. 3. forma della domanda"
+        "text": "Se il numero di firme è raggiunto, il Gran Consiglio esamina preliminarmente la ricevibilità della domanda di iniziativa, verificandone la conformità al diritto superiore, l’unità della forma e della materia e l’attuabilità entro un anno dalla pubblicazione nel Foglio ufficiale del risultato della domanda. 3. forma della domanda"
       }
     ],
     "39": [
@@ -856,7 +1164,11 @@
     "40": [
       {
         "num": null,
-        "text": "aventi diritto di voto devono decidere, in un’unica votazione, se preferiscono l’iniziativa o il controprogetto rispetto al diritto vigente; hanno pure la facoltà di accettare o respingere entrambe le proposte e di esprimere la loro preferenza nel caso in cui iniziativa e controprogetto vengano accettati."
+        "text": "Se all’iniziativa popolare il Gran Consiglio contrappone un proprio progetto, i cittadini aventi diritto di voto devono decidere, in un’unica votazione, se preferiscono l’iniziativa o il controprogetto rispetto al diritto vigente; hanno pure la facoltà di accettare o respingere entrambe le proposte e di esprimere la loro preferenza nel caso in cui iniziativa e controprogetto vengano accettati."
+      },
+      {
+        "num": null,
+        "text": "Iniziativa legislativa dei Comuni"
       }
     ],
     "41": [
@@ -870,6 +1182,10 @@
       }
     ],
     "4225": [
+      {
+        "num": null,
+        "text": "Sottostanno al voto popolare se richiesto nei sessanta giorni dalla pubblicazione nel"
+      },
       {
         "num": null,
         "text": "Foglio ufficiale da almeno settemila cittadini aventi diritto di voto oppure da un quinto dei Comuni:"
@@ -889,6 +1205,10 @@
       {
         "num": null,
         "text": "Consiglio, con un terzo favorevole dei presenti e con un minimo di 25 deputati, vota la referendabilità obbligatoria della spesa. 2La legge ne disciplina le modalità."
+      },
+      {
+        "num": null,
+        "text": "Clausola d’urgenza"
       }
     ],
     "43": [
@@ -899,6 +1219,10 @@
       {
         "num": null,
         "text": "Consiglio. 22  Modifica dell’art. 37 cpv. 3 approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14'030; in vigore dal 15.3.2019 - BU 2019, 86. 23  Modifica dell’art. 39 cpv. 2 approvata con votazione popolare del 10.2.2019: voti favorevoli 47'630, voti contrari 17'297; in vigore dal 1.4.2019 - BU 2019, 85. 24  Introduzione dell’art. 39 cpv. 2bis approvata con votazione popolare del 10.2.2019: voti favorevoli 47'630, voti contrari 17'297; in vigore dal 1.4.2019 - BU 2019, 85. 25  Modifica dell’art. 42 approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14’030; in vigore dal 15.3.2019 - BU 2019, 86. 26  Introduzione dell’art. 42a approvata con votazione popolare del 26.9.2021: voti favorevoli 46'905, voti contrari 43'547, in vigore dal 18.2.2022 - BU 2022, 40. 101.000 9 2L’atto urgente perde la sua validità dopo un anno dalla sua entrata in vigore e non può essere rinnovato in via d’urgenza."
+      },
+      {
+        "num": null,
+        "text": "Revoca del Consiglio di Stato"
       }
     ],
     "44": [
@@ -922,7 +1246,11 @@
     "4528": [
       {
         "num": null,
-        "text": "iniziativa, di referendum, di revoca del Consiglio di Stato e di revoca del Municipio."
+        "text": "La legge stabilisce le norme di applicazione in materia di votazioni ed elezioni, di iniziativa, di referendum, di revoca del Consiglio di Stato e di revoca del Municipio."
+      },
+      {
+        "num": null,
+        "text": "Votazione"
       }
     ],
     "4629": [
@@ -937,6 +1265,10 @@
       {
         "num": null,
         "text": "Relazioni con la Confederazione, i Cantoni e i Paesi limitrofi"
+      },
+      {
+        "num": null,
+        "text": "Relazioni con la Confederazione e i Cantoni"
       }
     ],
     "47": [
@@ -947,18 +1279,30 @@
       {
         "num": null,
         "text": "Confederazione e dei Cantoni. 2A questo fine il Consiglio di Stato cura le relazioni con i deputati ticinesi alle Camere federali."
+      },
+      {
+        "num": null,
+        "text": "Deputati al Consiglio degli Stati"
       }
     ],
     "48": [
       {
         "num": null,
         "text": "1I deputati al Consiglio degli Stati sono eletti ogni quattro anni contemporaneamente ai deputati al Consiglio nazionale, con la maggioranza assoluta al primo turno. 2È ineleggibile il cittadino condannato alla pena detentiva o alla pena pecuniaria per crimini o delitti contrari alla dignità della carica.30"
+      },
+      {
+        "num": null,
+        "text": "Cooperazione transfrontaliera e principio dello standard minimo31"
       }
     ],
     "49": [
       {
         "num": null,
         "text": "1Il Cantone agevola e promuove la cooperazione transfrontaliera. 27  Introduzione dell’art. 44a approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 28  Modifica dell’art. 45 approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 29  Introduzione dell’art. 46 cpv. 3 approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 30  Introduzione dell’art. 48 cpv. 2 approvata con votazione popolare del 9.2.2014: voti favorevoli 101'114, voti contrari 11'775, in vigore dal 1.3.2015 - BU 2015, 555. 31  Modifica della nota marginale approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 101.000 10 2Qualora lo Stato estero limiti con regolamenti interni o sistemi di attuazione disincentivanti l’esecuzione al suo interno dei trattati internazionali conclusi con la Confederazione, il Cantone applicherà i medesimi standard minimi nel rispetto del criterio di reciprocità nell’attuazione.32"
+      },
+      {
+        "num": null,
+        "text": "Mandato alle autorità e lotta contro il dumping salariale33"
       }
     ],
     "50": [
@@ -986,7 +1330,7 @@
     "51": [
       {
         "num": null,
-        "text": "separati, il Legislativo, l’Esecutivo, il Giudiziario."
+        "text": "L’autorità in quanto non riservata al popolo è esercitata dai tre poteri, tra loro distinti e separati, il Legislativo, l’Esecutivo, il Giudiziario."
       },
       {
         "num": null,
@@ -996,7 +1340,7 @@
     "52": [
       {
         "num": null,
-        "text": "ogni quattro anni, nel mese di aprile, nel giorno stabilito dal Consiglio di Stato."
+        "text": "L’elezione del Gran Consiglio e del Consiglio di Stato ha luogo contemporaneamente ogni quattro anni, nel mese di aprile, nel giorno stabilito dal Consiglio di Stato."
       },
       {
         "num": null,
@@ -1006,7 +1350,11 @@
     "53": [
       {
         "num": null,
-        "text": "di Stato."
+        "text": "La legge regola l’organizzazione dei tre poteri e i rapporti tra Gran Consiglio e Consiglio di Stato."
+      },
+      {
+        "num": null,
+        "text": "Incompatibilità"
       }
     ],
     "54": [
@@ -1017,6 +1365,10 @@
       {
         "num": null,
         "text": "Consiglio, magistrato dell’ordine giudiziario cantonale o federale.35 2I Consiglieri di Stato e i magistrati dell’ordine giudiziario non possono essere contemporaneamente membri del Consiglio degli Stati o del Consiglio nazionale, né membri di un Municipio. I Consiglieri di Stato non possono inoltre essere membri di un Consiglio comunale. 3La carica di deputato al Gran Consiglio è incompatibile con un impiego pubblico salariato cantonale; la legge regola le eccezioni. 4La legge regola le incompatibilità per parentela, mandato o professione per i membri delle autorità."
+      },
+      {
+        "num": null,
+        "text": "Esclusione e ricusa"
       }
     ],
     "55": [
@@ -1032,23 +1384,35 @@
     "56": [
       {
         "num": null,
-        "text": "interessi pubblici o privati preponderanti."
+        "text": "Ogni autorità informa adeguatamente sulla propria attività. Non devono essere lesi interessi pubblici o privati preponderanti."
       },
       {
         "num": null,
         "text": "B. Potere legislativo"
+      },
+      {
+        "num": null,
+        "text": "Gran Consiglio"
       }
     ],
     "57": [
       {
         "num": null,
         "text": "1Il Gran Consiglio di novanta membri è l’autorità legislativa del Cantone. 32  Modifica dell’art. 49 cpv. 2 approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 33  Modifica della nota marginale approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 34  Modifica dell’art. 50 cpv. 2 approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 35  Modifica dell’art. 54 cpv. 1 approvata con votazione popolare del 23.9.2012: voti favorevoli 56'830, voti contrari 22'474, in vigore dal 1.1.2013 - BU 2012, 487. 101.000 11 2Esso esercita l’alta vigilanza sul Consiglio di Stato e sui tribunali ed esercita gli attributi della sovranità che la Costituzione non riserva esplicitamente ad altra autorità."
+      },
+      {
+        "num": null,
+        "text": "Elezione"
       }
     ],
     "58": [
       {
         "num": null,
         "text": "1Il Gran Consiglio è eletto in un unico circondario con il sistema proporzionale con facoltà ai partiti di garantire la rappresentanza regionale. 2La legge ne disciplina le modalità."
+      },
+      {
+        "num": null,
+        "text": "Competenze"
       }
     ],
     "5936": [
@@ -1059,6 +1423,10 @@
       {
         "num": null,
         "text": "a) stabilisce la sua organizzazione e le modalità per le discussioni e le decisioni; b) verifica i poteri dei suoi membri; c) adotta, modifica o respinge i progetti di legge e di decreto legislativo; d) autorizza il prelevamento delle imposte e le spese; e) decide i programmi attribuitigli per legge, esamina quelli elaborati dal Consiglio di Stato e ne verifica l’attuazione; f) stabilisce, su proposta del Consiglio di Stato, il bilancio preventivo delle entrate e delle spese del Cantone; g) esamina ogni anno l’amministrazione e i conti del Cantone su rapporto del Consiglio di Stato e li approva; h) si fa render conto dal Consiglio di Stato dell’esecuzione delle leggi, dei decreti e dei regolamenti; i) autorizza o ratifica l’alienazione e la concessione dei beni cantonali, in quanto la legge non le demandi al Consiglio di Stato; l) fissa la retribuzione ai magistrati e ai dipendenti; m) procede alle nomine che gli sono attribuite dalla Costituzione e dalle leggi; n) destituisce dalla carica il membro del Gran Consiglio o del Consiglio di Stato che si trova in condizioni di ineleggibilità;37 o) esercita il diritto di amnistia e di grazia; p) esercita i compiti giurisdizionali attribuitigli dalla legge; q) approva le convenzioni di diritto pubblico di carattere legislativo e quelle che comportano una spesa soggetta a referendum; r) esercita i diritti di iniziativa e referendum che la Costituzione federale attribuisce al Cantone. 2A ciascun membro del Gran Consiglio spetta il diritto di iniziativa in materia di revisione parziale della Costituzione e in materia legislativa."
+      },
+      {
+        "num": null,
+        "text": "Sedute"
       }
     ],
     "60": [
@@ -1068,7 +1436,411 @@
       },
       {
         "num": null,
-        "text": "Presidenza _… 36 more articles not shown. Total text length: 51,902 chars._"
+        "text": "Presidenza"
+      }
+    ],
+    "61": [
+      {
+        "num": null,
+        "text": "Il Gran Consiglio nomina nel mese di maggio il presidente, che sta in carica un anno e non è immediatamente rieleggibile."
+      },
+      {
+        "num": null,
+        "text": "Deliberazioni"
+      }
+    ],
+    "62": [
+      {
+        "num": null,
+        "text": "1Il Gran Consiglio può discutere e decidere solo se è presente la maggioranza assoluta dei suoi membri. 2Per decidere la destituzione di un membro del Consiglio di Stato è necessaria la maggioranza assoluta dei membri del Gran Consiglio."
+      },
+      {
+        "num": null,
+        "text": "Pubblicità"
+      }
+    ],
+    "63": [
+      {
+        "num": null,
+        "text": "Seconda deliberazione 36  Modifica dell’art. 59 cpv. 1 lett. r) approvata con votazione popolare del 25.9.2005: voti favorevoli 58'456, voti contrari 15'731, in vigore dal 4.11.2005 - BU 2005, 363. 37  Modifica dell’art. 59 cpv. 1 lett. n) approvata con votazione popolare del 9.2.2014: voti favorevoli 101'114, voti contrari 11'775, in vigore dal 1.3.2015 - BU 2015, 555. 101.000 12"
+      }
+    ],
+    "64": [
+      {
+        "num": null,
+        "text": "1Se il Consiglio di Stato non ha dato l’adesione alla legge o al decreto legislativo, il Gran"
+      },
+      {
+        "num": null,
+        "text": "Consiglio procede ad una seconda deliberazione. 2Il Consiglio di Stato ha la facoltà di presentare le sue osservazioni entro un termine massimo di tre mesi."
+      },
+      {
+        "num": null,
+        "text": "C. Potere esecutivo"
+      },
+      {
+        "num": null,
+        "text": "Consiglio di Stato"
+      }
+    ],
+    "65": [
+      {
+        "num": null,
+        "text": "1Il Consiglio di Stato di cinque membri è l’autorità governativa ed esecutiva del Cantone. 2Esso dirige collegialmente gli affari cantonali in base alle competenze previste dalla Costituzione e dalle leggi."
+      },
+      {
+        "num": null,
+        "text": "Elezione"
+      }
+    ],
+    "66": [
+      {
+        "num": null,
+        "text": "1Il Consiglio di Stato è eletto in un unico circondario con il sistema proporzionale. 2La ripartizione dei seggi fra i gruppi si effettua in base al quoziente risultante dalla divisione della somma dei voti validi ottenuti dai singoli gruppi per il numero dei seggi da assegnare aumentato di uno. 3Ad ogni gruppo sono assegnati tanti seggi quante volte il quoziente è contenuto nel totale dei suoi voti. 4I seggi restanti sono ripartiti dividendo il numero dei voti ottenuti da ogni gruppo per quello dei seggi già assegnatigli aumentato di uno, ritenuto:"
+      },
+      {
+        "num": null,
+        "text": "a) che al gruppo che ottiene il maggior quoziente è assegnato un ulteriore seggio; b) che l’operazione va ripetuta fino alla ripartizione di tutti i seggi. 5La legge regola le modalità dell’elezione nel caso di una vacanza durante il periodo amministrativo, in particolare se un gruppo non propone il subentrante quando la lista dei candidati è esaurita."
+      }
+    ],
+    "67": [
+      {
+        "num": null,
+        "text": "…38"
+      },
+      {
+        "num": null,
+        "text": "Sedute"
+      }
+    ],
+    "68": [
+      {
+        "num": null,
+        "text": "Le sedute del Consiglio di Stato non sono pubbliche, salvo i casi previsti dalla legge."
+      },
+      {
+        "num": null,
+        "text": "Organizzazione"
+      }
+    ],
+    "69": [
+      {
+        "num": null,
+        "text": "1Il Consiglio di Stato nomina annualmente tra i suoi membri un presidente e un vicepresidente non immediatamente rieleggibili. 2Per ogni decisione del Consiglio di Stato occorre la maggioranza assoluta dei suoi membri; per ogni revoca, sospensione o modifica di atti individuali e concreti occorre il voto concorde di almeno quattro membri. 3I Consiglieri di Stato non possono astenersi dal voto. 4Il Consiglio di Stato organizza ed esercita l’attività per mezzo dei Dipartimenti e delle altre istanze subordinate. 5La legge regola il diritto di ricorso contro le decisioni del Consiglio di Stato, dei Dipartimenti e delle altre istanze subordinate."
+      },
+      {
+        "num": null,
+        "text": "Competenze"
+      }
+    ],
+    "70": [
+      {
+        "num": null,
+        "text": "a) pianifica l’attività del Cantone e provvede a realizzarne i programmi; b) cura l’esecuzione delle leggi federali e cantonali e delle decisioni del Gran Consiglio; emana le necessarie norme mediante decreti esecutivi, regolamenti, risoluzioni o altre disposizioni; c) amministra le finanze ed i beni del Cantone e presenta annualmente i conti consuntivi e preventivi; d) dirige l’amministrazione cantonale e ne fa rapporto ogni anno al Gran Consiglio; e) nomina i dipendenti e le persone incaricate di una funzione pubblica cantonale, salvo diversa disposizione della Costituzione o della legge; f) vigila sulle autorità dei Comuni e degli altri enti pubblici e ne coordina l’attività nei limiti fissati dalla legge; g) assicura l’ordine pubblico; h) rappresenta il Cantone nei confronti della Confederazione, degli altri Cantoni e di ogni altra autorità; 38  Abrogazione dell’art. 67 approvata con votazione popolare del 9.2.2014: voti favorevoli 101'114, voti contrari 11'775, in vigore dal 1.3.2015 - BU 2015, 555. 101.000 13 i) risponde alle consultazioni promosse dalla Confederazione e può sottoporre gli oggetti di particolare importanza al Gran Consiglio."
+      },
+      {
+        "num": null,
+        "text": "Attività legislativa"
+      }
+    ],
+    "71": [
+      {
+        "num": null,
+        "text": "1Il Consiglio di Stato ha l’iniziativa per modificare la Costituzione e per presentare progetti di legge e di decreto legislativo. 2Esso può avvalersi di periti o speciali commissioni e consultare i Comuni, i partiti politici ed altre organizzazioni. Chiunque può inoltrare osservazioni. 3È facoltà del Consiglio di Stato di ritirare un suo progetto prima della definitiva accettazione del"
+      },
+      {
+        "num": null,
+        "text": "Gran Consiglio."
+      },
+      {
+        "num": null,
+        "text": "Presenza in Gran Consiglio"
+      }
+    ],
+    "72": [
+      {
+        "num": null,
+        "text": "Il Consiglio di Stato assiste al completo o per delegazione alle sedute del Gran Consiglio."
+      },
+      {
+        "num": null,
+        "text": "D. Potere giudiziario"
+      },
+      {
+        "num": null,
+        "text": "Tribunali"
+      }
+    ],
+    "73": [
+      {
+        "num": null,
+        "text": "1I tribunali esercitano il potere giudiziario. 2Essi decidono in modo indipendente e sono vincolati dalla legge; essi non possono applicare norme cantonali che fossero contrarie al diritto federale o alla Costituzione cantonale."
+      },
+      {
+        "num": null,
+        "text": "Giurisdizione"
+      }
+    ],
+    "74": [
+      {
+        "num": null,
+        "text": "I tribunali hanno giurisdizione in materia civile, penale e amministrativa. A un tribunale possono essere affidate più giurisdizioni."
+      },
+      {
+        "num": null,
+        "text": "Tribunali civili"
+      }
+    ],
+    "75": [
+      {
+        "num": null,
+        "text": "1La giurisdizione civile è esercitata:"
+      },
+      {
+        "num": null,
+        "text": "a) dai Giudici di pace; b) dai Pretori; c) dal Tribunale d’appello. 2Le controversie di diritto commerciale, del lavoro e di locazione possono dalla legge essere attribuite ad altri tribunali."
+      },
+      {
+        "num": null,
+        "text": "Tribunali penali"
+      }
+    ],
+    "76": [
+      {
+        "num": null,
+        "text": "1La giurisdizione penale è esercitata:"
+      },
+      {
+        "num": null,
+        "text": "a) dal Tribunale penale di prima istanza; b) dal Tribunale penale di seconda istanza; c) dal Magistrato dei minorenni. 2La legge disciplina la partecipazione dei giurati. 3La legge può attribuire a magistrati giudiziari ed altre autorità giudiziarie competenze per decisioni di prima istanza e ad autorità amministrative competenze in materia di multe."
+      },
+      {
+        "num": null,
+        "text": "Tribunali amministrativi"
+      }
+    ],
+    "77": [
+      {
+        "num": null,
+        "text": "1La giurisdizione amministrativa è esercitata:"
+      },
+      {
+        "num": null,
+        "text": "a) dal Tribunale amministrativo; b) dal Tribunale delle assicurazioni; c) dal Tribunale fiscale; d) dal Tribunale delle espropriazioni; e) …39 2Le decisioni di prima istanza possono essere affidate ad autorità amministrative. 3La legge stabilisce l’autorità che decide i conflitti di competenza in materia di diritto amministrativo."
+      },
+      {
+        "num": null,
+        "text": "Inchieste giudiziarie e pubblica accusa"
+      }
+    ],
+    "78": [
+      {
+        "num": null,
+        "text": "La legge affida a magistrati il compito di esperire l’inchiesta giudiziaria e di rappresentare la pubblica accusa."
+      },
+      {
+        "num": null,
+        "text": "Consiglio della magistratura 39  Abrogazione dell’art. 77 lett. e) approvata con votazione popolare del 25.9.2005: voti favorevoli 59'767, voti contrari 14'452, in vigore dal 14.7.2006 - BU 2006, 215. 101.000 14"
+      }
+    ],
+    "79": [
+      {
+        "num": null,
+        "text": "1La vigilanza sui magistrati è esercitata dal Consiglio della magistratura che ne riferisce al Gran Consiglio. 2Esso si compone di sette membri: quattro eletti dal Gran Consiglio e tre dall’assemblea dei magistrati a tempo pieno, secondo le modalità stabilite dalla legge."
+      },
+      {
+        "num": null,
+        "text": "Organizzazione e requisiti"
+      }
+    ],
+    "80": [
+      {
+        "num": null,
+        "text": "La legge stabilisce l’organizzazione giudiziaria, le competenze, le procedure, i requisiti di formazione professionale e l’età massima per i magistrati."
+      },
+      {
+        "num": null,
+        "text": "Periodo di nomina ed elezione"
+      }
+    ],
+    "8140": [
+      {
+        "num": null,
+        "text": "1Il periodo di nomina dei magistrati è di dieci anni. 2I giudici di pace sono eletti con il sistema maggioritario nei circondari uninominali e con il sistema proporzionale negli altri casi. 3La legge regola le nomine di competenza del Gran Consiglio."
+      },
+      {
+        "num": null,
+        "text": "TITOLO IX"
+      },
+      {
+        "num": null,
+        "text": "Revisione della Costituzione"
+      },
+      {
+        "num": null,
+        "text": "Principio"
+      }
+    ],
+    "82": [
+      {
+        "num": null,
+        "text": "1La Costituzione può essere modificata in ogni tempo totalmente o parzialmente. 2I progetti di revisione totale proposti dal Consiglio di Stato e dal Gran Consiglio possono contenere su singoli oggetti al massimo due varianti.41 3Ogni revisione della Costituzione deve essere approvata in votazione popolare."
+      },
+      {
+        "num": null,
+        "text": "Revisione totale 1. Proposta"
+      }
+    ],
+    "83": [
+      {
+        "num": null,
+        "text": "1La revisione totale della Costituzione può essere proposta:"
+      },
+      {
+        "num": null,
+        "text": "a) dal Consiglio di Stato; b) dal Gran Consiglio, con il voto della maggioranza dei suoi membri; c) da almeno diecimila cittadini aventi diritto di voto. 2La raccolta delle firme deve avvenire entro cento giorni dalla data di pubblicazione nel Foglio ufficiale della domanda di iniziativa.42 2. Procedura"
+      }
+    ],
+    "8443": [
+      {
+        "num": null,
+        "text": "1Quando la proposta è di iniziativa popolare o del Gran Consiglio i cittadini aventi diritto di voto devono preliminarmente decidere, in un’unica votazione, se vogliono la revisione totale e se il progetto deve essere elaborato dal Gran Consiglio oppure dalla Costituente. 2L’iniziativa popolare per la revisione totale può essere ritirata sino allo svolgimento della votazione preliminare. 3La Costituente viene eletta entro sei mesi nei modi stabiliti per la nomina del Gran Consiglio, con uguale numero di deputati, e resta in carica al massimo cinque anni. 4Consiglio di Stato e Gran Consiglio applicano la procedura prevista per la legislazione cantonale."
+      },
+      {
+        "num": null,
+        "text": "Revisione parziale 1. Proposta44"
+      }
+    ],
+    "85": [
+      {
+        "num": null,
+        "text": "1La revisione parziale della Costituzione per iniziativa del Consiglio di Stato o del Gran"
+      },
+      {
+        "num": null,
+        "text": "Consiglio avviene secondo la procedura prevista per la legislazione cantonale. 2La revisione parziale della Costituzione può essere chiesta da almeno diecimila cittadini aventi diritto di voto, secondo la procedura stabilita dalla legge. 40  La norma transitoria relativa a questo articolo, approvata con votazione popolare del 1.6.2008: voti favorevoli 68'127, voti contrari 23'108, è decaduta il 1.1.2011 - BU 2008, 327. 41  Modifica dell’art. 82 cpv. 2 approvata con votazione popolare del 10.2.2019: voti favorevoli 57'531, voti contrari 8’145 in vigore dal 15.3.2019 - BU 2019, 87. 42  Modifica dell’art. 83 cpv. 2 approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14'030; in vigore dal 15.3.2019 - BU 2019, 86. 43  Modifica dell’art. 84 cpv. 3 approvata con votazione popolare del 25.9.2005: voti favorevoli 59'151, voti contrari 14'847, in vigore dal 4.11.2005 - BU 2005, 363. 44  Modifica della nota marginale approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14'030; in vigore dal 15.3.2019 - BU 2019, 86. 101.000 15 3La revisione parziale deve limitarsi ad un campo normativo unitario; può comprendere più disposizioni. 4La raccolta delle firme deve avvenire entro cento giorni dalla data di pubblicazione nel Foglio ufficiale della domanda di iniziativa.45 3. Ricevibilità"
+      }
+    ],
+    "86": [
+      {
+        "num": null,
+        "text": "Se il numero di firme è raggiunto, il Gran Consiglio esamina preliminarmente la ricevibilità della domanda di iniziativa, verificandone la conformità al diritto superiore, l’unità della forma e della materia e l’attuabilità entro un anno dalla pubblicazione nel Foglio ufficiale del risultato della domanda. 4. Forma della iniziativa popolare"
+      }
+    ],
+    "87": [
+      {
+        "num": null,
+        "text": "1La domanda di iniziativa popolare può essere presentata in forma elaborata o generica. 2Nel primo caso, la domanda viene sottoposta al voto popolare; il Gran Consiglio può sottoporre contemporaneamente un controprogetto sulla stessa materia. 3Nel secondo caso, il Gran Consiglio è tenuto a elaborare, nel senso della domanda, il progetto da sottoporre al voto popolare; esso può sottoporre un controprogetto sulla stessa materia. 4L’iniziativa per la revisione parziale può essere ritirata. 5. Procedura con controprogetto"
+      }
+    ],
+    "88": [
+      {
+        "num": null,
+        "text": "Se all’iniziativa popolare per la revisione parziale il Gran Consiglio contrappone un proprio progetto, i cittadini aventi diritto di voto devono decidere, in un’unica votazione, se preferiscono l’iniziativa o il controprogetto rispetto al diritto vigente; hanno pure la facoltà di accettare o respingere entrambe le proposte e di esprimere la loro preferenza nel caso in cui iniziativa e controprogetto vengano accettati."
+      },
+      {
+        "num": null,
+        "text": "Termini"
+      }
+    ],
+    "8946": [
+      {
+        "num": null,
+        "text": "1Nel caso di revisione totale, l’autorità designata deve allestire il progetto entro cinque anni dalla pubblicazione nel Foglio ufficiale dei risultati della votazione preliminare. 2Nel caso di revisione parziale, il Gran Consiglio deve concludere le deliberazioni entro 18 mesi dalla pubblicazione nel Foglio ufficiale del risultato della domanda d’iniziativa popolare o dalla presentazione del messaggio relativo del Consiglio di Stato."
+      },
+      {
+        "num": null,
+        "text": "Votazione"
+      }
+    ],
+    "90": [
+      {
+        "num": null,
+        "text": "1La votazione preliminare sull’iniziativa per la revisione totale della Costituzione deve aver luogo entro sessanta giorni dalla pubblicazione nel Foglio ufficiale del risultato della domanda. 2Le altre votazioni in materia di iniziativa costituzionale devono aver luogo entro sessanta giorni dalla conclusione delle deliberazioni del Gran Consiglio o della Costituente. 3La votazione sull’iniziativa per la revisione parziale deve aver luogo in ogni caso al più tardi entro due anni dalla pubblicazione nel Foglio ufficiale del risultato della domanda."
+      },
+      {
+        "num": null,
+        "text": "TITOLO X"
+      },
+      {
+        "num": null,
+        "text": "Norme transitorie e finali"
+      },
+      {
+        "num": null,
+        "text": "Entrata in vigore"
+      }
+    ],
+    "91": [
+      {
+        "num": null,
+        "text": "1La Costituzione entra in vigore il primo gennaio dell’anno successivo a quello dell’approvazione del popolo.47 2Da questa data la Costituzione della Repubblica e Cantone del Ticino del 4 luglio 1830, riordinata il 29 ottobre 1967, è abrogata. 45  Modifica dell’art. 85 cpv. 4 approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14'030; in vigore dal 15.3.2019 - BU 2019, 86. 46  Modifica dell’art. 89 cpv. 2 approvata con votazione popolare del 25.9.2005: voti favorevoli 59'453, voti contrari 14'419, in vigore dal 4.11.2005 - BU 2005, 363. 47  La Segreteria del Gran Consiglio, visto il regolamento sulle deleghe del 24 agosto 1994; visto l’esito della votazione popolare del 14 dicembre 1997, or dina : il testo della nuova Costituzione cantonale è pubblicato nel Bollettino ufficiale delle leggi e degli atti esecutivi del Cantone Ticino ed entra in vigore il 1° gennaio 1998. 101.000 16"
+      },
+      {
+        "num": null,
+        "text": "Validità del diritto attuale"
+      }
+    ],
+    "92": [
+      {
+        "num": null,
+        "text": "1Il diritto in vigore mantiene la propria validità. Le norme materialmente contrarie alla"
+      },
+      {
+        "num": null,
+        "text": "Costituzione decadono. 2Le norme adottate secondo una procedura non più prevista dalla Costituzione rimangono in vigore."
+      },
+      {
+        "num": null,
+        "text": "La loro modificazione soggiace alla nuova procedura."
+      },
+      {
+        "num": null,
+        "text": "Nuovo diritto"
+      }
+    ],
+    "93": [
+      {
+        "num": null,
+        "text": "1L’adeguamento del diritto alla Costituzione avviene nel termine di cinque anni dall’entrata in vigore. 2Entro un anno dall’entrata in vigore della Costituzione il Consiglio di Stato informa il Gran Consiglio con un rapporto sulle necessarie modifiche legislative. Il Gran Consiglio lo discute."
+      },
+      {
+        "num": null,
+        "text": "Iniziative popolari e referendum facoltativi"
+      }
+    ],
+    "94": [
+      {
+        "num": null,
+        "text": "Iniziative depositate e referendum promossi contro leggi e decreti legislativi approvati prima dell’entrata in vigore della Costituzione sono regolati dal vecchio diritto."
+      },
+      {
+        "num": null,
+        "text": "Autorità e magistrati"
+      }
+    ],
+    "9548": [
+      {
+        "num": null,
+        "text": "Il vecchio diritto regola la durata in carica di autorità e magistrati nonché la loro sostituzione fino alla scadenza del periodo di elezione o di nomina."
+      },
+      {
+        "num": null,
+        "text": "Disposizione transitoria dell’art. 9a"
+      }
+    ],
+    "9649": [
+      {
+        "num": null,
+        "text": "Approvata con votazione popolare cantonale del 14.12.1997: voti favorevoli 40'455, voti contrari 10'984."
+      },
+      {
+        "num": null,
+        "text": "Entrata in vigore: 1° gennaio 1998."
+      },
+      {
+        "num": null,
+        "text": "Pubblicata nel BU 1997, 575. 48  La norma transitoria relativa a questo articolo, approvata con votazione popolare del 1.6.2008: voti favorevoli 68'127, voti contrari 23'108, è decaduta il 1.1.2011 - BU 2008, 327. 49  Introduzione dell’art. 96 con votazione popolare del 22.9.2013: voti favorevoli 63'494, voti contrari 32'777, in vigore dal 1.7.2016 - BU 2016, 193."
       }
     ]
   }
