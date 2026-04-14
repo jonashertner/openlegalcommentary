@@ -3,16 +3,17 @@
   "law_key": "ti-kv",
   "sr_number": "101.000",
   "language": "it",
-  "title": "Costituzione della Repubblica e Cantone Ticino",
+  "title": "SR Number:** 101.000",
   "lexfind_id": 20038,
-  "fetched_at": "2026-04-13",
-  "article_count": 96,
+  "fetched_at": "2026-04-14",
+  "source": "mcp_lexfind_pdf",
+  "article_count": 60,
   "articles": [
     {
       "number": 1,
       "suffix": "",
       "raw": "1",
-      "title": ""
+      "title": "Cantone Ticino"
     },
     {
       "number": 2,
@@ -87,6 +88,18 @@
       "title": "Diritti sociali"
     },
     {
+      "number": 147,
+      "suffix": "",
+      "raw": "147",
+      "title": "Obiettivi sociali"
+    },
+    {
+      "number": 1510,
+      "suffix": "",
+      "raw": "1510",
+      "title": "Compiti pubblici"
+    },
+    {
       "number": 16,
       "suffix": "",
       "raw": "16",
@@ -109,6 +122,12 @@
       "suffix": "",
       "raw": "19",
       "title": ""
+    },
+    {
+      "number": 2011,
+      "suffix": "",
+      "raw": "2011",
+      "title": "Fusione e divisione di Comuni"
     },
     {
       "number": 21,
@@ -150,6 +169,12 @@
       "number": 27,
       "suffix": "",
       "raw": "27",
+      "title": ""
+    },
+    {
+      "number": 2812,
+      "suffix": "",
+      "raw": "2812",
       "title": ""
     },
     {
@@ -195,6 +220,12 @@
       "title": "Elezioni popolari"
     },
     {
+      "number": 3621,
+      "suffix": "",
+      "raw": "3621",
+      "title": "Elezioni di competenza del Gran Consiglio"
+    },
+    {
       "number": 37,
       "suffix": "",
       "raw": "37",
@@ -225,6 +256,12 @@
       "title": "Iniziativa legislativa dei Comuni"
     },
     {
+      "number": 4225,
+      "suffix": "",
+      "raw": "4225",
+      "title": "Sottostanno al voto popolare se richiesto nei sessanta giorni dalla pubblicazione nel"
+    },
+    {
       "number": 43,
       "suffix": "",
       "raw": "43",
@@ -235,6 +272,18 @@
       "suffix": "",
       "raw": "44",
       "title": "Revoca del Consiglio di Stato"
+    },
+    {
+      "number": 4528,
+      "suffix": "",
+      "raw": "4528",
+      "title": "La legge stabilisce le norme di applicazione in materia di votazioni ed elezioni, di"
+    },
+    {
+      "number": 4629,
+      "suffix": "",
+      "raw": "4629",
+      "title": "Votazione"
     },
     {
       "number": 47,
@@ -309,280 +358,16 @@
       "title": "Elezione"
     },
     {
-      "number": 60,
-      "suffix": "",
-      "raw": "60",
-      "title": "Sedute"
-    },
-    {
-      "number": 61,
-      "suffix": "",
-      "raw": "61",
-      "title": "Il Gran Consiglio nomina nel mese di maggio il presidente, che sta in carica un anno e"
-    },
-    {
-      "number": 62,
-      "suffix": "",
-      "raw": "62",
-      "title": "Deliberazioni"
-    },
-    {
-      "number": 63,
-      "suffix": "",
-      "raw": "63",
-      "title": "Pubblicità"
-    },
-    {
-      "number": 64,
-      "suffix": "",
-      "raw": "64",
-      "title": ""
-    },
-    {
-      "number": 65,
-      "suffix": "",
-      "raw": "65",
-      "title": "Consiglio di Stato"
-    },
-    {
-      "number": 66,
-      "suffix": "",
-      "raw": "66",
-      "title": "Elezione"
-    },
-    {
-      "number": 67,
-      "suffix": "",
-      "raw": "67",
-      "title": ""
-    },
-    {
-      "number": 68,
-      "suffix": "",
-      "raw": "68",
-      "title": "Sedute"
-    },
-    {
-      "number": 69,
-      "suffix": "",
-      "raw": "69",
-      "title": "Organizzazione"
-    },
-    {
-      "number": 70,
-      "suffix": "",
-      "raw": "70",
-      "title": "Competenze"
-    },
-    {
-      "number": 71,
-      "suffix": "",
-      "raw": "71",
-      "title": "Attività legislativa"
-    },
-    {
-      "number": 72,
-      "suffix": "",
-      "raw": "72",
-      "title": "Presenza in Gran Consiglio"
-    },
-    {
-      "number": 73,
-      "suffix": "",
-      "raw": "73",
-      "title": "Tribunali"
-    },
-    {
-      "number": 74,
-      "suffix": "",
-      "raw": "74",
-      "title": "I tribunali hanno giurisdizione in materia civile, penale e amministrativa. A un tribunale"
-    },
-    {
-      "number": 75,
-      "suffix": "",
-      "raw": "75",
-      "title": "Tribunali civili"
-    },
-    {
-      "number": 76,
-      "suffix": "",
-      "raw": "76",
-      "title": "Tribunali penali"
-    },
-    {
-      "number": 77,
-      "suffix": "",
-      "raw": "77",
-      "title": "Tribunali amministrativi"
-    },
-    {
-      "number": 78,
-      "suffix": "",
-      "raw": "78",
-      "title": "La legge affida a magistrati il compito di esperire l’inchiesta giudiziaria e di rappresentare"
-    },
-    {
-      "number": 79,
-      "suffix": "",
-      "raw": "79",
-      "title": ""
-    },
-    {
-      "number": 80,
-      "suffix": "",
-      "raw": "80",
-      "title": "La legge stabilisce l’organizzazione giudiziaria, le competenze, le procedure, i requisiti"
-    },
-    {
-      "number": 82,
-      "suffix": "",
-      "raw": "82",
-      "title": "Principio"
-    },
-    {
-      "number": 83,
-      "suffix": "",
-      "raw": "83",
-      "title": ""
-    },
-    {
-      "number": 85,
-      "suffix": "",
-      "raw": "85",
-      "title": ""
-    },
-    {
-      "number": 86,
-      "suffix": "",
-      "raw": "86",
-      "title": "Se il numero di firme è raggiunto, il Gran Consiglio esamina preliminarmente la ricevibilità"
-    },
-    {
-      "number": 87,
-      "suffix": "",
-      "raw": "87",
-      "title": ""
-    },
-    {
-      "number": 88,
-      "suffix": "",
-      "raw": "88",
-      "title": "Se all’iniziativa popolare per la revisione parziale il Gran Consiglio contrappone un"
-    },
-    {
-      "number": 90,
-      "suffix": "",
-      "raw": "90",
-      "title": "Votazione"
-    },
-    {
-      "number": 91,
-      "suffix": "",
-      "raw": "91",
-      "title": "Entrata in vigore"
-    },
-    {
-      "number": 92,
-      "suffix": "",
-      "raw": "92",
-      "title": "Validità del diritto attuale"
-    },
-    {
-      "number": 93,
-      "suffix": "",
-      "raw": "93",
-      "title": "Nuovo diritto"
-    },
-    {
-      "number": 94,
-      "suffix": "",
-      "raw": "94",
-      "title": "Iniziative depositate e referendum promossi contro leggi e decreti legislativi approvati"
-    },
-    {
-      "number": 147,
-      "suffix": "",
-      "raw": "147",
-      "title": "Obiettivi sociali"
-    },
-    {
-      "number": 1510,
-      "suffix": "",
-      "raw": "1510",
-      "title": "Compiti pubblici"
-    },
-    {
-      "number": 2011,
-      "suffix": "",
-      "raw": "2011",
-      "title": "Fusione e divisione di Comuni"
-    },
-    {
-      "number": 2812,
-      "suffix": "",
-      "raw": "2812",
-      "title": ""
-    },
-    {
-      "number": 3621,
-      "suffix": "",
-      "raw": "3621",
-      "title": "Elezioni di competenza del Gran Consiglio"
-    },
-    {
-      "number": 4225,
-      "suffix": "",
-      "raw": "4225",
-      "title": "Sottostanno al voto popolare se richiesto nei sessanta giorni dalla pubblicazione nel"
-    },
-    {
-      "number": 4528,
-      "suffix": "",
-      "raw": "4528",
-      "title": "La legge stabilisce le norme di applicazione in materia di votazioni ed elezioni, di"
-    },
-    {
-      "number": 4629,
-      "suffix": "",
-      "raw": "4629",
-      "title": "Votazione"
-    },
-    {
       "number": 5936,
       "suffix": "",
       "raw": "5936",
       "title": "Competenze"
     },
     {
-      "number": 8140,
+      "number": 60,
       "suffix": "",
-      "raw": "8140",
-      "title": "Periodo di nomina ed elezione"
-    },
-    {
-      "number": 8443,
-      "suffix": "",
-      "raw": "8443",
-      "title": ""
-    },
-    {
-      "number": 8946,
-      "suffix": "",
-      "raw": "8946",
-      "title": "Termini"
-    },
-    {
-      "number": 9548,
-      "suffix": "",
-      "raw": "9548",
-      "title": "Il vecchio diritto regola la durata in carica di autorità e magistrati nonché la loro"
-    },
-    {
-      "number": 9649,
-      "suffix": "",
-      "raw": "9649",
-      "title": "Disposizione transitoria dell’art. 9a"
+      "raw": "60",
+      "title": "Sedute"
     }
   ],
   "article_texts": {
@@ -593,19 +378,19 @@
       },
       {
         "num": null,
-        "text": "Costituzione federale. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Costituzione federale."
       }
     ],
     "2": [
       {
         "num": null,
-        "text": "1La sovranità del Cantone risiede nell’universalità dei cittadini ed è esercitata nei modi stabiliti dalla Costituzione. 2Il voto del Cantone è dato dal popolo con la maggioranza dei voti validi. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "1La sovranità del Cantone risiede nell’universalità dei cittadini ed è esercitata nei modi stabiliti dalla Costituzione. 2Il voto del Cantone è dato dal popolo con la maggioranza dei voti validi."
       }
     ],
     "3": [
       {
         "num": null,
-        "text": "Lo stemma del Cantone è il seguente: “Partito di rosso e di azzurro” --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Lo stemma del Cantone è il seguente: “Partito di rosso e di azzurro”"
       }
     ],
     "4": [
@@ -615,7 +400,7 @@
       },
       {
         "num": null,
-        "text": "Capitale --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Capitale"
       }
     ],
     "5": [
@@ -641,13 +426,19 @@
       },
       {
         "num": null,
-        "text": "Diritti fondamentali e doveri --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Diritti fondamentali e doveri"
       }
     ],
     "6": [
       {
         "num": null,
-        "text": "1Il diritto alla vita è inerente alla persona umana e dev’essere protetto. 2La dignità umana è inviolabile. 3La pena di morte, la tortura e i trattamenti inumani o degradanti sono proibiti. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "1Il diritto alla vita è inerente alla persona umana e dev’essere protetto. 2La dignità umana è inviolabile. 3La pena di morte, la tortura e i trattamenti inumani o degradanti sono proibiti."
+      }
+    ],
+    "7": [
+      {
+        "num": null,
+        "text": "1Nessuno deve subire svantaggio o trarre privilegio per motivi di origine, razza, posizione sociale, convinzione religiosa, filosofica, politica o stato di salute. 2Donne e uomini sono uguali davanti alla legge. 3Per lavoro di pari valore donne e uomini ricevono retribuzione uguale. 4Nella Costituzione, nelle leggi e nell’attività dello Stato le parole che si riferiscono all’uomo in genere intendono comprendere sia le donne sia gli uomini."
       }
     ],
     "8": [
@@ -657,23 +448,7 @@
       },
       {
         "num": null,
-        "text": "a) la libertà personale, l’integrità fisica e morale; b) la libertà di coscienza e di religione; c) la libertà d’opinione, di informazione e di stampa; d) la tutela della sfera privata e dei dati personali e il diritto di ciascuno di consultare ogni raccolta di dati ufficiali o privati che lo concernono, domandarne la rettifica se errati e esigere di essere protetto contro una loro utilizzazione abusiva; e) la libertà di associazione, di riunione e di manifestazione pubblica; f) il diritto di sciopero e di serrata se si riferiscono ai rapporti di lavoro e non contrastano con impegni di preservare la pace del lavoro o di condurre trattative di conciliazione; g) la libertà di domicilio; h) la proprietà; i) l’attività economica nei limiti dell’interesse generale; l) il diritto di petizione alle autorità e di ottenere risposta entro un termine ragionevole; m) la libertà dei genitori di scegliere per i figli scuole diverse da quelle istituite dalle autorità pubbliche, purché conformi ai requisiti fondamentali previsti dallo Stato in materia di istruzione, e di curarne l’educazione religiosa e morale secondo le proprie convinzioni. 3I diritti individuali, salvaguardata la loro essenza, possono essere limitati per legge, nel rispetto del principio della proporzionalità, soltanto se un interesse pubblico preponderante lo esige. 4Nell’espressione delle libertà ideali la censura preventiva è vietata. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "7": [
-      {
-        "num": null,
-        "text": "1Nessuno deve subire svantaggio o trarre privilegio per motivi di origine, razza, posizione sociale, convinzione religiosa, filosofica, politica o stato di salute. 2Donne e uomini sono uguali davanti alla legge. 3Per lavoro di pari valore donne e uomini ricevono retribuzione uguale. 4Nella Costituzione, nelle leggi e nell’attività dello Stato le parole che si riferiscono all’uomo in genere intendono comprendere sia le donne sia gli uomini. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "10": [
-      {
-        "num": null,
-        "text": "1Nessuno può essere sottratto al giudice stabilito dalla legge. I tribunali d’eccezione sono vietati. 2Ognuno può agire in giudizio a tutela dei propri diritti; il diritto alla difesa è inviolabile. 3Ognuno ha il diritto all’assistenza giudiziaria, gratuita per i meno abbienti, e di ottenere una decisione entro un termine ragionevole."
-      },
-      {
-        "num": "4",
-        "text": "Introduzione dell’art. 9a con votazione popolare del 22.9.2013: voti favorevoli 63'494, voti contrari 32'777, in vigore dal 1.7.2016 - BU 2016, 193. 101.000 3 4II Cantone risponde del danno materiale e morale derivante dall’ingiusta privazione della libertà personale. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "a) la libertà personale, l’integrità fisica e morale; b) la libertà di coscienza e di religione; c) la libertà d’opinione, di informazione e di stampa; d) la tutela della sfera privata e dei dati personali e il diritto di ciascuno di consultare ogni raccolta di dati ufficiali o privati che lo concernono, domandarne la rettifica se errati e esigere di essere protetto contro una loro utilizzazione abusiva; e) la libertà di associazione, di riunione e di manifestazione pubblica; f) il diritto di sciopero e di serrata se si riferiscono ai rapporti di lavoro e non contrastano con impegni di preservare la pace del lavoro o di condurre trattative di conciliazione; g) la libertà di domicilio; h) la proprietà; i) l’attività economica nei limiti dell’interesse generale; l) il diritto di petizione alle autorità e di ottenere risposta entro un termine ragionevole; m) la libertà dei genitori di scegliere per i figli scuole diverse da quelle istituite dalle autorità pubbliche, purché conformi ai requisiti fondamentali previsti dallo Stato in materia di istruzione, e di curarne l’educazione religiosa e morale secondo le proprie convinzioni. 3I diritti individuali, salvaguardata la loro essenza, possono essere limitati per legge, nel rispetto del principio della proporzionalità, soltanto se un interesse pubblico preponderante lo esige. 4Nell’espressione delle libertà ideali la censura preventiva è vietata."
       }
     ],
     "9": [
@@ -687,7 +462,17 @@
       },
       {
         "num": null,
-        "text": "Art. 9a4 1Nessuno può dissimulare o nascondere il proprio viso nelle vie pubbliche e nei luoghi aperti al pubblico (ad eccezione dei luoghi di culto) o destinati ad offrire un servizio pubblico. 2Nessuno può obbligare una persona a dissimulare il viso in ragione del suo sesso. 3Le eccezioni al primo capoverso e le sanzioni sono stabilite dalla legge. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Art. 9a4 1Nessuno può dissimulare o nascondere il proprio viso nelle vie pubbliche e nei luoghi aperti al pubblico (ad eccezione dei luoghi di culto) o destinati ad offrire un servizio pubblico. 2Nessuno può obbligare una persona a dissimulare il viso in ragione del suo sesso. 3Le eccezioni al primo capoverso e le sanzioni sono stabilite dalla legge."
+      }
+    ],
+    "10": [
+      {
+        "num": null,
+        "text": "1Nessuno può essere sottratto al giudice stabilito dalla legge. I tribunali d’eccezione sono vietati. 2Ognuno può agire in giudizio a tutela dei propri diritti; il diritto alla difesa è inviolabile. 3Ognuno ha il diritto all’assistenza giudiziaria, gratuita per i meno abbienti, e di ottenere una decisione entro un termine ragionevole."
+      },
+      {
+        "num": "4",
+        "text": "Introduzione dell’art. 9a con votazione popolare del 22.9.2013: voti favorevoli 63'494, voti contrari 32'777, in vigore dal 1.7.2016 - BU 2016, 193. 101.000 3 4II Cantone risponde del danno materiale e morale derivante dall’ingiusta privazione della libertà personale."
       }
     ],
     "11": [
@@ -701,7 +486,7 @@
       },
       {
         "num": null,
-        "text": "Doveri --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Doveri"
       }
     ],
     "12": [
@@ -715,13 +500,7 @@
       },
       {
         "num": null,
-        "text": "Diritti e obiettivi sociali --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "16": [
-      {
-        "num": null,
-        "text": "1Il Comune è un ente di diritto pubblico. La sua esistenza è garantita. 2Esso è autonomo nei limiti della Costituzione e delle leggi. 3A livello locale svolge i compiti pubblici generali che la legge non attribuisce né alla Confederazione né al Cantone. 2. organizzazione --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Diritti e obiettivi sociali"
       }
     ],
     "13": [
@@ -739,13 +518,63 @@
       },
       {
         "num": null,
-        "text": "Comuni e delle altre corporazioni e istituzioni di diritto pubblico. 5La lingua dei segni italiana è riconosciuta. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Comuni e delle altre corporazioni e istituzioni di diritto pubblico. 5La lingua dei segni italiana è riconosciuta."
+      }
+    ],
+    "147": [
+      {
+        "num": null,
+        "text": "1Il Cantone provvede affinché:"
+      },
+      {
+        "num": null,
+        "text": "a) ognuno possa sopperire ai suoi bisogni con un lavoro svolto in condizioni adeguate e venga protetto dalle conseguenze della disoccupazione che non può essergli imputata e possa beneficiare di vacanze pagate;8 b) sul mercato del lavoro venga privilegiato a pari qualifiche professionali chi vive sul suo territorio per rapporto a chi proviene dall’estero (attuazione del principio di preferenza agli Svizzeri); c) nessuno Stato estero ostacoli l’accesso di persone fisiche o giuridiche svizzere al suo mercato interno in modo contrario allo spirito dei trattati internazionali conclusi con la Confederazione; d) ognuno possa trovare un’abitazione adeguata a condizioni economicamente sopportabili; e) le donne possano beneficiare della necessaria sicurezza economica prima e dopo il parto;"
+      },
+      {
+        "num": "5",
+        "text": "Modifica dell’art. 13 cpv. 3 approvata con votazione popolare del 14.6.2015: voti favorevoli 50'419, voti contrari 41'775, in vigore dal 1.9.2015 - BU 2015, 447."
+      },
+      {
+        "num": "6",
+        "text": "Introduzione dell’art. 13a approvato con votazione popolare del 30.10.2022: voti favorevoli 65’565, voti contrari 10’476, in vigore dal 1.1.2023 - BU 2022, 298."
+      },
+      {
+        "num": "7",
+        "text": "Modifica dell’art. 14 cpv. 1 approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81."
+      },
+      {
+        "num": "8",
+        "text": "Modifica dell’art. 14 lett. a approvata con votazione popolare del 14.6.2015: voti favorevoli 50'419, voti contrari 41'775, in vigore dal 1.9.2015 - BU 2015, 447. 101.000 4 f) i bambini possano disporre di adeguate condizioni di sviluppo e le famiglie vengano sostenute nell’adempimento dei loro compiti; g) le aspirazioni e i bisogni dei giovani siano presi in considerazione; h) ognuno possa beneficiare di un’istruzione e di una formazione adeguata e possa perfezionarsi conformemente ai suoi desideri e alle sue attitudini; i) sia promossa l’occupazione ed ognuno possa scegliere liberamente la sua professione; j) nessun cittadino del suo territorio venga licenziato a seguito di una decisione discriminatoria di sostituzione della manodopera indigena con quella straniera (effetto di sostituzione) oppure debba accettare sensibili riduzioni di salario a causa dell’afflusso indiscriminato della manodopera estera (dumping salariale); k) sia promossa una sana complementarietà professionale tra lavoratori svizzeri e stranieri; l) ogni persona bisognosa di aiuto per ragioni di età, di infermità, di malattia o di handicap possa ricevere le cure necessarie e disporre di un sufficiente sostegno; m) l’ambiente naturale sia protetto dagli effetti nocivi e pregiudizievoli e preservato per le generazioni future. n) sia rispettato il principio della sovranità alimentare in quanto ad accessibilità agli alimenti per una dieta variata, alla destinazione d’uso sostenibile del territorio e al diritto dei cittadini di poter decidere del proprio sistema alimentare e produttivo.9 2Il Cantone facilita l’informazione e ne assicura il pluralismo e promuove l’espressione artistica e la ricerca scientifica."
+      },
+      {
+        "num": null,
+        "text": "TITOLO IV"
+      },
+      {
+        "num": null,
+        "text": "Organismi sociali"
+      }
+    ],
+    "1510": [
+      {
+        "num": null,
+        "text": "1I compiti pubblici sono assolti dal Cantone, dai Comuni e da altre corporazioni e istituzioni di diritto pubblico nei modi stabiliti dalla Costituzione e dalle leggi. 2Il Cantone promuove la collaborazione e la solidarietà fra i Comuni e favorisce uno sviluppo equilibrato fra le varie regioni. 3Nell’assolvimento dei compiti pubblici, Cantone e Comuni forniscono solidalmente il loro contributo affinché alla popolazione sia garantita la giusta dotazione di servizi pubblici, in particolare in materia di strutture scolastiche e di prestazioni sociosanitarie."
+      },
+      {
+        "num": null,
+        "text": "Comune 1. garanzia 1.1 autonomia 1.2 autonomia residua"
+      }
+    ],
+    "16": [
+      {
+        "num": null,
+        "text": "1Il Comune è un ente di diritto pubblico. La sua esistenza è garantita. 2Esso è autonomo nei limiti della Costituzione e delle leggi. 3A livello locale svolge i compiti pubblici generali che la legge non attribuisce né alla Confederazione né al Cantone. 2. organizzazione"
       }
     ],
     "17": [
       {
         "num": null,
-        "text": "1Il Comune ha quali organi l’Assemblea comunale e il Municipio; può istituire il Consiglio comunale secondo le norme previste dalla legge. 2L’Assemblea comunale è costituita dagli aventi diritto di voto in materia comunale. 3Il Municipio è l’organo che amministra e rappresenta il Comune. 4Il diritto di iniziativa e di referendum è garantito dove esiste il Consiglio comunale. 3. elezione --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "1Il Comune ha quali organi l’Assemblea comunale e il Municipio; può istituire il Consiglio comunale secondo le norme previste dalla legge. 2L’Assemblea comunale è costituita dagli aventi diritto di voto in materia comunale. 3Il Municipio è l’organo che amministra e rappresenta il Comune. 4Il diritto di iniziativa e di referendum è garantito dove esiste il Consiglio comunale. 3. elezione"
       }
     ],
     "18": [
@@ -763,7 +592,23 @@
       },
       {
         "num": "10",
-        "text": "Modifica dell’art. 15 cpv. 3 approvata con votazione popolare del 24.9.2017: voti favorevoli 63'991, voti contrari 25'959, in vigore dal 1.11.2017 - BU 2017, 341. 101.000 5 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Modifica dell’art. 15 cpv. 3 approvata con votazione popolare del 24.9.2017: voti favorevoli 63'991, voti contrari 25'959, in vigore dal 1.11.2017 - BU 2017, 341. 101.000 5"
+      }
+    ],
+    "19": [
+      {
+        "num": null,
+        "text": "1Per eseguire determinate attività di pubblico interesse, i Comuni possono riunirsi in associazioni di diritto pubblico dotate di personalità giuridica oppure collaborare sotto ogni altra forma organizzativa di natura pubblica, mista o privata. 2Il Consiglio di Stato può costituire consorzi di Comuni nei casi e nei limiti previsti dalla legge. 3Il consorzio di Comuni è un ente di diritto pubblico costituito per l’esercizio di attività di pubblico interesse con statuto approvato dai Comuni e dal Consiglio di Stato."
+      }
+    ],
+    "2011": [
+      {
+        "num": null,
+        "text": "1I Comuni non possono fondersi con altri Comuni o dividersi senza il consenso dei loro cittadini e l’approvazione del Gran Consiglio. 2Il Cantone favorisce la fusione dei Comuni. 3Il Gran Consiglio può decidere la fusione e la separazione di Comuni, alle condizioni previste dalla legge. 4Le rettifiche di confine e le cessioni di territorio di piccola entità sono convenute direttamente dai"
+      },
+      {
+        "num": null,
+        "text": "Comuni fatta salva la ratifica del Consiglio di Stato."
       }
     ],
     "21": [
@@ -773,13 +618,7 @@
       },
       {
         "num": null,
-        "text": "Bellinzona, Riviera, Blenio e Leventina. 2La legge ne determina l’estensione e i compiti, tenendo conto del territorio, della popolazione e del decentramento amministrativo e giudiziario. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "19": [
-      {
-        "num": null,
-        "text": "1Per eseguire determinate attività di pubblico interesse, i Comuni possono riunirsi in associazioni di diritto pubblico dotate di personalità giuridica oppure collaborare sotto ogni altra forma organizzativa di natura pubblica, mista o privata. 2Il Consiglio di Stato può costituire consorzi di Comuni nei casi e nei limiti previsti dalla legge. 3Il consorzio di Comuni è un ente di diritto pubblico costituito per l’esercizio di attività di pubblico interesse con statuto approvato dai Comuni e dal Consiglio di Stato. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Bellinzona, Riviera, Blenio e Leventina. 2La legge ne determina l’estensione e i compiti, tenendo conto del territorio, della popolazione e del decentramento amministrativo e giudiziario."
       }
     ],
     "22": [
@@ -789,13 +628,19 @@
       },
       {
         "num": null,
-        "text": "Vigilanza --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Vigilanza"
       }
     ],
     "23": [
       {
         "num": null,
-        "text": "alla vigilanza del Cantone. La legge ne disciplina le modalità ed i limiti. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "alla vigilanza del Cantone. La legge ne disciplina le modalità ed i limiti."
+      }
+    ],
+    "24": [
+      {
+        "num": null,
+        "text": "1La Chiesa cattolica apostolica romana e la Chiesa evangelica riformata hanno la personalità di diritto pubblico e si organizzano liberamente. 2La legge può conferire la personalità di diritto pubblico ad altre comunità religiose."
       }
     ],
     "25": [
@@ -805,19 +650,7 @@
       },
       {
         "num": null,
-        "text": "Sindacati e organizzazioni economiche e professionali --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "24": [
-      {
-        "num": null,
-        "text": "1La Chiesa cattolica apostolica romana e la Chiesa evangelica riformata hanno la personalità di diritto pubblico e si organizzano liberamente. 2La legge può conferire la personalità di diritto pubblico ad altre comunità religiose. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "27": [
-      {
-        "num": null,
-        "text": "1Ogni svizzero domiciliato nel Cantone acquista i diritti politici a diciotto anni compiuti, in conformità della Costituzione e delle relative leggi. 2È escluso dai diritti politici l’interdetto per infermità o debolezza mentali e incapace di discernimento. 2. diritto di voto --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Sindacati e organizzazioni economiche e professionali"
       }
     ],
     "26": [
@@ -835,7 +668,31 @@
       },
       {
         "num": null,
-        "text": "Diritti politici 1. organizzazione ed esercizio --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Diritti politici 1. organizzazione ed esercizio"
+      }
+    ],
+    "27": [
+      {
+        "num": null,
+        "text": "1Ogni svizzero domiciliato nel Cantone acquista i diritti politici a diciotto anni compiuti, in conformità della Costituzione e delle relative leggi. 2È escluso dai diritti politici l’interdetto per infermità o debolezza mentali e incapace di discernimento. 2. diritto di voto"
+      }
+    ],
+    "2812": [
+      {
+        "num": null,
+        "text": "1Il diritto di voto è il diritto di partecipare alle votazioni ed elezioni cantonali e comunali."
+      },
+      {
+        "num": "11",
+        "text": "Modifica dell’art. 20 cpv. 1, 3 e 4 approvata con votazione popolare del 25.9.2005: voti favorevoli 56'691, voti contrari 18'688, in vigore dal 4.11.2005 - BU 2005, 363."
+      },
+      {
+        "num": "12",
+        "text": "Modifica dell’art. 28 cpv. 2 approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 101.000 6 2Esso comprende il diritto di sottoscrivere le domande di iniziativa, di referendum, di revoca del"
+      },
+      {
+        "num": null,
+        "text": "Consiglio di Stato e di revoca del Municipio. 3Il diritto di voto si esercita nel Comune di domicilio, salvo eccezioni stabilite dalla legge. 3. eleggibilità"
       }
     ],
     "29": [
@@ -845,31 +702,31 @@
       },
       {
         "num": null,
-        "text": "Art. 29a13 1È ineleggibile alla carica di membro del Gran Consiglio, del Consiglio di Stato e di membro e supplente del Municipio il cittadino condannato alla pena detentiva o alla pena pecuniaria per crimini o delitti contrari alla dignità della carica. 2Chiunque si trovi in condizioni di ineleggibilità è destituito dalla carica. 5. Ticinesi all’estero14 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Art. 29a13 1È ineleggibile alla carica di membro del Gran Consiglio, del Consiglio di Stato e di membro e supplente del Municipio il cittadino condannato alla pena detentiva o alla pena pecuniaria per crimini o delitti contrari alla dignità della carica. 2Chiunque si trovi in condizioni di ineleggibilità è destituito dalla carica. 5. Ticinesi all’estero14"
       }
     ],
     "30": [
       {
         "num": null,
-        "text": "stabilisce l’esercizio.15 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "32": [
-      {
-        "num": null,
-        "text": "La partecipazione alle votazioni e alle elezioni è un dovere civico. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "stabilisce l’esercizio.15"
       }
     ],
     "31": [
       {
         "num": null,
-        "text": "1Il segreto del voto è inviolabile. 2La legge provvede a impedire il controllo per garantire la libertà del cittadino. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "1Il segreto del voto è inviolabile. 2La legge provvede a impedire il controllo per garantire la libertà del cittadino."
+      }
+    ],
+    "32": [
+      {
+        "num": null,
+        "text": "La partecipazione alle votazioni e alle elezioni è un dovere civico."
       }
     ],
     "33": [
       {
         "num": null,
-        "text": "1Ogni eletto dal popolo ad una carica pubblica ha il dovere di accettarla. 2La legge può rendere obbligatoria l’accettazione. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "1Ogni eletto dal popolo ad una carica pubblica ha il dovere di accettarla. 2La legge può rendere obbligatoria l’accettazione."
       }
     ],
     "34": [
@@ -927,7 +784,39 @@
       },
       {
         "num": null,
-        "text": "Elezioni, iniziativa popolare, referendum e revoca19 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Elezioni, iniziativa popolare, referendum e revoca19"
+      }
+    ],
+    "35": [
+      {
+        "num": null,
+        "text": "1Sono eletti dal popolo in un unico circondario costituito dall’intero Cantone:"
+      },
+      {
+        "num": null,
+        "text": "a) la Costituente; b) il Gran Consiglio; c) il Consiglio di Stato; d) i deputati al Consiglio degli Stati; e) i deputati al Consiglio nazionale. 2Il giudice di pace è eletto dal popolo nel circondario elettorale corrispondente alla giurisdizione; è ineleggibile il cittadino condannato alla pena detentiva o alla pena pecuniaria per crimini o delitti contrari alla dignità della carica.20 3Sono eletti dal popolo nel Comune:"
+      },
+      {
+        "num": null,
+        "text": "a) il Consiglio comunale; b) il Municipio; c) il Sindaco."
+      }
+    ],
+    "3621": [
+      {
+        "num": null,
+        "text": "1Sono eletti dal Gran Consiglio:"
+      },
+      {
+        "num": null,
+        "text": "a) i giudici del Tribunale d’appello; b) il Presidente dei Giudici dell’istruzione e dell’arresto e i Giudici dell’istruzione e dell’arresto; c) il Procuratore generale e i Procuratori pubblici; d) i Pretori; e) i Presidenti e i membri dei Tribunali delle espropriazioni; f) il Magistrato dei minorenni; g) i membri di sua competenza del Consiglio della magistratura; h) i giurati cantonali. 2Per le funzioni previste al cpv. 1, lett. da a) a f), l’elezione avviene previo concorso e dopo che una"
+      },
+      {
+        "num": null,
+        "text": "Commissione di esperti indipendenti, nominata dal Gran Consiglio, ha esaminato e preavvisato le nuove candidature."
+      },
+      {
+        "num": null,
+        "text": "Iniziativa popolare legislativa 1. principio"
       }
     ],
     "37": [
@@ -949,39 +838,25 @@
       },
       {
         "num": "20",
-        "text": "Modifica dell’art. 35 cpv. 2 approvata con votazione popolare del 9.2.2014: voti favorevoli 101'114, voti contrari 11'775, in vigore dal 1.3.2015 - BU 2015, 555. 21  Modifica dell’art. 36 cpv. 1 lett. h) approvata con votazione popolare del 25.9.2005: voti favorevoli 59'745, voti contrari 14'775, in vigore dal 4.11.2005 - BU 2005, 363. 101.000 8 3La raccolta delle firme deve avvenire entro cento giorni dalla data di pubblicazione nel Foglio ufficiale della domanda di iniziativa.22 2. ricevibilità --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "35": [
-      {
-        "num": null,
-        "text": "1Sono eletti dal popolo in un unico circondario costituito dall’intero Cantone:"
-      },
-      {
-        "num": null,
-        "text": "a) la Costituente; b) il Gran Consiglio; c) il Consiglio di Stato; d) i deputati al Consiglio degli Stati; e) i deputati al Consiglio nazionale. 2Il giudice di pace è eletto dal popolo nel circondario elettorale corrispondente alla giurisdizione; è ineleggibile il cittadino condannato alla pena detentiva o alla pena pecuniaria per crimini o delitti contrari alla dignità della carica.20 3Sono eletti dal popolo nel Comune:"
-      },
-      {
-        "num": null,
-        "text": "a) il Consiglio comunale; b) il Municipio; c) il Sindaco. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Modifica dell’art. 35 cpv. 2 approvata con votazione popolare del 9.2.2014: voti favorevoli 101'114, voti contrari 11'775, in vigore dal 1.3.2015 - BU 2015, 555. 21  Modifica dell’art. 36 cpv. 1 lett. h) approvata con votazione popolare del 25.9.2005: voti favorevoli 59'745, voti contrari 14'775, in vigore dal 4.11.2005 - BU 2005, 363. 101.000 8 3La raccolta delle firme deve avvenire entro cento giorni dalla data di pubblicazione nel Foglio ufficiale della domanda di iniziativa.22 2. ricevibilità"
       }
     ],
     "38": [
       {
         "num": null,
-        "text": "della domanda di iniziativa, verificandone la conformità al diritto superiore, l’unità della forma e della materia e l’attuabilità entro un anno dalla pubblicazione nel Foglio ufficiale del risultato della domanda. 3. forma della domanda --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "della domanda di iniziativa, verificandone la conformità al diritto superiore, l’unità della forma e della materia e l’attuabilità entro un anno dalla pubblicazione nel Foglio ufficiale del risultato della domanda. 3. forma della domanda"
       }
     ],
     "39": [
       {
         "num": null,
-        "text": "1La domanda di iniziativa popolare può essere presentata in forma elaborata o generica. 2Nel secondo caso, il Gran Consiglio è tenuto a elaborare il progetto nel senso della domanda.23 2bisIn entrambi i casi, se la domanda non è accolta dal Gran Consiglio, il progetto viene sottoposto al voto popolare.24 3Il Gran Consiglio può sottoporre contemporaneamente un controprogetto sulla stessa materia. In ogni caso l’iniziativa può essere ritirata. 4. procedura per il voto --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "1La domanda di iniziativa popolare può essere presentata in forma elaborata o generica. 2Nel secondo caso, il Gran Consiglio è tenuto a elaborare il progetto nel senso della domanda.23 2bisIn entrambi i casi, se la domanda non è accolta dal Gran Consiglio, il progetto viene sottoposto al voto popolare.24 3Il Gran Consiglio può sottoporre contemporaneamente un controprogetto sulla stessa materia. In ogni caso l’iniziativa può essere ritirata. 4. procedura per il voto"
       }
     ],
     "40": [
       {
         "num": null,
-        "text": "aventi diritto di voto devono decidere, in un’unica votazione, se preferiscono l’iniziativa o il controprogetto rispetto al diritto vigente; hanno pure la facoltà di accettare o respingere entrambe le proposte e di esprimere la loro preferenza nel caso in cui iniziativa e controprogetto vengano accettati. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "aventi diritto di voto devono decidere, in un’unica votazione, se preferiscono l’iniziativa o il controprogetto rispetto al diritto vigente; hanno pure la facoltà di accettare o respingere entrambe le proposte e di esprimere la loro preferenza nel caso in cui iniziativa e controprogetto vengano accettati."
       }
     ],
     "41": [
@@ -991,525 +866,7 @@
       },
       {
         "num": null,
-        "text": "Referendum facoltativo --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "44": [
-      {
-        "num": null,
-        "text": "1Quindicimila cittadini aventi diritto di voto possono presentare al Gran Consiglio la domanda di revoca del Consiglio di Stato. 2La domanda di revoca non può essere presentata prima che sia trascorso un anno né dopo trascorsi tre anni dall’elezione integrale. 3La raccolta delle firme deve avvenire entro sessanta giorni dalla data di pubblicazione sul Foglio ufficiale della domanda di revoca."
-      },
-      {
-        "num": null,
-        "text": "Revoca del Municipio"
-      },
-      {
-        "num": null,
-        "text": "Art. 44a27 1I cittadini del Comune aventi diritto di voto possono presentare al Consiglio di Stato la domanda di revoca del Municipio. 2La domanda di revoca non può essere depositata né nel primo né nell’ultimo anno della legislatura. 3La domanda di revoca del Municipio deve raccogliere l’adesione di almeno il 30% dei cittadini aventi diritto di voto, nel termine di sessanta giorni dalla sua pubblicazione all’albo comunale."
-      },
-      {
-        "num": null,
-        "text": "Norme di applicazione --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "43": [
-      {
-        "num": null,
-        "text": "1Le leggi e i decreti legislativi di carattere obbligatorio generale, giudicati di natura urgente, entrano immediatamente in vigore se lo decide la maggioranza dei membri del Gran"
-      },
-      {
-        "num": null,
-        "text": "Consiglio. 22  Modifica dell’art. 37 cpv. 3 approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14'030; in vigore dal 15.3.2019 - BU 2019, 86. 23  Modifica dell’art. 39 cpv. 2 approvata con votazione popolare del 10.2.2019: voti favorevoli 47'630, voti contrari 17'297; in vigore dal 1.4.2019 - BU 2019, 85. 24  Introduzione dell’art. 39 cpv. 2bis approvata con votazione popolare del 10.2.2019: voti favorevoli 47'630, voti contrari 17'297; in vigore dal 1.4.2019 - BU 2019, 85. 25  Modifica dell’art. 42 approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14’030; in vigore dal 15.3.2019 - BU 2019, 86. 26  Introduzione dell’art. 42a approvata con votazione popolare del 26.9.2021: voti favorevoli 46'905, voti contrari 43'547, in vigore dal 18.2.2022 - BU 2022, 40. 101.000 9 2L’atto urgente perde la sua validità dopo un anno dalla sua entrata in vigore e non può essere rinnovato in via d’urgenza. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "48": [
-      {
-        "num": null,
-        "text": "1I deputati al Consiglio degli Stati sono eletti ogni quattro anni contemporaneamente ai deputati al Consiglio nazionale, con la maggioranza assoluta al primo turno. 2È ineleggibile il cittadino condannato alla pena detentiva o alla pena pecuniaria per crimini o delitti contrari alla dignità della carica.30 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "47": [
-      {
-        "num": null,
-        "text": "1Il Cantone partecipa con impegno solidale alla realizzazione degli interessi comuni della"
-      },
-      {
-        "num": null,
-        "text": "Confederazione e dei Cantoni. 2A questo fine il Consiglio di Stato cura le relazioni con i deputati ticinesi alle Camere federali. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "50": [
-      {
-        "num": null,
-        "text": "1Nelle relazioni con la Confederazione, con gli altri Cantoni e con i Paesi limitrofi, le autorità devono promuovere e tutelare l’identità, l’autonomia, gli obiettivi sociali e l’interesse economico del Cantone. 2Nelle relazioni con i Paesi limitrofi le autorità modulano il mercato del lavoro in base alle necessità di chi vive sul territorio del Cantone, promuovendo la sana complementarietà professionale tra lavoratori svizzeri e stranieri, evitando la sostituzione della manodopera indigena con quella straniera (effetto di sostituzione) e la corsa al ribasso dei salari (dumping salariale).34"
-      },
-      {
-        "num": null,
-        "text": "TITOLO VIII"
-      },
-      {
-        "num": null,
-        "text": "Autorità"
-      },
-      {
-        "num": null,
-        "text": "A. Norme comuni"
-      },
-      {
-        "num": null,
-        "text": "Separazione dei poteri --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "49": [
-      {
-        "num": null,
-        "text": "1Il Cantone agevola e promuove la cooperazione transfrontaliera. 27  Introduzione dell’art. 44a approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 28  Modifica dell’art. 45 approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 29  Introduzione dell’art. 46 cpv. 3 approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 30  Introduzione dell’art. 48 cpv. 2 approvata con votazione popolare del 9.2.2014: voti favorevoli 101'114, voti contrari 11'775, in vigore dal 1.3.2015 - BU 2015, 555. 31  Modifica della nota marginale approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 101.000 10 2Qualora lo Stato estero limiti con regolamenti interni o sistemi di attuazione disincentivanti l’esecuzione al suo interno dei trattati internazionali conclusi con la Confederazione, il Cantone applicherà i medesimi standard minimi nel rispetto del criterio di reciprocità nell’attuazione.32 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "52": [
-      {
-        "num": null,
-        "text": "ogni quattro anni, nel mese di aprile, nel giorno stabilito dal Consiglio di Stato."
-      },
-      {
-        "num": null,
-        "text": "Organizzazione --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "51": [
-      {
-        "num": null,
-        "text": "separati, il Legislativo, l’Esecutivo, il Giudiziario."
-      },
-      {
-        "num": null,
-        "text": "Elezioni --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "53": [
-      {
-        "num": null,
-        "text": "di Stato. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "54": [
-      {
-        "num": null,
-        "text": "1Nessuno può essere contemporaneamente Consigliere di Stato, deputato al Gran"
-      },
-      {
-        "num": null,
-        "text": "Consiglio, magistrato dell’ordine giudiziario cantonale o federale.35 2I Consiglieri di Stato e i magistrati dell’ordine giudiziario non possono essere contemporaneamente membri del Consiglio degli Stati o del Consiglio nazionale, né membri di un Municipio. I Consiglieri di Stato non possono inoltre essere membri di un Consiglio comunale. 3La carica di deputato al Gran Consiglio è incompatibile con un impiego pubblico salariato cantonale; la legge regola le eccezioni. 4La legge regola le incompatibilità per parentela, mandato o professione per i membri delle autorità. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "55": [
-      {
-        "num": null,
-        "text": "1Ogni membro di autorità deve astenersi dal suo ufficio qualora l’indipendenza o l’imparzialità sia compromessa. 2La legge regola i motivi di esclusione e di ricusa."
-      },
-      {
-        "num": null,
-        "text": "Informazione --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "56": [
-      {
-        "num": null,
-        "text": "interessi pubblici o privati preponderanti."
-      },
-      {
-        "num": null,
-        "text": "B. Potere legislativo --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "57": [
-      {
-        "num": null,
-        "text": "1Il Gran Consiglio di novanta membri è l’autorità legislativa del Cantone. 32  Modifica dell’art. 49 cpv. 2 approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 33  Modifica della nota marginale approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 34  Modifica dell’art. 50 cpv. 2 approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 35  Modifica dell’art. 54 cpv. 1 approvata con votazione popolare del 23.9.2012: voti favorevoli 56'830, voti contrari 22'474, in vigore dal 1.1.2013 - BU 2012, 487. 101.000 11 2Esso esercita l’alta vigilanza sul Consiglio di Stato e sui tribunali ed esercita gli attributi della sovranità che la Costituzione non riserva esplicitamente ad altra autorità. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "58": [
-      {
-        "num": null,
-        "text": "1Il Gran Consiglio è eletto in un unico circondario con il sistema proporzionale con facoltà ai partiti di garantire la rappresentanza regionale. 2La legge ne disciplina le modalità. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "60": [
-      {
-        "num": null,
-        "text": "1Il Gran Consiglio è convocato dal Consiglio di Stato in seduta costitutiva entro trenta giorni dalla data dell’elezione. 2Il presidente convoca il Gran Consiglio quando lo richiede il regolare svolgimento delle funzioni e quando lo domandano il Consiglio di Stato o almeno trenta deputati."
-      },
-      {
-        "num": null,
-        "text": "Presidenza --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "61": [
-      {
-        "num": null,
-        "text": "non è immediatamente rieleggibile. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "63": [
-      {
-        "num": null,
-        "text": "Le sedute del Gran Consiglio sono pubbliche."
-      },
-      {
-        "num": null,
-        "text": "Seconda deliberazione 36  Modifica dell’art. 59 cpv. 1 lett. r) approvata con votazione popolare del 25.9.2005: voti favorevoli 58'456, voti contrari 15'731, in vigore dal 4.11.2005 - BU 2005, 363. 37  Modifica dell’art. 59 cpv. 1 lett. n) approvata con votazione popolare del 9.2.2014: voti favorevoli 101'114, voti contrari 11'775, in vigore dal 1.3.2015 - BU 2015, 555. 101.000 12 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "62": [
-      {
-        "num": null,
-        "text": "1Il Gran Consiglio può discutere e decidere solo se è presente la maggioranza assoluta dei suoi membri. 2Per decidere la destituzione di un membro del Consiglio di Stato è necessaria la maggioranza assoluta dei membri del Gran Consiglio. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "65": [
-      {
-        "num": null,
-        "text": "1Il Consiglio di Stato di cinque membri è l’autorità governativa ed esecutiva del Cantone. 2Esso dirige collegialmente gli affari cantonali in base alle competenze previste dalla Costituzione e dalle leggi. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "64": [
-      {
-        "num": null,
-        "text": "1Se il Consiglio di Stato non ha dato l’adesione alla legge o al decreto legislativo, il Gran"
-      },
-      {
-        "num": null,
-        "text": "Consiglio procede ad una seconda deliberazione. 2Il Consiglio di Stato ha la facoltà di presentare le sue osservazioni entro un termine massimo di tre mesi."
-      },
-      {
-        "num": null,
-        "text": "C. Potere esecutivo --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "67": [
-      {
-        "num": null,
-        "text": "…38 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "66": [
-      {
-        "num": null,
-        "text": "1Il Consiglio di Stato è eletto in un unico circondario con il sistema proporzionale. 2La ripartizione dei seggi fra i gruppi si effettua in base al quoziente risultante dalla divisione della somma dei voti validi ottenuti dai singoli gruppi per il numero dei seggi da assegnare aumentato di uno. 3Ad ogni gruppo sono assegnati tanti seggi quante volte il quoziente è contenuto nel totale dei suoi voti. 4I seggi restanti sono ripartiti dividendo il numero dei voti ottenuti da ogni gruppo per quello dei seggi già assegnatigli aumentato di uno, ritenuto:"
-      },
-      {
-        "num": null,
-        "text": "a) che al gruppo che ottiene il maggior quoziente è assegnato un ulteriore seggio; b) che l’operazione va ripetuta fino alla ripartizione di tutti i seggi. 5La legge regola le modalità dell’elezione nel caso di una vacanza durante il periodo amministrativo, in particolare se un gruppo non propone il subentrante quando la lista dei candidati è esaurita. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "69": [
-      {
-        "num": null,
-        "text": "1Il Consiglio di Stato nomina annualmente tra i suoi membri un presidente e un vicepresidente non immediatamente rieleggibili. 2Per ogni decisione del Consiglio di Stato occorre la maggioranza assoluta dei suoi membri; per ogni revoca, sospensione o modifica di atti individuali e concreti occorre il voto concorde di almeno quattro membri. 3I Consiglieri di Stato non possono astenersi dal voto. 4Il Consiglio di Stato organizza ed esercita l’attività per mezzo dei Dipartimenti e delle altre istanze subordinate. 5La legge regola il diritto di ricorso contro le decisioni del Consiglio di Stato, dei Dipartimenti e delle altre istanze subordinate. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "68": [
-      {
-        "num": null,
-        "text": "Le sedute del Consiglio di Stato non sono pubbliche, salvo i casi previsti dalla legge. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "70": [
-      {
-        "num": null,
-        "text": "Il Consiglio di Stato, riservati i diritti del popolo e del Gran Consiglio:"
-      },
-      {
-        "num": null,
-        "text": "a) pianifica l’attività del Cantone e provvede a realizzarne i programmi; b) cura l’esecuzione delle leggi federali e cantonali e delle decisioni del Gran Consiglio; emana le necessarie norme mediante decreti esecutivi, regolamenti, risoluzioni o altre disposizioni; c) amministra le finanze ed i beni del Cantone e presenta annualmente i conti consuntivi e preventivi; d) dirige l’amministrazione cantonale e ne fa rapporto ogni anno al Gran Consiglio; e) nomina i dipendenti e le persone incaricate di una funzione pubblica cantonale, salvo diversa disposizione della Costituzione o della legge; f) vigila sulle autorità dei Comuni e degli altri enti pubblici e ne coordina l’attività nei limiti fissati dalla legge; g) assicura l’ordine pubblico; h) rappresenta il Cantone nei confronti della Confederazione, degli altri Cantoni e di ogni altra autorità; 38  Abrogazione dell’art. 67 approvata con votazione popolare del 9.2.2014: voti favorevoli 101'114, voti contrari 11'775, in vigore dal 1.3.2015 - BU 2015, 555. 101.000 13 i) risponde alle consultazioni promosse dalla Confederazione e può sottoporre gli oggetti di particolare importanza al Gran Consiglio. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "71": [
-      {
-        "num": null,
-        "text": "1Il Consiglio di Stato ha l’iniziativa per modificare la Costituzione e per presentare progetti di legge e di decreto legislativo. 2Esso può avvalersi di periti o speciali commissioni e consultare i Comuni, i partiti politici ed altre organizzazioni. Chiunque può inoltrare osservazioni. 3È facoltà del Consiglio di Stato di ritirare un suo progetto prima della definitiva accettazione del"
-      },
-      {
-        "num": null,
-        "text": "Gran Consiglio. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "72": [
-      {
-        "num": null,
-        "text": "Il Consiglio di Stato assiste al completo o per delegazione alle sedute del Gran Consiglio."
-      },
-      {
-        "num": null,
-        "text": "D. Potere giudiziario --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "73": [
-      {
-        "num": null,
-        "text": "1I tribunali esercitano il potere giudiziario. 2Essi decidono in modo indipendente e sono vincolati dalla legge; essi non possono applicare norme cantonali che fossero contrarie al diritto federale o alla Costituzione cantonale."
-      },
-      {
-        "num": null,
-        "text": "Giurisdizione --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "75": [
-      {
-        "num": null,
-        "text": "1La giurisdizione civile è esercitata:"
-      },
-      {
-        "num": null,
-        "text": "a) dai Giudici di pace; b) dai Pretori; c) dal Tribunale d’appello. 2Le controversie di diritto commerciale, del lavoro e di locazione possono dalla legge essere attribuite ad altri tribunali. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "74": [
-      {
-        "num": null,
-        "text": "possono essere affidate più giurisdizioni. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "77": [
-      {
-        "num": null,
-        "text": "1La giurisdizione amministrativa è esercitata:"
-      },
-      {
-        "num": null,
-        "text": "a) dal Tribunale amministrativo; b) dal Tribunale delle assicurazioni; c) dal Tribunale fiscale; d) dal Tribunale delle espropriazioni; e) …39 2Le decisioni di prima istanza possono essere affidate ad autorità amministrative. 3La legge stabilisce l’autorità che decide i conflitti di competenza in materia di diritto amministrativo."
-      },
-      {
-        "num": null,
-        "text": "Inchieste giudiziarie e pubblica accusa --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "76": [
-      {
-        "num": null,
-        "text": "1La giurisdizione penale è esercitata:"
-      },
-      {
-        "num": null,
-        "text": "a) dal Tribunale penale di prima istanza; b) dal Tribunale penale di seconda istanza; c) dal Magistrato dei minorenni. 2La legge disciplina la partecipazione dei giurati. 3La legge può attribuire a magistrati giudiziari ed altre autorità giudiziarie competenze per decisioni di prima istanza e ad autorità amministrative competenze in materia di multe. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "79": [
-      {
-        "num": null,
-        "text": "1La vigilanza sui magistrati è esercitata dal Consiglio della magistratura che ne riferisce al Gran Consiglio. 2Esso si compone di sette membri: quattro eletti dal Gran Consiglio e tre dall’assemblea dei magistrati a tempo pieno, secondo le modalità stabilite dalla legge."
-      },
-      {
-        "num": null,
-        "text": "Organizzazione e requisiti --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "78": [
-      {
-        "num": null,
-        "text": "la pubblica accusa."
-      },
-      {
-        "num": null,
-        "text": "Consiglio della magistratura 39  Abrogazione dell’art. 77 lett. e) approvata con votazione popolare del 25.9.2005: voti favorevoli 59'767, voti contrari 14'452, in vigore dal 14.7.2006 - BU 2006, 215. 101.000 14 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "80": [
-      {
-        "num": null,
-        "text": "di formazione professionale e l’età massima per i magistrati. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "82": [
-      {
-        "num": null,
-        "text": "1La Costituzione può essere modificata in ogni tempo totalmente o parzialmente. 2I progetti di revisione totale proposti dal Consiglio di Stato e dal Gran Consiglio possono contenere su singoli oggetti al massimo due varianti.41 3Ogni revisione della Costituzione deve essere approvata in votazione popolare."
-      },
-      {
-        "num": null,
-        "text": "Revisione totale 1. Proposta --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "85": [
-      {
-        "num": null,
-        "text": "1La revisione parziale della Costituzione per iniziativa del Consiglio di Stato o del Gran"
-      },
-      {
-        "num": null,
-        "text": "Consiglio avviene secondo la procedura prevista per la legislazione cantonale. 2La revisione parziale della Costituzione può essere chiesta da almeno diecimila cittadini aventi diritto di voto, secondo la procedura stabilita dalla legge. 40  La norma transitoria relativa a questo articolo, approvata con votazione popolare del 1.6.2008: voti favorevoli 68'127, voti contrari 23'108, è decaduta il 1.1.2011 - BU 2008, 327. 41  Modifica dell’art. 82 cpv. 2 approvata con votazione popolare del 10.2.2019: voti favorevoli 57'531, voti contrari 8’145 in vigore dal 15.3.2019 - BU 2019, 87. 42  Modifica dell’art. 83 cpv. 2 approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14'030; in vigore dal 15.3.2019 - BU 2019, 86. 43  Modifica dell’art. 84 cpv. 3 approvata con votazione popolare del 25.9.2005: voti favorevoli 59'151, voti contrari 14'847, in vigore dal 4.11.2005 - BU 2005, 363. 44  Modifica della nota marginale approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14'030; in vigore dal 15.3.2019 - BU 2019, 86. 101.000 15 3La revisione parziale deve limitarsi ad un campo normativo unitario; può comprendere più disposizioni. 4La raccolta delle firme deve avvenire entro cento giorni dalla data di pubblicazione nel Foglio ufficiale della domanda di iniziativa.45 3. Ricevibilità --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "83": [
-      {
-        "num": null,
-        "text": "1La revisione totale della Costituzione può essere proposta:"
-      },
-      {
-        "num": null,
-        "text": "a) dal Consiglio di Stato; b) dal Gran Consiglio, con il voto della maggioranza dei suoi membri; c) da almeno diecimila cittadini aventi diritto di voto. 2La raccolta delle firme deve avvenire entro cento giorni dalla data di pubblicazione nel Foglio ufficiale della domanda di iniziativa.42 2. Procedura --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "87": [
-      {
-        "num": null,
-        "text": "1La domanda di iniziativa popolare può essere presentata in forma elaborata o generica. 2Nel primo caso, la domanda viene sottoposta al voto popolare; il Gran Consiglio può sottoporre contemporaneamente un controprogetto sulla stessa materia. 3Nel secondo caso, il Gran Consiglio è tenuto a elaborare, nel senso della domanda, il progetto da sottoporre al voto popolare; esso può sottoporre un controprogetto sulla stessa materia. 4L’iniziativa per la revisione parziale può essere ritirata. 5. Procedura con controprogetto --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "86": [
-      {
-        "num": null,
-        "text": "della domanda di iniziativa, verificandone la conformità al diritto superiore, l’unità della forma e della materia e l’attuabilità entro un anno dalla pubblicazione nel Foglio ufficiale del risultato della domanda. 4. Forma della iniziativa popolare --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "88": [
-      {
-        "num": null,
-        "text": "proprio progetto, i cittadini aventi diritto di voto devono decidere, in un’unica votazione, se preferiscono l’iniziativa o il controprogetto rispetto al diritto vigente; hanno pure la facoltà di accettare o respingere entrambe le proposte e di esprimere la loro preferenza nel caso in cui iniziativa e controprogetto vengano accettati. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "90": [
-      {
-        "num": null,
-        "text": "1La votazione preliminare sull’iniziativa per la revisione totale della Costituzione deve aver luogo entro sessanta giorni dalla pubblicazione nel Foglio ufficiale del risultato della domanda. 2Le altre votazioni in materia di iniziativa costituzionale devono aver luogo entro sessanta giorni dalla conclusione delle deliberazioni del Gran Consiglio o della Costituente. 3La votazione sull’iniziativa per la revisione parziale deve aver luogo in ogni caso al più tardi entro due anni dalla pubblicazione nel Foglio ufficiale del risultato della domanda."
-      },
-      {
-        "num": null,
-        "text": "TITOLO X"
-      },
-      {
-        "num": null,
-        "text": "Norme transitorie e finali --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "92": [
-      {
-        "num": null,
-        "text": "1Il diritto in vigore mantiene la propria validità. Le norme materialmente contrarie alla"
-      },
-      {
-        "num": null,
-        "text": "Costituzione decadono. 2Le norme adottate secondo una procedura non più prevista dalla Costituzione rimangono in vigore."
-      },
-      {
-        "num": null,
-        "text": "La loro modificazione soggiace alla nuova procedura. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "91": [
-      {
-        "num": null,
-        "text": "1La Costituzione entra in vigore il primo gennaio dell’anno successivo a quello dell’approvazione del popolo.47 2Da questa data la Costituzione della Repubblica e Cantone del Ticino del 4 luglio 1830, riordinata il 29 ottobre 1967, è abrogata. 45  Modifica dell’art. 85 cpv. 4 approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14'030; in vigore dal 15.3.2019 - BU 2019, 86. 46  Modifica dell’art. 89 cpv. 2 approvata con votazione popolare del 25.9.2005: voti favorevoli 59'453, voti contrari 14'419, in vigore dal 4.11.2005 - BU 2005, 363. 47  La Segreteria del Gran Consiglio, visto il regolamento sulle deleghe del 24 agosto 1994; visto l’esito della votazione popolare del 14 dicembre 1997, or dina : il testo della nuova Costituzione cantonale è pubblicato nel Bollettino ufficiale delle leggi e degli atti esecutivi del Cantone Ticino ed entra in vigore il 1° gennaio 1998. 101.000 16 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "93": [
-      {
-        "num": null,
-        "text": "1L’adeguamento del diritto alla Costituzione avviene nel termine di cinque anni dall’entrata in vigore. 2Entro un anno dall’entrata in vigore della Costituzione il Consiglio di Stato informa il Gran Consiglio con un rapporto sulle necessarie modifiche legislative. Il Gran Consiglio lo discute."
-      },
-      {
-        "num": null,
-        "text": "Iniziative popolari e referendum facoltativi --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "94": [
-      {
-        "num": null,
-        "text": "prima dell’entrata in vigore della Costituzione sono regolati dal vecchio diritto."
-      },
-      {
-        "num": null,
-        "text": "Autorità e magistrati --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "147": [
-      {
-        "num": null,
-        "text": "1Il Cantone provvede affinché:"
-      },
-      {
-        "num": null,
-        "text": "a) ognuno possa sopperire ai suoi bisogni con un lavoro svolto in condizioni adeguate e venga protetto dalle conseguenze della disoccupazione che non può essergli imputata e possa beneficiare di vacanze pagate;8 b) sul mercato del lavoro venga privilegiato a pari qualifiche professionali chi vive sul suo territorio per rapporto a chi proviene dall’estero (attuazione del principio di preferenza agli Svizzeri); c) nessuno Stato estero ostacoli l’accesso di persone fisiche o giuridiche svizzere al suo mercato interno in modo contrario allo spirito dei trattati internazionali conclusi con la Confederazione; d) ognuno possa trovare un’abitazione adeguata a condizioni economicamente sopportabili; e) le donne possano beneficiare della necessaria sicurezza economica prima e dopo il parto;"
-      },
-      {
-        "num": "5",
-        "text": "Modifica dell’art. 13 cpv. 3 approvata con votazione popolare del 14.6.2015: voti favorevoli 50'419, voti contrari 41'775, in vigore dal 1.9.2015 - BU 2015, 447."
-      },
-      {
-        "num": "6",
-        "text": "Introduzione dell’art. 13a approvato con votazione popolare del 30.10.2022: voti favorevoli 65’565, voti contrari 10’476, in vigore dal 1.1.2023 - BU 2022, 298."
-      },
-      {
-        "num": "7",
-        "text": "Modifica dell’art. 14 cpv. 1 approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81."
-      },
-      {
-        "num": "8",
-        "text": "Modifica dell’art. 14 lett. a approvata con votazione popolare del 14.6.2015: voti favorevoli 50'419, voti contrari 41'775, in vigore dal 1.9.2015 - BU 2015, 447. 101.000 4 f) i bambini possano disporre di adeguate condizioni di sviluppo e le famiglie vengano sostenute nell’adempimento dei loro compiti; g) le aspirazioni e i bisogni dei giovani siano presi in considerazione; h) ognuno possa beneficiare di un’istruzione e di una formazione adeguata e possa perfezionarsi conformemente ai suoi desideri e alle sue attitudini; i) sia promossa l’occupazione ed ognuno possa scegliere liberamente la sua professione; j) nessun cittadino del suo territorio venga licenziato a seguito di una decisione discriminatoria di sostituzione della manodopera indigena con quella straniera (effetto di sostituzione) oppure debba accettare sensibili riduzioni di salario a causa dell’afflusso indiscriminato della manodopera estera (dumping salariale); k) sia promossa una sana complementarietà professionale tra lavoratori svizzeri e stranieri; l) ogni persona bisognosa di aiuto per ragioni di età, di infermità, di malattia o di handicap possa ricevere le cure necessarie e disporre di un sufficiente sostegno; m) l’ambiente naturale sia protetto dagli effetti nocivi e pregiudizievoli e preservato per le generazioni future. n) sia rispettato il principio della sovranità alimentare in quanto ad accessibilità agli alimenti per una dieta variata, alla destinazione d’uso sostenibile del territorio e al diritto dei cittadini di poter decidere del proprio sistema alimentare e produttivo.9 2Il Cantone facilita l’informazione e ne assicura il pluralismo e promuove l’espressione artistica e la ricerca scientifica."
-      },
-      {
-        "num": null,
-        "text": "TITOLO IV"
-      },
-      {
-        "num": null,
-        "text": "Organismi sociali --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "1510": [
-      {
-        "num": null,
-        "text": "1I compiti pubblici sono assolti dal Cantone, dai Comuni e da altre corporazioni e istituzioni di diritto pubblico nei modi stabiliti dalla Costituzione e dalle leggi. 2Il Cantone promuove la collaborazione e la solidarietà fra i Comuni e favorisce uno sviluppo equilibrato fra le varie regioni. 3Nell’assolvimento dei compiti pubblici, Cantone e Comuni forniscono solidalmente il loro contributo affinché alla popolazione sia garantita la giusta dotazione di servizi pubblici, in particolare in materia di strutture scolastiche e di prestazioni sociosanitarie."
-      },
-      {
-        "num": null,
-        "text": "Comune 1. garanzia 1.1 autonomia 1.2 autonomia residua --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "2011": [
-      {
-        "num": null,
-        "text": "1I Comuni non possono fondersi con altri Comuni o dividersi senza il consenso dei loro cittadini e l’approvazione del Gran Consiglio. 2Il Cantone favorisce la fusione dei Comuni. 3Il Gran Consiglio può decidere la fusione e la separazione di Comuni, alle condizioni previste dalla legge. 4Le rettifiche di confine e le cessioni di territorio di piccola entità sono convenute direttamente dai"
-      },
-      {
-        "num": null,
-        "text": "Comuni fatta salva la ratifica del Consiglio di Stato. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "2812": [
-      {
-        "num": null,
-        "text": "1Il diritto di voto è il diritto di partecipare alle votazioni ed elezioni cantonali e comunali."
-      },
-      {
-        "num": "11",
-        "text": "Modifica dell’art. 20 cpv. 1, 3 e 4 approvata con votazione popolare del 25.9.2005: voti favorevoli 56'691, voti contrari 18'688, in vigore dal 4.11.2005 - BU 2005, 363."
-      },
-      {
-        "num": "12",
-        "text": "Modifica dell’art. 28 cpv. 2 approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 101.000 6 2Esso comprende il diritto di sottoscrivere le domande di iniziativa, di referendum, di revoca del"
-      },
-      {
-        "num": null,
-        "text": "Consiglio di Stato e di revoca del Municipio. 3Il diritto di voto si esercita nel Comune di domicilio, salvo eccezioni stabilite dalla legge. 3. eleggibilità --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "3621": [
-      {
-        "num": null,
-        "text": "1Sono eletti dal Gran Consiglio:"
-      },
-      {
-        "num": null,
-        "text": "a) i giudici del Tribunale d’appello; b) il Presidente dei Giudici dell’istruzione e dell’arresto e i Giudici dell’istruzione e dell’arresto; c) il Procuratore generale e i Procuratori pubblici; d) i Pretori; e) i Presidenti e i membri dei Tribunali delle espropriazioni; f) il Magistrato dei minorenni; g) i membri di sua competenza del Consiglio della magistratura; h) i giurati cantonali. 2Per le funzioni previste al cpv. 1, lett. da a) a f), l’elezione avviene previo concorso e dopo che una"
-      },
-      {
-        "num": null,
-        "text": "Commissione di esperti indipendenti, nominata dal Gran Consiglio, ha esaminato e preavvisato le nuove candidature."
-      },
-      {
-        "num": null,
-        "text": "Iniziativa popolare legislativa 1. principio --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Referendum facoltativo"
       }
     ],
     "4225": [
@@ -1531,13 +888,41 @@
       },
       {
         "num": null,
-        "text": "Consiglio, con un terzo favorevole dei presenti e con un minimo di 25 deputati, vota la referendabilità obbligatoria della spesa. 2La legge ne disciplina le modalità. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Consiglio, con un terzo favorevole dei presenti e con un minimo di 25 deputati, vota la referendabilità obbligatoria della spesa. 2La legge ne disciplina le modalità."
+      }
+    ],
+    "43": [
+      {
+        "num": null,
+        "text": "1Le leggi e i decreti legislativi di carattere obbligatorio generale, giudicati di natura urgente, entrano immediatamente in vigore se lo decide la maggioranza dei membri del Gran"
+      },
+      {
+        "num": null,
+        "text": "Consiglio. 22  Modifica dell’art. 37 cpv. 3 approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14'030; in vigore dal 15.3.2019 - BU 2019, 86. 23  Modifica dell’art. 39 cpv. 2 approvata con votazione popolare del 10.2.2019: voti favorevoli 47'630, voti contrari 17'297; in vigore dal 1.4.2019 - BU 2019, 85. 24  Introduzione dell’art. 39 cpv. 2bis approvata con votazione popolare del 10.2.2019: voti favorevoli 47'630, voti contrari 17'297; in vigore dal 1.4.2019 - BU 2019, 85. 25  Modifica dell’art. 42 approvata con votazione popolare del 10.2.2019: voti favorevoli 52'722, voti contrari 14’030; in vigore dal 15.3.2019 - BU 2019, 86. 26  Introduzione dell’art. 42a approvata con votazione popolare del 26.9.2021: voti favorevoli 46'905, voti contrari 43'547, in vigore dal 18.2.2022 - BU 2022, 40. 101.000 9 2L’atto urgente perde la sua validità dopo un anno dalla sua entrata in vigore e non può essere rinnovato in via d’urgenza."
+      }
+    ],
+    "44": [
+      {
+        "num": null,
+        "text": "1Quindicimila cittadini aventi diritto di voto possono presentare al Gran Consiglio la domanda di revoca del Consiglio di Stato. 2La domanda di revoca non può essere presentata prima che sia trascorso un anno né dopo trascorsi tre anni dall’elezione integrale. 3La raccolta delle firme deve avvenire entro sessanta giorni dalla data di pubblicazione sul Foglio ufficiale della domanda di revoca."
+      },
+      {
+        "num": null,
+        "text": "Revoca del Municipio"
+      },
+      {
+        "num": null,
+        "text": "Art. 44a27 1I cittadini del Comune aventi diritto di voto possono presentare al Consiglio di Stato la domanda di revoca del Municipio. 2La domanda di revoca non può essere depositata né nel primo né nell’ultimo anno della legislatura. 3La domanda di revoca del Municipio deve raccogliere l’adesione di almeno il 30% dei cittadini aventi diritto di voto, nel termine di sessanta giorni dalla sua pubblicazione all’albo comunale."
+      },
+      {
+        "num": null,
+        "text": "Norme di applicazione"
       }
     ],
     "4528": [
       {
         "num": null,
-        "text": "iniziativa, di referendum, di revoca del Consiglio di Stato e di revoca del Municipio. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "iniziativa, di referendum, di revoca del Consiglio di Stato e di revoca del Municipio."
       }
     ],
     "4629": [
@@ -1551,21 +936,119 @@
       },
       {
         "num": null,
-        "text": "Relazioni con la Confederazione, i Cantoni e i Paesi limitrofi --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Relazioni con la Confederazione, i Cantoni e i Paesi limitrofi"
       }
     ],
-    "8140": [
+    "47": [
       {
         "num": null,
-        "text": "1Il periodo di nomina dei magistrati è di dieci anni. 2I giudici di pace sono eletti con il sistema maggioritario nei circondari uninominali e con il sistema proporzionale negli altri casi. 3La legge regola le nomine di competenza del Gran Consiglio."
+        "text": "1Il Cantone partecipa con impegno solidale alla realizzazione degli interessi comuni della"
       },
       {
         "num": null,
-        "text": "TITOLO IX"
+        "text": "Confederazione e dei Cantoni. 2A questo fine il Consiglio di Stato cura le relazioni con i deputati ticinesi alle Camere federali."
+      }
+    ],
+    "48": [
+      {
+        "num": null,
+        "text": "1I deputati al Consiglio degli Stati sono eletti ogni quattro anni contemporaneamente ai deputati al Consiglio nazionale, con la maggioranza assoluta al primo turno. 2È ineleggibile il cittadino condannato alla pena detentiva o alla pena pecuniaria per crimini o delitti contrari alla dignità della carica.30"
+      }
+    ],
+    "49": [
+      {
+        "num": null,
+        "text": "1Il Cantone agevola e promuove la cooperazione transfrontaliera. 27  Introduzione dell’art. 44a approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 28  Modifica dell’art. 45 approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 29  Introduzione dell’art. 46 cpv. 3 approvata con votazione popolare del 7.3.2010: voti favorevoli 47'602, voti contrari 33'772, in vigore dal 4.2.2011 - BU 2011, 93. 30  Introduzione dell’art. 48 cpv. 2 approvata con votazione popolare del 9.2.2014: voti favorevoli 101'114, voti contrari 11'775, in vigore dal 1.3.2015 - BU 2015, 555. 31  Modifica della nota marginale approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 101.000 10 2Qualora lo Stato estero limiti con regolamenti interni o sistemi di attuazione disincentivanti l’esecuzione al suo interno dei trattati internazionali conclusi con la Confederazione, il Cantone applicherà i medesimi standard minimi nel rispetto del criterio di reciprocità nell’attuazione.32"
+      }
+    ],
+    "50": [
+      {
+        "num": null,
+        "text": "1Nelle relazioni con la Confederazione, con gli altri Cantoni e con i Paesi limitrofi, le autorità devono promuovere e tutelare l’identità, l’autonomia, gli obiettivi sociali e l’interesse economico del Cantone. 2Nelle relazioni con i Paesi limitrofi le autorità modulano il mercato del lavoro in base alle necessità di chi vive sul territorio del Cantone, promuovendo la sana complementarietà professionale tra lavoratori svizzeri e stranieri, evitando la sostituzione della manodopera indigena con quella straniera (effetto di sostituzione) e la corsa al ribasso dei salari (dumping salariale).34"
       },
       {
         "num": null,
-        "text": "Revisione della Costituzione --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "TITOLO VIII"
+      },
+      {
+        "num": null,
+        "text": "Autorità"
+      },
+      {
+        "num": null,
+        "text": "A. Norme comuni"
+      },
+      {
+        "num": null,
+        "text": "Separazione dei poteri"
+      }
+    ],
+    "51": [
+      {
+        "num": null,
+        "text": "separati, il Legislativo, l’Esecutivo, il Giudiziario."
+      },
+      {
+        "num": null,
+        "text": "Elezioni"
+      }
+    ],
+    "52": [
+      {
+        "num": null,
+        "text": "ogni quattro anni, nel mese di aprile, nel giorno stabilito dal Consiglio di Stato."
+      },
+      {
+        "num": null,
+        "text": "Organizzazione"
+      }
+    ],
+    "53": [
+      {
+        "num": null,
+        "text": "di Stato."
+      }
+    ],
+    "54": [
+      {
+        "num": null,
+        "text": "1Nessuno può essere contemporaneamente Consigliere di Stato, deputato al Gran"
+      },
+      {
+        "num": null,
+        "text": "Consiglio, magistrato dell’ordine giudiziario cantonale o federale.35 2I Consiglieri di Stato e i magistrati dell’ordine giudiziario non possono essere contemporaneamente membri del Consiglio degli Stati o del Consiglio nazionale, né membri di un Municipio. I Consiglieri di Stato non possono inoltre essere membri di un Consiglio comunale. 3La carica di deputato al Gran Consiglio è incompatibile con un impiego pubblico salariato cantonale; la legge regola le eccezioni. 4La legge regola le incompatibilità per parentela, mandato o professione per i membri delle autorità."
+      }
+    ],
+    "55": [
+      {
+        "num": null,
+        "text": "1Ogni membro di autorità deve astenersi dal suo ufficio qualora l’indipendenza o l’imparzialità sia compromessa. 2La legge regola i motivi di esclusione e di ricusa."
+      },
+      {
+        "num": null,
+        "text": "Informazione"
+      }
+    ],
+    "56": [
+      {
+        "num": null,
+        "text": "interessi pubblici o privati preponderanti."
+      },
+      {
+        "num": null,
+        "text": "B. Potere legislativo"
+      }
+    ],
+    "57": [
+      {
+        "num": null,
+        "text": "1Il Gran Consiglio di novanta membri è l’autorità legislativa del Cantone. 32  Modifica dell’art. 49 cpv. 2 approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 33  Modifica della nota marginale approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 34  Modifica dell’art. 50 cpv. 2 approvata con votazione popolare del 25.9.2016: voti favorevoli 56'416, voti contrari 38'073, in vigore dal 1.4.2018 - BU 2018, 81. 35  Modifica dell’art. 54 cpv. 1 approvata con votazione popolare del 23.9.2012: voti favorevoli 56'830, voti contrari 22'474, in vigore dal 1.1.2013 - BU 2012, 487. 101.000 11 2Esso esercita l’alta vigilanza sul Consiglio di Stato e sui tribunali ed esercita gli attributi della sovranità che la Costituzione non riserva esplicitamente ad altra autorità."
+      }
+    ],
+    "58": [
+      {
+        "num": null,
+        "text": "1Il Gran Consiglio è eletto in un unico circondario con il sistema proporzionale con facoltà ai partiti di garantire la rappresentanza regionale. 2La legge ne disciplina le modalità."
       }
     ],
     "5936": [
@@ -1575,47 +1058,17 @@
       },
       {
         "num": null,
-        "text": "a) stabilisce la sua organizzazione e le modalità per le discussioni e le decisioni; b) verifica i poteri dei suoi membri; c) adotta, modifica o respinge i progetti di legge e di decreto legislativo; d) autorizza il prelevamento delle imposte e le spese; e) decide i programmi attribuitigli per legge, esamina quelli elaborati dal Consiglio di Stato e ne verifica l’attuazione; f) stabilisce, su proposta del Consiglio di Stato, il bilancio preventivo delle entrate e delle spese del Cantone; g) esamina ogni anno l’amministrazione e i conti del Cantone su rapporto del Consiglio di Stato e li approva; h) si fa render conto dal Consiglio di Stato dell’esecuzione delle leggi, dei decreti e dei regolamenti; i) autorizza o ratifica l’alienazione e la concessione dei beni cantonali, in quanto la legge non le demandi al Consiglio di Stato; l) fissa la retribuzione ai magistrati e ai dipendenti; m) procede alle nomine che gli sono attribuite dalla Costituzione e dalle leggi; n) destituisce dalla carica il membro del Gran Consiglio o del Consiglio di Stato che si trova in condizioni di ineleggibilità;37 o) esercita il diritto di amnistia e di grazia; p) esercita i compiti giurisdizionali attribuitigli dalla legge; q) approva le convenzioni di diritto pubblico di carattere legislativo e quelle che comportano una spesa soggetta a referendum; r) esercita i diritti di iniziativa e referendum che la Costituzione federale attribuisce al Cantone. 2A ciascun membro del Gran Consiglio spetta il diritto di iniziativa in materia di revisione parziale della Costituzione e in materia legislativa. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "a) stabilisce la sua organizzazione e le modalità per le discussioni e le decisioni; b) verifica i poteri dei suoi membri; c) adotta, modifica o respinge i progetti di legge e di decreto legislativo; d) autorizza il prelevamento delle imposte e le spese; e) decide i programmi attribuitigli per legge, esamina quelli elaborati dal Consiglio di Stato e ne verifica l’attuazione; f) stabilisce, su proposta del Consiglio di Stato, il bilancio preventivo delle entrate e delle spese del Cantone; g) esamina ogni anno l’amministrazione e i conti del Cantone su rapporto del Consiglio di Stato e li approva; h) si fa render conto dal Consiglio di Stato dell’esecuzione delle leggi, dei decreti e dei regolamenti; i) autorizza o ratifica l’alienazione e la concessione dei beni cantonali, in quanto la legge non le demandi al Consiglio di Stato; l) fissa la retribuzione ai magistrati e ai dipendenti; m) procede alle nomine che gli sono attribuite dalla Costituzione e dalle leggi; n) destituisce dalla carica il membro del Gran Consiglio o del Consiglio di Stato che si trova in condizioni di ineleggibilità;37 o) esercita il diritto di amnistia e di grazia; p) esercita i compiti giurisdizionali attribuitigli dalla legge; q) approva le convenzioni di diritto pubblico di carattere legislativo e quelle che comportano una spesa soggetta a referendum; r) esercita i diritti di iniziativa e referendum che la Costituzione federale attribuisce al Cantone. 2A ciascun membro del Gran Consiglio spetta il diritto di iniziativa in materia di revisione parziale della Costituzione e in materia legislativa."
       }
     ],
-    "8946": [
+    "60": [
       {
         "num": null,
-        "text": "1Nel caso di revisione totale, l’autorità designata deve allestire il progetto entro cinque anni dalla pubblicazione nel Foglio ufficiale dei risultati della votazione preliminare. 2Nel caso di revisione parziale, il Gran Consiglio deve concludere le deliberazioni entro 18 mesi dalla pubblicazione nel Foglio ufficiale del risultato della domanda d’iniziativa popolare o dalla presentazione del messaggio relativo del Consiglio di Stato. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "8443": [
-      {
-        "num": null,
-        "text": "1Quando la proposta è di iniziativa popolare o del Gran Consiglio i cittadini aventi diritto di voto devono preliminarmente decidere, in un’unica votazione, se vogliono la revisione totale e se il progetto deve essere elaborato dal Gran Consiglio oppure dalla Costituente. 2L’iniziativa popolare per la revisione totale può essere ritirata sino allo svolgimento della votazione preliminare. 3La Costituente viene eletta entro sei mesi nei modi stabiliti per la nomina del Gran Consiglio, con uguale numero di deputati, e resta in carica al massimo cinque anni. 4Consiglio di Stato e Gran Consiglio applicano la procedura prevista per la legislazione cantonale."
+        "text": "1Il Gran Consiglio è convocato dal Consiglio di Stato in seduta costitutiva entro trenta giorni dalla data dell’elezione. 2Il presidente convoca il Gran Consiglio quando lo richiede il regolare svolgimento delle funzioni e quando lo domandano il Consiglio di Stato o almeno trenta deputati."
       },
       {
         "num": null,
-        "text": "Revisione parziale 1. Proposta44 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "9548": [
-      {
-        "num": null,
-        "text": "sostituzione fino alla scadenza del periodo di elezione o di nomina. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "9649": [
-      {
-        "num": null,
-        "text": "L’art. 9a entra in vigore contemporaneamente alla nuova legge di applicazione."
-      },
-      {
-        "num": null,
-        "text": "Approvata con votazione popolare cantonale del 14.12.1997: voti favorevoli 40'455, voti contrari 10'984."
-      },
-      {
-        "num": null,
-        "text": "Entrata in vigore: 1° gennaio 1998."
-      },
-      {
-        "num": null,
-        "text": "Pubblicata nel BU 1997, 575. 48  La norma transitoria relativa a questo articolo, approvata con votazione popolare del 1.6.2008: voti favorevoli 68'127, voti contrari 23'108, è decaduta il 1.1.2011 - BU 2008, 327. 49  Introduzione dell’art. 96 con votazione popolare del 22.9.2013: voti favorevoli 63'494, voti contrari 32'777, in vigore dal 1.7.2016 - BU 2016, 193. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Presidenza _… 36 more articles not shown. Total text length: 51,902 chars._"
       }
     ]
   }

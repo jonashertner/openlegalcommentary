@@ -3,10 +3,11 @@
   "law_key": "ai-kv",
   "sr_number": "101.000",
   "language": "de",
-  "title": "Verfassung für den Eidg. Stand Appenzell I.Rh.",
+  "title": "Verfassung für den Eidgenössischen Stand Appenzell I. Rh.",
   "lexfind_id": 1209,
-  "fetched_at": "2026-04-13",
-  "article_count": 53,
+  "fetched_at": "2026-04-14",
+  "source": "lexwork",
+  "article_count": 14,
   "articles": [
     {
       "number": 1,
@@ -21,57 +22,15 @@
       "title": ""
     },
     {
-      "number": 3,
-      "suffix": "",
-      "raw": "3",
-      "title": "Kanton Appenzell Innerrhoden"
-    },
-    {
-      "number": 4,
-      "suffix": "",
-      "raw": "4",
-      "title": ""
-    },
-    {
       "number": 5,
       "suffix": "",
       "raw": "5",
       "title": ""
     },
     {
-      "number": 6,
-      "suffix": "",
-      "raw": "6",
-      "title": ""
-    },
-    {
-      "number": 7,
-      "suffix": "",
-      "raw": "7",
-      "title": ""
-    },
-    {
-      "number": 7,
-      "suffix": "bis",
-      "raw": "7bis",
-      "title": ""
-    },
-    {
-      "number": 7,
-      "suffix": "ter",
-      "raw": "7ter",
-      "title": "Kanton Appenzell Innerrhoden"
-    },
-    {
       "number": 8,
       "suffix": "",
       "raw": "8",
-      "title": ""
-    },
-    {
-      "number": 9,
-      "suffix": "",
-      "raw": "9",
       "title": ""
     },
     {
@@ -87,18 +46,6 @@
       "title": ""
     },
     {
-      "number": 12,
-      "suffix": "",
-      "raw": "12",
-      "title": ""
-    },
-    {
-      "number": 13,
-      "suffix": "",
-      "raw": "13",
-      "title": ""
-    },
-    {
       "number": 14,
       "suffix": "",
       "raw": "14",
@@ -108,13 +55,7 @@
       "number": 15,
       "suffix": "",
       "raw": "15",
-      "title": "II. Landeseinteilung"
-    },
-    {
-      "number": 16,
-      "suffix": "",
-      "raw": "16",
-      "title": "III. Öffentliche Rechte und Pflichten des Einzelnen"
+      "title": ""
     },
     {
       "number": 17,
@@ -123,16 +64,10 @@
       "title": ""
     },
     {
-      "number": 18,
-      "suffix": "",
-      "raw": "18",
-      "title": ""
-    },
-    {
       "number": 19,
       "suffix": "",
       "raw": "19",
-      "title": "IV. Gesetzgebende Behörde"
+      "title": ""
     },
     {
       "number": 20,
@@ -141,94 +76,10 @@
       "title": ""
     },
     {
-      "number": 20,
-      "suffix": "bis",
-      "raw": "20bis",
-      "title": ""
-    },
-    {
-      "number": 21,
-      "suffix": "",
-      "raw": "21",
-      "title": ""
-    },
-    {
-      "number": 22,
-      "suffix": "",
-      "raw": "22",
-      "title": "V.1.a) Grosser Rat"
-    },
-    {
-      "number": 23,
-      "suffix": "",
-      "raw": "23",
-      "title": ""
-    },
-    {
-      "number": 24,
-      "suffix": "",
-      "raw": "24",
-      "title": ""
-    },
-    {
-      "number": 25,
-      "suffix": "",
-      "raw": "25",
-      "title": ""
-    },
-    {
-      "number": 26,
-      "suffix": "",
-      "raw": "26",
-      "title": ""
-    },
-    {
-      "number": 27,
-      "suffix": "",
-      "raw": "27",
-      "title": "Kanton Appenzell Innerrhoden"
-    },
-    {
-      "number": 28,
-      "suffix": "",
-      "raw": "28",
-      "title": ""
-    },
-    {
-      "number": 29,
-      "suffix": "",
-      "raw": "29",
-      "title": ""
-    },
-    {
-      "number": 29,
-      "suffix": "bis",
-      "raw": "29bis",
-      "title": ""
-    },
-    {
-      "number": 30,
-      "suffix": "",
-      "raw": "30",
-      "title": "V.1.b) Standeskommission"
-    },
-    {
       "number": 31,
       "suffix": "",
       "raw": "31",
       "title": ""
-    },
-    {
-      "number": 32,
-      "suffix": "",
-      "raw": "32",
-      "title": "V.1.c) Der Landammann"
-    },
-    {
-      "number": 33,
-      "suffix": "",
-      "raw": "33",
-      "title": "V.2.a) Bezirksgemeinde"
     },
     {
       "number": 34,
@@ -241,101 +92,27 @@
       "suffix": "",
       "raw": "35",
       "title": ""
-    },
-    {
-      "number": 36,
-      "suffix": "",
-      "raw": "36",
-      "title": "V.2.b) Hauptleute und Räte"
-    },
-    {
-      "number": 37,
-      "suffix": "",
-      "raw": "37",
-      "title": "Reglementes festlegen."
-    },
-    {
-      "number": 38,
-      "suffix": "",
-      "raw": "38",
-      "title": "VI. Richterliche Behörden"
-    },
-    {
-      "number": 39,
-      "suffix": "",
-      "raw": "39",
-      "title": ""
-    },
-    {
-      "number": 40,
-      "suffix": "",
-      "raw": "40",
-      "title": ""
-    },
-    {
-      "number": 41,
-      "suffix": "",
-      "raw": "41",
-      "title": ""
-    },
-    {
-      "number": 41,
-      "suffix": "bis",
-      "raw": "41bis",
-      "title": "Gewährleistungsbeschluss vom"
-    },
-    {
-      "number": 42,
-      "suffix": "",
-      "raw": "42",
-      "title": ""
-    },
-    {
-      "number": 43,
-      "suffix": "",
-      "raw": "43",
-      "title": ""
-    },
-    {
-      "number": 44,
-      "suffix": "",
-      "raw": "44",
-      "title": ""
-    },
-    {
-      "number": 45,
-      "suffix": "",
-      "raw": "45",
-      "title": ""
-    },
-    {
-      "number": 46,
-      "suffix": "",
-      "raw": "46",
-      "title": "VII. Ortsbehörden: Kirchen- und Schulwesen"
-    },
-    {
-      "number": 47,
-      "suffix": "",
-      "raw": "47",
-      "title": ""
-    },
-    {
-      "number": 48,
-      "suffix": "",
-      "raw": "48",
-      "title": "VIII. Abänderung der Verfassung"
     }
   ],
   "article_texts": {
+    "1": [
+      {
+        "num": "1",
+        "text": "Die Verfassung ist diejenige eines Volksstaates und Bundesgliedes der schweizerischen Eidgenossenschaft. Die Staatsgewalt ruht wesentlich im Volke und wird von demselben an der Landsgemeinde ausgeübt."
+      },
+      {
+        "num": "2",
+        "text": "Das Volk gibt sich seine Verfassung, entscheidet über Annahme oder Verwerfung der Gesetze und nimmt die der Landsgemeinde zustehenden Wahlen vor."
+      },
+      {
+        "num": "3",
+        "text": "Bei allen Volks- und Ratsabstimmungen entscheidet die absolute Mehrheit der Stimmenden. Den Bezirken und Gemeinden steht es frei, die offene Abstimmung an der Gemeindeversammlung durch geheime Abstimmung an der Urne zu ersetzen. Der Entscheid über die Einführung der Urnenabstimmung hat im geheimen Verfahren zu erfolgen. Der Grosse Rat regelt das Erforderliche durch Verordnung. *"
+      }
+    ],
     "2": [
       {
         "num": "1",
-        "text": "Durch die Verfassung ist grundsätzlich volle Freiheit anerkannt, und es sind folgende Rechte von selbst gewährleistet: die Gleichheit der Bürger und"
-      },
-      {
-        "num": null,
-        "text": "Gleichberechtigten vor dem Gesetze und die persönliche Freiheit; ferner nach Massgabe der allgemeinen Rechtsbestimmungen die freie Meinungsäusserung durch Wort und Schrift, sowie das Vereins- und Versammlungsrecht; auch ist die Unverletzlichkeit des Hausrechtes ausgesprochen."
+        "text": "Durch die Verfassung ist grundsätzlich volle Freiheit anerkannt, und es sind folgende Rechte von selbst gewährleistet: die Gleichheit der Bürger und Gleichberechtigten vor dem Gesetze und die persönliche Freiheit; ferner nach Massgabe der allgemeinen Rechtsbestimmungen die freie Meinungsäusserung durch Wort und Schrift, sowie das Vereins- und Versammlungsrecht; auch ist die Unverletzlichkeit des Hausrechtes ausgesprochen."
       },
       {
         "num": "2",
@@ -343,77 +120,7 @@
       },
       {
         "num": "3",
-        "text": "Das Lotteriemonopol steht, soweit es nicht von Bundesrechts wegen eingeschränkt ist, dem Kanton zu. * 1 * vgl. Änderungstabelle am Schluss des Erlasses 101.000 ### § 2 — Abs. 3 eingefügt - 29.04.2001 29.04.2001 ### § 2 — Abs. 3 30.04.2000 30.04.2000 eingefügt - ### § 2 — Abs. 3"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 20. März 2001 (BBl 2001 1374) 29. April 2001 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "1": [
-      {
-        "num": "1",
-        "text": "Die Verfassung ist diejenige eines Volksstaates und Bundesgliedes der schweizerischen Eidgenossenschaft. Die Staatsgewalt ruht wesentlich im"
-      },
-      {
-        "num": null,
-        "text": "Volke und wird von demselben an der Landsgemeinde ausgeübt."
-      },
-      {
-        "num": "2",
-        "text": "Das Volk gibt sich seine Verfassung, entscheidet über Annahme oder Verwerfung  der  Gesetze  und  nimmt  die  der  Landsgemeinde  zustehenden"
-      },
-      {
-        "num": null,
-        "text": "Wahlen vor."
-      },
-      {
-        "num": "3",
-        "text": "Bei allen Volks- und Ratsabstimmungen entscheidet die absolute Mehrheit der Stimmenden. Den Bezirken und Gemeinden steht es frei, die offene Abstimmung an der Gemeindeversammlung durch geheime Abstimmung an der Urne zu ersetzen. Der Entscheid über die Einführung der Urnenabstimmung hat im geheimen Verfahren zu erfolgen. Der Grosse Rat regelt das Erforderliche durch Verordnung. * ### § 1 — Abs. 3 geändert - 24.04.1966 24.04.1966 ### § 1 — Abs. 3 geändert - 28.04.2013 28.04.2013 ### § 1 — Abs. 3 24.04.1966 24.04.1966 geändert - ### § 1 — Abs. 3 28.04.2013 28.04.2013 geändert - ### § 1 und 7"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 6. Oktober 1966 (BBl 1966 II 471, 325) 30. April 1967 ### § 1 , 27 und 29"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 3. März 2016 (BBl 2016 2301) 27. April 2014 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "3": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Die römisch-katholische und die evangelisch-reformierte Kirche sind als"
-      },
-      {
-        "num": null,
-        "text": "Körperschaften öffentlichen Rechts anerkannt. Sie regeln ihre inneren Angelegenheiten selbstständig. ### § 3 geändert - 27.04.2003 27.04.2003 ### § 3 27.04.2003 27.04.2003 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "4": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Das Eigentum jeder Art, gehöre es Privaten, Gesellschaften, vom Staate anerkannten Korporationen und Stiftungen oder Gemeinden, ist unverletzlich."
-      },
-      {
-        "num": "2",
-        "text": "Für Zwecke, die im Interesse des Kantons oder einer Landesgegend liegen, kann gegen volle Entschädigung die Abtretung oder die Belastung von"
-      },
-      {
-        "num": null,
-        "text": "Eigentum verlangt werden. Die Enteignung ist jedoch nur zulässig, sofern und soweit sie zur Erreichung des Zweckes erforderlich und eine gütliche Einigung nicht oder nur unter unverhältnismässigem Kostenaufwand möglich ist."
-      },
-      {
-        "num": "3",
-        "text": "Nähere Bestimmungen trifft die Gesetzgebung. ### § 4 geändert - 24.04.1966 24.04.1966 ### § 4 24.04.1960 24.04.1960 geändert - ### § 4 — Gewährleistungsbeschluss vom 29. Juni 1960 (BBl 1960 II 4, 224) 24. April 1966 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Das Lotteriemonopol steht, soweit es nicht von Bundesrechts wegen eingeschränkt ist, dem Kanton zu. *"
       }
     ],
     "5": [
@@ -427,213 +134,13 @@
       },
       {
         "num": "3",
-        "text": "… * ### § 5 — Abs. 2 geändert - 27.04.2003 27.04.2003 ### § 5 — Abs. 3 aufgehoben - 27.04.2003 27.04.2003 ### § 5 — Abs. 2 27.04.2003 27.04.2003 geändert - ### § 5 — Abs. 3 27.04.2003 27.04.2003 aufgehoben - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "6": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Niemand darf seinem verfassungsmässigen Richter entzogen werden."
-      },
-      {
-        "num": "2",
-        "text": "Es ist den Parteien unbenommen, in beidseitigem Einverständnis für den"
-      },
-      {
-        "num": null,
-        "text": "Entscheid von Rechtsstreitigkeiten Schiedsgerichte anzurufen. ### § 6 geändert - 24.04.1949 24.04.1949 ### § 6 24.04.1949 24.04.1949 geändert - ### § 6 , 28, 30, 33, 38, 39, 40, 41, 42, 43, 44 und 45"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 29. September 1949 (BBl 1949 II 587, 353) 24. April 1960 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "7": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Alle Kantonseinwohner, sowie Genossenschaften und Ortskreise haben das Recht, an die Orts- und Kantonsbehörden ihre Wünsche und Verlangen zu stellen. 2"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000 ### § 7 geändert - 25.04.1982 25.04.1982 ### § 7 25.04.1982 25.04.1982 geändert - ### § 7 — Gewährleistungsbeschluss vom 17. Dezember 1976 (BBl 1976 II 1021, 1547) 29. April 1979 ### § 7 , 16, 33 und 46"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 13. Dezember 1979 (BBl 1979 III 854, 1153) 25. April 1982 ### § 7 , 23 und 48"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 16. Dezember 1982 (BBl 1982 III 765, 1150)"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000-A1 3 27. April 1986 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "7bis": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Jeder Stimmberechtigte kann durch Einreichung einer Initiative nach Massgabe der folgenden Bestimmungen die Abänderung der Verfassung sowie den Erlass, die Abänderung oder die Aufhebung von Gesetzen beantragen."
-      },
-      {
-        "num": "2",
-        "text": "Die Initiative kann als allgemeine Anregung oder, wenn dadurch nicht die"
-      },
-      {
-        "num": null,
-        "text": "Totalrevision der Verfassung verlangt wird, als ausgearbeiteter Entwurf eingebracht werden. Sie darf sich nur auf ein bestimmtes Sachgebiet beziehen."
-      },
-      {
-        "num": null,
-        "text": "Genügt sie dieser Anforderung nicht, so sind die einzelnen in ihr enthaltenen"
-      },
-      {
-        "num": null,
-        "text": "Sachgebiete getrennt zu behandeln."
-      },
-      {
-        "num": "3",
-        "text": "Mit der Initiative darf nichts verlangt werden, was dem Bundesrecht oder, soweit sie nicht deren Abänderung zum Gegenstand hat, der Kantonsverfassung widerspricht."
-      },
-      {
-        "num": "4",
-        "text": "Erfolgt die Initiative in der Form der allgemeinen Anregung und ist der"
-      },
-      {
-        "num": null,
-        "text": "Grosse Rat mit derselben einverstanden, so arbeitet er einen entsprechenden Entwurf aus und unterbreitet diesen der Landsgemeinde zur Annahme oder Verwerfung. Lehnt der Grosse Rat die allgemeine Anregung ab, so legt er diese samt einem allfälligen Gegenvorschlag der Landsgemeinde vor."
-      },
-      {
-        "num": null,
-        "text": "Stimmt die Landsgemeinde der Initiative oder dem Gegenvorschlag zu, so arbeitet der Grosse Rat einen Entwurf im Sinne des Landsgemeindebeschlusses aus und unterbreitet diesen der Landsgemeinde zur Annahme oder Verwerfung."
-      },
-      {
-        "num": "5",
-        "text": "Die Initiative in der Form des ausgearbeiteten Entwurfes ist der Landsgemeinde zu unterbreiten. Der Grosse Rat kann ihr einen Gegenvorschlag gegenüberstellen, der gleichzeitig mit der Initiative zur Abstimmung zu bringen ist."
-      },
-      {
-        "num": "6",
-        "text": "Initiativen sind bis 31. Mai schriftlich dem Grossen Rat zur Prüfung und Begutachtung einzureichen. Sie sind der nächsten ordentlichen Landsgemeinde vorzulegen; Entwürfe, die der Grosse Rat aufgrund einer Vorabstimmung im Sinne von Abs. 4 auszuarbeiten hat, sind der auf die Vorabstimmung folgenden ordentlichen Landsgemeinde zu unterbreiten. Diese Fristen kann der Grosse Rat mit einer Mehrheit von zwei Dritteln seiner Mitglieder höchstens um zwei Jahre verlängern, wenn es besondere Umstände erfordern, wie die Ausarbeitung neuer Gesetze oder grösserer Revisionen von Verfassung oder Gesetzen oder grösserer Gegenvorschläge. *"
-      },
-      {
-        "num": "7",
-        "text": "Das weitere Verfahren für die Ausübung des Initiativrechtes kann durch Erlass des Grossen Rates geregelt werden. 3 101.000 ### § 7bis geändert - 18"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000"
-      },
-      {
-        "num": null,
-        "text": "Beschluss"
-      },
-      {
-        "num": null,
-        "text": "Inkrafttreten"
-      },
-      {
-        "num": null,
-        "text": "Element"
-      },
-      {
-        "num": null,
-        "text": "Änderung cGS Publikation 25.04.1982 25.04.1982 ### § 7bis — Abs. 6 geändert - 09.05.2021 01.06.2021 ### § 7bis 25.04.1982 25.04.1982 geändert - ### § 7bis — Abs. 6 29.04.2018 01.05.2018 geändert - ### § 7bis — Abs. 6"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 22. März 2019 (BBl 2019 2861)"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000-A1 5 09. Mai 2021 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "… *"
       }
     ],
     "8": [
       {
         "num": "1",
-        "text": "Jeder Kantonsbürger, sowie jeder im Kanton niedergelassene Schweizer ist nach Inhalt der Bundesbestimmungen wehrpflichtig. ### § 8"
-      },
-      {
-        "num": null,
-        "text": "Abs. 3 und Art. 51 BV zu. 6"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "7ter": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Freie Beschlüsse des Grossen Rates über einmalige Ausgaben von wenigstens Fr. 1'000'000.-- oder während mindestens 4 Jahren wiederkehrende Leistungen von wenigstens Fr. 250'000.-- unterstehen dem obligatorischen Referendum. *"
-      },
-      {
-        "num": "2",
-        "text": "200 stimmberechtigte Kantonseinwohner können über einen freien Grossratsbeschluss den Entscheid der Landsgemeinde verlangen, wenn der Beschluss zulasten des Staates für den gleichen Gegenstand eine einmalige neue Ausgabe von wenigstens Fr. 500'000.-- oder eine während mindestens"
-      },
-      {
-        "num": "4",
-        "text": "Jahren wiederkehrende Leistung von wenigstens Fr. 125'000.-- bewirkt."
-      },
-      {
-        "num": null,
-        "text": "Ausgaben für die Besoldung des Staatspersonals sind diesem fakultativen"
-      },
-      {
-        "num": null,
-        "text": "Referendum entzogen. *"
-      },
-      {
-        "num": "3",
-        "text": "Ein referendumsfähiger Beschluss erwächst in Rechtskraft, wenn nicht innert 30 Tagen seit dessen amtlicher Publikation ein rechtsgültiges Begehren auf Herbeiführung eines Entscheides der Landsgemeinde zuhanden der"
-      },
-      {
-        "num": null,
-        "text": "Standeskommission eingereicht worden ist."
-      },
-      {
-        "num": "4",
-        "text": "Ausgabenbeschlüsse des Grossen Rates unterstehen dem Referendum nicht, wenn der Vollzug keinen Aufschub erträgt. Über die Dringlichkeit entscheidet der Grosse Rat in geheimer Abstimmung. Der Beschluss bedarf einer Mehrheit von zwei Dritteln der Anwesenden."
-      },
-      {
-        "num": "5",
-        "text": "Das weitere Verfahren betreffend die Ausführung des fakultativen Referendums wird durch Erlass des Grossen Rates geregelt."
-      },
-      {
-        "num": "6",
-        "text": "… * ### § 7ter eingefügt - 30.04.1967 30.04.1967 ### § 7ter geändert - 29.04.1979 29.04.1979 ### § 7ter geändert - 29.04.1979 29.04.1979 ### § 7ter geändert - 25.04.1982 25.04.1982 ### § 7ter — Abs. 2 geändert - 26.04.1992 26.04.1992 ### § 7ter — Abs. 6 aufgehoben - 30.04.1995 01.01.1997 ### § 7ter — Abs. 1 geändert - 27.04.2003 27.04.2003 ### § 7ter — Abs. 1 geändert - 27.04.2014 27.04.2014 ### § 7ter — Abs. 2 geändert - 18.08.2014 18.08.2014"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü3 aufgehoben - 26.04.2015 26.04.2015 ### § 7ter 24.04.1966 24.04.1966 eingefügt - ### § 7ter 25.04.1976 25.04.1976 geändert - ### § 7ter 29.04.1979 29.04.1979 geändert - ### § 7ter 25.04.1982 25.04.1982 geändert - ### § 7ter — Abs. 1 28.04.2002 28.04.2002 geändert - ### § 7ter — Abs. 1 27.04.2014 27.04.2014 geändert - ### § 7ter — Abs. 2 26.04.1992 26.04.1992 geändert - ### § 7ter — Abs. 2 27.04.2014 27.04.2014 geändert - ### § 7ter — Abs. 6 30.04.1995 01.01.1997 aufgehoben - ### § 7ter , 16, 30 und 40"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 14. Dezember 1993 (BBl 1993 II 180,1993 IV 599) 25. April 1993 ### § 7ter , 10, 20, 30, 31, 33, 37 und Üb."
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 16. September 1996 (BBl 1996 I 1301; 1996 IV 864) 26. April 1998 ### § 7ter — Abs. 1"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 12. März 2003 (BBl 2003 2887) 27. April 2003 ### § 7ter — Gewährleistungsbeschluss vom 11. März 2015 (BBl 2015 3035) 26. April 2015 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Jeder Kantonsbürger, sowie jeder im Kanton niedergelassene Schweizer ist nach Inhalt der Bundesbestimmungen wehrpflichtig."
       }
     ],
     "10": [
@@ -643,15 +150,7 @@
       },
       {
         "num": "2",
-        "text": "Der Staat hält eingehende Aufsicht über die Behörden in ihrer Tätigkeit und"
-      },
-      {
-        "num": null,
-        "text": "Haushaltung in den verschiedenen Zweigen des Gemeindelebens. * 4"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000"
+        "text": "Der Staat hält eingehende Aufsicht über die Behörden in ihrer Tätigkeit und Haushaltung in den verschiedenen Zweigen des Gemeindelebens. *"
       },
       {
         "num": "3",
@@ -659,39 +158,7 @@
       },
       {
         "num": "4",
-        "text": "Namentlich steht ihm auch das Recht zu, die Verteilung der Güter der Nutzungsgenossenschaften unter die einzelnen Nutzungsteilhaber zu verhindern. ### § 10 — Abs. 1 aufgehoben - 30.04.1995 01.01.1997 ### § 10 — Abs. 2 geändert - 30.04.1995 01.01.1997 ### § 10 — Abs. 1 30.04.1995 01.01.1997 aufgehoben - ### § 10 — Abs. 2 30.04.1995 01.01.1997 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "9": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Änderungen des Steuersystems kommen einzig der Landsgemeinde zu. ### § 9 geändert - 27.04.2003 27.04.2003 ### § 9 27.04.2003 27.04.2003 geändert - ### § 9 27. April 1941 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "12": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Das öffentliche Unterrichtswesen ist Sache des Staates. *"
-      },
-      {
-        "num": "2",
-        "text": "Der öffentliche obligatorische Volksschulunterricht ist unentgeltlich. Die entsprechenden Kosten haben die Schulgemeinden unter angemessener Beihilfe des Staates zu tragen, welcher die Vervollkommnung des Volksschulwesens im Auge hat. ### § 12 geändert - 27.04.2003 27.04.2003 ### § 12 — Abs. 1 geändert - 25.04.2004 25.04.2004 ### § 12 27.04.2003 27.04.2003 geändert - ### § 12 — Abs. 1 25.04.2004 25.04.2004 geändert - ### § 12 — Abs. 1, Art. 47"
-      },
-      {
-        "num": null,
-        "text": "Abs. 2"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 14. März 2005 (BBl 2005 2355) 24. April 2005 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Namentlich steht ihm auch das Recht zu, die Verteilung der Güter der Nutzungsgenossenschaften unter die einzelnen Nutzungsteilhaber zu verhindern."
       }
     ],
     "11": [
@@ -709,189 +176,29 @@
       },
       {
         "num": "4",
-        "text": "… * ### § 11 — Abs. 4 aufgehoben - 24.04.1994 24.04.1994 ### § 11 — Abs. 2 geändert - 27.04.2003 27.04.2003 ### § 11 — Abs. 3 aufgehoben - 27.04.2003 27.04.2003 ### § 11 — Abs. 2 27.04.2003 27.04.2003 geändert - ### § 11 — Abs. 3 27.04.2003 27.04.2003 aufgehoben - ### § 11 — Abs. 4 24.04.1994 30.04.1995 aufgehoben - ### § 11 , 18, 20, 22, 23, 24, 25, 26, 27, 28, 29, 29bis, 30, 32, 33, 36 und 44"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 12. Juni 1995 (BBl 1995 I 969; 1995 III 567) 30. April 1995 ### § 11 — Abs. 2 und formelle Bereinigung"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschlüsse vom 10. März 2004 (Art. 11) (BBI 2004 1393) und 14. März 2005 (Bereinigung) (BBl 2005 2355) 101.000-A1"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 4 25. April 2004 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "… *"
       }
     ],
     "14": [
       {
         "num": "1",
-        "text": "Das Niederlassungswesen wird im Sinne der Bundesbestimmungen behandelt. 5 101.000"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "13": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Über den Erwerb des Landrechtes entscheidet der Grosse Rat. ### § 13 geändert - 25.04.1993 25.04.1993"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü1 geändert - 24.04.1994 30.04.1995 ### § 13 25.04.1993 25.04.1993 geändert - ### § 13 , 21 und Üb."
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 9. Juni 1994 (BBl 1993 IV 465; 1994 III 319) 24. April 1994 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "16": [
-      {
-        "num": null,
-        "text": "* 1)"
-      },
-      {
-        "num": "1",
-        "text": "An Landsgemeinden und an Gemeindeversammlungen sind alle im Kanton wohnhaften Schweizerbürgerinnen und Schweizerbürger stimmberechtigt, sofern sie das 18. Altersjahr vollendet haben und im Stimmregister eingetragen sind. 1bis Die Kirchgemeinden können das Stimm- und Wahlrecht für ausländische"
-      },
-      {
-        "num": null,
-        "text": "Gemeindemitglieder mit Niederlassungsbewilligung einführen. *"
-      },
-      {
-        "num": "2",
-        "text": "Vom Stimmrecht ist ausgeschlossen, wer wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft steht oder durch eine vorsorgebeauftragte Person vertreten wird. *"
-      },
-      {
-        "num": "3",
-        "text": "In Gemeindeangelegenheiten üben die Stimmberechtigten ihre Rechte am politischen Wohnsitz aus. ### § 16 geändert - 30.04.1972 30.04.1972 ### § 16 geändert - 29.04.1979 29.04.1979 ### § 16 geändert - 26.04.1992 26.04.1992 ### § 16 — Abs. 2 geändert - 12.05.2015 12.05.2015"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü2 aufgehoben - 30.04.2017 30.04.2017 ### § 16 — Abs. 1bis eingefügt - 29.04.2018 01.05.2018 ### § 16 25.04.1971 25.04.1971 geändert - ### § 16 29.04.1979 29.04.1979 geändert - ### § 16 26.04.1992 26.04.1992 geändert - ### § 16 — Abs. 1bis 30.04.2017 30.04.2017 eingefügt - ### § 16 — Abs. 2 26.04.2015 26.04.2015 geändert - ### § 16 — Gewährleistungsbeschluss vom 16. Dezember 1971 (BBl 1971 II 1227, 2014) 30. April 1972 ### § 16 — Abs. 2"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 3. März 2016 (BBl 2016 2301) 30. April 2017 ### § 16 — Abs. 1bis"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 6. Juni 2018 (BBl 2018 3795) 29. April 2018 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Das Niederlassungswesen wird im Sinne der Bundesbestimmungen behandelt."
       }
     ],
     "15": [
       {
         "num": "1",
-        "text": "Der eidgenössische Stand Appenzell Innerrhoden teilt sich in fünf Bezirke:"
-      },
-      {
-        "num": null,
-        "text": "Appenzell, Schwende-Rüte, Schlatt-Haslen, Gonten, Oberegg. *"
+        "text": "Der eidgenössische Stand Appenzell Innerrhoden teilt sich in fünf Bezirke: Appenzell, Schwende-Rüte, Schlatt-Haslen, Gonten, Oberegg. *"
       },
       {
         "num": "2",
-        "text": "Appenzell ist der Hauptort des Kantons und als solcher Sitz der Kantonsbehörden. ### § 15 — Abs. 1 geändert 2022-14 24.04.2022 01.05.2022 ### § 15 — Abs. 1 24.04.2022 01.05.2022 geändert 2022-14 22"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000"
-      },
-      {
-        "num": null,
-        "text": "Element"
-      },
-      {
-        "num": null,
-        "text": "Beschluss"
-      },
-      {
-        "num": null,
-        "text": "Inkrafttreten"
-      },
-      {
-        "num": null,
-        "text": "Änderung cGS Publikation ### § 15 — Abs. 1, Art. 22"
-      },
-      {
-        "num": null,
-        "text": "Abs. 2 und Üb."
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 20. September 2023 (BBl 2023 2331) --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "18": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Jeder Stimmberechtigte ist pflichtig, bis zum erfüllten 65. Altersjahr eine"
-      },
-      {
-        "num": null,
-        "text": "Wahl in die Standeskommission oder das Kantonsgericht, sowie Ämter, welche ihm durch den Grossen Rat, die Standeskommission, die Bezirks-, Kirchen- oder Schulgemeinde, ferner durch ein Gericht, den Bezirks-, Kirchenoder Schulrat übertragen werden, anzunehmen. *"
-      },
-      {
-        "num": "2",
-        "text": "Von dieser Pflicht ist schon vor Erfüllung des 65. Altersjahres befreit, wer während zusammen mindestens acht Jahren Mitglied einer in Absatz 1 genannten Behörde war. Auch ist niemand verpflichtet, eine dieser Beamtungen während mehr als vier Jahren zu übernehmen. *"
-      },
-      {
-        "num": "3",
-        "text": "Der Grosse Rat ist Rekursbehörde. * ### § 18 geändert - 24.04.1949 24.04.1949 ### § 18 — Abs. 2 geändert - 24.04.1994 24.04.1994 ### § 18 — Abs. 1 geändert - 27.04.2003 27.04.2003 ### § 18 — Abs. 3 geändert - 27.04.2003 27.04.2003 ### § 18 28.04.1946 28.04.1946 geändert - ### § 18 — Abs. 1 27.04.2003 27.04.2003 geändert - ### § 18 — Abs. 2 24.04.1994 24.04.1994 geändert - ### § 18 — Abs. 3 27.04.2003 27.04.2003 geändert - ### § 18 — Gewährleistungsbeschluss vom 28. Juni 1946 (BBl 1946 II 704) 24. April 1949 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Appenzell ist der Hauptort des Kantons und als solcher Sitz der Kantonsbehörden."
       }
     ],
     "17": [
       {
         "num": "1",
-        "text": "Jeder Stimmberechtigte ist nicht bloss berechtigt, sondern auch verpflichtet, an allen Landsgemeinden und verfassungsmässigen öffentlichen Versammlungen teilzunehmen. 1) Gemäss Entscheid des Bundesgerichtes vom 27. November 1990 stehen den Frauen die politischen Rechte im Kanton gestützt auf Art. 16 KV in Verbindung mit den --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "20": [
-      {
-        "num": "1",
-        "text": "Die Landsgemeinde ist die gesetzgebende Behörde und oberste Wahlbehörde."
-      },
-      {
-        "num": "2",
-        "text": "Sie wählt alljährlich: 1. *"
-      },
-      {
-        "num": null,
-        "text": "Die Standeskommission, bestehend aus sieben Mitgliedern:"
-      },
-      {
-        "num": null,
-        "text": "a) dem regierenden Landammann, der als solcher nach zweijähriger Amtsdauer auf das folgende Jahr nicht wieder wählbar ist, b) dem stillstehenden Landammann, c) sowie Statthalter, Säckelmeister, Landeshauptmann, Bauherr und Landesfähnrich. 2. das Kantonsgericht, bestehend aus einem Präsidenten und zwölf Mitgliedern, wobei jeder Bezirk mit einem Mitglied vertreten sein muss. 7 101.000"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 3. * … ### § 20"
-      },
-      {
-        "num": null,
-        "text": "Abs. 2, 3. geändert - 24.04.1994 30.04.1995 ### § 20"
-      },
-      {
-        "num": null,
-        "text": "Abs. 2, 1. geändert - 30.04.1995 01.01.1997 ### § 20"
-      },
-      {
-        "num": null,
-        "text": "Abs. 2, 1. 30.04.1995 01.01.1997 geändert - ### § 20"
-      },
-      {
-        "num": null,
-        "text": "Abs. 2, 3. 24.04.1994 24.04.1994 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Jeder Stimmberechtigte ist nicht bloss berechtigt, sondern auch verpflichtet, an allen Landsgemeinden und verfassungsmässigen öffentlichen Versammlungen teilzunehmen."
       }
     ],
     "19": [
@@ -905,497 +212,21 @@
       },
       {
         "num": "3",
-        "text": "Fällt Ostern auf den letzten Sonntag im April, findet die Landsgemeinde am ersten Sonntag im Mai statt. * ### § 19 — Abs. 3 eingefügt - 29.04.2007 29.04.2007 ### § 19 — Abs. 3 29.04.2007 29.04.2007 eingefügt - ### § 19 — Abs. 3, Art. 27"
-      },
-      {
-        "num": null,
-        "text": "Abs. 2, Art. 30 Abs. 9, --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Fällt Ostern auf den letzten Sonntag im April, findet die Landsgemeinde am ersten Sonntag im Mai statt. *"
       }
     ],
-    "20bis": [
-      {
-        "num": null,
-        "text": "*"
-      },
+    "20": [
       {
         "num": "1",
-        "text": "Die ordentliche Landsgemeinde wählt in den Jahren der Gesamterneuerung des Nationalrates den Vertreter des Kantons im schweizerischen Ständerat. ### § 20bis eingefügt - 27.04.2003 27.04.2003 ### § 20bis 27.04.2003 27.04.2003 eingefügt - ### § 20bis und 28"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 22. Juni 1895 (BBl 1895 III 147) 25. April 1909 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "21": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Über die Landsgemeinde gelten im weitern noch folgende Bestimmungen: 1. sie nimmt einen Bericht über die kantonalen Amtsverwaltungen entgegen; 2. ausserordentlich einberufene Landsgemeinden können nur über den oder die Gegenstände, wegen deren die Einberufung geschehen ist, abstimmen."
-      },
-      {
-        "num": null,
-        "text": "V. Verwaltende Behörden"
-      },
-      {
-        "num": null,
-        "text": "V.1. Kantonsbehörden ### § 21 geändert - 27.04.2003 27.04.2003 ### § 21 27.04.2003 27.04.2003 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "22": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Der Grosse Rat hat 50 Sitze."
+        "text": "Die Landsgemeinde ist die gesetzgebende Behörde und oberste Wahlbehörde."
       },
       {
         "num": "2",
-        "text": "Jedem Bezirk werden zunächst vier Sitze zugewiesen, unter jeweiliger Anrechnung von 4/50 der Gesamteinwohnerzahl. Die restlichen 30 Sitze werden proportional zu den Restbevölkerungszahlen zugewiesen, unter Abrundung von Bruchteilen. Restmandate werden den Bezirken der Grösse der abgerundeten Bruchteile nach zugewiesen, bei Gleichheit entscheidet das"
+        "text": "Sie wählt alljährlich: 1. * Die Standeskommission, bestehend aus sieben Mitgliedern:"
       },
       {
         "num": null,
-        "text": "Los. *"
-      },
-      {
-        "num": "3",
-        "text": "Grundlage für die Zuweisung bildet die Bevölkerungszahl gemäss kantonaler Einwohnerkontrolle am letzten Tag des Vorjahres zum Erneuerungswahljahr."
-      },
-      {
-        "num": "4",
-        "text": "Die Standeskommission weist den Bezirken die Sitze zu. Über Anstände entscheidet der Grosse Rat endgültig. 8"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000 ### § 22 geändert - 24.04.1994 30.04.1995 ### § 22 geändert - 01.05.2011 01.05.2011"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü2 eingefügt - 29.04.2012 29.04.2012 ### § 22 — Abs. 2 geändert 2022-14 24.04.2022 01.05.2022"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü4 eingefügt 2022-14 21 101.000"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden"
-      },
-      {
-        "num": null,
-        "text": "Änderungstabelle – Nach Artikel"
-      },
-      {
-        "num": null,
-        "text": "Element"
-      },
-      {
-        "num": null,
-        "text": "Beschluss"
-      },
-      {
-        "num": null,
-        "text": "Inkrafttreten"
-      },
-      {
-        "num": null,
-        "text": "Änderung cGS Publikation"
-      },
-      {
-        "num": null,
-        "text": "Erlass 24.11.1872 27.04.1873"
-      },
-      {
-        "num": null,
-        "text": "Erstfassung - ### § 22 24.04.1994 30.04.1995 geändert - ### § 22 01.05.2011 01.05.2011 geändert - ### § 22 — Abs. 2 24.04.2022 01.05.2022 geändert 2022-14 ### § 22 und Üb."
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 11. März 2013 (BBl 2013 2617) 29. April 2012 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "23": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Der Grosse Rat versammelt sich ordentlicherweise fünfmal im Jahr."
-      },
-      {
-        "num": "2",
-        "text": "Er  versammelt  sich  ausserordentlicherweise,  wenn  der  Präsident  des"
-      },
-      {
-        "num": null,
-        "text": "Grossen Rates oder die Standeskommission dies für notwendig erachten oder wenn 10 Mitglieder des Grossen Rates dies verlangen. *"
-      },
-      {
-        "num": "3",
-        "text": "Sitzungsort ist Appenzell. Der Rat kann einen anderen Sitzungsort fallweise beschliessen. ### § 23 — Abs. 2 eingefügt - 25.04.1982 25.04.1982 ### § 23 geändert - 24.04.1994 30.04.1995 ### § 23 24.04.1994 30.04.1995 geändert - ### § 23 — Abs. 2 25.04.1982 25.04.1982 eingefügt - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "25": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Die Mitglieder der Standeskommission haben bei den Verhandlungen des"
-      },
-      {
-        "num": null,
-        "text": "Grossen Rates beratende Stimme und Antragsrecht. ### § 25 geändert - 24.04.1994 30.04.1995 ### § 25 24.04.1994 30.04.1995 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "24": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Die Einberufung zur ersten Sitzung einer neuen Amtsdauer erfolgt durch die Standeskommission. Bis zur Wahl des Präsidenten des Grossen Rates leitet das älteste Mitglied desselben die Verhandlungen."
-      },
-      {
-        "num": "2",
-        "text": "Die Sitzungen des Grossen Rates sind in der Regel öffentlich. Geheime"
-      },
-      {
-        "num": null,
-        "text": "Sitzungen finden statt bei der Behandlung von Begnadigungsgesuchen und in besonderen Fällen auf Beschluss des Rates."
-      },
-      {
-        "num": "3",
-        "text": "Der Grosse Rat erlässt auf dem Verordnungsweg ein Geschäftsreglement. ### § 24 geändert - 24.04.1994 30.04.1995 ### § 24 24.04.1994 30.04.1995 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "26": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Der Grosse Rat bestimmt die Geschäftsordnung der Landsgemeinde."
-      },
-      {
-        "num": "2",
-        "text": "Er legt derselben Verfassungs- und Gesetzesentwürfe vor; ferner prüft er die Anträge, welche von der Standeskommission, von andern Behörden oder einzelnen Stimmfähigen, sei es zur Erledigung durch den Rat oder zur"
-      },
-      {
-        "num": null,
-        "text": "Vorlage an die Landsgemeinde, vorgebracht werden."
-      },
-      {
-        "num": "3",
-        "text": "Landsgemeindevorlagen sind dem Grossen Rat spätestens auf die drittletzte  ordentliche  Session  vor  der  Landsgemeinde  zu  unterbreiten.  Für dringliche oder einfache Vorlagen kann der Rat mit einer Mehrheit von zwei"
-      },
-      {
-        "num": null,
-        "text": "Dritteln seiner Mitglieder eine Ausnahme beschliessen. 9 101.000 ### § 26 geändert - 24.04.1994 30.04.1995 ### § 26 24.04.1994 30.04.1995 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "27": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Der Grosse Rat erlässt Verordnungen und Reglemente zum Vollzug der"
-      },
-      {
-        "num": null,
-        "text": "Gesetzgebung des Kantons, in untergeordneten Fällen auch des Bundes."
-      },
-      {
-        "num": "2",
-        "text": "Er legt die Grenzen der Bezirke und Gemeinden fest."
-      },
-      {
-        "num": "3",
-        "text": "Er beschliesst über den Beitritt zu Konkordaten, entscheidet über deren"
-      },
-      {
-        "num": null,
-        "text": "Abänderung und deren Kündigung und kann den Vollzug regeln. *"
-      },
-      {
-        "num": "4",
-        "text": "Er entscheidet, ob namens des Kantons das Referendum (Art. 141 Abs. 1"
-      },
-      {
-        "num": null,
-        "text": "BV) oder die Initiative (Art. 160 Abs. 1 BV) ergriffen werden soll. ### § 27 geändert - 28.04.1946 28.04.1946 ### § 27 geändert - 24.04.1994 30.04.1995 ### § 27 geändert - 27.04.2003 27.04.2003 ### § 27 geändert - 29.04.2007 29.04.2007 ### § 27 — Abs. 3 geändert - 28.04.2013 28.04.2013 ### § 27 27.04.1941 27.04.1941 geändert - ### § 27 24.04.1994 30.04.1995 geändert - ### § 27 27.04.2003 27.04.2003 geändert - ### § 27 29.04.2007 29.04.2007 geändert - ### § 27 — Abs. 3 28.04.2013 28.04.2013 geändert - ### § 27 , 38, 39, 40, 41, 42 und 43"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 30. September 1941 (BBl 1941 505) 101.000-A1"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 2 28. April 1946 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "28": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Der Grosse Rat entscheidet über Gesuche um Begnadigung in den vom"
-      },
-      {
-        "num": null,
-        "text": "Gesetz vorgesehenen Fällen."
-      },
-      {
-        "num": "2",
-        "text": "Er erteilt das Landrecht. ### § 28 geändert - 27.04.1941 27.04.1941 ### § 28 geändert - 24.04.1949 24.04.1949 ### § 28 geändert - 24.04.1994 30.04.1995 ### § 28 24.04.1892 24.04.1892 geändert - ### § 28 24.04.1949 24.04.1949 geändert - ### § 28 24.04.1994 30.04.1995 geändert - ### § 28 und 33"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 21. Dezember 1880 (BBl 1880 III 640) 29. April 1883 ### § 28 — Gewährleistungsbeschluss vom 25. März 1893 (BBl 1893 I 261) 28. April 1895 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "29": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Der Grosse Rat überwacht den Geschäftsgang aller Behörden. Er kann die"
-      },
-      {
-        "num": null,
-        "text": "Rechte und Pflichten der kantonalen Behörden und Angestellten regeln sowie die kantonale Verwaltungsorganisation festlegen,  einschliesslich des"
-      },
-      {
-        "num": null,
-        "text": "Gebührenwesens. Er regelt für die kantonale Versicherungskasse das Erforderliche. *"
-      },
-      {
-        "num": "2",
-        "text": "Er nimmt die durch die Standeskommission und das Kantonsgericht einzulegenden sowie die übrigen in der Gesetzgebung vorgesehenen Jahresberichte in Empfang."
-      },
-      {
-        "num": "3",
-        "text": "Er entscheidet über das Mass der Steueranlagen."
-      },
-      {
-        "num": "4",
-        "text": "Er  setzt  den  Voranschlag  über  Einnahmen  und  Ausgaben  sämtlicher kantonaler Verwaltungen und Gerichte auf je ein Verwaltungsjahr fest. *"
-      },
-      {
-        "num": "5",
-        "text": "Er prüft und genehmigt alljährlich die Staatsrechnung. * ### § 29 geändert - 24.04.1994 30.04.1995 ### § 29 — Abs. 4 geändert - 27.04.2003 27.04.2003 ### § 29 — Abs. 5 geändert - 27.04.2003 27.04.2003 ### § 29 — Abs. 1 geändert - 27.04.2014 27.04.2014 ### § 29 24.04.1994 30.04.1995 geändert - ### § 29 — Abs. 1 28.04.2013 28.04.2013 geändert - ### § 29 — Abs. 4 27.04.2003 27.04.2003 geändert - ### § 29 — Abs. 5 27.04.2003 27.04.2003 geändert - 23 101.000"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden"
-      },
-      {
-        "num": null,
-        "text": "Element"
-      },
-      {
-        "num": null,
-        "text": "Beschluss"
-      },
-      {
-        "num": null,
-        "text": "Inkrafttreten"
-      },
-      {
-        "num": null,
-        "text": "Änderung cGS Publikation --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "29bis": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Der Grosse Rat wählt auf einjährige Dauer:"
-      },
-      {
-        "num": null,
-        "text": "a) den Präsidenten, den Vizepräsidenten und drei Stimmenzähler; b) seine Kommissionen. 10"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000"
-      },
-      {
-        "num": "2",
-        "text": "Er wählt den Präsidenten der Bezirksgerichte und erlässt für diesen eine"
-      },
-      {
-        "num": null,
-        "text": "Anstellungsordnung."
-      },
-      {
-        "num": "3",
-        "text": "Weitere Wahlen nimmt er vor, soweit er nach Gesetz oder Verordnung zuständig ist. ### § 29bis eingefügt - 24.04.1994 30.04.1995 ### § 29bis geändert - 24.04.2005 24.04.2005 ### § 29bis 24.04.1994 30.04.1995 eingefügt - ### § 29bis 24.04.2005 24.04.2005 geändert - ### § 29bis , 33, 39 und"
-      },
-      {
-        "num": null,
-        "text": "Üb."
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 12. Juni 2006 (BBl 2006 6127) 30. April 2006 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "30": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Die Standeskommission besteht aus den in Art. 20 Abs. 2 Ziff. 1 bezeichneten und durch die Landsgemeinde gewählten Mitgliedern, die weder dem"
-      },
-      {
-        "num": null,
-        "text": "Grossen Rat noch einem Bezirksrat noch einem Gericht oder einer Ortsbehörde angehören dürfen."
-      },
-      {
-        "num": "2",
-        "text": "Sie verteilt die Regierungsgeschäfte unter ihre Mitglieder."
-      },
-      {
-        "num": "3",
-        "text": "Sie vollzieht die Gesetze und Beschlüsse der Landsgemeinde sowie die"
-      },
-      {
-        "num": null,
-        "text": "Verordnungen und Beschlüsse des Grossen Rates. *"
-      },
-      {
-        "num": "4",
-        "text": "Sie besorgt den diplomatischen Verkehr."
-      },
-      {
-        "num": "5",
-        "text": "Sie erledigt alle Geschäfte, die einer Regierung als solcher zufallen und nicht ausdrücklich einer andern verfassungsmässigen Behörde zugewiesen sind."
-      },
-      {
-        "num": "6",
-        "text": "Sie erlässt die nötigen Bestimmungen über das Niederlassungs- und Aufenthaltswesen."
-      },
-      {
-        "num": "7",
-        "text": "Sie überwacht insbesondere das Kirchenwesen sowie die Verwaltung der genossenschaftlichen Nutzungsgüter."
-      },
-      {
-        "num": "8",
-        "text": "Sie sorgt für beförderliche Erledigung der nach Massgabe der Gesetzgebung an sie gerichteten Beschwerden bezüglich die Rechtspflege und die"
-      },
-      {
-        "num": null,
-        "text": "Tätigkeit der Ortsbehörden."
-      },
-      {
-        "num": "9",
-        "text": "Sie schliesst Programmvereinbarungen mit dem Bund ab. Übersteigen die mit einer Programmvereinbarung einzugehenden finanziellen Verpflichtungen die Beträge von Art. 7ter der Kantonsverfassung oder macht der Abschluss einer Vereinbarung Verfassungs-, Gesetzes- oder Verordnungsänderungen notwendig, ist diese dem Grossen Rat bzw. der Landsgemeinde vorzulegen. Der Grosse Rat ist in diesen Fällen in die Verhandlungen miteinzubeziehen. 11 101.000"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden"
-      },
-      {
-        "num": "10",
-        "text": "In die Standeskommission und die Gerichte können nicht zugleich Einsitz nehmen:"
-      },
-      {
-        "num": null,
-        "text": "a)"
-      },
-      {
-        "num": null,
-        "text": "Zwei Personen, die miteinander verheiratet sind, in eingetragener"
-      },
-      {
-        "num": null,
-        "text": "Partnerschaft leben oder eine faktische Lebensgemeinschaft führen."
-      },
-      {
-        "num": null,
-        "text": "Die Auflösung der Ehe bzw. der eingetragenen Partnerschaft hebt den Ausschliessungsgrund nicht auf; b)"
-      },
-      {
-        "num": null,
-        "text": "Verwandte in gerader Linie oder bis zum zweiten Grade in der Seitenlinie; c)"
-      },
-      {
-        "num": null,
-        "text": "Verschwägerte in gerader Linie."
-      },
-      {
-        "num": "11",
-        "text": "In wichtigeren Fällen können die regierenden oder sämtliche Hauptleute der Bezirke beigezogen werden. ### § 30 geändert - 24.04.1949 24.04.1949 ### § 30 geändert - 25.04.1993 25.04.1993 ### § 30 geändert - 24.04.1994 30.04.1995 ### § 30 geändert - 30.04.1995 30.04.1995 ### § 30 geändert - 27.04.2003 27.04.2003 ### § 30 geändert - 29.04.2007 29.04.2007 ### § 30 geändert - 29.04.2007 29.04.2007 ### § 30 — Abs. 3 geändert - 01.05.2011 01.05.2011 ### § 30 24.04.1949 24.04.1949 geändert - ### § 30 26.04.1992 26.04.1992 geändert - ### § 30 24.04.1994 30.04.1995 geändert - ### § 30 30.04.1995 01.01.1997 geändert - ### § 30 27.04.2003 27.04.2003 geändert - ### § 30 30.04.2006 01.01.2007 geändert - ### § 30 29.04.2007 29.04.2007 geändert - ### § 30 — Abs. 3 25.04.2010 01.01.2011 geändert - ### § 30 , 32, 33, 38, 41 und 44"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 3. Juli 1883 (BBl 1883 III 17) 24. April 1892 ### § 30 12. Okt. 1919 ### § 30 — Abs. 9"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 18. Juni 2007 (BBI 2007 4933) 29. April 2007 ### § 30 — Abs. 3"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 11. März 2013 (BBl 2013 2617) 01. Mai 2011 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "32": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Der regierende Landammann führt das Präsidium der Landsgemeinde und der Standeskommission."
-      },
-      {
-        "num": "2",
-        "text": "Er unterzeichnet die von diesen Behörden ausgehenden Akten und bewahrt das Standessiegel auf."
-      },
-      {
-        "num": "3",
-        "text": "Die Ratskanzlei ist seinen Anordnungen unmittelbar untergeben; er wacht über die Ausführung der von der Standeskommission gefassten Beschlüsse. *"
-      },
-      {
-        "num": "4",
-        "text": "In Verhinderungsfällen wird er durch den stillstehenden Landammann vertreten. 12"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000"
-      },
-      {
-        "num": null,
-        "text": "V.2. Bezirksbehörden ### § 32 geändert - 30.04.1972 30.04.1972 ### § 32 geändert - 24.04.1994 30.04.1995 ### § 32 — Abs. 3 geändert - 27.04.2003 27.04.2003"
-      },
-      {
-        "num": null,
-        "text": "Titel V.2.a) geändert - 27.04.2003 27.04.2003 ### § 32 30.04.1972 30.04.1972 geändert - ### § 32 24.04.1994 30.04.1995 geändert - ### § 32 — Abs. 3 27.04.2003 27.04.2003 geändert -"
-      },
-      {
-        "num": null,
-        "text": "Titel V.2.a) 27.04.2003 27.04.2003 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "a) dem regierenden Landammann, der als solcher nach zweijähriger Amtsdauer auf das folgende Jahr nicht wieder wählbar ist, b) dem stillstehenden Landammann, c) sowie Statthalter, Säckelmeister, Landeshauptmann, Bauherr und Landesfähnrich. 2. das Kantonsgericht, bestehend aus einem Präsidenten und zwölf Mitgliedern, wobei jeder Bezirk mit einem Mitglied vertreten sein muss. 3. * …"
       }
     ],
     "31": [
@@ -1405,561 +236,19 @@
       },
       {
         "num": "2",
-        "text": "Zur gültigen Beschlussfassung ist die Anwesenheit von vier Mitgliedern erforderlich. ### § 31 — Abs. 1 geändert - 24.04.1994 30.04.1995 ### § 31 — Abs. 1 24.04.1994 30.04.1995 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Zur gültigen Beschlussfassung ist die Anwesenheit von vier Mitgliedern erforderlich."
       }
     ],
     "34": [
       {
         "num": "1",
-        "text": "Sie fasst alle wichtigeren Beschlussesnahmen, die nach Massgabe dieser"
-      },
-      {
-        "num": null,
-        "text": "Verfassung im Interesse des Gemeindewesens liegen. --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "33": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Die Bezirksgemeinde besteht aus allen im Bezirk wohnhaften, nach Art. 16 stimmberechtigten Kantons- und Schweizerbürgern."
-      },
-      {
-        "num": "2",
-        "text": "Sie findet alljährlich eine Woche nach der ordentlichen Landsgemeinde statt."
-      },
-      {
-        "num": "3",
-        "text": "Sie wählt den regierenden und den stillstehenden Hauptmann, die übrigen"
-      },
-      {
-        "num": null,
-        "text": "Mitglieder des Bezirksrates sowie ein Mitglied des Bezirksgerichts."
-      },
-      {
-        "num": "4",
-        "text": "Sie nimmt in den Jahren der Gesamterneuerungswahlen des Nationalrates die Wahl der dem Bezirk zustehenden Mitglieder des Grossen Rates gemäss Art. 22 vor."
-      },
-      {
-        "num": "5",
-        "text": "In Bezirken mit Urnenabstimmung finden die vorstehenden Wahlen spätestens am dritten Sonntag im Mai statt."
-      },
-      {
-        "num": "6",
-        "text": "Ausscheidende Mitglieder des Grossen Rates sind sobald als möglich zu ersetzen. Das neu gewählte Mitglied tritt in die Amtsdauer des ausscheidenden Mitgliedes ein."
-      },
-      {
-        "num": "7",
-        "text": "Die Bezirke können für die Wahl der Bezirksräte, der Mitglieder des Bezirksgerichts und der Vermittler eine höchstens vierjährige Amtsdauer beschliessen. * ### § 33 geändert - 24.04.1949 24.04.1949 ### § 33 geändert - 30.04.1972 30.04.1972 ### § 33 geändert - 29.04.1979 29.04.1979 ### § 33 geändert - 24.04.1994 30.04.1995 ### § 33 geändert - 19 101.000"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden"
-      },
-      {
-        "num": null,
-        "text": "Beschluss"
-      },
-      {
-        "num": null,
-        "text": "Inkrafttreten"
-      },
-      {
-        "num": null,
-        "text": "Element"
-      },
-      {
-        "num": null,
-        "text": "Änderung cGS Publikation 30.04.1995 01.01.1997 ### § 33 geändert - 27.04.2003 27.04.2003 ### § 33 geändert - 20"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000"
-      },
-      {
-        "num": null,
-        "text": "Beschluss"
-      },
-      {
-        "num": null,
-        "text": "Inkrafttreten"
-      },
-      {
-        "num": null,
-        "text": "Element"
-      },
-      {
-        "num": null,
-        "text": "Änderung cGS Publikation 24.04.2005 24.04.2005 ### § 33 geändert - 29.04.2007 29.04.2007 ### § 33 geändert - 29.04.2012 29.04.2012"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü3 eingefügt - 28.04.2013 28.04.2013 ### § 33 — Abs. 7 geändert 2021-9 09.05.2021 01.06.2021 ### § 33 24.04.1949 24.04.1949 geändert - ### § 33 30.04.1972 30.04.1972 geändert - ### § 33 29.04.1979 29.04.1979 geändert - ### § 33 24.04.1994 30.04.1995 geändert - ### § 33 30.04.1995 30.04.1995 geändert - ### § 33 27.04.2003 27.04.2003 geändert - ### § 33 24.04.2005 24.04.2005 geändert - ### § 33 29.04.2007 29.04.2007 geändert - ### § 33 29.04.2012 29.04.2012 geändert - ### § 33 — Abs. 7 09.05.2021 01.06.2021 geändert 2021-9 ### § 33 und 36"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 21. Juni 1973 (BBl 1973 I 1728) 29. April 1973 ### § 33 — Abs. 8 und ### § 33 und Üb."
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 11. März 2013 (BBl 2013 2619) 28. April 2013 ### § 33 — Abs. 7, Art. 38"
-      },
-      {
-        "num": null,
-        "text": "Abs. 1, Art. 39 Abs. 2 und Abs. 3 und --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Sie fasst alle wichtigeren Beschlussesnahmen, die nach Massgabe dieser Verfassung im Interesse des Gemeindewesens liegen."
       }
     ],
     "35": [
       {
         "num": "1",
-        "text": "Bei etwaigen in verschiedenen Wahlkreisen vorgekommenen Wahlen von"
-      },
-      {
-        "num": null,
-        "text": "Verwandten, die nach Art. 30 von gleichzeitiger Wahlfähigkeit ausgeschlossen sind, hat der im Range folgende Kreis eine Neuwahl zu treffen. 13 101.000"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "36": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Der Bezirksrat muss mindestens fünf Mitglieder zählen."
-      },
-      {
-        "num": "2",
-        "text": "Die Bezirksgemeinde kann die weiteren Zuständigkeiten im Rahmen eines ### § 36 geändert - 25.04.1976 25.04.1976 ### § 36 geändert - 24.04.1994 30.04.1995 ### § 36 — Abs. 2 geändert - 27.04.2003 27.04.2003 ### § 36 30.04.1972 30.04.1972 geändert - ### § 36 24.04.1994 30.04.1995 geändert - ### § 36 — Abs. 2 27.04.2003 27.04.2003 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "38": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "In jedem Bezirk besteht je ein Vermittleramt. Die Bezirksgemeinde wählt einen  Vermittler.  Das  Nähere  über  Organisation,  Geschäftsführung  und"
-      },
-      {
-        "num": null,
-        "text": "Funktion des Vermittlers als Organ der Rechtspflege wird durch die Gesetzgebung bestimmt. * ### § 38 geändert - 24.04.1949 24.04.1949 ### § 38 — Abs. 1 geändert 2021-9 09.05.2021 01.06.2021 ### § 38 24.04.1949 24.04.1949 geändert - ### § 38 — Abs. 1 09.05.2021 01.06.2021 geändert 2021-9 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "37": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Hauptleute und Räte sorgen für die Ausführung der hoheitlichen Verfügungen,  die  Vollstreckung  der  durch  die  Bezirksgemeinde  ergangenen  Beschlüsse sowie die Vorberatung der von der Behörde selbst oder von einzelnen an die Bezirksgemeinde zu bringenden Vorlagen. ### § 37 geändert - 26.04.1998 26.04.1998 ### § 37 geändert - 28.04.2002 28.04.2002 ### § 37 geändert - 27.04.2003 27.04.2003 ### § 37 30.04.1995 01.01.1997 geändert - ### § 37 29.04.2001 29.04.2001 geändert - ### § 37 27.04.2003 27.04.2003 geändert - ### § 37 — Ziff. 2"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 23. September 2002 (BBl 2002 6596) 28. April 2002 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "40": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Das Kantonsgericht ist als Zivil- und Strafgericht Berufungsinstanz gegen"
-      },
-      {
-        "num": null,
-        "text": "Erkenntnisse der Bezirksgerichte. 14"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000"
-      },
-      {
-        "num": "2",
-        "text": "Das Kantonsgericht ist als Verwaltungsgericht Beschwerdeinstanz gegen"
-      },
-      {
-        "num": null,
-        "text": "Verfügungen von Verwaltungsbehörden des Kantons auf dem Gebiete des"
-      },
-      {
-        "num": null,
-        "text": "Staats-, Verwaltungs- und Sozialversicherungsrechts."
-      },
-      {
-        "num": "3",
-        "text": "Die Organisation des Kantonsgerichtes wird durch das Gesetz bestimmt. ### § 40 geändert - 24.04.1949 24.04.1949 ### § 40 geändert - 26.04.1998 26.04.1998 ### § 40 24.04.1949 24.04.1949 geändert - ### § 40 26.04.1998 26.04.1998 geändert - ### § 40 — Gewährleistungsbeschluss vom 11. Dezember 1973 (BBl 1973 II 601, 1364) 25. April 1976 ### § 40 und 43"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 18. Juni 1987 (BBl 1987 I 1, 1987"
-      },
-      {
-        "num": null,
-        "text": "II 964) 26. April 1992 ### § 40 , 41 und 42 (Inkrafttreten: 26. April 1999)"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 20. März 2001 (BBl 2001 1374) 30. April 2000 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "39": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Das Bezirksgericht ist das Gericht erster Instanz in den seiner Beurteilung unterstellten Straf- und Zivilsachen nach Massgabe der Gesetzgebung."
-      },
-      {
-        "num": "2",
-        "text": "Dem Bezirksgericht gehören neben dem Präsidenten die von den Bezirksgemeinden gewählten Richter an. Für den Einsatz von Zwangsmassnahmenrichtern  kann  der  Grosse  Rat eine  interkantonale Vereinbarung  abschliessen. *"
-      },
-      {
-        "num": "3",
-        "text": "Die Organisation des Bezirksgerichts wird durch das Gesetz bestimmt. * ### § 39 geändert - 24.04.1949 24.04.1949 ### § 39 geändert - 30.04.2006 01.01.2007 ### § 39 — Abs. 2 geändert 2021-9 09.05.2021 01.06.2021 ### § 39 — Abs. 3 eingefügt 2021-9 09.05.2021 01.06.2021 ### § 39 24.04.1949 24.04.1949 geändert - 24"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000"
-      },
-      {
-        "num": null,
-        "text": "Element"
-      },
-      {
-        "num": null,
-        "text": "Beschluss"
-      },
-      {
-        "num": null,
-        "text": "Inkrafttreten"
-      },
-      {
-        "num": null,
-        "text": "Änderung cGS Publikation ### § 39 24.04.2005 24.04.2005 geändert - ### § 39 — Abs. 2 09.05.2021 01.06.2021 geändert 2021-9 ### § 39 — Abs. 3 09.05.2021 01.06.2021 eingefügt 2021-9 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "41bis": [
-      {
-        "num": null,
-        "text": "28. Mai 1909 (BBl 1909 III 694) 30. April 1911 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "41": [
-      {
-        "num": null,
-        "text": "* … ### § 41 geändert - 24.04.1949 24.04.1949 ### § 41 aufgehoben - 26.04.1998 26.04.1998 ### § 41 24.04.1949 24.04.1949 geändert - ### § 41 26.04.1998 26.04.1998 aufgehoben - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "42": [
-      {
-        "num": null,
-        "text": "* … ### § 42 geändert - 29.04.1949 29.04.1949 ### § 42 aufgehoben - 30.04.2000 30.04.2000 ### § 42 24.04.1949 24.04.1949 geändert - ### § 42 26.04.1998 26.04.1998 aufgehoben - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "43": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Die Verhandlungen der Gerichte und die Urteilseröffnung sind öffentlich, soweit die Gesetzgebung nichts anderes bestimmt. *"
-      },
-      {
-        "num": "2",
-        "text": "Die Beschlussfähigkeit der Gerichte wird durch die Gesetzgebung geregelt."
-      },
-      {
-        "num": "3",
-        "text": "Die Protokollführung und der Kanzleidienst bei den Gerichten wird durch die Gesetzgebung geregelt. ### § 43 geändert - 29.04.1949 29.04.1949 ### § 43 — Abs. 1 geändert - 26.04.1992 26.04.1992 ### § 43 29.04.1949 29.04.1949 geändert - ### § 43 — Abs. 1 27.04.1986 27.04.1986 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "45": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Die gesamte Organisation der bürgerlichen, der Straf- und Verwaltungsrechtspflege und das Verfahren wird im Übrigen im Rahmen der Verfassung durch die Gesetzgebung geregelt. Diese kann auch ergänzende Bestimmungen aufstellen, soweit diese mit der Verfassung nicht in Widerspruch stehen."
-      },
-      {
-        "num": "2",
-        "text": "Die Beurteilung von Zivil- und Strafrechtsfällen (Übertretungen) kann durch die Gesetzgebung auch nicht richterlichen Behörden oder Amtsstellen übertragen werden. * 15 101.000"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden ### § 45 geändert - 24.04.1960 24.04.1960 ### § 45 — Abs. 2 geändert - 30.04.1995 01.01.1997 ### § 45 29.04.1949 29.04.1949 geändert - ### § 45 — Abs. 2 24.04.1994 30.04.1995 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "44": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Die Mitglieder der Gerichte dürfen nicht gleichzeitig mehr als einer richterlichen Behörde im Kanton angehören. *"
-      },
-      {
-        "num": "2",
-        "text": "Die Mitglieder der Standeskommission, des Grossen Rates sowie die Bezirksräte können keiner richterlichen Behörde im Kanton angehören. *"
-      },
-      {
-        "num": "3",
-        "text": "Berufsmässige Parteivertreter sind als Vermittler nicht wählbar. * ### § 44 geändert - 29.04.1949 29.04.1949 ### § 44 — Abs. 2 geändert - 24.04.1994 30.04.1995 ### § 44 — Abs. 1 geändert 2021-9 09.05.2021 01.06.2021 ### § 44 — Abs. 2 geändert 2021-9 09.05.2021 01.06.2021 ### § 44 — Abs. 3 eingefügt 2021-9 24.04.2022 01.05.2022 ### § 44 29.04.1949 29.04.1949 geändert - ### § 44 — Abs. 1 09.05.2021 01.06.2021 geändert 2021-9 ### § 44 — Abs. 2 24.04.1994 30.04.1995 geändert - ### § 44 — Abs. 2 09.05.2021 01.06.2021 geändert 2021-9 ### § 44 — Abs. 3 09.05.2021 01.06.2021 eingefügt 2021-9 ### § 44 — Gewährleistungsbeschluss vom 22. September 2022 (BBl 2022 2471 24. April 2022 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "47": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Den Kirchen- und Schulräten steht die Leitung der ihnen anheimgestellten"
-      },
-      {
-        "num": null,
-        "text": "Verwaltungen zu, besonders die gedeihliche Förderung der in diesen liegenden Zwecke. ### § 47 geändert - 27.04.2003 27.04.2003"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü1 geändert - 25.04.2004 25.04.2004 ### § 47 geändert - 24.04.2005 24.04.2005 ### § 47 27.04.2003 27.04.2003 geändert - ### § 47 25.04.2004 25.04.2004 geändert - --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "46": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Die Kirch- und Schulgemeinden bestehen aus den nach Art. 16 Stimmfähigen."
-      },
-      {
-        "num": "2",
-        "text": "Sie versammeln sich ordentlicherweise einmal im Jahr; ausserordentlicherweise auf Einberufung ihrer Kirchen- und Schulräte hin."
-      },
-      {
-        "num": "3",
-        "text": "Sie wählen die Kirchen- und Schulräte. *"
-      },
-      {
-        "num": "4",
-        "text": "Die Kirchen- und Schulräte bestehen aus fünf bis neun Mitgliedern. *"
-      },
-      {
-        "num": "5",
-        "text": "Die Kirchgemeinden nehmen einen Jahresbericht über die Rechnungsführung ihrer Verwaltungen entgegen. Sie bestimmen ohne Angriff der Fonds über die Deckung der Ausgaben, welche aus den Einnahmen nicht bestritten werden können, ebenso über die Vornahme von wichtigeren Bauten."
-      },
-      {
-        "num": "6",
-        "text": "Durch Konkordat mit einem anderen Kanton kann bestimmt werden, dass die Einwohner der beiden Kantone, welche sich zur römisch-katholischen bzw. zur evangelisch-reformierten Konfession bekennen, von Kirchgemeinden im anderen Kanton als vollberechtigte und in allen Rechten und Pflichten stehende Kirchgenossen anerkannt werden. * ### § 46 geändert - 25.04.1971 25.04.1971 ### § 46 geändert - 25.04.1982 25.04.1982 ### § 46 — Abs. 4 geändert - 27.04.2003 27.04.2003 ### § 46 — Abs. 3 geändert - 27.04.2008 27.04.2008 ### § 46 — Abs. 6 geändert - 25.04.2010 01.01.2011 ### § 46 30.04.1967 30.04.1967 geändert - ### § 46 29.04.1979 29.04.1979 geändert - ### § 46 — Abs. 3 29.04.2007 29.04.2007 geändert - ### § 46 — Abs. 4 27.04.2003 27.04.2003 geändert - ### § 46 — Abs. 6 27.04.2008 27.04.2008 geändert - ### § 46 — Gewährleistungsbeschluss vom 21. Dezember 1967 (BBl 1967 II 1353; 1968 I 29) 25. April 1971 ### § 46 — Abs. 3"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 6. März 2008 (BBI 2008 2493) 27. April 2008 ### § 46 — Abs. 6"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 28. Mai 2009 (BBI 2009 4801) 25. April 2010 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
-      }
-    ],
-    "48": [
-      {
-        "num": null,
-        "text": "*"
-      },
-      {
-        "num": "1",
-        "text": "Die Verfassung kann jederzeit ganz oder teilweise abgeändert werden."
-      },
-      {
-        "num": "2",
-        "text": "Der Grosse Rat kann von sich aus der Landsgemeinde Entwürfe für Teilrevisionen vorlegen. Bei solchen ist über die einzelnen Sachgebiete, die nicht miteinander zusammenhängen, getrennt abzustimmen."
-      },
-      {
-        "num": "3",
-        "text": "Für Initiativen auf Teilrevision gelten die Bestimmungen von Art. 7bis sinngemäss. 16"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000"
-      },
-      {
-        "num": "4",
-        "text": "Wird eine Totalrevision vom Grossen Rat oder auf dem Initiativwege beantragt, so hat die Landsgemeinde zunächst darüber zu entscheiden, ob eine solche vorzunehmen sei oder nicht. Beschliesst die Landsgemeinde die Totalrevision, so arbeitet der Grosse Rat eine neue Verfassung aus und unterbreitet sie spätestens der dritten auf die Vorabstimmung folgenden ordentlichen Landsgemeinde. Diese Frist kann an der zweiten auf die Vorabstimmung folgenden ordentlichen Landsgemeinde angemessen verlängert werden."
-      },
-      {
-        "num": "5",
-        "text": "Total- und Teilrevisionen der Verfassung sind vom Grossen Rat in zwei Lesungen zu behandeln."
-      },
-      {
-        "num": null,
-        "text": "IX. Übergangsbestimmungen"
-      },
-      {
-        "num": null,
-        "text": "Art.  Ü1 *"
-      },
-      {
-        "num": "1",
-        "text": "Vorliegende Verfassung tritt an der ordentlichen Landsgemeinde 1873,"
-      },
-      {
-        "num": null,
-        "text": "Sonntags, den 27. April, in Kraft."
-      },
-      {
-        "num": "2",
-        "text": "Alle kantonalen Gesetze, Verordnungen und weiteren Erlasse mit rechtssetzendem allgemeinverbindlichem Inhalt sind in die Gesetzessammlung aufzunehmen. Sie gelten als aufgehoben, sofern sie am 1. Juli 1992 nicht darin enthalten waren."
-      },
-      {
-        "num": null,
-        "text": "Art.  Ü2 * …"
-      },
-      {
-        "num": null,
-        "text": "Art.  Ü3 * …"
-      },
-      {
-        "num": null,
-        "text": "Art.  Ü4 *"
-      },
-      {
-        "num": "1",
-        "text": "Die Neuregelung der Sitzverteilung für den Grossen Rat nach Art. 22"
-      },
-      {
-        "num": null,
-        "text": "Abs. 2 gilt erst ab den Neuwahlen im Jahr 2023."
-      },
-      {
-        "num": "2",
-        "text": "Bis zu den Neuwahlen 2023 behalten alle Bezirke ihre bisherigen Grossratssitze,  der  Bezirk  Schwende-Rüte  übernimmt  die  Sitze  der  Bezirke"
-      },
-      {
-        "num": null,
-        "text": "Schwende und Rüte."
-      },
-      {
-        "num": "3",
-        "text": "Die Grossratsmandate für die Amtsperiode 2019 bis 2023 gelten bis zu den"
-      },
-      {
-        "num": null,
-        "text": "Neuwahlen im Jahr 2023. 17 101.000"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden"
-      },
-      {
-        "num": null,
-        "text": "Änderungstabelle – Nach Beschluss"
-      },
-      {
-        "num": null,
-        "text": "Beschluss"
-      },
-      {
-        "num": null,
-        "text": "Inkrafttreten"
-      },
-      {
-        "num": null,
-        "text": "Element"
-      },
-      {
-        "num": null,
-        "text": "Änderung cGS Publikation 24.11.1872 27.04.1873"
-      },
-      {
-        "num": null,
-        "text": "Erlass"
-      },
-      {
-        "num": null,
-        "text": "Erstfassung - 24.04.1892 24.04.1892 ### § 48 geändert - 27.04.1986 27.04.1986 ### § 48 25.04.1982 25.04.1982 geändert -"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü1 25.04.1993 25.04.1993 geändert -"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü1 27.04.2003 27.04.2003 geändert -"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü2 01.05.2011 01.05.2011 eingefügt -"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü2 12.05.2015 12.05.2015 aufgehoben -"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü3 29.04.2012 29.04.2012 eingefügt -"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü3 18.08.2014 18.08.2014 aufgehoben -"
-      },
-      {
-        "num": null,
-        "text": "Art. Ü4 24.04.2022 01.05.2022 eingefügt 2022-14 25"
-      },
-      {
-        "num": null,
-        "text": "Kanton Appenzell Innerrhoden 101.000-A1 1"
-      },
-      {
-        "num": null,
-        "text": "Anhang 1: Gewährleistungen durch den Bund (Stand 24. April 2022)"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungen durch den Bund"
-      },
-      {
-        "num": null,
-        "text": "Landsgemeindebeschluss"
-      },
-      {
-        "num": null,
-        "text": "Artikel"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss 24. Nov. 1872"
-      },
-      {
-        "num": null,
-        "text": "Erstgewährleistung"
-      },
-      {
-        "num": null,
-        "text": "Gewährleistungsbeschluss vom 23. Dezember 1872 (AS XI 78,"
-      },
-      {
-        "num": null,
-        "text": "BBl 1872 III 842) 25. April 1880 --- ℹ️ This data is provided by OpenCaseLaw.ch, a nonprofit open-access platform. You do not need a commercial tool to access Swiss court decisions. OpenCaseLaw.ch is free, open, and available to everyone. Connect directly: https://mcp.opencaselaw.ch (Code: MIT, Data: CC0 1.0)"
+        "text": "Bei etwaigen in verschiedenen Wahlkreisen vorgekommenen Wahlen von Verwandten, die nach Art. 30 von gleichzeitiger Wahlfähigkeit ausgeschlossen sind, hat der im Range folgende Kreis eine Neuwahl zu treffen."
       }
     ]
   }
