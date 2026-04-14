@@ -6,8 +6,8 @@
   "title": "Constitution du canton de Fribourg",
   "lexfind_id": 5674,
   "fetched_at": "2026-04-14",
-  "source": "lexwork",
-  "article_count": 154,
+  "source": "fedlex",
+  "article_count": 153,
   "articles": [
     {
       "number": 1,
@@ -25,13 +25,13 @@
       "number": 3,
       "suffix": "",
       "raw": "3",
-      "title": "Buts de l&#39;Etat"
+      "title": "Buts de l’État"
     },
     {
       "number": 4,
       "suffix": "",
       "raw": "4",
-      "title": "Principes de l&#39;activité étatique"
+      "title": "Principes de l’activité étatique"
     },
     {
       "number": 5,
@@ -61,19 +61,19 @@
       "number": 9,
       "suffix": "",
       "raw": "9",
-      "title": "Egalité"
+      "title": "Égalité"
     },
     {
       "number": 10,
       "suffix": "",
       "raw": "10",
-      "title": "Interdiction de l&#39;arbitraire et bonne foi"
+      "title": "Interdiction de l’arbitraire et bonne foi"
     },
     {
       "number": 11,
       "suffix": "",
       "raw": "11",
-      "title": "Droit à la vie et liberté personnelle"
+      "title": "Droit à la vie et liberté personnelle"
     },
     {
       "number": 12,
@@ -103,7 +103,7 @@
       "number": 16,
       "suffix": "",
       "raw": "16",
-      "title": "Etablissement"
+      "title": "Établissement"
     },
     {
       "number": 17,
@@ -115,7 +115,7 @@
       "number": 18,
       "suffix": "",
       "raw": "18",
-      "title": "Enseignement de base"
+      "title": "Enseignement de base"
     },
     {
       "number": 19,
@@ -181,25 +181,25 @@
       "number": 29,
       "suffix": "",
       "raw": "29",
-      "title": "Procédure – En général"
+      "title": "a. En général"
     },
     {
       "number": 30,
       "suffix": "",
       "raw": "30",
-      "title": "Procédure – Accès au juge"
+      "title": "b. Accès au juge"
     },
     {
       "number": 31,
       "suffix": "",
       "raw": "31",
-      "title": "Procédure – Procédure judiciaire"
+      "title": "c. Procédure judiciaire"
     },
     {
       "number": 32,
       "suffix": "",
       "raw": "32",
-      "title": "Procédure – Procédure pénale"
+      "title": "d. Procédure pénale"
     },
     {
       "number": 33,
@@ -229,7 +229,7 @@
       "number": 37,
       "suffix": "",
       "raw": "37",
-      "title": "Champ d&#39;application"
+      "title": "Champ d’application"
     },
     {
       "number": 38,
@@ -247,43 +247,43 @@
       "number": 40,
       "suffix": "",
       "raw": "40",
-      "title": "Elections"
+      "title": "ÉlÉctions"
     },
     {
       "number": 41,
       "suffix": "",
       "raw": "41",
-      "title": "Initiative populaire – Objet"
+      "title": "a. Objet"
     },
     {
       "number": 42,
       "suffix": "",
       "raw": "42",
-      "title": "Initiative populaire – Forme et délai"
+      "title": "b. Forme et délai"
     },
     {
       "number": 43,
       "suffix": "",
       "raw": "43",
-      "title": "Initiative populaire – Validité"
+      "title": "c. Validité"
     },
     {
       "number": 44,
       "suffix": "",
       "raw": "44",
-      "title": "Initiative populaire – Traitement"
+      "title": "d. Traitement"
     },
     {
       "number": 45,
       "suffix": "",
       "raw": "45",
-      "title": "Référendum – obligatoire"
+      "title": "a. obligatoire"
     },
     {
       "number": 46,
       "suffix": "",
       "raw": "46",
-      "title": "Référendum – facultatif"
+      "title": "b. facultatif"
     },
     {
       "number": 47,
@@ -301,13 +301,13 @@
       "number": 49,
       "suffix": "",
       "raw": "49",
-      "title": "Communes – Elections"
+      "title": "a. Élections"
     },
     {
       "number": 50,
       "suffix": "",
       "raw": "50",
-      "title": "Communes – Autres droits politiques"
+      "title": "b. Autres droits politiques"
     },
     {
       "number": 51,
@@ -319,55 +319,55 @@
       "number": 52,
       "suffix": "",
       "raw": "52",
-      "title": "Principes – Accomplissement des tâches"
+      "title": "a. Accomplissement des tâches"
     },
     {
       "number": 53,
       "suffix": "",
       "raw": "53",
-      "title": "Principes – Répartition des tâches entre Etat et communes"
+      "title": "b. Répartition des tâches entre État et communes"
     },
     {
       "number": 54,
       "suffix": "",
       "raw": "54",
-      "title": "Principes – Accomplissement de tâches par des tiers"
+      "title": "c. Accomplissement de tâches par des tiers"
     },
     {
       "number": 55,
       "suffix": "",
       "raw": "55",
-      "title": "Sécurité matérielle – Précarité, chômage et exclusion"
+      "title": "a. Précarité, chômage et exclusion"
     },
     {
       "number": 56,
       "suffix": "",
       "raw": "56",
-      "title": "Sécurité matérielle – Logement"
+      "title": "b. Logement"
     },
     {
       "number": 57,
       "suffix": "",
       "raw": "57",
-      "title": "Economie – Promotion"
+      "title": "a. Promotion"
     },
     {
       "number": 58,
       "suffix": "",
       "raw": "58",
-      "title": "Economie – Monopoles et régales"
+      "title": "b. Monopoles et régales"
     },
     {
       "number": 59,
       "suffix": "",
       "raw": "59",
-      "title": "Familles – Principes"
+      "title": "a. Principes"
     },
     {
       "number": 60,
       "suffix": "",
       "raw": "60",
-      "title": "Familles – Mesures"
+      "title": "b. Mesures"
     },
     {
       "number": 61,
@@ -391,25 +391,25 @@
       "number": 64,
       "suffix": "",
       "raw": "64",
-      "title": "Formation – Enseignement de base"
+      "title": "a. Enseignement de base"
     },
     {
       "number": 65,
       "suffix": "",
       "raw": "65",
-      "title": "Formation – Formation supérieure et recherche"
+      "title": "b. Formation supérieure et recherche"
     },
     {
       "number": 66,
       "suffix": "",
       "raw": "66",
-      "title": "Formation – Formation des adultes"
+      "title": "c. Formation des adultes"
     },
     {
       "number": 67,
       "suffix": "",
       "raw": "67",
-      "title": "Formation – Ecoles privées"
+      "title": "d. Écoles privées"
     },
     {
       "number": 68,
@@ -421,7 +421,7 @@
       "number": 69,
       "suffix": "",
       "raw": "69",
-      "title": "Etrangères et étrangers"
+      "title": "Étrangères et étrangers"
     },
     {
       "number": 70,
@@ -433,31 +433,31 @@
       "number": 71,
       "suffix": "",
       "raw": "71",
-      "title": "Environnement et territoire – Environnement"
+      "title": "a. Environnement"
     },
     {
       "number": 72,
       "suffix": "",
       "raw": "72",
-      "title": "Environnement et territoire – Aménagement du territoire"
+      "title": "b. Aménagement du territoire"
     },
     {
       "number": 73,
       "suffix": "",
       "raw": "73",
-      "title": "Environnement et territoire – Nature et patrimoine culturel"
+      "title": "c. Nature et patrimoine culturel"
     },
     {
       "number": 74,
       "suffix": "",
       "raw": "74",
-      "title": "Environnement et territoire – Agriculture et sylviculture"
+      "title": "d. Agriculture et sylviculture"
     },
     {
       "number": 75,
       "suffix": "",
       "raw": "75",
-      "title": "Environnement et territoire – Catastrophes"
+      "title": "e. Catastrophes"
     },
     {
       "number": 76,
@@ -499,19 +499,19 @@
       "number": 82,
       "suffix": "",
       "raw": "82",
-      "title": "Gestion financière – Principe d&#39;économie"
+      "title": "a. Principe d’économie"
     },
     {
       "number": 83,
       "suffix": "",
       "raw": "83",
-      "title": "Gestion financière – Equilibre budgétaire"
+      "title": "b. Équilibre budgétaire"
     },
     {
       "number": 84,
       "suffix": "",
       "raw": "84",
-      "title": "Gestion financière – Publicité et surveillance"
+      "title": "c. Publicité et surveillance"
     },
     {
       "number": 85,
@@ -523,7 +523,7 @@
       "number": 86,
       "suffix": "",
       "raw": "86",
-      "title": "Eligibilité"
+      "title": "Éligibilité"
     },
     {
       "number": 87,
@@ -553,19 +553,19 @@
       "number": 91,
       "suffix": "",
       "raw": "91",
-      "title": "Actes des autorités – Formes"
+      "title": "a. Formes"
     },
     {
       "number": 92,
       "suffix": "",
       "raw": "92",
-      "title": "Actes des autorités – Urgence"
+      "title": "b. Urgence"
     },
     {
       "number": 93,
       "suffix": "",
       "raw": "93",
-      "title": "Actes des autorités – Délégation"
+      "title": "c. Délégation"
     },
     {
       "number": 94,
@@ -595,49 +595,49 @@
       "number": 98,
       "suffix": "",
       "raw": "98",
-      "title": "Relations avec le Conseil d&#39;Etat"
+      "title": "Relations avec le Conseil d’État"
     },
     {
       "number": 99,
       "suffix": "",
       "raw": "99",
-      "title": "Compétences – Législation\n1. En général"
+      "title": "1. En général"
     },
     {
       "number": 100,
       "suffix": "",
       "raw": "100",
-      "title": "Compétences – Législation\n2. Traités intercantonaux et internationaux"
+      "title": "2. Traités intercantonaux et internationaux"
     },
     {
       "number": 101,
       "suffix": "",
       "raw": "101",
-      "title": "Compétences – Planification"
+      "title": "b. Planification"
     },
     {
       "number": 102,
       "suffix": "",
       "raw": "102",
-      "title": "Compétences – Finances"
+      "title": "c. Finances"
     },
     {
       "number": 103,
       "suffix": "",
       "raw": "103",
-      "title": "Compétences – Elections"
+      "title": "d. Élections"
     },
     {
       "number": 104,
       "suffix": "",
       "raw": "104",
-      "title": "Compétences – Haute surveillance"
+      "title": "e. Haute surveillance"
     },
     {
       "number": 105,
       "suffix": "",
       "raw": "105",
-      "title": "Compétences – Autres compétences"
+      "title": "f. Autres compétences"
     },
     {
       "number": 106,
@@ -655,7 +655,7 @@
       "number": 108,
       "suffix": "",
       "raw": "108",
-      "title": "Chancellerie d&#39;Etat"
+      "title": "Chancellerie d’État"
     },
     {
       "number": 109,
@@ -667,49 +667,49 @@
       "number": 110,
       "suffix": "",
       "raw": "110",
-      "title": "Compétences – En général"
+      "title": "a. En général"
     },
     {
       "number": 111,
       "suffix": "",
       "raw": "111",
-      "title": "Compétences – Législation"
+      "title": "b. Législation"
     },
     {
       "number": 112,
       "suffix": "",
       "raw": "112",
-      "title": "Compétences – Planification"
+      "title": "c. Planification"
     },
     {
       "number": 113,
       "suffix": "",
       "raw": "113",
-      "title": "Compétences – Finances"
+      "title": "d. Finances"
     },
     {
       "number": 114,
       "suffix": "",
       "raw": "114",
-      "title": "Compétences – Relations extérieures"
+      "title": "e. Relations extérieures"
     },
     {
       "number": 115,
       "suffix": "",
       "raw": "115",
-      "title": "Compétences – Surveillance des communes"
+      "title": "f. Surveillance des communes"
     },
     {
       "number": 116,
       "suffix": "",
       "raw": "116",
-      "title": "Compétences – Nominations"
+      "title": "g. Nominations"
     },
     {
       "number": 117,
       "suffix": "",
       "raw": "117",
-      "title": "Compétences – Circonstances extraordinaires"
+      "title": "h. Circonstances extraordinaires"
     },
     {
       "number": 118,
@@ -727,19 +727,19 @@
       "number": 120,
       "suffix": "",
       "raw": "120",
-      "title": "Principes – Organisation générale"
+      "title": "a. Organisation générale"
     },
     {
       "number": 121,
       "suffix": "",
       "raw": "121",
-      "title": "Principes – Indépendance"
+      "title": "b. Indépendance"
     },
     {
       "number": 122,
       "suffix": "",
       "raw": "122",
-      "title": "Principes – Respect du droit supérieur"
+      "title": "c. Respect du droit supérieur"
     },
     {
       "number": 123,
@@ -757,49 +757,49 @@
       "number": 125,
       "suffix": "",
       "raw": "125",
-      "title": "Conseil de la magistrature – Rôle"
+      "title": "a. Rôle"
     },
     {
       "number": 126,
       "suffix": "",
       "raw": "126",
-      "title": "Conseil de la magistrature – Composition et élection"
+      "title": "b. Composition et élection"
     },
     {
       "number": 127,
       "suffix": "",
       "raw": "127",
-      "title": "Conseil de la magistrature – Surveillance"
+      "title": "c. Surveillance"
     },
     {
       "number": 128,
       "suffix": "",
       "raw": "128",
-      "title": "Conseil de la magistrature – Elections"
+      "title": "d. Élections"
     },
     {
       "number": 129,
       "suffix": "",
       "raw": "129",
-      "title": "Communes – Rôle et statut"
+      "title": "a. Rôle et statut"
     },
     {
       "number": 130,
       "suffix": "",
       "raw": "130",
-      "title": "Communes – Tâches"
+      "title": "b. Tâches"
     },
     {
       "number": 131,
       "suffix": "",
       "raw": "131",
-      "title": "Communes – Organes"
+      "title": "c. Organes"
     },
     {
       "number": 132,
       "suffix": "",
       "raw": "132",
-      "title": "Communes – Finances"
+      "title": "d. Finances"
     },
     {
       "number": 133,
@@ -844,12 +844,6 @@
       "title": "Partis politiques"
     },
     {
-      "number": 139,
-      "suffix": "a",
-      "raw": "139a",
-      "title": "Obligation de transparence"
-    },
-    {
       "number": 140,
       "suffix": "",
       "raw": "140",
@@ -859,13 +853,13 @@
       "number": 141,
       "suffix": "",
       "raw": "141",
-      "title": "Eglises reconnues"
+      "title": "Églises reconnues"
     },
     {
       "number": 142,
       "suffix": "",
       "raw": "142",
-      "title": "Autres Eglises et communautés religieuses"
+      "title": "Autres Églises et communautés religieuses"
     },
     {
       "number": 143,
@@ -895,54 +889,54 @@
       "number": 147,
       "suffix": "",
       "raw": "147",
-      "title": "Droit transitoire – Principes"
+      "title": "a. Principes"
     },
     {
       "number": 148,
       "suffix": "",
       "raw": "148",
-      "title": "Droit transitoire – Dispositions particulières\n1. Maternité (art. 33)"
+      "title": "1. Maternité (art. 33)"
     },
     {
       "number": 149,
       "suffix": "",
       "raw": "149",
-      "title": "Droit transitoire – Dispositions particulières\n2. Exercice des droits politiques et éligibilité (art. 39, 48 et 131)"
+      "title": "2. Exercice des droits politiques et éligibilité (art. 39, 48 et 131)"
     },
     {
       "number": 150,
       "suffix": "",
       "raw": "150",
-      "title": "Droit transitoire – Dispositions particulières\n3. Initiatives constitutionnelles pendantes (art. 41 ss et 99)"
+      "title": "3. Initiatives constitutionnelles pendantes (art. 41 ss et 99)"
     },
     {
       "number": 151,
       "suffix": "",
       "raw": "151",
-      "title": "Droit transitoire – Dispositions particulières\n4. Grand Conseil et Conseil d&#39;Etat"
+      "title": "4. Grand Conseil et Conseil d’État"
     },
     {
       "number": 152,
       "suffix": "",
       "raw": "152",
-      "title": "Droit transitoire – Dispositions particulières\n5. Pouvoir judiciaire, Ministère public et Conseil de la magistrature"
+      "title": "5. Pouvoir judiciaire, Ministère public et Conseil de la magistrature"
     },
     {
       "number": 153,
       "suffix": "",
       "raw": "153",
-      "title": "Droit transitoire – Dispositions particulières\n6. Communes (art. 49 à 51 et 129 à 135)"
+      "title": "6. Communes (art. 49 à 51 et 129 à 135)"
     }
   ],
   "article_texts": {
     "1": [
       {
         "num": "1",
-        "text": "Le canton de Fribourg est un Etat de droit libéral, démocratique et social."
+        "text": "Le canton de Fribourg est un État de droit libéral, démocratique et social."
       },
       {
         "num": "2",
-        "text": "C'est l'un des cantons de la Confédération suisse."
+        "text": "C’est l’un des cantons de la Confédération suisse."
       }
     ],
     "2": [
@@ -956,33 +950,29 @@
       },
       {
         "num": "3",
-        "text": "Ses armoiries sont: «Coupé de sable et d'argent»."
+        "text": "Ses armoiries sont: «Coupé de sable et d’argent»."
       }
     ],
     "3": [
       {
         "num": "1",
-        "text": "Les buts de l'Etat sont:"
-      },
-      {
-        "num": null,
-        "text": "a) la promotion du bien commun; b) la protection de la population; c) la reconnaissance et le soutien des familles en tant que communautés de base de la société; d) la justice; e) la sécurité sociale; f) la cohésion cantonale dans le respect de la diversité culturelle; g) la protection de l'environnement; h) le développement durable."
+        "text": "Les buts de l’État sont:"
       },
       {
         "num": "2",
-        "text": "L'Etat poursuit ces buts dans le respect de la liberté et de la responsabilité de l'être humain ainsi que du principe de subsidiarité."
+        "text": "L’État poursuit ces buts dans le respect de la liberté et de la responsabilité de l’être humain ainsi que du principe de subsidiarité."
       }
     ],
     "4": [
       {
-        "num": "1",
-        "text": "Toute activité de l'Etat se fonde sur le droit, répond à un intérêt public et est proportionnée au but visé."
+        "num": null,
+        "text": "Toute activité de l’État se fonde sur le droit, répond à un intérêt public et est proportionnée au but visé."
       }
     ],
     "5": [
       {
         "num": "1",
-        "text": "Le canton de Fribourg collabore avec la Confédération et les autres cantons ainsi qu'avec les organisations régionales, nationales et internationales."
+        "text": "Le canton de Fribourg collabore avec la Confédération et les autres cantons ainsi qu’avec les organisations régionales, nationales et internationales."
       },
       {
         "num": "2",
@@ -992,19 +982,19 @@
     "6": [
       {
         "num": "1",
-        "text": "Le français et l'allemand sont les langues officielles du canton."
+        "text": "Le français et l’allemand sont les langues officielles du canton."
       },
       {
         "num": "2",
-        "text": "Leur utilisation est réglée dans le respect du principe de la territorialité: l'Etat et les communes veillent à la répartition territoriale traditionnelle des langues et prennent en considération les minorités linguistiques autochtones."
+        "text": "Leur utilisation est réglée dans le respect du principe de la territorialité: l’État et les communes veillent à la répartition territoriale traditionnelle des langues et prennent en considération les minorités linguistiques autochtones."
       },
       {
         "num": "3",
-        "text": "La langue officielle des communes est le français ou l'allemand. Dans les communes comprenant une minorité linguistique autochtone importante, le français et l'allemand peuvent être les langues officielles."
+        "text": "La langue officielle des communes est le français ou l’allemand. Dans les communes comprenant une minorité linguistique autochtone importante, le français et l’allemand peuvent être les langues officielles."
       },
       {
         "num": "4",
-        "text": "L'Etat favorise la compréhension, la bonne entente et les échanges entre les communautés linguistiques cantonales. Il encourage le bilinguisme."
+        "text": "L’État favorise la compréhension, la bonne entente et les échanges entre les communautés linguistiques cantonales. Il encourage le bilinguisme."
       },
       {
         "num": "5",
@@ -1014,7 +1004,7 @@
     "7": [
       {
         "num": "1",
-        "text": "Toute personne est tenue d'accomplir les devoirs que lui imposent la Constitution et la législation."
+        "text": "Toute personne est tenue d’accomplir les devoirs que lui imposent la Constitution et la législation."
       },
       {
         "num": "2",
@@ -1022,12 +1012,12 @@
       },
       {
         "num": "3",
-        "text": "Les collectivités publiques interviennent en faveur de l'individu en complément de ses propres capacités."
+        "text": "Les collectivités publiques interviennent en faveur de l’individu en complément de ses propres capacités."
       }
     ],
     "8": [
       {
-        "num": "1",
+        "num": null,
         "text": "La dignité humaine est intangible."
       }
     ],
@@ -1038,17 +1028,17 @@
       },
       {
         "num": "2",
-        "text": "La femme et l'homme sont égaux en droit. Ils ont droit en particulier au même salaire pour un travail de valeur égale. L'Etat et les communes veillent à l'égalité de droit et de fait, notamment dans les domaines de la famille, de la formation, du travail et, dans la mesure du possible, pour l'accès à la fonction publique."
+        "text": "La femme et l’homme sont égaux en droit. Ils ont droit en particulier au même salaire pour un travail de valeur égale. L’État et les communes veillent à l’égalité de droit et de fait, notamment dans les domaines de la famille, de la formation, du travail et, dans la mesure du possible, pour l’accès à la fonction publique."
       },
       {
         "num": "3",
-        "text": "L'Etat et les communes prennent des mesures en vue de compenser les inégalités qui frappent les handicapés et de favoriser leur autonomie et leur intégration économique et sociale."
+        "text": "L’État et les communes prennent des mesures en vue de compenser les inégalités qui frappent les handicapés et de favoriser leur autonomie et leur intégration économique et sociale."
       }
     ],
     "10": [
       {
-        "num": "1",
-        "text": "Toute personne a le droit d'être traitée par les organes étatiques sans arbitraire et conformément aux règles de la bonne foi."
+        "num": null,
+        "text": "Toute personne a le droit d’être traitée par les organes étatiques sans arbitraire et conformément aux règles de la bonne foi."
       }
     ],
     "11": [
@@ -1058,7 +1048,7 @@
       },
       {
         "num": "2",
-        "text": "Toute personne a droit à la liberté personnelle, notamment à l'intégrité physique et psychique et à la liberté de mouvement."
+        "text": "Toute personne a droit à la liberté personnelle, notamment à l’intégrité physique et psychique et à la liberté de mouvement."
       }
     ],
     "12": [
@@ -1068,12 +1058,12 @@
       },
       {
         "num": "2",
-        "text": "Elle a le droit d'être protégée contre l'usage abusif de données qui la concernent."
+        "text": "Elle a le droit d’être protégée contre l’usage abusif de données qui la concernent."
       }
     ],
     "13": [
       {
-        "num": "1",
+        "num": null,
         "text": "Le droit au mariage et à la famille est garanti."
       }
     ],
@@ -1084,7 +1074,7 @@
       },
       {
         "num": "2",
-        "text": "Le droit d'enregistrer un partenariat pour les couples de même sexe est garanti."
+        "text": "Le droit d’enregistrer un partenariat pour les couples de même sexe est garanti."
       }
     ],
     "15": [
@@ -1098,7 +1088,7 @@
       },
       {
         "num": "3",
-        "text": "Toute personne a le droit d'adhérer à une communauté religieuse, d'y appartenir ou de la quitter, et de suivre un enseignement religieux."
+        "text": "Toute personne a le droit d’adhérer à une communauté religieuse, d’y appartenir ou de la quitter, et de suivre un enseignement religieux."
       },
       {
         "num": "4",
@@ -1107,7 +1097,7 @@
     ],
     "16": [
       {
-        "num": "1",
+        "num": null,
         "text": "Le libre choix du domicile et du lieu de séjour est garanti."
       }
     ],
@@ -1118,23 +1108,23 @@
       },
       {
         "num": "2",
-        "text": "Celui qui s'adresse à une autorité dont la compétence s'étend à l'ensemble du canton peut le faire dans la langue officielle de son choix."
+        "text": "Celui qui s’adresse à une autorité dont la compétence s’étend à l’ensemble du canton peut le faire dans la langue officielle de son choix."
       }
     ],
     "18": [
       {
-        "num": "1",
+        "num": null,
         "text": "Le droit à un enseignement de base suffisant et gratuit est garanti."
       }
     ],
     "19": [
       {
         "num": "1",
-        "text": "La liberté d'opinion et la liberté d'information sont garanties."
+        "text": "La liberté d’opinion et la liberté d’information sont garanties."
       },
       {
         "num": "2",
-        "text": "Le droit à l'information est garanti. Toute personne peut consulter les documents officiels dans la mesure où aucun intérêt public ou privé prépondérant ne s'y oppose."
+        "text": "Le droit à l’information est garanti. Toute personne peut consulter les documents officiels dans la mesure où aucun intérêt public ou privé prépondérant ne s’y oppose."
       }
     ],
     "20": [
@@ -1149,14 +1139,14 @@
     ],
     "21": [
       {
-        "num": "1",
-        "text": "La liberté de l'art est garantie."
+        "num": null,
+        "text": "La liberté de l’art est garantie."
       }
     ],
     "22": [
       {
         "num": "1",
-        "text": "La liberté de l'enseignement et de la recherche scientifiques est garantie."
+        "text": "La liberté de l’enseignement et de la recherche scientifiques est garantie."
       },
       {
         "num": "2",
@@ -1165,14 +1155,14 @@
     ],
     "23": [
       {
-        "num": "1",
-        "text": "Toute personne a le droit de créer une association, d'en faire partie et de participer à ses activités. Personne ne peut y être contraint."
+        "num": null,
+        "text": "Toute personne a le droit de créer une association, d’en faire partie et de participer à ses activités. Personne ne peut y être contraint."
       }
     ],
     "24": [
       {
         "num": "1",
-        "text": "Toute personne a le droit d'organiser une réunion ou une manifestation et d'y prendre part. Personne ne peut y être contraint."
+        "text": "Toute personne a le droit d’organiser une réunion ou une manifestation et d’y prendre part. Personne ne peut y être contraint."
       },
       {
         "num": "2",
@@ -1185,8 +1175,8 @@
     ],
     "25": [
       {
-        "num": "1",
-        "text": "Le droit de pétition est garanti. L'autorité interpellée donne une réponse motivée."
+        "num": null,
+        "text": "Le droit de pétition est garanti. L’autorité interpellée donne une réponse motivée."
       }
     ],
     "26": [
@@ -1202,7 +1192,7 @@
     "27": [
       {
         "num": "1",
-        "text": "Les travailleurs, les employeurs et leurs organisations ont le droit de se syndiquer pour la défense de leurs intérêts, de créer des associations et d'y adhérer ou non."
+        "text": "Les travailleurs, les employeurs et leurs organisations ont le droit de se syndiquer pour la défense de leurs intérêts, de créer des associations et d’y adhérer ou non."
       },
       {
         "num": "2",
@@ -1224,7 +1214,7 @@
       },
       {
         "num": "2",
-        "text": "Une pleine indemnité est due en cas d'expropriation ou de restriction de la propriété qui équivaut à une expropriation."
+        "text": "Une pleine indemnité est due en cas d’expropriation ou de restriction de la propriété qui équivaut à une expropriation."
       }
     ],
     "29": [
@@ -1234,7 +1224,7 @@
       },
       {
         "num": "2",
-        "text": "Elles ont le droit d'être entendues."
+        "text": "Elles ont le droit d’être entendues."
       },
       {
         "num": "3",
@@ -1242,7 +1232,7 @@
       },
       {
         "num": "4",
-        "text": "Toute personne qui ne dispose pas de ressources suffisantes a droit à l'assistance judiciaire gratuite, à moins que sa cause ne paraisse dépourvue de toute chance de succès. Elle a en outre droit à l'assistance gratuite d'un défenseur, dans la mesure où la sauvegarde de ses droits le requiert."
+        "text": "Toute personne qui ne dispose pas de ressources suffisantes a droit à l’assistance judiciaire gratuite, à moins que sa cause ne paraisse dépourvue de toute chance de succès. Elle a en outre droit à l’assistance gratuite d’un défenseur, dans la mesure où la sauvegarde de ses droits le requiert."
       },
       {
         "num": "5",
@@ -1251,14 +1241,14 @@
     ],
     "30": [
       {
-        "num": "1",
-        "text": "Toute personne a droit à ce que sa cause soit jugée par une autorité judiciaire. La loi peut exclure l'accès au juge dans des cas exceptionnels."
+        "num": null,
+        "text": "Toute personne a droit à ce que sa cause soit jugée par une autorité judiciaire. La loi peut exclure l’accès au juge dans des cas exceptionnels."
       }
     ],
     "31": [
       {
         "num": "1",
-        "text": "Toute personne dont la cause doit être jugée dans une procédure judiciaire a droit à ce qu'elle soit portée devant un tribunal établi par la loi, compétent, indépendant et impartial. Les tribunaux d'exception sont interdits."
+        "text": "Toute personne dont la cause doit être jugée dans une procédure judiciaire a droit à ce qu’elle soit portée devant un tribunal établi par la loi, compétent, indépendant et impartial. Les tribunaux d’exception sont interdits."
       },
       {
         "num": "2",
@@ -1268,11 +1258,11 @@
     "32": [
       {
         "num": "1",
-        "text": "Toute personne est présumée innocente tant qu'elle n'a pas fait l'objet d'une condamnation entrée en force."
+        "text": "Toute personne est présumée innocente tant qu’elle n’a pas fait l’objet d’une condamnation entrée en force."
       },
       {
         "num": "2",
-        "text": "Tout prévenu a le droit d'être informé, dans les plus brefs délais et de manière détaillée, des infractions qui lui sont reprochées. Il doit avoir la possibilité de faire valoir les droits de la défense."
+        "text": "Tout prévenu a le droit d’être informé, dans les plus brefs délais et de manière détaillée, des infractions qui lui sont reprochées. Il doit avoir la possibilité de faire valoir les droits de la défense."
       },
       {
         "num": "3",
@@ -1282,7 +1272,7 @@
     "33": [
       {
         "num": "1",
-        "text": "Chaque femme a droit à des prestations qui garantissent sa sécurité matérielle avant et après l'accouchement."
+        "text": "Chaque femme a droit à des prestations qui garantissent sa sécurité matérielle avant et après l’accouchement."
       },
       {
         "num": "2",
@@ -1294,13 +1284,13 @@
       },
       {
         "num": "4",
-        "text": "L'adoption et la naissance sont mises sur pied d'égalité si l'enfant adopté n'est pas celui du conjoint et si son âge ou sa situation le justifient."
+        "text": "L’adoption et la naissance sont mises sur pied d’égalité si l’enfant adopté n’est pas celui du conjoint et si son âge ou sa situation le justifient."
       }
     ],
     "34": [
       {
         "num": "1",
-        "text": "Les enfants et les jeunes ont le droit, subsidiairement au rôle de la famille, d'être aidés, encouragés et encadrés dans leur développement afin de devenir des personnes responsables."
+        "text": "Les enfants et les jeunes ont le droit, subsidiairement au rôle de la famille, d’être aidés, encouragés et encadrés dans leur développement afin de devenir des personnes responsables."
       },
       {
         "num": "2",
@@ -1313,90 +1303,82 @@
     ],
     "35": [
       {
-        "num": "1",
-        "text": "Les personnes âgées ont droit à la participation, à l'autonomie, à la qualité de vie et au respect de leur personnalité."
+        "num": null,
+        "text": "Les personnes âgées ont droit à la participation, à l’autonomie, à la qualité de vie et au respect de leur personnalité."
       }
     ],
     "36": [
       {
         "num": "1",
-        "text": "Toute personne dans le besoin a le droit d'être logée de manière appropriée, d'obtenir les soins médicaux essentiels et les autres moyens indispensables au maintien de sa dignité."
+        "text": "Toute personne dans le besoin a le droit d’être logée de manière appropriée, d’obtenir les soins médicaux essentiels et les autres moyens indispensables au maintien de sa dignité."
       },
       {
         "num": "2",
-        "text": "Toute personne en situation de détresse parce que victime d'une infraction grave, d'une catastrophe naturelle ou d'autres événements semblables a droit à un soutien approprié."
+        "text": "Toute personne en situation de détresse parce que victime d’une infraction grave, d’une catastrophe naturelle ou d’autres événements semblables a droit à un soutien approprié."
       },
       {
         "num": "3",
-        "text": "Les enfants et les jeunes victimes d'infractions ont droit à une aide spéciale."
+        "text": "Les enfants et les jeunes victimes d’infractions ont droit à une aide spéciale."
       }
     ],
     "37": [
       {
-        "num": "1",
-        "text": "Les autorités veillent à ce que les droits fondamentaux et sociaux, dans la mesure où ils s'y prêtent, soient aussi réalisés dans les relations entre particuliers."
+        "num": null,
+        "text": "Les autorités veillent à ce que les droits fondamentaux et sociaux, dans la mesure où ils s’y prêtent, soient aussi réalisés dans les relations entre particuliers."
       }
     ],
     "38": [
       {
         "num": "1",
-        "text": "Toute restriction d'un droit fondamental ou social doit être fondée sur une base légale. Les restrictions graves doivent être prévues par une loi. Les cas de danger sérieux, direct et imminent sont réservés."
+        "text": "Toute restriction d’un droit fondamental ou social doit être fondée sur une base légale. Les restrictions graves doivent être prévues par une loi. Les cas de danger sérieux, direct et imminent sont réservés."
       },
       {
         "num": "2",
-        "text": "Toute restriction d'un droit fondamental ou social doit être justifiée par un intérêt public ou par la protection d'un droit fondamental ou social d'autrui."
+        "text": "Toute restriction d’un droit fondamental ou social doit être justifiée par un intérêt public ou par la protection d’un droit fondamental ou social d’autrui."
       },
       {
         "num": "3",
-        "text": "Toute restriction d'un droit fondamental ou social doit être proportionnée au but visé."
+        "text": "Toute restriction d’un droit fondamental ou social doit être proportionnée au but visé."
       },
       {
         "num": "4",
-        "text": "L'essence des droits fondamentaux et sociaux est inviolable."
+        "text": "L’essence des droits fondamentaux et sociaux est inviolable."
       }
     ],
     "39": [
       {
         "num": "1",
-        "text": "Ont le droit de voter et d'élire en matière cantonale, s'ils sont majeurs:"
-      },
-      {
-        "num": null,
-        "text": "a) les Suissesses et les Suisses domiciliés dans le canton; b) les Suissesses et les Suisses de l'étranger qui ont le droit de cité cantonal ou ont été domiciliés dans le canton."
+        "text": "Ont le droit de voter et d’élire en matière cantonale, s’ils sont majeurs:"
       },
       {
         "num": "2",
-        "text": "La loi règle l'exclusion du droit de voter et d'élire."
+        "text": "La loi règle l’exclusion du droit de voter et d’élire."
       }
     ],
     "40": [
       {
         "num": "1",
-        "text": "Le peuple élit les membres du Grand Conseil, ceux du Conseil d'Etat, les préfets et les membres fribourgeois du Conseil des Etats."
+        "text": "Le peuple élit les membres du Grand Conseil, ceux du Conseil d’État, les préfets et les membres fribourgeois du Conseil des États."
       },
       {
         "num": "2",
-        "text": "Les membres du Conseil des Etats sont élus parmi les personnes domiciliées dans le canton qui ont la citoyenneté active en matière cantonale, selon le système majoritaire, en même temps et pour la même durée que ceux du Conseil national."
+        "text": "Les membres du Conseil des États sont élus parmi les personnes domiciliées dans le canton qui ont la citoyenneté active en matière cantonale, selon le système majoritaire, en même temps et pour la même durée que ceux du Conseil national."
       },
       {
         "num": "3",
-        "text": "L'élection des membres du Conseil national est réglée par le droit fédéral."
+        "text": "L’élection des membres du Conseil national est réglée par le droit fédéral."
       }
     ],
     "41": [
       {
-        "num": "1",
-        "text": "L'initiative populaire peut avoir pour objet:"
-      },
-      {
         "num": null,
-        "text": "a) la révision partielle ou totale de la Constitution; b) l'adoption, la modification ou l'abrogation d'une loi."
+        "text": "L’initiative populaire peut avoir pour objet:"
       }
     ],
     "42": [
       {
         "num": "1",
-        "text": "L'initiative populaire peut prendre la forme d'un projet rédigé de toutes pièces ou être conçue en termes généraux."
+        "text": "L’initiative populaire peut prendre la forme d’un projet rédigé de toutes pièces ou être conçue en termes généraux."
       },
       {
         "num": "2",
@@ -1405,34 +1387,26 @@
     ],
     "43": [
       {
-        "num": "1",
-        "text": "Le Grand Conseil invalide entièrement ou partiellement les initiatives populaires si elles violent le droit supérieur, ne respectent pas l'unité de la forme ou de la matière ou sont inexécutables."
+        "num": null,
+        "text": "Le Grand Conseil invalide entièrement ou partiellement les initiatives populaires si elles violent le droit supérieur, ne respectent pas l’unité de la forme ou de la matière ou sont inexécutables."
       }
     ],
     "44": [
       {
-        "num": "1",
-        "text": "L'initiative populaire doit être traitée par le Grand Conseil et soumise au peuple sans retard, le cas échéant en même temps qu'un contre-projet du Grand Conseil."
+        "num": null,
+        "text": "L’initiative populaire doit être traitée par le Grand Conseil et soumise au peuple sans retard, le cas échéant en même temps qu’un contre-projet du Grand Conseil."
       }
     ],
     "45": [
       {
-        "num": "1",
-        "text": "Sont soumis obligatoirement à un vote populaire:"
-      },
-      {
         "num": null,
-        "text": "a) la révision partielle ou totale de la Constitution; b) les actes du Grand Conseil qui entraînent une dépense nette nouvelle supérieure à 1% du total des dépenses des derniers comptes arrêtés par le Grand Conseil."
+        "text": "Sont soumis obligatoirement à un vote populaire:"
       }
     ],
     "46": [
       {
         "num": "1",
         "text": "6000 citoyennes et citoyens actifs peuvent demander un vote populaire sur:"
-      },
-      {
-        "num": null,
-        "text": "a) les lois; b) les actes du Grand Conseil qui entraînent une dépense nette nouvelle supérieure à ¼% du total des dépenses des derniers comptes arrêtés par le Grand Conseil, ou qui portent sur des crédits d'étude d'importance régionale ou cantonale."
       },
       {
         "num": "2",
@@ -1446,43 +1420,39 @@
       },
       {
         "num": "2",
-        "text": "Le Grand Conseil la traite comme une motion de l'un de ses membres."
+        "text": "Le Grand Conseil la traite comme une motion de l’un de ses membres."
       }
     ],
     "48": [
       {
         "num": "1",
-        "text": "Ont le droit de voter et d'élire en matière communale, s'ils sont majeurs:"
-      },
-      {
-        "num": null,
-        "text": "a) les Suissesses et les Suisses domiciliés dans la commune; b) les étrangères et les étrangers domiciliés dans la commune qui sont domiciliés dans le canton depuis au moins cinq ans et au bénéfice d'une autorisation d'établissement."
+        "text": "Ont le droit de voter et d’élire en matière communale, s’ils sont majeurs:"
       },
       {
         "num": "2",
-        "text": "La loi règle l'exclusion du droit de voter et d'élire."
+        "text": "La loi règle l’exclusion du droit de voter et d’élire."
       }
     ],
     "49": [
       {
-        "num": "1",
+        "num": null,
         "text": "Les citoyennes et les citoyens actifs élisent les membres du conseil communal et, le cas échéant, ceux du conseil général."
       }
     ],
     "50": [
       {
         "num": "1",
-        "text": "Dans les communes sans conseil général, les citoyennes et les citoyens actifs exercent leurs droits politiques au sein de l'assemblée communale."
+        "text": "Dans les communes sans conseil général, les citoyennes et les citoyens actifs exercent leurs droits politiques au sein de l’assemblée communale."
       },
       {
         "num": "2",
-        "text": "Dans les communes qui ont un conseil général, les citoyennes et les citoyens actifs ont le droit d'initiative et de référendum."
+        "text": "Dans les communes qui ont un conseil général, les citoyennes et les citoyens actifs ont le droit d’initiative et de référendum."
       }
     ],
     "51": [
       {
         "num": "1",
-        "text": "Les citoyennes et les citoyens actifs des communes membres d'une association ont le droit d'initiative et de référendum. La loi détermine l'objet du référendum financier obligatoire."
+        "text": "Les citoyennes et les citoyens actifs des communes membres d’une association ont le droit d’initiative et de référendum. La loi détermine l’objet du référendum financier obligatoire."
       },
       {
         "num": "2",
@@ -1492,23 +1462,23 @@
     "52": [
       {
         "num": "1",
-        "text": "L'activité étatique est régie par les principes de subsidiarité, de transparence et de solidarité."
+        "text": "L’activité étatique est régie par les principes de subsidiarité, de transparence et de solidarité."
       },
       {
         "num": "2",
-        "text": "Pour accomplir les tâches qui leur incombent, l'Etat et les communes disposent de services publics de qualité et de proximité."
+        "text": "Pour accomplir les tâches qui leur incombent, l’État et les communes disposent de services publics de qualité et de proximité."
       }
     ],
     "53": [
       {
-        "num": "1",
+        "num": null,
         "text": "La loi attribue les tâches à la collectivité publique la mieux à même de les accomplir."
       }
     ],
     "54": [
       {
         "num": "1",
-        "text": "L'Etat et les communes peuvent déléguer des tâches à des tiers, à condition que la délégation soit prévue dans une loi ou un règlement communal, qu'elle soit justifiée par un intérêt public prépondérant et que la protection juridique soit assurée."
+        "text": "L’État et les communes peuvent déléguer des tâches à des tiers, à condition que la délégation soit prévue dans une loi ou un règlement communal, qu’elle soit justifiée par un intérêt public prépondérant et que la protection juridique soit assurée."
       },
       {
         "num": "2",
@@ -1516,53 +1486,53 @@
       },
       {
         "num": "3",
-        "text": "L'Etat et les communes peuvent participer à des entreprises ou en créer."
+        "text": "L’État et les communes peuvent participer à des entreprises ou en créer."
       }
     ],
     "55": [
       {
         "num": "1",
-        "text": "L'Etat et les communes prennent des mesures pour prévenir les situations de précarité et mettent en place une aide sociale."
+        "text": "L’État et les communes prennent des mesures pour prévenir les situations de précarité et mettent en place une aide sociale."
       },
       {
         "num": "2",
-        "text": "Ils prennent des mesures pour atténuer les conséquences du chômage, prévenir l'exclusion sociale ou professionnelle et favoriser la réinsertion."
+        "text": "Ils prennent des mesures pour atténuer les conséquences du chômage, prévenir l’exclusion sociale ou professionnelle et favoriser la réinsertion."
       }
     ],
     "56": [
       {
         "num": "1",
-        "text": "L'Etat et les communes veillent à ce que toute personne puisse trouver un logement approprié à sa situation."
+        "text": "L’État et les communes veillent à ce que toute personne puisse trouver un logement approprié à sa situation."
       },
       {
         "num": "2",
-        "text": "L'Etat encourage l'aide au logement, la construction de logements et l'accès à la propriété de son logement."
+        "text": "L’État encourage l’aide au logement, la construction de logements et l’accès à la propriété de son logement."
       }
     ],
     "57": [
       {
         "num": "1",
-        "text": "L'Etat crée des conditions cadres favorisant le plein emploi, la diversité des activités et l'équilibre des régions, dans le respect du principe de la liberté économique."
+        "text": "L’État crée des conditions cadres favorisant le plein emploi, la diversité des activités et l’équilibre des régions, dans le respect du principe de la liberté économique."
       },
       {
         "num": "2",
-        "text": "Il encourage l'innovation et la création d'entreprises."
+        "text": "Il encourage l’innovation et la création d’entreprises."
       }
     ],
     "58": [
       {
-        "num": "1",
-        "text": "L'Etat et les communes peuvent créer des monopoles lorsque l'intérêt public le commande. Les régales cantonales sont réservées."
+        "num": null,
+        "text": "L’État et les communes peuvent créer des monopoles lorsque l’intérêt public le commande. Les régales cantonales sont réservées."
       }
     ],
     "59": [
       {
         "num": "1",
-        "text": "L'Etat et les communes protègent et soutiennent les familles dans leur diversité."
+        "text": "L’État et les communes protègent et soutiennent les familles dans leur diversité."
       },
       {
         "num": "2",
-        "text": "L'Etat développe une politique familiale globale. Il crée des conditions cadres permettant de concilier la vie professionnelle et la vie familiale."
+        "text": "L’État développe une politique familiale globale. Il crée des conditions cadres permettant de concilier la vie professionnelle et la vie familiale."
       },
       {
         "num": "3",
@@ -1572,7 +1542,7 @@
     "60": [
       {
         "num": "1",
-        "text": "L'Etat met en place un système de prestations en faveur de chaque enfant."
+        "text": "L’État met en place un système de prestations en faveur de chaque enfant."
       },
       {
         "num": "2",
@@ -1580,25 +1550,25 @@
       },
       {
         "num": "3",
-        "text": "En collaboration avec les communes et les particuliers, l'Etat organise un accueil de la prime enfance jusqu'à l'entrée à l'école obligatoire et peut mettre sur pied un accueil parascolaire. Ces prestations doivent être financièrement accessibles à tous."
+        "text": "En collaboration avec les communes et les particuliers, l’État organise un accueil de la prime enfance jusqu’à l’entrée à l’école obligatoire et peut mettre sur pied un accueil parascolaire. Ces prestations doivent être financièrement accessibles à tous."
       }
     ],
     "61": [
       {
-        "num": "1",
-        "text": "L'Etat et les communes favorisent l'intégration sociale et politique des jeunes."
+        "num": null,
+        "text": "L’État et les communes favorisent l’intégration sociale et politique des jeunes."
       }
     ],
     "62": [
       {
-        "num": "1",
-        "text": "L'Etat et les communes favorisent la compréhension et la solidarité entre les générations."
+        "num": null,
+        "text": "L’État et les communes favorisent la compréhension et la solidarité entre les générations."
       }
     ],
     "63": [
       {
         "num": "1",
-        "text": "L'Etat et les communes vouent une attention particulière aux personnes vulnérables ou dépendantes."
+        "text": "L’État et les communes vouent une attention particulière aux personnes vulnérables ou dépendantes."
       },
       {
         "num": "2",
@@ -1608,29 +1578,29 @@
     "64": [
       {
         "num": "1",
-        "text": "L'Etat et les communes pourvoient à un enseignement de base obligatoire et gratuit ouvert à tous les enfants, en tenant compte des aptitudes de chacun."
+        "text": "L’État et les communes pourvoient à un enseignement de base obligatoire et gratuit ouvert à tous les enfants, en tenant compte des aptitudes de chacun."
       },
       {
         "num": "2",
-        "text": "L'école assure la formation des enfants en collaboration avec les parents et seconde ceux-ci dans leur tâche éducative. Elle favorise le développement personnel et l'intégration sociale des enfants et leur donne le sens des responsabilités envers eux-mêmes, autrui, la société et l'environnement."
+        "text": "L’école assure la formation des enfants en collaboration avec les parents et seconde ceux-ci dans leur tâche éducative. Elle favorise le développement personnel et l’intégration sociale des enfants et leur donne le sens des responsabilités envers eux-mêmes, autrui, la société et l’environnement."
       },
       {
         "num": "3",
-        "text": "La première langue étrangère enseignée est l'autre langue officielle."
+        "text": "La première langue étrangère enseignée est l’autre langue officielle."
       },
       {
         "num": "4",
-        "text": "L'enseignement respecte la neutralité confessionnelle et politique. Les Eglises et les communautés religieuses reconnues ont le droit d'organiser un enseignement religieux dans le cadre de l'école obligatoire."
+        "text": "L’enseignement respecte la neutralité confessionnelle et politique. Les Églises et les communautés religieuses reconnues ont le droit d’organiser un enseignement religieux dans le cadre de l’école obligatoire."
       }
     ],
     "65": [
       {
         "num": "1",
-        "text": "L'Etat assure la formation secondaire supérieure, gymnasiale et professionnelle. Ces formations sont accessibles à chacun en fonction de ses aptitudes et indépendamment de sa capacité financière."
+        "text": "L’État assure la formation secondaire supérieure, gymnasiale et professionnelle. Ces formations sont accessibles à chacun en fonction de ses aptitudes et indépendamment de sa capacité financière."
       },
       {
         "num": "2",
-        "text": "Il assure la formation au sein de l'Université et des hautes écoles spécialisées."
+        "text": "Il assure la formation au sein de l’Université et des hautes écoles spécialisées."
       },
       {
         "num": "3",
@@ -1643,70 +1613,74 @@
     ],
     "66": [
       {
-        "num": "1",
-        "text": "L'Etat et les communes encouragent la formation des adultes."
+        "num": null,
+        "text": "L’État et les communes encouragent la formation des adultes."
       }
     ],
     "67": [
       {
         "num": "1",
-        "text": "L'Etat peut soutenir les écoles privées dont l'utilité est reconnue."
+        "text": "L’État peut soutenir les écoles privées dont l’utilité est reconnue."
       },
       {
         "num": "2",
-        "text": "Il exerce la surveillance sur celles qui assurent l'enseignement de base et sur celles qu'il soutient."
+        "text": "Il exerce la surveillance sur celles qui assurent l’enseignement de base et sur celles qu’il soutient."
       }
     ],
     "68": [
       {
         "num": "1",
-        "text": "L'Etat s'emploie à la promotion de la santé et veille à ce que toute personne ait accès à des soins de qualité égale. 1a Il assure des soins urgents accessibles 24 heures sur 24 et 7 jours sur 7 dans toutes les régions du canton."
+        "text": "L’État s’emploie à la promotion de la santé et veille à ce que toute personne ait accès à des soins de qualité égale."
+      },
+      {
+        "num": null,
+        "text": "1a Il assure des soins urgents accessibles 24 heures sur 24 et 7 jours sur 7 dans toutes les régions du canton.2"
       },
       {
         "num": "2",
-        "text": "Il prend des mesures visant à protéger la population contre la fumée passive."
+        "text": "Il prend des mesures visant à protéger la population contre la fumée passive.3"
       }
     ],
     "69": [
       {
         "num": "1",
-        "text": "L'Etat et les communes prennent des mesures pour accueillir et intégrer les étrangères et les étrangers, dans la reconnaissance mutuelle des identités et le respect des valeurs fondamentales de l'Etat de droit."
+        "text": "L’État et les communes prennent des mesures pour accueillir et intégrer les étrangères et les étrangers, dans la reconnaissance mutuelle des identités et le respect des valeurs fondamentales de l’État de droit."
       },
       {
         "num": "2",
-        "text": "L'Etat et les communes facilitent la naturalisation des étrangères et des étrangers. La loi prévoit un droit de recours contre les refus de naturalisation."
+        "text": "L’État et les communes facilitent la naturalisation des étrangères et des étrangers. La loi prévoit un droit de recours contre les refus de naturalisation."
       },
       {
         "num": "3",
-        "text": "Pour l'octroi du droit de cité, ils ne prélèvent qu'un émolument administratif."
+        "text": "Pour l’octroi du droit de cité, ils ne prélèvent qu’un émolument administratif."
       }
     ],
     "70": [
       {
-        "num": "1",
-        "text": "L'Etat encourage l'aide humanitaire, la coopération au développement et le commerce équitable. Il favorise les échanges entre les peuples."
+        "num": null,
+        "text": "L’État encourage l’aide humanitaire, la coopération au développement et le commerce équitable. Il favorise les échanges entre les peuples."
       }
     ],
     "71": [
       {
         "num": "1",
-        "text": "L'Etat et les communes veillent à la sauvegarde de l'environnement naturel et luttent contre toute forme de pollution ou de nuisance."
+        "text": "L’État et les communes veillent à la sauvegarde de l’environnement naturel et luttent contre toute forme de pollution ou de nuisance."
       },
       {
         "num": "2",
-        "text": "Ils favorisent l'utilisation et le développement des énergies renouvelables."
+        "text": "Ils favorisent l’utilisation et le développement des énergies renouvelables."
       }
     ],
     "72": [
       {
-        "num": "1",
-        "text": "L'Etat et les communes veillent à une utilisation judicieuse et mesurée du sol et à une occupation rationnelle du territoire."
+        "num": null,
+        "text": "L’État et les communes veillent à une utilisation judicieuse et mesurée du sol et à une occupation rationnelle du territoire."
       }
     ],
     "73": [
       {
         "num": "1",
-        "text": "L'Etat et les communes préservent la nature et le patrimoine culturel et protègent la diversité de la faune et de la flore ainsi que leurs milieux vitaux."
+        "text": "L’État et les communes préservent la nature et le patrimoine culturel et protègent la diversité de la faune et de la flore ainsi que leurs milieux vitaux."
       },
       {
         "num": "2",
@@ -1714,41 +1688,41 @@
       },
       {
         "num": "3",
-        "text": "Ils favorisent la connaissance de la nature et du patrimoine culturel, notamment par la formation, la recherche et l'information."
+        "text": "Ils favorisent la connaissance de la nature et du patrimoine culturel, notamment par la formation, la recherche et l’information."
       }
     ],
     "74": [
       {
-        "num": "1",
-        "text": "En collaboration avec la Confédération, l'Etat encourage et soutient l'agriculture et la sylviculture dans leurs fonctions protectrice, écologique, économique et sociale."
+        "num": null,
+        "text": "En collaboration avec la Confédération, l’État encourage et soutient l’agriculture et la sylviculture dans leurs fonctions protectrice, écologique, économique et sociale."
       }
     ],
     "75": [
       {
-        "num": "1",
-        "text": "L'Etat et les communes prennent les mesures nécessaires pour prévenir et maîtriser les catastrophes et les situations d'urgence."
+        "num": null,
+        "text": "L’État et les communes prennent les mesures nécessaires pour prévenir et maîtriser les catastrophes et les situations d’urgence."
       }
     ],
     "76": [
       {
         "num": "1",
-        "text": "L'Etat et les communes assurent le maintien de la sécurité et de l'ordre publics, dans le respect des droits fondamentaux."
+        "text": "L’État et les communes assurent le maintien de la sécurité et de l’ordre publics, dans le respect des droits fondamentaux."
       },
       {
         "num": "2",
-        "text": "L'Etat détient le monopole de la force publique."
+        "text": "L’État détient le monopole de la force publique."
       }
     ],
     "77": [
       {
-        "num": "1",
-        "text": "L'Etat et les communes garantissent l'approvisionnement en eau et en énergie."
+        "num": null,
+        "text": "L’État et les communes garantissent l’approvisionnement en eau et en énergie."
       }
     ],
     "78": [
       {
         "num": "1",
-        "text": "L'Etat conduit une politique coordonnée des transports et des communications, en tenant compte des régions excentrées."
+        "text": "L’État conduit une politique coordonnée des transports et des communications, en tenant compte des régions excentrées."
       },
       {
         "num": "2",
@@ -1762,27 +1736,27 @@
     "79": [
       {
         "num": "1",
-        "text": "L'Etat et les communes encouragent et soutiennent la vie culturelle dans sa diversité ainsi que la création artistique."
+        "text": "L’État et les communes encouragent et soutiennent la vie culturelle dans sa diversité ainsi que la création artistique."
       },
       {
         "num": "2",
-        "text": "Ils encouragent la coopération et les échanges culturels entre les régions du canton et avec l'extérieur."
+        "text": "Ils encouragent la coopération et les échanges culturels entre les régions du canton et avec l’extérieur."
       }
     ],
     "80": [
       {
-        "num": "1",
-        "text": "L'Etat et les communes favorisent les loisirs contribuant à l'équilibre et au développement personnels. Ils encouragent la pratique du sport et les possibilités de délassement."
+        "num": null,
+        "text": "L’État et les communes favorisent les loisirs contribuant à l’équilibre et au développement personnels. Ils encouragent la pratique du sport et les possibilités de délassement."
       }
     ],
     "81": [
       {
         "num": "1",
-        "text": "L'Etat et les communes perçoivent les impôts et les autres contributions nécessaires à l'exécution de leurs tâches."
+        "text": "L’État et les communes perçoivent les impôts et les autres contributions nécessaires à l’exécution de leurs tâches."
       },
       {
         "num": "2",
-        "text": "Ils tiennent compte des principes de la légalité, de l'universalité, de l'égalité et de la capacité économique."
+        "text": "Ils tiennent compte des principes de la légalité, de l’universalité, de l’égalité et de la capacité économique."
       },
       {
         "num": "3",
@@ -1792,21 +1766,21 @@
     "82": [
       {
         "num": "1",
-        "text": "L'Etat et les communes gèrent les finances publiques avec économie."
+        "text": "L’État et les communes gèrent les finances publiques avec économie."
       },
       {
         "num": "2",
-        "text": "Ils vérifient périodiquement que les tâches qu'ils accomplissent et les subventions qu'ils octroient sont toujours efficaces, nécessaires et supportables financièrement."
+        "text": "Ils vérifient périodiquement que les tâches qu’ils accomplissent et les subventions qu’ils octroient sont toujours efficaces, nécessaires et supportables financièrement."
       }
     ],
     "83": [
       {
         "num": "1",
-        "text": "L'Etat équilibre son budget de fonctionnement."
+        "text": "L’État équilibre son budget de fonctionnement."
       },
       {
         "num": "2",
-        "text": "Il tient cependant compte de la situation conjoncturelle et d'éventuels besoins financiers exceptionnels."
+        "text": "Il tient cependant compte de la situation conjoncturelle et d’éventuels besoins financiers exceptionnels."
       },
       {
         "num": "3",
@@ -1820,12 +1794,12 @@
       },
       {
         "num": "2",
-        "text": "La surveillance des finances de l'Etat et des communes est assurée par un organe dont l'indépendance est garantie."
+        "text": "La surveillance des finances de l’État et des communes est assurée par un organe dont l’indépendance est garantie."
       }
     ],
     "85": [
       {
-        "num": "1",
+        "num": null,
         "text": "Les autorités sont organisées selon le principe de la séparation des pouvoirs."
       }
     ],
@@ -1836,7 +1810,7 @@
       },
       {
         "num": "2",
-        "text": "La loi peut permettre l'accès aux fonctions de l'ordre judiciaire aux personnes de nationalité étrangère qui sont domiciliées dans le canton depuis au moins cinq ans et au bénéfice d'une autorisation d'établissement."
+        "text": "La loi peut permettre l’accès aux fonctions de l’ordre judiciaire aux personnes de nationalité étrangère qui sont domiciliées dans le canton depuis au moins cinq ans et au bénéfice d’une autorisation d’établissement."
       }
     ],
     "87": [
@@ -1845,20 +1819,16 @@
         "text": "Les fonctions suivantes sont incompatibles:"
       },
       {
-        "num": null,
-        "text": "a) membre du Grand Conseil; b) membre du Conseil d'Etat; c) juge professionnel."
-      },
-      {
         "num": "2",
-        "text": "Les membres du Conseil d'Etat et les préfets ne peuvent pas être membres de l'Assemblée fédérale. Le cumul avec le mandat fédéral est toutefois possible jusqu'à la fin de la période de fonction cantonale en cours."
+        "text": "Les membres du Conseil d’État et les préfets ne peuvent pas être membres de l’Assemblée fédérale. Le cumul avec le mandat fédéral est toutefois possible jusqu’à la fin de la période de fonction cantonale en cours."
       },
       {
         "num": "3",
-        "text": "Les membres du Conseil d'Etat ne peuvent exercer ni une activité lucrative accessoire ni aucune autre activité incompatible avec leur fonction."
+        "text": "Les membres du Conseil d’État ne peuvent exercer ni une activité lucrative accessoire ni aucune autre activité incompatible avec leur fonction."
       },
       {
         "num": "4",
-        "text": "La loi peut prévoir d'autres incompatibilités."
+        "text": "La loi peut prévoir d’autres incompatibilités."
       }
     ],
     "88": [
@@ -1868,23 +1838,23 @@
       },
       {
         "num": "2",
-        "text": "Les membres du Grand Conseil et du Conseil d'Etat ainsi que les préfets rendent publics tous les liens particuliers qui les rattachent à des intérêts privés ou publics."
+        "text": "Les membres du Grand Conseil et du Conseil d’État ainsi que les préfets rendent publics tous les liens particuliers qui les rattachent à des intérêts privés ou publics."
       }
     ],
     "89": [
       {
         "num": "1",
-        "text": "Les membres du Grand Conseil et du Conseil d'Etat ne peuvent en principe être poursuivis pour les propos qu'ils tiennent au Parlement et devant les organes de celui-ci."
+        "text": "Les membres du Grand Conseil et du Conseil d’État ne peuvent en principe être poursuivis pour les propos qu’ils tiennent au Parlement et devant les organes de celui-ci."
       },
       {
         "num": "2",
-        "text": "La loi décrit les conditions de la levée de l'immunité."
+        "text": "La loi décrit les conditions de la levée de l’immunité."
       }
     ],
     "90": [
       {
         "num": "1",
-        "text": "Les collectivités publiques répondent du préjudice que leurs agents causent de manière illicite dans l'accomplissement des tâches publiques."
+        "text": "Les collectivités publiques répondent du préjudice que leurs agents causent de manière illicite dans l’accomplissement des tâches publiques."
       },
       {
         "num": "2",
@@ -1894,41 +1864,41 @@
     "91": [
       {
         "num": "1",
-        "text": "Les actes législatifs du Grand Conseil revêtent la forme de la loi ou de l'ordonnance parlementaire; les autres actes, celle du décret soumis au référendum ou du décret simple."
+        "text": "Les actes législatifs du Grand Conseil revêtent la forme de la loi ou de l’ordonnance parlementaire; les autres actes, celle du décret soumis au référendum ou du décret simple."
       },
       {
         "num": "2",
-        "text": "Les actes législatifs des autres autorités revêtent la forme de l'ordonnance ou du règlement."
+        "text": "Les actes législatifs des autres autorités revêtent la forme de l’ordonnance ou du règlement."
       }
     ],
     "92": [
       {
         "num": "1",
-        "text": "Un acte du Grand Conseil dont l'entrée en vigueur ne souffre aucun retard peut être déclaré urgent et mis en vigueur immédiatement par une décision prise à la majorité de ses membres. Sa durée de validité doit être limitée."
+        "text": "Un acte du Grand Conseil dont l’entrée en vigueur ne souffre aucun retard peut être déclaré urgent et mis en vigueur immédiatement par une décision prise à la majorité de ses membres. Sa durée de validité doit être limitée."
       },
       {
         "num": "2",
-        "text": "Lorsqu'un tel acte est soumis obligatoirement au référendum ou que celui-ci est demandé, il cesse de produire effet un an après son adoption par le Grand Conseil s'il n'a pas été accepté par le peuple dans ce délai."
+        "text": "Lorsqu’un tel acte est soumis obligatoirement au référendum ou que celui-ci est demandé, il cesse de produire effet un an après son adoption par le Grand Conseil s’il n’a pas été accepté par le peuple dans ce délai."
       }
     ],
     "93": [
       {
         "num": "1",
-        "text": "Les compétences législatives peuvent être déléguées, à moins que le droit supérieur ne l'interdise. La norme de délégation doit être suffisamment précise."
+        "text": "Les compétences législatives peuvent être déléguées, à moins que le droit supérieur ne l’interdise. La norme de délégation doit être suffisamment précise."
       },
       {
         "num": "2",
-        "text": "Les règles de droit d'importance doivent toutefois être édictées sous forme de loi."
+        "text": "Les règles de droit d’importance doivent toutefois être édictées sous forme de loi."
       },
       {
         "num": "3",
-        "text": "Le Grand Conseil peut opposer son veto aux actes de l'autorité délégataire."
+        "text": "Le Grand Conseil peut opposer son veto aux actes de l’autorité délégataire."
       }
     ],
     "94": [
       {
-        "num": "1",
-        "text": "Le Grand Conseil est l'autorité suprême du canton, sous réserve des droits du peuple."
+        "num": null,
+        "text": "Le Grand Conseil est l’autorité suprême du canton, sous réserve des droits du peuple."
       }
     ],
     "95": [
@@ -1951,10 +1921,6 @@
         "text": "Le Grand Conseil se réunit:"
       },
       {
-        "num": null,
-        "text": "a) régulièrement en session ordinaire; b) à la demande d'un cinquième de ses membres; c) à la demande du Conseil d'Etat."
-      },
-      {
         "num": "2",
         "text": "Les séances plénières sont publiques. La loi règle les exceptions."
       },
@@ -1969,22 +1935,22 @@
     ],
     "97": [
       {
-        "num": "1",
-        "text": "Le Grand Conseil dispose de son propre secrétariat, dirigé par la secrétaire générale ou le secrétaire général. Il peut faire appel aux services de l'administration."
+        "num": null,
+        "text": "Le Grand Conseil dispose de son propre secrétariat, dirigé par la secrétaire générale ou le secrétaire général. Il peut faire appel aux services de l’administration."
       }
     ],
     "98": [
       {
         "num": "1",
-        "text": "Par le mandat, le Grand Conseil peut amener le Conseil d'Etat à prendre des mesures dans un domaine ressortissant à la compétence de ce dernier."
+        "text": "Par le mandat, le Grand Conseil peut amener le Conseil d’État à prendre des mesures dans un domaine ressortissant à la compétence de ce dernier."
       },
       {
         "num": "2",
-        "text": "La présidente ou le président du Grand Conseil peut en tout temps consulter les dossiers du Conseil d'Etat sur les objets qui concernent le Grand Conseil."
+        "text": "La présidente ou le président du Grand Conseil peut en tout temps consulter les dossiers du Conseil d’État sur les objets qui concernent le Grand Conseil."
       },
       {
         "num": "3",
-        "text": "Le Secrétariat assure, en collaboration avec la Chancellerie d'Etat, les relations entre le Grand Conseil et le Conseil d'Etat."
+        "text": "Le Secrétariat assure, en collaboration avec la Chancellerie d’État, les relations entre le Grand Conseil et le Conseil d’État."
       }
     ],
     "99": [
@@ -1998,37 +1964,37 @@
       },
       {
         "num": "3",
-        "text": "Un quart des députés peut demander un référendum financier (art. 46 al. 1 let. b). La loi fixe le délai de dépôt d'une telle demande."
+        "text": "Un quart des députés peut demander un référendum financier (art. 46, al. 1, let. b. La loi fixe le délai de dépôt d’une telle demande."
       }
     ],
     "100": [
       {
         "num": "1",
-        "text": "Le Grand Conseil approuve l'adhésion du canton aux traités intercantonaux et internationaux."
+        "text": "Le Grand Conseil approuve l’adhésion du canton aux traités intercantonaux et internationaux."
       },
       {
         "num": "2",
-        "text": "Il peut déléguer cette compétence au Conseil d'Etat pour les actes dénonçables à court terme ou de moindre importance."
+        "text": "Il peut déléguer cette compétence au Conseil d’État pour les actes dénonçables à court terme ou de moindre importance."
       },
       {
         "num": "3",
-        "text": "Il peut inviter le Conseil d'Etat à engager des négociations en vue de la conclusion d'un traité ou à dénoncer un traité existant."
+        "text": "Il peut inviter le Conseil d’État à engager des négociations en vue de la conclusion d’un traité ou à dénoncer un traité existant."
       }
     ],
     "101": [
       {
-        "num": "1",
-        "text": "Le Grand Conseil examine le programme de législature et le plan financier du Conseil d'Etat."
+        "num": null,
+        "text": "Le Grand Conseil examine le programme de législature et le plan financier du Conseil d’État."
       }
     ],
     "102": [
       {
         "num": "1",
-        "text": "Le Grand Conseil adopte le budget et les comptes annuels de l'Etat."
+        "text": "Le Grand Conseil adopte le budget et les comptes annuels de l’État."
       },
       {
         "num": "2",
-        "text": "Il fixe les impôts cantonaux ainsi que les conditions et les limites d'un nouvel endettement."
+        "text": "Il fixe les impôts cantonaux ainsi que les conditions et les limites d’un nouvel endettement."
       }
     ],
     "103": [
@@ -2037,38 +2003,26 @@
         "text": "Le Grand Conseil élit:"
       },
       {
-        "num": null,
-        "text": "a) la présidente ou le président et les vice-présidentes ou les vice-présidents du Grand Conseil; b) la présidente ou le président du Conseil d'Etat; c) la présidente ou le président du Tribunal cantonal; d) les membres du Conseil de la magistrature; e) les membres du pouvoir judiciaire et du Ministère public, sur préavis du Conseil de la magistrature; f) la secrétaire générale ou le secrétaire général du Grand Conseil; g) les membres de ses commissions."
-      },
-      {
         "num": "2",
-        "text": "La loi peut confier d'autres compétences électorales au Grand Conseil."
+        "text": "La loi peut confier d’autres compétences électorales au Grand Conseil."
       }
     ],
     "104": [
       {
-        "num": "1",
-        "text": "Le Grand Conseil exerce la haute surveillance sur:"
-      },
-      {
         "num": null,
-        "text": "a) le Conseil d'Etat et l'administration; b) la justice; c) les délégataires de tâches publiques."
+        "text": "Le Grand Conseil exerce la haute surveillance sur:"
       }
     ],
     "105": [
       {
-        "num": "1",
-        "text": "Le Grand Conseil:"
-      },
-      {
         "num": null,
-        "text": "a) statue sur la validité des initiatives populaires; b) tranche les conflits de compétence entre les autorités supérieures du canton; c) accorde l'amnistie et la grâce; d) accorde le droit de cité cantonal; e) exerce les droits de participation que le droit fédéral confère aux cantons; f) accomplit toutes les autres tâches qui, en vertu de la Constitution ou de la loi, lui incombent ou ne ressortissent pas à la compétence d'une autre autorité."
+        "text": "Le Grand Conseil:"
       }
     ],
     "106": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat se compose de sept membres."
+        "text": "Le Conseil d’État se compose de sept membres."
       },
       {
         "num": "2",
@@ -2076,61 +2030,61 @@
       },
       {
         "num": "3",
-        "text": "Les membres du Conseil d'Etat sont élus pour cinq ans et ne peuvent siéger pendant plus de trois législatures complètes."
+        "text": "Les membres du Conseil d’État sont élus pour cinq ans et ne peuvent siéger pendant plus de trois législatures complètes."
       }
     ],
     "107": [
       {
-        "num": "1",
-        "text": "La présidente ou le président du Conseil d'Etat est élu par le Grand Conseil pour une année. Elle ou il n'est pas immédiatement rééligible."
+        "num": null,
+        "text": "La présidente ou le président du Conseil d’État est élu par le Grand Conseil pour une année. Elle ou il n’est pas immédiatement rééligible."
       }
     ],
     "108": [
       {
-        "num": "1",
-        "text": "Le Conseil d'Etat dispose de son propre secrétariat, dirigé par la chancelière ou le chancelier d'Etat."
+        "num": null,
+        "text": "Le Conseil d’État dispose de son propre secrétariat, dirigé par la chancelière ou le chancelier d’État."
       }
     ],
     "109": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat renseigne chaque année le Grand Conseil sur ses activités et sur l'état de réalisation du programme de législature. Il le fait également chaque fois que le Grand Conseil le lui demande."
+        "text": "Le Conseil d’État renseigne chaque année le Grand Conseil sur ses activités et sur l’état de réalisation du programme de législature. Il le fait également chaque fois que le Grand Conseil le lui demande."
       },
       {
         "num": "2",
-        "text": "Les membres du Conseil d'Etat répondent devant le Grand Conseil de leur gestion et des actes des personnes soumises à leur surveillance."
+        "text": "Les membres du Conseil d’État répondent devant le Grand Conseil de leur gestion et des actes des personnes soumises à leur surveillance."
       },
       {
         "num": "3",
-        "text": "La Chancellerie d'Etat assure, en collaboration avec le Secrétariat du Grand Conseil, les relations entre le Conseil d'Etat et le Grand Conseil."
+        "text": "La Chancellerie d’État assure, en collaboration avec le Secrétariat du Grand Conseil, les relations entre le Conseil d’État et le Grand Conseil."
       }
     ],
     "110": [
       {
-        "num": "1",
-        "text": "Le Conseil d'Etat exerce le pouvoir exécutif, dirige l'administration et conduit la politique du canton."
+        "num": null,
+        "text": "Le Conseil d’État exerce le pouvoir exécutif, dirige l’administration et conduit la politique du canton."
       }
     ],
     "111": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat prépare les projets d'actes législatifs à l'intention du Grand Conseil."
+        "text": "Le Conseil d’État prépare les projets d’actes législatifs à l’intention du Grand Conseil."
       },
       {
         "num": "2",
-        "text": "Il édicte des règles de droit lorsque la Constitution ou la loi l'y autorisent ainsi que les dispositions d'exécution des lois cantonales ou fédérales, dans la mesure où celles-ci ne doivent pas être prises sous la forme d'une loi."
+        "text": "Il édicte des règles de droit lorsque la Constitution ou la loi l’y autorisent ainsi que les dispositions d’exécution des lois cantonales ou fédérales, dans la mesure où celles-ci ne doivent pas être prises sous la forme d’une loi."
       }
     ],
     "112": [
       {
-        "num": "1",
-        "text": "Le Conseil d'Etat présente au Grand Conseil le programme de législature et le plan financier."
+        "num": null,
+        "text": "Le Conseil d’État présente au Grand Conseil le programme de législature et le plan financier."
       }
     ],
     "113": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat soumet au Grand Conseil le budget et les comptes annuels de l'Etat."
+        "text": "Le Conseil d’État soumet au Grand Conseil le budget et les comptes annuels de l’État."
       },
       {
         "num": "2",
@@ -2140,7 +2094,7 @@
     "114": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat représente le canton."
+        "text": "Le Conseil d’État représente le canton."
       },
       {
         "num": "2",
@@ -2153,36 +2107,36 @@
     ],
     "115": [
       {
-        "num": "1",
-        "text": "Le Conseil d'Etat exerce la surveillance sur les communes."
+        "num": null,
+        "text": "Le Conseil d’État exerce la surveillance sur les communes."
       }
     ],
     "116": [
       {
-        "num": "1",
-        "text": "Le Conseil d'Etat procède aux nominations qui ne sont pas réservées à une autre autorité."
+        "num": null,
+        "text": "Le Conseil d’État procède aux nominations qui ne sont pas réservées à une autre autorité."
       }
     ],
     "117": [
       {
-        "num": "1",
-        "text": "Le Conseil d'Etat prend les mesures nécessaires pour parer aux dangers sérieux, directs et imminents. Ces mesures cessent de produire effet une fois le danger disparu ou en l'absence d'approbation par le Grand Conseil dans le délai d'une année."
+        "num": null,
+        "text": "Le Conseil d’État prend les mesures nécessaires pour parer aux dangers sérieux, directs et imminents. Ces mesures cessent de produire effet une fois le danger disparu ou en l’absence d’approbation par le Grand Conseil dans le délai d’une année."
       }
     ],
     "118": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat organise l'administration de manière appropriée."
+        "text": "Le Conseil d’État organise l’administration de manière appropriée."
       },
       {
         "num": "2",
-        "text": "Il veille à ce qu'elle soit efficace et assure un service de proximité."
+        "text": "Il veille à ce qu’elle soit efficace et assure un service de proximité."
       }
     ],
     "119": [
       {
-        "num": "1",
-        "text": "Le Conseil d'Etat institue, en matière administrative, un organe de médiation indépendant."
+        "num": null,
+        "text": "Le Conseil d’État institue, en matière administrative, un organe de médiation indépendant."
       }
     ],
     "120": [
@@ -2202,17 +2156,17 @@
     "121": [
       {
         "num": "1",
-        "text": "L'indépendance du pouvoir judiciaire est garantie."
+        "text": "L’indépendance du pouvoir judiciaire est garantie."
       },
       {
         "num": "2",
-        "text": "Les membres du pouvoir judiciaire et du Ministère public sont élus pour une durée indéterminée. Ils peuvent être révoqués par l'autorité d'élection dans les seuls cas prévus par la loi."
+        "text": "Les membres du pouvoir judiciaire et du Ministère public sont élus pour une durée indéterminée. Ils peuvent être révoqués par l’autorité d’élection dans les seuls cas prévus par la loi."
       }
     ],
     "122": [
       {
-        "num": "1",
-        "text": "Les autorités des juridictions civile, pénale et administrative n'appliquent pas les dispositions contraires au droit supérieur."
+        "num": null,
+        "text": "Les autorités des juridictions civile, pénale et administrative n’appliquent pas les dispositions contraires au droit supérieur."
       }
     ],
     "123": [
@@ -2221,20 +2175,12 @@
         "text": "La juridiction civile est exercée par:"
       },
       {
-        "num": null,
-        "text": "a) les justices de paix et les juges de paix; b) les tribunaux civils et leurs présidents; c) le Tribunal cantonal."
-      },
-      {
         "num": "2",
         "text": "La juridiction pénale est exercée par:"
       },
       {
-        "num": null,
-        "text": "a) les préfets; b) les juges d'instruction; c) les tribunaux pénaux et leurs présidents; d) le Tribunal pénal économique; e) la Chambre pénale des mineurs et ses présidents; f) le Tribunal cantonal."
-      },
-      {
         "num": "3",
-        "text": "Le Tribunal cantonal est l'autorité ordinaire de la juridiction administrative."
+        "text": "Le Tribunal cantonal est l’autorité ordinaire de la juridiction administrative."
       },
       {
         "num": "4",
@@ -2244,20 +2190,20 @@
     "124": [
       {
         "num": "1",
-        "text": "Le Tribunal cantonal est l'autorité supérieure en matière civile, pénale et administrative."
+        "text": "Le Tribunal cantonal est l’autorité supérieure en matière civile, pénale et administrative."
       },
       {
         "num": "2",
-        "text": "Il juge en dernière instance cantonale les contestations administratives que la loi ne place pas dans la compétence définitive d'une autre autorité."
+        "text": "Il juge en dernière instance cantonale les contestations administratives que la loi ne place pas dans la compétence définitive d’une autre autorité."
       },
       {
         "num": "3",
-        "text": "La présidente ou le président du Tribunal cantonal est élu par le Grand Conseil pour une année. Elle ou il n'est pas immédiatement rééligible."
+        "text": "La présidente ou le président du Tribunal cantonal est élu par le Grand Conseil pour une année. Elle ou il n’est pas immédiatement rééligible."
       }
     ],
     "125": [
       {
-        "num": "1",
+        "num": null,
         "text": "Le Conseil de la magistrature est une autorité indépendante de surveillance du pouvoir judiciaire. Il donne son préavis lors des élections judiciaires."
       }
     ],
@@ -2267,12 +2213,8 @@
         "text": "Le Conseil de la magistrature comprend:"
       },
       {
-        "num": null,
-        "text": "a) un membre du Grand Conseil; b) un membre du Conseil d'Etat; c) un membre du Tribunal cantonal; d) un membre de l'Ordre des avocats fribourgeois; e) une ou un professeur ordinaire de la Faculté de droit de l'Université; f) un membre du Ministère public; g) un membre des autorités judiciaires de première instance; h) deux autres membres."
-      },
-      {
         "num": "2",
-        "text": "Les membres du Conseil de la magistrature sont élus par le Grand Conseil. Les sept premiers cités le sont sur proposition de l'autorité ou du groupe de personnes dont ils font partie, les deux autres, sur proposition du Conseil de la magistrature."
+        "text": "Les membres du Conseil de la magistrature sont élus par le Grand Conseil. Les sept premiers cités le sont sur la proposition de l’autorité ou du groupe de personnes dont ils font partie, les deux autres, sur la proposition du Conseil de la magistrature."
       },
       {
         "num": "3",
@@ -2295,8 +2237,8 @@
     ],
     "128": [
       {
-        "num": "1",
-        "text": "Le Conseil de la magistrature préavise à l'intention du Grand Conseil les candidatures aux postes du pouvoir judiciaire et du Ministère public, en se fondant sur la formation, l'expérience professionnelle et les qualités personnelles des candidates et candidats."
+        "num": null,
+        "text": "Le Conseil de la magistrature préavise à l’intention du Grand Conseil les candidatures aux postes du pouvoir judiciaire et du Ministère public, en se fondant sur la formation, l’expérience professionnelle et les qualités personnelles des candidates et candidats."
       }
     ],
     "129": [
@@ -2306,7 +2248,7 @@
       },
       {
         "num": "2",
-        "text": "L'autonomie communale est garantie dans les limites du droit cantonal. Elle peut être invoquée par les associations de communes dans leur domaine de compétence."
+        "text": "L’autonomie communale est garantie dans les limites du droit cantonal. Elle peut être invoquée par les associations de communes dans leur domaine de compétence."
       }
     ],
     "130": [
@@ -2326,17 +2268,17 @@
       },
       {
         "num": "2",
-        "text": "Chaque commune a une assemblée communale ou un conseil général ainsi qu'un conseil communal."
+        "text": "Chaque commune a une assemblée communale ou un conseil général ainsi qu’un conseil communal."
       },
       {
         "num": "3",
-        "text": "Les articles 85, 88 al. 1 et 90 s'appliquent par analogie aux communes."
+        "text": "Les art. 85, 88, al. 1, et 90 s’appliquent par analogie aux communes."
       }
     ],
     "132": [
       {
         "num": "1",
-        "text": "Les communes disposent d'autonomie dans la fixation et le prélèvement des taxes et impôts communaux dans les limites de la législation."
+        "text": "Les communes disposent d’autonomie dans la fixation et le prélèvement des taxes et impôts communaux dans les limites de la législation."
       },
       {
         "num": "2",
@@ -2345,22 +2287,22 @@
     ],
     "133": [
       {
-        "num": "1",
-        "text": "L'Etat prend des mesures pour atténuer les effets des disparités entre les communes; il instaure notamment une péréquation financière."
+        "num": null,
+        "text": "L’État prend des mesures pour atténuer les effets des disparités entre les communes; il instaure notamment une péréquation financière."
       }
     ],
     "134": [
       {
         "num": "1",
-        "text": "L'Etat encourage la collaboration intercommunale."
+        "text": "L’État encourage la collaboration intercommunale."
       },
       {
         "num": "2",
-        "text": "Les communes peuvent s'associer pour l'accomplissement d'une ou de plusieurs tâches. Elles doivent adhérer à tous les buts de l'association."
+        "text": "Les communes peuvent s’associer pour l’accomplissement d’une ou de plusieurs tâches. Elles doivent adhérer à tous les buts de l’association."
       },
       {
         "num": "3",
-        "text": "L'Etat peut obliger des communes à faire partie d'une association ou à en fonder une."
+        "text": "L’État peut obliger des communes à faire partie d’une association ou à en fonder une."
       },
       {
         "num": "4",
@@ -2370,19 +2312,19 @@
     "135": [
       {
         "num": "1",
-        "text": "L'Etat encourage et favorise les fusions de communes."
+        "text": "L’État encourage et favorise les fusions de communes."
       },
       {
         "num": "2",
-        "text": "Une fusion peut être proposée par les autorités communales, par une initiative populaire ou par l'Etat."
+        "text": "Une fusion peut être proposée par les autorités communales, par une initiative populaire ou par l’État."
       },
       {
         "num": "3",
-        "text": "Les citoyennes et les citoyens actifs des communes concernées se prononcent sur la fusion. L'al. 4 est réservé."
+        "text": "Les citoyennes et les citoyens actifs des communes concernées se prononcent sur la fusion. L’al. 4 est réservé."
       },
       {
         "num": "4",
-        "text": "Lorsque les intérêts communaux, régionaux ou cantonaux l'exigent, l'Etat peut ordonner une fusion. Les communes concernées doivent être entendues."
+        "text": "Lorsque les intérêts communaux, régionaux ou cantonaux l’exigent, l’État peut ordonner une fusion. Les communes concernées doivent être entendues."
       }
     ],
     "136": [
@@ -2398,7 +2340,7 @@
     "137": [
       {
         "num": "1",
-        "text": "L'Etat et les communes peuvent, pour des motifs d'intérêt public, soutenir les organisations de la société civile. Ils peuvent également les consulter."
+        "text": "L’État et les communes peuvent, pour des motifs d’intérêt public, soutenir les organisations de la société civile. Ils peuvent également les consulter."
       },
       {
         "num": "2",
@@ -2408,7 +2350,7 @@
     "138": [
       {
         "num": "1",
-        "text": "L'Etat et les communes reconnaissent l'importance de la vie associative; ils peuvent accorder un soutien aux associations et leur déléguer des tâches."
+        "text": "L’État et les communes reconnaissent l’importance de la vie associative; ils peuvent accorder un soutien aux associations et leur déléguer des tâches."
       },
       {
         "num": "2",
@@ -2417,134 +2359,108 @@
     ],
     "139": [
       {
-        "num": "1",
-        "text": "Les partis politiques contribuent de manière importante au fonctionnement de la démocratie; l'Etat et les communes peuvent les soutenir financièrement."
-      }
-    ],
-    "139a": [
-      {
-        "num": "1",
-        "text": "Les partis politiques, les groupements politiques, les comités de campagne ainsi que les organisations prenant part à des campagnes électorales ou de votations doivent publier leurs comptes. Doivent en particulier être publiés:"
-      },
-      {
         "num": null,
-        "text": "a) lors de campagnes électorales ou de votations, les sources de financement ainsi que le budget total de la campagne correspondante; b) pour le financement des organisations susmentionnées, la raison sociale des personnes morales participant au financement desdites organisations, de même que le montant des versements; c) l'identité des personnes physiques participant au financement desdites organisations, à l'exception de celles dont les versements n'excèdent pas 5000 francs par année civile."
-      },
-      {
-        "num": "2",
-        "text": "Les membres élus des autorités cantonales publient, au début de l'année civile, les revenus qu'ils tirent de leur mandat ainsi que les revenus des activités en lien avec celui-ci."
-      },
-      {
-        "num": "3",
-        "text": "Les données publiées en vertu des alinéas 1 et 2 sont vérifiées par l'administration cantonale ou une entité indépendante. Une fois vérifiées, ces données sont mises à disposition en ligne et sur papier."
-      },
-      {
-        "num": "4",
-        "text": "Pour le surplus, la loi règle l'application. Elle tient notamment compte du secret professionnel."
+        "text": "Les partis politiques contribuent de manière importante au fonctionnement de la démocratie; l’État et les communes peuvent les soutenir financièrement."
       }
     ],
     "140": [
       {
         "num": "1",
-        "text": "L'Etat et les communes reconnaissent le rôle important des Eglises et des communautés religieuses dans la société."
+        "text": "L’État et les communes reconnaissent le rôle important des Églises et des communautés religieuses dans la société."
       },
       {
         "num": "2",
-        "text": "Les Eglises et les communautés religieuses s'organisent librement dans le respect de l'ordre juridique."
+        "text": "Les Églises et les communautés religieuses s’organisent librement dans le respect de l’ordre juridique."
       }
     ],
     "141": [
       {
         "num": "1",
-        "text": "L'Etat accorde un statut de droit public aux Eglises catholique-romaine et évangélique-réformée."
+        "text": "L’État accorde un statut de droit public aux Églises catholique-romaine et évangélique-réformée."
       },
       {
         "num": "2",
-        "text": "Les Eglises reconnues sont autonomes. Leur organisation est soumise à l'approbation de l'Etat."
+        "text": "Les Églises reconnues sont autonomes. Leur organisation est soumise à l’approbation de l’État."
       }
     ],
     "142": [
       {
         "num": "1",
-        "text": "Les autres Eglises et communautés religieuses sont régies par le droit privé."
+        "text": "Les autres Églises et communautés religieuses sont régies par le droit privé."
       },
       {
         "num": "2",
-        "text": "Si leur importance sociale le justifie et si elles respectent les droits fondamentaux, elles peuvent obtenir des prérogatives de droit public ou être dotées d'un statut de droit public."
+        "text": "Si leur importance sociale le justifie et si elles respectent les droits fondamentaux, elles peuvent obtenir des prérogatives de droit public ou être dotées d’un statut de droit public."
       }
     ],
     "143": [
       {
-        "num": "1",
+        "num": null,
         "text": "La perception des impôts ecclésiastiques est réglée par la loi."
       }
     ],
     "144": [
       {
         "num": "1",
-        "text": "La révision totale de la Constitution peut être demandée par le Grand Conseil ou par voie d'initiative populaire."
+        "text": "La révision totale de la Constitution peut être demandée par le Grand Conseil ou par voie d’initiative populaire."
       },
       {
         "num": "2",
         "text": "Lorsque la révision totale est demandée, un vote populaire décidera:"
       },
       {
-        "num": null,
-        "text": "a) si elle doit avoir lieu; b) si elle doit être confiée au Grand Conseil ou à une assemblée constituante."
-      },
-      {
         "num": "3",
-        "text": "Si la révision est confiée à une assemblée constituante, celle-ci est élue pour cinq ans selon les mêmes modalités que le Grand Conseil. Il n'y a toutefois pas d'incompatibilités."
+        "text": "Si la révision est confiée à une assemblée constituante, celle-ci est élue pour cinq ans selon les mêmes modalités que le Grand Conseil. Il n’y a toutefois pas d’incompatibilités."
       },
       {
         "num": "4",
-        "text": "Si le peuple rejette le projet, l'organe chargé de la révision totale en élabore un second. S'il s'agit d'une assemblée constituante, les pouvoirs de celle-ci sont prorogés pour deux ans."
+        "text": "Si le peuple rejette le projet, l’organe chargé de la révision totale en élabore un second. S’il s’agit d’une assemblée constituante, les pouvoirs de celle-ci sont prorogés pour deux ans."
       }
     ],
     "145": [
       {
         "num": "1",
-        "text": "La révision partielle de la Constitution peut être proposée par le Grand Conseil ou par voie d'initiative populaire."
+        "text": "La révision partielle de la Constitution peut être proposée par le Grand Conseil ou par voie d’initiative populaire."
       },
       {
         "num": "2",
-        "text": "Elle doit être conforme au droit supérieur, respecter l'unité de la forme et de la matière et être exécutable."
+        "text": "Elle doit être conforme au droit supérieur, respecter l’unité de la forme et de la matière et être exécutable."
       }
     ],
     "146": [
       {
-        "num": "1",
-        "text": "La présente Constitution entre en vigueur le 1 er janvier 2005. A cette date, la Constitution du canton de Fribourg du 7 mai 1857 (RSF 10.1) est abrogée. Les dispositions qui suivent sont réservées."
+        "num": null,
+        "text": "La présente Constitution entre en vigueur le 1er janvier 2005. À cette date, la Constitution du canton de Fribourg du 7 mai 1857 est abrogée. Les dispositions qui suivent sont réservées."
       }
     ],
     "147": [
       {
         "num": "1",
-        "text": "Le droit actuel doit être adapté sans retard à la présente Constitution. Les adaptations doivent entrer en vigueur au plus tard le 1 er janvier 2009."
+        "text": "Le droit actuel doit être adapté sans retard à la présente Constitution. Les adaptations doivent entrer en vigueur au plus tard le 1er janvier 2009."
       },
       {
         "num": "2",
-        "text": "Dans les domaines où les règles de la présente Constitution nécessitent des dispositions d'application, le droit actuel reste en vigueur jusqu'à l'adoption de ces dispositions."
+        "text": "Dans les domaines où les règles de la présente Constitution nécessitent des dispositions d’application, le droit actuel reste en vigueur jusqu’à l’adoption de ces dispositions."
       }
     ],
     "148": [
       {
         "num": "1",
-        "text": "Les prestations cantonales dues en cas de naissance et d'adoption sont versées pendant au moins 14 semaines."
+        "text": "Les prestations cantonales dues en cas de naissance et d’adoption sont versées pendant au moins quatorze semaines."
       },
       {
         "num": "2",
-        "text": "Leur versement doit commencer au plus tard le 1 er janvier 2008."
+        "text": "Leur versement doit commencer au plus tard le 1er janvier 2008."
       },
       {
         "num": "3",
-        "text": "Si une assurance maternité fédérale est mise en place, le versement cessera pour celle(s) des catégories de prestations que le droit fédéral prévoit (mère avec [art. 33 al. 2] ou sans activité lucrative [art. 33 al. 3], adoption [art. 33 al. 4])."
+        "text": "Si une assurance maternité fédérale est mise en place, le versement cessera pour celle(s) des catégories de prestations que le droit fédéral prévoit (mère avec [art. 33, al. 2] ou sans activité lucrative [art. 33, al. 3], adoption [art. 33, al. 4])."
       }
     ],
     "149": [
       {
         "num": "1",
-        "text": "Les Suissesses et les Suisses de l'étranger ainsi que les étrangères et les étrangers peuvent exercer leurs droits politiques dès le 1 er janvier 2006."
+        "text": "Les Suissesses et les Suisses de l’étranger ainsi que les étrangères et les étrangers peuvent exercer leurs droits politiques dès le 1er janvier 2006."
       },
       {
         "num": "2",
@@ -2553,42 +2469,38 @@
     ],
     "150": [
       {
-        "num": "1",
+        "num": null,
         "text": "Le Grand Conseil adapte formellement le texte des initiatives constitutionnelles pendantes à la présente Constitution."
       }
     ],
     "151": [
       {
         "num": "1",
-        "text": "Les nouvelles règles relatives au Grand Conseil, notamment à son Secrétariat (art. 97), prennent effet en vue de la législature 2007–2011."
+        "text": "Les nouvelles règles relatives au Grand Conseil, notamment à son Secrétariat (art. 97), prennent effet en vue de la législature 2007 à 2011."
       },
       {
         "num": "2",
-        "text": "Il en va de même des nouvelles règles relatives au Conseil d'Etat."
+        "text": "Il en va de même des nouvelles règles relatives au Conseil d’État."
       }
     ],
     "152": [
       {
         "num": "1",
-        "text": "Le Conseil de la magistrature entre en fonction le 1 er juillet 2007. Il ne commence toutefois son activité de surveillance que le 1 er janvier 2008."
+        "text": "Le Conseil de la magistrature entre en fonction le 1er juillet 2007. Il ne commence toutefois son activité de surveillance que le 1er janvier 2008."
       },
       {
         "num": "2",
-        "text": "Le Tribunal cantonal unifié commence son activité ce même 1 er janvier 2008."
+        "text": "Le Tribunal cantonal unifié commence son activité ce même 1er janvier 2008."
       },
       {
         "num": "3",
-        "text": "Les règles suivantes sont applicables à l'élection et à la durée des fonctions des membres du pouvoir judiciaire et du Ministère public:"
-      },
-      {
-        "num": null,
-        "text": "a) Les personnes en fonction à l'entrée en vigueur de la présente Constitution le restent jusqu'au terme de leur mandat. b) Les postes à repourvoir entre le 1 er janvier 2005 et le 31 décembre 2007 le sont selon le droit actuel. c) Les nouvelles règles (art. 103, 121 et 128) s'appliquent pour les postes à repourvoir à partir du 1 er janvier 2008."
+        "text": "Les règles suivantes sont applicables à l’élection et à la durée des fonctions des membres du pouvoir judiciaire et du Ministère public:"
       }
     ],
     "153": [
       {
-        "num": "1",
-        "text": "Les nouvelles règles relatives aux communes, à l'exception de l'article 133 (péréquation financière), prennent effet en vue de la période administrative 2006–2011."
+        "num": null,
+        "text": "Les nouvelles règles relatives aux communes, à l’exception de l’art. 133 (péréquation financière), prennent effet en vue de la période administrative 2006 à 2011."
       }
     ]
   }

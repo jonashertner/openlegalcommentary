@@ -7,7 +7,7 @@
   "lexfind_id": 15261,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 143,
+  "article_count": 152,
   "articles": [
     {
       "number": 1,
@@ -208,6 +208,18 @@
       "title": "Mehrfachabstimmungen"
     },
     {
+      "number": 33,
+      "suffix": "a",
+      "raw": "33a",
+      "title": "Globalbudgetinitiative"
+    },
+    {
+      "number": 34,
+      "suffix": "",
+      "raw": "34",
+      "title": "Volksauftrag"
+    },
+    {
       "number": 35,
       "suffix": "",
       "raw": "35",
@@ -370,6 +382,12 @@
       "title": "Amtsperiode"
     },
     {
+      "number": 62,
+      "suffix": "",
+      "raw": "62",
+      "title": "Amtsgelübde"
+    },
+    {
       "number": 63,
       "suffix": "",
       "raw": "63",
@@ -415,7 +433,13 @@
       "number": 70,
       "suffix": "",
       "raw": "70",
-      "title": "Verhältnis zum Regierungsrat<strong>*</strong>"
+      "title": "Verhältnis zum Regierungsrat*"
+    },
+    {
+      "number": 70,
+      "suffix": "bis",
+      "raw": "70bis",
+      "title": "Mitwirkung des Obergerichtspräsidenten"
     },
     {
       "number": 71,
@@ -430,10 +454,16 @@
       "title": "Staatsverträge und Konkordate"
     },
     {
+      "number": 73,
+      "suffix": "",
+      "raw": "73",
+      "title": "Politische Planung"
+    },
+    {
       "number": 74,
       "suffix": "",
       "raw": "74",
-      "title": "Steuerung von Leistungen und Finanzen<strong>*</strong>"
+      "title": "Steuerung von Leistungen und Finanzen*"
     },
     {
       "number": 75,
@@ -536,6 +566,12 @@
       "suffix": "",
       "raw": "91",
       "title": "Verwaltungsgerichtsbarkeit"
+    },
+    {
+      "number": 91,
+      "suffix": "bis",
+      "raw": "91bis",
+      "title": "Gerichtsverwaltung"
     },
     {
       "number": 92,
@@ -652,6 +688,12 @@
       "title": "Ausbildungsbeiträge"
     },
     {
+      "number": 111,
+      "suffix": "",
+      "raw": "111",
+      "title": ""
+    },
+    {
       "number": 112,
       "suffix": "",
       "raw": "112",
@@ -740,6 +782,12 @@
       "suffix": "",
       "raw": "126",
       "title": "Regalien"
+    },
+    {
+      "number": 127,
+      "suffix": "",
+      "raw": "127",
+      "title": ""
     },
     {
       "number": 128,
@@ -866,6 +914,12 @@
       "suffix": "",
       "raw": "148",
       "title": "Unvereinbarkeit für Richter"
+    },
+    {
+      "number": 149,
+      "suffix": "",
+      "raw": "149",
+      "title": "Privatisierung der Kantonalbank"
     }
   ],
   "article_texts": {
@@ -1132,7 +1186,43 @@
       },
       {
         "num": null,
-        "text": "a) als Bundesorgane: 1. die Mitglieder des Nationalrates; 2. die Mitglieder des Ständerates; b) als kantonale Organe: 1. die Mitglieder des Kantonsrates; 2. die Mitglieder des Regierungsrates; c) als Amtei- oder Bezirksorgane: 1. * die Amtsgerichtspräsidenten; 2. * … 3. die Amtsrichter und ihre Stellvertreter; 4. * … 5. * … e) als Gemeindeorgane: 1. die Mitglieder des Gemeinderates; 2. * den Gemeindepräsidenten."
+        "text": "a) als Bundesorgane:"
+      },
+      {
+        "num": null,
+        "text": "1. die Mitglieder des Nationalrates;"
+      },
+      {
+        "num": null,
+        "text": "2. die Mitglieder des Ständerates; b) als kantonale Organe:"
+      },
+      {
+        "num": null,
+        "text": "1. die Mitglieder des Kantonsrates;"
+      },
+      {
+        "num": null,
+        "text": "2. die Mitglieder des Regierungsrates; c) als Amtei- oder Bezirksorgane:"
+      },
+      {
+        "num": null,
+        "text": "1. * die Amtsgerichtspräsidenten;"
+      },
+      {
+        "num": null,
+        "text": "2. * … 3. die Amtsrichter und ihre Stellvertreter;"
+      },
+      {
+        "num": null,
+        "text": "4. * … 5. * … e) als Gemeindeorgane:"
+      },
+      {
+        "num": null,
+        "text": "1. die Mitglieder des Gemeinderates;"
+      },
+      {
+        "num": null,
+        "text": "2. * den Gemeindepräsidenten."
       }
     ],
     "28": [
@@ -1205,6 +1295,26 @@
       {
         "num": "2",
         "text": "Stimmt das Volk beiden Vorlagen zu, ist jene angenommen, für welche in der gleichzeitig stattfindenden Eventualabstimmung mehr Stimmen abgegeben werden."
+      }
+    ],
+    "33a": [
+      {
+        "num": "1",
+        "text": "3‘000 Stimmberechtigte können eine bestimmte Ausgestaltung eines künftigen mehrjährigen Globalbudgets verlangen. Das Begehren ist spätestens zwei Jahre vor Ablauf des vorangehenden mehrjährigen Globalbudgets einzureichen. Die Sammelfrist endet 90 Tage nach der amtlichen Publikation des Initiativtextes."
+      },
+      {
+        "num": "2",
+        "text": "Bis 12 Monate vor Ablauf des Globalbudgets verabschiedet der Kantonsrat eine Vorlage, die dem Ziel des Begehrens entspricht. Die Vorlage ist spätestens 6 Monate vor Ablauf der Globalbudgetperiode zusammen mit einem allfälligen Gegenvorschlag dem Volk zum Entscheid vorzulegen. Zur Finanzierung des Begehrens kann die Vorlage mit einer Änderung des Steuerfusses verknüpft werden."
+      }
+    ],
+    "34": [
+      {
+        "num": "1",
+        "text": "100 Stimmberechtigte haben das Recht, dem Kantonsrat zu Fragen der politischen Planung und der Rechtsetzung oder zu weiteren Themen, die Gegenstand eines Auftrags des Kantonsrates an den Regierungsrat sein können, schriftlich einen Antrag zu stellen."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt die Einzelheiten."
       }
     ],
     "35": [
@@ -1517,6 +1627,12 @@
         "text": "Alle Wahlen erfolgen für eine Amtsperiode oder den Rest der Amtsperiode."
       }
     ],
+    "62": [
+      {
+        "num": "1",
+        "text": "Die vom Volk oder vom Kantonsrat gewählten Mitglieder von Behörden und Beamten geloben bei Amtsantritt, Verfassung und Gesetz zu beachten."
+      }
+    ],
     "63": [
       {
         "num": "1",
@@ -1585,6 +1701,12 @@
         "text": "Die Mitglieder des Regierungsrates nehmen an den Sitzungen des Kantonsrates teil; sie haben beratende Stimme und können zu einer in Beratung stehenden Sache Anträge stellen."
       }
     ],
+    "70bis": [
+      {
+        "num": "1",
+        "text": "Der Obergerichtspräsident nimmt an den Sitzungen des Kantonsrates zum Voranschlag, zur Rechnung und zum Rechenschaftsbericht der Gerichte teil; er hat beratende Stimme und kann Anträge stellen."
+      }
+    ],
     "71": [
       {
         "num": "1",
@@ -1607,6 +1729,16 @@
       {
         "num": "2",
         "text": "Der Kantonsrat kann an der Vorbereitung wichtiger Staatsverträge und Konkordate, die seiner Genehmigung unterliegen, teilnehmen."
+      }
+    ],
+    "73": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat behandelt den Legislaturplan und den integrierten Aufgaben- und Finanzplan sowie weitere grundlegende Pläne in einzelnen Aufgabenbereichen und nimmt davon Kenntnis."
+      },
+      {
+        "num": "2",
+        "text": "Mit dem Planungsbeschluss beauftragt der Kantonsrat den Regierungsrat zur Entwicklung einer Staatsaufgabe in bestimmter Richtung."
       }
     ],
     "74": [
@@ -1849,6 +1981,20 @@
         "text": "a) das Verwaltungsgericht; b) das Versicherungsgericht; c) das Steuergericht; d) die Schätzungskommission; e) * … f) weitere Spezialgerichte nach Massgabe des Gesetzes."
       }
     ],
+    "91bis": [
+      {
+        "num": "1",
+        "text": "Die Gerichtsverwaltung ist Sache der Gerichte."
+      },
+      {
+        "num": "2",
+        "text": "Der Obergerichtspräsident vertritt die Gerichte im Verkehr mit anderen Behörden."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt die Grundzüge der Organisation und des Verfahrens der Gerichtsverwaltung."
+      }
+    ],
     "92": [
       {
         "num": "1",
@@ -2051,6 +2197,7 @@
         "text": "Der Kanton gewährt Ausbildungsbeiträge."
       }
     ],
+    "111": [],
     "112": [
       {
         "num": "1",
@@ -2197,6 +2344,7 @@
         "text": "Die Regalien geben dem Kanton das ausschliessliche Recht zur wirtschaftlichen Betätigung und Nutzung. Er kann diese Rechte selber ausüben oder auf Dritte übertragen."
       }
     ],
+    "127": [],
     "128": [
       {
         "num": "1",
@@ -2421,6 +2569,16 @@
       {
         "num": null,
         "text": "a) Personen, die in gerader Linie oder bis und mit dem dritten Grad der Seitenlinie blutsverwandt oder verschwägert sind; b) Ehegatten sowie Ehegatten von Geschwistern."
+      }
+    ],
+    "149": [
+      {
+        "num": "1",
+        "text": "Die Solothurner Kantonalbank wird in eine privatrechtliche Aktiengesellschaft überführt, an der sich der Kanton höchstens als Minderheitsaktionär beteiligen darf. Der Regierungsrat trifft abschliessend alle dazu notwendigen Entscheide."
+      },
+      {
+        "num": "2",
+        "text": "Der Regierungsrat kann einzelne Entscheide unter Vorbehalt des Genehmigungsrechtes an den ausserordentlichen Bankrat der Solothurner Kantonalbank delegieren."
       }
     ]
   }

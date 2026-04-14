@@ -7,7 +7,7 @@
   "lexfind_id": 25,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 128,
+  "article_count": 137,
   "articles": [
     {
       "number": 1,
@@ -178,6 +178,12 @@
       "title": "1. Erziehung und Bildung\na) Grundlage"
     },
     {
+      "number": 29,
+      "suffix": "",
+      "raw": "29",
+      "title": "Volksschulen, Sonderschulen, Heime *"
+    },
+    {
       "number": 30,
       "suffix": "",
       "raw": "30",
@@ -232,6 +238,12 @@
       "title": "4. Sozialwesen\na) Familienschutz"
     },
     {
+      "number": 38,
+      "suffix": "bis",
+      "raw": "38bis",
+      "title": "abis) Jugendbelange"
+    },
+    {
       "number": 39,
       "suffix": "",
       "raw": "39",
@@ -254,6 +266,12 @@
       "suffix": "",
       "raw": "42",
       "title": "6. Umweltschutz\na) Allgemeines"
+    },
+    {
+      "number": 42,
+      "suffix": "a",
+      "raw": "42a",
+      "title": "abis) Klima"
     },
     {
       "number": 43,
@@ -307,7 +325,7 @@
       "number": 51,
       "suffix": "",
       "raw": "51",
-      "title": "b) Land- und Waldwirtschaft&nbsp;<strong>*</strong>"
+      "title": "b) Land- und Waldwirtschaft *"
     },
     {
       "number": 52,
@@ -332,6 +350,12 @@
       "suffix": "",
       "raw": "55",
       "title": "f) Regalrechte"
+    },
+    {
+      "number": 55,
+      "suffix": "bis",
+      "raw": "55bis",
+      "title": "fbis) Lotterien"
     },
     {
       "number": 56,
@@ -415,19 +439,25 @@
       "number": 69,
       "suffix": "",
       "raw": "69",
-      "title": "Wählbarkeit, Unvereinbarkeit, Ausstand und Amtsenthebung&nbsp;<strong>*</strong>"
+      "title": "Wählbarkeit, Unvereinbarkeit, Ausstand und Amtsenthebung *"
     },
     {
       "number": 70,
       "suffix": "",
       "raw": "70",
-      "title": "Amtsdauer und Anstellungsverhältnisse&nbsp;<strong>*</strong>"
+      "title": "Amtsdauer und Anstellungsverhältnisse *"
     },
     {
       "number": 71,
       "suffix": "",
       "raw": "71",
       "title": "Amtssitz"
+    },
+    {
+      "number": 71,
+      "suffix": "a",
+      "raw": "71a",
+      "title": "Amtssprache"
     },
     {
       "number": 72,
@@ -457,7 +487,7 @@
       "number": 76,
       "suffix": "",
       "raw": "76",
-      "title": "1. Stellung, Zusammensetzung und Vertretung&nbsp;<strong>*</strong>"
+      "title": "1. Stellung, Zusammensetzung und Vertretung *"
     },
     {
       "number": 77,
@@ -472,6 +502,12 @@
       "title": "3. Die Zuständigkeiten des Grossen Rates\na) Rechtssetzung"
     },
     {
+      "number": 79,
+      "suffix": "",
+      "raw": "79",
+      "title": "b) Planung"
+    },
+    {
       "number": 80,
       "suffix": "",
       "raw": "80",
@@ -481,7 +517,7 @@
       "number": 81,
       "suffix": "",
       "raw": "81",
-      "title": "d) Budgetierung und Berichterstattung&nbsp;<strong>*</strong>"
+      "title": "d) Budgetierung und Berichterstattung *"
     },
     {
       "number": 82,
@@ -490,10 +526,22 @@
       "title": "e) Weitere Zuständigkeiten"
     },
     {
+      "number": 83,
+      "suffix": "",
+      "raw": "83",
+      "title": "4. Verfahrensordnung\na) Konstituierung"
+    },
+    {
       "number": 84,
       "suffix": "",
       "raw": "84",
       "title": "b) Kommissionen und Fraktionen"
+    },
+    {
+      "number": 85,
+      "suffix": "",
+      "raw": "85",
+      "title": "c) Vorschlagsrecht"
     },
     {
       "number": 86,
@@ -559,7 +607,7 @@
       "number": 96,
       "suffix": "",
       "raw": "96",
-      "title": "2. Justizverwaltung&nbsp;<strong>*</strong>"
+      "title": "2. Justizverwaltung *"
     },
     {
       "number": 97,
@@ -631,7 +679,7 @@
       "number": 108,
       "suffix": "",
       "raw": "108",
-      "title": "Zusammenarbeit der Gemeinden; Zusammenschlüsse&nbsp;<strong>*</strong>"
+      "title": "Zusammenarbeit der Gemeinden; Zusammenschlüsse *"
     },
     {
       "number": 109,
@@ -740,6 +788,12 @@
       "suffix": "",
       "raw": "126",
       "title": "Inkrafttreten"
+    },
+    {
+      "number": 126,
+      "suffix": "a",
+      "raw": "126a",
+      "title": "Personen- und Funktionsbezeichnungen"
     },
     {
       "number": 127,
@@ -1059,6 +1113,28 @@
         "text": "Das Schulwesen wird durch Gesetz geordnet."
       }
     ],
+    "29": [
+      {
+        "num": "1",
+        "text": "Träger des obligatorischen Volksschulunterrichts sind die Gemeinden oder die Gemeindeverbände. *"
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton unterstützt die Gemeinden und die Gemeindeverbände bei der Erfüllung dieser Aufgaben, insbesondere durch die Entlöhnung der Lehrpersonen und Mitglieder der Schulleitungen an den Volksschulen. *"
+      },
+      {
+        "num": "3",
+        "text": "Die Gemeinden und Gemeindeverbände beteiligen sich am Personalaufwand der Volksschulen. Das Gesetz legt den Rahmen der Beteiligung fest. *"
+      },
+      {
+        "num": "4",
+        "text": "Der Kanton unterstützt oder führt Sonderschulen und Heime."
+      },
+      {
+        "num": "5",
+        "text": "Er beaufsichtigt die Volksschulen sowie die Sonderschulen und Heime. *"
+      }
+    ],
     "30": [
       {
         "num": "1",
@@ -1161,6 +1237,16 @@
         "text": "Der Kanton trifft Vorkehren zur Erhaltung und Stärkung der Familie."
       }
     ],
+    "38bis": [
+      {
+        "num": "1",
+        "text": "Der Kanton und die Gemeinden berücksichtigen bei allen ihren Tätigkeiten die Anliegen und Bedürfnisse der Jugend."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton und die Gemeinden können die Schaffung entsprechender Infrastrukturen unterstützen."
+      }
+    ],
     "39": [
       {
         "num": "1",
@@ -1231,6 +1317,12 @@
       {
         "num": "5",
         "text": "Der Kanton Aargau schafft innert zwanzig Jahren nach Inkrafttreten dieser Verfassungsbestimmung zum Schutze des bedrohten Lebensraumes der Flussauen und zur Erhaltung der landschaftlich und biologisch einzigartigen, national bedeutsamen Reste der ehemaligen Auengebiete einen Auen-Schutzpark. Dieser setzt sich, ausgehend vom Wassertor der Schweiz, aus Teilflächen längs der Flüsse Aare und Reuss und ihrer Zuflüsse zusammen. Er weist eine Gesamtfläche von mindestens einem Prozent der Kantonsfläche auf. *"
+      }
+    ],
+    "42a": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden setzen sich für die Begrenzung des Klimawandels ein und stärken ihre Fähigkeit zur Anpassung an dessen nachteilige Auswirkungen. Sie berücksichtigen dabei die Ziele des Bundes und der für die Schweiz verbindlichen internationalen Abkommen."
       }
     ],
     "43": [
@@ -1353,6 +1445,12 @@
       {
         "num": "2",
         "text": "Der Kanton kann diese Befugnisse selber ausüben oder durch Gesetz oder Konzession auf Dritte übertragen. Bestehende Privatrechte an Regalgütern bleiben vorbehalten."
+      }
+    ],
+    "55bis": [
+      {
+        "num": "1",
+        "text": "… *"
       }
     ],
     "56": [
@@ -1551,6 +1649,12 @@
         "text": "Der Sitz des Grossen Rates, des Regierungsrates und des Obergerichtes ist Aarau."
       }
     ],
+    "71a": [
+      {
+        "num": "1",
+        "text": "Die Amtssprache ist Deutsch. Behörden und Amtsstellen können auch in anderen Landessprachen oder in englischer Sprache verkehren, wenn anderen Verfahrensbeteiligten daraus keine Nachteile erwachsen."
+      }
+    ],
     "72": [
       {
         "num": "1",
@@ -1649,6 +1753,16 @@
         "text": "Das Gesetz kann die Anwendbarkeit privater Ausführungsbestimmungen vorsehen. Es regelt die Voraussetzungen und Grenzen der Anwendbarkeit. *"
       }
     ],
+    "79": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat genehmigt die vom Gesetz bezeichneten Pläne der staatlichen Tätigkeiten."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt die Bindung der Behörden, die Mitbeteiligung des Grossen Rates sowie das Verfahren."
+      }
+    ],
     "80": [
       {
         "num": "1",
@@ -1683,6 +1797,12 @@
         "text": "Erfordern internationale oder interkantonale Verträge Verfassungsänderungen, sind diese vor der Genehmigung oder dem endgültigen Abschluss vorzunehmen."
       }
     ],
+    "83": [
+      {
+        "num": "1",
+        "text": "Das Präsidium des Grossen Rates besteht aus dem Präsidenten und zwei Vizepräsidenten. Der Präsident und die beiden Vizepräsidenten werden jährlich neu gewählt."
+      }
+    ],
     "84": [
       {
         "num": "1",
@@ -1695,6 +1815,12 @@
       {
         "num": "3",
         "text": "Die Mitglieder des Grossen Rates können Fraktionen bilden. Diesen werden Beiträge ausgerichtet."
+      }
+    ],
+    "85": [
+      {
+        "num": "1",
+        "text": "Das Recht, dem Grossen Rat neue Gegenstände zur Beratung zu unterbreiten, haben die Mitglieder, die Fraktionen und ständigen Kommissionen des Grossen Rates, der Regierungsrat und die Justizleitung. *"
       }
     ],
     "86": [
@@ -2221,6 +2347,12 @@
       {
         "num": "2",
         "text": "Auf diesen Zeitpunkt ist die Staatsverfassung vom 23. April 1885 des Kantons Aargau [3] aufgehoben."
+      }
+    ],
+    "126a": [
+      {
+        "num": "1",
+        "text": "Die in der Kantonsverfassung genannten Personen- und Funktionsbezeichnungen beziehen sich auf beide Geschlechter."
       }
     ],
     "127": [

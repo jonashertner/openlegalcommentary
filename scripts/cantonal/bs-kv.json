@@ -7,7 +7,7 @@
   "lexfind_id": 3293,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 147,
+  "article_count": 151,
   "articles": [
     {
       "number": 1,
@@ -104,6 +104,12 @@
       "suffix": "",
       "raw": "16",
       "title": "Überprüfung der Aufgabenerfüllung"
+    },
+    {
+      "number": 16,
+      "suffix": "a",
+      "raw": "16a",
+      "title": "Klimagerechtigkeit"
     },
     {
       "number": 17,
@@ -211,7 +217,7 @@
       "number": 34,
       "suffix": "",
       "raw": "34",
-      "title": "Raumplanung, Wohnschutz und Wohnumfeld&nbsp;<strong>*</strong>"
+      "title": "Raumplanung, Wohnschutz und Wohnumfeld *"
     },
     {
       "number": 35,
@@ -562,6 +568,12 @@
       "title": "Vorberatung"
     },
     {
+      "number": 93,
+      "suffix": "",
+      "raw": "93",
+      "title": "Aufträge an den Regierungsrat"
+    },
+    {
       "number": 94,
       "suffix": "",
       "raw": "94",
@@ -686,6 +698,12 @@
       "suffix": "",
       "raw": "114",
       "title": "Strafgerichtsbarkeit"
+    },
+    {
+      "number": 115,
+      "suffix": "",
+      "raw": "115",
+      "title": "Verwaltungsgerichtsbarkeit"
     },
     {
       "number": 116,
@@ -890,6 +908,12 @@
       "suffix": "",
       "raw": "149",
       "title": "Ausgabenbeschlüsse (§ 88 Abs. 2)"
+    },
+    {
+      "number": 150,
+      "suffix": "",
+      "raw": "150",
+      "title": "Änderung der Kantonsverfassung vom 3. Juni 2015"
     }
   ],
   "article_texts": {
@@ -1087,6 +1111,28 @@
       {
         "num": "1",
         "text": "Die zuständigen Behörden des Staates überprüfen die Erfüllung der öffentlichen Aufgaben periodisch auf ihre Notwendigkeit, Wirksamkeit und Effizienz sowie ihre finanziellen Auswirkungen und deren Tragbarkeit."
+      }
+    ],
+    "16a": [
+      {
+        "num": "1",
+        "text": "In Anerkennung der Klimakrise als Bedrohung für Mensch, Ökosysteme, Wirtschaft und ein friedvolles Zusammenleben sowie als Chance für gesellschaftliche Innovation trifft der Staat effektive Massnahmen zu Klimaschutz und zum Schutz vor den Folgen der Klimaerhitzung."
+      },
+      {
+        "num": "2",
+        "text": "Er sorgt im Rahmen seiner Kompetenzen dafür, dass der Ausstoss an Treibhausgasemissionen im Kanton Basel-Stadt in allen Sektoren bis 2037 auf Netto-Null sinkt."
+      },
+      {
+        "num": "3",
+        "text": "Dazu legt er verbindliche 5-Jahresziele und Absenkpfade für Treibhausgase fest und handelt im Sinne von Verursacherprinzip und umfassender Klimagerechtigkeit."
+      },
+      {
+        "num": "4",
+        "text": "Er setzt sich im Rahmen seiner Beteiligungen an Anstalten und Unternehmen des Finanz- und Verwaltungsvermögens dafür ein, dass diese in ihren gesamten Tätigkeiten den vorgenannten Zielen entsprechen."
+      },
+      {
+        "num": "5",
+        "text": "Er setzt sich beim Bund für die notwendigen Rahmenbedingungen ein."
       }
     ],
     "17": [
@@ -1965,6 +2011,12 @@
         "text": "Keiner Vorberatung bedürfen verfahrensleitende Beschlüsse des Grossen Rates und der Beschluss über die Ergreifung des Kantonsreferendums."
       }
     ],
+    "93": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat kann dem Regierungsrat Aufträge erteilen. Das Gesetz regelt die Einzelheiten, insbesondere die Instrumente, mit welchen der Grosse Rat auf den Zuständigkeitsbereich des Regierungsrates einwirken kann."
+      }
+    ],
     "94": [
       {
         "num": "1",
@@ -2217,6 +2269,12 @@
       {
         "num": "3",
         "text": "Durch Gesetz können Verwaltungsstrafbefugnisse auch auf die Verwaltungsbehörden des Kantons und der Gemeinden übertragen werden. Die richterliche Überprüfung bleibt vorbehalten."
+      }
+    ],
+    "115": [
+      {
+        "num": "1",
+        "text": "Die Verwaltungsgerichtsbarkeit obliegt dem Sozialversicherungsgericht, den vom Gesetz vorgesehenen Rekurskommissionen, dem Gericht für fürsorgerische Unterbringung und dem Appellationsgericht."
       }
     ],
     "116": [
@@ -2585,6 +2643,16 @@
       {
         "num": "1",
         "text": "Ausgabenbeschlüsse, die nach bisherigem Recht ohne Leistungsauftrag gefasst wurden, bleiben in Kraft, auch wenn das neue Recht solche Ausgaben an einen Leistungsauftrag bindet."
+      }
+    ],
+    "150": [
+      {
+        "num": "1",
+        "text": "Die laufende Amtsdauer der nach bisherigem Recht gewählten Gerichtspräsidentinnen und Gerichtspräsidenten, der Statthalterinnen und Statthalter sowie Richterinnen und Richter wird bis zum Beginn der Amtsdauer der nach neuem Recht zu wählenden Gerichtspräsidentinnen und Gerichtspäsidenten sowie Richterinnen und Richter verlängert."
+      },
+      {
+        "num": "2",
+        "text": "Die laufende Amtsdauer der nach bisherigem Recht gewählten Ersatzrichterinnen und Ersatzrichter des Sozialversicherungsgerichts wird bis zum Beginn der Amtsdauer der nach neuem Recht zu wählenden Richterinnen und Richter des Sozialversicherungsgerichts verlängert."
       }
     ]
   }

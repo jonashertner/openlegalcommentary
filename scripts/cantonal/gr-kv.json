@@ -6,7 +6,7 @@
   "title": "Verfassung des Kantons Graubünden",
   "lexfind_id": 9576,
   "fetched_at": "2026-04-14",
-  "source": "lexwork",
+  "source": "fedlex",
   "article_count": 104,
   "articles": [
     {
@@ -415,13 +415,13 @@
       "number": 68,
       "suffix": "",
       "raw": "68",
-      "title": "Regionen&nbsp;<strong>*</strong>"
+      "title": "Regionen"
     },
     {
       "number": 71,
       "suffix": "",
       "raw": "71",
-      "title": "Regionen&nbsp;<strong>*</strong>"
+      "title": "Regionen"
     },
     {
       "number": 74,
@@ -595,7 +595,7 @@
       "number": 102,
       "suffix": "",
       "raw": "102",
-      "title": "In-Kraft-Treten"
+      "title": "Inkrafttreten"
     },
     {
       "number": 103,
@@ -637,7 +637,7 @@
   "article_texts": {
     "1": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton Graubünden ist ein freiheitlicher, demokratischer und sozialer Rechtsstaat."
       }
     ],
@@ -670,7 +670,7 @@
       },
       {
         "num": "3",
-        "text": "Die Gemeinden bestimmen ihre Amts- und Schulsprachen im Rahmen ihrer Zuständigkeiten und im Zusammenwirken mit dem Kanton. Sie achten dabei auf die herkömmliche sprachliche Zusammensetzung und nehmen Rücksicht auf die angestammten sprachlichen Minderheiten. *"
+        "text": "Die Gemeinden bestimmen ihre Amts- und Schulsprachen im Rahmen ihrer Zuständigkeiten und im Zusammenwirken mit dem Kanton. Sie achten dabei auf die herkömmliche sprachliche Zusammensetzung und nehmen Rücksicht auf die angestammten sprachlichen Minderheiten.2"
       }
     ],
     "4": [
@@ -699,30 +699,30 @@
     ],
     "6": [
       {
-        "num": "1",
+        "num": null,
         "text": "Jede Person trägt Verantwortung für sich selbst sowie Mitverantwortung für die Gemeinschaft und für die Erhaltung der Lebensgrundlagen."
       }
     ],
     "7": [
       {
-        "num": "1",
-        "text": "Die Grundrechte und Sozialziele sind im Rahmen der Bundesverfassung und der für die Schweiz verbindlichen internationalen Abkommen gewährleistet."
+        "num": null,
+        "text": "Die Grundrechte und Sozialziele sind im Rahmen der Bundesverfassung3 und der für die Schweiz verbindlichen internationalen Abkommen gewährleistet."
       }
     ],
     "8": [
       {
-        "num": "1",
-        "text": "Die Verfahrensgarantien und der Rechtsschutz sind im Rahmen der Bundesverfassung und der für die Schweiz verbindlichen internationalen Abkommen gewährleistet."
+        "num": null,
+        "text": "Die Verfahrensgarantien und der Rechtsschutz sind im Rahmen der Bundesverfassung4 und der für die Schweiz verbindlichen internationalen Abkommen gewährleistet."
       }
     ],
     "9": [
       {
         "num": "1",
-        "text": "Das Stimm- und Wahlrecht steht allen Schweizerbürgerinnen und -bürgern zu, die das 18. Lebensjahr zurückgelegt haben und im Kanton wohnen."
+        "text": "Das Stimm- und Wahlrecht steht allen Schweizerbürgerinnen und ‑bürgern zu, die das 18. Lebensjahr zurückgelegt haben und im Kanton wohnen."
       },
       {
         "num": "2",
-        "text": "Vom Stimm- und Wahlrecht ausgeschlossen sind Personen, die wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten werden. *"
+        "text": "Vom Stimm- und Wahlrecht ausgeschlossen sind Personen, die wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten werden.5"
       },
       {
         "num": "3",
@@ -736,7 +736,7 @@
     "10": [
       {
         "num": "1",
-        "text": "Das allgemeine, gleiche, freie, direkte und geheime Wahl- und Stimmrecht ist gewährleistet. Vorbehalten bleiben offene Abstimmungen in Gemeindeversammlungen. *"
+        "text": "Das allgemeine, gleiche, freie, direkte und geheime Wahl- und Stimmrecht ist gewährleistet. Vorbehalten bleiben offene Abstimmungen in Gemeindeversammlungen.6"
       },
       {
         "num": "2",
@@ -745,8 +745,8 @@
     ],
     "11": [
       {
-        "num": "1",
-        "text": "Die Stimmberechtigten wählen: 1. die Mitglieder des Grossen Rates sowie deren Stellvertreterinnen und Stellvertreter; 2. die Mitglieder der Regierung; 3. die bündnerischen Mitglieder des National- und des Ständerates; 4. * die Mitglieder der Regionalgerichte; 5. * … 6. * … 7. die Mitglieder der Gemeindebehörden nach Massgabe der Gesetzgebung; 8. weitere Behörden, Amtsträgerinnen und Amtsträger nach Massgabe der Gesetzgebung."
+        "num": null,
+        "text": "Die Stimmberechtigten wählen:"
       }
     ],
     "12": [
@@ -756,7 +756,7 @@
       },
       {
         "num": "2",
-        "text": "3000 Stimmberechtigte oder ein Achtel der Gemeinden können mit einer Initiative verlangen: 1. Erlass, Änderung oder Aufhebung eines Gesetzes oder eines gemäss Verfassung der Volksabstimmung unterliegenden Beschlusses; 2. Einreichung einer Standesinitiative an die Bundesversammlung."
+        "text": "3000 Stimmberechtigte oder ein Achtel der Gemeinden können mit einer Initiative verlangen:"
       }
     ],
     "13": [
@@ -772,7 +772,7 @@
     "14": [
       {
         "num": "1",
-        "text": "Eine Initiative ist ganz oder teilweise ungültig, wenn sie: 1. die Einheit der Form oder der Materie nicht wahrt; 2. in offensichtlichem Widerspruch zu übergeordnetem Recht steht; 3. undurchführbar ist; 4. eine Rückwirkung vorsieht, die mit rechtsstaatlichen Grundsätzen nicht vereinbar ist."
+        "text": "Eine Initiative ist ganz oder teilweise ungültig, wenn sie:"
       },
       {
         "num": "2",
@@ -780,7 +780,7 @@
       },
       {
         "num": "3",
-        "text": "Über die Ungültigkeit entscheidet der Grosse Rat. Dieser Entscheid ist an das Obergericht weiterziehbar. *"
+        "text": "Über die Ungültigkeit entscheidet der Grosse Rat. Dieser Entscheid ist an das Verwaltungsgericht weiterziehbar."
       }
     ],
     "15": [
@@ -799,22 +799,22 @@
     ],
     "16": [
       {
-        "num": "1",
-        "text": "Der Volksabstimmung werden unterstellt: 1. Änderungen der Kantonsverfassung; 2. Abschluss, Änderung oder Kündigung von interkantonalen und internationalen Verträgen mit verfassungsänderndem Inhalt; 3. Volksinitiativen, denen der Grosse Rat nicht zustimmt oder denen er einen Gegenvorschlag gegenüberstellt; 4. Beschlüsse des Grossen Rates über neue einmalige Ausgaben von mehr als zehn Millionen Franken und über neue jährlich wiederkehrende Ausgaben von mehr als einer Million Franken; 5. Beschlüsse des Grossen Rates über Grundsatzfragen gemäss Artikel 19 Absatz 1. 6. * …"
+        "num": null,
+        "text": "Der Volksabstimmung werden unterstellt:"
       }
     ],
     "17": [
       {
         "num": "1",
-        "text": "Wenn 1500 Stimmberechtigte oder ein Zehntel der Gemeinden es verlangen, werden der Volksabstimmung unterstellt: 1. Erlass, Änderung oder Aufhebung von Gesetzen; 2. Abschluss, Änderung oder Kündigung von interkantonalen und internationalen Verträgen mit gesetzesänderndem Inhalt; 3. Beschlüsse des Grossen Rates über neue einmalige Ausgaben zwischen einer Million und zehn Millionen Franken sowie über neue jährlich wiederkehrende Ausgaben zwischen 300 000 und einer Million Franken."
+        "text": "Wenn 1500 Stimmberechtigte oder ein Zehntel der Gemeinden es verlangen, werden der Volksabstimmung unterstellt:"
       },
       {
         "num": "2",
-        "text": "Der Grosse Rat kann Beschlüsse, die in seine abschliessende Kompetenz fallen, dem fakultativen Referendum unterstellen. Nicht referendumsfähig sind Beschlüsse über den Steuerfuss, das Budget und die Jahresrechnung sowie Justizgeschäfte und Wahlen."
+        "text": "Der Grosse Rat kann Beschlüsse, die in seine abschliessende Kompetenz fallen, dem fakultativen Referendum unterstellen. Nicht referendumsfähig sind Beschlüsse über den Steuerfuss, das Budget und die Staatsrechnung sowie Justizgeschäfte und Wahlen."
       },
       {
         "num": "3",
-        "text": "Das Begehren um Durchführung der Volksabstimmung ist innert 90 Tagen nach der amtlichen Veröffentlichung des Beschlusses zu stellen."
+        "text": "Das Begehren um Durchführung der Volksabstimmung ist innert 90 Tagen nach der amtlichen Veröffentlichung des Beschlusses zu stellen."
       }
     ],
     "18": [
@@ -854,25 +854,21 @@
     "21": [
       {
         "num": "1",
-        "text": "In die kantonalen Behörden sowie in den Ständerat sind die Stimmberechtigten des Kantons wählbar. Das Gesetz kann vorsehen, dass die Wählbarkeitsvoraussetzung erst bei Amtsantritt erfüllt sein muss. *"
-      },
-      {
-        "num": "1",
-        "text": "bis Für die Mitglieder der richterlichen Behörden kann im Gesetz vom Wohnsitzerfordernis als Wählbarkeitsvoraussetzung abgesehen werden. *"
+        "text": "In die kantonalen Behörden und Gerichte sowie in den Ständerat sind die Stimmberechtigten des Kantons wählbar. Das Gesetz kann vorsehen, dass die Wählbarkeitsvoraussetzung erst bei Amtsantritt erfüllt sein muss.10"
       },
       {
         "num": "2",
-        "text": "Weitere Wählbarkeitsvoraussetzungen für die Mitglieder von kantonalen Behörden sowie die Anstellungsvoraussetzungen für das Staatspersonal werden durch Gesetz geregelt. *"
+        "text": "Weitere Wählbarkeitsvoraussetzungen für die kantonalen Behörden und Gerichte sowie die Anstellungsvoraussetzungen für das Staatspersonal werden durch Gesetz geregelt."
       },
       {
         "num": "3",
-        "text": "Das Gesetz regelt die Einstellung im Amt und die Amtsenthebung von Mitgliedern von kantonalen Behörden. *"
+        "text": "Das Gesetz regelt die Einstellung im Amt und die Amtsenthebung von Mitgliedern von Behörden und Gerichten.11"
       }
     ],
     "22": [
       {
         "num": "1",
-        "text": "Niemand darf seiner kantonalen Rechtsmittelbehörde oder seiner unmittelbaren Aufsichtsbehörde angehören. Das Gesetz kann Ausnahmen vorsehen. *"
+        "text": "Niemand darf seiner unmittelbaren Aufsichtsbehörde angehören."
       },
       {
         "num": "2",
@@ -880,11 +876,11 @@
       },
       {
         "num": "3",
-        "text": "Richterinnen und Richter dürfen nicht der Regierung angehören. *"
+        "text": "Richterinnen und Richter dürfen nicht gleichzeitig der Regierung oder einer anderen richterlichen Behörde im Kanton angehören."
       },
       {
         "num": "4",
-        "text": "Mitglieder der Regierung und Mitglieder der richterlichen Behörden, die im Vollpensum tätig sind, dürfen nicht der Bundesversammlung oder dem Bundesgericht angehören. *"
+        "text": "Mitglieder der Regierung und die vollamtlichen Mitglieder einer richterlichen Behörde dürfen nicht der Bundesversammlung oder dem Bundesgericht angehören."
       },
       {
         "num": "5",
@@ -893,8 +889,8 @@
     ],
     "23": [
       {
-        "num": "1",
-        "text": "Die Amtsdauer des Grossen Rates, der Regierung, der ordentlichen Mitglieder der richterlichen Behörden sowie der Mitglieder des Ständerates beträgt vier Jahre. *"
+        "num": null,
+        "text": "Die Amtsdauer des Grossen Rates, der Regierung, der Gerichte sowie der Mitglieder des Ständerates beträgt vier Jahre."
       }
     ],
     "24": [
@@ -909,14 +905,14 @@
     ],
     "25": [
       {
-        "num": "1",
+        "num": null,
         "text": "Behörden und Gerichte informieren die Öffentlichkeit regelmässig über ihre Tätigkeit."
       }
     ],
     "26": [
       {
         "num": "1",
-        "text": "Der Kanton, die Regionen und Gemeinden sowie die übrigen öffentlichrechtlichen Körperschaften und selbständigen Anstalten haften unabhängig vom Verschulden für Schäden, welche ihre Organe und die in ihrem Dienst stehenden Personen in Ausübung dienstlicher Tätigkeiten rechtswidrig verursacht haben. *"
+        "text": "Der Kanton, die Regionen und Gemeinden sowie die übrigen öffentlich-rechtlichen Körperschaften und selbständigen Anstalten haften unabhängig vom Verschulden für Schäden, welche ihre Organe und die in ihrem Dienst stehenden Personen in Ausübung dienstlicher Tätigkeiten rechtswidrig verursacht haben.12"
       },
       {
         "num": "2",
@@ -930,11 +926,11 @@
       },
       {
         "num": "2",
-        "text": "Die Wahl erfolgt nach dem Verhältniswahlverfahren. Das Gesetz kann Mindestquoren und eine Majorzbedingung vorsehen. *"
+        "text": "Die Wahl erfolgt nach dem Verhältniswahlverfahren. Das Gesetz kann Mindestquoren und eine Majorzbedingung vorsehen.13"
       },
       {
         "num": "3",
-        "text": "Der Kanton ist in höchstens 39 Wahlkreise eingeteilt. Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Wahlkreisen sowie die Auswirkungen von Gemeindezusammenschlüssen auf die Anzahl der Wahlkreise. *"
+        "text": "Der Kanton ist in höchstens 39 Wahlkreise eingeteilt. Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Wahlkreisen sowie die Auswirkungen von Gemeindezusammenschlüssen auf die Anzahl der Wahlkreise.14"
       },
       {
         "num": "4",
@@ -961,13 +957,13 @@
     ],
     "29": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Sitzungen des Grossen Rates sind in der Regel öffentlich."
       }
     ],
     "30": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Grosse Rat übt unter Vorbehalt der Volksrechte die oberste Gewalt aus. Er ist die gesetzgebende Behörde und die oberste Aufsichtsinstanz des Kantons."
       }
     ],
@@ -978,7 +974,7 @@
       },
       {
         "num": "2",
-        "text": "Wichtige Bestimmungen sind insbesondere jene, für welche die Verfassung das Gesetz vorsieht, sowie solche betreffend: 1. Zweck und Umfang von Grundrechtsbeschränkungen; 2. Kreis der Abgabepflichtigen, Gegenstand und Bemessungsgrundlagen von Abgaben, soweit diese nicht von geringfügiger Natur sind; 3. Zweck, Inhalt und Umfang von bedeutenden staatlichen Leistungen; 4. Grundsätze der Aufgabenverteilung zwischen Kanton und Gemeinden; 5. * Grundsätze von Organisation und Aufgaben der kantonalen Behörden; 6. Art und Umfang der Übertragung von hoheitlichen und anderen bedeutenden öffentlichen Aufgaben an Trägerschaften ausserhalb der kantonalen Verwaltung."
+        "text": "Wichtige Bestimmungen sind insbesondere jene, für welche die Verfassung das Gesetz vorsieht, sowie solche betreffend:"
       },
       {
         "num": "3",
@@ -1002,7 +998,7 @@
     "33": [
       {
         "num": "1",
-        "text": "Der Grosse Rat übt die Aufsicht über die Regierung sowie das Obergericht und das Justizgericht aus. *"
+        "text": "Der Grosse Rat übt die Aufsicht über die Regierung sowie das Kantonsgericht und das Verwaltungsgericht aus."
       },
       {
         "num": "2",
@@ -1026,7 +1022,7 @@
     "35": [
       {
         "num": "1",
-        "text": "Der Grosse Rat setzt unter Berücksichtigung des Finanzplans das Budget fest und genehmigt die Jahresrechnung. Das Gesetz kann Ausnahmen vorsehen. *"
+        "text": "Der Grosse Rat setzt unter Berücksichtigung des Finanzplans das Budget fest und genehmigt die Staatsrechnung. Das Gesetz kann Ausnahmen vorsehen.15"
       },
       {
         "num": "2",
@@ -1034,18 +1030,18 @@
       },
       {
         "num": "3",
-        "text": "Er beschliesst abschliessend über neue einmalige Ausgaben bis zu einer Million Franken und über neue jährlich wiederkehrende Ausgaben bis 300 000 Franken."
+        "text": "Er beschliesst abschliessend über neue einmalige Ausgaben bis zu einer Million Franken und über neue jährlich wiederkehrende Ausgaben bis 300 000 Franken."
       }
     ],
     "36": [
       {
-        "num": "1",
-        "text": "Der Grosse Rat wählt: 1. seine Organe und Kommissionen; 2. das Präsidium der Regierung; 3. * die Mitglieder des Obergerichts und des Justizgerichts; 4. weitere Amtsinhaberinnen und -inhaber nach Massgabe der Gesetzgebung."
+        "num": null,
+        "text": "Der Grosse Rat wählt:"
       }
     ],
     "37": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Grosse Rat entscheidet über Begnadigungsgesuche. Das Gesetz kann den Entscheid über Begnadigungsgesuche der Regierung übertragen."
       }
     ],
@@ -1075,7 +1071,7 @@
     ],
     "40": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Grosse Rat wählt aus der Mitte der Regierung die Präsidentin oder den Präsidenten sowie die Vizepräsidentin oder den Vizepräsidenten für eine Amtsdauer von einem Jahr."
       }
     ],
@@ -1143,14 +1139,14 @@
     ],
     "46": [
       {
-        "num": "1",
-        "text": "Die Regierung erstellt den Finanzplan und verabschiedet das Budget sowie die Jahresrechnung zuhanden des Grossen Rates."
+        "num": null,
+        "text": "Die Regierung erstellt den Finanzplan und verabschiedet das Budget sowie die Staatsrechnung zuhanden des Grossen Rates."
       }
     ],
     "47": [
       {
-        "num": "1",
-        "text": "Weitere Aufgaben der Regierung sind insbesondere: 1. der Verkehr mit dem Bund und den anderen Kantonen sowie mit dem benachbarten Ausland unter Berücksichtigung von allfälligen Stellungnahmen des Grossen Rates; 2. Wahlen, soweit diese nicht anderen Organen übertragen worden sind; 3. die jährliche Berichterstattung über die Tätigkeit von Regierung und Verwaltung zuhanden des Grossen Rates; 4. die Wahrung der öffentlichen Ordnung und Sicherheit; 5. die Aufsicht über öffentlichrechtliche Körperschaften sowie andere Träger öffentlicher Aufgaben des Kantons."
+        "num": null,
+        "text": "Weitere Aufgaben der Regierung sind insbesondere:"
       }
     ],
     "48": [
@@ -1180,65 +1176,65 @@
       },
       {
         "num": "2",
-        "text": "Eine hinreichende Aufsicht, eine angemessene Mitwirkung des Grossen Rates und der Rechtsschutz müssen sichergestellt sein. *"
+        "text": "Die Aufsicht durch die Regierung, eine angemessene Mitwirkung des Grossen Rates und der Rechtsschutz müssen sichergestellt sein."
       },
       {
         "num": "3",
-        "text": "Soweit nicht die Form des Gesetzes vorgeschrieben ist, können selbständige Anstalten des kantonalen öffentlichen Rechts Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden. *"
+        "text": "Soweit nicht die Form des Gesetzes vorgeschrieben ist, können selbstständige Anstalten des kantonalen öffentlichen Rechts Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.17"
       }
     ],
     "51": [
       {
         "num": "1",
-        "text": "Die Unabhängigkeit und die Unparteilichkeit der richterlichen Behörden sind gewährleistet. Die richterlichen Behörden sind in ihrer Rechtsprechung nur dem Recht verpflichtet. *"
+        "text": "Die Unabhängigkeit und die Unparteilichkeit der Gerichte sind gewährleistet. Die Gerichte sind in ihrer Rechtsprechung nur dem Recht verpflichtet."
       },
       {
         "num": "2",
-        "text": "Die Justizverwaltung ist unter Vorbehalt der Befugnisse des Grossen Rates Sache der richterlichen Behörden. *"
+        "text": "Die Justizverwaltung ist unter Vorbehalt der Befugnisse des Grossen Rates Sache der Gerichte."
       },
       {
         "num": "3",
-        "text": "… *"
+        "text": "Richterinnen und Richter dürfen Parteien nicht in streitigen Verfahren vor der eigenen Instanz vertreten."
       },
       {
         "num": "4",
-        "text": "… *"
+        "text": "Vollamtlichen Mitgliedern einer richterlichen Behörde ist jede Nebenbeschäftigung untersagt. Das Gesetz kann Ausnahmen vorsehen."
       }
     ],
     "52": [
       {
         "num": "1",
-        "text": "Das Obergericht übt die Aufsicht über die Zivil-, die Straf- und die Verwaltungsrechtspflege aus, soweit diese den richterlichen Behörden obliegen. Dem Obergericht können weitere Aufsichtsaufgaben durch Gesetz zugewiesen werden. *"
+        "text": "Das Kantonsgericht übt die Aufsicht über alle Bereiche der Zivil- und Strafrechtspflege aus."
       },
       {
         "num": "2",
-        "text": "Der Grosse Rat übt die Aufsicht über das Obergericht und das Justizgericht sowie die Oberaufsicht über die vom Obergericht beaufsichtigten Behörden aus. *"
+        "text": "Der Grosse Rat übt die Aufsicht über das Kantonsgericht und das Verwaltungsgericht sowie die Oberaufsicht über die anderen Zweige der Rechtspflege aus."
       },
       {
         "num": "3",
-        "text": "Aufsicht und Oberaufsicht gegenüber den richterlichen Behörden beschränken sich auf die Justizverwaltung. *"
+        "text": "Aufsicht und Oberaufsicht beschränken sich auf die Geschäftsführung und die Justizverwaltung."
       }
     ],
     "53": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Parteiverhandlungen vor Gericht sind unter Vorbehalt gesetzlicher Ausnahmen öffentlich."
       }
     ],
     "54": [
       {
-        "num": "1",
-        "text": "Die Zivil- und die Strafgerichtsbarkeit werden ausgeübt durch: 1. * das Obergericht; 2. * die Regionalgerichte als untere kantonale Gerichte; 3. * … 4. * das kantonale Zwangsmassnahmengericht; 5. * die Schlichtungsbehörden."
+        "num": null,
+        "text": "Die Zivil- und die Strafgerichtsbarkeit werden ausgeübt durch:"
       }
     ],
     "55": [
       {
         "num": "1",
-        "text": "Die Verwaltungsgerichtsbarkeit wird ausgeübt durch: * 1. * das Obergericht; 2. * das Justizgericht; 3. * weitere Spezialverwaltungsgerichte."
+        "text": "Die letztinstanzliche Beurteilung von öffentlich-rechtlichen Streitigkeiten obliegt dem Verwaltungsgericht, sofern nicht ein Gesetz etwas anderes bestimmt."
       },
       {
         "num": "2",
-        "text": "Das Obergericht beurteilt als Verfassungsgericht: * 1. Beschwerden wegen Verletzung von verfassungsmässigen und politischen Rechten sowie des Grundsatzes des Vorrangs von übergeordnetem Recht; 2. * Beschwerden wegen Verletzung der Autonomie der Gemeinden und anderer öffentlichrechtlicher Körperschaften sowie der Landeskirchen."
+        "text": "Das Verwaltungsgericht beurteilt als Verfassungsgericht:"
       },
       {
         "num": "3",
@@ -1247,7 +1243,7 @@
     ],
     "56": [
       {
-        "num": "1",
+        "num": null,
         "text": "Durch Gesetz können weitere richterliche sowie aussergerichtliche Behörden eingesetzt werden."
       }
     ],
@@ -1263,7 +1259,7 @@
     ],
     "58": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Grosse Rat oder die Regierung kann im Namen des Kantons verlangen, dass Bundesgesetze, Bundesbeschlüsse sowie Staatsverträge dem Volk zur Abstimmung vorgelegt werden."
       }
     ],
@@ -1309,13 +1305,13 @@
     ],
     "63": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Zusammenschluss von Gemeinden wird durch Gesetz geregelt."
       }
     ],
     "64": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton fördert die interkommunale Zusammenarbeit und den Zusammenschluss von Gemeinden, um die zweckmässige und wirtschaftliche Erfüllung ihrer Aufgaben sicherzustellen."
       }
     ],
@@ -1332,7 +1328,7 @@
     "66": [
       {
         "num": "1",
-        "text": "Die obligatorischen Organe der politischen Gemeinden sind: 1. die Gesamtheit der Stimmberechtigten, welche ihre politischen Rechte in der Gemeindeversammlung oder an der Urne ausüben; 2. der Gemeindevorstand; 3. weitere Behörden nach Massgabe der Gesetzgebung."
+        "text": "Die obligatorischen Organe der politischen Gemeinden sind:"
       },
       {
         "num": "2",
@@ -1356,35 +1352,35 @@
     "68": [
       {
         "num": "1",
-        "text": "Der Kanton ist in folgende Regionen gegliedert: * 1. * Albula; 2. * Bernina; 3. * Engiadina Bassa/Val Müstair; 4. * Imboden; 5. * Landquart; 6. * Maloja; 7. * Moesa; 8. * Plessur; 9. * Prättigau/Davos; 10. * Surselva; 11. * Viamala."
+        "text": "Der Kanton ist in folgende Regionen gegliedert:"
       },
       {
         "num": "2",
-        "text": "Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Regionen. *"
+        "text": "Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Regionen."
       }
     ],
     "71": [
       {
         "num": "1",
-        "text": "Die Regionen sind Körperschaften des kantonalen öffentlichen Rechts und erfüllen ausschliesslich die Aufgaben, die ihnen durch den Kanton oder die Gemeinden übertragen werden. *"
+        "text": "Die Regionen sind Körperschaften des kantonalen öffentlichen Rechts und erfüllen ausschliesslich die Aufgaben, die ihnen durch den Kanton oder die Gemeinden übertragen werden."
       },
       {
         "num": "2",
-        "text": "Die Organisation der Regionen sowie die politischen Rechte richten sich nach dem Gesetz. *"
+        "text": "Die Organisation der Regionen sowie die politischen Rechte richten sich nach dem Gesetz."
       },
       {
         "num": "3",
-        "text": "Die Regionen bilden die Gerichtssprengel für die Regionalgerichte. *"
+        "text": "Die Regionen bilden die Gerichtssprengel für die Regionalgerichte."
       }
     ],
     "74": [
       {
         "num": "1",
-        "text": "Die Regierung übt im Rahmen des kantonalen Rechts die Aufsicht über die Regionen aus. Davon ausgenommen ist die Justizaufsicht. *"
+        "text": "Die Regierung übt im Rahmen des kantonalen Rechts die Aufsicht über die Regionen aus. Davon ausgenommen ist die Justizaufsicht."
       },
       {
         "num": "2",
-        "text": "Im Bereich von Aufgaben, die den Regionen von den Gemeinden übertragen worden sind, beschränkt sich die Aufsicht auf die Rechtskontrolle, soweit nicht durch Gesetz etwas anderes bestimmt wird. *"
+        "text": "Im Bereich von Aufgaben, die den Regionen von den Gemeinden übertragen worden sind, beschränkt sich die Aufsicht auf die Rechtskontrolle, soweit nicht durch Gesetz etwas anderes bestimmt wird."
       }
     ],
     "75": [
@@ -1412,18 +1408,18 @@
       },
       {
         "num": "2",
-        "text": "Kanton, Regionen und Gemeinden wirken bei der Erfüllung öffentlicher Aufgaben zusammen. Die Zusammenarbeit mit Privaten ist soweit als möglich anzustreben. *"
+        "text": "Kanton, Regionen und Gemeinden wirken bei der Erfüllung öffentlicher Aufgaben zusammen. Die Zusammenarbeit mit Privaten ist soweit als möglich anzustreben.32"
       }
     ],
     "77": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton erfüllt öffentliche Aufgaben dezentral, wenn insbesondere die Art der Aufgabe, wirtschaftlicher Mitteleinsatz oder wirksame Aufgabenerfüllung es ermöglichen."
       }
     ],
     "78": [
       {
-        "num": "1",
+        "num": null,
         "text": "Öffentliche Aufgaben sind periodisch auf ihre Notwendigkeit, Wirksamkeit und Finanzierbarkeit zu prüfen."
       }
     ],
@@ -1439,7 +1435,7 @@
     ],
     "80": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden streben eine zweckmässige, haushälterische, koordinierte und nachhaltige Nutzung und Entwicklung des Kantonsgebietes an. Sie berücksichtigen dabei die Bedürfnisse von Menschen und Umwelt sowie die dezentrale Besiedlung."
       }
     ],
@@ -1500,13 +1496,13 @@
       },
       {
         "num": "4",
-        "text": "Sie treffen Massnahmen, um die Regelungsdichte und administrative Belastung für Unternehmen, insbesondere für kleine und mittlere Unternehmen (KMU), so gering wie möglich zu halten. *"
+        "text": "Sie treffen Massnahmen, um die Regelungsdichte und administrative Belastung für Unternehmen, insbesondere für kleine und mittlere Unternehmen (KMU), so gering wie möglich zu halten.34"
       }
     ],
     "85": [
       {
         "num": "1",
-        "text": "Die Regalrechte des Kantons sind: 1. das Salzregal; 2. das Jagdregal; 3. das Fischereiregal."
+        "text": "Die Regalrechte des Kantons sind:"
       },
       {
         "num": "2",
@@ -1559,7 +1555,7 @@
     ],
     "88": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden schaffen günstige Rahmenbedingungen für Familien."
       }
     ],
@@ -1579,13 +1575,13 @@
     ],
     "90": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden fördern das künstlerische, kulturelle und wissenschaftliche Schaffen sowie den kulturellen Austausch. Sie nehmen dabei auf die sprachliche Vielfalt und die regionalen Besonderheiten Rücksicht."
       }
     ],
     "91": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden unterstützen die sinnvolle Freizeitgestaltung, die Jugendarbeit und den Sport."
       }
     ],
@@ -1596,7 +1592,7 @@
       },
       {
         "num": "2",
-        "text": "Er unterstützt die humanitäre Hilfe für notleidende Menschen und Völker."
+        "text": "Er unterstützt die humanitäre Hilfe für Not leidende Menschen und Völker."
       }
     ],
     "93": [
@@ -1657,14 +1653,14 @@
     ],
     "97": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Grosse Rat übt die Finanzaufsicht aus. Er wird dabei durch ein unabhängiges Kontrollorgan unterstützt."
       }
     ],
     "98": [
       {
         "num": "1",
-        "text": "Die evangelisch-reformierte Kirche und die römisch-katholische Kirche sind öffentlichrechtlich anerkannt."
+        "text": "Die evangelisch-reformierte Kirche und die römisch-katholische Kirche sind öffentlich-rechtlich anerkannt."
       },
       {
         "num": "2",
@@ -1672,7 +1668,7 @@
       },
       {
         "num": "3",
-        "text": "Durch Gesetz können weitere Religionsgemeinschaften öffentlichrechtlich anerkannt werden."
+        "text": "Durch Gesetz können weitere Religionsgemeinschaften öffentlich-rechtlich anerkannt werden."
       }
     ],
     "99": [
@@ -1699,7 +1695,7 @@
     ],
     "100": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die übrigen Religionsgemeinschaften unterstehen dem Privatrecht."
       }
     ],
@@ -1728,7 +1724,7 @@
       },
       {
         "num": "2",
-        "text": "Auf diesen Zeitpunkt wird die Verfassung für den Kanton Graubünden vom 2. Oktober 1892 [2] aufgehoben."
+        "text": "Auf diesen Zeitpunkt wird die Verfassung für den Kanton Graubünden vom 2. Oktober 1892 aufgehoben."
       },
       {
         "num": "3",
@@ -1746,11 +1742,15 @@
       },
       {
         "num": "3",
-        "text": "Bis zum In-Kraft-Treten entsprechender gesetzlicher Bestimmungen gelten folgende Bestimmungen der Verfassung für den Kanton Graubünden vom 2. Oktober 1892 weiter: [3] 1. Art. 27 Abs. 1 und 2 2. Art. 39 Abs. 4 3. Art. 40 Abs. 5 Satz 2 und 3 sowie Abs. 6"
+        "text": "Bis zum In-Kraft-Treten entsprechender gesetzlicher Bestimmungen gelten folgende Bestimmungen der Verfassung für den Kanton Graubünden vom 2. Oktober 1892 weiter:"
       },
       {
         "num": "4",
-        "text": "Bis längstens 31. Dezember 2008 gilt Artikel 38 Absatz 2 der Verfassung für den Kanton Graubünden vom 2. Oktober 1892 weiter: [4]"
+        "text": "Bis längstens 31. Dezember 2008 gilt Artikel 38 Absatz 2 der Verfassung für den Kanton Graubünden vom 2. Oktober 1892 weiter:"
+      },
+      {
+        "num": null,
+        "text": "Sie sind berechtigt, ihre politischen und administrativen Angelegenheiten durch allgemein verbindliche Verordnungen zu regeln, und zur Deckung ihrer Verwaltungsausgaben nach billigen und gerechten Grundsätzen Kreissteuern zu erheben. Die Erhebung einer Quellensteuer steht nur dem Kanton zu. Allfällige Progressivsteuern dürfen die Ansätze des jeweiligen kantonalen Steuergesetzes nicht überschreiten."
       }
     ],
     "104": [
@@ -1760,13 +1760,13 @@
       },
       {
         "num": "2",
-        "text": "Die Regierung unterbreitet dem Grossen Rat innert drei Jahren ab In-Kraft-Treten dieser Verfassung Vorschläge für die erforderliche Anpassung der Gesetzgebung."
+        "text": "Die Regierung unterbreitet dem Grossen Rat innert drei Jahren ab In‑Kraft-Treten dieser Verfassung Vorschläge für die erforderliche Anpassung der Gesetzgebung."
       }
     ],
     "105": [
       {
         "num": "1",
-        "text": "Die Mitglieder der Behörden und Gerichte bleiben unter Vorbehalt der folgenden Ausnahmen bis zum Ablauf der Amtsperiode nach bisherigem Recht im Amt: 1. Die Amtsdauer der Mitglieder des Grossen Rates und deren Stellvertreterinnen und Stellvertreter wird bis 31. Juli 2006 verlängert; 2. Die Amtsdauer der Kreispräsidentinnen und Kreispräsidenten sowie deren Stellvertreterinnen und Stellvertreter wird bis 31. Juli 2006 verlängert; 3. Die Amtsdauer der bündnerischen Mitglieder des Ständerates wird bis 25. November 2007 verlängert."
+        "text": "Die Mitglieder der Behörden und Gerichte bleiben unter Vorbehalt der folgenden Ausnahmen bis zum Ablauf der Amtsperiode nach bisherigem Recht im Amt:"
       },
       {
         "num": "2",
@@ -1808,19 +1808,19 @@
     "108": [
       {
         "num": "1",
-        "text": "Kreise, welche von Gemeinden delegierte Aufgaben wahrnehmen, bestehen bis zwei Jahre nach Inkrafttreten der Einteilung des Kantons in Regionen als Körperschaften des kantonalen öffentlichen Rechts weiter. Die Amtsdauer der Präsidentinnen und Präsidenten sowie deren Stellvertreterinnen und Stellvertreter der übrigen Kreise verlängert sich bis zum Aufhebungszeitpunkt. *"
+        "text": "Kreise, welche von Gemeinden delegierte Aufgaben wahrnehmen, bestehen bis zwei Jahre nach Inkrafttreten der Einteilung des Kantons in Regionen als Körperschaften des kantonalen öffentlichen Rechts weiter. Die Amtsdauer der Präsidentinnen und Präsidenten sowie deren Stellvertreterinnen und Stellvertreter der übrigen Kreise verlängert sich bis zum Aufhebungszeitpunkt."
       },
       {
         "num": "2",
-        "text": "Bis Ende 2016 bilden die Bezirke Gerichtssprengel für die Zivil- und Strafgerichtsbarkeit. Deren Rechtsstellung richtet sich nach dem Gesetz. *"
+        "text": "Bis Ende 2016 bilden die Bezirke Gerichtssprengel für die Zivil- und Strafgerichtsbarkeit. Deren Rechtsstellung richtet sich nach dem Gesetz."
       },
       {
         "num": "3",
-        "text": "Ab Inkrafttreten der Einteilung des Kantons in Regionen dürfen den Kreisen und Regionalverbänden keine Aufgaben mehr zugewiesen werden. *"
+        "text": "Ab Inkrafttreten der Einteilung des Kantons in Regionen dürfen den Kreisen und Regionalverbänden keine Aufgaben mehr zugewiesen werden."
       },
       {
         "num": "4",
-        "text": "Die Staatshaftung für sowie die Aufsicht über die Kreise, Bezirke und Regionalverbände sind für die gesamte Dauer ihres Bestehens in dem Masse gewährleistet, wie dies die Verfassung des Kantons Graubünden vom 18. Mai 2003/14. September 2003 vorsah. *"
+        "text": "Die Staatshaftung für sowie die Aufsicht über die Kreise, Bezirke und Regionalverbände sind für die gesamte Dauer ihres Bestehens in dem Masse gewährleistet, wie dies die Verfassung des Kantons Graubünden vom 18. Mai 2003/14. September 2003 vorsah."
       }
     ]
   }

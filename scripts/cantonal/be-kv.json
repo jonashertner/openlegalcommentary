@@ -3,11 +3,11 @@
   "law_key": "be-kv",
   "sr_number": "101.1",
   "language": "de",
-  "title": "Verfassung des Kantons Bern",
+  "title": "Verfassungdes Kantons Bern (KV)1",
   "lexfind_id": 23149,
   "fetched_at": "2026-04-14",
-  "source": "lexwork",
-  "article_count": 133,
+  "source": "fedlex",
+  "article_count": 135,
   "articles": [
     {
       "number": 1,
@@ -91,7 +91,7 @@
       "number": 14,
       "suffix": "",
       "raw": "14",
-      "title": "Glaubens- und Gewissensfreiheit"
+      "title": "Glaubens-  und Gewissensfreiheit"
     },
     {
       "number": 15,
@@ -121,7 +121,7 @@
       "number": 19,
       "suffix": "",
       "raw": "19",
-      "title": "Versammlungs- und Vereinsfreiheit"
+      "title": "Versammlungs- und Vereinsfreiheit"
     },
     {
       "number": 20,
@@ -181,13 +181,13 @@
       "number": 29,
       "suffix": "",
       "raw": "29",
-      "title": ""
+      "title": "Schranken der Grundrechte, Kerngehalt"
     },
     {
       "number": 30,
       "suffix": "",
       "raw": "30",
-      "title": ""
+      "title": "Schranken der Grundrechte, Kerngehalt"
     },
     {
       "number": 31,
@@ -205,7 +205,7 @@
       "number": 33,
       "suffix": "",
       "raw": "33",
-      "title": ""
+      "title": "Landschafts- und Heimatschutz"
     },
     {
       "number": 34,
@@ -229,7 +229,7 @@
       "number": 37,
       "suffix": "",
       "raw": "37",
-      "title": ""
+      "title": "Reinigung der Abwässer und Entsorgung der Abfälle"
     },
     {
       "number": 38,
@@ -253,7 +253,7 @@
       "number": 41,
       "suffix": "",
       "raw": "41",
-      "title": ""
+      "title": "Wohnung"
     },
     {
       "number": 42,
@@ -283,7 +283,7 @@
       "number": 46,
       "suffix": "",
       "raw": "46",
-      "title": ""
+      "title": "Weitere Aufgaben"
     },
     {
       "number": 47,
@@ -313,7 +313,7 @@
       "number": 51,
       "suffix": "",
       "raw": "51",
-      "title": "Land- und Forstwirtschaft"
+      "title": "Land- und Forstwirtschaft"
     },
     {
       "number": 52,
@@ -331,13 +331,13 @@
       "number": 54,
       "suffix": "",
       "raw": "54",
-      "title": ""
+      "title": "Kantonalbank"
     },
     {
       "number": 55,
       "suffix": "",
       "raw": "55",
-      "title": ""
+      "title": "Kantonalbank"
     },
     {
       "number": 56,
@@ -434,6 +434,12 @@
       "suffix": "",
       "raw": "71",
       "title": "Haftung"
+    },
+    {
+      "number": 72,
+      "suffix": "",
+      "raw": "72",
+      "title": "Mitglieder, Amtsdauer"
     },
     {
       "number": 73,
@@ -554,6 +560,12 @@
       "suffix": "",
       "raw": "92",
       "title": "Zentralverwaltung"
+    },
+    {
+      "number": 93,
+      "suffix": "",
+      "raw": "93",
+      "title": "Bezirksverwaltung"
     },
     {
       "number": 94,
@@ -751,7 +763,7 @@
       "number": 126,
       "suffix": "",
       "raw": "126",
-      "title": ""
+      "title": "Kirchgemeinden"
     },
     {
       "number": 127,
@@ -836,7 +848,7 @@
       },
       {
         "num": "2",
-        "text": "Er ist in Verwaltungsregionen, Verwaltungskreise und Gemeinden gegliedert. *"
+        "text": "Er ist in Verwaltungsregionen, Verwaltungskreise, Amtsbezirke sowie Gemeinden gegliedert.3"
       },
       {
         "num": "3",
@@ -856,7 +868,7 @@
     "5": [
       {
         "num": "1",
-        "text": "Dem Berner Jura, der die Verwaltungsregion Berner Jura bildet, wird eine besondere Stellung zuerkannt. Diese soll es ihm ermöglichen, seine Identität zu bewahren, seine sprachliche und kulturelle Eigenart zu erhalten und an der kantonalen Politik aktiv teilzunehmen. *"
+        "text": "Dem Berner Jura, der die Verwaltungsregion Berner Jura bildet, wird eine besondere Stellung zuerkannt. Diese soll es ihm ermöglichen, seine Identität zu bewahren, seine sprachliche und kulturelle Eigenart zu erhalten und an der kantonalen Politik aktiv teilzunehmen.4"
       },
       {
         "num": "2",
@@ -870,25 +882,25 @@
       },
       {
         "num": "2",
-        "text": "Die Amtssprachen sind * a das Französische in der Verwaltungsregion Berner Jura, b das Deutsche und das Französische in der Verwaltungsregion Seeland sowie im Verwaltungskreis Biel/Bienne, c das Deutsche in den übrigen Verwaltungsregionen sowie im Verwaltungskreis Seeland."
+        "text": "Die Amtssprachen sind:"
       },
       {
         "num": "3",
-        "text": "Die Amtssprachen der Gemeinden in den Verwaltungskreisen der Verwaltungsregion Seeland sind * a das Deutsche und das Französische für die Gemeinden Biel/Bienne und Leubringen, b das Deutsche für die übrigen Gemeinden."
+        "text": "Die Amtssprachen der Gemeinden in der Verwaltungsregion Seeland sind:"
       },
       {
         "num": "4",
-        "text": "Kanton und Gemeinden können besonderen Verhältnissen, die sich aus der Zweisprachigkeit des Kantons ergeben, Rechnung tragen."
+        "text": "Kanton und Gemeinden können besonderen Verhältnissen, die sich aus der Zweisprachigkeit des Kantons ergeben, Rechnung tragen.7"
       },
       {
         "num": "5",
-        "text": "An die für den ganzen Kanton zuständigen Behörden können sich alle in der Amtssprache ihrer Wahl wenden."
+        "text": "An die für den ganzen Kanton zuständigen Behörden können sich alle in der Amtssprache ihrer Wahl wenden.8"
       }
     ],
     "7": [
       {
         "num": "1",
-        "text": "Erwerb und Verlust des Kantons- und des Gemeindebürgerrechts werden im Rahmen des Bundesrechts durch die Gesetzgebung unter Vorbehalt folgender Grundsätze geregelt. *"
+        "text": "Erwerb und Verlust des Kantons- und des Gemeindebürgerrechts werden im Rahmen des Bundesrechts durch die Gesetzgebung unter Vorbehalt folgender Grundsätze geregelt.9"
       },
       {
         "num": "2",
@@ -896,11 +908,11 @@
       },
       {
         "num": "3",
-        "text": "Nicht eingebürgert wird namentlich, wer: * a wegen eines Verbrechens rechtskräftig verurteilt worden ist oder wer für eine Straftat zu einer Freiheitsstrafe von mindestens zwei Jahren rechtskräftig verurteilt worden ist; b Leistungen der Sozialhilfe bezieht oder bezogene Leistungen nicht vollumfänglich zurückbezahlt hat; c nicht nachweislich über gute Kenntnisse einer Amtssprache verfügt; d nicht nachweislich über ausreichende Kenntnisse des schweizerischen und kantonalen Staatsaufbaus und seiner Geschichte verfügt; e nicht über eine Niederlassungsbewilligung verfügt."
+        "text": "Nicht eingebürgert wird namentlich, wer:"
       },
       {
         "num": "4",
-        "text": "Es besteht kein Anspruch auf Einbürgerung. *"
+        "text": "Es besteht kein Anspruch auf Einbürgerung.11"
       }
     ],
     "8": [
@@ -915,7 +927,7 @@
     ],
     "9": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Würde des Menschen ist zu achten und zu schützen."
       }
     ],
@@ -954,7 +966,7 @@
       },
       {
         "num": "3",
-        "text": "Jede Person hat ein Recht auf Achtung ihrer Privatsphäre, ihrer Wohnung und ihres Brief- und Fernmeldeverkehrs."
+        "text": "Jede Person hat ein Recht auf Achtung ihrer Privatsphäre, ihrer Wohnung und ihres Brief- und Fernmeldeverkehrs."
       }
     ],
     "13": [
@@ -979,13 +991,13 @@
     ],
     "15": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Sprachenfreiheit ist gewährleistet."
       }
     ],
     "16": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die freie Wahl von Wohnsitz und Aufenthalt ist gewährleistet."
       }
     ],
@@ -1053,7 +1065,7 @@
     ],
     "22": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Freiheit des künstlerischen Ausdrucks ist gewährleistet."
       }
     ],
@@ -1096,7 +1108,7 @@
       },
       {
         "num": "4",
-        "text": "Jede Person, der die Freiheit entzogen worden ist, hat das Recht, a einen Rechtsbeistand beizuziehen und mit ihm frei zu verkehren; b den Freiheitsentzug in einem einfachen und raschen gerichtlichen Verfahren überprüfen zu lassen."
+        "text": "Jede Person, der die Freiheit entzogen worden ist, hat das Recht:"
       },
       {
         "num": "5",
@@ -1182,7 +1194,7 @@
     "30": [
       {
         "num": "1",
-        "text": "Kanton und Gemeinden setzen sich zum Ziel, dass a alle ihren Unterhalt durch Arbeit zu angemessenen Bedingungen bestreiten können, gegen die Folgen von unverschuldeter Arbeitslosigkeit geschützt sind und in den Genuss von bezahlten Ferien gelangen; b alle zu tragbaren Bedingungen wohnen können; c Frauen vor und nach einer Geburt materiell gesichert sind; d geeignete Bedingungen für die Betreuung von Kindern geschaffen und die Familien in der Erfüllung ihrer Aufgaben unterstützt werden; e die Anliegen und Bedürfnisse der Kinder und der Jugendlichen berücksichtigt werden; f alle sich gemäss ihren Fähigkeiten und Neigungen bilden und weiterbilden können; g alle Menschen, die wegen Alter, Gebrechlichkeit, Krankheit oder Behinderung der Hilfe bedürfen, ausreichende Pflege und Unterstützung erhalten."
+        "text": "Kanton und Gemeinden setzen sich zum Ziel, dass:"
       },
       {
         "num": "2",
@@ -1213,7 +1225,7 @@
     ],
     "32": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden treffen in Zusammenarbeit mit privaten Organisationen Massnahmen für die Erhaltung schützenswerter Landschafts- und Ortsbilder sowie der Naturdenkmäler und Kulturgüter."
       }
     ],
@@ -1224,7 +1236,7 @@
       },
       {
         "num": "2",
-        "text": "Die Raum- und Bauordnung ist auf die erwünschte Entwicklung des Kantons auszurichten. Sie berücksichtigt die verschiedenartigen Bedürfnisse der Bevölkerung und der Wirtschaft sowie den Schutz der Umwelt."
+        "text": "Die Raum- und Bauordnung ist auf die erwünschte Entwicklung des Kantons auszurichten. Sie berücksichtigt die verschiedenartigen Bedürfnisse der Bevölkerung und der Wirtschaft sowie den Schutz der Umwelt."
       },
       {
         "num": "3",
@@ -1275,7 +1287,7 @@
     ],
     "37": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden sorgen für die öffentliche Ordnung und Sicherheit."
       }
     ],
@@ -1313,7 +1325,7 @@
     ],
     "40": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden treffen Massnahmen für die Erhaltung preisgünstiger Wohnungen und für die Verbesserung ungenügender Wohnverhältnisse. Sie fördern den preisgünstigen Wohnungsbau."
       }
     ],
@@ -1389,13 +1401,13 @@
     ],
     "46": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton unterstützt die Unabhängigkeit und Vielfalt der Informationen. Das Gesetz regelt das Redaktionsgeheimnis für Medienschaffende."
       }
     ],
     "47": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Sonntage sowie die vom Gesetz anerkannten Feiertage sind öffentliche Ruhetage."
       }
     ],
@@ -1411,7 +1423,7 @@
     ],
     "49": [
       {
-        "num": "1",
+        "num": null,
         "text": "Kanton und Gemeinden unterstützen die sinnvolle Gestaltung der Freizeit und Massnahmen zur Förderung von Sport und Erholung."
       }
     ],
@@ -1428,7 +1440,7 @@
     "51": [
       {
         "num": "1",
-        "text": "Der Kanton trifft Massnahmen für eine leistungsfähige und umweltgerechte Land- und Forstwirtschaft."
+        "text": "Der Kanton trifft Massnahmen für eine leistungsfähige und umweltgerechte Land- und Forstwirtschaft."
       },
       {
         "num": "2",
@@ -1442,7 +1454,7 @@
     "52": [
       {
         "num": "1",
-        "text": "Die Regalrechte des Kantons sind a das Salzregal, b das Wasserregal, c das Bergregal einschliesslich der Nutzung der Erdwärme, d das Jagd- und Fischereiregal."
+        "text": "Die Regalrechte des Kantons sind:"
       },
       {
         "num": "2",
@@ -1455,7 +1467,7 @@
     ],
     "53": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton betreibt zur Förderung der volkswirtschaftlichen und sozialen Entwicklung eine Bank. Sie unterstützt den Kanton und die Gemeinden bei der Erfüllung ihrer Aufgaben."
       }
     ],
@@ -1472,7 +1484,7 @@
     "55": [
       {
         "num": "1",
-        "text": "Das Stimmrecht in kantonalen Angelegenheiten steht allen Schweizerbürgerinnen und Schweizerbürgern zu, die im Kanton wohnen und das 18. Altersjahr zurückgelegt haben."
+        "text": "Das Stimmrecht in kantonalen Angelegenheiten steht allen Schweizerbürgerinnen und Schweizerbürgern zu, die im Kanton wohnen und das 18. Altersjahr zurückgelegt haben."
       },
       {
         "num": "2",
@@ -1482,7 +1494,7 @@
     "56": [
       {
         "num": "1",
-        "text": "Das Volk wählt a den Grossen Rat, b den Regierungsrat, c die bernischen Mitglieder des Nationalrates, d die bernischen Mitglieder des Ständerates."
+        "text": "Das Volk wählt:"
       },
       {
         "num": "2",
@@ -1492,7 +1504,7 @@
     "57": [
       {
         "num": "1",
-        "text": "30'000 Stimmberechtigte können jederzeit die Gesamterneuerung des Grossen Rates oder des Regierungsrates verlangen. Die neu gewählte Behörde beendet die Amtsdauer der abtretenden Behörde."
+        "text": "30 000 Stimmberechtigte können jederzeit die Gesamterneuerung des Grossen Rates oder des Regierungsrates verlangen. Die neu gewählte Behörde beendet die Amtsdauer der abtretenden Behörde."
       },
       {
         "num": "2",
@@ -1502,11 +1514,11 @@
     "58": [
       {
         "num": "1",
-        "text": "Mit einer Initiative kann das Begehren gestellt werden auf a Total- oder Teilrevision der Verfassung, b Erlass, Aufhebung oder Änderung eines Gesetzes, c Kündigung oder Aufnahme von Verhandlungen über Abschluss oder Änderung eines interkantonalen oder internationalen Vertrags, soweit er der Volksabstimmung untersteht, sowie auf d Ausarbeitung eines Grossratsbeschlusses, welcher der Volksabstimmung untersteht."
+        "text": "Mit einer Initiative kann das Begehren gestellt werden auf:"
       },
       {
         "num": "2",
-        "text": "Eine Initiative ist zustande gekommen, wenn innert sechs Monaten 15 000 Stimmberechtigte das Begehren unterzeichnen. Für das Begehren um Totalrevision der Verfassung sind 30 000 Unterschriften notwendig."
+        "text": "Eine Initiative ist zustande gekommen, wenn innert sechs Monaten 15 000 Stimmberechtigte das Begehren unterzeichnen. Für das Begehren um Totalrevision der Verfassung sind 30 000 Unterschriften notwendig."
       },
       {
         "num": "3",
@@ -1520,7 +1532,7 @@
       },
       {
         "num": "2",
-        "text": "Initiativen sind ganz oder teilweise ungültig zu erklären, wenn sie a gegen übergeordnetes Recht verstossen; b undurchführbar sind; c die Einheit der Form oder der Materie nicht wahren."
+        "text": "Initiativen sind ganz oder teilweise ungültig zu erklären, wenn sie:"
       },
       {
         "num": "3",
@@ -1544,21 +1556,21 @@
     "61": [
       {
         "num": "1",
-        "text": "Obligatorisch unterliegen der Volksabstimmung a Verfassungsrevisionen, a1 * dringliche Gesetze, b Initiativen, denen der Grosse Rat nicht zustimmt oder denen er einen Gegenvorschlag gegenüberstellt, c interkantonale und internationale Verträge, die mit der Verfassung nicht vereinbar sind, d Änderungen des Kantonsgebietes, ausgenommen Grenzkorrekturen."
+        "text": "Obligatorisch unterliegen der Volksabstimmung:"
       },
       {
         "num": "2",
-        "text": "Vorlagen, die der fakultativen Volksabstimmung unterliegen, werden der obligatorischen Volksabstimmung unterstellt, wenn 100 Mitglieder des Grossen Rates es verlangen. *"
+        "text": "Vorlagen, die der fakultativen Volksabstimmung unterliegen, werden der obligatorischen Volksabstimmung unterstellt, wenn 100 Mitglieder des Grossen Rates es verlangen.14"
       }
     ],
     "62": [
       {
         "num": "1",
-        "text": "Ferner unterliegen der Volksabstimmung, wenn das Referendum zustande gekommen ist, a Gesetze, b interkantonale und internationale Verträge, die einen Gegenstand zum Inhalt haben, welcher im Kanton der fakultativen Volksabstimmung untersteht, c Ausgabenbeschlüsse des Grossen Rates, sofern sie einmalige Ausgaben über zwei Millionen Franken oder wiederkehrende Ausgaben über 400'000 Franken betreffen, d Konzessionsbeschlüsse des Grossen Rates, e Grundsatzbeschlüsse des Grossen Rates, f * weitere Sachbeschlüsse des Grossen Rates, wenn das Gesetz es vorschreibt sowie wenn der Grosse Rat oder 70 seiner Mitglieder es verlangen. Nicht referendumsfähig sind Wahlen, Justizgeschäfte, der Geschäftsbericht und der Voranschlag."
+        "text": "Ferner unterliegen der Volksabstimmung, wenn das Referendum zustande gekommen ist:"
       },
       {
         "num": "2",
-        "text": "Das Referendum ist zustande gekommen, wenn innert drei Monaten seit Publikation der Vorlage 10'000 Stimmberechtigte die Volksabstimmung über den Gegenstand verlangen."
+        "text": "Das Referendum ist zustande gekommen, wenn innert drei Monaten seit Publikation der Vorlage 10 000 Stimmberechtigte die Volksabstimmung über den Gegenstand verlangen."
       }
     ],
     "63": [
@@ -1568,11 +1580,11 @@
       },
       {
         "num": "2",
-        "text": "Der Grosse Rat kann in einer Vorlage, die der Volksabstimmung untersteht, einen Eventualantrag stellen. Findet die Volksabstimmung statt und wird kein Volksvorschlag nach Absatz 3 eingereicht, so ist neben der Hauptvorlage auch der Eventualantrag den Stimmberechtigten zu unterbreiten. Findet keine Volksabstimmung statt oder wird ein Volksvorschlag eingereicht, so fällt der Eventualantrag dahin. *"
+        "text": "Der Grosse Rat kann in einer Vorlage, die der Volksabstimmung untersteht, einen Eventualantrag stellen. Findet die Volksabstimmung statt und wird kein Volksvorschlag nach Absatz 3 eingereicht, so ist neben der Hauptvorlage auch der Eventualantrag den Stimmberechtigten zu unterbreiten. Findet keine Volksabstimmung statt oder wird ein Volksvorschlag eingereicht, so fällt der Eventualantrag dahin.16"
       },
       {
         "num": "3",
-        "text": "10'000 Stimmberechtigte können innert drei Monaten seit Publikation eines Gesetzes oder eines Grundsatzbeschlusses einen Volksvorschlag einreichen. Dieser gilt als Referendum. *"
+        "text": "10 000 Stimmberechtigte können innert drei Monaten seit Publikation eines Gesetzes oder eines Grundsatzbeschlusses einen Volksvorschlag einreichen. Dieser gilt als Referendum.17"
       },
       {
         "num": "4",
@@ -1630,11 +1642,15 @@
     "68": [
       {
         "num": "1",
-        "text": "Dem Grossen Rat dürfen nicht gleichzeitig angehören a die Mitglieder des Regierungsrates, b * die Mitglieder der kantonalen richterlichen Behörden und der Staatsanwaltschaft, c * das Personal der zentralen und der dezentralen kantonalen Verwaltung, c1 * das Personal der Gerichtsbehörden und der Staatsanwaltschaft, d weitere Personen, sofern das Gesetz es vorsieht. 1a Das Gesetz kann in begründeten Fällen Ausnahmen von Absatz 1 Buchstabe c vorsehen. *"
+        "text": "Dem Grossen Rat dürfen nicht gleichzeitig angehören:"
+      },
+      {
+        "num": null,
+        "text": "1a Das Gesetz kann in begründeten Fällen Ausnahmen von Absatz 1 Buchstabe c vorsehen.21"
       },
       {
         "num": "2",
-        "text": "Wer Mitglied einer kantonalen Gerichtsbehörde oder der Staatsanwaltschaft ist, darf nicht gleichzeitig dem Regierungsrat oder der zentralen oder dezentralen kantonalen Verwaltung angehören. *"
+        "text": "Wer Mitglied einer kantonalen Gerichtsbehörde oder der Staatsanwaltschaft ist, darf nicht gleichzeitig dem Regierungsrat oder der zentralen oder dezentralen kantonalen Verwaltung angehören.22"
       },
       {
         "num": "3",
@@ -1642,7 +1658,7 @@
       },
       {
         "num": "4",
-        "text": "Mitglieder von Behörden sowie das Personal der kantonalen Verwaltung, der Gerichtsbehörden und der Staatsanwaltschaft haben bei Geschäften, die sie unmittelbar betreffen, in den Ausstand zu treten. *"
+        "text": "Mitglieder von Behörden sowie das Personal der kantonalen Verwaltung, der Gerichtsbehörden und der Staatsanwaltschaft haben bei Geschäften, die sie unmittelbar betreffen, in den Ausstand zu treten.23"
       }
     ],
     "69": [
@@ -1660,12 +1676,12 @@
       },
       {
         "num": "4",
-        "text": "Alle grundlegenden und wichtigen Rechtssätze des kantonalen Rechts sind in der Form des Gesetzes zu erlassen. Dazu gehören Bestimmungen, für welche die Verfassung ausdrücklich das Gesetz vorsieht, sowie Bestimmungen über a die Grundzüge der Rechtsstellung der einzelnen, b den Gegenstand von Abgaben, die Grundsätze ihrer Bemessung und den Kreis der Abgabepflichtigen mit Ausnahme von Gebühren in geringer Höhe, c Zweck, Art und Rahmen von bedeutenden kantonalen Leistungen, d die Grundzüge der Organisation und der Aufgaben der Behörden, e die Anhandnahme einer neuen dauernden Aufgabe."
+        "text": "Alle grundlegenden und wichtigen Rechtssätze des kantonalen Rechts sind in der Form des Gesetzes zu erlassen. Dazu gehören Bestimmungen, für welche die Verfassung ausdrücklich das Gesetz vorsieht, sowie Bestimmungen über:"
       }
     ],
     "70": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Behörden müssen über ihre Tätigkeit ausreichend informieren."
       }
     ],
@@ -1683,6 +1699,12 @@
         "text": "Das Gesetz bestimmt, unter welchen Voraussetzungen der Kanton auch für Schäden einzustehen hat, die seine Organe durch rechtmässiges Handeln verursachen."
       }
     ],
+    "72": [
+      {
+        "num": null,
+        "text": "Der Grosse Rat besteht aus 160 Mitgliedern, die für eine vierjährige Amtsdauer gewählt werden."
+      }
+    ],
     "73": [
       {
         "num": "1",
@@ -1690,15 +1712,15 @@
       },
       {
         "num": "2",
-        "text": "Das Gesetz bezeichnet die Wahlkreise. *"
+        "text": "Das Gesetz bezeichnet die Wahlkreise.25"
       },
       {
         "num": "3",
-        "text": "Die Mandate werden entsprechend der Einwohnerzahl den Wahlkreisen zugeordnet. Dem Wahlkreis Berner Jura werden zwölf Mandate garantiert. Es ist eine angemessene Vertretung der französischsprachigen Minderheit des Wahlkreises Biel-Seeland sicherzustellen. *"
+        "text": "Die Mandate werden entsprechend der Einwohnerzahl den Wahlkreisen zugeordnet. Dem Wahlkreis Berner Jura werden zwölf Mandate garantiert. Es ist eine angemessene Vertretung der französischsprachigen Minderheit des Wahlkreises Biel-Seeland sicherzustellen.26"
       },
       {
         "num": "4",
-        "text": "Die Sitzverteilung an die Listen richtet sich nach den in den Wahlkreisen erzielten Parteistimmen. *"
+        "text": "Die Sitzverteilung an die Listen richtet sich nach den in den Wahlkreisen erzielten Parteistimmen.27"
       }
     ],
     "74": [
@@ -1708,25 +1730,25 @@
       },
       {
         "num": "2",
-        "text": "Er genehmigt a die internationalen Verträge sowie b die interkantonalen Verträge, soweit diese nicht in die alleinige Zuständigkeit des Regierungsrates fallen."
+        "text": "Er genehmigt"
       }
     ],
     "75": [
       {
-        "num": "1",
-        "text": "Der Grosse Rat behandelt den Bericht über die Richtlinien der Regierungspolitik, den Aufgaben- und Finanzplan sowie weitere grundlegende Pläne in einzelnen Aufgabenbereichen. *"
+        "num": null,
+        "text": "Der Grosse Rat behandelt den Bericht über die Richtlinien der Regierungspolitik, den Aufgaben- und Finanzplan sowie weitere grundlegende Pläne in einzelnen Aufgabenbereichen."
       }
     ],
     "76": [
       {
-        "num": "1",
-        "text": "Der Grosse Rat beschliesst über a den Voranschlag, b * den Geschäftsbericht, c die Steueranlage, d den Rahmen einer Neuverschuldung, e * Ausgaben, soweit sie nicht in die Zuständigkeit des Regierungsrates oder der Justizverwaltungsleitung fallen."
+        "num": null,
+        "text": "Der Grosse Rat beschliesst über:"
       }
     ],
     "77": [
       {
         "num": "1",
-        "text": "Der Grosse Rat wählt a die Grossratspräsidentin oder den Grossratspräsidenten, b die Regierungspräsidentin oder den Regierungspräsidenten, c die Staatsschreiberin oder den Staatsschreiber, d die Präsidentin oder den Präsidenten von Obergericht und Verwaltungsgericht, e * die übrigen Mitglieder der Gerichte, soweit das Gesetz nichts anderes bestimmt, f * die Generalstaatsanwältin oder den Generalstaatsanwalt sowie die stellvertretenden Generalstaatsanwältinnen und Generalstaatsanwälte."
+        "text": "Der Grosse Rat wählt:"
       },
       {
         "num": "2",
@@ -1736,17 +1758,17 @@
     "78": [
       {
         "num": "1",
-        "text": "Der Grosse Rat beaufsichtigt * a * die Regierung, b * die Geschäftsführung der Justizverwaltungsleitung, der obersten Gerichte und der Generalstaatsanwaltschaft."
+        "text": "Der Grosse Rat beaufsichtigt:"
       },
       {
         "num": "2",
-        "text": "Er übt die Oberaufsicht über die Verwaltung und die anderen Träger öffentlicher Aufgaben aus. *"
+        "text": "Er übt die Oberaufsicht über die Verwaltung und die anderen Träger öffentlicher Aufgaben aus.34"
       }
     ],
     "79": [
       {
         "num": "1",
-        "text": "Der Grosse Rat a berät und beschliesst über alle Gegenstände, die der Volksabstimmung unterliegen; b übt die von der Bundesverfassung den Kantonen eingeräumten Mitwirkungsrechte aus; c kann bei Vernehmlassungen an Bundesbehörden Stellung nehmen; d entscheidet Zuständigkeitskonflikte zwischen den obersten kantonalen Behörden; e beschliesst über Amnestie und Begnadigungen; f * … g erfüllt weitere Aufgaben, die ihm durch Verfassung oder Gesetzgebung übertragen werden."
+        "text": "Der Grosse Rat:"
       },
       {
         "num": "2",
@@ -1796,7 +1818,7 @@
       },
       {
         "num": "4",
-        "text": "Sie verfügen gegenüber der Verwaltung über die vom Gesetz bezeichneten besonderen Auskunfts- und Einsichtsrechte. Die Ratspräsidentin oder der Ratspräsident kann jederzeit Einsicht in die Akten des Regierungsrates nehmen."
+        "text": "Sie verfügen gegenüber der Verwaltung über die vom Gesetz bezeichneten besonderen Auskunfts- und Einsichtsrechte. Die Ratspräsidentin oder der Ratspräsident kann jederzeit Einsicht in die Akten des Regierungsrates nehmen."
       }
     ],
     "83": [
@@ -1820,7 +1842,7 @@
       },
       {
         "num": "2",
-        "text": "Dem Berner Jura ist ein Sitz gewährleistet. Wählbar sind die französischsprachigen Stimmberechtigten, die in der Verwaltungsregion Berner Jura wohnen. *"
+        "text": "Dem Berner Jura ist ein Sitz gewährleistet. Wählbar sind die französischsprachigen Stimmberechtigten, die in einem der drei Amtsbezirke Courtelary, Moutier oder La Neuveville wohnen."
       }
     ],
     "85": [
@@ -1834,7 +1856,7 @@
       },
       {
         "num": "3",
-        "text": "Unter Vorbehalt des dem Berner Jura garantierten Sitzes sind in den Regierungsrat gewählt: a im ersten Wahlgang in der Reihenfolge der Stimmenzahl diejenigen, die das absolute Mehr der gültigen Stimmen auf sich vereinigen; b im zweiten Wahlgang diejenigen mit der höchsten Stimmenzahl."
+        "text": "Unter Vorbehalt des dem Berner Jura garantierten Sitzes sind in den Regierungsrat gewählt:"
       },
       {
         "num": "4",
@@ -1843,7 +1865,7 @@
     ],
     "86": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Regierungsrat bestimmt unter Vorbehalt der Zuständigkeiten des Grossen Rates die Ziele des staatlichen Handelns. Er plant und koordiniert die Tätigkeiten des Kantons."
       }
     ],
@@ -1886,11 +1908,11 @@
     "89": [
       {
         "num": "1",
-        "text": "Der Regierungsrat erstellt den Aufgaben- und Finanzplan und verabschiedet den Voranschlag und den Geschäftsbericht zuhanden des Grossen Rates. *"
+        "text": "Der Regierungsrat erstellt den Aufgaben- und Finanzplan und verabschiedet den Voranschlag und den Geschäftsbericht zuhanden des Grossen Rates.38"
       },
       {
         "num": "2",
-        "text": "Er beschliesst über a neue einmalige Ausgaben bis eine Million Franken, b neue wiederkehrende Ausgaben bis 200'000 Franken, c gebundene Ausgaben."
+        "text": "Er beschliesst über:"
       },
       {
         "num": "3",
@@ -1903,13 +1925,13 @@
     ],
     "90": [
       {
-        "num": "1",
-        "text": "Dem Regierungsrat obliegt weiter a die Vertretung des Kantons nach innen und nach aussen; b die Verantwortung für die Wahrung der öffentlichen Ordnung und Sicherheit; c die Vorbereitung der Geschäfte des Grossen Rates, soweit dieser sie nicht allein bearbeiten will; d der Vollzug der Gesetzgebung, der Beschlüsse des Grossen Rates und der rechtskräftigen Urteile; e die Verabschiedung von Vernehmlassungen an Bundesbehörden. Er ist dabei an Stellungnahmen des Grossen Rates gebunden; f der Entscheid über Beschwerden, soweit das Gesetz es vorsieht; g der Entscheid über Korrekturen von kantonalen und kommunalen Grenzen; h die Erfüllung weiterer Aufgaben, die ihm durch Verfassung oder Gesetzgebung übertragen werden."
+        "num": null,
+        "text": "Dem Regierungsrat obliegt weiter:"
       }
     ],
     "91": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Regierungsrat kann ohne gesetzliche Grundlage Massnahmen ergreifen, um eingetretenen oder unmittelbar drohenden Störungen der öffentlichen Ordnung und Sicherheit sowie sozialen Notständen zu begegnen. Verordnungen sind sofort durch den Grossen Rat genehmigen zu lassen; sie fallen spätestens ein Jahr nach ihrem Inkrafttreten dahin."
       }
     ],
@@ -1920,27 +1942,49 @@
       },
       {
         "num": "2",
-        "text": "Die Staatskanzlei ist Stabs- und Verbindungsstelle des Grossen Rates und des Regierungsrates."
+        "text": "Die Staatskanzlei ist Stabs- und Verbindungsstelle des Grossen Rates und des Regierungsrates."
       },
       {
         "num": "3",
         "text": "Ein angemessener Anteil des Personals ist französischer Sprache."
       }
     ],
-    "94": [
+    "93": [
       {
         "num": "1",
+        "text": "Die Verwaltungsregionen und die Verwaltungskreise sind die ordentlichen dezentralen Verwaltungseinheiten des Kantons. Sie werden durch das Gesetz bezeichnet."
+      },
+      {
+        "num": "2",
+        "text": "Die Stimmberechtigten wählen für jeden Verwaltungskreis eine Regierungsstatthalterin oder einen Regierungsstatthalter."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz legt die Aufgaben der Regierungsstatthalterinnen und Regierungsstatthalter fest."
+      },
+      {
+        "num": "4",
+        "text": "Das Gesetz bestimmt, welche weiteren Regional- oder Kreisbehörden durch die Stimmberechtigten gewählt werden."
+      },
+      {
+        "num": "5",
+        "text": "Das Gesetz bezeichnet die Amtsbezirke."
+      }
+    ],
+    "94": [
+      {
+        "num": null,
         "text": "Das Gesetz kann vorsehen, dass bestimmte kantonale Aufgaben auf regionaler Ebene wahrgenommen werden."
       }
     ],
     "95": [
       {
         "num": "1",
-        "text": "Der Kanton kann a Anstalten und andere Institutionen des öffentlichen und privaten Rechts errichten; b sich an Institutionen des öffentlichen und privaten Rechts beteiligen; c öffentliche Aufgaben an Private und Institutionen ausserhalb der Verwaltung übertragen."
+        "text": "Der Kanton kann:"
       },
       {
         "num": "2",
-        "text": "Im Gesetz zu regeln sind namentlich a die Grundzüge der Organisation und der Aufgaben der Anstalten und Institutionen, die vom Kanton errichtet werden, b Art und Rahmen der Delegation von Rechtsetzungsbefugnissen, c Art und Umfang von bedeutenden kantonalen Beteiligungen, d Art und Umfang der Übertragung einer öffentlichen Aufgabe, sofern diese eine bedeutende Leistung zum Gegenstand hat oder zur Einschränkung von Grundrechten oder zur Erhebung von Abgaben ermächtigt."
+        "text": "Im Gesetz zu regeln sind namentlich:"
       },
       {
         "num": "3",
@@ -1949,14 +1993,18 @@
     ],
     "96": [
       {
-        "num": "1",
+        "num": null,
         "text": "Durch Gesetz kann eine kantonale Ombudsstelle geschaffen werden."
       }
     ],
     "97": [
       {
         "num": "1",
-        "text": "Die Gerichte und die Staatsanwaltschaft sind in der Rechtsprechung und der Strafverfolgung unabhängig und nur dem Recht verpflichtet. * 1a Sie verwalten sich selbst, soweit das Gesetz nichts anderes bestimmt. *"
+        "text": "Die Gerichte und die Staatsanwaltschaft sind in der Rechtsprechung und der Strafverfolgung unabhängig und nur dem Recht verpflichtet.41"
+      },
+      {
+        "num": null,
+        "text": "1a Sie verwalten sich selbst, soweit das Gesetz nichts anderes bestimmt.42"
       },
       {
         "num": "2",
@@ -1964,27 +2012,31 @@
       },
       {
         "num": "3",
-        "text": "Das Gesetz regelt die Organisation und die Zuständigkeit der Gerichte und der Staatsanwaltschaft. *"
+        "text": "Das Gesetz regelt die Organisation und die Zuständigkeit der Gerichte und der Staatsanwaltschaft.43"
       }
     ],
     "98": [
       {
         "num": "1",
-        "text": "Die Zivilgerichtsbarkeit wird ausgeübt durch a * die Schlichtungsbehörden, b * die Regionalgerichte, c * das Obergericht."
+        "text": "Die Zivilgerichtsbarkeit wird ausgeübt durch:"
       },
       {
         "num": "2",
-        "text": "Durch Gesetz können besondere richterliche Behörden eingesetzt werden. *"
+        "text": "Durch Gesetz können besondere richterliche Behörden eingesetzt werden.46"
       }
     ],
     "99": [
       {
         "num": "1",
-        "text": "Die Strafgerichtsbarkeit wird ausgeübt durch a * die Regionalgerichte, b–d * … e das Obergericht. 1a Durch Gesetz können besondere richterliche Behörden eingesetzt werden. *"
+        "text": "Die Strafgerichtsbarkeit wird ausgeübt durch:"
+      },
+      {
+        "num": null,
+        "text": "1a Durch Gesetz können besondere richterliche Behörden eingesetzt werden.49"
       },
       {
         "num": "2",
-        "text": "Durch Gesetz können Verwaltungsstrafbefugnisse auch den Verwaltungsbehörden des Kantons und der Gemeinden übertragen werden. Die richterliche Überprüfung bleibt vorbehalten. *"
+        "text": "Durch Gesetz können Verwaltungsstrafbefugnisse auch den Verwaltungsbehörden des Kantons und der Gemeinden übertragen werden. Die richterliche Überprüfung bleibt vorbehalten."
       }
     ],
     "100": [
@@ -2017,18 +2069,18 @@
     ],
     "102": [
       {
-        "num": "1",
-        "text": "Der Kanton beschafft sich seine Mittel insbesondere a durch die Erhebung von Steuern und anderen Abgaben, b aus den Erträgnissen seines Vermögens, c aus Leistungen des Bundes und Dritter, d durch die Aufnahme von Darlehen und Anleihen."
+        "num": null,
+        "text": "Der Kanton beschafft sich seine Mittel insbesondere:"
       }
     ],
     "103": [
       {
         "num": "1",
-        "text": "Der Kanton erhebt a eine Einkommens- und Vermögenssteuer von den natürlichen Personen, b eine Gewinn- und Kapitalsteuer von den juristischen Personen, c eine Vermögensgewinnsteuer."
+        "text": "Der Kanton erhebt:"
       },
       {
         "num": "2",
-        "text": "Er erhebt zudem eine Erbschafts- und Schenkungssteuer, eine Motorfahrzeugsteuer sowie weitere Aufwand- und Verkehrssteuern nach Massgabe der Gesetzgebung."
+        "text": "Er erhebt zudem eine Erbschafts- und Schenkungssteuer, eine Motorfahrzeugsteuer sowie weitere Aufwand- und Verkehrssteuern nach Massgabe der Gesetzgebung."
       }
     ],
     "104": [
@@ -2051,7 +2103,7 @@
     ],
     "105": [
       {
-        "num": "1",
+        "num": null,
         "text": "Jede Ausgabe setzt eine Rechtsgrundlage, einen Voranschlagskredit sowie einen Ausgabenbeschluss des zuständigen Organs voraus."
       }
     ],
@@ -2072,7 +2124,7 @@
       },
       {
         "num": "2",
-        "text": "Der Kanton Bern kennt folgende Gemeindearten: a die Einwohnergemeinden, b die Burgergemeinden, c die gemischten Gemeinden, d die Kirchgemeinden."
+        "text": "Der Kanton Bern kennt folgende Gemeindearten:"
       },
       {
         "num": "3",
@@ -2090,19 +2142,19 @@
       },
       {
         "num": "2",
-        "text": "Der Regierungsrat genehmigt die Bildung, Aufhebung oder Veränderung des Gebiets sowie den Zusammenschluss von Gemeinden, wenn die betroffenen Gemeinden zugestimmt haben. Lehnt er die Genehmigung ab, entscheidet der Grosse Rat. *"
+        "text": "Der Regierungsrat genehmigt die Bildung, Aufhebung oder Veränderung des Gebiets sowie den Zusammenschluss von Gemeinden, wenn die betroffenen Gemeinden zugestimmt haben. Lehnt er die Genehmigung ab, entscheidet der Grosse Rat.58"
       },
       {
         "num": "3",
-        "text": "Der Grosse Rat kann den Zusammenschluss von Gemeinden gegen ihren Willen anordnen, wenn es überwiegende kommunale, regionale oder kantonale Interessen erfordern. Die betroffenen Gemeinden sind vorher anzuhören. *"
+        "text": "Der Grosse Rat kann den Zusammenschluss von Gemeinden gegen ihren Willen anordnen, wenn es überwiegende kommunale, regionale oder kantonale Interessen erfordern. Die betroffenen Gemeinden sind vorher anzuhören.59"
       },
       {
         "num": "4",
-        "text": "Das Gesetz regelt das Nähere, insbesondere die Voraussetzungen und das Verfahren für die Anordnung eines Zusammenschlusses von Gemeinden gegen ihren Willen. *"
+        "text": "Das Gesetz regelt das Nähere, insbesondere die Voraussetzungen und das Verfahren für die Anordnung eines Zusammenschlusses von Gemeinden gegen ihren Willen.60"
       },
       {
         "num": "5",
-        "text": "Der Kanton fördert den Zusammenschluss von Gemeinden. *"
+        "text": "Der Kanton fördert den Zusammenschluss von Gemeinden.61"
       }
     ],
     "109": [
@@ -2156,7 +2208,7 @@
     "113": [
       {
         "num": "1",
-        "text": "Die Einwohnergemeinden erheben Einkommens- und Vermögenssteuern, Gewinn- und Kapitalsteuern sowie Vermögensgewinnsteuern auf den Veranlagungsgrundlagen der kantonalen Steuern. Sie setzen die Steueranlage fest."
+        "text": "Die Einwohnergemeinden erheben Einkommens- und Vermögenssteuern, Gewinn- und Kapitalsteuern sowie Vermögensgewinnsteuern auf den Veranlagungsgrundlagen der kantonalen Steuern. Sie setzen die Steueranlage fest."
       },
       {
         "num": "2",
@@ -2164,12 +2216,12 @@
       },
       {
         "num": "3",
-        "text": "Durch einen Finanzausgleich ist die Steuerkraft der Einwohnergemeinden auszugleichen, und es sind ausgewogene Verhältnisse in der Steuerbelastung anzustreben. In den gesetzlich vorgesehenen Fällen können Leistungen aus dem Finanzausgleich gekürzt oder verweigert werden. *"
+        "text": "Durch einen Finanzausgleich ist die Steuerkraft der Einwohnergemeinden auszugleichen, und es sind ausgewogene Verhältnisse in der Steuerbelastung anzustreben. In den gesetzlich vorgesehenen Fällen können Leistungen aus dem Finanzausgleich gekürzt oder verweigert werden.63"
       }
     ],
     "114": [
       {
-        "num": "1",
+        "num": null,
         "text": "Das Stimmrecht steht jeder Person zu, die in kantonalen Angelegenheiten stimmberechtigt ist und seit drei Monaten in der Einwohnergemeinde wohnt."
       }
     ],
@@ -2214,7 +2266,7 @@
       },
       {
         "num": "2",
-        "text": "Die Unterabteilungen können weitere Aufgaben an die Hand nehmen, soweit die Einwohnergemeinden diese nicht selber erfüllen."
+        "text": "Die Unterabteilungen können weitere Aufgaben an die Hand nehmen, soweit die Einwohnergemeinden diese nicht selber erfüllen"
       }
     ],
     "119": [
@@ -2262,7 +2314,7 @@
       },
       {
         "num": "3",
-        "text": "Sie haben ein Vorberatungs- und Antragsrecht in den sie betreffenden kantonalen und interkantonalen Angelegenheiten."
+        "text": "Sie haben ein Vorberatungs- und Antragsrecht in den sie betreffenden kantonalen und interkantonalen Angelegenheiten."
       }
     ],
     "123": [
@@ -2329,7 +2381,7 @@
     ],
     "128": [
       {
-        "num": "1",
+        "num": null,
         "text": "Mit einer Teilrevision können eine einzelne oder mehrere sachlich zusammenhängende Verfassungsbestimmungen geändert werden."
       }
     ],
@@ -2344,7 +2396,7 @@
       },
       {
         "num": "3",
-        "text": "Anstelle eines Eventualantrages gemäss Artikel 63 kann die Verfassungsvorlage auch Varianten enthalten, über die vorgängig oder gleichzeitig gesondert abzustimmen ist."
+        "text": "Anstelle eines Eventualantrages gemäss Artikel 63 kann die Verfassungsvorlage auch Varianten enthalten, über die vorgängig oder gleichzeitig gesondert abzustimmen ist."
       },
       {
         "num": "4",
@@ -2354,11 +2406,11 @@
     "130": [
       {
         "num": "1",
-        "text": "Diese Verfassung tritt am 1. Januar 1995 in Kraft."
+        "text": "Diese Verfassung tritt am 1. Januar 1995 in Kraft."
       },
       {
         "num": "2",
-        "text": "Die neuen Ausgabenkompetenzen des Regierungsrates gemäss Artikel 89 Absatz 2 gelten mit Annahme dieser Verfassung. Geschäfte, die der Regierungsrat bereits an den Grossen Rat überwiesen hat, werden nach bisherigem Recht behandelt."
+        "text": "Die neuen Ausgabenkompetenzen des Regierungsrates gemäss Artikel 89 Absatz 2 gelten mit Annahme dieser Verfassung. Geschäfte, die der Regierungsrat bereits an den Grossen Rat überwiesen hat, werden nach bisherigem Recht behandelt."
       },
       {
         "num": "3",
@@ -2366,17 +2418,17 @@
       },
       {
         "num": "4",
-        "text": "Für Regierungsstatthalterinnen und Regierungsstatthalter, die zugleich als Gerichtspräsidentinnen oder Gerichtspräsidenten tätig sind, gilt Artikel 68 Absatz 2 erst mit Erlass der neuen Gesetzesbestimmungen über die Gerichtsorganisation, spätestens aber nach Ablauf der ordentlichen Amtsdauer am 31. Dezember 1998."
+        "text": "Für Regierungsstatthalterinnen und Regierungsstatthalter, die zugleich als Gerichtspräsidentinnen oder Gerichtspräsidenten tätig sind, gilt Artikel 68 Absatz 2 erst mit Erlass der neuen Gesetzesbestimmungen über die Gerichtsorganisation, spätestens aber nach Ablauf der ordentlichen Amtsdauer am 31. Dezember 1998."
       },
       {
         "num": "5",
-        "text": "Artikel 117 über das Initiativrecht in den Gemeinden gilt erst nach Anpassung der entsprechenden Gemeindereglemente, spätestens aber am 1. Januar 1997."
+        "text": "Artikel 117 über das Initiativrecht in den Gemeinden gilt erst nach Anpassung der entsprechenden Gemeindereglemente, spätestens aber am 1. Januar 1997."
       }
     ],
     "131": [
       {
         "num": "1",
-        "text": "Die Staatsverfassung des Kantons Bern vom 4. Juni 1893, der Zusatz zur Staatsverfassung des Kantons Bern hinsichtlich des jurassischen Landesteiles vom 1. März 1970 sowie die Verfassungsgrundlage für den Kanton Bern in seinen neuen Grenzen vom 5. Dezember 1976 sind aufgehoben."
+        "text": "Die Staatsverfassung des Kantons Bern vom 4. Juni 1893, der Zusatz zur Staatsverfassung des Kantons Bern hinsichtlich des jurassischen Landesteiles vom 1. März 1970 sowie die Verfassungsgrundlage für den Kanton Bern in seinen neuen Grenzen vom 5. Dezember 1976 sind aufgehoben."
       },
       {
         "num": "2",
@@ -2394,11 +2446,11 @@
       },
       {
         "num": "3",
-        "text": "Artikel 49 bis 62 der bisherigen Verfassung über die Gerichtsbehörden gelten bis zur gesetzlichen Neuordnung, längstens aber bis 31. Dezember 1998."
+        "text": "Artikel 49 bis 62 der bisherigen Verfassung über die Gerichtsbehörden gelten bis zur gesetzlichen Neuordnung, längstens aber bis 31. Dezember 1998."
       },
       {
         "num": "4",
-        "text": "Artikel 113 der bisherigen Verfassung über den Eid und das Gelübde gilt bis zum Erlass einer gesetzlichen Regelung weiter."
+        "text": "Artikel 113 der bisherigen Verfassung über den Eid und das Gelübde gilt bis zum Erlass einer gesetzlichen Regelung weiter."
       }
     ],
     "133": [
@@ -2414,7 +2466,7 @@
     "134": [
       {
         "num": "1",
-        "text": "Das bisherige Recht ist massgebend für Initiativen, die vor dem 1. Januar 1995 hinterlegt werden, sowie für Referenden, die sich gegen Vorlagen richten, welche vor diesem Datum verabschiedet werden."
+        "text": "Das bisherige Recht ist massgebend für Initiativen, die vor dem 1. Januar 1995 hinterlegt werden, sowie für Referenden, die sich gegen Vorlagen richten, welche vor diesem Datum verabschiedet werden."
       },
       {
         "num": "2",
@@ -2424,7 +2476,7 @@
     "135": [
       {
         "num": "1",
-        "text": "Für die Abtrennung des Amtsbezirkes Laufen vom Kanton Bern gelten die Artikel 105 bis 108 der bisherigen Verfassung."
+        "text": "Für die Abtrennung des Amtsbezirkes Laufen vom Kanton Bern gelten die Artikel 105 bis 108 der bisherigen Verfassung."
       },
       {
         "num": "2",

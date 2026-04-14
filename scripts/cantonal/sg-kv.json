@@ -3,41 +3,41 @@
   "law_key": "sg-kv",
   "sr_number": "111.1",
   "language": "de",
-  "title": "Verfassung des Kantons St.Gallen",
+  "title": "Verfassung des Kantons St. Gallen",
   "lexfind_id": 14551,
   "fetched_at": "2026-04-14",
-  "source": "lexwork",
-  "article_count": 120,
+  "source": "fedlex",
+  "article_count": 119,
   "articles": [
     {
       "number": 1,
       "suffix": "",
       "raw": "1",
-      "title": "Kanton St.Gallen"
+      "title": "Kanton St. Gallen"
     },
     {
       "number": 2,
       "suffix": "",
       "raw": "2",
-      "title": "Grundrechte\na) nach Bundesverfassung"
+      "title": "a. nach Bundesverfassung"
     },
     {
       "number": 3,
       "suffix": "",
       "raw": "3",
-      "title": "b) nach Kantonsverfassung"
+      "title": "b. nach Kantonsverfassung"
     },
     {
       "number": 4,
       "suffix": "",
       "raw": "4",
-      "title": "c) in Verfahren"
+      "title": "c. in Verfahren"
     },
     {
       "number": 5,
       "suffix": "",
       "raw": "5",
-      "title": "d) Einschränkungen"
+      "title": "d. Einschränkungen"
     },
     {
       "number": 6,
@@ -205,13 +205,13 @@
       "number": 33,
       "suffix": "",
       "raw": "33",
-      "title": "Wählbarkeit\na) Grundsatz"
+      "title": "a. Grundsatz"
     },
     {
       "number": 34,
       "suffix": "",
       "raw": "34",
-      "title": "b) Ausschliessungsgründe"
+      "title": "b. Ausschliessungsgründe"
     },
     {
       "number": 35,
@@ -253,19 +253,19 @@
       "number": 41,
       "suffix": "",
       "raw": "41",
-      "title": "Verfassungsinitiative"
+      "title": "Verfassungs- initiative"
     },
     {
       "number": 42,
       "suffix": "",
       "raw": "42",
-      "title": "Gesetzesinitiative"
+      "title": "Gesetzes- initiative"
     },
     {
       "number": 43,
       "suffix": "",
       "raw": "43",
-      "title": "Einheitsinitiative"
+      "title": "Einheits- initiative"
     },
     {
       "number": 44,
@@ -301,19 +301,19 @@
       "number": 49,
       "suffix": "",
       "raw": "49",
-      "title": "Fakultatives Referendum\na) Gegenstände"
+      "title": "a. Gegenstände"
     },
     {
       "number": 50,
       "suffix": "",
       "raw": "50",
-      "title": "b) Frist und Verfahren"
+      "title": "b. Frist und Verfahren"
     },
     {
       "number": 51,
       "suffix": "",
       "raw": "51",
-      "title": "Mehrheitsentscheid"
+      "title": "Mehrheits- entscheid"
     },
     {
       "number": 52,
@@ -334,22 +334,28 @@
       "title": "Politische Parteien"
     },
     {
+      "number": 55,
+      "suffix": "",
+      "raw": "55",
+      "title": "a. Grundsatz"
+    },
+    {
       "number": 56,
       "suffix": "",
       "raw": "56",
-      "title": "b) Kantonsrat"
+      "title": "b. Kantonsrat"
     },
     {
       "number": 57,
       "suffix": "",
       "raw": "57",
-      "title": "c) richterliche Behörde"
+      "title": "c. richterliche Behörde"
     },
     {
       "number": 58,
       "suffix": "",
       "raw": "58",
-      "title": "d) Gemeindeparlament"
+      "title": "d. Gemeindeparlament"
     },
     {
       "number": 59,
@@ -376,16 +382,22 @@
       "title": "Haftung"
     },
     {
+      "number": 63,
+      "suffix": "",
+      "raw": "63",
+      "title": "Bestand"
+    },
+    {
       "number": 64,
       "suffix": "",
       "raw": "64",
-      "title": "Zuständigkeit\na) Wahlen"
+      "title": "a. Wahlen"
     },
     {
       "number": 65,
       "suffix": "",
       "raw": "65",
-      "title": "b) Sachgeschäfte"
+      "title": "b. Sachgeschäfte"
     },
     {
       "number": 66,
@@ -421,37 +433,37 @@
       "number": 71,
       "suffix": "",
       "raw": "71",
-      "title": "Zuständigkeit\na) Regierungsaufgaben"
+      "title": "a. Regierungsaufgaben"
     },
     {
       "number": 72,
       "suffix": "",
       "raw": "72",
-      "title": "b) Wahlen"
+      "title": "b. Wahlen"
     },
     {
       "number": 73,
       "suffix": "",
       "raw": "73",
-      "title": "c) Sachgeschäfte"
+      "title": "c. Sachgeschäfte"
     },
     {
       "number": 74,
       "suffix": "",
       "raw": "74",
-      "title": "d) Aussenbeziehungen"
+      "title": "d. Aussenbeziehungen"
     },
     {
       "number": 75,
       "suffix": "",
       "raw": "75",
-      "title": "e) Dringlichkeit"
+      "title": "e. Dringlichkeit"
     },
     {
       "number": 76,
       "suffix": "",
       "raw": "76",
-      "title": "f) Übertragung"
+      "title": "f. Übertragung"
     },
     {
       "number": 77,
@@ -463,19 +475,19 @@
       "number": 78,
       "suffix": "",
       "raw": "78",
-      "title": "Rechtspflege\na) in Zivilsachen"
+      "title": "a. in Zivilsachen"
     },
     {
       "number": 79,
       "suffix": "",
       "raw": "79",
-      "title": "b) in Strafsachen"
+      "title": "b. in Strafsachen"
     },
     {
       "number": 80,
       "suffix": "",
       "raw": "80",
-      "title": "c) in Staats- und Verwaltungssachen"
+      "title": "c. in Staats- und Verwaltungssachen"
     },
     {
       "number": 81,
@@ -493,13 +505,13 @@
       "number": 83,
       "suffix": "",
       "raw": "83",
-      "title": "Einnahmen a) Kanton"
+      "title": "a. Kanton"
     },
     {
       "number": 84,
       "suffix": "",
       "raw": "84",
-      "title": "b) Gemeinde"
+      "title": "b. Gemeinde"
     },
     {
       "number": 85,
@@ -559,19 +571,37 @@
       "number": 94,
       "suffix": "",
       "raw": "94",
-      "title": "Organisation\na) Grundlagen"
+      "title": "a. Grundlagen"
+    },
+    {
+      "number": 95,
+      "suffix": "",
+      "raw": "95",
+      "title": "b. Gemeindeorgane"
+    },
+    {
+      "number": 96,
+      "suffix": "",
+      "raw": "96",
+      "title": "a. Grundsatz"
+    },
+    {
+      "number": 97,
+      "suffix": "",
+      "raw": "97",
+      "title": "b. Gemeindeverband"
     },
     {
       "number": 98,
       "suffix": "",
       "raw": "98",
-      "title": "Änderungen im Bestand der Gemeinden\na) Verfahren"
+      "title": "a. Verfahren"
     },
     {
       "number": 99,
       "suffix": "",
       "raw": "99",
-      "title": "b) Förderung der Vereinigung"
+      "title": "b. Förderung der Vereinigung"
     },
     {
       "number": 100,
@@ -598,28 +628,34 @@
       "title": "Einbürgerungsrat"
     },
     {
+      "number": 104,
+      "suffix": "",
+      "raw": "104",
+      "title": "a. Verfahren"
+    },
+    {
       "number": 105,
       "suffix": "",
       "raw": "105",
-      "title": "Besondere Einbürgerung\na) Schweizerinnen und Schweizer"
+      "title": "a. Schweizerinnen und Schweizer"
     },
     {
       "number": 106,
       "suffix": "",
       "raw": "106",
-      "title": "b) ausländische und staatenlose Jugendliche"
+      "title": "b. ausländische und staatenlose Jugendliche"
     },
     {
       "number": 107,
       "suffix": "",
       "raw": "107",
-      "title": "c) Zuständigkeit"
+      "title": "c. Zuständigkeit"
     },
     {
       "number": 108,
       "suffix": "",
       "raw": "108",
-      "title": "d) Verfahren"
+      "title": "d. Verfahren"
     },
     {
       "number": 109,
@@ -686,55 +722,13 @@
       "suffix": "",
       "raw": "119",
       "title": "Anpassung bestehender Gesetze"
-    },
-    {
-      "number": 120,
-      "suffix": "",
-      "raw": "120",
-      "title": "Übergangsbestimmungen\na) Amtsdauer"
-    },
-    {
-      "number": 121,
-      "suffix": "",
-      "raw": "121",
-      "title": "b) Wahl des Kantonsrates"
-    },
-    {
-      "number": 122,
-      "suffix": "",
-      "raw": "122",
-      "title": "c) Initiative und Referendum"
-    },
-    {
-      "number": 123,
-      "suffix": "",
-      "raw": "123",
-      "title": "d) Ortsgemeinden"
-    },
-    {
-      "number": 124,
-      "suffix": "",
-      "raw": "124",
-      "title": "e) Bürgerrecht"
-    },
-    {
-      "number": 125,
-      "suffix": "",
-      "raw": "125",
-      "title": "f) Einbürgerung"
-    },
-    {
-      "number": 126,
-      "suffix": "",
-      "raw": "126",
-      "title": "Vollzugsbeginn"
     }
   ],
   "article_texts": {
     "1": [
       {
         "num": "1",
-        "text": "Der Kanton St.Gallen ist ein Gliedstaat der Schweizerischen Eidgenossenschaft."
+        "text": "Der Kanton St. Gallen ist ein Gliedstaat der Schweizerischen Eidgenossenschaft."
       },
       {
         "num": "2",
@@ -746,37 +740,25 @@
       },
       {
         "num": "4",
-        "text": "Hauptstadt ist St.Gallen."
+        "text": "Hauptstadt ist St. Gallen."
       }
     ],
     "2": [
       {
-        "num": "1",
-        "text": "Die Grundrechte sind nach Massgabe der Bundesverfassung gewährleistet, namentlich:"
-      },
-      {
         "num": null,
-        "text": "a) Achtung und Schutz der Menschenwürde; b) Rechtsgleichheit, Schutz vor jeder Diskriminierung sowie Gleichstellung von Frau und Mann; c) Schutz vor Willkür sowie Wahrung von Treu und Glauben; d) Recht auf Leben und auf persönliche Freiheit, insbesondere auf körperliche und geistige Unversehrtheit; e) Anspruch von Kindern und Jugendlichen auf Schutz und Förderung; f) Recht auf Hilfe in Notlagen; g) Schutz der Privatsphäre, einschliesslich Schutz vor Missbrauch persönlicher Daten; h) Recht auf Ehe und Familie; i) Glaubens- und Gewissensfreiheit; j) Meinungs- und Informationsfreiheit; k) Medienfreiheit; l) Sprachenfreiheit; m) Anspruch auf ausreichenden und unentgeltlichen Grundschulunterricht; n) Freiheit der wissenschaftlichen Lehre und Forschung; o) Kunstfreiheit; p) Versammlungsfreiheit; q) Vereinigungsfreiheit; r) Niederlassungsfreiheit für Schweizerinnen und Schweizer; s) Schutz von Schweizerinnen und Schweizern vor Ausweisung, Auslieferung sowie Ausschaffung; t) Eigentumsgarantie; u) Wirtschaftsfreiheit; v) Koalitionsfreiheit der Sozialpartner und ihrer Organisationen; w) Petitionsrecht; x) freie Willensbildung und unverfälschte Stimmabgabe in Ausübung der politischen Rechte."
+        "text": "Die Grundrechte sind nach Massgabe der Bundesverfassung gewährleistet, namentlich:"
       }
     ],
     "3": [
       {
-        "num": "1",
-        "text": "Diese Verfassung gewährleistet überdies:"
-      },
-      {
         "num": null,
-        "text": "a) das Recht, Privatschulen zu gründen und zu führen sowie zu besuchen; b) den Anspruch von Schulpflichtigen auf Unterstützung, wenn sie beim Schulbesuch wegen der Lage ihres Wohnortes, wegen Behinderung oder aus sozialen Gründen benachteiligt sind; c) den Anspruch auf Beihilfen für die Aus- und Weiterbildung über den Grundschulunterricht hinaus nach Massgabe der wirtschaftlichen Leistungsfähigkeit der bewerbenden Person und ihrer Eltern; d) das Recht, auf eine Petition innert angemessener Frist eine Antwort zu erhalten."
+        "text": "Diese Verfassung gewährleistet überdies:"
       }
     ],
     "4": [
       {
-        "num": "1",
-        "text": "Jede Person hat in Verfahren vor Verwaltungs- und Gerichtsinstanzen nach Massgabe der Bundesverfassung namentlich das Recht auf:"
-      },
-      {
         "num": null,
-        "text": "a) gleiche und gerechte Behandlung; b) Beurteilung innert angemessener Frist; c) rechtliches Gehör; d) unentgeltliche Rechtspflege und unentgeltlichen Rechtsbeistand; e) Beurteilung durch unabhängige Gerichte; f) Schutz im Fall eines Freiheitsentzugs; g) ein faires Strafverfahren."
+        "text": "Jede Person hat in Verfahren vor Verwaltungs- und Gerichtsinstanzen nach Massgabe der Bundesverfassung namentlich das Recht auf:"
       }
     ],
     "5": [
@@ -795,7 +777,7 @@
     ],
     "6": [
       {
-        "num": "1",
+        "num": null,
         "text": "Jede Person trägt Verantwortung für sich selbst sowie Mitverantwortung für die Gemeinschaft und die Erhaltung der Lebensgrundlagen."
       }
     ],
@@ -839,10 +821,6 @@
         "text": "Der Staat setzt sich zum Ziel, dass:"
       },
       {
-        "num": null,
-        "text": "a) Kinder und Jugendliche eine auf den Grundlagen ihrer Eignungen und Neigungen aufbauende Bildung und Erziehung erhalten; b) die Chancengleichheit auf allen Stufen gegeben ist; c) öffentliche Bildungseinrichtungen sowie vielfältige Bildungsangebote von hoher Qualität bestehen; d) durch Weiterbildung die in der Ausbildung erworbenen Fähigkeiten und Fertigkeiten weiterentwickelt werden können."
-      },
-      {
         "num": "2",
         "text": "Er fördert insbesondere die geistigen, sozialen, schöpferischen, emotionalen und körperlichen Fähigkeiten der Kinder und Jugendlichen sowie die Zusammenarbeit von Schule und Eltern in Erziehung und Bildung."
       },
@@ -853,17 +831,13 @@
     ],
     "11": [
       {
-        "num": "1",
-        "text": "Der Staat setzt sich zum Ziel, dass:"
-      },
-      {
         "num": null,
-        "text": "a) kulturelle Werte geschaffen und entfaltet werden; b) kulturelles Erbe bewahrt und überliefert wird; c) zeitgenössisches Kulturschaffen vermittelt wird."
+        "text": "Der Staat setzt sich zum Ziel, dass:"
       }
     ],
     "12": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Staat setzt sich in Ergänzung zu persönlicher Verantwortung und privater Initiative die soziale Sicherung der Bevölkerung, namentlich von Familien, Kindern, Jugendlichen, Alleinstehenden, Betagten und Behinderten, zum Ziel."
       }
     ],
@@ -879,38 +853,26 @@
     ],
     "14": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Staat setzt sich die soziale Integration zum Ziel."
       }
     ],
     "15": [
       {
-        "num": "1",
-        "text": "Der Staat setzt sich zum Ziel, dass:"
-      },
-      {
         "num": null,
-        "text": "a) die Bevölkerung zu für sie tragbaren Bedingungen eine ausreichende Gesundheitsversorgung erhält; b) eine wirksame und breit gefächerte Gesundheitsvorsorge und Gesundheitserziehung bestehen; c) die Bevölkerung Sport betreiben kann."
+        "text": "Der Staat setzt sich zum Ziel, dass:"
       }
     ],
     "16": [
       {
-        "num": "1",
-        "text": "Der Staat setzt sich zum Ziel, dass:"
-      },
-      {
         "num": null,
-        "text": "a) der Mensch und die natürliche Umwelt vor schädlichen oder lästigen Einwirkungen bewahrt werden; b) die Erneuerungsfähigkeit der natürlichen Lebensgrundlagen erhalten wird; c) die Lasten von denen angemessen getragen werden, die sie verursachen."
+        "text": "Der Staat setzt sich zum Ziel, dass:"
       }
     ],
     "17": [
       {
-        "num": "1",
-        "text": "Der Staat setzt sich zum Ziel, dass:"
-      },
-      {
         "num": null,
-        "text": "a) das Land geordnet besiedelt wird; b) der Boden zweckmässig und haushälterisch genutzt wird; c) die Landschaft geschützt wird."
+        "text": "Der Staat setzt sich zum Ziel, dass:"
       }
     ],
     "18": [
@@ -919,43 +881,31 @@
         "text": "Der Staat setzt sich zum Ziel, dass:"
       },
       {
-        "num": null,
-        "text": "a) der ganze Kanton verkehrsmässig ausreichend erschlossen ist; b) öffentliche und private Verkehrsmittel sinnvoll und bedarfsgerecht eingesetzt werden."
-      },
-      {
         "num": "2",
         "text": "Er berücksichtigt die Bedürfnisse von schwächeren Verkehrsteilnehmerinnen und Verkehrsteilnehmern."
       }
     ],
     "19": [
       {
-        "num": "1",
-        "text": "Der Staat setzt sich zum Ziel, dass:"
-      },
-      {
         "num": null,
-        "text": "a) eine vielseitige und wettbewerbsfähige Wirtschaft besteht, die ein gesichertes und vielfältiges Arbeitsplatzangebot bereitstellt sowie der Förderung der allgemeinen Wohlfahrt dient; b) die Sozialpartnerschaft gepflegt wird; c) Erwerbsfähige ihren Lebensunterhalt durch Arbeit zu angemessenen Bedingungen bestreiten können; d) Kanton und Gemeinden für Menschen und Unternehmungen als Wirtschaftsstandorte attraktiv sind."
+        "text": "Der Staat setzt sich zum Ziel, dass:"
       }
     ],
     "20": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Staat setzt sich zum Ziel, dass eine leistungsfähige und nachhaltig produzierende Land- und Waldwirtschaft besteht, die ihre vielfältigen Aufgaben für Natur, Mensch und Wirtschaft erfüllen kann."
       }
     ],
     "21": [
       {
-        "num": "1",
-        "text": "Der Staat setzt sich zum Ziel, dass:"
-      },
-      {
         "num": null,
-        "text": "a) die Versorgung mit Wasser und Energie gesichert ist und der Verbrauch sparsam erfolgt; b) mit Ressourcen schonend umgegangen wird; c) Abfälle vermieden, vermindert und wieder verwertet werden."
+        "text": "Der Staat setzt sich zum Ziel, dass:"
       }
     ],
     "22": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Staat setzt sich zum Ziel, die öffentliche Sicherheit und Ordnung zu wahren."
       }
     ],
@@ -963,10 +913,6 @@
       {
         "num": "1",
         "text": "Der Staat setzt sich zum Ziel, in Zusammenarbeit mit dem Bund, anderen Kantonen und dem Ausland insbesondere:"
-      },
-      {
-        "num": null,
-        "text": "a) Aufgaben gemeinsam zu lösen; b) das gegenseitige Verständnis der Bevölkerungen auf- und auszubauen sowie einen Beitrag zur Bewahrung des Friedens zu leisten."
       },
       {
         "num": "2",
@@ -993,10 +939,6 @@
         "text": "Er erfüllt Staatsaufgaben insbesondere, wenn:"
       },
       {
-        "num": null,
-        "text": "a) die Grundversorgung der Bevölkerung sicherzustellen ist; b) ein Nutzen gleichmässig anfallen soll."
-      },
-      {
         "num": "3",
         "text": "Das Gesetz regelt die Voraussetzungen für die Übertragung der Erfüllung von Staatsaufgaben an Private sowie den Rechtsschutz und die Aufsicht."
       }
@@ -1017,7 +959,7 @@
     ],
     "27": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton erfüllt Staatsaufgaben dezentral, wenn insbesondere die Art der Aufgabe, wirtschaftlicher Mitteleinsatz oder wirksame Aufgabenerfüllung es verlangen."
       }
     ],
@@ -1043,28 +985,20 @@
     ],
     "30": [
       {
-        "num": "1",
+        "num": null,
         "text": "Staatsaufgaben sind regelmässig daraufhin zu überprüfen, ob sie notwendig und finanzierbar sind sowie wirtschaftlich und wirksam erfüllt werden."
       }
     ],
     "31": [
       {
-        "num": "1",
-        "text": "Stimmfähig sind Schweizerinnen und Schweizer, die:"
-      },
-      {
         "num": null,
-        "text": "a) das 18. Altersjahr zurückgelegt haben; b) nicht wegen Geisteskrankheit oder Geistesschwäche entmündigt sind."
+        "text": "Stimmfähig sind Schweizerinnen und Schweizer, die:"
       }
     ],
     "32": [
       {
         "num": "1",
         "text": "Stimmfähige sind stimmberechtigt:"
-      },
-      {
-        "num": null,
-        "text": "a) in kantonalen Angelegenheiten, wenn sie im Kanton wohnen; b) in Gemeindeangelegenheiten, wenn sie in der betreffenden Gemeinde wohnen. Das Gesetz kann Ausnahmen vorsehen."
       },
       {
         "num": "2",
@@ -1107,12 +1041,8 @@
     ],
     "36": [
       {
-        "num": "1",
-        "text": "Die Stimmberechtigten wählen:"
-      },
-      {
         "num": null,
-        "text": "a) die Mitglieder des Kantonsrates; b) die Mitglieder der Regierung; c) die Mitglieder des Ständerates und nach Bundesrecht die Mitglieder des Nationalrates; d) die Präsidentinnen und Präsidenten sowie die weiteren Mitglieder der erstinstanzlichen Zivil- und Strafgerichte, ausgenommen die durch Gesetz bezeichneten Spezialrichterinnen und Spezialrichter; e) die Präsidentinnen und Präsidenten sowie die Mitglieder der Räte der Gemeinden; f) die Mitglieder der Gemeindeparlamente; g) die Mitglieder weiterer durch Gesetz bezeichneter Behörden."
+        "text": "Die Stimmberechtigten wählen:"
       }
     ],
     "37": [
@@ -1122,7 +1052,7 @@
       },
       {
         "num": "2",
-        "text": "Sie werden in den Wahlkreisen St.Gallen, Rorschach, Rheintal, Werdenberg, Sarganserland, See-Gaster, Toggenburg und Wil gewählt."
+        "text": "Sie werden in den Wahlkreisen St. Gallen, Rorschach, Rheintal, Werdenberg, Sarganserland, See-Gaster, Toggenburg und Wil gewählt."
       },
       {
         "num": "3",
@@ -1165,17 +1095,13 @@
     ],
     "41": [
       {
-        "num": "1",
-        "text": "8000 Stimmberechtigte können mit der Verfassungsinitiative verlangen:"
-      },
-      {
         "num": null,
-        "text": "a) die Gesamtrevision der Kantonsverfassung; b) in Form der allgemeinen Anregung oder des ausformulierten Entwurfs eine Teilrevision der Kantonsverfassung."
+        "text": "8000 Stimmberechtigte können mit der Verfassungsinitiative verlangen:"
       }
     ],
     "42": [
       {
-        "num": "1",
+        "num": null,
         "text": "6000 Stimmberechtigte können in Form des ausformulierten Entwurfs den Erlass, die Änderung oder die Aufhebung eines Gesetzes verlangen."
       }
     ],
@@ -1197,15 +1123,11 @@
       {
         "num": "2",
         "text": "Initiativen sind insbesondere ganz oder teilweise unzulässig, wenn sie:"
-      },
-      {
-        "num": null,
-        "text": "a) gegen übergeordnetes Recht verstossen; b) undurchführbar sind; c) die Einheit der Materie oder der Form nicht wahren."
       }
     ],
     "45": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Frist für die Unterschriftensammlung beträgt fünf Monate."
       }
     ],
@@ -1221,28 +1143,20 @@
     ],
     "47": [
       {
-        "num": "1",
+        "num": null,
         "text": "Gesetz und Gemeindeordnung bestimmen Gegenstand, Fristen und Verfahren der Initiative in der Gemeinde."
       }
     ],
     "48": [
       {
-        "num": "1",
-        "text": "Eine obligatorische Abstimmung findet statt über:"
-      },
-      {
         "num": null,
-        "text": "a) Gesamt- oder Teilrevision der Verfassung; b) eine zwischenstaatliche Vereinbarung, wenn ihr nach Massgabe ihres Inhalts Verfassungsrang zukommt, insbesondere wenn damit die Befugnis zur Gesetzgebung übertragen wird; c) eine Initiative, wenn der Kantonsrat nicht zustimmt oder ihr einen Gegenvorschlag gegenüberstellt; d) Beschlüsse über neue Ausgaben, die den im Gesetz festgelegten Betrag übersteigen, und Gesetze, die solche Ausgaben auslösen."
+        "text": "Eine obligatorische Abstimmung findet statt über:"
       }
     ],
     "49": [
       {
         "num": "1",
         "text": "4000 Stimmberechtigte oder ein Drittel der Mitglieder des Kantonsrates können im Verfahren des fakultativen Referendums verlangen, dass eine Abstimmung stattfindet über:"
-      },
-      {
-        "num": null,
-        "text": "a) Gesetze; b) zwischenstaatliche Vereinbarungen, wenn ihnen nach Massgabe ihres Inhalts Gesetzesrang zukommt; c) Beschlüsse über neue Ausgaben, die den im Gesetz festgelegten Betrag übersteigen."
       },
       {
         "num": "2",
@@ -1261,19 +1175,19 @@
     ],
     "51": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Vorlage ist angenommen, wenn sie die Mehrheit der gültigen Stimmen erhalten hat."
       }
     ],
     "52": [
       {
-        "num": "1",
+        "num": null,
         "text": "Gesetz und Gemeindeordnung bestimmen die Gegenstände, die in der Gemeinde der obligatorischen Abstimmung oder dem fakultativen Referendum unterstehen, sowie Fristen und Verfahren."
       }
     ],
     "53": [
       {
-        "num": "1",
+        "num": null,
         "text": "Vor Erlass von Verfassungs- und Gesetzesbestimmungen und bei anderen kantonalen Vorhaben kann eine öffentliche Vernehmlassung oder eine Anhörung durchgeführt werden."
       }
     ],
@@ -1287,44 +1201,42 @@
         "text": "Kanton und Gemeinden können sie in dieser Aufgabe unterstützen."
       }
     ],
-    "56": [
+    "55": [
       {
         "num": "1",
-        "text": "Dem Kantonsrat gehören nicht an:"
+        "text": "Die Beschlüsse fassen je unabhängig voneinander:"
       },
       {
+        "num": "2",
+        "text": "Die richterlichen Behörden handeln in der Rechtsprechung unabhängig. Sie sind ausschliesslich dem Recht verpflichtet."
+      },
+      {
+        "num": "3",
+        "text": "Die von der Ortsgemeinde bezeichneten Mitglieder des Einbürgerungsrates, die dem Gemeindeparlament angehören, treten bei Beschlüssen des Gemeindeparlamentes über die Erteilung des Gemeinde- und Ortsbürgerrechts in Ausstand.3"
+      }
+    ],
+    "56": [
+      {
         "num": null,
-        "text": "a) die Mitglieder der Regierung sowie die Staatssekretärin oder der Staatssekretär; b) die Richterinnen und Richter des Kantonsgerichtes und des Verwaltungsgerichtes sowie die durch Gesetz bezeichneten Mitglieder anderer richterlicher Behörden; c) die durch Gesetz bezeichneten Mitarbeiterinnen und Mitarbeiter der Staatsverwaltung."
+        "text": "Dem Kantonsrat gehören nicht an:"
       }
     ],
     "57": [
       {
-        "num": "1",
-        "text": "Einer richterlichen Behörde gehören nicht an:"
-      },
-      {
         "num": null,
-        "text": "a) die Mitglieder der Regierung sowie die Staatssekretärin oder der Staatssekretär; b) die durch Gesetz bezeichneten Mitarbeiterinnen und Mitarbeiter der Staatsverwaltung."
+        "text": "Einer richterlichen Behörde gehören nicht an:"
       }
     ],
     "58": [
       {
-        "num": "1",
-        "text": "Dem Gemeindeparlament gehören nicht an:"
-      },
-      {
         "num": null,
-        "text": "a) die oder der Ratsvorsitzende und die Mitglieder des Rates sowie die Ratsschreiberin oder der Ratsschreiber; b) die durch Gemeindeordnung bezeichneten Mitarbeiterinnen und Mitarbeiter der Gemeindeverwaltung."
+        "text": "Dem Gemeindeparlament gehören nicht an:"
       }
     ],
     "59": [
       {
         "num": "1",
         "text": "Die Amtsdauer beträgt:"
-      },
-      {
-        "num": null,
-        "text": "a) für den Kantonsrat, die Regierung und weitere Behörden des Kantons und der Gemeinde vier Jahre; b) für die Präsidentin oder den Präsidenten des Kantonsrates ein Jahr; c) für die Regierungspräsidentin oder den Regierungspräsidenten ein Jahr; d) für die Staatssekretärin oder den Staatssekretär vier Jahre; e) für die Mitglieder der Gerichte sechs Jahre."
       },
       {
         "num": "2",
@@ -1361,24 +1273,22 @@
         "text": "Das Gesetz sieht die Haftung für Schäden aus rechtmässigem Handeln in Fällen vor, in denen es die Billigkeit erfordert."
       }
     ],
-    "64": [
-      {
-        "num": "1",
-        "text": "Der Kantonsrat wählt:"
-      },
+    "63": [
       {
         "num": null,
-        "text": "a) seine Organe nach Massgabe des Geschäftsreglements; b) seine Vertretungen in interkantonalen und internationalen parlamentarischen Versammlungen und Kommissionen; c) die Regierungspräsidentin oder den Regierungspräsidenten; d) auf Antrag der Regierung die Staatssekretärin oder den Staatssekretär; e) die Präsidentin oder den Präsidenten sowie die weiteren Mitglieder des Kantonsgerichtes und des Verwaltungsgerichtes; f) weitere durch Gesetz bezeichnete Behörden und Organe."
+        "text": "Der Kantonsrat besteht aus 120 Mitgliedern."
+      }
+    ],
+    "64": [
+      {
+        "num": null,
+        "text": "Der Kantonsrat wählt:"
       }
     ],
     "65": [
       {
-        "num": "1",
-        "text": "Der Kantonsrat:"
-      },
-      {
         "num": null,
-        "text": "a) beschliesst Verfassungsänderungen; b) beschliesst Erlass, Änderung und Aufhebung von Gesetzen; c) genehmigt Abschluss und Kündigung zwischenstaatlicher Vereinbarungen mit Verfassungs- und Gesetzesrang; d) erlässt ein Geschäftsreglement und legt die parlamentarischen Instrumente fest; e) informiert sich über die Aussenbeziehungen und legt Ziele für deren Ausgestaltung fest; f) beschliesst über Voranschlag und Steuerfuss sowie über die Genehmigung der Rechnung; g) beschliesst über neue Ausgaben, die den im Gesetz festgelegten Betrag übersteigen; h) behandelt nach Massgabe des Gesetzes den Aufgaben- und Finanzplan; i) berät Berichte; j) beaufsichtigt Regierung und Staatsverwaltung; k) beaufsichtigt den Geschäftsgang der Gerichte; l) reicht nach Massgabe der Bundesverfassung Standesinitiativen ein; m) erfüllt weitere Aufgaben, die ihm das Gesetz überträgt."
+        "text": "Der Kantonsrat:"
       }
     ],
     "66": [
@@ -1393,17 +1303,13 @@
     ],
     "67": [
       {
-        "num": "1",
-        "text": "Der Kantonsrat erlässt ein Gesetz mit ausdrücklicher oder stillschweigender Zustimmung der Stimmberechtigten, wenn in allgemeiner Form insbesondere:"
-      },
-      {
         "num": null,
-        "text": "a) Rechte und Pflichten von Privaten sowie von Kanton, Gemeinden und anderen öffentlich-rechtlichen Körperschaften festgelegt werden; b) die Grundzüge von Organisation und Verfahren in Kanton, Gemeinden und anderen öffentlich-rechtlichen Körperschaften und Anstalten geordnet werden."
+        "text": "Der Kantonsrat erlässt ein Gesetz mit ausdrücklicher oder stillschweigender Zustimmung der Stimmberechtigten, wenn in allgemeiner Form insbesondere:"
       }
     ],
     "68": [
       {
-        "num": "1",
+        "num": null,
         "text": "Aus Gründen zeitlicher Dringlichkeit kann der Kantonsrat mit Zustimmung der Mehrheit seiner Mitglieder Gesetze oder Finanzbeschlüsse sofort in Vollzug setzen. Spätestens nach einem Jahr müssen diese dem Referendum unterstellt werden."
       }
     ],
@@ -1419,12 +1325,8 @@
     ],
     "70": [
       {
-        "num": "1",
-        "text": "Die Regierungspräsidentin oder der Regierungspräsident:"
-      },
-      {
         "num": null,
-        "text": "a) leitet die Verhandlungen; b) überwacht den Geschäftsgang; c) vertritt die Regierung, soweit kein anderes Mitglied damit betraut wird; d) erfüllt die besonderen Aufgaben, die das Gesetz der oder dem Vorsitzenden der Kollegialbehörde überträgt."
+        "text": "Die Regierungspräsidentin oder der Regierungspräsident:"
       }
     ],
     "71": [
@@ -1453,12 +1355,8 @@
     ],
     "73": [
       {
-        "num": "1",
-        "text": "Die Regierung:"
-      },
-      {
         "num": null,
-        "text": "a) bereitet in der Regel die Geschäfte des Kantonsrates vor; b) setzt Verfassung, Gesetze, zwischenstaatliche Vereinbarungen sowie Beschlüsse des Kantonsrates um, insbesondere durch: 1. Verordnungen; 2. Vollzugshandlungen; 3. Vertragsabschlüsse; c) berichtet dem Kantonsrat über ihre Tätigkeit; d) unterbreitet dem Kantonsrat Voranschlag und Rechnung; e) unterbreitet dem Kantonsrat nach Massgabe des Gesetzes den Aufgaben- und Finanzplan; f) erstellt Vernehmlassungen zuhanden der Bundesbehörden, soweit sie nicht nachgeordnete Stellen damit beauftragt; g) stellt die Führung in ausserordentlichen Lagen sicher; h) entscheidet in besonderen Rechtsstreitigkeiten; i) entscheidet über Begnadigungsgesuche; j) erfüllt weitere Aufgaben, die ihr das Gesetz überträgt."
+        "text": "Die Regierung:"
       }
     ],
     "74": [
@@ -1471,28 +1369,20 @@
         "text": "Im Rahmen ihrer Zuständigkeiten:"
       },
       {
-        "num": null,
-        "text": "a) schliesst sie zwischenstaatliche Vereinbarungen ab; b) bezeichnet sie Vertretungen des Staates in zwischenstaatlichen Einrichtungen; c) informiert sie den Kantonsrat über die Aussenbeziehungen, insbesondere über laufende Verhandlungen zu wichtigen zwischenstaatlichen Vereinbarungen."
-      },
-      {
         "num": "3",
-        "text": "Die Regierung ist nach Massgabe der Bundesverfassung zuständig: 1. zur Einreichung von Standesinitiativen, soweit nicht der Kantonsrat das Recht ausübt; 2. zur Mitwirkung beim Standesreferendum."
+        "text": "Die Regierung ist nach Massgabe der Bundesverfassung zuständig:"
       }
     ],
     "75": [
       {
-        "num": "1",
+        "num": null,
         "text": "Soweit unaufschiebbarer Regelungsbedarf besteht und das ordentliche Verfahren wegen zeitlicher Dringlichkeit nicht durchgeführt werden kann, setzt die Regierung durch Verordnung vorläufig Recht. Sie stellt dem Kantonsrat ohne Verzug Antrag auf Erlass gesetzlicher Bestimmungen. Die Verordnung wird längstens zwei Jahre angewendet."
       }
     ],
     "76": [
       {
-        "num": "1",
-        "text": "Zuständigkeiten der Regierung können nach Massgabe des Gesetzes übertragen werden auf:"
-      },
-      {
         "num": null,
-        "text": "a) der Regierung nachgeordnete Dienststellen; b) Kommissionen mit ausführenden Befugnissen; c) öffentlich-rechtliche Anstalten; d) Private."
+        "text": "Zuständigkeiten der Regierung können nach Massgabe des Gesetzes übertragen werden auf:"
       }
     ],
     "77": [
@@ -1517,10 +1407,6 @@
       {
         "num": "2",
         "text": "Das Gesetz sieht vor, dass zwei ordentliche Instanzen Recht sprechen. Es weicht von diesem Grundsatz ab, wenn:"
-      },
-      {
-        "num": null,
-        "text": "a) die oberste Gerichtsinstanz im Kanton als einzige zuständig ist; b) Bagatellsachen zu entscheiden sind."
       }
     ],
     "79": [
@@ -1539,17 +1425,13 @@
     ],
     "80": [
       {
-        "num": "1",
-        "text": "Die Rechtspflege in Staats- und Verwaltungssachen wird ausgeübt durch:"
-      },
-      {
         "num": null,
-        "text": "a) Verwaltungsbehörden des Kantons und der Gemeinden; b) das Verwaltungsgericht als oberstes Gericht; c) weitere gerichtliche Instanzen der Verwaltungsrechtspflege."
+        "text": "Die Rechtspflege in Staats- und Verwaltungssachen wird ausgeübt durch:"
       }
     ],
     "81": [
       {
-        "num": "1",
+        "num": null,
         "text": "Recht sprechende Instanzen überprüfen im konkreten Anwendungsfall eine Gesetzes- oder Verordnungsvorschrift auf ihre Übereinstimmung mit übergeordnetem Recht."
       }
     ],
@@ -1573,10 +1455,6 @@
         "text": "Der Kanton beschafft sich die Mittel insbesondere:"
       },
       {
-        "num": null,
-        "text": "a) durch Steuern und andere Abgaben; b) aus den Erträgen seines Vermögens; c) aus Beiträgen und Leistungsentschädigungen Dritter."
-      },
-      {
         "num": "2",
         "text": "Er kann Fremdmittel zur Finanzierung von Investitionen und zur Sicherstellung der Liquidität aufnehmen."
       },
@@ -1597,7 +1475,7 @@
     ],
     "85": [
       {
-        "num": "1",
+        "num": null,
         "text": "Das Gesetz regelt den Finanzausgleich. Dieser hat zum Ziel, den politischen Gemeinden die notwendigen Mittel zur Verfügung zu stellen, finanzielle Unterschiede zwischen den Gemeinden zu verringern und übermässige Belastungen der Gemeinden auszugleichen."
       }
     ],
@@ -1617,7 +1495,7 @@
     ],
     "87": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Finanzhaushalte werden nach Massgabe des Gesetzes durch unabhängige und fachkundige Organe kontrolliert."
       }
     ],
@@ -1625,10 +1503,6 @@
       {
         "num": "1",
         "text": "Gemeinden sind:"
-      },
-      {
-        "num": null,
-        "text": "a) die politische Gemeinde; b) die Schulgemeinde; c) die Ortsgemeinde."
       },
       {
         "num": "2",
@@ -1655,14 +1529,14 @@
     ],
     "90": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Gemeinde erfüllt die Aufgaben, die der Kanton ihr durch Verfassung und Gesetz zuweist, sowie im Rahmen ihrer Autonomie Aufgaben, die sie im öffentlichen Interesse selbst wählt."
       }
     ],
     "91": [
       {
         "num": "1",
-        "text": "Das Gebiet des Kantons St.Gallen ist in politische Gemeinden gegliedert."
+        "text": "Das Gebiet des Kantons St. Gallen ist in politische Gemeinden gegliedert."
       },
       {
         "num": "2",
@@ -1675,13 +1549,13 @@
     ],
     "92": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Schulgemeinde erfüllt die ihr durch das Gesetz übertragenen Aufgaben im Schul- und Bildungsbereich."
       }
     ],
     "93": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Ortsgemeinde erfüllt mit ihren Mitteln gemeinnützige, kulturelle und andere Aufgaben im öffentlichen Interesse. Ihre Leistungen kommen der Allgemeinheit zugute."
       }
     ],
@@ -1695,14 +1569,44 @@
         "text": "Die Gemeinde erlässt eine Gemeindeordnung, die insbesondere Organisation und Zuständigkeit der Behörden regelt."
       }
     ],
+    "95": [
+      {
+        "num": "1",
+        "text": "Organe der Gemeinde sind:"
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz kann weitere Gemeindebehörden einsetzen."
+      }
+    ],
+    "96": [
+      {
+        "num": "1",
+        "text": "Die Gemeinde arbeitet durch Vereinbarung mit anderen Gemeinden zusammen, insbesondere durch:"
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt das Verfahren und fördert die Zusammenarbeit."
+      },
+      {
+        "num": "3",
+        "text": "Es kann vorsehen, dass Mehraufwendungen im Finanzausgleich nicht berücksichtigt oder Beiträge herabgesetzt werden, wenn eine gebotene Zusammenarbeit unterbleibt."
+      }
+    ],
+    "97": [
+      {
+        "num": "1",
+        "text": "Die Gemeinde entscheidet über die Mitgliedschaft im Gemeindeverband oder im Zweckverband. Sie kann nach Massgabe des Gesetzes zur Mitgliedschaft verpflichtet werden, wenn ein wirtschaftlicher Mitteleinsatz oder eine wirksame Aufgabenerfüllung es verlangen. Die Stimmberechtigten der im Gemeindeverband zusammengeschlossenen Gemeinden bilden die Verbandsbürgerschaft."
+      },
+      {
+        "num": "2",
+        "text": "Die Bürgerschaften der in einem Zweckverband beteiligten Gemeinden entscheiden nach Massgabe von Verbandsvereinbarung und Gemeindeordnung."
+      }
+    ],
     "98": [
       {
         "num": "1",
         "text": "Das Gesetz regelt:"
-      },
-      {
-        "num": null,
-        "text": "a) die Vereinigung von Gemeinden zu einer neuen Gemeinde; b) die Abtrennung von Gemeindeteilen zur Vereinigung mit einer anderen Gemeinde oder zur Bildung einer neuen Gemeinde; c) die Aufhebung von Gemeinden, die keine Aufgaben im öffentlichen Interesse mehr erfüllen."
       },
       {
         "num": "2",
@@ -1717,25 +1621,25 @@
       {
         "num": "2",
         "text": "Unterbleibt eine gebotene Vereinigung oder werden andere Gemeinden in der Aufgabenerfüllung erheblich behindert, kann es vorsehen, dass:"
-      },
-      {
-        "num": null,
-        "text": "a) Mehraufwendungen im Finanzausgleich nicht berücksichtigt oder Beiträge herabgesetzt werden; b) Gemeinden vereinigt werden."
       }
     ],
     "100": [
       {
         "num": "1",
-        "text": "Die Gemeinde steht unter der Aufsicht des Kantons. Die Aufsicht beschränkt sich im Bereich der Gemeindeautonomie auf die Überprüfung der Rechtmässigkeit."
+        "text": "Die Gemeinde steht unter der Aufsicht des Kantons."
       },
       {
         "num": "2",
+        "text": "Die Aufsicht beschränkt sich im Bereich der Gemeindeautonomie auf die Überprüfung der Rechtmässigkeit."
+      },
+      {
+        "num": "3",
         "text": "Sie umfasst ausserhalb der Gemeindeautonomie die Überprüfung von Rechtmässigkeit und Angemessenheit, wenn das Gesetz nichts anderes vorsieht."
       }
     ],
     "101": [
       {
-        "num": "1",
+        "num": null,
         "text": "Das Gemeindebürgerrecht der politischen Gemeinde ist Grundlage des Kantonsbürgerrechts."
       }
     ],
@@ -1763,20 +1667,34 @@
         "text": "Trifft das Gesetz keine besondere Regelung, gelten sachgemäss die Bestimmungen über den Rat der politischen Gemeinde."
       }
     ],
-    "105": [
+    "104": [
       {
         "num": "1",
+        "text": "Der Einbürgerungsrat beschliesst über die Erteilung des Gemeinde- und des Ortsbürgerrechts. Er gibt die Einbürgerung im amtlichen Publikationsorgan der politischen Gemeinde bekannt und legt seinen Beschluss mit Informationen über die Eignung der gesuchstellenden Person für die Einbürgerung öffentlich auf."
+      },
+      {
+        "num": null,
+        "text": "- Stimmberechtigte der politischen Gemeinde können beim Einbürgerungsrat nach Massgabe des Gesetzes schriftlich und begründet Einsprache gegen die Einbürgerung erheben. Der Einbürgerungsrat gibt der um das Bürgerrecht nachsuchenden Person Gelegenheit zur Stellungnahme."
+      },
+      {
+        "num": "3",
+        "text": "Über die Einbürgerung, gegen die gültig Einsprache erhoben wurde, entscheidet in Gemeinden mit Bürgerversammlung die Bürgerversammlung, in Gemeinden mit Parlament das Gemeindeparlament."
+      },
+      {
+        "num": "4",
+        "text": "Die Regierung beschliesst über die Erteilung des Kantonsbürgerrechts, nachdem das Gemeindebürgerrecht erteilt worden ist."
+      }
+    ],
+    "105": [
+      {
+        "num": null,
         "text": "Schweizerinnen und Schweizern wird das Gemeinde- und das Kantonsbürgerrecht auf Ersuchen erteilt, wenn sie wenigstens fünf Jahre in der politischen Gemeinde wohnen."
       }
     ],
     "106": [
       {
         "num": "1",
-        "text": "Ausländischen und staatenlosen Jugendlichen wird das Gemeinde- und Kantonsbürgerrecht selbständig erteilt, wenn sie:"
-      },
-      {
-        "num": null,
-        "text": "a) das Gesuch vor Vollendung des 20. Altersjahres stellen; b) insgesamt während zehn Jahren in der Schweiz wohnen, davon während wenigstens fünf Jahren in der politischen Gemeinde."
+        "text": "Ausländischen und staatenlosen Jugendlichen wird das Gemeinde- und Kantonsbürgerrecht selbstständig erteilt, wenn sie:"
       },
       {
         "num": "2",
@@ -1799,7 +1717,7 @@
     ],
     "108": [
       {
-        "num": "1",
+        "num": null,
         "text": "Das Gesetz regelt Verfahren und Rechtsschutz."
       }
     ],
@@ -1809,12 +1727,8 @@
         "text": "Als öffentlich-rechtliche Körperschaften sind folgende Religionsgemeinschaften anerkannt:"
       },
       {
-        "num": null,
-        "text": "a) der Katholische Konfessionsteil und seine Kirchgemeinden; b) die Evangelische Kirche und ihre Kirchgemeinden; c) die Christkatholische Kirchgemeinde; d) die Jüdische Gemeinde."
-      },
-      {
         "num": "2",
-        "text": "Das Bistum St.Gallen, die Evangelische Kirche, die Christkatholische Kirche und die Jüdische Gemeinde bestehen nach ihrem Selbstverständnis."
+        "text": "Das Bistum St. Gallen, die Evangelische Kirche, die Christkatholische Kirche und die Jüdische Gemeinde bestehen nach ihrem Selbstverständnis."
       }
     ],
     "110": [
@@ -1835,10 +1749,6 @@
       {
         "num": "2",
         "text": "Die Regierung genehmigt den Erlass, wenn:"
-      },
-      {
-        "num": null,
-        "text": "a) Stimmrecht und staatskirchenrechtliche Organisation demokratischen Grundsätzen entsprechen; b) der Finanzhaushalt den Grundsätzen von Transparenz und Öffentlichkeit entspricht; c) kein Widerspruch zu Bundes- und kantonalem Recht besteht."
       }
     ],
     "112": [
@@ -1853,7 +1763,7 @@
     ],
     "113": [
       {
-        "num": "1",
+        "num": null,
         "text": "Das Verfahren der Gesamtrevision der Kantonsverfassung wird mit einem Beschluss des Kantonsrates oder einer Verfassungsinitiative eingeleitet."
       }
     ],
@@ -1897,90 +1807,24 @@
     ],
     "117": [
       {
-        "num": "1",
-        "text": "Das Verfahren der Teilrevision der Kantonsverfassung wird eingeleitet mit:"
-      },
-      {
         "num": null,
-        "text": "a) einem Beschluss des Kantonsrates von sich aus oder auf Grund einer Einheitsinitiative; b) einer Verfassungsinitiative."
+        "text": "Das Verfahren der Teilrevision der Kantonsverfassung wird eingeleitet mit:"
       }
     ],
     "118": [
       {
-        "num": "1",
-        "text": "Es werden aufgehoben:"
-      },
-      {
         "num": null,
-        "text": "a) die Verfassung des Kantons St.Gallen vom 16. November 1890; [2] b) der Grossratsbeschluss betreffend teilweise Änderung der Kantonsverfassung vom 4. Februar 1912; [3] c) der Grossratsbeschluss betreffend teilweise Änderung der Kantonsverfassung zwecks Ermöglichung des Finanzreferendums vom 20. Januar 1924. [4]"
+        "text": "Es werden aufgehoben:"
       }
     ],
     "119": [
       {
         "num": "1",
-        "text": "Der Kantonsrat passt bestehende Gesetze, die mit dieser Verfassung nicht übereinstimmen, innert drei Jahren seit Vollzugsbeginn dieser Verfassung an."
+        "text": "Der Kantonsrat passt bestehende Gesetze, die mit dieser Verfassung nicht übereinstimmen, innert dreier Jahre seit Vollzugsbeginn dieser Verfassung an."
       },
       {
         "num": "2",
         "text": "Der Kantonsrat kann die Frist im Einzelfall verlängern, wenn es sich aus triftigen Gründen als unmöglich erweist, die Anpassung vorzunehmen."
-      }
-    ],
-    "120": [
-      {
-        "num": "1",
-        "text": "Organe und Behörden von Kanton und Gemeinden bleiben bis zum Ablauf ihrer Amtsdauer im Amt. Für Ersatzwahlen gilt das bisherige Recht."
-      }
-    ],
-    "121": [
-      {
-        "num": "1",
-        "text": "Bis zum Erlass gesetzlicher Bestimmungen nach Art. 37 Abs. 2 dieser Verfassung bestehen:"
-      },
-      {
-        "num": null,
-        "text": "a) der Wahlkreis St.Gallen mit den politischen Gemeinden St.Gallen, Eggersriet, Wittenbach, Häggenschwil, Muolen, Waldkirch, Andwil, Gossau und Gaiserwald; b) der Wahlkreis Rorschach mit den politischen Gemeinden Mörschwil, Goldach, Steinach, Berg, Tübach, Untereggen, Rorschacherberg, Rorschach und Thal; c) der Wahlkreis Rheintal mit den politischen Gemeinden Rheineck, St.Margrethen, Au, Berneck, Balgach, Diepoldsau, Widnau, Rebstein, Marbach, Altstätten, Eichberg, Oberriet und Rüthi; d) der Wahlkreis Werdenberg mit den politischen Gemeinden Sennwald, Gams, Grabs, Buchs, Sevelen und Wartau; e) der Wahlkreis Sarganserland mit den politischen Gemeinden Sargans, Vilters-Wangs, Bad Ragaz, Pfäfers, Mels, Flums, Walenstadt und Quarten; f) der Wahlkreis See-Gaster mit den politischen Gemeinden Amden, Weesen, Schänis, Benken, Kaltbrunn, Rieden, Gommiswald, Ernetschwil, Uznach, Schmerikon, Rapperswil, Jona, Eschenbach, Goldingen und St.Gallenkappel; g) der Wahlkreis Toggenburg mit den politischen Gemeinden Wildhaus, Alt St.Johann, Stein, Nesslau, Krummenau, Ebnat-Kappel, Wattwil, Lichtensteig, Oberhelfenschwil, Brunnadern, Hemberg, St.Peterzell, Krinau, Bütschwil, Lütisburg, Mosnang, Kirchberg, Mogelsberg und Ganterschwil; h) der Wahlkreis Wil mit den politischen Gemeinden Jonschwil, Oberuzwil, Uzwil, Flawil, Degersheim, Wil, Bronschhofen, Zuzwil, Oberbüren, Niederbüren und Niederhelfenschwil."
-      }
-    ],
-    "122": [
-      {
-        "num": "1",
-        "text": "Für Initiativbegehren, die vor Vollzugsbeginn dieser Verfassung zulässig erklärt und angemeldet worden sind, wird für Unterschriftenzahlen und Frist für die Unterschriftensammlung das bisherige Recht angewendet."
-      },
-      {
-        "num": "2",
-        "text": "Die Behandlung von Einheitsinitiativen richtet sich sachgemäss nach den für die Gesetzesinitiative geltenden Bestimmungen des Gesetzes über Referendum und Initiative vom 27. November 1967. [5]"
-      },
-      {
-        "num": "3",
-        "text": "Für Gesetze sowie Beschlüsse über zwischenstaatliche Vereinbarungen und neue Ausgaben, die dem fakultativen Referendum unterstehen, wird für die Frist für die Unterschriftensammlung das bisherige Recht angewendet, wenn die Schlussabstimmung im Grossen Rat vor Vollzugsbeginn dieser Verfassung erfolgte."
-      }
-    ],
-    "123": [
-      {
-        "num": "1",
-        "text": "Die bei Vollzugsbeginn dieser Verfassung bestehenden Ortsgemeinden sind als Spezialgemeinden anerkannt, wenn sie gemeinnützige, kulturelle oder andere Aufgaben im öffentlichen Interesse erfüllen und über Vermögen verfügen."
-      },
-      {
-        "num": "2",
-        "text": "Die Regierung stellt die Aufhebung der Ortsgemeinden fest, welche die Voraussetzungen nach Abs. 1 dieser Bestimmung nicht erfüllen. Rechte und Pflichten gehen an die politische Gemeinde über."
-      }
-    ],
-    "124": [
-      {
-        "num": "1",
-        "text": "Bürgerinnen und Bürger einer Ortsgemeinde erhalten ab Vollzugsbeginn dieser Verfassung ohne weiteres das Gemeindebürgerrecht nach neuem Recht."
-      }
-    ],
-    "125": [
-      {
-        "num": "1",
-        "text": "Die Zuständigkeit für Einbürgerungen richtet sich ab Vollzugsbeginn dieser Verfassung nach deren Bestimmungen."
-      }
-    ],
-    "126": [
-      {
-        "num": "1",
-        "text": "Diese Verfassung wird ab 1. Januar 2003 angewendet."
       }
     ]
   }

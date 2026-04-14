@@ -3,11 +3,11 @@
   "law_key": "zh-kv",
   "sr_number": "101",
   "language": "de",
-  "title": "Kantonsverfassung ZH",
+  "title": "Verfassung des Kantons Zürich",
   "lexfind_id": 21736,
   "fetched_at": "2026-04-14",
-  "source": "lexfind_pdf",
-  "article_count": 139,
+  "source": "fedlex",
+  "article_count": 143,
   "articles": [
     {
       "number": 1,
@@ -175,12 +175,6 @@
       "number": 28,
       "suffix": "",
       "raw": "28",
-      "title": "Gültigkeit"
-    },
-    {
-      "number": 29,
-      "suffix": "",
-      "raw": "29",
       "title": "Verfahren bei Volksinitiativen"
     },
     {
@@ -236,6 +230,12 @@
       "suffix": "",
       "raw": "39",
       "title": "Demokratisches Engagement"
+    },
+    {
+      "number": 40,
+      "suffix": "",
+      "raw": "40",
+      "title": "Wählbarkeit"
     },
     {
       "number": 41,
@@ -328,6 +328,12 @@
       "title": "Planung"
     },
     {
+      "number": 56,
+      "suffix": "",
+      "raw": "56",
+      "title": "Finanzbefugnisse"
+    },
+    {
       "number": 57,
       "suffix": "",
       "raw": "57",
@@ -394,6 +400,12 @@
       "title": "Aufgaben bei der Rechtsetzung"
     },
     {
+      "number": 68,
+      "suffix": "",
+      "raw": "68",
+      "title": "Finanzbefugnisse"
+    },
+    {
       "number": 69,
       "suffix": "",
       "raw": "69",
@@ -424,10 +436,22 @@
       "title": "Aufgaben und Stellung der Gerichte"
     },
     {
+      "number": 74,
+      "suffix": "",
+      "raw": "74",
+      "title": "Grundsätze der Gerichtsorganisation"
+    },
+    {
       "number": 75,
       "suffix": "",
       "raw": "75",
       "title": "Wahl"
+    },
+    {
+      "number": 76,
+      "suffix": "",
+      "raw": "76",
+      "title": "Zivil- und Strafrechtspflege"
     },
     {
       "number": 77,
@@ -583,7 +607,7 @@
       "number": 102,
       "suffix": "",
       "raw": "102",
-      "title": "Klima"
+      "title": "Umweltschutz"
     },
     {
       "number": 103,
@@ -607,7 +631,7 @@
       "number": 106,
       "suffix": "",
       "raw": "106",
-      "title": "Stoffkreisläufe"
+      "title": "Energie"
     },
     {
       "number": 107,
@@ -890,7 +914,7 @@
     "4": [
       {
         "num": null,
-        "text": "Kantonen, dem Bund und, in seinem Zuständigkeitsbereich, mit dem Ausland zusammen."
+        "text": "Der Kanton arbeitet mit den Gemeinden, den anderen Kantonen, dem Bund und, in seinem Zuständigkeitsbereich, mit dem Ausland zusammen."
       }
     ],
     "5": [
@@ -900,11 +924,7 @@
       },
       {
         "num": "2",
-        "text": "Der Kanton und die Gemeinden anerkennen die Initiative von Einzelnen und von Organisationen zur Förderung des Gemeinwohls."
-      },
-      {
-        "num": null,
-        "text": "Sie fördern die Hilfe zur Selbsthilfe."
+        "text": "Der Kanton und die Gemeinden anerkennen die Initiative von Einzelnen und von Organisationen zur Förderung des Gemeinwohls. Sie fördern die Hilfe zur Selbsthilfe."
       },
       {
         "num": "3",
@@ -924,29 +944,29 @@
     "7": [
       {
         "num": null,
-        "text": "gen für den Dialog zwischen den Kulturen, Weltanschauungen und Religionen."
+        "text": "Kanton und Gemeinden schaffen günstige Voraussetzungen für den Dialog zwischen den Kulturen, Weltanschauungen und Religionen."
       }
     ],
     "8": [
       {
         "num": null,
-        "text": "gungen für wirtschaftliche, kulturelle, soziale und ökologische Innovation."
+        "text": "Kanton und Gemeinden schaffen günstige Rahmenbedingungen für wirtschaftliche, kulturelle, soziale und ökologische Innovation."
       }
     ],
     "9": [
       {
         "num": null,
-        "text": "Gewährleistung der Grundrechte"
+        "text": "Die Würde des Menschen ist unantastbar."
       }
     ],
     "10": [
       {
         "num": "1",
-        "text": "Die Menschenrechte und Grundrechte sind gemäss der Bundesverfassung4, den für die Schweiz verbindlichen internationalen Abkommen und der Kantonsverfassung gewährleistet."
+        "text": "Die Menschenrechte und Grundrechte sind gemäss der Bundesverfassung2, den für die Schweiz verbindlichen internationalen Abkommen und der Kantonsverfassung gewährleistet."
       },
       {
         "num": "2",
-        "text": "Die Bestimmungen der Bundesverfassung4 über die Verwirklichung und die Einschränkung der Grundrechte gelten auch für die Grundrechte des kantonalen Rechts."
+        "text": "Die Bestimmungen der Bundesverfassung über die Verwirklichung und die Einschränkung der Grundrechte gelten auch für die Grundrechte des kantonalen Rechts."
       }
     ],
     "11": [
@@ -957,10 +977,6 @@
       {
         "num": "2",
         "text": "Niemand darf diskriminiert werden, namentlich nicht wegen der Herkunft, der Rasse, des Geschlechts, des Alters, genetischer Merkmale, der Sprache, der sexuellen Orientierung, der sozialen Stellung, der Lebensform, der religiösen, weltanschaulichen oder politischen Überzeugung oder wegen einer körperlichen, geistigen oder psychischen Behinderung."
-      },
-      {
-        "num": null,
-        "text": "3 Kantonsverfassung 101 1. 7. 25 - 129"
       },
       {
         "num": "3",
@@ -978,13 +994,13 @@
     "12": [
       {
         "num": null,
-        "text": "Formen des Zusammenlebens"
+        "text": "Die Sprachenfreiheit umfasst auch die Gebärdensprache."
       }
     ],
     "13": [
       {
         "num": null,
-        "text": "lichen Zusammenlebens frei zu wählen. Der Staat kann neben der Ehe auch andere Formen des Zusammenlebens anerkennen."
+        "text": "Jeder Mensch hat das Recht, die Form des partnerschaftlichen Zusammenlebens frei zu wählen. Der Staat kann neben der Ehe auch andere Formen des Zusammenlebens anerkennen."
       }
     ],
     "14": [
@@ -1000,19 +1016,19 @@
     "15": [
       {
         "num": null,
-        "text": "privater Bildungsstätten ist gewährleistet."
+        "text": "Das Recht auf Gründung, Organisation und Besuch privater Bildungsstätten ist gewährleistet."
       }
     ],
     "16": [
       {
         "num": null,
-        "text": "innert sechs Monaten dazu Stellung zu nehmen."
+        "text": "Die Behörden sind verpflichtet, Petitionen zu prüfen und innert sechs Monaten dazu Stellung zu nehmen."
       }
     ],
     "17": [
       {
         "num": null,
-        "text": "menten, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen."
+        "text": "Jede Person hat das Recht auf Zugang zu amtlichen Dokumenten, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen."
       }
     ],
     "18": [
@@ -1022,25 +1038,17 @@
       },
       {
         "num": "2",
-        "text": "Die Parteien haben Anspruch auf einen begründeten Entscheid mit Rechtsmittelbelehrung."
+        "text": "Parteien haben Anspruch auf einen begründeten Entscheid mit Rechtsmittelbelehrung."
       }
     ],
     "19": [
       {
         "num": "1",
-        "text": "Die Sozialziele der Bundesverfassung4 sind auch Sozialziele des Kantons und der Gemeinden."
-      },
-      {
-        "num": null,
-        "text": "4 101 Kantonsverfassung"
+        "text": "Die Sozialziele der Bundesverfassung3 sind auch Sozialziele des Kantons und der Gemeinden."
       },
       {
         "num": "2",
-        "text": "Kanton und Gemeinden setzen sich im Weiteren dafür ein, dass"
-      },
-      {
-        "num": null,
-        "text": "a. Eltern vor und nach der Geburt eines Kindes nicht in eine Notlage geraten; b. Voraussetzungen für die Betreuung von Kindern innerhalb und ausserhalb der Familie geschaffen werden; c. ältere Menschen ihr Leben nach ihren Kräften selbstbestimmt gestalten und an der gesellschaftlichen Entwicklung teilhaben können."
+        "text": "Kanton und Gemeinden setzen sich im Weiteren dafür ein, dass:"
       },
       {
         "num": "3",
@@ -1063,10 +1071,6 @@
       {
         "num": "3",
         "text": "Personen, die im ordentlichen Verfahren eingebürgert werden wollen, müssen:"
-      },
-      {
-        "num": null,
-        "text": "a. über angemessene Kenntnisse der deutschen Sprache verfügen; b. in der Lage sein, für sich und ihre Familien aufzukommen; c. mit den hiesigen Verhältnissen vertraut sein; d. die schweizerische Rechtsordnung beachten."
       }
     ],
     "21": [
@@ -1077,28 +1081,24 @@
       {
         "num": "2",
         "text": "Das Gesetz regelt die Zuständigkeit für die Erteilung des Kantonsbürgerrechts."
-      },
-      {
-        "num": null,
-        "text": "5 Kantonsverfassung 101 1. 7. 25 - 129 5. Kapitel: Volksrechte A. Stimm- und Wahlrecht Stimm- und Wahlrecht"
       }
     ],
     "22": [
       {
         "num": null,
-        "text": "Rechte in Kantons- und Gemeindeangelegenheiten stehen allen Schweizerinnen und Schweizern zu, die im Kanton wohnen, das 18. Lebensjahr zurückgelegt haben und in eidgenössischen Angelegenheiten stimmberechtigt sind."
+        "text": "Das Stimm- und Wahlrecht und die weiteren politischen Rechte in Kantons- und Gemeindeangelegenheiten stehen allen Schweizerinnen und Schweizern zu, die im Kanton wohnen, das 18. Lebensjahr zurückgelegt haben und in eidgenössischen Angelegenheiten stimmberechtigt sind."
       }
     ],
     "23": [
       {
         "num": null,
-        "text": "a. die Total- oder die Teilrevision der Verfassung (Verfassungsinitiative); b. der Erlass, die Änderung oder die Aufhebung eines Gesetzes (Gesetzesinitiative); c. der Erlass, die Änderung oder die Aufhebung eines dem Referendum unterstehenden Kantonsratsbeschlusses; d. die Einreichung einer Standesinitiative; e. die Aufnahme von Verhandlungen über Abschluss oder Änderung eines interkantonalen oder internationalen Vertrages, der dem Referendum untersteht, oder die Kündigung eines solchen Vertrages."
+        "text": "Mit einer Initiative kann jederzeit verlangt werden:"
       }
     ],
     "24": [
       {
         "num": null,
-        "text": "a. 6000 Stimmberechtigte (Volksinitiative); b. eine oder mehrere Behörden (Behördeninitiative); c. eine einzelne stimmberechtigte Person (Einzelinitiative)."
+        "text": "Eine Initiative können einreichen:"
       }
     ],
     "25": [
@@ -1122,13 +1122,13 @@
     "26": [
       {
         "num": null,
-        "text": "sammlung auf Einhaltung der Formvorschriften geprüft."
+        "text": "Eine Volksinitiative wird vor Beginn der Unterschriftensammlung auf Einhaltung der Formvorschriften geprüft."
       }
     ],
     "27": [
       {
         "num": null,
-        "text": "sechs Monaten nach Abschluss der Vorprüfung mit den erforderlichen Unterschriften eingereicht wird."
+        "text": "Die Volksinitiative kommt zustande, wenn sie innert sechs Monaten nach Abschluss der Vorprüfung mit den erforderlichen Unterschriften eingereicht wird."
       }
     ],
     "28": [
@@ -1137,19 +1137,17 @@
         "text": "Eine Initiative ist gültig, wenn sie:"
       },
       {
-        "num": null,
-        "text": "a. die Einheit der Materie wahrt; b. nicht gegen übergeordnetes Recht verstösst; c. nicht offensichtlich undurchführbar ist."
-      },
-      {
         "num": "2",
         "text": "Der Kantonsrat erklärt eine Volksinitiative, welche diese Voraussetzungen nicht erfüllt, für ungültig. Er kann sie aber auch für teilweise gültig erklären oder aufteilen."
       },
       {
         "num": "3",
         "text": "Der Kantonsrat entscheidet mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder."
-      }
-    ],
-    "29": [
+      },
+      {
+        "num": null,
+        "text": "Art. 29"
+      },
       {
         "num": "1",
         "text": "Die Volksabstimmung über eine Initiative findet innert 30 Monaten nach Einreichung statt."
@@ -1162,7 +1160,7 @@
     "30": [
       {
         "num": "1",
-        "text": "Der Kantonsrat kann einer Initiative oder der Vorlage, die er aufgrund einer Volksinitiative ausgearbeitet hat, in der Volksabstimmung einen Gegenvorschlag gegenüberstellen. Dieser muss die gleiche Rechtsform haben wie die Hauptvorlage."
+        "text": "Der Kantonsrat kann einer Initiative oder der Vorlage, die er auf Grund einer Volksinitiative ausgearbeitet hat, in der Volksabstimmung einen Gegenvorschlag gegenüberstellen. Dieser muss die gleiche Rechtsform haben wie die Hauptvorlage."
       },
       {
         "num": "2",
@@ -1176,25 +1174,13 @@
       },
       {
         "num": "2",
-        "text": "Kommt die vorläufige Unterstützung nicht zustande oder findet die Initiative in der Beratung über den Antrag der Regierung keine Mehrheit im Kantonsrat, so ist die Initiative gescheitert."
-      },
-      {
-        "num": null,
-        "text": "7 Kantonsverfassung 101 1. 7. 25 - 129 C. Volksabstimmungen Obligatorisches Referendum"
+        "text": "Kommt die vorläufige Unterstützung nicht zu Stande oder findet die Initiative in der Beratung über den Antrag der Regierung keine Mehrheit im Kantonsrat, so ist die Initiative gescheitert."
       }
     ],
     "32": [
       {
         "num": null,
-        "text": "a. Verfassungsänderungen; b. interkantonale und internationale Verträge, deren Inhalt Verfassungsrang hat; c."
-      },
-      {
-        "num": null,
-        "text": "Volksinitiativen in der Form des ausgearbeiteten Entwurfs, denen der Kantonsrat nicht zustimmt; d. Volksinitiativen in der Form der allgemeinen Anregung, die der Kantonsrat nicht umsetzen will; e. Volksinitiativen, denen der Kantonsrat einen Gegenentwurf gegenüberstellt; f."
-      },
-      {
-        "num": null,
-        "text": "Steuergesetze (Art. 125 Abs. 1 und Art. 130 Abs. 3 lit. b) und ihre Änderungen, die neue Steuern einführen oder für die Einzelnen höhere Steuerbelastungen zur Folge haben."
+        "text": "Dem Volk werden zur Abstimmung unterbreitet:"
       }
     ],
     "33": [
@@ -1203,32 +1189,8 @@
         "text": "Dem Volk werden auf Verlangen zur Abstimmung unterbreitet:"
       },
       {
-        "num": null,
-        "text": "a. der Erlass, die Änderung oder die Aufhebung von Gesetzen; b. interkantonale und internationale Verträge, deren Inhalt Gesetzesrang hat; c."
-      },
-      {
-        "num": null,
-        "text": "Beschlüsse des Kantonsrates, die durch Gesetz dem Referendum unterstellt sind; d. Beschlüsse des Kantonsrates über:"
-      },
-      {
-        "num": null,
-        "text": "1.8 neue einmalige Ausgaben von mehr als 4 Millionen Franken, 2.8 neue wiederkehrende Ausgaben von jährlich mehr als 400 000 Franken; e. Beschlüsse des Kantonsrates von grundlegender Bedeutung, die langfristige Auswirkungen auf die allgemeinen Lebensgrundlagen haben; f. die Grundzüge der Vernehmlassung des Kantons zu Vorlagen des Bundes, die von grundlegender Bedeutung sind, langfristige Auswirkungen auf die allgemeinen Lebensgrundlagen haben und auf Bundesebene nicht dem Referendum unterstellt sind."
-      },
-      {
         "num": "2",
         "text": "Eine Volksabstimmung können verlangen:"
-      },
-      {
-        "num": null,
-        "text": "a. 3000 Stimmberechtigte (Volksreferendum); b. 12 politische Gemeinden, die Stadt Zürich oder die Stadt Winterthur (Gemeindereferendum); c."
-      },
-      {
-        "num": null,
-        "text": "45 Mitglieder des Kantonsrates (Kantonsratsreferendum)."
-      },
-      {
-        "num": null,
-        "text": "8 101 Kantonsverfassung"
       },
       {
         "num": "3",
@@ -1245,10 +1207,6 @@
         "text": "Für den Fall einer Volksabstimmung kann der Kantonsrat ausnahmsweise beschliessen:"
       },
       {
-        "num": null,
-        "text": "a. der ganzen Vorlage oder einzelnen Bestimmungen eine Variante gegenüberzustellen; b. zusätzlich zur ganzen Vorlage auch über einzelne Bestimmungen abstimmen zu lassen."
-      },
-      {
         "num": "2",
         "text": "Findet keine Volksabstimmung statt, so gilt die vom Kantonsrat verabschiedete Hauptvorlage."
       }
@@ -1256,7 +1214,7 @@
     "36": [
       {
         "num": null,
-        "text": "seitig ausschliessen, so können die Stimmberechtigten beiden Vorlagen zustimmen und angeben, welche sie bevorzugen."
+        "text": "Gelangen zwei Vorlagen zur Abstimmung, die sich gegenseitig ausschliessen, so können die Stimmberechtigten beiden Vorlagen zustimmen und angeben, welche sie bevorzugen."
       }
     ],
     "37": [
@@ -1279,18 +1237,6 @@
         "text": "Alle wichtigen Rechtssätze des kantonalen Rechts werden in der Form des Gesetzes erlassen. Dazu gehören namentlich die wesentlichen Bestimmungen über:"
       },
       {
-        "num": null,
-        "text": "a. die Ausübung der Volksrechte; b. die Einschränkung verfassungsmässiger Rechte; c."
-      },
-      {
-        "num": null,
-        "text": "Organisation und Aufgaben der Behörden;"
-      },
-      {
-        "num": null,
-        "text": "9 Kantonsverfassung 101 1. 7. 25 - 129 d. Voraussetzungen und Bemessungsgrundlagen von Steuern und anderen Abgaben, mit Ausnahme von Gebühren in geringer Höhe; e. Zweck, Art und Umfang staatlicher Leistungen; f. dauernde oder wiederkehrende Aufgaben des Kantons; g. die Übertragung von Aufgaben an die Gemeinden, wenn sie zu einer finanziellen Mehrbelastung der Gemeinden führt; h. Art und Umfang der Übertragung öffentlicher Aufgaben an Private."
-      },
-      {
         "num": "2",
         "text": "Weniger wichtige Rechtssätze, namentlich solche über den Vollzug der Gesetze, werden in der Form der Verordnung erlassen."
       },
@@ -1311,10 +1257,12 @@
       {
         "num": "3",
         "text": "Kanton, Gemeinden und politische Parteien tragen zur Vorbereitung der Jugendlichen auf die Mitwirkung und Mitverantwortung in Staat und Gesellschaft bei."
-      },
+      }
+    ],
+    "40": [
       {
-        "num": null,
-        "text": "6. Kapitel: Behörden A. Allgemeine Bestimmungen Wählbarkeit Art. 4011    1 In den Kantonsrat, den Regierungsrat, die obersten kantonalen Gerichte und den Ständerat kann gewählt werden, wer in kantonalen Angelegenheiten stimmberechtigt ist."
+        "num": "1",
+        "text": "In den Kantonsrat, den Regierungsrat, die obersten kantonalen Gerichte und den Ständerat kann gewählt werden, wer in kantonalen Angelegenheiten stimmberechtigt ist."
       },
       {
         "num": "2",
@@ -1376,7 +1324,7 @@
     "45": [
       {
         "num": null,
-        "text": "bedingungen für die nebenamtliche Tätigkeit in Behörden."
+        "text": "Kanton und Gemeinden schaffen günstige Rahmenbedingungen für die nebenamtliche Tätigkeit in Behörden."
       }
     ],
     "46": [
@@ -1401,26 +1349,18 @@
       {
         "num": "2",
         "text": "Das Gesetz regelt die Verantwortlichkeit gegenüber Kanton und Gemeinden von:"
-      },
-      {
-        "num": null,
-        "text": "a. Staats- und Gemeindepersonal; b. Behördenmitgliedern; c."
-      },
-      {
-        "num": null,
-        "text": "Privaten, die öffentliche Aufgaben wahrnehmen."
       }
     ],
     "48": [
       {
         "num": null,
-        "text": "Transparenz"
+        "text": "Die Amtssprache ist Deutsch."
       }
     ],
     "49": [
       {
         "num": null,
-        "text": "über ihre Tätigkeit, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen."
+        "text": "Die Behörden informieren von sich aus und auf Anfrage über ihre Tätigkeit, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen."
       }
     ],
     "50": [
@@ -1460,17 +1400,13 @@
     "53": [
       {
         "num": null,
-        "text": "Zuständigkeit zur Rechtsetzung"
+        "text": "Die Verhandlungen des Kantonsrates sind öffentlich."
       }
     ],
     "54": [
       {
         "num": "1",
         "text": "Der Kantonsrat beschliesst über:"
-      },
-      {
-        "num": null,
-        "text": "a. Vorlagen zur Änderung der Verfassung; b. Gesetze; c. interkantonale und internationale Verträge, soweit nicht der Regierungsrat zuständig ist."
       },
       {
         "num": "2",
@@ -1485,30 +1421,16 @@
       {
         "num": "2",
         "text": "Er beschliesst über die Grundzüge der räumlichen Entwicklung."
-      },
+      }
+    ],
+    "56": [
       {
-        "num": null,
-        "text": "Finanzbefugnisse Art. 568    1 Der Kantonsrat beschliesst mit einfachem Mehr über:"
-      },
-      {
-        "num": null,
-        "text": "a. das Budget; b. den Steuerfuss für die Staatssteuer; c. die Genehmigung der Staatsrechnung;"
-      },
-      {
-        "num": null,
-        "text": "12 101 Kantonsverfassung d. die Veräusserung von Vermögenswerten über 4 Millionen Franken, die öffentlichen Zwecken dienen."
+        "num": "1",
+        "text": "Der Kantonsrat beschliesst mit einfachem Mehr über:"
       },
       {
         "num": "2",
         "text": "Der Zustimmung der Mehrheit aller Mitglieder bedürfen:"
-      },
-      {
-        "num": null,
-        "text": "a. neue einmalige Ausgaben von mehr als 4 Millionen Franken; b. neue wiederkehrende Ausgaben von jährlich mehr als 400 000 Franken; c."
-      },
-      {
-        "num": null,
-        "text": "Beschlüsse im Rahmen der Budgetberatung, die zu einer höheren Belastung des Kantons gegenüber dem Entwurf des Regierungsrates führen; d. Bestimmungen, die Staatsbeiträge oder Finanzausgleichsbeträge betreffen und Mehrausgaben nach sich ziehen können."
       },
       {
         "num": "3",
@@ -1528,7 +1450,7 @@
     "58": [
       {
         "num": null,
-        "text": "die weiteren ihm übertragenen Wahlen vor."
+        "text": "Der Kantonsrat wählt seine eigenen Organe und nimmt die weiteren ihm übertragenen Wahlen vor."
       }
     ],
     "59": [
@@ -1537,16 +1459,8 @@
         "text": "Der Kantonsrat kann:"
       },
       {
-        "num": null,
-        "text": "a. im Namen des Kantons auf Bundesebene das fakultative Referendum ergreifen; b. der Bundesversammlung eine Standesinitiative einreichen."
-      },
-      {
         "num": "2",
         "text": "Er beschliesst über:"
-      },
-      {
-        "num": null,
-        "text": "a. Vorlagen, die dem fakultativen Referendum unterstehen; b. Begnadigungsgesuche, die der Regierungsrat befürwortet."
       },
       {
         "num": "3",
@@ -1561,10 +1475,6 @@
       {
         "num": "1",
         "text": "Der Regierungsrat ist die oberste leitende und vollziehende Behörde des Kantons."
-      },
-      {
-        "num": null,
-        "text": "13 Kantonsverfassung 101 1. 7. 25 - 129"
       },
       {
         "num": "2",
@@ -1612,7 +1522,7 @@
     "64": [
       {
         "num": null,
-        "text": "handlungen des Kantonsrates und seiner Kommissionen beratende Stimme und Antragsrecht."
+        "text": "Die Mitglieder des Regierungsrates haben in den Verhandlungen des Kantonsrates und seiner Kommissionen beratende Stimme und Antragsrecht."
       }
     ],
     "65": [
@@ -1636,7 +1546,7 @@
     "66": [
       {
         "num": "1",
-        "text": "Der Regierungsrat bestimmt aufgrund einer langfristigen Betrachtung die Ziele und die Mittel seiner Regierungspolitik."
+        "text": "Der Regierungsrat bestimmt auf Grund einer langfristigen Betrachtung die Ziele und die Mittel seiner Regierungspolitik."
       },
       {
         "num": "2",
@@ -1651,30 +1561,20 @@
       {
         "num": "2",
         "text": "Er kann Verordnungen über den Vollzug von Gesetzen erlassen."
-      },
+      }
+    ],
+    "68": [
       {
-        "num": null,
-        "text": "Finanzbefugnisse Art. 688    1 Der Regierungsrat erarbeitet den Budgetentwurf und die Staatsrechnung."
-      },
-      {
-        "num": null,
-        "text": "14 101 Kantonsverfassung"
+        "num": "1",
+        "text": "Der Regierungsrat erarbeitet den Budgetentwurf und die Staatsrechnung."
       },
       {
         "num": "2",
         "text": "Er beschliesst im Rahmen des Budgets über:"
       },
       {
-        "num": null,
-        "text": "a. neue einmalige Ausgaben bis 4 Millionen Franken; b. neue wiederkehrende Ausgaben bis jährlich 400 000 Franken; c. gebundene Ausgaben."
-      },
-      {
         "num": "3",
-        "text": "Er beschliesst über die Veräusserung von Vermögenswerten bis"
-      },
-      {
-        "num": "4",
-        "text": "Millionen Franken, die öffentlichen Zwecken dienen."
+        "text": "Er beschliesst über die Veräusserung von Vermögenswerten bis 4 Millionen Franken, die öffentlichen Zwecken dienen.12"
       }
     ],
     "69": [
@@ -1707,10 +1607,6 @@
         "text": "Der Regierungsrat:"
       },
       {
-        "num": null,
-        "text": "a. wahrt die öffentliche Ordnung und Sicherheit; b. bereitet Wahlen und Abstimmungen vor und führt sie durch; c. vertritt den Kanton nach innen und aussen; d. nimmt die ihm übertragenen Wahlen vor; e. vollzieht die vollstreckbaren Urteile; f. berichtet dem Kantonsrat jährlich über seine Tätigkeit; g. äussert sich zu Vernehmlassungsvorlagen und im Hinblick auf aussenpolitische Entscheide des Bundes und teilt seine Stellungnahmen dem Kantonsrat mit."
-      },
-      {
         "num": "2",
         "text": "Er erfüllt alle in Verfassung und Gesetz genannten weiteren Aufgaben, soweit sie nicht einer anderen Behörde zugewiesen sind."
       }
@@ -1723,10 +1619,6 @@
       {
         "num": "2",
         "text": "Notverordnungen unterbreitet er unverzüglich dem Kantonsrat zur Genehmigung. Sie fallen spätestens ein Jahr nach ihrem Inkrafttreten dahin."
-      },
-      {
-        "num": null,
-        "text": "15 Kantonsverfassung 101 1. 7. 25 - 129 D. Rechtspflege Aufgaben und Stellung der Gerichte"
       }
     ],
     "73": [
@@ -1741,32 +1633,32 @@
       {
         "num": "3",
         "text": "Unter der Leitung der obersten kantonalen Gerichte verwalten die Gerichte sich selbst. Das Gesetz sieht hierzu gemeinsame Organe der obersten kantonalen Gerichte vor."
-      },
+      }
+    ],
+    "74": [
       {
-        "num": null,
-        "text": "Grundsätze der Gerichtsorganisation Art. 745    1 Die Gerichtsorganisation und das Verfahren gewährleisten eine verlässliche und rasche Rechtsprechung."
+        "num": "1",
+        "text": "Die Gerichtsorganisation und das Verfahren gewährleisten eine verlässliche und rasche Rechtsprechung."
       },
       {
         "num": "2",
-        "text": "Die obersten kantonalen Gerichte sind das Obergericht, das Verwaltungsgericht und das Sozialversicherungsgericht."
+        "text": "Die obersten kantonalen Gerichte sind das Obergericht, das Verwaltungsgericht und das Sozialversicherungsgericht.13"
       }
     ],
     "75": [
       {
         "num": "1",
-        "text": "Der Kantonsrat wählt die Mitglieder und die Ersatzmitglieder der für das gesamte Kantonsgebiet zuständigen Gerichte."
-      },
-      {
-        "num": null,
-        "text": "Eine vom Kantonsrat bestimmte Kommission prüft die Kandidaturen."
+        "text": "Der Kantonsrat wählt die Mitglieder und die Ersatzmitglieder der für das gesamte Kantonsgebiet zuständigen Gerichte. Eine vom Kantonsrat bestimmte Kommission prüft die Kandidaturen."
       },
       {
         "num": "2",
         "text": "Die Mitglieder der übrigen Gerichte werden vom Volk, die Ersatzmitglieder von der übergeordneten Gerichtsinstanz gewählt."
-      },
+      }
+    ],
+    "76": [
       {
-        "num": null,
-        "text": "Zivil- und Strafrechtspflege Art. 765    1 Für Zivil- und Strafverfahren sieht das Gesetz zwei gerichtliche Instanzen vor. Das Gesetz sieht in begründeten Fällen Ausnahmen vor, wenn das Bundesrecht die Beurteilung durch eine einzige kantonale Instanz zulässt."
+        "num": "1",
+        "text": "Für Zivil- und Strafverfahren sieht das Gesetz zwei gerichtliche Instanzen vor. Das Gesetz sieht in begründeten Fällen Ausnahmen vor, wenn das Bundesrecht die Beurteilung durch eine einzige kantonale Instanz zulässt.14"
       },
       {
         "num": "2",
@@ -1774,7 +1666,7 @@
       },
       {
         "num": "3",
-        "text": ". . ."
+        "text": "…15"
       }
     ],
     "77": [
@@ -1817,10 +1709,6 @@
         "text": "Die Stimmberechtigten des Bezirks wählen:"
       },
       {
-        "num": null,
-        "text": "a. die Statthalterin oder den Statthalter; b. den Bezirksrat; c. die gerichtlichen Instanzen des Bezirks."
-      },
-      {
         "num": "2",
         "text": "Das Gesetz legt die weiteren Behörden fest und bestimmt, wer sie wählt."
       },
@@ -1853,20 +1741,12 @@
         "text": "Die beiden Mitglieder des Ständerates werden nach dem Mehrheitswahlverfahren vom Volk gewählt. Wahlkreis ist der ganze Kanton."
       },
       {
-        "num": null,
-        "text": "17 Kantonsverfassung 101 1. 7. 25 - 129"
-      },
-      {
         "num": "2",
         "text": "Die Amtsdauer beträgt vier Jahre. Die ordentliche Wahl erfolgt gleichzeitig mit der Wahl des Nationalrates."
       },
       {
         "num": "3",
         "text": "An der Wahl können sich auch Schweizerinnen und Schweizer beteiligen, die im Ausland wohnen und in eidgenössischen Angelegenheiten im Kanton Zürich stimmberechtigt sind."
-      },
-      {
-        "num": null,
-        "text": "7. Kapitel: Gemeinden A. Allgemeine Bestimmungen Arten und Aufgaben"
       }
     ],
     "83": [
@@ -1925,16 +1805,8 @@
         "text": "Das Gesetz regelt die Volksrechte in der Gemeinde. Es sieht insbesondere ein Initiativrecht, ein Referendumsrecht und ein Anfragerecht vor."
       },
       {
-        "num": null,
-        "text": "18 101 Kantonsverfassung"
-      },
-      {
         "num": "2",
         "text": "Die Stimmberechtigten entscheiden an der Urne über:"
-      },
-      {
-        "num": null,
-        "text": "a. Ausgaben, die einen in der Gemeindeordnung festgelegten Betrag übersteigen; b. Geschäfte, die in Verfassung, Gesetz oder Gemeindeordnung besonders bezeichnet sind."
       },
       {
         "num": "3",
@@ -1951,10 +1823,6 @@
         "text": "Die Organe der Gemeinde sind:"
       },
       {
-        "num": null,
-        "text": "a. die Gesamtheit der Stimmberechtigten; b. der Gemeindevorstand; c. die weiteren vom Gesetz bezeichneten Behörden."
-      },
-      {
         "num": "2",
         "text": "Die politische Gemeinde kann an Stelle der Gemeindeversammlung ein Gemeindeparlament einrichten."
       }
@@ -1962,7 +1830,7 @@
     "88": [
       {
         "num": null,
-        "text": "oder Ortsteilkommissionen zur selbstständigen Erfüllung übertragen."
+        "text": "Die Gemeinden können kommunale Aufgaben Quartier- oder Ortsteilkommissionen zur selbstständigen Erfüllung übertragen."
       }
     ],
     "89": [
@@ -2030,11 +1898,7 @@
     "94": [
       {
         "num": null,
-        "text": "kommunaler Aufgaben stehen unter der Aufsicht der Bezirksbehörden und des Regierungsrates."
-      },
-      {
-        "num": null,
-        "text": "8. Kapitel: Öffentliche Aufgaben A. Allgemeine Bestimmungen Grundsätze"
+        "text": "Gemeinden, Zweckverbände und die weiteren Träger kommunaler Aufgaben stehen unter der Aufsicht der Bezirksbehörden und des Regierungsrates."
       }
     ],
     "95": [
@@ -2063,10 +1927,6 @@
       {
         "num": "2",
         "text": "Das Gesetz kann aus wichtigen Gründen für einzelne Aufgaben eine andere Gebietseinteilung vorsehen."
-      },
-      {
-        "num": null,
-        "text": "20 101 Kantonsverfassung Aufgabenteilung zwischen Kanton und Gemeinden"
       }
     ],
     "97": [
@@ -2095,14 +1955,6 @@
       {
         "num": "4",
         "text": "In den betreffenden Erlassen sind zu regeln:"
-      },
-      {
-        "num": null,
-        "text": "a. Art, Umfang und Finanzierung der zu übertragenden öffentlichen Aufgaben; b. die Struktur der Organisationen nach Abs. 1 und ihre Aufgaben; c."
-      },
-      {
-        "num": null,
-        "text": "Umfang von Rechtsetzungsbefugnissen innerhalb gesetzlich vorgegebener Ziele; d. Art und Umfang von bedeutenden Beteiligungen; e. Aufsicht und Rechtsschutz."
       }
     ],
     "99": [
@@ -2118,13 +1970,13 @@
     "100": [
       {
         "num": null,
-        "text": "Ordnung und Sicherheit."
+        "text": "Kanton und Gemeinden gewährleisten die öffentliche Ordnung und Sicherheit."
       }
     ],
     "101": [
       {
         "num": null,
-        "text": "siedlung, die zweckmässige und haushälterische Nutzung des Bodens und die Erhaltung des Lebensraumes."
+        "text": "Kanton und Gemeinden sorgen für eine geordnete Besiedlung, die zweckmässige und haushälterische Nutzung des Bodens und die Erhaltung des Lebensraumes."
       }
     ],
     "102": [
@@ -2162,7 +2014,7 @@
       },
       {
         "num": null,
-        "text": "2bis Der Kanton sorgt für ein leistungsfähiges Staatsstrassennetz für den motorisierten Privatverkehr. Eine Verminderung der Leistungsfähigkeit einzelner Abschnitte ist im umliegenden Strassennetz mindestens auszugleichen.7"
+        "text": "2bis Der Kanton sorgt für ein leistungsfähiges Staatsstrassennetz für den motorisierten Privatverkehr. Eine Verminderung der Leistungsfähigkeit einzelner Abschnitte ist im umliegenden Strassennetz mindestens auszugleichen.17"
       },
       {
         "num": "3",
@@ -2177,10 +2029,6 @@
       {
         "num": "2",
         "text": "Kanton und Gemeinden gewährleisten die Wasserversorgung."
-      },
-      {
-        "num": null,
-        "text": "22 101 Kantonsverfassung"
       },
       {
         "num": "3",
@@ -2218,19 +2066,19 @@
     "108": [
       {
         "num": null,
-        "text": "nachhaltig betrieben werden und ihre verschiedenen Aufgaben erfüllen können."
+        "text": "Der Kanton sorgt dafür, dass Land- und Forstwirtschaft nachhaltig betrieben werden und ihre verschiedenen Aufgaben erfüllen können."
       }
     ],
     "109": [
       {
         "num": null,
-        "text": "Wohnen"
+        "text": "Der Kanton betreibt eine Kantonalbank."
       }
     ],
     "110": [
       {
         "num": null,
-        "text": "Wohnungsbau und das selbst genutzte Wohneigentum."
+        "text": "Kanton und Gemeinden fördern den gemeinnützigen Wohnungsbau und das selbst genutzte Wohneigentum."
       }
     ],
     "111": [
@@ -2245,20 +2093,12 @@
       {
         "num": "3",
         "text": "Sie fördern zur Bekämpfung von sozialer Not und Armut die Hilfe zur Selbsthilfe."
-      },
-      {
-        "num": null,
-        "text": "23 Kantonsverfassung 101 1. 7. 25 - 129 Familie, Jugend und Alter"
       }
     ],
     "112": [
       {
         "num": null,
-        "text": "mit Privaten:"
-      },
-      {
-        "num": null,
-        "text": "a. die Familie als Gemeinschaft von Erwachsenen und Kindern; b. den Schutz der Kinder und Jugendlichen und ihre Integration in die Gesellschaft; c. die Lebensqualität der Menschen im Alter."
+        "text": "Kanton und Gemeinden fördern in Zusammenarbeit mit Privaten:"
       }
     ],
     "113": [
@@ -2284,7 +2124,7 @@
     "115": [
       {
         "num": null,
-        "text": "das die geistigen, seelischen, sozialen und körperlichen Fähigkeiten des einzelnen Menschen berücksichtigt und fördert, seine Verantwortung und seinen Gemeinsinn stärkt und auf seine persönliche und berufliche Entwicklung ausgerichtet ist."
+        "text": "Kanton und Gemeinden sorgen für ein Bildungswesen, das die geistigen, seelischen, sozialen und körperlichen Fähigkeiten des einzelnen Menschen berücksichtigt und fördert, seine Verantwortung und seinen Gemeinsinn stärkt und auf seine persönliche und berufliche Entwicklung ausgerichtet ist."
       }
     ],
     "116": [
@@ -2310,7 +2150,7 @@
     "118": [
       {
         "num": null,
-        "text": "Lehre und Forschung an Universität und anderen Hochschulen."
+        "text": "Der Kanton sorgt für eine qualitativ hoch stehende Lehre und Forschung an Universität und anderen Hochschulen."
       }
     ],
     "119": [
@@ -2326,13 +2166,13 @@
     "120": [
       {
         "num": null,
-        "text": "Kunst."
+        "text": "Kanton und Gemeinden fördern die Kultur und die Kunst."
       }
     ],
     "121": [
       {
         "num": null,
-        "text": "24 101 Kantonsverfassung 9. Kapitel: Finanzen Grundsätze"
+        "text": "Kanton und Gemeinden fördern den Sport."
       }
     ],
     "122": [
@@ -2387,18 +2227,6 @@
         "text": "Die Ausgestaltung soll insbesondere:"
       },
       {
-        "num": null,
-        "text": "a. die Gesamtbelastung der Steuerpflichtigen mit Abgaben berücksichtigen; b. unter Beachtung der Solidarität den Leistungswillen der Steuerpflichtigen erhalten und ihre Selbstvorsorge fördern; c. die Wettbewerbsfähigkeit der Wirtschaft berücksichtigen; d. eine angemessene Vermögensbildung ermöglichen; e. Personen mit Unterhalts- und Unterstützungspflichten entlasten; f."
-      },
-      {
-        "num": null,
-        "text": "Ehepaare gegenüber Unverheirateten nicht benachteiligen."
-      },
-      {
-        "num": null,
-        "text": "25 Kantonsverfassung 101 1. 7. 25 - 129"
-      },
-      {
         "num": "4",
         "text": "Die Steuerprogression muss massvoll sein und darf eine bestimmte Höhe nicht übersteigen."
       },
@@ -2419,10 +2247,6 @@
       {
         "num": "2",
         "text": "Es bestimmt insbesondere:"
-      },
-      {
-        "num": null,
-        "text": "a. die Art und den Gegenstand der Abgabe; b. die Grundsätze der Bemessung; c. den Kreis der abgabepflichtigen Personen."
       }
     ],
     "127": [
@@ -2433,10 +2257,6 @@
       {
         "num": "2",
         "text": "Der Finanzausgleich:"
-      },
-      {
-        "num": null,
-        "text": "a. ermöglicht den Gemeinden die Erfüllung ihrer notwendigen Aufgaben; b. sorgt dafür, dass die Gemeindesteuerfüsse nicht erheblich voneinander abweichen."
       },
       {
         "num": "3",
@@ -2469,10 +2289,6 @@
       {
         "num": "4",
         "text": "Die Finanzhaushalte der Gemeinden und der anderen Organisationen des öffentlichen Rechts werden durch unabhängige und fachkundige Organe geprüft."
-      },
-      {
-        "num": null,
-        "text": "26 101 Kantonsverfassung 10. Kapitel: Kirchen und weitere Religionsgemeinschaften Kirchliche Körperschaften"
       }
     ],
     "130": [
@@ -2481,24 +2297,12 @@
         "text": "Der Kanton anerkennt als selbstständige Körperschaften des öffentlichen Rechts:"
       },
       {
-        "num": null,
-        "text": "a. die evangelisch-reformierte Landeskirche und ihre Kirchgemeinden; b. die römisch-katholische Körperschaft und ihre Kirchgemeinden; c. die christkatholische Kirchgemeinde."
-      },
-      {
         "num": "2",
         "text": "Die evangelisch-reformierte Landeskirche, die römisch-katholische Körperschaft und die christkatholische Kirchgemeinde sind im Rahmen des kantonalen Rechts autonom. Sie regeln:"
       },
       {
-        "num": null,
-        "text": "a. das Stimm- und Wahlrecht in ihren eigenen Angelegenheiten nach rechtsstaatlichen und demokratischen Grundsätzen in einem Erlass, welcher dem obligatorischen Referendum untersteht; b. die Zuständigkeit für die Neubildung, den Zusammenschluss und die Auflösung von Kirchgemeinden."
-      },
-      {
         "num": "3",
         "text": "Das Gesetz regelt:"
-      },
-      {
-        "num": null,
-        "text": "a. die Grundzüge der Organisation der kirchlichen Körperschaften; b. die Befugnis zur Erhebung von Steuern; c. die staatlichen Leistungen; d. die Zuständigkeit und das Verfahren für die Wahl der Pfarrerinnen und Pfarrer sowie deren Amtsdauer."
       },
       {
         "num": "4",
@@ -2521,14 +2325,6 @@
       {
         "num": "3",
         "text": "Das Gesetz regelt unter Wahrung der verfassungsrechtlichen Autonomie der Religionsgemeinschaften:"
-      },
-      {
-        "num": null,
-        "text": "a. die Wirkungen der Anerkennung; b. die Aufsicht."
-      },
-      {
-        "num": null,
-        "text": "27 Kantonsverfassung 101 1. 7. 25 - 129 11. Kapitel: Änderung der Kantonsverfassung Grundsätze"
       }
     ],
     "132": [
@@ -2548,7 +2344,7 @@
     "133": [
       {
         "num": null,
-        "text": "Einheit der Materie gewahrt werden."
+        "text": "Bei einer teilweisen Änderung der Verfassung muss die Einheit der Materie gewahrt werden."
       }
     ],
     "134": [
@@ -2574,23 +2370,19 @@
     "136": [
       {
         "num": null,
-        "text": "den setzen diese Verfassung ohne Verzug um."
+        "text": "Die rechtsetzenden und die rechtsanwendenden Behörden setzen diese Verfassung ohne Verzug um."
       }
     ],
     "137": [
       {
         "num": null,
-        "text": "heren Verfassung gültigen Verfahren beschlossen worden sind, bleiben in Kraft. Ihre Änderung richtet sich nach den Bestimmungen dieser Verfassung."
+        "text": "Erlasse und Anordnungen, die in einem nach der früheren Verfassung gültigen Verfahren beschlossen worden sind, bleiben in Kraft. Ihre Änderung richtet sich nach den Bestimmungen dieser Verfassung."
       }
     ],
     "138": [
       {
         "num": "1",
-        "text": "Die Behörden treffen innert fünf Jahren nach Inkrafttreten dieser Verfassung die Vorkehrungen, um"
-      },
-      {
-        "num": null,
-        "text": "a. die Grundrechte gemäss den Art. 11 Abs. 4, 14 und 17 zu gewährleisten; b. das Rechtspflegeverfahren an die Vorgaben gemäss den Art. 76, 77 und 79 Abs. 2 anzupassen."
+        "text": "Die Behörden treffen innert fünf Jahren nach Inkrafttreten dieser Verfassung die Vorkehrungen, um:"
       },
       {
         "num": "2",
@@ -2601,10 +2393,6 @@
       {
         "num": "1",
         "text": "Ist beim Inkrafttreten dieser Verfassung eine Volksinitiative bereits eingereicht worden, so richten sich die Fristen für die Durchführung der Volksabstimmung nach bisherigem Recht."
-      },
-      {
-        "num": null,
-        "text": "28 101 Kantonsverfassung"
       },
       {
         "num": "2",
@@ -2618,13 +2406,13 @@
       },
       {
         "num": "2",
-        "text": "Solange eine Gemeinde im Sinne von Art. 33 Abs. 4 Satz 1 das Organ, das ein Gemeindereferendum unterstützen kann, noch nicht bezeichnet hat, ist die Gemeindeversammlung oder das Gemeindeparlament zuständig."
+        "text": "Solange eine Gemeinde im Sinne von Artikel 33 Absatz 4 Satz 1 das Organ, das ein Gemeindereferendum unterstützen kann, noch nicht bezeichnet hat, ist die Gemeindeversammlung oder das Gemeindeparlament zuständig."
       }
     ],
     "141": [
       {
         "num": null,
-        "text": "ten nur dann, wenn das schädigende Ereignis später als ein Jahr nach Inkrafttreten dieser Verfassung eingetreten ist."
+        "text": "Artikel 46 Absatz 2 begründet eine Kausalhaftung von Privaten nur dann, wenn das schädigende Ereignis später als ein Jahr nach Inkrafttreten dieser Verfassung eingetreten ist."
       }
     ],
     "142": [
@@ -2650,7 +2438,7 @@
     "144": [
       {
         "num": null,
-        "text": "krafttreten dieser Verfassung in ihren Verbandsstatuten das Initiativund das Referendumsrecht nach Art. 93 Abs. 2. Bis zu dieser Anpassung gilt für Abstimmungen in Zweckverbänden die bisherige Rechtsund Statutenordnung."
+        "text": "Die Zweckverbände regeln innert vier Jahren nach Inkrafttreten dieser Verfassung in ihren Verbandsstatuten das Initiativ- und das Referendumsrecht nach Artikel 93 Absatz 2. Bis zu dieser Anpassung gilt für Abstimmungen in Zweckverbänden die bisherige Rechts- und Statutenordnung."
       }
     ],
     "145": [
@@ -2664,71 +2452,7 @@
       },
       {
         "num": "3",
-        "text": "Bis zur Neuregelung der Zuständigkeiten für die Neubildung, den Zusammenschluss und die Auflösung von Kirchgemeinden gelten die Bestimmungen des Gemeindegesetzes3."
-      },
-      {
-        "num": null,
-        "text": "29 Kantonsverfassung 101 1. 7. 25 - 129 Übergangsbestimmung zur Änderung vom 23. April 2012 (OS 68, 131) Hat der Kantonsrat vor Inkraftsetzung dieser Verfassungsänderung eine Vorlage beschlossen, so gilt für das Referendum das bisherige Recht."
-      },
-      {
-        "num": "1",
-        "text": "OS 60, 185."
-      },
-      {
-        "num": "2",
-        "text": "Vom Bund gewährleistet durch Bundesbeschluss vom 15. Dezember 2005 (BBl 2006, 341; OS 61, 11)."
-      },
-      {
-        "num": "3",
-        "text": "LS 131.1."
-      },
-      {
-        "num": "4",
-        "text": "SR 101."
-      },
-      {
-        "num": "5",
-        "text": "Fassung gemäss Änderung vom 10. Mai 2010 (OS 65, 696; ABl 2009, 1489). In Kraft seit 1. Januar 2011. Vom Bund gewährleistet durch Bundesbeschluss vom 29. September 2011 (BBl 2011, 7619)."
-      },
-      {
-        "num": "6",
-        "text": "Aufgehoben durch Änderung vom 23. April 2012 (OS 68, 131; ABl 2011, 3157)."
-      },
-      {
-        "num": null,
-        "text": "In Kraft seit 1. Mai 2013. Vom Bund gewährleistet durch Bundesbeschluss vom 24. September 2014 (BBl 2014, 7859)."
-      },
-      {
-        "num": "7",
-        "text": "Eingefügt durch Änderung vom 13. März 2017 (OS 73, 5; ABl 2016-02-05). In Kraft seit 1. Februar 2018. Vom Bund gewährleistet durch Bundesbeschluss vom 17. September 2018 (BBl 2018, 6287)."
-      },
-      {
-        "num": "8",
-        "text": "Fassung gemäss Änderung vom 17. August 2020 (OS 76, 371; ABl 2019-05-03)."
-      },
-      {
-        "num": null,
-        "text": "In Kraft seit 1. Januar 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 16. März 2022 (BBl 2022, 780)."
-      },
-      {
-        "num": "9",
-        "text": "Eingefügt durch Änderung vom 25. Oktober 2021 (OS 77, 457; ABl 2021-04-30)."
-      },
-      {
-        "num": null,
-        "text": "In Kraft seit 1. November 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 6. März 2023 (BBl 2023, 724)."
-      },
-      {
-        "num": "10",
-        "text": "Eingefügt durch Änderung vom 31. Januar 2022 (OS 78, 123; ABl 2020-12-24)."
-      },
-      {
-        "num": null,
-        "text": "In Kraft seit 1. April 2023. Vom Bund gewährleistet durch Bundesbeschluss vom 20. September 2023 (BBl 2023, 2331)."
-      },
-      {
-        "num": "11",
-        "text": "Fassung gemäss Änderung vom 25. September 2023 (OS 79, 191). In Kraft seit 1. Juli 2024. Vom Bund gewährleistet durch Bundesbeschluss vom 4. April 2025 (BBl 2025, 996)."
+        "text": "Bis zur Neuregelung der Zuständigkeiten für die Neubildung, den Zusammenschluss und die Auflösung von Kirchgemeinden gelten die Bestimmungen des Gemeindegesetzes."
       }
     ]
   }

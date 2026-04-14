@@ -3,17 +3,23 @@
   "law_key": "nw-kv",
   "sr_number": "111",
   "language": "de",
-  "title": "Verfassung des Kantons Nidwalden",
+  "title": "Verfassung des Kantons Nidwalden1",
   "lexfind_id": 13358,
   "fetched_at": "2026-04-14",
-  "source": "lexwork",
-  "article_count": 75,
+  "source": "fedlex",
+  "article_count": 102,
   "articles": [
     {
       "number": 1,
       "suffix": "",
       "raw": "1",
       "title": "Freiheitsrechte"
+    },
+    {
+      "number": 2,
+      "suffix": "",
+      "raw": "2",
+      "title": "Rechtsgleichheit"
     },
     {
       "number": 3,
@@ -40,6 +46,12 @@
       "title": "Ersatzanspruch"
     },
     {
+      "number": 8,
+      "suffix": "",
+      "raw": "8",
+      "title": "Aktivbürgerrecht"
+    },
+    {
       "number": 10,
       "suffix": "",
       "raw": "10",
@@ -56,6 +68,12 @@
       "suffix": "",
       "raw": "12",
       "title": "Erwerb und Verlust des Bürgerrechts"
+    },
+    {
+      "number": 13,
+      "suffix": "",
+      "raw": "13",
+      "title": "Bürgerpflicht"
     },
     {
       "number": 14,
@@ -172,6 +190,12 @@
       "title": "Steuerhoheit"
     },
     {
+      "number": 33,
+      "suffix": "",
+      "raw": "33",
+      "title": "Finanzausgleich"
+    },
+    {
       "number": 34,
       "suffix": "",
       "raw": "34",
@@ -238,6 +262,12 @@
       "title": "Beschlussfähigkeit"
     },
     {
+      "number": 45,
+      "suffix": "",
+      "raw": "45",
+      "title": "Amstdauer"
+    },
+    {
       "number": 46,
       "suffix": "",
       "raw": "46",
@@ -250,16 +280,88 @@
       "title": "Öffentlichkeit"
     },
     {
+      "number": 48,
+      "suffix": "",
+      "raw": "48",
+      "title": "Unvereinbarkeit in der Person"
+    },
+    {
       "number": 49,
       "suffix": "",
       "raw": "49",
       "title": "Amtssitz"
     },
     {
+      "number": 50,
+      "suffix": "",
+      "raw": "50",
+      "title": "Ausübung des Stimm- und Wahlrechts"
+    },
+    {
+      "number": 51,
+      "suffix": "",
+      "raw": "51",
+      "title": "Wahlen"
+    },
+    {
+      "number": 52,
+      "suffix": "",
+      "raw": "52",
+      "title": "Obligatorische Abstimmungen"
+    },
+    {
+      "number": 53,
+      "suffix": "",
+      "raw": "53",
+      "title": "Konsultative Abstimmungen"
+    },
+    {
+      "number": 54,
+      "suffix": "",
+      "raw": "54",
+      "title": "Antragsrecht"
+    },
+    {
+      "number": 55,
+      "suffix": "",
+      "raw": "55",
+      "title": "Verfahren"
+    },
+    {
+      "number": 56,
+      "suffix": "",
+      "raw": "56",
+      "title": "Korporationsangelegenheiten"
+    },
+    {
       "number": 57,
       "suffix": "",
       "raw": "57",
       "title": "Zusammensetzung"
+    },
+    {
+      "number": 58,
+      "suffix": "",
+      "raw": "58",
+      "title": "Wahlkreise"
+    },
+    {
+      "number": 59,
+      "suffix": "",
+      "raw": "59",
+      "title": "Konstituierung"
+    },
+    {
+      "number": 60,
+      "suffix": "",
+      "raw": "60",
+      "title": "Rechtsetzung"
+    },
+    {
+      "number": 61,
+      "suffix": "",
+      "raw": "61",
+      "title": "Weitere Aufgaben"
     },
     {
       "number": 62,
@@ -274,6 +376,12 @@
       "title": "Departemente"
     },
     {
+      "number": 64,
+      "suffix": "",
+      "raw": "64",
+      "title": "Rechtsetzung"
+    },
+    {
       "number": 65,
       "suffix": "",
       "raw": "65",
@@ -284,6 +392,18 @@
       "suffix": "",
       "raw": "66",
       "title": "Richterliche Unabhängigkeit"
+    },
+    {
+      "number": 67,
+      "suffix": "",
+      "raw": "67",
+      "title": "Zivilrechtspflege"
+    },
+    {
+      "number": 68,
+      "suffix": "",
+      "raw": "68",
+      "title": "Verwaltungsrechtspflege"
     },
     {
       "number": 69,
@@ -304,6 +424,12 @@
       "title": "Aufgaben"
     },
     {
+      "number": 72,
+      "suffix": "",
+      "raw": "72",
+      "title": "Zusammenwirken mit andern Gemeinden"
+    },
+    {
       "number": 73,
       "suffix": "",
       "raw": "73",
@@ -316,10 +442,22 @@
       "title": "Aufsicht"
     },
     {
+      "number": 75,
+      "suffix": "",
+      "raw": "75",
+      "title": "Durchführung"
+    },
+    {
       "number": 76,
       "suffix": "",
       "raw": "76",
       "title": "Obligatorische Abstimmung"
+    },
+    {
+      "number": 77,
+      "suffix": "",
+      "raw": "77",
+      "title": "Fakultative Abstimmung"
     },
     {
       "number": 78,
@@ -356,6 +494,12 @@
       "suffix": "",
       "raw": "83",
       "title": "Verwaltungsbefugnisse"
+    },
+    {
+      "number": 84,
+      "suffix": "",
+      "raw": "84",
+      "title": "Bestand"
     },
     {
       "number": 85,
@@ -406,6 +550,12 @@
       "title": "Gesamtrevision"
     },
     {
+      "number": 94,
+      "suffix": "",
+      "raw": "94",
+      "title": "Annahme der Verfassungsbestimmungen"
+    },
+    {
       "number": 95,
       "suffix": "",
       "raw": "95",
@@ -448,10 +598,22 @@
       "title": "Kirchgemeinden"
     },
     {
+      "number": 104,
+      "suffix": "",
+      "raw": "104",
+      "title": "Steuerfüsse für die Kantons- und Kirchensteuer"
+    },
+    {
       "number": 105,
       "suffix": "",
       "raw": "105",
       "title": "Armengemeinden"
+    },
+    {
+      "number": 106,
+      "suffix": "",
+      "raw": "106",
+      "title": "Wahlen"
     },
     {
       "number": 107,
@@ -468,7 +630,21 @@
       },
       {
         "num": "2",
-        "text": "In den Schranken des Bundesrechts und der zur Wahrung der öffentlichen Ordnung erlassenen kantonalen Gesetze sind insbesondere gewährleistet: 1. die Freiheit des Glaubens und des Gewissens sowie die freie Ausübung gottesdienstlicher Handlungen; 2. die freie Meinungsbildung, Meinungsäusserung und Meinungsverbreitung, im besondern die Freiheit der Presse; 3. die Vereinsfreiheit und die Versammlungsfreiheit; 4. die Niederlassungsfreiheit für alle Schweizerbürger; 5. die körperliche Unversehrtheit; 6. die Bewegungsfreiheit des Menschen sowie die Unverletzlichkeit der Wohnung; 7. die privaten Rechte und die unentziehbaren Ansprüche unter Vorbehalt einer im öffentlichen Interesse durchzuführenden Enteignung; 8. die Handels- und Gewerbefreiheit."
+        "text": "In den Schranken des Bundesrechts und der zur Wahrung der öffentlichen Ordnung erlassenen kantonalen Gesetze sind insbesondere gewährleistet:"
+      }
+    ],
+    "2": [
+      {
+        "num": "1",
+        "text": "Alle Menschen sind vor dem Gesetze gleich."
+      },
+      {
+        "num": "2",
+        "text": "Niemand darf wegen seines Geschlechts, seiner Herkunft, seiner Sprache, seiner Rasse, seiner sozialen Stellung, seiner weltanschaulichen, politischen oder religiösen Überzeugung benachteiligt oder bevorzugt werden."
+      },
+      {
+        "num": "3",
+        "text": "Kanton und Gemeinden fördern die tatsächliche Gleichstellung von Mann und Frau."
       }
     ],
     "3": [
@@ -486,43 +662,63 @@
       },
       {
         "num": "4",
-        "text": "… *"
+        "text": "…5"
       }
     ],
     "5": [
       {
-        "num": "1",
+        "num": null,
         "text": "Rückwirkende Gesetze, die den Privaten neue Belastungen auferlegen, sind unzulässig."
       }
     ],
     "6": [
       {
-        "num": "1",
+        "num": null,
         "text": "Öffentlichrechtliche Körperschaften und Anstalten haben im Rahmen des Gesetzes den Schaden zu ersetzen, den ihre Behörden, Beamten und Angestellten in Ausübung einer nichtgewerblichen dienstlichen Verrichtung Dritten zufügen."
       }
     ],
     "7": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Entzug und die ähnlich einem Entzug wirkende Beschränkung eines privaten Eigentumsrechts oder eines vermögenswerten Anspruchs verpflichtet zu vollem Ersatz."
+      }
+    ],
+    "8": [
+      {
+        "num": null,
+        "text": "Das Aktivbürgerrecht können alle Personen ausüben, die das Schweizerbürgerrecht besitzen, im Kanton rechtlich niedergelassen sind, das 18. Altersjahr zurückgelegt haben und denen nicht durch die Gesetzgebung das Aktivbürgerrecht entzogen ist."
       }
     ],
     "10": [
       {
-        "num": "1",
-        "text": "Der Aktivbürger kann im Kanton und in seiner Wohnsitzgemeinde: 1. an Wahlen und Abstimmungen teilnehmen; 2. vom Recht der Initiative und des Referendums Gebrauch machen; 3. in eine Behörde oder in ein öffentliches Amt gewählt werden; die Gesetzgebung bestimmt, in welchen Fällen für die Wahlfähigkeit von Beamten ein Befähigungsausweis notwendig ist oder das Aktivbürgerrecht nicht vorliegen muss."
+        "num": null,
+        "text": "Der Aktivbürger kann im Kanton und in seiner Wohnsitzgemeinde:"
       }
     ],
     "11": [
       {
-        "num": "1",
+        "num": null,
         "text": "Jedermann ist berechtigt, an die Behörden Petitionen zu richten."
       }
     ],
     "12": [
       {
+        "num": null,
+        "text": "Der Erwerb und der Verlust des Kantons- und Gemeindebürgerrechts wird durch das Gesetz geregelt."
+      }
+    ],
+    "13": [
+      {
         "num": "1",
-        "text": "Der Erwerb und der Verlust des Kantons- und Gemeindebürgerrechts werden durch das Gesetz geregelt."
+        "text": "Jede Person hat die Pflichten zu erfüllen, die ihr durch die Kantons- und Gemeindegesetzgebung übertragen sind."
+      },
+      {
+        "num": "2",
+        "text": "Die Teilnahme an den kantonalen und kommunalen Wahlen und Abstimmungen ist Bürgerpflicht."
+      },
+      {
+        "num": "3",
+        "text": "Jede Person, die das Aktivbürgerrecht besitzt, ist verpflichtet, das ihr verfassungsgemäss übertragene Amt für eine Amtsdauer zu übernehmen, soweit es sich um ein Nebenamt handelt; Ausnahmen bestimmt das Gesetz."
       }
     ],
     "14": [
@@ -551,7 +747,7 @@
     ],
     "16": [
       {
-        "num": "1",
+        "num": null,
         "text": "Dem Kanton obliegt die Führung und Förderung von Berufsschulen; Aufgaben der Berufsbildung können Wirtschaftsverbänden übertragen werden."
       }
     ],
@@ -577,7 +773,7 @@
     ],
     "19": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton fördert im Rahmen der Gesetzgebung die wissenschaftliche und berufliche Ausbildung und Weiterbildung durch Beiträge."
       }
     ],
@@ -627,19 +823,19 @@
     ],
     "24": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton ist bestrebt, die Erkenntnisse und die Leistungen von Wissenschaft und Kunst jedermann zugänglich zu machen."
       }
     ],
     "25": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Armenfürsorge wird durch das Gesetz geregelt."
       }
     ],
     "26": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton und die Gemeinden können in Ergänzung der Sozialversicherungen des Bundes und in den Bereichen, die nicht bundesrechtlich geordnet sind, besondere Versicherungen und Fürsorgeeinrichtungen schaffen."
       }
     ],
@@ -669,7 +865,7 @@
     ],
     "29": [
       {
-        "num": "1",
+        "num": null,
         "text": "In der Erfüllung ihrer Aufgaben sind Kanton und Gemeinden bestrebt, die Familie als Grundlage des Gemeinschaftslebens zu festigen."
       }
     ],
@@ -686,7 +882,7 @@
     "31": [
       {
         "num": "1",
-        "text": "Der Kanton trifft die in seiner Befugnis liegenden Massnahmen zur Erhaltung eines leistungsfähigen Bauernstandes."
+        "text": "Der Kanton trifft die in seiner Befugnis liegenden Massnahmen zur Erhaltung eines leistungfähigen Bauernstandes."
       },
       {
         "num": "2",
@@ -703,6 +899,12 @@
         "text": "Die kantonale Gesetzgebung bestimmt die weitern Steuern, die von Kanton oder Gemeinden erhoben werden können."
       }
     ],
+    "33": [
+      {
+        "num": null,
+        "text": "Der Finanzausgleich zugunsten von Gemeinden wird durch die Gesetzgebung geregelt."
+      }
+    ],
     "34": [
       {
         "num": "1",
@@ -715,13 +917,13 @@
     ],
     "35": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die evangelisch-reformierte Kirche ist öffentlichrechtlich anerkannt."
       }
     ],
     "36": [
       {
-        "num": "1",
+        "num": null,
         "text": "Alle übrigen Religionsgemeinschaften stehen unter den Grundsätzen des Privatrechts, soweit sie nicht durch das Gesetz öffentlichrechtlich anerkannt werden."
       }
     ],
@@ -737,7 +939,7 @@
     ],
     "38": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Kantonseinwohner sind Glieder einer öffentlichrechtlich anerkannten Kirche, sofern sie deren Konfession angehören; Übertritt und Austritt haben durch schriftliche Erklärung an den Präsidenten der Kirchgemeinde oder Kapellgemeinde zu erfolgen."
       }
     ],
@@ -753,7 +955,7 @@
     ],
     "40": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Kanton gewährleistet den Fortbestand der Klöster und kirchlichen Stiftungen."
       }
     ],
@@ -764,7 +966,7 @@
       },
       {
         "num": "2",
-        "text": "Die Mitglieder des Landrates dürfen keinem kantonalen Gericht angehören. *"
+        "text": "Die Mitglieder des Landrates dürfen keinem kantonalen Gericht angehören.12"
       },
       {
         "num": "3",
@@ -776,19 +978,19 @@
       },
       {
         "num": "5",
-        "text": "Das Gesetz kann weitere Unvereinbarkeiten für die Mitgliedschaft in kantonalen oder kommunalen Behörden bestimmen. *"
+        "text": "Das Gesetz kann weitere Unvereinbarkeiten für die Mitgliedschaft in kantonalen oder kommunalen Behörden bestimmen.13"
       }
     ],
     "42": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Wahlen sind als Mehrheitswahlen durchzuführen, soweit durch das Gesetz nicht die Verhältniswahl eingeführt wird."
       }
     ],
     "43": [
       {
-        "num": "1",
-        "text": "Die kantonalen und kommunalen Behörden sind einzuberufen: 1. wenn es die Geschäftsordnung vorsieht; 2. wenn es die Behörde beschliesst oder der Präsident anordnet; 3. wenn mindestens ein Viertel der Ratsmitglieder die Einberufung unter Nennung der zu behandelnden Gegenstände schriftlich verlangt."
+        "num": null,
+        "text": "Die kantonalen und kommunalen Behörden sind einzuberufen:"
       }
     ],
     "44": [
@@ -801,10 +1003,16 @@
         "text": "Die Beschlussfähigkeit der Gerichte wird durch die Gesetzgebung geregelt."
       }
     ],
+    "45": [
+      {
+        "num": null,
+        "text": "Die Amtsdauer der Behörden beträgt vier Jahre."
+      }
+    ],
     "46": [
       {
-        "num": "1",
-        "text": "Die Einstellung im Amt und die Amtsenthebung von Behördemitgliedern und Beamten werden durch das Gesetz geregelt."
+        "num": null,
+        "text": "Die Einstellung im Amt und die Amtsenthebung von Behördemitgliedern und Beamten wird durch das Gesetz geregelt."
       }
     ],
     "47": [
@@ -814,23 +1022,187 @@
       },
       {
         "num": "2",
-        "text": "Die Beratung des Landrates und der Volksvertretung in der Gemeinde sind im Rahmen der Gesetzgebung öffentlich."
+        "text": "Die Beratungen des Landrates und der Volksvertretung in der Gemeinde sind im Rahmen der Gesetzgebung öffentlich."
       },
       {
         "num": "3",
         "text": "Die Öffentlichkeit der Verhandlungen der Gerichte und der Gemeindeversammlung wird durch die Gesetzgebung umschrieben."
       }
     ],
-    "49": [
+    "48": [
       {
         "num": "1",
+        "text": "Dem Regierungsrat oder einem Gericht dürfen nicht gleichzeitig angehören:"
+      },
+      {
+        "num": "2",
+        "text": "Einer anderen kantonalen oder kommunalen Behörde dürfen nicht gleichzeitig angehören:"
+      },
+      {
+        "num": "3",
+        "text": "Personen in dauernder Lebensgemeinschaft sind den Ehegatten beziehungsweise den eingetragenen Partnerinnen und Partnern gleichgestellt."
+      },
+      {
+        "num": "4",
+        "text": "Über den durch die Unvereinbarkeit gebotenen Rücktritt entscheidet das Los."
+      },
+      {
+        "num": "5",
+        "text": "Diese Bestimmungen gelten nicht für den Landrat und die Gemeindeparlamente."
+      }
+    ],
+    "49": [
+      {
+        "num": null,
         "text": "Stans ist Hauptort des Kantons und Sitz der kantonalen Behörden."
+      }
+    ],
+    "50": [
+      {
+        "num": "1",
+        "text": "Die Aktivbürgerinnen und Aktivbürger üben ihr Stimm- und Wahlrecht in den Politischen Gemeinden aus."
+      },
+      {
+        "num": "2",
+        "text": "Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben."
+      }
+    ],
+    "51": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten wählen:"
+      },
+      {
+        "num": "2",
+        "text": "…20"
+      }
+    ],
+    "52": [
+      {
+        "num": null,
+        "text": "Der obligatorischen Abstimmung unterliegen:"
+      }
+    ],
+    "53": [
+      {
+        "num": "1",
+        "text": "Der Landrat ist befugt, die Aktivbürgerschaft über die Aufnahme einzelner Grundsätze in die Gesetzgebung abstimmen zu lassen."
+      },
+      {
+        "num": "2",
+        "text": "Das Ergebnis der konsultativen Abstimmung bindet den Landrat bei der Ausarbeitung der Gesetzgebung."
+      },
+      {
+        "num": "3",
+        "text": "Die Bindung erstreckt sich nicht auf spätere Erlasse, in denen die gleiche Frage aufgegriffen wird."
+      }
+    ],
+    "54": [
+      {
+        "num": "1",
+        "text": "Anträge können als allgemeine Anregung oder, wenn sie nicht die Gesamtrevision der Verfassung verlangen, als ausgearbeitete Vorlage eingereicht werden."
+      },
+      {
+        "num": "2",
+        "text": "Die Anträge dürfen sich nur auf einen einzigen Gegenstand beziehen und müssen eine Begründung enthalten."
+      },
+      {
+        "num": "3",
+        "text": "Die Anträge dürfen nichts enthalten, was dem Bundesrecht oder, sofern sie nicht die Verfassungsrevision verlangen, der Kantonsverfassung widerspricht."
+      },
+      {
+        "num": "4",
+        "text": "Anträge können stellen:"
+      },
+      {
+        "num": "5",
+        "text": "Bei Anträgen der Aktivbürgerschaft sind die Unterschriften binnen zweier Monate seit der Hinterlegung des Antrages auf der Standeskanzlei einzureichen."
+      }
+    ],
+    "55": [
+      {
+        "num": "1",
+        "text": "Anträge, die der Abstimmung unterliegen, und Gegenvorschläge der Aktivbürgerschaft sind binnen eines Jahres seit der Einreichung zur Abstimmung zu bringen."
+      },
+      {
+        "num": "2",
+        "text": "Wird eine allgemeine Anregung zum Beschluss erhoben, ist die ausgearbeitete Vorlage binnen zweier Jahre zu verabschieden."
+      },
+      {
+        "num": "3",
+        "text": "Anträge und Gegenvorschläge können von den bevollmächtigten Antragstellenden bis zur Veröffentlichung des Abstimmungstages zurückgezogen werden."
+      },
+      {
+        "num": "4",
+        "text": "Der Gegenvorschlag ist gleichzeitig mit dem Antrag, beziehungsweise der Vorlage des Landrates, zur Abstimmung zu bringen; bei Rückzug des Antrages ist nur der Gegenvorschlag zur Abstimmung zu bringen."
+      },
+      {
+        "num": "5",
+        "text": "Bei einem Gegenvorschlag können die Aktivbürgerinnen und Aktivbürger sowohl dem Antrag, beziehungsweise der Vorlage des Landrates, als auch dem Gegenvorschlag zustimmen oder beide ablehnen; stimmen sie beiden Vorlagen zu, ist jene angenommen, für welche in der gleichzeitig stattfindenden Eventualabstimmung mehr Stimmen abgegeben werden."
+      },
+      {
+        "num": "6",
+        "text": "Das Verfahren bei mehreren Gegenvorschlägen regelt das Gesetz."
+      }
+    ],
+    "56": [
+      {
+        "num": "1",
+        "text": "Für die gesetzliche Regelung des Mitanteils und der Nutzung an Korporationsgütern sind nur jene Personen stimmberechtigt, die das Aktivbürgerrecht sowie im Kanton ein Korporationsbürgerrecht besitzen."
+      },
+      {
+        "num": "2",
+        "text": "Das Antragsrecht steht neben den gemäss Absatz 1 stimmberechtigten Personen dem Landrat und den Korporationsräten zu."
       }
     ],
     "57": [
       {
+        "num": null,
+        "text": "Der Landrat besteht aus 60 Mitgliedern."
+      }
+    ],
+    "58": [
+      {
         "num": "1",
-        "text": "Der Landrat besteht aus sechzig Mitgliedern."
+        "text": "Für die Wahlen in den Landrat bildet jede politische Gemeinde einen Wahlkreis."
+      },
+      {
+        "num": "2",
+        "text": "Jeder Wahlkreis wählt nach den Vorschriften des Gesetzes die Mitglieder, die ihm aufgrund der Einwohnerzahl zukommen; massgebend ist die kantonale Einwohnerstatistik vom 31. Dezember des zweiten der Wahl vorausgehenden Kalenderjahres.25"
+      },
+      {
+        "num": "3",
+        "text": "Jeder Wahlkreis hat Anspruch auf mindestens zwei Sitze.26"
+      }
+    ],
+    "59": [
+      {
+        "num": "1",
+        "text": "Der Landrat wählt auf die Dauer von einem Jahr die Präsidentin oder den Präsidenten, die Vizepräsidentin oder den Vizepräsidenten und die übrigen Mitglieder des Landratsbüros."
+      },
+      {
+        "num": "2",
+        "text": "Die Präsidentin oder der Präsident ist für eine nächste einjährige Amtsdauer nicht wieder wählbar."
+      }
+    ],
+    "60": [
+      {
+        "num": "1",
+        "text": "Der Landrat erlässt in Form des Gesetzes:"
+      },
+      {
+        "num": "2",
+        "text": "Er genehmigt interkantonale Verträge mit rechtsetzendem Inhalt gemäss Absatz 1 Ziffer 1 und 2."
+      },
+      {
+        "num": "3",
+        "text": "Er erlässt das für seine Tätigkeit notwendige Geschäftsreglement."
+      }
+    ],
+    "61": [
+      {
+        "num": null,
+        "text": "In die Zuständigkeit des Landrates fallen weiter:"
       }
     ],
     "62": [
@@ -857,6 +1229,16 @@
         "text": "Der Regierungsrat nimmt die Zuteilung der Direktionen vor."
       }
     ],
+    "64": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat erlässt:"
+      },
+      {
+        "num": "2",
+        "text": "Er erlässt zeitlich befristete Noterlasse; diese sind sobald als möglich dem Landrat zu unterbreiten, der über ihre weitere Geltung und Befristung entscheidet."
+      }
+    ],
     "65": [
       {
         "num": "1",
@@ -864,7 +1246,7 @@
       },
       {
         "num": "2",
-        "text": "Er ist namentlich befugt und beauftragt: 1. * die Erlasse durch eigene Verfügungen und durch Anweisungen an die ihm unterstellte Verwaltung zu vollziehen; 2. die Beschlüsse und die Entscheidungen anderer kantonaler Behörden zu vollstrecken, soweit diese Befugnis nicht besondern Organen vorbehalten ist; 3. * die Beamtinnen und Beamten sowie die Angestellten der kantonalen Verwaltung zu wählen, soweit deren Wahl nicht durch die Gesetzgebung einer anderen Behörde übertragen ist; 4. * unter Vorbehalt von Art. 52 Ziffer 5 Vernehmlassungen zu erstatten, zu denen der Bund den Kanton auffordert; 5. die gesamte Staatsverwaltung zu überwachen und die sich selbst verwaltenden Anstalten nach Massgabe der Gesetzgebung zu beaufsichtigen; 6. * die Gemeinden und Korporationen nach Massgabe der Gesetzgebung zu beaufsichtigen und bei schwerer Pflichtverletzung die notwendigen Massnahmen unter Vorbehalt der Beschwerde an den Landrat anzuordnen; 7. die Beschwerden gegen die Gemeinden und Korporationen sowie gegen die Departemente zu beurteilen, soweit nicht ein Gericht zuständig ist; 8. * unter Vorbehalt von Art. 52 Ziffer 6 die kantonalen Bewilligungen, Konzessionen und Verleihungen zu erteilen, soweit diese Aufgabe nicht nach Gesetz einer anderen Behörde übertragen ist; 9. * unter Vorbehalt weitergehender ihm durch die Gesetzgebung oder durch Beschluss des Landrates übertragenen Vollmachten frei bestimmbare einmalige Ausgaben bis 200'000 Franken und jährlich wiederkehrende Ausgaben bis 40'000 Franken zu beschliessen; 10. das Kantonsvermögen zu verwalten und im Rahmen von Ziffer 9 darüber zu verfügen; 11. alle weitern durch die Gesetzgebung ihm übertragenen Aufgaben zu erfüllen."
+        "text": "Er ist namentlich befugt und beauftragt:"
       }
     ],
     "66": [
@@ -874,7 +1256,23 @@
       },
       {
         "num": "2",
-        "text": "Gesetze, die gegen diese Verfassung verstossen oder bundesrechtswidrig sind, und ebenso verfassungs- und gesetzwidrige Erlasse sind für die Gerichte unverbindlich. *"
+        "text": "Gesetze, die gegen diese Verfassung verstossen oder bundesrechtswidrig sind, und ebenso verfassungs- und gesetzwidrige Erlasse sind für die Gerichte unverbindlich.46"
+      }
+    ],
+    "67": [
+      {
+        "num": "1",
+        "text": "Die Zivilgerichtsbarkeit wird ausgeübt durch:"
+      },
+      {
+        "num": "2",
+        "text": "Die Gesetzgebung regelt die Organisation der Schlichtungsbehörden."
+      }
+    ],
+    "68": [
+      {
+        "num": null,
+        "text": "Die Gerichtsbarkeit bei verwaltungs- und sozialversicherungsrechtlichen Streitigkeiten wird durch das Verwaltungsgericht ausgeübt."
       }
     ],
     "69": [
@@ -884,12 +1282,12 @@
       },
       {
         "num": "2",
-        "text": "Das Verfassungsgericht beurteilt: 1. Streitigkeiten über die Ausübung der politischen Rechte und über die Gültigkeit von Wahlen und Abstimmungen im Kanton sowie, nach Beurteilung durch den Regierungsrat gemäss Art. 65 Ziffer 7, in den Gemeinden und Korporationen; 2. Streitigkeiten über die Rechtmässigkeit von Gesetzen und Verordnungen des Kantons, der Gemeinden und Korporationen; 3. Kompetenzkonflikte zwischen kantonalen Instanzen, sofern das Verfassungsgericht nicht Partei ist; 4. Streitigkeiten über die Selbständigkeit der Gemeinden, Korporationen und öffentlichrechtlich anerkannten Kirchen; 5. * Beschwerden gegen Entscheide des Landrates oder des administrativen Rates über die verfassungsmässige Zulässigkeit der Anträge und Gegenvorschläge gemäss Art. 61 Ziffer 2 oder Art. 82 Abs. 2 Ziffer 5; 6. die weiteren durch Gesetz dem Verfassungsgericht zugewiesenen Angelegenheiten."
+        "text": "Das Verfassungsgericht beurteilt:"
       }
     ],
     "70": [
       {
-        "num": "1",
+        "num": null,
         "text": "Der Bestand und die Selbständigkeit der Gemeinden ist gewährleistet."
       }
     ],
@@ -900,12 +1298,18 @@
       },
       {
         "num": "2",
-        "text": "Sie sind im Rahmen der Gesetzgebung befugt: 1. * die eigene Organisation frei zu bestimmen und ihre Behörden sowie Mitarbeitenden selbst zu wählen; 2. die in ihren Wirkungsbereich fallenden Aufgaben nach freiem Ermessen zu erfüllen."
+        "text": "Sie sind im Rahmen der Gesetzgebung befugt:"
+      }
+    ],
+    "72": [
+      {
+        "num": null,
+        "text": "Die Gemeinden können für die gemeinsame Aufgabenerfüllung mit Gemeinden innerhalb und ausserhalb des Kantons im Rahmen der Gesetzgebung Verträge abschliessen, Gemeindeverbände bilden oder gemeinsame Anstalten errichten."
       }
     ],
     "73": [
       {
-        "num": "1",
+        "num": null,
         "text": "Die Gemeindeversammlung, der administrative Rat und dessen Präsident sind die notwendigen Organe jeder Gemeinde."
       }
     ],
@@ -919,16 +1323,40 @@
         "text": "Bei schwerer Pflichtverletzung kann der Regierungsrat unter Vorbehalt des Rekurses an den Landrat einer Gemeinde das Recht der Selbstverwaltung ganz oder teilweise entziehen oder andere Massnahmen anordnen."
       }
     ],
-    "76": [
+    "75": [
       {
         "num": "1",
-        "text": "In die Zuständigkeit der Gemeindeversammlung fallen: 1. * der Erlass der Gemeindeordnung und der Reglemente; 2. * die Wahl der Behörden und der gemäss der Gesetzgebung von der Gemeindeversammlung zu wählenden Mitarbeitenden; es steht den Gemeinden frei, die Wahl für den administrativen Rat und die für die Rechnungsrevision zuständige Kommission so festzulegen, dass alle zwei Jahre die Hälfte der Mitglieder zu wählen ist; 3. * die Festsetzung des Gemeindesteuerfusses; 4. * die Beschlüsse über Ausgaben und finanzielle Verfügungen, welche die Finanzkompetenzen des administrativen Rates übersteigen; 5. * die Festsetzung des jährlichen Budgets; 6. die Genehmigung der Gemeinderechnung."
+        "text": "Die Gemeindeversammlung ist jährlich mindestens zweimal einzuberufen."
+      },
+      {
+        "num": "2",
+        "text": "Ausserordentliche Gemeindeversammlungen sind einzuberufen, wenn es der administrative Rat beschliesst, oder wenn es ein Zwanzigstel der Stimmberechtigten unter Nennung der zu behandelnden Gegenstände verlangt; im letzten Fall hat die Gemeindeversammlung binnen dreier Monate stattzufinden."
+      },
+      {
+        "num": "3",
+        "text": "Die Verhandlungen leitet die Präsidentin beziehungsweise der Präsident oder die Vizepräsidentin beziehungsweise der Vizepräsident oder das in der Wahl nächstfolgende Mitglied des administrativen Rates."
+      }
+    ],
+    "76": [
+      {
+        "num": null,
+        "text": "In die Zuständigkeit der Gemeindeversammlung fallen:"
+      }
+    ],
+    "77": [
+      {
+        "num": "1",
+        "text": "Der Gemeindeversammlung sind die vom administrativen Rat erlassenen oder abgeänderten Verordnungen und Reglemente zu unterbreiten, wenn es binnen zweier Monate seit der Veröffentlichung des Erlasses von einem Zwanzigstel der Stimmberechtigten verlangt wird.56"
+      },
+      {
+        "num": "2",
+        "text": "Die Abstimmung ist an der nächsten Gemeindeversammlung durchzuführen."
       }
     ],
     "78": [
       {
         "num": "1",
-        "text": "Anträge können als allgemeine Anregung oder als ausgearbeitete Vorlage eingereicht werden; wird eine allgemeine Anregung zum Beschluss erhoben, ist der Gemeindeversammlung binnen Jahresfrist die ausgearbeitete Vorlage zu unterbreiten. 1a Das Gesetz kann die Verlängerung dieser Frist vorsehen. *"
+        "text": "Anträge können als allgemeine Anregung oder als ausgearbeitete Vorlage eingereicht werden; wird eine allgemeine Anregung zum Beschluss erhoben, so ist der Gemeindeversammlung binnen Jahresfrist die ausgearbeitete Vorlage zu unterbreiten."
       },
       {
         "num": "2",
@@ -936,7 +1364,7 @@
       },
       {
         "num": "3",
-        "text": "Anträge können stellen: 1. * jede Aktivbürgerin und jeder Aktivbürger, jede Kommission und der administrative Rat der zuständigen Gemeinde; 2. juristische Personen des privaten und öffentlichen Rechts, die in der Gemeinde ihren Sitz haben, sofern es sich um einen Finanzbeschluss zugunsten eines gemeinnützigen oder genossenschaftlichen Zwecks handelt."
+        "text": "Anträge können stellen:"
       },
       {
         "num": "4",
@@ -945,13 +1373,13 @@
     ],
     "79": [
       {
-        "num": "1",
+        "num": null,
         "text": "Das Gesetz bestimmt die Voraussetzungen, unter denen in Gemeindeangelegenheiten die Urnenabstimmung zu erfolgen hat."
       }
     ],
     "80": [
       {
-        "num": "1",
+        "num": null,
         "text": "Das Gesetz bestimmt die Voraussetzungen, unter denen Gemeinden die Gemeindeversammlung durch die Volksvertretung ersetzen können, sowie die Organisation und die Befugnisse der Volksvertretung."
       }
     ],
@@ -962,7 +1390,7 @@
       },
       {
         "num": "2",
-        "text": "Aus dessen Mitte wählt die Gemeindeversammlung das Präsidium und das Vizepräsidium. Das Gesetz regelt die Amtsdauer. *"
+        "text": "Aus dessen Mitte wählt die Gemeindeversammlung auf eine Amtsdauer von zwei Jahren den Präsidenten und den Vizepräsidenten."
       },
       {
         "num": "3",
@@ -971,8 +1399,8 @@
     ],
     "82": [
       {
-        "num": "1",
-        "text": "Der administrative Rat erlässt Verordnungen, zu denen er durch die Gesetzgebung zuständig erklärt wird. *"
+        "num": null,
+        "text": "Der administrative Rat erlässt unter Vorbehalt von Artikel 77:"
       }
     ],
     "83": [
@@ -982,23 +1410,29 @@
       },
       {
         "num": "2",
-        "text": "Er ist, unter Vorbehalt von Art. 80, namentlich befugt und beauftragt: 1. das Protokoll der Gemeindeversammlung zu genehmigen; 2. die Gesetze, Verordnungen und Reglemente zu vollziehen; 3. die Beschlüsse und Entscheidungen der kantonalen Behörden und der Gemeindeversammlung zu vollziehen, soweit diese Befugnis nicht besondern Organen vorbehalten ist; 4. * die Mitarbeitenden zu wählen, soweit deren Wahl nicht durch die Gesetzgebung einer anderen Instanz übertragen ist; 5. über die verfassungsmässige Zulässigkeit der Anträge an die Gemeindeversammlung gemäss Art. 78 Abs. 4 zu entscheiden; 6. Vernehmlassungen zu erstatten, zu denen der Kanton die Gemeinde auffordert; 7. * im Rahmen der in der Gesetzgebung der Gemeinde umschriebenen Finanzkompetenzen frei bestimmbare einmalige Ausgaben und jährlich wiederkehrende Ausgaben zu beschliessen, ferner Ausgaben, die der Gemeinde durch die Gesetzgebung verbindlich vorgeschrieben oder für welche durch die Gesetzgebung oder den Beschluss der Gemeindeversammlung dem administrativen Rat weitergehende Vollmachten übertragen sind; 8. das Gemeindevermögen zu verwalten und im Rahmen von Ziffer 7 darüber zu verfügen; 9. * … 10. alle weitern durch die Gesetzgebung ihm übertragenen Aufgaben zu erfüllen."
+        "text": "Er ist, unter Vorbehalt von Artikel 80, namentlich befugt und beauftragt:"
+      }
+    ],
+    "84": [
+      {
+        "num": null,
+        "text": "Eine politische Gemeinde darf nicht ohne Zustimmung der Aktivbürgerschaft der Gemeinde und des Kantons aufgeteilt oder mit einer andern Gemeinde vereinigt werden."
       }
     ],
     "85": [
       {
-        "num": "1",
-        "text": "Die Politische Gemeinde regelt im Rahmen der Gesetzgebung alle örtlichen Angelegenheiten, die nicht einer andern Gemeinde übertragen sind."
+        "num": null,
+        "text": "Die politische Gemeinde regelt im Rahmen der Gesetzgebung alle örtlichen Angelegenheiten, die nicht einer andern Gemeinde übertragen sind."
       }
     ],
     "86": [
       {
         "num": "1",
-        "text": "Das Gebiet der Schulgemeinde deckt sich mit jenem der Politischen Gemeinde."
+        "text": "Das Gebiet der Schulgemeinde deckt sich mit jenem der politischen Gemeinde."
       },
       {
         "num": "2",
-        "text": "Die Schulgemeinde kann aufgehoben und deren Aufgaben und Befugnisse durch die Politische Gemeinde übernommen werden, sofern die Stimmberechtigten dieser Zusammenlegung zustimmen; die Zusammenlegung kann durch Beschluss der Stimmberechtigten rückgängig gemacht werden. *"
+        "text": "Die Schulgemeinde kann aufgehoben und deren Aufgaben und Befugnisse durch die politische Gemeinde übernommen werden, sofern die Stimmberechtigten dieser Zusammenlegung zustimmen; die Zusammenlegung kann durch Beschluss der Stimmberechtigten rückgängig gemacht werden.60"
       }
     ],
     "88": [
@@ -1008,13 +1442,13 @@
       },
       {
         "num": "2",
-        "text": "Die Neubildung, Zusammenlegung oder Teilung von Kirchgemeinden oder Kapellgemeinden bedarf der Zustimmung der Stimmberechtigten der Gemeinde sowie des Landrates. *"
+        "text": "Die Neubildung, Zusammenlegung oder Teilung von Kirchgemeinden oder Kapellgemeinden bedarf der Zustimmung der Stimmberechtigten sowie des Landrates.62"
       }
     ],
     "89": [
       {
         "num": "1",
-        "text": "Das Stimm- und Wahlrecht richtet sich nach den Bestimmungen dieser Verfassung; es kann durch die Kirchenverfassung auf weitere Kirchenglieder ausgedehnt werden. *"
+        "text": "Stimm- und Wahlrecht richtet sich nach den Bestimmungen dieser Verfassung; es kann durch die Kirchenverfassung auf weitere Kirchenglieder ausgedehnt werden.63"
       },
       {
         "num": "2",
@@ -1032,7 +1466,7 @@
       },
       {
         "num": "2",
-        "text": "Der Kanton erhebt im Rahmen der Gesetzgebung einen Zuschlag zu den Ertrags- und Kapitalsteuern der juristischen Personen; die Gesetzgebung regelt die Verteilung des Steuerertrages unter den öffentlichrechtlich anerkannten Kirchen. *"
+        "text": "Der Kanton erhebt im Rahmen der Gesetzgebung einen Zuschlag zu den Ertrags- und Kapitalsteuern der juristischen Personen; die Gesetzgebung regelt die Verteilung des Steuerertrags unter den öffentlich-rechtlich anerkannten Kirchen.64"
       }
     ],
     "91": [
@@ -1048,34 +1482,44 @@
     "92": [
       {
         "num": "1",
-        "text": "Wird ein Antrag als ausgearbeitete Vorlage eingereicht, erfolgt die Teilrevision der Verfassung unter Vorbehalt von Art. 54 und Art. 94 auf dem Wege der Gesetzgebung."
+        "text": "Wird ein Antrag als ausgearbeitete Vorlage eingereicht, so erfolgt die Teilrevision der Verfassung unter Vorbehalt von Artikel 54 und Artikel 94 auf dem Wege der Gesetzgebung."
       },
       {
         "num": "2",
-        "text": "Wird ein Antrag als allgemeine Anregung eingereicht, erfolgt die Teilrevision nach dem in Art. 93 festgelegten Verfahren."
+        "text": "Wird ein Antrag als allgemeine Anregung eingereicht, so erfolgt die Teilrevision nach dem in Artikel 93 festgelegten Verfahren."
       }
     ],
     "93": [
       {
         "num": "1",
-        "text": "Wird die Gesamtrevision der Verfassung gemäss Art. 54 verlangt, ist das Begehren der Urnenabstimmung zu unterstellen. *"
+        "text": "Wird die Gesamtrevision der Verfassung gemäss Artikel 54 verlangt, ist das Begehren der Urnenabstimmung zu unterstellen.65"
       },
       {
         "num": "2",
-        "text": "Ist die Gesamtrevision beschlossen, obliegt die Ausarbeitung der neuen Verfassung dem Landrat, sofern nicht durch den Revisionsbeschluss ein Verfassungsrat mit dieser Aufgabe betraut wird."
+        "text": "Ist die Gesamtrevision beschlossen, so obliegt die Ausarbeitung der neuen Verfassung dem Landrat, sofern nicht durch den Revisionsbeschluss ein Verfassungsrat mit dieser Aufgabe betraut wird."
       },
       {
         "num": "3",
-        "text": "Der Verfassungsrat zählt gleich viele Mitglieder wie der Landrat und ist binnen 90 Tagen nach den für die Wahl des Landrates geltenden Vorschriften zu wählen."
+        "text": "Der Verfassungsrat zählt gleich viele Mitglieder wie der Landrat und ist binnen 90 Tagen nach den für die Wahl des Landrates geltenden Vorschriften zu wählen.66"
       },
       {
         "num": "4",
-        "text": "Die revidierte Verfassung ist der Urnenabstimmung zu unterstellen. *"
+        "text": "Die revidierte Verfassung ist der Urnenabstimmung zu unterstellen.67"
+      }
+    ],
+    "94": [
+      {
+        "num": "1",
+        "text": "Über die Annahme oder die Verwerfung der neuen Verfassungsbestimmungen oder der neuen Verfassung entscheiden die Aktivbürgerinnen und Aktivbürger an der Urne.69"
+      },
+      {
+        "num": "2",
+        "text": "In der Übergangsordnung kann das Inkrafttreten aller oder einzelner neuer Verfassungsbestimmungen aufgeschoben werden:"
       }
     ],
     "95": [
       {
-        "num": "1",
+        "num": null,
         "text": "Diese Verfassung tritt mit der Annahme durch die Landsgemeinde in Kraft."
       }
     ],
@@ -1105,8 +1549,8 @@
     ],
     "98": [
       {
-        "num": "1",
-        "text": "Bis zum Erlass der neuen Gesetzgebung über die Haftung öffentlichrechtlicher Körperschaften und Anstalten gemäss Art. 6 gilt die Regelung der bisherigen Verfassung (Art. 22 Abs. 2)."
+        "num": null,
+        "text": "Bis zum Erlass der neuen Gesetzgebung über die Haftung öffentlichrechtlicher Körperschaften und Anstalten gemäss Artikel 6 gilt die Regelung der bisherigen Verfassung (Art. 22 Abs. 2)."
       }
     ],
     "101": [
@@ -1122,11 +1566,11 @@
     "102": [
       {
         "num": "1",
-        "text": "Damit der Bestand der Schulgemeinden gemäss Art. 86 Abs. 1 verwirklicht werden kann, ist eine Regelung zu treffen, die alle erforderlichen Bestimmungen über die Teilung oder Zusammenlegung, insbesondere über die vermögensrechtliche Auseinandersetzung und die Übergangsordnung, verbindlich festlegt."
+        "text": "Damit der Bestand der Schulgemeinden gemäss Artikel 86 Absatz 1 verwirklicht werden kann, ist eine Regelung zu treffen, die alle erforderlichen Bestimmungen über die Teilung oder Zusammenlegung, insbesondere über die vermögensrechtliche Auseinandersetzung und die Übergangsordnung, verbindlich festlegt."
       },
       {
         "num": "2",
-        "text": "Bei Zusammenlegung mehrerer Schulgemeinden sind deren Gemeindeversammlungen zuständig, ihre Vertretung für die Vorbereitung der Regelung zu bestimmen und die Regelung zu genehmigen; bei Teilung einer Schulgemeinde stehen die gleichen Befugnisse den Gemeindeversammlungen der betroffenen Politischen Gemeinden zu."
+        "text": "Bei Zusammenlegung mehrerer Schulgemeinden sind deren Gemeindeversammlungen zuständig, ihre Vertretung für die Vorbereitung der Regelung zu bestimmen und die Regelung zu genehmigen; bei Teilung einer Schulgemeinde stehen die gleichen Befugnisse den Gemeindeversammlungen der betroffenen politischen Gemeinden zu."
       },
       {
         "num": "3",
@@ -1134,17 +1578,23 @@
       },
       {
         "num": "4",
-        "text": "Das Schiedsgericht hat die Aufgabe, zwischen den Parteien eine gütliche Einigung herbeizuführen oder, wenn das nicht möglich ist, die verbindliche Regelung mit allen erforderlichen Bestimmungen endgültig festzulegen."
+        "text": "Das Schiedsgericht hat die Aufgabe, zwischen den Parteien eine gütliche Einigung herbeizuführen, oder, wenn das nicht möglich ist, die verbindliche Regelung mit allen erforderlichen Bestimmungen endgültig festzulegen."
       },
       {
         "num": "5",
-        "text": "Der Bestand der Schulgemeinden gemäss Art. 86 Abs. 1 gilt, wenn kein früherer Zeitpunkt vereinbart wird, ab 1. Januar 1975."
+        "text": "Der Bestand der Schulgemeinden gemäss Artikel 86 Absatz 1 gilt, wenn kein früherer Zeitpunkt vereinbart wird, ab 1. Januar 1975."
       }
     ],
     "103": [
       {
-        "num": "1",
-        "text": "Wenn der zur römisch-katholischen Kirchgemeinde Stans gehörende Teil der Gemeinde Oberdorf sich von der Kirchgemeinde Stans loslösen will, ist für die Beschlussfassung gemäss Art. 88 Abs. 2 anstelle der Kirchgemeinde Stans die Gemeindeversammlung der Politischen Gemeinde Oberdorf zuständig; für den Beschluss sind nur jene Aktivbürger stimmberechtigt, die Glieder der römisch-katholischen Kirche sind."
+        "num": null,
+        "text": "Wenn der zur römisch-katholischen Kirchgemeinde Stans gehörende Teil der Gemeinde Oberdorf sich von der Kirchgemeinde Stans loslösen will, ist für die Beschlussfassung gemäss Artikel 88 Absatz 2 anstelle der Kirchgemeinde Stans die Gemeindeversammlung der politischen Gemeinde Oberdorf zuständig; für den Beschluss sind nur jene Aktivbürger stimmberechtigt, die Glieder der römisch-katholischen Kirche sind."
+      }
+    ],
+    "104": [
+      {
+        "num": null,
+        "text": "Bis zum Inkrafttreten des Landratsbeschlusses über die Festsetzung des Kantonssteuerfusses und eines Landratsbeschlusses über die Festsetzung des Kirchensteuerfusses für die juristischen Personen bleiben die bisherigen Steuerfüsse in Kraft."
       }
     ],
     "105": [
@@ -1154,13 +1604,23 @@
       },
       {
         "num": "2",
-        "text": "Sie haben ihre Aufgaben nach den Bestimmungen dieser Verfassung zu erfüllen; Art. 94 Abs. 3 der bisherigen Verfassung bleibt bis zum Erlass der neuen Gesetzgebung in Kraft."
+        "text": "Sie haben ihre Aufgaben nach den Bestimmungen dieser Verfassung zu erfüllen; Artikel 94 Absatz 3 der bisherigen Verfassung bleibt bis zum Erlass der neuen Gesetzgebung in Kraft."
+      }
+    ],
+    "106": [
+      {
+        "num": "1",
+        "text": "Die Amtsdauer für die Friedensrichter und den Einzelrichter für Schuldbetreibung und Konkurs wird bis Ende Dezember 2010 verlängert."
+      },
+      {
+        "num": "2",
+        "text": "Für die Besetzung der Gerichtspräsidien und für die Wahl von jenen Richterinnen und Richtern, deren Amtsdauer im Jahr 2010 abläuft, findet im Jahr 2010 eine Wahl für den Rest der Amtsdauer bis 2012 statt."
       }
     ],
     "107": [
       {
-        "num": "1",
-        "text": "Der Landrat wird bevollmächtigt, jene Verfassungsbestimmungen mit der Bundesverfassung in Übereinstimmung zu bringen, die allenfalls durch die Bundesversammlung als mit der Bundesverfassung in Widerspruch stehend erklärt werden."
+        "num": null,
+        "text": "Der Landrat wird bevollmächtigt, jene Verfassungsbestimmungen mit der Bundesverfassung73 in Übereinstimmung zu bringen, die allenfalls durch die Bundesversammlung als mit der Bundesverfassung in Widerspruch stehend erklärt werden."
       }
     ]
   }

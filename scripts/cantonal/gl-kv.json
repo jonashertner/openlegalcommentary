@@ -7,7 +7,7 @@
   "lexfind_id": 7326,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 114,
+  "article_count": 154,
   "articles": [
     {
       "number": 1,
@@ -142,6 +142,12 @@
       "title": "Schutz der Umwelt"
     },
     {
+      "number": 22,
+      "suffix": "a",
+      "raw": "22a",
+      "title": "Klimaschutz"
+    },
+    {
       "number": 23,
       "suffix": "",
       "raw": "23",
@@ -176,6 +182,12 @@
       "suffix": "",
       "raw": "28",
       "title": "Arbeitslosenfürsorge und Arbeitsrecht"
+    },
+    {
+      "number": 29,
+      "suffix": "",
+      "raw": "29",
+      "title": "Sozialhilfe, Kindes- und Erwachsenenschutzwesen *"
     },
     {
       "number": 30,
@@ -224,6 +236,12 @@
       "suffix": "",
       "raw": "37",
       "title": "Öffentliche Aufgaben im Schulwesen"
+    },
+    {
+      "number": 38,
+      "suffix": "",
+      "raw": "38",
+      "title": "Kinderhorte"
     },
     {
       "number": 39,
@@ -313,13 +331,25 @@
       "number": 53,
       "suffix": "",
       "raw": "53",
-      "title": "Budget und Rechnung&nbsp;<strong>*</strong>"
+      "title": "Budget und Rechnung *"
     },
     {
       "number": 54,
       "suffix": "",
       "raw": "54",
       "title": "Finanzierung"
+    },
+    {
+      "number": 55,
+      "suffix": "",
+      "raw": "55",
+      "title": "Kantons- und Gemeindeleistungen an die Aufgabenerfüllung"
+    },
+    {
+      "number": 55,
+      "suffix": "a",
+      "raw": "55a",
+      "title": "Finanzausgleich"
     },
     {
       "number": 56,
@@ -332,6 +362,12 @@
       "suffix": "",
       "raw": "57",
       "title": "Inhalt des Stimmrechts"
+    },
+    {
+      "number": 57,
+      "suffix": "a",
+      "raw": "57a",
+      "title": "Politische Partizipation"
     },
     {
       "number": 58,
@@ -394,6 +430,18 @@
       "title": "Ermittlung der Mehrheit"
     },
     {
+      "number": 68,
+      "suffix": "",
+      "raw": "68",
+      "title": "Wahlbefugnisse"
+    },
+    {
+      "number": 69,
+      "suffix": "",
+      "raw": "69",
+      "title": "Gesetzgebung und Sachbefugnisse"
+    },
+    {
       "number": 70,
       "suffix": "",
       "raw": "70",
@@ -418,6 +466,12 @@
       "title": "Gewaltentrennung"
     },
     {
+      "number": 74,
+      "suffix": "",
+      "raw": "74",
+      "title": "Wählbarkeit"
+    },
+    {
       "number": 75,
       "suffix": "",
       "raw": "75",
@@ -434,6 +488,12 @@
       "suffix": "",
       "raw": "77",
       "title": "Ausstand"
+    },
+    {
+      "number": 78,
+      "suffix": "",
+      "raw": "78",
+      "title": "Amtsdauer und Wiederwahl"
     },
     {
       "number": 79,
@@ -460,6 +520,12 @@
       "title": "Stellung und Aufgabe des Landrates"
     },
     {
+      "number": 83,
+      "suffix": "",
+      "raw": "83",
+      "title": "Landratsbüro"
+    },
+    {
       "number": 84,
       "suffix": "",
       "raw": "84",
@@ -478,6 +544,12 @@
       "title": "Verhandlungen"
     },
     {
+      "number": 86,
+      "suffix": "a",
+      "raw": "86a",
+      "title": "Informationsrechte"
+    },
+    {
       "number": 87,
       "suffix": "",
       "raw": "87",
@@ -488,6 +560,12 @@
       "suffix": "",
       "raw": "88",
       "title": "Wahlbefugnisse"
+    },
+    {
+      "number": 89,
+      "suffix": "",
+      "raw": "89",
+      "title": "Rechtsetzung"
     },
     {
       "number": 90,
@@ -514,10 +592,34 @@
       "title": "Übertragung von Befugnissen"
     },
     {
+      "number": 94,
+      "suffix": "",
+      "raw": "94",
+      "title": "Stellung und Aufgabe des Regierungsrates"
+    },
+    {
+      "number": 95,
+      "suffix": "",
+      "raw": "95",
+      "title": "Kollegial- und Departementalsystem"
+    },
+    {
       "number": 96,
       "suffix": "",
       "raw": "96",
       "title": "Stellung und Aufgabe des Landammanns"
+    },
+    {
+      "number": 97,
+      "suffix": "",
+      "raw": "97",
+      "title": "Wahl des Landammanns und des Landesstatthalters"
+    },
+    {
+      "number": 98,
+      "suffix": "",
+      "raw": "98",
+      "title": "Wahlbefugnisse"
     },
     {
       "number": 99,
@@ -544,10 +646,70 @@
       "title": "Grundlagen der Verwaltungstätigkeit"
     },
     {
+      "number": 103,
+      "suffix": "",
+      "raw": "103",
+      "title": "Organisation"
+    },
+    {
+      "number": 104,
+      "suffix": "",
+      "raw": "104",
+      "title": "Kommissionen"
+    },
+    {
+      "number": 105,
+      "suffix": "",
+      "raw": "105",
+      "title": "Dienstrecht"
+    },
+    {
+      "number": 107,
+      "suffix": "a",
+      "raw": "107a",
+      "title": "Richterliche Unabhängigkeit"
+    },
+    {
       "number": 108,
       "suffix": "",
       "raw": "108",
       "title": "Kantonsgericht"
+    },
+    {
+      "number": 109,
+      "suffix": "",
+      "raw": "109",
+      "title": ""
+    },
+    {
+      "number": 110,
+      "suffix": "",
+      "raw": "110",
+      "title": "Obergericht"
+    },
+    {
+      "number": 111,
+      "suffix": "",
+      "raw": "111",
+      "title": "Verwaltungsgericht"
+    },
+    {
+      "number": 112,
+      "suffix": "",
+      "raw": "112",
+      "title": "Organisation *"
+    },
+    {
+      "number": 113,
+      "suffix": "",
+      "raw": "113",
+      "title": ""
+    },
+    {
+      "number": 114,
+      "suffix": "",
+      "raw": "114",
+      "title": "Organisation *"
     },
     {
       "number": 115,
@@ -568,6 +730,12 @@
       "title": "Zusammenarbeit"
     },
     {
+      "number": 118,
+      "suffix": "",
+      "raw": "118",
+      "title": "Bestandes- und Grenzänderungen"
+    },
+    {
       "number": 119,
       "suffix": "",
       "raw": "119",
@@ -584,6 +752,12 @@
       "suffix": "",
       "raw": "121",
       "title": "Rechtsschutz"
+    },
+    {
+      "number": 122,
+      "suffix": "",
+      "raw": "122",
+      "title": ""
     },
     {
       "number": 127,
@@ -614,6 +788,18 @@
       "suffix": "",
       "raw": "131",
       "title": "Befugnisse der Stimmberechtigten"
+    },
+    {
+      "number": 132,
+      "suffix": "",
+      "raw": "132",
+      "title": "Dringliche Beschlussfassung"
+    },
+    {
+      "number": 133,
+      "suffix": "",
+      "raw": "133",
+      "title": "Fakultatives Referendum"
     },
     {
       "number": 134,
@@ -692,6 +878,60 @@
       "suffix": "",
       "raw": "146",
       "title": "Erforderliche Rechtsetzung"
+    },
+    {
+      "number": 147,
+      "suffix": "",
+      "raw": "147",
+      "title": "Inkrafttreten der Änderungen vom 7. Mai 2006"
+    },
+    {
+      "number": 148,
+      "suffix": "",
+      "raw": "148",
+      "title": "Zusammenlegung von Gemeinden"
+    },
+    {
+      "number": 149,
+      "suffix": "",
+      "raw": "149",
+      "title": "Zusammenlegung der Schulgemeinden und der Ortsgemeinden"
+    },
+    {
+      "number": 150,
+      "suffix": "",
+      "raw": "150",
+      "title": "Zusammenlegung der Tagwen und der Ortsgemeinden"
+    },
+    {
+      "number": 151,
+      "suffix": "",
+      "raw": "151",
+      "title": "Aufhebung der Fürsorgegemeinden"
+    },
+    {
+      "number": 152,
+      "suffix": "",
+      "raw": "152",
+      "title": "Vormundschaftswesen"
+    },
+    {
+      "number": 153,
+      "suffix": "",
+      "raw": "153",
+      "title": "Zuständigkeiten des Regierungsrates"
+    },
+    {
+      "number": 154,
+      "suffix": "",
+      "raw": "154",
+      "title": "Zuständigkeiten der neuen Vorsteherschaften"
+    },
+    {
+      "number": 155,
+      "suffix": "",
+      "raw": "155",
+      "title": "Ausgleich der Vermögensverhältnisse, Finanzierungsbeschluss"
     }
   ],
   "article_texts": {
@@ -915,6 +1155,20 @@
         "text": "Sie bewahren die Schönheit und Eigenart der Landschaft und der Ortsbilder sowie der Natur- und Kulturdenkmäler."
       }
     ],
+    "22a": [
+      {
+        "num": "1",
+        "text": "Kanton und Gemeinden setzen sich für die Begrenzung der Klimaveränderung und deren nachteiligen Auswirkungen ein. Sie leisten den erforderlichen Beitrag zur Erreichung der Klimaziele des Kantons, des Bundes und der für die Schweiz verbindlichen internationalen Abkommen."
+      },
+      {
+        "num": "2",
+        "text": "Sie sorgen dafür, dass dazu geeignete Massnahmen umgesetzt werden. Die Massnahmen zum Klimaschutz sind umwelt-, sozial- und wirtschaftsverträglich auszugestalten."
+      },
+      {
+        "num": "3",
+        "text": "Sie setzen finanzielle Anreize zur Erreichung der Klimaziele."
+      }
+    ],
     "23": [
       {
         "num": "1",
@@ -977,6 +1231,16 @@
       {
         "num": "3",
         "text": "Der Kanton und die Gemeinden können Massnahmen zur Arbeitsbeschaffung treffen."
+      }
+    ],
+    "29": [
+      {
+        "num": "1",
+        "text": "Die öffentliche Sozialhilfe und das Kindes- und Erwachsenenschutzwesen sind Sache des Kantons. Die Gemeinden unterstützen den Kanton in der Wahrnehmung dieser Aufgaben, soweit dies für eine wirksame und kostengünstige Erfüllung dieser Aufgaben erforderlich ist. *"
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt die Aufsicht des Kantons über Sozialhilfeeinrichtungen, im Besonderen über stationäre Einrichtungen."
       }
     ],
     "30": [
@@ -1085,6 +1349,12 @@
       {
         "num": "5",
         "text": "Er erleichtert die Ausbildung durch Stipendien und soziale Massnahmen."
+      }
+    ],
+    "38": [
+      {
+        "num": "1",
+        "text": "Der Kanton regelt die Führung der Kinderhorte."
       }
     ],
     "39": [
@@ -1263,6 +1533,22 @@
         "text": "Sie müssen die entsprechenden Angaben und Anträge in die Vorlagen aufnehmen."
       }
     ],
+    "55": [
+      {
+        "num": "1",
+        "text": "Der Kanton richtet den Gemeinden zur Unterstützung ihrer Aufgaben nach Gesetz Abgeltungen und zweckgebundene Finanzhilfen aus."
+      },
+      {
+        "num": "2",
+        "text": "Die Gemeinden können nach Gesetz zu geldwerten Leistungen an die Erfüllung gemeinsamer Aufgaben des Kantons und der Gemeinden verpflichtet werden."
+      }
+    ],
+    "55a": [
+      {
+        "num": "1",
+        "text": "Der Finanzausgleich besteht aus dem Ressourcen- und dem Lastenausgleich. Den Ressourcenausgleich finanzieren die Gemeinden, der Lastenausgleich wird vom Kanton finanziert. Das Gesetz regelt das Nähere."
+      }
+    ],
     "56": [
       {
         "num": "1",
@@ -1293,6 +1579,16 @@
       {
         "num": null,
         "text": "a. * an der Gemeindeversammlung oder an der Urne zu wählen und, ab zurückgelegtem 18. Altersjahr, gewählt zu werden; b. Anträge zuhanden der Gemeindeversammlung zu stellen; c. an der Gemeindeversammlung zu raten sowie an der Gemeindeversammlung oder an der Urne abzustimmen."
+      }
+    ],
+    "57a": [
+      {
+        "num": "1",
+        "text": "Der Kanton fördert die politische Partizipation."
+      },
+      {
+        "num": "2",
+        "text": "Der Regierungsrat kann Massnahmen dazu ergreifen, damit auch stimmen kann, wer insbesondere wegen einer Behinderung unfähig ist, die für die Stimmabgabe nötigen Handlungen selbst vorzunehmen."
       }
     ],
     "58": [
@@ -1459,6 +1755,34 @@
         "text": "Sein Entscheid ist unanfechtbar."
       }
     ],
+    "68": [
+      {
+        "num": "1",
+        "text": "Die Landsgemeinde ist zuständig für:"
+      },
+      {
+        "num": null,
+        "text": "a. die Wahl des Landammanns und des Landesstatthalters; b. * die Wahl der Gerichtspräsidien, der teilamtlichen Vizepräsidien und der weiteren Richterinnen und Richter."
+      }
+    ],
+    "69": [
+      {
+        "num": "1",
+        "text": "Die Landsgemeinde ist zuständig für die Änderung der Kantonsverfassung. Sie erlässt zudem in der Form des Gesetzes alle grundlegenden und wichtigen Bestimmungen."
+      },
+      {
+        "num": "2",
+        "text": "Sie ist im Weiteren zuständig für:"
+      },
+      {
+        "num": null,
+        "text": "a. die Zustimmung zu Konkordaten und andern Verträgen, wenn diese einen Gegenstand der Verfassung oder der Gesetzgebung oder eine Ausgabe nach Buchstabe b betreffen; b. Beschlüsse über alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck von mehr als 1 Million Franken und über alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck von mehr als 200 000 Franken im Jahr; c. den freien Erwerb von Grundstücken als Anlage oder zur Vorsorge im Betrag von mehr als 5 Millionen Franken; d. weitere durch den Landrat vorgelegte Beschlüsse; e. die Festsetzung des Steuerfusses."
+      },
+      {
+        "num": "3",
+        "text": "Die Landsgemeinde kann ihre Befugnisse dem Landrat oder dem Regierungsrat übertragen, sofern die Ermächtigung auf ein bestimmtes Gebiet beschränkt und nach Zweck und Umfang näher umschrieben wird."
+      }
+    ],
     "70": [
       {
         "num": "1",
@@ -1485,6 +1809,20 @@
       {
         "num": "1",
         "text": "Die gesetzgebende, die vollziehende und die richterliche Gewalt sind dem Grundsatz nach getrennt."
+      }
+    ],
+    "74": [
+      {
+        "num": "1",
+        "text": "Alle Stimmberechtigten ab zurückgelegtem 18. Altersjahr sind wählbar als Landrat, Regierungsrat oder Richter, als Ständerat oder als Mitglied der weiteren Behörden des Kantons und der Gemeinden. * 1a Für die Gerichtspräsidien und die teilamtlichen Vizepräsidien ist zudem ein an einer Schweizer Hochschule mit einem Lizentiat oder Master abgeschlossenes Studium der Rechtswissenschaften Wählbarkeitsvoraussetzung. *"
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz kann für bestimmte Behörden zusätzliche Wählbarkeitsvoraussetzungen vorsehen."
+      },
+      {
+        "num": "3",
+        "text": "Durch Gesetz oder Verordnung des Landrates kann gestattet werden, ausnahmsweise bestimmte Behörden durch Nichtstimmberechtigte zu besetzen."
       }
     ],
     "75": [
@@ -1527,6 +1865,28 @@
       {
         "num": "2",
         "text": "Weitergehende gesetzliche Vorschriften bleiben vorbehalten."
+      }
+    ],
+    "78": [
+      {
+        "num": "1",
+        "text": "Die Amtsdauer für die Behördenmitglieder und die auf die Amtsdauer gewählten Angestellten des Kantons und der Gemeinden beträgt vier Jahre. *"
+      },
+      {
+        "num": "2",
+        "text": "Sie nimmt ihren Anfang jeweils am 1. Juli, mit folgenden Ausnahmen: Für den Landrat beginnt sie mit der konstituierenden Sitzung und für die Mitglieder des Regierungsrates an der Landsgemeinde. Die Amtsdauer der Ständeräte beginnt mit der konstituierenden Sitzung nach der Gesamterneuerung des Nationalrates. *"
+      },
+      {
+        "num": "3",
+        "text": "Nach Ablauf der Amtsdauer ist die Wiederwahl zulässig."
+      },
+      {
+        "num": "4",
+        "text": "Vorbehalten bleiben die Vorschriften für den Landammann, den Landesstatthalter sowie den Präsidenten und den Vizepräsidenten des Landrates."
+      },
+      {
+        "num": "5",
+        "text": "Die Mitglieder des Regierungsrates, die beiden Ständeräte sowie die Gerichtspräsidenten und weiteren Richter, die das 65. Altersjahr vollendet haben, scheiden auf die darauffolgende Landsgemeinde bzw. auf Ende Juni aus ihrem Amte aus. *"
       }
     ],
     "79": [
@@ -1573,6 +1933,12 @@
         "text": "Er erlässt Verordnungen, Verwaltungs- und Finanzbeschlüsse und entscheidet über grundlegende oder allgemeinverbindliche Planungen."
       }
     ],
+    "83": [
+      {
+        "num": "1",
+        "text": "Der Landrat wählt alljährlich aus seiner Mitte den Präsidenten, den Vizepräsidenten und die weiteren Mitglieder des Landratsbüros."
+      }
+    ],
     "84": [
       {
         "num": "1",
@@ -1611,6 +1977,20 @@
         "text": "Die Landräte verhandeln und stimmen ohne Instruktion."
       }
     ],
+    "86a": [
+      {
+        "num": "1",
+        "text": "Jedes Mitglied des Landrates kann für seine parlamentarischen Aufgaben von den Departementen, der Staatskanzlei und den übrigen Trägern von Verwaltungsaufgaben sowie von den Gerichten Auskünfte über Rechts- oder Sachfragen, die nicht dem Amtsgeheimnis unterliegen, erhalten. *"
+      },
+      {
+        "num": "2",
+        "text": "Die Kommissionen des Landrates erhalten Auskunft oder Akteneinsicht, soweit sie diese zur Erfüllung ihrer Aufgaben benötigen. In begründeten Fällen kann der Regierungsrat einzelne seiner Mitglieder, kantonale Angestellte oder kantonale Lehrpersonen vom Amtsgeheimnis entbinden. Ebenso kann in begründeten Fällen die Verwaltungskommission der Gerichte einzelne Mitglieder oder Angestellte eines Gerichts in Fragen der Gerichtsverwaltung vom Amtsgeheimnis entbinden. *"
+      },
+      {
+        "num": "3",
+        "text": "Setzt der Landrat zur Klärung von Vorkommnissen von grosser Tragweite eine Untersuchungskommission ein, so kann diese vom Regierungsrat, in Fragen der Gerichtsverwaltung von den Gerichten oder in Fragen der Zusammenarbeit von Kanton und Gemeinden von den Gemeindebehörden sämtliche notwendigen Informationen einholen. Die Mitglieder von Behörden sowie die Angestellten und Lehrpersonen des Kantons und der Gemeinden müssen auch über Wahrnehmungen, die dem Amtsgeheimnis unterliegen, Auskunft erteilen. Private Personen können nach Massgabe des Gesetzes über die Verwaltungsrechtspflege [1] befragt werden. *"
+      }
+    ],
     "87": [
       {
         "num": "1",
@@ -1625,6 +2005,16 @@
       {
         "num": "2",
         "text": "Er ist im weiteren zuständig für die Wahl der Staatsanwälte und der Jugendanwälte sowie der amtlichen Verteidiger. Sodann bezeichnet er den Ersten Staatsanwalt. *"
+      }
+    ],
+    "89": [
+      {
+        "num": "1",
+        "text": "Der Landrat ist zuständig für:"
+      },
+      {
+        "num": null,
+        "text": "a. die Beratung von Vorlagen und die Antragstellung zuhanden der Landsgemeinde; b. den Erlass von Verordnungen aufgrund von Ermächtigungen der Verfassung; c. den Erlass von Verordnungen aufgrund von Ermächtigungen der Landsgemeinde; d. den Erlass von Einführungsbestimmungen zu Bundesrecht und von Ausführungsbestimmungen zu interkantonalem Recht, soweit diese keinen Gegenstand der Gesetzgebung betreffen; e. die Genehmigung oder die Kündigung interkantonaler Vereinbarungen und anderer Verträge, soweit nicht die Landsgemeinde oder der Regierungsrat zuständig ist; f. eine Rechtsetzung in dringlichen Fällen anstelle der Landsgemeinde; solche Erlasse gelten bis zur nächsten ordentlichen Landsgemeinde."
       }
     ],
     "90": [
@@ -1663,6 +2053,34 @@
         "text": "Der Landrat kann seine Befugnisse an den Regierungsrat übertragen, sofern die Ermächtigung auf ein bestimmtes Gebiet beschränkt und nach Zweck und Umfang näher umschrieben wird."
       }
     ],
+    "94": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat ist die leitende und die oberste vollziehende Behörde des Kantons. Er besteht aus fünf vollamtlichen Mitgliedern."
+      },
+      {
+        "num": "2",
+        "text": "Er plant das staatliche Handeln, ergreift Initiativen, pflegt die Beziehungen zum Bund und zu den anderen Kantonen, koordiniert die Verwaltungsarbeiten und vertritt den Kanton nach innen und nach aussen. Vorbehalten bleiben die Befugnisse der Landsgemeinde und des Landrates."
+      },
+      {
+        "num": "3",
+        "text": "Er führt die kantonale Verwaltung, wirkt bei der kantonalen und eidgenössischen Rechtsetzung mit, ist beim Vollzug der Gesetze und in der Verwaltungsrechtspflege tätig, beaufsichtigt nach Gesetz die Gemeinden und die andern Träger öffentlicher Aufgaben und sorgt für die Verbindung der Behörden mit der Öffentlichkeit."
+      }
+    ],
+    "95": [
+      {
+        "num": "1",
+        "text": "Die grundsätzlichen und wichtigen Entscheide trifft der Regierungsrat gesamthaft."
+      },
+      {
+        "num": "2",
+        "text": "Im Übrigen werden die Geschäfte nach Departementen den einzelnen Mitgliedern zugewiesen."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz regelt die Organisation des Regierungsrates in den Grundzügen."
+      }
+    ],
     "96": [
       {
         "num": "1",
@@ -1675,6 +2093,26 @@
       {
         "num": "3",
         "text": "Der Landesstatthalter ist der Stellvertreter des Landammanns."
+      }
+    ],
+    "97": [
+      {
+        "num": "1",
+        "text": "Der Landammann und der Landesstatthalter werden durch die Landsgemeinde aus dem Kreis der Mitglieder des Regierungsrates für zwei Jahre gewählt. Die Amtszeit beginnt mit der Landsgemeinde."
+      },
+      {
+        "num": "2",
+        "text": "Erfolgt die Wahl im Lauf einer Amtszeit, so wird diese nicht angerechnet."
+      },
+      {
+        "num": "3",
+        "text": "Der abtretende Landammann ist für die folgenden zwei Jahre weder als Landammann noch als Landesstatthalter, der abtretende Landesstatthalter nur als Landammann wählbar."
+      }
+    ],
+    "98": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat wählt die Mitglieder der Kommissionen und die mit öffentlichen Aufgaben betrauten Personen; ferner wählt er die kantonalen Angestellten und Lehrpersonen, soweit diese Befugnis nicht durch Gesetz oder landrätliche Verordnung dem Regierungsrat nachgeordneten Verwaltungseinheiten übertragen ist. Vorbehalten bleiben die Zuständigkeiten des Landrates und der Gerichtsbehörden."
       }
     ],
     "99": [
@@ -1717,6 +2155,58 @@
         "text": "Das Gesetz regelt die Grundzüge der Verwaltungsorganisation sowie das Verwaltungsverfahren und das Verwaltungsbeschwerdeverfahren."
       }
     ],
+    "103": [
+      {
+        "num": "1",
+        "text": "Die kantonale Verwaltung wird in Departemente gegliedert. Jedes Mitglied des Regierungsrates steht einem Departement vor. Der Regierungsrat verteilt die Departemente unter seine Mitglieder und ordnet die Stellvertretung."
+      },
+      {
+        "num": "2",
+        "text": "Der Ratsschreiber führt die Staatskanzlei als Stabsstelle des Regierungsrates; er untersteht dem Landammann."
+      },
+      {
+        "num": "3",
+        "text": "Die Departemente und die Staatskanzlei sowie die ihnen nachgeordneten Verwaltungseinheiten bereiten die Geschäfte des Regierungsrates vor und führen sie aus. Durch Gesetz oder Verordnung können ihnen Geschäfte zur selbstständigen Erledigung zugewiesen werden."
+      },
+      {
+        "num": "4",
+        "text": "Durch Gesetz können Verwaltungsaufgaben auf Organisationen und Personen des öffentlichen oder privaten Rechts übertragen werden. Dabei müssen der Rechtsschutz und die Aufsicht des Kantons sichergestellt sein."
+      }
+    ],
+    "104": [
+      {
+        "num": "1",
+        "text": "Durch Gesetz, Verordnung oder Beschluss des Regierungsrates können Kommissionen eingesetzt werden, die den Regierungsrat oder die Departemente bei der Vorbereitung der Rechtsetzung, der Planung oder in besonderen Fragen beraten."
+      },
+      {
+        "num": "2",
+        "text": "Entscheidungs- oder Aufsichtsbefugnisse können einer Kommission nur durch Gesetz oder landrätliche Verordnung übertragen werden."
+      }
+    ],
+    "105": [
+      {
+        "num": "1",
+        "text": "Das Gesetz regelt die Rechte und Pflichten der Behördenmitglieder und Angestellten des Kantons sowie der Lehrpersonen des Kantons und der Gemeinden."
+      },
+      {
+        "num": "2",
+        "text": "Es bestimmt insbesondere die Wahlvoraussetzungen und Unvereinbarkeiten für die kantonalen Angestellten sowie für die Lehrpersonen."
+      }
+    ],
+    "107a": [
+      {
+        "num": "1",
+        "text": "Die Gerichte sind unabhängig und nur an Recht und Gesetz gebunden."
+      },
+      {
+        "num": "2",
+        "text": "Sie verwalten sich selbst. Das Gesetz sieht hierzu ein gemeinsames Organ vor."
+      },
+      {
+        "num": "3",
+        "text": "Die Gerichte dürfen Erlasse nicht anwenden, die Bundesrecht oder kantonalem Verfassungs- und Gesetzesrecht widersprechen."
+      }
+    ],
     "108": [
       {
         "num": "1",
@@ -1729,6 +2219,48 @@
       {
         "num": "3",
         "text": "… *"
+      }
+    ],
+    "109": [],
+    "110": [
+      {
+        "num": "1",
+        "text": "Das Obergericht urteilt in Zivil-, Straf- und Jugendstrafsachen als letzte oder einzige kantonale Instanz."
+      },
+      {
+        "num": "2",
+        "text": "Es besteht aus dem Präsidium und einer durch Gesetz bestimmten Anzahl von Mitgliedern. *"
+      },
+      {
+        "num": "3",
+        "text": "… * 3a Das Obergericht übt die Aufsicht über die Geschäftsführung des Kantonsgerichts aus. *"
+      }
+    ],
+    "111": [
+      {
+        "num": "1",
+        "text": "Das Verwaltungsgericht urteilt in verwaltungs- und anderen öffentlich-rechtlichen Streitigkeiten als erste oder als Beschwerdeinstanz. * 1a Es besteht aus dem Präsidium und einer durch Gesetz bestimmten Anzahl von Mitgliedern. *"
+      },
+      {
+        "num": "2",
+        "text": "… * 2a Das Verwaltungsgericht übt die Aufsicht über die Geschäftsführung der verwaltungsunabhängigen Kommissionen aus. *"
+      }
+    ],
+    "112": [
+      {
+        "num": "1",
+        "text": "Das Gesetz regelt die Organisation und die Zuständigkeiten der Gerichte sowie das Verfahren vor Gericht."
+      }
+    ],
+    "113": [],
+    "114": [
+      {
+        "num": "1",
+        "text": "Das Gesetz regelt die Organisation und die Zuständigkeiten der Strafverfolgungsbehörden sowie die Aufsicht über diese. *"
+      },
+      {
+        "num": "2",
+        "text": "… * 2a Die Strafverfolgungsbehörden sind in der Rechtsanwendung unabhängig und alleine dem Recht verpflichtet. *"
       }
     ],
     "115": [
@@ -1773,6 +2305,16 @@
         "text": "… *"
       }
     ],
+    "118": [
+      {
+        "num": "1",
+        "text": "Änderungen im Bestand der Gemeinden bedürfen der Zustimmung der betroffenen Stimmberechtigten und der Genehmigung durch die Landsgemeinde."
+      },
+      {
+        "num": "2",
+        "text": "Bei Kirchgemeinden sowie bei Grenzänderungen genügt die Genehmigung durch den Landrat."
+      }
+    ],
     "119": [
       {
         "num": "1",
@@ -1811,6 +2353,20 @@
         "text": "In Wahl- und Abstimmungssachen ist jeder Stimmberechtigte unter Vorbehalt gesetzlicher Ausnahmen beschwerdeberechtigt."
       }
     ],
+    "122": [
+      {
+        "num": "1",
+        "text": "Die Gemeinde nimmt alle öffentlichen Aufgaben wahr, für die weder der Bund noch der Kanton ausschliesslich zuständig sind (Einheitsgemeinden). *"
+      },
+      {
+        "num": "2",
+        "text": "Jede Gemeinde umfasst die in ihrem Gebiet wohnhaften Personen."
+      },
+      {
+        "num": "3",
+        "text": "Die Gemeinde besorgt insbesondere auch alle Schulangelegenheiten, soweit das Gesetz nichts anderes bestimmt."
+      }
+    ],
     "127": [
       {
         "num": "1",
@@ -1836,7 +2392,11 @@
       },
       {
         "num": null,
-        "text": "a. die Stimmberechtigten; b. die Vorsteherschaft; c. * die Geschäftsprüfungskommission der Gemeinde respektive das Rechnungsprüfungsorgan der Kirchgemeinde. 1a In den Gemeinden mit Gemeindeparlament sind die notwendigen Gemeindeorgane: *"
+        "text": "a. die Stimmberechtigten; b. die Vorsteherschaft; c. * die Geschäftsprüfungskommission der Gemeinde respektive das Rechnungsprüfungsorgan der Kirchgemeinde."
+      },
+      {
+        "num": null,
+        "text": "1a In den Gemeinden mit Gemeindeparlament sind die notwendigen Gemeindeorgane: *"
       },
       {
         "num": null,
@@ -1894,7 +2454,11 @@
       },
       {
         "num": null,
-        "text": "a. * die Wahl des Präsidenten sowie der Mitglieder der Vorsteherschaft; b. * … c. * die Wahl der übrigen Gemeindebehörden, Kommissionen und Angestellten, soweit diese nicht nach Gesetz und Gemeindeordnung einem anderen Gemeindeorgan übertragen ist; d. den Erlass der Gemeindeordnung; e. * den Erlass der übrigen Gemeindevorschriften, soweit dieser nicht in bestimmten Angelegenheiten nach Gesetz oder Gemeindeordnung einem anderen Gemeindeorgan übertragen ist; f.–g. * … h. * Ausgabenbeschlüsse und Beschlüsse über Erwerb, Veräusserung und Belastung von Grundstücken, soweit nach Gesetz oder Gemeindeordnung nicht ein anderes Gemeindeorgan zuständig ist; i. * die Festsetzung des Gemeindesteuerfusses im Rahmen der kantonalen Steuergesetzgebung, soweit dies nicht nach Gesetz oder Gemeindeordnung dem Gemeindeparlament übertragen ist; k. Beschlüsse über die Vereinigung oder Auflösung der Gemeinde und über Grenzänderungen; l. * … m. * weitere ihnen von der Vorsteherschaft oder vom Gemeindeparlament vorgelegte Beschlüsse. 1a In Gemeinden ohne Gemeindeparlament sind die Stimmberechtigten zusätzlich zuständig für: *"
+        "text": "a. * die Wahl des Präsidenten sowie der Mitglieder der Vorsteherschaft; b. * … c. * die Wahl der übrigen Gemeindebehörden, Kommissionen und Angestellten, soweit diese nicht nach Gesetz und Gemeindeordnung einem anderen Gemeindeorgan übertragen ist; d. den Erlass der Gemeindeordnung; e. * den Erlass der übrigen Gemeindevorschriften, soweit dieser nicht in bestimmten Angelegenheiten nach Gesetz oder Gemeindeordnung einem anderen Gemeindeorgan übertragen ist; f.–g. * … h. * Ausgabenbeschlüsse und Beschlüsse über Erwerb, Veräusserung und Belastung von Grundstücken, soweit nach Gesetz oder Gemeindeordnung nicht ein anderes Gemeindeorgan zuständig ist; i. * die Festsetzung des Gemeindesteuerfusses im Rahmen der kantonalen Steuergesetzgebung, soweit dies nicht nach Gesetz oder Gemeindeordnung dem Gemeindeparlament übertragen ist; k. Beschlüsse über die Vereinigung oder Auflösung der Gemeinde und über Grenzänderungen; l. * … m. * weitere ihnen von der Vorsteherschaft oder vom Gemeindeparlament vorgelegte Beschlüsse."
+      },
+      {
+        "num": null,
+        "text": "1a In Gemeinden ohne Gemeindeparlament sind die Stimmberechtigten zusätzlich zuständig für: *"
       },
       {
         "num": null,
@@ -1907,6 +2471,30 @@
       {
         "num": null,
         "text": "a. die Wahl der Mitglieder des Gemeindeparlaments; b.–d. * …"
+      }
+    ],
+    "132": [
+      {
+        "num": "1",
+        "text": "Ein in die Zuständigkeit der Stimmberechtigten fallender Beschluss kann in dringlichen Fällen ausnahmsweise stillschweigend gefasst werden, wenn: *"
+      },
+      {
+        "num": null,
+        "text": "a. * der Beschluss mit einer absoluten Mehrheit des Gemeindeparlaments oder Einstimmigkeit der Vorsteherschaft gefasst wurde; b. * der Beschluss öffentlich kundgemacht wird; c. * nicht die vom Gesetz bezeichnete Anzahl Stimmberechtigte innert Frist verlangt, dass der Beschluss als Antrag den Stimmberechtigten vorgelegt wird."
+      }
+    ],
+    "133": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden bezeichnen in der Gemeindeordnung die Erlasse und Beschlüsse der Vorsteherschaft oder des Gemeindeparlaments, die dem fakultativen Referendum unterliegen. *"
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt Fristen und Quoren. *"
+      },
+      {
+        "num": "3",
+        "text": "… *"
       }
     ],
     "134": [
@@ -2085,6 +2673,108 @@
       {
         "num": "2",
         "text": "Der Regierungsrat legt dem Landrat innert Jahresfrist nach Inkrafttreten der Verfassung eine Übersicht über die erforderliche Rechtsetzung vor."
+      }
+    ],
+    "147": [
+      {
+        "num": "1",
+        "text": "Die Änderungen vom 7. Mai 2006 treten am 1. Januar 2011 in Kraft."
+      },
+      {
+        "num": "2",
+        "text": "Der Regierungsrat kann einzelne Bestimmungen oder Gruppen von Bestimmungen auf einen früheren Zeitpunkt in Kraft setzen."
+      }
+    ],
+    "148": [
+      {
+        "num": "1",
+        "text": "Ab dem 1. Januar 2011 bestehen im Kanton noch die folgenden drei Gemeinden in der Form der Einheitsgemeinde (Zusammenschluss von Orts-, Schulgemeinde und Tagwen):"
+      },
+      {
+        "num": null,
+        "text": "1. Bilten, Mühlehorn, Obstalden, Filzbach, Niederurnen, Oberurnen, Näfels und Mollis;"
+      },
+      {
+        "num": null,
+        "text": "2. Netstal, Riedern, Glarus und Ennenda;"
+      },
+      {
+        "num": null,
+        "text": "3. Mitlödi, Sool, Schwändi, Schwanden, Haslen [2] , Luchsingen, Betschwanden, Rüti, Braunwald, Linthal, Engi, Matt und Elm."
+      },
+      {
+        "num": "2",
+        "text": "Vorbehalten bleiben weitere freiwillige Zusammenschlüsse."
+      },
+      {
+        "num": "3",
+        "text": "Die Stimmberechtigten der zusammengeschlossenen Gemeinden bestimmen den Namen der neuen Gemeinde."
+      },
+      {
+        "num": "4",
+        "text": "Soweit die einzelnen Gemeinden gemäss Absatz 1 sich nicht bis zum 31. Dezember 2010 selber zusammenschliessen, erfolgt der Zusammenschluss ohne weitere Beschlussfassung auf den 1. Januar 2011."
+      },
+      {
+        "num": "5",
+        "text": "Das Gemeindegesetz kann vorsehen, dass für eine Übergangsfrist von einer Amtsdauer Gemeinden, die gemäss Absatz 1 zusammengeschlossen werden, ein Anspruch auf mindestens einen Sitz in der Gemeindeexekutive zusteht. Der Anspruch kann für jede Gemeinde oder aber für eine Gemeindegruppe bestehen."
+      }
+    ],
+    "149": [
+      {
+        "num": "1",
+        "text": "Soweit die Schulgemeinden bis 31. Dezember 2010 noch nicht mit den entsprechenden Ortsgemeinden vereinigt sind, erfolgt dieser Zusammenschluss ohne weitere Beschlussfassung auf den 1. Januar 2011 zur Einheitsgemeinde im Rahmen von Artikel 148 Absatz 1."
+      }
+    ],
+    "150": [
+      {
+        "num": "1",
+        "text": "Soweit die Tagwen bis 31. Dezember 2010 noch nicht mit den entsprechenden Ortsgemeinden vereinigt sind, erfolgt dieser Zusammenschluss ohne weitere Beschlussfassung auf den 1. Januar 2011 zur Einheitsgemeinde im Rahmen von Artikel 148 Absatz 1."
+      }
+    ],
+    "151": [
+      {
+        "num": "1",
+        "text": "Mit Inkrafttreten von Artikel 29 Absatz 1 in der Fassung vom 7. Mai 2006 werden die noch bestehenden Fürsorgegemeinden aufgehoben. Der Regierungsrat kann vorsehen, dass die Übernahme des Sozialwesens durch den Kanton gemeindeweise und in Etappen erfolgt. Mit dieser Aufgabenübertragung fallen die Fürsorgevermögen zweckgebunden dem Kanton zu; eine Gemeinde ist dann von der Ablieferung des Fürsorgevermögens an den Kanton entbunden, wenn am 20. September 2005 eine selbstständige Fürsorgegemeinde nicht mehr bestand oder deren Zusammenschluss mit der Ortsgemeinde rechtskräftig beschlossen war. Das Gesetz regelt die Einzelheiten."
+      }
+    ],
+    "152": [
+      {
+        "num": "1",
+        "text": "Mit Inkrafttreten von Artikel 29 Absatz 1 in der Fassung vom 7. Mai 2006 werden die Vormundschaftsbehörden [3] der Gemeinden aufgehoben. Das Gesetz kann vorsehen, dass diese Vormundschaftsbehörden vor dem Inkrafttreten anhängig gemachte Fälle noch zu Ende führen. Es regelt Einzelheiten."
+      }
+    ],
+    "153": [
+      {
+        "num": "1",
+        "text": "Fehlt es einer Einheitsgemeinde bei Inkrafttreten der Änderung vom 7. Mai 2006 an den unerlässlichen Vorschriften, so trifft der Regierungsrat für die erforderliche Dauer die nötigen Anordnungen."
+      },
+      {
+        "num": "2",
+        "text": "Der Regierungsrat als Aufsichtsbehörde nach Artikel 138 ff. Gemeindegesetz kann gestützt auf diese Verfassungsbestimmung alle Anordnungen treffen, welche in der Übergangsphase zwischen der Beschlussfassung durch die Landsgemeinde einerseits und der Errichtung von drei Einheitsgemeinden und der Übernahme der Aufgaben der bisherigen Fürsorgegemeinden und Vormundschaftsbehörden durch den Kanton bzw. der Auflösung der Fürsorgegemeinden andererseits erforderlich sind oder der reibungslosen und sparsamen Umsetzung der neuen Gemeindestruktur dienen. Er hat namentlich darauf zu achten, dass Aktiven möglichst erhalten, wirkungsvoll und sparsam eingesetzt, sowie bestimmungsgemäss bzw. nicht derart verwendet werden, dass es zum Nachteil anderer Gemeinden gereicht."
+      },
+      {
+        "num": "3",
+        "text": "Diese Bestimmung tritt mit der Annahme durch die Landsgemeinde in Kraft."
+      }
+    ],
+    "154": [
+      {
+        "num": "1",
+        "text": "Das Gesetz kann bestimmen, dass die vor Ende der Amtsdauer 2006/2010 gewählten Vorsteherschaften der drei am 1. Januar 2011 neu entstehenden Gemeinden bereits am 1. Juli 2010 in alle Rechte und Pflichten, Aufgaben und Zuständigkeiten der am 30. Juni 2010 ausscheidenden Gemeinde-, Tagwen- und Schulvorsteherschaften eintreten."
+      }
+    ],
+    "155": [
+      {
+        "num": "1",
+        "text": "Die Landsgemeinde erlässt in einem besonderen Beschluss die Bestimmungen über die Art und die Finanzierung des Ausgleichs der unterschiedlichen Vermögensverhältnisse bei den sich zusammenschliessenden Gemeinden gemäss Artikel 148 Absatz 1. Sie bestimmt namentlich die Höhe des Kantonsbeitrages und legt den Höchstbetrag fest, der einer zusammengeschlossenen Gemeinde nach Artikel 148 Absatz 1 unter dem Titel des Ausgleichs unterschiedlicher Vermögensverhältnisse zukommen kann."
+      },
+      {
+        "num": "2",
+        "text": "Dabei kann sie ihre Zuständigkeiten dem Landrat übertragen, insbesondere soweit es um die Anpassung der von ihr im Jahre 2006 festgelegten Beiträge an die Verhältnisse am 31. Dezember 2010 geht."
+      },
+      {
+        "num": "3",
+        "text": "Diese Bestimmung tritt mit der Annahme durch die Landsgemeinde in Kraft."
       }
     ]
   }

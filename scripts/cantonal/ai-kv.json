@@ -115,7 +115,7 @@
       "number": 16,
       "suffix": "",
       "raw": "16",
-      "title": "<a class=\"footnote\" name=\"articletitle_text_fn_98858_2_1\" data-turbolinks=false href=\"#articletitle_text_fn_98858_2_1_c\">[1]</a>"
+      "title": ""
     },
     {
       "number": 17,
@@ -277,13 +277,13 @@
       "number": 41,
       "suffix": "",
       "raw": "41",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 42,
       "suffix": "",
       "raw": "42",
-      "title": "&hellip;"
+      "title": ""
     },
     {
       "number": 43,
@@ -596,11 +596,19 @@
       },
       {
         "num": "2",
-        "text": "Sie wählt alljährlich: 1. * Die Standeskommission, bestehend aus sieben Mitgliedern:"
+        "text": "Sie wählt alljährlich:"
       },
       {
         "num": null,
-        "text": "a) dem regierenden Landammann, der als solcher nach zweijähriger Amtsdauer auf das folgende Jahr nicht wieder wählbar ist, b) dem stillstehenden Landammann, c) sowie Statthalter, Säckelmeister, Landeshauptmann, Bauherr und Landesfähnrich. 2. das Kantonsgericht, bestehend aus einem Präsidenten und zwölf Mitgliedern, wobei jeder Bezirk mit einem Mitglied vertreten sein muss. 3. * …"
+        "text": "1. * Die Standeskommission, bestehend aus sieben Mitgliedern:"
+      },
+      {
+        "num": null,
+        "text": "a) dem regierenden Landammann, der als solcher nach zweijähriger Amtsdauer auf das folgende Jahr nicht wieder wählbar ist, b) dem stillstehenden Landammann, c) sowie Statthalter, Säckelmeister, Landeshauptmann, Bauherr und Landesfähnrich."
+      },
+      {
+        "num": null,
+        "text": "2. das Kantonsgericht, bestehend aus einem Präsidenten und zwölf Mitgliedern, wobei jeder Bezirk mit einem Mitglied vertreten sein muss."
       }
     ],
     "20bis": [
@@ -612,7 +620,15 @@
     "21": [
       {
         "num": "1",
-        "text": "Über die Landsgemeinde gelten im weitern noch folgende Bestimmungen: 1. sie nimmt einen Bericht über die kantonalen Amtsverwaltungen entgegen; 2. ausserordentlich einberufene Landsgemeinden können nur über den oder die Gegenstände, wegen deren die Einberufung geschehen ist, abstimmen."
+        "text": "Über die Landsgemeinde gelten im weitern noch folgende Bestimmungen:"
+      },
+      {
+        "num": null,
+        "text": "1. sie nimmt einen Bericht über die kantonalen Amtsverwaltungen entgegen;"
+      },
+      {
+        "num": null,
+        "text": "2. ausserordentlich einberufene Landsgemeinden können nur über den oder die Gegenstände, wegen deren die Einberufung geschehen ist, abstimmen."
       }
     ],
     "22": [
