@@ -481,11 +481,17 @@ def fetch_lexfind_pdf(canton: str) -> Path:
 
     doc = fitz.open(stream=r.content, filetype="pdf")
     pages = [page.get_text() for page in doc]
-    doc.close()
     full_text = "\n".join(pages)
 
-    # Segment into articles
+    # Segment into articles using simple text extraction
     articles, article_texts = _segment_pdf_articles(full_text, lang)
+
+    # Enrich titles using positional margin-note extraction
+    margin_titles = _extract_margin_titles(doc)
+    doc.close()
+    for art in articles:
+        if art["raw"] in margin_titles:
+            art["title"] = margin_titles[art["raw"]]
 
     # Extract title from first page
     first_lines = full_text.split("\n")[:20]
@@ -580,6 +586,93 @@ def _segment_pdf_articles(
         article_texts[art_num] = parse_article_text(body)
 
     return articles, article_texts
+
+
+def _extract_margin_titles(doc) -> dict[str, str]:  # noqa: ANN001
+    """Extract Randtitel from PDF margin columns using span positions.
+
+    Swiss law PDFs often place marginal notes (Randtitel) in a narrow
+    column beside the main text. By checking span x-coordinates, we
+    can separate these from body text and match them to articles.
+    """
+    margin_left = 82
+    margin_right = 335
+
+    margin_lines: list[tuple[int, float, str]] = []  # (page, y, text)
+    art_markers: list[tuple[int, float, str]] = []   # (page, y, art_num)
+
+    for page_num in range(len(doc)):
+        page = doc[page_num]
+        for block in page.get_text("dict")["blocks"]:
+            if block["type"] != 0:
+                continue
+            for line in block["lines"]:
+                y = line["bbox"][1]
+                if y < 55 or y > 530:
+                    continue
+                for span in line["spans"]:
+                    sx0 = span["bbox"][0]
+                    t = span["text"].strip()
+                    if not t:
+                        continue
+                    # Detect article markers
+                    am = re.match(
+                        r"Art\.\s*(\d+[a-z]?(?:bis|ter)?)", t
+                    )
+                    if am:
+                        art_markers.append((page_num, y, am.group(1)))
+                        continue
+                    # Detect margin notes by FONT SIZE (most reliable)
+                    # and x-position as secondary signal
+                    font_size = span["size"]
+                    is_margin_font = font_size < 8.0
+                    is_margin_pos = sx0 < margin_left or sx0 > margin_right
+                    if is_margin_font and is_margin_pos:
+                        # Skip page numbers, headers, long text
+                        if (re.match(r"^\d+\.?\s*$", t)
+                                or "Kantonsverfassung" in t
+                                or t == "101" or len(t) > 35):
+                            continue
+                        margin_lines.append((page_num, y, t))
+
+    # Group consecutive margin lines into multi-line Randtitel
+    # Store the FIRST line's y (closest to article marker)
+    grouped: list[tuple[int, float, str]] = []
+    pp, py_first, py_last, pt = -1, -1.0, -1.0, ""
+    for p, y, t in sorted(margin_lines, key=lambda x: (x[0], x[1])):
+        if p == pp and y - py_last < 14:
+            if pt.endswith(("\u00ad", "-")):
+                pt = pt.rstrip("\u00ad-") + t
+            else:
+                pt = pt + " " + t
+            py_last = y
+        else:
+            if pt:
+                grouped.append((pp, py_first, pt))
+            pp, py_first, py_last, pt = p, y, y, t
+    if pt:
+        grouped.append((pp, py_first, pt))
+
+    # Assign each margin note to nearest article marker below it
+    titles: dict[str, str] = {}
+    for mp, my, mt in grouped:
+        best_num, best_dist = None, 999.0
+        for ap, ay, anum in art_markers:
+            if ap == mp and ay >= my - 3:
+                d = ay - my
+                if d < best_dist:
+                    best_num, best_dist = anum, d
+        if best_num and best_dist < 25:
+            title = mt.replace("\u00ad", "").replace("\u00ad", "")
+            title = re.sub(r"\s+", " ", title).strip()
+            # Skip chapter headings
+            if (re.match(r"^[A-Z]\.\s", title)
+                    or "Kapitel" in title
+                    or "Abschnitt" in title):
+                continue
+            titles[best_num] = title
+
+    return titles
 
 
 def _guess_title_from_pdf(lines: list[str], canton: str) -> str:
