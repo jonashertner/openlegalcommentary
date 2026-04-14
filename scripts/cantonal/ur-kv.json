@@ -7,7 +7,7 @@
   "lexfind_id": 17919,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 105,
+  "article_count": 127,
   "articles": [
     {
       "number": 1,
@@ -136,6 +136,18 @@
       "title": "Obligatorische Volkswahl: kantonale"
     },
     {
+      "number": 22,
+      "suffix": "",
+      "raw": "22",
+      "title": "&hellip;"
+    },
+    {
+      "number": 23,
+      "suffix": "",
+      "raw": "23",
+      "title": "Obligatorische Volkswahl: in der Gemeinde"
+    },
+    {
       "number": 24,
       "suffix": "",
       "raw": "24",
@@ -146,6 +158,12 @@
       "suffix": "",
       "raw": "25",
       "title": "Fakultative Volksabstimmung des Kantons"
+    },
+    {
+      "number": 26,
+      "suffix": "",
+      "raw": "26",
+      "title": "&hellip;"
     },
     {
       "number": 27,
@@ -190,6 +208,12 @@
       "title": "Öffentliche Schulen"
     },
     {
+      "number": 34,
+      "suffix": "",
+      "raw": "34",
+      "title": "Volksschulen: Schulbesuch"
+    },
+    {
       "number": 35,
       "suffix": "",
       "raw": "35",
@@ -200,6 +224,12 @@
       "suffix": "",
       "raw": "36",
       "title": "Volksschulen: Sonderschulen"
+    },
+    {
+      "number": 37,
+      "suffix": "",
+      "raw": "37",
+      "title": "Kindergärten"
     },
     {
       "number": 38,
@@ -298,6 +328,12 @@
       "title": "Gesetzgebung"
     },
     {
+      "number": 54,
+      "suffix": "",
+      "raw": "54",
+      "title": "Kantonalbank"
+    },
+    {
       "number": 55,
       "suffix": "",
       "raw": "55",
@@ -370,6 +406,12 @@
       "title": "Gebietsveränderungen und Grenzbereinigungen&nbsp;<strong>*</strong>"
     },
     {
+      "number": 67,
+      "suffix": "",
+      "raw": "67",
+      "title": "Einwohnergemeinden"
+    },
+    {
       "number": 68,
       "suffix": "",
       "raw": "68",
@@ -386,6 +428,12 @@
       "suffix": "",
       "raw": "70",
       "title": "Korporationsbürgergemeinde"
+    },
+    {
+      "number": 71,
+      "suffix": "",
+      "raw": "71",
+      "title": "Zweckverbände"
     },
     {
       "number": 72,
@@ -424,6 +472,12 @@
       "title": "Verwandtenausschluss"
     },
     {
+      "number": 78,
+      "suffix": "",
+      "raw": "78",
+      "title": "Ausstand"
+    },
+    {
       "number": 79,
       "suffix": "",
       "raw": "79",
@@ -440,6 +494,18 @@
       "suffix": "",
       "raw": "81",
       "title": "Beschlussfassung"
+    },
+    {
+      "number": 82,
+      "suffix": "",
+      "raw": "82",
+      "title": "Vereidigung"
+    },
+    {
+      "number": 83,
+      "suffix": "",
+      "raw": "83",
+      "title": "Amtsdauer"
     },
     {
       "number": 84,
@@ -550,6 +616,36 @@
       "title": "Kantonale Verwaltung"
     },
     {
+      "number": 102,
+      "suffix": "",
+      "raw": "102",
+      "title": "Grundsatz"
+    },
+    {
+      "number": 103,
+      "suffix": "",
+      "raw": "103",
+      "title": "Organisation, Aufgaben und Verfahren"
+    },
+    {
+      "number": 104,
+      "suffix": "",
+      "raw": "104",
+      "title": "Zivilgerichtsbarkeit"
+    },
+    {
+      "number": 105,
+      "suffix": "",
+      "raw": "105",
+      "title": "Strafgerichtsbarkeit"
+    },
+    {
+      "number": 105,
+      "suffix": "a",
+      "raw": "105a",
+      "title": "Verwaltungsgerichtsbarkeit"
+    },
+    {
       "number": 106,
       "suffix": "",
       "raw": "106",
@@ -574,9 +670,39 @@
       "title": "Zuständigkeit"
     },
     {
+      "number": 109,
+      "suffix": "a",
+      "raw": "109a",
+      "title": "Ausführungsrecht"
+    },
+    {
       "number": 110,
       "suffix": "",
       "raw": "110",
+      "title": "Zuständigkeit der Stimmberechtigten"
+    },
+    {
+      "number": 111,
+      "suffix": "",
+      "raw": "111",
+      "title": "Gemeinderat"
+    },
+    {
+      "number": 112,
+      "suffix": "",
+      "raw": "112",
+      "title": "Schulrat"
+    },
+    {
+      "number": 113,
+      "suffix": "",
+      "raw": "113",
+      "title": "Sozialrat"
+    },
+    {
+      "number": 114,
+      "suffix": "",
+      "raw": "114",
       "title": "Zuständigkeit der Stimmberechtigten"
     },
     {
@@ -584,6 +710,12 @@
       "suffix": "",
       "raw": "115",
       "title": "Kirchenrat"
+    },
+    {
+      "number": 116,
+      "suffix": "",
+      "raw": "116",
+      "title": "Zuständigkeiten der Stimmberechtigten"
     },
     {
       "number": 117,
@@ -851,6 +983,13 @@
         "text": "a) die Ständeräte b) den Regierungsrat c) den Landammann und den Landesstatthalter d) * das Landgericht e) * das Obergericht"
       }
     ],
+    "22": [],
+    "23": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten der Gemeinde wählen die Landräte, ihre verfassungsmässigen Organe sowie die in der Gemeindeordnung vorgesehenen Behörden und Angestellten. *"
+      }
+    ],
     "24": [
       {
         "num": "1",
@@ -887,6 +1026,7 @@
         "text": "Übergangsbestimmung zu Artikel 24 Buchstabe c und d und Artikel 25 Absatz 2 Buchstabe c und d: Für Ausgaben, die im Zeitpunkt der Volksabstimmung vom Landrat bereits beschlossen sind, gilt die bisherige Regelung. *"
       }
     ],
+    "26": [],
     "27": [
       {
         "num": "1",
@@ -961,6 +1101,12 @@
         "text": "Der Kanton und die Gemeinden schaffen geeignete Voraussetzungen, damit alle Kinder und Jugendlichen ihren Anlagen entsprechend an öffentlichen Volks-, Mittel- und Berufsschulen unterrichtet werden können."
       }
     ],
+    "34": [
+      {
+        "num": "1",
+        "text": "Der Besuch der Volksschule ist unentgeltlich und, soweit die Gesetzgebung nichts anderes bestimmt, obligatorisch."
+      }
+    ],
     "35": [
       {
         "num": "1",
@@ -975,6 +1121,12 @@
       {
         "num": "1",
         "text": "Der Kanton führt oder unterstützt Sonderschulen und Heime. Er kann die Gemeinden zu angemessenen Leistungen beiziehen."
+      }
+    ],
+    "37": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden führen Kindergärten."
       }
     ],
     "38": [
@@ -1121,6 +1273,16 @@
         "text": "Der Kanton erlässt Vorschriften für eine geordnete Ausübung der wirtschaftlichen Tätigkeiten."
       }
     ],
+    "54": [
+      {
+        "num": "1",
+        "text": "Der Kanton kann eine Kantonalbank betreiben. Er garantiert deren Verbindlichkeiten."
+      },
+      {
+        "num": "2",
+        "text": "Die Kantonalbank hat einen angemessenen Ertrag zu erwirtschaften. Sie dient vorwiegend der gesamtwirtschaftlichen Entwicklung des Kantons."
+      }
+    ],
     "55": [
       {
         "num": "1",
@@ -1249,6 +1411,16 @@
         "text": "Für die Kirchgemeinden gilt das Organisationsstatut der Landeskirche, für die Korporationsbürgergemeinden das Recht der Korporationen."
       }
     ],
+    "67": [
+      {
+        "num": "1",
+        "text": "Der Kanton Uri gliedert sich in Einwohnergemeinden, deren Bestand im Rahmen der Verfassung und der Gesetzgebung gewährleistet ist."
+      },
+      {
+        "num": "2",
+        "text": "Einwohnergemeinden können sich zusammenschliessen. Das Nähere regelt das Gesetz."
+      }
+    ],
     "68": [
       {
         "num": "1",
@@ -1273,6 +1445,16 @@
       {
         "num": "1",
         "text": "Die Korporationsbürgergemeinden begründen und organisieren sich nach dem Recht der Korporationen."
+      }
+    ],
+    "71": [
+      {
+        "num": "1",
+        "text": "Das Gemeindegesetz und die besondere Gesetzgebung regeln die Zweckverbände."
+      },
+      {
+        "num": "2",
+        "text": "Übergangsbestimmung: Bestehende Zweckverbände gelten als genehmigt und anerkannt."
       }
     ],
     "72": [
@@ -1339,6 +1521,12 @@
         "text": "Die Bestimmung gilt nicht für den Landrat."
       }
     ],
+    "78": [
+      {
+        "num": "1",
+        "text": "Mitglieder von Behörden und Angestellte haben sich bei Geschäften, die sie unmittelbar betreffen, in den Ausstand zu begeben."
+      }
+    ],
     "79": [
       {
         "num": "1",
@@ -1367,6 +1555,26 @@
       {
         "num": "2",
         "text": "Die Präsidenten stimmen nicht, ausser bei Wahlen. Sie geben den Stichentscheid. Bei Wahlen entscheidet das Los."
+      }
+    ],
+    "82": [
+      {
+        "num": "1",
+        "text": "Behörden und Angestellte des Kantons sind in der Regel zu vereidigen."
+      }
+    ],
+    "83": [
+      {
+        "num": "1",
+        "text": "Die Amtsdauer für kantonale Behörden beträgt vier Jahre, jene für den Landammann und den Landesstatthalter zwei Jahre. Für Angestellte des Kantons, die vom Volk gewählt werden, gilt ebenfalls die vierjährige Amtsdauer, soweit der Landrat nicht abweichende Bestimmungen dazu erlässt."
+      },
+      {
+        "num": "2",
+        "text": "Für Behörden und Angestellte der Gemeinden gilt die zweijährige Amtsdauer, wenn die Gemeindeordnung nichts anderes bestimmt. Diese kann für bestimmte Angestelltengruppen insbesondere auf die periodische Wiederwahl verzichten. *"
+      },
+      {
+        "num": "3",
+        "text": "Disziplinarmassnahmen bleiben vorbehalten."
       }
     ],
     "84": [
@@ -1573,6 +1781,76 @@
         "text": "Ausnahmsweise können privatrechtliche Organisationen mit der Erfüllung öffentlicher Aufgaben betraut werden, sofern die Mitwirkungsrechte und der Rechtsschutz der Bürger sowie die Aufsicht durch den Regierungsrat sichergestellt sind."
       }
     ],
+    "102": [
+      {
+        "num": "1",
+        "text": "Die richterlichen Behörden sind unabhängig und dem Gesetz und Recht verpflichtet."
+      },
+      {
+        "num": "2",
+        "text": "Sie unterstehen der Oberaufsicht des Landrates. Das Obergericht erstattet dem Landrat regelmässig einen Rechenschaftsbericht über die Rechtspflege im Kanton Uri."
+      },
+      {
+        "num": "3",
+        "text": "Die Verwaltungsbehörden erfüllen Aufgaben der Rechtsprechung, soweit die Gesetzgebung ihnen solche überträgt."
+      }
+    ],
+    "103": [
+      {
+        "num": "1",
+        "text": "Das Gesetz regelt die Organisation und die Zusammensetzung der richterlichen Behörden. Es kann für einzelne Gerichte Abteilungen und Kommissionen vorsehen."
+      },
+      {
+        "num": "2",
+        "text": "Soweit die Gesetzgebung nichts anderes vorsieht, sind die Zuständigkeiten und Verfahren in einer Verordnung zu regeln. *"
+      }
+    ],
+    "104": [
+      {
+        "num": "1",
+        "text": "Die Zivilgerichtsbarkeit wird ausgeübt durch:"
+      },
+      {
+        "num": null,
+        "text": "a) die Schlichtungsbehörde b) * die Landgerichtspräsidien c) * das Landgericht d) das Obergericht"
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz kann bestimmte Zivilstreitigkeiten besonderen Organen zuweisen."
+      }
+    ],
+    "105": [
+      {
+        "num": "1",
+        "text": "Die Strafgerichtsbarkeit wird ausgeübt durch: *"
+      },
+      {
+        "num": null,
+        "text": "a) die Staatsanwaltschaft im Strafbefehlsverfahren b) * Landgerichtspräsidium c) * … d) * das Landgericht e) das Obergericht"
+      },
+      {
+        "num": "2",
+        "text": "Organe der Jugendstrafrechtspflege sind:"
+      },
+      {
+        "num": null,
+        "text": "a) der Jugendanwalt b) das Jugendgericht c) die Jugendgerichtskommission des Obergerichts"
+      },
+      {
+        "num": "3",
+        "text": "Die Gesetzgebung kann kantonale und gemeindliche Behörden und Verwaltungsstellen ermächtigen, geringfügige Bussen auszufällen. Der Weiterzug an ein Gericht bleibt gewährleistet."
+      }
+    ],
+    "105a": [
+      {
+        "num": "1",
+        "text": "Die Verwaltungsgerichtsbarkeit wird ausgeübt durch:"
+      },
+      {
+        "num": null,
+        "text": "a) das Obergericht b) weitere Behörden und Organe, denen die Gesetzgebung Aufgaben der Verwaltungsrechtsprechung überträgt"
+      }
+    ],
     "106": [
       {
         "num": "1",
@@ -1625,6 +1903,12 @@
         "text": "Soweit weder die Verfassung noch die Gesetzgebung etwas anderes bestimmt, ist der Gemeinderat beziehungsweise der Kirchenrat oder der Ortsbürgerrat zuständig, für die Gemeinde zu handeln."
       }
     ],
+    "109a": [
+      {
+        "num": "1",
+        "text": "Das Nähere bestimmt das Gemeindegesetz."
+      }
+    ],
     "110": [
       {
         "num": "1",
@@ -1639,6 +1923,46 @@
         "text": "Die Befugnisse nach Absatz 1 sind nicht übertragbar, soweit die besondere Gesetzgebung nichts anderes bestimmt."
       }
     ],
+    "111": [
+      {
+        "num": "1",
+        "text": "Der Gemeinderat besteht aus dem Präsidium und mindestens vier weiteren Mitgliedern. Die Gemeindeordnung bestimmt die Zahl der Mitglieder."
+      },
+      {
+        "num": "2",
+        "text": "Das Nähere regeln das Gemeindegesetz und die besondere Gesetzgebung."
+      }
+    ],
+    "112": [
+      {
+        "num": "1",
+        "text": "Sofern die Gemeinde einen Schulrat einsetzt, besteht er aus dem Präsidium und mindestens vier weiteren Mitgliedern. Die Gemeindeordnung bestimmt die Zahl der Mitglieder."
+      },
+      {
+        "num": "2",
+        "text": "Das Nähere regeln das Gemeindegesetz und die besondere Gesetzgebung."
+      }
+    ],
+    "113": [
+      {
+        "num": "1",
+        "text": "Sofern die Gemeinde einen Sozialrat einsetzt, besteht er aus dem Präsidium und mindestens vier weiteren Mitgliedern. Die Gemeindeordnung bestimmt die Zahl der Mitglieder."
+      },
+      {
+        "num": "2",
+        "text": "Das Nähere regeln das Gemeindegesetz und die besondere Gesetzgebung."
+      }
+    ],
+    "114": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten haben die gleichen Befugnisse wie jene der Einwohnergemeinde, jedoch beschränkt auf kirchliche Angelegenheiten."
+      },
+      {
+        "num": "2",
+        "text": "Sie wählen den Kirchenrat und den Ortspfarrer."
+      }
+    ],
     "115": [
       {
         "num": "1",
@@ -1647,6 +1971,16 @@
       {
         "num": "2",
         "text": "Er erfüllt die ihm durch das Organisationsstatut zugewiesenen Aufgaben."
+      }
+    ],
+    "116": [
+      {
+        "num": "1",
+        "text": "Die Stimmberechtigten haben die gleichen Befugnisse wie jene der Einwohnergemeinde, jedoch beschränkt auf die Angelegenheiten der Ortsbürgergemeinde."
+      },
+      {
+        "num": "2",
+        "text": "Sie wählen den Ortsbürgerrat."
       }
     ],
     "117": [

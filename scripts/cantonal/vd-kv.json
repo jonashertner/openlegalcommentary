@@ -3,11 +3,11 @@
   "law_key": "vd-kv",
   "sr_number": "101.01",
   "language": "fr",
-  "title": "SR Number:** 101.01",
+  "title": "Kantonsverfassung VD",
   "lexfind_id": 18476,
   "fetched_at": "2026-04-14",
-  "source": "mcp_lexfind_pdf",
-  "article_count": 60,
+  "source": "lexfind_pdf",
+  "article_count": 194,
   "articles": [
     {
       "number": 1,
@@ -368,6 +368,810 @@
       "suffix": "",
       "raw": "57",
       "title": "Transports et communications"
+    },
+    {
+      "number": 58,
+      "suffix": "",
+      "raw": "58",
+      "title": "Politique économique"
+    },
+    {
+      "number": 59,
+      "suffix": "",
+      "raw": "59",
+      "title": "Agriculture et sylviculture"
+    },
+    {
+      "number": 60,
+      "suffix": "",
+      "raw": "60",
+      "title": "Protection sociale"
+    },
+    {
+      "number": 61,
+      "suffix": "",
+      "raw": "61",
+      "title": "Intégration des personnes handicapées"
+    },
+    {
+      "number": 62,
+      "suffix": "",
+      "raw": "62",
+      "title": "Jeunesse"
+    },
+    {
+      "number": 63,
+      "suffix": "",
+      "raw": "63",
+      "title": "Familles"
+    },
+    {
+      "number": 63,
+      "suffix": "a",
+      "raw": "63a",
+      "title": "Ecole à journée continue  6"
+    },
+    {
+      "number": 64,
+      "suffix": "",
+      "raw": "64",
+      "title": "Assurance maternité et congé parental"
+    },
+    {
+      "number": 65,
+      "suffix": "",
+      "raw": "65",
+      "title": "Santé publique  5"
+    },
+    {
+      "number": 65,
+      "suffix": "a",
+      "raw": "65a",
+      "title": "Protection contre la fumée passive  4"
+    },
+    {
+      "number": 66,
+      "suffix": "",
+      "raw": "66",
+      "title": "Protection des consommateurs"
+    },
+    {
+      "number": 67,
+      "suffix": "",
+      "raw": "67",
+      "title": "Logement"
+    },
+    {
+      "number": 68,
+      "suffix": "",
+      "raw": "68",
+      "title": "Intégration des étrangers"
+    },
+    {
+      "number": 69,
+      "suffix": "",
+      "raw": "69",
+      "title": "Naturalisation"
+    },
+    {
+      "number": 70,
+      "suffix": "",
+      "raw": "70",
+      "title": "Vie associative et bénévolat"
+    },
+    {
+      "number": 71,
+      "suffix": "",
+      "raw": "71",
+      "title": "Aide humanitaire et coopération au développement"
+    },
+    {
+      "number": 72,
+      "suffix": "",
+      "raw": "72",
+      "title": "Prospective"
+    },
+    {
+      "number": 73,
+      "suffix": "",
+      "raw": "73",
+      "title": "Responsabilité de l'Etat et des communes"
+    },
+    {
+      "number": 74,
+      "suffix": "",
+      "raw": "74",
+      "title": "Corps électoral 10, 17"
+    },
+    {
+      "number": 75,
+      "suffix": "",
+      "raw": "75",
+      "title": "Contenu des droits politiques 17"
+    },
+    {
+      "number": 76,
+      "suffix": "",
+      "raw": "76",
+      "title": "Exercice des droits politiques"
+    },
+    {
+      "number": 77,
+      "suffix": "",
+      "raw": "77",
+      "title": "Elections"
+    },
+    {
+      "number": 78,
+      "suffix": "",
+      "raw": "78",
+      "title": "Objets"
+    },
+    {
+      "number": 79,
+      "suffix": "",
+      "raw": "79",
+      "title": "Forme de l'initiative, signatures"
+    },
+    {
+      "number": 80,
+      "suffix": "",
+      "raw": "80",
+      "title": "Validité de l'initiative 11"
+    },
+    {
+      "number": 81,
+      "suffix": "",
+      "raw": "81",
+      "title": "Procédure"
+    },
+    {
+      "number": 82,
+      "suffix": "",
+      "raw": "82",
+      "title": "Délai de traitement"
+    },
+    {
+      "number": 83,
+      "suffix": "",
+      "raw": "83",
+      "title": "Référendum obligatoire"
+    },
+    {
+      "number": 84,
+      "suffix": "",
+      "raw": "84",
+      "title": "Référendum facultatif 11"
+    },
+    {
+      "number": 85,
+      "suffix": "",
+      "raw": "85",
+      "title": "Formation civique et commission de jeunes"
+    },
+    {
+      "number": 86,
+      "suffix": "",
+      "raw": "86",
+      "title": "Partis politiques et associations"
+    },
+    {
+      "number": 87,
+      "suffix": "",
+      "raw": "87",
+      "title": "Information publique"
+    },
+    {
+      "number": 88,
+      "suffix": "",
+      "raw": "88",
+      "title": "Encouragement à l'exercice des droits politiques"
+    },
+    {
+      "number": 89,
+      "suffix": "",
+      "raw": "89",
+      "title": "Séparation des pouvoirs"
+    },
+    {
+      "number": 90,
+      "suffix": "",
+      "raw": "90",
+      "title": "Incompatibilités 13"
+    },
+    {
+      "number": 91,
+      "suffix": "",
+      "raw": "91",
+      "title": "Principe"
+    },
+    {
+      "number": 92,
+      "suffix": "",
+      "raw": "92",
+      "title": "Composition, législature"
+    },
+    {
+      "number": 93,
+      "suffix": "",
+      "raw": "93",
+      "title": "Mode d'élection, arrondissements électoraux et quorum 16"
+    },
+    {
+      "number": 94,
+      "suffix": "",
+      "raw": "94",
+      "title": "Présidence"
+    },
+    {
+      "number": 95,
+      "suffix": "",
+      "raw": "95",
+      "title": "Séances"
+    },
+    {
+      "number": 96,
+      "suffix": "",
+      "raw": "96",
+      "title": "Publicité des séances"
+    },
+    {
+      "number": 97,
+      "suffix": "",
+      "raw": "97",
+      "title": "Groupes politiques"
+    },
+    {
+      "number": 98,
+      "suffix": "",
+      "raw": "98",
+      "title": "Services du Grand Conseil"
+    },
+    {
+      "number": 99,
+      "suffix": "",
+      "raw": "99",
+      "title": "Indépendance, publication des intérêts"
+    },
+    {
+      "number": 100,
+      "suffix": "",
+      "raw": "100",
+      "title": "Immunité"
+    },
+    {
+      "number": 101,
+      "suffix": "",
+      "raw": "101",
+      "title": "Droit des députés"
+    },
+    {
+      "number": 102,
+      "suffix": "",
+      "raw": "102",
+      "title": "Rétribution des députés"
+    },
+    {
+      "number": 103,
+      "suffix": "",
+      "raw": "103",
+      "title": "Législation, traités internationaux et concordats"
+    },
+    {
+      "number": 104,
+      "suffix": "",
+      "raw": "104",
+      "title": "Programme de législature et planification"
+    },
+    {
+      "number": 105,
+      "suffix": "",
+      "raw": "105",
+      "title": "Finances"
+    },
+    {
+      "number": 106,
+      "suffix": "",
+      "raw": "106",
+      "title": "Elections  7, 13"
+    },
+    {
+      "number": 107,
+      "suffix": "",
+      "raw": "107",
+      "title": "Haute surveillance 13"
+    },
+    {
+      "number": 108,
+      "suffix": "",
+      "raw": "108",
+      "title": "Participations  1"
+    },
+    {
+      "number": 109,
+      "suffix": "",
+      "raw": "109",
+      "title": "Autres compétences"
+    },
+    {
+      "number": 110,
+      "suffix": "",
+      "raw": "110",
+      "title": "Forme des actes"
+    },
+    {
+      "number": 111,
+      "suffix": "",
+      "raw": "111",
+      "title": "Initiative, proposition et élaboration des actes"
+    },
+    {
+      "number": 112,
+      "suffix": "",
+      "raw": "112",
+      "title": "Principe"
+    },
+    {
+      "number": 113,
+      "suffix": "",
+      "raw": "113",
+      "title": "Composition, durée de la charge 11"
+    },
+    {
+      "number": 114,
+      "suffix": "",
+      "raw": "114",
+      "title": "Mode d'élection"
+    },
+    {
+      "number": 115,
+      "suffix": "",
+      "raw": "115",
+      "title": "Présidence"
+    },
+    {
+      "number": 116,
+      "suffix": "",
+      "raw": "116",
+      "title": "Collégialité et autonomie"
+    },
+    {
+      "number": 117,
+      "suffix": "",
+      "raw": "117",
+      "title": "Système départemental et direction de l'administration"
+    },
+    {
+      "number": 118,
+      "suffix": "",
+      "raw": "118",
+      "title": "Conférence des affaires fédérales"
+    },
+    {
+      "number": 119,
+      "suffix": "",
+      "raw": "119",
+      "title": "Programme de législature"
+    },
+    {
+      "number": 120,
+      "suffix": "",
+      "raw": "120",
+      "title": "Compétences en matière législative"
+    },
+    {
+      "number": 121,
+      "suffix": "",
+      "raw": "121",
+      "title": "Relations extérieures"
+    },
+    {
+      "number": 122,
+      "suffix": "",
+      "raw": "122",
+      "title": "Finances"
+    },
+    {
+      "number": 123,
+      "suffix": "",
+      "raw": "123",
+      "title": "Compétences administratives"
+    },
+    {
+      "number": 124,
+      "suffix": "",
+      "raw": "124",
+      "title": "Sécurité et ordre publics"
+    },
+    {
+      "number": 125,
+      "suffix": "",
+      "raw": "125",
+      "title": "Clause générale de police et situations extraordinaires"
+    },
+    {
+      "number": 125,
+      "suffix": "a",
+      "raw": "125a",
+      "title": ""
+    },
+    {
+      "number": 126,
+      "suffix": "",
+      "raw": "126",
+      "title": "Indépendance et impartialité 13"
+    },
+    {
+      "number": 127,
+      "suffix": "",
+      "raw": "127",
+      "title": "Organisation judiciaire, interdiction des juridictions d'exception 13"
+    },
+    {
+      "number": 128,
+      "suffix": "",
+      "raw": "128",
+      "title": "Célérité et qualité de la justice 13"
+    },
+    {
+      "number": 129,
+      "suffix": "",
+      "raw": "129",
+      "title": "Double instance"
+    },
+    {
+      "number": 129,
+      "suffix": "a",
+      "raw": "129a",
+      "title": "Haute surveillance 13"
+    },
+    {
+      "number": 130,
+      "suffix": "",
+      "raw": "130",
+      "title": "Principe"
+    },
+    {
+      "number": 131,
+      "suffix": "",
+      "raw": "131",
+      "title": "Composition, élection des juges  1, 3, 13"
+    },
+    {
+      "number": 132,
+      "suffix": "",
+      "raw": "132",
+      "title": "Organisation et autonomie 13"
+    },
+    {
+      "number": 133,
+      "suffix": "",
+      "raw": "133",
+      "title": "Compétences"
+    },
+    {
+      "number": 134,
+      "suffix": "",
+      "raw": "134",
+      "title": "Opinions dissidentes"
+    },
+    {
+      "number": 135,
+      "suffix": "",
+      "raw": "135",
+      "title": ""
+    },
+    {
+      "number": 136,
+      "suffix": "",
+      "raw": "136",
+      "title": "Cour constitutionnelle"
+    },
+    {
+      "number": 136,
+      "suffix": "a",
+      "raw": "136a",
+      "title": "Compétences 13"
+    },
+    {
+      "number": 136,
+      "suffix": "b",
+      "raw": "136b",
+      "title": "Organisation et autonomie 13"
+    },
+    {
+      "number": 136,
+      "suffix": "c",
+      "raw": "136c",
+      "title": "Élection du Procureur général et des procureurs généraux adjoints 13"
+    },
+    {
+      "number": 136,
+      "suffix": "d",
+      "raw": "136d",
+      "title": "Conseil de la magistrature 13"
+    },
+    {
+      "number": 137,
+      "suffix": "",
+      "raw": "137",
+      "title": "Définition et garanties"
+    },
+    {
+      "number": 138,
+      "suffix": "",
+      "raw": "138",
+      "title": "Tâches"
+    },
+    {
+      "number": 139,
+      "suffix": "",
+      "raw": "139",
+      "title": "Autonomie communale"
+    },
+    {
+      "number": 140,
+      "suffix": "",
+      "raw": "140",
+      "title": "Surveillance de l'Etat"
+    },
+    {
+      "number": 141,
+      "suffix": "",
+      "raw": "141",
+      "title": "Autorités"
+    },
+    {
+      "number": 142,
+      "suffix": "",
+      "raw": "142",
+      "title": "Droits politiques  10"
+    },
+    {
+      "number": 143,
+      "suffix": "",
+      "raw": "143",
+      "title": "Incompatibilités"
+    },
+    {
+      "number": 144,
+      "suffix": "",
+      "raw": "144",
+      "title": "Composition et organisation du conseil communal  9"
+    },
+    {
+      "number": 145,
+      "suffix": "",
+      "raw": "145",
+      "title": "Composition du conseil général"
+    },
+    {
+      "number": 146,
+      "suffix": "",
+      "raw": "146",
+      "title": "Compétences"
+    },
+    {
+      "number": 147,
+      "suffix": "",
+      "raw": "147",
+      "title": "Référendum et initiative populaires"
+    },
+    {
+      "number": 148,
+      "suffix": "",
+      "raw": "148",
+      "title": "Composition et durée de la législature"
+    },
+    {
+      "number": 149,
+      "suffix": "",
+      "raw": "149",
+      "title": "Election et révocation"
+    },
+    {
+      "number": 150,
+      "suffix": "",
+      "raw": "150",
+      "title": "Organisation"
+    },
+    {
+      "number": 151,
+      "suffix": "",
+      "raw": "151",
+      "title": "Principes  8"
+    },
+    {
+      "number": 152,
+      "suffix": "",
+      "raw": "152",
+      "title": "Droit d'initiative et procédure"
+    },
+    {
+      "number": 153,
+      "suffix": "",
+      "raw": "153",
+      "title": "Fusion proposée par une fédération de communes ou une agglomération"
+    },
+    {
+      "number": 154,
+      "suffix": "",
+      "raw": "154",
+      "title": "Fusion proposée par l'Etat"
+    },
+    {
+      "number": 155,
+      "suffix": "",
+      "raw": "155",
+      "title": "Collaborations intercommunales"
+    },
+    {
+      "number": 156,
+      "suffix": "",
+      "raw": "156",
+      "title": "Fédérations"
+    },
+    {
+      "number": 157,
+      "suffix": "",
+      "raw": "157",
+      "title": "Agglomérations"
+    },
+    {
+      "number": 158,
+      "suffix": "",
+      "raw": "158",
+      "title": "Définition, nombre et fonctions"
+    },
+    {
+      "number": 159,
+      "suffix": "",
+      "raw": "159",
+      "title": "Préfet"
+    },
+    {
+      "number": 160,
+      "suffix": "",
+      "raw": "160",
+      "title": "Modifications territoriales"
+    },
+    {
+      "number": 161,
+      "suffix": "",
+      "raw": "161",
+      "title": "Base légale"
+    },
+    {
+      "number": 162,
+      "suffix": "",
+      "raw": "162",
+      "title": "Participations 14"
+    },
+    {
+      "number": 163,
+      "suffix": "",
+      "raw": "163",
+      "title": "Gestion des finances"
+    },
+    {
+      "number": 164,
+      "suffix": "",
+      "raw": "164",
+      "title": "Procédure budgétaire"
+    },
+    {
+      "number": 165,
+      "suffix": "",
+      "raw": "165",
+      "title": "Assainissement financier"
+    },
+    {
+      "number": 166,
+      "suffix": "",
+      "raw": "166",
+      "title": "Surveillance et contrôle des finances 12"
+    },
+    {
+      "number": 167,
+      "suffix": "",
+      "raw": "167",
+      "title": "Fiscalité"
+    },
+    {
+      "number": 168,
+      "suffix": "",
+      "raw": "168",
+      "title": "Impôts communaux et péréquation intercommunale"
+    },
+    {
+      "number": 169,
+      "suffix": "",
+      "raw": "169",
+      "title": "Principes"
+    },
+    {
+      "number": 170,
+      "suffix": "",
+      "raw": "170",
+      "title": "Eglises de droit public"
+    },
+    {
+      "number": 171,
+      "suffix": "",
+      "raw": "171",
+      "title": "Communautés religieuses d'intérêt public"
+    },
+    {
+      "number": 172,
+      "suffix": "",
+      "raw": "172",
+      "title": "Organisation et autonomie"
+    },
+    {
+      "number": 173,
+      "suffix": "",
+      "raw": "173",
+      "title": "Révision totale"
+    },
+    {
+      "number": 174,
+      "suffix": "",
+      "raw": "174",
+      "title": "Révision partielle"
+    },
+    {
+      "number": 175,
+      "suffix": "",
+      "raw": "175",
+      "title": "Entrée en vigueur"
+    },
+    {
+      "number": 176,
+      "suffix": "",
+      "raw": "176",
+      "title": "Abrogation et maintien en vigueur provisoire de l'ancien droit"
+    },
+    {
+      "number": 177,
+      "suffix": "",
+      "raw": "177",
+      "title": "Adoption de la législation d'application"
+    },
+    {
+      "number": 178,
+      "suffix": "",
+      "raw": "178",
+      "title": "Renouvellement des autorités cantonales et communales  1"
+    },
+    {
+      "number": 179,
+      "suffix": "",
+      "raw": "179",
+      "title": "Dispositions transitoires particulières  2, 12"
+    },
+    {
+      "number": 179,
+      "suffix": "a",
+      "raw": "179a",
+      "title": "Disposition transitoire de la révision partielle du 25 septembre 2022 13"
+    },
+    {
+      "number": 179,
+      "suffix": "b",
+      "raw": "179b",
+      "title": "Disposition transitoire de l'article 52b 14"
+    },
+    {
+      "number": 179,
+      "suffix": "c",
+      "raw": "179c",
+      "title": "Disposition transitoire de l'article 162, alinéa 1bis 14"
+    },
+    {
+      "number": 180,
+      "suffix": "",
+      "raw": "180",
+      "title": "Initiatives et référendums"
     }
   ],
   "article_texts": {
@@ -1148,7 +1952,2143 @@
       },
       {
         "num": null,
-        "text": "Economie _… 134 more articles not shown. Total text length: 74,394 chars._"
+        "text": "Economie"
+      }
+    ],
+    "58": [
+      {
+        "num": "1",
+        "text": "Dans le respect du principe de la liberté économique, l'Etat crée les conditions-cadres favorisant l'emploi, la diversité des activités et l'équilibre entre les régions."
+      },
+      {
+        "num": "2",
+        "text": "Il encourage l'innovation technologique, ainsi que la création et la reconversion d'entreprises."
+      }
+    ],
+    "59": [
+      {
+        "num": "1",
+        "text": "L'Etat prend des mesures en faveur d'une agriculture et d'une sylviculture performantes et respectueuses de l'environnement; il tient compte de leurs multiples fonctions."
+      },
+      {
+        "num": "2",
+        "text": "Il soutient notamment la recherche, la formation et la vulgarisation, ainsi que la promotion des produits."
+      },
+      {
+        "num": null,
+        "text": "Chapitre VII"
+      },
+      {
+        "num": null,
+        "text": "Politique sociale et santé publique"
+      }
+    ],
+    "60": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes assurent à chaque personne habitant le canton les conditions d'une vie digne :"
+      },
+      {
+        "num": null,
+        "text": "a. par la prévention de l'exclusion professionnelle et sociale;"
+      },
+      {
+        "num": "15",
+        "text": "Modifié par le décret du 25.02.2025 entré en vigueur le 11.03.2025 13 b. par une aide sociale en principe non remboursable; c. par des mesures de réinsertion."
+      }
+    ],
+    "61": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes prennent en compte les besoins spécifiques des personnes handicapées et de leurs familles."
+      },
+      {
+        "num": "2",
+        "text": "Ils prennent des mesures pour assurer leur autonomie, leur intégration sociale, scolaire et professionnelle, leur participation à la vie de la communauté ainsi que leur épanouissement dans le cadre familial."
+      }
+    ],
+    "62": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes tiennent compte des besoins et des intérêts particuliers des enfants et des jeunes en favorisant leurs activités culturelles, sportives et récréatives."
+      }
+    ],
+    "63": [
+      {
+        "num": "1",
+        "text": "L'Etat fixe les prestations minimales en matière d'allocations familiales et veille à ce que chaque famille puisse en bénéficier."
+      },
+      {
+        "num": "2",
+        "text": "En collaboration avec les partenaires privés, l'Etat et les communes organisent un accueil préscolaire et parascolaire des enfants."
+      },
+      {
+        "num": "3",
+        "text": "L'Etat organise la protection de l'enfance, de la jeunesse et des personnes dépendantes."
+      }
+    ],
+    "63a": [
+      {
+        "num": "1",
+        "text": "En collaboration avec l'Etat et les partenaires privés, les communes organisent un accueil parascolaire surveillé, facultatif pour les familles, sous formed'école à journée continue dans les locaux scolaires ou à proximité, pendant toute la durée de la scolarité obligatoire."
+      },
+      {
+        "num": "2",
+        "text": "L'accueil peut être confié à des organismes privés."
+      },
+      {
+        "num": "3",
+        "text": "Les conditions de l'accueil parascolaire sont fixées par les communes."
+      },
+      {
+        "num": "4",
+        "text": "Les parents participent au financement de l'accueil parascolaire."
+      }
+    ],
+    "64": [
+      {
+        "num": "1",
+        "text": "En l'absence d'une assurance maternité fédérale, l'Etat met en place un dispositif d'assurance maternité cantonale."
+      },
+      {
+        "num": "2",
+        "text": "Il encourage le congé parental."
+      }
+    ],
+    "65": [
+      {
+        "num": "1",
+        "text": "L'Etat coordonne et organise le système de santé."
+      },
+      {
+        "num": "6",
+        "text": "Modifié par le décret du 19.05.2009 entré en vigueur le 16.06.2009"
+      },
+      {
+        "num": "5",
+        "text": "Modifié par le décret du 24.02.2009 entré en vigueur le 06.03.2009 14"
+      },
+      {
+        "num": "2",
+        "text": "Pour contribuer à la sauvegarde de la santé de la population, l'Etat et les communes :"
+      },
+      {
+        "num": null,
+        "text": "a. encouragent chacun à prendre soin de sa santé ; b. assurent à chacun un accès équitable à des soins de qualité, ainsi qu'aux informations nécessaires à la protection de sa santé ; c. favorisent le maintien des patients à domicile ; cbis. veillent à ce que les personnes qui, en raison de leur âge, de leur handicap ou de l'atteinte à leur santé ne peuvent rester à domicile, aient accès à des lieux d'hébergement adaptés à leurs besoins ; d. soutiennent les institutions publiques et privées actives dans la prévention et les soins."
+      },
+      {
+        "num": "3",
+        "text": "L'Etat et les communes portent une attention particulière à toute personne vulnérable, dépendante, handicapée ou en fin de vie."
+      }
+    ],
+    "65a": [
+      {
+        "num": "1",
+        "text": "Afin de protéger l'ensemble de la population, il est interdit de fumer dans les lieux publics intérieurs ou fermés."
+      },
+      {
+        "num": "2",
+        "text": "Sont notamment concernés :"
+      },
+      {
+        "num": null,
+        "text": "a. tous les bâtiments ou locaux publics dépendant de l'Etat et des communes ainsi que de toutes autres institutions de caractère public ; b. tous les bâtiments ou locaux ouverts au public, notamment ceux affectés à des activités médicales, hospitalières, para-hospitalières, culturelles, récréatives, sportives ainsi qu'à des activités de formation, de loisirs, de rencontres, d'exposition ; c. tous les établissements au sens de la législation sur les auberges et débits de boissons[D] sous réserve de l'aménagement de fumoirs fermés, sans service et disposant d'un système de ventilation adéquat ; d. les transports publics et les autres transports professionnels de personnes ; e. les autres lieux ouverts au public tels que définis par la loi."
+      },
+      {
+        "num": "3",
+        "text": "La loi fixe les sanctions en cas d'inobservation de l'interdiction de fumer et règle l'exécution du présent article. [D] Loi du 26.03.2002 sur les auberges et les débits de boissons (BLV 935.31)"
+      }
+    ],
+    "66": [
+      {
+        "num": "1",
+        "text": "L'Etat prend des mesures destinées à informer et protéger les consommateurs."
+      },
+      {
+        "num": "4",
+        "text": "Modifié par le décret du 09.09.2008 entré en vigueur le 19.09.2008 15"
+      }
+    ],
+    "67": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes, en complément des démarches relevant de la responsabilité individuelle et de l'initiative privée, veillent à ce que toute personne puisse disposer d'un logement approprié à des conditions supportables."
+      },
+      {
+        "num": "2",
+        "text": "Ils encouragent la mise à disposition de logements à loyer modéré et la création d'un système d'aide personnalisée au logement."
+      },
+      {
+        "num": "3",
+        "text": "Ils encouragent l'accès à la propriété de son propre logement."
+      },
+      {
+        "num": null,
+        "text": "Chapitre VIII"
+      },
+      {
+        "num": null,
+        "text": "Intégration des étrangers et naturalisation"
+      }
+    ],
+    "68": [
+      {
+        "num": "1",
+        "text": "L'Etat facilite l'accueil des étrangers."
+      },
+      {
+        "num": "2",
+        "text": "L'Etat et les communes favorisent leur intégration dans le respect réciproque des identités et dans celui des valeurs qui fondent l'Etat de droit."
+      }
+    ],
+    "69": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes facilitent la naturalisation des étrangers."
+      },
+      {
+        "num": "2",
+        "text": "La procédure est rapide et gratuite."
+      },
+      {
+        "num": "3",
+        "text": "La loi[E] règle la durée de résidence exigée et la procédure; elle prévoit une instance de recours. [E] Loi du 19.12.2017 sur le droit de cité vaudois (BLV 141.11)"
+      },
+      {
+        "num": null,
+        "text": "Chapitre IX"
+      },
+      {
+        "num": null,
+        "text": "Vie associative et bénévolat"
+      }
+    ],
+    "70": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes prennent en considération le rôle de la vie associative et reconnaissent son importance."
+      },
+      {
+        "num": "2",
+        "text": "Ils peuvent accorder aux associations reconnues un soutien pour leurs activités d'intérêt général."
+      },
+      {
+        "num": "3",
+        "text": "Ils peuvent leur déléguer des tâches dans le cadre de contrats de partenariat."
+      },
+      {
+        "num": "4",
+        "text": "Ils facilitent le bénévolat et la formation des bénévoles."
+      },
+      {
+        "num": null,
+        "text": "Chapitre X"
+      },
+      {
+        "num": null,
+        "text": "Aide humanitaire et coopération au développement"
+      }
+    ],
+    "71": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes collaborent, avec les autres pouvoirs publics, les organisations et les entreprises concernées, à l'aide humanitaire, à la coopération au développement et à la promotion d'un commerce équitable. 16"
+      },
+      {
+        "num": "2",
+        "text": "Ils s'engagent pour le respect des droits de la personne humaine et pour une politique de paix."
+      },
+      {
+        "num": null,
+        "text": "Chapitre XI"
+      },
+      {
+        "num": null,
+        "text": "Prospective"
+      }
+    ],
+    "72": [
+      {
+        "num": "1",
+        "text": "Dans le but de préparer l'avenir, l'Etat s'appuie sur un organe de prospective."
+      },
+      {
+        "num": null,
+        "text": "Chapitre XII"
+      },
+      {
+        "num": null,
+        "text": "Responsabilité de l'Etat et des communes"
+      }
+    ],
+    "73": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes répondent des dommages que leurs agents ou auxiliaires causent sans droit dans l'exercice de leurs fonctions."
+      },
+      {
+        "num": "2",
+        "text": "La loi fixe les conditions auxquelles ils répondent des dommages que leurs agents causent de manière licite."
+      },
+      {
+        "num": null,
+        "text": "Titre IV"
+      },
+      {
+        "num": null,
+        "text": "Le peuple"
+      },
+      {
+        "num": null,
+        "text": "Chapitre I"
+      },
+      {
+        "num": null,
+        "text": "Droits politiques"
+      }
+    ],
+    "74": [
+      {
+        "num": "1",
+        "text": "Font partie du corps électoral cantonal :"
+      },
+      {
+        "num": null,
+        "text": "a. les Suissesses et les Suisses domiciliés dans le canton qui sont âgés de dix-huit ans révolus et ne sont pas protégés par une curatelle de portée générale ou un mandat pour cause d'inaptitude, en raison d'une incapacité durable de discernement; b. les Suissesses et les Suisses de l'étranger qui prennent part aux scrutins fédéraux dans le canton en vertu de la législation fédérale, dans la mesure prévue à l'article 75."
+      },
+      {
+        "num": "2",
+        "text": "La loi[F] prévoit une procédure simple permettant à la personne visée par l'alinéa 1er in fine d'obtenir, en prouvant qu'elle est capable de discernement, son intégration ou sa réintégration dans le corps électoral. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+      }
+    ],
+    "75": [
+      {
+        "num": "1",
+        "text": "Les droits politiques ont pour objet la participation aux élections et votations, l'éligibilité et la signature des demandes d'initiative et de référendum."
+      },
+      {
+        "num": "10",
+        "text": "Modifié par le décret du 29.05.2012 entré en vigueur le 26.06.2012"
+      },
+      {
+        "num": "17",
+        "text": "Modifié par le décret du 10.06.2025 entré en vigueur le 20.06.2025 17"
+      },
+      {
+        "num": "2",
+        "text": "Les Suissesses et les Suisses de l'étranger ne peuvent exercer leurs droits politiques que pour l'élection du Conseil des Etats. En cas d'élection, ces personnes sont tenues de prendre domicile dans le canton."
+      }
+    ],
+    "76": [
+      {
+        "num": "1",
+        "text": "La loi [F] règle l'exercice des droits politiques."
+      },
+      {
+        "num": "2",
+        "text": "Elle prévoit que les votes blancs, qui font l'objet d'un décompte distinct dans les élections et votations, sont pris en compte dans le calcul de la majorité absolue pour les élections au système majoritaire. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+      },
+      {
+        "num": null,
+        "text": "Chapitre II"
+      },
+      {
+        "num": null,
+        "text": "Elections"
+      }
+    ],
+    "77": [
+      {
+        "num": "1",
+        "text": "Le corps électoral cantonal élit :"
+      },
+      {
+        "num": null,
+        "text": "a. les membres du Grand Conseil; b. les membres du Conseil d'Etat; c. les membres vaudois du Conseil des Etats."
+      },
+      {
+        "num": "2",
+        "text": "Les membres vaudois du Conseil des Etats sont élus en même temps et pour la même durée que les conseillers nationaux. Le mode de scrutin est le même que celui de l'élection du Conseil d'Etat."
+      },
+      {
+        "num": null,
+        "text": "Chapitre III"
+      },
+      {
+        "num": null,
+        "text": "Initiative et référendum populaires"
+      },
+      {
+        "num": null,
+        "text": "Section I"
+      },
+      {
+        "num": null,
+        "text": "Initiative populaire"
+      }
+    ],
+    "78": [
+      {
+        "num": "1",
+        "text": "L'initiative populaire peut avoir pour objet :"
+      },
+      {
+        "num": null,
+        "text": "a. la révision totale ou partielle de la Constitution; b. l'adoption, la modification ou l'abrogation d'une loi; c. l'ouverture de négociations en vue de la conclusion ou de la révision ainsi que la dénonciation d'un traité international ou d'un concordat, lorsqu'il est sujet au référendum facultatif ou soumis au référendum obligatoire; d. l'adoption, la modification ou l'abrogation d'un décret du Grand Conseil sujet au référendum facultatif. 18"
+      }
+    ],
+    "79": [
+      {
+        "num": "1",
+        "text": "L'initiative populaire peut se présenter sous la forme d'une proposition conçue en termes généraux ou, sauf si elle vise la révision totale de la Constitution, sous la forme d'un projet rédigé de toutes pièces."
+      },
+      {
+        "num": "2",
+        "text": "Elle aboutit si elle a recueilli, dans un délai de quatre mois, 12'000 signatures ou 18'000 si elle vise la révision totale de la Constitution."
+      }
+    ],
+    "80": [
+      {
+        "num": "1",
+        "text": "Avant d'autoriser la récolte de signatures, le Conseil d'Etat valide les initiatives. Il constate la nullité de celles qui:"
+      },
+      {
+        "num": null,
+        "text": "a. sont contraires au droit supérieur ; b. violent l'unité de rang, de forme ou de matière."
+      },
+      {
+        "num": "2",
+        "text": "La décision du Conseil d'Etat est susceptible de recours à la Cour constitutionnelle."
+      }
+    ],
+    "81": [
+      {
+        "num": "1",
+        "text": "La loi [F] règle le mode de traitement de l'initiative par le Grand Conseil et la procédure de vote populaire lorsqu'un contre-projet est opposé à l'initiative."
+      },
+      {
+        "num": "2",
+        "text": "Les articles 173 et 174 sur la révision de la Constitution sont réservés. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+      }
+    ],
+    "82": [
+      {
+        "num": "1",
+        "text": "L'initiative est soumise au vote populaire au plus tard dans les deux ans qui suivent son dépôt."
+      },
+      {
+        "num": "2",
+        "text": "Le Grand Conseil peut prolonger ce délai d'un an lorsqu'il a approuvé une initiative conçue en termes généraux ou décidé d'opposer un contre-projet à une initiative."
+      },
+      {
+        "num": null,
+        "text": "Section II"
+      },
+      {
+        "num": null,
+        "text": "Référendum populaire"
+      }
+    ],
+    "83": [
+      {
+        "num": "1",
+        "text": "Sont soumis au corps électoral :"
+      },
+      {
+        "num": null,
+        "text": "a. les révisions totales ou partielles de la Constitution; b. les traités internationaux et les concordats qui dérogent à la Constitution ou la complètent; c. les modifications du territoire cantonal; d. tout préavis, loi ou disposition générale concernant l'utilisation, le transport et l'entreposage d'énergie ou de matière nucléaires."
+      },
+      {
+        "num": "11",
+        "text": "Modifié par le décret du 05.02.2013 entré en vigueur le 19.02.2013 19"
+      },
+      {
+        "num": "2",
+        "text": "Sont en outre soumises au vote du corps électoral les mesures d'assainissement financier prévues par l'article 165, alinéa 2."
+      }
+    ],
+    "84": [
+      {
+        "num": "1",
+        "text": "Sont sujets au référendum facultatif :"
+      },
+      {
+        "num": null,
+        "text": "a. les lois et les décrets; b. les traités internationaux et les concordats qui dérogent à la loi ou qui la complètent."
+      },
+      {
+        "num": "2",
+        "text": "Ne sont toutefois pas sujets au référendum :"
+      },
+      {
+        "num": null,
+        "text": "a. les objets dont le Grand Conseil prend acte; b. le budget, les crédits supplémentaires, les emprunts, les dépenses liées et les comptes; c. les élections; d. la grâce; e. les naturalisations; f. les droits d'initiative et de référendum exercés par le Grand Conseil en vertu du droit fédéral."
+      },
+      {
+        "num": "3",
+        "text": "La demande de référendum aboutit si elle a recueilli 12'000 signatures dans un délai de 60 jours dès la publication de l'acte. La loi[F] prolonge ce délai pour tenir compte de la difficulté de récolte de signatures à certaines périodes de l'année. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+      },
+      {
+        "num": null,
+        "text": "Chapitre IV"
+      },
+      {
+        "num": null,
+        "text": "Participation à la vie publique"
+      }
+    ],
+    "85": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes préparent les enfants et les jeunes à la citoyenneté en assurant leur formation civique et en favorisant diverses formes d'expériences participatives."
+      },
+      {
+        "num": "2",
+        "text": "L'Etat met en place une commission de jeunes."
+      }
+    ],
+    "86": [
+      {
+        "num": "1",
+        "text": "Les partis politiques et les associations contribuent à former l'opinion et la volonté publiques."
+      },
+      {
+        "num": "2",
+        "text": "Ils sont consultés par l'Etat et les communes sur les objets qui les concernent."
+      },
+      {
+        "num": "3",
+        "text": "Les partis veillent à la mise en oeuvre du principe de la représentation équilibrée entre femmes et hommes."
+      },
+      {
+        "num": "11",
+        "text": "Modifié par le décret du 05.02.2013 entré en vigueur le 19.02.2013 20"
+      }
+    ],
+    "87": [
+      {
+        "num": "1",
+        "text": "Les autorités cantonales et communales publient leurs projets de manière à permettre la discussion publique."
+      },
+      {
+        "num": "2",
+        "text": "Elles renseignent la population sur les objets soumis au vote."
+      }
+    ],
+    "88": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes encouragent et facilitent l'exercice des droits politiques."
+      },
+      {
+        "num": null,
+        "text": "Titre V"
+      },
+      {
+        "num": null,
+        "text": "Autorités cantonales"
+      },
+      {
+        "num": null,
+        "text": "Chapitre I"
+      },
+      {
+        "num": null,
+        "text": "Dispositions générales"
+      }
+    ],
+    "89": [
+      {
+        "num": "1",
+        "text": "Les autorités sont organisées selon le principe de la séparation des pouvoirs."
+      },
+      {
+        "num": "2",
+        "text": "Elles comprennent :"
+      },
+      {
+        "num": null,
+        "text": "a. le pouvoir législatif; b. le pouvoir exécutif; c. le pouvoir judiciaire."
+      }
+    ],
+    "90": [
+      {
+        "num": "1",
+        "text": "Les fonctions de membres du Grand Conseil, du Conseil d'Etat, d'une autorité judiciaire, du Ministère public et de la Cour des comptes ainsi que celle de médiatrice ou médiateur sont incompatibles. La loi peut prévoir des exceptions pour les membres non permanents d'une autorité judiciaire."
+      },
+      {
+        "num": "2",
+        "text": "Les membres du Conseil d'Etat ne peuvent exercer aucune autre fonction officielle ou privée lucrative, ni siéger aux Chambres fédérales. Les fonctions exercées au titre d'une délégation sont réservées."
+      },
+      {
+        "num": "3",
+        "text": "Les employés de l'administration cantonale ne peuvent pas être membres d'une autorité judiciaire, sous réserve d'exceptions prévues par la loi."
+      },
+      {
+        "num": "4",
+        "text": "Les cadres supérieurs de l'administration cantonale ne peuvent pas être membres du Grand Conseil."
+      },
+      {
+        "num": "5",
+        "text": "La loi peut prévoir d'autres incompatibilités."
+      },
+      {
+        "num": "13",
+        "text": "Modifié par le décret du 24.05.2022 entré en vigueur le 14.06.2022 21"
+      },
+      {
+        "num": null,
+        "text": "Chapitre II"
+      },
+      {
+        "num": null,
+        "text": "Grand Conseil"
+      },
+      {
+        "num": null,
+        "text": "Section I"
+      },
+      {
+        "num": null,
+        "text": "Principe"
+      }
+    ],
+    "91": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil est l'autorité suprême du canton, sous réserve des droits du peuple."
+      },
+      {
+        "num": null,
+        "text": "Section II"
+      },
+      {
+        "num": null,
+        "text": "Composition"
+      }
+    ],
+    "92": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil est composé de cent cinquante députés, élus pour une durée de cinq ans."
+      }
+    ],
+    "93": [
+      {
+        "num": "1",
+        "text": "Les membres du Grand Conseil sont élus par le corps électoral selon le système proportionnel."
+      },
+      {
+        "num": "2",
+        "text": "Les districts constituent les arrondissements électoraux. Les districts à forte population ainsi que ceux qui comprennent des régions excentrées à faible population peuvent être subdivisés en plusieurs sous-arrondissements; ces derniers sont regroupés pour la répartition des sièges."
+      },
+      {
+        "num": "3",
+        "text": "Les sièges sont répartis entre les arrondissements proportionnellement à leur population résidente."
+      },
+      {
+        "num": null,
+        "text": "Chaque sous-arrondissement dispose de deux sièges au moins."
+      },
+      {
+        "num": "4",
+        "text": "Les listes ou les groupes de listes apparentées qui ont recueilli moins de 5% du total des suffrages valables exprimés dans leur arrondissement ne sont pas prises en compte pour l'attribution des sièges."
+      },
+      {
+        "num": null,
+        "text": "Section III"
+      },
+      {
+        "num": null,
+        "text": "Organisation et statut des membres"
+      }
+    ],
+    "94": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil élit sa présidente ou son président pour une année. Cette personne n'est pas immédiatement rééligible."
+      }
+    ],
+    "95": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil se réunit régulièrement en séances ordinaires."
+      },
+      {
+        "num": "2",
+        "text": "Il se réunit en séance extraordinaire à la demande d'un cinquième de ses membres ou du Conseil d'Etat."
+      },
+      {
+        "num": "3",
+        "text": "Il ne peut délibérer que si la majorité absolue de ses membres sont présents."
+      }
+    ],
+    "96": [
+      {
+        "num": "1",
+        "text": "Les séances du Grand Conseil sont publiques."
+      },
+      {
+        "num": "16",
+        "text": "Modifié par le décret du 03.06.2025 entré en vigueur le 17.06.2025 22"
+      },
+      {
+        "num": "2",
+        "text": "Le Grand Conseil peut décider le huis clos dans les cas prévus par la loi [G] . [G] Voir art. 164 de la loi du 03.02.1998 sur le Grand Conseil (RSV 171.01)"
+      }
+    ],
+    "97": [
+      {
+        "num": "1",
+        "text": "Les membres du Grand Conseil peuvent former des groupes politiques."
+      }
+    ],
+    "98": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil dispose de services qui lui sont propres. Il peut faire appel aux services de l'administration cantonale."
+      }
+    ],
+    "99": [
+      {
+        "num": "1",
+        "text": "Les membres du Grand Conseil exercent librement leur mandat."
+      },
+      {
+        "num": "2",
+        "text": "Ils rendent publics leurs liens avec des groupes d'intérêts."
+      }
+    ],
+    "100": [
+      {
+        "num": "1",
+        "text": "Les membres du Grand Conseil s'expriment librement au sein de celui-ci ou devant ses organes. Ils ne peuvent être poursuivis pour leurs déclarations que dans les formes prévues par la loi [H] . [H] Voir art. 12 de la loi du 03.02.1998 sur le Grand Conseil (RSV 171.01)"
+      }
+    ],
+    "101": [
+      {
+        "num": "1",
+        "text": "Toute députée et tout député, tout groupe et toute commission dispose des droits d'initiative, de motion, de postulat, d'interpellation, de question et de résolution."
+      },
+      {
+        "num": "2",
+        "text": "L'administration fournit aux députés tous les renseignements utiles à l'exercice de leur mandat."
+      }
+    ],
+    "102": [
+      {
+        "num": "1",
+        "text": "Les députés ont droit à une rétribution."
+      },
+      {
+        "num": null,
+        "text": "Section IV"
+      },
+      {
+        "num": null,
+        "text": "Compétences"
+      }
+    ],
+    "103": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil adopte les lois et les décrets."
+      },
+      {
+        "num": "2",
+        "text": "Il approuve les traités internationaux et les concordats, à l'exception de ceux qui relèvent de la seule compétence du Conseil d'Etat."
+      }
+    ],
+    "104": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil prend acte du programme de législature du Conseil d'Etat dans les deux mois qui suivent sa présentation. 23"
+      },
+      {
+        "num": "2",
+        "text": "Il adopte le plan directeur et les plans sectoriels cantonaux."
+      }
+    ],
+    "105": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil, chaque année, prend acte de la planification financière à moyen terme et, simultanément, du rapport sur l'endettement. Dans le même temps, il adopte sur proposition du Conseil d'Etat :"
+      },
+      {
+        "num": null,
+        "text": "a. les budgets de fonctionnement et d'investissement; b. la quotité de l'impôt cantonal; c. le montant limite des nouveaux emprunts."
+      },
+      {
+        "num": "2",
+        "text": "Il adopte par ailleurs, sur proposition du Conseil d'Etat :"
+      },
+      {
+        "num": null,
+        "text": "a. les crédits supplémentaires; b. les crédits d'investissement et leur amortissement; c. l'acquisition et l'aliénation de biens, dans la mesure où la loi ne délègue pas cette compétence au"
+      },
+      {
+        "num": null,
+        "text": "Conseil d'Etat."
+      },
+      {
+        "num": "3",
+        "text": "Le Grand Conseil approuve, chaque année, les comptes de l'Etat."
+      }
+    ],
+    "106": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil élit :"
+      },
+      {
+        "num": null,
+        "text": "a. ses propres organes ; b. les juges du Tribunal cantonal ; c. les membres de la Cour des comptes ; d. la médiatrice ou le médiateur administratif ; e. le procureur général et les procureurs généraux adjoints ; f. les membres du Conseil de la magistrature."
+      },
+      {
+        "num": "2",
+        "text": "Il désigne les membres de la commission de présentation judiciaire prévue aux articles 131 et 166."
+      }
+    ],
+    "107": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil exerce la haute surveillance sur l'activité du Conseil d'Etat, sur celle du Conseil de la magistrature, ainsi qu'au travers de ce dernier, sur la gestion du Tribunal cantonal et du Ministère public. L'indépendance des jugements est réservée."
+      },
+      {
+        "num": "2",
+        "text": "Il se prononce annuellement sur la gestion de l'Etat."
+      },
+      {
+        "num": "3",
+        "text": "Il peut décider à tout moment d'enquêter sur un point particulier de l'activité du Conseil d'Etat."
+      },
+      {
+        "num": "7",
+        "text": "Modifié par le décret du 30.06.2009 entré en vigueur le 10.07.2009"
+      },
+      {
+        "num": "13",
+        "text": "Modifié par le décret du 24.05.2022 entré en vigueur le 14.06.2022 24"
+      }
+    ],
+    "108": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil décide de la participation de l'Etat aux personnes morales."
+      },
+      {
+        "num": "2",
+        "text": "La loi prévoit des exceptions."
+      }
+    ],
+    "109": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil accorde la grâce et l'amnistie."
+      },
+      {
+        "num": "2",
+        "text": "Il exerce les droits d'initiative et de référendum que le droit fédéral accorde aux cantons."
+      },
+      {
+        "num": "3",
+        "text": "Il participe aux organismes interparlementaires de son choix."
+      }
+    ],
+    "110": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil exerce ses compétences sous la forme :"
+      },
+      {
+        "num": null,
+        "text": "a. de lois pour les règles générales et abstraites de durée indéterminée; b. de décrets pour les autres actes; les décisions de procédure interne sont réservées."
+      },
+      {
+        "num": "2",
+        "text": "Il peut aussi exprimer son opinion par voie de résolution."
+      }
+    ],
+    "111": [
+      {
+        "num": "1",
+        "text": "L'initiative appartient aux membres, aux groupes et aux commissions du Grand Conseil ainsi qu'au"
+      },
+      {
+        "num": null,
+        "text": "Conseil d'Etat. Sont réservées les dispositions sur l'initiative populaire."
+      },
+      {
+        "num": "2",
+        "text": "Les actes destinés à être adoptés par le Grand Conseil peuvent être élaborés soit par le Conseil d'Etat, soit par le Grand Conseil lui-même."
+      },
+      {
+        "num": "3",
+        "text": "Les membres du Grand Conseil et ceux du Conseil d'Etat peuvent faire des propositions relatives à un objet en délibération."
+      },
+      {
+        "num": null,
+        "text": "Chapitre III"
+      },
+      {
+        "num": null,
+        "text": "Conseil d'Etat"
+      },
+      {
+        "num": null,
+        "text": "Section I"
+      },
+      {
+        "num": null,
+        "text": "Principe"
+      }
+    ],
+    "112": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat est l'autorité exécutive supérieure du canton."
+      },
+      {
+        "num": null,
+        "text": "Section II"
+      },
+      {
+        "num": null,
+        "text": "Composition"
+      }
+    ],
+    "113": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat se compose de sept membres élus pour une durée de cinq ans."
+      },
+      {
+        "num": "1",
+        "text": "Modifié par le décret du 27.11.2005 entré en vigueur le 27.11.2005"
+      },
+      {
+        "num": "11",
+        "text": "Modifié par le décret du 05.02.2013 entré en vigueur le 19.02.2013 25"
+      },
+      {
+        "num": "2",
+        "text": "Tout siège vacant est repourvu dans les 90 jours à moins que l'élection générale n'intervienne dans les six mois."
+      }
+    ],
+    "114": [
+      {
+        "num": "1",
+        "text": "Les membres du Conseil d'Etat sont élus par le corps électoral en même temps que les membres du"
+      },
+      {
+        "num": null,
+        "text": "Grand Conseil."
+      },
+      {
+        "num": "2",
+        "text": "L'élection se déroule selon le système majoritaire à deux tours."
+      }
+    ],
+    "115": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat désigne pour la durée de la législature sa présidente ou son président, qui assure la cohérence de l'action gouvernementale."
+      },
+      {
+        "num": null,
+        "text": "Section III"
+      },
+      {
+        "num": null,
+        "text": "Organisation"
+      }
+    ],
+    "116": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat est une autorité collégiale."
+      },
+      {
+        "num": "2",
+        "text": "Il s'organise librement dans le cadre de la loi [I] . [I] Loi du 11.02.1970 sur l'organisation du Conseil d’Etat (BLV 172.115)"
+      }
+    ],
+    "117": [
+      {
+        "num": "1",
+        "text": "Chaque membre du Conseil d'Etat dirige un département."
+      },
+      {
+        "num": "2",
+        "text": "La présidente ou le président du Conseil d'Etat dispose de l'administration générale, coordonne l'activité des départements et veille à leur bon fonctionnement."
+      }
+    ],
+    "118": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat et la députation vaudoise aux Chambres fédérales - ou une délégation de celle-ci constituent, selon les modalités fixées par la loi[I], une commission permanente d'échange d'informations relatives aux affaires fédérales, dénommée « Conférence des affaires fédérales ». [I] Loi du 11.02.1970 sur l'organisation du Conseil d’Etat (BLV 172.115)"
+      },
+      {
+        "num": null,
+        "text": "Section IV"
+      },
+      {
+        "num": null,
+        "text": "Compétences"
+      }
+    ],
+    "119": [
+      {
+        "num": "1",
+        "text": "Dans les quatre mois qui suivent son entrée en fonction, le Conseil d'Etat présente au Grand Conseil un programme de législature définissant ses objectifs et les moyens pour les atteindre, ainsi que son calendrier."
+      },
+      {
+        "num": "2",
+        "text": "Tous les membres du Conseil d'Etat sont liés par le contenu de ce programme. 26"
+      },
+      {
+        "num": "3",
+        "text": "Le Conseil d'Etat peut amender ce programme en cours de législature; il présente les modifications au"
+      },
+      {
+        "num": null,
+        "text": "Grand Conseil, qui en prend acte."
+      },
+      {
+        "num": "4",
+        "text": "Au début de chaque année, le Conseil d'Etat rapporte au Grand Conseil sur l'état de réalisation du programme de législature."
+      }
+    ],
+    "120": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat présente au Grand Conseil les projets soumis à sa délibération. Il rapporte sur les initiatives populaires et les initiatives des membres du Grand Conseil."
+      },
+      {
+        "num": "2",
+        "text": "Il édicte des règles de droit, dans la mesure où la Constitution ou la loi l'y autorisent. Il édicte les dispositions nécessaires à l'application des lois et des décrets."
+      }
+    ],
+    "121": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat représente le canton."
+      },
+      {
+        "num": "2",
+        "text": "Il peut conclure seul des concordats et des traités internationaux lorsqu'une loi, un concordat ou un traité international approuvés par le Grand Conseil le prévoient."
+      },
+      {
+        "num": "3",
+        "text": "Il peut conclure des contrats administratifs avec la Confédération ou avec les autres cantons."
+      }
+    ],
+    "122": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat prépare le projet de budget et présente les comptes."
+      },
+      {
+        "num": "2",
+        "text": "Il décide des dépenses ainsi que des acquisitions et des aliénations du domaine public dans les limites fixées par la loi."
+      }
+    ],
+    "123": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat dirige l'administration cantonale."
+      }
+    ],
+    "124": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat répond de la sécurité et de l'ordre publics."
+      }
+    ],
+    "125": [
+      {
+        "num": "1",
+        "text": "Le Conseil d'Etat peut, sans base légale, prendre toutes les mesures nécessaires pour parer à de graves menaces ou à d'autres situations d'exception."
+      },
+      {
+        "num": "2",
+        "text": "La loi fixe la procédure de ratification par le Grand Conseil. 27"
+      },
+      {
+        "num": null,
+        "text": "Section V ... 7, 13"
+      }
+    ],
+    "125a": [
+      {
+        "num": null,
+        "text": "... 7, 13"
+      },
+      {
+        "num": "1",
+        "text": "..."
+      },
+      {
+        "num": "2",
+        "text": "..."
+      },
+      {
+        "num": "3",
+        "text": "..."
+      },
+      {
+        "num": "4",
+        "text": "..."
+      },
+      {
+        "num": null,
+        "text": "Chapitre IV"
+      },
+      {
+        "num": null,
+        "text": "Tribunaux et Ministère public 13"
+      },
+      {
+        "num": null,
+        "text": "Section I"
+      },
+      {
+        "num": null,
+        "text": "Principes généraux"
+      }
+    ],
+    "126": [
+      {
+        "num": "1",
+        "text": "L'indépendance des tribunaux et du Ministère public est garantie."
+      },
+      {
+        "num": "2",
+        "text": "Les juges et les magistrats du Ministère public exercent les fonctions judiciaires d'une manière indépendante et impartiale."
+      },
+      {
+        "num": "3",
+        "text": "Ils ne peuvent pas exercer, en sus de leur fonction judiciaire, une activité de nature à gêner leur indépendance ou à créer une apparence de partialité. Les règles relatives à la composition des tribunaux paritaires sont réservées."
+      }
+    ],
+    "127": [
+      {
+        "num": "1",
+        "text": "La loi détermine le nombre, l'organisation et les compétences des tribunaux et du Ministère public."
+      },
+      {
+        "num": "2",
+        "text": "Il ne peut être instauré de juridictions d'exception, sous quelque dénomination que ce soit."
+      }
+    ],
+    "128": [
+      {
+        "num": "1",
+        "text": "Le Grand Conseil accorde aux autorités judiciaires et au Ministère public des moyens suffisants pour garantir la célérité et la qualité de la justice."
+      }
+    ],
+    "129": [
+      {
+        "num": "1",
+        "text": "Toute décision judiciaire en matière civile ou pénale peut être portée devant une seconde instance au niveau cantonal."
+      },
+      {
+        "num": "2",
+        "text": "La loi veille à ce qu'il n'y ait pas plus de deux instances judiciaires cantonales à trancher le fond des litiges."
+      },
+      {
+        "num": "7",
+        "text": "Modifié par le décret du 30.06.2009 entré en vigueur le 10.07.2009"
+      },
+      {
+        "num": "13",
+        "text": "Modifié par le décret du 24.05.2022 entré en vigueur le 14.06.2022 28"
+      }
+    ],
+    "129a": [
+      {
+        "num": "1",
+        "text": "Sauf l'indépendance juridictionnelle, le Tribunal cantonal et le Ministère Public sont placés sous la haute surveillance du Grand Conseil."
+      },
+      {
+        "num": "2",
+        "text": "La Haute surveillance s'exerce au travers du Conseil de la magistrature."
+      },
+      {
+        "num": null,
+        "text": "Section II"
+      },
+      {
+        "num": null,
+        "text": "Tribunal Cantonal"
+      }
+    ],
+    "130": [
+      {
+        "num": "1",
+        "text": "Le Tribunal cantonal est l'autorité judiciaire supérieure du canton."
+      }
+    ],
+    "131": [
+      {
+        "num": "1",
+        "text": "Les juges et les juges suppléants du Tribunal cantonal sont élus par le Grand Conseil, sur préavis du"
+      },
+      {
+        "num": null,
+        "text": "Conseil de la magistrature et d'une commission de présentation."
+      },
+      {
+        "num": "2",
+        "text": "Cette commission est désignée par le Grand Conseil. Elle est composée de députés."
+      },
+      {
+        "num": "3",
+        "text": "Le choix des candidats au Tribunal cantonal se fonde essentiellement sur leur formation juridique et leur expérience. Le Grand Conseil veille en outre à une représentation équitable des différentes sensibilités politiques."
+      },
+      {
+        "num": "4",
+        "text": "La loi régit la désignation des juges assesseurs de la Cour de droit administratif et public et de la Cour des assurances sociales du Tribunal cantonal."
+      },
+      {
+        "num": "5",
+        "text": "Les juges et juges suppléants du Tribunal cantonal sont élus pour une durée de cinq ans qui débute le 1er janvier de la troisième année suivant celle du renouvellement du Grand Conseil."
+      }
+    ],
+    "132": [
+      {
+        "num": "1",
+        "text": "Le Tribunal cantonal est autonome en matière d'organisation, d'administration et de finances dans le cadre du budget adopté par le Grand Conseil."
+      },
+      {
+        "num": "2",
+        "text": "Chaque année, il soumet son budget et ses comptes au Grand Conseil, par l'intermédiaire du Conseil d'Etat."
+      }
+    ],
+    "133": [
+      {
+        "num": "1",
+        "text": "En qualité d'autorité judiciaire, le Tribunal cantonal juge :"
+      },
+      {
+        "num": null,
+        "text": "a. en première instance les causes que la loi place dans ses compétences; b. en seconde instance les autres causes, à l'exception de celles que la loi confie expressément à une autre autorité."
+      },
+      {
+        "num": "2",
+        "text": "En qualité d'autorité administrative, le Tribunal cantonal :"
+      },
+      {
+        "num": "13",
+        "text": "Modifié par le décret du 24.05.2022 entré en vigueur le 14.06.2022"
+      },
+      {
+        "num": "1",
+        "text": "Modifié par le décret du 27.11.2005 entré en vigueur le 27.11.2005"
+      },
+      {
+        "num": "3",
+        "text": "Modifié par le décret du 06.05.2008 entré en vigueur le 20.05.2008 29"
+      },
+      {
+        "num": null,
+        "text": "a. dirige et surveille l'ordre judiciaire; b. désigne les autres magistrats et le personnel de l'ordre judiciaire."
+      }
+    ],
+    "134": [
+      {
+        "num": "1",
+        "text": "Les juges du Tribunal cantonal peuvent exprimer des avis minoritaires dans les jugements et arrêts."
+      }
+    ],
+    "135": [
+      {
+        "num": null,
+        "text": "... 13"
+      },
+      {
+        "num": "1",
+        "text": "..."
+      },
+      {
+        "num": null,
+        "text": "Section III"
+      },
+      {
+        "num": null,
+        "text": "Cour constitutionnelle"
+      }
+    ],
+    "136": [
+      {
+        "num": "1",
+        "text": "La Cour constitutionnelle est une section du Tribunal cantonal."
+      },
+      {
+        "num": "2",
+        "text": "Elle :"
+      },
+      {
+        "num": null,
+        "text": "a. contrôle, sur requête déposée dans les vingt jours dès leur publication, la conformité des normes cantonales au droit supérieur; la loi définit la qualité pour agir; b. juge, sur recours et en dernière instance cantonale, les litiges relatifs à l'exercice des droits politiques en matière cantonale et communale; c. tranche les conflits de compétence entre autorités."
+      },
+      {
+        "num": "3",
+        "text": "Ses décisions sont publiées."
+      },
+      {
+        "num": null,
+        "text": "Section IV"
+      },
+      {
+        "num": null,
+        "text": "Ministère public 13"
+      }
+    ],
+    "136a": [
+      {
+        "num": "1",
+        "text": "Le Ministère public est l'autorité chargée de mener l'instruction pénale et de soutenir l'accusation."
+      },
+      {
+        "num": "2",
+        "text": "Il jouit d'une totale indépendance dans l'exercice de ses tâches légales."
+      }
+    ],
+    "136b": [
+      {
+        "num": "1",
+        "text": "Le Ministère public est autonome en matière d'organisation, d'administration et de finances dans le cadre du budget adopté par le Grand Conseil."
+      },
+      {
+        "num": "2",
+        "text": "Chaque année, il soumet son budget et ses comptes au Grand Conseil, par l'intermédiaire du Conseil d'Etat."
+      },
+      {
+        "num": "13",
+        "text": "Modifié par le décret du 24.05.2022 entré en vigueur le 14.06.2022 30"
+      }
+    ],
+    "136c": [
+      {
+        "num": "1",
+        "text": "L'article 131 s'applique par analogie à l'élection du Procureur général et des procureurs généraux adjoints."
+      },
+      {
+        "num": null,
+        "text": "Section V"
+      },
+      {
+        "num": null,
+        "text": "Conseil de la magistrature 13"
+      }
+    ],
+    "136d": [
+      {
+        "num": "1",
+        "text": "Le Conseil de la magistrature assure la surveillance du Tribunal cantonal et du Ministère public ainsi que de leurs magistrats, dans le respect de leur indépendance juridictionnelle et de leur autonomie."
+      },
+      {
+        "num": "2",
+        "text": "Il rapporte au Grand Conseil sur son activité."
+      },
+      {
+        "num": "3",
+        "text": "Pour le surplus, la loi fixe sa composition, son organisation et ses compétences."
+      },
+      {
+        "num": "4",
+        "text": "La loi peut confier des fonctions du Conseil de la magistrature à une instance intercantonale."
+      },
+      {
+        "num": null,
+        "text": "Titre VI"
+      },
+      {
+        "num": null,
+        "text": "Communes et districts"
+      },
+      {
+        "num": null,
+        "text": "Chapitre I"
+      },
+      {
+        "num": null,
+        "text": "Communes"
+      },
+      {
+        "num": null,
+        "text": "Section I"
+      },
+      {
+        "num": null,
+        "text": "Dispositions générales"
+      }
+    ],
+    "137": [
+      {
+        "num": "1",
+        "text": "Les communes sont des collectivités publiques dotées de la personnalité juridique."
+      },
+      {
+        "num": "2",
+        "text": "Leur existence et leur territoire sont garantis dans les limites de la Constitution."
+      }
+    ],
+    "138": [
+      {
+        "num": "1",
+        "text": "Outre les tâches propres qu'elles accomplissent volontairement, les communes assument les tâches que la Constitution ou la loi [J] leur attribuent. Elles veillent au bien-être de leurs habitants et à la préservation d'un cadre de vie durable."
+      },
+      {
+        "num": "2",
+        "text": "L'Etat confie aux communes les tâches qu'elles sont mieux à même d'exécuter que lui. [J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
+      }
+    ],
+    "139": [
+      {
+        "num": "1",
+        "text": "Les communes disposent d'autonomie, en particulier dans :"
+      },
+      {
+        "num": null,
+        "text": "a. la gestion du domaine public et du patrimoine communal; b. l'administration de la commune;"
+      },
+      {
+        "num": "13",
+        "text": "Modifié par le décret du 24.05.2022 entré en vigueur le 14.06.2022 31 c. la fixation, le prélèvement et l'affectation des taxes et impôts communaux; d. l'aménagement local du territoire; e. l'ordre public; f. les relations intercommunales."
+      }
+    ],
+    "140": [
+      {
+        "num": "1",
+        "text": "Les communes sont soumises à la surveillance de l'Etat, qui veille à ce que leurs activités soient conformes à la loi."
+      },
+      {
+        "num": null,
+        "text": "Section II"
+      },
+      {
+        "num": null,
+        "text": "Organisation politique"
+      },
+      {
+        "num": null,
+        "text": "Sous-section I"
+      },
+      {
+        "num": null,
+        "text": "Généralités"
+      }
+    ],
+    "141": [
+      {
+        "num": "1",
+        "text": "Chaque commune est dotée d'une autorité délibérante, le conseil communal ou le conseil général, et d'une autorité exécutive, la municipalité."
+      },
+      {
+        "num": "2",
+        "text": "La loi [J] détermine à quelles conditions elle peut se doter d'un conseil communal ou d'un conseil général. [J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
+      }
+    ],
+    "142": [
+      {
+        "num": "1",
+        "text": "Font partie du corps électoral communal, s'ils sont âgés de dix-huit ans révolus et ne sont pas protégés par une curatelle de portée générale ou un mandat pour cause d'inaptitude, en raison d'une incapacité durable de discernement :"
+      },
+      {
+        "num": null,
+        "text": "a. les Suissesses et les Suisses qui sont domiciliés dans la commune ; b. les étrangères et les étrangers domiciliés dans la commune qui résident en Suisse au bénéfice d'une autorisation depuis dix ans au moins et sont domiciliés dans le canton depuis trois ans au moins."
+      },
+      {
+        "num": "2",
+        "text": "Les droits politiques ont pour objet la participation aux élections et votations, l'éligibilité ainsi que la signature des demandes d'initiative et, dans les communes à conseil communal, de référendum."
+      },
+      {
+        "num": "3",
+        "text": "La loi [F] précise les modalités de l'exercice de ces droits. Les articles 74, alinéa 2 et 76, alinéa 2 s'appliquent. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+      }
+    ],
+    "143": [
+      {
+        "num": "1",
+        "text": "Nul ne peut être membre à la fois de l'autorité délibérante et de l'autorité exécutive d'une commune."
+      },
+      {
+        "num": "10",
+        "text": "Modifié par le décret du 29.05.2012 entré en vigueur le 26.06.2012 32"
+      },
+      {
+        "num": "2",
+        "text": "Les employés supérieurs de l'administration communale ne peuvent pas siéger au conseil communal."
+      },
+      {
+        "num": "3",
+        "text": "Un règlement communal peut limiter le cumul d'un mandat exécutif communal avec des mandats cantonaux ou fédéraux."
+      },
+      {
+        "num": null,
+        "text": "Sous-section II"
+      },
+      {
+        "num": null,
+        "text": "Conseil communal ou conseil général"
+      }
+    ],
+    "144": [
+      {
+        "num": "1",
+        "text": "Les membres du conseil communal sont élus par le corps électoral pour une durée de cinq ans."
+      },
+      {
+        "num": "2",
+        "text": "Ils sont élus en principe selon le système proportionnel; le quorum prévu à l'article 93, alinéa 4 s'applique."
+      },
+      {
+        "num": "3",
+        "text": "Dans les communes de moins de 3'000 habitants, le règlement communal peut prévoir le scrutin majoritaire."
+      }
+    ],
+    "145": [
+      {
+        "num": "1",
+        "text": "Tous les membres du corps électoral peuvent faire partie du conseil général, sauf les membres de la municipalité."
+      }
+    ],
+    "146": [
+      {
+        "num": "1",
+        "text": "Le conseil communal ou le conseil général :"
+      },
+      {
+        "num": null,
+        "text": "a. édicte les règlements; b. adopte l'arrêté d'imposition et le budget, et autorise les dépenses extraordinaires et les emprunts; c. se prononce sur les collaborations intercommunales; d. décide des projets d'acquisition et d'aliénation d'immeubles; e. contrôle la gestion; f. adopte les comptes."
+      },
+      {
+        "num": "2",
+        "text": "La loi [J] peut lui confier d'autres compétences."
+      },
+      {
+        "num": "3",
+        "text": "Le conseil communal ou le conseil général peut, par voie de motion, obliger la municipalité à lui présenter une étude ou un projet. Il peut fixer un délai. [J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
+      }
+    ],
+    "147": [
+      {
+        "num": "1",
+        "text": "Le corps électoral dispose d'un droit d'initiative et, dans les communes à conseil communal, d'un droit de référendum."
+      },
+      {
+        "num": "2",
+        "text": "La loi définit l'exercice de ces droits et les objets exclus du droit de référendum ou d'initiative."
+      },
+      {
+        "num": "9",
+        "text": "Modifié par le décret du 03.05.2011 entré en vigueur le 17.05.2011 33"
+      },
+      {
+        "num": null,
+        "text": "Sous-section III"
+      },
+      {
+        "num": null,
+        "text": "Municipalité"
+      }
+    ],
+    "148": [
+      {
+        "num": "1",
+        "text": "La municipalité est composée de trois membres au moins, dont la syndique ou le syndic, qui la préside. Ils sont élus pour une durée de cinq ans."
+      }
+    ],
+    "149": [
+      {
+        "num": "1",
+        "text": "Les membres de la municipalité sont élus directement par le corps électoral selon le système majoritaire à deux tours."
+      },
+      {
+        "num": "2",
+        "text": "La syndique ou le syndic, choisi parmi les membres de la municipalité, est élu par le corps électoral selon le même système, au plus tard un mois après l'élection de la municipalité. Son élection peut être tacite."
+      },
+      {
+        "num": "3",
+        "text": "La loi prévoit les cas et la procédure de révocation des membres de la municipalité."
+      }
+    ],
+    "150": [
+      {
+        "num": "1",
+        "text": "La municipalité est une autorité collégiale. Elle s'organise librement."
+      },
+      {
+        "num": "2",
+        "text": "Elle a toutes les compétences communales, à l'exception de celles attribuées par la Constitution ou la loi à l'autorité délibérante."
+      },
+      {
+        "num": "3",
+        "text": "La syndique ou le syndic préside la municipalité, coordonne l'activité des conseillers municipaux et dispose de l'administration communale. La loi détermine ses autres fonctions."
+      },
+      {
+        "num": null,
+        "text": "Section III"
+      },
+      {
+        "num": null,
+        "text": "Fusion de communes"
+      }
+    ],
+    "151": [
+      {
+        "num": "1",
+        "text": "L'Etat encourage et favorise les fusions de communes."
+      },
+      {
+        "num": "2",
+        "text": "A cet effet, la loi [K] prévoit des mesures incitatives, notamment financières."
+      },
+      {
+        "num": "3",
+        "text": "L'Etat facilite le processus de fusion; il ne perçoit aucune taxe ou émolument à ce titre."
+      },
+      {
+        "num": "4",
+        "text": "Aucune fusion ne peut intervenir sans le consentement du corps électoral de chacune des communes concernées. Les scrutins ont lieu simultanément."
+      },
+      {
+        "num": "5",
+        "text": "En dérogation aux articles 144 et 148 de la Constitution, la durée des mandats des membres du conseil communal et des municipalités des communes concernées peut être prolongée sans élection jusqu'à l'entrée en vigueur d'une fusion de communes lorsque celle-ci intervient dans les six mois qui suivent la fin de ces mandats. [K] Loi du 07.12.2004 sur les fusions de communes (BLV 175.61) et décret du 25.01.2005 sur l'incitation financière aux fusions de communes (BLV 175.611)"
+      },
+      {
+        "num": "8",
+        "text": "Modifié par le décret du 16.03.2010 entré en vigueur le 30.03.2010 34"
+      }
+    ],
+    "152": [
+      {
+        "num": "1",
+        "text": "Aux conditions fixées par la loi, l'autorité délibérante, la municipalité, ou une partie du corps électoral par voie d'initiative, peut proposer une fusion avec une ou plusieurs autres communes, ou une modification du territoire communal."
+      }
+    ],
+    "153": [
+      {
+        "num": "1",
+        "text": "Une fédération de communes ou une agglomération peut proposer une fusion des communes membres."
+      }
+    ],
+    "154": [
+      {
+        "num": "1",
+        "text": "Si le besoin l'exige et aux conditions prévues par la loi [L] , l'Etat peut soumettre le principe d'une fusion de deux ou plusieurs communes ou d'une modification de leur territoire au corps électoral de chacune des communes visées. [L] Loi du 07.12.2004 sur les fusions de communes (BLV 175.61)"
+      },
+      {
+        "num": null,
+        "text": "Chapitre II"
+      },
+      {
+        "num": null,
+        "text": "Collaborations intercommunales, fédérations et agglomérations"
+      }
+    ],
+    "155": [
+      {
+        "num": "1",
+        "text": "L'Etat encourage les collaborations entre communes, en particulier les fédérations."
+      },
+      {
+        "num": "2",
+        "text": "Les communes peuvent déléguer une ou plusieurs de leurs tâches à des fédérations, à des agglomérations ou à d'autres types d'organisations intercommunales; elles veillent à choisir la forme la plus appropriée."
+      },
+      {
+        "num": "3",
+        "text": "La loi [J] peut imposer une collaboration lorsqu'elle est nécessaire à l'accomplissement de certaines tâches ou à une répartition équitable des charges entre communes."
+      },
+      {
+        "num": "4",
+        "text": "La loi définit l'organisation, le financement et le contrôle démocratique des diverses formes de collaboration intercommunale. [J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
+      }
+    ],
+    "156": [
+      {
+        "num": "1",
+        "text": "La fédération de communes est une collectivité de droit public composée de communes qui sont en principe contiguës. Elle a la personnalité juridique."
+      },
+      {
+        "num": "2",
+        "text": "La fédération est dotée d'une autorité délibérante et d'une autorité exécutive. L'autorité délibérante est élue par les législatifs des communes membres, l'autorité exécutive par l'autorité délibérante."
+      },
+      {
+        "num": "3",
+        "text": "La fédération gère seule les tâches que les communes membres lui délèguent. Ces tâches sont financées par des contributions communales."
+      },
+      {
+        "num": "4",
+        "text": "Une commune ne peut faire partie que d'une fédération, sa participation à d'autres formes de collaboration restant possible. 35"
+      }
+    ],
+    "157": [
+      {
+        "num": "1",
+        "text": "L'agglomération est une collectivité de droit public composée de communes urbaines contiguës et qui comprend une ville centre. Elle a la personnalité juridique."
+      },
+      {
+        "num": "2",
+        "text": "La loi définit l'organisation, le financement et le contrôle démocratique de l'agglomération par analogie avec les règles applicables aux fédérations."
+      },
+      {
+        "num": null,
+        "text": "Chapitre III"
+      },
+      {
+        "num": null,
+        "text": "Districts"
+      }
+    ],
+    "158": [
+      {
+        "num": "1",
+        "text": "Le territoire du canton est divisé en districts. La loi en fixe le nombre et détermine le rattachement de chaque commune à l'un d'eux."
+      },
+      {
+        "num": "2",
+        "text": "Les districts sont les entités administratives et judiciaires où s'exercent en principe des tâches décentralisées de l'Etat dont ils assurent les services de proximité."
+      },
+      {
+        "num": "3",
+        "text": "Ils constituent les arrondissements électoraux."
+      }
+    ],
+    "159": [
+      {
+        "num": "1",
+        "text": "Un préfet est nommé par le Conseil d'Etat à la tête de chaque district."
+      },
+      {
+        "num": "2",
+        "text": "La loi [M] définit ses tâches. [M] Loi du 27.03.2007 sur les préfets et les préfectures ( BLV 172.165)"
+      }
+    ],
+    "160": [
+      {
+        "num": "1",
+        "text": "Par décision de son corps électoral, toute commune peut demander son rattachement à un autre district si elle en est limitrophe."
+      },
+      {
+        "num": "2",
+        "text": "La loi prévoit la procédure de rattachement."
+      },
+      {
+        "num": null,
+        "text": "Titre VII"
+      },
+      {
+        "num": null,
+        "text": "Régime des finances"
+      },
+      {
+        "num": null,
+        "text": "Chapitre I"
+      },
+      {
+        "num": null,
+        "text": "Principes généraux"
+      }
+    ],
+    "161": [
+      {
+        "num": "1",
+        "text": "Toute dépense doit reposer sur une base légale."
+      }
+    ],
+    "162": [
+      {
+        "num": "1",
+        "text": "Pour atteindre leurs buts, l'Etat et les communes peuvent participer à des personnes morales ou en créer. La loi fixe les modalités de contrôle de ces personnes morales."
+      },
+      {
+        "num": "14",
+        "text": "Modifié par le décret du 15.11.2022 entré en vigueur le 29.11.2022 36 1bis L'État et les communes veillent à ce que ces personnes morales mènent leurs activités de manière à contribuer au moins au respect des engagements de la Suisse en matière de lutte contre le réchauffement climatique et les dérèglements qu'il engendre."
+      },
+      {
+        "num": "2",
+        "text": "Les établissements d'assurance créés par l'Etat sont gérés de manière autonome; leurs capitaux demeurent la propriété des assurés."
+      }
+    ],
+    "163": [
+      {
+        "num": "1",
+        "text": "La gestion des finances de l'Etat doit être économe et efficace; elle tend à atténuer les effets des cycles économiques."
+      },
+      {
+        "num": "2",
+        "text": "Avant de présenter tout projet de loi ou de décret entraînant des charges nouvelles, le Conseil d'Etat s'assure de leur financement et propose, le cas échéant, les mesures fiscales ou compensatoires nécessaires."
+      }
+    ],
+    "164": [
+      {
+        "num": "1",
+        "text": "En règle générale, le budget de fonctionnement de l'Etat doit être équilibré."
+      },
+      {
+        "num": "2",
+        "text": "L'approbation d'un budget de fonctionnement déficitaire requiert la majorité absolue des membres du"
+      },
+      {
+        "num": null,
+        "text": "Grand Conseil."
+      },
+      {
+        "num": "3",
+        "text": "Dans le budget de fonctionnement, les recettes doivent dans tous les cas couvrir les charges avant amortissements."
+      }
+    ],
+    "165": [
+      {
+        "num": "1",
+        "text": "Si, dans les derniers comptes, les recettes ne couvrent pas les charges avant amortissements, les autorités cantonales prennent sans délai des mesures d'assainissement portant sur le montant du dépassement."
+      },
+      {
+        "num": "2",
+        "text": "Les mesures qui nécessitent des modifications de rang législatif sont soumises au vote du corps électoral. Pour chacune de ces mesures, le vote oppose la modification législative proposée à une augmentation du coefficient de l'impôt cantonal direct d'effet équivalent."
+      },
+      {
+        "num": null,
+        "text": "Chapitre II"
+      },
+      {
+        "num": null,
+        "text": "Surveillance et contrôle des finances 12"
+      }
+    ],
+    "166": [
+      {
+        "num": null,
+        "text": "12"
+      },
+      {
+        "num": "1",
+        "text": "Le Canton de Vaud est doté de plusieurs autorités assurant en toute indépendance la surveillance de l'utilisation de tout argent public, notamment sous l'angle du respect des principes de légalité, de régularité, d'efficacité, d'économie et d'efficience."
+      },
+      {
+        "num": "2",
+        "text": "Ces autorités sont notamment:"
+      },
+      {
+        "num": null,
+        "text": "a. la Cour des comptes, en charge du contrôle de performance ; b. un organe chargé du contrôle de conformité."
+      },
+      {
+        "num": "12",
+        "text": "Modifié par le décret du 12.03.2013 entré en vigueur le 26.03.2013 37"
+      },
+      {
+        "num": "3",
+        "text": "Les membres de la Cour des comptes sont élus par le Grand Conseil."
+      },
+      {
+        "num": "4",
+        "text": "…"
+      },
+      {
+        "num": null,
+        "text": "Chapitre III"
+      },
+      {
+        "num": null,
+        "text": "Fiscalité et péréquation intercommunale"
+      }
+    ],
+    "167": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes perçoivent les contributions prévues par la loi, soit :"
+      },
+      {
+        "num": null,
+        "text": "a. des impôts pour l'exécution de leurs tâches; b. des taxes et des émoluments liés à des prestations; c. des taxes d'incitation dont le produit est intégralement redistribué."
+      },
+      {
+        "num": "2",
+        "text": "Le régime fiscal respecte les principes d'universalité et d'égalité de traitement. L'impôt respecte en outre le principe de la capacité contributive."
+      },
+      {
+        "num": "3",
+        "text": "La fraude fiscale est poursuivie."
+      },
+      {
+        "num": "4",
+        "text": "La loi compense les effets de la progression à froid à chaque période fiscale."
+      }
+    ],
+    "168": [
+      {
+        "num": "1",
+        "text": "La loi détermine le pouvoir fiscal des communes. La charge fiscale ne doit pas présenter des écarts excessifs entre les communes."
+      },
+      {
+        "num": "2",
+        "text": "La péréquation financière atténue les inégalités de charge fiscale consécutives aux différences de capacité contributive entre les communes."
+      },
+      {
+        "num": null,
+        "text": "Titre VIII"
+      },
+      {
+        "num": null,
+        "text": "Eglises et communautés religieuses"
+      }
+    ],
+    "169": [
+      {
+        "num": "1",
+        "text": "L'Etat tient compte de la dimension spirituelle de la personne humaine."
+      },
+      {
+        "num": "2",
+        "text": "Il prend en considération la contribution des Eglises et communautés religieuses au lien social et à la transmission de valeurs fondamentales."
+      }
+    ],
+    "170": [
+      {
+        "num": "1",
+        "text": "L'Eglise évangélique réformée et l'Eglise catholique romaine, telles qu'elles sont établies dans le canton, sont reconnues comme institutions de droit public dotées de la personnalité morale."
+      },
+      {
+        "num": "2",
+        "text": "L'Etat leur assure les moyens nécessaires à l'accomplissement de leur mission au service de tous dans le canton."
+      },
+      {
+        "num": "3",
+        "text": "La loi fixe les prestations de l'Etat et des communes. 38"
+      }
+    ],
+    "171": [
+      {
+        "num": "1",
+        "text": "La communauté israélite, telle qu'elle est établie dans le canton, est reconnue comme institution d'intérêt public. A leur demande, l'Etat peut reconnaître le même statut à d'autres communautés religieuses; il tient compte de la durée de leur établissement et de leur rôle dans le canton."
+      }
+    ],
+    "172": [
+      {
+        "num": "1",
+        "text": "Chaque Eglise ou communauté reconnue fait l'objet d'une loi qui lui est propre."
+      },
+      {
+        "num": "2",
+        "text": "Les Eglises et communautés reconnues jouissent de l'indépendance spirituelle et s'organisent librement dans le respect de l'ordre juridique et de la paix confessionnelle."
+      },
+      {
+        "num": "3",
+        "text": "La reconnaissance est liée notamment au respect des principes démocratiques et à la transparence financière."
+      },
+      {
+        "num": null,
+        "text": "Titre IX"
+      },
+      {
+        "num": null,
+        "text": "Révision de la constitution"
+      }
+    ],
+    "173": [
+      {
+        "num": "1",
+        "text": "La révision totale peut être demandée par le Grand Conseil ou par voie d'initiative populaire."
+      },
+      {
+        "num": "2",
+        "text": "La demande est soumise au corps électoral qui décide si la révision totale doit avoir lieu et, à titre subsidiaire, si elle est confiée au Grand Conseil ou à une assemblée constituante."
+      },
+      {
+        "num": "3",
+        "text": "Si la révision est confiée à une assemblée constituante, celle-ci est élue sans délai. Les dispositions sur l'élection du Grand Conseil s'appliquent, à l'exception de celles sur les incompatibilités et la durée de fonction."
+      },
+      {
+        "num": "4",
+        "text": "Le projet de nouvelle Constitution peut comporter des variantes. Le vote final ne peut intervenir que lorsque le choix sur toutes les variantes a été opéré par le corps électoral."
+      },
+      {
+        "num": "5",
+        "text": "Si le corps électoral rejette le projet de nouvelle Constitution, l'organe chargé de la révision totale en élabore un second. En cas de nouveau rejet populaire, la révision est caduque."
+      }
+    ],
+    "174": [
+      {
+        "num": "1",
+        "text": "La révision partielle peut être proposée par le Grand Conseil ou demandée par voie d'initiative populaire."
+      },
+      {
+        "num": "2",
+        "text": "Elle peut porter sur la révision d'une disposition constitutionnelle ou de plusieurs si elles sont intrinsèquement liées."
+      },
+      {
+        "num": null,
+        "text": "Titre X"
+      },
+      {
+        "num": null,
+        "text": "Dispositions transitoires et finales"
+      }
+    ],
+    "175": [
+      {
+        "num": "1",
+        "text": "La présente Constitution entre en vigueur le 14 avril 2003. 39"
+      }
+    ],
+    "176": [
+      {
+        "num": "1",
+        "text": "La Constitution du Canton de Vaud du 1er mars 1885 est abrogée."
+      },
+      {
+        "num": "2",
+        "text": "De même, les dispositions de l'ancien droit qui sont contraires aux règles directement applicables de la présente Constitution sont abrogées."
+      },
+      {
+        "num": "3",
+        "text": "Pour le reste, l'ancien droit demeure en vigueur tant que la législation d'application requise par la présente Constitution n'aura pas été édictée."
+      }
+    ],
+    "177": [
+      {
+        "num": "1",
+        "text": "La législation d'application [N] requise par la présente Constitution sera édictée sans retard mais dans un délai de cinq ans au plus dès l'entrée en vigueur de la Constitution."
+      },
+      {
+        "num": "2",
+        "text": "A cette fin, le Conseil d'Etat soumet au Grand Conseil un programme législatif avant le 14 avril 2003. [N] Décret du 02.07.2003 sur la mise en œuvre de la nouvelle Constitution cantonale (BLV 101.051)"
+      }
+    ],
+    "178": [
+      {
+        "num": "1",
+        "text": "La législation d'application requise pour le renouvellement des autorités devra être adoptée dans les deux ans dès l'entrée en vigueur de la présente Constitution. Le renouvellement aura lieu conformément à cette Constitution au printemps 2006 pour les autorités communales, la législature en cours prenant fin le 30 juin 2006; au printemps 2007 pour les autorités cantonales, la législature en cours prenant fin le 30 juin 2007."
+      },
+      {
+        "num": "2",
+        "text": "L'article 115 (présidence du Conseil d'Etat) est applicable dès le début de la législature qui suit l'entrée en vigueur de la présente Constitution."
+      },
+      {
+        "num": "3",
+        "text": "Jusqu'à l'entrée en vigueur du nouveau découpage territorial du canton (article 179, chiffre 5), les arrondissements électoraux sont ceux désignés par les articles 45 et 45a de la loi du 16 mai 1989 sur l'exercice des droits politiques [F] , dans sa teneur du 8 juin 1997. Chaque district dispose de deux sièges au moins."
+      },
+      {
+        "num": "4",
+        "text": "Le mandat des juges et des juges suppléants du Tribunal cantonal et du Tribunal administratif est prolongé jusqu'au 31 décembre 2007. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+      }
+    ],
+    "179": [
+      {
+        "num": null,
+        "text": "1) ad art. 52, al. 5"
+      },
+      {
+        "num": "1",
+        "text": "Les articles 6bis et 6ter de la Constitution du 1er mars 1885 protégeant les sites de Lavaux et de la"
+      },
+      {
+        "num": null,
+        "text": "Venoge demeurent en vigueur tant qu'ils n'ont pas été convertis en normes légales en application de l'article 52, alinéa 5 de la présente Constitution."
+      },
+      {
+        "num": "1",
+        "text": "Modifié par le décret du 27.11.2005 entré en vigueur le 27.11.2005"
+      },
+      {
+        "num": "2",
+        "text": "Modifié par le décret du 12.06.2007 entré en vigueur le 29.06.2007"
+      },
+      {
+        "num": "12",
+        "text": "Modifié par le décret du 12.03.2013 entré en vigueur le 26.03.2013 40"
+      },
+      {
+        "num": "2",
+        "text": "L'assurance maternité cantonale doit entrer en vigueur au plus tard trois ans après l'entrée en vigueur de la présente Constitution."
+      },
+      {
+        "num": "3",
+        "text": "La législation d'application du titre VI Communes et districts devra être adoptée dans les deux ans dès l'entrée en vigueur de la présente Constitution. 3bis La législation d'application requise par l'article 129 Cst-VD doit être édictée au plus tard à l'échéance du délai prévu par l'article 130 de la loi du 17 juin 2005 sur le Tribunal fédéral pour l'adaptation des dispositions cantonales en matière civile et pénale."
+      },
+      {
+        "num": "4",
+        "text": "Une prime sera octroyée aux communes qui fusionneront dans les dix ans à partir de la promulgation de la loi."
+      },
+      {
+        "num": "5",
+        "text": "Dans les dix ans dès l'entrée en vigueur de la présente Constitution, le Conseil d'Etat proposera un nouveau découpage administratif du canton en vue de la réduction du nombre de districts, en tenant compte des besoins de la population et des facilités de communication. Le nombre de districts sera de huit à douze."
+      },
+      {
+        "num": "6",
+        "text": "Aussi longtemps que la nouvelle loi sur les finances n'est pas en vigueur, les alinéas 2 à 4 de l'article 48 de la Constitution du 1er mars 1885 s'appliquent."
+      },
+      {
+        "num": "7",
+        "text": "…"
+      },
+      {
+        "num": "8",
+        "text": "Le statut et les droits des bourses publiques ayant des obligations en matière de culte de l'Eglise évangélique réformée et de l'Eglise catholique dans les communes d'Echallens, Assens, Bottens,"
+      },
+      {
+        "num": null,
+        "text": "Bioley-Orjulaz, Etagnières, Poliez-le-Grand, Poliez-Pittet, Saint-Barthélemy, Villars-le-Terroir et"
+      },
+      {
+        "num": null,
+        "text": "Malapalud, de même que les droits et coutumes établis en faveur des catholiques dans les communes précitées, continuent d'être garantis, conformément à ce que prévoyaient les articles 13, alinéa 5 et 14 de la Constitution du 1er mars 1885, tant qu'ils ne sont pas modifiés par la loi."
+      },
+      {
+        "num": "9",
+        "text": "Les droits coutumiers des bourgeoisies, fondées sur l'article 81 de la Constitution du 1er mars 1885, sont réservés, sous l'arbitrage du Conseil d'Etat. Les personnes concernées par l'abrogation de cet article sont informées par publication officielle."
+      }
+    ],
+    "179a": [
+      {
+        "num": "1",
+        "text": "La durée de fonction des juges cantonaux ainsi que celle du Procureur général, est prolongée jusqu'au 31 décembre 2024."
+      }
+    ],
+    "179b": [
+      {
+        "num": "1",
+        "text": "Dans l'exercice de leurs tâches, l'Etat et les communes doivent atteindre la neutralité carbone d'ici à 2050 au plus tard. A cette fin, ils élaborent des plans d'action avec des objectifs intermédiaires pour 2030 et 2040."
+      },
+      {
+        "num": "2",
+        "text": "Pour contribuer à atteindre la neutralité carbone d'ici à 2050 au plus tard, les caisses de pension de l'Etat et des communes relevant du droit public adoptent tous les cinq ans des stratégies en matière d'investissements responsables et respectueux du climat."
+      },
+      {
+        "num": "13",
+        "text": "Modifié par le décret du 24.05.2022 entré en vigueur le 14.06.2022"
+      },
+      {
+        "num": "14",
+        "text": "Modifié par le décret du 15.11.2022 entré en vigueur le 29.11.2022 41"
+      }
+    ],
+    "179c": [
+      {
+        "num": "1",
+        "text": "L'Etat et les communes veillent à ce que les personnes morales au sens de l'article 162 alinéa 1, élaborent des plans d'action de réduction massive des flux financiers et placements qui contreviennent aux objectifs climatiques internationaux de la Suisse (désinvestissement des énergies fossiles), avec des objectifs intermédiaires pour 2030 et 2040."
+      },
+      {
+        "num": "2",
+        "text": "L'Etat et les communes veillent à ce que les montants dégagés par ce désinvestissement soient réinvestis dans des activités suivant les principes de l'article 52b tout en étant également socialement responsables."
+      }
+    ],
+    "180": [
+      {
+        "num": "1",
+        "text": "L'ancien droit demeure en vigueur pour les initiatives et les référendums annoncés avant l'entrée en vigueur de la présente Constitution."
+      },
+      {
+        "num": "2",
+        "text": "Toute initiative qui demande la révision partielle de la Constitution du 1er mars 1885 et qui aura été annoncée avant l'entrée en vigueur de la présente Constitution sera transformée par le Grand Conseil en projet de révision de cette dernière."
+      },
+      {
+        "num": "14",
+        "text": "Modifié par le décret du 15.11.2022 entré en vigueur le 29.11.2022"
       }
     ]
   }

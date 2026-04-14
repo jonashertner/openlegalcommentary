@@ -7,7 +7,7 @@
   "lexfind_id": 19965,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 49,
+  "article_count": 87,
   "articles": [
     {
       "number": 1,
@@ -31,6 +31,12 @@
       "number": 4,
       "suffix": "",
       "raw": "4",
+      "title": ""
+    },
+    {
+      "number": 5,
+      "suffix": "",
+      "raw": "5",
       "title": ""
     },
     {
@@ -82,15 +88,57 @@
       "title": ""
     },
     {
+      "number": 14,
+      "suffix": "",
+      "raw": "14",
+      "title": ""
+    },
+    {
       "number": 15,
       "suffix": "",
       "raw": "15",
       "title": ""
     },
     {
+      "number": 16,
+      "suffix": "",
+      "raw": "16",
+      "title": "&hellip;"
+    },
+    {
       "number": 17,
       "suffix": "",
       "raw": "17",
+      "title": ""
+    },
+    {
+      "number": 18,
+      "suffix": "",
+      "raw": "18",
+      "title": ""
+    },
+    {
+      "number": 19,
+      "suffix": "",
+      "raw": "19",
+      "title": ""
+    },
+    {
+      "number": 19,
+      "suffix": "bis",
+      "raw": "19bis",
+      "title": ""
+    },
+    {
+      "number": 20,
+      "suffix": "",
+      "raw": "20",
+      "title": ""
+    },
+    {
+      "number": 21,
+      "suffix": "",
+      "raw": "21",
       "title": ""
     },
     {
@@ -130,6 +178,24 @@
       "title": ""
     },
     {
+      "number": 28,
+      "suffix": "",
+      "raw": "28",
+      "title": ""
+    },
+    {
+      "number": 29,
+      "suffix": "",
+      "raw": "29",
+      "title": ""
+    },
+    {
+      "number": 29,
+      "suffix": "a",
+      "raw": "29a",
+      "title": ""
+    },
+    {
       "number": 30,
       "suffix": "",
       "raw": "30",
@@ -148,6 +214,24 @@
       "title": ""
     },
     {
+      "number": 33,
+      "suffix": "",
+      "raw": "33",
+      "title": "&hellip;"
+    },
+    {
+      "number": 34,
+      "suffix": "",
+      "raw": "34",
+      "title": ""
+    },
+    {
+      "number": 35,
+      "suffix": "",
+      "raw": "35",
+      "title": ""
+    },
+    {
       "number": 36,
       "suffix": "",
       "raw": "36",
@@ -158,6 +242,18 @@
       "suffix": "",
       "raw": "37",
       "title": ""
+    },
+    {
+      "number": 38,
+      "suffix": "",
+      "raw": "38",
+      "title": ""
+    },
+    {
+      "number": 39,
+      "suffix": "",
+      "raw": "39",
+      "title": "&hellip;"
     },
     {
       "number": 40,
@@ -214,6 +310,24 @@
       "title": ""
     },
     {
+      "number": 49,
+      "suffix": "",
+      "raw": "49",
+      "title": ""
+    },
+    {
+      "number": 50,
+      "suffix": "",
+      "raw": "50",
+      "title": ""
+    },
+    {
+      "number": 51,
+      "suffix": "",
+      "raw": "51",
+      "title": "&hellip;"
+    },
+    {
       "number": 52,
       "suffix": "",
       "raw": "52",
@@ -238,10 +352,22 @@
       "title": ""
     },
     {
+      "number": 55,
+      "suffix": "bis",
+      "raw": "55bis",
+      "title": "&hellip;"
+    },
+    {
       "number": 56,
       "suffix": "",
       "raw": "56",
       "title": ""
+    },
+    {
+      "number": 57,
+      "suffix": "",
+      "raw": "57",
+      "title": "&hellip;"
     },
     {
       "number": 58,
@@ -256,10 +382,22 @@
       "title": ""
     },
     {
+      "number": 60,
+      "suffix": "",
+      "raw": "60",
+      "title": "&hellip;"
+    },
+    {
       "number": 61,
       "suffix": "",
       "raw": "61",
       "title": ""
+    },
+    {
+      "number": 62,
+      "suffix": "",
+      "raw": "62",
+      "title": "&hellip;"
     },
     {
       "number": 63,
@@ -268,15 +406,69 @@
       "title": ""
     },
     {
+      "number": 64,
+      "suffix": "",
+      "raw": "64",
+      "title": "&hellip;"
+    },
+    {
+      "number": 65,
+      "suffix": "",
+      "raw": "65",
+      "title": "&hellip;"
+    },
+    {
+      "number": 66,
+      "suffix": "",
+      "raw": "66",
+      "title": "&hellip;"
+    },
+    {
+      "number": 67,
+      "suffix": "",
+      "raw": "67",
+      "title": "&hellip;"
+    },
+    {
+      "number": 68,
+      "suffix": "",
+      "raw": "68",
+      "title": "&hellip;"
+    },
+    {
+      "number": 69,
+      "suffix": "",
+      "raw": "69",
+      "title": "&hellip;"
+    },
+    {
       "number": 70,
       "suffix": "",
       "raw": "70",
       "title": ""
     },
     {
+      "number": 71,
+      "suffix": "",
+      "raw": "71",
+      "title": ""
+    },
+    {
       "number": 72,
       "suffix": "",
       "raw": "72",
+      "title": ""
+    },
+    {
+      "number": 73,
+      "suffix": "",
+      "raw": "73",
+      "title": ""
+    },
+    {
+      "number": 74,
+      "suffix": "",
+      "raw": "74",
       "title": ""
     },
     {
@@ -301,6 +493,42 @@
       "number": 78,
       "suffix": "",
       "raw": "78",
+      "title": ""
+    },
+    {
+      "number": 79,
+      "suffix": "",
+      "raw": "79",
+      "title": ""
+    },
+    {
+      "number": 80,
+      "suffix": "",
+      "raw": "80",
+      "title": "&hellip;"
+    },
+    {
+      "number": 81,
+      "suffix": "",
+      "raw": "81",
+      "title": "&hellip;"
+    },
+    {
+      "number": 82,
+      "suffix": "",
+      "raw": "82",
+      "title": "&hellip;"
+    },
+    {
+      "number": 83,
+      "suffix": "",
+      "raw": "83",
+      "title": "&hellip;"
+    },
+    {
+      "number": 84,
+      "suffix": "",
+      "raw": "84",
       "title": ""
     }
   ],
@@ -335,6 +563,16 @@
       {
         "num": "2",
         "text": "Die Errichtung von Privatschulen und Privat-Lehranstalten ist gewährleistet; soweit dieselben den Primarschulunterricht betreffen, bleiben die Bestimmungen des 2. Alineas von Art. 27 der Bundesverfassung vorbehalten."
+      }
+    ],
+    "5": [
+      {
+        "num": "1",
+        "text": "Alle Bürger und Bürgerinnen sind vor dem Gesetze gleich."
+      },
+      {
+        "num": "2",
+        "text": "Der Kanton fördert die Verwirklichung der tatsächlichen Gleichstellung von Mann und Frau."
       }
     ],
     "6": [
@@ -413,6 +651,12 @@
         "text": "Die Handels- und Gewerbefreiheit ist anerkannt. Das Gesetz trifft innert den Grenzen der Bundesverfassung diejenigen beschränkenden Bestimmungen, welche das allgemeine Wohl erfordert."
       }
     ],
+    "14": [
+      {
+        "num": "1",
+        "text": "Die Gebäude sind im Rahmen des Gesetzes gegen Brand- und Elementarschäden bei der kantonalen Gebäudeversicherung zu versichern."
+      }
+    ],
     "15": [
       {
         "num": "1",
@@ -439,6 +683,7 @@
         "text": "Die Gesetzgebung wird diejenigen Vorschriften erlassen, welche zu genauer Ermittlung der Steuerkraft zweckdienlich erscheinen."
       }
     ],
+    "16": [],
     "17": [
       {
         "num": "1",
@@ -447,6 +692,72 @@
       {
         "num": "2",
         "text": "Wahlbestechungen und Wahleinschüchterungen sind verboten. Das korrektionelle Strafgesetz [5] wird die Strafe auf Zuwiderhandlung bestimmen."
+      }
+    ],
+    "18": [
+      {
+        "num": "1",
+        "text": "Die vom Volk oder vom Kantonsrat gewählten kantonalen Behörden und Beamten sowie die vom Volk gewählten Behörden und Beamten der Gemeinden sind bei Beginn jeder Amtsdauer durch Eid oder Gelöbnis auf die Verfassung und die Gesetze zu verpflichten."
+      }
+    ],
+    "19": [
+      {
+        "num": "1",
+        "text": "Staat und Gemeinden sowie deren Behörden und Beamte haften für ihre Tätigkeit im Rahmen des Gesetzes."
+      },
+      {
+        "num": "2",
+        "text": "In gleicher Weise haften die andern Körperschaften und die Anstalten des öffentlichen Rechts."
+      },
+      {
+        "num": "3",
+        "text": "… *"
+      }
+    ],
+    "19bis": [
+      {
+        "num": "1",
+        "text": "Die Mitglieder des Kantonsrates, des Regierungsrates, des Obergerichtes und des Verwaltungsgerichtes können wegen mündlicher oder schriftlicher Äusserungen in den Verhandlungen des Kantonsrates und seiner Kommissionen rechtlich nicht zur Verantwortung gezogen werden."
+      },
+      {
+        "num": "2",
+        "text": "Der Kantonsrat kann die Immunität aufheben, wenn sie missbraucht wird."
+      }
+    ],
+    "20": [
+      {
+        "num": "1",
+        "text": "In einer richterlichen oder vollziehenden Behörde dürfen nicht gleichzeitig Mitglieder sein: *"
+      },
+      {
+        "num": null,
+        "text": "a) zwei Personen, die miteinander verheiratet sind, in eingetragener Partnerschaft leben oder eine dauernde Lebensgemeinschaft führen; b) * Verwandte und Verschwägerte in gerader Linie oder bis zum dritten Grade in Seitenlinie; c) zwei Personen, deren Ehegatten, eingetragene Partnerinnen oder Partner Geschwister sind."
+      },
+      {
+        "num": "2",
+        "text": "Das Gleiche ist zu beachten zwischen Mitgliedern und Schreiberin oder Schreiber einer solchen Behörde. *"
+      }
+    ],
+    "21": [
+      {
+        "num": "1",
+        "text": "Die gesetzgebende, die vollziehende und die richterliche Gewalt sind getrennt. Keine Gewalt darf in den durch Verfassung oder Gesetz festgelegten Wirkungsbereich der anderen eingreifen."
+      },
+      {
+        "num": "2",
+        "text": "Niemand darf gleichzeitig Mitglied des Kantonsrates, des Regierungsrates oder eines Gerichtes sein."
+      },
+      {
+        "num": "3",
+        "text": "Die Leiter der Ämter und Abteilungen gemäss Gesetz über die Organisation der Staatsverwaltung, die Personen mit staatsanwaltschaftlichen Funktionen und Gerichtsschreiber sowie der Landschreiber dürfen nicht Mitglieder des Kantonsrates, des Regierungsrates oder eines Gerichtes sein. *"
+      },
+      {
+        "num": "4",
+        "text": "Das Gesetz kann weitere Unvereinbarkeiten vorsehen. *"
+      },
+      {
+        "num": "5",
+        "text": "Absatz 3 findet keine Anwendung auf die Wahl von Gerichtsschreibern als ausserordentliche Ersatzmitglieder eines Gerichts im Sinne von § 41 Bst. l Ziff. 5. *"
       }
     ],
     "22": [
@@ -509,6 +820,32 @@
         "text": "… *"
       }
     ],
+    "28": [
+      {
+        "num": "1",
+        "text": "Das Gesetz bestimmt für jede Gemeindeart den Kreis der Stimmberechtigten."
+      }
+    ],
+    "29": [
+      {
+        "num": "1",
+        "text": "Das Gesetz regelt die Einrichtung der Stimmregister und das Verfahren bei den Wahlen und Abstimmungen."
+      }
+    ],
+    "29a": [
+      {
+        "num": "1",
+        "text": "Die Transparenz in der Politik wird gewährleistet, indem"
+      },
+      {
+        "num": null,
+        "text": "a) die im Kantonsrat vertretenen politischen Parteien ihre Finanzierung offenlegen; b) die Finanzierung von bedeutenden Kampagnen im Hinblick auf kantonale Wahlen und Abstimmungen offengelegt werden; c) die vom Volk in öffentliche kantonale Ämter gewählten Personen ihre Interessenbindungen offenlegen."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt die Einzelheiten."
+      }
+    ],
     "30": [
       {
         "num": "1",
@@ -535,6 +872,63 @@
         "text": "Das Ergebnis der daherigen Abstimmung gilt zugleich als Standesstimme der Bundesverfassung."
       }
     ],
+    "33": [],
+    "34": [
+      {
+        "num": "1",
+        "text": "Gesetze und allgemeinverbindliche Kantonsratsbeschlüsse sowie Beschlüsse, die eine neue einmalige Ausgabe von mehr als 500000 Franken oder eine neue wiederkehrende Ausgabe von mehr als 50000 Franken im Jahr zur Folge haben, unterliegen der Volksabstimmung, wenn ein entsprechendes von 1500 Stimmberechtigten unterzeichnetes Begehren eingereicht wird (Referendum)."
+      },
+      {
+        "num": "2",
+        "text": "Die Referendumsfrist beträgt 60 Tage seit der amtlichen Veröffentlichung des Beschlusses des Kantonsrates."
+      },
+      {
+        "num": "3",
+        "text": "Die Stimmberechtigung ist gemeindeweise amtlich auszuweisen."
+      },
+      {
+        "num": "4",
+        "text": "Die Volksabstimmung kann ferner von einem Drittel der Mitglieder des Kantonsrates unmittelbar nach der Schlussabstimmung beschlossen werden (Behördenreferendum)."
+      },
+      {
+        "num": "5",
+        "text": "Die Volksabstimmung ist innert sechs Monaten nach der Einreichung der Unterschriften bei der Staatskanzlei bzw. nach der Beschlussfassung im Kantonsrat durchzuführen. Findet innert drei Monaten nach Ablauf dieser Frist ein eidgenössischer oder kantonaler Urnengang statt, kann die Abstimmung mit diesem zusammengelegt werden."
+      },
+      {
+        "num": "6",
+        "text": "Dem Kantonsrat steht das Recht zu, ein Gesetz oder einen Beschluss in seiner Gesamtheit oder nach Sachgebieten getrennt zur Abstimmung vorzulegen."
+      }
+    ],
+    "35": [
+      {
+        "num": "1",
+        "text": "2000 Stimmberechtigte können unterschriftlich das Begehren um Erlass, Aufhebung oder Änderung eines Gesetzes oder eines Kantonsratsbeschlusses stellen (Gesetzesinitiative) sowie die Einreichung einer Standesinitiative beim Bund verlangen. Ausgenommen sind Beschlüsse, die ausschliesslich in die Zuständigkeit des Kantonsrates fallen."
+      },
+      {
+        "num": "2",
+        "text": "Solche Begehren können in der Form der allgemeinen Anregung oder des formulierten Entwurfs eingebracht werden. Sie dürfen sich nur auf ein einheitliches Sachgebiet beziehen (Einheit der Materie). Die Initiativen müssen eine Rückzugsklausel enthalten."
+      },
+      {
+        "num": "3",
+        "text": "Die Stimmberechtigung ist gemeindeweise amtlich auszuweisen."
+      },
+      {
+        "num": "4",
+        "text": "Der Kantonsrat nimmt an seiner ersten Sitzung nach der Einreichung der Unterschriften von der Initiative Kenntnis. Er hat sie innert Jahresfrist abschliessend zu behandeln. Ausnahmsweise kann er die Frist aufgrund eines Zwischenberichts seiner vorberatenden Kommission um längstens sechs Monate erstrecken."
+      },
+      {
+        "num": "5",
+        "text": "Der Kantonsrat hat zu entscheiden, ob er einer Initiative entsprechen oder ob er sie ablehnen will. Entspricht er dem Begehren nicht, ist innert sechs Monaten seit der Schlussabstimmung eine Volksabstimmung durchzuführen. Findet innert drei Monaten nach Ablauf dieser Frist ein eidgenössischer oder kantonaler Urnengang statt, kann die Abstimmung mit diesem zusammengelegt werden."
+      },
+      {
+        "num": "6",
+        "text": "Lehnt der Kantonsrat die Initiative ab, hat er dem Volk die Verwerfung des Begehrens zu beantragen oder der Initiative einen Gegenvorschlag in Form der allgemeinen Anregung oder des ausgearbeiteten Entwurfs gegenüberzustellen."
+      },
+      {
+        "num": "7",
+        "text": "Nimmt das Volk eine Initiative oder einen Gegenvorschlag in Form der allgemeinen Anregung an, ist der entsprechende Erlass innert drei Jahren seit der Abstimmung unter dem Vorbehalt des Referendums in Kraft zu setzen. Der Kantonsrat kann diese Frist aufgrund eines Zwischenberichts ausnahmsweise um längstens ein Jahr erstrecken."
+      }
+    ],
     "36": [
       {
         "num": "1",
@@ -555,6 +949,25 @@
         "text": "Alle Volksbegehren sind der Stempelpflicht enthoben. Für Beglaubigung der Stimmberechtigung dürfen keine Gebühren bezogen werden."
       }
     ],
+    "38": [
+      {
+        "num": "1",
+        "text": "Die gesetzgebende und aufsehende Gewalt übt der Kantonsrat aus. Derselbe besteht aus 80 Mitgliedern. *"
+      },
+      {
+        "num": "2",
+        "text": "Die Gesamterneuerungswahlen des Kantonsrats richten sich nach dem Grundsatz des proportionalen Wahlverfahrens. *"
+      },
+      {
+        "num": "3",
+        "text": "Wahlkreise sind die Einwohnergemeinden. Die Zahl der Kantonsratssitze der Wahlkreise wird durch einfachen Kantonsratsbeschluss nach Massgabe der nachgeführten Bevölkerungsstatistik (im Vorjahr veröffentlichte Zahlen des Bundes der ständigen Wohnbevölkerung) festgelegt. Jedem Wahlkreis werden mindestens zwei Sitze zugeteilt. *"
+      },
+      {
+        "num": "4",
+        "text": "Die Zuteilung der Sitze aufgrund der Stimmenzahlen erfolgt zuerst an die Parteien und politischen Gruppierungen entsprechend deren Wählerstärke im Kanton. Danach werden die Sitze der Parteien und politischen Gruppierungen auf die Wahlkreise nach Massgabe ihrer Sitzzahl gemäss Abs. 3 zugeteilt (doppeltproportionales Zuteilungsverfahren). *"
+      }
+    ],
+    "39": [],
     "40": [
       {
         "num": "1",
@@ -633,6 +1046,27 @@
         "text": "Die Geschäftsordnung des Regierungsrates wird durch ein vom Kantonsrate aufzustellendes Reglement [7] bestimmt."
       }
     ],
+    "49": [
+      {
+        "num": "1",
+        "text": "Ordentliche Schlichtungsbehörde ist der Friedensrichter."
+      },
+      {
+        "num": "2",
+        "text": "Jede Gemeinde wählt einen Friedensrichter und die vom Gesetz bestimmte Anzahl Ersatzleute."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz kann vorsehen, dass zwei oder mehrere Gemeinden einen gemeinsamen Friedensrichter einsetzen."
+      }
+    ],
+    "50": [
+      {
+        "num": "1",
+        "text": "Das Gesetz kann für bestimmte Streitsachen besondere Schlichtungsbehörden vorsehen."
+      }
+    ],
+    "51": [],
     "52": [
       {
         "num": "1",
@@ -681,12 +1115,14 @@
         "text": "Im Bereich der Verwaltungsgerichtsbarkeit kann es dem Kantonsrat den Erlass von Gesetzen und Beschlüssen vorschlagen."
       }
     ],
+    "55bis": [],
     "56": [
       {
         "num": "1",
         "text": "Das Gesetz regelt die Organisation der Jugendstrafrechtspflege. Es kann für diese besondere Gerichte vorsehen. *"
       }
     ],
+    "57": [],
     "58": [
       {
         "num": "1",
@@ -707,12 +1143,14 @@
         "text": "Das Gesetz bestimmt die Ausnahmen."
       }
     ],
+    "60": [],
     "61": [
       {
         "num": "1",
         "text": "Zu einem gültigen Rechtsspruch ist die Anwesenheit der festgesetzten Mitgliederzahl der Gerichte oder ihrer Abteilungen erforderlich."
       }
     ],
+    "62": [],
     "63": [
       {
         "num": "1",
@@ -723,6 +1161,12 @@
         "text": "Streitigkeiten aus Arbeitsverhältnissen von Behördemitgliedern und Mitarbeitern, die der Aufsicht des Obergerichts unterstehen, werden vom Verwaltungsgericht beurteilt. Zur Beurteilung von Streitigkeiten aus Arbeitsverhältnissen von Behördemitgliedern und Mitarbeitern, die der Aufsicht des Verwaltungsgerichts unterstehen, ist das Obergericht zuständig. *"
       }
     ],
+    "64": [],
+    "65": [],
+    "66": [],
+    "67": [],
+    "68": [],
+    "69": [],
     "70": [
       {
         "num": "1",
@@ -749,6 +1193,12 @@
         "text": "… *"
       }
     ],
+    "71": [
+      {
+        "num": "1",
+        "text": "Zur Bürgergemeinde gehören alle in dieser Gemeinde Heimatberechtigten."
+      }
+    ],
     "72": [
       {
         "num": "1",
@@ -769,6 +1219,26 @@
       {
         "num": "5",
         "text": "… *"
+      }
+    ],
+    "73": [
+      {
+        "num": "1",
+        "text": "Die Teilhaber an Korporationsgut bilden eine Korporationsgemeinde."
+      },
+      {
+        "num": "2",
+        "text": "Das Korporationsgut ist in seinem Bestand als unteilbares Gut zu erhalten; vorbehalten bleiben gemeinnützige Zuwendungen."
+      }
+    ],
+    "74": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden, ausgenommen die Korporationsgemeinden, erheben Steuern, wenn ihre Einnahmen zur Erfüllung ihrer Aufgaben nicht ausreichen."
+      },
+      {
+        "num": "2",
+        "text": "Das Gesetz regelt den Finanzausgleich unter den Gemeinden."
       }
     ],
     "75": [
@@ -825,6 +1295,38 @@
       {
         "num": "5",
         "text": "… *"
+      }
+    ],
+    "79": [
+      {
+        "num": "1",
+        "text": "Die Verfassung kann jederzeit ganz oder teilweise revidiert werden."
+      },
+      {
+        "num": "2",
+        "text": "Die Revision wird auf dem Weg der Gesetzgebung vorgenommen. Wird die Revision durch ein Volksbegehren verlangt (Verfassungsinitiative), gelten die Vorschriften über die Gesetzesinitiative."
+      },
+      {
+        "num": "3",
+        "text": "Die Verfassungsrevision unterliegt der obligatorischen Volksabstimmung."
+      },
+      {
+        "num": "4",
+        "text": "Dem Kantonsrat steht das Recht zu, eine Verfassungsrevision in ihrer Gesamtheit oder nach Sachgebieten getrennt zur Abstimmung vorzulegen."
+      }
+    ],
+    "80": [],
+    "81": [],
+    "82": [],
+    "83": [],
+    "84": [
+      {
+        "num": "1",
+        "text": "Zum Schutze der Bevölkerung und zur Abwehr unmittelbarer Gefahr sind auf dem Wege der Gesetzgebung notrechtliche Massnahmen vorzusehen für den Fall von Katastrophen, kriegerischen Ereignissen oder anderen Notlagen, die wegen ausserordentlicher sachlicher und zeitlicher Dringlichkeit im vorgeschriebenen Verfahren und mit den ordentlichen Mitteln nicht bewältigt werden können."
+      },
+      {
+        "num": "2",
+        "text": "In diesem Gesetz können dem Kantonsrat und dem Regierungsrat vorübergehend Befugnisse eingeräumt werden, die von der Verfassung abweichen. Die in Ausübung dieser Befugnisse getroffenen Anordnungen und Massnahmen sind, sofern sie nicht im ordentlichen Verfahren verlängert werden, aufzuheben, sobald die Voraussetzungen gemäss Absatz 1 nicht mehr gegeben sind."
       }
     ]
   }

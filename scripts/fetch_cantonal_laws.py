@@ -61,8 +61,8 @@ LEXWORK_HOSTS: dict[str, str] = {
     "SO": "bgs.so.ch",
     "TG": "www.rechtsbuch.tg.ch",
     "UR": "rechtsbuch.ur.ch",
-    "VS": "vs.clex.ch",
-    "ZG": "zg.clex.ch",
+    "VS": "lex.vs.ch",
+    "ZG": "bgs.zg.ch",
 }
 
 # SIL portals (GE, NE) — Word-generated HTML
@@ -189,8 +189,11 @@ def _walk_lexwork_tree(
         if not art_num:
             return
 
-        # Article heading
+        # Article heading — strip stray HTML (some cantons have footnote markup)
         heading = node.get("text", {}).get(lang, "")
+        if heading and "<" in heading:
+            heading = re.sub(r"<[^>]+>", "", heading).strip()
+        heading = heading.strip()
 
         # Collect paragraph texts from children
         para_parts: list[str] = []
@@ -307,8 +310,20 @@ def _extract_html_text_content(html_str: str) -> str:
 
 
 def _clean_article_number(raw: str) -> str:
-    """'Art.&nbsp;5a' → '5a', '§&nbsp;1' → '1', 'Artikel&nbsp;1' → '1'."""
+    """'Art.&nbsp;5a' → '5a', '§&nbsp;1' → '1', 'Artikel&nbsp;1' → '1'.
+
+    Also handles HTML in number field:
+    - '<sup>bis</sup>' → 'bis'
+    - '<strong>*</strong>' → '' (amendment marker)
+    """
     text = html_lib.unescape(raw)
+    # Convert <sup>bis</sup> to plain text suffix
+    text = re.sub(r"<sup>(\w+)</sup>", r"\1", text)
+    # Strip remaining HTML tags
+    text = re.sub(r"<[^>]+>", "", text)
+    # Remove amendment markers (* and similar)
+    text = re.sub(r"\s*\*+\s*$", "", text)
+    # Strip article prefix
     text = re.sub(r"^(?:Artikel|Art\.?|§)\s*", "", text).strip()
     return text
 
@@ -446,7 +461,129 @@ def _parse_sil_html(
     return articles, article_texts, title
 
 
-# ── MCP fallback (ZH, TI, SZ, VD, JU) ───────────────────────────
+# ── LexFind PDF fetcher (SZ, VD, JU, TI) ────────────────────────
+
+
+def fetch_lexfind_pdf(canton: str) -> Path:
+    """Download PDF from LexFind, parse with PyMuPDF locally."""
+    import fitz  # PyMuPDF
+
+    lang = CANTON_LANG[canton]
+    sr = CANTON_KV_SR[canton]
+    lexfind_id = CANTON_LEXFIND_ID[canton]
+
+    print(f"  {canton}: LexFind PDF (id={lexfind_id})...")
+    pdf_url = f"https://www.lexfind.ch/tol/{lexfind_id}/{lang}"
+    r = _http_get(pdf_url, accept="application/pdf")
+
+    if not r.content or not r.content.startswith(b"%PDF"):
+        raise RuntimeError(f"{canton}: not a PDF response from {pdf_url}")
+
+    doc = fitz.open(stream=r.content, filetype="pdf")
+    pages = [page.get_text() for page in doc]
+    doc.close()
+    full_text = "\n".join(pages)
+
+    # Segment into articles
+    articles, article_texts = _segment_pdf_articles(full_text, lang)
+
+    # Extract title from first page
+    first_lines = full_text.split("\n")[:20]
+    title = _guess_title_from_pdf(first_lines, canton)
+
+    out = save_cantonal_law(
+        canton=canton, title=title, sr_number=sr,
+        language=lang, articles=articles,
+        article_texts=article_texts, source="lexfind_pdf",
+    )
+    print(f"  -> {canton}: {len(articles)} articles (LexFind PDF)")
+    return out
+
+
+def _segment_pdf_articles(
+    text: str, lang: str,
+) -> tuple[list[dict], dict[str, list[dict]]]:
+    """Segment PDF text into articles using Art./§ markers."""
+    normalized = text.replace("\u00a0", " ").replace("\u2011", "-")
+
+    pattern = re.compile(
+        r"^\s*(?:Art\.|§|Artikel)\s*"
+        r"(\d+[a-z]?(?:bis|ter|quater|quinquies|sexies)?)"
+        r"\b\.?\s*",
+        re.MULTILINE,
+    )
+    matches = list(pattern.finditer(normalized))
+    if not matches:
+        return [], {}
+
+    articles: list[dict] = []
+    article_texts: dict[str, list[dict]] = {}
+
+    for i, m in enumerate(matches):
+        start = m.end()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(normalized)
+        body = normalized[start:end].strip()
+        art_num = m.group(1)
+
+        # Skip duplicates
+        if any(a["raw"] == art_num for a in articles):
+            continue
+
+        # Extract heading: first short line that starts with uppercase
+        heading = ""
+        lines = [ln.strip() for ln in body.split("\n") if ln.strip()]
+        if lines and len(lines[0]) < 80 and lines[0][0:1].isupper():
+            # Check it's not a numbered paragraph
+            if not re.match(r"^\d+\s", lines[0]):
+                heading = lines[0]
+                body = "\n".join(lines[1:]).strip()
+
+        # Also check line before the marker for ZH-style marginal notes
+        if not heading and i > 0:
+            prev_end = matches[i - 1].end() if i > 0 else 0
+            preceding = normalized[prev_end:m.start()].strip()
+            prev_lines = [
+                ln.strip() for ln in preceding.split("\n")
+                if ln.strip()
+            ]
+            if prev_lines:
+                tail = prev_lines[-1]
+                if (len(tail) < 80 and tail[0:1].isupper()
+                        and not tail.endswith((".", ":", ";", ","))):
+                    heading = tail
+
+        num_match = re.match(r"^(\d+)([a-z]*)$", art_num)
+        if not num_match:
+            continue
+
+        articles.append({
+            "number": int(num_match.group(1)),
+            "suffix": num_match.group(2),
+            "raw": art_num,
+            "title": heading,
+        })
+        article_texts[art_num] = parse_article_text(body)
+
+    return articles, article_texts
+
+
+def _guess_title_from_pdf(lines: list[str], canton: str) -> str:
+    """Extract law title from first lines of PDF text."""
+    title_patterns = [
+        r"Verfassung\s+des\s+Kantons\s+\w+",
+        r"Constitution\s+(?:du|de la)\s+.+",
+        r"Costituzione\s+della\s+.+",
+    ]
+    for line in lines:
+        line = line.strip()
+        for pat in title_patterns:
+            m = re.search(pat, line)
+            if m:
+                return m.group(0)
+    return f"Kantonsverfassung {canton}"
+
+
+# ── MCP fallback (ZH only) ──────────────────────────────────────
 
 
 async def _fetch_mcp(canton: str) -> Path:
@@ -726,6 +863,9 @@ def _http_get(
 # ── Orchestrator ─────────────────────────────────────────────────
 
 
+PDF_CANTONS = {"SZ", "TI", "VD", "JU"}
+
+
 def fetch_canton(canton: str) -> Path:
     """Fetch a canton's KV using the best available source."""
     canton = canton.upper()
@@ -733,8 +873,10 @@ def fetch_canton(canton: str) -> Path:
         return fetch_lexwork(canton)
     elif canton in SIL_CONFIG:
         return fetch_sil(canton)
+    elif canton in PDF_CANTONS:
+        return fetch_lexfind_pdf(canton)
     else:
-        # MCP fallback for ZH, TI, SZ, VD, JU
+        # MCP fallback for ZH (per-article fetching)
         return asyncio.run(_fetch_mcp(canton))
 
 

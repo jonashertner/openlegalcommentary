@@ -7,7 +7,7 @@
   "lexfind_id": 1209,
   "fetched_at": "2026-04-14",
   "source": "lexwork",
-  "article_count": 14,
+  "article_count": 52,
   "articles": [
     {
       "number": 1,
@@ -22,15 +22,57 @@
       "title": ""
     },
     {
+      "number": 3,
+      "suffix": "",
+      "raw": "3",
+      "title": ""
+    },
+    {
+      "number": 4,
+      "suffix": "",
+      "raw": "4",
+      "title": ""
+    },
+    {
       "number": 5,
       "suffix": "",
       "raw": "5",
       "title": ""
     },
     {
+      "number": 6,
+      "suffix": "",
+      "raw": "6",
+      "title": ""
+    },
+    {
+      "number": 7,
+      "suffix": "",
+      "raw": "7",
+      "title": ""
+    },
+    {
+      "number": 7,
+      "suffix": "bis",
+      "raw": "7bis",
+      "title": ""
+    },
+    {
+      "number": 7,
+      "suffix": "ter",
+      "raw": "7ter",
+      "title": ""
+    },
+    {
       "number": 8,
       "suffix": "",
       "raw": "8",
+      "title": ""
+    },
+    {
+      "number": 9,
+      "suffix": "",
+      "raw": "9",
       "title": ""
     },
     {
@@ -46,6 +88,18 @@
       "title": ""
     },
     {
+      "number": 12,
+      "suffix": "",
+      "raw": "12",
+      "title": ""
+    },
+    {
+      "number": 13,
+      "suffix": "",
+      "raw": "13",
+      "title": ""
+    },
+    {
       "number": 14,
       "suffix": "",
       "raw": "14",
@@ -58,9 +112,21 @@
       "title": ""
     },
     {
+      "number": 16,
+      "suffix": "",
+      "raw": "16",
+      "title": "<a class=\"footnote\" name=\"articletitle_text_fn_98858_2_1\" data-turbolinks=false href=\"#articletitle_text_fn_98858_2_1_c\">[1]</a>"
+    },
+    {
       "number": 17,
       "suffix": "",
       "raw": "17",
+      "title": ""
+    },
+    {
+      "number": 18,
+      "suffix": "",
+      "raw": "18",
       "title": ""
     },
     {
@@ -76,9 +142,93 @@
       "title": ""
     },
     {
+      "number": 20,
+      "suffix": "bis",
+      "raw": "20bis",
+      "title": ""
+    },
+    {
+      "number": 21,
+      "suffix": "",
+      "raw": "21",
+      "title": ""
+    },
+    {
+      "number": 22,
+      "suffix": "",
+      "raw": "22",
+      "title": ""
+    },
+    {
+      "number": 23,
+      "suffix": "",
+      "raw": "23",
+      "title": ""
+    },
+    {
+      "number": 24,
+      "suffix": "",
+      "raw": "24",
+      "title": ""
+    },
+    {
+      "number": 25,
+      "suffix": "",
+      "raw": "25",
+      "title": ""
+    },
+    {
+      "number": 26,
+      "suffix": "",
+      "raw": "26",
+      "title": ""
+    },
+    {
+      "number": 27,
+      "suffix": "",
+      "raw": "27",
+      "title": ""
+    },
+    {
+      "number": 28,
+      "suffix": "",
+      "raw": "28",
+      "title": ""
+    },
+    {
+      "number": 29,
+      "suffix": "",
+      "raw": "29",
+      "title": ""
+    },
+    {
+      "number": 29,
+      "suffix": "bis",
+      "raw": "29bis",
+      "title": ""
+    },
+    {
+      "number": 30,
+      "suffix": "",
+      "raw": "30",
+      "title": ""
+    },
+    {
       "number": 31,
       "suffix": "",
       "raw": "31",
+      "title": ""
+    },
+    {
+      "number": 32,
+      "suffix": "",
+      "raw": "32",
+      "title": ""
+    },
+    {
+      "number": 33,
+      "suffix": "",
+      "raw": "33",
       "title": ""
     },
     {
@@ -91,6 +241,84 @@
       "number": 35,
       "suffix": "",
       "raw": "35",
+      "title": ""
+    },
+    {
+      "number": 36,
+      "suffix": "",
+      "raw": "36",
+      "title": ""
+    },
+    {
+      "number": 37,
+      "suffix": "",
+      "raw": "37",
+      "title": ""
+    },
+    {
+      "number": 38,
+      "suffix": "",
+      "raw": "38",
+      "title": ""
+    },
+    {
+      "number": 39,
+      "suffix": "",
+      "raw": "39",
+      "title": ""
+    },
+    {
+      "number": 40,
+      "suffix": "",
+      "raw": "40",
+      "title": ""
+    },
+    {
+      "number": 41,
+      "suffix": "",
+      "raw": "41",
+      "title": "&hellip;"
+    },
+    {
+      "number": 42,
+      "suffix": "",
+      "raw": "42",
+      "title": "&hellip;"
+    },
+    {
+      "number": 43,
+      "suffix": "",
+      "raw": "43",
+      "title": ""
+    },
+    {
+      "number": 44,
+      "suffix": "",
+      "raw": "44",
+      "title": ""
+    },
+    {
+      "number": 45,
+      "suffix": "",
+      "raw": "45",
+      "title": ""
+    },
+    {
+      "number": 46,
+      "suffix": "",
+      "raw": "46",
+      "title": ""
+    },
+    {
+      "number": 47,
+      "suffix": "",
+      "raw": "47",
+      "title": ""
+    },
+    {
+      "number": 48,
+      "suffix": "",
+      "raw": "48",
       "title": ""
     }
   ],
@@ -123,6 +351,26 @@
         "text": "Das Lotteriemonopol steht, soweit es nicht von Bundesrechts wegen eingeschränkt ist, dem Kanton zu. *"
       }
     ],
+    "3": [
+      {
+        "num": "1",
+        "text": "Die römisch-katholische und die evangelisch-reformierte Kirche sind als Körperschaften öffentlichen Rechts anerkannt. Sie regeln ihre inneren Angelegenheiten selbstständig."
+      }
+    ],
+    "4": [
+      {
+        "num": "1",
+        "text": "Das Eigentum jeder Art, gehöre es Privaten, Gesellschaften, vom Staate anerkannten Korporationen und Stiftungen oder Gemeinden, ist unverletzlich."
+      },
+      {
+        "num": "2",
+        "text": "Für Zwecke, die im Interesse des Kantons oder einer Landesgegend liegen, kann gegen volle Entschädigung die Abtretung oder die Belastung von Eigentum verlangt werden. Die Enteignung ist jedoch nur zulässig, sofern und soweit sie zur Erreichung des Zweckes erforderlich und eine gütliche Einigung nicht oder nur unter unverhältnismässigem Kostenaufwand möglich ist."
+      },
+      {
+        "num": "3",
+        "text": "Nähere Bestimmungen trifft die Gesetzgebung."
+      }
+    ],
     "5": [
       {
         "num": "1",
@@ -137,10 +385,88 @@
         "text": "… *"
       }
     ],
+    "6": [
+      {
+        "num": "1",
+        "text": "Niemand darf seinem verfassungsmässigen Richter entzogen werden."
+      },
+      {
+        "num": "2",
+        "text": "Es ist den Parteien unbenommen, in beidseitigem Einverständnis für den Entscheid von Rechtsstreitigkeiten Schiedsgerichte anzurufen."
+      }
+    ],
+    "7": [
+      {
+        "num": "1",
+        "text": "Alle Kantonseinwohner, sowie Genossenschaften und Ortskreise haben das Recht, an die Orts- und Kantonsbehörden ihre Wünsche und Verlangen zu stellen."
+      }
+    ],
+    "7bis": [
+      {
+        "num": "1",
+        "text": "Jeder Stimmberechtigte kann durch Einreichung einer Initiative nach Massgabe der folgenden Bestimmungen die Abänderung der Verfassung sowie den Erlass, die Abänderung oder die Aufhebung von Gesetzen beantragen."
+      },
+      {
+        "num": "2",
+        "text": "Die Initiative kann als allgemeine Anregung oder, wenn dadurch nicht die Totalrevision der Verfassung verlangt wird, als ausgearbeiteter Entwurf eingebracht werden. Sie darf sich nur auf ein bestimmtes Sachgebiet beziehen. Genügt sie dieser Anforderung nicht, so sind die einzelnen in ihr enthaltenen Sachgebiete getrennt zu behandeln."
+      },
+      {
+        "num": "3",
+        "text": "Mit der Initiative darf nichts verlangt werden, was dem Bundesrecht oder, soweit sie nicht deren Abänderung zum Gegenstand hat, der Kantonsverfassung widerspricht."
+      },
+      {
+        "num": "4",
+        "text": "Erfolgt die Initiative in der Form der allgemeinen Anregung und ist der Grosse Rat mit derselben einverstanden, so arbeitet er einen entsprechenden Entwurf aus und unterbreitet diesen der Landsgemeinde zur Annahme oder Verwerfung. Lehnt der Grosse Rat die allgemeine Anregung ab, so legt er diese samt einem allfälligen Gegenvorschlag der Landsgemeinde vor. Stimmt die Landsgemeinde der Initiative oder dem Gegenvorschlag zu, so arbeitet der Grosse Rat einen Entwurf im Sinne des Landsgemeindebeschlusses aus und unterbreitet diesen der Landsgemeinde zur Annahme oder Verwerfung."
+      },
+      {
+        "num": "5",
+        "text": "Die Initiative in der Form des ausgearbeiteten Entwurfes ist der Landsgemeinde zu unterbreiten. Der Grosse Rat kann ihr einen Gegenvorschlag gegenüberstellen, der gleichzeitig mit der Initiative zur Abstimmung zu bringen ist."
+      },
+      {
+        "num": "6",
+        "text": "Initiativen sind bis 31. Mai schriftlich dem Grossen Rat zur Prüfung und Begutachtung einzureichen. Sie sind der nächsten ordentlichen Landsgemeinde vorzulegen; Entwürfe, die der Grosse Rat aufgrund einer Vorabstimmung im Sinne von Abs. 4 auszuarbeiten hat, sind der auf die Vorabstimmung folgenden ordentlichen Landsgemeinde zu unterbreiten. Diese Fristen kann der Grosse Rat mit einer Mehrheit von zwei Dritteln seiner Mitglieder höchstens um zwei Jahre verlängern, wenn es besondere Umstände erfordern, wie die Ausarbeitung neuer Gesetze oder grösserer Revisionen von Verfassung oder Gesetzen oder grösserer Gegenvorschläge. *"
+      },
+      {
+        "num": "7",
+        "text": "Das weitere Verfahren für die Ausübung des Initiativrechtes kann durch Erlass des Grossen Rates geregelt werden."
+      }
+    ],
+    "7ter": [
+      {
+        "num": "1",
+        "text": "Freie Beschlüsse des Grossen Rates über einmalige Ausgaben von wenigstens Fr. 1'000'000.-- oder während mindestens 4 Jahren wiederkehrende Leistungen von wenigstens Fr. 250'000.-- unterstehen dem obligatorischen Referendum. *"
+      },
+      {
+        "num": "2",
+        "text": "200 stimmberechtigte Kantonseinwohner können über einen freien Grossratsbeschluss den Entscheid der Landsgemeinde verlangen, wenn der Beschluss zulasten des Staates für den gleichen Gegenstand eine einmalige neue Ausgabe von wenigstens Fr. 500'000.-- oder eine während mindestens 4 Jahren wiederkehrende Leistung von wenigstens Fr. 125'000.-- bewirkt. Ausgaben für die Besoldung des Staatspersonals sind diesem fakultativen Referendum entzogen. *"
+      },
+      {
+        "num": "3",
+        "text": "Ein referendumsfähiger Beschluss erwächst in Rechtskraft, wenn nicht innert 30 Tagen seit dessen amtlicher Publikation ein rechtsgültiges Begehren auf Herbeiführung eines Entscheides der Landsgemeinde zuhanden der Standeskommission eingereicht worden ist."
+      },
+      {
+        "num": "4",
+        "text": "Ausgabenbeschlüsse des Grossen Rates unterstehen dem Referendum nicht, wenn der Vollzug keinen Aufschub erträgt. Über die Dringlichkeit entscheidet der Grosse Rat in geheimer Abstimmung. Der Beschluss bedarf einer Mehrheit von zwei Dritteln der Anwesenden."
+      },
+      {
+        "num": "5",
+        "text": "Das weitere Verfahren betreffend die Ausführung des fakultativen Referendums wird durch Erlass des Grossen Rates geregelt."
+      },
+      {
+        "num": "6",
+        "text": "… *"
+      }
+    ],
     "8": [
       {
         "num": "1",
         "text": "Jeder Kantonsbürger, sowie jeder im Kanton niedergelassene Schweizer ist nach Inhalt der Bundesbestimmungen wehrpflichtig."
+      }
+    ],
+    "9": [
+      {
+        "num": "1",
+        "text": "Änderungen des Steuersystems kommen einzig der Landsgemeinde zu."
       }
     ],
     "10": [
@@ -179,6 +505,22 @@
         "text": "… *"
       }
     ],
+    "12": [
+      {
+        "num": "1",
+        "text": "Das öffentliche Unterrichtswesen ist Sache des Staates. *"
+      },
+      {
+        "num": "2",
+        "text": "Der öffentliche obligatorische Volksschulunterricht ist unentgeltlich. Die entsprechenden Kosten haben die Schulgemeinden unter angemessener Beihilfe des Staates zu tragen, welcher die Vervollkommnung des Volksschulwesens im Auge hat."
+      }
+    ],
+    "13": [
+      {
+        "num": "1",
+        "text": "Über den Erwerb des Landrechtes entscheidet der Grosse Rat."
+      }
+    ],
     "14": [
       {
         "num": "1",
@@ -195,10 +537,42 @@
         "text": "Appenzell ist der Hauptort des Kantons und als solcher Sitz der Kantonsbehörden."
       }
     ],
+    "16": [
+      {
+        "num": "1",
+        "text": "An Landsgemeinden und an Gemeindeversammlungen sind alle im Kanton wohnhaften Schweizerbürgerinnen und Schweizerbürger stimmberechtigt, sofern sie das 18. Altersjahr vollendet haben und im Stimmregister eingetragen sind."
+      },
+      {
+        "num": "1",
+        "text": "bis Die Kirchgemeinden können das Stimm- und Wahlrecht für ausländische Gemeindemitglieder mit Niederlassungsbewilligung einführen. *"
+      },
+      {
+        "num": "2",
+        "text": "Vom Stimmrecht ist ausgeschlossen, wer wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft steht oder durch eine vorsorgebeauftragte Person vertreten wird. *"
+      },
+      {
+        "num": "3",
+        "text": "In Gemeindeangelegenheiten üben die Stimmberechtigten ihre Rechte am politischen Wohnsitz aus."
+      }
+    ],
     "17": [
       {
         "num": "1",
         "text": "Jeder Stimmberechtigte ist nicht bloss berechtigt, sondern auch verpflichtet, an allen Landsgemeinden und verfassungsmässigen öffentlichen Versammlungen teilzunehmen."
+      }
+    ],
+    "18": [
+      {
+        "num": "1",
+        "text": "Jeder Stimmberechtigte ist pflichtig, bis zum erfüllten 65. Altersjahr eine Wahl in die Standeskommission oder das Kantonsgericht, sowie Ämter, welche ihm durch den Grossen Rat, die Standeskommission, die Bezirks-, Kirchen- oder Schulgemeinde, ferner durch ein Gericht, den Bezirks-, Kirchen- oder Schulrat übertragen werden, anzunehmen. *"
+      },
+      {
+        "num": "2",
+        "text": "Von dieser Pflicht ist schon vor Erfüllung des 65. Altersjahres befreit, wer während zusammen mindestens acht Jahren Mitglied einer in Absatz 1 genannten Behörde war. Auch ist niemand verpflichtet, eine dieser Beamtungen während mehr als vier Jahren zu übernehmen. *"
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat ist Rekursbehörde. *"
       }
     ],
     "19": [
@@ -229,6 +603,202 @@
         "text": "a) dem regierenden Landammann, der als solcher nach zweijähriger Amtsdauer auf das folgende Jahr nicht wieder wählbar ist, b) dem stillstehenden Landammann, c) sowie Statthalter, Säckelmeister, Landeshauptmann, Bauherr und Landesfähnrich. 2. das Kantonsgericht, bestehend aus einem Präsidenten und zwölf Mitgliedern, wobei jeder Bezirk mit einem Mitglied vertreten sein muss. 3. * …"
       }
     ],
+    "20bis": [
+      {
+        "num": "1",
+        "text": "Die ordentliche Landsgemeinde wählt in den Jahren der Gesamterneuerung des Nationalrates den Vertreter des Kantons im schweizerischen Ständerat."
+      }
+    ],
+    "21": [
+      {
+        "num": "1",
+        "text": "Über die Landsgemeinde gelten im weitern noch folgende Bestimmungen: 1. sie nimmt einen Bericht über die kantonalen Amtsverwaltungen entgegen; 2. ausserordentlich einberufene Landsgemeinden können nur über den oder die Gegenstände, wegen deren die Einberufung geschehen ist, abstimmen."
+      }
+    ],
+    "22": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat hat 50 Sitze."
+      },
+      {
+        "num": "2",
+        "text": "Jedem Bezirk werden zunächst vier Sitze zugewiesen, unter jeweiliger Anrechnung von 4/50 der Gesamteinwohnerzahl. Die restlichen 30 Sitze werden proportional zu den Restbevölkerungszahlen zugewiesen, unter Abrundung von Bruchteilen. Restmandate werden den Bezirken der Grösse der abgerundeten Bruchteile nach zugewiesen, bei Gleichheit entscheidet das Los. *"
+      },
+      {
+        "num": "3",
+        "text": "Grundlage für die Zuweisung bildet die Bevölkerungszahl gemäss kantonaler Einwohnerkontrolle am letzten Tag des Vorjahres zum Erneuerungswahljahr."
+      },
+      {
+        "num": "4",
+        "text": "Die Standeskommission weist den Bezirken die Sitze zu. Über Anstände entscheidet der Grosse Rat endgültig."
+      }
+    ],
+    "23": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat versammelt sich ordentlicherweise fünfmal im Jahr."
+      },
+      {
+        "num": "2",
+        "text": "Er versammelt sich ausserordentlicherweise, wenn der Präsident des Grossen Rates oder die Standeskommission dies für notwendig erachten oder wenn 10 Mitglieder des Grossen Rates dies verlangen. *"
+      },
+      {
+        "num": "3",
+        "text": "Sitzungsort ist Appenzell. Der Rat kann einen anderen Sitzungsort fallweise beschliessen."
+      }
+    ],
+    "24": [
+      {
+        "num": "1",
+        "text": "Die Einberufung zur ersten Sitzung einer neuen Amtsdauer erfolgt durch die Standeskommission. Bis zur Wahl des Präsidenten des Grossen Rates leitet das älteste Mitglied desselben die Verhandlungen."
+      },
+      {
+        "num": "2",
+        "text": "Die Sitzungen des Grossen Rates sind in der Regel öffentlich. Geheime Sitzungen finden statt bei der Behandlung von Begnadigungsgesuchen und in besonderen Fällen auf Beschluss des Rates."
+      },
+      {
+        "num": "3",
+        "text": "Der Grosse Rat erlässt auf dem Verordnungsweg ein Geschäftsreglement."
+      }
+    ],
+    "25": [
+      {
+        "num": "1",
+        "text": "Die Mitglieder der Standeskommission haben bei den Verhandlungen des Grossen Rates beratende Stimme und Antragsrecht."
+      }
+    ],
+    "26": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat bestimmt die Geschäftsordnung der Landsgemeinde."
+      },
+      {
+        "num": "2",
+        "text": "Er legt derselben Verfassungs- und Gesetzesentwürfe vor; ferner prüft er die Anträge, welche von der Standeskommission, von andern Behörden oder einzelnen Stimmfähigen, sei es zur Erledigung durch den Rat oder zur Vorlage an die Landsgemeinde, vorgebracht werden."
+      },
+      {
+        "num": "3",
+        "text": "Landsgemeindevorlagen sind dem Grossen Rat spätestens auf die drittletzte ordentliche Session vor der Landsgemeinde zu unterbreiten. Für dringliche oder einfache Vorlagen kann der Rat mit einer Mehrheit von zwei Dritteln seiner Mitglieder eine Ausnahme beschliessen."
+      }
+    ],
+    "27": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat erlässt Verordnungen und Reglemente zum Vollzug der Gesetzgebung des Kantons, in untergeordneten Fällen auch des Bundes."
+      },
+      {
+        "num": "2",
+        "text": "Er legt die Grenzen der Bezirke und Gemeinden fest."
+      },
+      {
+        "num": "3",
+        "text": "Er beschliesst über den Beitritt zu Konkordaten, entscheidet über deren Abänderung und deren Kündigung und kann den Vollzug regeln. *"
+      },
+      {
+        "num": "4",
+        "text": "Er entscheidet, ob namens des Kantons das Referendum (Art. 141 Abs. 1 BV) oder die Initiative (Art. 160 Abs. 1 BV) ergriffen werden soll."
+      }
+    ],
+    "28": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat entscheidet über Gesuche um Begnadigung in den vom Gesetz vorgesehenen Fällen."
+      },
+      {
+        "num": "2",
+        "text": "Er erteilt das Landrecht."
+      }
+    ],
+    "29": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat überwacht den Geschäftsgang aller Behörden. Er kann die Rechte und Pflichten der kantonalen Behörden und Angestellten regeln sowie die kantonale Verwaltungsorganisation festlegen, einschliesslich des Gebührenwesens. Er regelt für die kantonale Versicherungskasse das Erforderliche. *"
+      },
+      {
+        "num": "2",
+        "text": "Er nimmt die durch die Standeskommission und das Kantonsgericht einzulegenden sowie die übrigen in der Gesetzgebung vorgesehenen Jahresberichte in Empfang."
+      },
+      {
+        "num": "3",
+        "text": "Er entscheidet über das Mass der Steueranlagen."
+      },
+      {
+        "num": "4",
+        "text": "Er setzt den Voranschlag über Einnahmen und Ausgaben sämtlicher kantonaler Verwaltungen und Gerichte auf je ein Verwaltungsjahr fest. *"
+      },
+      {
+        "num": "5",
+        "text": "Er prüft und genehmigt alljährlich die Staatsrechnung. *"
+      }
+    ],
+    "29bis": [
+      {
+        "num": "1",
+        "text": "Der Grosse Rat wählt auf einjährige Dauer:"
+      },
+      {
+        "num": null,
+        "text": "a) den Präsidenten, den Vizepräsidenten und drei Stimmenzähler; b) seine Kommissionen."
+      },
+      {
+        "num": "2",
+        "text": "Er wählt den Präsidenten der Bezirksgerichte und erlässt für diesen eine Anstellungsordnung."
+      },
+      {
+        "num": "3",
+        "text": "Weitere Wahlen nimmt er vor, soweit er nach Gesetz oder Verordnung zuständig ist."
+      }
+    ],
+    "30": [
+      {
+        "num": "1",
+        "text": "Die Standeskommission besteht aus den in Art. 20 Abs. 2 Ziff. 1 bezeichneten und durch die Landsgemeinde gewählten Mitgliedern, die weder dem Grossen Rat noch einem Bezirksrat noch einem Gericht oder einer Ortsbehörde angehören dürfen."
+      },
+      {
+        "num": "2",
+        "text": "Sie verteilt die Regierungsgeschäfte unter ihre Mitglieder."
+      },
+      {
+        "num": "3",
+        "text": "Sie vollzieht die Gesetze und Beschlüsse der Landsgemeinde sowie die Verordnungen und Beschlüsse des Grossen Rates. *"
+      },
+      {
+        "num": "4",
+        "text": "Sie besorgt den diplomatischen Verkehr."
+      },
+      {
+        "num": "5",
+        "text": "Sie erledigt alle Geschäfte, die einer Regierung als solcher zufallen und nicht ausdrücklich einer andern verfassungsmässigen Behörde zugewiesen sind."
+      },
+      {
+        "num": "6",
+        "text": "Sie erlässt die nötigen Bestimmungen über das Niederlassungs- und Aufenthaltswesen."
+      },
+      {
+        "num": "7",
+        "text": "Sie überwacht insbesondere das Kirchenwesen sowie die Verwaltung der genossenschaftlichen Nutzungsgüter."
+      },
+      {
+        "num": "8",
+        "text": "Sie sorgt für beförderliche Erledigung der nach Massgabe der Gesetzgebung an sie gerichteten Beschwerden bezüglich die Rechtspflege und die Tätigkeit der Ortsbehörden."
+      },
+      {
+        "num": "9",
+        "text": "Sie schliesst Programmvereinbarungen mit dem Bund ab. Übersteigen die mit einer Programmvereinbarung einzugehenden finanziellen Verpflichtungen die Beträge von Art. 7 ter der Kantonsverfassung oder macht der Abschluss einer Vereinbarung Verfassungs-, Gesetzes- oder Verordnungsänderungen notwendig, ist diese dem Grossen Rat bzw. der Landsgemeinde vorzulegen. Der Grosse Rat ist in diesen Fällen in die Verhandlungen miteinzubeziehen."
+      },
+      {
+        "num": "10",
+        "text": "In die Standeskommission und die Gerichte können nicht zugleich Einsitz nehmen:"
+      },
+      {
+        "num": null,
+        "text": "a) Zwei Personen, die miteinander verheiratet sind, in eingetragener Partnerschaft leben oder eine faktische Lebensgemeinschaft führen. Die Auflösung der Ehe bzw. der eingetragenen Partnerschaft hebt den Ausschliessungsgrund nicht auf; b) Verwandte in gerader Linie oder bis zum zweiten Grade in der Seitenlinie; c) Verschwägerte in gerader Linie."
+      },
+      {
+        "num": "11",
+        "text": "In wichtigeren Fällen können die regierenden oder sämtliche Hauptleute der Bezirke beigezogen werden."
+      }
+    ],
     "31": [
       {
         "num": "1",
@@ -237,6 +807,54 @@
       {
         "num": "2",
         "text": "Zur gültigen Beschlussfassung ist die Anwesenheit von vier Mitgliedern erforderlich."
+      }
+    ],
+    "32": [
+      {
+        "num": "1",
+        "text": "Der regierende Landammann führt das Präsidium der Landsgemeinde und der Standeskommission."
+      },
+      {
+        "num": "2",
+        "text": "Er unterzeichnet die von diesen Behörden ausgehenden Akten und bewahrt das Standessiegel auf."
+      },
+      {
+        "num": "3",
+        "text": "Die Ratskanzlei ist seinen Anordnungen unmittelbar untergeben; er wacht über die Ausführung der von der Standeskommission gefassten Beschlüsse. *"
+      },
+      {
+        "num": "4",
+        "text": "In Verhinderungsfällen wird er durch den stillstehenden Landammann vertreten."
+      }
+    ],
+    "33": [
+      {
+        "num": "1",
+        "text": "Die Bezirksgemeinde besteht aus allen im Bezirk wohnhaften, nach Art. 16 stimmberechtigten Kantons- und Schweizerbürgern."
+      },
+      {
+        "num": "2",
+        "text": "Sie findet alljährlich eine Woche nach der ordentlichen Landsgemeinde statt."
+      },
+      {
+        "num": "3",
+        "text": "Sie wählt den regierenden und den stillstehenden Hauptmann, die übrigen Mitglieder des Bezirksrates sowie ein Mitglied des Bezirksgerichts."
+      },
+      {
+        "num": "4",
+        "text": "Sie nimmt in den Jahren der Gesamterneuerungswahlen des Nationalrates die Wahl der dem Bezirk zustehenden Mitglieder des Grossen Rates gemäss Art. 22 vor."
+      },
+      {
+        "num": "5",
+        "text": "In Bezirken mit Urnenabstimmung finden die vorstehenden Wahlen spätestens am dritten Sonntag im Mai statt."
+      },
+      {
+        "num": "6",
+        "text": "Ausscheidende Mitglieder des Grossen Rates sind sobald als möglich zu ersetzen. Das neu gewählte Mitglied tritt in die Amtsdauer des ausscheidenden Mitgliedes ein."
+      },
+      {
+        "num": "7",
+        "text": "Die Bezirke können für die Wahl der Bezirksräte, der Mitglieder des Bezirksgerichts und der Vermittler eine höchstens vierjährige Amtsdauer beschliessen. *"
       }
     ],
     "34": [
@@ -249,6 +867,150 @@
       {
         "num": "1",
         "text": "Bei etwaigen in verschiedenen Wahlkreisen vorgekommenen Wahlen von Verwandten, die nach Art. 30 von gleichzeitiger Wahlfähigkeit ausgeschlossen sind, hat der im Range folgende Kreis eine Neuwahl zu treffen."
+      }
+    ],
+    "36": [
+      {
+        "num": "1",
+        "text": "Der Bezirksrat muss mindestens fünf Mitglieder zählen."
+      },
+      {
+        "num": "2",
+        "text": "Die Bezirksgemeinde kann die weiteren Zuständigkeiten im Rahmen eines Reglementes festlegen. *"
+      }
+    ],
+    "37": [
+      {
+        "num": "1",
+        "text": "Hauptleute und Räte sorgen für die Ausführung der hoheitlichen Verfügungen, die Vollstreckung der durch die Bezirksgemeinde ergangenen Beschlüsse sowie die Vorberatung der von der Behörde selbst oder von einzelnen an die Bezirksgemeinde zu bringenden Vorlagen."
+      }
+    ],
+    "38": [
+      {
+        "num": "1",
+        "text": "In jedem Bezirk besteht je ein Vermittleramt. Die Bezirksgemeinde wählt einen Vermittler. Das Nähere über Organisation, Geschäftsführung und Funktion des Vermittlers als Organ der Rechtspflege wird durch die Gesetzgebung bestimmt. *"
+      }
+    ],
+    "39": [
+      {
+        "num": "1",
+        "text": "Das Bezirksgericht ist das Gericht erster Instanz in den seiner Beurteilung unterstellten Straf- und Zivilsachen nach Massgabe der Gesetzgebung."
+      },
+      {
+        "num": "2",
+        "text": "Dem Bezirksgericht gehören neben dem Präsidenten die von den Bezirksgemeinden gewählten Richter an. Für den Einsatz von Zwangsmassnahmenrichtern kann der Grosse Rat eine interkantonale Vereinbarung abschliessen. *"
+      },
+      {
+        "num": "3",
+        "text": "Die Organisation des Bezirksgerichts wird durch das Gesetz bestimmt. *"
+      }
+    ],
+    "40": [
+      {
+        "num": "1",
+        "text": "Das Kantonsgericht ist als Zivil- und Strafgericht Berufungsinstanz gegen Erkenntnisse der Bezirksgerichte."
+      },
+      {
+        "num": "2",
+        "text": "Das Kantonsgericht ist als Verwaltungsgericht Beschwerdeinstanz gegen Verfügungen von Verwaltungsbehörden des Kantons auf dem Gebiete des Staats-, Verwaltungs- und Sozialversicherungsrechts."
+      },
+      {
+        "num": "3",
+        "text": "Die Organisation des Kantonsgerichtes wird durch das Gesetz bestimmt."
+      }
+    ],
+    "41": [],
+    "42": [],
+    "43": [
+      {
+        "num": "1",
+        "text": "Die Verhandlungen der Gerichte und die Urteilseröffnung sind öffentlich, soweit die Gesetzgebung nichts anderes bestimmt. *"
+      },
+      {
+        "num": "2",
+        "text": "Die Beschlussfähigkeit der Gerichte wird durch die Gesetzgebung geregelt."
+      },
+      {
+        "num": "3",
+        "text": "Die Protokollführung und der Kanzleidienst bei den Gerichten wird durch die Gesetzgebung geregelt."
+      }
+    ],
+    "44": [
+      {
+        "num": "1",
+        "text": "Die Mitglieder der Gerichte dürfen nicht gleichzeitig mehr als einer richterlichen Behörde im Kanton angehören. *"
+      },
+      {
+        "num": "2",
+        "text": "Die Mitglieder der Standeskommission, des Grossen Rates sowie die Bezirksräte können keiner richterlichen Behörde im Kanton angehören. *"
+      },
+      {
+        "num": "3",
+        "text": "Berufsmässige Parteivertreter sind als Vermittler nicht wählbar. *"
+      }
+    ],
+    "45": [
+      {
+        "num": "1",
+        "text": "Die gesamte Organisation der bürgerlichen, der Straf- und Verwaltungsrechtspflege und das Verfahren wird im Übrigen im Rahmen der Verfassung durch die Gesetzgebung geregelt. Diese kann auch ergänzende Bestimmungen aufstellen, soweit diese mit der Verfassung nicht in Widerspruch stehen."
+      },
+      {
+        "num": "2",
+        "text": "Die Beurteilung von Zivil- und Strafrechtsfällen (Übertretungen) kann durch die Gesetzgebung auch nicht richterlichen Behörden oder Amtsstellen übertragen werden. *"
+      }
+    ],
+    "46": [
+      {
+        "num": "1",
+        "text": "Die Kirch- und Schulgemeinden bestehen aus den nach Art. 16 Stimmfähigen."
+      },
+      {
+        "num": "2",
+        "text": "Sie versammeln sich ordentlicherweise einmal im Jahr; ausserordentlicherweise auf Einberufung ihrer Kirchen- und Schulräte hin."
+      },
+      {
+        "num": "3",
+        "text": "Sie wählen die Kirchen- und Schulräte. *"
+      },
+      {
+        "num": "4",
+        "text": "Die Kirchen- und Schulräte bestehen aus fünf bis neun Mitgliedern. *"
+      },
+      {
+        "num": "5",
+        "text": "Die Kirchgemeinden nehmen einen Jahresbericht über die Rechnungsführung ihrer Verwaltungen entgegen. Sie bestimmen ohne Angriff der Fonds über die Deckung der Ausgaben, welche aus den Einnahmen nicht bestritten werden können, ebenso über die Vornahme von wichtigeren Bauten."
+      },
+      {
+        "num": "6",
+        "text": "Durch Konkordat mit einem anderen Kanton kann bestimmt werden, dass die Einwohner der beiden Kantone, welche sich zur römisch-katholischen bzw. zur evangelisch-reformierten Konfession bekennen, von Kirchgemeinden im anderen Kanton als vollberechtigte und in allen Rechten und Pflichten stehende Kirchgenossen anerkannt werden. *"
+      }
+    ],
+    "47": [
+      {
+        "num": "1",
+        "text": "Den Kirchen- und Schulräten steht die Leitung der ihnen anheimgestellten Verwaltungen zu, besonders die gedeihliche Förderung der in diesen liegenden Zwecke."
+      }
+    ],
+    "48": [
+      {
+        "num": "1",
+        "text": "Die Verfassung kann jederzeit ganz oder teilweise abgeändert werden."
+      },
+      {
+        "num": "2",
+        "text": "Der Grosse Rat kann von sich aus der Landsgemeinde Entwürfe für Teilrevisionen vorlegen. Bei solchen ist über die einzelnen Sachgebiete, die nicht miteinander zusammenhängen, getrennt abzustimmen."
+      },
+      {
+        "num": "3",
+        "text": "Für Initiativen auf Teilrevision gelten die Bestimmungen von Art. 7 bis sinngemäss."
+      },
+      {
+        "num": "4",
+        "text": "Wird eine Totalrevision vom Grossen Rat oder auf dem Initiativwege beantragt, so hat die Landsgemeinde zunächst darüber zu entscheiden, ob eine solche vorzunehmen sei oder nicht. Beschliesst die Landsgemeinde die Totalrevision, so arbeitet der Grosse Rat eine neue Verfassung aus und unterbreitet sie spätestens der dritten auf die Vorabstimmung folgenden ordentlichen Landsgemeinde. Diese Frist kann an der zweiten auf die Vorabstimmung folgenden ordentlichen Landsgemeinde angemessen verlängert werden."
+      },
+      {
+        "num": "5",
+        "text": "Total- und Teilrevisionen der Verfassung sind vom Grossen Rat in zwei Lesungen zu behandeln."
       }
     ]
   }

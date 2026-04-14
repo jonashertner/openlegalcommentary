@@ -3,11 +3,11 @@
   "law_key": "sz-kv",
   "sr_number": "100.100",
   "language": "de",
-  "title": "SR Number:** 100.100",
+  "title": "Verfassung des Kantons Schwyz",
   "lexfind_id": 17525,
   "fetched_at": "2026-04-14",
-  "source": "mcp_lexfind_pdf",
-  "article_count": 60,
+  "source": "lexfind_pdf",
+  "article_count": 93,
   "articles": [
     {
       "number": 1,
@@ -169,7 +169,7 @@
       "number": 27,
       "suffix": "",
       "raw": "27",
-      "title": "B. Volkswahlen"
+      "title": "Die Stimmberechtigten wählen:"
     },
     {
       "number": 28,
@@ -368,6 +368,204 @@
       "suffix": "",
       "raw": "59",
       "title": "Verordnungen und Vereinbarungen"
+    },
+    {
+      "number": 60,
+      "suffix": "",
+      "raw": "60",
+      "title": "Rechtsprechung"
+    },
+    {
+      "number": 61,
+      "suffix": "",
+      "raw": "61",
+      "title": "Aufsicht"
+    },
+    {
+      "number": 62,
+      "suffix": "",
+      "raw": "62",
+      "title": "Notrecht"
+    },
+    {
+      "number": 63,
+      "suffix": "",
+      "raw": "63",
+      "title": "Kantonale Verwaltung"
+    },
+    {
+      "number": 64,
+      "suffix": "",
+      "raw": "64",
+      "title": "Grundsätze"
+    },
+    {
+      "number": 65,
+      "suffix": "",
+      "raw": "65",
+      "title": "Gerichtsbarkeit in Zivil- und Strafsachen"
+    },
+    {
+      "number": 66,
+      "suffix": "",
+      "raw": "66",
+      "title": "Verwaltungsrechtspflege"
+    },
+    {
+      "number": 67,
+      "suffix": "",
+      "raw": "67",
+      "title": "Justizaufsicht"
+    },
+    {
+      "number": 68,
+      "suffix": "",
+      "raw": "68",
+      "title": "Ausnahmen"
+    },
+    {
+      "number": 69,
+      "suffix": "",
+      "raw": "69",
+      "title": "Allgemeines"
+    },
+    {
+      "number": 70,
+      "suffix": "",
+      "raw": "70",
+      "title": "Bezirke"
+    },
+    {
+      "number": 71,
+      "suffix": "",
+      "raw": "71",
+      "title": "Gemeinden"
+    },
+    {
+      "number": 72,
+      "suffix": "",
+      "raw": "72",
+      "title": "Organisation"
+    },
+    {
+      "number": 73,
+      "suffix": "",
+      "raw": "73",
+      "title": "Zusammenarbeit"
+    },
+    {
+      "number": 74,
+      "suffix": "",
+      "raw": "74",
+      "title": "Bestandes- und Gebietsänderungen"
+    },
+    {
+      "number": 75,
+      "suffix": "",
+      "raw": "75",
+      "title": "B. Korporationen"
+    },
+    {
+      "number": 76,
+      "suffix": "",
+      "raw": "76",
+      "title": "Beschaffung von Mitteln"
+    },
+    {
+      "number": 77,
+      "suffix": "",
+      "raw": "77",
+      "title": "Grundsätze der Steuererhebung"
+    },
+    {
+      "number": 78,
+      "suffix": "",
+      "raw": "78",
+      "title": "Finanzhaushalt"
+    },
+    {
+      "number": 79,
+      "suffix": "",
+      "raw": "79",
+      "title": "Tätigkeits- und Finanzplanung"
+    },
+    {
+      "number": 80,
+      "suffix": "",
+      "raw": "80",
+      "title": "Finanzkontrolle"
+    },
+    {
+      "number": 81,
+      "suffix": "",
+      "raw": "81",
+      "title": "Finanzausgleich"
+    },
+    {
+      "number": 82,
+      "suffix": "",
+      "raw": "82",
+      "title": "Kirchen und Klöster"
+    },
+    {
+      "number": 83,
+      "suffix": "",
+      "raw": "83",
+      "title": "Staatskirchenrechtliche Körperschaften"
+    },
+    {
+      "number": 84,
+      "suffix": "",
+      "raw": "84",
+      "title": "Mitgliedschaft"
+    },
+    {
+      "number": 85,
+      "suffix": "",
+      "raw": "85",
+      "title": "Aufgaben und Pflichten"
+    },
+    {
+      "number": 86,
+      "suffix": "",
+      "raw": "86",
+      "title": "Kantonalkirchen"
+    },
+    {
+      "number": 87,
+      "suffix": "",
+      "raw": "87",
+      "title": "Kirchgemeinden"
+    },
+    {
+      "number": 88,
+      "suffix": "",
+      "raw": "88",
+      "title": "Rechtsschutz"
+    },
+    {
+      "number": 89,
+      "suffix": "",
+      "raw": "89",
+      "title": "IX. Änderung der Kantonsverfassung"
+    },
+    {
+      "number": 90,
+      "suffix": "",
+      "raw": "90",
+      "title": "Weitergeltung und Anpassung bisherigen Rechts"
+    },
+    {
+      "number": 91,
+      "suffix": "",
+      "raw": "91",
+      "title": "Politische Rechte"
+    },
+    {
+      "number": 92,
+      "suffix": "",
+      "raw": "92",
+      "title": "Inkrafttreten"
     }
   ],
   "article_texts": {
@@ -709,13 +907,13 @@
       {
         "num": "3",
         "text": "Auslandschweizerinnen und Auslandschweizer, die in eidgenössischen Angelegenheiten stimm- und wahlberechtigt sind, sind dies auch in kantonalen Angelegenheiten. 4 100.100"
+      },
+      {
+        "num": null,
+        "text": "B. Volkswahlen"
       }
     ],
     "27": [
-      {
-        "num": null,
-        "text": "Die Stimmberechtigten wählen:"
-      },
       {
         "num": null,
         "text": "a) die Mitglieder des Kantonsrates; b) die Mitglieder des Regierungsrates; c) die Schwyzer Mitglieder des National- und des Ständerates; d) die Mitglieder der Bezirks- und Gemeindeparlamente; e) die Mitglieder der Bezirks- und Gemeinderäte; f) die Mitglieder der Bezirksgerichte; g) die Mitglieder der weiteren der Volkswahl unterstellten Behörden."
@@ -889,6 +1087,10 @@
       {
         "num": null,
         "text": "Initiativ- und Referendumsrechts."
+      },
+      {
+        "num": null,
+        "text": "F. Volksrechte in Zweckverbänden"
       }
     ],
     "39": [
@@ -903,6 +1105,10 @@
       {
         "num": "2",
         "text": "Über die Mitgliedschaft in einem Zweckverband entscheiden die Stimmberechtigten."
+      },
+      {
+        "num": null,
+        "text": "G. Vernehmlassungen"
       }
     ],
     "40": [
@@ -1236,7 +1442,513 @@
       },
       {
         "num": "3",
-        "text": "Er erlässt die Vollzugsverordnungen. _… 33 more articles not shown. Total text length: 30,195 chars._"
+        "text": "Er erlässt die Vollzugsverordnungen."
+      }
+    ],
+    "60": [
+      {
+        "num": null,
+        "text": "Der Regierungsrat entscheidet über Wahlbeschwerden und Verwaltungsrechtsstreitigkeiten gemäss Gesetz."
+      }
+    ],
+    "61": [
+      {
+        "num": null,
+        "text": "Der Regierungsrat übt die Aufsicht über die Bezirke und Gemeinden sowie die öffentlich-rechtlichen Körperschaften aus."
+      }
+    ],
+    "62": [
+      {
+        "num": "1",
+        "text": "Der Regierungsrat kann ohne gesetzliche Grundlage Verordnungen erlassen oder Massnahmen ergreifen, um eingetretenen oder unmittelbar drohenden"
+      },
+      {
+        "num": null,
+        "text": "SRSZ 1.2.2019 11 100.100 schwerwiegenden Störungen der öffentlichen Ordnung und Sicherheit sowie sozialen Notständen zu begegnen."
+      },
+      {
+        "num": "2",
+        "text": "Notverordnungen müssen unverzüglich dem Kantonsrat zur Genehmigung unterbreitet werden. Sie fallen nach Ablauf eines Jahres dahin, wenn sie nicht ins ordentliche Recht überführt werden."
+      }
+    ],
+    "63": [
+      {
+        "num": "1",
+        "text": "Die kantonale Verwaltung:"
+      },
+      {
+        "num": null,
+        "text": "a) wendet das Recht an; b) bereitet die Geschäfte des Regierungsrates vor; c) erfüllt weitere Aufgaben, die der Regierungsrat ihr überträgt."
+      },
+      {
+        "num": "2",
+        "text": "Sie arbeitet nach anerkannten Grundsätzen der guten Verwaltungsführung."
+      },
+      {
+        "num": null,
+        "text": "D. Rechtspflege"
+      }
+    ],
+    "64": [
+      {
+        "num": "1",
+        "text": "Die Gerichte sprechen unabhängig, unparteiisch und verlässlich Recht."
+      },
+      {
+        "num": "2",
+        "text": "Sie sorgen für rasche und kostengünstige Verfahren."
+      },
+      {
+        "num": "3",
+        "text": "Sie streben die einvernehmliche Lösung von Konflikten an."
+      }
+    ],
+    "65": [
+      {
+        "num": "1",
+        "text": "Das Kantonsgericht ist die oberste richterliche Behörde des Kantons in Zivilund Strafsachen."
+      },
+      {
+        "num": "2",
+        "text": "Die erstinstanzliche Gerichtsbarkeit wird durch Bezirksgerichte ausgeübt."
+      }
+    ],
+    "66": [
+      {
+        "num": "1",
+        "text": "Das Verwaltungsgericht ist die oberste richterliche Behörde des Kantons in"
+      },
+      {
+        "num": null,
+        "text": "Verwaltungssachen."
+      },
+      {
+        "num": "2",
+        "text": "Für Anordnungen, die im Verwaltungsverfahren ergangen sind, gewährleistet das Gesetz mindestens eine Überprüfung durch eine unabhängige Beschwerdeinstanz."
+      }
+    ],
+    "67": [
+      {
+        "num": "1",
+        "text": "Das Kantonsgericht und das Verwaltungsgericht üben die Aufsicht über die ihnen unterstellten Justizbehörden aus."
+      },
+      {
+        "num": "2",
+        "text": "Die Aufsicht beschränkt sich auf den Geschäftsgang und die Justizverwaltung."
+      }
+    ],
+    "68": [
+      {
+        "num": null,
+        "text": "Das Gesetz kann für besondere Fälle weitere richterliche Behörden oder andere"
+      },
+      {
+        "num": null,
+        "text": "Zuständigkeiten vorsehen. 12 100.100"
+      },
+      {
+        "num": null,
+        "text": "VI. Körperschaften"
+      },
+      {
+        "num": null,
+        "text": "A. Bezirke und Gemeinden"
+      }
+    ],
+    "69": [
+      {
+        "num": "1",
+        "text": "Der Kanton gliedert sich in Bezirke und Gemeinden."
+      },
+      {
+        "num": "2",
+        "text": "Die Bezirke und Gemeinden sind selbständige Körperschaften des öffentlichen"
+      },
+      {
+        "num": null,
+        "text": "Rechts und im Rahmen des übergeordneten Rechts autonom."
+      },
+      {
+        "num": "3",
+        "text": "Das Gesetz bestimmt ihr Gebiet und ihren Namen."
+      }
+    ],
+    "70": [
+      {
+        "num": "1",
+        "text": "Die Bezirke umfassen das Gebiet einzelner oder mehrerer Gemeinden."
+      },
+      {
+        "num": "2",
+        "text": "Sie üben die staatlichen Tätigkeiten aus, die ihnen das kantonale Recht überträgt."
+      },
+      {
+        "num": "3",
+        "text": "Zur Bildung von Kreisen für die erstinstanzlichen Gerichte können die Bezirke unterteilt oder zusammengefasst werden."
+      }
+    ],
+    "71": [
+      {
+        "num": "1",
+        "text": "Die Gemeinden üben die staatlichen Tätigkeiten aus, die ihnen das kantonale"
+      },
+      {
+        "num": null,
+        "text": "Recht überträgt."
+      },
+      {
+        "num": "2",
+        "text": "Sie sind für die örtlichen Angelegenheiten zuständig, die keiner anderen Körperschaft zugewiesen sind."
+      }
+    ],
+    "72": [
+      {
+        "num": "1",
+        "text": "Bezirke und Gemeinden sind demokratisch organisiert."
+      },
+      {
+        "num": "2",
+        "text": "Sie können Parlamente einführen."
+      }
+    ],
+    "73": [
+      {
+        "num": "1",
+        "text": "Bezirke und Gemeinden arbeiten bei der Ausübung staatlicher Tätigkeit unter sich, mit dem Kanton und Gemeinden benachbarter Kantone zusammen."
+      },
+      {
+        "num": "2",
+        "text": "Sie können sich zur Ausübung bestimmter Tätigkeiten in Zweckverbänden zusammenschliessen, eine gemeinsame Einrichtung betreiben oder übereinkommen, dass ein Bezirk oder eine Gemeinde bestimmte Tätigkeiten für alle"
+      },
+      {
+        "num": null,
+        "text": "Beteiligten wahrnimmt."
+      },
+      {
+        "num": "3",
+        "text": "Bezirke und Gemeinden können durch Gesetz zur Zusammenarbeit verpflichtet werden, wenn wichtige öffentliche Interessen es erfordern und eine Tätigkeit nur so zweckmässig erfüllt werden kann."
+      }
+    ],
+    "74": [
+      {
+        "num": "1",
+        "text": "Bestandes- und Gebietsänderungen der Bezirke und Gemeinden erfolgen auf dem Wege der Gesetzgebung."
+      },
+      {
+        "num": null,
+        "text": "SRSZ 1.2.2019 13 100.100"
+      },
+      {
+        "num": "2",
+        "text": "Jede Gemeinde kann eine Gesetzesänderung verlangen, um ihren Bestand oder ihr Gebiet zu ändern."
+      },
+      {
+        "num": "3",
+        "text": "Die Gesetzesänderung kommt nur zustande, wenn jede betroffene Gemeinde zustimmt."
+      },
+      {
+        "num": null,
+        "text": "B. Korporationen"
+      }
+    ],
+    "75": [
+      {
+        "num": "1",
+        "text": "Korporationen sind selbständige Körperschaften des kantonalen öffentlichen"
+      },
+      {
+        "num": null,
+        "text": "Rechts."
+      },
+      {
+        "num": "2",
+        "text": "Ihr Bestand und ihre Selbstverwaltung im Rahmen der Rechtsordnung bleiben gewährleistet."
+      },
+      {
+        "num": "3",
+        "text": "Sie sorgen für die Werterhaltung ihrer Güter und verwalten und nutzen diese selbständig."
+      },
+      {
+        "num": null,
+        "text": "VII. Finanzen"
+      }
+    ],
+    "76": [
+      {
+        "num": null,
+        "text": "Kanton, Bezirke und Gemeinden beschaffen sich ihre Mittel insbesondere:"
+      },
+      {
+        "num": null,
+        "text": "a) durch die Erhebung von Steuern und anderen Abgaben; b) aus den Erträgnissen ihres Vermögens; c) aus Leistungen des Bundes und Dritter; d) durch die Aufnahme von Darlehen und Anleihen."
+      }
+    ],
+    "77": [
+      {
+        "num": "1",
+        "text": "Kanton, Bezirke und Gemeinden erheben die zur Ausübung ihrer Tätigkeit notwendigen Steuern."
+      },
+      {
+        "num": "2",
+        "text": "Bei der Ausgestaltung der Steuern beachten sie das Legalitätsprinzip, die"
+      },
+      {
+        "num": null,
+        "text": "Grundsätze der Allgemeinheit und Gleichmässigkeit der Besteuerung sowie die wirtschaftliche Leistungsfähigkeit."
+      },
+      {
+        "num": "3",
+        "text": "Die Steuern sind so zu bemessen, dass der Leistungswille und die Wettbewerbsfähigkeit erhalten bleiben und die Selbstvorsorge gefördert wird."
+      }
+    ],
+    "78": [
+      {
+        "num": "1",
+        "text": "Der Finanzhaushalt des Kantons, der Bezirke und Gemeinden ist gesetzmässig, sparsam, wirtschaftlich sowie auf Dauer ausgeglichen zu führen."
+      },
+      {
+        "num": "2",
+        "text": "Voranschlag und Rechnung richten sich nach den Grundsätzen der Transparenz, Vergleichbarkeit und Öffentlichkeit."
+      }
+    ],
+    "79": [
+      {
+        "num": "1",
+        "text": "Kanton, Bezirke und Gemeinden erstellen eine Finanzplanung und verknüpfen sie mit der Tätigkeitsplanung. 14 100.100"
+      },
+      {
+        "num": "2",
+        "text": "Die Ausgaben sind laufend auf Notwendigkeit, Zweckmässigkeit und Tragbarkeit zu überprüfen."
+      }
+    ],
+    "80": [
+      {
+        "num": null,
+        "text": "Die Finanzhaushalte werden durch unabhängige Organe kontrolliert."
+      }
+    ],
+    "81": [
+      {
+        "num": "1",
+        "text": "Der Kanton stellt den Finanzausgleich sicher."
+      },
+      {
+        "num": "2",
+        "text": "Er strebt damit ausgewogene Verhältnisse in der Steuerbelastung und in den"
+      },
+      {
+        "num": null,
+        "text": "Leistungen der Bezirke und Gemeinden an."
+      },
+      {
+        "num": null,
+        "text": "VIII. Staat und Kirchen"
+      }
+    ],
+    "82": [
+      {
+        "num": "1",
+        "text": "Der Staat respektiert das Selbstbestimmungsrecht der römisch-katholischen und der evangelisch-reformierten Kirche sowie der übrigen Religionsgemeinschaften."
+      },
+      {
+        "num": "2",
+        "text": "Die Religionsgemeinschaften unterstehen dem Privatrecht, soweit für sie keine staatskirchenrechtlichen Körperschaften bestehen."
+      },
+      {
+        "num": "3",
+        "text": "Stellung und Bestand der bestehenden Klöster und Ordensgemeinschaften bleiben gewährleistet."
+      }
+    ],
+    "83": [
+      {
+        "num": "1",
+        "text": "Zugunsten der römisch-katholischen und der evangelisch-reformierten Kirche bestehen Kantonalkirchen und Kirchgemeinden als selbständige Körperschaften des öffentlichen Rechts."
+      },
+      {
+        "num": "2",
+        "text": "Die stimmberechtigten Mitglieder der jeweiligen Kantonalkirche erlassen je ein"
+      },
+      {
+        "num": null,
+        "text": "Organisationsstatut. Die Statute werden vom Kantonsrat genehmigt, wenn sie dem Bundesrecht und dem kantonalen Recht nicht widersprechen."
+      },
+      {
+        "num": "3",
+        "text": "Die Kantonalkirchen unterstehen der Oberaufsicht des Kantons."
+      }
+    ],
+    "84": [
+      {
+        "num": "1",
+        "text": "Jede Person mit Wohnsitz im Kanton gehört den staatskirchenrechtlichen"
+      },
+      {
+        "num": null,
+        "text": "Körperschaften ihrer Konfession an, wenn sie die im jeweiligen Organisationsstatut genannten Voraussetzungen erfüllt."
+      },
+      {
+        "num": "2",
+        "text": "Der Austritt kann der zuständigen Kirchgemeinde jederzeit schriftlich erklärt werden."
+      }
+    ],
+    "85": [
+      {
+        "num": "1",
+        "text": "Staatskirchenrechtliche Körperschaften unterstützen die Kirchen in der Erfüllung ihrer Aufgaben. Sie können im Rahmen ihrer Rechtsordnungen weitere"
+      },
+      {
+        "num": null,
+        "text": "Aufgaben übernehmen."
+      },
+      {
+        "num": null,
+        "text": "SRSZ 1.2.2019 15 100.100"
+      },
+      {
+        "num": "2",
+        "text": "Sie organisieren sich nach demokratischen Grundsätzen und regeln das Stimmund Wahlrecht."
+      },
+      {
+        "num": "3",
+        "text": "Sie verwalten ihr Vermögen und ihre Einkünfte nach den staatlichen Grundsätzen einer geordneten Haushaltsführung."
+      }
+    ],
+    "86": [
+      {
+        "num": "1",
+        "text": "Die Kantonalkirchen können zur Erfüllung ihrer Tätigkeiten von ihren Kirchgemeinden gleichmässige Beiträge erheben."
+      },
+      {
+        "num": "2",
+        "text": "Sie sorgen für einen Finanzausgleich unter den Kirchgemeinden."
+      }
+    ],
+    "87": [
+      {
+        "num": "1",
+        "text": "In den Kirchgemeinden obliegen mindestens die Wahl der Organe, der Erlass von wichtigen Rechtssätzen, die Festsetzung des Voranschlages mit Steuerfuss und die Genehmigung der Rechnung den Stimmberechtigten."
+      },
+      {
+        "num": "2",
+        "text": "Für die Erfüllung kirchlicher Tätigkeiten können die Kirchgemeinden Steuern erheben."
+      },
+      {
+        "num": "3",
+        "text": "Die Steuerpflicht und -erhebung richten sich nach der staatlichen Steuergesetzgebung."
+      }
+    ],
+    "88": [
+      {
+        "num": "1",
+        "text": "Die Kantonalkirchen sorgen für einen Rechtsschutz ihrer Mitglieder und der"
+      },
+      {
+        "num": null,
+        "text": "Kirchgemeinden."
+      },
+      {
+        "num": "2",
+        "text": "Letztinstanzliche Entscheide der kantonalkirchlichen Behörden können nach"
+      },
+      {
+        "num": null,
+        "text": "Massgabe des kantonalen Rechts an das Verwaltungsgericht weitergezogen werden."
+      },
+      {
+        "num": "3",
+        "text": "Das Verwaltungsgericht übt die Rechtskontrolle aus."
+      },
+      {
+        "num": null,
+        "text": "IX. Änderung der Kantonsverfassung"
+      }
+    ],
+    "89": [
+      {
+        "num": "1",
+        "text": "Die Kantonsverfassung kann jederzeit ganz oder teilweise geändert werden."
+      },
+      {
+        "num": "2",
+        "text": "Eine Teilrevision kann eine einzelne oder mehrere sachlich zusammenhängende Bestimmungen umfassen."
+      },
+      {
+        "num": null,
+        "text": "X. Schlussbestimmungen"
+      }
+    ],
+    "90": [
+      {
+        "num": "1",
+        "text": "Die nach der bisherigen Verfassung beschlossenen Erlasse und Anordnungen bleiben in Kraft. Für ihre Änderung gilt die neue Verfassung. 16 100.100"
+      },
+      {
+        "num": "2",
+        "text": "Muss nach der neuen Verfassung neues Recht erlassen oder bestehendes"
+      },
+      {
+        "num": null,
+        "text": "Recht geändert werden, so hat dies ohne Verzug zu geschehen."
+      },
+      {
+        "num": "3",
+        "text": "Die Bestimmungen der bisherigen Verfassung über die Bezirke und Gemeinden gelten bis zum Erlass neuer gesetzlicher Bestimmungen weiter, sofern sie der neuen Verfassung nicht widersprechen."
+      }
+    ],
+    "91": [
+      {
+        "num": null,
+        "text": "Fasst der Kantonsrat vor dem Inkrafttreten der neuen Verfassung Beschlüsse, die dem Referendum unterstehen, so gilt für dieses die bisherige Verfassung."
+      }
+    ],
+    "92": [
+      {
+        "num": "1",
+        "text": "Der Kantonsrat bestimmt den Zeitpunkt des Inkrafttretens. 5"
+      },
+      {
+        "num": "2",
+        "text": "Die Verfassung wird im Amtsblatt veröffentlicht und nach Inkrafttreten in die"
+      },
+      {
+        "num": null,
+        "text": "Gesetzsammlung aufgenommen."
+      },
+      {
+        "num": "3",
+        "text": "Mit dem Inkrafttreten ist die Verfassung des eidgenössischen Standes Schwyz vom 23. Oktober 1898 aufgehoben."
+      },
+      {
+        "num": "1",
+        "text": "GS 22-136 mit Änderungen vom 17. Dezember 2014 (GS 24-27) und vom 25. Oktober 2017 (Transparenzinitiative, GS 25-22)."
+      },
+      {
+        "num": "2",
+        "text": "Angenommen in der Volksabstimmung vom 15. Mai 2011 mit 18 706 Ja gegen 12 588 Nein (Abl 2011 994). Von der Bundesversammlung mit Beschluss vom 14. März 2013 (BBl 2013 2621) und vom 3. März 2016 (BBl 2016 2301) gewährleistet."
+      },
+      {
+        "num": null,
+        "text": "Änderungen vom 17. Dezember 2014 in der Volksabstimmung vom 8. März 2015 angenommen mit 18 608 Ja gegen 16 142 Nein (Abl 2015 629)."
+      },
+      {
+        "num": null,
+        "text": "Änderungen vom 25. Oktober 2017 in der Volksabstimmung vom 4. März 2018 angenommen mit 27 702 Ja gegen 27 397 Nein (Abl 2018 565)."
+      },
+      {
+        "num": "3",
+        "text": "Von der Bundesversammlung mit Beschluss vom 22. März 2019 gewährleistet (BBl 2019 2861)."
+      },
+      {
+        "num": "4",
+        "text": "Abs. 3 von der Bundesversammlung mit Beschluss vom 3. März 2016 gewährleistet (BBl 2016 2301)."
+      },
+      {
+        "num": "5",
+        "text": "Am 1. Januar 2013 in Kraft getreten (Abl 2012 2962); Änderungen vom 17. Dezember 2014 am 8. März 2015 (Beschlussziffer II publiziert in Abl 2014 2821) und vom 25. Oktober 2017 am 4. März 2018 (Abl 2018 565) in Kraft getreten."
+      },
+      {
+        "num": null,
+        "text": "SRSZ 1.2.2019 17"
       }
     ]
   }
