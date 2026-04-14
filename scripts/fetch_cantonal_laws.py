@@ -191,8 +191,12 @@ def _walk_lexwork_tree(
 
         # Article heading — strip stray HTML (some cantons have footnote markup)
         heading = node.get("text", {}).get(lang, "")
-        if heading and "<" in heading:
+        if heading:
+            heading = html_lib.unescape(heading)
             heading = re.sub(r"<[^>]+>", "", heading).strip()
+            # Skip placeholder titles (repealed articles, footnote refs)
+            if heading in ("…", "...") or re.match(r"^\[?\d+\]?$", heading):
+                heading = ""
         heading = heading.strip()
 
         # Collect paragraph texts from children
