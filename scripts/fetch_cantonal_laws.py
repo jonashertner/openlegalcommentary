@@ -835,11 +835,18 @@ def parse_article_text(text: str) -> list[dict]:
                 })
                 continue
 
+        # Join continuation lines: either lowercase start, or
+        # previous paragraph doesn't end with sentence punctuation
+        prev_text = paragraphs[-1]["text"] if paragraphs else ""
+        prev_incomplete = prev_text and not prev_text.rstrip().endswith(
+            (".", ":", ";", "!", "?", "»")
+        )
+        starts_lower = line[0].islower()
+        is_letter_item = line.startswith("a.") or line.startswith("a)")
         is_continuation = (
             paragraphs
-            and not line[0].isupper()
-            and not line.startswith("a.")
-            and not line.startswith("a)")
+            and not is_letter_item
+            and (starts_lower or prev_incomplete)
         )
         if is_continuation:
             paragraphs[-1]["text"] += " " + line
@@ -848,6 +855,18 @@ def parse_article_text(text: str) -> list[dict]:
 
     if not paragraphs:
         paragraphs = [{"num": None, "text": text.strip()}]
+
+    # Remove trailing lines that look like next article's Randtitel:
+    # short, no sentence-ending punctuation, unnumbered
+    while (
+        len(paragraphs) > 1
+        and paragraphs[-1]["num"] is None
+        and len(paragraphs[-1]["text"]) < 60
+        and not paragraphs[-1]["text"].rstrip().endswith(
+            (".", ":", ";", "!", "?", "»", ")")
+        )
+    ):
+        paragraphs.pop()
 
     return paragraphs
 

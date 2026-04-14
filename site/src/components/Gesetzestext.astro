@@ -88,9 +88,11 @@ const cleanParagraphs = paragraphs.filter(p => {
       <div class="gesetzestext-label">
         <span>{t('gesetzestext.label', lang)}</span>
       </div>
-      <a href={resolvedFedlexUrl} target="_blank" rel="noopener" class="gesetzestext-source">
-        Fedlex &nearr;
-      </a>
+      {resolvedFedlexUrl && (
+        <a href={resolvedFedlexUrl} target="_blank" rel="noopener" class="gesetzestext-source">
+          Fedlex &nearr;
+        </a>
+      )}
     </div>
     <div class="gesetzestext-body">
       {cleanParagraphs.map((p) => {

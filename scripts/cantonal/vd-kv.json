@@ -1190,25 +1190,29 @@
       },
       {
         "num": "4",
-        "text": "Il a toutes les compétences, à l'exception de celles qui sont attribuées à la Confédération par la"
-      },
-      {
-        "num": null,
-        "text": "Constitution fédérale [B] ."
+        "text": "Il a toutes les compétences, à l'exception de celles qui sont attribuées à la Confédération par la Constitution fédérale [B] ."
       },
       {
         "num": "5",
-        "text": "Il est composé de communes et divisé en districts. [B] Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101 2"
+        "text": "Il est composé de communes et divisé en districts."
+      },
+      {
+        "num": null,
+        "text": "[B] Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101 2"
       }
     ],
     "2": [
       {
         "num": "1",
-        "text": "Les armoiries du canton consistent en un écusson blanc et vert avec la devise « Liberté et Patrie ». 101.01.ecuVD.jpg"
+        "text": "Les armoiries du canton consistent en un écusson blanc et vert avec la devise « Liberté et Patrie »."
+      },
+      {
+        "num": null,
+        "text": "101.01.ecuVD.jpg"
       },
       {
         "num": "2",
-        "text": "Les armoiries du Canton de Vaud sont : coupé, au 1 d'argent chargé des mots « Liberté et Patrie », rangés sur trois lignes, aux lettres d'or bordées de sable, au 2 de sinople. 101.01.gravure.jpg"
+        "text": "Les armoiries du Canton de Vaud sont : coupé, au 1 d'argent chargé des mots « Liberté et Patrie », rangés sur trois lignes, aux lettres d'or bordées de sable, au 2 de sinople."
       }
     ],
     "3": [
@@ -1230,7 +1234,7 @@
       },
       {
         "num": "2",
-        "text": "L'Etat participe à la création d'institutions intercantonales ou internationales dans le respect des intérêts des communautés locales et régionales; il encourage les collaborations entre communes. 3"
+        "text": "L'Etat participe à la création d'institutions intercantonales ou internationales dans le respect des intérêts des communautés locales et régionales; il encourage les collaborations entre communes."
       }
     ],
     "6": [
@@ -1284,15 +1288,7 @@
       },
       {
         "num": "14",
-        "text": "Modifié par le décret du 15.11.2022 entré en vigueur le 29.11.2022 4"
-      },
-      {
-        "num": null,
-        "text": "Titre II"
-      },
-      {
-        "num": null,
-        "text": "Droits fondamentaux"
+        "text": "Modifié par le décret du 15.11.2022 entré en vigueur le 29.11.2022 4 Titre II Droits fondamentaux"
       }
     ],
     "9": [
@@ -1360,7 +1356,7 @@
       },
       {
         "num": "3",
-        "text": "Le droit de fonder une famille est garanti. 5"
+        "text": "Le droit de fonder une famille est garanti."
       }
     ],
     "15": [
@@ -1424,7 +1420,7 @@
     "20": [
       {
         "num": "1",
-        "text": "La liberté des médias et le secret de rédaction sont garantis. 6"
+        "text": "La liberté des médias et le secret de rédaction sont garantis."
       }
     ],
     "21": [
@@ -1502,7 +1498,11 @@
     "27": [
       {
         "num": "1",
-        "text": "Toute personne a droit, dans une procédure judiciaire ou administrative, à ce que sa cause soit traitée équitablement et jugée dans un délai raisonnable. 7"
+        "text": "Toute personne a droit, dans une procédure judiciaire ou administrative, à ce que sa cause soit traitée équitablement et jugée dans un délai raisonnable."
+      },
+      {
+        "num": null,
+        "text": "7"
       },
       {
         "num": "2",
@@ -1568,7 +1568,7 @@
     "32": [
       {
         "num": "1",
-        "text": "Toute personne est libre d'exercer ses droits politiques sans encourir de préjudice. 8"
+        "text": "Toute personne est libre d'exercer ses droits politiques sans encourir de préjudice."
       }
     ],
     "33": [
@@ -1632,33 +1632,21 @@
       },
       {
         "num": null,
-        "text": "Titre III"
-      },
-      {
-        "num": null,
-        "text": "Tâches et responsabilité de l'état et des communes"
-      },
-      {
-        "num": null,
-        "text": "Chapitre I"
-      },
-      {
-        "num": null,
-        "text": "Principes"
+        "text": "Titre III Tâches et responsabilité de l'état et des communes Chapitre I Principes"
       }
     ],
     "39": [
       {
         "num": "1",
-        "text": "L'Etat et les communes assurent un service public. 9"
-      },
-      {
-        "num": "2",
-        "text": "En tenant compte de l'initiative et de la responsabilité individuelles, ils assument les tâches que la"
+        "text": "L'Etat et les communes assurent un service public."
       },
       {
         "num": null,
-        "text": "Constitution et la loi leur confient."
+        "text": "9"
+      },
+      {
+        "num": "2",
+        "text": "En tenant compte de l'initiative et de la responsabilité individuelles, ils assument les tâches que la Constitution et la loi leur confient."
       },
       {
         "num": "3",
@@ -1675,14 +1663,6 @@
       {
         "num": "1",
         "text": "L'Etat et les communes informent la population de leurs activités selon le principe de la transparence."
-      },
-      {
-        "num": null,
-        "text": "Chapitre II"
-      },
-      {
-        "num": null,
-        "text": "Justice, médiation et sécurité"
       }
     ],
     "42": [
@@ -1709,14 +1689,6 @@
       {
         "num": "2",
         "text": "L'Etat et les communes assurent l'ordre public ainsi que la sécurité des personnes et des biens."
-      },
-      {
-        "num": null,
-        "text": "Chapitre III"
-      },
-      {
-        "num": null,
-        "text": "Enseignement et formation"
       }
     ],
     "45": [
@@ -1740,7 +1712,11 @@
       },
       {
         "num": "3",
-        "text": "Il a pour objectif la transmission et l'acquisition de savoirs; il comprend entre autres des disciplines manuelles, corporelles et artistiques. 10"
+        "text": "Il a pour objectif la transmission et l'acquisition de savoirs; il comprend entre autres des disciplines manuelles, corporelles et artistiques."
+      },
+      {
+        "num": null,
+        "text": "10"
       },
       {
         "num": "4",
@@ -1764,11 +1740,7 @@
       },
       {
         "num": "3",
-        "text": "Il encourage la collaboration des milieux économiques et des personnes privées avec les Hautes"
-      },
-      {
-        "num": null,
-        "text": "Ecoles et les instituts de recherche publics, dans le respect de l'indépendance éthique et scientifique de ces derniers."
+        "text": "Il encourage la collaboration des milieux économiques et des personnes privées avec les Hautes Ecoles et les instituts de recherche publics, dans le respect de l'indépendance éthique et scientifique de ces derniers."
       }
     ],
     "49": [
@@ -1795,14 +1767,6 @@
       {
         "num": "2",
         "text": "Il met en place un système de bourses et d'autres aides à la formation."
-      },
-      {
-        "num": null,
-        "text": "Chapitre IV"
-      },
-      {
-        "num": null,
-        "text": "Patrimoine et environnement, culture et sport"
       }
     ],
     "52": [
@@ -1824,7 +1788,7 @@
       },
       {
         "num": "5",
-        "text": "La loi définit les zones et régions protégées. 11"
+        "text": "La loi définit les zones et régions protégées."
       }
     ],
     "52a": [
@@ -1842,7 +1806,11 @@
       },
       {
         "num": "3",
-        "text": "La loi d'application [C] respecte strictement le périmètre en vigueur, notamment par le maintien de l'aire viticole et du caractère traditionnel des villages et hameaux. [C] Loi du 12.02.1979 sur le plan de protection de Lavaux (BLV 701.43)"
+        "text": "La loi d'application [C] respecte strictement le périmètre en vigueur, notamment par le maintien de l'aire viticole et du caractère traditionnel des villages et hameaux."
+      },
+      {
+        "num": null,
+        "text": "[C] Loi du 12.02.1979 sur le plan de protection de Lavaux (BLV 701.43)"
       }
     ],
     "52b": [
@@ -1876,11 +1844,7 @@
       },
       {
         "num": null,
-        "text": "Chapitre V"
-      },
-      {
-        "num": null,
-        "text": "Aménagement du territoire, énergie, transports et communications"
+        "text": "Chapitre V Aménagement du territoire, énergie, transports et communications"
       }
     ],
     "55": [
@@ -1945,14 +1909,6 @@
       {
         "num": "4",
         "text": "L'Etat facilite l'accès aux moyens et équipements de télécommunications."
-      },
-      {
-        "num": null,
-        "text": "Chapitre VI"
-      },
-      {
-        "num": null,
-        "text": "Economie"
       }
     ],
     "58": [
@@ -1973,14 +1929,6 @@
       {
         "num": "2",
         "text": "Il soutient notamment la recherche, la formation et la vulgarisation, ainsi que la promotion des produits."
-      },
-      {
-        "num": null,
-        "text": "Chapitre VII"
-      },
-      {
-        "num": null,
-        "text": "Politique sociale et santé publique"
       }
     ],
     "60": [
@@ -2096,7 +2044,11 @@
       },
       {
         "num": "3",
-        "text": "La loi fixe les sanctions en cas d'inobservation de l'interdiction de fumer et règle l'exécution du présent article. [D] Loi du 26.03.2002 sur les auberges et les débits de boissons (BLV 935.31)"
+        "text": "La loi fixe les sanctions en cas d'inobservation de l'interdiction de fumer et règle l'exécution du présent article."
+      },
+      {
+        "num": null,
+        "text": "[D] Loi du 26.03.2002 sur les auberges et les débits de boissons (BLV 935.31)"
       }
     ],
     "66": [
@@ -2121,14 +2073,6 @@
       {
         "num": "3",
         "text": "Ils encouragent l'accès à la propriété de son propre logement."
-      },
-      {
-        "num": null,
-        "text": "Chapitre VIII"
-      },
-      {
-        "num": null,
-        "text": "Intégration des étrangers et naturalisation"
       }
     ],
     "68": [
@@ -2152,15 +2096,11 @@
       },
       {
         "num": "3",
-        "text": "La loi[E] règle la durée de résidence exigée et la procédure; elle prévoit une instance de recours. [E] Loi du 19.12.2017 sur le droit de cité vaudois (BLV 141.11)"
+        "text": "La loi[E] règle la durée de résidence exigée et la procédure; elle prévoit une instance de recours."
       },
       {
         "num": null,
-        "text": "Chapitre IX"
-      },
-      {
-        "num": null,
-        "text": "Vie associative et bénévolat"
+        "text": "[E] Loi du 19.12.2017 sur le droit de cité vaudois (BLV 141.11) Chapitre IX Vie associative et bénévolat"
       }
     ],
     "70": [
@@ -2179,46 +2119,26 @@
       {
         "num": "4",
         "text": "Ils facilitent le bénévolat et la formation des bénévoles."
-      },
-      {
-        "num": null,
-        "text": "Chapitre X"
-      },
-      {
-        "num": null,
-        "text": "Aide humanitaire et coopération au développement"
       }
     ],
     "71": [
       {
         "num": "1",
-        "text": "L'Etat et les communes collaborent, avec les autres pouvoirs publics, les organisations et les entreprises concernées, à l'aide humanitaire, à la coopération au développement et à la promotion d'un commerce équitable. 16"
+        "text": "L'Etat et les communes collaborent, avec les autres pouvoirs publics, les organisations et les entreprises concernées, à l'aide humanitaire, à la coopération au développement et à la promotion d'un commerce équitable."
+      },
+      {
+        "num": null,
+        "text": "16"
       },
       {
         "num": "2",
         "text": "Ils s'engagent pour le respect des droits de la personne humaine et pour une politique de paix."
-      },
-      {
-        "num": null,
-        "text": "Chapitre XI"
-      },
-      {
-        "num": null,
-        "text": "Prospective"
       }
     ],
     "72": [
       {
         "num": "1",
         "text": "Dans le but de préparer l'avenir, l'Etat s'appuie sur un organe de prospective."
-      },
-      {
-        "num": null,
-        "text": "Chapitre XII"
-      },
-      {
-        "num": null,
-        "text": "Responsabilité de l'Etat et des communes"
       }
     ],
     "73": [
@@ -2229,22 +2149,6 @@
       {
         "num": "2",
         "text": "La loi fixe les conditions auxquelles ils répondent des dommages que leurs agents causent de manière licite."
-      },
-      {
-        "num": null,
-        "text": "Titre IV"
-      },
-      {
-        "num": null,
-        "text": "Le peuple"
-      },
-      {
-        "num": null,
-        "text": "Chapitre I"
-      },
-      {
-        "num": null,
-        "text": "Droits politiques"
       }
     ],
     "74": [
@@ -2258,7 +2162,11 @@
       },
       {
         "num": "2",
-        "text": "La loi[F] prévoit une procédure simple permettant à la personne visée par l'alinéa 1er in fine d'obtenir, en prouvant qu'elle est capable de discernement, son intégration ou sa réintégration dans le corps électoral. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+        "text": "La loi[F] prévoit une procédure simple permettant à la personne visée par l'alinéa 1er in fine d'obtenir, en prouvant qu'elle est capable de discernement, son intégration ou sa réintégration dans le corps électoral."
+      },
+      {
+        "num": null,
+        "text": "[F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
       }
     ],
     "75": [
@@ -2286,15 +2194,11 @@
       },
       {
         "num": "2",
-        "text": "Elle prévoit que les votes blancs, qui font l'objet d'un décompte distinct dans les élections et votations, sont pris en compte dans le calcul de la majorité absolue pour les élections au système majoritaire. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+        "text": "Elle prévoit que les votes blancs, qui font l'objet d'un décompte distinct dans les élections et votations, sont pris en compte dans le calcul de la majorité absolue pour les élections au système majoritaire."
       },
       {
         "num": null,
-        "text": "Chapitre II"
-      },
-      {
-        "num": null,
-        "text": "Elections"
+        "text": "[F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01) Chapitre II Elections"
       }
     ],
     "77": [
@@ -2312,19 +2216,7 @@
       },
       {
         "num": null,
-        "text": "Chapitre III"
-      },
-      {
-        "num": null,
-        "text": "Initiative et référendum populaires"
-      },
-      {
-        "num": null,
-        "text": "Section I"
-      },
-      {
-        "num": null,
-        "text": "Initiative populaire"
+        "text": "Chapitre III Initiative et référendum populaires Section I Initiative populaire"
       }
     ],
     "78": [
@@ -2334,7 +2226,7 @@
       },
       {
         "num": null,
-        "text": "a. la révision totale ou partielle de la Constitution; b. l'adoption, la modification ou l'abrogation d'une loi; c. l'ouverture de négociations en vue de la conclusion ou de la révision ainsi que la dénonciation d'un traité international ou d'un concordat, lorsqu'il est sujet au référendum facultatif ou soumis au référendum obligatoire; d. l'adoption, la modification ou l'abrogation d'un décret du Grand Conseil sujet au référendum facultatif. 18"
+        "text": "a. la révision totale ou partielle de la Constitution; b. l'adoption, la modification ou l'abrogation d'une loi; c. l'ouverture de négociations en vue de la conclusion ou de la révision ainsi que la dénonciation d'un traité international ou d'un concordat, lorsqu'il est sujet au référendum facultatif ou soumis au référendum obligatoire; d. l'adoption, la modification ou l'abrogation d'un décret du Grand Conseil sujet au référendum facultatif."
       }
     ],
     "79": [
@@ -2368,7 +2260,11 @@
       },
       {
         "num": "2",
-        "text": "Les articles 173 et 174 sur la révision de la Constitution sont réservés. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+        "text": "Les articles 173 et 174 sur la révision de la Constitution sont réservés."
+      },
+      {
+        "num": null,
+        "text": "[F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
       }
     ],
     "82": [
@@ -2379,14 +2275,6 @@
       {
         "num": "2",
         "text": "Le Grand Conseil peut prolonger ce délai d'un an lorsqu'il a approuvé une initiative conçue en termes généraux ou décidé d'opposer un contre-projet à une initiative."
-      },
-      {
-        "num": null,
-        "text": "Section II"
-      },
-      {
-        "num": null,
-        "text": "Référendum populaire"
       }
     ],
     "83": [
@@ -2426,15 +2314,11 @@
       },
       {
         "num": "3",
-        "text": "La demande de référendum aboutit si elle a recueilli 12'000 signatures dans un délai de 60 jours dès la publication de l'acte. La loi[F] prolonge ce délai pour tenir compte de la difficulté de récolte de signatures à certaines périodes de l'année. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+        "text": "La demande de référendum aboutit si elle a recueilli 12'000 signatures dans un délai de 60 jours dès la publication de l'acte. La loi[F] prolonge ce délai pour tenir compte de la difficulté de récolte de signatures à certaines périodes de l'année."
       },
       {
         "num": null,
-        "text": "Chapitre IV"
-      },
-      {
-        "num": null,
-        "text": "Participation à la vie publique"
+        "text": "[F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01) Chapitre IV Participation à la vie publique"
       }
     ],
     "85": [
@@ -2482,19 +2366,7 @@
       },
       {
         "num": null,
-        "text": "Titre V"
-      },
-      {
-        "num": null,
-        "text": "Autorités cantonales"
-      },
-      {
-        "num": null,
-        "text": "Chapitre I"
-      },
-      {
-        "num": null,
-        "text": "Dispositions générales"
+        "text": "Titre V Autorités cantonales Chapitre I Dispositions générales"
       }
     ],
     "89": [
@@ -2534,37 +2406,13 @@
       },
       {
         "num": "13",
-        "text": "Modifié par le décret du 24.05.2022 entré en vigueur le 14.06.2022 21"
-      },
-      {
-        "num": null,
-        "text": "Chapitre II"
-      },
-      {
-        "num": null,
-        "text": "Grand Conseil"
-      },
-      {
-        "num": null,
-        "text": "Section I"
-      },
-      {
-        "num": null,
-        "text": "Principe"
+        "text": "Modifié par le décret du 24.05.2022 entré en vigueur le 14.06.2022 21 Chapitre II Grand Conseil Section I Principe"
       }
     ],
     "91": [
       {
         "num": "1",
         "text": "Le Grand Conseil est l'autorité suprême du canton, sous réserve des droits du peuple."
-      },
-      {
-        "num": null,
-        "text": "Section II"
-      },
-      {
-        "num": null,
-        "text": "Composition"
       }
     ],
     "92": [
@@ -2593,14 +2441,6 @@
       {
         "num": "4",
         "text": "Les listes ou les groupes de listes apparentées qui ont recueilli moins de 5% du total des suffrages valables exprimés dans leur arrondissement ne sont pas prises en compte pour l'attribution des sièges."
-      },
-      {
-        "num": null,
-        "text": "Section III"
-      },
-      {
-        "num": null,
-        "text": "Organisation et statut des membres"
       }
     ],
     "94": [
@@ -2634,7 +2474,11 @@
       },
       {
         "num": "2",
-        "text": "Le Grand Conseil peut décider le huis clos dans les cas prévus par la loi [G] . [G] Voir art. 164 de la loi du 03.02.1998 sur le Grand Conseil (RSV 171.01)"
+        "text": "Le Grand Conseil peut décider le huis clos dans les cas prévus par la loi [G] ."
+      },
+      {
+        "num": null,
+        "text": "[G] Voir art. 164 de la loi du 03.02.1998 sur le Grand Conseil (RSV 171.01)"
       }
     ],
     "97": [
@@ -2662,7 +2506,11 @@
     "100": [
       {
         "num": "1",
-        "text": "Les membres du Grand Conseil s'expriment librement au sein de celui-ci ou devant ses organes. Ils ne peuvent être poursuivis pour leurs déclarations que dans les formes prévues par la loi [H] . [H] Voir art. 12 de la loi du 03.02.1998 sur le Grand Conseil (RSV 171.01)"
+        "text": "Les membres du Grand Conseil s'expriment librement au sein de celui-ci ou devant ses organes. Ils ne peuvent être poursuivis pour leurs déclarations que dans les formes prévues par la loi [H] ."
+      },
+      {
+        "num": null,
+        "text": "[H] Voir art. 12 de la loi du 03.02.1998 sur le Grand Conseil (RSV 171.01)"
       }
     ],
     "101": [
@@ -2679,14 +2527,6 @@
       {
         "num": "1",
         "text": "Les députés ont droit à une rétribution."
-      },
-      {
-        "num": null,
-        "text": "Section IV"
-      },
-      {
-        "num": null,
-        "text": "Compétences"
       }
     ],
     "103": [
@@ -2702,7 +2542,11 @@
     "104": [
       {
         "num": "1",
-        "text": "Le Grand Conseil prend acte du programme de législature du Conseil d'Etat dans les deux mois qui suivent sa présentation. 23"
+        "text": "Le Grand Conseil prend acte du programme de législature du Conseil d'Etat dans les deux mois qui suivent sa présentation."
+      },
+      {
+        "num": null,
+        "text": "23"
       },
       {
         "num": "2",
@@ -2724,11 +2568,7 @@
       },
       {
         "num": null,
-        "text": "a. les crédits supplémentaires; b. les crédits d'investissement et leur amortissement; c. l'acquisition et l'aliénation de biens, dans la mesure où la loi ne délègue pas cette compétence au"
-      },
-      {
-        "num": null,
-        "text": "Conseil d'Etat."
+        "text": "a. les crédits supplémentaires; b. les crédits d'investissement et leur amortissement; c. l'acquisition et l'aliénation de biens, dans la mesure où la loi ne délègue pas cette compétence au Conseil d'Etat."
       },
       {
         "num": "3",
@@ -2812,11 +2652,7 @@
     "111": [
       {
         "num": "1",
-        "text": "L'initiative appartient aux membres, aux groupes et aux commissions du Grand Conseil ainsi qu'au"
-      },
-      {
-        "num": null,
-        "text": "Conseil d'Etat. Sont réservées les dispositions sur l'initiative populaire."
+        "text": "L'initiative appartient aux membres, aux groupes et aux commissions du Grand Conseil ainsi qu'au Conseil d'Etat. Sont réservées les dispositions sur l'initiative populaire."
       },
       {
         "num": "2",
@@ -2825,36 +2661,12 @@
       {
         "num": "3",
         "text": "Les membres du Grand Conseil et ceux du Conseil d'Etat peuvent faire des propositions relatives à un objet en délibération."
-      },
-      {
-        "num": null,
-        "text": "Chapitre III"
-      },
-      {
-        "num": null,
-        "text": "Conseil d'Etat"
-      },
-      {
-        "num": null,
-        "text": "Section I"
-      },
-      {
-        "num": null,
-        "text": "Principe"
       }
     ],
     "112": [
       {
         "num": "1",
         "text": "Le Conseil d'Etat est l'autorité exécutive supérieure du canton."
-      },
-      {
-        "num": null,
-        "text": "Section II"
-      },
-      {
-        "num": null,
-        "text": "Composition"
       }
     ],
     "113": [
@@ -2878,11 +2690,7 @@
     "114": [
       {
         "num": "1",
-        "text": "Les membres du Conseil d'Etat sont élus par le corps électoral en même temps que les membres du"
-      },
-      {
-        "num": null,
-        "text": "Grand Conseil."
+        "text": "Les membres du Conseil d'Etat sont élus par le corps électoral en même temps que les membres du Grand Conseil."
       },
       {
         "num": "2",
@@ -2893,14 +2701,6 @@
       {
         "num": "1",
         "text": "Le Conseil d'Etat désigne pour la durée de la législature sa présidente ou son président, qui assure la cohérence de l'action gouvernementale."
-      },
-      {
-        "num": null,
-        "text": "Section III"
-      },
-      {
-        "num": null,
-        "text": "Organisation"
       }
     ],
     "116": [
@@ -2910,7 +2710,11 @@
       },
       {
         "num": "2",
-        "text": "Il s'organise librement dans le cadre de la loi [I] . [I] Loi du 11.02.1970 sur l'organisation du Conseil d’Etat (BLV 172.115)"
+        "text": "Il s'organise librement dans le cadre de la loi [I] ."
+      },
+      {
+        "num": null,
+        "text": "[I] Loi du 11.02.1970 sur l'organisation du Conseil d’Etat (BLV 172.115)"
       }
     ],
     "117": [
@@ -2926,15 +2730,11 @@
     "118": [
       {
         "num": "1",
-        "text": "Le Conseil d'Etat et la députation vaudoise aux Chambres fédérales - ou une délégation de celle-ci constituent, selon les modalités fixées par la loi[I], une commission permanente d'échange d'informations relatives aux affaires fédérales, dénommée « Conférence des affaires fédérales ». [I] Loi du 11.02.1970 sur l'organisation du Conseil d’Etat (BLV 172.115)"
+        "text": "Le Conseil d'Etat et la députation vaudoise aux Chambres fédérales - ou une délégation de celle-ci constituent, selon les modalités fixées par la loi[I], une commission permanente d'échange d'informations relatives aux affaires fédérales, dénommée « Conférence des affaires fédérales »."
       },
       {
         "num": null,
-        "text": "Section IV"
-      },
-      {
-        "num": null,
-        "text": "Compétences"
+        "text": "[I] Loi du 11.02.1970 sur l'organisation du Conseil d’Etat (BLV 172.115) Section IV Compétences"
       }
     ],
     "119": [
@@ -2944,15 +2744,15 @@
       },
       {
         "num": "2",
-        "text": "Tous les membres du Conseil d'Etat sont liés par le contenu de ce programme. 26"
-      },
-      {
-        "num": "3",
-        "text": "Le Conseil d'Etat peut amender ce programme en cours de législature; il présente les modifications au"
+        "text": "Tous les membres du Conseil d'Etat sont liés par le contenu de ce programme."
       },
       {
         "num": null,
-        "text": "Grand Conseil, qui en prend acte."
+        "text": "26"
+      },
+      {
+        "num": "3",
+        "text": "Le Conseil d'Etat peut amender ce programme en cours de législature; il présente les modifications au Grand Conseil, qui en prend acte."
       },
       {
         "num": "4",
@@ -3012,11 +2812,7 @@
       },
       {
         "num": "2",
-        "text": "La loi fixe la procédure de ratification par le Grand Conseil. 27"
-      },
-      {
-        "num": null,
-        "text": "Section V ... 7, 13"
+        "text": "La loi fixe la procédure de ratification par le Grand Conseil."
       }
     ],
     "125a": [
@@ -3042,19 +2838,7 @@
       },
       {
         "num": null,
-        "text": "Chapitre IV"
-      },
-      {
-        "num": null,
-        "text": "Tribunaux et Ministère public 13"
-      },
-      {
-        "num": null,
-        "text": "Section I"
-      },
-      {
-        "num": null,
-        "text": "Principes généraux"
+        "text": "Chapitre IV Tribunaux et Ministère public 13 Section I Principes généraux"
       }
     ],
     "126": [
@@ -3113,14 +2897,6 @@
       {
         "num": "2",
         "text": "La Haute surveillance s'exerce au travers du Conseil de la magistrature."
-      },
-      {
-        "num": null,
-        "text": "Section II"
-      },
-      {
-        "num": null,
-        "text": "Tribunal Cantonal"
       }
     ],
     "130": [
@@ -3132,11 +2908,7 @@
     "131": [
       {
         "num": "1",
-        "text": "Les juges et les juges suppléants du Tribunal cantonal sont élus par le Grand Conseil, sur préavis du"
-      },
-      {
-        "num": null,
-        "text": "Conseil de la magistrature et d'une commission de présentation."
+        "text": "Les juges et les juges suppléants du Tribunal cantonal sont élus par le Grand Conseil, sur préavis du Conseil de la magistrature et d'une commission de présentation."
       },
       {
         "num": "2",
@@ -3209,14 +2981,6 @@
       {
         "num": "1",
         "text": "..."
-      },
-      {
-        "num": null,
-        "text": "Section III"
-      },
-      {
-        "num": null,
-        "text": "Cour constitutionnelle"
       }
     ],
     "136": [
@@ -3235,14 +2999,6 @@
       {
         "num": "3",
         "text": "Ses décisions sont publiées."
-      },
-      {
-        "num": null,
-        "text": "Section IV"
-      },
-      {
-        "num": null,
-        "text": "Ministère public 13"
       }
     ],
     "136a": [
@@ -3273,14 +3029,6 @@
       {
         "num": "1",
         "text": "L'article 131 s'applique par analogie à l'élection du Procureur général et des procureurs généraux adjoints."
-      },
-      {
-        "num": null,
-        "text": "Section V"
-      },
-      {
-        "num": null,
-        "text": "Conseil de la magistrature 13"
       }
     ],
     "136d": [
@@ -3302,27 +3050,7 @@
       },
       {
         "num": null,
-        "text": "Titre VI"
-      },
-      {
-        "num": null,
-        "text": "Communes et districts"
-      },
-      {
-        "num": null,
-        "text": "Chapitre I"
-      },
-      {
-        "num": null,
-        "text": "Communes"
-      },
-      {
-        "num": null,
-        "text": "Section I"
-      },
-      {
-        "num": null,
-        "text": "Dispositions générales"
+        "text": "Titre VI Communes et districts Chapitre I Communes Section I Dispositions générales"
       }
     ],
     "137": [
@@ -3342,7 +3070,11 @@
       },
       {
         "num": "2",
-        "text": "L'Etat confie aux communes les tâches qu'elles sont mieux à même d'exécuter que lui. [J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
+        "text": "L'Etat confie aux communes les tâches qu'elles sont mieux à même d'exécuter que lui."
+      },
+      {
+        "num": null,
+        "text": "[J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
       }
     ],
     "139": [
@@ -3366,19 +3098,7 @@
       },
       {
         "num": null,
-        "text": "Section II"
-      },
-      {
-        "num": null,
-        "text": "Organisation politique"
-      },
-      {
-        "num": null,
-        "text": "Sous-section I"
-      },
-      {
-        "num": null,
-        "text": "Généralités"
+        "text": "Section II Organisation politique Sous-section I Généralités"
       }
     ],
     "141": [
@@ -3388,7 +3108,11 @@
       },
       {
         "num": "2",
-        "text": "La loi [J] détermine à quelles conditions elle peut se doter d'un conseil communal ou d'un conseil général. [J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
+        "text": "La loi [J] détermine à quelles conditions elle peut se doter d'un conseil communal ou d'un conseil général."
+      },
+      {
+        "num": null,
+        "text": "[J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
       }
     ],
     "142": [
@@ -3406,7 +3130,11 @@
       },
       {
         "num": "3",
-        "text": "La loi [F] précise les modalités de l'exercice de ces droits. Les articles 74, alinéa 2 et 76, alinéa 2 s'appliquent. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+        "text": "La loi [F] précise les modalités de l'exercice de ces droits. Les articles 74, alinéa 2 et 76, alinéa 2 s'appliquent."
+      },
+      {
+        "num": null,
+        "text": "[F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
       }
     ],
     "143": [
@@ -3425,14 +3153,6 @@
       {
         "num": "3",
         "text": "Un règlement communal peut limiter le cumul d'un mandat exécutif communal avec des mandats cantonaux ou fédéraux."
-      },
-      {
-        "num": null,
-        "text": "Sous-section II"
-      },
-      {
-        "num": null,
-        "text": "Conseil communal ou conseil général"
       }
     ],
     "144": [
@@ -3470,7 +3190,11 @@
       },
       {
         "num": "3",
-        "text": "Le conseil communal ou le conseil général peut, par voie de motion, obliger la municipalité à lui présenter une étude ou un projet. Il peut fixer un délai. [J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
+        "text": "Le conseil communal ou le conseil général peut, par voie de motion, obliger la municipalité à lui présenter une étude ou un projet. Il peut fixer un délai."
+      },
+      {
+        "num": null,
+        "text": "[J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
       }
     ],
     "147": [
@@ -3484,15 +3208,7 @@
       },
       {
         "num": "9",
-        "text": "Modifié par le décret du 03.05.2011 entré en vigueur le 17.05.2011 33"
-      },
-      {
-        "num": null,
-        "text": "Sous-section III"
-      },
-      {
-        "num": null,
-        "text": "Municipalité"
+        "text": "Modifié par le décret du 03.05.2011 entré en vigueur le 17.05.2011 33 Sous-section III Municipalité"
       }
     ],
     "148": [
@@ -3527,14 +3243,6 @@
       {
         "num": "3",
         "text": "La syndique ou le syndic préside la municipalité, coordonne l'activité des conseillers municipaux et dispose de l'administration communale. La loi détermine ses autres fonctions."
-      },
-      {
-        "num": null,
-        "text": "Section III"
-      },
-      {
-        "num": null,
-        "text": "Fusion de communes"
       }
     ],
     "151": [
@@ -3556,7 +3264,11 @@
       },
       {
         "num": "5",
-        "text": "En dérogation aux articles 144 et 148 de la Constitution, la durée des mandats des membres du conseil communal et des municipalités des communes concernées peut être prolongée sans élection jusqu'à l'entrée en vigueur d'une fusion de communes lorsque celle-ci intervient dans les six mois qui suivent la fin de ces mandats. [K] Loi du 07.12.2004 sur les fusions de communes (BLV 175.61) et décret du 25.01.2005 sur l'incitation financière aux fusions de communes (BLV 175.611)"
+        "text": "En dérogation aux articles 144 et 148 de la Constitution, la durée des mandats des membres du conseil communal et des municipalités des communes concernées peut être prolongée sans élection jusqu'à l'entrée en vigueur d'une fusion de communes lorsque celle-ci intervient dans les six mois qui suivent la fin de ces mandats."
+      },
+      {
+        "num": null,
+        "text": "[K] Loi du 07.12.2004 sur les fusions de communes (BLV 175.61) et décret du 25.01.2005 sur l'incitation financière aux fusions de communes (BLV 175.611)"
       },
       {
         "num": "8",
@@ -3578,15 +3290,11 @@
     "154": [
       {
         "num": "1",
-        "text": "Si le besoin l'exige et aux conditions prévues par la loi [L] , l'Etat peut soumettre le principe d'une fusion de deux ou plusieurs communes ou d'une modification de leur territoire au corps électoral de chacune des communes visées. [L] Loi du 07.12.2004 sur les fusions de communes (BLV 175.61)"
+        "text": "Si le besoin l'exige et aux conditions prévues par la loi [L] , l'Etat peut soumettre le principe d'une fusion de deux ou plusieurs communes ou d'une modification de leur territoire au corps électoral de chacune des communes visées."
       },
       {
         "num": null,
-        "text": "Chapitre II"
-      },
-      {
-        "num": null,
-        "text": "Collaborations intercommunales, fédérations et agglomérations"
+        "text": "[L] Loi du 07.12.2004 sur les fusions de communes (BLV 175.61) Chapitre II Collaborations intercommunales, fédérations et agglomérations"
       }
     ],
     "155": [
@@ -3604,7 +3312,11 @@
       },
       {
         "num": "4",
-        "text": "La loi définit l'organisation, le financement et le contrôle démocratique des diverses formes de collaboration intercommunale. [J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
+        "text": "La loi définit l'organisation, le financement et le contrôle démocratique des diverses formes de collaboration intercommunale."
+      },
+      {
+        "num": null,
+        "text": "[J] Loi du 28.02.1956 sur les communes (BLV 175.11)"
       }
     ],
     "156": [
@@ -3622,7 +3334,7 @@
       },
       {
         "num": "4",
-        "text": "Une commune ne peut faire partie que d'une fédération, sa participation à d'autres formes de collaboration restant possible. 35"
+        "text": "Une commune ne peut faire partie que d'une fédération, sa participation à d'autres formes de collaboration restant possible."
       }
     ],
     "157": [
@@ -3633,14 +3345,6 @@
       {
         "num": "2",
         "text": "La loi définit l'organisation, le financement et le contrôle démocratique de l'agglomération par analogie avec les règles applicables aux fédérations."
-      },
-      {
-        "num": null,
-        "text": "Chapitre III"
-      },
-      {
-        "num": null,
-        "text": "Districts"
       }
     ],
     "158": [
@@ -3664,7 +3368,11 @@
       },
       {
         "num": "2",
-        "text": "La loi [M] définit ses tâches. [M] Loi du 27.03.2007 sur les préfets et les préfectures ( BLV 172.165)"
+        "text": "La loi [M] définit ses tâches."
+      },
+      {
+        "num": null,
+        "text": "[M] Loi du 27.03.2007 sur les préfets et les préfectures ( BLV 172.165)"
       }
     ],
     "160": [
@@ -3675,22 +3383,6 @@
       {
         "num": "2",
         "text": "La loi prévoit la procédure de rattachement."
-      },
-      {
-        "num": null,
-        "text": "Titre VII"
-      },
-      {
-        "num": null,
-        "text": "Régime des finances"
-      },
-      {
-        "num": null,
-        "text": "Chapitre I"
-      },
-      {
-        "num": null,
-        "text": "Principes généraux"
       }
     ],
     "161": [
@@ -3730,11 +3422,7 @@
       },
       {
         "num": "2",
-        "text": "L'approbation d'un budget de fonctionnement déficitaire requiert la majorité absolue des membres du"
-      },
-      {
-        "num": null,
-        "text": "Grand Conseil."
+        "text": "L'approbation d'un budget de fonctionnement déficitaire requiert la majorité absolue des membres du Grand Conseil."
       },
       {
         "num": "3",
@@ -3749,14 +3437,6 @@
       {
         "num": "2",
         "text": "Les mesures qui nécessitent des modifications de rang législatif sont soumises au vote du corps électoral. Pour chacune de ces mesures, le vote oppose la modification législative proposée à une augmentation du coefficient de l'impôt cantonal direct d'effet équivalent."
-      },
-      {
-        "num": null,
-        "text": "Chapitre II"
-      },
-      {
-        "num": null,
-        "text": "Surveillance et contrôle des finances 12"
       }
     ],
     "166": [
@@ -3786,15 +3466,7 @@
       },
       {
         "num": "4",
-        "text": "…"
-      },
-      {
-        "num": null,
-        "text": "Chapitre III"
-      },
-      {
-        "num": null,
-        "text": "Fiscalité et péréquation intercommunale"
+        "text": "… Chapitre III Fiscalité et péréquation intercommunale"
       }
     ],
     "167": [
@@ -3827,14 +3499,6 @@
       {
         "num": "2",
         "text": "La péréquation financière atténue les inégalités de charge fiscale consécutives aux différences de capacité contributive entre les communes."
-      },
-      {
-        "num": null,
-        "text": "Titre VIII"
-      },
-      {
-        "num": null,
-        "text": "Eglises et communautés religieuses"
       }
     ],
     "169": [
@@ -3858,7 +3522,7 @@
       },
       {
         "num": "3",
-        "text": "La loi fixe les prestations de l'Etat et des communes. 38"
+        "text": "La loi fixe les prestations de l'Etat et des communes."
       }
     ],
     "171": [
@@ -3879,14 +3543,6 @@
       {
         "num": "3",
         "text": "La reconnaissance est liée notamment au respect des principes démocratiques et à la transparence financière."
-      },
-      {
-        "num": null,
-        "text": "Titre IX"
-      },
-      {
-        "num": null,
-        "text": "Révision de la constitution"
       }
     ],
     "173": [
@@ -3919,20 +3575,12 @@
       {
         "num": "2",
         "text": "Elle peut porter sur la révision d'une disposition constitutionnelle ou de plusieurs si elles sont intrinsèquement liées."
-      },
-      {
-        "num": null,
-        "text": "Titre X"
-      },
-      {
-        "num": null,
-        "text": "Dispositions transitoires et finales"
       }
     ],
     "175": [
       {
         "num": "1",
-        "text": "La présente Constitution entre en vigueur le 14 avril 2003. 39"
+        "text": "La présente Constitution entre en vigueur le 14 avril 2003."
       }
     ],
     "176": [
@@ -3956,7 +3604,11 @@
       },
       {
         "num": "2",
-        "text": "A cette fin, le Conseil d'Etat soumet au Grand Conseil un programme législatif avant le 14 avril 2003. [N] Décret du 02.07.2003 sur la mise en œuvre de la nouvelle Constitution cantonale (BLV 101.051)"
+        "text": "A cette fin, le Conseil d'Etat soumet au Grand Conseil un programme législatif avant le 14 avril 2003."
+      },
+      {
+        "num": null,
+        "text": "[N] Décret du 02.07.2003 sur la mise en œuvre de la nouvelle Constitution cantonale (BLV 101.051)"
       }
     ],
     "178": [
@@ -3974,7 +3626,11 @@
       },
       {
         "num": "4",
-        "text": "Le mandat des juges et des juges suppléants du Tribunal cantonal et du Tribunal administratif est prolongé jusqu'au 31 décembre 2007. [F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
+        "text": "Le mandat des juges et des juges suppléants du Tribunal cantonal et du Tribunal administratif est prolongé jusqu'au 31 décembre 2007."
+      },
+      {
+        "num": null,
+        "text": "[F] Loi du 05.10.2021 sur l'exercice des droits politiques (BLV 160.01)"
       }
     ],
     "179": [
@@ -3984,11 +3640,7 @@
       },
       {
         "num": "1",
-        "text": "Les articles 6bis et 6ter de la Constitution du 1er mars 1885 protégeant les sites de Lavaux et de la"
-      },
-      {
-        "num": null,
-        "text": "Venoge demeurent en vigueur tant qu'ils n'ont pas été convertis en normes légales en application de l'article 52, alinéa 5 de la présente Constitution."
+        "text": "Les articles 6bis et 6ter de la Constitution du 1er mars 1885 protégeant les sites de Lavaux et de la Venoge demeurent en vigueur tant qu'ils n'ont pas été convertis en normes légales en application de l'article 52, alinéa 5 de la présente Constitution."
       },
       {
         "num": "1",
@@ -4008,7 +3660,11 @@
       },
       {
         "num": "3",
-        "text": "La législation d'application du titre VI Communes et districts devra être adoptée dans les deux ans dès l'entrée en vigueur de la présente Constitution. 3bis La législation d'application requise par l'article 129 Cst-VD doit être édictée au plus tard à l'échéance du délai prévu par l'article 130 de la loi du 17 juin 2005 sur le Tribunal fédéral pour l'adaptation des dispositions cantonales en matière civile et pénale."
+        "text": "La législation d'application du titre VI Communes et districts devra être adoptée dans les deux ans dès l'entrée en vigueur de la présente Constitution."
+      },
+      {
+        "num": null,
+        "text": "3bis La législation d'application requise par l'article 129 Cst-VD doit être édictée au plus tard à l'échéance du délai prévu par l'article 130 de la loi du 17 juin 2005 sur le Tribunal fédéral pour l'adaptation des dispositions cantonales en matière civile et pénale."
       },
       {
         "num": "4",
@@ -4028,15 +3684,7 @@
       },
       {
         "num": "8",
-        "text": "Le statut et les droits des bourses publiques ayant des obligations en matière de culte de l'Eglise évangélique réformée et de l'Eglise catholique dans les communes d'Echallens, Assens, Bottens,"
-      },
-      {
-        "num": null,
-        "text": "Bioley-Orjulaz, Etagnières, Poliez-le-Grand, Poliez-Pittet, Saint-Barthélemy, Villars-le-Terroir et"
-      },
-      {
-        "num": null,
-        "text": "Malapalud, de même que les droits et coutumes établis en faveur des catholiques dans les communes précitées, continuent d'être garantis, conformément à ce que prévoyaient les articles 13, alinéa 5 et 14 de la Constitution du 1er mars 1885, tant qu'ils ne sont pas modifiés par la loi."
+        "text": "Le statut et les droits des bourses publiques ayant des obligations en matière de culte de l'Eglise évangélique réformée et de l'Eglise catholique dans les communes d'Echallens, Assens, Bottens, Bioley-Orjulaz, Etagnières, Poliez-le-Grand, Poliez-Pittet, Saint-Barthélemy, Villars-le-Terroir et Malapalud, de même que les droits et coutumes établis en faveur des catholiques dans les communes précitées, continuent d'être garantis, conformément à ce que prévoyaient les articles 13, alinéa 5 et 14 de la Constitution du 1er mars 1885, tant qu'ils ne sont pas modifiés par la loi."
       },
       {
         "num": "9",
