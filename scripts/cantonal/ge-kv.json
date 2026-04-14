@@ -3,23 +3,23 @@
   "law_key": "ge-kv",
   "sr_number": "A 2 00",
   "language": "fr",
-  "title": "rsGE A 2 00: Constitution de la République et canton de Genève (Cst-GE)",
+  "title": "Constitutionde la République et canton de Genève",
   "lexfind_id": 31535,
   "fetched_at": "2026-04-14",
-  "source": "sil",
-  "article_count": 246,
+  "source": "fedlex",
+  "article_count": 237,
   "articles": [
     {
       "number": 1,
       "suffix": "",
       "raw": "1",
-      "title": "République et"
+      "title": "République et canton de Genève"
     },
     {
       "number": 2,
       "suffix": "",
       "raw": "2",
-      "title": "Exercice de"
+      "title": "Exercice de la souveraineté"
     },
     {
       "number": 3,
@@ -43,19 +43,13 @@
       "number": 6,
       "suffix": "",
       "raw": "6",
-      "title": "Droit de cité"
+      "title": "6 Droit de cité"
     },
     {
       "number": 7,
       "suffix": "",
       "raw": "7",
       "title": "Armoiries et devise"
-    },
-    {
-      "number": 7,
-      "suffix": "",
-      "raw": "7",
-      "title": "A(19)   Hymne"
     },
     {
       "number": 8,
@@ -67,7 +61,7 @@
       "number": 9,
       "suffix": "",
       "raw": "9",
-      "title": "Principes de"
+      "title": "Principes de l’activité publique"
     },
     {
       "number": 10,
@@ -91,7 +85,7 @@
       "number": 13,
       "suffix": "",
       "raw": "13",
-      "title": "Responsabilité"
+      "title": "Responsabilité individuelle"
     },
     {
       "number": 14,
@@ -103,55 +97,49 @@
       "number": 15,
       "suffix": "",
       "raw": "15",
-      "title": "Egalité"
+      "title": "Égalité"
     },
     {
       "number": 16,
       "suffix": "",
       "raw": "16",
-      "title": "Droits des personnes"
+      "title": "Droits des personnes handicapées"
     },
     {
       "number": 17,
       "suffix": "",
       "raw": "17",
-      "title": "Interdiction de"
+      "title": "Interdiction de l’arbitraire et protection de la bonne foi"
     },
     {
       "number": 18,
       "suffix": "",
       "raw": "18",
-      "title": "Droit à la vie et à"
+      "title": "18 Droit à la vie et à l’intégrité"
     },
     {
       "number": 19,
       "suffix": "",
       "raw": "19",
-      "title": "Droit à un environnement"
+      "title": "Droit à un environnement sain"
     },
     {
       "number": 20,
       "suffix": "",
       "raw": "20",
-      "title": "Liberté personnelle"
+      "title": "20 Liberté personnelle"
     },
     {
       "number": 21,
       "suffix": "",
       "raw": "21",
-      "title": "Protection de la sphère"
-    },
-    {
-      "number": 21,
-      "suffix": "",
-      "raw": "21",
-      "title": "A(17)  Droit à l’intégrité"
+      "title": "Protection de la sphère privée"
     },
     {
       "number": 22,
       "suffix": "",
       "raw": "22",
-      "title": "Mariage, famille et"
+      "title": "Mariage, famille et autres formes de vie"
     },
     {
       "number": 23,
@@ -169,13 +157,13 @@
       "number": 25,
       "suffix": "",
       "raw": "25",
-      "title": "Liberté de conscience et"
+      "title": "Liberté de conscience et de croyance"
     },
     {
       "number": 26,
       "suffix": "",
       "raw": "26",
-      "title": "Liberté d’opinion et"
+      "title": "Liberté d’opinion et d’expression"
     },
     {
       "number": 27,
@@ -211,7 +199,7 @@
       "number": 32,
       "suffix": "",
       "raw": "32",
-      "title": "Liberté de réunion et de"
+      "title": "Liberté de réunion et de manifestation"
     },
     {
       "number": 33,
@@ -250,16 +238,10 @@
       "title": "Droit au logement"
     },
     {
-      "number": 38,
-      "suffix": "",
-      "raw": "38",
-      "title": "A(16)  Droit à l’alimentation"
-    },
-    {
       "number": 39,
       "suffix": "",
       "raw": "39",
-      "title": "Droit à un niveau de vie"
+      "title": "Droit à un niveau de vie suffisant"
     },
     {
       "number": 40,
@@ -277,7 +259,7 @@
       "number": 42,
       "suffix": "",
       "raw": "42",
-      "title": "Evaluation"
+      "title": "Évaluation"
     },
     {
       "number": 43,
@@ -307,7 +289,7 @@
       "number": 47,
       "suffix": "",
       "raw": "47",
-      "title": "Droit de récolter des"
+      "title": "Droit de récolter des signatures"
     },
     {
       "number": 48,
@@ -319,13 +301,13 @@
       "number": 49,
       "suffix": "",
       "raw": "49",
-      "title": "Préparation à la"
+      "title": "Préparation à la citoyenneté"
     },
     {
       "number": 50,
       "suffix": "",
       "raw": "50",
-      "title": "Représentation des"
+      "title": "Représentation des femmes et des hommes"
     },
     {
       "number": 51,
@@ -337,13 +319,13 @@
       "number": 52,
       "suffix": "",
       "raw": "52",
-      "title": "Elections cantonales"
+      "title": "Élections cantonales"
     },
     {
       "number": 53,
       "suffix": "",
       "raw": "53",
-      "title": "Elections communales"
+      "title": "Élections communales"
     },
     {
       "number": 54,
@@ -361,7 +343,7 @@
       "number": 56,
       "suffix": "",
       "raw": "56",
-      "title": "Initiative"
+      "title": "Initiative constitutionnelle"
     },
     {
       "number": 57,
@@ -409,19 +391,19 @@
       "number": 64,
       "suffix": "",
       "raw": "64",
-      "title": "Concrétisation d’une"
+      "title": "Concrétisation d’une initiative non formulée"
     },
     {
       "number": 65,
       "suffix": "",
       "raw": "65",
-      "title": "(13)   Référendum"
+      "title": "Référendum obligatoire"
     },
     {
       "number": 66,
       "suffix": "",
       "raw": "66",
-      "title": "Référendum en matière"
+      "title": "Référendum en matière d’assainissement financier"
     },
     {
       "number": 67,
@@ -487,7 +469,7 @@
       "number": 77,
       "suffix": "",
       "raw": "77",
-      "title": "Délibérations des"
+      "title": "Délibérations des conseils municipaux"
     },
     {
       "number": 78,
@@ -511,13 +493,13 @@
       "number": 81,
       "suffix": "",
       "raw": "81",
-      "title": "Election"
+      "title": "Élection"
     },
     {
       "number": 82,
       "suffix": "",
       "raw": "82",
-      "title": "Suppléance"
+      "title": "82 Suppléance"
     },
     {
       "number": 83,
@@ -541,13 +523,13 @@
       "number": 86,
       "suffix": "",
       "raw": "86",
-      "title": "Séances"
+      "title": "86 Séances"
     },
     {
       "number": 87,
       "suffix": "",
       "raw": "87",
-      "title": "Bureau"
+      "title": "87 Bureau"
     },
     {
       "number": 88,
@@ -559,7 +541,7 @@
       "number": 89,
       "suffix": "",
       "raw": "89",
-      "title": "Relations avec"
+      "title": "89 Relations avec l’administration"
     },
     {
       "number": 90,
@@ -583,7 +565,7 @@
       "number": 93,
       "suffix": "",
       "raw": "93",
-      "title": "Conventions"
+      "title": "Conventions intercantonales"
     },
     {
       "number": 94,
@@ -607,7 +589,7 @@
       "number": 97,
       "suffix": "",
       "raw": "97",
-      "title": "Vote du budget"
+      "title": "97 Vote du budget"
     },
     {
       "number": 98,
@@ -625,7 +607,7 @@
       "number": 100,
       "suffix": "",
       "raw": "100",
-      "title": "Amnistie"
+      "title": "100 Amnistie"
     },
     {
       "number": 101,
@@ -637,7 +619,7 @@
       "number": 102,
       "suffix": "",
       "raw": "102",
-      "title": "Election"
+      "title": "Élection"
     },
     {
       "number": 103,
@@ -703,31 +685,19 @@
       "number": 113,
       "suffix": "",
       "raw": "113",
-      "title": "Etat de nécessité"
+      "title": "État de nécessité"
     },
     {
       "number": 114,
       "suffix": "",
       "raw": "114",
-      "title": "Chancellerie d’Etat"
+      "title": "Chancellerie d’État"
     },
     {
       "number": 115,
       "suffix": "",
       "raw": "115",
       "title": "Instance de médiation"
-    },
-    {
-      "number": 115,
-      "suffix": "",
-      "raw": "115",
-      "title": "A(13)  Destitution pour perte"
-    },
-    {
-      "number": 115,
-      "suffix": "",
-      "raw": "115",
-      "title": "B(13)  Destitution pour"
     },
     {
       "number": 116,
@@ -739,7 +709,7 @@
       "number": 117,
       "suffix": "",
       "raw": "117",
-      "title": "Indépendance"
+      "title": "117 Indépendance"
     },
     {
       "number": 118,
@@ -775,13 +745,13 @@
       "number": 123,
       "suffix": "",
       "raw": "123",
-      "title": "Exceptions(25)"
+      "title": "123 Juges prud’hommes"
     },
     {
       "number": 124,
       "suffix": "",
       "raw": "124",
-      "title": "Compétences"
+      "title": "124 Compétences"
     },
     {
       "number": 125,
@@ -799,7 +769,7 @@
       "number": 127,
       "suffix": "",
       "raw": "127",
-      "title": "(24)"
+      "title": "127 Préavis"
     },
     {
       "number": 128,
@@ -811,7 +781,7 @@
       "number": 129,
       "suffix": "",
       "raw": "129",
-      "title": "Election"
+      "title": "Élection"
     },
     {
       "number": 130,
@@ -835,7 +805,7 @@
       "number": 133,
       "suffix": "",
       "raw": "133",
-      "title": "Tâches"
+      "title": "133 Tâches"
     },
     {
       "number": 134,
@@ -847,7 +817,7 @@
       "number": 135,
       "suffix": "",
       "raw": "135",
-      "title": "Concertation"
+      "title": "135 Concertation"
     },
     {
       "number": 136,
@@ -871,7 +841,7 @@
       "number": 139,
       "suffix": "",
       "raw": "139",
-      "title": "Procédure"
+      "title": "139 Procédure"
     },
     {
       "number": 140,
@@ -883,7 +853,7 @@
       "number": 141,
       "suffix": "",
       "raw": "141",
-      "title": "Exécutif communal"
+      "title": "141 Exécutif communal"
     },
     {
       "number": 142,
@@ -943,7 +913,7 @@
       "number": 151,
       "suffix": "",
       "raw": "151",
-      "title": "Evaluation"
+      "title": "Évaluation"
     },
     {
       "number": 152,
@@ -997,13 +967,13 @@
       "number": 160,
       "suffix": "",
       "raw": "160",
-      "title": "Protection de la nature et du"
+      "title": "Protection de la nature et du paysage"
     },
     {
       "number": 161,
       "suffix": "",
       "raw": "161",
-      "title": "Ecologie industrielle"
+      "title": "Écologie industrielle"
     },
     {
       "number": 162,
@@ -1051,7 +1021,7 @@
       "number": 169,
       "suffix": "",
       "raw": "169",
-      "title": "Energie nucléaire"
+      "title": "Énergie nucléaire"
     },
     {
       "number": 170,
@@ -1081,13 +1051,7 @@
       "number": 174,
       "suffix": "",
       "raw": "174",
-      "title": "Etablissements publics médicaux"
-    },
-    {
-      "number": 174,
-      "suffix": "",
-      "raw": "174",
-      "title": "A(8)"
+      "title": "174 Établissements publics médicaux"
     },
     {
       "number": 175,
@@ -1129,13 +1093,13 @@
       "number": 181,
       "suffix": "",
       "raw": "181",
-      "title": "Soutien aux communes"
+      "title": "181 Soutien aux communes"
     },
     {
       "number": 182,
       "suffix": "",
       "raw": "182",
-      "title": "Autres mesures"
+      "title": "182 Autres mesures"
     },
     {
       "number": 183,
@@ -1192,22 +1156,10 @@
       "title": "Transports publics"
     },
     {
-      "number": 191,
-      "suffix": "",
-      "raw": "191",
-      "title": "A(7)  Trafic aérien"
-    },
-    {
       "number": 192,
       "suffix": "",
       "raw": "192",
       "title": "Infrastructures"
-    },
-    {
-      "number": 192,
-      "suffix": "",
-      "raw": "192",
-      "title": "A(2)  Traversée du Lac"
     },
     {
       "number": 193,
@@ -1219,7 +1171,7 @@
       "number": 194,
       "suffix": "",
       "raw": "194",
-      "title": "Formation obligatoire"
+      "title": "194 Formation obligatoire"
     },
     {
       "number": 195,
@@ -1249,7 +1201,7 @@
       "number": 199,
       "suffix": "",
       "raw": "199",
-      "title": "Enseignement privé"
+      "title": "199 Enseignement privé"
     },
     {
       "number": 200,
@@ -1285,7 +1237,7 @@
       "number": 205,
       "suffix": "",
       "raw": "205",
-      "title": "(18)  Famille"
+      "title": "Famille"
     },
     {
       "number": 206,
@@ -1316,12 +1268,6 @@
       "suffix": "",
       "raw": "210",
       "title": "Population étrangère"
-    },
-    {
-      "number": 210,
-      "suffix": "",
-      "raw": "210",
-      "title": "A(22)  Lutte contre les"
     },
     {
       "number": 211,
@@ -1357,7 +1303,7 @@
       "number": 216,
       "suffix": "",
       "raw": "216",
-      "title": "(5)  Art et culture"
+      "title": ""
     },
     {
       "number": 217,
@@ -1369,7 +1315,7 @@
       "number": 218,
       "suffix": "",
       "raw": "218",
-      "title": "Edifices ecclésiastiques"
+      "title": "Édifices ecclésiastiques"
     },
     {
       "number": 219,
@@ -1429,72 +1375,68 @@
       "number": 228,
       "suffix": "",
       "raw": "228",
-      "title": "Disposition transitoire ad art. 48,"
+      "title": "Disposition transitoire ad art. 48, al. 4 (titularité)"
     },
     {
       "number": 229,
       "suffix": "",
       "raw": "229",
-      "title": "Disposition transitoire ad art. 56"
+      "title": "Disposition transitoire ad art. 56 à 64 et 71 à 76 (initiatives populaires)"
     },
     {
       "number": 230,
       "suffix": "",
       "raw": "230",
-      "title": "Disposition transitoire ad art. 65"
+      "title": "Disposition transitoire ad art. 65 à 70 et 77 à 79 (référendums)"
     },
     {
       "number": 231,
       "suffix": "",
       "raw": "231",
-      "title": "(a)  Disposition transitoire ad art. 56, al. 1, art. 57, al. 1,"
+      "title": "Disposition transitoire ad art. 56, al. 1, 57, al. 1, 67, al. 1, 71, al. 1, et art. 77, al. 1"
     },
     {
       "number": 232,
       "suffix": "",
       "raw": "232",
-      "title": "Disposition transitoire ad art. 81,"
+      "title": "Disposition transitoire ad art. 81, al. 2, et 102, al. 2 (date des élections cantonales)"
     },
     {
       "number": 233,
       "suffix": "",
       "raw": "233",
-      "title": "Disposition transitoire ad art. 82"
+      "title": "Disposition transitoire ad art. 82 (suppléance)"
     },
     {
       "number": 234,
       "suffix": "",
       "raw": "234",
-      "title": "Disposition transitoire ad art. 126"
+      "title": "Disposition transitoire ad art. 126 (désignation du Conseil supérieur de la magistrature)"
     },
     {
       "number": 235,
       "suffix": "",
       "raw": "235",
-      "title": "Disposition transitoire ad art. 138"
+      "title": "Disposition transitoire ad art. 138 et 139 (fusion de communes)"
     },
     {
       "number": 236,
       "suffix": "",
       "raw": "236",
-      "title": "Disposition transitoire ad art. 200"
+      "title": "Disposition transitoire ad art. 200 à 203 (accueil préscolaire)"
     },
     {
       "number": 237,
       "suffix": "",
       "raw": "237",
-      "title": "Publicité des débats de l’Assemblée"
+      "title": "Publicité des débats de l’Assemblée constituante"
     }
   ],
   "article_texts": {
     "1": [
       {
-        "num": null,
-        "text": "canton de Genève"
-      },
-      {
         "num": "1",
-        "text": "La République de Genève est un Etat de droit démocratique fondé sur la liberté, la justice, la responsabilité et la solidarité."
+        "text": "La République de Genève est un État de droit démocratique fondé sur la liberté, la justice, la responsabilité et la solidarité."
       },
       {
         "num": "2",
@@ -1503,26 +1445,22 @@
     ],
     "2": [
       {
-        "num": null,
-        "text": "la souveraineté"
-      },
-      {
         "num": "1",
         "text": "La souveraineté réside dans le peuple, qui l’exerce directement ou par voie d’élection. Tous les pouvoirs politiques et toutes les fonctions publiques ne sont qu’une délégation de sa suprême autorité."
       },
       {
         "num": "2",
-        "text": "Les structures et l’autorité de l’Etat sont fondées sur le principe de la séparation des pouvoirs."
+        "text": "Les structures et l’autorité de l’État sont fondées sur le principe de la séparation des pouvoirs."
       },
       {
         "num": "3",
-        "text": "Les autorités collaborent pour atteindre les buts de l’Etat."
+        "text": "Les autorités collaborent pour atteindre les buts de l’État."
       }
     ],
     "3": [
       {
         "num": "1",
-        "text": "L’Etat est laïque. Il observe une neutralité religieuse."
+        "text": "L’État est laïque. Il observe une neutralité religieuse."
       },
       {
         "num": "2",
@@ -1546,7 +1484,7 @@
       },
       {
         "num": "2",
-        "text": "L’Etat promeut l’apprentissage et l’usage de la langue française. Il en assure la défense."
+        "text": "L’État promeut l’apprentissage et l’usage de la langue française. Il en assure la défense."
       }
     ],
     "6": [
@@ -1557,8 +1495,12 @@
     ],
     "7": [
       {
-        "num": null,
-        "text": "L’hymne officiel de la République et canton de Genève est le « Cé qu’è lainô » en arpitan genevois."
+        "num": "1",
+        "text": "Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques."
+      },
+      {
+        "num": "2",
+        "text": "La devise est «Post tenebras lux»."
       }
     ],
     "8": [
@@ -1569,12 +1511,8 @@
     ],
     "9": [
       {
-        "num": null,
-        "text": "l’activité publique"
-      },
-      {
         "num": "1",
-        "text": "L’Etat agit au service de la collectivité, en complément de l’initiative privée et de la responsabilité individuelle."
+        "text": "L’État agit au service de la collectivité, en complément de l’initiative privée et de la responsabilité individuelle."
       },
       {
         "num": "2",
@@ -1598,7 +1536,7 @@
     "11": [
       {
         "num": "1",
-        "text": "L’Etat informe largement, consulte régulièrement et met en place des cadres de concertation."
+        "text": "L’État informe largement, consulte régulièrement et met en place des cadres de concertation."
       },
       {
         "num": "2",
@@ -1608,18 +1546,14 @@
     "12": [
       {
         "num": "1",
-        "text": "L’Etat répond des dommages causés sans droit par ses agents dans l’exercice de leurs fonctions."
+        "text": "L’État répond des dommages causés sans droit par ses agents dans l’exercice de leurs fonctions."
       },
       {
         "num": "2",
-        "text": "La loi fixe les conditions auxquelles l’Etat répond des dommages causés de manière licite par ses agents dans l’exercice de leurs fonctions."
+        "text": "La loi fixe les conditions auxquelles l’État répond des dommages causés de manière licite par ses agents dans l’exercice de leurs fonctions."
       }
     ],
     "13": [
-      {
-        "num": null,
-        "text": "individuelle"
-      },
       {
         "num": "1",
         "text": "Toute personne doit respecter l’ordre juridique."
@@ -1659,16 +1593,12 @@
     ],
     "16": [
       {
-        "num": null,
-        "text": "handicapées"
-      },
-      {
         "num": "1",
         "text": "L’accès des personnes handicapées aux bâtiments, installations et équipements, ainsi qu’aux prestations destinées au public, est garanti."
       },
       {
         "num": "2",
-        "text": "Dans leurs rapports avec l’Etat, les personnes handicapées ont le droit d’obtenir des informations et de communiquer sous une forme adaptée à leurs besoins et à leurs capacités."
+        "text": "Dans leurs rapports avec l’État, les personnes handicapées ont le droit d’obtenir des informations et de communiquer sous une forme adaptée à leurs besoins et à leurs capacités."
       },
       {
         "num": "3",
@@ -1678,14 +1608,10 @@
     "17": [
       {
         "num": null,
-        "text": "l’arbitraire et protection de la bonne foi Toute personne a le droit d’être traitée sans arbitraire et conformément aux règles de la bonne foi."
+        "text": "Toute personne a le droit d’être traitée sans arbitraire et conformément aux règles de la bonne foi."
       }
     ],
     "18": [
-      {
-        "num": null,
-        "text": "l’intégrité"
-      },
       {
         "num": "1",
         "text": "Toute personne a droit à la sauvegarde de sa vie et de son intégrité physique et psychique."
@@ -1696,13 +1622,13 @@
       },
       {
         "num": "3",
-        "text": "Nul ne peut être refoulé sur le territoire d’un Etat dans lequel il risque la torture ou tout autre traitement ou peine cruels et inhumains ou toute autre atteinte grave à son intégrité."
+        "text": "Nul ne peut être refoulé sur le territoire d’un État dans lequel il risque la torture ou tout autre traitement ou peine cruels et inhumains ou toute autre atteinte grave à son intégrité."
       }
     ],
     "19": [
       {
         "num": null,
-        "text": "sain Toute personne a le droit de vivre dans un environnement sain."
+        "text": "Toute personne a le droit de vivre dans un environnement sain."
       }
     ],
     "20": [
@@ -1713,30 +1639,18 @@
     ],
     "21": [
       {
-        "num": null,
-        "text": "numérique"
-      },
-      {
         "num": "1",
-        "text": "Toute personne a le droit à la sauvegarde de son intégrité numérique."
+        "text": "Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et de ses communications."
       },
       {
         "num": "2",
-        "text": "L’intégrité numérique inclut notamment le droit d’être protégé contre le traitement abusif des données liées à sa vie numérique, le droit à la sécurité dans l’espace numérique, le droit à une vie hors ligne ainsi que le droit à l’oubli."
-      },
-      {
-        "num": "3",
-        "text": "Le traitement des données personnelles dont la responsabilité incombe à l’Etat ne peut s’effectuer à l’étranger que dans la mesure où un niveau de protection adéquat est assuré."
-      },
-      {
-        "num": "4",
-        "text": "L’Etat favorise l’inclusion numérique et sensibilise la population aux enjeux du numérique. Il s’engage en faveur du développement de la souveraineté numérique de la Suisse et collabore à sa mise en œuvre."
+        "text": "Toute personne a le droit d’être protégée contre l’emploi abusif des données qui la concernent."
       }
     ],
     "22": [
       {
         "num": null,
-        "text": "autres formes de vie Toute personne a le droit de se marier, de conclure un partenariat enregistré, de fonder une famille ou de choisir une autre forme de vie, seule ou en commun."
+        "text": "Toute personne a le droit de se marier, de conclure un partenariat enregistré, de fonder une famille ou de choisir une autre forme de vie, seule ou en commun."
       }
     ],
     "23": [
@@ -1768,14 +1682,10 @@
       },
       {
         "num": "3",
-        "text": "Toute personne dépourvue des ressources financières nécessaires à une formation reconnue a droit à un soutien de l’Etat."
+        "text": "Toute personne dépourvue des ressources financières nécessaires à une formation reconnue a droit à un soutien de l’État."
       }
     ],
     "25": [
-      {
-        "num": null,
-        "text": "de croyance"
-      },
       {
         "num": "1",
         "text": "La liberté de conscience et de croyance est garantie."
@@ -1794,10 +1704,6 @@
       }
     ],
     "26": [
-      {
-        "num": null,
-        "text": "d’expression"
-      },
       {
         "num": "1",
         "text": "Toute personne a le droit de former, d’exprimer et de diffuser librement son opinion."
@@ -1859,10 +1765,6 @@
     ],
     "32": [
       {
-        "num": null,
-        "text": "manifestation"
-      },
-      {
         "num": "1",
         "text": "La liberté de réunion et de manifestation est garantie."
       },
@@ -1887,8 +1789,8 @@
         "text": "La propriété est garantie."
       },
       {
-        "num": "2",
-        "text": "Une pleine indemnité est due en cas d’expropriation ou de restriction de la propriété qui équivaut à une expropriation."
+        "num": null,
+        "text": "2 Une pleine indemnité est due en cas d’expropriation ou de restriction de la propriété qui équivaut à une expropriation."
       }
     ],
     "35": [
@@ -1932,14 +1834,10 @@
     "38": [
       {
         "num": null,
-        "text": "Le droit à l’alimentation est garanti. Toute personne a droit à une alimentation adéquate, ainsi que d’être à l’abri de la faim."
+        "text": "Le droit au logement est garanti. Toute personne dans le besoin a droit d’être logée de manière appropriée."
       }
     ],
     "39": [
-      {
-        "num": null,
-        "text": "suffisant"
-      },
       {
         "num": "1",
         "text": "Toute personne a droit à la couverture de ses besoins vitaux afin de favoriser son intégration sociale et professionnelle."
@@ -1978,7 +1876,7 @@
       },
       {
         "num": "4",
-        "text": "L’Etat dispense une éducation au respect de la dignité humaine et des droits fondamentaux."
+        "text": "L’État dispense une éducation au respect de la dignité humaine et des droits fondamentaux."
       }
     ],
     "42": [
@@ -2003,10 +1901,6 @@
       {
         "num": "4",
         "text": "L’essence des droits fondamentaux est inviolable."
-      },
-      {
-        "num": null,
-        "text": "Titre III Droits politiques Chapitre I Dispositions générales"
       }
     ],
     "44": [
@@ -2036,21 +1930,17 @@
     "46": [
       {
         "num": "1",
-        "text": "Le Conseil d’Etat organise et surveille les opérations électorales."
+        "text": "Le Conseil d’État organise et surveille les opérations électorales."
       },
       {
         "num": "2",
-        "text": "Les votations ont lieu dans le plus bref délai, mais au plus tard un an après :"
-      },
-      {
-        "num": null,
-        "text": "a)  l’adoption d’une loi constitutionnelle par le Grand Conseil; b)  le refus d’une initiative sans contreprojet ou l’adoption d’un contreprojet pour autant que l’initiative ne soit pas retirée; c)  l’écoulement du délai imparti par la constitution pour le traitement d’une initiative; d)  la constatation par le Conseil d’Etat de l’aboutissement d’une demande de référendum; e)  l’adoption d’une résolution de destitution d’un membre du Conseil d’Etat pour perte de confiance par le Grand Conseil.(13)"
+        "text": "Les votations ont lieu dans le plus bref délai, mais au plus tard un an après:"
       }
     ],
     "47": [
       {
         "num": null,
-        "text": "signatures Le droit d’utiliser le domaine public gratuitement afin de récolter des signatures pour des initiatives ou des demandes de référendum est garanti."
+        "text": "Le droit d’utiliser le domaine public gratuitement afin de récolter des signatures pour des initiatives ou des demandes de référendum est garanti."
       }
     ],
     "48": [
@@ -2064,23 +1954,23 @@
       },
       {
         "num": "3",
-        "text": "Sont titulaires du droit d’élire, de voter et de signer des initiatives et des demandes de référendum sur le plan communal les personnes de nationalité étrangère âgées de 18 ans révolus qui ont leur domicile légal en Suisse depuis 8 ans au moins."
+        "text": "Sont titulaires du droit d’élire, de voter et de signer des initiatives et des demandes de référendum sur le plan communal les personnes de nationalité étrangère âgées de 18 ans révolus qui ont leur domicile légal en Suisse depuis huit ans au moins."
+      },
+      {
+        "num": "4",
+        "text": "…6"
       }
     ],
     "49": [
       {
         "num": null,
-        "text": "citoyenneté L’Etat contribue à la préparation à la citoyenneté."
+        "text": "L’État contribue à la préparation à la citoyenneté."
       }
     ],
     "50": [
       {
-        "num": null,
-        "text": "femmes et des hommes"
-      },
-      {
         "num": "1",
-        "text": "L’Etat promeut une représentation équilibrée des femmes et des hommes au sein des autorités."
+        "text": "L’État promeut une représentation équilibrée des femmes et des hommes au sein des autorités."
       },
       {
         "num": "2",
@@ -2094,35 +1984,27 @@
       },
       {
         "num": "2",
-        "text": "L’Etat fixe les exigences de transparence qui leur sont applicables et peut les soutenir financièrement."
+        "text": "L’État fixe les exigences de transparence qui leur sont applicables et peut les soutenir financièrement."
       }
     ],
     "52": [
       {
         "num": "1",
-        "text": "Le corps électoral cantonal élit :"
-      },
-      {
-        "num": null,
-        "text": "a)  le Grand Conseil; b)  le Conseil d’Etat; c)  les magistrates et magistrats du pouvoir judiciaire; d)  la Cour des comptes; e)  la députation genevoise au Conseil des Etats."
+        "text": "Le corps électoral cantonal élit:"
       },
       {
         "num": "2",
-        "text": "L’élection au Conseil des Etats a lieu en même temps que celle du Conseil national, pour un mandat de 4 ans, selon les modalités d’élection du Conseil d’Etat."
+        "text": "L’élection au Conseil des États a lieu en même temps que celle du Conseil national, pour un mandat de quatre ans, selon les modalités d’élection du Conseil d’État."
       },
       {
         "num": "3",
-        "text": "En cas d’élection au Conseil d’Etat ou au Conseil des Etats, les personnes domiciliées à l’étranger sont tenues de prendre domicile dans le canton."
+        "text": "En cas d’élection au Conseil d’État ou au Conseil des États, les personnes domiciliées à l’étranger sont tenues de prendre domicile dans le canton."
       }
     ],
     "53": [
       {
         "num": null,
-        "text": "Le corps électoral communal élit :"
-      },
-      {
-        "num": null,
-        "text": "a)  le conseil municipal; b)  l’exécutif communal."
+        "text": "Le corps électoral communal élit:"
       }
     ],
     "54": [
@@ -2132,7 +2014,7 @@
       },
       {
         "num": "2",
-        "text": "Les listes qui ont recueilli moins de 7% des suffrages valablement exprimés n’obtiennent aucun siège."
+        "text": "Les listes qui ont recueilli moins de 7 % des suffrages valablement exprimés n’obtiennent aucun siège."
       }
     ],
     "55": [
@@ -2154,17 +2036,13 @@
       },
       {
         "num": "5",
-        "text": "Si le nombre de candidatures est égal au nombre de sièges à pourvoir, l’élection est tacite. Cette règle ne s’applique pas au premier tour de l’élection du Conseil d’Etat et de la députation genevoise au Conseil des Etats.(3) Chapitre III      Initiative populaire cantonale"
+        "text": "Si le nombre de candidatures est égal au nombre de sièges à pourvoir, l’élection est tacite. Cette règle ne s’applique pas au premier tour de l’élection du Conseil d’État et de la députation genevoise au Conseil des États.7"
       }
     ],
     "56": [
       {
-        "num": null,
-        "text": "constitutionnelle"
-      },
-      {
         "num": "1",
-        "text": "2% des titulaires des droits politiques peuvent soumettre au Grand Conseil une proposition de révision totale ou partielle de la constitution.(20)"
+        "text": "2 % des titulaires des droits politiques peuvent soumettre au Grand Conseil une proposition de révision totale ou partielle de la constitution.8"
       },
       {
         "num": "2",
@@ -2178,7 +2056,7 @@
     "57": [
       {
         "num": "1",
-        "text": "1,5% des titulaires des droits politiques peuvent soumettre au Grand Conseil une proposition législative dans toutes les matières de la compétence de ses membres.(20)"
+        "text": "1,5 % des titulaires des droits politiques peuvent soumettre au Grand Conseil une proposition législative dans toutes les matières de la compétence de ses membres.9"
       },
       {
         "num": "2",
@@ -2194,13 +2072,13 @@
     "59": [
       {
         "num": null,
-        "text": "Les signatures à l’appui d’une initiative doivent être déposées dans un délai de 4 mois dès la publication de son lancement."
+        "text": "Les signatures à l’appui d’une initiative doivent être déposées dans un délai de quatre mois dès la publication de son lancement."
       }
     ],
     "60": [
       {
         "num": "1",
-        "text": "La validité de l’initiative est examinée par le Conseil d’Etat."
+        "text": "La validité de l’initiative est examinée par le Conseil d’État."
       },
       {
         "num": "2",
@@ -2208,11 +2086,11 @@
       },
       {
         "num": "3",
-        "text": "L’initiative qui ne respecte pas l’unité de la matière est scindée ou déclarée partiellement nulle, selon que ses différentes parties sont en elles-mêmes valides ou non. A défaut, ou si le non-respect de l’unité de la matière était manifeste d’emblée, l’initiative est déclarée nulle."
+        "text": "L’initiative qui ne respecte pas l’unité de la matière est scindée ou déclarée partiellement nulle, selon que ses différentes parties sont en elles-mêmes valides ou non. À défaut, ou si le non-respect de l’unité de la matière était manifeste d’emblée, l’initiative est déclarée nulle."
       },
       {
         "num": "4",
-        "text": "L’initiative dont une partie n’est pas conforme au droit est déclarée partiellement nulle si la ou les parties qui subsistent sont en elles-mêmes valides. A défaut, l’initiative est déclarée nulle."
+        "text": "L’initiative dont une partie n’est pas conforme au droit est déclarée partiellement nulle si la ou les parties qui subsistent sont en elles-mêmes valides. À défaut, l’initiative est déclarée nulle."
       }
     ],
     "61": [
@@ -2236,11 +2114,7 @@
     "62": [
       {
         "num": "1",
-        "text": "La loi règle la procédure de manière à respecter les délais suivants dès la constatation de l’aboutissement de l’initiative :"
-      },
-      {
-        "num": null,
-        "text": "a)  4 mois au plus pour statuer sur la validité de l’initiative; b)  12 mois au plus pour statuer sur la prise en considération; c)  24 mois au plus pour l’ensemble de la procédure si le Grand Conseil a accepté une initiative non formulée ou décidé d’opposer un contreprojet à une initiative."
+        "text": "La loi règle la procédure de manière à respecter les délais suivants dès la constatation de l’aboutissement de l’initiative:"
       },
       {
         "num": "2",
@@ -2254,42 +2128,30 @@
       },
       {
         "num": "2",
-        "text": "L’initiative qui n’a pas été traitée après l’écoulement du délai prescrit à l’article 62, alinéa 1, lettre b ou c, est soumise au corps électoral."
+        "text": "L’initiative qui n’a pas été traitée après l’écoulement du délai prescrit à l’art. 62, al. 1, let. b ou c, est soumise au corps électoral."
       },
       {
         "num": "3",
-        "text": "Le contreprojet du Grand Conseil à une initiative est soumis au corps électoral si l’initiative n’est pas retirée."
-      },
-      {
-        "num": null,
-        "text": "Celui-ci se prononce indépendamment sur l’initiative et sur le contreprojet, puis indique sa préférence entre les deux en répondant à une question subsidiaire."
+        "text": "Le contreprojet du Grand Conseil à une initiative est soumis au corps électoral si l’initiative n’est pas retirée. Celui-ci se prononce indépendamment sur l’initiative et sur le contreprojet, puis indique sa préférence entre les deux en répondant à une question subsidiaire."
       }
     ],
     "64": [
       {
         "num": null,
-        "text": "initiative non formulée Si le corps électoral accepte une initiative non formulée, le Grand Conseil est tenu de la concrétiser dans un délai de 12 mois par un projet rédigé."
+        "text": "Si le corps électoral accepte une initiative non formulée, le Grand Conseil est tenu de la concrétiser dans un délai de douze mois par un projet rédigé."
       }
     ],
     "65": [
-      {
-        "num": null,
-        "text": "obligatoire"
-      },
       {
         "num": "1",
         "text": "Les révisions de la constitution sont soumises d’office au corps électoral."
       },
       {
         "num": "2",
-        "text": "Les résolutions de destitution d’un membre du Conseil d’Etat pour perte de confiance, adoptées par le Grand Conseil, sont également soumises d’office au corps électoral."
+        "text": "Les résolutions de destitution d’un membre du Conseil d’État pour perte de confiance, adoptées par le Grand Conseil, sont également soumises d’office au corps électoral.10"
       }
     ],
     "66": [
-      {
-        "num": null,
-        "text": "d’assainissement financier"
-      },
       {
         "num": "1",
         "text": "Dans le cadre des mesures nécessaires à l’assainissement financier, la loi peut prévoir que sont soumises d’office au corps électoral des mesures de rang législatif."
@@ -2306,15 +2168,11 @@
     "67": [
       {
         "num": "1",
-        "text": "Les lois, ainsi que les autres actes du Grand Conseil prévoyant des dépenses, sont soumis au corps électoral si le référendum est demandé par 1,5% des titulaires des droits politiques.(20)"
+        "text": "Les lois, ainsi que les autres actes du Grand Conseil prévoyant des dépenses, sont soumis au corps électoral si le référendum est demandé par 1,5 % des titulaires des droits politiques.11"
       },
       {
         "num": "2",
-        "text": "Sont également soumises au corps électoral si le référendum est demandé par 500 titulaires des droits politiques :"
-      },
-      {
-        "num": null,
-        "text": "a)  les lois qui ont pour objet un nouvel impôt ou qui portent sur la modification du taux ou de l’assiette d’un impôt existant; b)  les lois qui comportent une modification de la législation sur le logement, la protection des locataires et l’habitat, y compris les voies de droit en la matière."
+        "text": "Sont également soumises au corps électoral si le référendum est demandé par 500 titulaires des droits politiques:"
       },
       {
         "num": "3",
@@ -2328,7 +2186,7 @@
       },
       {
         "num": "2",
-        "text": "Ce délai est suspendu jusqu'au 15e jour qui suit Pâques inclus, du 15 juillet au 15 août inclus et du 23 décembre au 3 janvier inclus.(19)"
+        "text": "Ce délai est suspendu jusqu’au 15e jour qui suit Pâques inclus, du 15 juillet au 15 août inclus et du 23 décembre au 3 janvier inclus.12"
       }
     ],
     "69": [
@@ -2350,11 +2208,7 @@
     "71": [
       {
         "num": "1",
-        "text": "Peuvent demander au conseil municipal de délibérer sur un objet déterminé :"
-      },
-      {
-        "num": null,
-        "text": "a)  10% des titulaires des droits politiques dans les communes de moins de 5 000 titulaires des droits politiques; b)  5% des titulaires des droits politiques, mais au moins 500 d’entre eux, dans les communes de 5 000 à 30 000 titulaires des droits politiques; c)  3% des titulaires des droits politiques, mais au moins 1 500 et au plus 2 400 d’entre eux, dans les communes de plus de 30 000 titulaires des droits politiques.(23)"
+        "text": "Peuvent demander au conseil municipal de délibérer sur un objet déterminé:"
       },
       {
         "num": "2",
@@ -2362,21 +2216,21 @@
       },
       {
         "num": "3",
-        "text": "Les articles 58 et 59 sont applicables."
+        "text": "Les art. 58 et 59 sont applicables."
       }
     ],
     "72": [
       {
         "num": "1",
-        "text": "La validité de l’initiative est examinée par le Conseil d’Etat."
+        "text": "La validité de l’initiative est examinée par le Conseil d’État."
       },
       {
         "num": "2",
-        "text": "L’initiative qui ne respecte pas l’unité de la matière est scindée ou déclarée partiellement nulle, selon que ses différentes parties sont en elles-mêmes valides ou non. A défaut, ou si le non-respect de l’unité de la matière était manifeste d’emblée, l’initiative est déclarée nulle."
+        "text": "L’initiative qui ne respecte pas l’unité de la matière est scindée ou déclarée partiellement nulle, selon que ses différentes parties sont en elles-mêmes valides ou non. À défaut, ou si le non-respect de l’unité de la matière était manifeste d’emblée, l’initiative est déclarée nulle."
       },
       {
         "num": "3",
-        "text": "L’initiative dont une partie n’est pas conforme au droit est déclarée partiellement nulle si la ou les parties qui subsistent sont en elles-mêmes valides. A défaut, l’initiative est déclarée nulle."
+        "text": "L’initiative dont une partie n’est pas conforme au droit est déclarée partiellement nulle si la ou les parties qui subsistent sont en elles-mêmes valides. À défaut, l’initiative est déclarée nulle."
       }
     ],
     "73": [
@@ -2396,11 +2250,7 @@
     "74": [
       {
         "num": "1",
-        "text": "La loi règle la procédure de manière à respecter les délais suivants dès la constatation de l’aboutissement de l’initiative :"
-      },
-      {
-        "num": null,
-        "text": "a)  4 mois au plus pour statuer sur la validité de l’initiative; b)  12 mois au plus pour statuer sur la prise en considération; c)  24 mois au plus pour l’ensemble de la procédure si le conseil municipal a accepté une initiative ou décidé de lui opposer un contreprojet."
+        "text": "La loi règle la procédure de manière à respecter les délais suivants dès la constatation de l’aboutissement de l’initiative:"
       },
       {
         "num": "2",
@@ -2414,39 +2264,27 @@
       },
       {
         "num": "2",
-        "text": "L’initiative qui n’a pas été traitée après l’écoulement du délai prescrit à l’article 74, alinéa 1, lettre b ou c, est soumise au corps électoral."
+        "text": "L’initiative qui n’a pas été traitée après l’écoulement du délai prescrit à l’art. 74, al. 1, let. b ou c, est soumise au corps électoral."
       },
       {
         "num": "3",
-        "text": "Le contreprojet du conseil municipal à une initiative est soumis au corps électoral si l’initiative n’est pas retirée."
-      },
-      {
-        "num": null,
-        "text": "Celui-ci se prononce indépendamment sur l’initiative et sur le contreprojet, puis indique sa préférence entre les deux en répondant à une question subsidiaire."
+        "text": "Le contreprojet du conseil municipal à une initiative est soumis au corps électoral si l’initiative n’est pas retirée. Celui-ci se prononce indépendamment sur l’initiative et sur le contreprojet, puis indique sa préférence entre les deux en répondant à une question subsidiaire."
       }
     ],
     "76": [
       {
         "num": null,
-        "text": "Si le corps électoral accepte une initiative ou un contreprojet non formulé, le conseil municipal est tenu d’adopter une délibération conforme dans un délai de 12 mois."
+        "text": "Si le corps électoral accepte une initiative ou un contreprojet non formulé, le conseil municipal est tenu d’adopter une délibération conforme dans un délai de douze mois."
       }
     ],
     "77": [
       {
-        "num": null,
-        "text": "conseils municipaux"
-      },
-      {
         "num": "1",
-        "text": "Les délibérations des conseils municipaux sont soumises au corps électoral communal si le référendum est demandé par :"
-      },
-      {
-        "num": null,
-        "text": "a)  10% des titulaires des droits politiques dans les communes de moins de 5 000 titulaires des droits politiques; b)  5% des titulaires des droits politiques, mais au moins 500 d’entre eux, dans les communes de 5 000 à 30 000 titulaires des droits politiques; c)  3% des titulaires des droits politiques, mais au moins 1 500 et au plus 2 400 d’entre eux, dans les communes de plus de 30 000 titulaires des droits politiques.(23)"
+        "text": "Les délibérations des conseils municipaux sont soumises au corps électoral communal si le référendum est demandé par:"
       },
       {
         "num": "2",
-        "text": "L’article 68 est applicable."
+        "text": "L’art. 68 est applicable."
       }
     ],
     "78": [
@@ -2467,28 +2305,12 @@
       {
         "num": "2",
         "text": "Si le référendum est demandé contre une délibération portant sur un règlement ou un arrêté de portée générale, la délibération devient caduque un an après son entrée en vigueur, à moins qu’elle n’ait été dans l’intervalle acceptée par le corps électoral. La délibération caduque ne peut être renouvelée selon la procédure d’urgence. Le référendum est exclu contre les autres délibérations déclarées urgentes."
-      },
-      {
-        "num": null,
-        "text": "Titre IV            Autorités Chapitre I        Grand Conseil Section"
-      },
-      {
-        "num": "1",
-        "text": "Principe"
       }
     ],
     "80": [
       {
         "num": null,
         "text": "Le Grand Conseil exerce le pouvoir législatif."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "2",
-        "text": "Composition"
       }
     ],
     "81": [
@@ -2498,7 +2320,7 @@
       },
       {
         "num": "2",
-        "text": "Il est élu tous les 5 ans, en alternance avec les élections communales, au système proportionnel."
+        "text": "Il est élu tous les cinq ans, en alternance avec les élections communales, au système proportionnel."
       }
     ],
     "82": [
@@ -2510,19 +2332,11 @@
     "83": [
       {
         "num": "1",
-        "text": "Le mandat de membre du Grand Conseil est incompatible avec :"
-      },
-      {
-        "num": null,
-        "text": "a)  un mandat au Conseil national ou au Conseil des Etats; b)  tout mandat électif à l’étranger; c)  une fonction au sein de la magistrature du pouvoir judiciaire et de la Cour des comptes."
+        "text": "Le mandat de membre du Grand Conseil est incompatible avec:"
       },
       {
         "num": "2",
-        "text": "Il est également incompatible avec les fonctions suivantes :"
-      },
-      {
-        "num": null,
-        "text": "a)  collaboratrice ou collaborateur de l’entourage immédiat des membres du Conseil d’Etat et de la chancelière ou du chancelier; b)  collaboratrice ou collaborateur du secrétariat général du Grand Conseil; c)  cadre supérieur de l’administration cantonale et des établissements autonomes de droit public."
+        "text": "Il est également incompatible avec les fonctions suivantes:"
       }
     ],
     "84": [
@@ -2532,13 +2346,13 @@
       },
       {
         "num": "2",
-        "text": "Ils s’abstiennent de participer au débat et au vote d’un objet dans lequel ils ont un conflit d’intérêts ou lorsqu’ils ont collaboré à l’élaboration de la proposition ou de la position du Conseil d’Etat en qualité de membre de l’administration cantonale."
+        "text": "Ils s’abstiennent de participer au débat et au vote d’un objet dans lequel ils ont un conflit d’intérêts ou lorsqu’ils ont collaboré à l’élaboration de la proposition ou de la position du Conseil d’État en qualité de membre de l’administration cantonale."
       }
     ],
     "85": [
       {
         "num": null,
-        "text": "Les membres du Grand Conseil et du Conseil d’Etat s’expriment librement devant le parlement. Ils n’encourent aucune responsabilité juridique pour les propos qu’ils y tiennent, sauf exceptions prévues par la loi."
+        "text": "Les membres du Grand Conseil et du Conseil d’État s’expriment librement devant le parlement. Ils n’encourent aucune responsabilité juridique pour les propos qu’ils y tiennent, sauf exceptions prévues par la loi."
       }
     ],
     "86": [
@@ -2548,11 +2362,11 @@
       },
       {
         "num": "2",
-        "text": "Il se réunit en séance extraordinaire à la demande de 30 de ses membres ou du Conseil d’Etat."
+        "text": "Il se réunit en séance extraordinaire à la demande de 30 de ses membres ou du Conseil d’État."
       },
       {
         "num": "3",
-        "text": "Les membres du Conseil d’Etat assistent aux séances et peuvent participer aux débats."
+        "text": "Les membres du Conseil d’État assistent aux séances et peuvent participer aux débats."
       },
       {
         "num": "4",
@@ -2578,7 +2392,7 @@
     "89": [
       {
         "num": null,
-        "text": "l’administration Le Conseil d’Etat fournit au Grand Conseil tous les renseignements utiles à l’exercice de ses fonctions."
+        "text": "Le Conseil d’État fournit au Grand Conseil tous les renseignements utiles à l’exercice de ses fonctions."
       }
     ],
     "90": [
@@ -2597,14 +2411,6 @@
       {
         "num": "4",
         "text": "Elles peuvent se procurer des renseignements, consulter des documents, mener des enquêtes et obtenir la collaboration active du pouvoir exécutif."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "4",
-        "text": "Compétences"
       }
     ],
     "91": [
@@ -2624,14 +2430,10 @@
     "92": [
       {
         "num": null,
-        "text": "Le préavis du Conseil d’Etat est requis dans tous les cas où le Grand Conseil est appelé à statuer sur les relations extérieures et les affaires fédérales."
+        "text": "Le préavis du Conseil d’État est requis dans tous les cas où le Grand Conseil est appelé à statuer sur les relations extérieures et les affaires fédérales."
       }
     ],
     "93": [
-      {
-        "num": null,
-        "text": "intercantonales"
-      },
       {
         "num": "1",
         "text": "Le Grand Conseil autorise par voie législative la ratification des conventions intercantonales."
@@ -2648,13 +2450,13 @@
     "94": [
       {
         "num": null,
-        "text": "Le Grand Conseil exerce la haute surveillance sur le Conseil d’Etat, l’administration et les institutions cantonales de droit public, ainsi que sur la gestion et l’administration du pouvoir judiciaire et de la Cour des comptes."
+        "text": "Le Grand Conseil exerce la haute surveillance sur le Conseil d’État, l’administration et les institutions cantonales de droit public, ainsi que sur la gestion et l’administration du pouvoir judiciaire et de la Cour des comptes."
       }
     ],
     "95": [
       {
         "num": null,
-        "text": "La poursuite pénale des membres du Conseil d’Etat, de la magistrature du pouvoir judiciaire et de la Cour des comptes pour des infractions commises dans l’exercice de leurs fonctions est soumise à l’autorisation préalable du Grand Conseil."
+        "text": "La poursuite pénale des membres du Conseil d’État, de la magistrature du pouvoir judiciaire et de la Cour des comptes pour des infractions commises dans l’exercice de leurs fonctions est soumise à l’autorisation préalable du Grand Conseil."
       }
     ],
     "96": [
@@ -2672,15 +2474,11 @@
     "98": [
       {
         "num": "1",
-        "text": "Le Grand Conseil approuve par voie législative l’aliénation de tout immeuble propriété de l’Etat ou d’une personne morale de droit public à des personnes physiques ou morales autres que les personnes morales de droit public."
+        "text": "Le Grand Conseil approuve par voie législative l’aliénation de tout immeuble propriété de l’État ou d’une personne morale de droit public à des personnes physiques ou morales autres que les personnes morales de droit public."
       },
       {
         "num": "2",
-        "text": "Sont exceptés et soumis à l’approbation du Conseil d’Etat :"
-      },
-      {
-        "num": null,
-        "text": "a)  l’aliénation d’immeubles propriété des Services industriels, des communes ou des fondations communales de droit public; b)  les échanges et transferts résultant d’opérations d’aménagement du territoire, de remembrement foncier, de projets routiers ou d’autres projets déclarés d’utilité publique."
+        "text": "Sont exceptés et soumis à l’approbation du Conseil d’État:"
       },
       {
         "num": "3",
@@ -2701,112 +2499,80 @@
       {
         "num": null,
         "text": "Le Grand Conseil peut accorder l’amnistie générale ou particulière par voie législative."
-      },
-      {
-        "num": null,
-        "text": "Chapitre II       Conseil d’Etat Section"
-      },
-      {
-        "num": "1",
-        "text": "Principe"
       }
     ],
     "101": [
       {
         "num": null,
-        "text": "Le Conseil d’Etat exerce le pouvoir exécutif."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "2",
-        "text": "Composition"
+        "text": "Le Conseil d’État exerce le pouvoir exécutif."
       }
     ],
     "102": [
       {
         "num": "1",
-        "text": "Le Conseil d’Etat est composé de 7 conseillères ou conseillers d’Etat."
+        "text": "Le Conseil d’État est composé de sept conseillères ou conseillers d’État."
       },
       {
         "num": "2",
-        "text": "Il est élu tous les 5 ans au système majoritaire."
-      },
-      {
-        "num": null,
-        "text": "Le premier tour a lieu simultanément à l’élection du Grand Conseil."
+        "text": "Il est élu tous les cinq ans au système majoritaire. Le premier tour a lieu simultanément à l’élection du Grand Conseil."
       }
     ],
     "103": [
       {
         "num": "1",
-        "text": "Le mandat de membre du Conseil d’Etat est incompatible avec :"
-      },
-      {
-        "num": null,
-        "text": "a)  tout autre mandat électif; b)  toute autre activité lucrative."
+        "text": "Le mandat de membre du Conseil d’État est incompatible avec:"
       },
       {
         "num": "2",
-        "text": "L’entreprise dont un membre du Conseil d’Etat est propriétaire ou dans laquelle il exerce, soit directement, soit par personne interposée, une influence prépondérante ne peut être en relations d’affaires directes ou indirectes avec l’Etat."
+        "text": "L’entreprise dont un membre du Conseil d’État est propriétaire ou dans laquelle il exerce, soit directement, soit par personne interposée, une influence prépondérante ne peut être en relations d’affaires directes ou indirectes avec l’État."
       }
     ],
     "104": [
       {
         "num": null,
-        "text": "Les membres du Conseil d’Etat exercent librement leur mandat."
-      },
-      {
-        "num": null,
-        "text": "Ils rendent publics leurs liens avec des groupes d’intérêts."
+        "text": "Les membres du Conseil d’État exercent librement leur mandat. Ils rendent publics leurs liens avec des groupes d’intérêts."
       }
     ],
     "105": [
       {
         "num": "1",
-        "text": "Le Conseil d’Etat est une autorité collégiale."
+        "text": "Le Conseil d’État est une autorité collégiale."
       },
       {
         "num": "2",
-        "text": "Il nomme chaque année parmi ses membres sa présidente ou son président et sa vice-présidente ou son vice-président.(9)"
+        "text": "Il nomme chaque année parmi ses membres sa présidente ou son président et sa vice-présidente ou son vice-président.15"
       },
       {
         "num": "3",
-        "text": "Ces mandats ne sont pas renouvelables l’année suivante. La présidente ou le président sortant n’est pas éligible à la vice-présidence l’année suivante.(9)"
+        "text": "Ces mandats ne sont pas renouvelables l’année suivante. La présidente ou le président sortant n’est pas éligible à la vice-présidence l’année suivante.16"
       }
     ],
     "106": [
       {
         "num": "1",
-        "text": "Le Conseil d’Etat organise l’administration cantonale en départements et la dirige."
+        "text": "Le Conseil d’État organise l’administration cantonale en départements et la dirige."
       },
       {
         "num": "2",
-        "text": "Toute modification de la composition des départements est soumise pour approbation au Grand Conseil. Ce dernier se détermine par voie de résolution à la séance qui suit la proposition du Conseil d’Etat."
+        "text": "Toute modification de la composition des départements est soumise pour approbation au Grand Conseil. Ce dernier se détermine par voie de résolution à la séance qui suit la proposition du Conseil d’État."
       },
       {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "4",
-        "text": "Compétences"
+        "num": "3",
+        "text": "…17"
       }
     ],
     "107": [
       {
         "num": "1",
-        "text": "Le Conseil d’Etat présente son programme de législature au Grand Conseil dans les 6 mois suivant son entrée en fonction."
+        "text": "Le Conseil d’État présente son programme de législature au Grand Conseil dans les six mois suivant son entrée en fonction."
       },
       {
         "num": "2",
-        "text": "Le Grand Conseil se détermine par voie de résolution dans un délai de 2 mois."
+        "text": "Le Grand Conseil se détermine par voie de résolution dans un délai de deux mois."
       },
       {
         "num": "3",
-        "text": "Au début de chaque année, le Conseil d’Etat présente un rapport au Grand Conseil sur l’état de réalisation du programme de législature."
+        "text": "Au début de chaque année, le Conseil d’État présente un rapport au Grand Conseil sur l’état de réalisation du programme de législature."
       },
       {
         "num": "4",
@@ -2814,19 +2580,19 @@
       },
       {
         "num": "5",
-        "text": "Le Conseil d’Etat assure une analyse sur le long terme, au-delà de la législature."
+        "text": "Le Conseil d’État assure une analyse sur le long terme, au-delà de la législature."
       }
     ],
     "108": [
       {
         "num": null,
-        "text": "Chaque année le Conseil d’Etat présente au Grand Conseil le budget des recettes et des dépenses. Il lui rend compte de l’état des finances et des activités de l’administration."
+        "text": "Chaque année le Conseil d’État présente au Grand Conseil le budget des recettes et des dépenses. Il lui rend compte de l’état des finances et des activités de l’administration."
       }
     ],
     "109": [
       {
         "num": "1",
-        "text": "Le Conseil d’Etat dirige la phase préparatoire de la procédure législative."
+        "text": "Le Conseil d’État dirige la phase préparatoire de la procédure législative."
       },
       {
         "num": "2",
@@ -2842,7 +2608,7 @@
       },
       {
         "num": "5",
-        "text": "Lorsque le Grand Conseil adopte un projet de loi qui n’a pas été déposé par le Conseil d’Etat, ce dernier peut, avant de promulguer la loi, le représenter au Grand Conseil avec ses observations, dans un délai de 6 mois. Si, après en avoir délibéré de nouveau, le Grand Conseil adopte le projet élaboré précédemment, le Conseil d’Etat promulgue la loi."
+        "text": "Lorsque le Grand Conseil adopte un projet de loi qui n’a pas été déposé par le Conseil d’État, ce dernier peut, avant de promulguer la loi, le représenter au Grand Conseil avec ses observations, dans un délai de six mois. Si, après en avoir délibéré de nouveau, le Grand Conseil adopte le projet élaboré précédemment, le Conseil d’État promulgue la loi."
       }
     ],
     "110": [
@@ -2854,7 +2620,7 @@
     "111": [
       {
         "num": "1",
-        "text": "Le Conseil d’Etat conduit la politique extérieure du canton."
+        "text": "Le Conseil d’État conduit la politique extérieure du canton."
       },
       {
         "num": "2",
@@ -2864,7 +2630,7 @@
     "112": [
       {
         "num": "1",
-        "text": "Le Conseil d’Etat est responsable de la sécurité et de l’ordre public. Il ne peut employer à cet effet que des corps organisés par la loi."
+        "text": "Le Conseil d’État est responsable de la sécurité et de l’ordre public. Il ne peut employer à cet effet que des corps organisés par la loi."
       },
       {
         "num": "2",
@@ -2874,7 +2640,7 @@
     "113": [
       {
         "num": "1",
-        "text": "En cas de catastrophe ou d’autre situation extraordinaire, le Conseil d’Etat prend les mesures nécessaires pour protéger la population. Il en informe le Grand Conseil."
+        "text": "En cas de catastrophe ou d’autre situation extraordinaire, le Conseil d’État prend les mesures nécessaires pour protéger la population. Il en informe le Grand Conseil."
       },
       {
         "num": "2",
@@ -2882,57 +2648,41 @@
       },
       {
         "num": "3",
-        "text": "Les mesures prises en état de nécessité restent valables lorsque le Grand Conseil les approuve. A défaut, elles cessent de porter effet après une année au plus tard."
+        "text": "Les mesures prises en état de nécessité restent valables lorsque le Grand Conseil les approuve. À défaut, elles cessent de porter effet après une année au plus tard."
       }
     ],
     "114": [
       {
         "num": "1",
-        "text": "La chancellerie d’Etat est sous l’autorité de la présidente ou du président du Conseil d’Etat. Elle est au service de tous les départements et assure la transversalité des informations."
+        "text": "La chancellerie d’État est sous l’autorité de la présidente ou du président du Conseil d’État. Elle est au service de tous les départements et assure la transversalité des informations."
       },
       {
         "num": "2",
-        "text": "Le Conseil d’Etat nomme la chancelière ou le chancelier."
+        "text": "Le Conseil d’État nomme la chancelière ou le chancelier."
       },
       {
         "num": "3",
-        "text": "La chancelière ou le chancelier dirige la chancellerie d’Etat et a voix consultative lors des séances du Conseil d’Etat."
+        "text": "La chancelière ou le chancelier dirige la chancellerie d’État et a voix consultative lors des séances du Conseil d’État."
       },
       {
         "num": "4",
-        "text": "L’article 103 est applicable."
+        "text": "L’art. 103 est applicable."
       }
     ],
     "115": [
       {
-        "num": null,
-        "text": "incapacité durable d’exercer la fonction"
-      },
-      {
         "num": "1",
-        "text": "La loi peut prévoir un mécanisme de destitution d'un membre du Conseil d'Etat en cas d'incapacité durable d'exercer la fonction."
+        "text": "Une instance de médiation indépendante est compétente pour traiter de façon extrajudiciaire les différends entre l’administration et les administrés."
       },
       {
         "num": "2",
-        "text": "Dans le cas prévu à l'alinéa précédent, la destitution n'est pas soumise au corps électoral et peut faire l'objet d'un recours cantonal."
-      },
-      {
-        "num": null,
-        "text": "Chapitre III      Pouvoir judiciaire Section"
-      },
-      {
-        "num": "1",
-        "text": "Principes"
+        "text": "Le Grand Conseil élit la personne responsable de l’instance de médiation après consultation du Conseil d’État pour la durée de la législature."
       }
     ],
     "116": [
       {
         "num": "1",
-        "text": "Le pouvoir judiciaire est exercé par :"
-      },
-      {
-        "num": null,
-        "text": "a)  le Ministère public; b)  les juridictions en matière constitutionnelle, administrative, civile et pénale."
+        "text": "Le pouvoir judiciaire est exercé par:"
       },
       {
         "num": "2",
@@ -2968,27 +2718,19 @@
     "120": [
       {
         "num": null,
-        "text": "L’Etat encourage la médiation et les autres modes de résolution extrajudiciaire des litiges."
+        "text": "L’État encourage la médiation et les autres modes de résolution extrajudiciaire des litiges."
       }
     ],
     "121": [
       {
         "num": null,
         "text": "Le pouvoir judiciaire établit chaque année son budget de fonctionnement, inscrit au budget cantonal dans une rubrique spécifique, ainsi que ses comptes et un rapport de gestion. Ces derniers sont soumis à l’approbation du Grand Conseil."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "2",
-        "text": "Elections"
       }
     ],
     "122": [
       {
         "num": "1",
-        "text": "Les magistrates et magistrats du pouvoir judiciaire sont élus tous les 6 ans au système majoritaire."
+        "text": "Les magistrates et magistrats du pouvoir judiciaire sont élus tous les six ans au système majoritaire."
       },
       {
         "num": "2",
@@ -3002,33 +2744,13 @@
       },
       {
         "num": "2",
-        "text": "Les personnes étrangères ayant exercé pendant 8 ans au moins leur activité professionnelle en Suisse, dont la dernière année au moins dans le canton, sont éligibles comme juges prud’hommes.(25)"
-      },
-      {
-        "num": "3",
-        "text": "Les juges suppléantes et juges suppléants, les juges assesseures et juges assesseurs, les procureures et procureurs extraordinaires et les juges de la Cour d’appel du pouvoir judiciaire sont élus dans tous les cas par le Grand Conseil.(25) Section"
-      },
-      {
-        "num": "3",
-        "text": "Cour constitutionnelle"
+        "text": "Les personnes étrangères ayant exercé pendant huit ans au moins leur activité professionnelle en Suisse, dont la dernière année au moins dans le canton, sont éligibles."
       }
     ],
     "124": [
       {
         "num": null,
-        "text": "La Cour constitutionnelle :"
-      },
-      {
-        "num": null,
-        "text": "a)  contrôle sur requête la conformité des normes cantonales au droit supérieur; la loi définit la qualité pour agir; b)  traite les litiges relatifs à l’exercice des droits politiques en matière cantonale et communale; c)  tranche les conflits de compétence entre autorités."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "4",
-        "text": "Conseil supérieur de la magistrature"
+        "text": "La Cour constitutionnelle:"
       }
     ],
     "125": [
@@ -3044,7 +2766,7 @@
     "126": [
       {
         "num": "1",
-        "text": "Le Conseil supérieur de la magistrature est composé de 7 à 9 membres. Il peut comprendre des membres suppléants. La loi fixe leur mode de désignation."
+        "text": "Le Conseil supérieur de la magistrature est composé de sept à neuf membres. Il peut comprendre des membres suppléants. La loi fixe leur mode de désignation."
       },
       {
         "num": "2",
@@ -3054,7 +2776,7 @@
     "127": [
       {
         "num": null,
-        "text": "Chapitre IV      Cour des comptes"
+        "text": "Avant chaque élection du pouvoir judiciaire, le Conseil supérieur de la magistrature évalue les compétences des candidates et candidats. Il formule un préavis."
       }
     ],
     "128": [
@@ -3064,7 +2786,7 @@
       },
       {
         "num": "2",
-        "text": "Les contrôles opérés par la Cour des comptes relèvent du libre choix de celle-ci et font l’objet de rapports rendus publics, pouvant comporter des recommandations. Ces rapports sont communiqués au Conseil d’Etat, au Grand Conseil ainsi qu’à l’entité contrôlée."
+        "text": "Les contrôles opérés par la Cour des comptes relèvent du libre choix de celle-ci et font l’objet de rapports rendus publics, pouvant comporter des recommandations. Ces rapports sont communiqués au Conseil d’État, au Grand Conseil ainsi qu’à l’entité contrôlée."
       },
       {
         "num": "3",
@@ -3074,7 +2796,7 @@
     "129": [
       {
         "num": null,
-        "text": "La Cour des comptes est élue tous les 6 ans au système majoritaire."
+        "text": "La Cour des comptes est élue tous les six ans au système majoritaire."
       }
     ],
     "130": [
@@ -3091,10 +2813,6 @@
       {
         "num": "2",
         "text": "La Cour des comptes peut solliciter la levée des secrets prévus par la loi par une requête motivée qui fixe les limites et les finalités de l’investigation."
-      },
-      {
-        "num": null,
-        "text": "Titre V Organisation territoriale et relations extérieures Chapitre I        Communes Section 1 Dispositions générales"
       }
     ],
     "132": [
@@ -3154,15 +2872,7 @@
     "137": [
       {
         "num": null,
-        "text": "Les communes sont soumises à la surveillance du Conseil d’Etat, qui veille à ce qu’elles exercent leurs compétences conformément à la loi."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "2",
-        "text": "Fusion, division et réorganisation"
+        "text": "Les communes sont soumises à la surveillance du Conseil d’État, qui veille à ce qu’elles exercent leurs compétences conformément à la loi."
       }
     ],
     "138": [
@@ -3172,7 +2882,7 @@
       },
       {
         "num": "2",
-        "text": "A cet effet, il prend des mesures incitatives, notamment financières."
+        "text": "À cet effet, il prend des mesures incitatives, notamment financières."
       }
     ],
     "139": [
@@ -3183,14 +2893,6 @@
       {
         "num": "2",
         "text": "La fusion, la division et la réorganisation de communes sont soumises à l’approbation du corps électoral de chaque commune concernée. La majorité dans chaque commune est requise."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "3",
-        "text": "Autorités"
       }
     ],
     "140": [
@@ -3204,7 +2906,7 @@
       },
       {
         "num": "3",
-        "text": "Le conseil municipal est élu tous les 5 ans au système proportionnel."
+        "text": "Le conseil municipal est élu tous les cinq ans au système proportionnel."
       }
     ],
     "141": [
@@ -3214,15 +2916,11 @@
       },
       {
         "num": "2",
-        "text": "Il est composé :"
-      },
-      {
-        "num": null,
-        "text": "a)  d’un conseil administratif de 5 membres dans les communes de plus de 50 000 habitants; b)  d’un conseil administratif de 3 membres dans les autres communes.(14)"
+        "text": "Il est composé:"
       },
       {
         "num": "3",
-        "text": "Il est élu tous les 5 ans au système majoritaire. Le premier tour a lieu simultanément à l’élection du conseil municipal."
+        "text": "Il est élu tous les cinq ans au système majoritaire. Le premier tour a lieu simultanément à l’élection du conseil municipal."
       }
     ],
     "142": [
@@ -3232,23 +2930,11 @@
       },
       {
         "num": "2",
-        "text": "Le mandat de membre du conseil municipal est incompatible avec les fonctions suivantes :"
-      },
-      {
-        "num": null,
-        "text": "a)  collaboratrice ou collaborateur de l’entourage immédiat des membres de l’exécutif; b)  cadre supérieur de l’administration communale."
+        "text": "Le mandat de membre du conseil municipal est incompatible avec les fonctions suivantes:"
       },
       {
         "num": "3",
         "text": "Le mandat de membre de l’exécutif communal est incompatible avec une fonction au sein de l’administration communale. La loi fixe les autres incompatibilités."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "4",
-        "text": "Finances"
       }
     ],
     "143": [
@@ -3288,7 +2974,7 @@
     "146": [
       {
         "num": "1",
-        "text": "L’Etat soutient la vocation internationale de Genève en tant que centre de dialogue, de décision et de coopération internationale, fondé sur la tradition humanitaire et le droit, ainsi que sur les valeurs de paix et de solidarité."
+        "text": "L’État soutient la vocation internationale de Genève en tant que centre de dialogue, de décision et de coopération internationale, fondé sur la tradition humanitaire et le droit, ainsi que sur les valeurs de paix et de solidarité."
       },
       {
         "num": "2",
@@ -3296,13 +2982,13 @@
       },
       {
         "num": "3",
-        "text": "A ces fins, il prend toute initiative utile et met des moyens à disposition, en coordination avec la Confédération."
+        "text": "À ces fins, il prend toute initiative utile et met des moyens à disposition, en coordination avec la Confédération."
       }
     ],
     "147": [
       {
         "num": "1",
-        "text": "L’Etat offre des conditions d’accueil favorables aux acteurs de la coopération internationale."
+        "text": "L’État offre des conditions d’accueil favorables aux acteurs de la coopération internationale."
       },
       {
         "num": "2",
@@ -3311,20 +2997,16 @@
       {
         "num": "3",
         "text": "Il soutient les mesures d’hospitalité, de concertation, de sensibilisation et d’éducation permettant d’assurer une bonne entente au sein de la population."
-      },
-      {
-        "num": null,
-        "text": "Titre VI            Tâches et finances publiques Chapitre I Dispositions générales"
       }
     ],
     "148": [
       {
         "num": "1",
-        "text": "Les tâches de l’Etat sont exécutées par le canton et, conformément à la constitution et à la loi, par les communes et les institutions de droit public."
+        "text": "Les tâches de l’État sont exécutées par le canton et, conformément à la constitution et à la loi, par les communes et les institutions de droit public."
       },
       {
         "num": "2",
-        "text": "L’Etat accomplit ses tâches avec diligence, efficacité et transparence."
+        "text": "L’État accomplit ses tâches avec diligence, efficacité et transparence."
       },
       {
         "num": "3",
@@ -3334,11 +3016,7 @@
     "149": [
       {
         "num": "1",
-        "text": "L’Etat prend les mesures permettant à toute personne :"
-      },
-      {
-        "num": null,
-        "text": "a)  de subvenir à ses besoins et à ceux de sa famille par un travail approprié, exercé dans des conditions équitables; b)  de bénéficier de l’aide nécessaire lorsqu’elle se trouve dans le besoin, notamment pour raison d’âge, de maladie ou de déficience."
+        "text": "L’État prend les mesures permettant à toute personne:"
       },
       {
         "num": "2",
@@ -3354,7 +3032,7 @@
     "151": [
       {
         "num": "1",
-        "text": "L’Etat évalue périodiquement la pertinence, l’efficacité et l’efficience de son action."
+        "text": "L’État évalue périodiquement la pertinence, l’efficacité et l’efficience de son action."
       },
       {
         "num": "2",
@@ -3364,7 +3042,7 @@
     "152": [
       {
         "num": "1",
-        "text": "L’Etat établit une planification financière globale."
+        "text": "L’État établit une planification financière globale."
       },
       {
         "num": "2",
@@ -3372,7 +3050,7 @@
       },
       {
         "num": "3",
-        "text": "En règle générale, l’Etat équilibre son budget de fonctionnement."
+        "text": "En règle générale, l’État équilibre son budget de fonctionnement."
       },
       {
         "num": "4",
@@ -3386,21 +3064,17 @@
     "153": [
       {
         "num": null,
-        "text": "L’Etat administre, conserve, protège et développe le patrimoine public."
+        "text": "L’État administre, conserve, protège et développe le patrimoine public."
       }
     ],
     "154": [
       {
         "num": "1",
-        "text": "Les ressources de l’Etat sont notamment :"
-      },
-      {
-        "num": null,
-        "text": "a)  les impôts et autres contributions; b)  les revenus de sa fortune; c)  les prestations de la Confédération et de tiers; d)  les donations et legs."
+        "text": "Les ressources de l’État sont notamment:"
       },
       {
         "num": "2",
-        "text": "L’Etat peut avoir recours à l’emprunt."
+        "text": "L’État peut avoir recours à l’emprunt."
       }
     ],
     "155": [
@@ -3418,25 +3092,21 @@
       },
       {
         "num": "4",
-        "text": "L'Etat agit en faveur de la réduction de la concurrence fiscale intercantonale.(10)"
-      },
-      {
-        "num": "5",
-        "text": "L’Etat lutte contre la fraude, la soustraction et l’escroquerie fiscales.(10)"
-      },
-      {
-        "num": "6",
-        "text": "La mise en œuvre cantonale des réformes fédérales de la fiscalité obéit aux principes suivants :"
+        "text": "L’État agit en faveur de la réduction de la concurrence fiscale intercantonale.21"
       },
       {
         "num": null,
-        "text": "a)  préservation du financement des services publics et des prestations à la population; b)  maintien du niveau des recettes fiscales cantonales et communales; c)  renforcement de la progressivité de l'impôt.(10)"
+        "text": "5 L’État lutte contre la fraude, la soustraction et l’escroquerie fiscales.22"
+      },
+      {
+        "num": null,
+        "text": "6 La mise en œuvre cantonale des réformes fédérales de la fiscalité obéit aux principes suivants:"
       }
     ],
     "156": [
       {
         "num": "1",
-        "text": "L’Etat maîtrise l’endettement et le maintient à un niveau qui ne menace pas les intérêts des générations futures."
+        "text": "L’État maîtrise l’endettement et le maintient à un niveau qui ne menace pas les intérêts des générations futures."
       },
       {
         "num": "2",
@@ -3444,13 +3114,13 @@
       },
       {
         "num": "3",
-        "text": "L’Etat vérifie périodiquement que les prestations qu’il fournit et les subventions qu’il octroie sont efficaces, nécessaires et supportables financièrement. Il renonce aux prestations et subventions qui ne répondent pas à ces conditions."
+        "text": "L’État vérifie périodiquement que les prestations qu’il fournit et les subventions qu’il octroie sont efficaces, nécessaires et supportables financièrement. Il renonce aux prestations et subventions qui ne répondent pas à ces conditions."
       }
     ],
     "157": [
       {
         "num": "1",
-        "text": "L’Etat protège les êtres humains et leur environnement."
+        "text": "L’État protège les êtres humains et leur environnement."
       },
       {
         "num": "2",
@@ -3464,7 +3134,7 @@
     "158": [
       {
         "num": null,
-        "text": "L’Etat met en œuvre des politiques propres à réduire les gaz à effet de serre."
+        "text": "L’État met en œuvre des politiques propres à réduire les gaz à effet de serre."
       }
     ],
     "159": [
@@ -3479,12 +3149,8 @@
     ],
     "160": [
       {
-        "num": null,
-        "text": "paysage"
-      },
-      {
         "num": "1",
-        "text": "L’Etat protège la nature et le paysage."
+        "text": "L’État protège la nature et le paysage."
       },
       {
         "num": "2",
@@ -3494,7 +3160,7 @@
     "161": [
       {
         "num": "1",
-        "text": "L’Etat respecte les principes de l’écologie industrielle."
+        "text": "L’État respecte les principes de l’écologie industrielle."
       },
       {
         "num": "2",
@@ -3505,20 +3171,12 @@
       {
         "num": null,
         "text": "La chasse aux mammifères et aux oiseaux est interdite. Les mesures officielles de régulation de la faune sont réservées."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "2",
-        "text": "Aménagement du territoire"
       }
     ],
     "163": [
       {
         "num": "1",
-        "text": "L’Etat veille à ce que l’aménagement du territoire respecte les principes d’une agglomération compacte, multipolaire et verte. Il préserve la surface agricole utile et les zones protégées."
+        "text": "L’État veille à ce que l’aménagement du territoire respecte les principes d’une agglomération compacte, multipolaire et verte. Il préserve la surface agricole utile et les zones protégées."
       },
       {
         "num": "2",
@@ -3532,37 +3190,25 @@
     "164": [
       {
         "num": null,
-        "text": "L’Etat garantit le développement d’espaces de proximité affectés à la pratique du sport, à la culture et aux loisirs."
+        "text": "L’État garantit le développement d’espaces de proximité affectés à la pratique du sport, à la culture et aux loisirs."
       }
     ],
     "165": [
       {
         "num": null,
-        "text": "L’Etat favorise la réalisation de quartiers durables."
+        "text": "L’État favorise la réalisation de quartiers durables."
       }
     ],
     "166": [
       {
         "num": null,
-        "text": "L’Etat assure un libre accès aux rives du lac et des cours d’eau dans le respect de l’environnement et des intérêts publics et privés prépondérants."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "3",
-        "text": "Energies"
+        "text": "L’État assure un libre accès aux rives du lac et des cours d’eau dans le respect de l’environnement et des intérêts publics et privés prépondérants."
       }
     ],
     "167": [
       {
         "num": "1",
-        "text": "La politique énergétique de l’Etat est fondée sur les principes suivants :"
-      },
-      {
-        "num": null,
-        "text": "a)  un approvisionnement en énergies; b)  la réalisation d’économies d’énergie; c)  le développement prioritaire des énergies renouvelables et indigènes; d)  le respect de l’environnement; e)  l’encouragement de la recherche dans ces domaines."
+        "text": "La politique énergétique de l’État est fondée sur les principes suivants:"
       },
       {
         "num": "2",
@@ -3570,7 +3216,7 @@
       },
       {
         "num": "3",
-        "text": "La collaboration entre l’Etat et les entreprises privées est encouragée en vue de la réalisation de ces objectifs."
+        "text": "La collaboration entre l’État et les entreprises privées est encouragée en vue de la réalisation de ces objectifs."
       }
     ],
     "168": [
@@ -3580,19 +3226,19 @@
       },
       {
         "num": "2",
-        "text": "L’énergie thermique distribuée et fournie par les réseaux thermiques structurants, ainsi que le déploiement de ces derniers, constituent également un monopole cantonal dans la mesure permise par le droit fédéral.(15)"
+        "text": "L’énergie thermique distribuée et fournie par les réseaux thermiques structurants, ainsi que le déploiement de ces derniers, constituent également un monopole cantonal dans la mesure permise par le droit fédéral.24"
       },
       {
         "num": "3",
-        "text": "Ces monopoles peuvent être délégués à une institution de droit public. Celle‑ci offre également d’autres prestations en matière de services industriels, notamment la fourniture du gaz et de l’énergie thermique dans les réseaux non structurants, ainsi que le traitement des déchets.(15)"
+        "text": "Ces monopoles peuvent être délégués à une institution de droit public. Celle-ci offre également d’autres prestations en matière de services industriels, notamment la fourniture du gaz et de l’énergie thermique dans les réseaux non structurants, ainsi que le traitement des déchets.25"
       },
       {
         "num": "4",
-        "text": "Elle rachète à des conditions adéquates l’énergie renouvelable produite par des particuliers ou des entreprises.(15)"
+        "text": "Elle rachète à des conditions adéquates l’énergie renouvelable produite par des particuliers ou des entreprises.26"
       },
       {
         "num": "5",
-        "text": "Elle ne pratique pas de tarifs dégressifs non conformes aux objectifs de la politique énergétique de l’Etat.(15)"
+        "text": "Elle ne pratique pas de tarifs dégressifs non conformes aux objectifs de la politique énergétique de l’État.27"
       }
     ],
     "169": [
@@ -3609,20 +3255,12 @@
       {
         "num": "2",
         "text": "Il peut l’exercer lui-même ou le confier à des tiers."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "4",
-        "text": "Santé"
       }
     ],
     "171": [
       {
         "num": "1",
-        "text": "L’Etat garantit l’accès au système de santé et aux soins."
+        "text": "L’État garantit l’accès au système de santé et aux soins."
       },
       {
         "num": "2",
@@ -3636,7 +3274,7 @@
     "172": [
       {
         "num": "1",
-        "text": "L’Etat prend des mesures de promotion de la santé et de prévention. Il veille à réduire l’impact des facteurs environnementaux et sociaux préjudiciables à la santé."
+        "text": "L’État prend des mesures de promotion de la santé et de prévention. Il veille à réduire l’impact des facteurs environnementaux et sociaux préjudiciables à la santé."
       },
       {
         "num": "2",
@@ -3654,31 +3292,27 @@
       },
       {
         "num": "2",
-        "text": "La surveillance de leur formation et de leur activité incombe à l’Etat. Elle ne peut être déléguée."
+        "text": "La surveillance de leur formation et de leur activité incombe à l’État. Elle ne peut être déléguée."
       },
       {
         "num": "3",
-        "text": "L’Etat soutient l’action des proches aidants."
+        "text": "L’État soutient l’action des proches aidants."
       }
     ],
     "174": [
       {
-        "num": null,
-        "text": "Institution genevoise de maintien à domicile(12) (IMAD)"
-      },
-      {
         "num": "1",
-        "text": "L’Institution genevoise de maintien à domicile(12) (IMAD), de droit public, assure des prestations pour le maintien à domicile et l’autonomie des personnes."
+        "text": "Les établissements médicaux de droit public fournissent, selon leurs spécificités, des prestations de soins, d’enseignement et de recherche."
       },
       {
         "num": "2",
-        "text": "Le déficit d’exploitation de l’IMAD est couvert par une subvention portée chaque année au budget de l’Etat."
+        "text": "Le déficit d’exploitation des établissements médicaux de droit public est couvert par une subvention portée chaque année au budget de l’État."
       }
     ],
     "175": [
       {
         "num": null,
-        "text": "L’Etat garantit le libre choix du professionnel de la santé."
+        "text": "L’État garantit le libre choix du professionnel de la santé."
       }
     ],
     "176": [
@@ -3691,20 +3325,12 @@
       {
         "num": null,
         "text": "Les chiens dangereux ou issus de races dites d’attaque, ainsi que leurs croisements, sont interdits sur le territoire du canton."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "5",
-        "text": "Logement"
       }
     ],
     "178": [
       {
         "num": "1",
-        "text": "L’Etat prend les mesures permettant à toute personne de trouver, pour elle-même et sa famille, un logement approprié à des conditions abordables."
+        "text": "L’État prend les mesures permettant à toute personne de trouver, pour elle-même et sa famille, un logement approprié à des conditions abordables."
       },
       {
         "num": "2",
@@ -3738,13 +3364,13 @@
       },
       {
         "num": "4",
-        "text": "L’Etat mène une politique active d’acquisition de terrains, notamment en vue d’y construire des logements d’utilité publique par des institutions de droit public ou sans but lucratif, telles que les coopératives d’habitation."
+        "text": "L’État mène une politique active d’acquisition de terrains, notamment en vue d’y construire des logements d’utilité publique par des institutions de droit public ou sans but lucratif, telles que les coopératives d’habitation."
       }
     ],
     "180": [
       {
         "num": null,
-        "text": "L’Etat encourage l’accès à la propriété du logement."
+        "text": "L’État encourage l’accès à la propriété du logement."
       }
     ],
     "181": [
@@ -3760,7 +3386,7 @@
     "182": [
       {
         "num": "1",
-        "text": "L’Etat prend les mesures propres à la remise sur le marché des logements laissés vides dans un but spéculatif."
+        "text": "L’État prend les mesures propres à la remise sur le marché des logements laissés vides dans un but spéculatif."
       },
       {
         "num": "2",
@@ -3769,20 +3395,12 @@
       {
         "num": "3",
         "text": "Il prend les mesures propres à éviter que des personnes soient sans logement, notamment en cas d’évacuation forcée."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "6",
-        "text": "Sécurité"
       }
     ],
     "183": [
       {
         "num": null,
-        "text": "L’Etat assure la sécurité et l’ordre public."
+        "text": "L’État assure la sécurité et l’ordre public."
       }
     ],
     "184": [
@@ -3797,20 +3415,12 @@
       {
         "num": "3",
         "text": "Les situations conflictuelles sont traitées en priorité de manière à écarter ou limiter le recours à la force. Les personnes concernées sont tenues d’apporter leur concours."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "7",
-        "text": "Economie"
       }
     ],
     "185": [
       {
         "num": "1",
-        "text": "L’Etat crée un environnement favorable à une économie libre, responsable, diversifiée et solidaire."
+        "text": "L’État crée un environnement favorable à une économie libre, responsable, diversifiée et solidaire."
       },
       {
         "num": "2",
@@ -3824,7 +3434,7 @@
     "186": [
       {
         "num": "1",
-        "text": "L’Etat mène une politique active de l’emploi et prend des mesures de prévention du chômage. Il favorise la réinsertion professionnelle."
+        "text": "L’État mène une politique active de l’emploi et prend des mesures de prévention du chômage. Il favorise la réinsertion professionnelle."
       },
       {
         "num": "2",
@@ -3834,25 +3444,25 @@
     "187": [
       {
         "num": "1",
-        "text": "L’Etat encourage une agriculture diversifiée de qualité, respectueuse de l’environnement et de proximité."
+        "text": "L’État encourage une agriculture diversifiée de qualité, respectueuse de l’environnement et de proximité."
       },
       {
         "num": "2",
-        "text": "L’Etat prend des mesures afin de réduire les risques liés à l’utilisation de produits phytosanitaires. Il encourage le développement de méthodes alternatives permettant d’en limiter l’usage, notamment par un soutien économique ou technique.(6)"
+        "text": "L’État prend des mesures afin de réduire les risques liés à l’utilisation de produits phytosanitaires. Il encourage le développement de méthodes alternatives permettant d’en limiter l’usage, notamment par un soutien économique ou technique.30"
       },
       {
         "num": "3",
-        "text": "Il promeut les produits agricoles du canton.(6)"
+        "text": "Il promeut les produits agricoles du canton.31"
       },
       {
         "num": "4",
-        "text": "Il soutient la formation et l’emploi dans l’agriculture.(6)"
+        "text": "Il soutient la formation et l’emploi dans l’agriculture.32"
       }
     ],
     "188": [
       {
         "num": null,
-        "text": "L’Etat veille à l’information et à la protection des consommatrices et consommateurs."
+        "text": "L’État veille à l’information et à la protection des consommatrices et consommateurs."
       }
     ],
     "189": [
@@ -3863,20 +3473,12 @@
       {
         "num": "2",
         "text": "Le canton et les communes détiennent la majorité des voix attachées au capital social de la banque."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "8",
-        "text": "Mobilité"
       }
     ],
     "190": [
       {
         "num": "1",
-        "text": "L’Etat élabore une politique globale de la mobilité en coordonnant les politiques de l’aménagement, de l’énergie, de la protection de l’environnement et de la circulation."
+        "text": "L’État élabore une politique globale de la mobilité en coordonnant les politiques de l’aménagement, de l’énergie, de la protection de l’environnement et de la circulation."
       },
       {
         "num": "2",
@@ -3894,51 +3496,43 @@
     "191": [
       {
         "num": "1",
-        "text": "L’Aéroport international de Genève est un établissement de droit public."
+        "text": "L’État développe le réseau des transports publics et l’offre au niveau de l’agglomération."
       },
       {
         "num": "2",
-        "text": "Dans le cadre défini par la Confédération et les limites de ses compétences, l’Etat tient compte du caractère urbain de l’aéroport et recherche un équilibre entre son importance pour la vie économique, sociale et culturelle et la limitation des nuisances pour la population et l’environnement."
+        "text": "Il favorise l’utilisation de transports publics respectueux de l’environnement."
       },
       {
         "num": "3",
-        "text": "L’Etat prend en particulier toutes les mesures adéquates pour limiter les nuisances dues au trafic aérien, notamment le bruit, les pollutions atmosphériques et les émissions de gaz à effet de serre et pour mettre en œuvre les principes d’accomplissement des tâches publiques, définies dans la présente constitution, de protection de l’environnement, d’aménagement du territoire et de promotion de la santé."
+        "text": "Il veille à ce qu’ils soient accessibles à l’ensemble de la population et couvrent ses besoins prépondérants."
       },
       {
         "num": "4",
-        "text": "L’Aéroport international de Genève rend compte aux autorités cantonales et communales de la façon dont les objectifs précités sont planifiés puis mis en œuvre au regard du cadre et des limites définis par la Confédération. Il soumet en particulier régulièrement au Grand Conseil pour approbation un rapport relatif aux actions entreprises et principaux objectifs à moyen et long terme."
+        "text": "Un établissement autonome de droit public gère les transports publics."
       }
     ],
     "192": [
       {
         "num": "1",
-        "text": "Pour lutter contre l’engorgement des voies de communication, renforcer la prospérité de la région et améliorer la qualité de vie, le canton réalise une Traversée du Lac permettant l’achèvement du contournement de Genève."
+        "text": "Le canton planifie à long terme et réalise les infrastructures nécessaires au développement de l’agglomération."
       },
       {
         "num": "2",
-        "text": "Afin d’accélérer sa réalisation, un partenariat avec le secteur privé est envisagé parallèlement au mode de financement prévu par la Confédération."
+        "text": "La conception et la réalisation des voies de communication, des infrastructures de transport public et de mobilité douce accompagnent les projets de constructions dédiés au logement, à l’emploi, au commerce et aux loisirs."
       },
       {
         "num": "3",
-        "text": "L’Etat prend des mesures d’accompagnement."
-      },
-      {
-        "num": null,
-        "text": "En particulier, il s’appuie sur la Traversée du Lac pour aménager les rives avec les communes concernées, réduire les nuisances dans les zones urbanisées, renforcer l’efficacité des transports publics, favoriser la mobilité douce et créer de nouveaux espaces publics."
+        "text": "L’État peut conclure des partenariats avec le secteur privé."
       }
     ],
     "193": [
       {
         "num": "1",
-        "text": "L’Etat organise et finance un enseignement public, laïque et de qualité."
+        "text": "L’État organise et finance un enseignement public, laïque et de qualité."
       },
       {
         "num": "2",
-        "text": "L’enseignement public a pour buts principaux :"
-      },
-      {
-        "num": null,
-        "text": "a)  la transmission et l’acquisition de connaissances et de compétences; b)  la promotion des valeurs humanistes et de la culture scientifique; c)  le développement de l’esprit civique et critique."
+        "text": "L’enseignement public a pour buts principaux:"
       }
     ],
     "194": [
@@ -3954,7 +3548,7 @@
     "195": [
       {
         "num": "1",
-        "text": "L’Etat facilite l’accès à la formation et promeut l’égalité des chances."
+        "text": "L’État facilite l’accès à la formation et promeut l’égalité des chances."
       },
       {
         "num": "2",
@@ -3968,41 +3562,25 @@
       },
       {
         "num": "2",
-        "text": "Celles-ci visent un haut niveau de qualité et une reconnaissance internationale. Elles promeuvent l’interdisciplinarité."
-      },
-      {
-        "num": null,
-        "text": "Elles contribuent au développement de la vie scientifique, culturelle, économique et sociale de la collectivité."
+        "text": "Celles-ci visent un haut niveau de qualité et une reconnaissance internationale. Elles promeuvent l’interdisciplinarité. Elles contribuent au développement de la vie scientifique, culturelle, économique et sociale de la collectivité."
       }
     ],
     "197": [
       {
         "num": null,
-        "text": "L’Etat soutient la recherche fondamentale et appliquée."
+        "text": "L’État soutient la recherche fondamentale et appliquée."
       }
     ],
     "198": [
       {
         "num": null,
-        "text": "L’Etat soutient la formation continue et le perfectionnement professionnel."
+        "text": "L’État soutient la formation continue et le perfectionnement professionnel."
       }
     ],
     "199": [
       {
         "num": null,
-        "text": "Les établissements privés contribuent à l’offre de formation."
-      },
-      {
-        "num": null,
-        "text": "La loi en règle l’autorisation et la surveillance."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "10",
-        "text": "Accueil préscolaire et parascolaire"
+        "text": "Les établissements privés contribuent à l’offre de formation. La loi en règle l’autorisation et la surveillance."
       }
     ],
     "200": [
@@ -4048,29 +3626,17 @@
     "204": [
       {
         "num": "1",
-        "text": "L’Etat est responsable de l’accueil parascolaire."
+        "text": "L’État est responsable de l’accueil parascolaire."
       },
       {
         "num": "2",
         "text": "Les enfants qui suivent leur scolarité obligatoire dans l’enseignement public bénéficient d’un accueil à journée continue, chaque jour scolaire."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "11",
-        "text": "Cohésion sociale"
       }
     ],
     "205": [
       {
         "num": "1",
-        "text": "L'Etat met en œuvre une politique familiale."
-      },
-      {
-        "num": null,
-        "text": "Il reconnaît le rôle social, éducatif et économique des familles."
+        "text": "L’État met en œuvre une politique familiale. Il reconnaît le rôle social, éducatif et économique des familles."
       },
       {
         "num": "2",
@@ -4078,27 +3644,19 @@
       },
       {
         "num": "3",
-        "text": "Il garantit, en complément de la législation fédérale, une assurance financée à part égale par les employeurs et employés de"
-      },
-      {
-        "num": "16",
-        "text": "semaines au moins en cas de maternité et de 8 semaines au moins pour l'autre parent. Sur demande commune des 2 bénéficiaires de l'assurance, l'Etat garantit la possibilité pour l'un des bénéficiaires de reporter deux semaines de l'assurance en faveur de l'autre bénéficiaire."
-      },
-      {
-        "num": "4",
-        "text": "L'alinéa 3 s'applique par analogie en cas d'adoption ou d'accueil avec hébergement à caractère permanent. Le conjoint ou partenaire enregistré du parent adoptant ou accueillant bénéficie alors de l'assurance de l'autre parent."
+        "text": "Il garantit, en complément de la législation fédérale, une assurance de seize semaines au moins en cas de maternité ou d’adoption."
       }
     ],
     "206": [
       {
         "num": null,
-        "text": "L’Etat prend en compte les exigences de la solidarité intergénérationnelle dans la définition de ses politiques et dans son action."
+        "text": "L’État prend en compte les exigences de la solidarité intergénérationnelle dans la définition de ses politiques et dans son action."
       }
     ],
     "207": [
       {
         "num": "1",
-        "text": "L’Etat met en œuvre une politique de la jeunesse qui tient compte des besoins et intérêts des enfants et des jeunes, notamment dans les domaines de la formation, de l’emploi, du logement et de la santé."
+        "text": "L’État met en œuvre une politique de la jeunesse qui tient compte des besoins et intérêts des enfants et des jeunes, notamment dans les domaines de la formation, de l’emploi, du logement et de la santé."
       },
       {
         "num": "2",
@@ -4112,7 +3670,7 @@
     "208": [
       {
         "num": "1",
-        "text": "L’Etat prend en compte le vieillissement de la population."
+        "text": "L’État prend en compte le vieillissement de la population."
       },
       {
         "num": "2",
@@ -4122,7 +3680,7 @@
     "209": [
       {
         "num": "1",
-        "text": "L’Etat favorise l’intégration économique et sociale des personnes handicapées."
+        "text": "L’État favorise l’intégration économique et sociale des personnes handicapées."
       },
       {
         "num": "2",
@@ -4131,22 +3689,18 @@
     ],
     "210": [
       {
-        "num": null,
-        "text": "discriminations et la haine"
-      },
-      {
         "num": "1",
-        "text": "L’Etat met en œuvre une politique de lutte contre les discriminations et la haine."
+        "text": "L’État facilite l’accueil, la participation et l’intégration des personnes étrangères."
       },
       {
         "num": "2",
-        "text": "L’exhibition ou le port de symboles, d’emblèmes et de tout autre objet de haine, notamment nazi, est interdit dans les espaces publics. La loi règle les exceptions et prévoit des sanctions."
+        "text": "Il facilite leur naturalisation. La procédure est simple et rapide. Elle ne peut donner lieu qu’à un émolument destiné à la couverture des frais."
       }
     ],
     "211": [
       {
         "num": "1",
-        "text": "L’Etat reconnaît et soutient le rôle des associations et du bénévolat dans la vie collective."
+        "text": "L’État reconnaît et soutient le rôle des associations et du bénévolat dans la vie collective."
       },
       {
         "num": "2",
@@ -4155,20 +3709,12 @@
       {
         "num": "3",
         "text": "Il peut nouer des partenariats pour des activités d’intérêt général."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "12",
-        "text": "Action sociale"
       }
     ],
     "212": [
       {
         "num": "1",
-        "text": "L’Etat prend soin des personnes dans le besoin."
+        "text": "L’État prend soin des personnes dans le besoin."
       },
       {
         "num": "2",
@@ -4190,7 +3736,7 @@
       },
       {
         "num": "3",
-        "text": "L’Etat met en œuvre l’action et l’aide sociales en collaboration avec les institutions publiques et privées."
+        "text": "L’État met en œuvre l’action et l’aide sociales en collaboration avec les institutions publiques et privées."
       }
     ],
     "214": [
@@ -4215,24 +3761,16 @@
       {
         "num": "3",
         "text": "Le canton garantit les prestations de l’Hospice général. Il lui donne les moyens d’accomplir ses tâches et couvre ses excédents de charges par un crédit porté chaque année au budget cantonal."
-      },
-      {
-        "num": null,
-        "text": "Section"
-      },
-      {
-        "num": "13",
-        "text": "Culture, patrimoine et loisirs"
       }
     ],
     "216": [
       {
         "num": "1",
-        "text": "L'Etat promeut la création artistique et l'activité culturelle. Il garantit leur diversité, leur accessibilité et leur enseignement. Il encourage les échanges culturels."
+        "text": "L’État promeut la création artistique et l’activité culturelle. Il garantit leur diversité, leur accessibilité et leur enseignement. Il encourage les échanges culturels."
       },
       {
         "num": "2",
-        "text": "A cette fin, il met à disposition des moyens, des espaces et des instruments de travail adéquats."
+        "text": "À cette fin, il met à disposition des moyens, des espaces et des instruments de travail adéquats."
       },
       {
         "num": "3",
@@ -4246,7 +3784,7 @@
     "217": [
       {
         "num": "1",
-        "text": "L’Etat veille à la conservation et à la mise en valeur du patrimoine culturel."
+        "text": "L’État veille à la conservation et à la mise en valeur du patrimoine culturel."
       },
       {
         "num": "2",
@@ -4256,17 +3794,17 @@
     "218": [
       {
         "num": "1",
-        "text": "Les édifices ecclésiastiques dont la propriété a été transférée aux Eglises par les communes conservent leur destination religieuse. Il ne peut en être disposé à titre onéreux. La loi peut prévoir des exceptions."
+        "text": "Les édifices ecclésiastiques dont la propriété a été transférée aux Églises par les communes conservent leur destination religieuse. Il ne peut en être disposé à titre onéreux. La loi peut prévoir des exceptions."
       },
       {
         "num": "2",
-        "text": "Le temple de Saint-Pierre est propriété de l’Eglise protestante de Genève. L’Etat en dispose pour les cérémonies officielles."
+        "text": "Le temple de Saint-Pierre est propriété de l’Église protestante de Genève. L’État en dispose pour les cérémonies officielles."
       }
     ],
     "219": [
       {
         "num": "1",
-        "text": "L’Etat favorise l’accès de la population à des loisirs diversifiés."
+        "text": "L’État favorise l’accès de la population à des loisirs diversifiés."
       },
       {
         "num": "2",
@@ -4276,7 +3814,7 @@
     "220": [
       {
         "num": "1",
-        "text": "L’Etat reconnaît l’importance d’une information diversifiée et encourage la pluralité des médias."
+        "text": "L’État reconnaît l’importance d’une information diversifiée et encourage la pluralité des médias."
       },
       {
         "num": "2",
@@ -4286,11 +3824,11 @@
     "221": [
       {
         "num": "1",
-        "text": "Le Conseil d’Etat organise au sein de chaque département un contrôle interne. Les communes et les institutions de droit public en font de même."
+        "text": "Le Conseil d’État organise au sein de chaque département un contrôle interne. Les communes et les institutions de droit public en font de même."
       },
       {
         "num": "2",
-        "text": "Un organe d’audit interne couvre l’ensemble de l’administration cantonale. Rattaché administrativement au Conseil d’Etat, il définit librement ses sujets d’investigation. Ses rapports sont communiqués au Conseil d’Etat et aux commissions compétentes du Grand Conseil."
+        "text": "Un organe d’audit interne couvre l’ensemble de l’administration cantonale. Rattaché administrativement au Conseil d’État, il définit librement ses sujets d’investigation. Ses rapports sont communiqués au Conseil d’État et aux commissions compétentes du Grand Conseil."
       },
       {
         "num": "3",
@@ -4300,21 +3838,17 @@
     "222": [
       {
         "num": "1",
-        "text": "Le contrôle externe de l’Etat est assuré par la Cour des comptes."
+        "text": "Le contrôle externe de l’État est assuré par la Cour des comptes."
       },
       {
         "num": "2",
-        "text": "La révision des comptes de l’Etat est assurée par la Cour des comptes.(1)"
+        "text": "La révision des comptes de l’État est assurée par la Cour des comptes.36"
       }
     ],
     "223": [
       {
         "num": null,
-        "text": "L’article 131 s’applique par analogie au contrôle et à l’audit internes, ainsi qu’à la révision des comptes de l’Etat."
-      },
-      {
-        "num": null,
-        "text": "Titre VII           Dispositions finales et transitoires Chapitre I Dispositions générales"
+        "text": "L’art. 131 s’applique par analogie au contrôle et à l’audit internes, ainsi qu’à la révision des comptes de l’État."
       }
     ],
     "224": [
@@ -4324,7 +3858,7 @@
       },
       {
         "num": "2",
-        "text": "L’article 229, alinéa 2, et l’article 231 entrent en vigueur dès l’approbation de la présente constitution par le corps électoral."
+        "text": "L’art. 229, al. 2, et l’art. 231 entrent en vigueur dès l’approbation de la présente constitution par le corps électoral."
       }
     ],
     "225": [
@@ -4344,11 +3878,11 @@
     "226": [
       {
         "num": "1",
-        "text": "Les modifications législatives requises par la présente constitution sont adoptées sans retard, mais au plus tard dans un délai de 5 ans dès son entrée en vigueur."
+        "text": "Les modifications législatives requises par la présente constitution sont adoptées sans retard, mais au plus tard dans un délai de cinq ans dès son entrée en vigueur."
       },
       {
         "num": "2",
-        "text": "A cette fin, le Conseil d’Etat soumet au Grand Conseil un programme législatif avant le 1er janvier 2014."
+        "text": "À cette fin, le Conseil d’État soumet au Grand Conseil un programme législatif avant le 1er janvier 2014."
       }
     ],
     "227": [
@@ -4363,68 +3897,48 @@
     ],
     "228": [
       {
-        "num": null,
-        "text": "al. 4 (titularité)"
-      },
-      {
         "num": "1",
-        "text": "Dans l’attente d’une loi d’application, l’autorité judiciaire compétente en matière de protection de l’adulte peut suspendre les droits politiques en vertu de l’article 48, alinéa 4. Elle statue sur l’étendue de la suspension."
+        "text": "Dans l’attente d’une loi d’application, l’autorité judiciaire compétente en matière de protection de l’adulte peut suspendre les droits politiques en vertu de l’art. 48, al. 4. Elle statue sur l’étendue de la suspension."
       },
       {
         "num": "2",
-        "text": "Les personnes privées des droits politiques à l’entrée en vigueur de la présente constitution le restent jusqu’à décision d’une autorité judiciaire, mais au plus tard durant 3 ans. Elles peuvent s’adresser en tout temps à l’autorité visée à l’alinéa précédent ou à l’autorité judiciaire désignée par la loi d’application, qui statuera sur la suspension ou non des droits politiques et le cas échéant sur son étendue."
+        "text": "Les personnes privées des droits politiques à l’entrée en vigueur de la présente constitution le restent jusqu’à décision d’une autorité judiciaire, mais au plus tard durant trois ans. Elles peuvent s’adresser en tout temps à l’autorité visée à l’alinéa précédent ou à l’autorité judiciaire désignée par la loi d’application, qui statuera sur la suspension ou non des droits politiques et le cas échéant sur son étendue."
       },
       {
         "num": "3",
-        "text": "Les personnes privées des droits politiques à l’entrée en vigueur de la loi constitutionnelle du 29 novembre 2020 recouvrent immédiatement ces droits.(11)"
+        "text": "Les personnes privées des droits politiques à l’entrée en vigueur de la loi constitutionnelle du 29 novembre 2020 recouvrent immédiatement ces droits.37"
       }
     ],
     "229": [
-      {
-        "num": null,
-        "text": "à 64 et 71 à 76 (initiatives populaires)"
-      },
       {
         "num": "1",
         "text": "L’ancien droit s’applique aux initiatives populaires dont le lancement a été publié avant l’entrée en vigueur de la présente constitution."
       },
       {
         "num": "2",
-        "text": "Les initiatives constitutionnelles pendantes sont transformées par le Grand Conseil en projet de révision de la présente constitution.(a)"
+        "text": "Les initiatives constitutionnelles pendantes sont transformées par le Grand Conseil en projet de révision de la présente constitution."
       }
     ],
     "230": [
-      {
-        "num": null,
-        "text": "à 70 et 77 à 79 (référendums)"
-      },
       {
         "num": "1",
         "text": "L’ancien droit s’applique aux demandes de référendum portant sur les actes adoptés avant l’entrée en vigueur de la présente constitution."
       },
       {
         "num": "2",
-        "text": "La législation visée par l’article 67, alinéa 2, lettre b, comporte, à l’entrée en vigueur de la présente constitution, les lois suivantes :"
-      },
-      {
-        "num": null,
-        "text": "a)  la loi sur l’organisation judiciaire, du 26 septembre 2010, dans la mesure où elle concerne la commission de conciliation en matière de baux et loyers ou les compétences et la composition du Tribunal et de la chambre des baux et loyers, soit les articles 1, lettre b, chiffres 2 et 3, 83, alinéas 3 et 4, 88 à 90, 117, alinéa 3, 121 et 122; b)  la loi organisant la commission de conciliation en matière de baux et loyers, du 28 novembre 2010; c)  la loi générale sur le logement et la protection des locataires, du 4 décembre 1977; d)  la loi sur les démolitions, transformations et rénovations de maisons d’habitation (mesures de soutien en faveur des locataires et de l’emploi), du 25 janvier 1996; e)  la loi sur les plans d’utilisation du sol, soit les articles 15A à 15G de la loi sur l’extension des voies de communication et l’aménagement des quartiers ou localités, du 26 juin 1983; f)   les articles 10, 17, alinéa 1, et 26 de la loi d’application du code civil suisse et autres lois fédérales en matière civile, du 28 novembre 2010."
+        "text": "La législation visée par l’art. 67, al. 2, let. b, comporte, à l’entrée en vigueur de la présente constitution, les lois suivantes:"
       }
     ],
     "231": [
       {
         "num": null,
-        "text": "art. 67, al. 1, art. 71, al. 1, et art. 77, al. 1 Au plus tard 30 jours avant l’entrée en vigueur de la présente constitution, le Conseil d’Etat arrête le nombre de signatures requis pour l’aboutissement d’une initiative ou d’une demande de référendum conformément aux articles 56, alinéa 1, 57, alinéa 1, 67, alinéa 1, 71, alinéa 1, et 77, alinéa 1."
+        "text": "Au plus tard 30 jours avant l’entrée en vigueur de la présente constitution, le Conseil d’État arrête le nombre de signatures requis pour l’aboutissement d’une initiative ou d’une demande de référendum conformément aux art. 56, al. 1, 57, al. 1, 67, al. 1, 71, al. 1, et 77, al. 1."
       }
     ],
     "232": [
       {
-        "num": null,
-        "text": "al. 2, et art. 102, al. 2 (date des élections cantonales)"
-      },
-      {
         "num": "1",
-        "text": "L’élection du Grand Conseil et le premier tour de l’élection du Conseil d’Etat ont lieu en octobre 2013, à l’issue de la législature en cours."
+        "text": "L’élection du Grand Conseil et le premier tour de l’élection du Conseil d’État ont lieu en octobre 2013, à l’issue de la législature en cours."
       },
       {
         "num": "2",
@@ -4434,55 +3948,31 @@
     "233": [
       {
         "num": null,
-        "text": "(suppléance) Tant qu’une législation d’application n’aura pas été adoptée, les députées et députés suppléants sont élus conformément aux principes suivants :"
-      },
-      {
-        "num": null,
-        "text": "a)  chaque liste ayant obtenu des sièges a droit à un nombre de députées et députés suppléants correspondant à un tiers du nombre de ses sièges; b)  sont députées ou députés suppléants les candidates et candidats ayant obtenu le plus de suffrages après le dernier élu de la liste; c)  en cas d’absence lors d’une séance plénière ou de commission, un membre du Grand Conseil peut se faire remplacer par une députée ou un député suppléant."
+        "text": "Tant qu’une législation d’application n’aura pas été adoptée, les députées et députés suppléants sont élus conformément aux principes suivants:"
       }
     ],
     "234": [
       {
         "num": null,
-        "text": "(désignation du Conseil supérieur de la magistrature) Le premier renouvellement du Conseil supérieur de la magistrature intervenant après l’entrée en vigueur de la présente constitution est soumis à l’ancien droit si la législation d’application n’a pas été adoptée dans l’intervalle."
+        "text": "Le premier renouvellement du Conseil supérieur de la magistrature intervenant après l’entrée en vigueur de la présente constitution est soumis à l’ancien droit si la législation d’application n’a pas été adoptée dans l’intervalle."
       }
     ],
     "235": [
       {
         "num": null,
-        "text": "et 139 (fusion de communes) Le Grand Conseil adopte les dispositions d’application des articles 138 et 139 dans un délai de 3 ans dès l’entrée en vigueur de la présente constitution."
+        "text": "Le Grand Conseil adopte les dispositions d’application des art. 138 et 139 dans un délai de trois ans dès l’entrée en vigueur de la présente constitution."
       }
     ],
     "236": [
       {
         "num": null,
-        "text": "à 203 (accueil préscolaire) L’offre de places d’accueil de jour est adaptée aux besoins dans un délai de 4 ans dès l’entrée en vigueur de la présente constitution."
+        "text": "L’offre de places d’accueil de jour est adaptée aux besoins dans un délai de quatre ans dès l’entrée en vigueur de la présente constitution."
       }
     ],
     "237": [
       {
         "num": null,
-        "text": "constituante Les procès-verbaux des commissions de l’Assemblée constituante sont publics."
-      },
-      {
-        "num": null,
-        "text": "RSG Intitulé Date d'adoption Entrée en vigueur A 2 00     Constitution de la République et canton de Genève 14.10.2012 01.06.2013 Bulletin officiel de l’Assemblée constituante genevoise (tomes I à XXVIII) Modifications et commentaire :"
-      },
-      {
-        "num": null,
-        "text": "a. ad 229/2, 231 : (autre date d’entrée en vigueur) 14.10.2012 14.10.2012 1. n.t. : 222/2 28.02.2016 30.03.2016 2. n. : 192A 05.06.2016 02.07.2016 3. n.t. : 55/5 25.09.2016 22.10.2016 4. n.t. : 56/1, 57/1, 67/1, 71/1, 77/1 24.09.2017 21.10.2017 5. n.t. : 216 19.05.2019 15.06.2019 6. n. : (d. :"
-      },
-      {
-        "num": null,
-        "text": "187/2-3 >> 187/3-4) 187/2 24.11.2019 21.12.2019 7. n. : 191A 24.11.2019 21.12.2019 8. n. : 174A 27.09.2020 17.10.2020 9. n. : 105/3; n.t."
-      },
-      {
-        "num": null,
-        "text": ": 105/2; a. :"
-      },
-      {
-        "num": null,
-        "text": "106/3 27.09.2020 17.10.2020 10. n. : (d. : 155/4 >> 155/5) 155/4, 155/6 27.09.2020 17.10.2020 11. n. : 228/3; a. : 48/4 29.11.2020 19.12.2020 12. n.t. : rectification selon 7C/1, B 2 05 (174A (note), 174A/1) 27.03.2021 27.03.2021 13. n. : 46/2e, section 5 du chap. II du titre IV, 115A, 115B; n.t. : 65 28.11.2021 01.06.2023 14. n.t. : 141/2b; a. : 141/2c 28.11.2021 01.06.2025 15. n. : (d. : 168/2-4 >> 168/3-5) 168/2; n.t. : 168/3 13.02.2022 01.01.2025 16. n. : 38A 18.06.2023 08.07.2023 17. n. : 21A 18.06.2023 08.07.2023 18. n.t. : 205 18.06.2023 08.07.2023 19. n.t. : 68/2 03.03.2024 23.03.2024 20. n.t. : 56/1, 57/1, 67/1, 71/1, 77/1 03.03.2024 23.03.2024 21. n. : 7A 03.03.2024 23.03.2024 22. n. : 210A 09.06.2024 06.07.2024 23. n.t. : 71/1, 77/1 18.05.2025 14.06.2025 24. a. : 127 18.05.2025 01.07.2025 25. n. : 123/3; n.t."
+        "text": "Les procès-verbaux des commissions de l’Assemblée constituante sont publics."
       }
     ]
   }

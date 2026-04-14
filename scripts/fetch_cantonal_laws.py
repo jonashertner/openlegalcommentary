@@ -49,6 +49,7 @@ FEDLEX_CONFIG: dict[str, dict] = {
     "ZH": {"eli": "/eli/cc/2006/14_fga", "date": "20240701"},
     "BE": {"eli": "/eli/cc/1994/1_401_401_361_fga", "date": "20240101"},
     "FR": {"eli": "/eli/cc/2004/2129_cc", "date": "20250101"},
+    "GE": {"eli": "/eli/cc/2013/1846_fga", "date": "20250101"},
     "GR": {"eli": "/eli/cc/2004/232_fga", "date": "20230920"},
     "NW": {"eli": "/eli/cc/1965/3_619_631_611_fga", "date": "20230313"},
     "SG": {"eli": "/eli/cc/2002/258_fga", "date": "20100608"},
@@ -166,6 +167,13 @@ def fetch_fedlex(canton: str) -> Path:
     r = _http_get(url, accept="text/html")
     html = r.text
 
+    # Some cantons use -2.html suffix instead of -1.html
+    if 'id="art_' not in html[:50000]:
+        url2 = url.replace("-html-1.html", "-html-2.html")
+        r2 = _http_get(url2, accept="text/html")
+        if 'id="art_' in r2.text[:50000]:
+            html = r2.text
+
     # Extract title from <h1>
     title_m = re.search(r"<h1[^>]*>(.*?)</h1>", html[:5000], re.DOTALL)
     title = ""
@@ -198,12 +206,24 @@ def fetch_fedlex(canton: str) -> Path:
         content = m.group(2)
         pos = m.start()
 
-        # Closest preceding heading
+        # Try inline article title first: <a href="#art_N"><b>Art. N</b> Title</a>
+        inline_title = re.search(
+            r'<a[^>]*href="#art_' + re.escape(art_num)
+            + r'"[^>]*><b>Art[^<]*</b>\s*(.*?)</a>',
+            content,
+        )
         heading = ""
-        for h_pos, h_text in reversed(headings):
-            if h_pos < pos:
-                heading = h_text
-                break
+        if inline_title:
+            heading = html_lib.unescape(
+                re.sub(r"<[^>]+>", "", inline_title.group(1)).strip()
+            )
+
+        # Fall back to closest preceding section heading
+        if not heading:
+            for h_pos, h_text in reversed(headings):
+                if h_pos < pos:
+                    heading = h_text
+                    break
 
         # Parse paragraphs (class="absatz" or plain <p>)
         paras: list[dict] = []
