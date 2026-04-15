@@ -1,9 +1,8 @@
 name: Daily Update
 
+# Automatic scheduling disabled — content generation is manual only.
+# To run: trigger via GitHub UI (Actions tab) or: gh workflow run daily-update.yml
 on:
-  schedule:
-    # Run at 02:00 CET (01:00 UTC in summer, 02:00 UTC in winter)
-    - cron: '0 1 * * *'
   workflow_dispatch:
 
 permissions:
