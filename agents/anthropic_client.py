@@ -202,16 +202,17 @@ async def run_agent(
     total_thinking_tokens = 0
     final_text = ""
 
-    # System prompt as a cache-marked content block so the ~15k-token static
-    # portion (guidelines + layer instructions + citation format) is billed
-    # once per ~5-minute window and re-read at ~10% cost on subsequent turns.
-    # This is the single largest cost lever in agentic workflows with 8-12
-    # turns per article.
+    # System prompt as a cache-marked content block. Uses 1-hour TTL so the
+    # ~15k-token static portion persists across multiple articles in a bulk
+    # run (Opus extended thinking takes 10-15 min/article — 5-min default
+    # would expire between articles and waste the write premium).
+    # 1-hour cache: 2x write, 0.1x read. Breaks even after 1 cross-article
+    # hit; real savings on bulk runs of 5+ articles per (law, layer_type).
     system_blocks = [
         {
             "type": "text",
             "text": system_prompt,
-            "cache_control": {"type": "ephemeral"},
+            "cache_control": {"type": "ephemeral", "ttl": "1h"},
         }
     ]
 
@@ -310,18 +311,18 @@ async def run_agent(
         messages.append({"role": "user", "content": tool_results})
 
     # Cost estimate with prompt-caching awareness.
-    # Ephemeral cache writes are billed at 1.25x normal input, cache reads
-    # at 0.10x. Output pricing is unchanged.
-    # Sonnet baseline: input $3, cache-write $3.75, cache-read $0.30, output $15
-    # Opus:            input $15, cache-write $18.75, cache-read $1.50, output $75
+    # 1-hour ephemeral cache: writes 2x normal input, reads 0.10x.
+    # Output pricing unchanged.
+    # Sonnet 1h cache: input $3, cache-write $6, cache-read $0.30, output $15
+    # Opus 1h cache:   input $15, cache-write $30, cache-read $1.50, output $75
     if "opus" in model_id:
         input_rate = 15.0
-        cache_write_rate = 18.75
+        cache_write_rate = 30.0
         cache_read_rate = 1.50
         output_rate = 75.0
     else:
         input_rate = 3.0
-        cache_write_rate = 3.75
+        cache_write_rate = 6.0
         cache_read_rate = 0.30
         output_rate = 15.0
 
@@ -332,15 +333,22 @@ async def run_agent(
         + (total_output_tokens + total_thinking_tokens) * output_rate
     ) / 1_000_000
 
+    # Cache efficiency: ratio of read to write tokens.
+    # Good: ratio > 5 (one write amortized over many reads).
+    # Bad: ratio < 1 (writing more than reading — paying premium without
+    # getting the benefit).
+    cw = total_cache_creation_tokens
+    cr = total_cache_read_tokens
+    cache_ratio = (cr / cw) if cw > 0 else 0.0
+    cache_cost_vs_nocache = (
+        cw * cache_write_rate + cr * cache_read_rate
+    ) / 1_000_000 - (cw + cr) * input_rate / 1_000_000
     logger.info(
-        "run_agent(%s) totals: in=%d cw=%d cr=%d out=%d think=%d cost=$%.4f",
-        model,
-        total_input_tokens,
-        total_cache_creation_tokens,
-        total_cache_read_tokens,
-        total_output_tokens,
-        total_thinking_tokens,
-        cost,
+        "run_agent(%s) totals: in=%d cw=%d cr=%d ratio=%.1f out=%d "
+        "think=%d cost=$%.4f (cache %+.4f vs no-cache)",
+        model, total_input_tokens, cw, cr, cache_ratio,
+        total_output_tokens, total_thinking_tokens, cost,
+        cache_cost_vs_nocache,
     )
 
     return final_text, cost
