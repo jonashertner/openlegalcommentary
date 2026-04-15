@@ -73,6 +73,26 @@ async def daily_pipeline(
         }
 
     articles = map_decisions_to_articles(decisions)
+
+    # Safety guard — never process more than 50 articles in one daily
+    # run. If we hit this, something's wrong (parser regression,
+    # bad date_from, etc.) — fail loud rather than burn hundreds of
+    # dollars on a bad run.
+    max_daily_articles = 50
+    if len(articles) > max_daily_articles:
+        logger.error(
+            "Daily pipeline aborting: %d articles exceeds safety "
+            "limit of %d. Review decisions_found=%d.",
+            len(articles), max_daily_articles, len(decisions),
+        )
+        return {
+            "articles_processed": 0,
+            "decisions_found": len(decisions),
+            "cost_usd": 0.0,
+            "aborted": "exceeded_max_articles",
+            "articles_seen": len(articles),
+        }
+
     by_law = group_by_law(articles)
 
     all_results: list[LayerResult] = []
