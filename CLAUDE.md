@@ -10,7 +10,7 @@ Open-access, AI-generated, daily-updated legal commentary on Swiss federal law.
 - `site/` — Astro static site (4 languages: DE/FR/IT/EN, URL-based routing under `/{lang}/`)
 - `export/` — HuggingFace dataset export
 - `scripts/` — Utility scripts (article fetcher, validation, citation audit, Botschaft digestion)
-- `tests/` — Test suite (189 tests)
+- `tests/` — Test suite (214 tests)
 - `docs/superpowers/specs/` — Design specs, roadmap, experiment results
 - `docs/superpowers/plans/` — Implementation plans
 
@@ -41,18 +41,26 @@ BV (SR 101), ZGB (SR 210), OR (SR 220), ZPO (SR 272),
 StGB (SR 311.0), StPO (SR 312.0), SchKG (SR 281.1), VwVG (SR 172.021),
 BGFA (SR 935.61)
 
-**Content state:** BV and BGFA have substantial doctrine coverage with
-Sonnet 4.6 quality. Other 7 laws have bootstrapped content from Opus 4
-that hasn't been regenerated yet.
+**Content state:** BV (233 articles) and BGFA (38 articles) have substantial
+doctrine coverage from the quality arc (Sonnet 4.6, with recent articles
+regenerated on Opus 4.6 extended thinking). The other 7 laws still carry the
+original Opus 4 bootstrap (stub doctrine) and haven't been regenerated; VwVG
+has 4 hand-written articles.
 
 ## Agent pipeline architecture
 
 ### Model configuration (`agents/config.py`)
 
-- **Doctrine generation:** Sonnet 4.6 (`claude-sonnet-4-6`) — switched from
-  Opus after Phase 0 experiment showed 10-13x cost reduction with equal or
-  better quality. See `docs/superpowers/specs/2026-04-10-phase-0-sonnet-test-results.md`.
-- **Evaluator:** Opus 4.6 (`claude-opus-4-6`) — independent quality judge.
+- **Doctrine generation:** Opus 4.6 with extended thinking (`opus-thinking`) —
+  reverted from Sonnet 4.6 after the 2026-04-13 A/B test showed Opus thinking
+  produced measurably better doctrine (Art. 36 BV was the first to pass Opus
+  evaluation), at ~$6/article (4-5x Sonnet). See
+  `docs/superpowers/specs/2026-04-13-cross-model-evaluation-design.md`. This
+  supersedes the earlier Phase 0 result that favored Sonnet
+  (`2026-04-10-phase-0-sonnet-test-results.md`).
+- **Evaluator:** Opus 4.6 primary, plus a cross-model panel — ChatGPT
+  (`evaluator_mode = advisory_chatgpt`: feedback only) and Grok (co-sign —
+  Claude + Grok must both pass).
 - **Caselaw/Summary/Translator:** Sonnet 4.6.
 - **Prompt caching:** enabled on system prompt in `agents/anthropic_client.py`
   (ephemeral cache, ~$0.40/article savings).
@@ -97,6 +105,23 @@ Data files in `scripts/preparatory_materials/`:
 
 **Current coverage:** BV has all 4 sources (67-83 articles per source).
 BGFA has Botschaft only (37 articles).
+
+### Cantonal source catalogs (`scripts/cantonal_materials/{xx}.json`)
+
+For cantonal constitutions (law keys `xx-kv`, e.g. `sg-kv`, `bs-kv`),
+`format_preparatory_materials()` dispatches to `format_cantonal_sources()`,
+which loads `scripts/cantonal_materials/{xx}.json` and renders a static
+source catalog (Verfassungsrat-Bericht, Staatsarchiv, Amtsblatt, kantonale
+Plattformen + caveats). The block is article-agnostic — there are no
+per-article digests for cantonal Materialien yet. The agent is told to
+name the *Bericht des Verfassungsrats* without inventing page references.
+
+Coverage: SG (sGS 111.1), BS (SG 111.100), BL (SGS 100 — metadata flagged
+*zu verifizieren*, provisional). BS/SG record an elected *Verfassungsrat*
+(`body`); BL records a *Verfassungserarbeitung* by the Verfassungskommission
+des Landrats (`organ`) — `format_cantonal_sources()` renders either. Source
+data extracted from `Quellen.xlsx` (Apr 2026) plus hand-curated
+`historical_sources` block covering the KV-Totalrevisionen.
 
 ## Citation audit tool
 
@@ -146,7 +171,7 @@ a reusable command).
 ## Commands
 
 ### Core pipeline
-- `uv run pytest` — run tests (189 tests)
+- `uv run pytest` — run tests (214 tests)
 - `uv run ruff check .` — lint
 - `uv run python -m agents.pipeline daily` — run daily update pipeline
 - `uv run python -m agents.pipeline single BV 8 --layers doctrine` — generate one layer for one article
