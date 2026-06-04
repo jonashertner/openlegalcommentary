@@ -1,0 +1,595 @@
+{
+  "canton": "BS",
+  "name": "Basel-Stadt",
+  "source": "Quellen.xlsx (kantonale Rechtsquellen-Tabelle, Apr 2026)",
+  "kategorien": {
+    "botschaften_vernehmlassungen": {
+      "label": "Kat. 1: Botschaften, Erlassentwürfe, Vernehmlassungen",
+      "sources": {
+        "vernehmlassungen": {
+          "link": "https://www.bs.ch/regierungsrat/vernehmlassungen",
+          "bemerkung": "Vernehmlassungen des Regierungsrats",
+          "ab": "variiert"
+        },
+        "parlamentsgeschaefte_botschaften": {
+          "link": "https://grosserrat.bs.ch/parlament/parlamentarische-recherche",
+          "bemerkung": "Geschäfte Grosser Rat (Ratschläge, ab 1984). Getrennte Plattformen.",
+          "ab": "1984"
+        }
+      }
+    },
+    "parlamentarische_debatten": {
+      "label": "Kat. 2: Parlamentarische Debatten",
+      "sources": {
+        "debatten": {
+          "link": "https://grosserrat.bs.ch/ratsbetrieb/ratsprotokolle",
+          "bemerkung": "Ratsprotokolle (Wortprotokolle ab 2004, Audio/Video)",
+          "ab": "2004"
+        }
+      }
+    },
+    "kantonale_rechtsprechung": {
+      "label": "Kat. 3: Kantonale Rechtsprechung",
+      "sources": {
+        "rechtsprechung": {
+          "link": "https://rechtsprechung.gerichte.bs.ch",
+          "bemerkung": "Entscheiddatenbank (FindInfoWeb)",
+          "ab": "variiert"
+        },
+        "rechtsprechung_zusatz": {
+          "link": "https://www.appellationsgericht.bs.ch/gerichtsentscheide.html",
+          "bemerkung": "Appellationsgericht (ab 2014)",
+          "ab": "2014"
+        }
+      }
+    },
+    "departementsrechtsprechung": {
+      "label": "Kat. 4: Departementsrechtsprechung",
+      "sources": {
+        "dep_rechtsprechung": {
+          "link": "https://www.bs.ch/gerichte-judikative/steuerrekurskommission",
+          "bemerkung": "Steuerrekurskommission (ab 2023). Baurekurskommission: keine Online-Entscheide.",
+          "ab": "2023"
+        },
+        "dep_rechtsprechung_zusatz": {
+          "link": "https://www.bs.ch/steuerrechtsprechung",
+          "bemerkung": "BStP (Basler Steuerpraxis, StRK + VwG)",
+          "ab": "variiert"
+        }
+      }
+    },
+    "verwaltungspraxis": {
+      "label": "Kat. 5: Verwaltungspraxis",
+      "sources": {
+        "verwaltungspraxis_steuerbuch": {
+          "link": "https://www.bs.ch/fd/steuerverwaltung",
+          "bemerkung": "Kein klassisches Steuerbuch. Merkblätter via Steuerverwaltung.",
+          "ab": "laufend"
+        }
+      }
+    }
+  },
+  "verwaltungspraxis_topics": {
+    "steuerpraxis": {
+      "link": "https://www.bs.ch/fd/steuerverwaltung",
+      "bemerkung": "Merkblätter. BStP = Basler Steuerpraxis.",
+      "ab": "laufend"
+    },
+    "sozialhilfe": {
+      "link": "https://www.bs.ch/wsu/sozialhilfe/rechtliche-grundlagen-und-handbuch",
+      "bemerkung": "Handbuch Sozialhilfe BS (Stichwort-basiert, online).",
+      "ab": "laufend"
+    },
+    "baurecht_raumplanung": {
+      "link": "https://www.bs.ch/bvd/staedtebau-architektur",
+      "bemerkung": "Städtebau & Architektur: Planungsrecht, Merkblätter.",
+      "ab": "laufend"
+    },
+    "migration": {
+      "link": "https://www.bs.ch/jsd/bevoelkerungsdienste-und-migration",
+      "bemerkung": "Bevölkerungsdienste und Migration: Merkblätter.",
+      "ab": "laufend"
+    },
+    "personalrecht": {
+      "link": null,
+      "bemerkung": "Zentraler Personaldienst: Rechtsgrundlagen.",
+      "ab": null
+    },
+    "einbuergerung": {
+      "link": null,
+      "bemerkung": "Bürgerrecht-Informationen.",
+      "ab": null
+    },
+    "umwelt_vollzug": {
+      "link": null,
+      "bemerkung": "AUE: Merkblätter, Vollzugshilfen.",
+      "ab": null
+    }
+  },
+  "url_directory": [
+    {
+      "kategorien": "Parlamentsgeschäfte/Botschaften",
+      "url": "https://grosserrat.bs.ch/parlament/parlamentarische-recherche",
+      "domain": "grosserrat.bs.ch",
+      "pfad": "/parlament/parlamentarische-recherche",
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "Geschäfte Grosser Rat (Ratschläge, ab 1984). Getrennte Plattformen.",
+      "ab": "1984",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    },
+    {
+      "kategorien": "Parl. Debatten",
+      "url": "https://grosserrat.bs.ch/ratsbetrieb/ratsprotokolle",
+      "domain": "grosserrat.bs.ch",
+      "pfad": "/ratsbetrieb/ratsprotokolle",
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "Ratsprotokolle (Wortprotokolle ab 2004, Audio/Video)",
+      "ab": "2004",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    },
+    {
+      "kategorien": "Rechtsprechung",
+      "url": "https://rechtsprechung.gerichte.bs.ch",
+      "domain": "rechtsprechung.gerichte.bs.ch",
+      "pfad": null,
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "Entscheiddatenbank (FindInfoWeb)",
+      "ab": "variiert",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    },
+    {
+      "kategorien": "Rechtsprechung – Zusatz",
+      "url": "https://www.appellationsgericht.bs.ch/gerichtsentscheide.html",
+      "domain": "www.appellationsgericht.bs.ch",
+      "pfad": "/gerichtsentscheide.html",
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "Appellationsgericht (ab 2014)",
+      "ab": "2014",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    },
+    {
+      "kategorien": "Baurecht-Praxis",
+      "url": "https://www.bs.ch/bvd/staedtebau-architektur",
+      "domain": "www.bs.ch",
+      "pfad": "/bvd/staedtebau-architektur",
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "Städtebau & Architektur: Planungsrecht, Merkblätter.",
+      "ab": "laufend",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    },
+    {
+      "kategorien": "Verwaltungspraxis/Steuerbuch; Steuerpraxis",
+      "url": "https://www.bs.ch/fd/steuerverwaltung",
+      "domain": "www.bs.ch",
+      "pfad": "/fd/steuerverwaltung",
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "Kein klassisches Steuerbuch. Merkblätter via Steuerverwaltung.; Merkblätter. BSt",
+      "ab": "laufend",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    },
+    {
+      "kategorien": "Dep.-Rechtsprechung",
+      "url": "https://www.bs.ch/gerichte-judikative/steuerrekurskommission",
+      "domain": "www.bs.ch",
+      "pfad": "/gerichte-judikative/steuerrekurskommission",
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "Steuerrekurskommission (ab 2023). Baurekurskommission: keine Online-Entscheide.",
+      "ab": "2023",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    },
+    {
+      "kategorien": "Migrationsweisungen",
+      "url": "https://www.bs.ch/jsd/bevoelkerungsdienste-und-migration",
+      "domain": "www.bs.ch",
+      "pfad": "/jsd/bevoelkerungsdienste-und-migration",
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "Bevölkerungsdienste und Migration: Merkblätter.",
+      "ab": "laufend",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    },
+    {
+      "kategorien": "Vernehmlassungen",
+      "url": "https://www.bs.ch/regierungsrat/vernehmlassungen",
+      "domain": "www.bs.ch",
+      "pfad": "/regierungsrat/vernehmlassungen",
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "Vernehmlassungen des Regierungsrats",
+      "ab": "variiert",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    },
+    {
+      "kategorien": "Dep.-Rechtsprechung – Zusatz",
+      "url": "https://www.bs.ch/steuerrechtsprechung",
+      "domain": "www.bs.ch",
+      "pfad": "/steuerrechtsprechung",
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "BStP (Basler Steuerpraxis, StRK + VwG)",
+      "ab": "variiert",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    },
+    {
+      "kategorien": "Sozialhilfe-Handbuch",
+      "url": "https://www.bs.ch/wsu/sozialhilfe/rechtliche-grundlagen-und-handbuch",
+      "domain": "www.bs.ch",
+      "pfad": "/wsu/sozialhilfe/rechtliche-grundlagen-und-handbuch",
+      "query": null,
+      "hinweis": null,
+      "bemerkung": "Handbuch Sozialhilfe BS (Stichwort-basiert, online).",
+      "ab": "laufend",
+      "format": "HTML + PDF",
+      "maschinenlesbar": "✓",
+      "verifiziert": "✓"
+    }
+  ],
+  "suchsyntax": [
+    {
+      "Plattform / Typ": "fedlex – Bundesblatt (BBl)",
+      "Kantone": "CH",
+      "URL-Muster": "fedlex.admin.ch/de/fga",
+      "Suchfeld / Einstieg": "Suchfeld oben rechts auf fedlex oder direkt /de/fga → Suche",
+      "Suchsyntax / Beispiel": "Suche nach Titel der Botschaft oder BBl-Fundstelle.\nBeispiel: «Botschaft DBG» oder «BBl 1983 III 1».\nAb 2021: Ordnungsnr. statt Seite (z.B. BBl 2021 2345).",
+      "Tipps & Fallen": "Bis 2020: Zitat = BBl JJJJ [Band] Seite.\nAb 2021: Zitat = BBl JJJJ Nr.\nÄltere Botschaften (vor 1999) → BAR.",
+      "Format der Treffer": "PDF (ab 1999)\nScan/OCR (BAR)",
+      "Maschinenlesbar?": "PDF: ✓ via web_fetch\nScan: bedingt (OCR)"
+    },
+    {
+      "Plattform / Typ": "BAR – Amtsdruckschriften",
+      "Kantone": "CH",
+      "URL-Muster": "amtsdruckschriften.bar.admin.ch",
+      "Suchfeld / Einstieg": "Volltextsuche auf Startseite oder Navigation nach Jahrgang/Band",
+      "Suchsyntax / Beispiel": "Volltextsuche: z.B. «direkte Bundessteuer» oder «Aufwandbesteuerung».\nBlättern: BBl → Jahr → Band → Seite.\nAuch: Amtl. Bulletin, AS, VPB durchsuchbar.",
+      "Tipps & Fallen": "OCR-Qualität variiert (ältere Bände fehlerhaft).\nImmer Original-Scan zitieren, nicht OCR-Text.\nAbdeckung: BBl 1849–2008, AB 1891–1995, AS 1848–1998, VPB 1928–2006.",
+      "Format der Treffer": "Scan + OCR (PDF)",
+      "Maschinenlesbar?": "Bedingt (OCR-Fehler bei alten Bänden)"
+    },
+    {
+      "Plattform / Typ": "Curia Vista",
+      "Kantone": "CH",
+      "URL-Muster": "parlament.ch/de/ratsbetrieb/curia-vista",
+      "Suchfeld / Einstieg": "Einfache Suche (Suchfeld) oder Erweiterte Suche (/search-affairs-advanced)",
+      "Suchsyntax / Beispiel": "Geschäftsnr.: z.B. 18.034 (= Jahr.Nummer).\nTitel: z.B. «Steueramnestie» oder «direkte Bundessteuer».\nDeskriptoren: z.B. «Direkte Bundessteuer» (thematisch).\nErweiterte Suche: Geschäftstyp=Botschaft, Zustand, Rat.",
+      "Tipps & Fallen": "Geschäftsnr. ist der Schlüssel – immer notieren!\nÄltere Geschäfte (1970–1995) nur Verweis auf BBl.\nVorstösse ab 1983 nachgewiesen.",
+      "Format der Treffer": "HTML (strukturiert)",
+      "Maschinenlesbar?": "✓ Ja"
+    },
+    {
+      "Plattform / Typ": "Amtliches Bulletin",
+      "Kantone": "CH",
+      "URL-Muster": "parlament.ch/de/ratsbetrieb/amtliches-bulletin",
+      "Suchfeld / Einstieg": "Via Curia Vista → Geschäft → Link «Amtliches Bulletin»\nOder direkt: AB → Session → Datum → Geschäft",
+      "Suchsyntax / Beispiel": "Einstieg immer über Curia Vista (Geschäftsnr.).\nDirektsuche: Session (z.B. «Wintersession 2005») → Datum → Rat.\nVolltext der Debatte inkl. Abstimmungsergebnisse.",
+      "Tipps & Fallen": "NR und SR separat – beide prüfen!\nMinderheitsanträge stehen im Debattentext.\nÄltere Debatten (vor 1995) → BAR.",
+      "Format der Treffer": "HTML (ab 1995)\nScan/OCR (BAR)",
+      "Maschinenlesbar?": "✓ (ab 1995)\nBedingt (BAR)"
+    },
+    {
+      "Plattform / Typ": "BGE-Datenbank",
+      "Kantone": "CH",
+      "URL-Muster": "bger.ch",
+      "Suchfeld / Einstieg": "Startseite → Rechtsprechung → Leitentscheide oder Alle Urteile",
+      "Suchsyntax / Beispiel": "BGE-Nummer: z.B. «142 II 293» (Band Abteilung Seite).\nUrteilsnr.: z.B. «2C_123/2020».\nStichwort: z.B. «Aufwandbesteuerung Art. 14 DBG».\nGesetzesartikel: Suche nach «Art. 14 DBG».",
+      "Tipps & Fallen": "Leitentscheide (BGE) ab 1954 – die wichtigste Quelle.\nAlle Urteile ab 2000 (inkl. nicht-publizierte).\nRegeste immer lesen – enthält Leitsatz.",
+      "Format der Treffer": "HTML + PDF",
+      "Maschinenlesbar?": "✓ Ja"
+    },
+    {
+      "Plattform / Typ": "BVGer-Datenbank",
+      "Kantone": "CH",
+      "URL-Muster": "bvger.ch/de/rechtsprechung",
+      "Suchfeld / Einstieg": "Suche nach Urteilsnr. oder Stichwort",
+      "Suchsyntax / Beispiel": "Urteilsnr.: z.B. «A-1234/2020».\nStichwort: z.B. «Verrechnungssteuer».\nRechtsgebiet: Filterbar (Steuerrecht, Sozialversicherung etc.).",
+      "Tipps & Fallen": "Nachfolger der Rekurskommissionen (ab 2007).\nFür dBSt-Verfahren, Verrechnungssteuer, Zoll.\nVor 2007 → VPB via BAR.",
+      "Format der Treffer": "HTML + PDF",
+      "Maschinenlesbar?": "✓ Ja"
+    },
+    {
+      "Plattform / Typ": "ESTV Kreisschreiben",
+      "Kantone": "CH",
+      "URL-Muster": "estv.admin.ch/de/kreisschreiben-direkten-bundessteuer",
+      "Suchfeld / Einstieg": "Seite direkt aufrufen → nach Nummer oder Thema scrollen",
+      "Suchsyntax / Beispiel": "KS sind nummeriert: z.B. KS Nr. 5a (Umstrukturierungen).\nDirektlink: Titel anklicken → PDF.\nKein Suchfeld – Seite durchscrollen oder Ctrl+F.",
+      "Tipps & Fallen": "KS sind bindend für Veranlagungsbehörden.\nImmer prüfen ob aktualisierte Version (z.B. 5a statt 5).\nErgänzend: SSK-KS auf tax-admin.ch.",
+      "Format der Treffer": "PDF",
+      "Maschinenlesbar?": "✓ Ja (PDF-Text)"
+    },
+    {
+      "Plattform / Typ": "SEM-Weisungen",
+      "Kantone": "CH",
+      "URL-Muster": "sem.admin.ch/.../weisungen-kreisschreiben.html",
+      "Suchfeld / Einstieg": "Seite aufrufen → Navigation nach Rechtsgebiet (AIG, AsylG, BüG, FZA)",
+      "Suchsyntax / Beispiel": "Gegliedert nach Gesetz → Kapitel → Abschnitt.\nEinzelne Kapitel als PDF herunterladbar.\nKein Suchfeld – Navigation über Inhaltsverzeichnis.",
+      "Tipps & Fallen": "Umfassendste Bundesverwaltungspraxis.\nWeisungen werden laufend aktualisiert.\nÄltere Versionen nicht online archiviert.",
+      "Format der Treffer": "PDF (kapitelweise)",
+      "Maschinenlesbar?": "✓ Ja"
+    },
+    {
+      "Plattform / Typ": "LexWork SPA (18 Kt.)",
+      "Kantone": "AG AI AR BE BL BS FR GL GR LU NW OW SG SH SO TG VS ZG",
+      "URL-Muster": "[kanton].ch → Erlasssammlung (LexWork)",
+      "Suchfeld / Einstieg": "Navigation: Systematische Sammlung → SR-Nummer\nSuche: Suchfeld (falls vorhanden) → Erlasstitel",
+      "Suchsyntax / Beispiel": "SR-Nummer im URL-Pfad: /app/de/texts_of_law/[SR-Nr.]\nBeispiel SG: sglex.ch/app/de/texts_of_law/831.1\nArtikel-Direktlinks NICHT möglich (JavaScript-SPA).",
+      "Tipps & Fallen": "Erlass-Link via SR-Nr. stabil.\nArtikel-Link nur via Text Fragments (unzuverlässig).\nPDF-Download über Menü im Erlass.",
+      "Format der Treffer": "HTML (SPA)\nPDF (Download)",
+      "Maschinenlesbar?": "Bedingt (SPA braucht Browser)"
+    },
+    {
+      "Plattform / Typ": "Kantonale Entscheiddatenbanken",
+      "Kantone": "Diverse",
+      "URL-Muster": "Variiert je Kanton",
+      "Suchfeld / Einstieg": "Volltextsuche oder Blättern nach Datum/Rubrik",
+      "Suchsyntax / Beispiel": "Typische Suchfelder: Stichwort, Gesetzesartikel, Entscheidnr., Datum.\nBeispiel ZH VwG: vgrzh.djiktzh.ch → Suchmaske.\nBeispiel LU LGVE: gerichte.lu.ch → nach Abteilung/Jahr.\nBeispiel SG: publikationen.sg.ch → KI-Suche (semantisch).",
+      "Tipps & Fallen": "Abdeckung variiert stark (siehe «Ab»-Spalte).\nSG hat KI-gestützte semantische Suche (DeepJudge).\nBL seit Aug. 2024 auf Swisslex.\nAR und SZ als JavaScript-SPAs.",
+      "Format der Treffer": "HTML oder PDF\nje nach Kanton",
+      "Maschinenlesbar?": "Meist ✓\nSPAs: nur im Browser"
+    },
+    {
+      "Plattform / Typ": "Kantonale Steuerbücher",
+      "Kantone": "BE BL LU SG SH SO SZ TG ZG ZH",
+      "URL-Muster": "Variiert",
+      "Suchfeld / Einstieg": "Direkt aufrufen → Navigation nach Artikel/Thema",
+      "Suchsyntax / Beispiel": "Typisch: Gliederung nach Gesetzesartikel (z.B. § 1, § 2...).\nBeispiel ZH: zh.ch/.../steuerbuch → Thema wählen.\nBeispiel LU: steuerbuch.lu.ch → Volltextsuche.\nBeispiel TG: steuerpraxis.tg.ch → Systematisch nach StG.",
+      "Tipps & Fallen": "Format variiert: ZH und LU = HTML mit Suche.\nBE (TaxInfo) = umfassendstes Portal (11 Themengebiete).\nSO und TG haben eigene Subdomains.\nKleinere Kt. haben nur Merkblätter.",
+      "Format der Treffer": "HTML (meist)\nPDF (Merkblätter)",
+      "Maschinenlesbar?": "✓ Ja (HTML)\n✓ Ja (PDF)"
+    },
+    {
+      "Plattform / Typ": "Kantonale Parlamentsportale",
+      "Kantone": "Diverse",
+      "URL-Muster": "Variiert",
+      "Suchfeld / Einstieg": "Geschäftssuche oder Navigation nach Session/Datum",
+      "Suchsyntax / Beispiel": "SG: ratsinfo.sg.ch → Suche nach Geschäftstitel oder Datum.\nZH: kantonsrat.zh.ch/geschaefte → Stichwort/Nr.\nBS: grosserrat.bs.ch → Parlamentarische Recherche.\nBE: gr.be.ch → Sessionen → Online-Tagblatt.\nTG: grgeko.tg.ch → Geschäfte ab 1996.",
+      "Tipps & Fallen": "Botschaften oft als PDF im Geschäft verlinkt.\nWortprotokolle: ZH ab 1995, BE ab 2022 (Online-Tagblatt).\nSG: Regierungs- UND Parlamentsgeschäfte auf gleicher Plattform.",
+      "Format der Treffer": "HTML + PDF",
+      "Maschinenlesbar?": "Meist ✓"
+    },
+    {
+      "Plattform / Typ": "entscheidsuche.ch (Aggregator)",
+      "Kantone": "Alle",
+      "URL-Muster": "entscheidsuche.ch",
+      "Suchfeld / Einstieg": "Volltextsuche auf Startseite",
+      "Suchsyntax / Beispiel": "Stichwort: z.B. «Art. 14 DBG Aufwandbesteuerung».\nFilter: Kanton, Gericht, Zeitraum.\nTreffer verlinken auf Originalquelle.",
+      "Tipps & Fallen": "NICHT amtliche Quelle – nur als Einstiegspunkt.\nDeckt nicht alle Kantone/Zeiträume ab.\nImmer Originalquelle verifizieren und zitieren.",
+      "Format der Treffer": "HTML",
+      "Maschinenlesbar?": "✓ Ja"
+    }
+  ],
+  "workflow_claude": [
+    [
+      "Workflow: Entstehungsgeschichte eines Gesetzesartikels (OK-Kommentar)",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Anleitung für Claude zur systematischen Recherche der Materialien für die Sektion «Entstehungsgeschichte» eines Onlinekommentar-Artikels.",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Schritt",
+      "Aktion",
+      "Vorgehen / Suchbeispiel",
+      "Quelle(n)",
+      "Ergebnis notieren"
+    ],
+    [
+      null,
+      "══ WORKFLOW A: Bundesgesetz (z.B. DBG, StHG, MWSTG) ══",
+      null,
+      null,
+      null
+    ],
+    [
+      "1",
+      "Geltende Fassung identifizieren",
+      "fedlex.admin.ch → SR-Nummer (z.B. SR 642.11 für DBG) → Artikel aufrufen.\nPrüfen: Steht «Fassung gemäss…» beim Artikel? → Hinweis auf Revision.",
+      "fedlex (SR)",
+      "Geltender Wortlaut + allfällige Revisionsdaten"
+    ],
+    [
+      "2",
+      "Ursprüngliche Botschaft finden",
+      "Variante A: fedlex → Erlass → «Änderungen» → Erste Fassung → BBl-Fundstelle.\nVariante B: Curia Vista → Geschäftsnr. suchen (z.B. «18.034» für DBG-Revision).\nVariante C: BAR → Volltextsuche «Botschaft [Gesetzesname]».\nBeispiel DBG: Ursprüngliche Botschaft BBl 1983 III 1 (vor Curia-Vista-Abdeckung → BAR nutzen).",
+      "fedlex (Änderungsnachweis)\nCuria Vista\nBAR (vor 1999)",
+      "BBl-Fundstelle der Botschaft + Seitenzahl zum konkreten Artikel"
+    ],
+    [
+      "3",
+      "Botschaftstext zum Artikel lesen",
+      "BBl-Fundstelle aufrufen (fedlex oder BAR) → Erläuterungen zum konkreten Artikel suchen.\nTypisch: Botschaft hat Abschnitt «Erläuterungen zu den einzelnen Bestimmungen» → Art. X.\nCtrl+F nach «Art. [Nr.]» oder «Artikel [Nr.]».",
+      "fedlex/BAR → BBl-PDF",
+      "Wörtliches Zitat der Erläuterung + BBl-Seitenzahl"
+    ],
+    [
+      "4",
+      "Parlamentarische Beratung recherchieren",
+      "Curia Vista → Geschäftsnr. → Chronologie anzeigen → Alle Beratungsdaten sehen.\nFür jeden Rat (NR + SR): Amtliches Bulletin → Datum → Debatte zum Artikel lesen.\nPrüfen: Gab es Änderungsanträge, Minderheitsanträge, Abstimmungen zum Artikel?",
+      "Curia Vista → Amtl. Bulletin\nBAR (vor 1995)",
+      "Haltung BR, Kommission, Minderheit. Allfällige Abweichungen vom Entwurf."
+    ],
+    [
+      "5",
+      "Spätere Revisionen chronologisch aufarbeiten",
+      "fedlex → Erlass → «Änderungen»-Tab → Alle Revisionen auflisten.\nFür jede Revision, die den Artikel betrifft:\n  (a) BBl-Fundstelle der Revisions-Botschaft → Erläuterungen lesen.\n  (b) Curia Vista → Geschäftsnr. → Parlamentsdebatte prüfen.\n  (c) AS-Fundstelle → Inkrafttreten notieren.",
+      "fedlex (Änderungsnachweis)\nCuria Vista + Amtl. Bulletin\nfedlex (AS)",
+      "Pro Revision: Datum, BBl, Geschäftsnr., Kern der Änderung, Inkrafttreten"
+    ],
+    [
+      "6",
+      "Verwaltungspraxis Bund prüfen",
+      "ESTV-Kreisschreiben: Seite aufrufen → Ctrl+F nach Artikelnummer.\nSSK-Kreisschreiben: tax-admin.ch → prüfen.\nPrüfen: Gibt es ein KS, das den Artikel erläutert?",
+      "ESTV-KS\nSSK-KS",
+      "KS-Nummer + Titel + Datum + relevante Passage"
+    ],
+    [
+      "7",
+      "Bundesgerichtliche Rechtsprechung",
+      "bger.ch → Leitentscheide → Suche nach «Art. [Nr.] DBG» oder Stichwort.\nPrüfen: BGE mit Grundsatzcharakter? Praxisänderungen?\nErgänzend: BVGer (ab 2007) und entscheidsuche.ch.",
+      "BGE-Datenbank\nBVGer\nentscheidsuche.ch",
+      "BGE-Nummer, Regeste, Kernsatz zur Auslegung"
+    ],
+    [
+      null,
+      "══ WORKFLOW B: Kantonales Recht (z.B. StG ZH, StG SG) ══",
+      null,
+      null,
+      null
+    ],
+    [
+      "1",
+      "Kantonale Norm + Bundesrechtliche Grundlage",
+      "Kantonale Erlasssammlung aufrufen (siehe Haupttabelle, Spalte «Rechtsprechung»).\nPrüfen: Welchen StHG-Artikel setzt die kantonale Norm um?\nParallelstelle im DBG identifizieren.",
+      "Kantonale Erlasssammlung\nfedlex (StHG)",
+      "Kantonaler Gesetzeswortlaut + StHG-Parallelstelle"
+    ],
+    [
+      "2",
+      "Kantonale Botschaft finden",
+      "Kantonales Parlamentsportal (siehe Haupttabelle Kat. 1) → Geschäftssuche.\nSuche nach Gesetzestitel oder Geschäftsnr.\nPrüfen: Gibt es Erläuterungen zum konkreten Artikel?\nBeispiel SG: ratsinfo.sg.ch → Titel eingeben → Botschaft als PDF im Geschäft.",
+      "Kant. Parlamentsportal\n(Kat. 1 Haupttabelle)",
+      "Fundstelle der kantonalen Botschaft"
+    ],
+    [
+      "3",
+      "Kantonale Parlamentsdebatte",
+      "Kantonales Parlamentsportal (Kat. 2) → Protokolle zur relevanten Session.\nPrüfen: Änderungsanträge? Abstimmungen?",
+      "Kant. Parlamentsportal\n(Kat. 2 Haupttabelle)",
+      "Protokollfundstelle + allfällige Abweichungen"
+    ],
+    [
+      "4",
+      "Kantonale Rechtsprechung",
+      "Kantonale Entscheiddatenbank (Kat. 3) → Suche nach Gesetzesartikel.\nDepots-Rechtsprechung (Kat. 4) → Steuerrekursgericht, VRK etc.\nErgänzend: entscheidsuche.ch.",
+      "Kat. 3 + 4 Haupttabelle\nentscheidsuche.ch",
+      "Leitentscheide + Praxisänderungen"
+    ],
+    [
+      "5",
+      "Kantonale Verwaltungspraxis",
+      "Steuerbuch / Steuerpraxis (Kat. 5 bzw. VP-Blatt) → Artikel aufrufen.\nPrüfen: Gibt es Praxisfestlegungen, Kreisschreiben, Weisungen?",
+      "Kat. 5 Haupttabelle\nVP-Blatt",
+      "Steuerbuch-Fundstelle + Kernaussage"
+    ],
+    [
+      null,
+      "══ QUALITÄTSKONTROLLE ══",
+      null,
+      null,
+      null
+    ],
+    [
+      "Q1",
+      "Vollständigkeit prüfen",
+      "Checkliste: Botschaft ✓ | Parlamentsdebatte ✓ | Revisionen ✓ | BGE ✓ | KS ✓ | Kant. Praxis ✓\nFalls Lücke: Ist die Quelle online verfügbar? (→ «Ab»-Spalte prüfen)",
+      "Alle",
+      "Fehlende Materialien markieren"
+    ],
+    [
+      "Q2",
+      "Zitate verifizieren",
+      "Jede BBl-/AS-/BGE-Fundstelle nochmals aufrufen und Wortlaut prüfen.\nOK-Zitierformat: Guillemets, Halbgeviertstrich, «N.» nicht «Rz.».",
+      "Alle",
+      "Zitate korrekt"
+    ],
+    [
+      "Q3",
+      "Chronologie prüfen",
+      "Alle Daten in chronologischer Reihenfolge? Keine Revision vergessen?\nInkrafttreten-Daten konsistent?",
+      "fedlex (Änderungsnachweis)",
+      "Timeline stimmt"
+    ]
+  ],
+  "historical_sources": {
+    "kv_metadata": {
+      "short_title": "Kantonsverfassung Basel-Stadt",
+      "sr_number": "SG 111.100",
+      "adoption_date": "2005-10-23",
+      "adoption_method": "Volksabstimmung",
+      "in_force": "2006-07-13",
+      "revision_type": "Totalrevision",
+      "predecessor": "Verfassung des Kantons Basel-Stadt vom 2. Dezember 1889"
+    },
+    "verfassungsrat": {
+      "body": "Verfassungsrat des Kantons Basel-Stadt",
+      "period": "2003-01 (Wahl/Konstituierung) – 2005-08 (Schlussabstimmung)",
+      "key_publications": [
+        {
+          "title": "Bericht des Verfassungsrates des Kantons Basel-Stadt zur neuen Kantonsverfassung",
+          "date": "2005",
+          "note": "Hauptmaterialie mit Kommentierung sämtlicher Bestimmungen – die zentrale Quelle für die Entstehungsgeschichte. Im Staatsarchiv BS und Bibliotheken erhältlich."
+        },
+        {
+          "title": "Abstimmungserläuterungen (Abstimmungsbüchlein) zur Volksabstimmung vom 23. Oktober 2005",
+          "note": "Knappe Erläuterungen des Regierungsrats/Verfassungsrats für die Stimmberechtigten."
+        },
+        {
+          "title": "Protokolle des Verfassungsrats und seiner Sachkommissionen",
+          "note": "Plenarprotokolle 2003–2005, Sachkommissionsberichte. Im Staatsarchiv BS archiviert; teilweise online."
+        },
+        {
+          "title": "Ratschlag des Regierungsrats betreffend Inkraftsetzung der neuen Kantonsverfassung",
+          "note": "Begleitratschlag mit Inkraftsetzungsdatum 13. Juli 2006."
+        }
+      ]
+    },
+    "archives": [
+      {
+        "name": "Staatsarchiv Basel-Stadt",
+        "url": "https://www.staatsarchiv.bs.ch",
+        "note": "Bestand Verfassungsrat 2003–2005 (Akten, Plenar- und Kommissionsprotokolle, Vernehmlassungen). Online-Findmittel: Recherche → \"Verfassungsrat\"."
+      },
+      {
+        "name": "Kantonsblatt Basel-Stadt",
+        "url": "https://www.kantonsblatt.bs.ch",
+        "note": "Modernes amtliches Publikationsorgan. Historische Jahrgänge (vor 2018) via Staatsarchiv BS."
+      },
+      {
+        "name": "Systematische Gesetzessammlung BS",
+        "url": "https://www.gesetzessammlung.bs.ch/",
+        "note": "Geltende Fassung der KV (SG 111.100) inkl. Änderungschronologie seit 2006."
+      },
+      {
+        "name": "Grosser Rat – Parlamentarische Recherche",
+        "url": "https://grosserrat.bs.ch/parlament/parlamentarische-recherche",
+        "note": "Ratschläge ab 1984 → enthält den Inkraftsetzungs-Ratschlag sowie nachfolgende KV-Teilrevisionen."
+      }
+    ],
+    "caveats": [
+      "Wortprotokolle des Grossen Rats erst ab 2004 online (vorher Beschlussprotokolle). Verfassungsrats-Plenarprotokolle 2003–2005 sind separat (Verfassungsrat ≠ Grosser Rat) und über Staatsarchiv BS zugänglich.",
+      "Für KV-Teilrevisionen seit 2006 Ratschläge des RR + Berichte der Grossratskommissionen via grosserrat.bs.ch (Geschäftsdatenbank)."
+    ]
+  }
+}

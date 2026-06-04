@@ -162,8 +162,147 @@ def format_commentary_refs(
 # --- Preparatory materials (Botschaften, parliamentary data) ---
 
 PREPARATORY_MATERIALS_ROOT = Path("scripts/preparatory_materials")
+CANTONAL_MATERIALS_ROOT = Path("scripts/cantonal_materials")
 
 _prep_materials_cache: dict[str, dict] = {}
+_cantonal_sources_cache: dict[str, dict | None] = {}
+
+
+def is_cantonal_kv(law: str) -> bool:
+    """True if the law key denotes a cantonal constitution (e.g., 'sg-kv')."""
+    return law.lower().endswith("-kv") and len(law) == 5
+
+
+def load_cantonal_sources(law: str) -> dict | None:
+    """Load the cantonal source catalog for a cantonal KV, or None.
+
+    Looks up ``scripts/cantonal_materials/{xx}.json`` where ``xx`` is the
+    canton code derived from a law key like ``sg-kv``.
+    """
+    if law in _cantonal_sources_cache:
+        return _cantonal_sources_cache[law]
+    if not is_cantonal_kv(law):
+        _cantonal_sources_cache[law] = None
+        return None
+    canton = law.lower().split("-")[0]
+    path = CANTONAL_MATERIALS_ROOT / f"{canton}.json"
+    if not path.exists():
+        _cantonal_sources_cache[law] = None
+        return None
+    _cantonal_sources_cache[law] = json.loads(path.read_text())
+    return _cantonal_sources_cache[law]
+
+
+def format_cantonal_sources(law: str) -> str:
+    """Format the cantonal source catalog for prompt injection.
+
+    Unlike federal Materialien, cantonal KVs do not (yet) have per-article
+    digests. This block is therefore identical for every article of a given
+    canton: it points the agent at the official source landscape
+    (Verfassungsrat-Bericht, Staatsarchiv, Amtsblatt, kantonale
+    Rechtsprechungs-Plattformen) so doctrinal analysis can be grounded
+    without fabricating specific page references.
+    """
+    data = load_cantonal_sources(law)
+    if not data:
+        return ""
+
+    blocks: list[str] = []
+    blocks.append("## Kantonale Quellen (Source Catalog)")
+    blocks.append("")
+
+    meta = data.get("historical_sources", {}).get("kv_metadata") or {}
+    if meta:
+        blocks.append("### KV-Metadaten")
+        if meta.get("short_title"):
+            blocks.append(f"- **Erlass:** {meta['short_title']} ({meta.get('sr_number', '')})")
+        if meta.get("adoption_date"):
+            blocks.append(
+                f"- **Annahme:** {meta['adoption_date']} "
+                f"({meta.get('adoption_method', '')})"
+            )
+        if meta.get("in_force"):
+            blocks.append(f"- **In Kraft:** {meta['in_force']}")
+        if meta.get("revision_type"):
+            blocks.append(f"- **Revisionstyp:** {meta['revision_type']}")
+        if meta.get("predecessor"):
+            blocks.append(f"- **Vorgängererlass:** {meta['predecessor']}")
+        blocks.append("")
+
+    hist = data.get("historical_sources", {})
+    # BS/SG record an elected "verfassungsrat" (field: body); cantons whose KV
+    # was drafted by a parliamentary commission instead — e.g. BL — record a
+    # "verfassungserarbeitung" (field: organ). Render either.
+    vr = hist.get("verfassungsrat")
+    vr_heading = "Verfassungsrat (Entstehungsgeschichte)"
+    if not vr:
+        vr = hist.get("verfassungserarbeitung")
+        vr_heading = "Verfassungserarbeitung (Entstehungsgeschichte)"
+    vr = vr or {}
+    if vr:
+        blocks.append(f"### {vr_heading}")
+        gremium = vr.get("body") or vr.get("organ")
+        if gremium:
+            blocks.append(f"**Gremium:** {gremium}")
+        if vr.get("period"):
+            blocks.append(f"**Wirkungszeit:** {vr['period']}")
+        pubs = vr.get("key_publications") or []
+        if pubs:
+            blocks.append("**Schlüsselpublikationen:**")
+            for p in pubs:
+                line = f"- *{p['title']}*"
+                if p.get("date"):
+                    line += f" ({p['date']})"
+                if p.get("note"):
+                    line += f" — {p['note']}"
+                blocks.append(line)
+        blocks.append("")
+
+    archives = data.get("historical_sources", {}).get("archives") or []
+    if archives:
+        blocks.append("### Archive & amtliche Publikationsorgane")
+        for a in archives:
+            line = f"- **{a['name']}** ({a.get('url', '')})"
+            if a.get("note"):
+                line += f" — {a['note']}"
+            blocks.append(line)
+        blocks.append("")
+
+    cats = data.get("kategorien") or {}
+    if cats:
+        blocks.append("### Kantonale Plattformen (laufende Rechtsetzung & Rechtsprechung)")
+        for _, group in cats.items():
+            for _, src in (group.get("sources") or {}).items():
+                if not (src.get("link") or src.get("bemerkung")):
+                    continue
+                line = "- "
+                if src.get("link"):
+                    line += f"{src['link']}"
+                if src.get("bemerkung"):
+                    line += f" — {src['bemerkung']}"
+                if src.get("ab"):
+                    line += f" (ab {src['ab']})"
+                blocks.append(line)
+        blocks.append("")
+
+    caveats = data.get("historical_sources", {}).get("caveats") or []
+    if caveats:
+        blocks.append("### Hinweise zur Quellenlage")
+        for c in caveats:
+            blocks.append(f"- {c}")
+        blocks.append("")
+
+    blocks.append(
+        "**Anti-Fabrikations-Regel (kantonal):** Diese Quellen sind in dieser "
+        "Pipeline NICHT digestiert. Nenne den *Bericht des Verfassungsrats* "
+        "(bzw. der Verfassungskommission) und vergleichbare Materialien beim "
+        "Namen, ohne erfundene Seiten- oder "
+        "Randziffern. Konkrete Zitate nur, wenn sie über opencaselaw "
+        "(`get_decision`, `search_decisions`, `get_law`) oder eine andere "
+        "verifizierbare Quelle abrufbar sind."
+    )
+
+    return "\n".join(blocks)
 
 
 def _load_json_articles(path: Path) -> dict:
@@ -305,8 +444,14 @@ def format_preparatory_materials(
 
     Loads Botschaft, Erläuterungsbericht, and parliamentary debate data
     (AB Ständerat + AB Nationalrat) and formats them as a unified block.
-    Returns empty string if no data available for this article.
+    For cantonal constitutions (``xx-kv``), dispatches to
+    :func:`format_cantonal_sources` instead, which returns a static source
+    catalog (Verfassungsrat-Bericht, Staatsarchiv, kantonale Plattformen).
+    Returns empty string if no data available.
     """
+    if is_cantonal_kv(law):
+        return format_cantonal_sources(law)
+
     all_mat = load_all_materialien(law)
     key = f"{article_number}{suffix}"
     article_mat = all_mat.get(key)

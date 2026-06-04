@@ -8,12 +8,16 @@ from unittest.mock import patch
 import pytest
 
 from agents.references import (
+    _cantonal_sources_cache,
     _commentary_refs_cache,
     _prep_materials_cache,
     format_article_text,
+    format_cantonal_sources,
     format_commentary_refs,
     format_preparatory_materials,
+    is_cantonal_kv,
     load_article_texts,
+    load_cantonal_sources,
     load_commentary_refs,
     load_preparatory_materials,
 )
@@ -360,3 +364,172 @@ def test_format_preparatory_materials_multiple_sources(tmp_path):
         assert "BBl 2020 1234" in result
         assert "Original intent" in result
         assert "Amendment intent" in result
+
+
+# --- Cantonal sources tests -------------------------------------------------
+
+
+def test_is_cantonal_kv_recognises_canton_keys():
+    assert is_cantonal_kv("sg-kv") is True
+    assert is_cantonal_kv("BS-KV") is True
+    assert is_cantonal_kv("zh-kv") is True
+
+
+def test_is_cantonal_kv_rejects_non_kv_keys():
+    assert is_cantonal_kv("BV") is False
+    assert is_cantonal_kv("OR") is False
+    assert is_cantonal_kv("foo-kv") is False  # length guard
+    assert is_cantonal_kv("") is False
+
+
+def _make_cantonal_dir(tmp_path):
+    d = tmp_path / "cantonal_materials"
+    d.mkdir()
+    return d
+
+
+def test_load_cantonal_sources_returns_none_for_federal(tmp_path):
+    _cantonal_sources_cache.clear()
+    with patch("agents.references.CANTONAL_MATERIALS_ROOT", _make_cantonal_dir(tmp_path)):
+        assert load_cantonal_sources("BV") is None
+
+
+def test_load_cantonal_sources_missing_file(tmp_path):
+    _cantonal_sources_cache.clear()
+    with patch("agents.references.CANTONAL_MATERIALS_ROOT", _make_cantonal_dir(tmp_path)):
+        assert load_cantonal_sources("zz-kv") is None
+
+
+def test_load_cantonal_sources_reads_canton_json(tmp_path):
+    _cantonal_sources_cache.clear()
+    d = _make_cantonal_dir(tmp_path)
+    payload = {"canton": "ZH", "name": "Zürich", "kategorien": {}}
+    (d / "zh.json").write_text(json.dumps(payload))
+    with patch("agents.references.CANTONAL_MATERIALS_ROOT", d):
+        data = load_cantonal_sources("zh-kv")
+        assert data is not None
+        assert data["canton"] == "ZH"
+
+
+def test_format_cantonal_sources_renders_metadata_and_caveats(tmp_path):
+    _cantonal_sources_cache.clear()
+    d = _make_cantonal_dir(tmp_path)
+    payload = {
+        "canton": "ZH",
+        "name": "Zürich",
+        "historical_sources": {
+            "kv_metadata": {
+                "short_title": "KV ZH",
+                "sr_number": "LS 101",
+                "adoption_date": "2005-02-27",
+                "in_force": "2006-01-01",
+                "revision_type": "Totalrevision",
+                "predecessor": "KV ZH 1869",
+            },
+            "verfassungsrat": {
+                "body": "Verfassungsrat ZH",
+                "period": "1999-2003",
+                "key_publications": [
+                    {"title": "Bericht des Verfassungsrats", "note": "Hauptmaterialie"},
+                ],
+            },
+            "archives": [
+                {
+                    "name": "Staatsarchiv ZH",
+                    "url": "https://staatsarchiv.zh.ch",
+                    "note": "Bestand.",
+                },
+            ],
+            "caveats": ["Materialien teilweise nur vor Ort einsehbar."],
+        },
+        "kategorien": {
+            "rs": {
+                "label": "Rechtsprechung",
+                "sources": {
+                    "rs": {"link": "https://example.zh", "bemerkung": "DB", "ab": "2010"},
+                },
+            },
+        },
+    }
+    (d / "zh.json").write_text(json.dumps(payload))
+    with patch("agents.references.CANTONAL_MATERIALS_ROOT", d):
+        block = format_cantonal_sources("zh-kv")
+    assert "KV-Metadaten" in block
+    assert "Verfassungsrat ZH" in block
+    assert "Staatsarchiv ZH" in block
+    assert "https://example.zh" in block
+    assert "Materialien teilweise nur vor Ort einsehbar." in block
+    assert "Anti-Fabrikations-Regel" in block
+
+
+def test_format_cantonal_sources_renders_verfassungserarbeitung_variant(tmp_path):
+    """BL-style catalogs use 'verfassungserarbeitung'+'organ' instead of
+    'verfassungsrat'+'body'; the drafting history must still render."""
+    _cantonal_sources_cache.clear()
+    d = _make_cantonal_dir(tmp_path)
+    payload = {
+        "canton": "BL",
+        "name": "Basel-Landschaft",
+        "historical_sources": {
+            "verfassungserarbeitung": {
+                "organ": "Verfassungskommission des Landrats",
+                "period": "1976-1984",
+                "key_publications": [
+                    {
+                        "title": "Bericht und Antrag der Verfassungskommission",
+                        "note": "Hauptmaterialie",
+                    },
+                ],
+            },
+        },
+    }
+    (d / "bl.json").write_text(json.dumps(payload))
+    with patch("agents.references.CANTONAL_MATERIALS_ROOT", d):
+        block = format_cantonal_sources("bl-kv")
+    assert "Verfassungserarbeitung" in block
+    assert "Verfassungskommission des Landrats" in block
+    assert "Bericht und Antrag der Verfassungskommission" in block
+
+
+def test_format_preparatory_materials_dispatches_for_cantonal(tmp_path):
+    """For cantonal KVs, dispatcher must return the source-catalog block."""
+    _cantonal_sources_cache.clear()
+    d = _make_cantonal_dir(tmp_path)
+    (d / "zh.json").write_text(json.dumps({
+        "canton": "ZH",
+        "historical_sources": {"kv_metadata": {"short_title": "KV ZH"}},
+    }))
+    with patch("agents.references.CANTONAL_MATERIALS_ROOT", d):
+        # Article-agnostic: same block for any article
+        a = format_preparatory_materials("zh-kv", 1, "")
+        b = format_preparatory_materials("zh-kv", 99, "a")
+        assert a == b
+        assert "Kantonale Quellen" in a
+
+
+def test_format_cantonal_sources_returns_empty_when_missing(tmp_path):
+    _cantonal_sources_cache.clear()
+    with patch("agents.references.CANTONAL_MATERIALS_ROOT", _make_cantonal_dir(tmp_path)):
+        assert format_cantonal_sources("zz-kv") == ""
+        assert format_cantonal_sources("BV") == ""
+
+
+def test_real_sg_bs_bl_catalogs_load_and_format():
+    """Smoke test: the actually-shipped SG/BS/BL catalogs format without error."""
+    _cantonal_sources_cache.clear()
+    sg = load_cantonal_sources("sg-kv")
+    bs = load_cantonal_sources("bs-kv")
+    bl = load_cantonal_sources("bl-kv")
+    assert sg is not None and sg["canton"] == "SG"
+    assert bs is not None and bs["canton"] == "BS"
+    assert bl is not None and bl["canton"] == "BL"
+    sg_block = format_cantonal_sources("sg-kv")
+    bs_block = format_cantonal_sources("bs-kv")
+    bl_block = format_cantonal_sources("bl-kv")
+    assert "Verfassungsrat des Kantons St. Gallen" in sg_block
+    assert "Verfassungsrat des Kantons Basel-Stadt" in bs_block
+    # BL's KV was drafted by a Verfassungskommission, not an elected Verfassungsrat
+    assert "Verfassungserarbeitung" in bl_block
+    assert "Verfassungskommission des Landrats" in bl_block
+    assert "ratsinfo.sg.ch" in sg_block
+    assert "grosserrat.bs.ch" in bs_block
