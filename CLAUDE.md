@@ -206,13 +206,16 @@ See `docs/superpowers/specs/2026-04-11-world-class-improvements-backlog.md` for
 the full prioritized backlog (~70 items across 11 categories).
 
 **Priority items:**
-1. Regenerate BV Grundrechte (Art. 7-36) with Materialien — the validated
-   approach produces world-class Entstehungsgeschichte with named speakers,
-   BBl pages, and real quotes
-2. Fix suffix article statute-text bug (34 BV articles affected)
-3. Expand Materialien to other laws (each needs its own BJ archive source)
-4. Cross-reference click-through on the site (→ Art. 8 BV should be a link)
-5. BGE auto-linking to opencaselaw.ch
+1. Fix suffix article statute-text bug (34 BV articles affected)
+2. Expand Materialien to other laws (each needs its own BJ archive source);
+   first diagnose the preparatory-materials digest, which produces empty
+   output and blocks 600+ BBl citation checks
+3. Cross-reference click-through on the site (→ Art. 8 BV should be a link)
+4. BGE auto-linking to opencaselaw.ch
+
+(Done: BV Grundrechte Art. 7-36 regenerated with Materialien — the validated
+approach produces Entstehungsgeschichte with named speakers, BBl pages, and
+real quotes.)
 
 **Write-skip rate:** ~20% on BV articles (caught by safeguard, retried
 automatically). Root cause: Sonnet sometimes exits the agent loop without
