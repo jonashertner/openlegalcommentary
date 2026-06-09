@@ -57,8 +57,10 @@ const confidenceLabels: Record<string, string> = {
   }
   .ruled-item {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: baseline;
+    gap: 2px var(--space-2);
     padding: 12px 0;
     border-bottom: 1px solid var(--color-rule-light);
     text-decoration: none;
@@ -72,6 +74,8 @@ const confidenceLabels: Record<string, string> = {
   .ruled-item-title {
     font-family: var(--font-body);
     font-weight: 600;
+    min-width: 0;
+    flex: 1 1 auto;
   }
   .ruled-item-meta {
     font-family: var(--font-ui);

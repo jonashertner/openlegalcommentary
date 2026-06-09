@@ -262,6 +262,11 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   :global(.mobile-nav) .search-trigger kbd { display: none; }
   :global(.mobile-nav) .header-lang-switcher { display: none; }
 
+  /* Enlarge touch targets when the header is in compact/mobile mode */
+  :global(.mobile-nav) .header-actions { gap: var(--space-1); }
+  :global(.mobile-nav) .search-trigger { min-height: 44px; }
+  :global(.mobile-nav) .theme-toggle { min-height: 44px; min-width: 44px; }
+
   :global(.mobile-nav) .nav-lang-item {
     display: block;
     padding: var(--space-3) var(--space-3) var(--space-2);

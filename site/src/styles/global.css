@@ -119,10 +119,12 @@ h1, h2, h3, h4, h5, h6 {
 .left-col {
   border-right: 1px solid var(--color-rule-light);
   padding: var(--space-4) var(--space-3) var(--space-4) 0;
+  min-width: 0;
 }
 
 .right-col {
   padding: var(--space-4) 0 var(--space-4) var(--space-4);
+  min-width: 0;
 }
 
 .content-column {
@@ -135,6 +137,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   line-height: 1.85;
   max-width: var(--content-width);
+  overflow-wrap: break-word;
 }
 
 [data-theme='dark'] .prose { color: #C8C8C8; }
