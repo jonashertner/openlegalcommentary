@@ -46,3 +46,7 @@ data/botschaften/
 # Local Word/PDF exports (drafted ad hoc, not part of the project record)
 *.docx
 *.pdf
+
+# Rights-protected commentary digests are served from the private
+# openlegalcommentary-context repository (bin/olc-link), never tracked here.
+scripts/commentary_refs

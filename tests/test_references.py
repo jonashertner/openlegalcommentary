@@ -2,15 +2,18 @@
 from __future__ import annotations
 
 import json
+import warnings
 from pathlib import Path
 from unittest.mock import patch
 
 import pytest
 
 from agents.references import (
+    COMMENTARY_SOURCES,
     _cantonal_sources_cache,
     _commentary_refs_cache,
     _prep_materials_cache,
+    commentary_refs_filename,
     format_article_text,
     format_cantonal_sources,
     format_commentary_refs,
@@ -119,7 +122,7 @@ def _make_refs_dir(tmp_path, law, source, data):
     """Helper to write a commentary refs JSON file."""
     refs_dir = tmp_path / "commentary_refs"
     refs_dir.mkdir(exist_ok=True)
-    path = refs_dir / f"{law.lower()}_{source}.json"
+    path = refs_dir / commentary_refs_filename(law, source)
     path.write_text(json.dumps({law.upper(): data}))
     return refs_dir
 
@@ -533,3 +536,56 @@ def test_real_sg_bs_bl_catalogs_load_and_format():
     assert "Verfassungskommission des Landrats" in bl_block
     assert "ratsinfo.sg.ch" in sg_block
     assert "grosserrat.bs.ch" in bs_block
+
+
+# --- Regression guards for the 2026-03-22 filename divergence ---
+#
+# Commit 485abae9 renamed the data file and the loader's source tuple in the
+# same commit, without them agreeing. load_commentary_refs() returned {} for
+# five months and nothing failed, because {} is also the correct answer for a
+# law that genuinely has no reference data. These tests separate the two cases.
+
+
+@pytest.mark.parametrize("source", COMMENTARY_SOURCES)
+def test_loader_reads_every_name_the_filename_helper_produces(tmp_path, source):
+    """The naming helper and the loader must not drift apart."""
+    refs_dir = _make_refs_dir(tmp_path, "bv", source, {"8": {"authors": ["Waldmann"]}})
+    result = load_commentary_refs(refs_dir, "BV")
+    assert "8" in result, (
+        f"loader did not read {commentary_refs_filename('bv', source)}"
+    )
+    assert source in result["8"]
+
+
+def test_loader_warns_when_data_sits_under_a_name_it_does_not_read(tmp_path):
+    """The exact March 2026 failure: data present, loader blind to it."""
+    refs_dir = tmp_path / "commentary_refs"
+    refs_dir.mkdir()
+    (refs_dir / "bv_refs.json").write_text(
+        json.dumps({"BV": {"8": {"authors": ["Waldmann"]}}})
+    )
+
+    with pytest.warns(RuntimeWarning, match="bv_refs.json"):
+        result = load_commentary_refs(refs_dir, "BV")
+
+    assert result == {}
+
+
+def test_loader_is_silent_when_the_law_genuinely_has_no_refs(tmp_path):
+    """An empty result is legitimate for an uncovered law and must not warn."""
+    refs_dir = _make_refs_dir(tmp_path, "bv", "primary", {"8": {"authors": ["W"]}})
+
+    with warnings.catch_warnings():
+        warnings.simplefilter("error")
+        assert load_commentary_refs(refs_dir, "ZGB") == {}
+
+
+def test_doctrine_prompt_block_is_non_empty_when_refs_are_present(tmp_path):
+    """End of the chain: refs on disk must reach the prompt as real text."""
+    refs_dir = _make_refs_dir(
+        tmp_path, "bv", "primary",
+        {"8": {"authors": ["Waldmann"], "edition": "BSK BV, 1. Aufl. 2015"}},
+    )
+    block = format_commentary_refs(refs_dir, "BV", 8, "")
+    assert block, "commentary refs on disk produced an empty prompt block"
+    assert "Waldmann" in block

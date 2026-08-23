@@ -227,3 +227,29 @@ def test_verify_bsk_no_author_in_citation():
     citation = _verify_bsk_citation(_bsk_citation(""), refs, "8")
     assert citation.verified is None
     assert "No author" in citation.verification_note
+
+
+def test_auditor_and_generator_read_the_same_reference_files(tmp_path, monkeypatch):
+    """The citation auditor must not keep its own path convention.
+
+    Until 2026-08-23 it read {law}_refs.json while the generator read
+    {law}_primary.json, so it verified citations against data the generator had
+    never been given.
+    """
+    import json as _json
+
+    from agents.references import _commentary_refs_cache, commentary_refs_filename
+    from scripts import verify_citations
+
+    _commentary_refs_cache.clear()
+    refs_dir = tmp_path / "commentary_refs"
+    refs_dir.mkdir()
+    (refs_dir / commentary_refs_filename("bv", "primary")).write_text(
+        _json.dumps({"BV": {"8": {"authors": ["Waldmann"]}}})
+    )
+    monkeypatch.setattr(verify_citations, "COMMENTARY_REFS_ROOT", refs_dir)
+
+    result = verify_citations._load_commentary_refs("BV")
+    assert "8" in result
+    assert result["8"]["primary"]["authors"] == ["Waldmann"]
+    _commentary_refs_cache.clear()

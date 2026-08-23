@@ -22,6 +22,7 @@ from pathlib import Path
 
 import yaml
 
+from agents.references import load_commentary_refs
 from scripts.citation_patterns import (
     Citation,
     CitationType,
@@ -35,27 +36,16 @@ PREP_MATERIALS_ROOT = Path("scripts/preparatory_materials")
 
 
 def _load_commentary_refs(law: str) -> dict:
-    """Load BSK commentary reference data for a law.
+    """Load commentary reference data for a law.
 
-    On-disk layout: ``scripts/commentary_refs/{law}_refs.json``, keyed by the
-    law abbreviation (e.g. ``"BV"``), under which article numbers map to
-    reference entries with ``authors``, ``positions``, ``randziffern_map``,
-    etc. Each article's data is wrapped under the key ``"primary"`` so that
-    downstream BSK verification can read it as ``refs[art_key]["primary"]``.
-
-    CR (Commentaire Romand) reference data does not yet exist on disk. When
-    it does, extend this loader to merge those entries under the ``"cr"``
-    key on the same article records.
+    Delegates to ``agents.references.load_commentary_refs`` so that the auditor
+    and the generator always read the same files. They did not always: between
+    2026-03-22 and 2026-08-23 this module read ``{law}_refs.json`` directly
+    while the generator looked for ``{law}_primary.json``, so the auditor
+    verified citations against reference data the generator had never seen.
+    Do not reintroduce a separate path here.
     """
-    merged: dict = {}
-    path = COMMENTARY_REFS_ROOT / f"{law.lower()}_refs.json"
-    if not path.exists():
-        return merged
-    data = json.loads(path.read_text())
-    articles = data.get(law.upper(), {})
-    for art_key, art_data in articles.items():
-        merged[art_key] = {"primary": art_data}
-    return merged
+    return load_commentary_refs(COMMENTARY_REFS_ROOT, law)
 
 
 def _load_prep_materials(law: str) -> dict:

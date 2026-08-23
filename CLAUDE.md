@@ -10,7 +10,7 @@ Open-access, AI-generated, daily-updated legal commentary on Swiss federal law.
 - `site/` — Astro static site (4 languages: DE/FR/IT/EN, URL-based routing under `/{lang}/`)
 - `export/` — HuggingFace dataset export
 - `scripts/` — Utility scripts (article fetcher, validation, citation audit, Botschaft digestion)
-- `tests/` — Test suite (214 tests)
+- `tests/` — Test suite (221 tests)
 - `docs/superpowers/specs/` — Design specs, roadmap, experiment results
 - `docs/superpowers/plans/` — Implementation plans
 
@@ -123,6 +123,37 @@ des Landrats (`organ`) — `format_cantonal_sources()` renders either. Source
 data extracted from `Quellen.xlsx` (Apr 2026) plus hand-curated
 `historical_sources` block covering the KV-Totalrevisionen.
 
+## Commentary reference data
+
+Commercial commentary digests (BSK, CR) are **not** in this repository. They are
+rights-protected derivatives and are served from the private
+`jonashertner/openlegalcommentary-context` repository, which symlinks
+`scripts/commentary_refs/` into this checkout via its `bin/olc-link`.
+
+The pipeline runs without them. `load_commentary_refs()` returns an empty dict
+when no file is present and the doctrine prompt simply omits the block, which is
+the expected path for an external contributor.
+
+On-disk names are `{law}_primary.json` and `{law}_cr.json`, defined once as
+`agents.references.COMMENTARY_SOURCES` and `commentary_refs_filename()`.
+
+**Regression, 2026-03-22 to 2026-08-23.** Commit `485abae9` renamed the data
+file to `bv_refs.json` and, in the same commit, changed the loader's source
+tuple from `("bsk", "cr")` to `("primary", "cr")`. The two did not agree, so
+`load_commentary_refs()` returned `{}` for BV and every doctrine layer generated
+in that window, including the Art. 7-36 Grundrechte regeneration, was produced
+with no commentary block. Any BSK citation in that content came from model
+training knowledge. Meanwhile `verify_citations.py` read the file directly and
+audited against data the generator never saw.
+
+Fixed 2026-08-23: the filename convention is defined once, the auditor delegates
+to the shared loader, and `load_commentary_refs()` now emits a `RuntimeWarning`
+when the refs directory holds files for a law under a name it does not read.
+Guarded by `tests/test_references.py` and `tests/test_verify_citations.py`.
+
+Outstanding: the BV doctrine generated in that window has not been re-audited or
+regenerated.
+
 ## Citation audit tool
 
 `scripts/citation_patterns.py` + `scripts/verify_citations.py`
@@ -130,8 +161,10 @@ data extracted from `Quellen.xlsx` (Apr 2026) plus hand-curated
 Extracts citations from doctrine layers (BGE, BGer, BSK, CR, BBl, St. Galler,
 literature) and verifies them against reference data:
 - BGE/BGer: trusted (verifiable via opencaselaw)
-- BSK: verified against `scripts/commentary_refs/{law}_refs.json` — checks
-  both top-level `authors` AND `positions[].author` / `controversies[]` (loose match)
+- BSK: verified against the commentary reference data, loaded through
+  `agents.references.load_commentary_refs` so the auditor and the generator
+  always read the same files. Checks both top-level `authors` AND
+  `positions[].author` / `controversies[]` (loose match)
 - BBl: verified against preparatory materials data (when available)
 - Literature: unchecked (extraction defined but not wired into verification)
 
@@ -171,7 +204,7 @@ a reusable command).
 ## Commands
 
 ### Core pipeline
-- `uv run pytest` — run tests (214 tests)
+- `uv run pytest` — run tests (221 tests)
 - `uv run ruff check .` — lint
 - `uv run python -m agents.pipeline daily` — run daily update pipeline
 - `uv run python -m agents.pipeline single BV 8 --layers doctrine` — generate one layer for one article
@@ -219,7 +252,10 @@ real quotes.)
 
 **Write-skip rate:** ~20% on BV articles (caught by safeguard, retried
 automatically). Root cause: Sonnet sometimes exits the agent loop without
-calling `write_layer_content`, especially when BSK reference data is injected.
+calling `write_layer_content`. The earlier note that this worsened "when BSK
+reference data is injected" cannot hold for BV between 2026-03-22 and
+2026-08-23, because no reference data reached the prompt in that window (see
+*Commentary reference data* below). The correlation needs re-testing.
 The delete-on-retry + write-skip safeguard handles this but costs extra
 retries. Further prompt optimization may reduce the rate.
 

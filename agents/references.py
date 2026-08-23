@@ -6,6 +6,7 @@ the law agent and evaluator.
 from __future__ import annotations
 
 import json
+import warnings
 from pathlib import Path
 
 ARTICLE_TEXTS_PATH = Path("scripts/article_texts.json")
@@ -46,6 +47,18 @@ def format_article_text(law: str, article_number: int, suffix: str) -> str:
 
 # --- Commentary references (Doctrinal Sources) ---
 
+# The on-disk naming convention, defined once. scripts/verify_citations.py
+# imports these rather than repeating the pattern: in March 2026 a rename
+# changed this tuple and the data file separately, they stopped agreeing, and
+# the doctrine prompt silently lost its commentary block for five months.
+COMMENTARY_SOURCES = ("primary", "cr")
+
+
+def commentary_refs_filename(law: str, source: str) -> str:
+    """Return the expected filename for a law's commentary reference data."""
+    return f"{law.lower()}_{source}.json"
+
+
 _commentary_refs_cache: dict[tuple, dict] = {}
 
 
@@ -62,8 +75,8 @@ def load_commentary_refs(refs_root: Path, law: str) -> dict:
         return _commentary_refs_cache[cache_key]
 
     merged: dict = {}
-    for source in ("primary", "cr"):
-        path = refs_root / f"{law.lower()}_{source}.json"
+    for source in COMMENTARY_SOURCES:
+        path = refs_root / commentary_refs_filename(law, source)
         if not path.exists():
             continue
         data = json.loads(path.read_text())
@@ -73,8 +86,37 @@ def load_commentary_refs(refs_root: Path, law: str) -> dict:
                 merged[art_key] = {}
             merged[art_key][source] = art_data
 
+    if not merged:
+        _warn_unrecognised_refs(refs_root, law)
+
     _commentary_refs_cache[cache_key] = merged
     return merged
+
+
+def _warn_unrecognised_refs(refs_root: Path, law: str) -> None:
+    """Warn when refs_root holds files for `law` that the loader ignores.
+
+    An empty result is legitimate for a law with no reference data. It is not
+    legitimate when files for that law are sitting right there under a name the
+    loader does not read. That is the failure mode this guard exists for.
+    """
+    if not refs_root.is_dir():
+        return
+    prefix = f"{law.lower()}_"
+    expected = {commentary_refs_filename(law, s) for s in COMMENTARY_SOURCES}
+    stray = sorted(
+        p.name for p in refs_root.glob("*.json")
+        if p.name.startswith(prefix) and p.name not in expected
+    )
+    if stray:
+        warnings.warn(
+            f"commentary reference data for {law.upper()} was not loaded: "
+            f"{refs_root} contains {', '.join(stray)}, but the loader reads "
+            f"{' or '.join(sorted(expected))}. The doctrine prompt will have "
+            f"no commentary block for {law.upper()}.",
+            RuntimeWarning,
+            stacklevel=3,
+        )
 
 
 def _format_single_source(source_label: str, data: dict) -> str:
