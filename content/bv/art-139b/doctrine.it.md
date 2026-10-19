@@ -87,7 +87,7 @@
 
 ### 6. Note pratiche
 
-**N. 24** La procedura di cui all'art. 139b Cost. è stata applicata più volte a livello federale sin dal 1987. Un esempio rilevante è la votazione del 9 febbraio 2003 sull'iniziativa popolare «contro l'abuso del diritto d'asilo» e sul controprogetto diretto dell'Assemblea federale, nella quale il controprogetto ha prevalso tramite la domanda decisiva. Nonostante questa rilevanza pratica, l'art. 139b Cost. non ha sino ad oggi dato luogo a giurisprudenza del Tribunale federale direttamente inerente al suo contenuto normativo, poiché i risultati delle votazioni federali sono raramente impugnati con successo davanti al Tribunale federale (cfr. art. 80 LDP; **DTF 137 II 177** consid. 2 segg.).
+**N. 24** La procedura del doppio sì con domanda risolutiva è stata applicata più volte a livello federale. Nonostante questa rilevanza pratica, l'art. 139b Cost. non ha sino ad oggi dato luogo a giurisprudenza del Tribunale federale direttamente inerente al suo contenuto normativo, poiché i risultati delle votazioni federali sono raramente impugnati con successo davanti al Tribunale federale (cfr. art. 80 LDP; **DTF 137 II 177** consid. 2 segg.).
 
 **N. 25** Per la prassi delle autorità federali, la redazione della scheda di voto è di importanza centrale. Le tre domande previste dall'art. 76 cpv. 1 LDP devono essere formulate in modo chiaro e comprensibile, e il loro nesso deve essere intellegibile per gli aventi diritto di voto. La regola della somma di cui al cpv. 3 richiede in particolare una spiegazione accessibile (→ art. 34 cpv. 2 Cost.).
 

@@ -87,7 +87,7 @@
 
 ### 6. Practical Notes
 
-**N. 24** The procedure under Art. 139b FC has been applied at the federal level on several occasions since 1987. A prominent example is the vote of 9 February 2003 on the popular initiative «against abuse of asylum» and the direct counter-proposal of the Federal Assembly, in which the counter-proposal prevailed through the deciding question. Despite this practical relevance, Art. 139b FC has to date given rise to no Federal Supreme Court case law directly addressing its normative content, since federal voting results are rarely successfully challenged before the Federal Supreme Court (cf. Art. 80 APR; **BGE 137 II 177** consid. 2 ff.).
+**N. 24** The double-yes procedure with a deciding question has been applied at the federal level on several occasions. Despite this practical relevance, Art. 139b FC has to date given rise to no Federal Supreme Court case law directly addressing its normative content, since federal voting results are rarely successfully challenged before the Federal Supreme Court (cf. Art. 80 APR; **BGE 137 II 177** consid. 2 ff.).
 
 **N. 25** For the practice of the federal authorities, the design of the ballot paper is central. The three questions under Art. 76 para. 1 APR must be formulated clearly and comprehensibly, and their relationship must be traceable for voters. The sum rule in para. 3 in particular requires an accessible explanation (→ Art. 34 para. 2 FC).
 
