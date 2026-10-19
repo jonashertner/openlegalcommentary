@@ -154,6 +154,13 @@ Guarded by `tests/test_references.py` and `tests/test_verify_citations.py`.
 Outstanding: the BV doctrine generated in that window has not been re-audited or
 regenerated.
 
+**BSK removed from published content, 2026-10-19.** All Basler Kommentar
+citations were removed from `content/` (DE/FR/IT/EN), sentences that credited
+a BSK author with no other source were neutralised, and quotations whose only
+source was BSK were paraphrased. The doctrine prompt (`agents/prompts.py`)
+still permits BSK citations, so regenerating an article would bring them back
+unless the prompt is changed first.
+
 ## Citation audit tool
 
 `scripts/citation_patterns.py` + `scripts/verify_citations.py`
@@ -170,8 +177,9 @@ literature) and verifies them against reference data:
 
 Run: `uv run python -m scripts.verify_citations --law BV --summary`
 
-**Current BV state:** 76 flagged citations across 20 articles (down from 290
-at the start of the quality arc).
+**Current BV state:** 65 flagged citations, no BSK citations (2026-10-19; was
+76 flagged across 20 articles before the BSK removal, 290 at the start of the
+quality arc).
 
 ## Materialien pipeline (Botschaften + AB + Erläuterungsberichte)
 
