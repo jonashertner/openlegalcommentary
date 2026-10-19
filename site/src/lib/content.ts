@@ -234,18 +234,32 @@ export function isPlaceholder(content: string): boolean {
 
 const LAYERS = ['summary', 'doctrine', 'caselaw'] as const;
 
+const _commentaryCache = new Map<string, boolean>();
+
 function dirHasCommentary(artDir: string): boolean {
-  return LAYERS.some((layer) => !isPlaceholder(readFileIfExists(path.join(artDir, `${layer}.md`))));
+  let has = _commentaryCache.get(artDir);
+  if (has === undefined) {
+    has = LAYERS.some((layer) => !isPlaceholder(readFileIfExists(path.join(artDir, `${layer}.md`))));
+    _commentaryCache.set(artDir, has);
+  }
+  return has;
 }
+
+// Every article page asks for its whole law's article list (navigation,
+// stats), so per-file results are cached for the duration of the build.
+const _metaCache = new Map<string, ArticleMeta | null>();
 
 export function loadArticleMeta(law: string, dirName: string): ArticleMeta | null {
   const metaPath = path.join(CONTENT_ROOT, law.toLowerCase(), dirName, 'meta.yaml');
+  if (_metaCache.has(metaPath)) return _metaCache.get(metaPath)!;
+  let meta: ArticleMeta | null = null;
   try {
-    const raw = fs.readFileSync(metaPath, 'utf-8');
-    return yaml.load(raw) as ArticleMeta;
+    meta = yaml.load(fs.readFileSync(metaPath, 'utf-8')) as ArticleMeta;
   } catch {
-    return null;
+    meta = null;
   }
+  _metaCache.set(metaPath, meta);
+  return meta;
 }
 
 export function loadArticle(law: string, dirName: string, lang: string = 'de'): ArticleContent | null {
@@ -278,7 +292,17 @@ export function loadArticle(law: string, dirName: string, lang: string = 'de'): 
   };
 }
 
+const _dirsCache = new Map<string, string[]>();
+
 export function listArticleDirs(law: string): string[] {
+  const cached = _dirsCache.get(law.toLowerCase());
+  if (cached) return cached;
+  const dirs = _listArticleDirs(law);
+  _dirsCache.set(law.toLowerCase(), dirs);
+  return dirs;
+}
+
+function _listArticleDirs(law: string): string[] {
   const lawDir = path.join(CONTENT_ROOT, law.toLowerCase());
   try {
     const entries = fs.readdirSync(lawDir, { withFileTypes: true });
@@ -306,7 +330,17 @@ export interface ArticleListItem {
   hasCommentary: boolean;
 }
 
+const _articlesCache = new Map<string, ArticleListItem[]>();
+
 export function listArticles(law: string): ArticleListItem[] {
+  const cached = _articlesCache.get(law.toLowerCase());
+  if (cached) return cached;
+  const articles = _listArticles(law);
+  _articlesCache.set(law.toLowerCase(), articles);
+  return articles;
+}
+
+function _listArticles(law: string): ArticleListItem[] {
   const dirs = listArticleDirs(law);
   if (dirs.length > 0) {
     const articles: ArticleListItem[] = [];
@@ -444,7 +478,14 @@ export interface ConceptPage {
   slug: string;
 }
 
+let _conceptsCache: ConceptPage[] | null = null;
+
 export function listConcepts(): ConceptPage[] {
+  if (!_conceptsCache) _conceptsCache = _listConcepts();
+  return _conceptsCache;
+}
+
+function _listConcepts(): ConceptPage[] {
   const conceptsDir = path.join(CONTENT_ROOT, 'concepts');
   try {
     const entries = fs.readdirSync(conceptsDir, { withFileTypes: true });
@@ -503,7 +544,14 @@ export interface ContestedPage {
   slug: string;
 }
 
+let _contestedCache: ContestedPage[] | null = null;
+
 export function listContested(): ContestedPage[] {
+  if (!_contestedCache) _contestedCache = _listContested();
+  return _contestedCache;
+}
+
+function _listContested(): ContestedPage[] {
   const contestedDir = path.join(CONTENT_ROOT, 'contested');
   try {
     const entries = fs.readdirSync(contestedDir, { withFileTypes: true });
