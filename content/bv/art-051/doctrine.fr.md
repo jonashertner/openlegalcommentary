@@ -16,7 +16,7 @@
 
 ### 3. Éléments constitutifs
 
-**N. 5** **Constitution cantonale :** Cette notion englobe la constitution formelle comme ordre fondamental du canton. Belser/Massüger la définissent comme l'ensemble de normes juridiquement suprêmes qui organise le système politique, garantit les droits fondamentaux et fixe les tâches de l'État. La constitution cantonale doit se distinguer formellement des autres actes normatifs cantonaux.
+**N. 5** **Constitution cantonale :** Cette notion englobe la constitution formelle comme ordre fondamental du canton. Une partie de la doctrine la définit comme l'ensemble de normes juridiquement suprêmes qui organise le système politique, garantit les droits fondamentaux et fixe les tâches de l'État. La constitution cantonale doit se distinguer formellement des autres actes normatifs cantonaux.
 
 **N. 6** **Constitution démocratique :** L'exigence d'une constitution démocratique requiert selon le Conseil fédéral au minimum un parlement élu et le respect du principe de la séparation des pouvoirs. La doctrine dominante concrétise ceci par quatre éléments: élections périodiques, suffrage universel et égal, principe majoritaire et opposition garantie.
 
@@ -36,9 +36,9 @@
 
 ### 5. Questions controversées
 
-**N. 13** **Parlements bicaméraux :** La doctrine dominante considère les parlements cantonaux bicaméraux comme inadmissibles car ils contreviennent à l'idée d'égalité. Belser/Massüger soutiennent à l'inverse qu'un système bicaméral peut tout à fait être démocratique s'il existe des motifs objectifs comme la protection de minorités linguistiques. La pratique ne connaît pas de parlements cantonaux bicaméraux.
+**N. 13** **Parlements bicaméraux :** La doctrine dominante considère les parlements cantonaux bicaméraux comme inadmissibles car ils contreviennent à l'idée d'égalité. Une partie de la doctrine soutient à l'inverse qu'un système bicaméral peut tout à fait être démocratique s'il existe des motifs objectifs comme la protection de minorités linguistiques. La pratique ne connaît pas de parlements cantonaux bicaméraux.
 
-**N. 14** **Majorités qualifiées :** Un autre point de controverse concerne les exigences de majorité qualifiée. La doctrine dominante les rejette comme antidémocratiques. Belser/Massüger argumentent de manière plus différenciée: les majorités qualifiées devraient être admissibles si elles sont objectivement justifiées, par exemple pour protéger des minorités nationales. Le Tribunal fédéral n'a pas encore tranché cette question.
+**N. 14** **Majorités qualifiées :** Un autre point de controverse concerne les exigences de majorité qualifiée. La doctrine dominante les rejette comme antidémocratiques. Une partie de la doctrine argumente de manière plus différenciée: les majorités qualifiées devraient être admissibles si elles sont objectivement justifiées, par exemple pour protéger des minorités nationales. Le Tribunal fédéral n'a pas encore tranché cette question.
 
 **N. 15** **Systèmes électoraux majoritaires :** L'admissibilité de procédures électorales purement majoritaires pour les parlements cantonaux est controversée. Hangartner (Die Wahl kantonaler Parlamente nach dem Majorzsystem, ZBl 2005, 217) les considère comme contraires au droit fédéral. **ATF 145 I 259 consid. 5** a finalement laissé la question ouverte, mais a souligné les exigences strictes concernant la délimitation des circonscriptions électorales dans les systèmes majoritaires.
 

@@ -24,7 +24,7 @@
 
 ### Principes constitutionnels (al. 2)
 
-**N. 6** **Compensation appropriée du gain (let. a)**: Le terme « appropriée » laisse une marge d'appréciation au législateur. Selon Cardinaux, un taux de remplacement entre 60% et 80% paraît conforme à la Constitution. La LACI prévoit 70% respectivement 80% (avec enfants ou faible revenu). L'**ATF 129 V 105** a précisé que seule la compensation pour une activité salariée normale est due, non pour le suremploi.
+**N. 6** **Compensation appropriée du gain (let. a)**: Le terme « appropriée » laisse une marge d'appréciation au législateur. Selon une opinion doctrinale, un taux de remplacement entre 60% et 80% paraît conforme à la Constitution. La LACI prévoit 70% respectivement 80% (avec enfants ou faible revenu). L'**ATF 129 V 105** a précisé que seule la compensation pour une activité salariée normale est due, non pour le suremploi.
 
 **N. 7** **Prévention et lutte (let. a)** : L'assurance n'a pas seulement une fonction passive de remplacement, mais aussi une fonction active d'intégration. Cela légitime les mesures de marché du travail (MMT) selon l'art. 59ss LACI. La composante préventive est équivalente à la fonction d'indemnisation (Leu, Arbeitsmarktliche Massnahmen, p. 42).
 
@@ -54,7 +54,7 @@
 
 ## Points controversés
 
-**N. 15** **Niveau de la compensation appropriée du gain**: Cardinaux considère 60–80% comme conforme à la Constitution. Mahon plaidait pour au moins 70% comme limite inférieure (Journée 1996, p. 45). Gerhards voit dans l'échelonnement selon les obligations familiales une différenciation sociopolitiquement requise (Kommentar AVIG, vol. I, p. 234).
+**N. 15** **Niveau de la compensation appropriée du gain**: Une partie de la doctrine considère 60–80% comme conforme à la Constitution. Mahon plaidait pour au moins 70% comme limite inférieure (Journée 1996, p. 45). Gerhards voit dans l'échelonnement selon les obligations familiales une différenciation sociopolitiquement requise (Kommentar AVIG, vol. I, p. 234).
 
 **N. 16** **Portée de l'obligation d'assurance** : Les exceptions au système obligatoire sont controversées. Rubin critique la large exception pour les membres de conseils d'administration comme contraire au système (Commentaire, Art. 2 N. 15). Nussbaumer la justifie par l'absence de qualité de salarié (Arbeitslosenversicherung, N. 2156).
 

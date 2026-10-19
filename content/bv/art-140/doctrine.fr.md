@@ -26,7 +26,7 @@
 
 **Ch. 9** **Communautés supranationales (let. b)**: Le Conseil fédéral les définit comme des organisations dotées d'organes indépendants qui peuvent, par des décisions à la majorité, prendre des décisions directement contraignantes pour les particuliers et disposent de compétences matérielles relativement étendues. L'UE remplit incontestablement ces critères.
 
-**Ch. 10** Le classement de l'EEE est controversé: Epiney/Diezig ainsi que Hangartner/Kley affirment la supranationalité en raison du développement dynamique du droit et des compétences de l'Autorité de surveillance AELE. Häfelin/Haller/Keller, Tschannen et Biaggini la nient en revanche, car le droit EEE n'est pas directement applicable et la reprise de nouveaux actes juridiques nécessite l'approbation des parties contractantes.
+**Ch. 10** Le classement de l'EEE est controversé: une partie de la doctrine, dont Hangartner/Kley, affirme la supranationalité en raison du développement dynamique du droit et des compétences de l'Autorité de surveillance AELE. Häfelin/Haller/Keller, Tschannen et Biaggini la nient en revanche, car le droit EEE n'est pas directement applicable et la reprise de nouveaux actes juridiques nécessite l'approbation des parties contractantes.
 
 **Ch. 11** **Lois fédérales urgentes dépourvues de base constitutionnelle (let. c)** : Cette constellation rare ne concerne que les lois fédérales qui, cumulativement : (1) ont été déclarées urgentes par l'Assemblée fédérale (→ art. 165 Cst.), (2) n'ont pas de base constitutionnelle et (3) dont la durée de validité dépasse une année. Elles doivent être soumises au vote dans l'année qui suit leur adoption.
 

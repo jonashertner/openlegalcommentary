@@ -40,7 +40,7 @@
 
 **N. 14** **Portata della competenza federale:** Ehrenzeller (SG Komm. BV, Art. 64a N. 7) sostiene un'interpretazione ampia della competenza promozionale che comprende anche misure strutturali. Biaggini (Komm. BV, Art. 64a N. 5) propende per un'interpretazione più restrittiva che si limita alla promozione finanziaria e al coordinamento.
 
-**N. 15** **Delimitazione dalla formazione formale:** La dottrina è divisa sulla delimitazione tra formazione continua secondo l'art. 64a Cost. e formazione formale di recupero. Hänni vuole sussumere i corsi di studio delle scuole universitarie professionali parallelamente alla professione sotto l'art. 64a Cost., mentre la dottrina prevalente li attribuisce all'→ art. 63a Cost.
+**N. 15** **Delimitazione dalla formazione formale:** La dottrina è divisa sulla delimitazione tra formazione continua secondo l'art. 64a Cost. e formazione formale di recupero. Un'opinione dottrinale vuole sussumere i corsi di studio delle scuole universitarie professionali parallelamente alla professione sotto l'art. 64a Cost., mentre la dottrina prevalente li attribuisce all'→ art. 63a Cost.
 
 **N. 16** **Rapporto con le disposizioni di leggi speciali sulla formazione continua:** È controverso se l'art. 64a Cost. fondi una competenza trasversale globale o se le disposizioni di leggi speciali sulla formazione continua (ad es. nel diritto della formazione professionale, nel diritto dell'assicurazione contro la disoccupazione) mantengano la loro base costituzionale autonoma.
 

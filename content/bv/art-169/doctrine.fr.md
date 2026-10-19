@@ -28,7 +28,7 @@
 
 ### 5. Points controversés
 
-**N. 10** **Portée de la haute surveillance sur la justice**: Il est controversé de savoir jusqu'où la haute surveillance parlementaire peut intervenir dans l'administration judiciaire. Müller/Feller défendent une interprétation étroite qui ne couvre que l'activité purement administrative. Lienhard (St. Galler Kommentar, art. 169 N. 17) plaide pour une interprétation plus large qui inclut aussi la gestion concernant la durée des procédures et la gestion des arriérés, pour autant que l'indépendance judiciaire soit préservée.
+**N. 10** **Portée de la haute surveillance sur la justice**: Il est controversé de savoir jusqu'où la haute surveillance parlementaire peut intervenir dans l'administration judiciaire. Une partie de la doctrine défend une interprétation étroite qui ne couvre que l'activité purement administrative. Lienhard (St. Galler Kommentar, art. 169 N. 17) plaide pour une interprétation plus large qui inclut aussi la gestion concernant la durée des procédures et la gestion des arriérés, pour autant que l'indépendance judiciaire soit préservée.
 
 **N. 11** **Haute surveillance préventive** : Il est controversé de savoir si la haute surveillance est purement rétrospective ou peut aussi comprendre des éléments préventifs. La doctrine traditionnelle (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, 10e éd. 2020, N. 1684) souligne le caractère a posteriori. Des voix plus récentes (Sägesser, Regieren und Verwalten, 2019, 152 ; Biaggini, BV Kommentar, art. 169 N. 7) reconnaissent aussi des éléments prospectifs comme l'accompagnement de grands projets.
 

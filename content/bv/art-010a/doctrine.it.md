@@ -35,7 +35,7 @@
 
 ## Controversie
 
-**N. 10** **Portata delle eccezioni**: È controversa l'interpretazione delle categorie di eccezioni. Müller/Schefer (Grundrechte, 4. ed. 2008, pag. 287) propugnano un'interpretazione ampia per la protezione dei diritti fondamentali. Rhinow/Schefer/Uebersax (Verfassungsrecht, 3. ed. 2016, N 2164) sostengono una posizione più restrittiva con riferimento allo scopo dell'iniziativa popolare. BSK BV-Waldmann (2. ed. 2024, art. 10a N 15) sottolinea la necessità di una ponderazione degli interessi relativa al caso singolo.
+**N. 10** **Portata delle eccezioni**: È controversa l'interpretazione delle categorie di eccezioni. Müller/Schefer (Grundrechte, 4. ed. 2008, pag. 287) propugnano un'interpretazione ampia per la protezione dei diritti fondamentali. Rhinow/Schefer/Uebersax (Verfassungsrecht, 3. ed. 2016, N 2164) sostengono una posizione più restrittiva con riferimento allo scopo dell'iniziativa popolare. Una parte della dottrina sottolinea la necessità di una ponderazione degli interessi relativa al caso singolo.
 
 **N. 11** **Rapporto con la CEDU**: La compatibilità con l'art. 9 CEDU è controversa. SGK-Ehrenzeller (4. ed. 2023, art. 10a N 8) non vede alcuna violazione della Convenzione con riferimento a Corte EDU S.A.S./Francia. Si esprime più criticamente Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10. ed. 2020, N 456a), che richiamano l'attenzione sui diversi contesti sociali in Svizzera e Francia.
 

@@ -46,7 +46,7 @@
 
 ### 5. Controversie
 
-**N. 14** **Natura giuridica dell'art. 137 Cost.**: Il punto controverso centrale riguarda la natura giuridica della disposizione. Frick sostiene, richiamandosi ai dibattiti consiliari, la posizione che l'art. 137 sia puramente dichiarativo. Al contrario, Tschannen sottolinea che l'articolo sui partiti deve essere inteso normativamente, anche se il contenuto regolativo può essere modesto. Questa controversia ha conseguenze pratiche per la derivazione di diritti e doveri concreti dalla disposizione.
+**N. 14** **Natura giuridica dell'art. 137 Cost.**: Il punto controverso centrale riguarda la natura giuridica della disposizione. Una parte della dottrina sostiene, richiamandosi ai dibattiti consiliari, la posizione che l'art. 137 sia puramente dichiarativo. Al contrario, un'altra parte della dottrina sottolinea che l'articolo sui partiti deve essere inteso normativamente, anche se il contenuto regolativo può essere modesto. Questa controversia ha conseguenze pratiche per la derivazione di diritti e doveri concreti dalla disposizione.
 
 **N. 15** **Finanziamento dei partiti**: È aspramente controversa la questione della trasparenza e del sostegno statale. Caroni (Geld und Politik, 2009, 234 seg.) sostiene obblighi di divulgazione completi secondo il modello internazionale. Voci conservative mettono in guardia da una statalizzazione dei partiti e sottolineano il loro carattere di diritto privato (Schmid, Politische Parteien, 1981, 156 seg.). Il legislatore si è finora mostrato prudente.
 

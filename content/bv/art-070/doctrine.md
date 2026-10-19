@@ -34,7 +34,7 @@
 
 #### Förderung der Verständigung (Abs. 3)
 
-**N. 12** Die Verständigungspflicht richtet sich an Bund und Kantone gleichermassen. Sie ist programmatischer Natur und begründet keine subjektiven Rechte. Ehrenzeller vertritt die Auffassung, dass aus dieser Bestimmung keine materielle Regelungskompetenz des Bundes für den Fremdsprachenunterricht abgeleitet werden kann.
+**N. 12** Die Verständigungspflicht richtet sich an Bund und Kantone gleichermassen. Sie ist programmatischer Natur und begründet keine subjektiven Rechte. In der Lehre wird die Auffassung vertreten, dass aus dieser Bestimmung keine materielle Regelungskompetenz des Bundes für den Fremdsprachenunterricht abgeleitet werden kann.
 
 #### Unterstützungspflichten des Bundes (Abs. 4 und 5)
 

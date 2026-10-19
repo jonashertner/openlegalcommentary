@@ -35,7 +35,7 @@
 
 ## Controverses
 
-**N. 10** **Portée des exceptions** : L'interprétation des catégories d'exceptions est controversée. Müller/Schefer (Grundrechte, 4e éd. 2008, p. 287) plaident pour une interprétation large pour protéger les droits fondamentaux. Rhinow/Schefer/Uebersax (Verfassungsrecht, 3e éd. 2016, N 2164) adoptent une position plus restrictive en référence au but de l'initiative populaire. Le BSK BV-Waldmann (2e éd. 2024, art. 10a N 15) souligne la nécessité d'une pesée des intérêts au cas par cas.
+**N. 10** **Portée des exceptions** : L'interprétation des catégories d'exceptions est controversée. Müller/Schefer (Grundrechte, 4e éd. 2008, p. 287) plaident pour une interprétation large pour protéger les droits fondamentaux. Rhinow/Schefer/Uebersax (Verfassungsrecht, 3e éd. 2016, N 2164) adoptent une position plus restrictive en référence au but de l'initiative populaire. Une partie de la doctrine souligne la nécessité d'une pesée des intérêts au cas par cas.
 
 **N. 11** **Rapport avec la CEDH** : La compatibilité avec l'art. 9 CEDH est controversée. Le SGK-Ehrenzeller (4e éd. 2023, art. 10a N 8) ne voit aucune violation de la Convention en se référant à CourEDH S.A.S./France. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10e éd. 2020, N 456a) se montrent plus critiques en soulignant les contextes sociétaux différents en Suisse et en France.
 

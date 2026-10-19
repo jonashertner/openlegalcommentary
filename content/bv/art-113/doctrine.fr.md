@@ -44,7 +44,7 @@
 
 ### 5. Points controversés
 
-**N. 18** **Portée de l'obligation**: Il est controversé de savoir dans quelle mesure le législateur est habilité à prévoir des exceptions à l'obligation d'assurance. Tandis que Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 N. 30) plaident pour une interprétation restrictive, Cardinaux plaide pour une marge d'appréciation plus large du législateur. La jurisprudence du Tribunal fédéral tend vers l'interprétation extensive.
+**N. 18** **Portée de l'obligation**: Il est controversé de savoir dans quelle mesure le législateur est habilité à prévoir des exceptions à l'obligation d'assurance. Tandis que Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 N. 30) plaident pour une interprétation restrictive, une partie de la doctrine plaide pour une marge d'appréciation plus large du législateur. La jurisprudence du Tribunal fédéral tend vers l'interprétation extensive.
 
 **N. 19** **Obligation pour les indépendants** : La question de savoir pour quels groupes d'indépendants une obligation devrait être introduite est discutée de manière controversée. Stauffer (Berufliche Vorsorge, N. 158) est favorable à une obligation pour les travailleurs faussement indépendants, tandis qu'Helbling (Personalvorsorge und BVG, p. 112) met en garde contre une surréglementation.
 

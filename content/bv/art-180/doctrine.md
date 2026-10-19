@@ -43,7 +43,7 @@
 
 ### 5. Streitstände
 
-**N. 11** Umstritten ist die Reichweite der Informationspflicht im Bereich der Sicherheitspolitik. Während Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 180 N 12) eine weite Auslegung der Geheimhaltungsinteressen befürworten, plädieren Waldmann/Belser/Epiney für eine restriktive Handhabung im Lichte des Demokratieprinzips.
+**N. 11** Umstritten ist die Reichweite der Informationspflicht im Bereich der Sicherheitspolitik. Während Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 180 N 12) eine weite Auslegung der Geheimhaltungsinteressen befürworten, plädiert ein anderer Teil der Lehre für eine restriktive Handhabung im Lichte des Demokratieprinzips.
 
 **N. 12** Kontrovers diskutiert wird auch das Verhältnis zwischen der verfassungsrechtlichen Informationspflicht und dem Kollegialitätsprinzip (→ Art. 177 Abs. 1 BV). Müller/Schefer (Grundrechte in der Schweiz, 4. Aufl. 2008, S. 523) sehen einen Vorrang der Transparenz, während Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N 3166) für eine Einzelfallabwägung eintreten.
 

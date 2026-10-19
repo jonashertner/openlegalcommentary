@@ -4,7 +4,7 @@
 
 Art. 24 BV gewährt Schweizer Bürgern zwei zentrale Bewegungsrechte. Erstens das Recht auf Niederlassung (Wohnsitz) an jedem Ort der Schweiz. Zweitens das Recht, die Schweiz zu verlassen oder in sie einzureisen.
 
-Diese Grundrechte stehen nur Personen mit Schweizer Bürgerrecht zu. Ausländer sind davon ausgenommen, wie das Bundesgericht in **BGE 127 I 97** bestätigt und BSK BV-Rudin N. 16 festhält. Die Niederlassungsfreiheit umfasst den Schutz vor staatlicher Willkür beim Wohnsitzwechsel und das Recht auf freie Auswanderung.
+Diese Grundrechte stehen nur Personen mit Schweizer Bürgerrecht zu. Ausländer sind davon ausgenommen, wie das Bundesgericht in **BGE 127 I 97** bestätigt. Die Niederlassungsfreiheit umfasst den Schutz vor staatlicher Willkür beim Wohnsitzwechsel und das Recht auf freie Auswanderung.
 
 Das Bundesgericht prüft Einschränkungen der Niederlassungsfreiheit nach Art. 36 BV streng. In **BGE 147 I 103** etwa erklärte es polizeiliche Wegweisungen von Fahrenden für unverhältnismässig, weil diese ihre verfassungsrechtliche Bewegungsfreiheit verletzten. Zulässige Einschränkungen müssen gesetzlich vorgesehen, im öffentlichen Interesse und verhältnismässig sein.
 

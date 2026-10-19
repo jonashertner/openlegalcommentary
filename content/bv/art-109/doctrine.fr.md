@@ -43,7 +43,7 @@ L'importance pratique est restée faible; seules deux extensions de force obliga
 
 ### 5. Questions controversées
 
-**N. 14** **Portée de la compétence fédérale**: La portée de l'effet d'exclusion du droit fédéral est controversée. Tandis que Cardinaux part d'un évincemement complet des compétences cantonales dans l'ensemble du droit du bail, une partie de la doctrine défend une approche plus différenciée. Higi (ZK, Die Miete, 3e éd. 1994, Vorbem. N. 201) et Lachat (Das Mietrecht für die Praxis, N. 1.4.2) reconnaissent des marges de manœuvre pour le droit public cantonal, pour autant qu'il n'intervienne pas dans les rapports de droit privé.
+**N. 14** **Portée de la compétence fédérale**: La portée de l'effet d'exclusion du droit fédéral est controversée. Tandis qu'une opinion doctrinale part d'un évincemement complet des compétences cantonales dans l'ensemble du droit du bail, une partie de la doctrine défend une approche plus différenciée. Higi (ZK, Die Miete, 3e éd. 1994, Vorbem. N. 201) et Lachat (Das Mietrecht für die Praxis, N. 1.4.2) reconnaissent des marges de manœuvre pour le droit public cantonal, pour autant qu'il n'intervienne pas dans les rapports de droit privé.
 
 **N. 15** **Méthodes d'évaluation en cas d'abus de loyer**: Le rapport entre le critère du rendement et celui du loyer comparatif fait l'objet de discussions controversées. La doctrine dominante (SVIT, Kommentar, Art. 269a N. 7) privilégie un droit de choix des parties. Une opinion minoritaire (Rossinelli, in: Bohnet/Wessner, 16e Séminaire sur le droit du bail, 2010, 175 s) plaide pour une application cumulative des deux critères pour un contrôle complet des abus.
 

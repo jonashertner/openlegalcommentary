@@ -43,7 +43,7 @@
 
 ### 5. Controversies
 
-**No. 11** The scope of the duty to inform in the area of security policy is disputed. While Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4th ed. 2023, Art. 180 No. 12) favour a broad interpretation of secrecy interests, Waldmann/Belser/Epiney argue for restrictive application in light of the principle of democracy.
+**No. 11** The scope of the duty to inform in the area of security policy is disputed. While Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4th ed. 2023, Art. 180 No. 12) favour a broad interpretation of secrecy interests, other commentators argue for restrictive application in light of the principle of democracy.
 
 **No. 12** The relationship between the constitutional duty to inform and the principle of collegiality (→ Art. 177 para. 1 Cst.) is also controversially discussed. Müller/Schefer (Grundrechte in der Schweiz, 4th ed. 2008, p. 523) see a primacy of transparency, while Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3rd ed. 2016, No. 3166) advocate for case-by-case weighing.
 

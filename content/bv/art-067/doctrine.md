@@ -37,7 +37,7 @@
 
 ### 5. Streitstände
 
-**N. 12** **Reichweite der Bundeskompetenz**: In der Lehre ist umstritten, wie weit die Bundeskompetenz nach Art. 67 Abs. 2 BV reicht. Tschentscher vertritt die Auffassung, dem Bund komme eine Einschätzungsprärogative zu, wann und wie eine «Ergänzung» sinnvoll ist, wodurch die Bundeskompetenz der Sache nach eine uneingeschränkte parallele Kompetenz werde. Dieser Interpretation stimmen Aubert/Mahon (Petit commentaire, Art. 67 N. 8) und Gerber Jenni (SG-Komm. BV, Art. 67 N. 14) zu. Biaggini (Komm. BV, Art. 67 N. 3) ist anderer Meinung und betont die verfassungsrechtlichen Schranken der Bundeskompetenz stärker.
+**N. 12** **Reichweite der Bundeskompetenz**: In der Lehre ist umstritten, wie weit die Bundeskompetenz nach Art. 67 Abs. 2 BV reicht. Ein Teil der Lehre vertritt die Auffassung, dem Bund komme eine Einschätzungsprärogative zu, wann und wie eine «Ergänzung» sinnvoll ist, wodurch die Bundeskompetenz der Sache nach eine uneingeschränkte parallele Kompetenz werde. Dieser Interpretation stimmen Aubert/Mahon (Petit commentaire, Art. 67 N. 8) und Gerber Jenni (SG-Komm. BV, Art. 67 N. 14) zu. Biaggini (Komm. BV, Art. 67 N. 3) ist anderer Meinung und betont die verfassungsrechtlichen Schranken der Bundeskompetenz stärker.
 
 **N. 13** **Justiziabilität der Querschnittsklausel**: Uneinigkeit besteht darüber, inwieweit Art. 67 Abs. 1 BV justiziabel ist. Während die Rechtsprechung die Norm primär als Programmsatz behandelt, fordern Teile der Lehre eine stärkere gerichtliche Durchsetzbarkeit der Berücksichtigungspflicht, insbesondere bei schwerwiegenden Beeinträchtigungen von Kinderinteressen (Wyttenbach, in: Schweizerische Kinder- und Jugendpolitik, 2001, S. 45 ff.).
 

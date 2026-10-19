@@ -34,7 +34,7 @@
 
 ## V. Streitstände
 
-**N. 13** **Reichweite der Umsetzungspflicht**: Ehrenzeller/Schindler vertritt die Position, dass Art. 141a BV lediglich deklaratorischen Charakter hat und die bestehende Praxis bestätigt (SGK BV, Art. 141a N. 8). Demgegenüber sieht Waldmann in der Bestimmung eine verfassungsrechtliche Verankerung der Umsetzungspflicht mit konstitutivem Charakter.
+**N. 13** **Reichweite der Umsetzungspflicht**: Ehrenzeller/Schindler vertritt die Position, dass Art. 141a BV lediglich deklaratorischen Charakter hat und die bestehende Praxis bestätigt (SGK BV, Art. 141a N. 8). Demgegenüber sieht ein anderer Teil der Lehre in der Bestimmung eine verfassungsrechtliche Verankerung der Umsetzungspflicht mit konstitutivem Charakter.
 
 **N. 14** **Verhältnis zu Art. 190 BV**: Umstritten ist das Verhältnis zwischen Art. 141a BV und Art. 190 BV. Rhinow/Schefer argumentieren für eine harmonisierende Auslegung beider Bestimmungen (Schweizerisches Verfassungsrecht, § 14 N. 83). Biaggini hingegen betont die Eigenständigkeit von Art. 141a BV als spezifische Umsetzungsnorm (BV-Kommentar, 2. Aufl. 2017, Art. 141a N. 4).
 

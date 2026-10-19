@@ -34,7 +34,7 @@
 
 **N. 12** **Umfang der Schifffahrtskompetenz**: Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10. Aufl. 2020, N 1122) vertreten eine enge Auslegung, die nur die gewerbsmässige Schifffahrt erfasst. Ehrenzeller (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 87 N 14) plädiert für eine weitere Auslegung, die auch private Grossschifffahrt einschliesst. Die Praxis folgt der engeren Auffassung.
 
-**N. 13** **Abgrenzung Eisenbahn/Strassenbahn**: Waldmann will Strassenbahnen dem kantonalen Recht unterstellen, soweit sie überwiegend im Strassenraum verkehren. Die herrschende Lehre (Tschannen/Zimmerli/Müller, Verwaltungsrecht, 4. Aufl. 2014, § 63 N 12) und Praxis ordnen alle spurgeführten Fahrzeuge dem Eisenbahnrecht zu.
+**N. 13** **Abgrenzung Eisenbahn/Strassenbahn**: Eine Lehrmeinung will Strassenbahnen dem kantonalen Recht unterstellen, soweit sie überwiegend im Strassenraum verkehren. Die herrschende Lehre (Tschannen/Zimmerli/Müller, Verwaltungsrecht, 4. Aufl. 2014, § 63 N 12) und Praxis ordnen alle spurgeführten Fahrzeuge dem Eisenbahnrecht zu.
 
 **N. 14** **Kompetenz für Drohnen**: Die Zuordnung unbemannter Luftfahrzeuge ist umstritten. Während Dettling-Ott (Luftrecht, 2020, S. 45) für eine umfassende Bundeskompetenz eintritt, sehen Griffel/Rausch (Umweltrecht, 2. Aufl. 2021, N 856) Raum für ergänzende kantonale Regelungen bei lokalen Einsätzen. Das revidierte LFG von 2023 beansprucht umfassende Bundesregelung.
 

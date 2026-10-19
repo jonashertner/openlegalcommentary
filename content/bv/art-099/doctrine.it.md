@@ -20,25 +20,25 @@
 
 **N. 5** La competenza globale della Confederazione per le «questioni monetarie e valutarie» include secondo la dottrina dominante la regolamentazione di tutti gli aspetti dell'ordinamento monetario: unità valutaria, mezzi di pagamento, stabilità del valore della moneta e relazioni valutarie internazionali (Ehrenzeller/Nobs/Vallender, St. Galler Kommentar BV, Art. 99 N. 5–7).
 
-**N. 6** Il monopolio del denaro contante («a essa sola») è assoluto ed esclude categoricamente valute cantonali o private. Kaufmann/Utz sottolineano che questo monopolio comprende anche valute regionali e mezzi di pagamento privati, nella misura in cui svolgano funzioni monetarie. La delimitazione rispetto a semplici unità di calcolo o sistemi di buoni avviene secondo criteri funzionali (accettazione generale, funzione di conservazione del valore, funzione di mezzo di scambio).
+**N. 6** Il monopolio del denaro contante («a essa sola») è assoluto ed esclude categoricamente valute cantonali o private. In dottrina si sottolinea che questo monopolio comprende anche valute regionali e mezzi di pagamento privati, nella misura in cui svolgano funzioni monetarie. La delimitazione rispetto a semplici unità di calcolo o sistemi di buoni avviene secondo criteri funzionali (accettazione generale, funzione di conservazione del valore, funzione di mezzo di scambio).
 
 #### b) Indipendenza della Banca nazionale (cpv. 2)
 
-**N. 7** L'indipendenza della BNS garantita costituzionalmente comprende secondo la dottrina di Cukierman/Webb/Neyapti quattro dimensioni: indipendenza del personale, funzionale, istituzionale e finanziaria. Questa indipendenza è secondo studi empirici un presupposto essenziale per l'adempimento con successo del mandato di stabilità dei prezzi.
+**N. 7** L'indipendenza della BNS garantita costituzionalmente comprende secondo la dottrina quattro dimensioni: indipendenza del personale, funzionale, istituzionale e finanziaria. Questa indipendenza è secondo studi empirici un presupposto essenziale per l'adempimento con successo del mandato di stabilità dei prezzi.
 
-**N. 8** Il vincolo all'«interesse generale del Paese» si concretizza primariamente nell'incarico legale di stabilità dei prezzi (art. 5 cpv. 1 LBN), ma non esclude secondo Kaufmann/Utz la considerazione dell'evoluzione congiunturale. La BNS deve orientare la sua politica all'economia generale e non può perseguire unilateralmente interessi particolari.
+**N. 8** Il vincolo all'«interesse generale del Paese» si concretizza primariamente nell'incarico legale di stabilità dei prezzi (art. 5 cpv. 1 LBN), ma non esclude secondo un'opinione dottrinale la considerazione dell'evoluzione congiunturale. La BNS deve orientare la sua politica all'economia generale e non può perseguire unilateralmente interessi particolari.
 
 **N. 9** La «partecipazione e la vigilanza della Confederazione» si manifesta nella nomina della direzione della banca da parte del Consiglio federale (art. 42 LBN), nell'approvazione del regolamento di gestione e nell'obbligo di rendere conto al Consiglio federale e al Parlamento. Questa integrazione preserva la legittimazione democratica mantenendo contemporaneamente l'indipendenza operativa.
 
 #### c) Riserve valutarie (cpv. 3)
 
-**N. 10** L'obbligo di costituire «riserve valutarie sufficienti» è una prescrizione costituzionale senza quantificazione precisa. Secondo Kaufmann/Utz l'adeguatezza comprende sia l'ammontare sia la composizione delle riserve. La BNS dispone di un considerevole margine di apprezzamento nella determinazione del livello di riserve necessario.
+**N. 10** L'obbligo di costituire «riserve valutarie sufficienti» è una prescrizione costituzionale senza quantificazione precisa. Secondo un'opinione dottrinale l'adeguatezza comprende sia l'ammontare sia la composizione delle riserve. La BNS dispone di un considerevole margine di apprezzamento nella determinazione del livello di riserve necessario.
 
 **N. 11** La riserva aurea («una parte di tali riserve è detenuta in oro») è costituzionalmente vincolante, senza che sia fissata una quota minima. L'importanza storica dell'oro come ancora valutaria si riflette in questa prescrizione costituzionale simbolica, mentre la BNS determina l'ammontare concreto secondo considerazioni di politica valutaria.
 
 #### d) Ripartizione degli utili (cpv. 4)
 
-**N. 12** La regola dei due terzi per le quote cantonali sull'utile netto della BNS è una prescrizione costituzionale vincolante. Secondo Kaufmann/Utz la ripartizione avviene in base alla popolazione residente (art. 31 LBN). Il terzo restante va alla Confederazione, mentre la determinazione esatta dell'utile e il suo utilizzo sono regolati nella LBN.
+**N. 12** La regola dei due terzi per le quote cantonali sull'utile netto della BNS è una prescrizione costituzionale vincolante. Secondo la dottrina la ripartizione avviene in base alla popolazione residente (art. 31 LBN). Il terzo restante va alla Confederazione, mentre la determinazione esatta dell'utile e il suo utilizzo sono regolati nella LBN.
 
 ### 4. Conseguenze giuridiche
 
@@ -46,13 +46,13 @@
 
 **N. 14** L'indipendenza costituzionale della BNS giustifica secondo la dottrina di Ehrenzeller/Nobs/Vallender (St. Galler Kommentar BV, Art. 99 N. 22) una densità di controllo giudiziario limitata delle sue decisioni di politica monetaria. I tribunali possono censurare solo misure evidentemente illegali, ma non verificare l'opportunità di politica monetaria.
 
-**N. 15** La prescrizione della riserva aurea obbliga la BNS alla detenzione permanente di una riserva d'oro. Secondo Kaufmann/Utz una vendita completa delle riserve auree sarebbe incostituzionale. L'ammontare della quota aurea rientra tuttavia nel potere discrezionale vincolato della BNS.
+**N. 15** La prescrizione della riserva aurea obbliga la BNS alla detenzione permanente di una riserva d'oro. Secondo un'opinione dottrinale una vendita completa delle riserve auree sarebbe incostituzionale. L'ammontare della quota aurea rientra tuttavia nel potere discrezionale vincolato della BNS.
 
 **N. 16** Il diritto costituzionale dei Cantoni ai due terzi dell'utile netto è direttamente azionabile. La distribuzione dell'utile avviene annualmente in base all'utile distribuibile accertato secondo l'accordo sulla distribuzione dell'utile convenuto tra Confederazione e BNS.
 
 ### 5. Controversie
 
-**N. 17** È controversa la portata esatta dell'indipendenza della BNS in caso di crisi sistemiche. Kaufmann sostiene che la responsabilità comune di BNS e FINMA per la stabilità del sistema richiede una stretta cooperazione. Voci critiche nella dottrina (Nobel, Finanzmarktrecht, N. 847) vedono in ciò un potenziale pericolo per l'indipendenza di politica monetaria a causa di intreccamenti regolamentari.
+**N. 17** È controversa la portata esatta dell'indipendenza della BNS in caso di crisi sistemiche. Una parte della dottrina sostiene che la responsabilità comune di BNS e FINMA per la stabilità del sistema richiede una stretta cooperazione. Voci critiche nella dottrina (Nobel, Finanzmarktrecht, N. 847) vedono in ciò un potenziale pericolo per l'indipendenza di politica monetaria a causa di intreccamenti regolamentari.
 
 **N. 18** L'ammissibilità delle valute digitali di banca centrale (CBDC) sotto l'art. 99 Cost. è controversa in dottrina. Sostenitori come Vischer (Geld- und Währungsrecht, S. 234) vedono nelle CBDC un'evoluzione tecnologica del denaro contante coperta dal monopolio valutario. Scettici argomentano con Rhinow/Schefer/Uebersax (Verfassungsrecht, N. 2851) che le CBDC sollevano nuove questioni costituzionali riguardo alla protezione dei dati e ai tassi d'interesse negativi.
 

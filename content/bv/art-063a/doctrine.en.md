@@ -40,7 +40,7 @@
 
 ### Points of contention
 
-**N. 11** **Scope of higher education autonomy**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Gallen Commentary Cst, 4th ed. 2023, Art. 63a N. 15) emphasize the broad scope of protection, which encompasses self-administration in teaching, research and organization. Waldmann/Belser/Epiney see autonomy more narrowly and primarily limited to academic core areas. Case law follows a mediating line (**BGE 150 I 39**).
+**N. 11** **Scope of higher education autonomy**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Gallen Commentary Cst, 4th ed. 2023, Art. 63a N. 15) emphasize the broad scope of protection, which encompasses self-administration in teaching, research and organization. Other commentators see autonomy more narrowly and primarily limited to academic core areas. Case law follows a mediating line (**BGE 150 I 39**).
 
 **N. 12** **Private higher education institutions**: The scope of the equal treatment obligation is disputed. Müller/Schefer (Fundamental Rights in Switzerland, 4th ed. 2008, p. 456) advocate a comprehensive equal treatment claim also in financing. Häfelin/Haller/Keller/Thurnherr (Swiss Federal Constitutional Law, 10th ed. 2020, N. 1285) limit equal treatment to regulatory aspects, but not to subsidies.
 

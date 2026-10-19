@@ -34,7 +34,7 @@
 
 ### 5. Streitstände
 
-**N. 12** **Umstrittene Obergrenze für Transportpreise**: In der Lehre ist umstritten, ob Art. 81a Abs. 2 BV eine Obergrenze für Transportpreise statuiert. Uhlmann (SG Komm. BV, Art. 81a N. 34) vertritt die Position, dass die Bestimmung eine globale Obergrenze darstellt: Eine vollständige Kostendeckung durch Nutzerpreise wäre demnach unzulässig, da dies den Gemeinwohlcharakter des öffentlichen Verkehrs negieren würde. Kern widerspricht dieser Auffassung: Die Bestimmung stelle keine Obergrenze dar und schliesse eine vollständige Kostendeckung nicht aus.
+**N. 12** **Umstrittene Obergrenze für Transportpreise**: In der Lehre ist umstritten, ob Art. 81a Abs. 2 BV eine Obergrenze für Transportpreise statuiert. Uhlmann (SG Komm. BV, Art. 81a N. 34) vertritt die Position, dass die Bestimmung eine globale Obergrenze darstellt: Eine vollständige Kostendeckung durch Nutzerpreise wäre demnach unzulässig, da dies den Gemeinwohlcharakter des öffentlichen Verkehrs negieren würde. Ein anderer Teil der Lehre widerspricht dieser Auffassung: Die Bestimmung stelle keine Obergrenze dar und schliesse eine vollständige Kostendeckung nicht aus.
 
 **N. 13** **Angemessener Kostendeckungsgrad**: Was als «angemessener Teil» der Kostendeckung gilt, ist in der Doktrin umstritten. Die Praxis zeigt Kostendeckungsgrade zwischen 40% und 60% im Regionalverkehr und bis zu 80% im Fernverkehr. Stückelberger/Haldimann (Schienenverkehrsrecht, 2008, S. 265) plädieren für eine differenzierte Betrachtung nach Verkehrsart und Region. Das Bundesgericht hat bisher keine Untergrenze in Prozenten definiert, sondern nur klargestellt, dass ein Nulltarif unzulässig ist (**BGE 149 I 182**).
 

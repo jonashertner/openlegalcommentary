@@ -10,13 +10,13 @@
 
 **N. 3** Art. 111 Federal Constitution is located in Chapter 2 («Social Goals, Education and Research») of Title 3 of the Federal Constitution. It gives concrete form to the social goal of → Art. 41 para. 2 Federal Constitution (social insurance) and forms the constitutional basis for the special provisions → Art. 112 Federal Constitution (OASI/DI), → Art. 112a Federal Constitution (supplementary benefits), → Art. 113 Federal Constitution (occupational provision) and → Art. 114 Federal Constitution (unemployment insurance).
 
-**N. 4** Unlike Art. 41 Federal Constitution, which as a programmatic provision does not establish subjective rights, Art. 111 Federal Constitution contains binding structural requirements for the legislator. Gächter emphasises that Art. 111 Federal Constitution does not merely represent a competence provision, but contains material design principles.
+**N. 4** Unlike Art. 41 Federal Constitution, which as a programmatic provision does not establish subjective rights, Art. 111 Federal Constitution contains binding structural requirements for the legislator. Some commentators emphasise that Art. 111 Federal Constitution does not merely represent a competence provision, but contains material design principles.
 
 ## 3. Elements of the Offence / Normative Content
 
 ### a) The Three-Pillar Principle (Para. 1)
 
-**N. 5** Art. 111 para. 1 Federal Constitution anchors the three pillars as the supporting structure of Swiss old-age, survivors' and disability provision. According to Tschudi, these pillars represent «material design principles and material legal supplements to the competence provision or material directives of the legislative mandate».
+**N. 5** Art. 111 para. 1 Federal Constitution anchors the three pillars as the supporting structure of Swiss old-age, survivors' and disability provision. According to one view in the literature, these pillars represent «material design principles and material legal supplements to the competence provision or material directives of the legislative mandate».
 
 **N. 6** The **first pillar** (OASI/DI) should secure subsistence needs according to prevailing doctrine (Locher/Gächter, Outline of Social Insurance Law, 4th ed. 2014, § 3 N. 12). It is based on the pay-as-you-go system and covers the entire resident population on a mandatory basis.
 
@@ -26,11 +26,11 @@
 
 ### b) Constitutional Limitations
 
-**N. 9** According to Brühwiler, Art. 111 para. 1 Federal Constitution forms «a constitutional limitation for the competences of the legislator in the area of old-age, survivors' and disability provision». The legislator may not abandon the three-pillar principle or completely undermine individual pillars (Tschudi, The New Federal Constitution as the Basis of Social Insurance Law, SZS 2001, 63, 71).
+**N. 9** According to one view in the literature, Art. 111 para. 1 Federal Constitution forms «a constitutional limitation for the competences of the legislator in the area of old-age, survivors' and disability provision». The legislator may not abandon the three-pillar principle or completely undermine individual pillars (Tschudi, The New Federal Constitution as the Basis of Social Insurance Law, SZS 2001, 63, 71).
 
 ### c) Permanent Purpose Fulfilment (Para. 2)
 
-**N. 10** According to Art. 111 para. 2 Federal Constitution, the Confederation must ensure the permanent purpose fulfilment of the first and second pillars. Gächter interprets this to mean that «the constitutional legislator [wants to] emphasise that the first and second pillars must fulfil their tasks long-term in a coordinated system».
+**N. 10** According to Art. 111 para. 2 Federal Constitution, the Confederation must ensure the permanent purpose fulfilment of the first and second pillars. In the literature, this is interpreted to mean that «the constitutional legislator [wants to] emphasise that the first and second pillars must fulfil their tasks long-term in a coordinated system».
 
 **N. 11** Permanent purpose fulfilment encompasses both financial sustainability and material goal achievement according to prevailing doctrine (Häfelin/Haller/Keller/Thurnherr, Swiss Federal Constitutional Law, 10th ed. 2020, N. 789). The Confederation must take action if financing or performance goals are endangered.
 
@@ -54,7 +54,7 @@
 
 **N. 17** **Disputed** is the normative force of the three-pillar principle. While Tschudi (The Three-Pillar Principle, SZS 1987, 1, 15) and Brühwiler (Occupational Staff Pension Schemes in Switzerland, 1989, p. 45) assume a strict constitutional obligation, a minority opinion holds that the legislator has wide design latitude as long as the basic structure is preserved.
 
-**N. 18** The scope of «permanent purpose fulfilment» (para. 2) is also **controversially** discussed. Gächter demands an active monitoring and intervention obligation of the Confederation. Other authors emphasise the primary responsibility of the social partners in the second pillar and warn against excessive state interventions.
+**N. 18** The scope of «permanent purpose fulfilment» (para. 2) is also **controversially** discussed. Some commentators demand an active monitoring and intervention obligation of the Confederation. Other authors emphasise the primary responsibility of the social partners in the second pillar and warn against excessive state interventions.
 
 **N. 19** The **equal tax treatment** of the pillars is also disputed. While tied self-provision (pillar 3a) is tax-privileged, comparable promotion for voluntary buy-ins to the second pillar is partially lacking. Part of the doctrine sees this as an incoherence of the system.
 

@@ -64,7 +64,7 @@
 
 #### 5.2 Abgrenzung kantonale Polizeihoheit — Bundeskompetenz
 
-**N. 17** Das Verhältnis zwischen der kantonalen Polizeihoheit und den Bundeskompetenzen (insb. Art. 123 BV betr. Strafprozessrecht) ist praxisrelevant umstritten, insbesondere im Bereich moderner Überwachungstechnologien. Das Bundesgericht hat in **BGE 140 I 353 E. 5.5.1–5.5.2** und **BGE 151 I 137 E. 3.5** grundsätzlich geurteilt: Präventive polizeiliche Tätigkeit ohne Tatverdacht ist Sache der Kantone; sobald ein Anfangsverdacht vorliegt, ist die StPO anwendbar und der Kanton nicht mehr zuständig. Göksu vertritt, der Bund habe mit der StPO von seiner Kompetenz erschöpfend Gebrauch gemacht. Die Abgrenzung zwischen präventiver Polizeitätigkeit (Kantone) und strafprozessualem Handeln (Bund) bleibt im Einzelfall schwierig, namentlich bei «doppelfunktionalen Massnahmen»: **BGE 151 I 137 E. 3.5.2**.
+**N. 17** Das Verhältnis zwischen der kantonalen Polizeihoheit und den Bundeskompetenzen (insb. Art. 123 BV betr. Strafprozessrecht) ist praxisrelevant umstritten, insbesondere im Bereich moderner Überwachungstechnologien. Das Bundesgericht hat in **BGE 140 I 353 E. 5.5.1–5.5.2** und **BGE 151 I 137 E. 3.5** grundsätzlich geurteilt: Präventive polizeiliche Tätigkeit ohne Tatverdacht ist Sache der Kantone; sobald ein Anfangsverdacht vorliegt, ist die StPO anwendbar und der Kanton nicht mehr zuständig. In der Lehre wird vertreten, der Bund habe mit der StPO von seiner Kompetenz erschöpfend Gebrauch gemacht. Die Abgrenzung zwischen präventiver Polizeitätigkeit (Kantone) und strafprozessualem Handeln (Bund) bleibt im Einzelfall schwierig, namentlich bei «doppelfunktionalen Massnahmen»: **BGE 151 I 137 E. 3.5.2**.
 
 #### 5.3 Privatisierung von Sicherheitsaufgaben
 

@@ -46,7 +46,7 @@
 
 ### 5. Controversies
 
-**N. 14** **Legal nature of Art. 137 BV**: The central point of contention concerns the legal nature of the provision. Frick takes the position, referring to the council debates, that Art. 137 is purely declaratory. In contrast, Tschannen emphasises that the parties article must be understood normatively, even if the regulatory content may be limited. This controversy has practical consequences for deriving concrete rights and duties from the provision.
+**N. 14** **Legal nature of Art. 137 BV**: The central point of contention concerns the legal nature of the provision. One view in the literature takes the position, referring to the council debates, that Art. 137 is purely declaratory. In contrast, another view emphasises that the parties article must be understood normatively, even if the regulatory content may be limited. This controversy has practical consequences for deriving concrete rights and duties from the provision.
 
 **N. 15** **Party financing**: The question of transparency and state support is fiercely disputed. Caroni (Geld und Politik, 2009, 234 ff.) advocates for comprehensive disclosure obligations following international models. Conservative voices warn against a nationalisation of parties and emphasise their private law character (Schmid, Politische Parteien, 1981, 156 ff.). The legislator has so far shown restraint.
 

@@ -24,7 +24,7 @@
 
 **ch. 8** **Compétence cantonale (al. 1)** : Les cantons sont compétents au premier chef dans le domaine de la culture. Cette compétence englobe toute la politique culturelle, y compris la législation, l'exécution et le financement. La souveraineté culturelle cantonale est complète et ne nécessite aucune habilitation constitutionnelle particulière (Biaggini, BV Kommentar, Art. 69 ch. 2).
 
-**ch. 9** **Intérêt national (al. 2)**: La notion d'« intérêt national » est le critère central de l'encouragement fédéral. La doctrine est divisée: Christen/Raschèr/Tribolet exigent que le rayonnement de la création culturelle dépasse l'ancrage local ou régional (AJP 2001, 1035, 1042). Schmidt-Gabain soutient au contraire que même les activités culturelles sans rayonnement suprarégional peuvent être d'intérêt national si elles contribuent à la diversité culturelle de la Suisse.
+**ch. 9** **Intérêt national (al. 2)**: La notion d'« intérêt national » est le critère central de l'encouragement fédéral. La doctrine est divisée: Christen/Raschèr/Tribolet exigent que le rayonnement de la création culturelle dépasse l'ancrage local ou régional (AJP 2001, 1035, 1042). Une partie de la doctrine soutient au contraire que même les activités culturelles sans rayonnement suprarégional peuvent être d'intérêt national si elles contribuent à la diversité culturelle de la Suisse.
 
 **ch. 10** **Art et musique (al. 2)** : La mention explicite de l'« art et de la musique » ne signifie pas que d'autres domaines culturels sont exclus de l'encouragement fédéral. Il s'agit plutôt d'une énumération exemplative avec un accent particulier sur le domaine de la formation (Schweizer, ZSR 2001 I 187, 197).
 
@@ -40,7 +40,7 @@
 
 ### 5. Points litigieux
 
-**ch. 15** **Définition de l'intérêt national**: Un point litigieux central concerne l'interprétation de l'« intérêt national ». Christen/Raschèr/Tribolet exigent un rayonnement au-delà de l'ancrage régional (AJP 2001, 1035, 1042). Schmidt-Gabain soutient au contraire que même des activités culturelles ancrées localement peuvent être d'intérêt national dans l'intérêt de la diversité culturelle de la Suisse. Cette controverse a des répercussions directes sur la pratique d'encouragement de la Confédération.
+**ch. 15** **Définition de l'intérêt national**: Un point litigieux central concerne l'interprétation de l'« intérêt national ». Christen/Raschèr/Tribolet exigent un rayonnement au-delà de l'ancrage régional (AJP 2001, 1035, 1042). Une partie de la doctrine soutient au contraire que même des activités culturelles ancrées localement peuvent être d'intérêt national dans l'intérêt de la diversité culturelle de la Suisse. Cette controverse a des répercussions directes sur la pratique d'encouragement de la Confédération.
 
 **ch. 16** **Critères d'encouragement versus encouragement aléatoire de l'art**: Un désaccord fondamental existe concernant les critères d'encouragement. Uhlmann/Bognuda plaident pour une sélection stricte avec des critères clairs, car « l'art ne doit pas être encouragé à l'arrosoir » (ZSR 2008 I 363, 376). Schmidt-Gabain défend la position contraire et argumente qu'un encouragement culturel aléatoire (basé sur le hasard) serait mieux compatible avec la liberté de l'art et l'égalité, car l'art serait alors « enfin libre d'ignorer les prétendus critères de son encouragement ». Baumann et Depenheuer ont examiné les fondements théoriques d'une répartition aléatoire (Baumann, SJZ 2003, 621; Depenheuer, JZ 1993, 171).
 

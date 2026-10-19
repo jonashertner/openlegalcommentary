@@ -18,7 +18,7 @@
 
 **N. 5** **Getrennte Verhandlung (Abs. 1)**: Das Prinzip der getrennten Beratung bedeutet, dass National- und Ständerat ihre Sitzungen separat abhalten und unabhängig voneinander beraten. Nach Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 156 N. 3) ist dies Ausdruck der vollen Gleichberechtigung beider Kammern und verhindert die Dominanz eines Rates.
 
-**N. 6** **Übereinstimmung (Abs. 2)**: Das Konsensprinzip verlangt die inhaltliche Übereinstimmung beider Räte für jeden Bundesversammlungsbeschluss. Nach Waldmann/Belser/Epiney genügt nicht die blosse Mehrheit in einem Gesamtparlament, sondern es bedarf identischer Beschlüsse beider Kammern. Dies gilt für Gesetze, Verordnungen der Bundesversammlung, Bundesbeschlüsse und einfache Bundesbeschlüsse (→ Art. 163 BV).
+**N. 6** **Übereinstimmung (Abs. 2)**: Das Konsensprinzip verlangt die inhaltliche Übereinstimmung beider Räte für jeden Bundesversammlungsbeschluss. Nach einer Lehrmeinung genügt nicht die blosse Mehrheit in einem Gesamtparlament, sondern es bedarf identischer Beschlüsse beider Kammern. Dies gilt für Gesetze, Verordnungen der Bundesversammlung, Bundesbeschlüsse und einfache Bundesbeschlüsse (→ Art. 163 BV).
 
 **N. 7** **Differenzbereinigungsverfahren (Abs. 3)**: Die Verfassung verpflichtet den Gesetzgeber, ein Verfahren vorzusehen, das bei Meinungsverschiedenheiten eine Lösung ermöglicht. Die in lit. a–d aufgeführten Bereiche sind gemäss Tschannen (in: St. Galler Kommentar BV, Art. 156 N. 12) abschliessend, was bedeutet, dass in anderen Bereichen eine Blockade durch einen Rat möglich bleibt.
 

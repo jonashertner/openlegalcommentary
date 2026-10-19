@@ -8,6 +8,6 @@ L'art. 95 Cost. disciplina in modo particolarmente dettagliato le grandi societ�
 
 Un esempio: la grande banca UBS deve ogni anno far votare i suoi azionisti sulle retribuzioni della direzione. Se questi votano contro, le retribuzioni non sono consentite.
 
-La competenza confederale secondo il cpv. 1 è molto ampia. Il Tribunale federale ha confermato in DTF 125 I 276 che rientra in essa "ogni attività professionale privatoeconomica esercitata". Secondo Felix Uhlmann nel suo commento BSK, la Confederazione può "determinare autonomamente il concetto di attività privatoeconomica". Il Consiglio federale ha sottolineato nel messaggio sulla revisione totale che questa competenza è "globale" (FF 1997 I 265).
+La competenza confederale secondo il cpv. 1 è molto ampia. Il Tribunale federale ha confermato in DTF 125 I 276 che rientra in essa "ogni attività professionale privatoeconomica esercitata". Secondo un'opinione dottrinale, la Confederazione può "determinare autonomamente il concetto di attività privatoeconomica". Il Consiglio federale ha sottolineato nel messaggio sulla revisione totale che questa competenza è "globale" (FF 1997 I 265).
 
 La prescrizione collega così la protezione dei diritti fondamentali con la regolamentazione statale: consente la libertà economica, ma pone anche limiti a protezione della collettività.

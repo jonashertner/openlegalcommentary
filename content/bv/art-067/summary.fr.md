@@ -12,6 +12,6 @@ L'art. 67 Cst. ne fonde aucune créance directe pour les enfants ou les organisa
 
 **Soutien fédéral :** La Confédération peut encourager les organisations de jeunesse ou des projets innovants par des aides financières. Cela se fait par la loi sur l'encouragement de l'enfance et de la jeunesse (LEEJ). Il faut que le projet ait une importance pour l'ensemble de la Suisse et soit limité dans le temps (**arrêt B-6244/2020**). Les coûts d'exploitation réguliers ne sont pas pris en charge.
 
-**Question juridique controversée :** Dans la doctrine, il est controversé de savoir jusqu'où s'étend la compétence fédérale. Tschentscher la considère comme une compétence parallèle pratiquement illimitée, tandis que Biaggini souligne des limites constitutionnelles plus strictes.
+**Question juridique controversée :** Dans la doctrine, il est controversé de savoir jusqu'où s'étend la compétence fédérale. Une partie de la doctrine la considère comme une compétence parallèle pratiquement illimitée, tandis que Biaggini souligne des limites constitutionnelles plus strictes.
 
 L'art. 67 Cst. renforce la conscience que les décisions étatiques agissent souvent particulièrement fortement sur la jeune génération. Il rend visibles ces effets et oblige à prendre explicitement en compte les intérêts des enfants en politique.

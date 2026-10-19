@@ -35,7 +35,7 @@
 
 ### 5. Points of Contention
 
-**N. 11** **Time of publication**: In doctrine, it is undisputed that coming into force does not depend on publication in the AS. Ehrenzeller/Schindler/Schweizer/Vallender (St. Gallen Commentary FC, 4th ed. 2023, Art. 195 N 7) emphasise that publication has purely declaratory significance. Waldmann/Belser/Epiney share this view and refer to the message on the Publication Act (BBl 2003 7729).
+**N. 11** **Time of publication**: In doctrine, it is undisputed that coming into force does not depend on publication in the AS. Ehrenzeller/Schindler/Schweizer/Vallender (St. Gallen Commentary FC, 4th ed. 2023, Art. 195 N 7) emphasise that publication has purely declaratory significance. Other commentators share this view and refer to the message on the Publication Act (BBl 2003 7729).
 
 **N. 12** **Retroactivity**: The question of retroactivity of constitutional provisions is controversially discussed. The prevailing doctrine (Häfelin/Haller/Keller/Thurnherr, Swiss Federal Constitutional Law, 10th ed. 2020, N 1854) assumes that constitutional provisions generally do not have retroactive effect, unless this is expressly provided. Rhinow/Schefer/Uebersax (Swiss Constitutional Law, 3rd ed. 2016, N 3456) differentiate between genuine and spurious retroactivity.
 

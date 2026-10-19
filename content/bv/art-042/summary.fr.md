@@ -4,7 +4,7 @@
 
 L'art. 42 Cst. dispose que la Confédération n'assume que les tâches que lui attribue la Constitution fédérale. Cette disposition constitue un pilier fondamental du fédéralisme suisse (structure étatique comprenant la Confédération et les cantons). Elle signifie : la Confédération ne peut pas faire ce qu'elle veut, mais seulement ce qui est inscrit dans la Constitution.
 
-Le principe d'énumération selon Biaggini, BSK BV, art. 42 n. 17 stipule que les compétences fédérales doivent être limitées et expressément énumérées. Toutes les autres tâches demeurent aux cantons – c'est ce qu'on appelle la compétence résiduelle cantonale selon l'art. 3 Cst.
+Le principe d'énumération stipule que les compétences fédérales doivent être limitées et expressément énumérées. Toutes les autres tâches demeurent aux cantons – c'est ce qu'on appelle la compétence résiduelle cantonale selon l'art. 3 Cst.
 
 **Exemples concrets :**
 - La Confédération peut percevoir des impôts (art. 128 Cst.), mais pas partout

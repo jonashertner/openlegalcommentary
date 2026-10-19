@@ -36,7 +36,7 @@
 
 **Ch. 11** **Force obligatoire du budget** : Le degré de force obligatoire du budget est controversé. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5e éd. 2021, § 42 ch. 18) défend un lien strict, tandis que Lienhard/Mächler (Finanzrecht, 2017, ch. 234) plaident pour plus de flexibilité en cas d'événements imprévus. La pratique suit une solution intermédiaire avec des crédits supplémentaires.
 
-**Ch. 12** **Degré de détail**: Le degré de détail requis du budget fait l'objet d'une discussion controversée. Sägesser (op. cit., art. 5 ch. 8) exige une ventilation détaillée pour un contrôle parlementaire effectif. Waldmann met en garde contre un pilotage excessif de l'exécutif par des directives budgétaires trop détaillées. La loi sur les finances en vigueur cherche une voie médiane.
+**Ch. 12** **Degré de détail**: Le degré de détail requis du budget fait l'objet d'une discussion controversée. Sägesser (op. cit., art. 5 ch. 8) exige une ventilation détaillée pour un contrôle parlementaire effectif. Une autre opinion doctrinale met en garde contre un pilotage excessif de l'exécutif par des directives budgétaires trop détaillées. La loi sur les finances en vigueur cherche une voie médiane.
 
 **Ch. 13** **Rapport avec les lois matérielles** : Le rapport entre les décisions de dépenses selon l'art. 167 Cst. et les obligations légales de dépenses est controversé. L'opinion majoritaire (Ehrenzeller, St. Galler Kommentar, art. 167 ch. 14 ; Häfelin/Haller/Keller/Thurnherr, op. cit., ch. 1825) considère les lois matérielles comme une base de dépenses suffisante. Une minorité (Reich, Finanzordnung, 2012, p. 156) exige des décisions de crédit supplémentaires.
 

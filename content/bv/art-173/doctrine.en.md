@@ -49,7 +49,7 @@
 
 **N. 17** **Scope of emergency ordinance competence**: Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5th ed. 2021, § 44 N. 18) advocates a narrow interpretation, according to which only immediate dangers to security trigger this competence. In contrast, Biaggini (BV Kommentar, 2nd ed. 2017, Art. 173 N. 7) favours a broader interpretation that also includes preventive measures. The Federal Supreme Court in **BGE 148 IV 298** confirmed the constitutionality of the Al-Qaïda/IS Act enacted on this basis, without deciding the dogmatic controversy.
 
-**N. 18** **Federal/cantonal relationship in internal security**: Schweizer (St. Galler Kommentar BV, 4th ed. 2023, Art. 173 N. 12) emphasises the subsidiary nature of federal competences, while Waldmann argues for more generous federal competence for supra-cantonal threats. The Covid-19 pandemic has revived this discussion.
+**N. 18** **Federal/cantonal relationship in internal security**: Schweizer (St. Galler Kommentar BV, 4th ed. 2023, Art. 173 N. 12) emphasises the subsidiary nature of federal competences, while other commentators argue for more generous federal competence for supra-cantonal threats. The Covid-19 pandemic has revived this discussion.
 
 **N. 19** **Justiciability of validity decisions**: Rhinow/Schefer (Schweizerisches Verfassungsrecht, 3rd ed. 2016, N. 3421) criticise the limited reviewability of parliamentary validity decisions. Kley (Die Ungültigerklärung eidgenössischer Volksinitiativen, ZBl 2018, 567) calls for extended appeal possibilities. **BGE 138 I 61** has affirmed the right to legal remedies in cases of obvious violations, but confirmed the primary jurisdiction of the Federal Assembly.
 

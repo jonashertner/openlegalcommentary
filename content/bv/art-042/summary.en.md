@@ -4,7 +4,7 @@
 
 Art. 42 BV establishes that the Confederation only performs the tasks assigned to it by the Federal Constitution. This provision is a cornerstone of Swiss federalism (state structure with Confederation and cantons). It means: the Confederation may not do what it wants, but only what is stated in the Constitution.
 
-The enumeration principle according to Biaggini, BSK BV, Art. 42 N. 17 states that federal competences must be limited and expressly mentioned. All other tasks remain with the cantons – this is called cantonal residual competence according to Art. 3 BV.
+The enumeration principle states that federal competences must be limited and expressly mentioned. All other tasks remain with the cantons – this is called cantonal residual competence according to Art. 3 BV.
 
 **Concrete examples:**
 - The Confederation may levy taxes (Art. 128 BV), but not everywhere

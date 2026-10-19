@@ -32,7 +32,7 @@
 
 ### 3.2 Interdiction de désavantager (al. 2 phrase 1)
 
-**N. 10** L'interdiction se rapporte aux inégalités de traitement qui s'attachent exclusivement au critère du droit de cité. Waldmann précise: « Restent licites les différenciations selon le domicile, la durée du séjour ou d'autres critères objectifs ».
+**N. 10** L'interdiction se rapporte aux inégalités de traitement qui s'attachent exclusivement au critère du droit de cité. Une partie de la doctrine précise: « Restent licites les différenciations selon le domicile, la durée du séjour ou d'autres critères objectifs ».
 
 **N. 11** La norme interdit tant les discriminations directes qu'indirectes. Une réglementation apparemment neutre qui ne touche en fait que les citoyens d'autres communes ou cantons peut également violer l'art. 37 al. 2 Cst. (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4e éd. 2014, § 23 N 15).
 
@@ -64,7 +64,7 @@
 
 ## 5. Points controversés
 
-**N. 18** **Controversée** est la portée de l'exception pour les bourgeoisies. Ehrenzeller (St. Galler Kommentar BV, art. 37 N 12) défend une interprétation restrictive, tandis que Waldmann plaide pour plus de marge de manœuvre des corporations. **ATF 132 I 68** s'est rallié à la ligne restrictive.
+**N. 18** **Controversée** est la portée de l'exception pour les bourgeoisies. Ehrenzeller (St. Galler Kommentar BV, art. 37 N 12) défend une interprétation restrictive, tandis qu'une partie de la doctrine plaide pour plus de marge de manœuvre des corporations. **ATF 132 I 68** s'est rallié à la ligne restrictive.
 
 **N. 19** Le rapport entre l'art. 37 al. 2 Cst. et l'art. 8 Cst. est **controversé**. Müller/Schefer (Grundrechte, p. 754 s) voient l'art. 37 al. 2 comme lex specialis, tandis que Biaggini (BV-Kommentar, art. 37 N 4) argumente pour une application parallèle.
 

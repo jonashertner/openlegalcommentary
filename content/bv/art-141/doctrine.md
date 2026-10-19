@@ -26,7 +26,7 @@
 
 #### Referendumsfähige Erlasse
 
-**N. 9** **Bundesgesetze (lit. a)**: Alle formellen Bundesgesetze unterstehen automatisch dem fakultativen Referendum. Epiney/Diezig betonen, dass dem Grundsatz der Einheit der Materie dabei nur eine untergeordnete Rolle zukommt — im Gegensatz zur Volksinitiative.
+**N. 9** **Bundesgesetze (lit. a)**: Alle formellen Bundesgesetze unterstehen automatisch dem fakultativen Referendum. In der Lehre wird betont, dass dem Grundsatz der Einheit der Materie dabei nur eine untergeordnete Rolle zukommt — im Gegensatz zur Volksinitiative.
 
 **N. 10** **Dringlich erklärte Bundesgesetze (lit. b)**: Nur dringliche Bundesgesetze mit mehr als einjähriger Geltungsdauer sind referendumsfähig. Die Dringlicherklärung nach Art. 165 BV entzieht das Gesetz zunächst dem Referendum, unterwirft es aber nachträglich der Volksabstimmung bei längerer Dauer.
 
@@ -44,13 +44,13 @@
 
 #### Kündigung völkerrechtlicher Verträge
 
-**N. 15** Ein zentraler Streitpunkt betrifft die Referendumspflicht bei der Kündigung völkerrechtlicher Verträge. Epiney/Diezig argumentieren, dass gewichtige Gründe für eine analoge Anwendung des Referendums auf Kündigungen sprechen: «Die demokratische Legitimation ist bei der Kündigung ebenso wichtig wie beim Abschluss.»
+**N. 15** Ein zentraler Streitpunkt betrifft die Referendumspflicht bei der Kündigung völkerrechtlicher Verträge. In der Lehre wird argumentiert, dass gewichtige Gründe für eine analoge Anwendung des Referendums auf Kündigungen sprechen: «Die demokratische Legitimation ist bei der Kündigung ebenso wichtig wie beim Abschluss.»
 
 **N. 16** Die Gegenmeinung, vertreten durch Teile der älteren Lehre, sieht in Art. 141 BV eine abschliessende Aufzählung. Diggelmann (ZBl 2014, 291, 315) warnt vor einer extensiven Auslegung ohne klare verfassungsrechtliche Grundlage.
 
 #### Standardabkommen
 
-**N. 17** Die parlamentarische Praxis, gewisse völkerrechtliche Verträge als «Standardabkommen» vom Referendum auszunehmen, ist hochumstritten. Epiney/Diezig kritisieren diese Praxis als «nicht über alle Zweifel erhaben». Diggelmann (ZBl 2014, 291, 320) qualifiziert sie gar als potentiell verfassungswidrig.
+**N. 17** Die parlamentarische Praxis, gewisse völkerrechtliche Verträge als «Standardabkommen» vom Referendum auszunehmen, ist hochumstritten. Ein Teil der Lehre kritisiert diese Praxis als «nicht über alle Zweifel erhaben». Diggelmann (ZBl 2014, 291, 320) qualifiziert sie gar als potentiell verfassungswidrig.
 
 **N. 18** Die Befürworter der Standardabkommen-Praxis argumentieren mit der Praktikabilität und der geringen politischen Bedeutung repetitiver Verträge. Mannhart Gomes (Diss. Bern 2007, 145) sieht darin eine zulässige Konkretisierung der unbestimmten Rechtsbegriffe in Art. 141 Abs. 1 lit. d BV.
 

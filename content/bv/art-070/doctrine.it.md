@@ -34,7 +34,7 @@
 
 #### Promozione della comprensione (cpv. 3)
 
-**N. 12** L'obbligo di comprensione si rivolge ugualmente a Confederazione e Cantoni. Ha natura programmatica e non fonda diritti soggettivi. Ehrenzeller sostiene che da questa disposizione non può essere derivata alcuna competenza materiale di disciplinamento della Confederazione per l'insegnamento delle lingue straniere.
+**N. 12** L'obbligo di comprensione si rivolge ugualmente a Confederazione e Cantoni. Ha natura programmatica e non fonda diritti soggettivi. In dottrina si sostiene che da questa disposizione non può essere derivata alcuna competenza materiale di disciplinamento della Confederazione per l'insegnamento delle lingue straniere.
 
 #### Obblighi di sostegno della Confederazione (cpv. 4 e 5)
 

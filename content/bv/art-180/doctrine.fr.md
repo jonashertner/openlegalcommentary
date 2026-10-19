@@ -43,7 +43,7 @@
 
 ### 5. Controverses
 
-**N. 11** La portée de l'obligation d'informer dans le domaine de la politique de sécurité est controversée. Tandis qu'Ehrenzeller/Schindler/Schweizer/Vallender (Commentaire saint-gallois Cst., 4e éd. 2023, art. 180 N 12) préconisent une interprétation large des intérêts de maintien du secret, Waldmann/Belser/Epiney plaident pour un maniement restrictif à la lumière du principe démocratique.
+**N. 11** La portée de l'obligation d'informer dans le domaine de la politique de sécurité est controversée. Tandis qu'Ehrenzeller/Schindler/Schweizer/Vallender (Commentaire saint-gallois Cst., 4e éd. 2023, art. 180 N 12) préconisent une interprétation large des intérêts de maintien du secret, une autre partie de la doctrine plaide pour un maniement restrictif à la lumière du principe démocratique.
 
 **N. 12** Le rapport entre l'obligation constitutionnelle d'informer et le principe de collégialité (→ art. 177 al. 1 Cst.) fait aussi l'objet de discussions controversées. Müller/Schefer (Grundrechte in der Schweiz, 4e éd. 2008, p. 523) voient une primauté de la transparence, tandis que Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3e éd. 2016, N 3166) prônent une pesée des intérêts au cas par cas.
 

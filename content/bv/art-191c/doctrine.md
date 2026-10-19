@@ -43,7 +43,7 @@
 
 **N. 12** **Reichweite bei Spezialgerichten**: Umstritten ist, inwieweit nebenamtliche Richterinnen und Richter denselben Unabhängigkeitsschutz geniessen wie vollamtliche. Müller/Schefer (Grundrechte in der Schweiz, 4. Aufl. 2008, S. 895) vertreten eine restriktive Position, wonach bei nebenamtlichen Richtern gewisse Einschränkungen zulässig seien. Demgegenüber betont Kiener, dass der Unabhängigkeitsschutz personenunabhängig für alle richterlichen Funktionen gelte.
 
-**N. 13** **Verhältnis zu Art. 30 Abs. 1 BV**: Die Doktrin ist sich uneinig über das Verhältnis zwischen der institutionellen Garantie (Art. 191c BV) und dem individuellen Grundrecht (Art. 30 Abs. 1 BV). Steinmann (in: St. Galler Kommentar BV, 4. Aufl. 2023, Art. 191c N. 5) sieht Art. 191c BV als lex specialis für die Organisation der Gerichte. Waldmann vertritt demgegenüber ein komplementäres Verständnis beider Normen.
+**N. 13** **Verhältnis zu Art. 30 Abs. 1 BV**: Die Doktrin ist sich uneinig über das Verhältnis zwischen der institutionellen Garantie (Art. 191c BV) und dem individuellen Grundrecht (Art. 30 Abs. 1 BV). Steinmann (in: St. Galler Kommentar BV, 4. Aufl. 2023, Art. 191c N. 5) sieht Art. 191c BV als lex specialis für die Organisation der Gerichte. Ein anderer Teil der Lehre vertritt demgegenüber ein komplementäres Verständnis beider Normen.
 
 **N. 14** **Justizverwaltung**: Kontrovers diskutiert wird die Abgrenzung zwischen rechtsprechender Tätigkeit und Justizverwaltung. Das Bundesgericht schloss in **BGE 151 I 93** die eigene Justizverwaltung vom Schutzbereich aus. In der Lehre kritisieren Biaggini (BV Kommentar, 2. Aufl. 2017, Art. 191c N. 4) und Ehrenzeller (St. Galler Kommentar BV, Art. 191c N. 12) diese enge Auslegung als zu restriktiv.
 

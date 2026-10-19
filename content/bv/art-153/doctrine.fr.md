@@ -24,7 +24,7 @@
 
 **N. 6** **Commissions communes (al. 2)** : La loi « peut » prévoir des commissions communes des deux conseils. Cette disposition facultative permet des exceptions au principe des délibérations séparées des conseils. Il existe actuellement des commissions communes pour la grâce (art. 49 LParl), la rédaction (art. 56–59 LParl) et comme commission judiciaire (art. 40a LParl).
 
-**N. 7** **Délégation de compétences (al. 3)**: La délégation de compétences aux commissions est limitée à celles « qui ne sont pas de nature législative ». Selon Waldmann/Belser/Epiney, cela comprend les actes administratifs, les actes préparatoires et les fonctions de surveillance, mais pas la législation elle-même, qui reste réservée à la plénum.
+**N. 7** **Délégation de compétences (al. 3)**: La délégation de compétences aux commissions est limitée à celles « qui ne sont pas de nature législative ». Selon une opinion doctrinale, cela comprend les actes administratifs, les actes préparatoires et les fonctions de surveillance, mais pas la législation elle-même, qui reste réservée à la plénum.
 
 **N. 8** **Droits d'information (al. 4)** : Les droits d'information constitutionnels se divisent en trois catégories :
 - **Droits de renseignement** : obligation de l'administration d'informer (art. 150 LParl)

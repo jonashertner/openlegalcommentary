@@ -38,7 +38,7 @@
 
 ### 5. Points litigieux
 
-**N. 13** **Portée de la compétence en matière de droit d'urgence**: Tandis que Häfelin/Haller/Keller/Thurnherr (Droit de l'État fédéral, 10e éd. 2020, N 1624 ss) préconisent une interprétation restrictive, Epiney plaide pour une application flexible lors de nouvelles menaces. Le Commentaire saint-gallois (Schweizer, SGK BV, 4e éd. 2023, art. 185 N 8) adopte une position intermédiaire.
+**N. 13** **Portée de la compétence en matière de droit d'urgence**: Tandis que Häfelin/Haller/Keller/Thurnherr (Droit de l'État fédéral, 10e éd. 2020, N 1624 ss) préconisent une interprétation restrictive, une autre partie de la doctrine plaide pour une application flexible lors de nouvelles menaces. Le Commentaire saint-gallois (Schweizer, SGK BV, 4e éd. 2023, art. 185 N 8) adopte une position intermédiaire.
 
 **N. 14** **Immunité constitutionnelle** : La doctrine est divisée concernant la portée de l'immunité constitutionnelle développée dans **ATF 147 I 333**. Tschannen (Droit constitutionnel de la Confédération suisse, 5e éd. 2021, § 48 N 12) critique le concept comme allant trop loin, tandis que Biaggini (Commentaire Cst., 2e éd. 2017, art. 185 N 7) le défend comme flexibilité nécessaire en temps de crise.
 

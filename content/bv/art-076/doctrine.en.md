@@ -30,7 +30,7 @@
 
 ## 5. Disputes
 
-**N. 11** **Scope of cantonal sovereignty over waters**: While Biaggini (BV-Kommentar, Art. 76 N. 5) emphasises extensive autonomy of the cantons, Waldmann/Belser/Epiney advocate a more restrictive interpretation in view of comprehensive federal legislation. The Federal Court tends towards a mediating position according to which cantonal sovereignty continues to exist but is considerably limited by federal law (**BGE 145 II 140**).
+**N. 11** **Scope of cantonal sovereignty over waters**: While Biaggini (BV-Kommentar, Art. 76 N. 5) emphasises extensive autonomy of the cantons, other commentators advocate a more restrictive interpretation in view of comprehensive federal legislation. The Federal Court tends towards a mediating position according to which cantonal sovereignty continues to exist but is considerably limited by federal law (**BGE 145 II 140**).
 
 **N. 12** **Relationship hydropower - water protection**: In doctrine, it is disputed how the balancing of interests between energy production and environmental protection should be weighted. Griffel (St. Galler Kommentar BV, Art. 76 N. 18) pleads for strict priority of water protection, while Keller (in: Häfelin/Haller/Keller/Thurnherr, N. 1099) calls for a balanced weighing of interests. Practice shows an increasing weighting of ecological concerns while simultaneously recognising the energy policy significance of hydropower.
 

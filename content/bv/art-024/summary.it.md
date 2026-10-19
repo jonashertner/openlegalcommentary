@@ -4,7 +4,7 @@
 
 L'art. 24 Cost. garantisce ai cittadini svizzeri due diritti fondamentali di circolazione. In primo luogo il diritto di stabilimento (domicilio) in qualsiasi luogo della Svizzera. In secondo luogo il diritto di lasciare la Svizzera o di rientrarvi.
 
-Questi diritti fondamentali spettano soltanto alle persone con cittadinanza svizzera. Gli stranieri ne sono esclusi, come confermato dal Tribunale federale in **BGE 127 I 97** e ribadito da BSK BV-Rudin N. 16. La libertà di domicilio comprende la protezione dall'arbitrio statale nel cambio di domicilio e il diritto alla libera emigrazione.
+Questi diritti fondamentali spettano soltanto alle persone con cittadinanza svizzera. Gli stranieri ne sono esclusi, come confermato dal Tribunale federale in **BGE 127 I 97** e ribadito in dottrina. La libertà di domicilio comprende la protezione dall'arbitrio statale nel cambio di domicilio e il diritto alla libera emigrazione.
 
 Il Tribunale federale esamina rigorosamente le restrizioni alla libertà di domicilio secondo l'art. 36 Cost. In **BGE 147 I 103**, ad esempio, ha dichiarato sproporzionati gli allontanamenti polizieschi dei nomadi, in quanto violavano la loro libertà costituzionale di circolazione. Le restrizioni ammissibili devono essere previste dalla legge, essere nell'interesse pubblico e proporzionate.
 

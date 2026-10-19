@@ -40,7 +40,7 @@
 
 ### Streitstände
 
-**N. 11** **Reichweite der Hochschulautonomie**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 63a N. 15) betonen den weiten Schutzbereich, der Selbstverwaltung in Lehre, Forschung und Organisation umfasst. Waldmann/Belser/Epiney sehen die Autonomie enger und primär auf akademische Kernbereiche beschränkt. Die Rechtsprechung folgt einer vermittelnden Linie (**BGE 150 I 39**).
+**N. 11** **Reichweite der Hochschulautonomie**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 63a N. 15) betonen den weiten Schutzbereich, der Selbstverwaltung in Lehre, Forschung und Organisation umfasst. Ein anderer Teil der Lehre sieht die Autonomie enger und primär auf akademische Kernbereiche beschränkt. Die Rechtsprechung folgt einer vermittelnden Linie (**BGE 150 I 39**).
 
 **N. 12** **Private Hochschulen**: Umstritten ist die Reichweite der Gleichbehandlungspflicht. Müller/Schefer (Grundrechte in der Schweiz, 4. Aufl. 2008, S. 456) vertreten einen umfassenden Gleichbehandlungsanspruch auch bei der Finanzierung. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 1285) beschränken die Gleichbehandlung auf regulatorische Aspekte, nicht aber auf Subventionen.
 

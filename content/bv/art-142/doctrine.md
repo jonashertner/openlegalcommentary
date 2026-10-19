@@ -44,7 +44,7 @@ Beide Voraussetzungen müssen erfüllt sein. Ein Scheitern an nur einem Erforder
 
 **N. 12** **Nachzählung bei knappem Resultat**: Ein zentraler Streitpunkt betrifft die Voraussetzungen für eine Nachzählung:
 - Das Bundesgericht vertritt seit **BGE 136 II 132** die Auffassung, dass ein sehr knappes Ergebnis wie eine «Unregelmässigkeit» im Sinne von Art. 77 Abs. 1 lit. b BPR zu behandeln sei und einen Anspruch auf Nachzählung begründe
-- Epiney/Diezig bezweifeln, dass die enge Fassung der Voraussetzungen in Art. 34 Abs. 3 BPR (Glaubhaftmachung von Unregelmässigkeiten) mit Art. 34 Abs. 2 BV vereinbar sei
+- Ein Teil der Lehre bezweifelt, dass die enge Fassung der Voraussetzungen in Art. 34 Abs. 3 BPR (Glaubhaftmachung von Unregelmässigkeiten) mit Art. 34 Abs. 2 BV vereinbar sei
 - In **BGE 141 II 297** präzisierte das Bundesgericht, dass nur bei konkreten Anhaltspunkten für Fehler eine Nachzählung erfolgen müsse
 
 **N. 13** **Demokratietheoretische Kritik am Ständemehr**: Die unterschiedliche Stimmkraft der Bürgerinnen und Bürger verschiedener Kantone wird kontrovers diskutiert:

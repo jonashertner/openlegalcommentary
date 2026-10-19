@@ -20,7 +20,7 @@
 
 ### Independent Control (Para. 1)
 
-**N. 7** The term "independent" means, according to Uebersax, more than mere programmatic content — it is a normative task norm. The Federal Council, however, took the view that para. 1 had primarily programmatic character. Independence does not exclude international law commitments but requires national scope for action.
+**N. 7** The term "independent" means, according to one view in the literature, more than mere programmatic content — it is a normative task norm. The Federal Council, however, took the view that para. 1 had primarily programmatic character. Independence does not exclude international law commitments but requires national scope for action.
 
 **N. 8** "Control" encompasses quantitative and qualitative aspects of immigration. It requires active measures by the legislature, not merely passive acceptance of migration-related developments.
 
@@ -28,7 +28,7 @@
 
 **N. 9** "Annual ceilings" are absolute upper limits for total immigration. "Quotas" designate sub-quantities for specific categories (sectors, qualifications, countries of origin). The terms are not to be used synonymously.
 
-**N. 10** The inclusion of cross-border commuters is disputed. While the Federal Council wanted to subject cross-border commuters to numerical limitation, Uebersax argues that cross-border commuters are only conditionally immigrants, which is why limitation measures are not mandatory.
+**N. 10** The inclusion of cross-border commuters is disputed. While the Federal Council wanted to subject cross-border commuters to numerical limitation, some commentators argue that cross-border commuters are only conditionally immigrants, which is why limitation measures are not mandatory.
 
 ### Admission Criteria (Para. 3)
 
@@ -40,11 +40,11 @@
 
 ### Prohibition of Conflicting Treaties (Para. 4)
 
-**N. 14** The prohibition of new international law treaties applies directly according to **BGE 142 II 35**. The question of extending existing treaties is disputed: Epiney (Jusletter of 2.6.2014) argues that extensions are permissible as long as the fate of the basic treaty remains open. Uebersax sees the EU as a whole, which is why extensions are also inadmissible if the basic treaty is incompatible.
+**N. 14** The prohibition of new international law treaties applies directly according to **BGE 142 II 35**. The question of extending existing treaties is disputed: Epiney (Jusletter of 2.6.2014) argues that extensions are permissible as long as the fate of the basic treaty remains open. Another view sees the EU as a whole, which is why extensions are also inadmissible if the basic treaty is incompatible.
 
 ## 4. Legal Consequences
 
-**N. 15** The direct applicability of Art. 121a Cst. is disputed. According to Epiney (Jusletter of 2.6.2014), paragraphs 1–3 can be directly applicable under certain circumstances. The Federal Office of Justice and Uebersax argue, however, that paragraphs 1–3 are not directly applicable and require legislative implementation. The Federal Supreme Court followed the second view in **BGE 142 II 35**.
+**N. 15** The direct applicability of Art. 121a Cst. is disputed. According to Epiney (Jusletter of 2.6.2014), paragraphs 1–3 can be directly applicable under certain circumstances. The Federal Office of Justice and part of the literature argue, however, that paragraphs 1–3 are not directly applicable and require legislative implementation. The Federal Supreme Court followed the second view in **BGE 142 II 35**.
 
 **N. 16** Art. 121a Cst. does not give rise to subjective legal claims for individuals. Neither Swiss citizens nor permanent residents can derive preferential permit issuance directly from the constitutional norm (Federal Administrative Court judgment C-2637/2015 of 6.6.2016).
 
@@ -56,7 +56,7 @@
 
 **N. 18** The central point of dispute concerns compatibility with the AFMP. Heselhaus/Hänni (SZIER 2013, 19) see an irresolvable contradiction. Kunz (ZaöRV 2014, 329) advocates pragmatic solution approaches. Schlegel/Sieber-Gasser (Jusletter of 17.3.2014) propagated a "third way" between free movement of persons and isolation.
 
-**N. 19** On the admissibility of safeguard clauses, Epiney and Tobler (Jusletter of 16.2.2015) argue these are compatible with Art. 121a Cst. Uebersax emphasises the constitutionally required legislative flexibility.
+**N. 19** On the admissibility of safeguard clauses, Tobler (Jusletter of 16.2.2015) and other commentators argue these are compatible with Art. 121a Cst. One view in the literature emphasises the constitutionally required legislative flexibility.
 
 ### Scope of the Implementation Mandate
 

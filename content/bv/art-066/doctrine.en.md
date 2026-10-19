@@ -40,7 +40,7 @@
 
 **N. 14** **Scope of harmonisation competence:** The prevailing doctrine (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, N. 3456) sees in Art. 66 para. 1 sentence 2 BV a limited competence to prescribe minimum standards. A minority opinion (represented by student organisations) argued for a more extensive unification competence of the Confederation — this position was rejected with the rejection of the scholarship initiative in 2015.
 
-**N. 15** **Relationship of para. 1 to para. 2:** The relationship between the two paragraphs is disputed. While Hänni sees a clear separation between indirect support (para. 1) and direct support (para. 2), other authors (Aubert, Zum Bildungswesen, in: Müller/Feller, Bernisches Verwaltungsrecht, p. 245 ff.) advocate closer integration. Practice shows that the Confederation uses its competence under para. 2 very sparingly.
+**N. 15** **Relationship of para. 1 to para. 2:** The relationship between the two paragraphs is disputed. While one view in the literature sees a clear separation between indirect support (para. 1) and direct support (para. 2), other authors (Aubert, Zum Bildungswesen, in: Müller/Feller, Bernisches Verwaltungsrecht, p. 245 ff.) advocate closer integration. Practice shows that the Confederation uses its competence under para. 2 very sparingly.
 
 **N. 16** **Scholarship concordat and constitutional law:** The intercantonal concordat of 18 June 2009 raises questions about constitutional admissibility. Guery (Stipendienrecht: im Tauziehen zwischen Bildungs-, Sozial- und Finanzpolitik, recht 2012, 16 ff.) sees this as an exemplary implementation of cooperative federalism. Critical voices complain about incomplete harmonisation and demand more extensive federal competence.
 

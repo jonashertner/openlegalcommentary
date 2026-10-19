@@ -84,7 +84,7 @@
 
 #### 5.4 Libertà religiosa corporativa
 
-**N. 25** Se e in quale misura le persone giuridiche con scopo religioso siano titolari della libertà di coscienza e di credo era controverso sotto il vecchio diritto costituzionale. Il messaggio (FF 1997 I 155) e il Consiglio degli Stati (Inderkum) partivano da un carattere individualgiuridico della norma. Il Tribunale federale ha tuttavia costantemente riconosciuto agli enti religiosi la qualità di titolari del diritto fondamentale (**DTF 145 I 121 consid. 23**; **DTF 142 I 195 consid. 5.2 ss.**), superando così la lettura restrittiva del legislatore. Pahud de Mortanges ravvisa in ciò uno sviluppo coerente con il sistema, nella direzione di una protezione globale dell'esercizio collettivo della religione.
+**N. 25** Se e in quale misura le persone giuridiche con scopo religioso siano titolari della libertà di coscienza e di credo era controverso sotto il vecchio diritto costituzionale. Il messaggio (FF 1997 I 155) e il Consiglio degli Stati (Inderkum) partivano da un carattere individualgiuridico della norma. Il Tribunale federale ha tuttavia costantemente riconosciuto agli enti religiosi la qualità di titolari del diritto fondamentale (**DTF 145 I 121 consid. 23**; **DTF 142 I 195 consid. 5.2 ss.**), superando così la lettura restrittiva del legislatore. Una parte della dottrina ravvisa in ciò uno sviluppo coerente con il sistema, nella direzione di una protezione globale dell'esercizio collettivo della religione.
 
 ---
 

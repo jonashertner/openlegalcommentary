@@ -46,7 +46,7 @@
 
 ### 5. Streitstände
 
-**N. 14** **Rechtsnatur von Art. 137 BV**: Der zentrale Streitpunkt betrifft die Rechtsnatur der Bestimmung. Frick vertritt unter Berufung auf die Ratsverhandlungen die Position, Art. 137 sei rein deklaratorisch. Demgegenüber betont Tschannen, der Parteienartikel müsse normativ verstanden werden, auch wenn der Regelungsgehalt gering sein mag. Diese Kontroverse hat praktische Konsequenzen für die Ableitung konkreter Rechte und Pflichten aus der Bestimmung.
+**N. 14** **Rechtsnatur von Art. 137 BV**: Der zentrale Streitpunkt betrifft die Rechtsnatur der Bestimmung. Ein Teil der Lehre vertritt unter Berufung auf die Ratsverhandlungen die Position, Art. 137 sei rein deklaratorisch. Demgegenüber betont ein anderer Teil der Lehre, der Parteienartikel müsse normativ verstanden werden, auch wenn der Regelungsgehalt gering sein mag. Diese Kontroverse hat praktische Konsequenzen für die Ableitung konkreter Rechte und Pflichten aus der Bestimmung.
 
 **N. 15** **Parteienfinanzierung**: Heftig umstritten ist die Frage der Transparenz und staatlichen Förderung. Caroni (Geld und Politik, 2009, 234 ff.) plädiert für umfassende Offenlegungspflichten nach internationalem Vorbild. Konservative Stimmen warnen vor einer Verstaatlichung der Parteien und betonen deren privatrechtlichen Charakter (Schmid, Politische Parteien, 1981, 156 ff.). Der Gesetzgeber hat sich bisher zurückhaltend gezeigt.
 

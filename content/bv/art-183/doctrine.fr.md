@@ -54,7 +54,7 @@
 
 **N. 18** La relation entre la compétence de planification financière du Conseil fédéral et le droit budgétaire parlementaire fait aussi l'objet de débats controversés. Müller/Feller (Finanzrecht des Bundes, p. 205) voient dans le plan financier un engagement factuel du Parlement, tandis que Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 4e éd. 2016, § 45 N 14) souligne la souveraineté budgétaire illimitée de l'Assemblée fédérale.
 
-**N. 19** La portée de la « gestion budgétaire régulière » fait également l'objet de débats doctrinaux. Waldmann plaide pour une interprétation large qui inclut aussi les aspects de durabilité. Häfelin/Haller/Keller/Thurnherr (N 1861) défendent une vision plus restrictive qui se limite aux principes budgétaires traditionnels.
+**N. 19** La portée de la « gestion budgétaire régulière » fait également l'objet de débats doctrinaux. Une partie de la doctrine plaide pour une interprétation large qui inclut aussi les aspects de durabilité. Häfelin/Haller/Keller/Thurnherr (N 1861) défendent une vision plus restrictive qui se limite aux principes budgétaires traditionnels.
 
 ## 6. Indications pratiques
 

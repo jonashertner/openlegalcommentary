@@ -12,6 +12,6 @@ Art. 67 BV begründet keine direkten Ansprüche für Kinder oder Jugendorganisat
 
 **Bundesunterstützung:** Der Bund kann Jugendorganisationen oder innovative Projekte mit Finanzhilfen fördern. Dies geschieht über das Kinder- und Jugendförderungsgesetz (KJFG). Voraussetzung ist, dass das Projekt gesamtschweizerische Bedeutung hat und zeitlich begrenzt ist (**Urteil B-6244/2020**). Regelmässige Betriebskosten werden nicht übernommen.
 
-**Umstrittene Rechtsfrage:** In der Rechtslehre ist umstritten, wie weit die Bundeskompetenz reicht. Tschentscher sieht sie als praktisch uneingeschränkte Parallalkompetenz, während Biaggini stärkere verfassungsrechtliche Schranken betont.
+**Umstrittene Rechtsfrage:** In der Rechtslehre ist umstritten, wie weit die Bundeskompetenz reicht. Ein Teil der Lehre sieht sie als praktisch uneingeschränkte Parallalkompetenz, während Biaggini stärkere verfassungsrechtliche Schranken betont.
 
 Art. 67 BV verstärkt das Bewusstsein dafür, dass staatliche Entscheide oft besonders stark auf die junge Generation wirken. Es macht diese Auswirkungen sichtbar und zwingt zur expliziten Berücksichtigung von Kinderinteressen in der Politik.

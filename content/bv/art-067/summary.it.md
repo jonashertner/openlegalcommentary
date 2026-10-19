@@ -12,6 +12,6 @@ L'art. 67 Cost. non fonda diritti diretti per bambini o organizzazioni giovanili
 
 **Sostegno della Confederazione:** La Confederazione può promuovere organizzazioni giovanili o progetti innovativi con aiuti finanziari. Ciò avviene tramite la legge sulla promozione delle attività giovanili extrascolastiche e delle attività dell'infanzia (LPAG). Presupposto è che il progetto abbia importanza nazionale e sia limitato nel tempo (**sentenza B-6244/2020**). I costi d'esercizio regolari non vengono assunti.
 
-**Questione giuridica controversa:** Nella dottrina è controverso fino a che punto si estenda la competenza della Confederazione. Tschentscher la vede come competenza parallela praticamente illimitata, mentre Biaggini sottolinea limiti costituzionali più forti.
+**Questione giuridica controversa:** Nella dottrina è controverso fino a che punto si estenda la competenza della Confederazione. Una parte della dottrina la vede come competenza parallela praticamente illimitata, mentre Biaggini sottolinea limiti costituzionali più forti.
 
 L'art. 67 Cost. rafforza la consapevolezza che le decisioni statali spesso incidono particolarmente sulla giovane generazione. Rende visibili questi effetti e costringe alla considerazione esplicita degli interessi dei bambini nella politica.

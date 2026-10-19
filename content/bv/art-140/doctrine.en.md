@@ -26,7 +26,7 @@
 
 **N. 9** **Supranational communities (lit. b)**: The Federal Council defines these as organizations with independent organs that can issue directly binding decisions for individuals through majority decisions and have relatively comprehensive substantive powers. The EU unquestionably meets these criteria.
 
-**N. 10** The classification of the EEA is disputed: Epiney/Diezig as well as Hangartner/Kley affirm supranationality because of the dynamic legal development and the powers of the EFTA Surveillance Authority. Häfelin/Haller/Keller, Tschannen and Biaggini, however, deny it, since EEA law is not directly applicable and the adoption of new legal acts requires the consent of the contracting parties.
+**N. 10** The classification of the EEA is disputed: Hangartner/Kley and other commentators affirm supranationality because of the dynamic legal development and the powers of the EFTA Surveillance Authority. Häfelin/Haller/Keller, Tschannen and Biaggini, however, deny it, since EEA law is not directly applicable and the adoption of new legal acts requires the consent of the contracting parties.
 
 **N. 11** **Urgent federal acts without constitutional basis (lit. c)**: This rare constellation concerns only federal acts that cumulatively: (1) have been declared urgent by the Federal Assembly (→ Art. 165 FC), (2) have no constitutional basis and (3) whose period of validity exceeds one year. They must be put to the vote within one year of adoption.
 

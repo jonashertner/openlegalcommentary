@@ -64,7 +64,7 @@
 
 **N. 21** **Umfang der Immunitätsklausel**: Umstritten ist die Reichweite von Art. 189 Abs. 4 BV. Während Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, N. 3502) eine restriktive Auslegung befürworten, plädieren Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar, Art. 189 N. 24) für eine weite Auslegung. Die Rechtsprechung tendiert zu einer extensiven Interpretation (**BGE 147 I 194** E. 2.2).
 
-**N. 22** **Verhältnis zum Völkerrecht**: Kontrovers diskutiert wird das Verhältnis zwischen Art. 189 Abs. 1 lit. b BV und Art. 190 BV bei Konflikten zwischen Völkerrecht und Bundesrecht. Waldmann/Belser/Epiney vertreten die Auffassung, dass Art. 189 BV nur die Zuständigkeit, nicht aber den Prüfungsmassstab regelt. Müller/Schefer (Grundrechte in der Schweiz, 4. Aufl. 2008, S. 982) sehen dagegen in Art. 189 Abs. 1 lit. b BV eine eigenständige Prüfungskompetenz.
+**N. 22** **Verhältnis zum Völkerrecht**: Kontrovers diskutiert wird das Verhältnis zwischen Art. 189 Abs. 1 lit. b BV und Art. 190 BV bei Konflikten zwischen Völkerrecht und Bundesrecht. Ein Teil der Lehre vertritt die Auffassung, dass Art. 189 BV nur die Zuständigkeit, nicht aber den Prüfungsmassstab regelt. Müller/Schefer (Grundrechte in der Schweiz, 4. Aufl. 2008, S. 982) sehen dagegen in Art. 189 Abs. 1 lit. b BV eine eigenständige Prüfungskompetenz.
 
 **N. 23** **Justiziabilität politischer Rechte**: Die Tragweite von Art. 189 Abs. 1 lit. f BV ist umstritten. Tschannen (in: Ehrenzeller et al., St. Galler Kommentar, Art. 189 N. 16) befürwortet eine umfassende Justiziabilität. Kley plädiert für Zurückhaltung bei politischen Ermessensfragen.
 

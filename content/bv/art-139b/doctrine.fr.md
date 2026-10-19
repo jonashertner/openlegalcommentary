@@ -71,7 +71,7 @@
 
 #### 5.1 Légitimité de la règle de départage (al. 3)
 
-**N. 20** La légitimité démocratique de la formule de la différence prévue à l'al. 3 est contestée. Epiney/Diezig soulignent que cette règle crée un équilibre adéquat entre le principe démocratique de la majorité et les intérêts fédéraux des cantons, et évite que des divergences marginales ne soient seules déterminantes. En revanche, Kley (ZBl 2011, 2, 17) émet des réserves: la formule de la différence serait difficile à comprendre pour les électeurs et les autorités et pourrait influencer le résultat de la votation d'une manière imprévisible pour les votants.
+**N. 20** La légitimité démocratique de la formule de la différence prévue à l'al. 3 est contestée. Une partie de la doctrine souligne que cette règle crée un équilibre adéquat entre le principe démocratique de la majorité et les intérêts fédéraux des cantons, et évite que des divergences marginales ne soient seules déterminantes. En revanche, Kley (ZBl 2011, 2, 17) émet des réserves: la formule de la différence serait difficile à comprendre pour les électeurs et les autorités et pourrait influencer le résultat de la votation d'une manière imprévisible pour les votants.
 
 **N. 21** Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3e éd. 2016, n° 1831 s.) voient dans la règle de la différence une solution pragmatique, qui tempère toutefois dans un cas particulier le principe démocratique du «one person, one vote» au profit d'une pondération fédérale. Dans la mesure où l'al. 3 ne régit qu'un cas d'exception très improbable (double acceptation plus majorités divergentes à la question subsidiaire), la problématique démocratique est d'importance secondaire dans la pratique.
 

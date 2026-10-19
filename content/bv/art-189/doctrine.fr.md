@@ -64,7 +64,7 @@
 
 **N. 21** **Portée de la clause d'immunité** : La portée de l'art. 189 al. 4 Cst. est controversée. Tandis que Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, n° 3502) préconisent une interprétation restrictive, Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar, art. 189 n° 24) plaident pour une interprétation large. La jurisprudence tend vers une interprétation extensive (**ATF 147 I 194** consid. 2.2).
 
-**N. 22** **Rapport au droit international**: Le rapport entre l'art. 189 al. 1 let. b Cst. et l'art. 190 Cst. en cas de conflits entre le droit international et le droit fédéral fait l'objet de discussions controversées. Waldmann/Belser/Epiney défendent l'opinion selon laquelle l'art. 189 Cst. ne règle que la compétence, mais pas l'étalon d'examen. Müller/Schefer (Grundrechte in der Schweiz, 4e éd. 2008, p. 982) voient au contraire dans l'art. 189 al. 1 let. b Cst. une compétence d'examen autonome.
+**N. 22** **Rapport au droit international**: Le rapport entre l'art. 189 al. 1 let. b Cst. et l'art. 190 Cst. en cas de conflits entre le droit international et le droit fédéral fait l'objet de discussions controversées. Une partie de la doctrine défend l'opinion selon laquelle l'art. 189 Cst. ne règle que la compétence, mais pas l'étalon d'examen. Müller/Schefer (Grundrechte in der Schweiz, 4e éd. 2008, p. 982) voient au contraire dans l'art. 189 al. 1 let. b Cst. une compétence d'examen autonome.
 
 **N. 23** **Justiciabilité des droits politiques**: La portée de l'art. 189 al. 1 let. f Cst. est controversée. Tschannen (in: Ehrenzeller et al., St. Galler Kommentar, art. 189 n° 16) préconise une justiciabilité complète. Kley plaide pour la retenue dans les questions d'appréciation politique.
 

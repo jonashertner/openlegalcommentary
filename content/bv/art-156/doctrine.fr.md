@@ -18,7 +18,7 @@
 
 **N. 5** **Délibération séparée (al. 1)** : Le principe de la délibération séparée signifie que le Conseil national et le Conseil des Etats tiennent leurs séances séparément et délibèrent indépendamment l'un de l'autre. Selon Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4e éd. 2023, art. 156 n. 3), ceci est l'expression de la pleine égalité des deux chambres et empêche la domination d'un conseil.
 
-**N. 6** **Conformité (al. 2)**: Le principe du consensus exige la conformité de fond des deux conseils pour chaque arrêté de l'Assemblée fédérale. Selon Waldmann/Belser/Epiney, la simple majorité dans un parlement global ne suffit pas, mais il faut des arrêtés identiques des deux chambres. Ceci vaut pour les lois, les ordonnances de l'Assemblée fédérale, les arrêtés fédéraux et les arrêtés fédéraux simples (→ art. 163 Cst.).
+**N. 6** **Conformité (al. 2)**: Le principe du consensus exige la conformité de fond des deux conseils pour chaque arrêté de l'Assemblée fédérale. Selon une opinion doctrinale, la simple majorité dans un parlement global ne suffit pas, mais il faut des arrêtés identiques des deux chambres. Ceci vaut pour les lois, les ordonnances de l'Assemblée fédérale, les arrêtés fédéraux et les arrêtés fédéraux simples (→ art. 163 Cst.).
 
 **N. 7** **Procédure d'élimination des divergences (al. 3)** : La Constitution oblige le législateur à prévoir une procédure qui permet une solution en cas de désaccords. Selon Tschannen (in: St. Galler Kommentar BV, art. 156 n. 12), les domaines énumérés aux let. a-d sont exhaustifs, ce qui signifie que dans d'autres domaines, le blocage par un conseil reste possible.
 

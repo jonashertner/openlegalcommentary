@@ -4,7 +4,7 @@ L'art. 43a Cost. stabilisce i principi secondo i quali i compiti statali sono ri
 
 ## Chi è interessato?
 
-Tutti i livelli statali — Confederazione, Cantoni e Comuni — devono attenersi a questi principi nella ripartizione e nell'adempimento dei compiti. Tuttavia, secondo la dottrina unanime, la disposizione non ha giustiziabilità diretta (mancanza di azionabilità davanti al tribunale), come rileva Biaggini. Le cittadine e i cittadini non possono invocare direttamente l'art. 43a Cost.
+Tutti i livelli statali — Confederazione, Cantoni e Comuni — devono attenersi a questi principi nella ripartizione e nell'adempimento dei compiti. Tuttavia, secondo la dottrina unanime, la disposizione non ha giustiziabilità diretta (mancanza di azionabilità davanti al tribunale). Le cittadine e i cittadini non possono invocare direttamente l'art. 43a Cost.
 
 ## Cosa disciplina la norma?
 

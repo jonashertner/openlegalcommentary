@@ -44,7 +44,7 @@
 
 ### 5. Disputes
 
-**Para. 18** **Scope of the obligation**: It is disputed to what extent the legislator is authorized to provide exceptions from the insurance obligation. While Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 Para. 30) advocate a restrictive interpretation, Cardinaux pleads for greater legislative discretion. Federal Supreme Court jurisprudence tends toward the more extensive interpretation.
+**Para. 18** **Scope of the obligation**: It is disputed to what extent the legislator is authorized to provide exceptions from the insurance obligation. While Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 Para. 30) advocate a restrictive interpretation, others plead for greater legislative discretion. Federal Supreme Court jurisprudence tends toward the more extensive interpretation.
 
 **Para. 19** **Obligation for self-employed persons**: The question of which groups of self-employed persons should have an obligation introduced is controversially discussed. Stauffer (Berufliche Vorsorge, Para. 158) supports an obligation for pseudo-self-employed persons, while Helbling (Personalvorsorge und BVG, p. 112) warns against overregulation.
 

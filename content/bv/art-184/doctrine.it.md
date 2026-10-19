@@ -46,7 +46,7 @@
 
 ### 5. Controversie
 
-**N. 13** **Portata della competenza di ordinanze d'urgenza**: Mentre Häfelin/Haller/Keller/Thurnherr (Diritto dello Stato federale svizzero, 10ª ed. 2020, N. 1867) sostengono un'interpretazione restrittiva, Waldmann si pronuncia per un ampio margine di apprezzamento del Consiglio federale nella valutazione degli interessi del Paese.
+**N. 13** **Portata della competenza di ordinanze d'urgenza**: Mentre Häfelin/Haller/Keller/Thurnherr (Diritto dello Stato federale svizzero, 10ª ed. 2020, N. 1867) sostengono un'interpretazione restrittiva, un'altra parte della dottrina si pronuncia per un ampio margine di apprezzamento del Consiglio federale nella valutazione degli interessi del Paese.
 
 **N. 14** **Sindacabilità giurisdizionale**: Tschannen/Zimmerli/Müller (Diritto amministrativo generale, 4ª ed. 2014, § 31 N. 42) sostengono che le decisioni del Consiglio federale secondo l'art. 184 cpv. 3 Cost. sono sindacabili solo limitatamente. A ciò si oppone la giurisprudenza più recente, che richiede almeno in caso di violazioni dei diritti fondamentali un controllo giurisdizionale completo (**DTF 141 I 20**).
 

@@ -8,6 +8,6 @@ Besonders detailliert regelt Art. 95 BV die grossen börsenkotierten Aktiengesel
 
 Ein Beispiel: Die Grossbank UBS muss jedes Jahr ihre Aktionäre über die Vergütungen der Geschäftsleitung abstimmen lassen. Stimmen diese dagegen, sind die Vergütungen nicht erlaubt.
 
-Die Bundeskompetenz nach Abs. 1 ist sehr weitreichend. Das Bundesgericht bestätigte in BGE 125 I 276, dass "jede gewerbsmässig ausgeübte, privatwirtschaftliche Tätigkeit" darunter fällt. Gemäss Felix Uhlmann in seinem BSK-Kommentar kann der Bund "den Begriff der privatwirtschaftlichen Tätigkeit autonom bestimmen". Der Bundesrat betonte in der Botschaft zur Totalrevision, diese Kompetenz sei "umfassend" (BBl 1997 I 303).
+Die Bundeskompetenz nach Abs. 1 ist sehr weitreichend. Das Bundesgericht bestätigte in BGE 125 I 276, dass "jede gewerbsmässig ausgeübte, privatwirtschaftliche Tätigkeit" darunter fällt. Nach einer Lehrmeinung kann der Bund "den Begriff der privatwirtschaftlichen Tätigkeit autonom bestimmen". Der Bundesrat betonte in der Botschaft zur Totalrevision, diese Kompetenz sei "umfassend" (BBl 1997 I 303).
 
 Die Vorschrift verbindet somit Grundrechtsschutz mit staatlicher Regulierung: Sie ermöglicht wirtschaftliche Freiheit, setzt aber auch Grenzen zum Schutz der Allgemeinheit.

@@ -61,7 +61,7 @@
 
 **N. 13** **Requisiti per l'indipendenza giudiziaria**: Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3ª ed. 2016, n. 3640) sostengono una concezione formale secondo cui sono decisivi la denominazione come tribunale e la configurazione legale. La dottrina più recente (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4ª ed. 2014, § 10 n. 25) e la giurisprudenza seguono invece un approccio funzionale che si basa sull'indipendenza effettiva.
 
-**N. 14** **Portata del cpv. 2**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, art. 191b n. 12) vedono nel cpv. 2 un'autorizzazione costitutiva. Waldmann/Belser/Epiney considerano invece la norma come dichiarativa, poiché la competenza deriverebbero già dall'art. 48 Cost. Il Tribunale federale ha lasciato aperta questa questione (**DTF 135 II 338** consid. 1).
+**N. 14** **Portata del cpv. 2**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, art. 191b n. 12) vedono nel cpv. 2 un'autorizzazione costitutiva. Un'altra parte della dottrina considera invece la norma come dichiarativa, poiché la competenza deriverebbero già dall'art. 48 Cost. Il Tribunale federale ha lasciato aperta questa questione (**DTF 135 II 338** consid. 1).
 
 ### 6. Indicazioni pratiche
 

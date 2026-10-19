@@ -54,7 +54,7 @@
 
 **N. 18** È anche discusso controversamente il rapporto tra la competenza di pianificazione finanziaria del Consiglio federale e il diritto parlamentare di bilancio. Müller/Feller (Finanzrecht des Bundes, p. 205) vedono nel piano finanziario un vincolo di fatto per il Parlamento, mentre Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 4a ed. 2016, § 45 N 14) sottolinea la sovranità di bilancio illimitata dell'Assemblea federale.
 
-**N. 19** La portata della «gestione ordinaria del bilancio» è ugualmente oggetto di dibattiti dottrinali. Waldmann propugna un'interpretazione estensiva che include anche aspetti di sostenibilità. Häfelin/Haller/Keller/Thurnherr (N 1861) sostengono una visione più restrittiva che si limita ai principi tradizionali del bilancio.
+**N. 19** La portata della «gestione ordinaria del bilancio» è ugualmente oggetto di dibattiti dottrinali. Una parte della dottrina propugna un'interpretazione estensiva che include anche aspetti di sostenibilità. Häfelin/Haller/Keller/Thurnherr (N 1861) sostengono una visione più restrittiva che si limita ai principi tradizionali del bilancio.
 
 ## 6. Indicazioni pratiche
 

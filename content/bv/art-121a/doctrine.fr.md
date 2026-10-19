@@ -20,7 +20,7 @@
 
 ### Gestion autonome (al. 1)
 
-**N. 7** Le terme «autonome» signifie selon Uebersax plus qu'une simple programmation — il s'agit d'une norme d'attribution normative. Le Conseil fédéral a en revanche soutenu que l'al. 1 avait principalement un caractère programmatique. L'autonomie n'exclut pas les obligations de droit international, mais exige des marges de manœuvre nationales.
+**N. 7** Le terme «autonome» signifie selon une opinion doctrinale plus qu'une simple programmation — il s'agit d'une norme d'attribution normative. Le Conseil fédéral a en revanche soutenu que l'al. 1 avait principalement un caractère programmatique. L'autonomie n'exclut pas les obligations de droit international, mais exige des marges de manœuvre nationales.
 
 **N. 8** La «gestion» comprend des aspects quantitatifs et qualitatifs de l'immigration. Elle exige des mesures actives du législateur, et non pas seulement l'acceptation passive de développements liés à la migration.
 
@@ -28,7 +28,7 @@
 
 **N. 9** Les «plafonds annuels» sont des limites absolues supérieures pour l'immigration totale. Les «contingents» désignent des sous-ensembles pour des catégories spécifiques (branches, qualifications, pays d'origine). Les termes ne doivent pas être utilisés comme synonymes.
 
-**N. 10** L'inclusion des frontaliers est controversée. Alors que le Conseil fédéral voulait soumettre les frontaliers à la limitation numérique, Uebersax soutient que les frontaliers ne constituent que conditionnellement des immigrants, raison pour laquelle les mesures de limitation ne seraient pas obligatoires.
+**N. 10** L'inclusion des frontaliers est controversée. Alors que le Conseil fédéral voulait soumettre les frontaliers à la limitation numérique, une partie de la doctrine soutient que les frontaliers ne constituent que conditionnellement des immigrants, raison pour laquelle les mesures de limitation ne seraient pas obligatoires.
 
 ### Critères d'admission (al. 3)
 
@@ -40,11 +40,11 @@
 
 ### Interdiction de traités contradictoires (al. 4)
 
-**N. 14** L'interdiction de nouveaux traités de droit international s'applique directement selon **ATF 142 II 35**. La question de l'extension de traités existants est controversée: Epiney (Jusletter du 2.6.2014) soutient que les extensions sont admissibles tant que le sort du traité de base reste ouvert. Uebersax considère l'UE comme un ensemble, raison pour laquelle les extensions seraient également inadmissibles en cas d'incompatibilité du traité de base.
+**N. 14** L'interdiction de nouveaux traités de droit international s'applique directement selon **ATF 142 II 35**. La question de l'extension de traités existants est controversée: Epiney (Jusletter du 2.6.2014) soutient que les extensions sont admissibles tant que le sort du traité de base reste ouvert. Une autre partie de la doctrine considère l'UE comme un ensemble, raison pour laquelle les extensions seraient également inadmissibles en cas d'incompatibilité du traité de base.
 
 ## 4. Conséquences juridiques
 
-**N. 15** L'applicabilité directe de l'art. 121a Cst. est controversée. Selon Epiney (Jusletter du 2.6.2014), les al. 1–3 peuvent être directement applicables dans certaines circonstances. L'Office fédéral de la justice et Uebersax soutiennent en revanche que les al. 1–3 ne sont pas directement applicables et nécessitent une mise en œuvre légale. Le Tribunal fédéral a suivi la seconde opinion dans **ATF 142 II 35**.
+**N. 15** L'applicabilité directe de l'art. 121a Cst. est controversée. Selon Epiney (Jusletter du 2.6.2014), les al. 1–3 peuvent être directement applicables dans certaines circonstances. L'Office fédéral de la justice et une partie de la doctrine soutiennent en revanche que les al. 1–3 ne sont pas directement applicables et nécessitent une mise en œuvre légale. Le Tribunal fédéral a suivi la seconde opinion dans **ATF 142 II 35**.
 
 **N. 16** L'art. 121a Cst. ne confère aucun droit subjectif aux particuliers. Ni les Suisses ni les titulaires d'un permis d'établissement ne peuvent déduire directement de la norme constitutionnelle une délivrance d'autorisation prioritaire (arrêt C-2637/2015 du TAF du 6.6.2016).
 
@@ -56,7 +56,7 @@
 
 **N. 18** Le point de controverse central concerne la compatibilité avec l'ALCP. Heselhaus/Hänni (SZIER 2013, 19) voient une contradiction insoluble. Kunz (ZaöRV 2014, 329) plaide pour des approches de solution pragmatiques. Schlegel/Sieber-Gasser (Jusletter du 17.3.2014) ont propagé une «troisième voie» entre libre circulation des personnes et isolement.
 
-**N. 19** Concernant l'admissibilité de clauses de sauvegarde, Epiney et Tobler (Jusletter du 16.2.2015) soutiennent qu'elles sont compatibles avec l'art. 121a Cst. Uebersax souligne la flexibilité législative constitutionnellement requise.
+**N. 19** Concernant l'admissibilité de clauses de sauvegarde, une partie de la doctrine, dont Tobler (Jusletter du 16.2.2015), soutient qu'elles sont compatibles avec l'art. 121a Cst. Une opinion doctrinale souligne la flexibilité législative constitutionnellement requise.
 
 ### Portée du mandat de mise en œuvre
 

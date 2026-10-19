@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-Art. 136 BV regelt in zwei Absätzen, wer in der Schweiz bei Bundesangelegenheiten abstimmen und wählen darf. Der erste Absatz legt fest, dass alle Schweizerinnen und Schweizer ab 18 Jahren stimmberechtigt sind. Ausgeschlossen sind nur Personen unter umfassender Beistandschaft (früher: Entmündigung wegen Geisteskrankheit oder Geistesschwäche). Gemäss der Rechtsprechung des Bundesgerichts sind diese Voraussetzungen abschliessend geregelt (**BGE 135 I 302**). Der Gesetzgeber darf weder neue Bedingungen hinzufügen noch bestehende ändern, wie der BSK-Kommentar festhält.
+Art. 136 BV regelt in zwei Absätzen, wer in der Schweiz bei Bundesangelegenheiten abstimmen und wählen darf. Der erste Absatz legt fest, dass alle Schweizerinnen und Schweizer ab 18 Jahren stimmberechtigt sind. Ausgeschlossen sind nur Personen unter umfassender Beistandschaft (früher: Entmündigung wegen Geisteskrankheit oder Geistesschwäche). Gemäss der Rechtsprechung des Bundesgerichts sind diese Voraussetzungen abschliessend geregelt (**BGE 135 I 302**). Der Gesetzgeber darf weder neue Bedingungen hinzufügen noch bestehende ändern.
 
 Der zweite Absatz zählt die konkreten Rechte auf: Teilnahme an Nationalratswahlen und Bundesabstimmungen sowie das Recht, Volksinitiativen und Referenden zu unterschreiben oder zu lancieren. Die Gleichheit aller politischen Rechte bedeutet, dass jede Stimme gleich viel zählt (Zählwertgleichheit).
 

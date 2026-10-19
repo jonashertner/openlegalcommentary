@@ -24,7 +24,7 @@
 
 **N. 8** **Cantonal jurisdiction (para. 1)**: The cantons are primarily responsible for the area of culture. This competence encompasses the entire cultural policy including legislation, implementation and financing. Cantonal cultural sovereignty is comprehensive and requires no special constitutional authorisation (Biaggini, BV Kommentar, Art. 69 N. 2).
 
-**N. 9** **National interest (para. 2)**: The concept of «national interest» is the central criterion for federal promotion. Doctrine is divided: Christen/Raschèr/Tribolet require that the impact of cultural creation extends beyond local or regional roots (AJP 2001, 1035, 1042). Schmidt-Gabain argues conversely that cultural endeavours without supra-regional impact can also be in the national interest if they contribute to the cultural diversity of Switzerland.
+**N. 9** **National interest (para. 2)**: The concept of «national interest» is the central criterion for federal promotion. Doctrine is divided: Christen/Raschèr/Tribolet require that the impact of cultural creation extends beyond local or regional roots (AJP 2001, 1035, 1042). Another view in the literature argues conversely that cultural endeavours without supra-regional impact can also be in the national interest if they contribute to the cultural diversity of Switzerland.
 
 **N. 10** **Art and music (para. 2)**: The explicit mention of «art and music» does not mean that other cultural areas are excluded from federal promotion. Rather, it is an exemplary enumeration with special emphasis on the educational sphere (Schweizer, ZSR 2001 I 187, 197).
 

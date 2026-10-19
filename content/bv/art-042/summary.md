@@ -4,7 +4,7 @@
 
 Art. 42 BV legt fest, dass der Bund nur die Aufgaben erfüllt, die ihm die Bundesverfassung zuweist. Diese Bestimmung ist ein Grundpfeiler des schweizerischen Föderalismus (Staatsaufbau mit Bund und Kantonen). Sie bedeutet: Der Bund darf nicht machen, was er will, sondern nur das, was in der Verfassung steht.
 
-Das Enumerationsprinzip (Aufzählungsprinzip) gemäss Biaggini, BSK BV, Art. 42 N. 17 besagt, dass Bundeskompetenzen begrenzt und ausdrücklich genannt sein müssen. Alle anderen Aufgaben bleiben bei den Kantonen – das nennt man kantonale Restkompetenz nach Art. 3 BV.
+Das Enumerationsprinzip (Aufzählungsprinzip) besagt, dass Bundeskompetenzen begrenzt und ausdrücklich genannt sein müssen. Alle anderen Aufgaben bleiben bei den Kantonen – das nennt man kantonale Restkompetenz nach Art. 3 BV.
 
 **Konkrete Beispiele:**
 - Der Bund darf Steuern erheben (Art. 128 BV), aber nicht überall

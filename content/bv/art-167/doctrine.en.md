@@ -36,7 +36,7 @@
 
 **N. 11** **Binding effect of the budget**: The degree of binding effect of the budget is disputed. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5th ed. 2021, § 42 N 18) advocates strict binding, while Lienhard/Mächler (Finanzrecht, 2017, N 234) argue for more flexibility in unforeseen events. Practice follows a mediating solution with supplementary credits.
 
-**N. 12** **Level of detail**: The required level of detail of the budget is controversially discussed. Sägesser (op. cit., Art. 5 N 8) demands a detailed breakdown for effective parliamentary control. Waldmann warns against over-steering the executive through overly detailed budget requirements. The applicable Financial Budget Act seeks a middle path.
+**N. 12** **Level of detail**: The required level of detail of the budget is controversially discussed. Sägesser (op. cit., Art. 5 N 8) demands a detailed breakdown for effective parliamentary control. Other commentators warn against over-steering the executive through overly detailed budget requirements. The applicable Financial Budget Act seeks a middle path.
 
 **N. 13** **Relationship to substantive legislation**: The relationship between expenditure decisions under Art. 167 Fed. Const. and statutory expenditure obligations is disputed. The majority opinion (Ehrenzeller, St. Galler Kommentar, Art. 167 N 14; Häfelin/Haller/Keller/Thurnherr, op. cit., N 1825) considers substantive legislation as sufficient expenditure basis. A minority (Reich, Finanzordnung, 2012, p. 156) demands additional credit decisions.
 

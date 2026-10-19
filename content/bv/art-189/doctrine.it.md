@@ -64,7 +64,7 @@
 
 **N. 21** **Portata della clausola d'immunità**: È controversa la portata dell'art. 189 cpv. 4 Cost. Mentre Rhinow/Schefer/Uebersax (Diritto costituzionale svizzero, n. 3502) sostengono un'interpretazione restrittiva, Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo, art. 189 n. 24) propendono per un'interpretazione ampia. La giurisprudenza tende a un'interpretazione estensiva (**DTF 147 I 194** consid. 2.2).
 
-**N. 22** **Rapporto con il diritto internazionale**: È discusso in modo controverso il rapporto tra l'art. 189 cpv. 1 lett. b Cost. e l'art. 190 Cost. in caso di conflitti tra diritto internazionale e diritto federale. Waldmann/Belser/Epiney sostengono che l'art. 189 Cost. regola solo la competenza, non però il criterio di verifica. Müller/Schefer (Diritti fondamentali in Svizzera, 4a ed. 2008, p. 982) vedono invece nell'art. 189 cpv. 1 lett. b Cost. una competenza di verifica autonoma.
+**N. 22** **Rapporto con il diritto internazionale**: È discusso in modo controverso il rapporto tra l'art. 189 cpv. 1 lett. b Cost. e l'art. 190 Cost. in caso di conflitti tra diritto internazionale e diritto federale. Una parte della dottrina sostiene che l'art. 189 Cost. regola solo la competenza, non però il criterio di verifica. Müller/Schefer (Diritti fondamentali in Svizzera, 4a ed. 2008, p. 982) vedono invece nell'art. 189 cpv. 1 lett. b Cost. una competenza di verifica autonoma.
 
 **N. 23** **Giustiziabilità dei diritti politici**: La portata dell'art. 189 cpv. 1 lett. f Cost. è controversa. Tschannen (in: Ehrenzeller et al., Commentario di San Gallo, art. 189 n. 16) sostiene una giustiziabilità completa. Kley propende per la moderazione nelle questioni di discrezionalità politica.
 

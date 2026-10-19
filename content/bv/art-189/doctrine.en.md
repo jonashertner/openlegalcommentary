@@ -64,7 +64,7 @@
 
 **N. 21** **Scope of the immunity clause**: The scope of Art. 189 para. 4 Federal Constitution is disputed. While Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, N. 3502) favour a restrictive interpretation, Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar, Art. 189 N. 24) argue for a broad interpretation. Case law tends towards an extensive interpretation (**BGE 147 I 194** E. 2.2).
 
-**N. 22** **Relationship to international law**: The relationship between Art. 189 para. 1 lit. b Federal Constitution and Art. 190 Federal Constitution in conflicts between international law and federal law is controversially discussed. Waldmann/Belser/Epiney take the view that Art. 189 Federal Constitution only regulates competence, not the standard of review. Müller/Schefer (Grundrechte in der Schweiz, 4th ed. 2008, p. 982) see in Art. 189 para. 1 lit. b Federal Constitution an independent review competence.
+**N. 22** **Relationship to international law**: The relationship between Art. 189 para. 1 lit. b Federal Constitution and Art. 190 Federal Constitution in conflicts between international law and federal law is controversially discussed. Part of the literature holds that Art. 189 Federal Constitution only regulates competence, not the standard of review. Müller/Schefer (Grundrechte in der Schweiz, 4th ed. 2008, p. 982) see in Art. 189 para. 1 lit. b Federal Constitution an independent review competence.
 
 **N. 23** **Justiciability of political rights**: The scope of Art. 189 para. 1 lit. f Federal Constitution is disputed. Tschannen (in: Ehrenzeller et al., St. Galler Kommentar, Art. 189 N. 16) favours comprehensive justiciability. Kley argues for restraint in political discretionary matters.
 

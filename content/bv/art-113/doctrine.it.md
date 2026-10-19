@@ -44,7 +44,7 @@
 
 ### 5. Questioni controverse
 
-**N. 18** **Portata dell'obbligo**: È controverso in che misura il legislatore sia autorizzato a prevedere eccezioni dall'obbligo assicurativo. Mentre Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 N. 30) propendono per un'interpretazione restrittiva, Cardinaux argomenta per un margine di discrezione più ampio del legislatore. La giurisprudenza del Tribunale federale tende verso un'interpretazione più estensiva.
+**N. 18** **Portata dell'obbligo**: È controverso in che misura il legislatore sia autorizzato a prevedere eccezioni dall'obbligo assicurativo. Mentre Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 N. 30) propendono per un'interpretazione restrittiva, un'altra parte della dottrina argomenta per un margine di discrezione più ampio del legislatore. La giurisprudenza del Tribunale federale tende verso un'interpretazione più estensiva.
 
 **N. 19** **Obbligo per gli indipendenti**: La questione per quali gruppi di lavoratori indipendenti dovrebbe essere introdotto un obbligo è discussa in modo controverso. Stauffer (Berufliche Vorsorge, N. 158) sostiene un obbligo per i lavoratori apparentemente indipendenti, mentre Helbling (Personalvorsorge und BVG, pag. 112) mette in guardia contro una sovraregolamentazione.
 

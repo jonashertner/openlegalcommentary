@@ -46,7 +46,7 @@
 
 **N. 14** In der Lehre ist umstritten, wie weit die richterliche Zurückhaltung bei gewährleisteten Kantonsverfassungen reichen soll. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10. Aufl. 2020, N 1823) vertreten eine strenge Position: Das Bundesgericht soll gewährleistete Bestimmungen nur bei offensichtlichen Verstössen gegen zwingendes Völkerrecht überprüfen. Ehrenzeller/Schweizer (St. Galler Kommentar BV, Art. 172 N 15) plädieren für eine differenziertere Betrachtung unter Berücksichtigung der Normenhierarchie und des Demokratieprinzips.
 
-**N. 15** Kontrovers diskutiert wird auch die Reichweite der Genehmigungspflicht nach Abs. 3. Während Waldmann eine weite Auslegung vertritt, die alle Verträge mit normativem Charakter erfasst, beschränkt Tschannen (Staatsrecht, 4. Aufl. 2021, § 23 N 15) die Pflicht auf Verträge von erheblicher politischer oder rechtlicher Tragweite.
+**N. 15** Kontrovers diskutiert wird auch die Reichweite der Genehmigungspflicht nach Abs. 3. Während ein Teil der Lehre eine weite Auslegung vertritt, die alle Verträge mit normativem Charakter erfasst, beschränkt Tschannen (Staatsrecht, 4. Aufl. 2021, § 23 N 15) die Pflicht auf Verträge von erheblicher politischer oder rechtlicher Tragweite.
 
 ### 6. Praxishinweise
 

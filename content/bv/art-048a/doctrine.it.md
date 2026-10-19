@@ -55,7 +55,7 @@
 
 **N. 15** Nell'**obbligo di partecipazione** sorgono solo i doveri definiti nel decreto federale. Il Cantone non diventa parte contrattuale, ma adempie specifici obblighi di cooperazione ordinati dal diritto federale.
 
-**N. 16** La natura giuridica dell'obbligo è controversa: Biaggini sottolinea che l'art. 48a Cost. si sottrae a un'applicabilità immediata e necessita di una concretizzazione mediante legge federale. La prassi mostra tuttavia che l'Assemblea federale può agire direttamente sulla base dell'art. 48a Cost.
+**N. 16** La natura giuridica dell'obbligo è controversa: una parte della dottrina sottolinea che l'art. 48a Cost. si sottrae a un'applicabilità immediata e necessita di una concretizzazione mediante legge federale. La prassi mostra tuttavia che l'Assemblea federale può agire direttamente sulla base dell'art. 48a Cost.
 
 ## 5. Questioni controverse
 
@@ -71,7 +71,7 @@
 
 ### c) Rapporto con le norme settoriali
 
-**N. 19** **Questione controversa sul rapporto con le norme speciali**: Non è chiaro il rapporto con gli obblighi di cooperazione settoriali come l'art. 62 cpv. 4 Cost. (sistema scolastico) o l'art. 123 cpv. 2-3 Cost. (esecuzione penale). Waldmann vede l'art. 48a Cost. come norma generale di riserva, mentre altri autori partono da un rapporto di specialità.
+**N. 19** **Questione controversa sul rapporto con le norme speciali**: Non è chiaro il rapporto con gli obblighi di cooperazione settoriali come l'art. 62 cpv. 4 Cost. (sistema scolastico) o l'art. 123 cpv. 2-3 Cost. (esecuzione penale). Una parte della dottrina vede l'art. 48a Cost. come norma generale di riserva, mentre altri autori partono da un rapporto di specialità.
 
 ## 6. Indicazioni pratiche
 

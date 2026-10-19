@@ -16,7 +16,7 @@
 
 **N. 5** Für die Grundrechtsposition von Ausländerinnen und Ausländern sind insbesondere → Art. 8 BV (Rechtsgleichheit), → Art. 13 BV (Schutz der Privatsphäre) und → Art. 25 BV (Schutz vor Ausweisung) relevant. Die Normen der EMRK, namentlich Art. 8 EMRK (Recht auf Achtung des Privat- und Familienlebens) und Art. 3 EMRK (Verbot unmenschlicher Behandlung), bilden gemäss → Art. 190 BV massgebendes Recht und begrenzen die Anwendung von Art. 121 BV.
 
-**N. 6** Im Verhältnis zum Freizügigkeitsabkommen (FZA) mit der EU entsteht ein Spannungsfeld. Nach Achermann, BSK BV, Art. 121 N. 27, ermöglicht die umfassende Bundeskompetenz die Regelung grundsätzlich aller Fragen betreffend Status und Stellung von Ausländern, während andere Autoren betonen, der Bund könne ohne Zusammenarbeit mit den Kantonen die Integration nicht regeln.
+**N. 6** Im Verhältnis zum Freizügigkeitsabkommen (FZA) mit der EU entsteht ein Spannungsfeld. Nach einer Lehrmeinung ermöglicht die umfassende Bundeskompetenz die Regelung grundsätzlich aller Fragen betreffend Status und Stellung von Ausländern, während andere Autoren betonen, der Bund könne ohne Zusammenarbeit mit den Kantonen die Integration nicht regeln.
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 

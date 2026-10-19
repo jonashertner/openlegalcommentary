@@ -51,7 +51,7 @@ The term «net revenue» designates the tax revenue after deduction of collectio
 
 ### 5. Controversial Issues
 
-**N. 15** In doctrine, it is disputed how broadly the term «tasks and expenditure in connection with air traffic» is to be understood. Waldmann/Belser/Epiney represent a rather restrictive interpretation and demand a close substantive connection with air traffic. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 87b N. 9) argue for a more generous interpretation which also includes infrastructure measures related to air traffic.
+**N. 15** In doctrine, it is disputed how broadly the term «tasks and expenditure in connection with air traffic» is to be understood. Some commentators represent a rather restrictive interpretation and demand a close substantive connection with air traffic. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 87b N. 9) argue for a more generous interpretation which also includes infrastructure measures related to air traffic.
 
 **N. 16** The question of whether the funds may be used exclusively for civil aviation or can also include military purposes is also controversially discussed. The prevailing doctrine assumes that Art. 87b BV is primarily oriented towards civil aviation, but does not categorically exclude dual use measures (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, N. 2157).
 

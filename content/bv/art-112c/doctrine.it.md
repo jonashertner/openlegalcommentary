@@ -28,11 +28,11 @@
 
 ### 5. Controversie dottrinali
 
-**N. 10** **Portata della competenza federale**: In dottrina è controverso fino a dove si estenda la competenza di promozione della Confederazione. Schweizer (St. Galler Kommentar BV, art. 112c N. 6) sostiene un'interpretazione restrittiva e sottolinea il carattere sussidiario della competenza federale. Gächter/Filippo si pronunciano per un'interpretazione più ampia, che conceda alla Confederazione anche certe competenze normative nel quadro della promozione.
+**N. 10** **Portata della competenza federale**: In dottrina è controverso fino a dove si estenda la competenza di promozione della Confederazione. Schweizer (St. Galler Kommentar BV, art. 112c N. 6) sostiene un'interpretazione restrittiva e sottolinea il carattere sussidiario della competenza federale. Un'altra parte della dottrina si pronuncia per un'interpretazione più ampia, che conceda alla Confederazione anche certe competenze normative nel quadro della promozione.
 
 **N. 11** **Rapporto con i Cantoni**: La natura concorrente della competenza è indiscussa, tuttavia divergono le opinioni sulla portata dell'autonomia cantonale. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3ª ed. 2016, N. 3854) sottolineano la persistente competenza principale cantonale. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10ª ed. 2020, N. 1285) vedono invece una rafforzata corresponsabilità federale, in particolare nel finanziamento.
 
-**N. 12** **Interpretazione conforme al diritto internazionale**: Con la ratifica della Convenzione ONU sui diritti delle persone con disabilità si è posta la questione in quale misura l'art. 112c Cost. debba essere interpretato alla luce del diritto internazionale. Schefer (in: Müller/Schefer, Grundrechte, p. 748) richiede un'interpretazione espansiva nel senso della Convenzione. Waldmann ammonisce alla moderazione e sottolinea la differenza tra mandato di promozione e obbligo derivante dai diritti fondamentali.
+**N. 12** **Interpretazione conforme al diritto internazionale**: Con la ratifica della Convenzione ONU sui diritti delle persone con disabilità si è posta la questione in quale misura l'art. 112c Cost. debba essere interpretato alla luce del diritto internazionale. Schefer (in: Müller/Schefer, Grundrechte, p. 748) richiede un'interpretazione espansiva nel senso della Convenzione. Un'altra parte della dottrina ammonisce alla moderazione e sottolinea la differenza tra mandato di promozione e obbligo derivante dai diritti fondamentali.
 
 ### 6. Indicazioni pratiche
 

@@ -44,7 +44,7 @@
 
 ## 5. Streitstände
 
-**N. 13** **Umfang der Parlamentsautonomie**: In der Lehre ist umstritten, wie weit die organisatorische Autonomie der Parlamentsdienste reicht. Sägesser vertritt eine extensive Auslegung, wonach die Parlamentsdienste in allen Belangen von der Exekutive unabhängig sein müssen. Demgegenüber plädiert Müller (Parlamentsrecht der Schweiz, 2022, 487) für eine funktionale Betrachtung: Nur soweit die Unabhängigkeit für die parlamentarische Arbeit erforderlich sei, bestehe ein verfassungsrechtlicher Schutz.
+**N. 13** **Umfang der Parlamentsautonomie**: In der Lehre ist umstritten, wie weit die organisatorische Autonomie der Parlamentsdienste reicht. Ein Teil der Lehre vertritt eine extensive Auslegung, wonach die Parlamentsdienste in allen Belangen von der Exekutive unabhängig sein müssen. Demgegenüber plädiert Müller (Parlamentsrecht der Schweiz, 2022, 487) für eine funktionale Betrachtung: Nur soweit die Unabhängigkeit für die parlamentarische Arbeit erforderlich sei, bestehe ein verfassungsrechtlicher Schutz.
 
 **N. 14** **Personalrechtliche Stellung**: Kontrovers diskutiert wird die Anwendbarkeit des Bundespersonalgesetzes auf die Parlamentsdienste. Während Tschannen (in: Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, § 23 N. 45) eine vollständige Geltung des BPG befürwortet, sehen Biaggini (BV Kommentar, Art. 155 N. 3) und die St. Galler Schule eine eigenständige personalrechtliche Ordnung als zulässig an. Die Praxis folgt einem differenzierten Ansatz mit grundsätzlicher Anwendung des BPG unter Vorbehalt parlamentsspezifischer Regelungen.
 

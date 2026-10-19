@@ -55,7 +55,7 @@
 
 **N. 15** Lors de l'**obligation de participation**, seules les obligations définies dans l'arrêté fédéral naissent. Le canton ne devient pas partie contractante, mais remplit des obligations de coopération spécifiques ordonnées par le droit fédéral.
 
-**N. 16** La nature juridique de l'obligation est controversée: Biaggini souligne que l'art. 48a Cst se soustrait à une applicabilité directe et nécessite une concrétisation par une loi fédérale. La pratique montre toutefois que l'Assemblée fédérale peut agir directement en se fondant sur l'art. 48a Cst.
+**N. 16** La nature juridique de l'obligation est controversée: Une partie de la doctrine souligne que l'art. 48a Cst se soustrait à une applicabilité directe et nécessite une concrétisation par une loi fédérale. La pratique montre toutefois que l'Assemblée fédérale peut agir directement en se fondant sur l'art. 48a Cst.
 
 ## 5. Points litigieux
 
@@ -71,7 +71,7 @@
 
 ### c) Rapport aux normes sectorielles
 
-**N. 19** **Point litigieux sur le rapport aux normes spéciales**: Le rapport aux obligations de coopération sectorielles comme l'art. 62 al. 4 Cst (instruction publique) ou l'art. 123 al. 2-3 Cst (exécution des peines) n'est pas clair. Waldmann voit l'art. 48a Cst comme une norme générale de rattrapage, tandis que d'autres auteurs partent d'un rapport de spécialité.
+**N. 19** **Point litigieux sur le rapport aux normes spéciales**: Le rapport aux obligations de coopération sectorielles comme l'art. 62 al. 4 Cst (instruction publique) ou l'art. 123 al. 2-3 Cst (exécution des peines) n'est pas clair. Une partie de la doctrine voit l'art. 48a Cst comme une norme générale de rattrapage, tandis que d'autres auteurs partent d'un rapport de spécialité.
 
 ## 6. Indications pratiques
 

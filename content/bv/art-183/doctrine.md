@@ -54,7 +54,7 @@
 
 **N. 18** Kontrovers diskutiert wird auch das Verhältnis zwischen der Finanzplanungskompetenz des Bundesrats und dem parlamentarischen Budgetrecht. Müller/Feller (Finanzrecht des Bundes, S. 205) sehen im Finanzplan eine faktische Vorbindung des Parlaments, während Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 4. Aufl. 2016, § 45 N 14) die uneingeschränkte Budgethoheit der Bundesversammlung betont.
 
-**N. 19** Die Reichweite der «ordnungsgemässen Haushaltführung» ist ebenfalls Gegenstand doktrinärer Debatten. Waldmann plädiert für eine weite Auslegung, die auch Nachhaltigkeitsaspekte einschliesst. Häfelin/Haller/Keller/Thurnherr (N 1861) vertreten eine engere Sichtweise, die sich auf die traditionellen Haushaltsgrundsätze beschränkt.
+**N. 19** Die Reichweite der «ordnungsgemässen Haushaltführung» ist ebenfalls Gegenstand doktrinärer Debatten. Ein Teil der Lehre plädiert für eine weite Auslegung, die auch Nachhaltigkeitsaspekte einschliesst. Häfelin/Haller/Keller/Thurnherr (N 1861) vertreten eine engere Sichtweise, die sich auf die traditionellen Haushaltsgrundsätze beschränkt.
 
 ## 6. Praxishinweise
 

@@ -51,7 +51,7 @@ Der Begriff «Reinertrag» bezeichnet die Steuereinnahmen nach Abzug der Erhebun
 
 ### 5. Streitstände
 
-**N. 15** In der Lehre ist umstritten, wie weit der Begriff «Aufgaben und Aufwendungen im Zusammenhang mit dem Luftverkehr» zu fassen ist. Waldmann/Belser/Epiney vertreten eine eher restriktive Auslegung und fordern einen engen Sachzusammenhang mit dem Luftverkehr. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 87b N. 9) plädieren für eine grosszügigere Auslegung, die auch luftverkehrsnahe Infrastrukturmassnahmen einschliesst.
+**N. 15** In der Lehre ist umstritten, wie weit der Begriff «Aufgaben und Aufwendungen im Zusammenhang mit dem Luftverkehr» zu fassen ist. Ein Teil der Lehre vertritt eine eher restriktive Auslegung und fordert einen engen Sachzusammenhang mit dem Luftverkehr. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 87b N. 9) plädieren für eine grosszügigere Auslegung, die auch luftverkehrsnahe Infrastrukturmassnahmen einschliesst.
 
 **N. 16** Kontrovers diskutiert wird auch die Frage, ob die Mittel ausschliesslich für die zivile Luftfahrt verwendet werden dürfen oder auch militärische Zwecke einschliessen können. Die herrschende Lehre geht davon aus, dass Art. 87b BV primär auf die Zivilluftfahrt ausgerichtet ist, schliesst aber dual use-Massnahmen nicht kategorisch aus (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, N. 2157).
 

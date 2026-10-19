@@ -18,27 +18,27 @@
 
 ## 3. Elements of the Offence / Content of the Norm
 
-**N. 7** **Duty to examine (para. 1)**: The Federal Assembly is obliged to examine, for every valid constitutional initiative, whether it is compatible with international law. The term «international law» encompasses, according to Waldmann, all international legal obligations of Switzerland, not only mandatory international law within the meaning of → Art. 139 para. 3 FC.
+**N. 7** **Duty to examine (para. 1)**: The Federal Assembly is obliged to examine, for every valid constitutional initiative, whether it is compatible with international law. The term «international law» encompasses, according to one view in the literature, all international legal obligations of Switzerland, not only mandatory international law within the meaning of → Art. 139 para. 3 FC.
 
-**N. 8** **Scope of examination**: The compatibility review extends to international treaties, customary international law and general principles of law. Belser emphasises that «soft law» instruments must also be included in the assessment insofar as they establish concrete obligations.
+**N. 8** **Scope of examination**: The compatibility review extends to international treaties, customary international law and general principles of law. Some commentators emphasise that «soft law» instruments must also be included in the assessment insofar as they establish concrete obligations.
 
-**N. 9** **Duty to inform (para. 3)**: If the Federal Assembly determines incompatibility, the Federal Council and Federal Assembly must jointly explain the «significance and scope» of accepting the initiative in the voting materials. This information must, according to Epiney, be objective, complete and comprehensible to voters.
+**N. 9** **Duty to inform (para. 3)**: If the Federal Assembly determines incompatibility, the Federal Council and Federal Assembly must jointly explain the «significance and scope» of accepting the initiative in the voting materials. This information must, according to one view in the literature, be objective, complete and comprehensible to voters.
 
 ## 4. Legal Consequences
 
 **N. 10** **No declaration of invalidity**: A determined incompatibility with non-mandatory international law does not lead to invalidity of the initiative. This fundamentally distinguishes Art. 139a FC from → Art. 139 para. 3 FC, which provides for declaration of invalidity in case of violation of mandatory international law.
 
-**N. 11** **Enhanced information transparency**: The main legal consequence consists in the qualified duty to inform voters. Waldmann sees this as strengthening democratic will-formation through complete information about the consequences.
+**N. 11** **Enhanced information transparency**: The main legal consequence consists in the qualified duty to inform voters. Some commentators see this as strengthening democratic will-formation through complete information about the consequences.
 
-**N. 12** **No prejudicial effect**: The determination of incompatibility does not, according to Belser, prejudice the later interpretation and application of an accepted initiative. The law-applying authorities remain obliged to seek an interpretation compatible with international law (→ Art. 5 para. 4 FC).
+**N. 12** **No prejudicial effect**: The determination of incompatibility does not, according to one view in the literature, prejudice the later interpretation and application of an accepted initiative. The law-applying authorities remain obliged to seek an interpretation compatible with international law (→ Art. 5 para. 4 FC).
 
 ## 5. Controversial Issues
 
-**N. 13** **Scope of the duty to examine**: Waldmann advocates a comprehensive duty to examine every initiative, while Epiney favours limiting it to initiatives with obvious potential for conflict. The practice of the Federal Assembly tends towards comprehensive examination.
+**N. 13** **Scope of the duty to examine**: One view in the literature advocates a comprehensive duty to examine every initiative, while another favours limiting it to initiatives with obvious potential for conflict. The practice of the Federal Assembly tends towards comprehensive examination.
 
-**N. 14** **Justiciability of the compatibility review**: It is controversial whether the Federal Assembly's determination of compatibility with international law is subject to judicial review. Belser affirms limited review for arbitrariness, while Waldmann qualifies the determination as a political act without justiciability.
+**N. 14** **Justiciability of the compatibility review**: It is controversial whether the Federal Assembly's determination of compatibility with international law is subject to judicial review. One view in the literature affirms limited review for arbitrariness, while another qualifies the determination as a political act without justiciability.
 
-**N. 15** **Scope of the duty to inform**: It is disputed how detailed the information about possible international legal consequences must be. Epiney demands comprehensive presentation of all conceivable scenarios, while Waldmann advocates limiting it to the most likely consequences.
+**N. 15** **Scope of the duty to inform**: It is disputed how detailed the information about possible international legal consequences must be. One view in the literature demands comprehensive presentation of all conceivable scenarios, while another advocates limiting it to the most likely consequences.
 
 ## 6. Practice Guidelines
 

@@ -14,7 +14,7 @@
 
 ### 3. Éléments constitutifs
 
-**N. 5** **Ouvrages publics** : La notion est controversée. La doctrine traditionnelle défend une conception restrictive : Kern, BSK BV, art. 81 n. 9 cite avec approbation Burckhardt, selon lequel pour la qualité d'ouvrage « sont déterminants notamment le caractère corporel de l'installation, son lien au sol, le caractère artificiel ainsi que la modification respectivement la restauration d'un état naturel ». À l'inverse, Lendi/Vogel, SG Komm. BV, art. 81 n. 23 plaident pour une conception plus large, « qui inclut aussi les installations non liées au sol comme par ex. les satellites ou les installations virtuelles ».
+**N. 5** **Ouvrages publics** : La notion est controversée. La doctrine traditionnelle défend une conception restrictive et cite avec approbation Burckhardt, selon lequel pour la qualité d'ouvrage « sont déterminants notamment le caractère corporel de l'installation, son lien au sol, le caractère artificiel ainsi que la modification respectivement la restauration d'un état naturel ». À l'inverse, Lendi/Vogel, SG Komm. BV, art. 81 n. 23 plaident pour une conception plus large, « qui inclut aussi les installations non liées au sol comme par ex. les satellites ou les installations virtuelles ».
 
 **N. 6** **Dans l'intérêt du pays tout entier ou d'une grande partie de celui-ci** : Cette formule délimite la compétence confédérale des ouvrages cantonaux et communaux. Sont visés les ouvrages d'importance suprarégionale, qui concernent plusieurs cantons ou sont d'importance stratégique nationale. La pratique montre une interprétation généreuse pour les infrastructures de transport, d'énergie et de communication (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10e éd. 2020, n. 1089).
 

@@ -35,7 +35,7 @@
 
 ## Streitstände
 
-**N. 10** **Reichweite der Ausnahmen**: Umstritten ist die Auslegung der Ausnahmekategorien. Müller/Schefer (Grundrechte, 4. Aufl. 2008, S. 287) plädieren für eine weite Auslegung zum Schutz der Grundrechte. Rhinow/Schefer/Uebersax (Verfassungsrecht, 3. Aufl. 2016, N 2164) vertreten eine restriktivere Haltung mit Verweis auf den Zweck der Volksinitiative. Die BSK BV-Waldmann (2. Aufl. 2024, Art. 10a N 15) betont die Notwendigkeit einer einzelfallbezogenen Interessenabwägung.
+**N. 10** **Reichweite der Ausnahmen**: Umstritten ist die Auslegung der Ausnahmekategorien. Müller/Schefer (Grundrechte, 4. Aufl. 2008, S. 287) plädieren für eine weite Auslegung zum Schutz der Grundrechte. Rhinow/Schefer/Uebersax (Verfassungsrecht, 3. Aufl. 2016, N 2164) vertreten eine restriktivere Haltung mit Verweis auf den Zweck der Volksinitiative. Ein Teil der Lehre betont die Notwendigkeit einer einzelfallbezogenen Interessenabwägung.
 
 **N. 11** **Verhältnis zur EMRK**: Die Vereinbarkeit mit Art. 9 EMRK ist kontrovers. Der SGK-Ehrenzeller (4. Aufl. 2023, Art. 10a N 8) sieht unter Verweis auf EGMR S.A.S./Frankreich keine Konventionsverletzung. Kritischer äussert sich Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10. Aufl. 2020, N 456a), die auf die unterschiedlichen gesellschaftlichen Kontexte in der Schweiz und Frankreich hinweisen.
 

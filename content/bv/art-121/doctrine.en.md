@@ -16,7 +16,7 @@
 
 **N. 5** For the fundamental rights position of foreign nationals, particularly relevant are → Art. 8 BV (equality before the law), → Art. 13 BV (protection of privacy) and → Art. 25 BV (protection against expulsion). The norms of the ECHR, notably Art. 8 ECHR (right to respect for private and family life) and Art. 3 ECHR (prohibition of inhuman treatment), constitute applicable law according to → Art. 190 BV and limit the application of Art. 121 BV.
 
-**N. 6** A field of tension arises in relation to the Agreement on the Free Movement of Persons (AFMP) with the EU. According to Achermann, BSK BV, Art. 121 N. 27, the comprehensive federal competence enables the regulation of fundamentally all questions concerning the status and position of foreign nationals, while other authors emphasise that the Confederation cannot regulate integration without cooperation with the cantons.
+**N. 6** A field of tension arises in relation to the Agreement on the Free Movement of Persons (AFMP) with the EU. According to one view in the literature, the comprehensive federal competence enables the regulation of fundamentally all questions concerning the status and position of foreign nationals, while other authors emphasise that the Confederation cannot regulate integration without cooperation with the cantons.
 
 ### 3. Elements of the Offence / Norm Content
 

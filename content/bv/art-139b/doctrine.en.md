@@ -71,7 +71,7 @@
 
 #### 5.1 Legitimacy of the Tie-Breaking Rule (Para. 3)
 
-**N. 20** The democratic-theoretical legitimacy of the difference formula under Para. 3 is contested. Epiney/Diezig emphasise that the rule achieves an appropriate balance between the democratic majority principle and the federal interests of the cantons and prevents marginal deviations from being decisive on their own. Kley (ZBl 2011, 2, 17), by contrast, raises concerns: the difference formula is difficult for eligible voters and authorities to follow and could influence the outcome of the vote in a manner that is not foreseeable by voters.
+**N. 20** The democratic-theoretical legitimacy of the difference formula under Para. 3 is contested. Some commentators emphasise that the rule achieves an appropriate balance between the democratic majority principle and the federal interests of the cantons and prevents marginal deviations from being decisive on their own. Kley (ZBl 2011, 2, 17), by contrast, raises concerns: the difference formula is difficult for eligible voters and authorities to follow and could influence the outcome of the vote in a manner that is not foreseeable by voters.
 
 **N. 21** Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3rd ed. 2016, N 1831 f.) regard the difference rule as a pragmatic solution, but one which, in a special case, dilutes the democratic-theoretical principle of «one person, one vote» in favour of federal weighting. Since Para. 3 governs only a very unlikely exceptional case (double adoption plus diverging deciding-question majorities), the democratic-theoretical problem is of secondary practical importance.
 

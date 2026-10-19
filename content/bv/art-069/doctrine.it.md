@@ -24,7 +24,7 @@
 
 **N. 8** **Competenza cantonale (cpv. 1)**: I Cantoni sono competenti in via primaria per l'ambito della cultura. Questa competenza comprende l'intera politica culturale inclusa la legislazione, l'esecuzione e il finanziamento. La sovranità culturale cantonale è completa e non necessita di un'autorizzazione costituzionale speciale (Biaggini, BV Kommentar, Art. 69 N. 2).
 
-**N. 9** **Interesse nazionale (cpv. 2)**: Il concetto di «interesse nazionale» è il criterio centrale per la promozione federale. La dottrina è divisa: Christen/Raschèr/Tribolet richiedono che l'irradiazione della creazione culturale vada oltre il radicamento locale o regionale (AJP 2001, 1035, 1042). Schmidt-Gabain sostiene invece che anche sforzi culturali senza irradiazione sovraregionale possono essere di interesse nazionale se contribuiscono alla diversità culturale della Svizzera.
+**N. 9** **Interesse nazionale (cpv. 2)**: Il concetto di «interesse nazionale» è il criterio centrale per la promozione federale. La dottrina è divisa: Christen/Raschèr/Tribolet richiedono che l'irradiazione della creazione culturale vada oltre il radicamento locale o regionale (AJP 2001, 1035, 1042). Un'altra parte della dottrina sostiene invece che anche sforzi culturali senza irradiazione sovraregionale possono essere di interesse nazionale se contribuiscono alla diversità culturale della Svizzera.
 
 **N. 10** **Arte e musica (cpv. 2)**: La menzione esplicita di «arte e musica» non significa che altri ambiti culturali siano esclusi dalla promozione federale. Si tratta piuttosto di un'elencazione esemplificativa con particolare enfasi sull'ambito della formazione (Schweizer, ZSR 2001 I 187, 197).
 
@@ -40,7 +40,7 @@
 
 ### 5. Questioni controverse
 
-**N. 15** **Definizione dell'interesse nazionale**: Un punto di controversia centrale riguarda l'interpretazione dell'«interesse nazionale». Christen/Raschèr/Tribolet richiedono un'irradiazione oltre il radicamento regionale (AJP 2001, 1035, 1042). Schmidt-Gabain sostiene invece che anche sforzi culturali radicati localmente possono essere di interesse nazionale nell'interesse della diversità culturale della Svizzera. Questa controversia ha effetti diretti sulla prassi di promozione della Confederazione.
+**N. 15** **Definizione dell'interesse nazionale**: Un punto di controversia centrale riguarda l'interpretazione dell'«interesse nazionale». Christen/Raschèr/Tribolet richiedono un'irradiazione oltre il radicamento regionale (AJP 2001, 1035, 1042). Un'altra parte della dottrina sostiene invece che anche sforzi culturali radicati localmente possono essere di interesse nazionale nell'interesse della diversità culturale della Svizzera. Questa controversia ha effetti diretti sulla prassi di promozione della Confederazione.
 
 **N. 16** **Criteri di promozione versus promozione artistica aleatoria**: Esiste un dissenso fondamentale sui criteri di promozione. Uhlmann/Bognuda propugnano una selezione rigorosa con criteri chiari, poiché «l'arte non può essere promossa con l'innaffiatoio» (ZSR 2008 I 363, 376). Schmidt-Gabain rappresenta la posizione contraria e argomenta che una promozione culturale aleatoria (basata sul caso) sarebbe meglio compatibile con la libertà dell'arte e l'uguaglianza giuridica, poiché l'arte sarebbe allora «finalmente di nuovo libera di ignorare i presunti criteri della sua promozione». Baumann e Depenheuer hanno discusso le basi teoriche di una distribuzione casuale (Baumann, SJZ 2003, 621; Depenheuer, JZ 1993, 171).
 

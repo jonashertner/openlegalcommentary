@@ -18,27 +18,27 @@
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** **Prüfungspflicht (Abs. 1)**: Die Bundesversammlung ist verpflichtet, bei jeder gültigen Verfassungsinitiative zu prüfen, ob diese mit dem Völkerrecht vereinbar ist. Der Begriff «Völkerrecht» umfasst nach Waldmann alle völkerrechtlichen Verpflichtungen der Schweiz, nicht nur das zwingende Völkerrecht im Sinne von → Art. 139 Abs. 3 BV.
+**N. 7** **Prüfungspflicht (Abs. 1)**: Die Bundesversammlung ist verpflichtet, bei jeder gültigen Verfassungsinitiative zu prüfen, ob diese mit dem Völkerrecht vereinbar ist. Der Begriff «Völkerrecht» umfasst nach einer Lehrmeinung alle völkerrechtlichen Verpflichtungen der Schweiz, nicht nur das zwingende Völkerrecht im Sinne von → Art. 139 Abs. 3 BV.
 
-**N. 8** **Prüfungsumfang**: Die Vereinbarkeitsprüfung erstreckt sich auf völkerrechtliche Verträge, Völkergewohnheitsrecht und allgemeine Rechtsgrundsätze. Belser betont, dass auch «soft law»-Instrumente in die Beurteilung einzubeziehen sind, soweit sie konkrete Verpflichtungen begründen.
+**N. 8** **Prüfungsumfang**: Die Vereinbarkeitsprüfung erstreckt sich auf völkerrechtliche Verträge, Völkergewohnheitsrecht und allgemeine Rechtsgrundsätze. In der Lehre wird betont, dass auch «soft law»-Instrumente in die Beurteilung einzubeziehen sind, soweit sie konkrete Verpflichtungen begründen.
 
-**N. 9** **Informationspflicht (Abs. 3)**: Stellt die Bundesversammlung eine Unvereinbarkeit fest, müssen Bundesrat und Bundesversammlung gemeinsam in den Abstimmungsunterlagen die «Bedeutung und Tragweite» einer Annahme der Initiative erläutern. Diese Information muss nach Epiney objektiv, vollständig und für die Stimmberechtigten verständlich sein.
+**N. 9** **Informationspflicht (Abs. 3)**: Stellt die Bundesversammlung eine Unvereinbarkeit fest, müssen Bundesrat und Bundesversammlung gemeinsam in den Abstimmungsunterlagen die «Bedeutung und Tragweite» einer Annahme der Initiative erläutern. Diese Information muss nach einer Lehrmeinung objektiv, vollständig und für die Stimmberechtigten verständlich sein.
 
 ## 4. Rechtsfolgen
 
 **N. 10** **Keine Ungültigerklärung**: Eine festgestellte Unvereinbarkeit mit nicht-zwingendem Völkerrecht führt nicht zur Ungültigkeit der Initiative. Dies unterscheidet Art. 139a BV fundamental von → Art. 139 Abs. 3 BV, der bei Verstoss gegen zwingendes Völkerrecht die Ungültigerklärung vorsieht.
 
-**N. 11** **Erhöhte Informationstransparenz**: Die Hauptrechtsfolge besteht in der qualifizierten Informationspflicht gegenüber den Stimmberechtigten. Waldmann sieht darin eine Stärkung der demokratischen Willensbildung durch vollständige Information über die Konsequenzen.
+**N. 11** **Erhöhte Informationstransparenz**: Die Hauptrechtsfolge besteht in der qualifizierten Informationspflicht gegenüber den Stimmberechtigten. Ein Teil der Lehre sieht darin eine Stärkung der demokratischen Willensbildung durch vollständige Information über die Konsequenzen.
 
-**N. 12** **Keine präjudizielle Wirkung**: Die Feststellung der Unvereinbarkeit präjudiziert nach Belser nicht die spätere Auslegung und Anwendung einer angenommenen Initiative. Die rechtsanwendenden Behörden bleiben verpflichtet, eine völkerrechtskonforme Auslegung zu suchen (→ Art. 5 Abs. 4 BV).
+**N. 12** **Keine präjudizielle Wirkung**: Die Feststellung der Unvereinbarkeit präjudiziert nach einer Lehrmeinung nicht die spätere Auslegung und Anwendung einer angenommenen Initiative. Die rechtsanwendenden Behörden bleiben verpflichtet, eine völkerrechtskonforme Auslegung zu suchen (→ Art. 5 Abs. 4 BV).
 
 ## 5. Streitstände
 
-**N. 13** **Reichweite der Prüfungspflicht**: Waldmann vertritt eine umfassende Prüfungspflicht bei jeder Initiative, während Epiney eine Beschränkung auf Initiativen mit offensichtlichem Konfliktpotential befürwortet. Die Praxis der Bundesversammlung tendiert zur umfassenden Prüfung.
+**N. 13** **Reichweite der Prüfungspflicht**: Ein Teil der Lehre vertritt eine umfassende Prüfungspflicht bei jeder Initiative, während ein anderer Teil eine Beschränkung auf Initiativen mit offensichtlichem Konfliktpotential befürwortet. Die Praxis der Bundesversammlung tendiert zur umfassenden Prüfung.
 
-**N. 14** **Justiziabilität der Vereinbarkeitsprüfung**: Kontrovers ist, ob die Feststellung der Bundesversammlung über die Vereinbarkeit mit dem Völkerrecht gerichtlich überprüfbar ist. Belser bejaht eine beschränkte Überprüfung auf Willkür, während Waldmann die Feststellung als politischen Akt ohne Justiziabilität qualifiziert.
+**N. 14** **Justiziabilität der Vereinbarkeitsprüfung**: Kontrovers ist, ob die Feststellung der Bundesversammlung über die Vereinbarkeit mit dem Völkerrecht gerichtlich überprüfbar ist. Ein Teil der Lehre bejaht eine beschränkte Überprüfung auf Willkür, während ein anderer Teil die Feststellung als politischen Akt ohne Justiziabilität qualifiziert.
 
-**N. 15** **Umfang der Informationspflicht**: Strittig ist, wie detailliert die Information über mögliche völkerrechtliche Konsequenzen sein muss. Epiney fordert eine umfassende Darstellung aller denkbaren Szenarien, während Waldmann für eine Beschränkung auf die wahrscheinlichsten Konsequenzen plädiert.
+**N. 15** **Umfang der Informationspflicht**: Strittig ist, wie detailliert die Information über mögliche völkerrechtliche Konsequenzen sein muss. Ein Teil der Lehre fordert eine umfassende Darstellung aller denkbaren Szenarien, während ein anderer Teil für eine Beschränkung auf die wahrscheinlichsten Konsequenzen plädiert.
 
 ## 6. Praxishinweise
 

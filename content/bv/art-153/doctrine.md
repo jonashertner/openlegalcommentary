@@ -24,7 +24,7 @@
 
 **N. 6** **Gemeinsame Kommissionen (Abs. 2)**: Das Gesetz «kann» gemeinsame Kommissionen beider Räte vorsehen. Diese Kann-Vorschrift ermöglicht Ausnahmen vom Grundsatz getrennter Ratsverhandlungen. Gemeinsame Kommissionen bestehen derzeit für die Begnadigung (Art. 49 ParlG), die Redaktion (Art. 56–59 ParlG) und als Gerichtskommission (Art. 40a ParlG).
 
-**N. 7** **Befugnisübertragung (Abs. 3)**: Die Übertragung von Befugnissen an Kommissionen ist auf solche «nicht rechtsetzender Natur» beschränkt. Nach Waldmann/Belser/Epiney umfasst dies Verwaltungsakte, vorbereitende Handlungen und Aufsichtsfunktionen, nicht aber die Rechtssetzung selbst, die dem Plenum vorbehalten bleibt.
+**N. 7** **Befugnisübertragung (Abs. 3)**: Die Übertragung von Befugnissen an Kommissionen ist auf solche «nicht rechtsetzender Natur» beschränkt. Nach einer Lehrmeinung umfasst dies Verwaltungsakte, vorbereitende Handlungen und Aufsichtsfunktionen, nicht aber die Rechtssetzung selbst, die dem Plenum vorbehalten bleibt.
 
 **N. 8** **Informationsrechte (Abs. 4)**: Die verfassungsmässigen Informationsrechte gliedern sich in drei Kategorien:
 - **Auskunftsrechte**: Pflicht der Verwaltung zur Information (Art. 150 ParlG)

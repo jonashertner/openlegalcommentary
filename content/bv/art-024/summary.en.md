@@ -4,7 +4,7 @@
 
 Art. 24 BV grants Swiss citizens two central rights of movement. First, the right to settle (take up residence) anywhere in Switzerland. Second, the right to leave Switzerland or to enter it.
 
-These fundamental rights are reserved exclusively to persons with Swiss citizenship. Foreigners are excluded, as the Federal Supreme Court confirmed in **BGE 127 I 97** and BSK BV-Rudin N. 16 states. Freedom of settlement encompasses protection against arbitrary state action when changing residence and the right to free emigration.
+These fundamental rights are reserved exclusively to persons with Swiss citizenship. Foreigners are excluded, as the Federal Supreme Court confirmed in **BGE 127 I 97**. Freedom of settlement encompasses protection against arbitrary state action when changing residence and the right to free emigration.
 
 The Federal Supreme Court strictly scrutinises restrictions on freedom of settlement according to Art. 36 BV. In **BGE 147 I 103**, for instance, it declared police expulsion orders against itinerants to be disproportionate because they violated their constitutional freedom of movement. Permissible restrictions must have a legal basis, serve the public interest, and be proportionate.
 

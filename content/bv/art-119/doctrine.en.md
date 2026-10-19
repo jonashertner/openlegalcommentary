@@ -20,7 +20,7 @@
 
 ### b) Legislative mandate (para. 2 preamble)
 
-**N. 6** The mandatory legislative mandate («shall issue regulations») obliges the Confederation to enact comprehensive regulations. The triad of protected interests — human dignity, personality and family — forms the normative framework. According to Belser/Molinari, the concept of family is to be understood broadly and encompasses family life according to → Art. 13 para. 1 BV and Art. 8 ECHR, not only the traditional nuclear family.
+**N. 6** The mandatory legislative mandate («shall issue regulations») obliges the Confederation to enact comprehensive regulations. The triad of protected interests — human dignity, personality and family — forms the normative framework. According to one view in the literature, the concept of family is to be understood broadly and encompasses family life according to → Art. 13 para. 1 BV and Art. 8 ECHR, not only the traditional nuclear family.
 
 ### c) Principles (para. 2 lit. a–g)
 
@@ -28,7 +28,7 @@
 
 **N. 8** **Species barrier (lit. b)**: The prohibition of chimera and hybrid formation protects the biological integrity of the human species. The use of animal mitochondria in IVF is disputed (Müller, Legal and ethical questions, p. 152).
 
-**N. 9** **Reproductive medicine (lit. c)**: The subsidiarity clause («cannot be remedied by other means») is controversially discussed. Belser/Molinari argue that infertility in the constitutional sense should be understood comprehensively as an unfulfillable desire to have children, including in same-sex couples. The RMA, in contrast, takes a more restrictive understanding.
+**N. 9** **Reproductive medicine (lit. c)**: The subsidiarity clause («cannot be remedied by other means») is controversially discussed. Some commentators argue that infertility in the constitutional sense should be understood comprehensively as an unfulfillable desire to have children, including in same-sex couples. The RMA, in contrast, takes a more restrictive understanding.
 
 **N. 10** **Surrogacy prohibition (lit. d)**: According to **BGE 141 III 328 E. 7.4.1**, the absolute prohibition forms the core of Swiss ordre public. Embryo donation is also prohibited without exception, in contrast to permitted gamete donation.
 
@@ -46,9 +46,9 @@
 
 ## 5. Disputes
 
-**N. 16** **Concept of family**: The central controversy concerns the scope of the constitutional concept of family. While Belser/Molinari advocate for a broad understanding in the sense of Art. 8 ECHR, which also includes unmarried and same-sex couples, the RMA takes a narrower concept of family. This divergence has direct effects on access to reproductive medicine.
+**N. 16** **Concept of family**: The central controversy concerns the scope of the constitutional concept of family. While some commentators advocate for a broad understanding in the sense of Art. 8 ECHR, which also includes unmarried and same-sex couples, the RMA takes a narrower concept of family. This divergence has direct effects on access to reproductive medicine.
 
-**N. 17** **Concept of infertility**: It is disputed whether social infertility (in same-sex couples or single persons) should be equated with medical infertility. Belser/Molinari favour a comprehensive interpretation that includes every unfulfillable desire to have children. The opposing position requires a medical indication (Gächter/Rütsche, Health law, § 14 N. 567).
+**N. 17** **Concept of infertility**: It is disputed whether social infertility (in same-sex couples or single persons) should be equated with medical infertility. Some commentators favour a comprehensive interpretation that includes every unfulfillable desire to have children. The opposing position requires a medical indication (Gächter/Rütsche, Health law, § 14 N. 567).
 
 **N. 18** **Preimplantation genetic diagnosis**: The constitutional amendment in 2015 only partially resolved the dispute over the admissibility of PGD. The scope of permissible genetic examinations and the definition of «serious diseases» remain controversial (Addor/Bühler, sic! 2004, p. 389).
 

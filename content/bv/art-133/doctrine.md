@@ -32,9 +32,9 @@
 
 ### 5. Streitstände
 
-**N. 11** Ein zentraler Streitpunkt betrifft die Reichweite der Kompetenz von Art. 133 BV. Eine restriktive Auslegung, die sich auf die systematische Stellung in der Finanzordnung stützt, will Art. 133 BV auf reine Fiskalzölle beschränken (so teilweise die ältere Lehre). Die heute herrschende Auffassung, vertreten durch Oesch, umfasst auch wirtschaftslenkende Zölle, da eine Beschränkung auf reine Fiskalzölle kaum zielführend wäre und selbst Fiskalzölle reflexartig wirtschaftslenkend wirken.
+**N. 11** Ein zentraler Streitpunkt betrifft die Reichweite der Kompetenz von Art. 133 BV. Eine restriktive Auslegung, die sich auf die systematische Stellung in der Finanzordnung stützt, will Art. 133 BV auf reine Fiskalzölle beschränken (so teilweise die ältere Lehre). Die heute herrschende Auffassung umfasst auch wirtschaftslenkende Zölle, da eine Beschränkung auf reine Fiskalzölle kaum zielführend wäre und selbst Fiskalzölle reflexartig wirtschaftslenkend wirken.
 
-**N. 12** Kontrovers diskutiert wird die Frage der Durchfuhrzölle. Oesch argumentiert, Art. 133 BV begründe auch eine Kompetenz zur Erhebung von Durchfuhrzöllen, gestützt auf den weiten Wortlaut «grenzüberschreitender Warenverkehr» und die ratio legis einer umfassenden Bundeskompetenz. Arpagaus vertritt die Gegenposition und verneint eine solche Kompetenz unter Verweis auf die völkerrechtlichen Verpflichtungen und die praktische Bedeutungslosigkeit von Durchfuhrzöllen (Zollrecht, 2. Aufl. 2007, Rz. 142).
+**N. 12** Kontrovers diskutiert wird die Frage der Durchfuhrzölle. Ein Teil der Lehre argumentiert, Art. 133 BV begründe auch eine Kompetenz zur Erhebung von Durchfuhrzöllen, gestützt auf den weiten Wortlaut «grenzüberschreitender Warenverkehr» und die ratio legis einer umfassenden Bundeskompetenz. Arpagaus vertritt die Gegenposition und verneint eine solche Kompetenz unter Verweis auf die völkerrechtlichen Verpflichtungen und die praktische Bedeutungslosigkeit von Durchfuhrzöllen (Zollrecht, 2. Aufl. 2007, Rz. 142).
 
 ### 6. Praxishinweise
 

@@ -54,7 +54,7 @@
 
 **N. 18** The relationship between the Federal Council's financial planning competence and the parliamentary budget right is also controversially discussed. Müller/Feller (Finanzrecht des Bundes, p. 205) see the financial plan as a factual pre-commitment of Parliament, while Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 4th ed. 2016, § 45 N 14) emphasises the unrestricted budget sovereignty of the Federal Assembly.
 
-**N. 19** The scope of "proper budget management" is also the subject of doctrinal debates. Waldmann advocates for a broad interpretation that also includes sustainability aspects. Häfelin/Haller/Keller/Thurnherr (N 1861) represent a narrower view that is limited to traditional budget principles.
+**N. 19** The scope of "proper budget management" is also the subject of doctrinal debates. One view in the literature advocates for a broad interpretation that also includes sustainability aspects. Häfelin/Haller/Keller/Thurnherr (N 1861) represent a narrower view that is limited to traditional budget principles.
 
 ## 6. Practice Notes
 

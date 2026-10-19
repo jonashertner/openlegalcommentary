@@ -18,7 +18,7 @@
 
 **N. 6** Der **Wohnkanton** im Sinne von Art. 115 Satz 1 BV wird durch das Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger (ZUG) näher bestimmt. Gächter/Filippo weisen darauf hin, dass der verfassungsrechtliche Begriff des Wohnkantons nicht mit dem zivilrechtlichen Wohnsitzbegriff nach Art. 23 ff. ZGB gleichzusetzen ist. Vielmehr entwickelt das ZUG eigenständige Anknüpfungspunkte, insbesondere den Unterstützungswohnsitz gemäss Art. 4 ff. ZUG.
 
-**N. 7** Die **Bundeskompetenz** nach Art. 115 Satz 2 BV charakterisiert Biaggini als ausschliessliche Bundeskompetenz. Der Bund kann demnach sowohl Ausnahmen vom Wohnortsprinzip (etwa für Auslandschweizer oder Asylsuchende) als auch die interkantonale Zuständigkeitsabgrenzung abschliessend regeln. Gächter/Filippo präzisieren, dass diese Kompetenz primär durch das ZUG und spezialgesetzliche Regelungen (AsylG, AVIG) wahrgenommen wird.
+**N. 7** Die **Bundeskompetenz** nach Art. 115 Satz 2 BV wird in der Lehre als ausschliessliche Bundeskompetenz charakterisiert. Der Bund kann demnach sowohl Ausnahmen vom Wohnortsprinzip (etwa für Auslandschweizer oder Asylsuchende) als auch die interkantonale Zuständigkeitsabgrenzung abschliessend regeln. In der Lehre wird präzisiert, dass diese Kompetenz primär durch das ZUG und spezialgesetzliche Regelungen (AsylG, AVIG) wahrgenommen wird.
 
 ### 4. Rechtsfolgen
 

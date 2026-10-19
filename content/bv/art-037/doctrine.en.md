@@ -32,7 +32,7 @@
 
 ### 3.2 Prohibition of Discrimination (Para. 2 Sentence 1)
 
-**N. 10** The prohibition refers to unequal treatment that exclusively relates to the criterion of citizenship. Waldmann clarifies: «Differentiations according to residence, duration of stay or other objective criteria remain permissible».
+**N. 10** The prohibition refers to unequal treatment that exclusively relates to the criterion of citizenship. It is clarified in the literature: «Differentiations according to residence, duration of stay or other objective criteria remain permissible».
 
 **N. 11** The provision prohibits both direct and indirect discrimination. An apparently neutral regulation that factually only affects citizens of other municipalities or cantons may also violate Art. 37 para. 2 BV (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4th ed. 2014, § 23 N 15).
 
@@ -64,7 +64,7 @@
 
 ## 5. Disputed Issues
 
-**N. 18** **Disputed** is the scope of the exception for bourgeois municipalities. Ehrenzeller (St. Galler Kommentar BV, Art. 37 N 12) advocates a restrictive interpretation, while Waldmann argues for more leeway for corporations. **BGE 132 I 68** has aligned with the restrictive line.
+**N. 18** **Disputed** is the scope of the exception for bourgeois municipalities. Ehrenzeller (St. Galler Kommentar BV, Art. 37 N 12) advocates a restrictive interpretation, while another view in the literature argues for more leeway for corporations. **BGE 132 I 68** has aligned with the restrictive line.
 
 **N. 19** **Controversially** discussed is the relationship between Art. 37 para. 2 BV and Art. 8 BV. Müller/Schefer (Grundrechte, pp. 754 f.) see Art. 37 para. 2 as lex specialis, while Biaggini (BV-Kommentar, Art. 37 N 4) argues for parallel application.
 

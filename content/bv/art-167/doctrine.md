@@ -36,7 +36,7 @@
 
 **N. 11** **Bindungswirkung des Voranschlags**: Umstritten ist der Grad der Bindungswirkung des Voranschlags. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5. Aufl. 2021, § 42 N 18) vertritt eine strenge Bindung, während Lienhard/Mächler (Finanzrecht, 2017, N 234) für mehr Flexibilität bei unvorhergesehenen Ereignissen plädieren. Die Praxis folgt einer vermittelnden Lösung mit Nachtragskrediten.
 
-**N. 12** **Detaillierungsgrad**: Kontrovers diskutiert wird der erforderliche Detaillierungsgrad des Voranschlags. Sägesser (a.a.O., Art. 5 N 8) fordert eine detaillierte Aufschlüsselung zur effektiven parlamentarischen Kontrolle. Waldmann warnt vor einer Übersteuerung der Exekutive durch zu kleinteilige Budgetvorgaben. Das geltende Finanzhaushaltgesetz sucht einen Mittelweg.
+**N. 12** **Detaillierungsgrad**: Kontrovers diskutiert wird der erforderliche Detaillierungsgrad des Voranschlags. Sägesser (a.a.O., Art. 5 N 8) fordert eine detaillierte Aufschlüsselung zur effektiven parlamentarischen Kontrolle. Ein anderer Teil der Lehre warnt vor einer Übersteuerung der Exekutive durch zu kleinteilige Budgetvorgaben. Das geltende Finanzhaushaltgesetz sucht einen Mittelweg.
 
 **N. 13** **Verhältnis zu Sachgesetzen**: Strittig ist das Verhältnis zwischen Ausgabenbeschlüssen nach Art. 167 BV und gesetzlichen Ausgabenverpflichtungen. Die Mehrheitsmeinung (Ehrenzeller, St. Galler Kommentar, Art. 167 N 14; Häfelin/Haller/Keller/Thurnherr, a.a.O., N 1825) sieht Sachgesetze als hinreichende Ausgabengrundlage. Eine Minderheit (Reich, Finanzordnung, 2012, S. 156) fordert zusätzliche Kreditbeschlüsse.
 

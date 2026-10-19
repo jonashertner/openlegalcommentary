@@ -34,7 +34,7 @@
 
 #### Promotion of Understanding (Para. 3)
 
-**N. 12** The obligation to promote understanding is directed equally at the Confederation and the cantons. It is programmatic in nature and does not create subjective rights. Ehrenzeller takes the view that no material regulatory competence of the Confederation for foreign language teaching can be derived from this provision.
+**N. 12** The obligation to promote understanding is directed equally at the Confederation and the cantons. It is programmatic in nature and does not create subjective rights. Some commentators take the view that no material regulatory competence of the Confederation for foreign language teaching can be derived from this provision.
 
 #### Support Obligations of the Confederation (Paras. 4 and 5)
 

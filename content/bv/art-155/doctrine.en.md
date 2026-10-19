@@ -44,7 +44,7 @@
 
 ## 5. Points of Dispute
 
-**N. 13** **Scope of parliamentary autonomy**: In doctrine, there is dispute about how far the organizational autonomy of parliamentary services extends. Sägesser advocates an extensive interpretation whereby parliamentary services must be independent from the executive in all matters. In contrast, Müller (Parliamentary Law of Switzerland, 2022, 487) pleads for a functional view: Only insofar as independence is necessary for parliamentary work does constitutional protection exist.
+**N. 13** **Scope of parliamentary autonomy**: In doctrine, there is dispute about how far the organizational autonomy of parliamentary services extends. One view in the literature advocates an extensive interpretation whereby parliamentary services must be independent from the executive in all matters. In contrast, Müller (Parliamentary Law of Switzerland, 2022, 487) pleads for a functional view: Only insofar as independence is necessary for parliamentary work does constitutional protection exist.
 
 **N. 14** **Personnel law status**: The applicability of the Federal Personnel Act to parliamentary services is controversially discussed. While Tschannen (in: Tschannen/Zimmerli/Müller, General Administrative Law, § 23 N. 45) favors complete application of the FPA, Biaggini (Cst. Commentary, Art. 155 N. 3) and the St. Gallen school consider an independent personnel law system admissible. Practice follows a differentiated approach with basic application of the FPA subject to Parliament-specific regulations.
 

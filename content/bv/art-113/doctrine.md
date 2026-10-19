@@ -44,7 +44,7 @@
 
 ### 5. Streitstände
 
-**N. 18** **Reichweite des Obligatoriums**: Umstritten ist, inwieweit der Gesetzgeber befugt ist, Ausnahmen vom Versicherungsobligatorium vorzusehen. Während Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 N. 30) eine restriktive Auslegung befürworten, plädiert Cardinaux für einen weiteren Ermessensspielraum des Gesetzgebers. Die bundesgerichtliche Rechtsprechung tendiert zur extensiveren Auslegung.
+**N. 18** **Reichweite des Obligatoriums**: Umstritten ist, inwieweit der Gesetzgeber befugt ist, Ausnahmen vom Versicherungsobligatorium vorzusehen. Während Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 N. 30) eine restriktive Auslegung befürworten, plädiert ein anderer Teil der Lehre für einen weiteren Ermessensspielraum des Gesetzgebers. Die bundesgerichtliche Rechtsprechung tendiert zur extensiveren Auslegung.
 
 **N. 19** **Obligatorium für Selbstständige**: Die Frage, für welche Gruppen von Selbstständigerwerbenden ein Obligatorium eingeführt werden sollte, wird kontrovers diskutiert. Stauffer (Berufliche Vorsorge, N. 158) befürwortet ein Obligatorium für scheinselbstständige Erwerbstätige, während Helbling (Personalvorsorge und BVG, S. 112) vor einer Überregulierung warnt.
 
