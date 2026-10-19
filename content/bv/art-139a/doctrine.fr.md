@@ -18,27 +18,27 @@
 
 ## 3. Éléments constitutifs / Contenu normatif
 
-**N. 7** **Obligation d'examen (al. 1)**: L'Assemblée fédérale est tenue d'examiner pour chaque initiative constitutionnelle valide si celle-ci est compatible avec le droit international. Le terme « droit international » comprend selon une opinion doctrinale toutes les obligations de droit international de la Suisse, pas seulement le droit international impératif au sens de l'→ art. 139 al. 3 Cst.
+**N. 7** **Obligation d'examen (al. 1)** : L'Assemblée fédérale est tenue d'examiner pour chaque initiative constitutionnelle valide si celle-ci est compatible avec le droit international. La notion de droit international comprend selon une opinion doctrinale toutes les obligations de droit international de la Suisse, pas seulement le droit international impératif au sens de l'→ art. 139 al. 3 Cst.
 
-**N. 8** **Étendue de l'examen**: L'examen de compatibilité s'étend aux traités de droit international, au droit coutumier international et aux principes généraux du droit. Une partie de la doctrine souligne que les instruments de « soft law » doivent également être inclus dans l'évaluation dans la mesure où ils créent des obligations concrètes.
+**N. 8** **Étendue de l'examen** : L'examen de compatibilité s'étend aux traités de droit international, au droit coutumier international et aux principes généraux du droit. Une partie de la doctrine souligne que les instruments de *soft law* doivent également être inclus dans l'évaluation dans la mesure où ils créent des obligations concrètes.
 
-**N. 9** **Obligation d'information (al. 3)**: Si l'Assemblée fédérale constate une incompatibilité, le Conseil fédéral et l'Assemblée fédérale doivent conjointement expliquer dans les documents de votation la « signification et la portée » d'une acceptation de l'initiative. Cette information doit être selon une opinion doctrinale objective, complète et compréhensible pour les personnes ayant le droit de vote.
+**N. 9** **Obligation d'information (al. 3)** : Si l'Assemblée fédérale constate une incompatibilité, le Conseil fédéral et l'Assemblée fédérale doivent conjointement expliquer dans les documents de votation le sens et la portée d'une acceptation de l'initiative. Cette information doit être selon une opinion doctrinale objective, complète et compréhensible pour les personnes ayant le droit de vote.
 
 ## 4. Conséquences juridiques
 
 **N. 10** **Pas de déclaration de nullité** : Une incompatibilité constatée avec le droit international non impératif n'entraîne pas la nullité de l'initiative. Ceci distingue fondamentalement l'art. 139a Cst. de l'→ art. 139 al. 3 Cst., qui prévoit la déclaration de nullité en cas de violation du droit international impératif.
 
-**N. 11** **Transparence informationnelle renforcée**: La principale conséquence juridique consiste dans l'obligation d'information qualifiée envers les personnes ayant le droit de vote. Une partie de la doctrine y voit un renforcement de la formation démocratique de la volonté par une information complète sur les conséquences.
+**N. 11** **Transparence informationnelle renforcée** : La principale conséquence juridique consiste dans l'obligation d'information qualifiée envers les personnes ayant le droit de vote. Une partie de la doctrine y voit un renforcement de la formation démocratique de la volonté par une information complète sur les conséquences.
 
-**N. 12** **Pas d'effet préjudiciel**: La constatation de l'incompatibilité ne préjuge pas selon une opinion doctrinale l'interprétation et l'application ultérieures d'une initiative acceptée. Les autorités d'application du droit restent tenues de chercher une interprétation conforme au droit international (→ art. 5 al. 4 Cst.).
+**N. 12** **Pas d'effet préjudiciel** : La constatation de l'incompatibilité ne préjuge pas selon une opinion doctrinale l'interprétation et l'application ultérieures d'une initiative acceptée. Les autorités d'application du droit restent tenues de chercher une interprétation conforme au droit international (→ art. 5 al. 4 Cst.).
 
 ## 5. Points litigieux
 
-**N. 13** **Portée de l'obligation d'examen**: Une partie de la doctrine défend une obligation d'examen exhaustive pour chaque initiative, tandis qu'une autre opinion doctrinale préconise une limitation aux initiatives présentant un potentiel de conflit évident. La pratique de l'Assemblée fédérale tend vers l'examen exhaustif.
+**N. 13** **Portée de l'obligation d'examen** : Une partie de la doctrine défend une obligation d'examen exhaustive pour chaque initiative, tandis qu'une autre opinion doctrinale préconise une limitation aux initiatives présentant un potentiel de conflit évident. La pratique de l'Assemblée fédérale tend vers l'examen exhaustif.
 
-**N. 14** **Justiciabilité de l'examen de compatibilité**: Il est controversé de savoir si la constatation de l'Assemblée fédérale sur la compatibilité avec le droit international peut être contrôlée par les tribunaux. Une partie de la doctrine répond par l'affirmative pour un contrôle restreint de l'arbitraire, tandis qu'une autre opinion doctrinale qualifie la constatation d'acte politique sans justiciabilité.
+**N. 14** **Justiciabilité de l'examen de compatibilité** : Il est controversé de savoir si la constatation de l'Assemblée fédérale sur la compatibilité avec le droit international peut être contrôlée par les tribunaux. Une partie de la doctrine répond par l'affirmative pour un contrôle restreint de l'arbitraire, tandis qu'une autre opinion doctrinale qualifie la constatation d'acte politique sans justiciabilité.
 
-**N. 15** **Étendue de l'obligation d'information**: Il est litigieux de savoir à quel point l'information sur les conséquences possibles du droit international doit être détaillée. Une partie de la doctrine exige une présentation exhaustive de tous les scénarios concevables, tandis qu'une autre opinion doctrinale plaide pour une limitation aux conséquences les plus probables.
+**N. 15** **Étendue de l'obligation d'information** : Il est litigieux de savoir à quel point l'information sur les conséquences possibles du droit international doit être détaillée. Une partie de la doctrine exige une présentation exhaustive de tous les scénarios concevables, tandis qu'une autre opinion doctrinale plaide pour une limitation aux conséquences les plus probables.
 
 ## 6. Conseils pratiques
 

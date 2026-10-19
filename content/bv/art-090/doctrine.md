@@ -30,7 +30,7 @@
 
 ## 5. Streitstände
 
-**N. 11** **Verfassungsmässigkeit eines Atomausstiegs**: Das Bundesamt für Justiz vertritt in seinem Gutachten «Verfassungsfragen Ausstieg Kernenergie», ein gesetzlich angeordneter, sicherheitspolizeilich motivierter Ausstieg aus der Kernenergie sei «zumindest nicht ausgeschlossen». R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) ist anderer Ansicht und hält einen vollständigen Ausstieg für verfassungswidrig, da Art. 90 BV keine Verbotskompetenz enthalte.
+**N. 11** **Verfassungsmässigkeit eines Atomausstiegs**: Das Bundesamt für Justiz vertritt in seinem Gutachten «Verfassungsfragen Ausstieg Kernenergie», ein gesetzlich angeordneter, sicherheitspolizeilich motivierter Ausstieg aus der Kernenergie sei jedenfalls nicht von vornherein unzulässig. R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) ist anderer Ansicht und hält einen vollständigen Ausstieg für verfassungswidrig, da Art. 90 BV keine Verbotskompetenz enthalte.
 
 **N. 12** **Reichweite der kantonalen Kompetenzen**: Während die herrschende Lehre den Kantonen jegliche eigenständige Regelungskompetenz abspricht (Jagmetti, Energierecht, 2005, S. 472; Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, S. 235), anerkennt eine Minderheit begrenzte kantonale Spielräume bei rein lokalen Aspekten ohne sicherheitstechnischen Bezug (Buser, AJP 2006, 387–395, 392).
 

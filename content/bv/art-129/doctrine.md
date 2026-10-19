@@ -26,7 +26,7 @@
 
 #### a) Grundsatzkompetenz (Abs. 1)
 
-**N. 7** Der Begriff «Grundsätze» wird kontrovers interpretiert. Die von Reich umschriebene «Antinomie der verfassungsrechtlichen Zielvorgaben» prägt die Auslegung: Einerseits soll nur eine Rahmengesetzgebung erfolgen, andererseits wird eine wirksame Harmonisierung angestrebt.
+**N. 7** Der Begriff «Grundsätze» wird kontrovers interpretiert. Die von Reich umschriebene *Antinomie der verfassungsrechtlichen Zielvorgaben* prägt die Auslegung: Einerseits soll nur eine Rahmengesetzgebung erfolgen, andererseits wird eine wirksame Harmonisierung angestrebt.
 
 **N. 8** Das Bundesgericht tendiert zu einer extensiven Auslegung. In **BGE 130 II 202** führte es aus, dass das Ausmass der kantonalen Konkretisierungsmöglichkeiten für jede Bestimmung gesondert zu ermitteln sei. Die Praxis zeigt, dass der Bund seine Kompetenz weitgehend ausschöpft (Vallender, Mittelbare Rechtsetzung, 435).
 

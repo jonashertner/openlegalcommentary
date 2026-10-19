@@ -22,7 +22,7 @@
 
 **N. 7** Sul piano del diritto internazionale, l'art. 22 Cost. corrisponde all'art. 11 CEDU (libertà di riunione e di associazione) e all'art. 21 Patto ONU II. Il Tribunale federale ha ripetutamente rilevato che le garanzie dell'art. 11 CEDU e dell'art. 21 Patto ONU II non vanno oltre la garanzia del diritto costituzionale federale quanto a contenuto e portata della tutela (**BGE 132 I 256 consid. 3 i.f.; BGE 148 I 33 consid. 6.2**). Determinante è in primo luogo l'art. 22 Cost. e la relativa giurisprudenza del Tribunale federale.
 
-**N. 8** La libertà di riunione costituisce un presupposto centrale per la libera formazione della volontà democratica e per l'esercizio dei diritti politici (↔ art. 34 Cost.). Essa adempie una «funzione di valvola, di allarme, di controllo e di innovazione» nella società democratica.
+**N. 8** La libertà di riunione costituisce un presupposto centrale per la libera formazione della volontà democratica e per l'esercizio dei diritti politici (↔ art. 34 Cost.). Nella società democratica essa permette di dare sfogo alle tensioni, di segnalare i problemi, di controllare l'esercizio del potere e di stimolare il rinnovamento.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### 3.1 Partecipazione alla formazione della volontà (cpv. 1)
 
-**N. 5** Il concetto di «partecipazione» è formulato volutamente in modo aperto. Biaggini critica questa indeterminatezza e propende per un'interpretazione restrittiva limitata ai «mezzi di difesa collettivi». Waldmann invece sostiene un'interpretazione ampia, che spazia dall'impulso all'influenza fino alla partecipazione alla decisione.
+**N. 5** Il concetto di partecipazione è formulato volutamente in modo aperto. Biaggini critica questa indeterminatezza e propende per un'interpretazione restrittiva limitata ai mezzi di difesa collettivi. Waldmann invece sostiene un'interpretazione ampia, che spazia dall'impulso all'influenza fino alla partecipazione alla decisione.
 
 **N. 6** L'espressione «secondo i disposti della Costituzione federale» chiarisce che non vengono fondati diritti che vadano oltre i diritti di partecipazione previsti costituzionalmente. La menzione esemplificativa della legislazione («in particolare») mostra che sono comprese anche altre forme di formazione della volontà, come la pianificazione settoriale della Confederazione o le relazioni estere (→ art. 55 Cost.).
 
@@ -28,7 +28,7 @@
 
 ## 4. Conseguenze giuridiche
 
-**N. 9** L'art. 45 Cost. fonda principalmente obblighi oggettivo-giuridici della Confederazione. Secondo Biaggini il «contenuto normativo è pari a zero» per quanto riguarda l'azionabilità soggettiva. La violazione degli obblighi di informazione e consultazione può tuttavia portare a vizi procedurali che possono essere fatti valere nell'ambito di procedimenti di controllo normativo.
+**N. 9** L'art. 45 Cost. fonda principalmente obblighi oggettivo-giuridici della Confederazione. Secondo Biaggini la disposizione è priva di qualsiasi contenuto normativo per quanto riguarda l'azionabilità soggettiva. La violazione degli obblighi di informazione e consultazione può tuttavia portare a vizi procedurali che possono essere fatti valere nell'ambito di procedimenti di controllo normativo.
 
 **N. 10** L'attuazione pratica avviene principalmente a livello politico. La Conferenza dei governi cantonali (CdC) e le conferenze specializzate dei direttori cantonali svolgono un ruolo centrale. Diritti di partecipazione giuridicamente vincolanti derivano solo dalla concretizzazione in leggi speciali, ad esempio nella legge sulla consultazione (LCons) o nella legge sulla pianificazione del territorio (art. 13 cpv. 2 LPT).
 

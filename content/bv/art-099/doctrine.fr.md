@@ -18,13 +18,13 @@
 
 #### a) Souveraineté monétaire de la Confédération (al. 1)
 
-**N. 5** La compétence globale de la Confédération pour « la monnaie et le change » englobe selon la doctrine dominante la réglementation de tous les aspects de l'ordre monétaire: unité monétaire, moyens de paiement, stabilité de la valeur monétaire et relations monétaires internationales (Ehrenzeller/Nobs/Vallender, St. Galler Kommentar BV, Art. 99 N. 5–7).
+**N. 5** La compétence globale de la Confédération pour « la monnaie et le change » englobe selon la doctrine dominante la réglementation de tous les aspects de l'ordre monétaire : unité monétaire, moyens de paiement, stabilité de la valeur monétaire et relations monétaires internationales (Ehrenzeller/Nobs/Vallender, St. Galler Kommentar BV, Art. 99 N. 5–7).
 
 **N. 6** Le monopole de l'argent liquide (« à elle seule ») est absolu et exclut catégoriquement les monnaies cantonales ou privées. Une partie de la doctrine souligne que ce monopole saisit aussi les monnaies régionales et les moyens de paiement privés, dans la mesure où ils remplissent des fonctions monétaires. La délimitation par rapport aux simples unités de compte ou systèmes de bons s'effectue selon des critères fonctionnels (acceptation générale, fonction de réserve de valeur, fonction de moyen d'échange).
 
 #### b) Indépendance de la Banque nationale (al. 2)
 
-**N. 7** L'indépendance de la BNS garantie par la Constitution comprend selon la doctrine quatre dimensions: indépendance personnelle, fonctionnelle, institutionnelle et financière. Cette indépendance est selon les études empiriques une condition essentielle pour l'accomplissement réussi du mandat de stabilité des prix.
+**N. 7** L'indépendance de la BNS garantie par la Constitution comprend selon la doctrine quatre dimensions : indépendance personnelle, fonctionnelle, institutionnelle et financière. Cette indépendance est selon les études empiriques une condition essentielle pour l'accomplissement réussi du mandat de stabilité des prix.
 
 **N. 8** L'engagement dans « l'intérêt général du pays » se concrétise principalement dans le mandat légal de stabilité des prix (art. 5 al. 1 LBN), mais n'exclut pas, selon une opinion doctrinale, la prise en compte de l'évolution conjoncturelle. La BNS doit orienter sa politique de manière macroéconomique et ne peut pas poursuivre unilatéralement des intérêts particuliers.
 

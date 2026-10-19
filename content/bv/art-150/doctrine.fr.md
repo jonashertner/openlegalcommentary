@@ -12,9 +12,9 @@
 
 **N° 3** L'art. 150 Cst. se trouve dans le 5e chapitre sur les autorités fédérales et concrétise la subdivision de l'Assemblée fédérale prévue à l'art. 148 al. 2 Cst. La norme est étroitement liée à → l'art. 149 Cst. (Conseil national), les deux conseils étant égaux en droits malgré des bases de légitimation différentes (art. 148 al. 2 Cst.).
 
-**N° 4** La compétence électorale cantonale (al. 3) est l'expression de la structure étatique fédéraliste ancrée à → l'art. 3 Cst. Elle est en tension avec les prescriptions de droit fédéral sur les droits politiques (→ art. 34, → art. 39 Cst.), ce qui conduit à un ensemble normatif complexe: les cantons organisent la procédure électorale, mais doivent respecter le droit supérieur.
+**N° 4** La compétence électorale cantonale (al. 3) est l'expression de la structure étatique fédéraliste ancrée à → l'art. 3 Cst. Elle est en tension avec les prescriptions de droit fédéral sur les droits politiques (→ art. 34, → art. 39 Cst.), ce qui conduit à un ensemble normatif complexe : les cantons organisent la procédure électorale, mais doivent respecter le droit supérieur.
 
-**N° 5** L'interdiction des instructions (→ art. 161 Cst.) relativise le rattachement cantonal: les conseillers aux États sont indépendants des instructions malgré leur désignation comme « députés des cantons » (al. 1). Cette tension systématique se manifeste aussi empiriquement — Wiesli/Linder (2000, 45) démontrent que les modèles de décision des deux conseils ne diffèrent que marginalement.
+**N° 5** L'interdiction des instructions (→ art. 161 Cst.) relativise le rattachement cantonal : les conseillers aux États sont indépendants des instructions malgré leur désignation comme « députés des cantons » (al. 1). Cette tension systématique se manifeste aussi empiriquement — Wiesli/Linder (2000, 45) démontrent que les modèles de décision des deux conseils ne diffèrent que marginalement.
 
 ### 3. Éléments constitutifs / Contenu de la norme
 

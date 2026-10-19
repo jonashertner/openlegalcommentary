@@ -20,7 +20,7 @@
 
 **N. 7** **Prüfungspflicht (Abs. 1)**: Die Bundesversammlung ist verpflichtet, bei jeder gültigen Verfassungsinitiative zu prüfen, ob diese mit dem Völkerrecht vereinbar ist. Der Begriff «Völkerrecht» umfasst nach einer Lehrmeinung alle völkerrechtlichen Verpflichtungen der Schweiz, nicht nur das zwingende Völkerrecht im Sinne von → Art. 139 Abs. 3 BV.
 
-**N. 8** **Prüfungsumfang**: Die Vereinbarkeitsprüfung erstreckt sich auf völkerrechtliche Verträge, Völkergewohnheitsrecht und allgemeine Rechtsgrundsätze. In der Lehre wird betont, dass auch «soft law»-Instrumente in die Beurteilung einzubeziehen sind, soweit sie konkrete Verpflichtungen begründen.
+**N. 8** **Prüfungsumfang**: Die Vereinbarkeitsprüfung erstreckt sich auf völkerrechtliche Verträge, Völkergewohnheitsrecht und allgemeine Rechtsgrundsätze. In der Lehre wird betont, dass auch *soft law*-Instrumente in die Beurteilung einzubeziehen sind, soweit sie konkrete Verpflichtungen begründen.
 
 **N. 9** **Informationspflicht (Abs. 3)**: Stellt die Bundesversammlung eine Unvereinbarkeit fest, müssen Bundesrat und Bundesversammlung gemeinsam in den Abstimmungsunterlagen die «Bedeutung und Tragweite» einer Annahme der Initiative erläutern. Diese Information muss nach einer Lehrmeinung objektiv, vollständig und für die Stimmberechtigten verständlich sein.
 

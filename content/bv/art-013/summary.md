@@ -14,7 +14,7 @@ Das Grundrecht entstand mit der Totalrevision von 1999 aus dem Bedürfnis nach u
 
 **Brief-, Post- und Fernmeldeverkehr** schützt die vertrauliche Kommunikation unabhängig vom Medium. Dies umfasst E-Mails, SMS und Messenger-Dienste ebenso wie traditionelle Briefe.
 
-**Datenschutz** (Abs. 2) gewährleistet das Recht auf informationelle Selbstbestimmung - als «right to be let alone» nach Warren/Brandeis verstanden. Der Schutz erfasst die Erhebung, Speicherung, Verwendung und Weitergabe persönlicher Daten durch staatliche Stellen (**BGE 128 II 259 E. 3.2**).
+**Datenschutz** (Abs. 2) gewährleistet das Recht auf informationelle Selbstbestimmung - als Recht, in Ruhe gelassen zu werden, nach Warren/Brandeis verstanden. Der Schutz erfasst die Erhebung, Speicherung, Verwendung und Weitergabe persönlicher Daten durch staatliche Stellen (**BGE 128 II 259 E. 3.2**).
 
 Jeder Eingriff in Art. 13 BV bedarf einer Rechtfertigung nach Art. 36 BV: gesetzliche Grundlage, öffentliches Interesse, Verhältnismässigkeit und Wahrung des Kerngehalts. Bei besonders schützenswerten Personendaten ist eine formell-gesetzliche Grundlage erforderlich.
 

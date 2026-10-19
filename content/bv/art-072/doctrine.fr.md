@@ -12,7 +12,7 @@
 
 **N. 4** L'art. 72 Cst. figure au 3e titre sur « Confédération, cantons et communes » et règle principalement la répartition fédéraliste des compétences en droit constitutionnel religieux. Cette disposition doit être lue dans le contexte de la liberté de religion (→ art. 15 Cst.) et de l'interdiction de discriminer (→ art. 8 al. 2 Cst.). En tant que norme de compétence, elle ne fonde pas de droits subjectifs mais répartit les compétences réglementaires entre la Confédération et les cantons.
 
-**N. 5** Le rapport à l'art. 15 Cst. est central: tandis que l'art. 15 garantit la liberté de religion individuelle et collective, l'art. 72 détermine les conditions-cadres organisationnelles. La compétence cantonale selon l'art. 72 al. 1 trouve ses limites dans les droits fondamentaux, en particulier dans la liberté de religion.
+**N. 5** Le rapport à l'art. 15 Cst. est central : tandis que l'art. 15 garantit la liberté de religion individuelle et collective, l'art. 72 détermine les conditions-cadres organisationnelles. La compétence cantonale selon l'art. 72 al. 1 trouve ses limites dans les droits fondamentaux, en particulier dans la liberté de religion.
 
 **N. 6** Dans l'architecture constitutionnelle, l'art. 72 Cst. forme, avec l'art. 3 Cst. (autonomie cantonale), la base du droit suisse des rapports entre l'État et l'Église. La compétence subsidiaire de la Confédération selon l'al. 2 complète les compétences de police de sûreté de la Confédération (→ art. 57 Cst., → art. 173 al. 1 let. b Cst.).
 
@@ -30,13 +30,13 @@
 
 **N. 10** La « paix publique entre les membres des diverses communautés religieuses » est un bien juridique protégé par la police. Les deux niveaux étatiques peuvent prendre des mesures préventives et répressives « dans les limites de leurs compétences ». La norme ne fonde pas de nouvelle compétence fédérale mais clarifie les attributions existantes.
 
-**N. 11** Entrent en considération comme « mesures »: les normes pénales contre la perturbation de la liberté de croyance (art. 261 CP), les mesures de police préventives, la médiation lors de conflits ainsi que la promotion du dialogue interreligieux. Les droits fondamentaux forment la limite, en particulier la liberté de religion elle-même.
+**N. 11** Entrent en considération comme « mesures » : les normes pénales contre la perturbation de la liberté de croyance (art. 261 CP), les mesures de police préventives, la médiation lors de conflits ainsi que la promotion du dialogue interreligieux. Les droits fondamentaux forment la limite, en particulier la liberté de religion elle-même.
 
 ### 3.3 Interdiction des minarets (al. 3)
 
 **N. 12** L'interdiction de construire des minarets constitue une interdiction absolue, sans exception. Le terme « minaret » doit être compris comme la tour d'une mosquée depuis laquelle l'appel à la prière est lancé. L'interdiction ne concerne que les nouvelles constructions ; les quatre minarets existants à Genève, Winterthour, Wangen près d'Olten et Zurich bénéficient de la garantie des droits acquis.
 
-**N. 13** La doctrine est divisée sur la compatibilité avec le droit de rang supérieur. Markus Schefer voit des constellations « où les intérêts à la construction d'un minaret prévalent ». L'opinion dominante qualifie l'interdiction de violation de la liberté de religion et de l'interdiction de discriminer (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
+**N. 13** La doctrine est divisée sur la compatibilité avec le droit de rang supérieur. Markus Schefer estime qu'il existe des cas de figure dans lesquels l'intérêt à ériger un minaret l'emporte. L'opinion dominante qualifie l'interdiction de violation de la liberté de religion et de l'interdiction de discriminer (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
 
 ## 4. Conséquences juridiques
 
@@ -48,9 +48,9 @@
 
 ## 5. Points controversés
 
-**N. 17** L'obligation de respecter les droits fondamentaux des communautés religieuses reconnues de droit public est controversée. La doctrine dominante affirme une obligation complète de respecter les droits fondamentaux pour les communautés religieuses de droit public et la nie pour les communautés religieuses de droit privé. Winzeler plaide pour une voie médiane: « application retenue des droits fondamentaux envers les communautés reconnues de droit public et effet horizontal modéré envers les communautés religieuses de droit privé ».
+**N. 17** L'obligation de respecter les droits fondamentaux des communautés religieuses reconnues de droit public est controversée. La doctrine dominante affirme une obligation complète de respecter les droits fondamentaux pour les communautés religieuses de droit public et la nie pour les communautés religieuses de droit privé. Winzeler plaide pour une voie médiane : les droits fondamentaux s'appliqueraient avec retenue aux communautés reconnues de droit public et ne déploieraient qu'un effet horizontal atténué à l'égard des communautés religieuses de droit privé.
 
-**N. 18** La portée de l'autonomie organisationnelle cantonale est controversée. L'ancienne doctrine (Burckhardt) soutenait que le canton peut « décider quelle doit être l'organisation et quelle doit être la doctrine de l'Église qu'il reconnaît ». Ceci est aujourd'hui unanimement rejeté: la conception qu'une communauté religieuse a d'elle-même est « authentique, c'est-à-dire: à apprécier de manière autodéterminée, non hétérodéterminée ».
+**N. 18** La portée de l'autonomie organisationnelle cantonale est controversée. L'ancienne doctrine (Burckhardt) soutenait que le canton peut décider de l'organisation et de la doctrine de l'Église qu'il reconnaît. Ceci est aujourd'hui unanimement rejeté : la conception qu'une communauté religieuse a d'elle-même doit être appréciée telle que la communauté la définit elle-même, et non selon des critères extérieurs.
 
 **N. 19** La conformité au droit international de l'interdiction des minarets est appréciée différemment. Alors qu'une partie de la doctrine voit une violation claire des art. 9 et 14 CEDH, d'autres argumentent avec la large marge d'appréciation des États dans le domaine du droit religieux. Un arrêt de la CourEDH fait défaut, car faute de procédure de permis de construire, les voies de recours internes ne peuvent pas être épuisées.
 

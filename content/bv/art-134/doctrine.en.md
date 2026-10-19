@@ -46,7 +46,7 @@
 ### 5. Controversies
 
 **N. 12** **Interpretation of same type**: Academic opinion is split in its assessment of Federal Court case law:
-- **Biaggini** criticises the practice as «canton-friendly» or «more treasury- than citizen-friendly», because the cumulation of taxes is merely replaced by coexistence.
+- **Biaggini** criticises the practice as canton-friendly or as favouring the treasury more than the citizen, because the cumulation of taxes is merely replaced by coexistence.
 - **Behnisch** rejects the case law that focuses on financial science categories rather than legal-technical criteria. He demands that the Federal Court should abandon its «far too restrictive stance».
 - **Vallender** (StR 1997, 1 ff.) defends the Federal Court's differentiating approach as appropriate.
 

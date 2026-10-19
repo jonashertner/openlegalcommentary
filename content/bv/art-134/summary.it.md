@@ -12,4 +12,4 @@ La norma protegge i contribuenti da una doppia imposizione da parte della Confed
 
 Il divieto riguarda solo le imposte in senso proprio, non le tasse causali come tasse o oneri preferenziali (**DTF 86 I 97** consid. 2). I Cantoni possono quindi continuare a riscuotere tasse per prestazioni statali concrete, anche se la Confederazione tassa oggetti simili.
 
-Nella prassi giuridica sorgono problemi soprattutto nella delimitazione tra imposte e tasse causali nonché nella valutazione di differenze tecniche tra tributi federali e cantonali. La dottrina critica l'interpretazione restrittiva del Tribunale federale in parte come troppo "favorevole ai Cantoni".
+Nella prassi giuridica sorgono problemi soprattutto nella delimitazione tra imposte e tasse causali nonché nella valutazione di differenze tecniche tra tributi federali e cantonali. La dottrina critica l'interpretazione restrittiva del Tribunale federale in parte come troppo favorevole ai Cantoni.

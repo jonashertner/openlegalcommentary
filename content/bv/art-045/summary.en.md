@@ -12,7 +12,7 @@ All 26 cantons and the federal authorities (Federal Assembly, Federal Council, F
 
 ## What legal consequences arise?
 
-The participation rights are diverse: cantons can submit cantonal initiatives (Art. 160 FC), participate in consultation procedures (Art. 147 FC), participate in parliament through the Council of States and have a say in constitutional revisions (Art. 140 FC). However, the normative content of Art. 45 FC is disputed: Biaggini criticises that the normative content is «zero» and the concept of participation is «unfortunate». Waldmann advocates a broad interpretation ranging from providing impulses to participating in decisions.
+The participation rights are diverse: cantons can submit cantonal initiatives (Art. 160 FC), participate in consultation procedures (Art. 147 FC), participate in parliament through the Council of States and have a say in constitutional revisions (Art. 140 FC). However, the normative content of Art. 45 FC is disputed: Biaggini criticises that the normative content is zero and the concept of participation is unfortunate. Waldmann advocates a broad interpretation ranging from providing impulses to participating in decisions.
 
 ## Practical example
 

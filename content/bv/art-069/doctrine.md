@@ -20,7 +20,7 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** **Kulturbegriff**: Die Verfassung definiert den Begriff «Kultur» nicht. Nach der herrschenden Lehre ist Kultur im Sinne von Art. 69 BV in einem engen Sinn zu verstehen als «das Schaffen, Bewahren und Erforschen der schönen Künste». Diese enge Definition ist allerdings umstritten; Pfändler-Oling plädiert für einen weiteren, anthropologisch fundierten Kulturbegriff (Pfändler-Oling, Die verfassungsrechtliche Grundlage der Kulturförderung im Bund, 2010, 45ff.).
+**N. 7** **Kulturbegriff**: Die Verfassung definiert den Begriff «Kultur» nicht. Nach der herrschenden Lehre ist Kultur im Sinne von Art. 69 BV in einem engen Sinn zu verstehen, nämlich als künstlerische Tätigkeit in den schönen Künsten samt deren Erhaltung und Erforschung. Diese enge Definition ist allerdings umstritten; Pfändler-Oling plädiert für einen weiteren, anthropologisch fundierten Kulturbegriff (Pfändler-Oling, Die verfassungsrechtliche Grundlage der Kulturförderung im Bund, 2010, 45ff.).
 
 **N. 8** **Kantonale Zuständigkeit (Abs. 1)**: Die Kantone sind für den Bereich der Kultur primär zuständig. Diese Kompetenz umfasst die gesamte Kulturpolitik einschliesslich Gesetzgebung, Vollzug und Finanzierung. Die kantonale Kulturhoheit ist umfassend und bedarf keiner besonderen verfassungsrechtlichen Ermächtigung (Biaggini, BV Kommentar, Art. 69 N. 2).
 
@@ -34,7 +34,7 @@
 
 **N. 12** Art. 69 BV begründet eine Kompetenznorm, nicht aber subjektive Ansprüche auf Kulturförderung. **JAAC 68.15** E. 4.1 bestätigt, dass auch bei Erfüllung der Fördervoraussetzungen kein Rechtsanspruch auf Finanzhilfen besteht. Die fakultative Formulierung («kann») räumt dem Bund einen erheblichen Ermessensspielraum ein.
 
-**N. 13** Die Bundeskompetenz nach Abs. 2 ist als konkurrierende Kompetenz mit Vorrang der Kantone ausgestaltet. Der Bund darf nur subsidiär tätig werden und muss das gesamtschweizerische Interesse nachweisen. Biaggini betont, dass die Bundeskompetenz «aufgrund der Voraussetzung des gesamtschweizerischen Interesses als weniger weitgehend als diejenige der Kantone zu betrachten» sei.
+**N. 13** Die Bundeskompetenz nach Abs. 2 ist als konkurrierende Kompetenz mit Vorrang der Kantone ausgestaltet. Der Bund darf nur subsidiär tätig werden und muss das gesamtschweizerische Interesse nachweisen. Biaggini betont, dass die Bundeskompetenz wegen des Erfordernisses eines gesamtschweizerischen Interesses weniger weit reiche als jene der Kantone.
 
 **N. 14** Das Rücksichtnahmegebot nach Abs. 3 hat programmartigen Charakter, verpflichtet aber alle Bundesorgane bei der Rechtsetzung und beim Vollzug. Es kann als Auslegungshilfe und bei der Interessenabwägung herangezogen werden (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N. 3842).
 
@@ -42,7 +42,7 @@
 
 **N. 15** **Definition des gesamtschweizerischen Interesses**: Ein zentraler Streitpunkt betrifft die Auslegung des «gesamtschweizerischen Interesses». Christen/Raschèr/Tribolet fordern eine Ausstrahlung über die regionale Verwurzelung hinaus (AJP 2001, 1035, 1042). Schmidt-Gabain hält dagegen, dass auch lokal verankerte Kulturbestrebungen im Interesse der kulturellen Vielfalt der Schweiz von gesamtschweizerischem Interesse sein können. Diese Kontroverse hat direkte Auswirkungen auf die Förderpraxis des Bundes.
 
-**N. 16** **Förderkriterien versus aleatorische Kunstförderung**: Ein fundamentaler Dissens besteht bei den Förderkriterien. Uhlmann/Bognuda plädieren für eine strenge Selektion mit klaren Kriterien, da «Kunst nicht mit der Giesskanne gefördert werden» dürfe (ZSR 2008 I 363, 376). Schmidt-Gabain vertritt die Gegenposition und argumentiert, eine aleatorische (zufallsbasierte) Kulturförderung sei mit der Kunstfreiheit und Rechtsgleichheit besser vereinbar, da die Kunst dann «endlich wieder frei wäre, die angeblichen Kriterien ihrer Förderung zu ignorieren». Baumann und Depenheuer haben die theoretischen Grundlagen einer Zufallsverteilung erörtert (Baumann, SJZ 2003, 621; Depenheuer, JZ 1993, 171).
+**N. 16** **Förderkriterien versus aleatorische Kunstförderung**: Ein fundamentaler Dissens besteht bei den Förderkriterien. Uhlmann/Bognuda plädieren für eine strenge Selektion mit klaren Kriterien, da «Kunst nicht mit der Giesskanne gefördert werden» dürfe (ZSR 2008 I 363, 376). Schmidt-Gabain vertritt die Gegenposition und argumentiert, eine aleatorische (zufallsbasierte) Kulturförderung sei mit der Kunstfreiheit und Rechtsgleichheit besser vereinbar, da die Kunst sich dann nicht länger nach vermeintlichen Förderkriterien richten müsste. Baumann und Depenheuer haben die theoretischen Grundlagen einer Zufallsverteilung erörtert (Baumann, SJZ 2003, 621; Depenheuer, JZ 1993, 171).
 
 **N. 17** **Umfang der Bundeskompetenz**: Die Reichweite der Bundesförderung ist umstritten. Eine restriktive Auslegung betont die subsidiäre Rolle des Bundes und will dessen Tätigkeit auf wenige, klar definierte Bereiche beschränken. Die extensive Auslegung sieht in der offenen Formulierung eine bewusste Flexibilität für zeitgemässe Kulturpolitik (Uhlmann/Raschèr/Reichenau, Kulturförderung, in: Mosimann/Renold/Raschèr, Kultur Kunst Recht, 2009, 141, 156).
 

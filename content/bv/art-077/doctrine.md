@@ -52,7 +52,7 @@
 
 **N. 17** Kontrovers diskutiert wird die zulässige Regelungsdichte bei Grundsatzgesetzgebungskompetenzen. **Rausch/Marti/Griffel** (Umweltrecht, 142) vertreten eine restriktive Auslegung: Der Bund dürfe nur Rahmenvorschriften erlassen. **Keller** (Volksinitiative «Rettet den Schweizer Wald», 23) plädiert für eine weitere Auslegung angesichts der nationalen Bedeutung des Waldschutzes.
 
-**N. 18** Besonders umstritten ist der dynamische Waldbegriff des WaG. **Hoffmann/Griffel** kritisieren, dass der Bundesgesetzgeber den Kantonen «plein pouvoir» zur Ersetzung durch den statischen Waldbegriff einräumte, ohne einschränkende Kriterien zu formulieren. **Jaissle** (Der dynamische Waldbegriff, 187 ff.) verteidigt die Flexibilität als notwendig für die kantonale Raumplanung.
+**N. 18** Besonders umstritten ist der dynamische Waldbegriff des WaG. **Hoffmann/Griffel** kritisieren, dass der Bundesgesetzgeber den Kantonen eine unbeschränkte Befugnis zur Ersetzung durch den statischen Waldbegriff einräumte, ohne einschränkende Kriterien zu formulieren. **Jaissle** (Der dynamische Waldbegriff, 187 ff.) verteidigt die Flexibilität als notwendig für die kantonale Raumplanung.
 
 ### Verhältnis zu internationalen Verpflichtungen
 

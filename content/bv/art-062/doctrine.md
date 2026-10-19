@@ -29,7 +29,7 @@
 - Übergänge zwischen den Stufen
 - Anerkennung von Abschlüssen
 
-Biaggini qualifiziert diese Kompetenz als «bedingt konkurrierend», während Ehrenzeller/Schott die primäre Verantwortung bei den Kantonen sehen und die Bundeskompetenz als subsidiär einstufen.
+Biaggini qualifiziert diese Kompetenz als *bedingt konkurrierend*, während Ehrenzeller/Schott die primäre Verantwortung bei den Kantonen sehen und die Bundeskompetenz als subsidiär einstufen.
 
 ### 4. Rechtsfolgen
 
@@ -53,7 +53,7 @@ Biaggini qualifiziert diese Kompetenz als «bedingt konkurrierend», während Eh
 
 **N. 15** **Normcharakter von Art. 62 Abs. 3**: Ein bedeutender Streitstand besteht bezüglich der Rechtsnatur der Sonderschulungspflicht. Skeptische Stimmen in der Lehre sehen in Abs. 3 lediglich einen Verfassungsauftrag ohne einklagbaren Individualanspruch. Andere Lehrmeinungen (Kälin/Künzli, in Wyttenbach/Kälin, AJP 2005, 1278) bejahen einen unmittelbar durchsetzbaren Rechtsanspruch des behinderten Kindes. Das Bundesgericht tendiert zur Anerkennung eines justiziablen Anspruchs, betont aber den weiten kantonalen Gestaltungsspielraum (**BGE 138 I 162**).
 
-**N. 16** **Verhältnis Bund-Kantone bei der Harmonisierung**: Ein Teil der Lehre betont die primäre kantonale Verantwortung und sieht die Bundeskompetenz als ultima ratio. Ein anderer Teil der Lehre qualifiziert die Kompetenz als «bedingt konkurrierend» und räumt dem Bund grösseren Spielraum ein. Die Praxis zeigt, dass der Bund bisher zurückhaltend agiert und primär auf die interkantonale Zusammenarbeit (HarmoS-Konkordat) setzt.
+**N. 16** **Verhältnis Bund-Kantone bei der Harmonisierung**: Ein Teil der Lehre betont die primäre kantonale Verantwortung und sieht die Bundeskompetenz als ultima ratio. Ein anderer Teil der Lehre qualifiziert die Kompetenz als *bedingt konkurrierend* und räumt dem Bund grösseren Spielraum ein. Die Praxis zeigt, dass der Bund bisher zurückhaltend agiert und primär auf die interkantonale Zusammenarbeit (HarmoS-Konkordat) setzt.
 
 ### 6. Praxishinweise
 

@@ -52,7 +52,7 @@
 
 **N. 17** È dibattuta controversamente la densità regolatoria ammissibile nelle competenze legislative di principi. **Rausch/Marti/Griffel** (Umweltrecht, 142) rappresentano un'interpretazione restrittiva: la Confederazione potrebbe emanare solo prescrizioni quadro. **Keller** (Volksinitiative «Rettet den Schweizer Wald», 23) propugna un'interpretazione più ampia considerata l'importanza nazionale della protezione del bosco.
 
-**N. 18** Particolarmente controverso è il concetto dinamico di bosco della LFo. **Hoffmann/Griffel** criticano che il legislatore federale abbia accordato ai Cantoni un «plein pouvoir» per la sostituzione con il concetto statico di bosco, senza formulare criteri limitativi. **Jaissle** (Der dynamische Waldbegriff, 187 ss.) difende la flessibilità come necessaria per la pianificazione territoriale cantonale.
+**N. 18** Particolarmente controverso è il concetto dinamico di bosco della LFo. **Hoffmann/Griffel** criticano che il legislatore federale abbia accordato ai Cantoni pieni poteri per la sostituzione con il concetto statico di bosco, senza formulare criteri limitativi. **Jaissle** (Der dynamische Waldbegriff, 187 ss.) difende la flessibilità come necessaria per la pianificazione territoriale cantonale.
 
 ### Rapporto con gli obblighi internazionali
 

@@ -36,7 +36,7 @@
 
 **N. 12** The construction ban for minarets represents an absolute, exceptionless prohibition. The term «minaret» is to be understood as a tower of a mosque from which the call to prayer is made. The ban only covers new constructions; the four existing minarets in Geneva, Winterthur, Wangen bei Olten and Zurich enjoy legal protection of existing use.
 
-**N. 13** Doctrine is divided on compatibility with higher-ranking law. Markus Schefer sees constellations «where the interests in building a minaret predominate». The prevailing opinion qualifies the ban as a violation of religious freedom and the prohibition of discrimination (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
+**N. 13** Doctrine is divided on compatibility with higher-ranking law. Markus Schefer sees constellations in which the interest in building a minaret outweighs the opposing interests. The prevailing opinion qualifies the ban as a violation of religious freedom and the prohibition of discrimination (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
 
 ## 4. Legal Consequences
 
@@ -48,9 +48,9 @@
 
 ## 5. Disputes
 
-**N. 17** The fundamental rights obligation of publicly recognised religious communities is disputed. Prevailing doctrine affirms a full fundamental rights obligation for public-law and denies it for private-law religious communities. Winzeler advocates for a middle way: «restrained application of fundamental rights towards publicly recognised and moderately applied third-party effect towards private-law religious communities».
+**N. 17** The fundamental rights obligation of publicly recognised religious communities is disputed. Prevailing doctrine affirms a full fundamental rights obligation for public-law and denies it for private-law religious communities. Winzeler advocates for a middle way: fundamental rights should be applied with restraint to publicly recognised religious communities, while private-law religious communities should be subject to a moderate third-party effect.
 
-**N. 18** The scope of cantonal organisational autonomy is controversial. Earlier doctrine (Burckhardt) held that the canton could «decide what the organisation and what the doctrine of the church recognised by it should be». This is today unanimously rejected: The self-understanding of a religious community is «authentic, meaning: to be assessed self-determined, not externally determined».
+**N. 18** The scope of cantonal organisational autonomy is controversial. Earlier doctrine (Burckhardt) held that the canton could determine both the organisation and the doctrine of the church it recognised. This is today unanimously rejected: The self-understanding of a religious community is authentic, which means that it must be assessed according to the community's own determination and not by standards imposed from outside.
 
 **N. 19** The international law conformity of the minaret ban is assessed differently. While parts of doctrine see a clear violation of Art. 9 and 14 ECHR, others argue with the wide margin of discretion of states in the religious law area. An ECtHR judgment is pending, since the domestic legal remedies cannot be exhausted due to lack of building permit procedures.
 

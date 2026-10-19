@@ -32,7 +32,7 @@
 
 **Ch. 10** **Portée de la compétence fédérale après Schengen :** Un point controversé concerne la question de savoir si la Confédération a outrepassé ses compétences avec la reprise du droit de Schengen sur les armes. Certains auteurs soutiennent que la Confédération a épuisé ou même outrepassé ses compétences seulement fragmentaires, limitées à la lutte contre les abus. Künzli objecte que cette conception semble au moins douteuse, car la législation suisse sur les armes continue de partir du principe du droit d'acquérir, de posséder et de porter des armes.
 
-**Ch. 11** **Restrictions du droit de la neutralité :** La portée des restrictions du droit de la neutralité pour les exportations d'armements privées est controversée. La position officielle de la Suisse indique que cette restriction ne vaut que pour les livraisons étatiques. Künzli critique cette position: étant donné qu'aujourd'hui les États soumettent également les exportations d'armements privées à une obligation d'autorisation et possèdent ainsi le droit de décision finale sur l'admissibilité d'une affaire étrangère avec des armes, cette conception ne peut plus convaincre.
+**Ch. 11** **Restrictions du droit de la neutralité :** La portée des restrictions du droit de la neutralité pour les exportations d'armements privées est controversée. La position officielle de la Suisse indique que cette restriction ne vaut que pour les livraisons étatiques. Künzli critique cette position : étant donné qu'aujourd'hui les États soumettent également les exportations d'armements privées à une obligation d'autorisation et possèdent ainsi le droit de décision finale sur l'admissibilité d'une affaire étrangère avec des armes, cette conception ne peut plus convaincre.
 
 ### 6. Indications pratiques
 

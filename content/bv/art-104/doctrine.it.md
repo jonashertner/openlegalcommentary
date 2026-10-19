@@ -51,7 +51,7 @@
 
 ## 5. Controversie
 
-**N. 17** **Portata della multifunzionalità**: Ehrenzeller et al. (St. Galler Kommentar BV, Art. 104 n. 9) sottolineano l'equivalenza di tutte e tre le funzioni. Waldmann et al. vedono invece una precedenza della funzione produttiva, poiché solo una «produzione orientata al mercato» può adempiere le altre funzioni. La prassi del Tribunale federale tende a una considerazione equilibrata (**2C_397/2021 consid. 4.1**).
+**N. 17** **Portata della multifunzionalità**: Ehrenzeller et al. (St. Galler Kommentar BV, Art. 104 n. 9) sottolineano l'equivalenza di tutte e tre le funzioni. Waldmann et al. vedono invece una precedenza della funzione produttiva, poiché solo una produzione orientata al mercato può adempiere le altre funzioni. La prassi del Tribunale federale tende a una considerazione equilibrata (**2C_397/2021 consid. 4.1**).
 
 **N. 18** **Compatibilità con il diritto OMC**: Müller (in: Ehrenzeller et al., St. Galler Kommentar BV, Art. 104 n. 24) vede i pagamenti diretti come conformi alla «green box». Cottier/Oesch (Internationales Wirtschaftsrecht, 2ª ed. 2019, p. 456) mettono in guardia da elementi protezionistici che potrebbero essere contrari all'OMC. Il Tribunale federale ha finora lasciato aperta questa questione.
 

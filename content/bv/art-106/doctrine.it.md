@@ -18,11 +18,11 @@
 
 ## 3. Elementi di fattispecie / Contenuto normativo
 
-**N. 7** Secondo Oesch, l'art. 106 cpv. 1 Cost. è «al contempo norma di competenza e di mandato e fonda una competenza vincolante e globale della Confederazione nell'intero ambito dei giochi in denaro». Il concetto di «giochi in denaro» deve essere inteso in senso ampio e comprende tutti i giochi nei quali, contro una posta in gioco di valore pecuniario, si prospetta una vincita in denaro.
+**N. 7** Secondo Oesch, l'art. 106 cpv. 1 Cost. costituisce sia una norma di competenza sia una norma di mandato e conferisce alla Confederazione una competenza vincolante e globale sull'intero settore dei giochi in denaro. Il concetto di «giochi in denaro» deve essere inteso in senso ampio e comprende tutti i giochi nei quali, contro una posta in gioco di valore pecuniario, si prospetta una vincita in denaro.
 
 **N. 8** La considerazione degli interessi cantonali (cpv. 1) non è meramente programmatica, ma un mandato vincolante. Il Tribunale federale ha stabilito in **DTF 135 II 338 consid. 6.3** che questo obbligo ha conseguenze concrete sulla configurazione della legislazione federale, in particolare riguardo all'utilizzazione dei proventi.
 
-**N. 9** Il sistema concessorio per le case da gioco (cpv. 2) è configurato in modo vincolante. Le condizioni regionali devono essere considerate, il che implica una distribuzione geografica uniforme delle case da gioco. La tassa sulle case da gioco è vincolata a scopi specifici per l'AVS/AI. Oesch critica la prassi vigente, secondo cui solo l'AVS, ma non l'AI, beneficia delle tasse sulle case da gioco, come «bisognosa di spiegazione alla luce del chiaro tenore letterale dell'art. 106 cpv. 2 frase 3».
+**N. 9** Il sistema concessorio per le case da gioco (cpv. 2) è configurato in modo vincolante. Le condizioni regionali devono essere considerate, il che implica una distribuzione geografica uniforme delle case da gioco. La tassa sulle case da gioco è vincolata a scopi specifici per l'AVS/AI. Oesch critica la prassi vigente, secondo cui solo l'AVS, ma non l'AI, beneficia delle tasse sulle case da gioco, come tale da richiedere una giustificazione, visto il chiaro tenore letterale dell'art. 106 cpv. 2 frase 3.
 
 **N. 10** Le competenze cantonali (cpv. 3) sono elencate in modo esaustivo. L'eccezione per i sistemi jackpot delle case da gioco mostra l'intreccio degli ambiti di competenza. Il Tribunale federale ha chiarito in **DTF 141 II 262 consid. 2.2** che i Cantoni possono esercitare le loro competenze solo nel quadro delle prescrizioni del diritto federale.
 
@@ -30,13 +30,13 @@
 
 **N. 11** La conseguenza giuridica primaria è la competenza legislativa globale della Confederazione, unita a un obbligo legislativo. Questo obbligo è stato adempiuto con la Legge sui giochi in denaro del 29 settembre 2017 (LGD), entrata in vigore il 1° gennaio 2019.
 
-**N. 12** Per gli operatori economici risulta dall'art. 106 Cost. in combinato disposto con l'art. 94 cpv. 4 Cost. che non sussiste alcun diritto al libero accesso al mercato. Prassi e dottrina riconoscono un'«autorizzazione tacita a derogare, se necessario, al principio della libertà economica».
+**N. 12** Per gli operatori economici risulta dall'art. 106 Cost. in combinato disposto con l'art. 94 cpv. 4 Cost. che non sussiste alcun diritto al libero accesso al mercato. Prassi e dottrina riconoscono che l'art. 106 Cost. autorizza tacitamente a derogare, ove necessario, al principio della libertà economica.
 
 **N. 13** Il vincolo di destinazione dei proventi è costituzionalmente vincolante. Le tasse sulle case da gioco devono beneficiare integralmente all'AVS/AI, mentre i proventi netti dei giochi di grande sorte devono essere utilizzati per scopi di utilità pubblica. Un utilizzo per scopi statali generali è inammissibile.
 
 ## 5. Punti controversi
 
-**N. 14** Un punto controverso centrale riguarda la costituzionalità della monopolizzazione del settore delle lotterie. Oesch constata: «La monopolizzazione del settore delle lotterie a favore di Swisslos e della Loterie Romande sembra non priva di problemi alla luce della libertà economica». Questa critica è tuttavia relativizzata dall'interpretazione estensiva dell'art. 94 cpv. 4 Cost. da parte del Tribunale federale.
+**N. 14** Un punto controverso centrale riguarda la costituzionalità della monopolizzazione del settore delle lotterie. Oesch ritiene che la monopolizzazione del settore delle lotterie a favore di Swisslos e della Loterie Romande non sia esente da problemi sotto il profilo della libertà economica. Questa critica è tuttavia relativizzata dall'interpretazione estensiva dell'art. 94 cpv. 4 Cost. da parte del Tribunale federale.
 
 **N. 15** È anche controverso l'utilizzo della tassa sulle case da gioco. La prassi secondo cui solo l'AVS, ma non l'AI, beneficia delle tasse sulle case da gioco è in tensione con il testo costituzionale. Nel 2012 sono affluiti CHF 319 milioni nel fondo di compensazione dell'AVS, mentre l'AI è rimasta a mani vuote.
 

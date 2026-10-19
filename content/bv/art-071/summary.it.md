@@ -4,7 +4,7 @@
 
 L'art. 71 Cost. autorizza la Confederazione a promuovere la produzione cinematografica e la cultura cinematografica svizzere. Questa disposizione costituzionale è stata introdotta ex novo nel 1999 e va oltre la competenza culturale generale (Messaggio su una nuova Costituzione federale, FF 1997 I 241 seg.). Essa attribuisce alla Confederazione due competenze diverse: la promozione della produzione cinematografica e della cultura cinematografica (capoverso 1) nonché la regolamentazione dell'offerta cinematografica (capoverso 2).
 
-Il **concetto di film** comprende opere audiovisive indipendentemente dal supporto. La legge sul cinema definisce concretamente: «una sequenza di immagini o di immagini e suoni» fissata su un supporto e proiettabile con mezzi tecnici (art. 2 LCin). Sono esclusi i film pubblicitari e le pure produzioni televisive (art. 16 LCin).
+Il **concetto di film** comprende opere audiovisive indipendentemente dal supporto. La legge sul cinema definisce concretamente il film come una sequenza di immagini, con o senza suono, fissata su un supporto e proiettabile con mezzi tecnici (art. 2 LCin). Sono esclusi i film pubblicitari e le pure produzioni televisive (art. 16 LCin).
 
 La **competenza promozionale** è configurata come «disposizione facoltativa» — la Confederazione non deve promuovere, ma può farlo. La prassi dimostra: non esiste alcun diritto alla promozione cinematografica (TF sentenza 2C_614/2015). La promozione avviene mediante contributi selettivi, premi al successo e aiuti strutturali secondo la legge sul cinema (art. 4–15 LCin).
 

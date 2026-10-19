@@ -20,7 +20,7 @@
 - Delinquenti sessuali e della violenza estremamente pericolosi
 - Autori classificati come permanentemente non curabili
 
-La formulazione «fino alla fine della loro vita» esclude categoricamente ogni liberazione anticipata. Il Tribunale federale interpreta «permanentemente non curabile» come incurabilità a vita (DTF 140 IV 1 consid. 3).
+La previsione di un internamento a vita esclude categoricamente ogni liberazione anticipata. Il Tribunale federale interpreta la non curabilità permanente come incurabilità a vita (DTF 140 IV 1 consid. 3).
 
 **N. 7** **Capoverso 2** disciplina l'unica eccezione: una liberazione è possibile soltanto se nuove conoscenze scientifiche dimostrano che l'autore può essere guarito e non rappresenta più alcun pericolo. L'autorità che ordina una tale liberazione risponde delle recidive secondo → art. 41 seg. CO.
 

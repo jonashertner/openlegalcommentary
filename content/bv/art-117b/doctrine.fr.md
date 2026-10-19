@@ -42,7 +42,7 @@
 
 ### 5. Controverses
 
-**N. 16** **Portée de la compétence fédérale**: Dans la doctrine, la portée de la compétence fédérale selon l'art. 117b Cst. est controversée. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3e éd. 2016, § 64 n. 2876) défendent une interprétation restrictive selon laquelle la Confédération ne peut édicter que des réglementations ponctuelles. À l'inverse, une partie de la doctrine plaide pour une interprétation plus large accordant à la Confédération des compétences réglementaires étendues dans le domaine des soins.
+**N. 16** **Portée de la compétence fédérale** : Dans la doctrine, la portée de la compétence fédérale selon l'art. 117b Cst. est controversée. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3e éd. 2016, § 64 n. 2876) défendent une interprétation restrictive selon laquelle la Confédération ne peut édicter que des réglementations ponctuelles. À l'inverse, une partie de la doctrine plaide pour une interprétation plus large accordant à la Confédération des compétences réglementaires étendues dans le domaine des soins.
 
 **N. 17** **Rapport à l'art. 117a Cst.** : Le rapport aux soins médicaux de base fait l'objet d'une discussion controversée. Alors qu'Ehrenzeller/Schindler (St. Galler Kommentar BV, 4e éd. 2023, art. 117b n. 8) exigent une délimitation claire, d'autres auteurs voient les soins infirmiers comme partie intégrante des soins de base, ce qui conduit à des chevauchements de compétences.
 

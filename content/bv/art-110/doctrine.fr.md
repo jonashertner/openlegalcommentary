@@ -6,7 +6,7 @@
 
 **Ch. 2** La révision totale de la Constitution fédérale de 1999 reprit le contenu normatif de l'art. 34ter ancienne Constitution en grande partie inchangé (FF 1997 I 1, 278 s.). Toutefois, l'art. 110 al. 3 Cst. fut nouvellement ajouté, qui inscrit le 1er août comme jour férié fédéral payé. Cet ajout remonte à l'initiative populaire « pour un jour férié fédéral chômé », qui fut acceptée en 1993 (FF 1991 III 269 ; FF 1993 II 1305).
 
-**Ch. 3** L'évolution de l'histoire constitutionnelle montre que la protection des travailleurs fut développée progressivement: de la loi ponctuelle sur les fabriques de 1877 aux articles économiques de 1947 jusqu'à la compétence fédérale complète actuelle. Tschudi souligne que la norme constitutionnelle confère à la Confédération non seulement une habilitation, mais un mandat d'édicter des prescriptions de protection des travailleurs.
+**Ch. 3** L'évolution de l'histoire constitutionnelle montre que la protection des travailleurs fut développée progressivement : de la loi ponctuelle sur les fabriques de 1877 aux articles économiques de 1947 jusqu'à la compétence fédérale complète actuelle. Tschudi souligne que la norme constitutionnelle confère à la Confédération non seulement une habilitation, mais un mandat d'édicter des prescriptions de protection des travailleurs.
 
 ### 2. Classement systématique
 
@@ -20,7 +20,7 @@
 
 **Ch. 7** **Protection des travailleurs (al. 1 let. a)** : La compétence comprend toutes les mesures de protection de l'intégrité physique et psychique des travailleuses et travailleurs. Cela inclut le temps de travail, la protection de la santé, la protection contre les licenciements et les normes de protection particulières pour les jeunes et les femmes enceintes. La loi sur le travail (LTr) constitue la mise en œuvre centrale de cette compétence.
 
-**Ch. 8** **Droit collectif du travail (al. 1 let. b)**: La disposition permet la réglementation du partenariat social. La portée est controversée: Cardinaux nie une base pour la codétermination entrepreneuriale, car le souverain a refusé les projets correspondants et une telle atteinte à la propriété et à la liberté économique exigerait une base constitutionnelle plus claire. Eichenberger affirme au contraire la possibilité d'une codétermination plus étendue au niveau de l'entreprise.
+**Ch. 8** **Droit collectif du travail (al. 1 let. b)** : La disposition permet la réglementation du partenariat social. La portée est controversée : Cardinaux nie une base pour la codétermination entrepreneuriale, car le souverain a refusé les projets correspondants et une telle atteinte à la propriété et à la liberté économique exigerait une base constitutionnelle plus claire. Eichenberger affirme au contraire la possibilité d'une codétermination plus étendue au niveau de l'entreprise.
 
 **Ch. 9** **Placement de main-d'œuvre (al. 1 let. c)** : La compétence saisit le placement public et privé de main-d'œuvre ainsi que le prêt de personnel. La loi sur le placement (LSE) règle les obligations d'autorisation et les dispositions de protection pour les travailleurs placés et prêtés.
 
@@ -38,7 +38,7 @@
 
 ### 5. Points de controverse
 
-**Ch. 15** **Portée de la codétermination**: La doctrine est divisée sur la portée de l'art. 110 al. 1 let. b Cst. Cardinaux rejette une base constitutionnelle pour une véritable codétermination d'entreprise et se réfère au refus d'initiatives correspondantes par le souverain ainsi qu'à la grave atteinte à la propriété et à la liberté économique. Eichenberger voit au contraire dans la formulation « réglementation commune des affaires d'entreprise et professionnelles » une base suffisante pour des droits de codétermination plus étendus.
+**Ch. 15** **Portée de la codétermination** : La doctrine est divisée sur la portée de l'art. 110 al. 1 let. b Cst. Cardinaux rejette une base constitutionnelle pour une véritable codétermination d'entreprise et se réfère au refus d'initiatives correspondantes par le souverain ainsi qu'à la grave atteinte à la propriété et à la liberté économique. Eichenberger voit au contraire dans la formulation « réglementation commune des affaires d'entreprise et professionnelles » une base suffisante pour des droits de codétermination plus étendus.
 
 **Ch. 16** **Indemnisation des jours fériés** : Il était longtemps controversé de savoir si l'art. 110 al. 3 Cst. ne s'appliquait qu'aux salariés mensuels ou aussi aux salariés à l'heure. Le Tribunal fédéral a clarifié que le droit salarial constitutionnel vaut pour tous les travailleurs, pour autant que le 1er août tombe un jour de travail (**ATF 136 I 290** consid. 3). Streiff/von Kaenel/Rudolph critiquent cette restriction comme trop étroite (Arbeitsvertrag, ch. 4 ad art. 329 CO).
 

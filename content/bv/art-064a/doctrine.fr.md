@@ -20,7 +20,7 @@
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 7** **Principes concernant la formation continue (al. 1) :** Selon sa prise de position sur le rapport CSEC-CN, le Conseil fédéral a concrétisé l'obligation de fixer des principes sous la forme de cinq principes: responsabilité, qualité, perméabilité, reconnaissance des acquis de formation et égalité des chances.
+**N. 7** **Principes concernant la formation continue (al. 1) :** Selon sa prise de position sur le rapport CSEC-CN, le Conseil fédéral a concrétisé l'obligation de fixer des principes sous la forme de cinq principes : responsabilité, qualité, perméabilité, reconnaissance des acquis de formation et égalité des chances.
 
 **N. 8** **Notion de formation continue :** La notion englobe la « formation non formelle » (formation structurée en dehors de la formation formelle) et l'« apprentissage informel » (apprentissage non structuré au quotidien). La formation formelle du degré secondaire II et du degré tertiaire ne relève pas de l'art. 64a Cst., mais de → l'art. 63 Cst. et → l'art. 63a Cst. (Biaggini, Komm. BV, Art. 64a N. 3).
 

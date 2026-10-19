@@ -18,7 +18,7 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** Art. 130 Abs. 1 BV definiert die Mehrwertsteuer als allgemeine Verbrauchssteuer nach dem System der Netto-Allphasensteuer mit Vorsteuerabzug. In der Lehre wird sie als «Bruttoallphasensteuer mit Vorsteuerabzug» charakterisiert. Steuergegenstand sind Lieferungen von Gegenständen, Dienstleistungen einschliesslich Eigenverbrauch sowie Einfuhren.
+**N. 7** Art. 130 Abs. 1 BV definiert die Mehrwertsteuer als allgemeine Verbrauchssteuer nach dem System der Netto-Allphasensteuer mit Vorsteuerabzug. In der Lehre wird sie als *Bruttoallphasensteuer mit Vorsteuerabzug* charakterisiert. Steuergegenstand sind Lieferungen von Gegenständen, Dienstleistungen einschliesslich Eigenverbrauch sowie Einfuhren.
 
 **N. 8** Der verfassungsrechtliche Steuersatzkorridor legt verbindliche Grenzen fest: Der Normalsatz darf 6,5% nicht überschreiten (derzeit 8,1% mit allen Zuschlägen gemäss Art. 25 Abs. 1 MWSTG), der reduzierte Satz muss mindestens 2,0% betragen (derzeit 2,6% gemäss Art. 25 Abs. 2 lit. a MWSTG). Für Beherbergungsleistungen sieht Abs. 2 einen Sondersatz zwischen dem reduzierten und dem Normalsatz vor (derzeit 3,8% gemäss Art. 25 Abs. 2 lit. b MWSTG).
 
@@ -34,11 +34,11 @@
 
 ### 5. Streitstände
 
-**N. 13** Die rechtliche Natur der Mehrwertsteuer ist in der Doktrin umstritten. Während ein Teil der Lehre von einer «Bruttoallphasensteuer mit Vorsteuerabzug» spricht, qualifizieren Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) sie als «impôt général sur la consommation». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2. Aufl. 2012, 645) betont den Charakter als «indirekte Steuer».
+**N. 13** Die rechtliche Natur der Mehrwertsteuer ist in der Doktrin umstritten. Während ein Teil der Lehre von einer *Bruttoallphasensteuer mit Vorsteuerabzug* spricht, qualifizieren Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) sie als «impôt général sur la consommation». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2. Aufl. 2012, 645) betont den Charakter als «indirekte Steuer».
 
 **N. 14** Die Justiziabilität der Teilzweckbindung nach Abs. 4 ist kontrovers. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N. 3687) vertreten die Position, dass sich aus der Norm ein durchsetzbarer Anspruch der Kantone ableiten lasse. Blumenstein/Locher (System des Schweizerischen Steuerrechts, 6. Aufl. 2002, 325) sehen dagegen nur eine politische Verpflichtung des Bundes.
 
-**N. 15** Ein Teil der Lehre kritisiert die «Systemmängel» des Mehrwertsteuerrechts, insbesondere die «fehleranfällige Komplexität» und die «mangelhafte Umsetzung durch die ESTV». Diese Kritik wurde teilweise im Spori-Bericht (Bericht des Beauftragten P. Spori in Sachen Mehrwertsteuerreform, 2006, 23 ff.) aufgenommen, führte aber nicht zu einer grundlegenden Systemänderung.
+**N. 15** Ein Teil der Lehre kritisiert die Systemmängel des Mehrwertsteuerrechts, insbesondere die fehleranfällige Komplexität und die mangelhafte Umsetzung durch die ESTV. Diese Kritik wurde teilweise im Spori-Bericht (Bericht des Beauftragten P. Spori in Sachen Mehrwertsteuerreform, 2006, 23 ff.) aufgenommen, führte aber nicht zu einer grundlegenden Systemänderung.
 
 **N. 16** Die verfassungsrechtliche Zulässigkeit von Steuer-Rulings im MWST-Bereich wird unterschiedlich beurteilt. Baumgartner (Möglichkeiten und Grenzen von Steuer-Rulings, in: Mäusli-Allenspach/Beusch, 2013, 201 f.) bejaht diese unter Berufung auf → Art. 5 Abs. 3 BV (Treu und Glauben). Geiger/Schluckebier (MWSTG Kommentar, 2012, Art. 69 N. 8) sehen verfassungsrechtliche Grenzen bei systemwidrigen Auskünften.
 

@@ -22,7 +22,7 @@
 
 **N. 7** **Dérogation à la liberté économique (al. 3)** : L'habilitation se rapporte à trois secteurs économiques : le système monétaire et du crédit, l'économie extérieure et les finances publiques. Le critère de nécessité (« au besoin ») souligne le caractère exceptionnel de telles interventions. La doctrine dominante interprète cette disposition de manière restrictive et exige une mise en danger immédiate de la stabilité économique (Müller/Schefer, Grundrechte in der Schweiz, 4e éd. 2008, p. 982).
 
-**N. 8** **Politique fiscale anticyclique (al. 4)**: La norme oblige tous les niveaux étatiques à une conduite budgétaire adaptée à la conjoncture. En période de haute conjoncture, les budgets publics doivent être menés de manière restrictive, en récession de manière expansive. Cette obligation se trouve en tension avec le frein à l'endettement selon → l'art. 126 Cst..
+**N. 8** **Politique fiscale anticyclique (al. 4)** : La norme oblige tous les niveaux étatiques à une conduite budgétaire adaptée à la conjoncture. En période de haute conjoncture, les budgets publics doivent être menés de manière restrictive, en récession de manière expansive. Cette obligation se trouve en tension avec le frein à l'endettement selon → l'art. 126 Cst..
 
 **N. 9** **Suppléments et rabais conjoncturels (al. 5)** : Cette disposition permet des variations temporaires de la charge fiscale à des fins de stabilisation. L'obligation de stérilisation des moyens prélevés doit empêcher leur utilisation procyclique. Le traitement différencié des impôts directs et indirects lors du remboursement reflète des considérations pratiques administratives.
 

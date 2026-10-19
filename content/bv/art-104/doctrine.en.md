@@ -51,7 +51,7 @@
 
 ## 5. Points of Controversy
 
-**N. 17** **Scope of multifunctionality**: Ehrenzeller et al. (St. Galler Kommentar BV, Art. 104 N. 9) emphasise the equivalence of all three functions. Waldmann et al. see a priority of the production function, as only «market-oriented production» can fulfil the other functions. The practice of the Federal Supreme Court tends towards a balanced view (**2C_397/2021 E. 4.1**).
+**N. 17** **Scope of multifunctionality**: Ehrenzeller et al. (St. Galler Kommentar BV, Art. 104 N. 9) emphasise the equivalence of all three functions. Waldmann et al. see a priority of the production function, as only market-oriented production can fulfil the other functions. The practice of the Federal Supreme Court tends towards a balanced view (**2C_397/2021 E. 4.1**).
 
 **N. 18** **Compatibility with WTO law**: Müller (in: Ehrenzeller et al., St. Galler Kommentar BV, Art. 104 N. 24) sees direct payments as «green box»-compliant. Cottier/Oesch (Internationales Wirtschaftsrecht, 2nd ed. 2019, p. 456) warn of protectionist elements that could be WTO-incompatible. The Federal Supreme Court has left this question open so far.
 

@@ -44,13 +44,13 @@
 
 #### Termination of International Treaties
 
-**N. 15** A central point of controversy concerns the referendum obligation for termination of international treaties. Some commentators argue that weighty reasons speak for analogous application of the referendum to terminations: «Democratic legitimation is just as important for termination as for conclusion.»
+**N. 15** A central point of controversy concerns the referendum obligation for termination of international treaties. Some commentators argue that weighty reasons speak for analogous application of the referendum to terminations, since democratic legitimacy matters just as much when a treaty is terminated as when it is concluded.
 
 **N. 16** The opposing view, represented by parts of the older doctrine, sees Art. 141 Fed. Const. as an exhaustive enumeration. Diggelmann (ZBl 2014, 291, 315) warns against extensive interpretation without clear constitutional basis.
 
 #### Standard Agreements
 
-**N. 17** The parliamentary practice of exempting certain international treaties as «standard agreements» from referendum is highly controversial. Some commentators criticise this practice as «not beyond all doubt». Diggelmann (ZBl 2014, 291, 320) even qualifies it as potentially unconstitutional.
+**N. 17** The parliamentary practice of exempting certain international treaties as «standard agreements» from referendum is highly controversial. Some commentators criticise this practice as questionable. Diggelmann (ZBl 2014, 291, 320) even qualifies it as potentially unconstitutional.
 
 **N. 18** Supporters of the standard agreement practice argue with practicability and the minor political significance of repetitive treaties. Mannhart Gomes (Diss. Bern 2007, 145) sees this as a permissible concretisation of the indeterminate legal concepts in Art. 141 para. 1 lit. d Fed. Const.
 

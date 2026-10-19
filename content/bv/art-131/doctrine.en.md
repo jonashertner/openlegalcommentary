@@ -30,7 +30,7 @@
 
 #### b) Taxable objects under para. 1
 
-**N. 8** **Tobacco and tobacco products (lit. a):** The term encompasses raw tobacco and all products made from it for smoking, snuffing or chewing. The taxation of tobacco substitute products such as electronic cigarettes is disputed. In the view of the Federal Administrative Court, e-cigarettes are «to be considered subject to tobacco taxation after careful, comprehensive interpretation». The Federal Council, however, defines them «explicitly as non-taxable substitute products».
+**N. 8** **Tobacco and tobacco products (lit. a):** The term encompasses raw tobacco and all products made from it for smoking, snuffing or chewing. The taxation of tobacco substitute products such as electronic cigarettes is disputed. In the view of the Federal Administrative Court, a careful and comprehensive interpretation shows e-cigarettes to be subject to tobacco taxation. The Federal Council, however, expressly classifies them as substitute products not subject to the tax.
 
 **N. 9** **Spirits (lit. b):** According to the extensive legal definition in Art. 2 AlcA, this includes all beverages with an alcohol content exceeding 15 percent by volume as well as beverages with lower alcohol content if the alcohol was not obtained exclusively through fermentation. The Federal Court confirmed this broad interpretation in **BGE 143 II 409**.
 
@@ -50,7 +50,7 @@
 
 **N. 15** Art. 131 FC establishes a federal competence, not an obligation to levy taxes. Design occurs at the legislative level (TobTA, AlcA, MinOTA, BeerTA).
 
-**N. 16** According to → Art. 134 FC, similar cantonal and communal taxes are excluded. However, the Federal Court recognises cantonal cost allocation taxes with specific purpose. Thus it declared a Vaud charge of 0.8% on alcoholic beverages for takeaway as a «cost allocation tax compliant with federal law justified by youth protection» to be permissible.
+**N. 16** According to → Art. 134 FC, similar cantonal and communal taxes are excluded. However, the Federal Court recognises cantonal cost allocation taxes with specific purpose. Thus it declared a Vaud charge of 0.8% on alcoholic beverages for takeaway to be permissible as a cost allocation tax that is consistent with federal law and justified on grounds of youth protection.
 
 **N. 17** Revenues from taxation of spirits are partially earmarked: 10% of net revenue goes to the cantons to combat the causes and effects of addiction problems (para. 3). This earmarking is justiciable.
 

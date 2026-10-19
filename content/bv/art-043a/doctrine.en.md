@@ -6,7 +6,7 @@
 
 **N. 2** The Federal Council message on the reform of fiscal equalisation of 14 November 2001 (BBl 2001 2291, esp. 2358 ff.) describes Art. 43a Cst. as the «centrepiece of the new federal distribution of tasks». The provision aims to increase the efficiency of the performance of public tasks and to allocate responsibilities more clearly. In particular, it should ensure fiscal equivalence — the concordance of benefits, costs and decision-making powers.
 
-**N. 3** The legislative history shows that the constitutional legislator deliberately wanted to establish programmatic principles that are primarily addressed to the legislature. As the Federal Council stated in the message: «Article 43a paragraph 4 does not create enforceable rights».
+**N. 3** The legislative history shows that the constitutional legislator deliberately wanted to establish programmatic principles that are primarily addressed to the legislature. As the Federal Council stated in the message, Article 43a paragraph 4 does not give rise to enforceable rights.
 
 ## 2. Systematic Classification
 

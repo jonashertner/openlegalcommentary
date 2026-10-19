@@ -4,7 +4,7 @@ L'art. 62 Cst. règle les compétences en matière d'instruction publique entre 
 
 **Qui est concerné ?** Tous les enfants qui vivent en Suisse ont droit à un enseignement de base gratuit. Cela vaut aussi pour les enfants étrangers sans autorisation de séjour. Les enfants handicapés ont des droits supplémentaires à un encouragement spécialisé. Les parents doivent envoyer leurs enfants à l'école — c'est obligatoire.
 
-**Quelles sont les conséquences juridiques ?** Les cantons doivent mettre à disposition suffisamment d'écoles et ne peuvent pas exiger d'écolage pour l'enseignement obligatoire. Le Tribunal fédéral a précisé: tous les moyens d'enseignement nécessaires comme les livres et les cahiers doivent être gratuits (**ATF 144 I 1**). Pour la formation spécialisée, il est controversé de savoir si les enfants handicapés ont un droit direct devant les tribunaux. La doctrine est partagée.
+**Quelles sont les conséquences juridiques ?** Les cantons doivent mettre à disposition suffisamment d'écoles et ne peuvent pas exiger d'écolage pour l'enseignement obligatoire. Le Tribunal fédéral a précisé : tous les moyens d'enseignement nécessaires comme les livres et les cahiers doivent être gratuits (**ATF 144 I 1**). Pour la formation spécialisée, il est controversé de savoir si les enfants handicapés ont un droit direct devant les tribunaux. La doctrine est partagée.
 
 Si les cantons ne peuvent pas se mettre d'accord sur des standards communs, la Confédération peut intervenir. Cela concerne par exemple l'âge d'entrée à l'école ou la reconnaissance des diplômes. Cette compétence fédérale est cependant subsidiaire — elle n'intervient que si les cantons échouent.
 

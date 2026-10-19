@@ -12,7 +12,7 @@
 
 **N. 4** L'art. 63 Cst. s'inscrit systématiquement dans le 3e chapitre « Éducation, recherche et culture » et forme, avec l'art. 61a (Espace suisse de formation), l'art. 63a (Hautes écoles), l'art. 64 (Recherche) et l'art. 64a (Formation continue), le fondement constitutionnel du système éducatif suisse. La formation professionnelle représente une voie de formation autonome et équivalente à côté de la formation académique (SG Komm. BV-Ehrenzeller, art. 63 n. 3).
 
-**N. 5** Dans le rapport avec l'art. 62 Cst. (École), il existe une délimitation claire des compétences: tandis que les cantons restent compétents pour les écoles de formation générale, la formation professionnelle relève de la compétence exclusive de la Confédération. Cette répartition des compétences reflète l'importance nationale de standards uniformes en formation professionnelle.
+**N. 5** Dans le rapport avec l'art. 62 Cst. (École), il existe une délimitation claire des compétences : tandis que les cantons restent compétents pour les écoles de formation générale, la formation professionnelle relève de la compétence exclusive de la Confédération. Cette répartition des compétences reflète l'importance nationale de standards uniformes en formation professionnelle.
 
 **N. 6** Le lien avec l'art. 27 Cst. (Liberté économique) est controversé dans la doctrine. Tandis que Biaggini (Komm. BV, art. 63 n. 2) considère la liberté du choix professionnel comme garantie par l'art. 27 Cst., Thürer/Kiener (Verfassungsrecht, n. marg. 10) défendent une autre conception et voient des contenus fondamentaux autonomes dans la garantie de formation professionnelle.
 
@@ -40,7 +40,7 @@
 
 **N. 15** **Portée symbolique de la norme** : Biaggini (Komm. BV, art. 63 n. 67) qualifie l'ancrage constitutionnel de la perméabilité de « signe significatif, mais guère plus que symbolique ». Cette interprétation minimaliste est critiquée par d'autres auteurs qui voient dans l'art. 63 al. 2 Cst. un mandat constitutionnel justiciable avec des obligations d'action concrètes (SG Komm. BV-Ehrenzeller, art. 63 n. 16).
 
-**N. 16** **Rapport aux compétences cantonales**: Bien que la compétence fédérale soit en principe complète, il existe un désaccord sur les marges de manœuvre cantonales subsistantes. La doctrine dominante reconnaît les compétences cantonales uniquement dans le domaine de l'exécution et de l'organisation des écoles professionnelles, mais non dans l'aménagement du contenu des filières de formation.
+**N. 16** **Rapport aux compétences cantonales** : Bien que la compétence fédérale soit en principe complète, il existe un désaccord sur les marges de manœuvre cantonales subsistantes. La doctrine dominante reconnaît les compétences cantonales uniquement dans le domaine de l'exécution et de l'organisation des écoles professionnelles, mais non dans l'aménagement du contenu des filières de formation.
 
 ### 6. Indications pratiques
 

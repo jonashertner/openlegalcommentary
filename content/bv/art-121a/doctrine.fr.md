@@ -40,7 +40,7 @@
 
 ### Interdiction de traités contradictoires (al. 4)
 
-**N. 14** L'interdiction de nouveaux traités de droit international s'applique directement selon **ATF 142 II 35**. La question de l'extension de traités existants est controversée: Epiney (Jusletter du 2.6.2014) soutient que les extensions sont admissibles tant que le sort du traité de base reste ouvert. Une autre partie de la doctrine considère l'UE comme un ensemble, raison pour laquelle les extensions seraient également inadmissibles en cas d'incompatibilité du traité de base.
+**N. 14** L'interdiction de nouveaux traités de droit international s'applique directement selon **ATF 142 II 35**. La question de l'extension de traités existants est controversée : Epiney (Jusletter du 2.6.2014) soutient que les extensions sont admissibles tant que le sort du traité de base reste ouvert. Une autre partie de la doctrine considère l'UE comme un ensemble, raison pour laquelle les extensions seraient également inadmissibles en cas d'incompatibilité du traité de base.
 
 ## 4. Conséquences juridiques
 

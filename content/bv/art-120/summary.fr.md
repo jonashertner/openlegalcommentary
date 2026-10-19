@@ -2,7 +2,7 @@
 
 L'art. 120 Cst. protège contre les abus du génie génétique (modification du patrimoine génétique). La disposition comprend deux alinéas : l'alinéa 1 protège l'être humain et l'environnement contre les abus. L'alinéa 2 confie à la Confédération la tâche d'édicter des règles pour le traitement du patrimoine génétique des animaux, des plantes et des autres organismes.
 
-La Confédération doit respecter trois principes importants: la dignité de la créature, la sécurité de l'être humain, des animaux et de l'environnement ainsi que la protection de la diversité génétique. Par « dignité de la créature », la doctrine juridique entend la valeur éthique propre des êtres vivants. Toutefois, il est controversé de savoir si ce concept ne concerne que les animaux et les plantes ou s'il englobe aussi les êtres humains.
+La Confédération doit respecter trois principes importants : la dignité de la créature, la sécurité de l'être humain, des animaux et de l'environnement ainsi que la protection de la diversité génétique. Par « dignité de la créature », la doctrine juridique entend la valeur éthique propre des êtres vivants. Toutefois, il est controversé de savoir si ce concept ne concerne que les animaux et les plantes ou s'il englobe aussi les êtres humains.
 
 Sont concernées toutes les personnes qui travaillent avec le génie génétique : chercheurs, agriculteurs, entreprises pharmaceutiques et autorités. Le Tribunal fédéral a décidé que lors d'expériences sur animaux, il faut tenir compte de la proximité particulière des primates avec l'être humain (**BGE 135 II 384**).
 

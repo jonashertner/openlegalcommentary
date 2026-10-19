@@ -12,7 +12,7 @@ Betroffen sind alle 26 Kantone sowie die Bundesbehörden (Bundesversammlung, Bun
 
 ## Welche Rechtsfolgen entstehen?
 
-Die Mitwirkungsrechte sind vielfältig: Kantone können Standesinitiativen einreichen (Art. 160 BV), an Vernehmlassungsverfahren teilnehmen (Art. 147 BV), über den Ständerat im Parlament mitwirken und bei Verfassungsrevisionen mitentscheiden (Art. 140 BV). Der normative Gehalt von Art. 45 BV ist jedoch umstritten: Biaggini kritisiert, der normative Gehalt liege «bei null» und der Begriff der Mitwirkung sei «unglücklich». Waldmann vertritt eine weite Auslegung, die von der Impulssetzung bis zur Beteiligung an Entscheidungen reicht.
+Die Mitwirkungsrechte sind vielfältig: Kantone können Standesinitiativen einreichen (Art. 160 BV), an Vernehmlassungsverfahren teilnehmen (Art. 147 BV), über den Ständerat im Parlament mitwirken und bei Verfassungsrevisionen mitentscheiden (Art. 140 BV). Der normative Gehalt von Art. 45 BV ist jedoch umstritten: Biaggini kritisiert, die Bestimmung habe keinerlei normativen Gehalt und der Begriff der Mitwirkung sei unglücklich gewählt. Waldmann vertritt eine weite Auslegung, die von der Impulssetzung bis zur Beteiligung an Entscheidungen reicht.
 
 ## Praktisches Beispiel
 

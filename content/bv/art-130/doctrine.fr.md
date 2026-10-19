@@ -18,7 +18,7 @@
 
 ### 3. Éléments constitutifs / Contenu normatif
 
-**N. 7** L'art. 130 al. 1 Cst. définit la taxe sur la valeur ajoutée comme un impôt général sur la consommation selon le système de l'impôt net à toutes les étapes avec déduction de l'impôt préalable. Une partie de la doctrine la caractérise comme un « impôt brut à toutes les étapes avec déduction de l'impôt préalable ». L'objet de l'impôt comprend les livraisons d'objets, les prestations de services y compris l'usage propre ainsi que les importations.
+**N. 7** L'art. 130 al. 1 Cst. définit la taxe sur la valeur ajoutée comme un impôt général sur la consommation selon le système de l'impôt net à toutes les étapes avec déduction de l'impôt préalable. Une partie de la doctrine la caractérise comme un *impôt brut à toutes les étapes avec déduction de l'impôt préalable*. L'objet de l'impôt comprend les livraisons d'objets, les prestations de services y compris l'usage propre ainsi que les importations.
 
 **N. 8** Le corridor constitutionnel des taux d'imposition fixe des limites contraignantes : le taux normal ne peut dépasser 6,5% (actuellement 8,1% avec tous les suppléments selon l'art. 25 al. 1 LTVA), le taux réduit doit être d'au moins 2,0% (actuellement 2,6% selon l'art. 25 al. 2 let. a LTVA). Pour les prestations d'hébergement, l'al. 2 prévoit un taux spécial entre le taux réduit et le taux normal (actuellement 3,8% selon l'art. 25 al. 2 let. b LTVA).
 
@@ -34,11 +34,11 @@
 
 ### 5. Points controversés
 
-**N. 13** La nature juridique de la taxe sur la valeur ajoutée est controversée dans la doctrine. Alors qu'une partie de la doctrine parle d'un « impôt brut à toutes les étapes avec déduction de l'impôt préalable », Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) la qualifient d'« impôt général sur la consommation ». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2e éd. 2012, 645) souligne le caractère d'« impôt indirect ».
+**N. 13** La nature juridique de la taxe sur la valeur ajoutée est controversée dans la doctrine. Alors qu'une partie de la doctrine la décrit comme un impôt prélevé sur le montant brut à chaque stade de la chaîne de production et de distribution, l'impôt préalable étant déductible, Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) la qualifient d'« impôt général sur la consommation ». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2e éd. 2012, 645) souligne le caractère d'« impôt indirect ».
 
 **N. 14** La justiciabilité de l'affectation partielle selon l'al. 4 est controversée. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3e éd. 2016, N. 3687) défendent la position qu'un droit exigible des cantons peut être dérivé de la norme. Blumenstein/Locher (System des Schweizerischen Steuerrechts, 6e éd. 2002, 325) ne voient qu'une obligation politique de la Confédération.
 
-**N. 15** Une partie de la doctrine critique les « défauts systémiques » du droit de la taxe sur la valeur ajoutée, en particulier la « complexité source d'erreurs » et la « mise en œuvre déficiente par l'AFC ». Cette critique a été partiellement reprise dans le rapport Spori (Rapport du mandataire P. Spori en matière de réforme de la taxe sur la valeur ajoutée, 2006, 23 ss.), mais n'a pas conduit à un changement systémique fondamental.
+**N. 15** Une partie de la doctrine critique les défauts systémiques du droit de la taxe sur la valeur ajoutée, en particulier une complexité propice aux erreurs et une application insuffisante par l'AFC. Cette critique a été partiellement reprise dans le rapport Spori (Rapport du mandataire P. Spori en matière de réforme de la taxe sur la valeur ajoutée, 2006, 23 ss.), mais n'a pas conduit à un changement systémique fondamental.
 
 **N. 16** L'admissibilité constitutionnelle des rulings fiscaux dans le domaine de la TVA est évaluée différemment. Baumgartner (Möglichkeiten und Grenzen von Steuer-Rulings, in: Mäusli-Allenspach/Beusch, 2013, 201 s.) l'affirme en se référant à → l'art. 5 al. 3 Cst. (Bonne foi). Geiger/Schluckebier (MWSTG Kommentar, 2012, Art. 69 N. 8) voient des limites constitutionnelles en cas de renseignements contraires au système.
 

@@ -22,7 +22,7 @@
 
 **N. 7** Sur le plan du droit international, l'art. 22 Cst. correspond à l'art. 11 CEDH (liberté de réunion et d'association) et à l'art. 21 du Pacte ONU II. Le Tribunal fédéral a répété à plusieurs reprises que les garanties de l'art. 11 CEDH et de l'art. 21 du Pacte ONU II ne vont pas au-delà de la garantie constitutionnelle fédérale quant au contenu et à l'étendue de la protection (**BGE 132 I 256 consid. 3 i.f. ; BGE 148 I 33 consid. 6.2**). L'art. 22 Cst. et la jurisprudence du Tribunal fédéral y afférente sont déterminants en premier lieu.
 
-**N. 8** La liberté de réunion constitue une condition centrale de la libre formation de la volonté démocratique et de l'exercice des droits politiques (↔ art. 34 Cst.). Elle remplit une « fonction de soupape, d'avertissement, de contrôle et d'innovation » dans la société démocratique.
+**N. 8** La liberté de réunion constitue une condition centrale de la libre formation de la volonté démocratique et de l'exercice des droits politiques (↔ art. 34 Cst.). Dans la société démocratique, elle sert à la fois d'exutoire aux tensions, de signal d'alarme, d'instrument de contrôle et de moteur d'innovation.
 
 ---
 

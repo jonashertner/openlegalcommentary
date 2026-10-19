@@ -6,7 +6,7 @@ L'art. 58 Cost. obbliga la Svizzera a mantenere un esercito. Questo è organizza
 
 Il principio di milizia significa: gli uomini svizzeri prestano servizio militare a titolo accessorio, per lo più nei fine settimana e in blocchi. L'obbligo del servizio militare risulta dall'art. 59 Cost., la tassa militare sostitutiva per gli inabili al servizio dallo stesso articolo. Un piccolo nucleo professionale completa i militi nelle aree tecniche.
 
-La Svizzera non può semplicemente rinunciare al suo esercito — ciò richiederebbe una modifica costituzionale. La dottrina è controversa riguardo al concetto di «difesa»: un'interpretazione ampia comprende tutte le misure di difesa militare, una ristretta solo le minacce «di portata strategica».
+La Svizzera non può semplicemente rinunciare al suo esercito — ciò richiederebbe una modifica costituzionale. La dottrina è controversa riguardo al concetto di difesa: un'interpretazione ampia comprende tutte le misure di difesa militare, una ristretta solo le minacce di portata strategica.
 
 ## Ambito di applicazione
 

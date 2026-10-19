@@ -20,7 +20,7 @@
 
 **Ch. 5** **« Dépenses de la Confédération »** : Cette notion comprend toutes les utilisations de fonds par la Confédération, indépendamment de leur qualification juridique (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10e éd. 2020, ch. 1823). La doctrine dominante distingue entre les dépenses uniques et récurrentes, toutes deux soumises à la compétence de décision parlementaire (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4e éd. 2014, § 12 ch. 28).
 
-**Ch. 6** **« Budget »**: Le budget est la planification financière contraignante pour un exercice comptable. Il a selon Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4e éd. 2023, art. 167 ch. 8) une double nature: il est d'une part un instrument de planification, d'autre part une base d'autorisation pour les dépenses. Le budget lie l'administration, mais ne donne aucun droit subjectif aux tiers.
+**Ch. 6** **« Budget »** : Le budget est la planification financière contraignante pour un exercice comptable. Il a selon Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4e éd. 2023, art. 167 ch. 8) une double nature : il est d'une part un instrument de planification, d'autre part une base d'autorisation pour les dépenses. Le budget lie l'administration, mais ne donne aucun droit subjectif aux tiers.
 
 **Ch. 7** **« Comptes d'État »** : Les comptes d'État documentent les recettes et dépenses effectives d'un exercice comptable. leur approbation par l'Assemblée fédérale a une fonction de contrôle politique primaire et décharge le Conseil fédéral (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3e éd. 2016, § 18 ch. 45).
 
@@ -36,7 +36,7 @@
 
 **Ch. 11** **Force obligatoire du budget** : Le degré de force obligatoire du budget est controversé. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5e éd. 2021, § 42 ch. 18) défend un lien strict, tandis que Lienhard/Mächler (Finanzrecht, 2017, ch. 234) plaident pour plus de flexibilité en cas d'événements imprévus. La pratique suit une solution intermédiaire avec des crédits supplémentaires.
 
-**Ch. 12** **Degré de détail**: Le degré de détail requis du budget fait l'objet d'une discussion controversée. Sägesser (op. cit., art. 5 ch. 8) exige une ventilation détaillée pour un contrôle parlementaire effectif. Une autre opinion doctrinale met en garde contre un pilotage excessif de l'exécutif par des directives budgétaires trop détaillées. La loi sur les finances en vigueur cherche une voie médiane.
+**Ch. 12** **Degré de détail** : Le degré de détail requis du budget fait l'objet d'une discussion controversée. Sägesser (op. cit., art. 5 ch. 8) exige une ventilation détaillée pour un contrôle parlementaire effectif. Une autre opinion doctrinale met en garde contre un pilotage excessif de l'exécutif par des directives budgétaires trop détaillées. La loi sur les finances en vigueur cherche une voie médiane.
 
 **Ch. 13** **Rapport avec les lois matérielles** : Le rapport entre les décisions de dépenses selon l'art. 167 Cst. et les obligations légales de dépenses est controversé. L'opinion majoritaire (Ehrenzeller, St. Galler Kommentar, art. 167 ch. 14 ; Häfelin/Haller/Keller/Thurnherr, op. cit., ch. 1825) considère les lois matérielles comme une base de dépenses suffisante. Une minorité (Reich, Finanzordnung, 2012, p. 156) exige des décisions de crédit supplémentaires.
 

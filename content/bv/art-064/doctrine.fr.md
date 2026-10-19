@@ -18,7 +18,7 @@
 
 ### Recherche scientifique (al. 1)
 
-**N. 6** La notion de « recherche scientifique » doit être comprise largement. Selon la doctrine dominante, elle englobe tant la recherche fondamentale que la recherche appliquée dans toutes les disciplines scientifiques (König, Grundlagen der staatlichen Forschungsförderung, 2007, p. 45). L'adjectif « scientifique » est controversé: tandis que Borghi ne l'entend que comme un renvoi aux aspects objectifs-méthodiques, Gruber y voit une notion de qualité.
+**N. 6** La notion de « recherche scientifique » doit être comprise largement. Selon la doctrine dominante, elle englobe tant la recherche fondamentale que la recherche appliquée dans toutes les disciplines scientifiques (König, Grundlagen der staatlichen Forschungsförderung, 2007, p. 45). L'adjectif « scientifique » est controversé : tandis que Borghi ne l'entend que comme un renvoi aux aspects objectifs-méthodiques, Gruber y voit une notion de qualité.
 
 **N. 7** La promotion de la recherche comprend, selon la pratique de la Confédération, tant la promotion institutionnelle (financement d'instituts de recherche) que la promotion liée aux projets (financement de projets de recherche individuels). Le Fonds national suisse de la recherche scientifique (FNS) et les Académies suisses des sciences sont les principaux organes de promotion de la recherche (art. 4 LERI).
 
@@ -56,7 +56,7 @@
 
 ## Points controversés
 
-**N. 19** **Portée de la notion de scientificité**: Dans la doctrine, il est controversé de savoir dans quelle mesure la notion « scientifique » à l'al. 1 doit être comprise restrictivement. Borghi défend une interprétation large et n'y voit qu'un renvoi aux standards objectifs-méthodiques. Gruber en revanche interprète « scientifique » comme un critère de qualité qui exclut de l'encouragement la recherche non sérieuse. König adopte une position médiane et souligne que toutes les méthodes scientifiques reconnues sont saisies (König, Grundlagen, 2007, p. 47).
+**N. 19** **Portée de la notion de scientificité** : Dans la doctrine, il est controversé de savoir dans quelle mesure la notion « scientifique » à l'al. 1 doit être comprise restrictivement. Borghi défend une interprétation large et n'y voit qu'un renvoi aux standards objectifs-méthodiques. Gruber en revanche interprète « scientifique » comme un critère de qualité qui exclut de l'encouragement la recherche non sérieuse. König adopte une position médiane et souligne que toutes les méthodes scientifiques reconnues sont saisies (König, Grundlagen, 2007, p. 47).
 
 **N. 20** **Rapport entre promotion de la recherche et promotion de l'innovation** : Le rapport de tension entre recherche fondamentale désintéressée et innovation orientée vers l'application fait l'objet de discussions controversées. Tandis qu'une conception souligne l'égalité de rang des deux aspects de promotion, d'autres voient dans l'orientation croissante vers l'innovation une économisation problématique de la science. Schmid met en garde contre une instrumentalisation excessive de la recherche à des fins économiques (Schmid, Wissenschaft und Forschung, 2011, p. 488).
 

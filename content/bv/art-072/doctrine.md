@@ -36,7 +36,7 @@
 
 **N. 12** Das Bauverbot für Minarette stellt ein absolutes, ausnahmsloses Verbot dar. Der Begriff «Minarett» ist als Turm einer Moschee zu verstehen, von dem zum Gebet gerufen wird. Das Verbot erfasst nur neue Bauten; die vier bestehenden Minarette in Genf, Winterthur, Wangen bei Olten und Zürich geniessen Bestandesschutz.
 
-**N. 13** Die Lehre ist über die Vereinbarkeit mit höherrangigem Recht gespalten. Markus Schefer sieht Konstellationen, «wo die Interessen am Bau eines Minaretts überwiegen». Die herrschende Meinung qualifiziert das Verbot als Verletzung der Religionsfreiheit und des Diskriminierungsverbots (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
+**N. 13** Die Lehre ist über die Vereinbarkeit mit höherrangigem Recht gespalten. Markus Schefer sieht Konstellationen, in denen das Interesse an der Errichtung eines Minaretts die entgegenstehenden Interessen überwiegt. Die herrschende Meinung qualifiziert das Verbot als Verletzung der Religionsfreiheit und des Diskriminierungsverbots (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
 
 ## 4. Rechtsfolgen
 
@@ -48,9 +48,9 @@
 
 ## 5. Streitstände
 
-**N. 17** Die Grundrechtsbindung öffentlich-rechtlich anerkannter Religionsgemeinschaften ist umstritten. Die herrschende Lehre bejaht eine volle Grundrechtsbindung öffentlich-rechtlicher und verneint sie für privatrechtliche Religionsgemeinschaften. Winzeler plädiert für einen Mittelweg: «zurückhaltende Anwendung der Grundrechte gegenüber öffentlich-rechtlich anerkannten und massvoll eingesetzte Drittwirkung gegenüber privatrechtlichen Religionsgemeinschaften».
+**N. 17** Die Grundrechtsbindung öffentlich-rechtlich anerkannter Religionsgemeinschaften ist umstritten. Die herrschende Lehre bejaht eine volle Grundrechtsbindung öffentlich-rechtlicher und verneint sie für privatrechtliche Religionsgemeinschaften. Winzeler plädiert für einen Mittelweg: Gegenüber öffentlich-rechtlich anerkannten Religionsgemeinschaften seien die Grundrechte zurückhaltend anzuwenden, gegenüber privatrechtlichen Religionsgemeinschaften sei ihnen eine massvolle Drittwirkung beizumessen.
 
-**N. 18** Kontrovers ist die Reichweite der kantonalen Organisationsautonomie. Die ältere Lehre (Burckhardt) vertrat, der Kanton könne «entscheiden, welches die Organisation und welches die Lehre der von ihm anerkannten Kirche sein soll». Dies wird heute einhellig abgelehnt: Das Selbstverständnis einer Religionsgemeinschaft ist «authentisch, will heissen: selbst-, nicht fremdbestimmt zu würdigen».
+**N. 18** Kontrovers ist die Reichweite der kantonalen Organisationsautonomie. Die ältere Lehre (Burckhardt) vertrat, der Kanton könne über die Organisation und die Lehre der von ihm anerkannten Kirche bestimmen. Dies wird heute einhellig abgelehnt: Das Selbstverständnis einer Religionsgemeinschaft ist so zu würdigen, wie die Gemeinschaft es selbst festlegt, und nicht nach fremden Massstäben.
 
 **N. 19** Die Völkerrechtskonformität des Minarettverbots wird unterschiedlich beurteilt. Während Teile der Lehre eine klare Verletzung von Art. 9 und 14 EMRK sehen, argumentieren andere mit dem weiten Ermessensspielraum der Staaten im religionsrechtlichen Bereich. Ein EGMR-Urteil steht aus, da mangels Baubewilligungsverfahren die innerstaatlichen Rechtsmittel nicht ausgeschöpft werden können.
 

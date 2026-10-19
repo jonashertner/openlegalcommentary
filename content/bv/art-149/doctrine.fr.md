@@ -40,7 +40,7 @@
 
 #### Répartition des sièges (al. 4)
 
-**N. 11** Le « chiffre de la population » comme clé de répartition n'est pas défini de manière exhaustive. Le Conseil fédéral défend la position selon laquelle la population résidante permanente y compris les étrangers serait déterminante, car celle-ci « paie droits et impôts comme les Suisses ».
+**N. 11** La population, en tant que clé de répartition, n'est pas définie de manière exhaustive. Le Conseil fédéral défend la position selon laquelle la population résidante permanente y compris les étrangers serait déterminante, car celle-ci s'acquitte des taxes et des impôts au même titre que les Suisses.
 
 **N. 12** La garantie d'au moins un siège par canton privilégie les petits cantons et rompt le principe purement proportionnel en faveur d'un égard fédéraliste.
 
@@ -59,8 +59,8 @@
 #### Base de calcul de la répartition des sièges
 
 **N. 15** Il est controversé de savoir quelle population est déterminante pour la répartition des sièges :
-- **Conseil fédéral**: La population résidante permanente y compris les étrangers devrait être prise en compte
-- **Thurnherr**: Cette ligne d'argumentation laisse de côté l'« incongruence entre représentants et représentés »
+- **Conseil fédéral** : La population résidante permanente y compris les étrangers devrait être prise en compte
+- **Thurnherr** : Cette ligne d'argumentation laisse de côté l'absence de concordance entre représentants et représentés
 - **Schumacher** : Plaide pour la prise en compte seulement des ayants droit de vote (ZBl 1999, 524 s.)
 
 #### Équité proportionnelle dans les petits cantons

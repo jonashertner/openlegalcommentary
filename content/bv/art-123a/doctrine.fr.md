@@ -10,7 +10,7 @@
 
 **N. 3** L'art. 123a Cst. se situe systématiquement entre les droits fondamentaux judiciaires (art. 29–32 Cst.) et les droits politiques (art. 136ss Cst.). La norme constitue un corps étranger dans l'édifice constitutionnel : elle ne contient pas une norme programmatique ou une attribution de compétence, mais une réglementation matérielle directement applicable du droit pénal (Vest, SG Komm. BV, Art. 123a N. 2).
 
-**N. 4** Le rapport de tension avec des principes constitutionnels fondamentaux est manifeste: → art. 5 al. 2 Cst. (proportionnalité), → art. 10 al. 2 Cst. (liberté personnelle), → art. 36 al. 3 Cst. (restrictions des droits fondamentaux). Göksu souligne que la mise en œuvre légale tente un respect « tout juste » des exigences du droit international, mais que cette quadrature du cercle semble douteuse.
+**N. 4** Le rapport de tension avec des principes constitutionnels fondamentaux est manifeste : → art. 5 al. 2 Cst. (proportionnalité), → art. 10 al. 2 Cst. (liberté personnelle), → art. 36 al. 3 Cst. (restrictions des droits fondamentaux). Göksu souligne que la mise en œuvre légale tente un respect « tout juste » des exigences du droit international, mais que cette quadrature du cercle semble douteuse.
 
 ## 3. Éléments constitutifs / Contenu normatif
 
@@ -20,9 +20,9 @@
 - Délinquants sexuels et violents extrêmement dangereux
 - Auteurs classés comme durablement non amendables
 
-La formulation « jusqu'à la fin de leurs jours » exclut catégoriquement toute libération anticipée. Le Tribunal fédéral interprète « durablement non amendable » comme une non-amendabilité à vie (ATF 140 IV 1 consid. 3).
+La prescription d'un internement pour le reste de la vie exclut catégoriquement toute libération anticipée. Le Tribunal fédéral interprète « durablement non amendable » comme une non-amendabilité à vie (ATF 140 IV 1 consid. 3).
 
-**N. 7** **L'alinéa 2** règle la seule exception: une libération n'est possible que si de nouvelles connaissances scientifiques prouvent que l'auteur peut être guéri et ne présente plus de danger. L'autorité qui prononce une telle libération répond des actes de récidive selon → art. 41ss CO.
+**N. 7** **L'alinéa 2** règle la seule exception : une libération n'est possible que si de nouvelles connaissances scientifiques prouvent que l'auteur peut être guéri et ne présente plus de danger. L'autorité qui prononce une telle libération répond des actes de récidive selon → art. 41ss CO.
 
 **N. 8** **L'alinéa 3** exige des expertises indépendantes d'au moins deux spécialistes expérimentés. Ceux-ci doivent se prononcer sur l'amendabilité et la dangerosité. Les experts ne doivent avoir ni traité ni encadré l'auteur auparavant.
 
@@ -30,7 +30,7 @@ La formulation « jusqu'à la fin de leurs jours » exclut catégoriquement tout
 
 **N. 9** La conséquence juridique primaire est l'internement à vie sans possibilité de révision régulière. Contrairement à l'internement ordinaire selon → art. 64 CP, l'art. 123a Cst. ne connaît pas de révision périodique. Ceci est en contradiction fondamentale avec l'art. 5 al. 4 CEDH.
 
-**N. 10** La responsabilité de l'État selon l'alinéa 2 constitue une particularité: alors que le droit général de la responsabilité de l'État présuppose une faute ou un comportement illicite, l'art. 123a statue une responsabilité causale indépendante de la faute pour les actes de récidive.
+**N. 10** La responsabilité de l'État selon l'alinéa 2 constitue une particularité : alors que le droit général de la responsabilité de l'État présuppose une faute ou un comportement illicite, l'art. 123a statue une responsabilité causale indépendante de la faute pour les actes de récidive.
 
 ## 5. Points controversés
 

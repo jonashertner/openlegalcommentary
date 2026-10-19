@@ -18,13 +18,13 @@
 
 ### 3. Elements of the Offence / Normative Content
 
-**N. 7** **Competition as protected interest**: Art. 96 FC protects competition as an institution and process. According to Uhlmann, the concept of competition encompasses «the process of rivalry between companies for market shares through performance». The Federal Administrative Court specifies that market abuse can only be said to exist when effective competition is lacking.
+**N. 7** **Competition as protected interest**: Art. 96 FC protects competition as an institution and process. According to Uhlmann, the concept of competition encompasses the performance-based contest between undertakings for market share. The Federal Administrative Court specifies that market abuse can only be said to exist when effective competition is lacking.
 
 **N. 8** **Economically or socially harmful effects**: The element of harmfulness is central. Not every restraint of competition is covered, but only those with demonstrably negative consequences. The Federal Court interprets this not as an absolute prohibition of per se rules: «The mention of harmful effects in the constitutional text does not exclude partial prohibitions of demonstrably particularly harmful agreements or conduct» (**BGE 135 II 60**).
 
 **N. 9** **Cartels and other restraints of competition**: The term encompasses horizontal and vertical agreements as well as unilateral conduct by companies with market power. The formulation «other restraints of competition» extends the scope of application beyond classic cartels to all forms of impediments to competition.
 
-**N. 10** **Market power** (para. 2 lit. a): A prerequisite for price abuse is a dominant or at least strong market position. The Federal Administrative Court emphasizes: «abusive prices can only exist if no effective competition prevails on the relevant market». Market power analysis follows economic criteria (market shares, barriers to market entry, potential competition).
+**N. 10** **Market power** (para. 2 lit. a): A prerequisite for price abuse is a dominant or at least strong market position. The Federal Administrative Court emphasizes that prices can be abusive only where the relevant market lacks effective competition. Market power analysis follows economic criteria (market shares, barriers to market entry, potential competition).
 
 **N. 11** **Unfair competition** (para. 2 lit. b): Covered are all conduct that violates good faith and impairs the functionality of competition. The norm protects both the institution of competition and individual market participants.
 

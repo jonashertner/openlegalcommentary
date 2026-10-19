@@ -50,7 +50,7 @@
 
 #### Standardabkommen
 
-**N. 17** Die parlamentarische Praxis, gewisse völkerrechtliche Verträge als «Standardabkommen» vom Referendum auszunehmen, ist hochumstritten. Ein Teil der Lehre kritisiert diese Praxis als «nicht über alle Zweifel erhaben». Diggelmann (ZBl 2014, 291, 320) qualifiziert sie gar als potentiell verfassungswidrig.
+**N. 17** Die parlamentarische Praxis, gewisse völkerrechtliche Verträge als «Standardabkommen» vom Referendum auszunehmen, ist hochumstritten. Ein Teil der Lehre kritisiert diese Praxis als rechtlich nicht unbedenklich. Diggelmann (ZBl 2014, 291, 320) qualifiziert sie gar als potentiell verfassungswidrig.
 
 **N. 18** Die Befürworter der Standardabkommen-Praxis argumentieren mit der Praktikabilität und der geringen politischen Bedeutung repetitiver Verträge. Mannhart Gomes (Diss. Bern 2007, 145) sieht darin eine zulässige Konkretisierung der unbestimmten Rechtsbegriffe in Art. 141 Abs. 1 lit. d BV.
 

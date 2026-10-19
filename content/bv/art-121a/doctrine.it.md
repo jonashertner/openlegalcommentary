@@ -20,7 +20,7 @@
 
 ### Controllo autonomo (cpv. 1)
 
-**N. 7** Il termine «autonomo» significa secondo una parte della dottrina più di una mera programmatica — si tratta di una norma di compito normativa. Il Consiglio federale sosteneva invece che il cpv. 1 avesse principalmente carattere programmatico. L'autonomia non esclude vincoli di diritto internazionale, ma richiede margini di manovra nazionali.
+**N. 7** L'autonomia nella gestione dell'immigrazione significa secondo una parte della dottrina più di una mera programmatica — si tratta di una norma di compito normativa. Il Consiglio federale sosteneva invece che il cpv. 1 avesse principalmente carattere programmatico. L'autonomia non esclude vincoli di diritto internazionale, ma richiede margini di manovra nazionali.
 
 **N. 8** Il «controllo» comprende aspetti quantitativi e qualitativi dell'immigrazione. Richiede misure attive del legislatore, non mera accettazione passiva di sviluppi legati alla migrazione.
 

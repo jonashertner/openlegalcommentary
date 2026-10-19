@@ -32,7 +32,7 @@
 
 ### 3.2 Prohibition of Discrimination (Para. 2 Sentence 1)
 
-**N. 10** The prohibition refers to unequal treatment that exclusively relates to the criterion of citizenship. It is clarified in the literature: «Differentiations according to residence, duration of stay or other objective criteria remain permissible».
+**N. 10** The prohibition refers to unequal treatment that exclusively relates to the criterion of citizenship. It is clarified in the literature that distinctions based on place of residence, length of stay or other objective criteria remain admissible.
 
 **N. 11** The provision prohibits both direct and indirect discrimination. An apparently neutral regulation that factually only affects citizens of other municipalities or cantons may also violate Art. 37 para. 2 BV (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4th ed. 2014, § 23 N 15).
 

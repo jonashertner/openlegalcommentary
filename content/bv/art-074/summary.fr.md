@@ -4,7 +4,7 @@
 
 L'article 74 Cst. donne à la Confédération la mission de protéger l'être humain et l'environnement contre les atteintes nuisibles à l'environnement. La Confédération doit édicter des lois qui préviennent les atteintes nuisibles ou incommodantes. Les cantons mettent en œuvre ces lois.
 
-L'article repose sur deux principes importants: Premièrement, les atteintes à l'environnement doivent être prévenues avant qu'elles ne surviennent (principe de précaution). Deuxièmement, ceux qui causent des atteintes à l'environnement doivent en supporter les coûts.
+L'article repose sur deux principes importants : Premièrement, les atteintes à l'environnement doivent être prévenues avant qu'elles ne surviennent (principe de précaution). Deuxièmement, ceux qui causent des atteintes à l'environnement doivent en supporter les coûts.
 
 Les **atteintes nuisibles** menacent considérablement la santé ou le bien-être. Les **atteintes incommodantes** perturbent le bien-être sans être dangereuses pour la santé. La loi sur la protection de l'environnement (LPE) concrétise ces notions.
 

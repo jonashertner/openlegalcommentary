@@ -4,7 +4,7 @@
 
 Le frein à l'endettement de la Confédération règle la manière dont l'État gère ses finances. Il exige que les dépenses et les recettes soient équilibrées à long terme (FF 2000 4653ss). La Confédération ne peut pas durablement dépenser plus qu'elle n'encaisse.
 
-Le frein à l'endettement agit en trois étapes: Il détermine d'abord combien d'argent la Confédération peut dépenser au maximum. Ce plafond s'oriente selon les recettes attendues et la situation économique. En cas de conjoncture faible, il est permis de dépenser plus que ce qui est encaissé, en cas de bonne conjoncture, moins.
+Le frein à l'endettement agit en trois étapes : Il détermine d'abord combien d'argent la Confédération peut dépenser au maximum. Ce plafond s'oriente selon les recettes attendues et la situation économique. En cas de conjoncture faible, il est permis de dépenser plus que ce qui est encaissé, en cas de bonne conjoncture, moins.
 
 En cas de situations d'urgence comme les catastrophes naturelles ou les récessions graves, le Parlement peut augmenter cette limite à la majorité qualifiée (art. 159 al. 3 let. c Cst.). Si les dépenses sont malgré tout dépassées, les coûts supplémentaires doivent être à nouveau économisés dans les six années (Loi sur les finances de la Confédération art. 16).
 

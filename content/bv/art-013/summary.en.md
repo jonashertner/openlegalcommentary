@@ -14,7 +14,7 @@ This fundamental right emerged with the total revision of 1999 from the need for
 
 **Correspondence and telecommunications** protects confidential communication regardless of the medium. This includes emails, SMS and messenger services as well as traditional letters.
 
-**Data protection** (para. 2) guarantees the right to informational self-determination - understood as the «right to be let alone» according to Warren/Brandeis. The protection covers the collection, storage, use and disclosure of personal data by state authorities (**BGE 128 II 259 E. 3.2**).
+**Data protection** (para. 2) guarantees the right to informational self-determination - understood as the *right to be let alone* according to Warren/Brandeis. The protection covers the collection, storage, use and disclosure of personal data by state authorities (**BGE 128 II 259 E. 3.2**).
 
 Every interference with Art. 13 Const. requires justification according to Art. 36 Const.: legal basis, public interest, proportionality and preservation of the essential content. For particularly sensitive personal data, a formal legal basis is required.
 

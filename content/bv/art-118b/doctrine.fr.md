@@ -12,9 +12,9 @@
 
 **N. 4** L'art. 118b Cst. s'inscrit systématiquement entre les dispositions sur la médecine de transplantation (art. 119a Cst.) et sur la procréation médicalement assistée et le génie génétique dans le domaine humain (art. 119 Cst.). Cette classification révèle l'étroit lien avec d'autres domaines de réglementation biomédicale.
 
-**N. 5** La norme présente de forts liens avec les droits fondamentaux: La liberté de la recherche (→ art. 20 Cst.) est limitée par les obligations de protection en faveur de la dignité humaine (→ art. 7 Cst.) et de la liberté personnelle (→ art. 10 Cst.). Belser/Molinari soulignent que l'art. 118b Cst. « représente une concrétisation constitutionnelle du champ de tension fondamental entre liberté de la recherche et protection de la personnalité ».
+**N. 5** La norme présente de forts liens avec les droits fondamentaux : La liberté de la recherche (→ art. 20 Cst.) est limitée par les obligations de protection en faveur de la dignité humaine (→ art. 7 Cst.) et de la liberté personnelle (→ art. 10 Cst.). Belser/Molinari soulignent que l'art. 118b Cst. donne une expression constitutionnelle à la tension fondamentale qui oppose la liberté de la recherche à la protection de la personnalité.
 
-**N. 6** Dans le rapport avec d'autres dispositions constitutionnelles, la délimitation avec l'art. 119 Cst. est particulièrement pertinente. Tandis que l'art. 119 Cst. règle l'application de procédés génétiques, l'art. 118b Cst. saisit la recherche en amont. Belser/Molinari constatent: « L'art. 118b Cst. saisit la recherche dans tous les domaines de la santé, y compris la médecine de la procréation et de transplantation ».
+**N. 6** Dans le rapport avec d'autres dispositions constitutionnelles, la délimitation avec l'art. 119 Cst. est particulièrement pertinente. Tandis que l'art. 119 Cst. règle l'application de procédés génétiques, l'art. 118b Cst. saisit la recherche en amont. Belser/Molinari constatent que l'art. 118b Cst. couvre la recherche dans l'ensemble du domaine de la santé, médecine de la procréation et médecine de la transplantation comprises.
 
 ### 3. Éléments constitutifs / Contenu normatif
 
@@ -22,21 +22,21 @@
 
 **N. 8** **Domaine de la médecine et de la biologie** : La norme ne saisit pas seulement les essais cliniques, mais toute recherche ayant un objectif de connaissance lié à la santé. Cela comprend les études épidémiologiques, la recherche avec des matériaux biologiques et des données liées à la santé ainsi que la recherche psychologique ayant un lien avec la santé (Rütsche, Die Neuordnung des schweizerischen Humanforschungsgesetzes, ZSR 2010 I 405).
 
-**N. 9** **Protection de la dignité et de la personnalité**: Ces concepts renvoient aux droits fondamentaux aux art. 7 et 10 Cst. La dignité humaine pose des limites absolues à la recherche; la personnalité peut être restreinte sous les conditions de l'art. 36 Cst..
+**N. 9** **Protection de la dignité et de la personnalité** : Ces concepts renvoient aux droits fondamentaux aux art. 7 et 10 Cst. La dignité humaine pose des limites absolues à la recherche ; la personnalité peut être restreinte sous les conditions de l'art. 36 Cst..
 
 ### 4. Conséquences juridiques
 
 **N. 10** **Mandat législatif** : L'art. 118b al. 1 phr. 1 Cst. fonde une compétence fédérale étendue pour réglementer la recherche sur l'être humain. Celle-ci a été exercée par la loi sur la recherche humaine du 30 septembre 2011 (LRH ; RS 810.30) qui est entrée en vigueur le 1er janvier 2014.
 
-**N. 11** **Applicabilité directe**: Les principes mentionnés à l'al. 2 sont selon Belser/Molinari « directement applicables comme standards minimaux ». Ils lient le législateur et peuvent être utilisés pour l'interprétation de la LRH.
+**N. 11** **Applicabilité directe** : Les principes mentionnés à l'al. 2 sont selon Belser/Molinari directement applicables en tant qu'exigences minimales. Ils lient le législateur et peuvent être utilisés pour l'interprétation de la LRH.
 
 **N. 12** **Obligations de protection** : L'État doit agir activement pour protéger la dignité et la personnalité dans la recherche. Cela comprend des mesures préventives (obligations d'autorisation), des contrôles (commissions d'éthique) et des sanctions (Gächter/Rütsche, Gesundheitsrecht, 3e éd. 2013, n. 872).
 
 ### 5. Controverses
 
-**N. 13** **Étendue de la compétence fédérale**: Belser/Molinari défendent la position d'une compétence fédérale étendue, qui est cependant limitée quant au contenu par les mandats de protection: « La compétence fédérale doit être comprise comme étendue, que la Confédération ne peut cependant pas exercer de manière arbitraire ». En revanche, van Spyk et Rütsche qualifient l'art. 118b al. 1 de « compétence fédérale liée aux risques », qui s'oriente selon le besoin de protection (van Spyk, Grundlagen und Reichweite der neuen Bundeskompetenz, AJP 2010, 210; Rütsche, ZSR 2010 I 408).
+**N. 13** **Étendue de la compétence fédérale** : Belser/Molinari défendent la position d'une compétence fédérale étendue, qui est cependant limitée quant au contenu par les mandats de protection : selon eux, la compétence fédérale a une portée large, sans pour autant autoriser la Confédération à en faire un usage arbitraire. En revanche, van Spyk et Rütsche qualifient l'art. 118b al. 1 de « compétence fédérale liée aux risques », qui s'oriente selon le besoin de protection (van Spyk, Grundlagen und Reichweite der neuen Bundeskompetenz, AJP 2010, 210 ; Rütsche, ZSR 2010 I 408).
 
-**N. 14** **Rapport avec l'art. 119 Cst.**: La délimitation entre recherche (art. 118b Cst.) et application (art. 119 Cst.) dans le domaine de la procréation médicalement assistée est controversée. Belser/Molinari plaident pour une application étendue de l'art. 118b Cst. à toute la recherche, aussi dans le domaine de la procréation médicalement assistée. Rütsche différencie en revanche: « L'art. 119 Cst. prime comme norme plus spéciale, dans la mesure où il règle la recherche sur les embryons » (Rütsche, ZSR 2010 I 409). Sprecher soutient cette vision différenciée avec l'argument de la cohérence systématique (Sprecher, Medizinische Forschung mit Kindern und Jugendlichen, 2007, p. 89).
+**N. 14** **Rapport avec l'art. 119 Cst.** : La délimitation entre recherche (art. 118b Cst.) et application (art. 119 Cst.) dans le domaine de la procréation médicalement assistée est controversée. Belser/Molinari plaident pour une application étendue de l'art. 118b Cst. à toute la recherche, aussi dans le domaine de la procréation médicalement assistée. Rütsche différencie en revanche : « L'art. 119 Cst. prime comme norme plus spéciale, dans la mesure où il règle la recherche sur les embryons » (Rütsche, ZSR 2010 I 409). Sprecher soutient cette vision différenciée avec l'argument de la cohérence systématique (Sprecher, Medizinische Forschung mit Kindern und Jugendlichen, 2007, p. 89).
 
 **N. 15** **Recherche avec des personnes incapables de discernement** : Les conditions d'admissibilité de l'art. 118b al. 2 let. c Cst. font l'objet de débats intensifs. van Spyk défend une interprétation restrictive : « La recherche hétéronome sur des incapables de discernement n'est admissible qu'avec un risque minimal » (van Spyk, AJP 2010, 215). Brauer plaide pour plus de flexibilité sous de strictes mesures de protection : « Une interdiction catégorique exclurait les groupes vulnérables du progrès médical » (Brauer, Der Einfluss der Ethik auf das Recht, ZSR 2010 I 452). La NEK-CNE adopte une position intermédiaire (Prise de position n° 25/2015).
 

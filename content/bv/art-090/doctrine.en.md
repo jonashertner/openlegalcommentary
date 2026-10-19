@@ -30,7 +30,7 @@
 
 ## 5. Disputes
 
-**N. 11** **Constitutionality of a nuclear phase-out**: The Federal Office of Justice takes the position in its opinion "Constitutional Questions Nuclear Energy Phase-out" that a legally ordered, safety police motivated phase-out from nuclear energy is "at least not excluded". R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) takes a different view and considers a complete phase-out to be unconstitutional, as Art. 90 FC contains no prohibition competence.
+**N. 11** **Constitutionality of a nuclear phase-out**: The Federal Office of Justice takes the position in its opinion "Constitutional Questions Nuclear Energy Phase-out" that a legally ordered, safety police motivated phase-out from nuclear energy is, at any rate, not ruled out. R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) takes a different view and considers a complete phase-out to be unconstitutional, as Art. 90 FC contains no prohibition competence.
 
 **N. 12** **Scope of cantonal competences**: While prevailing doctrine denies the cantons any independent regulatory competence (Jagmetti, Energierecht, 2005, p. 472; Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, p. 235), a minority recognises limited cantonal scope for action in purely local aspects without safety-technical reference (Buser, AJP 2006, 387–395, 392).
 

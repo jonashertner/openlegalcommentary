@@ -26,7 +26,7 @@
 
 #### 3.1 Champ d'application personnel
 
-**N. 7** « Toute personne » à l'art. 33 al. 1 Cst. vise toutes les personnes physiques sans restriction de nationalité, d'âge, de capacité d'exercer des droits civils ou de domicile; la norme ne permet de déduire aucune exclusion, par exemple des étrangers ou des personnes incapables de discernement. Les personnes morales ainsi que les collectivités publiques peuvent également être pétitionnaires, pour autant qu'il s'agisse d'une affaire qui leur est propre; le Tribunal fédéral a laissé cette question ouverte dans **ATF 98 Ia 484 consid. 5a**. Tschannen constate que le droit de pétition peut être exercé « de façon quasi informelle et sans risque de préjudice ».
+**N. 7** « Toute personne » à l'art. 33 al. 1 Cst. vise toutes les personnes physiques sans restriction de nationalité, d'âge, de capacité d'exercer des droits civils ou de domicile ; la norme ne permet de déduire aucune exclusion, par exemple des étrangers ou des personnes incapables de discernement. Les personnes morales ainsi que les collectivités publiques peuvent également être pétitionnaires, pour autant qu'il s'agisse d'une affaire qui leur est propre ; le Tribunal fédéral a laissé cette question ouverte dans **ATF 98 Ia 484 consid. 5a**. Tschannen constate que le droit de pétition peut être exercé pratiquement sans formalités et sans que son auteur ait à craindre un désavantage.
 
 #### 3.2 Champ de protection matériel
 

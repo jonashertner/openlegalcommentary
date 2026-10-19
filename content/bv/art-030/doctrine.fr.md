@@ -56,7 +56,7 @@
 
 **N. 15** **Indépendance judiciaire et réélection** : **Kiener/Kälin/Wyttenbach** (Grundrechte, § 41 N. 12) voient dans les réélections périodiques un danger structurel pour l'indépendance. **Mastronardi** (St. Galler Kommentar BV, Vorbem. zu Art. 188-191c N. 28) objecte que la légitimation démocratique exige aussi des réélections. **Lienhard/Kettiger** (Justiz zwischen Management und Rechtsstaat, 178) demandent des mandats plus longs comme compromis.
 
-**N. 16** **Étendue de la publicité de la justice**: La portée de la publicité est controversée. **Oberholzer** (Grundzüge des Strafprozessrechts, N. 156) plaide pour une publicité médiatique complète. **Vest/Höhener** mettent en garde pour la protection des participants à la procédure. Le Tribunal fédéral privilégie la transparence (**ATF 143 I 194**).
+**N. 16** **Étendue de la publicité de la justice** : La portée de la publicité est controversée. **Oberholzer** (Grundzüge des Strafprozessrechts, N. 156) plaide pour une publicité médiatique complète. **Vest/Höhener** mettent en garde pour la protection des participants à la procédure. Le Tribunal fédéral privilégie la transparence (**ATF 143 I 194**).
 
 ### 6. Conseils pratiques
 

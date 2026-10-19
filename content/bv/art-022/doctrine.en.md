@@ -22,7 +22,7 @@
 
 **N. 7** At the level of international law, Art. 22 FC corresponds to Art. 11 ECHR (freedom of assembly and association) and Art. 21 UN Covenant II. The Federal Supreme Court has repeatedly held that the guarantees of Art. 11 ECHR and Art. 21 UN Covenant II do not go beyond the federal constitutional guarantee in terms of content and scope of protection (**BGE 132 I 256 E. 3 i.f.; BGE 148 I 33 E. 6.2**). Art. 22 FC and the corresponding Federal Supreme Court case law are primarily determinative.
 
-**N. 8** Freedom of assembly constitutes a central prerequisite for the free democratic formation of political will and the exercise of political rights (↔ Art. 34 FC). It fulfils a «safety-valve, warning, control, and innovation function» in democratic society.
+**N. 8** Freedom of assembly constitutes a central prerequisite for the free democratic formation of political will and the exercise of political rights (↔ Art. 34 FC). In democratic society, it acts as a safety valve and serves purposes of warning, control and innovation.
 
 ---
 

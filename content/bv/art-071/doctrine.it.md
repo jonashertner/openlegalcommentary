@@ -18,7 +18,7 @@
 
 ### 3. Elementi della fattispecie / Contenuto normativo
 
-**N. 6** Il **concetto di film** dell'art. 71 Cost. va inteso in senso ampio. In dottrina è descritto come opere audiovisive indipendentemente dal supporto. La configurazione concreta avviene tramite la legge sul cinema (LCin), che all'art. 2 LCin definisce i film come "una sequenza di immagini o di immagini e suoni" che "sono fissati su un supporto" e "possono essere proiettati con mezzi tecnici". Sono esclusi secondo l'art. 16 LCin i film pubblicitari, industriali e didattici nonché le pure produzioni televisive.
+**N. 6** Il **concetto di film** dell'art. 71 Cost. va inteso in senso ampio. In dottrina è descritto come opere audiovisive indipendentemente dal supporto. La configurazione concreta avviene tramite la legge sul cinema (LCin), che all'art. 2 LCin definisce i film come sequenze di immagini, con o senza suono, fissate su un supporto e proiettabili con mezzi tecnici. Sono esclusi secondo l'art. 16 LCin i film pubblicitari, industriali e didattici nonché le pure produzioni televisive.
 
 **N. 7** **Produzione cinematografica e cultura cinematografica** (cpv. 1) vanno intesi come concetti complementari. La produzione cinematografica comprende tutte le fasi di realizzazione di un film dallo sviluppo della sceneggiatura alla produzione fino alla postproduzione. La cultura cinematografica si riferisce alla mediazione, proiezione, archiviazione e confronto critico con il cinema. In dottrina si sottolinea che entrambi gli aspetti stanno sullo stesso piano.
 

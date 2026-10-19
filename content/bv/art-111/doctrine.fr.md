@@ -16,7 +16,7 @@
 
 ### a) Le principe des trois piliers (al. 1)
 
-**N. 5** L'art. 111 al. 1 Cst ancre les trois piliers comme structure porteuse de la prévoyance vieillesse, survivants et invalidité suisse. Selon une opinion doctrinale, ces piliers représentent « des principes d'aménagement matériels et des compléments matériels de la norme de compétence ou des directives matérielles du mandat législatif ».
+**N. 5** L'art. 111 al. 1 Cst ancre les trois piliers comme structure porteuse de la prévoyance vieillesse, survivants et invalidité suisse. Selon une opinion doctrinale, ces piliers constituent des principes matériels d'organisation, qui complètent sur le fond la norme de compétence ou orientent matériellement le mandat confié au législateur.
 
 **N. 6** Le **premier pilier** (AVS/AI) doit selon la doctrine dominante garantir les besoins vitaux (Locher/Gächter, Grundriss des Sozialversicherungsrechts, 4e éd. 2014, § 3 N. 12). Il repose sur le système de répartition et couvre obligatoirement l'ensemble de la population résidente.
 
@@ -30,7 +30,7 @@
 
 ### c) Accomplissement durable des tâches (al. 2)
 
-**N. 10** La Confédération doit selon l'art. 111 al. 2 Cst veiller à l'accomplissement durable des tâches du premier et du deuxième pilier. Une partie de la doctrine interprète ceci dans le sens où « le constituant [veut] souligner que le premier et le deuxième pilier doivent accomplir leurs tâches à long terme dans un système coordonné ».
+**N. 10** La Confédération doit selon l'art. 111 al. 2 Cst veiller à l'accomplissement durable des tâches du premier et du deuxième pilier. Une partie de la doctrine y voit la volonté du constituant de mettre en évidence que les deux premiers piliers doivent, sur le long terme, remplir leur mission de manière coordonnée.
 
 **N. 11** L'accomplissement durable des tâches comprend selon la doctrine dominante tant la viabilité financière que la réalisation des objectifs matériels (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10e éd. 2020, N. 789). La Confédération doit agir si le financement ou les objectifs de prestations sont menacés.
 

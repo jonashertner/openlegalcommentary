@@ -16,7 +16,7 @@
 
 ### a) Das Drei-Säulen-Prinzip (Abs. 1)
 
-**N. 5** Art. 111 Abs. 1 BV verankert die drei Säulen als tragende Struktur der schweizerischen Alters-, Hinterlassenen- und Invalidenvorsorge. Nach einer Lehrmeinung stellen diese Säulen «materielle Ausgestaltungsgrundsätze und materiell-rechtliche Ergänzungen der Kompetenznorm oder materielle Direktiven des Gesetzgebungsauftrages» dar.
+**N. 5** Art. 111 Abs. 1 BV verankert die drei Säulen als tragende Struktur der schweizerischen Alters-, Hinterlassenen- und Invalidenvorsorge. Nach einer Lehrmeinung enthalten diese Säulen inhaltliche Vorgaben für die Ausgestaltung, welche die Kompetenznorm materiell ergänzen bzw. den Gesetzgebungsauftrag inhaltlich steuern.
 
 **N. 6** Die **erste Säule** (AHV/IV) soll gemäss herrschender Lehre den Existenzbedarf sichern (Locher/Gächter, Grundriss des Sozialversicherungsrechts, 4. Aufl. 2014, § 3 N. 12). Sie beruht auf dem Umlageverfahren und erfasst die gesamte Wohnbevölkerung obligatorisch.
 
@@ -30,7 +30,7 @@
 
 ### c) Dauerhafte Zweckerfüllung (Abs. 2)
 
-**N. 10** Der Bund hat gemäss Art. 111 Abs. 2 BV für die dauerhafte Zweckerfüllung der ersten und zweiten Säule zu sorgen. In der Lehre wird dies dahingehend interpretiert, dass «der Verfassungsgeber herausstreichen [will], dass die erste und die zweite Säule ihre Aufgaben langfristig in einem koordinierten System wahrnehmen müssen».
+**N. 10** Der Bund hat gemäss Art. 111 Abs. 2 BV für die dauerhafte Zweckerfüllung der ersten und zweiten Säule zu sorgen. In der Lehre wird dies dahingehend interpretiert, dass der Verfassungsgeber hervorheben wollte, dass erste und zweite Säule ihre Aufgaben auf Dauer in einem aufeinander abgestimmten System erfüllen müssen.
 
 **N. 11** Die dauerhafte Zweckerfüllung umfasst nach herrschender Lehre sowohl die finanzielle Nachhaltigkeit als auch die materielle Zielerreichung (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 789). Der Bund muss aktiv werden, wenn die Finanzierung oder die Leistungsziele gefährdet sind.
 

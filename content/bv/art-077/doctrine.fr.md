@@ -20,7 +20,7 @@
 
 ### Multifonctionnalité de la forêt (al. 1)
 
-**Ch. 7** Le constituant ancre à l'al. 1 les trois fonctions classiques de la forêt: La **fonction protectrice** comprend la protection contre les dangers naturels (avalanches, chutes de pierres, érosion) et la fonction d'équilibrage climatique. La **fonction d'utilité** inclut en premier lieu la production de bois comme matière première renouvelable. La **fonction de bien-être** englobe les loisirs, la biodiversité, la protection des eaux et la purification de l'air.
+**Ch. 7** Le constituant ancre à l'al. 1 les trois fonctions classiques de la forêt : La **fonction protectrice** comprend la protection contre les dangers naturels (avalanches, chutes de pierres, érosion) et la fonction d'équilibrage climatique. La **fonction d'utilité** inclut en premier lieu la production de bois comme matière première renouvelable. La **fonction de bien-être** englobe les loisirs, la biodiversité, la protection des eaux et la purification de l'air.
 
 **Ch. 8** Cette triade des fonctions forestières n'est pas exhaustive. La politique forestière moderne reconnaît d'autres fonctions comme le stockage du CO₂ dans le contexte de la protection du climat. Déterminante est la prise en considération équivalente de toutes les fonctions sans priorisation a priori (Griffel, Wald und Recht, SZF 2012, 305).
 
@@ -52,7 +52,7 @@
 
 **Ch. 17** La densité réglementaire admissible pour les compétences de législation de principe est débattue de manière controversée. **Rausch/Marti/Griffel** (Umweltrecht, 142) défendent une interprétation restrictive : la Confédération ne pourrait édicter que des prescriptions-cadres. **Keller** (Volksinitiative « Rettet den Schweizer Wald », 23) plaide pour une interprétation plus large compte tenu de l'importance nationale de la protection des forêts.
 
-**Ch. 18** La notion dynamique de forêt de la LFo est particulièrement controversée. **Hoffmann/Griffel** critiquent que le législateur fédéral ait accordé aux cantons un « plein pouvoir » pour la remplacer par la notion statique de forêt, sans formuler de critères restrictifs. **Jaissle** (Der dynamische Waldbegriff, 187 ss.) défend la flexibilité comme nécessaire pour l'aménagement du territoire cantonal.
+**Ch. 18** La notion dynamique de forêt de la LFo est particulièrement controversée. **Hoffmann/Griffel** critiquent que le législateur fédéral ait accordé aux cantons un plein pouvoir pour la remplacer par la notion statique de forêt, sans formuler de critères restrictifs. **Jaissle** (Der dynamische Waldbegriff, 187 ss.) défend la flexibilité comme nécessaire pour l'aménagement du territoire cantonal.
 
 ### Rapport aux obligations internationales
 

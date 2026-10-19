@@ -60,11 +60,11 @@
 
 ### 5. Points de controverse
 
-**N. 18** **Exclusivité du FIF**: Il est controversé de savoir si le FIF représente l'instrument de financement exclusif pour l'infrastructure ferroviaire. Kern défend la position qu'il faut partir en principe d'un financement global et exclusif par le FIF. En revanche, Waldmeier plaide pour une interprétation plus restrictive qui autorise des financements supplémentaires en dehors du FIF (SG Komm. BV-Waldmeier, Art. 87a N. 24).
+**N. 18** **Exclusivité du FIF** : Il est controversé de savoir si le FIF représente l'instrument de financement exclusif pour l'infrastructure ferroviaire. Kern défend la position qu'il faut partir en principe d'un financement global et exclusif par le FIF. En revanche, Waldmeier plaide pour une interprétation plus restrictive qui autorise des financements supplémentaires en dehors du FIF (SG Komm. BV-Waldmeier, Art. 87a N. 24).
 
-**N. 19** **Renonciation aux intérêts**: La renonciation prévue par la loi à une rémunération des moyens du FIF est jugée constitutionnellement problématique par Kern, car elle contredit le principe d'utilisation économique des moyens. Cette position n'est cependant pas incontestée, d'autant plus que la Constitution elle-même ne prévoit aucune obligation de rémunération.
+**N. 19** **Renonciation aux intérêts** : La renonciation prévue par la loi à une rémunération des moyens du FIF est jugée constitutionnellement problématique par Kern, car elle contredit le principe d'utilisation économique des moyens. Cette position n'est cependant pas incontestée, d'autant plus que la Constitution elle-même ne prévoit aucune obligation de rémunération.
 
-**N. 20** **Neutralité concurrentielle**: Il est discuté si la subvention massive de l'infrastructure ferroviaire fausse la concurrence entre les moyens de transport. Kern n'y voit pas une violation de la liberté économique, mais l'expression d'une politique des transports créatrice. Cette vision correspond à la doctrine dominante, qui considère les mesures d'incitation de politique des transports comme admissibles.
+**N. 20** **Neutralité concurrentielle** : Il est discuté si la subvention massive de l'infrastructure ferroviaire fausse la concurrence entre les moyens de transport. Kern n'y voit pas une violation de la liberté économique, mais l'expression d'une politique des transports créatrice. Cette vision correspond à la doctrine dominante, qui considère les mesures d'incitation de politique des transports comme admissibles.
 
 ### 6. Indications pratiques
 

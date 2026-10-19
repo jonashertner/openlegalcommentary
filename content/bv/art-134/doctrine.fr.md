@@ -46,11 +46,11 @@
 ### 5. Controverses
 
 **N. 12** **Interprétation de la nature identique** : La doctrine est divisée dans l'appréciation de la jurisprudence du Tribunal fédéral :
-- **Biaggini** critique la pratique comme « favorable aux cantons » resp. « plus favorable au fisc qu'aux citoyens », car la cumulation d'impôts est simplement remplacée par une juxtaposition.
+- **Biaggini** critique la pratique comme favorable aux cantons resp. comme servant davantage le fisc que les citoyens, car la cumulation d'impôts est simplement remplacée par une juxtaposition.
 - **Behnisch** rejette la jurisprudence qui se fonde sur des catégories de science financière au lieu de critères technico-juridiques. Il exige que le Tribunal fédéral se détache de son « attitude beaucoup trop restrictive ».
 - **Vallender** (StR 1997, 1 ss) défend en revanche l'approche différenciée du Tribunal fédéral comme appropriée.
 
-**N. 13** **Approche de droit civil vs. approche de droit fiscal**: Il existe un conflit méthodologique pour la délimitation des droits de timbre. Le Tribunal fédéral s'est prononcé pour une approche de droit civil et a accepté une charge par les deux impôts. La doctrine est partagée à ce sujet:
+**N. 13** **Approche de droit civil vs. approche de droit fiscal** : Il existe un conflit méthodologique pour la délimitation des droits de timbre. Le Tribunal fédéral s'est prononcé pour une approche de droit civil et a accepté une charge par les deux impôts. La doctrine est partagée à ce sujet :
 - **Beusch** (Commentaire LT, Art. 3 N. 15 ss) prône la qualification de droit civil
 - **Blumenstein/Locher** (Système, p. 358) plaident pour une approche économique
 

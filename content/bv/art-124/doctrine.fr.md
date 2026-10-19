@@ -22,7 +22,7 @@
 
 ### 3.2 Aide
 
-**N. 7** L'« aide » constitutionnellement requise comprend selon la doctrine dominante un système à trois niveaux: aide immédiate, aide à plus long terme et prestations financières. Il est controversé de savoir si l'aide aux victimes a aussi un effet préventif. Une partie de la littérature défend l'opinion que l'aide aux victimes ne devrait pas seulement intervenir en présence d'une infraction, mais déjà en cas de menace d'infraction. Une autre partie de la doctrine s'oppose à cette interprétation en arguant qu'elle ne trouve d'appui ni dans le libellé ni dans les travaux préparatoires. La pratique jurisprudentielle du Tribunal fédéral ne s'est pas encore prononcée définitivement sur cette controverse.
+**N. 7** L'« aide » constitutionnellement requise comprend selon la doctrine dominante un système à trois niveaux : aide immédiate, aide à plus long terme et prestations financières. Il est controversé de savoir si l'aide aux victimes a aussi un effet préventif. Une partie de la littérature défend l'opinion que l'aide aux victimes ne devrait pas seulement intervenir en présence d'une infraction, mais déjà en cas de menace d'infraction. Une autre partie de la doctrine s'oppose à cette interprétation en arguant qu'elle ne trouve d'appui ni dans le libellé ni dans les travaux préparatoires. La pratique jurisprudentielle du Tribunal fédéral ne s'est pas encore prononcée définitivement sur cette controverse.
 
 ### 3.3 Indemnisation équitable
 

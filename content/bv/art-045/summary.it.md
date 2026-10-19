@@ -12,7 +12,7 @@ Sono interessati tutti i 26 Cantoni nonché le autorità federali (Assemblea fed
 
 ## Quali conseguenze giuridiche ne derivano?
 
-I diritti di partecipazione sono molteplici: i Cantoni possono presentare iniziative dei Cantoni (art. 160 Cost.), partecipare a procedure di consultazione (art. 147 Cost.), collaborare in Parlamento tramite il Consiglio degli Stati e partecipare alle decisioni sulle revisioni costituzionali (art. 140 Cost.). Il contenuto normativo dell'art. 45 Cost. è tuttavia controverso: Biaggini critica che il contenuto normativo sia «pari a zero» e che il concetto di partecipazione sia «infelice». Waldmann sostiene un'interpretazione estesa, che va dall'impulso alla partecipazione alle decisioni.
+I diritti di partecipazione sono molteplici: i Cantoni possono presentare iniziative dei Cantoni (art. 160 Cost.), partecipare a procedure di consultazione (art. 147 Cost.), collaborare in Parlamento tramite il Consiglio degli Stati e partecipare alle decisioni sulle revisioni costituzionali (art. 140 Cost.). Il contenuto normativo dell'art. 45 Cost. è tuttavia controverso: Biaggini critica che la disposizione sia priva di contenuto normativo e che il concetto di partecipazione sia infelice. Waldmann sostiene un'interpretazione estesa, che va dall'impulso alla partecipazione alle decisioni.
 
 ## Esempio pratico
 

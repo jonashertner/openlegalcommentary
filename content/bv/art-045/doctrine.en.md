@@ -16,7 +16,7 @@
 
 ### 3.1 Participation in Decision-Making (Para. 1)
 
-**N. 5** The concept of «participation» is deliberately formulated in open terms. Biaggini criticises this indeterminacy and advocates for a restrictive interpretation limited to «collective defensive measures». Waldmann, on the other hand, advocates a broad interpretation ranging from agenda-setting through influence to participation in decision-making.
+**N. 5** The concept of «participation» is deliberately formulated in open terms. Biaggini criticises this indeterminacy and advocates for a restrictive interpretation limited to collective defensive measures. Waldmann, on the other hand, advocates a broad interpretation ranging from agenda-setting through influence to participation in decision-making.
 
 **N. 6** The phrase «in accordance with the Federal Constitution» makes clear that no claims going beyond the constitutionally provided participation rights are established. The exemplary mention of legislation («in particular») shows that other forms of decision-making are also covered, such as federal spatial planning or foreign relations (→ Art. 55 FC).
 
@@ -28,7 +28,7 @@
 
 ## 4. Legal Consequences
 
-**N. 9** Art. 45 FC primarily establishes objective legal obligations of the Confederation. According to Biaggini, the «normative content is at zero» regarding subjective enforceability. However, violation of information and consultation obligations can lead to procedural defects that can be asserted in the context of constitutional review proceedings.
+**N. 9** Art. 45 FC primarily establishes objective legal obligations of the Confederation. According to Biaggini, the provision has no normative substance at all as regards subjective enforceability. However, violation of information and consultation obligations can lead to procedural defects that can be asserted in the context of constitutional review proceedings.
 
 **N. 10** Practical enforcement occurs mainly at the political level. The Conference of Cantonal Governments (KdK) and the specialist conferences of cantonal directors play a central role in this regard. Legally binding participation rights only arise from specific statutory implementation, for example in the Consultation Act (VlG) or in the Spatial Planning Act (Art. 13 para. 2 RPG).
 

@@ -30,7 +30,7 @@
 
 #### b) Objets imposables selon l'al. 1
 
-**N. 8** **Tabac et produits du tabac (let. a) :** La notion englobe le tabac brut et tous les produits fabriqués à partir de celui-ci pour fumer, priser ou chiquer. L'imposition des produits de substitution du tabac comme les cigarettes électroniques est controversée. Selon l'avis du Tribunal administratif fédéral, les cigarettes électroniques sont « après interprétation soigneuse et exhaustive, à considérer comme soumises à l'imposition du tabac ». Le Conseil fédéral, en revanche, les définit « expressément comme produit de substitution non assujetti à l'impôt ».
+**N. 8** **Tabac et produits du tabac (let. a) :** La notion englobe le tabac brut et tous les produits fabriqués à partir de celui-ci pour fumer, priser ou chiquer. L'imposition des produits de substitution du tabac comme les cigarettes électroniques est controversée. Selon l'avis du Tribunal administratif fédéral, les cigarettes électroniques sont, au terme d'une interprétation approfondie, soumises à l'impôt sur le tabac. Le Conseil fédéral, en revanche, les qualifie explicitement de produits de substitution exonérés de l'impôt.
 
 **N. 9** **Eaux-de-vie (let. b) :** Selon la définition légale extensive de l'art. 2 LAlc, sont comprises toutes les boissons avec une teneur en alcool de plus de 15 pour cent en volume ainsi que les boissons à plus faible teneur en alcool si l'alcool n'a pas été obtenu exclusivement par fermentation. Le Tribunal fédéral a confirmé cette interprétation large dans **BGE 143 II 409**.
 
@@ -50,7 +50,7 @@
 
 **N. 15** L'art. 131 Cst. fonde une compétence de la Confédération, non une obligation de percevoir l'impôt. La conception s'effectue au niveau législatif (LTab, LAlc, LIMin, LBI).
 
-**N. 16** Selon → l'art. 134 Cst., les impôts cantonaux et communaux de même nature sont exclus. Le Tribunal fédéral reconnaît toutefois des impôts cantonaux de répartition des coûts avec un but spécifique. Ainsi, il a déclaré admissible un prélèvement vaudois de 0,8% sur les boissons alcooliques à emporter comme « impôt de répartition des coûts conforme au droit fédéral justifié par la protection de la jeunesse ».
+**N. 16** Selon → l'art. 134 Cst., les impôts cantonaux et communaux de même nature sont exclus. Le Tribunal fédéral reconnaît toutefois des impôts cantonaux de répartition des coûts avec un but spécifique. Ainsi, il a déclaré admissible un prélèvement vaudois de 0,8% sur les boissons alcooliques à emporter, le considérant comme un impôt de répartition des coûts compatible avec le droit fédéral et fondé sur la protection de la jeunesse.
 
 **N. 17** Les recettes de l'imposition des eaux-de-vie sont partiellement affectées : 10% du produit net reviennent aux cantons pour lutter contre les causes et effets des problèmes d'addiction (al. 3). Cette affectation est justiciable.
 

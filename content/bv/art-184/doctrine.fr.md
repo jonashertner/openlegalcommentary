@@ -46,7 +46,7 @@
 
 ### 5. Controverses
 
-**N. 13** **Étendue de la compétence d'ordonner des mesures d'urgence**: Alors que Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10e éd. 2020, n. 1867) prônent une interprétation restrictive, une autre partie de la doctrine plaide pour une large marge d'appréciation du Conseil fédéral lors de l'évaluation des intérêts du pays.
+**N. 13** **Étendue de la compétence d'ordonner des mesures d'urgence** : Alors que Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10e éd. 2020, n. 1867) prônent une interprétation restrictive, une autre partie de la doctrine plaide pour une large marge d'appréciation du Conseil fédéral lors de l'évaluation des intérêts du pays.
 
 **N. 14** **Justiciabilité** : Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4e éd. 2014, § 31 n. 42) soutiennent que les arrêtés du Conseil fédéral selon l'art. 184 al. 3 Cst. ne sont justiciables que de manière limitée. La jurisprudence récente contredit cette position en exigeant au moins un contrôle judiciaire complet en cas d'atteintes aux droits fondamentaux (**ATF 141 I 20**).
 

@@ -30,7 +30,7 @@
 
 #### b) Oggetti imponibili secondo il cpv. 1
 
-**N. 8** **Tabacco e prodotti del tabacco (lett. a):** Il concetto comprende il tabacco greggio e tutti i prodotti fabbricati per fumare, fiutare o masticare. È controversa l'imposizione di prodotti sostitutivi del tabacco come le sigarette elettroniche. Secondo il Tribunale amministrativo federale, le sigarette elettroniche sono «da considerarsi soggette all'imposizione del tabacco dopo un'interpretazione accurata e globale». Il Consiglio federale invece le definisce «esplicitamente come prodotto sostitutivo non soggetto a imposta».
+**N. 8** **Tabacco e prodotti del tabacco (lett. a):** Il concetto comprende il tabacco greggio e tutti i prodotti fabbricati per fumare, fiutare o masticare. È controversa l'imposizione di prodotti sostitutivi del tabacco come le sigarette elettroniche. Secondo il Tribunale amministrativo federale, un'interpretazione attenta e complessiva porta a considerare le sigarette elettroniche soggette all'imposizione del tabacco. Il Consiglio federale invece le qualifica espressamente come prodotto sostitutivo esente da imposta.
 
 **N. 9** **Acquaviti (lett. b):** Secondo la definizione legale estensiva nell'art. 2 LAlc rientrano in questa categoria tutte le bevande con un tenore alcolico superiore al 15 per cento in volume nonché le bevande con tenore alcolico inferiore, se l'alcol non è stato ottenuto esclusivamente per fermentazione. Il Tribunale federale ha confermato questa interpretazione ampia in **DTF 143 II 409**.
 
@@ -50,7 +50,7 @@
 
 **N. 15** L'art. 131 Cost. fonda una competenza della Confederazione, non un obbligo di riscuotere imposte. La configurazione avviene a livello legislativo (LTTab, LAlc, LIOm, LBirra).
 
-**N. 16** Secondo l'→ art. 134 Cost. sono escluse imposte cantonali e comunali analoghe. Il Tribunale federale riconosce tuttavia imposte cantonali di causalità con scopo specifico. Così ha dichiarato ammissibile un tributo vodese dello 0,8% sulle bevande alcoliche da asporto come «imposta di causalità conforme al diritto federale giustificata dalla protezione della gioventù».
+**N. 16** Secondo l'→ art. 134 Cost. sono escluse imposte cantonali e comunali analoghe. Il Tribunale federale riconosce tuttavia imposte cantonali di causalità con scopo specifico. Così ha dichiarato ammissibile un tributo vodese dello 0,8% sulle bevande alcoliche da asporto qualificandolo come imposta causale compatibile con il diritto federale, in quanto giustificata da esigenze di protezione dei giovani.
 
 **N. 17** I proventi dell'imposizione delle acquaviti sono parzialmente vincolati nella destinazione: il 10% del ricavo netto va ai Cantoni per la lotta contro le cause e gli effetti dei problemi di dipendenza (cpv. 3). Questa destinazione vincolata è giustiziabile.
 
