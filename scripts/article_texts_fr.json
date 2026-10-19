@@ -48755,5 +48755,583 @@
         "text": "Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi. Date de l’entrée en vigueur: 1 er octobre 1969 ACF du 10 sept. 1969 ."
       }
     ]
+  },
+  "BGFA": {
+    "1": [
+      {
+        "text": "La présente loi garantit la libre circulation des avocats et fixe les principes applicables à l’exercice de la profession d’avocat en Suisse."
+      }
+    ],
+    "2": [
+      {
+        "num": "1",
+        "text": "La présente loi s’applique aux titulaires d’un brevet d’avocat qui pratiquent, dans le cadre d’un monopole, la représentation en justice en Suisse."
+      },
+      {
+        "num": "2",
+        "text": "Elle détermine les modalités selon lesquelles les personnes suivantes peuvent pratiquer la représentation en justice:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "les avocats ressortissants des États membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE);"
+          },
+          {
+            "letter": "b.",
+            "text": "les avocats ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord auxquels s’applique la quatrième partie de l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’Accord sur la libre circulation des personnes;"
+          },
+          {
+            "letter": "c.",
+            "text": "les avocats couverts par l’annexe A de l’Accord du 14 juin 2023 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord en matière de reconnaissance des qualifications professionnelles."
+          }
+        ]
+      },
+      {
+        "num": "3",
+        "text": "Ces modalités s’appliquent également aux ressortissants suisses habilités à exercer la profession d’avocat dans un État membre de l’UE ou de l’AELE sous un titre figurant en annexe."
+      },
+      {
+        "num": "4",
+        "text": "Les dispositions concernant les avocats ressortissants des États membres de l’UE ou de l’AELE sont applicables par analogie aux avocats ressortissants du Royaume-Uni visés à l’al. 2, let. b et c, sous réserve des dispositions qui se rapportent à la prestation de services (art. 21 et 22)."
+      }
+    ],
+    "3": [
+      {
+        "num": "1",
+        "text": "Est réservé le droit des cantons de fixer, dans le cadre de la présente loi, les exigences pour l’obtention du brevet d’avocat."
+      },
+      {
+        "num": "2",
+        "text": "Est réservé également le droit des cantons d’autoriser les titulaires des brevets d’avocat qu’ils délivrent à représenter des parties devant leurs propres autorités judiciaires."
+      }
+    ],
+    "4": [
+      {
+        "text": "Tout avocat inscrit à un registre cantonal des avocats peut pratiquer la représentation en justice en Suisse sans autre autorisation."
+      }
+    ],
+    "5": [
+      {
+        "num": "1",
+        "text": "Chaque canton institue un registre des avocats qui disposent d’une adresse professionnelle sur le territoire cantonal et qui remplissent les conditions prévues aux art. 7 et 8."
+      },
+      {
+        "num": "2",
+        "text": "Le registre contient les données personnelles suivantes:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "le nom, le prénom, la date de naissance et le lieu d’origine ou la nationalité;"
+          },
+          {
+            "letter": "b.",
+            "text": "une copie du brevet d’avocat;"
+          },
+          {
+            "letter": "c.",
+            "text": "les attestations établissant que les conditions prévues à l’art. 8 sont remplies;"
+          },
+          {
+            "letter": "d.",
+            "text": "la ou les adresses professionnelles ainsi que, le cas échéant, le nom de l’étude;"
+          },
+          {
+            "letter": "e.",
+            "text": "les mesures disciplinaires non radiées."
+          }
+        ]
+      },
+      {
+        "num": "3",
+        "text": "Il est tenu par l’autorité chargée de la surveillance des avocats."
+      }
+    ],
+    "6": [
+      {
+        "num": "1",
+        "text": "L’avocat titulaire d’un brevet d’avocat cantonal qui entend pratiquer la représentation en justice doit demander son inscription au registre du canton dans lequel il a son adresse professionnelle."
+      },
+      {
+        "num": "2",
+        "text": "L’autorité de surveillance l’inscrit s’il remplit les conditions prévues aux art. 7 et 8."
+      },
+      {
+        "num": "3",
+        "text": "Elle publie l’inscription dans un organe cantonal officiel."
+      },
+      {
+        "num": "4",
+        "text": "L’association des avocats du canton concerné dispose d’un droit de recours contre les inscriptions au registre cantonal des avocats."
+      }
+    ],
+    "7": [
+      {
+        "num": "1",
+        "text": "Pour être inscrit au registre, l’avocat doit être titulaire d’un brevet d’avocat. Les cantons ne peuvent délivrer un tel brevet que si le titulaire a effectué:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "des études de droit sanctionnées soit par une licence ou un master délivrés par une université suisse, soit par un diplôme équivalent délivré par une université de l’un des États qui ont conclu avec la Suisse un accord de reconnaissance mutuelle des diplômes;"
+          },
+          {
+            "letter": "b.",
+            "text": "un stage d’une durée d’un an au moins effectué en Suisse et sanctionné par un examen portant sur les connaissances juridiques théoriques et pratiques."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "Les cantons dans lesquels l’italien est langue officielle peuvent reconnaître un diplôme étranger obtenu en langue italienne équivalant à une licence ou à un master."
+      },
+      {
+        "num": "3",
+        "text": "Le bachelor en droit est une condition suffisante pour l’admission au stage."
+      }
+    ],
+    "8": [
+      {
+        "num": "1",
+        "text": "Pour être inscrit au registre, l’avocat doit remplir les conditions personnelles suivantes:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "avoir l’exercice des droits civils;"
+          },
+          {
+            "letter": "b.",
+            "text": "ne pas faire l’objet d’une condamnation pénale pour des faits incompatibles avec la profession d’avocat, à moins que cette condamnation ne figure plus sur l’extrait destiné aux particuliers selon l’art. 41 de la loi du 17 juin 2016 sur le casier judiciaire;"
+          },
+          {
+            "letter": "c.",
+            "text": "ne pas faire l’objet d’un acte de défaut de biens;"
+          },
+          {
+            "letter": "d.",
+            "text": "être en mesure de pratiquer en toute indépendance; il ne peut être employé que par des personnes elles-mêmes inscrites dans un registre cantonal."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "L’avocat qui est employé par une organisation reconnue d’utilité publique peut demander à être inscrit au registre à condition de remplir les conditions prévues à l’al. 1, let. a à c, et de limiter son activité de défenseur à des mandats concernant strictement le but visé par cette organisation."
+      }
+    ],
+    "9": [
+      {
+        "text": "L’avocat qui ne remplit plus l’une des conditions d’inscription est radié du registre."
+      }
+    ],
+    "10": [
+      {
+        "num": "1",
+        "text": "Sont admis à consulter le registre:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "les autorités judiciaires et administratives fédérales et cantonales devant lesquelles l’avocat exerce son activité;"
+          },
+          {
+            "letter": "b.",
+            "text": "les autorités judiciaires et administratives des États membres de l’UE ou de l’AELE devant lesquelles un avocat inscrit au registre exerce ses activités;"
+          },
+          {
+            "letter": "c.",
+            "text": "les autorités cantonales de surveillance des avocats;"
+          },
+          {
+            "letter": "d.",
+            "text": "l’avocat, pour les indications qui le concernent."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "Toute personne a le droit de demander si un avocat est inscrit au registre et s’il fait l’objet d’une interdiction de pratiquer."
+      }
+    ],
+    "10_a": [
+      {
+        "text": "Les données du registre nécessaires à l’attribution et à l’utilisation du numéro d’identification des entreprises au sens de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises, sont communiquées à l’Office fédéral de la statistique."
+      }
+    ],
+    "11": [
+      {
+        "num": "1",
+        "text": "L’avocat fait usage de son titre professionnel d’origine ou du titre équivalent délivré dans le canton au registre duquel il est inscrit."
+      },
+      {
+        "num": "2",
+        "text": "Dans ses relations d’affaires, il mentionne son inscription à un registre ou un barreau cantonal."
+      }
+    ],
+    "12": [
+      {
+        "text": "L’avocat est soumis aux règles professionnelles suivantes:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "il exerce sa profession avec soin et diligence;"
+          },
+          {
+            "letter": "b.",
+            "text": "il exerce son activité professionnelle en toute indépendance, en son nom personnel et sous sa propre responsabilité;"
+          },
+          {
+            "letter": "c.",
+            "text": "il évite tout conflit entre les intérêts de son client et ceux des personnes avec lesquelles il est en relation sur le plan professionnel ou privé;"
+          },
+          {
+            "letter": "d.",
+            "text": "il peut faire de la publicité, pour autant que celle-ci se limite à des faits objectifs et qu’elle satisfasse à l’intérêt général;"
+          },
+          {
+            "letter": "e.",
+            "text": "il ne peut pas, avant la conclusion d’une affaire, passer une convention avec son client par laquelle ce dernier accepterait de faire dépendre les honoraires du résultat de l’affaire; il ne peut pas non plus s’engager à renoncer à ses honoraires en cas d’issue défavorable du procès;"
+          },
+          {
+            "letter": "f.",
+            "text": "il doit être au bénéfice d’une assurance responsabilité civile professionnelle offrant une couverture adaptée à la nature et à l’étendue des risques liés à son activité; la somme couvrant les événements dommageables pour une année doit s’élever au minimum à un million de francs; des sûretés équivalentes peuvent remplacer l’assurance responsabilité civile;"
+          },
+          {
+            "letter": "g.",
+            "text": "il est tenu d’accepter les défenses d’office et les mandats d’assistance judiciaire dans le canton au registre duquel il est inscrit;"
+          },
+          {
+            "letter": "h.",
+            "text": "il conserve séparément les avoirs qui lui sont confiés et son patrimoine;"
+          },
+          {
+            "letter": "i.",
+            "text": "lorsqu’il accepte un mandat, il informe son client des modalités de facturation et le renseigne périodiquement ou à sa demande sur le montant des honoraires dus;"
+          },
+          {
+            "letter": "j.",
+            "text": "il communique à l’autorité de surveillance toute modification relative aux indications du registre le concernant."
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "num": "1",
+        "text": "L’avocat est soumis au secret professionnel pour toutes les affaires qui lui sont confiées par ses clients dans l’exercice de sa profession; cette obligation n’est pas limitée dans le temps et est applicable à l’égard des tiers. Le fait d’être délié du secret professionnel n’oblige pas l’avocat à divulguer des faits qui lui ont été confiés."
+      },
+      {
+        "num": "2",
+        "text": "Il veille à ce que ses auxiliaires respectent le secret professionnel."
+      }
+    ],
+    "14": [
+      {
+        "text": "Chaque canton désigne une autorité chargée de la surveillance des avocats qui pratiquent la représentation en justice sur son territoire."
+      }
+    ],
+    "15": [
+      {
+        "num": "1",
+        "text": "Les autorités judiciaires et administratives cantonales annoncent sans retard à l’autorité de surveillance de leur canton le défaut d’une condition personnelle au sens de l’art. 8, ou les faits susceptibles de constituer une violation des règles professionnelles."
+      },
+      {
+        "num": "2",
+        "text": "Les autorités judiciaires et administratives fédérales annoncent sans retard à l’autorité de surveillance du canton au registre duquel l’avocat est inscrit le défaut d’une condition personnelle au sens de l’art. 8, ou les faits susceptibles de constituer une violation des règles professionnelles."
+      }
+    ],
+    "16": [
+      {
+        "num": "1",
+        "text": "L’autorité de surveillance qui ouvre une procédure disciplinaire contre un avocat non inscrit dans le registre du canton doit en informer l’autorité de surveillance du canton au registre duquel l’avocat est inscrit."
+      },
+      {
+        "num": "2",
+        "text": "Si elle envisage de prononcer une mesure disciplinaire, elle donne à l’autorité de surveillance du canton au registre duquel l’avocat est inscrit la possibilité de déposer ses observations sur le résultat de l’enquête."
+      },
+      {
+        "num": "3",
+        "text": "Le résultat de la procédure doit être communiqué à l’autorité de surveillance du canton au registre duquel l’avocat est inscrit."
+      }
+    ],
+    "17": [
+      {
+        "num": "1",
+        "text": "En cas de violation de la présente loi, l’autorité de surveillance peut prononcer les mesures disciplinaires suivantes:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "l’avertissement;"
+          },
+          {
+            "letter": "b.",
+            "text": "le blâme;"
+          },
+          {
+            "letter": "c.",
+            "text": "une amende de 20 000 francs au plus;"
+          },
+          {
+            "letter": "d.",
+            "text": "l’interdiction temporaire de pratiquer pour une durée maximale de deux ans;"
+          },
+          {
+            "letter": "e.",
+            "text": "l’interdiction définitive de pratiquer."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "L’amende peut être cumulée avec une interdiction de pratiquer."
+      },
+      {
+        "num": "3",
+        "text": "Si nécessaire, l’autorité de surveillance peut retirer provisoirement l’autorisation de pratiquer."
+      }
+    ],
+    "18": [
+      {
+        "num": "1",
+        "text": "L’interdiction de pratiquer a effet sur tout le territoire suisse."
+      },
+      {
+        "num": "2",
+        "text": "Elle est communiquée aux autorités de surveillance des autres cantons."
+      }
+    ],
+    "19": [
+      {
+        "num": "1",
+        "text": "La poursuite disciplinaire se prescrit par un an à compter du jour où l’autorité de surveillance a eu connaissance des faits incriminés."
+      },
+      {
+        "num": "2",
+        "text": "Le délai est interrompu par tout acte d’instruction de l’autorité de surveillance."
+      },
+      {
+        "num": "3",
+        "text": "La poursuite disciplinaire se prescrit en tout cas par dix ans à compter de la commission des faits incriminés."
+      },
+      {
+        "num": "4",
+        "text": "Si la violation des règles professionnelles constitue un acte punissable pénalement, la prescription plus longue prévue par le droit pénal s’applique à la poursuite disciplinaire."
+      }
+    ],
+    "20": [
+      {
+        "num": "1",
+        "text": "L’avertissement, le blâme et l’amende sont radiés du registre cinq ans après leur prononcé."
+      },
+      {
+        "num": "2",
+        "text": "L’interdiction temporaire de pratiquer est radiée du registre dix ans après la fin de ses effets."
+      }
+    ],
+    "21": [
+      {
+        "num": "1",
+        "text": "L’avocat ressortissant d’un État membre de l’UE ou de l’AELE habilité à exercer dans son État de provenance sous l’une des dénominations figurant en annexe peut pratiquer la représentation en justice en Suisse sous la forme de prestation de services."
+      },
+      {
+        "num": "2",
+        "text": "L’avocat prestataire de services n’est pas inscrit au registre cantonal des avocats."
+      }
+    ],
+    "22": [
+      {
+        "text": "Les autorités judiciaires fédérales et cantonales devant lesquelles l’avocat prestataire de services exerce son activité ainsi que les autorités de surveillance des avocats peuvent lui demander d’établir sa qualité d’avocat."
+      }
+    ],
+    "23": [
+      {
+        "text": "Pour les procédures où l’assistance d’un avocat est obligatoire, l’avocat prestataire de services agit de concert avec un avocat inscrit à un registre cantonal des avocats."
+      }
+    ],
+    "24": [
+      {
+        "text": "L’avocat prestataire de services fait usage de son titre professionnel d’origine exprimé dans la ou l’une des langues officielles de l’État de provenance, accompagné du nom de l’organisme professionnel dont il relève ou de celui de la juridiction auprès de laquelle il est habilité à exercer en application de la législation de cet État."
+      }
+    ],
+    "25": [
+      {
+        "text": "L’avocat prestataire de services est soumis aux règles professionnelles prévues à l’art. 12, à l’exception de celles relatives aux défenses d’office et aux mandats d’assistance judiciaire (let. g) ainsi qu’au registre (let. j)."
+      }
+    ],
+    "26": [
+      {
+        "text": "L’autorité de surveillance informe l’autorité compétente de l’État de provenance des mesures disciplinaires qu’elle a prises à l’encontre de l’avocat prestataire de services."
+      }
+    ],
+    "27": [
+      {
+        "num": "1",
+        "text": "L’avocat ressortissant d’un État membre de l’UE ou de l’AELE habilité à exercer dans son État de provenance sous un titre figurant en annexe peut pratiquer la représentation en justice en Suisse à titre permanent, sous son titre professionnel d’origine, après s’être inscrit au tableau."
+      },
+      {
+        "num": "2",
+        "text": "Les art. 23 à 25 sont applicables."
+      }
+    ],
+    "28": [
+      {
+        "num": "1",
+        "text": "L’autorité de surveillance tient un tableau public des avocats des États membres de l’UE ou de l’AELE autorisés à pratiquer la représentation en justice en Suisse de manière permanente sous leur titre d’origine."
+      },
+      {
+        "num": "2",
+        "text": "L’avocat s’inscrit auprès de l’autorité de surveillance du canton sur le territoire duquel il a une adresse professionnelle. Il établit sa qualité d’avocat en produisant une attestation de son inscription auprès de l’autorité compétente de son État de provenance; cette attestation ne doit pas dater de plus de trois mois."
+      },
+      {
+        "num": "3",
+        "text": "Après avoir inscrit l’avocat au tableau, l’autorité de surveillance en informe l’autorité compétente de l’État de provenance."
+      }
+    ],
+    "29": [
+      {
+        "num": "1",
+        "text": "Avant d’ouvrir une procédure disciplinaire contre un avocat ressortissant d’un État membre de l’UE ou de l’AELE exerçant de manière permanente en Suisse sous son titre d’origine, l’autorité de surveillance informe l’autorité compétente de l’État de provenance."
+      },
+      {
+        "num": "2",
+        "text": "L’autorité de surveillance coopère avec l’autorité compétente de l’État de provenance pendant la procédure disciplinaire en lui donnant notamment la possibilité de déposer des observations."
+      }
+    ],
+    "30": [
+      {
+        "num": "1",
+        "text": "L’avocat ressortissant d’un État membre de l’UE ou de l’AELE peut être inscrit à un registre cantonal des avocats sans remplir les conditions prévues à l’art. 7, let. b:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "s’il a réussi une épreuve d’aptitude (art. 31), ou"
+          },
+          {
+            "letter": "b.",
+            "text": "s’il a été inscrit pendant trois ans au moins au tableau des avocats pratiquant sous leur titre professionnel d’origine et:1. qu’il justifie pendant cette période d’une activité effective et régulière en droit suisse, ou2. qu’il justifie d’une activité effective et régulière d’une durée moindre en droit suisse et qu’il a passé avec succès un entretien de vérification de ses compétences professionnelles (art. 32)."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "Il jouit alors des mêmes droits et obligations qu’un avocat titulaire d’un brevet cantonal inscrit au registre."
+      }
+    ],
+    "31": [
+      {
+        "num": "1",
+        "text": "Peuvent se présenter à l’épreuve d’aptitude les avocats ressortissants des États membres de l’UE ou de l’AELE qui:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "ont suivi avec succès un cycle d’études d’une durée minimale de trois ans dans une université et, le cas échéant, la formation complémentaire requise en plus de ce cycle d’études, et"
+          },
+          {
+            "letter": "b.",
+            "text": "possèdent un diplôme permettant l’exercice de la profession d’avocat dans un État membre de l’UE ou de l’AELE."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "La commission des examens d’avocat du canton au registre duquel l’avocat souhaite être inscrit lui fait passer une épreuve d’aptitude."
+      },
+      {
+        "num": "3",
+        "text": "L’épreuve porte sur les matières qui figurent au programme de l’examen cantonal d’accès à la profession d’avocat, et qui sont substantiellement différentes de celles comprises dans le cadre de la formation suivie par le candidat dans son État de provenance. Le contenu de l’épreuve est fixé compte tenu également de l’expérience professionnelle du candidat."
+      },
+      {
+        "num": "4",
+        "text": "L’épreuve d’aptitude peut être repassée deux fois."
+      }
+    ],
+    "32": [
+      {
+        "num": "1",
+        "text": "La commission des examens d’avocat du canton au registre duquel l’avocat souhaite être inscrit est compétente pour évaluer les compétences professionnelles de l’avocat lors d’un entretien."
+      },
+      {
+        "num": "2",
+        "text": "Elle se base notamment sur les informations et les documents produits par l’avocat et relatifs à son activité en Suisse."
+      },
+      {
+        "num": "3",
+        "text": "Elle prend en compte les connaissances et l’expérience professionnelle de l’avocat en droit suisse, ainsi que sa participation à des cours ou des séminaires portant sur le droit suisse."
+      }
+    ],
+    "33": [
+      {
+        "text": "L’avocat peut utiliser, outre le titre professionnel du canton au registre duquel il est inscrit, son titre professionnel d’origine."
+      }
+    ],
+    "34": [
+      {
+        "num": "1",
+        "text": "Les cantons règlent la procédure."
+      },
+      {
+        "num": "2",
+        "text": "Ils prévoient une procédure simple et rapide pour l’examen des conditions d’inscription dans le registre cantonal."
+      }
+    ],
+    "34_a": [
+      {
+        "num": "1",
+        "text": "Le Conseil fédéral peut, dans le champ d’application de la présente loi, conclure des traités internationaux en matière de reconnaissance de titres professionnels étrangers qui autorisent l’exercice de la profession d’avocat."
+      },
+      {
+        "num": "2",
+        "text": "Il veille notamment à ce que:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "les avocats soient soumis aux règles professionnelles définies à l’art. 25;"
+          },
+          {
+            "letter": "b.",
+            "text": "l’inscription au registre cantonal des avocats se fonde sur les principes applicables aux avocats ressortissants des États membres de l’UE ou de l’AELE."
+          }
+        ]
+      },
+      {
+        "num": "3",
+        "text": "Il peut édicter des dispositions d’exécution mettant en œuvre ces traités."
+      }
+    ],
+    "35": [
+      {
+        "text": "…"
+      }
+    ],
+    "36": [
+      {
+        "text": "Les titulaires de brevets d’avocat délivrés conformément à l’ancien droit cantonal sont inscrits à un registre cantonal s’ils pouvaient obtenir une autorisation de pratiquer dans les autres cantons en vertu de l’art. 196, ch. 5, de la Constitution."
+      }
+    ]
   }
 }
