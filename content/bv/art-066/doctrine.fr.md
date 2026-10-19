@@ -20,13 +20,13 @@
 
 ### 3. Éléments constitutifs / Contenu normatif
 
-**N. 7** **Al. 1 phrase 1: Compétence de soutien non autonome.** La Confédération « peut » allouer des contributions — la formulation « peut » fonde une compétence fédérale facultative. Les contributions sont versées « aux » dépenses cantonales, non directement aux étudiants. Ceci souligne le caractère subsidiaire du soutien fédéral.
+**N. 7** **Al. 1 phrase 1 : Compétence de soutien non autonome.** La Confédération « peut » allouer des contributions — la formulation « peut » fonde une compétence fédérale facultative. Les contributions sont versées « aux » dépenses cantonales, non directement aux étudiants. Ceci souligne le caractère subsidiaire du soutien fédéral.
 
 **N. 8** Le terme « contributions de formation » comprend les bourses (prestations non remboursables) et les prêts (prestations remboursables). « Hautes écoles » désigne les hautes écoles universitaires, les hautes écoles spécialisées et les hautes écoles pédagogiques. « Autres institutions du degré tertiaire » couvre la formation professionnelle supérieure.
 
-**N. 9** **Al. 1 phrase 2: Compétence d'harmonisation.** La Confédération peut encourager « l'harmonisation intercantonale » et fixer des « principes ». Cette compétence est plus large que la pure compétence de contribution et permet à la Confédération d'influencer l'unification du droit. Les principes peuvent comprendre des standards minimaux pour l'admissibilité, le calcul et la procédure.
+**N. 9** **Al. 1 phrase 2 : Compétence d'harmonisation.** La Confédération peut encourager « l'harmonisation intercantonale » et fixer des « principes ». Cette compétence est plus large que la pure compétence de contribution et permet à la Confédération d'influencer l'unification du droit. Les principes peuvent comprendre des standards minimaux pour l'admissibilité, le calcul et la procédure.
 
-**N. 10** **Al. 2: Compétence de soutien autonome.** « En complément » signale la subsidiarité, « dans le respect de la souveraineté cantonale » pose des limites claires. La Confédération peut développer ses propres programmes, mais pas en concurrence avec les cantons. Des exemples sont les contributions d'excellence ou des programmes spécifiques de mobilité.
+**N. 10** **Al. 2 : Compétence de soutien autonome.** « En complément » signale la subsidiarité, « dans le respect de la souveraineté cantonale » pose des limites claires. La Confédération peut développer ses propres programmes, mais pas en concurrence avec les cantons. Des exemples sont les contributions d'excellence ou des programmes spécifiques de mobilité.
 
 ### 4. Effets juridiques
 

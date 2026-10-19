@@ -10,7 +10,7 @@
 
 ### 2. Position systématique
 
-**N. 4** L'art. 61a Cst. forme l'introduction programmatique de la 3e section sur « Formation, recherche et culture » et est systématiquement étroitement lié aux dispositions spéciales qui suivent: → art. 62 Cst. (école), → art. 63 Cst. (formation professionnelle), → art. 63a Cst. (hautes écoles), → art. 64a Cst. (formation continue). La norme fonctionne comme un cadre global qui englobe tous les degrés de formation.
+**N. 4** L'art. 61a Cst. forme l'introduction programmatique de la 3e section sur « Formation, recherche et culture » et est systématiquement étroitement lié aux dispositions spéciales qui suivent : → art. 62 Cst. (école), → art. 63 Cst. (formation professionnelle), → art. 63a Cst. (hautes écoles), → art. 64a Cst. (formation continue). La norme fonctionne comme un cadre global qui englobe tous les degrés de formation.
 
 **N. 5** L'obligation de coordination selon l'art. 61a al. 2 Cst. va au-delà de l'obligation générale de coopération de l'→ art. 44 Cst. Alors qu'il est controversé dans la doctrine s'il existe une « obligation dépassant considérablement la mesure de l'art. 44 » (négativement : Biaggini, Komm. BV, Art. 61a N. 25 ; affirmativement : CSEC-CN), la pratique montre que l'art. 61a Cst. légitime des instruments de coordination spécifiques comme le concordat HarmoS.
 
@@ -18,15 +18,15 @@
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 7** **Espace suisse de formation (al. 1)**: Ce terme englobe tous les degrés de formation depuis l'école enfantine jusqu'à la formation quaternaire ainsi que la formation formelle, non formelle et informelle. L'« espace » doit être compris non pas géographiquement, mais fonctionnellement comme un système cohérent avec des transitions perméables.
+**N. 7** **Espace suisse de formation (al. 1)** : Ce terme englobe tous les degrés de formation depuis l'école enfantine jusqu'à la formation quaternaire ainsi que la formation formelle, non formelle et informelle. L'« espace » doit être compris non pas géographiquement, mais fonctionnellement comme un système cohérent avec des transitions perméables.
 
-**N. 8** **Qualité**: L'assurance qualité se rapporte tant aux contenus de formation qu'aux structures et processus. Elle comprend des standards minimaux, des mécanismes d'évaluation et l'amélioration continue. Le concept est dynamique et s'oriente vers les standards internationaux.
+**N. 8** **Qualité** : L'assurance qualité se rapporte tant aux contenus de formation qu'aux structures et processus. Elle comprend des standards minimaux, des mécanismes d'évaluation et l'amélioration continue. Le concept est dynamique et s'oriente vers les standards internationaux.
 
-**N. 9** **Perméabilité**: La mobilité verticale (entre degrés de formation) et horizontale (entre filières de formation) est centrale. La perméabilité exige la reconnaissance mutuelle des diplômes, des structures compatibles et la capacité de raccordement des filières de formation.
+**N. 9** **Perméabilité** : La mobilité verticale (entre degrés de formation) et horizontale (entre filières de formation) est centrale. La perméabilité exige la reconnaissance mutuelle des diplômes, des structures compatibles et la capacité de raccordement des filières de formation.
 
-**N. 10** **Coordination et collaboration (al. 2)**: Le souci « conjoint » fonde une obligation constitutionnelle de coopérer qui va au-delà de la simple consultation. La Confédération et les cantons doivent coordonner leurs mesures et ne peuvent pas agir de manière isolée.
+**N. 10** **Coordination et collaboration (al. 2)** : Le souci « conjoint » fonde une obligation constitutionnelle de coopérer qui va au-delà de la simple consultation. La Confédération et les cantons doivent coordonner leurs mesures et ne peuvent pas agir de manière isolée.
 
-**N. 11** **Reconnaissance équivalente (al. 3)**: La norme postule l'équivalence des voies de formation générale et professionnelle. Ceci interdit une évaluation hiérarchique et exige des accès égaux aux filières de formation supérieure.
+**N. 11** **Reconnaissance équivalente (al. 3)** : La norme postule l'équivalence des voies de formation générale et professionnelle. Ceci interdit une évaluation hiérarchique et exige des accès égaux aux filières de formation supérieure.
 
 ### 4. Effets juridiques
 

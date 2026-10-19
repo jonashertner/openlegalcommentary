@@ -4,7 +4,7 @@
 
 **N. 1** Art. 151 FC continues the tradition of parliamentary sessions that applied under Art. 75 FC 1848 and Art. 86 FC 1874. The Message on a New Federal Constitution of 20 November 1996 (BBl 1997 I 1) emphasises that the provision was deliberately designed to be flexible, leaving the legislature scope for concrete implementation. The constitutional revision refrained from detailed requirements on the number and duration of sessions in order to meet future parliamentary needs.
 
-**N. 2** The right to convene extraordinary sessions (para. 2) was modernised compared to the old constitutional law. Whereas Art. 23 para. 8 FC 1874 still provided for a right of convocation for five cantons, Aubert describes this regulation as a «misguided symmetrical provision». The new Constitution restricts the right to convene to one quarter of the council members or the Federal Council, which better corresponds to parliamentary reality.
+**N. 2** The right to convene extraordinary sessions (para. 2) was modernised compared to the old constitutional law. Whereas Art. 23 para. 8 FC 1874 still provided for a right of convocation for five cantons, Aubert describes this regulation as a misguided symmetrical provision. The new Constitution restricts the right to convene to one quarter of the council members or the Federal Council, which better corresponds to parliamentary reality.
 
 ### 2. Systematic Classification
 
@@ -14,7 +14,7 @@
 - → Art. 163 para. 2 FC (Quorum for capacity to pass resolutions)
 - → Art. 185 para. 4 FC (Reporting by the Federal Council)
 
-**N. 4** According to Biaggini, the bicameral system requires «the material equivalence of both councils, not the formal identity of the procedure of both councils». Art. 151 FC concretises this principle by having both councils convene for the same sessions but deliberate separately.
+**N. 4** According to Biaggini, the bicameral system requires that both councils be equivalent in substance, not that their procedures be formally identical. Art. 151 FC concretises this principle by having both councils convene for the same sessions but deliberate separately.
 
 ### 3. Elements of the Legal Norm / Normative Content
 

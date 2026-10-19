@@ -2,7 +2,7 @@
 
 ## Aperçu
 
-L'article 23 de la Constitution fédérale protège le droit de s'associer avec d'autres. La liberté d'association est un droit fondamental qui comprend trois dimensions: la liberté d'association positive (le droit de fonder des associations et d'y adhérer), la liberté d'association négative (la protection contre l'obligation d'adhésion) et la liberté d'association collective (la liberté de l'association elle-même).
+L'article 23 de la Constitution fédérale protège le droit de s'associer avec d'autres. La liberté d'association est un droit fondamental qui comprend trois dimensions : la liberté d'association positive (le droit de fonder des associations et d'y adhérer), la liberté d'association négative (la protection contre l'obligation d'adhésion) et la liberté d'association collective (la liberté de l'association elle-même).
 
 **Que règle la norme ?** L'art. 23 Cst. garantit la liberté de former des associations, des partis et d'autres groupements et d'y participer (al. 1 et 2). En même temps, elle protège contre l'obligation de devoir adhérer à une association (al. 3). Les associations peuvent être des associations formelles selon l'art. 60 ss CC ou aussi des regroupements informels sans structure juridique.
 

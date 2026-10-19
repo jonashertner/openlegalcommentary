@@ -26,7 +26,7 @@
 
 #### 3.1 Persönlicher Geltungsbereich
 
-**N. 7** «Jede Person» in Art. 33 Abs. 1 BV erfasst alle natürlichen Personen ohne Einschränkung nach Staatsangehörigkeit, Alter, Handlungsfähigkeit oder Wohnsitz; der Norm lässt sich kein Ausschluss etwa von Ausländerinnen und Ausländern oder urteilsunfähigen Personen entnehmen. Auch juristische Personen sowie Gemeinwesen können Petitionäre sein, soweit es sich um eine eigene Angelegenheit handelt; diese Frage liess das Bundesgericht in **BGE 98 Ia 484 E. 5a** offen. Tschannen hält fest, dass das Petitionsrecht «nahezu formlos und nachteilsfrei» ausgeübt werden kann.
+**N. 7** «Jede Person» in Art. 33 Abs. 1 BV erfasst alle natürlichen Personen ohne Einschränkung nach Staatsangehörigkeit, Alter, Handlungsfähigkeit oder Wohnsitz; der Norm lässt sich kein Ausschluss etwa von Ausländerinnen und Ausländern oder urteilsunfähigen Personen entnehmen. Auch juristische Personen sowie Gemeinwesen können Petitionäre sein, soweit es sich um eine eigene Angelegenheit handelt; diese Frage liess das Bundesgericht in **BGE 98 Ia 484 E. 5a** offen. Tschannen hält fest, dass das Petitionsrecht praktisch ohne Formerfordernisse und ohne Nachteile für die Petenten ausgeübt werden kann.
 
 #### 3.2 Sachlicher Schutzbereich
 

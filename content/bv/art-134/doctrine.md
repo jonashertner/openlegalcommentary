@@ -46,7 +46,7 @@
 ### 5. Streitstände
 
 **N. 12** **Auslegung der Gleichartigkeit**: Die Lehre ist in der Beurteilung der bundesgerichtlichen Rechtsprechung gespalten:
-- **Biaggini** kritisiert die Praxis als «kantonsfreundlich» bzw. «mehr fiskus- als bürgerfreundlich», weil die Kumulation von Steuern bloss durch ein Nebeneinander ersetzt werde.
+- **Biaggini** kritisiert die Praxis als kantonsfreundlich bzw. als eher den Interessen des Fiskus als jenen der Bürger dienend, weil die Kumulation von Steuern bloss durch ein Nebeneinander ersetzt werde.
 - **Behnisch** lehnt die Rechtsprechung ab, die auf finanzwissenschaftliche Kategorien statt auf rechtstechnische Kriterien abstelle. Er fordert, das Bundesgericht solle sich von seiner «viel zu restriktiven Haltung» lösen.
 - **Vallender** (StR 1997, 1 ff.) verteidigt demgegenüber die differenzierende Betrachtungsweise des Bundesgerichts als sachgerecht.
 

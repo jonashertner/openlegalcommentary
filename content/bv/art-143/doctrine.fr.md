@@ -15,7 +15,7 @@
 - les **incompatibilités** entre différentes charges (art. 144 Cst.)
 - les **procédures d'élection** (→ art. 149 al. 2, art. 157 al. 1, art. 168 al. 1, art. 175 al. 2 Cst.)
 
-**N. 5** Pour le Conseil des États, il n'existe pas de réglementation fédérale de l'éligibilité; celle-ci reste réservée au droit cantonal selon l'art. 150 al. 3 Cst..
+**N. 5** Pour le Conseil des États, il n'existe pas de réglementation fédérale de l'éligibilité ; celle-ci reste réservée au droit cantonal selon l'art. 150 al. 3 Cst..
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
@@ -36,11 +36,11 @@
 
 ### 5. Questions controversées
 
-**N. 11** **Conditions d'éligibilité supplémentaires par le législateur**: La doctrine dominante soutient que les conditions mentionnées à l'art. 143 Cst. sont exhaustives. Sägesser considère en revanche qu'il est admissible que le législateur fixe d'autres conditions d'éligibilité lorsque la charge exige une formation particulière, notamment une formation juridique pour les juges fédéraux.
+**N. 11** **Conditions d'éligibilité supplémentaires par le législateur** : La doctrine dominante soutient que les conditions mentionnées à l'art. 143 Cst. sont exhaustives. Sägesser considère en revanche qu'il est admissible que le législateur fixe d'autres conditions d'éligibilité lorsque la charge exige une formation particulière, notamment une formation juridique pour les juges fédéraux.
 
 **N. 12** **Applicabilité de l'interdiction d'exercer une profession du droit pénal** : Il est controversé de savoir si l'interdiction d'exercer une profession selon l'art. 67 CP est applicable aux autorités fédérales suprêmes. Rhinow/Schefer l'affirment en argumentant que les mandats politiques doivent aussi être qualifiés d'« activité » au sens de la norme pénale. Biaggini rejette cette conception et argumente avec la primauté de la norme constitutionnelle plus spéciale.
 
-**N. 13** **Juge non professionnel au Tribunal fédéral**: La tradition démocratique du juge non professionnel est en tension avec la professionnalisation de la justice. Kiener souligne que l'organisation judiciaire se caractérise par la primauté des conceptions démocratiques. L'admissibilité d'exigences de qualification supplémentaires pour les juges fédéraux reste controversée (→ n. 11).
+**N. 13** **Juge non professionnel au Tribunal fédéral** : La tradition démocratique du juge non professionnel est en tension avec la professionnalisation de la justice. Kiener souligne que l'organisation judiciaire se caractérise par la primauté des conceptions démocratiques. L'admissibilité d'exigences de qualification supplémentaires pour les juges fédéraux reste controversée (→ n. 11).
 
 ### 6. Indications pratiques
 

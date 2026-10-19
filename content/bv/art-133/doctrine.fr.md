@@ -12,7 +12,7 @@
 
 **N. 3** L'art. 133 Cst. s'inscrit systématiquement dans le 3e titre (« Confédération, cantons et communes »), chapitre 3 (« Ordre financier »), section 1 (« Généralités »). Cette classification souligne l'importance des douanes pour les finances fédérales en matière de politique financière, même si leur importance fiscale est aujourd'hui dépassée par d'autres sources de recettes.
 
-**N. 4** La norme entretient des liens étroits avec d'autres dispositions constitutionnelles: → art. 54 Cst. (Affaires extérieures) pour les accords commerciaux internationaux, ↔ art. 94 Cst. (Liberté économique) pour les limites des droits de douane à but économique, → art. 127 Cst. (Principes régissant l'imposition) pour les principes généraux de la perception des redevances et → art. 130 Cst. (Taxe sur la valeur ajoutée) pour la délimitation avec l'impôt à l'importation.
+**N. 4** La norme entretient des liens étroits avec d'autres dispositions constitutionnelles : → art. 54 Cst. (Affaires extérieures) pour les accords commerciaux internationaux, ↔ art. 94 Cst. (Liberté économique) pour les limites des droits de douane à but économique, → art. 127 Cst. (Principes régissant l'imposition) pour les principes généraux de la perception des redevances et → art. 130 Cst. (Taxe sur la valeur ajoutée) pour la délimitation avec l'impôt à l'importation.
 
 ### 3. Éléments constitutifs / Contenu normatif
 

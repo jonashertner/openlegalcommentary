@@ -12,4 +12,4 @@ Die Norm schützt Steuerpflichtige vor doppelter Belastung durch Bund und Kanton
 
 Das Verbot erfasst nur Steuern im eigentlichen Sinn, nicht Kausalabgaben wie Gebühren oder Vorzugslasten (**BGE 86 I 97** E. 2). Kantone können daher weiterhin Gebühren für konkrete staatliche Leistungen erheben, auch wenn der Bund ähnliche Gegenstände besteuert.
 
-In der Rechtspraxis entstehen Probleme vor allem bei der Abgrenzung zwischen Steuern und Kausalabgaben sowie bei der Beurteilung technischer Unterschiede zwischen Bundes- und kantonalen Abgaben. Die Lehre kritisiert die restriktive Auslegung des Bundesgerichts teilweise als zu "kantonsfreundlich".
+In der Rechtspraxis entstehen Probleme vor allem bei der Abgrenzung zwischen Steuern und Kausalabgaben sowie bei der Beurteilung technischer Unterschiede zwischen Bundes- und kantonalen Abgaben. Die Lehre kritisiert die restriktive Auslegung des Bundesgerichts teilweise als zu kantonsfreundlich.

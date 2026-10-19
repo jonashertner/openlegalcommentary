@@ -20,11 +20,11 @@
 
 **N. 4** **Nationality**: Voting rights require Swiss nationality. Dual citizens are entitled to vote provided they meet the other requirements. The voting right for Swiss abroad is guaranteed by Art. 40 Cst.
 
-**N. 5** **Majority**: The 18th year of age must be completed. The day of the 18th birthday is decisive, not the calendar year. The discussion about a further reduction of the voting age or a children's voting right through legal representatives was rejected by the constituent power. Part of the literature rejects the children's voting right because it «de facto amounts to a double voting right of the legal representative and [...] contradicts not only equality before the law, but even more the organ function of the voting right».
+**N. 5** **Majority**: The 18th year of age must be completed. The day of the 18th birthday is decisive, not the calendar year. The discussion about a further reduction of the voting age or a children's voting right through legal representatives was rejected by the constituent power. Part of the literature rejects the children's voting right because it would in practice give the legal representative a second vote and would conflict not only with equality before the law but, even more so, with the role of the electorate as an organ of the state.
 
 **N. 6** **Deprivation of civil rights**: The exclusion due to «mental illness or mental deficiency» has been obsolete since the revision of adult protection law in 2013. Art. 136 Cst. must be interpreted in light of Art. 14 CC: Only comprehensive deputyship leads to the loss of political rights. The outdated terminology of the Constitution is regrettable, but does not change the restrictive interpretation.
 
-**N. 7** **Equality of political rights**: Paragraph 1 sentence 2 guarantees the equality of political rights. This includes equality of counting value (each vote counts equally), but not equality of success value (each vote has equal influence on the result). Some commentators criticise that «sentence 2 of Art. 136 para. 1 hangs in the air and [...] would have been better not written», since equality already follows from Art. 8 Cst.
+**N. 7** **Equality of political rights**: Paragraph 1 sentence 2 guarantees the equality of political rights. This includes equality of counting value (each vote counts equally), but not equality of success value (each vote has equal influence on the result). Some commentators criticise that sentence 2 of Art. 136 para. 1 stands in isolation and would better have been left out, since equality already follows from Art. 8 Cst.
 
 ### 4. Legal Consequences
 

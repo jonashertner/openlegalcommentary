@@ -1,6 +1,6 @@
 ## Overview
 
-Art. 146 BV obligates the Confederation to be liable for damage caused by its organs. According to Jellinek, this state liability constitutes the «ultima ratio of the rule of law». It applies to all federal authorities, from the administration to the courts.
+Art. 146 BV obligates the Confederation to be liable for damage caused by its organs. According to Jellinek, this state liability constitutes the *ultima ratio* of the rule of law. It applies to all federal authorities, from the administration to the courts.
 
 The Confederation must meet four requirements: There must be damage caused by a federal organ in official activity, unlawfully and with adequate causal connection. Unlawful is any violation of the legal order, regardless of fault by the officials. The liability is pure causal liability without requirement of fault (Art. 3 VG).
 

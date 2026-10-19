@@ -4,7 +4,7 @@
 
 **N. 1** Art. 151 BV führt die unter Art. 75 BV 1848 und Art. 86 BV 1874 geltende Tradition der parlamentarischen Sessionen fort. Die Botschaft über eine neue Bundesverfassung vom 20. November 1996 (BBl 1997 I 1) betont, dass die Regelung bewusst flexibel ausgestaltet wurde, um dem Gesetzgeber Spielraum für die konkrete Ausgestaltung zu belassen. Die Verfassungsrevision verzichtete auf detaillierte Vorgaben zu Anzahl und Dauer der Sessionen, um künftigen parlamentarischen Bedürfnissen gerecht werden zu können.
 
-**N. 2** Das Einberufungsrecht für ausserordentliche Sessionen (Abs. 2) wurde gegenüber dem alten Verfassungsrecht modernisiert. Während Art. 23 Abs. 8 BV 1874 noch ein Einberufungsrecht für fünf Kantone vorsah, bezeichnet Aubert diese Regelung als «verfehlt symmetrische Bestimmung». Die neue Verfassung beschränkt das Einberufungsrecht auf ein Viertel der Ratsmitglieder oder den Bundesrat, was der parlamentarischen Realität besser entspricht.
+**N. 2** Das Einberufungsrecht für ausserordentliche Sessionen (Abs. 2) wurde gegenüber dem alten Verfassungsrecht modernisiert. Während Art. 23 Abs. 8 BV 1874 noch ein Einberufungsrecht für fünf Kantone vorsah, bezeichnet Aubert diese Regelung als verfehlt symmetrische Bestimmung. Die neue Verfassung beschränkt das Einberufungsrecht auf ein Viertel der Ratsmitglieder oder den Bundesrat, was der parlamentarischen Realität besser entspricht.
 
 ### 2. Systematische Einordnung
 
@@ -14,7 +14,7 @@
 - → Art. 163 Abs. 2 BV (Quorum für die Beschlussfähigkeit)
 - → Art. 185 Abs. 4 BV (Berichterstattung des Bundesrates)
 
-**N. 4** Das Zweikammersystem verlangt nach Biaggini «die materielle Gleichwertigkeit beider Räte, nicht die formelle Identität des Verfahrens beider Räte». Art. 151 BV konkretisiert diesen Grundsatz, indem beide Räte zu denselben Sessionen zusammentreten, aber getrennt verhandeln.
+**N. 4** Das Zweikammersystem verlangt nach Biaggini, dass beide Räte materiell gleichwertig sind; formell identische Verfahren in beiden Räten sind dagegen nicht erforderlich. Art. 151 BV konkretisiert diesen Grundsatz, indem beide Räte zu denselben Sessionen zusammentreten, aber getrennt verhandeln.
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 

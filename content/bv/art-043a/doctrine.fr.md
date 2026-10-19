@@ -6,7 +6,7 @@
 
 **Ch. 2** Le message concernant la réforme de la péréquation financière du 14 novembre 2001 (FF 2001 2291, en particulier 2358 ss) désigne l'art. 43a Cst. comme la « pièce maîtresse du nouvel ordre fédéral des tâches ». Cette disposition vise à accroître l'efficacité de l'accomplissement des tâches étatiques et à attribuer plus clairement les responsabilités. Elle doit notamment garantir l'équivalence fiscale — la concordance entre l'utilité, les coûts et les compétences décisionnelles.
 
-**Ch. 3** La genèse montre que le constituant a délibérément voulu ancrer des principes programmatiques s'adressant en premier lieu au législateur. Comme l'a précisé le Conseil fédéral dans le message: « L'article 43a, alinéa 4, ne crée pas de droits exigibles en justice ».
+**Ch. 3** La genèse montre que le constituant a délibérément voulu ancrer des principes programmatiques s'adressant en premier lieu au législateur. Comme l'a précisé le Conseil fédéral dans le message, l'art. 43a al. 4 ne fonde pas de droits invocables en justice.
 
 ## 2. Situation systématique
 

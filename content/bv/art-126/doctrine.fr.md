@@ -8,7 +8,7 @@
 
 ### II. Classement systématique
 
-**N. 3** L'art. 126 Cst. est la pièce maîtresse de l'ordre financier fédéral et est étroitement lié à d'autres normes de droit constitutionnel financier: → Art. 167 Cst. (compétences financières), → Art. 183 Cst. (compétences financières du Conseil fédéral), ↔ Art. 159 al. 3 let. c Cst. (majorité qualifiée pour les augmentations de dépenses). Cette norme forme, avec la loi sur les finances de la Confédération (LFC), le fondement institutionnel de la politique financière fédérale.
+**N. 3** L'art. 126 Cst. est la pièce maîtresse de l'ordre financier fédéral et est étroitement lié à d'autres normes de droit constitutionnel financier : → Art. 167 Cst. (compétences financières), → Art. 183 Cst. (compétences financières du Conseil fédéral), ↔ Art. 159 al. 3 let. c Cst. (majorité qualifiée pour les augmentations de dépenses). Cette norme forme, avec la loi sur les finances de la Confédération (LFC), le fondement institutionnel de la politique financière fédérale.
 
 **N. 4** Le frein à l'endettement se trouve en tension avec la mission de politique conjoncturelle de la Confédération selon l'art. 100 Cst. Vallender souligne que le frein à l'endettement est conçu comme une contrainte de règle qui limite les interventions discrétionnaires de politique financière, mais déploie des effets anticycliques par sa composante conjoncturelle (Vallender, AJP 1999, 693s.).
 
@@ -16,7 +16,7 @@
 
 **N. 5** **Équilibre budgétaire (al. 1)** : L'« équilibre à long terme » n'exige pas une correspondance annuelle des dépenses et des recettes, mais un équilibre à moyen terme sur le cycle conjoncturel. Kirchgässner précise que les déficits structurels doivent être empêchés, tandis que les fluctuations conjoncturelles restent admissibles (Kirchgässner, SVVOR-Jahrbuch 2009, 78).
 
-**N. 6** **Règle des dépenses (al. 2)**: Le plafond des dépenses se calcule en multipliant les recettes estimées par un facteur conjoncturel (k = PIB tendanciel / PIB attendu). En cas de sous-utilisation (k > 1), des dépenses supérieures aux recettes sont admissibles, en cas de surutilisation (k < 1), les dépenses doivent être inférieures aux recettes.
+**N. 6** **Règle des dépenses (al. 2)** : Le plafond des dépenses se calcule en multipliant les recettes estimées par un facteur conjoncturel (k = PIB tendanciel / PIB attendu). En cas de sous-utilisation (k > 1), des dépenses supérieures aux recettes sont admissibles, en cas de surutilisation (k < 1), les dépenses doivent être inférieures aux recettes.
 
 **N. 7** **Règle d'exception (al. 3)** : Des « besoins de paiement extraordinaires » existent en cas de catastrophes naturelles, de récessions graves, d'adaptations du modèle comptable ou d'autres évolutions exceptionnelles et incontrôlables. Stauffer critique la formulation large comme porte d'entrée potentielle pour contourner le frein à l'endettement (Stauffer, Instrumente des Haushaltsausgleichs, 2001, 189).
 
@@ -24,7 +24,7 @@
 
 ### IV. Effets juridiques
 
-**N. 9** Le frein à l'endettement déploie ses effets sur trois niveaux: préventivement par la règle des dépenses dans le budget, correctivement par les crédits supplémentaires pendant l'année et compensatoirement par l'assainissement ultérieur des dépassements.
+**N. 9** Le frein à l'endettement déploie ses effets sur trois niveaux : préventivement par la règle des dépenses dans le budget, correctivement par les crédits supplémentaires pendant l'année et compensatoirement par l'assainissement ultérieur des dépassements.
 
 **N. 10** La norme constitutionnelle ne fonde aucun droit subjectif des particuliers. Elle ne lie que le Conseil fédéral et l'Assemblée fédérale dans leur gestion budgétaire. Une application judiciaire n'est donc pas possible, le contrôle s'effectue principalement par voie politique (Biaggini, in: Kahl, Nachhaltige Finanzstrukturen, 2011, 118).
 

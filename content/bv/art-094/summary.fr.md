@@ -8,7 +8,7 @@ La norme règle quatre aspects centraux : Premièrement, toutes les autorités �
 
 Sont concernées toutes les personnes physiques et morales qui exercent ou veulent exercer une activité économique. L'art. 94 Cst. protège tant le libre accès au marché que le libre exercice de la profession (**ATF 142 I 162**). La norme agit comme standard constitutionnel objectif et complète le droit fondamental individuel de la liberté économique de l'art. 27 Cst. (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N. 1654).
 
-Les conséquences juridiques sont considérables: Les mesures étatiques qui contreviennent au principe sont anticonstitutionnelles, sauf si une exception s'applique (**ATF 142 I 99**). Le Tribunal fédéral a cependant précisé que l'activité économique étatique est en principe admissible en raison de la pratique constitutionnelle vécue, tant qu'elle n'évince pas l'offre privée (**ATF 138 I 378**).
+Les conséquences juridiques sont considérables : Les mesures étatiques qui contreviennent au principe sont anticonstitutionnelles, sauf si une exception s'applique (**ATF 142 I 99**). Le Tribunal fédéral a cependant précisé que l'activité économique étatique est en principe admissible en raison de la pratique constitutionnelle vécue, tant qu'elle n'évince pas l'offre privée (**ATF 138 I 378**).
 
 Un exemple pratique : Un canton ne peut pas sans autre créer une entreprise municipale d'internet qui ferait directement concurrence aux fournisseurs privés. Il doit démontrer qu'un intérêt public existe et que la neutralité concurrentielle est préservée (**ATF 143 II 425**). D'autre part, il peut concéder l'exploitation de la force hydraulique comme régale cantonal, car cela est exclu du domaine d'application de la liberté économique (**ATF 142 I 99**).
 

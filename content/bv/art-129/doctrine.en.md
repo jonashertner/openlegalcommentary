@@ -26,7 +26,7 @@
 
 #### a) Basic competence (para. 1)
 
-**N. 7** The term «principles» is interpreted controversially. The «antinomy of constitutional objectives» outlined by Reich characterises the interpretation: On the one hand, only framework legislation should take place, on the other hand effective harmonisation is sought.
+**N. 7** The term «principles» is interpreted controversially. The *antinomy of constitutional objectives* outlined by Reich characterises the interpretation: On the one hand, only framework legislation should take place, on the other hand effective harmonisation is sought.
 
 **N. 8** The Federal Supreme Court tends towards an extensive interpretation. In **BGE 130 II 202** it stated that the extent of cantonal possibilities for concretisation must be determined separately for each provision. Practice shows that the Confederation largely exhausts its competence (Vallender, Mittelbare Rechtsetzung, 435).
 

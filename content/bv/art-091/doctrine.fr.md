@@ -11,7 +11,7 @@ L'art. 91 Cst. fait partie du catalogue des compétences de la Confédération (
 **Ch. 3** **Éléments constitutifs / Contenu normatif**
 
 **Ch. 3.1** *Al. 1 : Énergie électrique*
-Le terme « énergie électrique » englobe toute forme d'électricité indépendamment de son mode de production. « Transport » se rapporte à la transmission physique par les réseaux électriques, tandis que « fourniture » concerne la relation juridique entre le fournisseur et le consommateur final. La compétence de la Confédération est complète et s'étend à tous les aspects de réglementation:
+Le terme « énergie électrique » englobe toute forme d'électricité indépendamment de son mode de production. « Transport » se rapporte à la transmission physique par les réseaux électriques, tandis que « fourniture » concerne la relation juridique entre le fournisseur et le consommateur final. La compétence de la Confédération est complète et s'étend à tous les aspects de réglementation :
 
 - Réglementations de police concernant la construction et l'exploitation d'installations
 - Régime de marché y compris accès au réseau et régulation des prix (ch. 11-15)

@@ -2,7 +2,7 @@
 
 ## 1. Legislative History
 
-**N. 1** Art. 98 BV largely corresponds to Art. 31bis para. 2 aBV (banks and stock exchanges) as well as Art. 34 para. 2 aBV (private insurance). The provision was systematically incorporated into the economic section during the total revision of 1999. As reported in the literature, the Federal Council stated: "In practice, nothing changes", since the Confederation was already previously authorized under Art. 31bis para. 2 aBV to issue regulations on the "practice of commerce and trades".
+**N. 1** Art. 98 BV largely corresponds to Art. 31bis para. 2 aBV (banks and stock exchanges) as well as Art. 34 para. 2 aBV (private insurance). The provision was systematically incorporated into the economic section during the total revision of 1999. As reported in the literature, the Federal Council stated that nothing would change in practice, since the Confederation was already previously authorized under Art. 31bis para. 2 aBV to issue regulations on the "practice of commerce and trades".
 
 **N. 2** The emergence of Swiss financial market law was significantly shaped by crises. The Banking Act of 1934 arose as a reaction to the banking crisis of the early 1930s (BBl 1934 I 171 ff.). The creation of the integrated financial market supervision FINMA in 2009 followed the financial crisis of 2008 (BBl 2006 2829 ff.).
 
@@ -18,7 +18,7 @@
 
 ## 3. Elements of the Offense / Content of the Norm
 
-**N. 7** **Banking (para. 1)**: The Federal Court defines in constant jurisprudence: "An acceptance of public deposits occurs when a person commercially enters into obligations towards third parties, such that they become a debtor for repayment". The definition encompasses traditional commercial banks, savings banks, private banks and new forms such as crowdfunding platforms.
+**N. 7** **Banking (para. 1)**: In constant jurisprudence, the Federal Court holds that public deposits are accepted where a person, on a commercial basis, incurs obligations towards third parties by which that person becomes liable to repay them. The definition encompasses traditional commercial banks, savings banks, private banks and new forms such as crowdfunding platforms.
 
 **N. 8** **Stock exchange business (para. 1)**: Not only traditional securities exchanges are covered, but also multilateral trading facilities (MTF) and organised trading facilities (OTF). Some commentators emphasize the technology-neutral interpretation in view of electronic trading platforms.
 
@@ -26,7 +26,7 @@
 
 **N. 10** **Financial services in other areas (para. 2)**: This general clause covers asset management, investment advice, payment services and new business models such as cryptocurrency trading. The "may" formulation grants the legislator discretion whether and how to regulate.
 
-**N. 11** **Private insurance business (para. 3)**: The competence encompasses the entire private insurance industry. As noted in the literature, the Federal Court identifies five core characteristics: "Risk, performance of the insured, performance of the insurer, independence of the operation and compensation of risks according to the laws of statistics".
+**N. 11** **Private insurance business (para. 3)**: The competence encompasses the entire private insurance industry. As noted in the literature, the Federal Court identifies five core characteristics: the existence of a risk, a performance by the insured, a performance by the insurer, the independent character of the operation, and the offsetting of risks on the basis of statistical laws.
 
 ## 4. Legal Consequences
 

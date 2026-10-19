@@ -14,13 +14,13 @@
 
 **N. 5** Dans sa relation aux droits fondamentaux, l'art. 74 Cst fonctionne comme une disposition restrictive. Les mesures de protection de l'environnement peuvent justifier des atteintes à la garantie de la propriété (art. 26 Cst), à la liberté économique (art. 27 Cst) ou à la liberté de la recherche (art. 20 Cst), comme le montrent la jurisprudence sur les interdictions de chauffages électriques (**ATF 149 I 49**) et les expériences sur animaux (**ATF 135 II 384**).
 
-**N. 6** La répartition des compétences suit le schéma éprouvé: la Confédération édicte les prescriptions (al. 1), les cantons les exécutent (al. 3). Cette répartition des tâches correspond au fédéralisme d'exécution général selon → l'art. 46 al. 1 Cst, la loi pouvant réserver des compétences d'exécution à la Confédération.
+**N. 6** La répartition des compétences suit le schéma éprouvé : la Confédération édicte les prescriptions (al. 1), les cantons les exécutent (al. 3). Cette répartition des tâches correspond au fédéralisme d'exécution général selon → l'art. 46 al. 1 Cst, la loi pouvant réserver des compétences d'exécution à la Confédération.
 
 ### 3. Éléments constitutifs / Contenu normatif
 
 **N. 7** Le **champ de protection** englobe « l'être humain et son environnement naturel » (al. 1). Cette formulation anthropocentrique ne signifie pas que l'environnement ne soit protégé que de manière instrumentale. La doctrine dominante reconnaît plutôt une valeur propre à la nature (Griffel, Grundprinzipien, p. 45; Wagner Pfeifer, Umweltrecht I, p. 28). L'être humain fait partie de l'environnement et dépend d'écosystèmes intacts.
 
-**N. 8** L'« environnement naturel » comprend toutes les bases naturelles de la vie: l'air, l'eau, le sol, la flore, la faune ainsi que leurs interactions. Ne sont pas englobés les aspects environnementaux culturels ou sociaux, bien que la délimitation puisse être difficile dans le cas concret (Rausch/Marti/Griffel, Umweltrecht, p. 12).
+**N. 8** L'« environnement naturel » comprend toutes les bases naturelles de la vie : l'air, l'eau, le sol, la flore, la faune ainsi que leurs interactions. Ne sont pas englobés les aspects environnementaux culturels ou sociaux, bien que la délimitation puisse être difficile dans le cas concret (Rausch/Marti/Griffel, Umweltrecht, p. 12).
 
 **N. 9** Les « atteintes nuisibles ou incommodantes » sont toutes les modifications physiques, chimiques ou biologiques de l'environnement qui peuvent porter atteinte aux êtres humains, aux animaux, aux plantes ou à leurs communautés de vie. Les notions correspondent à celles de l'art. 1 al. 1 LPE. Sont **nuisibles** les atteintes qui menacent gravement la santé ou le bien-être ; sont **incommodantes** celles qui perturbent le bien-être sans être dangereuses pour la santé (**ATF 126 II 522** consid. 39).
 

@@ -26,7 +26,7 @@
 
 **N. 7** La notion de « contestations » englobe toutes les contestations juridiques, qu'il s'agisse d'affaires de droit civil, pénal ou de droit public. Sont visées tant les violations individuelles du droit que les procédures abstraites de contrôle des normes (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4e éd. 2023, art. 189 n° 3).
 
-**N. 8** Let. a (droit fédéral): Comprend l'ensemble de l'ordre juridique de la Confédération, y compris la Constitution, les lois, les ordonnances et les arrêtés fédéraux de portée générale. La compétence pratiquement la plus importante du Tribunal fédéral.
+**N. 8** Let. a (droit fédéral) : Comprend l'ensemble de l'ordre juridique de la Confédération, y compris la Constitution, les lois, les ordonnances et les arrêtés fédéraux de portée générale. La compétence pratiquement la plus importante du Tribunal fédéral.
 
 **N. 9** Let. b (droit international) : Vise toutes les normes de droit international liant la Suisse, notamment les traités internationaux, le droit coutumier international et les principes généraux de droit. L'**ATF 145 IV 364** consid. 3.3 souligne l'importance de cette compétence pour l'examen de la compatibilité du droit suisse avec les obligations internationales.
 
@@ -64,9 +64,9 @@
 
 **N. 21** **Portée de la clause d'immunité** : La portée de l'art. 189 al. 4 Cst. est controversée. Tandis que Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, n° 3502) préconisent une interprétation restrictive, Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar, art. 189 n° 24) plaident pour une interprétation large. La jurisprudence tend vers une interprétation extensive (**ATF 147 I 194** consid. 2.2).
 
-**N. 22** **Rapport au droit international**: Le rapport entre l'art. 189 al. 1 let. b Cst. et l'art. 190 Cst. en cas de conflits entre le droit international et le droit fédéral fait l'objet de discussions controversées. Une partie de la doctrine défend l'opinion selon laquelle l'art. 189 Cst. ne règle que la compétence, mais pas l'étalon d'examen. Müller/Schefer (Grundrechte in der Schweiz, 4e éd. 2008, p. 982) voient au contraire dans l'art. 189 al. 1 let. b Cst. une compétence d'examen autonome.
+**N. 22** **Rapport au droit international** : Le rapport entre l'art. 189 al. 1 let. b Cst. et l'art. 190 Cst. en cas de conflits entre le droit international et le droit fédéral fait l'objet de discussions controversées. Une partie de la doctrine défend l'opinion selon laquelle l'art. 189 Cst. ne règle que la compétence, mais pas l'étalon d'examen. Müller/Schefer (Grundrechte in der Schweiz, 4e éd. 2008, p. 982) voient au contraire dans l'art. 189 al. 1 let. b Cst. une compétence d'examen autonome.
 
-**N. 23** **Justiciabilité des droits politiques**: La portée de l'art. 189 al. 1 let. f Cst. est controversée. Tschannen (in: Ehrenzeller et al., St. Galler Kommentar, art. 189 n° 16) préconise une justiciabilité complète. Kley plaide pour la retenue dans les questions d'appréciation politique.
+**N. 23** **Justiciabilité des droits politiques** : La portée de l'art. 189 al. 1 let. f Cst. est controversée. Tschannen (in: Ehrenzeller et al., St. Galler Kommentar, art. 189 n° 16) préconise une justiciabilité complète. Kley plaide pour la retenue dans les questions d'appréciation politique.
 
 ### 6. Conseils pratiques
 

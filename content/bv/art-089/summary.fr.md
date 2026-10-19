@@ -8,7 +8,7 @@ L'art. 89 Cst. règle la politique énergétique de la Suisse et répartit les c
 
 La disposition s'applique à l'ensemble de la politique énergétique de la Suisse. Elle concerne tant la production d'énergie (électricité, chaleur) que la consommation énergétique. Toutes les autorités publiques de la Confédération, des cantons et des communes sont tenues de poursuivre les objectifs de politique énergétique. Les entreprises énergétiques privées doivent se conformer aux prescriptions étatiques, mais ne reçoivent pas de droits directs de la Constitution.
 
-La Constitution énumère cinq objectifs équivalents pour l'approvisionnement énergétique: il doit être suffisant (assez d'énergie pour tous), diversifié (différentes sources d'énergie), sûr (disponible de manière fiable), économique (abordable) et respectueux de l'environnement. En outre, l'énergie doit être utilisée de manière économe et efficace.
+La Constitution énumère cinq objectifs équivalents pour l'approvisionnement énergétique : il doit être suffisant (assez d'énergie pour tous), diversifié (différentes sources d'énergie), sûr (disponible de manière fiable), économique (abordable) et respectueux de l'environnement. En outre, l'énergie doit être utilisée de manière économe et efficace.
 
 ## Principales conséquences juridiques
 

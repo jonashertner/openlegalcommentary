@@ -16,7 +16,7 @@
 
 ### a) Il principio dei tre pilastri (cpv. 1)
 
-**N. 5** L'art. 111 cpv. 1 Cost. ancora i tre pilastri come struttura portante della previdenza per la vecchiaia, i superstiti e l'invalidità svizzera. Secondo un'opinione dottrinale questi pilastri rappresentano «principi materiali di configurazione e integrazioni materiali-giuridiche della norma di competenza o direttive materiali del mandato legislativo».
+**N. 5** L'art. 111 cpv. 1 Cost. ancora i tre pilastri come struttura portante della previdenza per la vecchiaia, i superstiti e l'invalidità svizzera. Secondo un'opinione dottrinale questi pilastri costituiscono principi sostanziali che orientano la configurazione del sistema e che integrano sul piano materiale la norma di competenza ovvero fissano direttive materiali per il mandato legislativo.
 
 **N. 6** Il **primo pilastro** (AVS/AI) deve secondo la dottrina dominante garantire il fabbisogno esistenziale (Locher/Gächter, Grundriss des Sozialversicherungsrechts, 4ª ed. 2014, § 3 N. 12). Si basa sul sistema di ripartizione e comprende obbligatoriamente tutta la popolazione residente.
 
@@ -30,7 +30,7 @@
 
 ### c) Adempimento duraturo dello scopo (cpv. 2)
 
-**N. 10** La Confederazione deve secondo l'art. 111 cpv. 2 Cost. provvedere al duraturo adempimento dello scopo del primo e del secondo pilastro. Una parte della dottrina interpreta questo nel senso che «il costituente vuole sottolineare che il primo e il secondo pilastro devono adempiere i loro compiti a lungo termine in un sistema coordinato».
+**N. 10** La Confederazione deve secondo l'art. 111 cpv. 2 Cost. provvedere al duraturo adempimento dello scopo del primo e del secondo pilastro. Una parte della dottrina interpreta questo nel senso che, secondo la volontà del costituente, il primo e il secondo pilastro devono assolvere durevolmente i propri compiti all'interno di un sistema coordinato.
 
 **N. 11** L'adempimento duraturo dello scopo comprende secondo la dottrina dominante sia la sostenibilità finanziaria che il raggiungimento degli obiettivi materiali (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10ª ed. 2020, N. 789). La Confederazione deve intervenire attivamente quando il finanziamento o gli obiettivi prestazionali sono minacciati.
 

@@ -16,7 +16,7 @@
 
 ### 3. Éléments de fait constitutifs / contenu normatif
 
-**N. 5** **Chemins pour piétons et chemins de randonnée pédestre**: La LCPR définit les chemins pour piétons comme des liaisons servant principalement à la circulation des piétons (art. 2 LCPR). Les chemins de randonnée pédestre sont par contre des liaisons pour piétons servant principalement à la détente (art. 3 LCPR). La distinction est pertinente pour les exigences de construction et d'entretien.
+**N. 5** **Chemins pour piétons et chemins de randonnée pédestre** : La LCPR définit les chemins pour piétons comme des liaisons servant principalement à la circulation des piétons (art. 2 LCPR). Les chemins de randonnée pédestre sont par contre des liaisons pour piétons servant principalement à la détente (art. 3 LCPR). La distinction est pertinente pour les exigences de construction et d'entretien.
 
 **N. 6** **Voies cyclables** : Avec la révision constitutionnelle de 2018, les voies cyclables ont été mises sur un pied d'égalité avec les chemins pour piétons et les chemins de randonnée pédestre. La LVC les définit comme des voies de circulation destinées aux bicyclettes et autres véhicules mus par la force humaine, qui sont autant que possible séparées de la circulation motorisée.
 
@@ -24,9 +24,9 @@
 
 ### 4. Conséquences juridiques
 
-**N. 8** **Compétence de principe (al. 1)**: La Confédération reçoit la compétence d'établir des principes, mais non pas de réglementer de manière exhaustive. Les cantons restent compétents pour la planification concrète, l'aménagement et l'entretien des réseaux de chemins. Le législateur fédéral a fait usage de cette compétence par l'adoption de la LCPR et de la LVC.
+**N. 8** **Compétence de principe (al. 1)** : La Confédération reçoit la compétence d'établir des principes, mais non pas de réglementer de manière exhaustive. Les cantons restent compétents pour la planification concrète, l'aménagement et l'entretien des réseaux de chemins. Le législateur fédéral a fait usage de cette compétence par l'adoption de la LCPR et de la LVC.
 
-**N. 9** **Tâche de soutien et de coordination (al. 2)**: La Confédération peut agir de manière subsidiaire en soutenant financièrement ou en coordonnant des mesures cantonales et privées. Cette faculté est optionnelle (« peut ») et préserve expressément les compétences cantonales.
+**N. 9** **Tâche de soutien et de coordination (al. 2)** : La Confédération peut agir de manière subsidiaire en soutenant financièrement ou en coordonnant des mesures cantonales et privées. Cette faculté est optionnelle (« peut ») et préserve expressément les compétences cantonales.
 
 **N. 10** **Obligation de ménagement (al. 3)** : La Confédération est soumise à une obligation qualifiée de ménagement dans l'accomplissement de ses tâches. L'obligation de remplacement en cas de suppression de chemins concrétise cette obligation. Dans **BGE 130 III 182 E. 5.5.1**, le Tribunal fédéral a retenu que l'obligation de remplacement existe indépendamment de la propriété du terrain et se dirige selon le critère fonctionnel du maintien du réseau.
 

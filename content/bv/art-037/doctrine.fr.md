@@ -32,7 +32,7 @@
 
 ### 3.2 Interdiction de désavantager (al. 2 phrase 1)
 
-**N. 10** L'interdiction se rapporte aux inégalités de traitement qui s'attachent exclusivement au critère du droit de cité. Une partie de la doctrine précise: « Restent licites les différenciations selon le domicile, la durée du séjour ou d'autres critères objectifs ».
+**N. 10** L'interdiction se rapporte aux inégalités de traitement qui s'attachent exclusivement au critère du droit de cité. Une partie de la doctrine précise que les distinctions fondées sur le domicile, la durée du séjour ou d'autres critères objectifs demeurent admissibles.
 
 **N. 11** La norme interdit tant les discriminations directes qu'indirectes. Une réglementation apparemment neutre qui ne touche en fait que les citoyens d'autres communes ou cantons peut également violer l'art. 37 al. 2 Cst. (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4e éd. 2014, § 23 N 15).
 

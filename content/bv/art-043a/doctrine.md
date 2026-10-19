@@ -6,7 +6,7 @@
 
 **N. 2** Die Botschaft zur Neugestaltung des Finanzausgleichs vom 14. November 2001 (BBl 2001 2291, insb. 2358 ff.) bezeichnet Art. 43a BV als «Kernstück der neuen föderalen Aufgabenordnung». Die Bestimmung zielt darauf ab, die Effizienz der staatlichen Aufgabenerfüllung zu steigern und die Verantwortlichkeiten klarer zuzuordnen. Insbesondere soll die fiskalische Äquivalenz — die Übereinstimmung von Nutzen, Kosten und Entscheidungskompetenzen — gewährleistet werden.
 
-**N. 3** Die Entstehungsgeschichte zeigt, dass der Verfassungsgeber bewusst programmatische Grundsätze verankern wollte, die primär an den Gesetzgeber gerichtet sind. Wie der Bundesrat in der Botschaft festhielt: «Artikel 43a Absatz 4 schafft keine einklagbaren Rechte».
+**N. 3** Die Entstehungsgeschichte zeigt, dass der Verfassungsgeber bewusst programmatische Grundsätze verankern wollte, die primär an den Gesetzgeber gerichtet sind. Wie der Bundesrat in der Botschaft festhielt, begründet Art. 43a Abs. 4 BV keine gerichtlich durchsetzbaren Ansprüche.
 
 ## 2. Systematische Einordnung
 

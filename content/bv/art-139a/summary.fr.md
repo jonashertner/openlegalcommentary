@@ -12,7 +12,7 @@ Les comités d'initiative dont les demandes sont examinées sont directement con
 
 **Quelles sont les conséquences juridiques ?**
 
-Contrairement à l'art. 139, al. 3, Cst., une violation du droit international constatée n'entraîne pas la nullité de l'initiative. La conséquence juridique principale consiste en une obligation d'information renforcée: les documents de votation doivent informer de manière objective et compréhensible sur les conséquences d'une acceptation. L'initiative reste valable et est soumise au vote.
+Contrairement à l'art. 139, al. 3, Cst., une violation du droit international constatée n'entraîne pas la nullité de l'initiative. La conséquence juridique principale consiste en une obligation d'information renforcée : les documents de votation doivent informer de manière objective et compréhensible sur les conséquences d'une acceptation. L'initiative reste valable et est soumise au vote.
 
 **Exemple concret**
 

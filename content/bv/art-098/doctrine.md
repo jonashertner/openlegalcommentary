@@ -2,7 +2,7 @@
 
 ## 1. Entstehungsgeschichte
 
-**N. 1** Art. 98 BV entspricht weitgehend Art. 31bis Abs. 2 aBV (Banken und Börsen) sowie Art. 34 Abs. 2 aBV (Privatversicherung). Die Norm wurde bei der Totalrevision 1999 systematisch in den Wirtschaftsteil eingeordnet. Der Bundesrat stellt fest: «Praktisch ändert sich nichts», da der Bund bereits vorher gestützt auf Art. 31bis Abs. 2 aBV Vorschriften über die «Ausübung von Handel und Gewerben» erlassen durfte.
+**N. 1** Art. 98 BV entspricht weitgehend Art. 31bis Abs. 2 aBV (Banken und Börsen) sowie Art. 34 Abs. 2 aBV (Privatversicherung). Die Norm wurde bei der Totalrevision 1999 systematisch in den Wirtschaftsteil eingeordnet. Der Bundesrat stellt fest, dass sich in der Praxis nichts ändert, da der Bund bereits vorher gestützt auf Art. 31bis Abs. 2 aBV Vorschriften über die «Ausübung von Handel und Gewerben» erlassen durfte.
 
 **N. 2** Die Entstehung des schweizerischen Finanzmarktrechts war massgeblich durch Krisen geprägt. Das Bankengesetz von 1934 entstand als Reaktion auf die Bankenkrise der frühen 1930er Jahre (BBl 1934 I 171 ff.). Die Schaffung der integrierten Finanzmarktaufsicht FINMA im Jahr 2009 folgte auf die Finanzkrise von 2008 (BBl 2006 2829 ff.).
 
@@ -18,7 +18,7 @@
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** **Bankenwesen (Abs. 1)**: Das Bundesgericht definiert in ständiger Rechtsprechung: «Eine Entgegennahme von Publikumseinlagen liegt vor, wenn eine Person gewerbsmässig Verpflichtungen gegenüber Dritten eingeht, sodass sie zur Rückzahlungsschuldnerin wird». Die Definition umfasst klassische Geschäftsbanken, Sparkassen, Privatbanken und neue Formen wie Crowdfunding-Plattformen.
+**N. 7** **Bankenwesen (Abs. 1)**: Das Bundesgericht hält in ständiger Rechtsprechung fest, dass Publikumseinlagen entgegennimmt, wer gewerbsmässig Verbindlichkeiten gegenüber Dritten eingeht und dadurch zu deren Rückzahlung verpflichtet wird. Die Definition umfasst klassische Geschäftsbanken, Sparkassen, Privatbanken und neue Formen wie Crowdfunding-Plattformen.
 
 **N. 8** **Börsenwesen (Abs. 1)**: Erfasst sind nicht nur traditionelle Wertpapierbörsen, sondern auch multilaterale Handelssysteme (MTF) und organisierte Handelssysteme (OTF). In der Lehre wird die technologieneutrale Auslegung angesichts elektronischer Handelsplattformen betont.
 
@@ -26,7 +26,7 @@
 
 **N. 10** **Finanzdienstleistungen in anderen Bereichen (Abs. 2)**: Diese Generalklausel erfasst Vermögensverwaltung, Anlageberatung, Zahlungsdienstleistungen und neue Geschäftsmodelle wie Kryptowährungshandel. Die «Kann»-Formulierung verleiht dem Gesetzgeber Ermessen, ob und wie er reguliert.
 
-**N. 11** **Privatversicherungswesen (Abs. 3)**: Die Kompetenz umfasst die gesamte private Versicherungswirtschaft. Nach der Lehre identifiziert das Bundesgericht fünf Kernmerkmale: «Risiko, Leistung des Versicherten, Leistung des Versicherers, Selbständigkeit der Operation und Kompensation der Risiken nach den Gesetzen der Statistik».
+**N. 11** **Privatversicherungswesen (Abs. 3)**: Die Kompetenz umfasst die gesamte private Versicherungswirtschaft. Nach der Lehre identifiziert das Bundesgericht fünf Kernmerkmale: das Vorliegen eines Risikos, die Leistung des Versicherten, die Leistung des Versicherers, die Eigenständigkeit des Geschäfts sowie den Ausgleich der Risiken nach statistischen Gesetzmässigkeiten.
 
 ## 4. Rechtsfolgen
 

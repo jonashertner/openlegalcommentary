@@ -40,7 +40,7 @@
 
 #### Ripartizione dei seggi (cpv. 4)
 
-**N. 11** Il "numero degli abitanti" quale criterio di ripartizione non è definito in modo conclusivo. Il Consiglio federale sostiene la posizione secondo cui è determinante la popolazione residente permanente inclusi gli stranieri, poiché questi pagano "dazi e imposte come gli Svizzeri".
+**N. 11** Il numero degli abitanti quale criterio di ripartizione non è definito in modo conclusivo. Il Consiglio federale sostiene la posizione secondo cui è determinante la popolazione residente permanente inclusi gli stranieri, poiché questi, al pari degli Svizzeri, pagano dazi e imposte.
 
 **N. 12** La garanzia di almeno un seggio per Cantone privilegia i piccoli Cantoni e rompe il principio puramente proporzionale in favore di un riguardo federalistico.
 
@@ -60,7 +60,7 @@
 
 **N. 15** È controverso quale popolazione sia determinante per la ripartizione dei seggi:
 - **Consiglio federale**: Dovrebbe essere considerata la popolazione residente permanente inclusi gli stranieri
-- **Thurnherr**: Questa linea argomentativa lascia fuori considerazione l'"incongruenza tra rappresentanti e rappresentati"
+- **Thurnherr**: Questa linea argomentativa lascia fuori considerazione la mancata coincidenza tra rappresentanti e rappresentati
 - **Schumacher**: Propende per la considerazione solo degli aventi diritto di voto (ZBl 1999, 524 seg.)
 
 #### Giustizia proporzionale nei piccoli Cantoni

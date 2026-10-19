@@ -19,7 +19,7 @@
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 5** **L'alinéa 1** statue une tâche transversale: la Confédération et les cantons doivent tenir compte des besoins particuliers d'encouragement et de protection des enfants et des jeunes dans toutes leurs tâches. Cette obligation vaut de manière globale pour toutes les activités étatiques, de la législation à l'application du droit jusqu'à l'activité administrative effective.
+**N. 5** **L'alinéa 1** statue une tâche transversale : la Confédération et les cantons doivent tenir compte des besoins particuliers d'encouragement et de protection des enfants et des jeunes dans toutes leurs tâches. Cette obligation vaut de manière globale pour toutes les activités étatiques, de la législation à l'application du droit jusqu'à l'activité administrative effective.
 
 **N. 6** La notion d'« enfants et jeunes » comprend les personnes jusqu'à l'âge de 18 ans révolus, en conformité avec l'art. 1 de la Convention des droits de l'enfant de l'ONU. Les « besoins particuliers d'encouragement et de protection » découlent de la vulnérabilité liée au développement et du potentiel particulier de cette classe d'âge.
 
@@ -37,7 +37,7 @@
 
 ### 5. Points controversés
 
-**N. 12** **Portée de la compétence fédérale**: En doctrine, la portée de la compétence fédérale selon l'art. 67 al. 2 Cst. est controversée. Une partie de la doctrine défend la position selon laquelle la Confédération dispose d'une prérogative d'appréciation quant au moment et à la manière dont un « complément » est judicieux, ce qui fait de la compétence fédérale en substance une compétence parallèle illimitée. Cette interprétation est approuvée par Aubert/Mahon (Petit commentaire, Art. 67 N. 8) et Gerber Jenni (SG-Komm. BV, Art. 67 N. 14). Biaggini (Komm. BV, Art. 67 N. 3) est d'un autre avis et souligne davantage les limites constitutionnelles de la compétence fédérale.
+**N. 12** **Portée de la compétence fédérale** : En doctrine, la portée de la compétence fédérale selon l'art. 67 al. 2 Cst. est controversée. Une partie de la doctrine défend la position selon laquelle la Confédération dispose d'une prérogative d'appréciation quant au moment et à la manière dont un « complément » est judicieux, ce qui fait de la compétence fédérale en substance une compétence parallèle illimitée. Cette interprétation est approuvée par Aubert/Mahon (Petit commentaire, Art. 67 N. 8) et Gerber Jenni (SG-Komm. BV, Art. 67 N. 14). Biaggini (Komm. BV, Art. 67 N. 3) est d'un autre avis et souligne davantage les limites constitutionnelles de la compétence fédérale.
 
 **N. 13** **Justiciabilité de la clause transversale** : Il existe un désaccord sur la mesure dans laquelle l'art. 67 al. 1 Cst. est justiciable. Alors que la jurisprudence traite la norme principalement comme une disposition programmatique, une partie de la doctrine revendique une applicabilité judiciaire plus forte de l'obligation de prise en compte, en particulier en cas d'atteintes graves aux intérêts des enfants (Wyttenbach, in : Schweizerische Kinder- und Jugendpolitik, 2001, p. 45 ss).
 

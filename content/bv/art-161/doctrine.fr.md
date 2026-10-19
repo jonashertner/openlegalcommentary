@@ -62,7 +62,7 @@
 
 **N. 15** **Moment de la liberté du mandat** : Le moment à partir duquel vaut le mandat libre est controversé. Selon l'**ATF 151 I 41**, la protection ne commence qu'avec la constitution du parlement. Biaggini (BV-Kommentar, 2e éd. 2017, art. 161 N 3) critique cette restriction comme contraire au système, car le mandat naîtrait déjà avec l'élection.
 
-**N. 16** **Portée de l'obligation de déclaration**: Il est controversé de savoir à quel point la déclaration doit être détaillée. Alors que le commentaire saint-gallois (Ehrenzeller et al., 4e éd. 2023, art. 161 N 12) exige une transparence complète, d'autres plaident pour une limitation aux liens essentiels ayant un rapport direct avec l'activité parlementaire.
+**N. 16** **Portée de l'obligation de déclaration** : Il est controversé de savoir à quel point la déclaration doit être détaillée. Alors que le commentaire saint-gallois (Ehrenzeller et al., 4e éd. 2023, art. 161 N 12) exige une transparence complète, d'autres plaident pour une limitation aux liens essentiels ayant un rapport direct avec l'activité parlementaire.
 
 ### 6. Conseils pratiques
 

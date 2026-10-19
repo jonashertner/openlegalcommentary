@@ -14,9 +14,9 @@
 
 ## 3. Éléments constitutifs / Contenu normatif
 
-**N. 5** La notion d'« énergie nucléaire » englobe selon la doctrine dominante tous les aspects de l'utilisation pacifique de la fission et de la fusion nucléaires pour la production d'énergie (Jagmetti, Energierecht, 2005, p. 467; Hänni/Stöckli, Wirtschaftsverwaltungsrecht, 2013, § 15 N. 32). Sont inclus: la recherche, la construction, l'exploitation et la mise hors service d'installations nucléaires, la manipulation de combustibles nucléaires, l'évacuation des déchets radioactifs, les transports de matières nucléaires, la responsabilité civile et l'assurance.
+**N. 5** La notion d'« énergie nucléaire » englobe selon la doctrine dominante tous les aspects de l'utilisation pacifique de la fission et de la fusion nucléaires pour la production d'énergie (Jagmetti, Energierecht, 2005, p. 467 ; Hänni/Stöckli, Wirtschaftsverwaltungsrecht, 2013, § 15 N. 32). Sont inclus : la recherche, la construction, l'exploitation et la mise hors service d'installations nucléaires, la manipulation de combustibles nucléaires, l'évacuation des déchets radioactifs, les transports de matières nucléaires, la responsabilité civile et l'assurance.
 
-**N. 6** « Législation » signifie une compétence législative étendue à tous les niveaux normatifs: Constitution, loi, ordonnance. La Confédération peut régler exhaustivement le domaine ou laisser des secteurs partiels aux cantons. La compétence englobe tant l'encouragement que la limitation ou l'interdiction de l'utilisation de l'énergie nucléaire.
+**N. 6** « Législation » signifie une compétence législative étendue à tous les niveaux normatifs : Constitution, loi, ordonnance. La Confédération peut régler exhaustivement le domaine ou laisser des secteurs partiels aux cantons. La compétence englobe tant l'encouragement que la limitation ou l'interdiction de l'utilisation de l'énergie nucléaire.
 
 **N. 7** « Affaire de la Confédération » constitue une compétence fédérale exclusive. Les cantons n'ont pas de compétences originaires dans le domaine de l'énergie nucléaire, mais peuvent exercer des tâches déléguées par la Confédération ou agir dans le cadre de leur compétence générale de police (→ art. 3 Cst.).
 
@@ -30,7 +30,7 @@
 
 ## 5. Points litigieux
 
-**N. 11** **Constitutionnalité d'une sortie du nucléaire**: L'Office fédéral de la justice soutient dans son expertise « Questions constitutionnelles sortie de l'énergie nucléaire » qu'une sortie du nucléaire ordonnée par la loi et motivée par des considérations de police de sécurité n'est « du moins pas exclue ». R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) est d'un autre avis et considère qu'une sortie complète serait inconstitutionnelle, l'art. 90 Cst. ne contenant pas de compétence d'interdiction.
+**N. 11** **Constitutionnalité d'une sortie du nucléaire** : L'Office fédéral de la justice soutient dans une expertise consacrée aux questions constitutionnelles que soulève une sortie de l'énergie nucléaire qu'une sortie du nucléaire ordonnée par la loi et motivée par des considérations de police de sécurité n'est en tout cas pas exclue. R.P. Müller (Energiewende : Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) est d'un autre avis et considère qu'une sortie complète serait inconstitutionnelle, l'art. 90 Cst. ne contenant pas de compétence d'interdiction.
 
 **N. 12** **Étendue des compétences cantonales** : Alors que la doctrine dominante dénie aux cantons toute compétence réglementaire autonome (Jagmetti, Energierecht, 2005, p. 472 ; Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, p. 235), une minorité reconnaît des marges de manœuvre cantonales limitées pour des aspects purement locaux sans rapport avec la sécurité technique (Buser, AJP 2006, 387–395, 392).
 

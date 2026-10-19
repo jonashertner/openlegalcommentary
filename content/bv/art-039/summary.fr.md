@@ -2,9 +2,9 @@
 
 ## Vue d'ensemble
 
-L'art. 39 Cst. règle qui est compétent pour les droits politiques (droit de vote et d'éligibilité) et où ils peuvent être exercés. La disposition répartit les compétences entre la Confédération et les cantons: la Confédération règle les élections et votations fédérales, tandis que les cantons sont compétents pour les affaires cantonales et communales.
+L'art. 39 Cst. règle qui est compétent pour les droits politiques (droit de vote et d'éligibilité) et où ils peuvent être exercés. La disposition répartit les compétences entre la Confédération et les cantons : la Confédération règle les élections et votations fédérales, tandis que les cantons sont compétents pour les affaires cantonales et communales.
 
-Les droits politiques s'exercent en principe au domicile (principe du domicile). Cela signifie: qui habite à Bâle peut y voter et élire, mais pas simultanément à Zurich. Ce « principe démocratique de territorialité » assure que les personnes participent aux décisions là où elles vivent et où elles sont concernées par les décisions politiques (Hangartner/Kley, Die demokratischen Rechte in Bund und Kantonen, 2e éd. 2022, n 215).
+Les droits politiques s'exercent en principe au domicile (principe du domicile). Cela signifie : qui habite à Bâle peut y voter et élire, mais pas simultanément à Zurich. Ce « principe démocratique de territorialité » assure que les personnes participent aux décisions là où elles vivent et où elles sont concernées par les décisions politiques (Hangartner/Kley, Die demokratischen Rechte in Bund und Kantonen, 2e éd. 2022, n 215).
 
 Les cantons jouissent d'une grande liberté dans l'aménagement de leurs procédures électorales. Ils peuvent choisir entre le système majoritaire et le système proportionnel, pour autant que les droits fondamentaux soient respectés (**ATF 131 I 74 consid. 3.2**). Cette autonomie cantonale trouve sa limite là où des procédures contraires au droit constitutionnel fédéral devraient être maintenues (**ATF 139 I 195 consid. 1.3**).
 

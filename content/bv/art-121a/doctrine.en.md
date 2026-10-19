@@ -20,7 +20,7 @@
 
 ### Independent Control (Para. 1)
 
-**N. 7** The term "independent" means, according to one view in the literature, more than mere programmatic content — it is a normative task norm. The Federal Council, however, took the view that para. 1 had primarily programmatic character. Independence does not exclude international law commitments but requires national scope for action.
+**N. 7** The requirement of independent control means, according to one view in the literature, more than mere programmatic content — it is a normative task norm. The Federal Council, however, took the view that para. 1 had primarily programmatic character. Independence does not exclude international law commitments but requires national scope for action.
 
 **N. 8** "Control" encompasses quantitative and qualitative aspects of immigration. It requires active measures by the legislature, not merely passive acceptance of migration-related developments.
 

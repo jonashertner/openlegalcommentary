@@ -6,7 +6,7 @@ Art. 58 Cst. obliges Switzerland to maintain an army. This is fundamentally orga
 
 The militia principle means: Swiss men perform military service on a part-time basis, mostly at weekends and in blocks. The obligation to perform military service arises from Art. 59 Cst., the substitute levy for those unfit for service from the same article. A small professional core supplements the militia soldiers in technical areas.
 
-Switzerland cannot simply abandon its army — this would require a constitutional amendment. The doctrine is disputed regarding the concept of "defence": A broad interpretation encompasses all military defensive measures, a narrow one only threats "of strategic scale".
+Switzerland cannot simply abandon its army — this would require a constitutional amendment. The doctrine is disputed regarding the concept of "defence": A broad interpretation encompasses all military defensive measures, a narrow one only threats of strategic scale.
 
 ## Scope of Application
 

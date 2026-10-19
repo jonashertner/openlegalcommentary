@@ -4,7 +4,7 @@
 
 L'art. 116 Cst. habilite la Confédération à protéger la famille et à mener une politique sociale en faveur des familles. La norme constitutionnelle contient quatre alinéas avec différents mandats d'action.
 
-**Que règle la norme ?** L'art. 116 Cst. prescrit à la Confédération de tenir compte des besoins de la famille dans l'accomplissement de toutes ses tâches (al. 1, 1re phrase). Elle peut soutenir des mesures destinées à protéger la famille (al. 1, 2e phrase) et édicter des prescriptions sur les allocations familiales (al. 2). Le mandat constitutionnel relatif à l'assurance-maternité est formulé de manière contraignante: la Confédération « institue une assurance-maternité » (al. 3). Ces différences montrent divers degrés d'intensité des compétences fédérales.
+**Que règle la norme ?** L'art. 116 Cst. prescrit à la Confédération de tenir compte des besoins de la famille dans l'accomplissement de toutes ses tâches (al. 1, 1re phrase). Elle peut soutenir des mesures destinées à protéger la famille (al. 1, 2e phrase) et édicter des prescriptions sur les allocations familiales (al. 2). Le mandat constitutionnel relatif à l'assurance-maternité est formulé de manière contraignante : la Confédération « institue une assurance-maternité » (al. 3). Ces différences montrent divers degrés d'intensité des compétences fédérales.
 
 **Qui est concerné ?** La notion de famille doit être comprise au sens large et comprend toutes les formes de vie commune avec des enfants — couples mariés, couples en concubinage, partenaires enregistrés et parents seuls. Le Tribunal fédéral a confirmé que les règles de priorité automatique en faveur d'un sexe pour les allocations familiales sont contraires à la constitution (**BGE 129 I 265**).
 

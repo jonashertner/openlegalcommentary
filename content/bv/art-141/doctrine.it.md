@@ -44,13 +44,13 @@
 
 #### Disdetta di trattati di diritto internazionale
 
-**N. 15** Una questione controversa centrale riguarda l'obbligo del referendum per la disdetta di trattati di diritto internazionale. Una parte della dottrina argomenta che ragioni valide parlano per un'applicazione analogica del referendum alle disdette: «La legittimazione democratica è altrettanto importante per la disdetta quanto per la conclusione.»
+**N. 15** Una questione controversa centrale riguarda l'obbligo del referendum per la disdetta di trattati di diritto internazionale. Una parte della dottrina argomenta che ragioni valide parlano per un'applicazione analogica del referendum alle disdette, poiché la disdetta richiede la stessa legittimazione democratica della conclusione.
 
 **N. 16** L'opinione contraria, rappresentata da parti della dottrina più datata, vede nell'art. 141 Cost. un'enumerazione esaustiva. Diggelmann (ZBl 2014, 291, 315) mette in guardia da un'interpretazione estensiva senza chiara base costituzionale.
 
 #### Accordi standard
 
-**N. 17** La prassi parlamentare di sottrarre certi trattati di diritto internazionale al referendum come «accordi standard» è molto controversa. Una parte della dottrina critica questa prassi come «non al di sopra di ogni dubbio». Diggelmann (ZBl 2014, 291, 320) la qualifica addirittura come potenzialmente incostituzionale.
+**N. 17** La prassi parlamentare di sottrarre certi trattati di diritto internazionale al referendum come accordi standard è molto controversa. Una parte della dottrina critica questa prassi, ritenendola non immune da dubbi. Diggelmann (ZBl 2014, 291, 320) la qualifica addirittura come potenzialmente incostituzionale.
 
 **N. 18** I fautori della prassi degli accordi standard argomentano con la praticabilità e la scarsa importanza politica dei trattati ripetitivi. Mannhart Gomes (Diss. Bern 2007, 145) vi vede una concretizzazione ammissibile dei concetti giuridici indeterminati nell'art. 141 cpv. 1 lett. d Cost.
 

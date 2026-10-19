@@ -26,7 +26,7 @@
 
 #### 3.1 Ambito di applicazione ratione personae
 
-**N. 7** «Ogni persona» ai sensi dell'art. 33 cpv. 1 Cost. comprende tutte le persone fisiche senza distinzione di nazionalità, età, capacità d'agire o domicilio; dalla norma non si può desumere alcuna esclusione, ad esempio di stranieri o di persone incapaci di discernimento. Anche le persone giuridiche e gli enti pubblici possono essere firmatari, nella misura in cui si tratti di un affare proprio; questa questione fu lasciata aperta dal Tribunale federale in **DTF 98 Ia 484 consid. 5a**. Tschannen constata che il diritto di petizione può essere esercitato «quasi senza formalità e senza rischio di pregiudizi».
+**N. 7** Il diritto di petizione ai sensi dell'art. 33 cpv. 1 Cost. spetta a tutte le persone fisiche senza distinzione di nazionalità, età, capacità d'agire o domicilio; dalla norma non si può desumere alcuna esclusione, ad esempio di stranieri o di persone incapaci di discernimento. Anche le persone giuridiche e gli enti pubblici possono essere firmatari, nella misura in cui si tratti di un affare proprio; questa questione fu lasciata aperta dal Tribunale federale in **DTF 98 Ia 484 consid. 5a**. Tschannen constata che il diritto di petizione può essere esercitato con requisiti formali minimi e senza che chi lo esercita debba temere conseguenze sfavorevoli.
 
 #### 3.2 Ambito di applicazione ratione materiae
 

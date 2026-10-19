@@ -20,7 +20,7 @@
 
 **N. 7** **Duty to examine (para. 1)**: The Federal Assembly is obliged to examine, for every valid constitutional initiative, whether it is compatible with international law. The term «international law» encompasses, according to one view in the literature, all international legal obligations of Switzerland, not only mandatory international law within the meaning of → Art. 139 para. 3 FC.
 
-**N. 8** **Scope of examination**: The compatibility review extends to international treaties, customary international law and general principles of law. Some commentators emphasise that «soft law» instruments must also be included in the assessment insofar as they establish concrete obligations.
+**N. 8** **Scope of examination**: The compatibility review extends to international treaties, customary international law and general principles of law. Some commentators emphasise that soft law instruments must also be included in the assessment insofar as they establish concrete obligations.
 
 **N. 9** **Duty to inform (para. 3)**: If the Federal Assembly determines incompatibility, the Federal Council and Federal Assembly must jointly explain the «significance and scope» of accepting the initiative in the voting materials. This information must, according to one view in the literature, be objective, complete and comprehensible to voters.
 

@@ -30,7 +30,7 @@
 
 ## 5. Points litigieux
 
-**N. 11** **Portée de la souveraineté cantonale sur les eaux**: Tandis que Biaggini (BV-Kommentar, art. 76 N. 5) souligne une large autonomie des cantons, une partie de la doctrine défend une interprétation plus restrictive compte tenu de la législation fédérale exhaustive. Le Tribunal fédéral tend vers la position médiane selon laquelle la souveraineté cantonale subsiste certes, mais est considérablement limitée par le droit fédéral (**ATF 145 II 140**).
+**N. 11** **Portée de la souveraineté cantonale sur les eaux** : Tandis que Biaggini (BV-Kommentar, art. 76 N. 5) souligne une large autonomie des cantons, une partie de la doctrine défend une interprétation plus restrictive compte tenu de la législation fédérale exhaustive. Le Tribunal fédéral tend vers la position médiane selon laquelle la souveraineté cantonale subsiste certes, mais est considérablement limitée par le droit fédéral (**ATF 145 II 140**).
 
 **N. 12** **Rapport force hydraulique - protection des eaux** : Dans la doctrine, il est controverse de savoir comment pondérer l'équilibre des intérêts entre production énergétique et protection de l'environnement. Griffel (St. Galler Kommentar BV, art. 76 N. 18) plaide pour une primauté stricte de la protection des eaux, tandis que Keller (in: Häfelin/Haller/Keller/Thurnherr, N. 1099) exige une pondération équilibrée des intérêts. La pratique montre une pondération croissante des préoccupations écologiques tout en reconnaissant l'importance énergétique de la force hydraulique.
 

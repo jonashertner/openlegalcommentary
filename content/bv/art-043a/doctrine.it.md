@@ -6,7 +6,7 @@
 
 **N. 2** Il messaggio concernente la nuova impostazione della perequazione finanziaria del 14 novembre 2001 (FF 2001 2291, in particolare 2358 segg.) designa l'art. 43a Cost come «elemento centrale del nuovo ordinamento federale dei compiti». La disposizione mira ad aumentare l'efficienza dell'adempimento dei compiti statali e ad attribuire le responsabilità in modo più chiaro. In particolare, deve essere garantita l'equivalenza fiscale — la corrispondenza tra benefici, costi e competenze decisionali.
 
-**N. 3** La storia della genesi mostra che il costituente ha voluto ancorare consapevolmente principi programmatici diretti principalmente al legislatore. Come ha stabilito il Consiglio federale nel messaggio: «L'articolo 43a capoverso 4 non crea diritti azionabili».
+**N. 3** La storia della genesi mostra che il costituente ha voluto ancorare consapevolmente principi programmatici diretti principalmente al legislatore. Come ha stabilito il Consiglio federale nel messaggio, l'art. 43a cpv. 4 Cost. non conferisce diritti azionabili in giudizio.
 
 ## 2. Collocazione sistematica
 

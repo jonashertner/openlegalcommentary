@@ -52,7 +52,7 @@
 
 **No. 17** The permissible regulatory density in principles-based legislative competences is controversially discussed. **Rausch/Marti/Griffel** (Environmental Law, 142) advocate a restrictive interpretation: the Confederation may only issue framework provisions. **Keller** (People's Initiative "Save the Swiss Forest", 23) argues for a broader interpretation given the national importance of forest protection.
 
-**No. 18** Particularly controversial is the dynamic forest concept of the ForA. **Hoffmann/Griffel** criticise that the federal legislator granted the cantons "plein pouvoir" to replace it with the static forest concept without formulating restrictive criteria. **Jaissle** (The Dynamic Forest Concept, 187 ff.) defends the flexibility as necessary for cantonal spatial planning.
+**No. 18** Particularly controversial is the dynamic forest concept of the ForA. **Hoffmann/Griffel** criticise that the federal legislator granted the cantons *plein pouvoir* to replace it with the static forest concept without formulating restrictive criteria. **Jaissle** (The Dynamic Forest Concept, 187 ff.) defends the flexibility as necessary for cantonal spatial planning.
 
 ### Relationship to International Obligations
 

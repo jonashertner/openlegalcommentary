@@ -29,7 +29,7 @@
 - Transitions between levels
 - Recognition of qualifications
 
-Biaggini qualifies this competence as «conditionally concurrent», while Ehrenzeller/Schott see the primary responsibility with the cantons and classify the federal competence as subsidiary.
+Biaggini qualifies this competence as *conditionally concurrent*, while Ehrenzeller/Schott see the primary responsibility with the cantons and classify the federal competence as subsidiary.
 
 ### 4. Legal Consequences
 
@@ -53,7 +53,7 @@ Biaggini qualifies this competence as «conditionally concurrent», while Ehrenz
 
 **N. 15** **Normative character of Art. 62 para. 3**: A significant controversy exists regarding the legal nature of the special needs education obligation. Sceptical voices in doctrine see in para. 3 merely a constitutional mandate without enforceable individual claim. Other scholarly opinions (Kälin/Künzli, in Wyttenbach/Kälin, AJP 2005, 1278) affirm a directly enforceable legal claim of the disabled child. The Federal Supreme Court tends to recognise a justiciable claim, but emphasises the wide cantonal discretion (**BGE 138 I 162**).
 
-**N. 16** **Confederation-canton relationship in harmonisation**: Some commentators emphasise primary cantonal responsibility and see federal competence as ultima ratio. Another view in the literature qualifies the competence as «conditionally concurrent» and grants the Confederation greater scope. Practice shows that the Confederation has acted with restraint so far and primarily relies on intercantonal cooperation (HarmoS Concordat).
+**N. 16** **Confederation-canton relationship in harmonisation**: Some commentators emphasise primary cantonal responsibility and see federal competence as ultima ratio. Another view in the literature qualifies the competence as *conditionally concurrent* and grants the Confederation greater scope. Practice shows that the Confederation has acted with restraint so far and primarily relies on intercantonal cooperation (HarmoS Concordat).
 
 ### 6. Practical Guidance
 

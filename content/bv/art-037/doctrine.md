@@ -32,7 +32,7 @@
 
 ### 3.2 Verbot der Benachteiligung (Abs. 2 Satz 1)
 
-**N. 10** Das Verbot bezieht sich auf Ungleichbehandlungen, die ausschliesslich am Kriterium des Bürgerrechts anknüpfen. In der Lehre wird präzisiert: «Zulässig bleiben Differenzierungen nach Wohnsitz, Aufenthaltsdauer oder anderen sachlichen Kriterien».
+**N. 10** Das Verbot bezieht sich auf Ungleichbehandlungen, die ausschliesslich am Kriterium des Bürgerrechts anknüpfen. In der Lehre wird präzisiert, dass Unterscheidungen nach Wohnsitz, Aufenthaltsdauer oder anderen sachlichen Kriterien weiterhin erlaubt sind.
 
 **N. 11** Die Norm verbietet sowohl direkte als auch indirekte Diskriminierungen. Eine scheinbar neutrale Regelung, die faktisch nur Bürger anderer Gemeinden oder Kantone trifft, kann ebenfalls gegen Art. 37 Abs. 2 BV verstossen (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 23 N 15).
 

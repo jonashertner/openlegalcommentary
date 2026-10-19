@@ -20,23 +20,23 @@
 
 ### Compétence législative (al. 1)
 
-**N. 5** L'al. 1 confère à la Confédération une compétence législative complète pour l'assurance-chômage. Cette compétence est impérative (« édicte ») et exhaustive — les réglementations cantonales ne sont admissibles que dans le cadre du droit fédéral. La compétence englobe tous les aspects de l'assurance: champ d'application personnel et matériel, prestations, financement, organisation et exécution.
+**N. 5** L'al. 1 confère à la Confédération une compétence législative complète pour l'assurance-chômage. Cette compétence est impérative (« édicte ») et exhaustive — les réglementations cantonales ne sont admissibles que dans le cadre du droit fédéral. La compétence englobe tous les aspects de l'assurance : champ d'application personnel et matériel, prestations, financement, organisation et exécution.
 
 ### Principes constitutionnels (al. 2)
 
-**N. 6** **Compensation appropriée du gain (let. a)**: Le terme « appropriée » laisse une marge d'appréciation au législateur. Selon une opinion doctrinale, un taux de remplacement entre 60% et 80% paraît conforme à la Constitution. La LACI prévoit 70% respectivement 80% (avec enfants ou faible revenu). L'**ATF 129 V 105** a précisé que seule la compensation pour une activité salariée normale est due, non pour le suremploi.
+**N. 6** **Compensation appropriée du gain (let. a)** : Le terme « appropriée » laisse une marge d'appréciation au législateur. Selon une opinion doctrinale, un taux de remplacement entre 60% et 80% paraît conforme à la Constitution. La LACI prévoit 70% respectivement 80% (avec enfants ou faible revenu). L'**ATF 129 V 105** a précisé que seule la compensation pour une activité salariée normale est due, non pour le suremploi.
 
 **N. 7** **Prévention et lutte (let. a)** : L'assurance n'a pas seulement une fonction passive de remplacement, mais aussi une fonction active d'intégration. Cela légitime les mesures de marché du travail (MMT) selon l'art. 59ss LACI. La composante préventive est équivalente à la fonction d'indemnisation (Leu, Arbeitsmarktliche Massnahmen, p. 42).
 
 **N. 8** **Système obligatoire pour les salariés (let. b)** : Le système obligatoire saisit toutes les personnes exerçant une activité dépendante. Les exceptions sont admissibles sur le plan constitutionnel (« peut prévoir ») et concernent par exemple les membres de conseils d'administration ou les membres de la famille collaborant à l'entreprise (art. 2 al. 2 LACI). La nature obligatoire a été confirmée dans l'**ATF 129 V 105** comme principe structurel central.
 
-**N. 9** **Assurance facultative des indépendants (let. c)**: La Constitution exige une possibilité d'affiliation pour les indépendants. La LACI n'a pas encore mis en œuvre cette option — une défaillance constitutionnelle (Nussbaumer, Arbeitslosenversicherung, N. 2173).
+**N. 9** **Assurance facultative des indépendants (let. c)** : La Constitution exige une possibilité d'affiliation pour les indépendants. La LACI n'a pas encore mis en œuvre cette option — une défaillance constitutionnelle (Nussbaumer, Arbeitslosenversicherung, N. 2173).
 
 ### Financement (al. 3 et 4)
 
 **N. 10** **Financement par cotisations (al. 3)** : Le partage par moitié entre salariés et employeurs est impératif sur le plan constitutionnel. La LACI concrétise cela avec 1,1% chacun du gain assuré jusqu'à la limite du salaire. Les dérogations ne sont admissibles que pour les revenus supérieurs (cotisation de solidarité).
 
-**N. 11** **Circonstances extraordinaires (al. 4)**: La Confédération et les cantons doivent fournir des prestations financières en cas de circonstances extraordinaires. Selon Cardinaux, la mauvaise situation financière de l'assurance ne suffit pas à elle seule; il faut des facteurs externes comme des crises économiques ou des pandémies. La crise du COVID-19 en 2020/21 remplissait clairement cette condition.
+**N. 11** **Circonstances extraordinaires (al. 4)** : La Confédération et les cantons doivent fournir des prestations financières en cas de circonstances extraordinaires. Selon Cardinaux, la mauvaise situation financière de l'assurance ne suffit pas à elle seule ; il faut des facteurs externes comme des crises économiques ou des pandémies. La crise du COVID-19 en 2020/21 remplissait clairement cette condition.
 
 ### Assistance-chômage (al. 5)
 
@@ -54,11 +54,11 @@
 
 ## Points controversés
 
-**N. 15** **Niveau de la compensation appropriée du gain**: Une partie de la doctrine considère 60–80% comme conforme à la Constitution. Mahon plaidait pour au moins 70% comme limite inférieure (Journée 1996, p. 45). Gerhards voit dans l'échelonnement selon les obligations familiales une différenciation sociopolitiquement requise (Kommentar AVIG, vol. I, p. 234).
+**N. 15** **Niveau de la compensation appropriée du gain** : Une partie de la doctrine considère 60–80% comme conforme à la Constitution. Mahon plaidait pour au moins 70% comme limite inférieure (Journée 1996, p. 45). Gerhards voit dans l'échelonnement selon les obligations familiales une différenciation sociopolitiquement requise (Kommentar AVIG, vol. I, p. 234).
 
 **N. 16** **Portée de l'obligation d'assurance** : Les exceptions au système obligatoire sont controversées. Rubin critique la large exception pour les membres de conseils d'administration comme contraire au système (Commentaire, Art. 2 N. 15). Nussbaumer la justifie par l'absence de qualité de salarié (Arbeitslosenversicherung, N. 2156).
 
-**N. 17** **Assurance des indépendants manquante**: La non-introduction de l'assurance facultative pour les indépendants est évaluée différemment. Locher/Gächter y voient une inconstitutionnalité par omission (Grundriss, § 8 N. 45). Cardinaux relativise: la Constitution n'oblige qu'à créer la possibilité, non à un aménagement attrayant.
+**N. 17** **Assurance des indépendants manquante** : La non-introduction de l'assurance facultative pour les indépendants est évaluée différemment. Locher/Gächter y voient une inconstitutionnalité par omission (Grundriss, § 8 N. 45). Cardinaux relativise : la Constitution n'oblige qu'à créer la possibilité, non à un aménagement attrayant.
 
 ## Conseils pratiques
 

@@ -18,11 +18,11 @@
 
 ## 3. Elements of the Offence / Normative Content
 
-**N. 7** According to Oesch, Art. 106 para. 1 Const. is «simultaneously a competence and mandate norm and establishes a binding and comprehensive jurisdiction of the Confederation in the entire field of games of chance». The term «games of chance» is to be understood broadly and encompasses all games where a monetary prize is offered in exchange for a stake of monetary value.
+**N. 7** According to Oesch, Art. 106 para. 1 Const. both confers a competence and imposes a mandate, giving the Confederation binding and comprehensive jurisdiction over the whole field of games of chance. The term «games of chance» is to be understood broadly and encompasses all games where a monetary prize is offered in exchange for a stake of monetary value.
 
 **N. 8** The consideration of cantonal interests (para. 1) is not merely programmatic but a binding requirement. The Federal Supreme Court held in **BGE 135 II 338 E. 6.3** that this obligation has concrete effects on the design of federal legislation, particularly regarding the use of proceeds.
 
-**N. 9** The concession system for casinos (para. 2) is mandatorily designed. Regional circumstances must be taken into account, which implies an even geographical distribution of casinos. The casino levy is earmarked for OASI/DI. Oesch criticises the current practice whereby only OASI, but not DI, benefits from casino levies, as «requiring explanation in light of the clear wording of Art. 106 para. 2 sentence 3».
+**N. 9** The concession system for casinos (para. 2) is mandatorily designed. Regional circumstances must be taken into account, which implies an even geographical distribution of casinos. The casino levy is earmarked for OASI/DI. Oesch criticises the current practice whereby only OASI, but not DI, benefits from casino levies, as being in need of justification, given the clear wording of Art. 106 para. 2 sentence 3.
 
 **N. 10** The cantonal competences (para. 3) are exhaustively enumerated. The exception for casino jackpot systems shows the interconnection of competence areas. The Federal Supreme Court clarified in **BGE 141 II 262 E. 2.2** that the cantons may only exercise their competences within the framework of federal law requirements.
 
@@ -30,13 +30,13 @@
 
 **N. 11** The primary legal consequence is the comprehensive legislative competence of the Confederation, combined with a legislative obligation. This obligation was fulfilled through the Gaming Act of 29 September 2017 (GamA), which entered into force on 1 January 2019.
 
-**N. 12** For economic actors, it follows from Art. 106 Const. in conjunction with Art. 94 para. 4 Const. that there is no entitlement to free market access. Practice and doctrine recognise a «tacit authorisation to deviate from the principle of economic freedom if necessary».
+**N. 12** For economic actors, it follows from Art. 106 Const. in conjunction with Art. 94 para. 4 Const. that there is no entitlement to free market access. Practice and doctrine accept that the provision implicitly permits departures from the principle of economic freedom where this is necessary.
 
 **N. 13** The earmarking of proceeds is constitutionally binding. Casino levies must fully benefit OASI/DI, while net proceeds from large-scale games are to be used for charitable purposes. Use for general state purposes is impermissible.
 
 ## 5. Controversies
 
-**N. 14** A central point of contention concerns the constitutionality of monopolising the lottery system. Oesch states: «The monopolisation of the lottery system in favour of Swisslos and the Loterie Romande appears not unproblematic in light of economic freedom». However, this criticism is relativised by the Federal Supreme Court's extensive interpretation of Art. 94 para. 4 Const.
+**N. 14** A central point of contention concerns the constitutionality of monopolising the lottery system. Oesch considers that granting Swisslos and the Loterie Romande a monopoly over the lottery system raises concerns with regard to economic freedom. However, this criticism is relativised by the Federal Supreme Court's extensive interpretation of Art. 94 para. 4 Const.
 
 **N. 15** The use of casino levies is also controversially discussed. The practice whereby only OASI, but not DI, benefits from casino levies is in tension with the constitutional text. In 2012, CHF 319 million flowed into the OASI equalisation fund, while DI received nothing.
 

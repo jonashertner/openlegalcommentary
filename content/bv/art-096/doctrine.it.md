@@ -18,13 +18,13 @@
 
 ### 3. Elementi di fattispecie / Contenuto normativo
 
-**N. 7** **La concorrenza come bene protetto**: L'art. 96 Cost. protegge la concorrenza come istituzione e processo. Secondo Uhlmann, il concetto di concorrenza comprende «il processo di rivalità tra imprese per quote di mercato attraverso prestazioni». Il Tribunale amministrativo federale precisa che solo in mancanza di una concorrenza efficace si può parlare di abuso di mercato.
+**N. 7** **La concorrenza come bene protetto**: L'art. 96 Cost. protegge la concorrenza come istituzione e processo. Secondo Uhlmann, il concetto di concorrenza designa la competizione tra imprese che si contendono quote di mercato mediante le proprie prestazioni. Il Tribunale amministrativo federale precisa che solo in mancanza di una concorrenza efficace si può parlare di abuso di mercato.
 
 **N. 8** **Effetti dannosi per l'economia nazionale o socialmente**: L'elemento di fattispecie della dannosità è centrale. Non ogni restrizione della concorrenza è rilevante, ma solo quelle con conseguenze dimostrabilmente negative. Il Tribunale federale non interpreta ciò come divieto assoluto di regole per-se: «La menzione degli effetti dannosi nel testo costituzionale non esclude divieti parziali di accordi o comportamenti dimostrabilmente particolarmente dannosi» (**DTF 135 II 60**).
 
 **N. 9** **Cartelli e altre restrizioni della concorrenza**: Il concetto comprende accordi orizzontali e verticali nonché comportamenti unilaterali di imprese con potere di mercato. La formulazione «altre restrizioni della concorrenza» estende l'ambito di applicazione oltre i cartelli classici a tutte le forme di impedimento della concorrenza.
 
-**N. 10** **Potere di mercato** (cpv. 2 lett. a): Presupposto per l'abuso di prezzi è una posizione dominante o almeno forte sul mercato. Il Tribunale amministrativo federale sottolinea: «prezzi abusivi possono sussistere solo se sul mercato interessato non regna una concorrenza efficace». L'analisi del potere di mercato segue criteri economici (quote di mercato, barriere all'entrata, concorrenza potenziale).
+**N. 10** **Potere di mercato** (cpv. 2 lett. a): Presupposto per l'abuso di prezzi è una posizione dominante o almeno forte sul mercato. Il Tribunale amministrativo federale sottolinea che prezzi abusivi sono ipotizzabili soltanto in assenza di una concorrenza efficace sul mercato interessato. L'analisi del potere di mercato segue criteri economici (quote di mercato, barriere all'entrata, concorrenza potenziale).
 
 **N. 11** **Concorrenza sleale** (cpv. 2 lett. b): Sono rilevanti tutti i comportamenti che violano la buona fede e compromettono la capacità funzionale della concorrenza. La norma protegge sia l'istituzione della concorrenza sia i singoli partecipanti al mercato.
 

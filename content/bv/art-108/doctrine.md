@@ -48,7 +48,7 @@
 
 ## 5. Streitstände
 
-**N. 16** **Reichweite der Eigenbedarfsklausel**: Cardinaux vertritt eine enge Auslegung des «Eigenbedarfs Privater», wonach nur Erstwohnungen erfasst sind. Andere Autoren plädieren für eine grosszügigere Interpretation, die auch vermietete Eigentumswohnungen als künftige Altersvorsorge einschliesst. Das Bundesgericht hat sich für die enge Auslegung entschieden (BGE 132 I 157).
+**N. 16** **Reichweite der Eigenbedarfsklausel**: Cardinaux vertritt eine enge Auslegung des Eigenbedarfs Privater, wonach nur Erstwohnungen erfasst sind. Andere Autoren plädieren für eine grosszügigere Interpretation, die auch vermietete Eigentumswohnungen als künftige Altersvorsorge einschliesst. Das Bundesgericht hat sich für die enge Auslegung entschieden (BGE 132 I 157).
 
 **N. 17** **Verhältnis zu Art. 41 BV**: Umstritten ist, ob Art. 108 BV über den blossen Förderungsauftrag hinaus auch eine Gewährleistungspflicht für angemessenen Wohnraum enthält. Die herrschende Lehre (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, § 51 N. 3625) verneint dies und verweist auf die klare Trennung zwischen Sozialzielen und Kompetenznormen.
 

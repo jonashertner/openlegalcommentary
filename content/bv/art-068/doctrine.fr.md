@@ -26,7 +26,7 @@
 
 #### Sport des jeunes et enseignement obligatoire du sport (al. 3)
 
-**N. 8** L'al. 3 accorde à la Confédération deux compétences distinctes: une compétence générale de réglementation pour le sport des jeunes et la faculté spécifique de déclarer obligatoire l'enseignement du sport dans les écoles. Ces compétences ont été mises en œuvre par l'art. 12 LESp, qui prescrit trois leçons de sport hebdomadaires dans l'école obligatoire.
+**N. 8** L'al. 3 accorde à la Confédération deux compétences distinctes : une compétence générale de réglementation pour le sport des jeunes et la faculté spécifique de déclarer obligatoire l'enseignement du sport dans les écoles. Ces compétences ont été mises en œuvre par l'art. 12 LESp, qui prescrit trois leçons de sport hebdomadaires dans l'école obligatoire.
 
 ### 4. Effets juridiques
 

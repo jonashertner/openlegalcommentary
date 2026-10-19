@@ -14,11 +14,11 @@ L'art. 93 Cst. figure dans la section relative aux compétences de la Confédér
 
 **N. 3.1** _Compétence fédérale (al. 1)_
 
-La compétence législative de la Confédération pour la radio, la télévision et les autres formes de diffusion publique télétechnique est, selon la doctrine dominante, étendue et agit de manière originairement dérogatoire par rapport au droit cantonal (Aubert/Mahon, Petit commentaire, art. 93 n. 4; Cottier, in: Mäder/Uebersax, art. 93 n. 12). Une opinion minoritaire voit des compétences concurrentes de la Confédération et des cantons, dans la mesure où la Confédération n'a pas fait un usage exhaustif de sa compétence (Biaggini, BV-Kommentar, art. 93 n. 6; Tschannen, in: Tschannen/Zimmerli/Müller, § 5 n. 28).
+La compétence législative de la Confédération pour la radio, la télévision et les autres formes de diffusion publique télétechnique est, selon la doctrine dominante, étendue et agit de manière originairement dérogatoire par rapport au droit cantonal (Aubert/Mahon, Petit commentaire, art. 93 n. 4 ; Cottier, in : Mäder/Uebersax, art. 93 n. 12). Une opinion minoritaire voit des compétences concurrentes de la Confédération et des cantons, dans la mesure où la Confédération n'a pas fait un usage exhaustif de sa compétence (Biaggini, BV-Kommentar, art. 93 n. 6 ; Tschannen, in : Tschannen/Zimmerli/Müller, § 5 n. 28).
 
 **N. 3.2** _Portée de la compétence fédérale_
 
-La portée de la compétence fédérale pour les médias en ligne est controversée. Selon Saxer, l'art. 93 Cst. ne couvre que les programmes et les applications fonctionnellement équivalentes (Saxer/Brunner, Rundfunkrecht, n. 142). L'opinion contraire soutient que l'ensemble de la communication publique dans le domaine en ligne relève de la compétence législative (Graber/Kerekes, sic! 2012, 421; Weber, Medienkonzentration, 87 ss.). **BGE 149 I 2** a répondu à cette question pour l'offre publicitaire complémentaire de la SSR en précisant que les activités sur les médias sociaux sont également couvertes.
+La portée de la compétence fédérale pour les médias en ligne est controversée. Selon Saxer, l'art. 93 Cst. ne couvre que les programmes et les applications fonctionnellement équivalentes (Saxer/Brunner, Rundfunkrecht, n. 142). L'opinion contraire soutient que l'ensemble de la communication publique dans le domaine en ligne relève de la compétence législative (Graber/Kerekes, sic! 2012, 421 ; Weber, Medienkonzentration, 87 ss.). **BGE 149 I 2** a répondu à cette question pour l'offre publicitaire complémentaire de la SSR en précisant que les activités sur les médias sociaux sont également couvertes.
 
 **N. 4** **Mandat de prestation (al. 2)**
 

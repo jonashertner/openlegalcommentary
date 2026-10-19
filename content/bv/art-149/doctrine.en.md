@@ -22,7 +22,7 @@
 
 #### Representatives of the People (para. 1)
 
-**No. 5** The 200 National Councillors are "representatives of the people", not representatives of their cantons. This characterisation fundamentally distinguishes the National Council from the Council of States and establishes the free mandate without obligation to follow instructions.
+**No. 5** The 200 National Councillors represent the people, not their cantons. This characterisation fundamentally distinguishes the National Council from the Council of States and establishes the free mandate without obligation to follow instructions.
 
 **No. 6** The determination of 200 seats was made in 1962 (AS 1963 847). This number represents a compromise between adequate representation and the working capacity of parliament.
 
@@ -40,7 +40,7 @@
 
 #### Seat Distribution (para. 4)
 
-**No. 11** The "population figure" as the distribution key is not conclusively defined. The Federal Council takes the position that the permanent resident population including foreigners should be decisive, as they pay "customs duties and taxes like the Swiss".
+**No. 11** The "population figure" as the distribution key is not conclusively defined. The Federal Council takes the position that the permanent resident population including foreigners should be decisive, as they pay customs duties and taxes just as Swiss citizens do.
 
 **No. 12** The guarantee of at least one seat per canton privileges small cantons and breaks through the pure proportional principle in favour of federalist consideration.
 
@@ -60,7 +60,7 @@
 
 **No. 15** It is disputed which population is decisive for seat distribution:
 - **Federal Council**: The permanent resident population including foreigners should be considered
-- **Thurnherr**: This line of argumentation disregards the "incongruence between representatives and those represented"
+- **Thurnherr**: This line of argumentation disregards the mismatch between the representatives and the persons they represent
 - **Schumacher**: Advocates for considering only those entitled to vote (ZBl 1999, 524 f.)
 
 #### Proportional Fairness in Small Cantons

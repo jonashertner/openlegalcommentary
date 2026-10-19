@@ -14,7 +14,7 @@ Il est essentiel que seules les réunions pacifiques soient protégées. Le Trib
 
 Sont protégées toutes les personnes qui organisent une réunion, y participent ou s'en abstiennent consciemment. Cela comprend les particuliers, les associations et les groupements politiques. La qualité pour agir appartient à tous, indépendamment de la nationalité ou du domicile.
 
-Des restrictions sont possibles: l'État peut exiger une autorisation pour les manifestations sur le domaine public. La doctrine dominante considère cette obligation d'autorisation comme une atteinte aux droits fondamentaux qui nécessite une base légale.
+Des restrictions sont possibles : l'État peut exiger une autorisation pour les manifestations sur le domaine public. La doctrine dominante considère cette obligation d'autorisation comme une atteinte aux droits fondamentaux qui nécessite une base légale.
 
 ### Quelles sont les conséquences juridiques ?
 

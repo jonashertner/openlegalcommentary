@@ -1,6 +1,6 @@
 ## Übersicht
 
-Art. 146 BV verpflichtet den Bund zur Haftung bei Schäden durch seine Organe. Diese Staatshaftung bildet nach Jellinek die «Ultima Ratio des Rechtsstaates». Sie gilt für alle Bundesbehörden, von der Verwaltung bis zu den Gerichten.
+Art. 146 BV verpflichtet den Bund zur Haftung bei Schäden durch seine Organe. Diese Staatshaftung bildet nach Jellinek die *Ultima Ratio des Rechtsstaates*. Sie gilt für alle Bundesbehörden, von der Verwaltung bis zu den Gerichten.
 
 Der Bund muss vier Voraussetzungen erfüllen: Es muss ein Schaden vorliegen, verursacht durch ein Bundesorgan in amtlicher Tätigkeit, widerrechtlich und mit adäquatem Kausalzusammenhang. Widerrechtlich ist jede Verletzung der Rechtsordnung, unabhängig vom Verschulden der Beamten. Die Haftung ist eine reine Kausalhaftung ohne Verschuldenserfordernis (Art. 3 VG).
 

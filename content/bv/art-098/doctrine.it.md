@@ -2,7 +2,7 @@
 
 ## 1. Genesi storica
 
-**N. 1** L'art. 98 Cost. corrisponde in larga misura all'art. 31bis cpv. 2 aCost. (banche e borse) nonché all'art. 34 cpv. 2 aCost. (assicurazioni private). La norma è stata sistematicamente inserita nella parte economica durante la revisione totale del 1999. Come rilevato in dottrina, il Consiglio federale constata: «Praticamente non cambia nulla», poiché la Confederazione già in precedenza poteva emanare prescrizioni sull'«esercizio del commercio e dell'industria» basandosi sull'art. 31bis cpv. 2 aCost.
+**N. 1** L'art. 98 Cost. corrisponde in larga misura all'art. 31bis cpv. 2 aCost. (banche e borse) nonché all'art. 34 cpv. 2 aCost. (assicurazioni private). La norma è stata sistematicamente inserita nella parte economica durante la revisione totale del 1999. Come rilevato in dottrina, il Consiglio federale constata che in pratica non cambia nulla, poiché la Confederazione già in precedenza poteva emanare prescrizioni sull'esercizio del commercio e dell'industria basandosi sull'art. 31bis cpv. 2 aCost.
 
 **N. 2** La nascita del diritto svizzero dei mercati finanziari è stata caratterizzata in modo determinante dalle crisi. La legge sulle banche del 1934 nacque come reazione alla crisi bancaria dei primi anni Trenta (FF 1934 I 171 segg.). La creazione dell'autorità di vigilanza integrata sui mercati finanziari FINMA nel 2009 seguì la crisi finanziaria del 2008 (FF 2006 2829 segg.).
 
@@ -18,7 +18,7 @@
 
 ## 3. Elementi costitutivi / Contenuto normativo
 
-**N. 7** **Sistema bancario (cpv. 1)**: Il Tribunale federale definisce nella giurisprudenza costante: «Vi è accettazione di depositi del pubblico quando una persona assume a titolo professionale obbligazioni verso terzi, diventando così debitrice del rimborso». La definizione comprende banche commerciali classiche, casse di risparmio, banche private e nuove forme come piattaforme di crowdfunding.
+**N. 7** **Sistema bancario (cpv. 1)**: Secondo la giurisprudenza costante del Tribunale federale, accetta depositi del pubblico chi, a titolo professionale, si obbliga verso terzi diventandone debitore per il rimborso. La definizione comprende banche commerciali classiche, casse di risparmio, banche private e nuove forme come piattaforme di crowdfunding.
 
 **N. 8** **Sistema borsistico (cpv. 1)**: Non sono contemplate solo le borse valori tradizionali, ma anche i sistemi multilaterali di negoziazione (MTF) e i sistemi organizzati di negoziazione (OTF). In dottrina si sottolinea l'interpretazione tecnologicamente neutra considerando le piattaforme di negoziazione elettroniche.
 
@@ -26,7 +26,7 @@
 
 **N. 10** **Servizi finanziari in altri settori (cpv. 2)**: Questa clausola generale contempla la gestione patrimoniale, la consulenza in investimenti, i servizi di pagamento e nuovi modelli commerciali come il commercio di criptovalute. La formulazione «può» conferisce al legislatore un margine di valutazione se e come regolamentare.
 
-**N. 11** **Sistema assicurativo privato (cpv. 3)**: La competenza comprende l'intera economia assicurativa privata. Come rilevato in dottrina, il Tribunale federale identifica cinque caratteristiche centrali: «Rischio, prestazione dell'assicurato, prestazione dell'assicuratore, indipendenza dell'operazione e compensazione dei rischi secondo le leggi della statistica».
+**N. 11** **Sistema assicurativo privato (cpv. 3)**: La competenza comprende l'intera economia assicurativa privata. Come rilevato in dottrina, il Tribunale federale identifica cinque caratteristiche centrali: il rischio, la prestazione dell'assicurato, la prestazione dell'assicuratore, l'indipendenza dell'operazione e la compensazione dei rischi secondo le leggi della statistica.
 
 ## 4. Conseguenze giuridiche
 

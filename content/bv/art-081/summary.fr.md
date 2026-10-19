@@ -8,6 +8,6 @@ Quand la Confédération peut-elle intervenir ? Seulement si le projet revêt un
 
 L'article donne trois possibilités à la Confédération : elle peut créer et exploiter des ouvrages elle-même, reprendre des installations existantes ou soutenir financièrement des projets privés et cantonaux. Le choix relève de l'appréciation politique.
 
-Conséquence importante: pour les ouvrages de la Confédération, celle-ci dispose du droit d'expropriation. Elle peut donc acquérir des terrains contre indemnisation lorsque l'intérêt public l'emporte.
+Conséquence importante : pour les ouvrages de la Confédération, celle-ci dispose du droit d'expropriation. Elle peut donc acquérir des terrains contre indemnisation lorsque l'intérêt public l'emporte.
 
 L'art. 81 Cst. est une compétence subsidiaire. Pour des domaines spéciaux comme les transports ou l'énergie, les dispositions spéciales s'appliquent en priorité (art. 82-93 Cst.). Le message de 1997 qualifie cette norme de « clause générale pour tous les domaines de l'infrastructure » (FF 1997 I 248).

@@ -22,7 +22,7 @@
 
 **N. 7** **Abs. 1 Satz 1: Unselbständige Förderungskompetenz.** Der Bund «kann» Beiträge gewähren — die Kann-Formulierung begründet eine fakultative Bundeskompetenz. Die Beiträge erfolgen «an» die kantonalen Aufwendungen, nicht direkt an Studierende. Dies unterstreicht den subsidiären Charakter der Bundesunterstützung.
 
-**N. 8** Der Begriff «Ausbildungsbeiträge» umfasst Stipendien (nicht rückzahlbare Leistungen) und Darlehen (rückzahlbare Leistungen). «Hochschulen» meint universitäre Hochschulen, Fachhochschulen und pädagogische Hochschulen. «Andere Institutionen des höheren Bildungswesens» erfasst die höhere Berufsbildung.
+**N. 8** Der Begriff «Ausbildungsbeiträge» umfasst Stipendien (nicht rückzahlbare Leistungen) und Darlehen (rückzahlbare Leistungen). «Hochschulen» meint universitäre Hochschulen, Fachhochschulen und pädagogische Hochschulen. Der Begriff der anderen Institutionen des höheren Bildungswesens erfasst die höhere Berufsbildung.
 
 **N. 9** **Abs. 1 Satz 2: Harmonisierungskompetenz.** Der Bund kann die «interkantonale Harmonisierung» fördern und «Grundsätze» festlegen. Diese Kompetenz ist breiter als die reine Beitragskompetenz und erlaubt dem Bund, steuernd auf die Rechtsvereinheitlichung einzuwirken. Die Grundsätze können Mindeststandards für Bezugsberechtigung, Bemessung und Verfahren umfassen.
 

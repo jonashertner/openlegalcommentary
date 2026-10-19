@@ -18,7 +18,7 @@
 
 ## Éléments du fait constitutif / Contenu de la norme
 
-**N. 5** **Corps électoral**: « Chaque conseil » désigne le Conseil national et le Conseil des États séparément. Les deux conseils élisent leurs présidiums indépendamment l'un de l'autre. La formulation « en son sein » signifie que seuls les membres du conseil respectif sont éligibles.
+**N. 5** **Corps électoral** : « Chaque conseil » désigne le Conseil national et le Conseil des États séparément. Les deux conseils élisent leurs présidiums indépendamment l'un de l'autre. La formulation « en son sein » signifie que seuls les membres du conseil respectif sont éligibles.
 
 **N. 6** **Charges électives** : La norme exige l'élection de trois personnes :
 - Une présidente ou un président

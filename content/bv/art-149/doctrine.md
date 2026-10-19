@@ -22,7 +22,7 @@
 
 #### Abgeordnete des Volkes (Abs. 1)
 
-**N. 5** Die 200 Nationalräte sind "Abgeordnete des Volkes", nicht Vertreter ihrer Kantone. Diese Charakterisierung unterscheidet den Nationalrat fundamental vom Ständerat und begründet das freie Mandat ohne Instruktionsgebundenheit.
+**N. 5** Die 200 Nationalräte sind Abgeordnete des Volkes, nicht Vertreter ihrer Kantone. Diese Charakterisierung unterscheidet den Nationalrat fundamental vom Ständerat und begründet das freie Mandat ohne Instruktionsgebundenheit.
 
 **N. 6** Die Festlegung auf 200 Sitze erfolgte 1962 (AS 1963 847). Diese Zahl bildet einen Kompromiss zwischen angemessener Repräsentation und Arbeitsfähigkeit des Parlaments.
 
@@ -40,7 +40,7 @@
 
 #### Sitzverteilung (Abs. 4)
 
-**N. 11** Die "Bevölkerungszahl" als Verteilungsschlüssel ist nicht abschliessend definiert. Der Bundesrat vertritt die Position, dass die ständige Wohnbevölkerung einschliesslich Ausländer massgebend sei, da diese "Zölle und Steuern wie die Schweizer" entrichten.
+**N. 11** Die "Bevölkerungszahl" als Verteilungsschlüssel ist nicht abschliessend definiert. Der Bundesrat vertritt die Position, dass die ständige Wohnbevölkerung einschliesslich Ausländer massgebend sei, da auch sie wie die Schweizer Zölle und Steuern bezahlen.
 
 **N. 12** Die Garantie mindestens eines Sitzes pro Kanton privilegiert kleine Kantone und durchbricht das reine Proporzprinzip zugunsten föderalistischer Rücksichtnahme.
 
@@ -60,7 +60,7 @@
 
 **N. 15** Umstritten ist, welche Bevölkerung für die Sitzverteilung massgebend ist:
 - **Bundesrat**: Die ständige Wohnbevölkerung einschliesslich Ausländer soll berücksichtigt werden
-- **Ein Teil der Lehre**: Diese Argumentationslinie lasse die "Inkongruenz zwischen Vertretern und Vertretenen" ausser Acht
+- **Ein Teil der Lehre**: Diese Argumentationslinie lasse die Inkongruenz zwischen Vertretern und Vertretenen ausser Acht
 - **Schumacher**: Plädiert für die Berücksichtigung nur der Stimmberechtigten (ZBl 1999, 524 f.)
 
 #### Proporzgerechtigkeit in kleinen Kantonen

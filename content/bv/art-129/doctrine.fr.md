@@ -26,7 +26,7 @@
 
 #### a) Compétence de principe (al. 1)
 
-**ch. 7** La notion de « principes » fait l'objet d'interprétations controversées. « L'antinomie des objectifs constitutionnels » décrite par Reich marque l'interprétation: d'un côté, seule une législation-cadre devrait intervenir, de l'autre, une harmonisation efficace est visée.
+**ch. 7** La notion de « principes » fait l'objet d'interprétations controversées. L'antinomie des objectifs constitutionnels décrite par Reich marque l'interprétation : d'un côté, seule une législation-cadre devrait intervenir, de l'autre, une harmonisation efficace est visée.
 
 **ch. 8** Le Tribunal fédéral tend vers une interprétation extensive. Dans l'**ATF 130 II 202**, il a expliqué que l'étendue des possibilités de concrétisation cantonales devait être déterminée séparément pour chaque disposition. La pratique montre que la Confédération épuise largement sa compétence (Vallender, Mittelbare Rechtsetzung, 435).
 

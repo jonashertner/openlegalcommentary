@@ -14,7 +14,7 @@ Il **domicilio** comprende funzionalmente tutti gli spazi della vita privata - d
 
 La **corrispondenza postale e telecomunicazioni** protegge la comunicazione confidenziale indipendentemente dal mezzo. Ciò comprende e-mail, SMS e servizi di messaggistica così come le lettere tradizionali.
 
-La **protezione dei dati** (cpv. 2) garantisce il diritto all'autodeterminazione informativa - inteso come «right to be let alone» secondo Warren/Brandeis. La protezione comprende la raccolta, la memorizzazione, l'utilizzazione e la comunicazione di dati personali da parte di organi statali (**DTF 128 II 259 consid. 3.2**).
+La **protezione dei dati** (cpv. 2) garantisce il diritto all'autodeterminazione informativa - inteso, secondo Warren/Brandeis, come diritto di essere lasciati in pace. La protezione comprende la raccolta, la memorizzazione, l'utilizzazione e la comunicazione di dati personali da parte di organi statali (**DTF 128 II 259 consid. 3.2**).
 
 Ogni intervento nell'art. 13 Cost. necessita di una giustificazione secondo l'art. 36 Cost.: base legale, interesse pubblico, proporzionalità e rispetto del contenuto essenziale. Per i dati personali particolarmente meritevoli di protezione è richiesta una base nella legge in senso formale.
 

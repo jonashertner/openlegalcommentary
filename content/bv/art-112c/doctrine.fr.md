@@ -16,7 +16,7 @@
 
 **N. 5** **« La Confédération encourage »** : Cette formulation fonde une compétence d'encouragement, mais non une compétence de réglementation complète. La compétence fédérale se limite aux mesures de soutien ; il n'existe pas de compétence fédérale intégrale pour l'aide aux personnes âgées et handicapées (Schweizer, St. Galler Kommentar BV, 4e éd. 2023, art. 112c N. 4).
 
-**N. 6** **« les efforts en faveur des personnes âgées et handicapées »**: Le terme « efforts » englobe toutes les activités et mesures qui servent à améliorer la situation de vie des personnes âgées et handicapées. Cela inclut tant les initiatives privées que publiques.
+**N. 6** **« les efforts en faveur des personnes âgées et handicapées »** : Le terme « efforts » englobe toutes les activités et mesures qui servent à améliorer la situation de vie des personnes âgées et handicapées. Cela inclut tant les initiatives privées que publiques.
 
 **N. 7** Les termes « personnes âgées » et « handicapées » doivent être entendus au sens large. « Personnes âgées » englobe toutes les personnes à l'âge de la retraite, indépendamment de leur besoin de soins. Le terme « handicapées » s'oriente sur la conception moderne du handicap de la Convention de l'ONU relative aux droits des personnes handicapées et englobe les personnes avec des déficiences durables physiques, psychiques, mentales ou sensorielles (Müller/Schefer, Grundrechte in der Schweiz, 4e éd. 2008, p. 745 s.).
 
@@ -28,11 +28,11 @@
 
 ### 5. Points litigieux
 
-**N. 10** **Étendue de la compétence fédérale**: En doctrine, l'étendue de la compétence d'encouragement de la Confédération est controversée. Schweizer (St. Galler Kommentar BV, art. 112c N. 6) défend une interprétation restrictive et souligne le caractère subsidiaire de la compétence fédérale. Une partie de la doctrine plaide pour une interprétation plus large, qui accorde aussi à la Confédération certaines compétences de réglementation dans le cadre de l'encouragement.
+**N. 10** **Étendue de la compétence fédérale** : En doctrine, l'étendue de la compétence d'encouragement de la Confédération est controversée. Schweizer (St. Galler Kommentar BV, art. 112c N. 6) défend une interprétation restrictive et souligne le caractère subsidiaire de la compétence fédérale. Une partie de la doctrine plaide pour une interprétation plus large, qui accorde aussi à la Confédération certaines compétences de réglementation dans le cadre de l'encouragement.
 
 **N. 11** **Rapport avec les cantons** : La nature concurrente de la compétence n'est pas contestée, mais les opinions divergent sur la portée de l'autonomie cantonale. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3e éd. 2016, N. 3854) soulignent la compétence principale cantonale subsistante. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10e éd. 2020, N. 1285) voient en revanche une coresponsabilité fédérale renforcée, notamment pour le financement.
 
-**N. 12** **Interprétation conforme au droit international**: Avec la ratification de la Convention de l'ONU relative aux droits des personnes handicapées, la question s'est posée de savoir dans quelle mesure l'art. 112c Cst. doit être interprété à la lumière du droit international. Schefer (in: Müller/Schefer, Grundrechte, p. 748) exige une interprétation extensive au sens de la Convention. Une partie de la doctrine appelle à la retenue et souligne la différence entre mandat d'encouragement et obligation de droit fondamental.
+**N. 12** **Interprétation conforme au droit international** : Avec la ratification de la Convention de l'ONU relative aux droits des personnes handicapées, la question s'est posée de savoir dans quelle mesure l'art. 112c Cst. doit être interprété à la lumière du droit international. Schefer (in: Müller/Schefer, Grundrechte, p. 748) exige une interprétation extensive au sens de la Convention. Une partie de la doctrine appelle à la retenue et souligne la différence entre mandat d'encouragement et obligation de droit fondamental.
 
 ### 6. Indications pratiques
 

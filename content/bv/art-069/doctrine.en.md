@@ -20,7 +20,7 @@
 
 ### 3. Elements of the Offence / Content of the Norm
 
-**N. 7** **Concept of culture**: The Constitution does not define the term «culture». According to prevailing doctrine, culture within the meaning of Art. 69 BV is to be understood in a narrow sense as «the creation, preservation and research of the fine arts». This narrow definition is, however, disputed; Pfändler-Oling argues for a broader, anthropologically based concept of culture (Pfändler-Oling, Die verfassungsrechtliche Grundlage der Kulturförderung im Bund, 2010, 45ff.).
+**N. 7** **Concept of culture**: The Constitution does not define the term «culture». According to prevailing doctrine, culture within the meaning of Art. 69 BV is to be understood in a narrow sense, covering the production, conservation and study of the fine arts. This narrow definition is, however, disputed; Pfändler-Oling argues for a broader, anthropologically based concept of culture (Pfändler-Oling, Die verfassungsrechtliche Grundlage der Kulturförderung im Bund, 2010, 45ff.).
 
 **N. 8** **Cantonal jurisdiction (para. 1)**: The cantons are primarily responsible for the area of culture. This competence encompasses the entire cultural policy including legislation, implementation and financing. Cantonal cultural sovereignty is comprehensive and requires no special constitutional authorisation (Biaggini, BV Kommentar, Art. 69 N. 2).
 
@@ -34,7 +34,7 @@
 
 **N. 12** Art. 69 BV establishes a competence norm, but not subjective claims to cultural promotion. **JAAC 68.15** E. 4.1 confirms that even when the promotion requirements are met, there is no legal claim to financial assistance. The facultative formulation («may») grants the Confederation considerable discretion.
 
-**N. 13** The federal competence according to para. 2 is designed as a concurrent competence with priority for the cantons. The Confederation may only act subsidiarily and must demonstrate the national interest. Biaggini emphasises that the federal competence «is to be regarded as less far-reaching than that of the cantons due to the requirement of national interest».
+**N. 13** The federal competence according to para. 2 is designed as a concurrent competence with priority for the cantons. The Confederation may only act subsidiarily and must demonstrate the national interest. Biaggini emphasises that, because of the national-interest requirement, the federal competence reaches less far than that of the cantons.
 
 **N. 14** The duty to give consideration according to para. 3 has a programmatic character, but obliges all federal bodies in law-making and implementation. It can be used as an interpretive aid and in weighing interests (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, N. 3842).
 
@@ -42,7 +42,7 @@
 
 **N. 15** **Definition of national interest**: A central point of dispute concerns the interpretation of «national interest». Christen/Raschèr/Tribolet demand an impact extending beyond regional roots (AJP 2001, 1035, 1042). Schmidt-Gabain argues conversely that even locally anchored cultural endeavours can be of national interest in the interest of Switzerland's cultural diversity. This controversy has direct effects on the Confederation's promotion practice.
 
-**N. 16** **Promotion criteria versus aleatory arts promotion**: A fundamental dissent exists regarding promotion criteria. Uhlmann/Bognuda argue for strict selection with clear criteria, as «art must not be promoted with a watering can» (ZSR 2008 I 363, 376). Schmidt-Gabain represents the opposite position and argues that aleatory (chance-based) cultural promotion is better compatible with freedom of the arts and equality before the law, as art would then «finally be free again to ignore the supposed criteria of its promotion». Baumann and Depenheuer have discussed the theoretical foundations of random distribution (Baumann, SJZ 2003, 621; Depenheuer, JZ 1993, 171).
+**N. 16** **Promotion criteria versus aleatory arts promotion**: A fundamental dissent exists regarding promotion criteria. Uhlmann/Bognuda argue for strict selection with clear criteria, as «art must not be promoted with a watering can» (ZSR 2008 I 363, 376). Schmidt-Gabain represents the opposite position and argues that aleatory (chance-based) cultural promotion is better compatible with freedom of the arts and equality before the law, as art would then at last regain the freedom to disregard the supposed criteria governing its promotion. Baumann and Depenheuer have discussed the theoretical foundations of random distribution (Baumann, SJZ 2003, 621; Depenheuer, JZ 1993, 171).
 
 **N. 17** **Scope of federal competence**: The reach of federal promotion is disputed. A restrictive interpretation emphasises the subsidiary role of the Confederation and wants to limit its activity to few, clearly defined areas. The extensive interpretation sees in the open formulation a deliberate flexibility for contemporary cultural policy (Uhlmann/Raschèr/Reichenau, Kulturförderung, in: Mosimann/Renold/Raschèr, Kultur Kunst Recht, 2009, 141, 156).
 

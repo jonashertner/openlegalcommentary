@@ -58,7 +58,7 @@
 
 ### Prix minimaux et restrictions de vente
 
-**Ch. 12** La licéité constitutionnelle de prix minimaux pour les boissons alcoolisées est controversée. Le Conseil des États a approuvé tant les interdictions de vente nocturnes (22h-6h) que les prix minimaux pour lutter contre les excès d'alcool; le Conseil national a rejeté les deux mesures. Pärli/Lehne affirment la compatibilité avec l'art. 105 Cst. en invoquant le mandat de protection de la santé, tandis qu'Epiney/Metz expriment des réserves de droit commercial.
+**Ch. 12** La licéité constitutionnelle de prix minimaux pour les boissons alcoolisées est controversée. Le Conseil des États a approuvé tant les interdictions de vente nocturnes (22h-6h) que les prix minimaux pour lutter contre les excès d'alcool ; le Conseil national a rejeté les deux mesures. Pärli/Lehne affirment la compatibilité avec l'art. 105 Cst. en invoquant le mandat de protection de la santé, tandis qu'Epiney/Metz expriment des réserves de droit commercial.
 
 ### Notion de « boissons distillées »
 

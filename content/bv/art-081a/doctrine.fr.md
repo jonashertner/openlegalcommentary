@@ -16,7 +16,7 @@
 
 ### 3. Éléments constitutifs / Contenu normatif
 
-**N. 5** **L'alinéa 1** établit un triple mandat constitutionnel: la Confédération et les cantons veillent conjointement à (1) une offre suffisante, (2) de transports publics, (3) sur rail, sur route, par voies d'eau et par installations à câbles, (4) dans toutes les régions du pays. La notion d'« offre suffisante » est un concept juridique indéterminé qui se concrétise par la législation et la pratique. Selon Griffel, elle ne vise que l'accessibilité générale.
+**N. 5** **L'alinéa 1** établit un triple mandat constitutionnel : la Confédération et les cantons veillent conjointement à (1) une offre suffisante, (2) de transports publics, (3) sur rail, sur route, par voies d'eau et par installations à câbles, (4) dans toutes les régions du pays. La notion d'« offre suffisante » est un concept juridique indéterminé qui se concrétise par la législation et la pratique. Selon Griffel, elle ne vise que l'accessibilité générale.
 
 **N. 6** L'« offre suffisante » comprend des aspects quantitatifs (fréquence des cadences, couverture du réseau) et qualitatifs (fiabilité, confort, accessibilité). Cette exigence ne s'adresse pas aux individus, mais oblige la Confédération et les cantons à accomplir conjointement cette tâche. La formulation « dans toutes les régions du pays » concrétise l'obligation de service public et exige une desserte de surface couvrant également les régions périphériques.
 
@@ -34,7 +34,7 @@
 
 ### 5. Points controversés
 
-**N. 12** **Limite supérieure contestée pour les prix de transport**: Dans la doctrine, il est controversé de savoir si l'art. 81a al. 2 Cst établit une limite supérieure pour les prix de transport. Uhlmann (SG Komm. BV, Art. 81a N. 34) défend la position selon laquelle cette disposition constitue une limite supérieure globale: une couverture complète des coûts par les prix aux usagers serait dès lors inadmissible, car cela nierait le caractère d'intérêt général des transports publics. Kern conteste cette conception: la disposition ne constitue pas une limite supérieure et n'exclut pas une couverture complète des coûts.
+**N. 12** **Limite supérieure contestée pour les prix de transport** : Dans la doctrine, il est controversé de savoir si l'art. 81a al. 2 Cst établit une limite supérieure pour les prix de transport. Uhlmann (SG Komm. BV, Art. 81a N. 34) défend la position selon laquelle cette disposition constitue une limite supérieure globale : une couverture complète des coûts par les prix aux usagers serait dès lors inadmissible, car cela nierait le caractère d'intérêt général des transports publics. Kern conteste cette conception : la disposition ne constitue pas une limite supérieure et n'exclut pas une couverture complète des coûts.
 
 **N. 13** **Taux de couverture des coûts approprié** : Ce qui constitue une « part appropriée » de couverture des coûts est controversé dans la doctrine. La pratique montre des taux de couverture des coûts entre 40% et 60% dans le trafic régional et jusqu'à 80% dans le trafic grandes lignes. Stückelberger/Haldimann (Schienenverkehrsrecht, 2008, p. 265) plaident pour une approche différenciée selon le type de trafic et la région. Le Tribunal fédéral n'a jusqu'à présent défini aucune limite inférieure en pourcentage, mais a seulement précisé qu'un tarif zéro est inadmissible (**ATF 149 I 182**).
 

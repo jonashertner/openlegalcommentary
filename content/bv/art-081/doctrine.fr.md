@@ -10,7 +10,7 @@
 
 **N. 3** L'art. 81 Cst. figure au 3e titre sur « Confédération, cantons et communes » sous le 3e chapitre « Tâches de la Confédération et des cantons ». La norme fonctionne comme une clause générale subsidiaire aux compétences d'infrastructure plus spécifiques des art. 82-93 Cst. (transports et énergie). Elle est l'expression du fédéralisme coopératif : la Confédération peut ériger, exploiter des ouvrages ou soutenir leur érection par des tiers.
 
-**N. 4** Dans le rapport aux compétences cantonales s'applique le principe de subsidiarité (→ art. 5a Cst.). Seuls les ouvrages qui sont « dans l'intérêt du pays tout entier ou d'une grande partie de celui-ci » relèvent de la compétence confédérale. La délimitation par rapport aux ouvrages purement cantonaux ou régionaux s'effectue selon des critères matériels: importance nationale, besoin de coordination, portée financière.
+**N. 4** Dans le rapport aux compétences cantonales s'applique le principe de subsidiarité (→ art. 5a Cst.). Seuls les ouvrages qui sont « dans l'intérêt du pays tout entier ou d'une grande partie de celui-ci » relèvent de la compétence confédérale. La délimitation par rapport aux ouvrages purement cantonaux ou régionaux s'effectue selon des critères matériels : importance nationale, besoin de coordination, portée financière.
 
 ### 3. Éléments constitutifs
 
@@ -18,7 +18,7 @@
 
 **N. 6** **Dans l'intérêt du pays tout entier ou d'une grande partie de celui-ci** : Cette formule délimite la compétence confédérale des ouvrages cantonaux et communaux. Sont visés les ouvrages d'importance suprarégionale, qui concernent plusieurs cantons ou sont d'importance stratégique nationale. La pratique montre une interprétation généreuse pour les infrastructures de transport, d'énergie et de communication (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10e éd. 2020, n. 1089).
 
-**N. 7** **Ériger, exploiter ou soutenir**: La Confédération a trois options d'action: (1) Érection et exploitation propres par l'administration fédérale ou des établissements fédéraux; (2) Exploitation d'ouvrages existants; (3) Soutien financier ou organisationnel de porteurs privés ou cantonaux. Le choix de la forme d'action relève du pouvoir d'appréciation politique de la Confédération.
+**N. 7** **Ériger, exploiter ou soutenir** : La Confédération a trois options d'action : (1) Érection et exploitation propres par l'administration fédérale ou des établissements fédéraux ; (2) Exploitation d'ouvrages existants ; (3) Soutien financier ou organisationnel de porteurs privés ou cantonaux. Le choix de la forme d'action relève du pouvoir d'appréciation politique de la Confédération.
 
 ### 4. Conséquences juridiques
 

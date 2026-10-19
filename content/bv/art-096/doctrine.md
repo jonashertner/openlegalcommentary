@@ -18,13 +18,13 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** **Wettbewerb als Schutzgut**: Art. 96 BV schützt den Wettbewerb als Institution und Prozess. Nach Uhlmann umfasst der Wettbewerbsbegriff «den Prozess der Rivalität zwischen Unternehmen um Marktanteile durch Leistung». Das Bundesverwaltungsgericht präzisiert, dass nur bei fehlendem wirksamem Wettbewerb von Marktmissbrauch gesprochen werden kann.
+**N. 7** **Wettbewerb als Schutzgut**: Art. 96 BV schützt den Wettbewerb als Institution und Prozess. Nach Uhlmann umfasst der Wettbewerbsbegriff das leistungsbasierte Ringen von Unternehmen um Marktanteile. Das Bundesverwaltungsgericht präzisiert, dass nur bei fehlendem wirksamem Wettbewerb von Marktmissbrauch gesprochen werden kann.
 
 **N. 8** **Volkswirtschaftlich oder sozial schädliche Auswirkungen**: Das Tatbestandsmerkmal der Schädlichkeit ist zentral. Nicht jede Wettbewerbsbeschränkung ist erfasst, sondern nur solche mit nachweisbar negativen Folgen. Das Bundesgericht interpretiert dies nicht als absolutes Verbot von Per-se-Regeln: «Die Nennung der schädlichen Auswirkungen im Verfassungstext schliesst partielle Verbote von nachweislich besonders schädlichen Abreden oder Verhaltensweisen nicht aus» (**BGE 135 II 60**).
 
 **N. 9** **Kartelle und andere Wettbewerbsbeschränkungen**: Der Begriff umfasst horizontale und vertikale Abreden sowie einseitige Verhaltensweisen marktmächtiger Unternehmen. Die Formulierung «andere Wettbewerbsbeschränkungen» erweitert den Anwendungsbereich über klassische Kartelle hinaus auf alle Formen der Wettbewerbsbehinderung.
 
-**N. 10** **Marktmacht** (Abs. 2 lit. a): Voraussetzung für Preismissbrauch ist eine marktbeherrschende oder zumindest marktstarke Stellung. Das Bundesverwaltungsgericht betont: «missbräuchliche Preise können nur vorliegen, sofern auf dem betroffenen Markt kein wirksamer Wettbewerb herrscht». Die Marktmachtanalyse folgt ökonomischen Kriterien (Marktanteile, Marktzutrittsschranken, potenzielle Konkurrenz).
+**N. 10** **Marktmacht** (Abs. 2 lit. a): Voraussetzung für Preismissbrauch ist eine marktbeherrschende oder zumindest marktstarke Stellung. Das Bundesverwaltungsgericht betont, dass Preise nur dann missbräuchlich sein können, wenn auf dem betroffenen Markt kein wirksamer Wettbewerb besteht. Die Marktmachtanalyse folgt ökonomischen Kriterien (Marktanteile, Marktzutrittsschranken, potenzielle Konkurrenz).
 
 **N. 11** **Unlauterer Wettbewerb** (Abs. 2 lit. b): Erfasst sind alle Verhaltensweisen, die gegen Treu und Glauben verstossen und die Funktionsfähigkeit des Wettbewerbs beeinträchtigen. Die Norm schützt sowohl die Institution Wettbewerb als auch die einzelnen Marktteilnehmer.
 

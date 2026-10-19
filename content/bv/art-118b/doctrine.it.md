@@ -12,9 +12,9 @@
 
 **N. 4** L'art. 118b Cost. si colloca sistematicamente tra le disposizioni sulla medicina dei trapianti (art. 119a Cost.) e sulla medicina della procreazione e la tecnologia genetica nel campo umano (art. 119 Cost.). Questa classificazione evidenzia lo stretto nesso con altri settori normativi biomedici.
 
-**N. 5** La norma presenta forti riferimenti ai diritti fondamentali: la libertà della ricerca (→ art. 20 Cost.) è limitata dagli obblighi di protezione a favore della dignità umana (→ art. 7 Cost.) e della libertà personale (→ art. 10 Cost.). Belser/Molinari sottolineano che l'art. 118b Cost. «rappresenta una concretizzazione costituzionale del campo di tensione tra libertà della ricerca e protezione della personalità sotto il profilo dei diritti fondamentali».
+**N. 5** La norma presenta forti riferimenti ai diritti fondamentali: la libertà della ricerca (→ art. 20 Cost.) è limitata dagli obblighi di protezione a favore della dignità umana (→ art. 7 Cost.) e della libertà personale (→ art. 10 Cost.). Belser/Molinari sottolineano che l'art. 118b Cost. dà forma, sul piano costituzionale, alla tensione tra libertà della ricerca e protezione della personalità che si pone sotto il profilo dei diritti fondamentali.
 
-**N. 6** Nel rapporto con altre disposizioni costituzionali è rilevante in particolare la delimitazione rispetto all'art. 119 Cost. Mentre l'art. 119 Cost. disciplina l'applicazione di procedimenti genetici, l'art. 118b Cost. comprende la ricerca preliminare. Belser/Molinari affermano: «L'art. 118b Cost. comprende la ricerca in tutti i settori della salute, inclusa la medicina della procreazione e dei trapianti».
+**N. 6** Nel rapporto con altre disposizioni costituzionali è rilevante in particolare la delimitazione rispetto all'art. 119 Cost. Mentre l'art. 119 Cost. disciplina l'applicazione di procedimenti genetici, l'art. 118b Cost. comprende la ricerca preliminare. Belser/Molinari affermano che l'art. 118b Cost. si estende alla ricerca in ogni ambito della salute, compresi la medicina della procreazione e quella dei trapianti.
 
 ### 3. Elementi della fattispecie / Contenuto normativo
 
@@ -28,13 +28,13 @@
 
 **N. 10** **Mandato legislativo**: L'art. 118b cpv. 1 periodo 1 Cost. stabilisce una competenza federale globale per la disciplina della ricerca sull'essere umano. Essa è stata esercitata con la Legge sulla ricerca umana del 30 settembre 2011 (LRU; RS 810.30), entrata in vigore il 1° gennaio 2014.
 
-**N. 11** **Applicabilità diretta**: I principi menzionati nel cpv. 2 sono secondo Belser/Molinari «direttamente applicabili come standard minimi». Essi vincolano il legislatore e possono essere impiegati per l'interpretazione della LRU.
+**N. 11** **Applicabilità diretta**: I principi menzionati nel cpv. 2 si applicano secondo Belser/Molinari direttamente, quali requisiti minimi. Essi vincolano il legislatore e possono essere impiegati per l'interpretazione della LRU.
 
 **N. 12** **Obblighi di protezione**: Lo Stato deve attivarsi per proteggere dignità e personalità nella ricerca. Ciò comprende misure preventive (obblighi di autorizzazione), controlli (commissioni etiche) e sanzioni (Gächter/Rütsche, Gesundheitsrecht, 3a ed. 2013, N. 872).
 
 ### 5. Questioni controverse
 
-**N. 13** **Portata della competenza federale**: Belser/Molinari sostengono la posizione di una competenza federale globale, tuttavia limitata contenutisticamente dai mandati di protezione: «La competenza federale è da intendere come globale, che la Confederazione tuttavia non può esercitare in modo arbitrario». Al contrario, van Spyk e Rütsche qualificano l'art. 118b cpv. 1 come «competenza federale legata al pericolo», che si orienta al bisogno di protezione (van Spyk, Grundlagen und Reichweite der neuen Bundeskompetenz, AJP 2010, 210; Rütsche, ZSR 2010 I 408).
+**N. 13** **Portata della competenza federale**: Belser/Molinari sostengono la posizione di una competenza federale globale, tuttavia limitata contenutisticamente dai mandati di protezione: la competenza federale va intesa come globale, ma la Confederazione non può esercitarla a proprio arbitrio. Al contrario, van Spyk e Rütsche qualificano l'art. 118b cpv. 1 come «competenza federale legata al pericolo», che si orienta al bisogno di protezione (van Spyk, Grundlagen und Reichweite der neuen Bundeskompetenz, AJP 2010, 210; Rütsche, ZSR 2010 I 408).
 
 **N. 14** **Rapporto con l'art. 119 Cost.**: La delimitazione tra ricerca (art. 118b Cost.) e applicazione (art. 119 Cost.) nel settore della medicina della procreazione è controversa. Belser/Molinari propendono per un'applicazione globale dell'art. 118b Cost. a tutta la ricerca, anche nel settore della medicina della procreazione. Rütsche invece distingue: «L'art. 119 Cost. prevale come norma più speciale, nella misura in cui disciplina la ricerca sugli embrioni» (Rütsche, ZSR 2010 I 409). Sprecher sostiene questa concezione differenziata con l'argomento della coerenza sistematica (Sprecher, Medizinische Forschung mit Kindern und Jugendlichen, 2007, pag. 89).
 

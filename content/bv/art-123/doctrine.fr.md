@@ -16,13 +16,13 @@
 
 ### Éléments constitutifs / Contenu de la norme
 
-**N. 5** **Législation en matière de droit pénal (al. 1)**: Comprend le droit pénal de base (CP) et le droit pénal accessoire de la Confédération. La compétence fédérale ne s'étend qu'à la protection pénale de prescriptions administratives ayant un fondement fédéral. Il reste aux cantons le droit pénal des contraventions selon l'art. 335 CP (**ATF 138 IV 13** consid. 5.1).
+**N. 5** **Législation en matière de droit pénal (al. 1)** : Comprend le droit pénal de base (CP) et le droit pénal accessoire de la Confédération. La compétence fédérale ne s'étend qu'à la protection pénale de prescriptions administratives ayant un fondement fédéral. Il reste aux cantons le droit pénal des contraventions selon l'art. 335 CP (**ATF 138 IV 13** consid. 5.1).
 
 **N. 6** **Législation en matière de droit de procédure pénale (al. 1)** : Depuis 2011, réglementée de manière exhaustive par le droit fédéral à travers le CPP. La délimitation avec la compétence policière cantonale s'effectue selon le critère du soupçon d'infraction : l'activité policière préventive sans soupçon concret d'infraction demeure cantonale (**ATF 140 I 353** consid. 4.2).
 
 **N. 7** **Organisation des tribunaux (al. 2)** : Les cantons déterminent la structure judiciaire, les compétences et le déroulement des procédures dans le cadre des prescriptions de droit fédéral. Le CPP ne fixe que des standards minimaux (art. 14 ss CPP). Cela inclut également des exigences concernant les experts qui vont au-delà du droit fédéral (**ATF 140 IV 49** consid. 2.3).
 
-**N. 8** **Administration de la justice en matière pénale (al. 2)**: La juridiction pénale demeure du ressort des cantons, sauf pour la juridiction pénale fédérale selon les art. 23 ss CPP. Les tribunaux cantonaux appliquent le droit pénal fédéral, mais sont organisés de manière cantonale.
+**N. 8** **Administration de la justice en matière pénale (al. 2)** : La juridiction pénale demeure du ressort des cantons, sauf pour la juridiction pénale fédérale selon les art. 23 ss CPP. Les tribunaux cantonaux appliquent le droit pénal fédéral, mais sont organisés de manière cantonale.
 
 **N. 9** **Exécution des peines et des mesures (al. 2 et 3)** : Compétence duale — les cantons exécutent, la Confédération peut édicter des prescriptions-cadres. Les concordats d'exécution (Nord-Ouest et Suisse centrale, Suisse orientale, Suisse latine) coordonnent les standards intercantonaux (Baechtold/Weber/Hostettler, Strafvollzug, 3e éd. 2016, § 2 n. 14).
 
@@ -36,9 +36,9 @@
 
 ### Points controversés
 
-**N. 13** **Étendue de la compétence fédérale d'exécution**: La doctrine dominante entend la compétence selon l'al. 3 de manière extensive — la Confédération pourrait procéder à un changement de système complet vers un droit fédéral d'exécution uniforme (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, n. 1113a; Rhinow/Schefer/Uebersax, Verfassungsrecht, n. 2963). Göksu défend en revanche une interprétation restrictive: l'al. 3 ne permettrait que des interventions ponctuelles qui devraient être justifiées par des intérêts fédéraux prépondérants.
+**N. 13** **Étendue de la compétence fédérale d'exécution** : La doctrine dominante entend la compétence selon l'al. 3 de manière extensive — la Confédération pourrait procéder à un changement de système complet vers un droit fédéral d'exécution uniforme (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, n. 1113a ; Rhinow/Schefer/Uebersax, Verfassungsrecht, n. 2963). Göksu défend en revanche une interprétation restrictive : l'al. 3 ne permettrait que des interventions ponctuelles qui devraient être justifiées par des intérêts fédéraux prépondérants.
 
-**N. 14** **Délimitation droit de police/droit de procédure pénale**: Il est controversé de savoir où finit l'action préventive-policière et où commence l'action de procédure pénale. Une partie de la doctrine trace la limite au soupçon concret d'infraction. Riklin (StPO Kommentar, 2e éd. 2014, Rem. prél. n. 28) plaide pour une compréhension fonctionnelle: les mesures ayant un but de poursuite pénale seraient toujours à attribuer au CPP. Le Tribunal fédéral suit le critère du soupçon d'infraction (**ATF 140 I 353** consid. 4.2).
+**N. 14** **Délimitation droit de police/droit de procédure pénale** : Il est controversé de savoir où finit l'action préventive-policière et où commence l'action de procédure pénale. Une partie de la doctrine trace la limite au soupçon concret d'infraction. Riklin (StPO Kommentar, 2e éd. 2014, Rem. prél. n. 28) plaide pour une compréhension fonctionnelle : les mesures ayant un but de poursuite pénale seraient toujours à attribuer au CPP. Le Tribunal fédéral suit le critère du soupçon d'infraction (**ATF 140 I 353** consid. 4.2).
 
 **N. 15** **Portée de l'autonomie d'organisation cantonale** : Il est contesté de savoir jusqu'où les prescriptions de droit fédéral peuvent déterminer l'organisation judiciaire cantonale. Lienhard/Kettiger (Justiz zwischen Management und Rechtsstaat, 2016, 184) soulignent la souveraineté d'organisation garantie par la Constitution. Kiener (in : Verfassungsrecht der Schweiz, § 47 n. 34) la voit limitée par les garanties procédurales impératives.
 

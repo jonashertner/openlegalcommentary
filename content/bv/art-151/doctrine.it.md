@@ -4,7 +4,7 @@
 
 **N. 1** L'art. 151 Cost. prosegue la tradizione delle sessioni parlamentari vigente secondo l'art. 75 Cost. 1848 e l'art. 86 Cost. 1874. Il Messaggio per una nuova Costituzione federale del 20 novembre 1996 (FF 1997 I 1) sottolinea che la disciplina è stata volutamente configurata in modo flessibile, per lasciare al legislatore margine di manovra nella configurazione concreta. La revisione costituzionale ha rinunciato a disposizioni dettagliate su numero e durata delle sessioni, per poter soddisfare le future esigenze parlamentari.
 
-**N. 2** Il diritto di convocazione per sessioni straordinarie (cpv. 2) è stato modernizzato rispetto all'antico diritto costituzionale. Mentre l'art. 23 cpv. 8 Cost. 1874 prevedeva ancora un diritto di convocazione per cinque Cantoni, Aubert definisce questa disciplina come «disposizione simmetrica mancata». La nuova Costituzione limita il diritto di convocazione a un quarto dei membri delle Camere o al Consiglio federale, il che corrisponde meglio alla realtà parlamentare.
+**N. 2** Il diritto di convocazione per sessioni straordinarie (cpv. 2) è stato modernizzato rispetto all'antico diritto costituzionale. Mentre l'art. 23 cpv. 8 Cost. 1874 prevedeva ancora un diritto di convocazione per cinque Cantoni, Aubert definisce questa disciplina come *disposizione simmetrica mancata*. La nuova Costituzione limita il diritto di convocazione a un quarto dei membri delle Camere o al Consiglio federale, il che corrisponde meglio alla realtà parlamentare.
 
 ### 2. Classificazione sistematica
 
@@ -14,7 +14,7 @@
 - → Art. 163 cpv. 2 Cost. (quorum per la capacità di deliberare)
 - → Art. 185 cpv. 4 Cost. (rapporti del Consiglio federale)
 
-**N. 4** Il sistema bicamerale richiede secondo Biaggini «l'equivalenza materiale di entrambe le Camere, non l'identità formale della procedura di entrambe le Camere». L'art. 151 Cost. concretizza questo principio, in quanto entrambe le Camere si riuniscono nelle stesse sessioni, ma deliberano separatamente.
+**N. 4** Il sistema bicamerale richiede secondo Biaggini che le due Camere siano equivalenti sul piano sostanziale, non che la loro procedura sia formalmente identica. L'art. 151 Cost. concretizza questo principio, in quanto entrambe le Camere si riuniscono nelle stesse sessioni, ma deliberano separatamente.
 
 ### 3. Elementi di fattispecie / Contenuto normativo
 

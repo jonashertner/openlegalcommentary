@@ -36,7 +36,7 @@
 
 **N. 12** Il divieto di costruzione di minareti costituisce un divieto assoluto, senza eccezioni. Il termine «minareto» deve essere inteso come torre di una moschea dalla quale si chiama alla preghiera. Il divieto riguarda solo nuove costruzioni; i quattro minareti esistenti a Ginevra, Winterthur, Wangen bei Olten e Zurigo beneficiano della protezione dell'esistente.
 
-**N. 13** La dottrina è divisa sulla compatibilità con il diritto di rango superiore. Markus Schefer vede costellazioni «dove prevalgono gli interessi alla costruzione di un minareto». L'opinione dominante qualifica il divieto come violazione della libertà religiosa e del divieto di discriminazione (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
+**N. 13** La dottrina è divisa sulla compatibilità con il diritto di rango superiore. Markus Schefer ravvisa situazioni in cui l'interesse a costruire un minareto risulta preponderante. L'opinione dominante qualifica il divieto come violazione della libertà religiosa e del divieto di discriminazione (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
 
 ## 4. Conseguenze giuridiche
 
@@ -48,9 +48,9 @@
 
 ## 5. Questioni controverse
 
-**N. 17** Il vincolo dei diritti fondamentali per le comunità religiose riconosciute di diritto pubblico è controverso. La dottrina dominante afferma un pieno vincolo dei diritti fondamentali per quelle di diritto pubblico e lo nega per le comunità religiose di diritto privato. Winzeler propone una via di mezzo: «applicazione moderata dei diritti fondamentali verso quelle riconosciute di diritto pubblico ed efficacia tra privati moderatamente applicata verso le comunità religiose di diritto privato».
+**N. 17** Il vincolo dei diritti fondamentali per le comunità religiose riconosciute di diritto pubblico è controverso. La dottrina dominante afferma un pieno vincolo dei diritti fondamentali per quelle di diritto pubblico e lo nega per le comunità religiose di diritto privato. Winzeler propone una via di mezzo: nei confronti delle comunità riconosciute di diritto pubblico i diritti fondamentali andrebbero applicati in forma attenuata, mentre nei confronti delle comunità religiose di diritto privato andrebbe riconosciuto un effetto orizzontale anch'esso attenuato.
 
-**N. 18** È controversa la portata dell'autonomia organizzativa cantonale. La dottrina più antica (Burckhardt) sosteneva che il Cantone potesse «decidere quale debba essere l'organizzazione e quale la dottrina della Chiesa da esso riconosciuta». Questo è oggi unanimemente rifiutato: l'autocomprensione di una comunità religiosa deve essere valutata «autenticamente, vale a dire: auto- e non eterodeterminata».
+**N. 18** È controversa la portata dell'autonomia organizzativa cantonale. La dottrina più antica (Burckhardt) sosteneva che spettasse al Cantone stabilire l'organizzazione e la dottrina della Chiesa da esso riconosciuta. Questo è oggi unanimemente rifiutato: l'autocomprensione di una comunità religiosa deve essere valutata in modo autentico, cioè in base a come la comunità stessa si definisce e non secondo criteri imposti dall'esterno.
 
 **N. 19** La conformità al diritto internazionale del divieto di minareti è valutata diversamente. Mentre parti della dottrina vedono una chiara violazione degli art. 9 e 14 CEDU, altri argomentano con l'ampio margine di apprezzamento degli Stati nel settore del diritto religioso. Manca una sentenza della Corte EDU, poiché in assenza di procedure di autorizzazione edilizia non si possono esaurire i rimedi giuridici interni.
 

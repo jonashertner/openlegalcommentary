@@ -18,7 +18,7 @@
 
 ### 3. Elements of the Offence / Content of the Provision
 
-**N. 7** Art. 130 para. 1 FC defines the value added tax as a general consumption tax according to the system of net multi-stage tax with input tax deduction. Some commentators characterise it as a «gross multi-stage tax with input tax deduction». The subject of taxation comprises supplies of goods, services including own consumption as well as imports.
+**N. 7** Art. 130 para. 1 FC defines the value added tax as a general consumption tax according to the system of net multi-stage tax with input tax deduction. Some commentators characterise it as a *gross multi-stage tax with input tax deduction*. The subject of taxation comprises supplies of goods, services including own consumption as well as imports.
 
 **N. 8** The constitutional tax rate corridor establishes binding limits: The standard rate may not exceed 6.5% (currently 8.1% with all surcharges according to Art. 25 para. 1 VATA), the reduced rate must amount to at least 2.0% (currently 2.6% according to Art. 25 para. 2 lit. a VATA). For accommodation services, para. 2 provides for a special rate between the reduced and the standard rate (currently 3.8% according to Art. 25 para. 2 lit. b VATA).
 
@@ -34,11 +34,11 @@
 
 ### 5. Controversial Issues
 
-**N. 13** The legal nature of the value added tax is disputed in doctrine. While one view in the literature speaks of a «gross multi-stage tax with input tax deduction», Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) qualify it as «impôt général sur la consommation». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2nd ed. 2012, 645) emphasises the character as «indirect tax».
+**N. 13** The legal nature of the value added tax is disputed in doctrine. While one view in the literature speaks of a *gross multi-stage tax with input tax deduction*, Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) qualify it as «impôt général sur la consommation». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2nd ed. 2012, 645) emphasises the character as «indirect tax».
 
 **N. 14** The justiciability of the partial earmarking according to para. 4 is controversial. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3rd ed. 2016, N. 3687) represent the position that an enforceable claim by the cantons can be derived from the provision. Blumenstein/Locher (System des Schweizerischen Steuerrechts, 6th ed. 2002, 325) see only a political obligation of the Confederation.
 
-**N. 15** Some commentators criticise the «system defects» of value added tax law, in particular the «error-prone complexity» and the «inadequate implementation by the FTA». This criticism was partly taken up in the Spori Report (Bericht des Beauftragten P. Spori in Sachen Mehrwertsteuerreform, 2006, 23 ff.), but did not lead to a fundamental system change.
+**N. 15** Some commentators criticise the system defects of value added tax law, in particular the error-prone complexity and the deficient application of the law by the FTA. This criticism was partly taken up in the Spori Report (Bericht des Beauftragten P. Spori in Sachen Mehrwertsteuerreform, 2006, 23 ff.), but did not lead to a fundamental system change.
 
 **N. 16** The constitutional admissibility of tax rulings in the VAT area is assessed differently. Baumgartner (Möglichkeiten und Grenzen von Steuer-Rulings, in: Mäusli-Allenspach/Beusch, 2013, 201 f.) affirms this by invoking → Art. 5 para. 3 FC (good faith). Geiger/Schluckebier (MWSTG Kommentar, 2012, Art. 69 N. 8) see constitutional limits for information that is contrary to the system.
 

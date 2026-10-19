@@ -1,6 +1,6 @@
 ## Panoramica
 
-L'art. 146 Cost. obbliga la Confederazione a rispondere dei danni causati dai suoi organi. Questa responsabilità dello Stato costituisce secondo Jellinek l'«Ultima Ratio del Stato di diritto». Essa vale per tutte le autorità federali, dall'amministrazione fino ai tribunali.
+L'art. 146 Cost. obbliga la Confederazione a rispondere dei danni causati dai suoi organi. Questa responsabilità dello Stato costituisce secondo Jellinek l'*ultima ratio* dello Stato di diritto. Essa vale per tutte le autorità federali, dall'amministrazione fino ai tribunali.
 
 La Confederazione deve adempiere quattro presupposti: deve sussistere un danno, causato da un organo federale nell'esercizio di un'attività ufficiale, illecitamente e con nesso causale adeguato. È illecito ogni pregiudizio all'ordinamento giuridico, indipendentemente dalla colpa dei funzionari. La responsabilità è una pura responsabilità causale senza requisito di colpa (art. 3 LResp).
 

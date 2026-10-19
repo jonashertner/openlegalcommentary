@@ -20,7 +20,7 @@
 
 **N. 7** **Obbligo di verifica (cpv. 1)**: L'Assemblea federale è obbligata a verificare, per ogni iniziativa costituzionale valida, se questa sia compatibile con il diritto internazionale. Il termine «diritto internazionale» comprende secondo una parte della dottrina tutti gli obblighi di diritto internazionale della Svizzera, non solo il diritto internazionale imperativo nel senso dell'→ art. 139 cpv. 3 Cost.
 
-**N. 8** **Portata della verifica**: La verifica di compatibilità si estende ai trattati di diritto internazionale, al diritto internazionale consuetudinario e ai principi generali del diritto. In dottrina si sottolinea che anche gli strumenti di «soft law» devono essere inclusi nella valutazione, nella misura in cui fondano obblighi concreti.
+**N. 8** **Portata della verifica**: La verifica di compatibilità si estende ai trattati di diritto internazionale, al diritto internazionale consuetudinario e ai principi generali del diritto. In dottrina si sottolinea che anche gli strumenti di *soft law* devono essere inclusi nella valutazione, nella misura in cui fondano obblighi concreti.
 
 **N. 9** **Obbligo di informazione (cpv. 3)**: Se l'Assemblea federale constata un'incompatibilità, Consiglio federale e Assemblea federale devono spiegare congiuntamente nei documenti di votazione il «significato e la portata» di un'accettazione dell'iniziativa. Questa informazione deve essere secondo una parte della dottrina oggettiva, completa e comprensibile per gli aventi diritto di voto.
 

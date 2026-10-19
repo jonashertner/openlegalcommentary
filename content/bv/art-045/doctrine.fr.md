@@ -10,13 +10,13 @@
 
 **N. 3** L'art. 45 Cst figure au 3e titre de la Constitution fédérale sur la Confédération, les cantons et les communes et forme, avec l'art. 44 Cst (principes) et l'art. 46 Cst (mise en œuvre du droit fédéral), les fondements constitutionnels de la collaboration entre la Confédération et les cantons. La disposition concrétise le principe de subsidiarité ancré à l'art. 3 Cst et le principe étatique fédéraliste.
 
-**N. 4** La norme est étroitement liée aux droits de participation spécifiques des cantons: → art. 140 al. 1 Cst (référendum obligatoire), → art. 141 al. 1 Cst (référendum facultatif), → art. 160 al. 1 Cst (initiative des cantons), → art. 147 Cst (procédure de consultation). Waldmann considère l'art. 45 Cst comme un « état de fait subsidiaire » pour toutes les formes de participation cantonale non spécifiquement réglées.
+**N. 4** La norme est étroitement liée aux droits de participation spécifiques des cantons : → art. 140 al. 1 Cst (référendum obligatoire), → art. 141 al. 1 Cst (référendum facultatif), → art. 160 al. 1 Cst (initiative des cantons), → art. 147 Cst (procédure de consultation). Waldmann considère l'art. 45 Cst comme un « état de fait subsidiaire » pour toutes les formes de participation cantonale non spécifiquement réglées.
 
 ## 3. Éléments constitutifs / Contenu de la norme
 
 ### 3.1 Participation à la formation de la volonté (al. 1)
 
-**N. 5** Le terme de « participation » est formulé de manière délibérément ouverte. Biaggini critique cette indétermination et plaide pour une interprétation restrictive sur les « moyens de défense collectifs ». Waldmann défend en revanche une interprétation large, qui va de l'impulsion à l'influence jusqu'à la participation à la décision.
+**N. 5** Le terme de « participation » est formulé de manière délibérément ouverte. Biaggini critique cette indétermination et plaide pour une interprétation restrictive sur les *moyens de défense collectifs*. Waldmann défend en revanche une interprétation large, qui va de l'impulsion à l'influence jusqu'à la participation à la décision.
 
 **N. 6** La formule « selon les modalités prévues par la Constitution fédérale » précise qu'aucune prétention dépassant les droits de participation prévus constitutionnellement n'est fondée. La mention exemplaire de la législation (« notamment ») montre que d'autres formes de formation de la volonté sont également saisies, comme la planification sectorielle de la Confédération ou les relations extérieures (→ art. 55 Cst).
 
@@ -28,7 +28,7 @@
 
 ## 4. Conséquences juridiques
 
-**N. 9** L'art. 45 Cst fonde principalement des obligations de droit objectif de la Confédération. Selon Biaggini, la « portée normative est nulle » pour ce qui concerne la justiciabilité subjective. La violation des obligations d'information et d'audition peut cependant conduire à des vices de procédure qui peuvent être invoqués dans le cadre de procédures de contrôle des normes.
+**N. 9** L'art. 45 Cst fonde principalement des obligations de droit objectif de la Confédération. Selon Biaggini, la disposition est dépourvue de toute portée normative pour ce qui concerne la justiciabilité subjective. La violation des obligations d'information et d'audition peut cependant conduire à des vices de procédure qui peuvent être invoqués dans le cadre de procédures de contrôle des normes.
 
 **N. 10** L'application pratique s'effectue principalement au niveau politique. La Conférence des gouvernements cantonaux (CdC) et les conférences spécialisées des directeurs cantonaux jouent un rôle central. Des droits de participation juridiquement contraignants ne résultent que de la concrétisation par la loi spéciale, par exemple dans la loi sur la consultation (LCo) ou dans la loi sur l'aménagement du territoire (art. 13 al. 2 LAT).
 

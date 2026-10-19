@@ -20,7 +20,7 @@
 - Extremely dangerous sexual and violent offenders
 - Offenders classified as permanently non-treatable
 
-The formulation «until the end of their lives» categorically excludes any early release. The Federal Court interprets «permanently non-treatable» as lifelong untreatability (BGE 140 IV 1 E. 3).
+The formulation «until the end of their lives» categorically excludes any early release. The Federal Court interprets the requirement that the offender be permanently non-treatable as meaning lifelong untreatability (BGE 140 IV 1 E. 3).
 
 **N. 7** **Paragraph 2** regulates the only exception: Release is only possible if new scientific findings prove that the offender can be cured and no longer poses a danger. The authority that orders such a release is liable for recidivism according to → Art. 41ff. CO.
 

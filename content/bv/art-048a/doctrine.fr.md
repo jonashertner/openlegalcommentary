@@ -6,7 +6,7 @@
 
 **N. 2** Le constituant a reconnu que la structure fédérale peut entraîner des problèmes de coordination dans certains domaines. Le message précise : « La problématique apparaît avec une évidence particulière dans les zones habitées et les espaces vitaux coupés par les frontières cantonales » (FF 2001 2047). L'art. 48a Cst doit garantir que les cantons qui se ferment à la coopération nécessaire puissent être contraints à coopérer en dernier recours.
 
-**N. 3** La genèse révèle un changement de paradigme dans le fédéralisme suisse: du principe de volontariat pur vers un « fédéralisme coopératif » avec des éléments de contrainte (Rapport final RPT 1999, 179 ss).
+**N. 3** La genèse révèle un changement de paradigme dans le fédéralisme suisse : du principe de volontariat pur vers un « fédéralisme coopératif » avec des éléments de contrainte (Rapport final RPT 1999, 179 ss).
 
 ## 2. Situation systématique
 
@@ -51,17 +51,17 @@
 
 **N. 13** La déclaration de force obligatoire générale a des effets juridiques différents selon l'instrument choisi :
 
-**N. 14** Lors de l'**obligation d'adhésion**, le canton concerné devient partie contractante avec tous les droits et obligations. Le concordat garde son caractère intercantonal. Cela distingue l'art. 48a Cst d'une compétence fédérale: les concordats ne deviennent pas du droit fédéral (**ATF 143 V 451** c. 2.2).
+**N. 14** Lors de l'**obligation d'adhésion**, le canton concerné devient partie contractante avec tous les droits et obligations. Le concordat garde son caractère intercantonal. Cela distingue l'art. 48a Cst d'une compétence fédérale : les concordats ne deviennent pas du droit fédéral (**ATF 143 V 451** c. 2.2).
 
 **N. 15** Lors de l'**obligation de participation**, seules les obligations définies dans l'arrêté fédéral naissent. Le canton ne devient pas partie contractante, mais remplit des obligations de coopération spécifiques ordonnées par le droit fédéral.
 
-**N. 16** La nature juridique de l'obligation est controversée: Une partie de la doctrine souligne que l'art. 48a Cst se soustrait à une applicabilité directe et nécessite une concrétisation par une loi fédérale. La pratique montre toutefois que l'Assemblée fédérale peut agir directement en se fondant sur l'art. 48a Cst.
+**N. 16** La nature juridique de l'obligation est controversée : Une partie de la doctrine souligne que l'art. 48a Cst se soustrait à une applicabilité directe et nécessite une concrétisation par une loi fédérale. La pratique montre toutefois que l'Assemblée fédérale peut agir directement en se fondant sur l'art. 48a Cst.
 
 ## 5. Points litigieux
 
 ### a) Applicabilité directe
 
-**N. 17** **Point litigieux sur l'applicabilité directe**: Biaggini (Komm. BV, Art. 48a N. 8) soutient que l'art. 48a Cst nécessite une concrétisation par une loi fédérale. La doctrine dominante (Steinlin, LeGes 2011, 35, 42 ss) et la pratique partent en revanche de l'applicabilité directe.
+**N. 17** **Point litigieux sur l'applicabilité directe** : Biaggini (Komm. BV, Art. 48a N. 8) soutient que l'art. 48a Cst nécessite une concrétisation par une loi fédérale. La doctrine dominante (Steinlin, LeGes 2011, 35, 42 ss) et la pratique partent en revanche de l'applicabilité directe.
 
 ### b) Application aux concordats en élaboration
 
@@ -71,7 +71,7 @@
 
 ### c) Rapport aux normes sectorielles
 
-**N. 19** **Point litigieux sur le rapport aux normes spéciales**: Le rapport aux obligations de coopération sectorielles comme l'art. 62 al. 4 Cst (instruction publique) ou l'art. 123 al. 2-3 Cst (exécution des peines) n'est pas clair. Une partie de la doctrine voit l'art. 48a Cst comme une norme générale de rattrapage, tandis que d'autres auteurs partent d'un rapport de spécialité.
+**N. 19** **Point litigieux sur le rapport aux normes spéciales** : Le rapport aux obligations de coopération sectorielles comme l'art. 62 al. 4 Cst (instruction publique) ou l'art. 123 al. 2-3 Cst (exécution des peines) n'est pas clair. Une partie de la doctrine voit l'art. 48a Cst comme une norme générale de rattrapage, tandis que d'autres auteurs partent d'un rapport de spécialité.
 
 ## 6. Indications pratiques
 
@@ -82,7 +82,7 @@
 - Aucun moyen plus doux ne doit être disponible
 - L'intérêt public doit l'emporter sur la restriction de l'autonomie cantonale
 
-**N. 22** **Protection juridique**: Le référendum facultatif est ouvert contre l'arrêté fédéral déclarant de force obligatoire générale (art. 48a al. 2 Cst). Après l'entrée en vigueur, les cantons concernés peuvent faire examiner la constitutionnalité dans le cadre d'actes d'application concrets (**ATF 143 I 361** c. 5.2).
+**N. 22** **Protection juridique** : Le référendum facultatif est ouvert contre l'arrêté fédéral déclarant de force obligatoire générale (art. 48a al. 2 Cst). Après l'entrée en vigueur, les cantons concernés peuvent faire examiner la constitutionnalité dans le cadre d'actes d'application concrets (**ATF 143 I 361** c. 5.2).
 
 **N. 23** **Pertinence pratique** : Malgré son existence depuis 2008, l'art. 48a Cst n'a guère trouvé d'application. La norme déploie principalement un effet préventif : la simple menace de déclaration de force obligatoire générale favorise les solutions de coopération volontaires (Biaggini, ZBl 2008, 345, 376 s).
 

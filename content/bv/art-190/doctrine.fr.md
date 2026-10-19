@@ -14,7 +14,7 @@
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 5** **Lois fédérales**: Le terme comprend toutes les lois formelles édictées par l'Assemblée fédérale dans la procédure législative ordinaire selon les art. 163 ss Cst. Selon la doctrine dominante (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 8), cela inclut aussi bien les lois fédérales soumises au référendum que les lois fédérales urgentes. Ne sont en revanche pas visées les ordonnances du Conseil fédéral, même si elles reposent sur une délégation légale.
+**N. 5** **Lois fédérales** : Le terme comprend toutes les lois formelles édictées par l'Assemblée fédérale dans la procédure législative ordinaire selon les art. 163 ss Cst. Selon la doctrine dominante (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 8), cela inclut aussi bien les lois fédérales soumises au référendum que les lois fédérales urgentes. Ne sont en revanche pas visées les ordonnances du Conseil fédéral, même si elles reposent sur une délégation légale.
 
 **N. 6** **Droit international** : Le terme comprend toutes les normes de droit international liant la Suisse, indépendamment de leur rang dans l'ordre juridique international. Cela inclut les traités de droit international, le droit international coutumier et les principes généraux du droit international (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3e éd. 2016, N. 3642). La question de savoir si les instruments de soft law sont également visés fait l'objet de discussions controversées (par la négative : Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4e éd. 2014, § 11 N. 24).
 
@@ -30,7 +30,7 @@
 
 ### 5. Points controversés
 
-**N. 11** **Portée de l'ordre d'application**: Tandis que la doctrine dominante (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 15; Häfelin/Haller/Keller/Thurnherr, op. cit., N. 2230) comprend l'art. 190 Cst. comme un ordre d'application absolu, une opinion minoritaire plaide pour des exceptions en cas de violations graves des droits fondamentaux. Cette position n'a pas pu s'imposer dans la jurisprudence.
+**N. 11** **Portée de l'ordre d'application** : Tandis que la doctrine dominante (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 15 ; Häfelin/Haller/Keller/Thurnherr, op. cit., N. 2230) comprend l'art. 190 Cst. comme un ordre d'application absolu, une opinion minoritaire plaide pour des exceptions en cas de violations graves des droits fondamentaux. Cette position n'a pas pu s'imposer dans la jurisprudence.
 
 **N. 12** **Pratique Schubert** : La portée de la pratique Schubert est très controversée. Kälin/Künzli (in : Ehrenzeller et al., SGK BV, Art. 190 N. 22) défendent une application restrictive uniquement en cas de volonté législative claire. Schweizer (Die Schubert-Praxis, 2018, p. 234) demande son abandon complet au profit d'une primauté sans restriction du droit international. La jurisprudence maintient cette pratique, mais la limite continuellement.
 

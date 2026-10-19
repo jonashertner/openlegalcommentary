@@ -28,7 +28,7 @@
 
 **N. 9** Les cantons déterminent leurs langues officielles de manière autonome. Cette compétence découle de la souveraineté cantonale et permet des solutions différenciées. Les limites de cette autonomie résident dans le principe de territorialité et la protection des minorités.
 
-**N. 10** Le principe de territorialité sert, selon la jurisprudence constante depuis **ATF 100 Ia 462**, à conserver les aires de répartition traditionnelles des langues nationales. La doctrine est divisée sur sa portée exacte: Papaux (FZR 2002, 157) souligne la séparation stricte des territoires linguistiques pour préserver l'homogénéité, tandis que Müller/Schefer (Grundrechte, 4e éd. 2008, 326) mettent au premier plan la paix linguistique et la cohésion sociale.
+**N. 10** Le principe de territorialité sert, selon la jurisprudence constante depuis **ATF 100 Ia 462**, à conserver les aires de répartition traditionnelles des langues nationales. La doctrine est divisée sur sa portée exacte : Papaux (FZR 2002, 157) souligne la séparation stricte des territoires linguistiques pour préserver l'homogénéité, tandis que Müller/Schefer (Grundrechte, 4e éd. 2008, 326) mettent au premier plan la paix linguistique et la cohésion sociale.
 
 **N. 11** Les « minorités linguistiques traditionnelles » sont des groupes linguistiques historiquement enracinés dans une région déterminée. Le concept est plus étroit que « minorité linguistique » et ne couvre pas les groupes linguistiques nouvellement immigrés. L'**ATF 122 I 236** l'a confirmé pour les immigrants de langue étrangère.
 

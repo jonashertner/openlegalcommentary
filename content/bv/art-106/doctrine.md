@@ -18,11 +18,11 @@
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** Gemäss Oesch ist Art. 106 Abs. 1 BV «zugleich Kompetenz- und Auftragsnorm und begründet eine verpflichtende und umfassende Zuständigkeit des Bundes im gesamten Bereich der Geldspiele». Der Begriff «Geldspiele» ist weit zu verstehen und umfasst alle Spiele, bei denen gegen einen geldwerten Einsatz ein Geldgewinn in Aussicht steht.
+**N. 7** Gemäss Oesch ist Art. 106 Abs. 1 BV sowohl Kompetenz- als auch Auftragsnorm; die Bestimmung weist dem Bund für das gesamte Geldspielwesen eine umfassende Zuständigkeit zu, die er wahrnehmen muss. Der Begriff «Geldspiele» ist weit zu verstehen und umfasst alle Spiele, bei denen gegen einen geldwerten Einsatz ein Geldgewinn in Aussicht steht.
 
 **N. 8** Die Berücksichtigung der kantonalen Interessen (Abs. 1) ist nicht bloss programmatisch, sondern eine verbindliche Vorgabe. Das Bundesgericht hat in **BGE 135 II 338 E. 6.3** festgehalten, dass diese Pflicht konkrete Auswirkungen auf die Ausgestaltung der Bundesgesetzgebung hat, insbesondere bezüglich der Ertragsverwendung.
 
-**N. 9** Das Konzessionssystem für Spielbanken (Abs. 2) ist zwingend ausgestaltet. Die regionalen Gegebenheiten müssen berücksichtigt werden, was eine gleichmässige geografische Verteilung der Spielbanken impliziert. Die Spielbankenabgabe ist zweckgebunden für die AHV/IV bestimmt. Oesch kritisiert die geltende Praxis, wonach nur die AHV, nicht aber die IV von den Spielbankenabgaben profitiert, als «im Licht des klaren Wortlauts von Art. 106 Abs. 2 Satz 3 erklärungsbedürftig».
+**N. 9** Das Konzessionssystem für Spielbanken (Abs. 2) ist zwingend ausgestaltet. Die regionalen Gegebenheiten müssen berücksichtigt werden, was eine gleichmässige geografische Verteilung der Spielbanken impliziert. Die Spielbankenabgabe ist zweckgebunden für die AHV/IV bestimmt. Oesch kritisiert die geltende Praxis, wonach nur die AHV, nicht aber die IV von den Spielbankenabgaben profitiert, als angesichts des klaren Wortlauts von Art. 106 Abs. 2 Satz 3 begründungsbedürftig.
 
 **N. 10** Die kantonalen Zuständigkeiten (Abs. 3) sind abschliessend aufgezählt. Die Ausnahme für Jackpotsysteme der Spielbanken zeigt die Verflechtung der Kompetenzbereiche. Das Bundesgericht hat in **BGE 141 II 262 E. 2.2** klargestellt, dass die Kantone ihre Kompetenzen nur im Rahmen der bundesrechtlichen Vorgaben ausüben können.
 
@@ -30,13 +30,13 @@
 
 **N. 11** Die primäre Rechtsfolge ist die umfassende Gesetzgebungskompetenz des Bundes, verbunden mit einer Gesetzgebungspflicht. Diese Pflicht wurde durch das Geldspielgesetz vom 29. September 2017 (BGS) erfüllt, das am 1. Januar 2019 in Kraft trat.
 
-**N. 12** Für die Wirtschaftsakteure folgt aus Art. 106 BV i.V.m. Art. 94 Abs. 4 BV, dass kein Anspruch auf freien Marktzugang besteht. Praxis und Lehre anerkennen eine «stillschweigende Ermächtigung, nötigenfalls vom Grundsatz der Wirtschaftsfreiheit abzuweichen».
+**N. 12** Für die Wirtschaftsakteure folgt aus Art. 106 BV i.V.m. Art. 94 Abs. 4 BV, dass kein Anspruch auf freien Marktzugang besteht. Praxis und Lehre anerkennen, dass die Bestimmung implizit dazu ermächtigt, soweit erforderlich vom Grundsatz der Wirtschaftsfreiheit abzuweichen.
 
 **N. 13** Die Zweckbindung der Erträge ist verfassungsrechtlich verbindlich. Spielbankenabgaben müssen vollumfänglich der AHV/IV zugutekommen, während die Reinerträge aus Grossspielen für gemeinnützige Zwecke zu verwenden sind. Eine Verwendung für allgemeine Staatszwecke ist unzulässig.
 
 ## 5. Streitstände
 
-**N. 14** Ein zentraler Streitpunkt betrifft die Verfassungsmässigkeit der Monopolisierung des Lotteriewesens. Oesch hält fest: «Die Monopolisierung des Lotteriewesens zugunsten von Swisslos und der Loterie Romande scheint im Licht der Wirtschaftsfreiheit nicht unproblematisch». Diese Kritik wird durch die extensive Auslegung von Art. 94 Abs. 4 BV durch das Bundesgericht jedoch relativiert.
+**N. 14** Ein zentraler Streitpunkt betrifft die Verfassungsmässigkeit der Monopolisierung des Lotteriewesens. Oesch hält die Monopolisierung des Lotteriewesens zugunsten von Swisslos und der Loterie Romande mit Blick auf die Wirtschaftsfreiheit für nicht unbedenklich. Diese Kritik wird durch die extensive Auslegung von Art. 94 Abs. 4 BV durch das Bundesgericht jedoch relativiert.
 
 **N. 15** Kontrovers diskutiert wird auch die Verwendung der Spielbankenabgabe. Die Praxis, wonach nur die AHV, nicht aber die IV von Spielbankenabgaben profitiert, steht in Spannung zum Verfassungstext. Im Jahr 2012 flossen CHF 319 Mio. in den Ausgleichsfonds der AHV, während die IV leer ausging.
 

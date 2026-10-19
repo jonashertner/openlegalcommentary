@@ -12,4 +12,4 @@ The provision protects taxpayers from double taxation by the Confederation and c
 
 The prohibition only covers taxes in the proper sense, not causal levies such as fees or preferential charges (**BGE 86 I 97** E. 2). Cantons can therefore continue to levy fees for specific state services, even where the Confederation taxes similar objects.
 
-In legal practice, problems arise mainly in distinguishing between taxes and causal levies and in assessing technical differences between federal and cantonal levies. Legal doctrine partly criticises the Federal Supreme Court's restrictive interpretation as too "canton-friendly".
+In legal practice, problems arise mainly in distinguishing between taxes and causal levies and in assessing technical differences between federal and cantonal levies. Legal doctrine partly criticises the Federal Supreme Court's restrictive interpretation as too canton-friendly.

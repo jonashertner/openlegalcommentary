@@ -12,7 +12,7 @@ Sont concernés tous les usagers de la route qui circulent sur les routes suisse
 
 ### Quelles sont les conséquences juridiques ?
 
-L'art. 83 Cst. ne confère aucun droit individuel à de nouvelles routes ou à un meilleur aménagement. La disposition fonde toutefois un ordre de compétences clair: la Confédération planifie, construit, exploite et entretient seule les routes nationales. Elle assume tous les coûts y afférents. Pour les projets de routes nationales, une pesée complète des intérêts doit être effectuée en intégrant tous les biens constitutionnels (**ATF 119 Ib 458 consid. 6a**).
+L'art. 83 Cst. ne confère aucun droit individuel à de nouvelles routes ou à un meilleur aménagement. La disposition fonde toutefois un ordre de compétences clair : la Confédération planifie, construit, exploite et entretient seule les routes nationales. Elle assume tous les coûts y afférents. Pour les projets de routes nationales, une pesée complète des intérêts doit être effectuée en intégrant tous les biens constitutionnels (**ATF 119 Ib 458 consid. 6a**).
 
 ### Exemple tiré de la pratique
 
@@ -23,5 +23,5 @@ Le second tube du Gothard illustre les tensions entre construction routière et 
 - **Obligation commune de garantie** : la Confédération et les cantons veillent ensemble à une infrastructure routière suffisante dans toutes les régions du pays (art. 83 al. 1 Cst.)
 - **Compétence exclusive de la Confédération** : depuis la réforme RPT de 2008, la Confédération est entièrement compétente pour les routes nationales (art. 83 al. 2 Cst., FF 2001 2021)
 - **Prise en charge complète des coûts** : la Confédération assume tous les coûts de construction, d'exploitation et d'entretien des routes nationales (art. 83 al. 2 phrase 3 Cst.)
-- **Aucun droit subjectif**: la disposition constitutionnelle ne confère aucun droit individuel à de nouvelles routes ou à un niveau d'aménagement supérieur
+- **Aucun droit subjectif** : la disposition constitutionnelle ne confère aucun droit individuel à de nouvelles routes ou à un niveau d'aménagement supérieur
 - **Possibilité de délégation** : la Confédération peut confier des tâches à des organismes publics, privés ou mixtes, mais demeure responsable (art. 83 al. 2 phrase 4 Cst.)

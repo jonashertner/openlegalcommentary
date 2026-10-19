@@ -1,6 +1,6 @@
 # Art. 123a Cost. — Panoramica
 
-L'art. 123a Cost. disciplina l'internamento a vita per autori di reati sessuali e violenti estremamente pericolosi. La disposizione è nata dall'iniziativa popolare «Internamento a vita per i responsabili di reati sessuali o di atti di violenza inumani e non curabili», accettata nel 2004.
+L'art. 123a Cost. disciplina l'internamento a vita per autori di reati sessuali e violenti estremamente pericolosi. La disposizione è nata da un'iniziativa popolare per l'internamento a vita degli autori di reati sessuali o violenti non curabili, accettata nel 2004.
 
 **Cosa disciplina la norma?** La Costituzione prevede che determinati autori di reati debbano essere internati fino alla fine della loro vita. Ciò vale per le persone che hanno commesso un reato violento o sessuale e sono classificate come «durevolmente non curabili». Il Tribunale federale intende con ciò un'incurabilità per tutta la vita (**DTF 140 IV 1 consid. 3**).
 

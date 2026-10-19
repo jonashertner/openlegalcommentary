@@ -20,7 +20,7 @@
 - Extrem gefährliche Sexual- und Gewaltstraftäter
 - Als dauerhaft nicht therapierbar eingestufte Täter
 
-Die Formulierung «bis zu ihrem Lebensende» schliesst jede vorzeitige Entlassung kategorisch aus. Das Bundesgericht interpretiert «dauerhaft nicht therapierbar» als lebenslängliche Untherapierbarkeit (BGE 140 IV 1 E. 3).
+Die Anordnung der Verwahrung bis an das Lebensende schliesst jede vorzeitige Entlassung kategorisch aus. Das Bundesgericht interpretiert «dauerhaft nicht therapierbar» als lebenslängliche Untherapierbarkeit (BGE 140 IV 1 E. 3).
 
 **N. 7** **Absatz 2** regelt die einzige Ausnahme: Eine Entlassung ist nur möglich, wenn neue wissenschaftliche Erkenntnisse beweisen, dass der Täter geheilt werden kann und keine Gefahr mehr darstellt. Die Behörde, die eine solche Entlassung verfügt, haftet für Rückfalltaten nach → Art. 41ff. OR.
 

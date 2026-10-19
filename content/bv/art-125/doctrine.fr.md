@@ -14,7 +14,7 @@
 
 ## 3. Éléments constitutifs / Contenu de la norme
 
-**N. 5** Le concept de « métrologie » comprend selon la doctrine dominante trois domaines: (1) la définition des unités de mesure et de leurs étalons, (2) les exigences relatives aux instruments de mesure et aux procédés de mesure ainsi que (3) la surveillance et l'étalonnage des appareils de mesure (Vaucher/Niederhauser, METinfo 3/2007, 10 ss.).
+**N. 5** Le concept de « métrologie » comprend selon la doctrine dominante trois domaines : (1) la définition des unités de mesure et de leurs étalons, (2) les exigences relatives aux instruments de mesure et aux procédés de mesure ainsi que (3) la surveillance et l'étalonnage des appareils de mesure (Vaucher/Niederhauser, METinfo 3/2007, 10 ss.).
 
 **N. 6** La compétence fédérale s'étend à tous les types de mesurages dans le commerce, indépendamment de l'objet mesuré. Sont saisies les grandeurs physiques comme la longueur, la masse, le temps, la température, l'intensité de courant électrique, la quantité de matière et l'intensité lumineuse ainsi que les unités qui en dérivent (art. 2 al. 1 LMétr; art. 3 ss. ordonnance sur les unités).
 

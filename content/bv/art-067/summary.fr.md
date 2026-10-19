@@ -2,7 +2,7 @@
 
 ## Aperçu
 
-L'art. 67 Cst. oblige la Confédération et les cantons à tenir compte des besoins particuliers des enfants et des jeunes dans toutes leurs tâches. Cette mission transversale signifie: lorsque l'État fait des lois, prend des décisions ou planifie des projets, il doit toujours aussi se demander comment cela affecte les personnes de moins de 18 ans.
+L'art. 67 Cst. oblige la Confédération et les cantons à tenir compte des besoins particuliers des enfants et des jeunes dans toutes leurs tâches. Cette mission transversale signifie : lorsque l'État fait des lois, prend des décisions ou planifie des projets, il doit toujours aussi se demander comment cela affecte les personnes de moins de 18 ans.
 
 La norme comprend deux parties. L'**alinéa 1** prescrit cette obligation de prise en compte pour toutes les activités étatiques. L'**alinéa 2** permet en outre à la Confédération de soutenir financièrement le travail de jeunesse extrascolaire — mais seulement en complément à ce que font déjà les cantons.
 

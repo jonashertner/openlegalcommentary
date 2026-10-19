@@ -16,7 +16,7 @@
 
 ### a) The Three-Pillar Principle (Para. 1)
 
-**N. 5** Art. 111 para. 1 Federal Constitution anchors the three pillars as the supporting structure of Swiss old-age, survivors' and disability provision. According to one view in the literature, these pillars represent «material design principles and material legal supplements to the competence provision or material directives of the legislative mandate».
+**N. 5** Art. 111 para. 1 Federal Constitution anchors the three pillars as the supporting structure of Swiss old-age, survivors' and disability provision. According to one view in the literature, these pillars are substantive design principles that supplement the competence provision in substance, or substantive guidelines for the legislative mandate.
 
 **N. 6** The **first pillar** (OASI/DI) should secure subsistence needs according to prevailing doctrine (Locher/Gächter, Outline of Social Insurance Law, 4th ed. 2014, § 3 N. 12). It is based on the pay-as-you-go system and covers the entire resident population on a mandatory basis.
 
@@ -30,7 +30,7 @@
 
 ### c) Permanent Purpose Fulfilment (Para. 2)
 
-**N. 10** According to Art. 111 para. 2 Federal Constitution, the Confederation must ensure the permanent purpose fulfilment of the first and second pillars. In the literature, this is interpreted to mean that «the constitutional legislator [wants to] emphasise that the first and second pillars must fulfil their tasks long-term in a coordinated system».
+**N. 10** According to Art. 111 para. 2 Federal Constitution, the Confederation must ensure the permanent purpose fulfilment of the first and second pillars. In the literature, this is interpreted to mean that the constitutional legislator intended to stress that the first and second pillars must perform their tasks on a lasting basis within a coordinated system.
 
 **N. 11** Permanent purpose fulfilment encompasses both financial sustainability and material goal achievement according to prevailing doctrine (Häfelin/Haller/Keller/Thurnherr, Swiss Federal Constitutional Law, 10th ed. 2020, N. 789). The Confederation must take action if financing or performance goals are endangered.
 

@@ -22,7 +22,7 @@
 
 **N. 7** Le chiffre de 100'000 signatures d'ayants droit de vote correspond à environ 1,9% des ayants droit de vote (état 2024 : ca. 5,5 millions). Cette barrière est restée inchangée depuis 1977, bien que le nombre d'ayants droit de vote ait plus que doublé depuis lors (Hangartner, Unklarheiten bei Volksinitiativen, AJP 2011, 471–478, 472). L'abaissement relatif de la barrière est partiellement compensé par la professionnalisation de la récolte de signatures.
 
-**N. 8** Le délai de 18 mois commence à courir avec la publication officielle du texte de l'initiative dans la Feuille fédérale (art. 69 al. 1 LDP). **ATF 131 II 449 consid. 3.2** a établi une pratique stricte: les attestations du droit de vote doivent être obtenues auprès du service compétent dans le délai de récolte. Les régularisations postérieures sont exclues.
+**N. 8** Le délai de 18 mois commence à courir avec la publication officielle du texte de l'initiative dans la Feuille fédérale (art. 69 al. 1 LDP). **ATF 131 II 449 consid. 3.2** a établi une pratique stricte : les attestations du droit de vote doivent être obtenues auprès du service compétent dans le délai de récolte. Les régularisations postérieures sont exclues.
 
 ### 3.2 Formes de l'initiative (al. 2)
 
@@ -34,15 +34,15 @@
 
 **N. 11** L'unité de la forme exige qu'une initiative soit déposée soit comme proposition conçue en termes généraux soit comme projet rédigé de toutes pièces, mais pas comme forme mixte. **ATF 129 I 381 consid. 2** a confirmé que les initiatives mixtes doivent être déclarées nulles dans leur intégralité. Une division n'est pas prévue par le droit fédéral, même si certains cantons la connaissent dans leur droit.
 
-**N. 12** L'unité de la matière exige un rapport matériel entre toutes les parties d'une initiative. **ATF 129 I 366 consid. 2** a précisé: les ayants droit de vote ne peuvent pas être placés dans une contrainte où ils devraient accepter des parties qu'ils souhaitent refuser. Le test est objectif: un ayant droit de vote raisonnable pourrait-il vouloir juger différemment différentes parties pour des raisons matérielles ?
+**N. 12** L'unité de la matière exige un rapport matériel entre toutes les parties d'une initiative. **ATF 129 I 366 consid. 2** a précisé : les ayants droit de vote ne peuvent pas être placés dans une contrainte où ils devraient accepter des parties qu'ils souhaitent refuser. Le test est objectif : un ayant droit de vote raisonnable pourrait-il vouloir juger différemment différentes parties pour des raisons matérielles ?
 
-**N. 13** Le droit international impératif (ius cogens) comprend selon la pratique du Conseil fédéral au minimum: l'interdiction de la torture, du génocide, de l'esclavage, l'interdiction du recours à la force, le principe de non-refoulement ainsi que les garanties indérogeables de la CEDH (FF 2010 2263, 2291). Cette énumération n'est pas exhaustive; la notion évolue avec le droit international.
+**N. 13** Le droit international impératif (ius cogens) comprend selon la pratique du Conseil fédéral au minimum : l'interdiction de la torture, du génocide, de l'esclavage, l'interdiction du recours à la force, le principe de non-refoulement ainsi que les garanties indérogeables de la CEDH (FF 2010 2263, 2291). Cette énumération n'est pas exhaustive ; la notion évolue avec le droit international.
 
 **N. 14** L'impossibilité factuelle de mise en œuvre est reconnue par le Conseil fédéral et l'Assemblée fédérale comme motif implicite de nullité, mais ne trouve pas de base expresse à l'art. 139 al. 3 Cst. La pratique est extrêmement retenue : seule en cas d'impossibilité évidente de mise en œuvre une initiative est déclarée nulle (FF 2008 2891, 2907–2908 concernant l'initiative sur l'or).
 
 ## 4. Conséquences juridiques
 
-**N. 15** Les initiatives déclarées valides sous la forme de proposition conçue en termes généraux conduisent à une procédure en deux étapes selon l'al. 4: en cas d'approbation de l'Assemblée fédérale, celle-ci élabore un projet. En cas de rejet, le peuple décide d'abord sur la proposition. Ce n'est qu'en cas d'approbation du peuple que l'Assemblée fédérale doit agir.
+**N. 15** Les initiatives déclarées valides sous la forme de proposition conçue en termes généraux conduisent à une procédure en deux étapes selon l'al. 4 : en cas d'approbation de l'Assemblée fédérale, celle-ci élabore un projet. En cas de rejet, le peuple décide d'abord sur la proposition. Ce n'est qu'en cas d'approbation du peuple que l'Assemblée fédérale doit agir.
 
 **N. 16** Les projets rédigés de toutes pièces sont soumis directement à la votation populaire (al. 5). L'Assemblée fédérale donne une recommandation de vote et peut élaborer un contre-projet direct ou indirect (art. 139a et 139b Cst.). Le taux de succès se situe historiquement à environ 11% (24 sur 216 initiatives soumises à votation depuis 1891, état fin 2023).
 

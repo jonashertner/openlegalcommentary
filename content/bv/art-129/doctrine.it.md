@@ -26,7 +26,7 @@
 
 #### a) Competenza di principio (cpv. 1)
 
-**N. 7** Il termine «principi» è interpretato in modo controverso. La «antinomia degli obiettivi costituzionali» descritta da Reich caratterizza l'interpretazione: da un lato dovrebbe avvenire solo una legislazione quadro, dall'altro si persegue un'armonizzazione efficace.
+**N. 7** Il termine «principi» è interpretato in modo controverso. L'*antinomia degli obiettivi costituzionali* descritta da Reich caratterizza l'interpretazione: da un lato dovrebbe avvenire solo una legislazione quadro, dall'altro si persegue un'armonizzazione efficace.
 
 **N. 8** Il Tribunale federale tende a un'interpretazione estensiva. In **DTF 130 II 202** ha dichiarato che l'entità delle possibilità di concretizzazione cantonali deve essere determinata separatamente per ogni disposizione. La prassi mostra che la Confederazione sfrutta ampiamente la sua competenza (Vallender, Mittelbare Rechtsetzung, 435).
 

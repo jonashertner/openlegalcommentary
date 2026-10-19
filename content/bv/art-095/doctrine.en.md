@@ -10,7 +10,7 @@
 
 **No. 3** Art. 95 Cst. forms the centrepiece of federal economic competences. It is closely connected with economic freedom (→ Art. 27 Cst.) and the principles of economic order (→ Art. 94 Cst.). While Art. 27 Cst. guarantees the individual fundamental right to free economic activity, Art. 95 Cst. authorises the Confederation to regulate this freedom.
 
-**No. 4** The provision must be distinguished from the specific economic competences of the Confederation (→ Art. 96-98 Cst.) as well as from cantonal competences in the area of public order and security. Felix Uhlmann emphasises that the Confederation has the authority to «determine the concept of private economic activity autonomously and not to follow strictly the limitations of the fundamental right according to Federal Supreme Court case law».
+**No. 4** The provision must be distinguished from the specific economic competences of the Confederation (→ Art. 96-98 Cst.) as well as from cantonal competences in the area of public order and security. Felix Uhlmann emphasises that the Confederation has the authority to define the concept of private economic activity on its own terms, without being strictly bound by the limits that Federal Supreme Court case law draws for the fundamental right.
 
 ## 3. Elements of the Offence / Content of the Provision
 
@@ -18,7 +18,7 @@
 
 **No. 5** The concept of private economic activity encompasses any activity by private economic actors aimed at profit or earned income. The Federal Supreme Court has confirmed in consistent case law that this includes «any professionally exercised, private economic activity», regardless of the specific industry or type of profession (**BGE 125 I 276** consid. 6a).
 
-**No. 6** Federal competence is comprehensive, but not unlimited. It is subject to constitutional principles, in particular proportionality (→ Art. 5 para. 2 Cst.) and the prohibition of arbitrariness (→ Art. 9 Cst.). Uhlmann points out that federal competence to regulate fighting dogs was «rightly denied», «since the core issue is the private (not private economic) keeping of dogs».
+**No. 6** Federal competence is comprehensive, but not unlimited. It is subject to constitutional principles, in particular proportionality (→ Art. 5 para. 2 Cst.) and the prohibition of arbitrariness (→ Art. 9 Cst.). Uhlmann points out that federal competence to regulate fighting dogs was rightly denied, since what is essentially at stake is the keeping of dogs as a private matter rather than as a private economic activity.
 
 ### 3.2 Unified Economic Area (para. 2)
 
@@ -30,7 +30,7 @@
 
 **No. 9** The detailed requirements in para. 3 are addressed exclusively to «Swiss public limited companies listed in Switzerland or abroad». The constitutional text contains mandatory substantive requirements for the remuneration and election of members of governing bodies as well as a criminal law mandate.
 
-**No. 10** The formulation as «principles» does not mean, according to Uhlmann, that the legislature has wide discretion. Rather, these are «very detailed requirements», whereby «the absolute validity and non-balanceability of a constitutional provision is not to be assumed lightly».
+**No. 10** The formulation as «principles» does not mean, according to Uhlmann, that the legislature has wide discretion. Rather, these are very detailed requirements, whereby a constitutional provision should not readily be taken to apply absolutely and to be immune from any balancing of interests.
 
 ## 4. Legal Consequences
 
@@ -38,7 +38,7 @@
 
 **No. 12** Para. 2 establishes an obligation for the Confederation to act («it ensures») and a subjective right to practice a profession throughout the country for holders of the mentioned qualifications. Cantonal restrictions on admission are only permissible insofar as they are justified by overriding public interests and are proportionate.
 
-**No. 13** The requirements in para. 3 are directly applicable and oblige the legislature to implement them verbatim. According to the materials, the Federal Council has decided on «an implementation of the initiative that is 'as literal as possible'». In case of violation of the provisions, custodial sentences of up to three years are threatened.
+**No. 13** The requirements in para. 3 are directly applicable and oblige the legislature to implement them verbatim. According to the materials, the Federal Council has decided to implement the initiative as literally as possible. In case of violation of the provisions, custodial sentences of up to three years are threatened.
 
 ## 5. Controversial Issues
 

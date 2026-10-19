@@ -30,7 +30,7 @@
 
 #### b) Steuerbare Objekte nach Abs. 1
 
-**N. 8** **Tabak und Tabakwaren (lit. a):** Der Begriff umfasst Rohtabak und alle daraus hergestellten Erzeugnisse zum Rauchen, Schnupfen oder Kauen. Umstritten ist die Besteuerung von Tabakersatzprodukten wie elektronischen Zigaretten. Nach Auffassung des Bundesverwaltungsgerichts sind E-Zigaretten «nach sorgfältiger, umfassender Auslegung als der Tabakbesteuerung unterliegend zu betrachten». Der Bundesrat hingegen definiert sie «ausdrücklich als nicht steuerpflichtiges Ersatzprodukt».
+**N. 8** **Tabak und Tabakwaren (lit. a):** Der Begriff umfasst Rohtabak und alle daraus hergestellten Erzeugnisse zum Rauchen, Schnupfen oder Kauen. Umstritten ist die Besteuerung von Tabakersatzprodukten wie elektronischen Zigaretten. Nach Auffassung des Bundesverwaltungsgerichts sind E-Zigaretten «nach sorgfältiger, umfassender Auslegung als der Tabakbesteuerung unterliegend zu betrachten». Der Bundesrat hingegen stuft sie ausdrücklich als Ersatzprodukt ein, das nicht der Steuer unterliegt.
 
 **N. 9** **Gebrannte Wasser (lit. b):** Nach der extensiven Legaldefinition in Art. 2 AlkG fallen hierunter alle Getränke mit einem Alkoholgehalt von mehr als 15 Volumenprozent sowie Getränke mit geringerem Alkoholgehalt, wenn der Alkohol nicht ausschliesslich durch Vergärung gewonnen wurde. Das Bundesgericht bestätigte diese weite Auslegung in **BGE 143 II 409**.
 
@@ -50,7 +50,7 @@
 
 **N. 15** Art. 131 BV begründet eine Bundeskompetenz, keine Pflicht zur Steuererhebung. Die Ausgestaltung erfolgt auf Gesetzesstufe (TabStG, AlkG, MinöStG, BierStG).
 
-**N. 16** Nach → Art. 134 BV sind gleichartige kantonale und kommunale Steuern ausgeschlossen. Das Bundesgericht anerkennt aber kantonale Kostenanlastungssteuern mit spezifischem Zweck. So erklärte es eine waadtländische Abgabe von 0,8% auf alkoholischen Getränken zum Mitnehmen als «bundesrechtskonforme Kostenanlastungssteuer gerechtfertigt durch den Jugendschutz» für zulässig.
+**N. 16** Nach → Art. 134 BV sind gleichartige kantonale und kommunale Steuern ausgeschlossen. Das Bundesgericht anerkennt aber kantonale Kostenanlastungssteuern mit spezifischem Zweck. So erklärte es eine waadtländische Abgabe von 0,8% auf alkoholischen Getränken zum Mitnehmen als mit Bundesrecht vereinbare Kostenanlastungssteuer, die durch den Jugendschutz gerechtfertigt sei, für zulässig.
 
 **N. 17** Die Erträge aus der Besteuerung gebrannter Wasser sind teilweise zweckgebunden: 10% des Reinertrags gehen an die Kantone zur Bekämpfung der Ursachen und Wirkungen von Suchtproblemen (Abs. 3). Diese Zweckbindung ist justiziabel.
 

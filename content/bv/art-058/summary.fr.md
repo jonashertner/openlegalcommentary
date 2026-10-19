@@ -6,7 +6,7 @@ L'art. 58 Cst. oblige la Suisse à entretenir une armée. Celle-ci est organisé
 
 Le principe de milice signifie : les hommes suisses accomplissent leur service militaire à titre accessoire, le plus souvent les week-ends et par blocs. L'obligation de servir découle de l'art. 59 Cst., la taxe d'exemption pour les personnes inaptes au service du même article. Un petit noyau de militaires de carrière complète les soldats de milice dans les domaines techniques.
 
-La Suisse ne peut pas simplement renoncer à son armée — cela nécessiterait une modification de la Constitution. La doctrine est controversée concernant la notion de « défense »: une interprétation large englobe toutes les mesures militaires de défense, une interprétation étroite uniquement les menaces « d'ampleur stratégique ».
+La Suisse ne peut pas simplement renoncer à son armée — cela nécessiterait une modification de la Constitution. La doctrine est controversée concernant la notion de « défense » : une interprétation large englobe toutes les mesures militaires de défense, une interprétation étroite uniquement les menaces d'ampleur stratégique.
 
 ## Champ d'application
 

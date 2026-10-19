@@ -30,7 +30,7 @@
 
 ## 5. Questioni controverse
 
-**N. 11** **Costituzionalità di un abbandono del nucleare**: L'Ufficio federale di giustizia sostiene nel suo parere «Verfassungsfragen Ausstieg Kernenergie» che un abbandono dell'energia nucleare ordinato per legge e motivato da ragioni di polizia della sicurezza sia «almeno non escluso». R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) è di diverso avviso e considera un abbandono completo anticostituzionale, poiché l'art. 90 Cost. non conterrebbe una competenza di divieto.
+**N. 11** **Costituzionalità di un abbandono del nucleare**: L'Ufficio federale di giustizia sostiene nel suo parere «Verfassungsfragen Ausstieg Kernenergie» che un abbandono dell'energia nucleare ordinato per legge e motivato da ragioni di polizia della sicurezza non sia, quantomeno, da escludere. R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) è di diverso avviso e considera un abbandono completo anticostituzionale, poiché l'art. 90 Cost. non conterrebbe una competenza di divieto.
 
 **N. 12** **Portata delle competenze cantonali**: Mentre la dottrina dominante nega ai Cantoni qualsiasi competenza normativa autonoma (Jagmetti, Energierecht, 2005, pag. 472; Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, pag. 235), una minoranza riconosce limitati margini di manovra cantonali per aspetti puramente locali senza riferimento alla sicurezza tecnica (Buser, AJP 2006, 387–395, 392).
 

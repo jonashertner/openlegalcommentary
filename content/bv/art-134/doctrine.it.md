@@ -46,7 +46,7 @@
 ### 5. Punti controversi
 
 **N. 12** **Interpretazione del «stesso genere»**: La dottrina è divisa nella valutazione della giurisprudenza del Tribunale federale:
-- **Biaggini** critica la prassi come «favorevole ai Cantoni» resp. «più favorevole al fisco che ai cittadini», poiché il cumulo di imposte viene sostituito soltanto da una giustapposizione.
+- **Biaggini** critica la prassi come favorevole ai Cantoni resp. come più vantaggiosa per il fisco che per i cittadini, poiché il cumulo di imposte viene sostituito soltanto da una giustapposizione.
 - **Behnisch** respinge la giurisprudenza che si basa su categorie di scienza finanziaria invece che su criteri giuridico-tecnici. Egli esige che il Tribunale federale si discosti dal suo «atteggiamento troppo restrittivo».
 - **Vallender** (StR 1997, 1 ss.) difende invece la considerazione differenziante del Tribunale federale come adeguata alla cosa.
 

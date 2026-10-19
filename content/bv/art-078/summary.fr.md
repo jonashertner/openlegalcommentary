@@ -2,11 +2,11 @@
 
 ## Aperçu
 
-L'article 78 Cst. règle la protection de l'environnement naturel et culturel en Suisse. La norme constitutionnelle suit le principe fédéraliste: les cantons sont en principe compétents. La Confédération n'a de compétences que pour des tâches spécifiques.
+L'article 78 Cst. règle la protection de l'environnement naturel et culturel en Suisse. La norme constitutionnelle suit le principe fédéraliste : les cantons sont en principe compétents. La Confédération n'a de compétences que pour des tâches spécifiques.
 
 **Tâches cantonales** : Les cantons protègent les paysages, les bâtiments historiques et les espaces naturels. Ils édictent des lois, les exécutent et financent les mesures de protection. Un exemple : un canton peut placer un bâtiment historique sous protection et interdire les transformations.
 
-**Tâches fédérales**: La Confédération doit tenir compte de la nature et du patrimoine culturel dans ses propres projets. Cela vaut notamment pour les autoroutes, les installations militaires ou les antennes de téléphonie mobile. Le Tribunal fédéral examine s'il existe une « norme de droit fédéral suffisamment détaillée » comme point d'attache.
+**Tâches fédérales** : La Confédération doit tenir compte de la nature et du patrimoine culturel dans ses propres projets. Cela vaut notamment pour les autoroutes, les installations militaires ou les antennes de téléphonie mobile. Le Tribunal fédéral examine s'il existe une « norme de droit fédéral suffisamment détaillée » comme point d'attache.
 
 **Protection des espèces** : La Confédération protège les animaux et les plantes menacés par des règles à l'échelle nationale. La loi sur la chasse et la loi sur la pêche sont des exemples de telles lois fédérales.
 

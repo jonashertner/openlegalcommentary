@@ -18,7 +18,7 @@
 
 ### 3. Elementi costitutivi / Contenuto della norma
 
-**N. 7** L'art. 130 cpv. 1 Cost. definisce l'imposta sul valore aggiunto come imposta generale sui consumi secondo il sistema dell'imposta netta plurifase con deduzione dell'imposta precedente. Una parte della dottrina la caratterizza come «imposta lorda plurifase con deduzione dell'imposta precedente». Oggetto dell'imposizione sono le consegne di beni, le prestazioni di servizi compresi i consumi propri e le importazioni.
+**N. 7** L'art. 130 cpv. 1 Cost. definisce l'imposta sul valore aggiunto come imposta generale sui consumi secondo il sistema dell'imposta netta plurifase con deduzione dell'imposta precedente. Una parte della dottrina la caratterizza come *imposta lorda plurifase con deduzione dell'imposta precedente*. Oggetto dell'imposizione sono le consegne di beni, le prestazioni di servizi compresi i consumi propri e le importazioni.
 
 **N. 8** Il corridoio costituzionale delle aliquote stabilisce limiti vincolanti: l'aliquota normale non può superare il 6,5% (attualmente 8,1% con tutti i supplementi secondo l'art. 25 cpv. 1 LIVA), l'aliquota ridotta deve ammontare ad almeno il 2,0% (attualmente 2,6% secondo l'art. 25 cpv. 2 lett. a LIVA). Per le prestazioni alberghiere il cpv. 2 prevede un'aliquota speciale tra l'aliquota ridotta e quella normale (attualmente 3,8% secondo l'art. 25 cpv. 2 lett. b LIVA).
 
@@ -34,11 +34,11 @@
 
 ### 5. Controversie
 
-**N. 13** La natura giuridica dell'imposta sul valore aggiunto è controversa nella dottrina. Mentre una parte della dottrina parla di un'«imposta lorda plurifase con deduzione dell'imposta precedente», Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) la qualificano come «impôt général sur la consommation». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2. ed. 2012, 645) sottolinea il carattere di «imposta indiretta».
+**N. 13** La natura giuridica dell'imposta sul valore aggiunto è controversa nella dottrina. Mentre una parte della dottrina parla di un'*imposta lorda plurifase con deduzione dell'imposta precedente*, Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) la qualificano come «impôt général sur la consommation». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2. ed. 2012, 645) sottolinea il carattere di «imposta indiretta».
 
 **N. 14** La giustiziabilità del vincolo parziale di destinazione secondo il cpv. 4 è controversa. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. ed. 2016, N. 3687) sostengono la posizione che dalla norma si possa derivare un diritto azionabile dei Cantoni. Blumenstein/Locher (System des Schweizerischen Steuerrechts, 6. ed. 2002, 325) vedono invece solo un obbligo politico della Confederazione.
 
-**N. 15** Una parte della dottrina critica i «difetti del sistema» del diritto dell'imposta sul valore aggiunto, in particolare la «complessità soggetta a errori» e l'«attuazione lacunosa da parte dell'AFC». Questa critica è stata parzialmente ripresa nel rapporto Spori (Rapporto dell'incaricato P. Spori in materia di riforma dell'imposta sul valore aggiunto, 2006, 23 segg.), ma non ha portato a un cambiamento fondamentale del sistema.
+**N. 15** Una parte della dottrina critica i difetti del sistema del diritto dell'imposta sul valore aggiunto, in particolare la complessità, fonte di errori, e le lacune nell'applicazione da parte dell'AFC. Questa critica è stata parzialmente ripresa nel rapporto Spori (Rapporto dell'incaricato P. Spori in materia di riforma dell'imposta sul valore aggiunto, 2006, 23 segg.), ma non ha portato a un cambiamento fondamentale del sistema.
 
 **N. 16** L'ammissibilità costituzionale di tax ruling nell'ambito dell'IVA è giudicata diversamente. Baumgartner (Möglichkeiten und Grenzen von Steuer-Rulings, in: Mäusli-Allenspach/Beusch, 2013, 201 seg.) la afferma invocando → l'art. 5 cpv. 3 Cost. (buona fede). Geiger/Schluckebier (MWSTG Kommentar, 2012, Art. 69 N. 8) vedono limiti costituzionali in caso di informazioni contrarie al sistema.
 

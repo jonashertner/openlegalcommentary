@@ -26,7 +26,7 @@
 
 #### 3.1 Personal Scope
 
-**N. 7** «Every person» in Art. 33 para. 1 FC encompasses all natural persons without restriction as to nationality, age, legal capacity or domicile; the provision cannot be read as excluding, for example, foreign nationals or persons lacking legal capacity. Legal persons and public bodies may also be petitioners insofar as a matter of their own concern is involved; the Federal Supreme Court left this question open in **BGE 98 Ia 484 E. 5a**. Tschannen notes that the right of petition may be exercised «almost without any formality and without disadvantage».
+**N. 7** «Every person» in Art. 33 para. 1 FC encompasses all natural persons without restriction as to nationality, age, legal capacity or domicile; the provision cannot be read as excluding, for example, foreign nationals or persons lacking legal capacity. Legal persons and public bodies may also be petitioners insofar as a matter of their own concern is involved; the Federal Supreme Court left this question open in **BGE 98 Ia 484 E. 5a**. Tschannen notes that the right of petition may be exercised with hardly any formal requirements and without the petitioner suffering any disadvantage.
 
 #### 3.2 Material Scope of Protection
 

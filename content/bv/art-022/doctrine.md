@@ -22,7 +22,7 @@
 
 **N. 7** Auf völkerrechtlicher Ebene entspricht Art. 22 BV Art. 11 EMRK (Versammlungs- und Vereinigungsfreiheit) und Art. 21 UNO-Pakt II. Das Bundesgericht hat wiederholt festgestellt, dass die Garantien des Art. 11 EMRK und des Art. 21 UNO-Pakt II bezüglich Inhalt und Umfang des Schutzes nicht über die bundesverfassungsrechtliche Gewährleistung hinausgehen (**BGE 132 I 256 E. 3 i.f.; BGE 148 I 33 E. 6.2**). Massgebend ist primär Art. 22 BV und die dazugehörige bundesgerichtliche Rechtsprechung.
 
-**N. 8** Die Versammlungsfreiheit bildet eine zentrale Voraussetzung für die freie demokratische Willensbildung und die Ausübung der politischen Rechte (↔ Art. 34 BV). Sie erfüllt eine «Ventil-, Warn-, Kontroll- und Innovationsfunktion» in der demokratischen Gesellschaft.
+**N. 8** Die Versammlungsfreiheit bildet eine zentrale Voraussetzung für die freie demokratische Willensbildung und die Ausübung der politischen Rechte (↔ Art. 34 BV). Sie wirkt in der demokratischen Gesellschaft als Ventil, Warnsignal, Kontrollinstrument und Innovationsimpuls.
 
 ---
 

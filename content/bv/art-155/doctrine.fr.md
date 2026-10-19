@@ -24,7 +24,7 @@
 
 **N. 7** La possibilité de faire appel aux « services de l'administration fédérale » permet à l'Assemblée fédérale de recourir aux connaissances spécialisées de l'exécutif. Cela concerne notamment la participation d'offices fédéraux dans les commissions parlementaires ou la fourniture d'expertises. Le recours s'effectue de manière subsidiaire et complémentaire aux propres services du Parlement (Commentaire saint-gallois Cst., Sägesser, art. 155 n. 8).
 
-**N. 8** Les unités administratives consultées restent organisationnellement partie de l'exécutif, mais deviennent actives à des fins parlementaires. Cela soulève des questions de compétence d'instruction et de confidentialité, qui sont réglées par l'art. 150 al. 2 LParl: les unités administratives sont soumises pour leur activité parlementaire aux instructions des présidences de commission.
+**N. 8** Les unités administratives consultées restent organisationnellement partie de l'exécutif, mais deviennent actives à des fins parlementaires. Cela soulève des questions de compétence d'instruction et de confidentialité, qui sont réglées par l'art. 150 al. 2 LParl : les unités administratives sont soumises pour leur activité parlementaire aux instructions des présidences de commission.
 
 ### 3.3 Mandat législatif (al. 2)
 
@@ -44,11 +44,11 @@
 
 ## 5. Points litigieux
 
-**N. 13** **Étendue de l'autonomie parlementaire**: Dans la doctrine, il est controversé de savoir jusqu'où va l'autonomie organisationnelle des services du Parlement. Une partie de la doctrine défend une interprétation extensive, selon laquelle les services du Parlement doivent être indépendants de l'exécutif dans tous les domaines. À l'inverse, Müller (Droit parlementaire de la Suisse, 2022, 487) plaide pour une considération fonctionnelle: seule dans la mesure où l'indépendance est nécessaire pour le travail parlementaire existerait une protection constitutionnelle.
+**N. 13** **Étendue de l'autonomie parlementaire** : Dans la doctrine, il est controversé de savoir jusqu'où va l'autonomie organisationnelle des services du Parlement. Une partie de la doctrine défend une interprétation extensive, selon laquelle les services du Parlement doivent être indépendants de l'exécutif dans tous les domaines. À l'inverse, Müller (Droit parlementaire de la Suisse, 2022, 487) plaide pour une considération fonctionnelle : seule dans la mesure où l'indépendance est nécessaire pour le travail parlementaire existerait une protection constitutionnelle.
 
 **N. 14** **Position en droit du personnel** : L'applicabilité de la Loi sur le personnel de la Confédération aux services du Parlement fait l'objet de discussions controversées. Alors que Tschannen (in : Tschannen/Zimmerli/Müller, Droit administratif général, § 23 n. 45) préconise une application complète de la LPers, Biaggini (Commentaire Cst., art. 155 n. 3) et l'école saint-galloise considèrent un ordre juridique autonome en droit du personnel comme admissible. La pratique suit une approche différenciée avec une application de principe de la LPers sous réserve de réglementations spécifiques au Parlement.
 
-**N. 15** **Portée du droit de recours**: Il existe un désaccord sur les limites du droit de faire appel aux unités administratives. Graf (Commissions d'enquête parlementaires, 2021, 234) argumente pour une interprétation large qui permettrait même le détachement temporaire d'offices entiers. La doctrine dominante (Commentaire saint-gallois Cst., Sägesser, art. 155 n. 12) limite le droit de recours aux prestations de soutien ponctuelles et nie une intégration durable d'unités administratives dans l'organisation parlementaire.
+**N. 15** **Portée du droit de recours** : Il existe un désaccord sur les limites du droit de faire appel aux unités administratives. Graf (Commissions d'enquête parlementaires, 2021, 234) argumente pour une interprétation large qui permettrait même le détachement temporaire d'offices entiers. La doctrine dominante (Commentaire saint-gallois Cst., Sägesser, art. 155 n. 12) limite le droit de recours aux prestations de soutien ponctuelles et nie une intégration durable d'unités administratives dans l'organisation parlementaire.
 
 ## 6. Conseils pratiques
 

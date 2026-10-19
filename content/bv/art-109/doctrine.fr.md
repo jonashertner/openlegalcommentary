@@ -18,34 +18,34 @@
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 6** **Abus dans les rapports de bail (al. 1)**: La notion d'abus englobe selon la doctrine des situations dans lesquelles une partie contractante agit contre la bonne foi ou exploite sa position supérieure pour créer un déséquilibre entre prestation et contre-prestation (→ art. 5 al. 1 CC). La Constitution cite deux cas d'abus qualifiés à titre d'exemple (« notamment »):
+**N. 6** **Abus dans les rapports de bail (al. 1)** : La notion d'abus englobe selon la doctrine des situations dans lesquelles une partie contractante agit contre la bonne foi ou exploite sa position supérieure pour créer un déséquilibre entre prestation et contre-prestation (→ art. 5 al. 1 CC). La Constitution cite deux cas d'abus qualifiés à titre d'exemple (« notamment ») :
 
-**N. 7** **Loyers abusifs**: Cela comprend les loyers qui sont dans une disproportion manifeste avec la contre-prestation. La concrétisation s'effectue par les art. 269 ss CO, qui prévoient diverses méthodes d'évaluation. Selon la jurisprudence, les parties peuvent choisir entre le critère du rendement et l'usage local ou du quartier, mais ne peuvent pas faire valoir les deux critères de manière cumulative (**ATF 150 III 123** consid. 4.2).
+**N. 7** **Loyers abusifs** : Cela comprend les loyers qui sont dans une disproportion manifeste avec la contre-prestation. La concrétisation s'effectue par les art. 269 ss CO, qui prévoient diverses méthodes d'évaluation. Selon la jurisprudence, les parties peuvent choisir entre le critère du rendement et l'usage local ou du quartier, mais ne peuvent pas faire valoir les deux critères de manière cumulative (**ATF 150 III 123** consid. 4.2).
 
-**N. 8** **Congés abusifs**: Ceux-ci sont donnés lorsque le congé viole la bonne foi ou conduit à des résultats inéquitables dans des cas de rigueur. La concrétisation se trouve dans les art. 271 ss CO (Lachat et al., Das Mietrecht für die Praxis, 8e éd. 2010, N. 10.1 ss).
+**N. 8** **Congés abusifs** : Ceux-ci sont donnés lorsque le congé viole la bonne foi ou conduit à des résultats inéquitables dans des cas de rigueur. La concrétisation se trouve dans les art. 271 ss CO (Lachat et al., Das Mietrecht für die Praxis, 8e éd. 2010, N. 10.1 ss).
 
-**N. 9** **Prolongation à titre temporaire**: La Constitution autorise l'introduction d'une protection sociale contre les congés par la continuation limitée dans le temps du rapport de bail malgré un congé légal. Ceci a été mis en œuvre dans les art. 272 ss CO (SVIT, Kommentar, 3e éd. 2008, Art. 272 N. 1).
+**N. 9** **Prolongation à titre temporaire** : La Constitution autorise l'introduction d'une protection sociale contre les congés par la continuation limitée dans le temps du rapport de bail malgré un congé légal. Ceci a été mis en œuvre dans les art. 272 ss CO (SVIT, Kommentar, 3e éd. 2008, Art. 272 N. 1).
 
 **N. 10** **Extension de la force obligatoire générale de contrats-cadres de bail (al. 2)** : Cette compétence introduite en 1986 permet de déclarer d'extension de la force obligatoire générale les contrats-cadres de bail négociés entre associations de locataires et de bailleurs. Les conditions sont cumulatives :
 - Prise en considération appropriée des intérêts légitimes des minorités
 - Respect des diversités régionales  
 - Respect de l'égalité de traitement
 
-L'importance pratique est restée faible; seules deux extensions de force obligatoire générale ont eu lieu à ce jour (Roncoroni, mp 1/2004, 1 ss).
+L'importance pratique est restée faible ; seules deux extensions de force obligatoire générale ont eu lieu à ce jour (Roncoroni, mp 1/2004, 1 ss).
 
 ### 4. Effets juridiques
 
-**N. 11** **Obligation de légiférer**: L'art. 109 al. 1 Cst fonde une obligation constitutionnelle de la Confédération d'édicter des dispositions de protection. Cette obligation a été remplie par les dispositions du droit du bail du CO (art. 253-274g CO) et des règles procédurales d'accompagnement.
+**N. 11** **Obligation de légiférer** : L'art. 109 al. 1 Cst fonde une obligation constitutionnelle de la Confédération d'édicter des dispositions de protection. Cette obligation a été remplie par les dispositions du droit du bail du CO (art. 253-274g CO) et des règles procédurales d'accompagnement.
 
 **N. 12** **Primauté du droit fédéral** : La législation fédérale complète en matière de droit du bail exclut les réglementations cantonales qui interviennent directement dans les rapports de bail de droit privé. Demeurent admissibles les mesures de droit public d'encouragement de la construction de logements, pour autant qu'elles ne contournent pas le droit privé fédéral (**ATF 149 I 25** consid. 4.4.5; **ATF 146 I 70** consid. 5).
 
-**N. 13** **Direction de protection**: La norme vise en premier lieu la protection du locataire en tant que partie contractuelle régulièrement plus faible. Ceci n'exclut cependant pas une protection du bailleur contre un comportement abusif du locataire (Permann, Kommentar zum Mietrecht, 2007, Einl. N. 32).
+**N. 13** **Direction de protection** : La norme vise en premier lieu la protection du locataire en tant que partie contractuelle régulièrement plus faible. Ceci n'exclut cependant pas une protection du bailleur contre un comportement abusif du locataire (Permann, Kommentar zum Mietrecht, 2007, Einl. N. 32).
 
 ### 5. Questions controversées
 
-**N. 14** **Portée de la compétence fédérale**: La portée de l'effet d'exclusion du droit fédéral est controversée. Tandis qu'une opinion doctrinale part d'un évincemement complet des compétences cantonales dans l'ensemble du droit du bail, une partie de la doctrine défend une approche plus différenciée. Higi (ZK, Die Miete, 3e éd. 1994, Vorbem. N. 201) et Lachat (Das Mietrecht für die Praxis, N. 1.4.2) reconnaissent des marges de manœuvre pour le droit public cantonal, pour autant qu'il n'intervienne pas dans les rapports de droit privé.
+**N. 14** **Portée de la compétence fédérale** : La portée de l'effet d'exclusion du droit fédéral est controversée. Tandis qu'une opinion doctrinale part d'un évincemement complet des compétences cantonales dans l'ensemble du droit du bail, une partie de la doctrine défend une approche plus différenciée. Higi (ZK, Die Miete, 3e éd. 1994, Vorbem. N. 201) et Lachat (Das Mietrecht für die Praxis, N. 1.4.2) reconnaissent des marges de manœuvre pour le droit public cantonal, pour autant qu'il n'intervienne pas dans les rapports de droit privé.
 
-**N. 15** **Méthodes d'évaluation en cas d'abus de loyer**: Le rapport entre le critère du rendement et celui du loyer comparatif fait l'objet de discussions controversées. La doctrine dominante (SVIT, Kommentar, Art. 269a N. 7) privilégie un droit de choix des parties. Une opinion minoritaire (Rossinelli, in: Bohnet/Wessner, 16e Séminaire sur le droit du bail, 2010, 175 s) plaide pour une application cumulative des deux critères pour un contrôle complet des abus.
+**N. 15** **Méthodes d'évaluation en cas d'abus de loyer** : Le rapport entre le critère du rendement et celui du loyer comparatif fait l'objet de discussions controversées. La doctrine dominante (SVIT, Kommentar, Art. 269a N. 7) privilégie un droit de choix des parties. Une opinion minoritaire (Rossinelli, in: Bohnet/Wessner, 16e Séminaire sur le droit du bail, 2010, 175 s) plaide pour une application cumulative des deux critères pour un contrôle complet des abus.
 
 **N. 16** **Politique sociale du logement et autonomie privée** : Une question controversée fondamentale concerne la tension entre protection sociale des locataires et aménagement contractuel relevant de l'autonomie privée. Tandis qu'une partie de la doctrine (Permann, Kommentar, Einl. N. 45 ss) plaide pour une interprétation restrictive des cas d'abus, l'opinion contraire (Lachat et al., N. 10.2.1; Rohrbach, mp 2/2014, 125) privilégie une interprétation extensive à la lumière du mandat constitutionnel de protection.
 

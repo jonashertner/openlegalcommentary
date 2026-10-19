@@ -22,9 +22,9 @@
 
 **N. 7** **« déterminent »** : Les cantons disposent d'une autonomie de décision sur la question de savoir s'ils accomplissent des tâches et comment ils les accomplissent. Cette autonomie comprend l'organisation de l'accomplissement des tâches, le choix des moyens et la définition des priorités (Schweizer, SG-Komm. BV, Art. 43 N. 4).
 
-**N. 8** **« quelles tâches ils [...] accomplissent »**: Le concept de « tâches » se distingue des « compétences ». Alors que les compétences signifient des attributions au sens d'autorisations, c'est le caractère obligatoire qui est au premier plan pour les tâches. Les cantons peuvent en principe décider eux-mêmes quelles tâches publiques ils veulent assumer.
+**N. 8** **« quelles tâches ils [...] accomplissent »** : Le concept de « tâches » se distingue des « compétences ». Alors que les compétences signifient des attributions au sens d'autorisations, c'est le caractère obligatoire qui est au premier plan pour les tâches. Les cantons peuvent en principe décider eux-mêmes quelles tâches publiques ils veulent assumer.
 
-**N. 9** **« dans le cadre de leurs compétences »**: Cette restriction est centrale. L'autonomie cantonale des tâches n'existe que dans la mesure où la Constitution fédérale laisse effectivement des compétences aux cantons. Le libellé est imprécis en ce sens qu'il suggère une liberté plus large que celle qui existe réellement.
+**N. 9** **« dans le cadre de leurs compétences »** : Cette restriction est centrale. L'autonomie cantonale des tâches n'existe que dans la mesure où la Constitution fédérale laisse effectivement des compétences aux cantons. Le libellé est imprécis en ce sens qu'il suggère une liberté plus large que celle qui existe réellement.
 
 ### 4. Conséquences juridiques
 
@@ -44,11 +44,11 @@
 
 ### 5. Points de controverse
 
-**N. 13** **Rapport à l'art. 3 Cst.**: Biaggini défend la position que l'art. 43 Cst. n'a juridiquement aucune signification autonome et ne fait que répéter ce qui découle déjà de l'art. 3 Cst.. Schweizer voit au contraire dans l'art. 43 Cst. une concrétisation importante du principe du fédéralisme avec un contenu normatif propre (SG-Komm. BV, Art. 43 N. 2).
+**N. 13** **Rapport à l'art. 3 Cst.** : Biaggini défend la position que l'art. 43 Cst. n'a juridiquement aucune signification autonome et ne fait que répéter ce qui découle déjà de l'art. 3 Cst.. Schweizer voit au contraire dans l'art. 43 Cst. une concrétisation importante du principe du fédéralisme avec un contenu normatif propre (SG-Komm. BV, Art. 43 N. 2).
 
-**N. 14** **Délimitation par rapport à l'art. 47 Cst.**: Schweizer souligne les difficultés de délimitation entre l'art. 43 Cst. (autonomie des tâches) et l'art. 47 Cst. (autonomie). Alors que l'art. 43 Cst. concerne l'autonomie fonctionnelle, l'art. 47 Cst. protège l'autonomie institutionnelle des cantons.
+**N. 14** **Délimitation par rapport à l'art. 47 Cst.** : Schweizer souligne les difficultés de délimitation entre l'art. 43 Cst. (autonomie des tâches) et l'art. 47 Cst. (autonomie). Alors que l'art. 43 Cst. concerne l'autonomie fonctionnelle, l'art. 47 Cst. protège l'autonomie institutionnelle des cantons.
 
-**N. 15** **Portée de la restriction**: La doctrine n'est pas unanime sur la portée de la formulation « dans le cadre de leurs compétences ». Biaggini critique le libellé imprécis qui suggère une autonomie plus grande que celle qui existe réellement. D'autres auteurs y voient une clarification nécessaire de la structure des compétences de l'État fédéral.
+**N. 15** **Portée de la restriction** : La doctrine n'est pas unanime sur la portée de la formulation « dans le cadre de leurs compétences ». Biaggini critique le libellé imprécis qui suggère une autonomie plus grande que celle qui existe réellement. D'autres auteurs y voient une clarification nécessaire de la structure des compétences de l'État fédéral.
 
 ### 6. Conseils pratiques
 

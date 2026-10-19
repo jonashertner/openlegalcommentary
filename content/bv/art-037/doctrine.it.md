@@ -32,7 +32,7 @@
 
 ### 3.2 Divieto di svantaggi (cpv. 2 frase 1)
 
-**N. 10** Il divieto si riferisce a disparità di trattamento che si basano esclusivamente sul criterio della cittadinanza. In dottrina si precisa: «Rimangono ammissibili differenziazioni secondo il domicilio, la durata del soggiorno o altri criteri oggettivi».
+**N. 10** Il divieto si riferisce a disparità di trattamento che si basano esclusivamente sul criterio della cittadinanza. In dottrina si precisa che restano invece consentite le distinzioni fondate sul domicilio, sulla durata della dimora o su altri criteri oggettivi.
 
 **N. 11** La norma vieta sia le discriminazioni dirette sia quelle indirette. Una regolamentazione apparentemente neutra che di fatto colpisce solo i cittadini di altri comuni o cantoni può ugualmente violare l'art. 37 cpv. 2 Cost. (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4ª ed. 2014, § 23 N 15).
 

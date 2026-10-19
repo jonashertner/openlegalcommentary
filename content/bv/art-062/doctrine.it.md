@@ -29,7 +29,7 @@
 - Passaggi tra i livelli
 - Riconoscimento dei titoli di studio
 
-Biaggini qualifica questa competenza come «condizionatamente concorrente», mentre Ehrenzeller/Schott vedono la responsabilità primaria presso i Cantoni e classificano la competenza federale come sussidiaria.
+Biaggini qualifica questa competenza come *condizionatamente concorrente*, mentre Ehrenzeller/Schott vedono la responsabilità primaria presso i Cantoni e classificano la competenza federale come sussidiaria.
 
 ### 4. Conseguenze giuridiche
 
@@ -53,7 +53,7 @@ Biaggini qualifica questa competenza come «condizionatamente concorrente», men
 
 **N. 15** **Carattere normativo dell'art. 62 cpv. 3**: Sussiste una controversia significativa riguardo alla natura giuridica dell'obbligo di educazione speciale. Voci scettiche nella dottrina vedono nel cpv. 3 meramente un mandato costituzionale senza pretesa individuale azionabile. Altre opinioni dottrinali (Kälin/Künzli, in Wyttenbach/Kälin, AJP 2005, 1278) affermano un diritto direttamente azionabile del bambino disabile. Il Tribunale federale tende al riconoscimento di una pretesa giustiziabile, ma sottolinea l'ampio margine di manovra cantonale (**DTF 138 I 162**).
 
-**N. 16** **Rapporto Confederazione-Cantoni nell'armonizzazione**: Una parte della dottrina sottolinea la responsabilità cantonale primaria e vede la competenza federale come ultima ratio. Un'altra parte della dottrina qualifica la competenza come «condizionatamente concorrente» e concede alla Confederazione maggiore margine di manovra. La prassi mostra che la Confederazione finora agisce con moderazione e punta primariamente sulla cooperazione intercantonale (Concordato HarmoS).
+**N. 16** **Rapporto Confederazione-Cantoni nell'armonizzazione**: Una parte della dottrina sottolinea la responsabilità cantonale primaria e vede la competenza federale come ultima ratio. Un'altra parte della dottrina qualifica la competenza come *condizionatamente concorrente* e concede alla Confederazione maggiore margine di manovra. La prassi mostra che la Confederazione finora agisce con moderazione e punta primariamente sulla cooperazione intercantonale (Concordato HarmoS).
 
 ### 6. Indicazioni pratiche
 
