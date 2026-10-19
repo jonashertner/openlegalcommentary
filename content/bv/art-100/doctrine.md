@@ -22,7 +22,7 @@
 
 **N. 7** **Abweichung von der Wirtschaftsfreiheit (Abs. 3)**: Die Ermächtigung bezieht sich auf drei Wirtschaftssektoren: Geld- und Kreditwesen, Aussenwirtschaft und öffentliche Finanzen. Das Kriterium der Notwendigkeit («nötigenfalls») unterstreicht den Ausnahmecharakter solcher Eingriffe. Die herrschende Lehre interpretiert diese Bestimmung restriktiv und verlangt eine unmittelbare Gefährdung der wirtschaftlichen Stabilität (Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 982).
 
-**N. 8** **Antizyklische Fiskalpolitik (Abs. 4)**: Die Norm verpflichtet alle staatlichen Ebenen zu einer konjunkturgerechten Haushaltführung. In der Hochkonjunktur sollen die öffentlichen Haushalte restriktiv, in der Rezession expansiv geführt werden. Diese Verpflichtung steht in einem Spannungsverhältnis zur Schuldenbremse gemäss → Art. 126 BV (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 100 N 15).
+**N. 8** **Antizyklische Fiskalpolitik (Abs. 4)**: Die Norm verpflichtet alle staatlichen Ebenen zu einer konjunkturgerechten Haushaltführung. In der Hochkonjunktur sollen die öffentlichen Haushalte restriktiv, in der Rezession expansiv geführt werden. Diese Verpflichtung steht in einem Spannungsverhältnis zur Schuldenbremse gemäss → Art. 126 BV.
 
 **N. 9** **Konjunkturelle Zuschläge und Rabatte (Abs. 5)**: Diese Bestimmung ermöglicht temporäre Variationen der Steuerlast zu Stabilisierungszwecken. Die Stilllegungspflicht der abgeschöpften Mittel soll deren prozyklische Verwendung verhindern. Die unterschiedliche Behandlung direkter und indirekter Steuern bei der Rückerstattung reflektiert verwaltungspraktische Überlegungen.
 

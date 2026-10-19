@@ -26,7 +26,7 @@
 
 #### 3.1 Champ d'application personnel
 
-**N. 7** « Toute personne » à l'art. 33 al. 1 Cst. vise toutes les personnes physiques sans restriction de nationalité, d'âge, de capacité d'exercer des droits civils ou de domicile ; la norme ne permet de déduire aucune exclusion, par exemple des étrangers ou des personnes incapables de discernement. Les personnes morales ainsi que les collectivités publiques peuvent également être pétitionnaires, pour autant qu'il s'agisse d'une affaire qui leur est propre ; le Tribunal fédéral a laissé cette question ouverte dans **ATF 98 Ia 484 consid. 5a**. Tschannen constate que le droit de pétition peut être exercé « de façon quasi informelle et sans risque de préjudice » (Tschannen, BSK BV, art. 33 N. 3).
+**N. 7** « Toute personne » à l'art. 33 al. 1 Cst. vise toutes les personnes physiques sans restriction de nationalité, d'âge, de capacité d'exercer des droits civils ou de domicile; la norme ne permet de déduire aucune exclusion, par exemple des étrangers ou des personnes incapables de discernement. Les personnes morales ainsi que les collectivités publiques peuvent également être pétitionnaires, pour autant qu'il s'agisse d'une affaire qui leur est propre; le Tribunal fédéral a laissé cette question ouverte dans **ATF 98 Ia 484 consid. 5a**. Tschannen constate que le droit de pétition peut être exercé « de façon quasi informelle et sans risque de préjudice ».
 
 #### 3.2 Champ de protection matériel
 
@@ -54,7 +54,7 @@
 
 **N. 14** Par l'art. 33 Cst., le pétitionnaire n'acquiert pas la qualité de partie dans une procédure administrative et n'a pas de droit au prononcé d'une décision. En conséquence, le refus ou la clôture d'une pétition ne peut pas faire l'objet d'un contrôle judiciaire quant à son bien-fondé matériel (**arrêt 1C_473/2010 consid. 2.1** ; **arrêt 1C_155/2020 consid. 2.2**). Le pétitionnaire se distingue en cela du recourant, à qui le droit de recours confère un droit exécutoire à une décision (**ATF 98 Ia 484 consid. 5b** avec renvoi à ATF 90 I 230).
 
-**N. 15** Le droit de pétition ne se prête pas à remplacer ou à compléter les voies de recours procédurales lorsque celles-ci sont disponibles. C'est ainsi que le Tribunal fédéral a indiqué dans **arrêt 1C_37/2019 consid. 4.3** que le droit de pétition selon l'art. 33 Cst. offrait la possibilité de « s'adresser aux autorités de façon quasi informelle et sans risque de préjudice » (avec renvoi à Tschannen, BSK BV, art. 33 N. 3), mais n'est pas un instrument de protection des droits individuels face aux omissions de l'État lorsqu'aucun droit subjectif n'est en cause.
+**N. 15** Le droit de pétition ne se prête pas à remplacer ou à compléter les voies de recours procédurales lorsque celles-ci sont disponibles. C'est ainsi que le Tribunal fédéral a indiqué dans **arrêt 1C_37/2019 consid. 4.3** que le droit de pétition selon l'art. 33 Cst. offrait la possibilité de « s'adresser aux autorités de façon quasi informelle et sans risque de préjudice », mais n'est pas un instrument de protection des droits individuels face aux omissions de l'État lorsqu'aucun droit subjectif n'est en cause.
 
 ---
 

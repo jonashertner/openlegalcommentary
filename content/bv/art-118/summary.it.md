@@ -2,7 +2,7 @@
 
 ## Panoramica
 
-L'art. 118 Cost. disciplina le competenze della Confederazione in materia di sanità. La disposizione non permette alla Confederazione di agire in tutte le questioni sanitarie. Essa può operare solo laddove la Costituzione le attribuisce espressamente delle competenze (Gächter/Renold-Burch, BSK BV, Art. 118 N. 3).
+L'art. 118 Cost. disciplina le competenze della Confederazione in materia di sanità. La disposizione non permette alla Confederazione di agire in tutte le questioni sanitarie. Essa può operare solo laddove la Costituzione le attribuisce espressamente delle competenze.
 
 Il capoverso 1 obbliga la Confederazione ad adottare misure di tutela della salute nell'ambito delle sue competenze esistenti. Il capoverso 2 menziona tre settori speciali in cui la Confederazione può emanare leggi:
 

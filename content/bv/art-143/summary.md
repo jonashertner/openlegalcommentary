@@ -4,7 +4,7 @@
 
 Art. 143 BV regelt, wer in die drei obersten Bundesbehörden gewählt werden kann. Alle Stimmberechtigten – das sind nach Art. 136 BV alle Schweizer Bürgerinnen und Bürger ab 18 Jahren, die nicht entmündigt sind – können in den Nationalrat, Bundesrat oder als Bundesrichterin gewählt werden.
 
-Die Verfassung kennt keine weiteren Voraussetzungen. Weder Wohnsitz noch Beruf, Ausbildung oder Geschlecht spielen eine Rolle. Auch eine juristische Ausbildung ist für Bundesrichter verfassungsrechtlich nicht zwingend erforderlich, obwohl dies umstritten ist (Schaub, BSK BV, Art. 143 N. 6 vs. Kiener, BSK BGG, Art. 5 N. 10).
+Die Verfassung kennt keine weiteren Voraussetzungen. Weder Wohnsitz noch Beruf, Ausbildung oder Geschlecht spielen eine Rolle. Auch eine juristische Ausbildung ist für Bundesrichter verfassungsrechtlich nicht zwingend erforderlich, obwohl dies umstritten ist.
 
 **Beispiel**: Eine 19-jährige Schweizerin aus Genf kann theoretisch zur Bundesrichterin gewählt werden, auch wenn sie Bäckerin ist und nie Jura studiert hat. Das Gesetz verlangt zwar Kenntnisse einer Amtssprache (Art. 5 Abs. 2 BGG), aber dies ist bereits die Grenze des Zulässigen.
 

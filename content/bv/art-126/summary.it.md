@@ -4,7 +4,7 @@
 
 Il freno all'indebitamento della Confederazione disciplina come lo Stato amministra le sue finanze. Esso richiede che le uscite e le entrate siano equilibrate a lungo termine (FF 2000 4223 segg.). La Confederazione non può spendere durevolmente più di quanto incassa.
 
-Il freno all'indebitamento agisce in tre fasi: dapprima stabilisce quanto denaro la Confederazione può spendere al massimo. Questo limite massimo si orienta in base alle entrate previste e alla situazione economica. In caso di congiuntura debole si può spendere più di quanto si incassa, in caso di buona congiuntura meno (BSK BV-Lienhard/Marti Locher, Art. 126 n. 24 seg.).
+Il freno all'indebitamento agisce in tre fasi: dapprima stabilisce quanto denaro la Confederazione può spendere al massimo. Questo limite massimo si orienta in base alle entrate previste e alla situazione economica. In caso di congiuntura debole si può spendere più di quanto si incassa, in caso di buona congiuntura meno.
 
 In situazioni di emergenza come catastrofi naturali o gravi recessioni, il Parlamento può innalzare questo limite con la maggioranza qualificata (art. 159 cpv. 3 lett. c Cost.). Se le uscite vengono comunque superate, i costi supplementari devono essere nuovamente risparmiati entro sei anni (Legge sulle finanze della Confederazione art. 16).
 

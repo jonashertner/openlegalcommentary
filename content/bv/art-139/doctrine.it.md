@@ -12,7 +12,7 @@
 
 **N. 4** L'art. 139 Cost. si trova nel 4° titolo «Popolo e Cantoni» e forma insieme all'art. 138 Cost. (iniziativa popolare per la revisione totale) e all'art. 139a Cost. (iniziativa popolare con controprogetto) il nucleo centrale dei diritti di partecipazione democratica diretta a livello federale. La disposizione concretizza il diritto fondamentale dei diritti politici garantito dall'art. 34 Cost. per il caso specifico dell'iniziativa costituzionale (Tschannen, Die Formen der Volksinitiative und die Einheit der Form, ZBl 2002, 2–29, 4).
 
-**N. 5** Il collegamento con l'art. 136 Cost. (Diritti politici) e l'art. 173 cpv. 1 lett. f Cost. (Competenze dell'Assemblea federale per le iniziative popolari) è sistematicamente centrale. L'art. 190 Cost. svolge un ruolo importante nella questione della giustiziabilità delle iniziative popolari accettate, mentre gli artt. 192–195 Cost. stabiliscono i limiti della revisione costituzionale (Epiney/Diezig, BSK BV, Art. 139 N. 7).
+**N. 5** Il collegamento con l'art. 136 Cost. (Diritti politici) e l'art. 173 cpv. 1 lett. f Cost. (Competenze dell'Assemblea federale per le iniziative popolari) è sistematicamente centrale. L'art. 190 Cost. svolge un ruolo importante nella questione della giustiziabilità delle iniziative popolari accettate, mentre gli artt. 192–195 Cost. stabiliscono i limiti della revisione costituzionale.
 
 **N. 6** Nel contesto internazionale, l'art. 139 Cost. va letto insieme all'art. 5 cpv. 4 Cost. (Rispetto del diritto internazionale). La prassi mostra tensioni tra la sovranità popolare e gli obblighi internazionali, come si è reso evidente in modo esemplare nell'iniziativa sui minareti (accettata nel 2009) e nell'iniziativa per l'espulsione (accettata nel 2010) (Biaggini, Die schweizerische direkte Demokratie und das Völkerrecht, ZÖR 2010, 325–343, 330–335).
 
@@ -22,7 +22,7 @@
 
 **N. 7** Il numero di 100'000 firme di cittadini aventi diritto di voto corrisponde a circa l'1,9% degli aventi diritto di voto (situazione 2024: ca. 5,5 milioni). Questa soglia è rimasta invariata dal 1977, benché il numero degli aventi diritto di voto sia più che raddoppiato da allora (Hangartner, Unklarheiten bei Volksinitiativen, AJP 2011, 471–478, 472). L'abbassamento relativo della soglia è parzialmente compensato dalla professionalizzazione della raccolta firme.
 
-**N. 8** Il termine di 18 mesi inizia a decorrere dalla pubblicazione ufficiale del testo dell'iniziativa nel Foglio federale (art. 69 cpv. 1 LDP). La **DTF 131 II 449 consid. 3.2** ha stabilito una prassi rigorosa: gli attestati del diritto di voto devono essere ottenuti presso l'ufficio competente entro il termine di raccolta. Sono escluse sanazioni successive (Epiney/Diezig, BSK BV, Art. 139 N. 10).
+**N. 8** Il termine di 18 mesi inizia a decorrere dalla pubblicazione ufficiale del testo dell'iniziativa nel Foglio federale (art. 69 cpv. 1 LDP). La **DTF 131 II 449 consid. 3.2** ha stabilito una prassi rigorosa: gli attestati del diritto di voto devono essere ottenuti presso l'ufficio competente entro il termine di raccolta. Sono escluse sanazioni successive.
 
 ### 3.2 Forme dell'iniziativa (cpv. 2)
 
@@ -32,17 +32,17 @@
 
 ### 3.3 Motivi di nullità (cpv. 3)
 
-**N. 11** L'unità della forma richiede che un'iniziativa sia presentata o come proposta generale o come progetto elaborato, ma non come forma mista (Epiney/Diezig, BSK BV, Art. 139 N. 22–24). La **DTF 129 I 381 consid. 2** ha confermato che le iniziative miste devono essere dichiarate nulle integralmente. Una suddivisione non è prevista dal diritto federale, anche se alcuni Cantoni la conoscono nel loro diritto.
+**N. 11** L'unità della forma richiede che un'iniziativa sia presentata o come proposta generale o come progetto elaborato, ma non come forma mista. La **DTF 129 I 381 consid. 2** ha confermato che le iniziative miste devono essere dichiarate nulle integralmente. Una suddivisione non è prevista dal diritto federale, anche se alcuni Cantoni la conoscono nel loro diritto.
 
-**N. 12** L'unità della materia richiede un nesso materiale tra tutte le parti di un'iniziativa. La **DTF 129 I 366 consid. 2** ha precisato: gli aventi diritto di voto non devono essere posti in una situazione coercitiva in cui devono accettare parti che vorrebbero rifiutare. Il test è oggettivo: potrebbe un cittadino ragionevole voler valutare diversamente parti diverse per motivi materiali (Epiney/Diezig, BSK BV, Art. 139 N. 25–32)?
+**N. 12** L'unità della materia richiede un nesso materiale tra tutte le parti di un'iniziativa. La **DTF 129 I 366 consid. 2** ha precisato: gli aventi diritto di voto non devono essere posti in una situazione coercitiva in cui devono accettare parti che vorrebbero rifiutare. Il test è oggettivo: potrebbe un cittadino ragionevole voler valutare diversamente parti diverse per motivi materiali?
 
-**N. 13** Il diritto internazionale cogente (ius cogens) comprende secondo la prassi del Consiglio federale almeno: il divieto di tortura, di genocidio, di schiavitù, il divieto dell'uso della forza, il principio del non-refoulement e le garanzie inderogabili della CEDU (FF 2010 2263, 2291). Questa enumerazione non è esaustiva; il concetto si sviluppa con il diritto internazionale (Epiney/Diezig, BSK BV, Art. 139 N. 35).
+**N. 13** Il diritto internazionale cogente (ius cogens) comprende secondo la prassi del Consiglio federale almeno: il divieto di tortura, di genocidio, di schiavitù, il divieto dell'uso della forza, il principio del non-refoulement e le garanzie inderogabili della CEDU (FF 2010 2263, 2291). Questa enumerazione non è esaustiva; il concetto si sviluppa con il diritto internazionale.
 
 **N. 14** L'impossibilità pratica di attuazione è riconosciuta da Consiglio federale e Assemblea federale come motivo implicito di nullità, ma non trova fondamento espresso nell'art. 139 cpv. 3 Cost. La prassi è estremamente prudente: solo in caso di evidente impossibilità di attuazione un'iniziativa viene dichiarata nulla (FF 2008 2891, 2907–2908 relativo all'iniziativa sull'oro).
 
 ## 4. Conseguenze giuridiche
 
-**N. 15** Le iniziative dichiarate valide sotto forma di proposta generale portano a una procedura in due fasi secondo il cpv. 4: in caso di approvazione dell'Assemblea federale, questa elabora un progetto. In caso di rifiuto, decide dapprima il popolo sulla proposta. Solo in caso di approvazione del popolo l'Assemblea federale deve attivarsi (Epiney/Diezig, BSK BV, Art. 139 N. 51–52).
+**N. 15** Le iniziative dichiarate valide sotto forma di proposta generale portano a una procedura in due fasi secondo il cpv. 4: in caso di approvazione dell'Assemblea federale, questa elabora un progetto. In caso di rifiuto, decide dapprima il popolo sulla proposta. Solo in caso di approvazione del popolo l'Assemblea federale deve attivarsi.
 
 **N. 16** I progetti elaborati giungono direttamente alla votazione popolare (cpv. 5). L'Assemblea federale emette una raccomandazione di voto e può elaborare un controprogetto diretto o indiretto (artt. 139a e 139b Cost.). Il tasso di successo è storicamente di circa l'11% (24 su 216 iniziative sottoposte a votazione dal 1891, situazione a fine 2023).
 
@@ -50,7 +50,7 @@
 
 ## 5. Questioni controverse
 
-**N. 18** La portata del diritto internazionale cogente è fortemente controversa. Una parte della dottrina propugna un'interpretazione autonoma dal punto di vista costituzionale ed estesa, che comprenda anche trattati fondamentali come la CEDU o i Patti dell'ONU (Keller/Lanter/Fischer, Volksinitiativen und Völkerrecht, ZBl 2008, 121–154, 140–145). La dottrina dominante e la prassi seguono la definizione di diritto internazionale (Epiney/Diezig, BSK BV, Art. 139 N. 37; Reich, Direkte Demokratie und völkerrechtliche Verpflichtungen, ZaöRV 2008, 979–1025, 1005).
+**N. 18** La portata del diritto internazionale cogente è fortemente controversa. Una parte della dottrina propugna un'interpretazione autonoma dal punto di vista costituzionale ed estesa, che comprenda anche trattati fondamentali come la CEDU o i Patti dell'ONU (Keller/Lanter/Fischer, Volksinitiativen und Völkerrecht, ZBl 2008, 121–154, 140–145). La dottrina dominante e la prassi seguono la definizione di diritto internazionale (Reich, Direkte Demokratie und völkerrechtliche Verpflichtungen, ZaöRV 2008, 979–1025, 1005).
 
 **N. 19** Controversa è anche la questione di motivi di nullità supplementari. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3a ed. 2016, N. 2810–2815) sostengono il riconoscimento della violazione del contenuto essenziale dei diritti fondamentali come motivo di nullità. L'opinione contraria sottolinea il carattere conclusivo dell'art. 139 cpv. 3 Cost. (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4a ed. 2014, § 51 N. 28).
 

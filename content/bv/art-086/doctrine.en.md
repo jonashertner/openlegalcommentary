@@ -4,13 +4,13 @@
 
 **N. 1** Art. 86 Cst. establishes a constitutional foundation for the financing system for national roads and transport infrastructure in cities and agglomerations. The current version of Art. 86 Cst. is the result of several constitutional revisions, with the most significant change occurring with the creation of the National Roads and Agglomeration Transport Fund (NAF) on 1 January 2018. The foundation was the "National Roads and Agglomeration Transport Fund" proposal accepted by the people on 12 February 2017 (BBl 2015 1899).
 
-**N. 2** The historical development of road financing began under the Federal Constitution of 1874. Art. 36ter Cst. 1874 provided that federal customs revenues from fuels and combustibles as well as the net proceeds from any consumption tax had to be used for the needs of road traffic. With Art. 36quinquies Cst. 1874, the national road charge (vignette) was introduced in 1982 (Beusch, BSK BV, Art. 86 N. 1).
+**N. 2** The historical development of road financing began under the Federal Constitution of 1874. Art. 36ter Cst. 1874 provided that federal customs revenues from fuels and combustibles as well as the net proceeds from any consumption tax had to be used for the needs of road traffic. With Art. 36quinquies Cst. 1874, the national road charge (vignette) was introduced in 1982.
 
 **N. 3** The decisive paradigm shift occurred with the NAF proposal of 2017, which replaced the previous "special financing for road traffic" with an unlimited fund. The message emphasised the necessity of a long-term secured financing basis for the growing infrastructure tasks (BBl 2015 1899, 1901 ff.). The NAF combines the financing of national roads with that of agglomeration programmes and creates a more stable financing basis through the earmarking of various revenue sources.
 
 ## 2. Systematic Classification
 
-**N. 4** Art. 86 Cst. is located in Title 3 "Confederation, Cantons and Communes", Chapter 2 "Powers", Section 7 "Public Works and Transport". The provision is in close systematic connection with the other transport provisions, particularly → Art. 82 para. 3 Cst. (roads), → Art. 83 Cst. (national roads) and → Art. 85 Cst. (heavy vehicle charge). Together, these provisions form the constitutional foundation of Swiss transport infrastructure policy (Beusch, BSK BV, Art. 86 N. 4).
+**N. 4** Art. 86 Cst. is located in Title 3 "Confederation, Cantons and Communes", Chapter 2 "Powers", Section 7 "Public Works and Transport". The provision is in close systematic connection with the other transport provisions, particularly → Art. 82 para. 3 Cst. (roads), → Art. 83 Cst. (national roads) and → Art. 85 Cst. (heavy vehicle charge). Together, these provisions form the constitutional foundation of Swiss transport infrastructure policy.
 
 **N. 5** The financing provision is furthermore to be read together with → Art. 126 Cst. (budget management) and → Art. 131 Cst. (special consumption taxes). Art. 131 Cst. defines the tax bases whose proceeds are partially earmarked via Art. 86 Cst. The relationship to → Art. 85a Cst. (national road charge) is clarified by the direct allocation of proceeds to the NAF in Art. 86 para. 2 lit. a Cst.
 
@@ -22,7 +22,7 @@
 
 **N. 7** Paragraph 1 defines the purpose of use of the NAF: financing national roads as well as contributions to measures for improving transport infrastructure in cities and agglomerations. According to the interpretation of the Federal Office of Justice, the term "transport infrastructure" is to be understood comprehensively and includes all modes of transport, i.e. also rail, pedestrian and bicycle traffic (JAAC 70.1, BBl 2007 6373, 6381).
 
-**N. 8** The formulation "in connection with road traffic" limits the use to measures that have a functional connection to road traffic. According to the practice of the Federal Office of Justice, this connection exists not only with direct road infrastructure projects, but also when the measures lead to a concrete relief of specific roads (JAAC 70.1; Beusch, BSK BV, Art. 86 N. 22).
+**N. 8** The formulation "in connection with road traffic" limits the use to measures that have a functional connection to road traffic. According to the practice of the Federal Office of Justice, this connection exists not only with direct road infrastructure projects, but also when the measures lead to a concrete relief of specific roads (JAAC 70.1).
 
 ### 3.2 Financing Sources of the NAF (para. 2)
 
@@ -48,9 +48,9 @@
 
 ## 5. Disputes
 
-**N. 15** A central point of dispute concerns the legal nature of the national road charge. While the Federal Council assumed it was a fee with fiscal character (Beusch, BSK BV, Art. 86 N. 17), the prevailing doctrine qualifies the vignette as an expenditure tax, since the degree of use has no influence on the charge amount (Beusch, BSK BV, Art. 86 N. 17; Reich, Steuerrecht, § 2 N. 45).
+**N. 15** A central point of dispute concerns the legal nature of the national road charge. While the Federal Council assumed it was a fee with fiscal character, the prevailing doctrine qualifies the vignette as an expenditure tax, since the degree of use has no influence on the charge amount (Reich, Steuerrecht, § 2 N. 45).
 
-**N. 16** The use of road traffic revenues for rail infrastructure in agglomerations was controversially discussed. The popular initiative "For fair transport financing" demanded that the entire net proceeds should be used exclusively for road traffic (Beusch, BSK BV, Art. 86 N. 23). The Federal Office of Justice, on the other hand, took the position that proceeds from the fuel tax may be used for the infrastructure of all modes of transport, insofar as this provides concrete relief for specific roads (VPB 70.1).
+**N. 16** The use of road traffic revenues for rail infrastructure in agglomerations was controversially discussed. The popular initiative "For fair transport financing" demanded that the entire net proceeds should be used exclusively for road traffic. The Federal Office of Justice, on the other hand, took the position that proceeds from the fuel tax may be used for the infrastructure of all modes of transport, insofar as this provides concrete relief for specific roads (VPB 70.1).
 
 **N. 17** The delimitation between NAF-eligible agglomeration projects and pure local traffic measures is disputed in practice. The criteria for co-financing by the Confederation are specified at the ordinance level, whereby the requirement of supra-regional benefit sometimes leads to delimitation difficulties.
 

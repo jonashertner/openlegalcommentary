@@ -2,7 +2,7 @@
 
 ## 1. Genesi storica
 
-**N. 1** L'art. 98 Cost. corrisponde in larga misura all'art. 31bis cpv. 2 aCost. (banche e borse) nonché all'art. 34 cpv. 2 aCost. (assicurazioni private). La norma è stata sistematicamente inserita nella parte economica durante la revisione totale del 1999. Secondo Kaufmann/Utz (BSK BV, Art. 98 N. 1), il Consiglio federale constata: «Praticamente non cambia nulla», poiché la Confederazione già in precedenza poteva emanare prescrizioni sull'«esercizio del commercio e dell'industria» basandosi sull'art. 31bis cpv. 2 aCost.
+**N. 1** L'art. 98 Cost. corrisponde in larga misura all'art. 31bis cpv. 2 aCost. (banche e borse) nonché all'art. 34 cpv. 2 aCost. (assicurazioni private). La norma è stata sistematicamente inserita nella parte economica durante la revisione totale del 1999. Secondo Kaufmann/Utz, il Consiglio federale constata: «Praticamente non cambia nulla», poiché la Confederazione già in precedenza poteva emanare prescrizioni sull'«esercizio del commercio e dell'industria» basandosi sull'art. 31bis cpv. 2 aCost.
 
 **N. 2** La nascita del diritto svizzero dei mercati finanziari è stata caratterizzata in modo determinante dalle crisi. La legge sulle banche del 1934 nacque come reazione alla crisi bancaria dei primi anni Trenta (FF 1934 I 171 segg.). La creazione dell'autorità di vigilanza integrata sui mercati finanziari FINMA nel 2009 seguì la crisi finanziaria del 2008 (FF 2006 2829 segg.).
 
@@ -12,21 +12,21 @@
 
 **N. 4** L'art. 98 Cost. fa parte della 3a sezione «Ordinamento economico» ed è strettamente collegato all'art. 97 Cost. (protezione dei consumatori) nonché all'art. 94 cpv. 4 Cost. (principio della libertà economica). La norma conferisce alla Confederazione una competenza legislativa globale nell'ambito dei mercati finanziari.
 
-**N. 5** La disposizione non è una norma organizzativa, bensì una pura norma di competenza. La configurazione istituzionale della vigilanza sui mercati finanziari avvenne mediante la LFINMA (RS 956.1). Kaufmann/Utz (BSK BV, Art. 98 N. 32–35) spiegano che la FINMA è concepita come istituto di diritto pubblico con personalità giuridica propria.
+**N. 5** La disposizione non è una norma organizzativa, bensì una pura norma di competenza. La configurazione istituzionale della vigilanza sui mercati finanziari avvenne mediante la LFINMA (RS 956.1). Kaufmann/Utz spiegano che la FINMA è concepita come istituto di diritto pubblico con personalità giuridica propria.
 
 **N. 6** Per il rapporto con il diritto cantonale si applica → art. 49 Cost. (primato del diritto federale). I Cantoni conservano tuttavia le competenze per gli istituti di assicurazione di diritto pubblico, come chiarì la **DTF 138 I 378**. I collegamenti trasversali con → art. 122 Cost. (diritto civile) e → art. 123 Cost. (diritto penale) sono rilevanti per gli aspetti di diritto civile e penale del mercato finanziario.
 
 ## 3. Elementi costitutivi / Contenuto normativo
 
-**N. 7** **Sistema bancario (cpv. 1)**: Il Tribunale federale definisce nella giurisprudenza costante (BSK BV, Art. 98 N. 12): «Vi è accettazione di depositi del pubblico quando una persona assume a titolo professionale obbligazioni verso terzi, diventando così debitrice del rimborso». La definizione comprende banche commerciali classiche, casse di risparmio, banche private e nuove forme come piattaforme di crowdfunding.
+**N. 7** **Sistema bancario (cpv. 1)**: Il Tribunale federale definisce nella giurisprudenza costante: «Vi è accettazione di depositi del pubblico quando una persona assume a titolo professionale obbligazioni verso terzi, diventando così debitrice del rimborso». La definizione comprende banche commerciali classiche, casse di risparmio, banche private e nuove forme come piattaforme di crowdfunding.
 
-**N. 8** **Sistema borsistico (cpv. 1)**: Non sono contemplate solo le borse valori tradizionali, ma anche i sistemi multilaterali di negoziazione (MTF) e i sistemi organizzati di negoziazione (OTF). Kaufmann/Utz (BSK BV, Art. 98 N. 17–21) sottolineano l'interpretazione tecnologicamente neutra considerando le piattaforme di negoziazione elettroniche.
+**N. 8** **Sistema borsistico (cpv. 1)**: Non sono contemplate solo le borse valori tradizionali, ma anche i sistemi multilaterali di negoziazione (MTF) e i sistemi organizzati di negoziazione (OTF). Kaufmann/Utz sottolineano l'interpretazione tecnologicamente neutra considerando le piattaforme di negoziazione elettroniche.
 
 **N. 9** **Posizione particolare delle banche cantonali (cpv. 1)**: Questa formulazione consente regolamentazioni differenziate, ma non vieta la parità di trattamento. Secondo Kaufmann/Utz, la particolarità è giustificata principalmente dalla proprietà e da eventuali garanzie statali, non da una posizione speciale di diritto costituzionale.
 
 **N. 10** **Servizi finanziari in altri settori (cpv. 2)**: Questa clausola generale contempla la gestione patrimoniale, la consulenza in investimenti, i servizi di pagamento e nuovi modelli commerciali come il commercio di criptovalute. La formulazione «può» conferisce al legislatore un margine di valutazione se e come regolamentare.
 
-**N. 11** **Sistema assicurativo privato (cpv. 3)**: La competenza comprende l'intera economia assicurativa privata. Secondo Kaufmann/Utz (BSK BV, Art. 98 N. 52), il Tribunale federale identifica cinque caratteristiche centrali: «Rischio, prestazione dell'assicurato, prestazione dell'assicuratore, indipendenza dell'operazione e compensazione dei rischi secondo le leggi della statistica».
+**N. 11** **Sistema assicurativo privato (cpv. 3)**: La competenza comprende l'intera economia assicurativa privata. Secondo Kaufmann/Utz, il Tribunale federale identifica cinque caratteristiche centrali: «Rischio, prestazione dell'assicurato, prestazione dell'assicuratore, indipendenza dell'operazione e compensazione dei rischi secondo le leggi della statistica».
 
 ## 4. Conseguenze giuridiche
 
@@ -34,11 +34,11 @@
 
 **N. 13** L'esercizio della competenza è facoltativo. La Confederazione non deve regolamentare, ma può. Ha tuttavia legiferato, il diritto federale prevale sul diritto cantonale (→ art. 49 Cost.). I Cantoni non possono emanare prescrizioni contraddittorie.
 
-**N. 14** Il vincolo ai diritti fondamentali della FINMA è controverso. Kaufmann/Utz (BSK BV, Art. 98 N. 39) fanno riferimento al → art. 35 cpv. 2 Cost., secondo cui i diritti fondamentali vanno rispettati anche nell'adempimento di compiti statali da parte di privati. La FINMA come istituto di diritto pubblico soggiace al pieno vincolo ai diritti fondamentali.
+**N. 14** Il vincolo ai diritti fondamentali della FINMA è controverso. Kaufmann/Utz fanno riferimento al → art. 35 cpv. 2 Cost., secondo cui i diritti fondamentali vanno rispettati anche nell'adempimento di compiti statali da parte di privati. La FINMA come istituto di diritto pubblico soggiace al pieno vincolo ai diritti fondamentali.
 
 ## 5. Controversie
 
-**N. 15** **Natura giuridica del regolamento di quotazione**: La concezione più recente, rappresentata da Weber (Börsenrecht Kommentar, 2a ed. 2013) e Böckli (Schweizer Aktienrecht, 4a ed. 2009), qualifica il regolamento di quotazione come norme giuridiche emanate dalla borsa basandosi su una norma di delega. Il Tribunale federale ha lasciato aperta questa questione secondo Kaufmann/Utz (BSK BV, Art. 98 N. 43).
+**N. 15** **Natura giuridica del regolamento di quotazione**: La concezione più recente, rappresentata da Weber (Börsenrecht Kommentar, 2a ed. 2013) e Böckli (Schweizer Aktienrecht, 4a ed. 2009), qualifica il regolamento di quotazione come norme giuridiche emanate dalla borsa basandosi su una norma di delega. Il Tribunale federale ha lasciato aperta questa questione secondo Kaufmann/Utz.
 
 **N. 16** **Portata degli obblighi di vigilanza**: Breining-Kaufmann/Weber (HAVE 2008, 89 segg.) favoriscono una responsabilità statale estensiva per la vigilanza carente sui mercati finanziari. Contro ciò argomentano Biaggini (FS Zobl 2004, 585 segg.) e Nobel (Finanzmarktrecht, 3a ed. 2010, N. 234) che la vigilanza si rivolge principalmente ai rischi sistemici, non alla protezione dei singoli investitori.
 

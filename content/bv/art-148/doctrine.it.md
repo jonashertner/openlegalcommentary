@@ -18,13 +18,13 @@
 
 ### Potere supremo (cpv. 1)
 
-**N. 6** Il concetto di «potere supremo» si è sviluppato storicamente e comprende secondo Thurnherr sia la funzione legislativa sia determinate funzioni di governo e di controllo (Thurnherr, BSK BV, art. 148 N. 3-5). La supremazia si esprime in diverse dimensioni.
+**N. 6** Il concetto di «potere supremo» si è sviluppato storicamente e comprende secondo Thurnherr sia la funzione legislativa sia determinate funzioni di governo e di controllo. La supremazia si esprime in diverse dimensioni.
 
-**N. 7** **Portata controversa:** La dottrina è divisa sulla portata della supremazia parlamentare. Eichenberger sostiene un'interpretazione ampia: il potere supremo comprende tutte le funzioni legislative e governative (Eichenberger, BSK BV, art. 148 N. 21). Aubert/Mahon e Sägesser seguono questo approccio ampio (Thurnherr, BSK BV, art. 148 N. 24-25).
+**N. 7** **Portata controversa:** La dottrina è divisa sulla portata della supremazia parlamentare. Eichenberger sostiene un'interpretazione ampia: il potere supremo comprende tutte le funzioni legislative e governative. Aubert/Mahon e Sägesser seguono questo approccio ampio.
 
-**N. 8** Al contrario, Tschannen propugna un'interpretazione restrittiva: la supremazia sussiste solo nella misura in cui l'Assemblea federale può costituire o controllare altre autorità federali, senza essere essa stessa sottoposta a un controcontrollo (Thurnherr, BSK BV, art. 148 N. 26). Biaggini segue questa visione restrittiva e limita la posizione di preminenza alle elezioni, all'alta vigilanza e ai conflitti di competenza (Thurnherr, BSK BV, art. 148 N. 28).
+**N. 8** Al contrario, Tschannen propugna un'interpretazione restrittiva: la supremazia sussiste solo nella misura in cui l'Assemblea federale può costituire o controllare altre autorità federali, senza essere essa stessa sottoposta a un controcontrollo. Biaggini segue questa visione restrittiva e limita la posizione di preminenza alle elezioni, all'alta vigilanza e ai conflitti di competenza.
 
-**N. 9** Mastronardi assume una posizione intermedia: si collega alla definizione di Tschannen, ma estende il cerchio alla legislazione e ad altre competenze (Thurnherr, BSK BV, art. 148 N. 29).
+**N. 9** Mastronardi assume una posizione intermedia: si collega alla definizione di Tschannen, ma estende il cerchio alla legislazione e ad altre competenze.
 
 ### Riserva dei diritti popolari
 

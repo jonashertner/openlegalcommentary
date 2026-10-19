@@ -43,7 +43,7 @@
 
 **N° 11** En doctrine, il est controversé de savoir si l'art. 154 Cst. fonde aussi un droit à un financement adéquat des groupes. **Häfelin/Haller/Keller/Thurnherr** (Schweizerisches Bundesstaatsrecht, 10e éd. 2020, N° 1623) affirment l'existence d'une prétention minimale de droit constitutionnel, car sans moyens financiers le travail de groupe serait factuellement impossible. **Müller/Schefer** (Grundrechte in der Schweiz, 4e éd. 2008, p. 892) considèrent en revanche le financement comme une pure question d'aménagement du règlement.
 
-**N° 12** La question de la taille minimale est aussi discutée de manière controversée. Alors que **Rhinow/Schefer/Uebersax** (op. cit., N° 3246) considèrent la limite de cinq comme appropriée, **Waldmann** (BSK BV, 2e éd. 2024, art. 154 N° 7) plaide pour une approche plus flexible qui s'oriente selon les rapports de taille des chambres.
+**N° 12** La question de la taille minimale est aussi discutée de manière controversée. Alors que **Rhinow/Schefer/Uebersax** (op. cit., N° 3246) considèrent la limite de cinq comme appropriée, **Waldmann** plaide pour une approche plus flexible qui s'oriente selon les rapports de taille des chambres.
 
 ### 6. Indications pratiques
 

@@ -4,7 +4,7 @@
 
 Art. 11 BV schützt Kinder und Jugendliche auf zwei Ebenen. Erstens haben sie Anspruch auf besonderen Schutz ihrer Unversehrtheit. Dies umfasst körperliche, psychische und sexuelle Gewalt. Zweitens müssen ihre Entwicklung gefördert werden. Dazu gehören Bildung, Gesundheitsvorsorge und altersgerechte Betreuung.
 
-**Was regelt die Norm?** Art. 11 Abs. 1 BV verpflichtet den Staat zu aktivem Schutz der Kinder. Gemäss **Tschentscher, BSK BV, Art. 11 N. 14** folgt daraus ein Grundrecht auf gewaltfreie Erziehung. Das Bundesgericht wendet Art. 11 BV bei Familiennachzug (**BGE 144 II 1**), Scheidungsverfahren (**BGE 142 III 481**) und religiösen Konflikten an (**BGE 135 I 79**). Die Norm hat eigenständigen normativen Gehalt und ist mehr als eine Verstärkung bestehender Rechte (**Tschentscher, BSK BV, Art. 11 N. 1**).
+**Was regelt die Norm?** Art. 11 Abs. 1 BV verpflichtet den Staat zu aktivem Schutz der Kinder. Gemäss **Tschentscher, BSK BV, Art. 11 N. 14** folgt daraus ein Grundrecht auf gewaltfreie Erziehung. Das Bundesgericht wendet Art. 11 BV bei Familiennachzug (**BGE 144 II 1**), Scheidungsverfahren (**BGE 142 III 481**) und religiösen Konflikten an (**BGE 135 I 79**). Die Norm hat eigenständigen normativen Gehalt und ist mehr als eine Verstärkung bestehender Rechte.
 
 **Wer ist betroffen?** Kinder und Jugendliche bis 18 Jahre. Aber auch Eltern, Behörden und Schulen müssen diese Rechte beachten. Das Bundesgericht hörte ab 11-12 Jahren Kinder in Verfahren an (**BGE 133 III 146**). 
 

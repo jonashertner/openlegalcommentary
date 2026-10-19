@@ -2,7 +2,7 @@
 
 Art. 148 BV legt fest, dass die Bundesversammlung die oberste Macht im Bund hat. Diese oberste Gewalt ist jedoch durch die Rechte von Volk und Ständen begrenzt. Die Bundesversammlung besteht aus zwei gleichberechtigten Kammern: dem Nationalrat und dem Ständerat.
 
-**Was regelt die Norm?** Die Bestimmung definiert die Bundesversammlung als höchste staatliche Behörde der Schweiz. Nach der Botschaft zur neuen Bundesverfassung bildet Art. 148 BV die «verfassungsrechtliche Grundlage des gesamten Parlamentsrechts» (BBl 1997 I 404). Die oberste Gewalt umfasst nach der Lehre sowohl Rechtsetzungs- als auch bestimmte Regierungsfunktionen, wobei der genaue Umfang umstritten ist (Thurnherr, BSK BV, Art. 148 N. 3-5).
+**Was regelt die Norm?** Die Bestimmung definiert die Bundesversammlung als höchste staatliche Behörde der Schweiz. Nach der Botschaft zur neuen Bundesverfassung bildet Art. 148 BV die «verfassungsrechtliche Grundlage des gesamten Parlamentsrechts» (BBl 1997 I 404). Die oberste Gewalt umfasst nach der Lehre sowohl Rechtsetzungs- als auch bestimmte Regierungsfunktionen, wobei der genaue Umfang umstritten ist.
 
 **Wer ist betroffen?** Alle Bundesbehörden und Bürgerinnen und Bürger sind von der parlamentarischen Suprematie betroffen. Die Bundesversammlung wählt den Bundesrat und die Bundesrichter (→ Art. 168, 175 BV) und kontrolliert deren Tätigkeit (→ Art. 169 BV). Gleichzeitig haben Volk und Stände das Recht, parlamentarische Entscheide durch Referenden zu blockieren (→ Art. 140, 141 BV).
 

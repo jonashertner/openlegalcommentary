@@ -37,7 +37,7 @@
 
 ## 4. Rechtsfolgen
 
-**N. 9** Kommt die Initiative mit 100'000 gültigen Unterschriften zustande, ist sie zwingend dem Volk zur Abstimmung zu unterbreiten. Die Bundesversammlung hat keine materielle Prüfungskompetenz und kann die Initiative weder für ungültig erklären noch einen Gegenvorschlag unterbreiten (Ehrenzeller, BSK BV, 2. Aufl. 2024, Art. 138 N 15).
+**N. 9** Kommt die Initiative mit 100'000 gültigen Unterschriften zustande, ist sie zwingend dem Volk zur Abstimmung zu unterbreiten. Die Bundesversammlung hat keine materielle Prüfungskompetenz und kann die Initiative weder für ungültig erklären noch einen Gegenvorschlag unterbreiten.
 
 **N. 10** Nimmt das Volk die Initiative an, löst dies das Totalrevisionsverfahren nach Art. 193 Abs. 2-4 BV aus:
 1. Neuwahl beider Räte

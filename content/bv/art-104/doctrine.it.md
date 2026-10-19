@@ -6,7 +6,7 @@
 
 **N. 2** Il messaggio sulla nuova Costituzione federale sottolinea il cambiamento di paradigma dalla pura promozione della produzione all'agricoltura multifunzionale: «L'agricoltura non deve solo produrre derrate alimentari, ma anche contribuire alla conservazione delle basi naturali della vita, alla cura del paesaggio rurale e al popolamento decentrato» (FF 1997 I 247). Questo cambiamento era già delineato nella Politica agricola 2002 ed è stato ancorato costituzionalmente con l'art. 104 Cost. (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4ª ed. 2023, Art. 104 n. 3).
 
-**N. 3** Il termine multifunzionalità è stato scelto consapevolmente per cogliere i diversi servizi dell'agricoltura per la società. L'assemblea costituente ha respinto formulazioni che si riferivano esclusivamente alla funzione produttiva (Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, Art. 104 n. 4).
+**N. 3** Il termine multifunzionalità è stato scelto consapevolmente per cogliere i diversi servizi dell'agricoltura per la società. L'assemblea costituente ha respinto formulazioni che si riferivano esclusivamente alla funzione produttiva.
 
 ## 2. Collocazione sistematica
 
@@ -27,7 +27,7 @@
 - **Conservazione delle basi naturali della vita (lett. b)**: Biodiversità, protezione del suolo, protezione delle acque
 - **Popolamento decentrato (lett. c)**: Prevenzione dell'esodo rurale, conservazione dell'infrastruttura nelle regioni rurali
 
-**N. 9** Il «contributo essenziale» non richiede un'autosufficienza completa, ma una produzione interna sostanziale. La dottrina dominante parte da un grado di autoapprovvigionamento di almeno il 50% (Waldmann et al., BSK BV, Art. 104 n. 12; opinione diversa Müller/Schefer, Grundrechte in der Schweiz, 4ª ed. 2008, p. 892, che fanno riferimento alla dipendenza dalle importazioni della Svizzera).
+**N. 9** Il «contributo essenziale» non richiede un'autosufficienza completa, ma una produzione interna sostanziale. La dottrina dominante parte da un grado di autoapprovvigionamento di almeno il 50% (opinione diversa Müller/Schefer, Grundrechte in der Schweiz, 4ª ed. 2008, p. 892, che fanno riferimento alla dipendenza dalle importazioni della Svizzera).
 
 ### 3.2 Promozione di aziende agricole che coltivano il suolo (cpv. 2)
 
@@ -51,7 +51,7 @@
 
 ## 5. Controversie
 
-**N. 17** **Portata della multifunzionalità**: Ehrenzeller et al. (St. Galler Kommentar BV, Art. 104 n. 9) sottolineano l'equivalenza di tutte e tre le funzioni. Waldmann et al. (BSK BV, Art. 104 n. 15) vedono invece una precedenza della funzione produttiva, poiché solo una «produzione orientata al mercato» può adempiere le altre funzioni. La prassi del Tribunale federale tende a una considerazione equilibrata (**2C_397/2021 consid. 4.1**).
+**N. 17** **Portata della multifunzionalità**: Ehrenzeller et al. (St. Galler Kommentar BV, Art. 104 n. 9) sottolineano l'equivalenza di tutte e tre le funzioni. Waldmann et al. vedono invece una precedenza della funzione produttiva, poiché solo una «produzione orientata al mercato» può adempiere le altre funzioni. La prassi del Tribunale federale tende a una considerazione equilibrata (**2C_397/2021 consid. 4.1**).
 
 **N. 18** **Compatibilità con il diritto OMC**: Müller (in: Ehrenzeller et al., St. Galler Kommentar BV, Art. 104 n. 24) vede i pagamenti diretti come conformi alla «green box». Cottier/Oesch (Internationales Wirtschaftsrecht, 2ª ed. 2019, p. 456) mettono in guardia da elementi protezionistici che potrebbero essere contrari all'OMC. Il Tribunale federale ha finora lasciato aperta questa questione.
 

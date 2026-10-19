@@ -4,9 +4,9 @@
 
 ### 1. Storia della genesi
 
-**N. 1** L'inserimento di un articolo sui partiti nella Costituzione federale è stato discusso intensamente nel quadro della revisione totale. La commissione costituzionale del Consiglio degli Stati voleva originariamente includere una regolamentazione più completa con disposizioni sul finanziamento dei partiti. Tuttavia, nella procedura parlamentare si impose una soluzione minimalista. Il relatore del Consiglio degli Stati chiarì: «La commissione è chiaramente del parere che questa disposizione non costituisce una base di finanziamento» (Tschannen, BSK BV, Art. 137 N. 24). Il messaggio del Consiglio federale del 20 novembre 1996 sulla nuova Costituzione federale (FF 1997 I 1, 347) sottolineò che con l'art. 137 si voleva soltanto riconoscere costituzionalmente il ruolo fattuale dei partiti, senza fondare nuovi diritti o doveri.
+**N. 1** L'inserimento di un articolo sui partiti nella Costituzione federale è stato discusso intensamente nel quadro della revisione totale. La commissione costituzionale del Consiglio degli Stati voleva originariamente includere una regolamentazione più completa con disposizioni sul finanziamento dei partiti. Tuttavia, nella procedura parlamentare si impose una soluzione minimalista. Il relatore del Consiglio degli Stati chiarì: «La commissione è chiaramente del parere che questa disposizione non costituisce una base di finanziamento». Il messaggio del Consiglio federale del 20 novembre 1996 sulla nuova Costituzione federale (FF 1997 I 1, 347) sottolineò che con l'art. 137 si voleva soltanto riconoscere costituzionalmente il ruolo fattuale dei partiti, senza fondare nuovi diritti o doveri.
 
-**N. 2** Nella procedura di consultazione si discusse controversamente se la disposizione dovesse avere carattere puramente descrittivo o normativo. I protocolli consiliari mostrano che la maggioranza della commissione intendeva l'art. 137 come meramente descrittivo (Frick, citato in Tschannen, BSK BV, Art. 137 N. 6). Tuttavia, nella dottrina si affermò l'opinione che l'articolo sui partiti vada inteso normativamente, anche se il suo contenuto regolativo può essere modesto (Tschannen, BSK BV, Art. 137 N. 2).
+**N. 2** Nella procedura di consultazione si discusse controversamente se la disposizione dovesse avere carattere puramente descrittivo o normativo. I protocolli consiliari mostrano che la maggioranza della commissione intendeva l'art. 137 come meramente descrittivo. Tuttavia, nella dottrina si affermò l'opinione che l'articolo sui partiti vada inteso normativamente, anche se il suo contenuto regolativo può essere modesto.
 
 ### 2. Classificazione sistematica
 
@@ -24,7 +24,7 @@
 - vogliono partecipare alla formazione dell'opinione e della volontà politica
 - partecipano alle elezioni e alle votazioni
 
-**N. 7** La forma giuridica non è determinante. I partiti si organizzano regolarmente come associazioni secondo gli art. 60 seg. CC, ma possono esistere anche informalmente. Determinante è la funzione fattuale nel sistema politico (Tschannen, BSK BV, Art. 137 N. 8–10). Il controverso registro dei partiti a livello federale (art. 76a cpv. 1 LDP) non cambia nulla nella libertà di forma di principio, ma è criticato da parte della dottrina come violazione dell'uguaglianza politica (Schiess Rütimann, ZBl 2006, 512 seg.).
+**N. 7** La forma giuridica non è determinante. I partiti si organizzano regolarmente come associazioni secondo gli art. 60 seg. CC, ma possono esistere anche informalmente. Determinante è la funzione fattuale nel sistema politico. Il controverso registro dei partiti a livello federale (art. 76a cpv. 1 LDP) non cambia nulla nella libertà di forma di principio, ma è criticato da parte della dottrina come violazione dell'uguaglianza politica (Schiess Rütimann, ZBl 2006, 512 seg.).
 
 **N. 8** **«concorrono ...»**: La partecipazione comprende tutte le forme legittime di attività politica: organizzazione di campagne elettorali, lancio di iniziative e referendum, prese di posizione su questioni politiche, reclutamento e formazione di personale politico, lavoro dei gruppi parlamentari (→ Art. 61 LParl). La formulazione è volutamente aperta e non esclude nuove forme di partecipazione politica.
 
@@ -34,7 +34,7 @@
 
 ### 4. Conseguenze giuridiche
 
-**N. 11** L'art. 137 Cost. secondo la dottrina dominante non fonda diritti soggettivi immediati dei partiti (Tschannen, BSK BV, Art. 137 N. 4; Rhinow, recht 1986, 117). La disposizione ha primariamente carattere oggettivo-giuridico e riconosce i partiti come istituzioni necessarie della democrazia.
+**N. 11** L'art. 137 Cost. secondo la dottrina dominante non fonda diritti soggettivi immediati dei partiti (Rhinow, recht 1986, 117). La disposizione ha primariamente carattere oggettivo-giuridico e riconosce i partiti come istituzioni necessarie della democrazia.
 
 **N. 12** Come garanzia istituzionale, l'art. 137 Cost. obbliga il legislatore a configurare le condizioni quadro per l'attività dei partiti in modo che questi possano adempiere la loro funzione costituzionale. Ciò include:
 - garanzia della libertà di associazione per scopi politici
@@ -46,7 +46,7 @@
 
 ### 5. Controversie
 
-**N. 14** **Natura giuridica dell'art. 137 Cost.**: Il punto controverso centrale riguarda la natura giuridica della disposizione. Frick (citato in Tschannen, BSK BV, Art. 137 N. 6) sostiene, richiamandosi ai dibattiti consiliari, la posizione che l'art. 137 sia puramente dichiarativo. Al contrario, Tschannen (BSK BV, Art. 137 N. 2) sottolinea che l'articolo sui partiti deve essere inteso normativamente, anche se il contenuto regolativo può essere modesto. Questa controversia ha conseguenze pratiche per la derivazione di diritti e doveri concreti dalla disposizione.
+**N. 14** **Natura giuridica dell'art. 137 Cost.**: Il punto controverso centrale riguarda la natura giuridica della disposizione. Frick sostiene, richiamandosi ai dibattiti consiliari, la posizione che l'art. 137 sia puramente dichiarativo. Al contrario, Tschannen sottolinea che l'articolo sui partiti deve essere inteso normativamente, anche se il contenuto regolativo può essere modesto. Questa controversia ha conseguenze pratiche per la derivazione di diritti e doveri concreti dalla disposizione.
 
 **N. 15** **Finanziamento dei partiti**: È aspramente controversa la questione della trasparenza e del sostegno statale. Caroni (Geld und Politik, 2009, 234 seg.) sostiene obblighi di divulgazione completi secondo il modello internazionale. Voci conservative mettono in guardia da una statalizzazione dei partiti e sottolineano il loro carattere di diritto privato (Schmid, Politische Parteien, 1981, 156 seg.). Il legislatore si è finora mostrato prudente.
 

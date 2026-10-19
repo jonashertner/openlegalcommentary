@@ -48,7 +48,7 @@
 
 ### 5. Streitstände
 
-**N. 16** In der Lehre ist umstritten, ob Art. 191a Abs. 3 BV auch die Schaffung von Spezialgerichten im Zivilrecht ausserhalb des Patentrechts erlaubt. **Ehrenzeller/Schweizer** (SGK BV, Art. 191a N. 18) bejahen dies unter Hinweis auf den offenen Wortlaut. **Kiener** (BSK BV, Art. 191a N. 25) vertritt eine restriktivere Auslegung und fordert einen klaren sachlichen Grund für Spezialgerichte.
+**N. 16** In der Lehre ist umstritten, ob Art. 191a Abs. 3 BV auch die Schaffung von Spezialgerichten im Zivilrecht ausserhalb des Patentrechts erlaubt. **Ehrenzeller/Schweizer** (SGK BV, Art. 191a N. 18) bejahen dies unter Hinweis auf den offenen Wortlaut. **Kiener** vertritt eine restriktivere Auslegung und fordert einen klaren sachlichen Grund für Spezialgerichte.
 
 **N. 17** Kontrovers diskutiert wird die Frage der Mindestanforderungen an die Ausgestaltung der Bundesgerichte. **Griffel** (in: Verfassungsrecht der Schweiz, § 73 N. 45) fordert eine Mindestgrösse und organisatorische Selbständigkeit. **Biaggini** (BV Kommentar, Art. 191a N. 8) hält demgegenüber auch kleinere Einheiten für zulässig, solange die richterliche Unabhängigkeit gewährleistet ist.
 

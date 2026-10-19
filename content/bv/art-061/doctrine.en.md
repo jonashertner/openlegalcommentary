@@ -54,7 +54,7 @@
 
 **N. 17** In doctrine, it is disputed whether federal power under para. 2 also encompasses preventive measures to prevent disasters. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N. 1456) answer in the affirmative with the argument that effective population protection begins with prevention. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3rd ed. 2016, N. 3842) take a more restrictive interpretation and limit the power to dealing with events that have occurred.
 
-**N. 18** The question of whether the gender-specific regulation in para. 3 is still contemporary is also controversially discussed. Müller/Schefer (op. cit., p. 456) argue de lege ferenda for a gender-neutral formulation with reference to → Art. 8 para. 3 FC. The prevailing doctrine maintains the permissibility of the differentiation because the constitution explicitly provides for it (BSK BV-Waldmann/Belser/Epiney, 2nd ed. 2024, Art. 61 N. 8).
+**N. 18** The question of whether the gender-specific regulation in para. 3 is still contemporary is also controversially discussed. Müller/Schefer (op. cit., p. 456) argue de lege ferenda for a gender-neutral formulation with reference to → Art. 8 para. 3 FC. The prevailing doctrine maintains the permissibility of the differentiation because the constitution explicitly provides for it.
 
 **N. 19** Regarding the amount of income compensation under para. 4, opinions differ. While part of the doctrine demands full income compensation analogous to military service (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4th ed. 2014, § 42 N. 18), case law considers a reduced approach constitutionally compliant as long as it is not disproportionately low (**BGE 138 V 324**).
 

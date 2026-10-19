@@ -10,7 +10,7 @@
 
 ## 2. Systematische Einordnung
 
-**N. 4** Art. 140 BV bildet zusammen mit Art. 138 (Volksinitiative auf Totalrevision), Art. 139 (Volksinitiative auf Teilrevision) und Art. 141 (fakultatives Referendum) das Kernsystem der direktdemokratischen Mitwirkungsrechte auf Bundesebene. Die Bestimmung regelt abschliessend, in welchen Fällen ein obligatorisches Referendum durchzuführen ist (Epiney/Diezig, BSK BV, Art. 140 N. 10).
+**N. 4** Art. 140 BV bildet zusammen mit Art. 138 (Volksinitiative auf Totalrevision), Art. 139 (Volksinitiative auf Teilrevision) und Art. 141 (fakultatives Referendum) das Kernsystem der direktdemokratischen Mitwirkungsrechte auf Bundesebene. Die Bestimmung regelt abschliessend, in welchen Fällen ein obligatorisches Referendum durchzuführen ist.
 
 **N. 5** Das obligatorische Referendum nach Art. 140 Abs. 1 BV unterscheidet sich vom fakultativen Referendum (Art. 141 BV) durch drei Merkmale: Es erfolgt automatisch ohne Unterschriftensammlung, erfordert die Zustimmung von Volk und Ständen (doppeltes Mehr) und betrifft besonders wichtige Verfassungsgeschäfte.
 
@@ -22,11 +22,11 @@
 
 **N. 7** **Verfassungsänderungen (lit. a)**: Jede formelle Änderung der Bundesverfassung untersteht dem obligatorischen Referendum, unabhängig von ihrer materiellen Bedeutung. Dies umfasst auch rein redaktionelle Anpassungen oder die Aufhebung obsoleter Bestimmungen (→ Art. 195 BV).
 
-**N. 8** **Organisationen für kollektive Sicherheit (lit. b)**: Nach der bundesrätlichen Definition handelt es sich um universelle oder regionale Organisationen, die sich zum Ziel setzen, einem friedensbrechenden Angreiferstaat organisierten Widerstand zu leisten (Bundesrat, zit. in Epiney/Diezig, BSK BV, Art. 140 N. 17). Klassisches Beispiel wären die Vereinten Nationen mit ihrem Kapitel-VII-System.
+**N. 8** **Organisationen für kollektive Sicherheit (lit. b)**: Nach der bundesrätlichen Definition handelt es sich um universelle oder regionale Organisationen, die sich zum Ziel setzen, einem friedensbrechenden Angreiferstaat organisierten Widerstand zu leisten. Klassisches Beispiel wären die Vereinten Nationen mit ihrem Kapitel-VII-System.
 
-**N. 9** **Supranationale Gemeinschaften (lit. b)**: Der Bundesrat definiert diese als Organisationen mit unabhängigen Organen, die durch Mehrheitsbeschluss unmittelbar verbindliche Entscheide für Einzelpersonen erlassen können und über relativ umfassende materielle Befugnisse verfügen (Bundesrat, zit. in Epiney/Diezig, BSK BV, Art. 140 N. 18). Die EU erfüllt diese Kriterien unbestritten.
+**N. 9** **Supranationale Gemeinschaften (lit. b)**: Der Bundesrat definiert diese als Organisationen mit unabhängigen Organen, die durch Mehrheitsbeschluss unmittelbar verbindliche Entscheide für Einzelpersonen erlassen können und über relativ umfassende materielle Befugnisse verfügen. Die EU erfüllt diese Kriterien unbestritten.
 
-**N. 10** Umstritten ist die Einordnung des EWR: Epiney/Diezig (BSK BV, Art. 140 N. 19) sowie Hangartner/Kley bejahen die Supranationalität wegen der dynamischen Rechtsentwicklung und der Kompetenzen der EFTA-Überwachungsbehörde. Häfelin/Haller/Keller, Tschannen und Biaggini verneinen sie hingegen, da EWR-Recht nicht unmittelbar anwendbar ist und die Übernahme neuer Rechtsakte der Zustimmung der Vertragsparteien bedarf.
+**N. 10** Umstritten ist die Einordnung des EWR: Epiney/Diezig sowie Hangartner/Kley bejahen die Supranationalität wegen der dynamischen Rechtsentwicklung und der Kompetenzen der EFTA-Überwachungsbehörde. Häfelin/Haller/Keller, Tschannen und Biaggini verneinen sie hingegen, da EWR-Recht nicht unmittelbar anwendbar ist und die Übernahme neuer Rechtsakte der Zustimmung der Vertragsparteien bedarf.
 
 **N. 11** **Dringliche Bundesgesetze ohne Verfassungsgrundlage (lit. c)**: Diese seltene Konstellation betrifft nur Bundesgesetze, die kumulativ: (1) von der Bundesversammlung als dringlich erklärt wurden (→ Art. 165 BV), (2) keine Verfassungsgrundlage haben und (3) deren Geltungsdauer ein Jahr übersteigt. Sie müssen innerhalb eines Jahres nach Annahme zur Abstimmung gebracht werden.
 
@@ -50,9 +50,9 @@
 
 ## 5. Streitstände
 
-**N. 19** **Abschliessender Charakter**: Die herrschende Lehre (Epiney/Diezig, BSK BV, Art. 140 N. 10; Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, § 1383) vertritt, dass Art. 140 BV die Fälle des obligatorischen Referendums abschliessend regelt. Eine Minderheit plädiert für ein ausserordentliches obligatorisches Staatsvertragsreferendum bei besonders wichtigen völkerrechtlichen Verträgen, die nicht unter lit. b fallen (Schulte, Direkte Demokratie und Aussenpolitik, 287 ff.).
+**N. 19** **Abschliessender Charakter**: Die herrschende Lehre (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, § 1383) vertritt, dass Art. 140 BV die Fälle des obligatorischen Referendums abschliessend regelt. Eine Minderheit plädiert für ein ausserordentliches obligatorisches Staatsvertragsreferendum bei besonders wichtigen völkerrechtlichen Verträgen, die nicht unter lit. b fallen (Schulte, Direkte Demokratie und Aussenpolitik, 287 ff.).
 
-**N. 20** **Supranationalität des EWR**: Der Streit um die rechtliche Qualifikation des EWR spaltet die Lehre. Befürworter der Supranationalität (Epiney/Diezig, BSK BV, Art. 140 N. 19; Hangartner/Kley, Demokratische Rechte, § 831) verweisen auf die dynamische Rechtsentwicklung und die quasi-gerichtlichen Kompetenzen der EFTA-Überwachungsbehörde. Die Gegenmeinung (Häfelin/Haller/Keller, § 1932; Tschannen, Staatsrecht, § 15 N. 28; Biaggini, BV-Kommentar, Art. 140 N. 4) betont, dass EWR-Recht der Umsetzung bedarf und keine unmittelbare Wirkung entfaltet.
+**N. 20** **Supranationalität des EWR**: Der Streit um die rechtliche Qualifikation des EWR spaltet die Lehre. Befürworter der Supranationalität (Hangartner/Kley, Demokratische Rechte, § 831) verweisen auf die dynamische Rechtsentwicklung und die quasi-gerichtlichen Kompetenzen der EFTA-Überwachungsbehörde. Die Gegenmeinung (Häfelin/Haller/Keller, § 1932; Tschannen, Staatsrecht, § 15 N. 28; Biaggini, BV-Kommentar, Art. 140 N. 4) betont, dass EWR-Recht der Umsetzung bedarf und keine unmittelbare Wirkung entfaltet.
 
 **N. 21** **Begriff der kollektiven Sicherheit**: Villiger (FS Schindler, 805) vertritt eine weite Auslegung, die auch regionale Sicherheitsbündnisse mit begrenztem Mitgliederkreis erfasst. Die Mehrheitsmeinung (Thürer, SZIER 2005, 42; Ehrenzeller, FS Steinberger, 718) beschränkt den Begriff auf universelle oder quasi-universelle Systeme wie die UNO.
 

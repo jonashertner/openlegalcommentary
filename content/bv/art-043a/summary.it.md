@@ -4,7 +4,7 @@ L'art. 43a Cost. stabilisce i principi secondo i quali i compiti statali sono ri
 
 ## Chi è interessato?
 
-Tutti i livelli statali — Confederazione, Cantoni e Comuni — devono attenersi a questi principi nella ripartizione e nell'adempimento dei compiti. Tuttavia, secondo la dottrina unanime, la disposizione non ha giustiziabilità diretta (mancanza di azionabilità davanti al tribunale), come rileva Biaggini (BSK BV, art. 43a n. 5). Le cittadine e i cittadini non possono invocare direttamente l'art. 43a Cost.
+Tutti i livelli statali — Confederazione, Cantoni e Comuni — devono attenersi a questi principi nella ripartizione e nell'adempimento dei compiti. Tuttavia, secondo la dottrina unanime, la disposizione non ha giustiziabilità diretta (mancanza di azionabilità davanti al tribunale), come rileva Biaggini. Le cittadine e i cittadini non possono invocare direttamente l'art. 43a Cost.
 
 ## Cosa disciplina la norma?
 
@@ -12,7 +12,7 @@ Tutti i livelli statali — Confederazione, Cantoni e Comuni — devono atteners
 
 **Equivalenza fiscale (capoversi 2-3):** Chi beneficia delle prestazioni statali deve anche sopportarne i costi. In caso di utilità intercantonali, i costi devono essere ripartiti di conseguenza. Esempio: un ospedale nelle zone di confine cura pazienti dei Cantoni confinanti — questi devono partecipare ai costi.
 
-**Servizio di base (capoverso 4):** Confederazione e Cantoni assicurano insieme un servizio di base adeguato, ad esempio per posta, telefono o trasporti pubblici. Tuttavia, ciò non fa sorgere pretese concrete, come ha sottolineato il Consiglio federale (Biaggini, BSK BV, art. 43a n. 36).
+**Servizio di base (capoverso 4):** Confederazione e Cantoni assicurano insieme un servizio di base adeguato, ad esempio per posta, telefono o trasporti pubblici. Tuttavia, ciò non fa sorgere pretese concrete, come ha sottolineato il Consiglio federale.
 
 **Economicità (capoverso 5):** Tutti i livelli statali devono adempiere i loro compiti con parsimonia e in modo adeguato allo scopo. Il Tribunale federale ha confermato nella **DTF 147 II 227** che ciò comprende anche la rivendicazione di crediti statali.
 

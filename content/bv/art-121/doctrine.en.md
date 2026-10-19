@@ -16,15 +16,15 @@
 
 **N. 5** For the fundamental rights position of foreign nationals, particularly relevant are → Art. 8 BV (equality before the law), → Art. 13 BV (protection of privacy) and → Art. 25 BV (protection against expulsion). The norms of the ECHR, notably Art. 8 ECHR (right to respect for private and family life) and Art. 3 ECHR (prohibition of inhuman treatment), constitute applicable law according to → Art. 190 BV and limit the application of Art. 121 BV.
 
-**N. 6** A field of tension arises in relation to the Agreement on the Free Movement of Persons (AFMP) with the EU. According to Achermann, BSK BV, Art. 121 N. 27, the comprehensive federal competence enables the regulation of fundamentally all questions concerning the status and position of foreign nationals, while other authors emphasise that the Confederation cannot regulate integration without cooperation with the cantons (Achermann, BSK BV, Art. 121 N. 27).
+**N. 6** A field of tension arises in relation to the Agreement on the Free Movement of Persons (AFMP) with the EU. According to Achermann, BSK BV, Art. 121 N. 27, the comprehensive federal competence enables the regulation of fundamentally all questions concerning the status and position of foreign nationals, while other authors emphasise that the Confederation cannot regulate integration without cooperation with the cantons.
 
 ### 3. Elements of the Offence / Norm Content
 
 #### a) Legislative Competence (Para. 1)
 
-**N. 7** The federal competence under para. 1 is comprehensive and extends to entry and exit, residence, permanent residence as well as granting of asylum. According to **BGE 127 II 49**, this is an exclusive federal competence that also includes labour market policy measures. The prevailing doctrine recognises this comprehensive competence (Achermann, BSK BV, Art. 121 N. 33), whereby critical voices question the extension to labour market policy areas (Achermann, BSK BV, Art. 121 N. 33).
+**N. 7** The federal competence under para. 1 is comprehensive and extends to entry and exit, residence, permanent residence as well as granting of asylum. According to **BGE 127 II 49**, this is an exclusive federal competence that also includes labour market policy measures. The prevailing doctrine recognises this comprehensive competence, whereby critical voices question the extension to labour market policy areas.
 
-**N. 8** The asylum competence is, according to the message on the Federal Constitution, an exclusive federal jurisdiction (BBl 1997 I 1, 370), whereby this classification is disputed in the doctrine (Achermann, BSK BV, Art. 121 N. 42). The term «asylum» encompasses the temporary granting of protection to persons who are persecuted in their country of origin or whose life and limb are endangered.
+**N. 8** The asylum competence is, according to the message on the Federal Constitution, an exclusive federal jurisdiction (BBl 1997 I 1, 370), whereby this classification is disputed in the doctrine. The term «asylum» encompasses the temporary granting of protection to persons who are persecuted in their country of origin or whose life and limb are endangered.
 
 #### b) Security Expulsion (Para. 2)
 
@@ -46,11 +46,11 @@
 
 ### 5. Points of Dispute
 
-**N. 15** A central point of dispute concerns the scope of the Confederation's integration competence. Achermann represents the position that the federal competence is comprehensive and enables the regulation of all questions concerning the status and position of foreign nationals (Achermann, BSK BV, Art. 121 N. 27). In contrast, other authors emphasise that the Confederation cannot undermine the cantons' competences in education, social affairs and other areas without cooperation with the cantons (Achermann, BSK BV, Art. 121 N. 27).
+**N. 15** A central point of dispute concerns the scope of the Confederation's integration competence. Achermann represents the position that the federal competence is comprehensive and enables the regulation of all questions concerning the status and position of foreign nationals. In contrast, other authors emphasise that the Confederation cannot undermine the cantons' competences in education, social affairs and other areas without cooperation with the cantons.
 
 **N. 16** The relationship between Art. 121 paras. 3–6 BV and the Agreement on the Free Movement of Persons is controversially discussed. Jaag/Priuli argue that the expulsion initiative is incompatible with the AFMP (Jusletter of 8.11.2010). Weber, on the other hand, sees implementation variants that enable compatibility (AJP 2012, 1436). The Federal Supreme Court has developed a «specific examination» for EU citizens in **BGE 145 IV 55**.
 
-**N. 17** The interpretation of the non-refoulement principle in the context of the expulsion initiative is disputed. The Federal Council took the view that the initiative could be interpreted in such a way that the non-refoulement principle would be respected, but warned of considerable collisions with rule of law principles (Achermann, BSK BV, Art. 121 N. 54).
+**N. 17** The interpretation of the non-refoulement principle in the context of the expulsion initiative is disputed. The Federal Council took the view that the initiative could be interpreted in such a way that the non-refoulement principle would be respected, but warned of considerable collisions with rule of law principles.
 
 ### 6. Practice Notes
 

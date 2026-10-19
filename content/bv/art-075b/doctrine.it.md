@@ -16,11 +16,11 @@
 
 ### 2. Inquadramento sistematico
 
-**N. 4** L'art. 75b Cost. è una norma di competenza con elementi a effetto diretto (cpv. 1) e un mandato legislativo (cpv. 2). Sistematicamente, esso completa l'art. 75 Cost. (pianificazione del territorio), che attribuisce alla Confederazione unicamente una competenza legislativa di principio. Con l'accettazione dell'iniziativa sulle abitazioni secondarie, la Confederazione dispone di una competenza autonoma per disciplinare la costruzione di abitazioni secondarie, che secondo l'opinione prevalente va qualificata come competenza federale concorrente, ossia che deroga successivamente al diritto cantonale: il diritto cantonale è rimasto applicabile fino all'entrata in vigore della LAS ed è da allora derogato nella misura in cui la Confederazione ha esaurito la propria competenza (Biaggini, art. 75b BV N. 3; SHK-Mösching, art. 1 ZWG N. 4; diversamente BSK-Alig/Griffel, art. 75b BV N. 8, che presuppongono una competenza federale esaustiva).
+**N. 4** L'art. 75b Cost. è una norma di competenza con elementi a effetto diretto (cpv. 1) e un mandato legislativo (cpv. 2). Sistematicamente, esso completa l'art. 75 Cost. (pianificazione del territorio), che attribuisce alla Confederazione unicamente una competenza legislativa di principio. Con l'accettazione dell'iniziativa sulle abitazioni secondarie, la Confederazione dispone di una competenza autonoma per disciplinare la costruzione di abitazioni secondarie, che secondo l'opinione prevalente va qualificata come competenza federale concorrente, ossia che deroga successivamente al diritto cantonale: il diritto cantonale è rimasto applicabile fino all'entrata in vigore della LAS ed è da allora derogato nella misura in cui la Confederazione ha esaurito la propria competenza (Biaggini, art. 75b BV N. 3; SHK-Mösching, art. 1 ZWG N. 4).
 
 **N. 5** L'art. 75b Cost. è strettamente connesso sotto il profilo materiale con l'art. 78 cpv. 2 Cost. (protezione della natura e del paesaggio nell'adempimento di compiti federali): il Tribunale federale ha qualificato il contingentamento della costruzione di abitazioni secondarie come compito federale ai sensi dell'art. 78 cpv. 2 Cost., volto a preservare la natura e il paesaggio tipico del paese (**DTF 139 II 271** consid. 11.2). Ne deriva la legittimazione a ricorrere delle organizzazioni nazionali di protezione della natura e del paesaggio ai sensi dell'art. 12 LPN avverso le licenze edilizie per abitazioni secondarie. Lo scopo costituzionale della pianificazione del territorio (→ art. 75 Cost.), la garanzia della proprietà (↔ art. 26 Cost.) e il principio di proporzionalità (→ art. 5 cpv. 2 Cost.) costituiscono il quadro di diritto costituzionale in cui deve essere letto l'art. 75b Cost.
 
-**N. 6** L'art. 75b cpv. 1 Cost. rivendica — in modo analogo all'art. 78 cpv. 5 Cost. sulla protezione delle paludi — la preminenza rispetto ad altre disposizioni costituzionali, segnatamente la garanzia della proprietà (art. 26 Cost.) e il principio di proporzionalità (art. 5 cpv. 2 Cost.). La soglia del 20 % esclude valutazioni caso per caso; le obiezioni fondate sulla proporzionalità devono essere accettate nella misura in cui discendono dal testo stesso dell'art. 75b cpv. 1 Cost. (Mösching, Massnahmen, pag. 88 segg.; BSK-Alig/Griffel, art. 75b BV N. 8).
+**N. 6** L'art. 75b cpv. 1 Cost. rivendica — in modo analogo all'art. 78 cpv. 5 Cost. sulla protezione delle paludi — la preminenza rispetto ad altre disposizioni costituzionali, segnatamente la garanzia della proprietà (art. 26 Cost.) e il principio di proporzionalità (art. 5 cpv. 2 Cost.). La soglia del 20 % esclude valutazioni caso per caso; le obiezioni fondate sulla proporzionalità devono essere accettate nella misura in cui discendono dal testo stesso dell'art. 75b cpv. 1 Cost. (Mösching, Massnahmen, pag. 88 segg.).
 
 ---
 
@@ -86,7 +86,6 @@
 
 *Letteratura citata (selezione):*
 
-- Alig Jonas/Griffel Alain, in: Waldmann/Belser/Epiney (a cura di), Basler Kommentar Bundesverfassung, Basilea 2015 [BSK-Alig/Griffel]
 - Besse Marc-Olivier, in: Martenet/Dubey (a cura di), Constitution fédérale, Commentaire Romand, Basilea 2021 [CR-Besse]
 - Biaggini Giovanni, Bundesverfassung, 2a ed. 2017
 - Mösching Fabian, Massnahmen zur Beschränkung von Zweitwohnungen, Diss. Berna 2014

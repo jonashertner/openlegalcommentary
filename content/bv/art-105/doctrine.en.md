@@ -2,13 +2,13 @@
 
 ## 1. Legislative History
 
-**N. 1** The current federal alcohol regulation is based on the alcohol articles of the old Federal Constitution (Art. 32bis-32quater aFC), which were introduced between 1885 and 1930 in several popular votes. The constituent power reacted to the devastating health and social consequences of massive alcohol consumption in the 19th century (Uhlmann, BSK BV, Art. 105 N. 1). The Federal Council Message on the new Federal Constitution of 1996 adopted the existing allocation of powers without material changes (BBl 1997 I 1, 276).
+**N. 1** The current federal alcohol regulation is based on the alcohol articles of the old Federal Constitution (Art. 32bis-32quater aFC), which were introduced between 1885 and 1930 in several popular votes. The constituent power reacted to the devastating health and social consequences of massive alcohol consumption in the 19th century. The Federal Council Message on the new Federal Constitution of 1996 adopted the existing allocation of powers without material changes (BBl 1997 I 1, 276).
 
 **N. 2** The total revision of the Federal Constitution led to linguistic modernisation and systematic simplification. The three alcohol articles of the old Federal Constitution were consolidated into Art. 105 FC (competence provision) and Art. 131 para. 1 lit. b and c as well as para. 3 FC (fiscal provisions). The mandate to protect health was explicitly enshrined in sentence 2 of Art. 105 FC.
 
 ## 2. Systematic Classification
 
-**N. 3** Art. 105 FC stands in Title 3 (Confederation, Cantons and Communes), Chapter 3 (Financial System), Section 3 (National Bank; Monetary and Currency System). This systematic position is historically conditioned and does not reflect the present-day significance of the provision. Art. 105 FC is primarily a competence provision with health policy objectives (Uhlmann, BSK BV, Art. 105 N. 1).
+**N. 3** Art. 105 FC stands in Title 3 (Confederation, Cantons and Communes), Chapter 3 (Financial System), Section 3 (National Bank; Monetary and Currency System). This systematic position is historically conditioned and does not reflect the present-day significance of the provision. Art. 105 FC is primarily a competence provision with health policy objectives.
 
 **N. 4** The provision is closely related to:
 - → Art. 131 para. 1 lit. b and c FC (special taxes on distilled spirits)
@@ -21,7 +21,7 @@
 
 ### Comprehensive Federal Competence (sentence 1)
 
-**N. 5** Art. 105 sentence 1 FC establishes a comprehensive and exclusive federal competence for legislation on «distilled spirits». The term covers all alcoholic beverages obtained through distillation as well as alcoholic products that achieve a comparable alcohol content through other technical processes (**BGE 143 II 409**). Legal doctrine and case law adopt the terminology of the Alcohol Act for constitutional interpretation (Uhlmann, BSK BV, Art. 105 N. 4).
+**N. 5** Art. 105 sentence 1 FC establishes a comprehensive and exclusive federal competence for legislation on «distilled spirits». The term covers all alcoholic beverages obtained through distillation as well as alcoholic products that achieve a comparable alcohol content through other technical processes (**BGE 143 II 409**). Legal doctrine and case law adopt the terminology of the Alcohol Act for constitutional interpretation.
 
 **N. 6** The federal competence extends to four areas of activity:
 - **Production**: Monopoly for commercial production, licensing system for home distilleries
@@ -33,7 +33,7 @@
 
 ### Health Policy Mandate (sentence 2)
 
-**N. 8** The legislature is obliged to «take account of the harmful effects of alcohol consumption». This mandate shapes the entire alcohol legislation and legitimises health policy-motivated restrictions on economic freedom (Uhlmann, BSK BV, Art. 105 N. 6-9).
+**N. 8** The legislature is obliged to «take account of the harmful effects of alcohol consumption». This mandate shapes the entire alcohol legislation and legitimises health policy-motivated restrictions on economic freedom.
 
 **N. 9** The health protection mandate is implemented through:
 - Prevention measures (advertising restrictions, youth protection)
@@ -58,7 +58,7 @@
 
 ### Minimum Prices and Sales Restrictions
 
-**N. 12** The constitutional admissibility of minimum prices for alcoholic beverages is disputed. The Council of States supported both night-time sales bans (10 p.m.-6 a.m.) and minimum prices to combat alcohol excess; the National Council rejected both (Uhlmann, BSK BV, Art. 105 N. 10-11). Pärli/Lehne affirm compatibility with Art. 105 FC citing the health protection mandate, while Epiney/Metz express commercial law concerns.
+**N. 12** The constitutional admissibility of minimum prices for alcoholic beverages is disputed. The Council of States supported both night-time sales bans (10 p.m.-6 a.m.) and minimum prices to combat alcohol excess; the National Council rejected both. Pärli/Lehne affirm compatibility with Art. 105 FC citing the health protection mandate, while Epiney/Metz express commercial law concerns.
 
 ### Concept of «Distilled Spirits»
 
@@ -66,7 +66,7 @@
 
 ### Total Revision of Alcohol Legislation
 
-**N. 14** The Federal Council proposes a fundamental reform with a Spirits Tax Act and an Alcohol Trade Act. Controversial is the planned reduction of the monopoly area and the reduction of licensing requirements (Uhlmann, BSK BV, Art. 105 N. 10). Critics fear a weakening of health protection, supporters expect administrative simplifications.
+**N. 14** The Federal Council proposes a fundamental reform with a Spirits Tax Act and an Alcohol Trade Act. Controversial is the planned reduction of the monopoly area and the reduction of licensing requirements. Critics fear a weakening of health protection, supporters expect administrative simplifications.
 
 ## 6. Practical Notes
 

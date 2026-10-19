@@ -10,7 +10,7 @@ The constitutional provision is implemented by the Victim Assistance Act (VAA). 
 
 Victims are persons who have been directly harmed by a criminal offence (primary victims). This also includes close relatives such as family members who have themselves suffered psychological harm as a result of the criminal offence (secondary victims). According to Art. 1 para. 2 VAA, these persons may also be entitled to assistance.
 
-According to Göksu (BSK BV, Art. 124 N. 7), assistance only applies after a criminal offence has actually been committed, not merely when it is threatened. Legal persons are excluded from protection.
+According to Göksu, assistance only applies after a criminal offence has actually been committed, not merely when it is threatened. Legal persons are excluded from protection.
 
 ## What legal consequences arise?
 

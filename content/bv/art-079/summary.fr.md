@@ -2,7 +2,7 @@
 
 ## Vue d'ensemble
 
-L'art. 79 Cst. donne à la Confédération la compétence d'édicter des principes sur la chasse et la pêche. Le but principal est la protection de la diversité des espèces de poissons, de mammifères et d'oiseaux vivant à l'état sauvage (Schärmeli/Griffel, BSK BV, Art. 79 N. 3). La Confédération édicte les règles les plus importantes, les cantons veillent à leur mise en œuvre dans le détail.
+L'art. 79 Cst. donne à la Confédération la compétence d'édicter des principes sur la chasse et la pêche. Le but principal est la protection de la diversité des espèces de poissons, de mammifères et d'oiseaux vivant à l'état sauvage. La Confédération édicte les règles les plus importantes, les cantons veillent à leur mise en œuvre dans le détail.
 
 Le terme « principes » signifie : la Confédération fixe des standards minimaux, mais ne règle pas tout de manière exhaustive (Marti, SG Komm. BV, Art. 79 N. 9). Les cantons restent compétents pour de nombreux domaines, par exemple pour l'organisation des permis de chasse ou la fixation des périodes de chasse dans le cadre des prescriptions fédérales. La Confédération a mis en œuvre sa compétence par la loi sur la chasse (LChP) et la loi fédérale sur la pêche (LFSP).
 

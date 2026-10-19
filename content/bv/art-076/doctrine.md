@@ -14,7 +14,7 @@
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 5** **Wasservorkommen** umfassen alle ober- und unterirdischen Gewässer einschliesslich Quellen, Seen, Flüsse und Grundwasser. Der Begriff ist weit zu verstehen und schließt auch künftige Nutzungspotentiale ein (Waldmann/Belser/Epiney, BSK BV, Art. 76 N. 15). Die «haushälterische Nutzung» (Abs. 1) verlangt einen schonenden, nachhaltigen Umgang mit der Ressource Wasser im Sinne des Nachhaltigkeitsprinzips.
+**N. 5** **Wasservorkommen** umfassen alle ober- und unterirdischen Gewässer einschliesslich Quellen, Seen, Flüsse und Grundwasser. Der Begriff ist weit zu verstehen und schließt auch künftige Nutzungspotentiale ein. Die «haushälterische Nutzung» (Abs. 1) verlangt einen schonenden, nachhaltigen Umgang mit der Ressource Wasser im Sinne des Nachhaltigkeitsprinzips.
 
 **N. 6** Die **Grundsatzkompetenz** des Bundes (Abs. 2) ermächtigt zur Rahmengesetzgebung, überlässt aber den Vollzug und die Detailregelung den Kantonen. Die Aufzählung der Nutzungsarten (Energieerzeugung, Kühlzwecke) ist nicht abschliessend («sowie»). Der Bundesgesetzgeber hat diese Kompetenz mit dem WRG, GSchG und WBG umfassend ausgeschöpft (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N. 1098).
 
@@ -30,7 +30,7 @@
 
 ## 5. Streitstände
 
-**N. 11** **Reichweite der kantonalen Gewässerhoheit**: Während Biaggini (BV-Kommentar, Art. 76 N. 5) eine weitgehende Autonomie der Kantone betont, vertreten Waldmann/Belser/Epiney (BSK BV, Art. 76 N. 28) eine restriktivere Auslegung angesichts der umfassenden Bundesgesetzgebung. Das Bundesgericht tendiert zur vermittelnden Position, wonach die kantonale Hoheit zwar fortbesteht, aber erheblich durch Bundesrecht eingeschränkt ist (**BGE 145 II 140**).
+**N. 11** **Reichweite der kantonalen Gewässerhoheit**: Während Biaggini (BV-Kommentar, Art. 76 N. 5) eine weitgehende Autonomie der Kantone betont, vertreten Waldmann/Belser/Epiney eine restriktivere Auslegung angesichts der umfassenden Bundesgesetzgebung. Das Bundesgericht tendiert zur vermittelnden Position, wonach die kantonale Hoheit zwar fortbesteht, aber erheblich durch Bundesrecht eingeschränkt ist (**BGE 145 II 140**).
 
 **N. 12** **Verhältnis Wasserkraft - Gewässerschutz**: In der Lehre ist umstritten, wie der Interessenausgleich zwischen Energieproduktion und Umweltschutz zu gewichten ist. Griffel (St. Galler Kommentar BV, Art. 76 N. 18) plädiert für einen strikten Vorrang des Gewässerschutzes, während Keller (in: Häfelin/Haller/Keller/Thurnherr, N. 1099) eine ausgewogene Interessenabwägung fordert. Die Praxis zeigt eine zunehmende Gewichtung ökologischer Anliegen bei gleichzeitiger Anerkennung der energiepolitischen Bedeutung der Wasserkraft.
 

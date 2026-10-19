@@ -10,7 +10,7 @@
 
 ### 2. Systematic Classification
 
-**N. 3** Art. 43 BV stands in systematic connection with the federalist basic norms of the Federal Constitution. It supplements Art. 3 BV (cantonal sovereignty) and stands in complementary relationship to Art. 42 BV (tasks of the Confederation). While Art. 42 BV emphasises the constitutional reservation for federal competences, Art. 43 BV confirms cantonal autonomy in tasks (Biaggini, BSK BV, Art. 43 N. 11).
+**N. 3** Art. 43 BV stands in systematic connection with the federalist basic norms of the Federal Constitution. It supplements Art. 3 BV (cantonal sovereignty) and stands in complementary relationship to Art. 42 BV (tasks of the Confederation). While Art. 42 BV emphasises the constitutional reservation for federal competences, Art. 43 BV confirms cantonal autonomy in tasks.
 
 **N. 4** The norm must be read in the context of the entire 1st Chapter of the 3rd Title: → Art. 43a BV (principles of task allocation), → Art. 44 BV (principles of cooperation), → Art. 45 BV (participation), ↔ Art. 46 BV (implementation of federal law), ↔ Art. 47 BV (independence of the cantons) and → Art. 48 BV (treaties between cantons).
 
@@ -22,13 +22,13 @@
 
 **N. 7** **«determine»**: The cantons have decision-making autonomy in the question of whether and how they perform tasks. This autonomy encompasses the organisation of task fulfilment, the choice of means and priority setting (Schweizer, SG-Komm. BV, Art. 43 N. 4).
 
-**N. 8** **«which tasks they [...] fulfil»**: The concept of «tasks» differs from «competences». While competences mean powers in the sense of authorisations, with tasks the obligatory character is in the foreground (Biaggini, BSK BV, Art. 43 N. 12). The cantons can in principle decide for themselves which public tasks they wish to undertake.
+**N. 8** **«which tasks they [...] fulfil»**: The concept of «tasks» differs from «competences». While competences mean powers in the sense of authorisations, with tasks the obligatory character is in the foreground. The cantons can in principle decide for themselves which public tasks they wish to undertake.
 
-**N. 9** **«within the scope of their competences»**: This restriction is central. Cantonal autonomy in tasks exists only insofar as the Federal Constitution leaves competences to the cantons at all. The wording is imprecise insofar as it suggests an extensive freedom that does not actually exist (Biaggini, BSK BV, Art. 43 N. 18).
+**N. 9** **«within the scope of their competences»**: This restriction is central. Cantonal autonomy in tasks exists only insofar as the Federal Constitution leaves competences to the cantons at all. The wording is imprecise insofar as it suggests an extensive freedom that does not actually exist.
 
 ### 4. Legal Consequences
 
-**N. 10** Art. 43 BV does not establish new cantonal competences, but confirms the autonomy in tasks already flowing from Art. 3 BV (Biaggini, BSK BV, Art. 43 N. 1). The practical significance of the norm is therefore modest.
+**N. 10** Art. 43 BV does not establish new cantonal competences, but confirms the autonomy in tasks already flowing from Art. 3 BV. The practical significance of the norm is therefore modest.
 
 **N. 11** The cantons may, within the scope of their competences:
 - Create new tasks or abolish existing ones
@@ -36,7 +36,7 @@
 - Delegate tasks to communes or third parties
 - Join together for common task fulfilment (→ Art. 48 BV)
 
-**N. 12** Cantonal autonomy in tasks is, however, frequently restricted by federal law. Federal requirements may limit cantonal freedom in the following forms (Biaggini, BSK BV, Art. 43 N. 17-27):
+**N. 12** Cantonal autonomy in tasks is, however, frequently restricted by federal law. Federal requirements may limit cantonal freedom in the following forms:
 - Obligatory task fulfilment through federal acts
 - Organisational requirements (e.g. demand for cantonal unified authority)
 - Minimum standards and quality requirements
@@ -44,11 +44,11 @@
 
 ### 5. Disputes
 
-**N. 13** **Relationship to Art. 3 BV**: Biaggini takes the position that Art. 43 BV has no independent legal significance and only repeats what already follows from Art. 3 BV (BSK BV, Art. 43 N. 1). Schweizer, on the other hand, sees in Art. 43 BV an important specification of the federalism principle with its own normative content (SG-Komm. BV, Art. 43 N. 2).
+**N. 13** **Relationship to Art. 3 BV**: Biaggini takes the position that Art. 43 BV has no independent legal significance and only repeats what already follows from Art. 3 BV. Schweizer, on the other hand, sees in Art. 43 BV an important specification of the federalism principle with its own normative content (SG-Komm. BV, Art. 43 N. 2).
 
-**N. 14** **Delimitation from Art. 47 BV**: Schweizer points to delimitation difficulties between Art. 43 BV (autonomy in tasks) and Art. 47 BV (independence) (cited in Biaggini, BSK BV, Art. 43 fn. 2). While Art. 43 BV concerns functional autonomy, Art. 47 BV protects the institutional independence of the cantons.
+**N. 14** **Delimitation from Art. 47 BV**: Schweizer points to delimitation difficulties between Art. 43 BV (autonomy in tasks) and Art. 47 BV (independence). While Art. 43 BV concerns functional autonomy, Art. 47 BV protects the institutional independence of the cantons.
 
-**N. 15** **Scope of the restriction**: Doctrine is divided on the scope of the formulation «within the scope of their competences». Biaggini criticises the imprecise wording, which suggests greater autonomy than actually exists (BSK BV, Art. 43 N. 18). Other authors see in this a necessary clarification of the federal structure of competences.
+**N. 15** **Scope of the restriction**: Doctrine is divided on the scope of the formulation «within the scope of their competences». Biaggini criticises the imprecise wording, which suggests greater autonomy than actually exists. Other authors see in this a necessary clarification of the federal structure of competences.
 
 ### 6. Practical Guidelines
 

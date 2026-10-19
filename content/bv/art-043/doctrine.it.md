@@ -10,7 +10,7 @@
 
 ### 2. Inquadramento sistematico
 
-**N. 3** L'art. 43 Cost. si colloca nel contesto sistematico delle norme fondamentali federalistiche della Costituzione federale. Esso completa l'art. 3 Cost. (sovranità cantonale) ed è in rapporto complementare con l'art. 42 Cost. (compiti della Confederazione). Mentre l'art. 42 Cost. sottolinea la riserva costituzionale per le competenze federali, l'art. 43 Cost. conferma l'autonomia cantonale dei compiti (Biaggini, BSK BV, Art. 43 N. 11).
+**N. 3** L'art. 43 Cost. si colloca nel contesto sistematico delle norme fondamentali federalistiche della Costituzione federale. Esso completa l'art. 3 Cost. (sovranità cantonale) ed è in rapporto complementare con l'art. 42 Cost. (compiti della Confederazione). Mentre l'art. 42 Cost. sottolinea la riserva costituzionale per le competenze federali, l'art. 43 Cost. conferma l'autonomia cantonale dei compiti.
 
 **N. 4** La norma va letta nel contesto dell'intero 1° capitolo del 3° titolo: → Art. 43a Cost. (principi dell'attribuzione di compiti), → Art. 44 Cost. (principi della collaborazione), → Art. 45 Cost. (partecipazione), ↔ Art. 46 Cost. (attuazione del diritto federale), ↔ Art. 47 Cost. (autonomia dei Cantoni) e → Art. 48 Cost. (accordi tra Cantoni).
 
@@ -22,13 +22,13 @@
 
 **N. 7** **«decidono»**: I Cantoni dispongono di autonomia decisionale sulla questione se e come svolgere i compiti. Questa autonomia comprende l'organizzazione dell'adempimento dei compiti, la scelta dei mezzi e la definizione delle priorità (Schweizer, SG-Komm. BV, Art. 43 N. 4).
 
-**N. 8** **«quali compiti [...] adempiono»**: Il concetto di «compiti» si distingue da «competenze». Mentre le competenze indicano facoltà nel senso di autorizzazioni, per i compiti è in primo piano il carattere vincolante (Biaggini, BSK BV, Art. 43 N. 12). I Cantoni possono in linea di principio decidere autonomamente quali compiti pubblici vogliono assumere.
+**N. 8** **«quali compiti [...] adempiono»**: Il concetto di «compiti» si distingue da «competenze». Mentre le competenze indicano facoltà nel senso di autorizzazioni, per i compiti è in primo piano il carattere vincolante. I Cantoni possono in linea di principio decidere autonomamente quali compiti pubblici vogliono assumere.
 
-**N. 9** **«nell'ambito delle loro competenze»**: Questa limitazione è centrale. L'autonomia cantonale dei compiti esiste solo nella misura in cui la Costituzione federale lascia effettivamente competenze ai Cantoni. Il tenore letterale è in questo senso impreciso, in quanto suggerisce una libertà ampia che in realtà non esiste (Biaggini, BSK BV, Art. 43 N. 18).
+**N. 9** **«nell'ambito delle loro competenze»**: Questa limitazione è centrale. L'autonomia cantonale dei compiti esiste solo nella misura in cui la Costituzione federale lascia effettivamente competenze ai Cantoni. Il tenore letterale è in questo senso impreciso, in quanto suggerisce una libertà ampia che in realtà non esiste.
 
 ### 4. Conseguenze giuridiche
 
-**N. 10** L'art. 43 Cost. non fonda nuove competenze cantonali, ma conferma l'autonomia dei compiti che deriva già dall'art. 3 Cost. (Biaggini, BSK BV, Art. 43 N. 1). Il significato pratico della norma è pertanto modesto.
+**N. 10** L'art. 43 Cost. non fonda nuove competenze cantonali, ma conferma l'autonomia dei compiti che deriva già dall'art. 3 Cost.. Il significato pratico della norma è pertanto modesto.
 
 **N. 11** I Cantoni possono nell'ambito delle loro competenze:
 - Creare nuovi compiti o sopprimere quelli esistenti
@@ -36,7 +36,7 @@
 - Delegare compiti a Comuni o a terzi
 - Associarsi per l'adempimento comune di compiti (→ Art. 48 Cost.)
 
-**N. 12** L'autonomia cantonale dei compiti viene tuttavia spesso limitata dal diritto federale. Le prescrizioni federali possono limitare la libertà cantonale nelle seguenti forme (Biaggini, BSK BV, Art. 43 N. 17-27):
+**N. 12** L'autonomia cantonale dei compiti viene tuttavia spesso limitata dal diritto federale. Le prescrizioni federali possono limitare la libertà cantonale nelle seguenti forme:
 - Adempimento obbligatorio di compiti mediante leggi federali
 - Prescrizioni relative all'organizzazione (p.es. richiesta di autorità cantonale unitaria)
 - Standard minimi e prescrizioni di qualità
@@ -44,11 +44,11 @@
 
 ### 5. Controversie dottrinali
 
-**N. 13** **Rapporto con l'art. 3 Cost.**: Biaggini sostiene la posizione secondo cui l'art. 43 Cost. non ha giuridicamente alcun significato autonomo e ripete soltanto ciò che deriva già dall'art. 3 Cost. (BSK BV, Art. 43 N. 1). Schweizer invece vede nell'art. 43 Cost. un'importante concretizzazione del principio federalistico con proprio contenuto normativo (SG-Komm. BV, Art. 43 N. 2).
+**N. 13** **Rapporto con l'art. 3 Cost.**: Biaggini sostiene la posizione secondo cui l'art. 43 Cost. non ha giuridicamente alcun significato autonomo e ripete soltanto ciò che deriva già dall'art. 3 Cost.. Schweizer invece vede nell'art. 43 Cost. un'importante concretizzazione del principio federalistico con proprio contenuto normativo (SG-Komm. BV, Art. 43 N. 2).
 
-**N. 14** **Delimitazione dall'art. 47 Cost.**: Schweizer segnala difficoltà di delimitazione tra l'art. 43 Cost. (autonomia dei compiti) e l'art. 47 Cost. (autonomia) (citato in Biaggini, BSK BV, Art. 43 Fn. 2). Mentre l'art. 43 Cost. riguarda l'autonomia funzionale, l'art. 47 Cost. protegge l'autonomia istituzionale dei Cantoni.
+**N. 14** **Delimitazione dall'art. 47 Cost.**: Schweizer segnala difficoltà di delimitazione tra l'art. 43 Cost. (autonomia dei compiti) e l'art. 47 Cost. (autonomia). Mentre l'art. 43 Cost. riguarda l'autonomia funzionale, l'art. 47 Cost. protegge l'autonomia istituzionale dei Cantoni.
 
-**N. 15** **Portata della limitazione**: La dottrina è divisa sulla portata della formulazione «nell'ambito delle loro competenze». Biaggini critica il tenore letterale impreciso, che suggerisce un'autonomia maggiore di quella che effettivamente esiste (BSK BV, Art. 43 N. 18). Altri autori vi vedono una necessaria chiarificazione dell'assetto federale delle competenze.
+**N. 15** **Portata della limitazione**: La dottrina è divisa sulla portata della formulazione «nell'ambito delle loro competenze». Biaggini critica il tenore letterale impreciso, che suggerisce un'autonomia maggiore di quella che effettivamente esiste. Altri autori vi vedono una necessaria chiarificazione dell'assetto federale delle competenze.
 
 ### 6. Indicazioni pratiche
 

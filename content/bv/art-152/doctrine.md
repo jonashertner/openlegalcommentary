@@ -18,7 +18,7 @@
 
 ## Tatbestandsmerkmale / Norminhalt
 
-**N. 5** **Wahlkörper**: «Jeder Rat» bezeichnet den National- und Ständerat jeweils separat. Beide Räte wählen ihre Präsidien unabhängig voneinander. Die Formulierung «aus seiner Mitte» bedeutet, dass nur Mitglieder des jeweiligen Rates wählbar sind (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 152 N. 3).
+**N. 5** **Wahlkörper**: «Jeder Rat» bezeichnet den National- und Ständerat jeweils separat. Beide Räte wählen ihre Präsidien unabhängig voneinander. Die Formulierung «aus seiner Mitte» bedeutet, dass nur Mitglieder des jeweiligen Rates wählbar sind.
 
 **N. 6** **Wahlämter**: Die Norm verlangt die Wahl von drei Personen:
 - Eine Präsidentin oder ein Präsident
@@ -46,7 +46,7 @@ Die geschlechterneutrale Formulierung wurde mit der Totalrevision 1999 eingefüh
 
 **N. 11** **Rechtsnatur des Wiederwahlverbots**: In der Lehre ist umstritten, ob das Wiederwahlverbot zwingend ist oder dispositiv:
 - **Ehrenzeller** (St. Galler Kommentar BV, Art. 152 N. 5) vertritt die Auffassung, das Verbot sei absolut und könne auch durch einstimmigen Ratsbeschluss nicht umgangen werden.
-- **Waldmann** (BSK BV, Art. 152 N. 7) hält dagegen, dass in ausserordentlichen Situationen (z.B. Pandemie, Krieg) eine pragmatische Handhabung denkbar sei.
+- **Waldmann** hält dagegen, dass in ausserordentlichen Situationen (z.B. Pandemie, Krieg) eine pragmatische Handhabung denkbar sei.
 - **Graf** (Parlamentsrecht und Parlamentspraxis, § 10 N. 18) nimmt eine vermittelnde Position ein: Das Verbot gelte grundsätzlich absolut, bei Unmöglichkeit der Neuwahl sei aber eine temporäre Fortsetzung der Amtsführung zulässig.
 
 **N. 12** **Justiziabilität**: Einigkeit besteht darüber, dass Wahlen nach Art. 152 BV als interna corporis nicht justiziabel sind. Strittig ist jedoch die Reichweite dieses Grundsatzes:

@@ -28,7 +28,7 @@
 
 **N. 8** **Ausrüstung**: Hierunter fällt die gesamte materielle Ausstattung der Armee: Waffen, Munition, Fahrzeuge, Uniformen, technische Geräte, Informatik- und Kommunikationssysteme. Der Bund ist für Beschaffung, Unterhalt, Lagerung und Liquidation des Armeematerials zuständig.
 
-**N. 9** **Übernahme militärischer Einrichtungen (Abs. 3)**: Der Bund kann militärische Einrichtungen der Kantone gegen angemessene Entschädigung übernehmen. Diese Bestimmung hat seit der vollständigen Föderalisierung der Armee kaum noch praktische Bedeutung. Sie betrifft heute primär Schiessanlagen, Zeughäuser oder andere militärisch genutzte Infrastrukturen, die sich noch in kantonalem Eigentum befinden (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 60 N. 12).
+**N. 9** **Übernahme militärischer Einrichtungen (Abs. 3)**: Der Bund kann militärische Einrichtungen der Kantone gegen angemessene Entschädigung übernehmen. Diese Bestimmung hat seit der vollständigen Föderalisierung der Armee kaum noch praktische Bedeutung. Sie betrifft heute primär Schiessanlagen, Zeughäuser oder andere militärisch genutzte Infrastrukturen, die sich noch in kantonalem Eigentum befinden.
 
 ### 4. Rechtsfolgen
 

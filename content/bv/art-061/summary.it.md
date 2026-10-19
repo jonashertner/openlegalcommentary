@@ -8,7 +8,7 @@ Tutti gli uomini svizzeri sono in linea di principio soggetti agli obblighi di p
 
 ## Che cosa disciplina la norma?
 
-**Legislazione federale (capoverso 1):** La Confederazione emana leggi per la protezione dai conflitti armati (diritto bellico). I Cantoni dispongono secondo la dottrina dominante di competenze residuali (Diggelmann/Altwicker, BSK BV, Art. 61 n. 7).
+**Legislazione federale (capoverso 1):** La Confederazione emana leggi per la protezione dai conflitti armati (diritto bellico). I Cantoni dispongono secondo la dottrina dominante di competenze residuali.
 
 **Interventi in caso di catastrofi (capoverso 2):** La Confederazione disciplina la protezione civile in caso di catastrofi naturali, incidenti e altre situazioni d'emergenza. Ciò comprende alluvioni, terremoti o pandemie.
 

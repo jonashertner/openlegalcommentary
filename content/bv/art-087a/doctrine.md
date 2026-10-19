@@ -20,7 +20,7 @@
 
 **N. 5** Absatz 1 statuiert als Grundsatz, dass Bund und Kantone eine ausreichende Finanzierung der Eisenbahninfrastruktur sicherstellen. Der Begriff «Eisenbahninfrastruktur» umfasst gemäss der Botschaft alle Anlagen, die für den Eisenbahnverkehr notwendig sind: Gleise, Bahnhöfe, Sicherungsanlagen, Stromversorgung und Telematik (BBl 2012 1577, 1642).
 
-**N. 6** Die «ausreichende Finanzierung» ist ein unbestimmter Rechtsbegriff, der durch den Gesetzgeber zu konkretisieren ist. Kern betont, dass damit sowohl der Substanzerhalt als auch der bedarfsgerechte Ausbau gemeint ist (Kern, BSK BV, Art. 87a N. 3). Die gemeinsame Verantwortung von Bund und Kantonen widerspiegelt die föderalistische Struktur des schweizerischen Eisenbahnwesens.
+**N. 6** Die «ausreichende Finanzierung» ist ein unbestimmter Rechtsbegriff, der durch den Gesetzgeber zu konkretisieren ist. Kern betont, dass damit sowohl der Substanzerhalt als auch der bedarfsgerechte Ausbau gemeint ist. Die gemeinsame Verantwortung von Bund und Kantonen widerspiegelt die föderalistische Struktur des schweizerischen Eisenbahnwesens.
 
 #### b) Bahninfrastrukturfonds (Abs. 2)
 
@@ -36,7 +36,7 @@
 
 **N. 9** Die Formulierung «höchstens zwei Drittel» bei der LSVA (lit. a) gibt dem Gesetzgeber einen Spielraum. Mindestens ein Drittel der LSVA-Erträge muss für andere Zwecke verwendet werden, namentlich für die ungedeckten Kosten des Strassenverkehrs in den Kantonen (Art. 85 Abs. 2 BV).
 
-**N. 10** Der in lit. c festgelegte Mehrwertsteueranteil von 2,0 Promille ist als absolute Grösse zu verstehen. Bei einer Änderung des Mehrwertsteuersatzes bleibt der absolute Betrag gleich (Kern, BSK BV, Art. 87a N. 10).
+**N. 10** Der in lit. c festgelegte Mehrwertsteueranteil von 2,0 Promille ist als absolute Grösse zu verstehen. Bei einer Änderung des Mehrwertsteuersatzes bleibt der absolute Betrag gleich.
 
 #### c) Kantonsbeteiligung (Abs. 3)
 
@@ -46,7 +46,7 @@
 
 #### d) Finanzierung durch Dritte (Abs. 4)
 
-**N. 13** Absatz 4 ermöglicht die subsidiäre Finanzierung durch Dritte für Vorhaben, die der BIF nicht oder nur teilweise finanziert. Als «Dritte» kommen Private, Gemeinden, aber auch Kantone in Betracht, soweit sie über ihre Pflichtbeiträge hinausgehen (Kern, BSK BV, Art. 87a N. 23).
+**N. 13** Absatz 4 ermöglicht die subsidiäre Finanzierung durch Dritte für Vorhaben, die der BIF nicht oder nur teilweise finanziert. Als «Dritte» kommen Private, Gemeinden, aber auch Kantone in Betracht, soweit sie über ihre Pflichtbeiträge hinausgehen.
 
 **N. 14** Die Bestimmung ist als Öffnungsklausel konzipiert, die flexible Finanzierungslösungen ermöglicht. Typische Anwendungsfälle sind Anschlussgleise für Industrieunternehmen oder lokale Ausbauprojekte mit primär regionalem Nutzen.
 
@@ -60,11 +60,11 @@
 
 ### 5. Streitstände
 
-**N. 18** **Ausschliesslichkeit des BIF**: Umstritten ist, ob der BIF das ausschliessliche Finanzierungsinstrument für die Eisenbahninfrastruktur darstellt. Kern vertritt die Auffassung, dass grundsätzlich von einer umfassenden und ausschliesslichen Finanzierung durch den BIF auszugehen sei (Kern, BSK BV, Art. 87a N. 20). Demgegenüber plädiert Waldmeier für eine engere Auslegung, die zusätzliche Finanzierungen ausserhalb des BIF zulässt (SG Komm. BV-Waldmeier, Art. 87a N. 24).
+**N. 18** **Ausschliesslichkeit des BIF**: Umstritten ist, ob der BIF das ausschliessliche Finanzierungsinstrument für die Eisenbahninfrastruktur darstellt. Kern vertritt die Auffassung, dass grundsätzlich von einer umfassenden und ausschliesslichen Finanzierung durch den BIF auszugehen sei. Demgegenüber plädiert Waldmeier für eine engere Auslegung, die zusätzliche Finanzierungen ausserhalb des BIF zulässt (SG Komm. BV-Waldmeier, Art. 87a N. 24).
 
-**N. 19** **Verzinsungsverzicht**: Der gesetzlich vorgesehene Verzicht auf eine Verzinsung der BIF-Mittel wird von Kern als verfassungsrechtlich problematisch beurteilt, da er dem Prinzip der wirtschaftlichen Mittelverwendung widerspreche (Kern, BSK BV, Art. 87a N. 12). Diese Position ist jedoch nicht unbestritten, zumal die Verfassung selbst keine Verzinsungspflicht vorsieht.
+**N. 19** **Verzinsungsverzicht**: Der gesetzlich vorgesehene Verzicht auf eine Verzinsung der BIF-Mittel wird von Kern als verfassungsrechtlich problematisch beurteilt, da er dem Prinzip der wirtschaftlichen Mittelverwendung widerspreche. Diese Position ist jedoch nicht unbestritten, zumal die Verfassung selbst keine Verzinsungspflicht vorsieht.
 
-**N. 20** **Wettbewerbsneutralität**: Diskutiert wird, ob die massive Subventionierung der Eisenbahninfrastruktur den Wettbewerb zwischen den Verkehrsträgern verzerrt. Kern sieht darin keinen Verstoss gegen die Wirtschaftsfreiheit, sondern Ausdruck einer gestaltenden Verkehrspolitik (Kern, BSK BV, Art. 87a N. 19). Diese Sichtweise entspricht der herrschenden Lehre, die verkehrspolitische Lenkungsmassnahmen als zulässig erachtet.
+**N. 20** **Wettbewerbsneutralität**: Diskutiert wird, ob die massive Subventionierung der Eisenbahninfrastruktur den Wettbewerb zwischen den Verkehrsträgern verzerrt. Kern sieht darin keinen Verstoss gegen die Wirtschaftsfreiheit, sondern Ausdruck einer gestaltenden Verkehrspolitik. Diese Sichtweise entspricht der herrschenden Lehre, die verkehrspolitische Lenkungsmassnahmen als zulässig erachtet.
 
 ### 6. Praxishinweise
 
@@ -74,4 +74,4 @@
 
 **N. 23** Die strikte Zweckbindung der BIF-Mittel bedeutet, dass auch bei Projektänderungen oder -verzögerungen keine Mittelumschichtung in andere Bereiche möglich ist. Dies erhöht den Druck auf eine sorgfältige Projektplanung und -umsetzung.
 
-**N. 24** Der Bahninfrastrukturfonds hat sich gemäss Kern als den langen Planungszyklen der Eisenbahninfrastruktur angemessenes, innovatives Finanzierungsinstrument bewährt (Kern, BSK BV, Art. 87a N. 24). Die verfassungsrechtliche Verankerung gewährleistet die notwendige Planungssicherheit für Grossprojekte.
+**N. 24** Der Bahninfrastrukturfonds hat sich gemäss Kern als den langen Planungszyklen der Eisenbahninfrastruktur angemessenes, innovatives Finanzierungsinstrument bewährt. Die verfassungsrechtliche Verankerung gewährleistet die notwendige Planungssicherheit für Grossprojekte.

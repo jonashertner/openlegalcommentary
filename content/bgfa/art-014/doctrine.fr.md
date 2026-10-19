@@ -42,7 +42,7 @@
 - les avocats d'autres cantons qui plaident dans le canton de l'activité en vertu de la libre circulation selon l'art. 4 BGFA (compétence secondaire du canton de l'activité) ;
 - les avocats de l'UE/AELE qui exercent de façon permanente en Suisse et se sont inscrits dans le canton de l'activité (→ art. 27 ss BGFA).
 
-**N. 11** Ne sont pas soumis au champ d'application de l'art. 14 BGFA les avocats qui exercent exclusivement une activité de conseil et ne plaident pas devant des autorités judiciaires (arrêt **2C_897/2015** du 25.5.2016 consid. 5.2.1 ; Poledna, BSK BGFA, art. 14 n° 3). Le fait que l'art. 2 al. 1 BGFA limite le champ d'application de la loi à la représentation des parties devant des autorités judiciaires est constitutif pour l'obligation de surveillance : celui qui n'exerce pas de mandat de représentation n'est pas soumis à la surveillance disciplinaire réglée par le droit fédéral.
+**N. 11** Ne sont pas soumis au champ d'application de l'art. 14 BGFA les avocats qui exercent exclusivement une activité de conseil et ne plaident pas devant des autorités judiciaires (arrêt **2C_897/2015** du 25.5.2016 consid. 5.2.1). Le fait que l'art. 2 al. 1 BGFA limite le champ d'application de la loi à la représentation des parties devant des autorités judiciaires est constitutif pour l'obligation de surveillance: celui qui n'exerce pas de mandat de représentation n'est pas soumis à la surveillance disciplinaire réglée par le droit fédéral.
 
 #### 3.4 Répartition intercantonale des compétences
 
@@ -54,7 +54,7 @@
 4. **Obligation de communication** : l'issue de la procédure doit être communiquée à l'autorité de surveillance du canton d'inscription.
 5. **Inscription au registre** : les mesures disciplinaires entrées en force sont inscrites au registre du canton d'inscription (→ art. 20 BGFA).
 
-**N. 13** Les compétences cantonales sont en principe concurrentes : tant le canton d'inscription que le canton de l'activité peuvent intervenir en cas de violation des règles professionnelles. L'autorité de surveillance du canton « dans lequel l'avocat plaide devant les autorités judiciaires » exerce la surveillance à titre primaire (arrêt du Tribunal administratif d'Uri 04/05 49 du 4.10.2005 ; Poledna, BSK BGFA, art. 14 n° 7). Si aucune procédure judiciaire n'a encore été conduite dans le canton de l'activité, la compétence demeure auprès du canton d'inscription.
+**N. 13** Les compétences cantonales sont en principe concurrentes: tant le canton d'inscription que le canton de l'activité peuvent intervenir en cas de violation des règles professionnelles. L'autorité de surveillance du canton « dans lequel l'avocat plaide devant les autorités judiciaires » exerce la surveillance à titre primaire (arrêt du Tribunal administratif d'Uri 04/05 49 du 4.10.2005). Si aucune procédure judiciaire n'a encore été conduite dans le canton de l'activité, la compétence demeure auprès du canton d'inscription.
 
 ---
 
@@ -74,11 +74,11 @@
 
 #### 5.1 Portée de la surveillance cantonale : avocats-conseils
 
-**N. 18** La question était controversée de savoir si la surveillance disciplinaire selon l'art. 14 BGFA s'étend également aux avocats qui exercent exclusivement une activité de conseil et ne sont pas inscrits au registre des avocats. Poledna (BSK BGFA, art. 14 n° 3) et Bohnet/Martenet (Droit de la profession d'avocat, 2009, n° 578) s'accordent à dire que la LLCA ne couvre pas ce groupe. Le canton de Lucerne a étendu par le droit cantonal les règles professionnelles selon les art. 12 et 13 BGFA ainsi que le droit disciplinaire (art. 14–20 BGFA) par analogie aux avocats non admis à la représentation des parties (§ 8 al. 2 AnwG/LU). Nater (Kommentar zum Anwaltsgesetz, art. 3 n° 8b) considère cette réglementation conforme au droit fédéral, dans la mesure où il s'agit d'une extension admissible de la compétence normative cantonale ; le Tribunal fédéral a laissé la question ouverte (arrêt **2C_897/2015** du 25.5.2016 consid. 5.2.2).
+**N. 18** La question était controversée de savoir si la surveillance disciplinaire selon l'art. 14 BGFA s'étend également aux avocats qui exercent exclusivement une activité de conseil et ne sont pas inscrits au registre des avocats. Poledna et Bohnet/Martenet (Droit de la profession d'avocat, 2009, n° 578) s'accordent à dire que la LLCA ne couvre pas ce groupe. Le canton de Lucerne a étendu par le droit cantonal les règles professionnelles selon les art. 12 et 13 BGFA ainsi que le droit disciplinaire (art. 14–20 BGFA) par analogie aux avocats non admis à la représentation des parties (§ 8 al. 2 AnwG/LU). Nater (Kommentar zum Anwaltsgesetz, art. 3 n° 8b) considère cette réglementation conforme au droit fédéral, dans la mesure où il s'agit d'une extension admissible de la compétence normative cantonale; le Tribunal fédéral a laissé la question ouverte (arrêt **2C_897/2015** du 25.5.2016 consid. 5.2.2).
 
 #### 5.2 Compétences concurrentes du canton d'inscription et du canton de l'activité
 
-**N. 19** La question est débattue de savoir si les autorités de surveillance du canton d'inscription et du canton de l'activité sont compétentes à égalité en cas de mandat intercantonal, ou s'il existe un ordre de priorité hiérarchique. Le Tribunal administratif d'Uri s'est prononcé en faveur d'une compétence primaire du canton de l'activité (arrêt 04/05 49 du 4.10.2005 : « la surveillance est exercée à titre prioritaire par l'autorité de surveillance du canton dans lequel l'avocat plaide devant les autorités judiciaires »). Poledna (BSK BGFA, art. 14 n° 7) et Fellmann (Anwaltsrecht, 2e éd. 2017, n° 793) suivent en principe cette position. Bauer/Bauer (CR LLCA, art. 14 n° 11) mettent en revanche l'accent sur la fonction de coordination : les autorités auraient des compétences concurrentes, coordonnées par les obligations d'information et de communication, sans qu'il existe une hiérarchie stricte. Une décision du Tribunal fédéral statuant en dernière instance sur cette question fait à ce jour défaut.
+**N. 19** La question est débattue de savoir si les autorités de surveillance du canton d'inscription et du canton de l'activité sont compétentes à égalité en cas de mandat intercantonal, ou s'il existe un ordre de priorité hiérarchique. Le Tribunal administratif d'Uri s'est prononcé en faveur d'une compétence primaire du canton de l'activité (arrêt 04/05 49 du 4.10.2005: « la surveillance est exercée à titre prioritaire par l'autorité de surveillance du canton dans lequel l'avocat plaide devant les autorités judiciaires »). Poledna et Fellmann (Anwaltsrecht, 2e éd. 2017, n° 793) suivent en principe cette position. Bauer/Bauer (CR LLCA, art. 14 n° 11) mettent en revanche l'accent sur la fonction de coordination: les autorités auraient des compétences concurrentes, coordonnées par les obligations d'information et de communication, sans qu'il existe une hiérarchie stricte. Une décision du Tribunal fédéral statuant en dernière instance sur cette question fait à ce jour défaut.
 
 #### 5.3 Moyens de surveillance cantonaux supplémentaires au regard du droit fédéral exhaustif
 
@@ -109,7 +109,6 @@
 **Doctrine**
 - Fellmann, Anwaltsrecht, 2e éd. 2017, n° 786–800
 - Bohnet/Martenet, Droit de la profession d'avocat, 2009, n° 575–580
-- Poledna, BSK BGFA, 2e éd. 2019, art. 14
 
 **Matériaux législatifs**
 - FF 1999 5331 s. (Message relatif à la loi fédérale sur la libre circulation des avocats)

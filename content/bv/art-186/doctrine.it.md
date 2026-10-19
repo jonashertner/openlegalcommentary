@@ -37,7 +37,7 @@
 
 **N. 9** L'art. 186 cpv. 2 Cost. autorizza il Consiglio federale ad approvare gli atti normativi cantonali laddove l'esecuzione del diritto federale lo esige. L'obbligo di approvazione non è generale, ma presuppone una base legale federale che ordini l'approvazione quale condizione di esecuzione (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10a ed. 2020, n. marg. 1461). La norma non fonda di per sé un obbligo di approvazione, bensì lo presuppone.
 
-**N. 10** L'approvazione è uno strumento di vigilanza preventiva che garantisce la conformità al diritto federale degli atti normativi cantonali di esecuzione prima che entrino in vigore o dispieghino i loro effetti. Nel merito, nell'ambito della procedura di approvazione il Consiglio federale esamina esclusivamente la conformità dell'atto normativo cantonale con il diritto federale pertinente; una verifica dell'opportunità non ha luogo di regola (Künzli, BSK BV, art. 186 N. 18 seg.). L'approvazione ha carattere dichiarativo nella misura in cui l'atto normativo cantonale è già conforme al diritto federale; in caso di riserva o diniego, essa produce effetti costitutivi.
+**N. 10** L'approvazione è uno strumento di vigilanza preventiva che garantisce la conformità al diritto federale degli atti normativi cantonali di esecuzione prima che entrino in vigore o dispieghino i loro effetti. Nel merito, nell'ambito della procedura di approvazione il Consiglio federale esamina esclusivamente la conformità dell'atto normativo cantonale con il diritto federale pertinente; una verifica dell'opportunità non ha luogo di regola. L'approvazione ha carattere dichiarativo nella misura in cui l'atto normativo cantonale è già conforme al diritto federale; in caso di riserva o diniego, essa produce effetti costitutivi.
 
 **N. 11** Gli atti normativi cantonali che necessitano di un'approvazione federale spiegano i loro effetti soltanto con l'approvazione. Se il Consiglio federale concede l'approvazione con oneri o riserve, il Cantone è tenuto ad apportare le necessarie modifiche.
 
@@ -83,13 +83,13 @@
 
 **N. 25** La dottrina dominante risponde negativamente in linea di principio. Hangartner (ZBl 76/1975 pag. 6 segg. e 12 segg.), Rhinow/Schefer/Uebersax (op. cit., n. marg. 788) e Häfelin/Haller/Keller/Thurnherr (op. cit., n. marg. 1480) ritengono che dal principio della separazione dei poteri (in combinato disposto con l'art. 191c Cost., indipendenza dei tribunali) discende che la Confederazione non può in linea di principio annullare una sentenza giudiziaria cantonale. Una sentenza può essere modificata solo da un tribunale; la vigilanza sulla giustizia deve limitarsi agli aspetti amministrativi.
 
-**N. 26** Un'opinione minoritaria ammette la cassazione di sentenze giudiziarie cantonali come «ultima ratio» in caso di violazioni gravissime del diritto federale: Kölz/Häner/Bertschi (Verwaltungsverfahren und Verwaltungsrechtspflege des Bundes, 3a ed. 2013, n. marg. 768) e Künzli (BSK BV, art. 186 N. 36) ritengono la cassazione concepibile in casi eccezionali. Tschannen (Staatsrecht, 5a ed. 2021, n. marg. 988) condivide questa posizione, ma la limita ai casi in cui la via giudiziaria ordinaria non sia disponibile.
+**N. 26** Un'opinione minoritaria ammette la cassazione di sentenze giudiziarie cantonali come «ultima ratio» in caso di violazioni gravissime del diritto federale: Kölz/Häner/Bertschi (Verwaltungsverfahren und Verwaltungsrechtspflege des Bundes, 3a ed. 2013, n. marg. 768) e Künzli ritengono la cassazione concepibile in casi eccezionali. Tschannen (Staatsrecht, 5a ed. 2021, n. marg. 988) condivide questa posizione, ma la limita ai casi in cui la via giudiziaria ordinaria non sia disponibile.
 
 **N. 27** Il Tribunale federale, nella sentenza **DTF 151 I 382** (= sentenza 2C_681/2023 del 19 marzo 2025), consid. 4.9.2, ha sostanzialmente risolto questa questione a favore della dottrina dominante: la cassazione di vigilanza di una sentenza giudiziaria cantonale fondata sull'art. 186 cpv. 4 Cost. è possibile, se mai, soltanto in casi eccezionali ed è esclusa in ogni caso quando sia disponibile la via giudiziaria ordinaria sotto forma di ricorso delle autorità. Dal principio della separazione dei poteri e dall'art. 191c Cost. discende che le autorità amministrative sono vincolate alle sentenze giudiziarie passate in giudicato.
 
 ### 2. Il ricorso delle autorità quale strumento di vigilanza preferenziale
 
-**N. 28** Il ricorso delle autorità della Confederazione al Tribunale federale (art. 89 cpv. 2 lett. a e art. 111 cpv. 2 LTF) è considerato dalla giurisprudenza e dalla dottrina quale strumento di vigilanza prioritario, poiché ricorre alla via giudiziaria ordinaria e preserva così l'autonomia della giustizia cantonale. Il Tribunale federale ha rilevato nella **DTF 148 II 369** (= 2C_1038/2020 del 15 marzo 2022) che il ricorso delle autorità è un mezzo di vigilanza federale che si riallaccia al sistema cantonale delle impugnazioni ed è «in una certa misura autonomo» rispetto ad esso. Waldmann (BSK BV, art. 49 N. 44) e Pflüger (Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, n. marg. 826 segg.) sottolineano la priorità di questo strumento rispetto agli altri mezzi di vigilanza.
+**N. 28** Il ricorso delle autorità della Confederazione al Tribunale federale (art. 89 cpv. 2 lett. a e art. 111 cpv. 2 LTF) è considerato dalla giurisprudenza e dalla dottrina quale strumento di vigilanza prioritario, poiché ricorre alla via giudiziaria ordinaria e preserva così l'autonomia della giustizia cantonale. Il Tribunale federale ha rilevato nella **DTF 148 II 369** (= 2C_1038/2020 del 15 marzo 2022) che il ricorso delle autorità è un mezzo di vigilanza federale che si riallaccia al sistema cantonale delle impugnazioni ed è «in una certa misura autonomo» rispetto ad esso. Waldmann e Pflüger (Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, n. marg. 826 segg.) sottolineano la priorità di questo strumento rispetto agli altri mezzi di vigilanza.
 
 **N. 29** Il Tribunale federale ha rilevato nella **DTF 148 II 369**, consid. 3.3.7, che la funzione del ricorso delle autorità quale mezzo di vigilanza della Confederazione viene sostanzialmente compromessa quando il diritto processuale cantonale è applicato in modo tale da addossare spese giudiziarie all'autorità federale. A un'autorità federale che nell'ambito di un ricorso delle autorità esercita la propria funzione di vigilanza senza interessi patrimoniali non possono in linea di principio essere addossate spese giudiziarie cantonali.
 
@@ -117,11 +117,8 @@
 
 ## Bibliografia (selezione)
 
-- Ehrenzeller, BSK BGG, 3a ed. 2018, art. 111 LTF N. 11
 - Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10a ed. 2020, n. marg. 1461, 1480
 - Hangartner, Bundesaufsicht und richterliche Unabhängigkeit, ZBl 76/1975, pag. 6 segg.
-- Künzli, BSK BV, art. 186 N. 18 seg., 36
 - Pflüger, Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, n. marg. 826 segg.
 - Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3a ed. 2016, n. marg. 788, 2805 seg.
 - Tschannen, Staatsrecht der Schweizerischen Eidgenossenschaft, 5a ed. 2021, n. marg. 908 seg., 985–988
-- Waldmann, BSK BV, art. 49 N. 44

@@ -16,9 +16,9 @@
 
 ### 3. Elementi della fattispecie
 
-**N. 5** **Costituzione cantonale:** Il concetto comprende la costituzione formale come ordinamento fondamentale del Cantone. Belser/Massüger (BSK BV, Art. 51 N. 14) la definiscono come raccolta di norme giuridicamente suprema che ordina il sistema politico, garantisce i diritti fondamentali e stabilisce i compiti statali. La costituzione cantonale deve distinguersi formalmente da altri atti cantonali.
+**N. 5** **Costituzione cantonale:** Il concetto comprende la costituzione formale come ordinamento fondamentale del Cantone. Belser/Massüger la definiscono come raccolta di norme giuridicamente suprema che ordina il sistema politico, garantisce i diritti fondamentali e stabilisce i compiti statali. La costituzione cantonale deve distinguersi formalmente da altri atti cantonali.
 
-**N. 6** **Costituzione democratica:** Il requisito della costituzione democratica richiede secondo il Consiglio federale (cit. in Belser/Massüger, BSK BV, Art. 51 N. 20) almeno un parlamento eletto e il rispetto del principio della separazione dei poteri. La dottrina dominante (Belser/Massüger, BSK BV, Art. 51 N. 19) concretizza ciò attraverso quattro elementi: elezioni periodiche, suffragio universale e uguale, principio maggioritario e opposizione garantita.
+**N. 6** **Costituzione democratica:** Il requisito della costituzione democratica richiede secondo il Consiglio federale almeno un parlamento eletto e il rispetto del principio della separazione dei poteri. La dottrina dominante concretizza ciò attraverso quattro elementi: elezioni periodiche, suffragio universale e uguale, principio maggioritario e opposizione garantita.
 
 **N. 7** **Consenso del popolo:** La votazione costituzionale obbligatoria costituisce il nucleo della legittimazione democratica. **DTF 121 I 138 consid. 5** riconobbe anche la Landsgemeinde come forma ammissibile nonostante le debolezze sistemiche. Il consenso deve avvenire in una procedura libera e corretta.
 
@@ -36,9 +36,9 @@
 
 ### 5. Questioni controverse
 
-**N. 13** **Parlamenti bicamerali:** La dottrina dominante (cit. in Belser/Massüger, BSK BV, Art. 51 N. 33) ritiene i parlamenti cantonali bicamerali inammissibili, poiché contrastano con l'idea di uguaglianza. Belser/Massüger (BSK BV, Art. 51 N. 33) sostengono al contrario che un sistema bicamerale con motivi oggettivi come la protezione di minoranze linguistiche può ben essere democratico. La prassi non conosce parlamenti cantonali bicamerali.
+**N. 13** **Parlamenti bicamerali:** La dottrina dominante ritiene i parlamenti cantonali bicamerali inammissibili, poiché contrastano con l'idea di uguaglianza. Belser/Massüger sostengono al contrario che un sistema bicamerale con motivi oggettivi come la protezione di minoranze linguistiche può ben essere democratico. La prassi non conosce parlamenti cantonali bicamerali.
 
-**N. 14** **Maggioranze qualificate:** Un altro punto controverso riguarda i requisiti di maggioranze qualificate. La dottrina dominante (Belser/Massüger, BSK BV, Art. 51 N. 39) le respinge come antidemocratiche. Belser/Massüger (BSK BV, Art. 51 N. 39) argomentano in modo più differenziato: le maggioranze qualificate dovrebbero essere ammissibili con giustificazione oggettiva, ad esempio per la protezione di minoranze nazionali. Il Tribunale federale non ha ancora deciso questa questione.
+**N. 14** **Maggioranze qualificate:** Un altro punto controverso riguarda i requisiti di maggioranze qualificate. La dottrina dominante le respinge come antidemocratiche. Belser/Massüger argomentano in modo più differenziato: le maggioranze qualificate dovrebbero essere ammissibili con giustificazione oggettiva, ad esempio per la protezione di minoranze nazionali. Il Tribunale federale non ha ancora deciso questa questione.
 
 **N. 15** **Sistemi elettorali maggioritari:** L'ammissibilità di procedure elettorali puramente maggioritarie per i parlamenti cantonali è controversa. Hangartner (Die Wahl kantonaler Parlamente nach dem Majorzsystem, ZBl 2005, 217) le ritiene contrarie al diritto federale. **DTF 145 I 259 consid. 5** lasciò alla fine aperta la questione, ma sottolineò i severi requisiti per la ripartizione dei circondari elettorali nei sistemi maggioritari.
 

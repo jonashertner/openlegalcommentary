@@ -10,21 +10,21 @@
 
 **N. 3** Art. 84 FC is systematically located in Section 3 of Title 3 of the Federal Constitution, which regulates public works and transport. The provision is closely linked to → Art. 85 FC (heavy goods vehicle levy), which forms the central fiscal policy instrument for implementing the modal shift. Further systematic references exist to → Arts. 73 ff. FC (sustainability and environmental protection), → Art. 74 FC (environmental protection) and → Art. 83 FC (national roads).
 
-**N. 4** In the international context, Art. 84 FC exists in tension with the Land Transport Agreement Switzerland-EU (SR 0.740.72), which guarantees free movement of goods. This tension was mitigated by Art. 1 para. 3 of the Land Transport Agreement, which acknowledges the objectives of Swiss modal shift policy (Epiney, BSK BV, Art. 84 N. 2).
+**N. 4** In the international context, Art. 84 FC exists in tension with the Land Transport Agreement Switzerland-EU (SR 0.740.72), which guarantees free movement of goods. This tension was mitigated by Art. 1 para. 3 of the Land Transport Agreement, which acknowledges the objectives of Swiss modal shift policy.
 
 ## 3. Elements of the Provision / Normative Content
 
 ### 3.1 Protective Mandate (Para. 1)
 
-**N. 5** The term «Alpine region» encompasses, according to the legal definition in Art. 2 FHVT, the cantons of Uri, Schwyz, Obwalden, Nidwalden, Glarus, Ticino, Graubünden and Valais. The «negative effects of transit traffic» include noise, air pollutant and CO2 emissions, vibrations, landscape fragmentation and accident risks (Epiney, BSK BV, Art. 84 N. 5).
+**N. 5** The term «Alpine region» encompasses, according to the legal definition in Art. 2 FHVT, the cantons of Uri, Schwyz, Obwalden, Nidwalden, Glarus, Ticino, Graubünden and Valais. The «negative effects of transit traffic» include noise, air pollutant and CO2 emissions, vibrations, landscape fragmentation and accident risks.
 
-**N. 6** The protective mandate obliges the Confederation to take active measures. This is not merely a programmatic constitutional mandate, but a duty of the Confederation to take concrete protective measures (Epiney, BSK BV, Art. 84 N. 7). The «level that is not harmful to humans, animals and plants as well as their habitats» is oriented to the environmental law limit values according to environmental protection legislation.
+**N. 6** The protective mandate obliges the Confederation to take active measures. This is not merely a programmatic constitutional mandate, but a duty of the Confederation to take concrete protective measures. The «level that is not harmful to humans, animals and plants as well as their habitats» is oriented to the environmental law limit values according to environmental protection legislation.
 
 ### 3.2 Transfer Requirement (Para. 2)
 
-**N. 7** The transfer requirement of para. 2 contains a clear objective: Trans-Alpine goods transit traffic «shall be transferred to rail». This is not to be understood as an absolute driving ban for trucks, but as a result obligation with a binding target horizon (Epiney, BSK BV, Art. 84 N. 14). The term «goods transit traffic» encompasses commercial goods traffic that crosses the Alpine region without loading or unloading.
+**N. 7** The transfer requirement of para. 2 contains a clear objective: Trans-Alpine goods transit traffic «shall be transferred to rail». This is not to be understood as an absolute driving ban for trucks, but as a result obligation with a binding target horizon. The term «goods transit traffic» encompasses commercial goods traffic that crosses the Alpine region without loading or unloading.
 
-**N. 8** The Federal Council's «necessary measures» encompass a package of instruments: the distance-related heavy goods vehicle levy (HVL) according to → Art. 85 FC, night and Sunday driving bans, promotion of combined transport and expansion of rail infrastructure (NEAT). The Federal Council and Parliament view the HVL in combination with other measures as a suitable instrument for implementing the transfer objective (Epiney, BSK BV, Art. 84 N. 14).
+**N. 8** The Federal Council's «necessary measures» encompass a package of instruments: the distance-related heavy goods vehicle levy (HVL) according to → Art. 85 FC, night and Sunday driving bans, promotion of combined transport and expansion of rail infrastructure (NEAT). The Federal Council and Parliament view the HVL in combination with other measures as a suitable instrument for implementing the transfer objective.
 
 **N. 9** Exceptions to the transfer requirement are only permissible if they are «unavoidable». This term is to be interpreted restrictively and encompasses only transports that cannot be carried out by rail for technical or safety reasons. The more detailed definition by law took place in the GFTCA and FHVT.
 
@@ -32,7 +32,7 @@
 
 **N. 10** The prohibition on capacity increases is formulated in absolute terms and tolerates only the explicitly mentioned exception of bypass roads. The term «transit road capacity» refers to the maximum traffic volume that a road infrastructure can handle.
 
-**N. 11** The interpretation of the capacity concept is disputed. Kern argues that the construction of a second Gotthard road tunnel tube already violates Art. 84 para. 3 FC, as a capacity increase as such exists (Epiney, BSK BV, Art. 84 N. 27-28). By contrast, the Federal Council and Parliament take the position that construction of a second tube is permissible if it is only used with one lane and thus no actual capacity increase occurs (Epiney, BSK BV, Art. 84 N. 28).
+**N. 11** The interpretation of the capacity concept is disputed. Kern argues that the construction of a second Gotthard road tunnel tube already violates Art. 84 para. 3 FC, as a capacity increase as such exists. By contrast, the Federal Council and Parliament take the position that construction of a second tube is permissible if it is only used with one lane and thus no actual capacity increase occurs.
 
 ## 4. Legal Consequences
 

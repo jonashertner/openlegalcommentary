@@ -51,7 +51,7 @@
 - les taxes d'orientation (p. ex. RPLP selon l'art. 85 Cst.)
 - les redevances générales de circulation
 
-**N. 13** L'Assemblée fédérale peut autoriser des exceptions, ce qu'elle a fait pour la vignette autoroutière (art. 86 al. 2 Cst.) et la RPLP (art. 85 Cst.). Toutefois, les exceptions doivent demeurer strictement limitées (Waldmann/Belser/Epiney, BSK BV, 2e éd. 2024, art. 82 N 18).
+**N. 13** L'Assemblée fédérale peut autoriser des exceptions, ce qu'elle a fait pour la vignette autoroutière (art. 86 al. 2 Cst.) et la RPLP (art. 85 Cst.). Toutefois, les exceptions doivent demeurer strictement limitées.
 
 ### 4. Effets juridiques
 

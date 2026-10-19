@@ -6,7 +6,7 @@
 
 **Ch. 2** Le message concernant la réforme de la péréquation financière du 14 novembre 2001 (FF 2001 2291, en particulier 2358 ss) désigne l'art. 43a Cst. comme la « pièce maîtresse du nouvel ordre fédéral des tâches ». Cette disposition vise à accroître l'efficacité de l'accomplissement des tâches étatiques et à attribuer plus clairement les responsabilités. Elle doit notamment garantir l'équivalence fiscale — la concordance entre l'utilité, les coûts et les compétences décisionnelles.
 
-**Ch. 3** La genèse montre que le constituant a délibérément voulu ancrer des principes programmatiques s'adressant en premier lieu au législateur. Comme l'a précisé le Conseil fédéral dans le message : « L'article 43a, alinéa 4, ne crée pas de droits exigibles en justice » (Biaggini, BSK BV, art. 43a ch. 36).
+**Ch. 3** La genèse montre que le constituant a délibérément voulu ancrer des principes programmatiques s'adressant en premier lieu au législateur. Comme l'a précisé le Conseil fédéral dans le message: « L'article 43a, alinéa 4, ne crée pas de droits exigibles en justice ».
 
 ## 2. Situation systématique
 
@@ -19,7 +19,7 @@
 - → Art. 47 Cst. (Autonomie des cantons)
 - → Art. 48 Cst. (Accords entre cantons)
 
-**Ch. 6** Selon la doctrine unanime, les principes de l'art. 43a Cst. ne se prêtent pas à servir de critère d'appréciation judiciaire (Biaggini, BSK BV, art. 43a ch. 5). La disposition déploie ses effets principalement comme directive pour le législateur lors de l'aménagement de la répartition des tâches.
+**Ch. 6** Selon la doctrine unanime, les principes de l'art. 43a Cst. ne se prêtent pas à servir de critère d'appréciation judiciaire. La disposition déploie ses effets principalement comme directive pour le législateur lors de l'aménagement de la répartition des tâches.
 
 ## 3. Éléments constitutifs / Contenu normatif
 
@@ -31,7 +31,7 @@
 - **Incapacité des cantons** : Les forces des cantons ne suffisent pas pour accomplir la tâche
 - **Besoin d'uniformité** : Une diversité fédérale conduirait à des résultats insupportables
 
-**Ch. 9** Selon Schweizer/Müller, l'incapacité ou la réticence de cantons isolés ne suffit pas pour le critère de force (cité dans Biaggini, BSK BV, art. 43a ch. 17). Il doit s'agir d'une incapacité structurelle qui concerne plusieurs ou tous les cantons.
+**Ch. 9** Selon Schweizer/Müller, l'incapacité ou la réticence de cantons isolés ne suffit pas pour le critère de force. Il doit s'agir d'une incapacité structurelle qui concerne plusieurs ou tous les cantons.
 
 ### Équivalence fiscale (al. 2 et 3)
 
@@ -54,7 +54,7 @@
 - L'éducation (→ art. 19, 61a ss Cst.)
 - Les soins de santé (→ art. 117 Cst.)
 
-**Ch. 14** Le Conseil fédéral a expressément précisé que l'art. 43a al. 4 Cst. ne crée pas de droits exigibles en justice (Biaggini, BSK BV, art. 43a ch. 36). La disposition s'adresse au législateur, non aux autorités d'application du droit.
+**Ch. 14** Le Conseil fédéral a expressément précisé que l'art. 43a al. 4 Cst. ne crée pas de droits exigibles en justice. La disposition s'adresse au législateur, non aux autorités d'application du droit.
 
 ### Accomplissement économique des tâches (al. 5)
 
@@ -83,7 +83,7 @@
 
 ### Justiciabilité des principes
 
-**Ch. 20** L'absence de justiciabilité de l'art. 43a Cst. est largement incontestée dans la doctrine (Biaggini, BSK BV, art. 43a ch. 5 ; Waldmann/Borter, Rechtsprechung zum Schweizerischen Föderalismus, Anhang III zum Monitoringbericht Föderalismus 2011–2013). Sporadiquement, une justiciabilité partielle via d'autres normes constitutionnelles est préconisée.
+**Ch. 20** L'absence de justiciabilité de l'art. 43a Cst. est largement incontestée dans la doctrine (Waldmann/Borter, Rechtsprechung zum Schweizerischen Föderalismus, Anhang III zum Monitoringbericht Föderalismus 2011–2013). Sporadiquement, une justiciabilité partielle via d'autres normes constitutionnelles est préconisée.
 
 ### Portée du principe de subsidiarité
 

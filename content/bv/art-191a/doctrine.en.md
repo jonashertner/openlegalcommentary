@@ -48,7 +48,7 @@
 
 ### 5. Controversies
 
-**N. 16** In doctrine it is disputed whether Art. 191a para. 3 BV also permits the creation of speciality courts in civil law outside patent law. **Ehrenzeller/Schweizer** (SGK BV, Art. 191a N. 18) affirm this with reference to the open wording. **Kiener** (BSK BV, Art. 191a N. 25) advocates a more restrictive interpretation and demands a clear factual reason for speciality courts.
+**N. 16** In doctrine it is disputed whether Art. 191a para. 3 BV also permits the creation of speciality courts in civil law outside patent law. **Ehrenzeller/Schweizer** (SGK BV, Art. 191a N. 18) affirm this with reference to the open wording. **Kiener** advocates a more restrictive interpretation and demands a clear factual reason for speciality courts.
 
 **N. 17** The question of minimum requirements for the organisation of federal courts is controversially discussed. **Griffel** (in: Verfassungsrecht der Schweiz, § 73 N. 45) demands a minimum size and organisational independence. **Biaggini** (BV Kommentar, Art. 191a N. 8) considers smaller units also permissible, as long as judicial independence is guaranteed.
 

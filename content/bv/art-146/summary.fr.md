@@ -1,8 +1,8 @@
 ## Vue d'ensemble
 
-L'art. 146 Cst. oblige la Confédération à répondre des dommages causés par ses organes. Cette responsabilité de l'État constitue selon Jellinek l'« Ultima Ratio de l'État de droit » (BSK BV-Schaub, N. 2). Elle s'applique à toutes les autorités fédérales, de l'administration aux tribunaux.
+L'art. 146 Cst. oblige la Confédération à répondre des dommages causés par ses organes. Cette responsabilité de l'État constitue selon Jellinek l'« Ultima Ratio de l'État de droit ». Elle s'applique à toutes les autorités fédérales, de l'administration aux tribunaux.
 
-La Confédération doit remplir quatre conditions : il faut qu'il y ait un dommage, causé par un organe fédéral dans l'exercice de ses fonctions officielles, illicitement et avec un lien de causalité adéquat. Est illicite toute violation de l'ordre juridique, indépendamment de la faute des fonctionnaires. La responsabilité est une pure responsabilité causale sans exigence de faute (art. 3 LRCF ; BSK BV-Schaub, N. 31).
+La Confédération doit remplir quatre conditions: il faut qu'il y ait un dommage, causé par un organe fédéral dans l'exercice de ses fonctions officielles, illicitement et avec un lien de causalité adéquat. Est illicite toute violation de l'ordre juridique, indépendamment de la faute des fonctionnaires. La responsabilité est une pure responsabilité causale sans exigence de faute (art. 3 LRCF).
 
 Exemple : Un policier endommage illégalement un véhicule lors d'une intervention. La Confédération répond des dommages de réparation, même si le fonctionnaire n'en avait pas l'intention. Un deuxième exemple : L'Office fédéral de la santé publique donne une fausse recommandation de vaccination qui entraîne des dommages à la santé.
 

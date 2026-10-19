@@ -8,7 +8,7 @@
 
 **N. 2** La destinazione vincolata dell'imposta sugli oli minerali per il traffico aereo ha una lunga tradizione. Già con l'introduzione dell'imposta sugli oli minerali nel 1996 fu stabilito che una parte dei proventi della tassazione dei carburanti per aeromobili dovesse essere utilizzata per scopi legati all'aviazione. Con l'art. 87b Cost. questa prassi ha ottenuto una base costituzionale esplicita (Ehrenzeller/Schindler/Schweizer/Vallender, Commentario di San Gallo Cost., 4a ed. 2023, Art. 87b N. 1).
 
-**N. 3** La disposizione è in relazione sistematica con l'art. 86 Cost. (imposta sugli oli minerali) e l'art. 87 Cost. (aviazione). Essa forma il pendant specifico dell'aviazione al finanziamento speciale del traffico stradale secondo l'art. 86 cpv. 3 Cost. Il costituente ha voluto così assicurare che le imposte generate dal traffico aereo giovino anche a questo settore (Waldmann/Belser/Epiney, BSK Cost., 2a ed. 2024, Art. 87b N. 3).
+**N. 3** La disposizione è in relazione sistematica con l'art. 86 Cost. (imposta sugli oli minerali) e l'art. 87 Cost. (aviazione). Essa forma il pendant specifico dell'aviazione al finanziamento speciale del traffico stradale secondo l'art. 86 cpv. 3 Cost. Il costituente ha voluto così assicurare che le imposte generate dal traffico aereo giovino anche a questo settore.
 
 ### 2. Collocazione sistematica
 
@@ -30,7 +30,7 @@
 - 50% del ricavo netto dell'imposta di consumo sui carburanti per aeromobili (imposta di base)
 - 100% della sovrattassa sull'imposta di consumo sui carburanti per aeromobili
 
-Il concetto di «ricavo netto» designa le entrate fiscali dopo deduzione dei costi di riscossione (Waldmann/Belser/Epiney, BSK Cost., Art. 87b N. 5).
+Il concetto di «ricavo netto» designa le entrate fiscali dopo deduzione dei costi di riscossione.
 
 **N. 9** **Scopi di utilizzazione**: I mezzi devono essere utilizzati per «compiti e spese in relazione con il traffico aereo». L'art. 87b lett. a-c Cost. concretizza tre principali scopi di utilizzazione:
 - Contributi a misure di protezione dell'ambiente nel traffico aereo (lett. a)
@@ -51,7 +51,7 @@ Il concetto di «ricavo netto» designa le entrate fiscali dopo deduzione dei co
 
 ### 5. Punti controversi
 
-**N. 15** Nella dottrina è controverso quanto ampiamente debba essere inteso il concetto di «compiti e spese in relazione con il traffico aereo». Waldmann/Belser/Epiney (BSK Cost., Art. 87b N. 7) sostengono un'interpretazione piuttosto restrittiva e richiedono una stretta relazione oggettiva con il traffico aereo. Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo Cost., Art. 87b N. 9) propendono per un'interpretazione più generosa che include anche misure infrastrutturali affini al traffico aereo.
+**N. 15** Nella dottrina è controverso quanto ampiamente debba essere inteso il concetto di «compiti e spese in relazione con il traffico aereo». Waldmann/Belser/Epiney sostengono un'interpretazione piuttosto restrittiva e richiedono una stretta relazione oggettiva con il traffico aereo. Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo Cost., Art. 87b N. 9) propendono per un'interpretazione più generosa che include anche misure infrastrutturali affini al traffico aereo.
 
 **N. 16** È discussa controversamente anche la questione se i mezzi possano essere utilizzati esclusivamente per l'aviazione civile o se possano includere anche scopi militari. La dottrina dominante parte dal presupposto che l'art. 87b Cost. sia orientato primariamente all'aviazione civile, ma non esclude categoricamente misure a doppio uso (Häfelin/Haller/Keller/Thurnherr, Diritto costituzionale svizzero, N. 2157).
 

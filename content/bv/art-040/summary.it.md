@@ -4,9 +4,9 @@
 
 L'articolo 40 della Costituzione federale disciplina i rapporti tra la Svizzera e i suoi cittadini all'estero. La Confederazione riceve così un duplice compito: deve promuovere i legami tra gli Svizzeri all'estero e con la patria. Inoltre deve emanare leggi che regolano i loro diritti e doveri.
 
-Secondo la dottrina giuridica, per Svizzeri all'estero si intendono le persone che vivono permanentemente all'estero e possiedono la cittadinanza svizzera (Tschannen, BSK BV, Art. 40 N. 4). Non rientrano in questa categoria i brevi soggiorni all'estero come vacanze o viaggi d'affari.
+Secondo la dottrina giuridica, per Svizzeri all'estero si intendono le persone che vivono permanentemente all'estero e possiedono la cittadinanza svizzera. Non rientrano in questa categoria i brevi soggiorni all'estero come vacanze o viaggi d'affari.
 
-L'articolo crea un'importante competenza federale (Tschannen, BSK BV, Art. 40 N. 3). Normalmente sono i Cantoni ad essere responsabili dell'assistenza ai loro cittadini. Per gli Svizzeri all'estero invece è competente la Confederazione, poiché solo essa dispone dei necessari collegamenti diplomatici.
+L'articolo crea un'importante competenza federale. Normalmente sono i Cantoni ad essere responsabili dell'assistenza ai loro cittadini. Per gli Svizzeri all'estero invece è competente la Confederazione, poiché solo essa dispone dei necessari collegamenti diplomatici.
 
 La Confederazione può sostenere organizzazioni che assistono gli Svizzeri all'estero. Ad esempio promuove l'Organizzazione degli Svizzeri all'estero (OSE), che funge da organizzazione mantello per oltre 750 associazioni svizzere all'estero. Le singole persone però non hanno diritto al sostegno statale.
 

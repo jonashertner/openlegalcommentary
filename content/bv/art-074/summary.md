@@ -4,9 +4,9 @@
 
 Artikel 74 BV gibt dem Bund die Aufgabe, Menschen und Umwelt vor Umweltschäden zu schützen. Der Bund muss Gesetze erlassen, die schädliche oder lästige Einwirkungen verhindern. Die Kantone setzen diese Gesetze um.
 
-Der Artikel beruht auf zwei wichtigen Grundsätzen: Erstens sollen Umweltschäden verhindert werden, bevor sie entstehen (Vorsorgeprinzip). Zweitens müssen diejenigen die Kosten tragen, die Umweltschäden verursachen (Verursacherprinzip nach Art. 2 USG, siehe Griffel, BSK BV, Art. 74 N. 34-36). 
+Der Artikel beruht auf zwei wichtigen Grundsätzen: Erstens sollen Umweltschäden verhindert werden, bevor sie entstehen (Vorsorgeprinzip). Zweitens müssen diejenigen die Kosten tragen, die Umweltschäden verursachen. 
 
-**Schädliche Einwirkungen** gefährden Gesundheit oder Wohlbefinden erheblich. **Lästige Einwirkungen** stören das Wohlbefinden, ohne gesundheitsgefährdend zu sein (Griffel, BSK BV, Art. 74 N. 16-20). Das Umweltschutzgesetz (USG) konkretisiert diese Begriffe.
+**Schädliche Einwirkungen** gefährden Gesundheit oder Wohlbefinden erheblich. **Lästige Einwirkungen** stören das Wohlbefinden, ohne gesundheitsgefährdend zu sein. Das Umweltschutzgesetz (USG) konkretisiert diese Begriffe.
 
 Das Vorsorgeprinzip bedeutet: Der Staat muss bereits bei möglichen Gefahren handeln. Er wartet nicht, bis Schäden eingetreten sind (Marti, Vorsorgeprinzip, S. 156). Das Bundesgericht hat dies bei der BSE-Krise bestätigt: «Der Bund muss alle Maßnahmen treffen, die nach dem Stand von Wissenschaft und Erfahrung angezeigt sind» (**BGE 132 II 305**).
 

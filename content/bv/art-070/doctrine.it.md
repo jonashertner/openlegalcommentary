@@ -4,13 +4,13 @@
 
 **N. 1** L'art. 70 Cost. ha le sue radici nell'art. 116 Cost. 1874, che per la prima volta ancorò costituzionalmente la diversità linguistica della Svizzera. La revisione totale del 1999 portò una riformulazione completa delle disposizioni linguistiche. Come espone il Messaggio su una nuova Costituzione federale del 20 novembre 1996, «la nuova norma linguistica deve onorare il plurilinguismo come caratteristica essenziale dello Stato federale e stabilire obblighi concreti per Confederazione e Cantoni» (FF 1997 I 315).
 
-**N. 2** Il dibattito parlamentare fu caratterizzato dalla discussione sull'insegnamento delle lingue. Il Consiglio nazionale respinse una proposta di minoranza che voleva prescrivere ai Cantoni di insegnare a scuola una lingua nazionale come seconda lingua (Belser/Waldmann, BSK BV, Art. 70 N. 13). La versione definitiva lascia deliberatamente questa questione alla sovranità cantonale in materia di formazione.
+**N. 2** Il dibattito parlamentare fu caratterizzato dalla discussione sull'insegnamento delle lingue. Il Consiglio nazionale respinse una proposta di minoranza che voleva prescrivere ai Cantoni di insegnare a scuola una lingua nazionale come seconda lingua. La versione definitiva lascia deliberatamente questa questione alla sovranità cantonale in materia di formazione.
 
 **N. 3** L'esplicita inclusione del romancio come lingua ufficiale della Confederazione nei rapporti con persone di lingua romancia (cpv. 1 frase 2) costituisce un'importante novità rispetto alla vecchia costituzione. Questa disposizione riconosce la posizione particolare della quarta lingua nazionale e rafforza la sua protezione costituzionale.
 
 ### 2. Inquadramento sistematico
 
-**N. 4** L'art. 70 Cost. forma insieme all'→ art. 4 Cost. (lingue nazionali) e all'→ art. 18 Cost. (libertà di lingua) il nucleo costituzionale del diritto linguistico svizzero. La norma è sistematicamente collocata nel 1° capitolo «Posizione di Confederazione e Cantoni», il che sottolinea la sua dimensione di diritto dell'organizzazione statale (Belser/Waldmann, BSK BV, Art. 70 N. 1).
+**N. 4** L'art. 70 Cost. forma insieme all'→ art. 4 Cost. (lingue nazionali) e all'→ art. 18 Cost. (libertà di lingua) il nucleo costituzionale del diritto linguistico svizzero. La norma è sistematicamente collocata nel 1° capitolo «Posizione di Confederazione e Cantoni», il che sottolinea la sua dimensione di diritto dell'organizzazione statale.
 
 **N. 5** Il collegamento con l'→ art. 8 cpv. 2 Cost. (divieto di discriminazione a causa della lingua) è evidente. Ulteriori rimandi incrociati esistono con l'→ art. 69 Cost. (promozione della cultura), l'→ art. 31 cpv. 2 Cost. (libertà di lingua nella privazione della libertà) e l'→ art. 175 cpv. 4 Cost. (rappresentanza linguistica nel Consiglio federale).
 
@@ -28,13 +28,13 @@
 
 **N. 9** I Cantoni determinano autonomamente le loro lingue ufficiali. Questa competenza è emanazione della sovranità cantonale e consente soluzioni differenziate. I limiti di questa autonomia risiedono nel principio della territorialità e nella protezione delle minoranze.
 
-**N. 10** Il principio della territorialità serve secondo la giurisprudenza costante dalla **DTF 100 Ia 462** alla conservazione delle aree di diffusione tradizionali delle lingue nazionali. La dottrina è divisa sulla sua portata esatta: Papaux (FZR 2002, 157) sottolinea la rigorosa separazione delle aree linguistiche per mantenere l'omogenità, mentre Müller/Schefer (Grundrechte, 4a ed. 2008, 326) pongono in primo piano la pace linguistica e la coesione sociale (Belser/Waldmann, BSK BV, Art. 70 N. 31).
+**N. 10** Il principio della territorialità serve secondo la giurisprudenza costante dalla **DTF 100 Ia 462** alla conservazione delle aree di diffusione tradizionali delle lingue nazionali. La dottrina è divisa sulla sua portata esatta: Papaux (FZR 2002, 157) sottolinea la rigorosa separazione delle aree linguistiche per mantenere l'omogenità, mentre Müller/Schefer (Grundrechte, 4a ed. 2008, 326) pongono in primo piano la pace linguistica e la coesione sociale.
 
 **N. 11** Le «minoranze linguistiche autoctone» sono gruppi linguistici storicamente radicati in una determinata area. Il concetto è più ristretto di «minoranza linguistica» e non comprende i gruppi linguistici immigrati di recente. Ciò fu confermato dalla **DTF 122 I 236** per gli immigrati di lingua straniera.
 
 #### Promozione della comprensione (cpv. 3)
 
-**N. 12** L'obbligo di comprensione si rivolge ugualmente a Confederazione e Cantoni. Ha natura programmatica e non fonda diritti soggettivi. Ehrenzeller (BSK BV, Art. 70 N. 39) sostiene che da questa disposizione non può essere derivata alcuna competenza materiale di disciplinamento della Confederazione per l'insegnamento delle lingue straniere.
+**N. 12** L'obbligo di comprensione si rivolge ugualmente a Confederazione e Cantoni. Ha natura programmatica e non fonda diritti soggettivi. Ehrenzeller sostiene che da questa disposizione non può essere derivata alcuna competenza materiale di disciplinamento della Confederazione per l'insegnamento delle lingue straniere.
 
 #### Obblighi di sostegno della Confederazione (cpv. 4 e 5)
 

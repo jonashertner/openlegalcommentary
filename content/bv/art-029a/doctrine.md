@@ -40,7 +40,7 @@
 
 **N. 12** Zur Frage des Zeitpunkts des Zugangs zum Richter: Die Rechtsweggarantie gilt grundsätzlich auch für Zwischenentscheide, aber nur dann, wenn ein nicht wieder gutzumachender Nachteil eine sofortige gerichtliche Beurteilung erfordert. Ist kein solcher Nachteil erkennbar, genügt es, dass der Zwischenentscheid zusammen mit dem Endentscheid einer gerichtlichen Überprüfung unterzogen werden kann (**BGE 146 I 62** E. 5.1; **BGE 138 V 271** E. 3.1).
 
-**N. 13** Der Anspruch umfasst nach herrschender Lehre und Praxis auch eine Kostenkomponente: Gerichtsgebühren dürfen den Zugang zur Justiz nicht übermässig erschweren. Das Äquivalenzprinzip, das die Verhältnismässigkeit der Gebühr gewährleistet, wird durch Art. 29a BV mitgeprägt (**BGE 145 I 52** E. 5.2.3; vgl. auch Kley, SGK BV, Art. 29a N. 7; Biaggini, BV, 2. Aufl. 2017, Art. 29a N. 8b; Waldmann, BSK BV, Art. 29a N. 28).
+**N. 13** Der Anspruch umfasst nach herrschender Lehre und Praxis auch eine Kostenkomponente: Gerichtsgebühren dürfen den Zugang zur Justiz nicht übermässig erschweren. Das Äquivalenzprinzip, das die Verhältnismässigkeit der Gebühr gewährleistet, wird durch Art. 29a BV mitgeprägt (**BGE 145 I 52** E. 5.2.3; vgl. auch Kley, SGK BV, Art. 29a N. 7; Biaggini, BV, 2. Aufl. 2017, Art. 29a N. 8b).
 
 #### 3.3 Ausnahmevorbehalt
 
@@ -72,7 +72,7 @@
 
 #### 5.3 Reichweite des Ausnahmevorbehalts
 
-**N. 21** In der Lehre ist streitig, ob der in Art. 29a Satz 2 BV vorgesehene Ausnahmevorbehalt eng oder weit auszulegen ist. Waldmann (BSK BV, Art. 29a N. 28) plädiert für eine restriktive Auslegung: Nur Fälle echter Nicht-Justiziabilität — d.h. Fälle, in denen das Gericht mangels rechtlich gebundener Entscheidungsgrundlage eine Beurteilung gar nicht vornehmen kann — rechtfertigen einen Ausschluss. Demgegenüber betonen Häfelin/Haller/Keller/Thurnherr (N. 857), dass auch Gewaltenteilungsüberlegungen — namentlich bei Regierungs- und Parlamentsakten — einen Ausschluss legitimieren können. Das Bundesgericht hat in **BGE 137 I 128** E. 4.2 klargestellt, dass Ausnahmefälle im Sinne von Art. 29a BV Satz 2 Entscheide betreffen, die schwer «justizierbar» sind und wesentlich politische Fragen aufwerfen. Diese Formel lässt einen gewissen Spielraum, wird aber in der Lehre als zu unscharf kritisiert (Kley, SGK BV, Art. 29a N. 14 f.).
+**N. 21** In der Lehre ist streitig, ob der in Art. 29a Satz 2 BV vorgesehene Ausnahmevorbehalt eng oder weit auszulegen ist. Waldmann plädiert für eine restriktive Auslegung: Nur Fälle echter Nicht-Justiziabilität — d.h. Fälle, in denen das Gericht mangels rechtlich gebundener Entscheidungsgrundlage eine Beurteilung gar nicht vornehmen kann — rechtfertigen einen Ausschluss. Demgegenüber betonen Häfelin/Haller/Keller/Thurnherr (N. 857), dass auch Gewaltenteilungsüberlegungen — namentlich bei Regierungs- und Parlamentsakten — einen Ausschluss legitimieren können. Das Bundesgericht hat in **BGE 137 I 128** E. 4.2 klargestellt, dass Ausnahmefälle im Sinne von Art. 29a BV Satz 2 Entscheide betreffen, die schwer «justizierbar» sind und wesentlich politische Fragen aufwerfen. Diese Formel lässt einen gewissen Spielraum, wird aber in der Lehre als zu unscharf kritisiert (Kley, SGK BV, Art. 29a N. 14 f.).
 
 #### 5.4 Verhältnis zu Art. 190 BV bei bundesgesetzlichen Lücken
 

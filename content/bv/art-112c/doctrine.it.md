@@ -16,7 +16,7 @@
 
 **N. 5** **«La Confederazione promuove»**: Questa formulazione fonda una competenza di promozione, ma non una competenza normativa globale. La competenza federale è limitata a misure di sostegno; non esiste una competenza federale completa per l'assistenza agli anziani e ai disabili (Schweizer, St. Galler Kommentar BV, 4ª ed. 2023, art. 112c N. 4).
 
-**N. 6** **«gli sforzi a favore degli anziani e dei disabili»**: Il termine «sforzi» comprende tutte le attività e misure che servono al miglioramento della situazione di vita di persone anziane e disabili. Ciò include sia iniziative private che pubbliche (Gächter/Filippo, BSK BV, 2ª ed. 2024, art. 112c N. 8).
+**N. 6** **«gli sforzi a favore degli anziani e dei disabili»**: Il termine «sforzi» comprende tutte le attività e misure che servono al miglioramento della situazione di vita di persone anziane e disabili. Ciò include sia iniziative private che pubbliche.
 
 **N. 7** I termini «anziani» e «disabili» devono essere intesi in senso ampio. «Anziani» comprende tutte le persone in età pensionabile, indipendentemente dal loro bisogno di assistenza. Il termine «disabili» si orienta al concetto moderno di disabilità della Convenzione ONU sui diritti delle persone con disabilità e comprende persone con menomazioni fisiche, psichiche, mentali o sensoriali durature (Müller/Schefer, Grundrechte in der Schweiz, 4ª ed. 2008, p. 745 seg.).
 
@@ -28,11 +28,11 @@
 
 ### 5. Controversie dottrinali
 
-**N. 10** **Portata della competenza federale**: In dottrina è controverso fino a dove si estenda la competenza di promozione della Confederazione. Schweizer (St. Galler Kommentar BV, art. 112c N. 6) sostiene un'interpretazione restrittiva e sottolinea il carattere sussidiario della competenza federale. Gächter/Filippo (BSK BV, art. 112c N. 12 seg.) si pronunciano per un'interpretazione più ampia, che conceda alla Confederazione anche certe competenze normative nel quadro della promozione.
+**N. 10** **Portata della competenza federale**: In dottrina è controverso fino a dove si estenda la competenza di promozione della Confederazione. Schweizer (St. Galler Kommentar BV, art. 112c N. 6) sostiene un'interpretazione restrittiva e sottolinea il carattere sussidiario della competenza federale. Gächter/Filippo si pronunciano per un'interpretazione più ampia, che conceda alla Confederazione anche certe competenze normative nel quadro della promozione.
 
 **N. 11** **Rapporto con i Cantoni**: La natura concorrente della competenza è indiscussa, tuttavia divergono le opinioni sulla portata dell'autonomia cantonale. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3ª ed. 2016, N. 3854) sottolineano la persistente competenza principale cantonale. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10ª ed. 2020, N. 1285) vedono invece una rafforzata corresponsabilità federale, in particolare nel finanziamento.
 
-**N. 12** **Interpretazione conforme al diritto internazionale**: Con la ratifica della Convenzione ONU sui diritti delle persone con disabilità si è posta la questione in quale misura l'art. 112c Cost. debba essere interpretato alla luce del diritto internazionale. Schefer (in: Müller/Schefer, Grundrechte, p. 748) richiede un'interpretazione espansiva nel senso della Convenzione. Waldmann (BSK BV, art. 8 N. 86) ammonisce alla moderazione e sottolinea la differenza tra mandato di promozione e obbligo derivante dai diritti fondamentali.
+**N. 12** **Interpretazione conforme al diritto internazionale**: Con la ratifica della Convenzione ONU sui diritti delle persone con disabilità si è posta la questione in quale misura l'art. 112c Cost. debba essere interpretato alla luce del diritto internazionale. Schefer (in: Müller/Schefer, Grundrechte, p. 748) richiede un'interpretazione espansiva nel senso della Convenzione. Waldmann ammonisce alla moderazione e sottolinea la differenza tra mandato di promozione e obbligo derivante dai diritti fondamentali.
 
 ### 6. Indicazioni pratiche
 

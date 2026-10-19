@@ -6,7 +6,7 @@
 
 **N. 1** L'art. 134 Cost. riunisce le disposizioni di armonizzazione che, sotto la vecchia Costituzione federale, erano sparse in diverse norme (art. 32bis cpv. 5, art. 36ter, art. 41bis cpv. 2 e art. 41ter cpv. 2 aCostituzione federale). Secondo il messaggio del Consiglio federale del 20 novembre 1996 sulla nuova Costituzione federale, la norma si prefigge un «aggiornamento formale» della situazione giuridica esistente (FF 1997 I 389). Il costituente non intendeva modificare materialmente l'ordinamento fiscale stabilito tra Confederazione e Cantoni.
 
-**N. 2** La disposizione ha radici storiche nell'ampliamento graduale delle competenze della Confederazione in materia fiscale. Mentre i Cantoni disponevano originariamente di una sovranità fiscale completa, il fabbisogno di finanziamento della Confederazione portò all'introduzione successiva di imposte federali. Con ogni nuova legge fiscale federale si poneva la questione della delimitazione rispetto ai tributi cantonali, per evitare un carico eccessivo sui contribuenti (Behnisch, BSK Cost., art. 134 n. 1).
+**N. 2** La disposizione ha radici storiche nell'ampliamento graduale delle competenze della Confederazione in materia fiscale. Mentre i Cantoni disponevano originariamente di una sovranità fiscale completa, il fabbisogno di finanziamento della Confederazione portò all'introduzione successiva di imposte federali. Con ogni nuova legge fiscale federale si poneva la questione della delimitazione rispetto ai tributi cantonali, per evitare un carico eccessivo sui contribuenti.
 
 ### 2. Classificazione sistematica
 
@@ -46,11 +46,11 @@
 ### 5. Punti controversi
 
 **N. 12** **Interpretazione del «stesso genere»**: La dottrina è divisa nella valutazione della giurisprudenza del Tribunale federale:
-- **Biaggini** (BSK Cost., art. 134 n. 6) critica la prassi come «favorevole ai Cantoni» resp. «più favorevole al fisco che ai cittadini», poiché il cumulo di imposte viene sostituito soltanto da una giustapposizione.
-- **Behnisch** (BSK Cost., art. 134 n. 7, 20) respinge la giurisprudenza che si basa su categorie di scienza finanziaria invece che su criteri giuridico-tecnici. Egli esige che il Tribunale federale si discosti dal suo «atteggiamento troppo restrittivo».
+- **Biaggini** critica la prassi come «favorevole ai Cantoni» resp. «più favorevole al fisco che ai cittadini», poiché il cumulo di imposte viene sostituito soltanto da una giustapposizione.
+- **Behnisch** respinge la giurisprudenza che si basa su categorie di scienza finanziaria invece che su criteri giuridico-tecnici. Egli esige che il Tribunale federale si discosti dal suo «atteggiamento troppo restrittivo».
 - **Vallender** (StR 1997, 1 ss.) difende invece la considerazione differenziante del Tribunale federale come adeguata alla cosa.
 
-**N. 13** **Considerazione civilistica vs. considerazione tributaria**: Nella delimitazione delle tasse di bollo esiste una controversia metodologica. Il Tribunale federale si è pronunciato per una considerazione civilistica e ha accettato un carico con entrambe le imposte (Behnisch, BSK Cost., art. 134 n. 29). La dottrina è divisa al riguardo:
+**N. 13** **Considerazione civilistica vs. considerazione tributaria**: Nella delimitazione delle tasse di bollo esiste una controversia metodologica. Il Tribunale federale si è pronunciato per una considerazione civilistica e ha accettato un carico con entrambe le imposte. La dottrina è divisa al riguardo:
 - **Beusch** (Commentario LT, art. 3 n. 15 ss.) favorisce la qualificazione civilistica
 - **Blumenstein/Locher** (System, p. 358) propugnano una considerazione economica
 

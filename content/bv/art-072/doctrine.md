@@ -12,7 +12,7 @@
 
 **N. 4** Art. 72 BV steht im 3. Titel über «Bund, Kantone und Gemeinden» und regelt primär die föderalistische Kompetenzverteilung im Religionsverfassungsrecht. Die Bestimmung ist im Kontext der Religionsfreiheit (→ Art. 15 BV) und des Diskriminierungsverbots (→ Art. 8 Abs. 2 BV) zu lesen. Als Kompetenznorm begründet sie keine subjektiven Rechte, sondern verteilt die Regelungszuständigkeiten zwischen Bund und Kantonen.
 
-**N. 5** Das Verhältnis zu Art. 15 BV ist zentral: Während Art. 15 die individuelle und kollektive Religionsfreiheit garantiert, bestimmt Art. 72 die organisationsrechtlichen Rahmenbedingungen. Die kantonale Kompetenz nach Art. 72 Abs. 1 findet ihre Schranken in den Grundrechten, insbesondere in der Religionsfreiheit (Winzeler, BSK BV, Art. 72 N. 11-14).
+**N. 5** Das Verhältnis zu Art. 15 BV ist zentral: Während Art. 15 die individuelle und kollektive Religionsfreiheit garantiert, bestimmt Art. 72 die organisationsrechtlichen Rahmenbedingungen. Die kantonale Kompetenz nach Art. 72 Abs. 1 findet ihre Schranken in den Grundrechten, insbesondere in der Religionsfreiheit.
 
 **N. 6** Im Verfassungsgefüge bildet Art. 72 BV zusammen mit Art. 3 BV (Kantonsautonomie) die Grundlage für das schweizerische Staatskirchenrecht. Die subsidiäre Bundeskompetenz nach Abs. 2 ergänzt die sicherheitspolizeilichen Kompetenzen des Bundes (→ Art. 57 BV, → Art. 173 Abs. 1 lit. b BV).
 
@@ -20,27 +20,27 @@
 
 ### 3.1 Kantonale Zuständigkeit (Abs. 1)
 
-**N. 7** Die Formulierung «sind die Kantone zuständig» begründet eine ausschliessliche Kantonshoheit im Staatskirchenrecht. Winzeler charakterisiert dies als «unechten Zuständigkeitsvorbehalt», da der Bund punktuell dennoch religionsrechtliche Normen erlassen kann (BSK BV, Art. 72 N. 10). Die kantonale Kompetenz umfasst die gesamte Organisation des Verhältnisses zwischen Staat und Religionsgemeinschaften, einschliesslich der öffentlich-rechtlichen Anerkennung.
+**N. 7** Die Formulierung «sind die Kantone zuständig» begründet eine ausschliessliche Kantonshoheit im Staatskirchenrecht. Winzeler charakterisiert dies als «unechten Zuständigkeitsvorbehalt», da der Bund punktuell dennoch religionsrechtliche Normen erlassen kann. Die kantonale Kompetenz umfasst die gesamte Organisation des Verhältnisses zwischen Staat und Religionsgemeinschaften, einschliesslich der öffentlich-rechtlichen Anerkennung.
 
 **N. 8** Zum «Verhältnis zwischen Kirche und Staat» gehört nach herrschender Lehre: die öffentlich-rechtliche Anerkennung von Religionsgemeinschaften, die Regelung der Kirchensteuern, die Organisation der Landeskirchen, die Bestimmung ihrer Organe und Verfahren sowie die Abgrenzung zwischen staatlicher und kirchlicher Gerichtsbarkeit (**BGE 129 I 91** E. 4.1).
 
-**N. 9** Die historische Formulierung «Kirche» ist weit auszulegen und umfasst alle Religionsgemeinschaften. Das Bundesgericht betont, dass der religiös neutrale Staat «von der Bedeutung ausgehen [muss], welche die religiöse Norm für die Betroffenen hat» (**BGE 145 I 121** E. 4.3; Winzeler, BSK BV, Art. 72 N. 14).
+**N. 9** Die historische Formulierung «Kirche» ist weit auszulegen und umfasst alle Religionsgemeinschaften. Das Bundesgericht betont, dass der religiös neutrale Staat «von der Bedeutung ausgehen [muss], welche die religiöse Norm für die Betroffenen hat» (**BGE 145 I 121** E. 4.3).
 
 ### 3.2 Wahrung des Religionsfriedens (Abs. 2)
 
 **N. 10** Der «öffentliche Friede zwischen den Angehörigen der verschiedenen Religionsgemeinschaften» ist ein polizeiliches Schutzgut. Beide Staatsebenen können «im Rahmen ihrer Zuständigkeit» präventive und repressive Massnahmen ergreifen. Die Norm begründet keine neue Bundeskompetenz, sondern verdeutlicht die bestehenden Befugnisse.
 
-**N. 11** Als «Massnahmen» kommen in Betracht: Strafnormen gegen Störung der Glaubensfreiheit (Art. 261 StGB), präventive Polizeimassnahmen, Vermittlung bei Konflikten sowie Förderung des interreligiösen Dialogs. Die Schranke bilden die Grundrechte, insbesondere die Religionsfreiheit selbst (Jörg Paul Müller, zit. bei Winzeler, BSK BV, Art. 72 N. 53).
+**N. 11** Als «Massnahmen» kommen in Betracht: Strafnormen gegen Störung der Glaubensfreiheit (Art. 261 StGB), präventive Polizeimassnahmen, Vermittlung bei Konflikten sowie Förderung des interreligiösen Dialogs. Die Schranke bilden die Grundrechte, insbesondere die Religionsfreiheit selbst.
 
 ### 3.3 Minarettverbot (Abs. 3)
 
 **N. 12** Das Bauverbot für Minarette stellt ein absolutes, ausnahmsloses Verbot dar. Der Begriff «Minarett» ist als Turm einer Moschee zu verstehen, von dem zum Gebet gerufen wird. Das Verbot erfasst nur neue Bauten; die vier bestehenden Minarette in Genf, Winterthur, Wangen bei Olten und Zürich geniessen Bestandesschutz.
 
-**N. 13** Die Lehre ist über die Vereinbarkeit mit höherrangigem Recht gespalten. Markus Schefer sieht Konstellationen, «wo die Interessen am Bau eines Minaretts überwiegen» (zit. bei Winzeler, BSK BV, Art. 72 N. 53). Die herrschende Meinung qualifiziert das Verbot als Verletzung der Religionsfreiheit und des Diskriminierungsverbots (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
+**N. 13** Die Lehre ist über die Vereinbarkeit mit höherrangigem Recht gespalten. Markus Schefer sieht Konstellationen, «wo die Interessen am Bau eines Minaretts überwiegen». Die herrschende Meinung qualifiziert das Verbot als Verletzung der Religionsfreiheit und des Diskriminierungsverbots (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
 
 ## 4. Rechtsfolgen
 
-**N. 14** Aus der kantonalen Zuständigkeit (Abs. 1) folgt die Befugnis zur umfassenden Regelung des Staatskirchenrechts. Die Kantone können Religionsgemeinschaften öffentlich-rechtlich anerkennen, müssen dies aber nicht (Pahud de Mortanges, Zur Anerkennung und Gleichbehandlung von Religionsgemeinschaften, S. 185 ff.). Nach einhelliger Lehre besteht kein Anspruch auf öffentlich-rechtliche Anerkennung (Winzeler, BSK BV, Art. 72 N. 20).
+**N. 14** Aus der kantonalen Zuständigkeit (Abs. 1) folgt die Befugnis zur umfassenden Regelung des Staatskirchenrechts. Die Kantone können Religionsgemeinschaften öffentlich-rechtlich anerkennen, müssen dies aber nicht (Pahud de Mortanges, Zur Anerkennung und Gleichbehandlung von Religionsgemeinschaften, S. 185 ff.). Nach einhelliger Lehre besteht kein Anspruch auf öffentlich-rechtliche Anerkennung.
 
 **N. 15** Die Grundrechtsbindung der Kantone bleibt unberührt. Das Bundesgericht hat präzisiert: Die kantonale Regelung des «Nexus» zwischen Konfessionszugehörigkeit und Kirchenmitgliedschaft ist «grundsätzlich zulässig», muss aber die Austrittsfreiheit wahren (**BGE 129 I 68** E. 3.3). Bei der Gewährung staatlicher Beiträge dürfen Bedingungen gestellt werden, solange die Glaubensfreiheit gewahrt bleibt (**BGE 145 I 121** E. 5.2).
 
@@ -48,9 +48,9 @@
 
 ## 5. Streitstände
 
-**N. 17** Die Grundrechtsbindung öffentlich-rechtlich anerkannter Religionsgemeinschaften ist umstritten. Die herrschende Lehre bejaht eine volle Grundrechtsbindung öffentlich-rechtlicher und verneint sie für privatrechtliche Religionsgemeinschaften. Winzeler plädiert für einen Mittelweg: «zurückhaltende Anwendung der Grundrechte gegenüber öffentlich-rechtlich anerkannten und massvoll eingesetzte Drittwirkung gegenüber privatrechtlichen Religionsgemeinschaften» (BSK BV, Art. 72 N. 22).
+**N. 17** Die Grundrechtsbindung öffentlich-rechtlich anerkannter Religionsgemeinschaften ist umstritten. Die herrschende Lehre bejaht eine volle Grundrechtsbindung öffentlich-rechtlicher und verneint sie für privatrechtliche Religionsgemeinschaften. Winzeler plädiert für einen Mittelweg: «zurückhaltende Anwendung der Grundrechte gegenüber öffentlich-rechtlich anerkannten und massvoll eingesetzte Drittwirkung gegenüber privatrechtlichen Religionsgemeinschaften».
 
-**N. 18** Kontrovers ist die Reichweite der kantonalen Organisationsautonomie. Die ältere Lehre (Burckhardt) vertrat, der Kanton könne «entscheiden, welches die Organisation und welches die Lehre der von ihm anerkannten Kirche sein soll» (zit. bei Winzeler, BSK BV, Art. 72 N. 8). Dies wird heute einhellig abgelehnt: Das Selbstverständnis einer Religionsgemeinschaft ist «authentisch, will heissen: selbst-, nicht fremdbestimmt zu würdigen» (Winzeler, BSK BV, Art. 72 N. 14).
+**N. 18** Kontrovers ist die Reichweite der kantonalen Organisationsautonomie. Die ältere Lehre (Burckhardt) vertrat, der Kanton könne «entscheiden, welches die Organisation und welches die Lehre der von ihm anerkannten Kirche sein soll». Dies wird heute einhellig abgelehnt: Das Selbstverständnis einer Religionsgemeinschaft ist «authentisch, will heissen: selbst-, nicht fremdbestimmt zu würdigen».
 
 **N. 19** Die Völkerrechtskonformität des Minarettverbots wird unterschiedlich beurteilt. Während Teile der Lehre eine klare Verletzung von Art. 9 und 14 EMRK sehen, argumentieren andere mit dem weiten Ermessensspielraum der Staaten im religionsrechtlichen Bereich. Ein EGMR-Urteil steht aus, da mangels Baubewilligungsverfahren die innerstaatlichen Rechtsmittel nicht ausgeschöpft werden können.
 

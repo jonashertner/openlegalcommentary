@@ -6,7 +6,7 @@
 
 **N. 2** The Message on the new Federal Constitution emphasises the paradigm shift from pure production support to multifunctional agriculture: «Agriculture should not only produce food, but also contribute to preserving the natural foundations of life, maintaining the cultural landscape and supporting decentralised settlement» (BBl 1997 I 247). This change was already embedded in Agricultural Policy 2002 and was constitutionally enshrined with Art. 104 FC (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4th ed. 2023, Art. 104 N. 3).
 
-**N. 3** The concept of multifunctionality was deliberately chosen to capture the various services agriculture provides to society. The constitutional assembly rejected formulations that would focus solely on the production function (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 104 N. 4).
+**N. 3** The concept of multifunctionality was deliberately chosen to capture the various services agriculture provides to society. The constitutional assembly rejected formulations that would focus solely on the production function.
 
 ## 2. Systematic Classification
 
@@ -27,7 +27,7 @@
 - **Preservation of natural foundations of life (lit. b)**: Biodiversity, soil protection, water protection
 - **Decentralised settlement (lit. c)**: Prevention of rural exodus, maintenance of infrastructure in rural areas
 
-**N. 9** The «substantial contribution» does not require complete self-sufficiency, but substantial domestic production. The prevailing doctrine assumes a self-sufficiency rate of at least 50% (Waldmann et al., BSK BV, Art. 104 N. 12; different view Müller/Schefer, Grundrechte in der Schweiz, 4th ed. 2008, p. 892, who refer to Switzerland's import dependency).
+**N. 9** The «substantial contribution» does not require complete self-sufficiency, but substantial domestic production. The prevailing doctrine assumes a self-sufficiency rate of at least 50% (different view Müller/Schefer, Grundrechte in der Schweiz, 4th ed. 2008, p. 892, who refer to Switzerland's import dependency).
 
 ### 3.2 Promotion of Land-Cultivating Farms (Para. 2)
 
@@ -51,7 +51,7 @@
 
 ## 5. Points of Controversy
 
-**N. 17** **Scope of multifunctionality**: Ehrenzeller et al. (St. Galler Kommentar BV, Art. 104 N. 9) emphasise the equivalence of all three functions. Waldmann et al. (BSK BV, Art. 104 N. 15) see a priority of the production function, as only «market-oriented production» can fulfil the other functions. The practice of the Federal Supreme Court tends towards a balanced view (**2C_397/2021 E. 4.1**).
+**N. 17** **Scope of multifunctionality**: Ehrenzeller et al. (St. Galler Kommentar BV, Art. 104 N. 9) emphasise the equivalence of all three functions. Waldmann et al. see a priority of the production function, as only «market-oriented production» can fulfil the other functions. The practice of the Federal Supreme Court tends towards a balanced view (**2C_397/2021 E. 4.1**).
 
 **N. 18** **Compatibility with WTO law**: Müller (in: Ehrenzeller et al., St. Galler Kommentar BV, Art. 104 N. 24) sees direct payments as «green box»-compliant. Cottier/Oesch (Internationales Wirtschaftsrecht, 2nd ed. 2019, p. 456) warn of protectionist elements that could be WTO-incompatible. The Federal Supreme Court has left this question open so far.
 

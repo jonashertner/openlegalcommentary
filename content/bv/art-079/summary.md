@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-Art. 79 BV gibt dem Bund die Kompetenz, Grundsätze für Jagd und Fischerei festzulegen. Der Hauptzweck ist der Schutz der Artenvielfalt von Fischen, wildlebenden Säugetieren und Vögeln (Schärmeli/Griffel, BSK BV, Art. 79 N. 3). Der Bund erlässt die wichtigsten Regeln, die Kantone sorgen für deren Umsetzung im Detail.
+Art. 79 BV gibt dem Bund die Kompetenz, Grundsätze für Jagd und Fischerei festzulegen. Der Hauptzweck ist der Schutz der Artenvielfalt von Fischen, wildlebenden Säugetieren und Vögeln. Der Bund erlässt die wichtigsten Regeln, die Kantone sorgen für deren Umsetzung im Detail.
 
 Das Wort «Grundsätze» bedeutet: Der Bund setzt Mindeststandards, aber regelt nicht alles abschliessend (Marti, SG Komm. BV, Art. 79 N. 9). Die Kantone bleiben für viele Bereiche zuständig, etwa für die Organisation von Jagdpatenten oder die Festlegung von Jagdzeiten innerhalb der Bundesvorgaben. Der Bund hat seine Kompetenz durch das Jagdgesetz (JSG) und das Bundesgesetz über die Fischerei (BGF) umgesetzt.
 

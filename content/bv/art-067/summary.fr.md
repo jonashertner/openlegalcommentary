@@ -2,7 +2,7 @@
 
 ## Aperçu
 
-L'art. 67 Cst. oblige la Confédération et les cantons à tenir compte des besoins particuliers des enfants et des jeunes dans toutes leurs tâches. Cette mission transversale signifie : lorsque l'État fait des lois, prend des décisions ou planifie des projets, il doit toujours aussi se demander comment cela affecte les personnes de moins de 18 ans (Tschentscher, BSK BV, Art. 67 N. 3).
+L'art. 67 Cst. oblige la Confédération et les cantons à tenir compte des besoins particuliers des enfants et des jeunes dans toutes leurs tâches. Cette mission transversale signifie: lorsque l'État fait des lois, prend des décisions ou planifie des projets, il doit toujours aussi se demander comment cela affecte les personnes de moins de 18 ans.
 
 La norme comprend deux parties. L'**alinéa 1** prescrit cette obligation de prise en compte pour toutes les activités étatiques. L'**alinéa 2** permet en outre à la Confédération de soutenir financièrement le travail de jeunesse extrascolaire — mais seulement en complément à ce que font déjà les cantons.
 
@@ -12,6 +12,6 @@ L'art. 67 Cst. ne fonde aucune créance directe pour les enfants ou les organisa
 
 **Soutien fédéral :** La Confédération peut encourager les organisations de jeunesse ou des projets innovants par des aides financières. Cela se fait par la loi sur l'encouragement de l'enfance et de la jeunesse (LEEJ). Il faut que le projet ait une importance pour l'ensemble de la Suisse et soit limité dans le temps (**arrêt B-6244/2020**). Les coûts d'exploitation réguliers ne sont pas pris en charge.
 
-**Question juridique controversée :** Dans la doctrine, il est controversé de savoir jusqu'où s'étend la compétence fédérale. Tschentscher (BSK BV, Art. 67 N. 5) la considère comme une compétence parallèle pratiquement illimitée, tandis que Biaggini souligne des limites constitutionnelles plus strictes.
+**Question juridique controversée :** Dans la doctrine, il est controversé de savoir jusqu'où s'étend la compétence fédérale. Tschentscher la considère comme une compétence parallèle pratiquement illimitée, tandis que Biaggini souligne des limites constitutionnelles plus strictes.
 
 L'art. 67 Cst. renforce la conscience que les décisions étatiques agissent souvent particulièrement fortement sur la jeune génération. Il rend visibles ces effets et oblige à prendre explicitement en compte les intérêts des enfants en politique.

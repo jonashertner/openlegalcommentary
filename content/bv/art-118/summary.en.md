@@ -2,7 +2,7 @@
 
 ## Overview
 
-Art. 118 Federal Constitution regulates the Confederation's health competences. The provision does not allow the Confederation to act in all health matters. It may only act where the Constitution expressly grants it competences (Gächter/Renold-Burch, BSK BV, Art. 118 N. 3).
+Art. 118 Federal Constitution regulates the Confederation's health competences. The provision does not allow the Confederation to act in all health matters. It may only act where the Constitution expressly grants it competences.
 
 Paragraph 1 obliges the Confederation to take health protection measures within its existing competences. Paragraph 2 identifies three special areas in which the Confederation may enact legislation:
 

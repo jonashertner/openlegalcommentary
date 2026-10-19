@@ -2,13 +2,13 @@
 
 ## 1. Storia dell'origine
 
-**N. 1** L'attuale ordinamento federale sull'alcol risale agli articoli sull'alcol della vecchia Costituzione federale (art. 32bis-32quater aCostituzione federale), che furono introdotti tra il 1885 e il 1930 in diverse votazioni popolari. Il costituente reagì così alle devastanti conseguenze sanitarie e sociali del consumo massiccio di alcol nel XIX secolo (Uhlmann, BSK BV, art. 105 n. 1). Il messaggio per la nuova Costituzione federale del 1996 riprese l'ordinamento delle competenze esistente senza modifiche materiali (FF 1997 I 1, 276).
+**N. 1** L'attuale ordinamento federale sull'alcol risale agli articoli sull'alcol della vecchia Costituzione federale (art. 32bis-32quater aCostituzione federale), che furono introdotti tra il 1885 e il 1930 in diverse votazioni popolari. Il costituente reagì così alle devastanti conseguenze sanitarie e sociali del consumo massiccio di alcol nel XIX secolo. Il messaggio per la nuova Costituzione federale del 1996 riprese l'ordinamento delle competenze esistente senza modifiche materiali (FF 1997 I 1, 276).
 
 **N. 2** La revisione totale della Costituzione federale portò a un'ammodernamento linguistico e a una semplificazione sistematica. I tre articoli sull'alcol della vecchia Costituzione federale furono riuniti nell'art. 105 Cost. (norma di competenza) e nell'art. 131 cpv. 1 lett. b e c nonché cpv. 3 Cost. (disposizioni fiscali). Il mandato di protezione della salute fu ancorato esplicitamente nella frase 2 dell'art. 105 Cost.
 
 ## 2. Collocazione sistematica
 
-**N. 3** L'art. 105 Cost. si trova nel 3° titolo (Confederazione, Cantoni e Comuni), 3° capitolo (Ordinamento finanziario), 3° sezione (Banca nazionale; ordinamento monetario e valutario). Questa collocazione sistematica è dovuta a ragioni storiche e non rispecchia l'odierno significato della norma. L'art. 105 Cost. è primariamente una norma di competenza con finalità di politica sanitaria (Uhlmann, BSK BV, art. 105 n. 1).
+**N. 3** L'art. 105 Cost. si trova nel 3° titolo (Confederazione, Cantoni e Comuni), 3° capitolo (Ordinamento finanziario), 3° sezione (Banca nazionale; ordinamento monetario e valutario). Questa collocazione sistematica è dovuta a ragioni storiche e non rispecchia l'odierno significato della norma. L'art. 105 Cost. è primariamente una norma di competenza con finalità di politica sanitaria.
 
 **N. 4** La norma è in stretta relazione con:
 - → art. 131 cpv. 1 lett. b e c Cost. (imposte speciali sulle acque-di-vita)
@@ -21,7 +21,7 @@
 
 ### Competenza federale integrale (frase 1)
 
-**N. 5** L'art. 105 frase 1 Cost. fonda una competenza federale integrale ed esclusiva per la legislazione sulle «acque-di-vita». Il concetto comprende tutte le bevande alcoliche ottenute per distillazione nonché i prodotti contenenti alcol che raggiungono un tenore alcolico paragonabile attraverso altri procedimenti tecnici (**DTF 143 II 409**). La dottrina e la giurisprudenza riprendono la terminologia della legge sull'alcol per l'interpretazione costituzionale (Uhlmann, BSK BV, art. 105 n. 4).
+**N. 5** L'art. 105 frase 1 Cost. fonda una competenza federale integrale ed esclusiva per la legislazione sulle «acque-di-vita». Il concetto comprende tutte le bevande alcoliche ottenute per distillazione nonché i prodotti contenenti alcol che raggiungono un tenore alcolico paragonabile attraverso altri procedimenti tecnici (**DTF 143 II 409**). La dottrina e la giurisprudenza riprendono la terminologia della legge sull'alcol per l'interpretazione costituzionale.
 
 **N. 6** La competenza federale si estende a quattro settori di attività:
 - **Fabbricazione**: Monopolio per la produzione commerciale, sistema di concessioni per le distillerie domestiche
@@ -33,7 +33,7 @@
 
 ### Mandato di politica sanitaria (frase 2)
 
-**N. 8** Il legislatore è obbligato a «tenere conto degli effetti dannosi del consumo di alcol». Questo mandato caratterizza l'intera legislazione sull'alcol e legittima le limitazioni della libertà economica motivate dalla politica sanitaria (Uhlmann, BSK BV, art. 105 n. 6-9). 
+**N. 8** Il legislatore è obbligato a «tenere conto degli effetti dannosi del consumo di alcol». Questo mandato caratterizza l'intera legislazione sull'alcol e legittima le limitazioni della libertà economica motivate dalla politica sanitaria. 
 
 **N. 9** Il mandato di protezione della salute si concretizza in:
 - Misure di prevenzione (limitazioni pubblicitarie, protezione dei giovani)
@@ -58,7 +58,7 @@
 
 ### Prezzi minimi e limitazioni di vendita
 
-**N. 12** È controversa l'ammissibilità costituzionale di prezzi minimi per le bevande alcoliche. Il Consiglio degli Stati appoggiava sia i divieti di vendita notturni (ore 22-6) sia i prezzi minimi per combattere gli eccessi alcolici; il Consiglio nazionale respingeva entrambi (Uhlmann, BSK BV, art. 105 n. 10-11). Pärli/Lehne affermano la compatibilità con l'art. 105 Cost. richiamandosi al mandato di protezione della salute, mentre Epiney/Metz esprimono dubbi di diritto commerciale.
+**N. 12** È controversa l'ammissibilità costituzionale di prezzi minimi per le bevande alcoliche. Il Consiglio degli Stati appoggiava sia i divieti di vendita notturni (ore 22-6) sia i prezzi minimi per combattere gli eccessi alcolici; il Consiglio nazionale respingeva entrambi. Pärli/Lehne affermano la compatibilità con l'art. 105 Cost. richiamandosi al mandato di protezione della salute, mentre Epiney/Metz esprimono dubbi di diritto commerciale.
 
 ### Concetto di «acque-di-vita»
 
@@ -66,7 +66,7 @@
 
 ### Revisione totale della legislazione sull'alcol
 
-**N. 14** Il Consiglio federale propone una riforma fondamentale con una legge sull'imposta sui liquori e una legge sul commercio di alcol. È controverso lo smantellamento previsto del settore del monopolio e la riduzione degli obblighi di autorizzazione (Uhlmann, BSK BV, art. 105 n. 10). I critici temono un indebolimento della protezione della salute, i sostenitori si aspettano semplificazioni amministrative.
+**N. 14** Il Consiglio federale propone una riforma fondamentale con una legge sull'imposta sui liquori e una legge sul commercio di alcol. È controverso lo smantellamento previsto del settore del monopolio e la riduzione degli obblighi di autorizzazione. I critici temono un indebolimento della protezione della salute, i sostenitori si aspettano semplificazioni amministrative.
 
 ## 6. Indicazioni pratiche
 

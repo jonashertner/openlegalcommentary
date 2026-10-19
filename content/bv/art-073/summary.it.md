@@ -1,6 +1,6 @@
 ## Panoramica
 
-L'art. 73 Cost. sancisce il principio dello sviluppo sostenibile nella Costituzione federale. La disposizione obbliga Confederazione e Cantoni a perseguire un rapporto equilibrato tra utilizzo e conservazione della natura. In tal senso, lo sfruttamento della natura non deve superare la sua capacità di rigenerazione (Griffel, BSK BV, art. 73 n. 5).
+L'art. 73 Cost. sancisce il principio dello sviluppo sostenibile nella Costituzione federale. La disposizione obbliga Confederazione e Cantoni a perseguire un rapporto equilibrato tra utilizzo e conservazione della natura. In tal senso, lo sfruttamento della natura non deve superare la sua capacità di rigenerazione.
 
 **Interessate** sono tutte le autorità statali nelle decisioni con impatti ambientali. I privati non possono richiamarsi direttamente all'art. 73 Cost., poiché la norma ha carattere programmatico e non conferisce diritti diretti (Biaggini, BV Kommentar, art. 73 n. 3). L'attuazione pratica avviene tramite leggi speciali come la legge sulla protezione dell'ambiente (art. 1 LPAmb) o la legge sulla pianificazione del territorio (art. 1 LPT).
 
@@ -8,4 +8,4 @@ Il **principio di sostenibilità** agisce come criterio interpretativo per tutte
 
 Nella **giurisprudenza** l'art. 73 Cost. si concretizza in diversi ambiti: il Tribunale federale ha qualificato un'iniziativa comunale per il riscaldamento rinnovabile come attuazione del principio di sostenibilità (**BGE 149 I 291**). In caso di rumore aereo o estrazione di ghiaia devono essere considerate anche le conseguenze ambientali a lungo termine.
 
-Il principio tuttavia **non è giustiziabile** nel senso di diritti individuali azionabili. Rimane controverso se i limiti ecologici valgano in modo assoluto o possano essere soppesati contro vantaggi economici (sostenibilità forte versus debole secondo Griffel, BSK BV, art. 73 n. 5 versus interpretazioni vicine all'economia).
+Il principio tuttavia **non è giustiziabile** nel senso di diritti individuali azionabili. Rimane controverso se i limiti ecologici valgano in modo assoluto o possano essere soppesati contro vantaggi economici.

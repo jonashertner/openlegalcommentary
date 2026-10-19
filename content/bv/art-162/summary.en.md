@@ -10,4 +10,4 @@ Art. 162 BV protects members of Parliament, Federal Councillors and the Federal 
 
 **Example**: A National Councillor sharply criticises a Federal Councillor in a committee meeting and accuses him of incompetence. She can never be held liable for this (absolute immunity). However, if she runs someone over with her car the next day, a parliamentary resolution is required for criminal prosecution (relative immunity).
 
-Immunity is intended to ensure the functioning of Parliament and guarantee freedom of expression. It is protection of the institution, not a personal privilege (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 162 N. 8; **BGE 100 IA 1** E. 2).
+Immunity is intended to ensure the functioning of Parliament and guarantee freedom of expression. It is protection of the institution, not a personal privilege (**BGE 100 IA 1** E. 2).

@@ -16,7 +16,7 @@
 
 ### 3.1 Parlamentsdienste (Abs. 1 Satz 1)
 
-**N. 5** Der Begriff «Parlamentsdienste» umfasst sämtliche administrative Einheiten, die ausschliesslich für die Bundesversammlung tätig sind. Dazu gehören das Generalsekretariat der Bundesversammlung, die wissenschaftlichen Dienste, die Übersetzungsdienste und die technischen Dienste. Die Parlamentsdienste sind organisatorisch von der Bundesverwaltung getrennt und unterstehen der Oberleitung durch die Verwaltungsdelegation der Bundesversammlung (BSK BV, Sägesser, Art. 155 N. 5-7).
+**N. 5** Der Begriff «Parlamentsdienste» umfasst sämtliche administrative Einheiten, die ausschliesslich für die Bundesversammlung tätig sind. Dazu gehören das Generalsekretariat der Bundesversammlung, die wissenschaftlichen Dienste, die Übersetzungsdienste und die technischen Dienste. Die Parlamentsdienste sind organisatorisch von der Bundesverwaltung getrennt und unterstehen der Oberleitung durch die Verwaltungsdelegation der Bundesversammlung.
 
 **N. 6** Die Formulierung «verfügt über» begründet einen verfassungsrechtlichen Anspruch der Bundesversammlung auf eigene Dienste. Dies schliesst eine vollständige Auslagerung parlamentarischer Supportfunktionen an die Exekutive aus. Der Umfang der Parlamentsdienste richtet sich nach den Bedürfnissen eines funktionsfähigen Parlamentsbetriebs (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N. 1638).
 
@@ -24,7 +24,7 @@
 
 **N. 7** Die Möglichkeit, «Dienststellen der Bundesverwaltung» beizuziehen, erlaubt der Bundesversammlung, auf spezialisiertes Fachwissen der Exekutive zurückzugreifen. Dies betrifft insbesondere die Mitwirkung von Bundesämtern in parlamentarischen Kommissionen oder die Bereitstellung von Expertisen. Der Beizug erfolgt subsidiär und ergänzend zu den eigenen Parlamentsdiensten (St. Galler Kommentar BV, Sägesser, Art. 155 N. 8).
 
-**N. 8** Die beigezogenen Verwaltungseinheiten bleiben organisatorisch Teil der Exekutive, werden aber für parlamentarische Zwecke tätig. Dies wirft Fragen der Weisungsbefugnis und der Vertraulichkeit auf, die durch Art. 150 Abs. 2 ParlG geregelt werden: Die Verwaltungseinheiten unterstehen für ihre parlamentarische Tätigkeit den Weisungen der Kommissionspräsidien (BSK BV, Sägesser, Art. 155 N. 9).
+**N. 8** Die beigezogenen Verwaltungseinheiten bleiben organisatorisch Teil der Exekutive, werden aber für parlamentarische Zwecke tätig. Dies wirft Fragen der Weisungsbefugnis und der Vertraulichkeit auf, die durch Art. 150 Abs. 2 ParlG geregelt werden: Die Verwaltungseinheiten unterstehen für ihre parlamentarische Tätigkeit den Weisungen der Kommissionspräsidien.
 
 ### 3.3 Gesetzgebungsauftrag (Abs. 2)
 
@@ -44,11 +44,11 @@
 
 ## 5. Streitstände
 
-**N. 13** **Umfang der Parlamentsautonomie**: In der Lehre ist umstritten, wie weit die organisatorische Autonomie der Parlamentsdienste reicht. Sägesser (BSK BV, Art. 155 N. 11) vertritt eine extensive Auslegung, wonach die Parlamentsdienste in allen Belangen von der Exekutive unabhängig sein müssen. Demgegenüber plädiert Müller (Parlamentsrecht der Schweiz, 2022, 487) für eine funktionale Betrachtung: Nur soweit die Unabhängigkeit für die parlamentarische Arbeit erforderlich sei, bestehe ein verfassungsrechtlicher Schutz.
+**N. 13** **Umfang der Parlamentsautonomie**: In der Lehre ist umstritten, wie weit die organisatorische Autonomie der Parlamentsdienste reicht. Sägesser vertritt eine extensive Auslegung, wonach die Parlamentsdienste in allen Belangen von der Exekutive unabhängig sein müssen. Demgegenüber plädiert Müller (Parlamentsrecht der Schweiz, 2022, 487) für eine funktionale Betrachtung: Nur soweit die Unabhängigkeit für die parlamentarische Arbeit erforderlich sei, bestehe ein verfassungsrechtlicher Schutz.
 
 **N. 14** **Personalrechtliche Stellung**: Kontrovers diskutiert wird die Anwendbarkeit des Bundespersonalgesetzes auf die Parlamentsdienste. Während Tschannen (in: Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, § 23 N. 45) eine vollständige Geltung des BPG befürwortet, sehen Biaggini (BV Kommentar, Art. 155 N. 3) und die St. Galler Schule eine eigenständige personalrechtliche Ordnung als zulässig an. Die Praxis folgt einem differenzierten Ansatz mit grundsätzlicher Anwendung des BPG unter Vorbehalt parlamentsspezifischer Regelungen.
 
-**N. 15** **Reichweite des Beizugsrechts**: Uneinigkeit besteht über die Grenzen des Rechts, Verwaltungseinheiten beizuziehen. Graf (Parlamentarische Untersuchungskommissionen, 2021, 234) argumentiert für eine weite Auslegung, die auch die temporäre Abordnung ganzer Ämter erlaube. Die herrschende Lehre (St. Galler Kommentar BV, Sägesser, Art. 155 N. 12; BSK BV, Sägesser, Art. 155 N. 13) begrenzt das Beizugsrecht auf punktuelle Unterstützungsleistungen und verneint eine dauerhafte Integration von Verwaltungseinheiten in die parlamentarische Organisation.
+**N. 15** **Reichweite des Beizugsrechts**: Uneinigkeit besteht über die Grenzen des Rechts, Verwaltungseinheiten beizuziehen. Graf (Parlamentarische Untersuchungskommissionen, 2021, 234) argumentiert für eine weite Auslegung, die auch die temporäre Abordnung ganzer Ämter erlaube. Die herrschende Lehre (St. Galler Kommentar BV, Sägesser, Art. 155 N. 12) begrenzt das Beizugsrecht auf punktuelle Unterstützungsleistungen und verneint eine dauerhafte Integration von Verwaltungseinheiten in die parlamentarische Organisation.
 
 ## 6. Praxishinweise
 

@@ -16,11 +16,11 @@
 
 ### 2. Systematische Einordnung
 
-**N. 4** Art. 75b BV ist eine Kompetenznorm mit unmittelbar wirkenden Elementen (Abs. 1) und einem Gesetzgebungsauftrag (Abs. 2). Systematisch ergänzt sie Art. 75 BV (Raumplanung), der dem Bund lediglich eine Grundsatzgesetzgebungskompetenz einräumt. Mit der Annahme der Zweitwohnungsinitiative verfügt der Bund über eine eigenständige Kompetenz zur Regelung des Zweitwohnungsbaus, die nach überwiegender Ansicht als konkurrierende, d.h. nachträglich derogierende Bundeskompetenz zu qualifizieren ist: Kantonales Recht blieb bis zum Inkrafttreten des ZWG anwendbar und ist seither verdrängt, soweit der Bund seine Kompetenz ausgeschöpft hat (Biaggini, Art. 75b BV N. 3; SHK-Mösching, Art. 1 ZWG N. 4; abweichend BSK-Alig/Griffel, Art. 75b BV N. 8, die eine umfassende Bundeskompetenz annehmen).
+**N. 4** Art. 75b BV ist eine Kompetenznorm mit unmittelbar wirkenden Elementen (Abs. 1) und einem Gesetzgebungsauftrag (Abs. 2). Systematisch ergänzt sie Art. 75 BV (Raumplanung), der dem Bund lediglich eine Grundsatzgesetzgebungskompetenz einräumt. Mit der Annahme der Zweitwohnungsinitiative verfügt der Bund über eine eigenständige Kompetenz zur Regelung des Zweitwohnungsbaus, die nach überwiegender Ansicht als konkurrierende, d.h. nachträglich derogierende Bundeskompetenz zu qualifizieren ist: Kantonales Recht blieb bis zum Inkrafttreten des ZWG anwendbar und ist seither verdrängt, soweit der Bund seine Kompetenz ausgeschöpft hat (Biaggini, Art. 75b BV N. 3; SHK-Mösching, Art. 1 ZWG N. 4).
 
 **N. 5** Art. 75b BV steht in engem sachlichem Zusammenhang mit Art. 78 Abs. 2 BV (Natur- und Heimatschutz bei Erfüllung von Bundesaufgaben): Das Bundesgericht qualifizierte die Plafonierung des Zweitwohnungsbaus als Bundesaufgabe im Sinne von Art. 78 Abs. 2 BV, die der Schonung der Natur und des heimatlichen Landschaftsbildes dient (**BGE 139 II 271** E. 11.2). Daraus folgt die Beschwerdebefugnis gesamtschweizerischer Natur- und Heimatschutzorganisationen nach Art. 12 NHG gegen Baubewilligungen für Zweitwohnungen. Das Verfassungsziel der Raumplanung (→ Art. 75 BV) sowie die Eigentumsgarantie (↔ Art. 26 BV) und das Verhältnismässigkeitsprinzip (→ Art. 5 Abs. 2 BV) bilden den verfassungsrechtlichen Rahmen, in dem Art. 75b BV zu lesen ist.
 
-**N. 6** Art. 75b Abs. 1 BV beansprucht — vergleichbar dem Moorschutzartikel Art. 78 Abs. 5 BV — Vorrang gegenüber anderen Verfassungsbestimmungen, namentlich der Eigentumsgarantie (Art. 26 BV) und dem Verhältnismässigkeitsgebot (Art. 5 Abs. 2 BV). Die 20 %-Grenze schliesst Einzelfallbeurteilungen aus; verhältnismässigkeitsrechtliche Einwände müssen hingenommen werden, soweit sie aus dem Wortlaut des Art. 75b Abs. 1 BV selbst folgen (Mösching, Massnahmen, S. 88 ff.; BSK-Alig/Griffel, Art. 75b BV N. 8).
+**N. 6** Art. 75b Abs. 1 BV beansprucht — vergleichbar dem Moorschutzartikel Art. 78 Abs. 5 BV — Vorrang gegenüber anderen Verfassungsbestimmungen, namentlich der Eigentumsgarantie (Art. 26 BV) und dem Verhältnismässigkeitsgebot (Art. 5 Abs. 2 BV). Die 20 %-Grenze schliesst Einzelfallbeurteilungen aus; verhältnismässigkeitsrechtliche Einwände müssen hingenommen werden, soweit sie aus dem Wortlaut des Art. 75b Abs. 1 BV selbst folgen (Mösching, Massnahmen, S. 88 ff.).
 
 ---
 
@@ -86,7 +86,6 @@
 
 *Zitierte Literatur (Auswahl):*
 
-- Alig Jonas/Griffel Alain, in: Waldmann/Belser/Epiney (Hrsg.), Basler Kommentar Bundesverfassung, Basel 2015 [BSK-Alig/Griffel]
 - Besse Marc-Olivier, in: Martenet/Dubey (Hrsg.), Constitution fédérale, Commentaire Romand, Basel 2021 [CR-Besse]
 - Biaggini Giovanni, Bundesverfassung, 2. Aufl. 2017
 - Mösching Fabian, Massnahmen zur Beschränkung von Zweitwohnungen, Diss. Bern 2014

@@ -68,7 +68,7 @@
 
 **N. 13** The admissibility of individual case laws is also controversially discussed. Häfelin/Haller/Keller/Thurnherr (op. cit., N 1851) recognise their admissibility in exceptional cases, while Biaggini (BV-Kommentar, 2nd ed. 2017, Art. 163 N 4) is more restrictive and points to the danger of circumventing the separation of powers.
 
-**N. 14** Regarding parliamentary ordinances, there is disagreement about their scope of application. Ehrenzeller (in: St. Galler Kommentar BV, 4th ed. 2023, Art. 163 N 15) sees these as limited to cases of urgency, while Waldmann (in: BSK BV, 2nd ed. 2024, Art. 163 N 22) also recognises other cases provided for by law.
+**N. 14** Regarding parliamentary ordinances, there is disagreement about their scope of application. Ehrenzeller (in: St. Galler Kommentar BV, 4th ed. 2023, Art. 163 N 15) sees these as limited to cases of urgency, while Waldmann also recognises other cases provided for by law.
 
 ## Practical Notes
 

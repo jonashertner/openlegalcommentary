@@ -63,7 +63,7 @@
 
 ### 5. Streitstände
 
-**N. 15** **Umfang der Genehmigungspflicht**: In der Lehre ist umstritten, wie weit die Ausnahmen von der Genehmigungspflicht reichen. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 166 N. 15) vertreten eine restriktive Auslegung und betonen, dass die parlamentarische Genehmigung die Regel, die Delegation die Ausnahme darstelle. Waldmann/Belser/Epiney (BSK BV, Art. 166 N. 22) anerkennen demgegenüber einen grösseren Spielraum für exekutive Vertragsschlüsse bei technischen Materien.
+**N. 15** **Umfang der Genehmigungspflicht**: In der Lehre ist umstritten, wie weit die Ausnahmen von der Genehmigungspflicht reichen. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 166 N. 15) vertreten eine restriktive Auslegung und betonen, dass die parlamentarische Genehmigung die Regel, die Delegation die Ausnahme darstelle. Waldmann/Belser/Epiney anerkennen demgegenüber einen grösseren Spielraum für exekutive Vertragsschlüsse bei technischen Materien.
 
 **N. 16** **Rechtsnatur von Memoranda of Understanding**: Kontrovers wird diskutiert, ob rechtlich unverbindliche Absichtserklärungen (MoU) unter Art. 166 BV fallen. Die Praxis des Bundesrates (JAAC 68.83) verneint die Genehmigungspflicht für rechtlich nicht verbindliche Instrumente. Teile der Lehre kritisieren diese Praxis als zu weitgehend, da auch politisch bedeutsame Absichtserklärungen der parlamentarischen Kontrolle unterliegen sollten (Thürer/Müller, in: Ehrenzeller et al., St. Galler Kommentar BV, Art. 166 N. 18).
 

@@ -10,4 +10,4 @@ Art. 162 BV schützt Parlamentsmitglieder, Bundesräte und die Bundeskanzlerin v
 
 **Beispiel**: Eine Nationalrätin kritisiert in einer Kommissionssitzung scharf einen Bundesrat und wirft ihm Unfähigkeit vor. Dafür kann sie nie belangt werden (absolute Immunität). Überfährt sie aber am nächsten Tag mit dem Auto jemanden, braucht es einen Parlamentsbeschluss für die Strafverfolgung (relative Immunität).
 
-Die Immunität soll die Funktionsfähigkeit des Parlaments sichern und freie Meinungsäusserung garantieren. Sie ist ein Schutz der Institution, nicht ein persönliches Privileg (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 162 N. 8; **BGE 100 IA 1** E. 2).
+Die Immunität soll die Funktionsfähigkeit des Parlaments sichern und freie Meinungsäusserung garantieren. Sie ist ein Schutz der Institution, nicht ein persönliches Privileg (**BGE 100 IA 1** E. 2).

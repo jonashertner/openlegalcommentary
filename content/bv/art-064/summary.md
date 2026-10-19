@@ -10,4 +10,4 @@ Art. 64 BV gibt dem Bund die Kompetenz, wissenschaftliche Forschung und Innovati
 
 **Beispiel**: Ein Biologe beantragt beim SNF 200'000 Franken für eine Krebsstudie. Ein Peer-Review-Verfahren prüft die wissenschaftliche Qualität. Bei positiver Beurteilung erhält er die Förderung für drei Jahre.
 
-**Streitpunkt**: In der Rechtslehre ist umstritten, ob «wissenschaftlich» nur methodische Standards meint (Borghi, BSK BV, Art. 64 N. 39) oder ein Qualitätsmerkmal darstellt (Gruber, BSK BV, Art. 64 N. 42).
+**Streitpunkt**: In der Rechtslehre ist umstritten, ob «wissenschaftlich» nur methodische Standards meint oder ein Qualitätsmerkmal darstellt.

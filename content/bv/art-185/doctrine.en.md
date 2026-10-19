@@ -38,7 +38,7 @@
 
 ### 5. Disputes
 
-**No. 13** **Scope of emergency law competence**: While Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10th ed. 2020, No. 1624 ff.) advocate a restrictive interpretation, Epiney (BSK BV, 2nd ed. 2024, Art. 185 No. 12) pleads for flexible handling of novel threats. The St. Gallen Commentary (Schweizer, SGK BV, 4th ed. 2023, Art. 185 No. 8) takes a mediating position.
+**No. 13** **Scope of emergency law competence**: While Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10th ed. 2020, No. 1624 ff.) advocate a restrictive interpretation, Epiney pleads for flexible handling of novel threats. The St. Gallen Commentary (Schweizer, SGK BV, 4th ed. 2023, Art. 185 No. 8) takes a mediating position.
 
 **No. 14** **Constitutional immunity**: The doctrine is divided regarding the scope of the constitutional immunity developed in **BGE 147 I 333**. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5th ed. 2021, § 48 No. 12) criticizes the concept as too far-reaching, while Biaggini (BV Kommentar, 2nd ed. 2017, Art. 185 No. 7) defends it as necessary flexibility in crisis times.
 

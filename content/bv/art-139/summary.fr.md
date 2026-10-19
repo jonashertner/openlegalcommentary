@@ -2,7 +2,7 @@
 
 L'article 139 Cst. règle l'initiative populaire pour une révision partielle de la Constitution fédérale. Cet instrument permet aux citoyens et citoyennes d'exiger des modifications de la Constitution et de décider directement.
 
-**Qui est habilité ?** 100'000 personnes ayant le droit de vote peuvent déposer une initiative. Cela correspond à environ 1,9% de tous les électeurs en Suisse (Epiney/Diezig, BSK BV, Art. 139 N. 8). Les signatures doivent être récoltées dans les 18 mois suivant la publication dans la Feuille fédérale.
+**Qui est habilité ?** 100'000 personnes ayant le droit de vote peuvent déposer une initiative. Cela correspond à environ 1,9% de tous les électeurs en Suisse. Les signatures doivent être récoltées dans les 18 mois suivant la publication dans la Feuille fédérale.
 
 **Quelles formes existent-elles ?** Il existe deux possibilités : La demande conçue en termes généraux formule une préoccupation de manière générale et laisse l'élaboration à l'Assemblée fédérale (Parlement). Le projet rédigé contient déjà le texte constitutionnel définitif.
 

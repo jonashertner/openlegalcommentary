@@ -6,7 +6,7 @@
 
 **Ch. 1** L'art. 170 Cst. constitue une innovation du droit constitutionnel qui ne trouve aucune correspondance dans l'aCst. de 1874. L'ancrage explicite du contrôle de l'efficacité n'a été intégré que tardivement dans le processus de révision de la nouvelle Constitution fédérale. Les projets de constitution de 1995/96 ne contenaient encore aucune disposition correspondante.
 
-**Ch. 2** La commission d'experts des deux CdG a d'abord proposé la création d'un organe indépendant pour l'évaluation des mesures étatiques. Dans leur rapport complémentaire de 1997, les CdG ont au contraire lié le contrôle de l'efficacité à la compétence de haute surveillance de l'Assemblée fédérale. Cette conception a été maintenue lors des délibérations parlementaires, le contrôle de l'efficacité étant détaché en tant que disposition autonome de l'actuel art. 169 Cst. (BSK-Lienhard/Mächler/Marti Locher, art. 170 Cst., ch. 1 ss ; SGK-Uhlmann/Bussmann, art. 170 Cst., ch. 1 ss).
+**Ch. 2** La commission d'experts des deux CdG a d'abord proposé la création d'un organe indépendant pour l'évaluation des mesures étatiques. Dans leur rapport complémentaire de 1997, les CdG ont au contraire lié le contrôle de l'efficacité à la compétence de haute surveillance de l'Assemblée fédérale. Cette conception a été maintenue lors des délibérations parlementaires, le contrôle de l'efficacité étant détaché en tant que disposition autonome de l'actuel art. 169 Cst. (SGK-Uhlmann/Bussmann, art. 170 Cst., ch. 1 ss).
 
 **Ch. 3** Selon les travaux préparatoires, la disposition constitutionnelle visait à maîtriser la complexité croissante des tâches publiques par un contrôle systématique. Le rapporteur Schmid a déclaré lors du débat au Conseil national : « La question de l'efficacité et de l'efficience des mesures étatiques gagne toujours plus d'importance face à la complexité croissante des tâches publiques. Les mesures prises par les autorités ont-elles un effet ? Montrent-elles l'effet voulu ? Sont-elles dans un rapport coûts-bénéfices raisonnable ? » (BO N SD 1998, 91).
 
@@ -36,7 +36,7 @@
 
 **Ch. 11** L'objet des contrôles d'efficacité sont toutes les « mesures de la Confédération », indépendamment de leur forme juridique. Sont concernées les mesures des trois pouvoirs : législatif, exécutif et judiciaire. La notion englobe tant les mesures générales-abstraites qu'individuelles-concrètes.
 
-**Ch. 12** La mise en œuvre et l'exécution de mesures fédérales par les cantons et les particuliers relèvent également du champ d'application, dans la mesure où elles peuvent être qualifiées d'exécution du droit fédéral (BSK-Lienhard/Mächler/Marti Locher, art. 170 Cst., ch. 17 ; SGK-Uhlmann/Bussmann, art. 170 Cst., ch. 18).
+**Ch. 12** La mise en œuvre et l'exécution de mesures fédérales par les cantons et les particuliers relèvent également du champ d'application, dans la mesure où elles peuvent être qualifiées d'exécution du droit fédéral (SGK-Uhlmann/Bussmann, art. 170 Cst., ch. 18).
 
 **Ch. 13** Le non-agir peut également faire l'objet d'un contrôle d'efficacité. Les omissions contraires au devoir peuvent avoir autant de conséquences que l'action active (Biaggini, art. 170 Cst., ch. 4 ; SGK-Uhlmann/Bussmann, art. 170 Cst., ch. 18).
 

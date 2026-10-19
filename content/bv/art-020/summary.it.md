@@ -18,7 +18,7 @@ La libertà della scienza non è illimitata. Negli esperimenti su animali l'util
 
 ### Significato pratico
 
-Nella pratica i conflitti sorgono per lo più in settori di ricerca delicati. Nella ricerca sulla biosicurezza la dottrina discute se le pubblicazioni di conoscenze pericolose possano essere limitate (BSK BV-Hertig N. 18). Negli studi clinici devono essere salvaguardati i diritti dei pazienti. Nel promuovimento della ricerca gli enti statali non possono effettuare censure di contenuto.
+Nella pratica i conflitti sorgono per lo più in settori di ricerca delicati. Nella ricerca sulla biosicurezza la dottrina discute se le pubblicazioni di conoscenze pericolose possano essere limitate. Negli studi clinici devono essere salvaguardati i diritti dei pazienti. Nel promuovimento della ricerca gli enti statali non possono effettuare censure di contenuto.
 
 ### Ulteriori informazioni
 

@@ -20,7 +20,7 @@
 
 ### Multifunzionalità del bosco (cpv. 1)
 
-**N. 7** Il costituente sancisce nel cpv. 1 le tre funzioni classiche del bosco: La **funzione protettiva** comprende la protezione dai pericoli naturali (valanghe, caduta sassi, erosione) e la funzione di equilibrio climatico. La **funzione produttiva** include principalmente la produzione di legno come materia prima rinnovabile. La **funzione di benessere** comprende il ricreamento, la biodiversità, la protezione delle acque e la depurazione dell'aria (Hoffmann/Griffel, BSK BV, Art. 77 N. 12-15).
+**N. 7** Il costituente sancisce nel cpv. 1 le tre funzioni classiche del bosco: La **funzione protettiva** comprende la protezione dai pericoli naturali (valanghe, caduta sassi, erosione) e la funzione di equilibrio climatico. La **funzione produttiva** include principalmente la produzione di legno come materia prima rinnovabile. La **funzione di benessere** comprende il ricreamento, la biodiversità, la protezione delle acque e la depurazione dell'aria.
 
 **N. 8** Questa triade delle funzioni del bosco non è esaustiva. La moderna politica forestale riconosce ulteriori funzioni come l'accumulo di CO₂ nel contesto della protezione del clima. Decisiva è la considerazione paritaria di tutte le funzioni senza priorità a priori (Griffel, Wald und Recht, SZF 2012, 305).
 
@@ -30,11 +30,11 @@
 
 **N. 10** Il termine «principi» deve essere interpretato restrittivamente. La Confederazione può stabilire solo le linee direttive essenziali, mentre la regolamentazione di dettaglio e l'esecuzione spettano in linea di principio ai Cantoni (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N. 1127). La prassi mostra tuttavia uno sfruttamento estensivo di questa competenza nella legge forestale.
 
-**N. 11** È controverso se la competenza legislativa di principi legittimi anche competenze esecutive della Confederazione. **Jagmetti** (cit. in Hoffmann/Griffel, BSK BV, Art. 77 N. 20) lo nega riferendosi alla differenza rispetto alla precedente competenza di alta sorveglianza. **Hoffmann/Griffel** (BSK BV, Art. 77 N. 20) lo affermano invece basandosi sull'→ art. 46 cpv. 1 Cost., per competenze esecutive federali limitate.
+**N. 11** È controverso se la competenza legislativa di principi legittimi anche competenze esecutive della Confederazione. **Jagmetti** lo nega riferendosi alla differenza rispetto alla precedente competenza di alta sorveglianza. **Hoffmann/Griffel** lo affermano invece basandosi sull'→ art. 46 cpv. 1 Cost., per competenze esecutive federali limitate.
 
 ### Competenza di promozione (cpv. 3)
 
-**N. 12** La competenza di promozione autorizza la Confederazione a misure di sostegno finanziarie e non finanziarie. Strumenti tipici sono le sovvenzioni per la cura dei boschi di protezione, la promozione della ricerca e i contributi per la formazione (Hoffmann/Griffel, BSK BV, Art. 77 N. 23).
+**N. 12** La competenza di promozione autorizza la Confederazione a misure di sostegno finanziarie e non finanziarie. Strumenti tipici sono le sovvenzioni per la cura dei boschi di protezione, la promozione della ricerca e i contributi per la formazione.
 
 **N. 13** La promozione è facoltativa («promuove») e sta sotto riserva dei mezzi disponibili. Essa completa le misure regolatorie della legislazione di principi attraverso meccanismi di incentivazione dell'agire amministrativo cooperativo.
 
@@ -52,7 +52,7 @@
 
 **N. 17** È dibattuta controversamente la densità regolatoria ammissibile nelle competenze legislative di principi. **Rausch/Marti/Griffel** (Umweltrecht, 142) rappresentano un'interpretazione restrittiva: la Confederazione potrebbe emanare solo prescrizioni quadro. **Keller** (Volksinitiative «Rettet den Schweizer Wald», 23) propugna un'interpretazione più ampia considerata l'importanza nazionale della protezione del bosco.
 
-**N. 18** Particolarmente controverso è il concetto dinamico di bosco della LFo. **Hoffmann/Griffel** (BSK BV, Art. 77 N. 17) criticano che il legislatore federale abbia accordato ai Cantoni un «plein pouvoir» per la sostituzione con il concetto statico di bosco, senza formulare criteri limitativi. **Jaissle** (Der dynamische Waldbegriff, 187 ss.) difende la flessibilità come necessaria per la pianificazione territoriale cantonale.
+**N. 18** Particolarmente controverso è il concetto dinamico di bosco della LFo. **Hoffmann/Griffel** criticano che il legislatore federale abbia accordato ai Cantoni un «plein pouvoir» per la sostituzione con il concetto statico di bosco, senza formulare criteri limitativi. **Jaissle** (Der dynamische Waldbegriff, 187 ss.) difende la flessibilità come necessaria per la pianificazione territoriale cantonale.
 
 ### Rapporto con gli obblighi internazionali
 
@@ -60,7 +60,7 @@
 
 ### Esecuzione federale nella legislazione di principi
 
-**N. 20** La controversia sulle competenze esecutive federali nella semplice legislazione di principi rimane attuale. **Jagmetti** (cit. in Hoffmann/Griffel, BSK BV, Art. 77 N. 20) vede nella revisione costituzionale uno spostamento consapevole di competenze ai Cantoni. **Hoffmann/Griffel** (BSK BV, Art. 77 N. 20) e **Wild** (Die Rodungsbewilligung, ZBl 2002, 120) argomentano che l'→ art. 46 cpv. 1 Cost. consenta competenze esecutive federali puntuali anche nella legislazione di principi.
+**N. 20** La controversia sulle competenze esecutive federali nella semplice legislazione di principi rimane attuale. **Jagmetti** vede nella revisione costituzionale uno spostamento consapevole di competenze ai Cantoni. **Hoffmann/Griffel** e **Wild** (Die Rodungsbewilligung, ZBl 2002, 120) argomentano che l'→ art. 46 cpv. 1 Cost. consenta competenze esecutive federali puntuali anche nella legislazione di principi.
 
 ## Indicazioni pratiche
 

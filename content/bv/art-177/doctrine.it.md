@@ -26,7 +26,7 @@
 - Principio di maggioranza: le decisioni vengono prese con la maggioranza dei voti
 - Principio di solidarietà: i membri rappresentano all'esterno le decisioni collegiali in modo unitario
 
-**N. 5** La portata del principio collegiale è controversa nella dottrina. Mentre Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4ª ed. 2014, § 15 N 12) sostengono un'interpretazione rigorosa secondo cui tutte le decisioni di rilevante importanza devono essere sottoposte al Consiglio federale nella sua interezza, Sägesser (in: Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, art. 177 N 8) propugna una gestione pragmatica che tenga conto delle esigenze di efficienza dell'attività statale moderna.
+**N. 5** La portata del principio collegiale è controversa nella dottrina. Mentre Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4ª ed. 2014, § 15 N 12) sostengono un'interpretazione rigorosa secondo cui tutte le decisioni di rilevante importanza devono essere sottoposte al Consiglio federale nella sua interezza, Sägesser propugna una gestione pragmatica che tenga conto delle esigenze di efficienza dell'attività statale moderna.
 
 #### b) Principio dipartimentale (cpv. 2)
 

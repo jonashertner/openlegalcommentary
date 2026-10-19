@@ -8,6 +8,6 @@ L'art. 132 Cost. autorizza la Confederazione a riscuotere due imposte importanti
 
 Particolare è la quota cantonale: il 10% del gettito dell'imposta preventiva affluisce automaticamente ai Cantoni. Questa componente federalista rafforza le finanze cantonali.
 
-Entrambi i tipi di imposta sono oggetto di discussione politica. Così il Parlamento dibatte da anni sull'abolizione della tassa d'emissione per rafforzare la piazza finanziaria. Il Consiglio nazionale ha approvato nel 2013, il Consiglio degli Stati ha tuttavia sospeso il progetto (Simonek, BSK BV, Art. 132 N. 15).
+Entrambi i tipi di imposta sono oggetto di discussione politica. Così il Parlamento dibatte da anni sull'abolizione della tassa d'emissione per rafforzare la piazza finanziaria. Il Consiglio nazionale ha approvato nel 2013, il Consiglio degli Stati ha tuttavia sospeso il progetto.
 
 Le competenze sono esclusive: i Cantoni non possono riscuotere proprie tasse di bollo o imposte preventive. La Confederazione non deve però necessariamente riscuotere queste imposte - la Costituzione le conferisce solo il diritto di farlo.

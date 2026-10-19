@@ -10,7 +10,7 @@ La disposizione costituzionale è concretizzata dalla Legge sul soccorso alle vi
 
 Le vittime sono persone direttamente danneggiate da un reato (vittime primarie). Vi rientrano anche i congiunti stretti come i familiari che sono stati psichicamente compromessi dal reato stesso (vittime secondarie). Secondo l'art. 1 cpv. 2 LAVI, anche questi possono avere diritto al soccorso.
 
-Il soccorso interviene secondo Göksu (BSK BV, Art. 124 N. 7) solo dopo un reato effettivamente commesso, non già alla sua minaccia. Le persone giuridiche sono escluse dalla protezione.
+Il soccorso interviene secondo Göksu solo dopo un reato effettivamente commesso, non già alla sua minaccia. Le persone giuridiche sono escluse dalla protezione.
 
 ## Quali conseguenze giuridiche nascono?
 

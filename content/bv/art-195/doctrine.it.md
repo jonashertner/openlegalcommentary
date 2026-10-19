@@ -35,7 +35,7 @@
 
 ### 5. Controversie
 
-**N. 11** **Momento della pubblicazione**: Nella dottrina è indiscusso che l'entrata in vigore non dipende dalla pubblicazione nella RU. Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo Cost., 4a ed. 2023, art. 195 n. 7) sottolineano che la pubblicazione ha significato puramente dichiarativo. Waldmann/Belser/Epiney (BSK Cost., 2a ed. 2024, art. 195 n. 4) condividono questa concezione e rimandano al messaggio sulla legge sulle pubblicazioni (FF 2003 7251).
+**N. 11** **Momento della pubblicazione**: Nella dottrina è indiscusso che l'entrata in vigore non dipende dalla pubblicazione nella RU. Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo Cost., 4a ed. 2023, art. 195 n. 7) sottolineano che la pubblicazione ha significato puramente dichiarativo. Waldmann/Belser/Epiney condividono questa concezione e rimandano al messaggio sulla legge sulle pubblicazioni (FF 2003 7251).
 
 **N. 12** **Retroattività**: È discussa in modo controverso la questione della retroattività di disposizioni costituzionali. La dottrina dominante (Häfelin/Haller/Keller/Thurnherr, Diritto costituzionale svizzero, 10a ed. 2020, n. 1854) assume che le disposizioni costituzionali di principio non spiegano effetto retroattivo, salvo che ciò sia espressamente previsto. Rhinow/Schefer/Uebersax (Diritto costituzionale svizzero, 3a ed. 2016, n. 3456) differenziano tra retroattività propria e impropria.
 

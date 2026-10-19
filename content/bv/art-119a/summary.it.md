@@ -8,7 +8,7 @@ La disposizione riguarda tutte le persone: donatori di organi, riceventi e le lo
 
 La donazione di organi avviene volontariamente e gratuitamente. Nessuno può ricevere denaro per i propri organi. La distribuzione avviene secondo criteri medici come l'urgenza e le prospettive di successo. Le liste d'attesa sono gestite dai centri di trapianto.
 
-Un punto controverso centrale riguarda il momento della morte. I sostenitori del concetto di morte cerebrale vedono la morte come evento biologico, quando tutte le funzioni critiche cessano irreversibilmente (Belser/Molinari, BSK BV, Art. 119a N. 60). I critici come Becchi obiettano che il concetto di morte cerebrale serve unilateralmente allo scopo del prelievo precoce di organi (Bondolfi/Kostka/Seelmann, Organallokation, 2004). Il concetto di morte basato sull'autonomia richiede il consenso esplicito al prelievo di organi dalla morte cerebrale.
+Un punto controverso centrale riguarda il momento della morte. I sostenitori del concetto di morte cerebrale vedono la morte come evento biologico, quando tutte le funzioni critiche cessano irreversibilmente. I critici come Becchi obiettano che il concetto di morte cerebrale serve unilateralmente allo scopo del prelievo precoce di organi (Bondolfi/Kostka/Seelmann, Organallokation, 2004). Il concetto di morte basato sull'autonomia richiede il consenso esplicito al prelievo di organi dalla morte cerebrale.
 
 La distribuzione equa degli organi richiede secondo Sitter-Liver il trattamento paritario di tutti i pazienti, criteri medici come base decisionale primaria e trasparenza della procedura (Gerechte Organallokation, 2003). Schott sottolinea lo sviluppo di criteri di selezione chiari per i pazienti (Patientenauswahl und Organallokation, 2001).
 

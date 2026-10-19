@@ -6,7 +6,7 @@ Art. 50 BV regelt das Verhältnis zwischen Bund und Gemeinden in der Schweiz. Di
 
 **Gemeindeautonomie** bedeutet, dass Gemeinden in bestimmten Bereichen selbständig entscheiden können. Das kantonale Recht bestimmt, wo die Gemeinden autonom sind. Typische Bereiche sind Baubewilligungen, Einbürgerungen oder die örtliche Verkehrsorganisation. Beispiel: Eine Gemeinde kann selbst entscheiden, ob sie einem Baugesuch für ein Einfamilienhaus zustimmt, solange sie die kantonalen und eidgenössischen Gesetze beachtet.
 
-Die Bundesgarantie war in der Lehre umstritten. Während Saladin die Gemeindeautonomie bereits unter der alten Verfassung als Grundsatz ansah, hielt die herrschende Lehre sie nur für ein kantonales Institut (Meyer, BSK BV, Art. 50 N. 6). Heute besteht Streit darüber, ob Art. 50 Abs. 1 BV nur deklaratorische Bedeutung hat oder den Schutz verstärkt (Meyer, BSK BV, Art. 50 N. 11).
+Die Bundesgarantie war in der Lehre umstritten. Während Saladin die Gemeindeautonomie bereits unter der alten Verfassung als Grundsatz ansah, hielt die herrschende Lehre sie nur für ein kantonales Institut. Heute besteht Streit darüber, ob Art. 50 Abs. 1 BV nur deklaratorische Bedeutung hat oder den Schutz verstärkt.
 
 **Beachtungspflicht** bedeutet: Der Bund muss bei Gesetzen und anderen Massnahmen überlegen, wie sich diese auf die Gemeinden auswirken. Beispiel: Beim Erlass eines neuen Umweltgesetzes muss der Bund prüfen, welche Kosten und Aufgaben dadurch auf die Gemeinden zukommen.
 

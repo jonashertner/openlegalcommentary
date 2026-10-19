@@ -25,7 +25,7 @@
 
 **N. 7** **Utilizzo delle strade nazionali**: La tassa è legata all'utilizzo effettivo o potenziale delle strade nazionali. Una differenziazione secondo la frequenza d'uso non è prevista costituzionalmente (forfettaria).
 
-**N. 8** **Eccezione traffico pesante**: I veicoli soggetti alla tassa sul traffico pesante secondo l'art. 85 Cost. sono esentati dalla tassa per le strade nazionali. Questa delimitazione sistematica impedisce un doppio onere (Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, Art. 85a N. 5).
+**N. 8** **Eccezione traffico pesante**: I veicoli soggetti alla tassa sul traffico pesante secondo l'art. 85 Cost. sono esentati dalla tassa per le strade nazionali. Questa delimitazione sistematica impedisce un doppio onere.
 
 ### 4. Conseguenze giuridiche
 
@@ -39,7 +39,7 @@
 
 ### 5. Questioni controverse
 
-**N. 11** **Configurazione forfettaria vs. commisurata alle prestazioni**: Nella dottrina si discute se la concezione costituzionale come forfettaria sia obbligatoria. L'opinione dominante (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, Art. 85a N. 6; Waldmann/Belser/Epiney, BSK BV, Art. 85a N. 8) sostiene che l'interpretazione storica e sistematica depone per una soluzione forfettaria. Una minoranza (Griffel, in: Umweltrecht in der Praxis 2015, 234) ritiene costituzionalmente ammissibile una configurazione dipendente dai chilometri.
+**N. 11** **Configurazione forfettaria vs. commisurata alle prestazioni**: Nella dottrina si discute se la concezione costituzionale come forfettaria sia obbligatoria. L'opinione dominante (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, Art. 85a N. 6) sostiene che l'interpretazione storica e sistematica depone per una soluzione forfettaria. Una minoranza (Griffel, in: Umweltrecht in der Praxis 2015, 234) ritiene costituzionalmente ammissibile una configurazione dipendente dai chilometri.
 
 **N. 12** **Importo della tassa**: È controverso quali limiti costituzionali esistano per l'importo della tassa. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3ª ed. 2016, N. 2854) richiedono un orientamento al principio di equivalenza. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10ª ed. 2020, N. 2341) sottolineano al contrario il margine politico del legislatore.
 

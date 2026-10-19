@@ -8,7 +8,7 @@ Art. 107 BV gives the Confederation the competence to control weapons and war ma
 
 **Paragraph 2** concerns war material and encompasses the entire value chain from manufacture to export. This competence enables the Confederation to exercise comprehensive control over goods that can be used for military purposes. It is the basis for the War Material Act (KMG) with its strict licensing requirements and export controls.
 
-Swiss weapons legislation is characterised by the Schengen association, which has led to a considerable expansion of federal competences. Individual legal scholars criticise that the Confederation has thereby exceeded its constitutional limits (Künzli, BSK BV, Art. 107 N. 13). The prevailing doctrine takes a different view and emphasises that Swiss law continues to be based on the principle of a right to acquire weapons.
+Swiss weapons legislation is characterised by the Schengen association, which has led to a considerable expansion of federal competences. Individual legal scholars criticise that the Confederation has thereby exceeded its constitutional limits. The prevailing doctrine takes a different view and emphasises that Swiss law continues to be based on the principle of a right to acquire weapons.
 
 A practical example shows the scope: A collector of historical weapons requires separate federal licences both for the acquisition of a military pistol (WG) and for ammunition components (KMG). Violations can lead to criminal sanctions and confiscation of the objects, as the «Supergun» case demonstrated (**BGE 122 IV 103**).
 

@@ -4,7 +4,7 @@ L'art. 108 Cost. obbliga la Confederazione a promuovere l'edilizia abitativa e l
 
 La promozione avviene attraverso diversi strumenti. La Confederazione può mettere a disposizione terreni per l'edilizia abitativa, migliorare tecnicamente la costruzione di case e ridurre i costi dell'abitare. Importanti promozioni sono oggi i mutui e le fideiussioni per l'edilizia abitativa sociale, le agevolazioni fiscali sul valore locativo (DTF 148 I 210 consid. 4.4.6) e la possibilità di utilizzare denaro dalla cassa pensioni per l'acquisto di una casa (art. 30c LPP).
 
-Un sostegno particolare ricevono le famiglie, le persone anziane, quelle bisognose e le persone con disabilità. Esse hanno la priorità nelle misure di promozione (Cardinaux, BSK BV, Art. 108 n. 42-43). La Confederazione può anche emanare leggi sull'allacciamento di terreni edificabili e sul miglioramento dei metodi di costruzione.
+Un sostegno particolare ricevono le famiglie, le persone anziane, quelle bisognose e le persone con disabilità. Esse hanno la priorità nelle misure di promozione. La Confederazione può anche emanare leggi sull'allacciamento di terreni edificabili e sul miglioramento dei metodi di costruzione.
 
 Un esempio pratico: una famiglia vuole comprare una casa, ma ha troppo poco capitale proprio. Può prelevare anticipatamente una parte del denaro della sua cassa pensioni. Inoltre, una cooperativa di utilità pubblica per l'edilizia abitativa le offre un alloggio conveniente che la Confederazione ha cofinanziato.
 

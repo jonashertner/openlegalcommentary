@@ -4,7 +4,7 @@ Art. 43a BV establishes the principles according to which state tasks are distri
 
 ## Who is affected?
 
-All levels of government — Confederation, cantons and communes — must adhere to these principles when distributing and fulfilling tasks. However, the provision has no direct justiciability (lack of enforceability before the courts) according to unanimous doctrine, as Biaggini notes (BSK BV, Art. 43a N. 5). Citizens cannot directly invoke Art. 43a BV.
+All levels of government — Confederation, cantons and communes — must adhere to these principles when distributing and fulfilling tasks. However, the provision has no direct justiciability (lack of enforceability before the courts) according to unanimous doctrine, as Biaggini notes. Citizens cannot directly invoke Art. 43a BV.
 
 ## What does the norm regulate?
 
@@ -12,7 +12,7 @@ All levels of government — Confederation, cantons and communes — must adhere
 
 **Fiscal equivalence (paragraphs 2-3):** Those who benefit from state services should also bear the costs. In cases of cross-cantonal benefits, costs are to be distributed accordingly. Example: A hospital near the border treats patients from neighbouring cantons — these must contribute to the costs.
 
-**Basic services (paragraph 4):** The Confederation and cantons jointly ensure adequate basic services, for example in postal services, telecommunications or public transport. However, this does not create specific entitlements, as the Federal Council has emphasised (Biaggini, BSK BV, Art. 43a N. 36).
+**Basic services (paragraph 4):** The Confederation and cantons jointly ensure adequate basic services, for example in postal services, telecommunications or public transport. However, this does not create specific entitlements, as the Federal Council has emphasised.
 
 **Economic efficiency (paragraph 5):** All levels of government must fulfil their tasks economically and appropriately. The Federal Supreme Court confirmed in **BGE 147 II 227** that this also includes the assertion of state claims.
 

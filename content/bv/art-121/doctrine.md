@@ -16,15 +16,15 @@
 
 **N. 5** Für die Grundrechtsposition von Ausländerinnen und Ausländern sind insbesondere → Art. 8 BV (Rechtsgleichheit), → Art. 13 BV (Schutz der Privatsphäre) und → Art. 25 BV (Schutz vor Ausweisung) relevant. Die Normen der EMRK, namentlich Art. 8 EMRK (Recht auf Achtung des Privat- und Familienlebens) und Art. 3 EMRK (Verbot unmenschlicher Behandlung), bilden gemäss → Art. 190 BV massgebendes Recht und begrenzen die Anwendung von Art. 121 BV.
 
-**N. 6** Im Verhältnis zum Freizügigkeitsabkommen (FZA) mit der EU entsteht ein Spannungsfeld. Nach Achermann, BSK BV, Art. 121 N. 27, ermöglicht die umfassende Bundeskompetenz die Regelung grundsätzlich aller Fragen betreffend Status und Stellung von Ausländern, während andere Autoren betonen, der Bund könne ohne Zusammenarbeit mit den Kantonen die Integration nicht regeln (Achermann, BSK BV, Art. 121 N. 27).
+**N. 6** Im Verhältnis zum Freizügigkeitsabkommen (FZA) mit der EU entsteht ein Spannungsfeld. Nach Achermann, BSK BV, Art. 121 N. 27, ermöglicht die umfassende Bundeskompetenz die Regelung grundsätzlich aller Fragen betreffend Status und Stellung von Ausländern, während andere Autoren betonen, der Bund könne ohne Zusammenarbeit mit den Kantonen die Integration nicht regeln.
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
 #### a) Gesetzgebungskompetenz (Abs. 1)
 
-**N. 7** Die Bundeskompetenz nach Abs. 1 ist umfassend und erstreckt sich auf Ein- und Ausreise, Aufenthalt, Niederlassung sowie Asylgewährung. Nach **BGE 127 II 49** handelt es sich um eine ausschliessliche Bundeskompetenz, die auch arbeitsmarktpolitische Massnahmen einschliesst. Die herrschende Lehre anerkennt diese umfassende Kompetenz (Achermann, BSK BV, Art. 121 N. 33), wobei kritische Stimmen die Ausdehnung auf arbeitsmarktpolitische Bereiche hinterfragen (Achermann, BSK BV, Art. 121 N. 33).
+**N. 7** Die Bundeskompetenz nach Abs. 1 ist umfassend und erstreckt sich auf Ein- und Ausreise, Aufenthalt, Niederlassung sowie Asylgewährung. Nach **BGE 127 II 49** handelt es sich um eine ausschliessliche Bundeskompetenz, die auch arbeitsmarktpolitische Massnahmen einschliesst. Die herrschende Lehre anerkennt diese umfassende Kompetenz, wobei kritische Stimmen die Ausdehnung auf arbeitsmarktpolitische Bereiche hinterfragen.
 
-**N. 8** Die Asylkompetenz ist nach der Botschaft zur Bundesverfassung eine ausschliessliche Bundeszuständigkeit (BBl 1997 I 1, 370), wobei diese Einordnung in der Lehre umstritten ist (Achermann, BSK BV, Art. 121 N. 42). Der Begriff «Asyl» umfasst die temporäre Schutzgewährung für Personen, die im Herkunftsstaat verfolgt werden oder deren Leib und Leben gefährdet sind.
+**N. 8** Die Asylkompetenz ist nach der Botschaft zur Bundesverfassung eine ausschliessliche Bundeszuständigkeit (BBl 1997 I 1, 370), wobei diese Einordnung in der Lehre umstritten ist. Der Begriff «Asyl» umfasst die temporäre Schutzgewährung für Personen, die im Herkunftsstaat verfolgt werden oder deren Leib und Leben gefährdet sind.
 
 #### b) Sicherheitsausweisung (Abs. 2)
 
@@ -46,11 +46,11 @@
 
 ### 5. Streitstände
 
-**N. 15** Ein zentraler Streitpunkt betrifft die Reichweite der Integrationskompetenz des Bundes. Achermann vertritt die Position, die Bundeskompetenz sei umfassend und ermögliche die Regelung aller Fragen betreffend Status und Stellung von Ausländern (Achermann, BSK BV, Art. 121 N. 27). Demgegenüber betonen andere Autoren, der Bund könne ohne Zusammenarbeit mit den Kantonen deren Kompetenzen in Bildung, Sozialem und anderen Bereichen nicht aushebeln (Achermann, BSK BV, Art. 121 N. 27).
+**N. 15** Ein zentraler Streitpunkt betrifft die Reichweite der Integrationskompetenz des Bundes. Achermann vertritt die Position, die Bundeskompetenz sei umfassend und ermögliche die Regelung aller Fragen betreffend Status und Stellung von Ausländern. Demgegenüber betonen andere Autoren, der Bund könne ohne Zusammenarbeit mit den Kantonen deren Kompetenzen in Bildung, Sozialem und anderen Bereichen nicht aushebeln.
 
 **N. 16** Kontrovers diskutiert wird das Verhältnis zwischen Art. 121 Abs. 3–6 BV und dem Freizügigkeitsabkommen. Jaag/Priuli argumentieren, die Ausschaffungsinitiative sei mit dem FZA unvereinbar (Jusletter v. 8.11.2010). Weber hingegen sieht Umsetzungsvarianten, die eine Vereinbarkeit ermöglichen (AJP 2012, 1436). Das Bundesgericht hat in **BGE 145 IV 55** eine «spezifische Prüfung» für EU-Bürger entwickelt.
 
-**N. 17** Die Auslegung des Non-Refoulement-Prinzips im Kontext der Ausschaffungsinitiative ist umstritten. Der Bundesrat vertrat die Auffassung, die Initiative könne so ausgelegt werden, dass das Non-Refoulement-Prinzip respektiert werde, warnte aber vor erheblichen Kollisionen mit rechtsstaatlichen Grundsätzen (Achermann, BSK BV, Art. 121 N. 54).
+**N. 17** Die Auslegung des Non-Refoulement-Prinzips im Kontext der Ausschaffungsinitiative ist umstritten. Der Bundesrat vertrat die Auffassung, die Initiative könne so ausgelegt werden, dass das Non-Refoulement-Prinzip respektiert werde, warnte aber vor erheblichen Kollisionen mit rechtsstaatlichen Grundsätzen.
 
 ### 6. Praxishinweise
 

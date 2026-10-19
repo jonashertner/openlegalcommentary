@@ -10,7 +10,7 @@
 
 ## 2. Systematic Classification
 
-**N. 4** Art. 140 FC, together with Art. 138 (popular initiative for total revision), Art. 139 (popular initiative for partial revision) and Art. 141 (optional referendum), forms the core system of direct democratic participation rights at the federal level. The provision conclusively regulates in which cases a mandatory referendum must be conducted (Epiney/Diezig, BSK BV, Art. 140 N. 10).
+**N. 4** Art. 140 FC, together with Art. 138 (popular initiative for total revision), Art. 139 (popular initiative for partial revision) and Art. 141 (optional referendum), forms the core system of direct democratic participation rights at the federal level. The provision conclusively regulates in which cases a mandatory referendum must be conducted.
 
 **N. 5** The mandatory referendum under Art. 140 para. 1 FC differs from the optional referendum (Art. 141 FC) by three characteristics: It takes place automatically without signature collection, requires the approval of the people and cantons (double majority) and concerns particularly important constitutional matters.
 
@@ -22,11 +22,11 @@
 
 **N. 7** **Constitutional amendments (lit. a)**: Every formal amendment to the Federal Constitution is subject to the mandatory referendum, regardless of its substantive significance. This also includes purely editorial adjustments or the repeal of obsolete provisions (→ Art. 195 FC).
 
-**N. 8** **Organizations for collective security (lit. b)**: According to the Federal Council definition, these are universal or regional organizations that set themselves the goal of offering organized resistance to an aggressor state that breaks the peace (Federal Council, cited in Epiney/Diezig, BSK BV, Art. 140 N. 17). A classic example would be the United Nations with its Chapter VII system.
+**N. 8** **Organizations for collective security (lit. b)**: According to the Federal Council definition, these are universal or regional organizations that set themselves the goal of offering organized resistance to an aggressor state that breaks the peace. A classic example would be the United Nations with its Chapter VII system.
 
-**N. 9** **Supranational communities (lit. b)**: The Federal Council defines these as organizations with independent organs that can issue directly binding decisions for individuals through majority decisions and have relatively comprehensive substantive powers (Federal Council, cited in Epiney/Diezig, BSK BV, Art. 140 N. 18). The EU unquestionably meets these criteria.
+**N. 9** **Supranational communities (lit. b)**: The Federal Council defines these as organizations with independent organs that can issue directly binding decisions for individuals through majority decisions and have relatively comprehensive substantive powers. The EU unquestionably meets these criteria.
 
-**N. 10** The classification of the EEA is disputed: Epiney/Diezig (BSK BV, Art. 140 N. 19) as well as Hangartner/Kley affirm supranationality because of the dynamic legal development and the powers of the EFTA Surveillance Authority. Häfelin/Haller/Keller, Tschannen and Biaggini, however, deny it, since EEA law is not directly applicable and the adoption of new legal acts requires the consent of the contracting parties.
+**N. 10** The classification of the EEA is disputed: Epiney/Diezig as well as Hangartner/Kley affirm supranationality because of the dynamic legal development and the powers of the EFTA Surveillance Authority. Häfelin/Haller/Keller, Tschannen and Biaggini, however, deny it, since EEA law is not directly applicable and the adoption of new legal acts requires the consent of the contracting parties.
 
 **N. 11** **Urgent federal acts without constitutional basis (lit. c)**: This rare constellation concerns only federal acts that cumulatively: (1) have been declared urgent by the Federal Assembly (→ Art. 165 FC), (2) have no constitutional basis and (3) whose period of validity exceeds one year. They must be put to the vote within one year of adoption.
 
@@ -50,9 +50,9 @@
 
 ## 5. Points of Contention
 
-**N. 19** **Conclusive character**: The prevailing doctrine (Epiney/Diezig, BSK BV, Art. 140 N. 10; Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, § 1383) holds that Art. 140 FC conclusively regulates the cases of mandatory referendum. A minority advocates for an extraordinary mandatory treaty referendum for particularly important international treaties that do not fall under lit. b (Schulte, Direkte Demokratie und Aussenpolitik, 287 ff.).
+**N. 19** **Conclusive character**: The prevailing doctrine (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, § 1383) holds that Art. 140 FC conclusively regulates the cases of mandatory referendum. A minority advocates for an extraordinary mandatory treaty referendum for particularly important international treaties that do not fall under lit. b (Schulte, Direkte Demokratie und Aussenpolitik, 287 ff.).
 
-**N. 20** **Supranationality of the EEA**: The dispute over the legal qualification of the EEA divides the doctrine. Proponents of supranationality (Epiney/Diezig, BSK BV, Art. 140 N. 19; Hangartner/Kley, Demokratische Rechte, § 831) point to the dynamic legal development and the quasi-judicial powers of the EFTA Surveillance Authority. The opposing view (Häfelin/Haller/Keller, § 1932; Tschannen, Staatsrecht, § 15 N. 28; Biaggini, BV-Kommentar, Art. 140 N. 4) emphasizes that EEA law requires implementation and has no direct effect.
+**N. 20** **Supranationality of the EEA**: The dispute over the legal qualification of the EEA divides the doctrine. Proponents of supranationality (Hangartner/Kley, Demokratische Rechte, § 831) point to the dynamic legal development and the quasi-judicial powers of the EFTA Surveillance Authority. The opposing view (Häfelin/Haller/Keller, § 1932; Tschannen, Staatsrecht, § 15 N. 28; Biaggini, BV-Kommentar, Art. 140 N. 4) emphasizes that EEA law requires implementation and has no direct effect.
 
 **N. 21** **Concept of collective security**: Villiger (FS Schindler, 805) advocates a broad interpretation that also covers regional security alliances with limited membership. The majority view (Thürer, SZIER 2005, 42; Ehrenzeller, FS Steinberger, 718) restricts the concept to universal or quasi-universal systems like the UN.
 

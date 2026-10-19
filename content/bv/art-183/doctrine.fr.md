@@ -38,7 +38,7 @@
 
 **N. 12** La notion de « gestion budgétaire régulière » est un concept juridique indéterminé concrétisé par l'art. 12 LFC. Elle comprend les principes de légalité, d'opportunité, d'économicité et d'efficacité. Ces principes valent pour toutes les activités de la Confédération ayant des incidences financières.
 
-**N. 13** La légalité exige une base légale pour chaque dépense. L'opportunité assure que les dépenses soient effectuées au moment requis. L'économicité signifie un rapport coût-bénéfice optimal, tandis que l'efficacité se concentre sur l'atteinte des objectifs (Waldmann, BSK BV, 2e éd. 2024, art. 183 N. 8).
+**N. 13** La légalité exige une base légale pour chaque dépense. L'opportunité assure que les dépenses soient effectuées au moment requis. L'économicité signifie un rapport coût-bénéfice optimal, tandis que l'efficacité se concentre sur l'atteinte des objectifs.
 
 ## 4. Conséquences juridiques
 
@@ -54,7 +54,7 @@
 
 **N. 18** La relation entre la compétence de planification financière du Conseil fédéral et le droit budgétaire parlementaire fait aussi l'objet de débats controversés. Müller/Feller (Finanzrecht des Bundes, p. 205) voient dans le plan financier un engagement factuel du Parlement, tandis que Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 4e éd. 2016, § 45 N 14) souligne la souveraineté budgétaire illimitée de l'Assemblée fédérale.
 
-**N. 19** La portée de la « gestion budgétaire régulière » fait également l'objet de débats doctrinaux. Waldmann (BSK BV, art. 183 N. 11) plaide pour une interprétation large qui inclut aussi les aspects de durabilité. Häfelin/Haller/Keller/Thurnherr (N 1861) défendent une vision plus restrictive qui se limite aux principes budgétaires traditionnels.
+**N. 19** La portée de la « gestion budgétaire régulière » fait également l'objet de débats doctrinaux. Waldmann plaide pour une interprétation large qui inclut aussi les aspects de durabilité. Häfelin/Haller/Keller/Thurnherr (N 1861) défendent une vision plus restrictive qui se limite aux principes budgétaires traditionnels.
 
 ## 6. Indications pratiques
 

@@ -10,7 +10,7 @@
 
 **N. 3** L'art. 171 Cst se situe dans la 2e section du 5e chapitre sur les « Compétences » de l'Assemblée fédérale. La norme forme, avec l'art. 169 Cst (haute surveillance) et l'art. 187 Cst (droits de participation en politique extérieure), le fondement constitutionnel du contrôle parlementaire et du pilotage de l'activité gouvernementale. Elle concrétise le principe ancré à l'art. 148 al. 1 Cst selon lequel l'Assemblée fédérale « exerce le pouvoir suprême dans la Confédération », sous réserve des droits du peuple et des cantons (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4e éd. 2023, art. 171 n. 2).
 
-**N. 4** Le lien systématique avec → l'art. 182 Cst montre la séparation fonctionnelle des pouvoirs : tandis que l'art. 171 Cst règle l'attribution de mandats parlementaires, l'art. 182 Cst définit la fonction de direction autonome du Conseil fédéral. La tension entre le pilotage parlementaire et l'autonomie exécutive caractérise l'interprétation des deux normes (Waldmann/Belser/Epiney, BSK BV, 2e éd. 2024, art. 171 n. 5; Tschannen, Staatsrecht, 5e éd. 2021, § 44 n. 15).
+**N. 4** Le lien systématique avec → l'art. 182 Cst montre la séparation fonctionnelle des pouvoirs: tandis que l'art. 171 Cst règle l'attribution de mandats parlementaires, l'art. 182 Cst définit la fonction de direction autonome du Conseil fédéral. La tension entre le pilotage parlementaire et l'autonomie exécutive caractérise l'interprétation des deux normes (Tschannen, Staatsrecht, 5e éd. 2021, § 44 n. 15).
 
 ### 3. Éléments constitutifs / Contenu de la norme
 

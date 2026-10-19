@@ -62,7 +62,7 @@
 
 **N. 15** **Point in time of mandate freedom**: Controversial is when the free mandate applies. According to **BGE 151 I 41** protection begins only with the constitution of parliament. Biaggini (Const. Commentary, 2nd ed. 2017, Art. 161 N 3) criticises this restriction as inconsistent with the system, since the mandate already arises with the election.
 
-**N. 16** **Scope of the disclosure obligation**: Disputed is how detailed the disclosure must be. While the St. Gallen Commentary (Ehrenzeller et al., 4th ed. 2023, Art. 161 N 12) demands comprehensive transparency, others advocate for a restriction to essential ties with direct reference to parliamentary activity (BSK Const.-Waldmann/Belser/Epiney, 2nd ed. 2024, Art. 161 N 18).
+**N. 16** **Scope of the disclosure obligation**: Disputed is how detailed the disclosure must be. While the St. Gallen Commentary (Ehrenzeller et al., 4th ed. 2023, Art. 161 N 12) demands comprehensive transparency, others advocate for a restriction to essential ties with direct reference to parliamentary activity.
 
 ### 6. Practice Notes
 

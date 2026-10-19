@@ -6,7 +6,7 @@ La disposizione costituzionale crea una base comune per l'architettura della sic
 
 Sono interessate tutte le autorità statali incaricate di compiti di sicurezza: polizia, guardia di confine, servizio informazioni, esercito e protezione civile. Anche le cittadine e i cittadini sono indirettamente interessati, in quanto possono beneficiare delle misure di sicurezza o esserne toccati.
 
-Le conseguenze giuridiche sono limitate. L'art. 57 Cost. secondo la dottrina prevalente (Diggelmann/Altwicker, BSK BV, art. 57 n. 23-26) non crea nuove competenze, ma presuppone competenze esistenti. È controverso se l'obbligo di coordinamento del capoverso 2 conferisca alla Confederazione nuove competenze normative. La dottrina prevalente lo nega a causa dell'ordinamento federalistico delle competenze.
+Le conseguenze giuridiche sono limitate. L'art. 57 Cost. secondo la dottrina prevalente non crea nuove competenze, ma presuppone competenze esistenti. È controverso se l'obbligo di coordinamento del capoverso 2 conferisca alla Confederazione nuove competenze normative. La dottrina prevalente lo nega a causa dell'ordinamento federalistico delle competenze.
 
 Un esempio di applicazione pratica è il Concordato concernente misure contro la violenza in occasione di manifestazioni sportive. Il Tribunale federale ha confermato la sua ammissibilità come coordinamento di polizia intercantonale (DTF 140 I 2). In situazioni di sicurezza transfrontaliere, le polizie cantonali e le autorità federali collaborano, per esempio nella lotta contro il terrorismo o la criminalità organizzata.
 

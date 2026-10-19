@@ -10,7 +10,7 @@ La disposition constitutionnelle est concrétisée par la loi sur l'aide aux vic
 
 Les victimes sont des personnes directement lésées par une infraction (victimes primaires). Cela comprend aussi les proches parents comme les membres de la famille qui ont subi un préjudice psychique du fait de l'infraction elle-même (victimes secondaires). Selon l'art. 1 al. 2 LAVI, ces personnes peuvent aussi avoir droit à une aide.
 
-L'aide n'intervient selon Göksu (BSK BV, Art. 124 N. 7) qu'après qu'une infraction ait été effectivement commise, non pas déjà en cas de menace. Les personnes morales sont exclues de la protection.
+L'aide n'intervient selon Göksu qu'après qu'une infraction ait été effectivement commise, non pas déjà en cas de menace. Les personnes morales sont exclues de la protection.
 
 ## Quelles conséquences juridiques en résultent ?
 

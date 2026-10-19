@@ -4,7 +4,7 @@ L'art. 108 Cst. oblige la Confédération à encourager la construction de logem
 
 L'encouragement s'effectue par différents instruments. La Confédération peut mettre à disposition des terrains pour la construction de logements, améliorer techniquement la construction de maisons et réduire les coûts du logement. Les encouragements importants sont aujourd'hui les prêts et les cautionnements pour la construction de logements sociaux, les avantages fiscaux sur la valeur locative (BGE 148 I 210 consid. 4.4.6) et la possibilité d'utiliser l'argent de la caisse de pension pour l'achat d'une maison (art. 30c LPP).
 
-Les familles, les personnes âgées, les personnes dans le besoin et les personnes handicapées reçoivent un soutien particulier. Elles ont la priorité pour les mesures d'encouragement (Cardinaux, BSK BV, art. 108 n. 42-43). La Confédération peut aussi édicter des lois sur l'équipement de terrains à bâtir et l'amélioration des méthodes de construction.
+Les familles, les personnes âgées, les personnes dans le besoin et les personnes handicapées reçoivent un soutien particulier. Elles ont la priorité pour les mesures d'encouragement. La Confédération peut aussi édicter des lois sur l'équipement de terrains à bâtir et l'amélioration des méthodes de construction.
 
 Un exemple pratique : Une famille veut acheter une maison, mais n'a pas suffisamment de fonds propres. Elle peut retirer par anticipation une partie de l'argent de sa caisse de pension. En outre, une coopérative de construction d'utilité publique lui offre un logement avantageux que la Confédération a cofinancé.
 

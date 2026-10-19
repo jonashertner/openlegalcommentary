@@ -8,6 +8,6 @@ Art. 132 BV authorises the Confederation to levy two important taxes: stamp duti
 
 The cantonal share is particularly noteworthy: 10% of withholding tax revenue automatically flows to the cantons. This federalist component strengthens cantonal finances.
 
-Both types of tax are subject to political debate. For example, Parliament has been debating the abolition of the issuance tax for years in order to strengthen the financial centre. The National Council voted in favour in 2013, but the Council of States suspended the bill (Simonek, BSK BV, Art. 132 N. 15).
+Both types of tax are subject to political debate. For example, Parliament has been debating the abolition of the issuance tax for years in order to strengthen the financial centre. The National Council voted in favour in 2013, but the Council of States suspended the bill.
 
 The powers are exclusive: cantons may not levy their own stamp or withholding taxes. However, the Confederation is not obliged to levy these taxes - the Constitution only gives it the right to do so.

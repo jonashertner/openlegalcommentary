@@ -4,9 +4,9 @@
 
 ### 1. Legislative History
 
-**N. 1** The inclusion of a political parties article in the Federal Constitution was intensively discussed during the total revision. The Constitutional Commission of the Council of States originally wanted to include more comprehensive regulation with provisions on party financing. However, a minimalist solution prevailed in the parliamentary procedure. The rapporteur in the Council of States made clear: «The Commission is clearly of the view that this provision does not constitute a basis for financing» (Tschannen, BSK BV, Art. 137 N. 24). The Federal Council's message of 20 November 1996 on the new Federal Constitution (BBl 1997 I 1, 347) emphasised that Art. 137 was merely intended to acknowledge the factual role of parties under constitutional law, without creating new rights or duties.
+**N. 1** The inclusion of a political parties article in the Federal Constitution was intensively discussed during the total revision. The Constitutional Commission of the Council of States originally wanted to include more comprehensive regulation with provisions on party financing. However, a minimalist solution prevailed in the parliamentary procedure. The rapporteur in the Council of States made clear: «The Commission is clearly of the view that this provision does not constitute a basis for financing». The Federal Council's message of 20 November 1996 on the new Federal Constitution (BBl 1997 I 1, 347) emphasised that Art. 137 was merely intended to acknowledge the factual role of parties under constitutional law, without creating new rights or duties.
 
-**N. 2** During the consultation procedure, there was controversial discussion about whether the provision should have a purely descriptive or normative character. The council records show that the commission majority understood Art. 137 as merely descriptive (Frick, cited in Tschannen, BSK BV, Art. 137 N. 6). Nevertheless, the view prevailed in legal doctrine that the parties article should be understood normatively, even if its regulatory content might be limited (Tschannen, BSK BV, Art. 137 N. 2).
+**N. 2** During the consultation procedure, there was controversial discussion about whether the provision should have a purely descriptive or normative character. The council records show that the commission majority understood Art. 137 as merely descriptive. Nevertheless, the view prevailed in legal doctrine that the parties article should be understood normatively, even if its regulatory content might be limited.
 
 ### 2. Systematic Classification
 
@@ -24,7 +24,7 @@
 - wish to participate in political opinion and will formation
 - participate in elections and votes
 
-**N. 7** The legal form is not decisive. Parties regularly organise themselves as associations under Art. 60 ff. CC, but can also exist informally. What is decisive is the factual function in the political system (Tschannen, BSK BV, Art. 137 N. 8–10). The controversial parties register at federal level (Art. 76a para. 1 PERA) does not change the basic freedom of form, but is criticised by parts of legal doctrine as a violation of political equality (Schiess Rütimann, ZBl 2006, 512 f.).
+**N. 7** The legal form is not decisive. Parties regularly organise themselves as associations under Art. 60 ff. CC, but can also exist informally. What is decisive is the factual function in the political system. The controversial parties register at federal level (Art. 76a para. 1 PERA) does not change the basic freedom of form, but is criticised by parts of legal doctrine as a violation of political equality (Schiess Rütimann, ZBl 2006, 512 f.).
 
 **N. 8** **«participate ... in»**: Participation includes all legitimate forms of political activity: organising election campaigns, launching initiatives and referendums, taking positions on political issues, recruiting and training political personnel, parliamentary group work (→ Art. 61 ParlA). The wording is deliberately kept open and does not exclude new forms of political participation.
 
@@ -34,7 +34,7 @@
 
 ### 4. Legal Consequences
 
-**N. 11** According to prevailing doctrine, Art. 137 BV does not establish direct subjective rights of the parties (Tschannen, BSK BV, Art. 137 N. 4; Rhinow, recht 1986, 117). The provision has primarily an objective legal character and recognises parties as necessary institutions of democracy.
+**N. 11** According to prevailing doctrine, Art. 137 BV does not establish direct subjective rights of the parties (Rhinow, recht 1986, 117). The provision has primarily an objective legal character and recognises parties as necessary institutions of democracy.
 
 **N. 12** As an institutional guarantee, Art. 137 BV obligates the legislator to design the framework conditions for party activity so that parties can fulfil their constitutional function. This includes:
 - Guarantee of freedom of association for political purposes
@@ -46,7 +46,7 @@
 
 ### 5. Controversies
 
-**N. 14** **Legal nature of Art. 137 BV**: The central point of contention concerns the legal nature of the provision. Frick (cited in Tschannen, BSK BV, Art. 137 N. 6) takes the position, referring to the council debates, that Art. 137 is purely declaratory. In contrast, Tschannen (BSK BV, Art. 137 N. 2) emphasises that the parties article must be understood normatively, even if the regulatory content may be limited. This controversy has practical consequences for deriving concrete rights and duties from the provision.
+**N. 14** **Legal nature of Art. 137 BV**: The central point of contention concerns the legal nature of the provision. Frick takes the position, referring to the council debates, that Art. 137 is purely declaratory. In contrast, Tschannen emphasises that the parties article must be understood normatively, even if the regulatory content may be limited. This controversy has practical consequences for deriving concrete rights and duties from the provision.
 
 **N. 15** **Party financing**: The question of transparency and state support is fiercely disputed. Caroni (Geld und Politik, 2009, 234 ff.) advocates for comprehensive disclosure obligations following international models. Conservative voices warn against a nationalisation of parties and emphasise their private law character (Schmid, Politische Parteien, 1981, 156 ff.). The legislator has so far shown restraint.
 

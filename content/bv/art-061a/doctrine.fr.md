@@ -2,15 +2,15 @@
 
 ### 1. Genèse
 
-**N. 1** L'art. 61a Cst. est le cœur de la « Constitution de la formation » adoptée en 2006 par le peuple et les cantons et marque un changement de paradigme dans la politique suisse de la formation. Cette disposition est née en réaction à la fragmentation croissante du système de formation et aux défis de la mobilité dans la formation dans un système fédéraliste (Hänni, BSK BV, Art. 61a N. 15–19).
+**N. 1** L'art. 61a Cst. est le cœur de la « Constitution de la formation » adoptée en 2006 par le peuple et les cantons et marque un changement de paradigme dans la politique suisse de la formation. Cette disposition est née en réaction à la fragmentation croissante du système de formation et aux défis de la mobilité dans la formation dans un système fédéraliste.
 
-**N. 2** La genèse parlementaire de la Constitution de la formation est remarquable, car elle ne découle pas d'un projet du Conseil fédéral, mais de l'initiative parlementaire Zbinden (97.419). Après l'échec de tentatives antérieures de réforme globale de la formation dans les années 1970 (FF 1972 I 375 ss), la CSEC-CN a élaboré entre 2003 et 2005 une nouvelle conception qui ne affaiblit pas le fédéralisme, mais le renforce par la coordination (Hänni, BSK BV, Art. 61a N. 8–9).
+**N. 2** La genèse parlementaire de la Constitution de la formation est remarquable, car elle ne découle pas d'un projet du Conseil fédéral, mais de l'initiative parlementaire Zbinden (97.419). Après l'échec de tentatives antérieures de réforme globale de la formation dans les années 1970 (FF 1972 I 375 ss), la CSEC-CN a élaboré entre 2003 et 2005 une nouvelle conception qui ne affaiblit pas le fédéralisme, mais le renforce par la coordination.
 
-**N. 3** Le Conseil fédéral était critique envers le projet et proposait de supprimer le terme « conjointement » à l'al. 2, car il n'était juridiquement pas univoque (Hänni, BSK BV, Art. 61a N. 24). Le Parlement a cependant maintenu cette formulation pour souligner la responsabilité partagée de la Confédération et des cantons.
+**N. 3** Le Conseil fédéral était critique envers le projet et proposait de supprimer le terme « conjointement » à l'al. 2, car il n'était juridiquement pas univoque. Le Parlement a cependant maintenu cette formulation pour souligner la responsabilité partagée de la Confédération et des cantons.
 
 ### 2. Position systématique
 
-**N. 4** L'art. 61a Cst. forme l'introduction programmatique de la 3e section sur « Formation, recherche et culture » et est systématiquement étroitement lié aux dispositions spéciales qui suivent : → art. 62 Cst. (école), → art. 63 Cst. (formation professionnelle), → art. 63a Cst. (hautes écoles), → art. 64a Cst. (formation continue). La norme fonctionne comme un cadre global qui englobe tous les degrés de formation (Hänni, BSK BV, Art. 61a N. 10–12).
+**N. 4** L'art. 61a Cst. forme l'introduction programmatique de la 3e section sur « Formation, recherche et culture » et est systématiquement étroitement lié aux dispositions spéciales qui suivent: → art. 62 Cst. (école), → art. 63 Cst. (formation professionnelle), → art. 63a Cst. (hautes écoles), → art. 64a Cst. (formation continue). La norme fonctionne comme un cadre global qui englobe tous les degrés de formation.
 
 **N. 5** L'obligation de coordination selon l'art. 61a al. 2 Cst. va au-delà de l'obligation générale de coopération de l'→ art. 44 Cst. Alors qu'il est controversé dans la doctrine s'il existe une « obligation dépassant considérablement la mesure de l'art. 44 » (négativement : Biaggini, Komm. BV, Art. 61a N. 25 ; affirmativement : CSEC-CN), la pratique montre que l'art. 61a Cst. légitime des instruments de coordination spécifiques comme le concordat HarmoS.
 
@@ -18,15 +18,15 @@
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 7** **Espace suisse de formation (al. 1)** : Ce terme englobe tous les degrés de formation depuis l'école enfantine jusqu'à la formation quaternaire ainsi que la formation formelle, non formelle et informelle. L'« espace » doit être compris non pas géographiquement, mais fonctionnellement comme un système cohérent avec des transitions perméables (Hänni, BSK BV, Art. 61a N. 20–21).
+**N. 7** **Espace suisse de formation (al. 1)**: Ce terme englobe tous les degrés de formation depuis l'école enfantine jusqu'à la formation quaternaire ainsi que la formation formelle, non formelle et informelle. L'« espace » doit être compris non pas géographiquement, mais fonctionnellement comme un système cohérent avec des transitions perméables.
 
-**N. 8** **Qualité** : L'assurance qualité se rapporte tant aux contenus de formation qu'aux structures et processus. Elle comprend des standards minimaux, des mécanismes d'évaluation et l'amélioration continue. Le concept est dynamique et s'oriente vers les standards internationaux (Hänni, BSK BV, Art. 61a N. 22).
+**N. 8** **Qualité**: L'assurance qualité se rapporte tant aux contenus de formation qu'aux structures et processus. Elle comprend des standards minimaux, des mécanismes d'évaluation et l'amélioration continue. Le concept est dynamique et s'oriente vers les standards internationaux.
 
-**N. 9** **Perméabilité** : La mobilité verticale (entre degrés de formation) et horizontale (entre filières de formation) est centrale. La perméabilité exige la reconnaissance mutuelle des diplômes, des structures compatibles et la capacité de raccordement des filières de formation (Hänni, BSK BV, Art. 61a N. 23–24).
+**N. 9** **Perméabilité**: La mobilité verticale (entre degrés de formation) et horizontale (entre filières de formation) est centrale. La perméabilité exige la reconnaissance mutuelle des diplômes, des structures compatibles et la capacité de raccordement des filières de formation.
 
-**N. 10** **Coordination et collaboration (al. 2)** : Le souci « conjoint » fonde une obligation constitutionnelle de coopérer qui va au-delà de la simple consultation. La Confédération et les cantons doivent coordonner leurs mesures et ne peuvent pas agir de manière isolée (Hänni, BSK BV, Art. 61a N. 25–26).
+**N. 10** **Coordination et collaboration (al. 2)**: Le souci « conjoint » fonde une obligation constitutionnelle de coopérer qui va au-delà de la simple consultation. La Confédération et les cantons doivent coordonner leurs mesures et ne peuvent pas agir de manière isolée.
 
-**N. 11** **Reconnaissance équivalente (al. 3)** : La norme postule l'équivalence des voies de formation générale et professionnelle. Ceci interdit une évaluation hiérarchique et exige des accès égaux aux filières de formation supérieure (Hänni, BSK BV, Art. 61a N. 27).
+**N. 11** **Reconnaissance équivalente (al. 3)**: La norme postule l'équivalence des voies de formation générale et professionnelle. Ceci interdit une évaluation hiérarchique et exige des accès égaux aux filières de formation supérieure.
 
 ### 4. Effets juridiques
 

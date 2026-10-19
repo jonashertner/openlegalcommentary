@@ -10,7 +10,7 @@
 
 **N. 3** L'art. 171 Cost. si trova nella 2ª sezione del 5° capitolo sulle «Competenze» dell'Assemblea federale. La norma forma insieme all'art. 169 Cost. (alta vigilanza) e all'art. 187 Cost. (diritti di partecipazione in politica estera) il fondamento costituzionale del controllo e della direzione parlamentare dell'attività governativa. Essa concretizza il principio sancito nell'art. 148 cpv. 1 Cost., secondo cui l'Assemblea federale «esercita il potere supremo nella Confederazione», fatti salvi i diritti del Popolo e dei Cantoni (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4ª ed. 2023, art. 171 n. 2).
 
-**N. 4** Il collegamento sistematico con → art. 182 Cost. mostra la separazione funzionale dei poteri: mentre l'art. 171 Cost. disciplina il conferimento di mandati parlamentari, l'art. 182 Cost. definisce la funzione direttiva autonoma del Consiglio federale. Il rapporto di tensione tra direzione parlamentare e autonomia esecutiva caratterizza l'interpretazione di entrambe le norme (Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, art. 171 n. 5; Tschannen, Staatsrecht, 5ª ed. 2021, § 44 n. 15).
+**N. 4** Il collegamento sistematico con → art. 182 Cost. mostra la separazione funzionale dei poteri: mentre l'art. 171 Cost. disciplina il conferimento di mandati parlamentari, l'art. 182 Cost. definisce la funzione direttiva autonoma del Consiglio federale. Il rapporto di tensione tra direzione parlamentare e autonomia esecutiva caratterizza l'interpretazione di entrambe le norme (Tschannen, Staatsrecht, 5ª ed. 2021, § 44 n. 15).
 
 ### 3. Elementi della fattispecie / Contenuto della norma
 

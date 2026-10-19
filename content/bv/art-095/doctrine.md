@@ -10,7 +10,7 @@
 
 **N. 3** Art. 95 BV bildet das Herzstück der bundesstaatlichen Wirtschaftskompetenzen. Er steht in engem Zusammenhang mit der Wirtschaftsfreiheit (→ Art. 27 BV) und den Grundsätzen der Wirtschaftsordnung (→ Art. 94 BV). Während Art. 27 BV das individuelle Grundrecht auf freie wirtschaftliche Betätigung garantiert, ermächtigt Art. 95 BV den Bund zur Regulierung dieser Freiheit.
 
-**N. 4** Die Norm ist abzugrenzen von den spezifischen Wirtschaftskompetenzen des Bundes (→ Art. 96-98 BV) sowie von den kantonalen Kompetenzen im Bereich der öffentlichen Ordnung und Sicherheit. Felix Uhlmann betont, dass dem Bund die Befugnis zustehe, «den Begriff der privatwirtschaftlichen Tätigkeit autonom zu bestimmen und nicht strikt den Begrenzungen des Grundrechts gemäss der bundesgerichtlichen Rechtsprechung» zu folgen (Uhlmann, BSK BV, Art. 95 N. 4).
+**N. 4** Die Norm ist abzugrenzen von den spezifischen Wirtschaftskompetenzen des Bundes (→ Art. 96-98 BV) sowie von den kantonalen Kompetenzen im Bereich der öffentlichen Ordnung und Sicherheit. Felix Uhlmann betont, dass dem Bund die Befugnis zustehe, «den Begriff der privatwirtschaftlichen Tätigkeit autonom zu bestimmen und nicht strikt den Begrenzungen des Grundrechts gemäss der bundesgerichtlichen Rechtsprechung» zu folgen.
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
@@ -18,7 +18,7 @@
 
 **N. 5** Der Begriff der privatwirtschaftlichen Erwerbstätigkeit umfasst jede auf Gewinn oder Erwerbseinkommen gerichtete Tätigkeit privater Wirtschaftssubjekte. Das Bundesgericht hat in ständiger Rechtsprechung bestätigt, dass darunter «jede gewerbsmässig ausgeübte, privatwirtschaftliche Tätigkeit» fällt, unabhängig von der konkreten Branche oder Berufsart (**BGE 125 I 276** E. 6a).
 
-**N. 6** Die Bundeskompetenz ist umfassend, aber nicht schrankenlos. Sie unterliegt den verfassungsmässigen Grundsätzen, insbesondere der Verhältnismässigkeit (→ Art. 5 Abs. 2 BV) und dem Willkürverbot (→ Art. 9 BV). Uhlmann weist darauf hin, dass eine Bundeskompetenz zur Regelung von Kampfhunden «zu Recht verneint» wurde, «da im Kern die private (nicht privatwirtschaftliche) Haltung der Hunde steht» (Uhlmann, BSK BV, Art. 95 N. 15).
+**N. 6** Die Bundeskompetenz ist umfassend, aber nicht schrankenlos. Sie unterliegt den verfassungsmässigen Grundsätzen, insbesondere der Verhältnismässigkeit (→ Art. 5 Abs. 2 BV) und dem Willkürverbot (→ Art. 9 BV). Uhlmann weist darauf hin, dass eine Bundeskompetenz zur Regelung von Kampfhunden «zu Recht verneint» wurde, «da im Kern die private (nicht privatwirtschaftliche) Haltung der Hunde steht».
 
 ### 3.2 Einheitlicher Wirtschaftsraum (Abs. 2)
 
@@ -30,7 +30,7 @@
 
 **N. 9** Die detaillierten Vorgaben in Abs. 3 richten sich ausschliesslich an «im In- oder Ausland kotierte Schweizer Aktiengesellschaften». Der Verfassungstext enthält zwingende materielle Vorgaben für die Vergütung und Wahl von Organmitgliedern sowie ein Strafrechtsmandat.
 
-**N. 10** Die Formulierung als «Grundsätze» bedeutet nach Uhlmann nicht, dass dem Gesetzgeber ein weiter Spielraum zukommt. Vielmehr handle es sich um «sehr detaillierte Vorgaben», wobei «die absolute Geltung und Abwägungsfeindlichkeit einer Verfassungsnorm nicht leichthin anzunehmen» sei (Uhlmann, BSK BV, Art. 95 N. 25).
+**N. 10** Die Formulierung als «Grundsätze» bedeutet nach Uhlmann nicht, dass dem Gesetzgeber ein weiter Spielraum zukommt. Vielmehr handle es sich um «sehr detaillierte Vorgaben», wobei «die absolute Geltung und Abwägungsfeindlichkeit einer Verfassungsnorm nicht leichthin anzunehmen» sei.
 
 ## 4. Rechtsfolgen
 
@@ -38,7 +38,7 @@
 
 **N. 12** Abs. 2 begründet eine Handlungspflicht des Bundes («er sorgt») und ein subjektives Recht auf Berufsausübung im ganzen Land für Inhaber der genannten Abschlüsse. Kantonale Zulassungsbeschränkungen sind nur zulässig, soweit sie durch überwiegende öffentliche Interessen gerechtfertigt und verhältnismässig sind.
 
-**N. 13** Die Vorgaben in Abs. 3 sind direkt anwendbar und verpflichten den Gesetzgeber zur wortgetreuen Umsetzung. Der Bundesrat hat sich gemäss den Materialien «für eine 'möglichst wortgetreue' Umsetzung der Initiative entschieden» (zitiert bei Uhlmann, BSK BV, Art. 95 N. 53). Bei Verstoss gegen die Bestimmungen drohen Freiheitsstrafen bis zu drei Jahren.
+**N. 13** Die Vorgaben in Abs. 3 sind direkt anwendbar und verpflichten den Gesetzgeber zur wortgetreuen Umsetzung. Der Bundesrat hat sich gemäss den Materialien «für eine 'möglichst wortgetreue' Umsetzung der Initiative entschieden». Bei Verstoss gegen die Bestimmungen drohen Freiheitsstrafen bis zu drei Jahren.
 
 ## 5. Streitstände
 

@@ -20,7 +20,7 @@
 
 **N. 7** **«Völkerrechtliche Verträge»**: Der Begriff umfasst alle von der Schweiz abgeschlossenen völkerrechtlichen Verträge, unabhängig von ihrer Bezeichnung (Übereinkommen, Abkommen, Konvention etc.). Darunter fallen bilaterale und multilaterale Verträge, einschliesslich der EMRK und der bilateralen Verträge mit der EU (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, 4. Aufl. 2023, Art. 141a N. 3).
 
-**N. 8** **«Umsetzung»**: Die Umsetzung bezeichnet sowohl die Transformation völkerrechtlicher Normen ins Landesrecht als auch deren Anwendung durch Behörden und Gerichte. Der Begriff ist weit zu verstehen und umfasst alle staatlichen Massnahmen zur Erfüllung völkerrechtlicher Verpflichtungen (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 141a N. 5).
+**N. 8** **«Umsetzung»**: Die Umsetzung bezeichnet sowohl die Transformation völkerrechtlicher Normen ins Landesrecht als auch deren Anwendung durch Behörden und Gerichte. Der Begriff ist weit zu verstehen und umfasst alle staatlichen Massnahmen zur Erfüllung völkerrechtlicher Verpflichtungen.
 
 **N. 9** **Implizite Voraussetzung**: Art. 141a BV setzt voraus, dass ein gültig abgeschlossener und für die Schweiz verbindlicher völkerrechtlicher Vertrag vorliegt. Die Bestimmung regelt nicht den Abschluss oder die Kündigung von Verträgen, sondern ausschliesslich deren Umsetzung.
 
@@ -34,7 +34,7 @@
 
 ## V. Streitstände
 
-**N. 13** **Reichweite der Umsetzungspflicht**: Ehrenzeller/Schindler vertritt die Position, dass Art. 141a BV lediglich deklaratorischen Charakter hat und die bestehende Praxis bestätigt (SGK BV, Art. 141a N. 8). Demgegenüber sieht Waldmann in der Bestimmung eine verfassungsrechtliche Verankerung der Umsetzungspflicht mit konstitutivem Charakter (BSK BV, Art. 141a N. 9).
+**N. 13** **Reichweite der Umsetzungspflicht**: Ehrenzeller/Schindler vertritt die Position, dass Art. 141a BV lediglich deklaratorischen Charakter hat und die bestehende Praxis bestätigt (SGK BV, Art. 141a N. 8). Demgegenüber sieht Waldmann in der Bestimmung eine verfassungsrechtliche Verankerung der Umsetzungspflicht mit konstitutivem Charakter.
 
 **N. 14** **Verhältnis zu Art. 190 BV**: Umstritten ist das Verhältnis zwischen Art. 141a BV und Art. 190 BV. Rhinow/Schefer argumentieren für eine harmonisierende Auslegung beider Bestimmungen (Schweizerisches Verfassungsrecht, § 14 N. 83). Biaggini hingegen betont die Eigenständigkeit von Art. 141a BV als spezifische Umsetzungsnorm (BV-Kommentar, 2. Aufl. 2017, Art. 141a N. 4).
 

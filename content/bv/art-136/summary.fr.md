@@ -2,7 +2,7 @@
 
 ## Aperçu
 
-L'art. 136 Cst. règle en deux alinéas qui a le droit de voter et d'élire en Suisse dans les affaires fédérales. Le premier alinéa dispose que toutes les Suissesses et tous les Suisses âgés de 18 ans révolus ont le droit de vote. Seules les personnes sous curatelle de portée générale (anciennement : interdiction pour maladie mentale ou faiblesse d'esprit) en sont exclues. Selon la jurisprudence du Tribunal fédéral, ces conditions sont réglées de manière exhaustive (**ATF 135 I 302**). Le législateur ne peut ni ajouter de nouvelles conditions ni modifier celles qui existent, comme le souligne le commentaire BSK (Tschannen, BSK BV, art. 136 ch. 7).
+L'art. 136 Cst. règle en deux alinéas qui a le droit de voter et d'élire en Suisse dans les affaires fédérales. Le premier alinéa dispose que toutes les Suissesses et tous les Suisses âgés de 18 ans révolus ont le droit de vote. Seules les personnes sous curatelle de portée générale (anciennement: interdiction pour maladie mentale ou faiblesse d'esprit) en sont exclues. Selon la jurisprudence du Tribunal fédéral, ces conditions sont réglées de manière exhaustive (**ATF 135 I 302**). Le législateur ne peut ni ajouter de nouvelles conditions ni modifier celles qui existent, comme le souligne le commentaire BSK.
 
 Le deuxième alinéa énumère les droits concrets : participation aux élections du Conseil national et aux votations fédérales ainsi que le droit de signer ou de lancer des initiatives populaires et des référendums. L'égalité de tous les droits politiques signifie que chaque voix compte de manière égale (égalité de la valeur du vote).
 

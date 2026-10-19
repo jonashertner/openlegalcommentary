@@ -6,7 +6,7 @@ Art. 44 BV regelt die Zusammenarbeit zwischen dem Bund und den 26 Kantonen. Die 
 
 **Wer ist betroffen?** Alle Bundesbehörden, Kantonsregierungen, kantonalen Verwaltungen und Gerichte müssen bei der Erfüllung ihrer Aufgaben zusammenarbeiten. Dies betrifft etwa die Polizei verschiedener Kantone bei grenzüberschreitenden Ermittlungen oder die Steuerverwaltungen bei der Klärung von Wohnsitzfragen.
 
-**Was verlangt die Bestimmung konkret?** Bund und Kantone müssen sich gegenseitig unterstützen und Rücksicht aufeinander nehmen (Waldmann/Kraemer, BSK BV, Art. 44 N. 5). Dies wird Bundestreue genannt und entspricht der Beistandspflicht zwischen Ehepartnern nach dem Zivilgesetzbuch (Biaggini, BSK BV, Art. 44 N. 7). Zusätzlich schulden sie einander Amts- und Rechtshilfe. Amtshilfe bedeutet Unterstützung im Verwaltungsverfahren, etwa durch Informationsaustausch. Rechtshilfe umfasst Unterstützung in Gerichtsverfahren.
+**Was verlangt die Bestimmung konkret?** Bund und Kantone müssen sich gegenseitig unterstützen und Rücksicht aufeinander nehmen. Dies wird Bundestreue genannt und entspricht der Beistandspflicht zwischen Ehepartnern nach dem Zivilgesetzbuch. Zusätzlich schulden sie einander Amts- und Rechtshilfe. Amtshilfe bedeutet Unterstützung im Verwaltungsverfahren, etwa durch Informationsaustausch. Rechtshilfe umfasst Unterstützung in Gerichtsverfahren.
 
 **Rechtsfolgen:** Bei Streitigkeiten zwischen staatlichen Ebenen müssen zunächst Verhandlungen und Vermittlung versucht werden. Das Bundesgericht entscheidet erst, wenn diese Gespräche scheitern. Verletzungen der Zusammenarbeitspflicht können mit Beschwerde gerügt werden (Art. 189 BV).
 

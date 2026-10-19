@@ -41,7 +41,7 @@
 
 **N. 11** Die **Dringlicherklärung von Bundesgesetzen** (lit. a) ermöglicht das sofortige Inkrafttreten vor Ablauf der Referendumsfrist. Das Bundesgericht hat festgehalten, dass die Dringlichkeitsklausel restriktiv auszulegen ist, da sie die Referendumsrechte der Stimmberechtigten einschränkt (**BGE 147 I 420** E. 4.2). Die materiellen Voraussetzungen der Dringlichkeit sind in → Art. 165 BV geregelt.
 
-**N. 12** Die **Finanzschwellen** (lit. b) betragen 20 Millionen Franken für einmalige und 2 Millionen Franken für wiederkehrende Ausgaben. Als «neue» Ausgaben gelten solche, die nicht bereits in einem Gesetz oder einem allgemeinverbindlichen Bundesbeschluss vorgesehen sind. Massgebend ist die Gesamtsumme eines Kredits, nicht einzelne Tranchen (Sägesser, BSK BV, Art. 159 N. 18).
+**N. 12** Die **Finanzschwellen** (lit. b) betragen 20 Millionen Franken für einmalige und 2 Millionen Franken für wiederkehrende Ausgaben. Als «neue» Ausgaben gelten solche, die nicht bereits in einem Gesetz oder einem allgemeinverbindlichen Bundesbeschluss vorgesehen sind. Massgebend ist die Gesamtsumme eines Kredits, nicht einzelne Tranchen.
 
 **N. 13** Die **Erhöhung der Gesamtausgaben bei ausserordentlichem Zahlungsbedarf** (lit. c) bezieht sich auf → Art. 126 Abs. 3 BV (Schuldenbremse). Diese Bestimmung erlaubt in ausserordentlichen Situationen (schwere Rezession, Naturkatastrophen) eine Überschreitung der Ausgabenobergrenze.
 
@@ -61,7 +61,7 @@
 
 **N. 18** Umstritten ist, ob die Beschlussfähigkeit auch bei elektronischen oder hybriden Sitzungen nach den gleichen Kriterien zu beurteilen ist. **Ehrenzeller** (St. Galler Kommentar, Art. 159 N. 5) vertritt die Auffassung, dass «Anwesenheit» physische Präsenz voraussetzt. **Graf** (Die Organisation der Bundesversammlung, S. 234) plädiert demgegenüber für eine funktionale Auslegung, die auch virtuelle Teilnahme umfasst, sofern die Identität der Teilnehmenden zweifelsfrei feststeht und eine gleichwertige Teilnahme gewährleistet ist.
 
-**N. 19** Kontrovers diskutiert wird auch die Reichweite der Teuerungsanpassung nach Abs. 4. **Sägesser** (BSK BV, Art. 159 N. 22) interpretiert die Kompetenz eng und erlaubt nur eine Anpassung an den Landesindex der Konsumentenpreise. **Vallender** (St. Galler Kommentar, Art. 159 N. 12) hält eine gewisse Flexibilität für zulässig, etwa die Verwendung spezifischer Teilindizes.
+**N. 19** Kontrovers diskutiert wird auch die Reichweite der Teuerungsanpassung nach Abs. 4. **Sägesser** interpretiert die Kompetenz eng und erlaubt nur eine Anpassung an den Landesindex der Konsumentenpreise. **Vallender** (St. Galler Kommentar, Art. 159 N. 12) hält eine gewisse Flexibilität für zulässig, etwa die Verwendung spezifischer Teilindizes.
 
 ### 6. Praxishinweise
 

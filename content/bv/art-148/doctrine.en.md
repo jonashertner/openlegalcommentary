@@ -18,13 +18,13 @@
 
 ### Supreme Authority (para. 1)
 
-**No. 6** The term «supreme authority» has developed historically and, according to Thurnherr, encompasses both the legislative function and certain governmental and control functions (Thurnherr, BSK BV, Art. 148 No. 3-5). The supremacy manifests itself in various dimensions.
+**No. 6** The term «supreme authority» has developed historically and, according to Thurnherr, encompasses both the legislative function and certain governmental and control functions. The supremacy manifests itself in various dimensions.
 
-**No. 7** **Disputed scope:** Academic opinion is divided on the scope of parliamentary supremacy. Eichenberger advocates a broad understanding: the supreme authority encompasses all legislative and governmental functions (Eichenberger, BSK BV, Art. 148 No. 21). Aubert/Mahon and Sägesser follow this broad approach (Thurnherr, BSK BV, Art. 148 No. 24-25).
+**No. 7** **Disputed scope:** Academic opinion is divided on the scope of parliamentary supremacy. Eichenberger advocates a broad understanding: the supreme authority encompasses all legislative and governmental functions. Aubert/Mahon and Sägesser follow this broad approach.
 
-**No. 8** In contrast, Tschannen advocates a narrow understanding: supremacy exists only insofar as the Federal Assembly can constitute or control other federal authorities without itself being subject to counter-control (Thurnherr, BSK BV, Art. 148 No. 26). Biaggini follows this restrictive view and limits the pre-eminent position to elections, high-level supervision and jurisdictional conflicts (Thurnherr, BSK BV, Art. 148 No. 28).
+**No. 8** In contrast, Tschannen advocates a narrow understanding: supremacy exists only insofar as the Federal Assembly can constitute or control other federal authorities without itself being subject to counter-control. Biaggini follows this restrictive view and limits the pre-eminent position to elections, high-level supervision and jurisdictional conflicts.
 
-**No. 9** Mastronardi takes a mediating position: he builds on Tschannen's definition but extends the scope to legislation and other powers (Thurnherr, BSK BV, Art. 148 No. 29).
+**No. 9** Mastronardi takes a mediating position: he builds on Tschannen's definition but extends the scope to legislation and other powers.
 
 ### Reservation of Popular Rights
 

@@ -34,7 +34,7 @@ La révision possible en tout temps constitue une garantie procédurale. Elle ga
 
 **N. 5.1** *Limites de la révision constitutionnelle*
 
-Il est controversé de savoir s'il existe, outre les limites expressément mentionnées, d'autres limites matérielles non écrites à la révision constitutionnelle. Auer défend la position selon laquelle il existe également, au-delà des art. 193 et 194 Cst., certaines limites fondées sur le droit suprapositif (Auer, in : St. Galler Kommentar BV, art. 193 n. 16). En revanche, Epiney souligne que la Constitution fixe elle-même de manière exhaustive ses limites de révision et que des restrictions supplémentaires contrediraient le principe de la souveraineté populaire (Epiney, in : BSK BV, 2e éd. 2024, art. 139 n. 28).
+Il est controversé de savoir s'il existe, outre les limites expressément mentionnées, d'autres limites matérielles non écrites à la révision constitutionnelle. Auer défend la position selon laquelle il existe également, au-delà des art. 193 et 194 Cst., certaines limites fondées sur le droit suprapositif (Auer, in: St. Galler Kommentar BV, art. 193 n. 16). En revanche, Epiney souligne que la Constitution fixe elle-même de manière exhaustive ses limites de révision et que des restrictions supplémentaires contrediraient le principe de la souveraineté populaire.
 
 **N. 5.2** *Rapport entre révision totale et révision partielle*
 

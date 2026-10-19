@@ -16,15 +16,15 @@
 
 **N. 5** Pour la position des étrangers en matière de droits fondamentaux, sont notamment pertinents les → art. 8 Cst (égalité), → art. 13 Cst (protection de la sphère privée) et → art. 25 Cst (protection contre l'expulsion). Les normes de la CEDH, notamment l'art. 8 CEDH (droit au respect de la vie privée et familiale) et l'art. 3 CEDH (interdiction des traitements inhumains), constituent selon l'→ art. 190 Cst un droit déterminant et limitent l'application de l'art. 121 Cst.
 
-**N. 6** Dans le rapport avec l'accord sur la libre circulation (ALCP) avec l'UE naît un champ de tension. Selon Achermann, BSK BV, Art. 121 N. 27, la compétence fédérale étendue permet de régler en principe toutes les questions concernant le statut et la position des étrangers, tandis que d'autres auteurs soulignent que la Confédération ne peut pas régler l'intégration sans coopération avec les cantons (Achermann, BSK BV, Art. 121 N. 27).
+**N. 6** Dans le rapport avec l'accord sur la libre circulation (ALCP) avec l'UE naît un champ de tension. Selon Achermann, BSK BV, Art. 121 N. 27, la compétence fédérale étendue permet de régler en principe toutes les questions concernant le statut et la position des étrangers, tandis que d'autres auteurs soulignent que la Confédération ne peut pas régler l'intégration sans coopération avec les cantons.
 
 ### 3. Éléments constitutifs / Contenu normatif
 
 #### a) Compétence législative (al. 1)
 
-**N. 7** La compétence fédérale selon l'al. 1 est étendue et s'étend à l'entrée et à la sortie, au séjour, à l'établissement ainsi qu'à l'octroi de l'asile. Selon **ATF 127 II 49**, il s'agit d'une compétence fédérale exclusive qui inclut aussi les mesures de politique du marché du travail. La doctrine dominante reconnaît cette compétence étendue (Achermann, BSK BV, Art. 121 N. 33), bien que des voix critiques remettent en question l'extension aux domaines de politique du marché du travail (Achermann, BSK BV, Art. 121 N. 33).
+**N. 7** La compétence fédérale selon l'al. 1 est étendue et s'étend à l'entrée et à la sortie, au séjour, à l'établissement ainsi qu'à l'octroi de l'asile. Selon **ATF 127 II 49**, il s'agit d'une compétence fédérale exclusive qui inclut aussi les mesures de politique du marché du travail. La doctrine dominante reconnaît cette compétence étendue, bien que des voix critiques remettent en question l'extension aux domaines de politique du marché du travail.
 
-**N. 8** La compétence en matière d'asile est selon le message relatif à la Constitution fédérale une compétence fédérale exclusive (FF 1997 I 1, 370), bien que cette classification soit controversée dans la doctrine (Achermann, BSK BV, Art. 121 N. 42). Le concept d'« asile » comprend l'octroi temporaire de protection aux personnes persécutées dans l'État d'origine ou dont la vie et l'intégrité physique sont menacées.
+**N. 8** La compétence en matière d'asile est selon le message relatif à la Constitution fédérale une compétence fédérale exclusive (FF 1997 I 1, 370), bien que cette classification soit controversée dans la doctrine. Le concept d'« asile » comprend l'octroi temporaire de protection aux personnes persécutées dans l'État d'origine ou dont la vie et l'intégrité physique sont menacées.
 
 #### b) Expulsion de sécurité (al. 2)
 
@@ -46,11 +46,11 @@
 
 ### 5. Points litigieux
 
-**N. 15** Un point litigieux central concerne la portée de la compétence fédérale en matière d'intégration. Achermann défend la position selon laquelle la compétence fédérale est étendue et permet de régler toutes les questions concernant le statut et la position des étrangers (Achermann, BSK BV, Art. 121 N. 27). À l'inverse, d'autres auteurs soulignent que la Confédération ne peut pas, sans coopération avec les cantons, court-circuiter leurs compétences en matière d'éducation, de social et dans d'autres domaines (Achermann, BSK BV, Art. 121 N. 27).
+**N. 15** Un point litigieux central concerne la portée de la compétence fédérale en matière d'intégration. Achermann défend la position selon laquelle la compétence fédérale est étendue et permet de régler toutes les questions concernant le statut et la position des étrangers. À l'inverse, d'autres auteurs soulignent que la Confédération ne peut pas, sans coopération avec les cantons, court-circuiter leurs compétences en matière d'éducation, de social et dans d'autres domaines.
 
 **N. 16** Le rapport entre les art. 121 al. 3 à 6 Cst et l'accord sur la libre circulation fait l'objet de discussions controversées. Jaag/Priuli argumentent que l'initiative sur le renvoi est incompatible avec l'ALCP (Jusletter du 8.11.2010). Weber en revanche voit des variantes de mise en œuvre qui permettent une compatibilité (AJP 2012, 1436). Le Tribunal fédéral a développé dans **ATF 145 IV 55** un « examen spécifique » pour les citoyens de l'UE.
 
-**N. 17** L'interprétation du principe de non-refoulement dans le contexte de l'initiative sur le renvoi est controversée. Le Conseil fédéral a défendu la position selon laquelle l'initiative pourrait être interprétée de manière à ce que le principe de non-refoulement soit respecté, mais a mis en garde contre des collisions considérables avec les principes de l'État de droit (Achermann, BSK BV, Art. 121 N. 54).
+**N. 17** L'interprétation du principe de non-refoulement dans le contexte de l'initiative sur le renvoi est controversée. Le Conseil fédéral a défendu la position selon laquelle l'initiative pourrait être interprétée de manière à ce que le principe de non-refoulement soit respecté, mais a mis en garde contre des collisions considérables avec les principes de l'État de droit.
 
 ### 6. Indications pratiques
 

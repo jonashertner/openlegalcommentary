@@ -37,7 +37,7 @@
 
 **N. 9** Art. 186 para. 2 FC empowers the Federal Council to approve cantonal enactments where the implementation of federal law so requires. The duty to approve is not a general one, but presupposes a basis in federal law that orders approval as a condition for implementation (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N. 1461). The provision does not itself establish a duty to approve; rather, it presupposes one.
 
-**N. 10** Approval is a preventive supervisory instrument that ensures the conformity of cantonal implementing enactments with federal law before they enter into force or take effect. In terms of substance, the Federal Council examines in the approval procedure only whether the cantonal enactment is compatible with the relevant federal law; a review of expediency does not as a rule take place (Künzli, BSK BV, Art. 186 N. 18 f.). The approval has declaratory character in so far as the cantonal enactment is already in conformity with federal law; it has constitutive effect where it is subject to a reservation or is refused.
+**N. 10** Approval is a preventive supervisory instrument that ensures the conformity of cantonal implementing enactments with federal law before they enter into force or take effect. In terms of substance, the Federal Council examines in the approval procedure only whether the cantonal enactment is compatible with the relevant federal law; a review of expediency does not as a rule take place. The approval has declaratory character in so far as the cantonal enactment is already in conformity with federal law; it has constitutive effect where it is subject to a reservation or is refused.
 
 **N. 11** Cantonal enactments requiring federal approval only take effect upon approval. If the Federal Council grants approval subject to conditions or reservations, the canton is obliged to make the necessary adjustments.
 
@@ -83,13 +83,13 @@
 
 **N. 25** The prevailing doctrine answers this question in the negative as a matter of principle. Hangartner (ZBl 76/1975 pp. 6 ff. and 12 ff.) as well as Rhinow/Schefer/Uebersax (op. cit., N. 788) and Häfelin/Haller/Keller/Thurnherr (op. cit., N. 1480) take the view that, by virtue of the principle of separation of powers (in conjunction with Art. 191c FC on judicial independence), the Confederation cannot in principle annul a cantonal court judgment. A court judgment can only be varied by a court; supervision over the judiciary must be confined to administrative matters.
 
-**N. 26** A minority view admits the annulment of cantonal court judgments as an «ultima ratio» in cases of the most serious violations of federal law: Kölz/Häner/Bertschi (Verwaltungsverfahren und Verwaltungsrechtspflege des Bundes, 3rd ed. 2013, N. 768) and Künzli (BSK BV, Art. 186 N. 36) consider annulment to be conceivable in exceptional cases. Tschannen (Staatsrecht, 5th ed. 2021, N. 988) concurs, but confines it to cases in which the ordinary legal remedy is not available.
+**N. 26** A minority view admits the annulment of cantonal court judgments as an «ultima ratio» in cases of the most serious violations of federal law: Kölz/Häner/Bertschi (Verwaltungsverfahren und Verwaltungsrechtspflege des Bundes, 3rd ed. 2013, N. 768) and Künzli consider annulment to be conceivable in exceptional cases. Tschannen (Staatsrecht, 5th ed. 2021, N. 988) concurs, but confines it to cases in which the ordinary legal remedy is not available.
 
 **N. 27** The Federal Supreme Court resolved this contested issue substantially in favour of the prevailing doctrine in Judgment **BGE 151 I 382** (= Judgment 2C_681/2023 of 19 March 2025), consid. 4.9.2: annulment of a cantonal court judgment by way of supervisory authority on the basis of Art. 186 para. 4 FC is, if at all, only possible in exceptional cases, and is in any event excluded where the ordinary legal remedy in the form of an authority's appeal is available. The principle of separation of powers and Art. 191c FC entail that administrative authorities are bound by legally binding court judgments.
 
 ### 2. The Authority's Appeal as the Preferred Supervisory Instrument
 
-**N. 28** The Confederation's authority's appeal to the Federal Supreme Court (Art. 89 para. 2 lit. a and Art. 111 para. 2 BGG) is regarded in case law and doctrine as the primary supervisory instrument, because it has recourse to the ordinary legal remedy and thereby preserves cantonal judicial autonomy. The Federal Supreme Court held in **BGE 148 II 369** (= 2C_1038/2020 of 15 March 2022) that the authority's appeal is a means of federal supervision that falls back on the cantonal remedy system and is «in a certain sense autonomous» from it. Waldmann (BSK BV, Art. 49 N. 44) and Pflüger (Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, N. 826 ff.) emphasise the priority of this instrument over other supervisory instruments.
+**N. 28** The Confederation's authority's appeal to the Federal Supreme Court (Art. 89 para. 2 lit. a and Art. 111 para. 2 BGG) is regarded in case law and doctrine as the primary supervisory instrument, because it has recourse to the ordinary legal remedy and thereby preserves cantonal judicial autonomy. The Federal Supreme Court held in **BGE 148 II 369** (= 2C_1038/2020 of 15 March 2022) that the authority's appeal is a means of federal supervision that falls back on the cantonal remedy system and is «in a certain sense autonomous» from it. Waldmann and Pflüger (Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, N. 826 ff.) emphasise the priority of this instrument over other supervisory instruments.
 
 **N. 29** The Federal Supreme Court held in **BGE 148 II 369**, consid. 3.3.7, that the function of the authority's appeal as a supervisory instrument of the Confederation is substantially impaired if cantonal procedural law is applied in a way that imposes court costs on the federal authority. A federal authority that performs its supervisory function by means of an authority's appeal without any financial interest at stake should in principle not be ordered to pay cantonal court costs.
 
@@ -117,11 +117,8 @@
 
 ## Selected Bibliography
 
-- Ehrenzeller, BSK BGG, 3rd ed. 2018, Art. 111 BGG N. 11
 - Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N. 1461, 1480
 - Hangartner, Bundesaufsicht und richterliche Unabhängigkeit, ZBl 76/1975, pp. 6 ff.
-- Künzli, BSK BV, Art. 186 N. 18 f., 36
 - Pflüger, Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, N. 826 ff.
 - Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, N. 788, 2805 f.
 - Tschannen, Staatsrecht der Schweizerischen Eidgenossenschaft, 5th ed. 2021, N. 908 f., 985–988
-- Waldmann, BSK BV, Art. 49 N. 44

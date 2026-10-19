@@ -34,7 +34,7 @@
 
 **N. 12** **Scope of shipping competence**: Häfelin/Haller/Keller/Thurnherr (Federal State Law, 10th ed. 2020, N 1122) advocate a narrow interpretation covering only commercial shipping. Ehrenzeller (St. Gallen Commentary Cst., 4th ed. 2023, Art. 87 N 14) argues for a broader interpretation that also includes private large-scale shipping. Practice follows the narrower view.
 
-**N. 13** **Delimitation railway/tram**: Waldmann (BSK Cst., 2nd ed. 2024, Art. 87 N 8) wants to subject trams to cantonal law insofar as they operate predominantly on roads. The prevailing doctrine (Tschannen/Zimmerli/Müller, Administrative Law, 4th ed. 2014, § 63 N 12) and practice classify all guided vehicles under railway law.
+**N. 13** **Delimitation railway/tram**: Waldmann wants to subject trams to cantonal law insofar as they operate predominantly on roads. The prevailing doctrine (Tschannen/Zimmerli/Müller, Administrative Law, 4th ed. 2014, § 63 N 12) and practice classify all guided vehicles under railway law.
 
 **N. 14** **Competence for drones**: The classification of unmanned aircraft is disputed. While Dettling-Ott (Aviation Law, 2020, p. 45) advocates comprehensive federal competence, Griffel/Rausch (Environmental Law, 2nd ed. 2021, N 856) see scope for supplementary cantonal regulations for local operations. The revised AviA of 2023 claims comprehensive federal regulation.
 

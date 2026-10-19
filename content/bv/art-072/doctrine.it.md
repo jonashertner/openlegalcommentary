@@ -12,7 +12,7 @@
 
 **N. 4** L'art. 72 Cost. si colloca nel 3° Titolo su «Confederazione, Cantoni e Comuni» e disciplina primariamente la ripartizione federalista delle competenze nel diritto costituzionale religioso. La disposizione deve essere letta nel contesto della libertà religiosa (→ art. 15 Cost.) e del divieto di discriminazione (→ art. 8 cpv. 2 Cost.). Come norma di competenza non fonda diritti soggettivi, ma ripartisce le competenze regolamentari tra Confederazione e Cantoni.
 
-**N. 5** Il rapporto con l'art. 15 Cost. è centrale: mentre l'art. 15 garantisce la libertà religiosa individuale e collettiva, l'art. 72 determina le condizioni quadro di diritto organizzativo. La competenza cantonale secondo l'art. 72 cpv. 1 trova i suoi limiti nei diritti fondamentali, in particolare nella libertà religiosa (Winzeler, BSK BV, Art. 72 N. 11-14).
+**N. 5** Il rapporto con l'art. 15 Cost. è centrale: mentre l'art. 15 garantisce la libertà religiosa individuale e collettiva, l'art. 72 determina le condizioni quadro di diritto organizzativo. La competenza cantonale secondo l'art. 72 cpv. 1 trova i suoi limiti nei diritti fondamentali, in particolare nella libertà religiosa.
 
 **N. 6** Nell'assetto costituzionale, l'art. 72 Cost. forma insieme all'art. 3 Cost. (autonomia cantonale) il fondamento del diritto ecclesiastico statale svizzero. La competenza federale sussidiaria secondo il cpv. 2 completa le competenze di polizia di sicurezza della Confederazione (→ art. 57 Cost., → art. 173 cpv. 1 lett. b Cost.).
 
@@ -20,27 +20,27 @@
 
 ### 3.1 Competenza cantonale (cpv. 1)
 
-**N. 7** La formulazione «i Cantoni sono competenti» fonda una sovranità cantonale esclusiva nel diritto ecclesiastico statale. Winzeler caratterizza questo come «riserva di competenza impropria», poiché la Confederazione può comunque emanare puntualmente norme di diritto religioso (BSK BV, Art. 72 N. 10). La competenza cantonale comprende l'intera organizzazione del rapporto tra Stato e comunità religiose, incluso il riconoscimento di diritto pubblico.
+**N. 7** La formulazione «i Cantoni sono competenti» fonda una sovranità cantonale esclusiva nel diritto ecclesiastico statale. Winzeler caratterizza questo come «riserva di competenza impropria», poiché la Confederazione può comunque emanare puntualmente norme di diritto religioso. La competenza cantonale comprende l'intera organizzazione del rapporto tra Stato e comunità religiose, incluso il riconoscimento di diritto pubblico.
 
 **N. 8** Al «rapporto tra Chiesa e Stato» appartiene secondo la dottrina dominante: il riconoscimento di diritto pubblico delle comunità religiose, la regolamentazione delle tasse ecclesiastiche, l'organizzazione delle Chiese nazionali, la determinazione dei loro organi e procedure nonché la delimitazione tra giurisdizione statale ed ecclesiastica (**DTF 129 I 91** consid. 4.1).
 
-**N. 9** La formulazione storica «Chiesa» deve essere interpretata ampiamente e comprende tutte le comunità religiose. Il Tribunale federale sottolinea che lo Stato religiosamente neutrale «deve partire dal significato che ha la norma religiosa per gli interessati» (**DTF 145 I 121** consid. 4.3; Winzeler, BSK BV, Art. 72 N. 14).
+**N. 9** La formulazione storica «Chiesa» deve essere interpretata ampiamente e comprende tutte le comunità religiose. Il Tribunale federale sottolinea che lo Stato religiosamente neutrale «deve partire dal significato che ha la norma religiosa per gli interessati» (**DTF 145 I 121** consid. 4.3).
 
 ### 3.2 Salvaguardia della pace religiosa (cpv. 2)
 
 **N. 10** La «pace pubblica tra gli appartenenti alle diverse comunità religiose» è un bene giuridico protetto dal diritto di polizia. Entrambi i livelli statali possono adottare «nell'ambito delle loro competenze» misure preventive e repressive. La norma non fonda nuove competenze federali, ma chiarisce le competenze esistenti.
 
-**N. 11** Come «misure» entrano in considerazione: norme penali contro il turbamento della libertà religiosa (art. 261 CP), misure preventive di polizia, mediazione nei conflitti nonché promozione del dialogo interreligioso. Il limite è costituito dai diritti fondamentali, in particolare dalla libertà religiosa stessa (Jörg Paul Müller, cit. in Winzeler, BSK BV, Art. 72 N. 53).
+**N. 11** Come «misure» entrano in considerazione: norme penali contro il turbamento della libertà religiosa (art. 261 CP), misure preventive di polizia, mediazione nei conflitti nonché promozione del dialogo interreligioso. Il limite è costituito dai diritti fondamentali, in particolare dalla libertà religiosa stessa.
 
 ### 3.3 Divieto di minareti (cpv. 3)
 
 **N. 12** Il divieto di costruzione di minareti costituisce un divieto assoluto, senza eccezioni. Il termine «minareto» deve essere inteso come torre di una moschea dalla quale si chiama alla preghiera. Il divieto riguarda solo nuove costruzioni; i quattro minareti esistenti a Ginevra, Winterthur, Wangen bei Olten e Zurigo beneficiano della protezione dell'esistente.
 
-**N. 13** La dottrina è divisa sulla compatibilità con il diritto di rango superiore. Markus Schefer vede costellazioni «dove prevalgono gli interessi alla costruzione di un minareto» (cit. in Winzeler, BSK BV, Art. 72 N. 53). L'opinione dominante qualifica il divieto come violazione della libertà religiosa e del divieto di discriminazione (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
+**N. 13** La dottrina è divisa sulla compatibilità con il diritto di rango superiore. Markus Schefer vede costellazioni «dove prevalgono gli interessi alla costruzione di un minareto». L'opinione dominante qualifica il divieto come violazione della libertà religiosa e del divieto di discriminazione (Kley/Schaer, Gewährleistet die Religionsfreiheit einen Anspruch auf Minarett und Gebetsruf?, passim).
 
 ## 4. Conseguenze giuridiche
 
-**N. 14** Dalla competenza cantonale (cpv. 1) deriva la facoltà di disciplinare integralmente il diritto ecclesiastico statale. I Cantoni possono riconoscere le comunità religiose di diritto pubblico, ma non sono tenuti a farlo (Pahud de Mortanges, Zur Anerkennung und Gleichbehandlung von Religionsgemeinschaften, p. 185 ss.). Secondo la dottrina unanime non esiste un diritto al riconoscimento di diritto pubblico (Winzeler, BSK BV, Art. 72 N. 20).
+**N. 14** Dalla competenza cantonale (cpv. 1) deriva la facoltà di disciplinare integralmente il diritto ecclesiastico statale. I Cantoni possono riconoscere le comunità religiose di diritto pubblico, ma non sono tenuti a farlo (Pahud de Mortanges, Zur Anerkennung und Gleichbehandlung von Religionsgemeinschaften, p. 185 ss.). Secondo la dottrina unanime non esiste un diritto al riconoscimento di diritto pubblico.
 
 **N. 15** Il vincolo dei diritti fondamentali per i Cantoni rimane inalterato. Il Tribunale federale ha precisato: la regolamentazione cantonale del «nesso» tra appartenenza confessionale e appartenenza ecclesiastica è «fondamentalmente ammissibile», ma deve salvaguardare la libertà di uscita (**DTF 129 I 68** consid. 3.3). Nella concessione di contributi statali possono essere poste condizioni, purché sia salvaguardata la libertà religiosa (**DTF 145 I 121** consid. 5.2).
 
@@ -48,9 +48,9 @@
 
 ## 5. Questioni controverse
 
-**N. 17** Il vincolo dei diritti fondamentali per le comunità religiose riconosciute di diritto pubblico è controverso. La dottrina dominante afferma un pieno vincolo dei diritti fondamentali per quelle di diritto pubblico e lo nega per le comunità religiose di diritto privato. Winzeler propone una via di mezzo: «applicazione moderata dei diritti fondamentali verso quelle riconosciute di diritto pubblico ed efficacia tra privati moderatamente applicata verso le comunità religiose di diritto privato» (BSK BV, Art. 72 N. 22).
+**N. 17** Il vincolo dei diritti fondamentali per le comunità religiose riconosciute di diritto pubblico è controverso. La dottrina dominante afferma un pieno vincolo dei diritti fondamentali per quelle di diritto pubblico e lo nega per le comunità religiose di diritto privato. Winzeler propone una via di mezzo: «applicazione moderata dei diritti fondamentali verso quelle riconosciute di diritto pubblico ed efficacia tra privati moderatamente applicata verso le comunità religiose di diritto privato».
 
-**N. 18** È controversa la portata dell'autonomia organizzativa cantonale. La dottrina più antica (Burckhardt) sosteneva che il Cantone potesse «decidere quale debba essere l'organizzazione e quale la dottrina della Chiesa da esso riconosciuta» (cit. in Winzeler, BSK BV, Art. 72 N. 8). Questo è oggi unanimemente rifiutato: l'autocomprensione di una comunità religiosa deve essere valutata «autenticamente, vale a dire: auto- e non eterodeterminata» (Winzeler, BSK BV, Art. 72 N. 14).
+**N. 18** È controversa la portata dell'autonomia organizzativa cantonale. La dottrina più antica (Burckhardt) sosteneva che il Cantone potesse «decidere quale debba essere l'organizzazione e quale la dottrina della Chiesa da esso riconosciuta». Questo è oggi unanimemente rifiutato: l'autocomprensione di una comunità religiosa deve essere valutata «autenticamente, vale a dire: auto- e non eterodeterminata».
 
 **N. 19** La conformità al diritto internazionale del divieto di minareti è valutata diversamente. Mentre parti della dottrina vedono una chiara violazione degli art. 9 e 14 CEDU, altri argomentano con l'ampio margine di apprezzamento degli Stati nel settore del diritto religioso. Manca una sentenza della Corte EDU, poiché in assenza di procedure di autorizzazione edilizia non si possono esaurire i rimedi giuridici interni.
 

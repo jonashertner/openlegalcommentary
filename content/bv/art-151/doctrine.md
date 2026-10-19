@@ -2,9 +2,9 @@
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Art. 151 BV führt die unter Art. 75 BV 1848 und Art. 86 BV 1874 geltende Tradition der parlamentarischen Sessionen fort. Die Botschaft über eine neue Bundesverfassung vom 20. November 1996 (BBl 1997 I 1) betont, dass die Regelung bewusst flexibel ausgestaltet wurde, um dem Gesetzgeber Spielraum für die konkrete Ausgestaltung zu belassen. Die Verfassungsrevision verzichtete auf detaillierte Vorgaben zu Anzahl und Dauer der Sessionen, um künftigen parlamentarischen Bedürfnissen gerecht werden zu können (Thurnherr, BSK BV, Art. 151 N. 1).
+**N. 1** Art. 151 BV führt die unter Art. 75 BV 1848 und Art. 86 BV 1874 geltende Tradition der parlamentarischen Sessionen fort. Die Botschaft über eine neue Bundesverfassung vom 20. November 1996 (BBl 1997 I 1) betont, dass die Regelung bewusst flexibel ausgestaltet wurde, um dem Gesetzgeber Spielraum für die konkrete Ausgestaltung zu belassen. Die Verfassungsrevision verzichtete auf detaillierte Vorgaben zu Anzahl und Dauer der Sessionen, um künftigen parlamentarischen Bedürfnissen gerecht werden zu können.
 
-**N. 2** Das Einberufungsrecht für ausserordentliche Sessionen (Abs. 2) wurde gegenüber dem alten Verfassungsrecht modernisiert. Während Art. 23 Abs. 8 BV 1874 noch ein Einberufungsrecht für fünf Kantone vorsah, bezeichnet Aubert diese Regelung als «verfehlt symmetrische Bestimmung» (Thurnherr, BSK BV, Art. 151 N. 13). Die neue Verfassung beschränkt das Einberufungsrecht auf ein Viertel der Ratsmitglieder oder den Bundesrat, was der parlamentarischen Realität besser entspricht.
+**N. 2** Das Einberufungsrecht für ausserordentliche Sessionen (Abs. 2) wurde gegenüber dem alten Verfassungsrecht modernisiert. Während Art. 23 Abs. 8 BV 1874 noch ein Einberufungsrecht für fünf Kantone vorsah, bezeichnet Aubert diese Regelung als «verfehlt symmetrische Bestimmung». Die neue Verfassung beschränkt das Einberufungsrecht auf ein Viertel der Ratsmitglieder oder den Bundesrat, was der parlamentarischen Realität besser entspricht.
 
 ### 2. Systematische Einordnung
 
@@ -14,7 +14,7 @@
 - → Art. 163 Abs. 2 BV (Quorum für die Beschlussfähigkeit)
 - → Art. 185 Abs. 4 BV (Berichterstattung des Bundesrates)
 
-**N. 4** Das Zweikammersystem verlangt nach Biaggini «die materielle Gleichwertigkeit beider Räte, nicht die formelle Identität des Verfahrens beider Räte» (Thurnherr, BSK BV, Art. 151 N. 3). Art. 151 BV konkretisiert diesen Grundsatz, indem beide Räte zu denselben Sessionen zusammentreten, aber getrennt verhandeln.
+**N. 4** Das Zweikammersystem verlangt nach Biaggini «die materielle Gleichwertigkeit beider Räte, nicht die formelle Identität des Verfahrens beider Räte». Art. 151 BV konkretisiert diesen Grundsatz, indem beide Räte zu denselben Sessionen zusammentreten, aber getrennt verhandeln.
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
@@ -26,7 +26,7 @@
 - Einem Viertel der Mitglieder eines Rates (50 von 200 Nationalräte oder 12 von 46 Ständeräte)
 - Dem Bundesrat als Kollegium
 
-Das Verlangen muss sich auf die Einberufung der «Räte» (Plural) beziehen. Eine ausserordentliche Session nur eines Rates ist verfassungsrechtlich nicht vorgesehen (Thurnherr, BSK BV, Art. 151 N. 11-12).
+Das Verlangen muss sich auf die Einberufung der «Räte» (Plural) beziehen. Eine ausserordentliche Session nur eines Rates ist verfassungsrechtlich nicht vorgesehen.
 
 ### 4. Rechtsfolgen
 
@@ -36,7 +36,7 @@ Das Verlangen muss sich auf die Einberufung der «Räte» (Plural) beziehen. Ein
 
 ### 5. Streitstände
 
-**N. 10** **Versammlungsort**: Während die Verfassung keinen Versammlungsort nennt, sieht Art. 33d Abs. 1 lit. b GRN vor, dass die Büros «in besonderen Lagen» einen anderen Tagungsort als Bern bestimmen können. Die Doktrin ist sich einig, dass die Bundesversammlung nicht zwingend in Bern tagen muss, wobei praktische Erwägungen für den Parlamentssitz in der Bundesstadt sprechen (Thurnherr, BSK BV, Art. 151 N. 9-10).
+**N. 10** **Versammlungsort**: Während die Verfassung keinen Versammlungsort nennt, sieht Art. 33d Abs. 1 lit. b GRN vor, dass die Büros «in besonderen Lagen» einen anderen Tagungsort als Bern bestimmen können. Die Doktrin ist sich einig, dass die Bundesversammlung nicht zwingend in Bern tagen muss, wobei praktische Erwägungen für den Parlamentssitz in der Bundesstadt sprechen.
 
 **N. 11** **Verhältnis zu Art. 185 Abs. 4 BV**: Umstritten ist, ob der Bundesrat sein Einberufungsrecht nach Art. 151 Abs. 2 BV auch nutzen kann, um ausserhalb der ordentlichen Sessionen Bericht zu erstatten. Sägesser (Die Bestimmungen über die Bundesbehörden in der neuen Bundesverfassung, LeGes 1999, 11–49) bejaht dies, während Lombardi (Volksrechte und Bundesbehörden in der neuen Bundesverfassung, AJP 1999, 706–721) auf die primäre Zweckbestimmung für dringliche Gesetzgebung verweist.
 

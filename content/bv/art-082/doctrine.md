@@ -51,7 +51,7 @@
 - Lenkungsabgaben (z.B. LSVA nach Art. 85 BV)
 - Allgemeine Verkehrsabgaben
 
-**N. 13** Die Bundesversammlung kann Ausnahmen bewilligen, was sie für die Autobahnvignette (Art. 86 Abs. 2 BV) und die LSVA (Art. 85 BV) getan hat. Die Ausnahmen müssen jedoch eng begrenzt bleiben (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 82 N 18).
+**N. 13** Die Bundesversammlung kann Ausnahmen bewilligen, was sie für die Autobahnvignette (Art. 86 Abs. 2 BV) und die LSVA (Art. 85 BV) getan hat. Die Ausnahmen müssen jedoch eng begrenzt bleiben.
 
 ### 4. Rechtsfolgen
 

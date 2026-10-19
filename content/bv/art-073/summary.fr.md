@@ -1,6 +1,6 @@
 ## Aperçu
 
-L'art. 73 Cst. ancre le principe du développement durable dans la Constitution fédérale. Cette disposition oblige la Confédération et les cantons à rechercher un rapport équilibré entre l'utilisation de la nature et sa conservation. L'exploitation de la nature ne doit pas dépasser sa capacité de régénération (Griffel, BSK BV, Art. 73 N. 5).
+L'art. 73 Cst. ancre le principe du développement durable dans la Constitution fédérale. Cette disposition oblige la Confédération et les cantons à rechercher un rapport équilibré entre l'utilisation de la nature et sa conservation. L'exploitation de la nature ne doit pas dépasser sa capacité de régénération.
 
 **Concernées** sont toutes les autorités étatiques lors de décisions ayant des répercussions sur l'environnement. Les particuliers ne peuvent pas se prévaloir directement de l'art. 73 Cst., car la norme a un caractère programmatique et ne fonde pas de droits immédiats (Biaggini, BV Kommentar, Art. 73 N. 3). La mise en œuvre pratique se fait par des lois spéciales comme la loi sur la protection de l'environnement (art. 1 LPE) ou la loi sur l'aménagement du territoire (art. 1 LAT).
 
@@ -8,4 +8,4 @@ Le **principe de durabilité** agit comme principe d'interprétation pour toutes
 
 Dans la **jurisprudence**, l'art. 73 Cst. se concrétise dans différents domaines : le Tribunal fédéral a qualifié une initiative communale pour les chauffages renouvelables comme mise en œuvre du principe de durabilité (**BGE 149 I 291**). Pour le bruit des avions ou l'exploitation de gravier, les conséquences environnementales à long terme doivent être prises en considération.
 
-Le principe n'est cependant **pas justiciable** au sens de droits individuels exécutoires. Il reste controversé de savoir si les limites écologiques valent de manière absolue ou peuvent être pesées contre des avantages économiques (durabilité forte versus faible selon Griffel, BSK BV, Art. 73 N. 5 versus interprétations proches de l'économie).
+Le principe n'est cependant **pas justiciable** au sens de droits individuels exécutoires. Il reste controversé de savoir si les limites écologiques valent de manière absolue ou peuvent être pesées contre des avantages économiques.

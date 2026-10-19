@@ -4,7 +4,7 @@
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Die Einführung des Proporzsystems für Nationalratswahlen erfolgte durch Volksabstimmung vom 13. Oktober 1918, nachdem das Volk drei frühere Initiativen abgelehnt hatte (Thurnherr, BSK BV, Art. 149 N. 1). Diese historische Zäsur beendete das seit 1848 geltende Majorzwahlsystem und führte zu einer fundamentalen Neugestaltung der politischen Landschaft.
+**N. 1** Die Einführung des Proporzsystems für Nationalratswahlen erfolgte durch Volksabstimmung vom 13. Oktober 1918, nachdem das Volk drei frühere Initiativen abgelehnt hatte. Diese historische Zäsur beendete das seit 1848 geltende Majorzwahlsystem und führte zu einer fundamentalen Neugestaltung der politischen Landschaft.
 
 **N. 2** Die Verfassungsrevision von 1999 übernahm die bisherige Regelung materiell unverändert (BBl 1997 I 1, 370). Der Verfassungsgeber verzichtete bewusst auf eine Neuregelung der umstrittenen Fragen wie der massgebenden Bevölkerungszahl für die Sitzverteilung oder der Wahlkreiseinteilung.
 
@@ -22,27 +22,27 @@
 
 #### Abgeordnete des Volkes (Abs. 1)
 
-**N. 5** Die 200 Nationalräte sind "Abgeordnete des Volkes", nicht Vertreter ihrer Kantone (Thurnherr, BSK BV, Art. 149 N. 4). Diese Charakterisierung unterscheidet den Nationalrat fundamental vom Ständerat und begründet das freie Mandat ohne Instruktionsgebundenheit.
+**N. 5** Die 200 Nationalräte sind "Abgeordnete des Volkes", nicht Vertreter ihrer Kantone. Diese Charakterisierung unterscheidet den Nationalrat fundamental vom Ständerat und begründet das freie Mandat ohne Instruktionsgebundenheit.
 
 **N. 6** Die Festlegung auf 200 Sitze erfolgte 1962 (AS 1963 847). Diese Zahl bildet einen Kompromiss zwischen angemessener Repräsentation und Arbeitsfähigkeit des Parlaments.
 
 #### Proporzsystem (Abs. 2)
 
-**N. 7** Der "Grundsatz des Proporzes" verlangt eine Sitzverteilung entsprechend den Stimmenanteilen der Parteien. Das Bundesgesetz über die politischen Rechte konkretisiert dies durch das Verfahren Hagenbach-Bischoff (Thurnherr, BSK BV, Art. 149 N. 10; **BGE 129 I 185 E. 7.1.1**).
+**N. 7** Der "Grundsatz des Proporzes" verlangt eine Sitzverteilung entsprechend den Stimmenanteilen der Parteien. Das Bundesgesetz über die politischen Rechte konkretisiert dies durch das Verfahren Hagenbach-Bischoff (**BGE 129 I 185 E. 7.1.1**).
 
-**N. 8** Die "direkte Wahl" schliesst Wahlmännergremien aus und garantiert die unmittelbare Legitimation durch das Stimmvolk. Die vierjährige Legislaturperiode mit Gesamterneuerung sichert die periodische demokratische Rückbindung (Thurnherr, BSK BV, Art. 149 N. 16).
+**N. 8** Die "direkte Wahl" schliesst Wahlmännergremien aus und garantiert die unmittelbare Legitimation durch das Stimmvolk. Die vierjährige Legislaturperiode mit Gesamterneuerung sichert die periodische demokratische Rückbindung.
 
 #### Wahlkreise (Abs. 3)
 
-**N. 9** Die Festlegung der Kantone als Wahlkreise ist eine bewusste föderalistische Entscheidung (Thurnherr, BSK BV, Art. 149 N. 19). Diese historisch gewachsene Einteilung geniesst hohe Legitimität (**Urteil 1C_322/2015 vom 19.8.2015 E. 4.3**).
+**N. 9** Die Festlegung der Kantone als Wahlkreise ist eine bewusste föderalistische Entscheidung. Diese historisch gewachsene Einteilung geniesst hohe Legitimität (**Urteil 1C_322/2015 vom 19.8.2015 E. 4.3**).
 
 **N. 10** Die kantonale Wahlkreiseinteilung führt zu erheblichen Unterschieden in der Proporzgerechtigkeit. In kleinen Kantonen mit wenigen Sitzen ist die Erfolgswertgleichheit strukturell eingeschränkt (Garrone, L'élection populaire en Suisse, 182 ff.).
 
 #### Sitzverteilung (Abs. 4)
 
-**N. 11** Die "Bevölkerungszahl" als Verteilungsschlüssel ist nicht abschliessend definiert. Der Bundesrat vertritt die Position, dass die ständige Wohnbevölkerung einschliesslich Ausländer massgebend sei, da diese "Zölle und Steuern wie die Schweizer" entrichten (zit. nach Thurnherr, BSK BV, Art. 149 N. 56).
+**N. 11** Die "Bevölkerungszahl" als Verteilungsschlüssel ist nicht abschliessend definiert. Der Bundesrat vertritt die Position, dass die ständige Wohnbevölkerung einschliesslich Ausländer massgebend sei, da diese "Zölle und Steuern wie die Schweizer" entrichten.
 
-**N. 12** Die Garantie mindestens eines Sitzes pro Kanton privilegiert kleine Kantone und durchbricht das reine Proporzprinzip zugunsten föderalistischer Rücksichtnahme (Thurnherr, BSK BV, Art. 149 N. 23).
+**N. 12** Die Garantie mindestens eines Sitzes pro Kanton privilegiert kleine Kantone und durchbricht das reine Proporzprinzip zugunsten föderalistischer Rücksichtnahme.
 
 ### 4. Rechtsfolgen
 
@@ -59,8 +59,8 @@
 #### Berechnungsgrundlage der Sitzverteilung
 
 **N. 15** Umstritten ist, welche Bevölkerung für die Sitzverteilung massgebend ist:
-- **Bundesrat**: Die ständige Wohnbevölkerung einschliesslich Ausländer soll berücksichtigt werden (Thurnherr, BSK BV, Art. 149 N. 56)
-- **Thurnherr**: Diese Argumentationslinie lasse die "Inkongruenz zwischen Vertretern und Vertretenen" ausser Acht (BSK BV, Art. 149 N. 56)
+- **Bundesrat**: Die ständige Wohnbevölkerung einschliesslich Ausländer soll berücksichtigt werden
+- **Thurnherr**: Diese Argumentationslinie lasse die "Inkongruenz zwischen Vertretern und Vertretenen" ausser Acht
 - **Schumacher**: Plädiert für die Berücksichtigung nur der Stimmberechtigten (ZBl 1999, 524 f.)
 
 #### Proporzgerechtigkeit in kleinen Kantonen

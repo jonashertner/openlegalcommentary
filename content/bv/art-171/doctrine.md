@@ -10,7 +10,7 @@
 
 **N. 3** Art. 171 BV steht im 2. Abschnitt des 5. Kapitels über die «Zuständigkeiten» der Bundesversammlung. Die Norm bildet zusammen mit Art. 169 BV (Oberaufsicht) und Art. 187 BV (Mitwirkungsrechte in der Aussenpolitik) das verfassungsrechtliche Fundament der parlamentarischen Kontrolle und Steuerung der Regierungstätigkeit. Sie konkretisiert das in Art. 148 Abs. 1 BV verankerte Prinzip, wonach die Bundesversammlung «die oberste Gewalt im Bund» ausübt, vorbehältlich der Rechte von Volk und Ständen (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4. Aufl. 2023, Art. 171 N. 2).
 
-**N. 4** Die systematische Verknüpfung mit → Art. 182 BV zeigt die funktionale Gewaltenteilung: Während Art. 171 BV die parlamentarische Auftragserteilung regelt, definiert Art. 182 BV die eigenständige Leitungsfunktion des Bundesrates. Das Spannungsverhältnis zwischen parlamentarischer Steuerung und exekutiver Autonomie prägt die Auslegung beider Normen (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 171 N. 5; Tschannen, Staatsrecht, 5. Aufl. 2021, § 44 N. 15).
+**N. 4** Die systematische Verknüpfung mit → Art. 182 BV zeigt die funktionale Gewaltenteilung: Während Art. 171 BV die parlamentarische Auftragserteilung regelt, definiert Art. 182 BV die eigenständige Leitungsfunktion des Bundesrates. Das Spannungsverhältnis zwischen parlamentarischer Steuerung und exekutiver Autonomie prägt die Auslegung beider Normen (Tschannen, Staatsrecht, 5. Aufl. 2021, § 44 N. 15).
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 

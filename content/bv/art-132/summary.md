@@ -8,6 +8,6 @@ Art. 132 BV ermächtigt den Bund, zwei wichtige Steuern zu erheben: Stempelsteue
 
 Besonders ist der Kantonsanteil: 10% des Verrechnungssteuer-Ertrags fliessen automatisch an die Kantone. Diese föderalistische Komponente stärkt die kantonalen Finanzen.
 
-Beide Steuerarten stehen in der politischen Diskussion. So debattiert das Parlament seit Jahren über die Abschaffung der Emissionsabgabe, um den Finanzplatz zu stärken. Der Nationalrat stimmte 2013 zu, der Ständerat sistierte jedoch die Vorlage (Simonek, BSK BV, Art. 132 N. 15).
+Beide Steuerarten stehen in der politischen Diskussion. So debattiert das Parlament seit Jahren über die Abschaffung der Emissionsabgabe, um den Finanzplatz zu stärken. Der Nationalrat stimmte 2013 zu, der Ständerat sistierte jedoch die Vorlage.
 
 Die Kompetenzen sind ausschliesslich: Kantone dürfen keine eigenen Stempel- oder Verrechnungssteuern erheben. Der Bund muss diese Steuern aber nicht zwingend erheben - die Verfassung gibt ihm nur das Recht dazu.

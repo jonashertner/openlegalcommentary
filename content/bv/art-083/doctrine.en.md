@@ -12,13 +12,13 @@
 
 **N. 4** Art. 83 Federal Constitution is located in Title 3 on the Confederation, Cantons and Communes, in Chapter 3 on the Competences of the Confederation and belongs to Section 7 on Public Works and Transport. The provision is in close systematic connection with Art. 82 Federal Constitution (Road traffic), Art. 84 Federal Constitution (Trans-alpine transit traffic) and Art. 86 Federal Constitution (Tax on fuels).
 
-**N. 5** The road competence of the Confederation under Art. 83 Federal Constitution is an exception to the principle of cantonal road construction sovereignty. While the cantons are generally responsible for all roads, Art. 83 Federal Constitution establishes an exclusive federal competence for national roads. This systematic position underlines the character of national roads as a federal task of national importance (Kern, BSK BV, Art. 83 N. 5).
+**N. 5** The road competence of the Confederation under Art. 83 Federal Constitution is an exception to the principle of cantonal road construction sovereignty. While the cantons are generally responsible for all roads, Art. 83 Federal Constitution establishes an exclusive federal competence for national roads. This systematic position underlines the character of national roads as a federal task of national importance.
 
 **N. 6** Art. 83 Federal Constitution must also be read in the context of environmental law provisions, particularly Art. 73 Federal Constitution (Sustainability), Art. 74 Federal Constitution (Environmental protection) and Art. 78 Federal Constitution (Protection of nature and cultural heritage). Case law has repeatedly emphasised that national road projects require a comprehensive balancing of interests including all relevant constitutional goods (**BGE 119 Ib 458 E. 6a**; **BGE 135 II 238 E. 3.2**).
 
 ### 3. Elements of the Provision / Normative Content
 
-**N. 7** **Paragraph 1** establishes a joint responsibility of the Confederation and cantons for adequate road infrastructure "in all regions of the country". This guarantee obligation is of a programmatic nature and does not create subjective legal claims (Kern, BSK BV, Art. 83 N. 8). The indeterminate legal concept "adequate" gives the authorities considerable discretion (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 1285).
+**N. 7** **Paragraph 1** establishes a joint responsibility of the Confederation and cantons for adequate road infrastructure "in all regions of the country". This guarantee obligation is of a programmatic nature and does not create subjective legal claims. The indeterminate legal concept "adequate" gives the authorities considerable discretion (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 1285).
 
 **N. 8** The wording "in all regions of the country" refers to the constitutional goal of basic services and is connected with Art. 2 para. 2 Federal Constitution (balanced development) as well as Art. 35 para. 2 Federal Constitution. It obliges the Confederation and cantons to consider peripheral regions in road planning (Griffel, Verkehrsverfassungsrecht, in: Müller [ed.], Schweizerisches Bundesverwaltungsrecht, Vol. IV, 2008, p. 27).
 
@@ -28,11 +28,11 @@
 
 **N. 11** **Paragraph 2 sentence 3** establishes the full cost-bearing obligation of the Confederation. This financing responsibility flows from the exclusive substantive competence and distinguishes national roads from other infrastructure tasks with shared financing (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, N 3285).
 
-**N. 12** **Paragraph 2 sentence 4** enables the transfer of tasks to "public, private or mixed entities". This delegation possibility allows public-private partnerships and the involvement of private actors, whereby responsibility remains with the Confederation (Kern, BSK BV, Art. 83 N. 14). The transfer typically occurs through performance agreements according to Art. 49a NSA.
+**N. 12** **Paragraph 2 sentence 4** enables the transfer of tasks to "public, private or mixed entities". This delegation possibility allows public-private partnerships and the involvement of private actors, whereby responsibility remains with the Confederation. The transfer typically occurs through performance agreements according to Art. 49a NSA.
 
 ### 4. Legal Consequences
 
-**N. 13** Art. 83 para. 1 Federal Constitution does not create an enforceable duty to expand the road network. The provision creates neither subjective rights nor a claim to certain expansion standards (Kern, BSK BV, Art. 83 N. 12 f.). Rather, it is a constitutional mandate that leaves the political authorities wide discretion.
+**N. 13** Art. 83 para. 1 Federal Constitution does not create an enforceable duty to expand the road network. The provision creates neither subjective rights nor a claim to certain expansion standards. Rather, it is a constitutional mandate that leaves the political authorities wide discretion.
 
 **N. 14** Art. 83 para. 2 Federal Constitution, however, establishes an exclusive federal competence with the following legal consequences: The Confederation alone is responsible for planning, construction, operation and maintenance of national roads. The cantons no longer have their own competences, but are obliged to participate in planning (Art. 11 ff. NSA). They can also be entrusted with operational tasks (Art. 49a NSA).
 
@@ -42,11 +42,11 @@
 
 ### 5. Controversial Issues
 
-**N. 17** **Scope of the guarantee obligation under para. 1:** In legal doctrine, it is disputed to what extent Art. 83 para. 1 Federal Constitution establishes a duty to expand road infrastructure. While Kern (BSK BV, Art. 83 N. 8) emphasises that no substantive requirements can be derived from the constitutional provision, other authors hold the view that more concrete obligations may arise from the interplay with other constitutional provisions (SG Komm. BV-Lendi, Art. 83 N. 24).
+**N. 17** **Scope of the guarantee obligation under para. 1:** In legal doctrine, it is disputed to what extent Art. 83 para. 1 Federal Constitution establishes a duty to expand road infrastructure. While Kern emphasises that no substantive requirements can be derived from the constitutional provision, other authors hold the view that more concrete obligations may arise from the interplay with other constitutional provisions (SG Komm. BV-Lendi, Art. 83 N. 24).
 
-**N. 18** **Relationship to modal shift policy:** The tension between road construction competence and modal shift policy under Art. 84 Federal Constitution is controversially discussed. Kern (BSK BV, Art. 83 N. 10) states that modal shift policy is not constitutionally required outside the Alpine region, but can be based on the interplay of constitutional provisions. Other authors see more far-reaching restrictions on road construction competence in Art. 73 and 74 Federal Constitution (Sollberger, Konvergenzen und Divergenzen im Landverkehrsrecht, 2003, p. 89).
+**N. 18** **Relationship to modal shift policy:** The tension between road construction competence and modal shift policy under Art. 84 Federal Constitution is controversially discussed. Kern states that modal shift policy is not constitutionally required outside the Alpine region, but can be based on the interplay of constitutional provisions. Other authors see more far-reaching restrictions on road construction competence in Art. 73 and 74 Federal Constitution (Sollberger, Konvergenzen und Divergenzen im Landverkehrsrecht, 2003, p. 89).
 
-**N. 19** **Claim to expansion standards:** It is disputed whether Art. 83 Federal Constitution creates a claim to a certain expansion standard for national roads. Kern (BSK BV, Art. 83 N. 12) denies a claim to the highest possible expansion and safety standard. In contrast, Lendi (SG Komm. BV, Art. 83 N. 24) argues that claims for improvements could indeed exist in cases of existing capacity bottlenecks.
+**N. 19** **Claim to expansion standards:** It is disputed whether Art. 83 Federal Constitution creates a claim to a certain expansion standard for national roads. Kern denies a claim to the highest possible expansion and safety standard. In contrast, Lendi (SG Komm. BV, Art. 83 N. 24) argues that claims for improvements could indeed exist in cases of existing capacity bottlenecks.
 
 **N. 20** **Second tube at Gotthard:** The constitutional admissibility of a second road tube at Gotthard was long disputed. While critics saw a violation of Art. 84 Federal Constitution (Alpine protection), supporters argued with the guarantee obligation under Art. 83 Federal Constitution. The Federal Supreme Court has not yet definitively clarified this question. The referendum of 28 February 2016 approved the second tube for safety reasons (Kern, Zwischen Alpenschutz und freiem Verkehr, AJP 2012, 1285 ff.).
 

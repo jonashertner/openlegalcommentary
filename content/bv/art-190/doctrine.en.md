@@ -14,7 +14,7 @@
 
 ### 3. Elements of the Provision / Content of the Norm
 
-**N. 5** **Federal acts**: The term encompasses all formal acts enacted by the Federal Assembly in the ordinary legislative procedure according to Art. 163 ff. FC. According to prevailing doctrine (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 8; Waldmann/Belser/Epiney, BSK BV, Art. 190 N. 12), this includes both acts subject to referendum and urgent federal acts. However, ordinances of the Federal Council are not covered, even if they are based on a statutory delegation.
+**N. 5** **Federal acts**: The term encompasses all formal acts enacted by the Federal Assembly in the ordinary legislative procedure according to Art. 163 ff. FC. According to prevailing doctrine (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 8), this includes both acts subject to referendum and urgent federal acts. However, ordinances of the Federal Council are not covered, even if they are based on a statutory delegation.
 
 **N. 6** **International law**: The term encompasses all international legal norms binding on Switzerland, regardless of their rank in international law. This includes international treaties, customary international law and general principles of international law (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, N. 3642). Whether soft law instruments are also covered is controversially discussed (in the negative: Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4th ed. 2014, § 11 N. 24).
 
@@ -30,7 +30,7 @@
 
 ### 5. Disputed Issues
 
-**N. 11** **Scope of the application requirement**: While prevailing doctrine (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 15; Häfelin/Haller/Keller/Thurnherr, op. cit., N. 2230) understands Art. 190 FC as an absolute application requirement, a minority opinion (Schefer, in: Waldmann/Belser/Epiney, BSK BV, Art. 190 N. 28) advocates for exceptions in cases of serious fundamental rights violations. This position could not prevail in case law.
+**N. 11** **Scope of the application requirement**: While prevailing doctrine (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 15; Häfelin/Haller/Keller/Thurnherr, op. cit., N. 2230) understands Art. 190 FC as an absolute application requirement, a minority opinion advocates for exceptions in cases of serious fundamental rights violations. This position could not prevail in case law.
 
 **N. 12** **Schubert practice**: The scope of the Schubert practice is highly disputed. Kälin/Künzli (in: Ehrenzeller et al., SGK BV, Art. 190 N. 22) advocate a restrictive application only in case of clear legislative intent. Schweizer (Die Schubert-Praxis, 2018, p. 234) demands its complete abandonment in favor of unrestricted primacy of international law. Case law maintains the practice but continuously restricts it.
 

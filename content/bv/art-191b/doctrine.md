@@ -37,7 +37,7 @@
 
 #### 3.2 Interkantonale richterliche Behörden (Abs. 2)
 
-**N. 7** Abs. 2 ermächtigt die Kantone zur Errichtung gemeinsamer richterlicher Behörden. Diese Kompetenz ergänzt die allgemeine Befugnis zum Abschluss interkantonaler Verträge (→ Art. 48 BV). Die Bestimmung hat klarstellende Funktion und beseitigt verfassungsrechtliche Zweifel an der Zulässigkeit gemeinsamer Gerichtsinstanzen (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 191b N 15).
+**N. 7** Abs. 2 ermächtigt die Kantone zur Errichtung gemeinsamer richterlicher Behörden. Diese Kompetenz ergänzt die allgemeine Befugnis zum Abschluss interkantonaler Verträge (→ Art. 48 BV). Die Bestimmung hat klarstellende Funktion und beseitigt verfassungsrechtliche Zweifel an der Zulässigkeit gemeinsamer Gerichtsinstanzen.
 
 **N. 8** Voraussetzungen für interkantonale Gerichte:
 - staatsvertragliche Grundlage zwischen den beteiligten Kantonen
@@ -61,7 +61,7 @@
 
 **N. 13** **Anforderungen an die richterliche Unabhängigkeit**: Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N 3640) vertreten eine formale Betrachtungsweise, wonach die Bezeichnung als Gericht und die gesetzliche Ausgestaltung massgebend seien. Die neuere Lehre (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 10 N 25) und Rechtsprechung folgen hingegen einem funktionalen Ansatz, der auf die tatsächliche Unabhängigkeit abstellt.
 
-**N. 14** **Reichweite von Abs. 2**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 191b N 12) sehen in Abs. 2 eine konstitutive Ermächtigung. Waldmann/Belser/Epiney (BSK BV, Art. 191b N 16) betrachten die Norm hingegen als deklaratorisch, da sich die Kompetenz bereits aus Art. 48 BV ergebe. Das Bundesgericht hat diese Frage offengelassen (**BGE 135 II 338** E. 1).
+**N. 14** **Reichweite von Abs. 2**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 191b N 12) sehen in Abs. 2 eine konstitutive Ermächtigung. Waldmann/Belser/Epiney betrachten die Norm hingegen als deklaratorisch, da sich die Kompetenz bereits aus Art. 48 BV ergebe. Das Bundesgericht hat diese Frage offengelassen (**BGE 135 II 338** E. 1).
 
 ### 6. Praxishinweise
 

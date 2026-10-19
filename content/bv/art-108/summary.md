@@ -4,7 +4,7 @@ Art. 108 BV verpflichtet den Bund, den Wohnungsbau und das Wohneigentum zu förd
 
 Die Förderung erfolgt durch verschiedene Instrumente. Der Bund kann Land für den Wohnungsbau bereitstellen, den Hausbau technisch verbessern und die Wohnkosten senken. Wichtige Förderungen sind heute Darlehen und Bürgschaften für den sozialen Wohnungsbau, steuerliche Vergünstigungen beim Eigenmietwert (BGE 148 I 210 E. 4.4.6) und die Möglichkeit, Geld aus der Pensionskasse für den Hauskauf zu verwenden (Art. 30c BVG).
 
-Besondere Unterstützung erhalten Familien, ältere Menschen, Bedürftige und Menschen mit Behinderungen. Sie haben Vorrang bei den Förderungsmassnahmen (Cardinaux, BSK BV, Art. 108 N. 42-43). Der Bund kann auch Gesetze über die Erschliessung von Bauland und die Verbesserung der Baumethoden erlassen.
+Besondere Unterstützung erhalten Familien, ältere Menschen, Bedürftige und Menschen mit Behinderungen. Sie haben Vorrang bei den Förderungsmassnahmen. Der Bund kann auch Gesetze über die Erschliessung von Bauland und die Verbesserung der Baumethoden erlassen.
 
 Ein praktisches Beispiel: Eine Familie möchte ein Haus kaufen, hat aber zu wenig Eigenkapital. Sie kann einen Teil ihres Pensionskassengeldes vorzeitig beziehen. Zusätzlich bietet ihr eine gemeinnützige Wohnbaugenossenschaft eine günstige Wohnung an, die der Bund mitfinanziert hat.
 

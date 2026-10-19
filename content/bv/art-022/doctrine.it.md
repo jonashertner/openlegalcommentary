@@ -22,7 +22,7 @@
 
 **N. 7** Sul piano del diritto internazionale, l'art. 22 Cost. corrisponde all'art. 11 CEDU (libertà di riunione e di associazione) e all'art. 21 Patto ONU II. Il Tribunale federale ha ripetutamente rilevato che le garanzie dell'art. 11 CEDU e dell'art. 21 Patto ONU II non vanno oltre la garanzia del diritto costituzionale federale quanto a contenuto e portata della tutela (**BGE 132 I 256 consid. 3 i.f.; BGE 148 I 33 consid. 6.2**). Determinante è in primo luogo l'art. 22 Cost. e la relativa giurisprudenza del Tribunale federale.
 
-**N. 8** La libertà di riunione costituisce un presupposto centrale per la libera formazione della volontà democratica e per l'esercizio dei diritti politici (↔ art. 34 Cost.). Essa adempie una «funzione di valvola, di allarme, di controllo e di innovazione» nella società democratica (Hertig, BSK BV, art. 22 N. 1).
+**N. 8** La libertà di riunione costituisce un presupposto centrale per la libera formazione della volontà democratica e per l'esercizio dei diritti politici (↔ art. 34 Cost.). Essa adempie una «funzione di valvola, di allarme, di controllo e di innovazione» nella società democratica.
 
 ---
 
@@ -36,7 +36,7 @@
 
 **N. 11** L'art. 22 cpv. 2 Cost. menziona espressamente tre componenti: il **diritto di organizzare riunioni**, il **diritto di parteciparvi** e il **diritto di astenersi dalla partecipazione** (libertà negativa di riunione). Il diritto di astenersi tutela contro la costrizione a partecipare a riunioni, ad esempio mediante obbligo di coalizione. L'art. 22 Cost. protegge inoltre contro misure statali volte a ostacolare la convocazione, l'organizzazione, lo svolgimento o la strutturazione di una riunione (**BGE 127 I 164 consid. 3b**).
 
-**N. 12** Solo le riunioni **pacifiche** godono della tutela dell'art. 22 Cost. Se, nel corso di una riunione inizialmente pacifica, la violenza raggiunge un'intensità tale da far passare completamente in secondo piano la componente di formazione di opinione, la tutela del diritto fondamentale può venire meno. Piccoli gruppi che commettono atti di vandalismo ai margini non sopprimono tuttavia la tutela del diritto fondamentale per la riunione nel suo insieme (**BGE 143 I 147 consid. 3.2** con rinvio a Müller/Schefer, op. cit., pag. 585; Hertig, BSK BV, art. 22 N. 8 s.).
+**N. 12** Solo le riunioni **pacifiche** godono della tutela dell'art. 22 Cost. Se, nel corso di una riunione inizialmente pacifica, la violenza raggiunge un'intensità tale da far passare completamente in secondo piano la componente di formazione di opinione, la tutela del diritto fondamentale può venire meno. Piccoli gruppi che commettono atti di vandalismo ai margini non sopprimono tuttavia la tutela del diritto fondamentale per la riunione nel suo insieme (**BGE 143 I 147 consid. 3.2** con rinvio a Müller/Schefer, op. cit., pag. 585).
 
 #### 3.2 Dimensione di diritto a prestazioni per le manifestazioni su suolo pubblico
 

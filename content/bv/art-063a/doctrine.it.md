@@ -40,7 +40,7 @@
 
 ### Controversie
 
-**N. 11** **Portata dell'autonomia universitaria**: Ehrenzeller/Schindler/Schweizer/Vallender (Commentario sangallese Cost., 4a ed. 2023, art. 63a n. 15) sottolineano l'ampia sfera di protezione che comprende l'autoamministrazione in insegnamento, ricerca e organizzazione. Waldmann/Belser/Epiney (BSK Cost., 2a ed. 2024, art. 63a n. 22) vedono l'autonomia più ristretta e limitata primariamente ai settori accademici centrali. La giurisprudenza segue una linea intermedia (**DTF 150 I 39**).
+**N. 11** **Portata dell'autonomia universitaria**: Ehrenzeller/Schindler/Schweizer/Vallender (Commentario sangallese Cost., 4a ed. 2023, art. 63a n. 15) sottolineano l'ampia sfera di protezione che comprende l'autoamministrazione in insegnamento, ricerca e organizzazione. Waldmann/Belser/Epiney vedono l'autonomia più ristretta e limitata primariamente ai settori accademici centrali. La giurisprudenza segue una linea intermedia (**DTF 150 I 39**).
 
 **N. 12** **Scuole universitarie private**: È controversa la portata dell'obbligo di parità di trattamento. Müller/Schefer (Diritti fondamentali in Svizzera, 4a ed. 2008, p. 456) rappresentano un diritto globale alla parità di trattamento anche nel finanziamento. Häfelin/Haller/Keller/Thurnherr (Diritto costituzionale svizzero, 10a ed. 2020, n. 1285) limitano la parità di trattamento agli aspetti regolatori, ma non alle sovvenzioni.
 

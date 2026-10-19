@@ -4,7 +4,7 @@
 
 L'art. 11 Cost. protegge i fanciulli e gli adolescenti su due livelli. In primo luogo, essi hanno diritto a una protezione particolare della loro integrità. Ciò comprende la violenza fisica, psichica e sessuale. In secondo luogo, il loro sviluppo deve essere promosso. Ciò include l'istruzione, l'assistenza sanitaria preventiva e l'accudimento adeguato all'età.
 
-**Cosa disciplina la norma?** L'art. 11 cpv. 1 Cost. obbliga lo Stato a una protezione attiva dei fanciulli. Secondo **Tschentscher, BSK BV, Art. 11 N. 14** ne deriva un diritto fondamentale a un'educazione senza violenza. Il Tribunale federale applica l'art. 11 Cost. nel ricongiungimento familiare (**BGE 144 II 1**), nei procedimenti di divorzio (**BGE 142 III 481**) e nei conflitti religiosi (**BGE 135 I 79**). La norma ha un contenuto normativo autonomo ed è più di un rafforzamento dei diritti esistenti (**Tschentscher, BSK BV, Art. 11 N. 1**).
+**Cosa disciplina la norma?** L'art. 11 cpv. 1 Cost. obbliga lo Stato a una protezione attiva dei fanciulli. Secondo **Tschentscher, BSK BV, Art. 11 N. 14** ne deriva un diritto fondamentale a un'educazione senza violenza. Il Tribunale federale applica l'art. 11 Cost. nel ricongiungimento familiare (**BGE 144 II 1**), nei procedimenti di divorzio (**BGE 142 III 481**) e nei conflitti religiosi (**BGE 135 I 79**). La norma ha un contenuto normativo autonomo ed è più di un rafforzamento dei diritti esistenti.
 
 **Chi è interessato?** I fanciulli e gli adolescenti fino a 18 anni. Ma anche i genitori, le autorità e le scuole devono rispettare questi diritti. Il Tribunale federale ha sentito nei procedimenti i fanciulli a partire dagli 11-12 anni (**BGE 133 III 146**).
 

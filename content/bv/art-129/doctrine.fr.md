@@ -4,7 +4,7 @@
 
 ### 1. Genèse
 
-**ch. 1** Les racines de l'harmonisation fiscale remontent aux années 1970. Après plusieurs tentatives échouées, l'article d'harmonisation 42quinquies ancCst fut accepté lors de la votation populaire du 12 juin 1977 (FF 1976 I 1329; FF 1977 III 845). La genèse fut marquée par la tension entre le besoin d'unification juridique pour favoriser un espace économique unifié d'une part et l'attachement des cantons à leur autonomie fiscale d'autre part (Simonek, BSK BV, Art. 129 ch. 1–3).
+**ch. 1** Les racines de l'harmonisation fiscale remontent aux années 1970. Après plusieurs tentatives échouées, l'article d'harmonisation 42quinquies ancCst fut accepté lors de la votation populaire du 12 juin 1977 (FF 1976 I 1329; FF 1977 III 845). La genèse fut marquée par la tension entre le besoin d'unification juridique pour favoriser un espace économique unifié d'une part et l'attachement des cantons à leur autonomie fiscale d'autre part.
 
 **ch. 2** Le constituant choisit délibérément une compétence d'harmonisation limitée. Le message du 10 mars 1976 souligna que seule une harmonisation formelle était visée, et non matérielle: « L'harmonisation ne doit porter que sur l'assujettissement, l'objet et la computation dans le temps des impôts, le droit de procédure et le droit pénal fiscal » (FF 1976 I 1361). Cette décision de principe fut maintenue lors du transfert à l'art. 129 nouvCst.
 
@@ -26,11 +26,11 @@
 
 #### a) Compétence de principe (al. 1)
 
-**ch. 7** La notion de « principes » fait l'objet d'interprétations controversées. « L'antinomie des objectifs constitutionnels » décrite par Reich (Simonek, BSK BV, Art. 129 ch. 12) marque l'interprétation : d'un côté, seule une législation-cadre devrait intervenir, de l'autre, une harmonisation efficace est visée.
+**ch. 7** La notion de « principes » fait l'objet d'interprétations controversées. « L'antinomie des objectifs constitutionnels » décrite par Reich marque l'interprétation: d'un côté, seule une législation-cadre devrait intervenir, de l'autre, une harmonisation efficace est visée.
 
 **ch. 8** Le Tribunal fédéral tend vers une interprétation extensive. Dans l'**ATF 130 II 202**, il a expliqué que l'étendue des possibilités de concrétisation cantonales devait être déterminée séparément pour chaque disposition. La pratique montre que la Confédération épuise largement sa compétence (Vallender, Mittelbare Rechtsetzung, 435).
 
-**ch. 9** Les « impôts directs » comprennent selon la définition du Conseil fédéral les impôts sur le revenu et la fortune des personnes physiques ainsi que sur le bénéfice et le capital des personnes morales (Simonek, BSK BV, Art. 129 ch. 23). Ne sont notamment pas visés les impôts sur les successions et donations ainsi que les impôts sur les gains immobiliers, bien que ces derniers aient été partiellement repris dans la LHID (art. 12 LHID).
+**ch. 9** Les « impôts directs » comprennent selon la définition du Conseil fédéral les impôts sur le revenu et la fortune des personnes physiques ainsi que sur le bénéfice et le capital des personnes morales. Ne sont notamment pas visés les impôts sur les successions et donations ainsi que les impôts sur les gains immobiliers, bien que ces derniers aient été partiellement repris dans la LHID (art. 12 LHID).
 
 **ch. 10** L'obligation de tenir compte des « efforts d'harmonisation des cantons » se manifeste principalement dans la composition des commissions d'experts. Matériellement, cette exigence a toutefois peu déployé d'effets (Bieri, StR 2009, 92).
 
@@ -74,7 +74,7 @@
 
 ### 5. Points controversés
 
-**ch. 20** Le point de controverse central concerne la marge de manœuvre des cantons dans le domaine harmonisé. Une conception souligne la nature de « principe » de la compétence fédérale et en déduit que des espaces de liberté doivent subsister aux cantons même en dehors des domaines explicitement exceptés (Simonek, BSK BV, Art. 129 ch. 11). La position opposée argumente avec l'objectif d'un espace économique unifié et plaide pour une interprétation restrictive des marges cantonales (Simonek, BSK BV, Art. 129 ch. 11).
+**ch. 20** Le point de controverse central concerne la marge de manœuvre des cantons dans le domaine harmonisé. Une conception souligne la nature de « principe » de la compétence fédérale et en déduit que des espaces de liberté doivent subsister aux cantons même en dehors des domaines explicitement exceptés. La position opposée argumente avec l'objectif d'un espace économique unifié et plaide pour une interprétation restrictive des marges cantonales.
 
 **ch. 21** La portée de l'autonomie tarifaire est également controversée. Tandis qu'Oberson (Droit fiscal suisse, § 1 ch. 45) défend une liberté cantonale complète dans la conception tarifaire, d'autres mettent en garde contre les limites constitutionnelles. Le Tribunal fédéral a précisé dans l'**ATF 133 I 206** que l'autonomie tarifaire est également soumise au principe d'égalité.
 

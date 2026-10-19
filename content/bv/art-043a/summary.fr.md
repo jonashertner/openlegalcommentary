@@ -4,7 +4,7 @@ L'art. 43a Cst. fixe les principes selon lesquels les tâches étatiques sont r�
 
 ## Qui est concerné ?
 
-Tous les niveaux étatiques — Confédération, cantons et communes — doivent respecter ces principes lors de la répartition et de l'accomplissement des tâches. Selon la doctrine unanime, cette disposition ne présente toutefois aucune justiciabilité directe (absence d'exigibilité devant les tribunaux), comme le souligne Biaggini (BSK BV, art. 43a n. 5). Les citoyennes et citoyens ne peuvent pas se prévaloir directement de l'art. 43a Cst.
+Tous les niveaux étatiques — Confédération, cantons et communes — doivent respecter ces principes lors de la répartition et de l'accomplissement des tâches. Selon la doctrine unanime, cette disposition ne présente toutefois aucune justiciabilité directe (absence d'exigibilité devant les tribunaux), comme le souligne Biaggini. Les citoyennes et citoyens ne peuvent pas se prévaloir directement de l'art. 43a Cst.
 
 ## Que règle la norme ?
 
@@ -12,7 +12,7 @@ Tous les niveaux étatiques — Confédération, cantons et communes — doivent
 
 **Équivalence fiscale (al. 2-3) :** Celui qui profite de prestations étatiques doit également en supporter les coûts. En cas d'utilité intercantonal, les coûts doivent être répartis en conséquence. Exemple : un hôpital situé près d'une frontière cantonale traite des patients provenant de cantons voisins — ceux-ci doivent participer aux coûts.
 
-**Service de base (al. 4) :** La Confédération et les cantons garantissent ensemble un service de base approprié, notamment pour la poste, le téléphone ou les transports publics. Cela ne crée toutefois pas de droits concrets, comme l'a souligné le Conseil fédéral (Biaggini, BSK BV, art. 43a n. 36).
+**Service de base (al. 4) :** La Confédération et les cantons garantissent ensemble un service de base approprié, notamment pour la poste, le téléphone ou les transports publics. Cela ne crée toutefois pas de droits concrets, comme l'a souligné le Conseil fédéral.
 
 **Économicité (al. 5) :** Tous les niveaux étatiques doivent accomplir leurs tâches de manière économe et appropriée. Le Tribunal fédéral a confirmé dans l'arrêt **BGE 147 II 227** que cela comprend également la mise en valeur de créances étatiques.
 

@@ -10,7 +10,7 @@
 
 **N. 3** L'art. 81 Cost. si trova nel 3° Titolo su «Confederazione, Cantoni e Comuni» sotto il 3° Capitolo «Compiti della Confederazione e dei Cantoni». La norma funge da clausola generale sussidiaria rispetto alle competenze infrastrutturali più specifiche negli art. 82-93 Cost. (trasporti ed energia). È espressione del federalismo cooperativo: la Confederazione può erigere, gestire opere da sola o sostenere la loro erezione da parte di terzi.
 
-**N. 4** Nel rapporto con le competenze cantonali vale il principio di sussidiarietà (→ art. 5a Cost.). Solo le opere che sono «nell'interesse di tutto il Paese o di gran parte di esso» rientrano nella competenza federale. La delimitazione dalle opere puramente cantonali o regionali avviene secondo criteri materiali: importanza per l'insieme del Paese, necessità di coordinamento, portata finanziaria (Kern, BSK BV, art. 81 N. 7).
+**N. 4** Nel rapporto con le competenze cantonali vale il principio di sussidiarietà (→ art. 5a Cost.). Solo le opere che sono «nell'interesse di tutto il Paese o di gran parte di esso» rientrano nella competenza federale. La delimitazione dalle opere puramente cantonali o regionali avviene secondo criteri materiali: importanza per l'insieme del Paese, necessità di coordinamento, portata finanziaria.
 
 ### 3. Elementi costitutivi della fattispecie
 
@@ -18,13 +18,13 @@
 
 **N. 6** **Nell'interesse di tutto il Paese o di gran parte di esso**: Questa formulazione delimita la competenza federale dalle opere cantonali e comunali. Sono comprese le opere con importanza sovraregionale, che riguardano più Cantoni o sono di importanza strategica nazionale. La prassi mostra un'interpretazione generosa per le infrastrutture di trasporti, energia e comunicazioni (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10ª ed. 2020, N 1089).
 
-**N. 7** **Erigere, gestire o sostenere**: La Confederazione ha tre opzioni d'azione: (1) Erezione e gestione proprie tramite l'amministrazione federale o istituti federali; (2) Gestione di opere esistenti; (3) Sostegno finanziario o organizzativo di enti privati o cantonali. La scelta della forma d'azione è a discrezione politica della Confederazione (Kern, BSK BV, art. 81 N. 11).
+**N. 7** **Erigere, gestire o sostenere**: La Confederazione ha tre opzioni d'azione: (1) Erezione e gestione proprie tramite l'amministrazione federale o istituti federali; (2) Gestione di opere esistenti; (3) Sostegno finanziario o organizzativo di enti privati o cantonali. La scelta della forma d'azione è a discrezione politica della Confederazione.
 
 ### 4. Conseguenze giuridiche
 
 **N. 8** L'art. 81 Cost. conferisce alla Confederazione una **competenza facoltativa** («può»). Non fonda né un obbligo di agire né diritti soggettivi di privati all'erezione di determinate opere. La disposizione autorizza la Confederazione a legiferare sulle rispettive opere (→ art. 164 cpv. 1 Cost.) e ad approvare i crediti necessari (→ art. 167 Cost.).
 
-**N. 9** Nell'erezione di opere pubbliche spetta alla Confederazione il **diritto di espropriazione** (→ art. 26 Cost.). L'esercizio si regge sulla Legge federale sull'espropriazione (LEspr). Presupposto è sempre che l'opera concreta sia effettivamente nell'interesse pubblico (Kern, BSK BV, art. 81 N. 16).
+**N. 9** Nell'erezione di opere pubbliche spetta alla Confederazione il **diritto di espropriazione** (→ art. 26 Cost.). L'esercizio si regge sulla Legge federale sull'espropriazione (LEspr). Presupposto è sempre che l'opera concreta sia effettivamente nell'interesse pubblico.
 
 **N. 10** Il finanziamento avviene con mezzi federali generali o tramite finanziamenti speciali. Nel sostegno di opere cantonali o private entrano in considerazione sussidi, prestiti o fideiussioni. Le modalità devono essere regolate nella legislazione speciale (Ruch, Umwelt – Boden – Raum, SBVR VI, 2010, pag. 234 segg.).
 

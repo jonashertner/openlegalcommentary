@@ -8,23 +8,23 @@
 
 ### 2. Classification systématique
 
-**N. 3** L'art. 94 Cst. se trouve au début de la 3e section (« Économie ») du 3e titre de la Constitution fédérale et constitue la norme fondamentale de la constitution économique suisse (Uhlmann, BSK BV, art. 94 n. 1). La disposition a une double nature : elle est à la fois norme constitutionnelle objective et fondement du droit fondamental de la liberté économique ancré à l'art. 27 Cst.
+**N. 3** L'art. 94 Cst. se trouve au début de la 3e section (« Économie ») du 3e titre de la Constitution fédérale et constitue la norme fondamentale de la constitution économique suisse. La disposition a une double nature: elle est à la fois norme constitutionnelle objective et fondement du droit fondamental de la liberté économique ancré à l'art. 27 Cst.
 
 **N. 4** Les liens systématiques sont multiples : → l'art. 27 Cst. concrétise la dimension de droit individuel, → les art. 95–107 Cst. contiennent des dispositions économiques sectorielles, → l'art. 36 Cst. règle les conditions des atteintes aux droits fondamentaux, ↔ l'art. 5 Cst. (principe de l'État de droit) et l'art. 3 Cst. (fédéralisme) forment le cadre de droit constitutionnel.
 
 ### 3. Éléments constitutifs / Contenu normatif
 
-**N. 5** **Principe de la liberté économique (al. 1)** : La norme postule un ordre économique fondamentalement libre de l'État. Le Tribunal fédéral souligne cependant que l'activité économique étatique est admissible en raison de la pratique constitutionnelle vécue et ne constitue pas une atteinte aux droits fondamentaux, tant que l'offre privée n'est pas carrément évincée (Uhlmann, BSK BV, art. 94 n. 11–12 ; **ATF 138 I 378 c. 5.3**).
+**N. 5** **Principe de la liberté économique (al. 1)**: La norme postule un ordre économique fondamentalement libre de l'État. Le Tribunal fédéral souligne cependant que l'activité économique étatique est admissible en raison de la pratique constitutionnelle vécue et ne constitue pas une atteinte aux droits fondamentaux, tant que l'offre privée n'est pas carrément évincée (**ATF 138 I 378 c. 5.3**).
 
-**N. 6** **Concurrence** : Le principe comprend notamment le principe de concurrence (Uhlmann, BSK BV, art. 94 n. 5–9). Les mesures étatiques doivent être conçues de manière neutre du point de vue de la concurrence. Cela signifie notamment l'interdiction du subventionnement croisé systématique entre les domaines de monopole et de concurrence (**ATF 143 II 425**).
+**N. 6** **Concurrence**: Le principe comprend notamment le principe de concurrence. Les mesures étatiques doivent être conçues de manière neutre du point de vue de la concurrence. Cela signifie notamment l'interdiction du subventionnement croisé systématique entre les domaines de monopole et de concurrence (**ATF 143 II 425**).
 
-**N. 7** **Marché intérieur** : L'art. 94 Cst. garantit le marché intérieur suisse (Uhlmann, BSK BV, art. 94 n. 10). Les entraves cantonales à l'accès au marché ne sont admissibles que dans les conditions de l'art. 95 al. 2 Cst.
+**N. 7** **Marché intérieur**: L'art. 94 Cst. garantit le marché intérieur suisse. Les entraves cantonales à l'accès au marché ne sont admissibles que dans les conditions de l'art. 95 al. 2 Cst.
 
-**N. 8** **Prospérité et sécurité économique (al. 2)** : Cette disposition oblige la Confédération et les cantons à collaborer avec l'économie privée. Elle fonde un objectif de l'État sans justiciabilité immédiate (Uhlmann, BSK BV, art. 94 n. 14–17 ; Vallender, SG Komm. BV, art. 94 n. 8).
+**N. 8** **Prospérité et sécurité économique (al. 2)**: Cette disposition oblige la Confédération et les cantons à collaborer avec l'économie privée. Elle fonde un objectif de l'État sans justiciabilité immédiate (Vallender, SG Komm. BV, art. 94 n. 8).
 
-**N. 9** **Conditions-cadres favorables (al. 3)** : L'État doit créer des conditions optimales pour l'activité de l'économie privée. Cela comprend la sécurité du droit, des infrastructures fonctionnelles et la stabilité macroéconomique (Uhlmann, BSK BV, art. 94 n. 18–20 ; Rhinow/Schefer/Uebersax, Verfassungsrecht, § 11 n. 34).
+**N. 9** **Conditions-cadres favorables (al. 3)**: L'État doit créer des conditions optimales pour l'activité de l'économie privée. Cela comprend la sécurité du droit, des infrastructures fonctionnelles et la stabilité macroéconomique (Rhinow/Schefer/Uebersax, Verfassungsrecht, § 11 n. 34).
 
-**N. 10** **Réserve constitutionnelle (al. 4)** : Les dérogations au principe de la liberté économique ne sont admissibles que si elles sont prévues dans la Constitution fédérale (p. ex. art. 98 Cst. pour la Banque nationale, art. 103 Cst. pour la politique structurelle) ou justifiées par des droits régaliens cantonaux (Uhlmann, BSK BV, art. 94 n. 21–26).
+**N. 10** **Réserve constitutionnelle (al. 4)**: Les dérogations au principe de la liberté économique ne sont admissibles que si elles sont prévues dans la Constitution fédérale (p. ex. art. 98 Cst. pour la Banque nationale, art. 103 Cst. pour la politique structurelle) ou justifiées par des droits régaliens cantonaux.
 
 ### 4. Conséquences juridiques
 
@@ -38,7 +38,7 @@
 
 **N. 14** **Activité économique étatique** : L'admissibilité de l'activité économique étatique est controversée. Le Tribunal fédéral s'appuie sur la « pratique constitutionnelle vécue » (**ATF 138 I 378**). Une partie de la doctrine critique cette approche comme méthodologiquement problématique, car l'interprétation constitutionnelle ne devrait pas être déterminée par l'usage factuel (critique : J. Reich, Grundsatz der Wirtschaftsfreiheit, p. 234 ; approbateur : Richli, Wirtschaftsverfassungsrecht, § 4 n. 89).
 
-**N. 15** **Principe de subsidiarité** : Il est controversé de savoir si un principe de subsidiarité justiciable découle de l'art. 94 Cst. Le Tribunal fédéral y voit un modèle directeur de politique économique sans force obligatoire juridique (Uhlmann, BSK BV, art. 94 n. 11). La doctrine est partagée : Biaggini (Komm. BV, art. 94 n. 5) reconnaît une certaine force normative, tandis que Rhinow (Wirtschafts- und Eigentumsverfassung, p. 156) rejette cela.
+**N. 15** **Principe de subsidiarité**: Il est controversé de savoir si un principe de subsidiarité justiciable découle de l'art. 94 Cst. Le Tribunal fédéral y voit un modèle directeur de politique économique sans force obligatoire juridique. La doctrine est partagée: Biaggini (Komm. BV, art. 94 n. 5) reconnaît une certaine force normative, tandis que Rhinow (Wirtschafts- und Eigentumsverfassung, p. 156) rejette cela.
 
 **N. 16** **Rapport à l'art. 27 Cst.** : Le rapport entre la norme objective (art. 94 Cst.) et le droit fondamental (art. 27 Cst.) est controversé. La doctrine dominante voit l'art. 94 Cst. comme norme de principe objective avec un champ de protection plus étendu (Vallender/Hettich/Lehne, Wirtschaftsfreiheit, p. 89), tandis que d'autres supposent une large congruence (Müller/Schefer, Grundrechte, p. 1023).
 

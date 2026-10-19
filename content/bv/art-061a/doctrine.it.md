@@ -2,15 +2,15 @@
 
 ### 1. Storia dell'origine
 
-**N. 1** L'art. 61a Cost. rappresenta il cuore della «Costituzione dell'educazione» accettata nel 2006 dal popolo e dai Cantoni e segna un cambiamento paradigmatico nella politica educativa svizzera. La disposizione è nata come reazione alla crescente frammentazione del sistema educativo e alle sfide della mobilità educativa in un sistema federalista (Hänni, BSK BV, Art. 61a N. 15–19).
+**N. 1** L'art. 61a Cost. rappresenta il cuore della «Costituzione dell'educazione» accettata nel 2006 dal popolo e dai Cantoni e segna un cambiamento paradigmatico nella politica educativa svizzera. La disposizione è nata come reazione alla crescente frammentazione del sistema educativo e alle sfide della mobilità educativa in un sistema federalista.
 
-**N. 2** L'origine parlamentare della Costituzione dell'educazione è notevole, poiché non risale a un progetto del Consiglio federale, ma è emersa dall'iniziativa parlamentare Zbinden (97.419). Dopo il fallimento di precedenti tentativi di riforma educativa globale negli anni '70 (FF 1972 I 375 segg.), la CEC-CN ha elaborato tra il 2003 e il 2005 una nuova concezione che non indebolisce il federalismo, ma lo rafforza attraverso il coordinamento (Hänni, BSK BV, Art. 61a N. 8–9).
+**N. 2** L'origine parlamentare della Costituzione dell'educazione è notevole, poiché non risale a un progetto del Consiglio federale, ma è emersa dall'iniziativa parlamentare Zbinden (97.419). Dopo il fallimento di precedenti tentativi di riforma educativa globale negli anni '70 (FF 1972 I 375 segg.), la CEC-CN ha elaborato tra il 2003 e il 2005 una nuova concezione che non indebolisce il federalismo, ma lo rafforza attraverso il coordinamento.
 
-**N. 3** Il Consiglio federale si pose criticamente nei confronti del progetto e propose di sopprimere la parola «congiuntamente» nel cpv. 2, poiché non sarebbe giuridicamente univoca (Hänni, BSK BV, Art. 61a N. 24). Il Parlamento mantenne tuttavia la formulazione per sottolineare la responsabilità partenariale di Confederazione e Cantoni.
+**N. 3** Il Consiglio federale si pose criticamente nei confronti del progetto e propose di sopprimere la parola «congiuntamente» nel cpv. 2, poiché non sarebbe giuridicamente univoca. Il Parlamento mantenne tuttavia la formulazione per sottolineare la responsabilità partenariale di Confederazione e Cantoni.
 
 ### 2. Classificazione sistematica
 
-**N. 4** L'art. 61a Cost. costituisce l'apertura programmatica della 3ª sezione su «Educazione, ricerca e cultura» ed è sistematicamente strettamente collegato alle successive disposizioni speciali: → art. 62 Cost. (sistema scolastico), → art. 63 Cost. (formazione professionale), → art. 63a Cost. (scuole universitarie), → art. 64a Cost. (formazione continua). La norma funge da quadro generale che comprende tutti i livelli educativi (Hänni, BSK BV, Art. 61a N. 10–12).
+**N. 4** L'art. 61a Cost. costituisce l'apertura programmatica della 3ª sezione su «Educazione, ricerca e cultura» ed è sistematicamente strettamente collegato alle successive disposizioni speciali: → art. 62 Cost. (sistema scolastico), → art. 63 Cost. (formazione professionale), → art. 63a Cost. (scuole universitarie), → art. 64a Cost. (formazione continua). La norma funge da quadro generale che comprende tutti i livelli educativi.
 
 **N. 5** L'obbligo di coordinamento secondo l'art. 61a cpv. 2 Cost. va oltre l'obbligo generale di cooperazione dell'→ art. 44 Cost. Mentre in dottrina è controverso se esista un «obbligo che supera considerevolmente la misura dell'art. 44» (negativo: Biaggini, Komm. BV, Art. 61a N. 25; positivo: CEC-CN), la prassi dimostra che l'art. 61a Cost. legittima strumenti di coordinamento specifici come il Concordato HarmoS.
 
@@ -18,15 +18,15 @@
 
 ### 3. Elementi costitutivi / Contenuto normativo
 
-**N. 7** **Spazio formativo svizzero (cpv. 1)**: Il concetto comprende tutti i livelli educativi dalla scuola dell'infanzia all'educazione quaternaria nonché l'educazione formale, non formale e informale. Lo «spazio» non è da intendere geograficamente, ma funzionalmente come sistema coerente con passaggi permeabili (Hänni, BSK BV, Art. 61a N. 20–21).
+**N. 7** **Spazio formativo svizzero (cpv. 1)**: Il concetto comprende tutti i livelli educativi dalla scuola dell'infanzia all'educazione quaternaria nonché l'educazione formale, non formale e informale. Lo «spazio» non è da intendere geograficamente, ma funzionalmente come sistema coerente con passaggi permeabili.
 
-**N. 8** **Qualità**: L'assicurazione della qualità si riferisce tanto ai contenuti formativi quanto alle strutture e ai processi. Comprende standard minimi, meccanismi di valutazione e miglioramento continuo. Il concetto è dinamico e si orienta agli standard internazionali (Hänni, BSK BV, Art. 61a N. 22).
+**N. 8** **Qualità**: L'assicurazione della qualità si riferisce tanto ai contenuti formativi quanto alle strutture e ai processi. Comprende standard minimi, meccanismi di valutazione e miglioramento continuo. Il concetto è dinamico e si orienta agli standard internazionali.
 
-**N. 9** **Permeabilità**: Centrale è la mobilità verticale (tra livelli educativi) e orizzontale (tra percorsi formativi). La permeabilità richiede riconoscimento reciproco dei diplomi, strutture compatibili e collegabilità dei percorsi formativi (Hänni, BSK BV, Art. 61a N. 23–24).
+**N. 9** **Permeabilità**: Centrale è la mobilità verticale (tra livelli educativi) e orizzontale (tra percorsi formativi). La permeabilità richiede riconoscimento reciproco dei diplomi, strutture compatibili e collegabilità dei percorsi formativi.
 
-**N. 10** **Coordinamento e collaborazione (cpv. 2)**: La cura «congiunta» fonda un obbligo costituzionale di cooperazione che va oltre la mera consultazione. Confederazione e Cantoni devono coordinare le loro misure e non possono agire in modo isolato (Hänni, BSK BV, Art. 61a N. 25–26).
+**N. 10** **Coordinamento e collaborazione (cpv. 2)**: La cura «congiunta» fonda un obbligo costituzionale di cooperazione che va oltre la mera consultazione. Confederazione e Cantoni devono coordinare le loro misure e non possono agire in modo isolato.
 
-**N. 11** **Riconoscimento di pari valore (cpv. 3)**: La norma postula l'equivalenza dei percorsi formativi di formazione generale e orientati professionalmente. Ciò vieta una valutazione gerarchica e richiede accessi paritari a percorsi formativi superiori (Hänni, BSK BV, Art. 61a N. 27).
+**N. 11** **Riconoscimento di pari valore (cpv. 3)**: La norma postula l'equivalenza dei percorsi formativi di formazione generale e orientati professionalmente. Ciò vieta una valutazione gerarchica e richiede accessi paritari a percorsi formativi superiori.
 
 ### 4. Conseguenze giuridiche
 

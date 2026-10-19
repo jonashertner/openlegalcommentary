@@ -22,7 +22,7 @@
 
 **N. 7** Auf völkerrechtlicher Ebene entspricht Art. 22 BV Art. 11 EMRK (Versammlungs- und Vereinigungsfreiheit) und Art. 21 UNO-Pakt II. Das Bundesgericht hat wiederholt festgestellt, dass die Garantien des Art. 11 EMRK und des Art. 21 UNO-Pakt II bezüglich Inhalt und Umfang des Schutzes nicht über die bundesverfassungsrechtliche Gewährleistung hinausgehen (**BGE 132 I 256 E. 3 i.f.; BGE 148 I 33 E. 6.2**). Massgebend ist primär Art. 22 BV und die dazugehörige bundesgerichtliche Rechtsprechung.
 
-**N. 8** Die Versammlungsfreiheit bildet eine zentrale Voraussetzung für die freie demokratische Willensbildung und die Ausübung der politischen Rechte (↔ Art. 34 BV). Sie erfüllt eine «Ventil-, Warn-, Kontroll- und Innovationsfunktion» in der demokratischen Gesellschaft (Hertig, BSK BV, Art. 22 N. 1).
+**N. 8** Die Versammlungsfreiheit bildet eine zentrale Voraussetzung für die freie demokratische Willensbildung und die Ausübung der politischen Rechte (↔ Art. 34 BV). Sie erfüllt eine «Ventil-, Warn-, Kontroll- und Innovationsfunktion» in der demokratischen Gesellschaft.
 
 ---
 
@@ -36,7 +36,7 @@
 
 **N. 11** Art. 22 Abs. 2 BV nennt ausdrücklich drei Teilgehalte: das **Recht, Versammlungen zu organisieren**, das **Recht zur Teilnahme** und das **Recht zum Fernbleiben** (negative Versammlungsfreiheit). Das Recht zum Fernbleiben schützt vor Zwang zur Teilnahme an Versammlungen, etwa durch Koalitionszwang. Daneben schützt Art. 22 BV auch vor staatlichen Massnahmen gegen Einberufung, Organisation, Durchführung oder Gestaltung einer Versammlung (**BGE 127 I 164 E. 3b**).
 
-**N. 12** Nur **friedliche** Versammlungen geniessen den Schutz des Art. 22 BV. Entwickelt sich bei einer anfänglich friedlichen Versammlung Gewalt in einem Ausmass, dass die meinungsbildende Komponente völlig in den Hintergrund tritt, kann der Grundrechtsschutz entfallen. Kleinere Gruppen, die am Rand randalieren, beseitigen den Grundrechtsschutz für die Versammlung als Ganzes jedoch nicht (**BGE 143 I 147 E. 3.2** mit Verweis auf Müller/Schefer, a.a.O., S. 585; Hertig, BSK BV, Art. 22 N. 8 f.).
+**N. 12** Nur **friedliche** Versammlungen geniessen den Schutz des Art. 22 BV. Entwickelt sich bei einer anfänglich friedlichen Versammlung Gewalt in einem Ausmass, dass die meinungsbildende Komponente völlig in den Hintergrund tritt, kann der Grundrechtsschutz entfallen. Kleinere Gruppen, die am Rand randalieren, beseitigen den Grundrechtsschutz für die Versammlung als Ganzes jedoch nicht (**BGE 143 I 147 E. 3.2** mit Verweis auf Müller/Schefer, a.a.O., S. 585).
 
 #### 3.2 Leistungsrechtliche Dimension bei Kundgebungen auf öffentlichem Grund
 

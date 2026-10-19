@@ -10,7 +10,7 @@
 
 ## 2. Collocazione sistematica
 
-**N. 4** L'art. 140 Cost. forma insieme agli art. 138 (iniziativa popolare per una revisione totale), 139 (iniziativa popolare per una revisione parziale) e 141 (referendum facoltativo) il sistema centrale dei diritti di partecipazione democratico-diretti a livello federale. La disposizione disciplina in modo conclusivo i casi in cui deve essere svolto un referendum obbligatorio (Epiney/Diezig, BSK BV, Art. 140 N. 10).
+**N. 4** L'art. 140 Cost. forma insieme agli art. 138 (iniziativa popolare per una revisione totale), 139 (iniziativa popolare per una revisione parziale) e 141 (referendum facoltativo) il sistema centrale dei diritti di partecipazione democratico-diretti a livello federale. La disposizione disciplina in modo conclusivo i casi in cui deve essere svolto un referendum obbligatorio.
 
 **N. 5** Il referendum obbligatorio secondo l'art. 140 cpv. 1 Cost. si distingue dal referendum facoltativo (art. 141 Cost.) per tre caratteristiche: avviene automaticamente senza raccolta di firme, richiede l'approvazione di popolo e Cantoni (doppia maggioranza) e riguarda affari costituzionali particolarmente importanti.
 
@@ -22,11 +22,11 @@
 
 **N. 7** **Modifiche costituzionali (lett. a)**: Ogni modifica formale della Costituzione federale sottostà al referendum obbligatorio, indipendentemente dalla sua importanza materiale. Ciò comprende anche adeguamenti puramente redazionali o l'abrogazione di disposizioni obsolete (→ art. 195 Cost.).
 
-**N. 8** **Organizzazioni per la sicurezza collettiva (lett. b)**: Secondo la definizione del Consiglio federale si tratta di organizzazioni universali o regionali che si pongono l'obiettivo di opporre resistenza organizzata a uno Stato aggressore che viola la pace (Consiglio federale, cit. in Epiney/Diezig, BSK BV, Art. 140 N. 17). Un esempio classico sarebbero le Nazioni Unite con il loro sistema del Capitolo VII.
+**N. 8** **Organizzazioni per la sicurezza collettiva (lett. b)**: Secondo la definizione del Consiglio federale si tratta di organizzazioni universali o regionali che si pongono l'obiettivo di opporre resistenza organizzata a uno Stato aggressore che viola la pace. Un esempio classico sarebbero le Nazioni Unite con il loro sistema del Capitolo VII.
 
-**N. 9** **Comunità sopranazionali (lett. b)**: Il Consiglio federale le definisce come organizzazioni con organi indipendenti che possono emanare con decisioni a maggioranza atti immediatamente vincolanti per le persone singole e dispongono di competenze materiali relativamente ampie (Consiglio federale, cit. in Epiney/Diezig, BSK BV, Art. 140 N. 18). L'UE soddisfa indiscutibilmente questi criteri.
+**N. 9** **Comunità sopranazionali (lett. b)**: Il Consiglio federale le definisce come organizzazioni con organi indipendenti che possono emanare con decisioni a maggioranza atti immediatamente vincolanti per le persone singole e dispongono di competenze materiali relativamente ampie. L'UE soddisfa indiscutibilmente questi criteri.
 
-**N. 10** È controversa la classificazione dello SEE: Epiney/Diezig (BSK BV, Art. 140 N. 19) così come Hangartner/Kley affermano la sopranazionalità a causa dello sviluppo dinamico del diritto e delle competenze dell'Autorità di sorveglianza AELS. Häfelin/Haller/Keller, Tschannen e Biaggini la negano invece, poiché il diritto SEE non è direttamente applicabile e il recepimento di nuovi atti giuridici necessita dell'approvazione delle parti contraenti.
+**N. 10** È controversa la classificazione dello SEE: Epiney/Diezig così come Hangartner/Kley affermano la sopranazionalità a causa dello sviluppo dinamico del diritto e delle competenze dell'Autorità di sorveglianza AELS. Häfelin/Haller/Keller, Tschannen e Biaggini la negano invece, poiché il diritto SEE non è direttamente applicabile e il recepimento di nuovi atti giuridici necessita dell'approvazione delle parti contraenti.
 
 **N. 11** **Leggi federali urgenti senza base costituzionale (lett. c)**: Questa costellazione rara riguarda solo leggi federali che cumulativamente: (1) sono state dichiarate urgenti dall'Assemblea federale (→ art. 165 Cost.), (2) non hanno base costituzionale e (3) la cui durata di validità supera un anno. Devono essere sottoposte a votazione entro un anno dall'approvazione.
 
@@ -50,9 +50,9 @@
 
 ## 5. Questioni controverse
 
-**N. 19** **Carattere conclusivo**: La dottrina dominante (Epiney/Diezig, BSK BV, Art. 140 N. 10; Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, § 1383) sostiene che l'art. 140 Cost. disciplina in modo conclusivo i casi del referendum obbligatorio. Una minoranza propugna un referendum statale obbligatorio straordinario per trattati di diritto internazionale particolarmente importanti che non rientrano nella lett. b (Schulte, Direkte Demokratie und Aussenpolitik, 287 seg.).
+**N. 19** **Carattere conclusivo**: La dottrina dominante (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, § 1383) sostiene che l'art. 140 Cost. disciplina in modo conclusivo i casi del referendum obbligatorio. Una minoranza propugna un referendum statale obbligatorio straordinario per trattati di diritto internazionale particolarmente importanti che non rientrano nella lett. b (Schulte, Direkte Demokratie und Aussenpolitik, 287 seg.).
 
-**N. 20** **Sopranazionalità dello SEE**: La controversia sulla qualificazione giuridica dello SEE divide la dottrina. I fautori della sopranazionalità (Epiney/Diezig, BSK BV, Art. 140 N. 19; Hangartner/Kley, Demokratische Rechte, § 831) si riferiscono allo sviluppo dinamico del diritto e alle competenze quasi-giurisdizionali dell'Autorità di sorveglianza AELS. L'opinione contraria (Häfelin/Haller/Keller, § 1932; Tschannen, Staatsrecht, § 15 N. 28; Biaggini, BV-Kommentar, Art. 140 N. 4) sottolinea che il diritto SEE necessita di attuazione e non sviluppa effetto immediato.
+**N. 20** **Sopranazionalità dello SEE**: La controversia sulla qualificazione giuridica dello SEE divide la dottrina. I fautori della sopranazionalità (Hangartner/Kley, Demokratische Rechte, § 831) si riferiscono allo sviluppo dinamico del diritto e alle competenze quasi-giurisdizionali dell'Autorità di sorveglianza AELS. L'opinione contraria (Häfelin/Haller/Keller, § 1932; Tschannen, Staatsrecht, § 15 N. 28; Biaggini, BV-Kommentar, Art. 140 N. 4) sottolinea che il diritto SEE necessita di attuazione e non sviluppa effetto immediato.
 
 **N. 21** **Concetto di sicurezza collettiva**: Villiger (FS Schindler, 805) sostiene un'interpretazione estensiva che comprende anche alleanze di sicurezza regionali con un cerchio limitato di membri. L'opinione maggioritaria (Thürer, SZIER 2005, 42; Ehrenzeller, FS Steinberger, 718) limita il concetto a sistemi universali o quasi-universali come l'ONU.
 

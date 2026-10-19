@@ -26,7 +26,7 @@
 
 #### Actes soumis au référendum
 
-**N. 9** **Lois fédérales (let. a)** : Toutes les lois fédérales formelles sont automatiquement soumises au référendum facultatif. Epiney/Diezig (BSK BV, art. 141 n. 16) soulignent que le principe de l'unité de la matière n'y joue qu'un rôle subordonné — contrairement à l'initiative populaire.
+**N. 9** **Lois fédérales (let. a)**: Toutes les lois fédérales formelles sont automatiquement soumises au référendum facultatif. Epiney/Diezig soulignent que le principe de l'unité de la matière n'y joue qu'un rôle subordonné — contrairement à l'initiative populaire.
 
 **N. 10** **Lois fédérales déclarées urgentes (let. b)** : Seules les lois fédérales urgentes d'une validité de plus d'une année sont soumises au référendum. La déclaration d'urgence selon l'art. 165 Cst. soustrait d'abord la loi au référendum, mais la soumet a posteriori à la votation populaire en cas de durée plus longue.
 
@@ -44,13 +44,13 @@
 
 #### Dénonciation de traités de droit international
 
-**N. 15** Un point controversé central concerne l'obligation référendaire lors de la dénonciation de traités de droit international. Epiney/Diezig (BSK BV, art. 141 n. 65) argumentent que des raisons importantes plaident pour une application analogique du référendum aux dénonciations : « La légitimation démocratique est aussi importante lors de la dénonciation qu'à la conclusion. »
+**N. 15** Un point controversé central concerne l'obligation référendaire lors de la dénonciation de traités de droit international. Epiney/Diezig argumentent que des raisons importantes plaident pour une application analogique du référendum aux dénonciations: « La légitimation démocratique est aussi importante lors de la dénonciation qu'à la conclusion. »
 
 **N. 16** L'opinion contraire, soutenue par une partie de l'ancienne doctrine, voit dans l'art. 141 Cst. une énumération exhaustive. Diggelmann (ZBl 2014, 291, 315) met en garde contre une interprétation extensive sans fondement constitutionnel clair.
 
 #### Accords standard
 
-**N. 17** La pratique parlementaire consistant à exempter certains traités de droit international du référendum en tant qu'« accords standard » est très controversée. Epiney/Diezig (BSK BV, art. 141 n. 83) critiquent cette pratique comme « n'étant pas au-dessus de tout soupçon ». Diggelmann (ZBl 2014, 291, 320) la qualifie même de potentiellement inconstitutionnelle.
+**N. 17** La pratique parlementaire consistant à exempter certains traités de droit international du référendum en tant qu'« accords standard » est très controversée. Epiney/Diezig critiquent cette pratique comme « n'étant pas au-dessus de tout soupçon ». Diggelmann (ZBl 2014, 291, 320) la qualifie même de potentiellement inconstitutionnelle.
 
 **N. 18** Les partisans de la pratique des accords standard argumentent avec la praticabilité et la faible importance politique de traités répétitifs. Mannhart Gomes (Diss. Berne 2007, 145) y voit une concrétisation admissible des notions juridiques indéterminées dans l'art. 141 al. 1 let. d Cst.
 

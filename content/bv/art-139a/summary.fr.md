@@ -4,7 +4,7 @@ L'art. 139a Cst. règle l'examen des initiatives populaires fédérales quant à
 
 **Que règle la norme ?**
 
-L'Assemblée fédérale doit examiner, pour chaque initiative constitutionnelle valable, si celle-ci est compatible avec les obligations de droit international de la Suisse. Cela comprend tous les types de droit international — des traités de droit international au droit international coutumier (Waldmann, BSK BV, Art. 139a N. 4). Si une incompatibilité est constatée, le Conseil fédéral et l'Assemblée fédérale doivent informer les citoyens ayant le droit de vote sur la « signification et la portée » d'une acceptation de l'initiative.
+L'Assemblée fédérale doit examiner, pour chaque initiative constitutionnelle valable, si celle-ci est compatible avec les obligations de droit international de la Suisse. Cela comprend tous les types de droit international — des traités de droit international au droit international coutumier. Si une incompatibilité est constatée, le Conseil fédéral et l'Assemblée fédérale doivent informer les citoyens ayant le droit de vote sur la « signification et la portée » d'une acceptation de l'initiative.
 
 **Qui est concerné ?**
 
@@ -12,7 +12,7 @@ Les comités d'initiative dont les demandes sont examinées sont directement con
 
 **Quelles sont les conséquences juridiques ?**
 
-Contrairement à l'art. 139, al. 3, Cst., une violation du droit international constatée n'entraîne pas la nullité de l'initiative. La conséquence juridique principale consiste en une obligation d'information renforcée : les documents de votation doivent informer de manière objective et compréhensible sur les conséquences d'une acceptation (Epiney, BSK BV, Art. 139a N. 8). L'initiative reste valable et est soumise au vote.
+Contrairement à l'art. 139, al. 3, Cst., une violation du droit international constatée n'entraîne pas la nullité de l'initiative. La conséquence juridique principale consiste en une obligation d'information renforcée: les documents de votation doivent informer de manière objective et compréhensible sur les conséquences d'une acceptation. L'initiative reste valable et est soumise au vote.
 
 **Exemple concret**
 

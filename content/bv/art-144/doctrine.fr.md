@@ -4,7 +4,7 @@
 
 ### 1. Genèse
 
-**N. 1** Les dispositions d'incompatibilité ont une longue tradition de droit constitutionnel. Déjà la Constitution fédérale de 1848 connaissait aux art. 66, 70, 85 et 97 des règles correspondantes. La CF 1874 les a poursuivies aux art. 77, 81, 97 et 108 (Schaub, BSK BV, Art. 144 N. 1). Lors de la révision totale de 1999, les différentes dispositions ont été regroupées systématiquement à l'art. 144 Cst. Le Message relatif à une nouvelle constitution fédérale du 20 novembre 1996 (FF 1997 I 1 ss, 377 s.) stipulait que la disposition reprend sans modification les incompatibilités existantes et vise leur systématisation.
+**N. 1** Les dispositions d'incompatibilité ont une longue tradition de droit constitutionnel. Déjà la Constitution fédérale de 1848 connaissait aux art. 66, 70, 85 et 97 des règles correspondantes. La CF 1874 les a poursuivies aux art. 77, 81, 97 et 108. Lors de la révision totale de 1999, les différentes dispositions ont été regroupées systématiquement à l'art. 144 Cst. Le Message relatif à une nouvelle constitution fédérale du 20 novembre 1996 (FF 1997 I 1 ss, 377 s.) stipulait que la disposition reprend sans modification les incompatibilités existantes et vise leur systématisation.
 
 ### 2. Classement systématique
 
@@ -24,7 +24,7 @@
 
 **N. 5** Le terme « simultanément » doit être interprété strictement. Déjà l'élection à une autre autorité déclenche l'incompatibilité, et non pas seulement l'exercice de la fonction. En cas de doubles élections, la personne concernée doit choisir immédiatement pour une fonction (Beeler, Personelle Gewaltentrennung, p. 85 ss).
 
-**N. 6** La chancelière ou le chancelier fédéral ne sont pas explicitement visés. La doctrine dominante postule cependant une application analogique de l'art. 144 al. 1 Cst. à cette position en tant que chef d'état-major du Conseil fédéral (Schaub, BSK BV, Art. 144 N. 10).
+**N. 6** La chancelière ou le chancelier fédéral ne sont pas explicitement visés. La doctrine dominante postule cependant une application analogique de l'art. 144 al. 1 Cst. à cette position en tant que chef d'état-major du Conseil fédéral.
 
 #### 3.2 Restriction d'autres activités (al. 2)
 
@@ -34,9 +34,9 @@
 
 **N. 8** Le terme « autre charge » comprend toute fonction publique permanente ou temporaire à caractère souverain. Ne sont pas visées les charges purement honorifiques sans pouvoirs de décision (Buffat, Les Incompatibilités, p. 122 ss).
 
-**N. 9** « Activité lucrative » signifie toute activité visant un gain, indépendamment de la hauteur de la rémunération. La doctrine dominante veut cependant accorder aux conseillers fédéraux des activités accessoires contre une rémunération faible et irrégulière, pour autant qu'elles ne portent pas atteinte à l'exercice de la fonction (Schaub, BSK BV, Art. 144 N. 14).
+**N. 9** « Activité lucrative » signifie toute activité visant un gain, indépendamment de la hauteur de la rémunération. La doctrine dominante veut cependant accorder aux conseillers fédéraux des activités accessoires contre une rémunération faible et irrégulière, pour autant qu'elles ne portent pas atteinte à l'exercice de la fonction.
 
-**N. 10** Pour les juges fédéraux s'applique la même règle de base, l'art. 6 al. 2 LTF autorisant explicitement les activités scientifiques et artistiques ainsi que les mandats d'enseignement. La doctrine dominante postule que des activités accessoires rémunérées peuvent être autorisées, pour autant qu'elles ne portent pas atteinte à l'exercice intègre de la fonction (Schaub, BSK BV, Art. 144 N. 14).
+**N. 10** Pour les juges fédéraux s'applique la même règle de base, l'art. 6 al. 2 LTF autorisant explicitement les activités scientifiques et artistiques ainsi que les mandats d'enseignement. La doctrine dominante postule que des activités accessoires rémunérées peuvent être autorisées, pour autant qu'elles ne portent pas atteinte à l'exercice intègre de la fonction.
 
 #### 3.3 Incompatibilités légales (al. 3)
 
@@ -57,9 +57,9 @@
 
 **N. 15** La licéité de la participation de membres de l'exécutif aux conseils d'administration d'entreprises d'économie mixte est controversée. Poledna/Schweizer (ZBl 2014, 347 ss) y voient une violation de l'art. 144 al. 2 Cst., tandis que Buob (Aktiengesellschaften, p. 187 ss) l'estime licite avec une base légale claire.
 
-**N. 16** La portée du terme « activité lucrative » est aussi discutée de manière controversée. Tandis qu'une interprétation restrictive saisit toute activité rémunérée, la doctrine dominante plaide pour une réduction téléologique pour les activités mineures (Schaub, BSK BV, Art. 144 N. 14; Baumann et al., LeGes 2008/2, 217 ss).
+**N. 16** La portée du terme « activité lucrative » est aussi discutée de manière controversée. Tandis qu'une interprétation restrictive saisit toute activité rémunérée, la doctrine dominante plaide pour une réduction téléologique pour les activités mineures (Baumann et al., LeGes 2008/2, 217 ss).
 
-**N. 17** L'application analogique au chancelier fédéral n'est pas non plus incontestée. Tandis que la doctrine dominante l'affirme (Schaub, BSK BV, Art. 144 N. 10), les critiques renvoient au libellé clair de la Constitution et à la non-mention consciente (Gassmann, Gesetzgebungsbulletin 1/1999, XIII ss).
+**N. 17** L'application analogique au chancelier fédéral n'est pas non plus incontestée. Tandis que la doctrine dominante l'affirme, les critiques renvoient au libellé clair de la Constitution et à la non-mention consciente (Gassmann, Gesetzgebungsbulletin 1/1999, XIII ss).
 
 ### 6. Indications pratiques
 

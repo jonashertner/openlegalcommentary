@@ -4,11 +4,11 @@
 
 **N. 1** L'art. 68 Cst. trouve son origine dans l'art. 27quinquies ancCst., qui fut intégré dans la Constitution en 1970 en réaction au refus d'un article constitutionnel fédéral sur le sport en 1957 (FF 1968 I 758 ss). La disposition d'alors se limitait à l'enseignement de la gymnastique et du sport ainsi qu'à une disposition facultative pour l'encouragement du sport. La version actuelle de l'art. 68 Cst. a considérablement élargi les compétences fédérales et oblige expressément la Confédération à encourager le sport (FF 1997 I 284).
 
-**N. 2** La révision constitutionnelle de 1999 a transformé l'ancienne disposition facultative en obligation d'encouragement (« La Confédération encourage ») et a étendu les compétences à l'exploitation d'une école de sport ainsi qu'à la possibilité de déclarer obligatoire l'enseignement du sport dans les écoles. Ce renforcement des compétences fédérales reflète l'importance croissante du sport pour la santé, l'intégration et la formation (Hänni, BSK BV, art. 68 N. 1).
+**N. 2** La révision constitutionnelle de 1999 a transformé l'ancienne disposition facultative en obligation d'encouragement (« La Confédération encourage ») et a étendu les compétences à l'exploitation d'une école de sport ainsi qu'à la possibilité de déclarer obligatoire l'enseignement du sport dans les écoles. Ce renforcement des compétences fédérales reflète l'importance croissante du sport pour la santé, l'intégration et la formation.
 
 ### 2. Classification systématique
 
-**N. 3** L'art. 68 Cst. se situe dans la section « Formation, recherche et culture » et présente des liens étroits avec les articles sur la formation, en particulier avec → l'art. 62 Cst. (instruction publique) et → l'art. 67 Cst. (encouragement des enfants et des jeunes). La norme fonde une compétence parallèle de la Confédération et des cantons dans le domaine du sport, la compétence cantonale demeurant en principe (Biaggini, cité d'après Hänni, BSK BV, art. 68 N. 3).
+**N. 3** L'art. 68 Cst. se situe dans la section « Formation, recherche et culture » et présente des liens étroits avec les articles sur la formation, en particulier avec → l'art. 62 Cst. (instruction publique) et → l'art. 67 Cst. (encouragement des enfants et des jeunes). La norme fonde une compétence parallèle de la Confédération et des cantons dans le domaine du sport, la compétence cantonale demeurant en principe.
 
 **N. 4** La disposition doit être comprise dans le contexte de la promotion de la santé (→ art. 118 Cst.) et de l'encouragement de la jeunesse. L'enseignement du sport dans les écoles touche la souveraineté cantonale en matière scolaire selon l'art. 62 al. 1 Cst., ce qui conduit à des questions de délimitation des compétences (voir N. 12).
 
@@ -16,17 +16,17 @@
 
 #### Notion de sport et obligation d'encouragement (al. 1)
 
-**N. 5** La notion de sport englobe selon Zen-Ruffinen toutes les formes d'activité physique visant à l'amélioration de la condition physique et psychique, au développement des relations sociales ou à l'obtention de résultats de compétition (Zen-Ruffinen, cité d'après Hänni, BSK BV, art. 68 N. 3). Cette définition large inclut également le sport populaire, de loisir et de haut niveau.
+**N. 5** La notion de sport englobe selon Zen-Ruffinen toutes les formes d'activité physique visant à l'amélioration de la condition physique et psychique, au développement des relations sociales ou à l'obtention de résultats de compétition. Cette définition large inclut également le sport populaire, de loisir et de haut niveau.
 
-**N. 6** La formulation « La Confédération encourage » ne fonde pas seulement une faculté, mais selon Biaggini une obligation d'encouragement actif du sport (Biaggini, cité d'après Hänni, BSK BV, art. 68 N. 3). La mention particulière de la formation souligne l'importance de la formation des entraîneurs et de la qualification pédagogique sportive. La Confédération remplit cette obligation principalement par la loi sur l'encouragement du sport (LESp) et le programme Jeunesse+Sport.
+**N. 6** La formulation « La Confédération encourage » ne fonde pas seulement une faculté, mais selon Biaggini une obligation d'encouragement actif du sport. La mention particulière de la formation souligne l'importance de la formation des entraîneurs et de la qualification pédagogique sportive. La Confédération remplit cette obligation principalement par la loi sur l'encouragement du sport (LESp) et le programme Jeunesse+Sport.
 
 #### École fédérale de sport (al. 2)
 
-**N. 7** La Haute école fédérale de sport de Macolin (HEFSM) est la seule école fédérale directement ancrée dans la Constitution. Elle sert à la formation et au perfectionnement des enseignants de sport, entraîneurs et autres spécialistes du sport (Hänni, BSK BV, art. 68 N. 7). L'ancrage constitutionnel souligne l'importance d'une formation sportive de haute qualité au niveau national.
+**N. 7** La Haute école fédérale de sport de Macolin (HEFSM) est la seule école fédérale directement ancrée dans la Constitution. Elle sert à la formation et au perfectionnement des enseignants de sport, entraîneurs et autres spécialistes du sport. L'ancrage constitutionnel souligne l'importance d'une formation sportive de haute qualité au niveau national.
 
 #### Sport des jeunes et enseignement obligatoire du sport (al. 3)
 
-**N. 8** L'al. 3 accorde à la Confédération deux compétences distinctes : une compétence générale de réglementation pour le sport des jeunes et la faculté spécifique de déclarer obligatoire l'enseignement du sport dans les écoles (Hänni, BSK BV, art. 68 N. 8). Ces compétences ont été mises en œuvre par l'art. 12 LESp, qui prescrit trois leçons de sport hebdomadaires dans l'école obligatoire.
+**N. 8** L'al. 3 accorde à la Confédération deux compétences distinctes: une compétence générale de réglementation pour le sport des jeunes et la faculté spécifique de déclarer obligatoire l'enseignement du sport dans les écoles. Ces compétences ont été mises en œuvre par l'art. 12 LESp, qui prescrit trois leçons de sport hebdomadaires dans l'école obligatoire.
 
 ### 4. Effets juridiques
 
@@ -38,9 +38,9 @@
 
 ### 5. Points controversés
 
-**N. 12** La portée de la compétence fédérale de réglementation du sport scolaire est contestée. Biaggini soutient dans un avis de droit du 28 février 2009 que la nouvelle constitution sur la formation n'a pas modifié la compétence constitutionnelle de la Confédération concernant l'enseignement du sport (Biaggini, cité d'après Hänni, BSK BV, art. 68 N. 6). En revanche, Ehrenzeller argumente que l'art. 62 al. 1 Cst. fonde une souveraineté cantonale claire en matière scolaire, raison pour laquelle la Confédération n'aurait aucune compétence pour intervenir dans les plans d'études (Ehrenzeller, cité d'après Hänni, BSK BV, art. 68 N. 61).
+**N. 12** La portée de la compétence fédérale de réglementation du sport scolaire est contestée. Biaggini soutient dans un avis de droit du 28 février 2009 que la nouvelle constitution sur la formation n'a pas modifié la compétence constitutionnelle de la Confédération concernant l'enseignement du sport. En revanche, Ehrenzeller argumente que l'art. 62 al. 1 Cst. fonde une souveraineté cantonale claire en matière scolaire, raison pour laquelle la Confédération n'aurait aucune compétence pour intervenir dans les plans d'études.
 
-**N. 13** La question de savoir si la Confédération dispose d'une « compétence de réglementation » générale dans le domaine du sport fait l'objet d'une discussion controversée. Zen-Ruffinen nie une telle compétence générale et voit dans l'art. 68 Cst. principalement une faculté d'encouragement, mais non de réglementation (Zen-Ruffinen, cité d'après Hänni, BSK BV, art. 68 N. 74). Cette conception est soutenue par **l'arrêt 2C_383/2010** consid. 2.4 selon lequel l'art. 68 Cst. « ne prévoit pas de compétence de réglementation à proprement parler ».
+**N. 13** La question de savoir si la Confédération dispose d'une « compétence de réglementation » générale dans le domaine du sport fait l'objet d'une discussion controversée. Zen-Ruffinen nie une telle compétence générale et voit dans l'art. 68 Cst. principalement une faculté d'encouragement, mais non de réglementation. Cette conception est soutenue par **l'arrêt 2C_383/2010** consid. 2.4 selon lequel l'art. 68 Cst. « ne prévoit pas de compétence de réglementation à proprement parler ».
 
 ### 6. Indications pratiques
 

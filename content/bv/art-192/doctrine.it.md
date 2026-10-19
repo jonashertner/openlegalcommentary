@@ -34,7 +34,7 @@ La rivedibilità permanente rappresenta una garanzia procedurale. Essa garantisc
 
 **N. 5.1** *Limiti della revisione costituzionale*
 
-È controverso se, oltre ai limiti espressamente menzionati, esistano altri limiti materiali non scritti della revisione costituzionale. Auer sostiene la posizione che anche oltre gli art. 193 e 194 Cost. esistano certi limiti fondati sovrapositivamente (Auer, in: St. Galler Kommentar BV, art. 193 n. 16). Per contro, Epiney sottolinea che la Costituzione stessa stabilisce in modo esaustivo i limiti della sua revisione e che limitazioni ulteriori contrasterebbero con il principio della sovranità popolare (Epiney, in: BSK BV, 2ª ed. 2024, art. 139 n. 28).
+È controverso se, oltre ai limiti espressamente menzionati, esistano altri limiti materiali non scritti della revisione costituzionale. Auer sostiene la posizione che anche oltre gli art. 193 e 194 Cost. esistano certi limiti fondati sovrapositivamente (Auer, in: St. Galler Kommentar BV, art. 193 n. 16). Per contro, Epiney sottolinea che la Costituzione stessa stabilisce in modo esaustivo i limiti della sua revisione e che limitazioni ulteriori contrasterebbero con il principio della sovranità popolare.
 
 **N. 5.2** *Rapporto tra revisione totale e parziale*
 

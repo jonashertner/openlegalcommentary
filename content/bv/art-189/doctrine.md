@@ -26,7 +26,7 @@
 
 **N. 7** Der Begriff "Streitigkeiten" umfasst alle Rechtsstreitigkeiten, unabhängig davon, ob es sich um zivil-, straf- oder öffentlich-rechtliche Angelegenheiten handelt. Erfasst sind sowohl individuelle Rechtsverletzungen als auch abstrakte Normenkontrollverfahren (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4. Aufl. 2023, Art. 189 N. 3).
 
-**N. 8** Lit. a (Bundesrecht): Umfasst die gesamte Rechtsordnung des Bundes, einschliesslich Verfassung, Gesetze, Verordnungen und allgemeinverbindliche Bundesbeschlüsse. Die praktisch wichtigste Zuständigkeit des Bundesgerichts (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 189 N. 5).
+**N. 8** Lit. a (Bundesrecht): Umfasst die gesamte Rechtsordnung des Bundes, einschliesslich Verfassung, Gesetze, Verordnungen und allgemeinverbindliche Bundesbeschlüsse. Die praktisch wichtigste Zuständigkeit des Bundesgerichts.
 
 **N. 9** Lit. b (Völkerrecht): Erfasst alle für die Schweiz verbindlichen völkerrechtlichen Normen, insbesondere Staatsverträge, Völkergewohnheitsrecht und allgemeine Rechtsgrundsätze. **BGE 145 IV 364** E. 3.3 betont die Bedeutung dieser Zuständigkeit für die Überprüfung der Vereinbarkeit schweizerischen Rechts mit internationalen Verpflichtungen.
 
@@ -64,9 +64,9 @@
 
 **N. 21** **Umfang der Immunitätsklausel**: Umstritten ist die Reichweite von Art. 189 Abs. 4 BV. Während Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, N. 3502) eine restriktive Auslegung befürworten, plädieren Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar, Art. 189 N. 24) für eine weite Auslegung. Die Rechtsprechung tendiert zu einer extensiven Interpretation (**BGE 147 I 194** E. 2.2).
 
-**N. 22** **Verhältnis zum Völkerrecht**: Kontrovers diskutiert wird das Verhältnis zwischen Art. 189 Abs. 1 lit. b BV und Art. 190 BV bei Konflikten zwischen Völkerrecht und Bundesrecht. Waldmann/Belser/Epiney (BSK BV, Art. 189 N. 8) vertreten die Auffassung, dass Art. 189 BV nur die Zuständigkeit, nicht aber den Prüfungsmassstab regelt. Müller/Schefer (Grundrechte in der Schweiz, 4. Aufl. 2008, S. 982) sehen dagegen in Art. 189 Abs. 1 lit. b BV eine eigenständige Prüfungskompetenz.
+**N. 22** **Verhältnis zum Völkerrecht**: Kontrovers diskutiert wird das Verhältnis zwischen Art. 189 Abs. 1 lit. b BV und Art. 190 BV bei Konflikten zwischen Völkerrecht und Bundesrecht. Waldmann/Belser/Epiney vertreten die Auffassung, dass Art. 189 BV nur die Zuständigkeit, nicht aber den Prüfungsmassstab regelt. Müller/Schefer (Grundrechte in der Schweiz, 4. Aufl. 2008, S. 982) sehen dagegen in Art. 189 Abs. 1 lit. b BV eine eigenständige Prüfungskompetenz.
 
-**N. 23** **Justiziabilität politischer Rechte**: Die Tragweite von Art. 189 Abs. 1 lit. f BV ist umstritten. Tschannen (in: Ehrenzeller et al., St. Galler Kommentar, Art. 189 N. 16) befürwortet eine umfassende Justiziabilität. Kley (in: Waldmann et al., BSK BV, Art. 189 N. 14) plädiert für Zurückhaltung bei politischen Ermessensfragen.
+**N. 23** **Justiziabilität politischer Rechte**: Die Tragweite von Art. 189 Abs. 1 lit. f BV ist umstritten. Tschannen (in: Ehrenzeller et al., St. Galler Kommentar, Art. 189 N. 16) befürwortet eine umfassende Justiziabilität. Kley plädiert für Zurückhaltung bei politischen Ermessensfragen.
 
 ### 6. Praxishinweise
 

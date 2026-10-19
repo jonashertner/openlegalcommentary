@@ -6,7 +6,7 @@
 
 **N. 1** Art. 170 BV stellt eine verfassungsrechtliche Neuerung dar, die keine Entsprechung in der aBV von 1874 aufweist. Die ausdrückliche Verankerung der Wirksamkeitsprüfung fand erst spät Eingang in den Revisionsprozess zur neuen Bundesverfassung. Die Verfassungsentwürfe von 1995/96 enthielten noch keine entsprechende Bestimmung.
 
-**N. 2** Die Expertenkommission beider SPK schlug zunächst die Schaffung eines unabhängigen Organs für die Evaluation staatlicher Massnahmen vor. Die SPK verknüpften in ihrem Zusatzbericht von 1997 die Wirksamkeitsprüfung stattdessen mit der Oberaufsichtskompetenz der Bundesversammlung. In den parlamentarischen Beratungen blieb diese Konzeption bestehen, wobei die Wirksamkeitsprüfung als eigenständige Bestimmung aus dem heutigen Art. 169 BV herausgelöst wurde (BSK-Lienhard/Mächler/Marti Locher, Art. 170 BV, N. 1 ff.; SGK-Uhlmann/Bussmann, Art. 170 BV, N. 1 ff.).
+**N. 2** Die Expertenkommission beider SPK schlug zunächst die Schaffung eines unabhängigen Organs für die Evaluation staatlicher Massnahmen vor. Die SPK verknüpften in ihrem Zusatzbericht von 1997 die Wirksamkeitsprüfung stattdessen mit der Oberaufsichtskompetenz der Bundesversammlung. In den parlamentarischen Beratungen blieb diese Konzeption bestehen, wobei die Wirksamkeitsprüfung als eigenständige Bestimmung aus dem heutigen Art. 169 BV herausgelöst wurde (SGK-Uhlmann/Bussmann, Art. 170 BV, N. 1 ff.).
 
 **N. 3** Gemäss den Materialien zielte die Verfassungsbestimmung darauf ab, die zunehmende Komplexität öffentlicher Aufgaben durch systematische Überprüfung zu bewältigen. Der Berichterstatter Schmid führte in der Nationalratsdebatte aus: «Die Frage nach der Effektivität, Wirksamkeit und Effizienz staatlicher Massnahmen gewinnt vor dem Hintergrund der zunehmenden Komplexität der öffentlichen Aufgaben immer mehr an Bedeutung. Haben die von den Behörden getroffenen Massnahmen überhaupt Wirkung? Zeigen sie die beabsichtigte Wirkung? Stehen sie in einem sinnvollen Kosten-Nutzen Verhältnis?» (AB N SD 1998, 91).
 
@@ -36,7 +36,7 @@
 
 **N. 11** Gegenstand der Wirksamkeitsprüfungen sind alle «Massnahmen des Bundes», unabhängig von der Rechtsform. Erfasst sind Massnahmen aller drei Gewalten: Legislative, Exekutive und Judikative. Der Begriff umfasst sowohl generell-abstrakte als auch individuell-konkrete Massnahmen.
 
-**N. 12** Die Umsetzung und der Vollzug von Bundesmassnahmen durch Kantone und Private fallen ebenfalls unter den Geltungsbereich, soweit sie als Vollzug von Bundesrecht qualifiziert werden können (BSK-Lienhard/Mächler/Marti Locher, Art. 170 BV, N. 17; SGK-Uhlmann/Bussmann, Art. 170 BV, N. 18).
+**N. 12** Die Umsetzung und der Vollzug von Bundesmassnahmen durch Kantone und Private fallen ebenfalls unter den Geltungsbereich, soweit sie als Vollzug von Bundesrecht qualifiziert werden können (SGK-Uhlmann/Bussmann, Art. 170 BV, N. 18).
 
 **N. 13** Auch Nichthandeln kann Gegenstand einer Wirksamkeitsprüfung sein. Pflichtwidrige Unterlassungen können ebenso folgenreich sein wie aktives Handeln (Biaggini, Art. 170 BV, N. 4; SGK-Uhlmann/Bussmann, Art. 170 BV, N. 18).
 

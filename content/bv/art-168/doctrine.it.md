@@ -26,7 +26,7 @@
 
 ### 3.2 Capoverso 2: Competenze elettorali facoltative
 
-**N. 7** La norma di delega del cpv. 2 consente al legislatore di trasferire all'Assemblea federale ulteriori elezioni o di far confermare elezioni dall'Assemblea federale. La parola «autorizzare» chiarisce che si tratta di una disposizione facoltativa – il legislatore non è obbligato a creare ulteriori competenze elettorali (Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, art. 168 n. 8).
+**N. 7** La norma di delega del cpv. 2 consente al legislatore di trasferire all'Assemblea federale ulteriori elezioni o di far confermare elezioni dall'Assemblea federale. La parola «autorizzare» chiarisce che si tratta di una disposizione facoltativa – il legislatore non è obbligato a creare ulteriori competenze elettorali.
 
 **N. 8** Basandosi su questa autorizzazione, il legislatore ha trasferito all'Assemblea federale le seguenti competenze elettorali aggiuntive:
 - Elezione del procuratore generale della Confederazione e dei procuratori generali della Confederazione supplenti (art. 20 cpv. 2 CPP)

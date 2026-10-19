@@ -14,14 +14,14 @@
 
 ### 3. Elements of the Offence / Normative Content
 
-**N. 5** **Cantonal sovereignty over education (para. 1)**: The responsibility of the cantons for education encompasses, according to Hänni (BSK BV, Art. 62 N. 11-13), legislation, implementation, organisation and financing of the entire education system in their territory. This comprehensive competence extends to all school levels from basic education to cantonal universities, insofar as specific federal competences do not exist.
+**N. 5** **Cantonal sovereignty over education (para. 1)**: The responsibility of the cantons for education encompasses, according to Hänni, legislation, implementation, organisation and financing of the entire education system in their territory. This comprehensive competence extends to all school levels from basic education to cantonal universities, insofar as specific federal competences do not exist.
 
 **N. 6** **Basic education (para. 2)**: The concept «adequate basic education» requires, according to Federal Supreme Court case law, an appropriate educational offering that is adequate based on experience (**BGE 138 I 162**). The three core elements are:
 - **Compulsory nature**: Compulsory schooling lasts at least nine years and covers all children regardless of nationality or residence status
 - **State direction or supervision**: Private schools and homeschooling are subject to state control
 - **Free of charge**: At public schools, all necessary materials that directly serve the educational purpose must be provided free of charge (**BGE 144 I 1**)
 
-**N. 7** **Special needs education (para. 3)**: The «adequate special needs education» for disabled children and young people represents a constitutional innovation. Hänni (BSK BV, Art. 62 N. 34-38) emphasises the wide cantonal discretion in the concrete implementation. The age limit «until at most completion of the 20th year of age» is absolute and permits no exceptions.
+**N. 7** **Special needs education (para. 3)**: The «adequate special needs education» for disabled children and young people represents a constitutional innovation. Hänni emphasises the wide cantonal discretion in the concrete implementation. The age limit «until at most completion of the 20th year of age» is absolute and permits no exceptions.
 
 **N. 8** **School harmonisation (para. 4)**: The subsidiary federal competence only applies if intercantonal coordination fails. The harmonisation areas are exhaustively enumerated:
 - School entry age and compulsory education
@@ -29,7 +29,7 @@
 - Transitions between levels
 - Recognition of qualifications
 
-Biaggini qualifies this competence as «conditionally concurrent» (BSK BV, Art. 62 N. 86), while Ehrenzeller/Schott see the primary responsibility with the cantons and classify the federal competence as subsidiary (BSK BV, Art. 62 N. 86).
+Biaggini qualifies this competence as «conditionally concurrent», while Ehrenzeller/Schott see the primary responsibility with the cantons and classify the federal competence as subsidiary.
 
 ### 4. Legal Consequences
 
@@ -51,9 +51,9 @@ Biaggini qualifies this competence as «conditionally concurrent» (BSK BV, Art.
 
 **N. 14** **Scope of free provision**: Mascello (Elternrecht und Privatschulfreiheit, 1995, p. 89 ff.) advocates a narrow interpretation that only covers direct teaching costs. Richli (ZBl 1995, 481) argues for a broad interpretation that includes all education-relevant expenses. The Federal Supreme Court decided in **BGE 144 I 1** for a middle course: covered are all necessary materials that directly serve the educational purpose.
 
-**N. 15** **Normative character of Art. 62 para. 3**: A significant controversy exists regarding the legal nature of the special needs education obligation. Sceptical voices in doctrine (BSK BV, Art. 62 N. 70) see in para. 3 merely a constitutional mandate without enforceable individual claim. Other scholarly opinions (BSK BV, Art. 62 N. 70; Kälin/Künzli, in Wyttenbach/Kälin, AJP 2005, 1278) affirm a directly enforceable legal claim of the disabled child. The Federal Supreme Court tends to recognise a justiciable claim, but emphasises the wide cantonal discretion (**BGE 138 I 162**).
+**N. 15** **Normative character of Art. 62 para. 3**: A significant controversy exists regarding the legal nature of the special needs education obligation. Sceptical voices in doctrine see in para. 3 merely a constitutional mandate without enforceable individual claim. Other scholarly opinions (Kälin/Künzli, in Wyttenbach/Kälin, AJP 2005, 1278) affirm a directly enforceable legal claim of the disabled child. The Federal Supreme Court tends to recognise a justiciable claim, but emphasises the wide cantonal discretion (**BGE 138 I 162**).
 
-**N. 16** **Confederation-canton relationship in harmonisation**: Ehrenzeller/Schott (BSK BV, Art. 62 N. 86) emphasise primary cantonal responsibility and see federal competence as ultima ratio. Biaggini (BSK BV, Art. 62 N. 86) qualifies the competence as «conditionally concurrent» and grants the Confederation greater scope. Practice shows that the Confederation has acted with restraint so far and primarily relies on intercantonal cooperation (HarmoS Concordat).
+**N. 16** **Confederation-canton relationship in harmonisation**: Ehrenzeller/Schott emphasise primary cantonal responsibility and see federal competence as ultima ratio. Biaggini qualifies the competence as «conditionally concurrent» and grants the Confederation greater scope. Practice shows that the Confederation has acted with restraint so far and primarily relies on intercantonal cooperation (HarmoS Concordat).
 
 ### 6. Practical Guidance
 

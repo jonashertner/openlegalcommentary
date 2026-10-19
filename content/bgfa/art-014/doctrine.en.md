@@ -42,7 +42,7 @@
 - lawyers from other cantons who appear in the canton where the conduct occurred by virtue of the freedom of movement under Art. 4 BGFA (secondary jurisdiction of the canton where the conduct occurred);
 - EU/EFTA lawyers who practise permanently in Switzerland and have registered in the canton where the conduct occurred (→ Art. 27 ff. BGFA).
 
-**N. 11** Lawyers who exclusively provide legal advice and do not appear before judicial authorities fall outside the scope of Art. 14 BGFA (judgment **2C_897/2015** of 25.5.2016 E. 5.2.1; Poledna, BSK BGFA, Art. 14 N. 3). The fact that Art. 2 para. 1 BGFA limits the scope of the Act to representation of parties before judicial authorities is constitutive for the supervisory obligation: anyone who does not hold a mandate for representation of parties is not subject to the disciplinary supervision regulated by federal law.
+**N. 11** Lawyers who exclusively provide legal advice and do not appear before judicial authorities fall outside the scope of Art. 14 BGFA (judgment **2C_897/2015** of 25.5.2016 E. 5.2.1). The fact that Art. 2 para. 1 BGFA limits the scope of the Act to representation of parties before judicial authorities is constitutive for the supervisory obligation: anyone who does not hold a mandate for representation of parties is not subject to the disciplinary supervision regulated by federal law.
 
 #### 3.4 Intercantonal Allocation of Jurisdiction
 
@@ -54,7 +54,7 @@
 4. **Duty to communicate**: the outcome of the proceedings must be communicated to the supervisory authority of the canton of registration.
 5. **Register entry**: disciplinary measures that have become final and conclusive are entered in the register of the canton of registration (→ Art. 20 BGFA).
 
-**N. 13** Cantonal jurisdictions are in principle concurrent: both the canton of registration and the canton where the conduct occurred may act in the event of a breach of professional rules. The supervisory authority of the canton «in which the lawyer appears before the judicial authorities» exercises supervision primarily (judgment of the Administrative Court of Uri 04/05 49 of 4.10.2005; Poledna, BSK BGFA, Art. 14 N. 7). Where no court proceedings have yet been brought in the canton where the conduct occurred, jurisdiction remains with the canton of registration.
+**N. 13** Cantonal jurisdictions are in principle concurrent: both the canton of registration and the canton where the conduct occurred may act in the event of a breach of professional rules. The supervisory authority of the canton «in which the lawyer appears before the judicial authorities» exercises supervision primarily (judgment of the Administrative Court of Uri 04/05 49 of 4.10.2005). Where no court proceedings have yet been brought in the canton where the conduct occurred, jurisdiction remains with the canton of registration.
 
 ---
 
@@ -74,11 +74,11 @@
 
 #### 5.1 Scope of the Cantonal Supervisory Authority: Advisory Lawyers
 
-**N. 18** It was disputed whether the disciplinary supervision under Art. 14 BGFA also covers lawyers who exclusively provide legal advice and are not entered in a register of lawyers. Poledna (BSK BGFA, Art. 14 N. 3) and Bohnet/Martenet (Droit de la profession d'avocat, 2009, para. 578) agree that the BGFA does not cover this group. The canton of Lucerne has, by cantonal law, extended the professional rules under Art. 12 and 13 BGFA and the disciplinary law (Art. 14–20 BGFA) by analogy to lawyers not admitted to represent parties (§ 8 para. 2 AnwG/LU). Nater (Commentary on the Lawyers Act, Art. 3 N. 8b) considers this rule to be compatible with federal law, since it constitutes a permissible extension of cantonal legislative competence; the Federal Supreme Court left the question open (judgment **2C_897/2015** of 25.5.2016 E. 5.2.2).
+**N. 18** It was disputed whether the disciplinary supervision under Art. 14 BGFA also covers lawyers who exclusively provide legal advice and are not entered in a register of lawyers. Poledna and Bohnet/Martenet (Droit de la profession d'avocat, 2009, para. 578) agree that the BGFA does not cover this group. The canton of Lucerne has, by cantonal law, extended the professional rules under Art. 12 and 13 BGFA and the disciplinary law (Art. 14–20 BGFA) by analogy to lawyers not admitted to represent parties (§ 8 para. 2 AnwG/LU). Nater (Commentary on the Lawyers Act, Art. 3 N. 8b) considers this rule to be compatible with federal law, since it constitutes a permissible extension of cantonal legislative competence; the Federal Supreme Court left the question open (judgment **2C_897/2015** of 25.5.2016 E. 5.2.2).
 
 #### 5.2 Concurrent Jurisdictions of the Canton of Registration and the Canton where the Conduct Occurred
 
-**N. 19** It is disputed whether the supervisory authorities of the canton of registration and the canton where the conduct occurred have equal jurisdiction in an intercantonal mandate, or whether a hierarchical order of priority exists. The Administrative Court of Uri held in favour of primary jurisdiction of the canton where the conduct occurred (judgment 04/05 49 of 4.10.2005: «Supervision is exercised primarily by the supervisory authority of the canton in which the lawyer appears before the judicial authorities»). Poledna (BSK BGFA, Art. 14 N. 7) and Fellmann (Anwaltsrecht, 2nd ed. 2017, para. 793) follow this view in principle. Bauer/Bauer (CR LLCA, Art. 14 N. 11), by contrast, emphasise the coordination function: the authorities have concurrent jurisdictions, coordinated through duties to inform and communicate, without any strict hierarchy existing. A supreme court decision by the Federal Supreme Court on this question is still pending.
+**N. 19** It is disputed whether the supervisory authorities of the canton of registration and the canton where the conduct occurred have equal jurisdiction in an intercantonal mandate, or whether a hierarchical order of priority exists. The Administrative Court of Uri held in favour of primary jurisdiction of the canton where the conduct occurred (judgment 04/05 49 of 4.10.2005: «Supervision is exercised primarily by the supervisory authority of the canton in which the lawyer appears before the judicial authorities»). Poledna and Fellmann (Anwaltsrecht, 2nd ed. 2017, para. 793) follow this view in principle. Bauer/Bauer (CR LLCA, Art. 14 N. 11), by contrast, emphasise the coordination function: the authorities have concurrent jurisdictions, coordinated through duties to inform and communicate, without any strict hierarchy existing. A supreme court decision by the Federal Supreme Court on this question is still pending.
 
 #### 5.3 Cantonal Additional Supervisory Instruments in Relation to Exhaustive Federal Law
 
@@ -109,7 +109,6 @@
 **Legal Literature**
 - Fellmann, Anwaltsrecht, 2nd ed. 2017, para. 786–800
 - Bohnet/Martenet, Droit de la profession d'avocat, 2009, para. 575–580
-- Poledna, BSK BGFA, 2nd ed. 2019, Art. 14
 
 **Legislative Materials**
 - BBl 1999 6047 f. (Message on the Federal Act on Freedom of Movement for Lawyers)

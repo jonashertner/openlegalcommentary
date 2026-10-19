@@ -10,7 +10,7 @@
 
 ## 2. Situation systématique
 
-**Ch. 4** L'art. 140 Cst. forme avec l'art. 138 (initiative populaire tendant à la révision totale), l'art. 139 (initiative populaire tendant à la révision partielle) et l'art. 141 (référendum facultatif) le système central des droits de participation démocratique directe au niveau fédéral. Cette disposition règle de manière exhaustive dans quels cas un référendum obligatoire doit être organisé (Epiney/Diezig, BSK BV, art. 140 ch. 10).
+**Ch. 4** L'art. 140 Cst. forme avec l'art. 138 (initiative populaire tendant à la révision totale), l'art. 139 (initiative populaire tendant à la révision partielle) et l'art. 141 (référendum facultatif) le système central des droits de participation démocratique directe au niveau fédéral. Cette disposition règle de manière exhaustive dans quels cas un référendum obligatoire doit être organisé.
 
 **Ch. 5** Le référendum obligatoire selon l'art. 140 al. 1 Cst. se distingue du référendum facultatif (art. 141 Cst.) par trois caractéristiques : il intervient automatiquement sans collecte de signatures, exige l'approbation du peuple et des cantons (double majorité) et concerne des affaires constitutionnelles particulièrement importantes.
 
@@ -22,11 +22,11 @@
 
 **Ch. 7** **Modifications de la Constitution (let. a)** : Toute modification formelle de la Constitution fédérale est soumise au référendum obligatoire, indépendamment de sa portée matérielle. Cela comprend aussi les adaptations purement rédactionnelles ou l'abrogation de dispositions obsolètes (→ art. 195 Cst.).
 
-**Ch. 8** **Organisations de sécurité collective (let. b)** : Selon la définition du Conseil fédéral, il s'agit d'organisations universelles ou régionales qui se donnent pour but d'opposer une résistance organisée à un État agresseur troublant la paix (Conseil fédéral, cité in Epiney/Diezig, BSK BV, art. 140 ch. 17). L'exemple classique serait l'Organisation des Nations Unies avec son système du chapitre VII.
+**Ch. 8** **Organisations de sécurité collective (let. b)**: Selon la définition du Conseil fédéral, il s'agit d'organisations universelles ou régionales qui se donnent pour but d'opposer une résistance organisée à un État agresseur troublant la paix. L'exemple classique serait l'Organisation des Nations Unies avec son système du chapitre VII.
 
-**Ch. 9** **Communautés supranationales (let. b)** : Le Conseil fédéral les définit comme des organisations dotées d'organes indépendants qui peuvent, par des décisions à la majorité, prendre des décisions directement contraignantes pour les particuliers et disposent de compétences matérielles relativement étendues (Conseil fédéral, cité in Epiney/Diezig, BSK BV, art. 140 ch. 18). L'UE remplit incontestablement ces critères.
+**Ch. 9** **Communautés supranationales (let. b)**: Le Conseil fédéral les définit comme des organisations dotées d'organes indépendants qui peuvent, par des décisions à la majorité, prendre des décisions directement contraignantes pour les particuliers et disposent de compétences matérielles relativement étendues. L'UE remplit incontestablement ces critères.
 
-**Ch. 10** Le classement de l'EEE est controversé : Epiney/Diezig (BSK BV, art. 140 ch. 19) ainsi que Hangartner/Kley affirment la supranationalité en raison du développement dynamique du droit et des compétences de l'Autorité de surveillance AELE. Häfelin/Haller/Keller, Tschannen et Biaggini la nient en revanche, car le droit EEE n'est pas directement applicable et la reprise de nouveaux actes juridiques nécessite l'approbation des parties contractantes.
+**Ch. 10** Le classement de l'EEE est controversé: Epiney/Diezig ainsi que Hangartner/Kley affirment la supranationalité en raison du développement dynamique du droit et des compétences de l'Autorité de surveillance AELE. Häfelin/Haller/Keller, Tschannen et Biaggini la nient en revanche, car le droit EEE n'est pas directement applicable et la reprise de nouveaux actes juridiques nécessite l'approbation des parties contractantes.
 
 **Ch. 11** **Lois fédérales urgentes dépourvues de base constitutionnelle (let. c)** : Cette constellation rare ne concerne que les lois fédérales qui, cumulativement : (1) ont été déclarées urgentes par l'Assemblée fédérale (→ art. 165 Cst.), (2) n'ont pas de base constitutionnelle et (3) dont la durée de validité dépasse une année. Elles doivent être soumises au vote dans l'année qui suit leur adoption.
 
@@ -50,9 +50,9 @@
 
 ## 5. Controverses
 
-**Ch. 19** **Caractère exhaustif** : La doctrine dominante (Epiney/Diezig, BSK BV, art. 140 ch. 10 ; Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, § 1383) soutient que l'art. 140 Cst. règle de manière exhaustive les cas de référendum obligatoire. Une minorité plaide pour un référendum obligatoire extraordinaire sur les traités internationaux particulièrement importants qui ne tombent pas sous la let. b (Schulte, Direkte Demokratie und Aussenpolitik, 287 ss).
+**Ch. 19** **Caractère exhaustif**: La doctrine dominante (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, § 1383) soutient que l'art. 140 Cst. règle de manière exhaustive les cas de référendum obligatoire. Une minorité plaide pour un référendum obligatoire extraordinaire sur les traités internationaux particulièrement importants qui ne tombent pas sous la let. b (Schulte, Direkte Demokratie und Aussenpolitik, 287 ss).
 
-**Ch. 20** **Supranationalité de l'EEE** : Le différend sur la qualification juridique de l'EEE divise la doctrine. Les partisans de la supranationalité (Epiney/Diezig, BSK BV, art. 140 ch. 19 ; Hangartner/Kley, Demokratische Rechte, § 831) renvoient au développement dynamique du droit et aux compétences quasi judiciaires de l'Autorité de surveillance AELE. L'opinion contraire (Häfelin/Haller/Keller, § 1932 ; Tschannen, Staatsrecht, § 15 ch. 28 ; Biaggini, BV-Kommentar, art. 140 ch. 4) souligne que le droit EEE nécessite une mise en œuvre et ne déploie pas d'effet direct.
+**Ch. 20** **Supranationalité de l'EEE**: Le différend sur la qualification juridique de l'EEE divise la doctrine. Les partisans de la supranationalité (Hangartner/Kley, Demokratische Rechte, § 831) renvoient au développement dynamique du droit et aux compétences quasi judiciaires de l'Autorité de surveillance AELE. L'opinion contraire (Häfelin/Haller/Keller, § 1932; Tschannen, Staatsrecht, § 15 ch. 28; Biaggini, BV-Kommentar, art. 140 ch. 4) souligne que le droit EEE nécessite une mise en œuvre et ne déploie pas d'effet direct.
 
 **Ch. 21** **Notion de sécurité collective** : Villiger (FS Schindler, 805) défend une interprétation large qui englobe aussi les alliances de sécurité régionales à nombre de membres limité. L'opinion majoritaire (Thürer, SZIER 2005, 42 ; Ehrenzeller, FS Steinberger, 718) limite la notion aux systèmes universels ou quasi universels comme l'ONU.
 

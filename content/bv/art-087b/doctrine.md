@@ -8,7 +8,7 @@
 
 **N. 2** Die Zweckbindung der Mineralölsteuer für den Luftverkehr hat eine längere Tradition. Bereits mit der Einführung der Mineralölsteuer im Jahr 1996 wurde festgelegt, dass ein Teil der Erträge aus der Besteuerung von Flugtreibstoffen für luftfahrtbezogene Zwecke zu verwenden sei. Mit Art. 87b BV erhielt diese Praxis eine ausdrückliche verfassungsrechtliche Grundlage (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4. Aufl. 2023, Art. 87b N. 1).
 
-**N. 3** Die Bestimmung steht im systematischen Zusammenhang mit Art. 86 BV (Mineralölsteuer) und Art. 87 BV (Luftfahrt). Sie bildet das luftfahrtspezifische Pendant zur Spezialfinanzierung Strassenverkehr gemäss Art. 86 Abs. 3 BV. Der Verfassungsgeber wollte damit sicherstellen, dass die aus dem Luftverkehr generierten Abgaben auch diesem Sektor zugutekommen (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 87b N. 3).
+**N. 3** Die Bestimmung steht im systematischen Zusammenhang mit Art. 86 BV (Mineralölsteuer) und Art. 87 BV (Luftfahrt). Sie bildet das luftfahrtspezifische Pendant zur Spezialfinanzierung Strassenverkehr gemäss Art. 86 Abs. 3 BV. Der Verfassungsgeber wollte damit sicherstellen, dass die aus dem Luftverkehr generierten Abgaben auch diesem Sektor zugutekommen.
 
 ### 2. Systematische Einordnung
 
@@ -30,7 +30,7 @@
 - 50% des Reinertrags der Verbrauchssteuer auf Flugtreibstoffen (Grundsteuer)
 - 100% des Zuschlags auf der Verbrauchssteuer auf Flugtreibstoffen
 
-Der Begriff «Reinertrag» bezeichnet die Steuereinnahmen nach Abzug der Erhebungskosten (Waldmann/Belser/Epiney, BSK BV, Art. 87b N. 5).
+Der Begriff «Reinertrag» bezeichnet die Steuereinnahmen nach Abzug der Erhebungskosten.
 
 **N. 9** **Verwendungszwecke**: Die Mittel sind für «Aufgaben und Aufwendungen im Zusammenhang mit dem Luftverkehr» zu verwenden. Art. 87b Bst. a-c BV konkretisiert drei Hauptverwendungszwecke:
 - Beiträge an Umweltschutzmassnahmen im Luftverkehr (Bst. a)
@@ -51,7 +51,7 @@ Der Begriff «Reinertrag» bezeichnet die Steuereinnahmen nach Abzug der Erhebun
 
 ### 5. Streitstände
 
-**N. 15** In der Lehre ist umstritten, wie weit der Begriff «Aufgaben und Aufwendungen im Zusammenhang mit dem Luftverkehr» zu fassen ist. Waldmann/Belser/Epiney (BSK BV, Art. 87b N. 7) vertreten eine eher restriktive Auslegung und fordern einen engen Sachzusammenhang mit dem Luftverkehr. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 87b N. 9) plädieren für eine grosszügigere Auslegung, die auch luftverkehrsnahe Infrastrukturmassnahmen einschliesst.
+**N. 15** In der Lehre ist umstritten, wie weit der Begriff «Aufgaben und Aufwendungen im Zusammenhang mit dem Luftverkehr» zu fassen ist. Waldmann/Belser/Epiney vertreten eine eher restriktive Auslegung und fordern einen engen Sachzusammenhang mit dem Luftverkehr. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 87b N. 9) plädieren für eine grosszügigere Auslegung, die auch luftverkehrsnahe Infrastrukturmassnahmen einschliesst.
 
 **N. 16** Kontrovers diskutiert wird auch die Frage, ob die Mittel ausschliesslich für die zivile Luftfahrt verwendet werden dürfen oder auch militärische Zwecke einschliessen können. Die herrschende Lehre geht davon aus, dass Art. 87b BV primär auf die Zivilluftfahrt ausgerichtet ist, schliesst aber dual use-Massnahmen nicht kategorisch aus (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, N. 2157).
 

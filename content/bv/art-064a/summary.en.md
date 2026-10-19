@@ -2,9 +2,9 @@
 
 ## Overview
 
-Art. 64a Cst. gives the Confederation the authority to promote continuing education. This constitutional provision was inserted in 2006 because the Confederation's old competences were insufficient (Hänni, BSK BV, Art. 64a N. 2-3). Continuing education means learning after compulsory school, vocational education and training or university studies.
+Art. 64a Cst. gives the Confederation the authority to promote continuing education. This constitutional provision was inserted in 2006 because the Confederation's old competences were insufficient. Continuing education means learning after compulsory school, vocational education and training or university studies.
 
-The Federal Council must establish basic principles for continuing education. It has determined five important principles (Hänni, BSK BV, Art. 64a N. 11): Everyone is personally responsible for their continuing education, quality must be ensured, different educational pathways should be permeable (one can switch from one to another), educational achievements should be credited and everyone should have equal opportunities.
+The Federal Council must establish basic principles for continuing education. It has determined five important principles: Everyone is personally responsible for their continuing education, quality must be ensured, different educational pathways should be permeable (one can switch from one to another), educational achievements should be credited and everyone should have equal opportunities.
 
 The Confederation may provide financial support for continuing education, but is not obliged to do so. The Continuing Education Act of 2014 (SR 419.1) regulates the areas in which the Confederation provides assistance: basic skills for adults (such as reading and arithmetic), professional continuing education and the training of continuing education teachers (BBl 2013 3729, 3745).
 

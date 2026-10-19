@@ -2,7 +2,7 @@
 
 L'art. 120 Cost. protegge dagli abusi della tecnologia genetica (modificazione del patrimonio genetico). La disposizione ha due capoversi: il capoverso 1 protegge l'essere umano e l'ambiente dagli abusi. Il capoverso 2 attribuisce alla Confederazione il compito di emanare norme per il trattamento del patrimonio genetico di animali, piante e altri organismi.
 
-La Confederazione deve rispettare tre principi importanti: la dignità della creatura, la sicurezza dell'essere umano, degli animali e dell'ambiente nonché la protezione della diversità genetica. Per «dignità della creatura» la dottrina giuridica intende il valore etico intrinseco degli esseri viventi. Tuttavia è controverso se questo concetto comprenda solo animali e piante oppure anche gli esseri umani (Errass contra dottrina prevalente secondo Waldmann, BSK Cost., art. 120 n. 14-78).
+La Confederazione deve rispettare tre principi importanti: la dignità della creatura, la sicurezza dell'essere umano, degli animali e dell'ambiente nonché la protezione della diversità genetica. Per «dignità della creatura» la dottrina giuridica intende il valore etico intrinseco degli esseri viventi. Tuttavia è controverso se questo concetto comprenda solo animali e piante oppure anche gli esseri umani.
 
 Sono interessati tutti coloro che lavorano con la tecnologia genetica: ricercatori, agricoltori, aziende farmaceutiche e autorità. Il Tribunale federale ha stabilito che negli esperimenti su animali deve essere considerata la particolare vicinanza dei primati all'essere umano (**BGE 135 II 384**).
 

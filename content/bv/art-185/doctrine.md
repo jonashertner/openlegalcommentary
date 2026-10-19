@@ -38,7 +38,7 @@
 
 ### 5. Streitstände
 
-**N. 13** **Reichweite der Notrechtskompetenz**: Während Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10. Aufl. 2020, N 1624 ff.) eine restriktive Auslegung befürworten, plädiert Epiney (BSK BV, 2. Aufl. 2024, Art. 185 N 12) für eine flexible Handhabung bei neuartigen Bedrohungen. Der St. Galler Kommentar (Schweizer, SGK BV, 4. Aufl. 2023, Art. 185 N 8) nimmt eine vermittelnde Position ein.
+**N. 13** **Reichweite der Notrechtskompetenz**: Während Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10. Aufl. 2020, N 1624 ff.) eine restriktive Auslegung befürworten, plädiert Epiney für eine flexible Handhabung bei neuartigen Bedrohungen. Der St. Galler Kommentar (Schweizer, SGK BV, 4. Aufl. 2023, Art. 185 N 8) nimmt eine vermittelnde Position ein.
 
 **N. 14** **Verfassungsimmunität**: Die Lehre ist gespalten bezüglich der Reichweite der in **BGE 147 I 333** entwickelten Verfassungsimmunität. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5. Aufl. 2021, § 48 N 12) kritisiert das Konzept als zu weitgehend, während Biaggini (BV Kommentar, 2. Aufl. 2017, Art. 185 N 7) es als notwendige Flexibilität in Krisenzeiten verteidigt.
 

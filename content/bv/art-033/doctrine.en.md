@@ -26,7 +26,7 @@
 
 #### 3.1 Personal Scope
 
-**N. 7** «Every person» in Art. 33 para. 1 FC encompasses all natural persons without restriction as to nationality, age, legal capacity or domicile; the provision cannot be read as excluding, for example, foreign nationals or persons lacking legal capacity. Legal persons and public bodies may also be petitioners insofar as a matter of their own concern is involved; the Federal Supreme Court left this question open in **BGE 98 Ia 484 E. 5a**. Tschannen notes that the right of petition may be exercised «almost without any formality and without disadvantage» (Tschannen, BSK BV, Art. 33 N. 3).
+**N. 7** «Every person» in Art. 33 para. 1 FC encompasses all natural persons without restriction as to nationality, age, legal capacity or domicile; the provision cannot be read as excluding, for example, foreign nationals or persons lacking legal capacity. Legal persons and public bodies may also be petitioners insofar as a matter of their own concern is involved; the Federal Supreme Court left this question open in **BGE 98 Ia 484 E. 5a**. Tschannen notes that the right of petition may be exercised «almost without any formality and without disadvantage».
 
 #### 3.2 Material Scope of Protection
 
@@ -54,7 +54,7 @@
 
 **N. 14** Art. 33 FC does not confer on the petitioner party status in administrative proceedings or an entitlement to the issuance of a ruling. Accordingly, the rejection or discontinuation of a petition cannot be judicially reviewed on the merits (**Judgment 1C_473/2010 E. 2.1**; **Judgment 1C_155/2020 E. 2.2**). In this respect, the petitioner differs from an appellant, to whom the right of appeal affords an enforceable claim to a decision (**BGE 98 Ia 484 E. 5b**, with reference to BGE 90 I 230).
 
-**N. 15** The right of petition is not suited to replacing or supplementing procedural legal remedies where these are available. Thus, in **Judgment 1C_37/2019 E. 4.3**, the Federal Supreme Court noted that the right of petition under Art. 33 FC offers a means of «approaching the authorities almost without formality and without disadvantage» (with reference to Tschannen, BSK BV, Art. 33 N. 3), but is not an instrument of individual legal protection against State omissions where no subjective rights are involved.
+**N. 15** The right of petition is not suited to replacing or supplementing procedural legal remedies where these are available. Thus, in **Judgment 1C_37/2019 E. 4.3**, the Federal Supreme Court noted that the right of petition under Art. 33 FC offers a means of «approaching the authorities almost without formality and without disadvantage», but is not an instrument of individual legal protection against State omissions where no subjective rights are involved.
 
 ---
 

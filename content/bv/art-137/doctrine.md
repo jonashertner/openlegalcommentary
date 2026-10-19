@@ -4,9 +4,9 @@
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Die Aufnahme eines Parteiartikels in die Bundesverfassung wurde im Rahmen der Totalrevision intensiv diskutiert. Die Verfassungskommission des Ständerats wollte ursprünglich eine umfassendere Regelung mit Bestimmungen zur Parteienfinanzierung aufnehmen. Im parlamentarischen Verfahren setzte sich jedoch eine minimalistische Lösung durch. Der Berichterstatter im Ständerat stellte klar: «Die Kommission sei klar der Auffassung, dass diese Bestimmung keine Finanzierungsgrundlage darstellt» (Tschannen, BSK BV, Art. 137 N. 24). Die Botschaft des Bundesrates vom 20. November 1996 zur neuen Bundesverfassung (BBl 1997 I 1, 347) betonte, dass mit Art. 137 lediglich die faktische Rolle der Parteien verfassungsrechtlich anerkannt werden sollte, ohne neue Rechte oder Pflichten zu begründen.
+**N. 1** Die Aufnahme eines Parteiartikels in die Bundesverfassung wurde im Rahmen der Totalrevision intensiv diskutiert. Die Verfassungskommission des Ständerats wollte ursprünglich eine umfassendere Regelung mit Bestimmungen zur Parteienfinanzierung aufnehmen. Im parlamentarischen Verfahren setzte sich jedoch eine minimalistische Lösung durch. Der Berichterstatter im Ständerat stellte klar: «Die Kommission sei klar der Auffassung, dass diese Bestimmung keine Finanzierungsgrundlage darstellt». Die Botschaft des Bundesrates vom 20. November 1996 zur neuen Bundesverfassung (BBl 1997 I 1, 347) betonte, dass mit Art. 137 lediglich die faktische Rolle der Parteien verfassungsrechtlich anerkannt werden sollte, ohne neue Rechte oder Pflichten zu begründen.
 
-**N. 2** In der Vernehmlassung wurde kontrovers diskutiert, ob die Bestimmung rein deskriptiven oder normativen Charakter haben solle. Die Ratsprotokollen zeigen, dass die Kommissionsmehrheit Art. 137 als bloss deskriptiv verstand (Frick, zitiert bei Tschannen, BSK BV, Art. 137 N. 6). Dennoch setzte sich in der Lehre die Auffassung durch, dass der Parteienartikel normativ zu verstehen sei, auch wenn sein Regelungsgehalt gering sein mag (Tschannen, BSK BV, Art. 137 N. 2).
+**N. 2** In der Vernehmlassung wurde kontrovers diskutiert, ob die Bestimmung rein deskriptiven oder normativen Charakter haben solle. Die Ratsprotokollen zeigen, dass die Kommissionsmehrheit Art. 137 als bloss deskriptiv verstand. Dennoch setzte sich in der Lehre die Auffassung durch, dass der Parteienartikel normativ zu verstehen sei, auch wenn sein Regelungsgehalt gering sein mag.
 
 ### 2. Systematische Einordnung
 
@@ -24,7 +24,7 @@
 - an der politischen Meinungs- und Willensbildung mitwirken wollen
 - sich an Wahlen und Abstimmungen beteiligen
 
-**N. 7** Die Rechtsform ist nicht entscheidend. Parteien organisieren sich regelmässig als Vereine nach Art. 60 ff. ZGB, können aber auch formlos bestehen. Entscheidend ist die faktische Funktion im politischen System (Tschannen, BSK BV, Art. 137 N. 8–10). Das umstrittene Parteienregister auf Bundesebene (Art. 76a Abs. 1 BPR) ändert nichts an der grundsätzlichen Formfreiheit, wird aber von Teilen der Lehre als Verletzung der politischen Gleichheit kritisiert (Schiess Rütimann, ZBl 2006, 512 f.).
+**N. 7** Die Rechtsform ist nicht entscheidend. Parteien organisieren sich regelmässig als Vereine nach Art. 60 ff. ZGB, können aber auch formlos bestehen. Entscheidend ist die faktische Funktion im politischen System. Das umstrittene Parteienregister auf Bundesebene (Art. 76a Abs. 1 BPR) ändert nichts an der grundsätzlichen Formfreiheit, wird aber von Teilen der Lehre als Verletzung der politischen Gleichheit kritisiert (Schiess Rütimann, ZBl 2006, 512 f.).
 
 **N. 8** **«wirken ... mit»**: Die Mitwirkung umfasst sämtliche legitimen Formen politischer Betätigung: Organisation von Wahlkampagnen, Lancierung von Initiativen und Referenden, Stellungnahmen zu politischen Sachfragen, Rekrutierung und Ausbildung von politischem Personal, parlamentarische Fraktionsarbeit (→ Art. 61 ParlG). Die Formulierung ist bewusst offen gehalten und schliesst neue Formen politischer Partizipation nicht aus.
 
@@ -34,7 +34,7 @@
 
 ### 4. Rechtsfolgen
 
-**N. 11** Art. 137 BV begründet nach herrschender Lehre keine unmittelbaren subjektiven Rechte der Parteien (Tschannen, BSK BV, Art. 137 N. 4; Rhinow, recht 1986, 117). Die Bestimmung hat primär objektiv-rechtlichen Charakter und anerkennt die Parteien als notwendige Institutionen der Demokratie.
+**N. 11** Art. 137 BV begründet nach herrschender Lehre keine unmittelbaren subjektiven Rechte der Parteien (Rhinow, recht 1986, 117). Die Bestimmung hat primär objektiv-rechtlichen Charakter und anerkennt die Parteien als notwendige Institutionen der Demokratie.
 
 **N. 12** Als institutionelle Garantie verpflichtet Art. 137 BV den Gesetzgeber, die Rahmenbedingungen für die Parteitätigkeit so auszugestalten, dass die Parteien ihre verfassungsmässige Funktion erfüllen können. Dazu gehören:
 - Gewährleistung der Vereinigungsfreiheit für politische Zwecke
@@ -46,7 +46,7 @@
 
 ### 5. Streitstände
 
-**N. 14** **Rechtsnatur von Art. 137 BV**: Der zentrale Streitpunkt betrifft die Rechtsnatur der Bestimmung. Frick (zitiert bei Tschannen, BSK BV, Art. 137 N. 6) vertritt unter Berufung auf die Ratsverhandlungen die Position, Art. 137 sei rein deklaratorisch. Demgegenüber betont Tschannen (BSK BV, Art. 137 N. 2), der Parteienartikel müsse normativ verstanden werden, auch wenn der Regelungsgehalt gering sein mag. Diese Kontroverse hat praktische Konsequenzen für die Ableitung konkreter Rechte und Pflichten aus der Bestimmung.
+**N. 14** **Rechtsnatur von Art. 137 BV**: Der zentrale Streitpunkt betrifft die Rechtsnatur der Bestimmung. Frick vertritt unter Berufung auf die Ratsverhandlungen die Position, Art. 137 sei rein deklaratorisch. Demgegenüber betont Tschannen, der Parteienartikel müsse normativ verstanden werden, auch wenn der Regelungsgehalt gering sein mag. Diese Kontroverse hat praktische Konsequenzen für die Ableitung konkreter Rechte und Pflichten aus der Bestimmung.
 
 **N. 15** **Parteienfinanzierung**: Heftig umstritten ist die Frage der Transparenz und staatlichen Förderung. Caroni (Geld und Politik, 2009, 234 ff.) plädiert für umfassende Offenlegungspflichten nach internationalem Vorbild. Konservative Stimmen warnen vor einer Verstaatlichung der Parteien und betonen deren privatrechtlichen Charakter (Schmid, Politische Parteien, 1981, 156 ff.). Der Gesetzgeber hat sich bisher zurückhaltend gezeigt.
 

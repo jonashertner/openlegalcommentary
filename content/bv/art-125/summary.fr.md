@@ -1,8 +1,8 @@
 # Aperçu
 
-L'article 125 Cst. confère à la Confédération la compétence exclusive pour toutes les lois sur la métrologie (Göksu, BSK BV, Art. 125 N. 5). Cette compétence existe déjà depuis la première Constitution fédérale de 1848 et sert à l'unification du droit dans le commerce (Message Cst., FF 1997 I 329).
+L'article 125 Cst. confère à la Confédération la compétence exclusive pour toutes les lois sur la métrologie. Cette compétence existe déjà depuis la première Constitution fédérale de 1848 et sert à l'unification du droit dans le commerce (Message Cst., FF 1997 I 329).
 
-La métrologie comprend trois domaines principaux : la définition des unités de mesure (comme le mètre, le kilogramme, la seconde), les exigences techniques relatives aux instruments de mesure et leur vérification périodique (contrôle de la précision) (art. 2 al. 1 LMétr ; Göksu, BSK BV, Art. 125 N. 2-4). La Confédération a mis en œuvre cette compétence par la loi fédérale sur la métrologie (LMétr).
+La métrologie comprend trois domaines principaux: la définition des unités de mesure (comme le mètre, le kilogramme, la seconde), les exigences techniques relatives aux instruments de mesure et leur vérification périodique (contrôle de la précision) (art. 2 al. 1 LMétr). La Confédération a mis en œuvre cette compétence par la loi fédérale sur la métrologie (LMétr).
 
 Sont concernées toutes les entreprises et personnes qui utilisent des instruments de mesure dans le commerce. Cela comprend les stations-service avec leurs pompes, les boulangeries avec leurs balances, les services électriques avec leurs compteurs d'électricité ou les entreprises de taxi avec leurs tachygraphes (art. 3 LMétr). Ces instruments de mesure doivent être homologués par l'Office fédéral de métrologie (METAS) et vérifiés périodiquement.
 

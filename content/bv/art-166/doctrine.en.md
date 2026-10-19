@@ -63,7 +63,7 @@
 
 ### 5. Controversies
 
-**N. 15** **Scope of the approval requirement**: In doctrine, it is disputed how far the exceptions to the approval requirement extend. Ehrenzeller/Schindler/Schweizer/Vallender (St. Gallen Commentary BV, Art. 166 N. 15) advocate a restrictive interpretation and emphasise that parliamentary approval is the rule, delegation the exception. Waldmann/Belser/Epiney (BSK BV, Art. 166 N. 22) recognise a greater scope for executive treaty-making in technical matters.
+**N. 15** **Scope of the approval requirement**: In doctrine, it is disputed how far the exceptions to the approval requirement extend. Ehrenzeller/Schindler/Schweizer/Vallender (St. Gallen Commentary BV, Art. 166 N. 15) advocate a restrictive interpretation and emphasise that parliamentary approval is the rule, delegation the exception. Waldmann/Belser/Epiney recognise a greater scope for executive treaty-making in technical matters.
 
 **N. 16** **Legal nature of Memoranda of Understanding**: Whether legally non-binding declarations of intent (MoU) fall under Art. 166 BV is controversially discussed. The Federal Council's practice (JAAC 68.83) denies the approval requirement for legally non-binding instruments. Parts of the doctrine criticise this practice as too far-reaching, as even politically significant declarations of intent should be subject to parliamentary control (Thürer/Müller, in: Ehrenzeller et al., St. Gallen Commentary BV, Art. 166 N. 18).
 

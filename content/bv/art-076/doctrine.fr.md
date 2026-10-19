@@ -14,7 +14,7 @@
 
 ## 3. Éléments constitutifs / Contenu normatif
 
-**N. 5** Les **ressources en eau** comprennent toutes les eaux superficielles et souterraines y compris les sources, lacs, cours d'eau et eaux souterraines. Le terme doit être compris largement et inclut également les potentiels futurs d'utilisation (Waldmann/Belser/Epiney, BSK BV, art. 76 N. 15). L'« utilisation mesurée » (al. 1) exige un usage ménager et durable de la ressource eau au sens du principe de développement durable.
+**N. 5** Les **ressources en eau** comprennent toutes les eaux superficielles et souterraines y compris les sources, lacs, cours d'eau et eaux souterraines. Le terme doit être compris largement et inclut également les potentiels futurs d'utilisation. L'« utilisation mesurée » (al. 1) exige un usage ménager et durable de la ressource eau au sens du principe de développement durable.
 
 **N. 6** La **compétence de principe** de la Confédération (al. 2) autorise la législation-cadre, mais laisse l'exécution et la réglementation de détail aux cantons. L'énumération des types d'utilisation (production d'énergie, refroidissement) n'est pas exhaustive (« ainsi que »). Le législateur fédéral a pleinement exploité cette compétence avec la LEaux, la LEP et la LCE (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N. 1098).
 
@@ -30,7 +30,7 @@
 
 ## 5. Points litigieux
 
-**N. 11** **Portée de la souveraineté cantonale sur les eaux** : Tandis que Biaggini (BV-Kommentar, art. 76 N. 5) souligne une large autonomie des cantons, Waldmann/Belser/Epiney (BSK BV, art. 76 N. 28) défendent une interprétation plus restrictive compte tenu de la législation fédérale exhaustive. Le Tribunal fédéral tend vers la position médiane selon laquelle la souveraineté cantonale subsiste certes, mais est considérablement limitée par le droit fédéral (**ATF 145 II 140**).
+**N. 11** **Portée de la souveraineté cantonale sur les eaux**: Tandis que Biaggini (BV-Kommentar, art. 76 N. 5) souligne une large autonomie des cantons, Waldmann/Belser/Epiney défendent une interprétation plus restrictive compte tenu de la législation fédérale exhaustive. Le Tribunal fédéral tend vers la position médiane selon laquelle la souveraineté cantonale subsiste certes, mais est considérablement limitée par le droit fédéral (**ATF 145 II 140**).
 
 **N. 12** **Rapport force hydraulique - protection des eaux** : Dans la doctrine, il est controverse de savoir comment pondérer l'équilibre des intérêts entre production énergétique et protection de l'environnement. Griffel (St. Galler Kommentar BV, art. 76 N. 18) plaide pour une primauté stricte de la protection des eaux, tandis que Keller (in: Häfelin/Haller/Keller/Thurnherr, N. 1099) exige une pondération équilibrée des intérêts. La pratique montre une pondération croissante des préoccupations écologiques tout en reconnaissant l'importance énergétique de la force hydraulique.
 

@@ -14,14 +14,14 @@
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 5** **Souveraineté scolaire cantonale (al. 1)** : La compétence des cantons en matière d'instruction publique comprend selon Hänni (BSK BV, art. 62 N. 11-13) la législation, l'exécution, l'organisation et le financement de l'ensemble du système de formation sur leur territoire. Cette compétence étendue s'applique à tous les degrés scolaires, de l'école primaire aux universités cantonales, sauf compétences fédérales spécifiques.
+**N. 5** **Souveraineté scolaire cantonale (al. 1)**: La compétence des cantons en matière d'instruction publique comprend selon Hänni la législation, l'exécution, l'organisation et le financement de l'ensemble du système de formation sur leur territoire. Cette compétence étendue s'applique à tous les degrés scolaires, de l'école primaire aux universités cantonales, sauf compétences fédérales spécifiques.
 
 **N. 6** **Enseignement de base (al. 2)** : La notion d'« enseignement de base suffisant » exige selon la jurisprudence du Tribunal fédéral une offre de formation appropriée et dont l'expérience montre qu'elle est suffisante (**ATF 138 I 162**). Les trois éléments centraux sont :
 - **Caractère obligatoire** : La scolarité obligatoire dure au moins neuf ans et concerne tous les enfants indépendamment de leur nationalité ou de leur statut de séjour
 - **Direction ou surveillance étatique** : Les écoles privées et l'enseignement à domicile sont soumis au contrôle de l'État
 - **Gratuité** : Dans les écoles publiques, tous les moyens nécessaires et servant directement à l'enseignement doivent être mis à disposition gratuitement (**ATF 144 I 1**)
 
-**N. 7** **Enseignement spécialisé (al. 3)** : L'« enseignement spécialisé suffisant » pour les enfants et adolescents handicapés constitue une innovation constitutionnelle. Hänni (BSK BV, art. 62 N. 34-38) souligne la large marge d'appréciation cantonale dans l'aménagement concret. La limite d'âge « jusqu'à l'âge de 20 ans révolus au plus » est absolue et n'admet aucune exception.
+**N. 7** **Enseignement spécialisé (al. 3)**: L'« enseignement spécialisé suffisant » pour les enfants et adolescents handicapés constitue une innovation constitutionnelle. Hänni souligne la large marge d'appréciation cantonale dans l'aménagement concret. La limite d'âge « jusqu'à l'âge de 20 ans révolus au plus » est absolue et n'admet aucune exception.
 
 **N. 8** **Harmonisation scolaire (al. 4)** : La compétence subsidiaire de la Confédération n'entre en jeu que si la coordination intercantonale échoue. Les domaines d'harmonisation sont énumérés de manière exhaustive :
 - Âge d'entrée à l'école et scolarité obligatoire
@@ -29,7 +29,7 @@
 - Passage de l'un à l'autre
 - Reconnaissance des diplômes
 
-Biaggini qualifie cette compétence de « concurrente sous condition » (BSK BV, art. 62 N. 86), tandis qu'Ehrenzeller/Schott voient la responsabilité première chez les cantons et classent la compétence fédérale comme subsidiaire (BSK BV, art. 62 N. 86).
+Biaggini qualifie cette compétence de « concurrente sous condition », tandis qu'Ehrenzeller/Schott voient la responsabilité première chez les cantons et classent la compétence fédérale comme subsidiaire.
 
 ### 4. Conséquences juridiques
 
@@ -51,9 +51,9 @@ Biaggini qualifie cette compétence de « concurrente sous condition » (BSK BV,
 
 **N. 14** **Étendue de la gratuité** : Mascello (Elternrecht und Privatschulfreiheit, 1995, p. 89 ss) défend une interprétation restrictive qui ne couvre que les coûts directs d'enseignement. Richli (ZBl 1995, 481) plaide pour une interprétation large qui inclut toutes les dépenses liées à la formation. Le Tribunal fédéral a opté dans l'**ATF 144 I 1** pour une voie médiane : sont couverts tous les moyens nécessaires et servant directement à l'enseignement.
 
-**N. 15** **Caractère normatif de l'art. 62, al. 3** : Un point litigieux important concerne la nature juridique de l'obligation d'enseignement spécialisé. Des voix sceptiques dans la doctrine (BSK BV, art. 62 N. 70) ne voient dans l'al. 3 qu'un mandat constitutionnel sans prétention individuelle justiciable. D'autres opinions doctrinales (BSK BV, art. 62 N. 70 ; Kälin/Künzli, in Wyttenbach/Kälin, AJP 2005, 1278) affirment un droit directement exigible de l'enfant handicapé. Le Tribunal fédéral tend vers la reconnaissance d'une prétention justiciable, mais souligne la large marge d'appréciation cantonale (**ATF 138 I 162**).
+**N. 15** **Caractère normatif de l'art. 62, al. 3**: Un point litigieux important concerne la nature juridique de l'obligation d'enseignement spécialisé. Des voix sceptiques dans la doctrine ne voient dans l'al. 3 qu'un mandat constitutionnel sans prétention individuelle justiciable. D'autres opinions doctrinales (Kälin/Künzli, in Wyttenbach/Kälin, AJP 2005, 1278) affirment un droit directement exigible de l'enfant handicapé. Le Tribunal fédéral tend vers la reconnaissance d'une prétention justiciable, mais souligne la large marge d'appréciation cantonale (**ATF 138 I 162**).
 
-**N. 16** **Rapport Confédération-cantons en matière d'harmonisation** : Ehrenzeller/Schott (BSK BV, art. 62 N. 86) soulignent la responsabilité première cantonale et voient la compétence fédérale comme ultima ratio. Biaggini (BSK BV, art. 62 N. 86) qualifie la compétence de « concurrente sous condition » et accorde à la Confédération une marge de manœuvre plus large. La pratique montre que la Confédération agit jusqu'à présent avec retenue et mise principalement sur la collaboration intercantonale (Concordat HarmoS).
+**N. 16** **Rapport Confédération-cantons en matière d'harmonisation**: Ehrenzeller/Schott soulignent la responsabilité première cantonale et voient la compétence fédérale comme ultima ratio. Biaggini qualifie la compétence de « concurrente sous condition » et accorde à la Confédération une marge de manœuvre plus large. La pratique montre que la Confédération agit jusqu'à présent avec retenue et mise principalement sur la collaboration intercantonale (Concordat HarmoS).
 
 ### 6. Indications pratiques
 

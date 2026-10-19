@@ -20,7 +20,7 @@
 
 **N. 5** **«Notwendige statistische Daten»** (Abs. 1): Der Begriff der Notwendigkeit verleiht dem Bund einen weiten Ermessensspielraum. Massgebend ist das öffentliche Interesse an der jeweiligen Erhebung (Ehrenzeller/Mastronardi/Schweizer/Vallender, St. Galler Kommentar BV, 4. Aufl. 2023, Art. 65 N 4). Die Notwendigkeit ist im Lichte der Verhältnismässigkeit zu interpretieren.
 
-**N. 6** Der Katalog der Erhebungsbereiche («Bevölkerung, Wirtschaft, Gesellschaft, Bildung, Forschung, Raum und Umwelt») ist exemplarisch, nicht abschliessend. Dies ergibt sich aus dem Wortlaut «über den Zustand und die Entwicklung von», der eine dynamische Interpretation erlaubt (BSK BV-Schweizer, 2. Aufl. 2024, Art. 65 N 7).
+**N. 6** Der Katalog der Erhebungsbereiche («Bevölkerung, Wirtschaft, Gesellschaft, Bildung, Forschung, Raum und Umwelt») ist exemplarisch, nicht abschliessend. Dies ergibt sich aus dem Wortlaut «über den Zustand und die Entwicklung von», der eine dynamische Interpretation erlaubt.
 
 **N. 7** **«Harmonisierung und Führung amtlicher Register»** (Abs. 2): Diese Kompetenz ist fakultativ («kann»). Sie zielt auf die Vermeidung von Mehrfacherhebungen und die effiziente Nutzung bestehender Datenbestände. Die Harmonisierung betrifft primär technische Standards und Definitionen, nicht den Inhalt der Register selbst (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 1234a).
 
@@ -34,7 +34,7 @@
 
 ### 5. Streitstände
 
-**N. 11** **Umfang der Bundeskompetenz**: Umstritten ist, ob Art. 65 BV eine umfassende oder nur eine auf Bundesaufgaben bezogene Statistikkompetenz verleiht. Die herrschende Lehre vertritt eine weite Auslegung, da verlässliche Statistiken für alle Staatsebenen erforderlich sind (Ehrenzeller et al., St. Galler Kommentar BV, Art. 65 N 3; a.M. Schweizer, BSK BV, Art. 65 N 5, der eine Beschränkung auf Bundesaufgaben befürwortet).
+**N. 11** **Umfang der Bundeskompetenz**: Umstritten ist, ob Art. 65 BV eine umfassende oder nur eine auf Bundesaufgaben bezogene Statistikkompetenz verleiht. Die herrschende Lehre vertritt eine weite Auslegung, da verlässliche Statistiken für alle Staatsebenen erforderlich sind (Ehrenzeller et al., St. Galler Kommentar BV, Art. 65 N 3).
 
 **N. 12** **Verhältnis zum Datenschutz**: Kontrovers diskutiert wird das Spannungsverhältnis zwischen umfassenden statistischen Erhebungen und dem Persönlichkeitsschutz. Müller/Schefer (Grundrechte in der Schweiz, 4. Aufl. 2008, S. 234) betonen den Vorrang des Datenschutzes, während Rhinow/Schefer/Uebersax (N 3656) für eine Abwägung im Einzelfall plädieren. Das Bundesgericht hat in BGer 1C_425/2020 die datenschutzrechtlichen Schranken konkretisiert.
 

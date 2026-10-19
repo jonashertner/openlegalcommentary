@@ -2,7 +2,7 @@
 
 ## Overview
 
-Art. 67 BV obliges the Confederation and the cantons to take into account the particular needs of children and young people in all their tasks. This cross-cutting task means: When the state makes laws, takes decisions or plans projects, it must always also ask how this affects persons under 18 years of age (Tschentscher, BSK BV, Art. 67 N. 3).
+Art. 67 BV obliges the Confederation and the cantons to take into account the particular needs of children and young people in all their tasks. This cross-cutting task means: When the state makes laws, takes decisions or plans projects, it must always also ask how this affects persons under 18 years of age.
 
 The provision has two parts. **Paragraph 1** prescribes this duty of consideration for all state activities. **Paragraph 2** additionally allows the Confederation to provide financial support for extracurricular youth work — but only supplementary to what the cantons already do.
 
@@ -12,6 +12,6 @@ Art. 67 BV does not establish direct entitlements for children or youth organisa
 
 **Federal support:** The Confederation may promote youth organisations or innovative projects with financial assistance. This happens through the Child and Youth Promotion Act (KJFG). The prerequisite is that the project has national significance and is limited in time (**Urteil B-6244/2020**). Regular operating costs are not covered.
 
-**Disputed legal question:** In legal doctrine, it is disputed how far the federal competence extends. Tschentscher (BSK BV, Art. 67 N. 5) sees it as a practically unlimited parallel competence, while Biaggini emphasises stronger constitutional limitations.
+**Disputed legal question:** In legal doctrine, it is disputed how far the federal competence extends. Tschentscher sees it as a practically unlimited parallel competence, while Biaggini emphasises stronger constitutional limitations.
 
 Art. 67 BV strengthens awareness that state decisions often have a particularly strong impact on the young generation. It makes these effects visible and forces explicit consideration of children's interests in politics.

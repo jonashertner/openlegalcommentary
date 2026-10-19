@@ -4,7 +4,7 @@
 
 Art. 170 BV obliges the Federal Assembly to ensure that federal government measures are reviewed for their effectiveness. This provision is a constitutional innovation of the 1999 Federal Constitution without equivalent in the old Federal Constitution of 1874 (SGK-Uhlmann/Bussmann, Art. 170 BV, N. 1).
 
-The Federal Assembly does not have to conduct the effectiveness reviews itself, but may delegate them to the Federal Council, to parliamentary auxiliary bodies, or to external bodies (BSK-Lienhard/Mächler/Marti Locher, Art. 170 BV, N. 11). In practice, Parliament fulfills this mandate primarily through evaluation clauses in laws that oblige the Federal Council to review certain measures. Currently, around 110 such clauses exist in federal law.
+The Federal Assembly does not have to conduct the effectiveness reviews itself, but may delegate them to the Federal Council, to parliamentary auxiliary bodies, or to external bodies. In practice, Parliament fulfills this mandate primarily through evaluation clauses in laws that oblige the Federal Council to review certain measures. Currently, around 110 such clauses exist in federal law.
 
 «Effectiveness» is understood in a broad sense and comprises three sub-criteria (SGK-Uhlmann/Bussmann, Art. 170 BV, N. 20 ff.): the implementation status (is the measure actually implemented?), the degree of objective achievement (does the measure achieve its objectives?), and economic efficiency (are costs and benefits in reasonable proportion?).
 

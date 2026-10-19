@@ -12,15 +12,15 @@
 
 **N. 3** L'art. 107 Cost. è collocato nel capitolo 3 «Ordinamento finanziario ed economico», il che sottolinea la dimensione di politica economica del controllo delle armi. La norma è strettamente collegata all'→ art. 54 Cost. (Affari esteri), all'→ art. 118 cpv. 2 lett. a Cost. (competenza sugli esplosivi) nonché agli → art. 184 e 185 Cost. (politica di sicurezza).
 
-**N. 4** La competenza è configurata come competenza federale completa. Diversamente dalle competenze concorrenti, qui il diritto federale esclude qualsiasi regolamentazione cantonale nell'ambito di applicazione della norma (Künzli, BSK BV, art. 107 n. 4-5). I Cantoni mantengono soltanto competenze esecutive, nella misura in cui il diritto federale le prevede.
+**N. 4** La competenza è configurata come competenza federale completa. Diversamente dalle competenze concorrenti, qui il diritto federale esclude qualsiasi regolamentazione cantonale nell'ambito di applicazione della norma. I Cantoni mantengono soltanto competenze esecutive, nella misura in cui il diritto federale le prevede.
 
 ### 3. Elementi della fattispecie / Contenuto della norma
 
 **N. 5** **Armi, accessori per armi e munizioni (cpv. 1):** Il concetto di arma comprende secondo la Legge sulle armi tutti gli apparecchi e dispositivi che possono essere utilizzati per l'attacco, la difesa, il tiro, lo sport, la caccia o per scopi che possono arrecare danno ad altri. La competenza federale si estende a tutti gli aspetti del maneggio di questi oggetti.
 
-**N. 6** **Lotta contro l'abuso (cpv. 1):** Nonostante il tenore letterale «contro l'abuso», la competenza federale non è limitata a misure repressive. Essa comprende piuttosto regolamentazioni preventive come obblighi di autorizzazione, sistemi di registrazione e prescrizioni di sicurezza (Künzli, BSK BV, art. 107 n. 8-13).
+**N. 6** **Lotta contro l'abuso (cpv. 1):** Nonostante il tenore letterale «contro l'abuso», la competenza federale non è limitata a misure repressive. Essa comprende piuttosto regolamentazioni preventive come obblighi di autorizzazione, sistemi di registrazione e prescrizioni di sicurezza.
 
-**N. 7** **Materiale bellico (cpv. 2):** Il concetto comprende armi, munizioni, apparecchi bellici e loro componenti che sono stati concepiti o modificati specificamente per la condotta della guerra o per esercitazioni militari. La definizione avviene in modo conclusivo nell'Ordinanza sul materiale bellico (Künzli, BSK BV, art. 107 n. 22-25).
+**N. 7** **Materiale bellico (cpv. 2):** Il concetto comprende armi, munizioni, apparecchi bellici e loro componenti che sono stati concepiti o modificati specificamente per la condotta della guerra o per esercitazioni militari. La definizione avviene in modo conclusivo nell'Ordinanza sul materiale bellico.
 
 ### 4. Conseguenze giuridiche
 
@@ -30,9 +30,9 @@
 
 ### 5. Questioni controverse
 
-**N. 10** **Portata della competenza federale dopo Schengen:** Una questione controversa riguarda la domanda se la Confederazione abbia ecceduto le sue competenze con il recepimento del diritto Schengen sulle armi. Singoli autori sostengono che la Confederazione abbia esaurito o addirittura ecceduto le sue competenze solo frammentarie, limitate alla lotta contro l'abuso. Künzli obietta che questa concezione appare almeno dubbia, poiché la legislazione svizzera sulle armi continua a partire dal principio del diritto all'acquisizione, possesso e porto d'armi (Künzli, BSK BV, art. 107 n. 13).
+**N. 10** **Portata della competenza federale dopo Schengen:** Una questione controversa riguarda la domanda se la Confederazione abbia ecceduto le sue competenze con il recepimento del diritto Schengen sulle armi. Singoli autori sostengono che la Confederazione abbia esaurito o addirittura ecceduto le sue competenze solo frammentarie, limitate alla lotta contro l'abuso. Künzli obietta che questa concezione appare almeno dubbia, poiché la legislazione svizzera sulle armi continua a partire dal principio del diritto all'acquisizione, possesso e porto d'armi.
 
-**N. 11** **Limitazioni del diritto di neutralità:** Si discute in modo controverso la portata delle limitazioni del diritto di neutralità nelle esportazioni private di armamenti. La posizione ufficiale della Svizzera afferma che questa limitazione vale solo per le forniture statali. Künzli critica questa posizione: Poiché oggi gli Stati sottopongono anche le esportazioni private di armamenti a un obbligo di autorizzazione e possiedono così il diritto di decisione finale sulla legittimità di un affare all'estero con armi, questa concezione non riesce più a convincere (Künzli, BSK BV, art. 107 n. 21).
+**N. 11** **Limitazioni del diritto di neutralità:** Si discute in modo controverso la portata delle limitazioni del diritto di neutralità nelle esportazioni private di armamenti. La posizione ufficiale della Svizzera afferma che questa limitazione vale solo per le forniture statali. Künzli critica questa posizione: Poiché oggi gli Stati sottopongono anche le esportazioni private di armamenti a un obbligo di autorizzazione e possiedono così il diritto di decisione finale sulla legittimità di un affare all'estero con armi, questa concezione non riesce più a convincere.
 
 ### 6. Indicazioni per la prassi
 

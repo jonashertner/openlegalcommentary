@@ -9,7 +9,7 @@ The Federal Supreme Court confirmed the SNB's authority to express its opinion p
 
 > «According to Art. 1 of the Federal Act of 3 October 2003 on the Swiss National Bank (NBA; SR 951.11), the SNB is a special-law corporation. As an independent central bank, it conducts a monetary and currency policy that serves the overall interest of the country (Art. 99 para. 2 BV). In performing its duties, the SNB is bound by fundamental rights (Art. 35 para. 2 BV).»
 
-The decision is valued in doctrine as an important contribution to specifying SNB independence, with Häner (BSK BV, Art. 99 N. 25) emphasising that institutional independence must not lead to complete isolation from democratic discourse.
+The decision is valued in doctrine as an important contribution to specifying SNB independence, with Häner emphasising that institutional independence must not lead to complete isolation from democratic discourse.
 
 ### Legal Nature and Tasks of the SNB
 
@@ -45,4 +45,4 @@ The Federal Supreme Court dismissed an appeal alleging a violation of Art. 99 BV
 **Judgment 2C_541/2010** of 27 December 2010 — VAT treatment of the SNB
 The Federal Supreme Court confirmed the VAT treatment of the SNB as a public law entity. The decision is relevant for the interpretation of Art. 99 para. 4 BV (profit distribution), as it underlines the public law nature of the SNB despite its legal form as a corporation.
 
-The Federal Supreme Court case law on Art. 99 BV is valued in doctrine as restrained but consistent. Waldmann (BSK BV, Art. 99 N. 42) emphasises that the courts respect the constitutionally intended independence of the SNB and only intervene in cases of evident legal violations.
+The Federal Supreme Court case law on Art. 99 BV is valued in doctrine as restrained but consistent. Waldmann emphasises that the courts respect the constitutionally intended independence of the SNB and only intervene in cases of evident legal violations.

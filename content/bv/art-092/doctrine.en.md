@@ -2,7 +2,7 @@
 
 ### 1. Legislative History
 
-**N. 1** The federal competence in postal services dates back to Art. 33 of the Federal Constitution of 1848, which granted the Confederation the exclusive right to establish postal services (FedGaz 1997 I 1, 336). Telecommunications were gradually integrated: in 1851, the Confederation received sovereignty over telegraphy, though the constitutional basis was disputed. The Federal Council based the telegraph system on the postal monopoly, as «communications by telegraph correspond in essence to postal correspondence» (Kern, BSK BV, Art. 92 N. 3). The parliamentary commission vehemently objected: subordinating telegraphy to the postal monopoly was like attempting to «fasten the wheel brake of a postal carriage to lightning» (Kern, BSK BV, Art. 92 N. 3).
+**N. 1** The federal competence in postal services dates back to Art. 33 of the Federal Constitution of 1848, which granted the Confederation the exclusive right to establish postal services (FedGaz 1997 I 1, 336). Telecommunications were gradually integrated: in 1851, the Confederation received sovereignty over telegraphy, though the constitutional basis was disputed. The Federal Council based the telegraph system on the postal monopoly, as «communications by telegraph correspond in essence to postal correspondence». The parliamentary commission vehemently objected: subordinating telegraphy to the postal monopoly was like attempting to «fasten the wheel brake of a postal carriage to lightning».
 
 **N. 2** The total revision of 1999 retained the proven federal competence but adapted it to changed technological and economic conditions. The constitutional drafters deliberately refrained from establishing a monopoly and thus enabled gradual market liberalisation while ensuring basic services (FedGaz 1997 I 336f.). The formulation «matter for the Confederation» signals comprehensive federal competence but leaves the specific design open.
 
@@ -18,7 +18,7 @@
 
 ### 3. Elements / Normative Content
 
-**N. 5** **«Postal and telecommunications services»** (para. 1) encompasses all services for physical and electronic communication. Postal services include the transport of letters, packages and payment transactions. The scope is disputed: Burckhardt denied the inclusion of cheque and giro transactions in the constitutional basis (Kern, BSK BV, Art. 92 N. 6). The prevailing doctrine today accepts a broad interpretation that also covers PostFinance services (Rhinow/Schefer/Uebersax, Verfassungsrecht, N 3456).
+**N. 5** **«Postal and telecommunications services»** (para. 1) encompasses all services for physical and electronic communication. Postal services include the transport of letters, packages and payment transactions. The scope is disputed: Burckhardt denied the inclusion of cheque and giro transactions in the constitutional basis. The prevailing doctrine today accepts a broad interpretation that also covers PostFinance services (Rhinow/Schefer/Uebersax, Verfassungsrecht, N 3456).
 
 **N. 6** **Telecommunications services** cover all forms of communication via electromagnetic waves or wire-bound systems. This includes telephony, internet, mobile communications and broadcast transmission (technical aspects). Content regulation of radio and television falls under Art. 93 of the Federal Constitution (Barrelet/Werly, Droit de la communication, N 1234).
 
@@ -40,7 +40,7 @@
 
 ### 5. Disputes
 
-**N. 14** **Privatisation of federal enterprises**: The admissibility of complete privatisation is disputed. Aubert/Mahon derive a privatisation prohibition from the designation as «matter for the Confederation» – the constitutional will manifests itself in maintaining state control (Kern, BSK BV, Art. 92 N. 15). Biaggini holds the opposite position: complete privatisation is permissible as long as basic service objectives can be achieved through regulation (Kern, BSK BV, Art. 92 N. 15). Practice shows a middle way: Swisscom was partially privatised, the Post remains federally owned.
+**N. 14** **Privatisation of federal enterprises**: The admissibility of complete privatisation is disputed. Aubert/Mahon derive a privatisation prohibition from the designation as «matter for the Confederation» – the constitutional will manifests itself in maintaining state control. Biaggini holds the opposite position: complete privatisation is permissible as long as basic service objectives can be achieved through regulation. Practice shows a middle way: Swisscom was partially privatised, the Post remains federally owned.
 
 **N. 15** **Scope of basic services**: The dynamic interpretation of the basic service concept leads to controversies. While Trüeb advocates a minimalist interpretation covering only essential services (Trüeb, AJP 2002, 1190), Hänni/Stöckli demand a generous interpretation accounting for technological development (Wirtschaftsverwaltungsrecht, S. 234). The Federal Supreme Court follows a mediating line (**BGE 129 III 35**).
 

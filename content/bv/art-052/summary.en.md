@@ -4,7 +4,7 @@
 
 Article 52 of the Federal Constitution governs the federal guarantee for cantonal order. This provision obliges the Confederation to protect the «constitutional order» of the cantons and empowers it to intervene if a canton can no longer maintain its order on its own.
 
-**What is the constitutional order?** According to the prevailing doctrine (Belser/Massüger, BSK BV, Art. 52 N. 7), it encompasses the entire cantonal constitutional law that has been guaranteed by the Federal Assembly. This goes far beyond mere public order. A minority opinion (Schweizer/Müller) emphasises instead primarily cantonal constitutional autonomy.
+**What is the constitutional order?** According to the prevailing doctrine, it encompasses the entire cantonal constitutional law that has been guaranteed by the Federal Assembly. This goes far beyond mere public order. A minority opinion (Schweizer/Müller) emphasises instead primarily cantonal constitutional autonomy.
 
 **Who is affected?** All 26 cantons are subject to this federal guarantee. They can turn to the Confederation in case of serious disruptions to order or must tolerate its intervention.
 

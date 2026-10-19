@@ -8,7 +8,7 @@ Art. 48a BV enables the Confederation to compel cantons to engage in intercanton
 
 **What legal effects arise?** Obliged cantons either become a contracting party (accession) or must participate in certain aspects of cooperation. The treaties remain intercantonal law and do not become federal law. This was confirmed by the Federal Court in **BGE 143 V 451**.
 
-**Legal nature:** According to disputed doctrine, Art. 48a BV is not directly applicable. Biaggini (BSK BV, Art. 48a N. 8) emphasises that the provision requires federal legislative specification. However, prevailing doctrine and practice assume direct applicability.
+**Legal nature:** According to disputed doctrine, Art. 48a BV is not directly applicable. Biaggini emphasises that the provision requires federal legislative specification. However, prevailing doctrine and practice assume direct applicability.
 
 **Point of contention:** It is disputed whether treaties not yet in force suffice. Biaggini and Zehnder answer in the affirmative for definitively negotiated treaties. Others demand already valid treaty instruments.
 

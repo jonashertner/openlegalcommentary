@@ -10,21 +10,21 @@
 
 **N. 3** Art. 84 BV steht systematisch im 3. Abschnitt des 3. Titels der Bundesverfassung, der die öffentlichen Werke und Verkehr regelt. Die Norm ist eng verknüpft mit → Art. 85 BV (Schwerverkehrsabgabe), der das zentrale finanzpolitische Instrument zur Umsetzung der Verkehrsverlagerung bildet. Weitere systematische Bezüge bestehen zu → Art. 73 ff. BV (Nachhaltigkeit und Umweltschutz), → Art. 74 BV (Umweltschutz) und → Art. 83 BV (Nationalstrassen).
 
-**N. 4** Im internationalen Kontext steht Art. 84 BV in einem Spannungsverhältnis zum Landverkehrsabkommen Schweiz–EU (SR 0.740.72), das den freien Verkehr von Gütern garantiert. Dieses Spannungsverhältnis wurde durch Art. 1 Abs. 3 des Landverkehrsabkommens entschärft, der die Ziele der schweizerischen Verkehrsverlagerungspolitik anerkennt (Epiney, BSK BV, Art. 84 N. 2).
+**N. 4** Im internationalen Kontext steht Art. 84 BV in einem Spannungsverhältnis zum Landverkehrsabkommen Schweiz–EU (SR 0.740.72), das den freien Verkehr von Gütern garantiert. Dieses Spannungsverhältnis wurde durch Art. 1 Abs. 3 des Landverkehrsabkommens entschärft, der die Ziele der schweizerischen Verkehrsverlagerungspolitik anerkennt.
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
 ### 3.1 Schutzauftrag (Abs. 1)
 
-**N. 5** Der Begriff «Alpengebiet» umfasst nach der Legaldefinition in Art. 2 STVG die Kantone Uri, Schwyz, Obwalden, Nidwalden, Glarus, Tessin, Graubünden und Wallis. Die «negativen Auswirkungen des Transitverkehrs» beinhalten Lärm-, Luftschadstoff- und CO2-Emissionen, Erschütterungen, Landschaftszerschneidung und Unfallrisiken (Epiney, BSK BV, Art. 84 N. 5).
+**N. 5** Der Begriff «Alpengebiet» umfasst nach der Legaldefinition in Art. 2 STVG die Kantone Uri, Schwyz, Obwalden, Nidwalden, Glarus, Tessin, Graubünden und Wallis. Die «negativen Auswirkungen des Transitverkehrs» beinhalten Lärm-, Luftschadstoff- und CO2-Emissionen, Erschütterungen, Landschaftszerschneidung und Unfallrisiken.
 
-**N. 6** Der Schutzauftrag verpflichtet den Bund zu aktivem Handeln. Es handelt sich nicht bloss um einen programmatischen Verfassungsauftrag, sondern um eine Pflicht des Bundes, konkrete Schutzmassnahmen zu ergreifen (Epiney, BSK BV, Art. 84 N. 7). Das «Mass, das für Menschen, Tiere und Pflanzen sowie ihre Lebensräume nicht schädlich ist», orientiert sich an den umweltrechtlichen Grenzwerten gemäss Umweltschutzgesetzgebung.
+**N. 6** Der Schutzauftrag verpflichtet den Bund zu aktivem Handeln. Es handelt sich nicht bloss um einen programmatischen Verfassungsauftrag, sondern um eine Pflicht des Bundes, konkrete Schutzmassnahmen zu ergreifen. Das «Mass, das für Menschen, Tiere und Pflanzen sowie ihre Lebensräume nicht schädlich ist», orientiert sich an den umweltrechtlichen Grenzwerten gemäss Umweltschutzgesetzgebung.
 
 ### 3.2 Verlagerungsgebot (Abs. 2)
 
-**N. 7** Das Verlagerungsgebot von Abs. 2 enthält eine klare Zielvorgabe: Der alpenquerende Gütertransitverkehr «erfolgt auf der Schiene». Dies ist nicht als absolutes Fahrverbot für Lastwagen zu verstehen, sondern als Ergebnispflicht mit verbindlichem Zielhorizont (Epiney, BSK BV, Art. 84 N. 14). Der Begriff «Gütertransitverkehr» umfasst den gewerblichen Güterverkehr, der das Alpengebiet ohne Be- oder Entladung durchquert.
+**N. 7** Das Verlagerungsgebot von Abs. 2 enthält eine klare Zielvorgabe: Der alpenquerende Gütertransitverkehr «erfolgt auf der Schiene». Dies ist nicht als absolutes Fahrverbot für Lastwagen zu verstehen, sondern als Ergebnispflicht mit verbindlichem Zielhorizont. Der Begriff «Gütertransitverkehr» umfasst den gewerblichen Güterverkehr, der das Alpengebiet ohne Be- oder Entladung durchquert.
 
-**N. 8** Die «notwendigen Massnahmen» des Bundesrats umfassen ein Bündel von Instrumenten: die leistungsabhängige Schwerverkehrsabgabe (LSVA) gemäss → Art. 85 BV, Nacht- und Sonntagsfahrverbote, die Förderung des kombinierten Verkehrs und den Ausbau der Schieneninfrastruktur (NEAT). Der Bundesrat und das Parlament sehen die LSVA in Kombination mit anderen Massnahmen als geeignetes Instrument zur Umsetzung des Verlagerungsziels (Epiney, BSK BV, Art. 84 N. 14).
+**N. 8** Die «notwendigen Massnahmen» des Bundesrats umfassen ein Bündel von Instrumenten: die leistungsabhängige Schwerverkehrsabgabe (LSVA) gemäss → Art. 85 BV, Nacht- und Sonntagsfahrverbote, die Förderung des kombinierten Verkehrs und den Ausbau der Schieneninfrastruktur (NEAT). Der Bundesrat und das Parlament sehen die LSVA in Kombination mit anderen Massnahmen als geeignetes Instrument zur Umsetzung des Verlagerungsziels.
 
 **N. 9** Ausnahmen vom Verlagerungsgebot sind nur zulässig, wenn sie «unumgänglich» sind. Dieser Begriff ist restriktiv auszulegen und umfasst nur Transporte, die technisch oder aus Sicherheitsgründen nicht auf der Schiene durchgeführt werden können. Die nähere Bestimmung durch Gesetz erfolgte im GVVG und STVG.
 
@@ -32,7 +32,7 @@
 
 **N. 10** Das Verbot der Kapazitätserhöhung ist absolut formuliert und duldet nur die explizit genannte Ausnahme der Umfahrungsstrassen. Der Begriff «Transitstrassen-Kapazität» bezieht sich auf die maximale Verkehrsmenge, die eine Strasseninfrastruktur bewältigen kann.
 
-**N. 11** Die Auslegung des Kapazitätsbegriffs ist umstritten. Kern argumentiert, dass bereits der Bau einer zweiten Gotthardstrassentunnelröhre gegen Art. 84 Abs. 3 BV verstösst, da eine Kapazitätserhöhung als solche vorliegt (Epiney, BSK BV, Art. 84 N. 27-28). Demgegenüber vertreten Bundesrat und Parlament die Position, dass der Bau einer zweiten Röhre zulässig ist, wenn sie nur einspurig befahren wird und somit keine tatsächliche Kapazitätserhöhung erfolgt (Epiney, BSK BV, Art. 84 N. 28).
+**N. 11** Die Auslegung des Kapazitätsbegriffs ist umstritten. Kern argumentiert, dass bereits der Bau einer zweiten Gotthardstrassentunnelröhre gegen Art. 84 Abs. 3 BV verstösst, da eine Kapazitätserhöhung als solche vorliegt. Demgegenüber vertreten Bundesrat und Parlament die Position, dass der Bau einer zweiten Röhre zulässig ist, wenn sie nur einspurig befahren wird und somit keine tatsächliche Kapazitätserhöhung erfolgt.
 
 ## 4. Rechtsfolgen
 

@@ -10,7 +10,7 @@
 
 **N. 3** L'art. 95 Cost. costituisce il fulcro delle competenze economiche federali. È strettamente correlato alla libertà economica (→ art. 27 Cost.) e ai principi dell'ordinamento economico (→ art. 94 Cost.). Mentre l'art. 27 Cost. garantisce il diritto fondamentale individuale alla libera attività economica, l'art. 95 Cost. autorizza la Confederazione a regolamentare questa libertà.
 
-**N. 4** La norma va distinta dalle specifiche competenze economiche della Confederazione (→ artt. 96-98 Cost.) nonché dalle competenze cantonali nell'ambito dell'ordine pubblico e della sicurezza. Felix Uhlmann sottolinea che alla Confederazione spetta la facoltà di «determinare autonomamente il concetto di attività privata e di non seguire rigorosamente le limitazioni del diritto fondamentale secondo la giurisprudenza del Tribunale federale» (Uhlmann, BSK BV, Art. 95 N. 4).
+**N. 4** La norma va distinta dalle specifiche competenze economiche della Confederazione (→ artt. 96-98 Cost.) nonché dalle competenze cantonali nell'ambito dell'ordine pubblico e della sicurezza. Felix Uhlmann sottolinea che alla Confederazione spetta la facoltà di «determinare autonomamente il concetto di attività privata e di non seguire rigorosamente le limitazioni del diritto fondamentale secondo la giurisprudenza del Tribunale federale».
 
 ## 3. Elementi costitutivi / Contenuto normativo
 
@@ -18,7 +18,7 @@
 
 **N. 5** Il concetto di attività lucrativa privata comprende ogni attività di soggetti economici privati diretta al profitto o al reddito da lavoro. Il Tribunale federale ha confermato nella giurisprudenza costante che vi rientra «ogni attività di carattere commerciale esercitata privatamente», indipendentemente dal settore specifico o dal tipo di professione (**DTF 125 I 276** consid. 6a).
 
-**N. 6** La competenza federale è globale, ma non illimitata. È sottoposta ai principi costituzionali, in particolare alla proporzionalità (→ art. 5 cpv. 2 Cost.) e al divieto dell'arbitrio (→ art. 9 Cost.). Uhlmann rileva che una competenza federale per la regolamentazione dei cani da combattimento è stata «giustamente negata», «dato che al centro sta la detenzione privata (non di carattere lucrativo privato) dei cani» (Uhlmann, BSK BV, Art. 95 N. 15).
+**N. 6** La competenza federale è globale, ma non illimitata. È sottoposta ai principi costituzionali, in particolare alla proporzionalità (→ art. 5 cpv. 2 Cost.) e al divieto dell'arbitrio (→ art. 9 Cost.). Uhlmann rileva che una competenza federale per la regolamentazione dei cani da combattimento è stata «giustamente negata», «dato che al centro sta la detenzione privata (non di carattere lucrativo privato) dei cani».
 
 ### 3.2 Spazio economico unitario (cpv. 2)
 
@@ -30,7 +30,7 @@
 
 **N. 9** Le disposizioni dettagliate del cpv. 3 si rivolgono esclusivamente alle «società anonime svizzere quotate in borsa in patria o all'estero». Il testo costituzionale contiene disposizioni materiali vincolanti per la retribuzione e l'elezione dei membri degli organi nonché un mandato di diritto penale.
 
-**N. 10** La formulazione come «principi» non significa secondo Uhlmann che al legislatore spetti un ampio margine di manovra. Si tratta piuttosto di «disposizioni molto dettagliate», laddove «la validità assoluta e l'impossibilità di ponderazione di una norma costituzionale non sono da assumere alla leggera» (Uhlmann, BSK BV, Art. 95 N. 25).
+**N. 10** La formulazione come «principi» non significa secondo Uhlmann che al legislatore spetti un ampio margine di manovra. Si tratta piuttosto di «disposizioni molto dettagliate», laddove «la validità assoluta e l'impossibilità di ponderazione di una norma costituzionale non sono da assumere alla leggera».
 
 ## 4. Conseguenze giuridiche
 
@@ -38,7 +38,7 @@
 
 **N. 12** Il cpv. 2 fonda un obbligo di agire della Confederazione («essa provvede») e un diritto soggettivo all'esercizio della professione in tutto il territorio nazionale per i titolari dei diplomi menzionati. Le limitazioni cantonali dell'ammissione sono ammissibili soltanto nella misura in cui sono giustificate da interessi pubblici preponderanti e proporzionate.
 
-**N. 13** Le disposizioni del cpv. 3 sono direttamente applicabili e obbligano il legislatore all'attuazione letterale. Secondo i materiali, il Consiglio federale ha optato «per un'attuazione 'il più possibile letterale' dell'iniziativa» (citato in Uhlmann, BSK BV, Art. 95 N. 53). In caso di violazione delle disposizioni sono minacciate pene detentive fino a tre anni.
+**N. 13** Le disposizioni del cpv. 3 sono direttamente applicabili e obbligano il legislatore all'attuazione letterale. Secondo i materiali, il Consiglio federale ha optato «per un'attuazione 'il più possibile letterale' dell'iniziativa». In caso di violazione delle disposizioni sono minacciate pene detentive fino a tre anni.
 
 ## 5. Controversie
 

@@ -11,7 +11,7 @@ Art. 158 Cst. is found in Chapter 5 of the Federal Constitution on the federal a
 ↔ Art. 47 ParlA, which regulates the confidentiality of committee deliberations
 
 **N. 3** **Elements of the offence / Content of the norm**
-The term «sessions» encompasses, according to prevailing doctrine (Ehrenzeller/Schindler/Schweizer/Vallender, St. Gallen Commentary on the Cst., 4th ed. 2023, Art. 158 N. 3), exclusively the plenary sessions of the National Council and Council of States. «Public access» means free access for the public and media to the council chambers during deliberations. The term «Councils» refers to both chambers of the Federal Assembly, but not to their committees or other bodies (Waldmann/Belser/Epiney, BSK Cst., 2nd ed. 2024, Art. 158 N. 5).
+The term «sessions» encompasses, according to prevailing doctrine (Ehrenzeller/Schindler/Schweizer/Vallender, St. Gallen Commentary on the Cst., 4th ed. 2023, Art. 158 N. 3), exclusively the plenary sessions of the National Council and Council of States. «Public access» means free access for the public and media to the council chambers during deliberations. The term «Councils» refers to both chambers of the Federal Assembly, but not to their committees or other bodies.
 
 **N. 4** **Legal consequences**
 The principle of public access establishes a constitutional right to access council sessions. The practical implementation is carried out through the rules of procedure of the councils (Art. 15 RCS, Art. 20 RCN). Violations of public access can lead to the invalidity of decisions, provided that public access was not excluded in accordance with the law (Häfelin/Haller/Keller/Thurnherr, Swiss Federal Constitutional Law, 10th ed. 2020, N. 1789).

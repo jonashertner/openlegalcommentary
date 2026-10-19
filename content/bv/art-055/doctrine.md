@@ -4,7 +4,7 @@
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Art. 55 BV stellt eine bedeutende Neuerung der Totalrevision von 1999 dar. Unter der Bundesverfassung von 1874 besass der Bund nach herrschender Auffassung (Burckhardt/Hangartner/Schindler) eine umfassende Kompetenz zum Abschluss völkerrechtlicher Verträge, die sich auch auf innerstaatlich kantonale Gesetzgebungsbereiche erstreckte (Waldmann, BSK BV, Art. 55 N. 1). Fleiner vertrat demgegenüber eine föderalistische Auffassung, welche diese umfassende Bundeskompetenz in auswärtigen Angelegenheiten bestritt (Waldmann, BSK BV, Art. 55 N. 1).
+**N. 1** Art. 55 BV stellt eine bedeutende Neuerung der Totalrevision von 1999 dar. Unter der Bundesverfassung von 1874 besass der Bund nach herrschender Auffassung (Burckhardt/Hangartner/Schindler) eine umfassende Kompetenz zum Abschluss völkerrechtlicher Verträge, die sich auch auf innerstaatlich kantonale Gesetzgebungsbereiche erstreckte. Fleiner vertrat demgegenüber eine föderalistische Auffassung, welche diese umfassende Bundeskompetenz in auswärtigen Angelegenheiten bestritt.
 
 **N. 2** Die Bundesverfassung von 1999 verankerte erstmals ausdrückliche Mitwirkungsrechte der Kantone in der Aussenpolitik. Die Botschaft zur neuen Bundesverfassung betont, dass die Kantone verstärkt in die Vorbereitung aussenpolitischer Entscheide einbezogen werden sollen, wenn ihre Zuständigkeiten oder wesentlichen Interessen betroffen sind (BBl 1997 I 1, 240 f.). Diese verfassungsrechtliche Verankerung anerkennt die zunehmende Verflechtung von Aussen- und Innenpolitik und trägt dem Umstand Rechnung, dass völkerrechtliche Verpflichtungen vermehrt kantonale Kompetenzbereiche tangieren.
 
@@ -16,11 +16,11 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 5** Die Mitwirkung nach Abs. 1 setzt zwei kumulative Tatbestandsmerkmale voraus: Die aussenpolitischen Entscheide müssen (1) kantonale Zuständigkeiten oder (2) wesentliche kantonale Interessen betreffen. Kantonale Zuständigkeiten umfassen alle Bereiche, in denen die Kantone über Gesetzgebungs-, Vollzugs- oder Organisationskompetenzen verfügen (Waldmann, BSK BV, Art. 55 N. 18-19). Wesentliche Interessen gehen darüber hinaus und erfassen bedeutsame wirtschaftliche, gesellschaftliche oder politische Anliegen der Kantone (Waldmann, BSK BV, Art. 55 N. 20-21).
+**N. 5** Die Mitwirkung nach Abs. 1 setzt zwei kumulative Tatbestandsmerkmale voraus: Die aussenpolitischen Entscheide müssen (1) kantonale Zuständigkeiten oder (2) wesentliche kantonale Interessen betreffen. Kantonale Zuständigkeiten umfassen alle Bereiche, in denen die Kantone über Gesetzgebungs-, Vollzugs- oder Organisationskompetenzen verfügen. Wesentliche Interessen gehen darüber hinaus und erfassen bedeutsame wirtschaftliche, gesellschaftliche oder politische Anliegen der Kantone.
 
-**N. 6** Die Informationspflicht nach Abs. 2 konkretisiert sich in zwei Elementen: Der Bund muss (1) rechtzeitig und (2) umfassend informieren. «Rechtzeitig» bedeutet, dass die Information so früh erfolgen muss, dass eine substantielle Stellungnahme der Kantone noch möglich ist und in den Entscheidungsprozess einfliessen kann (Waldmann, BSK BV, Art. 55 N. 35). «Umfassend» verlangt die Mitteilung aller für eine fundierte Stellungnahme erforderlichen Informationen (Waldmann, BSK BV, Art. 55 N. 36).
+**N. 6** Die Informationspflicht nach Abs. 2 konkretisiert sich in zwei Elementen: Der Bund muss (1) rechtzeitig und (2) umfassend informieren. «Rechtzeitig» bedeutet, dass die Information so früh erfolgen muss, dass eine substantielle Stellungnahme der Kantone noch möglich ist und in den Entscheidungsprozess einfliessen kann. «Umfassend» verlangt die Mitteilung aller für eine fundierte Stellungnahme erforderlichen Informationen.
 
-**N. 7** Das «besondere Gewicht» der kantonalen Stellungnahmen nach Abs. 3 stellt eine qualifizierte Berücksichtigungspflicht dar. Waldmann vertritt die Position, dass dies als Rechtspflicht zu verstehen sei und ein Abweichen von einer einheitlichen kantonalen Stellungnahme nur aus überwiegenden aussenpolitischen Gründen zulässig wäre (Waldmann, BSK BV, Art. 55 N. 43). Die Mitwirkung an internationalen Verhandlungen erfolgt «in geeigneter Weise», was flexible, der jeweiligen Verhandlungssituation angepasste Beteiligungsformen ermöglicht (Waldmann, BSK BV, Art. 55 N. 44-45).
+**N. 7** Das «besondere Gewicht» der kantonalen Stellungnahmen nach Abs. 3 stellt eine qualifizierte Berücksichtigungspflicht dar. Waldmann vertritt die Position, dass dies als Rechtspflicht zu verstehen sei und ein Abweichen von einer einheitlichen kantonalen Stellungnahme nur aus überwiegenden aussenpolitischen Gründen zulässig wäre. Die Mitwirkung an internationalen Verhandlungen erfolgt «in geeigneter Weise», was flexible, der jeweiligen Verhandlungssituation angepasste Beteiligungsformen ermöglicht.
 
 ### 4. Rechtsfolgen
 
@@ -30,9 +30,9 @@
 
 ### 5. Streitstände
 
-**N. 10** Die Rechtsnatur der Mitwirkungsrechte ist umstritten. Waldmann qualifiziert die Pflicht zur besonderen Gewichtung kantonaler Stellungnahmen als durchsetzbare Rechtspflicht (Waldmann, BSK BV, Art. 55 N. 43). Andere Autoren betonen den primär politischen Charakter der Norm und sehen die Durchsetzung hauptsächlich im politischen Prozess verortet (Ehrenzeller, Aussenpolitische Handlungsfähigkeit und Verfassung, FS Steinberger, 2002, 163 ff.).
+**N. 10** Die Rechtsnatur der Mitwirkungsrechte ist umstritten. Waldmann qualifiziert die Pflicht zur besonderen Gewichtung kantonaler Stellungnahmen als durchsetzbare Rechtspflicht. Andere Autoren betonen den primär politischen Charakter der Norm und sehen die Durchsetzung hauptsächlich im politischen Prozess verortet (Ehrenzeller, Aussenpolitische Handlungsfähigkeit und Verfassung, FS Steinberger, 2002, 163 ff.).
 
-**N. 11** Kontrovers diskutiert wird auch die Frage, ob die bestehenden Mitwirkungsinstrumente bei einer qualitativen Fortentwicklung der internationalen Beziehungen der Schweiz noch genügen. Der Bundesrat sieht derzeit keinen Änderungsbedarf und setzt auf Dialog und intensivierte Zusammenarbeit im bestehenden Rahmen (Waldmann, BSK BV, Art. 55 N. 8). Waldmann plädiert demgegenüber für eine kontinuierliche Überprüfung der Mitwirkungsinstrumente bei jeder Etappe der aussenpolitischen Entwicklung (Waldmann, BSK BV, Art. 55 N. 8).
+**N. 11** Kontrovers diskutiert wird auch die Frage, ob die bestehenden Mitwirkungsinstrumente bei einer qualitativen Fortentwicklung der internationalen Beziehungen der Schweiz noch genügen. Der Bundesrat sieht derzeit keinen Änderungsbedarf und setzt auf Dialog und intensivierte Zusammenarbeit im bestehenden Rahmen. Waldmann plädiert demgegenüber für eine kontinuierliche Überprüfung der Mitwirkungsinstrumente bei jeder Etappe der aussenpolitischen Entwicklung.
 
 ### 6. Praxishinweise
 

@@ -4,9 +4,9 @@
 
 Artikel 40 der Bundesverfassung regelt die Beziehungen zwischen der Schweiz und ihren Bürgern im Ausland. Der Bund erhält dadurch eine doppelte Aufgabe: Er soll die Verbindungen der Auslandschweizer untereinander und zur Heimat fördern. Ausserdem muss er Gesetze erlassen, die ihre Rechte und Pflichten regeln.
 
-Als Auslandschweizer gelten nach der Rechtslehre Personen, die dauerhaft im Ausland leben und die Schweizer Staatsangehörigkeit besitzen (Tschannen, BSK BV, Art. 40 N. 4). Kurze Auslandaufenthalte wie Ferien oder Geschäftsreisen fallen nicht darunter.
+Als Auslandschweizer gelten nach der Rechtslehre Personen, die dauerhaft im Ausland leben und die Schweizer Staatsangehörigkeit besitzen. Kurze Auslandaufenthalte wie Ferien oder Geschäftsreisen fallen nicht darunter.
 
-Der Artikel schafft eine wichtige Bundeskompetenz (Tschannen, BSK BV, Art. 40 N. 3). Normalerweise sind die Kantone für die Betreuung ihrer Bürger zuständig. Bei Auslandschweizern ist aber der Bund verantwortlich, weil nur er über die nötigen diplomatischen Verbindungen verfügt.
+Der Artikel schafft eine wichtige Bundeskompetenz. Normalerweise sind die Kantone für die Betreuung ihrer Bürger zuständig. Bei Auslandschweizern ist aber der Bund verantwortlich, weil nur er über die nötigen diplomatischen Verbindungen verfügt.
 
 Der Bund kann Organisationen unterstützen, die Auslandschweizer betreuen. Zum Beispiel fördert er die Auslandschweizerorganisation (ASO), die als Dachverband für über 750 Schweizer Vereine im Ausland fungiert. Einzelne Personen haben aber keinen Anspruch auf staatliche Unterstützung.
 

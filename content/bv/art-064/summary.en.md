@@ -10,4 +10,4 @@ Art. 64 Federal Constitution gives the Confederation the competence to promote s
 
 **Example**: A biologist applies to the SNSF for 200,000 francs for a cancer study. A peer-review process examines the scientific quality. Upon positive assessment, he receives funding for three years.
 
-**Point of controversy**: In legal doctrine, it is disputed whether «scientific» refers only to methodological standards (Borghi, BSK BV, Art. 64 N. 39) or represents a quality criterion (Gruber, BSK BV, Art. 64 N. 42).
+**Point of controversy**: In legal doctrine, it is disputed whether «scientific» refers only to methodological standards or represents a quality criterion.

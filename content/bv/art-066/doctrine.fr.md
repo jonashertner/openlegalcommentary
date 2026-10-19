@@ -6,9 +6,9 @@
 
 **N. 1** L'art. 66 Cst. trouve ses racines dans l'art. 27quater de l'ancienne Constitution fédérale, inséré en 1963. Cette disposition a été créée en réponse aux défis de la politique éducative de l'après-guerre, notamment le « choc Spoutnik » (Stirnimann, Vom Sputnik-Schock zum Stipendienkonkordat, 2010). La révision des articles sur l'éducation de 2006, entrée en vigueur le 21 mai 2006, a donné la version actuelle de l'art. 66 Cst.
 
-**N. 2** Les délibérations parlementaires ont montré la tension entre les besoins d'harmonisation et la souveraineté cantonale en matière d'éducation. Le message du 22 novembre 2005 (FF 2005 6793) soulignait que la réglementation du système de bourses devait rester principalement une tâche cantonale, tandis que la Confédération n'interviendrait qu'à titre subsidiaire. Cette orientation fédéraliste fondamentale marque encore aujourd'hui la norme (Hänni, BSK BV, art. 66 n. 1).
+**N. 2** Les délibérations parlementaires ont montré la tension entre les besoins d'harmonisation et la souveraineté cantonale en matière d'éducation. Le message du 22 novembre 2005 (FF 2005 6793) soulignait que la réglementation du système de bourses devait rester principalement une tâche cantonale, tandis que la Confédération n'interviendrait qu'à titre subsidiaire. Cette orientation fédéraliste fondamentale marque encore aujourd'hui la norme.
 
-**N. 3** L'initiative sur les bourses d'études de l'Union des étudiant-e-s de Suisse (UNES), déposée le 20 janvier 2012, réclamait une centralisation des compétences au niveau fédéral. Le Conseil fédéral et le Parlement l'ont rejetée, arguant que l'harmonisation cantonale déjà bien avancée par le concordat sur les bourses d'études était la bonne voie (Hänni, BSK BV, art. 66 n. 6). L'initiative a été rejetée le 14 juin 2015 par 72,5% de votes négatifs.
+**N. 3** L'initiative sur les bourses d'études de l'Union des étudiant-e-s de Suisse (UNES), déposée le 20 janvier 2012, réclamait une centralisation des compétences au niveau fédéral. Le Conseil fédéral et le Parlement l'ont rejetée, arguant que l'harmonisation cantonale déjà bien avancée par le concordat sur les bourses d'études était la bonne voie. L'initiative a été rejetée le 14 juin 2015 par 72,5% de votes négatifs.
 
 ### 2. Classification systématique
 
@@ -20,13 +20,13 @@
 
 ### 3. Éléments constitutifs / Contenu normatif
 
-**N. 7** **Al. 1 phrase 1 : Compétence de soutien non autonome.** La Confédération « peut » allouer des contributions — la formulation « peut » fonde une compétence fédérale facultative (Hänni, BSK BV, art. 66 n. 7). Les contributions sont versées « aux » dépenses cantonales, non directement aux étudiants. Ceci souligne le caractère subsidiaire du soutien fédéral.
+**N. 7** **Al. 1 phrase 1: Compétence de soutien non autonome.** La Confédération « peut » allouer des contributions — la formulation « peut » fonde une compétence fédérale facultative. Les contributions sont versées « aux » dépenses cantonales, non directement aux étudiants. Ceci souligne le caractère subsidiaire du soutien fédéral.
 
-**N. 8** Le terme « contributions de formation » comprend les bourses (prestations non remboursables) et les prêts (prestations remboursables). « Hautes écoles » désigne les hautes écoles universitaires, les hautes écoles spécialisées et les hautes écoles pédagogiques. « Autres institutions du degré tertiaire » couvre la formation professionnelle supérieure (Hänni, BSK BV, art. 66 n. 8).
+**N. 8** Le terme « contributions de formation » comprend les bourses (prestations non remboursables) et les prêts (prestations remboursables). « Hautes écoles » désigne les hautes écoles universitaires, les hautes écoles spécialisées et les hautes écoles pédagogiques. « Autres institutions du degré tertiaire » couvre la formation professionnelle supérieure.
 
-**N. 9** **Al. 1 phrase 2 : Compétence d'harmonisation.** La Confédération peut encourager « l'harmonisation intercantonale » et fixer des « principes ». Cette compétence est plus large que la pure compétence de contribution et permet à la Confédération d'influencer l'unification du droit (Hänni, BSK BV, art. 66 n. 10). Les principes peuvent comprendre des standards minimaux pour l'admissibilité, le calcul et la procédure.
+**N. 9** **Al. 1 phrase 2: Compétence d'harmonisation.** La Confédération peut encourager « l'harmonisation intercantonale » et fixer des « principes ». Cette compétence est plus large que la pure compétence de contribution et permet à la Confédération d'influencer l'unification du droit. Les principes peuvent comprendre des standards minimaux pour l'admissibilité, le calcul et la procédure.
 
-**N. 10** **Al. 2 : Compétence de soutien autonome.** « En complément » signale la subsidiarité, « dans le respect de la souveraineté cantonale » pose des limites claires. La Confédération peut développer ses propres programmes, mais pas en concurrence avec les cantons. Des exemples sont les contributions d'excellence ou des programmes spécifiques de mobilité (Hänni, BSK BV, art. 66 n. 12).
+**N. 10** **Al. 2: Compétence de soutien autonome.** « En complément » signale la subsidiarité, « dans le respect de la souveraineté cantonale » pose des limites claires. La Confédération peut développer ses propres programmes, mais pas en concurrence avec les cantons. Des exemples sont les contributions d'excellence ou des programmes spécifiques de mobilité.
 
 ### 4. Effets juridiques
 
@@ -38,9 +38,9 @@
 
 ### 5. Points litigieux
 
-**N. 14** **Portée de la compétence d'harmonisation :** La doctrine dominante (Hänni, BSK BV, art. 66 n. 11 ; Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, n. 3456) voit dans l'art. 66 al. 1 phrase 2 Cst. une compétence limitée pour prescrire des standards minimaux. Une opinion minoritaire (représentée par les organisations étudiantes) plaidait pour une compétence d'unification plus étendue de la Confédération — cette position a cependant été rejetée avec le refus de l'initiative sur les bourses en 2015.
+**N. 14** **Portée de la compétence d'harmonisation :** La doctrine dominante (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, n. 3456) voit dans l'art. 66 al. 1 phrase 2 Cst. une compétence limitée pour prescrire des standards minimaux. Une opinion minoritaire (représentée par les organisations étudiantes) plaidait pour une compétence d'unification plus étendue de la Confédération — cette position a cependant été rejetée avec le refus de l'initiative sur les bourses en 2015.
 
-**N. 15** **Rapport de l'al. 1 à l'al. 2 :** Le rapport entre les deux alinéas est controversé. Tandis que Hänni (BSK BV, art. 66 n. 12) voit une séparation claire entre le soutien indirect (al. 1) et le soutien direct (al. 2), d'autres auteurs (Aubert, Zum Bildungswesen, in: Müller/Feller, Bernisches Verwaltungsrecht, p. 245 ss) défendent un lien plus étroit. La pratique montre que la Confédération utilise sa compétence selon l'al. 2 avec beaucoup de retenue.
+**N. 15** **Rapport de l'al. 1 à l'al. 2 :** Le rapport entre les deux alinéas est controversé. Tandis que Hänni voit une séparation claire entre le soutien indirect (al. 1) et le soutien direct (al. 2), d'autres auteurs (Aubert, Zum Bildungswesen, in: Müller/Feller, Bernisches Verwaltungsrecht, p. 245 ss) défendent un lien plus étroit. La pratique montre que la Confédération utilise sa compétence selon l'al. 2 avec beaucoup de retenue.
 
 **N. 16** **Concordat sur les bourses et droit constitutionnel :** Le concordat intercantonal du 18 juin 2009 soulève des questions sur son admissibilité constitutionnelle. Guery (Stipendienrecht: im Tauziehen zwischen Bildungs-, Sozial- und Finanzpolitik, recht 2012, 16 ss) y voit une mise en œuvre exemplaire du fédéralisme coopératif. Des voix critiques déplorent l'harmonisation incomplète et réclament une compétence fédérale plus étendue.
 

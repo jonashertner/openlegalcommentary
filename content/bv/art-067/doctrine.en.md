@@ -19,7 +19,7 @@
 
 ### 3. Elements of the Offence / Normative Content
 
-**N. 5** **Paragraph 1** establishes a cross-cutting task: the Confederation and cantons must take account of the particular requirements of children and young people for encouragement and protection in all their activities. This obligation applies comprehensively to all state activities, from legislation through legal application to factual administrative activity (Tschentscher, BSK BV, Art. 67 N. 3).
+**N. 5** **Paragraph 1** establishes a cross-cutting task: the Confederation and cantons must take account of the particular requirements of children and young people for encouragement and protection in all their activities. This obligation applies comprehensively to all state activities, from legislation through legal application to factual administrative activity.
 
 **N. 6** The term «children and young people» encompasses persons up to the age of 18, in accordance with Art. 1 of the UN Convention on the Rights of the Child. The «particular requirements for encouragement and protection» arise from the developmental vulnerability and special potential of this age group.
 
@@ -37,7 +37,7 @@
 
 ### 5. Disputed Issues
 
-**N. 12** **Scope of federal competence**: There is academic dispute about how far federal competence under Art. 67 para. 2 Cst. extends. Tschentscher (BSK BV, Art. 67 N. 5) takes the view that the Confederation has a prerogative of assessment as to when and how a «supplement» is appropriate, whereby federal competence essentially becomes an unrestricted parallel competence. Aubert/Mahon (Petit commentaire, Art. 67 N. 8) and Gerber Jenni (SG-Komm. BV, Art. 67 N. 14) agree with this interpretation. Biaggini (Komm. BV, Art. 67 N. 3) takes a different view and places greater emphasis on the constitutional limits of federal competence.
+**N. 12** **Scope of federal competence**: There is academic dispute about how far federal competence under Art. 67 para. 2 Cst. extends. Tschentscher takes the view that the Confederation has a prerogative of assessment as to when and how a «supplement» is appropriate, whereby federal competence essentially becomes an unrestricted parallel competence. Aubert/Mahon (Petit commentaire, Art. 67 N. 8) and Gerber Jenni (SG-Komm. BV, Art. 67 N. 14) agree with this interpretation. Biaggini (Komm. BV, Art. 67 N. 3) takes a different view and places greater emphasis on the constitutional limits of federal competence.
 
 **N. 13** **Justiciability of the cross-cutting clause**: There is disagreement about the extent to which Art. 67 para. 1 Cst. is justiciable. While case law treats the norm primarily as a programme provision, parts of the academic literature call for stronger judicial enforceability of the obligation of consideration, particularly in cases of serious impairment of children's interests (Wyttenbach, in: Schweizerische Kinder- und Jugendpolitik, 2001, pp. 45 ff.).
 

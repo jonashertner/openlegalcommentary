@@ -68,7 +68,7 @@
 
 **N. 13** L'admissibilité de lois d'espèce est également discutée de manière controversée. Häfelin/Haller/Keller/Thurnherr (op. cit., N 1851) reconnaissent leur admissibilité dans des cas exceptionnels, tandis que Biaggini (BV-Kommentar, 2e éd. 2017, art. 163 N 4) est plus restrictif et met en garde contre le risque de contournement de la séparation des pouvoirs.
 
-**N. 14** Concernant les ordonnances parlementaires, il existe un désaccord sur leur champ d'application. Ehrenzeller (in: St. Galler Kommentar BV, 4e éd. 2023, art. 163 N 15) les voit limitées aux cas d'urgence, tandis que Waldmann (in: BSK BV, 2e éd. 2024, art. 163 N 22) reconnaît aussi d'autres cas prévus par la loi.
+**N. 14** Concernant les ordonnances parlementaires, il existe un désaccord sur leur champ d'application. Ehrenzeller (in: St. Galler Kommentar BV, 4e éd. 2023, art. 163 N 15) les voit limitées aux cas d'urgence, tandis que Waldmann reconnaît aussi d'autres cas prévus par la loi.
 
 ## Conseils pratiques
 

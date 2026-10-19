@@ -2,9 +2,9 @@
 
 ### 1. Legislative History
 
-**N. 1** Art. 151 FC continues the tradition of parliamentary sessions that applied under Art. 75 FC 1848 and Art. 86 FC 1874. The Message on a New Federal Constitution of 20 November 1996 (BBl 1997 I 1) emphasises that the provision was deliberately designed to be flexible, leaving the legislature scope for concrete implementation. The constitutional revision refrained from detailed requirements on the number and duration of sessions in order to meet future parliamentary needs (Thurnherr, BSK BV, Art. 151 N. 1).
+**N. 1** Art. 151 FC continues the tradition of parliamentary sessions that applied under Art. 75 FC 1848 and Art. 86 FC 1874. The Message on a New Federal Constitution of 20 November 1996 (BBl 1997 I 1) emphasises that the provision was deliberately designed to be flexible, leaving the legislature scope for concrete implementation. The constitutional revision refrained from detailed requirements on the number and duration of sessions in order to meet future parliamentary needs.
 
-**N. 2** The right to convene extraordinary sessions (para. 2) was modernised compared to the old constitutional law. Whereas Art. 23 para. 8 FC 1874 still provided for a right of convocation for five cantons, Aubert describes this regulation as a «misguided symmetrical provision» (Thurnherr, BSK BV, Art. 151 N. 13). The new Constitution restricts the right to convene to one quarter of the council members or the Federal Council, which better corresponds to parliamentary reality.
+**N. 2** The right to convene extraordinary sessions (para. 2) was modernised compared to the old constitutional law. Whereas Art. 23 para. 8 FC 1874 still provided for a right of convocation for five cantons, Aubert describes this regulation as a «misguided symmetrical provision». The new Constitution restricts the right to convene to one quarter of the council members or the Federal Council, which better corresponds to parliamentary reality.
 
 ### 2. Systematic Classification
 
@@ -14,7 +14,7 @@
 - → Art. 163 para. 2 FC (Quorum for capacity to pass resolutions)
 - → Art. 185 para. 4 FC (Reporting by the Federal Council)
 
-**N. 4** According to Biaggini, the bicameral system requires «the material equivalence of both councils, not the formal identity of the procedure of both councils» (Thurnherr, BSK BV, Art. 151 N. 3). Art. 151 FC concretises this principle by having both councils convene for the same sessions but deliberate separately.
+**N. 4** According to Biaggini, the bicameral system requires «the material equivalence of both councils, not the formal identity of the procedure of both councils». Art. 151 FC concretises this principle by having both councils convene for the same sessions but deliberate separately.
 
 ### 3. Elements of the Legal Norm / Normative Content
 
@@ -26,7 +26,7 @@
 - One quarter of the members of a council (50 of 200 National Councillors or 12 of 46 Council of States members)
 - The Federal Council as a collegiate body
 
-The request must relate to the convening of the «councils» (plural). An extraordinary session of only one council is not constitutionally provided for (Thurnherr, BSK BV, Art. 151 N. 11-12).
+The request must relate to the convening of the «councils» (plural). An extraordinary session of only one council is not constitutionally provided for.
 
 ### 4. Legal Consequences
 
@@ -36,7 +36,7 @@ The request must relate to the convening of the «councils» (plural). An extrao
 
 ### 5. Points of Contention
 
-**N. 10** **Place of assembly**: While the Constitution does not specify a place of assembly, Art. 33d para. 1 lit. b SRO provides that the bureaux may determine a venue other than Bern «in special situations». The doctrine agrees that the Federal Assembly does not necessarily have to meet in Bern, although practical considerations speak for the parliamentary seat in the federal city (Thurnherr, BSK BV, Art. 151 N. 9-10).
+**N. 10** **Place of assembly**: While the Constitution does not specify a place of assembly, Art. 33d para. 1 lit. b SRO provides that the bureaux may determine a venue other than Bern «in special situations». The doctrine agrees that the Federal Assembly does not necessarily have to meet in Bern, although practical considerations speak for the parliamentary seat in the federal city.
 
 **N. 11** **Relationship to Art. 185 para. 4 FC**: It is disputed whether the Federal Council may also use its right to convene under Art. 151 para. 2 FC to report outside ordinary sessions. Sägesser (Die Bestimmungen über die Bundesbehörden in der neuen Bundesverfassung, LeGes 1999, 11–49) affirms this, while Lombardi (Volksrechte und Bundesbehörden in der neuen Bundesverfassung, AJP 1999, 706–721) refers to the primary purpose designation for urgent legislation.
 

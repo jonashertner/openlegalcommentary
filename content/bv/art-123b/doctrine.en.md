@@ -16,11 +16,11 @@
 
 **N. 4** The elements of the offence comprise three constitutive elements: (1) sexual or pornographic crimes, (2) against children, (3) before puberty. According to the implementation in Art. 101 para. 1 lit. e CC, «sexual crimes» are the offences under Art. 187 (sexual acts with children), 189-191 (sexual coercion, rape, defilement), 195 (exploitation of a position of distress) and 196 CC (sexual acts with persons in dependent relationships). «Pornographic crimes» include acts under Art. 197 para. 4 CC (hard pornography involving children) within the scope of application.
 
-**N. 5** The concept «children before puberty» is concretised by Art. 101 para. 1 lit. e CC as children under 12 years of age. This rigid age limit replaces the biological-individual criterion of puberty with a normative determination. Göksu (BSK BV, Art. 123b N. 3) points out that this concretisation was necessary for reasons of legal certainty, as the individual onset of puberty would be difficult to establish in criminal proceedings.
+**N. 5** The concept «children before puberty» is concretised by Art. 101 para. 1 lit. e CC as children under 12 years of age. This rigid age limit replaces the biological-individual criterion of puberty with a normative determination. Göksu points out that this concretisation was necessary for reasons of legal certainty, as the individual onset of puberty would be difficult to establish in criminal proceedings.
 
 ### Legal Consequences
 
-**N. 6** The constitutional provision orders the absolute imprescriptibility of both criminal prosecution and punishment. This means that neither the limitation of prosecution (Art. 97 CC) nor the limitation of execution (Art. 99 CC) can occur. Göksu (BSK BV, Art. 123b N. 2) emphasises the direct applicability of the constitutional provision, even though Vest (BSK BV, Art. 123b N. 2) rightly points to the necessary specification by Art. 101 lit. e CC.
+**N. 6** The constitutional provision orders the absolute imprescriptibility of both criminal prosecution and punishment. This means that neither the limitation of prosecution (Art. 97 CC) nor the limitation of execution (Art. 99 CC) can occur. Göksu emphasises the direct applicability of the constitutional provision, even though Vest rightly points to the necessary specification by Art. 101 lit. e CC.
 
 **N. 7** Imprescriptibility does not lead to the complete elimination of any temporal limitations: According to Art. 101 para. 2 CC, the court may reduce the penalty if 30 years have passed since the act. This provision takes account of the idea that even for the most serious crimes, the need for punishment may diminish over time (BGE 140 IV 145 E. 2.3).
 
@@ -30,9 +30,9 @@
 
 **N. 9** The question of retroactivity was hotly disputed. Frischknecht (ZStrR 2008, 434 ff.) argued against any form of retroactivity with reference to Art. 7 ECHR and the criminal law prohibition of retroactivity. Capus (FP 2009, 110 ff.) differentiated between true and false retroactivity and favoured application to acts not yet time-barred. The Federal Court followed a mediating solution in BGE 141 IV 93: proceedings already discontinued may not be reopened, but limitation periods still running are extended.
 
-**N. 10** The rigid age limit of 12 years is controversially discussed. Vest (SG Komm BV, Art. 123b N. 7) criticises that biological puberty occurs very differently in individuals and a normative determination contradicts the constitutional wording. Göksu (BSK BV, Art. 123b N. 3) defends the solution as a necessary compromise between legal certainty and victim protection.
+**N. 10** The rigid age limit of 12 years is controversially discussed. Vest (SG Komm BV, Art. 123b N. 7) criticises that biological puberty occurs very differently in individuals and a normative determination contradicts the constitutional wording. Göksu defends the solution as a necessary compromise between legal certainty and victim protection.
 
-**N. 11** The admissibility under international law of the imprescriptibility provision is assessed differently. While Göksu (BSK BV, Art. 123b N. 4) recognises no violation of Art. 7 ECHR as long as no true retroactivity exists, critical voices see in the subsequent extension of limitation periods a problematic interference with the principle of legitimate expectations.
+**N. 11** The admissibility under international law of the imprescriptibility provision is assessed differently. While Göksu recognises no violation of Art. 7 ECHR as long as no true retroactivity exists, critical voices see in the subsequent extension of limitation periods a problematic interference with the principle of legitimate expectations.
 
 ### Practice Notes
 

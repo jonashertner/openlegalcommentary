@@ -2,11 +2,11 @@
 
 ### 1. Legislative History
 
-**N. 1** Art. 135 FC was created within the framework of the reform of fiscal equalization and the distribution of tasks between the Confederation and the cantons (NFA) and entered into force on 1 January 2008. The provision replaced the former regulation in Art. 42 old FC, which provided for only a rudimentary fiscal equalization (Hänni, BSK BV, Art. 135 N. 3).
+**N. 1** Art. 135 FC was created within the framework of the reform of fiscal equalization and the distribution of tasks between the Confederation and the cantons (NFA) and entered into force on 1 January 2008. The provision replaced the former regulation in Art. 42 old FC, which provided for only a rudimentary fiscal equalization.
 
-**N. 2** The NFA reform project represented the most comprehensive reform of Swiss federalism since the founding of the federal state in 1848 (Hänni, BSK BV, Art. 135 N. 4). The Federal Council message on the reform of fiscal equalization and the distribution of tasks between the Confederation and the cantons (NFA) of 14 November 2001 (BBl 2002 2291) identified as main problems of the old system the lack of transparency, false incentive structures and the insufficient effectiveness of equalization.
+**N. 2** The NFA reform project represented the most comprehensive reform of Swiss federalism since the founding of the federal state in 1848. The Federal Council message on the reform of fiscal equalization and the distribution of tasks between the Confederation and the cantons (NFA) of 14 November 2001 (BBl 2002 2291) identified as main problems of the old system the lack of transparency, false incentive structures and the insufficient effectiveness of equalization.
 
-**N. 3** The conception of the NFA as a total revision was controversially discussed in legal doctrine. Biaggini criticized the approach of the Federal Council and Parliament with good reasons, since the far-reaching changes fundamentally redesigned the relationship between the Confederation and the cantons (Biaggini, cited in Hänni, BSK BV, Art. 135 N. 6).
+**N. 3** The conception of the NFA as a total revision was controversially discussed in legal doctrine. Biaggini criticized the approach of the Federal Council and Parliament with good reasons, since the far-reaching changes fundamentally redesigned the relationship between the Confederation and the cantons.
 
 ### 2. Systematic Classification
 
@@ -19,11 +19,11 @@
 
 ### 3. Elements of the Legal Norm / Normative Content
 
-**N. 6** **Legislative mandate (para. 1):** The Confederation is obligated to enact provisions on «appropriate» fiscal and burden equalization. The term «appropriate» grants the legislature considerable discretion but also sets constitutional limits (Hänni, BSK BV, Art. 135 N. 13).
+**N. 6** **Legislative mandate (para. 1):** The Confederation is obligated to enact provisions on «appropriate» fiscal and burden equalization. The term «appropriate» grants the legislature considerable discretion but also sets constitutional limits.
 
 **N. 7** **Fiscal equalization:** Encompasses the redistribution of financial resources to reduce differences in financial capacity. Resource equalization aims primarily at equalizing tax capacity (→ BGE 93 I 437 E. 4).
 
-**N. 8** **Burden equalization:** Compensates excessive financial burdens due to geographic-topographic (e.g., mountain regions) or sociodemographic factors (e.g., center burdens). This differs fundamentally from resource equalization, which focuses on financial capacity (Hänni, BSK BV, Art. 135 N. 19).
+**N. 8** **Burden equalization:** Compensates excessive financial burdens due to geographic-topographic (e.g., mountain regions) or sociodemographic factors (e.g., center burdens). This differs fundamentally from resource equalization, which focuses on financial capacity.
 
 **N. 9** **Objectives (para. 2):** The non-exhaustive catalog («in particular») lists five main objectives:
 - lit. a: Reduction of disparities (not complete leveling)
@@ -32,7 +32,7 @@
 - lit. d: Promotion of cooperation (↔ Art. 48a FC)
 - lit. e: Preservation of tax competition
 
-**N. 10** These objectives are partly in tension with each other. In particular, the preservation of tax competition (lit. e) limits the extent of possible redistribution (Hänni, BSK BV, Art. 135 N. 29).
+**N. 10** These objectives are partly in tension with each other. In particular, the preservation of tax competition (lit. e) limits the extent of possible redistribution.
 
 ### 4. Legal Consequences
 
@@ -56,7 +56,7 @@ The Federal Supreme Court reviews the concrete design of fiscal equalization wit
 
 **N. 15** **Consideration of municipalities:** It is controversial to what extent Art. 135 FC in connection with Art. 50 para. 2 FC requires direct consideration of municipalities in national fiscal equalization. The prevailing doctrine sees cantons as primary addressees, while Thalmann advocates for stronger inclusion of the municipal level (Thalmann, in: Hänni, Föderalismus, pp. 56-117).
 
-**N. 16** **Hardship compensation:** The temporal limitation of hardship compensation is disputed. While the Federal Council message assumes a gradual reduction (BBl 2002 2291, 2377), part of the doctrine argues that special circumstances can justify an extension (Hänni, BSK BV, Art. 135 N. 31-33).
+**N. 16** **Hardship compensation:** The temporal limitation of hardship compensation is disputed. While the Federal Council message assumes a gradual reduction (BBl 2002 2291, 2377), part of the doctrine argues that special circumstances can justify an extension.
 
 ### 6. Practice Guidelines
 

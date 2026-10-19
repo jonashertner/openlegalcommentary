@@ -26,7 +26,7 @@ Diese Entscheidung verdeutlicht die Kompetenzabgrenzung zwischen der obersten Ge
 
 > «Entscheide des Bundesrates können grundsätzlich nicht mit Verwaltungsgerichtsbeschwerde beim Bundesgericht angefochten werden.»
 
-Die Rechtsprechung zeigt die Bedeutung der Gewaltenteilung im Kontext von Art. 148 BV auf. Waldmann/Belser/Epiney erläutern, dass Art. 148 BV die institutionelle Grundlage der Gewaltenteilung bilde, indem er die Bundesversammlung als oberste Gewalt etabliere (BSK BV, 2. Aufl. 2024, Art. 148 N. 15 ff.).
+Die Rechtsprechung zeigt die Bedeutung der Gewaltenteilung im Kontext von Art. 148 BV auf. Waldmann/Belser/Epiney erläutern, dass Art. 148 BV die institutionelle Grundlage der Gewaltenteilung bilde, indem er die Bundesversammlung als oberste Gewalt etabliere.
 
 ## Zweikammersystem und Gleichstellung der Räte
 

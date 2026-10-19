@@ -2,7 +2,7 @@
 
 ## Aperçu
 
-L'art. 118 Cst. règle les compétences de la Confédération en matière de santé. La disposition ne permet pas à la Confédération d'agir dans toutes les questions de santé. Elle ne peut intervenir que là où la Constitution lui attribue expressément des compétences (Gächter/Renold-Burch, BSK BV, Art. 118 N. 3).
+L'art. 118 Cst. règle les compétences de la Confédération en matière de santé. La disposition ne permet pas à la Confédération d'agir dans toutes les questions de santé. Elle ne peut intervenir que là où la Constitution lui attribue expressément des compétences.
 
 L'alinéa 1 oblige la Confédération à prendre des mesures de protection de la santé dans le cadre de ses compétences existantes. L'alinéa 2 énumère trois domaines spéciaux dans lesquels la Confédération peut édicter des lois :
 

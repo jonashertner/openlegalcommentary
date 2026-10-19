@@ -1,6 +1,6 @@
 # Overview
 
-Art. 72 BV regulates the division of competences between the Confederation and the cantons in religious law. The cantons are responsible for the relationship between church and state. They may grant public recognition to religious communities and levy church taxes. However, there is no legal entitlement to recognition (Winzeler, BSK BV, Art. 72 N. 20).
+Art. 72 BV regulates the division of competences between the Confederation and the cantons in religious law. The cantons are responsible for the relationship between church and state. They may grant public recognition to religious communities and levy church taxes. However, there is no legal entitlement to recognition.
 
 The cantons organise their cantonal churches themselves. The Federal Supreme Court confirmed in **BGE 129 I 68**: A «partial withdrawal» only from the cantonal church is possible if cantonal law provides for this. However, the cantons must respect religious freedom (Art. 15 BV) (**BGE 145 I 121**).
 

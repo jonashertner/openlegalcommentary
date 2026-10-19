@@ -8,7 +8,7 @@ L'art. 107 Cost. conferisce alla Confederazione la competenza di controllare le 
 
 **Il capoverso 2** concerne il materiale bellico e comprende l'intera catena del valore dalla fabbricazione all'esportazione. Questa competenza consente alla Confederazione un controllo completo sui beni utilizzabili militarmente. Essa costituisce la base della legge sul materiale bellico (LMB) con i suoi severi obblighi di autorizzazione e controlli all'esportazione.
 
-La legislazione svizzera sulle armi è caratterizzata dall'associazione a Schengen, che ha portato a un considerevole ampliamento delle competenze federali. Singoli giuristi criticano che la Confederazione abbia superato i propri limiti costituzionali (Künzli, BSK BV, Art. 107 N. 13). La dottrina dominante vede le cose diversamente e sottolinea che il diritto svizzero continua a partire dal principio di un diritto all'acquisizione di armi.
+La legislazione svizzera sulle armi è caratterizzata dall'associazione a Schengen, che ha portato a un considerevole ampliamento delle competenze federali. Singoli giuristi criticano che la Confederazione abbia superato i propri limiti costituzionali. La dottrina dominante vede le cose diversamente e sottolinea che il diritto svizzero continua a partire dal principio di un diritto all'acquisizione di armi.
 
 Un esempio pratico mostra la portata: un collezionista di armi storiche ha bisogno sia per l'acquisizione di una pistola militare (LArm) sia per componenti di munizioni (LMB) di autorizzazioni federali separate. Le violazioni possono portare a sanzioni penali e alla confisca degli oggetti, come ha chiarito il caso «Supergun» (**DTF 122 IV 103**).
 

@@ -6,7 +6,7 @@
 
 **N. 1** Art. 170 BV represents a constitutional innovation that has no equivalent in the old Federal Constitution of 1874. The express anchoring of effectiveness review only gained entry into the revision process for the new Federal Constitution at a late stage. The constitutional drafts of 1995/96 did not yet contain a corresponding provision.
 
-**N. 2** The expert commission of both parliamentary supervisory committees initially proposed the creation of an independent body for the evaluation of state measures. Instead, the parliamentary supervisory committees linked effectiveness review to the Federal Assembly's supreme oversight competence in their supplementary report of 1997. This conception remained during parliamentary deliberations, whereby effectiveness review was extracted as an independent provision from the current Art. 169 BV (BSK-Lienhard/Mächler/Marti Locher, Art. 170 BV, N. 1 ff.; SGK-Uhlmann/Bussmann, Art. 170 BV, N. 1 ff.).
+**N. 2** The expert commission of both parliamentary supervisory committees initially proposed the creation of an independent body for the evaluation of state measures. Instead, the parliamentary supervisory committees linked effectiveness review to the Federal Assembly's supreme oversight competence in their supplementary report of 1997. This conception remained during parliamentary deliberations, whereby effectiveness review was extracted as an independent provision from the current Art. 169 BV (SGK-Uhlmann/Bussmann, Art. 170 BV, N. 1 ff.).
 
 **N. 3** According to the materials, the constitutional provision aimed to manage the increasing complexity of public tasks through systematic review. Rapporteur Schmid stated in the National Council debate: «The question of the effectiveness, efficacy and efficiency of state measures is becoming increasingly important against the background of the growing complexity of public tasks. Do the measures taken by the authorities have any effect at all? Do they show the intended effect? Are they in a reasonable cost-benefit ratio?» (AB N SD 1998, 91).
 
@@ -36,7 +36,7 @@
 
 **N. 11** The subject of effectiveness reviews are all «federal measures», regardless of their legal form. Measures by all three branches of government are covered: legislative, executive and judicial. The term encompasses both generally abstract and individually concrete measures.
 
-**N. 12** The implementation and enforcement of federal measures by cantons and private parties also fall under the scope of application, insofar as they can be qualified as enforcement of federal law (BSK-Lienhard/Mächler/Marti Locher, Art. 170 BV, N. 17; SGK-Uhlmann/Bussmann, Art. 170 BV, N. 18).
+**N. 12** The implementation and enforcement of federal measures by cantons and private parties also fall under the scope of application, insofar as they can be qualified as enforcement of federal law (SGK-Uhlmann/Bussmann, Art. 170 BV, N. 18).
 
 **N. 13** Non-action can also be the subject of an effectiveness review. Unlawful omissions can be just as consequential as active action (Biaggini, Art. 170 BV, N. 4; SGK-Uhlmann/Bussmann, Art. 170 BV, N. 18).
 

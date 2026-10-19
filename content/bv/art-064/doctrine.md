@@ -8,9 +8,9 @@
 
 ## Systematische Einordnung
 
-**N. 3** Art. 64 BV ist systematisch im 3. Abschnitt «Bildung, Forschung und Kultur» des 3. Kapitels der Bundesverfassung eingeordnet. Die Bestimmung steht in engem Zusammenhang mit → Art. 20 BV (Wissenschaftsfreiheit), der die grundrechtliche Dimension der Forschung regelt. Während Art. 20 BV die Abwehrrechte der Forschenden schützt, begründet Art. 64 BV die Leistungspflichten des Staates (Hänni, BSK BV, Art. 64 N. 2).
+**N. 3** Art. 64 BV ist systematisch im 3. Abschnitt «Bildung, Forschung und Kultur» des 3. Kapitels der Bundesverfassung eingeordnet. Die Bestimmung steht in engem Zusammenhang mit → Art. 20 BV (Wissenschaftsfreiheit), der die grundrechtliche Dimension der Forschung regelt. Während Art. 20 BV die Abwehrrechte der Forschenden schützt, begründet Art. 64 BV die Leistungspflichten des Staates.
 
-**N. 4** Die Forschungsförderungskompetenz ergänzt die Bildungskompetenzen des Bundes (→ Art. 63 BV für Berufsbildung, → Art. 63a BV für Hochschulen). Anders als bei den Hochschulen, wo Bund und Kantone gemeinsam zuständig sind, verleiht Art. 64 BV dem Bund eine umfassende Kompetenz zur Forschungsförderung. Diese erstreckt sich auf alle Wissenschaftsbereiche und ist nicht auf die Bundeshochschulen beschränkt (Hänni, BSK BV, Art. 64 N. 4).
+**N. 4** Die Forschungsförderungskompetenz ergänzt die Bildungskompetenzen des Bundes (→ Art. 63 BV für Berufsbildung, → Art. 63a BV für Hochschulen). Anders als bei den Hochschulen, wo Bund und Kantone gemeinsam zuständig sind, verleiht Art. 64 BV dem Bund eine umfassende Kompetenz zur Forschungsförderung. Diese erstreckt sich auf alle Wissenschaftsbereiche und ist nicht auf die Bundeshochschulen beschränkt.
 
 **N. 5** Im Kontext der Wirtschaftsverfassung bildet Art. 64 BV eine wichtige Grundlage für die staatliche Innovationsförderung. Die Bestimmung ist dabei abzugrenzen von → Art. 94 BV (Grundsätze der Wirtschaftsordnung), wobei die Innovationsförderung als spezifische, verfassungsrechtlich legitimierte Form der Wirtschaftsförderung anzusehen ist.
 
@@ -18,7 +18,7 @@
 
 ### Wissenschaftliche Forschung (Abs. 1)
 
-**N. 6** Der Begriff der «wissenschaftlichen Forschung» ist weit zu verstehen. Nach der herrschenden Lehre umfasst er sowohl die Grundlagenforschung als auch die angewandte Forschung in allen Wissenschaftsdisziplinen (König, Grundlagen der staatlichen Forschungsförderung, 2007, S. 45). Das Adjektiv «wissenschaftlich» ist dabei umstritten: Während Borghi es nur als Hinweis auf objektiv-methodische Aspekte versteht (Borghi, BSK BV, Art. 64 N. 39), sieht Gruber darin einen Qualitätsbegriff (Gruber, BSK BV, Art. 64 N. 42).
+**N. 6** Der Begriff der «wissenschaftlichen Forschung» ist weit zu verstehen. Nach der herrschenden Lehre umfasst er sowohl die Grundlagenforschung als auch die angewandte Forschung in allen Wissenschaftsdisziplinen (König, Grundlagen der staatlichen Forschungsförderung, 2007, S. 45). Das Adjektiv «wissenschaftlich» ist dabei umstritten: Während Borghi es nur als Hinweis auf objektiv-methodische Aspekte versteht, sieht Gruber darin einen Qualitätsbegriff.
 
 **N. 7** Die Forschungsförderung umfasst nach der Praxis des Bundes sowohl die institutionelle Förderung (Finanzierung von Forschungseinrichtungen) als auch die projektbezogene Förderung (Finanzierung einzelner Forschungsvorhaben). Der Schweizerische Nationalfonds (SNF) und die Akademien der Wissenschaften Schweiz sind die wichtigsten Träger der Forschungsförderung (Art. 4 FIFG).
 
@@ -56,7 +56,7 @@
 
 ## Streitstände
 
-**N. 19** **Reichweite des Wissenschaftlichkeitsbegriffs**: In der Doktrin ist umstritten, wie eng der Begriff «wissenschaftlich» in Abs. 1 zu verstehen ist. Borghi vertritt eine weite Auslegung und sieht darin lediglich einen Verweis auf objektiv-methodische Standards (Borghi, BSK BV, Art. 64 N. 39). Gruber hingegen interpretiert «wissenschaftlich» als Qualitätsmerkmal, das unseriöse Forschung von der Förderung ausschliesst (Gruber, BSK BV, Art. 64 N. 42). König nimmt eine vermittelnde Position ein und betont, dass alle anerkannten wissenschaftlichen Methoden erfasst sind (König, Grundlagen, 2007, S. 47).
+**N. 19** **Reichweite des Wissenschaftlichkeitsbegriffs**: In der Doktrin ist umstritten, wie eng der Begriff «wissenschaftlich» in Abs. 1 zu verstehen ist. Borghi vertritt eine weite Auslegung und sieht darin lediglich einen Verweis auf objektiv-methodische Standards. Gruber hingegen interpretiert «wissenschaftlich» als Qualitätsmerkmal, das unseriöse Forschung von der Förderung ausschliesst. König nimmt eine vermittelnde Position ein und betont, dass alle anerkannten wissenschaftlichen Methoden erfasst sind (König, Grundlagen, 2007, S. 47).
 
 **N. 20** **Verhältnis von Forschungs- zu Innovationsförderung**: Kontrovers diskutiert wird das Spannungsverhältnis zwischen zweckfreier Grundlagenforschung und anwendungsorientierter Innovation. Während eine Ansicht die Gleichrangigkeit beider Förderaspekte betont, sehen andere in der zunehmenden Innovationsorientierung eine problematische Ökonomisierung der Wissenschaft. Schmid warnt vor einer zu starken Instrumentalisierung der Forschung für wirtschaftliche Zwecke (Schmid, Wissenschaft und Forschung, 2011, S. 488).
 

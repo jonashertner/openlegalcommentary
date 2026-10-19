@@ -2,7 +2,7 @@ Das Vernehmlassungsverfahren nach Art. 147 BV ist ein wichtiges Instrument der M
 
 **Wer ist betroffen?** Obligatorische Teilnehmer sind alle Kantone als Ausdruck des kooperativen Föderalismus. Die politischen Parteien werden als Träger der politischen Willensbildung konsultiert. Die «interessierten Kreise» umfassen Verbände, Organisationen und weitere Akteure, die von der Vorlage betroffen sind.
 
-**Was wird konsultiert?** Das Vernehmlassungsverfahren findet bei drei Kategorien statt: wichtige Erlasse (neue Gesetze oder bedeutende Änderungen), andere Vorhaben von grosser Tragweite (politische Programme) und wichtige völkerrechtliche Verträge. Die Lehre streitet darüber, ob bei jeder Gesetzesänderung eine Vernehmlassung nötig ist. Während das Vernehmlassungsgesetz (VlG) dies grundsätzlich vorsieht, kritisiert Schiess Rütimann diese extensive Praxis als verfassungswidrig (BSK BV, Art. 147 N. 16).
+**Was wird konsultiert?** Das Vernehmlassungsverfahren findet bei drei Kategorien statt: wichtige Erlasse (neue Gesetze oder bedeutende Änderungen), andere Vorhaben von grosser Tragweite (politische Programme) und wichtige völkerrechtliche Verträge. Die Lehre streitet darüber, ob bei jeder Gesetzesänderung eine Vernehmlassung nötig ist. Während das Vernehmlassungsgesetz (VlG) dies grundsätzlich vorsieht, kritisiert Schiess Rütimann diese extensive Praxis als verfassungswidrig.
 
 **Welche Rechtsfolgen?** Das Verfahren ist konsultativ – die Stellungnahmen sind für die Behörden nicht bindend. Die Bundesverfassung begründet keinen subjektiven Anspruch auf Durchführung einer Vernehmlassung. Die Rechtsprechung hat bestätigt, dass im Rechtsetzungsverfahren kein verfassungsrechtlicher Anspruch auf rechtliches Gehör besteht (**BGE 121 I 230**).
 

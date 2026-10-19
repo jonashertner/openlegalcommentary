@@ -16,11 +16,11 @@
 
 **ch. 4** L'infraction comprend trois éléments constitutifs : (1) infractions sexuelles ou pornographiques, (2) commises sur des enfants, (3) avant la puberté. Selon la mise en œuvre à l'art. 101 al. 1 let. e CP, sont considérés comme « infractions sexuelles » les délits selon l'art. 187 (actes d'ordre sexuel avec des enfants), 189-191 (contrainte sexuelle, viol, actes d'ordre sexuel commis sur une personne incapable de discernement ou de résistance), 195 (exploitation d'une situation de détresse) et 196 CP (actes d'ordre sexuel commis sur une personne dépendante). Comme « infractions pornographiques » relèvent du champ d'application les actes selon l'art. 197 al. 4 CP (pornographie dure avec enfants).
 
-**ch. 5** La notion d'« enfants avant la puberté » est concrétisée par l'art. 101 al. 1 let. e CP comme enfants de moins de 12 ans. Cette limite d'âge rigide remplace le critère biologique-individuel de la puberté par une fixation normative. Göksu (BSK BV, art. 123b ch. 3) relève que cette concrétisation était nécessaire pour des raisons de sécurité juridique, car le début individuel de la puberté serait difficile à établir dans la procédure pénale.
+**ch. 5** La notion d'« enfants avant la puberté » est concrétisée par l'art. 101 al. 1 let. e CP comme enfants de moins de 12 ans. Cette limite d'âge rigide remplace le critère biologique-individuel de la puberté par une fixation normative. Göksu relève que cette concrétisation était nécessaire pour des raisons de sécurité juridique, car le début individuel de la puberté serait difficile à établir dans la procédure pénale.
 
 ### Conséquences juridiques
 
-**ch. 6** La norme constitutionnelle ordonne l'imprescriptibilité absolue tant de l'action pénale que de la peine. Cela signifie que ni la prescription de l'action pénale (art. 97 CP) ni la prescription de l'exécution (art. 99 CP) ne peuvent intervenir. Göksu (BSK BV, art. 123b ch. 2) souligne l'applicabilité directe de la disposition constitutionnelle, même si Vest (BSK BV, art. 123b ch. 2) relève à juste titre la nécessité d'une précision par l'art. 101 let. e CP.
+**ch. 6** La norme constitutionnelle ordonne l'imprescriptibilité absolue tant de l'action pénale que de la peine. Cela signifie que ni la prescription de l'action pénale (art. 97 CP) ni la prescription de l'exécution (art. 99 CP) ne peuvent intervenir. Göksu souligne l'applicabilité directe de la disposition constitutionnelle, même si Vest relève à juste titre la nécessité d'une précision par l'art. 101 let. e CP.
 
 **ch. 7** L'imprescriptibilité n'entraîne pas la suppression complète de toutes limites temporelles : selon l'art. 101 al. 2 CP, le tribunal peut atténuer la peine si 30 ans se sont écoulés depuis l'infraction. Cette règle tient compte de l'idée que même pour les infractions les plus graves, le besoin de punir peut diminuer avec le temps (ATF 140 IV 145 consid. 2.3).
 
@@ -30,9 +30,9 @@
 
 **ch. 9** La question de la rétroactivité était vivement controversée. Frischknecht (ZStrR 2008, 434 ss) argumentait contre toute forme de rétroactivité en se référant à l'art. 7 CEDH et à l'interdiction de la rétroactivité en matière pénale. Capus (FP 2009, 110 ss) distinguait entre rétroactivité authentique et inauthentique et préconisait l'application aux actes pas encore prescrits. Le Tribunal fédéral a suivi dans l'ATF 141 IV 93 une solution de compromis : les procédures déjà classées ne peuvent pas être reprises, mais les délais de prescription encore en cours sont prolongés.
 
-**ch. 10** La limite d'âge rigide de 12 ans fait l'objet de discussions controversées. Vest (SG Komm BV, art. 123b ch. 7) critique le fait que la puberté biologique survient de manière très différente selon les individus et qu'une fixation normative contredise le texte constitutionnel. Göksu (BSK BV, art. 123b ch. 3) défend la solution comme un compromis nécessaire entre sécurité juridique et protection des victimes.
+**ch. 10** La limite d'âge rigide de 12 ans fait l'objet de discussions controversées. Vest (SG Komm BV, art. 123b ch. 7) critique le fait que la puberté biologique survient de manière très différente selon les individus et qu'une fixation normative contredise le texte constitutionnel. Göksu défend la solution comme un compromis nécessaire entre sécurité juridique et protection des victimes.
 
-**ch. 11** L'admissibilité en droit international de la réglementation de l'imprescriptibilité est jugée différemment. Alors que Göksu (BSK BV, art. 123b ch. 4) ne voit aucune violation de l'art. 7 CEDH tant qu'il n'y a pas de rétroactivité authentique, des voix critiques voient dans la prolongation a posteriori des délais de prescription une atteinte problématique au principe de confiance.
+**ch. 11** L'admissibilité en droit international de la réglementation de l'imprescriptibilité est jugée différemment. Alors que Göksu ne voit aucune violation de l'art. 7 CEDH tant qu'il n'y a pas de rétroactivité authentique, des voix critiques voient dans la prolongation a posteriori des délais de prescription une atteinte problématique au principe de confiance.
 
 ### Conseils pratiques
 

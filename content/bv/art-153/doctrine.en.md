@@ -24,7 +24,7 @@
 
 **N. 6** **Joint committees (para. 2)**: The law «may» provide for joint committees of both chambers. This discretionary provision allows for exceptions to the principle of separate chamber deliberations. Joint committees currently exist for pardons (Art. 49 ParlA), drafting (Art. 56–59 ParlA) and as a judicial committee (Art. 40a ParlA).
 
-**N. 7** **Transfer of powers (para. 3)**: The transfer of powers to committees is limited to those «that are not legislative in nature». According to Waldmann/Belser/Epiney (BSK BV, 2nd ed. 2024, Art. 153 N 15), this includes administrative acts, preparatory actions and supervisory functions, but not legislation itself, which remains reserved to the plenary.
+**N. 7** **Transfer of powers (para. 3)**: The transfer of powers to committees is limited to those «that are not legislative in nature». According to Waldmann/Belser/Epiney, this includes administrative acts, preparatory actions and supervisory functions, but not legislation itself, which remains reserved to the plenary.
 
 **N. 8** **Information rights (para. 4)**: The constitutional information rights are divided into three categories:
 - **Rights to information**: Obligation of the administration to provide information (Art. 150 ParlA)

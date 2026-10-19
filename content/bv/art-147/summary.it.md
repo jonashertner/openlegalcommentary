@@ -2,7 +2,7 @@ La procedura di consultazione secondo l'art. 147 Cost. è un importante strument
 
 **Chi è interessato?** I partecipanti obbligatori sono tutti i Cantoni quale espressione del federalismo cooperativo. I partiti politici vengono consultati in quanto portatori della formazione della volontà politica. I «circoli interessati» comprendono associazioni, organizzazioni e altri attori toccati dal progetto.
 
-**Cosa viene consultato?** La procedura di consultazione si svolge per tre categorie: atti normativi importanti (nuove leggi o modifiche significative), altri progetti di grande portata (programmi politici) e importanti trattati internazionali. La dottrina è divisa sulla questione se sia necessaria una consultazione per ogni modifica di legge. Mentre la legge sulla consultazione (LCo) lo prevede in linea di principio, Schiess Rütimann critica questa prassi estensiva come incostituzionale (BSK BV, Art. 147 n. 16).
+**Cosa viene consultato?** La procedura di consultazione si svolge per tre categorie: atti normativi importanti (nuove leggi o modifiche significative), altri progetti di grande portata (programmi politici) e importanti trattati internazionali. La dottrina è divisa sulla questione se sia necessaria una consultazione per ogni modifica di legge. Mentre la legge sulla consultazione (LCo) lo prevede in linea di principio, Schiess Rütimann critica questa prassi estensiva come incostituzionale.
 
 **Quali conseguenze giuridiche?** La procedura è consultiva – i pareri non sono vincolanti per le autorità. La Costituzione federale non fonda alcun diritto soggettivo allo svolgimento di una consultazione. La giurisprudenza ha confermato che nella procedura legislativa non esiste un diritto costituzionale al diritto di essere sentiti (**BGE 121 I 230**).
 

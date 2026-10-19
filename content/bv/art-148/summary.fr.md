@@ -2,7 +2,7 @@
 
 L'art. 148 Cst. établit que l'Assemblée fédérale détient l'autorité suprême de la Confédération. Cette autorité suprême est toutefois limitée par les droits du peuple et des cantons. L'Assemblée fédérale se compose de deux chambres égales en droits : le Conseil national et le Conseil des États.
 
-**Que règle la norme ?** La disposition définit l'Assemblée fédérale comme l'autorité étatique suprême de la Suisse. Selon le message relatif à la nouvelle constitution fédérale, l'art. 148 Cst. constitue le « fondement constitutionnel de l'ensemble du droit parlementaire » (FF 1997 I 404). L'autorité suprême comprend selon la doctrine à la fois des fonctions législatives et certaines fonctions gouvernementales, l'étendue exacte étant controversée (Thurnherr, BSK BV, Art. 148 N. 3-5).
+**Que règle la norme ?** La disposition définit l'Assemblée fédérale comme l'autorité étatique suprême de la Suisse. Selon le message relatif à la nouvelle constitution fédérale, l'art. 148 Cst. constitue le « fondement constitutionnel de l'ensemble du droit parlementaire » (FF 1997 I 404). L'autorité suprême comprend selon la doctrine à la fois des fonctions législatives et certaines fonctions gouvernementales, l'étendue exacte étant controversée.
 
 **Qui est concerné ?** Toutes les autorités fédérales et les citoyennes et citoyens sont concernés par la suprématie parlementaire. L'Assemblée fédérale élit le Conseil fédéral et les juges fédéraux (→ art. 168, 175 Cst.) et contrôle leur activité (→ art. 169 Cst.). En même temps, le peuple et les cantons ont le droit de bloquer les décisions parlementaires par des référendums (→ art. 140, 141 Cst.).
 

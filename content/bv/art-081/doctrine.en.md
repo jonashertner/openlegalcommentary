@@ -10,7 +10,7 @@
 
 **N. 3** Art. 81 Cst. stands in Title 3 on «Confederation, Cantons and Communes» under Chapter 3 «Tasks of the Confederation and the Cantons». The norm functions as a subsidiary general clause to the more specific infrastructure competences in Art. 82-93 Cst. (transport and energy). It is an expression of cooperative federalism: the Confederation can erect, operate or support the erection of works by third parties.
 
-**N. 4** In relation to cantonal competences, the principle of subsidiarity applies (→ Art. 5a Cst.). Only works that lie «in the interest of the country as a whole or of a large part of it» fall under federal competence. The delimitation from purely cantonal or regional works occurs according to material criteria: significance for the whole of Switzerland, coordination needs, financial scope (Kern, BSK BV, Art. 81 N. 7).
+**N. 4** In relation to cantonal competences, the principle of subsidiarity applies (→ Art. 5a Cst.). Only works that lie «in the interest of the country as a whole or of a large part of it» fall under federal competence. The delimitation from purely cantonal or regional works occurs according to material criteria: significance for the whole of Switzerland, coordination needs, financial scope.
 
 ### 3. Elements of the Provision
 
@@ -18,13 +18,13 @@
 
 **N. 6** **In the interest of the country as a whole or of a large part of it**: This formulation delimits federal competence from cantonal and communal works. Covered are works of supra-regional significance that affect several cantons or are of national strategic importance. Practice shows a generous interpretation for transport, energy and communication infrastructures (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 1089).
 
-**N. 7** **Erect, operate or support**: The Confederation has three options for action: (1) Own erection and operation by the federal administration or federal institutions; (2) Operation of existing works; (3) Financial or organisational support of private or cantonal carriers. The choice of form of action lies within the political discretion of the Confederation (Kern, BSK BV, Art. 81 N. 11).
+**N. 7** **Erect, operate or support**: The Confederation has three options for action: (1) Own erection and operation by the federal administration or federal institutions; (2) Operation of existing works; (3) Financial or organisational support of private or cantonal carriers. The choice of form of action lies within the political discretion of the Confederation.
 
 ### 4. Legal Consequences
 
 **N. 8** Art. 81 Cst. grants the Confederation a **facultative competence** («may»). It establishes neither an obligation to act nor subjective rights of private persons to the erection of specific works. The provision authorises the Confederation to legislate on the respective works (→ Art. 164 para. 1 Cst.) and to approve the necessary credits (→ Art. 167 Cst.).
 
-**N. 9** When erecting public works, the Confederation has the **right of expropriation** (→ Art. 26 Cst.). The exercise is governed by the Federal Act on Expropriation (ExpropA). A prerequisite is always that the concrete work actually lies in the public interest (Kern, BSK BV, Art. 81 N. 16).
+**N. 9** When erecting public works, the Confederation has the **right of expropriation** (→ Art. 26 Cst.). The exercise is governed by the Federal Act on Expropriation (ExpropA). A prerequisite is always that the concrete work actually lies in the public interest.
 
 **N. 10** Financing occurs from general federal funds or through special financing. When supporting cantonal or private works, subsidies, loans or guarantees come into consideration. The modalities are to be regulated in special legislation (Ruch, Umwelt – Boden – Raum, SBVR VI, 2010, p. 234 ff.).
 

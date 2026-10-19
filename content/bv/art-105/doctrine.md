@@ -2,13 +2,13 @@
 
 ## 1. Entstehungsgeschichte
 
-**N. 1** Die heutige Alkoholordnung des Bundes geht auf die Alkoholartikel der alten Bundesverfassung zurück (Art. 32bis-32quater aBV), die zwischen 1885 und 1930 in mehreren Volksabstimmungen eingeführt wurden. Der Verfassungsgeber reagierte damit auf die verheerenden gesundheitlichen und sozialen Folgen des massiven Alkoholkonsums im 19. Jahrhundert (Uhlmann, BSK BV, Art. 105 N. 1). Die Botschaft zur neuen Bundesverfassung von 1996 übernahm die bestehende Kompetenzordnung ohne materielle Änderungen (BBl 1997 I 1, 276).
+**N. 1** Die heutige Alkoholordnung des Bundes geht auf die Alkoholartikel der alten Bundesverfassung zurück (Art. 32bis-32quater aBV), die zwischen 1885 und 1930 in mehreren Volksabstimmungen eingeführt wurden. Der Verfassungsgeber reagierte damit auf die verheerenden gesundheitlichen und sozialen Folgen des massiven Alkoholkonsums im 19. Jahrhundert. Die Botschaft zur neuen Bundesverfassung von 1996 übernahm die bestehende Kompetenzordnung ohne materielle Änderungen (BBl 1997 I 1, 276).
 
 **N. 2** Die Totalrevision der Bundesverfassung führte zu einer sprachlichen Modernisierung und systematischen Vereinfachung. Die drei Alkoholartikel der alten Bundesverfassung wurden in Art. 105 BV (Kompetenznorm) und Art. 131 Abs. 1 lit. b und c sowie Abs. 3 BV (Fiskalbestimmungen) zusammengefasst. Der Gesundheitsschutzauftrag wurde in Satz 2 von Art. 105 BV explizit verankert.
 
 ## 2. Systematische Einordnung
 
-**N. 3** Art. 105 BV steht im 3. Titel (Bund, Kantone und Gemeinden), 3. Kapitel (Finanzordnung), 3. Abschnitt (Nationalbank; Geld- und Währungswesen). Diese systematische Stellung ist historisch bedingt und widerspiegelt nicht die heutige Bedeutung der Norm. Art. 105 BV ist primär eine Kompetenznorm mit gesundheitspolitischer Zielsetzung (Uhlmann, BSK BV, Art. 105 N. 1).
+**N. 3** Art. 105 BV steht im 3. Titel (Bund, Kantone und Gemeinden), 3. Kapitel (Finanzordnung), 3. Abschnitt (Nationalbank; Geld- und Währungswesen). Diese systematische Stellung ist historisch bedingt und widerspiegelt nicht die heutige Bedeutung der Norm. Art. 105 BV ist primär eine Kompetenznorm mit gesundheitspolitischer Zielsetzung.
 
 **N. 4** Die Norm steht in engem Zusammenhang mit:
 - → Art. 131 Abs. 1 lit. b und c BV (Sondersteuern auf gebrannten Wassern)
@@ -21,7 +21,7 @@
 
 ### Umfassende Bundeskompetenz (Satz 1)
 
-**N. 5** Art. 105 Satz 1 BV begründet eine umfassende und ausschliessliche Bundeskompetenz für die Gesetzgebung über «gebrannte Wasser». Der Begriff umfasst alle durch Destillation gewonnenen alkoholhaltigen Getränke sowie alkoholhaltige Erzeugnisse, die durch andere technische Verfahren einen vergleichbaren Alkoholgehalt erreichen (**BGE 143 II 409**). Lehre und Rechtsprechung übernehmen die Begrifflichkeit des Alkoholgesetzes für die Verfassungsauslegung (Uhlmann, BSK BV, Art. 105 N. 4).
+**N. 5** Art. 105 Satz 1 BV begründet eine umfassende und ausschliessliche Bundeskompetenz für die Gesetzgebung über «gebrannte Wasser». Der Begriff umfasst alle durch Destillation gewonnenen alkoholhaltigen Getränke sowie alkoholhaltige Erzeugnisse, die durch andere technische Verfahren einen vergleichbaren Alkoholgehalt erreichen (**BGE 143 II 409**). Lehre und Rechtsprechung übernehmen die Begrifflichkeit des Alkoholgesetzes für die Verfassungsauslegung.
 
 **N. 6** Die Bundeskompetenz erstreckt sich auf vier Tätigkeitsbereiche:
 - **Herstellung**: Monopol für gewerbliche Produktion, Konzessionssystem für Hausbrennereien
@@ -33,7 +33,7 @@
 
 ### Gesundheitspolitischer Auftrag (Satz 2)
 
-**N. 8** Der Gesetzgeber ist verpflichtet, «den schädlichen Wirkungen des Alkoholkonsums Rechnung» zu tragen. Dieser Auftrag prägt die gesamte Alkoholgesetzgebung und legitimiert gesundheitspolitisch motivierte Einschränkungen der Wirtschaftsfreiheit (Uhlmann, BSK BV, Art. 105 N. 6-9). 
+**N. 8** Der Gesetzgeber ist verpflichtet, «den schädlichen Wirkungen des Alkoholkonsums Rechnung» zu tragen. Dieser Auftrag prägt die gesamte Alkoholgesetzgebung und legitimiert gesundheitspolitisch motivierte Einschränkungen der Wirtschaftsfreiheit. 
 
 **N. 9** Der Gesundheitsschutzauftrag konkretisiert sich in:
 - Präventionsmassnahmen (Werbeeinschränkungen, Jugendschutz)
@@ -58,7 +58,7 @@
 
 ### Mindestpreise und Verkaufsbeschränkungen
 
-**N. 12** Umstritten ist die verfassungsrechtliche Zulässigkeit von Mindestpreisen für alkoholische Getränke. Der Ständerat befürwortete sowohl nächtliche Verkaufsverbote (22-6 Uhr) als auch Mindestpreise zur Bekämpfung von Alkoholexzessen; der Nationalrat lehnte beides ab (Uhlmann, BSK BV, Art. 105 N. 10-11). Pärli/Lehne bejahen die Vereinbarkeit mit Art. 105 BV unter Berufung auf den Gesundheitsschutzauftrag, während Epiney/Metz handelsrechtliche Bedenken äussern.
+**N. 12** Umstritten ist die verfassungsrechtliche Zulässigkeit von Mindestpreisen für alkoholische Getränke. Der Ständerat befürwortete sowohl nächtliche Verkaufsverbote (22-6 Uhr) als auch Mindestpreise zur Bekämpfung von Alkoholexzessen; der Nationalrat lehnte beides ab. Pärli/Lehne bejahen die Vereinbarkeit mit Art. 105 BV unter Berufung auf den Gesundheitsschutzauftrag, während Epiney/Metz handelsrechtliche Bedenken äussern.
 
 ### Begriff der «gebrannten Wasser»
 
@@ -66,7 +66,7 @@
 
 ### Totalrevision der Alkoholgesetzgebung
 
-**N. 14** Der Bundesrat schlägt eine grundlegende Reform vor mit einem Spirituosensteuergesetz und einem Alkoholhandelsgesetz. Kontrovers ist der geplante Abbau des Monopolbereichs und die Reduktion der Bewilligungspflichten (Uhlmann, BSK BV, Art. 105 N. 10). Kritiker befürchten eine Schwächung des Gesundheitsschutzes, Befürworter erwarten administrative Vereinfachungen.
+**N. 14** Der Bundesrat schlägt eine grundlegende Reform vor mit einem Spirituosensteuergesetz und einem Alkoholhandelsgesetz. Kontrovers ist der geplante Abbau des Monopolbereichs und die Reduktion der Bewilligungspflichten. Kritiker befürchten eine Schwächung des Gesundheitsschutzes, Befürworter erwarten administrative Vereinfachungen.
 
 ## 6. Praxishinweise
 

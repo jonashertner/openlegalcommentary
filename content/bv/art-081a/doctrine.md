@@ -6,7 +6,7 @@
 
 **N. 1** Art. 81a BV wurde im Rahmen der Bahnreform 2 durch Volksabstimmung vom 20. Februar 2005 in die Bundesverfassung eingefügt (BBl 2005 2547). Die Bestimmung ersetzte die befristete Übergangsbestimmung Art. 196 Ziff. 3 BV zur Finanzierung des öffentlichen Verkehrs, welche am 31. Dezember 2007 ausgelaufen wäre (BBl 2004 6651, 6665). Der Verfassungsgeber verfolgte drei Hauptziele: erstens die dauerhafte Sicherstellung der Finanzierung des öffentlichen Verkehrs, zweitens die Verankerung eines ausreichenden Angebots als Verfassungsauftrag und drittens die Festschreibung des Prinzips der Nutzerfinanzierung (BBl 2004 6656).
 
-**N. 2** Die Formulierung von Abs. 2 wurde intensiv diskutiert. Der Bundesrat hatte zunächst vorgeschlagen, dass die Kosten «in der Regel» durch die Nutzer zu decken seien, was der Ständerat zu «im Grundsatz» abschwächte. Die Einigungskonferenz einigte sich schliesslich auf die Formulierung «zu einem angemessenen Teil» (BBl 2004 6657). Diese Entstehungsgeschichte zeigt den Willen des Verfassungsgebers, einerseits das Verursacherprinzip zu verankern, andererseits aber Spielraum für sozialpolitische und umweltpolitische Erwägungen zu belassen (Kern, BSK BV, Art. 81a N. 1).
+**N. 2** Die Formulierung von Abs. 2 wurde intensiv diskutiert. Der Bundesrat hatte zunächst vorgeschlagen, dass die Kosten «in der Regel» durch die Nutzer zu decken seien, was der Ständerat zu «im Grundsatz» abschwächte. Die Einigungskonferenz einigte sich schliesslich auf die Formulierung «zu einem angemessenen Teil» (BBl 2004 6657). Diese Entstehungsgeschichte zeigt den Willen des Verfassungsgebers, einerseits das Verursacherprinzip zu verankern, andererseits aber Spielraum für sozialpolitische und umweltpolitische Erwägungen zu belassen.
 
 ### 2. Systematische Einordnung
 
@@ -16,13 +16,13 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 5** **Absatz 1** statuiert einen dreifachen Verfassungsauftrag: Bund und Kantone sorgen gemeinsam für (1) ein ausreichendes Angebot, (2) an öffentlichem Verkehr, (3) auf Schiene, Strasse, Wasser und mit Seilbahnen, (4) in allen Landesgegenden. Der Begriff des «ausreichenden Angebots» ist ein unbestimmter Rechtsbegriff, der durch die Gesetzgebung und Praxis konkretisiert wird. Nach Griffel stellt er ausschliesslich auf die allgemeine Zugänglichkeit ab (BSK BV-Kern, Art. 81a N. 10 zitiert Griffel).
+**N. 5** **Absatz 1** statuiert einen dreifachen Verfassungsauftrag: Bund und Kantone sorgen gemeinsam für (1) ein ausreichendes Angebot, (2) an öffentlichem Verkehr, (3) auf Schiene, Strasse, Wasser und mit Seilbahnen, (4) in allen Landesgegenden. Der Begriff des «ausreichenden Angebots» ist ein unbestimmter Rechtsbegriff, der durch die Gesetzgebung und Praxis konkretisiert wird. Nach Griffel stellt er ausschliesslich auf die allgemeine Zugänglichkeit ab.
 
-**N. 6** Das «ausreichende Angebot» umfasst quantitative (Taktdichte, Netzabdeckung) und qualitative Aspekte (Zuverlässigkeit, Komfort, Barrierefreiheit). Der Anspruch richtet sich nicht an die Individuen, sondern verpflichtet Bund und Kantone zur gemeinsamen Aufgabenerfüllung. Die Formulierung «in allen Landesgegenden» konkretisiert die Grundversorgungspflicht und verlangt eine flächendeckende Erschliessung auch peripherer Gebiete (Kern, BSK BV, Art. 81a N. 7–9).
+**N. 6** Das «ausreichende Angebot» umfasst quantitative (Taktdichte, Netzabdeckung) und qualitative Aspekte (Zuverlässigkeit, Komfort, Barrierefreiheit). Der Anspruch richtet sich nicht an die Individuen, sondern verpflichtet Bund und Kantone zur gemeinsamen Aufgabenerfüllung. Die Formulierung «in allen Landesgegenden» konkretisiert die Grundversorgungspflicht und verlangt eine flächendeckende Erschliessung auch peripherer Gebiete.
 
 **N. 7** **Absatz 2** verankert das Prinzip der Nutzerfinanzierung: Die Kosten des öffentlichen Verkehrs werden «zu einem angemessenen Teil» durch die von den Nutzerinnen und Nutzern bezahlten Preise gedeckt. Die Wendung «angemessener Teil» ist ebenfalls ein unbestimmter Rechtsbegriff. Das Bundesgericht hat in **BGE 149 I 182** klargestellt, dass dieser Teil nicht null sein kann — eine vollständige Gratisfinanzierung ist verfassungswidrig.
 
-**N. 8** Bei der Berücksichtigung des Schienengüterverkehrs gemäss Abs. 1 geht es um die Koordination mit dem Personenverkehr bei der Trassenvergabe und Infrastrukturplanung. Die Bestimmung verlangt keine Gleichbehandlung, sondern eine angemessene Berücksichtigung der Güterverkehrsbedürfnisse (Kern, BSK BV, Art. 81a N. 11–12).
+**N. 8** Bei der Berücksichtigung des Schienengüterverkehrs gemäss Abs. 1 geht es um die Koordination mit dem Personenverkehr bei der Trassenvergabe und Infrastrukturplanung. Die Bestimmung verlangt keine Gleichbehandlung, sondern eine angemessene Berücksichtigung der Güterverkehrsbedürfnisse.
 
 ### 4. Rechtsfolgen
 
@@ -34,7 +34,7 @@
 
 ### 5. Streitstände
 
-**N. 12** **Umstrittene Obergrenze für Transportpreise**: In der Lehre ist umstritten, ob Art. 81a Abs. 2 BV eine Obergrenze für Transportpreise statuiert. Uhlmann (SG Komm. BV, Art. 81a N. 34) vertritt die Position, dass die Bestimmung eine globale Obergrenze darstellt: Eine vollständige Kostendeckung durch Nutzerpreise wäre demnach unzulässig, da dies den Gemeinwohlcharakter des öffentlichen Verkehrs negieren würde. Kern widerspricht dieser Auffassung (BSK BV, Art. 81a N. 32): Die Bestimmung stelle keine Obergrenze dar und schliesse eine vollständige Kostendeckung nicht aus.
+**N. 12** **Umstrittene Obergrenze für Transportpreise**: In der Lehre ist umstritten, ob Art. 81a Abs. 2 BV eine Obergrenze für Transportpreise statuiert. Uhlmann (SG Komm. BV, Art. 81a N. 34) vertritt die Position, dass die Bestimmung eine globale Obergrenze darstellt: Eine vollständige Kostendeckung durch Nutzerpreise wäre demnach unzulässig, da dies den Gemeinwohlcharakter des öffentlichen Verkehrs negieren würde. Kern widerspricht dieser Auffassung: Die Bestimmung stelle keine Obergrenze dar und schliesse eine vollständige Kostendeckung nicht aus.
 
 **N. 13** **Angemessener Kostendeckungsgrad**: Was als «angemessener Teil» der Kostendeckung gilt, ist in der Doktrin umstritten. Die Praxis zeigt Kostendeckungsgrade zwischen 40% und 60% im Regionalverkehr und bis zu 80% im Fernverkehr. Stückelberger/Haldimann (Schienenverkehrsrecht, 2008, S. 265) plädieren für eine differenzierte Betrachtung nach Verkehrsart und Region. Das Bundesgericht hat bisher keine Untergrenze in Prozenten definiert, sondern nur klargestellt, dass ein Nulltarif unzulässig ist (**BGE 149 I 182**).
 

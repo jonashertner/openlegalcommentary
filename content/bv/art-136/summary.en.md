@@ -2,7 +2,7 @@
 
 ## Overview
 
-Art. 136 Federal Constitution regulates in two paragraphs who may vote and elect in federal matters in Switzerland. The first paragraph establishes that all Swiss citizens aged 18 and above are entitled to vote. Only persons under comprehensive deputyship (formerly: disenfranchisement due to mental illness or mental weakness) are excluded. According to the case law of the Federal Supreme Court, these requirements are exhaustively regulated (**BGE 135 I 302**). The legislature may neither add new conditions nor change existing ones, as the BSK commentary states (Tschannen, BSK BV, Art. 136 N. 7).
+Art. 136 Federal Constitution regulates in two paragraphs who may vote and elect in federal matters in Switzerland. The first paragraph establishes that all Swiss citizens aged 18 and above are entitled to vote. Only persons under comprehensive deputyship (formerly: disenfranchisement due to mental illness or mental weakness) are excluded. According to the case law of the Federal Supreme Court, these requirements are exhaustively regulated (**BGE 135 I 302**). The legislature may neither add new conditions nor change existing ones, as the BSK commentary states.
 
 The second paragraph lists the specific rights: participation in National Council elections and federal votes as well as the right to sign or launch popular initiatives and referendums. The equality of all political rights means that every vote counts equally (equality of counting value).
 

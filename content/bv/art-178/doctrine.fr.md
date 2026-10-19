@@ -48,7 +48,7 @@
 
 ### 5. Points controversés
 
-**N. 15** **Portée de la transférabilité** : Müller (Die Auslagerung von Bundesaufgaben, 2020, p. 156) défend l'opinion que les tâches centrales du pouvoir d'État (p. ex. pouvoir de police, poursuite pénale) ne sont pas transférables. Waldmann (BSK BV, 2e éd. 2024, Art. 178 N. 23) considère en revanche qu'un transfert même de tâches souveraines est admissible, pour autant que la base légale soit suffisamment précise.
+**N. 15** **Portée de la transférabilité**: Müller (Die Auslagerung von Bundesaufgaben, 2020, p. 156) défend l'opinion que les tâches centrales du pouvoir d'État (p. ex. pouvoir de police, poursuite pénale) ne sont pas transférables. Waldmann considère en revanche qu'un transfert même de tâches souveraines est admissible, pour autant que la base légale soit suffisamment précise.
 
 **N. 16** **Compétences décisionnelles implicites** : Le Tribunal fédéral a décidé dans l'**ATF 137 II 409 consid. 7** que le transfert de tâches peut inclure implicitement les compétences décisionnelles nécessaires à leur accomplissement. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5e éd. 2021, § 41 N. 18) critique cela comme trop étendu et exige une réglementation légale explicite des compétences décisionnelles.
 

@@ -8,7 +8,7 @@ All Swiss men are in principle subject to civil defence service. Women may perfo
 
 ## What does the provision regulate?
 
-**Federal legislation (paragraph 1):** The Confederation enacts laws for protection against armed conflicts (law of war). According to prevailing doctrine, the cantons still have residual competencies (Diggelmann/Altwicker, BSK BV, Art. 61 N. 7).
+**Federal legislation (paragraph 1):** The Confederation enacts laws for protection against armed conflicts (law of war). According to prevailing doctrine, the cantons still have residual competencies.
 
 **Disaster response (paragraph 2):** The Confederation regulates civil defence in case of natural disasters, accidents and other emergency situations. This includes floods, earthquakes or pandemics.
 

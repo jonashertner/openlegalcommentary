@@ -37,7 +37,7 @@
 
 #### 3.2 Autorità giudiziarie intercantonali (cpv. 2)
 
-**N. 7** Il cpv. 2 autorizza i Cantoni a istituire autorità giudiziarie comuni. Questa competenza completa la facoltà generale di concludere convenzioni intercantonali (→ art. 48 Cost.). La disposizione ha funzione chiarificatrice ed elimina i dubbi costituzionali sulla legittimità di istanze giudiziarie comuni (Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, art. 191b n. 15).
+**N. 7** Il cpv. 2 autorizza i Cantoni a istituire autorità giudiziarie comuni. Questa competenza completa la facoltà generale di concludere convenzioni intercantonali (→ art. 48 Cost.). La disposizione ha funzione chiarificatrice ed elimina i dubbi costituzionali sulla legittimità di istanze giudiziarie comuni.
 
 **N. 8** Presupposti per tribunali intercantonali:
 - base convenzionale tra i Cantoni interessati
@@ -61,7 +61,7 @@
 
 **N. 13** **Requisiti per l'indipendenza giudiziaria**: Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3ª ed. 2016, n. 3640) sostengono una concezione formale secondo cui sono decisivi la denominazione come tribunale e la configurazione legale. La dottrina più recente (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4ª ed. 2014, § 10 n. 25) e la giurisprudenza seguono invece un approccio funzionale che si basa sull'indipendenza effettiva.
 
-**N. 14** **Portata del cpv. 2**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, art. 191b n. 12) vedono nel cpv. 2 un'autorizzazione costitutiva. Waldmann/Belser/Epiney (BSK BV, art. 191b n. 16) considerano invece la norma come dichiarativa, poiché la competenza deriverebbero già dall'art. 48 Cost. Il Tribunale federale ha lasciato aperta questa questione (**DTF 135 II 338** consid. 1).
+**N. 14** **Portata del cpv. 2**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, art. 191b n. 12) vedono nel cpv. 2 un'autorizzazione costitutiva. Waldmann/Belser/Epiney considerano invece la norma come dichiarativa, poiché la competenza deriverebbero già dall'art. 48 Cost. Il Tribunale federale ha lasciato aperta questa questione (**DTF 135 II 338** consid. 1).
 
 ### 6. Indicazioni pratiche
 

@@ -43,7 +43,7 @@
 
 **N. 11** In der Lehre ist umstritten, ob Art. 154 BV auch ein Recht auf angemessene finanzielle Ausstattung der Fraktionen begründet. **Häfelin/Haller/Keller/Thurnherr** (Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 1623) bejahen einen verfassungsrechtlichen Minimalanspruch, da ohne finanzielle Mittel die Fraktionsarbeit faktisch verunmöglicht würde. **Müller/Schefer** (Grundrechte in der Schweiz, 4. Aufl. 2008, S. 892) sehen die Finanzierung dagegen als reine Ausgestaltungsfrage der Geschäftsordnung.
 
-**N. 12** Kontrovers diskutiert wird auch die Frage der Mindestgrösse. Während **Rhinow/Schefer/Uebersax** (a.a.O., N 3246) die Fünfer-Grenze als sachgerecht erachten, plädiert **Waldmann** (BSK BV, 2. Aufl. 2024, Art. 154 N 7) für eine flexiblere Handhabung, die sich an den Grössenverhältnissen der Räte orientiert.
+**N. 12** Kontrovers diskutiert wird auch die Frage der Mindestgrösse. Während **Rhinow/Schefer/Uebersax** (a.a.O., N 3246) die Fünfer-Grenze als sachgerecht erachten, plädiert **Waldmann** für eine flexiblere Handhabung, die sich an den Grössenverhältnissen der Räte orientiert.
 
 ### 6. Praxishinweise
 

@@ -1,6 +1,6 @@
-Art. 54 BV regulates the Confederation's competence for all of Switzerland's foreign policy relations. The Confederation is exclusively responsible for relations with other states and international organisations (Epiney, BSK BV, Art. 54 N. 18). The cantons may not conclude international treaties without federal authorisation.
+Art. 54 BV regulates the Confederation's competence for all of Switzerland's foreign policy relations. The Confederation is exclusively responsible for relations with other states and international organisations. The cantons may not conclude international treaties without federal authorisation.
 
-The Constitution specifies concrete foreign policy objectives: Switzerland shall preserve its independence, but also actively contribute to solving global problems. This includes combating poverty, protecting human rights, promoting democracy, maintaining peace and protecting the environment. These objectives are programme clauses (guidelines) that do not create enforceable rights for individuals (Epiney, BSK BV, Art. 54 N. 24).
+The Constitution specifies concrete foreign policy objectives: Switzerland shall preserve its independence, but also actively contribute to solving global problems. This includes combating poverty, protecting human rights, promoting democracy, maintaining peace and protecting the environment. These objectives are programme clauses (guidelines) that do not create enforceable rights for individuals.
 
 The courts exercise very restrained control over foreign policy decisions. They only review whether the authorities have acted arbitrarily (**BGE 137 I 371 E. 1.2**). The political authorities enjoy wide discretionary powers.
 

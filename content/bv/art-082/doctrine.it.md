@@ -51,7 +51,7 @@
 - Tasse d'incentivazione (ad es. TTPCP secondo art. 85 Cost.)
 - Tasse generali sul traffico
 
-**N. 13** L'Assemblea federale può autorizzare eccezioni, come ha fatto per il contrassegno autostradale (art. 86 cpv. 2 Cost.) e la TTPCP (art. 85 Cost.). Le eccezioni devono tuttavia rimanere strettamente limitate (Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, art. 82 N 18).
+**N. 13** L'Assemblea federale può autorizzare eccezioni, come ha fatto per il contrassegno autostradale (art. 86 cpv. 2 Cost.) e la TTPCP (art. 85 Cost.). Le eccezioni devono tuttavia rimanere strettamente limitate.
 
 ### 4. Conseguenze giuridiche
 

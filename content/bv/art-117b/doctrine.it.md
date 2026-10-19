@@ -42,7 +42,7 @@
 
 ### 5. Controversie
 
-**N. 16** **Portata della competenza della Confederazione**: Nella dottrina è controverso fino a che punto si estenda la competenza della Confederazione secondo l'art. 117b Cost. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3a ed. 2016, § 64 n. 2876) sostengono un'interpretazione restrittiva, secondo cui la Confederazione può emanare solo regolamentazioni puntuali. Al contrario, Belser/Waldmann (BSK BV, 2a ed. 2024, art. 117b n. 15) propugnano un'interpretazione più ampia, che attribuisce alla Confederazione competenze regolamentari complete nel settore delle cure.
+**N. 16** **Portata della competenza della Confederazione**: Nella dottrina è controverso fino a che punto si estenda la competenza della Confederazione secondo l'art. 117b Cost. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3a ed. 2016, § 64 n. 2876) sostengono un'interpretazione restrittiva, secondo cui la Confederazione può emanare solo regolamentazioni puntuali. Al contrario, Belser/Waldmann propugnano un'interpretazione più ampia, che attribuisce alla Confederazione competenze regolamentari complete nel settore delle cure.
 
 **N. 17** **Rapporto con l'art. 117a Cost.**: È oggetto di discussione controversa il rapporto con le cure mediche di base. Mentre Ehrenzeller/Schindler (St. Galler Kommentar BV, 4a ed. 2023, art. 117b n. 8) esigono una delimitazione chiara, altri autori vedono le cure infermieristiche come parte integrante delle cure di base, il che condurrebbe a sovrapposizioni delle competenze.
 

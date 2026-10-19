@@ -6,7 +6,7 @@
 
 **N. 2** The total revision of the Federal Constitution of 1999 largely adopted the normative content of Art. 34ter old BV unchanged (BBl 1997 I 1, 278 f.). However, Art. 110 para. 3 BV was newly added, which establishes 1 August as a paid federal holiday. This addition goes back to the popular initiative «for a work-free federal holiday», which was accepted in 1993 (BBl 1991 III 269; BBl 1993 II 1305).
 
-**N. 3** The constitutional historical development shows that employee protection was gradually expanded: from the selective Factory Act of 1877 via the economic articles of 1947 to today's comprehensive federal competence. Tschudi emphasises that the constitutional norm grants the Confederation not only an authorisation but a mandate to enact employee protection provisions (Cardinaux, BSK BV, Art. 110 N. 22).
+**N. 3** The constitutional historical development shows that employee protection was gradually expanded: from the selective Factory Act of 1877 via the economic articles of 1947 to today's comprehensive federal competence. Tschudi emphasises that the constitutional norm grants the Confederation not only an authorisation but a mandate to enact employee protection provisions.
 
 ### 2. Systematic Classification
 
@@ -20,7 +20,7 @@
 
 **N. 7** **Employee protection (para. 1 lit. a)**: The competence encompasses all measures for the protection of the physical and psychological integrity of employees. This includes working time, health protection, protection against dismissal and special protective norms for young people and pregnant women. The Employment Act (ArG) forms the central implementation of this competence.
 
-**N. 8** **Collective labour law (para. 1 lit. b)**: The provision enables the regulation of social partnership. The scope is disputed: Cardinaux denies a basis for entrepreneurial co-determination, since the sovereign rejected corresponding proposals and such an intervention in property and economic freedom would require a clearer constitutional basis (Cardinaux, BSK BV, Art. 110 N. 35). Eichenberger, on the other hand, affirms the possibility of more extensive co-determination at the enterprise level (cited in Cardinaux, BSK BV, Art. 110 N. 35).
+**N. 8** **Collective labour law (para. 1 lit. b)**: The provision enables the regulation of social partnership. The scope is disputed: Cardinaux denies a basis for entrepreneurial co-determination, since the sovereign rejected corresponding proposals and such an intervention in property and economic freedom would require a clearer constitutional basis. Eichenberger, on the other hand, affirms the possibility of more extensive co-determination at the enterprise level.
 
 **N. 9** **Employment services (para. 1 lit. c)**: The competence covers public and private employment services as well as temporary employment. The Employment Services Act (AVG) regulates licensing obligations and protective provisions for placed and temporary employees.
 
@@ -38,7 +38,7 @@
 
 ### 5. Disputes
 
-**N. 15** **Scope of co-determination**: The doctrine is divided on the scope of Art. 110 para. 1 lit. b BV. Cardinaux rejects a constitutional basis for genuine enterprise co-determination and refers to the rejection of corresponding initiatives by the sovereign as well as the serious intervention in property and economic freedom (Cardinaux, BSK BV, Art. 110 N. 35). Eichenberger, on the other hand, sees in the formulation «joint regulation of operational and professional matters» a sufficient basis for more extensive co-determination rights (cited in Cardinaux, BSK BV, Art. 110 N. 35).
+**N. 15** **Scope of co-determination**: The doctrine is divided on the scope of Art. 110 para. 1 lit. b BV. Cardinaux rejects a constitutional basis for genuine enterprise co-determination and refers to the rejection of corresponding initiatives by the sovereign as well as the serious intervention in property and economic freedom. Eichenberger, on the other hand, sees in the formulation «joint regulation of operational and professional matters» a sufficient basis for more extensive co-determination rights.
 
 **N. 16** **Holiday compensation**: It was long disputed whether Art. 110 para. 3 BV applies only to monthly wage earners or also to hourly workers. The Federal Court clarified that the constitutional wage claim applies to all employees, provided 1 August falls on a working day (**BGE 136 I 290** E. 3). Streiff/von Kaenel/Rudolph criticise this restriction as too narrow (Arbeitsvertrag, N 4 zu Art. 329 OR).
 

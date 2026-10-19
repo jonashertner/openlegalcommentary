@@ -28,7 +28,7 @@
 
 #### b) Independence and Impartiality (para. 1)
 
-**N. 7** Independence has an institutional and an individual dimension. Institutionally, it requires organisational separation from other state powers, appropriate tenure, protection from dismissal and adequate financial resources (**BGE 140 I 271** E. 8). **Steinmann** (Basel Commentary Federal Constitution, Art. 30 N. 21) emphasises that factual dependencies such as re-election procedures can also be problematic.
+**N. 7** Independence has an institutional and an individual dimension. Institutionally, it requires organisational separation from other state powers, appropriate tenure, protection from dismissal and adequate financial resources (**BGE 140 I 271** E. 8). **Steinmann** emphasises that factual dependencies such as re-election procedures can also be problematic.
 
 **N. 8** Impartiality concerns the inner attitude of the judge. The Federal Supreme Court distinguishes between subjective bias (actual prejudice) and objective bias (appearance of prejudice). The latter suffices to affirm grounds for recusal (**BGE 131 I 113** E. 3.4).
 
@@ -46,7 +46,7 @@
 
 ### 4. Legal Consequences
 
-**N. 12** Violations of Art. 30 para. 1 Federal Constitution lead to nullity of the judgment. In case of bias of a judge, the entire proceedings from his participation must be repeated (**BGE 139 III 120** E. 3). **Seiler** (Basel Commentary Federal Constitution, Art. 30 N. 34) argues that even with structural independence defects, no cure is possible.
+**N. 12** Violations of Art. 30 para. 1 Federal Constitution lead to nullity of the judgment. In case of bias of a judge, the entire proceedings from his participation must be repeated (**BGE 139 III 120** E. 3). **Seiler** argues that even with structural independence defects, no cure is possible.
 
 **N. 13** The violation of domicile jurisdiction can be cured if the defendant party enters an appearance without objection. The violation of open justice only leads to annulment in serious cases, whereby **Rhinow/Schefer/Uebersax** (Constitutional Law, N. 2894) demand a balancing of interests.
 
@@ -56,7 +56,7 @@
 
 **N. 15** **Judicial Independence in Re-election**: **Kiener/Kälin/Wyttenbach** (Fundamental Rights, § 41 N. 12) see a structural threat to independence in periodic re-elections. **Mastronardi** (St. Gallen Commentary Federal Constitution, Preliminary remarks to Art. 188-191c N. 28) counters that democratic legitimacy also requires re-elections. **Lienhard/Kettiger** (Justice between Management and Rule of Law, 178) demand longer terms of office as a compromise.
 
-**N. 16** **Scope of Open Justice**: The reach of publicity is controversial. **Oberholzer** (Principles of Criminal Procedure Law, N. 156) advocates for comprehensive media publicity. **Vest/Höhener** (Basel Commentary Criminal Procedure Code, Art. 69 N. 8) urge protection of proceedings participants. The Federal Supreme Court weights transparency higher (**BGE 143 I 194**).
+**N. 16** **Scope of Open Justice**: The reach of publicity is controversial. **Oberholzer** (Principles of Criminal Procedure Law, N. 156) advocates for comprehensive media publicity. **Vest/Höhener** urge protection of proceedings participants. The Federal Supreme Court weights transparency higher (**BGE 143 I 194**).
 
 ### 6. Practice Notes
 

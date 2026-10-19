@@ -8,6 +8,6 @@ Le **principe de subsidiarité** est central : les solutions privées et cantona
 
 **Exemple** : la Confédération soutient une région de montagne structurellement faible dans l'édification d'infrastructures touristiques, après qu'il s'est avéré que la région ne peut pas stopper l'exode avec ses propres moyens et l'aide cantonale.
 
-Il est controversé dans la doctrine si l'art. 103 Cst. contient aussi une compétence générale de promotion économique sans réserve de subsidiarité. La pratique fédérale l'affirme en se référant à la situation juridique sous l'ancienne Constitution fédérale, tandis qu'Oesch/Mayoraz (BSK BV, art. 103 n. 18) argumentent que le libellé clair s'oppose à une telle interprétation.
+Il est controversé dans la doctrine si l'art. 103 Cst. contient aussi une compétence générale de promotion économique sans réserve de subsidiarité. La pratique fédérale l'affirme en se référant à la situation juridique sous l'ancienne Constitution fédérale, tandis qu'Oesch/Mayoraz argumentent que le libellé clair s'oppose à une telle interprétation.
 
 Il n'existe aucun droit à l'aide structurelle. La Confédération décide selon son pouvoir d'appréciation. Les obligations internationales (droit OMC, accords bilatéraux) fixent des limites à la politique structurelle.

@@ -4,7 +4,7 @@ Art. 62 BV regulates the competences in the education system between the Confede
 
 **Who is affected?** All children living in Switzerland are entitled to free basic school instruction. This also applies to foreign children without residence permits. Disabled children have additional entitlements to special support. Parents must send their children to school — this is mandatory.
 
-**What are the legal consequences?** The cantons must provide sufficient schools and may not charge school fees for compulsory instruction. The Federal Supreme Court has clarified: All necessary teaching materials such as books and exercise books must be free (**BGE 144 I 1**). Regarding special needs education, it is disputed whether disabled children have a direct claim in court. Legal doctrine is divided (Hänni, BSK BV, Art. 62 N. 70).
+**What are the legal consequences?** The cantons must provide sufficient schools and may not charge school fees for compulsory instruction. The Federal Supreme Court has clarified: All necessary teaching materials such as books and exercise books must be free (**BGE 144 I 1**). Regarding special needs education, it is disputed whether disabled children have a direct claim in court. Legal doctrine is divided.
 
 If the cantons cannot agree on common standards, the Confederation may intervene. This concerns, for example, the age at school entry or the recognition of qualifications. However, this federal competence is subsidiary — it only applies if the cantons fail.
 

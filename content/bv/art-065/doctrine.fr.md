@@ -20,7 +20,7 @@
 
 **N. 5** **« Données statistiques nécessaires »** (al. 1) : La notion de nécessité confère à la Confédération une large marge d'appréciation. L'intérêt public au relevé respectif est déterminant (Ehrenzeller/Mastronardi/Schweizer/Vallender, St. Galler Kommentar BV, 4e éd. 2023, art. 65 N 4). La nécessité doit être interprétée à la lumière de la proportionnalité.
 
-**N. 6** Le catalogue des domaines de relevé (« population, économie, société, éducation, recherche, territoire et environnement ») est exemplaire, non exhaustif. Cela résulte du libellé « sur l'état et l'évolution de », qui permet une interprétation dynamique (BSK BV-Schweizer, 2e éd. 2024, art. 65 N 7).
+**N. 6** Le catalogue des domaines de relevé (« population, économie, société, éducation, recherche, territoire et environnement ») est exemplaire, non exhaustif. Cela résulte du libellé « sur l'état et l'évolution de », qui permet une interprétation dynamique.
 
 **N. 7** **« Harmonisation et tenue de registres officiels »** (al. 2) : Cette compétence est facultative (« peut »). Elle vise à éviter les relevés multiples et à utiliser efficacement les stocks de données existants. L'harmonisation concerne avant tout les standards techniques et les définitions, non le contenu des registres eux-mêmes (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10e éd. 2020, N 1234a).
 
@@ -34,7 +34,7 @@
 
 ### 5. Points controversés
 
-**N. 11** **Étendue de la compétence fédérale** : Il est controversé de savoir si l'art. 65 Cst. confère une compétence statistique globale ou seulement relative aux tâches fédérales. La doctrine dominante défend une interprétation large, car des statistiques fiables sont nécessaires pour tous les niveaux étatiques (Ehrenzeller et al., St. Galler Kommentar BV, art. 65 N 3 ; contra Schweizer, BSK BV, art. 65 N 5, qui préconise une limitation aux tâches fédérales).
+**N. 11** **Étendue de la compétence fédérale**: Il est controversé de savoir si l'art. 65 Cst. confère une compétence statistique globale ou seulement relative aux tâches fédérales. La doctrine dominante défend une interprétation large, car des statistiques fiables sont nécessaires pour tous les niveaux étatiques (Ehrenzeller et al., St. Galler Kommentar BV, art. 65 N 3).
 
 **N. 12** **Rapport avec la protection des données** : La tension entre relevés statistiques étendus et protection de la personnalité fait l'objet de discussions controversées. Müller/Schefer (Grundrechte in der Schweiz, 4e éd. 2008, p. 234) soulignent la primauté de la protection des données, tandis que Rhinow/Schefer/Uebersax (N 3656) plaident pour une pesée des intérêts au cas par cas. Le Tribunal fédéral a concrétisé les limites de droit de la protection des données dans l'arrêt ATF 1C_425/2020.
 

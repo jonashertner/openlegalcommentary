@@ -6,7 +6,7 @@ Cette disposition constitutionnelle crée une base commune pour l'architecture s
 
 Sont concernées toutes les autorités étatiques chargées de tâches sécuritaires : police, garde-frontières, service de renseignement, armée et protection civile. Les citoyennes et citoyens sont aussi indirectement concernés, car ils peuvent bénéficier des mesures de sécurité ou en être affectés.
 
-Les conséquences juridiques sont limitées. Selon la doctrine dominante (Diggelmann/Altwicker, BSK BV, art. 57 n. 23-26), l'art. 57 Cst. ne crée pas de nouvelles compétences, mais présuppose l'existence de compétences établies. Il est controversé de savoir si l'obligation de coordination de l'alinéa 2 confère à la Confédération de nouvelles compétences réglementaires. La doctrine dominante le nie en raison de l'ordre fédéraliste des compétences.
+Les conséquences juridiques sont limitées. Selon la doctrine dominante, l'art. 57 Cst. ne crée pas de nouvelles compétences, mais présuppose l'existence de compétences établies. Il est controversé de savoir si l'obligation de coordination de l'alinéa 2 confère à la Confédération de nouvelles compétences réglementaires. La doctrine dominante le nie en raison de l'ordre fédéraliste des compétences.
 
 Un exemple d'application pratique est le concordat sur les mesures contre la violence lors de manifestations sportives. Le Tribunal fédéral a confirmé sa licéité en tant que coordination policière intercantonale (ATF 140 I 2). En cas de situations sécuritaires transfrontalières, les polices cantonales et les autorités fédérales collaborent, notamment dans la lutte contre le terrorisme ou la criminalité organisée.
 

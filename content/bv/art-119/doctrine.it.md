@@ -8,7 +8,7 @@
 
 ## 2. Classificazione sistematica
 
-**N. 3** L'art. 119 Cost. è sistematicamente inserito nel 2° titolo «Diritti fondamentali, diritti civili e obiettivi sociali», ma non costituisce una norma di diritto fondamentale che conferisce immediatamente un diritto soggettivo. Piuttosto si tratta di una norma di protezione e di legislazione con effetto rafforzativo dei diritti fondamentali (Belser/Molinari, BSK BV, Art. 119 N. 9). La disposizione concretizza la protezione della dignità umana (→ art. 7 Cost.) e della libertà personale (→ art. 10 Cost.) nel settore biotecnologico.
+**N. 3** L'art. 119 Cost. è sistematicamente inserito nel 2° titolo «Diritti fondamentali, diritti civili e obiettivi sociali», ma non costituisce una norma di diritto fondamentale che conferisce immediatamente un diritto soggettivo. Piuttosto si tratta di una norma di protezione e di legislazione con effetto rafforzativo dei diritti fondamentali. La disposizione concretizza la protezione della dignità umana (→ art. 7 Cost.) e della libertà personale (→ art. 10 Cost.) nel settore biotecnologico.
 
 **N. 4** Lo stretto collegamento con l'→ art. 118b Cost. (medicina dei trapianti), l'→ art. 119a Cost. (analisi del genoma nel settore delle assicurazioni e del lavoro) e l'→ art. 120 Cost. (tecnologia genetica nel settore extra-umano) mostra la regolamentazione costituzionale completa della biotecnologia. A livello internazionale l'art. 119 Cost. corrisponde alla Convenzione sulla biomedicina del Consiglio d'Europa (CBM), la cui ratifica da parte della Svizzera è tuttavia ancora in sospeso.
 
@@ -16,11 +16,11 @@
 
 ### a) Mandato di protezione (cpv. 1)
 
-**N. 5** La protezione dagli «abusi» non comprende un divieto generale della medicina della riproduzione e della tecnologia genetica, ma mira alla loro applicazione responsabile (Belser/Molinari, BSK BV, Art. 119 N. 12). Il concetto di «abuso» è aperto a valutazioni e necessita di concretizzazione da parte del legislatore. Il Tribunale federale ha chiarito che il desiderio di avere figli rappresenta una manifestazione elementare dello sviluppo della personalità e rientra nell'ambito di protezione della libertà personale (**DTF 119 Ia 460 consid. 4**).
+**N. 5** La protezione dagli «abusi» non comprende un divieto generale della medicina della riproduzione e della tecnologia genetica, ma mira alla loro applicazione responsabile. Il concetto di «abuso» è aperto a valutazioni e necessita di concretizzazione da parte del legislatore. Il Tribunale federale ha chiarito che il desiderio di avere figli rappresenta una manifestazione elementare dello sviluppo della personalità e rientra nell'ambito di protezione della libertà personale (**DTF 119 Ia 460 consid. 4**).
 
 ### b) Mandato legislativo (cpv. 2 incipit)
 
-**N. 6** L'obbligo legislativo imperativo («emana disposizioni») obbliga la Confederazione a emanare normative complete. La triade di beni protetti — dignità umana, personalità e famiglia — forma il quadro normativo. Il concetto di famiglia secondo Belser/Molinari (BSK BV, Art. 119 N. 30) deve essere inteso in senso ampio e comprende la vita familiare secondo l'→ art. 13 cpv. 1 Cost. e l'art. 8 CEDU, non solo la famiglia nucleare tradizionale.
+**N. 6** L'obbligo legislativo imperativo («emana disposizioni») obbliga la Confederazione a emanare normative complete. La triade di beni protetti — dignità umana, personalità e famiglia — forma il quadro normativo. Il concetto di famiglia secondo Belser/Molinari deve essere inteso in senso ampio e comprende la vita familiare secondo l'→ art. 13 cpv. 1 Cost. e l'art. 8 CEDU, non solo la famiglia nucleare tradizionale.
 
 ### c) Principi (cpv. 2 lett. a–g)
 
@@ -28,7 +28,7 @@
 
 **N. 8** **Limite di specie (lett. b)**: Il divieto di formazione di chimere e ibridi protegge l'integrità biologica della specie umana. L'uso di mitocondri animali nella FIVET è controverso (Müller, Questioni giuridiche e etiche, pag. 152).
 
-**N. 9** **Medicina della riproduzione (lett. c)**: La clausola di sussidiarietà («non può essere curata diversamente») è discussa in modo controverso. Belser/Molinari (BSK BV, Art. 119 N. 30) argomentano che la sterilità nel senso del diritto costituzionale debba essere intesa in modo comprensivo come desiderio di figli non realizzabile, anche nelle coppie omosessuali. La LMed rappresenta per contro una concezione più restrittiva.
+**N. 9** **Medicina della riproduzione (lett. c)**: La clausola di sussidiarietà («non può essere curata diversamente») è discussa in modo controverso. Belser/Molinari argomentano che la sterilità nel senso del diritto costituzionale debba essere intesa in modo comprensivo come desiderio di figli non realizzabile, anche nelle coppie omosessuali. La LMed rappresenta per contro una concezione più restrittiva.
 
 **N. 10** **Divieto di maternità surrogata (lett. d)**: Il divieto assoluto forma secondo **DTF 141 III 328 consid. 7.4.1** il nucleo dell'ordine pubblico svizzero. Anche la donazione di embrioni è vietata senza eccezioni, al contrario della donazione di gameti che è permessa.
 
@@ -46,9 +46,9 @@
 
 ## 5. Questioni controverse
 
-**N. 16** **Concetto di famiglia**: La controversia centrale riguarda la portata del concetto di famiglia del diritto costituzionale. Mentre Belser/Molinari (BSK BV, Art. 119 N. 30) propendono per una concezione ampia nel senso dell'art. 8 CEDU, che include anche le coppie non sposate e omosessuali, la LMed rappresenta un concetto di famiglia più ristretto. Questa divergenza ha ripercussioni immediate sull'accesso alla medicina della riproduzione.
+**N. 16** **Concetto di famiglia**: La controversia centrale riguarda la portata del concetto di famiglia del diritto costituzionale. Mentre Belser/Molinari propendono per una concezione ampia nel senso dell'art. 8 CEDU, che include anche le coppie non sposate e omosessuali, la LMed rappresenta un concetto di famiglia più ristretto. Questa divergenza ha ripercussioni immediate sull'accesso alla medicina della riproduzione.
 
-**N. 17** **Concetto di sterilità**: È controverso se la sterilità sociale (nelle coppie omosessuali o nei single) debba essere equiparata a quella medica. Belser/Molinari (BSK BV, Art. 119 N. 30) sostengono un'interpretazione comprensiva che include ogni desiderio di figli non realizzabile. La posizione contraria richiede un'indicazione medica (Gächter/Rütsche, Diritto sanitario, § 14 N. 567).
+**N. 17** **Concetto di sterilità**: È controverso se la sterilità sociale (nelle coppie omosessuali o nei single) debba essere equiparata a quella medica. Belser/Molinari sostengono un'interpretazione comprensiva che include ogni desiderio di figli non realizzabile. La posizione contraria richiede un'indicazione medica (Gächter/Rütsche, Diritto sanitario, § 14 N. 567).
 
 **N. 18** **Diagnosi preimpianto**: La modifica costituzionale avvenuta nel 2015 ha risolto solo parzialmente la controversia sulla ammissibilità della DPI. Resta controversa la portata degli esami genetici ammissibili e la definizione di «malattie gravi» (Addor/Bühler, sic! 2004, pag. 389).
 

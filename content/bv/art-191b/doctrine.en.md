@@ -37,7 +37,7 @@
 
 #### 3.2 Intercantonal judicial authorities (para. 2)
 
-**N. 7** Para. 2 empowers the cantons to establish common judicial authorities. This competence supplements the general power to conclude intercantonal treaties (→ Art. 48 BV). The provision has a clarifying function and removes constitutional doubts about the admissibility of common court instances (Waldmann/Belser/Epiney, Basel Commentary BV, 2nd ed. 2024, Art. 191b N 15).
+**N. 7** Para. 2 empowers the cantons to establish common judicial authorities. This competence supplements the general power to conclude intercantonal treaties (→ Art. 48 BV). The provision has a clarifying function and removes constitutional doubts about the admissibility of common court instances.
 
 **N. 8** Requirements for intercantonal courts:
 - treaty basis between the participating cantons
@@ -61,7 +61,7 @@
 
 **N. 13** **Requirements for judicial independence**: Rhinow/Schefer/Uebersax (Swiss Constitutional Law, 3rd ed. 2016, N 3640) represent a formal view according to which the designation as a court and the statutory design are decisive. Recent doctrine (Tschannen/Zimmerli/Müller, General Administrative Law, 4th ed. 2014, § 10 N 25) and case law follow a functional approach that focuses on actual independence.
 
-**N. 14** **Scope of para. 2**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Commentary BV, Art. 191b N 12) see in para. 2 a constitutive empowerment. Waldmann/Belser/Epiney (Basel Commentary BV, Art. 191b N 16) regard the provision as declaratory, since the competence already results from Art. 48 BV. The Federal Supreme Court has left this question open (**BGE 135 II 338** consid. 1).
+**N. 14** **Scope of para. 2**: Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Commentary BV, Art. 191b N 12) see in para. 2 a constitutive empowerment. Waldmann/Belser/Epiney regard the provision as declaratory, since the competence already results from Art. 48 BV. The Federal Supreme Court has left this question open (**BGE 135 II 338** consid. 1).
 
 ### 6. Practice Notes
 

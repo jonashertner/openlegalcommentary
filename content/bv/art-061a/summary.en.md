@@ -1,10 +1,10 @@
 ## Overview
 
-Art. 61a FC is the centrepiece of the Swiss «education constitution» and regulates the coordination of the education system between the Confederation and the cantons (Hänni, BSK BV, Art. 61a N. 10-12). The provision obliges all state levels to work together to ensure a high-quality and permeable Swiss education system.
+Art. 61a FC is the centrepiece of the Swiss «education constitution» and regulates the coordination of the education system between the Confederation and the cantons. The provision obliges all state levels to work together to ensure a high-quality and permeable Swiss education system.
 
-**Who is affected?** The coordination obligation applies to the Confederation, cantons and their educational institutions at all levels - from primary school to higher education (Hänni, BSK BV, Art. 61a N. 20-21). Pupils, students and working people also benefit from the improved permeability between educational pathways.
+**Who is affected?** The coordination obligation applies to the Confederation, cantons and their educational institutions at all levels - from primary school to higher education. Pupils, students and working people also benefit from the improved permeability between educational pathways.
 
-**The three main objectives** of the provision are firstly quality assurance through common standards, secondly permeability between different educational levels and pathways, and thirdly equal social recognition of vocational and general education (Hänni, BSK BV, Art. 61a N. 22-27).
+**The three main objectives** of the provision are firstly quality assurance through common standards, secondly permeability between different educational levels and pathways, and thirdly equal social recognition of vocational and general education.
 
 **Practical consequences:** The Confederation and cantons must coordinate their educational measures and can no longer act in isolation. This led to harmonisation projects such as the HarmoS Concordat and Curriculum 21. Educational qualifications are recognised throughout Switzerland, and switching between cantons or educational programmes is facilitated.
 

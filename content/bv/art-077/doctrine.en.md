@@ -20,7 +20,7 @@
 
 ### Multifunctionality of Forests (para. 1)
 
-**No. 7** The constitutional legislator enshrines in para. 1 the three classical forest functions: The **protective function** encompasses protection against natural hazards (avalanches, rockfall, erosion) and the climatic compensatory function. The **utilisation function** primarily includes timber production as a renewable raw material. The **welfare function** encompasses recreation, biodiversity, water protection and air purification (Hoffmann/Griffel, BSK BV, Art. 77 No. 12-15).
+**No. 7** The constitutional legislator enshrines in para. 1 the three classical forest functions: The **protective function** encompasses protection against natural hazards (avalanches, rockfall, erosion) and the climatic compensatory function. The **utilisation function** primarily includes timber production as a renewable raw material. The **welfare function** encompasses recreation, biodiversity, water protection and air purification.
 
 **No. 8** This triad of forest functions is not exhaustive. Modern forest policy recognises additional functions such as CO₂ storage in the context of climate protection. Decisive is the equal consideration of all functions without a priori prioritisation (Griffel, Forest and Law, SZF 2012, 305).
 
@@ -30,11 +30,11 @@
 
 **No. 10** The term "principles" must be interpreted restrictively. The Confederation may only establish the essential guidelines, while detailed regulation and implementation remain primarily with the cantons (Häfelin/Haller/Keller/Thurnherr, Federal Constitutional Law, No. 1127). Practice shows, however, an extensive exploitation of this competence in the Forest Act.
 
-**No. 11** It is disputed whether the principles-based legislative competence also legitimises implementation competences of the Confederation. **Jagmetti** (cited in Hoffmann/Griffel, BSK BV, Art. 77 No. 20) denies this with reference to the difference from the former supervisory competence. **Hoffmann/Griffel** (BSK BV, Art. 77 No. 20) affirm this, however, based on → Art. 46 para. 1 BV for limited federal implementation competences.
+**No. 11** It is disputed whether the principles-based legislative competence also legitimises implementation competences of the Confederation. **Jagmetti** denies this with reference to the difference from the former supervisory competence. **Hoffmann/Griffel** affirm this, however, based on → Art. 46 para. 1 BV for limited federal implementation competences.
 
 ### Promotional Competence (para. 3)
 
-**No. 12** The promotional competence empowers the Confederation to take financial and non-financial support measures. Typical instruments are subsidies for protective forest care, research promotion and training contributions (Hoffmann/Griffel, BSK BV, Art. 77 No. 23).
+**No. 12** The promotional competence empowers the Confederation to take financial and non-financial support measures. Typical instruments are subsidies for protective forest care, research promotion and training contributions.
 
 **No. 13** Promotion is facultative ("it promotes") and is subject to the availability of funds. It complements the regulatory measures of principles-based legislation through incentive mechanisms of cooperative administrative action.
 
@@ -52,7 +52,7 @@
 
 **No. 17** The permissible regulatory density in principles-based legislative competences is controversially discussed. **Rausch/Marti/Griffel** (Environmental Law, 142) advocate a restrictive interpretation: the Confederation may only issue framework provisions. **Keller** (People's Initiative "Save the Swiss Forest", 23) argues for a broader interpretation given the national importance of forest protection.
 
-**No. 18** Particularly controversial is the dynamic forest concept of the ForA. **Hoffmann/Griffel** (BSK BV, Art. 77 No. 17) criticise that the federal legislator granted the cantons "plein pouvoir" to replace it with the static forest concept without formulating restrictive criteria. **Jaissle** (The Dynamic Forest Concept, 187 ff.) defends the flexibility as necessary for cantonal spatial planning.
+**No. 18** Particularly controversial is the dynamic forest concept of the ForA. **Hoffmann/Griffel** criticise that the federal legislator granted the cantons "plein pouvoir" to replace it with the static forest concept without formulating restrictive criteria. **Jaissle** (The Dynamic Forest Concept, 187 ff.) defends the flexibility as necessary for cantonal spatial planning.
 
 ### Relationship to International Obligations
 
@@ -60,7 +60,7 @@
 
 ### Federal Implementation in Principles-based Legislation
 
-**No. 20** The dispute about federal implementation competences with mere principles-based legislation remains current. **Jagmetti** (cited in Hoffmann/Griffel, BSK BV, Art. 77 No. 20) sees in the constitutional revision a deliberate competence shift to the cantons. **Hoffmann/Griffel** (BSK BV, Art. 77 No. 20) and **Wild** (The Clearing Permit, ZBl 2002, 120) argue that → Art. 46 para. 1 BV permits specific federal implementation competences even with principles-based legislation.
+**No. 20** The dispute about federal implementation competences with mere principles-based legislation remains current. **Jagmetti** sees in the constitutional revision a deliberate competence shift to the cantons. **Hoffmann/Griffel** and **Wild** (The Clearing Permit, ZBl 2002, 120) argue that → Art. 46 para. 1 BV permits specific federal implementation competences even with principles-based legislation.
 
 ## Practice Notes
 

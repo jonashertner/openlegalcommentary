@@ -1,6 +1,6 @@
 # Panoramica
 
-L'art. 72 Cost. disciplina le competenze tra Confederazione e Cantoni nel diritto religioso. I Cantoni sono competenti per i rapporti tra Chiesa e Stato. Possono riconoscere le comunità religiose di diritto pubblico e riscuotere imposte ecclesiastiche. Non esiste però un diritto al riconoscimento (Winzeler, BSK BV, Art. 72 N. 20).
+L'art. 72 Cost. disciplina le competenze tra Confederazione e Cantoni nel diritto religioso. I Cantoni sono competenti per i rapporti tra Chiesa e Stato. Possono riconoscere le comunità religiose di diritto pubblico e riscuotere imposte ecclesiastiche. Non esiste però un diritto al riconoscimento.
 
 I Cantoni organizzano autonomamente le loro Chiese cantonali. Il Tribunale federale ha confermato nella **DTF 129 I 68**: È possibile un «recesso parziale» solo dalla Chiesa cantonale, se il diritto cantonale lo prevede. I Cantoni devono però rispettare la libertà religiosa (art. 15 Cost.) (**DTF 145 I 121**).
 

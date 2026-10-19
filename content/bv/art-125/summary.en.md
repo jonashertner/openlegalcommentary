@@ -1,8 +1,8 @@
 # Overview
 
-Article 125 Federal Constitution grants the Confederation exclusive competence for all legislation on metrology (Göksu, BSK BV, Art. 125 N. 5). This competence has existed since the first Federal Constitution of 1848 and serves to unify law in commercial transactions (Botsch. BV, BBl 1997 I 368).
+Article 125 Federal Constitution grants the Confederation exclusive competence for all legislation on metrology. This competence has existed since the first Federal Constitution of 1848 and serves to unify law in commercial transactions (Botsch. BV, BBl 1997 I 368).
 
-Metrology comprises three main areas: the definition of units of measurement (such as metre, kilogram, second), the technical requirements for measuring instruments and their regular calibration (verification of accuracy) (Art. 2 para. 1 MetrO; Göksu, BSK BV, Art. 125 N. 2-4). The Confederation has implemented this competence through the Federal Act on Metrology (MetrO).
+Metrology comprises three main areas: the definition of units of measurement (such as metre, kilogram, second), the technical requirements for measuring instruments and their regular calibration (verification of accuracy) (Art. 2 para. 1 MetrO). The Confederation has implemented this competence through the Federal Act on Metrology (MetrO).
 
 All enterprises and persons using measuring instruments in commercial transactions are affected. This includes petrol stations with fuel pumps, bakeries with scales, electricity companies with electricity meters or taxi companies with tachographs (Art. 3 MetrO). These measuring instruments must be approved by the Federal Institute of Metrology (METAS) and regularly calibrated.
 

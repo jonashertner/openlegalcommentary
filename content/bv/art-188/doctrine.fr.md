@@ -63,7 +63,7 @@
 
 **N. 15** La portée de l'autonomie administrative en matière de souveraineté budgétaire fait également l'objet de discussions controversées. Müller/Schefer, Grundrechte in der Schweiz, 4e éd. 2008, p. 962, revendiquent une autonomie budgétaire complète, tandis que la doctrine dominante (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4e éd. 2014, § 11 n° 28) considère la souveraineté budgétaire parlementaire comme ayant priorité constitutionnelle.
 
-**N. 16** La portée de la réserve de la loi pour les règlements de procédure est également litigieuse. Une partie de la doctrine (Waldmann/Belser/Epiney, BSK BV, 2e éd. 2024, art. 188 n° 15) exige une habilitation légale explicite, tandis que d'autres (Kley, ZSR 2020, p. 215) considèrent la garantie d'autonomie administrative comme base suffisante.
+**N. 16** La portée de la réserve de la loi pour les règlements de procédure est également litigieuse. Une partie de la doctrine exige une habilitation légale explicite, tandis que d'autres (Kley, ZSR 2020, p. 215) considèrent la garantie d'autonomie administrative comme base suffisante.
 
 ## 6. Conseils pratiques
 

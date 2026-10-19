@@ -63,7 +63,7 @@
 
 ### 5. Questioni controverse
 
-**N. 15** **Portata dell'obbligo di approvazione**: Nella dottrina è controverso fin dove si estendano le eccezioni all'obbligo di approvazione. Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo Cost., Art. 166 N. 15) sostengono un'interpretazione restrittiva e sottolineano che l'approvazione parlamentare costituisce la regola, la delega l'eccezione. Waldmann/Belser/Epiney (BSK Cost., Art. 166 N. 22) riconoscono invece un maggiore margine di manovra per conclusioni esecutive di trattati in materie tecniche.
+**N. 15** **Portata dell'obbligo di approvazione**: Nella dottrina è controverso fin dove si estendano le eccezioni all'obbligo di approvazione. Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo Cost., Art. 166 N. 15) sostengono un'interpretazione restrittiva e sottolineano che l'approvazione parlamentare costituisce la regola, la delega l'eccezione. Waldmann/Belser/Epiney riconoscono invece un maggiore margine di manovra per conclusioni esecutive di trattati in materie tecniche.
 
 **N. 16** **Natura giuridica dei Memoranda d'intesa**: Si discute in modo controverso se dichiarazioni d'intento giuridicamente non vincolanti (MoU) rientrino nell'art. 166 Cost. La prassi del Consiglio federale (GAAC 68.83) nega l'obbligo di approvazione per strumenti giuridicamente non vincolanti. Parti della dottrina criticano questa prassi come troppo estensiva, poiché anche dichiarazioni d'intento politicamente rilevanti dovrebbero sottostare al controllo parlamentare (Thürer/Müller, in: Ehrenzeller et al., Commentario di San Gallo Cost., Art. 166 N. 18).
 

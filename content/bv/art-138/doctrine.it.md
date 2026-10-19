@@ -37,7 +37,7 @@
 
 ## 4. Conseguenze giuridiche
 
-**N. 9** Se l'iniziativa riesce con 100'000 firme valide, deve obbligatoriamente essere sottoposta al voto del popolo. L'Assemblea federale non ha competenza di esame materiale e non può né dichiarare l'iniziativa invalida né presentare un controprogetto (Ehrenzeller, BSK BV, 2ª ed. 2024, Art. 138 N 15).
+**N. 9** Se l'iniziativa riesce con 100'000 firme valide, deve obbligatoriamente essere sottoposta al voto del popolo. L'Assemblea federale non ha competenza di esame materiale e non può né dichiarare l'iniziativa invalida né presentare un controprogetto.
 
 **N. 10** Se il popolo accetta l'iniziativa, ciò innesca la procedura di revisione totale secondo l'art. 193 cpv. 2-4 Cost.:
 1. Rinnovo di entrambe le Camere

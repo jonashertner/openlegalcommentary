@@ -4,7 +4,7 @@
 
 ### 1. History of Enactment
 
-**N. 1** The incompatibility provisions have a long constitutional tradition. The Federal Constitution of 1848 already contained corresponding regulations in Art. 66, 70, 85 and 97. The BV 1874 continued these in Art. 77, 81, 97 and 108 (Schaub, BSK BV, Art. 144 N. 1). During the total revision of 1999, the various provisions were systematically consolidated in Art. 144 BV. The Federal Council Message on a New Federal Constitution of 20 November 1996 (BBl 1997 I 1 ff., 377 f.) stated that the provision takes over the existing incompatibilities unchanged and aims at their systematisation.
+**N. 1** The incompatibility provisions have a long constitutional tradition. The Federal Constitution of 1848 already contained corresponding regulations in Art. 66, 70, 85 and 97. The BV 1874 continued these in Art. 77, 81, 97 and 108. During the total revision of 1999, the various provisions were systematically consolidated in Art. 144 BV. The Federal Council Message on a New Federal Constitution of 20 November 1996 (BBl 1997 I 1 ff., 377 f.) stated that the provision takes over the existing incompatibilities unchanged and aims at their systematisation.
 
 ### 2. Systematic Classification
 
@@ -24,7 +24,7 @@
 
 **N. 5** The term "simultaneously" must be interpreted strictly. Election to another authority already triggers the incompatibility, not just the exercise of office. In case of dual elections, the affected person must decide immediately for one office (Beeler, Personelle Gewaltentrennung, p. 85 ff.).
 
-**N. 6** The Federal Chancellor is not explicitly covered. However, the prevailing doctrine postulates an analogous application of Art. 144 para. 1 BV to this position as chief of staff of the Federal Council (Schaub, BSK BV, Art. 144 N. 10).
+**N. 6** The Federal Chancellor is not explicitly covered. However, the prevailing doctrine postulates an analogous application of Art. 144 para. 1 BV to this position as chief of staff of the Federal Council.
 
 #### 3.2 Restriction of Other Activities (Para. 2)
 
@@ -34,9 +34,9 @@
 
 **N. 8** The term "other office" encompasses any permanent or temporary public function with sovereign character. Pure honorary offices without decision-making powers are not covered (Buffat, Les Incompatibilités, p. 122 ff.).
 
-**N. 9** "Gainful activity" means any activity aimed at gain, regardless of the amount of remuneration. However, the prevailing doctrine wants to allow Federal Councillors secondary occupations for small and irregular remuneration, provided these do not impair the conduct of office (Schaub, BSK BV, Art. 144 N. 14).
+**N. 9** "Gainful activity" means any activity aimed at gain, regardless of the amount of remuneration. However, the prevailing doctrine wants to allow Federal Councillors secondary occupations for small and irregular remuneration, provided these do not impair the conduct of office.
 
-**N. 10** The same basic rule applies to federal judges, whereby Art. 6 para. 2 FCA explicitly permits scientific and artistic activities as well as teaching assignments. The prevailing doctrine postulates that remunerated secondary occupations can be permitted, provided these do not impair the integrity of office conduct (Schaub, BSK BV, Art. 144 N. 14).
+**N. 10** The same basic rule applies to federal judges, whereby Art. 6 para. 2 FCA explicitly permits scientific and artistic activities as well as teaching assignments. The prevailing doctrine postulates that remunerated secondary occupations can be permitted, provided these do not impair the integrity of office conduct.
 
 #### 3.3 Statutory Incompatibilities (Para. 3)
 
@@ -57,9 +57,9 @@
 
 **N. 15** The permissibility of executive members taking seats on boards of directors of mixed-economy enterprises is disputed. Poledna/Schweizer (ZBl 2014, 347 ff.) see this as a violation of Art. 144 para. 2 BV, while Buob (Aktiengesellschaften, p. 187 ff.) considers this permissible with a clear statutory basis.
 
-**N. 16** The scope of the term "gainful activity" is also controversially discussed. While a restrictive interpretation covers any remunerated activity, the prevailing doctrine pleads for a teleological reduction for minor activities (Schaub, BSK BV, Art. 144 N. 14; Baumann et al., LeGes 2008/2, 217 ff.).
+**N. 16** The scope of the term "gainful activity" is also controversially discussed. While a restrictive interpretation covers any remunerated activity, the prevailing doctrine pleads for a teleological reduction for minor activities (Baumann et al., LeGes 2008/2, 217 ff.).
 
-**N. 17** The analogous application to the Federal Chancellor is also not undisputed. While the prevailing doctrine affirms this (Schaub, BSK BV, Art. 144 N. 10), critics refer to the clear wording of the Constitution and the deliberate non-mention (Gassmann, Gesetzgebungsbulletin 1/1999, XIII ff.).
+**N. 17** The analogous application to the Federal Chancellor is also not undisputed. While the prevailing doctrine affirms this, critics refer to the clear wording of the Constitution and the deliberate non-mention (Gassmann, Gesetzgebungsbulletin 1/1999, XIII ff.).
 
 ### 6. Practical Guidelines
 

@@ -60,7 +60,7 @@
 
 ### 4. Rechtsfolgen
 
-**N. 18** Verstösse gegen Art. 119a Abs. 3 BV (Handelsverbot, Unentgeltlichkeitsprinzip) sind auf Gesetzesstufe in Art. 69 f. TPG strafbewehrt. Rechtsgeschäfte, die gegen das Handelsverbot verstossen, sind nach Art. 20 OR nichtig (Belser/Molinari, BSK BV, Art. 119a N. 65).
+**N. 18** Verstösse gegen Art. 119a Abs. 3 BV (Handelsverbot, Unentgeltlichkeitsprinzip) sind auf Gesetzesstufe in Art. 69 f. TPG strafbewehrt. Rechtsgeschäfte, die gegen das Handelsverbot verstossen, sind nach Art. 20 OR nichtig.
 
 **N. 19** Art. 119a Abs. 1 BV bindet den Bund als **Gesetzgebungsauftrag**: Bleibt der Bund untätig, könnte ein Rechtsetzungsunterlassen gerügt werden. Seit dem Inkrafttreten des TPG 2007 ist dieser Auftrag erfüllt; laufende Gesetzgebungsrevision (z.B. Widerspruchslösung 2023) konkretisiert ihn weiter.
 

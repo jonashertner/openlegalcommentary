@@ -6,7 +6,7 @@
 
 **N. 2** Die Totalrevision der Bundesverfassung von 1999 übernahm den Normgehalt von Art. 34ter aBV weitgehend unverändert (BBl 1997 I 1, 278 f.). Neu hinzugefügt wurde jedoch Art. 110 Abs. 3 BV, der den 1. August als bezahlten Bundesfeiertag festschreibt. Diese Ergänzung geht auf die Volksinitiative «für einen arbeitsfreien Bundesfeiertag» zurück, die 1993 angenommen wurde (BBl 1991 III 269; BBl 1993 II 1305).
 
-**N. 3** Die verfassungsgeschichtliche Entwicklung zeigt, dass der Arbeitnehmerschutz schrittweise ausgebaut wurde: vom punktuellen Fabrikgesetz von 1877 über die Wirtschaftsartikel 1947 bis zur heutigen umfassenden Bundeskompetenz. Tschudi betont, dass die Verfassungsnorm dem Bund nicht nur eine Ermächtigung, sondern einen Auftrag zum Erlass von Arbeitnehmerschutzvorschriften erteilt (Cardinaux, BSK BV, Art. 110 N. 22).
+**N. 3** Die verfassungsgeschichtliche Entwicklung zeigt, dass der Arbeitnehmerschutz schrittweise ausgebaut wurde: vom punktuellen Fabrikgesetz von 1877 über die Wirtschaftsartikel 1947 bis zur heutigen umfassenden Bundeskompetenz. Tschudi betont, dass die Verfassungsnorm dem Bund nicht nur eine Ermächtigung, sondern einen Auftrag zum Erlass von Arbeitnehmerschutzvorschriften erteilt.
 
 ### 2. Systematische Einordnung
 
@@ -20,7 +20,7 @@
 
 **N. 7** **Arbeitnehmerschutz (Abs. 1 lit. a)**: Die Kompetenz umfasst alle Massnahmen zum Schutz der physischen und psychischen Integrität der Arbeitnehmerinnen und Arbeitnehmer. Dazu gehören Arbeitszeit, Gesundheitsschutz, Kündigungsschutz und besondere Schutznormen für Jugendliche und Schwangere. Das Arbeitsgesetz (ArG) bildet die zentrale Umsetzung dieser Kompetenz.
 
-**N. 8** **Kollektives Arbeitsrecht (Abs. 1 lit. b)**: Die Bestimmung ermöglicht die Regelung der Sozialpartnerschaft. Umstritten ist die Reichweite: Cardinaux verneint eine Grundlage für die unternehmerische Mitbestimmung, da der Souverän entsprechende Vorlagen abgelehnt habe und ein solcher Eingriff in Eigentums- und Wirtschaftsfreiheit eine klarere Verfassungsgrundlage erfordere (Cardinaux, BSK BV, Art. 110 N. 35). Eichenberger bejaht dagegen die Möglichkeit weitergehender Mitbestimmung auf Unternehmensebene (zit. in Cardinaux, BSK BV, Art. 110 N. 35).
+**N. 8** **Kollektives Arbeitsrecht (Abs. 1 lit. b)**: Die Bestimmung ermöglicht die Regelung der Sozialpartnerschaft. Umstritten ist die Reichweite: Cardinaux verneint eine Grundlage für die unternehmerische Mitbestimmung, da der Souverän entsprechende Vorlagen abgelehnt habe und ein solcher Eingriff in Eigentums- und Wirtschaftsfreiheit eine klarere Verfassungsgrundlage erfordere. Eichenberger bejaht dagegen die Möglichkeit weitergehender Mitbestimmung auf Unternehmensebene.
 
 **N. 9** **Arbeitsvermittlung (Abs. 1 lit. c)**: Die Kompetenz erfasst die öffentliche und private Arbeitsvermittlung sowie den Personalverleih. Das Arbeitsvermittlungsgesetz (AVG) regelt Bewilligungspflichten und Schutzbestimmungen für vermittelte und verliehene Arbeitnehmer.
 
@@ -38,7 +38,7 @@
 
 ### 5. Streitstände
 
-**N. 15** **Reichweite der Mitbestimmung**: Die Doktrin ist gespalten über die Tragweite von Art. 110 Abs. 1 lit. b BV. Cardinaux lehnt eine verfassungsrechtliche Grundlage für echte Unternehmensmitbestimmung ab und verweist auf die Ablehnung entsprechender Initiativen durch den Souverän sowie den schweren Eingriff in Eigentums- und Wirtschaftsfreiheit (Cardinaux, BSK BV, Art. 110 N. 35). Eichenberger sieht dagegen in der Formulierung «gemeinsame Regelung betrieblicher und beruflicher Angelegenheiten» eine genügende Grundlage für weitergehende Mitbestimmungsrechte (zit. in Cardinaux, BSK BV, Art. 110 N. 35).
+**N. 15** **Reichweite der Mitbestimmung**: Die Doktrin ist gespalten über die Tragweite von Art. 110 Abs. 1 lit. b BV. Cardinaux lehnt eine verfassungsrechtliche Grundlage für echte Unternehmensmitbestimmung ab und verweist auf die Ablehnung entsprechender Initiativen durch den Souverän sowie den schweren Eingriff in Eigentums- und Wirtschaftsfreiheit. Eichenberger sieht dagegen in der Formulierung «gemeinsame Regelung betrieblicher und beruflicher Angelegenheiten» eine genügende Grundlage für weitergehende Mitbestimmungsrechte.
 
 **N. 16** **Feiertagsentschädigung**: Umstritten war lange, ob Art. 110 Abs. 3 BV nur für Monatslöhner oder auch für Stundenlöhner gilt. Das Bundesgericht klärte, dass der verfassungsrechtliche Lohnanspruch für alle Arbeitnehmenden gilt, sofern der 1. August auf einen Arbeitstag fällt (**BGE 136 I 290** E. 3). Streiff/von Kaenel/Rudolph kritisieren diese Einschränkung als zu eng (Arbeitsvertrag, N 4 zu Art. 329 OR).
 

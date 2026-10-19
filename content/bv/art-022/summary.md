@@ -6,15 +6,15 @@ Artikel 22 der Bundesverfassung gewährleistet die Versammlungsfreiheit. Jede Pe
 
 ### Was regelt Art. 22 BV?
 
-Die Versammlungsfreiheit schützt das Recht, sich mit anderen friedlich zu versammeln. Dies umfasst sowohl kleine Gruppen als auch grosse Kundgebungen. Nach der Rechtsprechung genügen bereits zwei Personen für eine Versammlung (**BGE 129 IV 6** E. 5.5.1). Der Verfassungsschutz bezieht sich nicht primär auf das physische Zusammenkommen, sondern auf die kollektive Meinungsbildung (Hertig, BSK BV, Art. 22 N. 7).
+Die Versammlungsfreiheit schützt das Recht, sich mit anderen friedlich zu versammeln. Dies umfasst sowohl kleine Gruppen als auch grosse Kundgebungen. Nach der Rechtsprechung genügen bereits zwei Personen für eine Versammlung (**BGE 129 IV 6** E. 5.5.1). Der Verfassungsschutz bezieht sich nicht primär auf das physische Zusammenkommen, sondern auf die kollektive Meinungsbildung.
 
-Zentral ist, dass nur friedliche Versammlungen geschützt sind. Das Bundesgericht hat wiederholt betont, dass die Verfassung trotz abweichenden Wortlauts nur friedliche Versammlungen schützt (**BGE 129 IV 6** E. 2.5; Hertig, BSK BV, Art. 22 N. 9). Bei Gewaltausübung entfällt der Grundrechtsschutz, sofern die Gewalt die meinungsbildende Komponente völlig überlagert.
+Zentral ist, dass nur friedliche Versammlungen geschützt sind. Das Bundesgericht hat wiederholt betont, dass die Verfassung trotz abweichenden Wortlauts nur friedliche Versammlungen schützt (**BGE 129 IV 6** E. 2.5). Bei Gewaltausübung entfällt der Grundrechtsschutz, sofern die Gewalt die meinungsbildende Komponente völlig überlagert.
 
 ### Wer ist betroffen?
 
-Geschützt sind alle Personen, die eine Versammlung organisieren, daran teilnehmen oder bewusst fernbleiben. Dies umfasst Privatpersonen, Vereinigungen und politische Gruppierungen. Die Trägerschaft steht allen zu, unabhängig von Staatsangehörigkeit oder Wohnsitz (Hertig, BSK BV, Art. 22 N. 10).
+Geschützt sind alle Personen, die eine Versammlung organisieren, daran teilnehmen oder bewusst fernbleiben. Dies umfasst Privatpersonen, Vereinigungen und politische Gruppierungen. Die Trägerschaft steht allen zu, unabhängig von Staatsangehörigkeit oder Wohnsitz.
 
-Einschränkungen sind möglich: Der Staat kann für Kundgebungen auf öffentlichem Grund eine Bewilligung verlangen. Die herrschende Lehre betrachtet diese Bewilligungspflicht als Grundrechtseingriff, der einer gesetzlichen Grundlage bedarf (Hertig, BSK BV, Art. 22 N. 18).
+Einschränkungen sind möglich: Der Staat kann für Kundgebungen auf öffentlichem Grund eine Bewilligung verlangen. Die herrschende Lehre betrachtet diese Bewilligungspflicht als Grundrechtseingriff, der einer gesetzlichen Grundlage bedarf.
 
 ### Was sind die Rechtsfolgen?
 

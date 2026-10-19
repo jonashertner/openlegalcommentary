@@ -48,7 +48,7 @@
 
 **N. 14** La disposition a un caractère principalement de droit d'organisation. Elle ne fonde pas de droits subjectifs d'individus ou de cantons à une représentation au Conseil fédéral.
 
-**N. 15** L'inobservation de la prescription de représentation à l'al. 4 n'entraîne pas la nullité d'une élection. La disposition est conçue comme une ligne directrice politique, non comme une norme juridique justiciable (Waldmann/Belser/Epiney, BSK BV, 2e éd. 2024, art. 175 n. 22).
+**N. 15** L'inobservation de la prescription de représentation à l'al. 4 n'entraîne pas la nullité d'une élection. La disposition est conçue comme une ligne directrice politique, non comme une norme juridique justiciable.
 
 **N. 16** Les élections au Conseil fédéral ne sont pas susceptibles de contrôle judiciaire selon **BGE 1C_649/2015**. L'art. 189 al. 4 Cst. exclut la contestation d'actes de l'Assemblée fédérale devant le Tribunal fédéral.
 
@@ -56,7 +56,7 @@
 
 **N. 17** Dans la doctrine, il est controversé de savoir à quel point la prise en considération de la représentation régionale et linguistique est contraignante. Une partie de la doctrine considère l'al. 4 comme une simple maxime politique sans force obligatoire juridique (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10e éd. 2020, n. 1659). D'autres auteurs y voient une obligation juridique avec marge d'appréciation (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4e éd. 2023, art. 175 n. 19).
 
-**N. 18** La question de la représentation selon le sexe est aussi débattue de manière controversée. Alors que l'initiative parlementaire 93.406 (« Les deux sexes au Conseil fédéral ») échoua en 1994, certaines voix dans la doctrine défendent qu'une obligation de répartition équitable entre les sexes devrait être déduite de l'art. 8 al. 3 Cst. (Müller/Schefer, Grundrechte in der Schweiz, 4e éd. 2008, p. 746). La doctrine dominante rejette cela (Waldmann/Belser/Epiney, BSK BV, 2e éd. 2024, art. 175 n. 24).
+**N. 18** La question de la représentation selon le sexe est aussi débattue de manière controversée. Alors que l'initiative parlementaire 93.406 (« Les deux sexes au Conseil fédéral ») échoua en 1994, certaines voix dans la doctrine défendent qu'une obligation de répartition équitable entre les sexes devrait être déduite de l'art. 8 al. 3 Cst. (Müller/Schefer, Grundrechte in der Schweiz, 4e éd. 2008, p. 746). La doctrine dominante rejette cela.
 
 **N. 19** La taille optimale du Conseil fédéral est périodiquement débattue. Les propositions vont de cinq à neuf membres. Les partisans d'un agrandissement argumentent avec la charge de travail accrue et de meilleures possibilités de représentation (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3e éd. 2016, n. 3148). Les critiques craignent des pertes d'efficacité et un affaiblissement du principe collégial.
 

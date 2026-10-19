@@ -20,7 +20,7 @@
 
 ### Multifonctionnalité de la forêt (al. 1)
 
-**Ch. 7** Le constituant ancre à l'al. 1 les trois fonctions classiques de la forêt : La **fonction protectrice** comprend la protection contre les dangers naturels (avalanches, chutes de pierres, érosion) et la fonction d'équilibrage climatique. La **fonction d'utilité** inclut en premier lieu la production de bois comme matière première renouvelable. La **fonction de bien-être** englobe les loisirs, la biodiversité, la protection des eaux et la purification de l'air (Hoffmann/Griffel, BSK BV, art. 77 ch. 12-15).
+**Ch. 7** Le constituant ancre à l'al. 1 les trois fonctions classiques de la forêt: La **fonction protectrice** comprend la protection contre les dangers naturels (avalanches, chutes de pierres, érosion) et la fonction d'équilibrage climatique. La **fonction d'utilité** inclut en premier lieu la production de bois comme matière première renouvelable. La **fonction de bien-être** englobe les loisirs, la biodiversité, la protection des eaux et la purification de l'air.
 
 **Ch. 8** Cette triade des fonctions forestières n'est pas exhaustive. La politique forestière moderne reconnaît d'autres fonctions comme le stockage du CO₂ dans le contexte de la protection du climat. Déterminante est la prise en considération équivalente de toutes les fonctions sans priorisation a priori (Griffel, Wald und Recht, SZF 2012, 305).
 
@@ -30,11 +30,11 @@
 
 **Ch. 10** La notion de « principes » doit être interprétée de manière restrictive. La Confédération ne peut fixer que les lignes directrices essentielles, tandis que la réglementation de détail et l'exécution incombent en principe aux cantons (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, ch. 1127). La pratique montre cependant un épuisement extensif de cette compétence dans la loi sur les forêts.
 
-**Ch. 11** Il est controversé de savoir si la compétence de législation de principe légitime aussi des compétences d'exécution de la Confédération. **Jagmetti** (cité dans Hoffmann/Griffel, BSK BV, art. 77 ch. 20) le nie en se référant à la différence avec l'ancienne compétence de haute surveillance. **Hoffmann/Griffel** (BSK BV, art. 77 ch. 20) l'affirment en revanche en se fondant sur → l'art. 46 al. 1 Cst. pour des compétences fédérales d'exécution limitées.
+**Ch. 11** Il est controversé de savoir si la compétence de législation de principe légitime aussi des compétences d'exécution de la Confédération. **Jagmetti** le nie en se référant à la différence avec l'ancienne compétence de haute surveillance. **Hoffmann/Griffel** l'affirment en revanche en se fondant sur → l'art. 46 al. 1 Cst. pour des compétences fédérales d'exécution limitées.
 
 ### Compétence d'encouragement (al. 3)
 
-**Ch. 12** La compétence d'encouragement habilite la Confédération à des mesures de soutien financières et non financières. Les instruments typiques sont les subventions pour l'entretien des forêts protectrices, l'encouragement de la recherche et les contributions à la formation (Hoffmann/Griffel, BSK BV, art. 77 ch. 23).
+**Ch. 12** La compétence d'encouragement habilite la Confédération à des mesures de soutien financières et non financières. Les instruments typiques sont les subventions pour l'entretien des forêts protectrices, l'encouragement de la recherche et les contributions à la formation.
 
 **Ch. 13** L'encouragement est facultatif (« elle encourage ») et sous réserve des moyens disponibles. Il complète les mesures réglementaires de la législation de principe par des mécanismes d'incitation de l'action administrative coopérative.
 
@@ -52,7 +52,7 @@
 
 **Ch. 17** La densité réglementaire admissible pour les compétences de législation de principe est débattue de manière controversée. **Rausch/Marti/Griffel** (Umweltrecht, 142) défendent une interprétation restrictive : la Confédération ne pourrait édicter que des prescriptions-cadres. **Keller** (Volksinitiative « Rettet den Schweizer Wald », 23) plaide pour une interprétation plus large compte tenu de l'importance nationale de la protection des forêts.
 
-**Ch. 18** La notion dynamique de forêt de la LFo est particulièrement controversée. **Hoffmann/Griffel** (BSK BV, art. 77 ch. 17) critiquent que le législateur fédéral ait accordé aux cantons un « plein pouvoir » pour la remplacer par la notion statique de forêt, sans formuler de critères restrictifs. **Jaissle** (Der dynamische Waldbegriff, 187 ss.) défend la flexibilité comme nécessaire pour l'aménagement du territoire cantonal.
+**Ch. 18** La notion dynamique de forêt de la LFo est particulièrement controversée. **Hoffmann/Griffel** critiquent que le législateur fédéral ait accordé aux cantons un « plein pouvoir » pour la remplacer par la notion statique de forêt, sans formuler de critères restrictifs. **Jaissle** (Der dynamische Waldbegriff, 187 ss.) défend la flexibilité comme nécessaire pour l'aménagement du territoire cantonal.
 
 ### Rapport aux obligations internationales
 
@@ -60,7 +60,7 @@
 
 ### Exécution fédérale en cas de législation de principe
 
-**Ch. 20** Le conflit sur les compétences fédérales d'exécution en cas de simple législation de principe reste d'actualité. **Jagmetti** (cité dans Hoffmann/Griffel, BSK BV, art. 77 ch. 20) voit dans la révision constitutionnelle un déplacement de compétence conscient vers les cantons. **Hoffmann/Griffel** (BSK BV, art. 77 ch. 20) et **Wild** (Die Rodungsbewilligung, ZBl 2002, 120) argumentent que → l'art. 46 al. 1 Cst. permet des compétences fédérales d'exécution ponctuelles même en cas de législation de principe.
+**Ch. 20** Le conflit sur les compétences fédérales d'exécution en cas de simple législation de principe reste d'actualité. **Jagmetti** voit dans la révision constitutionnelle un déplacement de compétence conscient vers les cantons. **Hoffmann/Griffel** et **Wild** (Die Rodungsbewilligung, ZBl 2002, 120) argumentent que → l'art. 46 al. 1 Cst. permet des compétences fédérales d'exécution ponctuelles même en cas de législation de principe.
 
 ## Conseils pratiques
 

@@ -37,7 +37,7 @@
 
 **N. 9** L'art. 186 al. 2 Cst. habilite le Conseil fédéral à approuver les actes cantonaux lorsque l'exécution du droit fédéral l'exige. L'obligation d'approbation n'est pas générale ; elle suppose une base de droit fédéral qui ordonne l'approbation comme condition d'exécution (Häfelin/Haller/Keller/Thurnherr, Droit constitutionnel suisse, 10e éd. 2020, N 1461). La norme ne fonde pas elle-même une obligation d'approbation, mais en présuppose une.
 
-**N. 10** L'approbation est un instrument de surveillance préventif qui garantit la conformité au droit fédéral des actes cantonaux d'exécution avant qu'ils entrent en vigueur ou produisent leurs effets. Sur le fond, le Conseil fédéral vérifie dans la procédure d'approbation uniquement la conformité de l'acte cantonal avec le droit fédéral déterminant ; un examen de l'opportunité n'a en règle générale pas lieu (Künzli, BSK BV, art. 186 N 18 s.). L'approbation a un caractère déclaratoire dans la mesure où l'acte cantonal est de toute façon conforme au droit fédéral ; elle produit un effet constitutif en cas de réserve ou de refus.
+**N. 10** L'approbation est un instrument de surveillance préventif qui garantit la conformité au droit fédéral des actes cantonaux d'exécution avant qu'ils entrent en vigueur ou produisent leurs effets. Sur le fond, le Conseil fédéral vérifie dans la procédure d'approbation uniquement la conformité de l'acte cantonal avec le droit fédéral déterminant; un examen de l'opportunité n'a en règle générale pas lieu. L'approbation a un caractère déclaratoire dans la mesure où l'acte cantonal est de toute façon conforme au droit fédéral; elle produit un effet constitutif en cas de réserve ou de refus.
 
 **N. 11** Les actes cantonaux qui requièrent une approbation fédérale ne déploient leurs effets qu'à compter de l'approbation. Si le Conseil fédéral accorde l'approbation avec charges ou sous réserves, le canton est tenu d'apporter les adaptations nécessaires.
 
@@ -83,13 +83,13 @@
 
 **N. 25** La doctrine dominante répond par la négative. Hangartner (ZBl 76/1975 p. 6 ss et 12 ss) ainsi que Rhinow/Schefer/Uebersax (op. cit., N 788) et Häfelin/Haller/Keller/Thurnherr (op. cit., N 1480) soutiennent que le principe de séparation des pouvoirs (en lien avec l'art. 191c Cst., indépendance des tribunaux) implique que la Confédération ne peut en principe pas annuler un jugement cantonal. Un jugement ne peut être modifié que par un tribunal ; la surveillance de la justice doit se limiter aux aspects administratifs.
 
-**N. 26** Une opinion minoritaire admet la cassation de jugements cantonaux en tant qu'« ultima ratio » en cas de violations graves du droit fédéral : Kölz/Häner/Bertschi (Verwaltungsverfahren und Verwaltungsrechtspflege des Bundes, 3e éd. 2013, N 768) et Künzli (BSK BV, art. 186 N 36) considèrent que la cassation est concevable dans des cas exceptionnels. Tschannen (Staatsrecht, 5e éd. 2021, N 988) s'y rallie, mais la limite aux cas dans lesquels la voie de droit ordinaire n'est pas ouverte.
+**N. 26** Une opinion minoritaire admet la cassation de jugements cantonaux en tant qu'« ultima ratio » en cas de violations graves du droit fédéral: Kölz/Häner/Bertschi (Verwaltungsverfahren und Verwaltungsrechtspflege des Bundes, 3e éd. 2013, N 768) et Künzli considèrent que la cassation est concevable dans des cas exceptionnels. Tschannen (Staatsrecht, 5e éd. 2021, N 988) s'y rallie, mais la limite aux cas dans lesquels la voie de droit ordinaire n'est pas ouverte.
 
 **N. 27** Le Tribunal fédéral a tranché cette controverse dans l'arrêt **ATF 151 I 382** (= arrêt 2C_681/2023 du 19 mars 2025) consid. 4.9.2 essentiellement en faveur de la doctrine dominante : la cassation, par voie de surveillance, d'un jugement cantonal fondée sur l'art. 186 al. 4 Cst. n'est possible, si tant est qu'elle le soit, que dans des cas exceptionnels et est en tout état de cause exclue lorsque la voie de droit ordinaire sous forme d'un recours d'une autorité est ouverte. Il découle du principe de séparation des pouvoirs et de l'art. 191c Cst. que les autorités administratives sont liées par les jugements entrés en force.
 
 ### 2. Le recours des autorités comme moyen de surveillance privilégié
 
-**N. 28** Le recours des autorités fédérales auprès du Tribunal fédéral (art. 89 al. 2 let. a et art. 111 al. 2 LTF) est considéré tant par la jurisprudence que par la doctrine comme le moyen de surveillance prioritaire, parce qu'il recourt à la voie de droit ordinaire et préserve ainsi l'autonomie de la justice cantonale. Le Tribunal fédéral a relevé dans l'**ATF 148 II 369** (= 2C_1038/2020 du 15 mars 2022) que le recours des autorités est un moyen de surveillance fédérale qui recourt au système cantonal de voies de recours et lui est « dans une certaine mesure autonome ». Waldmann (BSK BV, art. 49 N 44) et Pflüger (Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, N 826 ss) soulignent la priorité de ce moyen par rapport aux autres instruments de surveillance.
+**N. 28** Le recours des autorités fédérales auprès du Tribunal fédéral (art. 89 al. 2 let. a et art. 111 al. 2 LTF) est considéré tant par la jurisprudence que par la doctrine comme le moyen de surveillance prioritaire, parce qu'il recourt à la voie de droit ordinaire et préserve ainsi l'autonomie de la justice cantonale. Le Tribunal fédéral a relevé dans l'**ATF 148 II 369** (= 2C_1038/2020 du 15 mars 2022) que le recours des autorités est un moyen de surveillance fédérale qui recourt au système cantonal de voies de recours et lui est « dans une certaine mesure autonome ». Waldmann et Pflüger (Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, N 826 ss) soulignent la priorité de ce moyen par rapport aux autres instruments de surveillance.
 
 **N. 29** Le Tribunal fédéral a constaté dans l'**ATF 148 II 369** consid. 3.3.7 que la fonction du recours des autorités en tant que moyen de surveillance fédérale est considérablement entravée si le droit de procédure cantonal est appliqué de manière à mettre des frais judiciaires à la charge de l'autorité fédérale. Une autorité fédérale qui exerce sa fonction de surveillance sans intérêts patrimoniaux dans le cadre d'un recours des autorités ne peut en principe pas se voir mettre des frais judiciaires cantonaux à sa charge.
 
@@ -117,11 +117,8 @@
 
 ## Bibliographie (sélection)
 
-- Ehrenzeller, BSK BGG, 3e éd. 2018, art. 111 LTF N 11
 - Häfelin/Haller/Keller/Thurnherr, Droit constitutionnel suisse, 10e éd. 2020, N 1461, 1480
 - Hangartner, Bundesaufsicht und richterliche Unabhängigkeit, ZBl 76/1975, p. 6 ss
-- Künzli, BSK BV, art. 186 N 18 s., 36
 - Pflüger, Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, N 826 ss
 - Rhinow/Schefer/Uebersax, Droit constitutionnel suisse, 3e éd. 2016, N 788, 2805 s.
 - Tschannen, Staatsrecht der Schweizerischen Eidgenossenschaft, 5e éd. 2021, N 908 s., 985–988
-- Waldmann, BSK BV, art. 49 N 44

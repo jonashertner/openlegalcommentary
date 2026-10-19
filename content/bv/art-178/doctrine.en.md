@@ -48,7 +48,7 @@
 
 ### 5. Points of Controversy
 
-**N. 15** **Scope of transferability**: Müller (The Outsourcing of Federal Tasks, 2020, p. 156) takes the view that core tasks of state power (e.g. police power, criminal prosecution) cannot be transferred. Waldmann (BSK Const., 2nd ed. 2024, Art. 178 N. 23) argues by contrast that a transfer of sovereign tasks is also permissible, provided the statutory basis is sufficiently precise.
+**N. 15** **Scope of transferability**: Müller (The Outsourcing of Federal Tasks, 2020, p. 156) takes the view that core tasks of state power (e.g. police power, criminal prosecution) cannot be transferred. Waldmann argues by contrast that a transfer of sovereign tasks is also permissible, provided the statutory basis is sufficiently precise.
 
 **N. 16** **Implicit decision-making competences**: The Federal Supreme Court decided in **BGE 137 II 409 consideration 7** that the transfer of tasks can implicitly include the decision-making competences necessary for their fulfilment. Tschannen (Constitutional Law of the Swiss Confederation, 5th ed. 2021, § 41 N. 18) criticises this as too far-reaching and calls for explicit statutory regulation of decision-making powers.
 

@@ -68,7 +68,7 @@
 
 **N. 13** Viene discussa in modo controverso anche l'ammissibilità delle leggi sui casi singoli. Häfelin/Haller/Keller/Thurnherr (op. cit., N 1851) riconoscono la loro ammissibilità in casi eccezionali, mentre Biaggini (BV-Kommentar, 2ª ed. 2017, art. 163 N 4) è più restrittivo e richiama l'attenzione sul pericolo di elusione della separazione dei poteri.
 
-**N. 14** Per quanto riguarda le ordinanze parlamentari sussiste disaccordo sul loro campo d'applicazione. Ehrenzeller (in: St. Galler Kommentar BV, 4ª ed. 2023, art. 163 N 15) le vede limitate ai casi d'urgenza, mentre Waldmann (in: BSK BV, 2ª ed. 2024, art. 163 N 22) riconosce anche altri casi previsti dalla legge.
+**N. 14** Per quanto riguarda le ordinanze parlamentari sussiste disaccordo sul loro campo d'applicazione. Ehrenzeller (in: St. Galler Kommentar BV, 4ª ed. 2023, art. 163 N 15) le vede limitate ai casi d'urgenza, mentre Waldmann riconosce anche altri casi previsti dalla legge.
 
 ## Indicazioni pratiche
 

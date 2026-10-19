@@ -12,15 +12,15 @@
 
 **N. 3** Art. 107 FC is classified in Chapter 3 «Financial and Economic Order», which underlines the economic policy dimension of weapons control. The provision is closely connected with → Art. 54 FC (Foreign Affairs), → Art. 118 para. 2 lit. a FC (explosives competence) as well as → Art. 184 and 185 FC (security policy).
 
-**N. 4** The competence is designed as a comprehensive federal jurisdiction. Unlike concurrent competences, federal law here displaces any cantonal regulation within the scope of application of the provision (Künzli, BSK BV, Art. 107 N. 4-5). The cantons retain only enforcement competences insofar as federal law provides for these.
+**N. 4** The competence is designed as a comprehensive federal jurisdiction. Unlike concurrent competences, federal law here displaces any cantonal regulation within the scope of application of the provision. The cantons retain only enforcement competences insofar as federal law provides for these.
 
 ### 3. Elements of the Offence / Content of the Provision
 
 **N. 5** **Weapons, weapon accessories and ammunition (para. 1):** According to the Weapons Act, the concept of weapons encompasses all devices and appliances that can be used for attack, defence, shooting, sport, hunting or for purposes that cause harm to others. Federal competence extends to all aspects of handling these objects.
 
-**N. 6** **Fight against misuse (para. 1):** Despite the wording «against misuse», federal competence is not limited to repressive measures. Rather, it encompasses preventive regulations such as licensing requirements, registration systems and safety regulations (Künzli, BSK BV, Art. 107 N. 8-13).
+**N. 6** **Fight against misuse (para. 1):** Despite the wording «against misuse», federal competence is not limited to repressive measures. Rather, it encompasses preventive regulations such as licensing requirements, registration systems and safety regulations.
 
-**N. 7** **War material (para. 2):** The concept encompasses weapons, ammunition, military equipment and their components that are specifically designed or modified for warfare or military exercises. The definition is provided exhaustively in the War Material Ordinance (Künzli, BSK BV, Art. 107 N. 22-25).
+**N. 7** **War material (para. 2):** The concept encompasses weapons, ammunition, military equipment and their components that are specifically designed or modified for warfare or military exercises. The definition is provided exhaustively in the War Material Ordinance.
 
 ### 4. Legal Consequences
 
@@ -30,9 +30,9 @@
 
 ### 5. Points of Controversy
 
-**N. 10** **Scope of federal competence after Schengen:** A point of controversy concerns the question of whether the Confederation has exceeded its competences with the adoption of Schengen weapons law. Individual authors take the view that the Confederation has exhausted or even exceeded its only fragmentary competences limited to fighting misuse. Künzli counters that this view appears at least questionable, since Swiss weapons legislation continues to be based on the principle of the right to acquire, possess and carry weapons (Künzli, BSK BV, Art. 107 N. 13).
+**N. 10** **Scope of federal competence after Schengen:** A point of controversy concerns the question of whether the Confederation has exceeded its competences with the adoption of Schengen weapons law. Individual authors take the view that the Confederation has exhausted or even exceeded its only fragmentary competences limited to fighting misuse. Künzli counters that this view appears at least questionable, since Swiss weapons legislation continues to be based on the principle of the right to acquire, possess and carry weapons.
 
-**N. 11** **Neutrality law restrictions:** The scope of neutrality law restrictions on private arms exports is controversially discussed. The official Swiss position states that this restriction applies only to state deliveries. Künzli criticises this position: Since today states also subject private arms exports to licensing requirements and thus possess the final decision-making authority over the admissibility of foreign business with weapons, this view can no longer convince (Künzli, BSK BV, Art. 107 N. 21).
+**N. 11** **Neutrality law restrictions:** The scope of neutrality law restrictions on private arms exports is controversially discussed. The official Swiss position states that this restriction applies only to state deliveries. Künzli criticises this position: Since today states also subject private arms exports to licensing requirements and thus possess the final decision-making authority over the admissibility of foreign business with weapons, this view can no longer convince.
 
 ### 6. Practical Guidelines
 

@@ -4,13 +4,13 @@
 
 **N. 1** Art. 70 FC has its roots in Art. 116 FC 1874, which first enshrined Switzerland's linguistic diversity in constitutional law. The total revision of 1999 brought a comprehensive revision of the language provisions. As the Federal Council Message on a new Federal Constitution of 20 November 1996 states, «the new language provision is intended to honour multilingualism as an essential characteristic of the federal state and to establish concrete obligations for the Confederation and the cantons» (BBl 1997 I 314).
 
-**N. 2** The parliamentary deliberations were characterised by the debate on language teaching. The National Council rejected a minority motion that would have required the cantons to teach a national language as a second language in schools (Belser/Waldmann, BSK BV, Art. 70 N. 13). The definitive version deliberately leaves this question to cantonal educational sovereignty.
+**N. 2** The parliamentary deliberations were characterised by the debate on language teaching. The National Council rejected a minority motion that would have required the cantons to teach a national language as a second language in schools. The definitive version deliberately leaves this question to cantonal educational sovereignty.
 
 **N. 3** The explicit inclusion of Romansh as an official language of the Confederation in dealings with Romansh-speaking persons (para. 1 sentence 2) represents a significant innovation compared to the old constitution. This provision recognises the special position of the fourth national language and strengthens its constitutional protection.
 
 ### 2. Systematic Classification
 
-**N. 4** Art. 70 FC, together with → Art. 4 FC (National languages) and → Art. 18 FC (Language freedom), forms the constitutional core of Swiss language law. The provision is systematically placed in Chapter 1 «Status of Confederation and Cantons», which emphasises its state organisational dimension (Belser/Waldmann, BSK BV, Art. 70 N. 1).
+**N. 4** Art. 70 FC, together with → Art. 4 FC (National languages) and → Art. 18 FC (Language freedom), forms the constitutional core of Swiss language law. The provision is systematically placed in Chapter 1 «Status of Confederation and Cantons», which emphasises its state organisational dimension.
 
 **N. 5** The connection to → Art. 8 para. 2 FC (Prohibition of discrimination based on language) is obvious. Further cross-references exist to → Art. 69 FC (Cultural promotion), → Art. 31 para. 2 FC (Language freedom in detention) and → Art. 175 para. 4 FC (Linguistic representation in the Federal Council).
 
@@ -28,13 +28,13 @@
 
 **N. 9** The cantons determine their official languages autonomously. This competence is an emanation of cantonal sovereignty and enables differentiated solutions. The limits of this autonomy lie in the territorial principle and minority protection.
 
-**N. 10** According to constant case law since **BGE 100 Ia 462**, the territorial principle serves to preserve the traditional areas of distribution of the national languages. Doctrine is divided on its exact scope: Papaux (FZR 2002, 157) emphasises the strict separation of language areas to preserve homogeneity, while Müller/Schefer (Grundrechte, 4th ed. 2008, 326) place linguistic peace and social cohesion in the foreground (Belser/Waldmann, BSK BV, Art. 70 N. 31).
+**N. 10** According to constant case law since **BGE 100 Ia 462**, the territorial principle serves to preserve the traditional areas of distribution of the national languages. Doctrine is divided on its exact scope: Papaux (FZR 2002, 157) emphasises the strict separation of language areas to preserve homogeneity, while Müller/Schefer (Grundrechte, 4th ed. 2008, 326) place linguistic peace and social cohesion in the foreground.
 
 **N. 11** «Traditional linguistic minorities» are historically rooted language groups in a specific area. The term is narrower than «linguistic minority» and does not include newly immigrated language groups. This was confirmed by **BGE 122 I 236** for foreign-language immigrants.
 
 #### Promotion of Understanding (Para. 3)
 
-**N. 12** The obligation to promote understanding is directed equally at the Confederation and the cantons. It is programmatic in nature and does not create subjective rights. Ehrenzeller (BSK BV, Art. 70 N. 39) takes the view that no material regulatory competence of the Confederation for foreign language teaching can be derived from this provision.
+**N. 12** The obligation to promote understanding is directed equally at the Confederation and the cantons. It is programmatic in nature and does not create subjective rights. Ehrenzeller takes the view that no material regulatory competence of the Confederation for foreign language teaching can be derived from this provision.
 
 #### Support Obligations of the Confederation (Paras. 4 and 5)
 

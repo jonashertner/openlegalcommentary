@@ -4,7 +4,7 @@
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Die Wurzeln der Steuerharmonisierung reichen bis in die 1970er Jahre zurück. Nach mehreren gescheiterten Anläufen wurde mit der Volksabstimmung vom 12. Juni 1977 der Harmonisierungsartikel 42quinquies aBV angenommen (BBl 1976 I 1329; BBl 1977 III 845). Die Entstehungsgeschichte war geprägt von der Spannung zwischen dem Bedürfnis nach Rechtsvereinheitlichung zur Förderung eines einheitlichen Wirtschaftsraums einerseits und dem Beharren der Kantone auf ihrer Steuerautonomie andererseits (Simonek, BSK BV, Art. 129 N. 1–3).
+**N. 1** Die Wurzeln der Steuerharmonisierung reichen bis in die 1970er Jahre zurück. Nach mehreren gescheiterten Anläufen wurde mit der Volksabstimmung vom 12. Juni 1977 der Harmonisierungsartikel 42quinquies aBV angenommen (BBl 1976 I 1329; BBl 1977 III 845). Die Entstehungsgeschichte war geprägt von der Spannung zwischen dem Bedürfnis nach Rechtsvereinheitlichung zur Förderung eines einheitlichen Wirtschaftsraums einerseits und dem Beharren der Kantone auf ihrer Steuerautonomie andererseits.
 
 **N. 2** Der Verfassungsgeber wählte bewusst eine beschränkte Harmonisierungskompetenz. Die Botschaft vom 10. März 1976 betonte, dass nur eine formelle, keine materielle Steuerharmonisierung angestrebt werde: «Die Harmonisierung soll sich lediglich auf die Steuerpflicht, den Gegenstand und die zeitliche Bemessung der Steuern, das Verfahrensrecht und das Steuerstrafrecht erstrecken» (BBl 1976 I 1361). Diese Grundentscheidung wurde bei der Überführung in Art. 129 nBV beibehalten.
 
@@ -26,11 +26,11 @@
 
 #### a) Grundsatzkompetenz (Abs. 1)
 
-**N. 7** Der Begriff «Grundsätze» wird kontrovers interpretiert. Die von Reich umschriebene «Antinomie der verfassungsrechtlichen Zielvorgaben» (Simonek, BSK BV, Art. 129 N. 12) prägt die Auslegung: Einerseits soll nur eine Rahmengesetzgebung erfolgen, andererseits wird eine wirksame Harmonisierung angestrebt.
+**N. 7** Der Begriff «Grundsätze» wird kontrovers interpretiert. Die von Reich umschriebene «Antinomie der verfassungsrechtlichen Zielvorgaben» prägt die Auslegung: Einerseits soll nur eine Rahmengesetzgebung erfolgen, andererseits wird eine wirksame Harmonisierung angestrebt.
 
 **N. 8** Das Bundesgericht tendiert zu einer extensiven Auslegung. In **BGE 130 II 202** führte es aus, dass das Ausmass der kantonalen Konkretisierungsmöglichkeiten für jede Bestimmung gesondert zu ermitteln sei. Die Praxis zeigt, dass der Bund seine Kompetenz weitgehend ausschöpft (Vallender, Mittelbare Rechtsetzung, 435).
 
-**N. 9** Die «direkten Steuern» umfassen nach der Definition des Bundesrats die Steuern auf Einkommen und Vermögen natürlicher Personen sowie auf Gewinn und Kapital juristischer Personen (Simonek, BSK BV, Art. 129 N. 23). Nicht erfasst sind insbesondere Erbschafts- und Schenkungssteuern sowie Grundstückgewinnsteuern, obwohl letztere teilweise ins StHG aufgenommen wurden (Art. 12 StHG).
+**N. 9** Die «direkten Steuern» umfassen nach der Definition des Bundesrats die Steuern auf Einkommen und Vermögen natürlicher Personen sowie auf Gewinn und Kapital juristischer Personen. Nicht erfasst sind insbesondere Erbschafts- und Schenkungssteuern sowie Grundstückgewinnsteuern, obwohl letztere teilweise ins StHG aufgenommen wurden (Art. 12 StHG).
 
 **N. 10** Die Pflicht zur Berücksichtigung der «Harmonisierungsbestrebungen der Kantone» manifestiert sich primär in der Zusammensetzung der Expertenkommissionen. Materiell hat diese Vorgabe jedoch wenig Wirkung entfaltet (Bieri, StR 2009, 92).
 
@@ -74,7 +74,7 @@
 
 ### 5. Streitstände
 
-**N. 20** Der zentrale Streitpunkt betrifft den Gestaltungsspielraum der Kantone im harmonisierten Bereich. Eine Auffassung betont die «Grundsatz»-Natur der Bundeskompetenz und leitet daraus ab, dass den Kantonen auch ausserhalb der explizit ausgenommenen Bereiche Freiräume verbleiben müssen (Simonek, BSK BV, Art. 129 N. 11). Die Gegenposition argumentiert mit dem Ziel eines einheitlichen Wirtschaftsraums und plädiert für eine enge Auslegung kantonaler Spielräume (Simonek, BSK BV, Art. 129 N. 11).
+**N. 20** Der zentrale Streitpunkt betrifft den Gestaltungsspielraum der Kantone im harmonisierten Bereich. Eine Auffassung betont die «Grundsatz»-Natur der Bundeskompetenz und leitet daraus ab, dass den Kantonen auch ausserhalb der explizit ausgenommenen Bereiche Freiräume verbleiben müssen. Die Gegenposition argumentiert mit dem Ziel eines einheitlichen Wirtschaftsraums und plädiert für eine enge Auslegung kantonaler Spielräume.
 
 **N. 21** Kontrovers ist auch die Reichweite der Tarifautonomie. Während Oberson (Droit fiscal suisse, § 1 N 45) eine umfassende kantonale Freiheit bei der Tarifgestaltung vertritt, warnen andere vor verfassungsrechtlichen Grenzen. Das Bundesgericht hat in **BGE 133 I 206** klargestellt, dass auch die Tarifautonomie dem Rechtsgleichheitssatz unterliegt.
 

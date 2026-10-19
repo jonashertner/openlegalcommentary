@@ -43,7 +43,7 @@
 
 **N. 11** Nella dottrina è controverso se l'art. 154 Cost. fondi anche un diritto a un equipaggiamento finanziario adeguato dei gruppi parlamentari. **Häfelin/Haller/Keller/Thurnherr** (Schweizerisches Bundesstaatsrecht, 10ª ed. 2020, N 1623) affermano un diritto costituzionale minimo, poiché senza mezzi finanziari il lavoro dei gruppi parlamentari sarebbe di fatto reso impossibile. **Müller/Schefer** (Grundrechte in der Schweiz, 4ª ed. 2008, p. 892) considerano invece il finanziamento come una mera questione di configurazione del regolamento.
 
-**N. 12** È discussa in modo controverso anche la questione della dimensione minima. Mentre **Rhinow/Schefer/Uebersax** (op. cit., N 3246) considerano appropriato il limite di cinque membri, **Waldmann** (BSK BV, 2ª ed. 2024, art. 154 N 7) propende per una gestione più flessibile che si orienti ai rapporti dimensionali delle Camere.
+**N. 12** È discussa in modo controverso anche la questione della dimensione minima. Mentre **Rhinow/Schefer/Uebersax** (op. cit., N 3246) considerano appropriato il limite di cinque membri, **Waldmann** propende per una gestione più flessibile che si orienti ai rapporti dimensionali delle Camere.
 
 ### 6. Indicazioni pratiche
 

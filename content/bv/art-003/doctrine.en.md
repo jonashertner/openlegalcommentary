@@ -32,7 +32,7 @@
 
 **N. 9** The guarantee of cantonal sovereignty encompasses the organisational autonomy, legislative autonomy, and enforcement autonomy of the cantons. Within their sphere of competence, the cantons may also pursue objectives different from those of the Confederation; a mere conflict of objectives between cantonal and federal law does not render the cantonal law inconsistent with federal law (**BGE 122 I 70 E. 2a**). On police power as the core content of cantonal sovereignty: → Art. 3 FC in conjunction with Art. 36 FC.
 
-**N. 10** The sovereignty clause has practical legal significance insofar as it allocates the burden of proof in competence disputes: in the event of a dispute, the Confederation must demonstrate its claimed jurisdiction from the Federal Constitution. If that demonstration fails, legislative competence remains with the cantons by virtue of their residual general competence (Rohner/Vokinger, Art. 3 FC N. 26, Onlinekommentar, 2024; Biaggini, BSK FC, Art. 3 N. 16).
+**N. 10** The sovereignty clause has practical legal significance insofar as it allocates the burden of proof in competence disputes: in the event of a dispute, the Confederation must demonstrate its claimed jurisdiction from the Federal Constitution. If that demonstration fails, legislative competence remains with the cantons by virtue of their residual general competence (Rohner/Vokinger, Art. 3 FC N. 26, Onlinekommentar, 2024).
 
 #### B. Competence-Allocation Clause (Second Clause)
 
@@ -40,7 +40,7 @@
 
 **N. 12** Constitutional assignments of competence to the cantons (e.g. Art. 62 para. 1 FC) are purely declaratory in nature, since the cantons already hold these powers by virtue of their residual general competence. «New» regulatory subjects not assigned to the Confederation by the FC fall automatically within cantonal jurisdiction (Judgment 2C_1076/2012 of 27 March 2014, E. 7.1).
 
-**N. 13** The competences assigned to the Confederation can be systematised along two dimensions: according to their **substantive scope** (comprehensive competences, fragmentary competences, framework/outline competences) and according to their **effect on cantonal sovereignty** (concurrent competences with subsequent derogatory effect, exclusive competences with original derogatory effect, parallel competences with no derogatory effect). The comprehensive and concurrent federal competence is the standard case (Biaggini, BSK FC, Art. 3 N. 51). Exclusive competences — whose establishment immediately displaces cantonal law — are rare (examples: Art. 54 FC [foreign affairs], Art. 99 FC [monetary system and coinage]).
+**N. 13** The competences assigned to the Confederation can be systematised along two dimensions: according to their **substantive scope** (comprehensive competences, fragmentary competences, framework/outline competences) and according to their **effect on cantonal sovereignty** (concurrent competences with subsequent derogatory effect, exclusive competences with original derogatory effect, parallel competences with no derogatory effect). The comprehensive and concurrent federal competence is the standard case. Exclusive competences — whose establishment immediately displaces cantonal law — are rare (examples: Art. 54 FC [foreign affairs], Art. 99 FC [monetary system and coinage]).
 
 **N. 14** For as long and to the extent that the federal legislature has not exhausted a concurrent competence, the cantons remain competent without any need for a delegation from federal law. The Federal Supreme Court stated in **BGE 122 I 70 E. 2a**:
 

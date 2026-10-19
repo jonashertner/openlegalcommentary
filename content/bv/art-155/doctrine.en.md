@@ -16,7 +16,7 @@
 
 ### 3.1 Parliamentary Services (Para. 1 Sentence 1)
 
-**N. 5** The term «parliamentary services» encompasses all administrative units that work exclusively for the Federal Assembly. This includes the Secretariat General of the Federal Assembly, the scientific services, the translation services and the technical services. The parliamentary services are organizationally separated from the federal administration and are subject to the overall direction of the Administrative Delegation of the Federal Assembly (BSK Cst., Sägesser, Art. 155 N. 5-7).
+**N. 5** The term «parliamentary services» encompasses all administrative units that work exclusively for the Federal Assembly. This includes the Secretariat General of the Federal Assembly, the scientific services, the translation services and the technical services. The parliamentary services are organizationally separated from the federal administration and are subject to the overall direction of the Administrative Delegation of the Federal Assembly.
 
 **N. 6** The wording «has» establishes a constitutional claim of the Federal Assembly to its own services. This excludes complete outsourcing of parliamentary support functions to the executive. The scope of parliamentary services is determined by the needs of a functional parliamentary operation (Häfelin/Haller/Keller/Thurnherr, Federal Constitutional Law, N. 1638).
 
@@ -24,7 +24,7 @@
 
 **N. 7** The possibility of «calling upon administrative units of the federal administration» allows the Federal Assembly to draw on specialized expertise from the executive. This particularly concerns the participation of federal offices in parliamentary committees or the provision of expert opinions. The calling upon occurs subsidiarily and supplementary to the Parliament's own services (St. Galler Commentary Cst., Sägesser, Art. 155 N. 8).
 
-**N. 8** The administrative units called upon remain organizationally part of the executive but act for parliamentary purposes. This raises questions of authority to issue instructions and confidentiality, which are regulated by Art. 150 para. 2 ParlA: The administrative units are subject to the instructions of the committee presidiums for their parliamentary activity (BSK Cst., Sägesser, Art. 155 N. 9).
+**N. 8** The administrative units called upon remain organizationally part of the executive but act for parliamentary purposes. This raises questions of authority to issue instructions and confidentiality, which are regulated by Art. 150 para. 2 ParlA: The administrative units are subject to the instructions of the committee presidiums for their parliamentary activity.
 
 ### 3.3 Legislative Mandate (Para. 2)
 
@@ -44,11 +44,11 @@
 
 ## 5. Points of Dispute
 
-**N. 13** **Scope of parliamentary autonomy**: In doctrine, there is dispute about how far the organizational autonomy of parliamentary services extends. Sägesser (BSK Cst., Art. 155 N. 11) advocates an extensive interpretation whereby parliamentary services must be independent from the executive in all matters. In contrast, Müller (Parliamentary Law of Switzerland, 2022, 487) pleads for a functional view: Only insofar as independence is necessary for parliamentary work does constitutional protection exist.
+**N. 13** **Scope of parliamentary autonomy**: In doctrine, there is dispute about how far the organizational autonomy of parliamentary services extends. Sägesser advocates an extensive interpretation whereby parliamentary services must be independent from the executive in all matters. In contrast, Müller (Parliamentary Law of Switzerland, 2022, 487) pleads for a functional view: Only insofar as independence is necessary for parliamentary work does constitutional protection exist.
 
 **N. 14** **Personnel law status**: The applicability of the Federal Personnel Act to parliamentary services is controversially discussed. While Tschannen (in: Tschannen/Zimmerli/Müller, General Administrative Law, § 23 N. 45) favors complete application of the FPA, Biaggini (Cst. Commentary, Art. 155 N. 3) and the St. Gallen school consider an independent personnel law system admissible. Practice follows a differentiated approach with basic application of the FPA subject to Parliament-specific regulations.
 
-**N. 15** **Scope of the right to call upon**: There is disagreement about the limits of the right to call upon administrative units. Graf (Parliamentary Investigative Committees, 2021, 234) argues for a broad interpretation that also allows temporary secondment of entire offices. The prevailing doctrine (St. Galler Commentary Cst., Sägesser, Art. 155 N. 12; BSK Cst., Sägesser, Art. 155 N. 13) limits the right to call upon to specific support services and denies permanent integration of administrative units into the parliamentary organization.
+**N. 15** **Scope of the right to call upon**: There is disagreement about the limits of the right to call upon administrative units. Graf (Parliamentary Investigative Committees, 2021, 234) argues for a broad interpretation that also allows temporary secondment of entire offices. The prevailing doctrine (St. Galler Commentary Cst., Sägesser, Art. 155 N. 12) limits the right to call upon to specific support services and denies permanent integration of administrative units into the parliamentary organization.
 
 ## 6. Practical Notes
 

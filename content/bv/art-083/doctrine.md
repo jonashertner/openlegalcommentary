@@ -12,13 +12,13 @@
 
 **N. 4** Art. 83 BV steht im 3. Titel über Bund, Kantone und Gemeinden, im 3. Kapitel über die Zuständigkeiten des Bundes und gehört zum 7. Abschnitt über Öffentliche Werke und Verkehr. Die Bestimmung steht in engem systematischen Zusammenhang mit Art. 82 BV (Strassenverkehr), Art. 84 BV (Alpenquerender Transitverkehr) und Art. 86 BV (Verbrauchssteuer auf Treibstoffen).
 
-**N. 5** Die Strassenkompetenz des Bundes nach Art. 83 BV ist eine Ausnahme vom Grundsatz der kantonalen Strassenbauhoheit. Während die Kantone grundsätzlich für alle Strassen zuständig sind, begründet Art. 83 BV eine ausschliessliche Bundeskompetenz für die Nationalstrassen. Diese systematische Stellung unterstreicht den Charakter der Nationalstrassen als Bundesaufgabe von nationaler Bedeutung (Kern, BSK BV, Art. 83 N. 5).
+**N. 5** Die Strassenkompetenz des Bundes nach Art. 83 BV ist eine Ausnahme vom Grundsatz der kantonalen Strassenbauhoheit. Während die Kantone grundsätzlich für alle Strassen zuständig sind, begründet Art. 83 BV eine ausschliessliche Bundeskompetenz für die Nationalstrassen. Diese systematische Stellung unterstreicht den Charakter der Nationalstrassen als Bundesaufgabe von nationaler Bedeutung.
 
 **N. 6** Art. 83 BV ist zudem im Kontext der umweltrechtlichen Bestimmungen zu lesen, insbesondere Art. 73 BV (Nachhaltigkeit), Art. 74 BV (Umweltschutz) und Art. 78 BV (Natur- und Heimatschutz). Die Rechtsprechung hat wiederholt betont, dass Nationalstrassenprojekte eine umfassende Interessenabwägung unter Einbezug aller relevanten Verfassungsgüter erfordern (**BGE 119 Ib 458 E. 6a**; **BGE 135 II 238 E. 3.2**).
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** **Absatz 1** statuiert eine gemeinsame Verantwortung von Bund und Kantonen für eine ausreichende Strasseninfrastruktur "in allen Landesgegenden". Diese Gewährleistungspflicht ist programmatischer Natur und begründet keine subjektiven Rechtsansprüche (Kern, BSK BV, Art. 83 N. 8). Der unbestimmte Rechtsbegriff "ausreichend" räumt den Behörden einen erheblichen Beurteilungsspielraum ein (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 1285).
+**N. 7** **Absatz 1** statuiert eine gemeinsame Verantwortung von Bund und Kantonen für eine ausreichende Strasseninfrastruktur "in allen Landesgegenden". Diese Gewährleistungspflicht ist programmatischer Natur und begründet keine subjektiven Rechtsansprüche. Der unbestimmte Rechtsbegriff "ausreichend" räumt den Behörden einen erheblichen Beurteilungsspielraum ein (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 1285).
 
 **N. 8** Die Formulierung "in allen Landesgegenden" verweist auf das verfassungsrechtliche Ziel der Grundversorgung und steht im Zusammenhang mit Art. 2 Abs. 2 BV (ausgewogene Entwicklung) sowie Art. 35 Abs. 2 BV. Sie verpflichtet Bund und Kantone zur Berücksichtigung peripherer Regionen bei der Strassenplanung (Griffel, Verkehrsverfassungsrecht, in: Müller [Hrsg.], Schweizerisches Bundesverwaltungsrecht, Bd. IV, 2008, S. 27).
 
@@ -28,11 +28,11 @@
 
 **N. 11** **Absatz 2 Satz 3** statuiert die volle Kostentragungspflicht des Bundes. Diese Finanzierungsverantwortung ist Ausfluss der ausschliesslichen Sachkompetenz und unterscheidet die Nationalstrassen von anderen Infrastrukturaufgaben mit geteilter Finanzierung (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N 3285).
 
-**N. 12** **Absatz 2 Satz 4** ermöglicht die Übertragung von Aufgaben an "öffentliche, private oder gemischte Trägerschaften". Diese Delegationsmöglichkeit erlaubt Public-Private-Partnerships und die Einbindung privater Akteure, wobei die Verantwortung beim Bund verbleibt (Kern, BSK BV, Art. 83 N. 14). Die Übertragung erfolgt typischerweise durch Leistungsvereinbarungen gemäss Art. 49a NSG.
+**N. 12** **Absatz 2 Satz 4** ermöglicht die Übertragung von Aufgaben an "öffentliche, private oder gemischte Trägerschaften". Diese Delegationsmöglichkeit erlaubt Public-Private-Partnerships und die Einbindung privater Akteure, wobei die Verantwortung beim Bund verbleibt. Die Übertragung erfolgt typischerweise durch Leistungsvereinbarungen gemäss Art. 49a NSG.
 
 ### 4. Rechtsfolgen
 
-**N. 13** Aus Art. 83 Abs. 1 BV folgt keine durchsetzbare Pflicht zum Ausbau des Strassennetzes. Die Bestimmung begründet weder subjektive Rechte noch einen Anspruch auf bestimmte Ausbaustandards (Kern, BSK BV, Art. 83 N. 12 f.). Vielmehr handelt es sich um einen Verfassungsauftrag, der den politischen Behörden einen weiten Gestaltungsspielraum belässt.
+**N. 13** Aus Art. 83 Abs. 1 BV folgt keine durchsetzbare Pflicht zum Ausbau des Strassennetzes. Die Bestimmung begründet weder subjektive Rechte noch einen Anspruch auf bestimmte Ausbaustandards. Vielmehr handelt es sich um einen Verfassungsauftrag, der den politischen Behörden einen weiten Gestaltungsspielraum belässt.
 
 **N. 14** Art. 83 Abs. 2 BV begründet hingegen eine ausschliessliche Bundeskompetenz mit folgenden Rechtsfolgen: Der Bund allein ist für Planung, Bau, Betrieb und Unterhalt der Nationalstrassen zuständig. Die Kantone haben keine eigenen Kompetenzen mehr, sind aber zur Mitwirkung bei der Planung verpflichtet (Art. 11 ff. NSG). Sie können zudem mit Betriebsaufgaben betraut werden (Art. 49a NSG).
 
@@ -42,11 +42,11 @@
 
 ### 5. Streitstände
 
-**N. 17** **Umfang der Gewährleistungspflicht nach Abs. 1:** In der Lehre ist umstritten, inwieweit Art. 83 Abs. 1 BV eine Pflicht zum Ausbau der Strasseninfrastruktur begründet. Während Kern (BSK BV, Art. 83 N. 8) betont, dass der Verfassungsbestimmung keine inhaltlichen Vorgaben zu entnehmen seien, vertreten andere Autoren die Ansicht, dass sich aus dem Zusammenspiel mit anderen Verfassungsbestimmungen konkretere Verpflichtungen ergeben können (SG Komm. BV-Lendi, Art. 83 N. 24).
+**N. 17** **Umfang der Gewährleistungspflicht nach Abs. 1:** In der Lehre ist umstritten, inwieweit Art. 83 Abs. 1 BV eine Pflicht zum Ausbau der Strasseninfrastruktur begründet. Während Kern betont, dass der Verfassungsbestimmung keine inhaltlichen Vorgaben zu entnehmen seien, vertreten andere Autoren die Ansicht, dass sich aus dem Zusammenspiel mit anderen Verfassungsbestimmungen konkretere Verpflichtungen ergeben können (SG Komm. BV-Lendi, Art. 83 N. 24).
 
-**N. 18** **Verhältnis zur Verlagerungspolitik:** Kontrovers diskutiert wird das Spannungsverhältnis zwischen der Strassenbaukompetenz und der Verlagerungspolitik nach Art. 84 BV. Kern (BSK BV, Art. 83 N. 10) hält fest, die Verlagerungspolitik sei ausserhalb des Alpenbereichs verfassungsrechtlich nicht vorgegeben, lasse sich aber auf das Zusammenspiel der Verfassungsbestimmungen abstützen. Andere Autoren sehen in Art. 73 und 74 BV weitergehende Einschränkungen der Strassenbaukompetenz (Sollberger, Konvergenzen und Divergenzen im Landverkehrsrecht, 2003, S. 89).
+**N. 18** **Verhältnis zur Verlagerungspolitik:** Kontrovers diskutiert wird das Spannungsverhältnis zwischen der Strassenbaukompetenz und der Verlagerungspolitik nach Art. 84 BV. Kern hält fest, die Verlagerungspolitik sei ausserhalb des Alpenbereichs verfassungsrechtlich nicht vorgegeben, lasse sich aber auf das Zusammenspiel der Verfassungsbestimmungen abstützen. Andere Autoren sehen in Art. 73 und 74 BV weitergehende Einschränkungen der Strassenbaukompetenz (Sollberger, Konvergenzen und Divergenzen im Landverkehrsrecht, 2003, S. 89).
 
-**N. 19** **Anspruch auf Ausbaustandard:** Umstritten ist, ob aus Art. 83 BV ein Anspruch auf einen bestimmten Ausbaustandard der Nationalstrassen folgt. Kern (BSK BV, Art. 83 N. 12) verneint einen Anspruch auf den höchstmöglichen Ausbau- und Sicherheitsstandard. Demgegenüber argumentiert Lendi (SG Komm. BV, Art. 83 N. 24), dass bei bestehenden Kapazitätsengpässen durchaus Ansprüche auf Verbesserungen bestehen könnten.
+**N. 19** **Anspruch auf Ausbaustandard:** Umstritten ist, ob aus Art. 83 BV ein Anspruch auf einen bestimmten Ausbaustandard der Nationalstrassen folgt. Kern verneint einen Anspruch auf den höchstmöglichen Ausbau- und Sicherheitsstandard. Demgegenüber argumentiert Lendi (SG Komm. BV, Art. 83 N. 24), dass bei bestehenden Kapazitätsengpässen durchaus Ansprüche auf Verbesserungen bestehen könnten.
 
 **N. 20** **Zweite Röhre am Gotthard:** Die verfassungsrechtliche Zulässigkeit einer zweiten Strassenröhre am Gotthard war lange umstritten. Während Kritiker einen Verstoss gegen Art. 84 BV (Alpenschutz) sahen, argumentierten Befürworter mit der Gewährleistungspflicht nach Art. 83 BV. Das Bundesgericht hat diese Frage bisher nicht abschliessend geklärt. Die Volksabstimmung vom 28. Februar 2016 hat die zweite Röhre aus Sicherheitsgründen gutgeheissen (Kern, Zwischen Alpenschutz und freiem Verkehr, AJP 2012, 1285 ff.).
 

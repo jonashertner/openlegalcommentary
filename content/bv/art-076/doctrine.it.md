@@ -14,7 +14,7 @@
 
 ## 3. Elementi costitutivi della fattispecie / Contenuto normativo
 
-**N. 5** I **giacimenti idrici** comprendono tutte le acque superficiali e sotterranee incluse le sorgenti, i laghi, i fiumi e le acque sotterranee. Il concetto va inteso in senso ampio e comprende anche i potenziali di utilizzazione futuri (Waldmann/Belser/Epiney, BSK BV, art. 76 n. 15). L'«uso parsimonioso» (cpv. 1) esige un impiego accorto e sostenibile della risorsa acqua nel senso del principio di sostenibilità.
+**N. 5** I **giacimenti idrici** comprendono tutte le acque superficiali e sotterranee incluse le sorgenti, i laghi, i fiumi e le acque sotterranee. Il concetto va inteso in senso ampio e comprende anche i potenziali di utilizzazione futuri. L'«uso parsimonioso» (cpv. 1) esige un impiego accorto e sostenibile della risorsa acqua nel senso del principio di sostenibilità.
 
 **N. 6** La **competenza di principio** della Confederazione (cpv. 2) autorizza la legislazione quadro, ma lascia l'esecuzione e la disciplina di dettaglio ai Cantoni. L'enumerazione dei tipi di utilizzazione (produzione di energia, scopi di raffreddamento) non è esaustiva («nonché»). Il legislatore federale ha sfruttato esaustivamente questa competenza con la LUAc, la LPAc e la LSAc (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, n. 1098).
 
@@ -30,7 +30,7 @@
 
 ## 5. Questioni controverse
 
-**N. 11** **Portata della sovranità cantonale sui corsi d'acqua**: mentre Biaggini (BV-Kommentar, art. 76 n. 5) sottolinea un'ampia autonomia dei Cantoni, Waldmann/Belser/Epiney (BSK BV, art. 76 n. 28) sostengono un'interpretazione più restrittiva alla luce dell'estesa legislazione federale. Il Tribunale federale tende verso la posizione mediatrice, secondo cui la sovranità cantonale sussiste certamente, ma è considerevolmente limitata dal diritto federale (**DTF 145 II 140**).
+**N. 11** **Portata della sovranità cantonale sui corsi d'acqua**: mentre Biaggini (BV-Kommentar, art. 76 n. 5) sottolinea un'ampia autonomia dei Cantoni, Waldmann/Belser/Epiney sostengono un'interpretazione più restrittiva alla luce dell'estesa legislazione federale. Il Tribunale federale tende verso la posizione mediatrice, secondo cui la sovranità cantonale sussiste certamente, ma è considerevolmente limitata dal diritto federale (**DTF 145 II 140**).
 
 **N. 12** **Rapporto energia idrica - protezione delle acque**: Nella dottrina è controverso come valutare l'equilibrio d'interessi tra produzione energetica e protezione dell'ambiente. Griffel (St. Galler Kommentar BV, art. 76 n. 18) sostiene una rigorosa priorità della protezione delle acque, mentre Keller (in: Häfelin/Haller/Keller/Thurnherr, n. 1099) richiede una ponderazione equilibrata degli interessi. La prassi mostra una crescente ponderazione delle preoccupazioni ecologiche con contemporaneo riconoscimento dell'importanza energetico-politica dell'energia idrica.
 

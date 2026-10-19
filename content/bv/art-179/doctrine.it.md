@@ -18,7 +18,7 @@
 
 **N. 5** Il concetto di "stato maggiore generale" caratterizza la Cancelleria federale come organo di supporto centrale senza proprie competenze decisionali negli affari materiali. Secondo Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo, 4ª ed. 2023, art. 179 n. 4) la funzione di stato maggiore comprende tre elementi centrali: preparazione, coordinamento e supporto nell'attuazione delle decisioni del Consiglio federale.
 
-**N. 6** La clausola generale di stato maggiore "generale" delimita la Cancelleria federale dai segretariati generali dipartimentali, che fungono da stati maggiori speciali dei loro dipartimenti. La Cancelleria federale assume compiti trasversali interdipattimentali (Waldmann/Belser/Epiney, BSK Cost., 2ª ed. 2024, art. 179 n. 7).
+**N. 6** La clausola generale di stato maggiore "generale" delimita la Cancelleria federale dai segretariati generali dipartimentali, che fungono da stati maggiori speciali dei loro dipartimenti. La Cancelleria federale assume compiti trasversali interdipattimentali.
 
 ### Direzione da parte del Cancelliere
 

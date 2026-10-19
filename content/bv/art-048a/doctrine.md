@@ -6,7 +6,7 @@
 
 **N. 2** Der Verfassungsgeber erkannte, dass die föderale Struktur in bestimmten Bereichen zu Koordinationsproblemen führen kann. Die Botschaft hält fest: «Im Bereich der durch die Kantonsgrenzen zerschnittenen Siedlungsgebiete und Lebensräume zeigt sich die Problematik besonders deutlich» (BBl 2001 2387). Art. 48a BV soll sicherstellen, dass Kantone, die sich der notwendigen Zusammenarbeit verschliessen, in letzter Konsequenz zur Kooperation verpflichtet werden können.
 
-**N. 3** Die Entstehungsgeschichte zeigt einen Paradigmenwechsel im schweizerischen Föderalismus: Vom reinen Freiwilligkeitsprinzip hin zu einem «kooperativen Föderalismus» mit Zwangselementen (Waldmann, BSK BV, Art. 48a N. 1-4; Schlussbericht NFA 1999, 179 ff.).
+**N. 3** Die Entstehungsgeschichte zeigt einen Paradigmenwechsel im schweizerischen Föderalismus: Vom reinen Freiwilligkeitsprinzip hin zu einem «kooperativen Föderalismus» mit Zwangselementen (Schlussbericht NFA 1999, 179 ff.).
 
 ## 2. Systematische Einordnung
 
@@ -20,7 +20,7 @@
 
 ### a) Anwendungsbereich (Abs. 1)
 
-**N. 7** Der Anwendungsbereich ist auf neun Aufgabenbereiche beschränkt (lit. a-i). Diese Aufzählung ist abschliessend (Waldmann, BSK BV, Art. 48a N. 11-24). Eine erweiternde Auslegung ist ausgeschlossen, da es sich um eine Ausnahmebestimmung zum Grundsatz der Kantonsautonomie handelt.
+**N. 7** Der Anwendungsbereich ist auf neun Aufgabenbereiche beschränkt (lit. a-i). Diese Aufzählung ist abschliessend. Eine erweiternde Auslegung ist ausgeschlossen, da es sich um eine Ausnahmebestimmung zum Grundsatz der Kantonsautonomie handelt.
 
 **N. 8** Die aufgeführten Bereiche zeichnen sich durch grenzüberschreitende Wirkungen oder die Notwendigkeit überregionaler Koordination aus:
 - Straf- und Massnahmenvollzug (lit. a)
@@ -41,7 +41,7 @@
 
 ### c) Instrumente (Abs. 1)
 
-**N. 11** Art. 48a BV sieht zwei Instrumente vor (Waldmann, BSK BV, Art. 48a N. 25-28):
+**N. 11** Art. 48a BV sieht zwei Instrumente vor:
 - Verpflichtung zum **Beitritt** zu interkantonalen Verträgen
 - **Beteiligung** an interkantonalen Verträgen ohne formellen Beitritt
 
@@ -51,17 +51,17 @@
 
 **N. 13** Die Allgemeinverbindlicherklärung hat unterschiedliche Rechtsfolgen je nach gewähltem Instrument:
 
-**N. 14** Bei der **Beitrittsverpflichtung** wird der betroffene Kanton Vertragspartei mit allen Rechten und Pflichten. Der Vertrag behält seinen interkantonalen Charakter (Waldmann, BSK BV, Art. 48a N. 26). Dies unterscheidet Art. 48a BV von einer Bundeskompetenz: Die Verträge werden nicht zu Bundesrecht (**BGE 143 V 451** E. 2.2).
+**N. 14** Bei der **Beitrittsverpflichtung** wird der betroffene Kanton Vertragspartei mit allen Rechten und Pflichten. Der Vertrag behält seinen interkantonalen Charakter. Dies unterscheidet Art. 48a BV von einer Bundeskompetenz: Die Verträge werden nicht zu Bundesrecht (**BGE 143 V 451** E. 2.2).
 
 **N. 15** Bei der **Beteiligungsverpflichtung** entstehen nur die im Bundesbeschluss definierten Pflichten. Der Kanton wird nicht Vertragspartei, sondern erfüllt spezifische, bundesrechtlich angeordnete Kooperationspflichten.
 
-**N. 16** Die Rechtsnatur der Verpflichtung ist umstritten: Biaggini (BSK BV, Art. 48a N. 8) betont, dass Art. 48a BV sich einer unmittelbaren Anwendbarkeit entzieht und einer bundesgesetzlichen Konkretisierung bedarf. Die Praxis zeigt jedoch, dass die Bundesversammlung direkt gestützt auf Art. 48a BV handeln kann.
+**N. 16** Die Rechtsnatur der Verpflichtung ist umstritten: Biaggini betont, dass Art. 48a BV sich einer unmittelbaren Anwendbarkeit entzieht und einer bundesgesetzlichen Konkretisierung bedarf. Die Praxis zeigt jedoch, dass die Bundesversammlung direkt gestützt auf Art. 48a BV handeln kann.
 
 ## 5. Streitstände
 
 ### a) Unmittelbare Anwendbarkeit
 
-**N. 17** **Streitstand zur direkten Anwendbarkeit**: Biaggini (Komm. BV, Art. 48a N. 8) vertritt, dass Art. 48a BV einer bundesgesetzlichen Konkretisierung bedarf. Die herrschende Lehre (Waldmann, BSK BV, Art. 48a N. 8-9; Steinlin, LeGes 2011, 35, 42 ff.) und die Praxis gehen hingegen von der unmittelbaren Anwendbarkeit aus.
+**N. 17** **Streitstand zur direkten Anwendbarkeit**: Biaggini (Komm. BV, Art. 48a N. 8) vertritt, dass Art. 48a BV einer bundesgesetzlichen Konkretisierung bedarf. Die herrschende Lehre (Steinlin, LeGes 2011, 35, 42 ff.) und die Praxis gehen hingegen von der unmittelbaren Anwendbarkeit aus.
 
 ### b) Anwendung auf Verträge in Ausarbeitung
 
@@ -71,7 +71,7 @@
 
 ### c) Verhältnis zu sektorspezifischen Normen
 
-**N. 19** **Streitstand zum Verhältnis zu Spezialnormen**: Unklar ist das Verhältnis zu sektorspezifischen Kooperationsverpflichtungen wie Art. 62 Abs. 4 BV (Schulwesen) oder Art. 123 Abs. 2-3 BV (Strafvollzug). Waldmann (BSK BV, Art. 48a N. 10-36) sieht Art. 48a BV als generelle Auffangnorm, während andere Autoren von einem Spezialitätsverhältnis ausgehen.
+**N. 19** **Streitstand zum Verhältnis zu Spezialnormen**: Unklar ist das Verhältnis zu sektorspezifischen Kooperationsverpflichtungen wie Art. 62 Abs. 4 BV (Schulwesen) oder Art. 123 Abs. 2-3 BV (Strafvollzug). Waldmann sieht Art. 48a BV als generelle Auffangnorm, während andere Autoren von einem Spezialitätsverhältnis ausgehen.
 
 ## 6. Praxishinweise
 
@@ -82,7 +82,7 @@
 - Keine milderen Mittel dürfen zur Verfügung stehen
 - Das öffentliche Interesse muss die Einschränkung der Kantonsautonomie überwiegen
 
-**N. 22** **Rechtsschutz**: Gegen den allgemeinverbindlich erklärenden Bundesbeschluss steht das fakultative Referendum offen (Art. 48a Abs. 2 BV). Nach Inkrafttreten können betroffene Kantone die Verfassungsmässigkeit im Rahmen konkreter Anwendungsakte überprüfen lassen (**BGE 143 I 361** E. 5.2; Waldmann, BSK BV, Art. 48a N. 42).
+**N. 22** **Rechtsschutz**: Gegen den allgemeinverbindlich erklärenden Bundesbeschluss steht das fakultative Referendum offen (Art. 48a Abs. 2 BV). Nach Inkrafttreten können betroffene Kantone die Verfassungsmässigkeit im Rahmen konkreter Anwendungsakte überprüfen lassen (**BGE 143 I 361** E. 5.2).
 
 **N. 23** **Praktische Relevanz**: Trotz seiner Existenz seit 2008 kam Art. 48a BV bislang kaum zur Anwendung. Die Norm entfaltet primär präventive Wirkung: Die blosse Drohung mit der Allgemeinverbindlicherklärung fördert freiwillige Kooperationslösungen (Biaggini, ZBl 2008, 345, 376 f.).
 

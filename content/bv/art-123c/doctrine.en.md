@@ -20,9 +20,9 @@
 
 ### 3. Elements of the Offence / Content of the Norm
 
-**N. 7** **Triggering offence**: The provision covers persons who «are convicted of impairing the sexual integrity of a child or dependent person». Göksu takes the position that consumption of child pornography is also covered, as the consumer is «within the scope of the prohibition» (Göksu, BSK BV, Art. 123c N. 8). This is consistent with **BGE 149 IV 161**, which confirms a broad scope of application.
+**N. 7** **Triggering offence**: The provision covers persons who «are convicted of impairing the sexual integrity of a child or dependent person». Göksu takes the position that consumption of child pornography is also covered, as the consumer is «within the scope of the prohibition». This is consistent with **BGE 149 IV 161**, which confirms a broad scope of application.
 
-**N. 8** **Concept of child**: According to prevailing doctrine, children are persons under 16 years of age, based on the age of protection in sexual criminal law (→ Art. 187 CC). The French version («mineur») suggests minors under 18 years of age, which leads to interpretation problems (Göksu, BSK BV, Art. 123c N. 11).
+**N. 8** **Concept of child**: According to prevailing doctrine, children are persons under 16 years of age, based on the age of protection in sexual criminal law (→ Art. 187 CC). The French version («mineur») suggests minors under 18 years of age, which leads to interpretation problems.
 
 **N. 9** **Dependent person**: This concept covers persons in a special dependency relationship, for example due to disability, illness or a care relationship. The exact delimitation remains controversial in doctrine and case law.
 
@@ -30,13 +30,13 @@
 
 **N. 10** **Automatism of the prohibition**: The Constitution mandatorily orders a «definitive» prohibition, without discretion for the courts. This automatism was implemented by the legislature in Art. 67 para. 2bis CC as a «lifelong» activity prohibition, whereby a review is possible after ten years (Art. 67c para. 6 CC).
 
-**N. 11** **Scope of prohibited activities**: Professional and non-professional activities with minors or other particularly vulnerable persons are covered. The Federal Council interprets this restrictively: only activities «with» minors are covered, not those where «contact is merely possible» (Göksu, BSK BV, Art. 123c N. 25, referring to the message). Göksu criticises that the French text is more broadly conceived and covers «any activity that enables contact with children».
+**N. 11** **Scope of prohibited activities**: Professional and non-professional activities with minors or other particularly vulnerable persons are covered. The Federal Council interprets this restrictively: only activities «with» minors are covered, not those where «contact is merely possible». Göksu criticises that the French text is more broadly conceived and covers «any activity that enables contact with children».
 
 **N. 12** **Proportionality reservation**: The legislature has created an exception provision for «particularly minor cases» in Art. 67 para. 4bis CC. According to **BGE 149 IV 161 E. 2.5.1**, this is interpreted extremely restrictively: the lifelong activity prohibition should remain the rule.
 
 ### 5. Points of Contention
 
-**N. 13** **Direct applicability**: A central point of contention concerns the immediate applicability of the constitutional provision. Göksu maintains that the provision is «sufficiently determined to be directly applied, albeit within a limited framework» (Göksu, BSK BV, Art. 123c N. 2). The Federal Council, however, argued that the provision «will not manage without implementation at the legislative level» (BBl 2012 8819, 8838).
+**N. 13** **Direct applicability**: A central point of contention concerns the immediate applicability of the constitutional provision. Göksu maintains that the provision is «sufficiently determined to be directly applied, albeit within a limited framework». The Federal Council, however, argued that the provision «will not manage without implementation at the legislative level» (BBl 2012 8819, 8838).
 
 **N. 14** **Scope of the activity prohibition**: The extent of the activities covered is controversially discussed. While a narrow interpretation covers only direct care activities, others advocate for a broad interpretation that includes any possible contact with minors. Case law tends towards the narrow interpretation (VGer ZH, VB.2014.00008).
 

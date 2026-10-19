@@ -2,13 +2,13 @@
 
 ## Contenuto essenziale
 
-L'art. 89 Cost. disciplina la politica energetica della Svizzera e ripartisce le competenze tra Confederazione e Cantoni (Kern, BSK BV, Art. 89 n. 4–5). La Confederazione può emanare prescrizioni sul consumo energetico di impianti e veicoli nonché promuovere le tecnologie energetiche. I Cantoni sono principalmente responsabili delle misure relative agli edifici. Entrambi i livelli statali devono provvedere insieme a un approvvigionamento energetico sicuro, rispettoso dell'ambiente ed economico (**DTF 138 I 454** consid. 5.1).
+L'art. 89 Cost. disciplina la politica energetica della Svizzera e ripartisce le competenze tra Confederazione e Cantoni. La Confederazione può emanare prescrizioni sul consumo energetico di impianti e veicoli nonché promuovere le tecnologie energetiche. I Cantoni sono principalmente responsabili delle misure relative agli edifici. Entrambi i livelli statali devono provvedere insieme a un approvvigionamento energetico sicuro, rispettoso dell'ambiente ed economico (**DTF 138 I 454** consid. 5.1).
 
 ## Ambito d'applicazione
 
-La disposizione si applica all'intera politica energetica della Svizzera. Riguarda sia la produzione di energia (elettricità, calore) sia il consumo energetico. Tutte le autorità statali di Confederazione, Cantoni e Comuni sono tenute a perseguire gli obiettivi di politica energetica (Kern, BSK BV, Art. 89 n. 9–11). Le aziende energetiche private devono attenersi alle prescrizioni statali, ma non ottengono diritti diretti dalla Costituzione.
+La disposizione si applica all'intera politica energetica della Svizzera. Riguarda sia la produzione di energia (elettricità, calore) sia il consumo energetico. Tutte le autorità statali di Confederazione, Cantoni e Comuni sono tenute a perseguire gli obiettivi di politica energetica. Le aziende energetiche private devono attenersi alle prescrizioni statali, ma non ottengono diritti diretti dalla Costituzione.
 
-La Costituzione indica cinque obiettivi equivalenti per l'approvvigionamento energetico: deve essere sufficiente (abbastanza energia per tutti), diversificato (diverse fonti energetiche), sicuro (disponibile in modo affidabile), economico (a prezzi accessibili) e rispettoso dell'ambiente. Inoltre, l'energia deve essere utilizzata in modo parsimonioso ed efficiente (Kern, BSK BV, Art. 89 n. 12–13).
+La Costituzione indica cinque obiettivi equivalenti per l'approvvigionamento energetico: deve essere sufficiente (abbastanza energia per tutti), diversificato (diverse fonti energetiche), sicuro (disponibile in modo affidabile), economico (a prezzi accessibili) e rispettoso dell'ambiente. Inoltre, l'energia deve essere utilizzata in modo parsimonioso ed efficiente.
 
 ## Principali conseguenze giuridiche
 

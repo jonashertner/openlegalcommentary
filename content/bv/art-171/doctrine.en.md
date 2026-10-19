@@ -10,7 +10,7 @@
 
 **N. 3** Art. 171 BV stands in the 2nd section of the 5th chapter on the «Powers» of the Federal Assembly. The provision forms, together with Art. 169 BV (oversight) and Art. 187 BV (participation rights in foreign policy), the constitutional foundation of parliamentary control and steering of government activity. It concretises the principle enshrined in Art. 148 para. 1 BV, according to which the Federal Assembly «exercises supreme authority in the Confederation», subject to the rights of the people and the cantons (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4th ed. 2023, Art. 171 N. 2).
 
-**N. 4** The systematic connection with → Art. 182 BV shows the functional separation of powers: While Art. 171 BV regulates parliamentary mandate-giving, Art. 182 BV defines the independent leadership function of the Federal Council. The tension between parliamentary steering and executive autonomy characterises the interpretation of both provisions (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 171 N. 5; Tschannen, Staatsrecht, 5th ed. 2021, § 44 N. 15).
+**N. 4** The systematic connection with → Art. 182 BV shows the functional separation of powers: While Art. 171 BV regulates parliamentary mandate-giving, Art. 182 BV defines the independent leadership function of the Federal Council. The tension between parliamentary steering and executive autonomy characterises the interpretation of both provisions (Tschannen, Staatsrecht, 5th ed. 2021, § 44 N. 15).
 
 ### 3. Elements of the Offence / Content of the Provision
 

@@ -6,7 +6,7 @@ Art. 67a BV verpflichtet Bund und Kantone zur Förderung der musikalischen Bildu
 
 Die Verfassungsbestimmung gliedert sich in drei Bereiche: Erstens fördern Bund und Kantone gemeinsam die musikalische Bildung, besonders von Kindern und Jugendlichen. Zweitens setzen sie sich für hochwertigen Musikunterricht an Schulen ein. Drittens legt der Bund Grundsätze für den Zugang der Jugend zum Musizieren und die Begabtenförderung fest.
 
-Der Artikel schafft jedoch keine direkten Rechtsansprüche, sondern ist als Programmnorm (staatliches Ziel ohne einklagbare Rechte) konzipiert (Urteil B-3536/2016 vom 20. Januar 2017). Seine Umsetzung erfolgt durch Gesetze und Verordnungen. Der Bund ist nur für ausserschulische Projekte zuständig, während die Kantone für den Musikunterricht an Schulen verantwortlich bleiben (Hänni, BSK BV, Art. 67a N. 7).
+Der Artikel schafft jedoch keine direkten Rechtsansprüche, sondern ist als Programmnorm (staatliches Ziel ohne einklagbare Rechte) konzipiert (Urteil B-3536/2016 vom 20. Januar 2017). Seine Umsetzung erfolgt durch Gesetze und Verordnungen. Der Bund ist nur für ausserschulische Projekte zuständig, während die Kantone für den Musikunterricht an Schulen verantwortlich bleiben.
 
 Ein praktisches Beispiel ist das Bundesprogramm «Jugend und Musik», das Kindern und Jugendlichen zwischen 6 und 20 Jahren ausserschulische musikalische Aktivitäten ermöglicht. Projekte, die hauptsächlich im Schulunterricht stattfinden, fallen nicht in die Bundeszuständigkeit. So lehnte das Bundesverwaltungsgericht 2017 Fördermittel für ein Schulchor-Projekt ab, da die viermonatige Vorbereitung im regulären Unterricht erfolgte (B-3536/2016).
 

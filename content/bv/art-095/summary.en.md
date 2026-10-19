@@ -8,6 +8,6 @@ Art. 95 FC regulates large publicly traded stock corporations in particular deta
 
 An example: The major bank UBS must have its shareholders vote on executive compensation every year. If they vote against it, the compensation is not permitted.
 
-The federal competence under para. 1 is very far-reaching. The Federal Supreme Court confirmed in BGE 125 I 276 that "any commercially exercised, private economic activity" falls under it. According to Felix Uhlmann in his BSK commentary, the Confederation can "autonomously determine the concept of private economic activity" (BSK BV, Art. 95 N. 4). The Federal Council emphasised in the message on the total revision that this competence is "comprehensive" (BBl 1997 I 303).
+The federal competence under para. 1 is very far-reaching. The Federal Supreme Court confirmed in BGE 125 I 276 that "any commercially exercised, private economic activity" falls under it. According to Felix Uhlmann in his BSK commentary, the Confederation can "autonomously determine the concept of private economic activity". The Federal Council emphasised in the message on the total revision that this competence is "comprehensive" (BBl 1997 I 303).
 
 The provision thus combines fundamental rights protection with state regulation: it enables economic freedom, but also sets limits to protect the general public.

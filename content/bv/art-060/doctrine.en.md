@@ -28,7 +28,7 @@
 
 **N. 8** **Equipment**: This includes all material equipment of the army: weapons, ammunition, vehicles, uniforms, technical equipment, IT and communication systems. The Confederation is responsible for procurement, maintenance, storage and liquidation of army material.
 
-**N. 9** **Takeover of military installations (para. 3)**: The Confederation may take over military installations of the cantons against appropriate compensation. This provision has hardly any practical significance since the complete federalisation of the army. It primarily concerns shooting ranges, armouries or other military-use infrastructure that is still in cantonal ownership (Waldmann/Belser/Epiney, Basel Commentary FC, 2nd ed. 2024, Art. 60 N. 12).
+**N. 9** **Takeover of military installations (para. 3)**: The Confederation may take over military installations of the cantons against appropriate compensation. This provision has hardly any practical significance since the complete federalisation of the army. It primarily concerns shooting ranges, armouries or other military-use infrastructure that is still in cantonal ownership.
 
 ### 4. Legal Consequences
 

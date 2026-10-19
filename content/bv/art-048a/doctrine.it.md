@@ -6,7 +6,7 @@
 
 **N. 2** Il costituente ha riconosciuto che la struttura federale può portare a problemi di coordinamento in determinati settori. Il messaggio osserva: «Nell'ambito degli insediamenti e degli spazi vitali suddivisi dai confini cantonali, la problematica si manifesta con particolare chiarezza» (FF 2001 2045). L'art. 48a Cost. deve garantire che i Cantoni che si sottraggono alla necessaria collaborazione possano essere obbligati, come ultima conseguenza, alla cooperazione.
 
-**N. 3** La genesi mostra un cambiamento di paradigma nel federalismo svizzero: dal puro principio di volontarietà verso un «federalismo cooperativo» con elementi coercitivi (Waldmann, BSK BV, Art. 48a N. 1-4; Schlussbericht NFA 1999, 179 ff.).
+**N. 3** La genesi mostra un cambiamento di paradigma nel federalismo svizzero: dal puro principio di volontarietà verso un «federalismo cooperativo» con elementi coercitivi (Schlussbericht NFA 1999, 179 ff.).
 
 ## 2. Inquadramento sistematico
 
@@ -20,7 +20,7 @@
 
 ### a) Ambito di applicazione (cpv. 1)
 
-**N. 7** L'ambito di applicazione è limitato a nove settori di compiti (lett. a-i). Questa enumerazione è tassativa (Waldmann, BSK BV, Art. 48a N. 11-24). Un'interpretazione estensiva è esclusa, trattandosi di una disposizione di eccezione al principio dell'autonomia cantonale.
+**N. 7** L'ambito di applicazione è limitato a nove settori di compiti (lett. a-i). Questa enumerazione è tassativa. Un'interpretazione estensiva è esclusa, trattandosi di una disposizione di eccezione al principio dell'autonomia cantonale.
 
 **N. 8** I settori elencati si caratterizzano per gli effetti transfrontalieri o la necessità di coordinamento sovraregionale:
 - Esecuzione delle pene e delle misure (lett. a)
@@ -41,7 +41,7 @@
 
 ### c) Strumenti (cpv. 1)
 
-**N. 11** L'art. 48a Cost. prevede due strumenti (Waldmann, BSK BV, Art. 48a N. 25-28):
+**N. 11** L'art. 48a Cost. prevede due strumenti:
 - Obbligo di **adesione** ad accordi intercantonali
 - **Partecipazione** ad accordi intercantonali senza adesione formale
 
@@ -51,17 +51,17 @@
 
 **N. 13** La dichiarazione di obbligatorietà generale ha conseguenze giuridiche diverse a seconda dello strumento scelto:
 
-**N. 14** Nell'**obbligo di adesione** il Cantone interessato diventa parte contrattuale con tutti i diritti e doveri. Il contratto mantiene il suo carattere intercantonale (Waldmann, BSK BV, Art. 48a N. 26). Ciò distingue l'art. 48a Cost. da una competenza federale: i contratti non diventano diritto federale (**DTF 143 V 451** consid. 2.2).
+**N. 14** Nell'**obbligo di adesione** il Cantone interessato diventa parte contrattuale con tutti i diritti e doveri. Il contratto mantiene il suo carattere intercantonale. Ciò distingue l'art. 48a Cost. da una competenza federale: i contratti non diventano diritto federale (**DTF 143 V 451** consid. 2.2).
 
 **N. 15** Nell'**obbligo di partecipazione** sorgono solo i doveri definiti nel decreto federale. Il Cantone non diventa parte contrattuale, ma adempie specifici obblighi di cooperazione ordinati dal diritto federale.
 
-**N. 16** La natura giuridica dell'obbligo è controversa: Biaggini (BSK BV, Art. 48a N. 8) sottolinea che l'art. 48a Cost. si sottrae a un'applicabilità immediata e necessita di una concretizzazione mediante legge federale. La prassi mostra tuttavia che l'Assemblea federale può agire direttamente sulla base dell'art. 48a Cost.
+**N. 16** La natura giuridica dell'obbligo è controversa: Biaggini sottolinea che l'art. 48a Cost. si sottrae a un'applicabilità immediata e necessita di una concretizzazione mediante legge federale. La prassi mostra tuttavia che l'Assemblea federale può agire direttamente sulla base dell'art. 48a Cost.
 
 ## 5. Questioni controverse
 
 ### a) Applicabilità immediata
 
-**N. 17** **Questione controversa sull'applicabilità diretta**: Biaggini (Komm. BV, Art. 48a N. 8) sostiene che l'art. 48a Cost. necessita di una concretizzazione mediante legge federale. La dottrina dominante (Waldmann, BSK BV, Art. 48a N. 8-9; Steinlin, LeGes 2011, 35, 42 ff.) e la prassi partono invece dall'applicabilità immediata.
+**N. 17** **Questione controversa sull'applicabilità diretta**: Biaggini (Komm. BV, Art. 48a N. 8) sostiene che l'art. 48a Cost. necessita di una concretizzazione mediante legge federale. La dottrina dominante (Steinlin, LeGes 2011, 35, 42 ff.) e la prassi partono invece dall'applicabilità immediata.
 
 ### b) Applicazione ai contratti in elaborazione
 
@@ -71,7 +71,7 @@
 
 ### c) Rapporto con le norme settoriali
 
-**N. 19** **Questione controversa sul rapporto con le norme speciali**: Non è chiaro il rapporto con gli obblighi di cooperazione settoriali come l'art. 62 cpv. 4 Cost. (sistema scolastico) o l'art. 123 cpv. 2-3 Cost. (esecuzione penale). Waldmann (BSK BV, Art. 48a N. 10-36) vede l'art. 48a Cost. come norma generale di riserva, mentre altri autori partono da un rapporto di specialità.
+**N. 19** **Questione controversa sul rapporto con le norme speciali**: Non è chiaro il rapporto con gli obblighi di cooperazione settoriali come l'art. 62 cpv. 4 Cost. (sistema scolastico) o l'art. 123 cpv. 2-3 Cost. (esecuzione penale). Waldmann vede l'art. 48a Cost. come norma generale di riserva, mentre altri autori partono da un rapporto di specialità.
 
 ## 6. Indicazioni pratiche
 
@@ -82,7 +82,7 @@
 - Non devono essere disponibili mezzi più miti
 - L'interesse pubblico deve prevalere sulla limitazione dell'autonomia cantonale
 
-**N. 22** **Tutela giuridica**: Contro il decreto federale di obbligatorietà generale è aperto il referendum facoltativo (art. 48a cpv. 2 Cost.). Dopo l'entrata in vigore i Cantoni interessati possono far verificare la costituzionalità nel quadro di atti concreti di applicazione (**DTF 143 I 361** consid. 5.2; Waldmann, BSK BV, Art. 48a N. 42).
+**N. 22** **Tutela giuridica**: Contro il decreto federale di obbligatorietà generale è aperto il referendum facoltativo (art. 48a cpv. 2 Cost.). Dopo l'entrata in vigore i Cantoni interessati possono far verificare la costituzionalità nel quadro di atti concreti di applicazione (**DTF 143 I 361** consid. 5.2).
 
 **N. 23** **Rilevanza pratica**: Nonostante la sua esistenza dal 2008, l'art. 48a Cost. è finora stato applicato raramente. La norma sviluppa principalmente un effetto preventivo: la mera minaccia della dichiarazione di obbligatorietà generale favorisce soluzioni di cooperazione volontaria (Biaggini, ZBl 2008, 345, 376 f.).
 

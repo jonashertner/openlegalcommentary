@@ -38,7 +38,7 @@
 
 **N. 12** Il concetto di «gestione ordinaria del bilancio» è una nozione giuridica indeterminata che viene concretizzata dall'art. 12 LFC. Essa comprende i principi della legalità, urgenza, economicità ed efficacia. Questi principi valgono per tutte le attività con effetti finanziari della Confederazione.
 
-**N. 13** La legalità richiede una base legale per ogni spesa. L'urgenza garantisce che le spese vengano sostenute al momento necessario. L'economicità significa un rapporto costi-benefici ottimale, mentre l'efficacia si concentra sul raggiungimento degli obiettivi (Waldmann, BSK BV, 2a ed. 2024, art. 183 N. 8).
+**N. 13** La legalità richiede una base legale per ogni spesa. L'urgenza garantisce che le spese vengano sostenute al momento necessario. L'economicità significa un rapporto costi-benefici ottimale, mentre l'efficacia si concentra sul raggiungimento degli obiettivi.
 
 ## 4. Conseguenze giuridiche
 
@@ -54,7 +54,7 @@
 
 **N. 18** È anche discusso controversamente il rapporto tra la competenza di pianificazione finanziaria del Consiglio federale e il diritto parlamentare di bilancio. Müller/Feller (Finanzrecht des Bundes, p. 205) vedono nel piano finanziario un vincolo di fatto per il Parlamento, mentre Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 4a ed. 2016, § 45 N 14) sottolinea la sovranità di bilancio illimitata dell'Assemblea federale.
 
-**N. 19** La portata della «gestione ordinaria del bilancio» è ugualmente oggetto di dibattiti dottrinali. Waldmann (BSK BV, art. 183 N. 11) propugna un'interpretazione estensiva che include anche aspetti di sostenibilità. Häfelin/Haller/Keller/Thurnherr (N 1861) sostengono una visione più restrittiva che si limita ai principi tradizionali del bilancio.
+**N. 19** La portata della «gestione ordinaria del bilancio» è ugualmente oggetto di dibattiti dottrinali. Waldmann propugna un'interpretazione estensiva che include anche aspetti di sostenibilità. Häfelin/Haller/Keller/Thurnherr (N 1861) sostengono una visione più restrittiva che si limita ai principi tradizionali del bilancio.
 
 ## 6. Indicazioni pratiche
 

@@ -18,7 +18,7 @@
 
 **N. 5** Der Begriff "allgemeine Stabsstelle" charakterisiert die Bundeskanzlei als zentrales Unterstützungsorgan ohne eigene Entscheidkompetenzen in Sachgeschäften. Nach Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar, 4. Aufl. 2023, Art. 179 N. 4) umfasst die Stabsfunktion drei Kernelemente: Vorbereitung, Koordination und Umsetzungsunterstützung von Bundesratsbeschlüssen.
 
-**N. 6** Die Generalklausel "allgemeine" Stabsstelle grenzt die Bundeskanzlei von den departementalen Generalsekretariaten ab, welche als spezielle Stabsstellen ihrer Departemente fungieren. Die Bundeskanzlei nimmt departementsübergreifende Querschnittsaufgaben wahr (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 179 N. 7).
+**N. 6** Die Generalklausel "allgemeine" Stabsstelle grenzt die Bundeskanzlei von den departementalen Generalsekretariaten ab, welche als spezielle Stabsstellen ihrer Departemente fungieren. Die Bundeskanzlei nimmt departementsübergreifende Querschnittsaufgaben wahr.
 
 ### Leitung durch Bundeskanzler/in
 

@@ -63,7 +63,7 @@
 
 **N. 15** È anche discussa controversamente la portata dell'autoamministrazione nell'ambito della sovranità di bilancio. Müller/Schefer, Grundrechte in der Schweiz, 4a ed. 2008, p. 962, esigono una completa autonomia di bilancio, mentre la dottrina dominante (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4a ed. 2014, § 11 N 28) considera la sovranità di bilancio parlamentare come costituzionalmente prioritaria.
 
-**N. 16** È ugualmente controversa la portata della riserva di legge per i regolamenti di procedura. Una parte della dottrina (Waldmann/Belser/Epiney, BSK BV, 2a ed. 2024, art. 188 N 15) esige un'autorizzazione legale esplicita, mentre altri (Kley, ZSR 2020, p. 215) considerano la garanzia di autoamministrazione come base sufficiente.
+**N. 16** È ugualmente controversa la portata della riserva di legge per i regolamenti di procedura. Una parte della dottrina esige un'autorizzazione legale esplicita, mentre altri (Kley, ZSR 2020, p. 215) considerano la garanzia di autoamministrazione come base sufficiente.
 
 ## 6. Indicazioni pratiche
 

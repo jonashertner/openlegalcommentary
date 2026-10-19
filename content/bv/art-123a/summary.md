@@ -1,6 +1,6 @@
 # Art. 123a BV — Übersicht
 
-Art. 123a BV ordnet die lebenslängliche Verwahrung für extrem gefährliche Sexual- und Gewaltstraftäter an. Die Bestimmung entstand aus der Volksinitiative «Lebenslange Verwahrung für nicht therapierbare, extrem gefährliche Sexual- und Gewaltstraftäter», die 2004 angenommen wurde (Göksu, BSK BV, Art. 123a N. 1).
+Art. 123a BV ordnet die lebenslängliche Verwahrung für extrem gefährliche Sexual- und Gewaltstraftäter an. Die Bestimmung entstand aus der Volksinitiative «Lebenslange Verwahrung für nicht therapierbare, extrem gefährliche Sexual- und Gewaltstraftäter», die 2004 angenommen wurde.
 
 **Was regelt die Norm?** Die Verfassung schreibt vor, dass bestimmte Straftäter bis zu ihrem Lebensende verwahrt werden müssen. Dies gilt für Personen, die ein Gewalt- oder Sexualdelikt begangen haben und als «dauerhaft nicht therapierbar» eingestuft werden. Das Bundesgericht versteht darunter eine lebenslängliche Untherapierbarkeit (**BGE 140 IV 1 E. 3**).
 

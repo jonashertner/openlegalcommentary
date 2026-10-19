@@ -10,4 +10,4 @@ L'art. 64 Cst. confère à la Confédération la compétence d'encourager la rec
 
 **Exemple** : Un biologiste demande au FNS 200'000 francs pour une étude sur le cancer. Une procédure de peer-review examine la qualité scientifique. En cas d'évaluation positive, il obtient l'encouragement pour trois ans.
 
-**Point litigieux** : En doctrine, il est controversé de savoir si « scientifique » désigne seulement des standards méthodologiques (Borghi, BSK BV, art. 64 n. 39) ou constitue un critère de qualité (Gruber, BSK BV, art. 64 n. 42).
+**Point litigieux**: En doctrine, il est controversé de savoir si « scientifique » désigne seulement des standards méthodologiques ou constitue un critère de qualité.

@@ -18,7 +18,7 @@
 
 **N. 5** Le terme « service d'état-major général » caractérise la Chancellerie fédérale comme organe central de soutien sans compétences décisionnelles propres dans les affaires de fond. Selon Ehrenzeller/Schindler/Schweizer/Vallender (Commentaire saint-gallois, 4e éd. 2023, art. 179 N. 4), la fonction d'état-major comprend trois éléments centraux : préparation, coordination et soutien à la mise en œuvre des décisions du Conseil fédéral.
 
-**N. 6** La clause générale « général » délimite la Chancellerie fédérale des secrétariats généraux départementaux, qui fonctionnent comme services d'état-major spéciaux de leurs départements. La Chancellerie fédérale assume des tâches transversales interdépartementales (Waldmann/Belser/Epiney, Commentaire bâlois Cst., 2e éd. 2024, art. 179 N. 7).
+**N. 6** La clause générale « général » délimite la Chancellerie fédérale des secrétariats généraux départementaux, qui fonctionnent comme services d'état-major spéciaux de leurs départements. La Chancellerie fédérale assume des tâches transversales interdépartementales.
 
 ### Direction par le chancelier / la chancelière
 

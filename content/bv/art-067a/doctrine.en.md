@@ -4,13 +4,13 @@
 
 ### Legislative history
 
-**N. 1** The anchoring of musical education in the Federal Constitution goes back to the popular initiative «youth + music», which was submitted on 18 December 2008 with 154,095 valid signatures (FO 2009 613). While the Federal Council acknowledged the social significance of musical education, it nevertheless rejected the initiative (Hänni, BSK FC, Art. 67a N. 1). While the National Council voted for acceptance of the popular initiative, it did not find a majority in the Council of States (Hänni, BSK FC, Art. 67a N. 1).
+**N. 1** The anchoring of musical education in the Federal Constitution goes back to the popular initiative «youth + music», which was submitted on 18 December 2008 with 154,095 valid signatures (FO 2009 613). While the Federal Council acknowledged the social significance of musical education, it nevertheless rejected the initiative. While the National Council voted for acceptance of the popular initiative, it did not find a majority in the Council of States.
 
-**N. 2** The majority of the Council of States commission had spoken in favour of a counter-proposal that provided for promotion of music while taking into account cantonal competencies (Hänni, BSK FC, Art. 67a N. 1). This direct counter-proposal was finally adopted by both chambers (FO 2010 5389). The initiators then withdrew their initiative in favour of the counter-proposal. On 23 September 2012, the people and cantons accepted the counter-proposal with 72.7% yes votes and the approval of all cantons (FO 2012 9991).
+**N. 2** The majority of the Council of States commission had spoken in favour of a counter-proposal that provided for promotion of music while taking into account cantonal competencies. This direct counter-proposal was finally adopted by both chambers (FO 2010 5389). The initiators then withdrew their initiative in favour of the counter-proposal. On 23 September 2012, the people and cantons accepted the counter-proposal with 72.7% yes votes and the approval of all cantons (FO 2012 9991).
 
 ### Systematic classification
 
-**N. 3** Art. 67a FC stands in the 3rd section of the Federal Constitution on «Education, Research and Culture». The provision complements the Swiss education area (Art. 61a ff. FC) and cultural promotion (Art. 69 FC) with a specific aspect. It forms a hinge between the education and culture areas, with the educational aspect in the foreground (Hänni, BSK FC, Art. 67a N. 2).
+**N. 3** Art. 67a FC stands in the 3rd section of the Federal Constitution on «Education, Research and Culture». The provision complements the Swiss education area (Art. 61a ff. FC) and cultural promotion (Art. 69 FC) with a specific aspect. It forms a hinge between the education and culture areas, with the educational aspect in the foreground.
 
 **N. 4** The systematic proximity to Art. 62 FC (school system) is central to understanding the allocation of powers. While Art. 62 FC assigns the cantons primary competence for the school system, Art. 67a para. 2 FC partially breaks through this order by transferring a joint task in the area of school musical education to the Confederation and cantons. The cross-references to → Art. 63a para. 5 FC (vocational education and training) and → Art. 67 para. 2 FC (promotion of youth) show the interconnection with other promotion areas.
 
@@ -18,11 +18,11 @@
 
 **N. 5** Art. 67a FC contains three different regulatory contents:
 
-- **Paragraph 1** establishes a general promotion obligation of the Confederation and cantons for musical education, particularly of children and young people. The term «musical education» encompasses both practical performance (instrumental instruction, singing) and theoretical teaching (music history, music theory). The working group of the FDHA/FOC takes the view that the Confederation could in future also promote musical education in the school area by financially supporting corresponding measures by the cantons (Hänni, BSK FC, Art. 67a N. 5).
+- **Paragraph 1** establishes a general promotion obligation of the Confederation and cantons for musical education, particularly of children and young people. The term «musical education» encompasses both practical performance (instrumental instruction, singing) and theoretical teaching (music history, music theory). The working group of the FDHA/FOC takes the view that the Confederation could in future also promote musical education in the school area by financially supporting corresponding measures by the cantons.
 
-- **Paragraph 2** obliges the Confederation and cantons to work for high-quality music instruction in schools. This provision does not break through cantonal school sovereignty according to Art. 62 FC, but rather establishes an obligation to cooperate (Hänni, BSK FC, Art. 67a N. 7).
+- **Paragraph 2** obliges the Confederation and cantons to work for high-quality music instruction in schools. This provision does not break through cantonal school sovereignty according to Art. 62 FC, but rather establishes an obligation to cooperate.
 
-- **Paragraph 3** assigns the Confederation the power to lay down principles for youth access to music-making and the promotion of the musically gifted. This federal competence is limited to the extracurricular area (Hänni, BSK FC, Art. 67a N. 9).
+- **Paragraph 3** assigns the Confederation the power to lay down principles for youth access to music-making and the promotion of the musically gifted. This federal competence is limited to the extracurricular area.
 
 ### Legal consequences
 

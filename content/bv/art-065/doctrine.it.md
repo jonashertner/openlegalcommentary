@@ -20,7 +20,7 @@
 
 **N. 5** **«Dati statistici necessari»** (cpv. 1): Il concetto di necessità conferisce alla Confederazione un ampio margine discrezionale. Determinante è l'interesse pubblico al rispettivo rilevamento (Ehrenzeller/Mastronardi/Schweizer/Vallender, Commentario sangallese Cost., 4ª ed. 2023, art. 65 n. 4). La necessità va interpretata alla luce della proporzionalità.
 
-**N. 6** Il catalogo dei settori di rilevamento («popolazione, economia, società, educazione, ricerca, territorio e ambiente») è esemplificativo, non esaustivo. Ciò risulta dal tenore letterale «sullo stato e l'evoluzione di», che consente un'interpretazione dinamica (BSK Cost.-Schweizer, 2ª ed. 2024, art. 65 n. 7).
+**N. 6** Il catalogo dei settori di rilevamento («popolazione, economia, società, educazione, ricerca, territorio e ambiente») è esemplificativo, non esaustivo. Ciò risulta dal tenore letterale «sullo stato e l'evoluzione di», che consente un'interpretazione dinamica.
 
 **N. 7** **«Armonizzazione e gestione di registri ufficiali»** (cpv. 2): Questa competenza è facoltativa («può»). Mira a evitare rilevamenti multipli e all'utilizzazione efficiente di basi di dati esistenti. L'armonizzazione concerne primariamente standard tecnici e definizioni, non il contenuto dei registri stessi (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10ª ed. 2020, n. 1234a).
 
@@ -34,7 +34,7 @@
 
 ### 5. Controversie
 
-**N. 11** **Portata della competenza federale**: È controverso se l'art. 65 Cost. conferisca una competenza statistica globale o soltanto riferita ai compiti federali. La dottrina prevalente sostiene un'interpretazione ampia, poiché statistiche affidabili sono necessarie per tutti i livelli statali (Ehrenzeller et al., Commentario sangallese Cost., art. 65 n. 3; diversamente Schweizer, BSK Cost., art. 65 n. 5, che propugna una limitazione ai compiti federali).
+**N. 11** **Portata della competenza federale**: È controverso se l'art. 65 Cost. conferisca una competenza statistica globale o soltanto riferita ai compiti federali. La dottrina prevalente sostiene un'interpretazione ampia, poiché statistiche affidabili sono necessarie per tutti i livelli statali (Ehrenzeller et al., Commentario sangallese Cost., art. 65 n. 3).
 
 **N. 12** **Rapporto con la protezione dei dati**: È controverso il rapporto di tensione tra rilevamenti statistici globali e la protezione della personalità. Müller/Schefer (Grundrechte in der Schweiz, 4ª ed. 2008, p. 234) sottolineano la precedenza della protezione dei dati, mentre Rhinow/Schefer/Uebersax (n. 3656) propugnano una ponderazione caso per caso. Il Tribunale federale ha concretizzato i limiti relativi alla protezione dei dati in DTF 1C_425/2020.
 

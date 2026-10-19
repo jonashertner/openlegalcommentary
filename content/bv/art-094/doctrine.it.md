@@ -8,23 +8,23 @@
 
 ### 2. Inquadramento sistematico
 
-**N. 3** L'art. 94 Cost. si trova all'inizio della 3ª sezione («Economia») del 3° titolo della Costituzione federale e rappresenta la norma fondamentale della costituzione economica svizzera (Uhlmann, BSK BV, art. 94 n. 1). La disposizione ha una doppia natura: è sia norma costituzionale oggettiva sia fondamento del diritto fondamentale della libertà economica sancito nell'art. 27 Cost.
+**N. 3** L'art. 94 Cost. si trova all'inizio della 3ª sezione («Economia») del 3° titolo della Costituzione federale e rappresenta la norma fondamentale della costituzione economica svizzera. La disposizione ha una doppia natura: è sia norma costituzionale oggettiva sia fondamento del diritto fondamentale della libertà economica sancito nell'art. 27 Cost.
 
 **N. 4** Le connessioni sistematiche sono molteplici: → l'art. 27 Cost. concretizza la dimensione di diritto individuale, → gli artt. 95–107 Cost. contengono disposizioni economiche settoriali, → l'art. 36 Cost. disciplina i presupposti per le restrizioni dei diritti fondamentali, ↔ l'art. 5 Cost. (principio dello Stato di diritto) e l'art. 3 Cost. (federalismo) formano il quadro costituzionale.
 
 ### 3. Elementi di fattispecie / Contenuto normativo
 
-**N. 5** **Principio della libertà economica (cpv. 1)**: La norma postula un ordinamento economico fondamentalmente libero dall'intervento statale. Il Tribunale federale sottolinea tuttavia che l'attività economica statale è ammissibile in base alla prassi costituzionale vissuta e non costituisce una restrizione dei diritti fondamentali, finché l'offerta privata non viene addirittura soppiantata (Uhlmann, BSK BV, art. 94 n. 11–12; **DTF 138 I 378 consid. 5.3**).
+**N. 5** **Principio della libertà economica (cpv. 1)**: La norma postula un ordinamento economico fondamentalmente libero dall'intervento statale. Il Tribunale federale sottolinea tuttavia che l'attività economica statale è ammissibile in base alla prassi costituzionale vissuta e non costituisce una restrizione dei diritti fondamentali, finché l'offerta privata non viene addirittura soppiantata (**DTF 138 I 378 consid. 5.3**).
 
-**N. 6** **Concorrenza**: Il principio comprende in particolare il principio della concorrenza (Uhlmann, BSK BV, art. 94 n. 5–9). Le misure statali devono essere configurate in modo neutrale dal profilo della concorrenza. Ciò significa in particolare il divieto di sovvenzioni incrociate sistematiche tra settori monopolistici e concorrenziali (**DTF 143 II 425**).
+**N. 6** **Concorrenza**: Il principio comprende in particolare il principio della concorrenza. Le misure statali devono essere configurate in modo neutrale dal profilo della concorrenza. Ciò significa in particolare il divieto di sovvenzioni incrociate sistematiche tra settori monopolistici e concorrenziali (**DTF 143 II 425**).
 
-**N. 7** **Mercato interno**: L'art. 94 Cost. garantisce il mercato interno svizzero (Uhlmann, BSK BV, art. 94 n. 10). Le barriere cantonali all'accesso al mercato sono ammissibili soltanto alle condizioni dell'art. 95 cpv. 2 Cost.
+**N. 7** **Mercato interno**: L'art. 94 Cost. garantisce il mercato interno svizzero. Le barriere cantonali all'accesso al mercato sono ammissibili soltanto alle condizioni dell'art. 95 cpv. 2 Cost.
 
-**N. 8** **Benessere e sicurezza economica (cpv. 2)**: Questa disposizione obbliga Confederazione e Cantoni alla collaborazione con l'economia privata. Fonda una disposizione di obiettivo statale senza immediata giustiziabilità (Uhlmann, BSK BV, art. 94 n. 14–17; Vallender, SG Komm. BV, art. 94 n. 8).
+**N. 8** **Benessere e sicurezza economica (cpv. 2)**: Questa disposizione obbliga Confederazione e Cantoni alla collaborazione con l'economia privata. Fonda una disposizione di obiettivo statale senza immediata giustiziabilità (Vallender, SG Komm. BV, art. 94 n. 8).
 
-**N. 9** **Condizioni quadro favorevoli (cpv. 3)**: Lo Stato deve creare condizioni ottimali per l'attività economica privata. Ciò comprende la certezza del diritto, infrastrutture funzionanti e stabilità macroeconomica (Uhlmann, BSK BV, art. 94 n. 18–20; Rhinow/Schefer/Uebersax, Verfassungsrecht, § 11 n. 34).
+**N. 9** **Condizioni quadro favorevoli (cpv. 3)**: Lo Stato deve creare condizioni ottimali per l'attività economica privata. Ciò comprende la certezza del diritto, infrastrutture funzionanti e stabilità macroeconomica (Rhinow/Schefer/Uebersax, Verfassungsrecht, § 11 n. 34).
 
-**N. 10** **Riserva costituzionale (cpv. 4)**: Deroghe al principio della libertà economica sono ammissibili soltanto se previste nella Costituzione federale (p.es. art. 98 Cost. per la Banca nazionale, art. 103 Cost. per la politica strutturale) o giustificate da diritti di regalia cantonali (Uhlmann, BSK BV, art. 94 n. 21–26).
+**N. 10** **Riserva costituzionale (cpv. 4)**: Deroghe al principio della libertà economica sono ammissibili soltanto se previste nella Costituzione federale (p.es. art. 98 Cost. per la Banca nazionale, art. 103 Cost. per la politica strutturale) o giustificate da diritti di regalia cantonali.
 
 ### 4. Conseguenze giuridiche
 
@@ -38,7 +38,7 @@
 
 **N. 14** **Attività economica statale**: L'ammissibilità dell'attività economica statale è controversa. Il Tribunale federale si basa sulla «prassi costituzionale vissuta» (**DTF 138 I 378**). Parti della dottrina criticano questo approccio come metodicamente problematico, poiché l'interpretazione costituzionale non dovrebbe essere determinata dalla prassi fattuale (critico: J. Reich, Grundsatz der Wirtschaftsfreiheit, p. 234; favorevole: Richli, Wirtschaftsverfassungsrecht, § 4 n. 89).
 
-**N. 15** **Principio di sussidiarietà**: È controverso se dall'art. 94 Cost. derivi un principio di sussidiarietà giustiziabile. Il Tribunale federale lo considera un'immagine direttrice di politica economica senza vincolatività giuridica (Uhlmann, BSK BV, art. 94 n. 11). La dottrina è divisa: Biaggini (Komm. BV, art. 94 n. 5) afferma una certa forza normativa, mentre Rhinow (Wirtschafts- und Eigentumsverfassung, p. 156) la rifiuta.
+**N. 15** **Principio di sussidiarietà**: È controverso se dall'art. 94 Cost. derivi un principio di sussidiarietà giustiziabile. Il Tribunale federale lo considera un'immagine direttrice di politica economica senza vincolatività giuridica. La dottrina è divisa: Biaggini (Komm. BV, art. 94 n. 5) afferma una certa forza normativa, mentre Rhinow (Wirtschafts- und Eigentumsverfassung, p. 156) la rifiuta.
 
 **N. 16** **Rapporto con l'art. 27 Cost.**: È controverso il rapporto tra la norma oggettiva (art. 94 Cost.) e il diritto fondamentale (art. 27 Cost.). La dottrina dominante considera l'art. 94 Cost. come norma di principio oggettiva con ambito di protezione più esteso (Vallender/Hettich/Lehne, Wirtschaftsfreiheit, p. 89), mentre altri assumono una sostanziale coincidenza (Müller/Schefer, Grundrechte, p. 1023).
 

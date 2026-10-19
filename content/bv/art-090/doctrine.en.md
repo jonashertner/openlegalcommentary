@@ -14,15 +14,15 @@
 
 ## 3. Elements of the Offence / Normative Content
 
-**N. 5** The term "nuclear energy" encompasses, according to prevailing doctrine, all aspects of the peaceful use of nuclear fission and nuclear fusion for energy generation (Kern, BSK BV, Art. 90 N. 4; Jagmetti, Energierecht, 2005, p. 467; Hänni/Stöckli, Wirtschaftsverwaltungsrecht, 2013, § 15 N. 32). Included are: research, construction, operation and decommissioning of nuclear installations, handling of nuclear fuels, disposal of radioactive waste, transport of nuclear material, liability and insurance.
+**N. 5** The term "nuclear energy" encompasses, according to prevailing doctrine, all aspects of the peaceful use of nuclear fission and nuclear fusion for energy generation (Jagmetti, Energierecht, 2005, p. 467; Hänni/Stöckli, Wirtschaftsverwaltungsrecht, 2013, § 15 N. 32). Included are: research, construction, operation and decommissioning of nuclear installations, handling of nuclear fuels, disposal of radioactive waste, transport of nuclear material, liability and insurance.
 
-**N. 6** "Legislation" means comprehensive law-making competence at all normative levels: constitution, law, ordinance. The Confederation may regulate the area conclusively or leave partial areas to the cantons (Kern, BSK BV, Art. 90 N. 4). The competence encompasses both the promotion as well as the restriction or prohibition of nuclear energy use.
+**N. 6** "Legislation" means comprehensive law-making competence at all normative levels: constitution, law, ordinance. The Confederation may regulate the area conclusively or leave partial areas to the cantons. The competence encompasses both the promotion as well as the restriction or prohibition of nuclear energy use.
 
 **N. 7** "Matter of the Confederation" constitutes an exclusive federal competence. The cantons have no original competences in the nuclear energy area, but may perform tasks delegated by the Confederation or act within the framework of their general police competence (→ Art. 3 FC).
 
 ## 4. Legal Consequences
 
-**N. 8** The exclusive federal competence leads to the displacement of any cantonal law in the nuclear energy area. The Federal Supreme Court held that the competence order should "prevent the use of nuclear energy, which lies in the national interest, from being hampered by inappropriate conditions and requirements" (BGE 108 Ib 485 E. 3a; cited in Kern, BSK BV, Art. 90 N. 8).
+**N. 8** The exclusive federal competence leads to the displacement of any cantonal law in the nuclear energy area. The Federal Supreme Court held that the competence order should "prevent the use of nuclear energy, which lies in the national interest, from being hampered by inappropriate conditions and requirements" (BGE 108 Ib 485 E. 3a).
 
 **N. 9** The Confederation has exercised its competence through the Nuclear Energy Act (NEA) and the Nuclear Liability Act (NLA) as well as numerous ordinances. The licensing procedures are conclusively regulated by federal law, cantonal licences are excluded (Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, p. 234).
 
@@ -30,7 +30,7 @@
 
 ## 5. Disputes
 
-**N. 11** **Constitutionality of a nuclear phase-out**: The Federal Office of Justice takes the position in its opinion "Constitutional Questions Nuclear Energy Phase-out" that a legally ordered, safety police motivated phase-out from nuclear energy is "at least not excluded" (cited in Kern, BSK BV, Art. 90 N. 8). R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) takes a different view and considers a complete phase-out to be unconstitutional, as Art. 90 FC contains no prohibition competence.
+**N. 11** **Constitutionality of a nuclear phase-out**: The Federal Office of Justice takes the position in its opinion "Constitutional Questions Nuclear Energy Phase-out" that a legally ordered, safety police motivated phase-out from nuclear energy is "at least not excluded". R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) takes a different view and considers a complete phase-out to be unconstitutional, as Art. 90 FC contains no prohibition competence.
 
 **N. 12** **Scope of cantonal competences**: While prevailing doctrine denies the cantons any independent regulatory competence (Jagmetti, Energierecht, 2005, p. 472; Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, p. 235), a minority recognises limited cantonal scope for action in purely local aspects without safety-technical reference (Buser, AJP 2006, 387–395, 392).
 

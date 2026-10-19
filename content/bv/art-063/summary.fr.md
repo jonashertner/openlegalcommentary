@@ -2,11 +2,11 @@
 
 ## Aperçu
 
-L'art. 63 Cst. confère à la Confédération la compétence exclusive en matière de formation professionnelle. La Confédération peut régler tous les aspects de la formation professionnelle (Hänni, BSK BV, Art. 63 N. 2-15). Cette compétence fédérale est globale et s'applique à toutes les branches professionnelles, et non plus seulement à certains secteurs économiques comme autrefois (FF 2000 5215, 5219 s.).
+L'art. 63 Cst. confère à la Confédération la compétence exclusive en matière de formation professionnelle. La Confédération peut régler tous les aspects de la formation professionnelle. Cette compétence fédérale est globale et s'applique à toutes les branches professionnelles, et non plus seulement à certains secteurs économiques comme autrefois (FF 2000 5215, 5219 s.).
 
 La formation professionnelle comprend trois domaines : la formation professionnelle initiale (apprentissage), la formation professionnelle supérieure (brevets fédéraux et diplômes) et la formation continue à orientation professionnelle (**ATF 130 III 182**). Contrairement aux écoles, où les cantons sont compétents, la Confédération règle la formation professionnelle de manière centralisée. Cela garantit des standards uniformes dans toute la Suisse.
 
-La Confédération doit encourager une offre diversifiée et perméable (art. 63 al. 2 Cst.). Perméable signifie : qui fait un apprentissage peut étudier par la suite. Qui a étudié peut rattraper un apprentissage. Il doit aussi être possible de passer d'une profession à une autre (Hänni, BSK BV, Art. 63 N. 16).
+La Confédération doit encourager une offre diversifiée et perméable (art. 63 al. 2 Cst.). Perméable signifie: qui fait un apprentissage peut étudier par la suite. Qui a étudié peut rattraper un apprentissage. Il doit aussi être possible de passer d'une profession à une autre.
 
 **Exemples concrets** : La Confédération édicte la loi sur la formation professionnelle (LFPr). Celle-ci règle comment doit se dérouler un apprentissage de cuisinier ou une formation commerciale de base. Des organisations privées comme les associations de branche peuvent organiser des examens. Le Tribunal administratif fédéral a confirmé que cela est autorisé (**arrêt B-4164/2021**).
 

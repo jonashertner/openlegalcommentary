@@ -2,7 +2,7 @@
 
 ## Panoramica
 
-L'art. 79 BV conferisce alla Confederazione la competenza di stabilire i principi per la caccia e la pesca. Lo scopo principale è la protezione della diversità delle specie di pesci, mammiferi selvatici e uccelli (Schärmeli/Griffel, BSK BV, Art. 79 N. 3). La Confederazione emana le regole principali, i Cantoni provvedono alla loro attuazione nel dettaglio.
+L'art. 79 BV conferisce alla Confederazione la competenza di stabilire i principi per la caccia e la pesca. Lo scopo principale è la protezione della diversità delle specie di pesci, mammiferi selvatici e uccelli. La Confederazione emana le regole principali, i Cantoni provvedono alla loro attuazione nel dettaglio.
 
 La parola «principi» significa: la Confederazione stabilisce standard minimi, ma non regola tutto in modo esaustivo (Marti, SG Komm. BV, Art. 79 N. 9). I Cantoni rimangono competenti per molti settori, ad esempio per l'organizzazione delle licenze di caccia o la determinazione dei tempi di caccia nell'ambito delle direttive federali. La Confederazione ha attuato la sua competenza attraverso la legge federale sulla caccia (LCP) e la legge federale sulla pesca (LFSP).
 

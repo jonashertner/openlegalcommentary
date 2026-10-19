@@ -26,7 +26,7 @@
 
 #### 3.1 Ambito di applicazione ratione personae
 
-**N. 7** «Ogni persona» ai sensi dell'art. 33 cpv. 1 Cost. comprende tutte le persone fisiche senza distinzione di nazionalità, età, capacità d'agire o domicilio; dalla norma non si può desumere alcuna esclusione, ad esempio di stranieri o di persone incapaci di discernimento. Anche le persone giuridiche e gli enti pubblici possono essere firmatari, nella misura in cui si tratti di un affare proprio; questa questione fu lasciata aperta dal Tribunale federale in **DTF 98 Ia 484 consid. 5a**. Tschannen constata che il diritto di petizione può essere esercitato «quasi senza formalità e senza rischio di pregiudizi» (Tschannen, BSK BV, Art. 33 N. 3).
+**N. 7** «Ogni persona» ai sensi dell'art. 33 cpv. 1 Cost. comprende tutte le persone fisiche senza distinzione di nazionalità, età, capacità d'agire o domicilio; dalla norma non si può desumere alcuna esclusione, ad esempio di stranieri o di persone incapaci di discernimento. Anche le persone giuridiche e gli enti pubblici possono essere firmatari, nella misura in cui si tratti di un affare proprio; questa questione fu lasciata aperta dal Tribunale federale in **DTF 98 Ia 484 consid. 5a**. Tschannen constata che il diritto di petizione può essere esercitato «quasi senza formalità e senza rischio di pregiudizi».
 
 #### 3.2 Ambito di applicazione ratione materiae
 
@@ -54,7 +54,7 @@
 
 **N. 14** Il firmatario non acquista, tramite l'art. 33 Cost., la qualità di parte in un procedimento amministrativo né un diritto all'emanazione di una decisione. Di conseguenza, il rifiuto o la messa agli atti di una petizione non può essere esaminato giudizialmente nella sua correttezza materiale (**sentenza 1C_473/2010 consid. 2.1**; **sentenza 1C_155/2020 consid. 2.2**). Il firmatario si differenzia in tal senso dal ricorrente, al quale il diritto di ricorso garantisce un diritto azionabile a una decisione (**DTF 98 Ia 484 consid. 5b** con rinvio a DTF 90 I 230).
 
-**N. 15** Il diritto di petizione non è idoneo a sostituire o a integrare rimedi processuali, qualora questi siano disponibili. Così, il Tribunale federale ha rilevato in **sentenza 1C_37/2019 consid. 4.3** che il diritto di petizione ai sensi dell'art. 33 Cost. offre la possibilità di «rivolgersi alle autorità quasi senza formalità e senza rischio di pregiudizi» (con rinvio a Tschannen, BSK BV, Art. 33 N. 3), ma non è uno strumento di tutela individuale nei confronti di omissioni statali quando non siano in gioco diritti soggettivi.
+**N. 15** Il diritto di petizione non è idoneo a sostituire o a integrare rimedi processuali, qualora questi siano disponibili. Così, il Tribunale federale ha rilevato in **sentenza 1C_37/2019 consid. 4.3** che il diritto di petizione ai sensi dell'art. 33 Cost. offre la possibilità di «rivolgersi alle autorità quasi senza formalità e senza rischio di pregiudizi», ma non è uno strumento di tutela individuale nei confronti di omissioni statali quando non siano in gioco diritti soggettivi.
 
 ---
 

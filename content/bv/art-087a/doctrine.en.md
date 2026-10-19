@@ -20,7 +20,7 @@
 
 **N. 5** Paragraph 1 establishes as a principle that the Confederation and cantons shall ensure adequate financing of railway infrastructure. According to the Federal Council Message, the term «railway infrastructure» encompasses all facilities necessary for railway traffic: tracks, stations, safety systems, power supply and telematics (BBl 2012 1577, 1642).
 
-**N. 6** «Adequate financing» is an indeterminate legal concept that must be concretised by the legislature. Kern emphasises that this means both preservation of substance and needs-based expansion (Kern, BSK BV, Art. 87a N. 3). The joint responsibility of Confederation and cantons reflects the federalist structure of the Swiss railway system.
+**N. 6** «Adequate financing» is an indeterminate legal concept that must be concretised by the legislature. Kern emphasises that this means both preservation of substance and needs-based expansion. The joint responsibility of Confederation and cantons reflects the federalist structure of the Swiss railway system.
 
 #### b) Railway Infrastructure Fund (para. 2)
 
@@ -36,7 +36,7 @@
 
 **N. 9** The formulation «at most two-thirds» for the HVC (let. a) gives the legislature leeway. At least one-third of HVC revenues must be used for other purposes, notably for uncovered costs of road transport in the cantons (Art. 85 para. 2 BV).
 
-**N. 10** The value added tax share of 2.0 per mille established in let. c is to be understood as an absolute amount. In case of a change to the value added tax rate, the absolute amount remains the same (Kern, BSK BV, Art. 87a N. 10).
+**N. 10** The value added tax share of 2.0 per mille established in let. c is to be understood as an absolute amount. In case of a change to the value added tax rate, the absolute amount remains the same.
 
 #### c) Cantonal Participation (para. 3)
 
@@ -46,7 +46,7 @@
 
 #### d) Third-Party Financing (para. 4)
 
-**N. 13** Paragraph 4 enables subsidiary financing by third parties for projects that the RIF does not or only partially finance. «Third parties» may include private entities, communes, but also cantons insofar as they go beyond their mandatory contributions (Kern, BSK BV, Art. 87a N. 23).
+**N. 13** Paragraph 4 enables subsidiary financing by third parties for projects that the RIF does not or only partially finance. «Third parties» may include private entities, communes, but also cantons insofar as they go beyond their mandatory contributions.
 
 **N. 14** The provision is conceived as an opening clause that enables flexible financing solutions. Typical applications include connecting tracks for industrial companies or local expansion projects with primarily regional benefits.
 
@@ -60,11 +60,11 @@
 
 ### 5. Points of Dispute
 
-**N. 18** **Exclusivity of the RIF**: It is disputed whether the RIF represents the exclusive financing instrument for railway infrastructure. Kern takes the position that comprehensive and exclusive financing through the RIF should generally be assumed (Kern, BSK BV, Art. 87a N. 20). In contrast, Waldmeier advocates for a narrower interpretation that permits additional financing outside the RIF (SG Komm. BV-Waldmeier, Art. 87a N. 24).
+**N. 18** **Exclusivity of the RIF**: It is disputed whether the RIF represents the exclusive financing instrument for railway infrastructure. Kern takes the position that comprehensive and exclusive financing through the RIF should generally be assumed. In contrast, Waldmeier advocates for a narrower interpretation that permits additional financing outside the RIF (SG Komm. BV-Waldmeier, Art. 87a N. 24).
 
-**N. 19** **Waiver of Interest**: The legally provided waiver of interest on RIF funds is considered constitutionally problematic by Kern, as it contradicts the principle of economic use of resources (Kern, BSK BV, Art. 87a N. 12). However, this position is disputed, especially since the Constitution itself provides no obligation to pay interest.
+**N. 19** **Waiver of Interest**: The legally provided waiver of interest on RIF funds is considered constitutionally problematic by Kern, as it contradicts the principle of economic use of resources. However, this position is disputed, especially since the Constitution itself provides no obligation to pay interest.
 
-**N. 20** **Competitive Neutrality**: It is discussed whether the massive subsidisation of railway infrastructure distorts competition between modes of transport. Kern sees no violation of economic freedom in this, but rather expression of a shaping transport policy (Kern, BSK BV, Art. 87a N. 19). This view corresponds to prevailing doctrine, which considers transport policy steering measures permissible.
+**N. 20** **Competitive Neutrality**: It is discussed whether the massive subsidisation of railway infrastructure distorts competition between modes of transport. Kern sees no violation of economic freedom in this, but rather expression of a shaping transport policy. This view corresponds to prevailing doctrine, which considers transport policy steering measures permissible.
 
 ### 6. Practice Notes
 
@@ -74,4 +74,4 @@
 
 **N. 23** The strict earmarking of RIF funds means that even in case of project changes or delays, no reallocation of funds to other areas is possible. This increases pressure for careful project planning and implementation.
 
-**N. 24** According to Kern, the Railway Infrastructure Fund has proven itself as an innovative financing instrument appropriate to the long planning cycles of railway infrastructure (Kern, BSK BV, Art. 87a N. 24). The constitutional anchoring ensures the necessary planning security for major projects.
+**N. 24** According to Kern, the Railway Infrastructure Fund has proven itself as an innovative financing instrument appropriate to the long planning cycles of railway infrastructure. The constitutional anchoring ensures the necessary planning security for major projects.

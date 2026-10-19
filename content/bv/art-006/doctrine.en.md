@@ -12,7 +12,7 @@
 
 **N. 4** Art. 6 Cst. stands at the end of the first title on general provisions, immediately before the second title on fundamental rights, civil rights and social objectives. This placement underlines the programmatic character of the norm as a general constitutional provision with radiating effect on the entire constitutional text (Biaggini, Cst.-Commentary, Art. 6 N 1).
 
-**N. 5** The systematic position before the fundamental rights is deliberately chosen: Art. 6 Cst. functions as a counterweight to the positive obligations of the state and symbolically emphasizes the subsidiarity principle (→ Art. 5a Cst.). This is particularly evident in Art. 41 para. 1 Cst., where the Confederation and cantons commit themselves to the social objectives "in addition to personal responsibility and private initiative" (Gächter/Renold-Burch, BSK Cst., Art. 6 N 3).
+**N. 5** The systematic position before the fundamental rights is deliberately chosen: Art. 6 Cst. functions as a counterweight to the positive obligations of the state and symbolically emphasizes the subsidiarity principle (→ Art. 5a Cst.). This is particularly evident in Art. 41 para. 1 Cst., where the Confederation and cantons commit themselves to the social objectives "in addition to personal responsibility and private initiative".
 
 **N. 6** The norm is closely connected with other constitutional provisions: ↔ Art. 2 para. 3 Cst. (equal opportunities), ↔ Art. 5a Cst. (subsidiarity), → Art. 8 Cst. (equality before the law and prohibition of discrimination), → Art. 12 Cst. (right to assistance in emergency situations), → Art. 41 Cst. (social objectives), → Art. 59 Cst. (military service), → Art. 62 Cst. (compulsory education).
 

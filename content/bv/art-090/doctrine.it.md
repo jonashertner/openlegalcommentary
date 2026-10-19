@@ -14,15 +14,15 @@
 
 ## 3. Elementi della fattispecie / Contenuto normativo
 
-**N. 5** Il concetto di «energia nucleare» comprende secondo la dottrina dominante tutti gli aspetti dell'uso pacifico della fissione e fusione nucleare per la produzione di energia (Kern, BSK BV, Art. 90 N. 4; Jagmetti, Energierecht, 2005, pag. 467; Hänni/Stöckli, Wirtschaftsverwaltungsrecht, 2013, § 15 N. 32). Sono inclusi: ricerca, costruzione, esercizio e disattivazione di impianti nucleari, gestione di combustibili nucleari, smaltimento di scorie radioattive, trasporti di materiale nucleare, responsabilità civile e assicurazione.
+**N. 5** Il concetto di «energia nucleare» comprende secondo la dottrina dominante tutti gli aspetti dell'uso pacifico della fissione e fusione nucleare per la produzione di energia (Jagmetti, Energierecht, 2005, pag. 467; Hänni/Stöckli, Wirtschaftsverwaltungsrecht, 2013, § 15 N. 32). Sono inclusi: ricerca, costruzione, esercizio e disattivazione di impianti nucleari, gestione di combustibili nucleari, smaltimento di scorie radioattive, trasporti di materiale nucleare, responsabilità civile e assicurazione.
 
-**N. 6** «Legislazione» significa competenza normativa globale a tutti i livelli normativi: Costituzione, legge, ordinanza. La Confederazione può disciplinare il settore in modo definitivo o lasciare settori parziali ai Cantoni (Kern, BSK BV, Art. 90 N. 4). La competenza comprende sia la promozione sia la limitazione o il divieto dell'uso dell'energia nucleare.
+**N. 6** «Legislazione» significa competenza normativa globale a tutti i livelli normativi: Costituzione, legge, ordinanza. La Confederazione può disciplinare il settore in modo definitivo o lasciare settori parziali ai Cantoni. La competenza comprende sia la promozione sia la limitazione o il divieto dell'uso dell'energia nucleare.
 
 **N. 7** «Compete alla Confederazione» costituisce una competenza federale esclusiva. I Cantoni non hanno competenze originarie nel settore dell'energia nucleare, ma possono assumere compiti delegati dalla Confederazione o agire nell'ambito della loro competenza generale di polizia (→ art. 3 Cost.).
 
 ## 4. Conseguenze giuridiche
 
-**N. 8** La competenza federale esclusiva comporta l'esclusione di qualsiasi diritto cantonale nel settore dell'energia nucleare. Il Tribunale federale ha stabilito che l'ordinamento delle competenze dovrebbe «impedire che l'uso dell'energia nucleare, che è nell'interesse dell'intero Paese, sia ostacolato da condizioni e oneri inadeguati» (DTF 108 Ib 485 consid. 3a; citato in Kern, BSK BV, Art. 90 N. 8).
+**N. 8** La competenza federale esclusiva comporta l'esclusione di qualsiasi diritto cantonale nel settore dell'energia nucleare. Il Tribunale federale ha stabilito che l'ordinamento delle competenze dovrebbe «impedire che l'uso dell'energia nucleare, che è nell'interesse dell'intero Paese, sia ostacolato da condizioni e oneri inadeguati» (DTF 108 Ib 485 consid. 3a).
 
 **N. 9** La Confederazione ha esercitato la sua competenza attraverso la legge sull'energia nucleare (LENu) e la legge sulla responsabilità civile in materia nucleare (LRCN) nonché numerose ordinanze. Le procedure di autorizzazione sono disciplinate in modo definitivo dal diritto federale, le autorizzazioni cantonali sono escluse (Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, pag. 234).
 
@@ -30,7 +30,7 @@
 
 ## 5. Questioni controverse
 
-**N. 11** **Costituzionalità di un abbandono del nucleare**: L'Ufficio federale di giustizia sostiene nel suo parere «Verfassungsfragen Ausstieg Kernenergie» che un abbandono dell'energia nucleare ordinato per legge e motivato da ragioni di polizia della sicurezza sia «almeno non escluso» (citato in Kern, BSK BV, Art. 90 N. 8). R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) è di diverso avviso e considera un abbandono completo anticostituzionale, poiché l'art. 90 Cost. non conterrebbe una competenza di divieto.
+**N. 11** **Costituzionalità di un abbandono del nucleare**: L'Ufficio federale di giustizia sostiene nel suo parere «Verfassungsfragen Ausstieg Kernenergie» che un abbandono dell'energia nucleare ordinato per legge e motivato da ragioni di polizia della sicurezza sia «almeno non escluso». R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) è di diverso avviso e considera un abbandono completo anticostituzionale, poiché l'art. 90 Cost. non conterrebbe una competenza di divieto.
 
 **N. 12** **Portata delle competenze cantonali**: Mentre la dottrina dominante nega ai Cantoni qualsiasi competenza normativa autonoma (Jagmetti, Energierecht, 2005, pag. 472; Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, pag. 235), una minoranza riconosce limitati margini di manovra cantonali per aspetti puramente locali senza riferimento alla sicurezza tecnica (Buser, AJP 2006, 387–395, 392).
 

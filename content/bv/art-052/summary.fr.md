@@ -4,7 +4,7 @@
 
 L'article 52 de la Constitution fédérale règle la garantie fédérale de l'ordre cantonal. Cette disposition oblige la Confédération à protéger l'« ordre constitutionnel » des cantons et l'autorise à intervenir lorsqu'un canton ne peut plus maintenir son ordre par ses propres moyens.
 
-**Qu'est-ce que l'ordre constitutionnel ?** Selon la doctrine dominante (Belser/Massüger, BSK BV, Art. 52 N. 7), il englobe l'ensemble du droit constitutionnel cantonal qui a été garanti par l'Assemblée fédérale. Cela va bien au-delà du simple ordre public. Une opinion minoritaire (Schweizer/Müller) met l'accent en revanche principalement sur l'autonomie constitutionnelle cantonale.
+**Qu'est-ce que l'ordre constitutionnel ?** Selon la doctrine dominante, il englobe l'ensemble du droit constitutionnel cantonal qui a été garanti par l'Assemblée fédérale. Cela va bien au-delà du simple ordre public. Une opinion minoritaire (Schweizer/Müller) met l'accent en revanche principalement sur l'autonomie constitutionnelle cantonale.
 
 **Qui est concerné ?** Tous les 26 cantons sont soumis à cette garantie fédérale. Ils peuvent s'adresser à la Confédération en cas de troubles graves de l'ordre ou doivent tolérer son intervention.
 

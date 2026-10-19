@@ -11,7 +11,7 @@ Art. 158 BV steht im 5. Kapitel der Bundesverfassung über die Bundesbehörden, 
 ↔ Art. 47 ParlG, der die Vertraulichkeit der Kommissionsberatungen regelt
 
 **N. 3** **Tatbestandsmerkmale / Norminhalt**
-Der Begriff «Sitzungen» umfasst nach herrschender Lehre (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4. Aufl. 2023, Art. 158 N. 3) ausschliesslich die Plenarsitzungen von National- und Ständerat. Die «Öffentlichkeit» bedeutet den freien Zugang für Publikum und Medien zu den Ratssälen während der Beratungen. Der Begriff «Räte» bezieht sich auf beide Kammern der Bundesversammlung, nicht jedoch auf deren Kommissionen oder andere Gremien (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 158 N. 5).
+Der Begriff «Sitzungen» umfasst nach herrschender Lehre (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4. Aufl. 2023, Art. 158 N. 3) ausschliesslich die Plenarsitzungen von National- und Ständerat. Die «Öffentlichkeit» bedeutet den freien Zugang für Publikum und Medien zu den Ratssälen während der Beratungen. Der Begriff «Räte» bezieht sich auf beide Kammern der Bundesversammlung, nicht jedoch auf deren Kommissionen oder andere Gremien.
 
 **N. 4** **Rechtsfolgen**
 Das Öffentlichkeitsprinzip begründet ein verfassungsunmittelbares Recht auf Zugang zu den Ratssitzungen. Die praktische Ausgestaltung erfolgt durch die Geschäftsreglemente der Räte (Art. 15 GRS, Art. 20 GRN). Verstösse gegen die Öffentlichkeit können zur Ungültigkeit von Beschlüssen führen, sofern die Öffentlichkeit nicht gesetzeskonform ausgeschlossen wurde (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 1789).

@@ -1,6 +1,6 @@
 # Art. 123a Cst. — Overview
 
-Art. 123a Cst. provides for lifelong preventive detention for extremely dangerous sexual and violent offenders. The provision arose from the popular initiative «Lifelong preventive detention for non-treatable, extremely dangerous sexual and violent offenders», which was adopted in 2004 (Göksu, BSK BV, Art. 123a N. 1).
+Art. 123a Cst. provides for lifelong preventive detention for extremely dangerous sexual and violent offenders. The provision arose from the popular initiative «Lifelong preventive detention for non-treatable, extremely dangerous sexual and violent offenders», which was adopted in 2004.
 
 **What does the norm regulate?** The Constitution prescribes that certain offenders must be detained until the end of their lives. This applies to persons who have committed a violent or sexual offence and are classified as «permanently non-treatable». The Federal Supreme Court understands this to mean lifelong non-treatability (**BGE 140 IV 1 E. 3**).
 

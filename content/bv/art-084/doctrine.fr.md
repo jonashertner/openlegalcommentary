@@ -10,21 +10,21 @@
 
 **N. 3** L'art. 84 Cst. s'inscrit systématiquement dans la 3e section du titre 3 de la Constitution fédérale, qui règle les travaux publics et les transports. La norme est étroitement liée à l'→ art. 85 Cst. (redevance sur le trafic des poids lourds), qui forme l'instrument central de politique financière pour la mise en œuvre du transfert du trafic. D'autres liens systématiques existent avec les → art. 73 ss Cst. (durabilité et protection de l'environnement), l'→ art. 74 Cst. (protection de l'environnement) et l'→ art. 83 Cst. (routes nationales).
 
-**N. 4** Dans le contexte international, l'art. 84 Cst. se trouve dans une relation de tension avec l'accord sur les transports terrestres Suisse–UE (RS 0.740.72), qui garantit la libre circulation des marchandises. Cette tension a été atténuée par l'art. 1 al. 3 de l'accord sur les transports terrestres, qui reconnaît les objectifs de la politique suisse de transfert du trafic (Epiney, BSK BV, Art. 84 N. 2).
+**N. 4** Dans le contexte international, l'art. 84 Cst. se trouve dans une relation de tension avec l'accord sur les transports terrestres Suisse–UE (RS 0.740.72), qui garantit la libre circulation des marchandises. Cette tension a été atténuée par l'art. 1 al. 3 de l'accord sur les transports terrestres, qui reconnaît les objectifs de la politique suisse de transfert du trafic.
 
 ## 3. Éléments constitutifs / Contenu de la norme
 
 ### 3.1 Mandat de protection (al. 1)
 
-**N. 5** La notion de « région alpine » comprend, selon la définition légale de l'art. 2 LOTT, les cantons d'Uri, Schwyz, Obwald, Nidwald, Glaris, Tessin, Grisons et Valais. Les « effets négatifs du trafic de transit » incluent les émissions de bruit, de polluants atmosphériques et de CO2, les vibrations, le morcellement du paysage et les risques d'accidents (Epiney, BSK BV, Art. 84 N. 5).
+**N. 5** La notion de « région alpine » comprend, selon la définition légale de l'art. 2 LOTT, les cantons d'Uri, Schwyz, Obwald, Nidwald, Glaris, Tessin, Grisons et Valais. Les « effets négatifs du trafic de transit » incluent les émissions de bruit, de polluants atmosphériques et de CO2, les vibrations, le morcellement du paysage et les risques d'accidents.
 
-**N. 6** Le mandat de protection oblige la Confédération à agir activement. Il ne s'agit pas seulement d'un mandat constitutionnel programmatoire, mais d'une obligation pour la Confédération de prendre des mesures de protection concrètes (Epiney, BSK BV, Art. 84 N. 7). « La mesure tolérable pour les êtres humains, les animaux et les plantes, ainsi que leurs biocénoses » s'oriente sur les valeurs limites du droit de l'environnement selon la législation sur la protection de l'environnement.
+**N. 6** Le mandat de protection oblige la Confédération à agir activement. Il ne s'agit pas seulement d'un mandat constitutionnel programmatoire, mais d'une obligation pour la Confédération de prendre des mesures de protection concrètes. « La mesure tolérable pour les êtres humains, les animaux et les plantes, ainsi que leurs biocénoses » s'oriente sur les valeurs limites du droit de l'environnement selon la législation sur la protection de l'environnement.
 
 ### 3.2 Impératif de transfert (al. 2)
 
-**N. 7** L'impératif de transfert de l'al. 2 contient un objectif clair : le trafic marchandises de transit transalpin « s'effectue par rail ». Ceci ne doit pas être compris comme une interdiction absolue de circulation pour les camions, mais comme une obligation de résultat avec un horizon temporel contraignant (Epiney, BSK BV, Art. 84 N. 14). La notion de « trafic marchandises de transit » comprend le trafic marchandises commercial qui traverse la région alpine sans chargement ou déchargement.
+**N. 7** L'impératif de transfert de l'al. 2 contient un objectif clair: le trafic marchandises de transit transalpin « s'effectue par rail ». Ceci ne doit pas être compris comme une interdiction absolue de circulation pour les camions, mais comme une obligation de résultat avec un horizon temporel contraignant. La notion de « trafic marchandises de transit » comprend le trafic marchandises commercial qui traverse la région alpine sans chargement ou déchargement.
 
-**N. 8** Les « mesures nécessaires » du Conseil fédéral comprennent un ensemble d'instruments : la redevance sur le trafic des poids lourds liée aux prestations (RPLP) selon l'→ art. 85 Cst., les interdictions de circuler la nuit et le dimanche, l'encouragement du transport combiné et le développement de l'infrastructure ferroviaire (NLFA). Le Conseil fédéral et le Parlement considèrent la RPLP en combinaison avec d'autres mesures comme un instrument approprié pour la mise en œuvre de l'objectif de transfert (Epiney, BSK BV, Art. 84 N. 14).
+**N. 8** Les « mesures nécessaires » du Conseil fédéral comprennent un ensemble d'instruments: la redevance sur le trafic des poids lourds liée aux prestations (RPLP) selon l'→ art. 85 Cst., les interdictions de circuler la nuit et le dimanche, l'encouragement du transport combiné et le développement de l'infrastructure ferroviaire (NLFA). Le Conseil fédéral et le Parlement considèrent la RPLP en combinaison avec d'autres mesures comme un instrument approprié pour la mise en œuvre de l'objectif de transfert.
 
 **N. 9** Les exceptions à l'impératif de transfert ne sont admissibles que si elles sont « incontournables ». Cette notion doit être interprétée de manière restrictive et ne comprend que les transports qui ne peuvent techniquement pas ou pour des raisons de sécurité être effectués par rail. La détermination plus précise par la loi a eu lieu dans la LCTM et la LOTT.
 
@@ -32,7 +32,7 @@
 
 **N. 10** L'interdiction d'augmenter les capacités est formulée de manière absolue et ne tolère que l'exception explicitement mentionnée des routes de contournement. La notion de « capacité des routes de transit » se réfère à la quantité maximale de trafic qu'une infrastructure routière peut maîtriser.
 
-**N. 11** L'interprétation de la notion de capacité est controversée. Kern soutient que la construction d'un deuxième tube routier du Gothard viole déjà l'art. 84 al. 3 Cst., car une augmentation de capacité en tant que telle se présente (Epiney, BSK BV, Art. 84 N. 27-28). En revanche, le Conseil fédéral et le Parlement défendent la position selon laquelle la construction d'un deuxième tube est admissible si elle n'est utilisée qu'à une voie et qu'aucune augmentation effective de capacité n'intervient (Epiney, BSK BV, Art. 84 N. 28).
+**N. 11** L'interprétation de la notion de capacité est controversée. Kern soutient que la construction d'un deuxième tube routier du Gothard viole déjà l'art. 84 al. 3 Cst., car une augmentation de capacité en tant que telle se présente. En revanche, le Conseil fédéral et le Parlement défendent la position selon laquelle la construction d'un deuxième tube est admissible si elle n'est utilisée qu'à une voie et qu'aucune augmentation effective de capacité n'intervient.
 
 ## 4. Effets juridiques
 

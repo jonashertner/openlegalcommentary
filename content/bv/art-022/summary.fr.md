@@ -6,15 +6,15 @@ L'article 22 de la Constitution fédérale garantit la liberté de réunion. Tou
 
 ### Que règle l'art. 22 Cst. ?
 
-La liberté de réunion protège le droit de se rassembler pacifiquement avec autrui. Cela comprend aussi bien de petits groupes que de grandes manifestations. Selon la jurisprudence, deux personnes suffisent déjà pour constituer une réunion (**ATF 129 IV 6** consid. 5.5.1). La protection constitutionnelle ne vise pas principalement le rassemblement physique, mais la formation collective d'opinion (Hertig, BSK BV, art. 22 n. 7).
+La liberté de réunion protège le droit de se rassembler pacifiquement avec autrui. Cela comprend aussi bien de petits groupes que de grandes manifestations. Selon la jurisprudence, deux personnes suffisent déjà pour constituer une réunion (**ATF 129 IV 6** consid. 5.5.1). La protection constitutionnelle ne vise pas principalement le rassemblement physique, mais la formation collective d'opinion.
 
-Il est essentiel que seules les réunions pacifiques soient protégées. Le Tribunal fédéral a souligné à plusieurs reprises que la Constitution ne protège que les réunions pacifiques, malgré une formulation divergente (**ATF 129 IV 6** consid. 2.5 ; Hertig, BSK BV, art. 22 n. 9). En cas d'usage de violence, la protection du droit fondamental disparaît, pour autant que la violence supplante complètement la composante de formation d'opinion.
+Il est essentiel que seules les réunions pacifiques soient protégées. Le Tribunal fédéral a souligné à plusieurs reprises que la Constitution ne protège que les réunions pacifiques, malgré une formulation divergente (**ATF 129 IV 6** consid. 2.5). En cas d'usage de violence, la protection du droit fondamental disparaît, pour autant que la violence supplante complètement la composante de formation d'opinion.
 
 ### Qui est concerné ?
 
-Sont protégées toutes les personnes qui organisent une réunion, y participent ou s'en abstiennent consciemment. Cela comprend les particuliers, les associations et les groupements politiques. La qualité pour agir appartient à tous, indépendamment de la nationalité ou du domicile (Hertig, BSK BV, art. 22 n. 10).
+Sont protégées toutes les personnes qui organisent une réunion, y participent ou s'en abstiennent consciemment. Cela comprend les particuliers, les associations et les groupements politiques. La qualité pour agir appartient à tous, indépendamment de la nationalité ou du domicile.
 
-Des restrictions sont possibles : l'État peut exiger une autorisation pour les manifestations sur le domaine public. La doctrine dominante considère cette obligation d'autorisation comme une atteinte aux droits fondamentaux qui nécessite une base légale (Hertig, BSK BV, art. 22 n. 18).
+Des restrictions sont possibles: l'État peut exiger une autorisation pour les manifestations sur le domaine public. La doctrine dominante considère cette obligation d'autorisation comme une atteinte aux droits fondamentaux qui nécessite une base légale.
 
 ### Quelles sont les conséquences juridiques ?
 

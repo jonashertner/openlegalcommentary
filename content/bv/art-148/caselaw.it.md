@@ -26,7 +26,7 @@ Questa decisione illustra la delimitazione delle competenze tra l'autorità supr
 
 > «Le decisioni del Consiglio federale non possono in linea di principio essere impugnate mediante ricorso di diritto amministrativo presso il Tribunale federale.»
 
-La giurisprudenza evidenzia l'importanza della separazione dei poteri nel contesto dell'art. 148 Cost. Waldmann/Belser/Epiney spiegano che l'art. 148 Cost. costituisce la base istituzionale della separazione dei poteri, stabilendo l'Assemblea federale quale autorità suprema (BSK Cost., 2a ed. 2024, art. 148 n. 15 ss.).
+La giurisprudenza evidenzia l'importanza della separazione dei poteri nel contesto dell'art. 148 Cost. Waldmann/Belser/Epiney spiegano che l'art. 148 Cost. costituisce la base istituzionale della separazione dei poteri, stabilendo l'Assemblea federale quale autorità suprema.
 
 ## Sistema bicamerale e parità delle Camere
 

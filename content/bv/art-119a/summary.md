@@ -8,7 +8,7 @@ Die Bestimmung betrifft alle Personen: Organspender, Empfänger und deren Famili
 
 Organspende erfolgt freiwillig und unentgeltlich. Niemand darf für seine Organe Geld erhalten. Die Verteilung erfolgt nach medizinischen Kriterien wie Dringlichkeit und Erfolgsaussichten. Wartelisten werden von Transplantationszentren geführt.
 
-Ein zentraler Streitpunkt betrifft den Todeszeitpunkt. Befürworter des Hirntodkonzepts sehen den Tod als biologisches Ereignis, wenn alle kritischen Funktionen irreversibel versagen (Belser/Molinari, BSK BV, Art. 119a N. 60). Kritiker wie Becchi wenden ein, das Hirntodkonzept diene einseitig dem Zweck frühzeitiger Organentnahme (Bondolfi/Kostka/Seelmann, Organallokation, 2004). Das autonomiebasierte Todeskonzept fordert explizite Zustimmung zur Organentnahme ab Hirntod.
+Ein zentraler Streitpunkt betrifft den Todeszeitpunkt. Befürworter des Hirntodkonzepts sehen den Tod als biologisches Ereignis, wenn alle kritischen Funktionen irreversibel versagen. Kritiker wie Becchi wenden ein, das Hirntodkonzept diene einseitig dem Zweck frühzeitiger Organentnahme (Bondolfi/Kostka/Seelmann, Organallokation, 2004). Das autonomiebasierte Todeskonzept fordert explizite Zustimmung zur Organentnahme ab Hirntod.
 
 Die gerechte Organverteilung erfordert nach Sitter-Liver Gleichbehandlung aller Patienten, medizinische Kriterien als primäre Entscheidungsgrundlage und Transparenz des Verfahrens (Gerechte Organallokation, 2003). Schott betont die Entwicklung klarer Auswahlkriterien für Patienten (Patientenauswahl und Organallokation, 2001).
 

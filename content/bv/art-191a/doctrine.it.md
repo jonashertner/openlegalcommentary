@@ -48,7 +48,7 @@
 
 ### 5. Questioni controverse
 
-**N. 16** In dottrina è controverso se l'art. 191a cpv. 3 Cost. consenta anche la creazione di tribunali speciali nel diritto civile al di fuori del diritto dei brevetti. **Ehrenzeller/Schweizer** (SGK BV, art. 191a n. 18) rispondono affermativamente con riferimento al tenore letterale aperto. **Kiener** (BSK BV, art. 191a n. 25) sostiene un'interpretazione più restrittiva ed esige una chiara ragione oggettiva per i tribunali speciali.
+**N. 16** In dottrina è controverso se l'art. 191a cpv. 3 Cost. consenta anche la creazione di tribunali speciali nel diritto civile al di fuori del diritto dei brevetti. **Ehrenzeller/Schweizer** (SGK BV, art. 191a n. 18) rispondono affermativamente con riferimento al tenore letterale aperto. **Kiener** sostiene un'interpretazione più restrittiva ed esige una chiara ragione oggettiva per i tribunali speciali.
 
 **N. 17** È oggetto di discussione controversa la questione dei requisiti minimi per l'organizzazione dei tribunali federali. **Griffel** (in: Verfassungsrecht der Schweiz, § 73 n. 45) esige una dimensione minima e un'autonomia organizzativa. **Biaggini** (BV Kommentar, art. 191a n. 8) ritiene al contrario ammissibili anche unità più piccole, finché sia garantita l'indipendenza giudiziaria.
 

@@ -2,7 +2,7 @@
 
 Art. 120 BV schützt vor Missbräuchen der Gentechnologie (Veränderung von Erbgut). Die Bestimmung hat zwei Absätze: Absatz 1 schützt Mensch und Umwelt vor Missbrauch. Absatz 2 gibt dem Bund die Aufgabe, Regeln für den Umgang mit Erbgut von Tieren, Pflanzen und anderen Organismen zu erlassen.
 
-Der Bund muss dabei drei wichtige Grundsätze beachten: die Würde der Kreatur, die Sicherheit von Mensch, Tier und Umwelt sowie den Schutz der genetischen Vielfalt. Unter «Würde der Kreatur» versteht die Rechtswissenschaft den ethischen Eigenwert von Lebewesen. Allerdings ist umstritten, ob dieser Begriff nur Tiere und Pflanzen oder auch Menschen umfasst (Errass contra herrschende Lehre nach Waldmann, BSK BV, Art. 120 N. 14-78).
+Der Bund muss dabei drei wichtige Grundsätze beachten: die Würde der Kreatur, die Sicherheit von Mensch, Tier und Umwelt sowie den Schutz der genetischen Vielfalt. Unter «Würde der Kreatur» versteht die Rechtswissenschaft den ethischen Eigenwert von Lebewesen. Allerdings ist umstritten, ob dieser Begriff nur Tiere und Pflanzen oder auch Menschen umfasst.
 
 Betroffen sind alle, die mit Gentechnik arbeiten: Forscher, Landwirte, Pharmaunternehmen und Behörden. Das Bundesgericht hat entschieden, dass bei Tierversuchen die besondere Nähe von Primaten zum Menschen zu berücksichtigen ist (**BGE 135 II 384**).
 

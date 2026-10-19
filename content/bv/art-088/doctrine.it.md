@@ -4,19 +4,19 @@
 
 ### 1. Storia dell'origine
 
-**N. 1** L'art. 88 Cost. rappresenta la disposizione successiva all'art. 37quater aCost. precedente, che fu inserito nella Costituzione federale nel 1979 (Kern, BSK BV, Art. 88 N. 1). L'articolo costituzionale costituì la base per la legge federale sui sentieri pedonali e i percorsi escursionistici (LSP) del 4 ottobre 1985. La revisione costituzionale del 1999 riprese il contenuto della disposizione precedente sostanzialmente invariato.
+**N. 1** L'art. 88 Cost. rappresenta la disposizione successiva all'art. 37quater aCost. precedente, che fu inserito nella Costituzione federale nel 1979. L'articolo costituzionale costituì la base per la legge federale sui sentieri pedonali e i percorsi escursionistici (LSP) del 4 ottobre 1985. La revisione costituzionale del 1999 riprese il contenuto della disposizione precedente sostanzialmente invariato.
 
 **N. 2** Con l'accettazione del controprogetto diretto all'iniziativa sulla bicicletta del 23 settembre 2018, l'art. 88 Cost. è stato completato con le piste ciclabili (FF 2018 7891). Questa estensione ha portato all'adozione della legge federale sulle piste ciclabili (LPC) del 18 marzo 2022, che realizza il trattamento paritario di sentieri pedonali, percorsi escursionistici e piste ciclabili a livello costituzionale.
 
 ### 2. Collocazione sistematica
 
-**N. 3** L'art. 88 Cost. si trova nella 3ª sezione della Costituzione federale su Confederazione, Cantoni e Comuni sotto il 4° titolo «Ambiente e pianificazione del territorio». La norma è in stretta connessione sistematica con la costituzione dei trasporti (art. 82 segg. Cost.), ma si distingue per il suo focus sulla mobilità lenta (Kern, BSK BV, Art. 88 N. 3).
+**N. 3** L'art. 88 Cost. si trova nella 3ª sezione della Costituzione federale su Confederazione, Cantoni e Comuni sotto il 4° titolo «Ambiente e pianificazione del territorio». La norma è in stretta connessione sistematica con la costituzione dei trasporti (art. 82 segg. Cost.), ma si distingue per il suo focus sulla mobilità lenta.
 
 **N. 4** La disposizione presenta collegamenti trasversali con ulteriori norme costituzionali: → art. 75 Cost. (pianificazione del territorio) richiede l'utilizzazione appropriata e parsimoniosa del suolo, il che comprende anche la messa a disposizione di reti di percorsi per la mobilità lenta. ↔ Art. 78 Cost. (protezione della natura e del paesaggio) è in rapporto di tensione con la realizzazione di nuovi percorsi, il che deve essere considerato nell'interpretazione dell'art. 88 Cost. (Griffel, Verkehrsverfassungsrecht, 2008, p. 45).
 
 ### 3. Elementi della fattispecie / Contenuto della norma
 
-**N. 5** **Sentieri pedonali e percorsi escursionistici**: La LSP definisce i sentieri pedonali come collegamenti che servono prevalentemente al traffico pedonale (art. 2 LSP). I percorsi escursionistici sono invece collegamenti pedonali che servono prevalentemente alla ricreazione (art. 3 LSP). La distinzione è rilevante per i requisiti di costruzione e manutenzione (Kern, BSK BV, Art. 88 N. 7).
+**N. 5** **Sentieri pedonali e percorsi escursionistici**: La LSP definisce i sentieri pedonali come collegamenti che servono prevalentemente al traffico pedonale (art. 2 LSP). I percorsi escursionistici sono invece collegamenti pedonali che servono prevalentemente alla ricreazione (art. 3 LSP). La distinzione è rilevante per i requisiti di costruzione e manutenzione.
 
 **N. 6** **Piste ciclabili**: Con la revisione costituzionale del 2018, le piste ciclabili sono state equiparate ai sentieri pedonali e ai percorsi escursionistici. La LPC le definisce come percorsi di traffico destinati alle biciclette e ad altri veicoli azionati da forza muscolare, che sono possibilmente separati dal traffico motorizzato.
 
@@ -24,9 +24,9 @@
 
 ### 4. Conseguenze giuridiche
 
-**N. 8** **Competenza di principio (cpv. 1)**: La Confederazione ottiene la competenza per la definizione di principi, ma non per una regolamentazione completa. I Cantoni rimangono competenti per la pianificazione concreta, la realizzazione e la manutenzione delle reti di percorsi (Kern, BSK BV, Art. 88 N. 10). Il legislatore federale ha fatto uso di questa competenza attraverso l'emanazione della LSP e della LPC.
+**N. 8** **Competenza di principio (cpv. 1)**: La Confederazione ottiene la competenza per la definizione di principi, ma non per una regolamentazione completa. I Cantoni rimangono competenti per la pianificazione concreta, la realizzazione e la manutenzione delle reti di percorsi. Il legislatore federale ha fatto uso di questa competenza attraverso l'emanazione della LSP e della LPC.
 
-**N. 9** **Compito di sostegno e coordinamento (cpv. 2)**: La Confederazione può agire sussidiariamente sostenendo finanziariamente o coordinando misure cantonali e private. Questa facoltà è facoltativa («può») e rispetta espressamente le competenze cantonali (Kern, BSK BV, Art. 88 N. 12).
+**N. 9** **Compito di sostegno e coordinamento (cpv. 2)**: La Confederazione può agire sussidiariamente sostenendo finanziariamente o coordinando misure cantonali e private. Questa facoltà è facoltativa («può») e rispetta espressamente le competenze cantonali.
 
 **N. 10** **Obbligo di riguardo (cpv. 3)**: La Confederazione è sottoposta a un obbligo qualificato di riguardo nell'adempimento dei suoi compiti. L'obbligo di rimpiazzo in caso di soppressione di percorsi concretizza questo obbligo. Nella **DTF 130 III 182 consid. 5.5.1**, il Tribunale federale ha stabilito che l'obbligo di rimpiazzo sussiste indipendentemente dalla proprietà del fondo del percorso e si orienta secondo il criterio funzionale del mantenimento della rete.
 

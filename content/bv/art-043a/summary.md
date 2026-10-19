@@ -4,7 +4,7 @@ Art. 43a BV legt die Grundsätze fest, nach denen staatliche Aufgaben zwischen B
 
 ## Wer ist betroffen?
 
-Alle staatlichen Ebenen — Bund, Kantone und Gemeinden — müssen sich bei der Aufgabenverteilung und -erfüllung an diese Grundsätze halten. Die Bestimmung hat jedoch nach einhelliger Lehre keine direkte Justiziabilität (fehlende Durchsetzbarkeit vor Gericht), wie Biaggini festhält (BSK BV, Art. 43a N. 5). Bürgerinnen und Bürger können sich nicht direkt auf Art. 43a BV berufen.
+Alle staatlichen Ebenen — Bund, Kantone und Gemeinden — müssen sich bei der Aufgabenverteilung und -erfüllung an diese Grundsätze halten. Die Bestimmung hat jedoch nach einhelliger Lehre keine direkte Justiziabilität (fehlende Durchsetzbarkeit vor Gericht), wie Biaggini festhält. Bürgerinnen und Bürger können sich nicht direkt auf Art. 43a BV berufen.
 
 ## Was regelt die Norm?
 
@@ -12,7 +12,7 @@ Alle staatlichen Ebenen — Bund, Kantone und Gemeinden — müssen sich bei der
 
 **Fiskalische Äquivalenz (Absätze 2-3):** Wer von staatlichen Leistungen profitiert, soll auch die Kosten tragen. Bei kantonsübergreifenden Nutzen sind die Kosten entsprechend zu verteilen. Beispiel: Ein Spital in Grenznähe behandelt Patienten aus Nachbarkantonen — diese müssen sich an den Kosten beteiligen.
 
-**Grundversorgung (Absatz 4):** Bund und Kantone stellen gemeinsam eine angemessene Grundversorgung sicher, etwa bei Post, Telefon oder öffentlichem Verkehr. Konkrete Ansprüche entstehen dadurch aber nicht, wie der Bundesrat betont hat (Biaggini, BSK BV, Art. 43a N. 36).
+**Grundversorgung (Absatz 4):** Bund und Kantone stellen gemeinsam eine angemessene Grundversorgung sicher, etwa bei Post, Telefon oder öffentlichem Verkehr. Konkrete Ansprüche entstehen dadurch aber nicht, wie der Bundesrat betont hat.
 
 **Wirtschaftlichkeit (Absatz 5):** Alle staatlichen Ebenen müssen ihre Aufgaben sparsam und zweckmässig erfüllen. Das Bundesgericht bestätigte in **BGE 147 II 227**, dass dies auch die Geltendmachung staatlicher Forderungen umfasst.
 

@@ -34,7 +34,7 @@ Revisability at any time represents a procedural guarantee. It ensures that the 
 
 **N. 5.1** *Limits of constitutional revision*
 
-It is disputed whether, in addition to the expressly mentioned limits, further unwritten material limits to constitutional revision exist. Auer takes the position that certain supra-positive limits exist even beyond Art. 193 and 194 BV (Auer, in: St. Gallen Commentary BV, Art. 193 N. 16). In contrast, Epiney emphasises that the Constitution itself conclusively determines its revision limits and further restrictions would contradict the principle of popular sovereignty (Epiney, in: BSK BV, 2nd ed. 2024, Art. 139 N. 28).
+It is disputed whether, in addition to the expressly mentioned limits, further unwritten material limits to constitutional revision exist. Auer takes the position that certain supra-positive limits exist even beyond Art. 193 and 194 BV (Auer, in: St. Gallen Commentary BV, Art. 193 N. 16). In contrast, Epiney emphasises that the Constitution itself conclusively determines its revision limits and further restrictions would contradict the principle of popular sovereignty.
 
 **N. 5.2** *Relationship between total and partial revision*
 

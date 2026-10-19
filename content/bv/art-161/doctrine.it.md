@@ -62,7 +62,7 @@
 
 **N. 15** **Momento della libertà di mandato**: Controverso è da quando vale il mandato libero. Secondo **DTF 151 I 41** la protezione inizia solo con la costituzione del Parlamento. Biaggini (BV-Kommentar, 2ª ed. 2017, Art. 161 N 3) critica questa limitazione come contraria al sistema, poiché il mandato sorgerebbe già con l'elezione.
 
-**N. 16** **Portata dell'obbligo di dichiarazione**: Controverso è quanto dettagliata debba essere la dichiarazione. Mentre il Commentario sangallese (Ehrenzeller et al., 4ª ed. 2023, Art. 161 N 12) esige una trasparenza comprensiva, altri sostengono una limitazione ai vincoli essenziali con riferimento diretto all'attività parlamentare (BSK BV-Waldmann/Belser/Epiney, 2ª ed. 2024, Art. 161 N 18).
+**N. 16** **Portata dell'obbligo di dichiarazione**: Controverso è quanto dettagliata debba essere la dichiarazione. Mentre il Commentario sangallese (Ehrenzeller et al., 4ª ed. 2023, Art. 161 N 12) esige una trasparenza comprensiva, altri sostengono una limitazione ai vincoli essenziali con riferimento diretto all'attività parlamentare.
 
 ### 6. Indicazioni pratiche
 

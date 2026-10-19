@@ -10,7 +10,7 @@
 
 **N. 3** L'art. 95 Cst. forme la pièce maîtresse des compétences économiques fédérales. Il est en relation étroite avec la liberté économique (→ art. 27 Cst.) et les principes de l'ordre économique (→ art. 94 Cst.). Tandis que l'art. 27 Cst. garantit le droit fondamental individuel à l'activité économique libre, l'art. 95 Cst. habilite la Confédération à réglementer cette liberté.
 
-**N. 4** La norme doit être distinguée des compétences économiques spécifiques de la Confédération (→ art. 96-98 Cst.) ainsi que des compétences cantonales dans le domaine de l'ordre et de la sécurité publics. Felix Uhlmann souligne que la Confédération a le pouvoir « de déterminer de manière autonome la notion d'activité privée et de ne pas suivre strictement les limitations du droit fondamental selon la jurisprudence du Tribunal fédéral » (Uhlmann, BSK BV, art. 95 n. 4).
+**N. 4** La norme doit être distinguée des compétences économiques spécifiques de la Confédération (→ art. 96-98 Cst.) ainsi que des compétences cantonales dans le domaine de l'ordre et de la sécurité publics. Felix Uhlmann souligne que la Confédération a le pouvoir « de déterminer de manière autonome la notion d'activité privée et de ne pas suivre strictement les limitations du droit fondamental selon la jurisprudence du Tribunal fédéral ».
 
 ## 3. Éléments constitutifs / Contenu normatif
 
@@ -18,7 +18,7 @@
 
 **N. 5** La notion d'activité économique privée englobe toute activité de sujets économiques privés orientée vers le profit ou le revenu d'activité. Le Tribunal fédéral a confirmé dans une jurisprudence constante qu'elle comprend « toute activité privée exercée à titre professionnel », indépendamment de la branche ou du type de profession concrète (**ATF 125 I 276** consid. 6a).
 
-**N. 6** La compétence fédérale est étendue, mais pas illimitée. Elle est soumise aux principes constitutionnels, notamment à la proportionnalité (→ art. 5 al. 2 Cst.) et à l'interdiction de l'arbitraire (→ art. 9 Cst.). Uhlmann indique qu'une compétence fédérale pour la réglementation des chiens de combat « a été niée à juste titre », « car c'est la détention privée (non économique privée) des chiens qui est au cœur » (Uhlmann, BSK BV, art. 95 n. 15).
+**N. 6** La compétence fédérale est étendue, mais pas illimitée. Elle est soumise aux principes constitutionnels, notamment à la proportionnalité (→ art. 5 al. 2 Cst.) et à l'interdiction de l'arbitraire (→ art. 9 Cst.). Uhlmann indique qu'une compétence fédérale pour la réglementation des chiens de combat « a été niée à juste titre », « car c'est la détention privée (non économique privée) des chiens qui est au cœur ».
 
 ### 3.2 Espace économique unifié (al. 2)
 
@@ -30,7 +30,7 @@
 
 **N. 9** Les prescriptions détaillées de l'al. 3 s'adressent exclusivement aux « sociétés anonymes suisses cotées en bourse dans le pays ou à l'étranger ». Le texte constitutionnel contient des prescriptions matérielles impératives pour la rémunération et l'élection des membres d'organes ainsi qu'un mandat de droit pénal.
 
-**N. 10** La formulation comme « principes » ne signifie pas selon Uhlmann que le législateur dispose d'une large marge de manœuvre. Il s'agirait plutôt de « prescriptions très détaillées », la « validité absolue et l'impossibilité de pondération d'une norme constitutionnelle ne devant pas être assumées à la légère » (Uhlmann, BSK BV, art. 95 n. 25).
+**N. 10** La formulation comme « principes » ne signifie pas selon Uhlmann que le législateur dispose d'une large marge de manœuvre. Il s'agirait plutôt de « prescriptions très détaillées », la « validité absolue et l'impossibilité de pondération d'une norme constitutionnelle ne devant pas être assumées à la légère ».
 
 ## 4. Effets juridiques
 
@@ -38,7 +38,7 @@
 
 **N. 12** L'al. 2 fonde une obligation d'agir de la Confédération (« elle veille ») et un droit subjectif à l'exercice professionnel dans tout le pays pour les détenteurs des diplômes mentionnés. Les restrictions cantonales d'admission ne sont autorisées que dans la mesure où elles sont justifiées par des intérêts publics prépondérants et proportionnées.
 
-**N. 13** Les prescriptions de l'al. 3 sont directement applicables et obligent le législateur à une mise en œuvre littérale. Le Conseil fédéral a décidé selon les matériaux « d'une mise en œuvre 'aussi littérale que possible' de l'initiative » (cité chez Uhlmann, BSK BV, art. 95 n. 53). En cas de violation des dispositions, des peines privatives de liberté jusqu'à trois ans menacent.
+**N. 13** Les prescriptions de l'al. 3 sont directement applicables et obligent le législateur à une mise en œuvre littérale. Le Conseil fédéral a décidé selon les matériaux « d'une mise en œuvre 'aussi littérale que possible' de l'initiative ». En cas de violation des dispositions, des peines privatives de liberté jusqu'à trois ans menacent.
 
 ## 5. Points controversés
 

@@ -20,7 +20,7 @@
 
 **N. 7** **«Trattati di diritto internazionale»**: Il concetto comprende tutti i trattati di diritto internazionale conclusi dalla Svizzera, indipendentemente dalla loro denominazione (convenzione, accordo, convenzione ecc.). Vi rientrano trattati bilaterali e multilaterali, inclusa la CEDU e gli accordi bilaterali con l'UE (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, 4ª ed. 2023, art. 141a n. 3).
 
-**N. 8** **«Attuazione»**: L'attuazione designa sia la trasformazione delle norme di diritto internazionale nel diritto nazionale sia la loro applicazione da parte delle autorità e dei tribunali. Il concetto va inteso in senso ampio e comprende tutte le misure statali per l'adempimento degli obblighi di diritto internazionale (Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, art. 141a n. 5).
+**N. 8** **«Attuazione»**: L'attuazione designa sia la trasformazione delle norme di diritto internazionale nel diritto nazionale sia la loro applicazione da parte delle autorità e dei tribunali. Il concetto va inteso in senso ampio e comprende tutte le misure statali per l'adempimento degli obblighi di diritto internazionale.
 
 **N. 9** **Presupposto implicito**: L'art. 141a Cost. presuppone l'esistenza di un trattato di diritto internazionale validamente concluso e vincolante per la Svizzera. La disposizione non disciplina la conclusione o la denuncia di trattati, bensì esclusivamente la loro attuazione.
 
@@ -34,7 +34,7 @@
 
 ## V. Controversie
 
-**N. 13** **Portata dell'obbligo di attuazione**: Ehrenzeller/Schindler sostengono la posizione secondo cui l'art. 141a Cost. ha meramente carattere dichiarativo e conferma la prassi esistente (SGK BV, art. 141a n. 8). Al contrario Waldmann vede nella disposizione un ancoraggio costituzionale dell'obbligo di attuazione con carattere costitutivo (BSK BV, art. 141a n. 9).
+**N. 13** **Portata dell'obbligo di attuazione**: Ehrenzeller/Schindler sostengono la posizione secondo cui l'art. 141a Cost. ha meramente carattere dichiarativo e conferma la prassi esistente (SGK BV, art. 141a n. 8). Al contrario Waldmann vede nella disposizione un ancoraggio costituzionale dell'obbligo di attuazione con carattere costitutivo.
 
 **N. 14** **Rapporto con l'art. 190 Cost.**: È controverso il rapporto tra l'art. 141a Cost. e l'art. 190 Cost. Rhinow/Schefer argomentano per un'interpretazione armonizzante di entrambe le disposizioni (Schweizerisches Verfassungsrecht, § 14 n. 83). Biaggini invece sottolinea l'autonomia dell'art. 141a Cost. come norma specifica di attuazione (BV-Kommentar, 2ª ed. 2017, art. 141a n. 4).
 
