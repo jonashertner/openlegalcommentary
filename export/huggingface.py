@@ -27,7 +27,7 @@ def export_article(law: str, art_dir: Path) -> dict | None:
         return None
 
     meta = yaml.safe_load(meta_path.read_text(encoding="utf-8"))
-    if not meta:
+    if not meta or meta.get("withdrawn"):
         return None
 
     summary = read_if_exists(art_dir / "summary.md")

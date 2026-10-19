@@ -258,7 +258,7 @@ const layerTabs = [
       ) : (
         <section class="pending-notice" data-pagefind-ignore>
           <div class="label">{t('article.pending_title', lang)}</div>
-          <p>{t('article.pending_body', lang)}</p>
+          <p>{t(meta.withdrawn ? 'article.withdrawn_body' : 'article.pending_body', lang)}</p>
           {!lawInfo.canton && lawKey !== 'bv' && (
             <a href={`${langBase(lang)}/bv/`}>{t('article.pending_cta', lang)} &rarr;</a>
           )}

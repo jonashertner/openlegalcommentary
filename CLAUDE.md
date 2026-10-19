@@ -242,7 +242,12 @@ a reusable command).
 
 Site conventions: articles whose layers are all scaffold placeholders render a
 "commentary in preparation" state, are `noindex`, and stay out of Pagefind and
-the sitemap (`isPlaceholder()` in `site/src/lib/content.ts`). Fonts are
+the sitemap (`isPlaceholder()` in `site/src/lib/content.ts`). An article whose
+`meta.yaml` carries `withdrawn: <ISO date>` is treated the same way (and is left
+out of the feed and the HuggingFace export); its page explains that the
+commentary was withdrawn after a fact-check. The generator keeps the field when
+it regenerates a layer, so a reviewer must delete it once the new text has been
+checked against Fedlex. Fonts are
 self-hosted via Fontsource (Inter, Source Serif 4) — no Google Fonts requests.
 - `cd site && npm run preview` — preview built site
 
@@ -260,7 +265,9 @@ the full prioritized backlog (~70 items across 11 categories).
    doctrine was generated without the statute text, so the model guessed.
    Art. 139a was rewritten by hand on 2026-10-19 (repealed provision, never in
    force) and Art. 139b corrected (Abs. 3 is a sum rule; Art. 75b/77a BPR do not
-   exist); the cross-references in Art. 138/139 were fixed.
+   exist); the cross-references in Art. 138/139 were fixed. The other 33 carry
+   `withdrawn: '2026-10-19'` in `meta.yaml` and are off the site until they are
+   regenerated with the statute text and checked.
 2. Expand Materialien to other laws (each needs its own BJ archive source);
    first diagnose the preparatory-materials digest, which produces empty
    output and blocks 600+ BBl citation checks
