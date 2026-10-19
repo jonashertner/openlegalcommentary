@@ -1,21 +1,21 @@
-# Art. 139a BV — Overview
+# Art. 139a FC — Overview
 
-Art. 139a BV governs the examination of federal popular initiatives for their compatibility with international law. This provision was created in 2018 as an indirect counter-proposal to the withdrawn self-determination initiative and entered into force on 1 January 2019 (BBl 2019 219).
+**Art. 139a FC has been repealed.** The provision was meant to introduce the "general popular initiative". The People and the Cantons approved it on 9 February 2003. It never entered into force, however, and was repealed in the popular vote of 27 September 2009 (AS 2003 1949; AS 2009 6409).
 
-**What does the provision regulate?**
+**What would the provision have done?**
 
-The Federal Assembly must examine every valid constitutional initiative to determine whether it is compatible with Switzerland's international legal obligations. This encompasses all types of international law — from international treaties to customary international law. If incompatibility is established, the Federal Council and Federal Assembly must inform the electorate about the «significance and scope» of accepting the initiative.
+A general popular initiative would have let voters submit a request in general terms. Unlike today, they could have proposed not only an amendment to the Federal Constitution but also an amendment to a federal act. Parliament would have decided whether to implement the request in the Constitution or in an act. It could have set a counter-proposal against the implementing text. And anyone who considered that Parliament had not respected the content and purpose of the initiative could have appealed to the Federal Supreme Court (BBl 2006 5261, 5262).
 
-**Who is affected?**
+**Why did it never enter into force?**
 
-Directly affected are the initiative committees whose proposals are examined, as well as the electorate, who should receive complete information about possible conflicts with international law. The Federal Assembly bears primary responsibility for the examination procedure, while the Federal Council participates in informing the public.
+The new initiative required implementing legislation. The Federal Council presented it in 2006 (BBl 2006 5261). It then became clear how complicated the procedure would have been: depending on the two chambers' decisions on the legal level and on a counter-proposal, many different voting scenarios were possible. The National Council and the Council of States therefore refused to consider the bill. Parliament then proposed abandoning the new popular right altogether, and the People and the Cantons agreed on 27 September 2009 (BBl 2008 2891, 2907).
 
-**What are the legal consequences?**
+**What is the law today?**
 
-Unlike Art. 139 para. 3 BV, established incompatibility with international law does not lead to the initiative being declared invalid. The main legal consequence consists in an enhanced duty to inform: the voting materials must provide objective and comprehensible information about the consequences of acceptance. The initiative remains valid and proceeds to a vote.
+- At federal level, a popular initiative always seeks an amendment to the **Federal Constitution** (Arts. 138 and 139 FC). There is no popular initiative for a federal act.
+- An initiative for a partial revision of the Constitution can still take the form of a **general proposal**. If Parliament agrees with it, Parliament drafts the constitutional text (Art. 139 paras. 2 and 4 FC).
+- Art. 139a FC cannot be relied on before any authority or court.
 
-**Concrete example**
+**Practical example**
 
-A popular initiative demands that Switzerland withdraw from the European Convention on Human Rights. The Federal Assembly establishes that this would be incompatible with international legal obligations. The initiative is not declared invalid, but the voting materials must explain in detail what legal and political consequences withdrawal would have — such as the loss of human rights protection or diplomatic consequences.
-
-Art. 139a BV thus strengthens direct democracy through complete information, without restricting popular rights through additional grounds for invalidity. The people decide with knowledge of all consequences (BBl 2017 5355, 5380).
+A group wants a particular federal act to be amended. Under Art. 139a FC it could have submitted a general popular initiative, and Parliament would have drafted the amendment. Today other routes remain: a popular initiative to amend the Constitution, a petition to Parliament (Art. 33 FC) or, once Parliament has passed the act, a referendum against it (Art. 141 FC).

@@ -1,21 +1,21 @@
 # Art. 139a Cost. — Panoramica
 
-L'art. 139a Cost. disciplina l'esame delle iniziative popolari federali per quanto riguarda la loro compatibilità con il diritto internazionale. Questa disposizione è stata creata nel 2018 come controprogetto indiretto all'iniziativa di autodeterminazione ritirata ed è entrata in vigore il 1° gennaio 2019 (FF 2019 205).
+**L'art. 139a Cost. è abrogato.** La disposizione doveva introdurre l'«iniziativa popolare generica». Popolo e Cantoni l'hanno accettata il 9 febbraio 2003. Non è però mai entrata in vigore ed è stata abrogata nella votazione popolare del 27 settembre 2009 (RU 2003 1949; RU 2009 6409).
 
-**Cosa disciplina la norma?**
+**Che cosa avrebbe introdotto la norma?**
 
-L'Assemblea federale deve esaminare, per ogni iniziativa costituzionale valida, se questa sia compatibile con gli obblighi di diritto internazionale della Svizzera. Ciò comprende tutti i tipi di diritto internazionale — dai trattati internazionali al diritto internazionale consuetudinario. Se viene constatata un'incompatibilità, il Consiglio federale e l'Assemblea federale devono informare gli aventi diritto di voto sulla «portata e sulle conseguenze» di un'eventuale accettazione dell'iniziativa.
+Con un'iniziativa popolare generica gli aventi diritto di voto avrebbero potuto presentare una richiesta formulata in termini generali. A differenza di oggi, avrebbero potuto proporre non solo una modifica della Costituzione federale, ma anche la modifica di una legge federale. Il Parlamento avrebbe deciso se attuare la richiesta nella Costituzione o in una legge. Avrebbe potuto contrapporre un controprogetto al testo di attuazione. E chi riteneva che il Parlamento non avesse rispettato il contenuto e lo scopo dell'iniziativa avrebbe potuto ricorrere al Tribunale federale (FF 2006 4815).
 
-**Chi è interessato?**
+**Perché non è mai entrata in vigore?**
 
-Direttamente interessati sono i comitati d'iniziativa, le cui richieste vengono esaminate, nonché gli aventi diritto di voto, che devono ricevere informazioni complete sui possibili conflitti con il diritto internazionale. L'Assemblea federale porta la responsabilità principale per la procedura d'esame, mentre il Consiglio federale collabora nell'informazione del pubblico.
+La nuova iniziativa richiedeva una legge di esecuzione. Il Consiglio federale l'ha presentata nel 2006 (FF 2006 4815). È emerso allora quanto complicata sarebbe stata la procedura: a seconda delle decisioni delle due Camere sul livello normativo e su un eventuale controprogetto, sarebbero state possibili molte varianti di votazione. Il Consiglio nazionale e il Consiglio degli Stati non sono quindi entrati in materia sulla legge. Il Parlamento ha poi proposto di rinunciare del tutto al nuovo diritto popolare; Popolo e Cantoni hanno approvato la rinuncia il 27 settembre 2009 (FF 2008 2421, 2437).
 
-**Quali sono le conseguenze giuridiche?**
+**Che cosa vale oggi?**
 
-A differenza dell'art. 139 cpv. 3 Cost., una violazione del diritto internazionale constatata non comporta la dichiarazione di nullità dell'iniziativa. La principale conseguenza giuridica consiste in un obbligo di informazione rafforzato: la documentazione per la votazione deve informare in modo obiettivo e comprensibile sulle conseguenze di un'accettazione. L'iniziativa rimane valida e viene sottoposta a votazione.
+- A livello federale, un'iniziativa popolare chiede sempre una modifica della **Costituzione federale** (art. 138 e 139 Cost.). Non esiste un'iniziativa popolare per una legge federale.
+- Un'iniziativa per la revisione parziale della Costituzione può tuttora essere presentata in forma di **proposta generica**. Se il Parlamento la approva, elabora il testo costituzionale (art. 139 cpv. 2 e 4 Cost.).
+- L'art. 139a Cost. non può essere invocato né davanti alle autorità né davanti ai tribunali.
 
 **Esempio concreto**
 
-Un'iniziativa popolare chiede che la Svizzera esca dalla Convenzione europea dei diritti dell'uomo. L'Assemblea federale constata che ciò sarebbe incompatibile con gli obblighi di diritto internazionale. L'iniziativa non viene dichiarata nulla, ma la documentazione per la votazione deve spiegare dettagliatamente quali conseguenze giuridiche e politiche avrebbe un'uscita — per esempio la perdita della protezione dei diritti umani o conseguenze diplomatiche.
-
-L'art. 139a Cost. rafforza quindi la democrazia diretta attraverso un'informazione completa, senza limitare i diritti popolari mediante ulteriori motivi di nullità. Il popolo decide in conoscenza di tutte le conseguenze (FF 2017 5179, 5202).
+Un gruppo vuole che una determinata legge federale sia modificata. Con l'art. 139a Cost. avrebbe potuto presentare un'iniziativa popolare generica, e il Parlamento avrebbe elaborato la modifica della legge. Oggi gli restano altre vie: un'iniziativa popolare per modificare la Costituzione, una petizione al Parlamento (art. 33 Cost.) oppure, una volta che il Parlamento ha adottato la legge, il referendum (art. 141 Cost.).

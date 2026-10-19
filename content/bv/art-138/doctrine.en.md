@@ -8,7 +8,7 @@
 
 ## 2. Systematic Classification
 
-**N. 3** Art. 138 Cst. stands in Title 4 on "People and Cantons" and forms together with Art. 139 Cst. (popular initiative for partial revision) and Art. 139a Cst. (general initiative) the instrumentarium of constitutional initiative. Total revision according to Art. 138 Cst. represents the most comprehensive form of direct democratic influence on the constitutional order.
+**N. 3** Art. 138 Cst. stands in Title 4 on "People and Cantons" and forms together with Art. 139 Cst. (popular initiative for partial revision) the instrumentarium of constitutional initiative; Art. 139a Cst. (general popular initiative), approved in 2003, never entered into force and was repealed in 2009. Total revision according to Art. 138 Cst. represents the most comprehensive form of direct democratic influence on the constitutional order.
 
 **N. 4** The provision stands in close connection with:
 - → Art. 139 Cst. (popular initiative for partial revision)

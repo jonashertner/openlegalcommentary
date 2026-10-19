@@ -10,7 +10,7 @@
 
 ## 2. Systematische Einordnung
 
-**N. 4** Art. 139 BV steht im 4. Titel «Volk und Stände» und bildet zusammen mit Art. 138 BV (Volksinitiative auf Totalrevision) und Art. 139a BV (Volksinitiative mit Gegenentwurf) das Herzstück der direktdemokratischen Mitwirkungsrechte auf Bundesebene. Die Bestimmung konkretisiert das in Art. 34 BV garantierte Grundrecht der politischen Rechte für den spezifischen Fall der Verfassungsinitiative (Tschannen, Die Formen der Volksinitiative und die Einheit der Form, ZBl 2002, 2–29, 4).
+**N. 4** Art. 139 BV steht im 4. Titel «Volk und Stände» und bildet zusammen mit Art. 138 BV (Volksinitiative auf Totalrevision) und Art. 139b BV (Verfahren bei Initiative und Gegenentwurf) das Herzstück der direktdemokratischen Mitwirkungsrechte auf Bundesebene. Die Bestimmung konkretisiert das in Art. 34 BV garantierte Grundrecht der politischen Rechte für den spezifischen Fall der Verfassungsinitiative (Tschannen, Die Formen der Volksinitiative und die Einheit der Form, ZBl 2002, 2–29, 4).
 
 **N. 5** Die Verbindung zu Art. 136 BV (Politische Rechte) und Art. 173 Abs. 1 lit. f BV (Kompetenzen der Bundesversammlung bei Volksinitiativen) ist systematisch zentral. Art. 190 BV spielt eine wichtige Rolle bei der Frage der Justiziabilität von angenommenen Volksinitiativen, während Art. 192–195 BV die Schranken der Verfassungsrevision festlegen.
 
@@ -44,7 +44,7 @@
 
 **N. 15** Gültig erklärte Initiativen in Form der allgemeinen Anregung führen zu einem zweistufigen Verfahren nach Abs. 4: Bei Zustimmung der Bundesversammlung arbeitet diese eine Vorlage aus. Bei Ablehnung entscheidet zunächst das Volk über die Anregung. Nur bei Zustimmung des Volkes muss die Bundesversammlung tätig werden.
 
-**N. 16** Ausgearbeitete Entwürfe gelangen direkt zur Volksabstimmung (Abs. 5). Die Bundesversammlung gibt eine Abstimmungsempfehlung ab und kann einen direkten oder indirekten Gegenentwurf ausarbeiten (Art. 139a und 139b BV). Die Erfolgsquote liegt historisch bei etwa 11% (24 von 216 zur Abstimmung gelangten Initiativen seit 1891, Stand Ende 2023).
+**N. 16** Ausgearbeitete Entwürfe gelangen direkt zur Volksabstimmung (Abs. 5). Die Bundesversammlung gibt eine Abstimmungsempfehlung ab und kann einen direkten oder indirekten Gegenentwurf ausarbeiten (zum direkten Gegenentwurf Art. 139 Abs. 5 und Art. 139b BV). Die Erfolgsquote liegt historisch bei etwa 11% (24 von 216 zur Abstimmung gelangten Initiativen seit 1891, Stand Ende 2023).
 
 **N. 17** Angenommene Volksinitiativen werden Teil der Bundesverfassung und geniessen den Schutz von Art. 190 BV. Das Bundesgericht kann sie nicht auf ihre Verfassungsmässigkeit überprüfen. Bei Konflikten mit der EMRK wendet das Bundesgericht jedoch seine «PKK-Praxis» an: Die EMRK geht auch späterem Verfassungsrecht vor (**BGE 139 I 16 E. 5**).
 

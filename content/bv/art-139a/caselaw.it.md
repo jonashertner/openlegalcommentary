@@ -1,73 +1,44 @@
 # Art. 139a Cost. — Giurisprudenza
 
-L'art. 139a Cost. è stato introdotto nella Costituzione federale nel 2019 e finora è stato applicato raramente nella giurisprudenza. Non esistono pertanto DTF che interpretino o applichino direttamente questa disposizione. Le seguenti decisioni trattano i principi costituzionali fondamentali che hanno portato all'introduzione dell'art. 139a Cost., nonché questioni correlate del rapporto tra diritto internazionale e diritto nazionale nelle iniziative popolari.
+L'art. 139a Cost. non è mai entrato in vigore ed è stato abrogato nel 2009 (RU 2003 1949; RU 2009 6409). Non esiste quindi giurisprudenza che lo applichi. Il Tribunale federale si è tuttavia riferito al testo accettato nel 2003 in due decisioni, come ausilio interpretativo.
 
-## I. Principi fondamentali del rapporto tra diritto internazionale e diritto nazionale
+## I. Riferimenti all'art. 139a Cost. (testo del 2002)
 
-### Diritto internazionale cogente (ius cogens)
+**DTF 129 I 366 consid. 2.3**
+27 agosto 2003
+Unità della materia in una modifica della Costituzione zurighese (rapporti tra Chiese e Stato). Il Tribunale federale annovera l'art. 139a cpv. 2 Cost., nel testo del 2002, tra le disposizioni che esigono l'unità della materia per le iniziative popolari federali.
 
-**DTF 133 II 450 consid. 7**
-14 novembre 2007
-Il Tribunale federale definisce il diritto internazionale cogente e la sua prevalenza sul diritto nazionale.
-Questa decisione è rilevante per l'art. 139a Cost., poiché determina i limiti del diritto internazionale imperativo che, secondo l'art. 139a cpv. 3 Cost., devono essere osservati nell'esame di validità delle iniziative costituzionali.
+**TF 1P.470/2005 del 23 dicembre 2005 consid. 3.1**
+L'iniziativa popolare giurassiana «Contre l'aérodrome de Bressaucourt», che chiedeva una votazione consultiva, era stata dichiarata nulla; il Tribunale federale ha confermato la decisione. Sulla questione se un'iniziativa cantonale possa riguardare soltanto norme di diritto, ha approvato un'interpretazione fondata anche sul testo dell'art. 139a Cost.
 
-> «Il diritto internazionale cogente (ius cogens) nel senso dell'art. 53 della Convenzione di Vienna sul diritto dei trattati comprende l'insieme delle norme imperative del diritto internazionale generale che sono riconosciute dalla comunità internazionale degli Stati nel suo insieme come norme dalle quali non è possibile derogare e che possono essere modificate solo da una norma successiva del diritto internazionale generale della stessa natura giuridica.»
+> «Le texte de cette disposition est similaire à celui de l'art. 75 al. 1 Cst./JU; or, selon le message du Conseil fédéral, l'initiative législative consacrée à cette disposition ne peut concerner que des règles de droit (FF 1997 p. 465).»
 
-### Esame di proporzionalità per iniziative contrarie al diritto internazionale
+## II. Rischio di confusione: art. 139a OG
 
-**DTF 139 I 16 consid. 5.5.1**
-19 dicembre 2012
-Il Tribunale federale sviluppa criteri per il trattamento delle iniziative popolari contrarie al diritto internazionale prima dell'introduzione dell'art. 139a Cost.
-Benché questa decisione sia precedente all'introduzione dell'art. 139a Cost., evidenzia i problemi giuridici che hanno portato alla creazione del nuovo articolo.
+Molti risultati per «art. 139a» nella giurisprudenza riguardano l'art. 139a dell'abrogata legge federale sull'organizzazione giudiziaria (OG): la revisione di una sentenza del Tribunale federale dopo che la Corte europea dei diritti dell'uomo ha accertato una violazione della CEDU. Oggi la materia è disciplinata dall'art. 122 LTF. Queste decisioni non hanno nulla a che vedere con l'art. 139a Cost.
 
-> «In caso di contraddizione irrisolvibile tra diritto internazionale e disposizione costituzionale accettata dal Popolo, il diritto internazionale ha in principio la prevalenza, purché si tratti di diritto internazionale cogente o gli obblighi di diritto internazionale servano al rispetto dei diritti dell'uomo.»
+**DTF 123 I 283**
+20 ottobre 1997
+Revisione per violazione della CEDU secondo l'art. 139a OG; inizio del termine di revisione e rapporto con l'art. 50 CEDU.
 
-## II. Esame di validità delle iniziative popolari
+**DTF 124 II 480**
+24 agosto 1998
+L'art. 139a OG si applica anche alle decisioni emanate prima della sua entrata in vigore.
 
-### Esame di validità materiale
+> «La revisione ai sensi dell'art. 139a OG è ammissibile solo se la riparazione non è possibile altrimenti.»
 
-**DTF 143 I 129 consid. 2.1**
+## III. Giurisprudenza affine sulla proposta generica nel diritto cantonale
+
+La questione che il Tribunale federale avrebbe dovuto decidere in base all'art. 189 cpv. 1bis Cost. (testo del 2002), ossia se un parlamento attua fedelmente una richiesta popolare formulata in termini generali, continua a porsi nel diritto cantonale. Le decisioni seguenti riguardano iniziative cantonali. Illustrano la problematica, ma non interpretano l'art. 139a Cost.
+
+**DTF 141 I 186 consid. 5**
+27 maggio 2015
+Attuazione della «Kulturlandinitiative» zurighese, accettata in forma di proposta generica. Il Parlamento cantonale non era entrato in materia sul progetto di attuazione; il Tribunale federale vi ha ravvisato una violazione dei diritti politici (art. 34 cpv. 1 Cost.).
+
+> «Rifiutandosi di entrare in materia sul progetto di attuazione dell'iniziativa, sottopostogli dal Consiglio di Stato, il Parlamento cantonale non ha messo in atto correttamente il contenuto della "Kulturlandinitiative" ed ha perciò violato i diritti politici dei cittadini»
+
+**DTF 143 I 129 consid. 2.4**
 14 dicembre 2016
-Il Tribunale federale precisa i requisiti per la compatibilità materiale delle iniziative popolari con il diritto superiore.
-Questi principi sono rilevanti per l'applicazione dell'art. 139a Cost., poiché caratterizzano la procedura d'esame per le iniziative contrarie al diritto internazionale.
+Invalidazione di un'iniziativa costituzionale friburghese formulata come proposta generica per violazione del divieto di discriminazione (art. 8 cpv. 2 Cost.). Anche una proposta generica non può essere interpretata oltre la volontà dei firmatari.
 
-> «Le iniziative popolari cantonali devono essere compatibili con il diritto superiore. L'esame della legalità materiale avviene in modo restrittivo e si limita a violazioni manifeste e gravi del diritto di rango superiore.»
-
-**DTF 129 I 232 consid. 3.2**
-7 aprile 2003
-Il Tribunale federale fissa i limiti della dichiarazione di nullità delle iniziative popolari.
-Questa decisione caratterizza la comprensione della situazione eccezionale in cui le iniziative possono essere dichiarate nulle - un principio che è stato codificato nell'art. 139a Cost.
-
-> «Un'iniziativa popolare può essere dichiarata nulla soltanto se viola il diritto internazionale cogente. Ciò risulta dall'importanza fondamentale dei diritti popolari nella democrazia svizzera.»
-
-## III. Applicazione dal 2019
-
-### Nessuna giurisprudenza diretta sull'art. 139a Cost.
-
-Dall'entrata in vigore dell'art. 139a Cost. il 1° gennaio 2019, non sono stati emanati DTF che applichino direttamente questa disposizione. Ciò si spiega con il fatto che:
-
-- Non sono state sottoposte a votazione iniziative costituzionali federali che avrebbero attivato l'art. 139a Cost.
-- La procedura d'esame secondo l'art. 139a Cost. non è ancora stata applicata praticamente
-- L'Assemblea federale finora non ha classificato alcuna iniziativa costituzionale come contraria al diritto internazionale
-
-### Giurisprudenza cantonale correlata
-
-**VB.2023.00485 del Tribunale amministrativo di Zurigo**
-12 ottobre 2023
-Il Tribunale amministrativo zurighese applica i principi dell'esame di validità a un'iniziativa comunale.
-Questa decisione mostra l'applicazione pratica dei principi che stanno anche alla base dell'art. 139a Cost., a livello subordinato.
-
-> «L'esame della compatibilità con il diritto superiore avviene con riserbo e si limita a violazioni evidenti di norme giuridiche cogenti.»
-
-## IV. Giurisprudenza sull'iniziativa per l'autodeterminazione (antefatto dell'art. 139a Cost.)
-
-### Discussione su iniziative contrarie al diritto internazionale
-
-**Sentenza 1C_591/2018 del Tribunale federale**
-12 novembre 2018
-Il Tribunale federale tratta ricorsi sull'iniziativa per l'autodeterminazione, che ha contribuito alle riflessioni che hanno portato all'introduzione dell'art. 139a Cost.
-Questa decisione illustra le tensioni costituzionali che l'art. 139a Cost. intendeva risolvere.
-
-> «L'iniziativa solleva questioni fondamentali sul rapporto tra diritto internazionale e diritto nazionale che necessitano di un chiarimento costituzionale.»
-
-Il significato pratico dell'art. 139a Cost. si mostrerà soltanto con future iniziative costituzionali che attiveranno la procedura definita nel cpv. 3. La giurisprudenza finora esistente su questioni correlate offre tuttavia importanti aiuti interpretativi per la futura applicazione di questa disposizione.
+> «Di conseguenza, anche se l'iniziativa è formulata come proposta generica, essa non si presta ad un'interpretazione più ampia senza scostarsi dalla volontà dei firmatari»

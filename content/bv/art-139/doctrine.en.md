@@ -10,7 +10,7 @@
 
 ## 2. Systematic Classification
 
-**N. 4** Art. 139 FC is located in Title 4 "People and Cantons" and forms, together with Art. 138 FC (popular initiative for total revision) and Art. 139a FC (popular initiative with counter-proposal), the heart of direct democratic participation rights at the federal level. The provision concretizes the fundamental right to political rights guaranteed in Art. 34 FC for the specific case of constitutional initiative (Tschannen, Die Formen der Volksinitiative und die Einheit der Form, ZBl 2002, 2–29, 4).
+**N. 4** Art. 139 FC is located in Title 4 "People and Cantons" and forms, together with Art. 138 FC (popular initiative for total revision) and Art. 139b FC (procedure for an initiative and counter-proposal), the heart of direct democratic participation rights at the federal level. The provision concretizes the fundamental right to political rights guaranteed in Art. 34 FC for the specific case of constitutional initiative (Tschannen, Die Formen der Volksinitiative und die Einheit der Form, ZBl 2002, 2–29, 4).
 
 **N. 5** The connection to Art. 136 FC (Political Rights) and Art. 173 para. 1 lit. f FC (Powers of the Federal Assembly regarding popular initiatives) is systematically central. Art. 190 FC plays an important role in the question of the justiciability of accepted popular initiatives, while Art. 192–195 FC establish the limits of constitutional revision.
 
@@ -44,7 +44,7 @@
 
 **N. 15** Initiatives declared valid in the form of a general suggestion lead to a two-stage procedure according to para. 4: If the Federal Assembly approves, it drafts a proposal. If rejected, the people first decide on the suggestion. Only with the people's approval must the Federal Assembly act.
 
-**N. 16** Specific drafts go directly to popular vote (para. 5). The Federal Assembly gives a voting recommendation and can draft a direct or indirect counter-proposal (Art. 139a and 139b FC). The historical success rate is about 11% (24 out of 216 initiatives put to vote since 1891, as of end 2023).
+**N. 16** Specific drafts go directly to popular vote (para. 5). The Federal Assembly gives a voting recommendation and can draft a direct or indirect counter-proposal (for the direct counter-proposal: Art. 139 para. 5 and Art. 139b FC). The historical success rate is about 11% (24 out of 216 initiatives put to vote since 1891, as of end 2023).
 
 **N. 17** Accepted popular initiatives become part of the Federal Constitution and enjoy the protection of Art. 190 FC. The Federal Court cannot review them for their constitutionality. In conflicts with the ECHR, however, the Federal Court applies its "PKK practice": the ECHR takes precedence even over subsequent constitutional law (**BGE 139 I 16 E. 5**).
 

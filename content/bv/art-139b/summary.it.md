@@ -12,10 +12,10 @@ L'art. 139b Cost. disciplina la procedura in caso di votazione contemporanea su 
 
 **Doppio sì possibile**: Gli aventi diritto di voto possono approvare sia l'iniziativa sia il controprogetto. Questo sistema permette un'espressione differenziata dell'opinione - ad esempio quando qualcuno sostiene delle riforme, ma ritiene il controprogetto migliore dell'iniziativa (Kley, ZBl 2011, 2, 15).
 
-**La domanda eventuale decide**: Se gli aventi diritto di voto accettano entrambi i progetti, decide la domanda eventuale. Il progetto che ottiene più voti popolari entra in vigore. La maggioranza dei Cantoni non ha alcun ruolo nella domanda eventuale.
+**La domanda risolutiva decide**: se entrambi i testi sono accettati, decide la domanda risolutiva. Entra in vigore il testo che vi ottiene sia la maggioranza del Popolo sia quella dei Cantoni. Se un testo ottiene la maggioranza del Popolo e l'altro quella dei Cantoni, per ciascun testo si sommano le due percentuali; entra in vigore il testo con la somma più elevata (cpv. 3).
 
-**Storia della genesi**: L'attuale disciplina nacque dopo dibattiti controversi tra il 1979 e il 1987. Originariamente il Consiglio federale voleva una diversa regola di collisione: in caso di doppia accettazione doveva prevalere il progetto che, sommati insieme, otteneva più voti popolari e cantonali. L'Assemblea federale decise però che in tal caso nessun progetto dovesse entrare in vigore.
+**Storia della genesi**: la procedura ha trovato posto nell'art. 139b Cost. con la riforma dei diritti popolari accettata da Popolo e Cantoni il 9 febbraio 2003. La regola per le maggioranze divergenti (cpv. 3) è in vigore dal 1° agosto 2003; il cpv. 1 ha ricevuto il testo attuale nel 2009.
 
-**Esempio pratico**: Nella votazione del 9 febbraio 2003 sulla legge sull'asilo, gli Svizzeri approvarono sia l'iniziativa popolare «contro gli abusi in materia d'asilo» sia il controprogetto dell'Assemblea federale. Nella domanda eventuale vinse il controprogetto con più voti popolari ed entrò in vigore.
+**Esempio (semplificato)**: Popolo e Cantoni accettano un'iniziativa e il controprogetto. Nella domanda risolutiva l'iniziativa ottiene il 52 % dei voti del Popolo, ma solo il 40 % dei voti dei Cantoni; il controprogetto ottiene il 48 % dei voti del Popolo e il 60 % dei voti dei Cantoni. La somma è 92 per l'iniziativa e 108 per il controprogetto. Entra in vigore il controprogetto.
 
 La disciplina rafforza la democrazia evitando situazioni di costrizione per gli aventi diritto di voto favorevoli alle riforme e facendo valere la volontà popolare in modo differenziato.

@@ -10,7 +10,7 @@
 
 ## 2. Collocazione sistematica
 
-**N. 4** L'art. 139 Cost. si trova nel 4° titolo «Popolo e Cantoni» e forma insieme all'art. 138 Cost. (iniziativa popolare per la revisione totale) e all'art. 139a Cost. (iniziativa popolare con controprogetto) il nucleo centrale dei diritti di partecipazione democratica diretta a livello federale. La disposizione concretizza il diritto fondamentale dei diritti politici garantito dall'art. 34 Cost. per il caso specifico dell'iniziativa costituzionale (Tschannen, Die Formen der Volksinitiative und die Einheit der Form, ZBl 2002, 2–29, 4).
+**N. 4** L'art. 139 Cost. si trova nel 4° titolo «Popolo e Cantoni» e forma insieme all'art. 138 Cost. (iniziativa popolare per la revisione totale) e all'art. 139b Cost. (procedura in caso di votazione su un'iniziativa e sul relativo controprogetto) il nucleo centrale dei diritti di partecipazione democratica diretta a livello federale. La disposizione concretizza il diritto fondamentale dei diritti politici garantito dall'art. 34 Cost. per il caso specifico dell'iniziativa costituzionale (Tschannen, Die Formen der Volksinitiative und die Einheit der Form, ZBl 2002, 2–29, 4).
 
 **N. 5** Il collegamento con l'art. 136 Cost. (Diritti politici) e l'art. 173 cpv. 1 lett. f Cost. (Competenze dell'Assemblea federale per le iniziative popolari) è sistematicamente centrale. L'art. 190 Cost. svolge un ruolo importante nella questione della giustiziabilità delle iniziative popolari accettate, mentre gli artt. 192–195 Cost. stabiliscono i limiti della revisione costituzionale.
 
@@ -44,7 +44,7 @@
 
 **N. 15** Le iniziative dichiarate valide sotto forma di proposta generale portano a una procedura in due fasi secondo il cpv. 4: in caso di approvazione dell'Assemblea federale, questa elabora un progetto. In caso di rifiuto, decide dapprima il popolo sulla proposta. Solo in caso di approvazione del popolo l'Assemblea federale deve attivarsi.
 
-**N. 16** I progetti elaborati giungono direttamente alla votazione popolare (cpv. 5). L'Assemblea federale emette una raccomandazione di voto e può elaborare un controprogetto diretto o indiretto (artt. 139a e 139b Cost.). Il tasso di successo è storicamente di circa l'11% (24 su 216 iniziative sottoposte a votazione dal 1891, situazione a fine 2023).
+**N. 16** I progetti elaborati giungono direttamente alla votazione popolare (cpv. 5). L'Assemblea federale emette una raccomandazione di voto e può elaborare un controprogetto diretto o indiretto (per il controprogetto diretto: art. 139 cpv. 5 e art. 139b Cost.). Il tasso di successo è storicamente di circa l'11% (24 su 216 iniziative sottoposte a votazione dal 1891, situazione a fine 2023).
 
 **N. 17** Le iniziative popolari accettate diventano parte della Costituzione federale e godono della protezione dell'art. 190 Cost. Il Tribunale federale non può esaminarle quanto alla loro costituzionalità. In caso di conflitti con la CEDU, tuttavia, il Tribunale federale applica la sua «prassi PKK»: la CEDU prevale anche sul diritto costituzionale successivo (**DTF 139 I 16 consid. 5**).
 

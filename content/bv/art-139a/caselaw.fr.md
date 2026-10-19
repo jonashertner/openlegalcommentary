@@ -1,73 +1,44 @@
-# Art. 139a Cst — Jurisprudence
+# Art. 139a Cst. — Jurisprudence
 
-L'art. 139a Cst a été introduit dans la Constitution fédérale en 2019 et a jusqu'à présent peu trouvé d'application dans la jurisprudence. Il n'existe donc aucun ATF qui interprète ou applique directement cette disposition. Les arrêts suivants traitent les principes constitutionnels fondamentaux qui ont conduit à l'introduction de l'art. 139a Cst, ainsi que les questions connexes du rapport entre droit international et droit national concernant les initiatives populaires.
+L'art. 139a Cst. n'est jamais entré en vigueur et a été abrogé en 2009 (RO 2003 1949 ; RO 2009 6409). Il n'existe donc aucune jurisprudence qui l'applique. Le Tribunal fédéral s'est toutefois référé à la teneur acceptée en 2003 dans deux arrêts, comme aide à l'interprétation.
 
-## I. Principes fondamentaux du rapport entre droit international et droit national
+## I. Références à l'art. 139a Cst. (teneur de 2002)
 
-### Droit international impératif (ius cogens)
+**ATF 129 I 366 consid. 2.3**
+27 août 2003
+Unité de la matière lors d'une modification de la Constitution zurichoise (rapports entre Églises et État). Le Tribunal fédéral range l'art. 139a al. 2 Cst., dans sa teneur de 2002, parmi les dispositions qui exigent l'unité de la matière pour les initiatives populaires fédérales.
 
-**ATF 133 II 450 c. 7**
-14 novembre 2007
-Le Tribunal fédéral définit le droit international impératif et sa primauté sur le droit national.
-Cet arrêt est pertinent pour l'art. 139a Cst car il détermine les limites du droit international impératif qui, selon l'art. 139a al. 3 Cst, doivent être respectées lors de l'examen de validité des initiatives constitutionnelles.
+**TF 1P.470/2005 du 23 décembre 2005 consid. 3.1**
+L'initiative populaire jurassienne «Contre l'aérodrome de Bressaucourt», qui demandait une votation consultative, avait été déclarée nulle ; le Tribunal fédéral a confirmé cette décision. Sur la question de savoir si une initiative cantonale ne peut porter que sur des règles de droit, il a approuvé une interprétation fondée notamment sur le texte de l'art. 139a Cst.
 
-> «Le droit international impératif (ius cogens) au sens de l'art. 53 de la Convention de Vienne sur le droit des traités comprend l'ensemble des normes impératives du droit international général qui sont reconnues par la communauté internationale des États dans son ensemble comme des normes auxquelles aucune dérogation n'est permise et qui ne peuvent être modifiées que par une norme ultérieure du droit international général ayant le même caractère.»
+> «Le texte de cette disposition est similaire à celui de l'art. 75 al. 1 Cst./JU; or, selon le message du Conseil fédéral, l'initiative législative consacrée à cette disposition ne peut concerner que des règles de droit (FF 1997 p. 465).»
 
-### Examen de proportionnalité pour les initiatives contraires au droit international
+## II. Risque de confusion : art. 139a OJ
 
-**ATF 139 I 16 c. 5.5.1**
-19 décembre 2012
-Le Tribunal fédéral développe des critères pour traiter les initiatives populaires contraires au droit international avant l'introduction de l'art. 139a Cst.
-Bien que cet arrêt soit antérieur à l'introduction de l'art. 139a Cst, il révèle les problèmes juridiques qui ont conduit à la création du nouvel article.
+De nombreux résultats pour «art. 139a» dans la jurisprudence concernent l'art. 139a de l'ancienne loi fédérale d'organisation judiciaire (OJ) : la révision d'un arrêt du Tribunal fédéral après que la Cour européenne des droits de l'homme a constaté une violation de la CEDH. Cette matière est aujourd'hui réglée par l'art. 122 LTF. Ces arrêts n'ont aucun rapport avec l'art. 139a Cst.
 
-> «En cas de contradiction insoluble entre le droit international et la disposition constitutionnelle acceptée par le peuple, le droit international a en principe la primauté, pour autant qu'il s'agisse de droit international impératif ou que les obligations de droit international servent au respect des droits de l'homme.»
+**ATF 123 I 283**
+20 octobre 1997
+Révision pour violation de la CEDH selon l'art. 139a OJ ; début du délai de révision et rapport avec l'art. 50 CEDH.
 
-## II. Examen de validité des initiatives populaires
+**ATF 124 II 480**
+24 août 1998
+L'art. 139a OJ s'applique également aux décisions rendues avant son entrée en vigueur.
 
-### Examen de validité matérielle
+> «La révision au sens de l'art. 139a OJ n'est recevable que si la réparation n'est pas possible autrement.»
 
-**ATF 143 I 129 c. 2.1**
+## III. Jurisprudence voisine sur l'initiative conçue en termes généraux en droit cantonal
+
+La question que le Tribunal fédéral aurait dû trancher en vertu de l'art. 189 al. 1bis Cst. (teneur de 2002), à savoir si un parlement met fidèlement en œuvre une demande populaire formulée en termes généraux, continue de se poser en droit cantonal. Les arrêts suivants concernent des initiatives cantonales. Ils illustrent la problématique, mais n'interprètent pas l'art. 139a Cst.
+
+**ATF 141 I 186 consid. 5**
+27 mai 2015
+Mise en œuvre de la «Kulturlandinitiative» zurichoise, acceptée sous la forme d'une proposition conçue en termes généraux. Le Parlement cantonal avait refusé d'entrer en matière sur le projet de mise en œuvre ; le Tribunal fédéral y a vu une violation des droits politiques (art. 34 al. 1 Cst.).
+
+> «En refusant d'entrer en matière sur le projet de mise en oeuvre de l'initiative qui lui était soumis par le Conseil d'Etat, le Parlement cantonal n'a pas correctement mis en oeuvre le contenu de la "Kulturlandinitiative" et a, ce faisant, violé les droits politiques des citoyens»
+
+**ATF 143 I 129 consid. 2.4**
 14 décembre 2016
-Le Tribunal fédéral précise les exigences relatives à la compatibilité matérielle des initiatives populaires avec le droit supérieur.
-Ces principes sont pertinents pour l'application de l'art. 139a Cst car ils marquent la procédure d'examen des initiatives contraires au droit international.
+Invalidation d'une initiative constitutionnelle fribourgeoise conçue en termes généraux pour violation de l'interdiction de discrimination (art. 8 al. 2 Cst.). Même une initiative conçue en termes généraux ne peut être interprétée au-delà de la volonté des signataires.
 
-> «Les initiatives populaires cantonales doivent être compatibles avec le droit supérieur. L'examen de la légalité matérielle s'effectue de manière restrictive et se limite aux violations manifestes et graves du droit de rang supérieur.»
-
-**ATF 129 I 232 c. 3.2**
-7 avril 2003
-Le Tribunal fédéral fixe les limites de la déclaration d'invalidité des initiatives populaires.
-Cet arrêt marque la compréhension de la situation exceptionnelle dans laquelle les initiatives peuvent être déclarées invalides - un principe qui a été codifié dans l'art. 139a Cst.
-
-> «Une initiative populaire ne peut être déclarée invalide que si elle viole le droit international impératif. Ceci résulte de l'importance fondamentale des droits populaires dans la démocratie suisse.»
-
-## III. Application depuis 2019
-
-### Aucune jurisprudence directe sur l'art. 139a Cst
-
-Depuis l'entrée en vigueur de l'art. 139a Cst le 1er janvier 2019, aucun ATF appliquant directement cette disposition n'a été rendu. Ceci s'explique par le fait que :
-
-- Aucune initiative constitutionnelle fédérale n'a été soumise au vote qui aurait déclenché l'art. 139a Cst
-- La procédure d'examen selon l'art. 139a Cst n'a pas encore trouvé d'application pratique
-- L'Assemblée fédérale n'a jusqu'à présent classé aucune initiative constitutionnelle comme contraire au droit international
-
-### Jurisprudence cantonale connexe
-
-**VB.2023.00485 du Tribunal administratif de Zurich**
-12 octobre 2023
-Le Tribunal administratif zurichois applique les principes de l'examen de validité à une initiative communale.
-Cet arrêt montre l'application pratique des principes qui sous-tendent également l'art. 139a Cst, au niveau subordonné.
-
-> «L'examen de la compatibilité avec le droit supérieur s'effectue de manière retenue et se limite aux violations manifestes de normes juridiques impératives.»
-
-## IV. Jurisprudence sur l'initiative d'autodétermination (préhistoire de l'art. 139a Cst)
-
-### Discussion sur les initiatives contraires au droit international
-
-**Arrêt 1C_591/2018 du Tribunal fédéral**
-12 novembre 2018
-Le Tribunal fédéral traite les recours concernant l'initiative d'autodétermination, qui a contribué aux réflexions ayant conduit à l'introduction de l'art. 139a Cst.
-Cet arrêt illustre les tensions constitutionnelles que l'art. 139a Cst cherchait à résoudre.
-
-> «L'initiative soulève des questions fondamentales sur le rapport entre droit international et droit national, qui nécessitent une clarification constitutionnelle.»
-
-L'importance pratique de l'art. 139a Cst ne se révélera qu'avec de futures initiatives constitutionnelles qui déclencheront la procédure définie à l'al. 3. La jurisprudence existante sur les questions connexes offre toutefois d'importantes aides à l'interprétation pour l'application future de cette disposition.
+> «Par conséquent, même si l'initiative est conçue en termes généraux, on ne peut lui prêter un sens plus large que son texte, sans s'écarter de la volonté des signataires»
