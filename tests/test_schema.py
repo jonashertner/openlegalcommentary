@@ -52,3 +52,17 @@ def test_meta_to_yaml_roundtrip():
     yaml_str = meta.to_yaml()
     loaded = ArticleMeta.from_yaml(yaml_str)
     assert loaded == meta
+
+
+def test_withdrawn_roundtrip_and_default():
+    base = dict(
+        law="BV", article=141, article_suffix="a",
+        title="Umsetzung von völkerrechtlichen Verträgen", sr_number="101", absatz_count=2,
+        fedlex_url="https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_141a",
+    )
+    published = ArticleMeta(**base)
+    assert published.withdrawn is None
+    assert "withdrawn" not in published.to_yaml()
+
+    withdrawn = ArticleMeta(**base, withdrawn="2026-10-19")
+    assert ArticleMeta.from_yaml(withdrawn.to_yaml()).withdrawn == "2026-10-19"

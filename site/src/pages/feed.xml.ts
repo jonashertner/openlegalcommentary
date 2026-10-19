@@ -35,7 +35,7 @@ function collectEntries(): FeedEntry[] {
 
       try {
         const meta = yaml.load(fs.readFileSync(metaPath, 'utf-8')) as any;
-        if (!meta?.layers) continue;
+        if (!meta?.layers || meta.withdrawn) continue;
 
         for (const [layerName, layerMeta] of Object.entries(meta.layers) as [string, any][]) {
           if (layerMeta?.last_generated) {

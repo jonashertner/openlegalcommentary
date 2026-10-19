@@ -181,6 +181,8 @@ export interface ArticleMeta {
   lexfind_id?: number;
   lexfind_url: string;
   in_force_since: string;
+  /** ISO date the commentary was withdrawn after a failed fact-check. */
+  withdrawn?: string;
   layers: Record<string, LayerMeta>;
 }
 
@@ -236,10 +238,13 @@ const LAYERS = ['summary', 'doctrine', 'caselaw'] as const;
 
 const _commentaryCache = new Map<string, boolean>();
 
-function dirHasCommentary(artDir: string): boolean {
+/** Withdrawn articles count as uncommented everywhere: page, search, sitemap, stats. */
+function dirHasCommentary(law: string, dirName: string): boolean {
+  const artDir = path.join(CONTENT_ROOT, law.toLowerCase(), dirName);
   let has = _commentaryCache.get(artDir);
   if (has === undefined) {
-    has = LAYERS.some((layer) => !isPlaceholder(readFileIfExists(path.join(artDir, `${layer}.md`))));
+    has = !loadArticleMeta(law, dirName)?.withdrawn
+      && LAYERS.some((layer) => !isPlaceholder(readFileIfExists(path.join(artDir, `${layer}.md`))));
     _commentaryCache.set(artDir, has);
   }
   return has;
@@ -281,8 +286,8 @@ export function loadArticle(law: string, dirName: string, lang: string = 'de'): 
     return deFile;
   }
 
-  // Scaffold placeholders count as "no content" so the page can say so.
-  const real = (text: string) => (isPlaceholder(text) ? '' : text);
+  // Scaffold placeholders and withdrawn commentary count as "no content" so the page can say so.
+  const real = (text: string) => (meta.withdrawn || isPlaceholder(text) ? '' : text);
   const summary = real(loadLayer('summary'));
   const doctrine = real(loadLayer('doctrine'));
   const caselaw = real(loadLayer('caselaw'));
@@ -347,7 +352,7 @@ function _listArticles(law: string): ArticleListItem[] {
     for (const dirName of dirs) {
       const meta = loadArticleMeta(law, dirName);
       if (meta) {
-        const hasCommentary = dirHasCommentary(path.join(CONTENT_ROOT, law.toLowerCase(), dirName));
+        const hasCommentary = dirHasCommentary(law, dirName);
         articles.push({ meta, dirName, slug: dirNameToSlug(dirName), hasCommentary });
       }
     }
@@ -420,7 +425,7 @@ export function getLawStats(law: string): LawStats {
   }
   let withContent = 0;
   for (const dirName of dirs) {
-    if (dirHasCommentary(path.join(CONTENT_ROOT, law.toLowerCase(), dirName))) {
+    if (dirHasCommentary(law, dirName)) {
       withContent++;
     }
   }

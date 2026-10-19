@@ -47,6 +47,12 @@ class ArticleMeta(BaseModel):
     lexfind_id: int | None = Field(default=None)
     lexfind_url: str = Field(default="")
     in_force_since: str = Field(default="")
+    withdrawn: str | None = Field(
+        default=None,
+        description="ISO date the commentary was taken off the site after a failed "
+        "fact-check; the site treats the article as unpublished until a reviewer "
+        "removes the field",
+    )
     layers: dict[str, LayerMeta] = Field(default_factory=dict)
 
     @field_validator("law")

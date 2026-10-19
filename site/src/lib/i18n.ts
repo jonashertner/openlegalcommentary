@@ -375,6 +375,12 @@ const translations: Record<string, Record<Lang, string>> = {
     it: "Questo articolo non è ancora commentato. Il testo di legge è riportato a titolo indicativo; fa fede unicamente la pubblicazione ufficiale.",
     en: 'This article has no commentary yet. The statute text is shown for orientation; only the official publication is authoritative.',
   },
+  'article.withdrawn_body': {
+    de: 'Die bisherige Kommentierung dieses Artikels wurde zurückgezogen, weil eine Prüfung anhand des amtlichen Wortlauts Fehler ergeben hat. Sie wird neu erstellt. Der Gesetzestext dient der Orientierung; massgeblich ist die amtliche Veröffentlichung.',
+    fr: "Le commentaire de cet article a été retiré, car une vérification au regard du texte officiel a révélé des erreurs. Il sera rédigé à nouveau. Le texte légal est affiché à titre indicatif ; seule la publication officielle fait foi.",
+    it: "Il commento di questo articolo è stato ritirato, poiché una verifica sulla base del testo ufficiale ha rivelato errori. Sarà redatto nuovamente. Il testo di legge è riportato a titolo indicativo; fa fede unicamente la pubblicazione ufficiale.",
+    en: 'The commentary on this article has been withdrawn because a check against the official text found errors. It is being rewritten. The statute text is shown for orientation; only the official publication is authoritative.',
+  },
   'article.pending_cta': { de: 'Bereits kommentiert: Bundesverfassung', fr: 'Déjà commentée : Constitution fédérale', it: 'Già commentata: Costituzione federale', en: 'Already annotated: Federal Constitution' },
 
   // Law index
