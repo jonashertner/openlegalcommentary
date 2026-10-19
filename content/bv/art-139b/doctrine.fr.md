@@ -87,7 +87,7 @@
 
 ### 6. Indications pratiques
 
-**N. 24** La procédure prévue par l'art. 139b Cst. a été appliquée à plusieurs reprises au niveau fédéral depuis 1987. Un exemple marquant est la votation du 9 février 2003 sur l'initiative populaire «contre les abus en matière d'asile» et le contre-projet direct de l'Assemblée fédérale, lors de laquelle le contre-projet l'a emporté grâce à la question subsidiaire. En dépit de cette pertinence pratique, l'art. 139b Cst. n'a jusqu'à présent engendré aucune jurisprudence du Tribunal fédéral portant directement sur son contenu normatif, car les résultats de votations fédérales sont rarement contestés avec succès devant le Tribunal fédéral (cf. art. 80 LDP ; **ATF 137 II 177** consid. 2 ss).
+**N. 24** La procédure du double oui avec question subsidiaire a été appliquée à plusieurs reprises au niveau fédéral. En dépit de cette pertinence pratique, l'art. 139b Cst. n'a jusqu'à présent engendré aucune jurisprudence du Tribunal fédéral portant directement sur son contenu normatif, car les résultats de votations fédérales sont rarement contestés avec succès devant le Tribunal fédéral (cf. art. 80 LDP ; **ATF 137 II 177** consid. 2 ss).
 
 **N. 25** Pour la pratique des autorités fédérales, la conception du bulletin de vote est centrale. Les trois questions prévues à l'art. 76 al. 1 LDP doivent être formulées de manière claire et compréhensible, et leur rapport doit être intelligible pour les électeurs. La règle de la somme de l'al. 3 exige en particulier une explication accessible (→ art. 34 al. 2 Cst.).
 

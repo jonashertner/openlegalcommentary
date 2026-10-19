@@ -87,7 +87,7 @@
 
 ### 6. Praxishinweise
 
-**N. 24** Das Verfahren nach Art. 139b BV ist auf Bundesebene seit 1987 mehrfach angewendet worden. Ein prominentes Beispiel ist die Abstimmung vom 9. Februar 2003 über die Volksinitiative «gegen Asylmissbrauch» und den direkten Gegenentwurf der Bundesversammlung, bei der der Gegenentwurf über die Stichfrage siegte. Trotz dieser praktischen Relevanz hat Art. 139b BV bis heute keine bundesgerichtliche Rechtsprechung unmittelbar zu seinem Normgehalt hervorgerufen, da eidgenössische Abstimmungsergebnisse vor dem Bundesgericht selten erfolgreich angefochten werden (vgl. Art. 80 BPR; **BGE 137 II 177** E. 2 ff.).
+**N. 24** Das Verfahren mit doppeltem Ja und Stichfrage ist auf Bundesebene mehrfach angewendet worden. Trotz dieser praktischen Relevanz hat Art. 139b BV bis heute keine bundesgerichtliche Rechtsprechung unmittelbar zu seinem Normgehalt hervorgerufen, da eidgenössische Abstimmungsergebnisse vor dem Bundesgericht selten erfolgreich angefochten werden (vgl. Art. 80 BPR; **BGE 137 II 177** E. 2 ff.).
 
 **N. 25** Für die Praxis der Bundesbehörden ist die Gestaltung des Stimmzettels zentral. Die drei Fragen nach Art. 76 Abs. 1 BPR sind klar und verständlich zu formulieren, und ihr Zusammenhang muss für die Stimmberechtigten nachvollziehbar sein. Namentlich die Summenregel nach Abs. 3 erfordert eine zugängliche Erläuterung (→ Art. 34 Abs. 2 BV).
 
