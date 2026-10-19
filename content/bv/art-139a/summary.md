@@ -4,7 +4,7 @@ Art. 139a BV regelt die Prüfung von eidgenössischen Volksinitiativen auf ihre 
 
 **Was regelt die Norm?**
 
-Die Bundesversammlung muss bei jeder gültigen Verfassungsinitiative prüfen, ob diese mit völkerrechtlichen Verpflichtungen der Schweiz vereinbar ist. Dies umfasst alle Arten des Völkerrechts — von völkerrechtlichen Verträgen bis hin zu Völkergewohnheitsrecht (Waldmann, BSK BV, Art. 139a N. 4). Falls eine Unvereinbarkeit festgestellt wird, müssen Bundesrat und Bundesversammlung die Stimmberechtigten über die «Bedeutung und Tragweite» einer Annahme der Initiative informieren.
+Die Bundesversammlung muss bei jeder gültigen Verfassungsinitiative prüfen, ob diese mit völkerrechtlichen Verpflichtungen der Schweiz vereinbar ist. Dies umfasst alle Arten des Völkerrechts — von völkerrechtlichen Verträgen bis hin zu Völkergewohnheitsrecht. Falls eine Unvereinbarkeit festgestellt wird, müssen Bundesrat und Bundesversammlung die Stimmberechtigten über die «Bedeutung und Tragweite» einer Annahme der Initiative informieren.
 
 **Wer ist betroffen?**
 
@@ -12,7 +12,7 @@ Direkt betroffen sind die Initiativkomitees, deren Begehren geprüft werden, sow
 
 **Was sind die Rechtsfolgen?**
 
-Im Unterschied zu Art. 139 Abs. 3 BV führt eine festgestellte Völkerrechtswidrigkeit nicht zur Ungültigerklärung der Initiative. Die Hauptrechtsfolge besteht in einer verstärkten Informationspflicht: Die Abstimmungsunterlagen müssen objektiv und verständlich über die Konsequenzen einer Annahme aufklären (Epiney, BSK BV, Art. 139a N. 8). Die Initiative bleibt gültig und kommt zur Abstimmung.
+Im Unterschied zu Art. 139 Abs. 3 BV führt eine festgestellte Völkerrechtswidrigkeit nicht zur Ungültigerklärung der Initiative. Die Hauptrechtsfolge besteht in einer verstärkten Informationspflicht: Die Abstimmungsunterlagen müssen objektiv und verständlich über die Konsequenzen einer Annahme aufklären. Die Initiative bleibt gültig und kommt zur Abstimmung.
 
 **Konkretes Beispiel**
 

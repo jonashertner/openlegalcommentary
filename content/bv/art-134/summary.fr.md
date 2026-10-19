@@ -12,4 +12,4 @@ La norme protège les contribuables contre une double charge par la Confédérat
 
 L'interdiction ne saisit que les impôts au sens propre, non les redevances causales comme les émoluments ou les charges préférentielles (**ATF 86 I 97** consid. 2). Les cantons peuvent donc continuer à prélever des émoluments pour des prestations étatiques concrètes, même si la Confédération impose des objets similaires.
 
-Dans la pratique juridique, des problèmes naissent surtout lors de la délimitation entre impôts et redevances causales ainsi que lors de l'appréciation des différences techniques entre redevances fédérales et cantonales. La doctrine critique en partie l'interprétation restrictive du Tribunal fédéral comme trop « favorable aux cantons » (Biaggini, BSK BV, art. 134 ch. 6).
+Dans la pratique juridique, des problèmes naissent surtout lors de la délimitation entre impôts et redevances causales ainsi que lors de l'appréciation des différences techniques entre redevances fédérales et cantonales. La doctrine critique en partie l'interprétation restrictive du Tribunal fédéral comme trop « favorable aux cantons ».

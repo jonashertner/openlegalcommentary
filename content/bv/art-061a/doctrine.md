@@ -2,15 +2,15 @@
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Art. 61a BV ist das Herzstück der 2006 vom Volk und Ständen angenommenen «Bildungsverfassung» und markiert einen Paradigmenwechsel in der schweizerischen Bildungspolitik. Die Bestimmung entstand als Reaktion auf die zunehmende Fragmentierung des Bildungswesens und die Herausforderungen der Bildungsmobilität in einem föderalistischen System (Hänni, BSK BV, Art. 61a N. 15–19).
+**N. 1** Art. 61a BV ist das Herzstück der 2006 vom Volk und Ständen angenommenen «Bildungsverfassung» und markiert einen Paradigmenwechsel in der schweizerischen Bildungspolitik. Die Bestimmung entstand als Reaktion auf die zunehmende Fragmentierung des Bildungswesens und die Herausforderungen der Bildungsmobilität in einem föderalistischen System.
 
-**N. 2** Die parlamentarische Entstehung der Bildungsverfassung ist bemerkenswert, da sie nicht auf eine Vorlage des Bundesrates zurückgeht, sondern aus der parlamentarischen Initiative Zbinden (97.419) hervorging. Nach dem Scheitern früherer Versuche einer umfassenden Bildungsreform in den 1970er Jahren (BBl 1972 I 375 ff.) erarbeitete die WBK-NR zwischen 2003 und 2005 eine neue Konzeption, die den Föderalismus nicht schwächt, sondern durch Koordination stärkt (Hänni, BSK BV, Art. 61a N. 8–9).
+**N. 2** Die parlamentarische Entstehung der Bildungsverfassung ist bemerkenswert, da sie nicht auf eine Vorlage des Bundesrates zurückgeht, sondern aus der parlamentarischen Initiative Zbinden (97.419) hervorging. Nach dem Scheitern früherer Versuche einer umfassenden Bildungsreform in den 1970er Jahren (BBl 1972 I 375 ff.) erarbeitete die WBK-NR zwischen 2003 und 2005 eine neue Konzeption, die den Föderalismus nicht schwächt, sondern durch Koordination stärkt.
 
-**N. 3** Der Bundesrat stand der Vorlage kritisch gegenüber und schlug vor, das Wort «gemeinsam» in Abs. 2 zu streichen, da es rechtlich nicht eindeutig sei (Hänni, BSK BV, Art. 61a N. 24). Das Parlament hielt jedoch an der Formulierung fest, um die partnerschaftliche Verantwortung von Bund und Kantonen zu betonen.
+**N. 3** Der Bundesrat stand der Vorlage kritisch gegenüber und schlug vor, das Wort «gemeinsam» in Abs. 2 zu streichen, da es rechtlich nicht eindeutig sei. Das Parlament hielt jedoch an der Formulierung fest, um die partnerschaftliche Verantwortung von Bund und Kantonen zu betonen.
 
 ### 2. Systematische Einordnung
 
-**N. 4** Art. 61a BV bildet den programmatischen Auftakt des 3. Abschnitts über «Bildung, Forschung und Kultur» und ist systematisch eng mit den nachfolgenden Spezialbestimmungen verknüpft: → Art. 62 BV (Schulwesen), → Art. 63 BV (Berufsbildung), → Art. 63a BV (Hochschulen), → Art. 64a BV (Weiterbildung). Die Norm fungiert als übergreifende Klammer, die alle Bildungsstufen umfasst (Hänni, BSK BV, Art. 61a N. 10–12).
+**N. 4** Art. 61a BV bildet den programmatischen Auftakt des 3. Abschnitts über «Bildung, Forschung und Kultur» und ist systematisch eng mit den nachfolgenden Spezialbestimmungen verknüpft: → Art. 62 BV (Schulwesen), → Art. 63 BV (Berufsbildung), → Art. 63a BV (Hochschulen), → Art. 64a BV (Weiterbildung). Die Norm fungiert als übergreifende Klammer, die alle Bildungsstufen umfasst.
 
 **N. 5** Die Koordinationspflicht nach Art. 61a Abs. 2 BV geht über die allgemeine Kooperationsverpflichtung von → Art. 44 BV hinaus. Während in der Lehre umstritten ist, ob eine «erheblich über das Mass von Art. 44 hinausgehende Pflicht» besteht (ablehnend: Biaggini, Komm. BV, Art. 61a N. 25; bejahend: WBK-NR), zeigt die Praxis, dass Art. 61a BV spezifische Koordinationsinstrumente wie das HarmoS-Konkordat legitimiert.
 
@@ -18,15 +18,15 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** **Bildungsraum Schweiz (Abs. 1)**: Der Begriff umfasst alle Bildungsstufen von der Vorschule bis zur quartären Bildung sowie formale, non-formale und informelle Bildung. Der «Raum» ist nicht geografisch, sondern funktional zu verstehen als kohärentes System mit durchlässigen Übergängen (Hänni, BSK BV, Art. 61a N. 20–21).
+**N. 7** **Bildungsraum Schweiz (Abs. 1)**: Der Begriff umfasst alle Bildungsstufen von der Vorschule bis zur quartären Bildung sowie formale, non-formale und informelle Bildung. Der «Raum» ist nicht geografisch, sondern funktional zu verstehen als kohärentes System mit durchlässigen Übergängen.
 
-**N. 8** **Qualität**: Die Qualitätssicherung bezieht sich sowohl auf Bildungsinhalte als auch auf Strukturen und Prozesse. Sie umfasst Mindeststandards, Evaluationsmechanismen und kontinuierliche Verbesserung. Der Begriff ist dynamisch und orientiert sich an internationalen Standards (Hänni, BSK BV, Art. 61a N. 22).
+**N. 8** **Qualität**: Die Qualitätssicherung bezieht sich sowohl auf Bildungsinhalte als auch auf Strukturen und Prozesse. Sie umfasst Mindeststandards, Evaluationsmechanismen und kontinuierliche Verbesserung. Der Begriff ist dynamisch und orientiert sich an internationalen Standards.
 
-**N. 9** **Durchlässigkeit**: Zentral ist die vertikale (zwischen Bildungsstufen) und horizontale (zwischen Bildungsgängen) Mobilität. Durchlässigkeit erfordert gegenseitige Anerkennung von Abschlüssen, kompatible Strukturen und Anschlussfähigkeit der Bildungsgänge (Hänni, BSK BV, Art. 61a N. 23–24).
+**N. 9** **Durchlässigkeit**: Zentral ist die vertikale (zwischen Bildungsstufen) und horizontale (zwischen Bildungsgängen) Mobilität. Durchlässigkeit erfordert gegenseitige Anerkennung von Abschlüssen, kompatible Strukturen und Anschlussfähigkeit der Bildungsgänge.
 
-**N. 10** **Koordination und Zusammenarbeit (Abs. 2)**: Die «gemeinsame» Sorge begründet eine verfassungsrechtliche Pflicht zur Kooperation, die über blosse Konsultation hinausgeht. Bund und Kantone müssen ihre Massnahmen aufeinander abstimmen und können nicht isoliert handeln (Hänni, BSK BV, Art. 61a N. 25–26).
+**N. 10** **Koordination und Zusammenarbeit (Abs. 2)**: Die «gemeinsame» Sorge begründet eine verfassungsrechtliche Pflicht zur Kooperation, die über blosse Konsultation hinausgeht. Bund und Kantone müssen ihre Massnahmen aufeinander abstimmen und können nicht isoliert handeln.
 
-**N. 11** **Gleichwertige Anerkennung (Abs. 3)**: Die Norm postuliert die Gleichwertigkeit von allgemeinbildenden und berufsbezogenen Bildungswegen. Dies verbietet eine hierarchische Bewertung und fordert gleichberechtigte Zugänge zu weiterführenden Bildungsgängen (Hänni, BSK BV, Art. 61a N. 27).
+**N. 11** **Gleichwertige Anerkennung (Abs. 3)**: Die Norm postuliert die Gleichwertigkeit von allgemeinbildenden und berufsbezogenen Bildungswegen. Dies verbietet eine hierarchische Bewertung und fordert gleichberechtigte Zugänge zu weiterführenden Bildungsgängen.
 
 ### 4. Rechtsfolgen
 

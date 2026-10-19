@@ -20,9 +20,9 @@
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 7** **Infraction déterminante**: La disposition vise les personnes qui «sont condamnées pour avoir porté atteinte à l'intégrité sexuelle d'un enfant ou d'une personne dépendante». Göksu défend la position selon laquelle la consommation de pornographie enfantine est également visée, car le consommateur se trouve «dans le domaine d'application de l'interdiction» (Göksu, BSK BV, art. 123c N. 8). Cela correspond à **l'ATF 149 IV 161**, qui confirme un large champ d'application.
+**N. 7** **Infraction déterminante**: La disposition vise les personnes qui «sont condamnées pour avoir porté atteinte à l'intégrité sexuelle d'un enfant ou d'une personne dépendante». Göksu défend la position selon laquelle la consommation de pornographie enfantine est également visée, car le consommateur se trouve «dans le domaine d'application de l'interdiction». Cela correspond à **l'ATF 149 IV 161**, qui confirme un large champ d'application.
 
-**N. 8** **Notion d'enfant**: Selon la doctrine dominante, sont considérées comme enfants les personnes de moins de 16 ans, par analogie avec l'âge de protection en droit pénal sexuel (→ art. 187 CP). La version française («mineur») renvoie aux mineurs de moins de 18 ans, ce qui crée des problèmes d'interprétation (Göksu, BSK BV, art. 123c N. 11).
+**N. 8** **Notion d'enfant**: Selon la doctrine dominante, sont considérées comme enfants les personnes de moins de 16 ans, par analogie avec l'âge de protection en droit pénal sexuel (→ art. 187 CP). La version française («mineur») renvoie aux mineurs de moins de 18 ans, ce qui crée des problèmes d'interprétation.
 
 **N. 9** **Personne dépendante**: Cette notion englobe les personnes dans une relation de dépendance particulière, notamment en raison d'un handicap, d'une maladie ou d'une relation de prise en charge. La délimitation exacte reste controversée en doctrine et en jurisprudence.
 
@@ -30,13 +30,13 @@
 
 **N. 10** **Automatisme de l'interdiction**: La Constitution ordonne impérativement une interdiction «définitive», sans marge d'appréciation pour les tribunaux. Cet automatisme a été mis en œuvre par le législateur dans l'art. 67 al. 2bis CP comme interdiction d'exercer une activité «à vie», avec possibilité de révision après dix ans (art. 67c al. 6 CP).
 
-**N. 11** **Étendue des activités interdites**: Sont visées les activités professionnelles et extraprofessionnelles avec des mineurs ou d'autres personnes particulièrement vulnérables. Le Conseil fédéral interprète cela restrictivement: seules les activités «avec» des mineurs sont visées, pas celles où «un simple contact est possible» (Göksu, BSK BV, art. 123c N. 25, se référant au message). Göksu critique le fait que le texte français soit plus large et vise «toute activité permettant des contacts avec des enfants».
+**N. 11** **Étendue des activités interdites**: Sont visées les activités professionnelles et extraprofessionnelles avec des mineurs ou d'autres personnes particulièrement vulnérables. Le Conseil fédéral interprète cela restrictivement: seules les activités «avec» des mineurs sont visées, pas celles où «un simple contact est possible». Göksu critique le fait que le texte français soit plus large et vise «toute activité permettant des contacts avec des enfants».
 
 **N. 12** **Réserve de proportionnalité**: Le législateur a créé dans l'art. 67 al. 4bis CP une disposition d'exception pour les «cas particulièrement peu graves». Celle-ci est interprétée de manière extrêmement restrictive selon **l'ATF 149 IV 161 consid. 2.5.1**: l'interdiction d'exercer une activité à vie doit rester la règle.
 
 ### 5. Points controversés
 
-**N. 13** **Applicabilité directe**: Un point de controverse central concerne l'applicabilité immédiate de la disposition constitutionnelle. Göksu soutient que la disposition est «suffisamment déterminée pour pouvoir être appliquée directement, bien que dans un cadre limité» (Göksu, BSK BV, art. 123c N. 2). Le Conseil fédéral argumentait au contraire que la disposition «ne pourra pas se passer d'une mise en œuvre au niveau légal» (FF 2012 8141, 8160).
+**N. 13** **Applicabilité directe**: Un point de controverse central concerne l'applicabilité immédiate de la disposition constitutionnelle. Göksu soutient que la disposition est «suffisamment déterminée pour pouvoir être appliquée directement, bien que dans un cadre limité». Le Conseil fédéral argumentait au contraire que la disposition «ne pourra pas se passer d'une mise en œuvre au niveau légal» (FF 2012 8141, 8160).
 
 **N. 14** **Portée de l'interdiction d'exercer une activité**: L'étendue des activités visées fait l'objet de discussions controversées. Tandis qu'une interprétation étroite ne vise que les activités de prise en charge directe, d'autres plaident pour une interprétation large incluant tout contact possible avec des mineurs. La jurisprudence tend vers l'interprétation étroite (TAF ZH, VB.2014.00008).
 

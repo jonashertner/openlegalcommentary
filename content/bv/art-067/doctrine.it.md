@@ -19,7 +19,7 @@
 
 ### 3. Elementi di fattispecie / Contenuto normativo
 
-**N. 5** Il **capoverso 1** statuisce un compito trasversale: Confederazione e Cantoni devono considerare, nell'adempimento dei loro compiti, le esigenze particolari di promozione e protezione di bambini e giovani. Questo obbligo vale in modo comprensivo per tutte le attività statali, dalla legislazione all'applicazione del diritto fino all'attività amministrativa effettiva (Tschentscher, BSK BV, Art. 67 N. 3).
+**N. 5** Il **capoverso 1** statuisce un compito trasversale: Confederazione e Cantoni devono considerare, nell'adempimento dei loro compiti, le esigenze particolari di promozione e protezione di bambini e giovani. Questo obbligo vale in modo comprensivo per tutte le attività statali, dalla legislazione all'applicazione del diritto fino all'attività amministrativa effettiva.
 
 **N. 6** Il concetto di «bambini e giovani» comprende le persone fino al compimento del 18° anno di età, in conformità all'art. 1 della Convenzione ONU sui diritti del fanciullo. Le «esigenze particolari di promozione e protezione» derivano dalla vulnerabilità legata allo sviluppo e dal particolare potenziale di questa fascia di età.
 
@@ -37,7 +37,7 @@
 
 ### 5. Controversie
 
-**N. 12** **Portata della competenza federale**: Nella dottrina è controverso fino a che punto si estenda la competenza federale secondo l'art. 67 cpv. 2 Cost. Tschentscher (BSK BV, Art. 67 N. 5) sostiene che alla Confederazione spetti una prerogativa di valutazione su quando e come un «completamento» sia sensato, per cui la competenza federale diventa sostanzialmente una competenza parallela illimitata. A questa interpretazione concordano Aubert/Mahon (Petit commentaire, Art. 67 N. 8) e Gerber Jenni (SG-Komm. BV, Art. 67 N. 14). Biaggini (Komm. BV, Art. 67 N. 3) è di diverso avviso e sottolinea maggiormente i limiti costituzionali della competenza federale.
+**N. 12** **Portata della competenza federale**: Nella dottrina è controverso fino a che punto si estenda la competenza federale secondo l'art. 67 cpv. 2 Cost. Tschentscher sostiene che alla Confederazione spetti una prerogativa di valutazione su quando e come un «completamento» sia sensato, per cui la competenza federale diventa sostanzialmente una competenza parallela illimitata. A questa interpretazione concordano Aubert/Mahon (Petit commentaire, Art. 67 N. 8) e Gerber Jenni (SG-Komm. BV, Art. 67 N. 14). Biaggini (Komm. BV, Art. 67 N. 3) è di diverso avviso e sottolinea maggiormente i limiti costituzionali della competenza federale.
 
 **N. 13** **Giustiziabilità della clausola trasversale**: Sussiste disaccordo su fino a che punto l'art. 67 cpv. 1 Cost. sia giustiziabile. Mentre la giurisprudenza tratta la norma principalmente come disposizione programmatica, parti della dottrina richiedono una più forte applicabilità giudiziaria dell'obbligo di considerazione, in particolare in caso di gravi pregiudizi agli interessi dei bambini (Wyttenbach, in: Schweizerische Kinder- und Jugendpolitik, 2001, p. 45 segg.).
 

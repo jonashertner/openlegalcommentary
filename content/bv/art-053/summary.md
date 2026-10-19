@@ -4,7 +4,7 @@
 
 Art. 53 BV schützt die 26 Kantone vor einseitigen territorialen Veränderungen und regelt die Verfahren für Gebietsänderungen. Der Bund garantiert sowohl den Bestand (die Existenz der Kantone) als auch deren Gebiet (territoriale Grenzen). Diese Norm ist eine Grundvoraussetzung des schweizerischen Bundesstaates (BBl 1997 I 148).
 
-Bestandesänderungen wie die Schaffung neuer Kantone sind sehr schwierig. Sie brauchen die dreifache Zustimmung: die betroffene Bevölkerung, die betroffenen Kantone sowie Volk und Stände müssen alle zustimmen. Bisher ist dies seit 1848 nur einmal gelungen - bei der Gründung des Kantons Jura 1979 (Belser/Massüger, BSK BV, Art. 53 N. 5-13).
+Bestandesänderungen wie die Schaffung neuer Kantone sind sehr schwierig. Sie brauchen die dreifache Zustimmung: die betroffene Bevölkerung, die betroffenen Kantone sowie Volk und Stände müssen alle zustimmen. Bisher ist dies seit 1848 nur einmal gelungen - bei der Gründung des Kantons Jura 1979.
 
 Gebietsveränderungen zwischen bestehenden Kantonen sind einfacher, aber immer noch aufwendig. Wenn eine Gemeinde den Kanton wechseln will, müssen die betroffene Bevölkerung und die beiden Kantone zustimmen. Danach muss die Bundesversammlung den Wechsel genehmigen. So geschah es beim Kantonswechsel der Gemeinde Vellerat vom Kanton Bern zum Kanton Jura 1996 (BBl 1995 IV 1349).
 

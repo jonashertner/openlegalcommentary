@@ -18,7 +18,7 @@
 
 **N. 5** **Separate deliberations (para. 1)**: The principle of separate deliberation means that the National Council and Council of States hold their sessions separately and deliberate independently of each other. According to Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4th ed. 2023, Art. 156 N. 3), this is an expression of the full equality of both chambers and prevents the dominance of one council.
 
-**N. 6** **Agreement (para. 2)**: The consensus principle requires the substantive agreement of both councils for every Federal Assembly decree. According to Waldmann/Belser/Epiney (BSK BV, 2nd ed. 2024, Art. 156 N. 8), a mere majority in a combined parliament does not suffice, but identical decisions by both chambers are required. This applies to acts, ordinances of the Federal Assembly, federal decrees and simple federal decrees (→ Art. 163 FC).
+**N. 6** **Agreement (para. 2)**: The consensus principle requires the substantive agreement of both councils for every Federal Assembly decree. According to Waldmann/Belser/Epiney, a mere majority in a combined parliament does not suffice, but identical decisions by both chambers are required. This applies to acts, ordinances of the Federal Assembly, federal decrees and simple federal decrees (→ Art. 163 FC).
 
 **N. 7** **Differences settlement procedure (para. 3)**: The Constitution obliges the legislature to provide for a procedure that enables a solution in case of disagreements. The areas listed in lit. a–d are exhaustive according to Tschannen (in: St. Galler Kommentar BV, Art. 156 N. 12), which means that in other areas a blockade by one council remains possible.
 
@@ -34,7 +34,7 @@
 
 **N. 11** **Scope of the consensus principle**: The extent to which the requirement of agreement reaches is disputed in doctrine. While Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3rd ed. 2016, § 15 N. 42) advocate a strict interpretation, according to which any difference, even purely editorial, excludes agreement, Graf/Theler/von Wyss (Parlamentsrecht und Parlamentspraxis, 2014, § 23 N. 15) argue for a more pragmatic view that tolerates insubstantial deviations.
 
-**N. 12** **Justiciability of procedural rules**: Whether and to what extent violations of Art. 156 FC are subject to judicial review is controversially discussed. Müller (in: BSK BV, Art. 156 N. 14) takes the position that gross procedural errors in the legislative procedure can lead to the invalidity of the enactment. The prevailing doctrine (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4th ed. 2014, § 28 N. 32), however, views parliamentary procedural rules as largely non-justiciable.
+**N. 12** **Justiciability of procedural rules**: Whether and to what extent violations of Art. 156 FC are subject to judicial review is controversially discussed. Müller takes the position that gross procedural errors in the legislative procedure can lead to the invalidity of the enactment. The prevailing doctrine (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4th ed. 2014, § 28 N. 32), however, views parliamentary procedural rules as largely non-justiciable.
 
 ### 6. Practical notes
 

@@ -20,7 +20,7 @@
 
 **N. 5** Il capoverso 1 stabilisce come principio che Confederazione e Cantoni assicurano un finanziamento sufficiente dell'infrastruttura ferroviaria. Il concetto di «infrastruttura ferroviaria» comprende secondo il messaggio tutti gli impianti necessari per il traffico ferroviario: binari, stazioni, impianti di sicurezza, alimentazione elettrica e telematica (FF 2012 1469, 1534).
 
-**N. 6** Il «finanziamento sufficiente» è un concetto giuridico indeterminato che deve essere concretizzato dal legislatore. Kern sottolinea che con ciò s'intende sia il mantenimento della sostanza sia il potenziamento secondo i bisogni (Kern, BSK BV, Art. 87a N. 3). La responsabilità comune di Confederazione e Cantoni rispecchia la struttura federalistica del sistema ferroviario svizzero.
+**N. 6** Il «finanziamento sufficiente» è un concetto giuridico indeterminato che deve essere concretizzato dal legislatore. Kern sottolinea che con ciò s'intende sia il mantenimento della sostanza sia il potenziamento secondo i bisogni. La responsabilità comune di Confederazione e Cantoni rispecchia la struttura federalistica del sistema ferroviario svizzero.
 
 #### b) Fondo per l'infrastruttura ferroviaria (cpv. 2)
 
@@ -36,7 +36,7 @@
 
 **N. 9** La formulazione «al massimo due terzi» per la TTPCP (lett. a) dà al legislatore un margine di manovra. Almeno un terzo dei proventi della TTPCP deve essere utilizzato per altri scopi, segnatamente per i costi scoperti del traffico stradale nei Cantoni (art. 85 cpv. 2 Cost.).
 
-**N. 10** La quota dell'imposta sul valore aggiunto stabilita nella lett. c di 2,0 per mille è da intendere come grandezza assoluta. In caso di modifica dell'aliquota dell'imposta sul valore aggiunto, l'importo assoluto rimane invariato (Kern, BSK BV, Art. 87a N. 10).
+**N. 10** La quota dell'imposta sul valore aggiunto stabilita nella lett. c di 2,0 per mille è da intendere come grandezza assoluta. In caso di modifica dell'aliquota dell'imposta sul valore aggiunto, l'importo assoluto rimane invariato.
 
 #### c) Partecipazione cantonale (cpv. 3)
 
@@ -46,7 +46,7 @@
 
 #### d) Finanziamento da parte di terzi (cpv. 4)
 
-**N. 13** Il capoverso 4 consente il finanziamento sussidiario da parte di terzi per progetti che il FInFer non finanzia o finanzia solo parzialmente. Come «terzi» possono entrare in considerazione privati, Comuni, ma anche Cantoni, nella misura in cui vanno oltre i loro contributi obbligatori (Kern, BSK BV, Art. 87a N. 23).
+**N. 13** Il capoverso 4 consente il finanziamento sussidiario da parte di terzi per progetti che il FInFer non finanzia o finanzia solo parzialmente. Come «terzi» possono entrare in considerazione privati, Comuni, ma anche Cantoni, nella misura in cui vanno oltre i loro contributi obbligatori.
 
 **N. 14** La disposizione è concepita come clausola di apertura che consente soluzioni di finanziamento flessibili. Casi tipici di applicazione sono raccordi ferroviari per imprese industriali o progetti di potenziamento locale con utilità primariamente regionale.
 
@@ -60,11 +60,11 @@
 
 ### 5. Punti controversi
 
-**N. 18** **Esclusività del FInFer**: È controverso se il FInFer rappresenti lo strumento di finanziamento esclusivo per l'infrastruttura ferroviaria. Kern è dell'opinione che fondamentalmente si debba partire da un finanziamento globale ed esclusivo tramite il FInFer (Kern, BSK BV, Art. 87a N. 20). Waldmeier al contrario propende per un'interpretazione più restrittiva che ammette finanziamenti aggiuntivi al di fuori del FInFer (SG Komm. BV-Waldmeier, Art. 87a N. 24).
+**N. 18** **Esclusività del FInFer**: È controverso se il FInFer rappresenti lo strumento di finanziamento esclusivo per l'infrastruttura ferroviaria. Kern è dell'opinione che fondamentalmente si debba partire da un finanziamento globale ed esclusivo tramite il FInFer. Waldmeier al contrario propende per un'interpretazione più restrittiva che ammette finanziamenti aggiuntivi al di fuori del FInFer (SG Komm. BV-Waldmeier, Art. 87a N. 24).
 
-**N. 19** **Rinuncia agli interessi**: La rinuncia agli interessi sui mezzi del FInFer prevista per legge è giudicata da Kern costituzionalmente problematica, poiché contraddirebbe il principio dell'impiego economico dei mezzi (Kern, BSK BV, Art. 87a N. 12). Questa posizione è tuttavia controversa, tanto più che la Costituzione stessa non prevede alcun obbligo di remunerazione.
+**N. 19** **Rinuncia agli interessi**: La rinuncia agli interessi sui mezzi del FInFer prevista per legge è giudicata da Kern costituzionalmente problematica, poiché contraddirebbe il principio dell'impiego economico dei mezzi. Questa posizione è tuttavia controversa, tanto più che la Costituzione stessa non prevede alcun obbligo di remunerazione.
 
-**N. 20** **Neutralità concorrenziale**: Si discute se la massiccia sovvenzione dell'infrastruttura ferroviaria distorca la concorrenza tra i vettori di trasporto. Kern non vi vede una violazione della libertà economica, bensì l'espressione di una politica dei trasporti orientativa (Kern, BSK BV, Art. 87a N. 19). Questa visione corrisponde alla dottrina dominante, che considera ammissibili le misure di orientamento della politica dei trasporti.
+**N. 20** **Neutralità concorrenziale**: Si discute se la massiccia sovvenzione dell'infrastruttura ferroviaria distorca la concorrenza tra i vettori di trasporto. Kern non vi vede una violazione della libertà economica, bensì l'espressione di una politica dei trasporti orientativa. Questa visione corrisponde alla dottrina dominante, che considera ammissibili le misure di orientamento della politica dei trasporti.
 
 ### 6. Indicazioni pratiche
 
@@ -74,4 +74,4 @@
 
 **N. 23** Il rigoroso vincolo di destinazione dei mezzi del FInFer significa che anche in caso di modifiche o ritardi dei progetti non è possibile un trasferimento di mezzi in altri settori. Ciò aumenta la pressione per una pianificazione e attuazione accurata dei progetti.
 
-**N. 24** Il Fondo per l'infrastruttura ferroviaria si è affermato secondo Kern come strumento di finanziamento innovativo adeguato ai lunghi cicli di pianificazione dell'infrastruttura ferroviaria (Kern, BSK BV, Art. 87a N. 24). L'ancoraggio costituzionale garantisce la necessaria sicurezza di pianificazione per i grandi progetti.
+**N. 24** Il Fondo per l'infrastruttura ferroviaria si è affermato secondo Kern come strumento di finanziamento innovativo adeguato ai lunghi cicli di pianificazione dell'infrastruttura ferroviaria. L'ancoraggio costituzionale garantisce la necessaria sicurezza di pianificazione per i grandi progetti.

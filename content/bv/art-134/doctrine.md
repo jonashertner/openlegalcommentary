@@ -6,7 +6,7 @@
 
 **N. 1** Art. 134 BV führt die unter der alten Bundesverfassung in verschiedenen Normen verstreuten Harmonisierungsbestimmungen zusammen (Art. 32bis Abs. 5, Art. 36ter, Art. 41bis Abs. 2 und Art. 41ter Abs. 2 aBV). Die Norm bezweckt gemäss der Botschaft des Bundesrates vom 20. November 1996 zur neuen Bundesverfassung eine «formelle Nachführung» der bisherigen Rechtslage (BBl 1997 I 389). Der Verfassungsgeber beabsichtigte keine materielle Änderung der etablierten Steuerordnung zwischen Bund und Kantonen.
 
-**N. 2** Die Bestimmung wurzelt historisch in der schrittweisen Erweiterung der Bundeskompetenzen im Steuerbereich. Während die Kantone ursprünglich über umfassende Steuerhoheit verfügten, führten die Finanzierungsbedürfnisse des Bundes zur sukzessiven Einführung von Bundessteuern. Mit jedem neuen Bundessteuergesetz stellte sich die Frage der Abgrenzung zu kantonalen Abgaben, um eine übermässige Belastung der Steuerpflichtigen zu vermeiden (Behnisch, BSK BV, Art. 134 N. 1).
+**N. 2** Die Bestimmung wurzelt historisch in der schrittweisen Erweiterung der Bundeskompetenzen im Steuerbereich. Während die Kantone ursprünglich über umfassende Steuerhoheit verfügten, führten die Finanzierungsbedürfnisse des Bundes zur sukzessiven Einführung von Bundessteuern. Mit jedem neuen Bundessteuergesetz stellte sich die Frage der Abgrenzung zu kantonalen Abgaben, um eine übermässige Belastung der Steuerpflichtigen zu vermeiden.
 
 ### 2. Systematische Einordnung
 
@@ -46,11 +46,11 @@
 ### 5. Streitstände
 
 **N. 12** **Auslegung der Gleichartigkeit**: Die Lehre ist in der Beurteilung der bundesgerichtlichen Rechtsprechung gespalten:
-- **Biaggini** (BSK BV, Art. 134 N. 6) kritisiert die Praxis als «kantonsfreundlich» bzw. «mehr fiskus- als bürgerfreundlich», weil die Kumulation von Steuern bloss durch ein Nebeneinander ersetzt werde.
-- **Behnisch** (BSK BV, Art. 134 N. 7, 20) lehnt die Rechtsprechung ab, die auf finanzwissenschaftliche Kategorien statt auf rechtstechnische Kriterien abstelle. Er fordert, das Bundesgericht solle sich von seiner «viel zu restriktiven Haltung» lösen.
+- **Biaggini** kritisiert die Praxis als «kantonsfreundlich» bzw. «mehr fiskus- als bürgerfreundlich», weil die Kumulation von Steuern bloss durch ein Nebeneinander ersetzt werde.
+- **Behnisch** lehnt die Rechtsprechung ab, die auf finanzwissenschaftliche Kategorien statt auf rechtstechnische Kriterien abstelle. Er fordert, das Bundesgericht solle sich von seiner «viel zu restriktiven Haltung» lösen.
 - **Vallender** (StR 1997, 1 ff.) verteidigt demgegenüber die differenzierende Betrachtungsweise des Bundesgerichts als sachgerecht.
 
-**N. 13** **Zivilrechtliche vs. steuerrechtliche Betrachtungsweise**: Bei der Abgrenzung von Stempelabgaben besteht ein Methodenstreit. Das Bundesgericht hat sich für eine zivilrechtliche Betrachtungsweise ausgesprochen und eine Belastung mit beiden Steuern akzeptiert (Behnisch, BSK BV, Art. 134 N. 29). Die Lehre ist hierzu geteilt:
+**N. 13** **Zivilrechtliche vs. steuerrechtliche Betrachtungsweise**: Bei der Abgrenzung von Stempelabgaben besteht ein Methodenstreit. Das Bundesgericht hat sich für eine zivilrechtliche Betrachtungsweise ausgesprochen und eine Belastung mit beiden Steuern akzeptiert. Die Lehre ist hierzu geteilt:
 - **Beusch** (Kommentar StG, Art. 3 N. 15 ff.) befürwortet die zivilrechtliche Qualifikation
 - **Blumenstein/Locher** (System, S. 358) plädieren für eine wirtschaftliche Betrachtungsweise
 

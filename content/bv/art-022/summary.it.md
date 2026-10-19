@@ -6,15 +6,15 @@ L'articolo 22 della Costituzione federale garantisce la libertà di riunione. Og
 
 ### Che cosa disciplina l'art. 22 Cost.?
 
-La libertà di riunione protegge il diritto di riunirsi pacificamente con altre persone. Ciò comprende sia piccoli gruppi sia grandi manifestazioni. Secondo la giurisprudenza bastano già due persone per una riunione (**BGE 129 IV 6** consid. 5.5.1). La protezione costituzionale non si riferisce principalmente al riunirsi fisico, bensì alla formazione collettiva dell'opinione (Hertig, BSK Cost., art. 22 n. 7).
+La libertà di riunione protegge il diritto di riunirsi pacificamente con altre persone. Ciò comprende sia piccoli gruppi sia grandi manifestazioni. Secondo la giurisprudenza bastano già due persone per una riunione (**BGE 129 IV 6** consid. 5.5.1). La protezione costituzionale non si riferisce principalmente al riunirsi fisico, bensì alla formazione collettiva dell'opinione.
 
-È fondamentale che siano protette soltanto le riunioni pacifiche. Il Tribunale federale ha ribadito ripetutamente che la Costituzione, nonostante il tenore letterale divergente, protegge soltanto le riunioni pacifiche (**BGE 129 IV 6** consid. 2.5; Hertig, BSK Cost., art. 22 n. 9). In caso di uso della violenza la protezione del diritto fondamentale viene meno, purché la violenza sovrasti completamente la componente di formazione dell'opinione.
+È fondamentale che siano protette soltanto le riunioni pacifiche. Il Tribunale federale ha ribadito ripetutamente che la Costituzione, nonostante il tenore letterale divergente, protegge soltanto le riunioni pacifiche (**BGE 129 IV 6** consid. 2.5). In caso di uso della violenza la protezione del diritto fondamentale viene meno, purché la violenza sovrasti completamente la componente di formazione dell'opinione.
 
 ### Chi è interessato?
 
-Sono protette tutte le persone che organizzano una riunione, vi partecipano o se ne astengono consapevolmente. Ciò comprende privati, associazioni e gruppi politici. La qualità di titolare del diritto spetta a tutti, indipendentemente dalla cittadinanza o dal domicilio (Hertig, BSK Cost., art. 22 n. 10).
+Sono protette tutte le persone che organizzano una riunione, vi partecipano o se ne astengono consapevolmente. Ciò comprende privati, associazioni e gruppi politici. La qualità di titolare del diritto spetta a tutti, indipendentemente dalla cittadinanza o dal domicilio.
 
-Sono possibili restrizioni: lo Stato può esigere un'autorizzazione per manifestazioni su suolo pubblico. La dottrina dominante considera questo obbligo di autorizzazione come una limitazione di un diritto fondamentale, che necessita di una base legale (Hertig, BSK Cost., art. 22 n. 18).
+Sono possibili restrizioni: lo Stato può esigere un'autorizzazione per manifestazioni su suolo pubblico. La dottrina dominante considera questo obbligo di autorizzazione come una limitazione di un diritto fondamentale, che necessita di una base legale.
 
 ### Quali sono le conseguenze giuridiche?
 

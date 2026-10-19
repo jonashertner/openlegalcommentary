@@ -10,13 +10,13 @@
 
 **N. 3** L'art. 85 Cst. se trouve dans le 3e titre (Confédération, cantons et communes), 5e chapitre (Travaux publics et transports) de la Constitution fédérale. La norme forme avec les art. 82–88 Cst. le fondement constitutionnel de la politique suisse des transports. Elle entretient un lien systématique étroit avec → l'art. 84 Cst. (Trafic de transit à travers les Alpes) et → l'art. 86 Cst. (Utilisation des redevances pour des tâches et des dépenses liées à la circulation routière).
 
-**N. 4** La redevance sur le trafic des poids lourds est une redevance d'incitation avec des objectifs fiscaux secondaires. Elle se distingue de l'impôt sur les huiles minérales (→ art. 86 al. 1 Cst.) par son lien direct avec les prestations kilométriques et les émissions polluantes. Contrairement aux impôts classiques, il existe une affectation du produit selon l'al. 2 (Epiney, BSK BV, art. 85 n. 11).
+**N. 4** La redevance sur le trafic des poids lourds est une redevance d'incitation avec des objectifs fiscaux secondaires. Elle se distingue de l'impôt sur les huiles minérales (→ art. 86 al. 1 Cst.) par son lien direct avec les prestations kilométriques et les émissions polluantes. Contrairement aux impôts classiques, il existe une affectation du produit selon l'al. 2.
 
 ## 3. Éléments constitutifs / Contenu de la norme
 
 ### 3.1 Compétence fédérale (al. 1)
 
-**N. 5** La compétence de perception de la Confédération est conçue comme une « disposition facultative ». La Confédération n'est pas obligée, mais autorisée à percevoir une redevance sur le trafic des poids lourds. La compétence est globale et exclut les redevances cantonales sur le trafic des poids lourds (Epiney, BSK BV, art. 85 n. 5).
+**N. 5** La compétence de perception de la Confédération est conçue comme une « disposition facultative ». La Confédération n'est pas obligée, mais autorisée à percevoir une redevance sur le trafic des poids lourds. La compétence est globale et exclut les redevances cantonales sur le trafic des poids lourds.
 
 **N. 6** La redevance peut être perçue « en fonction des prestations ou de la consommation ». En fonction des prestations signifie un calcul selon les kilomètres parcourus, en fonction de la consommation selon la consommation de carburant. La LRPL a opté pour une combinaison : kilomètres parcourus multipliés par un tarif dépendant du poids et des émissions (art. 6 LRPL).
 
@@ -24,11 +24,11 @@
 
 **N. 7** Le trafic lourd doit occasionner des coûts à la collectivité qui « ne sont pas couverts par d'autres prestations ou redevances ». Ceci comprend aussi bien les coûts d'infrastructure que les coûts externes comme les coûts environnementaux, sanitaires et d'accidents (FF 1993 II 792).
 
-**N. 8** Le concept de coûts externes est controversé. Le Tribunal fédéral a décidé dans l'**ATF 136 II 337** que les coûts externes « atypiques » comme les coûts de congestion sont également saisis (Epiney, BSK BV, art. 85 n. 9). Heuck critique cette interprétation large et argumente que les coûts de congestion sont des coûts internes au trafic qui ne sont pas externalisables (Heuck, URP 2010, 542). La doctrine dominante suit toutefois la jurisprudence du Tribunal fédéral (Epiney, BSK BV, art. 85 n. 9).
+**N. 8** Le concept de coûts externes est controversé. Le Tribunal fédéral a décidé dans l'**ATF 136 II 337** que les coûts externes « atypiques » comme les coûts de congestion sont également saisis. Heuck critique cette interprétation large et argumente que les coûts de congestion sont des coûts internes au trafic qui ne sont pas externalisables (Heuck, URP 2010, 542). La doctrine dominante suit toutefois la jurisprudence du Tribunal fédéral.
 
 ### 3.3 Affectation (al. 2)
 
-**N. 9** Le produit net doit être utilisé pour « les coûts liés au transport terrestre ». Cette formulation ouverte permet une utilisation large, non seulement pour l'infrastructure routière, mais aussi pour l'infrastructure ferroviaire, la protection contre le bruit ou la sécurité routière (Epiney, BSK BV, art. 85 n. 12).
+**N. 9** Le produit net doit être utilisé pour « les coûts liés au transport terrestre ». Cette formulation ouverte permet une utilisation large, non seulement pour l'infrastructure routière, mais aussi pour l'infrastructure ferroviaire, la protection contre le bruit ou la sécurité routière.
 
 ### 3.4 Part cantonale (al. 3)
 
@@ -38,7 +38,7 @@
 
 **N. 11** L'art. 85 Cst. ne fonde aucun droit ou obligation subjectif immédiat. La norme constitutionnelle nécessite une concrétisation par la LRPL et l'ORPL. Pour l'individu, l'obligation de payer la redevance ne naît qu'avec la législation d'exécution (art. 3 LRPL).
 
-**N. 12** L'affectation selon l'al. 2 est justiciable. Une utilisation contraire à l'affectation des produits de la RPLP peut être attaquée en justice. Les cantons ont un droit constitutionnel à une participation au produit net selon l'al. 3 (Epiney, BSK BV, art. 85 n. 13).
+**N. 12** L'affectation selon l'al. 2 est justiciable. Une utilisation contraire à l'affectation des produits de la RPLP peut être attaquée en justice. Les cantons ont un droit constitutionnel à une participation au produit net selon l'al. 3.
 
 ## 5. Points de controverse
 

@@ -22,7 +22,7 @@
 
 **N. 7** Sur le plan du droit international, l'art. 22 Cst. correspond à l'art. 11 CEDH (liberté de réunion et d'association) et à l'art. 21 du Pacte ONU II. Le Tribunal fédéral a répété à plusieurs reprises que les garanties de l'art. 11 CEDH et de l'art. 21 du Pacte ONU II ne vont pas au-delà de la garantie constitutionnelle fédérale quant au contenu et à l'étendue de la protection (**BGE 132 I 256 consid. 3 i.f. ; BGE 148 I 33 consid. 6.2**). L'art. 22 Cst. et la jurisprudence du Tribunal fédéral y afférente sont déterminants en premier lieu.
 
-**N. 8** La liberté de réunion constitue une condition centrale de la libre formation de la volonté démocratique et de l'exercice des droits politiques (↔ art. 34 Cst.). Elle remplit une « fonction de soupape, d'avertissement, de contrôle et d'innovation » dans la société démocratique (Hertig, BSK BV, art. 22 N. 1).
+**N. 8** La liberté de réunion constitue une condition centrale de la libre formation de la volonté démocratique et de l'exercice des droits politiques (↔ art. 34 Cst.). Elle remplit une « fonction de soupape, d'avertissement, de contrôle et d'innovation » dans la société démocratique.
 
 ---
 
@@ -36,7 +36,7 @@
 
 **N. 11** L'art. 22 al. 2 Cst. mentionne expressément trois composantes : le **droit d'organiser des réunions**, le **droit d'y participer** et le **droit de ne pas y participer** (liberté négative de réunion). Le droit de ne pas participer protège contre toute contrainte à prendre part à des réunions, par exemple sous forme de contrainte d'affiliation. Par ailleurs, l'art. 22 Cst. protège aussi contre les mesures étatiques dirigées contre la convocation, l'organisation, le déroulement ou la forme d'une réunion (**BGE 127 I 164 consid. 3b**).
 
-**N. 12** Seules les réunions **pacifiques** bénéficient de la protection de l'art. 22 Cst. Si des violences se développent lors d'une réunion initialement pacifique à un point tel que la composante de formation d'opinion passe totalement à l'arrière-plan, la protection du droit fondamental peut s'éteindre. De petits groupes commettant des actes de violence en marge de la manifestation ne font toutefois pas perdre la protection du droit fondamental à la réunion dans son ensemble (**BGE 143 I 147 consid. 3.2** avec renvoi à Müller/Schefer, op. cit., p. 585 ; Hertig, BSK BV, art. 22 N. 8 s.).
+**N. 12** Seules les réunions **pacifiques** bénéficient de la protection de l'art. 22 Cst. Si des violences se développent lors d'une réunion initialement pacifique à un point tel que la composante de formation d'opinion passe totalement à l'arrière-plan, la protection du droit fondamental peut s'éteindre. De petits groupes commettant des actes de violence en marge de la manifestation ne font toutefois pas perdre la protection du droit fondamental à la réunion dans son ensemble (**BGE 143 I 147 consid. 3.2** avec renvoi à Müller/Schefer, op. cit., p. 585).
 
 #### 3.2 Dimension de prestation lors de manifestations sur le domaine public
 

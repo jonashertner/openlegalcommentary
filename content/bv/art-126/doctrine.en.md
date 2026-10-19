@@ -2,13 +2,13 @@
 
 ### I. Legislative History
 
-**N. 1** The debt brake was adopted in the referendum of 2 December 2001 with 84.7% yes votes and entered into force on 2 December 2003 (BBl 2000 4653ff.; BBl 2002 2291). Lienhard/Marti Locher point out that the debt brake arose as a reaction to the debt crisis of the 1990s, when the Confederation's gross debt almost tripled between 1990 and 1998 from 38.5 to 109.6 billion francs (BSK BV-Lienhard/Marti Locher, Art. 126 N. 1).
+**N. 1** The debt brake was adopted in the referendum of 2 December 2001 with 84.7% yes votes and entered into force on 2 December 2003 (BBl 2000 4653ff.; BBl 2002 2291). Lienhard/Marti Locher point out that the debt brake arose as a reaction to the debt crisis of the 1990s, when the Confederation's gross debt almost tripled between 1990 and 1998 from 38.5 to 109.6 billion francs.
 
-**N. 2** The debt brake replaced the former deficit prohibition of Art. 42bis aBV, which had proven inadequate. Unlike the old deficit prohibition, which only concerned the budget estimates, the new debt brake extends to the entire budget process from planning to subsequent correction (BSK BV-Lienhard/Marti Locher, Art. 126 N. 3f.).
+**N. 2** The debt brake replaced the former deficit prohibition of Art. 42bis aBV, which had proven inadequate. Unlike the old deficit prohibition, which only concerned the budget estimates, the new debt brake extends to the entire budget process from planning to subsequent correction.
 
 ### II. Systematic Classification
 
-**N. 3** Art. 126 BV is the centrepiece of the federal financial system and is closely linked to other financial constitutional norms: → Art. 167 BV (financial powers), → Art. 183 BV (financial powers of the Federal Council), ↔ Art. 159 para. 3 let. c BV (qualified majority for expenditure increases). Together with the Federal Financial Administration Act (FFA), the norm forms the institutional foundation of federal financial policy (BSK BV-Lienhard/Marti Locher, Art. 126 N. 8).
+**N. 3** Art. 126 BV is the centrepiece of the federal financial system and is closely linked to other financial constitutional norms: → Art. 167 BV (financial powers), → Art. 183 BV (financial powers of the Federal Council), ↔ Art. 159 para. 3 let. c BV (qualified majority for expenditure increases). Together with the Federal Financial Administration Act (FFA), the norm forms the institutional foundation of federal financial policy.
 
 **N. 4** The debt brake stands in a tension with the Confederation's economic policy task under Art. 100 BV. Vallender emphasises that the debt brake is designed as a binding rule that limits discretionary financial policy interventions, but unfolds countercyclical effects through its cyclical component (Vallender, AJP 1999, 693f.).
 
@@ -16,7 +16,7 @@
 
 **N. 5** **Balanced budget (para. 1)**: «Balance over time» does not require annual correspondence between expenditures and revenues, but rather a medium-term balance over the business cycle. Kirchgässner specifies that structural deficits should be prevented, while cyclical fluctuations remain permissible (Kirchgässner, SVVOR-Jahrbuch 2009, 78).
 
-**N. 6** **Expenditure rule (para. 2)**: The expenditure ceiling is calculated by multiplying the estimated revenues by a cyclical factor (k = trend GDP / expected GDP). In case of underutilisation (k > 1), higher expenditures than revenues are permissible; in case of overutilisation (k < 1), expenditures must be below revenues (BSK BV-Lienhard/Marti Locher, Art. 126 N. 24f.).
+**N. 6** **Expenditure rule (para. 2)**: The expenditure ceiling is calculated by multiplying the estimated revenues by a cyclical factor (k = trend GDP / expected GDP). In case of underutilisation (k > 1), higher expenditures than revenues are permissible; in case of overutilisation (k < 1), expenditures must be below revenues.
 
 **N. 7** **Exception rule (para. 3)**: «Extraordinary financing requirements» exist in case of natural disasters, severe recessions, adjustments to the accounting model, or other extraordinary and uncontrollable developments. Stauffer criticises the broad formulation as a potential gateway for circumventing the debt brake (Stauffer, Instrumente des Haushaltsausgleichs, 2001, 189).
 
@@ -24,7 +24,7 @@
 
 ### IV. Legal Consequences
 
-**N. 9** The debt brake unfolds its effect on three levels: preventively through the expenditure rule in the budget estimates, correctively through supplementary credits during the year, and compensatorily through the subsequent settlement of overruns (BSK BV-Lienhard/Marti Locher, Art. 126 N. 18).
+**N. 9** The debt brake unfolds its effect on three levels: preventively through the expenditure rule in the budget estimates, correctively through supplementary credits during the year, and compensatorily through the subsequent settlement of overruns.
 
 **N. 10** The constitutional norm does not establish subjective rights of individuals. It binds exclusively the Federal Council and Federal Assembly in their budget management. Judicial enforcement is therefore not possible; control occurs primarily through political means (Biaggini, in: Kahl, Nachhaltige Finanzstrukturen, 2011, 118).
 
@@ -42,4 +42,4 @@
 
 **N. 15** The qualification as «extraordinary financing requirements» requires careful justification. Past practice shows restrictive handling: Only the recapitalisation of UBS in 2008, measures against the COVID-19 pandemic in 2020/21, and support for Ukraine in 2022 were recognised as extraordinary.
 
-**N. 16** For cantons and municipalities that wish to introduce a debt brake, orientation to the federal model with adjustments to local circumstances is recommended. In particular, the definition of the cyclical factor and the length of the balancing period require careful consideration (BSK BV-Lienhard/Marti Locher, Art. 126 N. 17).
+**N. 16** For cantons and municipalities that wish to introduce a debt brake, orientation to the federal model with adjustments to local circumstances is recommended. In particular, the definition of the cyclical factor and the length of the balancing period require careful consideration.

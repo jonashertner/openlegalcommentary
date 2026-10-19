@@ -8,7 +8,7 @@
 
 **N. 2** The earmarking of mineral oil tax for air traffic has a longer tradition. Already with the introduction of the mineral oil tax in 1996, it was determined that part of the revenue from the taxation of aviation fuel should be used for aviation-related purposes. With Art. 87b BV, this practice received an express constitutional basis (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4th ed. 2023, Art. 87b N. 1).
 
-**N. 3** The provision stands in systematic connection with Art. 86 BV (mineral oil tax) and Art. 87 BV (aviation). It forms the aviation-specific counterpart to the special financing for road traffic according to Art. 86 para. 3 BV. The constitutional legislator thereby wanted to ensure that the levies generated from air traffic also benefit this sector (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 87b N. 3).
+**N. 3** The provision stands in systematic connection with Art. 86 BV (mineral oil tax) and Art. 87 BV (aviation). It forms the aviation-specific counterpart to the special financing for road traffic according to Art. 86 para. 3 BV. The constitutional legislator thereby wanted to ensure that the levies generated from air traffic also benefit this sector.
 
 ### 2. Systematic Classification
 
@@ -30,7 +30,7 @@
 - 50% of the net revenue of the consumption tax on aviation fuel (basic tax)
 - 100% of the surcharge on the consumption tax on aviation fuel
 
-The term «net revenue» designates the tax revenue after deduction of collection costs (Waldmann/Belser/Epiney, BSK BV, Art. 87b N. 5).
+The term «net revenue» designates the tax revenue after deduction of collection costs.
 
 **N. 9** **Purposes of use**: The funds are to be used for «tasks and expenditure in connection with air traffic». Art. 87b let. a-c BV specifies three main purposes of use:
 - Contributions to environmental protection measures in air traffic (let. a)
@@ -51,7 +51,7 @@ The term «net revenue» designates the tax revenue after deduction of collectio
 
 ### 5. Controversial Issues
 
-**N. 15** In doctrine, it is disputed how broadly the term «tasks and expenditure in connection with air traffic» is to be understood. Waldmann/Belser/Epiney (BSK BV, Art. 87b N. 7) represent a rather restrictive interpretation and demand a close substantive connection with air traffic. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 87b N. 9) argue for a more generous interpretation which also includes infrastructure measures related to air traffic.
+**N. 15** In doctrine, it is disputed how broadly the term «tasks and expenditure in connection with air traffic» is to be understood. Waldmann/Belser/Epiney represent a rather restrictive interpretation and demand a close substantive connection with air traffic. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, Art. 87b N. 9) argue for a more generous interpretation which also includes infrastructure measures related to air traffic.
 
 **N. 16** The question of whether the funds may be used exclusively for civil aviation or can also include military purposes is also controversially discussed. The prevailing doctrine assumes that Art. 87b BV is primarily oriented towards civil aviation, but does not categorically exclude dual use measures (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, N. 2157).
 

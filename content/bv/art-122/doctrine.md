@@ -18,11 +18,11 @@
 
 ### Zivilrecht (Abs. 1)
 
-**N. 6** Der Begriff des Zivilrechts umfasst nach herrschender Lehre und ständiger Rechtsprechung das gesamte Privatrecht, also die Rechtsbeziehungen zwischen gleichgeordneten Rechtssubjekten. Göksu (BSK BV, Art. 122 N. 7) betont, dass das Zivilrecht alle Rechtsnormen einschliesst, die typisch privatrechtliche Ziele verfolgen und herkömmlicherweise zum Privatrechtsbereich gehören. Das Bundesgericht wendet zur Abgrenzung zwischen öffentlichem Recht und Privatrecht einen Methodenpluralismus an, wobei keine einzelne Abgrenzungstheorie a priori Vorrang hat (**BGE 146 I 70** E. 5.2).
+**N. 6** Der Begriff des Zivilrechts umfasst nach herrschender Lehre und ständiger Rechtsprechung das gesamte Privatrecht, also die Rechtsbeziehungen zwischen gleichgeordneten Rechtssubjekten. Göksu betont, dass das Zivilrecht alle Rechtsnormen einschliesst, die typisch privatrechtliche Ziele verfolgen und herkömmlicherweise zum Privatrechtsbereich gehören. Das Bundesgericht wendet zur Abgrenzung zwischen öffentlichem Recht und Privatrecht einen Methodenpluralismus an, wobei keine einzelne Abgrenzungstheorie a priori Vorrang hat (**BGE 146 I 70** E. 5.2).
 
-**N. 7** Die Gesamtkodifikationskompetenz des Bundes ist umfassend. Göksu (BSK BV, Art. 122 N. 5) führt aus: «Aus dem Grundsatz der Gesamtkodifikation fliesst, dass für kantonales Zivilrecht überhaupt kein Raum mehr bleibt, auch nicht in Bereichen, die vom Bundesrecht zivilrechtlich überhaupt nicht reglementiert wurden.» Diese Position steht im Gegensatz zur älteren bundesgerichtlichen Rechtsprechung (**BGE 73 I 228**), welche den Kantonen unter bestimmten Voraussetzungen gestattete, im Rahmen öffentlich-rechtlicher Ordnungen zivilrechtliche Mittel einzusetzen.
+**N. 7** Die Gesamtkodifikationskompetenz des Bundes ist umfassend. Göksu führt aus: «Aus dem Grundsatz der Gesamtkodifikation fliesst, dass für kantonales Zivilrecht überhaupt kein Raum mehr bleibt, auch nicht in Bereichen, die vom Bundesrecht zivilrechtlich überhaupt nicht reglementiert wurden.» Diese Position steht im Gegensatz zur älteren bundesgerichtlichen Rechtsprechung (**BGE 73 I 228**), welche den Kantonen unter bestimmten Voraussetzungen gestattete, im Rahmen öffentlich-rechtlicher Ordnungen zivilrechtliche Mittel einzusetzen.
 
-**N. 8** Teile der Lehre vertreten eine weniger absolute Position. Sie argumentieren, dem Bund sei mit Art. 122 BV zwar ein Sachgebiet umfassend zur Gesetzgebung zugewiesen worden, jedoch nicht ausschliesslich, was es den Kantonen erlaube, eigenes Zivilrecht zu setzen, sofern der Bund nicht abschliessend legiferiert habe (Göksu, BSK BV, Art. 122 N. 6, mit Verweis auf abweichende Lehrmeinungen). Diese Kontroverse ist praktisch bedeutsam bei der Beurteilung kantonaler Regelungen mit zivilrechtlichen Auswirkungen, etwa im Bereich des Baurechts oder bei Vorkaufsrechten zugunsten der öffentlichen Hand.
+**N. 8** Teile der Lehre vertreten eine weniger absolute Position. Sie argumentieren, dem Bund sei mit Art. 122 BV zwar ein Sachgebiet umfassend zur Gesetzgebung zugewiesen worden, jedoch nicht ausschliesslich, was es den Kantonen erlaube, eigenes Zivilrecht zu setzen, sofern der Bund nicht abschliessend legiferiert habe. Diese Kontroverse ist praktisch bedeutsam bei der Beurteilung kantonaler Regelungen mit zivilrechtlichen Auswirkungen, etwa im Bereich des Baurechts oder bei Vorkaufsrechten zugunsten der öffentlichen Hand.
 
 ### Zivilprozessrecht (Abs. 1)
 
@@ -32,13 +32,13 @@
 
 ### Organisation der Gerichte (Abs. 2)
 
-**N. 11** Die Organisation der Gerichte umfasst nach Göksu (BSK BV, Art. 122 N. 59-60) die Schaffung der Gerichte, ihre Bezeichnung, ihre hierarchische Gliederung, ihre örtliche Zuständigkeit sowie die Anforderungen an die Richterwahl. Diese Bereiche verbleiben grundsätzlich in kantonaler Kompetenz, soweit das Bundesrecht keine abweichenden Bestimmungen enthält.
+**N. 11** Die Organisation der Gerichte umfasst nach Göksu die Schaffung der Gerichte, ihre Bezeichnung, ihre hierarchische Gliederung, ihre örtliche Zuständigkeit sowie die Anforderungen an die Richterwahl. Diese Bereiche verbleiben grundsätzlich in kantonaler Kompetenz, soweit das Bundesrecht keine abweichenden Bestimmungen enthält.
 
 **N. 12** Die bundesrechtlichen Einschränkungen der kantonalen Organisationsautonomie sind vielfältig. → Art. 75 Abs. 2 BGG verlangt einen doppelten kantonalen Instanzenzug für den Zugang zum Bundesgericht. Die ZPO enthält in Art. 3 ff. zwingende Vorgaben zur sachlichen und funktionellen Zuständigkeit. Das Bundesgericht bestätigte in **BGE 137 III 217**, dass solche bundesrechtlichen Vorgaben mit der kantonalen Organisationshoheit vereinbar sind.
 
 ### Rechtsprechung in Zivilsachen (Abs. 2)
 
-**N. 13** Die Rechtsprechungskompetenz der Kantone bedeutet, dass die kantonalen Gerichte für die Anwendung des materiellen Zivilrechts und die Durchführung der zivilprozessualen Verfahren zuständig sind. Göksu (BSK BV, Art. 122 N. 68) qualifiziert diese Zuständigkeit als Rechtsnatur. Die Einschränkungen ergeben sich aus bundesrechtlichen Sonderbestimmungen, etwa der Zuständigkeit des Bundespatentgerichts für Patentstreitigkeiten oder der Schiedsgerichte im Bereich der Krankenversicherung (**BGE 135 V 443**).
+**N. 13** Die Rechtsprechungskompetenz der Kantone bedeutet, dass die kantonalen Gerichte für die Anwendung des materiellen Zivilrechts und die Durchführung der zivilprozessualen Verfahren zuständig sind. Göksu qualifiziert diese Zuständigkeit als Rechtsnatur. Die Einschränkungen ergeben sich aus bundesrechtlichen Sonderbestimmungen, etwa der Zuständigkeit des Bundespatentgerichts für Patentstreitigkeiten oder der Schiedsgerichte im Bereich der Krankenversicherung (**BGE 135 V 443**).
 
 ## 4. Rechtsfolgen
 
@@ -50,9 +50,9 @@
 
 ## 5. Streitstände
 
-**N. 17** Die zentrale Kontroverse betrifft die Reichweite der bundesrechtlichen Gesamtkodifikation. Während Göksu (BSK BV, Art. 122 N. 6) die Position vertritt, dass «weder die erwähnte (alte) bundesgerichtliche Rechtsprechung noch die weitergehenden Folgerungen in der Lehre sich mit Blick auf Art. 122 BV und Art. 5 ZGB vertreten» lassen, halten andere Autoren an der Möglichkeit kantonaler zivilrechtlicher Regelungen bei öffentlich-rechtlicher Zwecksetzung fest. Diese unterschiedlichen Auffassungen haben praktische Konsequenzen etwa bei kantonalen Vorkaufsrechten oder baurechtlichen Dienstbarkeiten.
+**N. 17** Die zentrale Kontroverse betrifft die Reichweite der bundesrechtlichen Gesamtkodifikation. Während Göksu die Position vertritt, dass «weder die erwähnte (alte) bundesgerichtliche Rechtsprechung noch die weitergehenden Folgerungen in der Lehre sich mit Blick auf Art. 122 BV und Art. 5 ZGB vertreten» lassen, halten andere Autoren an der Möglichkeit kantonaler zivilrechtlicher Regelungen bei öffentlich-rechtlicher Zwecksetzung fest. Diese unterschiedlichen Auffassungen haben praktische Konsequenzen etwa bei kantonalen Vorkaufsrechten oder baurechtlichen Dienstbarkeiten.
 
-**N. 18** Ein weiterer Streitpunkt betrifft die Abgrenzungsmethodik. Fritz Gygi entwickelte die Sachbereichstheorie, welche nicht an der Unterscheidung von öffentlichem Recht und Privatrecht ansetzt, sondern an den Sachbereichen anknüpft, für die eine Bundeskompetenz vorgesehen ist (Göksu, BSK BV, Art. 122 N. 41). Göksu kritisiert, diese Theorie sei zwar auf die Verfassungsnorm zugeschnitten, versage aber in anderen Fällen, wo zwischen öffentlichem Recht und Privatrecht unterschieden werden müsse (BSK BV, Art. 122 N. 41).
+**N. 18** Ein weiterer Streitpunkt betrifft die Abgrenzungsmethodik. Fritz Gygi entwickelte die Sachbereichstheorie, welche nicht an der Unterscheidung von öffentlichem Recht und Privatrecht ansetzt, sondern an den Sachbereichen anknüpft, für die eine Bundeskompetenz vorgesehen ist. Göksu kritisiert, diese Theorie sei zwar auf die Verfassungsnorm zugeschnitten, versage aber in anderen Fällen, wo zwischen öffentlichem Recht und Privatrecht unterschieden werden müsse.
 
 **N. 19** Die Reichweite der kantonalen Verfahrensautonomie im Bereich der freiwilligen Gerichtsbarkeit ist umstritten. Während das Bundesgericht in **BGE 139 III 225** den Kantonen weitgehende Gestaltungsfreiheit einräumt, sofern das Bundesrecht keine gerichtliche Behörde vorschreibt, plädieren Teile der Lehre für eine extensivere Anwendung der ZPO zur Gewährleistung der Verfahrenseinheit.
 

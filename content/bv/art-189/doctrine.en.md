@@ -26,7 +26,7 @@
 
 **N. 7** The term "disputes" encompasses all legal disputes, regardless of whether they concern civil, criminal or public law matters. Both individual violations of rights and abstract norm control proceedings are covered (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4th ed. 2023, Art. 189 N. 3).
 
-**N. 8** Lit. a (federal law): Encompasses the entire legal order of the Confederation, including the constitution, acts, ordinances and generally binding federal decrees. The most practically important competence of the Federal Supreme Court (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 189 N. 5).
+**N. 8** Lit. a (federal law): Encompasses the entire legal order of the Confederation, including the constitution, acts, ordinances and generally binding federal decrees. The most practically important competence of the Federal Supreme Court.
 
 **N. 9** Lit. b (international law): Covers all international law norms binding on Switzerland, in particular international treaties, customary international law and general principles of law. **BGE 145 IV 364** E. 3.3 emphasises the importance of this competence for reviewing the compatibility of Swiss law with international obligations.
 
@@ -64,9 +64,9 @@
 
 **N. 21** **Scope of the immunity clause**: The scope of Art. 189 para. 4 Federal Constitution is disputed. While Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, N. 3502) favour a restrictive interpretation, Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar, Art. 189 N. 24) argue for a broad interpretation. Case law tends towards an extensive interpretation (**BGE 147 I 194** E. 2.2).
 
-**N. 22** **Relationship to international law**: The relationship between Art. 189 para. 1 lit. b Federal Constitution and Art. 190 Federal Constitution in conflicts between international law and federal law is controversially discussed. Waldmann/Belser/Epiney (BSK BV, Art. 189 N. 8) take the view that Art. 189 Federal Constitution only regulates competence, not the standard of review. Müller/Schefer (Grundrechte in der Schweiz, 4th ed. 2008, p. 982) see in Art. 189 para. 1 lit. b Federal Constitution an independent review competence.
+**N. 22** **Relationship to international law**: The relationship between Art. 189 para. 1 lit. b Federal Constitution and Art. 190 Federal Constitution in conflicts between international law and federal law is controversially discussed. Waldmann/Belser/Epiney take the view that Art. 189 Federal Constitution only regulates competence, not the standard of review. Müller/Schefer (Grundrechte in der Schweiz, 4th ed. 2008, p. 982) see in Art. 189 para. 1 lit. b Federal Constitution an independent review competence.
 
-**N. 23** **Justiciability of political rights**: The scope of Art. 189 para. 1 lit. f Federal Constitution is disputed. Tschannen (in: Ehrenzeller et al., St. Galler Kommentar, Art. 189 N. 16) favours comprehensive justiciability. Kley (in: Waldmann et al., BSK BV, Art. 189 N. 14) argues for restraint in political discretionary matters.
+**N. 23** **Justiciability of political rights**: The scope of Art. 189 para. 1 lit. f Federal Constitution is disputed. Tschannen (in: Ehrenzeller et al., St. Galler Kommentar, Art. 189 N. 16) favours comprehensive justiciability. Kley argues for restraint in political discretionary matters.
 
 ### 6. Practice Notes
 

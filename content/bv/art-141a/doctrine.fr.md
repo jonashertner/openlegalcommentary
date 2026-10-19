@@ -20,7 +20,7 @@
 
 **N. 7** **«Traités de droit international»**: La notion comprend tous les traités de droit international conclus par la Suisse, indépendamment de leur dénomination (convention, accord, etc.). Cela inclut les traités bilatéraux et multilatéraux, y compris la CEDH et les traités bilatéraux avec l'UE (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, 4e éd. 2023, art. 141a n. 3).
 
-**N. 8** **«Mise en œuvre»**: La mise en œuvre désigne tant la transformation des normes de droit international en droit interne que leur application par les autorités et les tribunaux. La notion doit être comprise largement et englobe toutes les mesures étatiques d'exécution des obligations de droit international (Waldmann/Belser/Epiney, BSK BV, 2e éd. 2024, art. 141a n. 5).
+**N. 8** **«Mise en œuvre»**: La mise en œuvre désigne tant la transformation des normes de droit international en droit interne que leur application par les autorités et les tribunaux. La notion doit être comprise largement et englobe toutes les mesures étatiques d'exécution des obligations de droit international.
 
 **N. 9** **Condition implicite**: L'art. 141a Cst. présuppose l'existence d'un traité de droit international valablement conclu et contraignant pour la Suisse. La disposition ne règle pas la conclusion ou la dénonciation de traités, mais exclusivement leur mise en œuvre.
 
@@ -34,7 +34,7 @@
 
 ## V. Points controversés
 
-**N. 13** **Portée de l'obligation de mise en œuvre**: Ehrenzeller/Schindler soutient la position selon laquelle l'art. 141a Cst. n'a qu'un caractère déclaratoire et confirme la pratique existante (SGK BV, art. 141a n. 8). À l'inverse, Waldmann voit dans la disposition un ancrage constitutionnel de l'obligation de mise en œuvre avec un caractère constitutif (BSK BV, art. 141a n. 9).
+**N. 13** **Portée de l'obligation de mise en œuvre**: Ehrenzeller/Schindler soutient la position selon laquelle l'art. 141a Cst. n'a qu'un caractère déclaratoire et confirme la pratique existante (SGK BV, art. 141a n. 8). À l'inverse, Waldmann voit dans la disposition un ancrage constitutionnel de l'obligation de mise en œuvre avec un caractère constitutif.
 
 **N. 14** **Rapport à l'art. 190 Cst.**: Le rapport entre l'art. 141a Cst. et l'art. 190 Cst. est controversé. Rhinow/Schefer plaident pour une interprétation harmonisante des deux dispositions (Schweizerisches Verfassungsrecht, § 14 n. 83). Biaggini souligne en revanche l'autonomie de l'art. 141a Cst. en tant que norme spécifique de mise en œuvre (BV-Kommentar, 2e éd. 2017, art. 141a n. 4).
 

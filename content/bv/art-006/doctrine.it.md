@@ -12,7 +12,7 @@
 
 **N. 4** L'art. 6 Cost. si trova alla fine del primo titolo sulle disposizioni generali, immediatamente prima del secondo titolo sui diritti fondamentali, i diritti civici e gli obiettivi sociali. Questa collocazione sottolinea il carattere programmatico della norma come disposizione costituzionale generale con effetto irradiante su tutto il testo costituzionale (Biaggini, BV-Kommentar, Art. 6 N 1).
 
-**N. 5** La posizione sistematica prima dei diritti fondamentali è scelta consapevolmente: l'art. 6 Cost. funge da contrappeso agli obblighi positivi dello Stato e sottolinea simbolicamente il principio di sussidiarietà (→ art. 5a Cost.). Ciò si manifesta particolarmente chiaramente nell'art. 41 cpv. 1 Cost., dove Confederazione e Cantoni si impegnano «in aggiunta alla responsabilità individuale e all'iniziativa privata» per gli obiettivi sociali (Gächter/Renold-Burch, BSK BV, Art. 6 N 3).
+**N. 5** La posizione sistematica prima dei diritti fondamentali è scelta consapevolmente: l'art. 6 Cost. funge da contrappeso agli obblighi positivi dello Stato e sottolinea simbolicamente il principio di sussidiarietà (→ art. 5a Cost.). Ciò si manifesta particolarmente chiaramente nell'art. 41 cpv. 1 Cost., dove Confederazione e Cantoni si impegnano «in aggiunta alla responsabilità individuale e all'iniziativa privata» per gli obiettivi sociali.
 
 **N. 6** La norma è strettamente collegata ad altre disposizioni costituzionali: ↔ art. 2 cpv. 3 Cost. (pari opportunità), ↔ art. 5a Cost. (sussidiarietà), → art. 8 Cost. (uguaglianza giuridica e divieto di discriminazione), → art. 12 Cost. (diritto all'aiuto in situazioni di bisogno), → art. 41 Cost. (obiettivi sociali), → art. 59 Cost. (servizio militare), → art. 62 Cost. (obbligo scolastico).
 

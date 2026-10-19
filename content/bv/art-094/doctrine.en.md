@@ -8,23 +8,23 @@
 
 ### 2. Systematic Classification
 
-**N. 3** Art. 94 Federal Constitution stands at the beginning of Section 3 ("Economy") of Title 3 of the Federal Constitution and represents the fundamental norm of the Swiss economic constitution (Uhlmann, BSK BV, Art. 94 N. 1). The provision has a dual nature: it is both an objective constitutional norm and the basis for the fundamental right of economic freedom anchored in Art. 27 Federal Constitution.
+**N. 3** Art. 94 Federal Constitution stands at the beginning of Section 3 ("Economy") of Title 3 of the Federal Constitution and represents the fundamental norm of the Swiss economic constitution. The provision has a dual nature: it is both an objective constitutional norm and the basis for the fundamental right of economic freedom anchored in Art. 27 Federal Constitution.
 
 **N. 4** The systematic connections are manifold: → Art. 27 Federal Constitution concretises the individual rights dimension, → Art. 95–107 Federal Constitution contain sectoral economic provisions, → Art. 36 Federal Constitution regulates the requirements for restrictions on fundamental rights, ↔ Art. 5 Federal Constitution (rule of law principle) and Art. 3 Federal Constitution (federalism) form the constitutional framework.
 
 ### 3. Elements of the Offence / Normative Content
 
-**N. 5** **Principle of economic freedom (para. 1)**: The norm postulates an economic order that is fundamentally free from state interference. However, the Federal Supreme Court emphasises that state economic activity is permissible based on lived constitutional practice and does not constitute a restriction on fundamental rights, as long as private supply is not directly displaced (Uhlmann, BSK BV, Art. 94 N. 11–12; **BGE 138 I 378 consideration 5.3**).
+**N. 5** **Principle of economic freedom (para. 1)**: The norm postulates an economic order that is fundamentally free from state interference. However, the Federal Supreme Court emphasises that state economic activity is permissible based on lived constitutional practice and does not constitute a restriction on fundamental rights, as long as private supply is not directly displaced (**BGE 138 I 378 consideration 5.3**).
 
-**N. 6** **Competition**: The principle includes in particular the competition principle (Uhlmann, BSK BV, Art. 94 N. 5–9). State measures must be designed to be competition-neutral. This means in particular the prohibition of systematic cross-subsidisation between monopoly and competitive sectors (**BGE 143 II 425**).
+**N. 6** **Competition**: The principle includes in particular the competition principle. State measures must be designed to be competition-neutral. This means in particular the prohibition of systematic cross-subsidisation between monopoly and competitive sectors (**BGE 143 II 425**).
 
-**N. 7** **Internal market**: Art. 94 Federal Constitution guarantees the Swiss internal market (Uhlmann, BSK BV, Art. 94 N. 10). Cantonal barriers to market access are only permissible under the conditions of Art. 95 para. 2 Federal Constitution.
+**N. 7** **Internal market**: Art. 94 Federal Constitution guarantees the Swiss internal market. Cantonal barriers to market access are only permissible under the conditions of Art. 95 para. 2 Federal Constitution.
 
-**N. 8** **Welfare and economic security (para. 2)**: This provision obliges the Confederation and cantons to cooperate with the private sector. It establishes a state objective without direct justiciability (Uhlmann, BSK BV, Art. 94 N. 14–17; Vallender, SG Komm. BV, Art. 94 N. 8).
+**N. 8** **Welfare and economic security (para. 2)**: This provision obliges the Confederation and cantons to cooperate with the private sector. It establishes a state objective without direct justiciability (Vallender, SG Komm. BV, Art. 94 N. 8).
 
-**N. 9** **Favourable framework conditions (para. 3)**: The state should create optimal conditions for private economic activity. This includes legal certainty, functioning infrastructure and macroeconomic stability (Uhlmann, BSK BV, Art. 94 N. 18–20; Rhinow/Schefer/Uebersax, Verfassungsrecht, § 11 N. 34).
+**N. 9** **Favourable framework conditions (para. 3)**: The state should create optimal conditions for private economic activity. This includes legal certainty, functioning infrastructure and macroeconomic stability (Rhinow/Schefer/Uebersax, Verfassungsrecht, § 11 N. 34).
 
-**N. 10** **Constitutional reservation (para. 4)**: Deviations from the principle of economic freedom are only permissible if they are provided for in the Federal Constitution (e.g. Art. 98 Federal Constitution for the National Bank, Art. 103 Federal Constitution for structural policy) or are justified by cantonal regalia rights (Uhlmann, BSK BV, Art. 94 N. 21–26).
+**N. 10** **Constitutional reservation (para. 4)**: Deviations from the principle of economic freedom are only permissible if they are provided for in the Federal Constitution (e.g. Art. 98 Federal Constitution for the National Bank, Art. 103 Federal Constitution for structural policy) or are justified by cantonal regalia rights.
 
 ### 4. Legal Consequences
 
@@ -38,7 +38,7 @@
 
 **N. 14** **State economic activity**: The permissibility of state economic activity is disputed. The Federal Supreme Court relies on "lived constitutional practice" (**BGE 138 I 378**). Parts of the doctrine criticise this as methodologically problematic, since constitutional interpretation should not be determined by factual practice (critical: J. Reich, Grundsatz der Wirtschaftsfreiheit, p. 234; approving: Richli, Wirtschaftsverfassungsrecht, § 4 N. 89).
 
-**N. 15** **Subsidiarity principle**: It is controversial whether Art. 94 Federal Constitution establishes a justiciable subsidiarity principle. The Federal Supreme Court sees it as an economic policy guideline without legal bindingness (Uhlmann, BSK BV, Art. 94 N. 11). The doctrine is split: Biaggini (Komm. BV, Art. 94 N. 5) affirms a certain normative force, while Rhinow (Wirtschafts- und Eigentumsverfassung, p. 156) rejects this.
+**N. 15** **Subsidiarity principle**: It is controversial whether Art. 94 Federal Constitution establishes a justiciable subsidiarity principle. The Federal Supreme Court sees it as an economic policy guideline without legal bindingness. The doctrine is split: Biaggini (Komm. BV, Art. 94 N. 5) affirms a certain normative force, while Rhinow (Wirtschafts- und Eigentumsverfassung, p. 156) rejects this.
 
 **N. 16** **Relationship to Art. 27 Federal Constitution**: The relationship between the objective norm (Art. 94 Federal Constitution) and the fundamental right (Art. 27 Federal Constitution) is disputed. The prevailing doctrine sees Art. 94 Federal Constitution as an objective fundamental norm with a broader scope of protection (Vallender/Hettich/Lehne, Wirtschaftsfreiheit, p. 89), while others assume extensive congruence (Müller/Schefer, Grundrechte, p. 1023).
 

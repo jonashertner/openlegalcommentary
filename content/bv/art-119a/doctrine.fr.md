@@ -60,7 +60,7 @@
 
 ### 4. Effets juridiques
 
-**N. 18** Les violations de l'art. 119a al. 3 Cst. (interdiction du commerce, principe de gratuité) sont sanctionnées pénalement au niveau législatif par les art. 69 s. LTx. Les actes juridiques contrevenant à l'interdiction du commerce sont nuls en vertu de l'art. 20 CO (Belser/Molinari, BSK BV, art. 119a N. 65).
+**N. 18** Les violations de l'art. 119a al. 3 Cst. (interdiction du commerce, principe de gratuité) sont sanctionnées pénalement au niveau législatif par les art. 69 s. LTx. Les actes juridiques contrevenant à l'interdiction du commerce sont nuls en vertu de l'art. 20 CO.
 
 **N. 19** L'art. 119a al. 1 Cst. lie la Confédération en tant que **mandat législatif** : si la Confédération reste inactive, une omission législative pourrait être invoquée. Depuis l'entrée en vigueur de la LTx en 2007, ce mandat est accompli ; les révisions législatives en cours (p. ex. le consentement présumé de 2023) le précisent davantage.
 

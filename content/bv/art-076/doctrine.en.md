@@ -14,7 +14,7 @@
 
 ## 3. Elements of Offence / Content of Norm
 
-**N. 5** **Water resources** comprise all surface and underground waters including springs, lakes, rivers and groundwater. The term is to be understood broadly and also includes future utilisation potential (Waldmann/Belser/Epiney, BSK BV, Art. 76 N. 15). The «careful use» (para. 1) requires a considerate, sustainable handling of water resources in the sense of the principle of sustainability.
+**N. 5** **Water resources** comprise all surface and underground waters including springs, lakes, rivers and groundwater. The term is to be understood broadly and also includes future utilisation potential. The «careful use» (para. 1) requires a considerate, sustainable handling of water resources in the sense of the principle of sustainability.
 
 **N. 6** The **basic legislative power** of the Confederation (para. 2) authorises framework legislation but leaves implementation and detailed regulation to the cantons. The enumeration of types of utilisation (energy production, cooling purposes) is not exhaustive («and»). The federal legislature has comprehensively exercised this power with the WRA, WPA and WCE (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N. 1098).
 
@@ -30,7 +30,7 @@
 
 ## 5. Disputes
 
-**N. 11** **Scope of cantonal sovereignty over waters**: While Biaggini (BV-Kommentar, Art. 76 N. 5) emphasises extensive autonomy of the cantons, Waldmann/Belser/Epiney (BSK BV, Art. 76 N. 28) advocate a more restrictive interpretation in view of comprehensive federal legislation. The Federal Court tends towards a mediating position according to which cantonal sovereignty continues to exist but is considerably limited by federal law (**BGE 145 II 140**).
+**N. 11** **Scope of cantonal sovereignty over waters**: While Biaggini (BV-Kommentar, Art. 76 N. 5) emphasises extensive autonomy of the cantons, Waldmann/Belser/Epiney advocate a more restrictive interpretation in view of comprehensive federal legislation. The Federal Court tends towards a mediating position according to which cantonal sovereignty continues to exist but is considerably limited by federal law (**BGE 145 II 140**).
 
 **N. 12** **Relationship hydropower - water protection**: In doctrine, it is disputed how the balancing of interests between energy production and environmental protection should be weighted. Griffel (St. Galler Kommentar BV, Art. 76 N. 18) pleads for strict priority of water protection, while Keller (in: Häfelin/Haller/Keller/Thurnherr, N. 1099) calls for a balanced weighing of interests. Practice shows an increasing weighting of ecological concerns while simultaneously recognising the energy policy significance of hydropower.
 

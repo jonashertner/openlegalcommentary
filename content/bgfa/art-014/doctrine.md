@@ -42,7 +42,7 @@
 - Anwältinnen und Anwälte aus anderen Kantonen, die kraft der Freizügigkeit nach Art. 4 BGFA im Tatortkanton auftreten (sekundäre Zuständigkeit des Tatortkantons);
 - EU/EFTA-Anwälte, die ständig in der Schweiz tätig sind und sich im Tatortkanton eingetragen haben (→ Art. 27 ff. BGFA).
 
-**N. 11** Nicht dem Anwendungsbereich von Art. 14 BGFA unterstellt sind Anwältinnen und Anwälte, die ausschliesslich beratend tätig sind und nicht vor Gerichtsbehörden auftreten (Urteil **2C_897/2015** vom 25.5.2016 E. 5.2.1; Poledna, BSK BGFA, Art. 14 N. 3). Dass Art. 2 Abs. 1 BGFA den Geltungsbereich des Gesetzes auf die Parteivertretung vor Gerichtsbehörden beschränkt, ist für die Aufsichtspflicht konstitutiv: Wer kein Mandat zur Parteivertretung ausübt, untersteht nicht der bundesrechtlich geregelten Disziplinaraufsicht.
+**N. 11** Nicht dem Anwendungsbereich von Art. 14 BGFA unterstellt sind Anwältinnen und Anwälte, die ausschliesslich beratend tätig sind und nicht vor Gerichtsbehörden auftreten (Urteil **2C_897/2015** vom 25.5.2016 E. 5.2.1). Dass Art. 2 Abs. 1 BGFA den Geltungsbereich des Gesetzes auf die Parteivertretung vor Gerichtsbehörden beschränkt, ist für die Aufsichtspflicht konstitutiv: Wer kein Mandat zur Parteivertretung ausübt, untersteht nicht der bundesrechtlich geregelten Disziplinaraufsicht.
 
 #### 3.4 Interkantonale Zuständigkeitsverteilung
 
@@ -54,7 +54,7 @@
 4. **Mitteilungspflicht**: Das Verfahrensergebnis ist der Aufsichtsbehörde des Registerkantons mitzuteilen.
 5. **Registereintrag**: Rechtskräftige Disziplinarmassnahmen werden in das Register des Registerkantons eingetragen (→ Art. 20 BGFA).
 
-**N. 13** Die kantonalen Zuständigkeiten sind grundsätzlich konkurrierend: Sowohl der Registerkanton als auch der Tatortkanton können bei einem Verstoss gegen Berufsregeln tätig werden. Die Aufsichtsbehörde desjenigen Kantons, «in dem der Anwalt vor den Gerichtsbehörden auftritt», führt die Aufsicht primär (Urteil des Verwaltungsgerichts Uri 04/05 49 vom 4.10.2005; Poledna, BSK BGFA, Art. 14 N. 7). Ist es noch zu keinem Gerichtsverfahren im Tatortkanton gekommen, verbleibt die Zuständigkeit beim Registerkanton.
+**N. 13** Die kantonalen Zuständigkeiten sind grundsätzlich konkurrierend: Sowohl der Registerkanton als auch der Tatortkanton können bei einem Verstoss gegen Berufsregeln tätig werden. Die Aufsichtsbehörde desjenigen Kantons, «in dem der Anwalt vor den Gerichtsbehörden auftritt», führt die Aufsicht primär (Urteil des Verwaltungsgerichts Uri 04/05 49 vom 4.10.2005). Ist es noch zu keinem Gerichtsverfahren im Tatortkanton gekommen, verbleibt die Zuständigkeit beim Registerkanton.
 
 ---
 
@@ -74,11 +74,11 @@
 
 #### 5.1 Reichweite der kantonalen Aufsichtsbehörde: Beratende Anwälte
 
-**N. 18** Streitig war, ob die Disziplinaraufsicht nach Art. 14 BGFA auch Anwältinnen und Anwälte erfasst, die ausschliesslich beratend tätig sind und kein Anwaltsregister-Eintrag haben. Poledna (BSK BGFA, Art. 14 N. 3) und Bohnet/Martenet (Droit de la profession d'avocat, 2009, Rz. 578) stimmen überein, dass das BGFA diese Gruppe nicht erfasst. Der Kanton Luzern hat durch kantonales Recht die Berufspflichten nach Art. 12 und 13 BGFA sowie das Disziplinarrecht (Art. 14–20 BGFA) sinngemäss auf nicht zur Parteivertretung zugelassene Anwälte ausgedehnt (§ 8 Abs. 2 AnwG/LU). Nater (Kommentar zum Anwaltsgesetz, Art. 3 N. 8b) hält diese Regelung für bundesrechtskonform, da es sich um eine zulässige Ausdehnung kantonaler Regelungskompetenz handelt; das Bundesgericht hat die Frage offen gelassen (Urteil **2C_897/2015** vom 25.5.2016 E. 5.2.2).
+**N. 18** Streitig war, ob die Disziplinaraufsicht nach Art. 14 BGFA auch Anwältinnen und Anwälte erfasst, die ausschliesslich beratend tätig sind und kein Anwaltsregister-Eintrag haben. Poledna und Bohnet/Martenet (Droit de la profession d'avocat, 2009, Rz. 578) stimmen überein, dass das BGFA diese Gruppe nicht erfasst. Der Kanton Luzern hat durch kantonales Recht die Berufspflichten nach Art. 12 und 13 BGFA sowie das Disziplinarrecht (Art. 14–20 BGFA) sinngemäss auf nicht zur Parteivertretung zugelassene Anwälte ausgedehnt (§ 8 Abs. 2 AnwG/LU). Nater (Kommentar zum Anwaltsgesetz, Art. 3 N. 8b) hält diese Regelung für bundesrechtskonform, da es sich um eine zulässige Ausdehnung kantonaler Regelungskompetenz handelt; das Bundesgericht hat die Frage offen gelassen (Urteil **2C_897/2015** vom 25.5.2016 E. 5.2.2).
 
 #### 5.2 Konkurrierende Zuständigkeiten von Registerkanton und Tatortkanton
 
-**N. 19** Umstritten ist, ob die Aufsichtsbehörden von Registerkanton und Tatortkanton bei einem interkantonalen Mandat gleichrangig zuständig sind oder ob eine hierarchische Prioritätsordnung besteht. Das Verwaltungsgericht Uri hat sich für eine primäre Zuständigkeit des Tatortkantons ausgesprochen (Urteil 04/05 49 vom 4.10.2005: «Die Aufsicht wird vorrangig von der Aufsichtsbehörde desjenigen Kantons geführt, in dem der Anwalt vor den Gerichtsbehörden auftritt»). Poledna (BSK BGFA, Art. 14 N. 7) und Fellmann (Anwaltsrecht, 2. Aufl. 2017, Rz. 793) folgen dieser Auffassung im Grundsatz. Bauer/Bauer (CR LLCA, Art. 14 N. 11) betonen demgegenüber die Koordinationsfunktion: Die Behörden hätten konkurrierende Zuständigkeiten, die durch die Informations- und Mitteilungspflichten koordiniert werden, ohne dass eine strikte Hierarchie bestehe. Eine höchstrichterliche Entscheidung des Bundesgerichts zu dieser Frage fehlt bislang.
+**N. 19** Umstritten ist, ob die Aufsichtsbehörden von Registerkanton und Tatortkanton bei einem interkantonalen Mandat gleichrangig zuständig sind oder ob eine hierarchische Prioritätsordnung besteht. Das Verwaltungsgericht Uri hat sich für eine primäre Zuständigkeit des Tatortkantons ausgesprochen (Urteil 04/05 49 vom 4.10.2005: «Die Aufsicht wird vorrangig von der Aufsichtsbehörde desjenigen Kantons geführt, in dem der Anwalt vor den Gerichtsbehörden auftritt»). Poledna und Fellmann (Anwaltsrecht, 2. Aufl. 2017, Rz. 793) folgen dieser Auffassung im Grundsatz. Bauer/Bauer (CR LLCA, Art. 14 N. 11) betonen demgegenüber die Koordinationsfunktion: Die Behörden hätten konkurrierende Zuständigkeiten, die durch die Informations- und Mitteilungspflichten koordiniert werden, ohne dass eine strikte Hierarchie bestehe. Eine höchstrichterliche Entscheidung des Bundesgerichts zu dieser Frage fehlt bislang.
 
 #### 5.3 Kantonale Zusatzaufsichtsmittel im Verhältnis zum abschliessenden Bundesrecht
 
@@ -109,7 +109,6 @@
 **Literatur**
 - Fellmann, Anwaltsrecht, 2. Aufl. 2017, Rz. 786–800
 - Bohnet/Martenet, Droit de la profession d'avocat, 2009, Rz. 575–580
-- Poledna, BSK BGFA, 2. Aufl. 2019, Art. 14
 
 **Materialien**
 - BBl 1999 6047 f. (Botschaft zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte)

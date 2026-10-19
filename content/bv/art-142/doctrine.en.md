@@ -44,7 +44,7 @@ Both requirements must be fulfilled. Failure to meet only one requirement leads 
 
 **N. 12** **Recount in case of close results**: A central point of contention concerns the prerequisites for a recount:
 - The Federal Supreme Court has maintained since **BGE 136 II 132** the view that a very close result should be treated like an «irregularity» within the meaning of Art. 77 para. 1 lit. b BPR and establishes a right to a recount
-- Epiney/Diezig (BSK BV, Art. 142 N. 5) doubt whether the narrow formulation of the requirements in Art. 34 para. 3 BPR (making credible irregularities) is compatible with Art. 34 para. 2 BV
+- Epiney/Diezig doubt whether the narrow formulation of the requirements in Art. 34 para. 3 BPR (making credible irregularities) is compatible with Art. 34 para. 2 BV
 - In **BGE 141 II 297**, the Federal Supreme Court specified that a recount must only occur when there are concrete indications of errors
 
 **N. 13** **Democratic-theoretical criticism of the cantonal majority**: The different voting power of citizens from different cantons is controversially discussed:

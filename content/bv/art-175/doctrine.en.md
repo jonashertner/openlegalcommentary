@@ -48,7 +48,7 @@
 
 **N. 14** The provision is primarily of an organizational law character. It does not establish subjective rights of individuals or cantons to representation in the Federal Council.
 
-**N. 15** Non-compliance with the representation provision in para. 4 does not lead to invalidity of an election. The provision is conceived as a political guideline, not as a justiciable legal norm (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 175 N. 22).
+**N. 15** Non-compliance with the representation provision in para. 4 does not lead to invalidity of an election. The provision is conceived as a political guideline, not as a justiciable legal norm.
 
 **N. 16** Federal Council elections are not subject to judicial review according to **BGE 1C_649/2015**. Art. 189 para. 4 Cst. excludes appeals against acts of the Federal Assembly before the Federal Supreme Court.
 
@@ -56,7 +56,7 @@
 
 **N. 17** In doctrine, it is disputed how binding the consideration of regional and linguistic representation is. Part of the doctrine regards para. 4 as a mere political maxim without legal bindingness (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N. 1659). Other authors see it as a legal obligation with discretion (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4th ed. 2023, Art. 175 N. 19).
 
-**N. 18** The question of gender-specific representation is also controversially discussed. While parliamentary initiative 93.406 («Les deux sexes au Conseil fédéral») failed in 1994, individual voices in doctrine argue that an obligation for appropriate gender distribution can be derived from Art. 8 para. 3 Cst. (Müller/Schefer, Grundrechte in der Schweiz, 4th ed. 2008, p. 746). The prevailing doctrine rejects this (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 175 N. 24).
+**N. 18** The question of gender-specific representation is also controversially discussed. While parliamentary initiative 93.406 («Les deux sexes au Conseil fédéral») failed in 1994, individual voices in doctrine argue that an obligation for appropriate gender distribution can be derived from Art. 8 para. 3 Cst. (Müller/Schefer, Grundrechte in der Schweiz, 4th ed. 2008, p. 746). The prevailing doctrine rejects this.
 
 **N. 19** The optimal size of the Federal Council is periodically discussed. Proposals range from five to nine members. Proponents of enlargement argue with increased workload and better representation possibilities (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, N. 3148). Critics fear efficiency losses and a weakening of the collegial principle.
 

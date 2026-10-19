@@ -2,13 +2,13 @@
 
 ## Core Statement
 
-Art. 89 Federal Constitution regulates Switzerland's energy policy and divides competencies between the Confederation and the cantons (Kern, BSK BV, Art. 89 N. 4–5). The Confederation may issue regulations on the energy consumption of installations and vehicles and promote energy technologies. The cantons are primarily responsible for measures regarding buildings. Both levels of government must work together to ensure a secure, environmentally compatible and economic energy supply (**BGE 138 I 454** E. 5.1).
+Art. 89 Federal Constitution regulates Switzerland's energy policy and divides competencies between the Confederation and the cantons. The Confederation may issue regulations on the energy consumption of installations and vehicles and promote energy technologies. The cantons are primarily responsible for measures regarding buildings. Both levels of government must work together to ensure a secure, environmentally compatible and economic energy supply (**BGE 138 I 454** E. 5.1).
 
 ## Scope of Application
 
-This provision applies to Switzerland's entire energy policy. It covers both energy production (electricity, heat) and energy consumption. All public authorities of the Confederation, cantons and municipalities are obligated to pursue energy policy objectives (Kern, BSK BV, Art. 89 N. 9–11). Private energy companies must comply with government regulations but do not receive direct rights from the Constitution.
+This provision applies to Switzerland's entire energy policy. It covers both energy production (electricity, heat) and energy consumption. All public authorities of the Confederation, cantons and municipalities are obligated to pursue energy policy objectives. Private energy companies must comply with government regulations but do not receive direct rights from the Constitution.
 
-The Constitution names five equivalent objectives for energy supply: It must be sufficient (enough energy for all), diversified (various energy sources), secure (reliably available), economic (affordable) and environmentally compatible. Additionally, energy should be used sparingly and efficiently (Kern, BSK BV, Art. 89 N. 12–13).
+The Constitution names five equivalent objectives for energy supply: It must be sufficient (enough energy for all), diversified (various energy sources), secure (reliably available), economic (affordable) and environmentally compatible. Additionally, energy should be used sparingly and efficiently.
 
 ## Most Important Legal Consequences
 

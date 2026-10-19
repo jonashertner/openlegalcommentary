@@ -26,7 +26,7 @@ Cette décision illustre la délimitation des compétences entre l'autorité sup
 
 > « Les décisions du Conseil fédéral ne peuvent en principe pas faire l'objet d'un recours de droit administratif devant le Tribunal fédéral. »
 
-La jurisprudence montre l'importance de la séparation des pouvoirs dans le contexte de l'art. 148 Cst. Waldmann/Belser/Epiney expliquent que l'art. 148 Cst. constitue le fondement institutionnel de la séparation des pouvoirs en établissant l'Assemblée fédérale comme autorité suprême (Commentaire bâlois de la Constitution fédérale, 2e éd. 2024, art. 148 n. 15 ss.).
+La jurisprudence montre l'importance de la séparation des pouvoirs dans le contexte de l'art. 148 Cst. Waldmann/Belser/Epiney expliquent que l'art. 148 Cst. constitue le fondement institutionnel de la séparation des pouvoirs en établissant l'Assemblée fédérale comme autorité suprême.
 
 ## Système bicaméral et égalité des chambres
 

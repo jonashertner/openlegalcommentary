@@ -1,6 +1,6 @@
 # Art. 123a Cst. — Aperçu
 
-L'art. 123a Cst. ordonne l'internement à vie pour les auteurs d'infractions sexuelles ou de violence extrêmement dangereux. Cette disposition est née de l'initiative populaire « Pour l'internement à vie des délinquants sexuels ou violents jugés très dangereux et non amendables », qui a été acceptée en 2004 (Göksu, BSK BV, Art. 123a N. 1).
+L'art. 123a Cst. ordonne l'internement à vie pour les auteurs d'infractions sexuelles ou de violence extrêmement dangereux. Cette disposition est née de l'initiative populaire « Pour l'internement à vie des délinquants sexuels ou violents jugés très dangereux et non amendables », qui a été acceptée en 2004.
 
 **Que règle la norme ?** La Constitution prescrit que certains délinquants doivent être internés jusqu'à la fin de leurs jours. Cela vaut pour les personnes qui ont commis une infraction de violence ou sexuelle et qui sont considérées comme « durablement non amendables ». Le Tribunal fédéral entend par là une incurabilité à vie (**BGE 140 IV 1 E. 3**).
 

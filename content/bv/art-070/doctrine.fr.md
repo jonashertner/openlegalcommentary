@@ -4,13 +4,13 @@
 
 **N. 1** L'art. 70 Cst. trouve ses racines dans l'art. 116 Cst. 1874, qui ancrait pour la première fois constitutionnellement la diversité linguistique de la Suisse. La révision totale de 1999 a apporté une refonte complète des dispositions linguistiques. Comme l'expose le message du 20 novembre 1996 sur une nouvelle Constitution fédérale, « la nouvelle norme linguistique doit honorer le plurilinguisme comme caractéristique essentielle de l'État fédéral et fixer des obligations concrètes pour la Confédération et les cantons » (FF 1997 I 308).
 
-**N. 2** Les délibérations parlementaires ont été marquées par le débat sur l'enseignement des langues. Le Conseil national a rejeté une proposition de minorité qui voulait prescrire aux cantons d'enseigner une langue nationale comme deuxième langue à l'école (Belser/Waldmann, BSK BV, Art. 70 N. 13). La version définitive laisse délibérément cette question à la souveraineté cantonale en matière d'instruction publique.
+**N. 2** Les délibérations parlementaires ont été marquées par le débat sur l'enseignement des langues. Le Conseil national a rejeté une proposition de minorité qui voulait prescrire aux cantons d'enseigner une langue nationale comme deuxième langue à l'école. La version définitive laisse délibérément cette question à la souveraineté cantonale en matière d'instruction publique.
 
 **N. 3** L'inscription explicite du romanche comme langue officielle de la Confédération dans les rapports avec les personnes de langue romanche (al. 1 phr. 2) constitue une innovation importante par rapport à l'ancienne Constitution. Cette disposition reconnaît le statut particulier de la quatrième langue nationale et renforce sa protection constitutionnelle.
 
 ### 2. Classification systématique
 
-**N. 4** L'art. 70 Cst. forme, avec → l'art. 4 Cst. (langues nationales) et → l'art. 18 Cst. (liberté de la langue), le noyau constitutionnel du droit suisse des langues. La norme est systématiquement placée dans le 1er chapitre « Statut de la Confédération et des cantons », ce qui souligne sa dimension de droit de l'organisation de l'État (Belser/Waldmann, BSK BV, Art. 70 N. 1).
+**N. 4** L'art. 70 Cst. forme, avec → l'art. 4 Cst. (langues nationales) et → l'art. 18 Cst. (liberté de la langue), le noyau constitutionnel du droit suisse des langues. La norme est systématiquement placée dans le 1er chapitre « Statut de la Confédération et des cantons », ce qui souligne sa dimension de droit de l'organisation de l'État.
 
 **N. 5** Le lien avec → l'art. 8 al. 2 Cst. (interdiction de discrimination fondée sur la langue) est évident. D'autres renvois existent vers → l'art. 69 Cst. (encouragement de la culture), → l'art. 31 al. 2 Cst. (liberté de la langue en cas de privation de liberté) et → l'art. 175 al. 4 Cst. (représentation linguistique au Conseil fédéral).
 
@@ -28,13 +28,13 @@
 
 **N. 9** Les cantons déterminent leurs langues officielles de manière autonome. Cette compétence découle de la souveraineté cantonale et permet des solutions différenciées. Les limites de cette autonomie résident dans le principe de territorialité et la protection des minorités.
 
-**N. 10** Le principe de territorialité sert, selon la jurisprudence constante depuis **ATF 100 Ia 462**, à conserver les aires de répartition traditionnelles des langues nationales. La doctrine est divisée sur sa portée exacte : Papaux (FZR 2002, 157) souligne la séparation stricte des territoires linguistiques pour préserver l'homogénéité, tandis que Müller/Schefer (Grundrechte, 4e éd. 2008, 326) mettent au premier plan la paix linguistique et la cohésion sociale (Belser/Waldmann, BSK BV, Art. 70 N. 31).
+**N. 10** Le principe de territorialité sert, selon la jurisprudence constante depuis **ATF 100 Ia 462**, à conserver les aires de répartition traditionnelles des langues nationales. La doctrine est divisée sur sa portée exacte: Papaux (FZR 2002, 157) souligne la séparation stricte des territoires linguistiques pour préserver l'homogénéité, tandis que Müller/Schefer (Grundrechte, 4e éd. 2008, 326) mettent au premier plan la paix linguistique et la cohésion sociale.
 
 **N. 11** Les « minorités linguistiques traditionnelles » sont des groupes linguistiques historiquement enracinés dans une région déterminée. Le concept est plus étroit que « minorité linguistique » et ne couvre pas les groupes linguistiques nouvellement immigrés. L'**ATF 122 I 236** l'a confirmé pour les immigrants de langue étrangère.
 
 #### Encouragement de la compréhension (al. 3)
 
-**N. 12** L'obligation d'encourager la compréhension s'adresse aussi bien à la Confédération qu'aux cantons. Elle est de nature programmatoire et ne fonde pas de droits subjectifs. Ehrenzeller (BSK BV, Art. 70 N. 39) soutient qu'aucune compétence matérielle de réglementation de la Confédération pour l'enseignement des langues étrangères ne peut être déduite de cette disposition.
+**N. 12** L'obligation d'encourager la compréhension s'adresse aussi bien à la Confédération qu'aux cantons. Elle est de nature programmatoire et ne fonde pas de droits subjectifs. Ehrenzeller soutient qu'aucune compétence matérielle de réglementation de la Confédération pour l'enseignement des langues étrangères ne peut être déduite de cette disposition.
 
 #### Obligations de soutien de la Confédération (al. 4 et 5)
 

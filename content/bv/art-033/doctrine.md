@@ -26,7 +26,7 @@
 
 #### 3.1 Persönlicher Geltungsbereich
 
-**N. 7** «Jede Person» in Art. 33 Abs. 1 BV erfasst alle natürlichen Personen ohne Einschränkung nach Staatsangehörigkeit, Alter, Handlungsfähigkeit oder Wohnsitz; der Norm lässt sich kein Ausschluss etwa von Ausländerinnen und Ausländern oder urteilsunfähigen Personen entnehmen. Auch juristische Personen sowie Gemeinwesen können Petitionäre sein, soweit es sich um eine eigene Angelegenheit handelt; diese Frage liess das Bundesgericht in **BGE 98 Ia 484 E. 5a** offen. Tschannen hält fest, dass das Petitionsrecht «nahezu formlos und nachteilsfrei» ausgeübt werden kann (Tschannen, BSK BV, Art. 33 N. 3).
+**N. 7** «Jede Person» in Art. 33 Abs. 1 BV erfasst alle natürlichen Personen ohne Einschränkung nach Staatsangehörigkeit, Alter, Handlungsfähigkeit oder Wohnsitz; der Norm lässt sich kein Ausschluss etwa von Ausländerinnen und Ausländern oder urteilsunfähigen Personen entnehmen. Auch juristische Personen sowie Gemeinwesen können Petitionäre sein, soweit es sich um eine eigene Angelegenheit handelt; diese Frage liess das Bundesgericht in **BGE 98 Ia 484 E. 5a** offen. Tschannen hält fest, dass das Petitionsrecht «nahezu formlos und nachteilsfrei» ausgeübt werden kann.
 
 #### 3.2 Sachlicher Schutzbereich
 
@@ -54,7 +54,7 @@
 
 **N. 14** Der Petitionär erlangt durch Art. 33 BV keine Parteistellung in einem Verwaltungsverfahren und keinen Anspruch auf Erlass einer Verfügung. Dementsprechend kann die Ablehnung oder Einstellung einer Petition gerichtlich nicht auf ihre materielle Richtigkeit überprüft werden (**Urteil 1C_473/2010 E. 2.1**; **Urteil 1C_155/2020 E. 2.2**). Der Petitionär unterscheidet sich insofern vom Beschwerdeführer, dem das Beschwerderecht einen durchsetzbaren Anspruch auf Entscheidung vermittelt (**BGE 98 Ia 484 E. 5b** unter Verweis auf BGE 90 I 230).
 
-**N. 15** Das Petitionsrecht ist nicht geeignet, verfahrensrechtliche Rechtsbehelfe zu ersetzen oder zu ergänzen, wenn solche zur Verfügung stehen. So wies das Bundesgericht in **Urteil 1C_37/2019 E. 4.3** darauf hin, dass das Petitionsrecht nach Art. 33 BV eine Möglichkeit biete, «nahezu formlos und nachteilsfrei an die Behörden zu gelangen» (unter Verweis auf Tschannen, BSK BV, Art. 33 N. 3), jedoch nicht als Instrument des Individualrechtsschutzes gegenüber staatlichen Unterlassungen taugt, wenn keine subjektiven Rechte betroffen sind.
+**N. 15** Das Petitionsrecht ist nicht geeignet, verfahrensrechtliche Rechtsbehelfe zu ersetzen oder zu ergänzen, wenn solche zur Verfügung stehen. So wies das Bundesgericht in **Urteil 1C_37/2019 E. 4.3** darauf hin, dass das Petitionsrecht nach Art. 33 BV eine Möglichkeit biete, «nahezu formlos und nachteilsfrei an die Behörden zu gelangen», jedoch nicht als Instrument des Individualrechtsschutzes gegenüber staatlichen Unterlassungen taugt, wenn keine subjektiven Rechte betroffen sind.
 
 ---
 

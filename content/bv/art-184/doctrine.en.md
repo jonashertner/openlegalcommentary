@@ -46,7 +46,7 @@
 
 ### 5. Points of contention
 
-**N. 13** **Scope of emergency ordinance competence**: While Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N. 1867) advocate a restrictive interpretation, Waldmann (BSK BV, 2nd ed. 2024, Art. 184 N. 25) argues for a wide margin of discretion for the Federal Council in assessing national interests.
+**N. 13** **Scope of emergency ordinance competence**: While Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N. 1867) advocate a restrictive interpretation, Waldmann argues for a wide margin of discretion for the Federal Council in assessing national interests.
 
 **N. 14** **Justiciability**: Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4th ed. 2014, § 31 N. 42) take the view that Federal Council decisions under Art. 184 para. 3 BV are only subject to limited judicial review. This is contradicted by more recent case law, which demands full judicial review at least in cases of fundamental rights interference (**BGE 141 I 20**).
 

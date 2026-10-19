@@ -68,7 +68,7 @@
 
 **N. 13** Kontrovers diskutiert wird auch die Zulässigkeit von Einzelfallgesetzen. Häfelin/Haller/Keller/Thurnherr (a.a.O., N 1851) anerkennen deren Zulässigkeit in Ausnahmefällen, während Biaggini (BV-Kommentar, 2. Aufl. 2017, Art. 163 N 4) restriktiver ist und auf die Gefahr der Umgehung der Gewaltenteilung hinweist.
 
-**N. 14** Bei den parlamentarischen Verordnungen besteht Uneinigkeit über deren Anwendungsbereich. Ehrenzeller (in: St. Galler Kommentar BV, 4. Aufl. 2023, Art. 163 N 15) sieht diese auf Dringlichkeitsfälle beschränkt, während Waldmann (in: BSK BV, 2. Aufl. 2024, Art. 163 N 22) auch andere gesetzlich vorgesehene Fälle anerkennt.
+**N. 14** Bei den parlamentarischen Verordnungen besteht Uneinigkeit über deren Anwendungsbereich. Ehrenzeller (in: St. Galler Kommentar BV, 4. Aufl. 2023, Art. 163 N 15) sieht diese auf Dringlichkeitsfälle beschränkt, während Waldmann auch andere gesetzlich vorgesehene Fälle anerkennt.
 
 ## Praxishinweise
 

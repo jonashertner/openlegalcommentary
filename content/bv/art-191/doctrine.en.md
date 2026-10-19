@@ -54,7 +54,7 @@
 
 **N. 18** In doctrine, it is disputed how far the exclusion possibility under para. 3 extends. While Kiener (St. Galler Kommentar, Art. 191 N 18) and Kley (in: Verfassungsrecht der Schweiz, 2020, § 44 N 28) demand a restrictive interpretation in light of Art. 29a FC, prevailing doctrine advocates for greater legislative freedom (Häfelin/Haller/Keller/Thurnherr, op. cit., N 1627; Seiler/von Werdt/Güngerich/Oberholzer, op. cit., Preliminary remarks on Art. 72ff. N 15).
 
-**N. 19** The compatibility of threshold values with the prohibition of discrimination is also controversially discussed. Critical voices see in the different treatment of wealthy and less wealthy litigants a de facto unequal treatment (Schweizer, Diskriminierung durch Streitwertgrenzen?, ZSR 2008 I 321). Prevailing doctrine considers the threshold values as objectively justified (BSK BV-Seferovic, Art. 191 N 12; Biaggini, BV Kommentar, 2nd ed. 2017, Art. 191 N 5).
+**N. 19** The compatibility of threshold values with the prohibition of discrimination is also controversially discussed. Critical voices see in the different treatment of wealthy and less wealthy litigants a de facto unequal treatment (Schweizer, Diskriminierung durch Streitwertgrenzen?, ZSR 2008 I 321). Prevailing doctrine considers the threshold values as objectively justified (Biaggini, BV Kommentar, 2nd ed. 2017, Art. 191 N 5).
 
 **N. 20** The scope of the simplified procedure under para. 4 is assessed differently. Part of doctrine demands very restrictive handling to protect procedural guarantees (Goldschmid, Das vereinfachte Verfahren nach Art. 108 BGG, 2013, p. 145ff.). Practice shows increasing application of the simplified procedure, which is partly criticized in doctrine.
 

@@ -2,11 +2,11 @@
 
 ### 1. Genèse
 
-**N. 1** L'art. 135 Cst. a été créé dans le cadre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT) et est entré en vigueur le 1er janvier 2008. La disposition a remplacé l'ancien réglement de l'art. 42 aCst., qui ne prévoyait qu'une péréquation financière rudimentaire (Hänni, BSK BV, Art. 135 N. 3).
+**N. 1** L'art. 135 Cst. a été créé dans le cadre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT) et est entré en vigueur le 1er janvier 2008. La disposition a remplacé l'ancien réglement de l'art. 42 aCst., qui ne prévoyait qu'une péréquation financière rudimentaire.
 
-**N. 2** Le projet de réforme RPT représentait la réforme la plus vaste du fédéralisme suisse depuis la fondation de l'État fédéral en 1848 (Hänni, BSK BV, Art. 135 N. 4). Le message sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT) du 14 novembre 2001 (FF 2002 2155) identifiait comme principaux problèmes de l'ancien système le manque de transparence, les structures d'incitations erronées et l'efficacité insuffisante de la péréquation.
+**N. 2** Le projet de réforme RPT représentait la réforme la plus vaste du fédéralisme suisse depuis la fondation de l'État fédéral en 1848. Le message sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT) du 14 novembre 2001 (FF 2002 2155) identifiait comme principaux problèmes de l'ancien système le manque de transparence, les structures d'incitations erronées et l'efficacité insuffisante de la péréquation.
 
-**N. 3** La conception de la RPT comme révision totale a fait l'objet de discussions controversées dans la doctrine. Biaggini a critiqué avec de bons arguments l'approche du Conseil fédéral et du Parlement, car les modifications de grande portée restructuraient fondamentalement les rapports entre la Confédération et les cantons (Biaggini, cit. in Hänni, BSK BV, Art. 135 N. 6).
+**N. 3** La conception de la RPT comme révision totale a fait l'objet de discussions controversées dans la doctrine. Biaggini a critiqué avec de bons arguments l'approche du Conseil fédéral et du Parlement, car les modifications de grande portée restructuraient fondamentalement les rapports entre la Confédération et les cantons.
 
 ### 2. Classement systématique
 
@@ -19,11 +19,11 @@
 
 ### 3. Éléments constitutifs / Contenu normatif
 
-**N. 6** **Mandat législatif (al. 1) :** La Confédération est tenue d'édicter des prescriptions sur une péréquation financière et des charges « appropriée ». Le terme « appropriée » accorde au législateur une marge de manœuvre considérable dans l'aménagement, mais fixe aussi des limites constitutionnelles (Hänni, BSK BV, Art. 135 N. 13).
+**N. 6** **Mandat législatif (al. 1) :** La Confédération est tenue d'édicter des prescriptions sur une péréquation financière et des charges « appropriée ». Le terme « appropriée » accorde au législateur une marge de manœuvre considérable dans l'aménagement, mais fixe aussi des limites constitutionnelles.
 
 **N. 7** **Péréquation financière :** Comprend la redistribution de moyens financiers pour réduire les différences dans la capacité financière. La péréquation des ressources vise en premier lieu l'égalisation de la force fiscale (→ ATF 93 I 437 consid. 4).
 
-**N. 8** **Péréquation des charges :** Compense les charges financières excessives dues à des facteurs géographiques et topographiques (p. ex. régions de montagne) ou sociodémographiques (p. ex. charges de centre). Ceci se distingue fondamentalement de la péréquation des ressources, qui porte sur la capacité financière (Hänni, BSK BV, Art. 135 N. 19).
+**N. 8** **Péréquation des charges :** Compense les charges financières excessives dues à des facteurs géographiques et topographiques (p. ex. régions de montagne) ou sociodémographiques (p. ex. charges de centre). Ceci se distingue fondamentalement de la péréquation des ressources, qui porte sur la capacité financière.
 
 **N. 9** **Objectifs (al. 2) :** Le catalogue non exhaustif (« notamment ») mentionne cinq objectifs principaux :
 - let. a : réduction des disparités (non pas nivellement complet)
@@ -32,7 +32,7 @@
 - let. d : encouragement de la collaboration (↔ art. 48a Cst.)
 - let. e : maintien de la concurrence fiscale
 
-**N. 10** Ces objectifs se trouvent partiellement en tension les uns avec les autres. En particulier, le maintien de la concurrence fiscale (let. e) limite l'ampleur de la redistribution possible (Hänni, BSK BV, Art. 135 N. 29).
+**N. 10** Ces objectifs se trouvent partiellement en tension les uns avec les autres. En particulier, le maintien de la concurrence fiscale (let. e) limite l'ampleur de la redistribution possible.
 
 ### 4. Effets juridiques
 
@@ -56,7 +56,7 @@ Le Tribunal fédéral examine avec retenue l'aménagement concret de la péréqu
 
 **N. 15** **Prise en compte des communes :** Il est controversé de savoir dans quelle mesure l'art. 135 Cst. en liaison avec l'art. 50 al. 2 Cst. exige une prise en compte directe des communes dans la péréquation financière nationale. La doctrine dominante considère les cantons comme les destinataires primaires, tandis que Thalmann plaide pour une intégration renforcée du niveau communal (Thalmann, in: Hänni, Föderalismus, p. 56-117).
 
-**N. 16** **Compensation des cas de rigueur :** La limitation dans le temps de la compensation des cas de rigueur est controversée. Alors que le message part d'une réduction progressive (FF 2002 2155, 2241), une partie de la doctrine argumente que des circonstances particulières peuvent justifier une prolongation (Hänni, BSK BV, Art. 135 N. 31-33).
+**N. 16** **Compensation des cas de rigueur :** La limitation dans le temps de la compensation des cas de rigueur est controversée. Alors que le message part d'une réduction progressive (FF 2002 2155, 2241), une partie de la doctrine argumente que des circonstances particulières peuvent justifier une prolongation.
 
 ### 6. Indications pratiques
 

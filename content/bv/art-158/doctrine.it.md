@@ -11,7 +11,7 @@ L'art. 158 Cost. si trova nel 5° capitolo della Costituzione federale sulle aut
 ↔ Art. 47 LParl, che disciplina la riservatezza delle deliberazioni delle commissioni
 
 **N. 3** **Elementi della fattispecie / Contenuto della norma**
-Il termine «sedute» comprende secondo la dottrina dominante (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4ª ed. 2023, art. 158 n. 3) esclusivamente le sedute plenarie del Consiglio nazionale e del Consiglio degli Stati. La «pubblicità» significa il libero accesso per il pubblico e i media alle aule dei Consigli durante le deliberazioni. Il termine «Consigli» si riferisce ad entrambe le Camere dell'Assemblea federale, non però alle loro commissioni o ad altri organi (Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, art. 158 n. 5).
+Il termine «sedute» comprende secondo la dottrina dominante (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4ª ed. 2023, art. 158 n. 3) esclusivamente le sedute plenarie del Consiglio nazionale e del Consiglio degli Stati. La «pubblicità» significa il libero accesso per il pubblico e i media alle aule dei Consigli durante le deliberazioni. Il termine «Consigli» si riferisce ad entrambe le Camere dell'Assemblea federale, non però alle loro commissioni o ad altri organi.
 
 **N. 4** **Conseguenze giuridiche**
 Il principio di pubblicità fonda un diritto di rango costituzionale all'accesso alle sedute dei Consigli. L'attuazione pratica avviene mediante i regolamenti dei Consigli (art. 15 RCS, art. 20 RCN). Le violazioni della pubblicità possono comportare l'invalidità delle decisioni, purché la pubblicità non sia stata esclusa conformemente alla legge (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10ª ed. 2020, n. 1789).

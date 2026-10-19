@@ -20,9 +20,9 @@
 
 ### 3. Elementi costitutivi / Contenuto della norma
 
-**N. 7** **Reato scatenante**: La fattispecie comprende persone che «vengono condannate perché hanno leso l'integrità sessuale di un bambino o di una persona in situazione di dipendenza». Göksu sostiene che sia compreso anche il consumo di pornografia infantile, poiché il consumatore si trova «nell'ambito di finalità del divieto» (Göksu, BSK BV, Art. 123c N. 8). Ciò è in linea con **DTF 149 IV 161**, che conferma un ampio campo di applicazione.
+**N. 7** **Reato scatenante**: La fattispecie comprende persone che «vengono condannate perché hanno leso l'integrità sessuale di un bambino o di una persona in situazione di dipendenza». Göksu sostiene che sia compreso anche il consumo di pornografia infantile, poiché il consumatore si trova «nell'ambito di finalità del divieto». Ciò è in linea con **DTF 149 IV 161**, che conferma un ampio campo di applicazione.
 
-**N. 8** **Concetto di bambino**: Come bambini sono considerate secondo la dottrina dominante le persone sotto i 16 anni, in analogia con l'età di protezione nel diritto penale sessuale (→ art. 187 CP). La versione francese («mineur») indica minorenni sotto i 18 anni, il che porta a problemi di interpretazione (Göksu, BSK BV, Art. 123c N. 11).
+**N. 8** **Concetto di bambino**: Come bambini sono considerate secondo la dottrina dominante le persone sotto i 16 anni, in analogia con l'età di protezione nel diritto penale sessuale (→ art. 187 CP). La versione francese («mineur») indica minorenni sotto i 18 anni, il che porta a problemi di interpretazione.
 
 **N. 9** **Persona dipendente**: Questo concetto comprende persone in un particolare rapporto di dipendenza, ad esempio a causa di disabilità, malattia o un rapporto di assistenza. La delimitazione esatta rimane controversa nella dottrina e nella giurisprudenza.
 
@@ -30,13 +30,13 @@
 
 **N. 10** **Automatismo del divieto**: La Costituzione ordina imperativamente un divieto «definitivo», senza margine di discrezionalità per i tribunali. Questo automatismo è stato attuato dal legislatore nell'art. 67 cpv. 2bis CP come divieto di attività «a vita», con possibilità di verifica dopo dieci anni (art. 67c cpv. 6 CP).
 
-**N. 11** **Portata delle attività vietate**: Sono compresi attività professionali e extraprofessionali con minorenni o altre persone particolarmente bisognose di protezione. Il Consiglio federale interpreta questo restrittivamente: sarebbero comprese solo le attività «con» minorenni, non quelle in cui è «meramente possibile il contatto» (Göksu, BSK BV, Art. 123c N. 25, con riferimento al messaggio). Göksu critica che il testo francese sia più ampio e comprenda «ogni attività che consente contatto con bambini».
+**N. 11** **Portata delle attività vietate**: Sono compresi attività professionali e extraprofessionali con minorenni o altre persone particolarmente bisognose di protezione. Il Consiglio federale interpreta questo restrittivamente: sarebbero comprese solo le attività «con» minorenni, non quelle in cui è «meramente possibile il contatto». Göksu critica che il testo francese sia più ampio e comprenda «ogni attività che consente contatto con bambini».
 
 **N. 12** **Riserva di proporzionalità**: Il legislatore ha creato nell'art. 67 cpv. 4bis CP una disposizione eccezionale per «casi particolarmente lievi». Questa viene interpretata secondo **DTF 149 IV 161 consid. 2.5.1** in modo estremamente restrittivo: il divieto di attività a vita deve rimanere la regola.
 
 ### 5. Controversie
 
-**N. 13** **Applicabilità diretta**: Un punto controverso centrale riguarda l'applicabilità immediata della disposizione costituzionale. Göksu sostiene che la disposizione sia «sufficientemente determinata per poter essere applicata direttamente, anche se in un ambito limitato» (Göksu, BSK BV, Art. 123c N. 2). Il Consiglio federale invece ha argomentato che la disposizione «non potrà fare a meno di un'attuazione a livello legislativo» (FF 2012 8275, 8294).
+**N. 13** **Applicabilità diretta**: Un punto controverso centrale riguarda l'applicabilità immediata della disposizione costituzionale. Göksu sostiene che la disposizione sia «sufficientemente determinata per poter essere applicata direttamente, anche se in un ambito limitato». Il Consiglio federale invece ha argomentato che la disposizione «non potrà fare a meno di un'attuazione a livello legislativo» (FF 2012 8275, 8294).
 
 **N. 14** **Portata del divieto di attività**: È controversamente discussa la portata delle attività comprese. Mentre un'interpretazione restrittiva comprende solo attività di assistenza diretta, altri propendono per un'interpretazione ampia che includa ogni possibile contatto con minorenni. La giurisprudenza tende all'interpretazione restrittiva (T. amm. ZH, VB.2014.00008).
 

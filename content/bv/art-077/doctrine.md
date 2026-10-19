@@ -20,7 +20,7 @@
 
 ### Multifunktionalität des Waldes (Abs. 1)
 
-**N. 7** Der Verfassungsgeber verankert in Abs. 1 die drei klassischen Waldfunktionen: Die **Schutzfunktion** umfasst den Schutz vor Naturgefahren (Lawinen, Steinschlag, Erosion) und die klimatische Ausgleichsfunktion. Die **Nutzfunktion** beinhaltet primär die Holzproduktion als nachwachsenden Rohstoff. Die **Wohlfahrtsfunktion** umfasst Erholung, Biodiversität, Wasserschutz und Luftreinigung (Hoffmann/Griffel, BSK BV, Art. 77 N. 12-15).
+**N. 7** Der Verfassungsgeber verankert in Abs. 1 die drei klassischen Waldfunktionen: Die **Schutzfunktion** umfasst den Schutz vor Naturgefahren (Lawinen, Steinschlag, Erosion) und die klimatische Ausgleichsfunktion. Die **Nutzfunktion** beinhaltet primär die Holzproduktion als nachwachsenden Rohstoff. Die **Wohlfahrtsfunktion** umfasst Erholung, Biodiversität, Wasserschutz und Luftreinigung.
 
 **N. 8** Diese Trias der Waldfunktionen ist nicht abschliessend. Die moderne Waldpolitik anerkennt weitere Funktionen wie die CO₂-Speicherung im Kontext des Klimaschutzes. Entscheidend ist die gleichrangige Berücksichtigung aller Funktionen ohne apriorische Priorisierung (Griffel, Wald und Recht, SZF 2012, 305).
 
@@ -30,11 +30,11 @@
 
 **N. 10** Der Begriff «Grundsätze» ist restriktiv auszulegen. Der Bund darf nur die wesentlichen Leitlinien festlegen, während die Detailregelung und der Vollzug grundsätzlich den Kantonen obliegen (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N. 1127). Die Praxis zeigt allerdings eine extensive Ausschöpfung dieser Kompetenz im Waldgesetz.
 
-**N. 11** Umstritten ist, ob die Grundsatzgesetzgebungskompetenz auch Vollzugskompetenzen des Bundes legitimiert. **Jagmetti** (zit. bei Hoffmann/Griffel, BSK BV, Art. 77 N. 20) verneint dies mit Verweis auf den Unterschied zur früheren Oberaufsichtskompetenz. **Hoffmann/Griffel** (BSK BV, Art. 77 N. 20) bejahen hingegen gestützt auf → Art. 46 Abs. 1 BV begrenzte Bundesvollzugskompetenzen.
+**N. 11** Umstritten ist, ob die Grundsatzgesetzgebungskompetenz auch Vollzugskompetenzen des Bundes legitimiert. **Jagmetti** verneint dies mit Verweis auf den Unterschied zur früheren Oberaufsichtskompetenz. **Hoffmann/Griffel** bejahen hingegen gestützt auf → Art. 46 Abs. 1 BV begrenzte Bundesvollzugskompetenzen.
 
 ### Förderungskompetenz (Abs. 3)
 
-**N. 12** Die Förderungskompetenz ermächtigt den Bund zu finanziellen und nicht-finanziellen Unterstützungsmassnahmen. Typische Instrumente sind Subventionen für Schutzwaldpflege, Forschungsförderung und Ausbildungsbeiträge (Hoffmann/Griffel, BSK BV, Art. 77 N. 23).
+**N. 12** Die Förderungskompetenz ermächtigt den Bund zu finanziellen und nicht-finanziellen Unterstützungsmassnahmen. Typische Instrumente sind Subventionen für Schutzwaldpflege, Forschungsförderung und Ausbildungsbeiträge.
 
 **N. 13** Die Förderung ist fakultativ («er fördert») und steht unter dem Vorbehalt der verfügbaren Mittel. Sie ergänzt die regulatorischen Massnahmen der Grundsatzgesetzgebung durch Anreizmechanismen des kooperativen Verwaltungshandelns.
 
@@ -52,7 +52,7 @@
 
 **N. 17** Kontrovers diskutiert wird die zulässige Regelungsdichte bei Grundsatzgesetzgebungskompetenzen. **Rausch/Marti/Griffel** (Umweltrecht, 142) vertreten eine restriktive Auslegung: Der Bund dürfe nur Rahmenvorschriften erlassen. **Keller** (Volksinitiative «Rettet den Schweizer Wald», 23) plädiert für eine weitere Auslegung angesichts der nationalen Bedeutung des Waldschutzes.
 
-**N. 18** Besonders umstritten ist der dynamische Waldbegriff des WaG. **Hoffmann/Griffel** (BSK BV, Art. 77 N. 17) kritisieren, dass der Bundesgesetzgeber den Kantonen «plein pouvoir» zur Ersetzung durch den statischen Waldbegriff einräumte, ohne einschränkende Kriterien zu formulieren. **Jaissle** (Der dynamische Waldbegriff, 187 ff.) verteidigt die Flexibilität als notwendig für die kantonale Raumplanung.
+**N. 18** Besonders umstritten ist der dynamische Waldbegriff des WaG. **Hoffmann/Griffel** kritisieren, dass der Bundesgesetzgeber den Kantonen «plein pouvoir» zur Ersetzung durch den statischen Waldbegriff einräumte, ohne einschränkende Kriterien zu formulieren. **Jaissle** (Der dynamische Waldbegriff, 187 ff.) verteidigt die Flexibilität als notwendig für die kantonale Raumplanung.
 
 ### Verhältnis zu internationalen Verpflichtungen
 
@@ -60,7 +60,7 @@
 
 ### Bundesvollzug bei Grundsatzgesetzgebung
 
-**N. 20** Der Streit um Bundesvollzugskompetenzen bei blosser Grundsatzgesetzgebung bleibt aktuell. **Jagmetti** (zit. bei Hoffmann/Griffel, BSK BV, Art. 77 N. 20) sieht in der Verfassungsrevision eine bewusste Kompetenzverschiebung zu den Kantonen. **Hoffmann/Griffel** (BSK BV, Art. 77 N. 20) und **Wild** (Die Rodungsbewilligung, ZBl 2002, 120) argumentieren, → Art. 46 Abs. 1 BV erlaube punktuelle Bundesvollzugskompetenzen auch bei Grundsatzgesetzgebung.
+**N. 20** Der Streit um Bundesvollzugskompetenzen bei blosser Grundsatzgesetzgebung bleibt aktuell. **Jagmetti** sieht in der Verfassungsrevision eine bewusste Kompetenzverschiebung zu den Kantonen. **Hoffmann/Griffel** und **Wild** (Die Rodungsbewilligung, ZBl 2002, 120) argumentieren, → Art. 46 Abs. 1 BV erlaube punktuelle Bundesvollzugskompetenzen auch bei Grundsatzgesetzgebung.
 
 ## Praxishinweise
 

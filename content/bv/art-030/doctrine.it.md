@@ -28,7 +28,7 @@
 
 #### b) Indipendenza e imparzialità (cpv. 1)
 
-**N. 7** L'indipendenza ha una dimensione istituzionale e una individuale. Dal punto di vista istituzionale richiede la separazione organizzativa da altri poteri dello Stato, durata in carica adeguata, protezione dalla revoca e dotazione finanziaria sufficiente (**DTF 140 I 271** consid. 8). **Steinmann** (BSK BV, Art. 30 N. 21) evidenzia che anche dipendenze di fatto come i procedimenti di rielezione possono essere problematici.
+**N. 7** L'indipendenza ha una dimensione istituzionale e una individuale. Dal punto di vista istituzionale richiede la separazione organizzativa da altri poteri dello Stato, durata in carica adeguata, protezione dalla revoca e dotazione finanziaria sufficiente (**DTF 140 I 271** consid. 8). **Steinmann** evidenzia che anche dipendenze di fatto come i procedimenti di rielezione possono essere problematici.
 
 **N. 8** L'imparzialità concerne l'atteggiamento interiore del giudice. Il Tribunale federale distingue tra prevenzione soggettiva (effettivo pregiudizio) e prevenzione oggettiva (apparenza di pregiudizio). Quest'ultima è sufficiente per affermare un motivo di ricusazione (**DTF 131 I 113** consid. 3.4).
 
@@ -46,7 +46,7 @@
 
 ### 4. Conseguenze giuridiche
 
-**N. 12** Le violazioni dell'art. 30 cpv. 1 Cost. comportano la nullità della sentenza. In caso di prevenzione di un giudice, l'intero procedimento deve essere ripetuto a partire dalla sua partecipazione (**DTF 139 III 120** consid. 3). **Seiler** (BSK BV, Art. 30 N. 34) sostiene che anche in caso di vizi strutturali dell'indipendenza non è possibile alcuna sanatoria.
+**N. 12** Le violazioni dell'art. 30 cpv. 1 Cost. comportano la nullità della sentenza. In caso di prevenzione di un giudice, l'intero procedimento deve essere ripetuto a partire dalla sua partecipazione (**DTF 139 III 120** consid. 3). **Seiler** sostiene che anche in caso di vizi strutturali dell'indipendenza non è possibile alcuna sanatoria.
 
 **N. 13** La violazione del foro del domicilio può essere sanata se la parte convenuta si costituisce senza riserve. La violazione della pubblicità della giustizia comporta l'annullamento solo in casi gravi, laddove **Rhinow/Schefer/Uebersax** (Verfassungsrecht, N. 2894) esigono una ponderazione degli interessi.
 
@@ -56,7 +56,7 @@
 
 **N. 15** **Indipendenza giudiziaria nella rielezione**: **Kiener/Kälin/Wyttenbach** (Grundrechte, § 41 N. 12) vedono nelle rielezioni periodiche un pericolo strutturale per l'indipendenza. **Mastronardi** (St. Galler Kommentar BV, Vorbem. zu Art. 188-191c N. 28) obietta che la legittimazione democratica richiede anche rielezioni. **Lienhard/Kettiger** (Justiz zwischen Management und Rechtsstaat, 178) chiedono periodi di mandato più lunghi come compromesso.
 
-**N. 16** **Portata della pubblicità della giustizia**: È controversa la portata della pubblicità. **Oberholzer** (Grundzüge des Strafprozessrechts, N. 156) propende per una pubblicità mediatica completa. **Vest/Höhener** (BSK StPO, Art. 69 N. 8) ammoniscono per la protezione dei partecipanti al procedimento. Il Tribunale federale valuta maggiormente la trasparenza (**DTF 143 I 194**).
+**N. 16** **Portata della pubblicità della giustizia**: È controversa la portata della pubblicità. **Oberholzer** (Grundzüge des Strafprozessrechts, N. 156) propende per una pubblicità mediatica completa. **Vest/Höhener** ammoniscono per la protezione dei partecipanti al procedimento. Il Tribunale federale valuta maggiormente la trasparenza (**DTF 143 I 194**).
 
 ### 6. Indicazioni pratiche
 

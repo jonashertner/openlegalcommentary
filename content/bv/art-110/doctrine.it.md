@@ -6,7 +6,7 @@
 
 **N. 2** La revisione totale della Costituzione federale del 1999 riprese il contenuto normativo dell'art. 34ter aCostituzione in gran parte invariato (FF 1997 I 1, 278 s.). Tuttavia, fu aggiunto l'art. 110 cpv. 3 Cost., che stabilisce il 1° agosto come festa federale retribuita. Questa aggiunta risale all'iniziativa popolare «per una festa federale non lavorativa» che fu accettata nel 1993 (FF 1991 III 269; FF 1993 II 1305).
 
-**N. 3** Lo sviluppo storico-costituzionale mostra che la protezione dei lavoratori fu ampliata gradualmente: dalla puntuale legge sulle fabbriche del 1877, attraverso gli articoli economici del 1947, fino all'odierna competenza federale completa. Tschudi sottolinea che la norma costituzionale conferisce alla Confederazione non solo un'autorizzazione, ma un mandato per emanare prescrizioni di protezione dei lavoratori (Cardinaux, BSK BV, Art. 110 N. 22).
+**N. 3** Lo sviluppo storico-costituzionale mostra che la protezione dei lavoratori fu ampliata gradualmente: dalla puntuale legge sulle fabbriche del 1877, attraverso gli articoli economici del 1947, fino all'odierna competenza federale completa. Tschudi sottolinea che la norma costituzionale conferisce alla Confederazione non solo un'autorizzazione, ma un mandato per emanare prescrizioni di protezione dei lavoratori.
 
 ### 2. Collocazione sistematica
 
@@ -20,7 +20,7 @@
 
 **N. 7** **Protezione dei lavoratori (cpv. 1 lett. a)**: La competenza comprende tutte le misure per la protezione dell'integrità fisica e psichica dei lavoratori e delle lavoratrici. Ciò include orario di lavoro, protezione della salute, protezione dal licenziamento e norme protettive speciali per giovani e donne incinte. La legge sul lavoro (LL) costituisce l'attuazione centrale di questa competenza.
 
-**N. 8** **Diritto collettivo del lavoro (cpv. 1 lett. b)**: La disposizione permette la regolamentazione del partenariato sociale. È controversa la portata: Cardinaux nega una base per la cogestione imprenditoriale, poiché il sovrano ha respinto progetti corrispondenti e un tale intervento nella proprietà e libertà economica richiederebbe una base costituzionale più chiara (Cardinaux, BSK BV, Art. 110 N. 35). Eichenberger afferma invece la possibilità di una cogestione più ampia a livello aziendale (cit. in Cardinaux, BSK BV, Art. 110 N. 35).
+**N. 8** **Diritto collettivo del lavoro (cpv. 1 lett. b)**: La disposizione permette la regolamentazione del partenariato sociale. È controversa la portata: Cardinaux nega una base per la cogestione imprenditoriale, poiché il sovrano ha respinto progetti corrispondenti e un tale intervento nella proprietà e libertà economica richiederebbe una base costituzionale più chiara. Eichenberger afferma invece la possibilità di una cogestione più ampia a livello aziendale.
 
 **N. 9** **Collocamento (cpv. 1 lett. c)**: La competenza comprende il collocamento pubblico e privato nonché il prestito di personale. La legge sul collocamento (LC) disciplina gli obblighi di autorizzazione e le disposizioni protettive per i lavoratori collocati e prestati.
 
@@ -38,7 +38,7 @@
 
 ### 5. Controversie
 
-**N. 15** **Portata della cogestione**: La dottrina è divisa sulla portata dell'art. 110 cpv. 1 lett. b Cost. Cardinaux respinge una base costituzionale per una vera cogestione aziendale e si riferisce al rifiuto di iniziative corrispondenti da parte del sovrano nonché al grave intervento nella proprietà e libertà economica (Cardinaux, BSK BV, Art. 110 N. 35). Eichenberger vede invece nella formulazione «regolamentazione comune di questioni aziendali e professionali» una base sufficiente per diritti di cogestione più ampi (cit. in Cardinaux, BSK BV, Art. 110 N. 35).
+**N. 15** **Portata della cogestione**: La dottrina è divisa sulla portata dell'art. 110 cpv. 1 lett. b Cost. Cardinaux respinge una base costituzionale per una vera cogestione aziendale e si riferisce al rifiuto di iniziative corrispondenti da parte del sovrano nonché al grave intervento nella proprietà e libertà economica. Eichenberger vede invece nella formulazione «regolamentazione comune di questioni aziendali e professionali» una base sufficiente per diritti di cogestione più ampi.
 
 **N. 16** **Indennizzo per la festa**: A lungo fu controverso se l'art. 110 cpv. 3 Cost. valesse solo per i salariati mensili o anche per i lavoratori a ore. Il Tribunale federale chiarì che il diritto salariale di diritto costituzionale vale per tutti i lavoratori, purché il 1° agosto cada su un giorno lavorativo (**DTF 136 I 290** consid. 3). Streiff/von Kaenel/Rudolph criticano questa limitazione come troppo restrittiva (Arbeitsvertrag, N 4 zu Art. 329 OR).
 

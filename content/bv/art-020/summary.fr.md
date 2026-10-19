@@ -18,7 +18,7 @@ La liberté de la science n'est pas illimitée. Pour les expériences sur animau
 
 ### Signification pratique
 
-En pratique, les conflits naissent surtout dans les domaines de recherche délicats. Pour la recherche en biosécurité, la doctrine discute si les publications de connaissances dangereuses peuvent être limitées (BSK BV-Hertig N. 18). Pour les études cliniques, les droits des patients doivent être préservés. Pour l'encouragement de la recherche, les instances étatiques ne peuvent procéder à aucune censure de contenu.
+En pratique, les conflits naissent surtout dans les domaines de recherche délicats. Pour la recherche en biosécurité, la doctrine discute si les publications de connaissances dangereuses peuvent être limitées. Pour les études cliniques, les droits des patients doivent être préservés. Pour l'encouragement de la recherche, les instances étatiques ne peuvent procéder à aucune censure de contenu.
 
 ### Informations complémentaires
 

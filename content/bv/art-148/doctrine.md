@@ -18,13 +18,13 @@
 
 ### Oberste Gewalt (Abs. 1)
 
-**N. 6** Der Begriff «oberste Gewalt» ist historisch gewachsen und umfasst nach Thurnherr sowohl die Rechtsetzungsfunktion als auch bestimmte Regierungs- und Kontrollfunktionen (Thurnherr, BSK BV, Art. 148 N. 3-5). Die Suprematie äussert sich in verschiedenen Dimensionen.
+**N. 6** Der Begriff «oberste Gewalt» ist historisch gewachsen und umfasst nach Thurnherr sowohl die Rechtsetzungsfunktion als auch bestimmte Regierungs- und Kontrollfunktionen. Die Suprematie äussert sich in verschiedenen Dimensionen.
 
-**N. 7** **Umstrittener Umfang:** Die Lehre ist über den Umfang der parlamentarischen Suprematie geteilt. Eichenberger vertritt ein weites Verständnis: Die oberste Gewalt umfasse alle Rechtsetzungs- und Regierungsfunktionen (Eichenberger, BSK BV, Art. 148 N. 21). Aubert/Mahon und Sägesser folgen diesem weiten Ansatz (Thurnherr, BSK BV, Art. 148 N. 24-25).
+**N. 7** **Umstrittener Umfang:** Die Lehre ist über den Umfang der parlamentarischen Suprematie geteilt. Eichenberger vertritt ein weites Verständnis: Die oberste Gewalt umfasse alle Rechtsetzungs- und Regierungsfunktionen. Aubert/Mahon und Sägesser folgen diesem weiten Ansatz.
 
-**N. 8** Demgegenüber plädiert Tschannen für ein enges Verständnis: Suprematie bestehe nur, soweit die Bundesversammlung andere Bundesbehörden konstituieren oder kontrollieren könne, ohne selbst einer Gegenkontrolle zu unterliegen (Thurnherr, BSK BV, Art. 148 N. 26). Biaggini folgt dieser restriktiven Sicht und beschränkt die Vorrangstellung auf Wahlen, Oberaufsicht und Zuständigkeitskonflikte (Thurnherr, BSK BV, Art. 148 N. 28).
+**N. 8** Demgegenüber plädiert Tschannen für ein enges Verständnis: Suprematie bestehe nur, soweit die Bundesversammlung andere Bundesbehörden konstituieren oder kontrollieren könne, ohne selbst einer Gegenkontrolle zu unterliegen. Biaggini folgt dieser restriktiven Sicht und beschränkt die Vorrangstellung auf Wahlen, Oberaufsicht und Zuständigkeitskonflikte.
 
-**N. 9** Mastronardi nimmt eine vermittelnde Position ein: Er knüpft an Tschannens Definition an, erweitert aber den Kreis auf die Rechtsetzung und weitere Zuständigkeiten (Thurnherr, BSK BV, Art. 148 N. 29).
+**N. 9** Mastronardi nimmt eine vermittelnde Position ein: Er knüpft an Tschannens Definition an, erweitert aber den Kreis auf die Rechtsetzung und weitere Zuständigkeiten.
 
 ### Vorbehalt der Volksrechte
 

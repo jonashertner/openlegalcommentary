@@ -6,15 +6,15 @@ Article 22 of the Federal Constitution guarantees the freedom of assembly. Every
 
 ### What does Art. 22 BV regulate?
 
-The freedom of assembly protects the right to assemble peacefully with others. This includes both small groups and large demonstrations. According to case law, two persons are sufficient for an assembly (**BGE 129 IV 6** E. 5.5.1). The constitutional protection does not primarily relate to physical gathering, but to collective opinion formation (Hertig, BSK BV, Art. 22 N. 7).
+The freedom of assembly protects the right to assemble peacefully with others. This includes both small groups and large demonstrations. According to case law, two persons are sufficient for an assembly (**BGE 129 IV 6** E. 5.5.1). The constitutional protection does not primarily relate to physical gathering, but to collective opinion formation.
 
-It is central that only peaceful assemblies are protected. The Federal Supreme Court has repeatedly emphasised that the Constitution protects only peaceful assemblies despite the deviating wording (**BGE 129 IV 6** E. 2.5; Hertig, BSK BV, Art. 22 N. 9). In case of violence, fundamental rights protection ceases if the violence completely overshadows the opinion-forming component.
+It is central that only peaceful assemblies are protected. The Federal Supreme Court has repeatedly emphasised that the Constitution protects only peaceful assemblies despite the deviating wording (**BGE 129 IV 6** E. 2.5). In case of violence, fundamental rights protection ceases if the violence completely overshadows the opinion-forming component.
 
 ### Who is affected?
 
-All persons who organise an assembly, participate in it or consciously stay away are protected. This includes private individuals, associations and political groups. Everyone is entitled to this right, regardless of nationality or domicile (Hertig, BSK BV, Art. 22 N. 10).
+All persons who organise an assembly, participate in it or consciously stay away are protected. This includes private individuals, associations and political groups. Everyone is entitled to this right, regardless of nationality or domicile.
 
-Restrictions are possible: The state may require a permit for demonstrations on public ground. The prevailing doctrine considers this permit requirement as an interference with fundamental rights that requires a legal basis (Hertig, BSK BV, Art. 22 N. 18).
+Restrictions are possible: The state may require a permit for demonstrations on public ground. The prevailing doctrine considers this permit requirement as an interference with fundamental rights that requires a legal basis.
 
 ### What are the legal consequences?
 

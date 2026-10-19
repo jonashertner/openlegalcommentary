@@ -2,7 +2,7 @@
 
 ### 1. Genèse
 
-**N. 1** La compétence fédérale en matière postale remonte à l'art. 33 de la Constitution fédérale de 1848, qui conférait à la Confédération le droit exclusif d'organiser les postes (FF 1997 I 1, 336). Le secteur des télécommunications fut intégré progressivement : en 1851, la Confédération reçut la souveraineté télégraphique, bien que la base constitutionnelle fût contestée. Le Conseil fédéral fonda le système télégraphique sur le régale postal, car « les communications par télégraphe correspondent en essence aux correspondances épistolaires » (Kern, BSK BV, art. 92 n. 3). La commission parlementaire s'opposa véhémentement : Une subordination au régale postal équivaudrait à la tentative de « vouloir soumettre l'éclair au sabot de roue de la diligence postale » (Kern, BSK BV, art. 92 n. 3).
+**N. 1** La compétence fédérale en matière postale remonte à l'art. 33 de la Constitution fédérale de 1848, qui conférait à la Confédération le droit exclusif d'organiser les postes (FF 1997 I 1, 336). Le secteur des télécommunications fut intégré progressivement: en 1851, la Confédération reçut la souveraineté télégraphique, bien que la base constitutionnelle fût contestée. Le Conseil fédéral fonda le système télégraphique sur le régale postal, car « les communications par télégraphe correspondent en essence aux correspondances épistolaires ». La commission parlementaire s'opposa véhémentement: Une subordination au régale postal équivaudrait à la tentative de « vouloir soumettre l'éclair au sabot de roue de la diligence postale ».
 
 **N. 2** La révision totale de 1999 reprit la compétence fédérale éprouvée, mais l'adapta aux conditions technologiques et économiques modifiées. Le constituant renonça consciemment à l'inscription d'un monopole et permit ainsi l'ouverture progressive du marché tout en assurant le service universel (FF 1997 I 336s.). La formulation « affaire de la Confédération » signale une compétence fédérale étendue, mais laisse ouverte la conception concrète.
 
@@ -18,7 +18,7 @@
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 5** **« Postes et télécommunications »** (al. 1) comprend tous les services de transmission physique et électronique d'informations. Les services postaux incluent l'acheminement de lettres, de colis et les paiements. La portée est controversée : Burckhardt niait l'inclusion des opérations de chèques et de virements dans la base constitutionnelle (Kern, BSK BV, art. 92 n. 6). La doctrine dominante affirme aujourd'hui une interprétation large qui couvre aussi les services de PostFinance (Rhinow/Schefer/Uebersax, Verfassungsrecht, n 3456).
+**N. 5** **« Postes et télécommunications »** (al. 1) comprend tous les services de transmission physique et électronique d'informations. Les services postaux incluent l'acheminement de lettres, de colis et les paiements. La portée est controversée: Burckhardt niait l'inclusion des opérations de chèques et de virements dans la base constitutionnelle. La doctrine dominante affirme aujourd'hui une interprétation large qui couvre aussi les services de PostFinance (Rhinow/Schefer/Uebersax, Verfassungsrecht, n 3456).
 
 **N. 6** Les **télécommunications** couvrent toutes les formes de transmission d'informations au moyen d'ondes électromagnétiques ou de systèmes à conducteur. En relèvent la téléphonie, Internet, la téléphonie mobile et la transmission radiodiffusée (aspects techniques). La régulation du contenu de la radio et de la télévision relève de l'art. 93 Cst. (Barrelet/Werly, Droit de la communication, n 1234).
 
@@ -40,7 +40,7 @@
 
 ### 5. Points litigieux
 
-**N. 14** **Privatisation des entreprises fédérales** : L'admissibilité d'une privatisation complète est controversée. Aubert/Mahon déduisent de la désignation comme « affaire de la Confédération » une interdiction de privatisation – la volonté constitutionnelle se manifesterait dans le maintien du contrôle étatique (Kern, BSK BV, art. 92 n. 15). Biaggini défend la position opposée : Une privatisation complète serait admissible tant que les objectifs de service universel peuvent être atteints par la régulation (Kern, BSK BV, art. 92 n. 15). La pratique montre une voie moyenne : Swisscom fut partiellement privatisée, la Poste reste propriété fédérale.
+**N. 14** **Privatisation des entreprises fédérales**: L'admissibilité d'une privatisation complète est controversée. Aubert/Mahon déduisent de la désignation comme « affaire de la Confédération » une interdiction de privatisation – la volonté constitutionnelle se manifesterait dans le maintien du contrôle étatique. Biaggini défend la position opposée: Une privatisation complète serait admissible tant que les objectifs de service universel peuvent être atteints par la régulation. La pratique montre une voie moyenne: Swisscom fut partiellement privatisée, la Poste reste propriété fédérale.
 
 **N. 15** **Étendue du service universel** : L'interprétation dynamique du concept de service universel mène à des controverses. Alors que Trüeb plaide pour une interprétation minimaliste qui ne couvre que les services vitaux (Trüeb, AJP 2002, 1190), Hänni/Stöckli exigent une interprétation généreuse qui tient compte du développement technologique (Wirtschaftsverwaltungsrecht, p. 234). Le Tribunal fédéral suit une ligne de compromis (**ATF 129 III 35**).
 

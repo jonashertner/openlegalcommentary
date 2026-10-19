@@ -16,7 +16,7 @@
 
 ### 3.1 Servizi parlamentari (cpv. 1 frase 1)
 
-**N. 5** Il concetto di «servizi parlamentari» comprende tutte le unità amministrative che operano esclusivamente per l'Assemblea federale. Vi appartengono il Segretariato generale dell'Assemblea federale, i servizi scientifici, i servizi di traduzione e i servizi tecnici. I servizi parlamentari sono organizzativamente separati dall'Amministrazione federale e sottostanno alla direzione della Delegazione amministrativa dell'Assemblea federale (BSK Cost., Sägesser, art. 155 n. 5-7).
+**N. 5** Il concetto di «servizi parlamentari» comprende tutte le unità amministrative che operano esclusivamente per l'Assemblea federale. Vi appartengono il Segretariato generale dell'Assemblea federale, i servizi scientifici, i servizi di traduzione e i servizi tecnici. I servizi parlamentari sono organizzativamente separati dall'Amministrazione federale e sottostanno alla direzione della Delegazione amministrativa dell'Assemblea federale.
 
 **N. 6** La formulazione «dispone di» fonda un diritto costituzionale dell'Assemblea federale ai servizi propri. Ciò esclude un'esternalizzazione completa delle funzioni di supporto parlamentari all'esecutivo. L'entità dei servizi parlamentari si orienta secondo i bisogni di un funzionamento parlamentare efficace (Häfelin/Haller/Keller/Thurnherr, Diritto dello Stato federale, n. 1638).
 
@@ -24,7 +24,7 @@
 
 **N. 7** La possibilità di ricorrere a «uffici dell'Amministrazione federale» consente all'Assemblea federale di far capo al know-how specializzato dell'esecutivo. Ciò riguarda in particolare la collaborazione di uffici federali nelle commissioni parlamentari o la messa a disposizione di perizie. Il ricorso avviene in via sussidiaria e complementare ai servizi parlamentari propri (Commentario di San Gallo Cost., Sägesser, art. 155 n. 8).
 
-**N. 8** Le unità amministrative cui si fa ricorso rimangono organizzativamente parte dell'esecutivo, ma operano per fini parlamentari. Ciò solleva questioni di competenza direttiva e di riservatezza, che sono disciplinate dall'art. 150 cpv. 2 LParl: le unità amministrative sottostanno per la loro attività parlamentare alle direttive delle presidenze delle commissioni (BSK Cost., Sägesser, art. 155 n. 9).
+**N. 8** Le unità amministrative cui si fa ricorso rimangono organizzativamente parte dell'esecutivo, ma operano per fini parlamentari. Ciò solleva questioni di competenza direttiva e di riservatezza, che sono disciplinate dall'art. 150 cpv. 2 LParl: le unità amministrative sottostanno per la loro attività parlamentare alle direttive delle presidenze delle commissioni.
 
 ### 3.3 Mandato legislativo (cpv. 2)
 
@@ -44,11 +44,11 @@
 
 ## 5. Questioni controverse
 
-**N. 13** **Portata dell'autonomia parlamentare**: Nella dottrina è controverso fino a che punto si estenda l'autonomia organizzativa dei servizi parlamentari. Sägesser (BSK Cost., art. 155 n. 11) sostiene un'interpretazione estensiva, secondo cui i servizi parlamentari devono essere indipendenti dall'esecutivo in tutti gli aspetti. Al contrario, Müller (Diritto parlamentare della Svizzera, 2022, 487) propende per una considerazione funzionale: solo nella misura in cui l'indipendenza sia necessaria per il lavoro parlamentare sussiste una protezione costituzionale.
+**N. 13** **Portata dell'autonomia parlamentare**: Nella dottrina è controverso fino a che punto si estenda l'autonomia organizzativa dei servizi parlamentari. Sägesser sostiene un'interpretazione estensiva, secondo cui i servizi parlamentari devono essere indipendenti dall'esecutivo in tutti gli aspetti. Al contrario, Müller (Diritto parlamentare della Svizzera, 2022, 487) propende per una considerazione funzionale: solo nella misura in cui l'indipendenza sia necessaria per il lavoro parlamentare sussiste una protezione costituzionale.
 
 **N. 14** **Posizione di diritto del personale**: È discussa in modo controverso l'applicabilità della Legge sul personale federale ai servizi parlamentari. Mentre Tschannen (in: Tschannen/Zimmerli/Müller, Diritto amministrativo generale, § 23 n. 45) sostiene un'applicazione completa della LPers, Biaggini (Commentario Cost., art. 155 n. 3) e la scuola di San Gallo vedono come ammissibile un ordinamento autonomo di diritto del personale. La prassi segue un approccio differenziato con applicazione in linea di principio della LPers con riserva di disciplinamenti specifici del parlamento.
 
-**N. 15** **Portata del diritto di ricorso**: Sussiste disaccordo sui limiti del diritto di ricorrere a unità amministrative. Graf (Commissioni d'inchiesta parlamentari, 2021, 234) argomenta per un'interpretazione ampia, che consentirebbe anche il distaccamento temporaneo di interi uffici. La dottrina dominante (Commentario di San Gallo Cost., Sägesser, art. 155 n. 12; BSK Cost., Sägesser, art. 155 n. 13) limita il diritto di ricorso a prestazioni di supporto puntuali e nega un'integrazione duratura di unità amministrative nell'organizzazione parlamentare.
+**N. 15** **Portata del diritto di ricorso**: Sussiste disaccordo sui limiti del diritto di ricorrere a unità amministrative. Graf (Commissioni d'inchiesta parlamentari, 2021, 234) argomenta per un'interpretazione ampia, che consentirebbe anche il distaccamento temporaneo di interi uffici. La dottrina dominante (Commentario di San Gallo Cost., Sägesser, art. 155 n. 12) limita il diritto di ricorso a prestazioni di supporto puntuali e nega un'integrazione duratura di unità amministrative nell'organizzazione parlamentare.
 
 ## 6. Indicazioni pratiche
 

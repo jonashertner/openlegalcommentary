@@ -65,7 +65,7 @@
 
 ### Delimitazione rispetto alle ordinanze autonome
 
-**N. 18** È controversa l'ammissibilità di ordinanze autonome fondate sull'art. 182 cpv. 1 Cost. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, N 1823) riconoscono un ambito ristretto per ordinanze organizzative. Waldmann (BSK BV, Art. 182 N 15) rifiuta categoricamente ordinanze autonome con effetto verso l'esterno.
+**N. 18** È controversa l'ammissibilità di ordinanze autonome fondate sull'art. 182 cpv. 1 Cost. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, N 1823) riconoscono un ambito ristretto per ordinanze organizzative. Waldmann rifiuta categoricamente ordinanze autonome con effetto verso l'esterno.
 
 **N. 19** La prassi mostra una tendenza all'utilizzo estensivo di ordinanze di esecuzione. Malinverni/Hottelier/Hertig Randall/Flückiger (Droit constitutionnel suisse, N 1456) criticano questa «érosion du principe de légalité» ed esigono un ritorno alla riserva di legge.
 

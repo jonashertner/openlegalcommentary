@@ -2,21 +2,21 @@
 
 ### 1. Storia dell'origine
 
-**N. 1** L'art. 120 Cost. è stato creato nell'ambito della revisione totale della Costituzione federale del 1999 e ha sostituito il precedente art. 24novies Cost. (inserito nel 1992). La disposizione costituzionale ha reagito ai rapidi sviluppi nella tecnologia genetica e al bisogno sociale di orientamenti giuridici per queste nuove tecnologie (FF 1997 I 256). La disposizione è stata successivamente completata dalla disposizione transitoria dell'art. 197 n. 7 Cost., che prevedeva una moratoria di cinque anni per l'uso agricolo di organismi geneticamente modificati (Waldmann, BSK BV, Art. 120 N. 2).
+**N. 1** L'art. 120 Cost. è stato creato nell'ambito della revisione totale della Costituzione federale del 1999 e ha sostituito il precedente art. 24novies Cost. (inserito nel 1992). La disposizione costituzionale ha reagito ai rapidi sviluppi nella tecnologia genetica e al bisogno sociale di orientamenti giuridici per queste nuove tecnologie (FF 1997 I 256). La disposizione è stata successivamente completata dalla disposizione transitoria dell'art. 197 n. 7 Cost., che prevedeva una moratoria di cinque anni per l'uso agricolo di organismi geneticamente modificati.
 
 **N. 2** Il costituente ha perseguito con l'art. 120 Cost. tre obiettivi centrali: la protezione dagli abusi della tecnologia genetica, il rispetto della dignità della creatura e la protezione della diversità genetica. Il concetto di «dignità della creatura» rappresentava un'innovazione nel diritto costituzionale e ha scatenato dibattiti intensi sul suo contenuto normativo (FF 1997 I 256 s.).
 
 ### 2. Collocazione sistematica
 
-**N. 3** L'art. 120 Cost. si trova nella sezione 8 «Abitazione, lavoro, sicurezza sociale e salute» ed è in stretta correlazione sistematica con l'art. 119 Cost. (medicina della procreazione e tecnologia genetica nell'ambito umano). La divisione della regolamentazione della tecnologia genetica in ambito umano ed extra-umano riflette i diversi standard etici e giuridici in questi settori (Waldmann, BSK BV, Art. 120 N. 3).
+**N. 3** L'art. 120 Cost. si trova nella sezione 8 «Abitazione, lavoro, sicurezza sociale e salute» ed è in stretta correlazione sistematica con l'art. 119 Cost. (medicina della procreazione e tecnologia genetica nell'ambito umano). La divisione della regolamentazione della tecnologia genetica in ambito umano ed extra-umano riflette i diversi standard etici e giuridici in questi settori.
 
 **N. 4** La norma presenta molteplici collegamenti trasversali: → art. 73 Cost. (sostenibilità), → art. 74 Cost. (protezione dell'ambiente), → art. 78 Cost. (protezione della natura e del paesaggio), → art. 80 Cost. (protezione degli animali) e → art. 104 Cost. (agricoltura). Questi riferimenti sistematici sottolineano la pretesa di protezione globale della Costituzione nell'ambito della biotecnologia.
 
 ### 3. Elementi di fattispecie / Contenuto normativo
 
-**N. 5** L'art. 120 cpv. 1 Cost. stabilisce un precetto generale di protezione dagli «abusi della tecnologia genetica». Il concetto di abuso presuppone un uso lecito e implica quindi che la tecnologia genetica non è vietata di per sé, ma solo la sua applicazione abusiva (Waldmann, BSK BV, Art. 120 N. 4-7).
+**N. 5** L'art. 120 cpv. 1 Cost. stabilisce un precetto generale di protezione dagli «abusi della tecnologia genetica». Il concetto di abuso presuppone un uso lecito e implica quindi che la tecnologia genetica non è vietata di per sé, ma solo la sua applicazione abusiva.
 
-**N. 6** L'art. 120 cpv. 2 frase 1 Cost. fonda una competenza federale globale per l'emanazione di prescrizioni sulla manipolazione del patrimonio germinale ed ereditario. Questa competenza comprende tutte le fasi dal sistema chiuso ai test di rilascio fino alla messa in commercio (Waldmann, BSK BV, Art. 120 N. 8-13).
+**N. 6** L'art. 120 cpv. 2 frase 1 Cost. fonda una competenza federale globale per l'emanazione di prescrizioni sulla manipolazione del patrimonio germinale ed ereditario. Questa competenza comprende tutte le fasi dal sistema chiuso ai test di rilascio fino alla messa in commercio.
 
 **N. 7** Il concetto centrale e al contempo più controverso è la «dignità della creatura» nell'art. 120 cpv. 2 frase 2 Cost. La dottrina dominante intende con ciò solo gli esseri viventi non umani (Schmithüsen/Zachariae, Aspekte-Schaerer, 121 ss.), mentre un'opinione minoritaria include anche l'essere umano (Errass, Gentechnologie, 61 ss. e ZSR 2002 I 333 s.). Il Tribunale federale ha chiarito in **DTF 135 II 405 cons. 4.3** che la dignità della creatura esiste indipendentemente dalla tecnologia genetica e deve essere rispettata anche al di fuori di questo ambito.
 

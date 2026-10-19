@@ -20,9 +20,9 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** **Anlasstat**: Der Tatbestand erfasst Personen, die «verurteilt werden, weil sie die sexuelle Unversehrtheit eines Kindes oder einer abhängigen Person beeinträchtigt haben». Göksu vertritt die Position, dass auch der Konsum von Kinderpornografie erfasst sei, da sich der Konsument «im Zweckbereich des Verbots» befinde (Göksu, BSK BV, Art. 123c N. 8). Dies steht im Einklang mit **BGE 149 IV 161**, der einen weiten Anwendungsbereich bestätigt.
+**N. 7** **Anlasstat**: Der Tatbestand erfasst Personen, die «verurteilt werden, weil sie die sexuelle Unversehrtheit eines Kindes oder einer abhängigen Person beeinträchtigt haben». Göksu vertritt die Position, dass auch der Konsum von Kinderpornografie erfasst sei, da sich der Konsument «im Zweckbereich des Verbots» befinde. Dies steht im Einklang mit **BGE 149 IV 161**, der einen weiten Anwendungsbereich bestätigt.
 
-**N. 8** **Kindesbegriff**: Als Kinder gelten gemäss herrschender Lehre Personen unter 16 Jahren, in Anlehnung an das Schutzalter im Sexualstrafrecht (→ Art. 187 StGB). Die französische Fassung («mineur») deutet auf Minderjährige unter 18 Jahren hin, was zu Auslegungsproblemen führt (Göksu, BSK BV, Art. 123c N. 11).
+**N. 8** **Kindesbegriff**: Als Kinder gelten gemäss herrschender Lehre Personen unter 16 Jahren, in Anlehnung an das Schutzalter im Sexualstrafrecht (→ Art. 187 StGB). Die französische Fassung («mineur») deutet auf Minderjährige unter 18 Jahren hin, was zu Auslegungsproblemen führt.
 
 **N. 9** **Abhängige Person**: Dieser Begriff umfasst Personen in einem besonderen Abhängigkeitsverhältnis, etwa aufgrund von Behinderung, Krankheit oder einem Betreuungsverhältnis. Die genaue Abgrenzung bleibt in Lehre und Rechtsprechung umstritten.
 
@@ -30,13 +30,13 @@
 
 **N. 10** **Automatismus des Verbots**: Die Verfassung ordnet zwingend ein «endgültiges» Verbot an, ohne Ermessensspielraum für die Gerichte. Dieser Automatismus wurde vom Gesetzgeber in Art. 67 Abs. 2bis StGB als «lebenslängliches» Tätigkeitsverbot umgesetzt, wobei nach zehn Jahren eine Überprüfung möglich ist (Art. 67c Abs. 6 StGB).
 
-**N. 11** **Umfang der verbotenen Tätigkeiten**: Erfasst sind berufliche und ausserbberufliche Tätigkeiten mit Minderjährigen oder anderen besonders schutzbedürftigen Personen. Der Bundesrat interpretiert dies restriktiv: Nur Tätigkeiten «mit» Minderjährigen seien erfasst, nicht solche, bei denen «lediglich Kontakt möglich» sei (Göksu, BSK BV, Art. 123c N. 25, unter Verweis auf die Botschaft). Göksu kritisiert, dass der französische Text weiter gefasst sei und «jede Tätigkeit die Kontakt mit Kindern ermöglicht» erfasse.
+**N. 11** **Umfang der verbotenen Tätigkeiten**: Erfasst sind berufliche und ausserbberufliche Tätigkeiten mit Minderjährigen oder anderen besonders schutzbedürftigen Personen. Der Bundesrat interpretiert dies restriktiv: Nur Tätigkeiten «mit» Minderjährigen seien erfasst, nicht solche, bei denen «lediglich Kontakt möglich» sei. Göksu kritisiert, dass der französische Text weiter gefasst sei und «jede Tätigkeit die Kontakt mit Kindern ermöglicht» erfasse.
 
 **N. 12** **Verhältnismässigkeitsvorbehalt**: Der Gesetzgeber hat in Art. 67 Abs. 4bis StGB eine Ausnahmebestimmung für «besonders leichte Fälle» geschaffen. Diese wird gemäss **BGE 149 IV 161 E. 2.5.1** äusserst restriktiv ausgelegt: Das lebenslängliche Tätigkeitsverbot soll die Regel bleiben.
 
 ### 5. Streitstände
 
-**N. 13** **Direkte Anwendbarkeit**: Ein zentraler Streitpunkt betrifft die unmittelbare Anwendbarkeit der Verfassungsbestimmung. Göksu vertritt, die Bestimmung sei «hinreichend bestimmt, um direkt angewendet werden zu können, wenn auch in einem beschränkten Rahmen» (Göksu, BSK BV, Art. 123c N. 2). Der Bundesrat hingegen argumentierte, die Bestimmung werde «ohne Umsetzung auf Gesetzesstufe nicht auskommen» (BBl 2012 8819, 8838).
+**N. 13** **Direkte Anwendbarkeit**: Ein zentraler Streitpunkt betrifft die unmittelbare Anwendbarkeit der Verfassungsbestimmung. Göksu vertritt, die Bestimmung sei «hinreichend bestimmt, um direkt angewendet werden zu können, wenn auch in einem beschränkten Rahmen». Der Bundesrat hingegen argumentierte, die Bestimmung werde «ohne Umsetzung auf Gesetzesstufe nicht auskommen» (BBl 2012 8819, 8838).
 
 **N. 14** **Reichweite des Tätigkeitsverbots**: Kontrovers diskutiert wird der Umfang der erfassten Tätigkeiten. Während eine enge Auslegung nur unmittelbare Betreuungstätigkeiten erfasst, plädieren andere für eine weite Auslegung, die jeden möglichen Kontakt mit Minderjährigen einschliesst. Die Rechtsprechung tendiert zur engen Auslegung (VGer ZH, VB.2014.00008).
 

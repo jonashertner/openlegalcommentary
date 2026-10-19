@@ -8,7 +8,7 @@ L'art. 48a Cost. consente alla Confederazione di obbligare i Cantoni alla collab
 
 **Quali effetti giuridici si producono?** I Cantoni obbligati diventano parte contrattuale (adesione) oppure devono partecipare a determinati aspetti di cooperazione. I contratti rimangono diritto intercantonale e non diventano diritto federale. Ciò è stato confermato dal Tribunale federale nella **BGE 143 V 451**.
 
-**Natura giuridica:** L'art. 48a Cost. secondo la dottrina controversa non è direttamente applicabile. Biaggini (BSK BV, Art. 48a N. 8) sottolinea che la norma necessita di una concretizzazione mediante legge federale. La dottrina e prassi dominanti partono tuttavia dall'applicabilità immediata.
+**Natura giuridica:** L'art. 48a Cost. secondo la dottrina controversa non è direttamente applicabile. Biaggini sottolinea che la norma necessita di una concretizzazione mediante legge federale. La dottrina e prassi dominanti partono tuttavia dall'applicabilità immediata.
 
 **Punto controverso:** È controverso se bastino contratti non ancora entrati in vigore. Biaggini e Zehnder lo confermano per contratti definitivamente negoziati. Altri richiedono opere contrattuali già vigenti.
 

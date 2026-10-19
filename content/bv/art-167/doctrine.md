@@ -20,7 +20,7 @@
 
 **N. 5** **«Ausgaben des Bundes»**: Dieser Begriff umfasst sämtliche Mittelverwendungen des Bundes, unabhängig von ihrer rechtlichen Qualifikation (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 1823). Die herrschende Lehre unterscheidet zwischen einmaligen und wiederkehrenden Ausgaben, wobei beide der parlamentarischen Beschlusskompetenz unterliegen (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 12 N 28).
 
-**N. 6** **«Voranschlag»**: Der Voranschlag (Budget) ist die verbindliche Finanzplanung für ein Rechnungsjahr. Er hat nach Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 167 N 8) eine Doppelnatur: Er ist einerseits Planungsinstrument, andererseits Ermächtigungsgrundlage für Ausgaben. Der Voranschlag bindet die Verwaltung, gibt aber keine subjektiven Rechte für Dritte (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 167 N 12).
+**N. 6** **«Voranschlag»**: Der Voranschlag (Budget) ist die verbindliche Finanzplanung für ein Rechnungsjahr. Er hat nach Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 167 N 8) eine Doppelnatur: Er ist einerseits Planungsinstrument, andererseits Ermächtigungsgrundlage für Ausgaben. Der Voranschlag bindet die Verwaltung, gibt aber keine subjektiven Rechte für Dritte.
 
 **N. 7** **«Staatsrechnung»**: Die Staatsrechnung dokumentiert die tatsächlichen Einnahmen und Ausgaben eines Rechnungsjahres. Ihre Abnahme durch die Bundesversammlung hat primär politische Kontrollfunktion und entlastet den Bundesrat (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, § 18 N 45).
 
@@ -36,7 +36,7 @@
 
 **N. 11** **Bindungswirkung des Voranschlags**: Umstritten ist der Grad der Bindungswirkung des Voranschlags. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5. Aufl. 2021, § 42 N 18) vertritt eine strenge Bindung, während Lienhard/Mächler (Finanzrecht, 2017, N 234) für mehr Flexibilität bei unvorhergesehenen Ereignissen plädieren. Die Praxis folgt einer vermittelnden Lösung mit Nachtragskrediten.
 
-**N. 12** **Detaillierungsgrad**: Kontrovers diskutiert wird der erforderliche Detaillierungsgrad des Voranschlags. Sägesser (a.a.O., Art. 5 N 8) fordert eine detaillierte Aufschlüsselung zur effektiven parlamentarischen Kontrolle. Waldmann (BSK BV, Art. 167 N 15) warnt vor einer Übersteuerung der Exekutive durch zu kleinteilige Budgetvorgaben. Das geltende Finanzhaushaltgesetz sucht einen Mittelweg.
+**N. 12** **Detaillierungsgrad**: Kontrovers diskutiert wird der erforderliche Detaillierungsgrad des Voranschlags. Sägesser (a.a.O., Art. 5 N 8) fordert eine detaillierte Aufschlüsselung zur effektiven parlamentarischen Kontrolle. Waldmann warnt vor einer Übersteuerung der Exekutive durch zu kleinteilige Budgetvorgaben. Das geltende Finanzhaushaltgesetz sucht einen Mittelweg.
 
 **N. 13** **Verhältnis zu Sachgesetzen**: Strittig ist das Verhältnis zwischen Ausgabenbeschlüssen nach Art. 167 BV und gesetzlichen Ausgabenverpflichtungen. Die Mehrheitsmeinung (Ehrenzeller, St. Galler Kommentar, Art. 167 N 14; Häfelin/Haller/Keller/Thurnherr, a.a.O., N 1825) sieht Sachgesetze als hinreichende Ausgabengrundlage. Eine Minderheit (Reich, Finanzordnung, 2012, S. 156) fordert zusätzliche Kreditbeschlüsse.
 

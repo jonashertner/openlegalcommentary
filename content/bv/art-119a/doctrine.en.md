@@ -60,7 +60,7 @@
 
 ### 4. Legal Consequences
 
-**N. 18** Violations of Art. 119a para. 3 FC (prohibition of trade, principle of gratuitousness) are subject to criminal penalties at the legislative level under Arts. 69 f. TxA. Legal transactions that contravene the prohibition of trade are void under Art. 20 CO (Belser/Molinari, BSK FC, Art. 119a N. 65).
+**N. 18** Violations of Art. 119a para. 3 FC (prohibition of trade, principle of gratuitousness) are subject to criminal penalties at the legislative level under Arts. 69 f. TxA. Legal transactions that contravene the prohibition of trade are void under Art. 20 CO.
 
 **N. 19** Art. 119a para. 1 FC binds the Confederation as a **legislative mandate**: if the Confederation were to remain inactive, a failure to legislate could be challenged. Since the entry into force of the TxA in 2007 that mandate has been fulfilled; ongoing legislative revision (e.g. the opt-out model 2023) gives it further concrete expression.
 

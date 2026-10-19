@@ -16,11 +16,11 @@
 
 **N. 4** Der Tatbestand umfasst drei konstitutive Elemente: (1) sexuelle oder pornografische Straftaten, (2) an Kindern, (3) vor der Pubertät. Als «sexuelle Straftaten» gelten gemäss der Umsetzung in Art. 101 Abs. 1 lit. e StGB die Delikte nach Art. 187 (sexuelle Handlungen mit Kindern), 189-191 (sexuelle Nötigung, Vergewaltigung, Schändung), 195 (Ausnützung der Notlage) und 196 StGB (sexuelle Handlungen mit Abhängigen). Als «pornografische Straftaten» fallen Handlungen nach Art. 197 Abs. 4 StGB (harte Pornografie mit Kindern) in den Anwendungsbereich.
 
-**N. 5** Der Begriff «Kinder vor der Pubertät» wird durch Art. 101 Abs. 1 lit. e StGB als Kinder unter 12 Jahren konkretisiert. Diese starre Altersgrenze ersetzt das biologisch-individuelle Kriterium der Pubertät durch eine normative Festlegung. Göksu (BSK BV, Art. 123b N. 3) weist darauf hin, dass diese Konkretisierung aus Gründen der Rechtssicherheit notwendig war, da der individuelle Pubertätsbeginn im Strafverfahren schwer feststellbar wäre.
+**N. 5** Der Begriff «Kinder vor der Pubertät» wird durch Art. 101 Abs. 1 lit. e StGB als Kinder unter 12 Jahren konkretisiert. Diese starre Altersgrenze ersetzt das biologisch-individuelle Kriterium der Pubertät durch eine normative Festlegung. Göksu weist darauf hin, dass diese Konkretisierung aus Gründen der Rechtssicherheit notwendig war, da der individuelle Pubertätsbeginn im Strafverfahren schwer feststellbar wäre.
 
 ### Rechtsfolgen
 
-**N. 6** Die Verfassungsnorm ordnet die absolute Unverjährbarkeit sowohl der Strafverfolgung als auch der Strafe an. Dies bedeutet, dass weder die Verfolgungsverjährung (Art. 97 StGB) noch die Vollstreckungsverjährung (Art. 99 StGB) eintreten kann. Göksu (BSK BV, Art. 123b N. 2) betont die direkte Anwendbarkeit der Verfassungsbestimmung, auch wenn Vest (BSK BV, Art. 123b N. 2) zu Recht auf die notwendige Präzisierung durch Art. 101 lit. e StGB hinweist.
+**N. 6** Die Verfassungsnorm ordnet die absolute Unverjährbarkeit sowohl der Strafverfolgung als auch der Strafe an. Dies bedeutet, dass weder die Verfolgungsverjährung (Art. 97 StGB) noch die Vollstreckungsverjährung (Art. 99 StGB) eintreten kann. Göksu betont die direkte Anwendbarkeit der Verfassungsbestimmung, auch wenn Vest zu Recht auf die notwendige Präzisierung durch Art. 101 lit. e StGB hinweist.
 
 **N. 7** Die Unverjährbarkeit führt nicht zum vollständigen Wegfall jeglicher zeitlicher Schranken: Nach Art. 101 Abs. 2 StGB kann das Gericht die Strafe mildern, wenn seit der Tat 30 Jahre vergangen sind. Diese Regelung trägt dem Gedanken Rechnung, dass auch bei schwersten Straftaten das Strafbedürfnis mit der Zeit abnehmen kann (BGE 140 IV 145 E. 2.3).
 
@@ -30,9 +30,9 @@
 
 **N. 9** Die Frage der Rückwirkung war heftig umstritten. Frischknecht (ZStrR 2008, 434 ff.) argumentierte gegen jede Form der Rückwirkung mit Verweis auf Art. 7 EMRK und das strafrechtliche Rückwirkungsverbot. Capus (FP 2009, 110 ff.) differenzierte zwischen echter und unechter Rückwirkung und befürwortete die Anwendung auf noch nicht verjährte Taten. Das Bundesgericht folgte in BGE 141 IV 93 einer vermittelnden Lösung: Bereits eingestellte Verfahren dürfen nicht wiederaufgenommen werden, aber noch laufende Verjährungsfristen werden verlängert.
 
-**N. 10** Kontrovers diskutiert wird die starre Altersgrenze von 12 Jahren. Vest (SG Komm BV, Art. 123b N. 7) kritisiert, dass die biologische Pubertät individuell sehr unterschiedlich eintritt und eine normative Festlegung dem Verfassungswortlaut widerspreche. Göksu (BSK BV, Art. 123b N. 3) verteidigt die Lösung als notwendigen Kompromiss zwischen Rechtssicherheit und Opferschutz.
+**N. 10** Kontrovers diskutiert wird die starre Altersgrenze von 12 Jahren. Vest (SG Komm BV, Art. 123b N. 7) kritisiert, dass die biologische Pubertät individuell sehr unterschiedlich eintritt und eine normative Festlegung dem Verfassungswortlaut widerspreche. Göksu verteidigt die Lösung als notwendigen Kompromiss zwischen Rechtssicherheit und Opferschutz.
 
-**N. 11** Die völkerrechtliche Zulässigkeit der Unverjährbarkeitsregelung wird unterschiedlich beurteilt. Während Göksu (BSK BV, Art. 123b N. 4) keine Verletzung von Art. 7 EMRK erkennt, solange keine echte Rückwirkung vorliegt, sehen kritische Stimmen in der nachträglichen Verlängerung von Verjährungsfristen einen problematischen Eingriff in das Vertrauensprinzip.
+**N. 11** Die völkerrechtliche Zulässigkeit der Unverjährbarkeitsregelung wird unterschiedlich beurteilt. Während Göksu keine Verletzung von Art. 7 EMRK erkennt, solange keine echte Rückwirkung vorliegt, sehen kritische Stimmen in der nachträglichen Verlängerung von Verjährungsfristen einen problematischen Eingriff in das Vertrauensprinzip.
 
 ### Praxishinweise
 

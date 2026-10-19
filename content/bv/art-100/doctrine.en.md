@@ -22,7 +22,7 @@
 
 **No. 7** **Departure from economic freedom (para. 3)**: The authorisation relates to three economic sectors: monetary and credit systems, foreign trade, and public finances. The criterion of necessity («if necessary») underlines the exceptional character of such interventions. Prevailing doctrine interprets this provision restrictively and requires an immediate threat to economic stability (Müller/Schefer, Fundamental Rights in Switzerland, 4th ed. 2008, p. 982).
 
-**No. 8** **Anti-cyclical fiscal policy (para. 4)**: The provision obliges all state levels to conduct budgets appropriate to the economic cycle. During economic booms, public budgets should be conducted restrictively; during recessions, expansively. This obligation stands in tension with the debt brake according to → Art. 126 FC (Waldmann/Belser/Epiney, BSK FC, 2nd ed. 2024, Art. 100 No. 15).
+**No. 8** **Anti-cyclical fiscal policy (para. 4)**: The provision obliges all state levels to conduct budgets appropriate to the economic cycle. During economic booms, public budgets should be conducted restrictively; during recessions, expansively. This obligation stands in tension with the debt brake according to → Art. 126 FC.
 
 **No. 9** **Cyclical surcharges and discounts (para. 5)**: This provision enables temporary variations in the tax burden for stabilisation purposes. The requirement to sequester the absorbed funds is intended to prevent their pro-cyclical use. The different treatment of direct and indirect taxes in reimbursement reflects administrative practical considerations.
 

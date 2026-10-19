@@ -25,7 +25,7 @@
 
 **N. 7** **Use of national roads**: The charge is linked to actual or potential use of the national roads. A differentiation according to frequency of use is not provided for under constitutional law (flat rate).
 
-**N. 8** **Heavy traffic exception**: Vehicles subject to the heavy vehicle fee under Art. 85 FC are exempt from the national road charge. This systematic demarcation prevents double charging (Waldmann/Belser/Epiney, BSK FC, 2nd ed. 2024, Art. 85a N. 5).
+**N. 8** **Heavy traffic exception**: Vehicles subject to the heavy vehicle fee under Art. 85 FC are exempt from the national road charge. This systematic demarcation prevents double charging.
 
 ### 4. Legal Consequences
 
@@ -39,7 +39,7 @@
 
 ### 5. Disputed Issues
 
-**N. 11** **Flat rate vs. performance-based design**: Academic literature discusses whether the constitutional conception as a flat rate is mandatory. The prevailing opinion (Ehrenzeller/Schindler/Schweizer/Vallender, St. Gallen Commentary FC, Art. 85a N. 6; Waldmann/Belser/Epiney, BSK FC, Art. 85a N. 8) holds that the historical and systematic interpretation speaks for a flat rate solution. A minority (Griffel, in: Environmental Law in Practice 2015, 234) considers a kilometre-based design to be constitutionally permissible.
+**N. 11** **Flat rate vs. performance-based design**: Academic literature discusses whether the constitutional conception as a flat rate is mandatory. The prevailing opinion (Ehrenzeller/Schindler/Schweizer/Vallender, St. Gallen Commentary FC, Art. 85a N. 6) holds that the historical and systematic interpretation speaks for a flat rate solution. A minority (Griffel, in: Environmental Law in Practice 2015, 234) considers a kilometre-based design to be constitutionally permissible.
 
 **N. 12** **Amount of the charge**: It is disputed what constitutional limits exist for the charge amount. Rhinow/Schefer/Uebersax (Swiss Constitutional Law, 3rd ed. 2016, N. 2854) demand orientation to the equivalence principle. Häfelin/Haller/Keller/Thurnherr (Swiss Federal Constitutional Law, 10th ed. 2020, N. 2341) emphasise the political scope for manoeuvre of the legislature.
 

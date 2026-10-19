@@ -14,15 +14,15 @@
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 5** Der Begriff «Kernenergie» umfasst nach herrschender Lehre alle Aspekte der friedlichen Nutzung der Kernspaltung und Kernfusion zur Energiegewinnung (Kern, BSK BV, Art. 90 N. 4; Jagmetti, Energierecht, 2005, S. 467; Hänni/Stöckli, Wirtschaftsverwaltungsrecht, 2013, § 15 N. 32). Eingeschlossen sind: Forschung, Bau, Betrieb und Stilllegung von Kernanlagen, Umgang mit Kernbrennstoffen, Entsorgung radioaktiver Abfälle, Transporte von Kernmaterial, Haftpflicht und Versicherung.
+**N. 5** Der Begriff «Kernenergie» umfasst nach herrschender Lehre alle Aspekte der friedlichen Nutzung der Kernspaltung und Kernfusion zur Energiegewinnung (Jagmetti, Energierecht, 2005, S. 467; Hänni/Stöckli, Wirtschaftsverwaltungsrecht, 2013, § 15 N. 32). Eingeschlossen sind: Forschung, Bau, Betrieb und Stilllegung von Kernanlagen, Umgang mit Kernbrennstoffen, Entsorgung radioaktiver Abfälle, Transporte von Kernmaterial, Haftpflicht und Versicherung.
 
-**N. 6** «Gesetzgebung» bedeutet umfassende Rechtsetzungskompetenz auf allen Normenstufen: Verfassung, Gesetz, Verordnung. Der Bund kann das Gebiet abschliessend regeln oder Teilbereiche den Kantonen überlassen (Kern, BSK BV, Art. 90 N. 4). Die Kompetenz umfasst sowohl die Förderung als auch die Beschränkung oder das Verbot der Kernenergienutzung.
+**N. 6** «Gesetzgebung» bedeutet umfassende Rechtsetzungskompetenz auf allen Normenstufen: Verfassung, Gesetz, Verordnung. Der Bund kann das Gebiet abschliessend regeln oder Teilbereiche den Kantonen überlassen. Die Kompetenz umfasst sowohl die Förderung als auch die Beschränkung oder das Verbot der Kernenergienutzung.
 
 **N. 7** «Sache des Bundes» konstituiert eine ausschliessliche Bundeskompetenz. Die Kantone haben keine originären Kompetenzen im Kernenergie­bereich, können aber vom Bund delegierte Aufgaben wahrnehmen oder im Rahmen ihrer allgemeinen Polizeikompetenz tätig werden (→ Art. 3 BV).
 
 ## 4. Rechtsfolgen
 
-**N. 8** Die ausschliessliche Bundeskompetenz führt zur Verdrängung jeglichen kantonalen Rechts im Kernenergie­bereich. Das Bundesgericht hielt fest, die Kompetenzordnung solle «verhindern, dass die im gesamten Landesinteresse liegende Nutzung der Kernenergie durch unsachgerechte Bedingungen und Auflagen erschwert wird» (BGE 108 Ib 485 E. 3a; zitiert bei Kern, BSK BV, Art. 90 N. 8).
+**N. 8** Die ausschliessliche Bundeskompetenz führt zur Verdrängung jeglichen kantonalen Rechts im Kernenergie­bereich. Das Bundesgericht hielt fest, die Kompetenzordnung solle «verhindern, dass die im gesamten Landesinteresse liegende Nutzung der Kernenergie durch unsachgerechte Bedingungen und Auflagen erschwert wird» (BGE 108 Ib 485 E. 3a).
 
 **N. 9** Der Bund hat seine Kompetenz durch das Kernenergiegesetz (KEG) und das Kernenergiehaftpflichtgesetz (KHG) sowie zahlreiche Verordnungen ausgeübt. Die Bewilligungsverfahren sind bundesrechtlich abschliessend geregelt, kantonale Bewilligungen sind ausgeschlossen (Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, S. 234).
 
@@ -30,7 +30,7 @@
 
 ## 5. Streitstände
 
-**N. 11** **Verfassungsmässigkeit eines Atomausstiegs**: Das Bundesamt für Justiz vertritt in seinem Gutachten «Verfassungsfragen Ausstieg Kernenergie», ein gesetzlich angeordneter, sicherheitspolizeilich motivierter Ausstieg aus der Kernenergie sei «zumindest nicht ausgeschlossen» (zitiert bei Kern, BSK BV, Art. 90 N. 8). R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) ist anderer Ansicht und hält einen vollständigen Ausstieg für verfassungswidrig, da Art. 90 BV keine Verbotskompetenz enthalte.
+**N. 11** **Verfassungsmässigkeit eines Atomausstiegs**: Das Bundesamt für Justiz vertritt in seinem Gutachten «Verfassungsfragen Ausstieg Kernenergie», ein gesetzlich angeordneter, sicherheitspolizeilich motivierter Ausstieg aus der Kernenergie sei «zumindest nicht ausgeschlossen». R.P. Müller (Energiewende: Neue Politik im alten Kleid?, ZBl 2013, 635–668, 666) ist anderer Ansicht und hält einen vollständigen Ausstieg für verfassungswidrig, da Art. 90 BV keine Verbotskompetenz enthalte.
 
 **N. 12** **Reichweite der kantonalen Kompetenzen**: Während die herrschende Lehre den Kantonen jegliche eigenständige Regelungskompetenz abspricht (Jagmetti, Energierecht, 2005, S. 472; Weber/Kratz, Elektrizitätswirtschaftsrecht, 2005, S. 235), anerkennt eine Minderheit begrenzte kantonale Spielräume bei rein lokalen Aspekten ohne sicherheitstechnischen Bezug (Buser, AJP 2006, 387–395, 392).
 

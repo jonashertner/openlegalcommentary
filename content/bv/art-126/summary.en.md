@@ -4,7 +4,7 @@
 
 The federal debt brake regulates how the state manages its finances. It requires that expenditure and revenue be balanced in the long term (BBl 2000 4653ff.). The Confederation may not permanently spend more than it takes in.
 
-The debt brake operates in three steps: First, it determines how much money the Confederation may spend at most. This ceiling is based on expected revenue and the economic situation. During weak economic conditions, more may be spent than is taken in; during good economic conditions, less (BSK BV-Lienhard/Marti Locher, Art. 126 N. 24f.).
+The debt brake operates in three steps: First, it determines how much money the Confederation may spend at most. This ceiling is based on expected revenue and the economic situation. During weak economic conditions, more may be spent than is taken in; during good economic conditions, less.
 
 In emergency situations such as natural disasters or severe recessions, Parliament may increase this limit with a qualified majority (Art. 159 para. 3 lit. c BV). If expenditure is nevertheless exceeded, the additional costs must be saved again within six years (Federal Budget Act Art. 16).
 

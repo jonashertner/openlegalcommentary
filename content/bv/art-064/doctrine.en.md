@@ -8,9 +8,9 @@
 
 ## Systematic Classification
 
-**N. 3** Art. 64 Federal Constitution is systematically classified in Section 3 «Education, Research and Culture» of Chapter 3 of the Federal Constitution. The provision is closely connected with → Art. 20 Federal Constitution (academic freedom), which regulates the fundamental rights dimension of research. While Art. 20 Federal Constitution protects the defensive rights of researchers, Art. 64 Federal Constitution establishes the performance obligations of the state (Hänni, BSK BV, Art. 64 N. 2).
+**N. 3** Art. 64 Federal Constitution is systematically classified in Section 3 «Education, Research and Culture» of Chapter 3 of the Federal Constitution. The provision is closely connected with → Art. 20 Federal Constitution (academic freedom), which regulates the fundamental rights dimension of research. While Art. 20 Federal Constitution protects the defensive rights of researchers, Art. 64 Federal Constitution establishes the performance obligations of the state.
 
-**N. 4** The research funding competence complements the educational competences of the Confederation (→ Art. 63 Federal Constitution for vocational education and training, → Art. 63a Federal Constitution for higher education institutions). Unlike higher education institutions, where the Confederation and cantons share responsibility, Art. 64 Federal Constitution grants the Confederation comprehensive competence for research funding. This extends to all fields of science and is not limited to federal higher education institutions (Hänni, BSK BV, Art. 64 N. 4).
+**N. 4** The research funding competence complements the educational competences of the Confederation (→ Art. 63 Federal Constitution for vocational education and training, → Art. 63a Federal Constitution for higher education institutions). Unlike higher education institutions, where the Confederation and cantons share responsibility, Art. 64 Federal Constitution grants the Confederation comprehensive competence for research funding. This extends to all fields of science and is not limited to federal higher education institutions.
 
 **N. 5** In the context of the economic constitution, Art. 64 Federal Constitution forms an important basis for state innovation promotion. The provision must be distinguished from → Art. 94 Federal Constitution (principles of the economic order), whereby innovation promotion is to be regarded as a specific, constitutionally legitimate form of economic promotion.
 
@@ -18,7 +18,7 @@
 
 ### Scientific Research (Para. 1)
 
-**N. 6** The term «scientific research» is to be understood broadly. According to prevailing doctrine, it encompasses both basic research and applied research in all scientific disciplines (König, Grundlagen der staatlichen Forschungsförderung, 2007, p. 45). The adjective «scientific» is disputed: while Borghi understands it only as a reference to objective-methodological aspects (Borghi, BSK BV, Art. 64 N. 39), Gruber sees it as a quality concept (Gruber, BSK BV, Art. 64 N. 42).
+**N. 6** The term «scientific research» is to be understood broadly. According to prevailing doctrine, it encompasses both basic research and applied research in all scientific disciplines (König, Grundlagen der staatlichen Forschungsförderung, 2007, p. 45). The adjective «scientific» is disputed: while Borghi understands it only as a reference to objective-methodological aspects, Gruber sees it as a quality concept.
 
 **N. 7** According to the Confederation's practice, research funding encompasses both institutional funding (financing of research institutions) and project-based funding (financing of individual research projects). The Swiss National Science Foundation (SNSF) and the Swiss Academies of Arts and Sciences are the main providers of research funding (Art. 4 RIPA).
 
@@ -56,7 +56,7 @@
 
 ## Points of Contention
 
-**N. 19** **Scope of the concept of scientificity**: In doctrine, it is disputed how narrowly the term «scientific» in para. 1 is to be understood. Borghi advocates a broad interpretation and sees it merely as a reference to objective-methodological standards (Borghi, BSK BV, Art. 64 N. 39). Gruber, on the other hand, interprets «scientific» as a quality criterion that excludes dubious research from funding (Gruber, BSK BV, Art. 64 N. 42). König takes a mediating position and emphasises that all recognised scientific methods are covered (König, Grundlagen, 2007, p. 47).
+**N. 19** **Scope of the concept of scientificity**: In doctrine, it is disputed how narrowly the term «scientific» in para. 1 is to be understood. Borghi advocates a broad interpretation and sees it merely as a reference to objective-methodological standards. Gruber, on the other hand, interprets «scientific» as a quality criterion that excludes dubious research from funding. König takes a mediating position and emphasises that all recognised scientific methods are covered (König, Grundlagen, 2007, p. 47).
 
 **N. 20** **Relationship between research and innovation promotion**: The tension between purpose-free basic research and application-oriented innovation is controversially discussed. While one view emphasises the equal status of both promotional aspects, others see in the increasing innovation orientation a problematic economisation of science. Schmid warns against excessive instrumentalisation of research for economic purposes (Schmid, Wissenschaft und Forschung, 2011, p. 488).
 

@@ -6,7 +6,7 @@
 
 **N. 2** The Federal Council message on the reform of fiscal equalisation of 14 November 2001 (BBl 2001 2291, esp. 2358 ff.) describes Art. 43a Cst. as the «centrepiece of the new federal distribution of tasks». The provision aims to increase the efficiency of the performance of public tasks and to allocate responsibilities more clearly. In particular, it should ensure fiscal equivalence — the concordance of benefits, costs and decision-making powers.
 
-**N. 3** The legislative history shows that the constitutional legislator deliberately wanted to establish programmatic principles that are primarily addressed to the legislature. As the Federal Council stated in the message: «Article 43a paragraph 4 does not create enforceable rights» (Biaggini, BSK BV, Art. 43a N. 36).
+**N. 3** The legislative history shows that the constitutional legislator deliberately wanted to establish programmatic principles that are primarily addressed to the legislature. As the Federal Council stated in the message: «Article 43a paragraph 4 does not create enforceable rights».
 
 ## 2. Systematic Classification
 
@@ -19,7 +19,7 @@
 - → Art. 47 Cst. (Autonomy of the Cantons)
 - → Art. 48 Cst. (Treaties between Cantons)
 
-**N. 6** According to the unanimous view in doctrine, the principles of Art. 43a Cst. are not suitable as a standard for judicial review (Biaggini, BSK BV, Art. 43a N. 5). The provision primarily takes effect as a guideline for the legislature in structuring the distribution of tasks.
+**N. 6** According to the unanimous view in doctrine, the principles of Art. 43a Cst. are not suitable as a standard for judicial review. The provision primarily takes effect as a guideline for the legislature in structuring the distribution of tasks.
 
 ## 3. Elements of the Offence / Normative Content
 
@@ -31,7 +31,7 @@
 - **Inability of the Cantons**: The strength of the Cantons is insufficient to perform the task
 - **Need for uniformity**: Federal diversity would lead to intolerable results
 
-**N. 9** According to Schweizer/Müller, inability or unwillingness of individual Cantons is not sufficient for the strength criterion (cited in Biaggini, BSK BV, Art. 43a N. 17). It must be a structural inability that affects several or all Cantons.
+**N. 9** According to Schweizer/Müller, inability or unwillingness of individual Cantons is not sufficient for the strength criterion. It must be a structural inability that affects several or all Cantons.
 
 ### Fiscal Equivalence (Para. 2 and 3)
 
@@ -54,7 +54,7 @@
 - Education (→ Art. 19, 61a ff. Cst.)
 - Healthcare (→ Art. 117 Cst.)
 
-**N. 14** The Federal Council explicitly stated that Art. 43a para. 4 Cst. does not create enforceable rights (Biaggini, BSK BV, Art. 43a N. 36). The provision is addressed to the legislature, not to the law-applying authorities.
+**N. 14** The Federal Council explicitly stated that Art. 43a para. 4 Cst. does not create enforceable rights. The provision is addressed to the legislature, not to the law-applying authorities.
 
 ### Economic Performance of Tasks (Para. 5)
 
@@ -83,7 +83,7 @@
 
 ### Justiciability of the Principles
 
-**N. 20** The lack of justiciability of Art. 43a Cst. is largely undisputed in doctrine (Biaggini, BSK BV, Art. 43a N. 5; Waldmann/Borter, Rechtsprechung zum Schweizerischen Föderalismus, Anhang III zum Monitoringbericht Föderalismus 2011–2013). However, partial justiciability through other constitutional norms is occasionally advocated.
+**N. 20** The lack of justiciability of Art. 43a Cst. is largely undisputed in doctrine (Waldmann/Borter, Rechtsprechung zum Schweizerischen Föderalismus, Anhang III zum Monitoringbericht Föderalismus 2011–2013). However, partial justiciability through other constitutional norms is occasionally advocated.
 
 ### Scope of the Principle of Subsidiarity
 

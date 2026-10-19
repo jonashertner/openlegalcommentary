@@ -4,7 +4,7 @@
 
 Art. 49 Cst. governs two central principles of the Swiss federal state: the precedence of federal law and federal supervision.
 
-**Paragraph 1** establishes that federal law takes precedence over cantonal law when the two conflict. This means: If the Confederation and a canton have different rules for the same problem, the federal rule applies. The cantonal law then becomes invalid (void). The prevailing view considers such cantonal law to be invalid, but recent doctrine criticises this blanket nullity consequence and calls for differentiated legal consequences depending on the situation (Waldmann, BSK BV, Art. 49 N. 24). The Federal Supreme Court has clarified that cantonal law is not only problematic in case of direct conflict, but also when it «runs counter to the sense and spirit of federal law» (**BGE 144 I 113**).
+**Paragraph 1** establishes that federal law takes precedence over cantonal law when the two conflict. This means: If the Confederation and a canton have different rules for the same problem, the federal rule applies. The cantonal law then becomes invalid (void). The prevailing view considers such cantonal law to be invalid, but recent doctrine criticises this blanket nullity consequence and calls for differentiated legal consequences depending on the situation. The Federal Supreme Court has clarified that cantonal law is not only problematic in case of direct conflict, but also when it «runs counter to the sense and spirit of federal law» (**BGE 144 I 113**).
 
 **Paragraph 2** obliges the Confederation to supervise: It must ensure that the cantons observe federal law. This federal supervision encompasses various instruments — from the approval of cantonal enactments to the federal authorities' appeal (**BGE 148 II 369**).
 

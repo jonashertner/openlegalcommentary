@@ -4,7 +4,7 @@ L'art. 139a Cost. disciplina l'esame delle iniziative popolari federali per quan
 
 **Cosa disciplina la norma?**
 
-L'Assemblea federale deve esaminare, per ogni iniziativa costituzionale valida, se questa sia compatibile con gli obblighi di diritto internazionale della Svizzera. Ciò comprende tutti i tipi di diritto internazionale — dai trattati internazionali al diritto internazionale consuetudinario (Waldmann, BSK BV, Art. 139a N. 4). Se viene constatata un'incompatibilità, il Consiglio federale e l'Assemblea federale devono informare gli aventi diritto di voto sulla «portata e sulle conseguenze» di un'eventuale accettazione dell'iniziativa.
+L'Assemblea federale deve esaminare, per ogni iniziativa costituzionale valida, se questa sia compatibile con gli obblighi di diritto internazionale della Svizzera. Ciò comprende tutti i tipi di diritto internazionale — dai trattati internazionali al diritto internazionale consuetudinario. Se viene constatata un'incompatibilità, il Consiglio federale e l'Assemblea federale devono informare gli aventi diritto di voto sulla «portata e sulle conseguenze» di un'eventuale accettazione dell'iniziativa.
 
 **Chi è interessato?**
 
@@ -12,7 +12,7 @@ Direttamente interessati sono i comitati d'iniziativa, le cui richieste vengono 
 
 **Quali sono le conseguenze giuridiche?**
 
-A differenza dell'art. 139 cpv. 3 Cost., una violazione del diritto internazionale constatata non comporta la dichiarazione di nullità dell'iniziativa. La principale conseguenza giuridica consiste in un obbligo di informazione rafforzato: la documentazione per la votazione deve informare in modo obiettivo e comprensibile sulle conseguenze di un'accettazione (Epiney, BSK BV, Art. 139a N. 8). L'iniziativa rimane valida e viene sottoposta a votazione.
+A differenza dell'art. 139 cpv. 3 Cost., una violazione del diritto internazionale constatata non comporta la dichiarazione di nullità dell'iniziativa. La principale conseguenza giuridica consiste in un obbligo di informazione rafforzato: la documentazione per la votazione deve informare in modo obiettivo e comprensibile sulle conseguenze di un'accettazione. L'iniziativa rimane valida e viene sottoposta a votazione.
 
 **Esempio concreto**
 

@@ -42,7 +42,7 @@
 - gli avvocati di altri Cantoni che esercitano nel Cantone in cui si è verificato il fatto in virtù della libera circolazione ai sensi dell'art. 4 LLCA (competenza secondaria del Cantone in cui si è verificato il fatto);
 - gli avvocati UE/AELS che esercitano stabilmente in Svizzera e che si sono iscritti nel Cantone in cui svolgono la loro attività (→ art. 27 segg. LLCA).
 
-**N. 11** Non sono sottoposti al campo di applicazione dell'art. 14 LLCA gli avvocati che svolgono esclusivamente attività di consulenza e non compaiono davanti alle autorità giudiziarie (sentenza **2C_897/2015** del 25.5.2016 consid. 5.2.1; Poledna, BSK BGFA, art. 14 n. 3). Il fatto che l'art. 2 cpv. 1 LLCA limiti il campo di applicazione della legge alla rappresentanza delle parti davanti alle autorità giudiziarie è costitutivo per l'obbligo di vigilanza: chi non esercita un mandato di rappresentanza delle parti non è soggetto alla vigilanza disciplinare disciplinata dal diritto federale.
+**N. 11** Non sono sottoposti al campo di applicazione dell'art. 14 LLCA gli avvocati che svolgono esclusivamente attività di consulenza e non compaiono davanti alle autorità giudiziarie (sentenza **2C_897/2015** del 25.5.2016 consid. 5.2.1). Il fatto che l'art. 2 cpv. 1 LLCA limiti il campo di applicazione della legge alla rappresentanza delle parti davanti alle autorità giudiziarie è costitutivo per l'obbligo di vigilanza: chi non esercita un mandato di rappresentanza delle parti non è soggetto alla vigilanza disciplinare disciplinata dal diritto federale.
 
 #### 3.4 Ripartizione intercantonale delle competenze
 
@@ -54,7 +54,7 @@
 4. **Obbligo di comunicazione**: l'esito del procedimento deve essere comunicato all'autorità di vigilanza del Cantone di iscrizione.
 5. **Annotazione nel registro**: le misure disciplinari passate in giudicato vengono annotate nel registro del Cantone di iscrizione (→ art. 20 LLCA).
 
-**N. 13** Le competenze cantonali sono in linea di principio concorrenti: sia il Cantone di iscrizione sia il Cantone in cui si è verificato il fatto possono intervenire in caso di violazione delle regole professionali. L'autorità di vigilanza del Cantone «nel quale l'avvocato compare davanti alle autorità giudiziarie» esercita la vigilanza in via primaria (sentenza del Tribunale amministrativo di Uri 04/05 49 del 4.10.2005; Poledna, BSK BGFA, art. 14 n. 7). Se nel Cantone in cui si è verificato il fatto non è ancora stato avviato alcun procedimento giudiziario, la competenza rimane al Cantone di iscrizione.
+**N. 13** Le competenze cantonali sono in linea di principio concorrenti: sia il Cantone di iscrizione sia il Cantone in cui si è verificato il fatto possono intervenire in caso di violazione delle regole professionali. L'autorità di vigilanza del Cantone «nel quale l'avvocato compare davanti alle autorità giudiziarie» esercita la vigilanza in via primaria (sentenza del Tribunale amministrativo di Uri 04/05 49 del 4.10.2005). Se nel Cantone in cui si è verificato il fatto non è ancora stato avviato alcun procedimento giudiziario, la competenza rimane al Cantone di iscrizione.
 
 ---
 
@@ -74,11 +74,11 @@
 
 #### 5.1 Portata della vigilanza cantonale: avvocati consulenti
 
-**N. 18** Era controverso se la vigilanza disciplinare ai sensi dell'art. 14 LLCA si estendesse anche agli avvocati che svolgono esclusivamente attività di consulenza e non sono iscritti nel registro degli avvocati. Poledna (BSK BGFA, art. 14 n. 3) e Bohnet/Martenet (Droit de la profession d'avocat, 2009, n. 578) concordano nel ritenere che la LLCA non contempli questo gruppo. Il Cantone di Lucerna ha esteso per analogia mediante diritto cantonale le regole professionali degli art. 12 e 13 LLCA nonché il diritto disciplinare (art. 14–20 LLCA) agli avvocati non ammessi alla rappresentanza delle parti (§ 8 cpv. 2 LAvv/LU). Nater (Kommentar zum Anwaltsgesetz, art. 3 n. 8b) ritiene questa disciplina conforme al diritto federale, in quanto si tratta di un'ammissibile estensione della competenza normativa cantonale; il Tribunale federale ha lasciato aperta la questione (sentenza **2C_897/2015** del 25.5.2016 consid. 5.2.2).
+**N. 18** Era controverso se la vigilanza disciplinare ai sensi dell'art. 14 LLCA si estendesse anche agli avvocati che svolgono esclusivamente attività di consulenza e non sono iscritti nel registro degli avvocati. Poledna e Bohnet/Martenet (Droit de la profession d'avocat, 2009, n. 578) concordano nel ritenere che la LLCA non contempli questo gruppo. Il Cantone di Lucerna ha esteso per analogia mediante diritto cantonale le regole professionali degli art. 12 e 13 LLCA nonché il diritto disciplinare (art. 14–20 LLCA) agli avvocati non ammessi alla rappresentanza delle parti (§ 8 cpv. 2 LAvv/LU). Nater (Kommentar zum Anwaltsgesetz, art. 3 n. 8b) ritiene questa disciplina conforme al diritto federale, in quanto si tratta di un'ammissibile estensione della competenza normativa cantonale; il Tribunale federale ha lasciato aperta la questione (sentenza **2C_897/2015** del 25.5.2016 consid. 5.2.2).
 
 #### 5.2 Competenze concorrenti del Cantone di iscrizione e del Cantone in cui si è verificato il fatto
 
-**N. 19** È controverso se le autorità di vigilanza del Cantone di iscrizione e del Cantone in cui si è verificato il fatto siano pariteticamente competenti in caso di mandato intercantonale oppure se esista un ordine di priorità gerarchico. Il Tribunale amministrativo di Uri si è pronunciato per una competenza primaria del Cantone in cui si è verificato il fatto (sentenza 04/05 49 del 4.10.2005: «La vigilanza è esercitata in via prioritaria dall'autorità di vigilanza del Cantone nel quale l'avvocato compare davanti alle autorità giudiziarie»). Poledna (BSK BGFA, art. 14 n. 7) e Fellmann (Anwaltsrecht, 2a ed. 2017, n. 793) condividono in linea di principio questa posizione. Bauer/Bauer (CR LLCA, art. 14 n. 11) sottolineano invece la funzione di coordinamento: le autorità avrebbero competenze concorrenti, coordinate dagli obblighi di informazione e comunicazione, senza che esista una gerarchia rigida. Manca tuttora una decisione del Tribunale federale quale giudice supremo su questa questione.
+**N. 19** È controverso se le autorità di vigilanza del Cantone di iscrizione e del Cantone in cui si è verificato il fatto siano pariteticamente competenti in caso di mandato intercantonale oppure se esista un ordine di priorità gerarchico. Il Tribunale amministrativo di Uri si è pronunciato per una competenza primaria del Cantone in cui si è verificato il fatto (sentenza 04/05 49 del 4.10.2005: «La vigilanza è esercitata in via prioritaria dall'autorità di vigilanza del Cantone nel quale l'avvocato compare davanti alle autorità giudiziarie»). Poledna e Fellmann (Anwaltsrecht, 2a ed. 2017, n. 793) condividono in linea di principio questa posizione. Bauer/Bauer (CR LLCA, art. 14 n. 11) sottolineano invece la funzione di coordinamento: le autorità avrebbero competenze concorrenti, coordinate dagli obblighi di informazione e comunicazione, senza che esista una gerarchia rigida. Manca tuttora una decisione del Tribunale federale quale giudice supremo su questa questione.
 
 #### 5.3 Strumenti di vigilanza cantonali aggiuntivi rispetto al diritto federale esaustivo
 
@@ -109,7 +109,6 @@
 **Dottrina**
 - Fellmann, Anwaltsrecht, 2a ed. 2017, n. 786–800
 - Bohnet/Martenet, Droit de la profession d'avocat, 2009, n. 575–580
-- Poledna, BSK BGFA, 2a ed. 2019, art. 14
 
 **Materiali**
 - FF 1999 5354 seg. (Messaggio concernente la legge federale sulla libera circolazione degli avvocati)

@@ -6,7 +6,7 @@
 
 **N. 1** L'art. 134 Cst. rassemble les dispositions d'harmonisation qui étaient dispersées dans diverses normes sous l'ancienne Constitution fédérale (art. 32bis al. 5, art. 36ter, art. 41bis al. 2 et art. 41ter al. 2 ancCst.). Selon le message du Conseil fédéral du 20 novembre 1996 relatif à la nouvelle Constitution fédérale, la norme vise une « mise à jour formelle » de la situation juridique existante (FF 1997 I 409). Le constituant n'avait pas l'intention de modifier matériellement l'ordre fiscal établi entre la Confédération et les cantons.
 
-**N. 2** La disposition trouve historiquement ses racines dans l'extension progressive des compétences fédérales en matière fiscale. Alors que les cantons disposaient à l'origine d'une souveraineté fiscale étendue, les besoins de financement de la Confédération ont conduit à l'introduction successive d'impôts fédéraux. À chaque nouvelle loi fiscale fédérale se posait la question de la délimitation par rapport aux prélèvements cantonaux, afin d'éviter une charge excessive des contribuables (Behnisch, BSK BV, Art. 134 N. 1).
+**N. 2** La disposition trouve historiquement ses racines dans l'extension progressive des compétences fédérales en matière fiscale. Alors que les cantons disposaient à l'origine d'une souveraineté fiscale étendue, les besoins de financement de la Confédération ont conduit à l'introduction successive d'impôts fédéraux. À chaque nouvelle loi fiscale fédérale se posait la question de la délimitation par rapport aux prélèvements cantonaux, afin d'éviter une charge excessive des contribuables.
 
 ### 2. Classification systématique
 
@@ -46,11 +46,11 @@
 ### 5. Controverses
 
 **N. 12** **Interprétation de la nature identique** : La doctrine est divisée dans l'appréciation de la jurisprudence du Tribunal fédéral :
-- **Biaggini** (BSK BV, Art. 134 N. 6) critique la pratique comme « favorable aux cantons » resp. « plus favorable au fisc qu'aux citoyens », car la cumulation d'impôts est simplement remplacée par une juxtaposition.
-- **Behnisch** (BSK BV, Art. 134 N. 7, 20) rejette la jurisprudence qui se fonde sur des catégories de science financière au lieu de critères technico-juridiques. Il exige que le Tribunal fédéral se détache de son « attitude beaucoup trop restrictive ».
+- **Biaggini** critique la pratique comme « favorable aux cantons » resp. « plus favorable au fisc qu'aux citoyens », car la cumulation d'impôts est simplement remplacée par une juxtaposition.
+- **Behnisch** rejette la jurisprudence qui se fonde sur des catégories de science financière au lieu de critères technico-juridiques. Il exige que le Tribunal fédéral se détache de son « attitude beaucoup trop restrictive ».
 - **Vallender** (StR 1997, 1 ss) défend en revanche l'approche différenciée du Tribunal fédéral comme appropriée.
 
-**N. 13** **Approche de droit civil vs. approche de droit fiscal** : Il existe un conflit méthodologique pour la délimitation des droits de timbre. Le Tribunal fédéral s'est prononcé pour une approche de droit civil et a accepté une charge par les deux impôts (Behnisch, BSK BV, Art. 134 N. 29). La doctrine est partagée à ce sujet :
+**N. 13** **Approche de droit civil vs. approche de droit fiscal**: Il existe un conflit méthodologique pour la délimitation des droits de timbre. Le Tribunal fédéral s'est prononcé pour une approche de droit civil et a accepté une charge par les deux impôts. La doctrine est partagée à ce sujet:
 - **Beusch** (Commentaire LT, Art. 3 N. 15 ss) prône la qualification de droit civil
 - **Blumenstein/Locher** (Système, p. 358) plaident pour une approche économique
 

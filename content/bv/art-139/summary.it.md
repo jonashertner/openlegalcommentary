@@ -2,7 +2,7 @@
 
 L'articolo 139 Cost. disciplina l'iniziativa popolare per la revisione parziale della Costituzione federale. Questo strumento permette ai cittadini di chiedere modifiche della Costituzione e di decidere direttamente.
 
-**Chi ha diritto?** 100'000 aventi diritto di voto possono presentare un'iniziativa. Ciò corrisponde a circa l'1,9% di tutti gli aventi diritto di voto in Svizzera (Epiney/Diezig, BSK BV, Art. 139 N. 8). Le firme devono essere raccolte entro 18 mesi dalla pubblicazione nel Foglio federale.
+**Chi ha diritto?** 100'000 aventi diritto di voto possono presentare un'iniziativa. Ciò corrisponde a circa l'1,9% di tutti gli aventi diritto di voto in Svizzera. Le firme devono essere raccolte entro 18 mesi dalla pubblicazione nel Foglio federale.
 
 **Quali forme esistono?** Ci sono due possibilità: l'iniziativa generica formula una richiesta in termini generali e lascia l'elaborazione all'Assemblea federale (Parlamento). Il progetto elaborato contiene già il testo costituzionale definitivo.
 

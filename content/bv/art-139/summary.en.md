@@ -2,7 +2,7 @@
 
 Article 139 BV regulates the popular initiative for partial revision of the Federal Constitution. This instrument enables citizens to demand changes to the Constitution and to decide directly.
 
-**Who is entitled?** 100,000 eligible voters can submit an initiative. This corresponds to approximately 1.9% of all eligible voters in Switzerland (Epiney/Diezig, BSK BV, Art. 139 N. 8). The signatures must be collected within 18 months after publication in the Federal Gazette.
+**Who is entitled?** 100,000 eligible voters can submit an initiative. This corresponds to approximately 1.9% of all eligible voters in Switzerland. The signatures must be collected within 18 months after publication in the Federal Gazette.
 
 **What forms exist?** There are two possibilities: The general proposal formulates a concern broadly and leaves the elaboration to the Federal Assembly (Parliament). The elaborated draft already contains the finished constitutional text.
 

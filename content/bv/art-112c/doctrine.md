@@ -16,7 +16,7 @@
 
 **N. 5** **«Der Bund fördert»**: Diese Formulierung begründet eine Förderungskompetenz, nicht aber eine umfassende Regelungskompetenz. Die Bundeskompetenz ist auf Unterstützungsmassnahmen beschränkt; eine vollständige Bundeszuständigkeit für die Betagten- und Behindertenhilfe besteht nicht (Schweizer, St. Galler Kommentar BV, 4. Aufl. 2023, Art. 112c N. 4).
 
-**N. 6** **«Bestrebungen zu Gunsten von Betagten und Behinderten»**: Der Begriff «Bestrebungen» umfasst alle Aktivitäten und Massnahmen, die der Verbesserung der Lebenssituation von betagten und behinderten Menschen dienen. Dies schliesst sowohl private als auch öffentliche Initiativen ein (Gächter/Filippo, BSK BV, 2. Aufl. 2024, Art. 112c N. 8).
+**N. 6** **«Bestrebungen zu Gunsten von Betagten und Behinderten»**: Der Begriff «Bestrebungen» umfasst alle Aktivitäten und Massnahmen, die der Verbesserung der Lebenssituation von betagten und behinderten Menschen dienen. Dies schliesst sowohl private als auch öffentliche Initiativen ein.
 
 **N. 7** Die Begriffe «Betagte» und «Behinderte» sind weit zu verstehen. «Betagte» umfasst alle Menschen im Rentenalter, unabhängig von ihrer Pflegebedürftigkeit. Der Begriff «Behinderte» orientiert sich am modernen Behinderungsbegriff der UN-Behindertenrechtskonvention und umfasst Menschen mit dauerhaften körperlichen, seelischen, geistigen oder Sinnesbeeinträchtigungen (Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 745 f.).
 
@@ -28,11 +28,11 @@
 
 ### 5. Streitstände
 
-**N. 10** **Umfang der Bundeskompetenz**: In der Lehre ist umstritten, wie weit die Förderungskompetenz des Bundes reicht. Schweizer (St. Galler Kommentar BV, Art. 112c N. 6) vertritt eine enge Auslegung und betont den subsidiären Charakter der Bundeskompetenz. Gächter/Filippo (BSK BV, Art. 112c N. 12 f.) plädieren für eine weitere Auslegung, die dem Bund auch gewisse Regelungskompetenzen im Rahmen der Förderung zugesteht.
+**N. 10** **Umfang der Bundeskompetenz**: In der Lehre ist umstritten, wie weit die Förderungskompetenz des Bundes reicht. Schweizer (St. Galler Kommentar BV, Art. 112c N. 6) vertritt eine enge Auslegung und betont den subsidiären Charakter der Bundeskompetenz. Gächter/Filippo plädieren für eine weitere Auslegung, die dem Bund auch gewisse Regelungskompetenzen im Rahmen der Förderung zugesteht.
 
 **N. 11** **Verhältnis zu den Kantonen**: Die konkurrierende Natur der Kompetenz ist unbestritten, jedoch divergieren die Meinungen über die Reichweite der kantonalen Autonomie. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N. 3854) betonen die fortbestehende kantonale Hauptzuständigkeit. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 1285) sehen hingegen eine verstärkte Bundesmitverantwortung, insbesondere bei der Finanzierung.
 
-**N. 12** **Völkerrechtskonforme Auslegung**: Mit der Ratifizierung der UN-Behindertenrechtskonvention hat sich die Frage gestellt, inwieweit Art. 112c BV im Lichte des Völkerrechts auszulegen ist. Schefer (in: Müller/Schefer, Grundrechte, S. 748) fordert eine expansive Auslegung im Sinne der Konvention. Waldmann (BSK BV, Art. 8 N. 86) mahnt zur Zurückhaltung und betont den Unterschied zwischen Förderungsauftrag und Grundrechtsverpflichtung.
+**N. 12** **Völkerrechtskonforme Auslegung**: Mit der Ratifizierung der UN-Behindertenrechtskonvention hat sich die Frage gestellt, inwieweit Art. 112c BV im Lichte des Völkerrechts auszulegen ist. Schefer (in: Müller/Schefer, Grundrechte, S. 748) fordert eine expansive Auslegung im Sinne der Konvention. Waldmann mahnt zur Zurückhaltung und betont den Unterschied zwischen Förderungsauftrag und Grundrechtsverpflichtung.
 
 ### 6. Praxishinweise
 

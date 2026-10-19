@@ -4,7 +4,7 @@
 
 Die Schuldenbremse des Bundes regelt, wie der Staat seine Finanzen verwaltet. Sie verlangt, dass Ausgaben und Einnahmen langfristig ausgeglichen sind (BBl 2000 4653ff.). Der Bund darf nicht dauerhaft mehr ausgeben, als er einnimmt.
 
-Die Schuldenbremse wirkt in drei Schritten: Zuerst legt sie fest, wie viel Geld der Bund maximal ausgeben darf. Diese Obergrenze richtet sich nach den erwarteten Einnahmen und der Wirtschaftslage. Bei schwacher Konjunktur darf mehr ausgegeben werden als eingenommen wird, bei guter Konjunktur weniger (BSK BV-Lienhard/Marti Locher, Art. 126 N. 24f.).
+Die Schuldenbremse wirkt in drei Schritten: Zuerst legt sie fest, wie viel Geld der Bund maximal ausgeben darf. Diese Obergrenze richtet sich nach den erwarteten Einnahmen und der Wirtschaftslage. Bei schwacher Konjunktur darf mehr ausgegeben werden als eingenommen wird, bei guter Konjunktur weniger.
 
 In Notlagen wie Naturkatastrophen oder schweren Rezessionen kann das Parlament diese Grenze mit qualifiziertem Mehr erhöhen (Art. 159 Abs. 3 lit. c BV). Werden die Ausgaben trotzdem überschritten, müssen die Mehrkosten innert sechs Jahren wieder eingespart werden (Finanzhaushaltgesetz Art. 16).
 

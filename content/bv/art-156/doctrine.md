@@ -18,7 +18,7 @@
 
 **N. 5** **Getrennte Verhandlung (Abs. 1)**: Das Prinzip der getrennten Beratung bedeutet, dass National- und Ständerat ihre Sitzungen separat abhalten und unabhängig voneinander beraten. Nach Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 156 N. 3) ist dies Ausdruck der vollen Gleichberechtigung beider Kammern und verhindert die Dominanz eines Rates.
 
-**N. 6** **Übereinstimmung (Abs. 2)**: Das Konsensprinzip verlangt die inhaltliche Übereinstimmung beider Räte für jeden Bundesversammlungsbeschluss. Nach Waldmann/Belser/Epiney (BSK BV, 2. Aufl. 2024, Art. 156 N. 8) genügt nicht die blosse Mehrheit in einem Gesamtparlament, sondern es bedarf identischer Beschlüsse beider Kammern. Dies gilt für Gesetze, Verordnungen der Bundesversammlung, Bundesbeschlüsse und einfache Bundesbeschlüsse (→ Art. 163 BV).
+**N. 6** **Übereinstimmung (Abs. 2)**: Das Konsensprinzip verlangt die inhaltliche Übereinstimmung beider Räte für jeden Bundesversammlungsbeschluss. Nach Waldmann/Belser/Epiney genügt nicht die blosse Mehrheit in einem Gesamtparlament, sondern es bedarf identischer Beschlüsse beider Kammern. Dies gilt für Gesetze, Verordnungen der Bundesversammlung, Bundesbeschlüsse und einfache Bundesbeschlüsse (→ Art. 163 BV).
 
 **N. 7** **Differenzbereinigungsverfahren (Abs. 3)**: Die Verfassung verpflichtet den Gesetzgeber, ein Verfahren vorzusehen, das bei Meinungsverschiedenheiten eine Lösung ermöglicht. Die in lit. a–d aufgeführten Bereiche sind gemäss Tschannen (in: St. Galler Kommentar BV, Art. 156 N. 12) abschliessend, was bedeutet, dass in anderen Bereichen eine Blockade durch einen Rat möglich bleibt.
 
@@ -34,7 +34,7 @@
 
 **N. 11** **Reichweite des Konsensprinzips**: In der Doktrin ist umstritten, wie weit das Übereinstimmungserfordernis reicht. Während Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, § 15 N. 42) eine strenge Auslegung vertreten, wonach jede auch nur redaktionelle Differenz die Übereinstimmung ausschliesst, plädieren Graf/Theler/von Wyss (Parlamentsrecht und Parlamentspraxis, 2014, § 23 N. 15) für eine pragmatischere Sicht, die unwesentliche Abweichungen toleriert.
 
-**N. 12** **Justiziabilität der Verfahrensregeln**: Kontrovers diskutiert wird, ob und inwieweit Verletzungen von Art. 156 BV gerichtlich überprüfbar sind. Müller (in: BSK BV, Art. 156 N. 14) vertritt die Auffassung, dass grobe Verfahrensfehler im Gesetzgebungsverfahren zur Ungültigkeit des Erlasses führen können. Die herrschende Lehre (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 28 N. 32) sieht die parlamentarischen Verfahrensregeln jedoch als weitgehend nicht justiziabel an.
+**N. 12** **Justiziabilität der Verfahrensregeln**: Kontrovers diskutiert wird, ob und inwieweit Verletzungen von Art. 156 BV gerichtlich überprüfbar sind. Müller vertritt die Auffassung, dass grobe Verfahrensfehler im Gesetzgebungsverfahren zur Ungültigkeit des Erlasses führen können. Die herrschende Lehre (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 28 N. 32) sieht die parlamentarischen Verfahrensregeln jedoch als weitgehend nicht justiziabel an.
 
 ### 6. Praxishinweise
 

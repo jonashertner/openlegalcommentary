@@ -43,7 +43,7 @@
 
 **N. 11** In legal doctrine, it is disputed whether Art. 154 BV also establishes a right to adequate financial resources for parliamentary groups. **Häfelin/Haller/Keller/Thurnherr** (Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 1623) affirm a constitutional minimum claim, since without financial means the work of parliamentary groups would be factually impossible. **Müller/Schefer** (Grundrechte in der Schweiz, 4th ed. 2008, p. 892) see financing, on the other hand, as a pure matter of business order regulation.
 
-**N. 12** The question of minimum size is also controversially discussed. While **Rhinow/Schefer/Uebersax** (ibid., N 3246) consider the threshold of five as appropriate, **Waldmann** (BSK BV, 2nd ed. 2024, Art. 154 N 7) advocates for more flexible handling that is oriented to the size ratios of the councils.
+**N. 12** The question of minimum size is also controversially discussed. While **Rhinow/Schefer/Uebersax** (ibid., N 3246) consider the threshold of five as appropriate, **Waldmann** advocates for more flexible handling that is oriented to the size ratios of the councils.
 
 ### 6. Practical Guidelines
 

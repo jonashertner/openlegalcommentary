@@ -14,17 +14,17 @@
 - → Art. 143 Cost. (diritto di voto)
 - → Art. 149 cpv. 2 Cost. (eleggibilità al Consiglio nazionale)
 
-**N. 3** La norma è concepita come regolamentazione conclusiva dei requisiti per il diritto di voto a livello federale. Il legislatore non può né aggiungere nuovi requisiti né modificare quelli menzionati (Tschannen, BSK BV, Art. 136 N. 7).
+**N. 3** La norma è concepita come regolamentazione conclusiva dei requisiti per il diritto di voto a livello federale. Il legislatore non può né aggiungere nuovi requisiti né modificare quelli menzionati.
 
 ### 3. Elementi di fattispecie / Contenuto della norma
 
 **N. 4** **Cittadinanza**: Il diritto di voto presuppone la cittadinanza svizzera. I cittadini con doppia nazionalità hanno diritto di voto purché soddisfino gli altri requisiti. Il diritto di voto per le cittadine e i cittadini svizzeri all'estero è garantito dall'art. 40 Cost.
 
-**N. 5** **Maggiore età**: Deve essere compiuto il 18° anno di età. È determinante il giorno del 18° compleanno, non l'anno civile. La discussione su un ulteriore abbassamento dell'età di voto o su un diritto di voto dei minori tramite rappresentanti legali fu respinta dal costituente. Tschannen (BSK BV, Art. 136 N. 10) respinge il diritto di voto dei minori poiché «di fatto si riduce a un doppio diritto di voto del rappresentante legale e [...] contraddice non solo l'uguaglianza giuridica, ma ancor più la funzione organica del diritto di voto».
+**N. 5** **Maggiore età**: Deve essere compiuto il 18° anno di età. È determinante il giorno del 18° compleanno, non l'anno civile. La discussione su un ulteriore abbassamento dell'età di voto o su un diritto di voto dei minori tramite rappresentanti legali fu respinta dal costituente. Tschannen respinge il diritto di voto dei minori poiché «di fatto si riduce a un doppio diritto di voto del rappresentante legale e [...] contraddice non solo l'uguaglianza giuridica, ma ancor più la funzione organica del diritto di voto».
 
 **N. 6** **Interdizione**: L'esclusione per «malattia mentale o debolezza mentale» è superata dalla revisione del diritto della protezione degli adulti del 2013. L'art. 136 Cost. deve essere interpretato alla luce dell'art. 14 CC: solo la curatela generale comporta la perdita dei diritti politici. La terminologia obsoleta della Costituzione è deprecabile, ma non cambia l'interpretazione restrittiva.
 
-**N. 7** **Uguaglianza dei diritti politici**: Il cpv. 1 periodo 2 garantisce l'uguaglianza dei diritti politici. Questa comprende l'uguaglianza del valore di conteggio (ogni voto conta ugualmente), ma non l'uguaglianza del valore di successo (ogni voto ha la stessa influenza sul risultato). Tschannen (BSK BV, Art. 136 N. 13) critica che «il periodo 2 dell'art. 136 cpv. 1 rimane sospeso nel vuoto e [...] sarebbe stato meglio non scriverlo», poiché l'uguaglianza deriva già dall'art. 8 Cost.
+**N. 7** **Uguaglianza dei diritti politici**: Il cpv. 1 periodo 2 garantisce l'uguaglianza dei diritti politici. Questa comprende l'uguaglianza del valore di conteggio (ogni voto conta ugualmente), ma non l'uguaglianza del valore di successo (ogni voto ha la stessa influenza sul risultato). Tschannen critica che «il periodo 2 dell'art. 136 cpv. 1 rimane sospeso nel vuoto e [...] sarebbe stato meglio non scriverlo», poiché l'uguaglianza deriva già dall'art. 8 Cost.
 
 ### 4. Conseguenze giuridiche
 

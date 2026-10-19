@@ -4,13 +4,13 @@
 
 ### Storia della genesi
 
-**N. 1** L'ancoraggio della formazione musicale nella Costituzione federale risale all'iniziativa popolare «gioventù + musica», depositata il 18 dicembre 2008 con 154'095 firme valide (FF 2009 613). Il Consiglio federale, pur riconoscendo l'importanza sociale della formazione musicale, respinse comunque l'iniziativa (Hänni, BSK BV, Art. 67a N. 1). Mentre il Consiglio nazionale si pronunciò per l'accettazione dell'iniziativa popolare, questa non trovò la maggioranza nel Consiglio degli Stati (Hänni, BSK BV, Art. 67a N. 1).
+**N. 1** L'ancoraggio della formazione musicale nella Costituzione federale risale all'iniziativa popolare «gioventù + musica», depositata il 18 dicembre 2008 con 154'095 firme valide (FF 2009 613). Il Consiglio federale, pur riconoscendo l'importanza sociale della formazione musicale, respinse comunque l'iniziativa. Mentre il Consiglio nazionale si pronunciò per l'accettazione dell'iniziativa popolare, questa non trovò la maggioranza nel Consiglio degli Stati.
 
-**N. 2** La maggioranza della commissione del Consiglio degli Stati si era pronunciata per un controprogetto che prevedeva una promozione della musica nel rispetto delle competenze cantonali (Hänni, BSK BV, Art. 67a N. 1). Questo controprogetto diretto fu infine adottato da entrambe le Camere (FF 2010 5389). I promotori dell'iniziativa ritirarono quindi la loro iniziativa a favore del controprogetto. Il 23 settembre 2012 popolo e Cantoni adottarono il controprogetto con il 72,7% di voti favorevoli e l'approvazione di tutti i Cantoni (FF 2012 9991).
+**N. 2** La maggioranza della commissione del Consiglio degli Stati si era pronunciata per un controprogetto che prevedeva una promozione della musica nel rispetto delle competenze cantonali. Questo controprogetto diretto fu infine adottato da entrambe le Camere (FF 2010 5389). I promotori dell'iniziativa ritirarono quindi la loro iniziativa a favore del controprogetto. Il 23 settembre 2012 popolo e Cantoni adottarono il controprogetto con il 72,7% di voti favorevoli e l'approvazione di tutti i Cantoni (FF 2012 9991).
 
 ### Classificazione sistematica
 
-**N. 3** L'art. 67a Cost. si trova nella 3ª sezione della Costituzione federale su «Formazione, ricerca e cultura». La disposizione completa lo spazio formativo svizzero (art. 61a segg. Cost.) e la promozione della cultura (art. 69 Cost.) con un aspetto specifico. Costituisce una cerniera tra il settore della formazione e quello della cultura, con l'aspetto formativo in primo piano (Hänni, BSK BV, Art. 67a N. 2).
+**N. 3** L'art. 67a Cost. si trova nella 3ª sezione della Costituzione federale su «Formazione, ricerca e cultura». La disposizione completa lo spazio formativo svizzero (art. 61a segg. Cost.) e la promozione della cultura (art. 69 Cost.) con un aspetto specifico. Costituisce una cerniera tra il settore della formazione e quello della cultura, con l'aspetto formativo in primo piano.
 
 **N. 4** La vicinanza sistematica all'art. 62 Cost. (sistema scolastico) è centrale per la comprensione dell'ordinamento delle competenze. Mentre l'art. 62 Cost. attribuisce ai Cantoni la competenza primaria per il sistema scolastico, l'art. 67a cpv. 2 Cost. interrompe parzialmente quest'ordine, trasferendo a Confederazione e Cantoni un compito comune nell'ambito della formazione musicale scolastica. I rinvii incrociati all'→ art. 63a cpv. 5 Cost. (formazione professionale) e all'→ art. 67 cpv. 2 Cost. (promozione della gioventù) mostrano l'interconnessione con altri settori di promozione.
 
@@ -18,11 +18,11 @@
 
 **N. 5** L'art. 67a Cost. contiene tre diversi contenuti normativi:
 
-- **Il capoverso 1** statuisce un obbligo generale di promozione da parte di Confederazione e Cantoni per la formazione musicale, in particolare di bambini e giovani. Il concetto di «formazione musicale» comprende sia la pratica (lezioni di strumento, canto) sia la trasmissione teorica (storia della musica, teoria musicale). Il gruppo di lavoro del DFI/UFC sostiene che la Confederazione potrebbe in futuro promuovere la formazione musicale anche nell'ambito scolastico, sostenendo finanziariamente le corrispondenti misure dei Cantoni (Hänni, BSK BV, Art. 67a N. 5).
+- **Il capoverso 1** statuisce un obbligo generale di promozione da parte di Confederazione e Cantoni per la formazione musicale, in particolare di bambini e giovani. Il concetto di «formazione musicale» comprende sia la pratica (lezioni di strumento, canto) sia la trasmissione teorica (storia della musica, teoria musicale). Il gruppo di lavoro del DFI/UFC sostiene che la Confederazione potrebbe in futuro promuovere la formazione musicale anche nell'ambito scolastico, sostenendo finanziariamente le corrispondenti misure dei Cantoni.
 
-- **Il capoverso 2** obbliga Confederazione e Cantoni a impegnarsi per un insegnamento musicale di qualità nelle scuole. Questa disposizione non interrompe la sovranità scolastica cantonale secondo l'art. 62 Cost., ma fonda un obbligo di cooperazione (Hänni, BSK BV, Art. 67a N. 7).
+- **Il capoverso 2** obbliga Confederazione e Cantoni a impegnarsi per un insegnamento musicale di qualità nelle scuole. Questa disposizione non interrompe la sovranità scolastica cantonale secondo l'art. 62 Cost., ma fonda un obbligo di cooperazione.
 
-- **Il capoverso 3** attribuisce alla Confederazione la competenza di stabilire principi per l'accesso dei giovani alla pratica musicale e per la promozione dei talenti musicali. Questa competenza federale è limitata all'ambito extrascolastico (Hänni, BSK BV, Art. 67a N. 9).
+- **Il capoverso 3** attribuisce alla Confederazione la competenza di stabilire principi per l'accesso dei giovani alla pratica musicale e per la promozione dei talenti musicali. Questa competenza federale è limitata all'ambito extrascolastico.
 
 ### Conseguenze giuridiche
 

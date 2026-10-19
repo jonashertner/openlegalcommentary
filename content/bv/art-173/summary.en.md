@@ -8,4 +8,4 @@ The most significant powers concern external and internal security. In extraordi
 
 Other important powers include reviewing the validity of popular initiatives and deciding on conflicts between federal authorities. Thus the Federal Court clarified in **BGE 129 II 193** that the Federal Council as government possesses independent competences. The Federal Assembly may also grant pardons and decide on amnesties, although such decrees are politically controversial.
 
-As a catch-all provision, the Federal Assembly handles all federal business that is not assigned to any other authority (para. 2). This prevents gaps in competence in state organisation law (Waldmann, BSK BV, 2. Aufl. 2024, Art. 173 N. 20).
+As a catch-all provision, the Federal Assembly handles all federal business that is not assigned to any other authority (para. 2). This prevents gaps in competence in state organisation law.

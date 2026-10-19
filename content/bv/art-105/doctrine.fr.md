@@ -2,13 +2,13 @@
 
 ## 1. Genèse
 
-**Ch. 1** L'ordre actuel de la Confédération en matière d'alcool remonte aux articles sur l'alcool de l'ancienne Constitution fédérale (art. 32bis-32quater anc. Cst.), qui furent introduits entre 1885 et 1930 au terme de plusieurs votations populaires. Le constituant réagissait ainsi aux conséquences sanitaires et sociales désastreuses de la consommation massive d'alcool au 19e siècle (Uhlmann, BSK BV, art. 105 ch. 1). Le message relatif à la nouvelle Constitution fédérale de 1996 a repris l'ordre des compétences existant sans modification matérielle (FF 1997 I 1, 276).
+**Ch. 1** L'ordre actuel de la Confédération en matière d'alcool remonte aux articles sur l'alcool de l'ancienne Constitution fédérale (art. 32bis-32quater anc. Cst.), qui furent introduits entre 1885 et 1930 au terme de plusieurs votations populaires. Le constituant réagissait ainsi aux conséquences sanitaires et sociales désastreuses de la consommation massive d'alcool au 19e siècle. Le message relatif à la nouvelle Constitution fédérale de 1996 a repris l'ordre des compétences existant sans modification matérielle (FF 1997 I 1, 276).
 
 **Ch. 2** La révision totale de la Constitution fédérale a conduit à une modernisation linguistique et à une simplification systématique. Les trois articles sur l'alcool de l'ancienne Constitution fédérale ont été regroupés dans l'art. 105 Cst. (norme de compétence) et l'art. 131 al. 1 let. b et c ainsi qu'al. 3 Cst. (dispositions fiscales). Le mandat de protection de la santé a été explicitement ancré dans la phrase 2 de l'art. 105 Cst.
 
 ## 2. Classement systématique
 
-**Ch. 3** L'art. 105 Cst. se trouve dans le titre 3 (Confédération, cantons et communes), chapitre 3 (Finances), section 3 (Banque nationale; monnaie et moyens de paiement). Cette position systématique est historiquement conditionnée et ne reflète pas l'importance actuelle de la norme. L'art. 105 Cst. est principalement une norme de compétence avec un objectif de politique de la santé (Uhlmann, BSK BV, art. 105 ch. 1).
+**Ch. 3** L'art. 105 Cst. se trouve dans le titre 3 (Confédération, cantons et communes), chapitre 3 (Finances), section 3 (Banque nationale; monnaie et moyens de paiement). Cette position systématique est historiquement conditionnée et ne reflète pas l'importance actuelle de la norme. L'art. 105 Cst. est principalement une norme de compétence avec un objectif de politique de la santé.
 
 **Ch. 4** La norme est étroitement liée à :
 - → Art. 131 al. 1 let. b et c Cst. (impôts spéciaux sur les boissons distillées)
@@ -21,7 +21,7 @@
 
 ### Compétence fédérale globale (phrase 1)
 
-**Ch. 5** L'art. 105 phrase 1 Cst. fonde une compétence fédérale globale et exclusive pour la législation sur les « boissons distillées ». Cette notion englobe toutes les boissons alcoolisées obtenues par distillation ainsi que les produits alcoolisés qui atteignent un taux d'alcool comparable par d'autres procédés techniques (**ATF 143 II 409**). La doctrine et la jurisprudence reprennent la terminologie de la loi sur l'alcool pour l'interprétation constitutionnelle (Uhlmann, BSK BV, art. 105 ch. 4).
+**Ch. 5** L'art. 105 phrase 1 Cst. fonde une compétence fédérale globale et exclusive pour la législation sur les « boissons distillées ». Cette notion englobe toutes les boissons alcoolisées obtenues par distillation ainsi que les produits alcoolisés qui atteignent un taux d'alcool comparable par d'autres procédés techniques (**ATF 143 II 409**). La doctrine et la jurisprudence reprennent la terminologie de la loi sur l'alcool pour l'interprétation constitutionnelle.
 
 **Ch. 6** La compétence fédérale s'étend à quatre domaines d'activité :
 - **Fabrication** : monopole pour la production commerciale, système de concessions pour les distilleries domestiques
@@ -33,7 +33,7 @@
 
 ### Mandat de politique de la santé (phrase 2)
 
-**Ch. 8** Le législateur est tenu de « tenir compte des effets nuisibles de la consommation d'alcool ». Ce mandat marque l'ensemble de la législation sur l'alcool et légitime les restrictions de la liberté économique motivées par la politique de la santé (Uhlmann, BSK BV, art. 105 ch. 6-9).
+**Ch. 8** Le législateur est tenu de « tenir compte des effets nuisibles de la consommation d'alcool ». Ce mandat marque l'ensemble de la législation sur l'alcool et légitime les restrictions de la liberté économique motivées par la politique de la santé.
 
 **Ch. 9** Le mandat de protection de la santé se concrétise dans :
 - Les mesures de prévention (restrictions publicitaires, protection de la jeunesse)
@@ -58,7 +58,7 @@
 
 ### Prix minimaux et restrictions de vente
 
-**Ch. 12** La licéité constitutionnelle de prix minimaux pour les boissons alcoolisées est controversée. Le Conseil des États a approuvé tant les interdictions de vente nocturnes (22h-6h) que les prix minimaux pour lutter contre les excès d'alcool ; le Conseil national a rejeté les deux mesures (Uhlmann, BSK BV, art. 105 ch. 10-11). Pärli/Lehne affirment la compatibilité avec l'art. 105 Cst. en invoquant le mandat de protection de la santé, tandis qu'Epiney/Metz expriment des réserves de droit commercial.
+**Ch. 12** La licéité constitutionnelle de prix minimaux pour les boissons alcoolisées est controversée. Le Conseil des États a approuvé tant les interdictions de vente nocturnes (22h-6h) que les prix minimaux pour lutter contre les excès d'alcool; le Conseil national a rejeté les deux mesures. Pärli/Lehne affirment la compatibilité avec l'art. 105 Cst. en invoquant le mandat de protection de la santé, tandis qu'Epiney/Metz expriment des réserves de droit commercial.
 
 ### Notion de « boissons distillées »
 
@@ -66,7 +66,7 @@
 
 ### Révision totale de la législation sur l'alcool
 
-**Ch. 14** Le Conseil fédéral propose une réforme fondamentale avec une loi sur l'impôt sur les spiritueux et une loi sur le commerce de l'alcool. Le démantèlement prévu du domaine monopolistique et la réduction des obligations d'autorisation sont controversés (Uhlmann, BSK BV, art. 105 ch. 10). Les critiques craignent un affaiblissement de la protection de la santé, les partisans attendent des simplifications administratives.
+**Ch. 14** Le Conseil fédéral propose une réforme fondamentale avec une loi sur l'impôt sur les spiritueux et une loi sur le commerce de l'alcool. Le démantèlement prévu du domaine monopolistique et la réduction des obligations d'autorisation sont controversés. Les critiques craignent un affaiblissement de la protection de la santé, les partisans attendent des simplifications administratives.
 
 ## 6. Indications pratiques
 

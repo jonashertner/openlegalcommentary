@@ -26,7 +26,7 @@
 - Mehrheitsprinzip: Entscheide werden mit Stimmenmehrheit gefasst
 - Solidaritätsprinzip: Die Mitglieder vertreten Kollegialentscheide nach aussen einheitlich
 
-**N. 5** Die Tragweite des Kollegialprinzips ist in der Doktrin umstritten. Während Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 15 N 12) eine strikte Auslegung vertreten, wonach alle Entscheide von erheblicher Bedeutung dem Gesamtbundesrat vorzulegen sind, plädiert Sägesser (in: Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 177 N 8) für eine pragmatische Handhabung, die den Effizienzanforderungen moderner Staatstätigkeit Rechnung trägt.
+**N. 5** Die Tragweite des Kollegialprinzips ist in der Doktrin umstritten. Während Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 15 N 12) eine strikte Auslegung vertreten, wonach alle Entscheide von erheblicher Bedeutung dem Gesamtbundesrat vorzulegen sind, plädiert Sägesser für eine pragmatische Handhabung, die den Effizienzanforderungen moderner Staatstätigkeit Rechnung trägt.
 
 #### b) Departementalprinzip (Abs. 2)
 

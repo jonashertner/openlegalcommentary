@@ -6,7 +6,7 @@
 
 **N. 1** L'attuale art. 127 Cost. risale alla revisione totale della Costituzione federale del 1999. La disposizione riunisce sistematicamente i principi di imposizione fiscale precedentemente sparsi in vari articoli della vCost. (FF 1997 I 367). Il principio di legalità era già delineato nell'art. 4 vCost., mentre il principio della capacità contributiva è stato derivato giurisprudenzialmente dal principio di uguaglianza. Il divieto di doppia imposizione intercantonale era espressamente ancorato nell'art. 46 cpv. 2 vCost.
 
-**N. 2** Con l'art. 127 Cost. il costituente non intendeva apportare modifiche materiali, bensì un aggiornamento del diritto vigente con una formulazione più precisa dei principi di imposizione riconosciuti (Behnisch, BSK BV, art. 127 n. 1). L'inserimento del principio della capacità contributiva nel cpv. 2 codifica la giurisprudenza pluriennale del Tribunale federale relativa all'art. 4 vCost.
+**N. 2** Con l'art. 127 Cost. il costituente non intendeva apportare modifiche materiali, bensì un aggiornamento del diritto vigente con una formulazione più precisa dei principi di imposizione riconosciuti. L'inserimento del principio della capacità contributiva nel cpv. 2 codifica la giurisprudenza pluriennale del Tribunale federale relativa all'art. 4 vCost.
 
 ### 2. Sistematica
 
@@ -16,7 +16,7 @@
 
 ### 3. Elementi costitutivi della fattispecie
 
-**N. 5** **Principio di legalità (cpv. 1)**: Sono comprese tutte le imposte intese come prelievi senza contropartita per coprire il fabbisogno finanziario generale. La legge formale deve disciplinare i seguenti elementi (Behnisch, BSK BV, art. 127 n. 7; dottrina dominante e giurisprudenza del Tribunale federale):
+**N. 5** **Principio di legalità (cpv. 1)**: Sono comprese tutte le imposte intese come prelievi senza contropartita per coprire il fabbisogno finanziario generale. La legge formale deve disciplinare i seguenti elementi (dottrina dominante e giurisprudenza del Tribunale federale):
 - Cerchia dei soggetti d'imposta
 - Oggetto d'imposta
 - Commisurazione materiale
@@ -25,23 +25,23 @@
 
 **N. 6** I requisiti sono rigorosi: mere autorizzazioni alla riscossione di imposte non sono sufficienti (DTF 143 II 283). Anche le imposte comunali necessitano di una base legale formale a livello cantonale (DTF 140 I 176).
 
-**N. 7** **Principi di imposizione (cpv. 2)**: L'elencazione non è esaustiva («segnatamente»). La **generalità dell'imposizione** vieta privilegi non giustificati obiettivamente (Behnisch, BSK BV, art. 127 n. 24-26). L'**uniformità** esige un'applicazione coerente delle leggi fiscali. Il **principio della capacità contributiva** richiede l'imposizione secondo la capacità economica (DTF 137 II 353; Behnisch, BSK BV, art. 127 n. 28-47).
+**N. 7** **Principi di imposizione (cpv. 2)**: L'elencazione non è esaustiva («segnatamente»). La **generalità dell'imposizione** vieta privilegi non giustificati obiettivamente. L'**uniformità** esige un'applicazione coerente delle leggi fiscali. Il **principio della capacità contributiva** richiede l'imposizione secondo la capacità economica (DTF 137 II 353).
 
-**N. 8** **Divieto di doppia imposizione (cpv. 3)**: Vieta l'imposizione multipla dello stesso oggetto d'imposta da parte di diversi Cantoni per lo stesso periodo. Sono comprese le doppie imposizioni virtuali e attuali (Behnisch, BSK BV, art. 127 n. 54-56). La Confederazione deve adottare le misure necessarie, principalmente attraverso la LAID.
+**N. 8** **Divieto di doppia imposizione (cpv. 3)**: Vieta l'imposizione multipla dello stesso oggetto d'imposta da parte di diversi Cantoni per lo stesso periodo. Sono comprese le doppie imposizioni virtuali e attuali. La Confederazione deve adottare le misure necessarie, principalmente attraverso la LAID.
 
 ### 4. Conseguenze giuridiche
 
-**N. 9** In caso di violazione del **principio di legalità** i decreti fiscali sono nulli. Il Tribunale federale annulla coerentemente le basi legali insufficienti (DTF 143 II 283). Tuttavia nella prassi si manifesta una certa riserva nell'applicazione (Behnisch, BSK BV, art. 127 n. 14-16: «Il Tribunale federale ha ripetutamente accettato basi legali insufficienti per l'imposizione»).
+**N. 9** In caso di violazione del **principio di legalità** i decreti fiscali sono nulli. Il Tribunale federale annulla coerentemente le basi legali insufficienti (DTF 143 II 283). Tuttavia nella prassi si manifesta una certa riserva nell'applicazione.
 
-**N. 10** Le violazioni dei **principi di imposizione** comportano l'incostituzionalità delle norme interessate. Il Tribunale federale dichiara le tariffe degressive incompatibili con il principio della capacità contributiva (DTF 133 I 206; Behnisch, BSK BV, art. 127 n. 85-86). Le tariffe progressive sono conformi alla Costituzione, quelle proporzionali («Flat Tax») sono controverse.
+**N. 10** Le violazioni dei **principi di imposizione** comportano l'incostituzionalità delle norme interessate. Il Tribunale federale dichiara le tariffe degressive incompatibili con il principio della capacità contributiva (DTF 133 I 206). Le tariffe progressive sono conformi alla Costituzione, quelle proporzionali («Flat Tax») sono controverse.
 
 **N. 11** In caso di **doppia imposizione** l'interessato può adire il Tribunale federale mediante ricorso di diritto pubblico (→ art. 189 cpv. 2 Cost.). La giurisprudenza recente ha abbandonato la decadenza del diritto di ricorso (DTF 149 II 354).
 
 ### 5. Questioni controverse
 
-**N. 12** **Imposizione degressiva**: Il Tribunale federale considera le tariffe fiscali (parzialmente) degressive incostituzionali (DTF 133 I 206). Alcuni economisti criticano il principio della capacità contributiva e propugnano tariffe proporzionali (Flat Rate Tax) o persino degressive (Behnisch, BSK BV, art. 127 n. 85-86). La dottrina dominante sostiene tuttavia il postulato di progressività del Tribunale federale (Reich, Steuerrecht, § 2 n. 89; Matteotti, Steuergerechtigkeit, p. 234 segg.).
+**N. 12** **Imposizione degressiva**: Il Tribunale federale considera le tariffe fiscali (parzialmente) degressive incostituzionali (DTF 133 I 206). Alcuni economisti criticano il principio della capacità contributiva e propugnano tariffe proporzionali (Flat Rate Tax) o persino degressive. La dottrina dominante sostiene tuttavia il postulato di progressività del Tribunale federale (Reich, Steuerrecht, § 2 n. 89; Matteotti, Steuergerechtigkeit, p. 234 segg.).
 
-**N. 13** **Portata del principio di legalità**: Mentre la dottrina dominante vuole vedere ancorati nella legge tutti gli elementi essenziali (Baumberger, AJP 2012, 908), la prassi accetta in parte basi legali insufficienti (Behnisch, BSK BV, art. 127 n. 14-16). Questa discrepanza tra testo costituzionale e realtà costituzionale è criticata in dottrina (Klett, ZSR 1992 II 45).
+**N. 13** **Portata del principio di legalità**: Mentre la dottrina dominante vuole vedere ancorati nella legge tutti gli elementi essenziali (Baumberger, AJP 2012, 908), la prassi accetta in parte basi legali insufficienti. Questa discrepanza tra testo costituzionale e realtà costituzionale è criticata in dottrina (Klett, ZSR 1992 II 45).
 
 **N. 14** **Portata del divieto di doppia imposizione**: È controverso se sia compresa anche la doppia imposizione internazionale. La dottrina dominante e la prassi limitano l'art. 127 cpv. 3 Cost. ai rapporti intercantonali (Locher, Interkantonales Steuerrecht, § 1 n. 12; Höhn/Mäusli, Interkantonales Steuerrecht, § 2 n. 8). Una minoranza propugna una protezione estesa (Senn, Besteuerungsgrundsätze, p. 167).
 

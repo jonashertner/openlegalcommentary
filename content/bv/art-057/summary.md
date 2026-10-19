@@ -6,7 +6,7 @@ Die Verfassungsbestimmung schafft eine gemeinsame Grundlage für die Sicherheits
 
 Betroffen sind alle staatlichen Behörden, die mit Sicherheitsaufgaben betraut sind: Polizei, Grenzwacht, Nachrichtendienst, Armee und Zivilschutz. Auch Bürgerinnen und Bürger sind indirekt betroffen, da sie von Sicherheitsmassnahmen profitieren oder davon betroffen sein können.
 
-Die Rechtsfolgen sind begrenzt. Art. 57 BV begründet nach herrschender Lehre (Diggelmann/Altwicker, BSK BV, Art. 57 N. 23-26) keine neuen Kompetenzen, sondern setzt bestehende Zuständigkeiten voraus. Umstritten ist, ob die Koordinationspflicht in Absatz 2 dem Bund neue Regelungskompetenzen verleiht. Die herrschende Lehre verneint dies wegen der föderalistischen Kompetenzordnung.
+Die Rechtsfolgen sind begrenzt. Art. 57 BV begründet nach herrschender Lehre keine neuen Kompetenzen, sondern setzt bestehende Zuständigkeiten voraus. Umstritten ist, ob die Koordinationspflicht in Absatz 2 dem Bund neue Regelungskompetenzen verleiht. Die herrschende Lehre verneint dies wegen der föderalistischen Kompetenzordnung.
 
 Ein Beispiel für die praktische Anwendung ist das Konkordat über Massnahmen gegen Gewalt an Sportveranstaltungen. Das Bundesgericht bestätigte dessen Zulässigkeit als interkantonale Polizeikoordination (BGE 140 I 2). Bei grenzüberschreitenden Sicherheitslagen arbeiten Kantonspolizeien und Bundesbehörden zusammen, etwa bei Terrorismusbekämpfung oder organisierter Kriminalität.
 

@@ -48,7 +48,7 @@
 
 **N. 14** Die Bestimmung hat primär organisationsrechtlichen Charakter. Sie begründet keine subjektiven Rechte Einzelner oder von Kantonen auf Vertretung im Bundesrat.
 
-**N. 15** Die Nichtbeachtung der Repräsentationsvorschrift in Abs. 4 führt nicht zur Ungültigkeit einer Wahl. Die Bestimmung ist als politische Richtschnur, nicht als justiziable Rechtsnorm konzipiert (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 175 N. 22).
+**N. 15** Die Nichtbeachtung der Repräsentationsvorschrift in Abs. 4 führt nicht zur Ungültigkeit einer Wahl. Die Bestimmung ist als politische Richtschnur, nicht als justiziable Rechtsnorm konzipiert.
 
 **N. 16** Bundesratswahlen sind gemäss **BGE 1C_649/2015** nicht justiziell überprüfbar. Art. 189 Abs. 4 BV schliesst die Anfechtung von Akten der Bundesversammlung beim Bundesgericht aus.
 
@@ -56,7 +56,7 @@
 
 **N. 17** In der Lehre ist umstritten, wie verbindlich die Rücksichtnahme auf regionale und sprachliche Vertretung ist. Ein Teil der Doktrin betrachtet Abs. 4 als blosse politische Maxime ohne Rechtsverbindlichkeit (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 1659). Andere Autoren sehen darin eine Rechtspflicht mit Ermessensspielraum (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4. Aufl. 2023, Art. 175 N. 19).
 
-**N. 18** Kontrovers diskutiert wird auch die Frage geschlechtsspezifischer Repräsentation. Während die parlamentarische Initiative 93.406 («Les deux sexes au Conseil fédéral») 1994 scheiterte, vertreten einzelne Stimmen in der Lehre, dass aus Art. 8 Abs. 3 BV eine Pflicht zur angemessenen Geschlechtervertretung abzuleiten sei (Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 746). Die herrschende Lehre lehnt dies ab (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 175 N. 24).
+**N. 18** Kontrovers diskutiert wird auch die Frage geschlechtsspezifischer Repräsentation. Während die parlamentarische Initiative 93.406 («Les deux sexes au Conseil fédéral») 1994 scheiterte, vertreten einzelne Stimmen in der Lehre, dass aus Art. 8 Abs. 3 BV eine Pflicht zur angemessenen Geschlechtervertretung abzuleiten sei (Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 746). Die herrschende Lehre lehnt dies ab.
 
 **N. 19** Die optimale Grösse des Bundesrats wird periodisch diskutiert. Vorschläge reichen von fünf bis neun Mitgliedern. Die Befürworter einer Vergrösserung argumentieren mit der gestiegenen Arbeitslast und besseren Repräsentationsmöglichkeiten (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N. 3148). Kritiker befürchten Effizienzverluste und eine Schwächung des Kollegialprinzips.
 

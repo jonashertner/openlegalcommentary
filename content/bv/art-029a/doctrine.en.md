@@ -40,7 +40,7 @@
 
 **N. 12** On the question of the timing of access to the courts: the guarantee of access to the courts applies in principle also to interlocutory decisions, but only where an irreparable disadvantage makes an immediate judicial determination necessary. Where no such disadvantage is apparent, it suffices that the interlocutory decision can be subjected to judicial review together with the final decision (**BGE 146 I 62** E. 5.1; **BGE 138 V 271** E. 3.1).
 
-**N. 13** According to prevailing doctrine and practice, the right also encompasses a costs dimension: court fees may not render access to justice excessively difficult. The equivalence principle, which ensures proportionality of fees, is shaped in part by Art. 29a FC (**BGE 145 I 52** E. 5.2.3; cf. also Kley, SGK BV, Art. 29a N. 7; Biaggini, BV, 2nd ed. 2017, Art. 29a N. 8b; Waldmann, BSK BV, Art. 29a N. 28).
+**N. 13** According to prevailing doctrine and practice, the right also encompasses a costs dimension: court fees may not render access to justice excessively difficult. The equivalence principle, which ensures proportionality of fees, is shaped in part by Art. 29a FC (**BGE 145 I 52** E. 5.2.3; cf. also Kley, SGK BV, Art. 29a N. 7; Biaggini, BV, 2nd ed. 2017, Art. 29a N. 8b).
 
 #### 3.3 Reservation for exceptional cases
 
@@ -72,7 +72,7 @@
 
 #### 5.3 Scope of the reservation for exceptional cases
 
-**N. 21** Legal scholarship is divided on whether the reservation for exceptional cases in Art. 29a second sentence FC should be interpreted narrowly or broadly. Waldmann (BSK BV, Art. 29a N. 28) advocates a restrictive interpretation: only cases of genuine non-justiciability — i.e., cases in which the court is unable to adjudicate for lack of legally binding decision-making criteria — justify an exclusion. By contrast, Häfelin/Haller/Keller/Thurnherr (N. 857) emphasise that considerations of the separation of powers — in particular with regard to governmental and parliamentary acts — may also legitimise an exclusion. The Federal Supreme Court clarified in **BGE 137 I 128** E. 4.2 that exceptional cases within the meaning of Art. 29a FC second sentence concern decisions that are difficult to «judicialise» and that raise essentially political questions. This formula leaves a certain margin but has been criticised in the literature as too imprecise (Kley, SGK BV, Art. 29a N. 14 f.).
+**N. 21** Legal scholarship is divided on whether the reservation for exceptional cases in Art. 29a second sentence FC should be interpreted narrowly or broadly. Waldmann advocates a restrictive interpretation: only cases of genuine non-justiciability — i.e., cases in which the court is unable to adjudicate for lack of legally binding decision-making criteria — justify an exclusion. By contrast, Häfelin/Haller/Keller/Thurnherr (N. 857) emphasise that considerations of the separation of powers — in particular with regard to governmental and parliamentary acts — may also legitimise an exclusion. The Federal Supreme Court clarified in **BGE 137 I 128** E. 4.2 that exceptional cases within the meaning of Art. 29a FC second sentence concern decisions that are difficult to «judicialise» and that raise essentially political questions. This formula leaves a certain margin but has been criticised in the literature as too imprecise (Kley, SGK BV, Art. 29a N. 14 f.).
 
 #### 5.4 Relationship with Art. 190 FC in cases of gaps in federal legislation
 

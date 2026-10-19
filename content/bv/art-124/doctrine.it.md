@@ -18,17 +18,17 @@
 
 **N. 5** Il concetto di vittima presuppone che una persona sia stata lesa nella sua integrità fisica, psichica o sessuale a causa di un reato. La giurisprudenza interpreta ampiamente il concetto di reato e include anche i reati colposi di evento con grande distanza temporale tra azione e verificarsi dell'evento (**DTF 134 II 308 consid. 5**). Decisiva è la realizzazione degli elementi costitutivi oggettivi e soggettivi, non il comportamento contrario alla diligenza in quanto tale.
 
-**N. 6** Göksu (BSK BV, Art. 124 N. 4-5) sottolinea che solo le persone fisiche possono essere vittime. La lesione deve essere stata causata direttamente dal reato. Oltre alle vittime primarie, l'art. 124 Cost. comprende anche i congiunti come vittime secondarie, purché la loro integrità psichica sia stata lesa dal reato stesso.
+**N. 6** Göksu sottolinea che solo le persone fisiche possono essere vittime. La lesione deve essere stata causata direttamente dal reato. Oltre alle vittime primarie, l'art. 124 Cost. comprende anche i congiunti come vittime secondarie, purché la loro integrità psichica sia stata lesa dal reato stesso.
 
 ### 3.2 Assistenza
 
-**N. 7** L'«aiuto» costituzionalmente dovuto comprende secondo la dottrina dominante un sistema a tre livelli: soccorso immediato, aiuto a lungo termine e prestazioni finanziarie. È controverso se il soccorso alle vittime operi anche preventivamente. Una parte della letteratura sostiene che il soccorso alle vittime dovrebbe intervenire non solo quando è presente un reato, ma già quando questo è minacciato. Göksu (BSK BV, Art. 124 N. 7) contraddice questa interpretazione con l'argomento che non trova sostegno né nel tenore letterale né nei materiali. La prassi del Tribunale federale non si è ancora pronunciata definitivamente su questa controversia.
+**N. 7** L'«aiuto» costituzionalmente dovuto comprende secondo la dottrina dominante un sistema a tre livelli: soccorso immediato, aiuto a lungo termine e prestazioni finanziarie. È controverso se il soccorso alle vittime operi anche preventivamente. Una parte della letteratura sostiene che il soccorso alle vittime dovrebbe intervenire non solo quando è presente un reato, ma già quando questo è minacciato. Göksu contraddice questa interpretazione con l'argomento che non trova sostegno né nel tenore letterale né nei materiali. La prassi del Tribunale federale non si è ancora pronunciata definitivamente su questa controversia.
 
 ### 3.3 Indennizzo adeguato
 
 **N. 8** L'«indennizzo adeguato» è legato alla condizione che la vittima sia caduta in difficoltà economiche a causa del reato. La giurisprudenza concretizza queste difficoltà richiamandosi al sistema delle prestazioni complementari (**DTF 131 II 217**). L'indennizzo ha carattere sussidiario; le prestazioni di terzi vengono computate.
 
-**N. 9** Göksu (BSK BV, Art. 124 N. 8-10) espone che l'adeguatezza dell'indennizzo richiede una ponderazione tra le condizioni finanziarie della vittima e il danno subito. L'indennizzo non deve coprire l'intero danno, ma deve prevenire o attenuare le situazioni di necessità economica.
+**N. 9** Göksu espone che l'adeguatezza dell'indennizzo richiede una ponderazione tra le condizioni finanziarie della vittima e il danno subito. L'indennizzo non deve coprire l'intero danno, ma deve prevenire o attenuare le situazioni di necessità economica.
 
 ## 4. Conseguenze giuridiche
 
@@ -40,7 +40,7 @@
 
 ### 5.1 Soccorso alle vittime preventivo
 
-**N. 12** Un punto centrale di controversia riguarda la questione se il soccorso alle vittime intervenga già in caso di minaccia di un reato. Gomm/Zehntner (Kommentar OHG, 3a ed. 2009, Art. 1 N. 15) e Leubin Müller (AJP 2012, 1585, 1587) sostengono che lo scopo protettivo del soccorso alle vittime comprenda anche misure preventive. Göksu (BSK BV, Art. 124 N. 7) contraddice questa posizione richiamandosi al tenore letterale inequivocabile («a causa di un reato») e alla mancanza di sostegno nei materiali. La prassi dei consultori cantonali per il soccorso alle vittime è disomogenea.
+**N. 12** Un punto centrale di controversia riguarda la questione se il soccorso alle vittime intervenga già in caso di minaccia di un reato. Gomm/Zehntner (Kommentar OHG, 3a ed. 2009, Art. 1 N. 15) e Leubin Müller (AJP 2012, 1585, 1587) sostengono che lo scopo protettivo del soccorso alle vittime comprenda anche misure preventive. Göksu contraddice questa posizione richiamandosi al tenore letterale inequivocabile («a causa di un reato») e alla mancanza di sostegno nei materiali. La prassi dei consultori cantonali per il soccorso alle vittime è disomogenea.
 
 ### 5.2 Rapporto con il patrocinio gratuito
 
@@ -52,4 +52,4 @@
 
 **N. 15** Per i danni a lungo termine (amianto, infezioni HIV) il termine di decadenza inizia solo con la riconoscibilità del danno (**DTF 126 II 348**). I consultori sono obbligati a richiamare l'attenzione su queste particolarità e ad assistere nella formulazione della domanda.
 
-**N. 16** Nel contesto transfrontaliero bisogna considerare il quadro di diritto internazionale. Göksu (BSK BV, Art. 124 N. 11) rinvia alla Convenzione europea relativa al risarcimento delle vittime di reati di violenza (RS 0.312.5) e alla Direttiva UE sulla protezione delle vittime 2012/29/UE. Le vittime svizzere di reati di violenza nello spazio UE possono richiamarsi a questi strumenti.
+**N. 16** Nel contesto transfrontaliero bisogna considerare il quadro di diritto internazionale. Göksu rinvia alla Convenzione europea relativa al risarcimento delle vittime di reati di violenza (RS 0.312.5) e alla Direttiva UE sulla protezione delle vittime 2012/29/UE. Le vittime svizzere di reati di violenza nello spazio UE possono richiamarsi a questi strumenti.

@@ -32,7 +32,7 @@
 
 ### 3.2 Verbot der Benachteiligung (Abs. 2 Satz 1)
 
-**N. 10** Das Verbot bezieht sich auf Ungleichbehandlungen, die ausschliesslich am Kriterium des Bürgerrechts anknüpfen. Waldmann (BSK BV, 2. Aufl. 2024, Art. 37 N 15) präzisiert: «Zulässig bleiben Differenzierungen nach Wohnsitz, Aufenthaltsdauer oder anderen sachlichen Kriterien».
+**N. 10** Das Verbot bezieht sich auf Ungleichbehandlungen, die ausschliesslich am Kriterium des Bürgerrechts anknüpfen. Waldmann präzisiert: «Zulässig bleiben Differenzierungen nach Wohnsitz, Aufenthaltsdauer oder anderen sachlichen Kriterien».
 
 **N. 11** Die Norm verbietet sowohl direkte als auch indirekte Diskriminierungen. Eine scheinbar neutrale Regelung, die faktisch nur Bürger anderer Gemeinden oder Kantone trifft, kann ebenfalls gegen Art. 37 Abs. 2 BV verstossen (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 23 N 15).
 
@@ -64,7 +64,7 @@
 
 ## 5. Streitstände
 
-**N. 18** **Umstritten** ist die Reichweite der Ausnahme für Bürgergemeinden. Ehrenzeller (St. Galler Kommentar BV, Art. 37 N 12) vertritt eine restriktive Auslegung, während Waldmann (BSK BV, Art. 37 N 18) für mehr Spielraum der Korporationen plädiert. **BGE 132 I 68** hat sich der restriktiven Linie angeschlossen.
+**N. 18** **Umstritten** ist die Reichweite der Ausnahme für Bürgergemeinden. Ehrenzeller (St. Galler Kommentar BV, Art. 37 N 12) vertritt eine restriktive Auslegung, während Waldmann für mehr Spielraum der Korporationen plädiert. **BGE 132 I 68** hat sich der restriktiven Linie angeschlossen.
 
 **N. 19** **Kontrovers** diskutiert wird das Verhältnis zwischen Art. 37 Abs. 2 BV und Art. 8 BV. Müller/Schefer (Grundrechte, S. 754 f.) sehen Art. 37 Abs. 2 als lex specialis, während Biaggini (BV-Kommentar, Art. 37 N 4) für eine parallele Anwendung argumentiert.
 

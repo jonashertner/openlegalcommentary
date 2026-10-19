@@ -6,7 +6,7 @@
 
 **N. 2** Die Botschaft zur neuen Bundesverfassung betont den Paradigmenwechsel von der reinen Produktionsförderung zur multifunktionalen Landwirtschaft: «Die Landwirtschaft soll nicht nur Nahrungsmittel produzieren, sondern auch zur Erhaltung der natürlichen Lebensgrundlagen, zur Pflege der Kulturlandschaft und zur dezentralen Besiedlung beitragen» (BBl 1997 I 247). Dieser Wandel war bereits in der Agrarpolitik 2002 angelegt und wurde mit Art. 104 BV verfassungsrechtlich verankert (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4. Aufl. 2023, Art. 104 N. 3).
 
-**N. 3** Der Begriff der Multifunktionalität wurde bewusst gewählt, um die verschiedenen Leistungen der Landwirtschaft für die Gesellschaft zu erfassen. Die verfassungsgebende Versammlung verwarf Formulierungen, die allein auf die Produktionsfunktion abstellen würden (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 104 N. 4).
+**N. 3** Der Begriff der Multifunktionalität wurde bewusst gewählt, um die verschiedenen Leistungen der Landwirtschaft für die Gesellschaft zu erfassen. Die verfassungsgebende Versammlung verwarf Formulierungen, die allein auf die Produktionsfunktion abstellen würden.
 
 ## 2. Systematische Einordnung
 
@@ -27,7 +27,7 @@
 - **Erhaltung der natürlichen Lebensgrundlagen (lit. b)**: Biodiversität, Bodenschutz, Wasserschutz
 - **Dezentrale Besiedlung (lit. c)**: Verhinderung der Landflucht, Erhaltung der Infrastruktur im ländlichen Raum
 
-**N. 9** Der «wesentliche Beitrag» erfordert keine vollständige Selbstversorgung, aber eine substantielle inländische Produktion. Die herrschende Lehre geht von einem Selbstversorgungsgrad von mindestens 50% aus (Waldmann et al., BSK BV, Art. 104 N. 12; a.M. Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 892, die auf die Importabhängigkeit der Schweiz verweisen).
+**N. 9** Der «wesentliche Beitrag» erfordert keine vollständige Selbstversorgung, aber eine substantielle inländische Produktion. Die herrschende Lehre geht von einem Selbstversorgungsgrad von mindestens 50% aus (a.M. Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 892, die auf die Importabhängigkeit der Schweiz verweisen).
 
 ### 3.2 Förderung bodenbewirtschaftender bäuerlicher Betriebe (Abs. 2)
 
@@ -51,7 +51,7 @@
 
 ## 5. Streitstände
 
-**N. 17** **Reichweite der Multifunktionalität**: Ehrenzeller et al. (St. Galler Kommentar BV, Art. 104 N. 9) betonen die Gleichwertigkeit aller drei Funktionen. Waldmann et al. (BSK BV, Art. 104 N. 15) sehen dagegen einen Vorrang der Produktionsfunktion, da nur eine «auf den Markt ausgerichtete Produktion» die anderen Funktionen erfüllen könne. Die Praxis des Bundesgerichts tendiert zu einer ausgewogenen Betrachtung (**2C_397/2021 E. 4.1**).
+**N. 17** **Reichweite der Multifunktionalität**: Ehrenzeller et al. (St. Galler Kommentar BV, Art. 104 N. 9) betonen die Gleichwertigkeit aller drei Funktionen. Waldmann et al. sehen dagegen einen Vorrang der Produktionsfunktion, da nur eine «auf den Markt ausgerichtete Produktion» die anderen Funktionen erfüllen könne. Die Praxis des Bundesgerichts tendiert zu einer ausgewogenen Betrachtung (**2C_397/2021 E. 4.1**).
 
 **N. 18** **Vereinbarkeit mit WTO-Recht**: Müller (in: Ehrenzeller et al., St. Galler Kommentar BV, Art. 104 N. 24) sieht die Direktzahlungen als «green box»-konform an. Cottier/Oesch (Internationales Wirtschaftsrecht, 2. Aufl. 2019, S. 456) warnen vor protektionistischen Elementen, die WTO-widrig sein könnten. Das Bundesgericht hat diese Frage bislang offengelassen.
 

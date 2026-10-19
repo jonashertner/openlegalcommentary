@@ -21,7 +21,7 @@ Ces droits ne sont pas illimités. L'État peut les restreindre, mais seulement 
 ³ ATF 127 I 6 consid. 5a; SGK-Schweizer, Art. 10 Cst. n. 4
 ⁴ ATF 2C_451/2020 consid. 6.2.3
 ⁵ Arrêt 2C_218/2013 du 26.3.2013 consid. 3.1
-⁶ ATF 146 IV 76 consid. 4.2; BSK-Tschentscher, Art. 10 Cst. n. 28
+⁶ ATF 146 IV 76 consid. 4.2
 ⁷ Häfelin/Haller/Keller/Thurnherr, n. 372
 ⁸ ATF 136 I 87 consid. 6.5; art. 36 Cst.
 ⁹ Arrêt 1B_416/2019 du 12.9.2019 consid. 4.3

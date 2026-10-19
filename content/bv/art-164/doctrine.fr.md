@@ -65,7 +65,7 @@
 
 ### Délimitation par rapport aux ordonnances autonomes
 
-**N. 18** L'admissibilité d'ordonnances autonomes basées sur l'art. 182 al. 1 Cst. est controversée. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, N 1823) reconnaissent un domaine étroit pour les ordonnances d'organisation. Waldmann (BSK BV, Art. 182 N 15) rejette catégoriquement les ordonnances autonomes avec effet externe.
+**N. 18** L'admissibilité d'ordonnances autonomes basées sur l'art. 182 al. 1 Cst. est controversée. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, N 1823) reconnaissent un domaine étroit pour les ordonnances d'organisation. Waldmann rejette catégoriquement les ordonnances autonomes avec effet externe.
 
 **N. 19** La pratique montre une tendance à l'utilisation extensive d'ordonnances d'exécution. Malinverni/Hottelier/Hertig Randall/Flückiger (Droit constitutionnel suisse, N 1456) critiquent cette « érosion du principe de légalité » et demandent un retour à la réserve de la loi.
 

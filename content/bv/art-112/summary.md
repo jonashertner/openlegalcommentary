@@ -8,6 +8,6 @@ Das Verhältnis von Minimal- und Maximalrente ist verfassungsrechtlich auf 1:2 b
 
 Die Finanzierung erfolgt hälftig durch Beiträge der Versicherten (wobei Arbeitgeber die Hälfte bezahlen) und durch Leistungen des Bundes. Diese Bundesleistungen dürfen höchstens die Hälfte der Gesamtausgaben betragen und werden primär durch Tabaksteuer, Spirituosensteuer und Spielbankenabgabe finanziert.
 
-Die in Absatz 2 bezeichneten «Grundsätze» sind in der Lehre terminologisch umstritten, da es sich um konkrete materielle Vorgaben handelt (Biaggini, BSK BV, Art. 112 N. 13). Dennoch sind sie für den Gesetzgeber zwingend und prägen das AHVG und IVG. Die Norm steht im Kontext des 1972 verfassungsrechtlich verankerten Drei-Säulen-Prinzips (Tschudi, SZS 1987, 1ff.).
+Die in Absatz 2 bezeichneten «Grundsätze» sind in der Lehre terminologisch umstritten, da es sich um konkrete materielle Vorgaben handelt. Dennoch sind sie für den Gesetzgeber zwingend und prägen das AHVG und IVG. Die Norm steht im Kontext des 1972 verfassungsrechtlich verankerten Drei-Säulen-Prinzips (Tschudi, SZS 1987, 1ff.).
 
 **Beispiel**: Eine 65-jährige Rentnerin erhält eine AHV-Rente von monatlich 1200 Franken. Diese muss verfassungsrechtlich ihren Existenzbedarf angemessen decken. Beträgt die Mindestrente 1185 Franken, darf die Maximalrente höchstens 2370 Franken betragen. Bei Teuerung müssen die Renten angepasst werden, damit die Kaufkraft erhalten bleibt.

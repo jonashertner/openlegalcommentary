@@ -2,9 +2,9 @@
 
 ## Übersicht
 
-Art. 64a BV gibt dem Bund die Berechtigung, die Weiterbildung zu fördern. Diese Verfassungsbestimmung wurde 2006 eingefügt, weil die alten Kompetenzen des Bundes nicht ausreichten (Hänni, BSK BV, Art. 64a N. 2-3). Weiterbildung bedeutet das Lernen nach der obligatorischen Schule, der Berufsbildung oder dem Studium.
+Art. 64a BV gibt dem Bund die Berechtigung, die Weiterbildung zu fördern. Diese Verfassungsbestimmung wurde 2006 eingefügt, weil die alten Kompetenzen des Bundes nicht ausreichten. Weiterbildung bedeutet das Lernen nach der obligatorischen Schule, der Berufsbildung oder dem Studium.
 
-Der Bundesrat muss Grundregeln für die Weiterbildung festlegen. Er hat fünf wichtige Grundsätze bestimmt (Hänni, BSK BV, Art. 64a N. 11): Jeder ist selbst verantwortlich für seine Weiterbildung, die Qualität muss stimmen, verschiedene Bildungswege sollen durchlässig sein (man kann von einem zum anderen wechseln), Bildungsleistungen sollen angerechnet werden und alle sollen gleiche Chancen haben.
+Der Bundesrat muss Grundregeln für die Weiterbildung festlegen. Er hat fünf wichtige Grundsätze bestimmt: Jeder ist selbst verantwortlich für seine Weiterbildung, die Qualität muss stimmen, verschiedene Bildungswege sollen durchlässig sein (man kann von einem zum anderen wechseln), Bildungsleistungen sollen angerechnet werden und alle sollen gleiche Chancen haben.
 
 Der Bund kann die Weiterbildung finanziell unterstützen, muss es aber nicht. Das Weiterbildungsgesetz von 2014 (SR 419.1) regelt, in welchen Bereichen der Bund hilft: bei Grundkompetenzen für Erwachsene (wie Lesen und Rechnen), bei beruflicher Weiterbildung und bei der Ausbildung von Weiterbildungslehrpersonen (BBl 2013 3729, 3745).
 

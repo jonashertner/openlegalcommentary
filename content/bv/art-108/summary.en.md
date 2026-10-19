@@ -4,7 +4,7 @@ Art. 108 BV obliges the Confederation to promote housing construction and home o
 
 The promotion takes place through various instruments. The Confederation may provide land for housing construction, technically improve house building and reduce housing costs. Important forms of promotion today are loans and guarantees for social housing construction, tax benefits for imputed rental value (BGE 148 I 210 E. 4.4.6) and the possibility to use money from pension funds for house purchases (Art. 30c BVG).
 
-Families, elderly people, those in need and people with disabilities receive special support. They have priority in the promotional measures (Cardinaux, BSK BV, Art. 108 N. 42-43). The Confederation may also enact laws on the development of building land and the improvement of building methods.
+Families, elderly people, those in need and people with disabilities receive special support. They have priority in the promotional measures. The Confederation may also enact laws on the development of building land and the improvement of building methods.
 
 A practical example: A family wants to buy a house but has insufficient equity capital. It may withdraw part of its pension fund money early. Additionally, a non-profit housing cooperative offers it an affordable apartment that the Confederation has co-financed.
 

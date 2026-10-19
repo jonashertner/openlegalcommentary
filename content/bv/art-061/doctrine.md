@@ -54,7 +54,7 @@
 
 **N. 17** In der Lehre ist umstritten, ob die Bundeskompetenz nach Abs. 2 auch präventive Massnahmen zur Verhinderung von Katastrophen umfasst. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 1456) bejahen dies mit dem Argument, wirksamer Bevölkerungsschutz setze bereits bei der Prävention an. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N. 3842) vertreten eine restriktivere Auslegung und beschränken die Kompetenz auf die Bewältigung eingetretener Ereignisse.
 
-**N. 18** Kontrovers diskutiert wird auch die Frage, ob die geschlechtsspezifische Regelung in Abs. 3 noch zeitgemäss ist. Müller/Schefer (a.a.O., S. 456) plädieren de lege ferenda für eine geschlechtsneutrale Formulierung unter Verweis auf → Art. 8 Abs. 3 BV. Die herrschende Lehre hält an der Zulässigkeit der Differenzierung fest, da die Verfassung sie explizit vorsieht (BSK BV-Waldmann/Belser/Epiney, 2. Aufl. 2024, Art. 61 N. 8).
+**N. 18** Kontrovers diskutiert wird auch die Frage, ob die geschlechtsspezifische Regelung in Abs. 3 noch zeitgemäss ist. Müller/Schefer (a.a.O., S. 456) plädieren de lege ferenda für eine geschlechtsneutrale Formulierung unter Verweis auf → Art. 8 Abs. 3 BV. Die herrschende Lehre hält an der Zulässigkeit der Differenzierung fest, da die Verfassung sie explizit vorsieht.
 
 **N. 19** Bezüglich der Höhe des Erwerbsersatzes nach Abs. 4 gehen die Meinungen auseinander. Während ein Teil der Lehre einen vollen Erwerbsersatz analog zum Militärdienst fordert (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 42 N. 18), hält die Rechtsprechung einen reduzierten Ansatz für verfassungskonform, solange er nicht unverhältnismässig tief ist (**BGE 138 V 324**).
 

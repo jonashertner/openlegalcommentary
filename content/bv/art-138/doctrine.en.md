@@ -37,7 +37,7 @@
 
 ## 4. Legal Consequences
 
-**N. 9** If the initiative receives 100,000 valid signatures, it must be submitted to the people for voting. The Federal Assembly has no material review competence and can neither declare the initiative invalid nor submit a counter-proposal (Ehrenzeller, BSK BV, 2nd ed. 2024, Art. 138 N 15).
+**N. 9** If the initiative receives 100,000 valid signatures, it must be submitted to the people for voting. The Federal Assembly has no material review competence and can neither declare the initiative invalid nor submit a counter-proposal.
 
 **N. 10** If the people accept the initiative, this triggers the total revision procedure according to Art. 193 para. 2-4 Cst.:
 1. New election of both chambers

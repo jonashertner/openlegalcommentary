@@ -10,7 +10,7 @@
 
 ### 2. Classement systématique
 
-**N. 4** L'art. 113 Cst forme, avec l'art. 111 Cst (AVS/AI) et l'art. 114 Cst (assurance-chômage), le noyau de l'ordre constitutionnel des assurances sociales. Les trois piliers de la prévoyance vieillesse sont systématiquement coordonnés : le premier pilier (AVS) couvre les besoins vitaux, le deuxième pilier (prévoyance professionnelle) permet de maintenir le niveau de vie habituel, et le troisième pilier (prévoyance individuelle) sert de complément individuel (Cardinaux, BSK BV, Art. 113 N. 3).
+**N. 4** L'art. 113 Cst forme, avec l'art. 111 Cst (AVS/AI) et l'art. 114 Cst (assurance-chômage), le noyau de l'ordre constitutionnel des assurances sociales. Les trois piliers de la prévoyance vieillesse sont systématiquement coordonnés: le premier pilier (AVS) couvre les besoins vitaux, le deuxième pilier (prévoyance professionnelle) permet de maintenir le niveau de vie habituel, et le troisième pilier (prévoyance individuelle) sert de complément individuel.
 
 **N. 5** La disposition de compétence de l'al. 1 appartient systématiquement aux compétences matérielles de la Confédération (art. 54–125 Cst). Elle fonde une compétence fédérale globale avec effet dérogatoire ultérieur, de sorte que les réglementations cantonales dans le domaine de la prévoyance professionnelle ne sont plus admissibles qu'à titre subsidiaire (→ Art. 49 Cst). Les cantons restent toutefois compétents pour la prévoyance professionnelle de leur propre personnel, dans la mesure où le droit fédéral ne prévoit pas de réglementations exhaustives (**ATF 135 I 28 consid. 5**).
 
@@ -18,17 +18,17 @@
 
 ### 3. Éléments constitutifs / Contenu normatif
 
-**N. 7** **Compétence législative (al. 1)** : La Confédération n'a pas seulement le pouvoir, mais l'obligation d'édicter des prescriptions sur la prévoyance professionnelle. Cette compétence globale saisit tous les aspects du deuxième pilier, des conditions de prestations à la surveillance en passant par l'organisation (Cardinaux, BSK BV, Art. 113 N. 21).
+**N. 7** **Compétence législative (al. 1)**: La Confédération n'a pas seulement le pouvoir, mais l'obligation d'édicter des prescriptions sur la prévoyance professionnelle. Cette compétence globale saisit tous les aspects du deuxième pilier, des conditions de prestations à la surveillance en passant par l'organisation.
 
-**N. 8** **Objectif de prestations (al. 2 let. a)** : La prévoyance professionnelle doit, avec l'AVS/AI, permettre « la continuation du niveau de vie habituel de façon appropriée ». Selon la conception du Conseil fédéral, les rentes du premier et du deuxième pilier doivent atteindre ensemble 60% du dernier salaire brut pour les revenus moyens (Cardinaux, BSK BV, Art. 113 N. 30). Le Tribunal fédéral a précisé qu'une surassurance par cumul de différentes assurances sociales n'est pas compatible avec l'objectif du deuxième pilier (**ATF 130 V 369 consid. 2.2**).
+**N. 8** **Objectif de prestations (al. 2 let. a)**: La prévoyance professionnelle doit, avec l'AVS/AI, permettre « la continuation du niveau de vie habituel de façon appropriée ». Selon la conception du Conseil fédéral, les rentes du premier et du deuxième pilier doivent atteindre ensemble 60% du dernier salaire brut pour les revenus moyens. Le Tribunal fédéral a précisé qu'une surassurance par cumul de différentes assurances sociales n'est pas compatible avec l'objectif du deuxième pilier (**ATF 130 V 369 consid. 2.2**).
 
-**N. 9** **Obligation d'assurance (al. 2 let. b)** : L'obligation pour les salariés forme le noyau de la prévoyance professionnelle. La notion de qualité de salarié dans la prévoyance professionnelle est identique à celle de l'AVS (Cardinaux, BSK BV, Art. 113 N. 38). La loi peut prévoir des exceptions, par exemple pour les revenus modiques ou les durées d'emploi courtes (Riemer/Riemer-Kafka, Recht der beruflichen Vorsorge, § 4 N. 25 ss).
+**N. 9** **Obligation d'assurance (al. 2 let. b)**: L'obligation pour les salariés forme le noyau de la prévoyance professionnelle. La notion de qualité de salarié dans la prévoyance professionnelle est identique à celle de l'AVS. La loi peut prévoir des exceptions, par exemple pour les revenus modiques ou les durées d'emploi courtes (Riemer/Riemer-Kafka, Recht der beruflichen Vorsorge, § 4 N. 25 ss).
 
 **N. 10** **Exécution par des institutions de prévoyance (al. 2 let. c)** : Les employeurs doivent assurer leurs salariés auprès d'une institution de prévoyance. Cette organisation décentralisée est une caractéristique essentielle de la prévoyance professionnelle suisse (Helbling, Personalvorsorge und BVG, p. 89). La Confédération doit mettre à disposition, à titre subsidiaire, une institution de prévoyance fédérale (institution supplétive).
 
 **N. 11** **Indépendants (al. 2 let. d et e)** : Les indépendants peuvent s'assurer de manière facultative. Pour certains groupes, la Confédération peut introduire une obligation, ce qu'elle n'a pas encore fait (Stauffer, Berufliche Vorsorge, N. 156).
 
-**N. 12** **Financement (al. 3)** : Le financement paritaire est ancré au niveau constitutionnel. Les employeurs doivent payer au moins la moitié des cotisations de leurs salariés. Cette parité minimale vaut aussi bien pour la prévoyance professionnelle obligatoire que pour la prévoyance professionnelle plus étendue (Cardinaux, BSK BV, Art. 113 N. 57).
+**N. 12** **Financement (al. 3)**: Le financement paritaire est ancré au niveau constitutionnel. Les employeurs doivent payer au moins la moitié des cotisations de leurs salariés. Cette parité minimale vaut aussi bien pour la prévoyance professionnelle obligatoire que pour la prévoyance professionnelle plus étendue.
 
 **N. 13** **Exigences minimales (al. 4)** : Toutes les institutions de prévoyance doivent satisfaire à des exigences minimales du droit fédéral. Celles-ci concernent l'organisation, le financement, les prescriptions de placement et la surveillance (Schneider/Geiser/Gächter, BVG Handkommentar, Einl. N. 45 ss).
 
@@ -44,7 +44,7 @@
 
 ### 5. Points controversés
 
-**N. 18** **Portée de l'obligation** : Il est controversé de savoir dans quelle mesure le législateur est habilité à prévoir des exceptions à l'obligation d'assurance. Tandis que Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 N. 30) plaident pour une interprétation restrictive, Cardinaux (BSK BV, Art. 113 N. 45) plaide pour une marge d'appréciation plus large du législateur. La jurisprudence du Tribunal fédéral tend vers l'interprétation extensive.
+**N. 18** **Portée de l'obligation**: Il est controversé de savoir dans quelle mesure le législateur est habilité à prévoir des exceptions à l'obligation d'assurance. Tandis que Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 N. 30) plaident pour une interprétation restrictive, Cardinaux plaide pour une marge d'appréciation plus large du législateur. La jurisprudence du Tribunal fédéral tend vers l'interprétation extensive.
 
 **N. 19** **Obligation pour les indépendants** : La question de savoir pour quels groupes d'indépendants une obligation devrait être introduite est discutée de manière controversée. Stauffer (Berufliche Vorsorge, N. 158) est favorable à une obligation pour les travailleurs faussement indépendants, tandis qu'Helbling (Personalvorsorge und BVG, p. 112) met en garde contre une surréglementation.
 

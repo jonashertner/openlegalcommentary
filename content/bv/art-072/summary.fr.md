@@ -1,6 +1,6 @@
 # Aperçu
 
-L'art. 72 Cst. règle les compétences entre la Confédération et les cantons en matière de droit religieux. Les cantons sont compétents pour les rapports entre l'Église et l'État. Ils peuvent reconnaître les communautés religieuses de droit public et lever des impôts ecclésiastiques. Il n'existe cependant aucun droit à la reconnaissance (Winzeler, BSK BV, Art. 72 N. 20).
+L'art. 72 Cst. règle les compétences entre la Confédération et les cantons en matière de droit religieux. Les cantons sont compétents pour les rapports entre l'Église et l'État. Ils peuvent reconnaître les communautés religieuses de droit public et lever des impôts ecclésiastiques. Il n'existe cependant aucun droit à la reconnaissance.
 
 Les cantons organisent eux-mêmes leurs Églises cantonales. Le Tribunal fédéral a confirmé dans l'**ATF 129 I 68** : Une « sortie partielle » de l'Église cantonale seulement est possible si le droit cantonal le prévoit. Les cantons doivent toutefois respecter la liberté religieuse (art. 15 Cst.) (**ATF 145 I 121**).
 

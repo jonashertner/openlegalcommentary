@@ -18,13 +18,13 @@
 
 ### Autorité suprême (al. 1)
 
-**N. 6** Le terme « autorité suprême » s'est développé historiquement et comprend selon Thurnherr tant la fonction législative que certaines fonctions gouvernementales et de contrôle (Thurnherr, BSK BV, art. 148 n. 3-5). La suprématie s'exprime selon diverses dimensions.
+**N. 6** Le terme « autorité suprême » s'est développé historiquement et comprend selon Thurnherr tant la fonction législative que certaines fonctions gouvernementales et de contrôle. La suprématie s'exprime selon diverses dimensions.
 
-**N. 7** **Étendue controversée :** La doctrine est divisée sur l'étendue de la suprématie parlementaire. Eichenberger défend une conception large : l'autorité suprême comprendrait toutes les fonctions législatives et gouvernementales (Eichenberger, BSK BV, art. 148 n. 21). Aubert/Mahon et Sägesser suivent cette approche large (Thurnherr, BSK BV, art. 148 n. 24-25).
+**N. 7** **Étendue controversée :** La doctrine est divisée sur l'étendue de la suprématie parlementaire. Eichenberger défend une conception large: l'autorité suprême comprendrait toutes les fonctions législatives et gouvernementales. Aubert/Mahon et Sägesser suivent cette approche large.
 
-**N. 8** À l'opposé, Tschannen plaide pour une conception restrictive : la suprématie n'existerait que dans la mesure où l'Assemblée fédérale peut constituer ou contrôler d'autres autorités fédérales sans être elle-même soumise à un contre-contrôle (Thurnherr, BSK BV, art. 148 n. 26). Biaggini suit cette vision restrictive et limite la prééminence aux élections, à la haute surveillance et aux conflits de compétences (Thurnherr, BSK BV, art. 148 n. 28).
+**N. 8** À l'opposé, Tschannen plaide pour une conception restrictive: la suprématie n'existerait que dans la mesure où l'Assemblée fédérale peut constituer ou contrôler d'autres autorités fédérales sans être elle-même soumise à un contre-contrôle. Biaggini suit cette vision restrictive et limite la prééminence aux élections, à la haute surveillance et aux conflits de compétences.
 
-**N. 9** Mastronardi adopte une position médiane : il se rattache à la définition de Tschannen mais étend le cercle à la législation et à d'autres compétences (Thurnherr, BSK BV, art. 148 n. 29).
+**N. 9** Mastronardi adopte une position médiane: il se rattache à la définition de Tschannen mais étend le cercle à la législation et à d'autres compétences.
 
 ### Réserve des droits populaires
 

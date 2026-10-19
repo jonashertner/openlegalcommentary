@@ -10,7 +10,7 @@
 
 ## 2. Systematische Einordnung
 
-**N. 4** Art. 106 BV ist im 3. Abschnitt «Finanzordnung» des 3. Kapitels der Bundesverfassung platziert. Diese systematische Stellung unterstreicht den fiskalischen Charakter der Bestimmung, obwohl sie primär ordnungspolitische und soziale Schutzziele verfolgt. Oesch betont zu Recht, dass die Erzielung von Einnahmen nicht der Hauptzweck der Geldspielregelung ist (Oesch, BSK BV, Art. 106 N. 12).
+**N. 4** Art. 106 BV ist im 3. Abschnitt «Finanzordnung» des 3. Kapitels der Bundesverfassung platziert. Diese systematische Stellung unterstreicht den fiskalischen Charakter der Bestimmung, obwohl sie primär ordnungspolitische und soziale Schutzziele verfolgt. Oesch betont zu Recht, dass die Erzielung von Einnahmen nicht der Hauptzweck der Geldspielregelung ist.
 
 **N. 5** Die Bestimmung steht in engem Zusammenhang mit der Wirtschaftsfreiheit (Art. 27 BV), von der sie gemäss Art. 94 Abs. 4 BV eine explizite Ausnahme bildet. Das Bundesgericht hat in **BGE 148 II 392 E. 5.1** klargestellt, dass die Wirtschaftsfreiheit im Bereich der Geldspiele grundsätzlich nicht gilt. Diese Sonderstellung erlaubt dem Gesetzgeber die Schaffung von Monopolen und Konzessionssystemen.
 
@@ -18,11 +18,11 @@
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** Gemäss Oesch ist Art. 106 Abs. 1 BV «zugleich Kompetenz- und Auftragsnorm und begründet eine verpflichtende und umfassende Zuständigkeit des Bundes im gesamten Bereich der Geldspiele» (Oesch, BSK BV, Art. 106 N. 14). Der Begriff «Geldspiele» ist weit zu verstehen und umfasst alle Spiele, bei denen gegen einen geldwerten Einsatz ein Geldgewinn in Aussicht steht.
+**N. 7** Gemäss Oesch ist Art. 106 Abs. 1 BV «zugleich Kompetenz- und Auftragsnorm und begründet eine verpflichtende und umfassende Zuständigkeit des Bundes im gesamten Bereich der Geldspiele». Der Begriff «Geldspiele» ist weit zu verstehen und umfasst alle Spiele, bei denen gegen einen geldwerten Einsatz ein Geldgewinn in Aussicht steht.
 
 **N. 8** Die Berücksichtigung der kantonalen Interessen (Abs. 1) ist nicht bloss programmatisch, sondern eine verbindliche Vorgabe. Das Bundesgericht hat in **BGE 135 II 338 E. 6.3** festgehalten, dass diese Pflicht konkrete Auswirkungen auf die Ausgestaltung der Bundesgesetzgebung hat, insbesondere bezüglich der Ertragsverwendung.
 
-**N. 9** Das Konzessionssystem für Spielbanken (Abs. 2) ist zwingend ausgestaltet. Die regionalen Gegebenheiten müssen berücksichtigt werden, was eine gleichmässige geografische Verteilung der Spielbanken impliziert. Die Spielbankenabgabe ist zweckgebunden für die AHV/IV bestimmt. Oesch kritisiert die geltende Praxis, wonach nur die AHV, nicht aber die IV von den Spielbankenabgaben profitiert, als «im Licht des klaren Wortlauts von Art. 106 Abs. 2 Satz 3 erklärungsbedürftig» (Oesch, BSK BV, Art. 106 N. 24).
+**N. 9** Das Konzessionssystem für Spielbanken (Abs. 2) ist zwingend ausgestaltet. Die regionalen Gegebenheiten müssen berücksichtigt werden, was eine gleichmässige geografische Verteilung der Spielbanken impliziert. Die Spielbankenabgabe ist zweckgebunden für die AHV/IV bestimmt. Oesch kritisiert die geltende Praxis, wonach nur die AHV, nicht aber die IV von den Spielbankenabgaben profitiert, als «im Licht des klaren Wortlauts von Art. 106 Abs. 2 Satz 3 erklärungsbedürftig».
 
 **N. 10** Die kantonalen Zuständigkeiten (Abs. 3) sind abschliessend aufgezählt. Die Ausnahme für Jackpotsysteme der Spielbanken zeigt die Verflechtung der Kompetenzbereiche. Das Bundesgericht hat in **BGE 141 II 262 E. 2.2** klargestellt, dass die Kantone ihre Kompetenzen nur im Rahmen der bundesrechtlichen Vorgaben ausüben können.
 
@@ -30,15 +30,15 @@
 
 **N. 11** Die primäre Rechtsfolge ist die umfassende Gesetzgebungskompetenz des Bundes, verbunden mit einer Gesetzgebungspflicht. Diese Pflicht wurde durch das Geldspielgesetz vom 29. September 2017 (BGS) erfüllt, das am 1. Januar 2019 in Kraft trat.
 
-**N. 12** Für die Wirtschaftsakteure folgt aus Art. 106 BV i.V.m. Art. 94 Abs. 4 BV, dass kein Anspruch auf freien Marktzugang besteht. Praxis und Lehre anerkennen eine «stillschweigende Ermächtigung, nötigenfalls vom Grundsatz der Wirtschaftsfreiheit abzuweichen» (Oesch, BSK BV, Art. 106 N. 15).
+**N. 12** Für die Wirtschaftsakteure folgt aus Art. 106 BV i.V.m. Art. 94 Abs. 4 BV, dass kein Anspruch auf freien Marktzugang besteht. Praxis und Lehre anerkennen eine «stillschweigende Ermächtigung, nötigenfalls vom Grundsatz der Wirtschaftsfreiheit abzuweichen».
 
 **N. 13** Die Zweckbindung der Erträge ist verfassungsrechtlich verbindlich. Spielbankenabgaben müssen vollumfänglich der AHV/IV zugutekommen, während die Reinerträge aus Grossspielen für gemeinnützige Zwecke zu verwenden sind. Eine Verwendung für allgemeine Staatszwecke ist unzulässig.
 
 ## 5. Streitstände
 
-**N. 14** Ein zentraler Streitpunkt betrifft die Verfassungsmässigkeit der Monopolisierung des Lotteriewesens. Oesch hält fest: «Die Monopolisierung des Lotteriewesens zugunsten von Swisslos und der Loterie Romande scheint im Licht der Wirtschaftsfreiheit nicht unproblematisch» (Oesch, BSK BV, Art. 106 N. 38). Diese Kritik wird durch die extensive Auslegung von Art. 94 Abs. 4 BV durch das Bundesgericht jedoch relativiert.
+**N. 14** Ein zentraler Streitpunkt betrifft die Verfassungsmässigkeit der Monopolisierung des Lotteriewesens. Oesch hält fest: «Die Monopolisierung des Lotteriewesens zugunsten von Swisslos und der Loterie Romande scheint im Licht der Wirtschaftsfreiheit nicht unproblematisch». Diese Kritik wird durch die extensive Auslegung von Art. 94 Abs. 4 BV durch das Bundesgericht jedoch relativiert.
 
-**N. 15** Kontrovers diskutiert wird auch die Verwendung der Spielbankenabgabe. Die Praxis, wonach nur die AHV, nicht aber die IV von Spielbankenabgaben profitiert, steht in Spannung zum Verfassungstext. Im Jahr 2012 flossen CHF 319 Mio. in den Ausgleichsfonds der AHV, während die IV leer ausging (Oesch, BSK BV, Art. 106 N. 24).
+**N. 15** Kontrovers diskutiert wird auch die Verwendung der Spielbankenabgabe. Die Praxis, wonach nur die AHV, nicht aber die IV von Spielbankenabgaben profitiert, steht in Spannung zum Verfassungstext. Im Jahr 2012 flossen CHF 319 Mio. in den Ausgleichsfonds der AHV, während die IV leer ausging.
 
 **N. 16** Die Reichweite der DNS-Sperren für ausländische Online-Anbieter war umstritten. Das Bundesgericht hat in **BGE 148 II 392** die Verfassungsmässigkeit bejaht, während Teile der Lehre die Verhältnismässigkeit kritisch sehen (vgl. Thouvenin/Stiller, Gutachten Netzsperren, 2016, S. 14 ff.).
 

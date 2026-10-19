@@ -18,7 +18,7 @@
 
 ## Elements of the Provision / Normative Content
 
-**N. 5** **Electoral body**: «Each chamber» refers to the National Council and Council of States respectively and separately. Both chambers elect their presidencies independently of each other. The formulation «from among its members» means that only members of the respective chamber are eligible (Waldmann/Belser/Epiney, BSK FC, 2nd ed. 2024, Art. 152 N. 3).
+**N. 5** **Electoral body**: «Each chamber» refers to the National Council and Council of States respectively and separately. Both chambers elect their presidencies independently of each other. The formulation «from among its members» means that only members of the respective chamber are eligible.
 
 **N. 6** **Elected offices**: The provision requires the election of three persons:
 - A president
@@ -46,7 +46,7 @@ The gender-neutral formulation was introduced with the total revision of 1999 an
 
 **N. 11** **Legal nature of the prohibition on re-election**: In doctrine it is disputed whether the prohibition on re-election is mandatory or dispositive:
 - **Ehrenzeller** (St. Gallen Commentary FC, Art. 152 N. 5) takes the position that the prohibition is absolute and cannot be circumvented even by unanimous chamber resolution.
-- **Waldmann** (BSK FC, Art. 152 N. 7) argues against this, that in extraordinary situations (e.g. pandemic, war) a pragmatic handling would be conceivable.
+- **Waldmann** argues against this, that in extraordinary situations (e.g. pandemic, war) a pragmatic handling would be conceivable.
 - **Graf** (Parliamentary Law and Parliamentary Practice, § 10 N. 18) takes a mediating position: The prohibition applies in principle absolutely, but in case of impossibility of new election, a temporary continuation of office would be permissible.
 
 **N. 12** **Justiciability**: There is agreement that elections according to Art. 152 FC as interna corporis are not justiciable. However, the scope of this principle is disputed:

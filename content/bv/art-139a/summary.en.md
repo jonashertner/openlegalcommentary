@@ -4,7 +4,7 @@ Art. 139a BV governs the examination of federal popular initiatives for their co
 
 **What does the provision regulate?**
 
-The Federal Assembly must examine every valid constitutional initiative to determine whether it is compatible with Switzerland's international legal obligations. This encompasses all types of international law — from international treaties to customary international law (Waldmann, BSK BV, Art. 139a N. 4). If incompatibility is established, the Federal Council and Federal Assembly must inform the electorate about the «significance and scope» of accepting the initiative.
+The Federal Assembly must examine every valid constitutional initiative to determine whether it is compatible with Switzerland's international legal obligations. This encompasses all types of international law — from international treaties to customary international law. If incompatibility is established, the Federal Council and Federal Assembly must inform the electorate about the «significance and scope» of accepting the initiative.
 
 **Who is affected?**
 
@@ -12,7 +12,7 @@ Directly affected are the initiative committees whose proposals are examined, as
 
 **What are the legal consequences?**
 
-Unlike Art. 139 para. 3 BV, established incompatibility with international law does not lead to the initiative being declared invalid. The main legal consequence consists in an enhanced duty to inform: the voting materials must provide objective and comprehensible information about the consequences of acceptance (Epiney, BSK BV, Art. 139a N. 8). The initiative remains valid and proceeds to a vote.
+Unlike Art. 139 para. 3 BV, established incompatibility with international law does not lead to the initiative being declared invalid. The main legal consequence consists in an enhanced duty to inform: the voting materials must provide objective and comprehensible information about the consequences of acceptance. The initiative remains valid and proceeds to a vote.
 
 **Concrete example**
 

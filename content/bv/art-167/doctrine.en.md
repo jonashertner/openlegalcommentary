@@ -20,7 +20,7 @@
 
 **N. 5** **«Federal expenditure»**: This term encompasses all uses of federal resources, irrespective of their legal qualification (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 1823). The prevailing doctrine distinguishes between one-time and recurring expenditure, both of which are subject to parliamentary decision-making competence (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4th ed. 2014, § 12 N 28).
 
-**N. 6** **«Budget»**: The budget is the binding financial planning for one financial year. According to Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4th ed. 2023, Art. 167 N 8), it has a dual nature: it is both a planning instrument and an authorisation basis for expenditure. The budget binds the administration but does not create subjective rights for third parties (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 167 N 12).
+**N. 6** **«Budget»**: The budget is the binding financial planning for one financial year. According to Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4th ed. 2023, Art. 167 N 8), it has a dual nature: it is both a planning instrument and an authorisation basis for expenditure. The budget binds the administration but does not create subjective rights for third parties.
 
 **N. 7** **«State accounts»**: The state accounts document the actual revenue and expenditure of a financial year. Their approval by the Federal Assembly has primarily a political control function and discharges the Federal Council (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3rd ed. 2016, § 18 N 45).
 
@@ -36,7 +36,7 @@
 
 **N. 11** **Binding effect of the budget**: The degree of binding effect of the budget is disputed. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5th ed. 2021, § 42 N 18) advocates strict binding, while Lienhard/Mächler (Finanzrecht, 2017, N 234) argue for more flexibility in unforeseen events. Practice follows a mediating solution with supplementary credits.
 
-**N. 12** **Level of detail**: The required level of detail of the budget is controversially discussed. Sägesser (op. cit., Art. 5 N 8) demands a detailed breakdown for effective parliamentary control. Waldmann (BSK BV, Art. 167 N 15) warns against over-steering the executive through overly detailed budget requirements. The applicable Financial Budget Act seeks a middle path.
+**N. 12** **Level of detail**: The required level of detail of the budget is controversially discussed. Sägesser (op. cit., Art. 5 N 8) demands a detailed breakdown for effective parliamentary control. Waldmann warns against over-steering the executive through overly detailed budget requirements. The applicable Financial Budget Act seeks a middle path.
 
 **N. 13** **Relationship to substantive legislation**: The relationship between expenditure decisions under Art. 167 Fed. Const. and statutory expenditure obligations is disputed. The majority opinion (Ehrenzeller, St. Galler Kommentar, Art. 167 N 14; Häfelin/Haller/Keller/Thurnherr, op. cit., N 1825) considers substantive legislation as sufficient expenditure basis. A minority (Reich, Finanzordnung, 2012, p. 156) demands additional credit decisions.
 

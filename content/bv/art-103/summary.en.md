@@ -8,6 +8,6 @@ The **subsidiarity principle** is central: private and cantonal solutions must f
 
 **Example**: The Confederation supports a structurally weak mountain region in developing tourist infrastructure, after it has become clear that the region cannot stop emigration with its own resources and cantonal assistance.
 
-It is disputed in legal doctrine whether Art. 103 FC also contains a general economic development competence without subsidiarity reservation. Federal practice affirms this by reference to the legal situation under the old Federal Constitution, while Oesch/Mayoraz (BSK BV, Art. 103 N. 18) argue that the clear wording precludes such an interpretation.
+It is disputed in legal doctrine whether Art. 103 FC also contains a general economic development competence without subsidiarity reservation. Federal practice affirms this by reference to the legal situation under the old Federal Constitution, while Oesch/Mayoraz argue that the clear wording precludes such an interpretation.
 
 There is no legal entitlement to structural policy assistance. The Confederation decides at its due discretion. International obligations (WTO law, bilateral agreements) set limits to structural policy.

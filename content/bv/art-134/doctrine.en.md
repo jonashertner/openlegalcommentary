@@ -6,7 +6,7 @@
 
 **N. 1** Art. 134 BV consolidates the harmonisation provisions that were scattered across various norms under the old federal constitution (Art. 32bis para. 5, Art. 36ter, Art. 41bis para. 2 and Art. 41ter para. 2 old FC). According to the Federal Council's message of 20 November 1996 on the new federal constitution, the norm aims at a «formal updating» of the existing legal situation (BBl 1997 I 389). The constitution-maker intended no material change to the established tax order between the Confederation and the cantons.
 
-**N. 2** The provision is historically rooted in the gradual expansion of federal competences in the tax area. While the cantons originally had comprehensive tax sovereignty, the Confederation's financing needs led to the successive introduction of federal taxes. With each new federal tax law, the question of delimitation from cantonal levies arose in order to avoid excessive burden on taxpayers (Behnisch, BSK BV, Art. 134 N. 1).
+**N. 2** The provision is historically rooted in the gradual expansion of federal competences in the tax area. While the cantons originally had comprehensive tax sovereignty, the Confederation's financing needs led to the successive introduction of federal taxes. With each new federal tax law, the question of delimitation from cantonal levies arose in order to avoid excessive burden on taxpayers.
 
 ### 2. Systematic Classification
 
@@ -46,11 +46,11 @@
 ### 5. Controversies
 
 **N. 12** **Interpretation of same type**: Academic opinion is split in its assessment of Federal Court case law:
-- **Biaggini** (BSK BV, Art. 134 N. 6) criticises the practice as «canton-friendly» or «more treasury- than citizen-friendly», because the cumulation of taxes is merely replaced by coexistence.
-- **Behnisch** (BSK BV, Art. 134 N. 7, 20) rejects the case law that focuses on financial science categories rather than legal-technical criteria. He demands that the Federal Court should abandon its «far too restrictive stance».
+- **Biaggini** criticises the practice as «canton-friendly» or «more treasury- than citizen-friendly», because the cumulation of taxes is merely replaced by coexistence.
+- **Behnisch** rejects the case law that focuses on financial science categories rather than legal-technical criteria. He demands that the Federal Court should abandon its «far too restrictive stance».
 - **Vallender** (StR 1997, 1 ff.) defends the Federal Court's differentiating approach as appropriate.
 
-**N. 13** **Civil law vs. tax law approach**: There is a methodological dispute regarding the delimitation of stamp duties. The Federal Court has opted for a civil law approach and accepted a burden with both taxes (Behnisch, BSK BV, Art. 134 N. 29). Academic opinion is divided on this:
+**N. 13** **Civil law vs. tax law approach**: There is a methodological dispute regarding the delimitation of stamp duties. The Federal Court has opted for a civil law approach and accepted a burden with both taxes. Academic opinion is divided on this:
 - **Beusch** (Commentary StG, Art. 3 N. 15 ff.) supports civil law qualification
 - **Blumenstein/Locher** (System, p. 358) advocate for an economic approach
 

@@ -8,7 +8,7 @@ Alle Schweizer Männer sind grundsätzlich zivilschutzpflichtig. Frauen können 
 
 ## Was regelt die Norm?
 
-**Bundesgesetzgebung (Absatz 1):** Der Bund erlässt Gesetze zum Schutz vor bewaffneten Konflikten (Kriegsrecht). Die Kantone haben gemäss herrschender Lehre noch Restzuständigkeiten (Diggelmann/Altwicker, BSK BV, Art. 61 N. 7).
+**Bundesgesetzgebung (Absatz 1):** Der Bund erlässt Gesetze zum Schutz vor bewaffneten Konflikten (Kriegsrecht). Die Kantone haben gemäss herrschender Lehre noch Restzuständigkeiten.
 
 **Katastropheneinsätze (Absatz 2):** Der Bund regelt den Zivilschutz bei Naturkatastrophen, Unfällen und anderen Notlagen. Dies umfasst Überschwemmungen, Erdbeben oder Pandemien.
 

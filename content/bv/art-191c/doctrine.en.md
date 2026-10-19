@@ -41,9 +41,9 @@
 
 ### 5. Points of Controversy
 
-**N. 12** **Scope for special courts**: It is disputed to what extent part-time judges enjoy the same independence protection as full-time judges. Müller/Schefer (Grundrechte in der Schweiz, 4th ed. 2008, p. 895) represent a restrictive position, according to which certain restrictions would be permissible for part-time judges. In contrast, Kiener (in: BSK BV, 2nd ed. 2024, Art. 191c N. 8) emphasises that independence protection applies regardless of person for all judicial functions.
+**N. 12** **Scope for special courts**: It is disputed to what extent part-time judges enjoy the same independence protection as full-time judges. Müller/Schefer (Grundrechte in der Schweiz, 4th ed. 2008, p. 895) represent a restrictive position, according to which certain restrictions would be permissible for part-time judges. In contrast, Kiener emphasises that independence protection applies regardless of person for all judicial functions.
 
-**N. 13** **Relationship to Art. 30 para. 1 FC**: Doctrine is divided about the relationship between the institutional guarantee (Art. 191c FC) and the individual fundamental right (Art. 30 para. 1 FC). Steinmann (in: St. Galler Kommentar BV, 4th ed. 2023, Art. 191c N. 5) sees Art. 191c FC as lex specialis for the organisation of courts. Waldmann (BSK BV, Art. 30 N. 15) represents in contrast a complementary understanding of both norms.
+**N. 13** **Relationship to Art. 30 para. 1 FC**: Doctrine is divided about the relationship between the institutional guarantee (Art. 191c FC) and the individual fundamental right (Art. 30 para. 1 FC). Steinmann (in: St. Galler Kommentar BV, 4th ed. 2023, Art. 191c N. 5) sees Art. 191c FC as lex specialis for the organisation of courts. Waldmann represents in contrast a complementary understanding of both norms.
 
 **N. 14** **Judicial administration**: The distinction between judicial activity and judicial administration is controversially discussed. The Federal Supreme Court excluded its own judicial administration from the scope of protection in **BGE 151 I 93**. In legal literature, Biaggini (BV Kommentar, 2nd ed. 2017, Art. 191c N. 4) and Ehrenzeller (St. Galler Kommentar BV, Art. 191c N. 12) criticise this narrow interpretation as too restrictive.
 

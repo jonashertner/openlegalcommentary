@@ -20,7 +20,7 @@
 
 **N. 5** **«Necessary statistical data»** (para. 1): The concept of necessity gives the Confederation wide discretion. The public interest in the respective survey is decisive (Ehrenzeller/Mastronardi/Schweizer/Vallender, St. Galler Kommentar BV, 4th ed. 2023, Art. 65 N 4). Necessity must be interpreted in light of proportionality.
 
-**N. 6** The catalogue of survey areas («population, economy, society, education, research, territory and environment») is exemplary, not exhaustive. This follows from the wording «on the condition and development of», which allows for dynamic interpretation (BSK BV-Schweizer, 2nd ed. 2024, Art. 65 N 7).
+**N. 6** The catalogue of survey areas («population, economy, society, education, research, territory and environment») is exemplary, not exhaustive. This follows from the wording «on the condition and development of», which allows for dynamic interpretation.
 
 **N. 7** **«Harmonization and maintenance of official registers»** (para. 2): This competence is optional («may»). It aims to avoid multiple surveys and efficiently use existing data holdings. Harmonization primarily concerns technical standards and definitions, not the content of the registers themselves (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 1234a).
 
@@ -34,7 +34,7 @@
 
 ### 5. Disputes
 
-**N. 11** **Scope of federal competence**: It is disputed whether Art. 65 BV grants comprehensive or only federal task-related statistical competence. The prevailing doctrine advocates a broad interpretation, as reliable statistics are required for all levels of government (Ehrenzeller et al., St. Galler Kommentar BV, Art. 65 N 3; contra Schweizer, BSK BV, Art. 65 N 5, who favors limitation to federal tasks).
+**N. 11** **Scope of federal competence**: It is disputed whether Art. 65 BV grants comprehensive or only federal task-related statistical competence. The prevailing doctrine advocates a broad interpretation, as reliable statistics are required for all levels of government (Ehrenzeller et al., St. Galler Kommentar BV, Art. 65 N 3).
 
 **N. 12** **Relationship to data protection**: The tension between comprehensive statistical surveys and privacy protection is controversially discussed. Müller/Schefer (Grundrechte in der Schweiz, 4th ed. 2008, p. 234) emphasize the priority of data protection, while Rhinow/Schefer/Uebersax (N 3656) advocate for case-by-case balancing. The Federal Supreme Court specified data protection limitations in BGE 1C_425/2020.
 

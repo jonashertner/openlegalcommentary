@@ -20,7 +20,7 @@
 
 ### Eigenständige Steuerung (Abs. 1)
 
-**N. 7** Der Begriff «eigenständig» bedeutet nach Uebersax (BSK BV, Art. 121a N. 12) mehr als blosse Programmatik — es handelt sich um eine normative Aufgabennorm. Der Bundesrat vertrat hingegen die Auffassung, Abs. 1 habe vorab programmatischen Charakter. Die Eigenständigkeit schliesst völkerrechtliche Bindungen nicht aus, verlangt aber nationale Gestaltungsspielräume.
+**N. 7** Der Begriff «eigenständig» bedeutet nach Uebersax mehr als blosse Programmatik — es handelt sich um eine normative Aufgabennorm. Der Bundesrat vertrat hingegen die Auffassung, Abs. 1 habe vorab programmatischen Charakter. Die Eigenständigkeit schliesst völkerrechtliche Bindungen nicht aus, verlangt aber nationale Gestaltungsspielräume.
 
 **N. 8** Die «Steuerung» umfasst quantitative und qualitative Aspekte der Zuwanderung. Sie erfordert aktive Massnahmen des Gesetzgebers, nicht bloss passive Hinnahme migrationsbedingter Entwicklungen.
 
@@ -28,7 +28,7 @@
 
 **N. 9** «Jährliche Höchstzahlen» sind absolute Obergrenzen für die Gesamtzuwanderung. «Kontingente» bezeichnen Teilmengen für spezifische Kategorien (Branchen, Qualifikationen, Herkunftsländer). Die Begriffe sind nicht synonym zu verwenden.
 
-**N. 10** Der Einbezug der Grenzgänger ist umstritten. Während der Bundesrat Grenzgänger der zahlenmässigen Begrenzung unterstellen wollte, vertritt Uebersax (BSK BV, Art. 121a N. 25), bei Grenzgängern handle es sich nur bedingt um Zuwanderer, weshalb Begrenzungsmassnahmen nicht zwingend seien.
+**N. 10** Der Einbezug der Grenzgänger ist umstritten. Während der Bundesrat Grenzgänger der zahlenmässigen Begrenzung unterstellen wollte, vertritt Uebersax, bei Grenzgängern handle es sich nur bedingt um Zuwanderer, weshalb Begrenzungsmassnahmen nicht zwingend seien.
 
 ### Zulassungskriterien (Abs. 3)
 
@@ -40,11 +40,11 @@
 
 ### Verbot widersprechender Verträge (Abs. 4)
 
-**N. 14** Das Verbot neuer völkerrechtlicher Verträge gilt nach **BGE 142 II 35** unmittelbar. Die Frage der Erweiterung bestehender Verträge ist umstritten: Epiney (Jusletter v. 2.6.2014) vertritt, Erweiterungen seien zulässig, solange das Schicksal des Grundvertrages offenbleibe. Uebersax (BSK BV, Art. 121a N. 174) sieht die EU als Ganzes, weshalb bei Unvereinbarkeit des Grundvertrages auch Erweiterungen unzulässig seien.
+**N. 14** Das Verbot neuer völkerrechtlicher Verträge gilt nach **BGE 142 II 35** unmittelbar. Die Frage der Erweiterung bestehender Verträge ist umstritten: Epiney (Jusletter v. 2.6.2014) vertritt, Erweiterungen seien zulässig, solange das Schicksal des Grundvertrages offenbleibe. Uebersax sieht die EU als Ganzes, weshalb bei Unvereinbarkeit des Grundvertrages auch Erweiterungen unzulässig seien.
 
 ## 4. Rechtsfolgen
 
-**N. 15** Die direkte Anwendbarkeit von Art. 121a BV ist umstritten. Nach Epiney (Jusletter v. 2.6.2014) können die Absätze 1–3 unter bestimmten Umständen unmittelbar anwendbar sein. Das Bundesamt für Justiz und Uebersax (BSK BV, Art. 121a N. 25) vertreten hingegen, die Absätze 1–3 seien nicht unmittelbar anwendbar und bedürften der gesetzlichen Umsetzung. Das Bundesgericht folgte in **BGE 142 II 35** der zweiten Auffassung.
+**N. 15** Die direkte Anwendbarkeit von Art. 121a BV ist umstritten. Nach Epiney (Jusletter v. 2.6.2014) können die Absätze 1–3 unter bestimmten Umständen unmittelbar anwendbar sein. Das Bundesamt für Justiz und Uebersax vertreten hingegen, die Absätze 1–3 seien nicht unmittelbar anwendbar und bedürften der gesetzlichen Umsetzung. Das Bundesgericht folgte in **BGE 142 II 35** der zweiten Auffassung.
 
 **N. 16** Aus Art. 121a BV ergeben sich keine subjektiven Rechtsansprüche für Einzelpersonen. Weder Schweizer noch Niedergelassene können eine vorrangige Bewilligungserteilung direkt aus der Verfassungsnorm ableiten (Urteil C-2637/2015 des BVGer vom 6.6.2016).
 
@@ -56,7 +56,7 @@
 
 **N. 18** Der zentrale Streitpunkt betrifft die Vereinbarkeit mit dem FZA. Heselhaus/Hänni (SZIER 2013, 19) sehen einen unlösbaren Widerspruch. Kunz (ZaöRV 2014, 329) plädiert für pragmatische Lösungsansätze. Schlegel/Sieber-Gasser (Jusletter v. 17.3.2014) propagierten einen «dritten Weg» zwischen Personenfreizügigkeit und Abschottung.
 
-**N. 19** Zur Zulässigkeit von Schutzklauseln vertreten Epiney (BSK BV, Art. 121a N. 79–80) und Tobler (Jusletter v. 16.2.2015), diese seien mit Art. 121a BV vereinbar. Uebersax (BSK BV, Art. 121a N. 80) betont die verfassungsrechtlich gebotene legislative Flexibilität.
+**N. 19** Zur Zulässigkeit von Schutzklauseln vertreten Epiney und Tobler (Jusletter v. 16.2.2015), diese seien mit Art. 121a BV vereinbar. Uebersax betont die verfassungsrechtlich gebotene legislative Flexibilität.
 
 ### Tragweite des Umsetzungsauftrags
 

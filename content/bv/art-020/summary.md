@@ -18,7 +18,7 @@ Die Wissenschaftsfreiheit ist nicht grenzenlos. Bei Tierversuchen muss der Forsc
 
 ### Praktische Bedeutung
 
-In der Praxis entstehen Konflikte meist bei heiklen Forschungsgebieten. Bei Biosicherheitsforschung diskutiert die Lehre, ob Publikationen gefährlicher Erkenntnisse eingeschränkt werden dürfen (BSK BV-Hertig N. 18). Bei klinischen Studien müssen Patientenrechte gewahrt bleiben. Bei Forschungsförderung dürfen staatliche Stellen keine inhaltlichen Zensuren vornehmen.
+In der Praxis entstehen Konflikte meist bei heiklen Forschungsgebieten. Bei Biosicherheitsforschung diskutiert die Lehre, ob Publikationen gefährlicher Erkenntnisse eingeschränkt werden dürfen. Bei klinischen Studien müssen Patientenrechte gewahrt bleiben. Bei Forschungsförderung dürfen staatliche Stellen keine inhaltlichen Zensuren vornehmen.
 
 ### Weitere Informationen
 

@@ -20,7 +20,7 @@
 
 **N. 7** **«International treaties»**: The term encompasses all international treaties concluded by Switzerland, regardless of their designation (convention, agreement, accord etc.). This includes bilateral and multilateral treaties, including the ECHR and the bilateral treaties with the EU (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, 4th ed. 2023, Art. 141a N. 3).
 
-**N. 8** **«Implementation»**: Implementation refers to both the transformation of international law norms into domestic law and their application by authorities and courts. The term is to be understood broadly and encompasses all state measures for the fulfilment of obligations under international law (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 141a N. 5).
+**N. 8** **«Implementation»**: Implementation refers to both the transformation of international law norms into domestic law and their application by authorities and courts. The term is to be understood broadly and encompasses all state measures for the fulfilment of obligations under international law.
 
 **N. 9** **Implicit requirement**: Art. 141a of the Federal Constitution presupposes that a validly concluded international treaty that is binding on Switzerland exists. The provision does not regulate the conclusion or termination of treaties, but exclusively their implementation.
 
@@ -34,7 +34,7 @@
 
 ## V. Points of Contention
 
-**N. 13** **Scope of the implementation obligation**: Ehrenzeller/Schindler takes the position that Art. 141a of the Federal Constitution merely has a declaratory character and confirms existing practice (SGK BV, Art. 141a N. 8). In contrast, Waldmann sees in the provision a constitutional anchoring of the implementation obligation with constitutive character (BSK BV, Art. 141a N. 9).
+**N. 13** **Scope of the implementation obligation**: Ehrenzeller/Schindler takes the position that Art. 141a of the Federal Constitution merely has a declaratory character and confirms existing practice (SGK BV, Art. 141a N. 8). In contrast, Waldmann sees in the provision a constitutional anchoring of the implementation obligation with constitutive character.
 
 **N. 14** **Relationship to Art. 190 of the Federal Constitution**: The relationship between Art. 141a of the Federal Constitution and Art. 190 of the Federal Constitution is disputed. Rhinow/Schefer argue for a harmonising interpretation of both provisions (Schweizerisches Verfassungsrecht, § 14 N. 83). Biaggini, on the other hand, emphasises the independence of Art. 141a of the Federal Constitution as a specific implementation norm (BV-Kommentar, 2nd ed. 2017, Art. 141a N. 4).
 

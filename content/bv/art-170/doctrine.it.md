@@ -6,7 +6,7 @@
 
 **N. 1** L'art. 170 Cost. rappresenta un'innovazione del diritto costituzionale che non ha alcuna corrispondenza nella vecchia Costituzione federale del 1874. L'ancoraggio esplicito della verifica dell'efficacia è entrato tardivamente nel processo di revisione della nuova Costituzione federale. I progetti costituzionali del 1995/96 non contenevano ancora una disposizione corrispondente.
 
-**N. 2** La commissione di esperti di entrambe le CdG propose inizialmente la creazione di un organo indipendente per la valutazione delle misure statali. Nel loro rapporto aggiuntivo del 1997, le CdG collegarono invece la verifica dell'efficacia con la competenza di alta vigilanza dell'Assemblea federale. Nelle deliberazioni parlamentari questa concezione rimase immutata, mentre la verifica dell'efficacia fu separata come disposizione autonoma dall'attuale art. 169 Cost. (BSK-Lienhard/Mächler/Marti Locher, Art. 170 Cost., N. 1 ff.; SGK-Uhlmann/Bussmann, Art. 170 Cost., N. 1 ff.).
+**N. 2** La commissione di esperti di entrambe le CdG propose inizialmente la creazione di un organo indipendente per la valutazione delle misure statali. Nel loro rapporto aggiuntivo del 1997, le CdG collegarono invece la verifica dell'efficacia con la competenza di alta vigilanza dell'Assemblea federale. Nelle deliberazioni parlamentari questa concezione rimase immutata, mentre la verifica dell'efficacia fu separata come disposizione autonoma dall'attuale art. 169 Cost. (SGK-Uhlmann/Bussmann, Art. 170 Cost., N. 1 ff.).
 
 **N. 3** Secondo i materiali, la disposizione costituzionale mirava a gestire la crescente complessità dei compiti pubblici attraverso una verifica sistematica. Il relatore Schmid dichiarò nel dibattito del Consiglio nazionale: «La questione dell'efficacia, dell'efficienza e dell'economicità delle misure statali acquista sempre maggiore importanza sullo sfondo della crescente complessità dei compiti pubblici. Le misure adottate dalle autorità hanno effetto? Mostrano l'effetto voluto? Sono in un rapporto costi-benefici sensato?» (AB N SD 1998, 91).
 
@@ -36,7 +36,7 @@
 
 **N. 11** Oggetto delle verifiche dell'efficacia sono tutte le «misure della Confederazione», indipendentemente dalla forma giuridica. Sono comprese le misure di tutti e tre i poteri: legislativo, esecutivo e giudiziario. Il concetto comprende sia misure generali-astratte sia individuali-concrete.
 
-**N. 12** L'attuazione e l'esecuzione di misure federali da parte di Cantoni e privati rientrano ugualmente nel campo di applicazione, nella misura in cui possano essere qualificate come esecuzione del diritto federale (BSK-Lienhard/Mächler/Marti Locher, Art. 170 Cost., N. 17; SGK-Uhlmann/Bussmann, Art. 170 Cost., N. 18).
+**N. 12** L'attuazione e l'esecuzione di misure federali da parte di Cantoni e privati rientrano ugualmente nel campo di applicazione, nella misura in cui possano essere qualificate come esecuzione del diritto federale (SGK-Uhlmann/Bussmann, Art. 170 Cost., N. 18).
 
 **N. 13** Anche il non agire può essere oggetto di una verifica dell'efficacia. Omissioni contrarie al dovere possono essere altrettanto consequenziali quanto l'agire attivo (Biaggini, Art. 170 Cost., N. 4; SGK-Uhlmann/Bussmann, Art. 170 Cost., N. 18).
 

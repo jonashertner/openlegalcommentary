@@ -14,17 +14,17 @@
 - → Art. 143 Cst. (droit de vote)
 - → Art. 149 al. 2 Cst. (éligibilité au Conseil national)
 
-**N. 3** La norme est conçue comme une réglementation exhaustive des conditions du droit de vote au niveau fédéral. Le législateur ne peut ni ajouter de nouvelles conditions ni modifier les conditions mentionnées (Tschannen, BSK BV, Art. 136 N. 7).
+**N. 3** La norme est conçue comme une réglementation exhaustive des conditions du droit de vote au niveau fédéral. Le législateur ne peut ni ajouter de nouvelles conditions ni modifier les conditions mentionnées.
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
 **N. 4** **Nationalité** : Le droit de vote présuppose la nationalité suisse. Les doubles nationaux ont le droit de vote pour autant qu'ils remplissent les autres conditions. Le droit de vote des Suissesses et Suisses de l'étranger est garanti par l'art. 40 Cst.
 
-**N. 5** **Majorité** : Il faut avoir accompli sa 18e année. Le jour du 18e anniversaire est déterminant, non l'année civile. La discussion sur un nouvel abaissement de l'âge du droit de vote ou un droit de vote des enfants par représentants légaux a été rejetée par le constituant. Tschannen (BSK BV, Art. 136 N. 10) rejette le droit de vote des enfants car il « aboutit en fait à un double droit de vote du représentant légal et [...] ne contredit pas seulement l'égalité devant la loi, mais plus encore la fonction d'organe du droit de vote ».
+**N. 5** **Majorité**: Il faut avoir accompli sa 18e année. Le jour du 18e anniversaire est déterminant, non l'année civile. La discussion sur un nouvel abaissement de l'âge du droit de vote ou un droit de vote des enfants par représentants légaux a été rejetée par le constituant. Tschannen rejette le droit de vote des enfants car il « aboutit en fait à un double droit de vote du représentant légal et [...] ne contredit pas seulement l'égalité devant la loi, mais plus encore la fonction d'organe du droit de vote ».
 
 **N. 6** **Interdiction** : L'exclusion pour « maladie mentale ou faiblesse d'esprit » est dépassée depuis la révision du droit de la protection de l'adulte en 2013. L'art. 136 Cst. doit être interprété à la lumière de l'art. 14 CC : seule la curatelle de portée générale entraîne la perte des droits politiques. La terminologie désuète de la Constitution est regrettable, mais ne change rien à l'interprétation restrictive.
 
-**N. 7** **Égalité des droits politiques** : L'al. 1, 2e phrase garantit l'égalité des droits politiques. Celle-ci comprend l'égalité de la valeur numérique (chaque voix compte autant), mais non l'égalité de la valeur d'influence (chaque voix a la même influence sur le résultat). Tschannen (BSK BV, Art. 136 N. 13) critique le fait que « la phrase 2 de l'art. 136 al. 1 est en l'air et [...] aurait mieux valu ne pas être écrite », car l'égalité découle déjà de l'art. 8 Cst.
+**N. 7** **Égalité des droits politiques**: L'al. 1, 2e phrase garantit l'égalité des droits politiques. Celle-ci comprend l'égalité de la valeur numérique (chaque voix compte autant), mais non l'égalité de la valeur d'influence (chaque voix a la même influence sur le résultat). Tschannen critique le fait que « la phrase 2 de l'art. 136 al. 1 est en l'air et [...] aurait mieux valu ne pas être écrite », car l'égalité découle déjà de l'art. 8 Cst.
 
 ### 4. Conséquences juridiques
 

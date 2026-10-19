@@ -22,7 +22,7 @@
 
 **N. 7** **Deroga alla libertà economica (cpv. 3)**: L'autorizzazione si riferisce a tre settori economici: settore monetario e creditizio, economia esterna e finanze pubbliche. Il criterio della necessità («se necessario») sottolinea il carattere eccezionale di tali interventi. La dottrina dominante interpreta questa disposizione in modo restrittivo e richiede un pericolo immediato per la stabilità economica (Müller/Schefer, Grundrechte in der Schweiz, 4a ed. 2008, pag. 982).
 
-**N. 8** **Politica fiscale anticiclica (cpv. 4)**: La norma obbliga tutti i livelli statali a una gestione delle finanze conforme alla congiuntura. Nell'alta congiuntura i bilanci pubblici devono essere gestiti in modo restrittivo, nella recessione in modo espansivo. Questo obbligo si trova in rapporto di tensione con il freno all'indebitamento secondo l'→ art. 126 Cost. (Waldmann/Belser/Epiney, BSK BV, 2a ed. 2024, art. 100 N 15).
+**N. 8** **Politica fiscale anticiclica (cpv. 4)**: La norma obbliga tutti i livelli statali a una gestione delle finanze conforme alla congiuntura. Nell'alta congiuntura i bilanci pubblici devono essere gestiti in modo restrittivo, nella recessione in modo espansivo. Questo obbligo si trova in rapporto di tensione con il freno all'indebitamento secondo l'→ art. 126 Cost..
 
 **N. 9** **Soprattasse e sconti congiunturali (cpv. 5)**: Questa disposizione permette variazioni temporanee del carico fiscale a scopi di stabilizzazione. L'obbligo di sterilizzazione dei mezzi prelevati deve impedire il loro uso prociclico. Il trattamento diverso delle imposte dirette e indirette nella restituzione riflette considerazioni pratiche amministrative.
 

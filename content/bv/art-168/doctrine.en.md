@@ -26,7 +26,7 @@
 
 ### 3.2 Paragraph 2: Optional election competences
 
-**N. 7** The delegation norm in para. 2 enables the legislator to transfer additional elections to the Federal Assembly or to have elections confirmed by the Federal Assembly. The word «authorise» makes clear that this is a discretionary provision – the legislator is not obliged to create additional election competences (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 168 N. 8).
+**N. 7** The delegation norm in para. 2 enables the legislator to transfer additional elections to the Federal Assembly or to have elections confirmed by the Federal Assembly. The word «authorise» makes clear that this is a discretionary provision – the legislator is not obliged to create additional election competences.
 
 **N. 8** Based on this authorization, the legislator has transferred the following additional election competences to the Federal Assembly:
 - Election of the Attorney General and deputy attorneys general (Art. 20 para. 2 CCP)

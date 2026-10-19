@@ -8,4 +8,4 @@ Le attribuzioni più significative riguardano la sicurezza esterna e interna. L'
 
 Altre importanti attribuzioni sono l'esame della validità delle iniziative popolari e la decisione nei conflitti tra autorità federali. Così il Tribunale federale ha chiarito in **BGE 129 II 193** che il Consiglio federale quale governo possiede competenze autonome. L'Assemblea federale può anche pronunciare grazie e decidere su amnistie, benché tali atti siano politicamente controversi.
 
-Quale regola residuale, l'Assemblea federale tratta tutti gli affari della Confederazione che non sono attribuiti ad altra autorità (cpv. 2). Ciò impedisce lacune di competenza nel diritto dell'organizzazione dello Stato (Waldmann, BSK BV, 2. Aufl. 2024, Art. 173 N. 20).
+Quale regola residuale, l'Assemblea federale tratta tutti gli affari della Confederazione che non sono attribuiti ad altra autorità (cpv. 2). Ciò impedisce lacune di competenza nel diritto dell'organizzazione dello Stato.

@@ -26,7 +26,7 @@
 
 ### 3.2 Absatz 2: Fakultative Wahlkompetenzen
 
-**N. 7** Die Delegationsnorm in Abs. 2 ermöglicht es dem Gesetzgeber, der Bundesversammlung weitere Wahlen zu übertragen oder Wahlen durch die Bundesversammlung bestätigen zu lassen. Das Wort «ermächtigen» macht deutlich, dass es sich um eine Kann-Vorschrift handelt – der Gesetzgeber ist nicht verpflichtet, weitere Wahlkompetenzen zu schaffen (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 168 N. 8).
+**N. 7** Die Delegationsnorm in Abs. 2 ermöglicht es dem Gesetzgeber, der Bundesversammlung weitere Wahlen zu übertragen oder Wahlen durch die Bundesversammlung bestätigen zu lassen. Das Wort «ermächtigen» macht deutlich, dass es sich um eine Kann-Vorschrift handelt – der Gesetzgeber ist nicht verpflichtet, weitere Wahlkompetenzen zu schaffen.
 
 **N. 8** Gestützt auf diese Ermächtigung hat der Gesetzgeber der Bundesversammlung folgende zusätzliche Wahlkompetenzen übertragen:
 - Wahl des Bundesanwalts und der stellvertretenden Bundesanwälte (Art. 20 Abs. 2 StPO)

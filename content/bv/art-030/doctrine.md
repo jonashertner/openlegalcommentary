@@ -28,7 +28,7 @@
 
 #### b) Unabhängigkeit und Unparteilichkeit (Abs. 1)
 
-**N. 7** Die Unabhängigkeit hat eine institutionelle und eine individuelle Dimension. Institutionell verlangt sie die organisatorische Trennung von anderen Staatsgewalten, angemessene Amtsdauer, Schutz vor Abberufung und ausreichende finanzielle Ausstattung (**BGE 140 I 271** E. 8). **Steinmann** (BSK BV, Art. 30 N. 21) hebt hervor, dass auch faktische Abhängigkeiten wie Wiederwahlverfahren problematisch sein können.
+**N. 7** Die Unabhängigkeit hat eine institutionelle und eine individuelle Dimension. Institutionell verlangt sie die organisatorische Trennung von anderen Staatsgewalten, angemessene Amtsdauer, Schutz vor Abberufung und ausreichende finanzielle Ausstattung (**BGE 140 I 271** E. 8). **Steinmann** hebt hervor, dass auch faktische Abhängigkeiten wie Wiederwahlverfahren problematisch sein können.
 
 **N. 8** Unparteilichkeit betrifft die innere Haltung des Richters. Das Bundesgericht unterscheidet zwischen subjektiver Befangenheit (tatsächliche Voreingenommenheit) und objektiver Befangenheit (Anschein der Voreingenommenheit). Letztere genügt für die Bejahung eines Ausstandsgrunds (**BGE 131 I 113** E. 3.4).
 
@@ -46,7 +46,7 @@
 
 ### 4. Rechtsfolgen
 
-**N. 12** Verstösse gegen Art. 30 Abs. 1 BV führen zur Nichtigkeit des Urteils. Bei Befangenheit eines Richters ist das gesamte Verfahren ab seiner Mitwirkung zu wiederholen (**BGE 139 III 120** E. 3). **Seiler** (BSK BV, Art. 30 N. 34) vertritt, dass auch bei strukturellen Unabhängigkeitsmängeln keine Heilung möglich ist.
+**N. 12** Verstösse gegen Art. 30 Abs. 1 BV führen zur Nichtigkeit des Urteils. Bei Befangenheit eines Richters ist das gesamte Verfahren ab seiner Mitwirkung zu wiederholen (**BGE 139 III 120** E. 3). **Seiler** vertritt, dass auch bei strukturellen Unabhängigkeitsmängeln keine Heilung möglich ist.
 
 **N. 13** Die Verletzung des Wohnsitzgerichtsstands kann geheilt werden, wenn sich die beklagte Partei rügelos einlässt. Die Verletzung der Justizöffentlichkeit führt nur bei schwerwiegenden Fällen zur Aufhebung, wobei **Rhinow/Schefer/Uebersax** (Verfassungsrecht, N. 2894) eine Interessenabwägung fordern.
 
@@ -56,7 +56,7 @@
 
 **N. 15** **Richterliche Unabhängigkeit bei Wiederwahl**: **Kiener/Kälin/Wyttenbach** (Grundrechte, § 41 N. 12) sehen in periodischen Wiederwahlen eine strukturelle Gefährdung der Unabhängigkeit. **Mastronardi** (St. Galler Kommentar BV, Vorbem. zu Art. 188-191c N. 28) hält dem entgegen, dass demokratische Legitimation auch Wiederwahlen erfordere. **Lienhard/Kettiger** (Justiz zwischen Management und Rechtsstaat, 178) fordern längere Amtsperioden als Kompromiss.
 
-**N. 16** **Umfang der Justizöffentlichkeit**: Kontrovers ist die Reichweite der Öffentlichkeit. **Oberholzer** (Grundzüge des Strafprozessrechts, N. 156) plädiert für umfassende Medienöffentlichkeit. **Vest/Höhener** (BSK StPO, Art. 69 N. 8) mahnen zum Schutz der Verfahrensbeteiligten. Das Bundesgericht gewichtet die Transparenz höher (**BGE 143 I 194**).
+**N. 16** **Umfang der Justizöffentlichkeit**: Kontrovers ist die Reichweite der Öffentlichkeit. **Oberholzer** (Grundzüge des Strafprozessrechts, N. 156) plädiert für umfassende Medienöffentlichkeit. **Vest/Höhener** mahnen zum Schutz der Verfahrensbeteiligten. Das Bundesgericht gewichtet die Transparenz höher (**BGE 143 I 194**).
 
 ### 6. Praxishinweise
 

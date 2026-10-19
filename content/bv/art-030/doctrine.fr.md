@@ -28,7 +28,7 @@
 
 #### b) Indépendance et impartialité (al. 1)
 
-**N. 7** L'indépendance a une dimension institutionnelle et une dimension individuelle. Institutionnellement, elle exige la séparation organisationnelle d'avec les autres pouvoirs de l'État, une durée de fonction appropriée, une protection contre la révocation et un financement suffisant (**ATF 140 I 271** c. 8). **Steinmann** (BSK BV, Art. 30 N. 21) souligne que même les dépendances factuelles comme les procédures de réélection peuvent être problématiques.
+**N. 7** L'indépendance a une dimension institutionnelle et une dimension individuelle. Institutionnellement, elle exige la séparation organisationnelle d'avec les autres pouvoirs de l'État, une durée de fonction appropriée, une protection contre la révocation et un financement suffisant (**ATF 140 I 271** c. 8). **Steinmann** souligne que même les dépendances factuelles comme les procédures de réélection peuvent être problématiques.
 
 **N. 8** L'impartialité concerne l'attitude intérieure du juge. Le Tribunal fédéral distingue entre la prévention subjective (prévention effective) et la prévention objective (apparence de prévention). Cette dernière suffit pour affirmer un motif de récusation (**ATF 131 I 113** c. 3.4).
 
@@ -46,7 +46,7 @@
 
 ### 4. Conséquences juridiques
 
-**N. 12** Les violations de l'art. 30 al. 1 Cst. entraînent la nullité du jugement. En cas de prévention d'un juge, toute la procédure doit être répétée à partir de sa participation (**ATF 139 III 120** c. 3). **Seiler** (BSK BV, Art. 30 N. 34) défend qu'aucune guérison n'est possible même en cas de défauts structurels d'indépendance.
+**N. 12** Les violations de l'art. 30 al. 1 Cst. entraînent la nullité du jugement. En cas de prévention d'un juge, toute la procédure doit être répétée à partir de sa participation (**ATF 139 III 120** c. 3). **Seiler** défend qu'aucune guérison n'est possible même en cas de défauts structurels d'indépendance.
 
 **N. 13** La violation du for du domicile peut être guérie si la partie défenderesse se constitue sans soulever d'exception. La violation de la publicité de la justice n'entraîne l'annulation que dans les cas graves, **Rhinow/Schefer/Uebersax** (Verfassungsrecht, N. 2894) exigeant une pesée des intérêts.
 
@@ -56,7 +56,7 @@
 
 **N. 15** **Indépendance judiciaire et réélection** : **Kiener/Kälin/Wyttenbach** (Grundrechte, § 41 N. 12) voient dans les réélections périodiques un danger structurel pour l'indépendance. **Mastronardi** (St. Galler Kommentar BV, Vorbem. zu Art. 188-191c N. 28) objecte que la légitimation démocratique exige aussi des réélections. **Lienhard/Kettiger** (Justiz zwischen Management und Rechtsstaat, 178) demandent des mandats plus longs comme compromis.
 
-**N. 16** **Étendue de la publicité de la justice** : La portée de la publicité est controversée. **Oberholzer** (Grundzüge des Strafprozessrechts, N. 156) plaide pour une publicité médiatique complète. **Vest/Höhener** (BSK StPO, Art. 69 N. 8) mettent en garde pour la protection des participants à la procédure. Le Tribunal fédéral privilégie la transparence (**ATF 143 I 194**).
+**N. 16** **Étendue de la publicité de la justice**: La portée de la publicité est controversée. **Oberholzer** (Grundzüge des Strafprozessrechts, N. 156) plaide pour une publicité médiatique complète. **Vest/Höhener** mettent en garde pour la protection des participants à la procédure. Le Tribunal fédéral privilégie la transparence (**ATF 143 I 194**).
 
 ### 6. Conseils pratiques
 

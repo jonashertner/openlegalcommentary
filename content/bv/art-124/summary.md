@@ -10,7 +10,7 @@ Die Verfassungsbestimmung wird durch das Opferhilfegesetz (OHG) konkretisiert. N
 
 Opfer sind Personen, die durch eine Straftat direkt geschädigt wurden (Primäropfer). Dazu gehören auch nahe Angehörige wie Familienangehörige, die durch die Straftat selbst psychisch beeinträchtigt wurden (Sekundäropfer). Nach Art. 1 Abs. 2 OHG können auch diese Anspruch auf Hilfe haben.
 
-Die Hilfe greift gemäss Göksu (BSK BV, Art. 124 N. 7) erst nach einer tatsächlich begangenen Straftat, nicht bereits bei deren Androhung. Juristische Personen sind vom Schutz ausgeschlossen.
+Die Hilfe greift gemäss Göksu erst nach einer tatsächlich begangenen Straftat, nicht bereits bei deren Androhung. Juristische Personen sind vom Schutz ausgeschlossen.
 
 ## Welche Rechtsfolgen entstehen?
 

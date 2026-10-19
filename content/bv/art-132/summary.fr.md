@@ -8,6 +8,6 @@ L'art. 132 Cst. habilite la Confédération à percevoir deux impôts importants
 
 La part cantonale est particulière : 10% du produit de l'impôt anticipé revient automatiquement aux cantons. Cette composante fédéraliste renforce les finances cantonales.
 
-Les deux types d'impôts font l'objet de discussions politiques. Ainsi, le Parlement débat depuis des années de la suppression du droit d'émission pour renforcer la place financière. Le Conseil national a approuvé en 2013, mais le Conseil des États a suspendu le projet (Simonek, BSK BV, Art. 132 N. 15).
+Les deux types d'impôts font l'objet de discussions politiques. Ainsi, le Parlement débat depuis des années de la suppression du droit d'émission pour renforcer la place financière. Le Conseil national a approuvé en 2013, mais le Conseil des États a suspendu le projet.
 
 Les compétences sont exclusives : les cantons ne peuvent pas percevoir leurs propres droits de timbre ou impôts anticipés. La Confédération n'est toutefois pas obligée de percevoir ces impôts - la Constitution ne lui en donne que le droit.

@@ -44,7 +44,7 @@ Les deux conditions doivent être remplies. Un échec à une seule exigence cond
 
 **N. 12** **Recomptage en cas de résultat serré** : Un point de controverse central concerne les conditions d'un recomptage :
 - Le Tribunal fédéral soutient depuis **ATF 136 II 132** que un résultat très serré doit être traité comme une « irrégularité » au sens de l'art. 77 al. 1 let. b LDIP et fonde un droit au recomptage
-- Epiney/Diezig (BSK BV, art. 142 N. 5) doutent que la formulation restrictive des conditions à l'art. 34 al. 3 LDIP (vraisemblabilisation d'irrégularités) soit compatible avec l'art. 34 al. 2 Cst.
+- Epiney/Diezig doutent que la formulation restrictive des conditions à l'art. 34 al. 3 LDIP (vraisemblabilisation d'irrégularités) soit compatible avec l'art. 34 al. 2 Cst.
 - Dans **ATF 141 II 297**, le Tribunal fédéral a précisé qu'un recomptage ne doit avoir lieu qu'en cas d'indices concrets d'erreurs
 
 **N. 13** **Critique de théorie démocratique sur la majorité des cantons** : Le poids électoral différent des citoyennes et citoyens de différents cantons fait l'objet d'discussions controversées :

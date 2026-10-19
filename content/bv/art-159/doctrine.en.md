@@ -41,7 +41,7 @@
 
 **N. 11** The **declaration of urgency for federal acts** (lit. a) enables immediate entry into force before the expiry of the referendum period. The Federal Supreme Court has held that the urgency clause is to be interpreted restrictively, as it restricts the referendum rights of the electorate (**BGE 147 I 420** E. 4.2). The material requirements for urgency are regulated in → Art. 165 BV.
 
-**N. 12** The **financial thresholds** (lit. b) amount to 20 million francs for one-time and 2 million francs for recurring expenditure. "New" expenditure means that which is not already provided for in an act or a generally binding federal decree. The decisive factor is the total sum of a credit, not individual tranches (Sägesser, BSK BV, Art. 159 N. 18).
+**N. 12** The **financial thresholds** (lit. b) amount to 20 million francs for one-time and 2 million francs for recurring expenditure. "New" expenditure means that which is not already provided for in an act or a generally binding federal decree. The decisive factor is the total sum of a credit, not individual tranches.
 
 **N. 13** The **increase in total expenditure in case of extraordinary financial requirements** (lit. c) refers to → Art. 126 para. 3 BV (debt brake). This provision allows exceeding the expenditure ceiling in extraordinary situations (severe recession, natural disasters).
 
@@ -61,7 +61,7 @@
 
 **N. 18** It is disputed whether quorum is to be assessed according to the same criteria for electronic or hybrid sessions. **Ehrenzeller** (St. Galler Kommentar, Art. 159 N. 5) takes the position that "presence" presupposes physical presence. **Graf** (Die Organisation der Bundesversammlung, p. 234) advocates for a functional interpretation that also encompasses virtual participation, provided that the identity of participants is unquestionably established and equivalent participation is guaranteed.
 
-**N. 19** The scope of inflation adjustment according to para. 4 is also discussed controversially. **Sägesser** (BSK BV, Art. 159 N. 22) interprets the competence narrowly and allows only adjustment to the national consumer price index. **Vallender** (St. Galler Kommentar, Art. 159 N. 12) considers a certain flexibility permissible, such as the use of specific sub-indices.
+**N. 19** The scope of inflation adjustment according to para. 4 is also discussed controversially. **Sägesser** interprets the competence narrowly and allows only adjustment to the national consumer price index. **Vallender** (St. Galler Kommentar, Art. 159 N. 12) considers a certain flexibility permissible, such as the use of specific sub-indices.
 
 ### 6. Practical Notes
 

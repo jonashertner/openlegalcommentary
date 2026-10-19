@@ -32,7 +32,7 @@
 
 **N. 9** Die Garantie der kantonalen Souveränität umfasst die Organisationsautonomie, die Rechtsetzungsautonomie und die Vollzugsautonomie der Kantone. Innerhalb ihrer Zuständigkeitssphären dürfen die Kantone auch unterschiedliche Ziele verfolgen als der Bund; ein blosser Zielkonflikt zwischen kantonalem und Bundesrecht bewirkt keine Bundesrechtswidrigkeit des kantonalen Rechts (**BGE 122 I 70 E. 2a**). Zur Polizeihoheit als Kerngehalt kantonaler Souveränität: → Art. 3 BV i.V.m. Art. 36 BV.
 
-**N. 10** Die Souveränitätsklausel hat insofern rechtspraktische Bedeutung, als sie die Beweislast bei Kompetenzkonflikten verteilt: Im Streitfall hat der Bund seine behauptete Zuständigkeit aus der Bundesverfassung nachzuweisen. Gelingt dieser Nachweis nicht, verbleibt die Regelungszuständigkeit kraft subsidiärer Generalkompetenz bei den Kantonen (Rohner/Vokinger, Art. 3 BV N. 26, Onlinekommentar, 2024; Biaggini, BSK BV, Art. 3 N. 16).
+**N. 10** Die Souveränitätsklausel hat insofern rechtspraktische Bedeutung, als sie die Beweislast bei Kompetenzkonflikten verteilt: Im Streitfall hat der Bund seine behauptete Zuständigkeit aus der Bundesverfassung nachzuweisen. Gelingt dieser Nachweis nicht, verbleibt die Regelungszuständigkeit kraft subsidiärer Generalkompetenz bei den Kantonen (Rohner/Vokinger, Art. 3 BV N. 26, Onlinekommentar, 2024).
 
 #### B. Kompetenzverteilungsklausel (2. Teilsatz)
 
@@ -40,7 +40,7 @@
 
 **N. 12** Kompetenzzuweisungen der Bundesverfassung an die Kantone (z.B. Art. 62 Abs. 1 BV) sind rein deklaratorischer Natur, da die Kantone diese Befugnisse bereits kraft ihrer subsidiären Generalkompetenz innehaben. «Neue» Regelungsmaterien, die die BV dem Bund nicht zuweist, fallen ohne Weiteres in die kantonale Zuständigkeit (Urteil 2C_1076/2012 vom 27.3.2014, E. 7.1).
 
-**N. 13** Die dem Bund zugewiesenen Kompetenzen lassen sich nach zwei Dimensionen systematisieren: nach ihrem **sachlichen Umfang** (umfassende Kompetenzen, fragmentarische Kompetenzen, Grundsatz-/Rahmenkompetenzen) und nach ihrer **Wirkung auf die kantonale Souveränität** (konkurrierende Kompetenzen mit nachträglicher Derogationswirkung, ausschliessliche Kompetenzen mit ursprünglicher Derogationswirkung, parallele Kompetenzen ohne Derogationswirkung). Die umfassende und konkurrierende Bundeskompetenz ist der Regelfall (Biaggini, BSK BV, Art. 3 N. 51). Ausschliessliche Kompetenzen — deren Begründung das kantonale Recht unmittelbar verdrängt — sind selten (Beispiele: Art. 54 BV [auswärtige Angelegenheiten], Art. 99 BV [Münz- und Währungswesen]).
+**N. 13** Die dem Bund zugewiesenen Kompetenzen lassen sich nach zwei Dimensionen systematisieren: nach ihrem **sachlichen Umfang** (umfassende Kompetenzen, fragmentarische Kompetenzen, Grundsatz-/Rahmenkompetenzen) und nach ihrer **Wirkung auf die kantonale Souveränität** (konkurrierende Kompetenzen mit nachträglicher Derogationswirkung, ausschliessliche Kompetenzen mit ursprünglicher Derogationswirkung, parallele Kompetenzen ohne Derogationswirkung). Die umfassende und konkurrierende Bundeskompetenz ist der Regelfall. Ausschliessliche Kompetenzen — deren Begründung das kantonale Recht unmittelbar verdrängt — sind selten (Beispiele: Art. 54 BV [auswärtige Angelegenheiten], Art. 99 BV [Münz- und Währungswesen]).
 
 **N. 14** Solange und soweit der Bundesgesetzgeber eine konkurrierende Kompetenz nicht ausgeschöpft hat, bleiben die Kantone zuständig, ohne dass es einer Delegation durch das Bundesrecht bedürfte. Das Bundesgericht hält in **BGE 122 I 70 E. 2a** fest:
 

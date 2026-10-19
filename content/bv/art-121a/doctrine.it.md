@@ -20,7 +20,7 @@
 
 ### Controllo autonomo (cpv. 1)
 
-**N. 7** Il termine «autonomo» significa secondo Uebersax (BSK BV, art. 121a n. 12) più di una mera programmatica — si tratta di una norma di compito normativa. Il Consiglio federale sosteneva invece che il cpv. 1 avesse principalmente carattere programmatico. L'autonomia non esclude vincoli di diritto internazionale, ma richiede margini di manovra nazionali.
+**N. 7** Il termine «autonomo» significa secondo Uebersax più di una mera programmatica — si tratta di una norma di compito normativa. Il Consiglio federale sosteneva invece che il cpv. 1 avesse principalmente carattere programmatico. L'autonomia non esclude vincoli di diritto internazionale, ma richiede margini di manovra nazionali.
 
 **N. 8** Il «controllo» comprende aspetti quantitativi e qualitativi dell'immigrazione. Richiede misure attive del legislatore, non mera accettazione passiva di sviluppi legati alla migrazione.
 
@@ -28,7 +28,7 @@
 
 **N. 9** Le «cifre massime annue» sono limiti massimi assoluti per l'immigrazione complessiva. I «contingenti» designano quote parziali per categorie specifiche (settori, qualificazioni, paesi d'origine). I termini non devono essere usati come sinonimi.
 
-**N. 10** L'inclusione dei frontalieri è controversa. Mentre il Consiglio federale voleva sottoporre i frontalieri alla limitazione numerica, Uebersax (BSK BV, art. 121a n. 25) sostiene che i frontalieri sono solo condizionatamente immigrati, per cui misure di limitazione non sarebbero obbligatorie.
+**N. 10** L'inclusione dei frontalieri è controversa. Mentre il Consiglio federale voleva sottoporre i frontalieri alla limitazione numerica, Uebersax sostiene che i frontalieri sono solo condizionatamente immigrati, per cui misure di limitazione non sarebbero obbligatorie.
 
 ### Criteri di ammissione (cpv. 3)
 
@@ -40,11 +40,11 @@
 
 ### Divieto di trattati contraddittori (cpv. 4)
 
-**N. 14** Il divieto di nuovi trattati di diritto internazionale vale secondo la **DTF 142 II 35** direttamente. La questione dell'estensione di trattati esistenti è controversa: Epiney (Jusletter del 2.6.2014) sostiene che le estensioni sarebbero ammissibili finché rimane aperto il destino del trattato di base. Uebersax (BSK BV, art. 121a n. 174) vede l'UE nel suo insieme, per cui in caso di incompatibilità del trattato di base anche le estensioni sarebbero inammissibili.
+**N. 14** Il divieto di nuovi trattati di diritto internazionale vale secondo la **DTF 142 II 35** direttamente. La questione dell'estensione di trattati esistenti è controversa: Epiney (Jusletter del 2.6.2014) sostiene che le estensioni sarebbero ammissibili finché rimane aperto il destino del trattato di base. Uebersax vede l'UE nel suo insieme, per cui in caso di incompatibilità del trattato di base anche le estensioni sarebbero inammissibili.
 
 ## 4. Conseguenze giuridiche
 
-**N. 15** L'applicabilità diretta dell'art. 121a Cost. è controversa. Secondo Epiney (Jusletter del 2.6.2014) i capoversi 1–3 possono essere direttamente applicabili in certe circostanze. L'Ufficio federale di giustizia e Uebersax (BSK BV, art. 121a n. 25) sostengono invece che i capoversi 1–3 non sono direttamente applicabili e necessitano di attuazione legislativa. Il Tribunale federale ha seguito nella **DTF 142 II 35** la seconda opinione.
+**N. 15** L'applicabilità diretta dell'art. 121a Cost. è controversa. Secondo Epiney (Jusletter del 2.6.2014) i capoversi 1–3 possono essere direttamente applicabili in certe circostanze. L'Ufficio federale di giustizia e Uebersax sostengono invece che i capoversi 1–3 non sono direttamente applicabili e necessitano di attuazione legislativa. Il Tribunale federale ha seguito nella **DTF 142 II 35** la seconda opinione.
 
 **N. 16** Dall'art. 121a Cost. non derivano diritti soggettivi per le persone singole. Né gli Svizzeri né i domiciliati possono derivare direttamente dalla norma costituzionale un rilascio prioritario di autorizzazioni (sentenza C-2637/2015 del TAF del 6.6.2016).
 
@@ -56,7 +56,7 @@
 
 **N. 18** Il punto controverso centrale riguarda la compatibilità con l'ALC. Heselhaus/Hänni (SZIER 2013, 19) vedono una contraddizione insolubile. Kunz (ZaöRV 2014, 329) plaide per approcci pragmatici di soluzione. Schlegel/Sieber-Gasser (Jusletter del 17.3.2014) propagavano una «terza via» tra libera circolazione delle persone e isolamento.
 
-**N. 19** Sull'ammissibilità delle clausole di salvaguardia sostengono Epiney (BSK BV, art. 121a n. 79–80) e Tobler (Jusletter del 16.2.2015) che queste sarebbero compatibili con l'art. 121a Cost. Uebersax (BSK BV, art. 121a n. 80) sottolinea la flessibilità legislativa costituzionalmente necessaria.
+**N. 19** Sull'ammissibilità delle clausole di salvaguardia sostengono Epiney e Tobler (Jusletter del 16.2.2015) che queste sarebbero compatibili con l'art. 121a Cost. Uebersax sottolinea la flessibilità legislativa costituzionalmente necessaria.
 
 ### Portata del mandato di attuazione
 

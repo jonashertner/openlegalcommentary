@@ -2,9 +2,9 @@
 
 ### 1. Storia della genesi
 
-**N. 1** L'art. 151 Cost. prosegue la tradizione delle sessioni parlamentari vigente secondo l'art. 75 Cost. 1848 e l'art. 86 Cost. 1874. Il Messaggio per una nuova Costituzione federale del 20 novembre 1996 (FF 1997 I 1) sottolinea che la disciplina è stata volutamente configurata in modo flessibile, per lasciare al legislatore margine di manovra nella configurazione concreta. La revisione costituzionale ha rinunciato a disposizioni dettagliate su numero e durata delle sessioni, per poter soddisfare le future esigenze parlamentari (Thurnherr, BSK BV, Art. 151 N. 1).
+**N. 1** L'art. 151 Cost. prosegue la tradizione delle sessioni parlamentari vigente secondo l'art. 75 Cost. 1848 e l'art. 86 Cost. 1874. Il Messaggio per una nuova Costituzione federale del 20 novembre 1996 (FF 1997 I 1) sottolinea che la disciplina è stata volutamente configurata in modo flessibile, per lasciare al legislatore margine di manovra nella configurazione concreta. La revisione costituzionale ha rinunciato a disposizioni dettagliate su numero e durata delle sessioni, per poter soddisfare le future esigenze parlamentari.
 
-**N. 2** Il diritto di convocazione per sessioni straordinarie (cpv. 2) è stato modernizzato rispetto all'antico diritto costituzionale. Mentre l'art. 23 cpv. 8 Cost. 1874 prevedeva ancora un diritto di convocazione per cinque Cantoni, Aubert definisce questa disciplina come «disposizione simmetrica mancata» (Thurnherr, BSK BV, Art. 151 N. 13). La nuova Costituzione limita il diritto di convocazione a un quarto dei membri delle Camere o al Consiglio federale, il che corrisponde meglio alla realtà parlamentare.
+**N. 2** Il diritto di convocazione per sessioni straordinarie (cpv. 2) è stato modernizzato rispetto all'antico diritto costituzionale. Mentre l'art. 23 cpv. 8 Cost. 1874 prevedeva ancora un diritto di convocazione per cinque Cantoni, Aubert definisce questa disciplina come «disposizione simmetrica mancata». La nuova Costituzione limita il diritto di convocazione a un quarto dei membri delle Camere o al Consiglio federale, il che corrisponde meglio alla realtà parlamentare.
 
 ### 2. Classificazione sistematica
 
@@ -14,7 +14,7 @@
 - → Art. 163 cpv. 2 Cost. (quorum per la capacità di deliberare)
 - → Art. 185 cpv. 4 Cost. (rapporti del Consiglio federale)
 
-**N. 4** Il sistema bicamerale richiede secondo Biaggini «l'equivalenza materiale di entrambe le Camere, non l'identità formale della procedura di entrambe le Camere» (Thurnherr, BSK BV, Art. 151 N. 3). L'art. 151 Cost. concretizza questo principio, in quanto entrambe le Camere si riuniscono nelle stesse sessioni, ma deliberano separatamente.
+**N. 4** Il sistema bicamerale richiede secondo Biaggini «l'equivalenza materiale di entrambe le Camere, non l'identità formale della procedura di entrambe le Camere». L'art. 151 Cost. concretizza questo principio, in quanto entrambe le Camere si riuniscono nelle stesse sessioni, ma deliberano separatamente.
 
 ### 3. Elementi di fattispecie / Contenuto normativo
 
@@ -26,7 +26,7 @@
 - Un quarto dei membri di una Camera (50 di 200 consiglieri nazionali o 12 di 46 consiglieri agli Stati)
 - Il Consiglio federale come collegio
 
-La richiesta deve riferirsi alla convocazione delle «Camere» (plurale). Una sessione straordinaria di una sola Camera non è prevista dal diritto costituzionale (Thurnherr, BSK BV, Art. 151 N. 11-12).
+La richiesta deve riferirsi alla convocazione delle «Camere» (plurale). Una sessione straordinaria di una sola Camera non è prevista dal diritto costituzionale.
 
 ### 4. Conseguenze giuridiche
 
@@ -36,7 +36,7 @@ La richiesta deve riferirsi alla convocazione delle «Camere» (plurale). Una se
 
 ### 5. Questioni controverse
 
-**N. 10** **Luogo di riunione**: Mentre la Costituzione non nomina alcun luogo di riunione, l'art. 33d cpv. 1 lett. b RAN prevede che gli uffici possano determinare «in situazioni particolari» un altro luogo di adunanza diverso da Berna. La dottrina concorda sul fatto che l'Assemblea federale non deve necessariamente riunirsi a Berna, benché considerazioni pratiche parlino a favore della sede parlamentare nella città federale (Thurnherr, BSK BV, Art. 151 N. 9-10).
+**N. 10** **Luogo di riunione**: Mentre la Costituzione non nomina alcun luogo di riunione, l'art. 33d cpv. 1 lett. b RAN prevede che gli uffici possano determinare «in situazioni particolari» un altro luogo di adunanza diverso da Berna. La dottrina concorda sul fatto che l'Assemblea federale non deve necessariamente riunirsi a Berna, benché considerazioni pratiche parlino a favore della sede parlamentare nella città federale.
 
 **N. 11** **Rapporto con l'art. 185 cpv. 4 Cost.**: È controverso se il Consiglio federale possa utilizzare il suo diritto di convocazione secondo l'art. 151 cpv. 2 Cost. anche per riferire al di fuori delle sessioni ordinarie. Sägesser (Die Bestimmungen über die Bundesbehörden in der neuen Bundesverfassung, LeGes 1999, 11–49) lo afferma, mentre Lombardi (Volksrechte und Bundesbehörden in der neuen Bundesverfassung, AJP 1999, 706–721) si riferisce alla destinazione finalistica primaria per la legislazione urgente.
 

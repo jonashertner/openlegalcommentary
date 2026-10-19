@@ -6,7 +6,7 @@
 
 **N. 2** Il messaggio concernente la nuova impostazione della perequazione finanziaria del 14 novembre 2001 (FF 2001 2291, in particolare 2358 segg.) designa l'art. 43a Cost come «elemento centrale del nuovo ordinamento federale dei compiti». La disposizione mira ad aumentare l'efficienza dell'adempimento dei compiti statali e ad attribuire le responsabilità in modo più chiaro. In particolare, deve essere garantita l'equivalenza fiscale — la corrispondenza tra benefici, costi e competenze decisionali.
 
-**N. 3** La storia della genesi mostra che il costituente ha voluto ancorare consapevolmente principi programmatici diretti principalmente al legislatore. Come ha stabilito il Consiglio federale nel messaggio: «L'articolo 43a capoverso 4 non crea diritti azionabili» (Biaggini, BSK BV, Art. 43a N. 36).
+**N. 3** La storia della genesi mostra che il costituente ha voluto ancorare consapevolmente principi programmatici diretti principalmente al legislatore. Come ha stabilito il Consiglio federale nel messaggio: «L'articolo 43a capoverso 4 non crea diritti azionabili».
 
 ## 2. Collocazione sistematica
 
@@ -19,7 +19,7 @@
 - → Art. 47 Cost (Autonomia dei Cantoni)
 - → Art. 48 Cost (Convenzioni tra Cantoni)
 
-**N. 6** Secondo l'opinione unanime della dottrina, i principi dell'art. 43a Cost non sono adatti come metro di giudizio giudiziario (Biaggini, BSK BV, Art. 43a N. 5). La disposizione sviluppa la sua efficacia principalmente come direttiva per il legislatore nella configurazione della ripartizione dei compiti.
+**N. 6** Secondo l'opinione unanime della dottrina, i principi dell'art. 43a Cost non sono adatti come metro di giudizio giudiziario. La disposizione sviluppa la sua efficacia principalmente come direttiva per il legislatore nella configurazione della ripartizione dei compiti.
 
 ## 3. Elementi della fattispecie / Contenuto normativo
 
@@ -31,7 +31,7 @@
 - **Incapacità dei Cantoni**: La forza dei Cantoni non è sufficiente per l'adempimento del compito
 - **Bisogno di uniformità**: Una varietà federale condurrebbe a risultati insostenibili
 
-**N. 9** L'incapacità o la mancanza di volontà di singoli Cantoni non è sufficiente secondo Schweizer/Müller per il criterio della forza (citato in Biaggini, BSK BV, Art. 43a N. 17). Deve trattarsi di un'incapacità strutturale che riguarda più Cantoni o tutti i Cantoni.
+**N. 9** L'incapacità o la mancanza di volontà di singoli Cantoni non è sufficiente secondo Schweizer/Müller per il criterio della forza. Deve trattarsi di un'incapacità strutturale che riguarda più Cantoni o tutti i Cantoni.
 
 ### Equivalenza fiscale (cpv. 2 e 3)
 
@@ -54,7 +54,7 @@
 - Istruzione (→ Art. 19, 61a segg. Cost)
 - Assistenza sanitaria (→ Art. 117 Cost)
 
-**N. 14** Il Consiglio federale ha stabilito esplicitamente che l'art. 43a cpv. 4 Cost non crea diritti azionabili (Biaggini, BSK BV, Art. 43a N. 36). La disposizione si rivolge al legislatore, non alle autorità che applicano il diritto.
+**N. 14** Il Consiglio federale ha stabilito esplicitamente che l'art. 43a cpv. 4 Cost non crea diritti azionabili. La disposizione si rivolge al legislatore, non alle autorità che applicano il diritto.
 
 ### Adempimento economico dei compiti (cpv. 5)
 
@@ -83,7 +83,7 @@
 
 ### Giustiziabilità dei principi
 
-**N. 20** La mancanza di giustiziabilità dell'art. 43a Cost è largamente indiscussa nella dottrina (Biaggini, BSK BV, Art. 43a N. 5; Waldmann/Borter, Rechtsprechung zum Schweizerischen Föderalismus, Anhang III zum Monitoringbericht Föderalismus 2011–2013). Sporadicamente viene però sostenuta una giustiziabilità parziale attraverso altre norme costituzionali.
+**N. 20** La mancanza di giustiziabilità dell'art. 43a Cost è largamente indiscussa nella dottrina (Waldmann/Borter, Rechtsprechung zum Schweizerischen Föderalismus, Anhang III zum Monitoringbericht Föderalismus 2011–2013). Sporadicamente viene però sostenuta una giustiziabilità parziale attraverso altre norme costituzionali.
 
 ### Portata del principio di sussidiarietà
 

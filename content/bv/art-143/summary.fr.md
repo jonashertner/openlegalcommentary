@@ -4,7 +4,7 @@
 
 L'art. 143 Cst. règle qui peut être élu dans les trois autorités fédérales suprêmes. Tous les citoyens ayant le droit de vote – soit selon l'art. 136 Cst. tous les citoyens suisses âgés de 18 ans révolus qui ne sont pas sous tutelle – peuvent être élus au Conseil national, au Conseil fédéral ou comme juge fédéral.
 
-La Constitution ne connaît pas d'autres conditions. Ni le domicile, ni la profession, la formation ou le sexe ne jouent un rôle. Même une formation juridique n'est pas constitutionnellement obligatoire pour les juges fédéraux, bien que cela soit controversé (Schaub, BSK BV, art. 143 n. 6 vs. Kiener, BSK BGG, art. 5 n. 10).
+La Constitution ne connaît pas d'autres conditions. Ni le domicile, ni la profession, la formation ou le sexe ne jouent un rôle. Même une formation juridique n'est pas constitutionnellement obligatoire pour les juges fédéraux, bien que cela soit controversé.
 
 **Exemple** : Une Suissesse de 19 ans de Genève peut théoriquement être élue juge fédérale, même si elle est boulangère et n'a jamais étudié le droit. La loi exige certes des connaissances dans une langue officielle (art. 5 al. 2 LTF), mais c'est déjà la limite de ce qui est admissible.
 

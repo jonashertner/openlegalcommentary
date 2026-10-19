@@ -4,9 +4,9 @@
 
 L'articolo 74 Cost. attribuisce alla Confederazione il compito di proteggere le persone e l'ambiente dai danni ambientali. La Confederazione deve emanare leggi che impediscono gli effetti dannosi o molesti. I Cantoni applicano queste leggi.
 
-L'articolo si basa su due principi importanti: primo, i danni ambientali devono essere impediti prima che si verifichino (principio di precauzione). Secondo, coloro che causano danni ambientali devono sopportarne i costi (principio di causalità secondo l'art. 2 LPAmb, vedi Griffel, BSK BV, Art. 74 N. 34-36). 
+L'articolo si basa su due principi importanti: primo, i danni ambientali devono essere impediti prima che si verifichino (principio di precauzione). Secondo, coloro che causano danni ambientali devono sopportarne i costi. 
 
-**Gli effetti dannosi** mettono in pericolo la salute o il benessere in modo considerevole. **Gli effetti molesti** disturbano il benessere senza essere pericolosi per la salute (Griffel, BSK BV, Art. 74 N. 16-20). La legge sulla protezione dell'ambiente (LPAmb) concretizza questi concetti.
+**Gli effetti dannosi** mettono in pericolo la salute o il benessere in modo considerevole. **Gli effetti molesti** disturbano il benessere senza essere pericolosi per la salute. La legge sulla protezione dell'ambiente (LPAmb) concretizza questi concetti.
 
 Il principio di precauzione significa: lo Stato deve agire già in caso di possibili pericoli. Non aspetta che i danni si siano verificati (Marti, Vorsorgeprinzip, pag. 156). Il Tribunale federale lo ha confermato durante la crisi BSE: «La Confederazione deve prendere tutte le misure che secondo lo stato della scienza e dell'esperienza sono indicate» (**BGE 132 II 305**).
 

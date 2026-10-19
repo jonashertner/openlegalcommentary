@@ -37,7 +37,7 @@
 
 ## 4. Conséquences juridiques
 
-**N. 9** Si l'initiative aboutit avec 100'000 signatures valides, elle doit obligatoirement être soumise au vote du peuple. L'Assemblée fédérale n'a aucune compétence d'examen matériel et ne peut ni déclarer l'initiative invalide ni présenter un contre-projet (Ehrenzeller, BSK BV, 2e éd. 2024, art. 138 N 15).
+**N. 9** Si l'initiative aboutit avec 100'000 signatures valides, elle doit obligatoirement être soumise au vote du peuple. L'Assemblée fédérale n'a aucune compétence d'examen matériel et ne peut ni déclarer l'initiative invalide ni présenter un contre-projet.
 
 **N. 10** Si le peuple accepte l'initiative, cela déclenche la procédure de révision totale selon l'art. 193 al. 2-4 Cst. :
 1. Renouvellement des deux Conseils

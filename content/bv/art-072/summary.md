@@ -1,6 +1,6 @@
 # Übersicht
 
-Art. 72 BV regelt die Zuständigkeiten zwischen Bund und Kantonen im Religionsrecht. Die Kantone sind für das Verhältnis zwischen Kirche und Staat zuständig. Sie können Religionsgemeinschaften öffentlich-rechtlich anerkennen und Kirchensteuern erheben. Es besteht aber kein Rechtsanspruch auf Anerkennung (Winzeler, BSK BV, Art. 72 N. 20).
+Art. 72 BV regelt die Zuständigkeiten zwischen Bund und Kantonen im Religionsrecht. Die Kantone sind für das Verhältnis zwischen Kirche und Staat zuständig. Sie können Religionsgemeinschaften öffentlich-rechtlich anerkennen und Kirchensteuern erheben. Es besteht aber kein Rechtsanspruch auf Anerkennung.
 
 Die Kantone organisieren ihre Landeskirchen selbst. Das Bundesgericht bestätigte in **BGE 129 I 68**: Ein «partieller Austritt» nur aus der Landeskirche ist möglich, wenn das kantonale Recht dies vorsieht. Die Kantone müssen aber die Religionsfreiheit (Art. 15 BV) respektieren (**BGE 145 I 121**).
 

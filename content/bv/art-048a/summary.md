@@ -8,7 +8,7 @@ Art. 48a BV ermöglicht es dem Bund, Kantone zur interkantonalen Zusammenarbeit 
 
 **Welche Rechtswirkungen entstehen?** Verpflichtete Kantone werden entweder Vertragspartei (Beitritt) oder müssen sich an bestimmten Kooperationsaspekten beteiligen. Die Verträge bleiben interkantonales Recht und werden nicht zu Bundesrecht. Dies bestätigte das Bundesgericht in **BGE 143 V 451**.
 
-**Rechtsnatur:** Art. 48a BV ist nach umstrittener Doktrin nicht direkt anwendbar. Biaggini (BSK BV, Art. 48a N. 8) betont, dass die Norm einer bundesgesetzlichen Konkretisierung bedarf. Die herrschende Lehre und Praxis gehen jedoch von unmittelbarer Anwendbarkeit aus.
+**Rechtsnatur:** Art. 48a BV ist nach umstrittener Doktrin nicht direkt anwendbar. Biaggini betont, dass die Norm einer bundesgesetzlichen Konkretisierung bedarf. Die herrschende Lehre und Praxis gehen jedoch von unmittelbarer Anwendbarkeit aus.
 
 **Streitpunkt:** Umstritten ist, ob noch nicht in Kraft stehende Verträge genügen. Biaggini und Zehnder bejahen dies für definitiv ausgehandelte Verträge. Andere fordern bereits geltende Vertragswerke.
 

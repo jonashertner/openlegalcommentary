@@ -10,13 +10,13 @@
 
 **N. 3** Art. 85 BV steht im 3. Titel (Bund, Kantone und Gemeinden), 5. Kapitel (Öffentliche Werke und Verkehr) der Bundesverfassung. Die Norm bildet zusammen mit Art. 82–88 BV das verfassungsrechtliche Fundament der schweizerischen Verkehrspolitik. Sie steht in engem systematischem Zusammenhang mit → Art. 84 BV (Alpenquerender Transitverkehr) und → Art. 86 BV (Verwendung der Abgaben für Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr).
 
-**N. 4** Die Schwerverkehrsabgabe ist eine Lenkungsabgabe mit fiskalischen Nebenzwecken. Sie unterscheidet sich von der Mineralölsteuer (→ Art. 86 Abs. 1 BV) durch ihre direkte Verknüpfung mit der Fahrleistung und dem Schadstoffausstoss. Im Gegensatz zu klassischen Steuern besteht eine Zweckbindung des Ertrags nach Abs. 2 (Epiney, BSK BV, Art. 85 N. 11).
+**N. 4** Die Schwerverkehrsabgabe ist eine Lenkungsabgabe mit fiskalischen Nebenzwecken. Sie unterscheidet sich von der Mineralölsteuer (→ Art. 86 Abs. 1 BV) durch ihre direkte Verknüpfung mit der Fahrleistung und dem Schadstoffausstoss. Im Gegensatz zu klassischen Steuern besteht eine Zweckbindung des Ertrags nach Abs. 2.
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
 ### 3.1 Bundeskompetenz (Abs. 1)
 
-**N. 5** Die Erhebungskompetenz des Bundes ist als «Kann-Vorschrift» ausgestaltet. Der Bund ist nicht verpflichtet, aber berechtigt, eine Schwerverkehrsabgabe zu erheben. Die Kompetenz ist umfassend und schliesst kantonale Schwerverkehrsabgaben aus (Epiney, BSK BV, Art. 85 N. 5).
+**N. 5** Die Erhebungskompetenz des Bundes ist als «Kann-Vorschrift» ausgestaltet. Der Bund ist nicht verpflichtet, aber berechtigt, eine Schwerverkehrsabgabe zu erheben. Die Kompetenz ist umfassend und schliesst kantonale Schwerverkehrsabgaben aus.
 
 **N. 6** Die Abgabe kann «leistungs- oder verbrauchsabhängig» erhoben werden. Leistungsabhängig bedeutet eine Bemessung nach gefahrenen Kilometern, verbrauchsabhängig nach Treibstoffverbrauch. Das SVAG hat sich für eine Kombination entschieden: gefahrene Kilometer multipliziert mit einem gewichts- und emissionsabhängigen Tarif (Art. 6 SVAG).
 
@@ -24,11 +24,11 @@
 
 **N. 7** Der Schwerverkehr muss der Allgemeinheit Kosten verursachen, die «nicht durch andere Leistungen oder Abgaben gedeckt sind». Dies umfasst sowohl Wegekosten (Infrastrukturkosten) als auch externe Kosten wie Umwelt-, Gesundheits- und Unfallfolgekosten (BBl 1993 II 823).
 
-**N. 8** Umstritten ist der Begriff der externen Kosten. Das Bundesgericht hat in **BGE 136 II 337** entschieden, dass auch «atypische» externe Kosten wie Staukosten erfasst sind (Epiney, BSK BV, Art. 85 N. 9). Heuck kritisiert diese weite Auslegung und argumentiert, Staukosten seien verkehrsinterne Kosten, die nicht externalisierbar seien (Heuck, URP 2010, 542). Die herrschende Lehre folgt jedoch der bundesgerichtlichen Rechtsprechung (Epiney, BSK BV, Art. 85 N. 9).
+**N. 8** Umstritten ist der Begriff der externen Kosten. Das Bundesgericht hat in **BGE 136 II 337** entschieden, dass auch «atypische» externe Kosten wie Staukosten erfasst sind. Heuck kritisiert diese weite Auslegung und argumentiert, Staukosten seien verkehrsinterne Kosten, die nicht externalisierbar seien (Heuck, URP 2010, 542). Die herrschende Lehre folgt jedoch der bundesgerichtlichen Rechtsprechung.
 
 ### 3.3 Zweckbindung (Abs. 2)
 
-**N. 9** Der Reinertrag ist für «Kosten im Zusammenhang mit dem Landverkehr» zu verwenden. Diese offene Formulierung erlaubt eine breite Verwendung, nicht nur für Strasseninfrastruktur, sondern auch für Bahninfrastruktur, Lärmschutz oder Verkehrssicherheit (Epiney, BSK BV, Art. 85 N. 12).
+**N. 9** Der Reinertrag ist für «Kosten im Zusammenhang mit dem Landverkehr» zu verwenden. Diese offene Formulierung erlaubt eine breite Verwendung, nicht nur für Strasseninfrastruktur, sondern auch für Bahninfrastruktur, Lärmschutz oder Verkehrssicherheit.
 
 ### 3.4 Kantonsanteil (Abs. 3)
 
@@ -38,7 +38,7 @@
 
 **N. 11** Art. 85 BV begründet keine unmittelbaren subjektiven Rechte oder Pflichten. Die Verfassungsnorm bedarf der Konkretisierung durch das SVAG und die SVAV. Für den Einzelnen entsteht die Abgabepflicht erst durch die Ausführungsgesetzgebung (Art. 3 SVAG).
 
-**N. 12** Die Zweckbindung nach Abs. 2 ist justiziabel. Eine zweckfremde Verwendung der LSVA-Erträge kann gerichtlich gerügt werden. Die Kantone haben einen verfassungsrechtlichen Anspruch auf Beteiligung am Reinertrag nach Abs. 3 (Epiney, BSK BV, Art. 85 N. 13).
+**N. 12** Die Zweckbindung nach Abs. 2 ist justiziabel. Eine zweckfremde Verwendung der LSVA-Erträge kann gerichtlich gerügt werden. Die Kantone haben einen verfassungsrechtlichen Anspruch auf Beteiligung am Reinertrag nach Abs. 3.
 
 ## 5. Streitstände
 

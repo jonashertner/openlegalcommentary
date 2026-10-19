@@ -18,7 +18,7 @@
 
 **N. 5** **Délibération séparée (al. 1)** : Le principe de la délibération séparée signifie que le Conseil national et le Conseil des Etats tiennent leurs séances séparément et délibèrent indépendamment l'un de l'autre. Selon Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4e éd. 2023, art. 156 n. 3), ceci est l'expression de la pleine égalité des deux chambres et empêche la domination d'un conseil.
 
-**N. 6** **Conformité (al. 2)** : Le principe du consensus exige la conformité de fond des deux conseils pour chaque arrêté de l'Assemblée fédérale. Selon Waldmann/Belser/Epiney (BSK BV, 2e éd. 2024, art. 156 n. 8), la simple majorité dans un parlement global ne suffit pas, mais il faut des arrêtés identiques des deux chambres. Ceci vaut pour les lois, les ordonnances de l'Assemblée fédérale, les arrêtés fédéraux et les arrêtés fédéraux simples (→ art. 163 Cst.).
+**N. 6** **Conformité (al. 2)**: Le principe du consensus exige la conformité de fond des deux conseils pour chaque arrêté de l'Assemblée fédérale. Selon Waldmann/Belser/Epiney, la simple majorité dans un parlement global ne suffit pas, mais il faut des arrêtés identiques des deux chambres. Ceci vaut pour les lois, les ordonnances de l'Assemblée fédérale, les arrêtés fédéraux et les arrêtés fédéraux simples (→ art. 163 Cst.).
 
 **N. 7** **Procédure d'élimination des divergences (al. 3)** : La Constitution oblige le législateur à prévoir une procédure qui permet une solution en cas de désaccords. Selon Tschannen (in: St. Galler Kommentar BV, art. 156 n. 12), les domaines énumérés aux let. a-d sont exhaustifs, ce qui signifie que dans d'autres domaines, le blocage par un conseil reste possible.
 
@@ -34,7 +34,7 @@
 
 **N. 11** **Portée du principe de consensus** : En doctrine, il est controversé de savoir jusqu'où s'étend l'exigence de conformité. Alors que Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3e éd. 2016, § 15 n. 42) défendent une interprétation stricte selon laquelle toute différence, même rédactionnelle, exclut la conformité, Graf/Theler/von Wyss (Parlamentsrecht und Parlamentspraxis, 2014, § 23 n. 15) plaident pour une vision plus pragmatique qui tolère les divergences non essentielles.
 
-**N. 12** **Justiciabilité des règles de procédure** : Il est controversé de savoir si et dans quelle mesure les violations de l'art. 156 Cst. sont judiciairement contrôlables. Müller (in: BSK BV, art. 156 n. 14) défend l'opinion que des erreurs de procédure grossières dans la procédure législative peuvent conduire à l'invalidité de l'acte. La doctrine dominante (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4e éd. 2014, § 28 n. 32) considère cependant les règles de procédure parlementaire comme largement non justiciables.
+**N. 12** **Justiciabilité des règles de procédure**: Il est controversé de savoir si et dans quelle mesure les violations de l'art. 156 Cst. sont judiciairement contrôlables. Müller défend l'opinion que des erreurs de procédure grossières dans la procédure législative peuvent conduire à l'invalidité de l'acte. La doctrine dominante (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4e éd. 2014, § 28 n. 32) considère cependant les règles de procédure parlementaire comme largement non justiciables.
 
 ### 6. Conseils pratiques
 

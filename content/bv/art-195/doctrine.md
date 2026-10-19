@@ -35,7 +35,7 @@
 
 ### 5. Streitstände
 
-**N. 11** **Publikationszeitpunkt**: In der Lehre ist unbestritten, dass das Inkrafttreten nicht von der Publikation in der AS abhängt. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 195 N 7) betonen, dass die Publikation rein deklaratorische Bedeutung hat. Waldmann/Belser/Epiney (BSK BV, 2. Aufl. 2024, Art. 195 N 4) teilen diese Auffassung und verweisen auf die Botschaft zum Publikationsgesetz (BBl 2003 7729).
+**N. 11** **Publikationszeitpunkt**: In der Lehre ist unbestritten, dass das Inkrafttreten nicht von der Publikation in der AS abhängt. Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 195 N 7) betonen, dass die Publikation rein deklaratorische Bedeutung hat. Waldmann/Belser/Epiney teilen diese Auffassung und verweisen auf die Botschaft zum Publikationsgesetz (BBl 2003 7729).
 
 **N. 12** **Rückwirkung**: Kontrovers diskutiert wird die Frage der Rückwirkung von Verfassungsbestimmungen. Die herrschende Lehre (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 1854) geht davon aus, dass Verfassungsbestimmungen grundsätzlich keine Rückwirkung entfalten, es sei denn, dies sei ausdrücklich vorgesehen. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N 3456) differenzieren zwischen echter und unechter Rückwirkung.
 

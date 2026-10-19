@@ -6,7 +6,7 @@
 
 **N. 1** Art. 81a BV was inserted into the Federal Constitution through Railway Reform 2 by popular vote on 20 February 2005 (BBl 2005 2547). The provision replaced the temporary transitional provision Art. 196 No. 3 BV on the financing of public transport, which would have expired on 31 December 2007 (BBl 2004 6651, 6665). The constitutional legislator pursued three main objectives: firstly, the permanent securing of public transport financing, secondly, the anchoring of an adequate service as a constitutional mandate and thirdly, the entrenchment of the principle of user financing (BBl 2004 6656).
 
-**N. 2** The formulation of para. 2 was intensively discussed. The Federal Council had initially proposed that the costs should be covered by users «as a rule», which the Council of States weakened to «in principle». The conciliation conference finally agreed on the formulation «to an appropriate extent» (BBl 2004 6657). This legislative history shows the constitutional legislator's will to anchor the polluter-pays principle on the one hand, while leaving room for social policy and environmental policy considerations on the other hand (Kern, BSK BV, Art. 81a N. 1).
+**N. 2** The formulation of para. 2 was intensively discussed. The Federal Council had initially proposed that the costs should be covered by users «as a rule», which the Council of States weakened to «in principle». The conciliation conference finally agreed on the formulation «to an appropriate extent» (BBl 2004 6657). This legislative history shows the constitutional legislator's will to anchor the polluter-pays principle on the one hand, while leaving room for social policy and environmental policy considerations on the other hand.
 
 ### 2. Systematic Classification
 
@@ -16,13 +16,13 @@
 
 ### 3. Elements of the Offence / Normative Content
 
-**N. 5** **Paragraph 1** establishes a threefold constitutional mandate: the Confederation and cantons jointly ensure (1) an adequate service, (2) of public transport, (3) on rail, road, water and by cable car, (4) in all regions of the country. The term «adequate service» is an indeterminate legal concept that is concretised through legislation and practice. According to Griffel, it focuses exclusively on general accessibility (BSK BV-Kern, Art. 81a N. 10 citing Griffel).
+**N. 5** **Paragraph 1** establishes a threefold constitutional mandate: the Confederation and cantons jointly ensure (1) an adequate service, (2) of public transport, (3) on rail, road, water and by cable car, (4) in all regions of the country. The term «adequate service» is an indeterminate legal concept that is concretised through legislation and practice. According to Griffel, it focuses exclusively on general accessibility.
 
-**N. 6** The «adequate service» encompasses quantitative (frequency, network coverage) and qualitative aspects (reliability, comfort, accessibility). The claim is not directed at individuals, but obligates the Confederation and cantons to jointly fulfil the task. The formulation «in all regions of the country» concretises the basic service obligation and requires comprehensive coverage including peripheral areas (Kern, BSK BV, Art. 81a N. 7–9).
+**N. 6** The «adequate service» encompasses quantitative (frequency, network coverage) and qualitative aspects (reliability, comfort, accessibility). The claim is not directed at individuals, but obligates the Confederation and cantons to jointly fulfil the task. The formulation «in all regions of the country» concretises the basic service obligation and requires comprehensive coverage including peripheral areas.
 
 **N. 7** **Paragraph 2** anchors the principle of user financing: The costs of public transport are covered «to an appropriate extent» by the prices paid by users. The phrase «appropriate extent» is likewise an indeterminate legal concept. The Federal Supreme Court clarified in **BGE 149 I 182** that this extent cannot be zero — complete free financing is unconstitutional.
 
-**N. 8** The consideration of rail freight transport according to para. 1 concerns coordination with passenger transport in track allocation and infrastructure planning. The provision does not require equal treatment, but appropriate consideration of freight transport needs (Kern, BSK BV, Art. 81a N. 11–12).
+**N. 8** The consideration of rail freight transport according to para. 1 concerns coordination with passenger transport in track allocation and infrastructure planning. The provision does not require equal treatment, but appropriate consideration of freight transport needs.
 
 ### 4. Legal Consequences
 
@@ -34,7 +34,7 @@
 
 ### 5. Disputed Issues
 
-**N. 12** **Disputed upper limit for transport prices**: In legal scholarship, it is disputed whether Art. 81a para. 2 BV establishes an upper limit for transport prices. Uhlmann (SG Komm. BV, Art. 81a N. 34) takes the position that the provision represents a global upper limit: complete cost coverage through user prices would accordingly be inadmissible, as this would negate the public welfare character of public transport. Kern contradicts this view (BSK BV, Art. 81a N. 32): The provision does not establish an upper limit and does not exclude complete cost coverage.
+**N. 12** **Disputed upper limit for transport prices**: In legal scholarship, it is disputed whether Art. 81a para. 2 BV establishes an upper limit for transport prices. Uhlmann (SG Komm. BV, Art. 81a N. 34) takes the position that the provision represents a global upper limit: complete cost coverage through user prices would accordingly be inadmissible, as this would negate the public welfare character of public transport. Kern contradicts this view: The provision does not establish an upper limit and does not exclude complete cost coverage.
 
 **N. 13** **Appropriate cost recovery rate**: What constitutes an «appropriate extent» of cost coverage is disputed in doctrine. Practice shows cost recovery rates between 40% and 60% in regional transport and up to 80% in long-distance transport. Stückelberger/Haldimann (Schienenverkehrsrecht, 2008, p. 265) advocate for a differentiated consideration according to type of transport and region. The Federal Supreme Court has not yet defined a lower limit in percentages, but only clarified that zero fares are inadmissible (**BGE 149 I 182**).
 

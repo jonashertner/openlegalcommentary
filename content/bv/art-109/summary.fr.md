@@ -8,7 +8,7 @@ L'art. 109 Cst. habilite la Confédération à édicter des prescriptions contre
 
 ### En bref
 
-L'art. 109 Cst. donne à la Confédération la compétence de protéger les locataires contre les abus. Cette disposition constitutionnelle est née dans les années 1970 en réaction à la pénurie de logements et protège les locataires en tant que partie contractuelle plus faible (Cardinaux, BSK BV, Art. 109 N. 10). La Confédération a mis en œuvre cette compétence dans les art. 253-274g CO. La norme interdit les loyers excessifs et les congés arbitraires. En cas de rigueur, les rapports de bail peuvent être prolongés dans le temps. La réglementation de droit fédéral prime le droit cantonal (**ATF 149 I 25** c. 4.4.5).
+L'art. 109 Cst. donne à la Confédération la compétence de protéger les locataires contre les abus. Cette disposition constitutionnelle est née dans les années 1970 en réaction à la pénurie de logements et protège les locataires en tant que partie contractuelle plus faible. La Confédération a mis en œuvre cette compétence dans les art. 253-274g CO. La norme interdit les loyers excessifs et les congés arbitraires. En cas de rigueur, les rapports de bail peuvent être prolongés dans le temps. La réglementation de droit fédéral prime le droit cantonal (**ATF 149 I 25** c. 4.4.5).
 
 ### Signification pratique
 

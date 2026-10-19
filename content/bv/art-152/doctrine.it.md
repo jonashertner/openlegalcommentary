@@ -18,7 +18,7 @@
 
 ## Elementi della fattispecie / Contenuto della norma
 
-**N. 5** **Organo elettorale**: «Ogni Camera» designa il Consiglio nazionale e il Consiglio degli Stati separatamente. Entrambe le Camere eleggono i loro uffici di presidenza indipendentemente l'una dall'altra. La formulazione «nel suo seno» significa che sono eleggibili solo i membri della rispettiva Camera (Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, art. 152 n. 3).
+**N. 5** **Organo elettorale**: «Ogni Camera» designa il Consiglio nazionale e il Consiglio degli Stati separatamente. Entrambe le Camere eleggono i loro uffici di presidenza indipendentemente l'una dall'altra. La formulazione «nel suo seno» significa che sono eleggibili solo i membri della rispettiva Camera.
 
 **N. 6** **Cariche elettive**: La norma esige l'elezione di tre persone:
 - Una presidente o un presidente
@@ -46,7 +46,7 @@ La formulazione neutrale rispetto al genere è stata introdotta con la revisione
 
 **N. 11** **Natura giuridica del divieto di rielezione**: Nella dottrina è controverso se il divieto di rielezione sia cogente o dispositivo:
 - **Ehrenzeller** (St. Galler Kommentar BV, art. 152 n. 5) sostiene che il divieto è assoluto e non può essere aggirato nemmeno con una decisione unanime della Camera.
-- **Waldmann** (BSK BV, art. 152 n. 7) ritiene invece che in situazioni straordinarie (p. es. pandemia, guerra) sia pensabile una gestione pragmatica.
+- **Waldmann** ritiene invece che in situazioni straordinarie (p. es. pandemia, guerra) sia pensabile una gestione pragmatica.
 - **Graf** (Parlamentsrecht und Parlamentspraxis, § 10 n. 18) assume una posizione intermedia: il divieto vale in linea di principio in modo assoluto, ma in caso di impossibilità di nuova elezione è ammessa una continuazione temporanea dell'esercizio della carica.
 
 **N. 12** **Giustiziabilità**: Vi è consenso sul fatto che le elezioni secondo l'art. 152 Cost. come interna corporis non sono giustiziabili. È tuttavia controversa la portata di questo principio:

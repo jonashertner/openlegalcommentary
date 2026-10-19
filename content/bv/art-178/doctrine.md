@@ -48,7 +48,7 @@
 
 ### 5. Streitstände
 
-**N. 15** **Reichweite der Übertragbarkeit**: Müller (Die Auslagerung von Bundesaufgaben, 2020, S. 156) vertritt die Auffassung, dass Kernaufgaben der Staatsgewalt (z.B. Polizeigewalt, Strafverfolgung) nicht übertragbar seien. Waldmann (BSK BV, 2. Aufl. 2024, Art. 178 N. 23) hält dagegen eine Übertragung auch hoheitlicher Aufgaben für zulässig, sofern die gesetzliche Grundlage hinreichend bestimmt ist.
+**N. 15** **Reichweite der Übertragbarkeit**: Müller (Die Auslagerung von Bundesaufgaben, 2020, S. 156) vertritt die Auffassung, dass Kernaufgaben der Staatsgewalt (z.B. Polizeigewalt, Strafverfolgung) nicht übertragbar seien. Waldmann hält dagegen eine Übertragung auch hoheitlicher Aufgaben für zulässig, sofern die gesetzliche Grundlage hinreichend bestimmt ist.
 
 **N. 16** **Implizite Entscheidkompetenzen**: Das Bundesgericht hat in **BGE 137 II 409 E. 7** entschieden, dass die Übertragung von Aufgaben die zur Erfüllung notwendigen Entscheidkompetenzen implizit einschliessen kann. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5. Aufl. 2021, § 41 N. 18) kritisiert dies als zu weitgehend und fordert eine explizite gesetzliche Regelung der Entscheidbefugnisse.
 

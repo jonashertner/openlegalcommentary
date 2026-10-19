@@ -16,13 +16,13 @@
 
 ### Tatbestandsmerkmale / Norminhalt
 
-**N. 5** **Gesetzgebung auf dem Gebiet des Strafrechts (Abs. 1)**: Umfasst das Kernstrafrecht (StGB) und das Nebenstrafrecht des Bundes. Die Bundeskompe­tenz erstreckt sich nur auf strafrechtlichen Schutz von Verwaltungsvorschriften mit Bundesgrundlage (Göksu, BSK BV, Art. 123 N. 8). Den Kantonen verbleibt das Übertretungsstrafrecht nach Art. 335 StGB (**BGE 138 IV 13** E. 5.1).
+**N. 5** **Gesetzgebung auf dem Gebiet des Strafrechts (Abs. 1)**: Umfasst das Kernstrafrecht (StGB) und das Nebenstrafrecht des Bundes. Die Bundeskompe­tenz erstreckt sich nur auf strafrechtlichen Schutz von Verwaltungsvorschriften mit Bundesgrundlage. Den Kantonen verbleibt das Übertretungsstrafrecht nach Art. 335 StGB (**BGE 138 IV 13** E. 5.1).
 
 **N. 6** **Gesetzgebung auf dem Gebiet des Strafprozessrechts (Abs. 1)**: Seit 2011 durch die StPO umfassend bundesrechtlich geregelt. Die Abgrenzung zur kantonalen Polizeikompetenz erfolgt nach dem Kriterium des Tatverdachts: Präventive Polizeitätigkeit ohne konkreten Tatverdacht bleibt kantonal (**BGE 140 I 353** E. 4.2).
 
 **N. 7** **Organisation der Gerichte (Abs. 2)**: Kantone bestimmen Gerichtsaufbau, Zuständigkeiten und Verfahrensabläufe innerhalb der bundesrechtlichen Vorgaben. Die StPO setzt nur Mindeststandards (Art. 14 ff. StPO). Dies umfasst auch Anforderungen an Sachverständige über das Bundesrecht hinaus (**BGE 140 IV 49** E. 2.3).
 
-**N. 8** **Rechtsprechung in Strafsachen (Abs. 2)**: Die Strafgerichtsbarkeit verbleibt bei den Kantonen (Göksu, BSK BV, Art. 123 N. 17), ausser für Bundesstrafgerichtsbarkeit nach Art. 23 ff. StPO. Kantonale Gerichte wenden Bundesstrafrecht an, sind aber kantonal organisiert.
+**N. 8** **Rechtsprechung in Strafsachen (Abs. 2)**: Die Strafgerichtsbarkeit verbleibt bei den Kantonen, ausser für Bundesstrafgerichtsbarkeit nach Art. 23 ff. StPO. Kantonale Gerichte wenden Bundesstrafrecht an, sind aber kantonal organisiert.
 
 **N. 9** **Straf- und Massnahmenvollzug (Abs. 2 und 3)**: Duale Kompetenz — Kantone führen den Vollzug durch, der Bund kann Rahmenvorschriften erlassen. Die Vollzugskonkordate (Nordwest- und Innerschweiz, Ostschweiz, Lateinische Schweiz) koordinieren interkantonale Standards (Baechtold/Weber/Hostettler, Strafvollzug, 3. Aufl. 2016, § 2 N. 14).
 
@@ -36,9 +36,9 @@
 
 ### Streitstände
 
-**N. 13** **Umfang der Bundesvollzugskompetenz**: Die herrschende Lehre versteht die Kompetenz nach Abs. 3 extensiv — der Bund könne einen vollständigen Systemwechsel zu einheitlichem Bundesvollzugsrecht vornehmen (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N 1113a; Rhinow/Schefer/Uebersax, Verfassungsrecht, N 2963). Göksu vertritt demgegenüber eine restriktive Auslegung: Abs. 3 erlaube nur punktuelle Eingriffe, die durch überwiegende Bundesinteressen gerechtfertigt sein müssten (Göksu, BSK BV, Art. 123 N. 22).
+**N. 13** **Umfang der Bundesvollzugskompetenz**: Die herrschende Lehre versteht die Kompetenz nach Abs. 3 extensiv — der Bund könne einen vollständigen Systemwechsel zu einheitlichem Bundesvollzugsrecht vornehmen (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N 1113a; Rhinow/Schefer/Uebersax, Verfassungsrecht, N 2963). Göksu vertritt demgegenüber eine restriktive Auslegung: Abs. 3 erlaube nur punktuelle Eingriffe, die durch überwiegende Bundesinteressen gerechtfertigt sein müssten.
 
-**N. 14** **Abgrenzung Polizeirecht/Strafprozessrecht**: Streitig ist, wo präventiv-polizeiliches Handeln endet und strafprozessuales beginnt. Niggli/Heer/Wiprächtiger (BSK StPO, Einl. N. 45) ziehen die Grenze beim konkreten Tatverdacht. Riklin (StPO Kommentar, 2. Aufl. 2014, Vorbem. N. 28) plädiert für ein funktionales Verständnis: Massnahmen mit Strafverfolgungszweck seien stets der StPO zuzuordnen. Das Bundesgericht folgt dem Tatverdachtskriterium (**BGE 140 I 353** E. 4.2).
+**N. 14** **Abgrenzung Polizeirecht/Strafprozessrecht**: Streitig ist, wo präventiv-polizeiliches Handeln endet und strafprozessuales beginnt. Niggli/Heer/Wiprächtiger ziehen die Grenze beim konkreten Tatverdacht. Riklin (StPO Kommentar, 2. Aufl. 2014, Vorbem. N. 28) plädiert für ein funktionales Verständnis: Massnahmen mit Strafverfolgungszweck seien stets der StPO zuzuordnen. Das Bundesgericht folgt dem Tatverdachtskriterium (**BGE 140 I 353** E. 4.2).
 
 **N. 15** **Reichweite kantonaler Organisationsautonomie**: Umstritten ist, wie weit bundesrechtliche Vorgaben die kantonale Gerichtsorganisation determinieren dürfen. Lienhard/Kettiger (Justiz zwischen Management und Rechtsstaat, 2016, 184) betonen die verfassungsrechtlich garantierte Organisationshoheit. Kiener (in: Verfassungsrecht der Schweiz, § 47 N. 34) sieht diese durch zwingende Verfahrensgarantien begrenzt.
 

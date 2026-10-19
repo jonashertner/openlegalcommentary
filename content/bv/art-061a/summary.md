@@ -1,10 +1,10 @@
 ## Übersicht
 
-Art. 61a BV ist das Herzstück der Schweizer «Bildungsverfassung» und regelt die Koordination des Bildungswesens zwischen Bund und Kantonen (Hänni, BSK BV, Art. 61a N. 10-12). Die Bestimmung verpflichtet alle staatlichen Ebenen, gemeinsam für einen qualitativ hochwertigen und durchlässigen Bildungsraum Schweiz zu sorgen.
+Art. 61a BV ist das Herzstück der Schweizer «Bildungsverfassung» und regelt die Koordination des Bildungswesens zwischen Bund und Kantonen. Die Bestimmung verpflichtet alle staatlichen Ebenen, gemeinsam für einen qualitativ hochwertigen und durchlässigen Bildungsraum Schweiz zu sorgen.
 
-**Wer ist betroffen?** Die Koordinationspflicht gilt für Bund, Kantone und ihre Bildungsinstitutionen auf allen Stufen - von der Volksschule bis zur Hochschule (Hänni, BSK BV, Art. 61a N. 20-21). Auch Schülerinnen und Schüler, Studierende und Erwerbstätige profitieren von der besseren Durchlässigkeit zwischen den Bildungswegen.
+**Wer ist betroffen?** Die Koordinationspflicht gilt für Bund, Kantone und ihre Bildungsinstitutionen auf allen Stufen - von der Volksschule bis zur Hochschule. Auch Schülerinnen und Schüler, Studierende und Erwerbstätige profitieren von der besseren Durchlässigkeit zwischen den Bildungswegen.
 
-**Die drei Hauptziele** der Bestimmung sind erstens die Qualitätssicherung durch gemeinsame Standards, zweitens die Durchlässigkeit zwischen verschiedenen Bildungsstufen und -wegen, und drittens die gleichwertige gesellschaftliche Anerkennung von beruflicher und allgemeinbildender Bildung (Hänni, BSK BV, Art. 61a N. 22-27).
+**Die drei Hauptziele** der Bestimmung sind erstens die Qualitätssicherung durch gemeinsame Standards, zweitens die Durchlässigkeit zwischen verschiedenen Bildungsstufen und -wegen, und drittens die gleichwertige gesellschaftliche Anerkennung von beruflicher und allgemeinbildender Bildung.
 
 **Praktische Folgen:** Bund und Kantone müssen ihre Bildungsmassnahmen koordinieren und können nicht mehr isoliert handeln. Dies führte zu Harmonisierungsprojekten wie dem HarmoS-Konkordat und dem Lehrplan 21. Bildungsabschlüsse werden schweizweit anerkannt, und der Wechsel zwischen Kantonen oder Bildungsgängen wird erleichtert.
 

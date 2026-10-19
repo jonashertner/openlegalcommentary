@@ -4,13 +4,13 @@
 
 **N. 1** Art. 70 BV hat seine Wurzeln in Art. 116 BV 1874, der die sprachliche Vielfalt der Schweiz erstmals verfassungsrechtlich verankerte. Die Totalrevision von 1999 brachte eine umfassende Neufassung der Sprachenbestimmungen. Wie die Botschaft über eine neue Bundesverfassung vom 20. November 1996 ausführt, «soll die neue Sprachennorm die Vielsprachigkeit als Wesensmerkmal des Bundesstaates würdigen und konkrete Verpflichtungen für Bund und Kantone festlegen» (BBl 1997 I 314).
 
-**N. 2** Die parlamentarische Beratung war geprägt von der Debatte über den Sprachenunterricht. Der Nationalrat lehnte einen Minderheitsantrag ab, der den Kantonen vorschreiben wollte, in der Schule als Zweitsprache eine Landessprache zu unterrichten (Belser/Waldmann, BSK BV, Art. 70 N. 13). Die definitive Fassung überlässt diese Frage bewusst der kantonalen Bildungshoheit.
+**N. 2** Die parlamentarische Beratung war geprägt von der Debatte über den Sprachenunterricht. Der Nationalrat lehnte einen Minderheitsantrag ab, der den Kantonen vorschreiben wollte, in der Schule als Zweitsprache eine Landessprache zu unterrichten. Die definitive Fassung überlässt diese Frage bewusst der kantonalen Bildungshoheit.
 
 **N. 3** Die explizite Aufnahme des Rätoromanischen als Amtssprache des Bundes im Verkehr mit rätoromanischsprachigen Personen (Abs. 1 Satz 2) stellt eine bedeutende Neuerung gegenüber der alten Verfassung dar. Diese Bestimmung anerkennt die besondere Stellung der vierten Landessprache und verstärkt ihren verfassungsrechtlichen Schutz.
 
 ### 2. Systematische Einordnung
 
-**N. 4** Art. 70 BV bildet zusammen mit → Art. 4 BV (Landessprachen) und → Art. 18 BV (Sprachenfreiheit) den verfassungsrechtlichen Kern des schweizerischen Sprachenrechts. Die Norm ist systematisch im 1. Kapitel «Stellung von Bund und Kantonen» platziert, was ihre staatsorganisationsrechtliche Dimension unterstreicht (Belser/Waldmann, BSK BV, Art. 70 N. 1).
+**N. 4** Art. 70 BV bildet zusammen mit → Art. 4 BV (Landessprachen) und → Art. 18 BV (Sprachenfreiheit) den verfassungsrechtlichen Kern des schweizerischen Sprachenrechts. Die Norm ist systematisch im 1. Kapitel «Stellung von Bund und Kantonen» platziert, was ihre staatsorganisationsrechtliche Dimension unterstreicht.
 
 **N. 5** Die Verbindung zu → Art. 8 Abs. 2 BV (Diskriminierungsverbot wegen der Sprache) ist offensichtlich. Weitere Querverweise bestehen zu → Art. 69 BV (Kulturförderung), → Art. 31 Abs. 2 BV (Sprachenfreiheit im Freiheitsentzug) und → Art. 175 Abs. 4 BV (sprachliche Vertretung im Bundesrat).
 
@@ -28,13 +28,13 @@
 
 **N. 9** Die Kantone bestimmen ihre Amtssprachen autonom. Diese Kompetenz ist Ausfluss der kantonalen Souveränität und ermöglicht differenzierte Lösungen. Die Schranken dieser Autonomie liegen im Territorialitätsprinzip und im Minderheitenschutz.
 
-**N. 10** Das Territorialitätsprinzip dient gemäss ständiger Rechtsprechung seit **BGE 100 Ia 462** der Erhaltung der überkommenen Verbreitungsgebiete der Landessprachen. Die Doktrin ist über dessen genaue Tragweite geteilt: Papaux (FZR 2002, 157) betont die strikte Trennung der Sprachgebiete zur Erhaltung der Homogenität, während Müller/Schefer (Grundrechte, 4. Aufl. 2008, 326) den Sprachfrieden und gesellschaftlichen Zusammenhalt in den Vordergrund stellen (Belser/Waldmann, BSK BV, Art. 70 N. 31).
+**N. 10** Das Territorialitätsprinzip dient gemäss ständiger Rechtsprechung seit **BGE 100 Ia 462** der Erhaltung der überkommenen Verbreitungsgebiete der Landessprachen. Die Doktrin ist über dessen genaue Tragweite geteilt: Papaux (FZR 2002, 157) betont die strikte Trennung der Sprachgebiete zur Erhaltung der Homogenität, während Müller/Schefer (Grundrechte, 4. Aufl. 2008, 326) den Sprachfrieden und gesellschaftlichen Zusammenhalt in den Vordergrund stellen.
 
 **N. 11** «Angestammte sprachliche Minderheiten» sind historisch verwurzelte Sprachgruppen in einem bestimmten Gebiet. Der Begriff ist enger als «sprachliche Minderheit» und erfasst nicht neu zugewanderte Sprachgruppen. Dies bestätigte **BGE 122 I 236** für fremdsprachige Zuzüger.
 
 #### Förderung der Verständigung (Abs. 3)
 
-**N. 12** Die Verständigungspflicht richtet sich an Bund und Kantone gleichermassen. Sie ist programmatischer Natur und begründet keine subjektiven Rechte. Ehrenzeller (BSK BV, Art. 70 N. 39) vertritt die Auffassung, dass aus dieser Bestimmung keine materielle Regelungskompetenz des Bundes für den Fremdsprachenunterricht abgeleitet werden kann.
+**N. 12** Die Verständigungspflicht richtet sich an Bund und Kantone gleichermassen. Sie ist programmatischer Natur und begründet keine subjektiven Rechte. Ehrenzeller vertritt die Auffassung, dass aus dieser Bestimmung keine materielle Regelungskompetenz des Bundes für den Fremdsprachenunterricht abgeleitet werden kann.
 
 #### Unterstützungspflichten des Bundes (Abs. 4 und 5)
 

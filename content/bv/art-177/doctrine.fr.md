@@ -26,7 +26,7 @@
 - Principe majoritaire : les décisions sont prises à la majorité des voix
 - Principe de solidarité : les membres représentent les décisions collégiales de manière uniforme vers l'extérieur
 
-**N. 5** La portée du principe collégial est controversée dans la doctrine. Tandis que Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4e éd. 2014, § 15 n. 12) défendent une interprétation stricte selon laquelle toutes les décisions d'importance considérable doivent être soumises au Conseil fédéral dans son ensemble, Sägesser (in : Waldmann/Belser/Epiney, BSK BV, 2e éd. 2024, art. 177 n. 8) plaide pour une application pragmatique qui tient compte des exigences d'efficacité de l'activité étatique moderne.
+**N. 5** La portée du principe collégial est controversée dans la doctrine. Tandis que Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4e éd. 2014, § 15 n. 12) défendent une interprétation stricte selon laquelle toutes les décisions d'importance considérable doivent être soumises au Conseil fédéral dans son ensemble, Sägesser plaide pour une application pragmatique qui tient compte des exigences d'efficacité de l'activité étatique moderne.
 
 #### b) Principe départemental (al. 2)
 

@@ -26,7 +26,7 @@ This decision clarifies the delimitation of competences between the supreme auth
 
 > «Decisions of the Federal Council cannot in principle be challenged before the Federal Supreme Court by means of administrative court appeal.»
 
-The caselaw demonstrates the significance of the separation of powers in the context of Art. 148 BV. Waldmann/Belser/Epiney explain that Art. 148 BV forms the institutional foundation of the separation of powers by establishing the Federal Assembly as the supreme authority (BSK BV, 2nd ed. 2024, Art. 148 N. 15 ff.).
+The caselaw demonstrates the significance of the separation of powers in the context of Art. 148 BV. Waldmann/Belser/Epiney explain that Art. 148 BV forms the institutional foundation of the separation of powers by establishing the Federal Assembly as the supreme authority.
 
 ## Bicameral System and Equality of the Chambers
 

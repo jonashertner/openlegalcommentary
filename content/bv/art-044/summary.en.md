@@ -6,7 +6,7 @@ Art. 44 Cst. regulates cooperation between the Confederation and the 26 cantons.
 
 **Who is affected?** All federal authorities, cantonal governments, cantonal administrations and courts must cooperate in fulfilling their tasks. This concerns, for example, the police of different cantons in cross-border investigations or tax administrations in clarifying questions of residence.
 
-**What does the provision specifically require?** The Confederation and cantons must mutually support each other and show consideration for one another (Waldmann/Kraemer, BSK BV, Art. 44 N. 5). This is called federal loyalty and corresponds to the duty of mutual assistance between spouses under the Civil Code (Biaggini, BSK BV, Art. 44 N. 7). In addition, they owe each other administrative and judicial assistance. Administrative assistance means support in administrative proceedings, for example through information exchange. Judicial assistance encompasses support in court proceedings.
+**What does the provision specifically require?** The Confederation and cantons must mutually support each other and show consideration for one another. This is called federal loyalty and corresponds to the duty of mutual assistance between spouses under the Civil Code. In addition, they owe each other administrative and judicial assistance. Administrative assistance means support in administrative proceedings, for example through information exchange. Judicial assistance encompasses support in court proceedings.
 
 **Legal consequences:** In disputes between state levels, negotiations and mediation must first be attempted. The Federal Supreme Court decides only if these discussions fail. Violations of the cooperation obligation may be challenged by appeal (Art. 189 Cst.).
 

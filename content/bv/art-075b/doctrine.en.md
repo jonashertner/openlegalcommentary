@@ -16,11 +16,11 @@
 
 ### 2. Systematic Classification
 
-**N. 4** Art. 75b FC is a competence norm with directly effective elements (para. 1) and a legislative mandate (para. 2). Systematically, it supplements Art. 75 FC (spatial planning), which grants the Confederation only framework legislative competence. With the adoption of the second-homes initiative, the Confederation has an independent competence to regulate second-home construction, which according to the prevailing view is to be characterised as concurrent — i.e., subsequently derogating — federal competence: cantonal law remained applicable until the AFSH entered into force and has since been superseded to the extent that the Confederation has exhausted its competence (Biaggini, Art. 75b BV N. 3; SHK-Mösching, Art. 1 ZWG N. 4; contra BSK-Alig/Griffel, Art. 75b BV N. 8, who assume a comprehensive federal competence).
+**N. 4** Art. 75b FC is a competence norm with directly effective elements (para. 1) and a legislative mandate (para. 2). Systematically, it supplements Art. 75 FC (spatial planning), which grants the Confederation only framework legislative competence. With the adoption of the second-homes initiative, the Confederation has an independent competence to regulate second-home construction, which according to the prevailing view is to be characterised as concurrent — i.e., subsequently derogating — federal competence: cantonal law remained applicable until the AFSH entered into force and has since been superseded to the extent that the Confederation has exhausted its competence (Biaggini, Art. 75b BV N. 3; SHK-Mösching, Art. 1 ZWG N. 4).
 
 **N. 5** Art. 75b FC is closely substantively connected with Art. 78 para. 2 FC (nature and cultural heritage protection in the performance of federal tasks): the Federal Supreme Court characterised the capping of second-home construction as a federal task within the meaning of Art. 78 para. 2 FC, serving the protection of nature and the local landscape (**BGE 139 II 271** E. 11.2). This entails the standing to appeal of national organisations for the protection of nature and cultural heritage under Art. 12 of the Federal Act on the Protection of Nature and Cultural Heritage (NCHA) against building permits for second homes. The constitutional objective of spatial planning (→ Art. 75 FC), the guarantee of ownership (↔ Art. 26 FC), and the principle of proportionality (→ Art. 5 para. 2 FC) form the constitutional framework within which Art. 75b FC is to be read.
 
-**N. 6** Art. 75b para. 1 FC — comparable to the mire protection provision in Art. 78 para. 5 FC — claims priority over other constitutional provisions, in particular the guarantee of ownership (Art. 26 FC) and the requirement of proportionality (Art. 5 para. 2 FC). The 20% threshold precludes case-by-case assessments; objections based on proportionality must be accepted insofar as they follow from the wording of Art. 75b para. 1 FC itself (Mösching, Massnahmen, p. 88 ff.; BSK-Alig/Griffel, Art. 75b BV N. 8).
+**N. 6** Art. 75b para. 1 FC — comparable to the mire protection provision in Art. 78 para. 5 FC — claims priority over other constitutional provisions, in particular the guarantee of ownership (Art. 26 FC) and the requirement of proportionality (Art. 5 para. 2 FC). The 20% threshold precludes case-by-case assessments; objections based on proportionality must be accepted insofar as they follow from the wording of Art. 75b para. 1 FC itself (Mösching, Massnahmen, p. 88 ff.).
 
 ---
 
@@ -86,7 +86,6 @@
 
 *Bibliography (selected):*
 
-- Alig Jonas/Griffel Alain, in: Waldmann/Belser/Epiney (eds.), Basler Kommentar Bundesverfassung, Basel 2015 [BSK-Alig/Griffel]
 - Besse Marc-Olivier, in: Martenet/Dubey (eds.), Constitution fédérale, Commentaire Romand, Basel 2021 [CR-Besse]
 - Biaggini Giovanni, Bundesverfassung, 2nd ed. 2017
 - Mösching Fabian, Massnahmen zur Beschränkung von Zweitwohnungen, Diss. Bern 2014

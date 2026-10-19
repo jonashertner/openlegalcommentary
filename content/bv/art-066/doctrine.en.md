@@ -6,9 +6,9 @@
 
 **N. 1** Art. 66 BV has its roots in Art. 27quater of the old Federal Constitution, which was inserted in 1963. The provision arose as a response to the educational policy challenges of the post-war period, particularly the so-called «Sputnik shock» (Stirnimann, Vom Sputnik-Schock zum Stipendienkonkordat, 2010). The revision of the education articles in 2006, which came into force on 21 May 2006, brought about the current version of Art. 66 BV.
 
-**N. 2** The parliamentary deliberations revealed the tension between the need for harmonisation and cantonal educational sovereignty. The Federal Council message of 22 November 2005 (BBl 2005 7273) emphasised that the regulation of the scholarship system should remain primarily a cantonal task, while the Confederation only acts subsidiarily. This federalist basic orientation continues to shape the norm today (Hänni, BSK BV, Art. 66 N. 1).
+**N. 2** The parliamentary deliberations revealed the tension between the need for harmonisation and cantonal educational sovereignty. The Federal Council message of 22 November 2005 (BBl 2005 7273) emphasised that the regulation of the scholarship system should remain primarily a cantonal task, while the Confederation only acts subsidiarily. This federalist basic orientation continues to shape the norm today.
 
-**N. 3** The scholarship initiative of the Swiss Student Union (VSS), submitted on 20 January 2012, demanded a centralisation of competences with the Confederation. The Federal Council and Parliament rejected this with the argument that the already advanced cantonal harmonisation through the scholarship concordat was the right path (Hänni, BSK BV, Art. 66 N. 6). The initiative was rejected on 14 June 2015 with 72.5% no votes.
+**N. 3** The scholarship initiative of the Swiss Student Union (VSS), submitted on 20 January 2012, demanded a centralisation of competences with the Confederation. The Federal Council and Parliament rejected this with the argument that the already advanced cantonal harmonisation through the scholarship concordat was the right path. The initiative was rejected on 14 June 2015 with 72.5% no votes.
 
 ### 2. Systematic Classification
 
@@ -20,13 +20,13 @@
 
 ### 3. Elements of the Offence / Normative Content
 
-**N. 7** **Para. 1 sentence 1: Non-independent support competence.** The Confederation «may» grant contributions — the may-formulation establishes a facultative federal competence (Hänni, BSK BV, Art. 66 N. 7). The contributions are made «to» cantonal expenditures, not directly to students. This underscores the subsidiary character of federal support.
+**N. 7** **Para. 1 sentence 1: Non-independent support competence.** The Confederation «may» grant contributions — the may-formulation establishes a facultative federal competence. The contributions are made «to» cantonal expenditures, not directly to students. This underscores the subsidiary character of federal support.
 
-**N. 8** The term «education grants» includes scholarships (non-repayable benefits) and loans (repayable benefits). «Higher education institutions» means universities, universities of applied sciences and universities of teacher education. «Other institutions of higher education» covers higher vocational education and training (Hänni, BSK BV, Art. 66 N. 8).
+**N. 8** The term «education grants» includes scholarships (non-repayable benefits) and loans (repayable benefits). «Higher education institutions» means universities, universities of applied sciences and universities of teacher education. «Other institutions of higher education» covers higher vocational education and training.
 
-**N. 9** **Para. 1 sentence 2: Harmonisation competence.** The Confederation may promote «intercantonal harmonisation» and establish «principles». This competence is broader than the pure contribution competence and allows the Confederation to influence legal unification in a steering manner (Hänni, BSK BV, Art. 66 N. 10). The principles may include minimum standards for entitlement, assessment and procedure.
+**N. 9** **Para. 1 sentence 2: Harmonisation competence.** The Confederation may promote «intercantonal harmonisation» and establish «principles». This competence is broader than the pure contribution competence and allows the Confederation to influence legal unification in a steering manner. The principles may include minimum standards for entitlement, assessment and procedure.
 
-**N. 10** **Para. 2: Independent support competence.** «In addition» signals subsidiarity, «while respecting cantonal educational sovereignty» sets clear limits. The Confederation may develop its own programmes, but not in competition with the cantons. Examples include excellence grants or specific mobility programmes (Hänni, BSK BV, Art. 66 N. 12).
+**N. 10** **Para. 2: Independent support competence.** «In addition» signals subsidiarity, «while respecting cantonal educational sovereignty» sets clear limits. The Confederation may develop its own programmes, but not in competition with the cantons. Examples include excellence grants or specific mobility programmes.
 
 ### 4. Legal Consequences
 
@@ -38,9 +38,9 @@
 
 ### 5. Disputes
 
-**N. 14** **Scope of harmonisation competence:** The prevailing doctrine (Hänni, BSK BV, Art. 66 N. 11; Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, N. 3456) sees in Art. 66 para. 1 sentence 2 BV a limited competence to prescribe minimum standards. A minority opinion (represented by student organisations) argued for a more extensive unification competence of the Confederation — this position was rejected with the rejection of the scholarship initiative in 2015.
+**N. 14** **Scope of harmonisation competence:** The prevailing doctrine (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, N. 3456) sees in Art. 66 para. 1 sentence 2 BV a limited competence to prescribe minimum standards. A minority opinion (represented by student organisations) argued for a more extensive unification competence of the Confederation — this position was rejected with the rejection of the scholarship initiative in 2015.
 
-**N. 15** **Relationship of para. 1 to para. 2:** The relationship between the two paragraphs is disputed. While Hänni (BSK BV, Art. 66 N. 12) sees a clear separation between indirect support (para. 1) and direct support (para. 2), other authors (Aubert, Zum Bildungswesen, in: Müller/Feller, Bernisches Verwaltungsrecht, p. 245 ff.) advocate closer integration. Practice shows that the Confederation uses its competence under para. 2 very sparingly.
+**N. 15** **Relationship of para. 1 to para. 2:** The relationship between the two paragraphs is disputed. While Hänni sees a clear separation between indirect support (para. 1) and direct support (para. 2), other authors (Aubert, Zum Bildungswesen, in: Müller/Feller, Bernisches Verwaltungsrecht, p. 245 ff.) advocate closer integration. Practice shows that the Confederation uses its competence under para. 2 very sparingly.
 
 **N. 16** **Scholarship concordat and constitutional law:** The intercantonal concordat of 18 June 2009 raises questions about constitutional admissibility. Guery (Stipendienrecht: im Tauziehen zwischen Bildungs-, Sozial- und Finanzpolitik, recht 2012, 16 ff.) sees this as an exemplary implementation of cooperative federalism. Critical voices complain about incomplete harmonisation and demand more extensive federal competence.
 

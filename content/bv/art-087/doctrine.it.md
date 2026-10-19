@@ -34,7 +34,7 @@
 
 **N. 12** **Portata della competenza di navigazione**: Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10ᵃ ed. 2020, n. 1122) sostengono un'interpretazione restrittiva che comprende solo la navigazione commerciale. Ehrenzeller (St. Galler Kommentar BV, 4ᵃ ed. 2023, art. 87 n. 14) propone un'interpretazione più ampia che include anche la grande navigazione privata. La prassi segue la concezione più restrittiva.
 
-**N. 13** **Delimitazione ferrovia/tram**: Waldmann (BSK BV, 2ᵃ ed. 2024, art. 87 n. 8) vuole sottoporre i tram al diritto cantonale, nella misura in cui circolano prevalentemente nello spazio stradale. La dottrina dominante (Tschannen/Zimmerli/Müller, Verwaltungsrecht, 4ᵃ ed. 2014, § 63 n. 12) e la prassi attribuiscono tutti i veicoli vincolati a rotaie al diritto ferroviario.
+**N. 13** **Delimitazione ferrovia/tram**: Waldmann vuole sottoporre i tram al diritto cantonale, nella misura in cui circolano prevalentemente nello spazio stradale. La dottrina dominante (Tschannen/Zimmerli/Müller, Verwaltungsrecht, 4ᵃ ed. 2014, § 63 n. 12) e la prassi attribuiscono tutti i veicoli vincolati a rotaie al diritto ferroviario.
 
 **N. 14** **Competenza per i droni**: L'attribuzione di aeromobili senza pilota è controversa. Mentre Dettling-Ott (Luftrecht, 2020, p. 45) sostiene una competenza federale comprensiva, Griffel/Rausch (Umweltrecht, 2ᵃ ed. 2021, n. 856) vedono spazio per regolamentazioni cantonali complementari per impieghi locali. La LAv riveduta del 2023 rivendica una regolamentazione federale comprensiva.
 

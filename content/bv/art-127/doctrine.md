@@ -6,7 +6,7 @@
 
 **N. 1** Der heutige Art. 127 BV geht auf die Totalrevision der Bundesverfassung von 1999 zurück. Die Bestimmung fasst die zuvor in verschiedenen Artikeln der aBV verstreuten Besteuerungsgrundsätze systematisch zusammen (BBl 1997 I 417). Das Legalitätsprinzip war bereits in Art. 4 aBV angelegt, während das Leistungsfähigkeitsprinzip richterrechtlich aus dem Gleichheitssatz abgeleitet wurde. Das interkantonale Doppelbesteuerungsverbot war in Art. 46 Abs. 2 aBV ausdrücklich verankert.
 
-**N. 2** Der Verfassungsgeber beabsichtigte mit Art. 127 BV keine materielle Änderung, sondern eine Nachführung des geltenden Rechts mit präziserer Formulierung der anerkannten Besteuerungsgrundsätze (Behnisch, BSK BV, Art. 127 N. 1). Die Aufnahme des Leistungsfähigkeitsprinzips in Abs. 2 kodifiziert die langjährige Bundesgerichtspraxis zu Art. 4 aBV.
+**N. 2** Der Verfassungsgeber beabsichtigte mit Art. 127 BV keine materielle Änderung, sondern eine Nachführung des geltenden Rechts mit präziserer Formulierung der anerkannten Besteuerungsgrundsätze. Die Aufnahme des Leistungsfähigkeitsprinzips in Abs. 2 kodifiziert die langjährige Bundesgerichtspraxis zu Art. 4 aBV.
 
 ### 2. Systematik
 
@@ -16,7 +16,7 @@
 
 ### 3. Tatbestandsmerkmale
 
-**N. 5** **Legalitätsprinzip (Abs. 1)**: Erfasst werden sämtliche Steuern im Sinne voraussetzungsloser Abgaben zur Deckung des allgemeinen Finanzbedarfs. Das formelle Gesetz muss folgende Elemente regeln (Behnisch, BSK BV, Art. 127 N. 7; herrschende Lehre und Bundesgerichtspraxis):
+**N. 5** **Legalitätsprinzip (Abs. 1)**: Erfasst werden sämtliche Steuern im Sinne voraussetzungsloser Abgaben zur Deckung des allgemeinen Finanzbedarfs. Das formelle Gesetz muss folgende Elemente regeln (herrschende Lehre und Bundesgerichtspraxis):
 - Kreis der Steuersubjekte
 - Steuerobjekt
 - Sachliche Bemessung
@@ -25,23 +25,23 @@
 
 **N. 6** Die Anforderungen sind strikt: Blosse Ermächtigungen zur Steuererhebung genügen nicht (BGE 143 II 283). Auch kommunale Steuern bedürfen einer formell-gesetzlichen Grundlage auf kantonaler Ebene (BGE 140 I 176).
 
-**N. 7** **Besteuerungsgrundsätze (Abs. 2)**: Die Aufzählung ist nicht abschliessend («insbesondere»). Die **Allgemeinheit der Besteuerung** verbietet sachlich nicht gerechtfertigte Privilegien (Behnisch, BSK BV, Art. 127 N. 24-26). Die **Gleichmässigkeit** fordert konsequente Anwendung der Steuergesetze. Das **Leistungsfähigkeitsprinzip** verlangt Besteuerung nach der wirtschaftlichen Tragfähigkeit (BGE 137 II 353; Behnisch, BSK BV, Art. 127 N. 28-47).
+**N. 7** **Besteuerungsgrundsätze (Abs. 2)**: Die Aufzählung ist nicht abschliessend («insbesondere»). Die **Allgemeinheit der Besteuerung** verbietet sachlich nicht gerechtfertigte Privilegien. Die **Gleichmässigkeit** fordert konsequente Anwendung der Steuergesetze. Das **Leistungsfähigkeitsprinzip** verlangt Besteuerung nach der wirtschaftlichen Tragfähigkeit (BGE 137 II 353).
 
-**N. 8** **Doppelbesteuerungsverbot (Abs. 3)**: Verbietet die mehrfache Belastung desselben Steuerobjekts durch verschiedene Kantone für dieselbe Periode. Erfasst sind virtuelle und aktuelle Doppelbesteuerungen (Behnisch, BSK BV, Art. 127 N. 54-56). Der Bund muss die notwendigen Massnahmen treffen, primär durch das StHG.
+**N. 8** **Doppelbesteuerungsverbot (Abs. 3)**: Verbietet die mehrfache Belastung desselben Steuerobjekts durch verschiedene Kantone für dieselbe Periode. Erfasst sind virtuelle und aktuelle Doppelbesteuerungen. Der Bund muss die notwendigen Massnahmen treffen, primär durch das StHG.
 
 ### 4. Rechtsfolgen
 
-**N. 9** Bei Verletzung des **Legalitätsprinzips** sind Steuererlasse nichtig. Das Bundesgericht hebt ungenügende gesetzliche Grundlagen konsequent auf (BGE 143 II 283). Allerdings zeigt sich in der Praxis eine gewisse Zurückhaltung bei der Durchsetzung (Behnisch, BSK BV, Art. 127 N. 14-16: «Das Bundesgericht hat verschiedentlich ungenügende gesetzliche Grundlagen für die Besteuerung akzeptiert»).
+**N. 9** Bei Verletzung des **Legalitätsprinzips** sind Steuererlasse nichtig. Das Bundesgericht hebt ungenügende gesetzliche Grundlagen konsequent auf (BGE 143 II 283). Allerdings zeigt sich in der Praxis eine gewisse Zurückhaltung bei der Durchsetzung.
 
-**N. 10** Verstösse gegen die **Besteuerungsgrundsätze** führen zur Verfassungswidrigkeit der betroffenen Normen. Das Bundesgericht erklärt degressive Tarife als unvereinbar mit dem Leistungsfähigkeitsprinzip (BGE 133 I 206; Behnisch, BSK BV, Art. 127 N. 85-86). Progressive Tarife sind verfassungskonform, proportionale Tarife («Flat Tax») sind umstritten.
+**N. 10** Verstösse gegen die **Besteuerungsgrundsätze** führen zur Verfassungswidrigkeit der betroffenen Normen. Das Bundesgericht erklärt degressive Tarife als unvereinbar mit dem Leistungsfähigkeitsprinzip (BGE 133 I 206). Progressive Tarife sind verfassungskonform, proportionale Tarife («Flat Tax») sind umstritten.
 
 **N. 11** Bei **Doppelbesteuerung** kann der Betroffene mittels staatsrechtlicher Beschwerde ans Bundesgericht gelangen (→ Art. 189 Abs. 2 BV). Die neuere Praxis hat die Verwirkung des Beschwerderechts aufgegeben (BGE 149 II 354).
 
 ### 5. Streitstände
 
-**N. 12** **Degressive Besteuerung**: Das Bundesgericht hält (partiell) degressive Steuertarife für verfassungswidrig (BGE 133 I 206). Gewisse Ökonomen kritisieren das Leistungsfähigkeitsprinzip und plädieren für proportionale Tarife (Flat Rate Tax) oder sogar degressive Tarife (Behnisch, BSK BV, Art. 127 N. 85-86). Die herrschende Lehre stützt jedoch das bundesgerichtliche Progressivitätspostulat (Reich, Steuerrecht, § 2 N. 89; Matteotti, Steuergerechtigkeit, S. 234 ff.).
+**N. 12** **Degressive Besteuerung**: Das Bundesgericht hält (partiell) degressive Steuertarife für verfassungswidrig (BGE 133 I 206). Gewisse Ökonomen kritisieren das Leistungsfähigkeitsprinzip und plädieren für proportionale Tarife (Flat Rate Tax) oder sogar degressive Tarife. Die herrschende Lehre stützt jedoch das bundesgerichtliche Progressivitätspostulat (Reich, Steuerrecht, § 2 N. 89; Matteotti, Steuergerechtigkeit, S. 234 ff.).
 
-**N. 13** **Umfang des Legalitätsprinzips**: Während die herrschende Lehre alle wesentlichen Elemente im Gesetz verankert sehen will (Baumberger, AJP 2012, 908), akzeptiert die Praxis teilweise ungenügende gesetzliche Grundlagen (Behnisch, BSK BV, Art. 127 N. 14-16). Diese Diskrepanz zwischen Verfassungstext und -wirklichkeit wird in der Literatur kritisiert (Klett, ZSR 1992 II 45).
+**N. 13** **Umfang des Legalitätsprinzips**: Während die herrschende Lehre alle wesentlichen Elemente im Gesetz verankert sehen will (Baumberger, AJP 2012, 908), akzeptiert die Praxis teilweise ungenügende gesetzliche Grundlagen. Diese Diskrepanz zwischen Verfassungstext und -wirklichkeit wird in der Literatur kritisiert (Klett, ZSR 1992 II 45).
 
 **N. 14** **Reichweite des Doppelbesteuerungsverbots**: Strittig ist, ob auch die internationale Doppelbesteuerung erfasst ist. Die herrschende Lehre und Praxis beschränken Art. 127 Abs. 3 BV auf interkantonale Verhältnisse (Locher, Interkantonales Steuerrecht, § 1 N. 12; Höhn/Mäusli, Interkantonales Steuerrecht, § 2 N. 8). Eine Minderheit plädiert für erweiterten Schutz (Senn, Besteuerungsgrundsätze, S. 167).
 

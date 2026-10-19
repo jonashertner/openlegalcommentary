@@ -48,7 +48,7 @@
 
 **N. 14** La disposizione ha principalmente carattere di diritto organizzativo. Non fonda diritti soggettivi di singoli o di Cantoni alla rappresentanza nel Consiglio federale.
 
-**N. 15** Il mancato rispetto della prescrizione di rappresentanza del cpv. 4 non comporta l'invalidità di un'elezione. La disposizione è concepita come direttiva politica, non come norma giuridica giustiziabile (Waldmann/Belser/Epiney, BSK BV, 2a ed. 2024, art. 175 n. 22).
+**N. 15** Il mancato rispetto della prescrizione di rappresentanza del cpv. 4 non comporta l'invalidità di un'elezione. La disposizione è concepita come direttiva politica, non come norma giuridica giustiziabile.
 
 **N. 16** Le elezioni del Consiglio federale non sono sindacabili giudizialmente secondo **DTF 1C_649/2015**. L'art. 189 cpv. 4 Cost. esclude l'impugnazione di atti dell'Assemblea federale presso il Tribunale federale.
 
@@ -56,7 +56,7 @@
 
 **N. 17** Nella dottrina è controverso quanto vincolante sia il riguardo per la rappresentanza regionale e linguistica. Una parte della dottrina considera il cpv. 4 come mera massima politica senza vincolo giuridico (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10a ed. 2020, n. 1659). Altri autori vi vedono un obbligo giuridico con margine di apprezzamento (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4a ed. 2023, art. 175 n. 19).
 
-**N. 18** È discussa in modo controverso anche la questione della rappresentanza specifica di genere. Mentre l'iniziativa parlamentare 93.406 («Les deux sexes au Conseil fédéral») fallì nel 1994, singole voci nella dottrina sostengono che dall'art. 8 cpv. 3 Cost. si possa derivare un obbligo di adeguata rappresentanza di genere (Müller/Schefer, Grundrechte in der Schweiz, 4a ed. 2008, p. 746). La dottrina dominante respinge ciò (Waldmann/Belser/Epiney, BSK BV, 2a ed. 2024, art. 175 n. 24).
+**N. 18** È discussa in modo controverso anche la questione della rappresentanza specifica di genere. Mentre l'iniziativa parlamentare 93.406 («Les deux sexes au Conseil fédéral») fallì nel 1994, singole voci nella dottrina sostengono che dall'art. 8 cpv. 3 Cost. si possa derivare un obbligo di adeguata rappresentanza di genere (Müller/Schefer, Grundrechte in der Schweiz, 4a ed. 2008, p. 746). La dottrina dominante respinge ciò.
 
 **N. 19** La dimensione ottimale del Consiglio federale viene discussa periodicamente. Le proposte vanno da cinque a nove membri. I sostenitori di un ingrandimento argomentano con l'aumentato carico di lavoro e migliori possibilità di rappresentanza (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3a ed. 2016, n. 3148). I critici temono perdite di efficienza e un indebolimento del principio collegiale.
 

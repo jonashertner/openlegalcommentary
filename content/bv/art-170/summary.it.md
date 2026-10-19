@@ -4,7 +4,7 @@
 
 L'art. 170 Cost. obbliga l'Assemblea federale a far sì che le misure statali della Confederazione siano verificate quanto alla loro efficacia. Questa disposizione è un'innovazione costituzionale della Costituzione federale del 1999 senza corrispondenza nell'antica Costituzione federale del 1874 (SGK-Uhlmann/Bussmann, Art. 170 BV, n. 1).
 
-L'Assemblea federale non deve effettuare personalmente le verifiche di efficacia, ma può delegarle al Consiglio federale, agli organi ausiliari parlamentari o a istanze esterne (BSK-Lienhard/Mächler/Marti Locher, Art. 170 BV, n. 11). Nella prassi il Parlamento adempie questo mandato principalmente mediante clausole di valutazione nelle leggi, che obbligano il Consiglio federale a verificare determinate misure. Attualmente esistono circa 110 di tali clausole nel diritto federale.
+L'Assemblea federale non deve effettuare personalmente le verifiche di efficacia, ma può delegarle al Consiglio federale, agli organi ausiliari parlamentari o a istanze esterne. Nella prassi il Parlamento adempie questo mandato principalmente mediante clausole di valutazione nelle leggi, che obbligano il Consiglio federale a verificare determinate misure. Attualmente esistono circa 110 di tali clausole nel diritto federale.
 
 L'«efficacia» è intesa in senso ampio e comprende tre criteri parziali (SGK-Uhlmann/Bussmann, Art. 170 BV, n. 20 segg.): il grado di attuazione (la misura è effettivamente attuata?), il grado di realizzazione degli obiettivi (la misura raggiunge i suoi obiettivi?) e l'economicità (i costi e i benefici sono in rapporto adeguato?).
 

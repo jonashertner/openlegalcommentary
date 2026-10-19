@@ -2,7 +2,7 @@
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Die Bundeskompetenz im Postwesen geht auf Art. 33 der Bundesverfassung von 1848 zurück, welcher dem Bund das ausschliessliche Recht zur Errichtung von Posten verlieh (BBl 1997 I 1, 336). Das Fernmeldewesen wurde schrittweise integriert: 1851 erhielt der Bund die Telegrafenhoheit, wobei die verfassungsrechtliche Grundlage umstritten war. Der Bundesrat stützte das Telegrafenwesen auf das Postregal, da «Mitteilungen mittels Telegrafen im Wesen den Briefkorrespondenzen entsprechen» (Kern, BSK BV, Art. 92 N. 3). Die Parlamentskommission widersprach vehement: Eine Unterstellung unter das Postregal komme dem Versuch gleich, «dem Blitz den Radschuh des Postwagens unterlegen zu wollen» (Kern, BSK BV, Art. 92 N. 3).
+**N. 1** Die Bundeskompetenz im Postwesen geht auf Art. 33 der Bundesverfassung von 1848 zurück, welcher dem Bund das ausschliessliche Recht zur Errichtung von Posten verlieh (BBl 1997 I 1, 336). Das Fernmeldewesen wurde schrittweise integriert: 1851 erhielt der Bund die Telegrafenhoheit, wobei die verfassungsrechtliche Grundlage umstritten war. Der Bundesrat stützte das Telegrafenwesen auf das Postregal, da «Mitteilungen mittels Telegrafen im Wesen den Briefkorrespondenzen entsprechen». Die Parlamentskommission widersprach vehement: Eine Unterstellung unter das Postregal komme dem Versuch gleich, «dem Blitz den Radschuh des Postwagens unterlegen zu wollen».
 
 **N. 2** Die Totalrevision von 1999 übernahm die bewährte Bundeskompetenz, passte sie aber an die veränderten technologischen und wirtschaftlichen Rahmenbedingungen an. Der Verfassungsgeber verzichtete bewusst auf die Festschreibung eines Monopols und ermöglichte damit die schrittweise Marktöffnung bei gleichzeitiger Sicherstellung der Grundversorgung (BBl 1997 I 336f.). Die Formulierung «Sache des Bundes» signalisiert eine umfassende Bundeskompetenz, lässt aber die konkrete Ausgestaltung offen.
 
@@ -18,7 +18,7 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 5** **«Post- und Fernmeldewesen»** (Abs. 1) umfasst sämtliche Dienstleistungen der körperlichen und elektronischen Nachrichtenübermittlung. Das Postwesen beinhaltet die Beförderung von Briefen, Paketen und den Zahlungsverkehr. Umstritten ist die Reichweite: Burckhardt verneinte die Einbeziehung des Check- und Giroverkehrs in die Verfassungsgrundlage (Kern, BSK BV, Art. 92 N. 6). Die herrschende Lehre bejaht heute eine weite Auslegung, die auch Postfinance-Dienstleistungen erfasst (Rhinow/Schefer/Uebersax, Verfassungsrecht, N 3456).
+**N. 5** **«Post- und Fernmeldewesen»** (Abs. 1) umfasst sämtliche Dienstleistungen der körperlichen und elektronischen Nachrichtenübermittlung. Das Postwesen beinhaltet die Beförderung von Briefen, Paketen und den Zahlungsverkehr. Umstritten ist die Reichweite: Burckhardt verneinte die Einbeziehung des Check- und Giroverkehrs in die Verfassungsgrundlage. Die herrschende Lehre bejaht heute eine weite Auslegung, die auch Postfinance-Dienstleistungen erfasst (Rhinow/Schefer/Uebersax, Verfassungsrecht, N 3456).
 
 **N. 6** Das **Fernmeldewesen** erfasst alle Formen der Nachrichtenübermittlung mittels elektromagnetischer Wellen oder leitungsgebundener Systeme. Darunter fallen Telefonie, Internet, Mobilfunk und Rundfunkübertragung (technische Aspekte). Die inhaltliche Regulierung von Radio und Fernsehen fällt unter Art. 93 BV (Barrelet/Werly, Droit de la communication, N 1234).
 
@@ -40,7 +40,7 @@
 
 ### 5. Streitstände
 
-**N. 14** **Privatisierung der Bundesbetriebe**: Die Zulässigkeit einer vollständigen Privatisierung ist umstritten. Aubert/Mahon leiten aus der Bezeichnung als «Sache des Bundes» ein Privatisierungsverbot ab – der Verfassungswille manifestiere sich in der Aufrechterhaltung staatlicher Kontrolle (Kern, BSK BV, Art. 92 N. 15). Biaggini vertritt die Gegenposition: Eine vollständige Privatisierung sei zulässig, solange die Grundversorgungsziele durch Regulierung erreicht werden können (Kern, BSK BV, Art. 92 N. 15). Die Praxis zeigt einen Mittelweg: Swisscom wurde teilprivatisiert, die Post bleibt in Bundesbesitz.
+**N. 14** **Privatisierung der Bundesbetriebe**: Die Zulässigkeit einer vollständigen Privatisierung ist umstritten. Aubert/Mahon leiten aus der Bezeichnung als «Sache des Bundes» ein Privatisierungsverbot ab – der Verfassungswille manifestiere sich in der Aufrechterhaltung staatlicher Kontrolle. Biaggini vertritt die Gegenposition: Eine vollständige Privatisierung sei zulässig, solange die Grundversorgungsziele durch Regulierung erreicht werden können. Die Praxis zeigt einen Mittelweg: Swisscom wurde teilprivatisiert, die Post bleibt in Bundesbesitz.
 
 **N. 15** **Umfang der Grundversorgung**: Die dynamische Auslegung des Grundversorgungsbegriffs führt zu Kontroversen. Während Trüeb für eine minimalistische Interpretation plädiert, die nur lebensnotwendige Dienste umfasst (Trüeb, AJP 2002, 1190), fordern Hänni/Stöckli eine grosszügige Auslegung, die der technologischen Entwicklung Rechnung trägt (Wirtschaftsverwaltungsrecht, S. 234). Das Bundesgericht folgt einer vermittelnden Linie (**BGE 129 III 35**).
 

@@ -2,7 +2,7 @@
 
 ### 1. Historique
 
-**N. 1** L'art. 143 Cst. a repris le contenu de la réglementation de la Constitution fédérale de 1874 (art. 75, 96 et 108 ancCst.) et l'a étendue de manière systématique (Schaub, BSK BV, art. 143 n. 1). La révision totale de 1999 a réuni dans une seule norme les dispositions relatives à l'éligibilité au Conseil national, au Conseil fédéral et au Tribunal fédéral, auparavant réparties sur trois articles.
+**N. 1** L'art. 143 Cst. a repris le contenu de la réglementation de la Constitution fédérale de 1874 (art. 75, 96 et 108 ancCst.) et l'a étendue de manière systématique. La révision totale de 1999 a réuni dans une seule norme les dispositions relatives à l'éligibilité au Conseil national, au Conseil fédéral et au Tribunal fédéral, auparavant réparties sur trois articles.
 
 **N. 2** Le Conseil constitutionnel a discuté d'un élargissement du champ d'application à l'éligibilité au Conseil des États (art. 133 AP 1996), mais l'a rejeté en faveur de la compétence cantonale de réglementation. La suppression de la clause d'exclusion historique pour les ecclésiastiques a eu lieu dès 1986 pour le Conseil fédéral et a été reprise lors de la révision totale pour les trois autorités fédérales (FF 1997 I 421).
 
@@ -15,7 +15,7 @@
 - les **incompatibilités** entre différentes charges (art. 144 Cst.)
 - les **procédures d'élection** (→ art. 149 al. 2, art. 157 al. 1, art. 168 al. 1, art. 175 al. 2 Cst.)
 
-**N. 5** Pour le Conseil des États, il n'existe pas de réglementation fédérale de l'éligibilité ; celle-ci reste réservée au droit cantonal selon l'art. 150 al. 3 Cst. (Schaub, BSK BV, art. 143 n. 5).
+**N. 5** Pour le Conseil des États, il n'existe pas de réglementation fédérale de l'éligibilité; celle-ci reste réservée au droit cantonal selon l'art. 150 al. 3 Cst..
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
@@ -32,15 +32,15 @@
 
 **N. 9** L'art. 143 Cst. fonde un droit subjectif à l'éligibilité pour tous les citoyens ayant le droit de vote. Ce droit ne peut être limité que par des dispositions d'incompatibilité conformes à la Constitution ou par des conditions légales d'éligibilité.
 
-**N. 10** L'élection d'une personne non éligible est nulle. Sägesser postule la nullité de l'élection en cas d'absence d'éligibilité au moment de l'élection (Sägesser, BSK BV, art. 143 n. 6). Aubert/Mahon et Biaggini représentent en revanche une position plus différenciée, selon laquelle les conséquences juridiques dépendent du vice d'éligibilité concret.
+**N. 10** L'élection d'une personne non éligible est nulle. Sägesser postule la nullité de l'élection en cas d'absence d'éligibilité au moment de l'élection. Aubert/Mahon et Biaggini représentent en revanche une position plus différenciée, selon laquelle les conséquences juridiques dépendent du vice d'éligibilité concret.
 
 ### 5. Questions controversées
 
-**N. 11** **Conditions d'éligibilité supplémentaires par le législateur** : La doctrine dominante (SG Komm. BV-Lüthi, BSK BGG-Kiener) soutient que les conditions mentionnées à l'art. 143 Cst. sont exhaustives. Sägesser considère en revanche qu'il est admissible que le législateur fixe d'autres conditions d'éligibilité lorsque la charge exige une formation particulière, notamment une formation juridique pour les juges fédéraux (Sägesser, BSK BV, art. 143 n. 6).
+**N. 11** **Conditions d'éligibilité supplémentaires par le législateur**: La doctrine dominante soutient que les conditions mentionnées à l'art. 143 Cst. sont exhaustives. Sägesser considère en revanche qu'il est admissible que le législateur fixe d'autres conditions d'éligibilité lorsque la charge exige une formation particulière, notamment une formation juridique pour les juges fédéraux.
 
 **N. 12** **Applicabilité de l'interdiction d'exercer une profession du droit pénal** : Il est controversé de savoir si l'interdiction d'exercer une profession selon l'art. 67 CP est applicable aux autorités fédérales suprêmes. Rhinow/Schefer l'affirment en argumentant que les mandats politiques doivent aussi être qualifiés d'« activité » au sens de la norme pénale. Biaggini rejette cette conception et argumente avec la primauté de la norme constitutionnelle plus spéciale.
 
-**N. 13** **Juge non professionnel au Tribunal fédéral** : La tradition démocratique du juge non professionnel est en tension avec la professionnalisation de la justice. Kiener souligne que l'organisation judiciaire se caractérise par la primauté des conceptions démocratiques (Kiener, BSK BGG, art. 5 n. 10). L'admissibilité d'exigences de qualification supplémentaires pour les juges fédéraux reste controversée (→ n. 11).
+**N. 13** **Juge non professionnel au Tribunal fédéral**: La tradition démocratique du juge non professionnel est en tension avec la professionnalisation de la justice. Kiener souligne que l'organisation judiciaire se caractérise par la primauté des conceptions démocratiques. L'admissibilité d'exigences de qualification supplémentaires pour les juges fédéraux reste controversée (→ n. 11).
 
 ### 6. Indications pratiques
 

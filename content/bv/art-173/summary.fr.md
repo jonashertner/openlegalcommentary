@@ -8,4 +8,4 @@ Les compétences les plus importantes concernent la sécurité extérieure et in
 
 D'autres compétences importantes sont l'examen de la validité des initiatives populaires et la décision en cas de conflits entre autorités fédérales. Ainsi, le Tribunal fédéral a précisé dans l'**ATF 129 II 193** que le Conseil fédéral, en tant que gouvernement, possède des compétences propres. L'Assemblée fédérale peut également prononcer des grâces et décider d'amnisties, de tels actes étant politiquement controversés.
 
-En tant que règle de rattrapage, l'Assemblée fédérale traite toutes les affaires de la Confédération qui ne sont attribuées à aucune autre autorité (al. 2). Cela évite les lacunes de compétence dans le droit de l'organisation de l'État (Waldmann, BSK BV, 2e éd. 2024, art. 173 n° 20).
+En tant que règle de rattrapage, l'Assemblée fédérale traite toutes les affaires de la Confédération qui ne sont attribuées à aucune autre autorité (al. 2). Cela évite les lacunes de compétence dans le droit de l'organisation de l'État.

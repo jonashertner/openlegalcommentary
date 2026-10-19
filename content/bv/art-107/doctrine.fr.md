@@ -12,15 +12,15 @@
 
 **Ch. 3** L'art. 107 Cst. est classé dans le 3e chapitre « Ordre financier et économique », ce qui souligne la dimension de politique économique du contrôle des armes. La norme est en relation étroite avec l'→ art. 54 Cst. (Affaires étrangères), l'→ art. 118 al. 2 let. a Cst. (compétence en matière d'explosifs) ainsi que les → art. 184 et 185 Cst. (politique de sécurité).
 
-**Ch. 4** La compétence est conçue comme une compétence fédérale globale. Contrairement aux compétences concurrentes, le droit fédéral évince ici toute réglementation cantonale dans le domaine d'application de la norme (Künzli, BSK BV, art. 107 ch. 4-5). Les cantons ne conservent que les compétences d'exécution dans la mesure où le droit fédéral les prévoit.
+**Ch. 4** La compétence est conçue comme une compétence fédérale globale. Contrairement aux compétences concurrentes, le droit fédéral évince ici toute réglementation cantonale dans le domaine d'application de la norme. Les cantons ne conservent que les compétences d'exécution dans la mesure où le droit fédéral les prévoit.
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
 **Ch. 5** **Armes, accessoires d'armes et munitions (al. 1) :** Le concept d'arme comprend selon la loi sur les armes tous les appareils et dispositifs qui peuvent être utilisés pour l'attaque, la défense, le tir, le sport, la chasse ou à des fins pouvant causer un dommage à autrui. La compétence fédérale s'étend à tous les aspects du commerce de ces objets.
 
-**Ch. 6** **Lutte contre les abus (al. 1) :** Malgré le libellé « contre les abus », la compétence fédérale n'est pas limitée aux mesures répressives. Elle comprend plutôt des réglementations préventives comme les obligations d'autorisation, les systèmes d'enregistrement et les prescriptions de sécurité (Künzli, BSK BV, art. 107 ch. 8-13).
+**Ch. 6** **Lutte contre les abus (al. 1) :** Malgré le libellé « contre les abus », la compétence fédérale n'est pas limitée aux mesures répressives. Elle comprend plutôt des réglementations préventives comme les obligations d'autorisation, les systèmes d'enregistrement et les prescriptions de sécurité.
 
-**Ch. 7** **Matériel de guerre (al. 2) :** Le concept comprend les armes, munitions, matériel de guerre et leurs composants qui sont spécifiquement conçus ou modifiés pour la guerre ou les exercices militaires. La définition figure de manière exhaustive dans l'ordonnance sur le matériel de guerre (Künzli, BSK BV, art. 107 ch. 22-25).
+**Ch. 7** **Matériel de guerre (al. 2) :** Le concept comprend les armes, munitions, matériel de guerre et leurs composants qui sont spécifiquement conçus ou modifiés pour la guerre ou les exercices militaires. La définition figure de manière exhaustive dans l'ordonnance sur le matériel de guerre.
 
 ### 4. Effets juridiques
 
@@ -30,9 +30,9 @@
 
 ### 5. Points controversés
 
-**Ch. 10** **Portée de la compétence fédérale après Schengen :** Un point controversé concerne la question de savoir si la Confédération a outrepassé ses compétences avec la reprise du droit de Schengen sur les armes. Certains auteurs soutiennent que la Confédération a épuisé ou même outrepassé ses compétences seulement fragmentaires, limitées à la lutte contre les abus. Künzli objecte que cette conception semble au moins douteuse, car la législation suisse sur les armes continue de partir du principe du droit d'acquérir, de posséder et de porter des armes (Künzli, BSK BV, art. 107 ch. 13).
+**Ch. 10** **Portée de la compétence fédérale après Schengen :** Un point controversé concerne la question de savoir si la Confédération a outrepassé ses compétences avec la reprise du droit de Schengen sur les armes. Certains auteurs soutiennent que la Confédération a épuisé ou même outrepassé ses compétences seulement fragmentaires, limitées à la lutte contre les abus. Künzli objecte que cette conception semble au moins douteuse, car la législation suisse sur les armes continue de partir du principe du droit d'acquérir, de posséder et de porter des armes.
 
-**Ch. 11** **Restrictions du droit de la neutralité :** La portée des restrictions du droit de la neutralité pour les exportations d'armements privées est controversée. La position officielle de la Suisse indique que cette restriction ne vaut que pour les livraisons étatiques. Künzli critique cette position : étant donné qu'aujourd'hui les États soumettent également les exportations d'armements privées à une obligation d'autorisation et possèdent ainsi le droit de décision finale sur l'admissibilité d'une affaire étrangère avec des armes, cette conception ne peut plus convaincre (Künzli, BSK BV, art. 107 ch. 21).
+**Ch. 11** **Restrictions du droit de la neutralité :** La portée des restrictions du droit de la neutralité pour les exportations d'armements privées est controversée. La position officielle de la Suisse indique que cette restriction ne vaut que pour les livraisons étatiques. Künzli critique cette position: étant donné qu'aujourd'hui les États soumettent également les exportations d'armements privées à une obligation d'autorisation et possèdent ainsi le droit de décision finale sur l'admissibilité d'une affaire étrangère avec des armes, cette conception ne peut plus convaincre.
 
 ### 6. Indications pratiques
 

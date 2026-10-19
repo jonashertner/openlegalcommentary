@@ -6,7 +6,7 @@ Art. 58 BV verpflichtet die Schweiz, eine Armee zu unterhalten. Diese ist grunds
 
 Das Milizprinzip bedeutet: Schweizer Männer leisten Militärdienst nebenamtlich, meist an Wochenenden und in Blöcken. Die Militärdienstpflicht ergibt sich aus Art. 59 BV, die Ersatzabgabe für Dienstuntaugliche aus demselben Artikel. Ein kleiner Berufskern ergänzt die Milizsoldaten in technischen Bereichen.
 
-Die Schweiz kann nicht einfach auf ihre Armee verzichten — das würde eine Verfassungsänderung erfordern. Die Doktrin ist umstritten beim Begriff «Verteidigung»: Eine weite Auslegung umfasst alle militärischen Abwehrmassnahmen, eine enge nur Bedrohungen «von strategischem Ausmass» (Diggelmann/Altwicker, BSK BV, Art. 58 N. 12).
+Die Schweiz kann nicht einfach auf ihre Armee verzichten — das würde eine Verfassungsänderung erfordern. Die Doktrin ist umstritten beim Begriff «Verteidigung»: Eine weite Auslegung umfasst alle militärischen Abwehrmassnahmen, eine enge nur Bedrohungen «von strategischem Ausmass».
 
 ## Anwendungsbereich
 

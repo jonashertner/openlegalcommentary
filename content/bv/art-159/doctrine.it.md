@@ -41,7 +41,7 @@
 
 **N. 11** La **dichiarazione d'urgenza delle leggi federali** (lett. a) consente l'entrata in vigore immediata prima della scadenza del termine referendario. Il Tribunale federale ha stabilito che la clausola d'urgenza deve essere interpretata restrittivamente, poiché limita i diritti referendari degli aventi diritto di voto (**DTF 147 I 420** consid. 4.2). I presupposti materiali dell'urgenza sono disciplinati nell'→ art. 165 Cost.
 
-**N. 12** Le **soglie finanziarie** (lett. b) ammontano a 20 milioni di franchi per le uscite non ricorrenti e a 2 milioni di franchi per le uscite ricorrenti. Come uscite «nuove» si considerano quelle che non sono già previste in una legge o in un decreto federale di obbligatorietà generale. Determinante è l'importo totale di un credito, non le singole tranche (Sägesser, BSK BV, art. 159 N. 18).
+**N. 12** Le **soglie finanziarie** (lett. b) ammontano a 20 milioni di franchi per le uscite non ricorrenti e a 2 milioni di franchi per le uscite ricorrenti. Come uscite «nuove» si considerano quelle che non sono già previste in una legge o in un decreto federale di obbligatorietà generale. Determinante è l'importo totale di un credito, non le singole tranche.
 
 **N. 13** L'**aumento delle uscite totali in caso di fabbisogno di pagamenti straordinario** (lett. c) si riferisce all'→ art. 126 cpv. 3 Cost. (freno all'indebitamento). Questa disposizione consente in situazioni straordinarie (grave recessione, catastrofi naturali) un superamento del limite massimo delle uscite.
 
@@ -61,7 +61,7 @@
 
 **N. 18** È controverso se il quorum deliberativo debba essere valutato secondo gli stessi criteri anche per le sedute elettroniche o ibride. **Ehrenzeller** (St. Galler Kommentar, art. 159 N. 5) sostiene che «presenza» presuppone la presenza fisica. **Graf** (Die Organisation der Bundesversammlung, pag. 234) propugna invece un'interpretazione funzionale che comprenda anche la partecipazione virtuale, purché l'identità dei partecipanti sia stabilita senza dubbio e sia garantita una partecipazione equivalente.
 
-**N. 19** È anche discussa in modo controverso la portata dell'adeguamento al rincaro secondo il cpv. 4. **Sägesser** (BSK BV, art. 159 N. 22) interpreta la competenza in senso restrittivo e consente solo un adeguamento all'indice nazionale dei prezzi al consumo. **Vallender** (St. Galler Kommentar, art. 159 N. 12) ritiene ammissibile una certa flessibilità, ad esempio l'uso di specifici indici parziali.
+**N. 19** È anche discussa in modo controverso la portata dell'adeguamento al rincaro secondo il cpv. 4. **Sägesser** interpreta la competenza in senso restrittivo e consente solo un adeguamento all'indice nazionale dei prezzi al consumo. **Vallender** (St. Galler Kommentar, art. 159 N. 12) ritiene ammissibile una certa flessibilità, ad esempio l'uso di specifici indici parziali.
 
 ### 6. Indicazioni per la prassi
 

@@ -18,11 +18,11 @@
 
 ### Civil Law (Para. 1)
 
-**N. 6** The concept of civil law encompasses, according to prevailing doctrine and consistent case law, the entire private law, i.e., legal relationships between equal legal subjects. Göksu (BSK BV, Art. 122 N. 7) emphasises that civil law includes all legal norms that pursue typically private law objectives and traditionally belong to the private law domain. The Federal Supreme Court applies methodological pluralism to distinguish between public law and private law, whereby no single theory of distinction has a priori precedence (**BGE 146 I 70** para. 5.2).
+**N. 6** The concept of civil law encompasses, according to prevailing doctrine and consistent case law, the entire private law, i.e., legal relationships between equal legal subjects. Göksu emphasises that civil law includes all legal norms that pursue typically private law objectives and traditionally belong to the private law domain. The Federal Supreme Court applies methodological pluralism to distinguish between public law and private law, whereby no single theory of distinction has a priori precedence (**BGE 146 I 70** para. 5.2).
 
-**N. 7** The Confederation's complete codification competence is comprehensive. Göksu (BSK BV, Art. 122 N. 5) states: «From the principle of complete codification it follows that there is no room left for cantonal civil law at all, not even in areas that are not regulated by federal law from a civil law perspective.» This position contrasts with older Federal Supreme Court case law (**BGE 73 I 228**), which permitted the cantons under certain conditions to use civil law means within the framework of public law orders.
+**N. 7** The Confederation's complete codification competence is comprehensive. Göksu states: «From the principle of complete codification it follows that there is no room left for cantonal civil law at all, not even in areas that are not regulated by federal law from a civil law perspective.» This position contrasts with older Federal Supreme Court case law (**BGE 73 I 228**), which permitted the cantons under certain conditions to use civil law means within the framework of public law orders.
 
-**N. 8** Parts of the doctrine take a less absolute position. They argue that while Art. 122 BV assigns a subject area comprehensively to the Confederation for legislation, it does not do so exclusively, which allows the cantons to enact their own civil law, provided the Confederation has not legislated conclusively (Göksu, BSK BV, Art. 122 N. 6, with reference to dissenting doctrinal opinions). This controversy is practically significant in assessing cantonal regulations with civil law effects, for example in the area of building law or pre-emption rights in favour of public authorities.
+**N. 8** Parts of the doctrine take a less absolute position. They argue that while Art. 122 BV assigns a subject area comprehensively to the Confederation for legislation, it does not do so exclusively, which allows the cantons to enact their own civil law, provided the Confederation has not legislated conclusively. This controversy is practically significant in assessing cantonal regulations with civil law effects, for example in the area of building law or pre-emption rights in favour of public authorities.
 
 ### Civil Procedure Law (Para. 1)
 
@@ -32,13 +32,13 @@
 
 ### Organisation of Courts (Para. 2)
 
-**N. 11** The organisation of courts encompasses, according to Göksu (BSK BV, Art. 122 N. 59-60), the creation of courts, their designation, their hierarchical structure, their territorial jurisdiction, as well as the requirements for the election of judges. These areas remain principally within cantonal competence, insofar as federal law contains no deviating provisions.
+**N. 11** The organisation of courts encompasses, according to Göksu, the creation of courts, their designation, their hierarchical structure, their territorial jurisdiction, as well as the requirements for the election of judges. These areas remain principally within cantonal competence, insofar as federal law contains no deviating provisions.
 
 **N. 12** The federal law restrictions on cantonal organisational autonomy are manifold. → Art. 75 para. 2 FSCA requires a double cantonal instance procedure for access to the Federal Supreme Court. The CPC contains mandatory requirements for subject-matter and functional jurisdiction in Art. 3 ff. The Federal Supreme Court confirmed in **BGE 137 III 217** that such federal law requirements are compatible with cantonal organisational sovereignty.
 
 ### Administration of Justice in Civil Matters (Para. 2)
 
-**N. 13** The cantonal competence for the administration of justice means that the cantonal courts are responsible for applying substantive civil law and conducting civil procedural proceedings. Göksu (BSK BV, Art. 122 N. 68) characterises this competence as a legal nature. The restrictions result from special federal law provisions, such as the jurisdiction of the Federal Patent Court for patent disputes or arbitration tribunals in the health insurance sector (**BGE 135 V 443**).
+**N. 13** The cantonal competence for the administration of justice means that the cantonal courts are responsible for applying substantive civil law and conducting civil procedural proceedings. Göksu characterises this competence as a legal nature. The restrictions result from special federal law provisions, such as the jurisdiction of the Federal Patent Court for patent disputes or arbitration tribunals in the health insurance sector (**BGE 135 V 443**).
 
 ## 4. Legal Consequences
 
@@ -50,9 +50,9 @@
 
 ## 5. Controversies
 
-**N. 17** The central controversy concerns the scope of federal complete codification. While Göksu (BSK BV, Art. 122 N. 6) takes the position that «neither the mentioned (old) Federal Supreme Court case law nor the further-reaching conclusions in doctrine can be defended with regard to Art. 122 BV and Art. 5 CC», other authors maintain the possibility of cantonal civil law regulations with public law purposes. These different views have practical consequences, for example with cantonal pre-emption rights or building law easements.
+**N. 17** The central controversy concerns the scope of federal complete codification. While Göksu takes the position that «neither the mentioned (old) Federal Supreme Court case law nor the further-reaching conclusions in doctrine can be defended with regard to Art. 122 BV and Art. 5 CC», other authors maintain the possibility of cantonal civil law regulations with public law purposes. These different views have practical consequences, for example with cantonal pre-emption rights or building law easements.
 
-**N. 18** Another point of controversy concerns the delimitation methodology. Fritz Gygi developed the subject area theory, which does not start from the distinction between public law and private law, but connects to the subject areas for which federal competence is provided (Göksu, BSK BV, Art. 122 N. 41). Göksu criticises that while this theory is tailored to the constitutional provision, it fails in other cases where a distinction must be made between public law and private law (BSK BV, Art. 122 N. 41).
+**N. 18** Another point of controversy concerns the delimitation methodology. Fritz Gygi developed the subject area theory, which does not start from the distinction between public law and private law, but connects to the subject areas for which federal competence is provided. Göksu criticises that while this theory is tailored to the constitutional provision, it fails in other cases where a distinction must be made between public law and private law.
 
 **N. 19** The scope of cantonal procedural autonomy in the area of voluntary jurisdiction is disputed. While the Federal Supreme Court in **BGE 139 III 225** grants the cantons extensive design freedom, provided federal law does not prescribe a judicial authority, parts of the doctrine advocate for more extensive application of the CPC to ensure procedural unity.
 

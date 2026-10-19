@@ -18,17 +18,17 @@
 
 **N. 5** Der Opferbegriff setzt voraus, dass eine Person durch eine Straftat in ihrer körperlichen, psychischen oder sexuellen Unversehrtheit beeinträchtigt wurde. Die Rechtsprechung legt den Begriff der Straftat weit aus und erfasst auch fahrlässige Erfolgsdelikten mit grossem zeitlichem Abstand zwischen Tathandlung und Erfolgseintritt (**BGE 134 II 308 E. 5**). Entscheidend ist die Verwirklichung der objektiven und subjektiven Tatbestandsmerkmale, nicht das sorgfaltswidrige Verhalten als solches.
 
-**N. 6** Göksu (BSK BV, Art. 124 N. 4-5) betont, dass nur natürliche Personen Opfer sein können. Die Beeinträchtigung muss unmittelbar durch die Straftat verursacht worden sein. Neben den Primäropfern erfasst Art. 124 BV auch Angehörige als Sekundäropfer, sofern sie durch die Straftat selbst in ihrer psychischen Integrität beeinträchtigt wurden.
+**N. 6** Göksu betont, dass nur natürliche Personen Opfer sein können. Die Beeinträchtigung muss unmittelbar durch die Straftat verursacht worden sein. Neben den Primäropfern erfasst Art. 124 BV auch Angehörige als Sekundäropfer, sofern sie durch die Straftat selbst in ihrer psychischen Integrität beeinträchtigt wurden.
 
 ### 3.2 Hilfeleistung
 
-**N. 7** Die verfassungsrechtlich gebotene «Hilfe» umfasst nach herrschender Lehre ein dreistufiges System: Soforthilfe, längerfristige Hilfe und finanzielle Leistungen. Umstritten ist, ob die Opferhilfe auch präventiv greift. Ein Teil der Literatur vertritt die Ansicht, dass die Opferhilfe nicht erst bei Vorliegen einer Straftat, sondern bereits bei deren Androhung greifen sollte. Göksu (BSK BV, Art. 124 N. 7) widerspricht dieser Auslegung mit dem Argument, dass sie weder im Wortlaut noch in den Materialien eine Stütze finde. Die bundesgerichtliche Praxis hat sich zu dieser Kontroverse noch nicht definitiv geäussert.
+**N. 7** Die verfassungsrechtlich gebotene «Hilfe» umfasst nach herrschender Lehre ein dreistufiges System: Soforthilfe, längerfristige Hilfe und finanzielle Leistungen. Umstritten ist, ob die Opferhilfe auch präventiv greift. Ein Teil der Literatur vertritt die Ansicht, dass die Opferhilfe nicht erst bei Vorliegen einer Straftat, sondern bereits bei deren Androhung greifen sollte. Göksu widerspricht dieser Auslegung mit dem Argument, dass sie weder im Wortlaut noch in den Materialien eine Stütze finde. Die bundesgerichtliche Praxis hat sich zu dieser Kontroverse noch nicht definitiv geäussert.
 
 ### 3.3 Angemessene Entschädigung
 
 **N. 8** Die «angemessene Entschädigung» ist an die Voraussetzung geknüpft, dass das Opfer durch die Straftat in wirtschaftliche Schwierigkeiten geraten ist. Die Rechtsprechung konkretisiert diese Schwierigkeiten unter Rückgriff auf das System der Ergänzungsleistungen (**BGE 131 II 217**). Die Entschädigung hat subsidiären Charakter; Leistungen Dritter werden angerechnet.
 
-**N. 9** Göksu (BSK BV, Art. 124 N. 8-10) führt aus, dass die Angemessenheit der Entschädigung eine Abwägung zwischen den finanziellen Verhältnissen des Opfers und dem erlittenen Schaden erfordert. Die Entschädigung muss nicht den vollen Schaden decken, sondern soll wirtschaftliche Notlagen verhindern oder abmildern.
+**N. 9** Göksu führt aus, dass die Angemessenheit der Entschädigung eine Abwägung zwischen den finanziellen Verhältnissen des Opfers und dem erlittenen Schaden erfordert. Die Entschädigung muss nicht den vollen Schaden decken, sondern soll wirtschaftliche Notlagen verhindern oder abmildern.
 
 ## 4. Rechtsfolgen
 
@@ -40,7 +40,7 @@
 
 ### 5.1 Präventive Opferhilfe
 
-**N. 12** Ein zentraler Streitpunkt betrifft die Frage, ob die Opferhilfe bereits bei Androhung einer Straftat greift. Gomm/Zehntner (Kommentar OHG, 3. Aufl. 2009, Art. 1 N. 15) und Leubin Müller (AJP 2012, 1585, 1587) vertreten die Ansicht, dass der Schutzzweck der Opferhilfe auch präventive Massnahmen umfasse. Dem widerspricht Göksu (BSK BV, Art. 124 N. 7) mit dem Hinweis auf den eindeutigen Wortlaut («durch eine Straftat») und die fehlende Stütze in den Materialien. Die Praxis der kantonalen Opferhilfestellen ist uneinheitlich.
+**N. 12** Ein zentraler Streitpunkt betrifft die Frage, ob die Opferhilfe bereits bei Androhung einer Straftat greift. Gomm/Zehntner (Kommentar OHG, 3. Aufl. 2009, Art. 1 N. 15) und Leubin Müller (AJP 2012, 1585, 1587) vertreten die Ansicht, dass der Schutzzweck der Opferhilfe auch präventive Massnahmen umfasse. Dem widerspricht Göksu mit dem Hinweis auf den eindeutigen Wortlaut («durch eine Straftat») und die fehlende Stütze in den Materialien. Die Praxis der kantonalen Opferhilfestellen ist uneinheitlich.
 
 ### 5.2 Verhältnis zur unentgeltlichen Rechtspflege
 
@@ -52,4 +52,4 @@
 
 **N. 15** Bei Langzeitschäden (Asbest, HIV-Infektionen) beginnt die Verwirkungsfrist erst mit Erkennbarkeit der Schädigung (**BGE 126 II 348**). Die Beratungsstellen sind verpflichtet, auf diese Besonderheiten hinzuweisen und bei der Gesuchsformulierung zu unterstützen.
 
-**N. 16** Im grenzüberschreitenden Kontext ist der völkerrechtliche Zusammenhang zu beachten. Göksu (BSK BV, Art. 124 N. 11) verweist auf das Europäische Übereinkommen über die Entschädigung für Opfer von Gewalttaten (SR 0.312.5) und die EU-Opferschutzrichtlinie 2012/29/EU. Schweizer Opfer von Gewalttaten im EU-Raum können sich auf diese Instrumente berufen.
+**N. 16** Im grenzüberschreitenden Kontext ist der völkerrechtliche Zusammenhang zu beachten. Göksu verweist auf das Europäische Übereinkommen über die Entschädigung für Opfer von Gewalttaten (SR 0.312.5) und die EU-Opferschutzrichtlinie 2012/29/EU. Schweizer Opfer von Gewalttaten im EU-Raum können sich auf diese Instrumente berufen.

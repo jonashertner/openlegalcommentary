@@ -2,7 +2,7 @@ The consultation procedure under Art. 147 Cst. is an important instrument of par
 
 **Who is affected?** Obligatory participants are all cantons as an expression of cooperative federalism. The political parties are consulted as bearers of political will-formation. The «interested circles» encompass associations, organisations and other actors who are affected by the proposal.
 
-**What is consulted on?** The consultation procedure takes place for three categories: important enactments (new acts or significant amendments), other projects of great significance (political programmes) and important international treaties. Legal doctrine debates whether consultation is necessary for every legislative amendment. While the Consultation Act (ConsA) generally provides for this, Schiess Rütimann criticises this extensive practice as unconstitutional (BSK BV, Art. 147 N. 16).
+**What is consulted on?** The consultation procedure takes place for three categories: important enactments (new acts or significant amendments), other projects of great significance (political programmes) and important international treaties. Legal doctrine debates whether consultation is necessary for every legislative amendment. While the Consultation Act (ConsA) generally provides for this, Schiess Rütimann criticises this extensive practice as unconstitutional.
 
 **What are the legal consequences?** The procedure is consultative – the comments are not binding on the authorities. The Federal Constitution does not establish a subjective right to the conduct of a consultation. Case law has confirmed that there is no constitutional right to a hearing in legislative procedures (**BGE 121 I 230**).
 

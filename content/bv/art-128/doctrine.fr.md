@@ -6,7 +6,7 @@
 
 **N. 1** L'impôt fédéral direct est un instrument de financement de la Confédération historiquement controversé. La limitation dans le temps de cette compétence, ancrée à l'art. 196 ch. 13 Cst., reflète le compromis fédéraliste entre les besoins de financement de la Confédération et la souveraineté fiscale des cantons. Depuis 1915, la compétence de la Confédération de percevoir des impôts directs a été prolongée de manière répétée et limitée dans le temps. La nouvelle Constitution fédérale de 1999 a repris la réglementation du régime financier (FF 1997 I 544).
 
-**N. 2** La limitation jusqu'en 2035 (art. 196 ch. 13 Cst.) est jugée de manière critique dans la doctrine. Vallender/Cavelti (BSK BV, Art. 128 N. 6) considèrent la limitation comme inappropriée d'un point de vue de théorie constitutionnelle, car la reprise illimitée de tâches par la Confédération présuppose impérativement un financement illimité garanti.
+**N. 2** La limitation jusqu'en 2035 (art. 196 ch. 13 Cst.) est jugée de manière critique dans la doctrine. Vallender/Cavelti considèrent la limitation comme inappropriée d'un point de vue de théorie constitutionnelle, car la reprise illimitée de tâches par la Confédération présuppose impérativement un financement illimité garanti.
 
 **N. 3** L'introduction de la compensation de la progression à froid à l'al. 3 a eu lieu avec la votation populaire du 20 mai 1991. Auparavant, la progression à froid n'était compensée que de manière irrégulière et partielle depuis 1973 (FF 1990 I 1265).
 
@@ -16,7 +16,7 @@
 
 **N. 5** Le fédéralisme d'exécution (al. 4) est caractéristique du régime financier suisse. Les cantons établissent et perçoivent l'impôt fédéral direct, bien que la créance fiscale matérielle revienne principalement à la Confédération (**ATF 141 I 161** consid. 4.2.1). Cette réglementation relie systématiquement l'impôt fédéral au droit fiscal cantonal.
 
-**N. 6** L'ancrage des taux maximaux dans la Constitution (al. 1) est inhabituel. Vallender/Cavelti (BSK BV, Art. 128 N. 10) soulignent que ces prescriptions matérielles ont parfaitement une pertinence constitutionnelle et sont donc dignes de figurer dans la Constitution.
+**N. 6** L'ancrage des taux maximaux dans la Constitution (al. 1) est inhabituel. Vallender/Cavelti soulignent que ces prescriptions matérielles ont parfaitement une pertinence constitutionnelle et sont donc dignes de figurer dans la Constitution.
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
@@ -28,7 +28,7 @@
 - 11,5% sur le revenu des personnes physiques
 - 8,5% sur le bénéfice net des personnes morales
 
-**N. 9** L'interprétation du taux maximal de 11,5% est controversée. Selon la doctrine dominante (Locher, BSK BV, Art. 128 N. 14 ; Vallender/Looser, BSK BV, Art. 128 N. 14), celui-ci doit être compris comme un taux d'impôt moyen. Une opinion minoritaire (BV 1874-Höhn/Vallender) l'interprète comme un taux marginal d'imposition.
+**N. 9** L'interprétation du taux maximal de 11,5% est controversée. Selon la doctrine dominante, celui-ci doit être compris comme un taux d'impôt moyen. Une opinion minoritaire (BV 1874-Höhn/Vallender) l'interprète comme un taux marginal d'imposition.
 
 **N. 10** **Obligation de prise en considération (al. 2) :** La Confédération doit tenir compte de la charge fiscale des cantons et des communes lors de l'aménagement des tarifs. Cette obligation concrétise le principe de la capacité économique (→ art. 127 al. 2 Cst.).
 
@@ -46,7 +46,7 @@
 
 ### 5. Points litigieux
 
-**N. 16** **Limitation de la compétence dans le temps :** Vallender/Cavelti (BSK BV, Art. 128 N. 6) critiquent la limitation comme inappropriée du point de vue de la théorie constitutionnelle. La position contraire souligne le caractère de compromis fédéraliste de la réglementation.
+**N. 16** **Limitation de la compétence dans le temps :** Vallender/Cavelti critiquent la limitation comme inappropriée du point de vue de la théorie constitutionnelle. La position contraire souligne le caractère de compromis fédéraliste de la réglementation.
 
 **N. 17** **Interprétation des taux maximaux :** Le différend entre taux d'impôt moyen (Locher, Vallender/Looser) et taux marginal d'imposition (BV 1874-Höhn/Vallender) reste indécis faute de pertinence pratique.
 

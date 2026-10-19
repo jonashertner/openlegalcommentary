@@ -63,7 +63,7 @@
 
 **N. 15** Kontrovers diskutiert wird auch die Reichweite der Selbstverwaltung bei der Budgethoheit. Müller/Schefer, Grundrechte in der Schweiz, 4. Aufl. 2008, S. 962, fordern eine vollständige Budgetautonomie, während die herrschende Lehre (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 11 N 28) die parlamentarische Budgethoheit als verfassungsrechtlich vorrangig erachtet.
 
-**N. 16** Die Tragweite des Gesetzesvorbehalts für Verfahrensreglemente ist ebenfalls strittig. Ein Teil der Lehre (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 188 N 15) verlangt eine explizite gesetzliche Ermächtigung, während andere (Kley, ZSR 2020, S. 215) die Selbstverwaltungsgarantie als hinreichende Grundlage ansehen.
+**N. 16** Die Tragweite des Gesetzesvorbehalts für Verfahrensreglemente ist ebenfalls strittig. Ein Teil der Lehre verlangt eine explizite gesetzliche Ermächtigung, während andere (Kley, ZSR 2020, S. 215) die Selbstverwaltungsgarantie als hinreichende Grundlage ansehen.
 
 ## 6. Praxishinweise
 

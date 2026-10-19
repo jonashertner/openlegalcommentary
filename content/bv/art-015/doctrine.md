@@ -84,7 +84,7 @@
 
 #### 5.4 Korporative Religionsfreiheit
 
-**N. 25** Ob und inwieweit juristische Personen mit religiösem Zweck Träger der Glaubens- und Gewissensfreiheit sind, war unter dem alten Verfassungsrecht umstritten. Die Botschaft (BBl 1997 I 155) und der Ständerat (Inderkum) gingen von einem individualrechtlichen Charakter der Norm aus. Das Bundesgericht hat jedoch in konstanter Praxis religiöse Körperschaften als Grundrechtsträger anerkannt (**BGE 145 I 121 E. 23**; **BGE 142 I 195 E. 5.2 ff.**) und damit die enge parlamentarische Lesart überwunden. Pahud de Mortanges (BSK BV, Art. 15 N. 1) sieht darin eine systemkonforme Entwicklung in Richtung eines umfassenden Schutzes kollektiver Religionsausübung.
+**N. 25** Ob und inwieweit juristische Personen mit religiösem Zweck Träger der Glaubens- und Gewissensfreiheit sind, war unter dem alten Verfassungsrecht umstritten. Die Botschaft (BBl 1997 I 155) und der Ständerat (Inderkum) gingen von einem individualrechtlichen Charakter der Norm aus. Das Bundesgericht hat jedoch in konstanter Praxis religiöse Körperschaften als Grundrechtsträger anerkannt (**BGE 145 I 121 E. 23**; **BGE 142 I 195 E. 5.2 ff.**) und damit die enge parlamentarische Lesart überwunden. Pahud de Mortanges sieht darin eine systemkonforme Entwicklung in Richtung eines umfassenden Schutzes kollektiver Religionsausübung.
 
 ---
 

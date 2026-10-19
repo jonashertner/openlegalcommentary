@@ -18,7 +18,7 @@
 
 **N. 5** **Trattazione separata (cpv. 1)**: Il principio della trattazione separata significa che il Consiglio nazionale e il Consiglio degli Stati tengono le loro sedute separatamente e deliberano indipendentemente l'uno dall'altro. Secondo Ehrenzeller/Schindler/Schweizer/Vallender (Commentario sangallese Cost., 4ª ed. 2023, art. 156 N. 3) ciò è espressione della piena parità di diritti di entrambe le Camere e impedisce la dominanza di un Consiglio.
 
-**N. 6** **Concordanza (cpv. 2)**: Il principio del consenso richiede la concordanza di contenuto di entrambi i Consigli per ogni decreto dell'Assemblea federale. Secondo Waldmann/Belser/Epiney (BSK Cost., 2ª ed. 2024, art. 156 N. 8) non basta la semplice maggioranza in un parlamento globale, ma occorrono decisioni identiche di entrambe le Camere. Ciò vale per leggi, ordinanze dell'Assemblea federale, decreti federali e decreti federali semplici (→ art. 163 Cost.).
+**N. 6** **Concordanza (cpv. 2)**: Il principio del consenso richiede la concordanza di contenuto di entrambi i Consigli per ogni decreto dell'Assemblea federale. Secondo Waldmann/Belser/Epiney non basta la semplice maggioranza in un parlamento globale, ma occorrono decisioni identiche di entrambe le Camere. Ciò vale per leggi, ordinanze dell'Assemblea federale, decreti federali e decreti federali semplici (→ art. 163 Cost.).
 
 **N. 7** **Procedura di appianamento delle divergenze (cpv. 3)**: La Costituzione obbliga il legislatore a prevedere una procedura che consenta una soluzione in caso di divergenze di opinione. Gli ambiti elencati nelle lett. a–d sono secondo Tschannen (in: Commentario sangallese Cost., art. 156 N. 12) esaustivi, il che significa che in altri ambiti rimane possibile un blocco da parte di un Consiglio.
 
@@ -34,7 +34,7 @@
 
 **N. 11** **Portata del principio del consenso**: In dottrina è controverso fino a che punto si estenda il requisito di concordanza. Mentre Rhinow/Schefer/Uebersax (Diritto costituzionale svizzero, 3ª ed. 2016, § 15 N. 42) sostengono un'interpretazione rigorosa, secondo la quale ogni divergenza anche solo redazionale esclude la concordanza, Graf/Theler/von Wyss (Diritto parlamentare e prassi parlamentare, 2014, § 23 N. 15) propugnano una visione più pragmatica che tollera divergenze non essenziali.
 
-**N. 12** **Giustiziabilità delle regole procedurali**: È controverso se e in che misura le violazioni dell'art. 156 Cost. siano sindacabili giudizialmente. Müller (in: BSK Cost., art. 156 N. 14) sostiene che gravi errori procedurali nella procedura legislativa possono portare all'invalidità dell'atto normativo. La dottrina dominante (Tschannen/Zimmerli/Müller, Diritto amministrativo generale, 4ª ed. 2014, § 28 N. 32) considera tuttavia le regole procedurali parlamentari come ampiamente non giustiziabili.
+**N. 12** **Giustiziabilità delle regole procedurali**: È controverso se e in che misura le violazioni dell'art. 156 Cost. siano sindacabili giudizialmente. Müller sostiene che gravi errori procedurali nella procedura legislativa possono portare all'invalidità dell'atto normativo. La dottrina dominante (Tschannen/Zimmerli/Müller, Diritto amministrativo generale, 4ª ed. 2014, § 28 N. 32) considera tuttavia le regole procedurali parlamentari come ampiamente non giustiziabili.
 
 ### 6. Indicazioni per la prassi
 

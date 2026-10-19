@@ -21,7 +21,7 @@ Diese Rechte sind nicht grenzenlos. Der Staat darf sie einschränken, aber nur m
 ³ BGE 127 I 6 E. 5a; SGK-Schweizer, Art. 10 BV N. 4
 ⁴ BGE 2C_451/2020 E. 6.2.3
 ⁵ Urteil 2C_218/2013 vom 26.3.2013 E. 3.1
-⁶ BGE 146 IV 76 E. 4.2; BSK-Tschentscher, Art. 10 BV N. 28
+⁶ BGE 146 IV 76 E. 4.2
 ⁷ Häfelin/Haller/Keller/Thurnherr, N. 372
 ⁸ BGE 136 I 87 E. 6.5; Art. 36 BV
 ⁹ Urteil 1B_416/2019 vom 12.9.2019 E. 4.3

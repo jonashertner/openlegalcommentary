@@ -8,7 +8,7 @@ Art. 109 BV ermächtigt den Bund, Vorschriften gegen Missbräuche im Mietwesen z
 
 ### In Kürze
 
-Art. 109 BV gibt dem Bund die Kompetenz, Mieter vor Missbrauch zu schützen. Diese Verfassungsbestimmung entstand in den 1970er-Jahren als Reaktion auf Wohnungsknappheit und schützt Mieter als schwächere Vertragspartei (Cardinaux, BSK BV, Art. 109 N. 10). Der Bund hat diese Kompetenz in den Art. 253-274g OR umgesetzt. Die Norm verbietet überhöhte Mieten und willkürliche Kündigungen. Bei Härtefällen können Mietverhältnisse zeitlich verlängert werden. Die bundesrechtliche Regelung geht kantonalem Recht vor (**BGE 149 I 25** E. 4.4.5).
+Art. 109 BV gibt dem Bund die Kompetenz, Mieter vor Missbrauch zu schützen. Diese Verfassungsbestimmung entstand in den 1970er-Jahren als Reaktion auf Wohnungsknappheit und schützt Mieter als schwächere Vertragspartei. Der Bund hat diese Kompetenz in den Art. 253-274g OR umgesetzt. Die Norm verbietet überhöhte Mieten und willkürliche Kündigungen. Bei Härtefällen können Mietverhältnisse zeitlich verlängert werden. Die bundesrechtliche Regelung geht kantonalem Recht vor (**BGE 149 I 25** E. 4.4.5).
 
 ### Praktische Bedeutung
 

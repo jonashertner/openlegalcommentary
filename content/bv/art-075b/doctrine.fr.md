@@ -86,7 +86,6 @@
 
 *Littérature citée (sélection) :*
 
-- Alig Jonas/Griffel Alain, in : Waldmann/Belser/Epiney (éd.), Basler Kommentar Bundesverfassung, Bâle 2015 [CBK-Alig/Griffel]
 - Besse Marc-Olivier, in : Martenet/Dubey (éd.), Constitution fédérale, Commentaire Romand, Bâle 2021 [CR-Besse]
 - Biaggini Giovanni, Bundesverfassung, 2e éd. 2017
 - Mösching Fabian, Massnahmen zur Beschränkung von Zweitwohnungen, thèse Berne 2014

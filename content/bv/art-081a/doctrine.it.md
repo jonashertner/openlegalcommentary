@@ -6,7 +6,7 @@
 
 **N. 1** L'art. 81a Cost. è stato inserito nella Costituzione federale nell'ambito della riforma ferroviaria 2 mediante votazione popolare del 20 febbraio 2005 (FF 2005 2297). La disposizione ha sostituito la disposizione transitoria a tempo determinato dell'art. 196 n. 3 Cost. relativa al finanziamento del traffico pubblico, che sarebbe scaduta il 31 dicembre 2007 (FF 2004 6241, 6254). Il costituente perseguiva tre obiettivi principali: primo, garantire durevolmente il finanziamento del traffico pubblico, secondo, ancorare un'offerta sufficiente come mandato costituzionale e terzo, sancire il principio del finanziamento da parte degli utenti (FF 2004 6246).
 
-**N. 2** La formulazione del cpv. 2 è stata discussa intensamente. Il Consiglio federale aveva inizialmente proposto che i costi fossero coperti «di regola» dagli utenti, che il Consiglio degli Stati ha attenuato in «in linea di principio». La conferenza di conciliazione si è infine accordata sulla formulazione «in misura adeguata» (FF 2004 6247). Questa genesi mostra la volontà del costituente di ancorare da un lato il principio di causalità, dall'altro di lasciare margine per considerazioni di politica sociale e ambientale (Kern, BSK BV, Art. 81a N. 1).
+**N. 2** La formulazione del cpv. 2 è stata discussa intensamente. Il Consiglio federale aveva inizialmente proposto che i costi fossero coperti «di regola» dagli utenti, che il Consiglio degli Stati ha attenuato in «in linea di principio». La conferenza di conciliazione si è infine accordata sulla formulazione «in misura adeguata» (FF 2004 6247). Questa genesi mostra la volontà del costituente di ancorare da un lato il principio di causalità, dall'altro di lasciare margine per considerazioni di politica sociale e ambientale.
 
 ### 2. Collocazione sistematica
 
@@ -16,13 +16,13 @@
 
 ### 3. Elementi della fattispecie / Contenuto normativo
 
-**N. 5** **Il capoverso 1** statuisce un triplice mandato costituzionale: Confederazione e Cantoni provvedono insieme a (1) un'offerta sufficiente, (2) di traffico pubblico, (3) su rotaia, strada, acqua e con funicolari, (4) in tutte le regioni del Paese. Il concetto di «offerta sufficiente» è una nozione giuridica indeterminata che viene concretizzata dalla legislazione e dalla prassi. Secondo Griffel essa si riferisce esclusivamente all'accessibilità generale (BSK BV-Kern, Art. 81a N. 10 cita Griffel).
+**N. 5** **Il capoverso 1** statuisce un triplice mandato costituzionale: Confederazione e Cantoni provvedono insieme a (1) un'offerta sufficiente, (2) di traffico pubblico, (3) su rotaia, strada, acqua e con funicolari, (4) in tutte le regioni del Paese. Il concetto di «offerta sufficiente» è una nozione giuridica indeterminata che viene concretizzata dalla legislazione e dalla prassi. Secondo Griffel essa si riferisce esclusivamente all'accessibilità generale.
 
-**N. 6** L'«offerta sufficiente» comprende aspetti quantitativi (frequenza, copertura della rete) e qualitativi (affidabilità, comfort, accessibilità). Il diritto non si rivolge agli individui, ma obbliga Confederazione e Cantoni all'adempimento comune del compito. La formulazione «in tutte le regioni del Paese» concretizza l'obbligo del servizio di base e richiede un allacciamento capillare anche delle regioni periferiche (Kern, BSK BV, Art. 81a N. 7–9).
+**N. 6** L'«offerta sufficiente» comprende aspetti quantitativi (frequenza, copertura della rete) e qualitativi (affidabilità, comfort, accessibilità). Il diritto non si rivolge agli individui, ma obbliga Confederazione e Cantoni all'adempimento comune del compito. La formulazione «in tutte le regioni del Paese» concretizza l'obbligo del servizio di base e richiede un allacciamento capillare anche delle regioni periferiche.
 
 **N. 7** **Il capoverso 2** ancora il principio del finanziamento da parte degli utenti: i costi del traffico pubblico sono coperti «in misura adeguata» dai prezzi pagati dalle utenti e dagli utenti. L'espressione «misura adeguata» è anch'essa una nozione giuridica indeterminata. Il Tribunale federale ha chiarito in **DTF 149 I 182** che questa parte non può essere nulla — un finanziamento completamente gratuito è incostituzionale.
 
-**N. 8** Nella considerazione del traffico merci su rotaia secondo il cpv. 1 si tratta del coordinamento con il traffico passeggeri nell'assegnazione dei tracciati e nella pianificazione dell'infrastruttura. La disposizione non richiede una parità di trattamento, ma una considerazione adeguata delle esigenze del traffico merci (Kern, BSK BV, Art. 81a N. 11–12).
+**N. 8** Nella considerazione del traffico merci su rotaia secondo il cpv. 1 si tratta del coordinamento con il traffico passeggeri nell'assegnazione dei tracciati e nella pianificazione dell'infrastruttura. La disposizione non richiede una parità di trattamento, ma una considerazione adeguata delle esigenze del traffico merci.
 
 ### 4. Conseguenze giuridiche
 
@@ -34,7 +34,7 @@
 
 ### 5. Controversie
 
-**N. 12** **Limite massimo controverso per i prezzi di trasporto**: Nella dottrina è controverso se l'art. 81a cpv. 2 Cost. statuisca un limite massimo per i prezzi di trasporto. Uhlmann (SG Komm. BV, Art. 81a N. 34) sostiene la posizione che la disposizione rappresenti un limite massimo globale: una copertura completa dei costi attraverso i prezzi degli utenti sarebbe dunque inammissibile, poiché negherebbe il carattere di interesse generale del traffico pubblico. Kern contraddice questa concezione (BSK BV, Art. 81a N. 32): la disposizione non statuisce alcun limite massimo e non esclude una copertura completa dei costi.
+**N. 12** **Limite massimo controverso per i prezzi di trasporto**: Nella dottrina è controverso se l'art. 81a cpv. 2 Cost. statuisca un limite massimo per i prezzi di trasporto. Uhlmann (SG Komm. BV, Art. 81a N. 34) sostiene la posizione che la disposizione rappresenti un limite massimo globale: una copertura completa dei costi attraverso i prezzi degli utenti sarebbe dunque inammissibile, poiché negherebbe il carattere di interesse generale del traffico pubblico. Kern contraddice questa concezione: la disposizione non statuisce alcun limite massimo e non esclude una copertura completa dei costi.
 
 **N. 13** **Grado adeguato di copertura dei costi**: Ciò che vale come «parte adeguata» della copertura dei costi è controverso nella dottrina. La prassi mostra gradi di copertura dei costi tra il 40% e il 60% nel traffico regionale e fino all'80% nel traffico a lunga distanza. Stückelberger/Haldimann (Schienenverkehrsrecht, 2008, p. 265) propugnano una considerazione differenziata secondo il tipo di traffico e la regione. Il Tribunale federale finora non ha definito un limite inferiore in percentuali, ma ha solo chiarito che una tariffa zero è inammissibile (**DTF 149 I 182**).
 

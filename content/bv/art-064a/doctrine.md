@@ -4,7 +4,7 @@
 
 ### 1. Entstehungsgeschichte
 
-**N. 1** Art. 64a BV wurde im Rahmen der Bildungsverfassung vom 21. Mai 2006 in die Bundesverfassung eingefügt (BBl 2005 7273). Wie die WBK-NR in ihrem Bericht festhält, wurden die bestehenden bruchstückhaften Kompetenzen als nicht mehr ausreichend angesehen (Hänni, BSK BV, Art. 64a N. 2-3). Der Verfassungsgeber wollte einheitliche Förderkompetenzen für alle Bereiche der Weiterbildung festlegen.
+**N. 1** Art. 64a BV wurde im Rahmen der Bildungsverfassung vom 21. Mai 2006 in die Bundesverfassung eingefügt (BBl 2005 7273). Wie die WBK-NR in ihrem Bericht festhält, wurden die bestehenden bruchstückhaften Kompetenzen als nicht mehr ausreichend angesehen. Der Verfassungsgeber wollte einheitliche Förderkompetenzen für alle Bereiche der Weiterbildung festlegen.
 
 **N. 2** Die Bestimmung ersetzt Art. 34 Abs. 1 lit. g aBV, der dem Bund lediglich eine punktuelle Kompetenz im Bereich der beruflichen Weiterbildung einräumte. Die neue Verfassungsbestimmung sollte dem Bund eine umfassende, bereichsübergreifende Kompetenz zur Förderung der Weiterbildung verleihen (BBl 2013 3729, 3732).
 
@@ -20,7 +20,7 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** **Grundsätze über die Weiterbildung (Abs. 1):** Der Bundesrat hat gemäss seiner Stellungnahme zum Bericht WBK-NR die Pflicht zur Festlegung von Grundsätzen in Form von fünf Prinzipien konkretisiert (Hänni, BSK BV, Art. 64a N. 11): Verantwortung, Qualität, Durchlässigkeit, Anrechenbarkeit von Bildungsleistungen und Chancengleichheit.
+**N. 7** **Grundsätze über die Weiterbildung (Abs. 1):** Der Bundesrat hat gemäss seiner Stellungnahme zum Bericht WBK-NR die Pflicht zur Festlegung von Grundsätzen in Form von fünf Prinzipien konkretisiert: Verantwortung, Qualität, Durchlässigkeit, Anrechenbarkeit von Bildungsleistungen und Chancengleichheit.
 
 **N. 8** **Weiterbildungsbegriff:** Der Begriff umfasst die «nicht-formale Bildung» (strukturierte Bildung ausserhalb der formalen Bildung) und das «informelle Lernen» (nicht-strukturiertes Lernen im Alltag). Die formale Bildung der Sekundarstufe II und der Tertiärstufe fällt nicht unter Art. 64a BV, sondern unter → Art. 63 BV und → Art. 63a BV (Biaggini, Komm. BV, Art. 64a N. 3).
 
@@ -30,7 +30,7 @@
 
 ### 4. Rechtsfolgen
 
-**N. 11** Art. 64a BV begründet als Kompetenznorm keine subjektiven Rechte auf Weiterbildung oder Weiterbildungsförderung. Die Bestimmung hat programmatischen Charakter und bedarf der Konkretisierung durch die Gesetzgebung (Hänni, BSK BV, Art. 64a N. 16).
+**N. 11** Art. 64a BV begründet als Kompetenznorm keine subjektiven Rechte auf Weiterbildung oder Weiterbildungsförderung. Die Bestimmung hat programmatischen Charakter und bedarf der Konkretisierung durch die Gesetzgebung.
 
 **N. 12** Die Grundsatzgesetzgebungskompetenz (Abs. 1) verpflichtet den Bund, Rahmenbestimmungen zu erlassen. Diese Pflicht wurde mit dem WeBiG erfüllt. Die Förderkompetenz (Abs. 2) ist hingegen fakultativ ausgestaltet.
 
@@ -40,7 +40,7 @@
 
 **N. 14** **Reichweite der Bundeskompetenz:** Ehrenzeller (SG Komm. BV, Art. 64a N. 7) vertritt eine weite Auslegung der Förderkompetenz, die auch strukturelle Massnahmen umfasst. Biaggini (Komm. BV, Art. 64a N. 5) plädiert für eine restriktivere Interpretation, die sich auf finanzielle Förderung und Koordination beschränkt.
 
-**N. 15** **Abgrenzung zur formalen Bildung:** Die Doktrin ist sich uneinig über die Abgrenzung zwischen Weiterbildung nach Art. 64a BV und nachholender formaler Bildung. Hänni (BSK BV, Art. 64a N. 8) will die berufsbegleitenden Fachhochschulstudiengänge unter Art. 64a BV subsumieren, während die herrschende Lehre diese → Art. 63a BV zuordnet.
+**N. 15** **Abgrenzung zur formalen Bildung:** Die Doktrin ist sich uneinig über die Abgrenzung zwischen Weiterbildung nach Art. 64a BV und nachholender formaler Bildung. Hänni will die berufsbegleitenden Fachhochschulstudiengänge unter Art. 64a BV subsumieren, während die herrschende Lehre diese → Art. 63a BV zuordnet.
 
 **N. 16** **Verhältnis zu spezialgesetzlichen Weiterbildungsbestimmungen:** Strittig ist, ob Art. 64a BV eine umfassende Querschnittskompetenz begründet oder ob spezialgesetzliche Weiterbildungsbestimmungen (z.B. im Berufsbildungsrecht, Arbeitslosenversicherungsrecht) ihre eigenständige verfassungsrechtliche Grundlage behalten.
 

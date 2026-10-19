@@ -4,7 +4,7 @@
 
 Artikel 52 der Bundesverfassung regelt die Bundesgarantie für die kantonale Ordnung. Diese Bestimmung verpflichtet den Bund zum Schutz der «verfassungsmässigen Ordnung» der Kantone und ermächtigt ihn zur Intervention, wenn ein Kanton seine Ordnung nicht mehr selbst aufrechterhalten kann.
 
-**Was ist die verfassungsmässige Ordnung?** Nach der herrschenden Lehre (Belser/Massüger, BSK BV, Art. 52 N. 7) umfasst sie das gesamte kantonale Verfassungsrecht, das von der Bundesversammlung gewährleistet wurde. Dies geht weit über die blosse öffentliche Ordnung hinaus. Eine Mindermeinung (Schweizer/Müller) betont dagegen primär die kantonale Verfassungsautonomie.
+**Was ist die verfassungsmässige Ordnung?** Nach der herrschenden Lehre umfasst sie das gesamte kantonale Verfassungsrecht, das von der Bundesversammlung gewährleistet wurde. Dies geht weit über die blosse öffentliche Ordnung hinaus. Eine Mindermeinung (Schweizer/Müller) betont dagegen primär die kantonale Verfassungsautonomie.
 
 **Wer ist betroffen?** Alle 26 Kantone stehen unter dieser Bundesgarantie. Sie können sich bei schweren Störungen der Ordnung an den Bund wenden oder müssen seine Intervention dulden.
 

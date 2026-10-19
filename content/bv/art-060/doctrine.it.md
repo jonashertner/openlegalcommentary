@@ -28,7 +28,7 @@
 
 **N. 8** **Equipaggiamento**: Vi rientra l'intera dotazione materiale dell'esercito: armi, munizioni, veicoli, uniformi, apparecchi tecnici, sistemi informatici e di comunicazione. La Confederazione è competente per l'approvvigionamento, la manutenzione, lo stoccaggio e la liquidazione del materiale dell'esercito.
 
-**N. 9** **Rilevamento di impianti militari (cpv. 3)**: La Confederazione può rilevare impianti militari dei Cantoni contro equa indennità. Questa disposizione ha oggi scarsa importanza pratica dalla completa federalizzazione dell'esercito. Riguarda oggi primariamente campi di tiro, arsenali o altre infrastrutture utilizzate militarmente che si trovano ancora in proprietà cantonale (Waldmann/Belser/Epiney, BSK BV, 2ª ed. 2024, Art. 60 N. 12).
+**N. 9** **Rilevamento di impianti militari (cpv. 3)**: La Confederazione può rilevare impianti militari dei Cantoni contro equa indennità. Questa disposizione ha oggi scarsa importanza pratica dalla completa federalizzazione dell'esercito. Riguarda oggi primariamente campi di tiro, arsenali o altre infrastrutture utilizzate militarmente che si trovano ancora in proprietà cantonale.
 
 ### 4. Conseguenze giuridiche
 

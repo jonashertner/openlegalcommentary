@@ -21,7 +21,7 @@ Questi diritti non sono illimitati. Lo Stato può limitarli, ma solo con una leg
 ³ DTF 127 I 6 consid. 5a; SGK-Schweizer, Art. 10 BV N. 4
 ⁴ DTF 2C_451/2020 consid. 6.2.3
 ⁵ Sentenza 2C_218/2013 del 26.3.2013 consid. 3.1
-⁶ DTF 146 IV 76 consid. 4.2; BSK-Tschentscher, Art. 10 BV N. 28
+⁶ DTF 146 IV 76 consid. 4.2
 ⁷ Häfelin/Haller/Keller/Thurnherr, N. 372
 ⁸ DTF 136 I 87 consid. 6.5; Art. 36 Cost.
 ⁹ Sentenza 1B_416/2019 del 12.9.2019 consid. 4.3

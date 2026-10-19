@@ -16,13 +16,13 @@
 
 ### Elementi della fattispecie / Contenuto normativo
 
-**N. 5** **Legislazione nel campo del diritto penale (cpv. 1)**: Comprende il diritto penale nucleare (CP) e il diritto penale accessorio della Confederazione. La competenza federale si estende solo alla protezione penale di prescrizioni amministrative con base federale (Göksu, BSK BV, Art. 123 N. 8). Ai Cantoni rimane il diritto penale contravvenzionale secondo l'art. 335 CP (**DTF 138 IV 13** consid. 5.1).
+**N. 5** **Legislazione nel campo del diritto penale (cpv. 1)**: Comprende il diritto penale nucleare (CP) e il diritto penale accessorio della Confederazione. La competenza federale si estende solo alla protezione penale di prescrizioni amministrative con base federale. Ai Cantoni rimane il diritto penale contravvenzionale secondo l'art. 335 CP (**DTF 138 IV 13** consid. 5.1).
 
 **N. 6** **Legislazione nel campo del diritto processuale penale (cpv. 1)**: Dal 2011 disciplinato in modo completo dal diritto federale attraverso la CPP. La delimitazione dalla competenza di polizia cantonale avviene secondo il criterio del sospetto di reato: l'attività di polizia preventiva senza concreto sospetto di reato rimane cantonale (**DTF 140 I 353** consid. 4.2).
 
 **N. 7** **Organizzazione dei tribunali (cpv. 2)**: I Cantoni determinano la struttura giudiziaria, le competenze e lo svolgimento delle procedure nell'ambito delle prescrizioni del diritto federale. La CPP pone solo standard minimi (art. 14 segg. CPP). Ciò comprende anche requisiti per i periti oltre il diritto federale (**DTF 140 IV 49** consid. 2.3).
 
-**N. 8** **Giurisdizione in materia penale (cpv. 2)**: La giurisdizione penale rimane presso i Cantoni (Göksu, BSK BV, Art. 123 N. 17), eccetto per la giurisdizione penale federale secondo gli art. 23 segg. CPP. I tribunali cantonali applicano il diritto penale federale, ma sono organizzati cantonalmente.
+**N. 8** **Giurisdizione in materia penale (cpv. 2)**: La giurisdizione penale rimane presso i Cantoni, eccetto per la giurisdizione penale federale secondo gli art. 23 segg. CPP. I tribunali cantonali applicano il diritto penale federale, ma sono organizzati cantonalmente.
 
 **N. 9** **Esecuzione delle pene e delle misure (cpv. 2 e 3)**: Competenza duale — i Cantoni eseguono l'esecuzione, la Confederazione può emanare prescrizioni quadro. I concordati di esecuzione (Svizzera nordoccidentale e centrale, Svizzera orientale, Svizzera latina) coordinano standard intercantonali (Baechtold/Weber/Hostettler, Strafvollzug, 3a ed. 2016, § 2 N. 14).
 
@@ -36,9 +36,9 @@
 
 ### Controversie
 
-**N. 13** **Portata della competenza federale di esecuzione**: La dottrina dominante intende la competenza secondo il capoverso 3 in modo estensivo — la Confederazione potrebbe operare un cambiamento completo del sistema verso un diritto federale uniforme di esecuzione (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N 1113a; Rhinow/Schefer/Uebersax, Verfassungsrecht, N 2963). Göksu rappresenta al contrario un'interpretazione restrittiva: il capoverso 3 permetterebbe solo interventi puntuali, che dovrebbero essere giustificati da interessi federali preponderanti (Göksu, BSK BV, Art. 123 N. 22).
+**N. 13** **Portata della competenza federale di esecuzione**: La dottrina dominante intende la competenza secondo il capoverso 3 in modo estensivo — la Confederazione potrebbe operare un cambiamento completo del sistema verso un diritto federale uniforme di esecuzione (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, N 1113a; Rhinow/Schefer/Uebersax, Verfassungsrecht, N 2963). Göksu rappresenta al contrario un'interpretazione restrittiva: il capoverso 3 permetterebbe solo interventi puntuali, che dovrebbero essere giustificati da interessi federali preponderanti.
 
-**N. 14** **Delimitazione diritto di polizia/diritto processuale penale**: È controverso dove finisca l'azione di polizia preventiva e inizi quella processuale penale. Niggli/Heer/Wiprächtiger (BSK StPO, Einl. N. 45) tracciano la linea al sospetto concreto di reato. Riklin (StPO Kommentar, 2a ed. 2014, Prem. N. 28) propende per una concezione funzionale: le misure con scopo di perseguimento penale sarebbero sempre da attribuire alla CPP. Il Tribunale federale segue il criterio del sospetto di reato (**DTF 140 I 353** consid. 4.2).
+**N. 14** **Delimitazione diritto di polizia/diritto processuale penale**: È controverso dove finisca l'azione di polizia preventiva e inizi quella processuale penale. Niggli/Heer/Wiprächtiger tracciano la linea al sospetto concreto di reato. Riklin (StPO Kommentar, 2a ed. 2014, Prem. N. 28) propende per una concezione funzionale: le misure con scopo di perseguimento penale sarebbero sempre da attribuire alla CPP. Il Tribunale federale segue il criterio del sospetto di reato (**DTF 140 I 353** consid. 4.2).
 
 **N. 15** **Portata dell'autonomia organizzativa cantonale**: È controverso fino a che punto le prescrizioni del diritto federale possano determinare l'organizzazione giudiziaria cantonale. Lienhard/Kettiger (Justiz zwischen Management und Rechtsstaat, 2016, 184) sottolineano la sovranità organizzativa garantita costituzionalmente. Kiener (in: Verfassungsrecht der Schweiz, § 47 N. 34) la vede limitata da garanzie procedurali cogenti.
 

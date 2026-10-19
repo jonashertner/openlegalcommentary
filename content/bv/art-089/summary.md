@@ -2,13 +2,13 @@
 
 ## Kernaussage
 
-Art. 89 BV regelt die Energiepolitik der Schweiz und teilt die Zuständigkeiten zwischen Bund und Kantonen auf (Kern, BSK BV, Art. 89 N. 4–5). Der Bund kann Vorschriften über den Energieverbrauch von Anlagen und Fahrzeugen erlassen sowie Energietechniken fördern. Die Kantone sind hauptsächlich für Massnahmen bei Gebäuden verantwortlich. Beide Staatsebenen müssen gemeinsam für eine sichere, umweltverträgliche und wirtschaftliche Energieversorgung sorgen (**BGE 138 I 454** E. 5.1).
+Art. 89 BV regelt die Energiepolitik der Schweiz und teilt die Zuständigkeiten zwischen Bund und Kantonen auf. Der Bund kann Vorschriften über den Energieverbrauch von Anlagen und Fahrzeugen erlassen sowie Energietechniken fördern. Die Kantone sind hauptsächlich für Massnahmen bei Gebäuden verantwortlich. Beide Staatsebenen müssen gemeinsam für eine sichere, umweltverträgliche und wirtschaftliche Energieversorgung sorgen (**BGE 138 I 454** E. 5.1).
 
 ## Anwendungsbereich
 
-Die Bestimmung gilt für die gesamte Energiepolitik der Schweiz. Sie betrifft sowohl die Energieerzeugung (Strom, Wärme) als auch den Energieverbrauch. Alle staatlichen Behörden von Bund, Kantonen und Gemeinden sind verpflichtet, die energiepolitischen Ziele zu verfolgen (Kern, BSK BV, Art. 89 N. 9–11). Private Energieunternehmen müssen sich an die staatlichen Vorschriften halten, erhalten aber keine direkten Rechte aus der Verfassung.
+Die Bestimmung gilt für die gesamte Energiepolitik der Schweiz. Sie betrifft sowohl die Energieerzeugung (Strom, Wärme) als auch den Energieverbrauch. Alle staatlichen Behörden von Bund, Kantonen und Gemeinden sind verpflichtet, die energiepolitischen Ziele zu verfolgen. Private Energieunternehmen müssen sich an die staatlichen Vorschriften halten, erhalten aber keine direkten Rechte aus der Verfassung.
 
-Die Verfassung nennt fünf gleichwertige Ziele für die Energieversorgung: Sie muss ausreichend (genug Energie für alle), breit gefächert (verschiedene Energiequellen), sicher (zuverlässig verfügbar), wirtschaftlich (bezahlbar) und umweltverträglich sein. Zusätzlich soll Energie sparsam und effizient verwendet werden (Kern, BSK BV, Art. 89 N. 12–13).
+Die Verfassung nennt fünf gleichwertige Ziele für die Energieversorgung: Sie muss ausreichend (genug Energie für alle), breit gefächert (verschiedene Energiequellen), sicher (zuverlässig verfügbar), wirtschaftlich (bezahlbar) und umweltverträglich sein. Zusätzlich soll Energie sparsam und effizient verwendet werden.
 
 ## Wichtigste Rechtsfolgen
 

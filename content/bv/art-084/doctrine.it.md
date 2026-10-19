@@ -10,21 +10,21 @@
 
 **N. 3** L'art. 84 Cost. si situa sistematicamente nella 3a sezione del 3° titolo della Costituzione federale, che disciplina le opere pubbliche e i trasporti. La norma è strettamente collegata all'→ art. 85 Cost. (tassa sul traffico pesante), che costituisce lo strumento centrale di politica finanziaria per l'attuazione del trasferimento del traffico. Ulteriori riferimenti sistematici esistono agli → artt. 73 segg. Cost. (sostenibilità e protezione dell'ambiente), → art. 74 Cost. (protezione dell'ambiente) e → art. 83 Cost. (strade nazionali).
 
-**N. 4** Nel contesto internazionale l'art. 84 Cost. si trova in tensione con l'Accordo sui trasporti terrestri Svizzera–UE (RS 0.740.72), che garantisce la libera circolazione delle merci. Questa tensione è stata attenuata dall'art. 1 cpv. 3 dell'Accordo sui trasporti terrestri, che riconosce gli obiettivi della politica svizzera di trasferimento del traffico (Epiney, BSK BV, Art. 84 n. 2).
+**N. 4** Nel contesto internazionale l'art. 84 Cost. si trova in tensione con l'Accordo sui trasporti terrestri Svizzera–UE (RS 0.740.72), che garantisce la libera circolazione delle merci. Questa tensione è stata attenuata dall'art. 1 cpv. 3 dell'Accordo sui trasporti terrestri, che riconosce gli obiettivi della politica svizzera di trasferimento del traffico.
 
 ## 3. Elementi di fattispecie / Contenuto normativo
 
 ### 3.1 Mandato di protezione (cpv. 1)
 
-**N. 5** Il termine «regioni alpine» comprende secondo la definizione legale dell'art. 2 LSBT i Cantoni di Uri, Svitto, Obvaldo, Nidvaldo, Glarona, Ticino, Grigioni e Vallese. Gli «effetti negativi del traffico di transito» comprendono emissioni di rumore, inquinanti atmosferici e CO2, vibrazioni, frammentazione del paesaggio e rischi di incidenti (Epiney, BSK BV, Art. 84 n. 5).
+**N. 5** Il termine «regioni alpine» comprende secondo la definizione legale dell'art. 2 LSBT i Cantoni di Uri, Svitto, Obvaldo, Nidvaldo, Glarona, Ticino, Grigioni e Vallese. Gli «effetti negativi del traffico di transito» comprendono emissioni di rumore, inquinanti atmosferici e CO2, vibrazioni, frammentazione del paesaggio e rischi di incidenti.
 
-**N. 6** Il mandato di protezione obbliga la Confederazione ad agire attivamente. Non si tratta soltanto di un mandato costituzionale programmatico, bensì di un dovere della Confederazione di adottare misure di protezione concrete (Epiney, BSK BV, Art. 84 n. 7). La «misura sopportabile per l'uomo, gli animali e le piante nonché per i loro spazi vitali» si orienta ai valori limite del diritto ambientale secondo la legislazione sulla protezione dell'ambiente.
+**N. 6** Il mandato di protezione obbliga la Confederazione ad agire attivamente. Non si tratta soltanto di un mandato costituzionale programmatico, bensì di un dovere della Confederazione di adottare misure di protezione concrete. La «misura sopportabile per l'uomo, gli animali e le piante nonché per i loro spazi vitali» si orienta ai valori limite del diritto ambientale secondo la legislazione sulla protezione dell'ambiente.
 
 ### 3.2 Imperativo di trasferimento (cpv. 2)
 
-**N. 7** L'imperativo di trasferimento del cpv. 2 contiene un obiettivo chiaro: il traffico merci di transito transalpino «avviene per ferrovia». Questo non deve essere inteso come divieto assoluto di circolazione per gli autocarri, bensì come obbligo di risultato con orizzonte temporale vincolante (Epiney, BSK BV, Art. 84 n. 14). Il termine «traffico merci di transito» comprende il traffico commerciale di merci che attraversa le regioni alpine senza carico o scarico.
+**N. 7** L'imperativo di trasferimento del cpv. 2 contiene un obiettivo chiaro: il traffico merci di transito transalpino «avviene per ferrovia». Questo non deve essere inteso come divieto assoluto di circolazione per gli autocarri, bensì come obbligo di risultato con orizzonte temporale vincolante. Il termine «traffico merci di transito» comprende il traffico commerciale di merci che attraversa le regioni alpine senza carico o scarico.
 
-**N. 8** Le «misure necessarie» del Consiglio federale comprendono un insieme di strumenti: la tassa sul traffico pesante commisurata alle prestazioni (TTPCP) secondo l'→ art. 85 Cost., i divieti di circolazione notturna e domenicale, la promozione del traffico combinato e il potenziamento dell'infrastruttura ferroviaria (NFTA). Il Consiglio federale e il Parlamento considerano la TTPCP in combinazione con altre misure come strumento idoneo per l'attuazione dell'obiettivo di trasferimento (Epiney, BSK BV, Art. 84 n. 14).
+**N. 8** Le «misure necessarie» del Consiglio federale comprendono un insieme di strumenti: la tassa sul traffico pesante commisurata alle prestazioni (TTPCP) secondo l'→ art. 85 Cost., i divieti di circolazione notturna e domenicale, la promozione del traffico combinato e il potenziamento dell'infrastruttura ferroviaria (NFTA). Il Consiglio federale e il Parlamento considerano la TTPCP in combinazione con altre misure come strumento idoneo per l'attuazione dell'obiettivo di trasferimento.
 
 **N. 9** Eccezioni all'imperativo di trasferimento sono ammissibili solo se «indispensabili». Questo termine deve essere interpretato in modo restrittivo e comprende solo trasporti che per motivi tecnici o di sicurezza non possono essere effettuati per ferrovia. La precisazione mediante legge è avvenuta nella LSBT e nella LTPV.
 
@@ -32,7 +32,7 @@
 
 **N. 10** Il divieto di aumento della capacità è formulato in modo assoluto e tollera soltanto l'eccezione esplicitamente menzionata delle strade di aggiramento. Il termine «capacità delle strade di transito» si riferisce al volume massimo di traffico che un'infrastruttura stradale può gestire.
 
-**N. 11** L'interpretazione del concetto di capacità è controversa. Kern sostiene che già la costruzione di una seconda canna della galleria stradale del San Gottardo viola l'art. 84 cpv. 3 Cost., poiché si ha un aumento di capacità in quanto tale (Epiney, BSK BV, Art. 84 n. 27-28). Al contrario, il Consiglio federale e il Parlamento sostengono la posizione secondo cui la costruzione di una seconda canna è ammissibile se è percorsa solo a una corsia e quindi non si ha un effettivo aumento di capacità (Epiney, BSK BV, Art. 84 n. 28).
+**N. 11** L'interpretazione del concetto di capacità è controversa. Kern sostiene che già la costruzione di una seconda canna della galleria stradale del San Gottardo viola l'art. 84 cpv. 3 Cost., poiché si ha un aumento di capacità in quanto tale. Al contrario, il Consiglio federale e il Parlamento sostengono la posizione secondo cui la costruzione di una seconda canna è ammissibile se è percorsa solo a una corsia e quindi non si ha un effettivo aumento di capacità.
 
 ## 4. Conseguenze giuridiche
 

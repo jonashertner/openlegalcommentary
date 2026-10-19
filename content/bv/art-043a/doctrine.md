@@ -6,7 +6,7 @@
 
 **N. 2** Die Botschaft zur Neugestaltung des Finanzausgleichs vom 14. November 2001 (BBl 2001 2291, insb. 2358 ff.) bezeichnet Art. 43a BV als «Kernstück der neuen föderalen Aufgabenordnung». Die Bestimmung zielt darauf ab, die Effizienz der staatlichen Aufgabenerfüllung zu steigern und die Verantwortlichkeiten klarer zuzuordnen. Insbesondere soll die fiskalische Äquivalenz — die Übereinstimmung von Nutzen, Kosten und Entscheidungskompetenzen — gewährleistet werden.
 
-**N. 3** Die Entstehungsgeschichte zeigt, dass der Verfassungsgeber bewusst programmatische Grundsätze verankern wollte, die primär an den Gesetzgeber gerichtet sind. Wie der Bundesrat in der Botschaft festhielt: «Artikel 43a Absatz 4 schafft keine einklagbaren Rechte» (Biaggini, BSK BV, Art. 43a N. 36).
+**N. 3** Die Entstehungsgeschichte zeigt, dass der Verfassungsgeber bewusst programmatische Grundsätze verankern wollte, die primär an den Gesetzgeber gerichtet sind. Wie der Bundesrat in der Botschaft festhielt: «Artikel 43a Absatz 4 schafft keine einklagbaren Rechte».
 
 ## 2. Systematische Einordnung
 
@@ -19,7 +19,7 @@
 - → Art. 47 BV (Eigenständigkeit der Kantone)
 - → Art. 48 BV (Verträge zwischen Kantonen)
 
-**N. 6** Nach einhelliger Auffassung in der Lehre taugen die Grundsätze des Art. 43a BV nicht als Massstab richterlicher Beurteilung (Biaggini, BSK BV, Art. 43a N. 5). Die Bestimmung entfaltet ihre Wirkung primär als Richtschnur für den Gesetzgeber bei der Ausgestaltung der Aufgabenteilung.
+**N. 6** Nach einhelliger Auffassung in der Lehre taugen die Grundsätze des Art. 43a BV nicht als Massstab richterlicher Beurteilung. Die Bestimmung entfaltet ihre Wirkung primär als Richtschnur für den Gesetzgeber bei der Ausgestaltung der Aufgabenteilung.
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
@@ -31,7 +31,7 @@
 - **Unvermögen der Kantone**: Die Kraft der Kantone reicht nicht aus zur Aufgabenerfüllung
 - **Bedürfnis nach Einheitlichkeit**: Eine föderale Vielfalt würde zu untragbaren Ergebnissen führen
 
-**N. 9** Unvermögen oder Unwille einzelner Kantone reicht nach Schweizer/Müller nicht aus für das Kraft-Kriterium (zitiert bei Biaggini, BSK BV, Art. 43a N. 17). Es muss sich um ein strukturelles Unvermögen handeln, das mehrere oder alle Kantone betrifft.
+**N. 9** Unvermögen oder Unwille einzelner Kantone reicht nach Schweizer/Müller nicht aus für das Kraft-Kriterium. Es muss sich um ein strukturelles Unvermögen handeln, das mehrere oder alle Kantone betrifft.
 
 ### Fiskalische Äquivalenz (Abs. 2 und 3)
 
@@ -54,7 +54,7 @@
 - Bildung (→ Art. 19, 61a ff. BV)
 - Gesundheitsversorgung (→ Art. 117 BV)
 
-**N. 14** Der Bundesrat hielt ausdrücklich fest, dass Art. 43a Abs. 4 BV keine einklagbaren Rechte schafft (Biaggini, BSK BV, Art. 43a N. 36). Die Bestimmung richtet sich an den Gesetzgeber, nicht an die rechtsanwendenden Behörden.
+**N. 14** Der Bundesrat hielt ausdrücklich fest, dass Art. 43a Abs. 4 BV keine einklagbaren Rechte schafft. Die Bestimmung richtet sich an den Gesetzgeber, nicht an die rechtsanwendenden Behörden.
 
 ### Wirtschaftliche Aufgabenerfüllung (Abs. 5)
 
@@ -83,7 +83,7 @@
 
 ### Justiziabilität der Grundsätze
 
-**N. 20** Die fehlende Justiziabilität von Art. 43a BV ist in der Lehre weitgehend unbestritten (Biaggini, BSK BV, Art. 43a N. 5; Waldmann/Borter, Rechtsprechung zum Schweizerischen Föderalismus, Anhang III zum Monitoringbericht Föderalismus 2011–2013). Vereinzelt wird aber eine partielle Justiziabilität über andere Verfassungsnormen befürwortet.
+**N. 20** Die fehlende Justiziabilität von Art. 43a BV ist in der Lehre weitgehend unbestritten (Waldmann/Borter, Rechtsprechung zum Schweizerischen Föderalismus, Anhang III zum Monitoringbericht Föderalismus 2011–2013). Vereinzelt wird aber eine partielle Justiziabilität über andere Verfassungsnormen befürwortet.
 
 ### Reichweite des Subsidiaritätsprinzips
 

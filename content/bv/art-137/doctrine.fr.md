@@ -4,9 +4,9 @@
 
 ### 1. Historique
 
-**N. 1** L'inclusion d'un article sur les partis dans la Constitution fédérale a fait l'objet de discussions intenses lors de la révision totale. La Commission constitutionnelle du Conseil des États voulait à l'origine adopter une réglementation plus complète comprenant des dispositions sur le financement des partis. Dans la procédure parlementaire, c'est toutefois une solution minimaliste qui s'est imposée. Le rapporteur au Conseil des États a précisé : « La Commission est clairement d'avis que cette disposition ne constitue aucun fondement de financement » (Tschannen, BSK BV, Art. 137 N. 24). Le message du Conseil fédéral du 20 novembre 1996 concernant la nouvelle Constitution fédérale (FF 1997 I 1, 347) soulignait qu'avec l'art. 137, seul le rôle factuel des partis devait être reconnu sur le plan constitutionnel, sans créer de nouveaux droits ou obligations.
+**N. 1** L'inclusion d'un article sur les partis dans la Constitution fédérale a fait l'objet de discussions intenses lors de la révision totale. La Commission constitutionnelle du Conseil des États voulait à l'origine adopter une réglementation plus complète comprenant des dispositions sur le financement des partis. Dans la procédure parlementaire, c'est toutefois une solution minimaliste qui s'est imposée. Le rapporteur au Conseil des États a précisé: « La Commission est clairement d'avis que cette disposition ne constitue aucun fondement de financement ». Le message du Conseil fédéral du 20 novembre 1996 concernant la nouvelle Constitution fédérale (FF 1997 I 1, 347) soulignait qu'avec l'art. 137, seul le rôle factuel des partis devait être reconnu sur le plan constitutionnel, sans créer de nouveaux droits ou obligations.
 
-**N. 2** Lors de la consultation, il y eut des discussions controversées sur la question de savoir si la disposition devait avoir un caractère purement descriptif ou normatif. Les procès-verbaux des conseils montrent que la majorité de la commission comprenait l'art. 137 comme purement descriptif (Frick, cité dans Tschannen, BSK BV, Art. 137 N. 6). Néanmoins, la doctrine a fini par adopter la conception selon laquelle l'article sur les partis devait être compris de manière normative, même si son contenu réglementaire peut être faible (Tschannen, BSK BV, Art. 137 N. 2).
+**N. 2** Lors de la consultation, il y eut des discussions controversées sur la question de savoir si la disposition devait avoir un caractère purement descriptif ou normatif. Les procès-verbaux des conseils montrent que la majorité de la commission comprenait l'art. 137 comme purement descriptif. Néanmoins, la doctrine a fini par adopter la conception selon laquelle l'article sur les partis devait être compris de manière normative, même si son contenu réglementaire peut être faible.
 
 ### 2. Classification systématique
 
@@ -24,7 +24,7 @@
 - veulent participer à la formation de l'opinion et de la volonté politiques
 - participent aux élections et aux votations
 
-**N. 7** La forme juridique n'est pas déterminante. Les partis s'organisent régulièrement comme associations selon les art. 60 ss CC, mais peuvent aussi exister de manière informelle. Ce qui est déterminant, c'est la fonction factuelle dans le système politique (Tschannen, BSK BV, Art. 137 N. 8–10). Le registre des partis controversé au niveau fédéral (art. 76a al. 1 LFDP) ne change rien à la liberté de forme en principe, mais est critiqué par une partie de la doctrine comme violation de l'égalité politique (Schiess Rütimann, ZBl 2006, 512 s.).
+**N. 7** La forme juridique n'est pas déterminante. Les partis s'organisent régulièrement comme associations selon les art. 60 ss CC, mais peuvent aussi exister de manière informelle. Ce qui est déterminant, c'est la fonction factuelle dans le système politique. Le registre des partis controversé au niveau fédéral (art. 76a al. 1 LFDP) ne change rien à la liberté de forme en principe, mais est critiqué par une partie de la doctrine comme violation de l'égalité politique (Schiess Rütimann, ZBl 2006, 512 s.).
 
 **N. 8** **« concourent »** : Le concours englobe toutes les formes légitimes d'activité politique : organisation de campagnes électorales, lancement d'initiatives et de référendums, prises de position sur des questions politiques concrètes, recrutement et formation du personnel politique, travail des groupes parlementaires (→ art. 61 LParl). La formulation est délibérément ouverte et n'exclut pas les nouvelles formes de participation politique.
 
@@ -34,7 +34,7 @@
 
 ### 4. Effets juridiques
 
-**N. 11** L'art. 137 Cst ne fonde selon la doctrine dominante aucun droit subjectif immédiat des partis (Tschannen, BSK BV, Art. 137 N. 4 ; Rhinow, recht 1986, 117). La disposition a un caractère principalement objectif-juridique et reconnaît les partis comme institutions nécessaires de la démocratie.
+**N. 11** L'art. 137 Cst ne fonde selon la doctrine dominante aucun droit subjectif immédiat des partis (Rhinow, recht 1986, 117). La disposition a un caractère principalement objectif-juridique et reconnaît les partis comme institutions nécessaires de la démocratie.
 
 **N. 12** En tant que garantie institutionnelle, l'art. 137 Cst oblige le législateur à aménager les conditions-cadres de l'activité des partis de manière à ce que les partis puissent remplir leur fonction constitutionnelle. Cela comprend :
 - la garantie de la liberté d'association à des fins politiques
@@ -46,7 +46,7 @@
 
 ### 5. Points controversés
 
-**N. 14** **Nature juridique de l'art. 137 Cst** : Le point controversé central concerne la nature juridique de la disposition. Frick (cité dans Tschannen, BSK BV, Art. 137 N. 6) défend, en se référant aux débats parlementaires, la position selon laquelle l'art. 137 serait purement déclaratoire. À l'inverse, Tschannen (BSK BV, Art. 137 N. 2) souligne que l'article sur les partis doit être compris de manière normative, même si le contenu réglementaire peut être faible. Cette controverse a des conséquences pratiques pour la déduction de droits et d'obligations concrètes de la disposition.
+**N. 14** **Nature juridique de l'art. 137 Cst**: Le point controversé central concerne la nature juridique de la disposition. Frick défend, en se référant aux débats parlementaires, la position selon laquelle l'art. 137 serait purement déclaratoire. À l'inverse, Tschannen souligne que l'article sur les partis doit être compris de manière normative, même si le contenu réglementaire peut être faible. Cette controverse a des conséquences pratiques pour la déduction de droits et d'obligations concrètes de la disposition.
 
 **N. 15** **Financement des partis** : La question de la transparence et de l'encouragement étatique est vivement controversée. Caroni (Geld und Politik, 2009, 234 ss) plaide pour des obligations complètes de divulgation selon le modèle international. Des voix conservatrices mettent en garde contre une étatisation des partis et soulignent leur caractère de droit privé (Schmid, Politische Parteien, 1981, 156 ss). Le législateur s'est montré réservé jusqu'à présent.
 

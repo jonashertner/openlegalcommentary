@@ -8,7 +8,7 @@ L'art. 109 Cost. autorizza la Confederazione ad emanare prescrizioni contro gli 
 
 ### In sintesi
 
-L'art. 109 Cost. conferisce alla Confederazione la competenza di proteggere i locatari dagli abusi. Questa disposizione costituzionale è nata negli anni '70 come reazione alla penuria di alloggi e protegge i locatari quale parte contrattuale più debole (Cardinaux, BSK BV, Art. 109 N. 10). La Confederazione ha attuato questa competenza negli art. 253-274g CO. La norma vieta le pigioni eccessive e le disdette arbitrarie. In caso di rigore, i rapporti di locazione possono essere prorogati. La disciplina di diritto federale prevale sul diritto cantonale (**BGE 149 I 25** consid. 4.4.5).
+L'art. 109 Cost. conferisce alla Confederazione la competenza di proteggere i locatari dagli abusi. Questa disposizione costituzionale è nata negli anni '70 come reazione alla penuria di alloggi e protegge i locatari quale parte contrattuale più debole. La Confederazione ha attuato questa competenza negli art. 253-274g CO. La norma vieta le pigioni eccessive e le disdette arbitrarie. In caso di rigore, i rapporti di locazione possono essere prorogati. La disciplina di diritto federale prevale sul diritto cantonale (**BGE 149 I 25** consid. 4.4.5).
 
 ### Importanza pratica
 

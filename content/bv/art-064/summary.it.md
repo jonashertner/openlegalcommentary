@@ -10,4 +10,4 @@ L'art. 64 Cost. conferisce alla Confederazione la competenza di promuovere la ri
 
 **Esempio**: Un biologo richiede al FNS 200'000 franchi per uno studio sul cancro. Una procedura di peer-review esamina la qualità scientifica. In caso di valutazione positiva, riceve il finanziamento per tre anni.
 
-**Punto controverso**: Nella dottrina è controverso se «scientifico» si riferisca solo agli standard metodologici (Borghi, BSK BV, Art. 64 N. 39) o rappresenti un criterio qualitativo (Gruber, BSK BV, Art. 64 N. 42).
+**Punto controverso**: Nella dottrina è controverso se «scientifico» si riferisca solo agli standard metodologici o rappresenti un criterio qualitativo.

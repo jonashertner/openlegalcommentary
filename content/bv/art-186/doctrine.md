@@ -37,7 +37,7 @@
 
 **N. 9** Art. 186 Abs. 2 BV ermächtigt den Bundesrat, kantonale Erlasse dort zu genehmigen, wo die Durchführung des Bundesrechts dies verlangt. Die Genehmigungspflicht ist keine allgemeine, sondern setzt eine bundesrechtliche Grundlage voraus, die die Genehmigung als Vollzugsbedingung anordnet (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, Rz. 1461). Die Norm begründet nicht selbst eine Genehmigungspflicht, sondern setzt eine voraus.
 
-**N. 10** Die Genehmigung ist ein präventives Aufsichtsinstrument, das die Bundesrechtskonformität kantonaler Vollzugserlasse sicherstellt, bevor sie in Kraft treten oder ihre Wirkungen entfalten. Inhaltlich prüft der Bundesrat im Genehmigungsverfahren nur die Übereinstimmung des kantonalen Erlasses mit dem massgebenden Bundesrecht; eine Zweckmässigkeitsprüfung findet im Regelfall nicht statt (Künzli, BSK BV, Art. 186 N. 18 f.). Die Genehmigung hat deklaratorischen Charakter, soweit der kantonale Erlass ohnehin bundesrechtskonform ist; bei Vorbehalt oder Ablehnung entfaltet sie konstitutive Wirkung.
+**N. 10** Die Genehmigung ist ein präventives Aufsichtsinstrument, das die Bundesrechtskonformität kantonaler Vollzugserlasse sicherstellt, bevor sie in Kraft treten oder ihre Wirkungen entfalten. Inhaltlich prüft der Bundesrat im Genehmigungsverfahren nur die Übereinstimmung des kantonalen Erlasses mit dem massgebenden Bundesrecht; eine Zweckmässigkeitsprüfung findet im Regelfall nicht statt. Die Genehmigung hat deklaratorischen Charakter, soweit der kantonale Erlass ohnehin bundesrechtskonform ist; bei Vorbehalt oder Ablehnung entfaltet sie konstitutive Wirkung.
 
 **N. 11** Kantonale Erlasse, die einer Bundesgenehmigung bedürfen, entfalten ihre Wirkung erst mit der Genehmigung. Erteilt der Bundesrat die Genehmigung mit Auflagen oder Vorbehalten, ist der Kanton verpflichtet, die notwendigen Anpassungen vorzunehmen.
 
@@ -83,13 +83,13 @@
 
 **N. 25** Die herrschende Lehre verneint dies grundsätzlich. Hangartner (ZBl 76/1975 S. 6 ff. und 12 ff.) sowie Rhinow/Schefer/Uebersax (a.a.O., Rz. 788) und Häfelin/Haller/Keller/Thurnherr (a.a.O., Rz. 1480) halten dafür, dass aus dem Gewaltenteilungsprinzip (in Verbindung mit Art. 191c BV, richterliche Unabhängigkeit) folgt, dass der Bund ein kantonales Gerichtsurteil grundsätzlich nicht aufheben kann. Ein Gerichtsurteil kann nur durch ein Gericht abgeändert werden; die Aufsicht über die Justiz muss sich auf administrative Belange beschränken.
 
-**N. 26** Eine Minderheitsmeinung lässt die Kassation kantonaler Gerichtsurteile als «ultima ratio» bei schwersten Bundesrechtsverletzungen zu: Kölz/Häner/Bertschi (Verwaltungsverfahren und Verwaltungsrechtspflege des Bundes, 3. Aufl. 2013, Rz. 768) und Künzli (BSK BV, Art. 186 N. 36) halten die Kassation für in Ausnahmefällen denkbar. Tschannen (Staatsrecht, 5. Aufl. 2021, Rz. 988) schliesst sich dem an, beschränkt sie aber auf Fälle, in denen der ordentliche Rechtsweg nicht offensteht.
+**N. 26** Eine Minderheitsmeinung lässt die Kassation kantonaler Gerichtsurteile als «ultima ratio» bei schwersten Bundesrechtsverletzungen zu: Kölz/Häner/Bertschi (Verwaltungsverfahren und Verwaltungsrechtspflege des Bundes, 3. Aufl. 2013, Rz. 768) und Künzli halten die Kassation für in Ausnahmefällen denkbar. Tschannen (Staatsrecht, 5. Aufl. 2021, Rz. 988) schliesst sich dem an, beschränkt sie aber auf Fälle, in denen der ordentliche Rechtsweg nicht offensteht.
 
 **N. 27** Das Bundesgericht hat im Urteil **BGE 151 I 382** (= Urteil 2C_681/2023 vom 19. März 2025) E. 4.9.2 diese Streitfrage im Wesentlichen zugunsten der herrschenden Lehre entschieden: Die aufsichtsrechtliche Kassation eines kantonalen Gerichtsurteils gestützt auf Art. 186 Abs. 4 BV sei, wenn überhaupt, nur in Ausnahmefällen möglich und scheide jedenfalls aus, wenn der ordentliche Rechtsweg in Form einer Behördenbeschwerde offenstehe. Aus dem Gewaltenteilungsprinzip und Art. 191c BV folge, dass Verwaltungsbehörden an rechtskräftige Gerichtsurteile gebunden sind.
 
 ### 2. Die Behördenbeschwerde als bevorzugtes Aufsichtsmittel
 
-**N. 28** Die Behördenbeschwerde des Bundes an das Bundesgericht (Art. 89 Abs. 2 lit. a und Art. 111 Abs. 2 BGG) gilt in Rechtsprechung und Lehre als das vorrangige Aufsichtsinstrument, weil sie auf den ordentlichen Rechtsweg zurückgreift und damit die kantonale Justizautonomie wahrt. Das Bundesgericht hat in **BGE 148 II 369** (= 2C_1038/2020 vom 15. März 2022) festgehalten, dass die Behördenbeschwerde ein Mittel der Bundesaufsicht ist, das auf das kantonale Rechtsmittelsystem zurückgreift und diesem «in gewisser Weise autonom» ist. Waldmann (BSK BV, Art. 49 N. 44) und Pflüger (Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, Rz. 826 ff.) betonen die Priorität dieses Mittels gegenüber anderen Aufsichtsinstrumenten.
+**N. 28** Die Behördenbeschwerde des Bundes an das Bundesgericht (Art. 89 Abs. 2 lit. a und Art. 111 Abs. 2 BGG) gilt in Rechtsprechung und Lehre als das vorrangige Aufsichtsinstrument, weil sie auf den ordentlichen Rechtsweg zurückgreift und damit die kantonale Justizautonomie wahrt. Das Bundesgericht hat in **BGE 148 II 369** (= 2C_1038/2020 vom 15. März 2022) festgehalten, dass die Behördenbeschwerde ein Mittel der Bundesaufsicht ist, das auf das kantonale Rechtsmittelsystem zurückgreift und diesem «in gewisser Weise autonom» ist. Waldmann und Pflüger (Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, Rz. 826 ff.) betonen die Priorität dieses Mittels gegenüber anderen Aufsichtsinstrumenten.
 
 **N. 29** Das Bundesgericht hat in **BGE 148 II 369** E. 3.3.7 festgestellt, dass die Funktion der Behördenbeschwerde als Aufsichtsmittel des Bundes wesentlich erschwert wird, wenn kantonales Verfahrensrecht in einer Weise angewendet wird, dass der Bundesbehörde Gerichtskosten auferlegt werden. Einer Bundesbehörde, die im Rahmen einer Behördenbeschwerde ihre Aufsichtsfunktion ohne Vermögensinteressen wahrnimmt, dürfen grundsätzlich keine kantonalen Gerichtskosten auferlegt werden.
 
@@ -117,11 +117,8 @@
 
 ## Literaturverzeichnis (Auswahl)
 
-- Ehrenzeller, BSK BGG, 3. Aufl. 2018, Art. 111 BGG N. 11
 - Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, Rz. 1461, 1480
 - Hangartner, Bundesaufsicht und richterliche Unabhängigkeit, ZBl 76/1975, S. 6 ff.
-- Künzli, BSK BV, Art. 186 N. 18 f., 36
 - Pflüger, Die Legitimation des Gemeinwesens zur Beschwerde in öffentlich-rechtlichen Angelegenheiten, 2013, Rz. 826 ff.
 - Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, Rz. 788, 2805 f.
 - Tschannen, Staatsrecht der Schweizerischen Eidgenossenschaft, 5. Aufl. 2021, Rz. 908 f., 985–988
-- Waldmann, BSK BV, Art. 49 N. 44

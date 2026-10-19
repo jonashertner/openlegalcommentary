@@ -6,7 +6,7 @@ L'art. 50 Cost. disciplina il rapporto tra Confederazione e Comuni in Svizzera. 
 
 **Autonomia comunale** significa che i Comuni possono decidere autonomamente in determinati ambiti. Il diritto cantonale stabilisce i settori in cui i Comuni sono autonomi. Ambiti tipici sono le autorizzazioni edilizie, le naturalizzazioni o l'organizzazione del traffico locale. Esempio: un Comune può decidere autonomamente se approvare una domanda di costruzione per una casa unifamiliare, purché rispetti le leggi cantonali e federali.
 
-La garanzia federale era controversa in dottrina. Mentre Saladin considerava l'autonomia comunale già sotto la vecchia Costituzione come un principio, la dottrina dominante la riteneva solo un istituto cantonale (Meyer, BSK BV, art. 50 n. 6). Oggi sussiste controversia sul fatto che l'art. 50 cpv. 1 Cost. abbia solo significato dichiarativo o rafforzi la protezione (Meyer, BSK BV, art. 50 n. 11).
+La garanzia federale era controversa in dottrina. Mentre Saladin considerava l'autonomia comunale già sotto la vecchia Costituzione come un principio, la dottrina dominante la riteneva solo un istituto cantonale. Oggi sussiste controversia sul fatto che l'art. 50 cpv. 1 Cost. abbia solo significato dichiarativo o rafforzi la protezione.
 
 **Obbligo di considerazione** significa: la Confederazione deve valutare, nell'emanazione di leggi e altre misure, come queste si ripercuotano sui Comuni. Esempio: nell'emanazione di una nuova legge ambientale, la Confederazione deve verificare quali costi e compiti ne derivino per i Comuni.
 

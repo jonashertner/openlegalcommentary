@@ -2,7 +2,7 @@
 
 ## Overview
 
-Art. 79 BV gives the Confederation the competence to establish principles for hunting and fishing. The main purpose is the protection of the species diversity of fish, wild mammals and birds (Schärmeli/Griffel, BSK BV, Art. 79 N. 3). The Confederation enacts the most important rules, while the cantons ensure their detailed implementation.
+Art. 79 BV gives the Confederation the competence to establish principles for hunting and fishing. The main purpose is the protection of the species diversity of fish, wild mammals and birds. The Confederation enacts the most important rules, while the cantons ensure their detailed implementation.
 
 The word «principles» means: The Confederation sets minimum standards, but does not regulate everything exhaustively (Marti, SG Komm. BV, Art. 79 N. 9). The cantons remain responsible for many areas, such as the organisation of hunting licences or the determination of hunting seasons within federal requirements. The Confederation has implemented its competence through the Hunting Act (JSG) and the Federal Act on Fisheries (BGF).
 

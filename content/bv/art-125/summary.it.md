@@ -1,8 +1,8 @@
 # Panoramica
 
-L'articolo 125 Cost. attribuisce alla Confederazione la competenza esclusiva per tutte le leggi sulla metrologia (Göksu, BSK BV, Art. 125 N. 5). Questa competenza esiste già dalla prima Costituzione federale del 1848 e serve all'unificazione del diritto nel traffico commerciale (Botsch. BV, FF 1997 I 368).
+L'articolo 125 Cost. attribuisce alla Confederazione la competenza esclusiva per tutte le leggi sulla metrologia. Questa competenza esiste già dalla prima Costituzione federale del 1848 e serve all'unificazione del diritto nel traffico commerciale (Botsch. BV, FF 1997 I 368).
 
-La metrologia comprende tre settori principali: la definizione di unità di misura (come metro, chilogrammo, secondo), i requisiti tecnici per gli strumenti di misura e la loro taratura regolare (verifica della precisione) (art. 2 cpv. 1 LMet; Göksu, BSK BV, Art. 125 N. 2-4). La Confederazione ha attuato questa competenza mediante la legge federale sulla metrologia (LMet).
+La metrologia comprende tre settori principali: la definizione di unità di misura (come metro, chilogrammo, secondo), i requisiti tecnici per gli strumenti di misura e la loro taratura regolare (verifica della precisione) (art. 2 cpv. 1 LMet). La Confederazione ha attuato questa competenza mediante la legge federale sulla metrologia (LMet).
 
 Sono interessate tutte le imprese e le persone che utilizzano strumenti di misura nel traffico commerciale. Ciò include stazioni di servizio con pompe di benzina, panetterie con bilance, aziende elettriche con contatori dell'elettricità o imprese di taxi con tachigrafi (art. 3 LMet). Questi strumenti di misura devono essere approvati dall'Istituto federale di metrologia (METAS) e tarati regolarmente.
 

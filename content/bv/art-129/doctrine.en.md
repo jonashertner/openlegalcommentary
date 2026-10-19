@@ -4,7 +4,7 @@
 
 ### 1. Legislative history
 
-**N. 1** The roots of tax harmonisation reach back to the 1970s. After several failed attempts, the harmonisation article 42quinquies former Federal Constitution was adopted in the referendum of 12 June 1977 (BBl 1976 I 1329; BBl 1977 III 845). The legislative history was characterised by the tension between the need for legal unification to promote a unified economic area on the one hand and the insistence of the cantons on their tax autonomy on the other (Simonek, BSK BV, Art. 129 N. 1–3).
+**N. 1** The roots of tax harmonisation reach back to the 1970s. After several failed attempts, the harmonisation article 42quinquies former Federal Constitution was adopted in the referendum of 12 June 1977 (BBl 1976 I 1329; BBl 1977 III 845). The legislative history was characterised by the tension between the need for legal unification to promote a unified economic area on the one hand and the insistence of the cantons on their tax autonomy on the other.
 
 **N. 2** The constitutional legislator deliberately chose a limited harmonisation competence. The Dispatch of 10 March 1976 emphasised that only formal, not material tax harmonisation was sought: «The harmonisation shall only extend to tax liability, the subject matter and temporal assessment of taxes, procedural law and tax criminal law» (BBl 1976 I 1361). This fundamental decision was maintained when transferring to Art. 129 new Federal Constitution.
 
@@ -26,11 +26,11 @@
 
 #### a) Basic competence (para. 1)
 
-**N. 7** The term «principles» is interpreted controversially. The «antinomy of constitutional objectives» outlined by Reich (Simonek, BSK BV, Art. 129 N. 12) characterises the interpretation: On the one hand, only framework legislation should take place, on the other hand effective harmonisation is sought.
+**N. 7** The term «principles» is interpreted controversially. The «antinomy of constitutional objectives» outlined by Reich characterises the interpretation: On the one hand, only framework legislation should take place, on the other hand effective harmonisation is sought.
 
 **N. 8** The Federal Supreme Court tends towards an extensive interpretation. In **BGE 130 II 202** it stated that the extent of cantonal possibilities for concretisation must be determined separately for each provision. Practice shows that the Confederation largely exhausts its competence (Vallender, Mittelbare Rechtsetzung, 435).
 
-**N. 9** The «direct taxes» comprise, according to the Federal Council's definition, taxes on income and wealth of natural persons as well as on profit and capital of legal persons (Simonek, BSK BV, Art. 129 N. 23). Not covered are in particular inheritance and gift taxes as well as capital gains taxes on real estate, although the latter have been partially included in the StHG (Art. 12 StHG).
+**N. 9** The «direct taxes» comprise, according to the Federal Council's definition, taxes on income and wealth of natural persons as well as on profit and capital of legal persons. Not covered are in particular inheritance and gift taxes as well as capital gains taxes on real estate, although the latter have been partially included in the StHG (Art. 12 StHG).
 
 **N. 10** The obligation to take into account the «harmonisation efforts of the cantons» manifests itself primarily in the composition of expert commissions. Materially, however, this requirement has had little effect (Bieri, StR 2009, 92).
 
@@ -74,7 +74,7 @@
 
 ### 5. Disputed issues
 
-**N. 20** The central disputed issue concerns the scope for design by the cantons in the harmonised area. One view emphasises the «principle» nature of federal competence and derives from this that cantons must retain leeway even outside the explicitly excluded areas (Simonek, BSK BV, Art. 129 N. 11). The opposing position argues with the goal of a unified economic area and advocates for a narrow interpretation of cantonal scope (Simonek, BSK BV, Art. 129 N. 11).
+**N. 20** The central disputed issue concerns the scope for design by the cantons in the harmonised area. One view emphasises the «principle» nature of federal competence and derives from this that cantons must retain leeway even outside the explicitly excluded areas. The opposing position argues with the goal of a unified economic area and advocates for a narrow interpretation of cantonal scope.
 
 **N. 21** The scope of tariff autonomy is also controversial. While Oberson (Droit fiscal suisse, § 1 N 45) advocates comprehensive cantonal freedom in tariff design, others warn of constitutional limits. The Federal Supreme Court clarified in **BGE 133 I 206** that tariff autonomy is also subject to the principle of equality before the law.
 

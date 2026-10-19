@@ -60,7 +60,7 @@
 
 ### 4. Conseguenze giuridiche
 
-**N. 18** Le violazioni dell'art. 119a cpv. 3 Cost. (divieto del commercio, principio della gratuità) sono sanzionate penalmente a livello di legge negli artt. 69 e segg. LTra. Gli atti giuridici contrari al divieto del commercio sono nulli ai sensi dell'art. 20 CO (Belser/Molinari, BSK Cost., art. 119a N. 65).
+**N. 18** Le violazioni dell'art. 119a cpv. 3 Cost. (divieto del commercio, principio della gratuità) sono sanzionate penalmente a livello di legge negli artt. 69 e segg. LTra. Gli atti giuridici contrari al divieto del commercio sono nulli ai sensi dell'art. 20 CO.
 
 **N. 19** L'art. 119a cpv. 1 Cost. vincola la Confederazione quale **mandato legislativo**: l'inerzia del legislatore potrebbe essere censurata come omissione normativa. Dall'entrata in vigore della LTra nel 2007 tale mandato è adempiuto; le revisioni legislative in corso (p. es. il modello del consenso presunto del 2023) lo concretizzano ulteriormente.
 

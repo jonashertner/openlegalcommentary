@@ -14,7 +14,7 @@
 
 ### 3. Elementi della fattispecie / Contenuto della norma
 
-**N. 5** **Leggi federali**: Il concetto comprende tutte le leggi formali emanate dall'Assemblea federale nel procedimento legislativo ordinario secondo gli art. 163 segg. Cost. Secondo la dottrina prevalente (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 8; Waldmann/Belser/Epiney, BSK BV, Art. 190 N. 12) vi rientrano sia le leggi federali soggette a referendum sia quelle urgenti. Non sono invece comprese le ordinanze del Consiglio federale, anche quando si fondano su una delega legale.
+**N. 5** **Leggi federali**: Il concetto comprende tutte le leggi formali emanate dall'Assemblea federale nel procedimento legislativo ordinario secondo gli art. 163 segg. Cost. Secondo la dottrina prevalente (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 8) vi rientrano sia le leggi federali soggette a referendum sia quelle urgenti. Non sono invece comprese le ordinanze del Consiglio federale, anche quando si fondano su una delega legale.
 
 **N. 6** **Diritto internazionale**: Il concetto comprende tutte le norme di diritto internazionale vincolanti per la Svizzera, indipendentemente dal loro rango nel diritto internazionale. Ciò include trattati internazionali, diritto internazionale consuetudinario e principi generali del diritto internazionale (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3a ed. 2016, N. 3642). È controverso se siano compresi anche gli strumenti di soft law (negativo: Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4a ed. 2014, § 11 N. 24).
 
@@ -30,7 +30,7 @@
 
 ### 5. Questioni controverse
 
-**N. 11** **Portata dell'obbligo di applicazione**: Mentre la dottrina prevalente (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 15; Häfelin/Haller/Keller/Thurnherr, op. cit., N. 2230) intende l'art. 190 Cost. come obbligo di applicazione assoluto, un'opinione minoritaria (Schefer, in: Waldmann/Belser/Epiney, BSK BV, Art. 190 N. 28) propende per eccezioni in caso di gravi violazioni dei diritti fondamentali. Questa posizione non è riuscita ad affermarsi nella giurisprudenza.
+**N. 11** **Portata dell'obbligo di applicazione**: Mentre la dottrina prevalente (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 15; Häfelin/Haller/Keller/Thurnherr, op. cit., N. 2230) intende l'art. 190 Cost. come obbligo di applicazione assoluto, un'opinione minoritaria propende per eccezioni in caso di gravi violazioni dei diritti fondamentali. Questa posizione non è riuscita ad affermarsi nella giurisprudenza.
 
 **N. 12** **Prassi Schubert**: La portata della prassi Schubert è molto controversa. Kälin/Künzli (in: Ehrenzeller et al., SGK BV, Art. 190 N. 22) sostengono un'applicazione restrittiva solo in caso di chiara volontà del legislatore. Schweizer (Die Schubert-Praxis, 2018, S. 234) ne chiede l'abbandono completo a favore di una prevalenza illimitata del diritto internazionale. La giurisprudenza mantiene la prassi, ma la limita continuamente.
 

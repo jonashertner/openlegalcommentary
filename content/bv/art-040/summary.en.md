@@ -4,9 +4,9 @@
 
 Article 40 of the Federal Constitution regulates the relationship between Switzerland and its citizens abroad. The Confederation thereby receives a dual mandate: it shall promote the connections of Swiss citizens abroad among themselves and with their homeland. In addition, it must enact laws that regulate their rights and duties.
 
-According to legal doctrine, Swiss citizens abroad are persons who permanently live abroad and possess Swiss nationality (Tschannen, BSK BV, Art. 40 N. 4). Short stays abroad such as holidays or business trips do not qualify.
+According to legal doctrine, Swiss citizens abroad are persons who permanently live abroad and possess Swiss nationality. Short stays abroad such as holidays or business trips do not qualify.
 
-The article creates an important federal competence (Tschannen, BSK BV, Art. 40 N. 3). Normally, the cantons are responsible for caring for their citizens. In the case of Swiss citizens abroad, however, the Confederation is responsible because only it has the necessary diplomatic connections.
+The article creates an important federal competence. Normally, the cantons are responsible for caring for their citizens. In the case of Swiss citizens abroad, however, the Confederation is responsible because only it has the necessary diplomatic connections.
 
 The Confederation may support organisations that care for Swiss citizens abroad. For example, it promotes the Organisation of the Swiss Abroad (OSA), which serves as an umbrella organisation for over 750 Swiss associations abroad. However, individual persons have no entitlement to state support.
 

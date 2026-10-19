@@ -8,4 +8,4 @@ Die bedeutendsten Befugnisse betreffen die äussere und innere Sicherheit. Die B
 
 Weitere wichtige Befugnisse sind die Prüfung der Gültigkeit von Volksinitiativen und die Entscheidung bei Konflikten zwischen Bundesbehörden. So klärte das Bundesgericht in **BGE 129 II 193**, dass der Bundesrat als Regierung eigenständige Kompetenzen besitzt. Die Bundesversammlung kann auch Begnadigungen aussprechen und über Amnestien entscheiden, wobei solche Erlasse politisch umstritten sind.
 
-Als Auffangregelung behandelt die Bundesversammlung alle Geschäfte des Bundes, die keiner anderen Behörde zugewiesen sind (Abs. 2). Dies verhindert Kompetenzlücken im Staatsorganisationsrecht (Waldmann, BSK BV, 2. Aufl. 2024, Art. 173 N. 20).
+Als Auffangregelung behandelt die Bundesversammlung alle Geschäfte des Bundes, die keiner anderen Behörde zugewiesen sind (Abs. 2). Dies verhindert Kompetenzlücken im Staatsorganisationsrecht.

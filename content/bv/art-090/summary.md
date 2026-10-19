@@ -1,6 +1,6 @@
 # Übersicht
 
-Art. 90 BV gibt dem Bund die ausschliessliche Kompetenz für alle Gesetze im Bereich Kernenergie. Dies umfasst sämtliche Aspekte der friedlichen Nutzung der Atomenergie: Forschung, Bau, Betrieb und Stilllegung von Atomkraftwerken, Umgang mit radioaktiven Stoffen, Transporte und Entsorgung (Kern, BSK BV, Art. 90 N. 4). Die Kantone dürfen in diesem Bereich keine eigenen Gesetze erlassen.
+Art. 90 BV gibt dem Bund die ausschliessliche Kompetenz für alle Gesetze im Bereich Kernenergie. Dies umfasst sämtliche Aspekte der friedlichen Nutzung der Atomenergie: Forschung, Bau, Betrieb und Stilllegung von Atomkraftwerken, Umgang mit radioaktiven Stoffen, Transporte und Entsorgung. Die Kantone dürfen in diesem Bereich keine eigenen Gesetze erlassen.
 
 Der Bund hat diese Kompetenz durch das Kernenergiegesetz (KEG) ausgeübt. Wer ein Atomkraftwerk betreiben will, braucht eine Betriebsbewilligung des Bundes (Art. 19 KEG). Das Bundesgericht entschied, dass solche Bewilligungen nur aus Sicherheitsgründen befristet werden dürfen, nicht aus politischen Motiven (**BGE 139 II 185** E. 5.2). Eine wichtige Kontroverse betrifft die Verfassungsmässigkeit eines kompletten Atomausstiegs: Das Bundesamt für Justiz hält einen sicherheitsmotivierten Ausstieg für verfassungsrechtlich zulässig, während andere Rechtswissenschaftler dies bestreiten (Müller, ZBl 2013, 666).
 

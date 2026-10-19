@@ -10,4 +10,4 @@ L'**immunità relativa** protegge dal perseguimento penale per atti compiuti al 
 
 **Esempio**: Una consigliera nazionale critica aspramente un consigliere federale in una seduta di commissione e gli rimprovera l'incapacità. Per questo non può mai essere chiamata a rispondere (immunità assoluta). Se però il giorno dopo investisce qualcuno con l'auto, occorre una decisione parlamentare per il perseguimento penale (immunità relativa).
 
-L'immunità deve garantire la funzionalità del Parlamento e assicurare la libera espressione dell'opinione. È una protezione dell'istituzione, non un privilegio personale (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 162 N. 8; **DTF 100 IA 1** consid. 2).
+L'immunità deve garantire la funzionalità del Parlamento e assicurare la libera espressione dell'opinione. È una protezione dell'istituzione, non un privilegio personale (**DTF 100 IA 1** consid. 2).

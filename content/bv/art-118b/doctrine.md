@@ -12,9 +12,9 @@
 
 **N. 4** Art. 118b BV steht systematisch zwischen den Bestimmungen zur Transplantationsmedizin (Art. 119a BV) und zur Fortpflanzungsmedizin und Gentechnologie im Humanbereich (Art. 119 BV). Diese Einordnung zeigt den engen Zusammenhang mit anderen biomedizinischen Regelungsbereichen auf.
 
-**N. 5** Die Norm weist starke Bezüge zu den Grundrechten auf: Die Forschungsfreiheit (→ Art. 20 BV) wird durch die Schutzpflichten zugunsten der Menschenwürde (→ Art. 7 BV) und der persönlichen Freiheit (→ Art. 10 BV) begrenzt. Belser/Molinari betonen, dass Art. 118b BV «eine verfassungsrechtliche Konkretisierung des grundrechtlichen Spannungsfelds zwischen Forschungsfreiheit und Persönlichkeitsschutz» darstellt (Belser/Molinari, BSK BV, Art. 118b N. 1).
+**N. 5** Die Norm weist starke Bezüge zu den Grundrechten auf: Die Forschungsfreiheit (→ Art. 20 BV) wird durch die Schutzpflichten zugunsten der Menschenwürde (→ Art. 7 BV) und der persönlichen Freiheit (→ Art. 10 BV) begrenzt. Belser/Molinari betonen, dass Art. 118b BV «eine verfassungsrechtliche Konkretisierung des grundrechtlichen Spannungsfelds zwischen Forschungsfreiheit und Persönlichkeitsschutz» darstellt.
 
-**N. 6** Im Verhältnis zu anderen Verfassungsbestimmungen ist insbesondere die Abgrenzung zu Art. 119 BV relevant. Während Art. 119 BV die Anwendung gentechnischer Verfahren regelt, erfasst Art. 118b BV die vorgelagerte Forschung. Belser/Molinari halten fest: «Art. 118b BV erfasst die Forschung in allen Bereichen der Gesundheit, einschliesslich der Fortpflanzungs- und Transplantationsmedizin» (Belser/Molinari, BSK BV, Art. 118b N. 14).
+**N. 6** Im Verhältnis zu anderen Verfassungsbestimmungen ist insbesondere die Abgrenzung zu Art. 119 BV relevant. Während Art. 119 BV die Anwendung gentechnischer Verfahren regelt, erfasst Art. 118b BV die vorgelagerte Forschung. Belser/Molinari halten fest: «Art. 118b BV erfasst die Forschung in allen Bereichen der Gesundheit, einschliesslich der Fortpflanzungs- und Transplantationsmedizin».
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
@@ -22,21 +22,21 @@
 
 **N. 8** **Bereich der Medizin und Biologie**: Die Norm erfasst nicht nur klinische Versuche, sondern alle Forschung mit gesundheitsbezogenem Erkenntnisziel. Dazu gehören epidemiologische Studien, Forschung mit biologischen Materialien und gesundheitsbezogenen Daten sowie psychologische Forschung mit Gesundheitsbezug (Rütsche, Die Neuordnung des schweizerischen Humanforschungsgesetzes, ZSR 2010 I 405).
 
-**N. 9** **Schutz der Würde und Persönlichkeit**: Diese Begriffe verweisen auf die Grundrechte in Art. 7 und 10 BV. Die Menschenwürde setzt der Forschung absolute Grenzen; die Persönlichkeit kann unter den Voraussetzungen von Art. 36 BV eingeschränkt werden (Belser/Molinari, BSK BV, Art. 118b N. 25-28).
+**N. 9** **Schutz der Würde und Persönlichkeit**: Diese Begriffe verweisen auf die Grundrechte in Art. 7 und 10 BV. Die Menschenwürde setzt der Forschung absolute Grenzen; die Persönlichkeit kann unter den Voraussetzungen von Art. 36 BV eingeschränkt werden.
 
 ### 4. Rechtsfolgen
 
 **N. 10** **Gesetzgebungsauftrag**: Art. 118b Abs. 1 Satz 1 BV begründet eine umfassende Bundeskompetenz zur Regelung der Forschung am Menschen. Diese wurde durch das Humanforschungsgesetz vom 30. September 2011 (HFG; SR 810.30) ausgeübt, welches am 1. Januar 2014 in Kraft trat.
 
-**N. 11** **Unmittelbare Anwendbarkeit**: Die in Abs. 2 genannten Grundsätze sind gemäss Belser/Molinari «als Mindeststandards direkt anwendbar» (Belser/Molinari, BSK BV, Art. 118b N. 30). Sie binden den Gesetzgeber und können bei der Auslegung des HFG herangezogen werden.
+**N. 11** **Unmittelbare Anwendbarkeit**: Die in Abs. 2 genannten Grundsätze sind gemäss Belser/Molinari «als Mindeststandards direkt anwendbar». Sie binden den Gesetzgeber und können bei der Auslegung des HFG herangezogen werden.
 
 **N. 12** **Schutzpflichten**: Der Staat muss aktiv werden, um Würde und Persönlichkeit in der Forschung zu schützen. Dies umfasst präventive Massnahmen (Bewilligungspflichten), Kontrollen (Ethikkommissionen) und Sanktionen (Gächter/Rütsche, Gesundheitsrecht, 3. Aufl. 2013, N. 872).
 
 ### 5. Streitstände
 
-**N. 13** **Umfang der Bundeskompetenz**: Belser/Molinari vertreten die Position einer umfassenden Bundeskompetenz, die jedoch inhaltlich durch die Schutzaufträge begrenzt wird: «Die Bundeskompetenz ist als umfassende zu verstehen, die der Bund jedoch nicht auf beliebige Art und Weise wahrnehmen kann» (Belser/Molinari, BSK BV, Art. 118b N. 11). Demgegenüber qualifizieren van Spyk und Rütsche Art. 118b Abs. 1 als «gefährdungsbezogene Bundeskompetenz», die sich am Schutzbedürfnis orientiert (van Spyk, Grundlagen und Reichweite der neuen Bundeskompetenz, AJP 2010, 210; Rütsche, ZSR 2010 I 408).
+**N. 13** **Umfang der Bundeskompetenz**: Belser/Molinari vertreten die Position einer umfassenden Bundeskompetenz, die jedoch inhaltlich durch die Schutzaufträge begrenzt wird: «Die Bundeskompetenz ist als umfassende zu verstehen, die der Bund jedoch nicht auf beliebige Art und Weise wahrnehmen kann». Demgegenüber qualifizieren van Spyk und Rütsche Art. 118b Abs. 1 als «gefährdungsbezogene Bundeskompetenz», die sich am Schutzbedürfnis orientiert (van Spyk, Grundlagen und Reichweite der neuen Bundeskompetenz, AJP 2010, 210; Rütsche, ZSR 2010 I 408).
 
-**N. 14** **Verhältnis zu Art. 119 BV**: Die Abgrenzung zwischen Forschung (Art. 118b BV) und Anwendung (Art. 119 BV) im Bereich der Fortpflanzungsmedizin ist umstritten. Belser/Molinari plädieren für eine umfassende Anwendung von Art. 118b BV auf die gesamte Forschung, auch im Bereich der Fortpflanzungsmedizin (Belser/Molinari, BSK BV, Art. 118b N. 14). Rütsche differenziert hingegen: «Art. 119 BV geht als speziellere Norm vor, soweit er die Forschung an Embryonen regelt» (Rütsche, ZSR 2010 I 409). Sprecher unterstützt diese differenzierte Sichtweise mit dem Argument der systematischen Kohärenz (Sprecher, Medizinische Forschung mit Kindern und Jugendlichen, 2007, S. 89).
+**N. 14** **Verhältnis zu Art. 119 BV**: Die Abgrenzung zwischen Forschung (Art. 118b BV) und Anwendung (Art. 119 BV) im Bereich der Fortpflanzungsmedizin ist umstritten. Belser/Molinari plädieren für eine umfassende Anwendung von Art. 118b BV auf die gesamte Forschung, auch im Bereich der Fortpflanzungsmedizin. Rütsche differenziert hingegen: «Art. 119 BV geht als speziellere Norm vor, soweit er die Forschung an Embryonen regelt» (Rütsche, ZSR 2010 I 409). Sprecher unterstützt diese differenzierte Sichtweise mit dem Argument der systematischen Kohärenz (Sprecher, Medizinische Forschung mit Kindern und Jugendlichen, 2007, S. 89).
 
 **N. 15** **Forschung mit urteilsunfähigen Personen**: Die Zulässigkeitsvoraussetzungen von Art. 118b Abs. 2 lit. c BV sind Gegenstand intensiver Debatten. van Spyk vertritt eine restriktive Auslegung: «Fremdnützige Forschung an Urteilsunfähigen ist nur bei minimalem Risiko zulässig» (van Spyk, AJP 2010, 215). Brauer plädiert für mehr Flexibilität unter strengen Schutzvorkehrungen: «Ein kategorisches Verbot würde vulnerable Gruppen von medizinischem Fortschritt ausschliessen» (Brauer, Der Einfluss der Ethik auf das Recht, ZSR 2010 I 452). Die NEK-CNE nimmt eine vermittelnde Position ein (Stellungnahme Nr. 25/2015).
 

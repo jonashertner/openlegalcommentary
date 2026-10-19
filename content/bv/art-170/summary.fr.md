@@ -4,7 +4,7 @@
 
 L'art. 170 Cst. oblige l'Assemblée fédérale à veiller à ce que l'efficacité des mesures de la Confédération soit vérifiée. Cette disposition constitue une innovation constitutionnelle de la Constitution fédérale de 1999 sans équivalent dans l'ancienne Constitution fédérale de 1874 (SGK-Uhlmann/Bussmann, Art. 170 BV, N. 1).
 
-L'Assemblée fédérale n'est pas tenue d'effectuer elle-même les vérifications d'efficacité, mais peut les déléguer au Conseil fédéral, aux organes auxiliaires parlementaires ou à des instances externes (BSK-Lienhard/Mächler/Marti Locher, Art. 170 BV, N. 11). Dans la pratique, le Parlement remplit cette mission principalement par des clauses d'évaluation dans les lois, qui obligent le Conseil fédéral à vérifier certaines mesures. Il existe actuellement environ 110 de ces clauses dans le droit fédéral.
+L'Assemblée fédérale n'est pas tenue d'effectuer elle-même les vérifications d'efficacité, mais peut les déléguer au Conseil fédéral, aux organes auxiliaires parlementaires ou à des instances externes. Dans la pratique, le Parlement remplit cette mission principalement par des clauses d'évaluation dans les lois, qui obligent le Conseil fédéral à vérifier certaines mesures. Il existe actuellement environ 110 de ces clauses dans le droit fédéral.
 
 «L'efficacité» est comprise dans un sens large et comprend trois critères partiels (SGK-Uhlmann/Bussmann, Art. 170 BV, N. 20 ss) : l'état de mise en œuvre (la mesure est-elle effectivement mise en œuvre ?), le degré de réalisation des objectifs (la mesure atteint-elle ses objectifs ?) et l'économicité (les coûts et les bénéfices sont-ils dans un rapport approprié ?).
 

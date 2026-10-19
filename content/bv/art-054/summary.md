@@ -1,6 +1,6 @@
-Art. 54 BV regelt die Zuständigkeit des Bundes für alle aussenpolitischen Beziehungen der Schweiz. Der Bund ist ausschliesslich verantwortlich für die Beziehungen zu anderen Staaten und internationalen Organisationen (Epiney, BSK BV, Art. 54 N. 18). Die Kantone dürfen ohne bundesrechtliche Erlaubnis keine völkerrechtlichen Verträge abschliessen.
+Art. 54 BV regelt die Zuständigkeit des Bundes für alle aussenpolitischen Beziehungen der Schweiz. Der Bund ist ausschliesslich verantwortlich für die Beziehungen zu anderen Staaten und internationalen Organisationen. Die Kantone dürfen ohne bundesrechtliche Erlaubnis keine völkerrechtlichen Verträge abschliessen.
 
-Die Verfassung nennt konkrete aussenpolitische Ziele: Die Schweiz soll ihre Unabhängigkeit wahren, aber auch aktiv zur Lösung globaler Probleme beitragen. Dazu gehören die Bekämpfung von Armut, der Schutz der Menschenrechte, die Förderung der Demokratie, Friedenssicherung und Umweltschutz. Diese Ziele sind Programmsätze (Leitlinien), die keine einklagbaren Rechte für Einzelpersonen begründen (Epiney, BSK BV, Art. 54 N. 24).
+Die Verfassung nennt konkrete aussenpolitische Ziele: Die Schweiz soll ihre Unabhängigkeit wahren, aber auch aktiv zur Lösung globaler Probleme beitragen. Dazu gehören die Bekämpfung von Armut, der Schutz der Menschenrechte, die Förderung der Demokratie, Friedenssicherung und Umweltschutz. Diese Ziele sind Programmsätze (Leitlinien), die keine einklagbaren Rechte für Einzelpersonen begründen.
 
 Die Gerichte kontrollieren aussenpolitische Entscheide nur sehr zurückhaltend. Sie prüfen lediglich, ob die Behörden willkürlich gehandelt haben (**BGE 137 I 371 E. 1.2**). Den politischen Behörden steht ein weiter Ermessensspielraum zu.
 

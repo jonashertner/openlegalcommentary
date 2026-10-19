@@ -1,8 +1,8 @@
 # Übersicht
 
-Artikel 125 BV gibt dem Bund die ausschliessliche Zuständigkeit für alle Gesetze über das Messwesen (Göksu, BSK BV, Art. 125 N. 5). Diese Kompetenz besteht bereits seit der ersten Bundesverfassung von 1848 und dient der Rechtsvereinheitlichung im geschäftlichen Verkehr (Botsch. BV, BBl 1997 I 368).
+Artikel 125 BV gibt dem Bund die ausschliessliche Zuständigkeit für alle Gesetze über das Messwesen. Diese Kompetenz besteht bereits seit der ersten Bundesverfassung von 1848 und dient der Rechtsvereinheitlichung im geschäftlichen Verkehr (Botsch. BV, BBl 1997 I 368).
 
-Das Messwesen umfasst drei Hauptbereiche: die Definition von Masseinheiten (wie Meter, Kilogramm, Sekunde), die technischen Anforderungen an Messgeräte und deren regelmässige Eichung (Überprüfung der Genauigkeit) (Art. 2 Abs. 1 MessG; Göksu, BSK BV, Art. 125 N. 2-4). Der Bund hat diese Kompetenz durch das Bundesgesetz über das Messwesen (MessG) umgesetzt.
+Das Messwesen umfasst drei Hauptbereiche: die Definition von Masseinheiten (wie Meter, Kilogramm, Sekunde), die technischen Anforderungen an Messgeräte und deren regelmässige Eichung (Überprüfung der Genauigkeit) (Art. 2 Abs. 1 MessG). Der Bund hat diese Kompetenz durch das Bundesgesetz über das Messwesen (MessG) umgesetzt.
 
 Betroffen sind alle Unternehmen und Personen, die Messgeräte im geschäftlichen Verkehr verwenden. Dazu gehören Tankstellen mit Zapfsäulen, Bäckereien mit Waagen, Elektrizitätswerke mit Stromzählern oder Taxiunternehmen mit Fahrtenschreibern (Art. 3 MessG). Diese Messgeräte müssen vom Bundesamt für Metrologie (METAS) zugelassen und regelmässig geeicht werden.
 

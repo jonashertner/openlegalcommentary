@@ -10,7 +10,7 @@
 
 ### 2. Systematic Classification
 
-**Para. 4** Art. 113 FC forms, together with Art. 111 FC (OASI/DI) and Art. 114 FC (unemployment insurance), the core of the constitutional social insurance system. The three pillars of old-age provision are systematically coordinated: the first pillar (OASI) secures basic needs, the second pillar (occupational pension provision) enables the continuation of the customary standard of living, and the third pillar (self-provision) serves individual supplementation (Cardinaux, BSK BV, Art. 113 Para. 3).
+**Para. 4** Art. 113 FC forms, together with Art. 111 FC (OASI/DI) and Art. 114 FC (unemployment insurance), the core of the constitutional social insurance system. The three pillars of old-age provision are systematically coordinated: the first pillar (OASI) secures basic needs, the second pillar (occupational pension provision) enables the continuation of the customary standard of living, and the third pillar (self-provision) serves individual supplementation.
 
 **Para. 5** The competence provision in para. 1 belongs systematically to the substantive competences of the Confederation (Art. 54–125 FC). It establishes a comprehensive federal competence with subsequent derogatory effect, whereby cantonal regulations in the area of occupational pension provision are only subsidiarily permissible (→ Art. 49 FC). However, the cantons remain responsible for the occupational pension provision of their own personnel, insofar as federal law does not provide conclusive regulations (**BGE 135 I 28 E. 5**).
 
@@ -18,17 +18,17 @@
 
 ### 3. Elements of the Provision / Content of the Norm
 
-**Para. 7** **Legislative competence (para. 1)**: The Confederation has not only the authority but the duty to enact provisions on occupational pension provision. This comprehensive competence covers all aspects of the second pillar, from benefit requirements through organization to supervision (Cardinaux, BSK BV, Art. 113 Para. 21).
+**Para. 7** **Legislative competence (para. 1)**: The Confederation has not only the authority but the duty to enact provisions on occupational pension provision. This comprehensive competence covers all aspects of the second pillar, from benefit requirements through organization to supervision.
 
-**Para. 8** **Benefit objective (para. 2 lit. a)**: Occupational pension provision shall, together with OASI/DI, enable the «continuation of the customary standard of living in an appropriate manner». According to the Federal Council's conception, pension benefits from the first and second pillars should together reach 60% of the last gross salary for middle incomes (Cardinaux, BSK BV, Art. 113 Para. 30). The Federal Supreme Court has clarified that overinsurance through the accumulation of various social insurances is not compatible with the objective of the second pillar (**BGE 130 V 369 E. 2.2**).
+**Para. 8** **Benefit objective (para. 2 lit. a)**: Occupational pension provision shall, together with OASI/DI, enable the «continuation of the customary standard of living in an appropriate manner». According to the Federal Council's conception, pension benefits from the first and second pillars should together reach 60% of the last gross salary for middle incomes. The Federal Supreme Court has clarified that overinsurance through the accumulation of various social insurances is not compatible with the objective of the second pillar (**BGE 130 V 369 E. 2.2**).
 
-**Para. 9** **Insurance obligation (para. 2 lit. b)**: The obligation for employees forms the core of occupational pension provision. The concept of employee status in occupational pension provision is identical to that of OASI (Cardinaux, BSK BV, Art. 113 Para. 38). The law may provide exceptions, for example for minor incomes or short employment periods (Riemer/Riemer-Kafka, Recht der beruflichen Vorsorge, § 4 Para. 25 ff.).
+**Para. 9** **Insurance obligation (para. 2 lit. b)**: The obligation for employees forms the core of occupational pension provision. The concept of employee status in occupational pension provision is identical to that of OASI. The law may provide exceptions, for example for minor incomes or short employment periods (Riemer/Riemer-Kafka, Recht der beruflichen Vorsorge, § 4 Para. 25 ff.).
 
 **Para. 10** **Implementation through pension institutions (para. 2 lit. c)**: Employers must insure their employees with a pension institution. This decentralized organization is an essential characteristic of Swiss occupational pension provision (Helbling, Personalvorsorge und BVG, p. 89). The Confederation must subsidiarily provide a federal pension institution (safety fund).
 
 **Para. 11** **Self-employed persons (para. 2 lit. d and e)**: Self-employed persons may insure themselves voluntarily. The Confederation may introduce an obligation for certain groups, which it has not yet done (Stauffer, Berufliche Vorsorge, Para. 156).
 
-**Para. 12** **Financing (para. 3)**: Joint financing is constitutionally enshrined. Employers must pay at least half of their employees' contributions. This minimum parity applies to both obligatory and supplementary occupational pension provision (Cardinaux, BSK BV, Art. 113 Para. 57).
+**Para. 12** **Financing (para. 3)**: Joint financing is constitutionally enshrined. Employers must pay at least half of their employees' contributions. This minimum parity applies to both obligatory and supplementary occupational pension provision.
 
 **Para. 13** **Minimum requirements (para. 4)**: All pension institutions must meet federal law minimum requirements. These concern organization, financing, investment regulations and supervision (Schneider/Geiser/Gächter, BVG Handkommentar, Intro Para. 45 ff.).
 
@@ -44,7 +44,7 @@
 
 ### 5. Disputes
 
-**Para. 18** **Scope of the obligation**: It is disputed to what extent the legislator is authorized to provide exceptions from the insurance obligation. While Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 Para. 30) advocate a restrictive interpretation, Cardinaux (BSK BV, Art. 113 Para. 45) pleads for greater legislative discretion. Federal Supreme Court jurisprudence tends toward the more extensive interpretation.
+**Para. 18** **Scope of the obligation**: It is disputed to what extent the legislator is authorized to provide exceptions from the insurance obligation. While Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 Para. 30) advocate a restrictive interpretation, Cardinaux pleads for greater legislative discretion. Federal Supreme Court jurisprudence tends toward the more extensive interpretation.
 
 **Para. 19** **Obligation for self-employed persons**: The question of which groups of self-employed persons should have an obligation introduced is controversially discussed. Stauffer (Berufliche Vorsorge, Para. 158) supports an obligation for pseudo-self-employed persons, while Helbling (Personalvorsorge und BVG, p. 112) warns against overregulation.
 

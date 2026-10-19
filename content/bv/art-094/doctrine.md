@@ -8,23 +8,23 @@
 
 ### 2. Systematische Einordnung
 
-**N. 3** Art. 94 BV steht am Anfang des 3. Abschnitts («Wirtschaft») des 3. Titels der Bundesverfassung und stellt die Grundnorm der schweizerischen Wirtschaftsverfassung dar (Uhlmann, BSK BV, Art. 94 N. 1). Die Bestimmung hat eine Doppelnatur: Sie ist sowohl objektive Verfassungsnorm als auch Grundlage für das in Art. 27 BV verankerte Grundrecht der Wirtschaftsfreiheit.
+**N. 3** Art. 94 BV steht am Anfang des 3. Abschnitts («Wirtschaft») des 3. Titels der Bundesverfassung und stellt die Grundnorm der schweizerischen Wirtschaftsverfassung dar. Die Bestimmung hat eine Doppelnatur: Sie ist sowohl objektive Verfassungsnorm als auch Grundlage für das in Art. 27 BV verankerte Grundrecht der Wirtschaftsfreiheit.
 
 **N. 4** Die systematischen Verbindungen sind vielfältig: → Art. 27 BV konkretisiert die individualrechtliche Dimension, → Art. 95–107 BV enthalten sektorielle Wirtschaftsbestimmungen, → Art. 36 BV regelt die Voraussetzungen für Grundrechtseingriffe, ↔ Art. 5 BV (Rechtsstaatsprinzip) und Art. 3 BV (Föderalismus) bilden den verfassungsrechtlichen Rahmen.
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 5** **Grundsatz der Wirtschaftsfreiheit (Abs. 1)**: Die Norm postuliert eine grundsätzlich staatsfreie Wirtschaftsordnung. Das Bundesgericht betont jedoch, dass staatliche Wirtschaftstätigkeit aufgrund der gelebten Verfassungspraxis zulässig ist und keinen Grundrechtseingriff darstellt, solange das private Angebot nicht geradezu verdrängt wird (Uhlmann, BSK BV, Art. 94 N. 11–12; **BGE 138 I 378 E. 5.3**).
+**N. 5** **Grundsatz der Wirtschaftsfreiheit (Abs. 1)**: Die Norm postuliert eine grundsätzlich staatsfreie Wirtschaftsordnung. Das Bundesgericht betont jedoch, dass staatliche Wirtschaftstätigkeit aufgrund der gelebten Verfassungspraxis zulässig ist und keinen Grundrechtseingriff darstellt, solange das private Angebot nicht geradezu verdrängt wird (**BGE 138 I 378 E. 5.3**).
 
-**N. 6** **Wettbewerb**: Der Grundsatz umfasst insbesondere das Wettbewerbsprinzip (Uhlmann, BSK BV, Art. 94 N. 5–9). Staatliche Massnahmen müssen wettbewerbsneutral ausgestaltet sein. Dies bedeutet insbesondere das Verbot systematischer Quersubventionierung zwischen Monopol- und Wettbewerbsbereichen (**BGE 143 II 425**).
+**N. 6** **Wettbewerb**: Der Grundsatz umfasst insbesondere das Wettbewerbsprinzip. Staatliche Massnahmen müssen wettbewerbsneutral ausgestaltet sein. Dies bedeutet insbesondere das Verbot systematischer Quersubventionierung zwischen Monopol- und Wettbewerbsbereichen (**BGE 143 II 425**).
 
-**N. 7** **Binnenmarkt**: Art. 94 BV garantiert den schweizerischen Binnenmarkt (Uhlmann, BSK BV, Art. 94 N. 10). Kantonale Schranken des Marktzugangs sind nur unter den Voraussetzungen von Art. 95 Abs. 2 BV zulässig.
+**N. 7** **Binnenmarkt**: Art. 94 BV garantiert den schweizerischen Binnenmarkt. Kantonale Schranken des Marktzugangs sind nur unter den Voraussetzungen von Art. 95 Abs. 2 BV zulässig.
 
-**N. 8** **Wohlfahrt und wirtschaftliche Sicherheit (Abs. 2)**: Diese Bestimmung verpflichtet Bund und Kantone zur Zusammenarbeit mit der Privatwirtschaft. Sie begründet eine Staatszielbestimmung ohne unmittelbare Justiziabilität (Uhlmann, BSK BV, Art. 94 N. 14–17; Vallender, SG Komm. BV, Art. 94 N. 8).
+**N. 8** **Wohlfahrt und wirtschaftliche Sicherheit (Abs. 2)**: Diese Bestimmung verpflichtet Bund und Kantone zur Zusammenarbeit mit der Privatwirtschaft. Sie begründet eine Staatszielbestimmung ohne unmittelbare Justiziabilität (Vallender, SG Komm. BV, Art. 94 N. 8).
 
-**N. 9** **Günstige Rahmenbedingungen (Abs. 3)**: Der Staat soll optimale Bedingungen für privatwirtschaftliche Tätigkeit schaffen. Dies umfasst Rechtssicherheit, funktionierende Infrastruktur und makroökonomische Stabilität (Uhlmann, BSK BV, Art. 94 N. 18–20; Rhinow/Schefer/Uebersax, Verfassungsrecht, § 11 N. 34).
+**N. 9** **Günstige Rahmenbedingungen (Abs. 3)**: Der Staat soll optimale Bedingungen für privatwirtschaftliche Tätigkeit schaffen. Dies umfasst Rechtssicherheit, funktionierende Infrastruktur und makroökonomische Stabilität (Rhinow/Schefer/Uebersax, Verfassungsrecht, § 11 N. 34).
 
-**N. 10** **Verfassungsvorbehalt (Abs. 4)**: Abweichungen vom Grundsatz der Wirtschaftsfreiheit sind nur zulässig, wenn sie in der Bundesverfassung vorgesehen (z.B. Art. 98 BV für die Nationalbank, Art. 103 BV für die Strukturpolitik) oder durch kantonale Regalrechte begründet sind (Uhlmann, BSK BV, Art. 94 N. 21–26).
+**N. 10** **Verfassungsvorbehalt (Abs. 4)**: Abweichungen vom Grundsatz der Wirtschaftsfreiheit sind nur zulässig, wenn sie in der Bundesverfassung vorgesehen (z.B. Art. 98 BV für die Nationalbank, Art. 103 BV für die Strukturpolitik) oder durch kantonale Regalrechte begründet sind.
 
 ### 4. Rechtsfolgen
 
@@ -38,7 +38,7 @@
 
 **N. 14** **Staatliche Wirtschaftstätigkeit**: Die Zulässigkeit staatlicher Wirtschaftstätigkeit ist umstritten. Das Bundesgericht stützt sich auf die «gelebte Verfassungspraxis» (**BGE 138 I 378**). Teile der Lehre kritisieren diese methodisch als problematisch, da Verfassungsauslegung nicht durch faktische Übung bestimmt werden sollte (kritisch: J. Reich, Grundsatz der Wirtschaftsfreiheit, S. 234; zustimmend: Richli, Wirtschaftsverfassungsrecht, § 4 N. 89).
 
-**N. 15** **Subsidiaritätsprinzip**: Kontrovers ist, ob aus Art. 94 BV ein justiziables Subsidiaritätsprinzip folgt. Das Bundesgericht sieht es als wirtschaftspolitisches Leitbild ohne Rechtverbindlichkeit (Uhlmann, BSK BV, Art. 94 N. 11). Die Lehre ist gespalten: Biaggini (Komm. BV, Art. 94 N. 5) bejaht eine gewisse normative Kraft, während Rhinow (Wirtschafts- und Eigentumsverfassung, S. 156) dies ablehnt.
+**N. 15** **Subsidiaritätsprinzip**: Kontrovers ist, ob aus Art. 94 BV ein justiziables Subsidiaritätsprinzip folgt. Das Bundesgericht sieht es als wirtschaftspolitisches Leitbild ohne Rechtverbindlichkeit. Die Lehre ist gespalten: Biaggini (Komm. BV, Art. 94 N. 5) bejaht eine gewisse normative Kraft, während Rhinow (Wirtschafts- und Eigentumsverfassung, S. 156) dies ablehnt.
 
 **N. 16** **Verhältnis zu Art. 27 BV**: Umstritten ist das Verhältnis zwischen der objektiven Norm (Art. 94 BV) und dem Grundrecht (Art. 27 BV). Die herrschende Lehre sieht Art. 94 BV als objektive Grundsatznorm mit weitergehendem Schutzbereich (Vallender/Hettich/Lehne, Wirtschaftsfreiheit, S. 89), während andere eine weitgehende Deckungsgleichheit annehmen (Müller/Schefer, Grundrechte, S. 1023).
 

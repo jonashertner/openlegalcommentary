@@ -10,13 +10,13 @@
 
 **N. 3** Art. 85 BV is located in Title 3 (Confederation, Cantons and Communes), Chapter 5 (Public Works and Transport) of the Federal Constitution. Together with Art. 82–88 BV, this provision forms the constitutional foundation of Swiss transport policy. It stands in close systematic connection with → Art. 84 BV (Alpine Transit Traffic) and → Art. 86 BV (Use of Charges for Tasks and Expenditures in Connection with Road Traffic).
 
-**N. 4** The heavy vehicle fee is an incentive charge with subsidiary fiscal purposes. It differs from the fuel tax (→ Art. 86 para. 1 BV) through its direct link to distance travelled and pollutant emissions. Unlike classical taxes, the revenue is earmarked according to para. 2 (Epiney, BSK BV, Art. 85 N. 11).
+**N. 4** The heavy vehicle fee is an incentive charge with subsidiary fiscal purposes. It differs from the fuel tax (→ Art. 86 para. 1 BV) through its direct link to distance travelled and pollutant emissions. Unlike classical taxes, the revenue is earmarked according to para. 2.
 
 ## 3. Elements of the Offence / Normative Content
 
 ### 3.1 Federal Competence (para. 1)
 
-**N. 5** The Confederation's levy competence is formulated as a «may provision». The Confederation is not obliged but entitled to levy a heavy vehicle fee. The competence is comprehensive and excludes cantonal heavy vehicle fees (Epiney, BSK BV, Art. 85 N. 5).
+**N. 5** The Confederation's levy competence is formulated as a «may provision». The Confederation is not obliged but entitled to levy a heavy vehicle fee. The competence is comprehensive and excludes cantonal heavy vehicle fees.
 
 **N. 6** The charge may be levied «according to performance or consumption». Performance-related means assessment according to kilometres driven, consumption-related according to fuel consumption. The HVFA has opted for a combination: kilometres driven multiplied by a weight- and emission-dependent tariff (Art. 6 HVFA).
 
@@ -24,11 +24,11 @@
 
 **N. 7** Heavy traffic must cause costs to the general public that are «not covered by other services or charges». This includes both infrastructure costs and external costs such as environmental, health and accident costs (BBl 1993 II 823).
 
-**N. 8** The concept of external costs is disputed. The Federal Court decided in **BGE 136 II 337** that even «atypical» external costs such as congestion costs are covered (Epiney, BSK BV, Art. 85 N. 9). Heuck criticises this broad interpretation and argues that congestion costs are traffic-internal costs that cannot be externalised (Heuck, URP 2010, 542). The prevailing doctrine, however, follows the Federal Court's jurisprudence (Epiney, BSK BV, Art. 85 N. 9).
+**N. 8** The concept of external costs is disputed. The Federal Court decided in **BGE 136 II 337** that even «atypical» external costs such as congestion costs are covered. Heuck criticises this broad interpretation and argues that congestion costs are traffic-internal costs that cannot be externalised (Heuck, URP 2010, 542). The prevailing doctrine, however, follows the Federal Court's jurisprudence.
 
 ### 3.3 Earmarking (para. 2)
 
-**N. 9** The net revenue is to be used for «costs in connection with land transport». This open formulation allows broad use, not only for road infrastructure but also for railway infrastructure, noise protection or traffic safety (Epiney, BSK BV, Art. 85 N. 12).
+**N. 9** The net revenue is to be used for «costs in connection with land transport». This open formulation allows broad use, not only for road infrastructure but also for railway infrastructure, noise protection or traffic safety.
 
 ### 3.4 Cantonal Share (para. 3)
 
@@ -38,7 +38,7 @@
 
 **N. 11** Art. 85 BV does not create direct subjective rights or obligations. The constitutional provision requires specification through the HVFA and the HVFO. The obligation to pay the charge for individuals only arises through the implementing legislation (Art. 3 HVFA).
 
-**N. 12** The earmarking according to para. 2 is justiciable. Improper use of LSVA revenues can be challenged in court. The cantons have a constitutional right to participation in the net revenue according to para. 3 (Epiney, BSK BV, Art. 85 N. 13).
+**N. 12** The earmarking according to para. 2 is justiciable. Improper use of LSVA revenues can be challenged in court. The cantons have a constitutional right to participation in the net revenue according to para. 3.
 
 ## 5. Points of Contention
 

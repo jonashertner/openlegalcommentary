@@ -34,7 +34,7 @@ Die jederzeitige Revidierbarkeit stellt eine Verfahrensgarantie dar. Sie gewähr
 
 **N. 5.1** *Grenzen der Verfassungsrevision*
 
-Umstritten ist, ob neben den ausdrücklich genannten Schranken weitere ungeschriebene materielle Grenzen der Verfassungsrevision bestehen. Auer vertritt die Position, dass auch über Art. 193 und 194 BV hinaus gewisse überpositiv begründete Schranken existieren (Auer, in: St. Galler Kommentar BV, Art. 193 N. 16). Hingegen betont Epiney, dass die Verfassung selbst ihre Revisionsgrenzen abschliessend festlege und darüber hinausgehende Beschränkungen dem Prinzip der Volkssouveränität widersprächen (Epiney, in: BSK BV, 2. Aufl. 2024, Art. 139 N. 28).
+Umstritten ist, ob neben den ausdrücklich genannten Schranken weitere ungeschriebene materielle Grenzen der Verfassungsrevision bestehen. Auer vertritt die Position, dass auch über Art. 193 und 194 BV hinaus gewisse überpositiv begründete Schranken existieren (Auer, in: St. Galler Kommentar BV, Art. 193 N. 16). Hingegen betont Epiney, dass die Verfassung selbst ihre Revisionsgrenzen abschliessend festlege und darüber hinausgehende Beschränkungen dem Prinzip der Volkssouveränität widersprächen.
 
 **N. 5.2** *Verhältnis von Total- und Partialrevision*
 

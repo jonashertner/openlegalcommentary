@@ -26,7 +26,7 @@
 
 **N. 7** Il concetto di "controversie" comprende tutte le controversie giuridiche, indipendentemente dal fatto che si tratti di questioni di diritto civile, penale o pubblico. Sono incluse sia le violazioni di diritto individuali sia i procedimenti di controllo astratto delle norme (Ehrenzeller/Schindler/Schweizer/Vallender, Commentario di San Gallo alla Cost., 4a ed. 2023, art. 189 n. 3).
 
-**N. 8** Lett. a (diritto federale): Comprende l'intero ordinamento giuridico della Confederazione, inclusi Costituzione, leggi, ordinanze e decreti federali di obbligatorietà generale. La competenza praticamente più importante del Tribunale federale (Waldmann/Belser/Epiney, BSK Cost., 2a ed. 2024, art. 189 n. 5).
+**N. 8** Lett. a (diritto federale): Comprende l'intero ordinamento giuridico della Confederazione, inclusi Costituzione, leggi, ordinanze e decreti federali di obbligatorietà generale. La competenza praticamente più importante del Tribunale federale.
 
 **N. 9** Lett. b (diritto internazionale): Comprende tutte le norme di diritto internazionale vincolanti per la Svizzera, in particolare i trattati internazionali, il diritto internazionale consuetudinario e i principi generali del diritto. **DTF 145 IV 364** consid. 3.3 sottolinea l'importanza di questa competenza per la verifica della compatibilità del diritto svizzero con gli obblighi internazionali.
 
@@ -64,9 +64,9 @@
 
 **N. 21** **Portata della clausola d'immunità**: È controversa la portata dell'art. 189 cpv. 4 Cost. Mentre Rhinow/Schefer/Uebersax (Diritto costituzionale svizzero, n. 3502) sostengono un'interpretazione restrittiva, Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo, art. 189 n. 24) propendono per un'interpretazione ampia. La giurisprudenza tende a un'interpretazione estensiva (**DTF 147 I 194** consid. 2.2).
 
-**N. 22** **Rapporto con il diritto internazionale**: È discusso in modo controverso il rapporto tra l'art. 189 cpv. 1 lett. b Cost. e l'art. 190 Cost. in caso di conflitti tra diritto internazionale e diritto federale. Waldmann/Belser/Epiney (BSK Cost., art. 189 n. 8) sostengono che l'art. 189 Cost. regola solo la competenza, non però il criterio di verifica. Müller/Schefer (Diritti fondamentali in Svizzera, 4a ed. 2008, p. 982) vedono invece nell'art. 189 cpv. 1 lett. b Cost. una competenza di verifica autonoma.
+**N. 22** **Rapporto con il diritto internazionale**: È discusso in modo controverso il rapporto tra l'art. 189 cpv. 1 lett. b Cost. e l'art. 190 Cost. in caso di conflitti tra diritto internazionale e diritto federale. Waldmann/Belser/Epiney sostengono che l'art. 189 Cost. regola solo la competenza, non però il criterio di verifica. Müller/Schefer (Diritti fondamentali in Svizzera, 4a ed. 2008, p. 982) vedono invece nell'art. 189 cpv. 1 lett. b Cost. una competenza di verifica autonoma.
 
-**N. 23** **Giustiziabilità dei diritti politici**: La portata dell'art. 189 cpv. 1 lett. f Cost. è controversa. Tschannen (in: Ehrenzeller et al., Commentario di San Gallo, art. 189 n. 16) sostiene una giustiziabilità completa. Kley (in: Waldmann et al., BSK Cost., art. 189 n. 14) propende per la moderazione nelle questioni di discrezionalità politica.
+**N. 23** **Giustiziabilità dei diritti politici**: La portata dell'art. 189 cpv. 1 lett. f Cost. è controversa. Tschannen (in: Ehrenzeller et al., Commentario di San Gallo, art. 189 n. 16) sostiene una giustiziabilità completa. Kley propende per la moderazione nelle questioni di discrezionalità politica.
 
 ### 6. Indicazioni pratiche
 

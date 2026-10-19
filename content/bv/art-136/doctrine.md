@@ -14,17 +14,17 @@
 - → Art. 143 BV (Stimmberechtigung)
 - → Art. 149 Abs. 2 BV (Wählbarkeit in den Nationalrat)
 
-**N. 3** Die Norm ist als abschliessende Regelung der Stimmberechtigungsvoraussetzungen auf Bundesebene konzipiert. Der Gesetzgeber darf weder neue Voraussetzungen hinzufügen noch die genannten Voraussetzungen abändern (Tschannen, BSK BV, Art. 136 N. 7).
+**N. 3** Die Norm ist als abschliessende Regelung der Stimmberechtigungsvoraussetzungen auf Bundesebene konzipiert. Der Gesetzgeber darf weder neue Voraussetzungen hinzufügen noch die genannten Voraussetzungen abändern.
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
 **N. 4** **Staatsangehörigkeit**: Die Stimmberechtigung setzt die schweizerische Staatsangehörigkeit voraus. Doppelbürger sind stimmberechtigt, sofern sie die weiteren Voraussetzungen erfüllen. Das Stimmrecht für Auslandschweizerinnen und Auslandschweizer wird durch Art. 40 BV gewährleistet.
 
-**N. 5** **Volljährigkeit**: Das 18. Altersjahr muss vollendet sein. Der Tag des 18. Geburtstags ist massgebend, nicht das Kalenderjahr. Die Diskussion um eine weitere Herabsetzung des Stimmrechtsalters oder ein Kinderstimmrecht durch gesetzliche Vertreter wurde vom Verfassungsgeber verworfen. Tschannen (BSK BV, Art. 136 N. 10) lehnt das Kinderstimmrecht ab, da es «faktisch auf ein doppeltes Stimmrecht des gesetzlichen Vertreters hinaus[läuft] und [...] nicht nur der Rechtsgleichheit, sondern mehr noch der Organfunktion des Stimmrechts [widerspricht]».
+**N. 5** **Volljährigkeit**: Das 18. Altersjahr muss vollendet sein. Der Tag des 18. Geburtstags ist massgebend, nicht das Kalenderjahr. Die Diskussion um eine weitere Herabsetzung des Stimmrechtsalters oder ein Kinderstimmrecht durch gesetzliche Vertreter wurde vom Verfassungsgeber verworfen. Tschannen lehnt das Kinderstimmrecht ab, da es «faktisch auf ein doppeltes Stimmrecht des gesetzlichen Vertreters hinaus[läuft] und [...] nicht nur der Rechtsgleichheit, sondern mehr noch der Organfunktion des Stimmrechts [widerspricht]».
 
 **N. 6** **Entmündigung**: Der Ausschluss wegen «Geisteskrankheit oder Geistesschwäche» ist seit der Revision des Erwachsenenschutzrechts 2013 überholt. Art. 136 BV ist im Lichte von Art. 14 ZGB auszulegen: Nur die umfassende Beistandschaft führt zum Verlust der politischen Rechte. Die veraltete Terminologie der Verfassung ist bedauerlich, ändert aber nichts an der restriktiven Auslegung.
 
-**N. 7** **Gleichheit der politischen Rechte**: Absatz 1 Satz 2 garantiert die Gleichheit der politischen Rechte. Diese umfasst die Zählwertgleichheit (jede Stimme zählt gleich viel), nicht aber die Erfolgswertgleichheit (jede Stimme hat gleichen Einfluss auf das Ergebnis). Tschannen (BSK BV, Art. 136 N. 13) kritisiert, dass «Satz 2 von Art. 136 Abs. 1 in der Luft hängt und [...] besser nicht geschrieben worden [wäre]», da die Gleichheit bereits aus Art. 8 BV folge.
+**N. 7** **Gleichheit der politischen Rechte**: Absatz 1 Satz 2 garantiert die Gleichheit der politischen Rechte. Diese umfasst die Zählwertgleichheit (jede Stimme zählt gleich viel), nicht aber die Erfolgswertgleichheit (jede Stimme hat gleichen Einfluss auf das Ergebnis). Tschannen kritisiert, dass «Satz 2 von Art. 136 Abs. 1 in der Luft hängt und [...] besser nicht geschrieben worden [wäre]», da die Gleichheit bereits aus Art. 8 BV folge.
 
 ### 4. Rechtsfolgen
 

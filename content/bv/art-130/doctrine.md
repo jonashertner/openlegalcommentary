@@ -6,19 +6,19 @@
 
 **N. 2** Die Absätze 3 und 3bis wurden durch Volksabstimmung vom 20. März 1998 eingefügt (BBl 1997 III 653, AS 1998 1581), um die AHV-Finanzierung zu sichern und die Eisenbahninfrastruktur mitzufinanzieren. Die jüngste Ergänzung erfolgte mit der AHV-Reform 21, bei der die Absätze 3ter und 3quater durch Volksabstimmung vom 25. September 2022 hinzugefügt wurden (BBl 2022 2695, AS 2023 160).
 
-**N. 3** Die Botschaft von 1996 zur neuen Bundesverfassung (BBl 1997 I 1, 471) charakterisierte die Mehrwertsteuer als «wichtigste Bundessteuer» mit einem Ertrag von rund 15 Milliarden Franken. Behnisch (BSK BV, Art. 130 N. 8) bestätigt, dass die Mehrwertsteuer mit einem Ertrag von über 22 Milliarden Franken (2023) die fiskalisch bedeutendste Einnahmequelle des Bundes darstellt.
+**N. 3** Die Botschaft von 1996 zur neuen Bundesverfassung (BBl 1997 I 1, 471) charakterisierte die Mehrwertsteuer als «wichtigste Bundessteuer» mit einem Ertrag von rund 15 Milliarden Franken. Behnisch bestätigt, dass die Mehrwertsteuer mit einem Ertrag von über 22 Milliarden Franken (2023) die fiskalisch bedeutendste Einnahmequelle des Bundes darstellt.
 
 ### 2. Systematische Einordnung
 
 **N. 4** Art. 130 BV gehört zum 3. Titel über Bund, Kantone und Gemeinden, 3. Kapitel über Finanzordnung. Die Norm steht in engem systematischen Zusammenhang mit → Art. 127 BV (Grundsätze der Besteuerung), → Art. 133 BV (Zölle) und → Art. 134 BV (Ausschluss kantonaler und kommunaler Steuern). Die Mehrwertsteuer ist eine ausschliessliche Bundessteuer, womit den Kantonen jegliche Erhebung gleichartiger Steuern untersagt ist (Art. 134 BV).
 
-**N. 5** Die verfassungsrechtliche Verankerung als Mehrwertsteuer mit festgelegten Höchstsätzen bindet den Gesetzgeber. Behnisch (BSK BV, Art. 130 N. 14) betont, dass Art. 130 BV dem Bund eine umfassende Kompetenz zur Erhebung einer Mehrwertsteuer verleiht, jedoch keine Erhebungspflicht begründet. Der Gesetzgeber könnte theoretisch auf die Erhebung verzichten oder niedrigere Sätze festlegen.
+**N. 5** Die verfassungsrechtliche Verankerung als Mehrwertsteuer mit festgelegten Höchstsätzen bindet den Gesetzgeber. Behnisch betont, dass Art. 130 BV dem Bund eine umfassende Kompetenz zur Erhebung einer Mehrwertsteuer verleiht, jedoch keine Erhebungspflicht begründet. Der Gesetzgeber könnte theoretisch auf die Erhebung verzichten oder niedrigere Sätze festlegen.
 
 **N. 6** Die Übergangsbestimmungen in → Art. 196 Ziff. 14 BV regeln die zeitliche Geltung der Mehrwertsteuer. Nach Abs. 1 dieser Bestimmung wird die Mehrwertsteuer bis Ende 2035 erhoben. Die Verlängerung bedarf der Zustimmung von Volk und Ständen.
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 7** Art. 130 Abs. 1 BV definiert die Mehrwertsteuer als allgemeine Verbrauchssteuer nach dem System der Netto-Allphasensteuer mit Vorsteuerabzug. Behnisch (BSK BV, Art. 130 N. 10) charakterisiert sie als «Bruttoallphasensteuer mit Vorsteuerabzug». Steuergegenstand sind Lieferungen von Gegenständen, Dienstleistungen einschliesslich Eigenverbrauch sowie Einfuhren.
+**N. 7** Art. 130 Abs. 1 BV definiert die Mehrwertsteuer als allgemeine Verbrauchssteuer nach dem System der Netto-Allphasensteuer mit Vorsteuerabzug. Behnisch charakterisiert sie als «Bruttoallphasensteuer mit Vorsteuerabzug». Steuergegenstand sind Lieferungen von Gegenständen, Dienstleistungen einschliesslich Eigenverbrauch sowie Einfuhren.
 
 **N. 8** Der verfassungsrechtliche Steuersatzkorridor legt verbindliche Grenzen fest: Der Normalsatz darf 6,5% nicht überschreiten (derzeit 8,1% mit allen Zuschlägen gemäss Art. 25 Abs. 1 MWSTG), der reduzierte Satz muss mindestens 2,0% betragen (derzeit 2,6% gemäss Art. 25 Abs. 2 lit. a MWSTG). Für Beherbergungsleistungen sieht Abs. 2 einen Sondersatz zwischen dem reduzierten und dem Normalsatz vor (derzeit 3,8% gemäss Art. 25 Abs. 2 lit. b MWSTG).
 
@@ -34,11 +34,11 @@
 
 ### 5. Streitstände
 
-**N. 13** Die rechtliche Natur der Mehrwertsteuer ist in der Doktrin umstritten. Während Behnisch (BSK BV, Art. 130 N. 10) von einer «Bruttoallphasensteuer mit Vorsteuerabzug» spricht, qualifizieren Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) sie als «impôt général sur la consommation». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2. Aufl. 2012, 645) betont den Charakter als «indirekte Steuer».
+**N. 13** Die rechtliche Natur der Mehrwertsteuer ist in der Doktrin umstritten. Während Behnisch von einer «Bruttoallphasensteuer mit Vorsteuerabzug» spricht, qualifizieren Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) sie als «impôt général sur la consommation». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2. Aufl. 2012, 645) betont den Charakter als «indirekte Steuer».
 
 **N. 14** Die Justiziabilität der Teilzweckbindung nach Abs. 4 ist kontrovers. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N. 3687) vertreten die Position, dass sich aus der Norm ein durchsetzbarer Anspruch der Kantone ableiten lasse. Blumenstein/Locher (System des Schweizerischen Steuerrechts, 6. Aufl. 2002, 325) sehen dagegen nur eine politische Verpflichtung des Bundes.
 
-**N. 15** Behnisch (BSK BV, Art. 130 N. 12) kritisiert die «Systemmängel» des Mehrwertsteuerrechts, insbesondere die «fehleranfällige Komplexität» und die «mangelhafte Umsetzung durch die ESTV». Diese Kritik wurde teilweise im Spori-Bericht (Bericht des Beauftragten P. Spori in Sachen Mehrwertsteuerreform, 2006, 23 ff.) aufgenommen, führte aber nicht zu einer grundlegenden Systemänderung.
+**N. 15** Behnisch kritisiert die «Systemmängel» des Mehrwertsteuerrechts, insbesondere die «fehleranfällige Komplexität» und die «mangelhafte Umsetzung durch die ESTV». Diese Kritik wurde teilweise im Spori-Bericht (Bericht des Beauftragten P. Spori in Sachen Mehrwertsteuerreform, 2006, 23 ff.) aufgenommen, führte aber nicht zu einer grundlegenden Systemänderung.
 
 **N. 16** Die verfassungsrechtliche Zulässigkeit von Steuer-Rulings im MWST-Bereich wird unterschiedlich beurteilt. Baumgartner (Möglichkeiten und Grenzen von Steuer-Rulings, in: Mäusli-Allenspach/Beusch, 2013, 201 f.) bejaht diese unter Berufung auf → Art. 5 Abs. 3 BV (Treu und Glauben). Geiger/Schluckebier (MWSTG Kommentar, 2012, Art. 69 N. 8) sehen verfassungsrechtliche Grenzen bei systemwidrigen Auskünften.
 

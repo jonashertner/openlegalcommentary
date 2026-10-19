@@ -18,7 +18,7 @@
 
 **N. 5** The term "general staff unit" characterises the Federal Chancellery as a central support body without its own decision-making powers in substantive matters. According to Ehrenzeller/Schindler/Schweizer/Vallender (St. Gallen Commentary, 4th ed. 2023, Art. 179 N. 4), the staff function comprises three core elements: preparation, coordination and implementation support of Federal Council resolutions.
 
-**N. 6** The general clause "general" staff unit distinguishes the Federal Chancellery from the departmental secretaries general, which function as special staff units of their departments. The Federal Chancellery performs cross-departmental horizontal tasks (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 179 N. 7).
+**N. 6** The general clause "general" staff unit distinguishes the Federal Chancellery from the departmental secretaries general, which function as special staff units of their departments. The Federal Chancellery performs cross-departmental horizontal tasks.
 
 ### Management by Federal Chancellor
 

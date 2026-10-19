@@ -18,7 +18,7 @@
 
 ## Éléments du fait constitutif / Contenu de la norme
 
-**N. 5** **Corps électoral** : « Chaque conseil » désigne le Conseil national et le Conseil des États séparément. Les deux conseils élisent leurs présidiums indépendamment l'un de l'autre. La formulation « en son sein » signifie que seuls les membres du conseil respectif sont éligibles (Waldmann/Belser/Epiney, BSK BV, 2e éd. 2024, art. 152 n. 3).
+**N. 5** **Corps électoral**: « Chaque conseil » désigne le Conseil national et le Conseil des États séparément. Les deux conseils élisent leurs présidiums indépendamment l'un de l'autre. La formulation « en son sein » signifie que seuls les membres du conseil respectif sont éligibles.
 
 **N. 6** **Charges électives** : La norme exige l'élection de trois personnes :
 - Une présidente ou un président
@@ -46,7 +46,7 @@ La formulation neutre du point de vue du genre fut introduite avec la révision 
 
 **N. 11** **Nature juridique de l'interdiction de réélection** : Dans la doctrine, il est controversé de savoir si l'interdiction de réélection est impérative ou dispositive :
 - **Ehrenzeller** (St. Galler Kommentar BV, art. 152 n. 5) défend la position que l'interdiction est absolue et ne peut pas être contournée même par une décision unanime du conseil.
-- **Waldmann** (BSK BV, art. 152 n. 7) soutient au contraire que dans des situations extraordinaires (p. ex. pandémie, guerre), une application pragmatique serait envisageable.
+- **Waldmann** soutient au contraire que dans des situations extraordinaires (p. ex. pandémie, guerre), une application pragmatique serait envisageable.
 - **Graf** (Parlamentsrecht und Parlamentspraxis, § 10 n. 18) adopte une position intermédiaire : l'interdiction vaut en principe de manière absolue, mais en cas d'impossibilité d'une nouvelle élection, une poursuite temporaire de l'exercice de la charge serait admise.
 
 **N. 12** **Justiciabilité** : Il y a accord sur le fait que les élections selon l'art. 152 Cst. ne sont pas justiciables en tant qu'interna corporis. La portée de ce principe est cependant controversée :

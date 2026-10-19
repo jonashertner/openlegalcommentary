@@ -8,7 +8,7 @@ L'art. 107 Cst. donne à la Confédération la compétence de contrôler les arm
 
 **L'alinéa 2** concerne le matériel de guerre et englobe toute la chaîne de création de valeur, de la fabrication à l'exportation. Cette compétence permet à la Confédération un contrôle sans faille des biens à usage militaire. Elle constitue la base de la loi sur le matériel de guerre (LFMG) avec ses strictes obligations d'autorisation et ses contrôles d'exportation.
 
-La législation suisse sur les armes est marquée par l'association à Schengen, qui a conduit à un élargissement considérable des compétences fédérales. Certains juristes critiquent le fait que la Confédération ait ainsi outrepassé ses limites constitutionnelles (Künzli, BSK BV, Art. 107 N. 13). La doctrine dominante voit les choses différemment et souligne que le droit suisse continue de partir du principe d'un droit à l'acquisition d'armes.
+La législation suisse sur les armes est marquée par l'association à Schengen, qui a conduit à un élargissement considérable des compétences fédérales. Certains juristes critiquent le fait que la Confédération ait ainsi outrepassé ses limites constitutionnelles. La doctrine dominante voit les choses différemment et souligne que le droit suisse continue de partir du principe d'un droit à l'acquisition d'armes.
 
 Un exemple pratique montre la portée : un collectionneur d'armes historiques a besoin d'autorisations fédérales distinctes tant pour l'acquisition d'un pistolet militaire (LArm) que pour des composants de munitions (LFMG). Les violations peuvent entraîner des sanctions pénales et la confiscation des objets, comme l'a illustré l'affaire « Supergun » (**ATF 122 IV 103**).
 

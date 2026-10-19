@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-Art. 118 BV regelt die Gesundheitskompetenzen des Bundes. Die Bestimmung erlaubt dem Bund nicht, in allen Gesundheitsfragen zu handeln. Er darf nur dort tätig werden, wo die Verfassung ihm ausdrücklich Zuständigkeiten gibt (Gächter/Renold-Burch, BSK BV, Art. 118 N. 3).
+Art. 118 BV regelt die Gesundheitskompetenzen des Bundes. Die Bestimmung erlaubt dem Bund nicht, in allen Gesundheitsfragen zu handeln. Er darf nur dort tätig werden, wo die Verfassung ihm ausdrücklich Zuständigkeiten gibt.
 
 Absatz 1 verpflichtet den Bund, innerhalb seiner bestehenden Kompetenzen Gesundheitsschutzmassnahmen zu treffen. Absatz 2 nennt drei spezielle Bereiche, in denen der Bund Gesetze erlassen darf:
 

@@ -4,7 +4,7 @@
 
 ### 1. Genèse
 
-**N. 1** L'art. 64a Cst. a été inséré dans la Constitution fédérale dans le cadre de la constitution sur la formation du 21 mai 2006 (FF 2005 6787). Comme le relève la CSEC-CN dans son rapport, les compétences fragmentaires existantes étaient considérées comme insuffisantes (Hänni, BSK BV, Art. 64a N. 2-3). Le constituant a voulu établir des compétences d'encouragement uniformes pour tous les domaines de la formation continue.
+**N. 1** L'art. 64a Cst. a été inséré dans la Constitution fédérale dans le cadre de la constitution sur la formation du 21 mai 2006 (FF 2005 6787). Comme le relève la CSEC-CN dans son rapport, les compétences fragmentaires existantes étaient considérées comme insuffisantes. Le constituant a voulu établir des compétences d'encouragement uniformes pour tous les domaines de la formation continue.
 
 **N. 2** La disposition remplace l'art. 34 al. 1 let. g aCst., qui ne conférait à la Confédération qu'une compétence ponctuelle dans le domaine de la formation continue professionnelle. La nouvelle disposition constitutionnelle devait conférer à la Confédération une compétence globale et transversale pour encourager la formation continue (FF 2013 3397, 3400).
 
@@ -20,7 +20,7 @@
 
 ### 3. Éléments constitutifs / Contenu de la norme
 
-**N. 7** **Principes concernant la formation continue (al. 1) :** Selon sa prise de position sur le rapport CSEC-CN, le Conseil fédéral a concrétisé l'obligation de fixer des principes sous la forme de cinq principes (Hänni, BSK BV, Art. 64a N. 11) : responsabilité, qualité, perméabilité, reconnaissance des acquis de formation et égalité des chances.
+**N. 7** **Principes concernant la formation continue (al. 1) :** Selon sa prise de position sur le rapport CSEC-CN, le Conseil fédéral a concrétisé l'obligation de fixer des principes sous la forme de cinq principes: responsabilité, qualité, perméabilité, reconnaissance des acquis de formation et égalité des chances.
 
 **N. 8** **Notion de formation continue :** La notion englobe la « formation non formelle » (formation structurée en dehors de la formation formelle) et l'« apprentissage informel » (apprentissage non structuré au quotidien). La formation formelle du degré secondaire II et du degré tertiaire ne relève pas de l'art. 64a Cst., mais de → l'art. 63 Cst. et → l'art. 63a Cst. (Biaggini, Komm. BV, Art. 64a N. 3).
 
@@ -30,7 +30,7 @@
 
 ### 4. Conséquences juridiques
 
-**N. 11** En tant que norme de compétence, l'art. 64a Cst. ne fonde aucun droit subjectif à la formation continue ou à l'encouragement de la formation continue. La disposition a un caractère programmatique et nécessite d'être concrétisée par la législation (Hänni, BSK BV, Art. 64a N. 16).
+**N. 11** En tant que norme de compétence, l'art. 64a Cst. ne fonde aucun droit subjectif à la formation continue ou à l'encouragement de la formation continue. La disposition a un caractère programmatique et nécessite d'être concrétisée par la législation.
 
 **N. 12** La compétence de légiférer sur les principes (al. 1) oblige la Confédération à édicter des dispositions-cadres. Cette obligation a été remplie avec la LFCo. La compétence d'encouragement (al. 2) est en revanche conçue de manière facultative.
 
@@ -40,7 +40,7 @@
 
 **N. 14** **Portée de la compétence fédérale :** Ehrenzeller (SG Komm. BV, Art. 64a N. 7) défend une interprétation large de la compétence d'encouragement, qui englobe aussi les mesures structurelles. Biaggini (Komm. BV, Art. 64a N. 5) plaide pour une interprétation plus restrictive, qui se limite à l'encouragement financier et à la coordination.
 
-**N. 15** **Délimitation par rapport à la formation formelle :** La doctrine est divisée sur la délimitation entre formation continue selon l'art. 64a Cst. et formation formelle de rattrapage. Hänni (BSK BV, Art. 64a N. 8) veut subsumer les filières d'études en hautes écoles spécialisées en emploi sous l'art. 64a Cst., tandis que la doctrine dominante les rattache à → l'art. 63a Cst.
+**N. 15** **Délimitation par rapport à la formation formelle :** La doctrine est divisée sur la délimitation entre formation continue selon l'art. 64a Cst. et formation formelle de rattrapage. Hänni veut subsumer les filières d'études en hautes écoles spécialisées en emploi sous l'art. 64a Cst., tandis que la doctrine dominante les rattache à → l'art. 63a Cst.
 
 **N. 16** **Rapport avec les dispositions spéciales sur la formation continue :** Il est controversé de savoir si l'art. 64a Cst. fonde une compétence transversale globale ou si les dispositions spéciales sur la formation continue (p. ex. dans le droit de la formation professionnelle, le droit de l'assurance-chômage) conservent leur fondement constitutionnel autonome.
 

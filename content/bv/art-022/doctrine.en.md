@@ -22,7 +22,7 @@
 
 **N. 7** At the level of international law, Art. 22 FC corresponds to Art. 11 ECHR (freedom of assembly and association) and Art. 21 UN Covenant II. The Federal Supreme Court has repeatedly held that the guarantees of Art. 11 ECHR and Art. 21 UN Covenant II do not go beyond the federal constitutional guarantee in terms of content and scope of protection (**BGE 132 I 256 E. 3 i.f.; BGE 148 I 33 E. 6.2**). Art. 22 FC and the corresponding Federal Supreme Court case law are primarily determinative.
 
-**N. 8** Freedom of assembly constitutes a central prerequisite for the free democratic formation of political will and the exercise of political rights (↔ Art. 34 FC). It fulfils a «safety-valve, warning, control, and innovation function» in democratic society (Hertig, BSK BV, Art. 22 N. 1).
+**N. 8** Freedom of assembly constitutes a central prerequisite for the free democratic formation of political will and the exercise of political rights (↔ Art. 34 FC). It fulfils a «safety-valve, warning, control, and innovation function» in democratic society.
 
 ---
 
@@ -36,7 +36,7 @@
 
 **N. 11** Art. 22 para. 2 FC expressly names three constituent entitlements: the **right to organise assemblies**, the **right to participate**, and the **right to stay away** (negative freedom of assembly). The right to stay away protects against compulsion to participate in assemblies, for example through compulsory affiliation. In addition, Art. 22 FC also protects against state measures directed at the convening, organisation, conduct, or form of an assembly (**BGE 127 I 164 E. 3b**).
 
-**N. 12** Only **peaceful** assemblies enjoy the protection of Art. 22 FC. If violence develops in the course of an initially peaceful assembly to such an extent that the opinion-forming component recedes entirely into the background, the fundamental right protection may cease to apply. However, small groups rioting on the fringes do not eliminate fundamental right protection for the assembly as a whole (**BGE 143 I 147 E. 3.2**, referring to Müller/Schefer, op. cit., p. 585; Hertig, BSK BV, Art. 22 N. 8 f.).
+**N. 12** Only **peaceful** assemblies enjoy the protection of Art. 22 FC. If violence develops in the course of an initially peaceful assembly to such an extent that the opinion-forming component recedes entirely into the background, the fundamental right protection may cease to apply. However, small groups rioting on the fringes do not eliminate fundamental right protection for the assembly as a whole (**BGE 143 I 147 E. 3.2**, referring to Müller/Schefer, op. cit., p. 585).
 
 #### 3.2 Positive-Entitlement Dimension for Demonstrations on Public Ground
 

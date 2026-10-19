@@ -16,7 +16,7 @@
 
 **N. 5** **«The Confederation promotes»**: This formulation establishes a promotional competence, but not a comprehensive regulatory competence. The federal competence is limited to support measures; complete federal responsibility for assistance to the elderly and disabled does not exist (Schweizer, St. Gallen Commentary Federal Constitution, 4th ed. 2023, Art. 112c N. 4).
 
-**N. 6** **«endeavours in favour of the elderly and disabled»**: The term «endeavours» encompasses all activities and measures that serve to improve the living situation of elderly and disabled people. This includes both private and public initiatives (Gächter/Filippo, BSK Federal Constitution, 2nd ed. 2024, Art. 112c N. 8).
+**N. 6** **«endeavours in favour of the elderly and disabled»**: The term «endeavours» encompasses all activities and measures that serve to improve the living situation of elderly and disabled people. This includes both private and public initiatives.
 
 **N. 7** The terms «elderly» and «disabled» are to be understood broadly. «Elderly» encompasses all people of retirement age, regardless of their need for care. The term «disabled» is oriented towards the modern concept of disability of the UN Convention on the Rights of Persons with Disabilities and encompasses people with permanent physical, mental, intellectual or sensory impairments (Müller/Schefer, Fundamental Rights in Switzerland, 4th ed. 2008, pp. 745 f.).
 
@@ -28,11 +28,11 @@
 
 ### 5. Disputed Issues
 
-**N. 10** **Scope of federal competence**: In doctrine, it is disputed how far the promotional competence of the Confederation extends. Schweizer (St. Gallen Commentary Federal Constitution, Art. 112c N. 6) represents a narrow interpretation and emphasises the subsidiary character of federal competence. Gächter/Filippo (BSK Federal Constitution, Art. 112c N. 12 f.) advocate for a broader interpretation that also grants the Confederation certain regulatory competences within the framework of promotion.
+**N. 10** **Scope of federal competence**: In doctrine, it is disputed how far the promotional competence of the Confederation extends. Schweizer (St. Gallen Commentary Federal Constitution, Art. 112c N. 6) represents a narrow interpretation and emphasises the subsidiary character of federal competence. Gächter/Filippo advocate for a broader interpretation that also grants the Confederation certain regulatory competences within the framework of promotion.
 
 **N. 11** **Relationship to the cantons**: The concurrent nature of the competence is undisputed, however opinions diverge on the scope of cantonal autonomy. Rhinow/Schefer/Uebersax (Swiss Constitutional Law, 3rd ed. 2016, N. 3854) emphasise the continuing main cantonal responsibility. Häfelin/Haller/Keller/Thurnherr (Swiss Federal Constitutional Law, 10th ed. 2020, N. 1285) see, however, an increased federal co-responsibility, particularly in financing.
 
-**N. 12** **Interpretation in conformity with international law**: With the ratification of the UN Convention on the Rights of Persons with Disabilities, the question has arisen to what extent Art. 112c Federal Constitution is to be interpreted in light of international law. Schefer (in: Müller/Schefer, Fundamental Rights, p. 748) demands an expansive interpretation in the sense of the Convention. Waldmann (BSK Federal Constitution, Art. 8 N. 86) urges restraint and emphasises the difference between promotional mandate and fundamental rights obligation.
+**N. 12** **Interpretation in conformity with international law**: With the ratification of the UN Convention on the Rights of Persons with Disabilities, the question has arisen to what extent Art. 112c Federal Constitution is to be interpreted in light of international law. Schefer (in: Müller/Schefer, Fundamental Rights, p. 748) demands an expansive interpretation in the sense of the Convention. Waldmann urges restraint and emphasises the difference between promotional mandate and fundamental rights obligation.
 
 ### 6. Practical Notes
 

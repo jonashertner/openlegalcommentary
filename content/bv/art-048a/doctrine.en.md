@@ -6,7 +6,7 @@
 
 **N. 2** The constitutional legislator recognised that the federal structure can lead to coordination problems in certain areas. The Federal Council message states: «The problem is particularly evident in the area of settlement areas and living spaces that are fragmented by cantonal boundaries» (BBl 2001 2387). Art. 48a FC is intended to ensure that cantons that refuse the necessary cooperation can ultimately be compelled to cooperate.
 
-**N. 3** The legislative history shows a paradigm shift in Swiss federalism: From the pure principle of voluntariness to a «cooperative federalism» with elements of compulsion (Waldmann, BSK BV, Art. 48a N. 1-4; Schlussbericht NFA 1999, 179 ff.).
+**N. 3** The legislative history shows a paradigm shift in Swiss federalism: From the pure principle of voluntariness to a «cooperative federalism» with elements of compulsion (Schlussbericht NFA 1999, 179 ff.).
 
 ## 2. Systematic classification
 
@@ -20,7 +20,7 @@
 
 ### a) Scope of application (para. 1)
 
-**N. 7** The scope of application is limited to nine task areas (lit. a-i). This enumeration is exhaustive (Waldmann, BSK BV, Art. 48a N. 11-24). An extensive interpretation is excluded, as this is an exceptional provision to the principle of cantonal autonomy.
+**N. 7** The scope of application is limited to nine task areas (lit. a-i). This enumeration is exhaustive. An extensive interpretation is excluded, as this is an exceptional provision to the principle of cantonal autonomy.
 
 **N. 8** The listed areas are characterised by cross-border effects or the necessity of supraregional coordination:
 - Execution of criminal sentences and measures (lit. a)
@@ -41,7 +41,7 @@
 
 ### c) Instruments (para. 1)
 
-**N. 11** Art. 48a FC provides for two instruments (Waldmann, BSK BV, Art. 48a N. 25-28):
+**N. 11** Art. 48a FC provides for two instruments:
 - Obligation to **accede** to intercantonal treaties
 - **Participation** in intercantonal treaties without formal accession
 
@@ -51,17 +51,17 @@
 
 **N. 13** The declaration of general binding force has different legal consequences depending on the chosen instrument:
 
-**N. 14** In case of **accession obligation**, the affected canton becomes a contracting party with all rights and obligations. The treaty retains its intercantonal character (Waldmann, BSK BV, Art. 48a N. 26). This distinguishes Art. 48a FC from a federal competence: The treaties do not become federal law (**BGE 143 V 451** E. 2.2).
+**N. 14** In case of **accession obligation**, the affected canton becomes a contracting party with all rights and obligations. The treaty retains its intercantonal character. This distinguishes Art. 48a FC from a federal competence: The treaties do not become federal law (**BGE 143 V 451** E. 2.2).
 
 **N. 15** In case of **participation obligation**, only the obligations defined in the federal decree arise. The canton does not become a contracting party, but fulfils specific cooperation obligations ordered under federal law.
 
-**N. 16** The legal nature of the obligation is disputed: Biaggini (BSK BV, Art. 48a N. 8) emphasises that Art. 48a FC cannot be directly applied and requires federal legislative concretisation. However, practice shows that the Federal Assembly can act directly based on Art. 48a FC.
+**N. 16** The legal nature of the obligation is disputed: Biaggini emphasises that Art. 48a FC cannot be directly applied and requires federal legislative concretisation. However, practice shows that the Federal Assembly can act directly based on Art. 48a FC.
 
 ## 5. Controversial issues
 
 ### a) Direct applicability
 
-**N. 17** **Controversial issue regarding direct applicability**: Biaggini (Komm. BV, Art. 48a N. 8) argues that Art. 48a FC requires federal legislative concretisation. The prevailing doctrine (Waldmann, BSK BV, Art. 48a N. 8-9; Steinlin, LeGes 2011, 35, 42 ff.) and practice, however, assume direct applicability.
+**N. 17** **Controversial issue regarding direct applicability**: Biaggini (Komm. BV, Art. 48a N. 8) argues that Art. 48a FC requires federal legislative concretisation. The prevailing doctrine (Steinlin, LeGes 2011, 35, 42 ff.) and practice, however, assume direct applicability.
 
 ### b) Application to treaties under development
 
@@ -71,7 +71,7 @@
 
 ### c) Relationship to sector-specific norms
 
-**N. 19** **Controversial issue regarding relationship to special norms**: The relationship to sector-specific cooperation obligations such as Art. 62 para. 4 FC (education) or Art. 123 para. 2-3 FC (execution of criminal sentences) is unclear. Waldmann (BSK BV, Art. 48a N. 10-36) sees Art. 48a FC as a general catch-all provision, while other authors assume a relationship of speciality.
+**N. 19** **Controversial issue regarding relationship to special norms**: The relationship to sector-specific cooperation obligations such as Art. 62 para. 4 FC (education) or Art. 123 para. 2-3 FC (execution of criminal sentences) is unclear. Waldmann sees Art. 48a FC as a general catch-all provision, while other authors assume a relationship of speciality.
 
 ## 6. Practice notes
 
@@ -82,7 +82,7 @@
 - No milder means may be available
 - The public interest must outweigh the restriction of cantonal autonomy
 
-**N. 22** **Legal protection**: The optional referendum is available against the federal decree declaring general binding force (Art. 48a para. 2 FC). After entry into force, affected cantons can have the constitutionality reviewed in the context of concrete application acts (**BGE 143 I 361** E. 5.2; Waldmann, BSK BV, Art. 48a N. 42).
+**N. 22** **Legal protection**: The optional referendum is available against the federal decree declaring general binding force (Art. 48a para. 2 FC). After entry into force, affected cantons can have the constitutionality reviewed in the context of concrete application acts (**BGE 143 I 361** E. 5.2).
 
 **N. 23** **Practical relevance**: Despite its existence since 2008, Art. 48a FC has hardly been applied. The provision primarily has a preventive effect: The mere threat of declaration of general binding force promotes voluntary cooperation solutions (Biaggini, ZBl 2008, 345, 376 f.).
 

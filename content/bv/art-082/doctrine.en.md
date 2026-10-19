@@ -51,7 +51,7 @@
 - Incentive charges (e.g. HVC according to Art. 85 FC)
 - General traffic charges
 
-**No. 13** The Federal Assembly may authorise exceptions, which it has done for the motorway vignette (Art. 86 para. 2 FC) and the HVC (Art. 85 FC). However, the exceptions must remain narrowly limited (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 82 No 18).
+**No. 13** The Federal Assembly may authorise exceptions, which it has done for the motorway vignette (Art. 86 para. 2 FC) and the HVC (Art. 85 FC). However, the exceptions must remain narrowly limited.
 
 ### 4. Legal consequences
 

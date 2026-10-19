@@ -38,7 +38,7 @@
 
 **N. 12** Der Begriff der «ordnungsgemässen Haushaltführung» ist ein unbestimmter Rechtsbegriff, der durch Art. 12 FHG konkretisiert wird. Er umfasst die Grundsätze der Gesetzmässigkeit, Dringlichkeit, Wirtschaftlichkeit und Wirksamkeit. Diese Prinzipien gelten für sämtliche finanzwirksamen Tätigkeiten des Bundes.
 
-**N. 13** Die Gesetzmässigkeit verlangt eine gesetzliche Grundlage für jede Ausgabe. Die Dringlichkeit stellt sicher, dass Ausgaben zum erforderlichen Zeitpunkt getätigt werden. Wirtschaftlichkeit bedeutet ein optimales Kosten-Nutzen-Verhältnis, während die Wirksamkeit auf die Zielerreichung fokussiert (Waldmann, BSK BV, 2. Aufl. 2024, Art. 183 N. 8).
+**N. 13** Die Gesetzmässigkeit verlangt eine gesetzliche Grundlage für jede Ausgabe. Die Dringlichkeit stellt sicher, dass Ausgaben zum erforderlichen Zeitpunkt getätigt werden. Wirtschaftlichkeit bedeutet ein optimales Kosten-Nutzen-Verhältnis, während die Wirksamkeit auf die Zielerreichung fokussiert.
 
 ## 4. Rechtsfolgen
 
@@ -54,7 +54,7 @@
 
 **N. 18** Kontrovers diskutiert wird auch das Verhältnis zwischen der Finanzplanungskompetenz des Bundesrats und dem parlamentarischen Budgetrecht. Müller/Feller (Finanzrecht des Bundes, S. 205) sehen im Finanzplan eine faktische Vorbindung des Parlaments, während Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 4. Aufl. 2016, § 45 N 14) die uneingeschränkte Budgethoheit der Bundesversammlung betont.
 
-**N. 19** Die Reichweite der «ordnungsgemässen Haushaltführung» ist ebenfalls Gegenstand doktrinärer Debatten. Waldmann (BSK BV, Art. 183 N. 11) plädiert für eine weite Auslegung, die auch Nachhaltigkeitsaspekte einschliesst. Häfelin/Haller/Keller/Thurnherr (N 1861) vertreten eine engere Sichtweise, die sich auf die traditionellen Haushaltsgrundsätze beschränkt.
+**N. 19** Die Reichweite der «ordnungsgemässen Haushaltführung» ist ebenfalls Gegenstand doktrinärer Debatten. Waldmann plädiert für eine weite Auslegung, die auch Nachhaltigkeitsaspekte einschliesst. Häfelin/Haller/Keller/Thurnherr (N 1861) vertreten eine engere Sichtweise, die sich auf die traditionellen Haushaltsgrundsätze beschränkt.
 
 ## 6. Praxishinweise
 

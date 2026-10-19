@@ -1,10 +1,10 @@
 ## Panoramica
 
-L'art. 61a Cost. è il fulcro della «Costituzione dell'educazione» svizzera e disciplina il coordinamento del sistema educativo tra Confederazione e Cantoni (Hänni, BSK BV, Art. 61a N. 10-12). La disposizione obbliga tutti i livelli statali a provvedere congiuntamente a uno spazio educativo svizzero di alta qualità e permeabile.
+L'art. 61a Cost. è il fulcro della «Costituzione dell'educazione» svizzera e disciplina il coordinamento del sistema educativo tra Confederazione e Cantoni. La disposizione obbliga tutti i livelli statali a provvedere congiuntamente a uno spazio educativo svizzero di alta qualità e permeabile.
 
-**Chi è interessato?** L'obbligo di coordinamento vale per Confederazione, Cantoni e le loro istituzioni educative a tutti i livelli - dalla scuola elementare all'università (Hänni, BSK BV, Art. 61a N. 20-21). Anche allievi e allieve, studenti e persone attive professionalmente beneficiano della migliore permeabilità tra i percorsi formativi.
+**Chi è interessato?** L'obbligo di coordinamento vale per Confederazione, Cantoni e le loro istituzioni educative a tutti i livelli - dalla scuola elementare all'università. Anche allievi e allieve, studenti e persone attive professionalmente beneficiano della migliore permeabilità tra i percorsi formativi.
 
-**I tre obiettivi principali** della disposizione sono in primo luogo l'assicurazione della qualità attraverso standard comuni, in secondo luogo la permeabilità tra diversi livelli e percorsi formativi, e in terzo luogo il pari riconoscimento sociale della formazione professionale e di quella di cultura generale (Hänni, BSK BV, Art. 61a N. 22-27).
+**I tre obiettivi principali** della disposizione sono in primo luogo l'assicurazione della qualità attraverso standard comuni, in secondo luogo la permeabilità tra diversi livelli e percorsi formativi, e in terzo luogo il pari riconoscimento sociale della formazione professionale e di quella di cultura generale.
 
 **Conseguenze pratiche:** Confederazione e Cantoni devono coordinare le loro misure educative e non possono più agire in modo isolato. Ciò ha portato a progetti di armonizzazione come il Concordato HarmoS e il Piano di studio 21. I diplomi sono riconosciuti in tutta la Svizzera e il passaggio tra Cantoni o percorsi formativi è facilitato.
 

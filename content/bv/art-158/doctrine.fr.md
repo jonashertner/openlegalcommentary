@@ -11,7 +11,7 @@ L'art. 158 Cst. figure au 5e chapitre de la Constitution fédérale sur les auto
 ↔ Art. 47 LParl, qui règle la confidentialité des délibérations des commissions
 
 **N. 3** **Éléments constitutifs / Contenu de la norme**
-La notion de « séances » comprend selon la doctrine dominante (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4e éd. 2023, art. 158 n. 3) exclusivement les séances plénières du Conseil national et du Conseil des États. La « publicité » signifie le libre accès du public et des médias aux salles des conseils pendant les délibérations. La notion de « conseils » se réfère aux deux chambres de l'Assemblée fédérale, mais non à leurs commissions ou autres organes (Waldmann/Belser/Epiney, BSK BV, 2e éd. 2024, art. 158 n. 5).
+La notion de « séances » comprend selon la doctrine dominante (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, 4e éd. 2023, art. 158 n. 3) exclusivement les séances plénières du Conseil national et du Conseil des États. La « publicité » signifie le libre accès du public et des médias aux salles des conseils pendant les délibérations. La notion de « conseils » se réfère aux deux chambres de l'Assemblée fédérale, mais non à leurs commissions ou autres organes.
 
 **N. 4** **Conséquences juridiques**
 Le principe de publicité fonde un droit d'accès aux séances des conseils directement garanti par la Constitution. La mise en œuvre pratique s'effectue par les règlements des conseils (art. 15 RCE, art. 20 RCN). Les violations de la publicité peuvent entraîner la nullité des décisions, pour autant que la publicité n'ait pas été exclue conformément à la loi (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10e éd. 2020, n. 1789).

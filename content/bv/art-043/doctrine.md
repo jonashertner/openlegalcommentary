@@ -10,7 +10,7 @@
 
 ### 2. Systematische Einordnung
 
-**N. 3** Art. 43 BV steht im systematischen Zusammenhang mit den föderalistischen Grundnormen der Bundesverfassung. Er ergänzt Art. 3 BV (Kantonssouveränität) und steht in komplementärem Verhältnis zu Art. 42 BV (Aufgaben des Bundes). Während Art. 42 BV den Verfassungsvorbehalt für Bundeskompetenzen betont, bestätigt Art. 43 BV die kantonale Aufgabenautonomie (Biaggini, BSK BV, Art. 43 N. 11).
+**N. 3** Art. 43 BV steht im systematischen Zusammenhang mit den föderalistischen Grundnormen der Bundesverfassung. Er ergänzt Art. 3 BV (Kantonssouveränität) und steht in komplementärem Verhältnis zu Art. 42 BV (Aufgaben des Bundes). Während Art. 42 BV den Verfassungsvorbehalt für Bundeskompetenzen betont, bestätigt Art. 43 BV die kantonale Aufgabenautonomie.
 
 **N. 4** Die Norm ist im Kontext des gesamten 1. Kapitels des 3. Titels zu lesen: → Art. 43a BV (Grundsätze der Aufgabenzuweisung), → Art. 44 BV (Grundsätze der Zusammenarbeit), → Art. 45 BV (Mitwirkung), ↔ Art. 46 BV (Umsetzung des Bundesrechts), ↔ Art. 47 BV (Eigenständigkeit der Kantone) und → Art. 48 BV (Verträge zwischen Kantonen).
 
@@ -22,13 +22,13 @@
 
 **N. 7** **«bestimmen»**: Die Kantone verfügen über Entscheidungsautonomie bei der Frage, ob und wie sie Aufgaben wahrnehmen. Diese Autonomie umfasst die Organisation der Aufgabenerfüllung, die Wahl der Mittel und die Prioritätensetzung (Schweizer, SG-Komm. BV, Art. 43 N. 4).
 
-**N. 8** **«welche Aufgaben sie [...] erfüllen»**: Der Begriff «Aufgaben» unterscheidet sich von «Zuständigkeiten». Während Zuständigkeiten Befugnisse im Sinne von Berechtigungen meinen, steht bei Aufgaben der verpflichtende Charakter im Vordergrund (Biaggini, BSK BV, Art. 43 N. 12). Die Kantone können grundsätzlich selbst entscheiden, welche öffentlichen Aufgaben sie übernehmen wollen.
+**N. 8** **«welche Aufgaben sie [...] erfüllen»**: Der Begriff «Aufgaben» unterscheidet sich von «Zuständigkeiten». Während Zuständigkeiten Befugnisse im Sinne von Berechtigungen meinen, steht bei Aufgaben der verpflichtende Charakter im Vordergrund. Die Kantone können grundsätzlich selbst entscheiden, welche öffentlichen Aufgaben sie übernehmen wollen.
 
-**N. 9** **«im Rahmen ihrer Zuständigkeiten»**: Diese Einschränkung ist zentral. Die kantonale Aufgabenautonomie besteht nur soweit, als die Bundesverfassung den Kantonen überhaupt Kompetenzen belässt. Der Wortlaut ist insofern unpräzis, als er eine weitreichende Freiheit suggeriert, die tatsächlich nicht besteht (Biaggini, BSK BV, Art. 43 N. 18).
+**N. 9** **«im Rahmen ihrer Zuständigkeiten»**: Diese Einschränkung ist zentral. Die kantonale Aufgabenautonomie besteht nur soweit, als die Bundesverfassung den Kantonen überhaupt Kompetenzen belässt. Der Wortlaut ist insofern unpräzis, als er eine weitreichende Freiheit suggeriert, die tatsächlich nicht besteht.
 
 ### 4. Rechtsfolgen
 
-**N. 10** Art. 43 BV begründet keine neuen kantonalen Kompetenzen, sondern bestätigt die bereits aus Art. 3 BV fliessende Aufgabenautonomie (Biaggini, BSK BV, Art. 43 N. 1). Die praktische Bedeutung der Norm ist daher bescheiden.
+**N. 10** Art. 43 BV begründet keine neuen kantonalen Kompetenzen, sondern bestätigt die bereits aus Art. 3 BV fliessende Aufgabenautonomie. Die praktische Bedeutung der Norm ist daher bescheiden.
 
 **N. 11** Die Kantone können im Rahmen ihrer Zuständigkeiten:
 - Neue Aufgaben schaffen oder bestehende aufheben
@@ -36,7 +36,7 @@
 - Aufgaben an Gemeinden oder Dritte delegieren
 - Sich zur gemeinsamen Aufgabenerfüllung zusammenschliessen (→ Art. 48 BV)
 
-**N. 12** Die kantonale Aufgabenautonomie wird jedoch vielfach durch Bundesrecht eingeschränkt. Bundesvorgaben können die kantonale Freiheit in folgenden Formen beschränken (Biaggini, BSK BV, Art. 43 N. 17-27):
+**N. 12** Die kantonale Aufgabenautonomie wird jedoch vielfach durch Bundesrecht eingeschränkt. Bundesvorgaben können die kantonale Freiheit in folgenden Formen beschränken:
 - Obligatorische Aufgabenerfüllung durch Bundesgesetze
 - Vorgaben zur Organisation (z.B. Forderung nach kantonaler Einheitsbehörde)
 - Mindeststandards und Qualitätsvorgaben
@@ -44,11 +44,11 @@
 
 ### 5. Streitstände
 
-**N. 13** **Verhältnis zu Art. 3 BV**: Biaggini vertritt die Position, dass Art. 43 BV rechtlich keine eigenständige Bedeutung hat und nur wiederholt, was sich bereits aus Art. 3 BV ergibt (BSK BV, Art. 43 N. 1). Schweizer hingegen sieht in Art. 43 BV eine wichtige Konkretisierung des Föderalismusprinzips mit eigenem normativen Gehalt (SG-Komm. BV, Art. 43 N. 2).
+**N. 13** **Verhältnis zu Art. 3 BV**: Biaggini vertritt die Position, dass Art. 43 BV rechtlich keine eigenständige Bedeutung hat und nur wiederholt, was sich bereits aus Art. 3 BV ergibt. Schweizer hingegen sieht in Art. 43 BV eine wichtige Konkretisierung des Föderalismusprinzips mit eigenem normativen Gehalt (SG-Komm. BV, Art. 43 N. 2).
 
-**N. 14** **Abgrenzung zu Art. 47 BV**: Schweizer weist auf Abgrenzungsschwierigkeiten zwischen Art. 43 BV (Aufgabenautonomie) und Art. 47 BV (Eigenständigkeit) hin (zitiert in Biaggini, BSK BV, Art. 43 Fn. 2). Während Art. 43 BV die funktionale Autonomie betrifft, schützt Art. 47 BV die institutionelle Eigenständigkeit der Kantone.
+**N. 14** **Abgrenzung zu Art. 47 BV**: Schweizer weist auf Abgrenzungsschwierigkeiten zwischen Art. 43 BV (Aufgabenautonomie) und Art. 47 BV (Eigenständigkeit) hin. Während Art. 43 BV die funktionale Autonomie betrifft, schützt Art. 47 BV die institutionelle Eigenständigkeit der Kantone.
 
-**N. 15** **Tragweite der Einschränkung**: Die Lehre ist sich uneinig über die Tragweite der Formulierung «im Rahmen ihrer Zuständigkeiten». Biaggini kritisiert den unpräzisen Wortlaut, der eine grössere Autonomie suggeriere als tatsächlich bestehe (BSK BV, Art. 43 N. 18). Andere Autoren sehen darin eine notwendige Klarstellung des bundesstaatlichen Kompetenzgefüges.
+**N. 15** **Tragweite der Einschränkung**: Die Lehre ist sich uneinig über die Tragweite der Formulierung «im Rahmen ihrer Zuständigkeiten». Biaggini kritisiert den unpräzisen Wortlaut, der eine grössere Autonomie suggeriere als tatsächlich bestehe. Andere Autoren sehen darin eine notwendige Klarstellung des bundesstaatlichen Kompetenzgefüges.
 
 ### 6. Praxishinweise
 

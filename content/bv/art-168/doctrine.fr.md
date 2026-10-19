@@ -26,7 +26,7 @@
 
 ### 3.2 Alinéa 2 : Compétences électorales facultatives
 
-**N. 7** La norme de délégation à l'al. 2 permet au législateur d'attribuer d'autres élections à l'Assemblée fédérale ou de faire confirmer des élections par l'Assemblée fédérale. Le mot « habiliter » indique clairement qu'il s'agit d'une disposition potestative – le législateur n'est pas obligé de créer d'autres compétences électorales (Waldmann/Belser/Epiney, BSK BV, 2e éd. 2024, art. 168 n. 8).
+**N. 7** La norme de délégation à l'al. 2 permet au législateur d'attribuer d'autres élections à l'Assemblée fédérale ou de faire confirmer des élections par l'Assemblée fédérale. Le mot « habiliter » indique clairement qu'il s'agit d'une disposition potestative – le législateur n'est pas obligé de créer d'autres compétences électorales.
 
 **N. 8** Se fondant sur cette habilitation, le législateur a transféré à l'Assemblée fédérale les compétences électorales supplémentaires suivantes :
 - Élection du procureur général de la Confédération et des procureurs généraux suppléants (art. 20 al. 2 CPP)

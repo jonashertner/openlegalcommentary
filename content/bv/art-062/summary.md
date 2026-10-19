@@ -4,7 +4,7 @@ Art. 62 BV regelt die Zuständigkeiten im Schulwesen zwischen Bund und Kantonen.
 
 **Wer ist betroffen?** Alle Kinder, die in der Schweiz leben, haben Anspruch auf kostenlosen Grundschulunterricht. Das gilt auch für ausländische Kinder ohne Aufenthaltsbewilligung. Behinderte Kinder haben zusätzliche Ansprüche auf spezielle Förderung. Eltern müssen ihre Kinder zur Schule schicken — das ist Pflicht.
 
-**Was sind die Rechtsfolgen?** Die Kantone müssen genügend Schulen bereitstellen und dürfen für den obligatorischen Unterricht kein Schulgeld verlangen. Das Bundesgericht hat klargestellt: Alle notwendigen Unterrichtsmittel wie Bücher und Hefte müssen gratis sein (**BGE 144 I 1**). Bei der Sonderschulung ist umstritten, ob behinderte Kinder einen direkten Anspruch vor Gericht haben. Die Rechtslehre ist geteilter Meinung (Hänni, BSK BV, Art. 62 N. 70). 
+**Was sind die Rechtsfolgen?** Die Kantone müssen genügend Schulen bereitstellen und dürfen für den obligatorischen Unterricht kein Schulgeld verlangen. Das Bundesgericht hat klargestellt: Alle notwendigen Unterrichtsmittel wie Bücher und Hefte müssen gratis sein (**BGE 144 I 1**). Bei der Sonderschulung ist umstritten, ob behinderte Kinder einen direkten Anspruch vor Gericht haben. Die Rechtslehre ist geteilter Meinung. 
 
 Falls die Kantone sich nicht auf gemeinsame Standards einigen können, darf der Bund eingreifen. Das betrifft zum Beispiel das Alter beim Schuleintritt oder die Anerkennung von Abschlüssen. Diese Bundeskompetenz ist aber subsidiär — sie greift nur, wenn die Kantone versagen.
 

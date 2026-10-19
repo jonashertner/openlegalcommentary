@@ -20,7 +20,7 @@
 
 **N. 5** L'alinéa 1 statue comme principe que la Confédération et les cantons assurent un financement suffisant de l'infrastructure ferroviaire. Le terme « infrastructure ferroviaire » comprend selon le message toutes les installations nécessaires au trafic ferroviaire : voies, gares, installations de sécurité, alimentation électrique et télématique (FF 2012 1611, 1676).
 
-**N. 6** Le « financement suffisant » est une notion juridique indéterminée qui doit être concrétisée par le législateur. Kern souligne que cela comprend à la fois la conservation de la substance et l'aménagement selon les besoins (Kern, BSK BV, Art. 87a N. 3). La responsabilité commune de la Confédération et des cantons reflète la structure fédéraliste du système ferroviaire suisse.
+**N. 6** Le « financement suffisant » est une notion juridique indéterminée qui doit être concrétisée par le législateur. Kern souligne que cela comprend à la fois la conservation de la substance et l'aménagement selon les besoins. La responsabilité commune de la Confédération et des cantons reflète la structure fédéraliste du système ferroviaire suisse.
 
 #### b) Fonds pour l'infrastructure ferroviaire (al. 2)
 
@@ -36,7 +36,7 @@
 
 **N. 9** La formulation « au plus les deux tiers » pour la RPLP (let. a) donne une marge de manœuvre au législateur. Au moins un tiers des recettes de la RPLP doit être utilisé à d'autres fins, notamment pour les coûts non couverts du trafic routier dans les cantons (art. 85 al. 2 Cst).
 
-**N. 10** La part de taxe sur la valeur ajoutée de 2,0 pour mille fixée à la let. c est à comprendre comme une grandeur absolue. En cas de modification du taux de la taxe sur la valeur ajoutée, le montant absolu reste identique (Kern, BSK BV, Art. 87a N. 10).
+**N. 10** La part de taxe sur la valeur ajoutée de 2,0 pour mille fixée à la let. c est à comprendre comme une grandeur absolue. En cas de modification du taux de la taxe sur la valeur ajoutée, le montant absolu reste identique.
 
 #### c) Participation cantonale (al. 3)
 
@@ -46,7 +46,7 @@
 
 #### d) Financement par des tiers (al. 4)
 
-**N. 13** L'alinéa 4 permet le financement subsidiaire par des tiers pour des projets que le FIF ne finance pas ou ne finance que partiellement. Comme « tiers » entrent en considération des privés, des communes, mais aussi des cantons dans la mesure où ils vont au-delà de leurs contributions obligatoires (Kern, BSK BV, Art. 87a N. 23).
+**N. 13** L'alinéa 4 permet le financement subsidiaire par des tiers pour des projets que le FIF ne finance pas ou ne finance que partiellement. Comme « tiers » entrent en considération des privés, des communes, mais aussi des cantons dans la mesure où ils vont au-delà de leurs contributions obligatoires.
 
 **N. 14** Cette disposition est conçue comme une clause d'ouverture qui permet des solutions de financement flexibles. Les cas d'application typiques sont les voies de raccordement pour les entreprises industrielles ou les projets d'aménagement locaux ayant principalement une utilité régionale.
 
@@ -60,11 +60,11 @@
 
 ### 5. Points de controverse
 
-**N. 18** **Exclusivité du FIF** : Il est controversé de savoir si le FIF représente l'instrument de financement exclusif pour l'infrastructure ferroviaire. Kern défend la position qu'il faut partir en principe d'un financement global et exclusif par le FIF (Kern, BSK BV, Art. 87a N. 20). En revanche, Waldmeier plaide pour une interprétation plus restrictive qui autorise des financements supplémentaires en dehors du FIF (SG Komm. BV-Waldmeier, Art. 87a N. 24).
+**N. 18** **Exclusivité du FIF**: Il est controversé de savoir si le FIF représente l'instrument de financement exclusif pour l'infrastructure ferroviaire. Kern défend la position qu'il faut partir en principe d'un financement global et exclusif par le FIF. En revanche, Waldmeier plaide pour une interprétation plus restrictive qui autorise des financements supplémentaires en dehors du FIF (SG Komm. BV-Waldmeier, Art. 87a N. 24).
 
-**N. 19** **Renonciation aux intérêts** : La renonciation prévue par la loi à une rémunération des moyens du FIF est jugée constitutionnellement problématique par Kern, car elle contredit le principe d'utilisation économique des moyens (Kern, BSK BV, Art. 87a N. 12). Cette position n'est cependant pas incontestée, d'autant plus que la Constitution elle-même ne prévoit aucune obligation de rémunération.
+**N. 19** **Renonciation aux intérêts**: La renonciation prévue par la loi à une rémunération des moyens du FIF est jugée constitutionnellement problématique par Kern, car elle contredit le principe d'utilisation économique des moyens. Cette position n'est cependant pas incontestée, d'autant plus que la Constitution elle-même ne prévoit aucune obligation de rémunération.
 
-**N. 20** **Neutralité concurrentielle** : Il est discuté si la subvention massive de l'infrastructure ferroviaire fausse la concurrence entre les moyens de transport. Kern n'y voit pas une violation de la liberté économique, mais l'expression d'une politique des transports créatrice (Kern, BSK BV, Art. 87a N. 19). Cette vision correspond à la doctrine dominante, qui considère les mesures d'incitation de politique des transports comme admissibles.
+**N. 20** **Neutralité concurrentielle**: Il est discuté si la subvention massive de l'infrastructure ferroviaire fausse la concurrence entre les moyens de transport. Kern n'y voit pas une violation de la liberté économique, mais l'expression d'une politique des transports créatrice. Cette vision correspond à la doctrine dominante, qui considère les mesures d'incitation de politique des transports comme admissibles.
 
 ### 6. Indications pratiques
 
@@ -74,4 +74,4 @@
 
 **N. 23** L'affectation stricte des moyens du FIF signifie que même en cas de modifications ou de retards de projets, aucun transfert de moyens vers d'autres domaines n'est possible. Cela augmente la pression sur une planification et une réalisation soigneuses des projets.
 
-**N. 24** Le Fonds pour l'infrastructure ferroviaire s'est révélé selon Kern un instrument de financement innovant adapté aux longs cycles de planification de l'infrastructure ferroviaire (Kern, BSK BV, Art. 87a N. 24). L'ancrage constitutionnel garantit la sécurité de planification nécessaire pour les grands projets.
+**N. 24** Le Fonds pour l'infrastructure ferroviaire s'est révélé selon Kern un instrument de financement innovant adapté aux longs cycles de planification de l'infrastructure ferroviaire. L'ancrage constitutionnel garantit la sécurité de planification nécessaire pour les grands projets.

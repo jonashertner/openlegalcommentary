@@ -18,7 +18,7 @@ Academic freedom is not unlimited. In animal experiments, research benefits must
 
 ### Practical significance
 
-In practice, conflicts usually arise in sensitive research areas. In biosecurity research, doctrine discusses whether publications of dangerous findings may be restricted (BSK BV-Hertig N. 18). In clinical studies, patient rights must be preserved. In research funding, state bodies may not impose content-based censorship.
+In practice, conflicts usually arise in sensitive research areas. In biosecurity research, doctrine discusses whether publications of dangerous findings may be restricted. In clinical studies, patient rights must be preserved. In research funding, state bodies may not impose content-based censorship.
 
 ### Further information
 

@@ -8,7 +8,7 @@ Tous les hommes suisses sont en principe astreints au service de protection civi
 
 ## Que règle la norme ?
 
-**Législation fédérale (alinéa 1) :** La Confédération édicte des lois pour la protection contre les conflits armés (droit de la guerre). Selon la doctrine dominante, les cantons conservent des compétences résiduelles (Diggelmann/Altwicker, BSK BV, art. 61 N. 7).
+**Législation fédérale (alinéa 1) :** La Confédération édicte des lois pour la protection contre les conflits armés (droit de la guerre). Selon la doctrine dominante, les cantons conservent des compétences résiduelles.
 
 **Interventions en cas de catastrophe (alinéa 2) :** La Confédération règle la protection civile en cas de catastrophes naturelles, d'accidents et d'autres situations d'urgence. Cela comprend les inondations, les tremblements de terre ou les pandémies.
 

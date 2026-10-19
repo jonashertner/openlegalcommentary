@@ -8,7 +8,7 @@
 
 ## 2. Classification systématique
 
-**Ch. 3** L'art. 119 Cst. est systématiquement classé dans le 2e titre « Droits fondamentaux, droits de cité et buts sociaux », mais ne constitue pas une norme de droit fondamental créant directement des droits subjectifs. Il s'agit plutôt d'une norme de protection et de législation avec un effet de renforcement des droits fondamentaux (Belser/Molinari, BSK BV, art. 119 ch. 9). La disposition concrétise la protection de la dignité humaine (→ art. 7 Cst.) et de la liberté personnelle (→ art. 10 Cst.) dans le domaine biotechnologique.
+**Ch. 3** L'art. 119 Cst. est systématiquement classé dans le 2e titre « Droits fondamentaux, droits de cité et buts sociaux », mais ne constitue pas une norme de droit fondamental créant directement des droits subjectifs. Il s'agit plutôt d'une norme de protection et de législation avec un effet de renforcement des droits fondamentaux. La disposition concrétise la protection de la dignité humaine (→ art. 7 Cst.) et de la liberté personnelle (→ art. 10 Cst.) dans le domaine biotechnologique.
 
 **Ch. 4** Le lien étroit avec → l'art. 118b Cst. (médecine de la transplantation), → l'art. 119a Cst. (analyse du génome dans les domaines de l'assurance et du travail) et → l'art. 120 Cst. (génie génétique dans le domaine non humain) montre la réglementation constitutionnelle complète de la biotechnologie. Au plan international, l'art. 119 Cst. correspond à la Convention sur la biomédecine du Conseil de l'Europe (CBM), dont la ratification par la Suisse est toutefois encore en suspens.
 
@@ -16,11 +16,11 @@
 
 ### a) Mandat de protection (al. 1)
 
-**Ch. 5** La protection contre les « utilisations abusives » ne comprend pas une interdiction générale de la procréation médicalement assistée et du génie génétique, mais vise leur application responsable (Belser/Molinari, BSK BV, art. 119 ch. 12). La notion d'« utilisation abusive » est ouverte à l'interprétation et nécessite une concrétisation par le législateur. Le Tribunal fédéral a précisé que le désir d'enfant constitue une manifestation élémentaire de l'épanouissement de la personnalité et relève du champ de protection de la liberté personnelle (**ATF 119 Ia 460 consid. 4**).
+**Ch. 5** La protection contre les « utilisations abusives » ne comprend pas une interdiction générale de la procréation médicalement assistée et du génie génétique, mais vise leur application responsable. La notion d'« utilisation abusive » est ouverte à l'interprétation et nécessite une concrétisation par le législateur. Le Tribunal fédéral a précisé que le désir d'enfant constitue une manifestation élémentaire de l'épanouissement de la personnalité et relève du champ de protection de la liberté personnelle (**ATF 119 Ia 460 consid. 4**).
 
 ### b) Mandat législatif (al. 2 préambule)
 
-**Ch. 6** Le mandat législatif impératif (« édicte des dispositions ») oblige la Confédération à édicter des réglementations complètes. La triade de biens protégés — dignité humaine, personnalité et famille — forme le cadre normatif. La notion de famille doit, selon Belser/Molinari (BSK BV, art. 119 ch. 30), être comprise largement et englobe la vie familiale selon → l'art. 13 al. 1 Cst. et l'art. 8 CEDH, et pas seulement la famille nucléaire traditionnelle.
+**Ch. 6** Le mandat législatif impératif (« édicte des dispositions ») oblige la Confédération à édicter des réglementations complètes. La triade de biens protégés — dignité humaine, personnalité et famille — forme le cadre normatif. La notion de famille doit, selon Belser/Molinari, être comprise largement et englobe la vie familiale selon → l'art. 13 al. 1 Cst. et l'art. 8 CEDH, et pas seulement la famille nucléaire traditionnelle.
 
 ### c) Principes (al. 2 let. a–g)
 
@@ -28,7 +28,7 @@
 
 **Ch. 8** **Barrière des espèces (let. b)** : L'interdiction de formation de chimères et d'hybrides protège l'intégrité biologique de l'espèce humaine. L'utilisation de mitochondries animales lors de FIV est controversée (Müller, Questions juridiques et éthiques, p. 152).
 
-**Ch. 9** **Procréation médicalement assistée (let. c)** : La clause de subsidiarité (« ne peut pas être surmontée autrement ») est discutée de manière controversée. Belser/Molinari (BSK BV, art. 119 ch. 30) soutiennent que la stérilité au sens constitutionnel doit être comprise de manière large comme un désir d'enfant irréalisable, même chez les couples de même sexe. La LPMA adopte par contre une compréhension plus restrictive.
+**Ch. 9** **Procréation médicalement assistée (let. c)**: La clause de subsidiarité (« ne peut pas être surmontée autrement ») est discutée de manière controversée. Belser/Molinari soutiennent que la stérilité au sens constitutionnel doit être comprise de manière large comme un désir d'enfant irréalisable, même chez les couples de même sexe. La LPMA adopte par contre une compréhension plus restrictive.
 
 **Ch. 10** **Interdiction de la maternité de substitution (let. d)** : L'interdiction absolue forme selon **ATF 141 III 328 consid. 7.4.1** le noyau dur de l'ordre public suisse. Le don d'embryons est également interdit sans exception, contrairement au don de gamètes qui est autorisé.
 
@@ -46,9 +46,9 @@
 
 ## 5. Points litigieux
 
-**Ch. 16** **Notion de famille** : La controverse centrale concerne la portée de la notion constitutionnelle de famille. Alors que Belser/Molinari (BSK BV, art. 119 ch. 30) plaident pour une compréhension large au sens de l'art. 8 CEDH, qui inclut aussi les couples non mariés et de même sexe, la LPMA adopte une notion de famille plus étroite. Cette divergence a des répercussions directes sur l'accès à la procréation médicalement assistée.
+**Ch. 16** **Notion de famille**: La controverse centrale concerne la portée de la notion constitutionnelle de famille. Alors que Belser/Molinari plaident pour une compréhension large au sens de l'art. 8 CEDH, qui inclut aussi les couples non mariés et de même sexe, la LPMA adopte une notion de famille plus étroite. Cette divergence a des répercussions directes sur l'accès à la procréation médicalement assistée.
 
-**Ch. 17** **Notion de stérilité** : Il est controversé de savoir si la stérilité sociale (chez les couples de même sexe ou les personnes célibataires) doit être assimilée à la stérilité médicale. Belser/Molinari (BSK BV, art. 119 ch. 30) favorisent une interprétation large qui inclut tout désir d'enfant irréalisable. La position contraire exige une indication médicale (Gächter/Rütsche, Droit de la santé, § 14 ch. 567).
+**Ch. 17** **Notion de stérilité**: Il est controversé de savoir si la stérilité sociale (chez les couples de même sexe ou les personnes célibataires) doit être assimilée à la stérilité médicale. Belser/Molinari favorisent une interprétation large qui inclut tout désir d'enfant irréalisable. La position contraire exige une indication médicale (Gächter/Rütsche, Droit de la santé, § 14 ch. 567).
 
 **Ch. 18** **Diagnostic préimplantatoire** : La modification constitutionnelle de 2015 ne résolut que partiellement le litige sur l'admissibilité du DPI. Restent controversés l'étendue des examens génétiques admissibles et la définition des « maladies graves » (Addor/Bühler, sic! 2004, p. 389).
 

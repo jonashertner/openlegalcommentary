@@ -2,19 +2,19 @@
 
 ## 1. Genèse
 
-**N. 1** La compétence fédérale en matière de métrologie a une longue tradition dans le droit constitutionnel suisse. L'art. 37 de la Constitution fédérale de 1848 conférait déjà à la Confédération la législation sur les poids et mesures. Cette compétence fut poursuivie à l'art. 40 al. 1 aCst et reprise en 1999 dans sa formulation actuelle à l'art. 125 Cst (Göksu, BSK BV, Art. 125 N. 1; Brunner, SG Komm. BV, Art. 125 N. 1).
+**N. 1** La compétence fédérale en matière de métrologie a une longue tradition dans le droit constitutionnel suisse. L'art. 37 de la Constitution fédérale de 1848 conférait déjà à la Confédération la législation sur les poids et mesures. Cette compétence fut poursuivie à l'art. 40 al. 1 aCst et reprise en 1999 dans sa formulation actuelle à l'art. 125 Cst (Brunner, SG Komm. BV, Art. 125 N. 1).
 
 **N. 2** Le message relatif à la nouvelle Constitution fédérale soulignait que la réglementation de la métrologie constitue une tâche fédérale classique, qui sert à l'unification du droit et à la protection de la loyauté du commerce (Message Cst, FF 1997 I 1, 368). La révision constitutionnelle de 1999 n'a apporté aucun changement matériel à la compétence fédérale, mais a simplement adapté la terminologie aux conditions modernes.
 
 ## 2. Classification systématique
 
-**N. 3** L'art. 125 Cst se trouve au 3e titre sur la Confédération, les cantons et les communes, au 2e chapitre sur les compétences. La norme fonde une compétence fédérale exclusive, comme il ressort du libellé « relève de la Confédération » (→ art. 3 Cst). Les cantons n'ont aucune compétence législative résiduelle dans le domaine de la métrologie (Göksu, BSK BV, Art. 125 N. 5).
+**N. 3** L'art. 125 Cst se trouve au 3e titre sur la Confédération, les cantons et les communes, au 2e chapitre sur les compétences. La norme fonde une compétence fédérale exclusive, comme il ressort du libellé « relève de la Confédération » (→ art. 3 Cst). Les cantons n'ont aucune compétence législative résiduelle dans le domaine de la métrologie.
 
 **N. 4** La compétence en matière de métrologie se situe dans un rapport systématique avec la liberté économique (→ art. 27 Cst) et la compétence fédérale pour le droit privé (→ art. 122 Cst). Elle sert à la réalisation de l'espace économique uniforme suisse (→ art. 95 Cst) par la standardisation des unités de mesure (Häfelin/Haller/Keller, Bundesstaatsrecht, N 1254).
 
 ## 3. Éléments constitutifs / Contenu de la norme
 
-**N. 5** Le concept de « métrologie » comprend selon la doctrine dominante trois domaines : (1) la définition des unités de mesure et de leurs étalons, (2) les exigences relatives aux instruments de mesure et aux procédés de mesure ainsi que (3) la surveillance et l'étalonnage des appareils de mesure (Göksu, BSK BV, Art. 125 N. 2-4; Vaucher/Niederhauser, METinfo 3/2007, 10 ss.).
+**N. 5** Le concept de « métrologie » comprend selon la doctrine dominante trois domaines: (1) la définition des unités de mesure et de leurs étalons, (2) les exigences relatives aux instruments de mesure et aux procédés de mesure ainsi que (3) la surveillance et l'étalonnage des appareils de mesure (Vaucher/Niederhauser, METinfo 3/2007, 10 ss.).
 
 **N. 6** La compétence fédérale s'étend à tous les types de mesurages dans le commerce, indépendamment de l'objet mesuré. Sont saisies les grandeurs physiques comme la longueur, la masse, le temps, la température, l'intensité de courant électrique, la quantité de matière et l'intensité lumineuse ainsi que les unités qui en dérivent (art. 2 al. 1 LMétr; art. 3 ss. ordonnance sur les unités).
 
@@ -22,7 +22,7 @@
 
 ## 4. Conséquences juridiques
 
-**N. 8** En tant que compétence fédérale exclusive, l'art. 125 Cst exclut toute législation cantonale dans le domaine de la métrologie. La Confédération a exercé sa compétence par la loi fédérale sur la métrologie (LMétr) et ses actes d'exécution (Göksu, BSK BV, Art. 125 N. 5-13).
+**N. 8** En tant que compétence fédérale exclusive, l'art. 125 Cst exclut toute législation cantonale dans le domaine de la métrologie. La Confédération a exercé sa compétence par la loi fédérale sur la métrologie (LMétr) et ses actes d'exécution.
 
 **N. 9** Les cantons sont limités à l'exécution du droit fédéral. Ils peuvent agir comme services de vérification dans la mesure où le droit fédéral le prévoit (art. 15 al. 1 LMétr). Ils ne peuvent édicter de prescriptions matérielles propres en matière de métrologie (TF 2C_1007/2015 consid. 3.2).
 

@@ -2,15 +2,15 @@
 
 ### 1. Legislative History
 
-**N. 1** Art. 61a Cst. is the centrepiece of the «Education Constitution» adopted by the people and the cantons in 2006 and marks a paradigm shift in Swiss education policy. The provision emerged as a response to the increasing fragmentation of the education system and the challenges of educational mobility in a federalist system (Hänni, BSK BV, Art. 61a N. 15–19).
+**N. 1** Art. 61a Cst. is the centrepiece of the «Education Constitution» adopted by the people and the cantons in 2006 and marks a paradigm shift in Swiss education policy. The provision emerged as a response to the increasing fragmentation of the education system and the challenges of educational mobility in a federalist system.
 
-**N. 2** The parliamentary genesis of the Education Constitution is remarkable, as it did not originate from a Federal Council proposal but emerged from the Zbinden parliamentary initiative (97.419). After the failure of earlier attempts at comprehensive education reform in the 1970s (BBl 1972 I 375 ff.), the Education Committee of the National Council developed a new concept between 2003 and 2005 that does not weaken federalism but strengthens it through coordination (Hänni, BSK BV, Art. 61a N. 8–9).
+**N. 2** The parliamentary genesis of the Education Constitution is remarkable, as it did not originate from a Federal Council proposal but emerged from the Zbinden parliamentary initiative (97.419). After the failure of earlier attempts at comprehensive education reform in the 1970s (BBl 1972 I 375 ff.), the Education Committee of the National Council developed a new concept between 2003 and 2005 that does not weaken federalism but strengthens it through coordination.
 
-**N. 3** The Federal Council was critical of the proposal and suggested deleting the word «together» in para. 2, as it was not legally clear (Hänni, BSK BV, Art. 61a N. 24). However, Parliament maintained the wording to emphasise the partnership responsibility of the Confederation and the cantons.
+**N. 3** The Federal Council was critical of the proposal and suggested deleting the word «together» in para. 2, as it was not legally clear. However, Parliament maintained the wording to emphasise the partnership responsibility of the Confederation and the cantons.
 
 ### 2. Systematic Classification
 
-**N. 4** Art. 61a Cst. forms the programmatic opening of Section 3 on «Education, Research and Culture» and is systematically closely linked to the subsequent special provisions: → Art. 62 Cst. (School system), → Art. 63 Cst. (Vocational and professional education and training), → Art. 63a Cst. (Universities), → Art. 64a Cst. (Continuing education). The norm functions as an overarching framework encompassing all levels of education (Hänni, BSK BV, Art. 61a N. 10–12).
+**N. 4** Art. 61a Cst. forms the programmatic opening of Section 3 on «Education, Research and Culture» and is systematically closely linked to the subsequent special provisions: → Art. 62 Cst. (School system), → Art. 63 Cst. (Vocational and professional education and training), → Art. 63a Cst. (Universities), → Art. 64a Cst. (Continuing education). The norm functions as an overarching framework encompassing all levels of education.
 
 **N. 5** The coordination obligation under Art. 61a para. 2 Cst. goes beyond the general cooperation obligation of → Art. 44 Cst. While doctrine is divided on whether there exists an «obligation considerably exceeding the measure of Art. 44» (rejecting: Biaggini, Komm. BV, Art. 61a N. 25; affirming: Education Committee of the National Council), practice shows that Art. 61a Cst. legitimises specific coordination instruments such as the HarmoS Agreement.
 
@@ -18,15 +18,15 @@
 
 ### 3. Elements of the Offence / Normative Content
 
-**N. 7** **Swiss Education Area (para. 1)**: The concept encompasses all levels of education from pre-school to quaternary education as well as formal, non-formal and informal education. The «area» is to be understood not geographically but functionally as a coherent system with permeable transitions (Hänni, BSK BV, Art. 61a N. 20–21).
+**N. 7** **Swiss Education Area (para. 1)**: The concept encompasses all levels of education from pre-school to quaternary education as well as formal, non-formal and informal education. The «area» is to be understood not geographically but functionally as a coherent system with permeable transitions.
 
-**N. 8** **Quality**: Quality assurance relates to both educational content and structures and processes. It encompasses minimum standards, evaluation mechanisms and continuous improvement. The concept is dynamic and oriented towards international standards (Hänni, BSK BV, Art. 61a N. 22).
+**N. 8** **Quality**: Quality assurance relates to both educational content and structures and processes. It encompasses minimum standards, evaluation mechanisms and continuous improvement. The concept is dynamic and oriented towards international standards.
 
-**N. 9** **Permeability**: Central is vertical (between educational levels) and horizontal (between educational pathways) mobility. Permeability requires mutual recognition of qualifications, compatible structures and connectivity of educational pathways (Hänni, BSK BV, Art. 61a N. 23–24).
+**N. 9** **Permeability**: Central is vertical (between educational levels) and horizontal (between educational pathways) mobility. Permeability requires mutual recognition of qualifications, compatible structures and connectivity of educational pathways.
 
-**N. 10** **Coordination and Cooperation (para. 2)**: The «joint» responsibility establishes a constitutional obligation to cooperate that goes beyond mere consultation. The Confederation and cantons must coordinate their measures and cannot act in isolation (Hänni, BSK BV, Art. 61a N. 25–26).
+**N. 10** **Coordination and Cooperation (para. 2)**: The «joint» responsibility establishes a constitutional obligation to cooperate that goes beyond mere consultation. The Confederation and cantons must coordinate their measures and cannot act in isolation.
 
-**N. 11** **Equivalent Recognition (para. 3)**: The norm postulates the equivalence of general and vocational education pathways. This prohibits hierarchical evaluation and demands equal access to further educational pathways (Hänni, BSK BV, Art. 61a N. 27).
+**N. 11** **Equivalent Recognition (para. 3)**: The norm postulates the equivalence of general and vocational education pathways. This prohibits hierarchical evaluation and demands equal access to further educational pathways.
 
 ### 4. Legal Consequences
 

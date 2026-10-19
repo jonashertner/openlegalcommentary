@@ -4,7 +4,7 @@
 
 ### 1. Historique
 
-**N. 1** La compétence de la Confédération de percevoir des impôts spéciaux sur la consommation trouve ses racines dans la Constitution fédérale de 1874. L'imposition de l'alcool remonte à l'art. 32bis ancCst (accepté en 1885), tandis que l'impôt sur le tabac fut intégré pour la première fois dans la Constitution en 1952 (Beusch, BSK BV, Art. 131 N. 1).
+**N. 1** La compétence de la Confédération de percevoir des impôts spéciaux sur la consommation trouve ses racines dans la Constitution fédérale de 1874. L'imposition de l'alcool remonte à l'art. 32bis ancCst (accepté en 1885), tandis que l'impôt sur le tabac fut intégré pour la première fois dans la Constitution en 1952.
 
 **N. 2** Lors de la révision totale de 1999, les diverses compétences en matière d'impôts sur la consommation furent réunies dans l'art. 131 Cst. Le message relatif à la nouvelle Constitution fédérale précisait à cet égard : « Le regroupement de tous les impôts spéciaux sur la consommation dans une seule disposition améliore la clarté de la Constitution » (FF 1997 I 1, 394).
 
@@ -18,27 +18,27 @@
 - → Art. 130 Cst. (taxe sur la valeur ajoutée), qui constitue, en tant qu'impôt général sur la consommation, le pendant des impôts spéciaux sur la consommation
 - ↔ Art. 86 Cst. (affectation de redevances liées à la circulation routière)
 
-**N. 5** Les impôts spéciaux sur la consommation selon l'art. 131 Cst. sont des impôts incitatifs à caractère fiscal. Ils poursuivent des objectifs tant de financement que de politique sanitaire et environnementale (Beusch, BSK BV, Art. 131 N. 5).
+**N. 5** Les impôts spéciaux sur la consommation selon l'art. 131 Cst. sont des impôts incitatifs à caractère fiscal. Ils poursuivent des objectifs tant de financement que de politique sanitaire et environnementale.
 
 ### 3. Éléments constitutifs / Contenu normatif
 
 #### a) Notion d'impôt spécial sur la consommation
 
-**N. 6** Les impôts spéciaux sur la consommation sont des prélèvements sélectifs sur certains biens et services. Contrairement à la taxe sur la valeur ajoutée en tant qu'impôt général sur la consommation, ils ne saisissent que les produits énumérés de manière exhaustive à l'art. 131 Cst. (Beusch, BSK BV, Art. 131 N. 5).
+**N. 6** Les impôts spéciaux sur la consommation sont des prélèvements sélectifs sur certains biens et services. Contrairement à la taxe sur la valeur ajoutée en tant qu'impôt général sur la consommation, ils ne saisissent que les produits énumérés de manière exhaustive à l'art. 131 Cst..
 
 **N. 7** La perception s'effectue typiquement lors de la fabrication ou de l'importation, non lors de la consommation finale. L'impôt est répercuté sur les consommateurs via le prix.
 
 #### b) Objets imposables selon l'al. 1
 
-**N. 8** **Tabac et produits du tabac (let. a) :** La notion englobe le tabac brut et tous les produits fabriqués à partir de celui-ci pour fumer, priser ou chiquer. L'imposition des produits de substitution du tabac comme les cigarettes électroniques est controversée. Selon l'avis du Tribunal administratif fédéral, les cigarettes électroniques sont « après interprétation soigneuse et exhaustive, à considérer comme soumises à l'imposition du tabac » (Beusch, BSK BV, Art. 131 N. 16). Le Conseil fédéral, en revanche, les définit « expressément comme produit de substitution non assujetti à l'impôt » (Beusch, BSK BV, Art. 131 N. 16).
+**N. 8** **Tabac et produits du tabac (let. a) :** La notion englobe le tabac brut et tous les produits fabriqués à partir de celui-ci pour fumer, priser ou chiquer. L'imposition des produits de substitution du tabac comme les cigarettes électroniques est controversée. Selon l'avis du Tribunal administratif fédéral, les cigarettes électroniques sont « après interprétation soigneuse et exhaustive, à considérer comme soumises à l'imposition du tabac ». Le Conseil fédéral, en revanche, les définit « expressément comme produit de substitution non assujetti à l'impôt ».
 
 **N. 9** **Eaux-de-vie (let. b) :** Selon la définition légale extensive de l'art. 2 LAlc, sont comprises toutes les boissons avec une teneur en alcool de plus de 15 pour cent en volume ainsi que les boissons à plus faible teneur en alcool si l'alcool n'a pas été obtenu exclusivement par fermentation. Le Tribunal fédéral a confirmé cette interprétation large dans **BGE 143 II 409**.
 
 **N. 10** **Bière (let. c) :** Sont saisies toutes les boissons fabriquées à partir de malt de céréales par fermentation alcoolique, indépendamment de la teneur en alcool. L'énumération séparée à côté des eaux-de-vie est due à des raisons historiques.
 
-**N. 11** **Automobiles et leurs éléments constitutifs (let. d) :** L'impôt sur les automobiles fut abrogé en 2007. La base constitutionnelle subsiste, mais ne pourrait plus être activée sans modification constitutionnelle (Beusch, BSK BV, Art. 131 N. 34).
+**N. 11** **Automobiles et leurs éléments constitutifs (let. d) :** L'impôt sur les automobiles fut abrogé en 2007. La base constitutionnelle subsiste, mais ne pourrait plus être activée sans modification constitutionnelle.
 
-**N. 12** **Huiles minérales, autres huiles minérales et carburants (let. e) :** Cet impôt a un caractère fiscal primaire pour financer l'infrastructure routière. Sont saisis les combustibles et carburants fossiles ainsi que leurs substituts (Beusch, BSK BV, Art. 131 N. 37).
+**N. 12** **Huiles minérales, autres huiles minérales et carburants (let. e) :** Cet impôt a un caractère fiscal primaire pour financer l'infrastructure routière. Sont saisis les combustibles et carburants fossiles ainsi que leurs substituts.
 
 #### c) Prélèvements additionnels selon l'al. 2
 
@@ -50,13 +50,13 @@
 
 **N. 15** L'art. 131 Cst. fonde une compétence de la Confédération, non une obligation de percevoir l'impôt. La conception s'effectue au niveau législatif (LTab, LAlc, LIMin, LBI).
 
-**N. 16** Selon → l'art. 134 Cst., les impôts cantonaux et communaux de même nature sont exclus. Le Tribunal fédéral reconnaît toutefois des impôts cantonaux de répartition des coûts avec un but spécifique. Ainsi, il a déclaré admissible un prélèvement vaudois de 0,8% sur les boissons alcooliques à emporter comme « impôt de répartition des coûts conforme au droit fédéral justifié par la protection de la jeunesse » (Beusch, BSK BV, Art. 131 N. 9).
+**N. 16** Selon → l'art. 134 Cst., les impôts cantonaux et communaux de même nature sont exclus. Le Tribunal fédéral reconnaît toutefois des impôts cantonaux de répartition des coûts avec un but spécifique. Ainsi, il a déclaré admissible un prélèvement vaudois de 0,8% sur les boissons alcooliques à emporter comme « impôt de répartition des coûts conforme au droit fédéral justifié par la protection de la jeunesse ».
 
 **N. 17** Les recettes de l'imposition des eaux-de-vie sont partiellement affectées : 10% du produit net reviennent aux cantons pour lutter contre les causes et effets des problèmes d'addiction (al. 3). Cette affectation est justiciable.
 
 ### 5. Points litigieux
 
-**N. 18** **Cigarettes électroniques :** La qualification des cigarettes électroniques comme produits du tabac est très controversée. Le Tribunal administratif fédéral défend une interprétation extensive et affirme l'assujettissement à l'impôt (Beusch, BSK BV, Art. 131 N. 16). Le Conseil fédéral refuse cela et définit les cigarettes électroniques comme produits de substitution non imposables (Beusch, BSK BV, Art. 131 N. 16). Bärtschi plaide pour une révision légale afin de clarifier la situation (Bärtschi, in: Beusch/ISIS [éd.], Développements en droit fiscal 2009, 381 ss.).
+**N. 18** **Cigarettes électroniques :** La qualification des cigarettes électroniques comme produits du tabac est très controversée. Le Tribunal administratif fédéral défend une interprétation extensive et affirme l'assujettissement à l'impôt. Le Conseil fédéral refuse cela et définit les cigarettes électroniques comme produits de substitution non imposables. Bärtschi plaide pour une révision légale afin de clarifier la situation (Bärtschi, in: Beusch/ISIS [éd.], Développements en droit fiscal 2009, 381 ss.).
 
 **N. 19** **Privilège de distillation domestique :** Matteotti/Gerber critiquent l'admissibilité constitutionnelle du privilège fiscal des petites distilleries indigènes comme violation de l'égalité juridique (Matteotti/Gerber, in: FS Reich, 23 ss.). La pratique maintient le privilège historiquement fondé.
 

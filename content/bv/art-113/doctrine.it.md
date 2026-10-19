@@ -10,7 +10,7 @@
 
 ### 2. Inquadramento sistematico
 
-**N. 4** L'art. 113 Cost forma insieme all'art. 111 Cost (AVS/AI) e all'art. 114 Cost (assicurazione contro la disoccupazione) il nucleo dell'ordinamento costituzionale delle assicurazioni sociali. I tre pilastri della previdenza per la vecchiaia sono sistematicamente coordinati tra loro: il primo pilastro (AVS) assicura il fabbisogno vitale, il secondo pilastro (previdenza professionale) consente la continuazione del tenore di vita abituale, e il terzo pilastro (previdenza individuale) serve al completamento individuale (Cardinaux, BSK BV, Art. 113 N. 3).
+**N. 4** L'art. 113 Cost forma insieme all'art. 111 Cost (AVS/AI) e all'art. 114 Cost (assicurazione contro la disoccupazione) il nucleo dell'ordinamento costituzionale delle assicurazioni sociali. I tre pilastri della previdenza per la vecchiaia sono sistematicamente coordinati tra loro: il primo pilastro (AVS) assicura il fabbisogno vitale, il secondo pilastro (previdenza professionale) consente la continuazione del tenore di vita abituale, e il terzo pilastro (previdenza individuale) serve al completamento individuale.
 
 **N. 5** La determinazione di competenza dell'art. 1 appartiene sistematicamente alle competenze materiali della Confederazione (art. 54–125 Cost). Essa fonda una competenza federale completa con efficacia derogatoria successiva, per cui regolamentazioni cantonali nel settore della previdenza professionale sono ammesse solo sussidiariamente (→ Art. 49 Cost). I Cantoni rimangono tuttavia competenti per la previdenza professionale del proprio personale, nella misura in cui il diritto federale non prevede regolamentazioni conclusive (**DTF 135 I 28 consid. 5**).
 
@@ -18,17 +18,17 @@
 
 ### 3. Elementi costitutivi / Contenuto normativo
 
-**N. 7** **Competenza legislativa (cpv. 1)**: La Confederazione ha non solo la facoltà, ma l'obbligo di emanare prescrizioni sulla previdenza professionale. Questa competenza completa comprende tutti gli aspetti del secondo pilastro, dai presupposti delle prestazioni attraverso l'organizzazione fino alla vigilanza (Cardinaux, BSK BV, Art. 113 N. 21).
+**N. 7** **Competenza legislativa (cpv. 1)**: La Confederazione ha non solo la facoltà, ma l'obbligo di emanare prescrizioni sulla previdenza professionale. Questa competenza completa comprende tutti gli aspetti del secondo pilastro, dai presupposti delle prestazioni attraverso l'organizzazione fino alla vigilanza.
 
-**N. 8** **Obiettivo delle prestazioni (cpv. 2 lett. a)**: La previdenza professionale deve consentire insieme all'AVS/AI la «continuazione del tenore di vita abituale in modo appropriato». Secondo la concezione del Consiglio federale le prestazioni di rendita del primo e secondo pilastro devono raggiungere insieme il 60% dell'ultimo salario lordo per i redditi medi (Cardinaux, BSK BV, Art. 113 N. 30). Il Tribunale federale ha chiarito che una sovrassicurazione tramite cumulo di diverse assicurazioni sociali non è compatibile con l'obiettivo del secondo pilastro (**DTF 130 V 369 consid. 2.2**).
+**N. 8** **Obiettivo delle prestazioni (cpv. 2 lett. a)**: La previdenza professionale deve consentire insieme all'AVS/AI la «continuazione del tenore di vita abituale in modo appropriato». Secondo la concezione del Consiglio federale le prestazioni di rendita del primo e secondo pilastro devono raggiungere insieme il 60% dell'ultimo salario lordo per i redditi medi. Il Tribunale federale ha chiarito che una sovrassicurazione tramite cumulo di diverse assicurazioni sociali non è compatibile con l'obiettivo del secondo pilastro (**DTF 130 V 369 consid. 2.2**).
 
-**N. 9** **Obbligo assicurativo (cpv. 2 lett. b)**: L'obbligo per i lavoratori dipendenti forma il nucleo della previdenza professionale. Il concetto di qualità di lavoratore dipendente nella previdenza professionale è identico a quello dell'AVS (Cardinaux, BSK BV, Art. 113 N. 38). La legge può prevedere eccezioni, ad esempio per redditi di scarsa entità o durate di impiego brevi (Riemer/Riemer-Kafka, Recht der beruflichen Vorsorge, § 4 N. 25 segg.).
+**N. 9** **Obbligo assicurativo (cpv. 2 lett. b)**: L'obbligo per i lavoratori dipendenti forma il nucleo della previdenza professionale. Il concetto di qualità di lavoratore dipendente nella previdenza professionale è identico a quello dell'AVS. La legge può prevedere eccezioni, ad esempio per redditi di scarsa entità o durate di impiego brevi (Riemer/Riemer-Kafka, Recht der beruflichen Vorsorge, § 4 N. 25 segg.).
 
 **N. 10** **Esecuzione tramite istituti di previdenza (cpv. 2 lett. c)**: I datori di lavoro devono assicurare i loro lavoratori dipendenti presso un istituto di previdenza. Questa organizzazione decentrata è una caratteristica essenziale della previdenza professionale svizzera (Helbling, Personalvorsorge und BVG, pag. 89). La Confederazione deve fornire sussidiariamente un istituto di previdenza federale (istituto collettore).
 
 **N. 11** **Lavoratori indipendenti (cpv. 2 lett. d ed e)**: I lavoratori indipendenti possono assicurarsi volontariamente. Per determinati gruppi la Confederazione può introdurre un obbligo, del quale finora non ha fatto uso (Stauffer, Berufliche Vorsorge, N. 156).
 
-**N. 12** **Finanziamento (cpv. 3)**: Il finanziamento paritetico è ancorato costituzionalmente. I datori di lavoro devono pagare almeno la metà dei contributi dei loro lavoratori dipendenti. Questa parità minima vale sia per la previdenza professionale obbligatoria che per quella estesa (Cardinaux, BSK BV, Art. 113 N. 57).
+**N. 12** **Finanziamento (cpv. 3)**: Il finanziamento paritetico è ancorato costituzionalmente. I datori di lavoro devono pagare almeno la metà dei contributi dei loro lavoratori dipendenti. Questa parità minima vale sia per la previdenza professionale obbligatoria che per quella estesa.
 
 **N. 13** **Requisiti minimi (cpv. 4)**: Tutti gli istituti di previdenza devono soddisfare requisiti minimi di diritto federale. Questi riguardano organizzazione, finanziamento, prescrizioni d'investimento e vigilanza (Schneider/Geiser/Gächter, BVG Handkommentar, Einl. N. 45 segg.).
 
@@ -44,7 +44,7 @@
 
 ### 5. Questioni controverse
 
-**N. 18** **Portata dell'obbligo**: È controverso in che misura il legislatore sia autorizzato a prevedere eccezioni dall'obbligo assicurativo. Mentre Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 N. 30) propendono per un'interpretazione restrittiva, Cardinaux (BSK BV, Art. 113 N. 45) argomenta per un margine di discrezione più ampio del legislatore. La giurisprudenza del Tribunale federale tende verso un'interpretazione più estensiva.
+**N. 18** **Portata dell'obbligo**: È controverso in che misura il legislatore sia autorizzato a prevedere eccezioni dall'obbligo assicurativo. Mentre Riemer/Riemer-Kafka (Recht der beruflichen Vorsorge, § 4 N. 30) propendono per un'interpretazione restrittiva, Cardinaux argomenta per un margine di discrezione più ampio del legislatore. La giurisprudenza del Tribunale federale tende verso un'interpretazione più estensiva.
 
 **N. 19** **Obbligo per gli indipendenti**: La questione per quali gruppi di lavoratori indipendenti dovrebbe essere introdotto un obbligo è discussa in modo controverso. Stauffer (Berufliche Vorsorge, N. 158) sostiene un obbligo per i lavoratori apparentemente indipendenti, mentre Helbling (Personalvorsorge und BVG, pag. 112) mette in guardia contro una sovraregolamentazione.
 

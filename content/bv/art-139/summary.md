@@ -2,7 +2,7 @@
 
 Artikel 139 BV regelt die Volksinitiative auf Teilrevision der Bundesverfassung. Dieses Instrument ermöglicht es Bürgerinnen und Bürgern, Änderungen der Verfassung zu verlangen und direkt zu entscheiden.
 
-**Wer ist berechtigt?** 100'000 Stimmberechtigte können eine Initiative einreichen. Das entspricht etwa 1,9% aller Wahlberechtigten in der Schweiz (Epiney/Diezig, BSK BV, Art. 139 N. 8). Die Unterschriften müssen innerhalb von 18 Monaten nach der Veröffentlichung im Bundesblatt gesammelt werden.
+**Wer ist berechtigt?** 100'000 Stimmberechtigte können eine Initiative einreichen. Das entspricht etwa 1,9% aller Wahlberechtigten in der Schweiz. Die Unterschriften müssen innerhalb von 18 Monaten nach der Veröffentlichung im Bundesblatt gesammelt werden.
 
 **Welche Formen gibt es?** Es bestehen zwei Möglichkeiten: Die allgemeine Anregung formuliert ein Anliegen grob und überlässt die Ausarbeitung der Bundesversammlung (Parlament). Der ausgearbeitete Entwurf enthält bereits den fertigen Verfassungstext.
 

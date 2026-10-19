@@ -14,7 +14,7 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 5** **Bundesgesetze**: Der Begriff umfasst alle von der Bundesversammlung im ordentlichen Gesetzgebungsverfahren nach Art. 163 ff. BV erlassenen formellen Gesetze. Nach herrschender Lehre (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 8; Waldmann/Belser/Epiney, BSK BV, Art. 190 N. 12) fallen darunter sowohl referendumspflichtige als auch dringliche Bundesgesetze. Nicht erfasst sind hingegen Verordnungen des Bundesrates, selbst wenn sie auf einer gesetzlichen Delegation beruhen.
+**N. 5** **Bundesgesetze**: Der Begriff umfasst alle von der Bundesversammlung im ordentlichen Gesetzgebungsverfahren nach Art. 163 ff. BV erlassenen formellen Gesetze. Nach herrschender Lehre (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 8) fallen darunter sowohl referendumspflichtige als auch dringliche Bundesgesetze. Nicht erfasst sind hingegen Verordnungen des Bundesrates, selbst wenn sie auf einer gesetzlichen Delegation beruhen.
 
 **N. 6** **Völkerrecht**: Der Begriff umfasst sämtliche für die Schweiz verbindlichen völkerrechtlichen Normen, unabhängig von ihrer Rangstufe im internationalen Recht. Dies schliesst völkerrechtliche Verträge, Völkergewohnheitsrecht und allgemeine Rechtsgrundsätze des Völkerrechts ein (Rhinow/Schefer/Uebersax, Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N. 3642). Kontrovers diskutiert wird, ob auch soft law-Instrumente erfasst sind (verneinend: Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 11 N. 24).
 
@@ -30,7 +30,7 @@
 
 ### 5. Streitstände
 
-**N. 11** **Umfang des Anwendungsgebots**: Während die herrschende Lehre (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 15; Häfelin/Haller/Keller/Thurnherr, a.a.O., N. 2230) Art. 190 BV als absolutes Anwendungsgebot versteht, plädiert eine Mindermeinung (Schefer, in: Waldmann/Belser/Epiney, BSK BV, Art. 190 N. 28) für Ausnahmen bei schwerwiegenden Grundrechtsverletzungen. Diese Position konnte sich in der Rechtsprechung nicht durchsetzen.
+**N. 11** **Umfang des Anwendungsgebots**: Während die herrschende Lehre (Ehrenzeller/Schindler/Schweizer/Vallender, SGK BV, Art. 190 N. 15; Häfelin/Haller/Keller/Thurnherr, a.a.O., N. 2230) Art. 190 BV als absolutes Anwendungsgebot versteht, plädiert eine Mindermeinung für Ausnahmen bei schwerwiegenden Grundrechtsverletzungen. Diese Position konnte sich in der Rechtsprechung nicht durchsetzen.
 
 **N. 12** **Schubert-Praxis**: Die Reichweite der Schubert-Praxis ist hochumstritten. Kälin/Künzli (in: Ehrenzeller et al., SGK BV, Art. 190 N. 22) vertreten eine restriktive Anwendung nur bei eindeutigem gesetzgeberischem Willen. Schweizer (Die Schubert-Praxis, 2018, S. 234) fordert deren vollständige Aufgabe zugunsten eines uneingeschränkten Völkerrechtsvorrangs. Die Rechtsprechung hält an der Praxis fest, schränkt sie aber kontinuierlich ein.
 

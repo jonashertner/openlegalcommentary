@@ -62,7 +62,7 @@
 
 **N. 15** **Zeitpunkt der Mandatsfreiheit**: Kontrovers ist, ab wann das freie Mandat gilt. Nach **BGE 151 I 41** beginnt der Schutz erst mit der Konstituierung des Parlaments. Biaggini (BV-Kommentar, 2. Aufl. 2017, Art. 161 N 3) kritisiert diese Einschränkung als systemwidrig, da das Mandat bereits mit der Wahl entstehe.
 
-**N. 16** **Reichweite der Offenlegungspflicht**: Umstritten ist, wie detailliert die Offenlegung sein muss. Während das St. Galler Kommentar (Ehrenzeller et al., 4. Aufl. 2023, Art. 161 N 12) eine umfassende Transparenz fordert, plädieren andere für eine Beschränkung auf wesentliche Bindungen mit direktem Bezug zur parlamentarischen Tätigkeit (BSK BV-Waldmann/Belser/Epiney, 2. Aufl. 2024, Art. 161 N 18).
+**N. 16** **Reichweite der Offenlegungspflicht**: Umstritten ist, wie detailliert die Offenlegung sein muss. Während das St. Galler Kommentar (Ehrenzeller et al., 4. Aufl. 2023, Art. 161 N 12) eine umfassende Transparenz fordert, plädieren andere für eine Beschränkung auf wesentliche Bindungen mit direktem Bezug zur parlamentarischen Tätigkeit.
 
 ### 6. Praxishinweise
 

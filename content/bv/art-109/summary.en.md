@@ -8,7 +8,7 @@ Art. 109 FC empowers the Confederation to enact provisions against abuses in ten
 
 ### In Brief
 
-Art. 109 FC gives the Confederation the competence to protect tenants from abuse. This constitutional provision emerged in the 1970s as a reaction to housing shortages and protects tenants as the weaker contracting party (Cardinaux, BSK BV, Art. 109 N. 10). The Confederation has implemented this competence in Art. 253-274g CO. The provision prohibits excessive rents and arbitrary terminations. In cases of hardship, tenancy relationships may be extended in time. The federal law takes precedence over cantonal law (**BGE 149 I 25** para. 4.4.5).
+Art. 109 FC gives the Confederation the competence to protect tenants from abuse. This constitutional provision emerged in the 1970s as a reaction to housing shortages and protects tenants as the weaker contracting party. The Confederation has implemented this competence in Art. 253-274g CO. The provision prohibits excessive rents and arbitrary terminations. In cases of hardship, tenancy relationships may be extended in time. The federal law takes precedence over cantonal law (**BGE 149 I 25** para. 4.4.5).
 
 ### Practical Significance
 

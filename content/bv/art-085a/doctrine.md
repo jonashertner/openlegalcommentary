@@ -25,7 +25,7 @@
 
 **N. 7** **Benützung der Nationalstrassen**: Die Abgabe ist an die tatsächliche oder potenzielle Benützung der Nationalstrassen geknüpft. Eine Differenzierung nach Benützungshäufigkeit ist verfassungsrechtlich nicht vorgesehen (Pauschale).
 
-**N. 8** **Ausnahme Schwerverkehr**: Fahrzeuge, die der Schwerverkehrsabgabe nach Art. 85 BV unterstehen, sind von der Nationalstrassenabgabe ausgenommen. Diese systematische Abgrenzung verhindert eine Doppelbelastung (Waldmann/Belser/Epiney, BSK BV, 2. Aufl. 2024, Art. 85a N. 5).
+**N. 8** **Ausnahme Schwerverkehr**: Fahrzeuge, die der Schwerverkehrsabgabe nach Art. 85 BV unterstehen, sind von der Nationalstrassenabgabe ausgenommen. Diese systematische Abgrenzung verhindert eine Doppelbelastung.
 
 ### 4. Rechtsfolgen
 
@@ -39,7 +39,7 @@
 
 ### 5. Streitstände
 
-**N. 11** **Pauschale vs. leistungsabhängige Ausgestaltung**: In der Lehre wird diskutiert, ob die verfassungsrechtliche Konzeption als Pauschale zwingend ist. Die herrschende Meinung (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, Art. 85a N. 6; Waldmann/Belser/Epiney, BSK BV, Art. 85a N. 8) vertritt, dass die historische und systematische Auslegung für eine Pauschallösung spricht. Eine Minderheit (Griffel, in: Umweltrecht in der Praxis 2015, 234) hält eine kilometerabhängige Ausgestaltung für verfassungsrechtlich zulässig.
+**N. 11** **Pauschale vs. leistungsabhängige Ausgestaltung**: In der Lehre wird diskutiert, ob die verfassungsrechtliche Konzeption als Pauschale zwingend ist. Die herrschende Meinung (Ehrenzeller/Schindler/Schweizer/Vallender, St. Galler Kommentar BV, Art. 85a N. 6) vertritt, dass die historische und systematische Auslegung für eine Pauschallösung spricht. Eine Minderheit (Griffel, in: Umweltrecht in der Praxis 2015, 234) hält eine kilometerabhängige Ausgestaltung für verfassungsrechtlich zulässig.
 
 **N. 12** **Höhe der Abgabe**: Umstritten ist, welche verfassungsrechtlichen Schranken für die Abgabehöhe bestehen. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N. 2854) fordern eine Orientierung am Äquivalenzprinzip. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 2341) betonen demgegenüber den politischen Spielraum des Gesetzgebers.
 

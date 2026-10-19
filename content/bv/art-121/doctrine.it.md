@@ -16,15 +16,15 @@
 
 **N. 5** Per la posizione giuridica fondamentale di straniere e stranieri sono rilevanti in particolare → l'art. 8 Cost. (uguaglianza giuridica), → l'art. 13 Cost. (protezione della sfera privata) e → l'art. 25 Cost. (protezione dall'espulsione). Le norme della CEDU, segnatamente l'art. 8 CEDU (diritto al rispetto della vita privata e familiare) e l'art. 3 CEDU (divieto di trattamenti inumani), costituiscono secondo → l'art. 190 Cost. diritto determinante e limitano l'applicazione dell'art. 121 Cost.
 
-**N. 6** Nel rapporto con l'Accordo sulla libera circolazione delle persone (ALC) con l'UE sorge un campo di tensione. Secondo Achermann, BSK BV, Art. 121 N. 27, l'ampia competenza federale consente di disciplinare in linea di principio tutte le questioni concernenti lo status e la posizione degli stranieri, mentre altri autori sottolineano che la Confederazione non può disciplinare l'integrazione senza cooperazione con i Cantoni (Achermann, BSK BV, Art. 121 N. 27).
+**N. 6** Nel rapporto con l'Accordo sulla libera circolazione delle persone (ALC) con l'UE sorge un campo di tensione. Secondo Achermann, BSK BV, Art. 121 N. 27, l'ampia competenza federale consente di disciplinare in linea di principio tutte le questioni concernenti lo status e la posizione degli stranieri, mentre altri autori sottolineano che la Confederazione non può disciplinare l'integrazione senza cooperazione con i Cantoni.
 
 ### 3. Elementi costitutivi della fattispecie / Contenuto normativo
 
 #### a) Competenza legislativa (cpv. 1)
 
-**N. 7** La competenza federale secondo il cpv. 1 è ampia e si estende a entrata e uscita, dimora, domicilio nonché concessione dell'asilo. Secondo **DTF 127 II 49** si tratta di una competenza federale esclusiva, che include anche misure di politica del mercato del lavoro. La dottrina dominante riconosce questa competenza ampia (Achermann, BSK BV, Art. 121 N. 33), mentre voci critiche mettono in discussione l'estensione ai settori della politica del mercato del lavoro (Achermann, BSK BV, Art. 121 N. 33).
+**N. 7** La competenza federale secondo il cpv. 1 è ampia e si estende a entrata e uscita, dimora, domicilio nonché concessione dell'asilo. Secondo **DTF 127 II 49** si tratta di una competenza federale esclusiva, che include anche misure di politica del mercato del lavoro. La dottrina dominante riconosce questa competenza ampia, mentre voci critiche mettono in discussione l'estensione ai settori della politica del mercato del lavoro.
 
-**N. 8** La competenza in materia di asilo è secondo il messaggio concernente la Costituzione federale una competenza federale esclusiva (FF 1997 I 1, 370), benché questa classificazione sia controversa in dottrina (Achermann, BSK BV, Art. 121 N. 42). Il concetto di «asilo» comprende la concessione temporanea di protezione per persone perseguitate nello Stato di origine o la cui vita e incolumità fisica sono in pericolo.
+**N. 8** La competenza in materia di asilo è secondo il messaggio concernente la Costituzione federale una competenza federale esclusiva (FF 1997 I 1, 370), benché questa classificazione sia controversa in dottrina. Il concetto di «asilo» comprende la concessione temporanea di protezione per persone perseguitate nello Stato di origine o la cui vita e incolumità fisica sono in pericolo.
 
 #### b) Espulsione per motivi di sicurezza (cpv. 2)
 
@@ -46,11 +46,11 @@
 
 ### 5. Punti controversi
 
-**N. 15** Un punto controverso centrale concerne la portata della competenza di integrazione della Confederazione. Achermann sostiene la posizione che la competenza federale sia ampia e consenta di disciplinare tutte le questioni concernenti lo status e la posizione degli stranieri (Achermann, BSK BV, Art. 121 N. 27). Al contrario, altri autori sottolineano che la Confederazione non può aggirare le competenze dei Cantoni in materia di formazione, sociale e altri settori senza cooperazione con i Cantoni (Achermann, BSK BV, Art. 121 N. 27).
+**N. 15** Un punto controverso centrale concerne la portata della competenza di integrazione della Confederazione. Achermann sostiene la posizione che la competenza federale sia ampia e consenta di disciplinare tutte le questioni concernenti lo status e la posizione degli stranieri. Al contrario, altri autori sottolineano che la Confederazione non può aggirare le competenze dei Cantoni in materia di formazione, sociale e altri settori senza cooperazione con i Cantoni.
 
 **N. 16** È discusso in modo controverso il rapporto tra l'art. 121 cpv. 3–6 Cost. e l'Accordo sulla libera circolazione delle persone. Jaag/Priuli argomentano che l'iniziativa per l'espulsione sia incompatibile con l'ALC (Jusletter dell'8.11.2010). Weber invece vede varianti di attuazione che consentono una compatibilità (AJP 2012, 1436). Il Tribunale federale ha sviluppato in **DTF 145 IV 55** un «esame specifico» per i cittadini UE.
 
-**N. 17** L'interpretazione del principio di non-refoulement nel contesto dell'iniziativa per l'espulsione è controversa. Il Consiglio federale ha sostenuto la posizione che l'iniziativa potesse essere interpretata in modo da rispettare il principio di non-refoulement, ma ha messo in guardia da notevoli collisioni con i principi dello Stato di diritto (Achermann, BSK BV, Art. 121 N. 54).
+**N. 17** L'interpretazione del principio di non-refoulement nel contesto dell'iniziativa per l'espulsione è controversa. Il Consiglio federale ha sostenuto la posizione che l'iniziativa potesse essere interpretata in modo da rispettare il principio di non-refoulement, ma ha messo in guardia da notevoli collisioni con i principi dello Stato di diritto.
 
 ### 6. Indicazioni pratiche
 

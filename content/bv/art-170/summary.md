@@ -4,7 +4,7 @@
 
 Art. 170 BV verpflichtet die Bundesversammlung, dafür zu sorgen, dass staatliche Massnahmen des Bundes auf ihre Wirksamkeit überprüft werden. Diese Bestimmung ist eine verfassungsrechtliche Neuerung der Bundesverfassung von 1999 ohne Entsprechung in der alten Bundesverfassung von 1874 (SGK-Uhlmann/Bussmann, Art. 170 BV, N. 1).
 
-Die Bundesversammlung muss die Wirksamkeitsprüfungen nicht selbst durchführen, sondern kann sie an den Bundesrat, an parlamentarische Hilfsorgane oder an externe Stellen delegieren (BSK-Lienhard/Mächler/Marti Locher, Art. 170 BV, N. 11). In der Praxis erfüllt das Parlament diesen Auftrag hauptsächlich durch Evaluationsklauseln in Gesetzen, die den Bundesrat zur Überprüfung bestimmter Massnahmen verpflichten. Derzeit existieren rund 110 solcher Klauseln im Bundesrecht.
+Die Bundesversammlung muss die Wirksamkeitsprüfungen nicht selbst durchführen, sondern kann sie an den Bundesrat, an parlamentarische Hilfsorgane oder an externe Stellen delegieren. In der Praxis erfüllt das Parlament diesen Auftrag hauptsächlich durch Evaluationsklauseln in Gesetzen, die den Bundesrat zur Überprüfung bestimmter Massnahmen verpflichten. Derzeit existieren rund 110 solcher Klauseln im Bundesrecht.
 
 «Wirksamkeit» wird dabei in einem weiten Sinne verstanden und umfasst drei Teilkriterien (SGK-Uhlmann/Bussmann, Art. 170 BV, N. 20 ff.): den Umsetzungsstand (wird die Massnahme tatsächlich umgesetzt?), den Zielverwirklichungsgrad (erreicht die Massnahme ihre Ziele?) und die Wirtschaftlichkeit (stehen Kosten und Nutzen in einem angemessenen Verhältnis?).
 

@@ -4,7 +4,7 @@ L'art. 62 Cost. disciplina le competenze nel settore scolastico tra Confederazio
 
 **Chi è interessato?** Tutti i bambini che vivono in Svizzera hanno diritto all'istruzione di base gratuita. Ciò vale anche per i bambini stranieri senza permesso di soggiorno. I bambini disabili hanno diritti aggiuntivi a una promozione speciale. I genitori devono mandare i loro figli a scuola — è un obbligo.
 
-**Quali sono le conseguenze giuridiche?** I Cantoni devono mettere a disposizione scuole sufficienti e non possono richiedere tasse scolastiche per l'insegnamento obbligatorio. Il Tribunale federale ha chiarito: tutto il materiale didattico necessario come libri e quaderni deve essere gratuito (**DTF 144 I 1**). Per la scolarizzazione speciale è controverso se i bambini disabili abbiano un diritto diretto davanti al giudice. La dottrina ha opinioni divergenti (Hänni, BSK BV, Art. 62 N. 70).
+**Quali sono le conseguenze giuridiche?** I Cantoni devono mettere a disposizione scuole sufficienti e non possono richiedere tasse scolastiche per l'insegnamento obbligatorio. Il Tribunale federale ha chiarito: tutto il materiale didattico necessario come libri e quaderni deve essere gratuito (**DTF 144 I 1**). Per la scolarizzazione speciale è controverso se i bambini disabili abbiano un diritto diretto davanti al giudice. La dottrina ha opinioni divergenti.
 
 Se i Cantoni non riescono a concordare standard comuni, la Confederazione può intervenire. Ciò riguarda ad esempio l'età d'entrata a scuola o il riconoscimento dei diplomi. Questa competenza federale è però sussidiaria — interviene solo se i Cantoni falliscono.
 

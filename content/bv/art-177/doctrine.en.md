@@ -26,7 +26,7 @@
 - Majority principle: Decisions are made by majority vote
 - Solidarity principle: Members represent collegial decisions uniformly to the outside
 
-**N. 5** The scope of the collegial principle is disputed in doctrine. While Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4th ed. 2014, § 15 N 12) advocate a strict interpretation according to which all decisions of considerable significance must be submitted to the entire Federal Council, Sägesser (in: Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 177 N 8) argues for a pragmatic handling that takes account of the efficiency requirements of modern state activity.
+**N. 5** The scope of the collegial principle is disputed in doctrine. While Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4th ed. 2014, § 15 N 12) advocate a strict interpretation according to which all decisions of considerable significance must be submitted to the entire Federal Council, Sägesser argues for a pragmatic handling that takes account of the efficiency requirements of modern state activity.
 
 #### b) Departmental Principle (Para. 2)
 

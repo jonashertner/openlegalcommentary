@@ -63,7 +63,7 @@
 
 **N. 15** The extent of self-administration regarding budgetary authority is also controversially discussed. Müller/Schefer, Grundrechte in der Schweiz, 4th ed. 2008, p. 962, demand complete budgetary autonomy, while the prevailing doctrine (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4th ed. 2014, § 11 N 28) considers parliamentary budgetary authority to take constitutional precedence.
 
-**N. 16** The scope of the reservation of law for procedural regulations is also contentious. Part of the doctrine (Waldmann/Belser/Epiney, BSK BV, 2nd ed. 2024, Art. 188 N 15) requires explicit legal authorisation, while others (Kley, ZSR 2020, p. 215) consider the guarantee of self-administration as sufficient basis.
+**N. 16** The scope of the reservation of law for procedural regulations is also contentious. Part of the doctrine requires explicit legal authorisation, while others (Kley, ZSR 2020, p. 215) consider the guarantee of self-administration as sufficient basis.
 
 ## 6. Practice Notes
 
