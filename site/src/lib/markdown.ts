@@ -340,6 +340,7 @@ export function renderMarkdown(
       properties: {
         className: ['heading-anchor'],
         ariaHidden: 'true',
+        dataPagefindIgnore: '',
       },
       content: {
         type: 'text',
