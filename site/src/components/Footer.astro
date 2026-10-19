@@ -1,50 +1,110 @@
 ---
 // site/src/components/Footer.astro
-import { type Lang } from '@/lib/i18n';
+import { type Lang, t } from '@/lib/i18n';
+import { langBase } from '@/lib/base';
 
 export interface Props {
   lang: Lang;
 }
 
 const { lang } = Astro.props;
+const REPO = 'https://github.com/jonashertner/openlegalcommentary';
 ---
 
 <footer class="site-footer">
   <div class="footer-inner page-wrapper">
-    <div>Quelle: <a href="https://opencaselaw.ch">OpenCaseLaw.ch</a> · Inhalt: CC0 · Code: MIT</div>
-    <div>openlegalcommentary.ch</div>
+    <div class="footer-brand">
+      <div class="footer-name">openlegalcommentary</div>
+      <p class="footer-tagline">{t('footer.tagline', lang)}</p>
+      <p class="footer-disclaimer">{t('footer.disclaimer', lang)}</p>
+    </div>
+
+    <nav class="footer-col" aria-label={t('footer.project', lang)}>
+      <div class="label">{t('footer.project', lang)}</div>
+      <a href={`${langBase(lang)}/about/`}>{t('nav.about', lang)}</a>
+      <a href={`${langBase(lang)}/methodology/`}>{t('nav.methodology', lang)}</a>
+      <a href={`${langBase(lang)}/changelog/`}>{t('nav.changelog', lang)}</a>
+      <a href={`${REPO}/issues`} target="_blank" rel="noopener">{t('footer.feedback', lang)}</a>
+    </nav>
+
+    <div class="footer-col">
+      <div class="label">{t('footer.sources', lang)}</div>
+      <a href="https://www.fedlex.admin.ch" target="_blank" rel="noopener">Fedlex</a>
+      <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a>
+    </div>
+
+    <div class="footer-col">
+      <div class="label">{t('footer.license', lang)}</div>
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener">{t('footer.content_license', lang)}</a>
+      <a href={`${REPO}/blob/main/LICENSE-CODE`} target="_blank" rel="noopener">{t('footer.code_license', lang)}</a>
+      <a href={REPO} target="_blank" rel="noopener">{t('footer.source_code', lang)}</a>
+    </div>
   </div>
 </footer>
 
 <style>
   .site-footer {
     border-top: 1px solid var(--color-rule);
-    padding: var(--space-3) 0;
-    margin-top: auto;
-    font-size: 11px;
+    padding: var(--space-4) 0 var(--space-5);
+    margin-top: var(--space-5);
+    font-size: 12px;
     color: var(--color-text-muted);
   }
 
   .footer-inner {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: var(--space-4);
+  }
+
+  .footer-name {
+    font-weight: 700;
+    color: var(--color-text);
+    font-size: 13px;
+  }
+
+  .footer-tagline {
+    margin-top: 6px;
+    color: var(--color-text-secondary);
+    max-width: 360px;
+  }
+
+  .footer-disclaimer {
+    margin-top: var(--space-2);
+    max-width: 360px;
+    line-height: 1.5;
+  }
+
+  .footer-col {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .footer-col .label {
+    margin-bottom: 2px;
   }
 
   .site-footer a {
-    color: var(--color-text-muted);
+    color: var(--color-text-secondary);
     text-decoration: none;
   }
 
   .site-footer a:hover {
     color: var(--color-text);
+    text-decoration: underline;
   }
 
   @media (max-width: 768px) {
     .footer-inner {
-      flex-direction: column;
-      gap: 0.5rem;
-      text-align: center;
+      grid-template-columns: 1fr 1fr;
+      gap: var(--space-3);
+    }
+    .footer-brand {
+      grid-column: 1 / -1;
+    }
+    .site-footer a {
+      padding: 4px 0;
     }
   }
 </style>

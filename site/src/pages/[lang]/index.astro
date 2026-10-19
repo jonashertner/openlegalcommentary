@@ -3,7 +3,7 @@
 import { LANGS, type Lang, t } from '@/lib/i18n';
 import { langBase } from '@/lib/base';
 import Base from '../../layouts/Base.astro';
-import { LAWS, CANTONAL_LAWS } from '../../lib/laws';
+import { LAWS, CANTONAL_LAWS, lawAbbr } from '../../lib/laws';
 import { getLawStats } from '../../lib/content';
 import { CANTONS } from '../../lib/cantons';
 
@@ -12,90 +12,109 @@ export function getStaticPaths() {
 }
 const { lang } = Astro.params as { lang: Lang };
 
-const lawsWithStats = LAWS.map((law) => ({
-  law,
-  stats: getLawStats(law.slug),
-}));
+// Laws with commentary first (most articles first), then the ones in preparation
+// in their usual order.
+const lawsWithStats = LAWS.map((law, i) => ({ law, i, stats: getLawStats(law.slug) }))
+  .sort((a, b) => (b.stats.withContent - a.stats.withContent) || (a.i - b.i));
 
-const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticles, 0);
+const commentedArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.withContent, 0);
+const fmt = (n: number) => n.toLocaleString('de-CH');
 ---
 
 <Base title="Home" lang={lang} pagePath="/">
-  <main>
-    <div class="page-wrapper">
-      <!-- Hero -->
-      <section class="hero">
-        <div class="hero-grid">
-          <div class="hero-content">
-            <div class="label">{t('home.eyebrow', lang)}</div>
-            <h1 class="hero-title">{t('home.title', lang)}</h1>
-            <p class="hero-description">{t('home.subtitle', lang)}</p>
-          </div>
-          <div class="hero-stats">
-            <div class="stat">
-              <div class="stat-value">{totalArticles.toLocaleString('de-CH')}</div>
-              <div class="label">{t('home.stat.articles', lang)}</div>
-            </div>
-            <div class="stat">
-              <div class="stat-value">963K</div>
-              <div class="label">{t('home.stat.decisions', lang)}</div>
-            </div>
-            <div class="stat">
-              <div class="stat-value">{LAWS.length}</div>
-              <div class="label">{t('home.stat.laws', lang)}</div>
-            </div>
-            <div class="stat">
-              <div class="stat-value">{LANGS.length}</div>
-              <div class="label">{t('home.stat.languages', lang)}</div>
-            </div>
-          </div>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-grid">
+      <div class="hero-content">
+        <div class="label">{t('home.eyebrow', lang)}</div>
+        <h1 class="hero-title">{t('home.title', lang)}</h1>
+        <p class="hero-description">{t('home.subtitle', lang)}</p>
+        <div class="hero-actions">
+          <a class="hero-cta" href={`${langBase(lang)}/bv/`}>{t('home.cta_primary', lang)} &rarr;</a>
+          <a class="hero-example" href={`${langBase(lang)}/bv/art-8/?layer=doctrine`}>{t('home.cta_example', lang)}</a>
         </div>
-      </section>
-
-      <!-- Laws grid -->
-      <section class="laws-section">
-        <div class="label">{t('nav.laws', lang)}</div>
-        <div class="laws-grid">
-          {lawsWithStats.map(({ law, stats }) => {
-            const hasContent = stats.withContent > 0;
-            return (
-              <a href={`${langBase(lang)}/${law.abbr.toLowerCase()}/`} class:list={['law-cell', { 'law-cell--pending': !hasContent }]}>
-                <div class="law-cell-top">
-                  <span class="law-abbr">{law.abbr}</span>
-                  <span class="law-count">{stats.totalArticles} Art.</span>
-                </div>
-                <div class="law-name">{law.name[lang]}</div>
-                <div class="law-sr">SR {law.sr}</div>
-                {!hasContent && <div class="law-pending">{t('law.coming_soon', lang)}</div>}
-              </a>
-            );
-          })}
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <div class="stat-value">{fmt(commentedArticles)}</div>
+          <div class="label">{t('home.stat.commented', lang)}</div>
         </div>
-      </section>
-
-      <!-- Cantonal constitutions -->
-      {CANTONAL_LAWS.length > 0 && (
-        <section class="cantons-section">
-          <div class="label">{t('home.cantons_heading', lang)}</div>
-          <p class="cantons-subtitle">{t('home.cantons_subtitle', lang)}</p>
-          <div class="cantons-grid">
-            {CANTONS.map((canton) => {
-              const kvLaw = CANTONAL_LAWS.find(l => l.canton === canton.code);
-              if (!kvLaw) return null;
-              const stats = getLawStats(kvLaw.slug);
-              return (
-                <a href={`${langBase(lang)}/${kvLaw.slug}/`} class="canton-cell">
-                  <span class="canton-code">{canton.code}</span>
-                  <span class="canton-name">{canton.name[lang]}</span>
-                  {stats.totalArticles > 0 && <span class="canton-articles">{stats.totalArticles} Art.</span>}
-                </a>
-              );
-            })}
-          </div>
-        </section>
-      )}
+        <div class="stat">
+          <div class="stat-value">{t('home.stat.decisions_value', lang)}</div>
+          <div class="label">{t('home.stat.decisions', lang)}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value">{LAWS.length}</div>
+          <div class="label">{t('home.stat.laws', lang)}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value">{LANGS.length}</div>
+          <div class="label">{t('home.stat.languages', lang)}</div>
+        </div>
+      </div>
     </div>
-  </main>
+  </section>
+
+  <!-- Laws grid -->
+  <section class="laws-section">
+    <h2 class="label">{t('nav.laws', lang)}</h2>
+    <div class="laws-grid">
+      {lawsWithStats.map(({ law, stats }) => {
+        const hasContent = stats.withContent > 0;
+        return (
+          <a href={`${langBase(lang)}/${law.slug}/`} class:list={['law-cell', { 'law-cell--pending': !hasContent }]}>
+            <div class="law-cell-top">
+              <span class="law-abbr">{lawAbbr(law, lang)}</span>
+              <span class="law-count">
+                {hasContent
+                  ? <><strong>{fmt(stats.withContent)}</strong>{` / ${fmt(stats.totalArticles)} ${t('law.commented_of', lang)}`}</>
+                  : `${fmt(stats.totalArticles)} Art.`}
+              </span>
+            </div>
+            <div class="law-name">{law.name[lang]}</div>
+            <div class="law-sr">SR {law.sr}</div>
+            {!hasContent && <div class="law-pending">{t('law.coming_soon', lang)}</div>}
+          </a>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- Three layers -->
+  <section class="layers-section">
+    <h2 class="label">{t('home.layers_heading', lang)}</h2>
+    <div class="layers-grid">
+      {[1, 2, 3].map((n) => (
+        <div class="layer">
+          <div class="layer-num">{n}</div>
+          <h3 class="layer-title">{t(`home.layer${n}.title`, lang)}</h3>
+          <p class="layer-desc">{t(`home.layer${n}.desc`, lang)}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- Cantonal constitutions -->
+  {CANTONAL_LAWS.length > 0 && (
+    <section class="cantons-section">
+      <h2 class="label">{t('home.cantons_heading', lang)}</h2>
+      <p class="cantons-subtitle">{t('home.cantons_subtitle', lang)}</p>
+      <div class="cantons-grid">
+        {CANTONS.map((canton) => {
+          const kvLaw = CANTONAL_LAWS.find(l => l.canton === canton.code);
+          if (!kvLaw) return null;
+          const stats = getLawStats(kvLaw.slug);
+          return (
+            <a href={`${langBase(lang)}/${kvLaw.slug}/`} class="canton-cell">
+              <span class="canton-code">{canton.code}</span>
+              <span class="canton-name">{canton.name[lang]}</span>
+              {stats.totalArticles > 0 && <span class="canton-articles">{stats.totalArticles} Art.</span>}
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  )}
 </Base>
 
 <style>
@@ -121,11 +140,41 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
 
   .hero-description {
     font-family: var(--font-body);
-    font-size: 16px;
-    line-height: 1.7;
+    font-size: 17px;
+    line-height: 1.65;
     color: var(--color-text-secondary);
-    max-width: 480px;
+    max-width: 540px;
     margin-top: var(--space-4);
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-2) var(--space-3);
+    margin-top: var(--space-4);
+  }
+
+  .hero-cta {
+    display: inline-block;
+    background: var(--color-text);
+    color: var(--color-bg);
+    border: 1px solid var(--color-text);
+    padding: 11px 18px;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background var(--transition-fast), color var(--transition-fast);
+  }
+
+  .hero-cta:hover {
+    background: var(--color-bg);
+    color: var(--color-text);
+  }
+
+  .hero-example {
+    font-size: 13px;
+    color: var(--color-text-secondary);
   }
 
   .hero-stats {
@@ -147,13 +196,16 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
     font-weight: 700;
     letter-spacing: -0.03em;
     line-height: 1;
+    margin-bottom: 6px;
   }
 
-  .laws-section {
+  .laws-section,
+  .layers-section {
     padding: var(--space-5) 0;
   }
 
-  .laws-section > .label {
+  .laws-section > .label,
+  .layers-section > .label {
     margin-bottom: var(--space-3);
   }
 
@@ -180,6 +232,7 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    gap: var(--space-1);
   }
 
   .law-abbr {
@@ -191,6 +244,12 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
   .law-count {
     font-size: 11px;
     color: var(--color-text-muted);
+    text-align: right;
+  }
+
+  .law-count strong {
+    color: var(--color-text);
+    font-weight: 700;
   }
 
   .law-name {
@@ -200,26 +259,55 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
   }
 
   .law-sr {
-    font-size: 10px;
-    color: var(--color-text-faint);
+    font-size: 11px;
+    color: var(--color-text-muted);
     margin-top: 2px;
   }
 
-  /* Uncommented laws: visually muted */
-  .law-cell--pending {
-    opacity: 0.35;
-  }
-
-  .law-cell--pending:hover {
-    opacity: 0.55;
-    background: transparent;
+  /* Laws without commentary yet: visually quieter, still navigable */
+  .law-cell--pending .law-abbr,
+  .law-cell--pending .law-name {
+    color: var(--color-text-muted);
   }
 
   .law-pending {
-    font-size: 10px;
-    font-style: italic;
+    font-size: 11px;
+    letter-spacing: 0.02em;
     color: var(--color-text-muted);
     margin-top: 4px;
+  }
+
+  .layers-section {
+    border-top: 1px solid var(--color-rule);
+  }
+
+  .layers-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-4);
+  }
+
+  .layer {
+    border-top: 1px solid var(--color-rule-light);
+    padding-top: var(--space-2);
+  }
+
+  .layer-num {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--color-text-muted);
+  }
+
+  .layer-title {
+    font-size: 18px;
+    margin: 6px 0 var(--space-1);
+  }
+
+  .layer-desc {
+    font-family: var(--font-body);
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-secondary);
   }
 
   .cantons-section {
@@ -272,23 +360,26 @@ const totalArticles = lawsWithStats.reduce((sum, l) => sum + l.stats.totalArticl
   }
 
   .canton-articles {
-    font-size: 10px;
+    font-size: 11px;
     color: var(--color-text-muted);
     margin-top: 2px;
   }
 
   @media (max-width: 768px) {
+    .hero { padding: var(--space-5) 0 var(--space-4); }
     .hero-grid { grid-template-columns: 1fr; gap: var(--space-4); }
     .hero-title { font-size: 36px; }
-    .hero-stats { max-width: 300px; }
+    .hero-stats { max-width: 360px; }
+    .stat-value { font-size: 32px; }
     .laws-grid { grid-template-columns: 1fr 1fr; }
     .law-cell:nth-child(3n) { border-right: 1px solid var(--color-rule-light); }
     .law-cell:nth-child(2n) { border-right: none; }
+    .layers-grid { grid-template-columns: 1fr; gap: var(--space-2); }
   }
 
   @media (max-width: 480px) {
-    .hero-title { font-size: 28px; }
+    .hero-title { font-size: 30px; }
     .laws-grid { grid-template-columns: 1fr; }
-    .law-cell { border-right: none; }
+    .law-cell { border-right: none !important; }
   }
 </style>

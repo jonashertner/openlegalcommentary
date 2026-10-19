@@ -16,7 +16,7 @@ export interface Props {
 const { lang, items } = Astro.props;
 ---
 
-<nav aria-label="Breadcrumb" class="breadcrumb">
+<nav aria-label={t('a11y.breadcrumb', lang)} class="breadcrumb" data-pagefind-ignore>
   <ol>
     <li><a href={langHome(lang)}>{t('breadcrumb.home', lang)}</a></li>
     {items.map((item, i) => (

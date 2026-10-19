@@ -17,11 +17,20 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 <header class="site-header">
   <div class="beta-bar">
     <div class="page-wrapper">
-      <p class="beta-notice">{t('header.beta_notice', lang)}</p>
+      <p class="beta-notice">
+        <span class="beta-tag">Beta</span>
+        <a href={`${langBase(lang)}/methodology/`}>{t('header.beta_notice', lang)}</a>
+      </p>
     </div>
   </div>
   <div class="header-inner page-wrapper">
-    <a href={langHome(lang)} class="site-name">openlegalcommentary</a>
+    <a href={langHome(lang)} class="site-name" aria-label={`openlegalcommentary — ${t('breadcrumb.home', lang)}`}>
+      <svg class="site-mark" width="22" height="22" viewBox="0 0 32 32" aria-hidden="true">
+        <rect width="32" height="32" fill="currentColor"/>
+        <text x="16" y="23.5" text-anchor="middle" font-family="Inter Variable, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="var(--color-bg)">§</text>
+      </svg>
+      <span>openlegalcommentary</span>
+    </a>
 
     <nav class="nav-main" aria-label={t('header.nav_label', lang)}>
       <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label={t('header.menu_open', lang)}>
@@ -31,10 +40,10 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
       </button>
       <ul id="nav-menu" class="nav-list" role="list">
         <li><a href={langHome(lang)} class:list={[{ active: currentPath === '/' || currentPath === langHome(lang) }]}>{t('nav.laws', lang)}</a></li>
-        <li><a href={`${langBase(lang)}/concepts`} class:list={[{ active: currentPath.includes('/concepts') }]}>{t('nav.concepts', lang)}</a></li>
-        <li><a href={`${langBase(lang)}/about`} class:list={[{ active: currentPath.includes('/about') }]}>{t('nav.about', lang)}</a></li>
-        <li><a href={`${langBase(lang)}/methodology`} class:list={[{ active: currentPath.includes('/methodology') }]}>{t('nav.methodology', lang)}</a></li>
-        <li><a href={`${langBase(lang)}/changelog`} class:list={[{ active: currentPath.includes('/changelog') }]}>{t('nav.changelog', lang)}</a></li>
+        <li><a href={`${langBase(lang)}/concepts/`} class:list={[{ active: currentPath.includes('/concepts') }]}>{t('nav.concepts', lang)}</a></li>
+        <li><a href={`${langBase(lang)}/about/`} class:list={[{ active: currentPath.includes('/about') }]}>{t('nav.about', lang)}</a></li>
+        <li><a href={`${langBase(lang)}/methodology/`} class:list={[{ active: currentPath.includes('/methodology') }]}>{t('nav.methodology', lang)}</a></li>
+        <li><a href={`${langBase(lang)}/changelog/`} class:list={[{ active: currentPath.includes('/changelog') }]}>{t('nav.changelog', lang)}</a></li>
         <li class="nav-lang-item">
           <LanguageSwitcher currentLang={lang} pagePath={pagePath} />
         </li>
@@ -42,15 +51,16 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     </nav>
 
     <div class="header-actions">
-      <button class="search-trigger" aria-label={t('header.search', lang)}>
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <circle cx="11" cy="11" r="8"/>
-          <path d="m21 21-4.35-4.35"/>
+      <button type="button" class="search-trigger" aria-label={t('header.search', lang)}>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="7.5"/>
+          <path d="m20.5 20.5-4.2-4.2"/>
         </svg>
+        <span class="search-trigger-label">{t('header.search', lang)}</span>
         <kbd>⌘K</kbd>
       </button>
 
-      <button class="theme-toggle" aria-label={t('header.theme_toggle', lang)} title={t('header.theme_toggle', lang)}>
+      <button type="button" class="theme-toggle" aria-label={t('header.theme_toggle', lang)} title={t('header.theme_toggle', lang)}>
         <svg class="icon-sun" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
           <circle cx="12" cy="12" r="5"/>
           <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
@@ -80,7 +90,7 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   /* === Beta bar === */
   .beta-bar {
     border-bottom: 1px solid var(--color-rule-light);
-    padding: 6px 0;
+    padding: 5px 0;
   }
 
   .beta-bar > .page-wrapper {
@@ -90,30 +100,66 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   }
 
   .beta-notice {
-    font-size: 11px;
-    font-weight: 700;
-    color: #DC2626;
-    line-height: 1;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 11.5px;
+    line-height: 16px;
+    color: var(--color-text-secondary);
     margin: 0;
     text-align: center;
+    min-width: 0;
+  }
+
+  .beta-notice a {
+    color: inherit;
+    text-decoration: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .beta-notice a:hover {
+    color: var(--color-text);
+    text-decoration: underline;
+  }
+
+  .beta-tag {
+    flex-shrink: 0;
+    font-size: 9.5px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    border: 1px solid currentColor;
+    padding: 0 5px;
+    line-height: 14px;
   }
 
   .header-inner {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 48px;
+    height: 56px;
   }
 
-  /* === Site name as logo === */
+  /* === Wordmark === */
   .site-name {
-    font-size: 14px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 15px;
     font-weight: 700;
-    letter-spacing: -0.01em;
+    letter-spacing: -0.02em;
     color: var(--color-text);
     text-decoration: none;
     white-space: nowrap;
     flex-shrink: 0;
+  }
+
+  .site-mark {
+    flex-shrink: 0;
+    color: var(--color-text);
   }
 
   /* === Nav === */
@@ -133,10 +179,11 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   }
 
   .nav-list a {
-    font-size: 12px;
-    color: var(--color-text-muted);
+    font-size: 13px;
+    font-weight: 450;
+    color: var(--color-text-secondary);
     text-decoration: none;
-    padding: 6px 10px;
+    padding: 6px 11px;
     white-space: nowrap;
     line-height: 1;
   }
@@ -181,14 +228,21 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   .search-trigger {
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 8px;
     background: none;
     border: 1px solid var(--color-border);
     cursor: pointer;
-    padding: 4px 10px;
+    height: 32px;
+    padding: 0 8px 0 10px;
     color: var(--color-text-muted);
-    font-size: 11px;
+    font-size: 12.5px;
     line-height: 1;
+    min-width: 150px;
+  }
+
+  .search-trigger-label {
+    flex: 1;
+    text-align: left;
   }
 
   .search-trigger:hover {
@@ -197,9 +251,10 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
   }
 
   .search-trigger kbd {
-    font-size: 10px;
+    font-family: var(--font-ui);
+    font-size: 10.5px;
     border: 1px solid var(--color-border);
-    padding: 1px 5px;
+    padding: 2px 5px;
     color: var(--color-text-muted);
     line-height: 1;
   }
@@ -209,7 +264,9 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     background: none;
     border: 1px solid var(--color-border);
     cursor: pointer;
-    padding: 4px;
+    width: 32px;
+    height: 32px;
+    padding: 0;
     color: var(--color-text-muted);
     display: flex;
     align-items: center;
@@ -236,7 +293,7 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 
   /* === Mobile mode (applied via JS class .mobile-nav) === */
   :global(.mobile-nav) .site-name {
-    font-size: 12px;
+    gap: 8px;
   }
 
   :global(.mobile-nav) .nav-toggle {
@@ -259,7 +316,10 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
     transform: translateY(-6.5px) rotate(-45deg);
   }
 
-  :global(.mobile-nav) .search-trigger kbd { display: none; }
+  :global(.mobile-nav) .search-trigger kbd,
+  :global(.mobile-nav) .search-trigger-label { display: none; }
+  :global(.mobile-nav) .search-trigger { min-width: 0; padding: 0 12px; }
+  :global(.mobile-nav) .site-name span { font-size: 14px; }
   :global(.mobile-nav) .header-lang-switcher { display: none; }
 
   /* Enlarge touch targets when the header is in compact/mobile mode */
@@ -276,11 +336,11 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
 
   :global(.mobile-nav) .nav-list {
     position: fixed;
-    top: 72px;
+    top: var(--header-h);
     left: 0;
     right: 0;
-    height: calc(100vh - 72px);
-    height: calc(100dvh - 72px);
+    height: calc(100vh - var(--header-h));
+    height: calc(100dvh - var(--header-h));
     background: var(--color-bg);
     flex-direction: column;
     padding: var(--space-4);
@@ -368,6 +428,11 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
       link.addEventListener('click', closeMenu);
     });
 
+    // Show the platform's shortcut in the search button
+    if (!/Mac|iPhone|iPad/.test(navigator.platform || navigator.userAgent)) {
+      header.querySelectorAll('.search-trigger kbd').forEach((k) => { k.textContent = 'Ctrl K'; });
+    }
+
     // --- Theme toggle ---
     const toggle = document.querySelector('.theme-toggle');
     if (toggle) {
@@ -380,7 +445,7 @@ const { lang, pagePath = '/', currentPath = '' } = Astro.props;
         else if (current === 'light') next = 'dark';
         else next = isDarkSystem ? 'light' : 'dark';
         html.setAttribute('data-theme', next);
-        localStorage.setItem('theme', next);
+        try { localStorage.setItem('theme', next); } catch { /* storage blocked */ }
       });
     }
   });

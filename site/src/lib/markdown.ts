@@ -7,7 +7,8 @@ import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import { visit } from 'unist-util-visit';
 import type { Root as HastRoot, Element, Text, ElementContent } from 'hast';
 import { langBase } from './base';
-import type { Lang } from './i18n';
+import { t, type Lang } from './i18n';
+import { LAWS } from './laws';
 
 export interface TocEntry {
   level: number;
@@ -41,7 +42,7 @@ function bgeUrl(vol: string, part: string, page: string): string {
 // Finds <strong>N. X</strong> and wraps in anchor with class
 function rehypeRandziffern() {
   return (tree: HastRoot) => {
-    visit(tree, 'element', (node: Element) => {
+    visit(tree, 'element', (node: Element, index, parent) => {
       if (node.tagName !== 'strong') return;
       // Check if the only child is a text node matching N. X
       if (node.children.length !== 1 || node.children[0].type !== 'text') return;
@@ -68,6 +69,16 @@ function rehypeRandziffern() {
           children: [{ type: 'text', value: label }],
         },
       ];
+      // A paragraph that opens with its Randziffer gets class "rz" so the
+      // number can hang in the margin.
+      const p = parent as Element | undefined;
+      if (p?.type === 'element' && p.tagName === 'p' && index !== undefined) {
+        const before = p.children.slice(0, index);
+        if (before.every((c) => c.type === 'text' && !c.value.trim())) {
+          const cls = p.properties?.className;
+          p.properties = { ...p.properties, className: [...(Array.isArray(cls) ? cls : []), 'rz'] };
+        }
+      }
     });
   };
 }
@@ -125,13 +136,36 @@ function rehypeBgeCitations() {
 }
 
 // ── rehype plugin: link cross-references ──────────────────────────
-function rehypeCrossReferences(lang: string) {
-  const XREF_RE = /([→↔])\s*Art\.\s*(\d+)([a-z]*)\s+(BV|ZGB|OR|ZPO|StGB|StPO|SchKG|VwVG)/g;
+// Links "→ Art. 8 Abs. 2 BV" (and the French/Italian/English forms such as
+// "→ art. 8 al. 2 Cst.") to the article page. Plain mentions without an arrow
+// ("Art. 29 Abs. 2 BV") are linked too, except references to the page itself.
+const ABBR_TO_SLUG: Record<string, string> = {};
+for (const law of LAWS) {
+  ABBR_TO_SLUG[law.abbr] = law.slug;
+  for (const a of Object.values(law.abbrI18n || {})) ABBR_TO_SLUG[a!] = law.slug;
+}
+const ABBR_ALT = Object.keys(ABBR_TO_SLUG)
+  .sort((a, b) => b.length - a.length)
+  .map((a) => a.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+  .join('|');
+// Paragraph/letter/number qualifiers between the article number and the act.
+const QUALIFIER = String.raw`(?:\s+(?:Abs\.|al\.|cpv\.|para\.|lit\.|let\.|Ziff\.|ch\.|n\.|Satz|S\.|phrase|frase|sentence)\s*[0-9a-z]+(?:bis|ter|quater)?)*`;
+const XREF_RE = new RegExp(
+  String.raw`([→↔]\s*)?\b([Aa]rt\.)\s*(\d+)([a-z]*)(` + QUALIFIER + String.raw`)\s+(` + ABBR_ALT + String.raw`)(?![\p{L}\d])`,
+  'gu',
+);
 
+export interface SelfRef {
+  law: string;
+  article: string;
+}
+
+function rehypeCrossReferences(lang: string, self?: SelfRef) {
   return () => (tree: HastRoot) => {
     visit(tree, 'text', (node: Text, index, parent) => {
       if (!parent || index === undefined) return;
-      if ((parent as Element).tagName === 'a') return;
+      const tag = (parent as Element).tagName;
+      if (tag === 'a' || /^h[1-6]$/.test(tag)) return;
 
       const text = node.value;
       XREF_RE.lastIndex = 0;
@@ -142,31 +176,99 @@ function rehypeCrossReferences(lang: string) {
       let lastIndex = 0;
       let match;
       while ((match = XREF_RE.exec(text)) !== null) {
+        const [fullMatch, arrow, , num, suffix, , abbr] = match;
+        const slug = ABBR_TO_SLUG[abbr];
+        const artSlug = `art-${parseInt(num, 10)}${suffix}`;
+        if (!slug || (self && self.law === slug && self.article === artSlug)) continue;
         if (match.index > lastIndex) {
           parts.push({ type: 'text', value: text.slice(lastIndex, match.index) });
         }
-        const fullMatch = match[0];
-        const [, , num, suffix, law] = match;
-        const base = langBase(lang as Lang);
-        const href = `${base}/${law.toLowerCase()}/art-${parseInt(num)}${suffix}`;
         const linkNode: Element = {
           type: 'element',
           tagName: 'a',
           properties: {
-            href,
-            className: ['cite-cross'],
+            href: `${langBase(lang as Lang)}/${slug}/${artSlug}/`,
+            className: [arrow ? 'cite-cross' : 'cite-art'],
           },
           children: [{ type: 'text', value: fullMatch }],
         };
         parts.push(linkNode);
         lastIndex = match.index + fullMatch.length;
       }
+      if (parts.length === 0) return;
       if (lastIndex < text.length) {
         parts.push({ type: 'text', value: text.slice(lastIndex) });
       }
 
       (parent as Element).children.splice(index, 1, ...parts);
       return index + parts.length;
+    });
+  };
+}
+
+// ── rehype plugin: repair repository-relative links ───────────────
+// Concept pages were authored with links to sibling markdown files
+// ("../provisions/bgfa-art-13.md"). Map those to site URLs and unwrap
+// links to page types the site does not publish.
+function rehypeRepoLinks(lang: string) {
+  return () => (tree: HastRoot) => {
+    visit(tree, 'element', (node: Element, index, parent) => {
+      if (node.tagName !== 'a' || !parent || index === undefined) return;
+      const href = String(node.properties?.href || '');
+      if (/^(https?:|mailto:|#)/.test(href) || !/\.md(#|$)/.test(href)) return;
+      const prov = href.match(/provisions\/([a-z]+)-art-(\d+[a-z]*)\.md(#.*)?$/);
+      if (prov) {
+        node.properties = { ...node.properties, href: `${langBase(lang as Lang)}/${prov[1]}/art-${prov[2]}/` };
+        return;
+      }
+      const concept = href.match(/concepts\/([a-z0-9-]+)\.md/);
+      if (concept) {
+        node.properties = { ...node.properties, href: `${langBase(lang as Lang)}/concepts/${concept[1]}/` };
+        return;
+      }
+      (parent as Element).children.splice(index, 1, ...node.children);
+      return index;
+    });
+  };
+}
+
+// ── rehype plugin: normalise heading levels ───────────────────────
+// Layer files differ in how they start ("# Art. 8 BV — …" + "## Doktrin",
+// "# Doktrin", or straight into sections). The page already names the article
+// and the tab names the layer, so drop that preamble and shift the remaining
+// headings so the top level is always <h2>.
+const LAYER_HEADINGS = new Set([
+  'übersicht', 'uebersicht', 'aperçu', 'panoramica', 'overview', 'summary',
+  'doktrin', 'doctrine', 'dottrina',
+  'rechtsprechung', 'jurisprudence', 'giurisprudenza', 'case law',
+]);
+
+function rehypeNormalizeHeadings() {
+  return (tree: HastRoot) => {
+    const isHeading = (n: ElementContent | HastRoot['children'][number]) =>
+      n.type === 'element' && /^h[1-6]$/.test((n as Element).tagName);
+    // Strip leading title/layer headings (only before any body content).
+    while (tree.children.length > 0) {
+      const first = tree.children.find((n) => !(n.type === 'text' && !n.value.trim()));
+      if (!first || !isHeading(first)) break;
+      const el = first as Element;
+      const text = getTextContent(el).trim().toLowerCase();
+      if (el.tagName === 'h1' || LAYER_HEADINGS.has(text)) {
+        tree.children.splice(tree.children.indexOf(first), 1);
+        continue;
+      }
+      break;
+    }
+    let min = 7;
+    visit(tree, 'element', (node: Element) => {
+      const m = node.tagName.match(/^h([1-6])$/);
+      if (m) min = Math.min(min, parseInt(m[1], 10));
+    });
+    if (min === 7 || min === 2) return;
+    const shift = 2 - min;
+    visit(tree, 'element', (node: Element) => {
+      const m = node.tagName.match(/^h([1-6])$/);
+      if (m) node.tagName = `h${Math.min(6, parseInt(m[1], 10) + shift)}`;
     });
   };
 }
@@ -187,6 +289,8 @@ function rehypeCustomSlug() {
 function getTextContent(node: Element | Text | ElementContent): string {
   if (node.type === 'text') return node.value;
   if (node.type === 'element') {
+    const cls = node.properties?.className;
+    if (Array.isArray(cls) && cls.includes('heading-anchor')) return '';
     return node.children.map(getTextContent).join('');
   }
   return '';
@@ -211,11 +315,12 @@ function extractTocFromHast(tree: HastRoot): TocEntry[] {
 // ── Main render function ──────────────────────────────────────────
 export function renderMarkdown(
   md: string,
-  lang: string
+  lang: string,
+  self?: SelfRef,
 ): { html: string; toc: TocEntry[] } {
   if (!md.trim()) {
     return {
-      html: '<p class="text-muted">Noch kein Inhalt verfügbar.</p>',
+      html: `<p class="text-muted">${t('article.layer_empty', lang as Lang)}</p>`,
       toc: [],
     };
   }
@@ -225,6 +330,7 @@ export function renderMarkdown(
   const processor = unified()
     .use(remarkParse)
     .use(remarkRehype)
+    .use(rehypeNormalizeHeadings)
     // Custom slug must run before rehype-slug to set IDs first
     .use(rehypeCustomSlug)
     // rehype-slug will not overwrite existing IDs
@@ -243,7 +349,8 @@ export function renderMarkdown(
     })
     .use(rehypeRandziffern)
     .use(rehypeBgeCitations)
-    .use(rehypeCrossReferences(lang))
+    .use(rehypeRepoLinks(lang))
+    .use(rehypeCrossReferences(lang, self))
     // Extract TOC before stringifying
     .use(() => (tree: HastRoot) => {
       toc = extractTocFromHast(tree);

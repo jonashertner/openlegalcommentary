@@ -6,6 +6,8 @@ export interface LawInfo {
   slug: string;
   canton?: string;
   language?: string;
+  /** Official abbreviation per language where it differs from `abbr` (Fedlex usage). */
+  abbrI18n?: Partial<Record<Lang, string>>;
   name: Record<Lang, string>;
   description: Record<Lang, string>;
 }
@@ -13,6 +15,7 @@ export interface LawInfo {
 export const LAWS: LawInfo[] = [
   {
     abbr: 'BV',
+    abbrI18n: { fr: 'Cst.', it: 'Cost.', en: 'FC' },
     sr: '101',
     slug: 'bv',
     name: {
@@ -30,6 +33,7 @@ export const LAWS: LawInfo[] = [
   },
   {
     abbr: 'ZGB',
+    abbrI18n: { fr: 'CC', it: 'CC', en: 'CC' },
     sr: '210',
     slug: 'zgb',
     name: {
@@ -47,6 +51,7 @@ export const LAWS: LawInfo[] = [
   },
   {
     abbr: 'OR',
+    abbrI18n: { fr: 'CO', it: 'CO', en: 'CO' },
     sr: '220',
     slug: 'or',
     name: {
@@ -64,6 +69,7 @@ export const LAWS: LawInfo[] = [
   },
   {
     abbr: 'ZPO',
+    abbrI18n: { fr: 'CPC', it: 'CPC', en: 'CPC' },
     sr: '272',
     slug: 'zpo',
     name: {
@@ -81,6 +87,7 @@ export const LAWS: LawInfo[] = [
   },
   {
     abbr: 'StGB',
+    abbrI18n: { fr: 'CP', it: 'CP', en: 'SCC' },
     sr: '311.0',
     slug: 'stgb',
     name: {
@@ -98,6 +105,7 @@ export const LAWS: LawInfo[] = [
   },
   {
     abbr: 'StPO',
+    abbrI18n: { fr: 'CPP', it: 'CPP', en: 'CrimPC' },
     sr: '312.0',
     slug: 'stpo',
     name: {
@@ -115,13 +123,14 @@ export const LAWS: LawInfo[] = [
   },
   {
     abbr: 'SchKG',
+    abbrI18n: { fr: 'LP', it: 'LEF', en: 'DEBA' },
     sr: '281.1',
     slug: 'schkg',
     name: {
-      de: 'SchKG',
-      fr: 'LP',
-      it: 'LEF',
-      en: 'DCBA',
+      de: 'Bundesgesetz über Schuldbetreibung und Konkurs',
+      fr: 'Loi fédérale sur la poursuite pour dettes et la faillite',
+      it: 'Legge federale sulla esecuzione e sul fallimento',
+      en: 'Debt Enforcement and Bankruptcy Act',
     },
     description: {
       de: 'Betreibung, Konkurs, Pfändung, Nachlass',
@@ -132,13 +141,14 @@ export const LAWS: LawInfo[] = [
   },
   {
     abbr: 'VwVG',
+    abbrI18n: { fr: 'PA', it: 'PA', en: 'APA' },
     sr: '172.021',
     slug: 'vwvg',
     name: {
-      de: 'VwVG',
-      fr: 'PA',
-      it: 'PA',
-      en: 'APA',
+      de: 'Verwaltungsverfahrensgesetz',
+      fr: 'Loi fédérale sur la procédure administrative',
+      it: 'Legge federale sulla procedura amministrativa',
+      en: 'Administrative Procedure Act',
     },
     description: {
       de: 'Verwaltungsverfahren, Verfügungen, Rechtsmittel',
@@ -149,6 +159,7 @@ export const LAWS: LawInfo[] = [
   },
   {
     abbr: 'BGFA',
+    abbrI18n: { fr: 'LLCA', it: 'LLCA' },
     sr: '935.61',
     slug: 'bgfa',
     name: {
@@ -169,7 +180,7 @@ export const LAWS: LawInfo[] = [
 export const CANTONAL_LAWS: LawInfo[] = [
   {
     abbr: 'KV ZH',
-    sr: '101',
+    sr: '',
     slug: 'zh-kv',
     canton: 'ZH',
     language: 'de',
@@ -667,6 +678,11 @@ export const ALL_LAWS: LawInfo[] = [...LAWS, ...CANTONAL_LAWS];
 
 export function getLawByAbbr(abbr: string): LawInfo | undefined {
   return ALL_LAWS.find(l => l.abbr.toLowerCase() === abbr.toLowerCase() || l.slug === abbr.toLowerCase());
+}
+
+/** The abbreviation readers expect in the given language (e.g. "Cst." for the BV in French). */
+export function lawAbbr(law: LawInfo, lang: Lang): string {
+  return law.abbrI18n?.[lang] ?? law.abbr;
 }
 
 export function getLawAbbrList(): string[] {

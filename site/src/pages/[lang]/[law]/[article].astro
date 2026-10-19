@@ -2,13 +2,13 @@
 // site/src/pages/[lang]/[law]/[article].astro
 import { LANGS, type Lang, t } from '@/lib/i18n';
 import { langBase, langHome } from '@/lib/base';
-import { renderMarkdown, type TocEntry } from '@/lib/markdown';
+import { renderMarkdown } from '@/lib/markdown';
 import Base from '../../../layouts/Base.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
 import ArticleTabs from '../../../components/ArticleTabs.astro';
 import ArticlePagination from '../../../components/ArticlePagination.astro';
 import Gesetzestext from '../../../components/Gesetzestext.astro';
-import { LAWS, getLawByAbbr } from '../../../lib/laws';
+import { LAWS, getLawByAbbr, lawAbbr } from '../../../lib/laws';
 import { listArticleDirs, listArticles, loadArticle, slugToDirName, getArticleNav, getArticleText, getTranslatedTitle, getCrossReferences, listCantonalLawSlugs } from '../../../lib/content';
 
 export function getStaticPaths() {
@@ -37,18 +37,20 @@ const lawInfo = getLawByAbbr(lawParam!);
 if (!lawInfo) return Astro.redirect(langHome(lang));
 
 const lawKey = lawInfo.slug;
+const abbr = lawAbbr(lawInfo, lang);
 const dirName = slugToDirName(articleSlug!);
 const articleData = loadArticle(lawKey, dirName, lang);
 
 // Build meta from article_lists.json fallback if no content dir
 const allArticles = listArticles(lawKey);
 const articleEntry = allArticles.find((a) => a.slug === articleSlug);
-if (!articleData && !articleEntry) return Astro.redirect(`${langBase(lang)}/${lawParam}`);
+if (!articleData && !articleEntry) return Astro.redirect(`${langBase(lang)}/${lawParam}/`);
 
 const meta = articleData?.meta || articleEntry!.meta;
 const summary = articleData?.summary || '';
 const doctrine = articleData?.doctrine || '';
 const caselaw = articleData?.caselaw || '';
+const hasCommentary = !!(summary || doctrine || caselaw);
 const crossRefs = getCrossReferences(lawKey, dirName);
 const rawNav = getArticleNav(lawKey, dirName);
 // Translate prev/next titles
@@ -67,141 +69,178 @@ if (gesetzestextParagraphs.length === 0 && lang !== 'de') {
 // Translate article title if available
 const translatedTitle = getTranslatedTitle(lawInfo.abbr, articleRaw, lang, meta.title);
 
-const { html: summaryHtml } = renderMarkdown(summary, lang);
-const { html: doctrineHtml, toc: doctrineToc } = renderMarkdown(doctrine, lang);
-const { html: caselawHtml, toc: caselawToc } = renderMarkdown(caselaw, lang);
+const self = { law: lawKey, article: articleSlug! };
+const { html: summaryHtml } = renderMarkdown(summary, lang, self);
+const { html: doctrineHtml, toc: doctrineToc } = renderMarkdown(doctrine, lang, self);
+const { html: caselawHtml, toc: caselawToc } = renderMarkdown(caselaw, lang, self);
 
 const isPreamble = meta.article === 0;
 const articleDisplay = isPreamble
-  ? `${translatedTitle} ${lawInfo.abbr}`
-  : `Art. ${meta.article}${meta.article_suffix || ''} ${lawInfo.abbr}`;
-
-const layerParam = Astro.url.searchParams.get('layer') || 'summary';
-const activeTab = ['summary', 'doctrine', 'caselaw'].includes(layerParam) ? layerParam : 'summary';
+  ? `${translatedTitle} ${abbr}`
+  : `Art. ${meta.article}${meta.article_suffix || ''} ${abbr}`;
+const pageTitle = isPreamble ? articleDisplay : `${articleDisplay} — ${translatedTitle}`;
+const pagePath = `/${lawParam}/${articleSlug}/`;
+const canonicalUrl = `https://openlegalcommentary.ch${langBase(lang)}${pagePath}`;
 
 const layerMeta = meta.layers || {};
-const lastUpdated = Object.values(layerMeta)
+const generatedDates = Object.values(layerMeta)
   .map((l: any) => l.last_generated)
   .filter(Boolean)
-  .sort()
-  .pop();
+  .sort();
+const lastUpdated: string | undefined = generatedDates[generatedDates.length - 1];
+
+const dateLocale: Record<Lang, string> = { de: 'de-CH', fr: 'fr-CH', it: 'it-CH', en: 'en-GB' };
+function formatDate(iso: string): string {
+  const d = new Date(`${iso}T00:00:00Z`);
+  if (Number.isNaN(d.getTime())) return iso;
+  return d.toLocaleDateString(dateLocale[lang], { day: 'numeric', month: lang === 'en' ? 'long' : 'numeric', year: 'numeric', timeZone: 'UTC' });
+}
+
+const citationLead = `Open Legal Commentary, ${articleDisplay}${lastUpdated ? ` (${t('article.cite_status', lang)} ${formatDate(lastUpdated)})` : ''},`;
+// Allow the URL to wrap after "/" instead of mid-word
+const urlParts = canonicalUrl.replace(/^https:\/\//, '').split('/');
 
 // Generate per-article meta description from summary first sentence
-const summaryPlain = summary.replace(/[#*>\[\]()]/g, '').replace(/\n+/g, ' ').trim();
+const summaryPlain = (summary || doctrine).replace(/^#.*$/gm, '').replace(/[#*>\[\]()]/g, '').replace(/\n+/g, ' ').trim();
 const firstSentence = summaryPlain.match(/^.{50,200}?[.!?]\s/)?.[0]?.trim() || summaryPlain.slice(0, 160);
-const metaDescription = firstSentence || `${t('footer.commentary', lang)}: ${articleDisplay} — ${translatedTitle}`;
+const metaDescription = firstSentence || `${pageTitle}. ${t('article.pending_title', lang)}.`;
 
 const conceptRefs = crossRefs.filter(r => r.type === 'concept');
-const showFallbackNotice = lang !== 'de' && articleData?.isFallback;
+const fallback = new Set(articleData?.fallbackLayers || []);
+const layerTabs = [
+  { id: 'summary', html: summaryHtml, available: !!summary, fallback: fallback.has('summary') },
+  { id: 'doctrine', html: doctrineHtml, available: !!doctrine, fallback: fallback.has('doctrine') },
+  { id: 'caselaw', html: caselawHtml, available: !!caselaw, fallback: fallback.has('caselaw') },
+] as const;
 ---
 
-<Base title={`${articleDisplay} — ${translatedTitle}`} lang={lang} pagePath={`/${lawParam}/${articleSlug}`} description={metaDescription}>
-  <meta name="citation_title" content={`${articleDisplay} — ${translatedTitle}`} />
-  <meta name="citation_author" content="Open Legal Commentary" />
-  <meta name="citation_publication_date" content={(lastUpdated || '').replace(/-/g, '/')} />
-  <meta name="citation_journal_title" content="Open Legal Commentary" />
-  <meta name="citation_volume" content={lawInfo.abbr} />
-  <meta name="citation_language" content={lang} />
-  <meta name="citation_fulltext_html_url" content={`https://openlegalcommentary.ch${langBase(lang)}/${lawParam}/${articleSlug}`} />
-  <script type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "ScholarlyArticle",
-    "headline": `${articleDisplay} — ${translatedTitle}`,
-    "description": metaDescription,
-    "inLanguage": lang,
-    "isPartOf": {
-      "@type": "WebSite",
-      "name": "Open Legal Commentary",
-      "url": "https://openlegalcommentary.ch"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Open Legal Commentary",
-      "url": "https://openlegalcommentary.ch"
-    },
-    "author": {
-      "@type": "Organization",
-      "name": "Open Legal Commentary"
-    },
-    "about": {
-      "@type": "Legislation",
-      "name": lawInfo.name[lang],
-      "legislationIdentifier": `SR ${meta.sr_number} Art. ${meta.article}${meta.article_suffix || ''}`,
-      "jurisdiction": {
-        "@type": "AdministrativeArea",
-        "name": "Switzerland"
-      }
-    },
-    "datePublished": Object.values(layerMeta).map((l: any) => l.last_generated).filter(Boolean).sort()[0] || undefined,
-    "dateModified": lastUpdated || undefined,
-    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "keywords": `Swiss law, ${lawInfo.name[lang]}, Art. ${meta.article}${meta.article_suffix || ''}, legal commentary`
-  })} />
+<Base title={pageTitle} lang={lang} pagePath={pagePath} description={metaDescription} noindex={!hasCommentary}>
+  <Fragment slot="head">
+    <meta name="citation_title" content={pageTitle} />
+    <meta name="citation_author" content="Open Legal Commentary" />
+    {lastUpdated && <meta name="citation_publication_date" content={lastUpdated.replace(/-/g, '/')} />}
+    <meta name="citation_journal_title" content="Open Legal Commentary" />
+    <meta name="citation_volume" content={abbr} />
+    <meta name="citation_language" content={lang} />
+    <meta name="citation_fulltext_html_url" content={canonicalUrl} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": pageTitle,
+      "description": metaDescription,
+      "inLanguage": lang,
+      "url": canonicalUrl,
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Open Legal Commentary",
+        "url": "https://openlegalcommentary.ch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Legal Commentary",
+        "url": "https://openlegalcommentary.ch"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Open Legal Commentary"
+      },
+      "about": {
+        "@type": "Legislation",
+        "name": lawInfo.name[lang],
+        "legislationIdentifier": `${lawInfo.canton ? '' : 'SR '}${meta.sr_number} Art. ${articleRaw}`.trim(),
+        "jurisdiction": {
+          "@type": "AdministrativeArea",
+          "name": lawInfo.canton ? `Kanton ${lawInfo.canton}` : "Switzerland"
+        }
+      },
+      "datePublished": generatedDates[0] || undefined,
+      "dateModified": lastUpdated || undefined,
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "keywords": `Swiss law, ${lawInfo.name[lang]}, ${articleDisplay}, legal commentary`
+    })} />
+  </Fragment>
+
   <Breadcrumb
     lang={lang}
     items={[
-      { label: lawInfo.abbr, href: `${langBase(lang)}/${lawParam}` },
+      { label: lawInfo.canton ? lawInfo.abbr : abbr, href: `${langBase(lang)}/${lawParam}/` },
       { label: articleDisplay },
     ]}
   />
 
-  <div class="page-grid" data-pagefind-body data-pagefind-filter={`language:${lang}`} data-pagefind-meta={`law:${lawParam!.toUpperCase()}, article:${meta.article}${meta.article_suffix || ''}`}>
+  <div
+    class="page-grid"
+    data-pagefind-body={hasCommentary ? '' : undefined}
+    data-pagefind-filter={`language:${lang}`}
+    data-pagefind-meta={`law:${lawInfo.canton ? lawInfo.abbr : abbr}, article:${articleRaw}`}
+  >
     <aside class="left-col">
-      <div class="label">Artikel</div>
-      <div class="article-number">{meta.article}{meta.article_suffix || ''}</div>
-      <div class="article-title-side">{translatedTitle}</div>
+      <span hidden data-pagefind-meta="title[data-title]" data-title={pageTitle}></span>
+      <h1 class="article-heading">
+        <span class="label" aria-hidden="true">{t('article.label', lang)}</span>
+        <span class="sr-only">{isPreamble ? '' : 'Art. '}</span>
+        {!isPreamble && <span class="article-number">{articleRaw}</span>}
+        <span class="sr-only"> {abbr} — </span>
+        <span class="article-title-side">{translatedTitle}</span>
+      </h1>
 
-      <div class="meta-divider"></div>
+      <div class="article-meta" data-pagefind-ignore>
+        <div class="meta-divider"></div>
 
-      {lawInfo.canton ? (
-        <>
-          <div class="label">Kanton</div>
-          <div class="meta-value">{lawInfo.canton}</div>
-          <div class="meta-sub">{lawInfo.sr}</div>
-        </>
-      ) : (
-        <>
-          <div class="label">Gesetz</div>
-          <div class="meta-value">{lawInfo.abbr.toUpperCase()}</div>
-          <div class="meta-sub">SR {meta.sr_number}</div>
-        </>
-      )}
+        {lawInfo.canton ? (
+          <>
+            <div class="label">{t('article.canton', lang)}</div>
+            <div class="meta-value">{lawInfo.name[lang]}</div>
+            {meta.sr_number && <div class="meta-sub">{t('law.cantonal_collection', lang)} {meta.sr_number}</div>}
+          </>
+        ) : (
+          <>
+            <div class="label">{t('article.law', lang)}</div>
+            <div class="meta-value"><a href={`${langBase(lang)}/${lawParam}/`}>{abbr}</a> · {lawInfo.name[lang]}</div>
+            <div class="meta-sub">SR {meta.sr_number}</div>
+          </>
+        )}
 
-      {lastUpdated && (
-        <>
-          <div class="meta-divider"></div>
-          <div class="label">{t('article.last_updated', lang)}</div>
-          <div class="meta-value">{lastUpdated}</div>
-        </>
-      )}
+        {lastUpdated && (
+          <>
+            <div class="meta-divider"></div>
+            <div class="label">{t('article.last_updated', lang)}</div>
+            <div class="meta-value"><time datetime={lastUpdated}>{formatDate(lastUpdated)}</time></div>
+          </>
+        )}
 
-      {crossRefs.length > 0 && (
-        <>
-          <div class="meta-divider"></div>
-          <div class="label">{t('crossref.title', lang)}</div>
-          <div class="cross-refs">
-            {conceptRefs.map(ref => (
-              <a href={`${langBase(lang)}/concepts/${ref.slug}`}>&rarr; {ref.title}</a>
-            ))}
-          </div>
-        </>
-      )}
+        {conceptRefs.length > 0 && (
+          <>
+            <div class="meta-divider"></div>
+            <div class="label">{t('crossref.title', lang)}</div>
+            <div class="cross-refs">
+              {conceptRefs.map(ref => (
+                <a href={`${langBase(lang)}/concepts/${ref.slug}/`}>&rarr; {ref.title}</a>
+              ))}
+            </div>
+          </>
+        )}
 
-      {meta.fedlex_url && (
-        <>
-          <div class="meta-divider"></div>
-          <div class="label">Fedlex</div>
-          <a href={meta.fedlex_url} class="meta-link" target="_blank" rel="noopener">Originaltext &rarr;</a>
-        </>
-      )}
+        {meta.fedlex_url && (
+          <>
+            <div class="meta-divider"></div>
+            <div class="label">Fedlex</div>
+            <a href={meta.fedlex_url.replace(/\/(de|fr|it|en)(#|$)/, `/${lang}$2`)} class="meta-link" target="_blank" rel="noopener">{t('article.official_text', lang)} &nearr;</a>
+          </>
+        )}
+
+        {hasCommentary && (
+          <>
+            <div class="meta-divider"></div>
+            <div class="label">{t('article.cite_as', lang)}</div>
+            <p class="cite-text" id="cite-text">{citationLead} <span class="cite-url">https://{urlParts.map((part, i) => <>{i > 0 && <>/<wbr /></>}{part}</>)}</span></p>
+            <button type="button" class="cite-copy" data-copied={t('article.cite_copied', lang)}>{t('article.cite_copy', lang)}</button>
+          </>
+        )}
+      </div>
     </aside>
 
     <div class="right-col">
-      {showFallbackNotice && (
-        <div class="fallback-notice">
-          {t('article.fallback_notice', lang)}
-        </div>
-      )}
       <Gesetzestext
         paragraphs={gesetzestextParagraphs}
         lang={lang}
@@ -209,34 +248,54 @@ const showFallbackNotice = lang !== 'de' && articleData?.isFallback;
         fedlexUrl={meta.fedlex_url}
       />
 
-      <ArticleTabs
-        lang={lang}
-        summary={summaryHtml}
-        doctrine={doctrineHtml}
-        caselaw={caselawHtml}
-        activeTab={activeTab}
-        doctrineToc={doctrineToc}
-        caselawToc={caselawToc}
-      />
+      {hasCommentary ? (
+        <ArticleTabs
+          lang={lang}
+          layers={layerTabs}
+          doctrineToc={doctrineToc}
+          caselawToc={caselawToc}
+        />
+      ) : (
+        <section class="pending-notice" data-pagefind-ignore>
+          <div class="label">{t('article.pending_title', lang)}</div>
+          <p>{t('article.pending_body', lang)}</p>
+          {!lawInfo.canton && lawKey !== 'bv' && (
+            <a href={`${langBase(lang)}/bv/`}>{t('article.pending_cta', lang)} &rarr;</a>
+          )}
+        </section>
+      )}
 
-      <ArticlePagination
-        lang={lang}
-        law={lawParam!}
-        prev={nav.prev}
-        next={nav.next}
-      />
+      <div data-pagefind-ignore>
+        <ArticlePagination
+          lang={lang}
+          law={lawParam!}
+          prev={nav.prev}
+          next={nav.next}
+        />
+      </div>
     </div>
   </div>
 </Base>
 
 <style>
-  .fallback-notice {
-    font-size: 12px;
-    color: var(--color-text-muted);
-    border: 1px solid var(--color-rule);
-    padding: 8px 12px;
-    margin-bottom: var(--space-3);
-    line-height: 1.5;
+  /* A wider gutter left of the reading column holds the hanging Randziffern. */
+  @media (min-width: 900px) {
+    .right-col {
+      padding-left: 88px;
+    }
+  }
+
+  @media (min-width: 900px) and (max-width: 1100px) {
+    .right-col {
+      padding-left: 72px;
+    }
+  }
+
+  .article-heading {
+    display: flex;
+    flex-direction: column;
+    font-weight: inherit;
+    letter-spacing: normal;
   }
 
   .article-number {
@@ -244,12 +303,15 @@ const showFallbackNotice = lang !== 'de' && articleData?.isFallback;
     font-weight: 700;
     letter-spacing: -0.04em;
     line-height: 1;
+    margin-top: 4px;
   }
 
   .article-title-side {
-    font-size: 13px;
-    margin-top: 8px;
-    line-height: 1.4;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+    line-height: 1.35;
+    letter-spacing: -0.005em;
   }
 
   .meta-divider {
@@ -260,15 +322,22 @@ const showFallbackNotice = lang !== 'de' && articleData?.isFallback;
 
   .meta-value {
     font-size: 12px;
+    line-height: 1.45;
+  }
+
+  .meta-value a {
+    font-weight: 600;
+    text-decoration: none;
   }
 
   .meta-sub {
     font-size: 11px;
     color: var(--color-text-muted);
+    margin-top: 2px;
   }
 
   .meta-link {
-    font-size: 11px;
+    font-size: 12px;
     color: var(--color-text-secondary);
   }
 
@@ -286,4 +355,111 @@ const showFallbackNotice = lang !== 'de' && articleData?.isFallback;
   .cross-refs a:hover {
     color: var(--color-text);
   }
+
+  .cite-text {
+    font-family: var(--font-body);
+    font-size: 12px;
+    line-height: 1.5;
+    color: var(--color-text-secondary);
+    margin-top: 4px;
+    hyphens: manual;
+  }
+
+  .cite-url {
+    font-family: var(--font-ui);
+    font-size: 11px;
+    overflow-wrap: anywhere;
+  }
+
+  .cite-copy {
+    margin-top: 8px;
+    font-family: var(--font-ui);
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    padding: 4px 10px;
+    background: none;
+    color: var(--color-text-secondary);
+    border: 1px solid var(--color-border);
+    cursor: pointer;
+  }
+
+  .cite-copy:hover {
+    color: var(--color-text);
+    border-color: var(--color-text);
+  }
+
+  .pending-notice {
+    border-top: 2px solid var(--color-rule);
+    padding: var(--space-3) 0 var(--space-2);
+    max-width: var(--content-width);
+  }
+
+  .pending-notice p {
+    font-family: var(--font-body);
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--color-text-secondary);
+    margin: var(--space-1) 0 var(--space-2);
+  }
+
+  .pending-notice a {
+    font-size: 13px;
+    font-weight: 600;
+  }
+
+  /* Mobile: heading first, then statute + commentary, metadata last. */
+  @media (max-width: 768px) {
+    .left-col {
+      display: contents;
+    }
+    .right-col {
+      order: 1;
+    }
+    .article-meta {
+      order: 2;
+      border-top: 1px solid var(--color-rule);
+      padding: var(--space-1) 0 var(--space-3);
+    }
+    .article-heading {
+      order: 0;
+      padding: var(--space-3) 0 var(--space-2);
+      border-bottom: 1px solid var(--color-rule-light);
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 0 12px;
+    }
+    .article-heading .label {
+      width: 100%;
+    }
+    .article-number {
+      font-size: 36px;
+    }
+    .article-title-side {
+      margin-top: 0;
+      font-size: 16px;
+    }
+  }
 </style>
+
+<script>
+  document.addEventListener('astro:page-load', () => {
+    const btn = document.querySelector<HTMLButtonElement>('.cite-copy');
+    const text = document.getElementById('cite-text');
+    if (!btn || !text) return;
+    const label = btn.textContent;
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(text.textContent || '');
+        btn.textContent = btn.dataset.copied || label;
+        setTimeout(() => { btn.textContent = label; }, 1600);
+      } catch {
+        const range = document.createRange();
+        range.selectNodeContents(text);
+        const sel = window.getSelection();
+        sel?.removeAllRanges();
+        sel?.addRange(range);
+      }
+    });
+  });
+</script>

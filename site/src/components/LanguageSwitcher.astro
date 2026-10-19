@@ -22,7 +22,9 @@ const labels: Record<Lang, string> = {
   {LANGS.map((lang) => (
     <a
       class:list={['lang-btn', { active: lang === currentLang }]}
-      href={`${langBase(lang)}${pagePath}`}
+      href={`${langBase(lang)}${pagePath.endsWith('/') ? pagePath : `${pagePath}/`}`}
+      hreflang={lang}
+      lang={lang}
       data-lang-link={lang}
       aria-current={lang === currentLang ? 'page' : undefined}
     >
@@ -41,7 +43,7 @@ const labels: Record<Lang, string> = {
 
   .lang-btn {
     font-family: var(--font-ui);
-    font-size: var(--text-xs);
+    font-size: 12px;
     font-weight: 500;
     padding: 4px 10px;
     border: none;

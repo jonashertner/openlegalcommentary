@@ -8,11 +8,14 @@ export function getStaticPaths() {
   return LANGS.map(lang => ({ params: { lang } }));
 }
 const { lang } = Astro.params as { lang: Lang };
+
+// Named supporters (with their consent). The section stays hidden until there is one.
+const supporters: string[] = [];
 ---
 
-<Base title={t('support.title', lang)} lang={lang} pagePath="/support" description={t('support.meta', lang)}>
+<Base title={t('support.title', lang)} lang={lang} pagePath="/support/" description={t('support.meta', lang)}>
   <article class="support-page">
-    <div class="page-wrapper">
+    <div class="support-inner">
 
       <!-- Hero -->
       <section class="support-hero">
@@ -106,7 +109,7 @@ Do not restate a holding across two different N.s.
         <h2>{t('support.example_title', lang)}</h2>
         <p>{t('support.example_intro', lang)}</p>
         <div class="example-link">
-          <a href={`${langBase(lang)}/bv/art-8?layer=doctrine`}>
+          <a href={`${langBase(lang)}/bv/art-8/?layer=doctrine`}>
             {t('support.example_cta', lang)} &rarr;
           </a>
         </div>
@@ -179,11 +182,16 @@ Do not restate a holding across two different N.s.
       </section>
 
       <!-- Supporters -->
-      <section class="support-section">
-        <h2>{t('support.supporters_title', lang)}</h2>
-        <p>{t('support.supporters_intro', lang)}</p>
-        <p class="support-cta">{t('support.supporters_cta', lang)}</p>
-      </section>
+      {supporters.length > 0 && (
+        <section class="support-section">
+          <h2>{t('support.supporters_title', lang)}</h2>
+          <p>{t('support.supporters_intro', lang)}</p>
+          <ul class="supporters-list">
+            {supporters.map((name) => <li>{name}</li>)}
+          </ul>
+          <p class="support-cta">{t('support.supporters_cta', lang)}</p>
+        </section>
+      )}
 
     </div>
   </article>

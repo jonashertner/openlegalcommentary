@@ -12,7 +12,7 @@ const { lang } = Astro.params as { lang: Lang };
 const content: Record<Lang, { title: string; intro: string; sections: { heading: string; body: string }[] }> = {
   de: {
     title: 'Methodik & Qualitätssicherung',
-    intro: 'Jeder Kommentarartikel durchläuft eine mehrstufige Pipeline: Generierung durch spezialisierte KI-Agenten, automatische Qualitätsprüfung durch einen unabhängigen Evaluator-Agenten und Übersetzung in vier Sprachen. Diese Seite dokumentiert den gesamten Prozess und die Qualitätskriterien.',
+    intro: 'Jeder Kommentarartikel durchläuft eine mehrstufige Pipeline: Generierung durch spezialisierte KI-Agenten, automatische Qualitätsprüfung durch einen separaten Evaluator-Agenten und Übersetzung in vier Sprachen. Diese Seite dokumentiert den gesamten Prozess und die Qualitätskriterien.',
     sections: [
       {
         heading: 'Generierungspipeline',
@@ -23,18 +23,18 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
   <dt>Ebene 2 — Doktrin</dt>
   <dd>Wissenschaftliche Analyse mit Randziffern (N. 1, N. 2, …). Pflichtabschnitte: Entstehungsgeschichte, systematische Einordnung, Tatbestandsmerkmale, Rechtsfolgen, Streitstände, Praxishinweise. Mindestens 3 Sekundärquellen verschiedener Autorinnen/Autoren. Die Botschaft muss zitiert werden.</dd>
   <dt>Ebene 3 — Rechtsprechung</dt>
-  <dd>Vollständige BGE-Übersicht aus der opencaselaw.ch-Datenbank (956'000+ Entscheide). Thematisch gruppiert, nach Wichtigkeit geordnet. Pro Entscheid: BGE-Referenz, Datum, Kernaussage, Relevanz, Blockzitat der entscheidenden Passage.</dd>
+  <dd>BGE-Übersicht aus der opencaselaw.ch-Datenbank (über 1 Mio. Entscheide). Thematisch gruppiert, nach Wichtigkeit geordnet. Pro Entscheid: BGE-Referenz, Datum, Kernaussage, Relevanz, Blockzitat der entscheidenden Passage.</dd>
 </dl>
-<p>Die Doktrin-Ebene wird mit strukturierten Referenzdaten aus der massgeblichen Kommentarliteratur angereichert. Autorinnen/Autoren, Randziffern, doktrinäre Positionen und Kontroversen fliessen als Kontext in die Generierung ein.</p>`
+<p>Die Doktrin-Ebene kann zusätzlich mit strukturierten Referenzdaten aus der Kommentarliteratur sowie mit Gesetzesmaterialien (Botschaft, Erläuterungsbericht, Ratsprotokolle) angereichert werden. Nicht jeder Generierungslauf hatte Zugriff auf alle diese Quellen, und welche Quellen in einen bestimmten Artikel eingeflossen sind, wird derzeit nicht pro Artikel ausgewiesen. Literaturzitate sind deshalb an der Originalquelle zu überprüfen.</p>`
       },
       {
         heading: 'Qualitätsbewertung',
-        body: `<p>Nach jeder Generierung prüft ein unabhängiger Evaluator-Agent den Entwurf anhand eines zweistufigen Verfahrens. Nur Entwürfe, die <strong>alle</strong> Kriterien erfüllen, werden veröffentlicht.</p>
+        body: `<p>Nach jeder Generierung prüft ein separater Evaluator-Agent den Entwurf anhand eines zweistufigen Verfahrens. Entwürfe, die ein Kriterium verfehlen, werden mit dem Feedback des Evaluators neu generiert. Die Bewertung erfolgt automatisiert und ersetzt keine redaktionelle Prüfung durch Fachpersonen.</p>
 
 <h3>Unverhandelbare Kriterien (binär)</h3>
 <p>Ein einziges Nichterfüllen führt zur Ablehnung:</p>
 <ol>
-  <li><strong>Keine unbelegten Rechtsaussagen</strong> — Jede Aussage über geltendes Recht muss mit einer Primärquelle belegt sein. Zitierte Autorinnen/Autoren und Randziffern müssen mit den Referenzdaten übereinstimmen.</li>
+  <li><strong>Keine unbelegten Rechtsaussagen</strong> — Jede Aussage über geltendes Recht muss mit einer Primärquelle belegt sein. Soweit Referenzdaten vorliegen, müssen zitierte Autorinnen/Autoren und Randziffern mit ihnen übereinstimmen.</li>
   <li><strong>Keine faktischen Fehler</strong> — Zitierte Leitsätze und Holdings müssen mit den tatsächlichen Entscheiden übereinstimmen.</li>
   <li><strong>Keine fehlenden Leitentscheide</strong> — Alle auf opencaselaw verfügbaren BGE zum Artikel müssen erscheinen.</li>
   <li><strong>Korrekte Legalbegriffe</strong> — Rechtsbegriffe müssen mit dem SR-Text übereinstimmen.</li>
@@ -55,7 +55,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
       },
       {
         heading: 'Wiederholungsverfahren',
-        body: `<p>Wird ein Entwurf abgelehnt, erhält der Generierungsagent das detaillierte Feedback des Evaluators und generiert einen verbesserten Entwurf. Nach maximal <strong>3 Versuchen</strong> wird der Artikel zur manuellen Überprüfung markiert.</p>
+        body: `<p>Wird ein Entwurf abgelehnt, erhält der Generierungsagent das detaillierte Feedback des Evaluators und generiert einen verbesserten Entwurf. Nach <strong>3 erfolglosen Versuchen</strong> bleibt die bisherige Fassung bestehen und der Artikel wird zur manuellen Überprüfung markiert.</p>
 <div class="process-flow">
   <span class="flow-step">Generierung</span>
   <span class="flow-arrow">→</span>
@@ -65,7 +65,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
   <span class="flow-arrow">→</span>
   <span class="flow-step flow-success">Übersetzung & Veröffentlichung</span>
 </div>
-<p class="text-sm text-muted" style="margin-top: var(--space-1);">Bei Ablehnung: Retry mit Feedback (max. 3×). Nach 3 Fehlversuchen: Markierung zur manuellen Prüfung.</p>`
+<p class="text-sm text-muted" style="margin-top: var(--space-1);">Bei Ablehnung: Retry mit Feedback (max. 3×). Nach 3 Fehlversuchen: bisherige Fassung bleibt, Markierung zur manuellen Prüfung.</p>`
       },
       {
         heading: 'Übersetzung',
@@ -74,7 +74,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
       },
       {
         heading: 'Produktionskosten (BV)',
-        body: `<p>Transparente Kostendaten aus dem Bootstrap-Lauf der Bundesverfassung:</p>
+        body: `<p>Kostendaten aus dem ersten Generierungslauf der Bundesverfassung (März 2026). Neuere Läufe mit erweitertem Denken kosten rund $6 pro Artikel.</p>
 <table class="eval-table">
   <thead><tr><th>Metrik</th><th>Wert</th></tr></thead>
   <tbody>
@@ -84,8 +84,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
     <tr><td>Kosten pro Ebene</td><td>~$0.50 (Generierung + Evaluation)</td></tr>
     <tr><td>Kosten pro Übersetzung</td><td>~$0.15 pro Sprache</td></tr>
     <tr><td>Evaluations-Retry-Aufwand</td><td>+$0.80 pro abgelehntem Versuch</td></tr>
-    <tr><td>Geschätzte Gesamtkosten BV (232 Artikel)</td><td>~$600</td></tr>
-    <tr><td>Geschätzte Gesamtkosten alle 8 Gesetze (4'800+ Artikel)</td><td>~$12'000</td></tr>
+    <tr><td>Gesamtkosten erster Lauf BV (232 Artikel)</td><td>~$600</td></tr>
   </tbody>
 </table>`
       },
@@ -93,8 +92,9 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
         heading: 'Datenquellen',
         body: `<ul>
   <li><strong>Gesetzestexte:</strong> <a href="https://www.fedlex.admin.ch" target="_blank" rel="noopener">Fedlex</a> (Systematische Rechtssammlung)</li>
-  <li><strong>Rechtsprechung:</strong> <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a> (956'000+ Entscheide, 8.77 Mio. Zitierverbindungen)</li>
-  <li><strong>Doktrin-Referenzen:</strong> Massgebliche Kommentarliteratur, strukturiert aufbereitet</li>
+  <li><strong>Rechtsprechung:</strong> <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a> (über 1 Mio. Entscheide)</li>
+  <li><strong>Doktrin-Referenzen:</strong> Kommentarliteratur, strukturiert aufbereitet (nicht für alle Artikel und Läufe verfügbar)</li>
+  <li><strong>Gesetzesmaterialien:</strong> Botschaften, Erläuterungsberichte und Ratsprotokolle (derzeit für Teile der BV und das BGFA)</li>
   <li><strong>KI-Modell:</strong> Claude (Anthropic)</li>
 </ul>`
       },
@@ -106,7 +106,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
   },
   en: {
     title: 'Methodology & Quality Assurance',
-    intro: 'Every commentary article passes through a multi-stage pipeline: generation by specialized AI agents, automatic quality review by an independent evaluator agent, and translation into four languages. This page documents the entire process and quality criteria.',
+    intro: 'Every commentary article passes through a multi-stage pipeline: generation by specialized AI agents, automatic quality review by a separate evaluator agent, and translation into four languages. This page documents the entire process and quality criteria.',
     sections: [
       {
         heading: 'Generation Pipeline',
@@ -117,18 +117,18 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
   <dt>Layer 2 — Doctrine</dt>
   <dd>Academic analysis with marginal numbers (N. 1, N. 2, …). Required sections: legislative history, systematic context, elements of the provision, legal consequences, doctrinal debates, practical guidance. Minimum 3 secondary sources from different authors. The legislative message (Botschaft) must be cited.</dd>
   <dt>Layer 3 — Case Law</dt>
-  <dd>Complete digest of Federal Supreme Court decisions from the opencaselaw.ch database (956,000+ decisions). Grouped by topic, ordered by importance. For each decision: BGE reference, date, core holding, relevance, block quote of the decisive passage.</dd>
+  <dd>Digest of Federal Supreme Court decisions from the opencaselaw.ch database (over 1 million decisions). Grouped by topic, ordered by importance. For each decision: BGE reference, date, core holding, relevance, block quote of the decisive passage.</dd>
 </dl>
-<p>The doctrine layer is enriched with structured reference data from leading commentary literature. Authors, marginal numbers, doctrinal positions, and controversies flow into the generation as context.</p>`
+<p>The doctrine layer can additionally be enriched with structured reference data from commentary literature and with legislative materials (Federal Council message, explanatory report, parliamentary debates). Not every generation run had access to all of these sources, and the sources used for a given article are not yet shown per article. Literature citations should therefore be checked against the original source.</p>`
       },
       {
         heading: 'Quality Evaluation',
-        body: `<p>After each generation, an independent evaluator agent reviews the draft using a two-stage process. Only drafts that meet <strong>all</strong> criteria are published.</p>
+        body: `<p>After each generation, a separate evaluator agent reviews the draft using a two-stage process. Drafts that miss a criterion are regenerated with the evaluator's feedback. The evaluation is automated and does not replace editorial review by legal professionals.</p>
 
 <h3>Non-Negotiable Criteria (binary)</h3>
 <p>A single failure leads to rejection:</p>
 <ol>
-  <li><strong>No unsourced legal claims</strong> — Every statement about applicable law must be supported by a primary source. Cited authors and marginal numbers must match the reference data.</li>
+  <li><strong>No unsourced legal claims</strong> — Every statement about applicable law must be supported by a primary source. Where reference data is available, cited authors and marginal numbers must match it.</li>
   <li><strong>No factual errors</strong> — Cited holdings must match the actual decisions.</li>
   <li><strong>No missing leading cases</strong> — All BGE available on opencaselaw for the article must appear.</li>
   <li><strong>Correct legal terminology</strong> — Legal terms must match the SR text.</li>
@@ -149,7 +149,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
       },
       {
         heading: 'Retry Process',
-        body: `<p>If a draft is rejected, the generation agent receives detailed feedback from the evaluator and produces an improved draft. After a maximum of <strong>3 attempts</strong>, the article is flagged for manual review.</p>
+        body: `<p>If a draft is rejected, the generation agent receives detailed feedback from the evaluator and produces an improved draft. After <strong>3 unsuccessful attempts</strong>, the previous version is kept and the article is flagged for manual review.</p>
 <div class="process-flow">
   <span class="flow-step">Generation</span>
   <span class="flow-arrow">→</span>
@@ -159,7 +159,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
   <span class="flow-arrow">→</span>
   <span class="flow-step flow-success">Translation & Publication</span>
 </div>
-<p class="text-sm text-muted" style="margin-top: var(--space-1);">On rejection: retry with feedback (max 3×). After 3 failures: flagged for manual review.</p>`
+<p class="text-sm text-muted" style="margin-top: var(--space-1);">On rejection: retry with feedback (max 3×). After 3 failures: previous version kept, flagged for manual review.</p>`
       },
       {
         heading: 'Translation',
@@ -170,8 +170,9 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
         heading: 'Data Sources',
         body: `<ul>
   <li><strong>Statute texts:</strong> <a href="https://www.fedlex.admin.ch" target="_blank" rel="noopener">Fedlex</a> (Classified Compilation)</li>
-  <li><strong>Case law:</strong> <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a> (956,000+ decisions, 8.77M citation edges)</li>
-  <li><strong>Doctrine references:</strong> Leading commentary literature, structurally processed</li>
+  <li><strong>Case law:</strong> <a href="https://opencaselaw.ch" target="_blank" rel="noopener">opencaselaw.ch</a> (over 1 million decisions)</li>
+  <li><strong>Doctrine references:</strong> Commentary literature, structurally processed (not available for every article and run)</li>
+  <li><strong>Legislative materials:</strong> Federal Council messages, explanatory reports and parliamentary debates (currently for parts of the BV and the BGFA)</li>
   <li><strong>AI model:</strong> Claude (Anthropic)</li>
 </ul>`
       },
@@ -184,7 +185,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
 <ul>
   <li><strong>System prompt:</strong> Global authoring guidelines + law-specific guidelines (key commentaries, cross-reference patterns, special procedural notes for each law)</li>
   <li><strong>Article text:</strong> The full statutory text from Fedlex, injected directly into the prompt</li>
-  <li><strong>Doctrinal reference data:</strong> Structured extracts from leading commentary literature identifying authors, Randziffern, doctrinal positions, controversies, cross-references, and key literature for the specific article</li>
+  <li><strong>Doctrinal reference data (where available):</strong> Structured extracts from commentary literature identifying authors, Randziffern, doctrinal positions, controversies, cross-references, and key literature for the specific article</li>
   <li><strong>Tool access:</strong> <code>find_leading_cases</code>, <code>search_decisions</code>, <code>get_case_brief</code>, <code>get_decision</code> (full text), <code>write_layer_content</code> — all via the opencaselaw MCP server</li>
 </ul>
 <p>The agent autonomously researches case law, reads full decision texts, and writes the commentary in a tool-use loop with up to 25 turns per layer.</p>
@@ -193,19 +194,19 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
 <p>A separate evaluator agent receives the generated text and independently verifies it:</p>
 <ul>
   <li><strong>Read-only tools:</strong> Can verify content against primary sources but cannot modify it</li>
-  <li><strong>Citation cross-check:</strong> Verifies that cited authors and Randziffern actually appear in the reference data. Fabricated citations are rejected.</li>
+  <li><strong>Citation cross-check:</strong> Where reference data is available, verifies that cited authors and Randziffern actually appear in it and rejects citations that do not.</li>
   <li><strong>Completeness check:</strong> Queries opencaselaw for all leading cases (BGE) on the article and verifies that every one appears in the case law layer</li>
 </ul>
 <p>The evaluator returns structured JSON: binary non-negotiable results, scored dimensions (0.0–1.0 each), blocking issues, and improvement suggestions. On rejection, the full feedback is passed back to the generator for the next attempt.</p>
 
 <h3>Doctrinal Reference Integration</h3>
-<p>Commentary literature is processed into structured reference data that flows into the generation pipeline. This includes authors with edition years, Randziffern maps, named doctrinal positions, identified controversies, cross-references, and key literature. This grounds the AI commentary in actual scholarly sources rather than generating citations from training data.</p>
+<p>Commentary literature is processed into structured reference data that flows into the generation pipeline. This includes authors with edition years, Randziffern maps, named doctrinal positions, identified controversies, cross-references, and key literature. It is intended to ground the AI commentary in actual scholarly sources rather than in citations recalled from training data. Not every generation run had this data available; an automated citation audit tracks citations that cannot be matched, and literature citations should always be checked against the original source.</p>
 
 <h3>Cost Tracking and Resumability</h3>
 <p>Every API call is tracked with token-level cost estimation. The pipeline supports budget limits and crash-safe resumability — state is persisted after each article completion.</p>
 
 <h3>Production Costs — BV (Federal Constitution)</h3>
-<p>Transparent cost data from the BV bootstrap run (232 articles):</p>
+<p>Cost data from the first BV generation run (March 2026, 232 articles). Newer runs with extended thinking cost around $6 per article.</p>
 <table class="eval-table">
   <thead><tr><th>Metric</th><th>Value</th></tr></thead>
   <tbody>
@@ -215,8 +216,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
     <tr><td>Cost per layer</td><td>~$0.50 (generation + evaluation)</td></tr>
     <tr><td>Cost per translation</td><td>~$0.15 per language</td></tr>
     <tr><td>Evaluation retry overhead</td><td>+$0.80 per rejected attempt</td></tr>
-    <tr><td>Estimated total for BV (232 articles)</td><td>~$600</td></tr>
-    <tr><td>Estimated total for all 8 laws (4,800+ articles)</td><td>~$12,000</td></tr>
+    <tr><td>Total for the first BV run (232 articles)</td><td>~$600</td></tr>
   </tbody>
 </table>
 <p>Higher-cost articles are those with extensive case law (more tool calls to opencaselaw) or repeated evaluation rejections (up to 3 attempts per layer).</p>`
@@ -229,25 +229,25 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
   },
   fr: {
     title: 'Méthodologie et assurance qualité',
-    intro: 'Chaque article de commentaire passe par un pipeline multi-étapes : génération par des agents IA spécialisés, contrôle qualité automatique par un agent évaluateur indépendant, et traduction en quatre langues. Cette page documente l\'ensemble du processus et les critères de qualité.',
+    intro: 'Chaque article de commentaire passe par un pipeline multi-étapes : génération par des agents IA spécialisés, contrôle qualité automatique par un agent évaluateur distinct, et traduction en quatre langues. Cette page documente l\'ensemble du processus et les critères de qualité.',
     sections: [
-      { heading: 'Pipeline de génération', body: '<p>Trois niveaux de commentaire sont générés pour chaque article de loi. Le niveau 1 (aperçu) offre un résumé accessible. Le niveau 2 (doctrine) fournit une analyse académique avec numéros marginaux. Le niveau 3 (jurisprudence) présente un digest complet des arrêts du Tribunal fédéral issus de la base opencaselaw.ch.</p>' },
-      { heading: 'Évaluation de la qualité', body: '<p>Chaque projet est évalué selon 5 critères non négociables (binaires) et 5 dimensions notées (précision ≥ 0.95, concision ≥ 0.90, accessibilité ≥ 0.90, pertinence ≥ 0.90, rigueur académique ≥ 0.95). Un seul critère non satisfait entraîne le rejet.</p>' },
-      { heading: 'Processus de reprise', body: '<p>En cas de rejet, l\'agent de génération reçoit le feedback détaillé et produit une version améliorée. Maximum 3 tentatives, puis signalement pour révision manuelle.</p>' },
+      { heading: 'Pipeline de génération', body: '<p>Trois niveaux de commentaire sont générés pour chaque article de loi. Le niveau 1 (aperçu) offre un résumé accessible. Le niveau 2 (doctrine) fournit une analyse académique avec numéros marginaux. Le niveau 3 (jurisprudence) présente un digest des arrêts du Tribunal fédéral issus de la base opencaselaw.ch.</p>' },
+      { heading: 'Évaluation de la qualité', body: '<p>Chaque projet est évalué selon 5 critères non négociables (binaires) et 5 dimensions notées (précision ≥ 0.95, concision ≥ 0.90, accessibilité ≥ 0.90, pertinence ≥ 0.90, rigueur académique ≥ 0.95). Un seul critère non satisfait entraîne le rejet et une nouvelle génération. L\'évaluation est automatisée et ne remplace pas une relecture rédactionnelle par des spécialistes.</p>' },
+      { heading: 'Processus de reprise', body: '<p>En cas de rejet, l\'agent de génération reçoit le feedback détaillé et produit une version améliorée. Après 3 tentatives infructueuses, la version précédente est conservée et l\'article est signalé pour révision manuelle.</p>' },
       { heading: 'Traduction', body: '<p>Les commentaires publiés sont traduits automatiquement en français, italien et anglais. La version allemande fait foi.</p>' },
-      { heading: 'Sources de données', body: '<p>Textes de loi : Fedlex. Jurisprudence : opencaselaw.ch (956\'000+ décisions). Références doctrinales : littérature de commentaire de référence. Modèle IA : Claude (Anthropic).</p>' },
+      { heading: 'Sources de données', body: '<p>Textes de loi : Fedlex. Jurisprudence : opencaselaw.ch (plus d\'un million de décisions). Références doctrinales : littérature de commentaire, lorsqu\'elle est disponible ; les citations doctrinales sont à vérifier dans la source originale. Modèle IA : Claude (Anthropic).</p>' },
       { heading: 'Open source et licence', body: '<p>Code source sur <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a> (MIT). Contenu sous <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Dataset sur <a href="https://huggingface.co/datasets/openlegalcommentary/swiss-law-commentary" target="_blank" rel="noopener">HuggingFace</a>.</p>' }
     ]
   },
   it: {
     title: 'Metodologia e garanzia di qualità',
-    intro: 'Ogni articolo di commento passa attraverso una pipeline multi-fase: generazione da agenti IA specializzati, controllo qualità automatico da un agente valutatore indipendente e traduzione in quattro lingue. Questa pagina documenta l\'intero processo e i criteri di qualità.',
+    intro: 'Ogni articolo di commento passa attraverso una pipeline multi-fase: generazione da agenti IA specializzati, controllo qualità automatico da un agente valutatore separato e traduzione in quattro lingue. Questa pagina documenta l\'intero processo e i criteri di qualità.',
     sections: [
-      { heading: 'Pipeline di generazione', body: '<p>Per ogni articolo di legge vengono generati tre livelli di commento. Il livello 1 (panoramica) offre un riassunto accessibile. Il livello 2 (dottrina) fornisce un\'analisi accademica con numeri marginali. Il livello 3 (giurisprudenza) presenta un digest completo delle sentenze del Tribunale federale dalla banca dati opencaselaw.ch.</p>' },
-      { heading: 'Valutazione della qualità', body: '<p>Ogni bozza viene valutata secondo 5 criteri non negoziabili (binari) e 5 dimensioni valutate (precisione ≥ 0.95, concisione ≥ 0.90, accessibilità ≥ 0.90, rilevanza ≥ 0.90, rigore accademico ≥ 0.95). Un singolo criterio non soddisfatto porta al rifiuto.</p>' },
-      { heading: 'Processo di ripetizione', body: '<p>In caso di rifiuto, l\'agente di generazione riceve il feedback dettagliato e produce una versione migliorata. Massimo 3 tentativi, poi segnalazione per revisione manuale.</p>' },
+      { heading: 'Pipeline di generazione', body: '<p>Per ogni articolo di legge vengono generati tre livelli di commento. Il livello 1 (panoramica) offre un riassunto accessibile. Il livello 2 (dottrina) fornisce un\'analisi accademica con numeri marginali. Il livello 3 (giurisprudenza) presenta un digest delle sentenze del Tribunale federale dalla banca dati opencaselaw.ch.</p>' },
+      { heading: 'Valutazione della qualità', body: '<p>Ogni bozza viene valutata secondo 5 criteri non negoziabili (binari) e 5 dimensioni valutate (precisione ≥ 0.95, concisione ≥ 0.90, accessibilità ≥ 0.90, rilevanza ≥ 0.90, rigore accademico ≥ 0.95). Un singolo criterio non soddisfatto porta al rifiuto e a una nuova generazione. La valutazione è automatizzata e non sostituisce una revisione redazionale da parte di specialisti.</p>' },
+      { heading: 'Processo di ripetizione', body: '<p>In caso di rifiuto, l\'agente di generazione riceve il feedback dettagliato e produce una versione migliorata. Dopo 3 tentativi infruttuosi resta in vigore la versione precedente e l\'articolo viene segnalato per revisione manuale.</p>' },
       { heading: 'Traduzione', body: '<p>I commenti pubblicati vengono tradotti automaticamente in francese, italiano e inglese. La versione tedesca fa fede.</p>' },
-      { heading: 'Fonti dei dati', body: '<p>Testi di legge: Fedlex. Giurisprudenza: opencaselaw.ch (956\'000+ decisioni). Riferimenti dottrinali: letteratura di commento di riferimento. Modello IA: Claude (Anthropic).</p>' },
+      { heading: 'Fonti dei dati', body: '<p>Testi di legge: Fedlex. Giurisprudenza: opencaselaw.ch (oltre un milione di decisioni). Riferimenti dottrinali: letteratura di commento, ove disponibile; le citazioni dottrinali vanno verificate nella fonte originale. Modello IA: Claude (Anthropic).</p>' },
       { heading: 'Open source e licenza', body: '<p>Codice sorgente su <a href="https://github.com/jonashertner/openlegalcommentary" target="_blank" rel="noopener">GitHub</a> (MIT). Contenuti sotto <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>. Dataset su <a href="https://huggingface.co/datasets/openlegalcommentary/swiss-law-commentary" target="_blank" rel="noopener">HuggingFace</a>.</p>' }
     ]
   }
@@ -256,7 +256,7 @@ const content: Record<Lang, { title: string; intro: string; sections: { heading:
 const c = content[lang];
 ---
 
-<Base title={c.title} lang={lang} pagePath="/methodology" description={c.intro}>
+<Base title={c.title} lang={lang} pagePath="/methodology/" description={c.intro}>
   <Breadcrumb lang={lang} items={[{ label: c.title }]} />
 
   <article class="methodology-page content-column">
@@ -274,9 +274,10 @@ const c = content[lang];
   </article>
 </Base>
 
-<style>
+<!-- Global: the section bodies are injected with set:html, which scoped styles don't reach. -->
+<style is:global>
   .methodology-header {
-    margin-bottom: var(--space-5);
+    margin: var(--space-4) 0 var(--space-5);
   }
 
   .methodology-header h1 {
@@ -303,8 +304,35 @@ const c = content[lang];
   }
 
   .methodology-section h3 {
-    margin-top: var(--space-3);
+    margin: var(--space-3) 0 var(--space-1);
     font-size: var(--text-md);
+  }
+
+  .methodology-section h2 {
+    margin-bottom: var(--space-2);
+  }
+
+  .methodology-section p,
+  .methodology-section ul,
+  .methodology-section ol {
+    line-height: 1.65;
+    margin-bottom: var(--space-2);
+  }
+
+  .methodology-section ul,
+  .methodology-section ol {
+    padding-left: 1.4rem;
+  }
+
+  .methodology-section li {
+    margin-bottom: 0.4rem;
+  }
+
+  .methodology-section code {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+    background: var(--color-rule-light);
+    padding: 0.1em 0.35em;
   }
 
   .method-list {
@@ -325,6 +353,8 @@ const c = content[lang];
 
   .eval-table {
     width: 100%;
+    display: block;
+    overflow-x: auto;
     border-collapse: collapse;
     margin: var(--space-2) 0;
     font-size: var(--text-sm);
@@ -389,12 +419,8 @@ const c = content[lang];
   }
 
   .flow-success {
-    border-color: #16a34a;
-    color: #16a34a;
-    background: #f0fdf4;
-  }
-
-  [data-theme='dark'] .flow-success {
-    background: #052e16;
+    border-color: var(--color-text);
+    color: var(--color-text);
+    font-weight: 600;
   }
 </style>

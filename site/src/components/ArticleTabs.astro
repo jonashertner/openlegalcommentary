@@ -8,158 +8,114 @@ interface TocEntry {
   id: string;
 }
 
+interface Layer {
+  id: 'summary' | 'doctrine' | 'caselaw';
+  html: string;
+  available: boolean;
+  /** Shown in German because the translation is missing. */
+  fallback?: boolean;
+}
+
 export interface Props {
   lang: Lang;
-  summary: string;
-  doctrine: string;
-  caselaw: string;
-  activeTab?: string;
+  layers: Layer[];
   doctrineToc?: TocEntry[];
   caselawToc?: TocEntry[];
 }
 
 const {
   lang,
-  summary, doctrine, caselaw,
-  activeTab = 'summary',
+  layers,
   doctrineToc = [],
   caselawToc = [],
 } = Astro.props;
+
+// Only offer layers that exist; open the first one, preferring a translated
+// layer over a German fallback (the URL's ?layer= can still select another).
+const shown = layers.filter((l) => l.available);
+const activeTab = (shown.find((l) => !l.fallback) ?? shown[0])?.id ?? 'summary';
+const tocs: Record<string, TocEntry[]> = { doctrine: doctrineToc, caselaw: caselawToc };
 ---
 
 <div class="tabs-container" data-active-tab={activeTab}>
-  <div class="tabs-nav" role="tablist" aria-label={t('tab.summary', lang) + ' / ' + t('tab.doctrine', lang) + ' / ' + t('tab.caselaw', lang)}>
-    <button
-      role="tab"
-      id="tab-summary"
-      aria-controls="panel-summary"
-      aria-selected={activeTab === 'summary' ? 'true' : 'false'}
-      class:list={['tab-btn', { active: activeTab === 'summary' }]}
-      data-tab="summary"
-    >
-      {t('tab.summary', lang)}
-    </button>
-    <button
-      role="tab"
-      id="tab-doctrine"
-      aria-controls="panel-doctrine"
-      aria-selected={activeTab === 'doctrine' ? 'true' : 'false'}
-      class:list={['tab-btn', { active: activeTab === 'doctrine' }]}
-      data-tab="doctrine"
-    >
-      {t('tab.doctrine', lang)}
-    </button>
-    <button
-      role="tab"
-      id="tab-caselaw"
-      aria-controls="panel-caselaw"
-      aria-selected={activeTab === 'caselaw' ? 'true' : 'false'}
-      class:list={['tab-btn', { active: activeTab === 'caselaw' }]}
-      data-tab="caselaw"
-    >
-      {t('tab.caselaw', lang)}
-    </button>
-    <div class="tab-indicator" id="tab-indicator"></div>
+  <div class="tabs-nav" role="tablist" aria-label={shown.map((l) => t(`tab.${l.id}`, lang)).join(' / ')} data-pagefind-ignore>
+    {shown.map((layer) => (
+      <button
+        type="button"
+        role="tab"
+        id={`tab-${layer.id}`}
+        aria-controls={`panel-${layer.id}`}
+        aria-selected={activeTab === layer.id ? 'true' : 'false'}
+        tabindex={activeTab === layer.id ? 0 : -1}
+        class:list={['tab-btn', { active: activeTab === layer.id }]}
+        data-tab={layer.id}
+      >
+        {t(`tab.${layer.id}`, lang)}
+      </button>
+    ))}
   </div>
 
-  <div
-    role="tabpanel"
-    id="panel-summary"
-    aria-labelledby="tab-summary"
-    class:list={['tab-panel', 'prose', { hidden: activeTab !== 'summary' }]}
-    data-panel="summary"
-  >
-    <Fragment set:html={summary} />
-  </div>
-
-  <div
-    role="tabpanel"
-    id="panel-doctrine"
-    aria-labelledby="tab-doctrine"
-    class:list={['tab-panel', 'prose', { hidden: activeTab !== 'doctrine' }]}
-    data-panel="doctrine"
-  >
-    {doctrineToc.length > 2 && (
-      <nav class="toc" aria-label={t('article.toc', lang)}>
-        <details open>
-          <summary class="toc-toggle">
-            <span class="toc-icon" aria-hidden="true">
-              <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
-                <path d="M2 3h10M2 7h7M2 11h10" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
-              </svg>
-            </span>
-            {t('article.toc', lang)}
-          </summary>
-          <ol class="toc-list">
-            {doctrineToc.map((entry) => (
-              <li class:list={[{ 'toc-sub': entry.level === 3 }]}>
-                <a href={`#${entry.id}`}>{entry.text}</a>
-              </li>
-            ))}
-          </ol>
-        </details>
-      </nav>
-    )}
-    <Fragment set:html={doctrine} />
-  </div>
-
-  <div
-    role="tabpanel"
-    id="panel-caselaw"
-    aria-labelledby="tab-caselaw"
-    class:list={['tab-panel', 'prose', { hidden: activeTab !== 'caselaw' }]}
-    data-panel="caselaw"
-  >
-    {caselawToc.length > 2 && (
-      <nav class="toc" aria-label={t('article.toc', lang)}>
-        <details open>
-          <summary class="toc-toggle">
-            <span class="toc-icon" aria-hidden="true">
-              <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
-                <path d="M2 3h10M2 7h7M2 11h10" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
-              </svg>
-            </span>
-            {t('article.toc', lang)}
-          </summary>
-          <ol class="toc-list">
-            {caselawToc.map((entry) => (
-              <li class:list={[{ 'toc-sub': entry.level === 3 }]}>
-                <a href={`#${entry.id}`}>{entry.text}</a>
-              </li>
-            ))}
-          </ol>
-        </details>
-      </nav>
-    )}
-    <Fragment set:html={caselaw} />
-  </div>
+  {shown.map((layer) => {
+    const toc = tocs[layer.id] || [];
+    return (
+      <div
+        role="tabpanel"
+        id={`panel-${layer.id}`}
+        aria-labelledby={`tab-${layer.id}`}
+        tabindex="0"
+        class:list={['tab-panel', { hidden: activeTab !== layer.id, 'has-toc': toc.length > 2 }]}
+        data-panel={layer.id}
+        data-label={t(`tab.${layer.id}`, lang)}
+      >
+        {toc.length > 2 && (
+          <nav class="toc" aria-label={t('article.toc', lang)} data-pagefind-ignore>
+            <details open>
+              <summary class="toc-toggle">{t('article.toc', lang)}</summary>
+              <ol class="toc-list">
+                {toc.map((entry) => (
+                  <li class:list={[{ 'toc-sub': entry.level === 3 }]}>
+                    <a href={`#${entry.id}`}>{entry.text}</a>
+                  </li>
+                ))}
+              </ol>
+            </details>
+          </nav>
+        )}
+        <div class="panel-body prose" lang={layer.fallback ? 'de' : undefined}>
+          {layer.fallback && (
+            <p class="fallback-notice" lang={lang} data-pagefind-ignore>{t('article.fallback_notice', lang)}</p>
+          )}
+          <Fragment set:html={layer.html} />
+        </div>
+      </div>
+    );
+  })}
 </div>
 
 <style>
   .tabs-nav {
     display: flex;
-    gap: 0;
+    gap: var(--space-3);
     border-bottom: 1px solid var(--color-border);
-    margin-bottom: var(--space-3);
+    margin-bottom: var(--space-4);
+    max-width: var(--content-width);
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
-    position: relative;
+    scrollbar-width: none;
   }
 
-  .tab-indicator {
-    display: none;
-  }
+  .tabs-nav::-webkit-scrollbar { display: none; }
 
   .tab-btn {
     font-family: var(--font-ui);
     font-size: 12px;
     font-weight: 500;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.1em;
     color: var(--color-text-muted);
     background: none;
     border: none;
-    padding: var(--space-1) var(--space-2);
+    padding: 0 0 12px;
     cursor: pointer;
     border-bottom: 2px solid transparent;
     margin-bottom: -1px;
@@ -173,35 +129,46 @@ const {
 
   .tab-btn.active {
     color: var(--color-text);
-    font-weight: 600;
+    font-weight: 650;
     border-bottom-color: var(--color-text);
-  }
-
-  .tab-panel {
-    padding: var(--space-2) 0;
   }
 
   .tab-panel.hidden {
     display: none;
   }
 
-  /* Table of Contents */
+  .tab-panel:focus-visible {
+    outline-offset: 8px;
+  }
+
+  .fallback-notice {
+    font-family: var(--font-ui);
+    font-size: 12.5px !important;
+    line-height: 1.5;
+    color: var(--color-text-secondary);
+    border-left: 2px solid var(--color-accent);
+    padding: 2px 0 2px 12px;
+    margin-bottom: var(--space-4) !important;
+    hyphens: manual;
+  }
+
+  /* ── Table of contents ─────────────────────────────────────── */
   .toc {
-    margin-bottom: var(--space-3);
+    margin-bottom: var(--space-4);
     border: 1px solid var(--color-border);
-    overflow: hidden;
+    max-width: var(--content-width);
   }
 
   .toc-toggle {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
-    padding: var(--space-1) var(--space-2);
+    justify-content: space-between;
+    padding: 10px var(--space-2);
     font-family: var(--font-ui);
-    font-size: 11px;
+    font-size: var(--text-2xs);
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.12em;
     color: var(--color-text-muted);
     cursor: pointer;
     list-style: none;
@@ -212,188 +179,208 @@ const {
 
   .toc-toggle::after {
     content: '';
-    margin-left: auto;
-    width: 0;
-    height: 0;
-    border-left: 4px solid transparent;
-    border-right: 4px solid transparent;
-    border-top: 5px solid var(--color-text-muted);
+    width: 6px;
+    height: 6px;
+    border-right: 1.5px solid currentColor;
+    border-bottom: 1.5px solid currentColor;
+    transform: rotate(45deg) translateY(-2px);
     transition: transform var(--transition-fast);
   }
 
   details[open] > .toc-toggle::after {
-    transform: rotate(180deg);
-  }
-
-  .toc-icon {
-    display: flex;
-    align-items: center;
-    color: var(--color-text-muted);
+    transform: rotate(-135deg) translateY(-1px);
   }
 
   .toc-list {
     list-style: none;
-    padding: 0 var(--space-2) var(--space-2);
-    margin: 0;
-    counter-reset: toc;
-  }
-
-  .toc-list li {
+    padding: 0 var(--space-2) 12px;
     margin: 0;
   }
 
   .toc-list li a {
     display: block;
-    padding: 0.25rem 0.5rem;
+    padding: 4px 0;
     font-family: var(--font-ui);
-    font-size: 11px;
-    color: var(--color-text-muted);
+    font-size: 13px;
+    line-height: 1.4;
+    color: var(--color-text-secondary);
     text-decoration: none;
     transition: color var(--transition-fast);
-    line-height: 1.4;
   }
 
-  .toc-list li a:hover {
-    color: var(--color-text);
-  }
-
+  .toc-list li a:hover,
   .toc-list li.toc-active a {
     color: var(--color-text);
+  }
+
+  .toc-list li.toc-active > a {
     font-weight: 600;
   }
 
   .toc-sub {
-    padding-left: 1.25rem;
+    padding-left: 1rem;
   }
 
   .toc-sub a {
-    font-size: 10px !important;
+    font-size: 12px !important;
+  }
+
+  /* ── Wide screens: contents in a sticky rail beside the text ── */
+  @media (min-width: 1240px) {
+    .tab-panel.has-toc:not(.hidden) {
+      display: grid;
+      grid-template-columns: minmax(0, var(--content-width)) minmax(0, 1fr);
+      column-gap: var(--space-6);
+      align-items: start;
+    }
+
+    .tab-panel.has-toc .panel-body {
+      grid-column: 1;
+      grid-row: 1;
+    }
+
+    .tab-panel.has-toc .toc {
+      grid-column: 2;
+      grid-row: 1;
+      position: sticky;
+      top: calc(var(--header-h) + var(--space-3));
+      max-height: calc(100vh - var(--header-h) - var(--space-5));
+      overflow-y: auto;
+      margin: 0;
+      border: none;
+      border-left: 1px solid var(--color-rule-light);
+      max-width: 260px;
+      scrollbar-width: thin;
+    }
+
+    .tab-panel.has-toc .toc-toggle {
+      padding: 0 0 10px var(--space-2);
+      cursor: default;
+      pointer-events: none;
+    }
+
+    .tab-panel.has-toc .toc-toggle::after { display: none; }
+
+    .tab-panel.has-toc .toc-list {
+      padding: 0;
+    }
+
+    .tab-panel.has-toc .toc-list li a {
+      padding: 4px 0 4px var(--space-2);
+      margin-left: -1px;
+      border-left: 1px solid transparent;
+      font-size: 12.5px;
+    }
+
+    .tab-panel.has-toc .toc-sub a {
+      padding-left: calc(var(--space-2) + 0.85rem) !important;
+      font-size: 12px !important;
+    }
+
+    .tab-panel.has-toc .toc-sub {
+      padding-left: 0;
+    }
+
+    .tab-panel.has-toc .toc-list li.toc-active > a {
+      border-left-color: var(--color-text);
+    }
   }
 
   @media (max-width: 768px) {
-    .tab-btn {
-      flex: 1;
-      text-align: center;
-      padding: var(--space-1);
-      font-size: 12px;
-    }
-  }
-
-  @media (max-width: 640px) {
     .tabs-nav {
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      flex-wrap: nowrap;
-      scrollbar-width: none;
+      gap: var(--space-3);
     }
-    .tabs-nav::-webkit-scrollbar { display: none; }
+    .tab-btn {
+      padding-bottom: 12px;
+      min-height: 40px;
+    }
   }
 </style>
 
 <script>
   document.addEventListener('astro:page-load', () => {
-  // Tab indicator positioning
-  function updateIndicator() {
-    const activeTab = document.querySelector('.tab-btn[aria-selected="true"]') || document.querySelector('.tab-btn.active');
-    const indicator = document.getElementById('tab-indicator');
-    if (activeTab && indicator) {
-      const btn = activeTab as HTMLElement;
-      indicator.style.width = btn.offsetWidth + 'px';
-      indicator.style.transform = `translateX(${btn.offsetLeft}px)`;
-    }
-  }
-
-  // Tab switching with URL parameter support
-  function initTabs() {
     const container = document.querySelector('.tabs-container');
     if (!container) return;
 
-    const buttons = container.querySelectorAll<HTMLButtonElement>('.tab-btn');
+    const buttons = Array.from(container.querySelectorAll<HTMLButtonElement>('.tab-btn'));
+    const defaultTab = (container as HTMLElement).dataset.activeTab;
     const panels = container.querySelectorAll<HTMLElement>('.tab-panel');
 
-    function switchTab(tabName: string) {
+    function switchTab(tabName: string, focus = false) {
       buttons.forEach((btn) => {
         const isActive = btn.dataset.tab === tabName;
         btn.classList.toggle('active', isActive);
         btn.setAttribute('aria-selected', String(isActive));
+        btn.tabIndex = isActive ? 0 : -1;
+        if (isActive && focus) btn.focus();
       });
-
       panels.forEach((panel) => {
-        const isActive = panel.dataset.panel === tabName;
-        panel.classList.toggle('hidden', !isActive);
+        panel.classList.toggle('hidden', panel.dataset.panel !== tabName);
       });
 
-      updateIndicator();
-
-      // Update URL without reload
+      // Reflect the layer in the URL so it can be shared
       const url = new URL(window.location.href);
-      if (tabName === 'summary') {
+      if (tabName === defaultTab) {
         url.searchParams.delete('layer');
       } else {
         url.searchParams.set('layer', tabName);
       }
-      history.replaceState({}, '', url.toString());
+      history.replaceState(history.state, '', url.toString());
     }
 
-    buttons.forEach((btn) => {
+    buttons.forEach((btn, i) => {
       btn.addEventListener('click', () => {
-        const tab = btn.dataset.tab;
-        if (tab) switchTab(tab);
+        if (btn.dataset.tab) switchTab(btn.dataset.tab);
+      });
+      // Arrow keys move between tabs (WAI-ARIA tabs pattern)
+      btn.addEventListener('keydown', (e) => {
+        let next = -1;
+        if (e.key === 'ArrowRight') next = (i + 1) % buttons.length;
+        else if (e.key === 'ArrowLeft') next = (i - 1 + buttons.length) % buttons.length;
+        else if (e.key === 'Home') next = 0;
+        else if (e.key === 'End') next = buttons.length - 1;
+        if (next >= 0) {
+          e.preventDefault();
+          const tab = buttons[next].dataset.tab;
+          if (tab) switchTab(tab, true);
+        }
       });
     });
 
-    // Check URL for initial tab
-    const params = new URLSearchParams(window.location.search);
-    const layer = params.get('layer');
-    if (layer && ['summary', 'doctrine', 'caselaw'].includes(layer)) {
+    // Initial tab from ?layer=, or from a #n-12 / #heading link into a hidden panel
+    const layer = new URLSearchParams(window.location.search).get('layer');
+    if (layer && buttons.some((b) => b.dataset.tab === layer)) {
       switchTab(layer);
     }
+    if (window.location.hash) {
+      const target = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
+      const panel = target?.closest<HTMLElement>('.tab-panel');
+      if (panel?.dataset.panel && panel.classList.contains('hidden')) {
+        switchTab(panel.dataset.panel);
+        target!.scrollIntoView();
+      }
+    }
 
-    // Initialize indicator position
-    updateIndicator();
-  }
-
-  initTabs();
-
-  // TOC active section tracking via IntersectionObserver
-
-  function initTocTracking() {
+    // TOC active section tracking
     const tocLinks = document.querySelectorAll('.toc-list li a');
     if (tocLinks.length === 0) return;
-
-    const headingIds = Array.from(tocLinks).map((a) => {
-      const href = a.getAttribute('href');
-      return href ? href.slice(1) : '';
-    }).filter(Boolean);
-
-    const headings = headingIds
-      .map((id) => document.getElementById(id))
+    const headings = Array.from(tocLinks)
+      .map((a) => document.getElementById((a.getAttribute('href') || '').slice(1)))
       .filter((el): el is HTMLElement => el !== null);
-
     if (headings.length === 0) return;
 
     const observer = new IntersectionObserver(
       (entries) => {
         for (const entry of entries) {
-          if (entry.isIntersecting) {
-            const id = entry.target.id;
-            tocLinks.forEach((link) => {
-              const li = link.parentElement;
-              if (!li) return;
-              li.classList.toggle(
-                'toc-active',
-                link.getAttribute('href') === `#${id}`
-              );
-            });
-          }
+          if (!entry.isIntersecting) continue;
+          const id = entry.target.id;
+          tocLinks.forEach((link) => {
+            link.parentElement?.classList.toggle('toc-active', link.getAttribute('href') === `#${id}`);
+          });
         }
       },
       { rootMargin: '-80px 0px -70% 0px', threshold: 0 }
     );
-
     headings.forEach((h) => observer.observe(h));
-  }
-
-  initTocTracking();
   });
 </script>
