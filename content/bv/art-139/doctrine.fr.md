@@ -10,7 +10,7 @@
 
 ## 2. Classification systématique
 
-**N. 4** L'art. 139 Cst. se situe dans le 4e titre « Peuple et cantons » et forme, avec l'art. 138 Cst. (initiative populaire tendant à la révision totale) et l'art. 139a Cst. (initiative populaire avec contre-projet), le cœur des droits de participation démocratiques directes au niveau fédéral. La disposition concrétise le droit fondamental des droits politiques garanti à l'art. 34 Cst. pour le cas spécifique de l'initiative constitutionnelle (Tschannen, Die Formen der Volksinitiative und die Einheit der Form, ZBl 2002, 2–29, 4).
+**N. 4** L'art. 139 Cst. se situe dans le 4e titre « Peuple et cantons » et forme, avec l'art. 138 Cst. (initiative populaire tendant à la révision totale) et l'art. 139b Cst. (procédure applicable lors du vote sur une initiative et son contre-projet), le cœur des droits de participation démocratiques directes au niveau fédéral. La disposition concrétise le droit fondamental des droits politiques garanti à l'art. 34 Cst. pour le cas spécifique de l'initiative constitutionnelle (Tschannen, Die Formen der Volksinitiative und die Einheit der Form, ZBl 2002, 2–29, 4).
 
 **N. 5** La connexion avec l'art. 136 Cst. (droits politiques) et l'art. 173 al. 1 let. f Cst. (compétences de l'Assemblée fédérale concernant les initiatives populaires) est systématiquement centrale. L'art. 190 Cst. joue un rôle important dans la question de la justiciabilité des initiatives populaires acceptées, tandis que les art. 192–195 Cst. fixent les limites de la révision constitutionnelle.
 
@@ -44,7 +44,7 @@
 
 **N. 15** Les initiatives déclarées valides sous la forme de proposition conçue en termes généraux conduisent à une procédure en deux étapes selon l'al. 4 : en cas d'approbation de l'Assemblée fédérale, celle-ci élabore un projet. En cas de rejet, le peuple décide d'abord sur la proposition. Ce n'est qu'en cas d'approbation du peuple que l'Assemblée fédérale doit agir.
 
-**N. 16** Les projets rédigés de toutes pièces sont soumis directement à la votation populaire (al. 5). L'Assemblée fédérale donne une recommandation de vote et peut élaborer un contre-projet direct ou indirect (art. 139a et 139b Cst.). Le taux de succès se situe historiquement à environ 11% (24 sur 216 initiatives soumises à votation depuis 1891, état fin 2023).
+**N. 16** Les projets rédigés de toutes pièces sont soumis directement à la votation populaire (al. 5). L'Assemblée fédérale donne une recommandation de vote et peut élaborer un contre-projet direct ou indirect (pour le contre-projet direct : art. 139 al. 5 et art. 139b Cst.). Le taux de succès se situe historiquement à environ 11% (24 sur 216 initiatives soumises à votation depuis 1891, état fin 2023).
 
 **N. 17** Les initiatives populaires acceptées deviennent partie de la Constitution fédérale et bénéficient de la protection de l'art. 190 Cst. Le Tribunal fédéral ne peut pas les examiner quant à leur constitutionnalité. En cas de conflits avec la CEDH, le Tribunal fédéral applique cependant sa « pratique PKK » : la CEDH prime aussi sur le droit constitutionnel postérieur (**ATF 139 I 16 consid. 5**).
 

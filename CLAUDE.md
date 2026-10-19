@@ -1,6 +1,6 @@
 # openlegalcommentary
 
-Open-access, AI-generated, daily-updated legal commentary on Swiss federal law.
+Open-access, AI-generated legal commentary on Swiss federal law (public pilot).
 
 ## Project structure
 
@@ -20,7 +20,7 @@ Each article lives in `content/{law}/art-{number}/` with:
 - `meta.yaml` — Article metadata and per-layer state
 - `summary.md` — Plain-language summary (B1 reading level)
 - `doctrine.md` — Doctrinal analysis with Randziffern
-- `caselaw.md` — Case law digest, daily updated
+- `caselaw.md` — Case law digest (built for daily updates; daily generation is disabled)
 - `*.fr.md` / `*.it.md` / `*.en.md` — French/Italian/English translations
 
 Content types: article, concept, contested, comparison
@@ -252,7 +252,15 @@ See `docs/superpowers/specs/2026-04-11-world-class-improvements-backlog.md` for
 the full prioritized backlog (~70 items across 11 categories).
 
 **Priority items:**
-1. Fix suffix article statute-text bug (34 BV articles affected)
+1. Fix suffix article statute-text bug (35 BV articles affected), then regenerate
+   them. A fact-check of all 35 against Fedlex on 2026-10-19 found no clean
+   article: 22 with serious errors (wrong subject matter, dates or rule; Art. 141a
+   is described as a non-existent 2021 counter-proposal, as Art. 139a was) and 13
+   with minor ones (wrong place in the BV structure, wrong BBl pages). The
+   doctrine was generated without the statute text, so the model guessed.
+   Art. 139a was rewritten by hand on 2026-10-19 (repealed provision, never in
+   force) and Art. 139b corrected (Abs. 3 is a sum rule; Art. 75b/77a BPR do not
+   exist); the cross-references in Art. 138/139 were fixed.
 2. Expand Materialien to other laws (each needs its own BJ archive source);
    first diagnose the preparatory-materials digest, which produces empty
    output and blocks 600+ BBl citation checks

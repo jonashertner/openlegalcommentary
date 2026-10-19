@@ -1,7 +1,7 @@
 law: BV
 article: 139
 article_suffix: a
-title: Art. 139a BV
+title: Allgemeine Volksinitiative (aufgehoben)
 sr_number: '101'
 absatz_count: 1
 fedlex_url: https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_139a
@@ -9,14 +9,17 @@ lexfind_url: ''
 in_force_since: ''
 layers:
   caselaw:
-    last_generated: '2026-03-23'
-    version: 1
-    quality_score: 0.92
+    last_generated: '2026-10-19'
+    version: 2
+    trigger: manual-correction
+    last_reviewed: '2026-10-19'
   doctrine:
-    last_generated: '2026-03-23'
-    version: 1
-    quality_score: 0.92
+    last_generated: '2026-10-19'
+    version: 2
+    trigger: manual-correction
+    last_reviewed: '2026-10-19'
   summary:
-    last_generated: '2026-03-23'
-    version: 1
-    quality_score: 0.94
+    last_generated: '2026-10-19'
+    version: 2
+    trigger: manual-correction
+    last_reviewed: '2026-10-19'

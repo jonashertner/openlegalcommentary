@@ -1,73 +1,36 @@
 # Art. 139a FC — Case Law
 
-Art. 139a FC was incorporated into the Federal Constitution in 2019 and has hardly been applied in case law so far. There are therefore no BGE that directly interpret or apply this provision. The following decisions deal with the fundamental constitutional principles that led to the introduction of Art. 139a FC, as well as related questions concerning the relationship between international law and domestic law in popular initiatives.
+Art. 139a FC never entered into force and was repealed in 2009 (AS 2003 1949; AS 2009 6409). There is therefore no case law applying it. The Federal Supreme Court has, however, referred to the version approved in 2003 in two decisions as an aid to interpretation.
 
-## I. Basic Principles of the Relationship between International Law and Domestic Law
+## I. References to Art. 139a FC (2002 version)
 
-### Peremptory International Law (ius cogens)
+**BGE 129 I 366 consid. 2.3**
+27 August 2003
+Unity of subject matter in an amendment to the Zurich cantonal constitution (relations between churches and the state). The Court lists Art. 139a para. 2 FC, in its 2002 version, among the provisions requiring unity of subject matter for federal popular initiatives.
 
-**BGE 133 II 450 E. 7**
-14 November 2007
-The Federal Supreme Court defines peremptory international law and its precedence over national law.
-This decision is relevant to Art. 139a FC as it determines the limits of peremptory international law that must be observed in the validity review of constitutional initiatives according to Art. 139a para. 3 FC.
+**BGer 1P.470/2005 of 23 December 2005 consid. 3.1**
+The Jura popular initiative "Contre l'aérodrome de Bressaucourt", which sought a consultative popular vote, had been declared invalid; the Court upheld that decision. On whether a cantonal initiative may only concern rules of law, it endorsed an interpretation that relied in part on the wording of Art. 139a FC, which it found similar to Art. 75 para. 1 of the Jura Constitution.
 
-> «Peremptory international law (ius cogens) within the meaning of Art. 53 of the Vienna Convention on the Law of Treaties encompasses the totality of peremptory norms of general international law that are recognised by the international community of states as a whole as norms from which no derogation is permitted and which can be modified only by a subsequent norm of general international law having the same character.»
+## II. Risk of confusion: Art. 139a OG
 
-### Proportionality Review in Initiatives Violating International Law
+Many search results for "Art. 139a" in the case law concern Art. 139a of the former Federal Act on the Organisation of the Federal Administration of Justice (OG): the revision of a Federal Supreme Court judgment after the European Court of Human Rights has found a violation of the ECHR. This is now governed by Art. 122 of the Federal Supreme Court Act (BGG). These decisions have nothing to do with Art. 139a FC.
 
-**BGE 139 I 16 E. 5.5.1**
-19 December 2012
-The Federal Supreme Court develops criteria for dealing with popular initiatives that violate international law prior to the introduction of Art. 139a FC.
-Although this decision was rendered before the introduction of Art. 139a FC, it demonstrates the legal problems that led to the creation of the new article.
+**BGE 123 I 283**
+20 October 1997
+Revision for violation of the ECHR under Art. 139a OG; start of the time limit for revision and relationship with Art. 50 ECHR.
 
-> «In case of an irreconcilable conflict between international law and a constitutional provision adopted by the people, international law takes precedence in principle, provided that it concerns peremptory international law or the international legal obligations serve to respect human rights.»
+**BGE 124 II 480**
+24 August 1998
+Art. 139a OG also applies to decisions rendered before it entered into force; revision is admissible only where redress cannot be obtained in another way.
 
-## II. Validity Review of Popular Initiatives
+## III. Related case law on the general proposal in cantonal law
 
-### Material Validity Review
+The question the Federal Supreme Court would have had to decide under Art. 189 para. 1bis FC (2002 version), namely whether a parliament has faithfully implemented a popular request formulated in general terms, continues to arise in cantonal law. The following decisions concern cantonal initiatives. They illustrate the issue but do not interpret Art. 139a FC.
 
-**BGE 143 I 129 E. 2.1**
+**BGE 141 I 186 consid. 5**
+27 May 2015
+Implementation of the Zurich "Kulturlandinitiative", which had been approved as a general proposal. The cantonal parliament had refused to consider the implementing bill; the Court held that this failed to implement the initiative correctly in substance and violated the voters' political rights (Art. 34 para. 1 FC).
+
+**BGE 143 I 129 consid. 2.4**
 14 December 2016
-The Federal Supreme Court specifies the requirements for the material compatibility of popular initiatives with higher-ranking law.
-These principles are relevant to the application of Art. 139a FC as they shape the review procedure for initiatives violating international law.
-
-> «Cantonal popular initiatives must be compatible with higher-ranking law. The review of material lawfulness is conducted restrictively and is limited to obvious and serious violations of higher-ranking law.»
-
-**BGE 129 I 232 E. 3.2**
-7 April 2003
-The Federal Supreme Court establishes the limits for declaring popular initiatives invalid.
-This decision shapes the understanding of the exceptional situation in which initiatives can be declared invalid - a principle that was codified in Art. 139a FC.
-
-> «A popular initiative can only be declared invalid if it violates peremptory international law. This results from the fundamental importance of popular rights in Swiss democracy.»
-
-## III. Application since 2019
-
-### No Direct Case Law on Art. 139a FC
-
-Since Art. 139a FC entered into force on 1 January 2019, no BGE have been rendered that directly apply this provision. This can be explained by the fact that:
-
-- No federal constitutional initiatives have been put to a vote that would have triggered Art. 139a FC
-- The review procedure according to Art. 139a FC has not yet been practically applied
-- The Federal Assembly has not yet classified any constitutional initiative as violating international law
-
-### Related Cantonal Case Law
-
-**VB.2023.00485 of the Zurich Administrative Court**
-12 October 2023
-The Zurich Administrative Court applies the principles of validity review to a municipal initiative.
-This decision shows the practical application of the principles underlying Art. 139a FC at a subordinate level.
-
-> «The review of compatibility with higher-ranking law is conducted with restraint and is limited to clear violations of binding legal norms.»
-
-## IV. Case Law on the Self-Determination Initiative (Background to Art. 139a FC)
-
-### Discussion on Initiatives Violating International Law
-
-**Judgment 1C_591/2018 of the Federal Supreme Court**
-12 November 2018
-The Federal Supreme Court deals with appeals regarding the Self-Determination Initiative, which contributed to the considerations that led to the introduction of Art. 139a FC.
-This decision illustrates the constitutional tensions that Art. 139a FC sought to resolve.
-
-> «The initiative raises fundamental questions about the relationship between international law and domestic law that require constitutional clarification.»
-
-The practical significance of Art. 139a FC will only become apparent with future constitutional initiatives that trigger the procedure defined in para. 3. However, the existing case law on related questions provides important interpretative guidance for the future application of this provision.
+Invalidation of a Fribourg constitutional initiative in the form of a general proposal for breach of the prohibition of discrimination (Art. 8 para. 2 FC). Even a general proposal cannot be interpreted more broadly than the will of its signatories allows.

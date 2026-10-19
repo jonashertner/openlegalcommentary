@@ -12,10 +12,10 @@ Art. 139b BV regelt das Verfahren bei gleichzeitiger Abstimmung über eine Volks
 
 **Doppeltes Ja möglich**: Die Stimmberechtigten können sowohl der Initiative als auch dem Gegenentwurf zustimmen. Dieses System ermöglicht eine differenzierte Meinungsäusserung - etwa wenn jemand Reformen befürwortet, aber den Gegenentwurf für besser hält als die Initiative (Kley, ZBl 2011, 2, 15).
 
-**Stichfrage entscheidet**: Nehmen die Stimmberechtigten beide Vorlagen an, entscheidet die Stichfrage. Die Vorlage mit mehr Volksstimmen tritt in Kraft. Das Ständemehr spielt bei der Stichfrage keine Rolle.
+**Stichfrage entscheidet**: Werden beide Vorlagen angenommen, entscheidet die Stichfrage. In Kraft tritt die Vorlage, die dort mehr Volks- und mehr Standesstimmen erhält. Hat die eine Vorlage mehr Volksstimmen und die andere mehr Standesstimmen, werden für jede Vorlage die beiden Prozentanteile zusammengezählt; die Vorlage mit der grösseren Summe tritt in Kraft (Abs. 3).
 
-**Entstehungsgeschichte**: Die heutige Regelung entstand nach kontroversen Debatten zwischen 1979 und 1987. Ursprünglich wollte der Bundesrat eine andere Kollisionsregel: Bei doppelter Annahme sollte diejenige Vorlage siegen, die zusammengezählt mehr Volks- und Standesstimmen erhielt. Die Bundesversammlung entschied jedoch, dass in diesem Fall gar keine Vorlage in Kraft treten solle.
+**Entstehungsgeschichte**: Seinen Platz in Art. 139b BV erhielt das Verfahren mit der Reform der Volksrechte, die Volk und Stände am 9. Februar 2003 annahmen. Die Regel für gegenläufige Mehrheiten (Abs. 3) gilt seit dem 1. August 2003; Abs. 1 erhielt 2009 seine heutige Fassung.
 
-**Praktisches Beispiel**: Bei der Abstimmung vom 9. Februar 2003 über das Asylgesetz stimmten die Schweizer sowohl der Volksinitiative «gegen Asylmissbrauch» als auch dem Gegenentwurf der Bundesversammlung zu. In der Stichfrage siegte der Gegenentwurf mit mehr Volksstimmen und trat in Kraft.
+**Beispiel (vereinfacht)**: Volk und Stände nehmen eine Initiative und den Gegenentwurf an. In der Stichfrage erhält die Initiative 52 % der Volksstimmen, aber nur 40 % der Standesstimmen; der Gegenentwurf erhält 48 % der Volksstimmen und 60 % der Standesstimmen. Die Summe beträgt 92 für die Initiative und 108 für den Gegenentwurf. Der Gegenentwurf tritt in Kraft.
 
 Die Regelung stärkt die Demokratie, indem sie Zwangslagen für reformwillige Stimmberechtigte vermeidet und den Volkswillen differenziert zur Geltung bringt.

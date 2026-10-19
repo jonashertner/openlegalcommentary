@@ -8,7 +8,7 @@
 
 ## 2. Collocazione sistematica
 
-**N. 3** L'art. 138 Cost. si trova nel Titolo 4° su "Popolo e Cantoni" e forma insieme all'art. 139 Cost. (iniziativa popolare per la revisione parziale) e all'art. 139a Cost. (iniziativa generica) lo strumentario dell'iniziativa costituzionale. La revisione totale secondo l'art. 138 Cost. rappresenta la forma più ampia di influenza democratica diretta sull'ordinamento costituzionale.
+**N. 3** L'art. 138 Cost. si trova nel Titolo 4° su "Popolo e Cantoni" e forma insieme all'art. 139 Cost. (iniziativa popolare per la revisione parziale) lo strumentario dell'iniziativa costituzionale; l'art. 139a Cost. (iniziativa popolare generica), accettato nel 2003, non è mai entrato in vigore ed è stato abrogato nel 2009. La revisione totale secondo l'art. 138 Cost. rappresenta la forma più ampia di influenza democratica diretta sull'ordinamento costituzionale.
 
 **N. 4** La disposizione è strettamente collegata con:
 - → Art. 139 Cost. (iniziativa popolare per la revisione parziale)

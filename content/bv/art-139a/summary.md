@@ -1,21 +1,21 @@
 # Art. 139a BV — Übersicht
 
-Art. 139a BV regelt die Prüfung von eidgenössischen Volksinitiativen auf ihre Vereinbarkeit mit dem Völkerrecht. Diese Bestimmung wurde 2018 als indirekter Gegenvorschlag zur zurückgezogenen Selbstbestimmungsinitiative geschaffen und trat am 1. Januar 2019 in Kraft (BBl 2019 219).
+**Art. 139a BV ist aufgehoben.** Die Bestimmung sollte die «allgemeine Volksinitiative» einführen. Volk und Stände nahmen sie am 9. Februar 2003 an. Sie trat aber nie in Kraft und wurde in der Volksabstimmung vom 27. September 2009 wieder aufgehoben (AS 2003 1949; AS 2009 6409).
 
-**Was regelt die Norm?**
+**Was hätte die Norm gebracht?**
 
-Die Bundesversammlung muss bei jeder gültigen Verfassungsinitiative prüfen, ob diese mit völkerrechtlichen Verpflichtungen der Schweiz vereinbar ist. Dies umfasst alle Arten des Völkerrechts — von völkerrechtlichen Verträgen bis hin zu Völkergewohnheitsrecht. Falls eine Unvereinbarkeit festgestellt wird, müssen Bundesrat und Bundesversammlung die Stimmberechtigten über die «Bedeutung und Tragweite» einer Annahme der Initiative informieren.
+Mit einer allgemeinen Volksinitiative hätten die Stimmberechtigten ein Anliegen in allgemeinen Worten einreichen können. Anders als heute hätten sie damit nicht nur eine Änderung der Bundesverfassung, sondern auch eine Änderung eines Bundesgesetzes anregen können. Das Parlament hätte entschieden, ob das Anliegen in der Verfassung oder in einem Gesetz umgesetzt wird. Es hätte dem Umsetzungstext einen Gegenentwurf gegenüberstellen können. Und wer fand, das Parlament habe die Initiative nicht nach ihrem Inhalt und Zweck umgesetzt, hätte beim Bundesgericht Beschwerde führen können (BBl 2006 5261, 5262).
 
-**Wer ist betroffen?**
+**Warum trat sie nie in Kraft?**
 
-Direkt betroffen sind die Initiativkomitees, deren Begehren geprüft werden, sowie die Stimmberechtigten, die vollständige Informationen über mögliche völkerrechtliche Konflikte erhalten sollen. Die Bundesversammlung trägt die Hauptverantwortung für das Prüfungsverfahren, während der Bundesrat bei der Information der Öffentlichkeit mitwirkt.
+Für die neue Initiative brauchte es ein Ausführungsgesetz. Der Bundesrat legte es 2006 vor (BBl 2006 5261). Dabei zeigte sich, wie kompliziert das Verfahren geworden wäre: Je nach Entscheid der beiden Räte über die Rechtsstufe und einen Gegenentwurf wären viele verschiedene Abstimmungsvarianten möglich gewesen. Nationalrat und Ständerat traten deshalb nicht auf das Gesetz ein. Danach schlug das Parlament vor, ganz auf das neue Volksrecht zu verzichten. Volk und Stände stimmten dem am 27. September 2009 zu (BBl 2008 2891, 2907).
 
-**Was sind die Rechtsfolgen?**
+**Was gilt heute?**
 
-Im Unterschied zu Art. 139 Abs. 3 BV führt eine festgestellte Völkerrechtswidrigkeit nicht zur Ungültigerklärung der Initiative. Die Hauptrechtsfolge besteht in einer verstärkten Informationspflicht: Die Abstimmungsunterlagen müssen objektiv und verständlich über die Konsequenzen einer Annahme aufklären. Die Initiative bleibt gültig und kommt zur Abstimmung.
+- Eine Volksinitiative auf Bundesebene verlangt immer eine Änderung der **Bundesverfassung** (Art. 138 und 139 BV). Eine Volksinitiative für ein Bundesgesetz gibt es nicht.
+- Eine Initiative auf Teilrevision der Verfassung kann weiterhin als **allgemeine Anregung** eingereicht werden. Ist das Parlament einverstanden, arbeitet es den Verfassungstext aus (Art. 139 Abs. 2 und 4 BV).
+- Art. 139a BV kann weder vor Behörden noch vor Gerichten angerufen werden.
 
 **Konkretes Beispiel**
 
-Eine Volksinitiative verlangt, dass die Schweiz aus der Europäischen Menschenrechtskonvention austritt. Die Bundesversammlung stellt fest, dass dies mit völkerrechtlichen Verpflichtungen unvereinbar wäre. Die Initiative wird nicht ungültig erklärt, aber die Abstimmungsunterlagen müssen detailliert erläutern, welche rechtlichen und politischen Folgen ein Austritt hätte — etwa der Wegfall des Menschenrechtsschutzes oder diplomatische Konsequenzen.
-
-Art. 139a BV stärkt somit die direkte Demokratie durch vollständige Information, ohne die Volksrechte durch zusätzliche Ungültigkeitsgründe einzuschränken. Das Volk entscheidet in Kenntnis aller Konsequenzen (BBl 2017 5355, 5380).
+Eine Gruppe möchte, dass ein bestimmtes Bundesgesetz geändert wird. Mit Art. 139a BV hätte sie eine allgemeine Volksinitiative einreichen können, und das Parlament hätte die Gesetzesänderung ausgearbeitet. Heute bleiben ihr andere Wege: eine Volksinitiative auf Änderung der Verfassung, eine Petition an das Parlament (Art. 33 BV) oder, wenn das Parlament ein Gesetz beschlossen hat, das Referendum dagegen (Art. 141 BV).

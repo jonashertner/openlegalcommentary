@@ -8,7 +8,7 @@
 
 ## 2. Systematische Einordnung
 
-**N. 3** Art. 138 BV steht im 4. Titel über "Volk und Stände" und bildet zusammen mit Art. 139 BV (Volksinitiative auf Teilrevision) und Art. 139a BV (Allgemeine Initiative) das Instrumentarium der Verfassungsinitiative. Die Totalrevision nach Art. 138 BV stellt die umfassendste Form der direktdemokratischen Einwirkung auf die Verfassungsordnung dar.
+**N. 3** Art. 138 BV steht im 4. Titel über "Volk und Stände" und bildet zusammen mit Art. 139 BV (Volksinitiative auf Teilrevision) das Instrumentarium der Verfassungsinitiative; der 2003 angenommene Art. 139a BV (allgemeine Volksinitiative) ist nie in Kraft getreten und wurde 2009 aufgehoben. Die Totalrevision nach Art. 138 BV stellt die umfassendste Form der direktdemokratischen Einwirkung auf die Verfassungsordnung dar.
 
 **N. 4** Die Bestimmung steht in engem Zusammenhang mit:
 - → Art. 139 BV (Volksinitiative auf Teilrevision)

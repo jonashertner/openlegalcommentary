@@ -8,7 +8,7 @@
 
 ## 2. Classement systématique
 
-**N. 3** L'art. 138 Cst. figure dans le 4e titre concernant « Peuple et cantons » et forme avec l'art. 139 Cst. (initiative populaire pour la révision partielle) et l'art. 139a Cst. (initiative générale) l'instrumentaire de l'initiative constitutionnelle. La révision totale selon l'art. 138 Cst. représente la forme la plus étendue de l'influence démocratique directe sur l'ordre constitutionnel.
+**N. 3** L'art. 138 Cst. figure dans le 4e titre concernant « Peuple et cantons » et forme avec l'art. 139 Cst. (initiative populaire pour la révision partielle) l'instrumentaire de l'initiative constitutionnelle ; l'art. 139a Cst. (initiative populaire générale), accepté en 2003, n'est jamais entré en vigueur et a été abrogé en 2009. La révision totale selon l'art. 138 Cst. représente la forme la plus étendue de l'influence démocratique directe sur l'ordre constitutionnel.
 
 **N. 4** La disposition est en relation étroite avec :
 - → Art. 139 Cst. (initiative populaire pour la révision partielle)

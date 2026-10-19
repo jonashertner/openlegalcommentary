@@ -1,73 +1,46 @@
 # Art. 139a BV — Rechtsprechung
 
-Art. 139a BV wurde 2019 in die Bundesverfassung aufgenommen und ist bisher in der Rechtsprechung kaum zur Anwendung gekommen. Es existieren daher keine BGE, die diese Bestimmung direkt interpretieren oder anwenden. Die nachfolgenden Entscheide behandeln die grundlegenden verfassungsrechtlichen Prinzipien, die zur Einführung von Art. 139a BV führten, sowie verwandte Fragen des Verhältnisses zwischen Völkerrecht und Landesrecht bei Volksinitiativen.
+Art. 139a BV ist nie in Kraft getreten und wurde 2009 aufgehoben (AS 2003 1949; AS 2009 6409). Es gibt deshalb keine Rechtsprechung, die die Bestimmung anwendet. Das Bundesgericht hat die 2003 angenommene Fassung aber in zwei Entscheiden als Auslegungshilfe herangezogen.
 
-## I. Grundsätzliche Prinzipien des Verhältnisses von Völkerrecht und Landesrecht
+## I. Bezugnahmen auf Art. 139a BV (Fassung 2002)
 
-### Zwingendes Völkerrecht (ius cogens)
+**BGE 129 I 366 E. 2.3**
+27. August 2003
+Einheit der Materie bei einer Änderung der Zürcher Kantonsverfassung (Verhältnis von Kirchen und Staat). Das Bundesgericht zählt Art. 139a Abs. 2 BV in der Fassung von 2002 zu den Bestimmungen, die bei eidgenössischen Volksinitiativen die Einheit der Materie verlangen.
 
-**BGE 133 II 450 E. 7**
-14. November 2007
-Das Bundesgericht definiert zwingendes Völkerrecht und dessen Vorrang vor nationalem Recht.
-Dieser Entscheid ist für Art. 139a BV relevant, da er die Grenzen des imperativen Völkerrechts bestimmt, die gemäss Art. 139a Abs. 3 BV bei der Gültigkeitsprüfung von Verfassungsinitiativen zu beachten sind.
+> «Die neue Bundesverfassung begnügt sich in Art. 139 Abs. 2 und Art. 139a Abs. 2 (Fassung gemäss Bundesbeschluss über die Änderung der Volksrechte, AS 2003 S. 1949 und 1953) sowie in Art. 194 Abs. 2 damit, bei eidgenössischen Volksinitiativen und Teilrevisionen der Verfassung die Beachtung der Einheit der Materie zu fordern»
 
-> «Zwingendes Völkerrecht (ius cogens) im Sinne von Art. 53 der Wiener Vertragsrechtskonvention umfasst die Gesamtheit der zwingenden Normen des allgemeinen Völkerrechts, die von der internationalen Staatengemeinschaft in ihrer Gesamtheit als Normen anerkannt werden, von denen nicht abgewichen werden darf und die nur durch eine spätere Norm des allgemeinen Völkerrechts derselben Rechtsnatur geändert werden können.»
+**BGer 1P.470/2005 vom 23. Dezember 2005 E. 3.1**
+Die jurassische Volksinitiative «Contre l'aérodrome de Bressaucourt» verlangte eine konsultative Volksabstimmung und war für ungültig erklärt worden; das Bundesgericht bestätigte dies. Zur Frage, ob eine kantonale Initiative nur auf Rechtssätze gerichtet sein kann, billigte es eine Auslegung, die sich auch auf den Wortlaut von Art. 139a BV stützte, der jenem von Art. 75 Abs. 1 KV/JU gleiche.
 
-### Verhältnismässigkeitsprüfung bei völkerrechtswidrigen Initiativen
+> «Le texte de cette disposition est similaire à celui de l'art. 75 al. 1 Cst./JU; or, selon le message du Conseil fédéral, l'initiative législative consacrée à cette disposition ne peut concerner que des règles de droit (FF 1997 p. 465).»
 
-**BGE 139 I 16 E. 5.5.1**
-19. Dezember 2012
-Das Bundesgericht entwickelt Kriterien für den Umgang mit völkerrechtswidrigen Volksinitiativen vor Einführung von Art. 139a BV.
-Obwohl dieser Entscheid vor der Einführung von Art. 139a BV erging, zeigt er die Rechtsprobleme auf, die zur Schaffung des neuen Artikels führten.
+## II. Verwechslungsgefahr: Art. 139a OG
 
-> «Bei einem unauflösbaren Widerspruch zwischen Völkerrecht und der vom Volk angenommenen Verfassungsbestimmung hat das Völkerrecht grundsätzlich Vorrang, sofern es sich um zwingendes Völkerrecht handelt oder die völkerrechtlichen Verpflichtungen der Respektierung der Menschenrechte dienen.»
+Viele Treffer für «Art. 139a» in der Rechtsprechung betreffen Art. 139a des früheren Bundesgesetzes über die Organisation der Bundesrechtspflege (OG): die Revision eines bundesgerichtlichen Urteils, nachdem der Europäische Gerichtshof für Menschenrechte eine Verletzung der EMRK festgestellt hat. Heute regelt dies Art. 122 BGG. Mit Art. 139a BV haben diese Entscheide nichts zu tun.
 
-## II. Gültigkeitsprüfung von Volksinitiativen
+**BGE 123 I 283**
+20. Oktober 1997
+Revision wegen Verletzung der EMRK nach Art. 139a OG; Beginn der Revisionsfrist und Verhältnis zu Art. 50 EMRK.
 
-### Materielle Gültigkeitsprüfung
+**BGE 124 II 480**
+24. August 1998
+Art. 139a OG ist auch auf Entscheide anwendbar, die vor seinem Inkrafttreten ergangen sind.
 
-**BGE 143 I 129 E. 2.1**
+> «Die Revision nach Art. 139a OG ist nur zulässig, wenn Wiedergutmachung nicht anderweitig möglich ist.»
+
+## III. Verwandte Rechtsprechung zur allgemeinen Anregung im kantonalen Recht
+
+Die Frage, die das Bundesgericht nach Art. 189 Abs. 1bis BV (Fassung 2002) hätte beurteilen sollen, ob nämlich ein Parlament ein allgemein formuliertes Volksbegehren inhaltlich treu umsetzt, stellt sich im kantonalen Recht weiterhin. Die folgenden Entscheide betreffen kantonale Initiativen. Sie veranschaulichen die Problematik, legen aber nicht Art. 139a BV aus.
+
+**BGE 141 I 186 E. 5**
+27. Mai 2015
+Umsetzung der Zürcher Kulturlandinitiative, die als allgemeine Anregung angenommen worden war. Der Kantonsrat war auf die Umsetzungsvorlage nicht eingetreten; das Bundesgericht erkannte darin eine Verletzung der politischen Rechte (Art. 34 Abs. 1 BV).
+
+> «Mit dem Beschluss, auf die ihm vom Regierungsrat unterbreitete Umsetzungsvorlage nicht einzutreten, hat der Kantonsrat die Kulturlandinitiative auch inhaltlich nicht korrekt umgesetzt und damit die politischen Rechte der Stimmbürger verletzt»
+
+**BGE 143 I 129 E. 2.4**
 14. Dezember 2016
-Das Bundesgericht präzisiert die Anforderungen an die materielle Vereinbarkeit von Volksinitiativen mit übergeordnetem Recht.
-Diese Grundsätze sind für die Anwendung von Art. 139a BV relevant, da sie das Prüfungsverfahren für völkerrechtswidrige Initiativen prägen.
+Ungültigerklärung einer Freiburger Verfassungsinitiative in der Form der allgemeinen Anregung wegen Verletzung des Diskriminierungsverbots (Art. 8 Abs. 2 BV). Auch eine allgemeine Anregung darf nicht über den Willen der Unterzeichnenden hinaus ausgelegt werden.
 
-> «Kantonale Volksinitiativen müssen mit dem übergeordneten Recht vereinbar sein. Die Prüfung der materiellen Rechtmässigkeit erfolgt restriktiv und beschränkt sich auf offensichtliche und schwerwiegende Verstösse gegen höherrangiges Recht.»
-
-**BGE 129 I 232 E. 3.2**
-7. April 2003
-Das Bundesgericht legt die Grenzen der Ungültigerklärung von Volksinitiativen fest.
-Dieser Entscheid prägt das Verständnis der Ausnahmesituation, in der Initiativen für ungültig erklärt werden können - ein Prinzip, das in Art. 139a BV kodifiziert wurde.
-
-> «Eine Volksinitiative kann nur dann für ungültig erklärt werden, wenn sie gegen zwingendes Völkerrecht verstösst. Dies ergibt sich aus der fundamentalen Bedeutung der Volksrechte in der schweizerischen Demokratie.»
-
-## III. Anwendung seit 2019
-
-### Keine direkte Rechtsprechung zu Art. 139a BV
-
-Seit dem Inkrafttreten von Art. 139a BV am 1. Januar 2019 sind keine BGE ergangen, die diese Bestimmung direkt anwenden. Dies erklärt sich dadurch, dass:
-
-- Keine eidgenössischen Verfassungsinitiativen zur Abstimmung gekommen sind, die Art. 139a BV ausgelöst hätten
-- Das Prüfungsverfahren gemäss Art. 139a BV noch nicht praktisch zur Anwendung kam
-- Die Bundesversammlung bisher keine Verfassungsinitiative als völkerrechtswidrig eingestuft hat
-
-### Verwandte kantonale Rechtsprechung
-
-**VB.2023.00485 des Verwaltungsgerichts Zürich**
-12. Oktober 2023
-Das Zürcher Verwaltungsgericht wendet die Grundsätze der Gültigkeitsprüfung auf eine kommunale Initiative an.
-Dieser Entscheid zeigt die praktische Anwendung der Prinzipien, die auch Art. 139a BV zugrunde liegen, auf untergeordneter Ebene.
-
-> «Die Prüfung der Vereinbarkeit mit übergeordnetem Recht erfolgt zurückhaltend und beschränkt sich auf eindeutige Verstösse gegen zwingende Rechtsnormen.»
-
-## IV. Rechtsprechung zur Selbstbestimmungsinitiative (Vorgeschichte zu Art. 139a BV)
-
-### Diskussion über völkerrechtswidrige Initiativen
-
-**Urteil 1C_591/2018 des Bundesgerichts**
-12. November 2018
-Das Bundesgericht behandelt Beschwerden zur Selbstbestimmungsinitiative, die zu den Überlegungen führte, die zur Einführung von Art. 139a BV beitrugen.
-Dieser Entscheid illustriert die verfassungsrechtlichen Spannungen, die Art. 139a BV zu lösen suchte.
-
-> «Die Initiative wirft grundsätzliche Fragen zum Verhältnis zwischen Völkerrecht und Landesrecht auf, die einer verfassungsrechtlichen Klärung bedürfen.»
-
-Die praktische Bedeutung von Art. 139a BV wird sich erst bei künftigen Verfassungsinitiativen zeigen, die das in Abs. 3 definierte Verfahren auslösen. Die bisherige Rechtsprechung zu verwandten Fragen bietet jedoch wichtige Auslegungshilfen für die zukünftige Anwendung dieser Bestimmung.
+> «Auch wenn die Initiative als allgemeine Anregung ausgestaltet ist, kann sie deswegen nicht in einem weiteren Sinne interpretiert werden, ohne dass damit der Wille der Unterzeichner missachtet würde»
