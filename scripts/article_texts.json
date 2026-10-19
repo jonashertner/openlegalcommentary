@@ -73919,5 +73919,597 @@
     ],
     "47_a": [],
     "71_a_71_d": []
+  },
+  "BGFA": {
+    "1": [
+      {
+        "num": null,
+        "text": "Dieses Gesetz gewährleistet die Freizügigkeit der Anwältinnen und Anwälte und legt die Grundsätze für die Ausübung des Anwaltsberufs in der Schweiz fest."
+      }
+    ],
+    "2": [
+      {
+        "num": "1",
+        "text": "Dieses Gesetz gilt für Personen, die über ein Anwaltspatent verfügen und in der Schweiz im Rahmen des Anwaltsmonopols Parteien vor Gerichtsbehörden vertreten."
+      },
+      {
+        "num": "2",
+        "text": "Es bestimmt die Modalitäten für die Vertretung von Parteien vor Gerichtsbehörden durch Anwältinnen und Anwälte, die:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "Staatsangehörige von Mitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) sind;"
+          },
+          {
+            "letter": "b.",
+            "text": "Staatsangehörige des Vereinigten Königreichs von Grossbritannien und Nordirlands sind, die von Teil Vier des Abkommens vom 25. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens erfasst werden;"
+          },
+          {
+            "letter": "c.",
+            "text": "von Anhang A des Abkommens vom 14. Juni 2023 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Anerkennung von Berufsqualifikationen erfasst sind."
+          }
+        ]
+      },
+      {
+        "num": "3",
+        "text": "Diese Modalitäten gelten auch für Schweizerinnen und Schweizer, die berechtigt sind, den Anwaltsberuf unter einer der im Anhang aufgeführten Berufsbezeichnungen in einem Mitgliedstaat der EU oder der EFTA auszuüben."
+      },
+      {
+        "num": "4",
+        "text": "Die Bestimmungen über Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA gelten sinngemäss auch für Anwältinnen und Anwälte des Vereinigten Königreichs nach Absatz 2 Buchstaben b und c; davon ausgenommen sind die Bestimmungen zum freien Dienstleistungsverkehr (Art. 21 und 22)."
+      }
+    ],
+    "3": [
+      {
+        "num": "1",
+        "text": "Das Recht der Kantone, im Rahmen dieses Gesetzes die Anforderungen für den Erwerb des Anwaltspatentes festzulegen, bleibt gewahrt."
+      },
+      {
+        "num": "2",
+        "text": "Das Gleiche gilt für das Recht der Kantone, Inhaberinnen und Inhaber ihres kantonalen Anwaltspatentes vor den eigenen Gerichtsbehörden Parteien vertreten zu lassen."
+      }
+    ],
+    "4": [
+      {
+        "num": null,
+        "text": "Anwältinnen und Anwälte, die in einem kantonalen Anwaltsregister eingetragen sind, können in der Schweiz ohne weitere Bewilligung Parteien vor Gerichtsbehörden vertreten."
+      }
+    ],
+    "5": [
+      {
+        "num": "1",
+        "text": "Jeder Kanton führt ein Register der Anwältinnen und Anwälte, die über eine Geschäftsadresse auf dem Kantonsgebiet verfügen und die Voraussetzungen nach den Artikeln 7 und 8 erfüllen."
+      },
+      {
+        "num": "2",
+        "text": "Das Register enthält folgende persönliche Daten:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "den Namen, den Vornamen, das Geburtsdatum und den Heimatort oder die Staatsangehörigkeit;"
+          },
+          {
+            "letter": "b.",
+            "text": "eine Kopie des Anwaltspatents;"
+          },
+          {
+            "letter": "c.",
+            "text": "die Bescheinigungen, welche belegen, dass die Voraussetzungen nach Artikel 8 erfüllt sind;"
+          },
+          {
+            "letter": "d.",
+            "text": "die Geschäftsadressen sowie gegebenenfalls den Namen des Anwaltsbüros;"
+          },
+          {
+            "letter": "e.",
+            "text": "die nicht gelöschten Disziplinarmassnahmen."
+          }
+        ]
+      },
+      {
+        "num": "3",
+        "text": "Es wird von der kantonalen Aufsichtsbehörde über die Anwältinnen und Anwälte geführt."
+      }
+    ],
+    "6": [
+      {
+        "num": "1",
+        "text": "Anwältinnen und Anwälte, die über ein kantonales Anwaltspatent verfügen und Parteien vor Gerichtsbehörden vertreten wollen, lassen sich ins Register des Kantons eintragen, in dem sie ihre Geschäftsadresse haben."
+      },
+      {
+        "num": "2",
+        "text": "Die Aufsichtsbehörde trägt sie ein, wenn sie festgestellt hat, dass die Voraussetzungen nach den Artikeln 7 und 8 erfüllt sind."
+      },
+      {
+        "num": "3",
+        "text": "Sie veröffentlicht die Eintragung in einem amtlichen kantonalen Publikationsorgan."
+      },
+      {
+        "num": "4",
+        "text": "Gegen Eintragungen ins kantonale Register steht das Beschwerderecht auch dem Anwaltsverband des betroffenen Kantons zu."
+      }
+    ],
+    "7": [
+      {
+        "num": "1",
+        "text": "Für den Registereintrag müssen die Anwältinnen und Anwälte über ein Anwaltspatent verfügen. Ein solches kann von den Kantonen nur auf Grund folgender Voraussetzungen erteilt werden:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "ein juristisches Studium, das mit einem Lizentiat oder Master einer schweizerischen Hochschule oder einem gleichwertigen Hochschuldiplom eines Staates abgeschlossen wurde, der mit der Schweiz die gegenseitige Anerkennung vereinbart hat;"
+          },
+          {
+            "letter": "b.",
+            "text": "ein mindestens einjähriges Praktikum in der Schweiz, das mit einem Examen über die theoretischen und praktischen juristischen Kenntnisse abgeschlossen wurde."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "Kantone, in denen Italienisch Amtssprache ist, können ein dem Lizentiat oder dem Master gleichwertiges ausländisches Diplom anerkennen, das in italienischer Sprache erlangt worden ist."
+      },
+      {
+        "num": "3",
+        "text": "Für die Zulassung zum Praktikum genügt der Abschluss eines juristischen Studiums mit dem Bachelor."
+      }
+    ],
+    "8": [
+      {
+        "num": "1",
+        "text": "Für den Registereintrag müssen die Anwältinnen und Anwälte folgende persönliche Voraussetzungen erfüllen:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "sie müssen handlungsfähig sein;"
+          },
+          {
+            "letter": "b.",
+            "text": "es darf keine strafrechtliche Verurteilung vorliegen wegen Handlungen, die mit dem Anwaltsberuf nicht zu vereinbaren sind, es sei denn, diese Verurteilung erscheine nicht mehr im Privatauszug nach Artikel 41 des Strafregistergesetzes vom 17. Juni 2016;"
+          },
+          {
+            "letter": "c.",
+            "text": "es dürfen gegen sie keine Verlustscheine bestehen;"
+          },
+          {
+            "letter": "d.",
+            "text": "sie müssen in der Lage sein, den Anwaltsberuf unabhängig auszuüben; sie können Angestellte nur von Personen sein, die ihrerseits in einem kantonalen Register eingetragen sind."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "Anwältinnen und Anwälte, die bei anerkannten gemeinnützigen Organisationen angestellt sind, können sich ins Register eintragen lassen, sofern die Voraussetzungen nach Absatz 1 Buchstaben a–c erfüllt sind und sich die Tätigkeit der Parteivertretung strikte auf Mandate im Rahmen des von der betroffenen Organisation verfolgten Zwecks beschränkt."
+      }
+    ],
+    "9": [
+      {
+        "num": null,
+        "text": "Anwältinnen und Anwälte, die eine der Voraussetzungen für den Registereintrag nicht mehr erfüllen, werden im Register gelöscht."
+      }
+    ],
+    "10": [
+      {
+        "num": "1",
+        "text": "Einsicht in das Register erhalten:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "die eidgenössischen und kantonalen Gerichts- und Verwaltungsbehörden, vor denen die Anwältinnen und Anwälte auftreten;"
+          },
+          {
+            "letter": "b.",
+            "text": "die Gerichts- und Verwaltungsbehörden der Mitgliedstaaten der EU oder der EFTA, vor denen die im Register eingetragenen Anwältinnen und Anwälte auftreten;"
+          },
+          {
+            "letter": "c.",
+            "text": "die kantonalen Aufsichtsbehörden über die Anwältinnen und Anwälte;"
+          },
+          {
+            "letter": "d.",
+            "text": "die Anwältinnen und Anwälte in Bezug auf ihren Eintrag."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "Jede Person hat ein Recht auf Auskunft, ob eine Anwältin oder ein Anwalt im Register eingetragen ist und ob gegen sie oder ihn ein Berufsausübungsverbot verhängt ist."
+      }
+    ],
+    "10_a": [
+      {
+        "num": null,
+        "text": "Die Daten des Registers, die für die Zuweisung und Verwendung der Unternehmens-Identifikationsnummer nach dem Bundesgesetz vom 18. Juni 2010 über die Unternehmens-Identifikationsnummer erforderlich sind, werden dem Bundesamt für Statistik mitgeteilt."
+      }
+    ],
+    "11": [
+      {
+        "num": "1",
+        "text": "Anwältinnen und Anwälte verwenden diejenige Berufsbezeichnung, die ihnen mit ihrem Anwaltspatent erteilt worden ist, oder eine gleichwertige Berufsbezeichnung des Kantons, in dessen Register sie eingetragen sind."
+      },
+      {
+        "num": "2",
+        "text": "Im Geschäftsverkehr geben sie ihren Eintrag in einem kantonalen Register an."
+      }
+    ],
+    "12": [
+      {
+        "num": null,
+        "text": "Für Anwältinnen und Anwälte gelten folgende Berufsregeln:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "Sie üben ihren Beruf sorgfältig und gewissenhaft aus."
+          },
+          {
+            "letter": "b.",
+            "text": "Sie üben ihren Beruf unabhängig, in eigenem Namen und auf eigene Verantwortung aus."
+          },
+          {
+            "letter": "c.",
+            "text": "Sie meiden jeden Konflikt zwischen den Interessen ihrer Klientschaft und den Personen, mit denen sie geschäftlich oder privat in Beziehung stehen."
+          },
+          {
+            "letter": "d.",
+            "text": "Sie können Werbung machen, solange diese objektiv bleibt und solange sie dem Informationsbedürfnis der Öffentlichkeit entspricht."
+          },
+          {
+            "letter": "e.",
+            "text": "Sie dürfen vor Beendigung eines Rechtsstreits mit der Klientin oder dem Klienten keine Vereinbarung über die Beteiligung am Prozessgewinn als Ersatz für das Honorar abschliessen; sie dürfen sich auch nicht dazu verpflichten, im Falle eines ungünstigen Abschlusses des Verfahrens auf das Honorar zu verzichten."
+          },
+          {
+            "letter": "f.",
+            "text": "Sie haben eine Berufshaftpflichtversicherung nach Massgabe der Art und des Umfangs der Risiken, die mit ihrer Tätigkeit verbunden sind, abzuschliessen; die Versicherungssumme muss mindestens eine Million Franken pro Jahr betragen; anstelle der Haftpflichtversicherung können andere, gleichwertige Sicherheiten erbracht werden."
+          },
+          {
+            "letter": "g.",
+            "text": "Sie sind verpflichtet, in dem Kanton, in dessen Register sie eingetragen sind, amtliche Pflichtverteidigungen und im Rahmen der unentgeltlichen Rechtspflege Rechtsvertretungen zu übernehmen."
+          },
+          {
+            "letter": "h.",
+            "text": "Sie bewahren die ihnen anvertrauten Vermögenswerte getrennt von ihrem eigenen Vermögen auf."
+          },
+          {
+            "letter": "i.",
+            "text": "Sie klären ihre Klientschaft bei Übernahme des Mandates über die Grundsätze ihrer Rechnungsstellung auf und informieren sie periodisch oder auf Verlangen über die Höhe des geschuldeten Honorars."
+          },
+          {
+            "letter": "j.",
+            "text": "Sie teilen der Aufsichtsbehörde jede Änderung der sie betreffenden Daten im Register mit."
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "num": "1",
+        "text": "Anwältinnen und Anwälte unterstehen zeitlich unbegrenzt und gegenüber jedermann dem Berufsgeheimnis über alles, was ihnen infolge ihres Berufes von ihrer Klientschaft anvertraut worden ist. Die Entbindung verpflichtet sie nicht zur Preisgabe von Anvertrautem."
+      },
+      {
+        "num": "2",
+        "text": "Sie sorgen für die Wahrung des Berufsgeheimnisses durch ihre Hilfspersonen."
+      }
+    ],
+    "14": [
+      {
+        "num": null,
+        "text": "Jeder Kanton bezeichnet eine Behörde, welche die Anwältinnen und Anwälte beaufsichtigt, die auf seinem Gebiet Parteien vor Gerichtsbehörden vertreten."
+      }
+    ],
+    "15": [
+      {
+        "num": "1",
+        "text": "Die kantonalen Gerichts- und Verwaltungsbehörden melden der Aufsichtsbehörde ihres Kantons unverzüglich das Fehlen persönlicher Voraussetzungen nach Artikel 8 sowie Vorfälle, welche die Berufsregeln verletzen könnten."
+      },
+      {
+        "num": "2",
+        "text": "Die eidgenössischen Gerichts- und Verwaltungsbehörden melden der Aufsichtsbehörde des Kantons, in dem eine Anwältin oder ein Anwalt eingetragen ist, unverzüglich das Fehlen persönlicher Voraussetzungen nach Artikel 8 sowie Vorfälle, welche die Berufsregeln verletzen könnten."
+      }
+    ],
+    "16": [
+      {
+        "num": "1",
+        "text": "Eröffnet eine Aufsichtsbehörde ein Disziplinarverfahren gegen Anwältinnen oder Anwälte, die nicht im Register dieses Kantons eingetragen sind, so informiert sie die Aufsichtsbehörde des Kantons, in dessen Register sie eingetragen sind."
+      },
+      {
+        "num": "2",
+        "text": "Beabsichtigt sie, eine Disziplinarmassnahme anzuordnen, so räumt sie der Aufsichtsbehörde des Kantons, in dessen Register die Anwältin oder der Anwalt eingetragen ist, die Möglichkeit ein, zum Ergebnis der Untersuchung Stellung zu nehmen."
+      },
+      {
+        "num": "3",
+        "text": "Das Ergebnis des Disziplinarverfahrens ist der Aufsichtsbehörde des Kantons mitzuteilen, in dessen Register die Anwältin oder der Anwalt eingetragen ist."
+      }
+    ],
+    "17": [
+      {
+        "num": "1",
+        "text": "Bei Verletzung dieses Gesetzes kann die Aufsichtsbehörde folgende Disziplinarmassnahmen anordnen:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "eine Verwarnung;"
+          },
+          {
+            "letter": "b.",
+            "text": "einen Verweis;"
+          },
+          {
+            "letter": "c.",
+            "text": "eine Busse bis zu 20 000 Franken;"
+          },
+          {
+            "letter": "d.",
+            "text": "ein befristetes Berufsausübungsverbot für längstens zwei Jahre;"
+          },
+          {
+            "letter": "e.",
+            "text": "ein dauerndes Berufsausübungsverbot."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "Eine Busse kann zusätzlich zu einem Berufsausübungsverbot angeordnet werden."
+      },
+      {
+        "num": "3",
+        "text": "Nötigenfalls kann die Aufsichtsbehörde die Berufsausübung vorsorglich verbieten."
+      }
+    ],
+    "18": [
+      {
+        "num": "1",
+        "text": "Ein Berufsausübungsverbot gilt auf dem gesamten Gebiet der Schweiz."
+      },
+      {
+        "num": "2",
+        "text": "Es wird den Aufsichtsbehörden der übrigen Kantone mitgeteilt."
+      }
+    ],
+    "19": [
+      {
+        "num": "1",
+        "text": "Die disziplinarische Verfolgung verjährt ein Jahr, nachdem die Aufsichtsbehörde vom beanstandeten Vorfall Kenntnis hatte."
+      },
+      {
+        "num": "2",
+        "text": "Die Frist wird durch jede Untersuchungshandlung der Aufsichtsbehörde unterbrochen."
+      },
+      {
+        "num": "3",
+        "text": "Die disziplinarische Verfolgung verjährt in jedem Fall zehn Jahre nach dem beanstandeten Vorfall."
+      },
+      {
+        "num": "4",
+        "text": "Stellt die Verletzung der Berufsregeln eine strafbare Handlung dar, gilt die vom Strafrecht vorgesehene längere Verjährungsfrist."
+      }
+    ],
+    "20": [
+      {
+        "num": "1",
+        "text": "Verwarnungen, Verweise und Bussen werden fünf Jahre nach ihrer Anordnung im Register gelöscht."
+      },
+      {
+        "num": "2",
+        "text": "Ein befristetes Berufsausübungsverbot wird zehn Jahre nach seiner Aufhebung im Register gelöscht."
+      }
+    ],
+    "21": [
+      {
+        "num": "1",
+        "text": "Angehörige von Mitgliedstaaten der EU oder der EFTA, die berechtigt sind, den Anwaltsberuf in ihrem Herkunftsstaat unter einer der im Anhang aufgeführten Berufsbezeichnungen auszuüben, können im freien Dienstleistungsverkehr in der Schweiz Parteien vor Gerichtsbehörden vertreten."
+      },
+      {
+        "num": "2",
+        "text": "Die dienstleistungserbringenden Anwältinnen und Anwälte werden nicht in die kantonalen Anwaltsregister eingetragen."
+      }
+    ],
+    "22": [
+      {
+        "num": null,
+        "text": "Die eidgenössischen und kantonalen Gerichtsbehörden, vor denen die dienstleistungserbringenden Anwältinnen und Anwälte auftreten, sowie die Aufsichtsbehörden über die Anwältinnen und Anwälte können verlangen, dass diese ihre Anwaltsqualifikation nachweisen."
+      }
+    ],
+    "23": [
+      {
+        "num": null,
+        "text": "Besteht für ein Verfahren Anwaltszwang, so sind die dienstleistungserbringenden Anwältinnen und Anwälte verpflichtet, im Einvernehmen mit einer Anwältin oder einem Anwalt zu handeln, die oder der in einem kantonalen Anwaltsregister eingetragen ist."
+      }
+    ],
+    "24": [
+      {
+        "num": null,
+        "text": "Die dienstleistungserbringenden Anwältinnen und Anwälte verwenden ihre ursprüngliche Berufsbezeichnung in der Amtssprache ihres Herkunftsstaats unter Angabe der Berufsorganisation, deren Zuständigkeit sie unterliegen, oder des Gerichts, bei dem sie nach den Vorschriften dieses Staats zugelassen sind."
+      }
+    ],
+    "25": [
+      {
+        "num": null,
+        "text": "Für die dienstleistungserbringenden Anwältinnen und Anwälte gelten die Berufsregeln nach Artikel 12 mit Ausnahme der Bestimmungen betreffend die amtliche Pflichtverteidigung und die unentgeltliche Rechtsvertretung (Bst. g) sowie den Registereintrag (Bst. j)."
+      }
+    ],
+    "26": [
+      {
+        "num": null,
+        "text": "Die Aufsichtsbehörde informiert die zuständige Stelle des Herkunftsstaats über Disziplinarmassnahmen, die sie gegenüber dienstleistungserbringenden Anwältinnen und Anwälten anordnet."
+      }
+    ],
+    "27": [
+      {
+        "num": "1",
+        "text": "Angehörige von Mitgliedstaaten der EU oder der EFTA, die berechtigt sind, den Anwaltsberuf in ihrem Herkunftsstaat unter einer der im Anhang aufgeführten Berufsbezeichnungen auszuüben, können in der Schweiz ständig Parteien vor Gerichtsbehörden vertreten, wenn sie bei einer kantonalen Aufsichtsbehörde über die Anwältinnen und Anwälte eingetragen sind."
+      },
+      {
+        "num": "2",
+        "text": "Die Artikel 23–25 gelten für diese Anwältinnen und Anwälte ebenfalls."
+      }
+    ],
+    "28": [
+      {
+        "num": "1",
+        "text": "Die Aufsichtsbehörde führt eine öffentliche Liste der Angehörigen von Mitgliedstaaten der EU oder der EFTA, die in der Schweiz unter ihrer ursprünglichen Berufsbezeichnung ständig Parteien vor Gerichtsbehörden vertreten dürfen."
+      },
+      {
+        "num": "2",
+        "text": "Die Anwältinnen und Anwälte tragen sich bei der Aufsichtsbehörde des Kantons ein, in dem sie eine Geschäftsadresse haben. Sie weisen ihre Anwaltsqualifikation mit einer Bescheinigung über ihre Eintragung bei der zuständigen Stelle des Herkunftsstaats nach; diese Bescheinigung darf nicht älter als drei Monate sein."
+      },
+      {
+        "num": "3",
+        "text": "Die Aufsichtsbehörde informiert die zuständige Stelle des Herkunftsstaats über die Eintragung in die Liste."
+      }
+    ],
+    "29": [
+      {
+        "num": "1",
+        "text": "Bevor die Aufsichtsbehörde ein Disziplinarverfahren gegen Angehörige von Mitgliedstaaten der EU oder der EFTA einleitet, die in der Schweiz ständig Parteien vor Gerichtsbehörden vertreten, informiert sie die zuständige Stelle des Herkunftsstaats."
+      },
+      {
+        "num": "2",
+        "text": "Die Aufsichtsbehörde arbeitet mit der zuständigen Stelle des Herkunftsstaats während des Disziplinarverfahrens zusammen und gibt ihr insbesondere die Möglichkeit zur Stellungnahme."
+      }
+    ],
+    "30": [
+      {
+        "num": "1",
+        "text": "Angehörige von Mitgliedstaaten der EU oder der EFTA können sich, ohne dass sie die Voraussetzungen nach Artikel 7 Buchstabe b erfüllen, in ein kantonales Anwaltsregister eintragen lassen, wenn sie:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "eine Eignungsprüfung bestanden haben (Art. 31); oder"
+          },
+          {
+            "letter": "b.",
+            "text": "während mindestens drei Jahren in der Liste der unter ihrer ursprünglichen Berufsbezeichnung tätigen Anwältinnen und Anwälte eingetragen waren und nachweisen, dass sie:1. während dieser Zeit effektiv und regelmässig im schweizerischen Recht tätig waren, oder2. im schweizerischen Recht während eines kürzeren Zeitraums tätig waren und sich in einem Gespräch über ihre beruflichen Fähigkeiten ausgewiesen haben (Art. 32)."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "Sie haben damit die gleichen Rechte und Pflichten wie die Anwältinnen und Anwälte, die über ein kantonales Anwaltspatent verfügen und in einem kantonalen Anwaltsregister eingetragen sind."
+      }
+    ],
+    "31": [
+      {
+        "num": "1",
+        "text": "Zur Eignungsprüfung zugelassen werden Angehörige von Mitgliedstaaten der EU oder der EFTA, wenn sie:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "ein mindestens dreijähriges Studium an einer Hochschule absolviert und gegebenenfalls die über das Studium hinaus erforderliche berufliche Ausbildung abgeschlossen haben; und"
+          },
+          {
+            "letter": "b.",
+            "text": "über ein Diplom verfügen, das sie zur Ausübung des Anwaltsberufs in einem Mitgliedstaat der EU oder der EFTA berechtigt."
+          }
+        ]
+      },
+      {
+        "num": "2",
+        "text": "Die Anwältinnen und Anwälte müssen die Eignungsprüfung vor der Anwaltsprüfungskommission des Kantons ablegen, in dessen Register sie sich eintragen lassen wollen."
+      },
+      {
+        "num": "3",
+        "text": "Die Eignungsprüfung erstreckt sich über Sachgebiete, die Gegenstand der kantonalen Anwaltsprüfung sind und die sich wesentlich von denjenigen unterscheiden, die im Rahmen der Ausbildung in ihrem Herkunftsstaat bereits geprüft worden sind. Ihr Inhalt bestimmt sich auch nach der Berufserfahrung der Anwältinnen und Anwälte."
+      },
+      {
+        "num": "4",
+        "text": "Die Eignungsprüfung kann zweimal wiederholt werden."
+      }
+    ],
+    "32": [
+      {
+        "num": "1",
+        "text": "Das Gespräch zur Prüfung der beruflichen Fähigkeiten wird von der Anwaltsprüfungskommission des Kantons geführt, in dessen Register die Anwältin oder der Anwalt sich eintragen lassen will."
+      },
+      {
+        "num": "2",
+        "text": "Sie stützt sich namentlich auf die von der Anwältin oder dem Anwalt vorgelegten Informationen und Unterlagen über die in der Schweiz ausgeübten Tätigkeiten."
+      },
+      {
+        "num": "3",
+        "text": "Sie berücksichtigt die Kenntnisse und die Berufserfahrung der Anwältin oder des Anwalts im schweizerischen Recht, ferner die Teilnahme an Kursen und Seminaren über das schweizerische Recht."
+      }
+    ],
+    "33": [
+      {
+        "num": null,
+        "text": "Die Anwältinnen und Anwälte können neben der Berufsbezeichnung des Kantons, in dessen Register sie eingetragen sind, auch ihre ursprüngliche Berufsbezeichnung verwenden."
+      }
+    ],
+    "34": [
+      {
+        "num": "1",
+        "text": "Die Kantone regeln das Verfahren."
+      },
+      {
+        "num": "2",
+        "text": "Sie sehen für die Prüfung der Voraussetzungen für die Eintragung ins kantonale Anwaltsregister ein einfaches und rasches Verfahren vor."
+      }
+    ],
+    "34_a": [
+      {
+        "num": "1",
+        "text": "Der Bundesrat kann im Anwendungsbereich dieses Gesetzes internationale Verträge über die Anerkennung von ausländischen Berufsbezeichnungen, die zur Ausübung des Anwaltsberufs berechtigen, abschliessen."
+      },
+      {
+        "num": "2",
+        "text": "Er stellt dabei namentlich sicher, dass:"
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "letter": "a.",
+            "text": "die Anwältinnen und Anwälte den Berufsregeln nach Artikel 25 unterstellt sind; und"
+          },
+          {
+            "letter": "b.",
+            "text": "sich die Eintragung in das kantonale Anwaltsregister nach den Grundsätzen richtet, die für Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA gelten."
+          }
+        ]
+      },
+      {
+        "num": "3",
+        "text": "Er kann Ausführungsbestimmungen zur Umsetzung dieser Verträge erlassen."
+      }
+    ],
+    "35": [
+      {
+        "num": null,
+        "text": "…"
+      }
+    ],
+    "36": [
+      {
+        "num": null,
+        "text": "Personen, die auf Grund bisherigen kantonalen Rechts über ein Anwaltspatent verfügen, sind ins kantonale Anwaltsregister einzutragen, sofern sie in den anderen Kantonen nach Artikel 196 Ziffer 5 der Bundesverfassung eine Berufsausübungsbewilligung erhalten hätten."
+      }
+    ]
   }
 }
