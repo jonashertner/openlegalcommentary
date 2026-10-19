@@ -192,6 +192,8 @@ export interface ArticleContent {
   dirName: string;
   slug: string;
   isFallback: boolean;
+  /** Layers shown in German because no translation exists yet. */
+  fallbackLayers: string[];
 }
 
 export interface LawStats {
@@ -224,9 +226,16 @@ function readFileIfExists(filePath: string): string {
   }
 }
 
-function isPlaceholder(content: string): boolean {
+/** Scaffolded layer files hold only a heading and "Art. 1 ZGB — Art. 1 ZGB". */
+export function isPlaceholder(content: string): boolean {
   const lines = content.trim().split('\n').filter((l) => l.trim().length > 0);
   return lines.length <= 3 && lines.reduce((sum, l) => sum + l.length, 0) <= 200;
+}
+
+const LAYERS = ['summary', 'doctrine', 'caselaw'] as const;
+
+function dirHasCommentary(artDir: string): boolean {
+  return LAYERS.some((layer) => !isPlaceholder(readFileIfExists(path.join(artDir, `${layer}.md`))));
 }
 
 export function loadArticleMeta(law: string, dirName: string): ArticleMeta | null {
@@ -245,7 +254,7 @@ export function loadArticle(law: string, dirName: string, lang: string = 'de'): 
   const meta = loadArticleMeta(law, dirName);
   if (!meta) return null;
 
-  let isFallback = false;
+  const fallbackLayers: string[] = [];
   function loadLayer(layer: string): string {
     if (lang === 'de') {
       return readFileIfExists(path.join(artDir, `${layer}.md`));
@@ -254,14 +263,19 @@ export function loadArticle(law: string, dirName: string, lang: string = 'de'): 
     if (langFile.trim().length > 0) return langFile;
     // Fallback to German
     const deFile = readFileIfExists(path.join(artDir, `${layer}.md`));
-    if (deFile.trim().length > 0) isFallback = true;
+    if (!isPlaceholder(deFile)) fallbackLayers.push(layer);
     return deFile;
   }
 
-  const summary = loadLayer('summary');
-  const doctrine = loadLayer('doctrine');
-  const caselaw = loadLayer('caselaw');
-  return { meta, summary, doctrine, caselaw, dirName, slug: dirNameToSlug(dirName), isFallback };
+  // Scaffold placeholders count as "no content" so the page can say so.
+  const real = (text: string) => (isPlaceholder(text) ? '' : text);
+  const summary = real(loadLayer('summary'));
+  const doctrine = real(loadLayer('doctrine'));
+  const caselaw = real(loadLayer('caselaw'));
+  return {
+    meta, summary, doctrine, caselaw, dirName, slug: dirNameToSlug(dirName),
+    isFallback: fallbackLayers.length > 0, fallbackLayers,
+  };
 }
 
 export function listArticleDirs(law: string): string[] {
@@ -285,14 +299,22 @@ export function listArticleDirs(law: string): string[] {
   }
 }
 
-export function listArticles(law: string): { meta: ArticleMeta; dirName: string; slug: string }[] {
+export interface ArticleListItem {
+  meta: ArticleMeta;
+  dirName: string;
+  slug: string;
+  hasCommentary: boolean;
+}
+
+export function listArticles(law: string): ArticleListItem[] {
   const dirs = listArticleDirs(law);
   if (dirs.length > 0) {
-    const articles: { meta: ArticleMeta; dirName: string; slug: string }[] = [];
+    const articles: ArticleListItem[] = [];
     for (const dirName of dirs) {
       const meta = loadArticleMeta(law, dirName);
       if (meta) {
-        articles.push({ meta, dirName, slug: dirNameToSlug(dirName) });
+        const hasCommentary = dirHasCommentary(path.join(CONTENT_ROOT, law.toLowerCase(), dirName));
+        articles.push({ meta, dirName, slug: dirNameToSlug(dirName), hasCommentary });
       }
     }
     return articles;
@@ -318,7 +340,7 @@ export function listArticles(law: string): { meta: ArticleMeta; dirName: string;
         in_force_since: '',
         layers: {},
       };
-      return { meta, dirName, slug };
+      return { meta, dirName, slug, hasCommentary: false };
     });
   }
 
@@ -346,7 +368,7 @@ export function listArticles(law: string): { meta: ArticleMeta; dirName: string;
       in_force_since: '',
       layers: {},
     };
-    return { meta, dirName, slug };
+    return { meta, dirName, slug, hasCommentary: false };
   });
 }
 
@@ -364,9 +386,7 @@ export function getLawStats(law: string): LawStats {
   }
   let withContent = 0;
   for (const dirName of dirs) {
-    const artDir = path.join(CONTENT_ROOT, law.toLowerCase(), dirName);
-    const summary = readFileIfExists(path.join(artDir, 'summary.md'));
-    if (!isPlaceholder(summary)) {
+    if (dirHasCommentary(path.join(CONTENT_ROOT, law.toLowerCase(), dirName))) {
       withContent++;
     }
   }

@@ -231,6 +231,11 @@ a reusable command).
 ### Site
 - `cd site && npm run dev` — start local dev server
 - `cd site && npm run build` — build static site (includes Pagefind; always use this, not `astro build`)
+
+Site conventions: articles whose layers are all scaffold placeholders render a
+"commentary in preparation" state, are `noindex`, and stay out of Pagefind and
+the sitemap (`isPlaceholder()` in `site/src/lib/content.ts`). Fonts are
+self-hosted via Fontsource (Inter, Source Serif 4) — no Google Fonts requests.
 - `cd site && npm run preview` — preview built site
 
 ## Known issues and next steps
@@ -243,8 +248,14 @@ the full prioritized backlog (~70 items across 11 categories).
 2. Expand Materialien to other laws (each needs its own BJ archive source);
    first diagnose the preparatory-materials digest, which produces empty
    output and blocks 600+ BBl citation checks
-3. Cross-reference click-through on the site (→ Art. 8 BV should be a link)
-4. BGE auto-linking to opencaselaw.ch
+3. BGE auto-linking to opencaselaw.ch (BGE links currently go to bger.ch)
+4. Translate the BGFA summary/caselaw layers and the Berufsgeheimnis concept page
+   (English only); daily generation is still disabled, so the site no longer
+   claims "daily updated" anywhere
+
+(Done 2026-10-19: cross-references link in all four languages and for all nine
+acts, including "Abs."/"al."/"cpv." forms; BGFA statute texts DE/FR/IT added to
+`scripts/article_texts*.json` from the Fedlex 2025-07-01 consolidation.)
 
 (Done: BV Grundrechte Art. 7-36 regenerated with Materialien — the validated
 approach produces Entstehungsgeschichte with named speakers, BBl pages, and

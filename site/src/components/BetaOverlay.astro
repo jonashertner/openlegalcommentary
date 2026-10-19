@@ -5,12 +5,11 @@
 // overlay is the prominent "set expectations" interrupt.
 //
 // Lifecycle:
-//  - Shown on every page load after a 200ms delay (gentle, not jarring).
+//  - Shown once per visit (browser session) after a 200ms delay.
 //  - Dismissible via button, Escape key, or backdrop click.
-//  - Dismissal hides it for the current page only. A reload or
-//    navigation to a new page re-shows it. Intentional: while the site
-//    is in active beta, the disclosure should be unmissable on every
-//    visit, not just the first.
+//  - Dismissal is remembered for the rest of the session, so returning to
+//    the home page does not re-interrupt; a new visit shows it again. The
+//    persistent .beta-bar keeps the disclosure visible on every page.
 import { type Lang, t } from '@/lib/i18n';
 
 export interface Props {
@@ -41,6 +40,7 @@ const { lang } = Astro.props;
       <p>{t('overlay.body3', lang)}</p>
     </div>
     <div class="beta-overlay__actions">
+      <a class="beta-overlay__link" href="https://github.com/jonashertner/openlegalcommentary/issues" target="_blank" rel="noopener">GitHub &nearr;</a>
       <button
         type="button"
         class="beta-overlay__button"
@@ -126,10 +126,16 @@ const { lang } = Astro.props;
 
   .beta-overlay__actions {
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
     margin-top: 22px;
     padding-top: 18px;
     border-top: 1px solid var(--color-rule-light);
+  }
+
+  .beta-overlay__link {
+    font-size: 12px;
+    color: var(--color-text-secondary);
   }
 
   .beta-overlay__button {
@@ -166,30 +172,32 @@ const { lang } = Astro.props;
 </style>
 
 <script>
+  const SEEN_KEY = 'olc-beta-overlay-seen';
+
   function initBetaOverlay() {
     const overlay = document.getElementById('beta-overlay');
     if (!overlay) return;
 
-    // Always show on page load — no localStorage persistence. While the
-    // site is in beta, the disclosure must be unmissable on every visit
-    // and every reload, not just the first.
-    window.setTimeout(() => {
+    let seen = false;
+    try { seen = sessionStorage.getItem(SEEN_KEY) === '1'; } catch { /* storage blocked */ }
+    if (seen) return;
+
+    const previousFocus = document.activeElement as HTMLElement | null;
+    const timer = window.setTimeout(() => {
       overlay.removeAttribute('hidden');
-      const button = overlay.querySelector<HTMLButtonElement>(
-        '.beta-overlay__button',
-      );
-      if (button) button.focus();
+      overlay.querySelector<HTMLButtonElement>('.beta-overlay__button')?.focus();
     }, 200);
 
     function dismiss() {
-      overlay.setAttribute('hidden', '');
+      window.clearTimeout(timer);
+      overlay!.setAttribute('hidden', '');
       document.removeEventListener('keydown', onKey);
+      try { sessionStorage.setItem(SEEN_KEY, '1'); } catch { /* storage blocked */ }
+      previousFocus?.focus?.();
     }
 
     function onKey(event: KeyboardEvent) {
-      if (event.key === 'Escape') {
-        dismiss();
-      }
+      if (event.key === 'Escape') dismiss();
     }
 
     overlay.querySelectorAll('[data-beta-dismiss]').forEach((el) => {
@@ -198,11 +206,6 @@ const { lang } = Astro.props;
     document.addEventListener('keydown', onKey);
   }
 
+  // Fires on the initial load and after every client-side navigation.
   document.addEventListener('astro:page-load', initBetaOverlay);
-  // Initial load (in case the listener is registered after page-load fires)
-  if (document.readyState !== 'loading') {
-    initBetaOverlay();
-  } else {
-    document.addEventListener('DOMContentLoaded', initBetaOverlay);
-  }
 </script>

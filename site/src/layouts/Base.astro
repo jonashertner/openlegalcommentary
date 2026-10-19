@@ -6,6 +6,13 @@ import { BASE, langBase } from '@/lib/base';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import BetaOverlay from '../components/BetaOverlay.astro';
+// Self-hosted variable fonts (opsz + wght axes); only the Latin subset is
+// fetched thanks to unicode-range.
+import '@fontsource-variable/inter/opsz.css';
+import '@fontsource-variable/source-serif-4/opsz.css';
+import '@fontsource-variable/source-serif-4/opsz-italic.css';
+import interLatin from '@fontsource-variable/inter/files/inter-latin-opsz-normal.woff2?url';
+import serifLatin from '@fontsource-variable/source-serif-4/files/source-serif-4-latin-opsz-normal.woff2?url';
 import '../styles/global.css';
 
 export interface Props {
@@ -14,6 +21,8 @@ export interface Props {
   currentPath?: string;
   lang?: Lang;
   pagePath?: string;
+  /** Keep thin pages (e.g. articles without commentary yet) out of search engines. */
+  noindex?: boolean;
 }
 
 const {
@@ -22,7 +31,13 @@ const {
   pagePath = '/',
   description = t('meta.description', lang),
   currentPath = Astro.url.pathname,
+  noindex = false,
 } = Astro.props;
+
+// Pages are emitted as directories, so the canonical form carries a trailing slash.
+const normPath = pagePath.endsWith('/') ? pagePath : `${pagePath}/`;
+const siteUrl = (Astro.site?.toString() || '').replace(/\/$/, '');
+const urlFor = (l: Lang) => `${siteUrl}${langBase(l)}${normPath}`;
 
 const siteSubtitle: Record<Lang, string> = {
   de: 'Schweizer Bundesrecht',
@@ -43,45 +58,55 @@ const fullTitle = title === 'Home'
     <meta name="description" content={description} />
     <meta name="current-lang" content={lang} />
     <title>{fullTitle}</title>
+    <link rel="preload" href={interLatin} as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href={serifLatin} as="font" type="font/woff2" crossorigin />
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0b0b0b" media="(prefers-color-scheme: dark)" />
     <link rel="icon" type="image/svg+xml" href={`${BASE}/favicon.svg`} />
-    <link rel="canonical" href={`${(Astro.site?.toString() || '').replace(/\/$/, '')}${langBase('de')}${pagePath}`} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+    <link rel="canonical" href={urlFor(lang)} />
     {LANGS.map((l) => (
-      <link rel="alternate" hreflang={l} href={`${(Astro.site?.toString() || '').replace(/\/$/, '')}${langBase(l)}${pagePath}`} />
+      <link rel="alternate" hreflang={l} href={urlFor(l)} />
     ))}
-    <link rel="alternate" type="application/rss+xml" title="Open Legal Commentary" href="/feed.xml" />
+    <link rel="alternate" hreflang="x-default" href={urlFor('de')} />
+    <link rel="alternate" type="application/rss+xml" title="Open Legal Commentary" href={`${BASE}/feed.xml`} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Open Legal Commentary" />
-    <meta property="og:url" content={`${(Astro.site?.toString() || '').replace(/\/$/, '')}${langBase(lang)}${pagePath}`} />
+    <meta property="og:url" content={urlFor(lang)} />
     <meta property="og:locale" content={lang === 'de' ? 'de_CH' : lang === 'fr' ? 'fr_CH' : lang === 'it' ? 'it_CH' : 'en'} />
-    <meta property="og:image" content={`${(Astro.site?.toString() || '').replace(/\/$/, '')}/og-image.png`} />
+    <meta property="og:image" content={`${siteUrl}/og-image.png`} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content={`${(Astro.site?.toString() || '').replace(/\/$/, '')}/og-image.png`} />
+    <meta name="twitter:image" content={`${siteUrl}/og-image.png`} />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="base-url" content={BASE} />
+    <slot name="head" />
     <ViewTransitions />
     <script is:inline>
       (function() {
         // Only apply saved theme if user has explicitly chosen one
         // Otherwise, let CSS prefers-color-scheme handle it (system default)
-        var saved = localStorage.getItem('theme');
+        function savedTheme() {
+          try { return localStorage.getItem('theme'); } catch (e) { return null; }
+        }
+        var saved = savedTheme();
         if (saved) {
           document.documentElement.setAttribute('data-theme', saved);
         }
         // Restore after View Transitions DOM swap
         document.addEventListener('astro:after-swap', function() {
-          var t = localStorage.getItem('theme');
+          var t = savedTheme();
           if (t) document.documentElement.setAttribute('data-theme', t);
         });
       })();
     </script>
   </head>
   <body>
-    <a href="#main-content" class="skip-link">Skip to content</a>
+    <a href="#main-content" class="skip-link">{t('a11y.skip', lang)}</a>
     <div data-pagefind-ignore>
       <Header currentPath={currentPath} lang={lang} pagePath={pagePath} />
     </div>

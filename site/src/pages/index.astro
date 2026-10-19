@@ -1,13 +1,28 @@
 ---
-// Root redirect to default language
+// Root: send visitors to their preferred language (falls back to German).
 ---
-<html>
+<!doctype html>
+<html lang="de">
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="refresh" content="0;url=/de/" />
-  <link rel="canonical" href="/de/" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Open Legal Commentary</title>
+  <link rel="canonical" href="https://openlegalcommentary.ch/de/" />
+  <script is:inline>
+    (function () {
+      var supported = ['de', 'fr', 'it', 'en'];
+      var prefs = navigator.languages || [navigator.language || 'de'];
+      var target = 'de';
+      for (var i = 0; i < prefs.length; i++) {
+        var code = String(prefs[i]).slice(0, 2).toLowerCase();
+        if (supported.indexOf(code) !== -1) { target = code; break; }
+      }
+      location.replace('/' + target + '/');
+    })();
+  </script>
+  <noscript><meta http-equiv="refresh" content="0;url=/de/" /></noscript>
 </head>
 <body>
-  <a href="/de/">Redirecting...</a>
+  <p><a href="/de/">Deutsch</a> · <a href="/fr/">Français</a> · <a href="/it/">Italiano</a> · <a href="/en/">English</a></p>
 </body>
 </html>

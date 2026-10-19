@@ -1,0 +1,52 @@
+---
+// site/src/pages/404.astro — served by GitHub Pages for unknown URLs.
+// The language is unknown at build time, so the copy is shown in all four
+// languages and the links follow the language prefix of the requested URL.
+import Base from '../layouts/Base.astro';
+
+const copy = [
+  { lang: 'de', title: 'Seite nicht gefunden', body: 'Diese Seite existiert nicht oder wurde verschoben.', home: 'Zur Startseite' },
+  { lang: 'fr', title: 'Page introuvable', body: "Cette page n'existe pas ou a été déplacée.", home: "Vers la page d'accueil" },
+  { lang: 'it', title: 'Pagina non trovata', body: 'Questa pagina non esiste o è stata spostata.', home: 'Alla pagina iniziale' },
+  { lang: 'en', title: 'Page not found', body: 'This page does not exist or has moved.', home: 'Go to the home page' },
+];
+---
+
+<Base title="404" lang="de" pagePath="/" noindex>
+  <section class="not-found">
+    <div class="code">404</div>
+    {copy.map((c) => (
+      <div class="nf-lang" lang={c.lang}>
+        <h1>{c.title}</h1>
+        <p>{c.body} <a href={`/${c.lang}/`} data-nf-lang={c.lang}>{c.home} &rarr;</a></p>
+      </div>
+    ))}
+  </section>
+</Base>
+
+<style>
+  .not-found {
+    padding: var(--space-8) 0;
+    max-width: var(--content-width);
+  }
+  .code {
+    font-size: 72px;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    line-height: 1;
+    margin-bottom: var(--space-4);
+  }
+  .nf-lang {
+    border-top: 1px solid var(--color-rule-light);
+    padding: var(--space-2) 0;
+  }
+  .nf-lang h1 {
+    font-size: 18px;
+  }
+  .nf-lang p {
+    font-family: var(--font-body);
+    font-size: 15px;
+    color: var(--color-text-secondary);
+    margin-top: 4px;
+  }
+</style>

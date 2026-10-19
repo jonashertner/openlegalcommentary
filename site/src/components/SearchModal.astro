@@ -1,12 +1,23 @@
 ---
 // site/src/components/SearchModal.astro
 import { type Lang, t } from '@/lib/i18n';
+import { langBase } from '@/lib/base';
+import { LAWS, lawAbbr } from '@/lib/laws';
 
 export interface Props {
   lang: Lang;
 }
 
 const { lang } = Astro.props;
+
+// Abbreviation (any language, lower-cased, without dots) → [slug, display abbr]
+// so "8 BV", "art. 8 Cst" or "BGFA 12" can jump straight to the article.
+const jumpTable: Record<string, [string, string]> = {};
+for (const law of LAWS) {
+  for (const a of [law.abbr, ...Object.values(law.abbrI18n || {})]) {
+    jumpTable[a!.toLowerCase().replace(/\./g, '')] = [law.slug, lawAbbr(law, lang)];
+  }
+}
 ---
 
 <div class="search-overlay" id="search-overlay" aria-hidden="true">
@@ -23,13 +34,16 @@ const { lang } = Astro.props;
         placeholder={t('search.placeholder', lang)}
         autocomplete="off"
       />
-      <kbd class="search-kbd">Esc</kbd>
+      <button type="button" class="search-close" aria-label={t('search.close', lang)}><kbd class="search-kbd">Esc</kbd></button>
     </div>
     <div
       class="search-results"
       id="search-results"
       data-no-results={t('search.no_results', lang)}
       data-dev-msg={t('search.dev_unavailable', lang)}
+      data-goto={t('search.goto', lang)}
+      data-base={langBase(lang)}
+      data-jump={JSON.stringify(jumpTable)}
     >
       <!-- Results injected by JS -->
     </div>
@@ -94,6 +108,13 @@ const { lang } = Astro.props;
 
   .search-input::placeholder {
     color: var(--color-text-muted);
+  }
+
+  .search-close {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
   }
 
   .search-kbd {
@@ -198,7 +219,10 @@ const { lang } = Astro.props;
     async function loadPagefind() {
       if (pagefind) return pagefind;
       try {
-        pagefind = await import(/* @vite-ignore */ '/pagefind/pagefind.js');
+        // Pagefind is generated after the build; keep the specifier opaque to
+        // Vite so the dev server doesn't try (and fail) to resolve it.
+        const pagefindUrl = `${document.querySelector('meta[name="base-url"]')?.getAttribute('content') || ''}/pagefind/pagefind.js`;
+        pagefind = await import(/* @vite-ignore */ pagefindUrl);
         await pagefind.init();
         return pagefind;
       } catch {
@@ -220,6 +244,24 @@ const { lang } = Astro.props;
       overlay.classList.remove('open');
       overlay.setAttribute('aria-hidden', 'true');
       input.blur();
+    }
+
+    overlay.querySelector('.search-close')?.addEventListener('click', close);
+
+    // "Art. 8 BV", "8 BV", "BV 8", "art 12 bgfa", "Art. 8 Cst." → direct link
+    const jump: Record<string, [string, string]> = JSON.parse(resultsContainer.dataset.jump || '{}');
+    function parseArticleRef(q: string): { href: string; label: string } | null {
+      const norm = q.trim().replace(/\./g, '').replace(/\s+/g, ' ').toLowerCase();
+      let m = norm.match(/^(?:art )?(\d+[a-z]*) ([a-z]+)$/);
+      let num: string | undefined, abbr: string | undefined;
+      if (m) { num = m[1]; abbr = m[2]; }
+      else if ((m = norm.match(/^([a-z]+) (?:art )?(\d+[a-z]*)$/))) { abbr = m[1]; num = m[2]; }
+      if (!num || !abbr || !jump[abbr]) return null;
+      const [slug, display] = jump[abbr];
+      return {
+        href: `${resultsContainer!.dataset.base}/${slug}/art-${parseInt(num, 10)}${num.replace(/^\d+/, '')}/`,
+        label: `Art. ${num} ${display}`,
+      };
     }
 
     // Keyboard shortcut: Cmd+K / Ctrl+K
@@ -260,9 +302,9 @@ const { lang } = Astro.props;
         e.preventDefault();
         activeIndex = Math.max(activeIndex - 1, -1);
         updateActive(results);
-      } else if (e.key === 'Enter' && activeIndex >= 0 && results[activeIndex]) {
+      } else if (e.key === 'Enter' && results.length > 0) {
         e.preventDefault();
-        (results[activeIndex] as HTMLAnchorElement).click();
+        (results[Math.max(activeIndex, 0)] as HTMLAnchorElement).click();
       }
     });
 
@@ -281,11 +323,27 @@ const { lang } = Astro.props;
       resultsContainer.appendChild(div);
     }
 
+    function renderJump(ref: { href: string; label: string }) {
+      const a = document.createElement('a');
+      a.href = ref.href;
+      a.className = 'search-result search-result--jump';
+      const tag = document.createElement('span');
+      tag.className = 'search-result-law';
+      tag.textContent = '→';
+      const body = document.createElement('div');
+      body.className = 'search-result-content';
+      const title = document.createElement('div');
+      title.className = 'search-result-title';
+      title.textContent = `${resultsContainer!.dataset.goto || ''} ${ref.label}`.trim();
+      body.appendChild(title);
+      a.append(tag, body);
+      resultsContainer!.appendChild(a);
+    }
+
     function renderResults(loaded: any[]) {
-      resultsContainer.textContent = '';
       for (const result of loaded) {
         const url = result.url;
-        const law = result.filters?.law?.[0] || '';
+        const law = result.meta?.law || '';
         const title = result.meta?.title || '';
         const excerpt = result.excerpt || '';
 
@@ -328,25 +386,29 @@ const { lang } = Astro.props;
         return;
       }
 
+      const ref = parseArticleRef(query);
       const pf = await loadPagefind();
       if (!pf) {
-        renderEmpty(resultsContainer.dataset.devMsg || 'Search unavailable');
+        resultsContainer.textContent = '';
+        if (ref) renderJump(ref);
+        else renderEmpty(resultsContainer.dataset.devMsg || 'Search unavailable');
         return;
       }
 
       const lang = document.documentElement.lang || 'de';
       const search = await pf.search(query, { filters: { language: lang } });
-
-      if (search.results.length === 0) {
-        renderEmpty(resultsContainer.dataset.noResults || 'No results');
-        activeIndex = -1;
-        return;
-      }
-
       // Load first 10 results
       const loaded = await Promise.all(search.results.slice(0, 10).map((r: any) => r.data()));
-      renderResults(loaded);
+      if (input!.value !== query) return; // a newer query is in flight
+
+      resultsContainer.textContent = '';
       activeIndex = -1;
+      if (ref) renderJump(ref);
+      if (loaded.length === 0 && !ref) {
+        renderEmpty(resultsContainer.dataset.noResults || 'No results');
+        return;
+      }
+      renderResults(loaded);
     }
   });
 </script>

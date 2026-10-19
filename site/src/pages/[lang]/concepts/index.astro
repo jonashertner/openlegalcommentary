@@ -19,7 +19,7 @@ const confidenceLabels: Record<string, string> = {
 };
 ---
 
-<Base title={t('concepts.title', lang)} lang={lang} pagePath="/concepts">
+<Base title={t('concepts.title', lang)} lang={lang} pagePath="/concepts/">
   <Breadcrumb lang={lang} items={[{ label: t('nav.concepts', lang) }]} />
 
   <header class="page-header">
@@ -29,10 +29,10 @@ const confidenceLabels: Record<string, string> = {
 
   <section class="ruled-list">
     {concepts.map(concept => (
-      <a href={`${langBase(lang)}/concepts/${concept.slug}`} class="ruled-item">
+      <a href={`${langBase(lang)}/concepts/${concept.slug}/`} class="ruled-item">
         <span class="ruled-item-title">{concept.meta.title}</span>
         <span class="ruled-item-meta">
-          {confidenceLabels[concept.meta.confidence]} &middot; {concept.meta.provisions.length} {t('concepts.provisions', lang).toLowerCase()}
+          {`${confidenceLabels[concept.meta.confidence]} · ${t(`concepts.status_${concept.meta.author_status}`, lang)} · ${concept.meta.provisions.length} ${t('concepts.provisions', lang)}`}
         </span>
       </a>
     ))}

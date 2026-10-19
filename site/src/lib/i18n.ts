@@ -47,17 +47,18 @@ const translations: Record<string, Record<Lang, string>> = {
   'home.eyebrow': { de: 'Schweizer Bundesrecht', fr: 'Droit fédéral suisse', it: 'Diritto federale svizzero', en: 'Swiss Federal Law' },
   'home.title': { de: 'Open Legal Commentary', fr: 'Open Legal Commentary', it: 'Open Legal Commentary', en: 'Open Legal Commentary' },
   'home.subtitle': {
-    de: 'Offener, KI-generierter, täglich aktualisierter Kommentar zum Schweizer Bundesrecht.',
-    fr: 'Commentaire ouvert, généré par IA, mis à jour quotidiennement sur le droit fédéral suisse.',
-    it: "Commento aperto, generato dall'IA, aggiornato quotidianamente sul diritto federale svizzero.",
-    en: 'Open, AI-generated, daily-updated commentary on Swiss federal law.',
+    de: 'Offener, KI-generierter Kommentar zum Schweizer Bundesrecht. Gesetzestext, Doktrin und Rechtsprechung an einem Ort — frei zugänglich, in vier Sprachen.',
+    fr: "Commentaire ouvert, généré par IA, du droit fédéral suisse. Texte légal, doctrine et jurisprudence réunis — en libre accès, en quatre langues.",
+    it: "Commento aperto, generato dall'IA, del diritto federale svizzero. Testo di legge, dottrina e giurisprudenza in un unico luogo — liberamente accessibile, in quattro lingue.",
+    en: 'Open, AI-generated commentary on Swiss federal law. Statute text, doctrine and case law in one place — free to access, in four languages.',
   },
   'home.stat.laws': { de: 'Gesetze', fr: 'Lois', it: 'Leggi', en: 'Laws' },
   'home.stat.articles': { de: 'Artikel', fr: 'Articles', it: 'Articoli', en: 'Articles' },
   'home.stat.layers': { de: 'Ebenen', fr: 'Niveaux', it: 'Livelli', en: 'Layers' },
   'home.stat.decisions': { de: 'Entscheide', fr: 'Décisions', it: 'Decisioni', en: 'Decisions' },
   'home.stat.languages': { de: 'Sprachen', fr: 'Langues', it: 'Lingue', en: 'Languages' },
-  'home.stat.updated': { de: 'Täglich aktualisiert', fr: 'Mise à jour quotidienne', it: 'Aggiornamento quotidiano', en: 'Updated daily' },
+  'home.stat.commented': { de: 'Kommentierte Artikel', fr: 'Articles commentés', it: 'Articoli commentati', en: 'Articles with commentary' },
+  'home.stat.decisions_value': { de: '1 Mio.+', fr: '1 M+', it: '1 mln+', en: '1M+' },
   'home.laws_heading': { de: 'Kommentierte Gesetze', fr: 'Lois commentées', it: 'Leggi commentate', en: 'Annotated Laws' },
   'home.layers_heading': { de: 'Drei Ebenen der Analyse', fr: "Trois niveaux d'analyse", it: 'Tre livelli di analisi', en: 'Three Layers of Analysis' },
   'home.layer1.title': { de: 'Übersicht', fr: 'Aperçu', it: 'Panoramica', en: 'Overview' },
@@ -76,13 +77,20 @@ const translations: Record<string, Record<Lang, string>> = {
   },
   'home.layer3.title': { de: 'Rechtsprechung', fr: 'Jurisprudence', it: 'Giurisprudenza', en: 'Case Law' },
   'home.layer3.desc': {
-    de: 'Leitentscheide des Bundesgerichts, thematisch geordnet und täglich aktualisiert.',
-    fr: "Arrêts de principe du Tribunal fédéral, classés par thème et mis à jour quotidiennement.",
-    it: 'Sentenze principali del Tribunale federale, ordinate per tema e aggiornate quotidianamente.',
-    en: 'Leading Federal Supreme Court decisions, organized by topic and updated daily.',
+    de: 'Leitentscheide des Bundesgerichts, thematisch geordnet, mit den massgeblichen Passagen im Wortlaut.',
+    fr: "Arrêts de principe du Tribunal fédéral, classés par thème, avec les passages déterminants cités textuellement.",
+    it: 'Sentenze di principio del Tribunale federale, ordinate per tema, con i passaggi determinanti citati testualmente.',
+    en: 'Leading Federal Supreme Court decisions, organized by topic, with the decisive passages quoted verbatim.',
   },
   'home.cantons_heading': { de: 'Kantonsverfassungen', fr: 'Constitutions cantonales', it: 'Costituzioni cantonali', en: 'Cantonal Constitutions' },
-  'home.cantons_subtitle': { de: '26 Kantone', fr: '26 cantons', it: '26 cantoni', en: '26 cantons' },
+  'home.cantons_subtitle': {
+    de: '26 Kantone · Verfassungstexte verfügbar, Kommentierung in Vorbereitung',
+    fr: '26 cantons · Textes constitutionnels disponibles, commentaire en préparation',
+    it: '26 cantoni · Testi costituzionali disponibili, commento in preparazione',
+    en: '26 cantons · Constitutional texts available, commentary in preparation',
+  },
+  'home.cta_primary': { de: 'Bundesverfassung lesen', fr: 'Lire la Constitution fédérale', it: 'Leggere la Costituzione federale', en: 'Read the Federal Constitution' },
+  'home.cta_example': { de: 'Beispiel: Art. 8 BV — Rechtsgleichheit', fr: 'Exemple : art. 8 Cst. — Égalité', it: 'Esempio: art. 8 Cost. — Uguaglianza giuridica', en: 'Example: Art. 8 FC — Equality before the law' },
   'home.open_heading': { de: 'Offen und frei', fr: 'Ouvert et libre', it: 'Aperto e libero', en: 'Open and Free' },
   'home.open_desc': {
     de: 'Alle Inhalte stehen unter CC BY-SA 4.0. Der Code ist MIT-lizenziert. Beitragen auf GitHub.',
@@ -108,12 +116,20 @@ const translations: Record<string, Record<Lang, string>> = {
   'search.placeholder': { de: 'Artikel, Zitate oder Rechtsbegriffe suchen...', fr: 'Rechercher des articles, citations ou concepts juridiques...', it: 'Cerca articoli, citazioni o concetti giuridici...', en: 'Search articles, citations, or legal concepts...' },
   'search.no_results': { de: 'Keine Ergebnisse', fr: 'Aucun résultat', it: 'Nessun risultato', en: 'No results' },
   'search.dev_unavailable': { de: 'Suche nach Build verfügbar', fr: 'Recherche disponible après build', it: 'Ricerca disponibile dopo build', en: 'Search available after build' },
+  'search.goto': { de: 'Direkt zu', fr: 'Aller à', it: 'Vai a', en: 'Go to' },
+  'search.close': { de: 'Suche schliessen', fr: 'Fermer la recherche', it: 'Chiudi la ricerca', en: 'Close search' },
 
   // Gesetzestext
   'gesetzestext.label': { de: 'Gesetzestext', fr: 'Texte de loi', it: 'Testo di legge', en: 'Statute Text' },
 
   // Changelog
   'changelog.title': { de: 'Änderungen', fr: 'Modifications', it: 'Modifiche', en: 'Changelog' },
+  'changelog.description': {
+    de: 'Protokoll der generierten und überarbeiteten Kommentarebenen, nach Datum.',
+    fr: 'Journal des niveaux de commentaire générés et révisés, par date.',
+    it: 'Registro dei livelli di commento generati e rivisti, per data.',
+    en: 'Log of generated and revised commentary layers, by date.',
+  },
   'changelog.empty': { de: 'Noch keine Änderungen vorhanden.', fr: 'Aucune modification pour le moment.', it: 'Nessuna modifica al momento.', en: 'No changes yet.' },
 
   // About
@@ -121,10 +137,10 @@ const translations: Record<string, Record<Lang, string>> = {
 
   // Meta
   'meta.description': {
-    de: 'Offener, KI-generierter Kommentar zum Schweizer Bundesrecht. Täglich aktualisiert.',
-    fr: 'Commentaire ouvert généré par IA sur le droit fédéral suisse. Mis à jour quotidiennement.',
-    it: "Commento aperto generato dall'IA sul diritto federale svizzero. Aggiornato quotidianamente.",
-    en: 'Open, AI-generated commentary on Swiss federal law. Updated daily.',
+    de: 'Offener, KI-generierter Kommentar zum Schweizer Bundesrecht: Gesetzestext, Doktrin mit Randziffern und Rechtsprechung — frei zugänglich, in vier Sprachen.',
+    fr: 'Commentaire ouvert généré par IA du droit fédéral suisse : texte légal, doctrine avec numéros marginaux et jurisprudence — en libre accès, en quatre langues.',
+    it: "Commento aperto generato dall'IA del diritto federale svizzero: testo di legge, dottrina con numeri marginali e giurisprudenza — liberamente accessibile, in quattro lingue.",
+    en: 'Open, AI-generated commentary on Swiss federal law: statute text, doctrine with marginal numbers and case law — free to access, in four languages.',
   },
 
   // Header aria
@@ -133,10 +149,10 @@ const translations: Record<string, Record<Lang, string>> = {
   'header.theme_toggle': { de: 'Farbschema wechseln', fr: 'Changer le thème', it: 'Cambia tema', en: 'Toggle theme' },
   'header.search': { de: 'Suche', fr: 'Recherche', it: 'Ricerca', en: 'Search' },
   'header.beta_notice': {
-    de: 'openlegalcommentary befindet sich in aktiver Entwicklung.',
-    fr: 'openlegalcommentary est en développement actif.',
-    it: 'openlegalcommentary è in sviluppo attivo.',
-    en: 'openlegalcommentary is in active development.',
+    de: 'Öffentliche Pilotversion · KI-generierte Inhalte, automatisiert geprüft',
+    fr: 'Version pilote publique · contenus générés par IA, contrôlés automatiquement',
+    it: 'Versione pilota pubblica · contenuti generati dall’IA, verificati automaticamente',
+    en: 'Public pilot · AI-generated content, automatically checked',
   },
 
   // Beta first-visit overlay
@@ -165,10 +181,10 @@ const translations: Record<string, Record<Lang, string>> = {
     en: 'Commentaries are generated by AI models from public legal sources and automatically quality-checked. Content may contain errors and should be verified against primary sources.',
   },
   'overlay.body3': {
-    de: 'Feedback ist willkommen.',
-    fr: 'Vos commentaires sont les bienvenus.',
-    it: 'I vostri commenti sono benvenuti.',
-    en: 'Feedback is welcome.',
+    de: 'Feedback ist willkommen — Hinweise auf Fehler bitte via GitHub.',
+    fr: 'Vos retours sont les bienvenus — merci de signaler les erreurs via GitHub.',
+    it: 'Il vostro feedback è benvenuto — segnalate eventuali errori tramite GitHub.',
+    en: 'Feedback is welcome — please report errors via GitHub.',
   },
   'overlay.button': {
     de: 'Verstanden',
@@ -198,34 +214,34 @@ const translations: Record<string, Record<Lang, string>> = {
     en: 'Support openlegalcommentary',
   },
   'support.lead': {
-    de: 'Offener, KI-generierter Rechtskommentar zum Schweizer Bundesrecht. 9 Gesetze, 4 Sprachen, täglich aktualisiert. Frei zugänglich unter CC BY-SA 4.0, finanziert durch individuelle Spenden.',
-    fr: "Commentaire juridique ouvert et généré par IA sur le droit fédéral suisse. 9 lois, 4 langues, mis à jour quotidiennement. Librement accessible sous CC BY-SA 4.0, financé par des dons individuels.",
-    it: "Commento giuridico aperto e generato dall'IA sul diritto federale svizzero. 9 leggi, 4 lingue, aggiornamento quotidiano. Liberamente accessibile sotto CC BY-SA 4.0, finanziato da donazioni individuali.",
-    en: 'Open, AI-generated legal commentary on Swiss federal law. 9 laws, 4 languages, updated daily. Freely accessible under CC BY-SA 4.0, funded by individual donations.',
+    de: 'Offener, KI-generierter Rechtskommentar zum Schweizer Bundesrecht. 9 Bundesgesetze, 4 Sprachen. Frei zugänglich unter CC BY-SA 4.0, finanziert durch individuelle Spenden.',
+    fr: "Commentaire juridique ouvert et généré par IA sur le droit fédéral suisse. 9 lois fédérales, 4 langues. Librement accessible sous CC BY-SA 4.0, financé par des dons individuels.",
+    it: "Commento giuridico aperto e generato dall'IA sul diritto federale svizzero. 9 leggi federali, 4 lingue. Liberamente accessibile sotto CC BY-SA 4.0, finanziato da donazioni individuali.",
+    en: 'Open, AI-generated legal commentary on Swiss federal law. 9 federal acts, 4 languages. Freely accessible under CC BY-SA 4.0, funded by individual donations.',
   },
 
   // Pipeline
   'support.pipeline_title': { de: 'Wie ein Artikel entsteht', fr: "Comment naît un article", it: 'Come nasce un articolo', en: 'How an article is made' },
   'support.step1_label': { de: 'Recherche', fr: 'Recherche', it: 'Ricerca', en: 'Research' },
   'support.step1_desc': {
-    de: 'Leitentscheide und Doktrin aus 930\'000+ Bundesgerichtsentscheiden (opencaselaw.ch), Gesetzesmaterialien (Botschaften, Erläuterungsberichte, Protokolle) und Kommentarliteratur.',
-    fr: "Arrêts de principe et doctrine parmi 930'000+ décisions du Tribunal fédéral (opencaselaw.ch), matériaux législatifs (messages, rapports explicatifs, procès-verbaux) et littérature de commentaire.",
-    it: "Sentenze di principio e dottrina tra 930'000+ decisioni del Tribunale federale (opencaselaw.ch), materiali legislativi (messaggi, rapporti esplicativi, verbali) e letteratura di commento.",
-    en: 'Leading cases and doctrine from 930,000+ Federal Supreme Court decisions (opencaselaw.ch), legislative materials (Federal Council messages, explanatory reports, debate records), and commentary literature.',
+    de: 'Leitentscheide aus über 1 Mio. Gerichtsentscheiden (opencaselaw.ch), Gesetzesmaterialien (Botschaften, Erläuterungsberichte, Ratsprotokolle) und Kommentarliteratur.',
+    fr: "Arrêts de principe parmi plus d'un million de décisions judiciaires (opencaselaw.ch), matériaux législatifs (messages, rapports explicatifs, procès-verbaux) et littérature de commentaire.",
+    it: "Sentenze di principio tra oltre un milione di decisioni giudiziarie (opencaselaw.ch), materiali legislativi (messaggi, rapporti esplicativi, verbali) e letteratura di commento.",
+    en: 'Leading cases from over 1 million court decisions (opencaselaw.ch), legislative materials (Federal Council messages, explanatory reports, debate records), and commentary literature.',
   },
   'support.step2_label': { de: 'Generierung', fr: 'Génération', it: 'Generazione', en: 'Generation' },
   'support.step2_desc': {
-    de: 'Ein spezialisierter KI-Agent (Claude Sonnet 4.6) schreibt die doktrinale Analyse nach strikten Vorgaben: sechs Pflichtsektionen, Randziffern, Quellenpflicht, Konzisionsdisziplin.',
-    fr: "Un agent IA spécialisé (Claude Sonnet 4.6) rédige l'analyse doctrinale selon des exigences strictes : six sections obligatoires, numéros marginaux, obligation de sources, discipline de concision.",
-    it: "Un agente IA specializzato (Claude Sonnet 4.6) redige l'analisi dottrinale secondo requisiti rigorosi: sei sezioni obbligatorie, numeri marginali, obbligo di fonti, disciplina di concisione.",
-    en: 'A specialized AI agent (Claude Sonnet 4.6) writes the doctrinal analysis under strict requirements: six mandatory sections, marginal numbers, source obligations, conciseness discipline.',
+    de: 'Ein spezialisierter KI-Agent (Claude Opus 4.6 mit erweitertem Denken; ältere Artikel Claude Sonnet 4.6) schreibt die doktrinale Analyse nach strikten Vorgaben: sechs Pflichtsektionen, Randziffern, Quellenpflicht, Konzisionsdisziplin.',
+    fr: "Un agent IA spécialisé (Claude Opus 4.6 avec raisonnement étendu ; articles plus anciens : Claude Sonnet 4.6) rédige l'analyse doctrinale selon des exigences strictes : six sections obligatoires, numéros marginaux, obligation de sources, discipline de concision.",
+    it: "Un agente IA specializzato (Claude Opus 4.6 con ragionamento esteso; articoli precedenti: Claude Sonnet 4.6) redige l'analisi dottrinale secondo requisiti rigorosi: sei sezioni obbligatorie, numeri marginali, obbligo di fonti, disciplina di concisione.",
+    en: 'A specialized AI agent (Claude Opus 4.6 with extended thinking; earlier articles Claude Sonnet 4.6) writes the doctrinal analysis under strict requirements: six mandatory sections, marginal numbers, source obligations, conciseness discipline.',
   },
   'support.step3_label': { de: 'Prüfung', fr: 'Évaluation', it: 'Valutazione', en: 'Evaluation' },
   'support.step3_desc': {
-    de: 'Ein unabhängiges KI-Modell (Claude Opus 4.6) prüft gegen zehn Qualitätskriterien. Bei Nichtbestehen: automatische Wiederholung bis zu drei Mal.',
-    fr: "Un modèle IA indépendant (Claude Opus 4.6) évalue selon dix critères de qualité. En cas d'échec : répétition automatique jusqu'à trois fois.",
-    it: 'Un modello IA indipendente (Claude Opus 4.6) valuta secondo dieci criteri di qualità. In caso di esito negativo: ripetizione automatica fino a tre volte.',
-    en: 'An independent AI model (Claude Opus 4.6) evaluates against ten quality criteria. On failure: automatic retry up to three times.',
+    de: 'Ein separater Evaluator (Claude Opus 4.6) prüft gegen zehn Qualitätskriterien. Bei Nichtbestehen: automatische Wiederholung bis zu drei Mal.',
+    fr: "Un évaluateur distinct (Claude Opus 4.6) contrôle selon dix critères de qualité. En cas d'échec : répétition automatique jusqu'à trois fois.",
+    it: 'Un valutatore separato (Claude Opus 4.6) verifica secondo dieci criteri di qualità. In caso di esito negativo: ripetizione automatica fino a tre volte.',
+    en: 'A separate evaluator (Claude Opus 4.6) checks against ten quality criteria. On failure: automatic retry up to three times.',
   },
   'support.step4_label': { de: 'Übersetzung', fr: 'Traduction', it: 'Traduzione', en: 'Translation' },
   'support.step4_desc': {
@@ -332,6 +348,56 @@ const translations: Record<string, Record<Lang, string>> = {
     en: 'Join this list.',
   },
 
+  // Accessibility
+  'a11y.skip': { de: 'Zum Inhalt springen', fr: 'Aller au contenu', it: 'Vai al contenuto', en: 'Skip to content' },
+  'a11y.breadcrumb': { de: 'Brotkrumennavigation', fr: "Fil d'Ariane", it: 'Percorso di navigazione', en: 'Breadcrumb' },
+
+  // Article sidebar
+  'article.label': { de: 'Artikel', fr: 'Article', it: 'Articolo', en: 'Article' },
+  'article.law': { de: 'Erlass', fr: 'Acte', it: 'Atto', en: 'Act' },
+  'article.canton': { de: 'Kanton', fr: 'Canton', it: 'Cantone', en: 'Canton' },
+  'article.official_text': { de: 'Amtlicher Text', fr: 'Texte officiel', it: 'Testo ufficiale', en: 'Official text' },
+  'article.versions': { de: 'Stand der Ebenen', fr: 'État des niveaux', it: 'Stato dei livelli', en: 'Layer status' },
+  'article.cite_as': { de: 'Zitiervorschlag', fr: 'Citation suggérée', it: 'Citazione suggerita', en: 'Suggested citation' },
+  'article.cite_copy': { de: 'Kopieren', fr: 'Copier', it: 'Copia', en: 'Copy' },
+  'article.cite_copied': { de: 'Kopiert', fr: 'Copié', it: 'Copiato', en: 'Copied' },
+  'article.cite_status': { de: 'Stand', fr: 'état au', it: 'stato al', en: 'as of' },
+  'article.layer_empty': {
+    de: 'Für diese Ebene liegt noch kein Inhalt vor.',
+    fr: "Ce niveau n'est pas encore disponible.",
+    it: 'Questo livello non è ancora disponibile.',
+    en: 'This layer is not available yet.',
+  },
+  'article.pending_title': { de: 'Kommentierung in Vorbereitung', fr: 'Commentaire en préparation', it: 'Commento in preparazione', en: 'Commentary in preparation' },
+  'article.pending_body': {
+    de: 'Zu diesem Artikel liegt noch keine Kommentierung vor. Der Gesetzestext dient der Orientierung; massgeblich ist die amtliche Veröffentlichung.',
+    fr: "Cet article n'est pas encore commenté. Le texte légal est affiché à titre indicatif ; seule la publication officielle fait foi.",
+    it: "Questo articolo non è ancora commentato. Il testo di legge è riportato a titolo indicativo; fa fede unicamente la pubblicazione ufficiale.",
+    en: 'This article has no commentary yet. The statute text is shown for orientation; only the official publication is authoritative.',
+  },
+  'article.pending_cta': { de: 'Bereits kommentiert: Bundesverfassung', fr: 'Déjà commentée : Constitution fédérale', it: 'Già commentata: Costituzione federale', en: 'Already annotated: Federal Constitution' },
+
+  // Law index
+  'law.commented_of': { de: 'kommentiert', fr: 'commentés', it: 'commentati', en: 'with commentary' },
+  'law.no_commentary': {
+    de: 'Zu diesem Erlass liegt noch keine Kommentierung vor. Artikelübersicht und Gesetzestexte sind bereits verfügbar.',
+    fr: "Cet acte n'est pas encore commenté. La table des articles et les textes légaux sont déjà disponibles.",
+    it: "Questo atto non è ancora commentato. L'indice degli articoli e i testi di legge sono già disponibili.",
+    en: 'This act has no commentary yet. The table of articles and the statute texts are already available.',
+  },
+  'law.cantonal_collection': { de: 'Kantonale Erlasssammlung', fr: 'Recueil cantonal', it: 'Raccolta cantonale', en: 'Cantonal collection' },
+
+  // Footer
+  'footer.disclaimer': {
+    de: 'KI-generierte Inhalte können Fehler enthalten. Keine Rechtsberatung; massgeblich sind die amtlichen Veröffentlichungen.',
+    fr: "Les contenus générés par IA peuvent contenir des erreurs. Ceci n'est pas un conseil juridique ; seules les publications officielles font foi.",
+    it: 'I contenuti generati dall\'IA possono contenere errori. Non costituiscono consulenza legale; fanno fede unicamente le pubblicazioni ufficiali.',
+    en: 'AI-generated content may contain errors. Not legal advice; only the official publications are authoritative.',
+  },
+  'footer.sources': { de: 'Quellen', fr: 'Sources', it: 'Fonti', en: 'Sources' },
+  'footer.feedback': { de: 'Feedback & Fehler melden', fr: 'Retours & signaler une erreur', it: 'Feedback & segnalare errori', en: 'Feedback & report errors' },
+  'footer.source_code': { de: 'Quellcode', fr: 'Code source', it: 'Codice sorgente', en: 'Source code' },
+
   // Translation fallback
   'article.fallback_notice': {
     de: '',
@@ -352,6 +418,17 @@ const translations: Record<string, Record<Lang, string>> = {
   'concepts.contested': { de: 'Umstritten', fr: 'Contesté', it: 'Contestato', en: 'Contested' },
   'concepts.evolving': { de: 'In Entwicklung', fr: 'En évolution', it: 'In evoluzione', en: 'Evolving' },
   'concepts.provisions': { de: 'Betroffene Bestimmungen', fr: 'Dispositions concernées', it: 'Disposizioni interessate', en: 'Related provisions' },
+  'concepts.type': { de: 'Konzept', fr: 'Concept', it: 'Concetto', en: 'Concept' },
+  'concepts.status': { de: 'Status', fr: 'Statut', it: 'Stato', en: 'Status' },
+  'concepts.status_draft': { de: 'Entwurf', fr: 'Projet', it: 'Bozza', en: 'Draft' },
+  'concepts.status_reviewed': { de: 'Geprüft', fr: 'Révisé', it: 'Rivisto', en: 'Reviewed' },
+  'concepts.status_contested': { de: 'Umstritten', fr: 'Contesté', it: 'Contestato', en: 'Contested' },
+  'concepts.english_only': {
+    de: 'Dieser Beitrag liegt derzeit nur auf Englisch vor.',
+    fr: "Cette contribution n'est actuellement disponible qu'en anglais.",
+    it: 'Questo contributo è attualmente disponibile solo in inglese.',
+    en: '',
+  },
 
   // Contested
   'nav.contested': { de: 'Streitfragen', fr: 'Questions disputées', it: 'Questioni controverse', en: 'Disputed Questions' },

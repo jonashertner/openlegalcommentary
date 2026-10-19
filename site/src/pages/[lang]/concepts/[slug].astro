@@ -5,6 +5,7 @@ import { renderMarkdown } from '@/lib/markdown';
 import Base from '../../../layouts/Base.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
 import { listConcepts, loadConcept } from '../../../lib/content';
+import { getLawByAbbr, lawAbbr } from '../../../lib/laws';
 
 export function getStaticPaths() {
   const concepts = listConcepts();
@@ -15,7 +16,7 @@ export function getStaticPaths() {
 
 const { lang, slug } = Astro.params as { lang: Lang; slug: string };
 const concept = loadConcept(slug!);
-if (!concept) return Astro.redirect(`/${lang}/concepts`);
+if (!concept) return Astro.redirect(`${langBase(lang)}/concepts/`);
 
 const { html: contentHtml } = renderMarkdown(concept.content, lang);
 
@@ -28,35 +29,40 @@ const confidenceLabels: Record<string, string> = {
 function provisionToLink(prov: string): { href: string; label: string } {
   const [law, art] = prov.split('/');
   const num = art.replace('art-', '').replace(/^0+/, '');
+  const info = getLawByAbbr(law);
   return {
-    href: `${langBase(lang)}/${law}/art-${num}`,
-    label: `Art. ${num} ${law.toUpperCase()}`,
+    href: `${langBase(lang)}/${law}/art-${num}/`,
+    label: `Art. ${num} ${info ? lawAbbr(info, lang) : law.toUpperCase()}`,
   };
 }
+
+// Concept pages are currently authored in English only.
+const englishOnly = t('concepts.english_only', lang);
 ---
 
-<Base title={concept.meta.title} lang={lang} pagePath={`/concepts/${slug}`}>
+<Base title={concept.meta.title} lang={lang} pagePath={`/concepts/${slug}/`}>
   <Breadcrumb
     lang={lang}
     items={[
-      { label: t('nav.concepts', lang), href: `${langBase(lang)}/concepts` },
+      { label: t('nav.concepts', lang), href: `${langBase(lang)}/concepts/` },
       { label: concept.meta.title },
     ]}
   />
 
-  <article class="page-wrapper" data-pagefind-body data-pagefind-filter={`language:${lang}`}>
+  <article data-pagefind-body data-pagefind-filter={`language:${lang}`}>
     <div class="page-grid">
       <div class="left-col">
-        <div class="label">{t('concepts.type', lang) || 'Concept'}</div>
+        <div class="label">{t('concepts.type', lang)}</div>
         <h1 class="concept-title">{concept.meta.title}</h1>
 
         <div class="meta-block">
-          <div class="label">{t('concepts.confidence_label', lang) || 'Confidence'}</div>
+          <div class="label">{t('concepts.confidence', lang)}</div>
           <p class="meta-value">{confidenceLabels[concept.meta.confidence]}</p>
         </div>
 
         <div class="meta-block">
-          <div class="label">{concept.meta.author_status}</div>
+          <div class="label">{t('concepts.status', lang)}</div>
+          <p class="meta-value">{t(`concepts.status_${concept.meta.author_status}`, lang)}</p>
         </div>
 
         <div class="meta-block">
@@ -71,7 +77,8 @@ function provisionToLink(prov: string): { href: string; label: string } {
       </div>
 
       <div class="right-col">
-        <div class="concept-content prose" set:html={contentHtml} />
+        {englishOnly && <p class="lang-notice" data-pagefind-ignore>{englishOnly}</p>}
+        <div class="concept-content prose" lang="en" set:html={contentHtml} />
       </div>
     </div>
   </article>
@@ -120,7 +127,11 @@ function provisionToLink(prov: string): { href: string; label: string } {
     border-bottom-color: var(--color-rule);
   }
 
-  .concept-content {
-    line-height: 1.7;
+  .lang-notice {
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    border-left: 2px solid var(--color-border);
+    padding: 2px 0 2px 10px;
+    margin-bottom: var(--space-3);
   }
 </style>

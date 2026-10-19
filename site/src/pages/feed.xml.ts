@@ -2,10 +2,11 @@ import type { APIRoute } from 'astro';
 import fs from 'node:fs';
 import path from 'node:path';
 import yaml from 'js-yaml';
+import { LAWS } from '@/lib/laws';
 
 const CONTENT_ROOT = path.resolve(import.meta.dirname, '../../..', 'content');
 const SITE_URL = 'https://openlegalcommentary.ch';
-const LAWS = ['bv', 'zgb', 'or', 'zpo', 'stgb', 'stpo', 'schkg', 'vwvg'];
+const LAW_SLUGS = LAWS.map((l) => l.slug);
 
 interface FeedEntry {
   law: string;
@@ -20,7 +21,7 @@ interface FeedEntry {
 function collectEntries(): FeedEntry[] {
   const entries: FeedEntry[] = [];
 
-  for (const law of LAWS) {
+  for (const law of LAW_SLUGS) {
     const lawDir = path.join(CONTENT_ROOT, law);
     if (!fs.existsSync(lawDir)) continue;
 
@@ -78,7 +79,7 @@ export const GET: APIRoute = () => {
     const slug = `art-${num}${e.suffix}`;
     const display = `Art. ${num}${e.suffix} ${e.law}`;
     const layer = layerLabel[e.layer] || e.layer;
-    const url = `${SITE_URL}/de/${e.law.toLowerCase()}/${slug}`;
+    const url = `${SITE_URL}/de/${e.law.toLowerCase()}/${slug}/`;
 
     return `    <item>
       <title>${escapeXml(`${display} — ${e.title} (${layer} v${e.version})`)}</title>
@@ -93,8 +94,8 @@ export const GET: APIRoute = () => {
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Legal Commentary</title>
-    <link>${SITE_URL}</link>
-    <description>Open, AI-generated commentary on Swiss federal law. Updated daily.</description>
+    <link>${SITE_URL}/de/</link>
+    <description>Open, AI-generated commentary on Swiss federal law.</description>
     <language>de</language>
     <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml" />
 ${items}

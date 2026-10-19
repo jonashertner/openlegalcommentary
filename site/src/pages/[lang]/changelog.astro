@@ -92,12 +92,13 @@ const layerLabels: Record<string, Record<Lang, string>> = {
 };
 ---
 
-<Base title={t('changelog.title', lang)} lang={lang} pagePath="/changelog" description="Tägliches Änderungsprotokoll der Kommentare.">
+<Base title={t('changelog.title', lang)} lang={lang} pagePath="/changelog/" description={t('changelog.description', lang)}>
   <Breadcrumb lang={lang} items={[{ label: t('changelog.title', lang) }]} />
 
   <article class="changelog-page content-column">
     <header class="changelog-header">
       <h1>{t('changelog.title', lang)}</h1>
+      <p class="text-muted">{t('changelog.description', lang)}</p>
     </header>
 
     {dates.length === 0 ? (
@@ -113,7 +114,7 @@ const layerLabels: Record<string, Record<Lang, string>> = {
             <ul class="changelog-entries">
               {entries.map((entry) => (
                 <li>
-                  <a href={`${langBase(lang)}/${entry.law.toLowerCase()}/${entry.slug}?layer=${entry.layer}`}>
+                  <a href={`${langBase(lang)}/${entry.law.toLowerCase()}/${entry.slug}/?layer=${entry.layer}`}>
                     <span class="change-law">{entry.law}</span>
                     <span class="change-article">
                       Art.&nbsp;{entry.article}{entry.suffix}
@@ -137,7 +138,7 @@ const layerLabels: Record<string, Record<Lang, string>> = {
 
 <style>
   .changelog-header {
-    margin-bottom: var(--space-5);
+    margin: var(--space-4) 0 var(--space-4);
   }
 
   .changelog-header h1 {

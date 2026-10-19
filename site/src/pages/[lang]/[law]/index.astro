@@ -4,7 +4,7 @@ import { LANGS, type Lang, t } from '@/lib/i18n';
 import { langBase, langHome } from '@/lib/base';
 import Base from '../../../layouts/Base.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
-import { LAWS, getLawByAbbr } from '../../../lib/laws';
+import { LAWS, getLawByAbbr, lawAbbr } from '../../../lib/laws';
 import { listArticles, getLawStats, getTranslatedTitle, listCantonalLawSlugs } from '../../../lib/content';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -27,6 +27,9 @@ if (!lawInfo) {
 
 const articles = listArticles(lawInfo.slug);
 const stats = getLawStats(lawInfo.slug);
+const abbr = lawInfo.canton ? lawInfo.abbr : lawAbbr(lawInfo, lang);
+const srNumber = lawInfo.canton ? (articles[0]?.meta.sr_number || '') : lawInfo.sr;
+const fmt = (n: number) => n.toLocaleString('de-CH');
 
 // Load structural data (Titel/Kapitel/Abschnitt) if available
 interface StructureEntry {
@@ -87,25 +90,33 @@ if (structure.length > 0) {
 }
 ---
 
-<Base title={`${lawInfo.abbr} — ${lawInfo.name[lang]}`} lang={lang} pagePath={`/${lawParam}`} description={lawInfo.description[lang]}>
-  <Breadcrumb lang={lang} items={[{ label: lawInfo.abbr }]} />
+<Base title={`${abbr} — ${lawInfo.name[lang]}`} lang={lang} pagePath={`/${lawParam}/`} description={`${lawInfo.name[lang]} (${abbr}): ${lawInfo.description[lang]}`}>
+  <Breadcrumb lang={lang} items={[{ label: abbr }]} />
 
-  <div class="page-wrapper">
     <div class="page-grid">
       <div class="left-col">
-        <h1 class="law-abbr">{lawInfo.abbr}</h1>
+        <h1 class="law-abbr">{abbr}</h1>
         <p class="law-full-name">{lawInfo.name[lang]}</p>
-        <p class="law-sr">SR {lawInfo.sr}</p>
-        <p class="law-count">{stats.totalArticles} {t('home.stat.articles', lang)}</p>
+        {srNumber && (
+          <p class="law-sr">{lawInfo.canton ? t('law.cantonal_collection', lang) : 'SR'} {srNumber}</p>
+        )}
+        <p class="law-count">
+          {stats.withContent > 0
+            ? <><strong>{fmt(stats.withContent)}</strong>{` / ${fmt(stats.totalArticles)} ${t('home.stat.articles', lang)} ${t('law.commented_of', lang)}`}</>
+            : `${fmt(stats.totalArticles)} ${t('home.stat.articles', lang)}`}
+        </p>
       </div>
 
       <div class="right-col">
+        {stats.withContent === 0 && (
+          <p class="law-notice">{t('law.no_commentary', lang)}</p>
+        )}
         <section class="toc">
           <ul class="toc-list">
             {articles.map((art) => {
               const suffix = art.meta.article_suffix || '';
               const displayNum = `${art.meta.article}${suffix}`;
-              const hasContent = Object.keys(art.meta.layers).length > 0;
+              const hasContent = art.hasCommentary;
               const artNum = art.meta.article;
 
               const headings = headingsBefore.get(artNum) || [];
@@ -121,8 +132,8 @@ if (structure.length > 0) {
                       </li>
                     );
                   })}
-                  <li class="toc-item">
-                    <a href={`${langBase(lang)}/${lawParam}/${art.slug}`}>
+                  <li class:list={['toc-item', { 'toc-item--pending': stats.withContent > 0 && !hasContent }]}>
+                    <a href={`${langBase(lang)}/${lawParam}/${art.slug}/`}>
                       <span class="toc-num">{artNum === 0 ? '' : `Art.\u00A0${displayNum}`}</span>
                       <span class="toc-title">{getTranslatedTitle(lawInfo.abbr, `${art.meta.article}${suffix}`, lang, art.meta.title)}</span>
                     </a>
@@ -134,7 +145,6 @@ if (structure.length > 0) {
         </section>
       </div>
     </div>
-  </div>
 </Base>
 
 <style>
@@ -169,6 +179,28 @@ if (structure.length > 0) {
     font-size: 11px;
     color: var(--color-text-muted);
     margin: 0;
+  }
+
+  .law-count strong {
+    color: var(--color-text);
+  }
+
+  .law-notice {
+    font-family: var(--font-body);
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-secondary);
+    border-left: 2px solid var(--color-rule);
+    padding-left: var(--space-2);
+    margin-bottom: var(--space-4);
+    max-width: var(--content-width);
+  }
+
+  /* In a partly commented act, articles without commentary recede */
+  .toc-item--pending .toc-num,
+  .toc-item--pending .toc-title {
+    color: var(--color-text-muted);
+    font-weight: 400;
   }
 
   /* TOC */

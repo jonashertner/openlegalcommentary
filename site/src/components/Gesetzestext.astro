@@ -121,8 +121,10 @@ const cleanParagraphs = paragraphs.filter(p => {
 
 <style>
   .gesetzestext {
-    margin-bottom: var(--space-4);
+    margin-bottom: var(--space-5);
     border: 1px solid var(--color-border);
+    border-top: 2px solid var(--color-rule);
+    max-width: var(--content-width);
     overflow: hidden;
   }
 
@@ -130,8 +132,8 @@ const cleanParagraphs = paragraphs.filter(p => {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: var(--space-1) var(--space-3);
-    border-bottom: 1px solid var(--color-border);
+    padding: 10px var(--space-3);
+    border-bottom: 1px solid var(--color-rule-light);
   }
 
   .gesetzestext-label {
@@ -139,46 +141,50 @@ const cleanParagraphs = paragraphs.filter(p => {
     align-items: center;
     gap: 0.5rem;
     font-family: var(--font-ui);
-    font-size: 10px;
+    font-size: var(--text-2xs);
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.12em;
     color: var(--color-text-muted);
   }
 
   .gesetzestext-source {
-    font-family: var(--font-mono);
-    font-size: 10px;
+    font-family: var(--font-ui);
+    font-size: 11px;
+    font-weight: 500;
     color: var(--color-text-muted);
     text-decoration: none;
-    padding: 2px 8px;
-    border: 1px solid var(--color-border);
+    padding: 2px 0;
+    border-bottom: 1px solid var(--color-border);
     transition: color var(--transition-fast), border-color var(--transition-fast);
   }
 
   .gesetzestext-source:hover {
     color: var(--color-text);
-    border-color: var(--color-text);
+    border-bottom-color: var(--color-text);
   }
 
   .gesetzestext-body {
     padding: var(--space-3) var(--space-3) var(--space-2);
     font-family: var(--font-body);
-    font-size: 13px;
-    line-height: 1.8;
-    color: var(--color-text);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--color-ink);
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    text-wrap: pretty;
   }
 
   /* Use :global() for all children of gesetzestext-body
      because Astro's scoped data attributes may not apply to
      dynamically constructed elements in some rendering paths */
   .gesetzestext-body :global(.gesetzestext-absatz) {
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.6rem;
     max-width: none;
     display: flex;
     align-items: baseline;
     gap: 0;
-    padding: 0.25rem 0;
+    padding: 0.1rem 0;
   }
 
   .gesetzestext-body :global(.gesetzestext-absatz:last-child) {
@@ -206,12 +212,15 @@ const cleanParagraphs = paragraphs.filter(p => {
     width: 1.75rem;
     min-width: 1.75rem;
     font-family: var(--font-ui);
-    font-weight: 700;
+    font-weight: 600;
     font-size: 11px;
+    font-variant-numeric: tabular-nums;
     color: var(--color-text-muted);
-    margin-right: 0.625rem;
+    margin-right: 0.5rem;
     line-height: 1;
     user-select: none;
+    position: relative;
+    top: -0.35em;
   }
 
   .gesetzestext-body :global(.absatz-text) {
@@ -236,9 +245,9 @@ const cleanParagraphs = paragraphs.filter(p => {
   .gesetzestext-body :global(.gesetzestext-list dt) {
     font-family: var(--font-ui);
     font-weight: 600;
-    font-size: 11px;
+    font-size: 12px;
     color: var(--color-text-muted);
-    padding-top: 0.15rem;
+    padding-top: 0.2rem;
     min-width: 1.25rem;
   }
 
