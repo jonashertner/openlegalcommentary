@@ -42,7 +42,7 @@
 
 ### 5. Controversial Issues
 
-**No. 16** **Scope of federal competence**: In legal doctrine it is disputed how far the federal competence under Art. 117b Cst. extends. Rhinow/Schefer/Uebersax (Swiss Constitutional Law, 3rd ed. 2016, § 64 No. 2876) advocate a narrow interpretation, according to which the Confederation may only enact selective regulations. In contrast, Belser/Waldmann argue for a broader interpretation that grants the Confederation comprehensive regulatory competences in nursing care.
+**No. 16** **Scope of federal competence**: In legal doctrine it is disputed how far the federal competence under Art. 117b Cst. extends. Rhinow/Schefer/Uebersax (Swiss Constitutional Law, 3rd ed. 2016, § 64 No. 2876) advocate a narrow interpretation, according to which the Confederation may only enact selective regulations. In contrast, other commentators argue for a broader interpretation that grants the Confederation comprehensive regulatory competences in nursing care.
 
 **No. 17** **Relationship to Art. 117a Cst.**: The relationship to basic medical care is controversially discussed. While Ehrenzeller/Schindler (St. Gallen Commentary Cst., 4th ed. 2023, Art. 117b No. 8) demand a clear demarcation, other authors see nursing care as an integral component of basic care, which leads to overlapping competences.
 

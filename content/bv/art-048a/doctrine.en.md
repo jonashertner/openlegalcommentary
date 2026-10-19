@@ -55,7 +55,7 @@
 
 **N. 15** In case of **participation obligation**, only the obligations defined in the federal decree arise. The canton does not become a contracting party, but fulfils specific cooperation obligations ordered under federal law.
 
-**N. 16** The legal nature of the obligation is disputed: Biaggini emphasises that Art. 48a FC cannot be directly applied and requires federal legislative concretisation. However, practice shows that the Federal Assembly can act directly based on Art. 48a FC.
+**N. 16** The legal nature of the obligation is disputed: One view in the literature emphasises that Art. 48a FC cannot be directly applied and requires federal legislative concretisation. However, practice shows that the Federal Assembly can act directly based on Art. 48a FC.
 
 ## 5. Controversial issues
 
@@ -71,7 +71,7 @@
 
 ### c) Relationship to sector-specific norms
 
-**N. 19** **Controversial issue regarding relationship to special norms**: The relationship to sector-specific cooperation obligations such as Art. 62 para. 4 FC (education) or Art. 123 para. 2-3 FC (execution of criminal sentences) is unclear. Waldmann sees Art. 48a FC as a general catch-all provision, while other authors assume a relationship of speciality.
+**N. 19** **Controversial issue regarding relationship to special norms**: The relationship to sector-specific cooperation obligations such as Art. 62 para. 4 FC (education) or Art. 123 para. 2-3 FC (execution of criminal sentences) is unclear. Some authors see Art. 48a FC as a general catch-all provision, while other authors assume a relationship of speciality.
 
 ## 6. Practice notes
 

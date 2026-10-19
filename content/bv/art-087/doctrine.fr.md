@@ -34,7 +34,7 @@
 
 **N. 12** **Portée de la compétence en matière de navigation** : Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10e éd. 2020, N 1122) défendent une interprétation restrictive qui ne couvre que la navigation commerciale. Ehrenzeller (St. Galler Kommentar BV, 4e éd. 2023, art. 87 N 14) plaide pour une interprétation plus large qui inclut aussi la navigation privée de grande ampleur. La pratique suit la conception plus restrictive.
 
-**N. 13** **Délimitation chemin de fer/tramway**: Waldmann veut soumettre les tramways au droit cantonal, dans la mesure où ils circulent principalement dans l'espace routier. La doctrine dominante (Tschannen/Zimmerli/Müller, Verwaltungsrecht, 4e éd. 2014, § 63 N 12) et la pratique rattachent tous les véhicules sur rails au droit ferroviaire.
+**N. 13** **Délimitation chemin de fer/tramway**: Une partie de la doctrine veut soumettre les tramways au droit cantonal, dans la mesure où ils circulent principalement dans l'espace routier. La doctrine dominante (Tschannen/Zimmerli/Müller, Verwaltungsrecht, 4e éd. 2014, § 63 N 12) et la pratique rattachent tous les véhicules sur rails au droit ferroviaire.
 
 **N. 14** **Compétence pour les drones** : L'attribution des aéronefs sans pilote est controversée. Alors que Dettling-Ott (Luftrecht, 2020, p. 45) plaide pour une compétence fédérale globale, Griffel/Rausch (Umweltrecht, 2e éd. 2021, N 856) voient de la place pour des réglementations cantonales complémentaires en cas d'utilisation locale. La LA révisée de 2023 revendique une réglementation fédérale globale.
 

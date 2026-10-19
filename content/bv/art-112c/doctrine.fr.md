@@ -28,11 +28,11 @@
 
 ### 5. Points litigieux
 
-**N. 10** **Étendue de la compétence fédérale**: En doctrine, l'étendue de la compétence d'encouragement de la Confédération est controversée. Schweizer (St. Galler Kommentar BV, art. 112c N. 6) défend une interprétation restrictive et souligne le caractère subsidiaire de la compétence fédérale. Gächter/Filippo plaident pour une interprétation plus large, qui accorde aussi à la Confédération certaines compétences de réglementation dans le cadre de l'encouragement.
+**N. 10** **Étendue de la compétence fédérale**: En doctrine, l'étendue de la compétence d'encouragement de la Confédération est controversée. Schweizer (St. Galler Kommentar BV, art. 112c N. 6) défend une interprétation restrictive et souligne le caractère subsidiaire de la compétence fédérale. Une partie de la doctrine plaide pour une interprétation plus large, qui accorde aussi à la Confédération certaines compétences de réglementation dans le cadre de l'encouragement.
 
 **N. 11** **Rapport avec les cantons** : La nature concurrente de la compétence n'est pas contestée, mais les opinions divergent sur la portée de l'autonomie cantonale. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3e éd. 2016, N. 3854) soulignent la compétence principale cantonale subsistante. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10e éd. 2020, N. 1285) voient en revanche une coresponsabilité fédérale renforcée, notamment pour le financement.
 
-**N. 12** **Interprétation conforme au droit international**: Avec la ratification de la Convention de l'ONU relative aux droits des personnes handicapées, la question s'est posée de savoir dans quelle mesure l'art. 112c Cst. doit être interprété à la lumière du droit international. Schefer (in: Müller/Schefer, Grundrechte, p. 748) exige une interprétation extensive au sens de la Convention. Waldmann appelle à la retenue et souligne la différence entre mandat d'encouragement et obligation de droit fondamental.
+**N. 12** **Interprétation conforme au droit international**: Avec la ratification de la Convention de l'ONU relative aux droits des personnes handicapées, la question s'est posée de savoir dans quelle mesure l'art. 112c Cst. doit être interprété à la lumière du droit international. Schefer (in: Müller/Schefer, Grundrechte, p. 748) exige une interprétation extensive au sens de la Convention. Une partie de la doctrine appelle à la retenue et souligne la différence entre mandat d'encouragement et obligation de droit fondamental.
 
 ### 6. Indications pratiques
 

@@ -30,7 +30,7 @@
 
 ## 5. Streitstände
 
-**N. 11** **Reichweite der kantonalen Gewässerhoheit**: Während Biaggini (BV-Kommentar, Art. 76 N. 5) eine weitgehende Autonomie der Kantone betont, vertreten Waldmann/Belser/Epiney eine restriktivere Auslegung angesichts der umfassenden Bundesgesetzgebung. Das Bundesgericht tendiert zur vermittelnden Position, wonach die kantonale Hoheit zwar fortbesteht, aber erheblich durch Bundesrecht eingeschränkt ist (**BGE 145 II 140**).
+**N. 11** **Reichweite der kantonalen Gewässerhoheit**: Während Biaggini (BV-Kommentar, Art. 76 N. 5) eine weitgehende Autonomie der Kantone betont, vertritt ein anderer Teil der Lehre eine restriktivere Auslegung angesichts der umfassenden Bundesgesetzgebung. Das Bundesgericht tendiert zur vermittelnden Position, wonach die kantonale Hoheit zwar fortbesteht, aber erheblich durch Bundesrecht eingeschränkt ist (**BGE 145 II 140**).
 
 **N. 12** **Verhältnis Wasserkraft - Gewässerschutz**: In der Lehre ist umstritten, wie der Interessenausgleich zwischen Energieproduktion und Umweltschutz zu gewichten ist. Griffel (St. Galler Kommentar BV, Art. 76 N. 18) plädiert für einen strikten Vorrang des Gewässerschutzes, während Keller (in: Häfelin/Haller/Keller/Thurnherr, N. 1099) eine ausgewogene Interessenabwägung fordert. Die Praxis zeigt eine zunehmende Gewichtung ökologischer Anliegen bei gleichzeitiger Anerkennung der energiepolitischen Bedeutung der Wasserkraft.
 

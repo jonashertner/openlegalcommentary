@@ -4,7 +4,7 @@
 
 L'art. 42 Cost. stabilisce che la Confederazione adempie soltanto i compiti che le sono attribuiti dalla Costituzione federale. Questa disposizione è un pilastro fondamentale del federalismo svizzero (ordinamento statale con Confederazione e Cantoni). Significa: la Confederazione non può fare ciò che vuole, ma solo ciò che è stabilito nella Costituzione.
 
-Il principio di enumerazione secondo Biaggini, BSK BV, art. 42 n. 17 stabilisce che le competenze federali devono essere limitate ed espressamente menzionate. Tutti gli altri compiti rimangono ai Cantoni – questo si chiama competenza residua cantonale secondo l'art. 3 Cost.
+Il principio di enumerazione stabilisce che le competenze federali devono essere limitate ed espressamente menzionate. Tutti gli altri compiti rimangono ai Cantoni – questo si chiama competenza residua cantonale secondo l'art. 3 Cost.
 
 **Esempi concreti:**
 - La Confederazione può riscuotere imposte (art. 128 Cost.), ma non ovunque

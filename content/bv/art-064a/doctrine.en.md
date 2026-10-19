@@ -40,7 +40,7 @@
 
 **N. 14** **Scope of federal competence:** Ehrenzeller (SG Komm. BV, Art. 64a N. 7) advocates a broad interpretation of promotional competence that also includes structural measures. Biaggini (Komm. BV, Art. 64a N. 5) argues for a more restrictive interpretation limited to financial promotion and coordination.
 
-**N. 15** **Distinction from formal education:** The doctrine disagrees on the distinction between continuing education under Art. 64a FC and remedial formal education. Hänni wants to subsume part-time university of applied sciences programmes under Art. 64a FC, while the prevailing doctrine assigns these to → Art. 63a FC.
+**N. 15** **Distinction from formal education:** The doctrine disagrees on the distinction between continuing education under Art. 64a FC and remedial formal education. One view in the literature wants to subsume part-time university of applied sciences programmes under Art. 64a FC, while the prevailing doctrine assigns these to → Art. 63a FC.
 
 **N. 16** **Relationship to special statutory continuing education provisions:** It is disputed whether Art. 64a FC establishes a comprehensive cross-cutting competence or whether special statutory continuing education provisions (e.g. in vocational education law, unemployment insurance law) retain their independent constitutional basis.
 

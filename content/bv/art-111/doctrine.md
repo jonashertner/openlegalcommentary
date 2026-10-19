@@ -10,13 +10,13 @@
 
 **N. 3** Art. 111 BV steht im 2. Kapitel («Sozialziele, Bildung und Forschung») des 3. Titels der Bundesverfassung. Er konkretisiert das Sozialziel von → Art. 41 Abs. 2 BV (Sozialversicherung) und bildet die verfassungsrechtliche Grundlage für die Spezialnormen → Art. 112 BV (AHV/IV), → Art. 112a BV (Ergänzungsleistungen), → Art. 113 BV (berufliche Vorsorge) und → Art. 114 BV (Arbeitslosenversicherung).
 
-**N. 4** Im Unterschied zu Art. 41 BV, der als programmatische Norm keine subjektiven Rechte begründet, enthält Art. 111 BV verbindliche Strukturvorgaben für den Gesetzgeber. Gächter betont, dass Art. 111 BV nicht bloss eine Kompetenznorm darstellt, sondern materielle Ausgestaltungsgrundsätze enthält.
+**N. 4** Im Unterschied zu Art. 41 BV, der als programmatische Norm keine subjektiven Rechte begründet, enthält Art. 111 BV verbindliche Strukturvorgaben für den Gesetzgeber. In der Lehre wird betont, dass Art. 111 BV nicht bloss eine Kompetenznorm darstellt, sondern materielle Ausgestaltungsgrundsätze enthält.
 
 ## 3. Tatbestandsmerkmale / Norminhalt
 
 ### a) Das Drei-Säulen-Prinzip (Abs. 1)
 
-**N. 5** Art. 111 Abs. 1 BV verankert die drei Säulen als tragende Struktur der schweizerischen Alters-, Hinterlassenen- und Invalidenvorsorge. Nach Tschudi stellen diese Säulen «materielle Ausgestaltungsgrundsätze und materiell-rechtliche Ergänzungen der Kompetenznorm oder materielle Direktiven des Gesetzgebungsauftrages» dar.
+**N. 5** Art. 111 Abs. 1 BV verankert die drei Säulen als tragende Struktur der schweizerischen Alters-, Hinterlassenen- und Invalidenvorsorge. Nach einer Lehrmeinung stellen diese Säulen «materielle Ausgestaltungsgrundsätze und materiell-rechtliche Ergänzungen der Kompetenznorm oder materielle Direktiven des Gesetzgebungsauftrages» dar.
 
 **N. 6** Die **erste Säule** (AHV/IV) soll gemäss herrschender Lehre den Existenzbedarf sichern (Locher/Gächter, Grundriss des Sozialversicherungsrechts, 4. Aufl. 2014, § 3 N. 12). Sie beruht auf dem Umlageverfahren und erfasst die gesamte Wohnbevölkerung obligatorisch.
 
@@ -26,11 +26,11 @@
 
 ### b) Verfassungsrechtliche Schranken
 
-**N. 9** Nach Brühwiler bildet Art. 111 Abs. 1 BV «eine verfassungsmässige Schranke für die Kompetenzen des Gesetzgebers im Bereich der Alters-, Hinterlassenen- und Invalidenvorsorge». Der Gesetzgeber darf das Drei-Säulen-Prinzip nicht aufgeben oder einzelne Säulen vollständig aushöhlen (Tschudi, Die neue Bundesverfassung als Grundlage des Sozialversicherungsrechts, SZS 2001, 63, 71).
+**N. 9** Nach einer Lehrmeinung bildet Art. 111 Abs. 1 BV «eine verfassungsmässige Schranke für die Kompetenzen des Gesetzgebers im Bereich der Alters-, Hinterlassenen- und Invalidenvorsorge». Der Gesetzgeber darf das Drei-Säulen-Prinzip nicht aufgeben oder einzelne Säulen vollständig aushöhlen (Tschudi, Die neue Bundesverfassung als Grundlage des Sozialversicherungsrechts, SZS 2001, 63, 71).
 
 ### c) Dauerhafte Zweckerfüllung (Abs. 2)
 
-**N. 10** Der Bund hat gemäss Art. 111 Abs. 2 BV für die dauerhafte Zweckerfüllung der ersten und zweiten Säule zu sorgen. Gächter interpretiert dies dahingehend, dass «der Verfassungsgeber herausstreichen [will], dass die erste und die zweite Säule ihre Aufgaben langfristig in einem koordinierten System wahrnehmen müssen».
+**N. 10** Der Bund hat gemäss Art. 111 Abs. 2 BV für die dauerhafte Zweckerfüllung der ersten und zweiten Säule zu sorgen. In der Lehre wird dies dahingehend interpretiert, dass «der Verfassungsgeber herausstreichen [will], dass die erste und die zweite Säule ihre Aufgaben langfristig in einem koordinierten System wahrnehmen müssen».
 
 **N. 11** Die dauerhafte Zweckerfüllung umfasst nach herrschender Lehre sowohl die finanzielle Nachhaltigkeit als auch die materielle Zielerreichung (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 789). Der Bund muss aktiv werden, wenn die Finanzierung oder die Leistungsziele gefährdet sind.
 
@@ -54,7 +54,7 @@
 
 **N. 17** **Umstritten** ist die normative Kraft des Drei-Säulen-Prinzips. Während Tschudi (Das Drei-Säulen-Prinzip, SZS 1987, 1, 15) und Brühwiler (Die betriebliche Personalvorsorge in der Schweiz, 1989, S. 45) von einer strikten verfassungsrechtlichen Bindung ausgehen, vertritt eine Mindermeinung, dass dem Gesetzgeber ein weiter Gestaltungsspielraum zukomme, solange die Grundstruktur erhalten bleibe.
 
-**N. 18** **Kontrovers** diskutiert wird auch die Reichweite der «dauerhaften Zweckerfüllung» (Abs. 2). Gächter fordert eine aktive Überwachungs- und Eingriffspflicht des Bundes. Andere Autoren betonen die primäre Verantwortung der Sozialpartner in der zweiten Säule und warnen vor übermässigen staatlichen Eingriffen.
+**N. 18** **Kontrovers** diskutiert wird auch die Reichweite der «dauerhaften Zweckerfüllung» (Abs. 2). Ein Teil der Lehre fordert eine aktive Überwachungs- und Eingriffspflicht des Bundes. Andere Autoren betonen die primäre Verantwortung der Sozialpartner in der zweiten Säule und warnen vor übermässigen staatlichen Eingriffen.
 
 **N. 19** Die **steuerliche Gleichbehandlung** der Säulen ist ebenfalls umstritten. Während die gebundene Selbstvorsorge (Säule 3a) steuerlich privilegiert wird, fehlt eine vergleichbare Förderung für freiwillige Einkäufe in die zweite Säule teilweise. Ein Teil der Lehre sieht darin eine Inkohärenz des Systems.
 

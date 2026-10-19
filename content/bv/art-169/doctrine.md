@@ -28,7 +28,7 @@
 
 ### 5. Streitstände
 
-**N. 10** **Reichweite der Oberaufsicht über die Justiz**: Umstritten ist, wie weit die parlamentarische Oberaufsicht in die Justizverwaltung eingreifen darf. Müller/Feller vertreten eine enge Auslegung, die nur die reine Verwaltungstätigkeit erfasst. Lienhard (St. Galler Kommentar, Art. 169 N. 17) plädiert für eine weitere Auslegung, die auch die Geschäftsführung in Bezug auf Verfahrensdauern und Pendenzenmanagement einschliesst, soweit die richterliche Unabhängigkeit gewahrt bleibt.
+**N. 10** **Reichweite der Oberaufsicht über die Justiz**: Umstritten ist, wie weit die parlamentarische Oberaufsicht in die Justizverwaltung eingreifen darf. Ein Teil der Lehre vertritt eine enge Auslegung, die nur die reine Verwaltungstätigkeit erfasst. Lienhard (St. Galler Kommentar, Art. 169 N. 17) plädiert für eine weitere Auslegung, die auch die Geschäftsführung in Bezug auf Verfahrensdauern und Pendenzenmanagement einschliesst, soweit die richterliche Unabhängigkeit gewahrt bleibt.
 
 **N. 11** **Präventive Oberaufsicht**: Kontrovers ist, ob die Oberaufsicht rein retrospektiv ist oder auch präventive Elemente umfassen kann. Die traditionelle Lehre (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, 10. Aufl. 2020, N. 1684) betont den nachträglichen Charakter. Neuere Stimmen (Sägesser, Regieren und Verwalten, 2019, 152; Biaggini, BV Kommentar, Art. 169 N. 7) anerkennen auch prospektive Elemente wie die Begleitung von Grossprojekten.
 

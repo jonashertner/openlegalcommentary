@@ -35,7 +35,7 @@
 
 ## Controversies
 
-**N. 10** **Scope of exceptions**: The interpretation of the exception categories is disputed. Müller/Schefer (Grundrechte, 4th ed. 2008, p. 287) advocate for a broad interpretation to protect fundamental rights. Rhinow/Schefer/Uebersax (Verfassungsrecht, 3rd ed. 2016, N 2164) take a more restrictive position with reference to the purpose of the popular initiative. The BSK BV-Waldmann (2nd ed. 2024, Art. 10a N 15) emphasises the necessity of a case-by-case balancing of interests.
+**N. 10** **Scope of exceptions**: The interpretation of the exception categories is disputed. Müller/Schefer (Grundrechte, 4th ed. 2008, p. 287) advocate for a broad interpretation to protect fundamental rights. Rhinow/Schefer/Uebersax (Verfassungsrecht, 3rd ed. 2016, N 2164) take a more restrictive position with reference to the purpose of the popular initiative. Another view in the literature emphasises the necessity of a case-by-case balancing of interests.
 
 **N. 11** **Relationship to the ECHR**: Compatibility with Art. 9 ECHR is controversial. The SGK-Ehrenzeller (4th ed. 2023, Art. 10a N 8) sees no violation of the Convention, referring to ECtHR S.A.S./France. More critical is Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10th ed. 2020, N 456a), who point to the different societal contexts in Switzerland and France.
 

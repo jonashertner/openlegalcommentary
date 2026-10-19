@@ -71,7 +71,7 @@
 
 #### 5.1 Legitimität der Kollisionsregel (Abs. 3)
 
-**N. 20** Umstritten ist die demokratietheoretische Legitimität der Differenzformel nach Abs. 3. Epiney/Diezig betonen, die Regelung schaffe einen sachgerechten Ausgleich zwischen dem demokratischen Mehrheitsprinzip und den föderalen Interessen der Kantone und verhindere, dass marginale Abweichungen allein entscheiden. Demgegenüber äussert Kley (ZBl 2011, 2, 17) Bedenken: Die Differenzformel sei für Stimmberechtigte und Behörden schwer nachvollziehbar und könnte das Abstimmungsergebnis in einer für die Stimmenden nicht vorhersehbaren Weise beeinflussen.
+**N. 20** Umstritten ist die demokratietheoretische Legitimität der Differenzformel nach Abs. 3. Ein Teil der Lehre betont, die Regelung schaffe einen sachgerechten Ausgleich zwischen dem demokratischen Mehrheitsprinzip und den föderalen Interessen der Kantone und verhindere, dass marginale Abweichungen allein entscheiden. Demgegenüber äussert Kley (ZBl 2011, 2, 17) Bedenken: Die Differenzformel sei für Stimmberechtigte und Behörden schwer nachvollziehbar und könnte das Abstimmungsergebnis in einer für die Stimmenden nicht vorhersehbaren Weise beeinflussen.
 
 **N. 21** Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N 1831 f.) sehen in der Differenzregel eine pragmatische Lösung, die indes den demokratietheoretischen Grundsatz «one person, one vote» in einem Spezialfall zugunsten föderaler Gewichtung aufweicht. Da Abs. 3 lediglich einen sehr unwahrscheinlichen Ausnahmefall regelt (doppelte Annahme plus divergierende Stichfragemehrheiten), sei die demokratietheoretische Problematik in der Praxis von untergeordneter Bedeutung.
 

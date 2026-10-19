@@ -6,7 +6,7 @@
 
 **N. 1** L'imposta federale diretta è uno strumento di finanziamento della Confederazione storicamente controverso. La limitazione nel tempo della competenza, sancita nell'art. 196 n. 13 Cost., riflette il compromesso federalista tra i bisogni di finanziamento della Confederazione e la sovranità fiscale dei Cantoni. Dal 1915 la competenza della Confederazione di riscuotere imposte dirette è stata ripetutamente prorogata a tempo determinato. La nuova Costituzione federale del 1999 ha ripreso la disciplina dall'ordinamento finanziario (FF 1997 I 544).
 
-**N. 2** La limitazione nel tempo fino al 2035 (art. 196 n. 13 Cost.) è giudicata criticamente nella dottrina. Vallender/Cavelti ritengono che la limitazione nel tempo non sia appropriata dal punto di vista della teoria costituzionale, poiché l'assunzione a tempo indeterminato di compiti da parte della Confederazione presuppone imperativamente un finanziamento sicuro a tempo indeterminato.
+**N. 2** La limitazione nel tempo fino al 2035 (art. 196 n. 13 Cost.) è giudicata criticamente nella dottrina. Una parte della dottrina ritiene che la limitazione nel tempo non sia appropriata dal punto di vista della teoria costituzionale, poiché l'assunzione a tempo indeterminato di compiti da parte della Confederazione presuppone imperativamente un finanziamento sicuro a tempo indeterminato.
 
 **N. 3** L'introduzione della compensazione della progressione a freddo nel cpv. 3 è avvenuta con la votazione popolare del 20 maggio 1991. In precedenza la progressione a freddo era stata compensata dal 1973 solo in modo irregolare e parziale (FF 1990 I 1265).
 
@@ -16,7 +16,7 @@
 
 **N. 5** Il federalismo di esecuzione (cpv. 4) è caratteristico dell'ordinamento finanziario svizzero. I Cantoni tassano e riscuotono l'imposta federale diretta, benché il diritto materiale all'imposta spetti prevalentemente alla Confederazione (**DTF 141 I 161** consid. 4.2.1). Questa disciplina collega sistematicamente l'imposta federale con il diritto fiscale cantonale.
 
-**N. 6** L'ancoraggio delle aliquote massime nella Costituzione (cpv. 1) è inusuale. Vallender/Cavelti sottolineano che a queste prescrizioni materiali spetta effettivamente una rilevanza di diritto costituzionale e che sono quindi degne della Costituzione.
+**N. 6** L'ancoraggio delle aliquote massime nella Costituzione (cpv. 1) è inusuale. In dottrina si sottolinea che a queste prescrizioni materiali spetta effettivamente una rilevanza di diritto costituzionale e che sono quindi degne della Costituzione.
 
 ### 3. Elementi della fattispecie / Contenuto della norma
 
@@ -46,7 +46,7 @@
 
 ### 5. Controversie
 
-**N. 16** **Limitazione nel tempo della competenza:** Vallender/Cavelti criticano la limitazione nel tempo come inappropriata dal punto di vista della teoria costituzionale. La posizione contraria sottolinea il carattere di compromesso federalista della disciplina.
+**N. 16** **Limitazione nel tempo della competenza:** Una parte della dottrina critica la limitazione nel tempo come inappropriata dal punto di vista della teoria costituzionale. La posizione contraria sottolinea il carattere di compromesso federalista della disciplina.
 
 **N. 17** **Interpretazione delle aliquote massime:** La controversia tra aliquota fiscale media (Locher, Vallender/Looser) e aliquota fiscale marginale (BV 1874-Höhn/Vallender) rimane indecisa a causa della mancanza di rilevanza pratica.
 

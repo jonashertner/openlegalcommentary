@@ -16,7 +16,7 @@
 
 **N. 5** Pour la position des étrangers en matière de droits fondamentaux, sont notamment pertinents les → art. 8 Cst (égalité), → art. 13 Cst (protection de la sphère privée) et → art. 25 Cst (protection contre l'expulsion). Les normes de la CEDH, notamment l'art. 8 CEDH (droit au respect de la vie privée et familiale) et l'art. 3 CEDH (interdiction des traitements inhumains), constituent selon l'→ art. 190 Cst un droit déterminant et limitent l'application de l'art. 121 Cst.
 
-**N. 6** Dans le rapport avec l'accord sur la libre circulation (ALCP) avec l'UE naît un champ de tension. Selon Achermann, BSK BV, Art. 121 N. 27, la compétence fédérale étendue permet de régler en principe toutes les questions concernant le statut et la position des étrangers, tandis que d'autres auteurs soulignent que la Confédération ne peut pas régler l'intégration sans coopération avec les cantons.
+**N. 6** Dans le rapport avec l'accord sur la libre circulation (ALCP) avec l'UE naît un champ de tension. Selon une opinion doctrinale, la compétence fédérale étendue permet de régler en principe toutes les questions concernant le statut et la position des étrangers, tandis que d'autres auteurs soulignent que la Confédération ne peut pas régler l'intégration sans coopération avec les cantons.
 
 ### 3. Éléments constitutifs / Contenu normatif
 

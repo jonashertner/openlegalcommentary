@@ -8,6 +8,6 @@ L'art. 95 Cst. règle de manière particulièrement détaillée les grandes soci
 
 Un exemple : la grande banque UBS doit chaque année faire voter ses actionnaires sur les rémunérations de la direction. S'ils votent contre, ces rémunérations ne sont pas autorisées.
 
-La compétence fédérale selon l'al. 1 est très étendue. Le Tribunal fédéral a confirmé dans l'ATF 125 I 276 que « toute activité privée exercée à titre professionnel » en relève. Selon Felix Uhlmann dans son commentaire BSK, la Confédération peut « déterminer de manière autonome la notion d'activité privée ». Le Conseil fédéral a souligné dans le message relatif à la révision totale que cette compétence était « complète » (FF 1997 I 259).
+La compétence fédérale selon l'al. 1 est très étendue. Le Tribunal fédéral a confirmé dans l'ATF 125 I 276 que « toute activité privée exercée à titre professionnel » en relève. Selon une opinion doctrinale, la Confédération peut « déterminer de manière autonome la notion d'activité privée ». Le Conseil fédéral a souligné dans le message relatif à la révision totale que cette compétence était « complète » (FF 1997 I 259).
 
 La prescription lie ainsi la protection des droits fondamentaux à la régulation étatique : elle permet la liberté économique, mais fixe aussi des limites pour la protection de la collectivité.

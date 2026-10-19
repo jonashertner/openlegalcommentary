@@ -46,7 +46,7 @@
 
 **N. 14** In dottrina è controverso fino a che punto debba estendersi la moderazione giudiziaria per le costituzioni cantonali garantite. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10ª ed. 2020, N 1823) sostengono una posizione rigorosa: il Tribunale federale dovrebbe verificare le disposizioni garantite solo in caso di violazioni manifeste del diritto internazionale cogente. Ehrenzeller/Schweizer (Commentario San Gallese Cost., art. 172 N 15) propugnano una considerazione più differenziata tenendo conto della gerarchia normativa e del principio democratico.
 
-**N. 15** È pure discussa controversamente la portata dell'obbligo di approvazione secondo il cpv. 3. Mentre Waldmann sostiene un'interpretazione ampia che comprende tutti i concordati con carattere normativo, Tschannen (Staatsrecht, 4ª ed. 2021, § 23 N 15) limita l'obbligo ai concordati di notevole portata politica o giuridica.
+**N. 15** È pure discussa controversamente la portata dell'obbligo di approvazione secondo il cpv. 3. Mentre una parte della dottrina sostiene un'interpretazione ampia che comprende tutti i concordati con carattere normativo, Tschannen (Staatsrecht, 4ª ed. 2021, § 23 N 15) limita l'obbligo ai concordati di notevole portata politica o giuridica.
 
 ### 6. Indicazioni pratiche
 

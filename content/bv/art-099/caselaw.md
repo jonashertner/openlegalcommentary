@@ -9,7 +9,7 @@ Das Bundesgericht bestätigte die Befugnis der SNB zur öffentlichen Meinungsäu
 
 > «Gemäss Art. 1 des Bundesgesetzes vom 3. Oktober 2003 über die Schweizerische Nationalbank (NBG; SR 951.11) ist die SNB eine spezialgesetzliche Aktiengesellschaft. Sie führt als unabhängige Zentralbank eine Geld- und Währungspolitik, die dem Gesamtinteresse des Landes dient (Art. 99 Abs. 2 BV). In der Wahrnehmung ihrer Aufgaben ist die SNB an die Grundrechte gebunden (Art. 35 Abs. 2 BV).»
 
-Die Entscheidung wird in der Doktrin als wichtiger Beitrag zur Konkretisierung der SNB-Unabhängigkeit gewürdigt, wobei Häner betont, dass die institutionelle Unabhängigkeit nicht zur völligen Isolierung vom demokratischen Diskurs führen dürfe.
+Die Entscheidung wird in der Doktrin als wichtiger Beitrag zur Konkretisierung der SNB-Unabhängigkeit gewürdigt, wobei betont wird, dass die institutionelle Unabhängigkeit nicht zur völligen Isolierung vom demokratischen Diskurs führen dürfe.
 
 ### Rechtsnatur und Aufgaben der SNB
 
@@ -45,4 +45,4 @@ Das Bundesgericht wies eine Beschwerde ab, die eine Verletzung von Art. 99 BV du
 **Urteil 2C_541/2010** vom 27. Dezember 2010 — Mehrwertsteuerliche Behandlung der SNB
 Das Bundesgericht bestätigte die mehrwertsteuerrechtliche Behandlung der SNB als öffentlich-rechtliche Körperschaft. Die Entscheidung ist relevant für die Auslegung von Art. 99 Abs. 4 BV (Gewinnverteilung), da sie die öffentlich-rechtliche Natur der SNB trotz ihrer Rechtsform als Aktiengesellschaft unterstreicht.
 
-Die bundesgerichtliche Rechtsprechung zu Art. 99 BV wird in der Doktrin als zurückhaltend, aber konsistent gewürdigt. Waldmann betont, dass die Gerichte die verfassungsrechtlich gewollte Unabhängigkeit der SNB respektieren und nur bei evidenten Rechtsverletzungen eingreifen.
+Die bundesgerichtliche Rechtsprechung zu Art. 99 BV wird in der Doktrin als zurückhaltend, aber konsistent gewürdigt. In der Lehre wird betont, dass die Gerichte die verfassungsrechtlich gewollte Unabhängigkeit der SNB respektieren und nur bei evidenten Rechtsverletzungen eingreifen.

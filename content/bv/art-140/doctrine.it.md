@@ -26,7 +26,7 @@
 
 **N. 9** **Comunità sopranazionali (lett. b)**: Il Consiglio federale le definisce come organizzazioni con organi indipendenti che possono emanare con decisioni a maggioranza atti immediatamente vincolanti per le persone singole e dispongono di competenze materiali relativamente ampie. L'UE soddisfa indiscutibilmente questi criteri.
 
-**N. 10** È controversa la classificazione dello SEE: Epiney/Diezig così come Hangartner/Kley affermano la sopranazionalità a causa dello sviluppo dinamico del diritto e delle competenze dell'Autorità di sorveglianza AELS. Häfelin/Haller/Keller, Tschannen e Biaggini la negano invece, poiché il diritto SEE non è direttamente applicabile e il recepimento di nuovi atti giuridici necessita dell'approvazione delle parti contraenti.
+**N. 10** È controversa la classificazione dello SEE: Hangartner/Kley affermano la sopranazionalità a causa dello sviluppo dinamico del diritto e delle competenze dell'Autorità di sorveglianza AELS. Häfelin/Haller/Keller, Tschannen e Biaggini la negano invece, poiché il diritto SEE non è direttamente applicabile e il recepimento di nuovi atti giuridici necessita dell'approvazione delle parti contraenti.
 
 **N. 11** **Leggi federali urgenti senza base costituzionale (lett. c)**: Questa costellazione rara riguarda solo leggi federali che cumulativamente: (1) sono state dichiarate urgenti dall'Assemblea federale (→ art. 165 Cost.), (2) non hanno base costituzionale e (3) la cui durata di validità supera un anno. Devono essere sottoposte a votazione entro un anno dall'approvazione.
 

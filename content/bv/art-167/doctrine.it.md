@@ -36,7 +36,7 @@
 
 **N. 11** **Efficacia vincolante del preventivo**: è controverso il grado dell'efficacia vincolante del preventivo. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5a ed. 2021, § 42 N 18) rappresenta un vincolo rigoroso, mentre Lienhard/Mächler (Finanzrecht, 2017, N 234) invocano maggiore flessibilità per eventi imprevisti. La prassi segue una soluzione di compromesso con crediti aggiuntivi.
 
-**N. 12** **Grado di dettaglio**: è discusso in modo controverso il grado di dettaglio richiesto del preventivo. Sägesser (op. cit., art. 5 N 8) richiede una ripartizione dettagliata per un controllo parlamentare effettivo. Waldmann mette in guardia contro un sovracontrollo dell'esecutivo tramite disposizioni di bilancio troppo minuziose. La vigente legge sulla gestione finanziaria cerca una via di mezzo.
+**N. 12** **Grado di dettaglio**: è discusso in modo controverso il grado di dettaglio richiesto del preventivo. Sägesser (op. cit., art. 5 N 8) richiede una ripartizione dettagliata per un controllo parlamentare effettivo. Un'altra parte della dottrina mette in guardia contro un sovracontrollo dell'esecutivo tramite disposizioni di bilancio troppo minuziose. La vigente legge sulla gestione finanziaria cerca una via di mezzo.
 
 **N. 13** **Rapporto con le leggi materiali**: è controverso il rapporto tra decisioni di spesa secondo l'art. 167 Cost. e obblighi di spesa legali. L'opinione maggioritaria (Ehrenzeller, St. Galler Kommentar, art. 167 N 14; Häfelin/Haller/Keller/Thurnherr, op. cit., N 1825) vede le leggi materiali come base sufficiente per le spese. Una minoranza (Reich, Finanzordnung, 2012, p. 156) richiede ulteriori decisioni di credito.
 

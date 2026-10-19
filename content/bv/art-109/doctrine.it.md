@@ -43,7 +43,7 @@ Il significato pratico è rimasto limitato; finora sono avvenute solo due dichia
 
 ### 5. Controversie
 
-**N. 14** **Portata della competenza federale**: È controversa la portata dell'effetto di blocco del diritto federale. Mentre Cardinaux parte da una sostituzione completa delle competenze cantonali nell'intero diritto di locazione, parti della dottrina sostengono una considerazione più differenziata. Higi (ZK, Die Miete, 3a ed. 1994, osserv. prel. n. 201) e Lachat (Das Mietrecht für die Praxis, n. 1.4.2) riconoscono margini per il diritto pubblico cantonale, purché non intervenga nei rapporti di diritto privato.
+**N. 14** **Portata della competenza federale**: È controversa la portata dell'effetto di blocco del diritto federale. Mentre un'opinione dottrinale parte da una sostituzione completa delle competenze cantonali nell'intero diritto di locazione, parti della dottrina sostengono una considerazione più differenziata. Higi (ZK, Die Miete, 3a ed. 1994, osserv. prel. n. 201) e Lachat (Das Mietrecht für die Praxis, n. 1.4.2) riconoscono margini per il diritto pubblico cantonale, purché non intervenga nei rapporti di diritto privato.
 
 **N. 15** **Metodi di valutazione per l'abuso di pigione**: È discusso controversamente il rapporto tra criterio del rendimento e criterio della pigione comparativa. La dottrina dominante (SVIT, Kommentar, art. 269a n. 7) è favorevole a un diritto di scelta delle parti. Un'opinione minoritaria (Rossinelli, in: Bohnet/Wessner, 16e Séminaire sur le droit du bail, 2010, 175 seg.) propugna un'applicazione cumulativa di entrambi i criteri per un controllo completo degli abusi.
 

@@ -18,17 +18,17 @@
 
 **N. 5** La notion de victime présuppose qu'une personne a été atteinte dans son intégrité physique, psychique ou sexuelle par une infraction. La jurisprudence interprète largement la notion d'infraction et englobe aussi les délits de négligence par omission avec un grand écart temporel entre l'acte et la survenance du résultat (**ATF 134 II 308 consid. 5**). Ce qui est déterminant, c'est la réalisation des éléments constitutifs objectifs et subjectifs, non le comportement contraire au devoir de diligence comme tel.
 
-**N. 6** Göksu souligne que seules les personnes physiques peuvent être victimes. L'atteinte doit avoir été causée directement par l'infraction. Outre les victimes primaires, l'art. 124 Cst. englobe aussi les proches comme victimes secondaires, pour autant qu'ils aient été atteints dans leur intégrité psychique par l'infraction elle-même.
+**N. 6** Une partie de la doctrine souligne que seules les personnes physiques peuvent être victimes. L'atteinte doit avoir été causée directement par l'infraction. Outre les victimes primaires, l'art. 124 Cst. englobe aussi les proches comme victimes secondaires, pour autant qu'ils aient été atteints dans leur intégrité psychique par l'infraction elle-même.
 
 ### 3.2 Aide
 
-**N. 7** L'« aide » constitutionnellement requise comprend selon la doctrine dominante un système à trois niveaux: aide immédiate, aide à plus long terme et prestations financières. Il est controversé de savoir si l'aide aux victimes a aussi un effet préventif. Une partie de la littérature défend l'opinion que l'aide aux victimes ne devrait pas seulement intervenir en présence d'une infraction, mais déjà en cas de menace d'infraction. Göksu s'oppose à cette interprétation en arguant qu'elle ne trouve d'appui ni dans le libellé ni dans les travaux préparatoires. La pratique jurisprudentielle du Tribunal fédéral ne s'est pas encore prononcée définitivement sur cette controverse.
+**N. 7** L'« aide » constitutionnellement requise comprend selon la doctrine dominante un système à trois niveaux: aide immédiate, aide à plus long terme et prestations financières. Il est controversé de savoir si l'aide aux victimes a aussi un effet préventif. Une partie de la littérature défend l'opinion que l'aide aux victimes ne devrait pas seulement intervenir en présence d'une infraction, mais déjà en cas de menace d'infraction. Une autre partie de la doctrine s'oppose à cette interprétation en arguant qu'elle ne trouve d'appui ni dans le libellé ni dans les travaux préparatoires. La pratique jurisprudentielle du Tribunal fédéral ne s'est pas encore prononcée définitivement sur cette controverse.
 
 ### 3.3 Indemnisation équitable
 
 **N. 8** L'« indemnisation équitable » est liée à la condition que la victime soit tombée dans des difficultés économiques à cause de l'infraction. La jurisprudence concrétise ces difficultés en recourant au système des prestations complémentaires (**ATF 131 II 217**). L'indemnisation a un caractère subsidiaire ; les prestations de tiers sont imputées.
 
-**N. 9** Göksu explique que le caractère équitable de l'indemnisation exige une pesée entre la situation financière de la victime et le dommage subi. L'indemnisation ne doit pas couvrir l'entier du dommage, mais doit prévenir ou atténuer les situations de détresse économique.
+**N. 9** Une partie de la doctrine explique que le caractère équitable de l'indemnisation exige une pesée entre la situation financière de la victime et le dommage subi. L'indemnisation ne doit pas couvrir l'entier du dommage, mais doit prévenir ou atténuer les situations de détresse économique.
 
 ## 4. Effets juridiques
 
@@ -40,7 +40,7 @@
 
 ### 5.1 Aide préventive aux victimes
 
-**N. 12** Un point central de controverse concerne la question de savoir si l'aide aux victimes s'applique déjà en cas de menace d'infraction. Gomm/Zehntner (Commentaire LAVI, 3e éd. 2009, art. 1 n. 15) et Leubin Müller (AJP 2012, 1585, 1587) défendent l'opinion que le but de protection de l'aide aux victimes englobe aussi les mesures préventives. Göksu s'y oppose en renvoyant au libellé clair (« par une infraction ») et à l'absence d'appui dans les travaux préparatoires. La pratique des centres cantonaux d'aide aux victimes n'est pas uniforme.
+**N. 12** Un point central de controverse concerne la question de savoir si l'aide aux victimes s'applique déjà en cas de menace d'infraction. Gomm/Zehntner (Commentaire LAVI, 3e éd. 2009, art. 1 n. 15) et Leubin Müller (AJP 2012, 1585, 1587) défendent l'opinion que le but de protection de l'aide aux victimes englobe aussi les mesures préventives. Une autre partie de la doctrine s'y oppose en renvoyant au libellé clair (« par une infraction ») et à l'absence d'appui dans les travaux préparatoires. La pratique des centres cantonaux d'aide aux victimes n'est pas uniforme.
 
 ### 5.2 Rapport avec l'assistance judiciaire gratuite
 
@@ -52,4 +52,4 @@
 
 **N. 15** En cas de dommages à long terme (amiante, infections HIV), le délai de péremption ne commence qu'avec la reconnaissance du dommage (**ATF 126 II 348**). Les centres de consultation sont obligés d'attirer l'attention sur ces particularités et d'aider à la formulation de la demande.
 
-**N. 16** Dans le contexte transfrontalier, il faut tenir compte du contexte de droit international. Göksu renvoie à la Convention européenne relative au dédommagement des victimes d'infractions violentes (RS 0.312.5) et à la directive européenne 2012/29/UE relative aux victimes. Les victimes suisses d'infractions violentes dans l'espace UE peuvent se prévaloir de ces instruments.
+**N. 16** Dans le contexte transfrontalier, il faut tenir compte du contexte de droit international. Une partie de la doctrine renvoie à la Convention européenne relative au dédommagement des victimes d'infractions violentes (RS 0.312.5) et à la directive européenne 2012/29/UE relative aux victimes. Les victimes suisses d'infractions violentes dans l'espace UE peuvent se prévaloir de ces instruments.

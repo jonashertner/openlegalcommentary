@@ -10,13 +10,13 @@
 
 **N. 3** L'art. 111 Cst figure au 2e chapitre (« Buts sociaux, éducation et recherche ») du 3e titre de la Constitution fédérale. Il concrétise l'objectif social de → l'art. 41 al. 2 Cst (assurance sociale) et constitue le fondement constitutionnel des normes spéciales → art. 112 Cst (AVS/AI), → art. 112a Cst (prestations complémentaires), → art. 113 Cst (prévoyance professionnelle) et → art. 114 Cst (assurance-chômage).
 
-**N. 4** Contrairement à l'art. 41 Cst, qui en tant que norme programmatique ne fonde aucun droit subjectif, l'art. 111 Cst contient des directives structurelles contraignantes pour le législateur. Gächter souligne que l'art. 111 Cst ne représente pas seulement une norme de compétence, mais contient des principes d'aménagement matériels.
+**N. 4** Contrairement à l'art. 41 Cst, qui en tant que norme programmatique ne fonde aucun droit subjectif, l'art. 111 Cst contient des directives structurelles contraignantes pour le législateur. Une partie de la doctrine souligne que l'art. 111 Cst ne représente pas seulement une norme de compétence, mais contient des principes d'aménagement matériels.
 
 ## 3. Éléments constitutifs / contenu normatif
 
 ### a) Le principe des trois piliers (al. 1)
 
-**N. 5** L'art. 111 al. 1 Cst ancre les trois piliers comme structure porteuse de la prévoyance vieillesse, survivants et invalidité suisse. Selon Tschudi, ces piliers représentent « des principes d'aménagement matériels et des compléments matériels de la norme de compétence ou des directives matérielles du mandat législatif ».
+**N. 5** L'art. 111 al. 1 Cst ancre les trois piliers comme structure porteuse de la prévoyance vieillesse, survivants et invalidité suisse. Selon une opinion doctrinale, ces piliers représentent « des principes d'aménagement matériels et des compléments matériels de la norme de compétence ou des directives matérielles du mandat législatif ».
 
 **N. 6** Le **premier pilier** (AVS/AI) doit selon la doctrine dominante garantir les besoins vitaux (Locher/Gächter, Grundriss des Sozialversicherungsrechts, 4e éd. 2014, § 3 N. 12). Il repose sur le système de répartition et couvre obligatoirement l'ensemble de la population résidente.
 
@@ -26,11 +26,11 @@
 
 ### b) Limites constitutionnelles
 
-**N. 9** Selon Brühwiler, l'art. 111 al. 1 Cst constitue « une limite constitutionnelle aux compétences du législateur dans le domaine de la prévoyance vieillesse, survivants et invalidité ». Le législateur ne peut pas abandonner le principe des trois piliers ou vider complètement certains piliers (Tschudi, Die neue Bundesverfassung als Grundlage des Sozialversicherungsrechts, SZS 2001, 63, 71).
+**N. 9** Selon une opinion doctrinale, l'art. 111 al. 1 Cst constitue « une limite constitutionnelle aux compétences du législateur dans le domaine de la prévoyance vieillesse, survivants et invalidité ». Le législateur ne peut pas abandonner le principe des trois piliers ou vider complètement certains piliers (Tschudi, Die neue Bundesverfassung als Grundlage des Sozialversicherungsrechts, SZS 2001, 63, 71).
 
 ### c) Accomplissement durable des tâches (al. 2)
 
-**N. 10** La Confédération doit selon l'art. 111 al. 2 Cst veiller à l'accomplissement durable des tâches du premier et du deuxième pilier. Gächter interprète ceci dans le sens où « le constituant [veut] souligner que le premier et le deuxième pilier doivent accomplir leurs tâches à long terme dans un système coordonné ».
+**N. 10** La Confédération doit selon l'art. 111 al. 2 Cst veiller à l'accomplissement durable des tâches du premier et du deuxième pilier. Une partie de la doctrine interprète ceci dans le sens où « le constituant [veut] souligner que le premier et le deuxième pilier doivent accomplir leurs tâches à long terme dans un système coordonné ».
 
 **N. 11** L'accomplissement durable des tâches comprend selon la doctrine dominante tant la viabilité financière que la réalisation des objectifs matériels (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10e éd. 2020, N. 789). La Confédération doit agir si le financement ou les objectifs de prestations sont menacés.
 
@@ -54,7 +54,7 @@
 
 **N. 17** La **force normative** du principe des trois piliers est **controversée**. Alors que Tschudi (Das Drei-Säulen-Prinzip, SZS 1987, 1, 15) et Brühwiler (Die betriebliche Personalvorsorge in der Schweiz, 1989, p. 45) partent d'un lien constitutionnel strict, une opinion minoritaire soutient que le législateur dispose d'une large marge d'aménagement tant que la structure de base est préservée.
 
-**N. 18** La portée de « l'accomplissement durable des tâches » (al. 2) est également **controversée**. Gächter exige une obligation active de surveillance et d'intervention de la Confédération. D'autres auteurs soulignent la responsabilité primaire des partenaires sociaux dans le deuxième pilier et mettent en garde contre des interventions étatiques excessives.
+**N. 18** La portée de « l'accomplissement durable des tâches » (al. 2) est également **controversée**. Une partie de la doctrine exige une obligation active de surveillance et d'intervention de la Confédération. D'autres auteurs soulignent la responsabilité primaire des partenaires sociaux dans le deuxième pilier et mettent en garde contre des interventions étatiques excessives.
 
 **N. 19** **L'égalité de traitement fiscal** des piliers est également controversée. Alors que la prévoyance liée (pilier 3a) est privilégiée fiscalement, un encouragement comparable fait parfois défaut pour les rachats volontaires dans le deuxième pilier. Une partie de la doctrine y voit une incohérence du système.
 

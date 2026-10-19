@@ -24,7 +24,7 @@
 
 **N. 6** **Commissioni comuni (cpv. 2)**: La legge «può» prevedere commissioni comuni di entrambi i Consigli. Questa disposizione facoltativa consente eccezioni al principio delle deliberazioni separate dei Consigli. Commissioni comuni esistono attualmente per la grazia (art. 49 LParl), la redazione (art. 56–59 LParl) e come commissione giudiziaria (art. 40a LParl).
 
-**N. 7** **Trasferimento di competenze (cpv. 3)**: Il trasferimento di competenze alle commissioni è limitato a quelle «non di natura legislativa». Secondo Waldmann/Belser/Epiney ciò comprende atti amministrativi, azioni preparatorie e funzioni di vigilanza, ma non la legislazione stessa, che rimane riservata al plenum.
+**N. 7** **Trasferimento di competenze (cpv. 3)**: Il trasferimento di competenze alle commissioni è limitato a quelle «non di natura legislativa». Secondo una parte della dottrina ciò comprende atti amministrativi, azioni preparatorie e funzioni di vigilanza, ma non la legislazione stessa, che rimane riservata al plenum.
 
 **N. 8** **Diritti di informazione (cpv. 4)**: I diritti di informazione costituzionali si suddividono in tre categorie:
 - **Diritti di informazione**: obbligo dell'amministrazione di informare (art. 150 LParl)

@@ -10,13 +10,13 @@
 
 **N. 3** L'art. 111 Cost. si trova nel 2° capitolo («Obiettivi sociali, educazione e ricerca») del 3° titolo della Costituzione federale. Esso concretizza l'obiettivo sociale dell'→ art. 41 cpv. 2 Cost. (assicurazione sociale) e costituisce il fondamento costituzionale per le norme speciali → art. 112 Cost. (AVS/AI), → art. 112a Cost. (prestazioni complementari), → art. 113 Cost. (previdenza professionale) e → art. 114 Cost. (assicurazione contro la disoccupazione).
 
-**N. 4** A differenza dell'art. 41 Cost., che come norma programmatica non fonda diritti soggettivi, l'art. 111 Cost. contiene direttive strutturali vincolanti per il legislatore. Gächter sottolinea che l'art. 111 Cost. non rappresenta meramente una norma di competenza, ma contiene principi materiali di configurazione.
+**N. 4** A differenza dell'art. 41 Cost., che come norma programmatica non fonda diritti soggettivi, l'art. 111 Cost. contiene direttive strutturali vincolanti per il legislatore. In dottrina si sottolinea che l'art. 111 Cost. non rappresenta meramente una norma di competenza, ma contiene principi materiali di configurazione.
 
 ## 3. Elementi costitutivi / Contenuto normativo
 
 ### a) Il principio dei tre pilastri (cpv. 1)
 
-**N. 5** L'art. 111 cpv. 1 Cost. ancora i tre pilastri come struttura portante della previdenza per la vecchiaia, i superstiti e l'invalidità svizzera. Secondo Tschudi questi pilastri rappresentano «principi materiali di configurazione e integrazioni materiali-giuridiche della norma di competenza o direttive materiali del mandato legislativo».
+**N. 5** L'art. 111 cpv. 1 Cost. ancora i tre pilastri come struttura portante della previdenza per la vecchiaia, i superstiti e l'invalidità svizzera. Secondo un'opinione dottrinale questi pilastri rappresentano «principi materiali di configurazione e integrazioni materiali-giuridiche della norma di competenza o direttive materiali del mandato legislativo».
 
 **N. 6** Il **primo pilastro** (AVS/AI) deve secondo la dottrina dominante garantire il fabbisogno esistenziale (Locher/Gächter, Grundriss des Sozialversicherungsrechts, 4ª ed. 2014, § 3 N. 12). Si basa sul sistema di ripartizione e comprende obbligatoriamente tutta la popolazione residente.
 
@@ -26,11 +26,11 @@
 
 ### b) Limiti costituzionali
 
-**N. 9** Secondo Brühwiler l'art. 111 cpv. 1 Cost. costituisce «un limite costituzionale per le competenze del legislatore nel settore della previdenza per la vecchiaia, i superstiti e l'invalidità». Il legislatore non può abbandonare il principio dei tre pilastri o svuotare completamente singoli pilastri (Tschudi, Die neue Bundesverfassung als Grundlage des Sozialversicherungsrechts, SZS 2001, 63, 71).
+**N. 9** Secondo un'opinione dottrinale l'art. 111 cpv. 1 Cost. costituisce «un limite costituzionale per le competenze del legislatore nel settore della previdenza per la vecchiaia, i superstiti e l'invalidità». Il legislatore non può abbandonare il principio dei tre pilastri o svuotare completamente singoli pilastri (Tschudi, Die neue Bundesverfassung als Grundlage des Sozialversicherungsrechts, SZS 2001, 63, 71).
 
 ### c) Adempimento duraturo dello scopo (cpv. 2)
 
-**N. 10** La Confederazione deve secondo l'art. 111 cpv. 2 Cost. provvedere al duraturo adempimento dello scopo del primo e del secondo pilastro. Gächter interpreta questo nel senso che «il costituente vuole sottolineare che il primo e il secondo pilastro devono adempiere i loro compiti a lungo termine in un sistema coordinato».
+**N. 10** La Confederazione deve secondo l'art. 111 cpv. 2 Cost. provvedere al duraturo adempimento dello scopo del primo e del secondo pilastro. Una parte della dottrina interpreta questo nel senso che «il costituente vuole sottolineare che il primo e il secondo pilastro devono adempiere i loro compiti a lungo termine in un sistema coordinato».
 
 **N. 11** L'adempimento duraturo dello scopo comprende secondo la dottrina dominante sia la sostenibilità finanziaria che il raggiungimento degli obiettivi materiali (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10ª ed. 2020, N. 789). La Confederazione deve intervenire attivamente quando il finanziamento o gli obiettivi prestazionali sono minacciati.
 
@@ -54,7 +54,7 @@
 
 **N. 17** **Controversa** è la forza normativa del principio dei tre pilastri. Mentre Tschudi (Das Drei-Säulen-Prinzip, SZS 1987, 1, 15) e Brühwiler (Die betriebliche Personalvorsorge in der Schweiz, 1989, pag. 45) partono da un vincolo costituzionale rigoroso, un'opinione minoritaria sostiene che al legislatore spetti un ampio margine di configurazione, purché sia mantenuta la struttura di base.
 
-**N. 18** Si discute **controversamente** anche la portata dell'«adempimento duraturo dello scopo» (cpv. 2). Gächter richiede un obbligo attivo di sorveglianza e intervento della Confederazione. Altri autori sottolineano la responsabilità primaria delle parti sociali nel secondo pilastro e mettono in guardia contro interventi statali eccessivi.
+**N. 18** Si discute **controversamente** anche la portata dell'«adempimento duraturo dello scopo» (cpv. 2). Una parte della dottrina richiede un obbligo attivo di sorveglianza e intervento della Confederazione. Altri autori sottolineano la responsabilità primaria delle parti sociali nel secondo pilastro e mettono in guardia contro interventi statali eccessivi.
 
 **N. 19** La **parità di trattamento fiscale** dei pilastri è anch'essa controversa. Mentre la previdenza individuale vincolata (pilastro 3a) è fiscalmente privilegiata, manca parzialmente una promozione comparabile per i riscatti volontari nel secondo pilastro. Una parte della dottrina vi vede un'incoerenza del sistema.
 

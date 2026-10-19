@@ -34,7 +34,7 @@
 
 #### Encouragement de la compréhension (al. 3)
 
-**N. 12** L'obligation d'encourager la compréhension s'adresse aussi bien à la Confédération qu'aux cantons. Elle est de nature programmatoire et ne fonde pas de droits subjectifs. Ehrenzeller soutient qu'aucune compétence matérielle de réglementation de la Confédération pour l'enseignement des langues étrangères ne peut être déduite de cette disposition.
+**N. 12** L'obligation d'encourager la compréhension s'adresse aussi bien à la Confédération qu'aux cantons. Elle est de nature programmatoire et ne fonde pas de droits subjectifs. Une partie de la doctrine soutient qu'aucune compétence matérielle de réglementation de la Confédération pour l'enseignement des langues étrangères ne peut être déduite de cette disposition.
 
 #### Obligations de soutien de la Confédération (al. 4 et 5)
 

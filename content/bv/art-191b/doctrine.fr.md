@@ -61,7 +61,7 @@
 
 **ch. 13** **Exigences relatives à l'indépendance judiciaire** : Rhinow/Schefer/Uebersax (Droit constitutionnel suisse, 3e éd. 2016, ch. 3640) défendent une conception formelle selon laquelle la désignation comme tribunal et l'aménagement légal sont déterminants. La doctrine plus récente (Tschannen/Zimmerli/Müller, Droit administratif général, 4e éd. 2014, § 10 ch. 25) et la jurisprudence suivent en revanche une approche fonctionnelle qui vise l'indépendance effective.
 
-**ch. 14** **Portée de l'al. 2**: Ehrenzeller/Schindler/Schweizer/Vallender (Commentaire saint-gallois de la Cst., art. 191b ch. 12) voient dans l'al. 2 une habilitation constitutive. Waldmann/Belser/Epiney considèrent en revanche cette norme comme déclaratoire, la compétence découlant déjà de l'art. 48 Cst. Le Tribunal fédéral a laissé cette question ouverte (**ATF 135 II 338** consid. 1).
+**ch. 14** **Portée de l'al. 2**: Ehrenzeller/Schindler/Schweizer/Vallender (Commentaire saint-gallois de la Cst., art. 191b ch. 12) voient dans l'al. 2 une habilitation constitutive. Une autre partie de la doctrine considère en revanche cette norme comme déclaratoire, la compétence découlant déjà de l'art. 48 Cst. Le Tribunal fédéral a laissé cette question ouverte (**ATF 135 II 338** consid. 1).
 
 ### 6. Indications pratiques
 

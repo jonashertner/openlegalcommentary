@@ -14,7 +14,7 @@
 
 ### 3. Tatbestandsmerkmale
 
-**N. 5** **Öffentliche Werke**: Der Begriff ist umstritten. Die traditionelle Lehre vertritt ein enges Begriffsverständnis: Kern, BSK BV, Art. 81 N. 9 zitiert zustimmend Burckhardt, wonach für die Werkeigenschaft «namentlich die Körperlichkeit der Anlage, ihre Verbindung zum Boden, der künstliche Charakter sowie die Veränderung bzw. Wiederherstellung eines natürlichen Zustandes» massgeblich sind. Demgegenüber plädieren Lendi/Vogel, SG Komm. BV, Art. 81 N. 23 für ein weiteres Begriffsverständnis, «welches auch nicht bodengebundene Anlagen wie bspw. Satelliten oder virtuelle Einrichtungen mit einschliesst».
+**N. 5** **Öffentliche Werke**: Der Begriff ist umstritten. Die traditionelle Lehre vertritt ein enges Begriffsverständnis: Zustimmend zitiert wird Burckhardt, wonach für die Werkeigenschaft «namentlich die Körperlichkeit der Anlage, ihre Verbindung zum Boden, der künstliche Charakter sowie die Veränderung bzw. Wiederherstellung eines natürlichen Zustandes» massgeblich sind. Demgegenüber plädieren Lendi/Vogel, SG Komm. BV, Art. 81 N. 23 für ein weiteres Begriffsverständnis, «welches auch nicht bodengebundene Anlagen wie bspw. Satelliten oder virtuelle Einrichtungen mit einschliesst».
 
 **N. 6** **Im Interesse des ganzen oder eines grossen Teils des Landes**: Diese Formulierung grenzt die Bundeskompetenz von kantonalen und kommunalen Werken ab. Erfasst sind Werke mit überregionaler Bedeutung, die mehrere Kantone betreffen oder von nationaler strategischer Bedeutung sind. Die Praxis zeigt eine grosszügige Auslegung bei Verkehrs-, Energie- und Kommunikationsinfrastrukturen (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N 1089).
 

@@ -65,7 +65,7 @@
 
 ### Delimitation from independent ordinances
 
-**N. 18** The permissibility of independent ordinances based on Art. 182 para. 1 BV is controversial. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, N 1823) recognize a narrow area for organizational ordinances. Waldmann categorically rejects independent ordinances with external effect.
+**N. 18** The permissibility of independent ordinances based on Art. 182 para. 1 BV is controversial. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, N 1823) recognize a narrow area for organizational ordinances. Other commentators categorically reject independent ordinances with external effect.
 
 **N. 19** Practice shows a tendency toward extensive use of implementing ordinances. Malinverni/Hottelier/Hertig Randall/Flückiger (Droit constitutionnel suisse, N 1456) criticize this «érosion du principe de légalité» and call for a return to the reservation of law.
 

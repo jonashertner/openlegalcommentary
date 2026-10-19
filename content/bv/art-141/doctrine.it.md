@@ -26,7 +26,7 @@
 
 #### Atti soggetti a referendum
 
-**N. 9** **Leggi federali (lett. a)**: Tutte le leggi federali formali sottostanno automaticamente al referendum facoltativo. Epiney/Diezig sottolineano che il principio dell'unità della materia riveste solo un ruolo subordinato — contrariamente all'iniziativa popolare.
+**N. 9** **Leggi federali (lett. a)**: Tutte le leggi federali formali sottostanno automaticamente al referendum facoltativo. In dottrina si sottolinea che il principio dell'unità della materia riveste solo un ruolo subordinato — contrariamente all'iniziativa popolare.
 
 **N. 10** **Leggi federali dichiarate urgenti (lett. b)**: Solo le leggi federali urgenti con durata superiore a un anno sono soggette a referendum. La dichiarazione d'urgenza secondo l'art. 165 Cost. sottrae inizialmente la legge al referendum, ma la sottopone successivamente alla votazione popolare in caso di durata più lunga.
 
@@ -44,13 +44,13 @@
 
 #### Disdetta di trattati di diritto internazionale
 
-**N. 15** Una questione controversa centrale riguarda l'obbligo del referendum per la disdetta di trattati di diritto internazionale. Epiney/Diezig argomentano che ragioni valide parlano per un'applicazione analogica del referendum alle disdette: «La legittimazione democratica è altrettanto importante per la disdetta quanto per la conclusione.»
+**N. 15** Una questione controversa centrale riguarda l'obbligo del referendum per la disdetta di trattati di diritto internazionale. Una parte della dottrina argomenta che ragioni valide parlano per un'applicazione analogica del referendum alle disdette: «La legittimazione democratica è altrettanto importante per la disdetta quanto per la conclusione.»
 
 **N. 16** L'opinione contraria, rappresentata da parti della dottrina più datata, vede nell'art. 141 Cost. un'enumerazione esaustiva. Diggelmann (ZBl 2014, 291, 315) mette in guardia da un'interpretazione estensiva senza chiara base costituzionale.
 
 #### Accordi standard
 
-**N. 17** La prassi parlamentare di sottrarre certi trattati di diritto internazionale al referendum come «accordi standard» è molto controversa. Epiney/Diezig criticano questa prassi come «non al di sopra di ogni dubbio». Diggelmann (ZBl 2014, 291, 320) la qualifica addirittura come potenzialmente incostituzionale.
+**N. 17** La prassi parlamentare di sottrarre certi trattati di diritto internazionale al referendum come «accordi standard» è molto controversa. Una parte della dottrina critica questa prassi come «non al di sopra di ogni dubbio». Diggelmann (ZBl 2014, 291, 320) la qualifica addirittura come potenzialmente incostituzionale.
 
 **N. 18** I fautori della prassi degli accordi standard argomentano con la praticabilità e la scarsa importanza politica dei trattati ripetitivi. Mannhart Gomes (Diss. Bern 2007, 145) vi vede una concretizzazione ammissibile dei concetti giuridici indeterminati nell'art. 141 cpv. 1 lett. d Cost.
 

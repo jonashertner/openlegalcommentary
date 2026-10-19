@@ -46,7 +46,7 @@
 
 **N. 14** Dans la doctrine, il est controversé de savoir jusqu'où doit aller la retenue judiciaire concernant les constitutions cantonales garanties. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10e éd. 2020, N 1823) défendent une position stricte : le Tribunal fédéral ne devrait réviser les dispositions garanties qu'en cas de violation manifeste du droit international impératif. Ehrenzeller/Schweizer (St. Galler Kommentar BV, art. 172 N 15) plaident pour une approche plus différenciée tenant compte de la hiérarchie des normes et du principe démocratique.
 
-**N. 15** La portée de l'obligation d'approbation selon l'al. 3 fait également l'objet de discussions controversées. Alors que Waldmann défend une interprétation large qui englobe tous les traités à caractère normatif, Tschannen (Staatsrecht, 4e éd. 2021, § 23 N 15) limite l'obligation aux traités d'une portée politique ou juridique considérable.
+**N. 15** La portée de l'obligation d'approbation selon l'al. 3 fait également l'objet de discussions controversées. Alors qu'une partie de la doctrine défend une interprétation large qui englobe tous les traités à caractère normatif, Tschannen (Staatsrecht, 4e éd. 2021, § 23 N 15) limite l'obligation aux traités d'une portée politique ou juridique considérable.
 
 ### 6. Conseils pratiques
 

@@ -18,9 +18,9 @@
 
 ### Diritto civile (cpv. 1)
 
-**N. 6** Il concetto di diritto civile comprende secondo la dottrina dominante e la giurisprudenza costante l'intero diritto privato, ossia i rapporti giuridici tra soggetti di diritto parificati. Göksu sottolinea che il diritto civile include tutte le norme giuridiche che perseguono obiettivi tipicamente di diritto privato e appartengono tradizionalmente al settore del diritto privato. Il Tribunale federale applica per la delimitazione tra diritto pubblico e diritto privato un pluralismo metodologico, senza che una singola teoria di delimitazione abbia priorità a priori (**DTF 146 I 70** consid. 5.2).
+**N. 6** Il concetto di diritto civile comprende secondo la dottrina dominante e la giurisprudenza costante l'intero diritto privato, ossia i rapporti giuridici tra soggetti di diritto parificati. Una parte della dottrina sottolinea che il diritto civile include tutte le norme giuridiche che perseguono obiettivi tipicamente di diritto privato e appartengono tradizionalmente al settore del diritto privato. Il Tribunale federale applica per la delimitazione tra diritto pubblico e diritto privato un pluralismo metodologico, senza che una singola teoria di delimitazione abbia priorità a priori (**DTF 146 I 70** consid. 5.2).
 
-**N. 7** La competenza di codificazione globale della Confederazione è globale. Göksu espone: «Dal principio della codificazione globale deriva che per il diritto civile cantonale non rimane più alcuno spazio, neppure in settori che non sono stati regolamentati affatto dal diritto federale sotto il profilo del diritto civile.» Questa posizione si contrappone alla giurisprudenza del Tribunale federale più antica (**DTF 73 I 228**), che permetteva ai Cantoni di impiegare, a determinate condizioni, mezzi di diritto civile nel quadro di ordinamenti di diritto pubblico.
+**N. 7** La competenza di codificazione globale della Confederazione è globale. In dottrina si espone: «Dal principio della codificazione globale deriva che per il diritto civile cantonale non rimane più alcuno spazio, neppure in settori che non sono stati regolamentati affatto dal diritto federale sotto il profilo del diritto civile.» Questa posizione si contrappone alla giurisprudenza del Tribunale federale più antica (**DTF 73 I 228**), che permetteva ai Cantoni di impiegare, a determinate condizioni, mezzi di diritto civile nel quadro di ordinamenti di diritto pubblico.
 
 **N. 8** Parti della dottrina sostengono una posizione meno assoluta. Argomentano che alla Confederazione con l'art. 122 Cost. è stato sì attribuito globalmente un settore materiale per la legislazione, ma non esclusivamente, il che permetterebbe ai Cantoni di porre proprio diritto civile, purché la Confederazione non abbia legiferato in modo conclusivo. Questa controversia è praticamente rilevante nella valutazione di regolamentazioni cantonali con effetti di diritto civile, ad esempio nell'ambito del diritto edilizio o di diritti di prelazione a favore della mano pubblica.
 
@@ -32,13 +32,13 @@
 
 ### Organizzazione dei tribunali (cpv. 2)
 
-**N. 11** L'organizzazione dei tribunali comprende secondo Göksu la creazione dei tribunali, la loro denominazione, la loro articolazione gerarchica, la loro competenza locale nonché i requisiti per l'elezione dei giudici. Questi settori rimangono in linea di principio di competenza cantonale, nella misura in cui il diritto federale non contiene disposizioni divergenti.
+**N. 11** L'organizzazione dei tribunali comprende secondo una parte della dottrina la creazione dei tribunali, la loro denominazione, la loro articolazione gerarchica, la loro competenza locale nonché i requisiti per l'elezione dei giudici. Questi settori rimangono in linea di principio di competenza cantonale, nella misura in cui il diritto federale non contiene disposizioni divergenti.
 
 **N. 12** Le limitazioni di diritto federale dell'autonomia organizzativa cantonale sono molteplici. → L'art. 75 cpv. 2 LTF esige un doppio grado cantonale di giurisdizione per l'accesso al Tribunale federale. La CPC contiene negli art. 3 segg. prescrizioni cogenti sulla competenza per materia e funzionale. Il Tribunale federale ha confermato in **DTF 137 III 217** che tali prescrizioni di diritto federale sono compatibili con la sovranità cantonale di organizzazione.
 
 ### Giurisdizione in materia civile (cpv. 2)
 
-**N. 13** La competenza giurisdizionale dei Cantoni significa che i tribunali cantonali sono competenti per l'applicazione del diritto civile materiale e lo svolgimento delle procedure di diritto processuale civile. Göksu qualifica questa competenza come natura giuridica. Le limitazioni risultano da disposizioni speciali di diritto federale, ad esempio la competenza del Tribunale federale dei brevetti per le controversie brevettuali o dei tribunali arbitrali nell'ambito dell'assicurazione malattie (**DTF 135 V 443**).
+**N. 13** La competenza giurisdizionale dei Cantoni significa che i tribunali cantonali sono competenti per l'applicazione del diritto civile materiale e lo svolgimento delle procedure di diritto processuale civile. Una parte della dottrina qualifica questa competenza come natura giuridica. Le limitazioni risultano da disposizioni speciali di diritto federale, ad esempio la competenza del Tribunale federale dei brevetti per le controversie brevettuali o dei tribunali arbitrali nell'ambito dell'assicurazione malattie (**DTF 135 V 443**).
 
 ## 4. Conseguenze giuridiche
 
@@ -50,7 +50,7 @@
 
 ## 5. Controversie
 
-**N. 17** La controversia centrale riguarda la portata della codificazione globale di diritto federale. Mentre Göksu sostiene la posizione che «né la menzionata (vecchia) giurisprudenza del Tribunale federale né le conseguenze più ampie nella dottrina si lasciano sostenere riguardo all'art. 122 Cost. e all'art. 5 CC», altri autori mantengono la possibilità di regolamentazioni cantonali di diritto civile con finalità di diritto pubblico. Queste diverse concezioni hanno conseguenze pratiche ad esempio per i diritti di prelazione cantonali o le servitù di diritto edilizio.
+**N. 17** La controversia centrale riguarda la portata della codificazione globale di diritto federale. Mentre una parte della dottrina sostiene la posizione che «né la menzionata (vecchia) giurisprudenza del Tribunale federale né le conseguenze più ampie nella dottrina si lasciano sostenere riguardo all'art. 122 Cost. e all'art. 5 CC», altri autori mantengono la possibilità di regolamentazioni cantonali di diritto civile con finalità di diritto pubblico. Queste diverse concezioni hanno conseguenze pratiche ad esempio per i diritti di prelazione cantonali o le servitù di diritto edilizio.
 
 **N. 18** Un altro punto controverso riguarda la metodica di delimitazione. Fritz Gygi ha sviluppato la teoria dei settori materiali, che non parte dalla distinzione tra diritto pubblico e diritto privato, ma si collega ai settori materiali per i quali è prevista una competenza federale. Göksu critica che questa teoria sia sì tagliata sulla norma costituzionale, ma fallisca in altri casi dove si deve distinguere tra diritto pubblico e diritto privato.
 

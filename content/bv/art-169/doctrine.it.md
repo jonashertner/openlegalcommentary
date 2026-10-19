@@ -28,7 +28,7 @@
 
 ### 5. Controversie
 
-**N. 10** **Portata dell'alta vigilanza sulla giustizia**: È controverso fino a che punto l'alta vigilanza parlamentare possa intervenire nell'amministrazione della giustizia. Müller/Feller sostengono un'interpretazione restrittiva che comprende solo la pura attività amministrativa. Lienhard (Commentario di San Gallo, art. 169 N. 17) propende per un'interpretazione più ampia che include anche la gestione riguardo alla durata dei procedimenti e alla gestione delle cause pendenti, purché sia salvaguardata l'indipendenza giudiziaria.
+**N. 10** **Portata dell'alta vigilanza sulla giustizia**: È controverso fino a che punto l'alta vigilanza parlamentare possa intervenire nell'amministrazione della giustizia. Una parte della dottrina sostiene un'interpretazione restrittiva che comprende solo la pura attività amministrativa. Lienhard (Commentario di San Gallo, art. 169 N. 17) propende per un'interpretazione più ampia che include anche la gestione riguardo alla durata dei procedimenti e alla gestione delle cause pendenti, purché sia salvaguardata l'indipendenza giudiziaria.
 
 **N. 11** **Alta vigilanza preventiva**: È controverso se l'alta vigilanza sia puramente retrospettiva o possa comprendere anche elementi preventivi. La dottrina tradizionale (Häfelin/Haller/Keller/Thurnherr, Diritto costituzionale federale, 10ª ed. 2020, N. 1684) sottolinea il carattere successivo. Voci più recenti (Sägesser, Regieren und Verwalten, 2019, 152; Biaggini, Commento Cost., art. 169 N. 7) riconoscono anche elementi prospettici come l'accompagnamento di grandi progetti.
 

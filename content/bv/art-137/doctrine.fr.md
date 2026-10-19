@@ -46,7 +46,7 @@
 
 ### 5. Points controversés
 
-**N. 14** **Nature juridique de l'art. 137 Cst**: Le point controversé central concerne la nature juridique de la disposition. Frick défend, en se référant aux débats parlementaires, la position selon laquelle l'art. 137 serait purement déclaratoire. À l'inverse, Tschannen souligne que l'article sur les partis doit être compris de manière normative, même si le contenu réglementaire peut être faible. Cette controverse a des conséquences pratiques pour la déduction de droits et d'obligations concrètes de la disposition.
+**N. 14** **Nature juridique de l'art. 137 Cst**: Le point controversé central concerne la nature juridique de la disposition. Une partie de la doctrine défend, en se référant aux débats parlementaires, la position selon laquelle l'art. 137 serait purement déclaratoire. À l'inverse, une autre opinion doctrinale souligne que l'article sur les partis doit être compris de manière normative, même si le contenu réglementaire peut être faible. Cette controverse a des conséquences pratiques pour la déduction de droits et d'obligations concrètes de la disposition.
 
 **N. 15** **Financement des partis** : La question de la transparence et de l'encouragement étatique est vivement controversée. Caroni (Geld und Politik, 2009, 234 ss) plaide pour des obligations complètes de divulgation selon le modèle international. Des voix conservatrices mettent en garde contre une étatisation des partis et soulignent leur caractère de droit privé (Schmid, Politische Parteien, 1981, 156 ss). Le législateur s'est montré réservé jusqu'à présent.
 

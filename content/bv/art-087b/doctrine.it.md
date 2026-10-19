@@ -51,7 +51,7 @@ Il concetto di «ricavo netto» designa le entrate fiscali dopo deduzione dei co
 
 ### 5. Punti controversi
 
-**N. 15** Nella dottrina è controverso quanto ampiamente debba essere inteso il concetto di «compiti e spese in relazione con il traffico aereo». Waldmann/Belser/Epiney sostengono un'interpretazione piuttosto restrittiva e richiedono una stretta relazione oggettiva con il traffico aereo. Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo Cost., Art. 87b N. 9) propendono per un'interpretazione più generosa che include anche misure infrastrutturali affini al traffico aereo.
+**N. 15** Nella dottrina è controverso quanto ampiamente debba essere inteso il concetto di «compiti e spese in relazione con il traffico aereo». Una parte della dottrina sostiene un'interpretazione piuttosto restrittiva e richiede una stretta relazione oggettiva con il traffico aereo. Ehrenzeller/Schindler/Schweizer/Vallender (Commentario di San Gallo Cost., Art. 87b N. 9) propendono per un'interpretazione più generosa che include anche misure infrastrutturali affini al traffico aereo.
 
 **N. 16** È discussa controversamente anche la questione se i mezzi possano essere utilizzati esclusivamente per l'aviazione civile o se possano includere anche scopi militari. La dottrina dominante parte dal presupposto che l'art. 87b Cost. sia orientato primariamente all'aviazione civile, ma non esclude categoricamente misure a doppio uso (Häfelin/Haller/Keller/Thurnherr, Diritto costituzionale svizzero, N. 2157).
 

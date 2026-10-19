@@ -14,7 +14,7 @@
 
 ### 3. Elements of the Provision
 
-**N. 5** **Public works**: The concept is disputed. Traditional doctrine advocates a narrow understanding of the concept: Kern, BSK BV, Art. 81 N. 9 quotes Burckhardt approvingly, according to whom for the work characteristic «particularly the corporeality of the facility, its connection to the ground, the artificial character as well as the alteration or restoration of a natural state» are decisive. In contrast, Lendi/Vogel, SG Komm. BV, Art. 81 N. 23 advocate for a broader understanding of the concept, «which also includes non-ground-bound facilities such as satellites or virtual facilities».
+**N. 5** **Public works**: The concept is disputed. Traditional doctrine advocates a narrow understanding of the concept: one view in the literature quotes Burckhardt approvingly, according to whom for the work characteristic «particularly the corporeality of the facility, its connection to the ground, the artificial character as well as the alteration or restoration of a natural state» are decisive. In contrast, Lendi/Vogel, SG Komm. BV, Art. 81 N. 23 advocate for a broader understanding of the concept, «which also includes non-ground-bound facilities such as satellites or virtual facilities».
 
 **N. 6** **In the interest of the country as a whole or of a large part of it**: This formulation delimits federal competence from cantonal and communal works. Covered are works of supra-regional significance that affect several cantons or are of national strategic importance. Practice shows a generous interpretation for transport, energy and communication infrastructures (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10th ed. 2020, N 1089).
 

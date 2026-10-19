@@ -9,7 +9,7 @@ Il Tribunale federale ha confermato la competenza della BNS di esprimere pubblic
 
 > «Giusta l'art. 1 della legge federale del 3 ottobre 2003 sulla Banca nazionale svizzera (LBN; RS 951.11), la BNS è una società anonima di diritto speciale. Quale banca centrale indipendente, essa conduce una politica monetaria e del cambio che serve agli interessi generali del Paese (art. 99 cpv. 2 Cost.). Nell'adempimento dei suoi compiti la BNS è vincolata ai diritti fondamentali (art. 35 cpv. 2 Cost.).»
 
-La decisione viene apprezzata dalla dottrina quale importante contributo alla concretizzazione dell'indipendenza della BNS, laddove Häner sottolinea che l'indipendenza istituzionale non deve comportare un isolamento totale dal discorso democratico.
+La decisione viene apprezzata dalla dottrina quale importante contributo alla concretizzazione dell'indipendenza della BNS, laddove una parte della dottrina sottolinea che l'indipendenza istituzionale non deve comportare un isolamento totale dal discorso democratico.
 
 ### Natura giuridica e compiti della BNS
 
@@ -45,4 +45,4 @@ Il Tribunale federale ha respinto un ricorso che faceva valere una violazione de
 **Sentenza 2C_541/2010** del 27 dicembre 2010 — Trattamento della BNS sotto il profilo dell'imposta sul valore aggiunto
 Il Tribunale federale ha confermato il trattamento della BNS quale ente di diritto pubblico sotto il profilo dell'imposta sul valore aggiunto. La decisione è rilevante per l'interpretazione dell'art. 99 cpv. 4 Cost. (ripartizione degli utili), poiché sottolinea la natura di diritto pubblico della BNS malgrado la sua forma giuridica di società anonima.
 
-La giurisprudenza del Tribunale federale relativa all'art. 99 Cost. viene apprezzata dalla dottrina come riservata ma coerente. Waldmann sottolinea che i tribunali rispettano l'indipendenza della BNS voluta a livello costituzionale e intervengono solo in caso di violazioni evidenti del diritto.
+La giurisprudenza del Tribunale federale relativa all'art. 99 Cost. viene apprezzata dalla dottrina come riservata ma coerente. In dottrina si sottolinea che i tribunali rispettano l'indipendenza della BNS voluta a livello costituzionale e intervengono solo in caso di violazioni evidenti del diritto.

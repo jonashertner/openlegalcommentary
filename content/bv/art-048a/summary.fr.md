@@ -8,7 +8,7 @@ L'art. 48a Cst. permet à la Confédération de contraindre les cantons à coop�
 
 **Quels sont les effets juridiques ?** Les cantons contraints deviennent soit partie contractante (adhésion), soit doivent participer à certains aspects de la coopération. Les accords demeurent du droit intercantonal et ne deviennent pas du droit fédéral. Le Tribunal fédéral l'a confirmé dans **BGE 143 V 451**.
 
-**Nature juridique :** Selon une doctrine controversée, l'art. 48a Cst. n'est pas directement applicable. Biaggini souligne que la norme nécessite une concrétisation par la loi fédérale. La doctrine dominante et la pratique partent toutefois du principe de l'applicabilité immédiate.
+**Nature juridique :** Selon une doctrine controversée, l'art. 48a Cst. n'est pas directement applicable. Une partie de la doctrine souligne que la norme nécessite une concrétisation par la loi fédérale. La doctrine dominante et la pratique partent toutefois du principe de l'applicabilité immédiate.
 
 **Point de controverse :** Il est controversé de savoir si des accords pas encore en vigueur suffisent. Biaggini et Zehnder l'affirment pour les accords définitivement négociés. D'autres exigent des accords déjà en vigueur.
 

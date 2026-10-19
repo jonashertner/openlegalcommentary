@@ -6,19 +6,19 @@
 
 **N. 2** Les alinéas 3 et 3bis ont été ajoutés par la votation populaire du 20 mars 1998 (FF 1997 III 653, RO 1998 1581) afin d'assurer le financement de l'AVS et de cofinancer l'infrastructure ferroviaire. Le complément le plus récent a eu lieu avec la réforme AVS 21, où les alinéas 3ter et 3quater ont été ajoutés par la votation populaire du 25 septembre 2022 (FF 2022 2695, RO 2023 160).
 
-**N. 3** Le message de 1996 sur la nouvelle Constitution fédérale (FF 1997 I 1, 471) caractérisait la taxe sur la valeur ajoutée comme l'« impôt fédéral le plus important » avec un produit d'environ 15 milliards de francs. Behnisch confirme que la taxe sur la valeur ajoutée, avec un produit de plus de 22 milliards de francs (2023), constitue la source de revenus fiscalement la plus significative de la Confédération.
+**N. 3** Le message de 1996 sur la nouvelle Constitution fédérale (FF 1997 I 1, 471) caractérisait la taxe sur la valeur ajoutée comme l'« impôt fédéral le plus important » avec un produit d'environ 15 milliards de francs. Une partie de la doctrine confirme que la taxe sur la valeur ajoutée, avec un produit de plus de 22 milliards de francs (2023), constitue la source de revenus fiscalement la plus significative de la Confédération.
 
 ### 2. Classement systématique
 
 **N. 4** L'art. 130 Cst. appartient au 3e titre sur la Confédération, les cantons et les communes, chapitre 3 sur le régime financier. La norme est en lien systématique étroit avec → l'art. 127 Cst. (Principes régissant l'imposition), → l'art. 133 Cst. (Droits de douane) et → l'art. 134 Cst. (Exclusion d'impôts cantonaux et communaux). La taxe sur la valeur ajoutée est un impôt exclusivement fédéral, ce qui interdit aux cantons toute perception d'impôts de même nature (art. 134 Cst.).
 
-**N. 5** L'ancrage constitutionnel en tant que taxe sur la valeur ajoutée avec des taux maximums fixés lie le législateur. Behnisch souligne que l'art. 130 Cst. confère à la Confédération une compétence étendue pour percevoir une taxe sur la valeur ajoutée, mais ne crée aucune obligation de perception. Le législateur pourrait théoriquement renoncer à la perception ou fixer des taux plus bas.
+**N. 5** L'ancrage constitutionnel en tant que taxe sur la valeur ajoutée avec des taux maximums fixés lie le législateur. Une partie de la doctrine souligne que l'art. 130 Cst. confère à la Confédération une compétence étendue pour percevoir une taxe sur la valeur ajoutée, mais ne crée aucune obligation de perception. Le législateur pourrait théoriquement renoncer à la perception ou fixer des taux plus bas.
 
 **N. 6** Les dispositions transitoires de → l'art. 196 ch. 14 Cst. règlent l'application temporelle de la taxe sur la valeur ajoutée. Selon l'al. 1 de cette disposition, la taxe sur la valeur ajoutée est perçue jusqu'à fin 2035. La prolongation requiert l'approbation du peuple et des cantons.
 
 ### 3. Éléments constitutifs / Contenu normatif
 
-**N. 7** L'art. 130 al. 1 Cst. définit la taxe sur la valeur ajoutée comme un impôt général sur la consommation selon le système de l'impôt net à toutes les étapes avec déduction de l'impôt préalable. Behnisch la caractérise comme un « impôt brut à toutes les étapes avec déduction de l'impôt préalable ». L'objet de l'impôt comprend les livraisons d'objets, les prestations de services y compris l'usage propre ainsi que les importations.
+**N. 7** L'art. 130 al. 1 Cst. définit la taxe sur la valeur ajoutée comme un impôt général sur la consommation selon le système de l'impôt net à toutes les étapes avec déduction de l'impôt préalable. Une partie de la doctrine la caractérise comme un « impôt brut à toutes les étapes avec déduction de l'impôt préalable ». L'objet de l'impôt comprend les livraisons d'objets, les prestations de services y compris l'usage propre ainsi que les importations.
 
 **N. 8** Le corridor constitutionnel des taux d'imposition fixe des limites contraignantes : le taux normal ne peut dépasser 6,5% (actuellement 8,1% avec tous les suppléments selon l'art. 25 al. 1 LTVA), le taux réduit doit être d'au moins 2,0% (actuellement 2,6% selon l'art. 25 al. 2 let. a LTVA). Pour les prestations d'hébergement, l'al. 2 prévoit un taux spécial entre le taux réduit et le taux normal (actuellement 3,8% selon l'art. 25 al. 2 let. b LTVA).
 
@@ -34,11 +34,11 @@
 
 ### 5. Points controversés
 
-**N. 13** La nature juridique de la taxe sur la valeur ajoutée est controversée dans la doctrine. Alors que Behnisch parle d'un « impôt brut à toutes les étapes avec déduction de l'impôt préalable », Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) la qualifient d'« impôt général sur la consommation ». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2e éd. 2012, 645) souligne le caractère d'« impôt indirect ».
+**N. 13** La nature juridique de la taxe sur la valeur ajoutée est controversée dans la doctrine. Alors qu'une partie de la doctrine parle d'un « impôt brut à toutes les étapes avec déduction de l'impôt préalable », Mollard/Oberson/Tissot Benedetto (Traité TVA, 2009, § 1 N. 12) la qualifient d'« impôt général sur la consommation ». Robinson (Mehrwertsteuerrecht, in: Reich, Steuerrecht, 2e éd. 2012, 645) souligne le caractère d'« impôt indirect ».
 
 **N. 14** La justiciabilité de l'affectation partielle selon l'al. 4 est controversée. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3e éd. 2016, N. 3687) défendent la position qu'un droit exigible des cantons peut être dérivé de la norme. Blumenstein/Locher (System des Schweizerischen Steuerrechts, 6e éd. 2002, 325) ne voient qu'une obligation politique de la Confédération.
 
-**N. 15** Behnisch critique les « défauts systémiques » du droit de la taxe sur la valeur ajoutée, en particulier la « complexité source d'erreurs » et la « mise en œuvre déficiente par l'AFC ». Cette critique a été partiellement reprise dans le rapport Spori (Rapport du mandataire P. Spori en matière de réforme de la taxe sur la valeur ajoutée, 2006, 23 ss.), mais n'a pas conduit à un changement systémique fondamental.
+**N. 15** Une partie de la doctrine critique les « défauts systémiques » du droit de la taxe sur la valeur ajoutée, en particulier la « complexité source d'erreurs » et la « mise en œuvre déficiente par l'AFC ». Cette critique a été partiellement reprise dans le rapport Spori (Rapport du mandataire P. Spori en matière de réforme de la taxe sur la valeur ajoutée, 2006, 23 ss.), mais n'a pas conduit à un changement systémique fondamental.
 
 **N. 16** L'admissibilité constitutionnelle des rulings fiscaux dans le domaine de la TVA est évaluée différemment. Baumgartner (Möglichkeiten und Grenzen von Steuer-Rulings, in: Mäusli-Allenspach/Beusch, 2013, 201 s.) l'affirme en se référant à → l'art. 5 al. 3 Cst. (Bonne foi). Geiger/Schluckebier (MWSTG Kommentar, 2012, Art. 69 N. 8) voient des limites constitutionnelles en cas de renseignements contraires au système.
 

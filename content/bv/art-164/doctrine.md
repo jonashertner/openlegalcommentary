@@ -65,7 +65,7 @@
 
 ### Abgrenzung zu selbständigen Verordnungen
 
-**N. 18** Kontrovers ist die Zulässigkeit selbständiger Verordnungen gestützt auf Art. 182 Abs. 1 BV. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, N 1823) anerkennen einen engen Bereich für Organisationsverordnungen. Waldmann lehnt selbständige Verordnungen mit Aussenwirkung kategorisch ab.
+**N. 18** Kontrovers ist die Zulässigkeit selbständiger Verordnungen gestützt auf Art. 182 Abs. 1 BV. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, N 1823) anerkennen einen engen Bereich für Organisationsverordnungen. Ein anderer Teil der Lehre lehnt selbständige Verordnungen mit Aussenwirkung kategorisch ab.
 
 **N. 19** Die Praxis zeigt eine Tendenz zur extensiven Nutzung von Vollzugsverordnungen. Malinverni/Hottelier/Hertig Randall/Flückiger (Droit constitutionnel suisse, N 1456) kritisieren diese «érosion du principe de légalité» und fordern eine Rückbesinnung auf den Gesetzesvorbehalt.
 

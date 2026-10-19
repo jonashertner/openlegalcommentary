@@ -46,7 +46,7 @@
 
 **N. 14** In doctrine, there is disagreement about how far judicial restraint regarding guaranteed cantonal constitutions should reach. Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10th ed. 2020, N 1823) advocate a strict position: The Federal Supreme Court should only review guaranteed provisions in cases of obvious violations of mandatory international law. Ehrenzeller/Schweizer (St. Galler Kommentar BV, Art. 172 N 15) argue for a more differentiated approach taking into account the hierarchy of norms and the democratic principle.
 
-**N. 15** The scope of the approval requirement under para. 3 is also controversially discussed. While Waldmann advocates a broad interpretation that covers all treaties with normative character, Tschannen (Staatsrecht, 4th ed. 2021, § 23 N 15) limits the requirement to treaties of considerable political or legal significance.
+**N. 15** The scope of the approval requirement under para. 3 is also controversially discussed. While one view in the literature advocates a broad interpretation that covers all treaties with normative character, Tschannen (Staatsrecht, 4th ed. 2021, § 23 N 15) limits the requirement to treaties of considerable political or legal significance.
 
 ### 6. Practice Notes
 

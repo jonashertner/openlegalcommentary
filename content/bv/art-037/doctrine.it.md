@@ -32,7 +32,7 @@
 
 ### 3.2 Divieto di svantaggi (cpv. 2 frase 1)
 
-**N. 10** Il divieto si riferisce a disparità di trattamento che si basano esclusivamente sul criterio della cittadinanza. Waldmann precisa: «Rimangono ammissibili differenziazioni secondo il domicilio, la durata del soggiorno o altri criteri oggettivi».
+**N. 10** Il divieto si riferisce a disparità di trattamento che si basano esclusivamente sul criterio della cittadinanza. In dottrina si precisa: «Rimangono ammissibili differenziazioni secondo il domicilio, la durata del soggiorno o altri criteri oggettivi».
 
 **N. 11** La norma vieta sia le discriminazioni dirette sia quelle indirette. Una regolamentazione apparentemente neutra che di fatto colpisce solo i cittadini di altri comuni o cantoni può ugualmente violare l'art. 37 cpv. 2 Cost. (Tschannen/Zimmerli/Müller, Allgemeines Verwaltungsrecht, 4ª ed. 2014, § 23 N 15).
 
@@ -64,7 +64,7 @@
 
 ## 5. Controversie
 
-**N. 18** **Controversa** è la portata dell'eccezione per i comuni patriziali. Ehrenzeller (St. Galler Kommentar BV, art. 37 N 12) sostiene un'interpretazione restrittiva, mentre Waldmann caldeggia maggiore margine di manovra per le corporazioni. **DTF 132 I 68** si è allineato alla linea restrittiva.
+**N. 18** **Controversa** è la portata dell'eccezione per i comuni patriziali. Ehrenzeller (St. Galler Kommentar BV, art. 37 N 12) sostiene un'interpretazione restrittiva, mentre un'altra parte della dottrina caldeggia maggiore margine di manovra per le corporazioni. **DTF 132 I 68** si è allineato alla linea restrittiva.
 
 **N. 19** **Controverso** si discute il rapporto tra l'art. 37 cpv. 2 Cost. e l'art. 8 Cost. Müller/Schefer (Grundrechte, p. 754 seg.) vedono l'art. 37 cpv. 2 come lex specialis, mentre Biaggini (BV-Kommentar, art. 37 N 4) argomenta per un'applicazione parallela.
 

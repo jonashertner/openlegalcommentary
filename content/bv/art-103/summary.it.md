@@ -8,6 +8,6 @@ Il **principio di sussidiarietà** è centrale: le soluzioni private e cantonali
 
 **Esempio**: la Confederazione sostiene una regione montana strutturalmente debole nella costruzione di infrastrutture turistiche, dopo che si è dimostrato che la regione, con i propri mezzi e l'aiuto cantonale, non può fermare l'emigrazione.
 
-È controverso nella dottrina se l'art. 103 Cost. contenga anche una competenza generale di promozione economica senza riserva di sussidiarietà. La prassi federale lo afferma richiamandosi alla situazione giuridica sotto la vecchia Costituzione federale, mentre Oesch/Mayoraz argomentano che il tenore letterale chiaro si oppone a tale interpretazione.
+È controverso nella dottrina se l'art. 103 Cost. contenga anche una competenza generale di promozione economica senza riserva di sussidiarietà. La prassi federale lo afferma richiamandosi alla situazione giuridica sotto la vecchia Costituzione federale, mentre una parte della dottrina argomenta che il tenore letterale chiaro si oppone a tale interpretazione.
 
 Non esiste un diritto agli aiuti di politica strutturale. La Confederazione decide secondo il proprio potere discrezionale. Gli obblighi internazionali (diritto OMC, accordi bilaterali) pongono limiti alla politica strutturale.

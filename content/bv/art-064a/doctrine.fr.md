@@ -40,7 +40,7 @@
 
 **N. 14** **Portée de la compétence fédérale :** Ehrenzeller (SG Komm. BV, Art. 64a N. 7) défend une interprétation large de la compétence d'encouragement, qui englobe aussi les mesures structurelles. Biaggini (Komm. BV, Art. 64a N. 5) plaide pour une interprétation plus restrictive, qui se limite à l'encouragement financier et à la coordination.
 
-**N. 15** **Délimitation par rapport à la formation formelle :** La doctrine est divisée sur la délimitation entre formation continue selon l'art. 64a Cst. et formation formelle de rattrapage. Hänni veut subsumer les filières d'études en hautes écoles spécialisées en emploi sous l'art. 64a Cst., tandis que la doctrine dominante les rattache à → l'art. 63a Cst.
+**N. 15** **Délimitation par rapport à la formation formelle :** La doctrine est divisée sur la délimitation entre formation continue selon l'art. 64a Cst. et formation formelle de rattrapage. Une partie de la doctrine veut subsumer les filières d'études en hautes écoles spécialisées en emploi sous l'art. 64a Cst., tandis que la doctrine dominante les rattache à → l'art. 63a Cst.
 
 **N. 16** **Rapport avec les dispositions spéciales sur la formation continue :** Il est controversé de savoir si l'art. 64a Cst. fonde une compétence transversale globale ou si les dispositions spéciales sur la formation continue (p. ex. dans le droit de la formation professionnelle, le droit de l'assurance-chômage) conservent leur fondement constitutionnel autonome.
 

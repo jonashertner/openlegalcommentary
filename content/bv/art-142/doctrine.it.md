@@ -44,7 +44,7 @@ Entrambe le condizioni devono essere soddisfatte. Il fallimento di un solo requi
 
 **N. 12** **Riconteggio in caso di risultato serrato**: Un punto controverso centrale concerne i presupposti per un riconteggio:
 - Il Tribunale federale sostiene da **DTF 136 II 132** la posizione che un risultato molto serrato debba essere trattato come un'«irregolarità» ai sensi dell'art. 77 cpv. 1 lett. b LDP e fondi un diritto al riconteggio
-- Epiney/Diezig dubitano che la formulazione restrittiva dei presupposti nell'art. 34 cpv. 3 LDP (verosimiglianza di irregolarità) sia compatibile con l'art. 34 cpv. 2 Cost.
+- In dottrina si dubita che la formulazione restrittiva dei presupposti nell'art. 34 cpv. 3 LDP (verosimiglianza di irregolarità) sia compatibile con l'art. 34 cpv. 2 Cost.
 - In **DTF 141 II 297** il Tribunale federale ha precisato che un riconteggio deve avvenire solo in presenza di indizi concreti di errori
 
 **N. 13** **Critica teorico-democratica alla maggioranza dei Cantoni**: Il diverso peso del voto dei cittadini di diversi Cantoni è oggetto di discussione controversa:

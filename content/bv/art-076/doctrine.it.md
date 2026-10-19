@@ -30,7 +30,7 @@
 
 ## 5. Questioni controverse
 
-**N. 11** **Portata della sovranità cantonale sui corsi d'acqua**: mentre Biaggini (BV-Kommentar, art. 76 n. 5) sottolinea un'ampia autonomia dei Cantoni, Waldmann/Belser/Epiney sostengono un'interpretazione più restrittiva alla luce dell'estesa legislazione federale. Il Tribunale federale tende verso la posizione mediatrice, secondo cui la sovranità cantonale sussiste certamente, ma è considerevolmente limitata dal diritto federale (**DTF 145 II 140**).
+**N. 11** **Portata della sovranità cantonale sui corsi d'acqua**: mentre Biaggini (BV-Kommentar, art. 76 n. 5) sottolinea un'ampia autonomia dei Cantoni, una parte della dottrina sostiene un'interpretazione più restrittiva alla luce dell'estesa legislazione federale. Il Tribunale federale tende verso la posizione mediatrice, secondo cui la sovranità cantonale sussiste certamente, ma è considerevolmente limitata dal diritto federale (**DTF 145 II 140**).
 
 **N. 12** **Rapporto energia idrica - protezione delle acque**: Nella dottrina è controverso come valutare l'equilibrio d'interessi tra produzione energetica e protezione dell'ambiente. Griffel (St. Galler Kommentar BV, art. 76 n. 18) sostiene una rigorosa priorità della protezione delle acque, mentre Keller (in: Häfelin/Haller/Keller/Thurnherr, n. 1099) richiede una ponderazione equilibrata degli interessi. La prassi mostra una crescente ponderazione delle preoccupazioni ecologiche con contemporaneo riconoscimento dell'importanza energetico-politica dell'energia idrica.
 

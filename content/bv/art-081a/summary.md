@@ -12,4 +12,4 @@ Die Regelung wurde 2005 mit der Bahnreform 2 eingeführt (BBl 2005 2547). Sie so
 
 **Beispiel**: Eine Gemeinde möchte ihren Stadtbus gratis anbieten. Das **Urteil 1C_490/2024** zeigt, dass solche Nulltarif-Initiativen gegen Art. 81a Abs. 2 BV verstossen. Die Gemeinde könnte aber stark vergünstigte Tarife einführen, solange die Fahrgäste noch einen angemessenen Teil der Betriebskosten tragen.
 
-In der Lehre ist umstritten, ob Art. 81a Abs. 2 BV auch eine Obergrenze für Preise festlegt. Während Uhlmann eine solche Obergrenze bejaht (SG Komm. BV, Art. 81a N. 34), verneint sie Kern.
+In der Lehre ist umstritten, ob Art. 81a Abs. 2 BV auch eine Obergrenze für Preise festlegt. Während Uhlmann eine solche Obergrenze bejaht (SG Komm. BV, Art. 81a N. 34), verneint sie ein anderer Teil der Lehre.

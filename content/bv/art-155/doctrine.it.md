@@ -44,7 +44,7 @@
 
 ## 5. Questioni controverse
 
-**N. 13** **Portata dell'autonomia parlamentare**: Nella dottrina è controverso fino a che punto si estenda l'autonomia organizzativa dei servizi parlamentari. Sägesser sostiene un'interpretazione estensiva, secondo cui i servizi parlamentari devono essere indipendenti dall'esecutivo in tutti gli aspetti. Al contrario, Müller (Diritto parlamentare della Svizzera, 2022, 487) propende per una considerazione funzionale: solo nella misura in cui l'indipendenza sia necessaria per il lavoro parlamentare sussiste una protezione costituzionale.
+**N. 13** **Portata dell'autonomia parlamentare**: Nella dottrina è controverso fino a che punto si estenda l'autonomia organizzativa dei servizi parlamentari. Una parte della dottrina sostiene un'interpretazione estensiva, secondo cui i servizi parlamentari devono essere indipendenti dall'esecutivo in tutti gli aspetti. Al contrario, Müller (Diritto parlamentare della Svizzera, 2022, 487) propende per una considerazione funzionale: solo nella misura in cui l'indipendenza sia necessaria per il lavoro parlamentare sussiste una protezione costituzionale.
 
 **N. 14** **Posizione di diritto del personale**: È discussa in modo controverso l'applicabilità della Legge sul personale federale ai servizi parlamentari. Mentre Tschannen (in: Tschannen/Zimmerli/Müller, Diritto amministrativo generale, § 23 n. 45) sostiene un'applicazione completa della LPers, Biaggini (Commentario Cost., art. 155 n. 3) e la scuola di San Gallo vedono come ammissibile un ordinamento autonomo di diritto del personale. La prassi segue un approccio differenziato con applicazione in linea di principio della LPers con riserva di disciplinamenti specifici del parlamento.
 

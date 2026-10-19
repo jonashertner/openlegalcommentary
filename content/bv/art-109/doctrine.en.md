@@ -43,7 +43,7 @@ The practical significance has remained limited; so far only two declarations of
 
 ### 5. Disputes
 
-**N. 14** **Scope of federal competence**: The scope of the federal law's preclusive effect is disputed. While Cardinaux assumes a comprehensive displacement of cantonal competences in the entire area of tenancy law, parts of the doctrine advocate a more differentiated view. Higi (ZK, Die Miete, 3rd ed. 1994, Preliminary Remarks N. 201) and Lachat (Das Mietrecht für die Praxis, N. 1.4.2) acknowledge scope for cantonal public law insofar as it does not intervene in private law relationships.
+**N. 14** **Scope of federal competence**: The scope of the federal law's preclusive effect is disputed. While one view in the literature assumes a comprehensive displacement of cantonal competences in the entire area of tenancy law, parts of the doctrine advocate a more differentiated view. Higi (ZK, Die Miete, 3rd ed. 1994, Preliminary Remarks N. 201) and Lachat (Das Mietrecht für die Praxis, N. 1.4.2) acknowledge scope for cantonal public law insofar as it does not intervene in private law relationships.
 
 **N. 15** **Valuation methods for rent abuse**: The relationship between yield and comparative rent criteria is controversially discussed. The prevailing doctrine (SVIT, Commentary, Art. 269a N. 7) favours a right of choice for the parties. A minority opinion (Rossinelli, in: Bohnet/Wessner, 16th Seminar on Tenancy Law, 2010, 175 f.) advocates for cumulative application of both criteria for comprehensive abuse control.
 

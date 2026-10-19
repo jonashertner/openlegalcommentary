@@ -32,7 +32,7 @@
 
 ### 5. Points of controversy
 
-**N. 11** A central point of controversy concerns the scope of competence under Art. 133 BV. A restrictive interpretation, based on the systematic position in the fiscal order, seeks to limit Art. 133 BV to pure fiscal duties (thus partly the older doctrine). The prevailing view today, represented by Oesch, also encompasses economic steering customs, as a limitation to pure fiscal duties would hardly be purposeful and even fiscal duties have reflexive economic steering effects.
+**N. 11** A central point of controversy concerns the scope of competence under Art. 133 BV. A restrictive interpretation, based on the systematic position in the fiscal order, seeks to limit Art. 133 BV to pure fiscal duties (thus partly the older doctrine). The prevailing view today also encompasses economic steering customs, as a limitation to pure fiscal duties would hardly be purposeful and even fiscal duties have reflexive economic steering effects.
 
 **N. 12** The question of transit duties is controversially discussed. Oesch argues that Art. 133 BV also establishes competence to levy transit duties, based on the broad wording «cross-border trade in goods» and the ratio legis of comprehensive federal competence. Arpagaus takes the opposing position and denies such competence with reference to international legal obligations and the practical insignificance of transit duties (Zollrecht, 2nd ed. 2007, para. 142).
 

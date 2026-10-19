@@ -9,7 +9,7 @@ Le Tribunal fédéral a confirmé la compétence de la BNS à exprimer publiquem
 
 > « Selon l'art. 1 de la loi fédérale du 3 octobre 2003 sur la Banque nationale suisse (LBN ; RS 951.11), la BNS est une société anonyme de droit spécial. Elle mène, en tant que banque centrale indépendante, une politique monétaire et de change qui sert l'intérêt général du pays (art. 99 al. 2 Cst.). Dans l'accomplissement de ses tâches, la BNS est liée par les droits fondamentaux (art. 35 al. 2 Cst.). »
 
-Cette décision est saluée dans la doctrine comme une contribution importante à la concrétisation de l'indépendance de la BNS, Häner soulignant que l'indépendance institutionnelle ne doit pas conduire à un isolement total du discours démocratique.
+Cette décision est saluée dans la doctrine comme une contribution importante à la concrétisation de l'indépendance de la BNS, certains auteurs soulignant que l'indépendance institutionnelle ne doit pas conduire à un isolement total du discours démocratique.
 
 ### Nature juridique et tâches de la BNS
 
@@ -45,4 +45,4 @@ Le Tribunal fédéral a rejeté un recours qui invoquait une violation de l'art.
 **Arrêt 2C_541/2010** du 27 décembre 2010 — Traitement de la BNS en matière de TVA
 Le Tribunal fédéral a confirmé le traitement de la BNS comme collectivité de droit public en matière de TVA. Cette décision est pertinente pour l'interprétation de l'art. 99 al. 4 Cst. (répartition des bénéfices), car elle souligne la nature de droit public de la BNS malgré sa forme juridique de société anonyme.
 
-La jurisprudence du Tribunal fédéral concernant l'art. 99 Cst. est qualifiée dans la doctrine de retenue mais cohérente. Waldmann souligne que les tribunaux respectent l'indépendance de la BNS voulue constitutionnellement et n'interviennent qu'en cas de violations évidentes du droit.
+La jurisprudence du Tribunal fédéral concernant l'art. 99 Cst. est qualifiée dans la doctrine de retenue mais cohérente. Une partie de la doctrine souligne que les tribunaux respectent l'indépendance de la BNS voulue constitutionnellement et n'interviennent qu'en cas de violations évidentes du droit.

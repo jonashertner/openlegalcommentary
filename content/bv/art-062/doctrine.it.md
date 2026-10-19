@@ -14,14 +14,14 @@
 
 ### 3. Elementi della fattispecie / Contenuto della norma
 
-**N. 5** **Sovranità scolastica cantonale (cpv. 1)**: La competenza dei Cantoni per il sistema scolastico comprende secondo Hänni la legislazione, l'esecuzione, l'organizzazione e il finanziamento dell'intero sistema formativo sul loro territorio. Questa competenza comprensiva si estende a tutti i livelli scolastici dalla scuola elementare alle università cantonali, purché non esistano specifiche competenze federali.
+**N. 5** **Sovranità scolastica cantonale (cpv. 1)**: La competenza dei Cantoni per il sistema scolastico comprende secondo un'opinione dottrinale la legislazione, l'esecuzione, l'organizzazione e il finanziamento dell'intero sistema formativo sul loro territorio. Questa competenza comprensiva si estende a tutti i livelli scolastici dalla scuola elementare alle università cantonali, purché non esistano specifiche competenze federali.
 
 **N. 6** **Istruzione di base (cpv. 2)**: Il concetto di «istruzione di base sufficiente» richiede secondo la giurisprudenza del Tribunale federale un'offerta formativa adeguata, sufficientemente collaudata (**DTF 138 I 162**). I tre elementi centrali sono:
 - **Obbligatorietà**: L'obbligo scolastico dura almeno nove anni e coinvolge tutti i bambini indipendentemente da nazionalità o statuto di soggiorno
 - **Direzione o vigilanza statale**: Le scuole private e l'istruzione parentale sono soggette al controllo statale
 - **Gratuità**: Nelle scuole pubbliche tutti i mezzi necessari e direttamente finalizzati all'insegnamento devono essere messi gratuitamente a disposizione (**DTF 144 I 1**)
 
-**N. 7** **Educazione speciale (cpv. 3)**: L'«educazione speciale sufficiente» per bambini e giovani disabili rappresenta un'innovazione costituzionale. Hänni sottolinea l'ampio margine di manovra cantonale nell'organizzazione concreta. Il limite d'età «fino al massimo al compimento del 20° anno di età» è assoluto e non ammette eccezioni.
+**N. 7** **Educazione speciale (cpv. 3)**: L'«educazione speciale sufficiente» per bambini e giovani disabili rappresenta un'innovazione costituzionale. In dottrina si sottolinea l'ampio margine di manovra cantonale nell'organizzazione concreta. Il limite d'età «fino al massimo al compimento del 20° anno di età» è assoluto e non ammette eccezioni.
 
 **N. 8** **Armonizzazione scolastica (cpv. 4)**: La competenza sussidiaria della Confederazione interviene solo se il coordinamento intercantonale fallisce. Gli ambiti di armonizzazione sono elencati in modo esaustivo:
 - Età di entrata a scuola e obbligo scolastico
@@ -53,7 +53,7 @@ Biaggini qualifica questa competenza come «condizionatamente concorrente», men
 
 **N. 15** **Carattere normativo dell'art. 62 cpv. 3**: Sussiste una controversia significativa riguardo alla natura giuridica dell'obbligo di educazione speciale. Voci scettiche nella dottrina vedono nel cpv. 3 meramente un mandato costituzionale senza pretesa individuale azionabile. Altre opinioni dottrinali (Kälin/Künzli, in Wyttenbach/Kälin, AJP 2005, 1278) affermano un diritto direttamente azionabile del bambino disabile. Il Tribunale federale tende al riconoscimento di una pretesa giustiziabile, ma sottolinea l'ampio margine di manovra cantonale (**DTF 138 I 162**).
 
-**N. 16** **Rapporto Confederazione-Cantoni nell'armonizzazione**: Ehrenzeller/Schott sottolineano la responsabilità cantonale primaria e vedono la competenza federale come ultima ratio. Biaggini qualifica la competenza come «condizionatamente concorrente» e concede alla Confederazione maggiore margine di manovra. La prassi mostra che la Confederazione finora agisce con moderazione e punta primariamente sulla cooperazione intercantonale (Concordato HarmoS).
+**N. 16** **Rapporto Confederazione-Cantoni nell'armonizzazione**: Una parte della dottrina sottolinea la responsabilità cantonale primaria e vede la competenza federale come ultima ratio. Un'altra parte della dottrina qualifica la competenza come «condizionatamente concorrente» e concede alla Confederazione maggiore margine di manovra. La prassi mostra che la Confederazione finora agisce con moderazione e punta primariamente sulla cooperazione intercantonale (Concordato HarmoS).
 
 ### 6. Indicazioni pratiche
 

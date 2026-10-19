@@ -16,7 +16,7 @@
 
 **N. 5** Per la posizione giuridica fondamentale di straniere e stranieri sono rilevanti in particolare → l'art. 8 Cost. (uguaglianza giuridica), → l'art. 13 Cost. (protezione della sfera privata) e → l'art. 25 Cost. (protezione dall'espulsione). Le norme della CEDU, segnatamente l'art. 8 CEDU (diritto al rispetto della vita privata e familiare) e l'art. 3 CEDU (divieto di trattamenti inumani), costituiscono secondo → l'art. 190 Cost. diritto determinante e limitano l'applicazione dell'art. 121 Cost.
 
-**N. 6** Nel rapporto con l'Accordo sulla libera circolazione delle persone (ALC) con l'UE sorge un campo di tensione. Secondo Achermann, BSK BV, Art. 121 N. 27, l'ampia competenza federale consente di disciplinare in linea di principio tutte le questioni concernenti lo status e la posizione degli stranieri, mentre altri autori sottolineano che la Confederazione non può disciplinare l'integrazione senza cooperazione con i Cantoni.
+**N. 6** Nel rapporto con l'Accordo sulla libera circolazione delle persone (ALC) con l'UE sorge un campo di tensione. Secondo una parte della dottrina, l'ampia competenza federale consente di disciplinare in linea di principio tutte le questioni concernenti lo status e la posizione degli stranieri, mentre altri autori sottolineano che la Confederazione non può disciplinare l'integrazione senza cooperazione con i Cantoni.
 
 ### 3. Elementi costitutivi della fattispecie / Contenuto normativo
 

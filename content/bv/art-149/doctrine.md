@@ -60,7 +60,7 @@
 
 **N. 15** Umstritten ist, welche Bevölkerung für die Sitzverteilung massgebend ist:
 - **Bundesrat**: Die ständige Wohnbevölkerung einschliesslich Ausländer soll berücksichtigt werden
-- **Thurnherr**: Diese Argumentationslinie lasse die "Inkongruenz zwischen Vertretern und Vertretenen" ausser Acht
+- **Ein Teil der Lehre**: Diese Argumentationslinie lasse die "Inkongruenz zwischen Vertretern und Vertretenen" ausser Acht
 - **Schumacher**: Plädiert für die Berücksichtigung nur der Stimmberechtigten (ZBl 1999, 524 f.)
 
 #### Proporzgerechtigkeit in kleinen Kantonen

@@ -84,7 +84,7 @@
 
 #### 5.4 Liberté religieuse corporative
 
-**N. 25** La question de savoir si et dans quelle mesure les personnes morales poursuivant un but religieux sont titulaires de la liberté de conscience et de croyance était controversée sous l'ancien droit constitutionnel. Le message (FF 1997 I 155) et le Conseil des États (Inderkum) partaient d'un caractère purement individuel de la norme. Le Tribunal fédéral a toutefois reconnu dans une jurisprudence constante les corporations religieuses comme titulaires de droits fondamentaux (**ATF 145 I 121 consid. 23**; **ATF 142 I 195 consid. 5.2 ss**) et a ainsi dépassé l'interprétation parlementaire restrictive. Pahud de Mortanges y voit un développement conforme au système, en direction d'une protection globale de la pratique religieuse collective.
+**N. 25** La question de savoir si et dans quelle mesure les personnes morales poursuivant un but religieux sont titulaires de la liberté de conscience et de croyance était controversée sous l'ancien droit constitutionnel. Le message (FF 1997 I 155) et le Conseil des États (Inderkum) partaient d'un caractère purement individuel de la norme. Le Tribunal fédéral a toutefois reconnu dans une jurisprudence constante les corporations religieuses comme titulaires de droits fondamentaux (**ATF 145 I 121 consid. 23**; **ATF 142 I 195 consid. 5.2 ss**) et a ainsi dépassé l'interprétation parlementaire restrictive. Une partie de la doctrine y voit un développement conforme au système, en direction d'une protection globale de la pratique religieuse collective.
 
 ---
 

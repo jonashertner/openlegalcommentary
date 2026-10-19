@@ -38,7 +38,7 @@
 
 ### 5. Controversie dottrinali
 
-**N. 13** **Portata della competenza in materia di diritto di necessità**: Mentre Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10ª ed. 2020, N 1624 segg.) propugnano un'interpretazione restrittiva, Epiney sostiene una gestione flessibile per le minacce di nuovo tipo. Il Commentario sangallese (Schweizer, SGK BV, 4ª ed. 2023, Art. 185 N 8) assume una posizione intermedia.
+**N. 13** **Portata della competenza in materia di diritto di necessità**: Mentre Häfelin/Haller/Keller/Thurnherr (Bundesstaatsrecht, 10ª ed. 2020, N 1624 segg.) propugnano un'interpretazione restrittiva, un'altra parte della dottrina sostiene una gestione flessibile per le minacce di nuovo tipo. Il Commentario sangallese (Schweizer, SGK BV, 4ª ed. 2023, Art. 185 N 8) assume una posizione intermedia.
 
 **N. 14** **Immunità costituzionale**: La dottrina è divisa riguardo alla portata dell'immunità costituzionale sviluppata nella **DTF 147 I 333**. Tschannen (Staatsrecht der Schweizerischen Eidgenossenschaft, 5ª ed. 2021, § 48 N 12) critica il concetto come troppo esteso, mentre Biaggini (BV Kommentar, 2ª ed. 2017, Art. 185 N 7) lo difende come flessibilità necessaria in tempi di crisi.
 

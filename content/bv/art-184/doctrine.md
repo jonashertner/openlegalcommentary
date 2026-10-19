@@ -46,7 +46,7 @@
 
 ### 5. Streitstände
 
-**N. 13** **Umfang der Notverordnungskompetenz**: Während Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 1867) eine restriktive Auslegung befürworten, plädiert Waldmann für einen weiten Ermessensspielraum des Bundesrats bei der Beurteilung der Landesinteressen.
+**N. 13** **Umfang der Notverordnungskompetenz**: Während Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 1867) eine restriktive Auslegung befürworten, plädiert ein anderer Teil der Lehre für einen weiten Ermessensspielraum des Bundesrats bei der Beurteilung der Landesinteressen.
 
 **N. 14** **Justiziabilität**: Tschannen/Zimmerli/Müller (Allgemeines Verwaltungsrecht, 4. Aufl. 2014, § 31 N. 42) vertreten die Auffassung, dass Bundesratsbeschlüsse nach Art. 184 Abs. 3 BV nur beschränkt justiziabel sind. Dem widerspricht die neuere Rechtsprechung, die zumindest bei Grundrechtseingriffen eine volle gerichtliche Überprüfung fordert (**BGE 141 I 20**).
 

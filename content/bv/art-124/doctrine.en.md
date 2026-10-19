@@ -18,17 +18,17 @@
 
 **N. 5** The concept of victim presupposes that a person has been impaired in their physical, psychological or sexual integrity by a criminal offence. The case law interprets the concept of criminal offence broadly and also covers negligent result offences with a large temporal gap between the act and the occurrence of the result (**BGE 134 II 308 E. 5**). What is decisive is the realization of the objective and subjective elements of the offence, not the negligent behaviour as such.
 
-**N. 6** Göksu emphasizes that only natural persons can be victims. The impairment must have been directly caused by the criminal offence. In addition to primary victims, Art. 124 BV also covers relatives as secondary victims, provided they were themselves impaired in their psychological integrity by the criminal offence.
+**N. 6** Some commentators emphasize that only natural persons can be victims. The impairment must have been directly caused by the criminal offence. In addition to primary victims, Art. 124 BV also covers relatives as secondary victims, provided they were themselves impaired in their psychological integrity by the criminal offence.
 
 ### 3.2 Assistance
 
-**N. 7** The constitutionally required «assistance» encompasses, according to prevailing doctrine, a three-tier system: immediate assistance, longer-term assistance and financial benefits. It is disputed whether victim assistance also applies preventively. Part of the literature takes the view that victim assistance should not only apply when a criminal offence has occurred, but already when it is threatened. Göksu contradicts this interpretation with the argument that it finds support neither in the wording nor in the materials. Federal Supreme Court practice has not yet definitively expressed itself on this controversy.
+**N. 7** The constitutionally required «assistance» encompasses, according to prevailing doctrine, a three-tier system: immediate assistance, longer-term assistance and financial benefits. It is disputed whether victim assistance also applies preventively. Part of the literature takes the view that victim assistance should not only apply when a criminal offence has occurred, but already when it is threatened. Other commentators contradict this interpretation with the argument that it finds support neither in the wording nor in the materials. Federal Supreme Court practice has not yet definitively expressed itself on this controversy.
 
 ### 3.3 Appropriate Compensation
 
 **N. 8** The «appropriate compensation» is linked to the condition that the victim has fallen into economic difficulties as a result of the criminal offence. The case law specifies these difficulties by reference to the system of supplementary benefits (**BGE 131 II 217**). The compensation has a subsidiary character; benefits from third parties are offset.
 
-**N. 9** Göksu explains that the appropriateness of compensation requires a balancing between the financial circumstances of the victim and the damage suffered. The compensation does not have to cover the full damage, but should prevent or mitigate economic hardship.
+**N. 9** Some commentators explain that the appropriateness of compensation requires a balancing between the financial circumstances of the victim and the damage suffered. The compensation does not have to cover the full damage, but should prevent or mitigate economic hardship.
 
 ## 4. Legal Consequences
 
@@ -40,7 +40,7 @@
 
 ### 5.1 Preventive Victim Assistance
 
-**N. 12** A central point of contention concerns the question of whether victim assistance already applies when a criminal offence is threatened. Gomm/Zehntner (Commentary OHG, 3rd ed. 2009, Art. 1 N. 15) and Leubin Müller (AJP 2012, 1585, 1587) take the view that the protective purpose of victim assistance also encompasses preventive measures. Göksu contradicts this with reference to the clear wording («by a criminal offence») and the lack of support in the materials. The practice of cantonal victim assistance centres is inconsistent.
+**N. 12** A central point of contention concerns the question of whether victim assistance already applies when a criminal offence is threatened. Gomm/Zehntner (Commentary OHG, 3rd ed. 2009, Art. 1 N. 15) and Leubin Müller (AJP 2012, 1585, 1587) take the view that the protective purpose of victim assistance also encompasses preventive measures. Other commentators contradict this with reference to the clear wording («by a criminal offence») and the lack of support in the materials. The practice of cantonal victim assistance centres is inconsistent.
 
 ### 5.2 Relationship to Free Legal Aid
 
@@ -52,4 +52,4 @@
 
 **N. 15** In the case of long-term damage (asbestos, HIV infections), the limitation period only begins when the damage becomes recognizable (**BGE 126 II 348**). The counselling centres are obliged to point out these particularities and to support the formulation of applications.
 
-**N. 16** In the cross-border context, the public international law context must be considered. Göksu refers to the European Convention on the Compensation of Victims of Violent Crimes (SR 0.312.5) and the EU Victims' Rights Directive 2012/29/EU. Swiss victims of violent crimes in the EU area can invoke these instruments.
+**N. 16** In the cross-border context, the public international law context must be considered. The literature refers to the European Convention on the Compensation of Victims of Violent Crimes (SR 0.312.5) and the EU Victims' Rights Directive 2012/29/EU. Swiss victims of violent crimes in the EU area can invoke these instruments.

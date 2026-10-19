@@ -55,7 +55,7 @@
 
 **N. 15** Bei der **Beteiligungsverpflichtung** entstehen nur die im Bundesbeschluss definierten Pflichten. Der Kanton wird nicht Vertragspartei, sondern erfüllt spezifische, bundesrechtlich angeordnete Kooperationspflichten.
 
-**N. 16** Die Rechtsnatur der Verpflichtung ist umstritten: Biaggini betont, dass Art. 48a BV sich einer unmittelbaren Anwendbarkeit entzieht und einer bundesgesetzlichen Konkretisierung bedarf. Die Praxis zeigt jedoch, dass die Bundesversammlung direkt gestützt auf Art. 48a BV handeln kann.
+**N. 16** Die Rechtsnatur der Verpflichtung ist umstritten: In der Lehre wird betont, dass Art. 48a BV sich einer unmittelbaren Anwendbarkeit entzieht und einer bundesgesetzlichen Konkretisierung bedarf. Die Praxis zeigt jedoch, dass die Bundesversammlung direkt gestützt auf Art. 48a BV handeln kann.
 
 ## 5. Streitstände
 
@@ -71,7 +71,7 @@
 
 ### c) Verhältnis zu sektorspezifischen Normen
 
-**N. 19** **Streitstand zum Verhältnis zu Spezialnormen**: Unklar ist das Verhältnis zu sektorspezifischen Kooperationsverpflichtungen wie Art. 62 Abs. 4 BV (Schulwesen) oder Art. 123 Abs. 2-3 BV (Strafvollzug). Waldmann sieht Art. 48a BV als generelle Auffangnorm, während andere Autoren von einem Spezialitätsverhältnis ausgehen.
+**N. 19** **Streitstand zum Verhältnis zu Spezialnormen**: Unklar ist das Verhältnis zu sektorspezifischen Kooperationsverpflichtungen wie Art. 62 Abs. 4 BV (Schulwesen) oder Art. 123 Abs. 2-3 BV (Strafvollzug). Ein Teil der Lehre sieht Art. 48a BV als generelle Auffangnorm, während andere Autoren von einem Spezialitätsverhältnis ausgehen.
 
 ## 6. Praxishinweise
 

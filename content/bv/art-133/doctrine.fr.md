@@ -32,7 +32,7 @@
 
 ### 5. Points controversés
 
-**N. 11** Un point litigieux central concerne la portée de la compétence de l'art. 133 Cst. Une interprétation restrictive, qui s'appuie sur la position systématique dans l'ordre financier, veut limiter l'art. 133 Cst. aux droits purement fiscaux (ainsi partiellement l'ancienne doctrine). La conception dominante aujourd'hui, représentée par Oesch, englobe aussi les droits à but économique, car une limitation aux droits purement fiscaux ne serait guère judicieuse et même les droits fiscaux ont par réflexe un effet de politique économique.
+**N. 11** Un point litigieux central concerne la portée de la compétence de l'art. 133 Cst. Une interprétation restrictive, qui s'appuie sur la position systématique dans l'ordre financier, veut limiter l'art. 133 Cst. aux droits purement fiscaux (ainsi partiellement l'ancienne doctrine). La conception dominante aujourd'hui englobe aussi les droits à but économique, car une limitation aux droits purement fiscaux ne serait guère judicieuse et même les droits fiscaux ont par réflexe un effet de politique économique.
 
 **N. 12** La question des droits de transit fait l'objet de discussions controversées. Oesch soutient que l'art. 133 Cst. fonde aussi une compétence pour percevoir des droits de transit, en s'appuyant sur le libellé large « trafic transfrontalier de marchandises » et la ratio legis d'une compétence fédérale globale. Arpagaus défend la position contraire et conteste une telle compétence en se référant aux obligations de droit international et à l'insignifiance pratique des droits de transit (Zollrecht, 2e éd. 2007, ch. 142).
 

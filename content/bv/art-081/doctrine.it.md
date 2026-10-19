@@ -14,7 +14,7 @@
 
 ### 3. Elementi costitutivi della fattispecie
 
-**N. 5** **Opere pubbliche**: Il concetto è controverso. La dottrina tradizionale sostiene una concezione ristretta del concetto: Kern, BSK BV, art. 81 N. 9 cita approvando Burckhardt, secondo cui per la qualità di opera sono determinanti «segnatamente la corporeità dell'impianto, il suo collegamento al suolo, il carattere artificiale nonché la modificazione rispettivamente il ripristino di uno stato naturale». Al contrario Lendi/Vogel, SG Komm. BV, art. 81 N. 23 sostengono una concezione più ampia del concetto, «che include anche impianti non legati al suolo come per es. satelliti o istituzioni virtuali».
+**N. 5** **Opere pubbliche**: Il concetto è controverso. La dottrina tradizionale sostiene una concezione ristretta del concetto e cita approvando Burckhardt, secondo cui per la qualità di opera sono determinanti «segnatamente la corporeità dell'impianto, il suo collegamento al suolo, il carattere artificiale nonché la modificazione rispettivamente il ripristino di uno stato naturale». Al contrario Lendi/Vogel, SG Komm. BV, art. 81 N. 23 sostengono una concezione più ampia del concetto, «che include anche impianti non legati al suolo come per es. satelliti o istituzioni virtuali».
 
 **N. 6** **Nell'interesse di tutto il Paese o di gran parte di esso**: Questa formulazione delimita la competenza federale dalle opere cantonali e comunali. Sono comprese le opere con importanza sovraregionale, che riguardano più Cantoni o sono di importanza strategica nazionale. La prassi mostra un'interpretazione generosa per le infrastrutture di trasporti, energia e comunicazioni (Häfelin/Haller/Keller/Thurnherr, Schweizerisches Bundesstaatsrecht, 10ª ed. 2020, N 1089).
 

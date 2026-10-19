@@ -84,7 +84,7 @@
 
 #### 5.4 Corporate Freedom of Religion
 
-**N. 25** Whether, and to what extent, legal entities with a religious purpose are holders of freedom of religion and conscience was disputed under the former constitutional law. The dispatch (BBl 1997 I 155) and the Council of States (Inderkum) proceeded from an individual-rights character of the provision. The Federal Supreme Court has, however, consistently recognised religious bodies as holders of fundamental rights (**BGE 145 I 121 E. 23**; **BGE 142 I 195 E. 5.2 ff.**), thereby overcoming the narrow parliamentary reading. Pahud de Mortanges sees this as a systemically consistent development towards comprehensive protection of collective religious practice.
+**N. 25** Whether, and to what extent, legal entities with a religious purpose are holders of freedom of religion and conscience was disputed under the former constitutional law. The dispatch (BBl 1997 I 155) and the Council of States (Inderkum) proceeded from an individual-rights character of the provision. The Federal Supreme Court has, however, consistently recognised religious bodies as holders of fundamental rights (**BGE 145 I 121 E. 23**; **BGE 142 I 195 E. 5.2 ff.**), thereby overcoming the narrow parliamentary reading. One view in the literature sees this as a systemically consistent development towards comprehensive protection of collective religious practice.
 
 ---
 

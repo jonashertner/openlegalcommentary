@@ -20,25 +20,25 @@
 
 **N. 5** The comprehensive federal competence for «monetary and currency matters» includes, according to prevailing doctrine, the regulation of all aspects of the monetary system: currency unit, means of payment, monetary stability and international monetary relations (Ehrenzeller/Nobs/Vallender, St. Galler Kommentar BV, Art. 99 N. 5–7).
 
-**N. 6** The cash monopoly («exclusively») is absolute and categorically excludes cantonal or private currencies. Kaufmann/Utz emphasize that this monopoly also covers regional currencies and private means of payment insofar as they perform monetary functions. The distinction from mere accounting units or voucher systems is made according to functional criteria (general acceptance, store of value function, medium of exchange function).
+**N. 6** The cash monopoly («exclusively») is absolute and categorically excludes cantonal or private currencies. Some commentators emphasize that this monopoly also covers regional currencies and private means of payment insofar as they perform monetary functions. The distinction from mere accounting units or voucher systems is made according to functional criteria (general acceptance, store of value function, medium of exchange function).
 
 #### b) Independence of the National Bank (Para. 2)
 
-**N. 7** The constitutionally guaranteed independence of the SNB comprises, according to the doctrine of Cukierman/Webb/Neyapti, four dimensions: personal, functional, institutional and financial independence. This independence is, according to empirical studies, an essential prerequisite for the successful fulfillment of the price stability mandate.
+**N. 7** The constitutionally guaranteed independence of the SNB comprises, according to one view in the literature, four dimensions: personal, functional, institutional and financial independence. This independence is, according to empirical studies, an essential prerequisite for the successful fulfillment of the price stability mandate.
 
-**N. 8** The obligation to the «overall interests of the country» is primarily concretized in the legal mandate for price stability (Art. 5 para. 1 NBA), but according to Kaufmann/Utz does not exclude consideration of cyclical developments. The SNB must orient its policy toward the overall economy and may not unilaterally pursue particular interests.
+**N. 8** The obligation to the «overall interests of the country» is primarily concretized in the legal mandate for price stability (Art. 5 para. 1 NBA), but according to one view in the literature does not exclude consideration of cyclical developments. The SNB must orient its policy toward the overall economy and may not unilaterally pursue particular interests.
 
 **N. 9** The «participation and supervision of the Confederation» manifests itself in the appointment of the bank management by the Federal Council (Art. 42 NBA), the approval of the business regulations and the accountability obligation toward the Federal Council and Parliament. This integration preserves democratic legitimation while maintaining operational independence.
 
 #### c) Currency Reserves (Para. 3)
 
-**N. 10** The obligation to build «sufficient currency reserves» is a constitutional requirement without precise quantification. According to Kaufmann/Utz, adequacy encompasses both the level and the composition of reserves. The SNB has considerable discretion in determining the necessary reserve level.
+**N. 10** The obligation to build «sufficient currency reserves» is a constitutional requirement without precise quantification. According to one view in the literature, adequacy encompasses both the level and the composition of reserves. The SNB has considerable discretion in determining the necessary reserve level.
 
 **N. 11** The gold reserve («part of these reserves shall be held in gold») is constitutionally mandatory, without establishing a minimum share. The historical significance of gold as a currency anchor is reflected in this symbolic constitutional requirement, with the SNB determining the specific level according to monetary policy considerations.
 
 #### d) Profit Distribution (Para. 4)
 
-**N. 12** The two-thirds rule for cantonal shares in SNB net profit is a mandatory constitutional requirement. According to Kaufmann/Utz, distribution is made according to resident population (Art. 31 NBA). The remaining third flows to the Confederation, with the exact profit determination and use regulated in the NBA.
+**N. 12** The two-thirds rule for cantonal shares in SNB net profit is a mandatory constitutional requirement. Distribution is made according to resident population (Art. 31 NBA). The remaining third flows to the Confederation, with the exact profit determination and use regulated in the NBA.
 
 ### 4. Legal Consequences
 
@@ -46,13 +46,13 @@
 
 **N. 14** The constitutional independence of the SNB establishes, according to the doctrine of Ehrenzeller/Nobs/Vallender (St. Galler Kommentar BV, Art. 99 N. 22), a limited intensity of judicial review of its monetary policy decisions. Courts can only challenge evidently unlawful measures, but cannot review monetary policy appropriateness.
 
-**N. 15** The gold reserve requirement obliges the SNB to permanently maintain gold holdings. According to Kaufmann/Utz, a complete disposal of gold reserves would be unconstitutional. However, the level of the gold share lies within the proper discretion of the SNB.
+**N. 15** The gold reserve requirement obliges the SNB to permanently maintain gold holdings. According to one view in the literature, a complete disposal of gold reserves would be unconstitutional. However, the level of the gold share lies within the proper discretion of the SNB.
 
 **N. 16** The constitutional entitlement of the cantons to two-thirds of the net profit is directly enforceable. Profit distribution occurs annually according to the determined distributable profit pursuant to the profit distribution agreement concluded between the Confederation and the SNB.
 
 ### 5. Controversies
 
-**N. 17** The exact scope of SNB independence in systemically relevant crises is disputed. Kaufmann takes the view that the joint responsibility of SNB and FINMA for system stability requires close cooperation. Critical voices in the doctrine (Nobel, Finanzmarktrecht, N. 847) see in this a potential threat to monetary policy independence through regulatory entanglements.
+**N. 17** The exact scope of SNB independence in systemically relevant crises is disputed. One view in the literature holds that the joint responsibility of SNB and FINMA for system stability requires close cooperation. Critical voices in the doctrine (Nobel, Finanzmarktrecht, N. 847) see in this a potential threat to monetary policy independence through regulatory entanglements.
 
 **N. 18** The permissibility of central bank digital currencies (CBDC) under Art. 99 BV is doctrinally controversial. Proponents like Vischer (Geld- und Währungsrecht, p. 234) see CBDC as a technological evolution of cash covered by the currency monopoly. Skeptics argue with Rhinow/Schefer/Uebersax (Verfassungsrecht, N. 2851) that CBDC raises new constitutional questions regarding data protection and negative interest rates.
 

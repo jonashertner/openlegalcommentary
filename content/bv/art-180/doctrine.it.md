@@ -43,7 +43,7 @@
 
 ### 5. Questioni controverse
 
-**N. 11** È controversa la portata dell'obbligo d'informazione nel settore della politica di sicurezza. Mentre Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4a ed. 2023, art. 180 N 12) propugnano un'interpretazione ampia degli interessi di segretezza, Waldmann/Belser/Epiney propendono per una gestione restrittiva alla luce del principio democratico.
+**N. 11** È controversa la portata dell'obbligo d'informazione nel settore della politica di sicurezza. Mentre Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4a ed. 2023, art. 180 N 12) propugnano un'interpretazione ampia degli interessi di segretezza, un'altra parte della dottrina propende per una gestione restrittiva alla luce del principio democratico.
 
 **N. 12** È anche discusso in modo controverso il rapporto tra l'obbligo d'informazione costituzionale e il principio di collegialità (→ art. 177 cpv. 1 Cost.). Müller/Schefer (Grundrechte in der Schweiz, 4a ed. 2008, p. 523) vedono una precedenza della trasparenza, mentre Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3a ed. 2016, N 3166) propendono per una ponderazione caso per caso.
 

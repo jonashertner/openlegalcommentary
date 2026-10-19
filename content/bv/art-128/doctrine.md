@@ -6,7 +6,7 @@
 
 **N. 1** Die direkte Bundessteuer ist ein historisch umstrittenes Finanzierungsinstrument des Bundes. Die Befristung der Kompetenz, die in Art. 196 Ziff. 13 BV verankert ist, reflektiert den föderalistischen Kompromiss zwischen den Finanzierungsbedürfnissen des Bundes und der Steuerhoheit der Kantone. Seit 1915 wurde die Bundeskompetenz zur Erhebung direkter Steuern wiederholt befristet verlängert. Die neue Bundesverfassung von 1999 übernahm die Regelung aus der Finanzordnung (BBl 1997 I 544).
 
-**N. 2** Die Befristung bis 2035 (Art. 196 Ziff. 13 BV) wird in der Lehre kritisch beurteilt. Vallender/Cavelti halten die Befristung aus verfassungstheoretischer Sicht für nicht sachgerecht, da die unbefristete Übernahme von Aufgaben durch den Bund zwingend eine gesicherte unbefristete Finanzierung voraussetze.
+**N. 2** Die Befristung bis 2035 (Art. 196 Ziff. 13 BV) wird in der Lehre kritisch beurteilt. Ein Teil der Lehre hält die Befristung aus verfassungstheoretischer Sicht für nicht sachgerecht, da die unbefristete Übernahme von Aufgaben durch den Bund zwingend eine gesicherte unbefristete Finanzierung voraussetze.
 
 **N. 3** Die Einführung des Ausgleichs der kalten Progression in Abs. 3 erfolgte mit der Volksabstimmung vom 20. Mai 1991. Zuvor war die kalte Progression seit 1973 nur unregelmässig und teilweise ausgeglichen worden (BBl 1990 I 1265).
 
@@ -16,7 +16,7 @@
 
 **N. 5** Der Vollzugsföderalismus (Abs. 4) ist charakteristisch für die schweizerische Finanzordnung. Die Kantone veranlagen und beziehen die direkte Bundessteuer, obwohl der materielle Steueranspruch überwiegend dem Bund zusteht (**BGE 141 I 161** E. 4.2.1). Diese Regelung verknüpft die Bundessteuer systematisch mit dem kantonalen Steuerrecht.
 
-**N. 6** Die Verankerung der Höchstsätze in der Verfassung (Abs. 1) ist ungewöhnlich. Vallender/Cavelti betonen, dass diesen materiellen Vorgaben durchaus verfassungsrechtliche Relevanz zukomme und sie somit verfassungswürdig seien.
+**N. 6** Die Verankerung der Höchstsätze in der Verfassung (Abs. 1) ist ungewöhnlich. In der Lehre wird betont, dass diesen materiellen Vorgaben durchaus verfassungsrechtliche Relevanz zukomme und sie somit verfassungswürdig seien.
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
@@ -46,7 +46,7 @@
 
 ### 5. Streitstände
 
-**N. 16** **Befristung der Kompetenz:** Vallender/Cavelti kritisieren die Befristung als verfassungstheoretisch unsachgerecht. Die Gegenposition betont den föderalistischen Kompromisscharakter der Regelung.
+**N. 16** **Befristung der Kompetenz:** Ein Teil der Lehre kritisiert die Befristung als verfassungstheoretisch unsachgerecht. Die Gegenposition betont den föderalistischen Kompromisscharakter der Regelung.
 
 **N. 17** **Auslegung der Höchstsätze:** Der Streit zwischen Durchschnittssteuersatz (Locher, Vallender/Looser) und Grenzsteuersatz (BV 1874-Höhn/Vallender) bleibt mangels praktischer Relevanz unentschieden.
 

@@ -20,7 +20,7 @@
 
 ### b) Gesetzgebungsauftrag (Abs. 2 Ingress)
 
-**N. 6** Der zwingende Gesetzgebungsauftrag («erlässt Vorschriften») verpflichtet den Bund zum Erlass umfassender Regelungen. Die Schutzgütertrias — Menschenwürde, Persönlichkeit und Familie — bildet den normativen Rahmen. Der Familienbegriff ist nach Belser/Molinari weit zu verstehen und umfasst das Familienleben nach → Art. 13 Abs. 1 BV und Art. 8 EMRK, nicht nur die traditionelle Kleinfamilie.
+**N. 6** Der zwingende Gesetzgebungsauftrag («erlässt Vorschriften») verpflichtet den Bund zum Erlass umfassender Regelungen. Die Schutzgütertrias — Menschenwürde, Persönlichkeit und Familie — bildet den normativen Rahmen. Der Familienbegriff ist nach einer Lehrmeinung weit zu verstehen und umfasst das Familienleben nach → Art. 13 Abs. 1 BV und Art. 8 EMRK, nicht nur die traditionelle Kleinfamilie.
 
 ### c) Grundsätze (Abs. 2 lit. a–g)
 
@@ -28,7 +28,7 @@
 
 **N. 8** **Artenschranke (lit. b)**: Das Verbot von Chimären- und Hybridbildung schützt die biologische Integrität der menschlichen Spezies. Die Verwendung tierischer Mitochondrien bei der IVF ist umstritten (Müller, Rechtliche und ethische Fragen, S. 152).
 
-**N. 9** **Fortpflanzungsmedizin (lit. c)**: Die Subsidiaritätsklausel («nicht anders behoben werden kann») wird kontrovers diskutiert. Belser/Molinari argumentieren, dass Unfruchtbarkeit im verfassungsrechtlichen Sinne umfassend als unerfüllbarer Kinderwunsch zu verstehen sei, auch bei gleichgeschlechtlichen Paaren. Das FMedG vertritt demgegenüber ein restriktiveres Verständnis.
+**N. 9** **Fortpflanzungsmedizin (lit. c)**: Die Subsidiaritätsklausel («nicht anders behoben werden kann») wird kontrovers diskutiert. In der Lehre wird argumentiert, dass Unfruchtbarkeit im verfassungsrechtlichen Sinne umfassend als unerfüllbarer Kinderwunsch zu verstehen sei, auch bei gleichgeschlechtlichen Paaren. Das FMedG vertritt demgegenüber ein restriktiveres Verständnis.
 
 **N. 10** **Leihmutterschaftsverbot (lit. d)**: Das absolute Verbot bildet nach **BGE 141 III 328 E. 7.4.1** Kernbestand des schweizerischen ordre public. Die Embryonenspende ist ebenfalls ausnahmslos untersagt, im Gegensatz zur erlaubten Gametenspende.
 
@@ -46,9 +46,9 @@
 
 ## 5. Streitstände
 
-**N. 16** **Familienbegriff**: Die zentrale Kontroverse betrifft die Reichweite des verfassungsrechtlichen Familienbegriffs. Während Belser/Molinari für ein weites Verständnis im Sinne von Art. 8 EMRK plädieren, das auch unverheiratete und gleichgeschlechtliche Paare einschliesst, vertritt das FMedG einen engeren Familienbegriff. Diese Divergenz hat unmittelbare Auswirkungen auf den Zugang zur Fortpflanzungsmedizin.
+**N. 16** **Familienbegriff**: Die zentrale Kontroverse betrifft die Reichweite des verfassungsrechtlichen Familienbegriffs. Während ein Teil der Lehre für ein weites Verständnis im Sinne von Art. 8 EMRK plädiert, das auch unverheiratete und gleichgeschlechtliche Paare einschliesst, vertritt das FMedG einen engeren Familienbegriff. Diese Divergenz hat unmittelbare Auswirkungen auf den Zugang zur Fortpflanzungsmedizin.
 
-**N. 17** **Unfruchtbarkeitsbegriff**: Umstritten ist, ob soziale Unfruchtbarkeit (bei gleichgeschlechtlichen Paaren oder Alleinstehenden) der medizinischen gleichzustellen ist. Belser/Molinari befürworten eine umfassende Interpretation, die jeden unerfüllbaren Kinderwunsch einschliesst. Die Gegenposition verlangt eine medizinische Indikation (Gächter/Rütsche, Gesundheitsrecht, § 14 N. 567).
+**N. 17** **Unfruchtbarkeitsbegriff**: Umstritten ist, ob soziale Unfruchtbarkeit (bei gleichgeschlechtlichen Paaren oder Alleinstehenden) der medizinischen gleichzustellen ist. Ein Teil der Lehre befürwortet eine umfassende Interpretation, die jeden unerfüllbaren Kinderwunsch einschliesst. Die Gegenposition verlangt eine medizinische Indikation (Gächter/Rütsche, Gesundheitsrecht, § 14 N. 567).
 
 **N. 18** **Präimplantationsdiagnostik**: Die 2015 erfolgte Verfassungsänderung löste den Streit über die Zulässigkeit der PID nur teilweise. Kontrovers bleibt der Umfang zulässiger genetischer Untersuchungen und die Definition «schwerer Krankheiten» (Addor/Bühler, sic! 2004, S. 389).
 

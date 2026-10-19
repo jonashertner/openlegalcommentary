@@ -14,14 +14,14 @@
 
 ### 3. Tatbestandsmerkmale / Norminhalt
 
-**N. 5** **Kantonale Schulhoheit (Abs. 1)**: Die Zuständigkeit der Kantone für das Schulwesen umfasst gemäss Hänni die Gesetzgebung, Vollzug, Organisation und Finanzierung des gesamten Bildungswesens auf ihrem Gebiet. Diese umfassende Kompetenz erstreckt sich auf alle Schulstufen von der Grundschule bis zu den kantonalen Universitäten, soweit nicht spezifische Bundeskompetenzen bestehen.
+**N. 5** **Kantonale Schulhoheit (Abs. 1)**: Die Zuständigkeit der Kantone für das Schulwesen umfasst die Gesetzgebung, Vollzug, Organisation und Finanzierung des gesamten Bildungswesens auf ihrem Gebiet. Diese umfassende Kompetenz erstreckt sich auf alle Schulstufen von der Grundschule bis zu den kantonalen Universitäten, soweit nicht spezifische Bundeskompetenzen bestehen.
 
 **N. 6** **Grundschulunterricht (Abs. 2)**: Der Begriff «ausreichender Grundschulunterricht» verlangt gemäss bundesgerichtlicher Rechtsprechung ein angemessenes, erfahrungsgemäss ausreichendes Bildungsangebot (**BGE 138 I 162**). Die drei Kernelemente sind:
 - **Obligatorium**: Die Schulpflicht dauert mindestens neun Jahre und erfasst alle Kinder unabhängig von Nationalität oder Aufenthaltsstatus
 - **Staatliche Leitung oder Aufsicht**: Private Schulen und Homeschooling unterliegen der staatlichen Kontrolle
 - **Unentgeltlichkeit**: An öffentlichen Schulen müssen alle notwendigen und unmittelbar dem Unterrichtszweck dienenden Mittel kostenlos zur Verfügung gestellt werden (**BGE 144 I 1**)
 
-**N. 7** **Sonderschulung (Abs. 3)**: Die «ausreichende Sonderschulung» für behinderte Kinder und Jugendliche stellt eine verfassungsrechtliche Innovation dar. Hänni betont den weiten kantonalen Gestaltungsspielraum bei der konkreten Ausgestaltung. Die Altersgrenze «bis längstens zum vollendeten 20. Altersjahr» ist absolut und erlaubt keine Ausnahmen.
+**N. 7** **Sonderschulung (Abs. 3)**: Die «ausreichende Sonderschulung» für behinderte Kinder und Jugendliche stellt eine verfassungsrechtliche Innovation dar. In der Lehre wird der weite kantonale Gestaltungsspielraum bei der konkreten Ausgestaltung betont. Die Altersgrenze «bis längstens zum vollendeten 20. Altersjahr» ist absolut und erlaubt keine Ausnahmen.
 
 **N. 8** **Schulharmonisierung (Abs. 4)**: Die subsidiäre Bundeskompetenz greift nur, wenn die interkantonale Koordination scheitert. Die Harmonisierungsbereiche sind abschliessend aufgezählt:
 - Schuleintrittsalter und Schulpflicht
@@ -53,7 +53,7 @@ Biaggini qualifiziert diese Kompetenz als «bedingt konkurrierend», während Eh
 
 **N. 15** **Normcharakter von Art. 62 Abs. 3**: Ein bedeutender Streitstand besteht bezüglich der Rechtsnatur der Sonderschulungspflicht. Skeptische Stimmen in der Lehre sehen in Abs. 3 lediglich einen Verfassungsauftrag ohne einklagbaren Individualanspruch. Andere Lehrmeinungen (Kälin/Künzli, in Wyttenbach/Kälin, AJP 2005, 1278) bejahen einen unmittelbar durchsetzbaren Rechtsanspruch des behinderten Kindes. Das Bundesgericht tendiert zur Anerkennung eines justiziablen Anspruchs, betont aber den weiten kantonalen Gestaltungsspielraum (**BGE 138 I 162**).
 
-**N. 16** **Verhältnis Bund-Kantone bei der Harmonisierung**: Ehrenzeller/Schott betonen die primäre kantonale Verantwortung und sehen die Bundeskompetenz als ultima ratio. Biaggini qualifiziert die Kompetenz als «bedingt konkurrierend» und räumt dem Bund grösseren Spielraum ein. Die Praxis zeigt, dass der Bund bisher zurückhaltend agiert und primär auf die interkantonale Zusammenarbeit (HarmoS-Konkordat) setzt.
+**N. 16** **Verhältnis Bund-Kantone bei der Harmonisierung**: Ein Teil der Lehre betont die primäre kantonale Verantwortung und sieht die Bundeskompetenz als ultima ratio. Ein anderer Teil der Lehre qualifiziert die Kompetenz als «bedingt konkurrierend» und räumt dem Bund grösseren Spielraum ein. Die Praxis zeigt, dass der Bund bisher zurückhaltend agiert und primär auf die interkantonale Zusammenarbeit (HarmoS-Konkordat) setzt.
 
 ### 6. Praxishinweise
 

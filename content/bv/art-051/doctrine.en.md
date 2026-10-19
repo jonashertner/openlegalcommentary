@@ -16,7 +16,7 @@
 
 ### 3. Elements of the Offence
 
-**N. 5** **Cantonal constitution:** The concept encompasses the formal constitution as the basic order of the canton. Belser/Massüger define it as a collection of legally supreme norms that organise the political system, guarantee fundamental rights and establish state functions. The cantonal constitution must be formally distinguished from other cantonal enactments.
+**N. 5** **Cantonal constitution:** The concept encompasses the formal constitution as the basic order of the canton. Some commentators define it as a collection of legally supreme norms that organise the political system, guarantee fundamental rights and establish state functions. The cantonal constitution must be formally distinguished from other cantonal enactments.
 
 **N. 6** **Democratic constitution:** The requirement of a democratic constitution requires, according to the Federal Council, at least an elected parliament and observance of the principle of separation of powers. The prevailing doctrine concretises this through four elements: periodic elections, universal and equal suffrage, majority principle and guaranteed opposition.
 
@@ -36,9 +36,9 @@
 
 ### 5. Disputes
 
-**N. 13** **Bicameral parliaments:** The prevailing doctrine considers cantonal bicameral parliaments inadmissible as they contradict the principle of equality. Belser/Massüger argue conversely that a bicameral system could indeed be democratic with factual reasons such as protection of linguistic minorities. Practice knows no cantonal bicameral parliaments.
+**N. 13** **Bicameral parliaments:** The prevailing doctrine considers cantonal bicameral parliaments inadmissible as they contradict the principle of equality. Some commentators argue conversely that a bicameral system could indeed be democratic with factual reasons such as protection of linguistic minorities. Practice knows no cantonal bicameral parliaments.
 
-**N. 14** **Qualified majorities:** Another point of dispute concerns qualified majority requirements. The prevailing doctrine rejects these as undemocratic. Belser/Massüger argue more differentially: qualified majorities should be permissible with factual justification, for instance to protect national minorities. The Federal Supreme Court has not yet decided this question.
+**N. 14** **Qualified majorities:** Another point of dispute concerns qualified majority requirements. The prevailing doctrine rejects these as undemocratic. Some commentators argue more differentially: qualified majorities should be permissible with factual justification, for instance to protect national minorities. The Federal Supreme Court has not yet decided this question.
 
 **N. 15** **Majoritarian electoral systems:** The admissibility of pure majoritarian electoral procedures for cantonal parliaments is disputed. Hangartner (Die Wahl kantonaler Parlamente nach dem Majorzsystem, ZBl 2005, 217) considers them contrary to federal law. **BGE 145 I 259 E. 5** ultimately left the question open, but emphasised the strict requirements for constituency division in majoritarian systems.
 

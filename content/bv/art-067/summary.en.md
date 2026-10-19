@@ -12,6 +12,6 @@ Art. 67 BV does not establish direct entitlements for children or youth organisa
 
 **Federal support:** The Confederation may promote youth organisations or innovative projects with financial assistance. This happens through the Child and Youth Promotion Act (KJFG). The prerequisite is that the project has national significance and is limited in time (**Urteil B-6244/2020**). Regular operating costs are not covered.
 
-**Disputed legal question:** In legal doctrine, it is disputed how far the federal competence extends. Tschentscher sees it as a practically unlimited parallel competence, while Biaggini emphasises stronger constitutional limitations.
+**Disputed legal question:** In legal doctrine, it is disputed how far the federal competence extends. One view in the literature sees it as a practically unlimited parallel competence, while Biaggini emphasises stronger constitutional limitations.
 
 Art. 67 BV strengthens awareness that state decisions often have a particularly strong impact on the young generation. It makes these effects visible and forces explicit consideration of children's interests in politics.

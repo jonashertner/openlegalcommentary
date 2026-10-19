@@ -26,7 +26,7 @@
 
 **N. 9** **Supranationale Gemeinschaften (lit. b)**: Der Bundesrat definiert diese als Organisationen mit unabhängigen Organen, die durch Mehrheitsbeschluss unmittelbar verbindliche Entscheide für Einzelpersonen erlassen können und über relativ umfassende materielle Befugnisse verfügen. Die EU erfüllt diese Kriterien unbestritten.
 
-**N. 10** Umstritten ist die Einordnung des EWR: Epiney/Diezig sowie Hangartner/Kley bejahen die Supranationalität wegen der dynamischen Rechtsentwicklung und der Kompetenzen der EFTA-Überwachungsbehörde. Häfelin/Haller/Keller, Tschannen und Biaggini verneinen sie hingegen, da EWR-Recht nicht unmittelbar anwendbar ist und die Übernahme neuer Rechtsakte der Zustimmung der Vertragsparteien bedarf.
+**N. 10** Umstritten ist die Einordnung des EWR: Hangartner/Kley bejahen die Supranationalität wegen der dynamischen Rechtsentwicklung und der Kompetenzen der EFTA-Überwachungsbehörde. Häfelin/Haller/Keller, Tschannen und Biaggini verneinen sie hingegen, da EWR-Recht nicht unmittelbar anwendbar ist und die Übernahme neuer Rechtsakte der Zustimmung der Vertragsparteien bedarf.
 
 **N. 11** **Dringliche Bundesgesetze ohne Verfassungsgrundlage (lit. c)**: Diese seltene Konstellation betrifft nur Bundesgesetze, die kumulativ: (1) von der Bundesversammlung als dringlich erklärt wurden (→ Art. 165 BV), (2) keine Verfassungsgrundlage haben und (3) deren Geltungsdauer ein Jahr übersteigt. Sie müssen innerhalb eines Jahres nach Annahme zur Abstimmung gebracht werden.
 

@@ -18,7 +18,7 @@
 
 **N. 5** **Separate deliberations (para. 1)**: The principle of separate deliberation means that the National Council and Council of States hold their sessions separately and deliberate independently of each other. According to Ehrenzeller/Schindler/Schweizer/Vallender (St. Galler Kommentar BV, 4th ed. 2023, Art. 156 N. 3), this is an expression of the full equality of both chambers and prevents the dominance of one council.
 
-**N. 6** **Agreement (para. 2)**: The consensus principle requires the substantive agreement of both councils for every Federal Assembly decree. According to Waldmann/Belser/Epiney, a mere majority in a combined parliament does not suffice, but identical decisions by both chambers are required. This applies to acts, ordinances of the Federal Assembly, federal decrees and simple federal decrees (→ Art. 163 FC).
+**N. 6** **Agreement (para. 2)**: The consensus principle requires the substantive agreement of both councils for every Federal Assembly decree. According to one view in the literature, a mere majority in a combined parliament does not suffice, but identical decisions by both chambers are required. This applies to acts, ordinances of the Federal Assembly, federal decrees and simple federal decrees (→ Art. 163 FC).
 
 **N. 7** **Differences settlement procedure (para. 3)**: The Constitution obliges the legislature to provide for a procedure that enables a solution in case of disagreements. The areas listed in lit. a–d are exhaustive according to Tschannen (in: St. Galler Kommentar BV, Art. 156 N. 12), which means that in other areas a blockade by one council remains possible.
 

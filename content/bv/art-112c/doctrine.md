@@ -28,11 +28,11 @@
 
 ### 5. Streitstände
 
-**N. 10** **Umfang der Bundeskompetenz**: In der Lehre ist umstritten, wie weit die Förderungskompetenz des Bundes reicht. Schweizer (St. Galler Kommentar BV, Art. 112c N. 6) vertritt eine enge Auslegung und betont den subsidiären Charakter der Bundeskompetenz. Gächter/Filippo plädieren für eine weitere Auslegung, die dem Bund auch gewisse Regelungskompetenzen im Rahmen der Förderung zugesteht.
+**N. 10** **Umfang der Bundeskompetenz**: In der Lehre ist umstritten, wie weit die Förderungskompetenz des Bundes reicht. Schweizer (St. Galler Kommentar BV, Art. 112c N. 6) vertritt eine enge Auslegung und betont den subsidiären Charakter der Bundeskompetenz. Ein anderer Teil der Lehre plädiert für eine weitere Auslegung, die dem Bund auch gewisse Regelungskompetenzen im Rahmen der Förderung zugesteht.
 
 **N. 11** **Verhältnis zu den Kantonen**: Die konkurrierende Natur der Kompetenz ist unbestritten, jedoch divergieren die Meinungen über die Reichweite der kantonalen Autonomie. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, N. 3854) betonen die fortbestehende kantonale Hauptzuständigkeit. Häfelin/Haller/Keller/Thurnherr (Schweizerisches Bundesstaatsrecht, 10. Aufl. 2020, N. 1285) sehen hingegen eine verstärkte Bundesmitverantwortung, insbesondere bei der Finanzierung.
 
-**N. 12** **Völkerrechtskonforme Auslegung**: Mit der Ratifizierung der UN-Behindertenrechtskonvention hat sich die Frage gestellt, inwieweit Art. 112c BV im Lichte des Völkerrechts auszulegen ist. Schefer (in: Müller/Schefer, Grundrechte, S. 748) fordert eine expansive Auslegung im Sinne der Konvention. Waldmann mahnt zur Zurückhaltung und betont den Unterschied zwischen Förderungsauftrag und Grundrechtsverpflichtung.
+**N. 12** **Völkerrechtskonforme Auslegung**: Mit der Ratifizierung der UN-Behindertenrechtskonvention hat sich die Frage gestellt, inwieweit Art. 112c BV im Lichte des Völkerrechts auszulegen ist. Schefer (in: Müller/Schefer, Grundrechte, S. 748) fordert eine expansive Auslegung im Sinne der Konvention. Ein anderer Teil der Lehre mahnt zur Zurückhaltung und betont den Unterschied zwischen Förderungsauftrag und Grundrechtsverpflichtung.
 
 ### 6. Praxishinweise
 

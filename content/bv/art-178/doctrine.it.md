@@ -48,7 +48,7 @@
 
 ### 5. Questioni controverse
 
-**N. 15** **Portata della trasferibilità**: Müller (L'esternalizzazione dei compiti federali, 2020, p. 156) sostiene che i compiti centrali del potere statale (p. es. potere di polizia, perseguimento penale) non siano trasferibili. Waldmann ritiene invece ammissibile un trasferimento anche di compiti pubblicistici, purché la base legale sia sufficientemente determinata.
+**N. 15** **Portata della trasferibilità**: Müller (L'esternalizzazione dei compiti federali, 2020, p. 156) sostiene che i compiti centrali del potere statale (p. es. potere di polizia, perseguimento penale) non siano trasferibili. Un'altra parte della dottrina ritiene invece ammissibile un trasferimento anche di compiti pubblicistici, purché la base legale sia sufficientemente determinata.
 
 **N. 16** **Competenze decisionali implicite**: Il Tribunale federale ha deciso in **DTF 137 II 409 consid. 7** che il trasferimento di compiti può includere implicitamente le competenze decisionali necessarie per l'adempimento. Tschannen (Diritto dello Stato della Confederazione Svizzera, 5ª ed. 2021, § 41 n. 18) critica questo come troppo esteso e richiede una disciplina legale esplicita delle competenze decisionali.
 

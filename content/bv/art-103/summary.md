@@ -8,6 +8,6 @@ Das **Subsidiaritätsprinzip** ist zentral: Private und kantonale Lösungen müs
 
 **Beispiel**: Der Bund unterstützt eine strukturschwache Bergregion beim Aufbau touristischer Infrastruktur, nachdem sich gezeigt hat, dass die Region mit eigenen Mitteln und kantonaler Hilfe die Abwanderung nicht stoppen kann.
 
-Umstritten ist in der Rechtslehre, ob Art. 103 BV auch eine allgemeine Wirtschaftsförderkompetenz ohne Subsidiaritätsvorbehalt enthält. Die Bundespraxis bejaht dies unter Berufung auf die Rechtslage unter der alten Bundesverfassung, während Oesch/Mayoraz argumentieren, der klare Wortlaut stehe einer solchen Auslegung entgegen.
+Umstritten ist in der Rechtslehre, ob Art. 103 BV auch eine allgemeine Wirtschaftsförderkompetenz ohne Subsidiaritätsvorbehalt enthält. Die Bundespraxis bejaht dies unter Berufung auf die Rechtslage unter der alten Bundesverfassung, während ein Teil der Lehre argumentiert, der klare Wortlaut stehe einer solchen Auslegung entgegen.
 
 Auf strukturpolitische Hilfen besteht kein Rechtsanspruch. Der Bund entscheidet nach pflichtgemässem Ermessen. Internationale Verpflichtungen (WTO-Recht, bilaterale Abkommen) setzen der Strukturpolitik Grenzen.

@@ -32,7 +32,7 @@
 
 ### 5. Controversie
 
-**N. 11** Un punto controverso centrale riguarda la portata della competenza dell'art. 133 Cost. Un'interpretazione restrittiva, che si basa sulla collocazione sistematica nell'ordinamento finanziario, vuole limitare l'art. 133 Cost. ai puri dazi fiscali (così in parte la dottrina più datata). L'opinione oggi dominante, rappresentata da Oesch, comprende anche i dazi di orientamento economico, poiché una limitazione ai puri dazi fiscali sarebbe poco opportuna e anche i dazi fiscali hanno effetti riflessi di orientamento economico.
+**N. 11** Un punto controverso centrale riguarda la portata della competenza dell'art. 133 Cost. Un'interpretazione restrittiva, che si basa sulla collocazione sistematica nell'ordinamento finanziario, vuole limitare l'art. 133 Cost. ai puri dazi fiscali (così in parte la dottrina più datata). L'opinione oggi dominante comprende anche i dazi di orientamento economico, poiché una limitazione ai puri dazi fiscali sarebbe poco opportuna e anche i dazi fiscali hanno effetti riflessi di orientamento economico.
 
 **N. 12** La questione dei dazi di transito è discussa in modo controverso. Oesch argomenta che l'art. 133 Cost. fonda anche una competenza per la riscossione di dazi di transito, basandosi sul tenore letterale ampio «traffico transfrontaliero delle merci» e sulla ratio legis di una competenza federale completa. Arpagaus rappresenta la posizione contraria e nega una tale competenza facendo riferimento agli obblighi di diritto internazionale e all'irrilevanza pratica dei dazi di transito (Zollrecht, 2ª ed. 2007, n. marg. 142).
 

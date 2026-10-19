@@ -36,7 +36,7 @@
 
 **N. 10** **Beitragsfinanzierung (Abs. 3)**: Die hälftige Aufteilung zwischen Arbeitnehmern und Arbeitgebern ist verfassungsrechtlich zwingend. Das AVIG konkretisiert dies mit je 1,1% des versicherten Verdienstes bis zur Lohngrenze. Abweichungen sind nur bei höheren Einkommen zulässig (Solidaritätsbeitrag).
 
-**N. 11** **Ausserordentliche Verhältnisse (Abs. 4)**: Bund und Kantone müssen bei ausserordentlichen Verhältnissen finanzielle Leistungen erbringen. Nach Cardinaux genügt die schlechte Finanzlage der Versicherung allein nicht; es braucht externe Faktoren wie Wirtschaftskrisen oder Pandemien. Die COVID-19-Krise 2020/21 erfüllte diese Voraussetzung eindeutig.
+**N. 11** **Ausserordentliche Verhältnisse (Abs. 4)**: Bund und Kantone müssen bei ausserordentlichen Verhältnissen finanzielle Leistungen erbringen. Nach einer Lehrmeinung genügt die schlechte Finanzlage der Versicherung allein nicht; es braucht externe Faktoren wie Wirtschaftskrisen oder Pandemien. Die COVID-19-Krise 2020/21 erfüllte diese Voraussetzung eindeutig.
 
 ### Arbeitslosenfürsorge (Abs. 5)
 
@@ -58,7 +58,7 @@
 
 **N. 16** **Reichweite der Versicherungspflicht**: Die Ausnahmen vom Obligatorium sind umstritten. Rubin kritisiert die weite Ausnahme für Verwaltungsräte als systemwidrig (Commentaire, Art. 2 N. 15). Nussbaumer rechtfertigt sie mit der fehlenden Arbeitnehmereigenschaft (Arbeitslosenversicherung, N. 2156).
 
-**N. 17** **Fehlende Selbständigenversicherung**: Die Nichteinführung der freiwilligen Versicherung für Selbständige wird unterschiedlich bewertet. Locher/Gächter sehen darin eine Verfassungswidrigkeit durch Unterlassen (Grundriss, § 8 N. 45). Cardinaux relativiert: Die Verfassung verpflichte nur zur Schaffung der Möglichkeit, nicht zur attraktiven Ausgestaltung.
+**N. 17** **Fehlende Selbständigenversicherung**: Die Nichteinführung der freiwilligen Versicherung für Selbständige wird unterschiedlich bewertet. Locher/Gächter sehen darin eine Verfassungswidrigkeit durch Unterlassen (Grundriss, § 8 N. 45). Ein anderer Teil der Lehre relativiert: Die Verfassung verpflichte nur zur Schaffung der Möglichkeit, nicht zur attraktiven Ausgestaltung.
 
 ## Praxishinweise
 

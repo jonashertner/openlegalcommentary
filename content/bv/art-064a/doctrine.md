@@ -40,7 +40,7 @@
 
 **N. 14** **Reichweite der Bundeskompetenz:** Ehrenzeller (SG Komm. BV, Art. 64a N. 7) vertritt eine weite Auslegung der Förderkompetenz, die auch strukturelle Massnahmen umfasst. Biaggini (Komm. BV, Art. 64a N. 5) plädiert für eine restriktivere Interpretation, die sich auf finanzielle Förderung und Koordination beschränkt.
 
-**N. 15** **Abgrenzung zur formalen Bildung:** Die Doktrin ist sich uneinig über die Abgrenzung zwischen Weiterbildung nach Art. 64a BV und nachholender formaler Bildung. Hänni will die berufsbegleitenden Fachhochschulstudiengänge unter Art. 64a BV subsumieren, während die herrschende Lehre diese → Art. 63a BV zuordnet.
+**N. 15** **Abgrenzung zur formalen Bildung:** Die Doktrin ist sich uneinig über die Abgrenzung zwischen Weiterbildung nach Art. 64a BV und nachholender formaler Bildung. Eine Lehrmeinung will die berufsbegleitenden Fachhochschulstudiengänge unter Art. 64a BV subsumieren, während die herrschende Lehre diese → Art. 63a BV zuordnet.
 
 **N. 16** **Verhältnis zu spezialgesetzlichen Weiterbildungsbestimmungen:** Strittig ist, ob Art. 64a BV eine umfassende Querschnittskompetenz begründet oder ob spezialgesetzliche Weiterbildungsbestimmungen (z.B. im Berufsbildungsrecht, Arbeitslosenversicherungsrecht) ihre eigenständige verfassungsrechtliche Grundlage behalten.
 

@@ -20,7 +20,7 @@
 
 ### b) Mandat législatif (al. 2 préambule)
 
-**Ch. 6** Le mandat législatif impératif (« édicte des dispositions ») oblige la Confédération à édicter des réglementations complètes. La triade de biens protégés — dignité humaine, personnalité et famille — forme le cadre normatif. La notion de famille doit, selon Belser/Molinari, être comprise largement et englobe la vie familiale selon → l'art. 13 al. 1 Cst. et l'art. 8 CEDH, et pas seulement la famille nucléaire traditionnelle.
+**Ch. 6** Le mandat législatif impératif (« édicte des dispositions ») oblige la Confédération à édicter des réglementations complètes. La triade de biens protégés — dignité humaine, personnalité et famille — forme le cadre normatif. La notion de famille doit, selon une opinion doctrinale, être comprise largement et englobe la vie familiale selon → l'art. 13 al. 1 Cst. et l'art. 8 CEDH, et pas seulement la famille nucléaire traditionnelle.
 
 ### c) Principes (al. 2 let. a–g)
 
@@ -28,7 +28,7 @@
 
 **Ch. 8** **Barrière des espèces (let. b)** : L'interdiction de formation de chimères et d'hybrides protège l'intégrité biologique de l'espèce humaine. L'utilisation de mitochondries animales lors de FIV est controversée (Müller, Questions juridiques et éthiques, p. 152).
 
-**Ch. 9** **Procréation médicalement assistée (let. c)**: La clause de subsidiarité (« ne peut pas être surmontée autrement ») est discutée de manière controversée. Belser/Molinari soutiennent que la stérilité au sens constitutionnel doit être comprise de manière large comme un désir d'enfant irréalisable, même chez les couples de même sexe. La LPMA adopte par contre une compréhension plus restrictive.
+**Ch. 9** **Procréation médicalement assistée (let. c)**: La clause de subsidiarité (« ne peut pas être surmontée autrement ») est discutée de manière controversée. Une partie de la doctrine soutient que la stérilité au sens constitutionnel doit être comprise de manière large comme un désir d'enfant irréalisable, même chez les couples de même sexe. La LPMA adopte par contre une compréhension plus restrictive.
 
 **Ch. 10** **Interdiction de la maternité de substitution (let. d)** : L'interdiction absolue forme selon **ATF 141 III 328 consid. 7.4.1** le noyau dur de l'ordre public suisse. Le don d'embryons est également interdit sans exception, contrairement au don de gamètes qui est autorisé.
 
@@ -46,9 +46,9 @@
 
 ## 5. Points litigieux
 
-**Ch. 16** **Notion de famille**: La controverse centrale concerne la portée de la notion constitutionnelle de famille. Alors que Belser/Molinari plaident pour une compréhension large au sens de l'art. 8 CEDH, qui inclut aussi les couples non mariés et de même sexe, la LPMA adopte une notion de famille plus étroite. Cette divergence a des répercussions directes sur l'accès à la procréation médicalement assistée.
+**Ch. 16** **Notion de famille**: La controverse centrale concerne la portée de la notion constitutionnelle de famille. Alors qu'une partie de la doctrine plaide pour une compréhension large au sens de l'art. 8 CEDH, qui inclut aussi les couples non mariés et de même sexe, la LPMA adopte une notion de famille plus étroite. Cette divergence a des répercussions directes sur l'accès à la procréation médicalement assistée.
 
-**Ch. 17** **Notion de stérilité**: Il est controversé de savoir si la stérilité sociale (chez les couples de même sexe ou les personnes célibataires) doit être assimilée à la stérilité médicale. Belser/Molinari favorisent une interprétation large qui inclut tout désir d'enfant irréalisable. La position contraire exige une indication médicale (Gächter/Rütsche, Droit de la santé, § 14 ch. 567).
+**Ch. 17** **Notion de stérilité**: Il est controversé de savoir si la stérilité sociale (chez les couples de même sexe ou les personnes célibataires) doit être assimilée à la stérilité médicale. Une partie de la doctrine favorise une interprétation large qui inclut tout désir d'enfant irréalisable. La position contraire exige une indication médicale (Gächter/Rütsche, Droit de la santé, § 14 ch. 567).
 
 **Ch. 18** **Diagnostic préimplantatoire** : La modification constitutionnelle de 2015 ne résolut que partiellement le litige sur l'admissibilité du DPI. Restent controversés l'étendue des examens génétiques admissibles et la définition des « maladies graves » (Addor/Bühler, sic! 2004, p. 389).
 

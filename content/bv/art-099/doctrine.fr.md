@@ -20,25 +20,25 @@
 
 **N. 5** La compétence globale de la Confédération pour « la monnaie et le change » englobe selon la doctrine dominante la réglementation de tous les aspects de l'ordre monétaire: unité monétaire, moyens de paiement, stabilité de la valeur monétaire et relations monétaires internationales (Ehrenzeller/Nobs/Vallender, St. Galler Kommentar BV, Art. 99 N. 5–7).
 
-**N. 6** Le monopole de l'argent liquide (« à elle seule ») est absolu et exclut catégoriquement les monnaies cantonales ou privées. Kaufmann/Utz soulignent que ce monopole saisit aussi les monnaies régionales et les moyens de paiement privés, dans la mesure où ils remplissent des fonctions monétaires. La délimitation par rapport aux simples unités de compte ou systèmes de bons s'effectue selon des critères fonctionnels (acceptation générale, fonction de réserve de valeur, fonction de moyen d'échange).
+**N. 6** Le monopole de l'argent liquide (« à elle seule ») est absolu et exclut catégoriquement les monnaies cantonales ou privées. Une partie de la doctrine souligne que ce monopole saisit aussi les monnaies régionales et les moyens de paiement privés, dans la mesure où ils remplissent des fonctions monétaires. La délimitation par rapport aux simples unités de compte ou systèmes de bons s'effectue selon des critères fonctionnels (acceptation générale, fonction de réserve de valeur, fonction de moyen d'échange).
 
 #### b) Indépendance de la Banque nationale (al. 2)
 
-**N. 7** L'indépendance de la BNS garantie par la Constitution comprend selon la doctrine de Cukierman/Webb/Neyapti quatre dimensions: indépendance personnelle, fonctionnelle, institutionnelle et financière. Cette indépendance est selon les études empiriques une condition essentielle pour l'accomplissement réussi du mandat de stabilité des prix.
+**N. 7** L'indépendance de la BNS garantie par la Constitution comprend selon la doctrine quatre dimensions: indépendance personnelle, fonctionnelle, institutionnelle et financière. Cette indépendance est selon les études empiriques une condition essentielle pour l'accomplissement réussi du mandat de stabilité des prix.
 
-**N. 8** L'engagement dans « l'intérêt général du pays » se concrétise principalement dans le mandat légal de stabilité des prix (art. 5 al. 1 LBN), mais n'exclut pas selon Kaufmann/Utz la prise en compte de l'évolution conjoncturelle. La BNS doit orienter sa politique de manière macroéconomique et ne peut pas poursuivre unilatéralement des intérêts particuliers.
+**N. 8** L'engagement dans « l'intérêt général du pays » se concrétise principalement dans le mandat légal de stabilité des prix (art. 5 al. 1 LBN), mais n'exclut pas, selon une opinion doctrinale, la prise en compte de l'évolution conjoncturelle. La BNS doit orienter sa politique de manière macroéconomique et ne peut pas poursuivre unilatéralement des intérêts particuliers.
 
 **N. 9** La « participation et la surveillance de la Confédération » se manifestent dans la nomination de la direction de la banque par le Conseil fédéral (art. 42 LBN), l'approbation du règlement d'organisation et l'obligation de rendre compte au Conseil fédéral et au Parlement. Cette intégration préserve la légitimation démocratique tout en maintenant l'indépendance opérationnelle.
 
 #### c) Réserves monétaires (al. 3)
 
-**N. 10** L'obligation de constituer « des réserves monétaires suffisantes » est une prescription constitutionnelle sans quantification précise. Selon Kaufmann/Utz, l'adéquation comprend tant la hauteur que la composition des réserves. La BNS dispose d'une marge d'appréciation considérable pour déterminer le niveau de réserves nécessaire.
+**N. 10** L'obligation de constituer « des réserves monétaires suffisantes » est une prescription constitutionnelle sans quantification précise. Selon une opinion doctrinale, l'adéquation comprend tant la hauteur que la composition des réserves. La BNS dispose d'une marge d'appréciation considérable pour déterminer le niveau de réserves nécessaire.
 
 **N. 11** La réserve d'or (« une partie de ces réserves est détenue en or ») est constitutionnellement impérative, sans qu'une part minimale soit fixée. L'importance historique de l'or comme ancrage monétaire se reflète dans cette prescription constitutionnelle symbolique, la BNS déterminant la hauteur concrète selon des considérations de politique monétaire.
 
 #### d) Répartition du bénéfice (al. 4)
 
-**N. 12** La règle des deux tiers pour les parts cantonales au bénéfice net de la BNS est une prescription constitutionnelle impérative. Selon Kaufmann/Utz, la répartition s'effectue selon la population résidante (art. 31 LBN). Le tiers restant revient à la Confédération, la détermination et l'utilisation exactes du bénéfice étant réglées dans la LBN.
+**N. 12** La règle des deux tiers pour les parts cantonales au bénéfice net de la BNS est une prescription constitutionnelle impérative. La répartition s'effectue selon la population résidante (art. 31 LBN). Le tiers restant revient à la Confédération, la détermination et l'utilisation exactes du bénéfice étant réglées dans la LBN.
 
 ### 4. Effets juridiques
 
@@ -46,13 +46,13 @@
 
 **N. 14** L'indépendance constitutionnelle de la BNS fonde selon la doctrine de Ehrenzeller/Nobs/Vallender (St. Galler Kommentar BV, Art. 99 N. 22) une densité de contrôle judiciaire limitée de ses décisions de politique monétaire. Les tribunaux ne peuvent censurer que les mesures évidemment contraires au droit, mais pas vérifier l'opportunité de la politique monétaire.
 
-**N. 15** La prescription de réserve d'or oblige la BNS à détenir durablement un stock d'or. Selon Kaufmann/Utz, une aliénation complète des réserves d'or serait contraire à la Constitution. La hauteur de la part d'or relève cependant du pouvoir d'appréciation consciencieux de la BNS.
+**N. 15** La prescription de réserve d'or oblige la BNS à détenir durablement un stock d'or. Selon une opinion doctrinale, une aliénation complète des réserves d'or serait contraire à la Constitution. La hauteur de la part d'or relève cependant du pouvoir d'appréciation consciencieux de la BNS.
 
 **N. 16** Le droit constitutionnel des cantons à deux tiers du bénéfice net est directement exécutoire. La distribution du bénéfice s'effectue annuellement selon le bénéfice distribuable constaté conformément à la convention de distribution du bénéfice convenue entre la Confédération et la BNS.
 
 ### 5. Questions controversées
 
-**N. 17** L'étendue exacte de l'indépendance de la BNS en cas de crises d'importance systémique est controversée. Kaufmann défend la position que la responsabilité commune de la BNS et de la FINMA pour la stabilité du système exige une étroite coopération. Des voix critiques dans la doctrine (Nobel, Finanzmarktrecht, N. 847) y voient une mise en danger potentielle de l'indépendance de la politique monétaire par des interconnexions réglementaires.
+**N. 17** L'étendue exacte de l'indépendance de la BNS en cas de crises d'importance systémique est controversée. Une partie de la doctrine défend la position que la responsabilité commune de la BNS et de la FINMA pour la stabilité du système exige une étroite coopération. Des voix critiques dans la doctrine (Nobel, Finanzmarktrecht, N. 847) y voient une mise en danger potentielle de l'indépendance de la politique monétaire par des interconnexions réglementaires.
 
 **N. 18** L'admissibilité des monnaies numériques de banque centrale (CBDC) sous l'art. 99 Cst. est controversée sur le plan doctrinal. Les partisans comme Vischer (Geld- und Währungsrecht, p. 234) voient dans les CBDC une évolution technologique de l'argent liquide couverte par le monopole monétaire. Les sceptiques argumentent avec Rhinow/Schefer/Uebersax (Verfassungsrecht, N. 2851) que les CBDC soulèvent de nouvelles questions constitutionnelles concernant la protection des données et les taux négatifs.
 

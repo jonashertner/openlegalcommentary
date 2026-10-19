@@ -42,7 +42,7 @@
 
 ### 5. Streitstände
 
-**N. 16** **Reichweite der Bundeskompetenz**: In der Lehre ist umstritten, wie weit die Bundeskompetenz nach Art. 117b BV reicht. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, § 64 N. 2876) vertreten eine enge Auslegung, wonach der Bund nur punktuelle Regelungen erlassen darf. Demgegenüber plädieren Belser/Waldmann für eine weitere Auslegung, die dem Bund umfassende Regelungskompetenzen im Pflegebereich zugesteht.
+**N. 16** **Reichweite der Bundeskompetenz**: In der Lehre ist umstritten, wie weit die Bundeskompetenz nach Art. 117b BV reicht. Rhinow/Schefer/Uebersax (Schweizerisches Verfassungsrecht, 3. Aufl. 2016, § 64 N. 2876) vertreten eine enge Auslegung, wonach der Bund nur punktuelle Regelungen erlassen darf. Demgegenüber plädiert ein anderer Teil der Lehre für eine weitere Auslegung, die dem Bund umfassende Regelungskompetenzen im Pflegebereich zugesteht.
 
 **N. 17** **Verhältnis zu Art. 117a BV**: Kontrovers diskutiert wird das Verhältnis zur medizinischen Grundversorgung. Während Ehrenzeller/Schindler (St. Galler Kommentar BV, 4. Aufl. 2023, Art. 117b N. 8) eine klare Abgrenzung fordern, sehen andere Autoren die Pflege als integralen Bestandteil der Grundversorgung, was zu Überschneidungen der Kompetenzen führe.
 

@@ -18,7 +18,7 @@
 
 **N. 5** **Trattazione separata (cpv. 1)**: Il principio della trattazione separata significa che il Consiglio nazionale e il Consiglio degli Stati tengono le loro sedute separatamente e deliberano indipendentemente l'uno dall'altro. Secondo Ehrenzeller/Schindler/Schweizer/Vallender (Commentario sangallese Cost., 4ª ed. 2023, art. 156 N. 3) ciò è espressione della piena parità di diritti di entrambe le Camere e impedisce la dominanza di un Consiglio.
 
-**N. 6** **Concordanza (cpv. 2)**: Il principio del consenso richiede la concordanza di contenuto di entrambi i Consigli per ogni decreto dell'Assemblea federale. Secondo Waldmann/Belser/Epiney non basta la semplice maggioranza in un parlamento globale, ma occorrono decisioni identiche di entrambe le Camere. Ciò vale per leggi, ordinanze dell'Assemblea federale, decreti federali e decreti federali semplici (→ art. 163 Cost.).
+**N. 6** **Concordanza (cpv. 2)**: Il principio del consenso richiede la concordanza di contenuto di entrambi i Consigli per ogni decreto dell'Assemblea federale. Secondo una parte della dottrina non basta la semplice maggioranza in un parlamento globale, ma occorrono decisioni identiche di entrambe le Camere. Ciò vale per leggi, ordinanze dell'Assemblea federale, decreti federali e decreti federali semplici (→ art. 163 Cost.).
 
 **N. 7** **Procedura di appianamento delle divergenze (cpv. 3)**: La Costituzione obbliga il legislatore a prevedere una procedura che consenta una soluzione in caso di divergenze di opinione. Gli ambiti elencati nelle lett. a–d sono secondo Tschannen (in: Commentario sangallese Cost., art. 156 N. 12) esaustivi, il che significa che in altri ambiti rimane possibile un blocco da parte di un Consiglio.
 

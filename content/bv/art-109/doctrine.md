@@ -43,7 +43,7 @@ Die praktische Bedeutung ist gering geblieben; bisher erfolgten nur zwei Allgeme
 
 ### 5. Streitstände
 
-**N. 14** **Reichweite der Bundeskompetenz**: Umstritten ist die Reichweite der bundesrechtlichen Sperrwirkung. Während Cardinaux von einer umfassenden Verdrängung kantonaler Kompetenzen im gesamten Mietrecht ausgeht, vertreten Teile der Lehre eine differenziertere Betrachtung. Higi (ZK, Die Miete, 3. Aufl. 1994, Vorbem. N. 201) und Lachat (Das Mietrecht für die Praxis, N. 1.4.2) anerkennen Spielräume für kantonales öffentliches Recht, soweit es nicht in die privatrechtlichen Verhältnisse eingreift.
+**N. 14** **Reichweite der Bundeskompetenz**: Umstritten ist die Reichweite der bundesrechtlichen Sperrwirkung. Während eine Lehrmeinung von einer umfassenden Verdrängung kantonaler Kompetenzen im gesamten Mietrecht ausgeht, vertreten Teile der Lehre eine differenziertere Betrachtung. Higi (ZK, Die Miete, 3. Aufl. 1994, Vorbem. N. 201) und Lachat (Das Mietrecht für die Praxis, N. 1.4.2) anerkennen Spielräume für kantonales öffentliches Recht, soweit es nicht in die privatrechtlichen Verhältnisse eingreift.
 
 **N. 15** **Bewertungsmethoden bei Mietzinsmissbrauch**: Kontrovers diskutiert wird das Verhältnis zwischen Ertrags- und Vergleichsmietekriterium. Die herrschende Lehre (SVIT, Kommentar, Art. 269a N. 7) befürwortet ein Wahlrecht der Parteien. Eine Mindermeinung (Rossinelli, in: Bohnet/Wessner, 16. Séminaire sur le droit du bail, 2010, 175 f.) plädiert für eine kumulative Anwendung beider Kriterien zur umfassenden Missbrauchskontrolle.
 

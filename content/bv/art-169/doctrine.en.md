@@ -28,7 +28,7 @@
 
 ### 5. Points of Contention
 
-**N. 10** **Scope of oversight over the judiciary**: It is disputed how far parliamentary oversight may interfere in judicial administration. Müller/Feller advocate a narrow interpretation that only covers pure administrative activity. Lienhard (St. Galler Kommentar, Art. 169 N. 17) argues for a broader interpretation that also includes management regarding procedural duration and case management, insofar as judicial independence is preserved.
+**N. 10** **Scope of oversight over the judiciary**: It is disputed how far parliamentary oversight may interfere in judicial administration. Some commentators advocate a narrow interpretation that only covers pure administrative activity. Lienhard (St. Galler Kommentar, Art. 169 N. 17) argues for a broader interpretation that also includes management regarding procedural duration and case management, insofar as judicial independence is preserved.
 
 **N. 11** **Preventive oversight**: It is controversial whether oversight is purely retrospective or can also include preventive elements. Traditional doctrine (Häfelin/Haller/Keller/Thurnherr, Bundesstaatsrecht, 10th ed. 2020, N. 1684) emphasises the retrospective character. More recent voices (Sägesser, Regieren und Verwalten, 2019, 152; Biaggini, BV Kommentar, Art. 169 N. 7) also recognise prospective elements such as accompanying major projects.
 

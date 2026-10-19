@@ -4,7 +4,7 @@ L'art. 43a Cst. fixe les principes selon lesquels les tâches étatiques sont r�
 
 ## Qui est concerné ?
 
-Tous les niveaux étatiques — Confédération, cantons et communes — doivent respecter ces principes lors de la répartition et de l'accomplissement des tâches. Selon la doctrine unanime, cette disposition ne présente toutefois aucune justiciabilité directe (absence d'exigibilité devant les tribunaux), comme le souligne Biaggini. Les citoyennes et citoyens ne peuvent pas se prévaloir directement de l'art. 43a Cst.
+Tous les niveaux étatiques — Confédération, cantons et communes — doivent respecter ces principes lors de la répartition et de l'accomplissement des tâches. Selon la doctrine unanime, cette disposition ne présente toutefois aucune justiciabilité directe (absence d'exigibilité devant les tribunaux). Les citoyennes et citoyens ne peuvent pas se prévaloir directement de l'art. 43a Cst.
 
 ## Que règle la norme ?
 

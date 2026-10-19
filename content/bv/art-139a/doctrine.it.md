@@ -18,27 +18,27 @@
 
 ## 3. Elementi della fattispecie / Contenuto normativo
 
-**N. 7** **Obbligo di verifica (cpv. 1)**: L'Assemblea federale è obbligata a verificare, per ogni iniziativa costituzionale valida, se questa sia compatibile con il diritto internazionale. Il termine «diritto internazionale» comprende secondo Waldmann tutti gli obblighi di diritto internazionale della Svizzera, non solo il diritto internazionale imperativo nel senso dell'→ art. 139 cpv. 3 Cost.
+**N. 7** **Obbligo di verifica (cpv. 1)**: L'Assemblea federale è obbligata a verificare, per ogni iniziativa costituzionale valida, se questa sia compatibile con il diritto internazionale. Il termine «diritto internazionale» comprende secondo una parte della dottrina tutti gli obblighi di diritto internazionale della Svizzera, non solo il diritto internazionale imperativo nel senso dell'→ art. 139 cpv. 3 Cost.
 
-**N. 8** **Portata della verifica**: La verifica di compatibilità si estende ai trattati di diritto internazionale, al diritto internazionale consuetudinario e ai principi generali del diritto. Belser sottolinea che anche gli strumenti di «soft law» devono essere inclusi nella valutazione, nella misura in cui fondano obblighi concreti.
+**N. 8** **Portata della verifica**: La verifica di compatibilità si estende ai trattati di diritto internazionale, al diritto internazionale consuetudinario e ai principi generali del diritto. In dottrina si sottolinea che anche gli strumenti di «soft law» devono essere inclusi nella valutazione, nella misura in cui fondano obblighi concreti.
 
-**N. 9** **Obbligo di informazione (cpv. 3)**: Se l'Assemblea federale constata un'incompatibilità, Consiglio federale e Assemblea federale devono spiegare congiuntamente nei documenti di votazione il «significato e la portata» di un'accettazione dell'iniziativa. Questa informazione deve essere secondo Epiney oggettiva, completa e comprensibile per gli aventi diritto di voto.
+**N. 9** **Obbligo di informazione (cpv. 3)**: Se l'Assemblea federale constata un'incompatibilità, Consiglio federale e Assemblea federale devono spiegare congiuntamente nei documenti di votazione il «significato e la portata» di un'accettazione dell'iniziativa. Questa informazione deve essere secondo una parte della dottrina oggettiva, completa e comprensibile per gli aventi diritto di voto.
 
 ## 4. Conseguenze giuridiche
 
 **N. 10** **Nessuna dichiarazione di nullità**: Un'incompatibilità constatata con il diritto internazionale non imperativo non porta alla nullità dell'iniziativa. Questo distingue fondamentalmente l'art. 139a Cost. dall'→ art. 139 cpv. 3 Cost., che prevede la dichiarazione di nullità in caso di violazione del diritto internazionale imperativo.
 
-**N. 11** **Maggiore trasparenza informativa**: La principale conseguenza giuridica consiste nell'obbligo qualificato di informazione verso gli aventi diritto di voto. Waldmann vi vede un rafforzamento della formazione della volontà democratica attraverso informazione completa sulle conseguenze.
+**N. 11** **Maggiore trasparenza informativa**: La principale conseguenza giuridica consiste nell'obbligo qualificato di informazione verso gli aventi diritto di voto. Una parte della dottrina vi vede un rafforzamento della formazione della volontà democratica attraverso informazione completa sulle conseguenze.
 
-**N. 12** **Nessun effetto pregiudiziale**: La constatazione dell'incompatibilità non pregiudica secondo Belser la successiva interpretazione e applicazione di un'iniziativa accettata. Le autorità che applicano il diritto rimangono obbligate a cercare un'interpretazione conforme al diritto internazionale (→ art. 5 cpv. 4 Cost.).
+**N. 12** **Nessun effetto pregiudiziale**: La constatazione dell'incompatibilità non pregiudica secondo una parte della dottrina la successiva interpretazione e applicazione di un'iniziativa accettata. Le autorità che applicano il diritto rimangono obbligate a cercare un'interpretazione conforme al diritto internazionale (→ art. 5 cpv. 4 Cost.).
 
 ## 5. Controversie dottrinali
 
-**N. 13** **Portata dell'obbligo di verifica**: Waldmann sostiene un obbligo di verifica comprensivo per ogni iniziativa, mentre Epiney favorisce una limitazione alle iniziative con evidente potenziale di conflitto. La prassi dell'Assemblea federale tende alla verifica comprensiva.
+**N. 13** **Portata dell'obbligo di verifica**: Una parte della dottrina sostiene un obbligo di verifica comprensivo per ogni iniziativa, mentre un'altra parte favorisce una limitazione alle iniziative con evidente potenziale di conflitto. La prassi dell'Assemblea federale tende alla verifica comprensiva.
 
-**N. 14** **Giustiziabilità della verifica di compatibilità**: È controverso se la constatazione dell'Assemblea federale sulla compatibilità con il diritto internazionale sia sindacabile giudizialmente. Belser afferma un controllo limitato per arbitrio, mentre Waldmann qualifica la constatazione come atto politico senza giustiziabilità.
+**N. 14** **Giustiziabilità della verifica di compatibilità**: È controverso se la constatazione dell'Assemblea federale sulla compatibilità con il diritto internazionale sia sindacabile giudizialmente. Una parte della dottrina afferma un controllo limitato per arbitrio, mentre un'altra parte qualifica la constatazione come atto politico senza giustiziabilità.
 
-**N. 15** **Portata dell'obbligo di informazione**: È controverso quanto dettagliata debba essere l'informazione sulle possibili conseguenze di diritto internazionale. Epiney esige una rappresentazione comprensiva di tutti gli scenari pensabili, mentre Waldmann propugna per una limitazione alle conseguenze più probabili.
+**N. 15** **Portata dell'obbligo di informazione**: È controverso quanto dettagliata debba essere l'informazione sulle possibili conseguenze di diritto internazionale. Una parte della dottrina esige una rappresentazione comprensiva di tutti gli scenari pensabili, mentre un'altra parte propugna per una limitazione alle conseguenze più probabili.
 
 ## 6. Indicazioni pratiche
 

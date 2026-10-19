@@ -26,7 +26,7 @@
 
 #### Acts Subject to Referendum
 
-**N. 9** **Federal acts (lit. a)**: All formal federal acts are automatically subject to the optional referendum. Epiney/Diezig emphasise that the principle of unity of subject matter plays only a subordinate role here — unlike with popular initiatives.
+**N. 9** **Federal acts (lit. a)**: All formal federal acts are automatically subject to the optional referendum. Some commentators emphasise that the principle of unity of subject matter plays only a subordinate role here — unlike with popular initiatives.
 
 **N. 10** **Federal acts declared urgent (lit. b)**: Only urgent federal acts with a validity period of more than one year are subject to referendum. The declaration of urgency according to Art. 165 Fed. Const. initially exempts the act from referendum, but subsequently subjects it to popular vote if it has a longer duration.
 
@@ -44,13 +44,13 @@
 
 #### Termination of International Treaties
 
-**N. 15** A central point of controversy concerns the referendum obligation for termination of international treaties. Epiney/Diezig argue that weighty reasons speak for analogous application of the referendum to terminations: «Democratic legitimation is just as important for termination as for conclusion.»
+**N. 15** A central point of controversy concerns the referendum obligation for termination of international treaties. Some commentators argue that weighty reasons speak for analogous application of the referendum to terminations: «Democratic legitimation is just as important for termination as for conclusion.»
 
 **N. 16** The opposing view, represented by parts of the older doctrine, sees Art. 141 Fed. Const. as an exhaustive enumeration. Diggelmann (ZBl 2014, 291, 315) warns against extensive interpretation without clear constitutional basis.
 
 #### Standard Agreements
 
-**N. 17** The parliamentary practice of exempting certain international treaties as «standard agreements» from referendum is highly controversial. Epiney/Diezig criticise this practice as «not beyond all doubt». Diggelmann (ZBl 2014, 291, 320) even qualifies it as potentially unconstitutional.
+**N. 17** The parliamentary practice of exempting certain international treaties as «standard agreements» from referendum is highly controversial. Some commentators criticise this practice as «not beyond all doubt». Diggelmann (ZBl 2014, 291, 320) even qualifies it as potentially unconstitutional.
 
 **N. 18** Supporters of the standard agreement practice argue with practicability and the minor political significance of repetitive treaties. Mannhart Gomes (Diss. Bern 2007, 145) sees this as a permissible concretisation of the indeterminate legal concepts in Art. 141 para. 1 lit. d Fed. Const.
 

@@ -28,11 +28,11 @@
 
 ### 5. Disputed Issues
 
-**N. 10** **Scope of federal competence**: In doctrine, it is disputed how far the promotional competence of the Confederation extends. Schweizer (St. Gallen Commentary Federal Constitution, Art. 112c N. 6) represents a narrow interpretation and emphasises the subsidiary character of federal competence. Gächter/Filippo advocate for a broader interpretation that also grants the Confederation certain regulatory competences within the framework of promotion.
+**N. 10** **Scope of federal competence**: In doctrine, it is disputed how far the promotional competence of the Confederation extends. Schweizer (St. Gallen Commentary Federal Constitution, Art. 112c N. 6) represents a narrow interpretation and emphasises the subsidiary character of federal competence. Other commentators advocate for a broader interpretation that also grants the Confederation certain regulatory competences within the framework of promotion.
 
 **N. 11** **Relationship to the cantons**: The concurrent nature of the competence is undisputed, however opinions diverge on the scope of cantonal autonomy. Rhinow/Schefer/Uebersax (Swiss Constitutional Law, 3rd ed. 2016, N. 3854) emphasise the continuing main cantonal responsibility. Häfelin/Haller/Keller/Thurnherr (Swiss Federal Constitutional Law, 10th ed. 2020, N. 1285) see, however, an increased federal co-responsibility, particularly in financing.
 
-**N. 12** **Interpretation in conformity with international law**: With the ratification of the UN Convention on the Rights of Persons with Disabilities, the question has arisen to what extent Art. 112c Federal Constitution is to be interpreted in light of international law. Schefer (in: Müller/Schefer, Fundamental Rights, p. 748) demands an expansive interpretation in the sense of the Convention. Waldmann urges restraint and emphasises the difference between promotional mandate and fundamental rights obligation.
+**N. 12** **Interpretation in conformity with international law**: With the ratification of the UN Convention on the Rights of Persons with Disabilities, the question has arisen to what extent Art. 112c Federal Constitution is to be interpreted in light of international law. Schefer (in: Müller/Schefer, Fundamental Rights, p. 748) demands an expansive interpretation in the sense of the Convention. Other commentators urge restraint and emphasise the difference between promotional mandate and fundamental rights obligation.
 
 ### 6. Practical Notes
 
